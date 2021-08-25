@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-118264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-20"
-last_updated: "2021-07-08"
+last_updated: "2021-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-01-16"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 20 de enero de 2017.
 
@@ -53,229 +53,109 @@ IV. El destino y ejercicio de los recursos provenientes de financiamientos contr
 
 La Auditoría Superior de la Federación podrá fiscalizar las operaciones que involucren recursos públicos federales o participaciones federales a través de contrataciones, subsidios, transferencias, donativos, fideicomisos, fondos, mandatos, asociaciones público privadas o cualquier otra figura jurídica y el otorgamiento de garantías sobre empréstitos de estados y municipios, entre otras operaciones.
 
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO EN EL D.O.F. DE 25 DE AGOSTO DE 2021, PÁGINAS DE LA 2 A LA 6; SE ADVIERTE QUE CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 3.
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Auditoría Superior de la Federación contará con las siguientes unidades administrativas y servidores públicos:
 
+> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 Auditor Superior de la Federación
 
 Unidad Técnica de la Auditoría Superior de la Federación
 
-Dirección del Sistema Nacional de Fiscalización
+Dirección de Informes
 
-Subdirección del Sistema Nacional de Fiscalización
+Dirección de Cooperación con Entidades Federativas
 
-Dirección del Sistema Nacional Anticorrupción
+Dirección de Relaciones Multilaterales
 
-Subdirección del Sistema Nacional Anticorrupción
+Dirección de Ética e Integridad Institucional
 
-Dirección de Vinculación Internacional
+Dirección de Defensoría de Oficio en materia de Responsabilidades Administrativas Graves
 
-Subdirección de Vinculación Internacional
-
-Auditoría Interna y de Evaluación de la Gestión
-
-Dirección de Auditoría Interna y de Evaluación de la Gestión “A”
-
-Subdirección de Auditoría Interna y de Evaluación de la Gestión “A.1”
-
-Subdirección de Auditoría Interna y de Evaluación de la Gestión “A.2”
-
-Subdirección de Auditoría Interna y de Evaluación de la Gestión “A.3”
-
-Dirección de Auditoría Interna y de Evaluación de la Gestión “B”
-
-Subdirección de Auditoría Interna y de Evaluación de la Gestión “B.1”
-
-Subdirección de Auditoría Interna y de Evaluación de la Gestión “B.2”
-
-Dirección de Auditoría Interna y de Evaluación de la Gestión “C”
-
-Subdirección de Auditoría Interna y de Evaluación de la Gestión “C.1”
-
-Subdirección de Auditoría Interna y de Evaluación de la Gestión “C.2”
+Dirección de Análisis y Seguimiento de la Gestión
 
 Instituto de Capacitación y Desarrollo en Fiscalización Superior
 
 Dirección de Capacitación
 
-Subdirección de Capacitación Institucional
-
-Subdirección de Intercambio Académico
-
-Subdirección de Evaluación
-
 Dirección de Desarrollo
 
-Subdirección de Desarrollo de Competencias de Gestión
+Dirección de Innovación para el Conocimiento
 
-Subdirección de Control e Informes
+Centro de Estudios de la Auditoría Superior de la Federación
 
-Dirección de Tecnologías para el Conocimiento
+Dirección de Estudios de la Auditoría Superior de la Federación “A”
 
-Subdirección de Investigación Académica
+Dirección de Estudios de la Auditoría Superior de la Federación “B”
 
-Subdirección de Capacitación Compartida
+Dirección General de Difusión
 
-Auditoría Especial de Cumplimiento Financiero.
+Dirección de Difusión
+
+> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+Auditoría Especial de Cumplimiento Financiero
 
 Dirección General de Auditoría Financiera Federal “A”
 
 Dirección de Auditoría “A1”
 
-Subdirección de Auditoría “A1.1”
-
-Subdirección de Auditoría “A1.2”
-
 Dirección de Auditoría “A2”
-
-Subdirección de Auditoría “A2.1”
-
-Subdirección de Auditoría “A2.2”
 
 Dirección de Auditoría “A3”
 
-Subdirección de Auditoría “A3.1”
-
-Subdirección de Auditoría “A3.2”
-
 Dirección de Auditoría “A4”
-
-Subdirección de Auditoría “A4.1”
-
-Subdirección de Auditoría “A4.2”
 
 Dirección General de Auditoría Financiera Federal “B”
 
 Dirección de Auditoría “B1”
 
-Subdirección de Auditoría “B1.1”
-
-Subdirección de Auditoría “B1.2”
-
-Subdirección de Auditoría “B1.3”
-
 Dirección de Auditoría “B2”
 
-Subdirección de Auditoría “B2.1”
-
-Subdirección de Auditoría “B2.2”
-
-Subdirección de Auditoría “B2.3”
-
 Dirección de Auditoría “B3”
-
-Subdirección de Auditoría “B3.1”
-
-Subdirección de Auditoría “B3.2”
-
-Subdirección de Auditoría “B3.3”
 
 Dirección General de Auditoría Financiera Federal “C”
 
 Dirección de Auditoría “C1”
 
-Subdirección de Auditoría “C1.1”
-
-Subdirección de Auditoría “C1.2”
-
-Subdirección de Auditoría “C1.3”
-
 Dirección de Auditoría “C2”
 
-Subdirección de Auditoría “C2.1”
-
-Subdirección de Auditoría “C2.2”
-
-Subdirección de Auditoría “C2.3”
-
 Dirección de Auditoría “C3”
-
-Subdirección de Auditoría “C3.1”
-
-Subdirección de Auditoría “C3.3”
 
 Dirección General de Auditoría de Inversiones Físicas Federales
 
 Dirección de Auditoría “D1”
 
-Subdirección de Auditoría “D1.1”
-
-Subdirección de Auditoría “D1.2”
-
-Subdirección de Auditoría “D1.3”
-
 Dirección de Auditoría “D2”
-
-Subdirección de Auditoría “D2.1”
-
-Subdirección de Auditoría “D2.2”
-
-Subdirección de Auditoría “D2.3”
 
 Dirección de Auditoría “D3”
 
-Subdirección de Auditoría “D3.1”
-
-Subdirección de Auditoría “D3.2”
-
-Subdirección de Auditoría “D3.3”
-
 Dirección de Auditoría “D4”
-
-Subdirección de Auditoría “D4.1”
-
-Subdirección de Auditoría “D4.2”
-
-Subdirección de Auditoría “D4.3”
 
 Dirección de Auditoría “D5”
 
-Subdirección de Auditoría “D5.1”
+Dirección General de Auditoría Forense de Cumplimiento Financiero
 
-Subdirección de Auditoría “D5.2”
+Dirección de Auditoría Forense de Cumplimiento Financiero “A”
 
-Subdirección de Auditoría “D5.3”
+Dirección de Auditoría Forense de Cumplimiento Financiero “B”
 
-Dirección General de Auditoría Forense
-
-Dirección de Auditoría Forense “A”
-
-Subdirección de Auditoría Forense “A1”
-
-Subdirección de Auditoría Forense “A2”
-
-Dirección de Auditoría Forense “B”
-
-Subdirección de Auditoría Forense “B1”
-
-Subdirección de Auditoría Forense “B2”
-
-Dirección de Investigación Forense
-
-Subdirección de Investigación Forense “1”
-
-Subdirección de Investigación Forense “2”
+Dirección de Auditoría Forense de Cumplimiento Financiero “C”
 
 Dirección General de Auditoría de Tecnologías de Información y Comunicaciones
 
 Dirección de Auditoría de Tecnologías de Información y Comunicaciones “A”
 
-Subdirección de Auditoría de Tecnologías de Información y Comunicaciones “A.1”
-
-Subdirección de Auditoría de Tecnologías de Información y Comunicaciones “A.2”
-
 Dirección de Auditoría de Tecnologías de Información y Comunicaciones “B”
-
-Subdirección de Auditoría de Tecnologías de Información y Comunicaciones “B.1”
-
-Subdirección de Auditoría de Tecnologías de Información y Comunicaciones “B.2”
 
 Dirección de Auditoría de Tecnologías de Información y Comunicaciones “C”
 
-Subdirección de Auditoría de Tecnologías de Información y Comunicaciones “C.1”
+> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 Auditoría Especial de Desempeño
 
@@ -283,241 +163,87 @@ Dirección General de Auditoría de Desempeño al Desarrollo Económico
 
 Dirección de Auditoría de Desempeño al Desarrollo Económico “A”
 
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “A”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “B”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “C”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “D”
-
 Dirección de Auditoría de Desempeño al Desarrollo Económico “B”
 
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “E”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “F”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “G”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “H”
-
 Dirección de Auditoría de Desempeño al Desarrollo Económico “C”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “I”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Económico “J”
 
 Dirección General de Auditoría de Desempeño al Desarrollo Social
 
 Dirección de Auditoría de Desempeño al Desarrollo Social “A”
 
-Subdirección de Auditoría de Desempeño al Desarrollo Social “A”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Social “B”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Social “C”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Social “D”
-
 Dirección de Auditoría de Desempeño al Desarrollo Social “B”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Social “E”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Social “F”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Social “G”
-
-Subdirección de Auditoría de Desempeño al Desarrollo Social “H”
 
 Dirección General de Auditoría de Desempeño a Gobierno y Finanzas
 
 Dirección de Auditoría de Desempeño a Gobierno y Finanzas “A”
 
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “A”
-
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “B”
-
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “C”
-
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “D”
-
 Dirección de Auditoría de Desempeño a Gobierno y Finanzas “B”
-
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “E”
-
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “F”
-
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “G”
-
-Subdirección de Auditoría de Desempeño a Gobierno y Finanzas “H”
 
 Dirección General de Auditoría de Desempeño a Programas Presupuestarios
 
 Dirección de Auditoría de Desempeño a Programas Presupuestarios “A”
 
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “A”
-
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “B”
-
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “C”
-
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “D”
-
 Dirección de Auditoría de Desempeño a Programas Presupuestarios “B”
 
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “E”
-
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “F”
-
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “G”
-
-Subdirección de Auditoría de Desempeño a Programas Presupuestarios “H”
-
 Dirección de Evaluación a las Políticas Públicas
-
-Subdirección de Evaluación a las Políticas Públicas “A”
-
-Subdirección de Evaluación a las Políticas Públicas “B”
 
 Dirección General de Auditoría y Evaluación a los Sistemas de Control Interno
 
 Dirección de Auditoría y Evaluación a los Sistemas de Control Interno “A”
 
-Subdirección de Auditoría y Evaluación a los Sistemas de Control Interno “A.1”
-
-Subdirección de Auditoría y Evaluación a los Sistemas de Control Interno “A.2”
-
 Dirección de Auditoría y Evaluación a los Sistemas de Control Interno “B”
 
-Subdirección de Auditoría y Evaluación a los Sistemas de Control Interno “B.1”
-
-Subdirección de Auditoría y Evaluación a los Sistemas de Control Interno “B.2”
-
-Centro de Estudios de la Auditoría Superior de la Federación
-
-Dirección de Investigación Económica
-
-Subdirección de Investigación Económica
-
-Subdirección de Análisis de las Finanzas Públicas “A”
-
-Subdirección de Análisis de las Finanzas Públicas “B”
-
-Subdirección de Análisis de las Finanzas Públicas “C”
-
-Subdirección de Análisis de la Deuda Pública “A”
-
-Subdirección de Análisis de la Deuda Pública “B”
-
-Subdirección de Análisis de la Deuda Pública “C”
-
-Dirección de Análisis de Estados Financieros del Sector Público Federal
-
-Subdirección de Análisis de Estados Financieros del Sector Público Federal “A”
-
-Subdirección de Análisis de Estados Financieros del Sector Público Federal “B”
+> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 Auditoría Especial del Gasto Federalizado
+
+Dirección General de Auditoría Forense del Gasto Federalizado
+
+Dirección de Auditoría Forense del Gasto Federalizado “A”
+
+Dirección de Auditoría Forense del Gasto Federalizado “B”
+
+Dirección de Auditoría Forense del Gasto Federalizado “C”
 
 Dirección General de Evaluación del Gasto Federalizado
 
 Dirección de Evaluación del Gasto Federalizado “A”
 
-Subdirección de Evaluación del Gasto Federalizado “A.1”
-
-Subdirección de Evaluación del Gasto Federalizado “A.2”
-
 Dirección de Evaluación del Gasto Federalizado “B”
 
-Subdirección de Evaluación del Gasto Federalizado “B.1”
+Dirección General de Auditoría del Gasto Federalizado “A”
 
-Dirección General de Auditoría a los Recursos Federales Transferidos “A”
+Dirección de Auditoría del Gasto Federalizado “A1”
 
-Dirección de Auditoría a los Recursos Federales Transferidos “A1”
+Dirección de Auditoría del Gasto Federalizado “A2”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “A1.1”
+Dirección de Auditoría del Gasto Federalizado “A3”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “A1.2”
+Dirección General de Auditoría del Gasto Federalizado “B”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “A1.3”
+Dirección de Auditoría del Gasto Federalizado “B1”
 
-Dirección de Auditoría a los Recursos Federales Transferidos “A2”
+Dirección de Auditoría del Gasto Federalizado “B2”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “A2.1”
+Dirección de Auditoría del Gasto Federalizado “B3”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “A2.2”
+Dirección General de Auditoría del Gasto Federalizado “C”
 
-Dirección de Auditoría a los Recursos Federales Transferidos “A3”
+Dirección de Auditoría del Gasto Federalizado “C1”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “A3.1”
+Dirección de Auditoría del Gasto Federalizado “C2”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “A3.2”
+Dirección de Auditoría del Gasto Federalizado “C3”
 
-Dirección General de Auditoría a los Recursos Federales Transferidos “B”
+Dirección General de Auditoría del Gasto Federalizado “D”
 
-Dirección de Auditoría a los Recursos Federales Transferidos “B1”
+Dirección de Auditoría del Gasto Federalizado “D1”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “B1.1”
+Dirección de Auditoría del Gasto Federalizado “D2”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “B1.2”
+Dirección de Auditoría del Gasto Federalizado “D3”
 
-Subdirección de Auditoría a los Recursos Federales Transferidos “B1.3”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “B2”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “B2.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “B2.2”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “B3”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “B3.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “B3.2”
-
-Dirección General de Auditoría a los Recursos Federales Transferidos “C”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “C1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “C1.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “C1.2”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “C1.3”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “C2”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “C2.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “C2.2”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “C3”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “C3.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “C3.2”
-
-Dirección General de Auditoría a los Recursos Federales Transferidos “D”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “D1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “D1.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “D1.2”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “D1.3”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “D2”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “D2.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “D2.2”
-
-Dirección de Auditoría a los Recursos Federales Transferidos “D3”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “D3.1”
-
-Subdirección de Auditoría a los Recursos Federales Transferidos “D3.2”
+> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 Auditoría Especial de Seguimiento, Informes e Investigación
 
@@ -525,59 +251,27 @@ Dirección General de Seguimiento “A”
 
 Dirección de Seguimiento “A.1”
 
-Subdirección de Seguimiento “A.1.1”
-
-Subdirección de Seguimiento “A.1.2”
-
 Dirección de Seguimiento “A.2”
-
-Subdirección de Seguimiento “A.2.1”
-
-Subdirección de Seguimiento “A.2.2”
 
 Dirección General de Seguimiento “B”
 
 Dirección de Seguimiento “B.1”
 
-Subdirección de Seguimiento “B.1.1”
-
-Subdirección de Seguimiento “B.1.2
-
 Dirección de Seguimiento “B.2”
-
-Subdirección de Seguimiento “B.2.1”
-
-Subdirección de Seguimiento “B.2.2”
 
 Dirección General de Informes, Control y Registro
 
 Dirección Editorial de Informes de Auditoría
 
-Subdirección de Integración Editorial
-
-Subdirección de Revisión
-
 Dirección de Control y Registro
-
-Subdirección de Control
-
-Subdirección de Registro de Documentación
-
-Subdirección de Informes
 
 Dirección General de Investigación
 
 Dirección de Investigación “A”
 
-Subdirección de Investigación “A1”
-
-Subdirección de Investigación “A2”
-
 Dirección de Investigación “B”
 
-Subdirección de Investigación “B1”
-
-Subdirección de Investigación “B2”
+Dirección de Investigación “C”
 
 Unidad de Asuntos Jurídicos
 
@@ -585,283 +279,127 @@ Dirección General Jurídica
 
 Dirección Jurídica “A”
 
-Subdirección Jurídica “A1”
-
-Subdirección Jurídica “A2”
-
-Subdirección Jurídica “A3”
-
 Dirección Jurídica “B”
-
-Subdirección Jurídica “B1”
-
-Subdirección Jurídica “B2”
 
 Dirección Jurídica “C”
 
-Subdirección Jurídica “C1”
-
-Subdirección Jurídica “C2”
+Dirección Jurídica “D”
 
 Dirección General de Responsabilidades
 
 Dirección de Responsabilidades “A”
 
-Subdirección de Responsabilidades “A1”
-
-Subdirección de Responsabilidades “A2”
-
-Subdirección de Responsabilidades “A3”
-
 Dirección de Responsabilidades “B”
-
-Subdirección de Responsabilidades “B1”
-
-Subdirección de Responsabilidades “B2”
-
-Subdirección de Responsabilidades “B3”
 
 Dirección de Responsabilidades “C”
 
-Subdirección de Responsabilidades “C1”
-
-Subdirección de Responsabilidades “C2”
-
-Subdirección de Responsabilidades “C3”
-
 Dirección de Responsabilidades “D”
-
-Subdirección de Responsabilidades “D1”
-
-Subdirección de Responsabilidades “D2”
 
 Dirección General de Responsabilidades a los Recursos Federales en Estados y Municipios
 
 Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “A”
 
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “A1”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “A2”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “A3”
-
 Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “B”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “B1”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “B2”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “B3”
 
 Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “C”
 
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “C1”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “C2”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “C3”
-
 Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “D”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “D1”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “D2”
-
-Subdirección de Responsabilidades a los Recursos Federales en Estados y Municipios “D3”
 
 Dirección General de Substanciación
 
 Dirección de Substanciación “A”
 
-Subdirección de Substanciación “A1”
-
-Subdirección de Substanciación “A2”
-
 Dirección de Substanciación “B”
-
-Subdirección de Substanciación “B1”
-
-Subdirección de Substanciación “B2”
 
 Unidad General de Administración
 
-Dirección de Apoyo Jurídico
-
-Subdirección de Apoyo Jurídico
-
 Dirección General de Recursos Humanos
+
+Dirección de Relaciones Laborales
 
 Dirección de Reclutamiento, Selección y Seguimiento
 
-Subdirección de Reclutamiento, Selección y Seguimiento “1”
-
-Subdirección de Reclutamiento, Selección y Seguimiento “2”
-
-Subdirección de Reclutamiento, Selección y Seguimiento “3”
-
 Dirección de Administración de Personal
 
-Subdirección de Servicios al Personal “1”
-
-Subdirección de Servicios al Personal “2”
-
-Subdirección de Servicios al Personal “3”
-
 Dirección de Planeación, Normatividad y Desarrollo
-
-Subdirección de Planeación, Normatividad y Desarrollo “1”
-
-Subdirección de Planeación, Normatividad y Desarrollo “2”
 
 Dirección General de Recursos Materiales y Servicios
 
 Dirección de Recursos Materiales
 
-Subdirección de Abastecimientos
-
-Subdirección de Administración de Documentos
-
 Dirección de Servicios
 
-Subdirección de Servicios Administrativos
-
-Subdirección de Servicios Técnicos
+Dirección de Contratos y Convenios
 
 Dirección de Infraestructura
-
-Subdirección de Infraestructura
 
 Dirección General de Recursos Financieros
 
 Dirección de Presupuesto y Control
 
-Subdirección de Presupuesto
-
-Subdirección de Control de Pagos
-
 Dirección de Contabilidad y Finanzas
 
-Subdirección de Contabilidad
-
-Subdirección de Tesorería
-
-Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas
-
-Dirección General de Homologación Legislativa y Normatividad
-
-Dirección de Normatividad
-
-Subdirección de Procesos
-
-Subdirección de Metodologías
-
-Dirección de Armonización con Entidades Federativas del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización
-
-Subdirección de Armonización del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización
-
-Dirección de Análisis Legislativo del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización
-
-Subdirección de Análisis Legislativo del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización
-
-Dirección de Vinculación con Entidades Federativas del Sistema Nacional Anticorrupción, del Sistema Nacional de Fiscalización y del Sistema Nacional de Transparencia
-
-Subdirección de Vinculación con Entidades Federativas del Sistema Nacional Anticorrupción, del Sistema Nacional de Fiscalización y del Sistema Nacional de Transparencia
-
-Dirección General de Planeación Estratégica
-
-Dirección de Planeación y Programación de Auditorías
-
-Subdirección de Planeación de Auditorías “A”
-
-Subdirección de Planeación de Auditorías “B”
-
-Subdirección de Programación de Auditorías
-
-Dirección de Planeación y Programación Estratégica
-
-Subdirección de Planeación Estratégica “A”
-
-Subdirección de Planeación Estratégica “B”
-
-Subdirección de Programación Estratégica
-
-Dirección General de Transparencia
-
-Dirección de Transparencia, Acceso a la Información y Protección de Datos
-
-Subdirección de Acceso a la Información
-
-Subdirección de Protección de Datos
-
-Dirección de Colaboración Institucional y Vinculación con el Sistema Nacional de Transparencia
-
-Subdirección de Vinculación con el Sistema Nacional de Transparencia
+Dirección de Desarrollo y Operación
 
 Dirección General de Sistemas
 
 Dirección de Desarrollo de Sistemas
 
-Subdirección de Desarrollo de Sistemas “A”
-
-Subdirección de Desarrollo de Sistemas “B”
-
 Dirección de Infraestructura Tecnológica
-
-Subdirección de Servicios de Cómputo
-
-Subdirección de Seguridad y Control de Riesgos
-
-Subdirección de Telecomunicaciones
 
 Dirección de Operación de Sistemas
 
-Subdirección de Soluciones Integrales
+Unidad de Normatividad y Enlace Legislativo
 
-Subdirección de Control Operativo de Sistemas
+Dirección General de Normatividad y Enlace Legislativo
 
-Unidad de Enlace Legislativo y Relaciones Institucionales
+Dirección de Normatividad
 
-Dirección General de Enlace Legislativo
+Dirección de Homologación y Análisis Legislativo “A”
 
-Dirección de Enlace Legislativo “A”
+Dirección de Homologación y Análisis Legislativo “B”
 
-Subdirección de Enlace Legislativo “A”
+Dirección de Enlace Legislativo
 
-Dirección de Enlace Legislativo “B”
+Dirección General de Planeación y Evaluación
 
-Subdirección de Enlace Legislativo “B”
+Dirección de Planeación y Programación de Auditorías
 
-Dirección de Enlace Legislativo “C”
+Dirección de Planeación y Programación Estratégica
 
-Subdirección de Enlace Legislativo “C”
+Dirección de Monitoreo y Evaluación
 
-Dirección de Enlace Legislativo “D”
+Dirección General de Transparencia
 
-Subdirección de Enlace Legislativo “D”
+Dirección de Transparencia, Acceso a la Información y Protección de Datos
 
-Dirección General de Relaciones Institucionales y Difusión
+Dirección de Atención a la Promoción de los Derechos de Acceso a la Información y Protección de Datos
 
-Dirección de Relaciones Institucionales y Difusión
+Dirección de Colaboración Institucional y Vinculación con el Sistema Nacional de Transparencia
 
-Subdirección de Relaciones Institucionales y Difusión
+Unidad de Igualdad de Género y Cultura de la Fiscalización
 
-Subdirección de Diseño Editorial
+Dirección General de Igualdad de Género y Cultura de la Fiscalización “A”
 
-Jefes de Departamento, Coordinadores de Auditores, Auditores, Asesores, Secretarios Técnicos, Vigilantes, Supervisores de área administrativa y técnica, Trabajadores de Base y demás personal que se requiera para satisfacer las necesidades del servicio.
+Dirección de Igualdad de Género y Cultura de la Fiscalización “A1”
+
+Dirección General de Igualdad de Género y Cultura de la Fiscalización “B”
+
+Dirección de Igualdad de Género y Cultura de la Fiscalización “B1”
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+Subdirectores, Jefes de Departamento, Coordinadores de Auditores, Auditores, Asesores, Secretarios Técnicos, Vigilantes, Supervisores de área administrativa y técnica, Trabajadores de Base y demás personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
 La denominación, organización y funciones de las unidades administrativas que no se señalen en este Reglamento, se precisarán en el Manual de Organización de la Auditoría Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 4.
 
 La Auditoría Superior de la Federación conducirá sus actividades en forma programada y conforme a las políticas que, para el logro de los objetivos institucionales, establezca el Auditor Superior de la Federación.
-
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
-
-Se establece un Consejo de Dirección como órgano de consulta, análisis y acuerdo de las estrategias institucionales de la Auditoría Superior de la Federación, presidido por el Auditor Superior de la Federación e integrado por los Auditores Especiales, los Titulares de Unidad, el Titular de la Unidad Técnica de la Auditoría Superior de la Federación y el Auditor Interno y de Evaluación de la Gestión, como miembros permanentes.
-
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
-
-Los directores generales podrán participar en las reuniones del Consejo de Dirección cuando sean invitados o suplan a alguno de los miembros permanentes. En el caso del Titular de la Unidad Técnica de la Auditoría Superior de la Federación y del Auditor Interno y de Evaluación de la Gestión, serán suplidos por el Director de Área que para tal efecto se determine.
 
 ###### Artículo 5.
 
@@ -875,7 +413,9 @@ II. Establecer los lineamientos técnicos y criterios para las auditorías y su 
 
 II Bis. Implementar el Buzón Digital de la Auditoría Superior de la Federación, así como las herramientas tecnológicas que sean necesarias para llevar a cabo el proceso de fiscalización superior por medios electrónicos;
 
-III. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y la Ley Federal de Archivos las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica eficiente de las auditorías;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+III. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y de la Ley General de Archivos, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica eficiente de las auditorías;
 
 IV. Proponer al Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, modificaciones a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes;
 
@@ -935,11 +475,9 @@ XXIX. Solicitar a través de medios físicos o electrónicos mediante herramient
 
 XXX. Las demás que le sean conferidas por las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-### Capítulo II
-
-De las Atribuciones del Auditor Superior de la Federación, del Titular de la Unidad Técnica de la Auditoría Superior de la Federación, del Auditor Interno y de Evaluación de la Gestión y del Titular del Instituto de Capacitación y Desarrollo en Fiscalización Superior
+### Capítulo II. De las Atribuciones del Auditor Superior de la Federación y del Titular de la Unidad Técnica de la Auditoría Superior de la Federación
 
 ###### Artículo 6.
 
@@ -953,7 +491,9 @@ El Auditor Superior de la Federación tendrá las siguientes atribuciones que po
 
 I. Representar a la Auditoría Superior de la Federación ante las entidades fiscalizadas, autoridades federales y locales, entidades federativas, municipios y alcaldías de la Ciudad de México y demás personas físicas y morales, públicas o privadas;
 
-II. Administrar los bienes y recursos a cargo de la Auditoría Superior de la Federación y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la misma, sujetándose a lo dispuesto en el artículo 134 Constitucional, sus leyes reglamentarias y a lo previsto en la Ley General de Bienes Nacionales, así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público de la Federación, afectos a su servicio;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+II. Administrar los bienes y recursos a cargo de la Auditoría Superior de la Federación y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la misma, sujetándose a lo dispuesto en el artículo 134 Constitucional, sus leyes reglamentarias y a lo previsto en la Ley General de Bienes Nacionales, así como gestionar la incorporación, destino y desincorporación de bienes muebles e inmuebles del dominio público de la Federación, afectos a su servicio;
 
 III. Ser el enlace entre la Auditoría Superior de la Federación y la Comisión;
 
@@ -1069,29 +609,39 @@ II. Definir y elaborar presentaciones y mensajes de la Auditoría Superior de la
 
 III. Definir el contenido y alcance de documentos técnicos con los que participe la Auditoría Superior de la Federación en foros nacionales e internacionales;
 
-IV. Coordinar y dar seguimiento a las reuniones del Consejo de Dirección de la Auditoría Superior de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-V. Organizar, coordinar y dar seguimiento a las reuniones del Comité de Integridad de la Auditoría Superior de la Federación;
+IV. Promover la observancia de la Política de Integridad de la Auditoría Superior de la Federación;
 
-VI. Coordinar la participación de la Auditoría Superior de la Federación en el Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VII. Coordinar el seguimiento de los compromisos adquiridos por la Auditoría Superior de la Federación en el Sistema Nacional Anticorrupción;
+V. Organizar, coordinar, presidir y dar seguimiento a las reuniones del Comité de Integridad de la Auditoría Superior de la Federación, el cual se integra además de la Unidad Técnica, por las personas Titulares de cada una de las Auditorías Especiales, Unidad de Asuntos Jurídicos, Unidad General de Administración y Unidad de Normatividad y Enlace Legislativo;
 
-VIII. Coordinar la participación de la Auditoría Superior de la Federación en el Sistema Nacional de Fiscalización;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-IX. Coordinar la elaboración de los programas de trabajo, agendas y documentos técnicos relacionados con la participación de la Auditoría Superior de la Federación en el Sistema Nacional de Fiscalización;
+VI. Coordinar la participación de la Auditoría Superior de la Federación en los organismos de cooperación institucional que se le instruya por su superior jerárquico;
 
-X. Coordinar la elaboración del informe anual del Sistema Nacional de Fiscalización ante el Comité Coordinador del Sistema Nacional Anticorrupción;
+VII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-XI. Fungir como Unidad Técnica en las reuniones de la Asociación Nacional de Organismos de Fiscalización y Control Gubernamental;
+VIII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+
+IX. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+
+X. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+
+XI. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 XII. Diseñar y, en su caso, actualizar, la metodología para la identificación de las áreas claves con riesgo detectadas en la fiscalización superior en el contexto del artículo 34, fracción II, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
-XIII. Dirigir y coordinar la adecuación, traducción y redacción de las normas profesionales de auditoría emitidas por la Organización Internacional de las Entidades Fiscalizadoras Superiores, para su adopción por parte de los integrantes del Sistema Nacional de Fiscalización, en términos del artículo 42 de la Ley General del Sistema Nacional Anticorrupción;
+XIII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 XIV. Planear, acordar, dirigir y coordinar las acciones de colaboración interinstitucional en materia de fiscalización superior que desarrolle la Auditoría Superior de la Federación en el ámbito internacional, incluyendo la Organización Internacional de las Entidades Fiscalizadoras Superiores, Organización Latinoamericana y del Caribe de Entidades Fiscalizadoras Superiores, entre otros organismos, así como las entidades de fiscalización superior de otros países;
 
-XV. Dirigir y coordinar la participación de la Auditoría Superior de la Federación en las reuniones del Consejo Nacional de Armonización Contable;
+XV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XV Bis. Coordinar las funciones de las áreas de su adscripción;
 
 XVI. Expedir copias certificadas de constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
 
@@ -1101,113 +651,21 @@ XVIII. Adscribir, remover, cambiar de adscripción, comisionar y reasignar a los
 
 XIX. Las demás que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encargue el Auditor Superior de la Federación.
 
-El Titular de la Unidad Técnica de la Auditoría Superior de la Federación para el despacho de los asuntos de su competencia será auxiliado por los Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores señalados en el artículo 3 de este Reglamento; así como por los Secretarios Técnicos, Administrativos, Apoyos Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+El Titular de la Unidad Técnica de la Auditoría Superior de la Federación para el despacho de los asuntos de su competencia será auxiliado por los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores señalados en el artículo 3 de este Reglamento; así como por los Secretarios Técnicos, Administrativos, Apoyos Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
 
 ###### Artículo 11.
 
-La Auditoría Interna y de Evaluación de la Gestión estará adscrita a la Oficina del Auditor Superior de la Federación y su titular tendrá, sin perjuicio de lo dispuesto en otros artículos de este Reglamento, las siguientes atribuciones:
-
-I. Realizar evaluaciones periódicas para determinar que los procesos de gobernanza, administración de riesgos y control interno institucionales, proporcionan una seguridad razonable sobre el cumplimiento del mandato y los objetivos estratégicos de la Auditoría Superior de la Federación;
-
-II. Verificar que las atribuciones de la Auditoría Superior de la Federación son ejercidas conforme a los procedimientos y normativa interna, así como con apego a las leyes y reglamentos aplicables, para lo cual podrá requerir información y documentación a todas las áreas y unidades administrativas de la Auditoría Superior de la Federación;
-
-III. Realizar las auditorías, evaluaciones y análisis que determine, a fin de formular recomendaciones y sugerencias ante el Auditor Superior de la Federación para la mejora de los sistemas y procesos sustantivos y administrativos en la Auditoría Superior de la Federación;
-
-IV. Emitir a las áreas auditadas recomendaciones derivadas de sus auditorías y evaluaciones internas, asesorarlas en la implementación, así como dar seguimiento;
-
-V. Realizar auditorías internas al Sistema de Gestión de Calidad para verificar que su operación es acorde con las normas y directrices aplicables;
-
-VI. Supervisar los programas y políticas internas que tengan por objeto fortalecer la integridad, la transparencia y la rendición de cuentas en la Auditoría Superior de la Federación, y someter a la consideración del Auditor Superior de la Federación las propuestas de mejora respectivas;
-
-VII. Verificar que la actuación de los servidores públicos es acorde con los programas, políticas y normas éticas de la Auditoría Superior de la Federación y de la legislación aplicable;
-
-VIII. Constatar la confiabilidad y oportunidad de la información financiera y operativa relevante de la Auditoría Superior de la Federación;
-
-IX. Evaluar que los recursos de la Auditoría Superior de la Federación se ejercen con eficacia, eficiencia y economía;
-
-X. Coordinar la definición de indicadores estratégicos y de gestión que permitan evaluar el desempeño de las diversas áreas y unidades administrativas de la Auditoría Superior de la Federación;
-
-XI. Coordinar la integración del Programa Anual de Actividades de la Auditoría Superior de la Federación, verificar periódicamente su cumplimiento, e informar al Auditor Superior de la Federación del avance en la consecución de las metas y objetivos institucionales contenidos en el mismo;
-
-XII. Participar en los procesos de afectación, enajenación, baja documental, donación y destino final de bienes muebles de la Auditoría Superior de la Federación;
-
-XIII. Coordinar y atestiguar los actos de entrega-recepción de los asuntos, cargos y comisiones conferidos a los servidores públicos de mando medio y superior, para que se efectúen de acuerdo con la normativa aplicable, a fin de que el proceso de transición asegure la continuidad de la prestación y calidad de los servicios;
-
-XIV. Coadyuvar con la Unidad de Evaluación y Control en los actos de entrega-recepción de los asuntos, cargos y comisiones conferidos a los servidores públicos de mando superior de la Auditoría Superior de la Federación;
-
-XV. Coordinar la elaboración de las actas circunstanciadas derivadas de posibles incumplimientos o actos irregulares cometidos por el personal de la Auditoría Superior de la Federación, así como por la falta de entrega de los asuntos, cargos y comisiones que se les haya encomendado;
-
-XVI. Participar en los comités y grupos de trabajo que así lo determine la normativa aplicable, así como en los que sea designado por el Auditor Superior de la Federación;
-
-XVII. Verificar la confiabilidad de la información sobre las recuperaciones derivadas de la revisión de la Cuenta Pública, y de su documentación soporte así como proponer mejoras para la integración de éstas;
-
-XVIII. Llevar los registros de los asuntos de su competencia;
-
-XIX. Designar al personal de confianza de las áreas a su cargo, así como tramitar ante la Unidad General de Administración la terminación de los efectos de dichos nombramientos cuando procedan, acompañando los documentos que acrediten las razones de dicha terminación, en los términos de las disposiciones jurídicas aplicables;
-
-XX. Adscribir, remover, cambiar de adscripción, comisionar y reasignar a los servidores públicos de las unidades administrativas que dependan de él, para lo cual deberán de informar a la Dirección General de Recursos Humanos para los efectos administrativos correspondientes;
-
-XXI. Expedir copias certificadas de constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental, y
-
-XXII. Las demás que en el ámbito de su competencia establezcan las disposiciones jurídicas aplicables o le encargue el Auditor Superior de la Federación.
-
-El Auditor Interno y de Evaluación de la Gestión para el despacho de los asuntos de su competencia, será auxiliado por los Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores señalados en el artículo 3 de este Reglamento; así como por los Secretarios Técnicos, Administrativos, Apoyos Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+(DEROGADO, D.O.F. 25 DE AGOSTO DE 2021)
 
 ###### Artículo 11 Bis.
 
-La Auditoría Superior de la Federación contará con un Instituto de Capacitación y Desarrollo en Fiscalización Superior, el cual tendrá una Junta Académica cuya integración y funcionamiento se determinará mediante el Lineamiento que para tal efecto se emita.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+(DEROGADO, D.O.F. 25 DE AGOSTO DE 2021)
 
 ###### Artículo 11 Ter.
 
-El Instituto de Capacitación y Desarrollo en Fiscalización Superior, a través de su titular, ejercerá las atribuciones siguientes:
-
-I. Actualizar las políticas, normas y lineamientos en materia de capacitación, investigación, desarrollo y transferencia de conocimiento y verificar su aplicación;
-
-II. Identificar las necesidades de capacitación requeridas por las diferentes áreas de la Auditoría Superior de la Federación;
-
-III. Elaborar en coordinación con las unidades administrativas el Plan Anual de Capacitación y Desarrollo de la Auditoría Superior de la Federación;
-
-IV. Implementar los programas, cursos y actividades contenidos en el Plan Anual de Capacitación y Desarrollo, así como otras acciones de capacitación que se acuerden con las unidades administrativas, conforme a los lineamientos y normas aplicables;
-
-V. Contratar cursos y servicios externos en materia de capacitación que se requieran;
-
-VI. Evaluar el desempeño de los instructores y los resultados de los cursos impartidos, así como promover la formación de instructores internos;
-
-VII. Evaluar el aprendizaje del personal capacitado y la transferencia e impacto de la capacitación en las actividades que realiza;
-
-VIII. Coordinar las investigaciones académicas internas y externas, en materia de fiscalización superior;
-
-IX. Participar en el funcionamiento del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación, conforme lo establezca el Estatuto y normativa correspondiente;
-
-X. Realizar las actividades de profesionalización y evaluación de conocimientos al personal del Servicio Fiscalizador de Carrera;
-
-XI. Llevar a cabo la selección de instructores para la impartición de cursos a cargo del Instituto de Capacitación y Desarrollo en Fiscalización Superior, y tramitar su contratación conforme a las disposiciones legales aplicables;
-
-XII. Realizar los estudios e investigaciones en temas vinculados con las funciones de la Auditoría Superior de la Federación, que le sean requeridos;
-
-XIII. Definir los temas y coordinar la elaboración de las publicaciones y estudios que edite la Auditoría Superior de la Federación y que sean realizados por académicos o expertos;
-
-XIV. Dirigir y supervisar el Centro de Documentación Institucional;
-
-XV. Suscribir a nombre y representación de la Auditoría Superior de la Federación, los convenios, contratos, acuerdos y cualquier otro instrumento jurídico necesario, relacionado con la capacitación, en estricto apego a las disposiciones jurídicas que rijan la materia;
-
-XVI. Proponer, coordinar y actualizar los convenios de intercambio en materia de capacitación, investigación, desarrollo y transferencia de conocimiento con otras instituciones afines, nacionales o internacionales;
-
-XVII. Sostener relaciones de intercambio, consejo y promoción con organismos similares, nacionales e internacionales;
-
-XVIII. Expedir copias certificadas de constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
-
-XIX. Designar al personal de confianza de las áreas a su cargo, así como tramitar ante la Unidad General de Administración la terminación de los efectos de dichos nombramientos cuando procedan, acompañando los documentos que acrediten las razones de dicha terminación, en los términos de las disposiciones jurídicas aplicables;
-
-XX. Adscribir, remover, cambiar de adscripción, comisionar y reasignar a los servidores públicos de las unidades administrativas que dependan de él, para lo cual deberá de informar a la Dirección General de Recursos Humanos para los efectos administrativos correspondientes, y
-
-XXI. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables o le encargue el Auditor Superior de la Federación.
-
-El Titular del Instituto de Capacitación y Desarrollo en Fiscalización Superior para el despacho de los asuntos de su competencia será auxiliado por los Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores señalados en el artículo 3 de este Reglamento; así como por los Secretarios Técnicos, Administrativos, Apoyos Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
+(DEROGADO, D.O.F. 25 DE AGOSTO DE 2021)
 
 ### Capítulo III. De las Atribuciones de los Auditores Especiales
 
@@ -1229,7 +687,9 @@ VI. Requerir a los auditores externos copia de los informes y dictámenes de las
 
 VII. Requerir a terceros que hubieran contratado con las entidades fiscalizadas obra pública, bienes o servicios, a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratadas por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos a fin de realizar la función de fiscalización;
 
-VIII. Solicitar, obtener y tener acceso a toda la informaciyn (sic) y documentaciyn (sic), que a su juicio sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el car6cter (sic) de confidencial o reservado de la misma, en poder de las entidades fiscalizadas, en la Secretaría de la Función Pública y homólogas en las entidades federativas, los órganos internos de control, las entidades fiscalizadoras locales, los auditores externos de las entidades fiscalizadas, fideicomisos u otras figuras del sector financiero, y las autoridades hacendarias federales y locales;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VIII. Solicitar, obtener y tener acceso a toda la información y documentación, que a su juicio sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, en poder de las entidades fiscalizadas, en la Secretaría de la Función Pública y homólogas en las entidades federativas, los órganos internos de control, las entidades fiscalizadoras locales, los auditores externos de las entidades fiscalizadas, fideicomisos u otras figuras del sector financiero, y las autoridades hacendarias federales y locales;
 
 IX. Solicitar, la información que las disposiciones legales consideren de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos federales y la deuda pública, estando obligados a mantener la misma reserva;
 
@@ -1243,7 +703,9 @@ XIII. Comisionar a los auditores encargados de practicar las auditorías a su ca
 
 XIV. Celebrar los contratos a que se refiere el artículo 26 de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
-XV. Coordinar y supervisar las auditorías practicadas por las direcciones generales y otras unidades administrativas auditoras a su cargo, y mantener informado al Auditor Superior de la Federación sobre el desarrollo de sus actividades;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XV. Coordinar y supervisar las auditorías practicadas por las unidades administrativas a su cargo, y mantener informado al Auditor Superior de la Federación sobre el desarrollo de sus actividades;
 
 XVI. Verificar que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
@@ -1285,7 +747,7 @@ XXXII. Autorizar los proyectos de informes de auditoría, estudios, análisis, d
 
 XXXIII. Formular, en su caso, la parte conducente del Informe General;
 
-XXXIV. Presentar por sí o mediante sus direcciones generales, las denuncias penales que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos; así como coadyuvar en los procesos penales, tanto en la etapa de investigación como en la judicial;
+XXXIV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 XXXV. Presentar por sí o mediante sus direcciones generales, denuncias de juicio político de conformidad con lo señalado en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, como resultado de las irregularidades detectadas con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos;
 
@@ -1303,7 +765,13 @@ XLI. Vigilar el cumplimiento de la normativa aplicable al funcionamiento de las 
 
 XLII. Vigilar el cumplimiento de las disposiciones laborales y de la normativa aplicable al funcionamiento de las direcciones generales de su adscripción y, en su caso, proponer las modificaciones procedentes;
 
-XLIII. Participar en la organización y funcionamiento del Sistema de Gestión de la Calidad de la Auditoría Superior de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XLIII. Participar en la elaboración, organización y funcionamiento del Plan Estratégico y del Sistema de Gestión de la Calidad en la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XLIII Bis. Instruir a los Directores Generales, Directores, Subdirectores, Jefes de Departamento y demás personal, el cumplimiento de las metas y objetivos comprometidos en el Plan Estratégico de la Auditoría Superior de la Federación y participar en las reuniones de seguimiento y evaluación;
 
 XLIV. Participar en el Sistema Nacional de Transparencia y en el Sistema Nacional de Fiscalización;
 
@@ -1323,9 +791,11 @@ LI. Asistir y participar en los comités, comisiones o grupos de trabajo que les
 
 LII. Crear, modificar o suprimir, en el ámbito de su competencia los comités internos que estimen convenientes para la adecuada coordinación de sus actividades, así como emitir las normas para su organización y funcionamiento;
 
-LIII. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y de la Ley Federal de Archivos las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad, así como las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública y todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica eficiente de las auditorías;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-LIV. Someter a consideración del Auditor Superior de la Federación las propuestas de modificación que deban enviarse al Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, relativas a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes;
+LIII. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y de la Ley General de Archivos, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad, así como las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública y todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica eficiente de las auditorías;
+
+LIV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 LV. Presentar al Auditor Superior de la Federación las propuestas que se deriven de las auditorías y de los análisis de su competencia, que representen sugerencias a la Cámara para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de las entidades fiscalizadas;
 
@@ -1347,11 +817,13 @@ LXII. Solicitar a las entidades fiscalizadas información del ejercicio en curso
 
 LXIII. Las demás que en el ámbito de su competencia les establezcan las disposiciones jurídicas aplicables o les encargue el Auditor Superior de la Federación.
 
-Los Auditores Especiales para el despacho de los asuntos de su competencia serán auxiliados por los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores y demás servidores públicos señalados en el artículo 3 de este Reglamento; así como por los Grupos de Asesores, Consultores, Secretarios Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+Los Auditores Especiales para el despacho de los asuntos de su competencia serán auxiliados por los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores, Auditores y demás servidores públicos señalados en el artículo 3 de este Reglamento; así como por los Grupos de Asesores, Secretarios Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
 
-Las atribuciones a que hacen referencia las fracciones VII, VIII, IX, XVI, XVII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, LVI, LXI, LXII y LXIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones III, VII, VIII, IX, XVI, XVII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, LVI, LXI, LXII y LXIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 13.
 
@@ -1371,7 +843,9 @@ III Bis. Coordinar y supervisar la práctica de las auditorías, estudios, anál
 
 III Ter. Promover la emisión de criterios y disposiciones que tiendan a mejorar y fortalecer el uso y aprovechamiento de los recursos asignados a los sistemas de tecnologías de información y comunicaciones;
 
-IV. Coordinar y supervisar la práctica de auditorías forenses;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+IV. Coordinar y supervisar la práctica de auditorías forenses, en el ámbito de su competencia;
 
 V. Ordenar y supervisar la práctica de exámenes a los sistemas administrativos y mecanismos de control interno de las entidades fiscalizadas para constatar que existen, se aplican y están correctamente diseñados para salvaguardar sus activos y recursos;
 
@@ -1423,7 +897,9 @@ VII. Constatar que los programas y proyectos sujetos a verificación, se hayan c
 
 VIII. Verificar que en las auditorías de desempeño y en las evaluaciones a las políticas públicas se haya evaluado el cumplimiento de los objetivos y metas fijados en los programas federales y programas presupuestarios, conforme a los indicadores estratégicos y de gestión establecidos en el Presupuesto de Egresos, en congruencia con las disposiciones del Plan Nacional de Desarrollo, los programas nacionales, sectoriales, institucionales, regionales y especiales, a efecto de revisar el desempeño en el ejercicio de los recursos públicos federales conforme a las disposiciones jurídicas aplicables. Lo anterior, con independencia de las atribuciones similares que tengan otras instancias;
 
-IX. Autorizar la normativa para la realización de las auditorías de desempeño, estudios y evaluación de políticas públicas de su competencia, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+IX. Autorizar la normativa para la realización de las auditorías de desempeño, estudios y evaluación de políticas públicas de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -1437,9 +913,7 @@ IX Ter. Coordinar y supervisar la práctica de las auditorías, estudios, análi
 
 IX Quater. Promover la coordinación con los órganos internos de control, las unidades de auditoría interna y las contralorías o instancias homólogas, así como con las dependencias globalizadoras responsables de la contabilidad y auditoría gubernamentales, a efecto de intercambiar información y, de este modo, mejorar la calidad de las revisiones practicadas por la Auditoría Superior de la Federación;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
-
-IX Quiquies. Coordinar las funciones del Centro de Estudios de la Auditoría Superior de la Federación;
+IX Quiquies (sic). (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 X. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
@@ -1473,6 +947,18 @@ VIII. Aprobar el desarrollo de nuevas metodologías, técnicas y procedimientos 
 
 IX. Establecer y mantener la comunicación y colaboración con las entidades fiscalizadoras locales, los municipios y las alcaldías de la Ciudad de México, para el desarrollo de las auditorías de su competencia;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+IX Bis. Organizar, coordinar y dar seguimiento a las reuniones de la Asociación Nacional de Organismos de Fiscalización Superior y Control Gubernamental;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+IX Ter. Dirigir y coordinar la participación de la Auditoría Superior de la Federación en las reuniones del Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+IX Quater. Someter a consideración del Auditor Superior de la Federación las propuestas de modificación que deban enviarse al Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, relativas a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes;
+
 X. Instruir a sus unidades administrativas auditoras la revisión y evaluación del control interno en las entidades fiscalizadas y el cumplimiento de las disposiciones de la Ley General de Contabilidad Gubernamental;
 
 XI. Aprobar los criterios y metodologías para supervisar el desarrollo y calidad de las auditorías de su competencia, así como para identificar las áreas de mejora que registra esta actividad;
@@ -1501,9 +987,21 @@ XXII. Coordinar la evaluación del desempeño de las entidades fiscalizadoras lo
 
 XXIII. Proponer al Auditor Superior de la Federación estrategias y acciones para el fortalecimiento de las capacidades institucionales de las entidades fiscalizadoras locales;
 
-XXIV. Coordinar y supervisar la formulación, implementación, seguimiento y evaluación de estrategias para impulsar la participación social en la vigilancia del gasto federalizado, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XXV. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
+XXIV. Coordinar y supervisar la formulación, implementación, seguimiento y evaluación de estrategias para impulsar la participación social en la vigilancia del gasto federalizado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXV. Verificar que los recursos que reciban las personas físicas o morales, públicas o privadas, en concepto de subsidios, donativos y transferencias otorgados por las entidades federativas, los municipios y alcaldías de la Ciudad de México se hubiesen aplicado al fin que estaba previsto, conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI. Coordinar y supervisar la práctica de auditorías forenses, en el ámbito de su competencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
 
@@ -1567,25 +1065,41 @@ Las atribuciones a que hacen referencia las fracciones II, VI, VII, IX, X, XIII,
 
 Corresponde a los Titulares de Unidad, sin perjuicio de lo dispuesto en otros artículos de este Reglamento, las siguientes atribuciones generales:
 
-I. Acordar con el Auditor Superior de la Federación el despacho de los asuntos relacionados con las direcciones generales de su adscripción o de los programas cuya coordinación se les hubieren asignado;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-II. Coordinar la planeación y programación de las actividades de las direcciones generales de su adscripción y someter sus correspondientes programas a la consideración del Auditor Superior de la Federación;
+I. Acordar con el Auditor Superior de la Federación el despacho de los asuntos relacionados con las unidades administrativas de su adscripción o de los programas cuya coordinación se les hubieren asignado;
 
-III. Organizar, dirigir, supervisar, controlar y evaluar el desarrollo de las funciones y la ejecución de los programas de las direcciones generales de su adscripción, conforme a los lineamientos y criterios generales que establezca el Auditor Superior de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-IV. Elaborar y proponer al Auditor Superior de la Federación los proyectos sobre la organización y el funcionamiento de las direcciones generales de su adscripción;
+II. Coordinar la planeación y programación de las actividades de las unidades administrativas de su adscripción y someter sus correspondientes programas a la consideración del Auditor Superior de la Federación;
 
-V. Participar en la organización y funcionamiento del Sistema de Gestión de la Calidad en la Auditoría Superior de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VI. Proponer al Auditor Superior de la Federación las actividades de capacitación para elevar el nivel técnico y profesional del personal y evaluar su desempeño conforme a las políticas y procedimientos establecidos en la Auditoría Superior de la Federación y por el Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación; así como intervenir en los ingresos, licencias, promociones, remociones y terminación de la relación laboral tanto del personal a su cargo, como de las direcciones generales de su adscripción;
+III. Organizar, dirigir, supervisar, controlar y evaluar el desarrollo de las funciones y la ejecución de los programas de las unidades administrativas de su adscripción, conforme a los lineamientos y criterios generales que establezca el Auditor Superior de la Federación;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+IV. Elaborar y proponer al Auditor Superior de la Federación los proyectos sobre la organización y el funcionamiento de las unidades administrativas de su adscripción;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+V. Participar en la elaboración, organización y funcionamiento del Sistema de Gestión de la Calidad en la Auditoría Superior de la Federación;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VI. Proponer al Auditor Superior de la Federación las actividades de capacitación para elevar el nivel técnico y profesional del personal y evaluar su desempeño conforme a las políticas y procedimientos establecidos en la Auditoría Superior de la Federación y por el Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación; así como intervenir en los ingresos, licencias, promociones, remociones y terminación de la relación laboral tanto del personal a su cargo, como de las unidades administrativas de su adscripción;
 
 VII. Desempeñar las comisiones que el Auditor Superior de la Federación les confiera y mantenerlo informado sobre el desarrollo de sus actividades;
 
-VIII. Aportar la información que les corresponda para formular el proyecto de presupuesto anual de la Auditoría Superior de la Federación, así como integrar la información correspondiente de las direcciones generales de su adscripción;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VIII. Aportar la información que les corresponda para formular el proyecto de presupuesto anual de la Auditoría Superior de la Federación, así como integrar la información correspondiente de las unidades administrativas de su adscripción;
 
 IX. Participar en la elaboración del Informe General, así como, en su caso, en la elaboración de los informes específicos e individuales, en el ámbito de sus respectivas competencias;
 
-X. Vigilar el cumplimiento de las disposiciones laborales y de la normativa aplicable al funcionamiento de las direcciones generales de su adscripción y, en su caso, proponer las modificaciones procedentes;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+X. Vigilar el cumplimiento de las disposiciones laborales y de la normativa aplicable al funcionamiento de las unidades administrativas de su adscripción y, en su caso, proponer las modificaciones procedentes;
 
 XI. Adscribir, remover, cambiar de adscripción, comisionar y reasignar a los servidores públicos de las unidades administrativas que dependan de ellos, para lo cual deberán informar a la Dirección General de Recursos Humanos para los efectos administrativos correspondientes;
 
@@ -1599,13 +1113,21 @@ XV. Proponer al Auditor Superior de la Federación los nombramientos del persona
 
 XVI. Participar en el Sistema Nacional de Transparencia y en el Sistema Nacional de Fiscalización;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI Bis. Instruir a los Directores Generales, Directores, Subdirectores, Jefes de Departamento y demás personal, el cumplimiento de las metas y objetivos comprometidos en el Plan Estratégico de la Auditoría Superior de la Federación y participar en las reuniones de seguimiento y evaluación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI Ter. Vigilar el cumplimiento de las disposiciones jurídicas aplicables en las materias de transparencia, acceso a la información y protección de datos personales, rendición de cuentas, gobierno abierto y archivos de las unidades administrativas de su adscripción;
+
 XVII. Coordinarse entre sí y con los Auditores Especiales para el mejor desempeño de sus atribuciones, y
 
 XVIII. Las demás que en el ámbito de sus respectivas competencias les confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
-> <small>(REFORMADO ÚLTIMO PÁRRAFO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-Los Titulares de Unidad, para el despacho de los asuntos de su competencia, serán auxiliados por los Directores Generales, Directores Generales Adjuntos, Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores y, demás servidores públicos señalados en el artículo 3 de este Reglamento; así como por los Grupos de Asesores, Secretarios Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
+Los Titulares de Unidad tendrán el mismo nivel jerárquico que los Auditores Especiales para efectos del ejercicio de sus atribuciones. Para el despacho de los asuntos de su competencia, los Titulares de Unidad serán auxiliados por los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores, Auditores y demás servidores públicos señalados en el artículo 3 de este Reglamento; así como por los Grupos de Asesores, Secretarios Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
 
 ###### Artículo 18.
 
@@ -1623,7 +1145,9 @@ V. Coordinar la difusión, en el ámbito de su competencia, de los criterios jur
 
 VI. Coordinar la compilación y difusión de las normas jurídicas relacionadas con las funciones de la Auditoría Superior de la Federación;
 
-VII. Presentar por sí o mediante la Dirección General Jurídica, las denuncias penales que procedan como resultado de las irregularidades detectadas con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos elaborados por las unidades administrativas auditoras, en los términos de lo dispuesto por la Ley de Fiscalización y Rendición de Cuentas de la Federación, la legislación penal y demás normativa aplicable; así como coadyuvar con la autoridad ministerial y jurisdiccional, y en su caso, instruir la presentación de recursos y medios de impugnación legalmente procedentes en cuanto a las determinaciones emitidas por dichas autoridades;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VII. Presentar por sí o mediante la Dirección General Jurídica, las denuncias penales que procedan como resultado de las irregularidades detectadas con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos elaborados por las unidades administrativas competentes, en los términos de lo dispuesto por la Ley de Fiscalización y Rendición de Cuentas de la Federación, la legislación penal y demás normativa aplicable; así como coadyuvar con la autoridad ministerial y jurisdiccional, y en su caso, instruir la presentación de recursos y medios de impugnación legalmente procedentes en cuanto a las determinaciones emitidas por dichas autoridades;
 
 VIII. Promover, por sí o (sic) través de la Dirección General Jurídica, las sanciones administrativas y penales que se deriven de la omisión en la entrega de la información, la entrega de documentación e información presuntamente apócrifa y la simulación de actos en que incurran los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales o participaciones federales, a los que se les solicite información en los términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
@@ -1631,15 +1155,25 @@ IX. Coordinar las funciones de las áreas de su adscripción;
 
 X. Coordinar, en apoyo del Auditor Superior de la Federación, las impugnaciones de las determinaciones de la Fiscalía Especializada y del Tribunal;
 
-XI. Presentar por sí o mediante la Dirección General Jurídica, denuncias de juicio político, de conformidad con lo señalado en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, como resultado de las irregularidades detectadas por los titulares de las unidades administrativas auditoras con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos elaborados por dichas unidades;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XI. Presentar por sí o mediante la Dirección General Jurídica, denuncias de juicio político, de conformidad con lo señalado en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, como resultado de las irregularidades detectadas por los titulares de las unidades administrativas con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos elaborados por dichas unidades;
 
 XII. Someter a la consideración del Auditor Superior de la Federación los acuerdos de reformas y adiciones al Reglamento Interior de la Auditoría Superior de la Federación;
 
-XIII. Coordinar la elaboración y actualización de la normativa de carácter jurídico;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIII. Coordinar la elaboración y actualización de la normativa de carácter jurídico, así como aprobar los lineamientos que estime necesarios para el cumplimiento de (sic) disposiciones jurídicas;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIII Bis. Coordinar, con apoyo de la Dirección General Jurídica, para el efecto de la determinación de criterios jurídicos institucionales, al personal jurídico que ejerza funciones de apoyo jurídico o asesoría jurídica que se encuentre adscrito a las unidades administrativas auditoras de la Auditoría Superior de la Federación;
 
 XIV. Asesorar y auxiliar al Auditor Superior de la Federación, por si o (sic) través de la Dirección General Jurídica, en la tramitación, substanciación y resolución del recurso de reconsideración que se interponga en contra de las resoluciones que, en su caso, emita;
 
-XV. Coordinar la elaboración del dictamen jurídico que emita la Dirección General Jurídica, relativo a la revisión de la gestión financiera correspondiente, a que se refiere el artículo 62 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XV. Coordinar la elaboración del dictamen técnico jurídico que emita la Dirección General Jurídica, relativo a la revisión de la gestión financiera correspondiente, a que se refiere el artículo 62 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión, y
 
 XVI. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
@@ -1647,7 +1181,9 @@ XVI. Las demás que en el ámbito de su competencia le confieran las disposicion
 
 La Unidad General de Administración, a través de su titular, ejercerá las atribuciones siguientes:
 
-I. Administrar los recursos financieros, humanos, técnicos, materiales y los bienes inmuebles a cargo de la Auditoría Superior de la Federación, de conformidad con las políticas y normas que emita el Auditor Superior de la Federación, y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+I. Administrar los recursos financieros, humanos, técnicos, materiales y los bienes muebles e inmuebles a cargo de la Auditoría Superior de la Federación, de conformidad con las políticas y normas que emita el Auditor Superior de la Federación, y demás disposiciones jurídicas aplicables;
 
 II. Representar a la Auditoría Superior de la Federación ante el Tribunal Federal de Conciliación y Arbitraje en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del Apartado B) del Artículo 123 Constitucional;
 
@@ -1655,19 +1191,29 @@ II. Representar a la Auditoría Superior de la Federación ante el Tribunal Fede
 
 III. Proponer al Auditor Superior de la Federación los proyectos de normativa respecto de los asuntos que competan a las unidades administrativas de su adscripción, así como coadyuvar en la organización institucional que conforme a los asuntos de sus atribuciones le correspondan;
 
-IV. Suscribir, en el ámbito de su competencia, a nombre y representación de la Auditoría Superior de la Federación, los convenios, contratos, acuerdos y cualquier otro instrumento jurídico necesario, relacionados con la administración de recursos financieros, humanos, técnicos, materiales, servicios, obra pública y servicios relacionados con la misma y los bienes inmuebles, además de aquellos que por delegación de facultades le sean conferidas en estricto apego a las disposiciones jurídicas que rijan la materia;
+IV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-V. Aprobar las reglas de carácter general, bases, lineamientos y demás normativa administrativa, para el cumplimiento de las normas y políticas emitidas por el Auditor Superior de la Federación, así como para el cumplimiento de sus funciones en materia de programación, presupuestación, recursos financieros, humanos, técnicos, materiales, servicios, obra pública y servicios relacionados con la misma, bienes inmuebles y en materia de archivos; instruyendo, en su caso, su publicación conforme lo determinen las disposiciones jurídicas de cumplimiento obligatorio para la Auditoría Superior de la Federación;
+IV Bis. Autorizar los contratos plurianuales que le soliciten las áreas requirentes, en donde previamente hayan enviado de forma escrita los motivos y la justificación de los beneficios que se obtendrán con la adopción de esta medida, de conformidad con el artículo 50 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+V. Aprobar las reglas de carácter general, bases, lineamientos y demás normativa administrativa, para el cumplimiento de las normas y políticas emitidas por el Auditor Superior de la Federación, así como para el cumplimiento de sus funciones en materia de programación, presupuestación, recursos financieros, humanos, técnicos, materiales, servicios, obra pública y servicios relacionados con la misma, bienes muebles e inmuebles y en materia de archivos; instruyendo, en su caso, su publicación conforme lo determinen las disposiciones jurídicas de cumplimiento obligatorio para la Auditoría Superior de la Federación;
 
 > <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 V Bis. Dirigir las funciones y actividades relacionadas con la organización, conservación, administración y preservación de los archivos en posesión de la Auditoría Superior de la Federación, para dar cumplimiento a lo previsto en la Ley General de Archivos en su carácter de sujeto obligado, así como a las demás disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+V Ter. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-V Ter. Participar, en su caso, y en el ámbito de su competencia, en el Sistema Nacional de Archivos;
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+V Quater. Coadyuvar con el área encargada de la coordinación del Sistema Nacional de Archivos en aquellas temáticas y actividades que, por su contenido o naturaleza, puedan relacionarse entre sí o requieran de una colaboración conjunta;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+V Quiquies (sic). Participar en las funciones que correspondan a la Auditoría Superior de la Federación en su carácter de integrante del Consejo Nacional de Archivos del Sistema Nacional de Archivos, de acuerdo con las disposiciones jurídicas aplicables;
 
 VI. Establecer con apego a las disposiciones presupuestarias aplicables y acorde a la autonomía presupuestal de la Auditoría Superior de la Federación, las directrices, lineamientos y criterios técnicos para el proceso interno de programación, presupuestación, ejercicio, registro, evaluación e información de los recursos aprobados a la Auditoría Superior de la Federación;
 
@@ -1677,7 +1223,9 @@ VIII. Autorizar las adecuaciones presupuestarias que promuevan el cumplimiento d
 
 IX. Dar seguimiento y coordinar la preparación de los informes correspondientes al ejercicio del presupuesto aprobado, así como coordinar la preparación del informe de la cuenta comprobada que el Auditor Superior de la Federación presente a la Cámara por conducto de la Comisión, sobre el ejercicio de su presupuesto en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
-X. Someter a la consideración del Auditor Superior de la Federación, los manuales de organización y procedimientos, las propuestas de modificación a la estructura orgánica y ocupacional de la Auditoría Superior de la Federación, así como las actualizaciones que correspondan a este Reglamento;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+X. Someter a la consideración del Auditor Superior de la Federación, el Manual de Organización, las propuestas de modificación a la estructura orgánica y ocupacional de la Auditoría Superior de la Federación, así como las actualizaciones que correspondan a este Reglamento;
 
 XI. Coordinar las relaciones laborales de la Auditoría Superior de la Federación;
 
@@ -1687,9 +1235,13 @@ XIII. Autorizar de acuerdo a las disposiciones jurídicas aplicables, la contrat
 
 XIV. Autorizar las enajenaciones y donaciones de bienes muebles de la Auditoría Superior de la Federación;
 
-XV. Adquirir, recibir en donación, asignar, enajenar y gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público de la Federación, afectos al servicio de la Auditoría Superior de la Federación, en términos de la Ley General de Bienes Nacionales y demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XVI. Coordinar la organización y funcionamiento del Sistema de Gestión de la Calidad en los procesos de la Auditoría Superior de la Federación que se determinen;
+XV. Adquirir, recibir en donación, asignar, enajenar y gestionar la incorporación, destino y desincorporación de bienes muebles e inmuebles del dominio público de la Federación, afectos al servicio de la Auditoría Superior de la Federación, en términos de la Ley General de Bienes Nacionales y demás disposiciones aplicables en la materia;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI. Coordinar en colaboración con la Unidad de Normatividad y Enlace Legislativo la autorización, organización y funcionamiento del Sistema de Gestión de la Calidad en la Auditoría Superior de la Federación, en los procesos institucionales que se determine (sic);
 
 XVII. (DEROGADA, D.O.F. 13 DE JULIO DE 2018)
 
@@ -1703,85 +1255,141 @@ XXI. Ordenar la aplicación a los servidores públicos de la Auditoría Superior
 
 XXII. Promover ante el superior jerárquico que corresponda el cumplimiento de las sanciones determinadas por la autoridad competente;
 
-XXIII. Evaluar la integridad del personal de la Auditoría Superior de la Federación, así como emitir lineamientos y criterios relativos a dicha materia, para la aplicación de exámenes toxicológicos, socioeconómicos, psicológicos y psicotécnicos, entre otros, así como la investigación socioeconómica y de antecedentes académicos, para el ingreso, reingreso, ascenso o cualquier otro movimiento de candidatos para desempeñar puestos o niveles en la Auditoría Superior de la Federación, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIII. Evaluar al personal de la Auditoría Superior de la Federación, así como emitir lineamientos y criterios relativos a dicha materia, para la aplicación de exámenes psicológicos, psicotécnicos y de valores, entre otros, así como la investigación de antecedentes académicos y laborales, para el ingreso, reingreso, ascenso o cualquier otro movimiento de candidatos para desempeñar puestos o niveles en la Auditoría Superior de la Federación, con excepción de aquéllos que su nombramiento sea facultad del Auditor Superior de la Federación o exista normatividad específica para su designación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIII Bis. Planear, coordinar y supervisar el desarrollo e implantación de políticas y sistemas de informática de la Auditoría Superior de la Federación, y
 
 XXIV. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 20.
 
-La Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas, a través de su titular, ejercerá las atribuciones siguientes:
+La Unidad de Normatividad y Enlace Legislativo, a través de su titular, ejercerá las atribuciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 I. Coordinar el análisis de los insumos para la planeación e integración del Programa Anual de Auditorías, así como gestionar sus modificaciones;
 
-II. Coadyuvar en el seguimiento de la ejecución del Programa Anual de Auditorías;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-III. Coordinar la integración y actualización del marco normativo general y la elaboración de los criterios para la fiscalización superior a cargo de la Auditoría Superior de la Federación;
+II. Coadyuvar en el seguimiento de la ejecución del Programa Estratégico;
 
-> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-IV. Planear, coordinar y supervisar el desarrollo e implementación de políticas, sistemas de informática y herramientas tecnológicas de la Auditoría Superior de la Federación;
+III. Coordinar la implementación y actualización de los lineamientos técnicos internos y criterios necesarios para el proceso de fiscalización superior y de las reglas necesarias de cualquier avance técnico, tecnológico o normativo que modifiquen la fiscalización superior;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+III Bis. Someter a la consideración del Auditor Superior de la Federación, los manuales de procedimientos de la Auditoría Superior de la Federación;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+IV. Participar, en colaboración con la Unidad General de Administración, en la autorización, coordinación y funcionamiento del Sistema de Gestión de la Calidad en la Auditoría Superior de la Federación, en los procesos institucionales que se determine (sic);
 
 > <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
 
 IV Bis. Autorizar y supervisar la implementación y operación del sistema para la presentación y atención de las denuncias electrónicas a que se refiere la Ley de Fiscalización y Rendición de Cuentas de la Federación.
 
-V. Impulsar y participar en la homologación de la legislación de las entidades federativas y municipios que se relacione con la fiscalización, rendición de cuentas y transparencia, en el marco del Sistema Nacional de Fiscalización, del Sistema Nacional Anticorrupción y del Sistema Nacional de Transparencia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VI. Coordinar la vinculación de la Auditoría Superior de la Federación con los sistemas locales anticorrupción;
+V. Impulsar y participar en la homologación de la legislación de las entidades federativas y municipios que se relacione con la fiscalización, rendición de cuentas, transparencia, acceso a la información y protección de datos personales, en el marco del Sistema Nacional de Fiscalización, del Sistema Nacional Anticorrupción, y del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-VII. Participar en el Sistema Nacional de Fiscalización, en el Sistema Nacional Anticorrupción, en el Sistema Nacional de Transparencia y en el Sistema Nacional de Archivos, en el ámbito de su competencia;
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+V Bis. Participar en la integración de proyectos legislativos en los que se aborden temas de interés para la Auditoría Superior de la Federación en materia de homologación y armonización legislativa con relación a la fiscalización, la rendición de cuentas y el combate a la corrupción, así como opinar, en su caso, respecto de la redacción y alcance de las sugerencias a la Cámara de Diputados, que se pretendan incluir en los informes por las áreas auditoras, en términos de las disposiciones aplicables y en colaboración con las áreas competentes;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VI. Participar en la vinculación de la Auditoría Superior de la Federación con los sistemas locales anticorrupción para efectos de homologación legislativa;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VII. Participar en el Sistema Nacional de Fiscalización, en el Sistema Nacional Anticorrupción y en el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 VIII. Coordinar la elaboración y presentar para la autorización del Auditor Superior de la Federación el plan estratégico de la Auditoría Superior de la Federación, en colaboración con las áreas competentes;
 
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
 IX. Regular y coordinar la planeación estratégica en la Auditoría Superior de la Federación, en colaboración con las áreas competentes;
 
-X. Coordinar con las unidades administrativas la atención de los asuntos a que se refiere el Titulo Cuarto de la Ley de Fiscalización y Rendición de Cuentas de la Federación, y someterlos, en su caso, a consideración del Auditor Superior de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XI. Actuar como Titular de la Unidad de Transparencia de la Auditoría Superior de la Federación y dirigir las funciones que propiamente le correspondan, así como aquellas relacionadas con el ejercicio del derecho de acceso a la información y de protección de datos personales, atendiendo a lo previsto en las disposiciones jurídicas aplicables en la materia;
+X. Coordinar con las unidades administrativas la atención de los asuntos a que se refiere el Titulo Cuarto de la Ley de Fiscalización y Rendición de Cuentas de la Federación, así como de las solicitudes de auditoría que presenten los ciudadanos, y someterlos, en su caso, a consideración del Auditor Superior de la Federación, en colaboración con las áreas competentes;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XI. Actuar como Titular de la Unidad de Transparencia de la Auditoría Superior de la Federación y dirigir el desarrollo de las funciones que propiamente le correspondan, así como aquellas relacionadas con las obligaciones de transparencia, el ejercicio del derecho de acceso a la información y de protección de datos personales, atendiendo a lo previsto en las disposiciones jurídicas aplicables en la materia;
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 XII. Fomentar las acciones necesarias para que al interior de la Auditoría Superior de la Federación se dé cumplimiento con las disposiciones jurídicas aplicables en las materias de transparencia, acceso a la información, protección de datos personales, rendición de cuentas y gobierno abierto, a través de mejores prácticas, políticas, capacitación, convenios de colaboración, uso de formatos abiertos y accesibles y de tecnologías de información y comunicaciones;
 
-XIII. Supervisar el cumplimiento de las resoluciones, requerimientos, observaciones, recomendaciones y criterios que en materia de transparencia y acceso a la información realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIII. Coordinar el seguimiento y cumplimiento de las resoluciones, requerimientos, observaciones, recomendaciones y criterios que en las materias de transparencia y acceso a la información y protección de datos personales realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 XIV. Actuar en suplencia del Auditor Superior, con las mismas atribuciones, en las reuniones que se realicen en el marco del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, así como en las sesiones relacionadas con el Sistema Nacional de Archivos;
 
-XV. Participar en las funciones que correspondan a la Auditoría Superior de la Federación en su carácter de integrante del Consejo Nacional de Archivos del Sistema Nacional de Archivos, de acuerdo con las disposiciones jurídicas aplicables;
+XV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 XVI. Participar y dirigir las funciones que correspondan a la Auditoría Superior de la Federación en su carácter de integrante del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de acuerdo con las disposiciones jurídicas aplicables;
 
-XVII. Coadyuvar con el área encargada de la coordinación del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización por parte de la Auditoría Superior de la Federación, en aquellas temáticas y actividades que involucren al Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y al Sistema Nacional de Archivos, que por su contenido o naturaleza puedan relacionarse entre sí o requieran de una colaboración conjunta, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII. Coadyuvar con el área encargada de la coordinación del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización por parte de la Auditoría Superior de la Federación, en aquellas temáticas y actividades que involucren al Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales que por su contenido o naturaleza puedan relacionarse entre sí o requieran de una colaboración conjunta;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII Bis. Presentar la evaluación anual al cumplimiento del Plan Estratégico de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII Ter. Aprobar los indicadores estratégicos que permitan evaluar el desempeño de las actividades correspondientes a las Direcciones Generales a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII Quater. Fungir como enlace de la Auditoría Superior de la Federación con la Comisión de Vigilancia de la Auditoría Superior de la Federación, así como coordinarse, en su caso, con las demás Comisiones de la Cámara en las que se aborden temas de interés para la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII Quiquies (sic). Coordinar la integración de proyectos legislativos en los que se aborden temas de interés para la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII Sexies. Coordinar el seguimiento y atención oportuna de los requerimientos de información y opinión solicitados por las Cámaras del Congreso de la Unión que guarden relación con las funciones de fiscalización de la Auditoría Superior de la Federación, y
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 XVIII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 20 Bis.
 
-La Unidad de Enlace Legislativo y Relaciones Institucionales, a través de su titular, ejercerá las atribuciones siguientes:
+La Unidad de Igualdad de Género y Cultura de la Fiscalización, a través de su titular, ejercerá las atribuciones siguientes:
 
-I. Fungir como enlace de la Auditoría Superior de la Federación con la Comisión de Vigilancia de la Auditoría Superior de la Federación, así como coordinarse, en su caso, con las demás Comisiones de la Cámara en las que se aborden temas de interés para la Auditoría Superior de la Federación;
+I. Acordar con el Auditor Superior de la Federación las estrategias de difusión de la cultura de la fiscalización;
 
-II. Coordinar las relaciones de la Auditoría Superior de la Federación con los distintos grupos parlamentarios de la Cámara;
+II. Coordinar los trabajos del Comité de Igualdad de Género de la Auditoría Superior de la Federación y actividades relacionadas con dicha materia;
 
-III. Coordinar la integración de proyectos legislativos en los que se aborden temas de interés para la Auditoría Superior de la Federación;
+III. Proponer al Auditor Superior de la Federación la política editorial de la Auditoría Superior de la Federación y presidir el Comité Editorial;
 
-IV. Conducir y fortalecer las relaciones de la Auditoría Superior de la Federación con la Cámara, a través de sus Comisiones, Comités, Grupos Parlamentarios y Legisladores;
+IV. Implementar la política de igualdad de género en la Auditoría Superior de la Federación;
 
-V. Mantener informada a la Oficina del Auditor Superior de la Federación respecto de los proyectos de leyes, dictámenes y propuestas normativas realizadas por la Cámara, que guarden relación con los objetivos de la Auditoría Superior de la Federación;
+V. Desarrollar en coordinación con el Instituto de Capacitación y Desarrollo en Fiscalización Superior un programa de capacitación y sensibilización en materia de igualdad de género, y
 
-VI. Coordinar el seguimiento y atención oportuna de los requerimientos de información y opinión solicitados por la Cámara que guarden relación con las funciones de fiscalización de la Auditoría Superior de la Federación;
-
-VII. Coordinar las estrategias de comunicación social y difusión institucional;
-
-VIII. Establecer la política editorial de la Auditoría Superior de la Federación;
-
-IX. Someter a consideración del Auditor Superior de la Federación el Programa Editorial de la Auditoría Superior de la Federación con el objeto de ofrecer a distintos destinatarios las publicaciones que permitan difundir el conocimiento generado por este órgano técnico de fiscalización, así como promover el análisis y la discusión de sus principales decisiones en materia de fiscalización;
-
-X. Coordinar la ejecución del proceso editorial y distribución de las publicaciones conforme al Programa Editorial autorizado, dichas gestiones tendrán que apegarse a la normatividad interna, y
-
-XI. Las demás que en el ámbito de su competencia establezcan las disposiciones jurídicas aplicables o le encargue el Auditor Superior de la Federación.
+VI. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
 ### Capítulo V. De las Atribuciones de los Directores Generales y Directores
 
@@ -1801,13 +1409,13 @@ V. Realizar auditorías, estudios, análisis, diagnósticos, evaluaciones, inves
 
 VI. Realizar, en el ámbito de su competencia, las revisiones de situaciones irregulares que se denuncien en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, respecto al ejercicio fiscal en curso o de ejercicios anteriores distintos al de la Cuenta Pública en revisión;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VI Bis. Poner del conocimiento a la Dirección General de Auditoría Forense respecto de los actos u omisiones que pudieran implicar alguna irregularidad o conducta ilícita que por su naturaleza requieran de técnicas de auditoría forense, documentando indicios, con pruebas válidas, derivados de los hallazgos e irregularidades que se detecten con motivo de la práctica de sus propias auditorías y que para la acreditación de dichos hechos irregulares, necesiten la utilización de técnicas propias de la auditoría forense;
+VI Bis. Poner del conocimiento a la Dirección General de Auditoría Forense de Cumplimiento Financiero o a la Dirección General de Auditoría Forense del Gasto Federalizado, según corresponda, los actos u omisiones que pudieran implicar alguna irregularidad o conducta ilícita que por su naturaleza requieran de técnicas de auditoría forense, documentando indicios, con pruebas válidas, derivados de los hallazgos e irregularidades que se detecten con motivo de la práctica de sus propias auditorías y que para la acreditación de dichos hechos irregulares, necesiten la utilización de técnicas propias de la auditoría forense;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VI Ter. Proporcionar toda la información requerida por la Dirección General de Auditoría Forense, relacionada con posibles irregularidades o conductas ilícitas;
+VI Ter. Proporcionar toda la información requerida por la Dirección General de Auditoría Forense de Cumplimiento Financiero y por la Dirección General de Auditoría Forense del Gasto Federalizado, según corresponda, relacionada con posibles irregularidades o conductas ilícitas;
 
 VII. Proporcionar, conforme a sus atribuciones y de acuerdo con las políticas y normas establecidas en la materia, la información, documentación, datos, informes y asesorías o cooperación técnica que les requieran otras áreas de la Auditoría Superior de la Federación;
 
@@ -1827,7 +1435,17 @@ XIV. Proponer a su superior jerárquico los nombramientos del personal de confia
 
 XV. Proponer a su superior jerárquico los proyectos de manuales de organización y de procedimientos correspondientes a la dirección general a su cargo, así como las modificaciones requeridas;
 
-XVI. Llevar a cabo, en el ámbito de su competencia, las acciones para cumplir con las disposiciones jurídicas aplicables en las materias de transparencia y acceso a la información pública gubernamental, así como la clasificación, conservación, guarda y custodia de los archivos a su cargo;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI. Verificar el cumplimiento de las obligaciones de transparencia, la atención de las solicitudes de acceso a la información y protección de datos conforme a lo previsto en las disposiciones jurídicas aplicables, así como de las resoluciones, requerimientos, recomendaciones y criterios que emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI Bis. Verificar la formulación de alegatos derivados de los recursos de revisión interpuestos con motivo de las solicitudes de acceso a la información pública y de protección de datos personales, así como de los informes justificados respecto de las denuncias por incumplimiento a las obligaciones de transparencia previstas en las disposiciones jurídicas en materia de transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI Ter. Verificar, en el ámbito de su competencia, la implementación de políticas y programas de protección de datos personales aprobados por el Comité de Transparencia, los cuales podrán incluir, entre otros, trabajos relativos al documento de seguridad de la Auditoría Superior de la Federación, a los avisos de privacidad, así como al establecimiento y mantenimiento de medidas de seguridad administrativas, físicas y técnicas para la protección de los datos personales en su posesión;
 
 XVII. Recabar, integrar y presentar a su superior jerárquico la documentación y evidencias necesarias para la presentación de las denuncias o querellas penales sobre hechos que afecten el patrimonio de la Auditoría Superior de la Federación o en las que tenga interés jurídico;
 
@@ -1843,7 +1461,9 @@ XXII. Verificar el cumplimiento del marco normativo general para la fiscalizaci�
 
 XXIII. Solicitar y obtener toda la información que a juicio de la Auditoría Superior de la Federación sea necesaria para la etapa de planeación, desarrollo y seguimiento de las auditorías, estudios, análisis, diagnósticos, evaluaciones e investigaciones de conformidad con las disposiciones jurídicas aplicables;
 
-XXIV. Solicitar, obtener y tener acceso a la informaciyn (sic) y documentación que a juicio de la Auditoría Superior de la Federación sea necesaria para llevar a cabo la auditoría, estudio, análisis, diagnóstico, evaluación e investigación correspondiente, que obren en poder de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIV. Solicitar, obtener y tener acceso a la información y documentación que a juicio de la Auditoría Superior de la Federación sea necesaria para llevar a cabo la auditoría, estudio, análisis, diagnóstico, evaluación e investigación correspondiente, que obren en poder de:
 
 a) Las entidades fiscalizadas;
 
@@ -1893,11 +1513,13 @@ XL. Llevar a cabo las acciones necesarias para que los pliegos de observaciones,
 
 XLI. Elaborar el dictamen técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito administrativo y de juicio político que procedan, como resultado de las irregularidades que se detecten en la revisión o auditorías que se practiquen;
 
-XLII. Elaborar el dictamen técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten en la revisión o auditorías que se practiquen;
+XLII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-XLIII. Elaborar el dictamen técnico a que se refiere el artículo 62 de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XLIV. Presentar las denuncias penales que procedan como resultado de las irregularidades detectadas con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos, así como coadyuvar en los procesos penales, tanto en la etapa de investigación como en la judicial;
+XLIII. Atender los requerimientos que le formule la Dirección General Jurídica en relación con el artículo 62 de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
+XLIV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 XLV. Presentar las denuncias de juicio político de conformidad con lo señalado en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, como resultado de las irregularidades detectadas con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos;
 
@@ -1911,13 +1533,15 @@ XLIX. (DEROGADA, D.O.F. 13 DE JULIO DE 2018)
 
 L. (DEROGADA, D.O.F. 13 DE JULIO DE 2018)
 
-LI. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y la Ley Federal de Archivos las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad, así como las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública y todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica eficiente de las auditorías;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+LI. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y de la Ley General de Archivos, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad, así como las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública y todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica eficiente de las auditorías;
 
 LII. Levantar las actas circunstanciadas que procedan, las cuales al ser emitidas por una autoridad adquieren el carácter de documento público, haciendo prueba plena en cuanto a su emisión en términos de ley;
 
 LIII. Registrar las recuperaciones y resarcimientos derivados de las auditorías practicadas por la Auditoría Superior de la Federación, así como la imposición de las multas a que se refiere la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
-LIV. Someter a la consideración de su superior jerárquico las propuestas que deban presentarse al Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, relativas a la información complementaria a la prevista en dicha ley para incluirse en la Cuenta Pública y modificaciones a los formatos de integración correspondientes;
+LIV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 LV. Proponer a su superior jerárquico, derivado de las auditorías, estudios, análisis, diagnósticos, evaluaciones e investigaciones practicadas, sugerencias a la Cámara para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de las entidades fiscalizadas;
 
@@ -1927,7 +1551,9 @@ LVII. Asistir y participar en los comités, comisiones o grupos de trabajo que l
 
 LVIII. Participar en la organización y funcionamiento del Sistema de Gestión de la Calidad en la Auditoría Superior de la Federación;
 
-LIX. Participar en el Sistema Nacional de Transparencia y en el Sistema Nacional de Fiscalización;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+LIX. Participar en el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en el Sistema Nacional de Fiscalización y en el Sistema Nacional de Archivos, cuando así lo instruya su superior jerárquico;
 
 LX. Solicitar copia certificada de la información y documentación original, o en su caso, de las constancias que obren en los archivos de las entidades fiscalizadas, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
 
@@ -1943,11 +1569,17 @@ LXIV. (DEROGADA, D.O.F. 13 DE JULIO DE 2018)
 
 LXV. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito signado con firma autógrafa o bien, firma electrónica cuando se trate del proceso de fiscalización por medios electrónicos, de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente.
 
-LXVI. Emitir los dictámenes relativos a la destrucción de la documentación que obre en los archivos de la Auditoría Superior de la Federación conforme a las disposiciones jurídicas aplicables en materia de transparencia y acceso a la información;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+LXVI. Gestionar los dictámenes y las actas de baja documental y transferencia secundaria, de conformidad con la Ley General de Archivos y las disposiciones jurídicas aplicables en la materia;
 
 LXVII. Emitir las opiniones requeridas en el ámbito de su competencia;
 
 LXVIII. Coordinarse, en su caso, con los titulares de las entidades fiscalizadoras locales en el Marco del Sistema Nacional de Fiscalización;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+LXVIII Bis. Participar en las actividades y funcionamiento de la Planeación Estratégica de la Auditoría Superior de la Federación;
 
 LXIX. Promover los mecanismos de coordinación que permitan obtener y consultar información, bases de datos, registros, entre otros, que obren en poder de las autoridades laborales, administrativas, judiciales, electorales, registrales, así como en poder de notarios o corredores públicos, la cual sea necesaria para el desarrollo de sus funciones, y
 
@@ -1960,6 +1592,92 @@ Los Directores Generales, para el despacho de los asuntos de su competencia, ser
 > <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
 
 Las atribuciones a que hacen referencia las fracciones V, VI, IX, XXI, XXIII, XXIV, XXV, XXVI, XXVIII, XXX, XXXIII, XXXIV, XXXV, XXXVI, LII, LX, LXII, LXV y LXX, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+El Instituto de Capacitación y Desarrollo en Fiscalización Superior, estará adscrito a la Unidad Técnica de la Auditoría Superior de la Federación y su Director General tendrá las siguientes atribuciones:
+
+I. Actualizar las políticas, normas y lineamientos en materia de capacitación, investigación, desarrollo y transferencia de conocimiento y verificar su aplicación;
+
+II. Identificar las necesidades de capacitación requeridas por las diferentes áreas de la Auditoría Superior de la Federación;
+
+III. Elaborar en coordinación con las unidades administrativas el Plan Anual de Capacitación y Desarrollo de la Auditoría Superior de la Federación;
+
+IV. Implementar los programas, cursos y actividades contenidos en el Plan Anual de Capacitación y Desarrollo, así como otras acciones de capacitación que se acuerden con las unidades administrativas, conforme a los lineamientos y normas aplicables;
+
+V. Evaluar el desempeño de los instructores y los resultados de los cursos impartidos, así como promover la formación de instructores internos;
+
+VI. Evaluar el aprendizaje del personal capacitado y la transferencia e impacto de la capacitación en las actividades que realiza;
+
+VII. Coordinar las investigaciones académicas internas y externas, en materia de fiscalización superior;
+
+VIII. Participar en el funcionamiento del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación, conforme lo establezca el Estatuto y normativa correspondiente;
+
+IX. Realizar las actividades de profesionalización y evaluación de conocimientos al personal del Servicio Fiscalizador de Carrera;
+
+X. Llevar a cabo la selección de instructores para la impartición de cursos a cargo del Instituto de Capacitación y Desarrollo en Fiscalización Superior;
+
+XI. Realizar los estudios e investigaciones en temas vinculados con las funciones de la Auditoría Superior de la Federación, que le sean requeridos;
+
+XII. Definir los temas y coordinar la elaboración de las publicaciones y estudios que edite la Auditoría Superior de la Federación y que sean realizados por académicos o expertos;
+
+XIII. Dirigir y supervisar el Centro de Documentación Institucional;
+
+XIV. Suscribir, a nombre y representación de la Auditoría Superior de la Federación, los memorándums de entendimiento, relacionados con la capacitación, en estricto apego a las disposiciones jurídicas que rijan la materia;
+
+XV. Registrar ante las autoridades competentes en materia de capacitación los requisitos y cursos que así lo requieran, con el fin de elevar las competencias institucionales y expedir las certificaciones correspondientes;
+
+XVI. Proponer, coordinar y actualizar los convenios de intercambio en materia de capacitación, investigación, desarrollo y transferencia de conocimiento con otras instituciones afines, nacionales o internacionales;
+
+XVII. Sostener relaciones de intercambio, consejo y promoción con organismos similares, nacionales e internacionales, y
+
+XVIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+###### Artículo 21 Ter.
+
+El Centro de Estudios de la Auditoría Superior de la Federación estará adscrito a la Unidad Técnica de la Auditoría Superior de la Federación y su Director General tendrá las siguientes atribuciones:
+
+I. Realizar los estudios estratégicos, investigaciones y análisis económicos, sociales, jurídicos y de cualquier otra índole que coadyuven a la fiscalización superior, que le sean requeridos; y solicitar la información necesaria y celebrar reuniones académicas vinculadas con los mismos;
+
+II. Mantener comunicación y coordinación con los centros de estudios del Congreso de la Unión y de otras instancias nacionales e internacionales que coadyuven a la fiscalización superior;
+
+III. Promover la celebración de memorándums de entendimiento con otros centros de estudios nacionales e internacionales para el intercambio académico y de experiencias en combate a la corrupción, rendición de cuentas, perspectivas de género e impacto ambiental;
+
+IV. Efectuar estudios interdisciplinarios y multisectoriales relacionados con la labor de la Auditoría Superior de la Federación;
+
+V. Planear, coordinar, obtener la información necesaria y realizar el análisis del Informe de Avance de Gestión Financiera de acuerdo con la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
+VI. Analizar la información económica, contable, financiera, programática y presupuestaria que se presente en la Cuenta Pública de acuerdo con lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones jurídicas aplicables;
+
+VII. Elaborar estudios sobre el comportamiento de la economía nacional, las finanzas públicas, la deuda pública y los resultados programáticos y presupuestarios en los términos de las disposiciones jurídicas aplicables;
+
+VIII. Analizar los Criterios Generales de Política Económica, el Plan Anual de Financiamiento, el Presupuesto de Gastos Fiscales, la Ley de Ingresos de la Federación, el Presupuesto de Egresos y los informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, así como los financiamientos y la deuda pública de las entidades federativas y de los municipios, y la demás información pertinente en los términos de las disposiciones jurídicas aplicables, a fin de generar documentos que coadyuven en la elaboración del Informe General y del Análisis del Informe de Avance de Gestión Financiera, y
+
+IX. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+###### Artículo 21 Quater.
+
+La Dirección General de Difusión estará adscrita a la Unidad Técnica de la Auditoría Superior de la Federación y su titular tendrá las siguientes atribuciones:
+
+I. Ejecutar la política de difusión y comunicación social de la Auditoría Superior de la Federación;
+
+II. Informar a la opinión pública sobre los asuntos de la competencia de la Auditoría Superior de la Federación;
+
+III. Formular y proponer los programas de comunicación social;
+
+IV. Coordinar la aplicación de la imagen institucional y supervisar la producción de sus materiales impresos, sonoros, audiovisuales, electrónicos, digitales y demás medios de difusión;
+
+V. Preservar y actualizar el archivo fotográfico y de video de las actividades relevantes de la Auditoría Superior de la Federación;
+
+VI. Distribuir material seleccionado de las principales publicaciones nacionales e internacionales entre las unidades administrativas de la Auditoría Superior de la Federación, y
+
+VII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
 ###### Artículo 22.
 
@@ -2073,67 +1791,51 @@ X. Las demás que en el ámbito de su competencia le confieran las disposiciones
 
 Las atribuciones a que hacen referencia las fracciones I, III, IV, V, VI, VII, VIII y X, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 26.
 
-La Dirección General de Auditoría Forense estará adscrita a la Auditoría Especial de Cumplimiento Financiero y su titular tendrá las siguientes atribuciones:
+La Dirección General de Auditoría Forense de Cumplimiento Financiero estará adscrita a la Auditoría Especial de Cumplimiento Financiero y su titular tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+I. Practicar, en el ámbito de su competencia, revisiones en las entidades fiscalizadas, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos; el movimiento de fondos de la Federación; las operaciones relacionadas con la deuda pública en su contratación, registro, renegociación, administración y pago; los egresos, incluyendo subsidios, transferencias y donativos, y que los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con la normativa correspondiente y al fin establecido; así como, evaluar el cumplimiento de metas y objetivos previstos, conforme a las disposiciones jurídicas aplicables;
 
-I. Practicar o continuar auditorías aplicando las técnicas propias de auditoría forense, además de las técnicas de auditoría gubernamental que en general procedan, las que realizará de manera transversal y que tengan por objeto la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que pudieran implicar alguna irregularidad o conducta ilícita, documentando con pruebas válidas y suficientes las conclusiones derivadas de los hallazgos e irregularidades que se detecten por las unidades administrativas auditoras con motivo de la práctica de auditorías por ellas efectuadas, apoyándose por ende y cuando así lo requieran, con la tecnología y herramienta forense en los términos y las materias de competencia del presente numeral;
+II. Practicar, en el ámbito de su competencia, auditorías a los recursos federales que a título de subsidios o por cualquier otro concepto, los entes públicos hayan otorgado con cargo a su presupuesto a particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado, en cumplimiento de las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+III. Practicar, en el ámbito de su competencia, auditorías a efecto de constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquiera otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
 
-I Bis. Recibir de las unidades administrativas auditoras las propuestas de revisión o intervención por posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales;
+IV. Practicar o continuar auditorías aplicando las técnicas propias de auditoría forense, además de las técnicas de auditoría gubernamental que en general procedan, las que realizará de manera transversal, en el ámbito de competencia de la Auditoría Especial de Cumplimiento Financiero, y que tengan por objeto la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que pudieran implicar alguna irregularidad o conducta ilícita, documentando con pruebas válidas y suficientes las conclusiones derivadas de los hallazgos e irregularidades detectadas, apoyándose con la tecnología y herramienta forense en los términos y las materias de competencia de la presente fracción;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+V. Recibir de las unidades administrativas auditoras adscritas a la Auditoría Especial de Cumplimiento Financiero, las propuestas de revisión o intervención por posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales;
 
-I Ter. Evaluar conjuntamente con las unidades administrativas auditoras las propuestas presentadas a fin de considerar la viabilidad y procedencia de la práctica de técnicas propias de la auditoría forense;
+VI. Evaluar conjuntamente con las unidades administrativas auditoras adscritas a la Auditoría Especial de Cumplimiento Financiero, las propuestas presentadas a fin de considerar la viabilidad y procedencia de la práctica de técnicas propias de la auditoría forense;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+VII. Determinar, con base en los resultados de la evaluación de las propuestas formuladas por las unidades administrativas auditoras adscritas a la Auditoría Especial de Cumplimiento Financiero, el grado de participación en la revisión, o en su caso, la práctica de la auditoría forense correspondiente, para autorización de su superior jerárquico;
 
-I Quater. Determinar, con base en los resultados de la evaluación de las propuestas formuladas por las unidades administrativas auditoras, el grado de participación en la revisión, o en su caso, la práctica de la auditoría forense correspondiente;
+VIII. Utilizar tecnologías de información y comunicación, herramientas de punta y las mejores prácticas aceptadas internacionalmente para la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que impliquen alguna irregularidad o conducta ilícita;
 
-II. Practicar revisiones en las entidades fiscalizadas, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos; el movimiento de fondos de la Federación; las operaciones relacionadas con la deuda pública en su contratación, registro, renegociación, administración y pago; los egresos, incluyendo subsidios, transferencias y donativos, y que los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido; así como, evaluar el cumplimiento de metas y objetivos previstos, conforme a las disposiciones jurídicas aplicables;
+IX. Recabar, analizar y procesar la información que requiera para el ejercicio de sus atribuciones, incluyendo aquella información contenida en los diversos medios de almacenamiento y bases de datos, para lo cual podrá utilizar herramientas tecnológicas e informáticas especializadas;
 
-III. Practicar auditorías a los recursos federales que a título de subsidios o por cualquier otro concepto, incluyendo las participaciones federales, los entes públicos hayan otorgado con cargo a su presupuesto a entidades federativas, los municipios y alcaldías de la Ciudad de México, particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado, en cumplimiento de las disposiciones jurídicas aplicables.
+X. Requerir a servidores públicos, así como a cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, información y documentación relacionada con las posibles irregularidades o conductas ilícitas que se han puesto de su conocimiento y aquellas detectadas que correspondan al ejercicio de sus facultades;
 
-Así mismo realizar auditorías a los recursos federales transferidos que administren y ejerzan las entidades federativas, los municipios y las alcaldías de la Ciudad de México, las metas y objetivos de éstos, verificar la contratación de servicios diversos, inversiones físicas federales, adquisiciones y arrendamientos, así como el uso, destino y afectación de bienes muebles e inmuebles adquiridos con los recursos federales transferidos a las entidades federativas, los municipios y las alcaldías de la Ciudad de México;
+XI. Investigar, documentar y evidenciar, en el ámbito de su competencia, hechos, actos u omisiones que impliquen alguna irregularidad o conducta ilícita, y cuando así se requiera, contar con el apoyo de especialistas externos;
 
-IV. Practicar auditorías a efecto de constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquiera otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
+XII. Recibir quejas y denuncias sobre posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales y participaciones federales, en caso de existir elementos que acrediten su intervención, proponer la revisión correspondiente;
 
-V. Practicar auditorías del desempeño a las entidades fiscalizadas en los términos previstos en la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+XIII. Citar a los quejosos o denunciantes, en su caso, para que ratifiquen o amplíen la información proporcionada, y con ello contar con mayores elementos de prueba;
 
-VI. Utilizar tecnologías de información y comunicación, herramientas de punta y las mejores prácticas aceptadas internacionalmente para la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que impliquen irregularidad o conducta ilícita;
+XIV. Requerir a las instancias de control competentes y a las entidades fiscalizadoras locales, los informes, resultados o demás información que se requiera para el ejercicio de sus funciones;
 
-VII. Recabar, analizar y procesar la información que requiera para el ejercicio de sus atribuciones, incluyendo aquella información contenida en los diversos medios de almacenamiento y bases de datos, para lo cual podrá utilizar herramientas tecnológicas e informáticas especializadas;
+XV. Proponer a su superior jerárquico la conclusión de las auditorías forenses en el momento en que, derivado de los hallazgos y conclusiones obtenidas durante el proceso de investigación, se determine que no existen los elementos suficientes para presumir alguna irregularidad;
 
-> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+XVI. Proponer la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con organizaciones nacionales e internacionales en materia de auditoría forense;
 
-VIII. Requerir a servidores públicos, así como a cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, información y documentación relacionada con las posibles irregularidades o conductas ilícitas que se han puesto de su conocimiento y aquellas detectadas que correspondan al ejercicio de sus facultades;
+XVII. Solicitar a las entidades fiscalizadas la información financiera que se requiera con el propósito de consultarla para efectos de las auditorías que se practiquen, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que estén obligados a operar;
 
-IX. Requerir a terceros que hubieran contratado con las entidades fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellos que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de los recursos públicos a efecto de realizar las compulsas correspondientes;
+XVIII. Elaborar, de conformidad con lo establecido en el artículo 36 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, los informes individuales de las auditorías que se practiquen y someterlos a la consideración y autorización de su superior jerárquico, y
 
-X. Investigar, documentar y evidenciar hechos, actos u omisiones que impliquen alguna irregularidad o conducta ilícita, y cuando así se requiera, contar con el apoyo de especialistas externos;
+XIX. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
-XI. Recibir quejas y denuncias sobre posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales y participaciones federales, en caso de existir elementos que acrediten su intervención, proponer la revisión correspondiente;
-
-XII. Citar a los quejosos o denunciantes, en su caso, para que ratifiquen o amplíen la información proporcionada, y con ello contar con mayores elementos de prueba;
-
-XIII. Requerir a las instancias de control competentes y a las entidades fiscalizadoras locales, los informes, resultados o demás información que se requiera para el ejercicio de sus funciones;
-
-XIV. Proponer a su superior jerárquico la conclusión de las auditorías forenses en el momento en que, derivado de los hallazgos y conclusiones obtenidas durante el proceso de investigación, se determine que no existen los elementos suficientes para presumir alguna irregularidad;
-
-XV. Proponer la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con organizaciones nacionales e internacionales en materia de auditoría forense;
-
-XVI. Solicitar a las entidades fiscalizadas la información financiera que se requiera con el propósito de consultarla para efectos de las auditorías que se practiquen, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que estén obligados a operar;
-
-XVII. Elaborar, de conformidad con lo establecido en el artículo 36 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, los informes individuales de las auditorías que se practiquen y someterlos a la consideración y autorización del Auditor Especial de Cumplimiento Financiero, y
-
-XVIII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
-
-Las atribuciones a que hacen referencia las fracciones I, II, III, IV, V, VII, VIII, IX, XI, XIII, XVI y XVIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+Las atribuciones señaladas en este artículo podrán ejercerse a través de medios físicos o electrónicos, mediante cualquier herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -2307,49 +2009,55 @@ XIX. Las demás que en el ámbito de su competencia le otorguen las disposicione
 
 Las atribuciones a que hacen referencia las fracciones I, III y XIX, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
-
 ###### Artículo 32 Bis.
 
-El Centro de Estudios de la Auditoría Superior de la Federación estará adscrito a la Auditoría Especial de Desempeño y su titular tendrá las siguientes atribuciones:
+(DEROGADO, D.O.F. 25 DE AGOSTO DE 2021)
 
-I. Realizar los estudios económicos, sociales, jurídicos y de cualquier otra índole que le sean requeridos y celebrar reuniones académicas vinculadas a dichos estudios;
-
-II. Mantener una comunicación y coordinación permanente con los centros de estudios de la Cámara y de otras instancias;
-
-III. Promover la celebración de convenios de colaboración con otros centros de estudios para el intercambio académico y de experiencias;
-
-IV. Apoyar y asesorar en materia de fiscalización superior y demás materias de su competencia, a los centros de estudios que así lo requieran, a fin de fomentar la colaboración institucional;
-
-V. Practicar estudios, análisis, diagnósticos, evaluaciones e investigaciones a los estados financieros consolidados del gobierno federal incluidos en la Cuenta Pública e informar sobre la razonabilidad de la información financiera y de los resultados reportados en los mismos, conforme a las disposiciones jurídicas aplicables y las mejores prácticas nacionales e internacionales;
-
-VI. Planear, coordinar, obtener la información necesaria y realizar el análisis del Informe de Avance de Gestión Financiera;
-
-VII. Asesorar en materia financiera, económica, presupuestaria y de deuda pública a las unidades administrativas auditoras, para fortalecer las acciones que se generen en las revisiones en el sector público y de las entidades federativas y municipios;
-
-VIII. Analizar la información económica, contable, financiera, programática y presupuestaria que se presente en la Cuenta Pública y en el Informe de Avance de Gestión Financiera, de acuerdo con lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones jurídicas aplicables;
-
-IX. Analizar el Informe Presidencial y los informes financieros, memorias de labores y otra información que por ley deban de rendir los entes públicos tanto a la Cámara como para otros efectos legales, con objeto de elaborar estudios sobre el comportamiento de la economía nacional, las finanzas públicas, la deuda pública y los resultados programáticos y presupuestarios en los términos de las disposiciones jurídicas aplicables;
-
-X. Analizar los Criterios Generales de Política Económica, el Plan Anual de Financiamiento, el Presupuesto de Gastos Fiscales, la Ley de Ingresos de la Federación, el Presupuesto de Egresos y los informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, así como los financiamientos y la deuda pública de las entidades federativas y de los municipios, y la demás información pertinente en los términos de las disposiciones jurídicas aplicables, a fin de producir documentos que coadyuven en la elaboración del Informe General y del Análisis del Informe de Avance de Gestión Financiera;
-
-XI. Integrar y difundir información, así como diseñar y publicar metodologías de investigación y análisis en el ámbito de su competencia, para contribuir a mejorar las revisiones a cargo de la Auditoría Superior de la Federación;
-
-XII. Realizar estudios, análisis, diagnósticos, evaluaciones e investigaciones sobre la deuda pública y las obligaciones de pasivo directas y contingentes, las relacionadas con financiamientos del sector público federal, los requerimientos financieros del sector público y su saldo histórico, así como en relación con el Plan Anual de Financiamiento, el portafolio de la deuda pública, la sostenibilidad de la deuda pública y la administración de riesgos y costos asociados al respecto, de acuerdo con las disposiciones jurídicas aplicables;
-
-XIII. Analizar, en el ámbito de las entidades federativas y municipios, los elementos constitutivos del balance presupuestario y el balance presupuestario de recursos disponibles, así como las medidas aplicadas y sus resultados para solventar las causas del balance presupuestario de negativos, y las situaciones de excepción previstas en la ley respectiva, acerca del límite de endeudamiento anual y del techo de endeudamiento conforme a los convenios suscritos al respecto y la normativa contable, en los términos de las disposiciones jurídicas aplicables;
-
-XIV. Identificar y analizar las mejores prácticas nacionales e internacionales sobre instituciones y reglas fiscales, de contabilidad y presupuesto gubernamental, con el fin de elaborar y proponer para su autorización, proyectos que fortalezcan el marco legal y normativo en estas materias en el sector público y en el marco del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización;
-
-XV. Realizar análisis y propuestas de buen gobierno en relación con el marco regulatorio, las proyecciones, escenarios y gestión de riesgos macroeconómicos, de las finanzas públicas y la deuda pública, considerando las mejores prácticas internacionales en la materia;
-
-XVI. Recabar, procesar y analizar la información que requiera para el ejercicio de sus atribuciones, incluyendo aquella contenida en los diversos medios de almacenamiento y bases de datos especializadas, en el ámbito de su competencia, y
-
-XVII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables o le encargue el Auditor Superior de la Federación.
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 33.
 
-(DEROGADO, D.O.F. 13 DE JULIO DE 2018)
+La Dirección General de Auditoría Forense del Gasto Federalizado estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
+
+I. Practicar, en el ámbito de su competencia, revisiones en las entidades fiscalizadas, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos; el movimiento de fondos de la Federación; las operaciones relacionadas con la deuda pública en su contratación, registro, renegociación, administración y pago; los egresos, incluyendo subsidios, transferencias y donativos, y que los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido; así como, evaluar el cumplimiento de metas y objetivos previstos, conforme a las disposiciones jurídicas aplicables;
+
+II. Practicar, en el ámbito de su competencia, auditorías a los recursos federales que a título de subsidios o por cualquier otro concepto, los entes públicos hayan otorgado con cargo a su presupuesto a particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado, en cumplimiento de las disposiciones jurídicas aplicables;
+
+Asimismo realizar auditorías a los recursos federales transferidos que administren y ejerzan las entidades federativas, los municipios y las alcaldías de la Ciudad de México, las metas y objetivos de éstos, verificar la contratación de servicios diversos, inversiones físicas federales, adquisiciones y arrendamientos, así como el uso, destino y afectación de bienes muebles e inmuebles adquiridos con los recursos federales transferidos a las entidades federativas, los municipios y las alcaldías de la Ciudad de México;
+
+III. Practicar, en el ámbito de su competencia, auditorías a efecto de constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquiera otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
+
+IV. Practicar o continuar auditorías aplicando las técnicas propias de auditoría forense, además de las técnicas de auditoría gubernamental que en general procedan, las que realizará de manera transversal, en el ámbito de competencia de la Auditoría Especial del Gasto Federalizado, y que tengan por objeto la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que pudieran implicar alguna irregularidad o conducta ilícita, documentando con pruebas válidas y suficientes las conclusiones derivadas de los hallazgos e irregularidades detectadas, apoyándose con la tecnología y herramienta forense en los términos y las materias de competencia de la presente fracción;
+
+V. Recibir de las unidades administrativas auditoras adscritas a la Auditoría Especial del Gasto Federalizado, las propuestas de revisión o intervención por posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales;
+
+VI. Evaluar conjuntamente con las unidades administrativas auditoras adscritas a la Auditoría Especial del Gasto Federalizado, las propuestas presentadas a fin de considerar la viabilidad y procedencia de la práctica de técnicas propias de la auditoría forense;
+
+VII. Determinar, con base en los resultados de la evaluación de las propuestas formuladas por las unidades administrativas auditoras adscritas a la Auditoría Especial del Gasto Federalizado, el grado de participación en la revisión, o en su caso, la práctica de la auditoría forense correspondiente, para autorización de su superior jerárquico;
+
+VIII. Utilizar tecnologías de información y comunicación, herramientas de punta y las mejores prácticas aceptadas internacionalmente para la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que impliquen alguna irregularidad o conducta ilícita;
+
+IX. Recabar, analizar y procesar la información que requiera para el ejercicio de sus atribuciones, incluyendo aquella información contenida en los diversos medios de almacenamiento y bases de datos, para lo cual podrá utilizar herramientas tecnológicas e informáticas especializadas;
+
+X. Requerir a servidores públicos, así como a cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, información y documentación relacionada con las posibles irregularidades o conductas ilícitas que se han puesto de su conocimiento y aquellas detectadas que correspondan al ejercicio de sus facultades;
+
+XI. Investigar, documentar y evidenciar, en el ámbito de su competencia, hechos, actos u omisiones que impliquen alguna irregularidad o conducta ilícita, y cuando así se requiera, contar con el apoyo de especialistas externos;
+
+XII. Recibir quejas y denuncias sobre posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de transferencias y participaciones federales, en caso de existir elementos que acrediten su intervención, proponer la revisión correspondiente;
+
+XIII. Citar a los quejosos o denunciantes, en su caso, para que ratifiquen o amplíen la información proporcionada, y con ello contar con mayores elementos de prueba;
+
+XIV. Requerir a las instancias de control competentes y a las entidades fiscalizadoras locales, los informes, resultados o demás información que se requiera para el ejercicio de sus funciones;
+
+XV. Proponer a su superior jerárquico la conclusión de las auditorías forenses en el momento en que, derivado de los hallazgos y conclusiones obtenidas durante el proceso de investigación, se determine que no existen los elementos suficientes para presumir alguna irregularidad;
+
+XVI. Proponer la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con organizaciones nacionales e internacionales en materia de auditoría forense;
+
+XVII. Solicitar a las entidades fiscalizadas la información financiera que se requiera con el propósito de consultarla para efectos de las auditorías que se practiquen, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que estén obligados a operar, y
+
+XVIII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
+
+Las atribuciones señaladas en este artículo podrán ejercerse a través de medios físicos o electrónicos, mediante cualquier herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 34.
 
@@ -2409,9 +2117,11 @@ XXV. Las demás que en el ámbito de su competencia le otorguen las disposicione
 
 Las atribuciones a que hacen referencia las fracciones V, X, XI y XXV, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 35.
 
-La Dirección General de Auditoría a los Recursos Federales Transferidos “A”, estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
+La Dirección General de Auditoría del Gasto Federalizado “A” estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
 
 I. Establecer la comunicación, coordinación y colaboración necesaria, con las entidades fiscalizadas de las entidades federativas, los municipios y las alcaldías de la Ciudad de México;
 
@@ -2458,10 +2168,12 @@ XXI. Las demás que en el ámbito de su competencia le confieran las disposicion
 > <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
 
 Las atribuciones a que hacen referencia las fracciones II, III, V, VI, VIII, IX, XIII, XV, XVIII, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 36.
 
-La Dirección General de Auditoría a los Recursos Federales Transferidos “B”, estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
+La Dirección General de Auditoría del Gasto Federalizado “B” estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
 
 I. Establecer la comunicación, coordinación y colaboración necesaria, con las entidades fiscalizadas de las entidades federativas, los municipios y las alcaldías de la Ciudad de México;
 
@@ -2508,10 +2220,12 @@ XXI. Las demás que en el ámbito de su competencia le confieran las disposicion
 > <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
 
 Las atribuciones a que hacen referencia las fracciones II, III, V, VI, VIII, IX, XIII, XV, XVIII, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 37.
 
-La Dirección General de Auditoría a los Recursos Federales Transferidos “C”, estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
+La Dirección General de Auditoría del Gasto Federalizado “C” estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
 
 I. Establecer la comunicación, coordinación y colaboración necesaria, con las entidades fiscalizadas de las entidades federativas, los municipios y las alcaldías de la Ciudad de México;
 
@@ -2559,9 +2273,11 @@ XXI. Las demás que en el ámbito de su competencia le confieran las disposicion
 
 Las atribuciones a que hacen referencia las fracciones II, III, V, VI, VIII, IX, XIII, XV, XVIII, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 38.
 
-La Dirección General de Auditoría a los Recursos Federales Transferidos “D”, estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
+La Dirección General de Auditoría del Gasto Federalizado “D” estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
 
 I. Establecer la comunicación, coordinación y colaboración necesaria, con las entidades fiscalizadas de las entidades federativas, los municipios y las alcaldías de la Ciudad de México;
 
@@ -2629,6 +2345,10 @@ VI. Remitir a la Dirección General de Investigación el expediente técnico que
 
 VII. Remitir a la Dirección General de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VII Bis. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
+
 VIII. Mantener depurado y actualizado el trámite de las recomendaciones y acciones, para que la información, que en términos de ley remite la Auditoría Superior de la Federación a la Cámara, por conducto de la Comisión de Vigilancia, sobre el estado que guarda la solventación de observaciones, recomendaciones y acciones a las entidades fiscalizadas, sea congruente y confiable;
 
 IX. Coadyuvar con las unidades administrativas auditoras en la revisión de los direccionamientos de las acciones, previo a su formalización en los informes individuales de auditoría;
@@ -2662,6 +2382,10 @@ V. Emitir, en su caso y de conformidad con la normativa aplicable, los dictámen
 VI. Remitir a la Dirección General de Investigación el expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones;
 
 VII. Remitir a la Dirección General de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VII Bis. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
 
 VIII. Mantener depurado y actualizado el trámite de las recomendaciones y acciones, para que la información, que en términos de ley remite la Auditoría Superior de la Federación a la Cámara, por conducto de la Comisión de Vigilancia, sobre el estado que guarda la solventación de observaciones, recomendaciones y acciones a las entidades fiscalizadas, sea congruente y confiable;
 
@@ -2765,7 +2489,9 @@ IX. Determinar la existencia o inexistencia de actos u omisiones que la Ley Gene
 
 X. Suscribir y, en su caso, elaborar el Informe de Presunta Responsabilidad Administrativa para su presentación ante la Dirección General de Substanciación dentro del plazo de 30 días naturales a partir de la calificación de la falta administrativa;
 
-XI. Remitir a la Dirección General Jurídica copia certificada del expediente correspondiente en los casos en que, derivado de sus investigaciones, se presuma la comisión de un delito;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XI. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
 
 XII. Promover el Informe de Presunta Responsabilidad Administrativa y en su caso, penal a los servidores públicos de la Auditoría Superior de la Federación, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones sobre las situaciones irregulares que detecten o violen la reserva de información;
 
@@ -2809,6 +2535,10 @@ I. Asesorar en materia jurídica a las áreas de la Auditoría Superior de la Fe
 
 II. Analizar, revisar, formular y someter a la consideración del Titular de la Unidad de Asuntos Jurídicos, los proyectos de estudios de leyes, decretos, reglamentos, circulares y demás disposiciones jurídicas en las materias que sean competencia de la Auditoría Superior de la Federación, en la forma que determine el Titular de la Unidad de Asuntos Jurídicos;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+II Bis. Elaborar y actualizar la normativa de carácter jurídico y los lineamientos necesarios para el cumplimiento de disposiciones jurídicas y someterlos a aprobación del Titular de la Unidad de Asuntos Jurídicos;
+
 III. Participar en la elaboración de los informes individuales, específicos y General en el ámbito de su competencia;
 
 IV. Instruir y substanciar el procedimiento para la imposición de las multas establecidas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, así como emitir las resoluciones correspondientes, con el auxilio del personal adscrito a la unidad administrativa a su cargo;
@@ -2835,7 +2565,9 @@ XIV. Asesorar, a petición de las unidades administrativas auditoras, en el trá
 
 XV. Proporcionar asesoría jurídica, a petición de las unidades administrativas auditoras, en la elaboración de los documentos en los que se dé por terminada cualquier acción legal de la Auditoría Superior de la Federación;
 
-XVI. Emitir el dictamen jurídico a que se refiere el artículo 62 de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI. Emitir el dictamen técnico jurídico a que se refiere el artículo 62 de la Ley de Fiscalización y Rendición de Cuentas de la Federación y, para tales efectos, por sí o a través de sus Directores de Área, formular a las unidades administrativas auditoras, en su caso, los requerimientos necesarios;
 
 XVII. Difundir, en el ámbito de su competencia, los criterios jurídicos que emitan los Tribunales como resultado de sus determinaciones que pudieran impactar en el desarrollo de las funciones de la Auditoría Superior de la Federación;
 
@@ -2845,7 +2577,9 @@ XIX. Elaborar los acuerdos mediante los cuales el Auditor Superior de la Federac
 
 XX. Elaborar los proyectos de reformas y adiciones a este Reglamento, en los términos que le señale el Auditor Superior de la Federación a través de su superior jerárquico;
 
-XXI. Asesorar en materia jurídica en la celebración de convenios de coordinación o colaboración en los que participe la Auditoría Superior de la Federación con los Poderes de la Unión, órganos constitucionalmente autónomos, legislaturas locales, la Asamblea Legislativa del Distrito Federal, las entidades fiscalizadoras locales, los municipios y las alcaldías de la Ciudad de México, así como con los organismos nacionales e internacionales que agrupen a entidades de fiscalización superior homólogas, o con éstas directamente, con el sector privado y con los colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio de carácter multinacional, con apego a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXI. Asesorar en materia jurídica en la celebración de convenios de coordinación o colaboración en los que participe la Auditoría Superior de la Federación con los Poderes de la Unión, órganos constitucionalmente autónomos, legislaturas locales, el Congreso de la Ciudad de México, las entidades fiscalizadoras locales, los municipios y las alcaldías de la Ciudad de México, así como con los organismos nacionales e internacionales que agrupen a entidades de fiscalización superior homólogas, o con éstas directamente, con el sector privado y con los colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio de carácter multinacional, con apego a las disposiciones jurídicas aplicables, así como llevar su control, registro y gestionar su publicación en la página de internet de la Auditoría Superior de la Federación;
 
 XXII. Asesorar en materia jurídica en las relaciones entre la Auditoría Superior de la Federación y los diversos organismos superiores de fiscalización y control gubernamental, tanto nacionales como internacionales;
 
@@ -2853,9 +2587,13 @@ XXIII. Asesorar a las unidades administrativas auditoras en la elaboración de l
 
 XXIV. Ejercer en el ámbito de su competencia las acciones civiles, administrativas o de cualquiera otra índole en los juicios y procedimientos en que la Auditoría Superior de la Federación sea parte; promover y contestar demandas, presentar pruebas, absolver posiciones y formular alegatos, interponer toda clase de recursos, y dar el debido seguimiento a dichos juicios, hasta que se cumplimenten las resoluciones que en ellos se dicten, en representación de la Auditoría Superior de la Federación; y presentar denuncias o querellas penales cuando se afecte el patrimonio de la Auditoría Superior de la Federación o en las que tenga interés jurídico;
 
-XXV. Asesorar, a petición de las unidades administrativas auditoras, sobre aspectos legales de los dictámenes técnicos para presentar denuncias de juicio político, denuncias o querellas penales derivadas de la fiscalización superior;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XXVI. Presentar las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas por las unidades administrativas auditoras con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos, elaborados por dichas unidades;
+XXV. Asesorar, a petición de las unidades administrativas competentes, sobre aspectos legales de los dictámenes técnicos para presentar denuncias de juicio político, denuncias o querellas penales derivadas de la fiscalización superior;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI. Presentar las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas por las unidades administrativas competentes con motivo de la fiscalización superior, con apoyo en los dictámenes técnicos respectivos, elaborados por dichas unidades;
 
 XXVII. Coadyuvar con la autoridad ministerial y jurisdiccional en los procesos penales, de los que forme parte la Auditoría Superior de la Federación, en la investigación y judicialización de los asuntos;
 
@@ -2959,35 +2697,53 @@ XV. Las demás que en el ámbito de su competencia le otorguen las disposiciones
 
 (DEROGADO, D.O.F. 13 DE JULIO DE 2018)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 45.
 
-La Dirección General de Substanciación de la Auditoría Superior de la Federación es la unidad administrativa de la Auditoría Superior de la Federación encargada de dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial.
+La Dirección General de Substanciación es la unidad administrativa de la Auditoría Superior de la Federación encargada de dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial.
 
 La Dirección General de Substanciación deberá observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 46.
 
 La Dirección General de Substanciación estará adscrita a la Unidad de Asuntos Jurídicos y su titular tendrá las siguientes atribuciones:
 
-I. Emitir, en caso de considerarlo procedente, el acuerdo de admisión del Informe de Presunta Responsabilidad Administrativa con el que se dará inicio al procedimiento de responsabilidad;
+I. Emitir, en caso de considerarlo procedente, el acuerdo de admisión del Informe de Presunta Responsabilidad Administrativa con el que se dará inicio al procedimiento de responsabilidad, o abstenerse de iniciar el mismo en términos del artículo 101 de la Ley General de Responsabilidades Administrativas;
 
-II. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
+II. Decretar, cuando sea procedente, la acumulación en términos del artículo 185 y 186 de la Ley General de Responsabilidades Administrativas;
 
-III. Hacer uso de los medios de apremio a que se refiere el artículo 120 de la Ley General de Responsabilidades Administrativas para hacer cumplir sus determinaciones;
+III. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
 
-IV. Decretar las medidas cautelares establecidas en la Ley General de Responsabilidades Administrativas;
+IV. Hacer uso de los medios de apremio a que se refiere el artículo 120 de la Ley General de Responsabilidades Administrativas para hacer cumplir sus determinaciones;
 
-V. Prevenir, en su caso, a la Dirección General de Investigación en términos del artículo 195 de la Ley General de Responsabilidades Administrativas;
+V. Conocer y tramitar los incidentes, así como los medios de impugnación que sean de su competencia;
 
-VI. Substanciar y presentar ante el Tribunal el expediente de presunta responsabilidad administrativa que le remita la Dirección General de Investigación en los casos de faltas administrativas graves, y
+VI. Decretar las medidas cautelares establecidas en la Ley General de Responsabilidades Administrativas;
 
-VII. Las demás que en el ámbito de su competencia le otorguen la Ley General de Responsabilidades Administrativas y las demás disposiciones jurídicas aplicables.
+VII. Prevenir, o en su caso tener por no presentado el Informe de Presunta Responsabilidad Administrativa remitido por la Dirección General de Investigación en términos del artículo 195 de la Ley General de Responsabilidades Administrativas;
+
+VIII. Decretar el desechamiento cuando se actualice alguna de las hipótesis del artículo 196, así como sobreseer en términos del artículo 197, ambos de la Ley General de Responsabilidades Administrativas;
+
+IX. Substanciar y presentar ante el Tribunal el expediente de presunta responsabilidad administrativa que le remita la Dirección General de Investigación en los casos de faltas administrativas graves;
+
+X. Expedir copia certificada de las constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental, y
+
+XI. Las demás que en el ámbito de su competencia le otorguen la Ley General de Responsabilidades Administrativas y las demás disposiciones jurídicas aplicables.
+
+Las atribuciones a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI de este artículo podrán ser ejercidas indistintamente por los Directores adscritos a la Dirección General de Substanciación.
 
 ###### Artículo 47.
 
 La Dirección General de Recursos Humanos estará adscrita a la Unidad General de Administración y su titular tendrá las siguientes atribuciones:
 
 I. Administrar los recursos humanos de la Auditoría Superior de la Federación de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+I Bis. Representar a la Auditoría Superior de la Federación, con el apoyo de la Dirección de Relaciones Laborales, ante los tribunales, órganos jurisdiccionales y demás autoridades en materia del trabajo, en cualquier tipo de controversias y juicios que se susciten en materia laboral con motivo de la aplicación de disposiciones constitucionales, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y, en su caso, de las Condiciones Generales de Trabajo; formular las demandas y contestaciones, ofrecer pruebas, absolver posiciones, allanarse, transigir, celebrar convenios y ejercer dicha representación inclusive respecto de las acciones relativas a la ejecución de los laudos o resoluciones definitivas; interponer los recursos y formular las demandas de amparo que procedan en contra de resoluciones provisionales o definitivas y acuerdos que en dichas controversias y juicios se dicten; efectuar el pago de salarios caídos y otras prestaciones de carácter económico determinadas en laudos, incluyendo la restitución en el goce de derechos y presentar todas aquellas promociones que se requieran en el curso de los procedimientos, en términos de la legislación laboral aplicable;
 
 II. Elaborar, y someter a la consideración del Titular de la Unidad General de Administración, el anteproyecto de presupuesto correspondiente al Capítulo 1000 “Servicios Personales”, para su integración respectiva en el anteproyecto de presupuesto anual de la Auditoría Superior de la Federación;
 
@@ -2999,7 +2755,9 @@ V. Elaborar y suscribir previo acuerdo del Titular de la Unidad General de Admin
 
 VI. Elaborar y suscribir los nombramientos y movimientos del personal de base previo acuerdo del Titular de la Unidad General de Administración;
 
-VII. Conducir las relaciones laborales de la Auditoría Superior de la Federación en coordinación con la Dirección de Apoyo Jurídico;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VII. Conducir las relaciones laborales de la Auditoría Superior de la Federación con apoyo de la Dirección de Relaciones Laborales;
 
 VIII. Elaborar y suscribir los contratos de servicios profesionales bajo el régimen de honorarios del Capítulo 1000 “Servicios Personales” previo acuerdo del Titular de la Unidad General de Administración a cargo de la Auditoría Superior de la Federación;
 
@@ -3007,19 +2765,25 @@ IX. Proponer al Titular de la Unidad General de Administración la creación o a
 
 X. Elaborar y mantener actualizada la política de remuneraciones, prestaciones y estímulos del personal de confianza de la Auditoría Superior de la Federación, conforme al Presupuesto de Egresos correspondiente y a la Ley Federal de Presupuesto y Responsabilidad Hacendaria para que previo acuerdo del Titular de la Unidad General de Administración sea autorizada por el Auditor Superior de la Federación;
 
-XI. Proponer al Titular de la Unidad General de Administración y, en su caso instrumentar los procesos, sistemas y programas para el reclutamiento, selección, ingreso, evaluación del desempeño, remuneraciones, estímulos y recompensas del personal, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XI. Proponer al Titular de la Unidad General de Administración y, en su caso, instrumentar los procesos, sistemas y programas para el reclutamiento, selección, ingreso, evaluación del desempeño, remuneraciones y estímulos del personal, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
 XII. Elaborar los lineamientos administrativos y su actualización, así como, llevar a cabo los trámites para su publicación, previa autorización del Titular de la Unidad General de Administración;
 
 XIII. Formular y mantener actualizado el Catálogo General de Puestos de la Auditoría Superior de la Federación;
 
-XIV. Aplicar los sistemas de estímulos y recompensas que determine el Auditor Superior de la Federación y las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIV. Aplicar los sistemas de estímulos que determine el Auditor Superior de la Federación y las disposiciones jurídicas aplicables;
 
 XV. Organizar y operar el Servicio Fiscalizador de Carrera de conformidad con las disposiciones contenidas en el Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación;
 
 XVI. Someter a consideración del Titular de la Unidad General de Administración el proyecto de Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación;
 
-XVII. Elaborar y someter a consideración del Titular de la Unidad General de Administración, los Manuales de Organización y de Procedimientos de la Auditoría Superior de la Federación, así como, previa autorización del Auditor Superior de la Federación, llevar a cabo los trámites para su publicación;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII. Elaborar y someter a consideración del Titular de la Unidad General de Administración, el Manual de Organización de la Auditoría Superior de la Federación, así como, previa autorización del Auditor Superior de la Federación, llevar a cabo los trámites para su publicación;
 
 XVIII. Supervisar los sistemas de administración de personal, control y asistencia, y mantener actualizado el acervo de datos del personal, asegurando su resguardo de conformidad con las disposiciones jurídicas aplicables;
 
@@ -3029,7 +2793,9 @@ XX. Coordinar la revisión de las Condiciones Generales de Trabajo de la Auditor
 
 XXI. Administrar los seguros para el personal que contrate la Auditoría Superior de la Federación, así como los que gestione por cuenta del personal de la misma;
 
-XXII. Instrumentar la evaluación de la integridad del personal de la Auditoría Superior de la Federación, así como elaborar lineamientos y criterios relativos a dicha materia; entrevistar y aplicar exámenes toxicológicos, socioeconómicos, psicológicos y psicotécnicos, entre otros, así como realizar investigaciones socioeconómicas y de antecedentes académicos; para el ingreso, reingreso, ascenso o cualquier otro movimiento de candidatos para ocupar puestos o niveles en la institución y a los servidores públicos y prestadores de servicios profesionales por honorarios de la Auditoría Superior de la Federación, cuando así lo determine la Unidad General de Administración o la unidad administrativa con nivel mínimo de Dirección General, en la que se encuentren adscritos;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXII. Instrumentar la evaluación del personal de la Auditoría Superior de la Federación, así como elaborar lineamientos y criterios relativos a dicha materia; entrevistar y aplicar exámenes psicológicos, psicotécnicos y de valores, entre otros, así como realizar investigaciones de antecedentes académicos y laborales, para el ingreso, reingreso, ascenso o cualquier otro movimiento de candidatos para ocupar puestos o niveles en la institución y a los servidores públicos y prestadores de servicios profesionales por honorarios de la Auditoría Superior de la Federación, cuando así lo determine la Unidad General de Administración o la unidad administrativa con nivel mínimo de Dirección General, en la que se encuentren adscritos;
 
 XXIII. Suscribir, previo acuerdo con el Titular de la Unidad General de Administración, a nombre y representación de la Auditoría Superior de la Federación, los convenios, contratos, acuerdos y cualquier otro instrumento jurídico necesario, relacionados con la administración de recursos humanos y de servicios, en estricto apego a las disposiciones jurídicas que rijan la materia;
 
@@ -3081,6 +2847,10 @@ X Bis. Coordinar las funciones y actividades relacionadas con la organización, 
 
 X Ter. Participar, en su caso, y en el ámbito de su competencia, en el Sistema Nacional de Archivos;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+X Quater. Emitir y publicar los dictámenes y las actas de baja documental y transferencia secundaria, de conformidad con la Ley General de Archivos y las disposiciones jurídicas aplicables en la materia;
+
 XI. Proporcionar los servicios de apoyo administrativo que requieran las áreas de la Auditoría Superior de la Federación;
 
 XII. Establecer, dirigir, controlar y evaluar, previa autorización del Titular de la Unidad General de Administración, el Programa Interno de Protección Civil para el personal, instalaciones e información de la Auditoría Superior de la Federación, de conformidad con las normas aprobadas para su operación, desarrollo y vigilancia;
@@ -3089,11 +2859,19 @@ XIII. Planear y dirigir los trabajos para adquirir, arrendar y recibir en donaci
 
 XIV. Organizar las acciones tendientes a satisfacer las necesidades de espacios físicos, construcción, adaptaciones, instalaciones y mantenimiento preventivo y correctivo de los inmuebles de la Auditoría Superior de la Federación;
 
-XV. Tramitar en coordinación con las unidades administrativas requirentes, los convenios, contratos y pedidos que afecten el presupuesto, y la elaboración de los contratos y convenios;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XV. Tramitar en coordinación con las unidades administrativas requirentes, los convenios, contratos y pedidos que afecten el presupuesto;
 
 XVI. Contratar y coordinar los servicios de vigilancia para las personas, la seguridad de los bienes y los valores de la Auditoría Superior de la Federación;
 
-XVII. Suscribir, previo acuerdo con el Titular de la Unidad General de Administración, a nombre y representación de la Auditoría Superior de la Federación, los convenios, contratos, acuerdos y cualquier otro instrumento jurídico necesario, relacionados con la administración de recursos materiales, servicios, obra pública y servicios relacionados con la misma y los bienes inmuebles, en estricto apego a las disposiciones jurídicas que rijan la materia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII. Elaborar y suscribir, previo acuerdo con el Titular de la Unidad General de Administración, a nombre y representación de la Auditoría Superior de la Federación, los convenios, contratos, pedidos, acuerdos y cualquier otro instrumento jurídico relacionados con las adquisiciones, arrendamientos de bienes muebles e inmuebles y enajenaciones de todo tipo de bienes muebles e inmuebles, prestación de servicios de cualquier naturaleza y la contratación de obra pública y servicios relacionados con la misma, en estricto apego a las disposiciones jurídicas que rijan la materia;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII Bis. Rescindir administrativamente en representación de la Auditoría Superior de la Federación, los convenios y contratos que se celebren, conforme a las disposiciones jurídicas aplicables;
 
 XVIII. Controlar el uso, mantenimiento y reparación de los vehículos al servicio de la Auditoría Superior de la Federación, así como el consumo de los combustibles e insumos que requieran, y
 
@@ -3135,15 +2913,37 @@ XV. Contratar, previo acuerdo con el Titular de la Unidad General de Administrac
 
 XVI. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 50.
 
-(DEROGADO, D.O.F. 13 DE JULIO DE 2018)
+La Dirección General de Sistemas estará adscrita a la Unidad General de Administración y su titular tendrá las siguientes atribuciones:
+
+I. Establecer las normas y emitir las políticas en materia de tecnologías de información, comunicaciones, seguridad informática y gestión de datos de la Auditoría Superior de la Federación, previa aprobación de su superior jerárquico;
+
+II. Otorgar asistencia técnica en materia de tecnologías de información y comunicaciones a las áreas de la Auditoría Superior de la Federación, así como participar en la capacitación del personal para el manejo de los equipos y la operación de los sistemas institucionales;
+
+III. Elaborar dictámenes técnicos para optimizar la plataforma de tecnologías de (sic) información y comunicaciones de la Auditoría Superior de la Federación, así como gestionar la adquisición, ampliación, sustitución, mantenimiento, actualización y operación de la infraestructura tecnológica institucional y administrar los contratos respectivos;
+
+IV. Desarrollar e implementar los sistemas informáticos y herramientas tecnológicas de la Auditoría Superior de la Federación y, en su caso, proponer la contratación de servicios externos complementarios;
+
+V. Asesorar técnicamente a las unidades administrativas para proporcionar los recursos informáticos, sistemas y licencias de software específica (sic), incluido su mantenimiento y actualización, bajo el modelo de operación que se establezca;
+
+VI. Elaborar los dictámenes de no utilidad de los bienes de tecnologías de información y comunicaciones, y de consumibles informáticos;
+
+VII. Coordinar la actualización de los servicios de tecnologías de información y comunicaciones públicos e internos, sus interfaces, seguridad y su correcto funcionamiento, de acuerdo con las disposiciones jurídicas aplicables, y
+
+VIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 51.
 
-La Dirección de Apoyo Jurídico, estará adscrita a la Unidad General de Administración y su titular tendrá las atribuciones siguientes:
+La Dirección de Relaciones Laborales estará adscrita a la Dirección General de Recursos Humanos y su titular tendrá las atribuciones siguientes:
 
-I. Representar a la Auditoría Superior de la Federación ante los tribunales, órganos jurisdiccionales y demás autoridades en materia del trabajo, en cualquier tipo de controversias y juicios que se susciten en materia laboral con motivo de la aplicación de disposiciones constitucionales, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y, en su caso, de las Condiciones Generales de Trabajo; formular las demandas y contestaciones, ofrecer pruebas, allanarse, transigir, celebrar convenios y ejercer dicha representación inclusive respecto de las acciones relativas a la ejecución de los laudos o resoluciones definitivas; interponer los recursos que procedan y absolver posiciones, formular las demandas de amparo que procedan en contra de resoluciones provisionales o definitivas y acuerdos que en dichas controversias y juicios se dicten; asistir legalmente en materia laboral a las unidades administrativas de la Auditoría Superior de la Federación, así como efectuar el pago de salarios caídos y otras prestaciones de carácter económico determinadas en laudos, incluyendo la restitución en el goce de derechos, absolver pliegos de posiciones y presentar todas aquellas promociones que se requieran en el curso de los procedimientos, en términos de la legislación laboral aplicable;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+I. Representar a la Auditoría Superior de la Federación ante los tribunales, órganos jurisdiccionales y demás autoridades en materia del trabajo, en cualquier tipo de controversias y juicios que se susciten en materia laboral con motivo de la aplicación de disposiciones constitucionales, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y, en su caso, de las Condiciones Generales de Trabajo; formular las demandas y contestaciones, ofrecer pruebas, absolver posiciones, allanarse, transigir, celebrar convenios y ejercer dicha representación inclusive respecto de las acciones relativas a la ejecución de los laudos o resoluciones definitivas; interponer los recursos y formular las demandas de amparo que procedan en contra de resoluciones provisionales o definitivas y acuerdos que en dichas controversias y juicios se dicten; efectuar el pago de salarios caídos y otras prestaciones de carácter económico determinadas en laudos, incluyendo la restitución en el goce de derechos y presentar todas aquellas promociones que se requieran en el curso de los procedimientos, en términos de la legislación laboral aplicable;
 
 II. Asesorar en materia jurídica al Titular de la Unidad General de Administración, así como a los directores generales adscritos a la Unidad General de Administración y actuar como su órgano de consulta;
 
@@ -3155,13 +2955,15 @@ V. Tramitar y ejecutar los actos relativos a la terminación y suspensión de re
 
 VI. Elaborar y tramitar los convenios de relaciones laborales que requieran ser documentados;
 
-VII. Elaborar los contratos y convenios en materia de adquisiciones, arrendamientos, obra pública y servicios, con base en los proyectos y la información que proporcione el área responsable de suscribirlos, así como, en su caso, revisar jurídicamente las bases de licitación y demás contratos y convenios que celebre la Auditoría Superior de la Federación;
+VII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-VIII. Asesorar a las unidades administrativas de la Auditoría Superior de la Federación en los asuntos laborales relativos a su personal, incluso en la práctica y levantamiento de constancias y actas administrativas en esta materia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+VIII. Asesorar y asistir legalmente a las unidades administrativas de la Auditoría Superior de la Federación en los asuntos laborales relativos a su personal, incluso en la práctica y levantamiento de constancias y actas administrativas en esta materia;
 
 IX. Dar cumplimiento a los laudos que se emitan en contra de la Auditoría Superior de la Federación;
 
-X. Rescindir administrativamente en representación de la Auditoría Superior de la Federación, los convenios y contratos que el mismo celebre, conforme a las disposiciones jurídicas aplicables;
+X. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 XI. Expedir constancias y copias certificadas de los documentos que obren en sus archivos, y
 
@@ -3171,155 +2973,241 @@ XII. Las demás que en el ámbito de su competencia le otorguen las disposicione
 
 (DEROGADO, D.O.F. 13 DE JULIO DE 2018)
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 52 Bis.
 
-La Dirección General de Homologación Legislativa y Normatividad estará adscrita a la Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas, y su titular tendrá las atribuciones siguientes:
+La Dirección General de Normatividad y Enlace Legislativo estará adscrita a la Unidad de Normatividad y Enlace Legislativo y su titular tendrá las atribuciones siguientes:
 
-I. Elaborar y someter a consideración del Titular de la Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas, los documentos técnicos normativos que rigen la función de fiscalización superior;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-II. Realizar análisis comparativos entre el marco normativo institucional, las Normas Profesionales de Auditoría del Sistema Nacional de Fiscalización y las normas internacionales en la materia;
+I. Elaborar y someter a consideración del Titular de la Unidad de Normatividad y Enlace Legislativo, los documentos técnicos normativos que rigen la función de fiscalización superior, los criterios para la fiscalización superior y las reglas necesarias derivadas de la fiscalización digital o de cualquier otro avance o modificación a la norma general;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+I Bis. Elaborar y someter a consideración del Titular de la Unidad de Normatividad y Enlace Legislativo, los manuales de procedimientos de la Auditoría Superior de la Federación, así como, previa autorización del Auditor Superior de la Federación, llevar a cabo los trámites para su publicación;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+II. Realizar análisis comparativos entre el marco normativo institucional, las Normas Profesionales de Auditoría del Sistema Nacional de Fiscalización y las normas internacionales en la materia; asimismo, proponer la implementación y actualización de los lineamientos técnicos internos y necesarios para el proceso de fiscalización superior, previo acuerdo con las Auditorías Especiales;
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 III. Emitir opinión sobre los documentos técnicos normativos que elaboren las unidades administrativas auditoras y sugerir los cambios que considere pertinentes;
 
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
 IV. Proponer los requisitos que los informes individuales de auditoría e informes específicos deben incorporar para contar con los elementos indispensables que establece la Ley de Fiscalización y Rendición de Cuentas de la Federación para la integración del Informe General; asimismo, establecer la metodología en coordinación con las áreas responsables de la planeación, ejecución, integración de informes y el seguimiento de las acciones y recomendaciones;
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 V. Mantener actualizada la normativa técnica en el Sistema de Control de Documentos;
 
-> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VI. Vigilar en coordinación con la Dirección General de Sistemas, que las herramientas tecnológicas para el proceso de la fiscalización superior de la Auditoría Superior de la Federación cumplan con las disposiciones normativas aplicables;
+VI. Vigilar, en coordinación con la Dirección General de Sistemas que el Sistema de Control y Seguimiento de Auditorías cumpla con las disposiciones normativas de los procesos de Planeación, Desarrollo, Integración del Informe General, Seguimiento y Fincamiento de Responsabilidades Resarcitorias;
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 VII. Brindar asesoría a las unidades administrativas auditoras sobre el contenido de la normativa institucional;
 
-VIII. Dirigir la vinculación de la Auditoría Superior de la Federación con los sistemas locales anticorrupción;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-IX. Analizar la legislación de las entidades federativas que se relacione con la fiscalización, rendición de cuentas y transparencia;
+VIII. Dirigir la vinculación de la Auditoría Superior de la Federación, tratándose de homologación legislativa, con los sistemas locales anticorrupción;
 
-X. Recopilar la información que contribuya a la homologación de la legislación de las entidades federativas en materia de fiscalización, rendición de cuentas y transparencia;
+IX. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-XI. Celebrar reuniones con universidades, centros de estudios, organizaciones de la sociedad civil, gobiernos estatales y congresos locales, a efecto de fomentar la homologación de la legislación de las entidades federativas en materia de fiscalización, rendición de cuentas y transparencia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XII. Elaborar las propuestas de reformas que contribuyan a homologación de la legislación de las entidades federativas en materia de fiscalización, rendición de cuentas y transparencia;
+X. Recopilar y analizar la información que contribuya a la homologación de la legislación de las entidades federativas en las materias de fiscalización, rendición de cuentas y transparencia, acceso a la información y protección de datos personales;
 
-XIII. Dar seguimiento al proceso legislativo de las reformas que tengan por finalidad la homologación de la legislación de las entidades federativas en materia de fiscalización, rendición de cuentas y transparencia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XIV. Participar, en el ámbito de su competencia, en el Sistema Nacional de Fiscalización, en el Sistema Nacional Anticorrupción y en el Sistema Nacional de Transparencia, y
+XI. Celebrar reuniones con universidades, centros de estudios, organizaciones de la sociedad civil, gobiernos estatales y congresos locales, a efecto de fomentar la homologación de la legislación de las entidades federativas en las materias de fiscalización, rendición de cuentas, transparencia, acceso a la información y protección de datos personales;
 
-XV. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+XII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIII. Elaborar las propuestas de reformas que contribuyan a la homologación de la legislación de las entidades federativas en las materias de fiscalización, rendición de cuentas y transparencia, acceso a la información y protección de datos personales;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIV. Participar, en el ámbito de su competencia, en el Sistema Nacional de Fiscalización, en el Sistema Nacional Anticorrupción, y en el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XV. Elaborar, analizar e integrar, cuando se les solicite, los proyectos legislativos en el ámbito federal en los que se aborden temas de interés para la Auditoría Superior de la Federación, en materia de fiscalización, rendición de cuentas y combate a la corrupción, y someterlos a consideración de su superior jerárquico; y opinar, en su caso, respecto de la redacción y alcance de las sugerencias a la Cámara de Diputados, que se pretendan incluir en los informes por las áreas auditoras, en términos de las disposiciones aplicables y en colaboración con las áreas competentes;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI. Recopilar la información que considere relevante dentro del ámbito del proceso legislativo o de modificaciones a la Constitución Política de los Estados Unidos Mexicanos relacionados con la fiscalización;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII. Coadyuvar, en colaboración con las áreas competentes, en la coordinación para la atención de los requerimientos de información y opinión solicitados por las Cámaras del Congreso de la Unión, que guarden relación con las funciones de fiscalización de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVIII. Atender, en colaboración con las unidades administrativas de la Auditoría Superior de la Federación, las solicitudes de los órganos legislativos y administrativos relacionadas con la práctica de auditorías;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIX. Llevar las relaciones de la Auditoría Superior de la Federación con la Comisión de Vigilancia de la Auditoría Superior de la Federación, así como las de coordinación, en su caso, con las demás Comisiones de la Cámara en las que se aborden temas de interés para la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XX. Elaborar, analizar e integrar los proyectos legislativos en los que se aborden temas de interés para la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXI. Elaborar los informes acerca de los proyectos de leyes, dictámenes y órdenes del día propuestas por la Cámara, que guarden relación con la Auditoría Superior de la Federación o sean de su interés;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXII. Llevar el seguimiento y coordinación para la atención de los requerimientos de información y opinión solicitados por la Cámara, que guarden relación con las funciones de fiscalización de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIII. Ejecutar las líneas de acción para el seguimiento de los temas tratados en la Cámara, que se relacionen con las funciones de fiscalización de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIV. Recopilar información de los asuntos legislativos de la Cámara que se relacionen con temas de fiscalización superior de la Cuenta Pública;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXV. Elaborar reportes sobre los avances en las iniciativas de ley dentro de la Cámara que se enfoquen en materia de fiscalización, para apoyar la toma de decisiones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 52 Ter.
 
-La Dirección General de Planeación Estratégica estará adscrita a la Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas, y su titular tendrá las siguientes atribuciones:
+La Dirección General de Planeación y Evaluación estará adscrita a la Unidad de Normatividad y Enlace Legislativo y su titular tendrá las siguientes atribuciones:
 
-I. Elaborar el proyecto de plan estratégico de la Auditoría Superior de la Federación, en colaboración con las áreas competentes;
+I. Supervisar y coordinar la elaboración, seguimiento y evaluación del Plan Estratégico Institucional de la Auditoría Superior de la Federación, en colaboración con las áreas competentes, así como proponer las mejoras correspondientes; mismo que será el instrumento básico para el Programa Anual de Actividades;
 
 II. Requerir a las entidades fiscalizadas información para efectos de la planeación para la fiscalización superior;
 
-III. Elaborar y actualizar las disposiciones normativas para regular la planeación y programación en la Auditoría Superior de la Federación, así como lineamientos y manuales específicos sobre la materia;
+III. Proponer la elaboración y actualización de las disposiciones normativas para regular la planeación estratégica y de auditorías, así como los lineamientos, manuales y metodologías sobre las materias correspondientes;
 
 IV. Elaborar y presentar propuestas de auditorías, estudios y evaluaciones de políticas públicas;
 
-V. Coordinar el grupo de programación para la integración del proyecto del Programa Anual de Auditorías;
+V. Coordinar el grupo de planeación para la integración y seguimiento del Programa Anual de Auditorías;
 
-VI. Analizar las propuestas de auditoría realizadas por las unidades administrativas auditoras;
+VI. Coordinar el análisis de las propuestas de auditoría realizadas por las unidades administrativas auditoras, así como la atención y análisis de las solicitudes de auditoría que presenten los ciudadanos, en colaboración con las áreas competentes;
 
-VII. Integrar el Programa Anual de Auditorías;
+VII. Integrar el Programa Anual de Auditorías acorde con las metas institucionales y el Plan Estratégico Institucional;
 
-VIII. Gestionar las modificaciones al Programa Anual de Auditorías;
+VIII. Coordinar y dar seguimiento al Programa Anual de Auditorías;
 
-IX. Gestionar la atención de los asuntos a que se refiere el Título Cuarto de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+IX. Registrar, programar y monitorear las auditorías que se generen por (sic) Título Cuarto de la Ley de Fiscalización y Rendición de Cuentas de la Federación y dar seguimiento a las auditorías por mandato judicial;
 
-> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
+X. Operar el sistema para la presentación y atención de las denuncias electrónicas a que se refiere la Ley de Fiscalización y Rendición de Cuentas de la Federación.
 
-IX Bis. Operar el sistema para la presentación y atención de las denuncias electrónicas a que se refiere la Ley de Fiscalización y Rendición de Cuentas de la Federación.
+XI. Proponer indicadores estratégicos que permitan evaluar el desempeño de las actividades correspondientes a la Dirección a su cargo y someterlas a la consideración de su superior jerárquico;
 
-X. Proponer indicadores estratégicos que permitan evaluar el desempeño de las actividades correspondientes a la Dirección a su cargo y someterlas a la consideración de su superior jerárquico;
+XII. Coordinar la elaboración de los estudios, opiniones, informes y demás documentos que le sean encomendados;
 
-XI. Coordinar la elaboración de los estudios, opiniones, informes y demás documentos que le sean encomendados;
+XIII. Asesorar en materia de planeación y programación de auditorías a las áreas que lo soliciten;
 
-XII. Asesorar en materia de planeación y programación de auditorías a las áreas que lo soliciten;
+XIV. Impulsar y coordinar acciones de fortalecimiento institucional con las áreas correspondientes;
 
-XIII. Participar en el proceso de planeación y programación para impulsar el Sistema Nacional de Fiscalización y las estrategias e iniciativas que le sean encomendadas por su superior jerárquico;
+XV. Participar, cuando así corresponda, en el procedimiento de revisión institucional de los informes de auditoría que se consideren estratégicos, con el fin de contribuir a la mejora de la calidad de éstos;
 
-XIV. Proponer a su superior jerárquico sugerencias que puedan ser presentadas a la Cámara que impacten en la planeación y programación de auditorías, y
+XVI. Definir y conducir iniciativas de evaluación y análisis, así como desarrollar propuestas de mejora a los instrumentos de planeación y a lo largo del proceso de fiscalización, según corresponda;
 
-XV. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+XVII. Proponer a su superior jerárquico modificaciones a la ley o, en su caso, reformas constitucionales para mejorar el proceso de planeación de la fiscalización superior, y
 
-> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+XVIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
-Las atribuciones a que hacen referencia las fracciones II y XV, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+Las atribuciones a que hacen referencia las fracciones II y XVIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 52 Quater.
 
-La Dirección General de Transparencia estará adscrita a la Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas, y su titular tendrá las siguientes atribuciones:
+La Dirección General de Transparencia estará adscrita a la Unidad de Normatividad y Enlace Legislativo y su titular tendrá las siguientes atribuciones:
 
-I. Coordinar las funciones y actividades de la Unidad de Transparencia de la Auditoría Superior de la Federación, así como aquellas relacionadas con el ejercicio del derecho de acceso a la información y de protección de datos personales, atendiendo a lo previsto en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-II. Brindar apoyo al Titular de la Unidad de Transparencia de la Auditoría Superior de la Federación, así como al Comité de Transparencia, para el cumplimiento de sus funciones en materia de acceso a la información y de protección de datos personales, en términos de las disposiciones jurídicas aplicables;
+I. Coadyuvar en la coordinación de las funciones y actividades de la Unidad de Transparencia de la Auditoría Superior de la Federación, así como aquellas relacionadas con las obligaciones de transparencia, el ejercicio de los derechos de acceso a la información y de protección de datos personales, atendiendo a lo previsto en las disposiciones jurídicas aplicables;
 
-III. Promover e implantar mejores prácticas que faciliten el ejercicio de los derechos de acceso a la información y de protección de datos personales, que procuren su accesibilidad a las personas, así como, políticas de transparencia proactiva y estrategias de gobierno abierto;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-IV. Fomentar la generación y publicación de información en formatos abiertos y accesibles, así como su digitalización y el uso de tecnologías de información y comunicaciones, de conformidad con las políticas que establezca el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+II. Brindar apoyo al Titular de la Unidad de Transparencia de la Auditoría Superior de la Federación, así como al Comité de Transparencia, para el cumplimiento de sus funciones en las materias de transparencia, acceso a la información y de protección de datos personales, en términos de las disposiciones jurídicas aplicables;
 
-V. Promover acciones para que las unidades administrativas den cumplimiento con las disposiciones jurídicas aplicables en materia de transparencia, acceso a la información, protección de datos personales, rendición de cuentas y gobierno abierto;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VI. Trabajar de manera conjunta con la Unidad de Asuntos Jurídicos y la unidad administrativa responsable de la información, para la formulación de alegatos derivados de los recursos de revisión interpuestos con motivo de las solicitudes de acceso a la información pública;
+III. Promover mejores prácticas que faciliten el ejercicio de los derechos de acceso a la información y de protección de datos personales, que procuren su accesibilidad a las personas;
 
-VII. Brindar asesoría, apoyo y orientación a las unidades administrativas que conforman la Auditoría Superior de la Federación sobre aspectos relacionados con la atención de solicitudes de información, clasificación de la misma, cumplimiento de las obligaciones de transparencia y demás asuntos relacionados con políticas de transparencia proactiva, gobierno abierto, derecho de acceso a la información y protección de datos personales;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-VIII. Dar atención y seguimiento a los requerimientos, observaciones, recomendaciones y criterios que en materias de transparencia y acceso a la información realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+IV. Promover la generación y publicación de información en formatos abiertos y accesibles, así como su digitalización y el uso de tecnologías de información y comunicaciones, de conformidad con las políticas que establezca el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-IX. Supervisar el cumplimiento de las resoluciones emitidas por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y reportar al mismo sobre las acciones de implementación de la normatividad en la materia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-X. Brindar el apoyo que requiera el Auditor Superior de la Federación o su superior jerárquico para la asistencia a las reuniones en el marco del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y del Sistema Nacional de Archivos;
+V. Promover y dar seguimiento a la instrumentación de acciones internas para el cumplimiento de las disposiciones jurídicas aplicables en las materias de transparencia, acceso a la información y protección de datos personales, así como de transparencia proactiva y gobierno abierto;
 
-XI. Auxiliar en las funciones que correspondan a la Auditoría Superior de la Federación en su carácter de integrante del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y del Sistema Nacional de Archivos, para el seguimiento y evaluación de los programas y proyectos que deriven de dichos sistemas, de acuerdo con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XII. Dar seguimiento a los acuerdos que se tomen en el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y en el Sistema Nacional de Archivos, en los que la Auditoría Superior de la Federación participe;
+VI. Coordinar la formulación de alegatos derivados de los recursos de revisión interpuestos con motivo de las solicitudes de acceso a la información pública y de protección de datos personales, con base en las manifestaciones y elementos que proporcionen la Dirección General Jurídica y la unidad administrativa responsable de la información;
 
-XIII. Participar en las actividades que su superior jerárquico le encomiende, relacionadas con el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y con el Sistema Nacional de Archivos, en suplencia del mismo;
+VII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
-XIV. Dar atención y seguimiento a los acuerdos y acciones a implementar relacionados con el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y con el Sistema Nacional de Archivos, en los términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XV. Participar en la evaluación de propuestas de lineamientos, metas, modelos, estrategias, políticas y demás instrumentos que se presenten para su aprobación en el Sistema Nacional de Transparencia, conforme a la Ley General de Transparencia y Acceso a la Información Pública y en el Sistema Nacional de Archivos de acuerdo con la Ley General de Archivos;
+VIII. Dar seguimiento al cumplimiento de las resoluciones, requerimientos, observaciones, recomendaciones y criterios que, en las materias de transparencia, acceso a la información y protección de datos personales realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XVI. Promover y proponer acuerdos de colaboración con instituciones públicas, organizaciones de la sociedad civil o del sector privado para impulsar acciones de formación, difusión, sensibilización, accesibilidad en materia de transparencia, acceso a la información, protección de datos, rendición de cuentas y gobierno abierto;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
-XVII. Proponer y, en su caso, llevar a cabo acciones de capacitación en materia de transparencia, acceso a la información, accesibilidad, protección de datos personales, rendición de cuentas y gobierno abierto, en coordinación con las instancias internas y externas competentes;
+IX. Coordinar la elaboración de reportes para el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales sobre las acciones de implementación de la normatividad en las materias de transparencia, acceso a la información y protección de datos personales;
 
-XVIII. Cooperar con el área encargada de la coordinación del Sistema Nacional de Fiscalización y del Sistema Nacional Anticorrupción por parte de la Auditoría Superior de la Federación, en aquellas temáticas y actividades que involucren al Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y al Sistema Nacional de Archivos y que por su contenido o naturaleza puedan relacionarse entre sí o requieran una colaboración conjunta, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+X. Brindar el apoyo que requiera el Auditor Superior de la Federación o el Titular de la Unidad de Normatividad y Enlace Legislativo para la atención de las reuniones en el marco del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XI. Auxiliar en las funciones que correspondan a la Auditoría Superior de la Federación en su carácter de integrante del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, para el seguimiento y evaluación de los programas y proyectos que deriven de dichos sistemas, de acuerdo con las disposiciones jurídicas aplicables;
+
+XII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIII. Participar en las actividades que su superior jerárquico le encomiende, relacionadas con el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en suplencia de éste;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XIV. Dar atención y seguimiento a los acuerdos y acciones a implementar relacionados con el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales en los términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XV. Participar en el análisis y formulación de propuestas de lineamientos, metas, modelos, estrategias, políticas y demás instrumentos que se presenten para su aprobación en el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVI. Coordinar la implementación de acciones de formación, difusión, sensibilización, accesibilidad en materia de transparencia, acceso a la información y protección de datos personales, rendición de cuentas y gobierno abierto, así como promover y proponer acuerdos de colaboración con instituciones públicas, organizaciones de la sociedad civil o del sector privado;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVII. Proponer y, en su caso, llevar a cabo la gestión de las acciones de capacitación para los servidores públicos de la Auditoría Superior de la Federación, en las materias de transparencia, acceso a la información, accesibilidad, protección de datos personales, rendición de cuentas y gobierno abierto, en coordinación con las instancias internas y externas competentes;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XVIII. Cooperar con el área encargada de la coordinación del Sistema Nacional de Fiscalización y del Sistema Nacional Anticorrupción, por parte de la Auditoría Superior de la Federación, en aquellas temáticas y actividades que involucren al Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y que por su contenido o naturaleza puedan relacionarse entre sí o requieran una colaboración conjunta, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
 XIX. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
-
 ###### Artículo 53.
 
-La Dirección General de Sistemas estará adscrita a la Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas, y su titular tendrá las siguientes atribuciones:
-
-I. Establecer las normas y emitir las políticas en materia de tecnologías de información, comunicaciones y seguridad informática de la Auditoría Superior de la Federación, previa aprobación de su superior jerárquico;
-
-II. Otorgar asistencia técnica en materia de tecnologías de información y comunicaciones a las áreas de la Auditoría Superior de la Federación, así como participar en la capacitación del personal para el manejo de los equipos y la operación de los sistemas institucionales;
-
-III. Elaborar dictámenes técnicos para optimizar la plataforma de tecnologías de información y comunicaciones de la Auditoría Superior de la Federación, así como gestionar la adquisición, ampliación, sustitución, mantenimiento, actualización y operación de la infraestructura tecnológica institucional y administrar los contratos respectivos;
-
-> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
-
-IV. Desarrollar e implementar los sistemas informáticos y herramientas tecnológicas de la Auditoría Superior de la Federación y, en su caso, proponer la contratación de servicios externos complementarios;
-
-V. Asesorar técnicamente a las unidades administrativas para que adquieran y administren directamente recursos informáticos, sistemas y licencias de software de aplicación específica, incluidos su mantenimiento y actualización;
-
-VI. Elaborar los dictámenes de no utilidad de los bienes de tecnologías de información y comunicaciones, y de consumibles informáticos;
-
-VII. Coordinar la actualización de los sitios de Internet e Intranet, sus interfaces, seguridad y su correcto funcionamiento, de acuerdo con las disposiciones jurídicas aplicables, y
-
-VIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO, D.O.F. 25 DE AGOSTO DE 2021)
 
 ###### Artículo 54.
 
@@ -3337,65 +3225,41 @@ VIII. Las demás que en el ámbito de su competencia le otorguen las disposicion
 
 (DEROGADO, D.O.F. 13 DE JULIO DE 2018)
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 57 Bis.
 
-La Dirección General de Enlace Legislativo estará adscrita a la Unidad de Enlace Legislativo y Relaciones Institucionales, y su titular tendrá, sin perjuicio de lo dispuesto en otros artículos de este Reglamento, las siguientes atribuciones:
+La Dirección General de Igualdad de Género y Cultura de la Fiscalización “A” estará adscrita a la Unidad de Igualdad de Género y Cultura de la Fiscalización y su titular tendrá las siguientes atribuciones:
 
-I. Atender, en colaboración con las unidades administrativas de la Auditoría Superior de la Federación, las solicitudes de los órganos legislativos y administrativos relacionadas con la práctica de auditorías;
+I. Intervenir en las estrategias de difusión de la cultura de la fiscalización;
 
-II. Llevar las relaciones de la Auditoría Superior de la Federación con la Comisión de Vigilancia de la Auditoría Superior de la Federación, así como las de coordinación, en su caso, con las demás Comisiones de la Cámara en las que se aborden temas de interés para la Auditoría Superior de la Federación;
+II. Apoyar al Titular de la Unidad en los trabajos del Comité de Igualdad de Género de la Auditoría Superior de la Federación y actividades relacionadas con dicha materia;
 
-III. Conducir las relaciones de la Auditoría Superior de la Federación con los distintos grupos parlamentarios de la Cámara;
+III. Ejecutar la política editorial de la Auditoría Superior de la Federación;
 
-IV. Elaborar, analizar e integrar los proyectos legislativos en los que se aborden temas de interés para la Auditoría Superior de la Federación;
+IV. Ejecutar la política de igualdad de género en la Auditoría Superior de la Federación;
 
-V. Recopilar y sistematizar la información que considere relevante dentro del ámbito del proceso legislativo o de modificaciones a la Constitución Política de los Estados Unidos Mexicanos;
+V. Proponer al Titular de la Unidad el programa de capacitación y sensibilización en materia de igualdad de género, y
 
-VI. Elaborar los informes acerca de los proyectos de leyes, dictámenes, órdenes del día, propuestas por la Cámara, que guarden relación con la Auditoría Superior de la Federación o sean de su interés;
+VI. Las demás que en el ámbito de su competencia establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor Superior de la Federación.
 
-VII. Llevar el seguimiento y coordinación para la atención de los requerimientos de información y opinión solicitados por la Cámara, que guarden relación con las funciones de fiscalización de la Auditoría Superior de la Federación;
-
-VIII. Ejecutar las líneas de acción para el seguimiento de los temas tratados en la Cámara, que se relacionen con las funciones de fiscalización de la Auditoría Superior de la Federación;
-
-IX. Recopilar información de los asuntos legislativos de la Cámara que se relacionen con temas de fiscalización superior de la Cuenta Pública;
-
-X. Realizar la integración de la información generada en las sesiones del Pleno de la Cámara para obtener un respaldo documental de los asuntos abordados;
-
-XI. Elaborar reportes sobre los avances en las iniciativas de ley dentro de la Cámara que se enfoquen en materia de fiscalización, para apoyar la toma de decisiones, y
-
-XII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 57 Ter.
 
-La Dirección General de Relaciones Institucionales y Difusión estará adscrita a la Unidad de Enlace Legislativo y Relaciones Institucionales, y su titular tendrá, sin perjuicio de lo dispuesto en otros artículos de este Reglamento, las siguientes atribuciones:
+La Dirección General de Igualdad de Género y Cultura de la Fiscalización “B” estará adscrita a la Unidad de Igualdad de Género y Cultura de la Fiscalización y su titular tendrá las siguientes atribuciones:
 
-I. Ejecutar la política de difusión y comunicación social de la Auditoría Superior de la Federación;
+I. Intervenir en las estrategias de difusión de la cultura de la fiscalización;
 
-II. Informar a la opinión pública sobre los asuntos de la competencia de la Auditoría Superior de la Federación;
+II. Apoyar al Titular de la Unidad en los trabajos del Comité de Igualdad de Género de la Auditoría Superior de la Federación y actividades relacionadas con dicha materia;
 
-III. Formular y proponer los programas de comunicación social;
+III. Ejecutar la política editorial de la Auditoría Superior de la Federación;
 
-IV. Coordinar las relaciones de la Auditoría Superior de la Federación con los medios de comunicación;
+IV. Ejecutar la política de igualdad de género en la Auditoría Superior de la Federación;
 
-V. Coordinar la aplicación de la imagen institucional y supervisar la producción de sus materiales impresos, sonoros, audiovisuales, electrónicos, digitales y demás medios de difusión;
+V. Proponer al Titular de la Unidad el programa de capacitación y sensibilización en materia de igualdad de género, y
 
-VI. Preservar y actualizar el archivo fotográfico y de video de las actividades relevantes de la Auditoría Superior de la Federación;
-
-VII. Distribuir material seleccionado de las principales publicaciones nacionales e internacionales entre las unidades administrativas de la Auditoría Superior de la Federación;
-
-VIII. Coordinar y atender las relaciones públicas de la Auditoría Superior de la Federación;
-
-IX. Ejecutar la Política Editorial de la Auditoría Superior de la Federación;
-
-X. Elaborar el Programa Editorial de la Auditoría Superior de la Federación con el objeto de ofrecer a distintos destinatarios las publicaciones que permitan difundir el conocimiento generado por este órgano técnico de fiscalización;
-
-XI. Realizar las gestiones necesarias para la ejecución del proceso editorial y distribución de las publicaciones conforme al Programa Editorial autorizado, dichas gestiones tendrán que apegarse a la normatividad interna, y
-
-XII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+VI. Las demás que en el ámbito de su competencia establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor Superior de la Federación.
 
 ###### Artículo 58.
 
@@ -3451,7 +3315,25 @@ XXIV. Solicitar copia certificada de la información y documentación original o
 
 XXV. Obtener durante el desarrollo de las auditorías e investigaciones copia de la información y documentación original o, en su caso, de las constancias que tenga a la vista y certificarla, previo cotejo con sus originales;
 
-XXVI. Coordinar, supervisar y participar en los trabajos que se requieran para dar cumplimiento a las disposiciones jurídicas aplicables en materia de transparencia, en cuanto a la atención de los requerimientos de información y organización, clasificación, conservación, guarda y custodia de sus archivos;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI. Instruir y supervisar la publicación, actualización y validación de la información correspondiente a las obligaciones de transparencia, la atención de las solicitudes de acceso a la información y protección de datos conforme a lo previsto en las disposiciones jurídicas aplicables, así como de las resoluciones, requerimientos, recomendaciones y criterios que emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI Bis. Instruir y supervisar la formulación de los alegatos derivados de los recursos de revisión interpuestos con motivo de las solicitudes de acceso a la información pública y de protección de datos personales, así como de los informes justificados respecto de las denuncias por incumplimiento a las obligaciones de transparencia previstas en las disposiciones jurídicas en materia de transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI Ter. Instruir y supervisar, en el ámbito de su competencia, la implementación de políticas y programas de protección de datos personales aprobados por el Comité de Transparencia, los cuales podrán incluir, entre otros, trabajos relativos al documento de seguridad de la Auditoría Superior de la Federación, a los avisos de privacidad, así como al establecimiento y mantenimiento de medidas de seguridad administrativas, físicas y técnicas para la protección de los datos personales en su posesión;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI Quater. Participar en las actividades y funcionamiento de la Planeación Estratégica de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXVI Quiquies (sic). Emitir los dictámenes y las actas de baja documental y transferencia secundaria, de conformidad con la Ley General de Archivos y las disposiciones jurídicas aplicables en la materia;
 
 XXVII. Solicitar la presencia de las entidades fiscalizadas y de las personas que estime pertinentes, en la fecha y lugar que se les señale, para celebrar las reuniones en las que se les dé a conocer la parte que les corresponda de los resultados y, en su caso, las observaciones preliminares de las auditorías que se les practicaron, conforme a lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
@@ -3467,7 +3349,7 @@ XXXI. Elaborar los proyectos de informes de las auditorías en las que participe
 
 XXXII. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito signado con firma autógrafa o bien, firma electrónica cuando se trate del proceso de fiscalización por medios electrónicos, de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente.
 
-XXXIII. Elaborar el dictamen técnico que integre la documentación y comprobación necesarias para promover las acciones que procedan como resultado de las irregularidades que se detecten en la revisión o auditorías que se practiquen, y
+XXXIII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 XXXIV. Las demás que en el ámbito de su competencia les otorguen las disposiciones jurídicas aplicables, les encarguen sus superiores jerárquicos o el Titular de la Auditoría Superior de la Federación.
 
@@ -3531,7 +3413,21 @@ XXI. Solicitar copia certificada de la información y documentación original, o
 
 XXII. Obtener durante el desarrollo de las auditorías e investigaciones copia de la información y documentación original o, en su caso, de las constancias que tenga a la vista y certificarla, previo cotejo con sus originales;
 
-XXIII. Realizar y supervisar los trabajos que se requieran para dar cumplimiento a las disposiciones jurídicas aplicables en materia de transparencia, en cuanto a la atención de los requerimientos de información y organización, clasificación, conservación, guarda y custodia de sus archivos;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIII. Coordinar y participar en los trabajos relativos a la publicación, actualización y validación de la información correspondiente a las obligaciones de transparencia, en la atención de las solicitudes de acceso a la información y protección de datos conforme a lo previsto en las disposiciones jurídicas aplicables, así como de las resoluciones, requerimientos, recomendaciones y criterios que emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIII Bis. Coordinar y participar en la formulación de los alegatos derivados de los recursos de revisión interpuestos con motivo de las solicitudes de acceso a la información pública y de protección de datos personales, así como de los informes justificados respecto de las denuncias por incumplimiento a las obligaciones de transparencia previstas en las disposiciones jurídicas en materia de transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIII Ter. Coordinar y participar, en el ámbito de su competencia, en la implementación de políticas y programas de protección de datos personales aprobados por el Comité de Transparencia, los cuales podrán incluir, entre otros, trabajos relativos al documento de seguridad de la Auditoría Superior de la Federación, a los avisos de privacidad, así como al establecimiento y mantenimiento de medidas de seguridad administrativas, físicas y técnicas para la protección de los datos personales en su posesión;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXIII Quater. Participar en las actividades y funcionamiento de la Planeación Estratégica de la Auditoría Superior de la Federación;
 
 XXIV. Solicitar la presencia de las entidades fiscalizadas y de las personas que estime pertinentes, en la fecha y lugar que se les señale, para celebrar las reuniones en las que se les dé a conocer los resultados y, en su caso, las observaciones preliminares de las auditorías que se les practicaron, conforme a lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
@@ -3543,7 +3439,7 @@ XXVII. Elaborar y someter a la consideración de su superior jerárquico las rec
 
 XXVIII. Elaborar los proyectos de informes de las auditorías en las que participen;
 
-XXIX. Elaborar el dictamen técnico que integre la documentación y comprobación necesarias para promover las acciones que procedan como resultado de las irregularidades que se detecten en la revisión o auditorías que se practiquen;
+XXIX. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
 
 XXX. Desempeñar las comisiones y, en su caso, participar en las auditorías que el Auditor Superior de la Federación o su superior jerárquico les encomiende y mantenerlos informados sobre el desarrollo de sus actividades;
 
@@ -3607,7 +3503,21 @@ XX. Coordinar y participar en la integración de los expedientes de las auditor�
 
 XXI. Coordinar y revisar la elaboración de los proyectos de pliegos de observaciones y vigilar su inclusión en los informes respectivos;
 
-XXII. Coordinar y participar en los trabajos que se requieran para dar cumplimiento a las disposiciones jurídicas aplicables en materia de transparencia, en cuanto a la atención de los requerimientos de información y organización, clasificación, conservación, guarda y custodia de sus archivos;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXII. Realizar los trabajos relativos a la publicación, actualización y validación de la información correspondiente a las obligaciones de transparencia, la atención de las solicitudes de acceso a la información y protección de datos conforme a lo previsto en las disposiciones jurídicas aplicables, así como de las resoluciones, requerimientos, recomendaciones y criterios que emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXII Bis. Elaborar y someter a la consideración de su superior jerárquico los proyectos de formulación de alegatos derivados de los recursos de revisión interpuestos con motivo de las solicitudes de acceso a la información pública y de protección de datos personales, así como los proyectos de informes justificados respecto de las denuncias por incumplimiento a las obligaciones de transparencia previstas en las disposiciones jurídicas en materia de transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXII Ter. Elaborar, actualizar y someter a la consideración de su superior jerárquico, en el ámbito de su competencia, los proyectos sobre la implementación de políticas y programas de protección de datos personales aprobados por el Comité de Transparencia, los cuales podrán incluir, entre otros, trabajos relativos al documento de seguridad de la Auditoría Superior de la Federación, a los avisos de privacidad, así como al establecimiento y mantenimiento de medidas de seguridad administrativas, físicas y técnicas para la protección de los datos personales en su posesión;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XXII Quater. Participar en las actividades y funcionamiento de la Planeación Estratégica de la Auditoría Superior de la Federación;
 
 XXIII. Realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
 
@@ -3669,7 +3579,25 @@ XVIII. Solicitar copia certificada de la información y documentación original,
 
 XIX. Realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
 
-XX. Desempeñar las comisiones y, en su caso, participar en las auditorías que el Auditor Superior de la Federación o su superior jerárquico les encomienden y mantenerlos informados sobre el desarrollo de sus actividades, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XX. Desempeñar las comisiones y, en su caso, participar en las auditorías que el Auditor Superior de la Federación o su superior jerárquico les encomienden y mantenerlos informados sobre el desarrollo de sus actividades;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XX Bis. Participar en los trabajos relativos a la publicación, actualización y validación de la información correspondiente a las obligaciones de transparencia, en la atención de las solicitudes de acceso a la información y protección de datos conforme a lo previsto en las disposiciones jurídicas aplicables, así como de las resoluciones, requerimientos, recomendaciones y criterios que emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XX Ter. Participar en los trabajos relativos a la formulación de alegatos derivados de los recursos de revisión interpuestos con motivo de las solicitudes de acceso a la información pública y de protección de datos personales, así como en los concernientes a los informes justificados respecto de las denuncias por incumplimiento a las obligaciones de transparencia previstas en las disposiciones jurídicas en materia de transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XX Quater. Participar, en el ámbito de su competencia, en los trabajos sobre la implementación de políticas y programas de protección de datos personales aprobados por el Comité de Transparencia, los cuales podrán incluir, entre otros, trabajos relativos al documento de seguridad de la Auditoría Superior de la Federación, a los avisos de privacidad, así como al establecimiento y mantenimiento de medidas de seguridad administrativas, físicas y técnicas para la protección de los datos personales en su posesión;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
+XX Quiquies (sic). Participar en las actividades y funcionamiento de la Planeación Estratégica de la Auditoría Superior de la Federación, y
 
 XXI. Las demás que en el ámbito de su competencia les otorguen las disposiciones jurídicas aplicables y les encargue su superior jerárquico.
 
@@ -3681,25 +3609,29 @@ Las atribuciones a que hacen referencia las fracciones I, II, IV, V, VI, IX, XI 
 
 ### Capítulo VIII. De la Suplencia de los Funcionarios de la Auditoría Superior de la Federación
 
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 62.
 
-En las ausencias temporales del Auditor Superior de la Federación, será suplido por los Auditores Especiales del Gasto Federalizado, de Desempeño, de Seguimiento, Informes e Investigación y de Cumplimiento Financiero, en ese orden.
+En las ausencias temporales del Auditor Superior de la Federación, será suplido por los Auditores Especiales del Gasto Federalizado; de Seguimiento, Informes e Investigación; de Desempeño, y de Cumplimiento Financiero, en ese orden.
 
 ###### Artículo 63.
 
 En caso de falta definitiva del Auditor Superior de la Federación y, en tanto sea designado un nuevo Titular conforme a las disposiciones y al procedimiento señalado en la Ley de Fiscalización y Rendición de Cuentas de la Federación, se aplicará el mismo orden de la suplencia que en el caso de ausencias temporales a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 64.
 
-Las ausencias temporales de los Auditores Especiales y Titulares de Unidad, serán suplidas por el titular de la dirección general que corresponda a su adscripción más antiguo en el cargo.
+Las ausencias temporales de los Auditores Especiales y Titulares de Unidad serán suplidas por el titular de la dirección general que estos mismos designen por escrito o, en su defecto, por el que corresponda a su adscripción más antiguo en el cargo.
 
 En los casos de ausencias definitivas, el Auditor Superior de la Federación procederá a efectuar la designación del nuevo servidor público que corresponda.
 
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 65.
 
-En los casos de ausencias temporales de los directores generales y de los directores de área, la suplencia se cubrirá por el servidor público más antiguo en el cargo, de jerarquía inmediata inferior, adscrito a la unidad administrativa correspondiente.
+En los casos de ausencias temporales de los directores generales y de los directores de área, la suplencia se cubrirá por el servidor público de jerarquía inmediata inferior que estos mismos designen por escrito o, en su defecto, por el que corresponda a su adscripción más antiguo en el cargo.
 
 ## TRANSITORIOS
 
@@ -3760,3 +3692,15 @@ D.O.F. 8 DE JULIO DE 2021.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
+
+D.O.F. 25 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias en las disposiciones administrativas vigentes a las unidades administrativas que con motivo del presente acuerdo se modifican o suprimen, se entenderán hechas a las que competan conforme al presente acuerdo.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo continuarán su despacho por las unidades administrativas competentes, conforme a las disposiciones del presente Acuerdo.
+
+CUARTO. Los dictámenes técnicos para la presentación de denuncia de hechos que a la entrada en vigor del presente Acuerdo se encuentren en las unidades administrativas auditoras, deberán ser remitidos a la Dirección General de Seguimiento "A" y a la Dirección General de Seguimiento "B", en términos de las directrices que para tal efecto se establezcan.
