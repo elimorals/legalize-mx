@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-infraestructura-129831"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-27"
-last_updated: "2019-10-11"
+last_updated: "2021-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE AGOSTO DE 2021.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el viernes 27 de julio de 2018.
 
@@ -183,9 +183,9 @@ Corresponden al Director de Construcción, las siguientes facultades y obligacio
 
 I. Evaluar y diagnosticar los daños ocasionados a las vías de comunicación de jurisdicción estatal;
 
-> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 25 DE AGOSTO DE 2021)</small>
 
-II. Determinar los requerimientos para conservar en buen estado la Red de Carreteras Estatales;
+II. Determinar los requerimientos para modernizar la Red de Carreteras Estatales;
 
 III. Efectuar la supervisión de las obras en materia de vías terrestres que se realicen por contrato o por administración directa, cuidando en cada caso la correcta aplicación de los recursos destinados a su ejecución;
 
@@ -203,9 +203,9 @@ VIII. Mantener un sistema de seguimiento y control del desarrollo de los proyect
 
 IX. Las demás que le delegue directamente el Director General, de acuerdo con lo previsto en el Código de la Administración Pública de Yucatán y su Reglamento, así como las que le otorguen otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 25 DE AGOSTO DE 2021)</small>
 
-Para el despacho de los asuntos que le competen, la Dirección de Construcción contará con los departamentos de Explosivos y Construcción, de Conservación y de Operaciones; y con los demás que determine el Director General, de conformidad con disponibilidad presupuestal del Instituto.
+Para el despacho de los asuntos que le competen, la Dirección de Construcción contará con los departamentos de Explosivos y Construcción, de Operaciones y con los demás que determine el Director General, de conformidad con disponibilidad presupuestal del Instituto.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE OCTUBRE DE 2019)</small>
 
@@ -257,15 +257,25 @@ II. Recibir de instituciones federales, estatales y municipales las recomendacio
 
 III. Proporcionar servicios de apoyo, limpieza y saneamiento de espacios públicos, y llevar el control de avance físico y financiero de ellos;
 
-IV. Realizar acciones de mantenimiento y conservación de la infraestructura de alumbrado público y de las áreas verdes propiedad del estado que se encuentren dentro de las vías terrestres de jurisdicción estatal y, en caso de daño, elaborar el presupuesto respectivo;
+> <small>(REFORMADA, D.O. 25 DE AGOSTO DE 2021)</small>
+
+IV. Realizar acciones de mantenimiento y conservación de la infraestructura carretera, del alumbrado público y de las áreas verdes propiedad del estado que se encuentren dentro de las vías terrestres de jurisdicción estatal y, en caso de daño, elaborar el presupuesto respectivo;
 
 V. Emitir dictámenes sobre los estudios y proyectos que, en materia de conservación y otros ramos afines, solicite, de manera específica, el Director General;
 
-VI. Coadyuvar con las autoridades competentes en la oportuna atención y apoyo de las comunidades en situaciones de contingencia, y
+> <small>(REFORMADA, D.O. 25 DE AGOSTO DE 2021)</small>
 
-VII. Las demás que le confiera el Director General o establezcan otras disposiciones legales y normativas aplicables.
+VI. Coadyuvar con las autoridades competentes en la oportuna atención y apoyo de las comunidades en situaciones de contingencia;
 
-Para el despacho de los asuntos que le competen, la Dirección de Servicios Integrales contará con el Departamento Operativo y con los demás que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
+> <small>(ADICIONADA, D.O. 25 DE AGOSTO DE 2021)</small>
+
+VII. Determinar los requerimientos para conservar en buen estado la Red de Carreteras Estatales, y
+
+VIII. Las demás que le confiera el Director General o establezcan otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 25 DE AGOSTO DE 2021)</small>
+
+Para el despacho de los asuntos que le competen, la Dirección de Servicios Integrales contará con el Departamento Operativo, el Departamento de Conservación y con los demás departamentos que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN ADMINISTRATIVA
 
@@ -416,3 +426,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general del Instituto de Infraestructura Carretera de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá de realizar la inscripción de las modificaciones efectuadas al Estatuto Orgánico del Instituto de Infraestructura Carretera de Yucatán en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas.
+
+D.O. 25 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO JG/INCAY/IISEXT/02/2021 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General del Instituto de Infraestructura Carretera de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas de las modificaciones efectuadas por este acuerdo al Estatuto Orgánico del Instituto de Infraestructura Carretera de Yucatán.
