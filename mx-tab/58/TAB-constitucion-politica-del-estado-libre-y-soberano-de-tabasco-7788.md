@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2019-10-16"
+last_updated: "2021-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2021.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -657,7 +657,11 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 El Poder Legislativo se deposita en un Congreso integrado por la Cámara de Diputados. El Pleno de los Diputados es el órgano supremo de decisión del Congreso.
 
-El Congreso se compone por 35 diputados electos cada tres años, 21 por el principio de mayoría relativa y 14 por el principio de representación proporcional; durante su gestión constituyen una Legislatura. Las elecciones serán directas y se apegarán a lo que disponen esta Constitución y las leyes aplicables.
+(NOTA: EL 19 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2021 Y SUS ACUMULADAS 141/2021 Y 142/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA “21 POR EL PRINCIPIO DE MAYORÍA RELATIVA Y 8 POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL;” Y POR EXTENSIÓN, “EL CONGRESO SE COMPONE POR 29 DIPUTADOS ELECTOS CADA TRES AÑOS,” Y “DURANTE SU GESTIÓN CONSTITUYEN UNA LEGISLATURA. LAS ELECCIONES SERÁN DIRECTAS Y SE APEGARÁN A LO QUE DISPONEN ESTA CONSTITUCIÓN Y LAS LEYES APLICABLES” DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El Congreso se compone por 35 diputados electos cada tres años, 21 por el principio de mayoría relativa y 14 por el principio de representación proporcional; durante su gestión constituyen una Legislatura. Las elecciones serán directas y se apegarán a lo que disponen esta Constitución y las leyes aplicables.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2021)</small>
+
+EL CONGRESO SE COMPONE POR 29 DIPUTADOS ELECTOS CADA TRES AÑOS, 21 POR EL PRINCIPIO DE MAYORÍA RELATIVA Y 8 POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL; DURANTE SU GESTIÓN CONSTITUYEN UNA LEGISLATURA. LAS ELECCIONES SERÁN DIRECTAS Y SE APEGARÁN A LO QUE DISPONEN ESTA CONSTITUCIÓN Y LAS LEYES APLICABLES.
 
 El Congreso distribuye su trabajo en el Pleno y en comisiones ordinarias y especiales. Contará también con una Mesa Directiva, una Junta de Coordinación Política, la Comisión Permanente y los órganos auxiliares y administrativos necesarios para el desempeño de sus funciones.
 
@@ -669,33 +673,33 @@ La ley determinará las formas y procedimientos para la agrupación de los diput
 
 Se elegirá un diputado propietario y un suplente, según el principio de mayoría relativa, en cada uno de los veintiún Distritos Electorales Uninominales, que correspondan a la demarcación territorial que en términos de la ley se determine.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 14.
 
-Para la elección de diputados, propietarios y suplentes, según el principio de representación proporcional y el sistema de listas regionales, se constituirán dos circunscripciones electorales plurinominales.
+La elección de diputados, propietarios y suplentes, según el principio de representación proporcional, será por lista de candidatos en una circunscripción plurinominal que comprende todo el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
-
-La Legislación Electoral del Estado, determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE AGOSTO DE 2021)</small>
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
 
 La elección de esos Diputados se sujetará a las bases Generales siguientes, y a lo que en particular disponga la Legislación Electoral:
 
-I.- Para obtener el registro de sus listas regionales, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+I.- Para obtener el registro de su lista de candidatos, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-II.- Todo partido político que alcance por lo menos el tres por ciento de la votación válida emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a participar en la asignación de diputados según el principio de representación proporcional, mediante la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE AGOSTO DE 2021)</small>
+
+II.- Todo partido político que alcance por lo menos el tres por ciento de la votación válida emitida para la lista de la circunscripción plurinominal, tendrá derecho a participar en la asignación de diputados según el principio de representación proporcional, mediante la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
 
 a) Cociente natural, y
 
 b) Resto mayor.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2021)</small>
 
-III.- Al partido político que cumpla con las dos fracciones anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+III.- Al partido político que cumpla con las dos fracciones anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista de candidatos. En la asignación se seguirá el orden que tuviesen los candidatos en la lista correspondiente;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -705,9 +709,9 @@ IV.- En ningún caso, un partido político podrá contar con más de 21 diputado
 
 V.- Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido Político no será menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2021)</small>
 
-VI.- En los términos de lo establecido en las fracciones II, III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con la respectiva votación estatal emitida de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
+VI.- En los términos de lo establecido en las fracciones II, III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con la respectiva votación estatal emitida de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -751,9 +755,7 @@ No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Con
 
 V.- No ser ministro de culto religioso alguno.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
-
-Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a Diputado, se requiere ser originario de alguno de los municipios o distrito que comprende la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de dos años anteriores a la fecha en que la misma se celebre.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE AGOSTO DE 2021)</small>
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -3734,3 +3736,15 @@ SEGUNDO.- El Congreso del Estado deberá adecuar la legislación secundaria en l
 TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, la presente reforma fue aprobada por los Ayuntamientos de la entidad.
+
+P.O. 26 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 300 POR EL QUE “SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12; LOS PÁRRAFOS PRIMERO Y TERCERO FRACCIONES I, II, III Y VI DEL ARTÍCULO 14; Y SE DEROGAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 15; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los diputados electos por el principio de representación proporcional que integran el congreso local, que resultaron electos el seis de junio de 2021 para el período 2021-2024, concluirán su cargo conforme al período establecido.
+
+TERCERO. Dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto, se realizarán las reformas necesarias a la legislación que corresponda, a fin de armonizarlas con las disposiciones establecidas en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
