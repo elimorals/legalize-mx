@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2021-08-13"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -253,7 +253,9 @@ X. Permanecer de pie al dirigirse a la Asamblea durante sus intervenciones;
 
 XI. Avisar al presidente cuando por causa justificada no puedan asistir a las sesiones o reuniones de trabajo, o continuar en las mismas;
 
-XII. Presentar declaración patrimonial en los casos, términos y condiciones que establezca la ley de la materia;
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+XII. Presentar las declaraciones de situación patrimonial y de intereses, y, en su caso, la constancia de presentación de la declaración fiscal, en los términos y condiciones que establece la ley de la materia;
 
 XIII. Abstenerse de introducir armas al recinto legislativo;
 
@@ -767,13 +769,9 @@ VII.- Autorizar la creación de las unidades administrativas que requiera la Leg
 
 VIII.- Supervisar la elaboración y publicación de los manuales de organización de las áreas que integran el Poder Legislativo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 21 DE JULIO DE 2006)</small>
+IX.- (DEROGADA, G.G. 27 DE AGOSTO DE 2021)
 
-IX.- Conocer y resolver sobre las responsabilidades administrativas en que incurran los miembros de la Legislatura;
-
-> <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
-
-X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se hagan valer contra tales resoluciones;
+X.- (DEROGADA, G.G. 27 DE AGOSTO DE 2021)
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -1533,9 +1531,11 @@ Para el examen previo de las denuncias sobre juicio político, se integrará una
 
 La Sección Instructora del Gran Jurado se integrará por cinco diputados insaculados en sesión reservada. Los insaculados designarán de entre ellos a un Presidente y un Secretario; los demás fungirán como Vocales.
 
+> <small>(REFORMADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 100.
 
-Para substanciar el procedimiento de juicio político, se procederá de conformidad con las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Para substanciar el procedimiento de juicio político, se procederá de conformidad con las disposiciones contenidas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ### CAPITULO UNICO. DE LA COMISION DE INSTRUCCION Y DICTAMEN
 
@@ -1545,9 +1545,11 @@ La Legislatura del Estado actuará como Jurado de Procedencia respecto de respon
 
 Para estos casos se integrará también la Sección Instructora del Gran Jurado.
 
+> <small>(REFORMADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 102.
 
-El procedimiento de declaración de procedencia, se ajustará a la normatividad prevista en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+El procedimiento de declaración de procedencia, se ajustará a la normatividad prevista en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ## TITULO QUINTO. DE LA SUSPENSION Y DESAPARICION DE AYUNTAMIENTOS Y SUSPENSION O REVOCACION DEL MANDATO DE SUS MIEMBROS
 
@@ -2384,3 +2386,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este decreto.
+
+G.G. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 304.- POOR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE EXPIDE EL REGLAMENTO INTERNO DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura proveerá lo conducente para que en un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente Decreto se publiquen los Manuales Administrativos de la Contraloría del Poder Legislativo en el Periódico Oficial "Gaceta del Gobierno.
+
+###### ARTÍCULO CUARTO.
+
+Los expedientes que se encuentren actualmente en trámite, en términos del acuerdo "POR EL QUE SE ARMONIZAN Y ASIGNAN ATRIBUCIONES A LAS UNIDADES ADMINISTRATIVAS DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO", publicado en el Periódico Oficial "Gaceta del Gobierno" el siete de agosto de dos mil diecisiete, continuarán su substanciación en concordancia con las reformas del presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga el Reglamento Interno de la Contraloría del Poder Legislativo del Estado Libre y Soberano de México publicado mediante decreto 231, del veintiuno de junio de dos mil seis.
