@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1076
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2015-04-17"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 17 de abril de 2015.
 
@@ -31,7 +31,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro expide la siguiente:
 
@@ -65,9 +67,15 @@ VII. A la no discriminación;
 
 VIII. A recibir servicios de calidad y con calidez, por parte de personal apto, suficiente y que cuente con formación o capacidades, desde un enfoque de los derechos de la niñez;
 
-IX. A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-X. Los demás derechos fundamentales consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que México sea parte, en la legislación federal y estatal para la protección de los derechos de niñas y niños, en esta Ley y en los demás ordenamientos aplicables.
+IX. A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+X. Programa Técnico Pedagógico; y
+
+XI. Los demás derechos fundamentales consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que México sea parte, en la legislación federal y estatal para la protección de los derechos de niñas y niños, en esta Ley y en los demás ordenamientos aplicables.
 
 ###### Artículo 3.
 
@@ -99,23 +107,29 @@ XII. Programa Estatal: el Programa Estatal de Prestación de Servicios para la A
 
 XIII. Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento: el conjunto de acciones para la vigilancia efectiva del cumplimiento de la presente Ley, a fin de garantizar el mejoramiento progresivo y fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
 
-XIV. Programa Interno de Protección Civil: el instrumento formulado por el prestador de servicios, el cual deberá constar por escrito, estar firmado por personal competente, facultado y capacitado en términos de la Ley General de Protección Civil y aprobado por la Coordinación de Protección Civil que corresponda, que se circunscribe al ámbito de una dependencia, entidad, institución y organismo pertenecientes a los sectores público, en sus tres órdenes de gobierno, privado y social, y se ejecuta en los inmuebles correspondientes, con el fin de salvaguardar la integridad física de las niñas y niños, empleados y demás personas que concurran a ellos, acopiando toda la información referente a las actividades de protección civil al interior del inmueble;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+XIV. Programa Interno de Protección Civil: El instrumento formulado por el prestador de servicios, el cual deberá constar por escrito, estar firmado por personal competente, facultado, capacitado y especializado en análisis de riesgo de los centros de atención, y en términos de la ley General de Protección Civil y aprobado por la Coordinación de Protección Civil que corresponda, que se circunscribe al ámbito de una dependencia, entidad, institución y organismo pertenecientes a los sectores público, en sus tres órdenes de gobierno, privado y social y se ejecuta en los inmuebles correspondientes de acuerdo al tipo y Modelo, con el fin de salvaguardar la integridad física de las niñas y niños, empleados y demás personas que concurran a ellos, acopiando toda la información referente a las actividades de Protección Civil al interior del Inmueble;
 
 XV. Programa Municipal: el Programa Municipal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
 XVI. Programa Nacional: el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-XVII. Registro Estatal: el Catálogo público de los Centros de Atención, bajo cualquier modalidad y tipo, en el territorio del Estado de Querétaro;
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XVIII. Registro Nacional: el Catálogo público de los Centros de Atención, bajo cualquier modalidad y tipo, en el territorio nacional;
+XVII. Programa Técnico Pedagógico: Es el documento que contiene el proceso, los logros, los avances, las dificultades y las recomendaciones de la enseñanza y el aprendizaje que impartirán los centros de atención, ya sea el documento emitido por entidad educativa, o el elaborado por el particular en un esquema no escolarizado;
 
-XIX. Reglamento: Reglamento de la Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Querétaro;
+XVIII. Registro Estatal: el Catálogo público de los Centros de Atención, bajo cualquier modalidad y tipo, en el territorio del Estado de Querétaro;
 
-XX. Reglamento General: el Reglamento de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+XIX. Registro Nacional: el Catálogo público de los Centros de Atención, bajo cualquier modalidad y tipo, en el territorio nacional;
 
-XXI. Secretaría: la Secretaría de Salud del Poder Ejecutivo del Estado de Querétaro; y
+XX. Reglamento: Reglamento de la Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Querétaro;
 
-XXII. Sistema Estatal: El Sistema Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Querétaro;
+XXI. Reglamento General: el Reglamento de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+
+XXII. Secretaría: la Secretaría de Salud del Poder Ejecutivo del Estado de Querétaro; y
+
+XXIII. Sistema Estatal: El Sistema Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Querétaro.
 
 ###### Artículo 4.
 
@@ -405,7 +419,9 @@ II. Identificación, en su caso, del representante legal;
 
 III. Ubicación del Centro de Atención;
 
-IV. Modalidad y modelo de atención bajo el cual opera;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+IV. Modalidad, modelo y tipo de atención bajo el cual opera;
 
 V. Fecha de inicio de operaciones; y
 
@@ -429,7 +445,9 @@ El registro de nuevos Centros de Atención deberá notificarse por el funcionari
 
 ## Título Tercero. De la prestación de los servicios
 
-### Capítulo I. Modalidades y Tipos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2021)</small>
+
+### Capítulo I. Modalidades, Modelos y Tipos
 
 ###### Artículo 34.
 
@@ -454,6 +472,18 @@ III. Tipo 3: con capacidad instalada para dar servicio de 51 hasta 100 sujetos d
 IV. Tipo 4: con capacidad instalada para dar servicio a más de 100 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio, tipo de inmueble: casa habitación, local comercial o inmueble con instalaciones específicamente diseñadas, construidas o habilitadas de acuerdo al tipo de servicio.
 
 La tipología anterior se ajustará a las normas de cada institución y al Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 35 Bis.
+
+Los centros de atención pueden presentar alguno o varios de los siguientes modelos de atención:
+
+I. De cuidado;
+
+II. Alimentación, por medios propios o servicios subrogados; y
+
+III. Programa Técnico Pedagógico.
 
 ### Capítulo II. De los Prestadores de Servicios
 
@@ -531,9 +561,11 @@ La información y los documentos a que se refiere el artículo 39, estarán siem
 
 ### Capítulo IV. Del Reglamento Interno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 44.
 
-Los Centros de Atención deberán contar con un Reglamento Interno en el que se especifique el uso y mantenimiento de las instalaciones; características de los servicios; aspectos de seguridad, higiene y protección civil; cuidados de la salud; horarios de la prestación del servicio; la admisión de niñas y niños; el mecanismo para designar a la persona o personas autorizadas para recoger a las niñas o niños; la tolerancia para su entrada y salida; derechos y obligaciones de los usuarios; y, en su caso, la cuota mensual, forma de pago y fechas para hacerlos.
+Los centros de atención deberán contar con un reglamento interno en el que se especifique el uso y mantenimiento de las instalaciones; características de los servicios, aspectos de seguridad higiene y protección civil; cuidados de la salud; protocolo de atención en caso de sospecha de violencia; horarios de la prestación de servicio; la admisión de niñas y niños; el mecanismo para designar a la persona o personas autorizadas para recoger a las niñas o niños; la tolerancia para su entrada y salida; derechos y obligaciones de los usuarios; y, en su caso, la cuota mensual, forma de pago y fechas para hacerlos.
 
 Los Centros de Atención deberán velar por que los infantes adquieran hábitos de higiene, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integridad de la familia, evitando privilegios de raza, religión, grupo, sexo o individuo, en concordancia con su entorno social, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
 
@@ -543,7 +575,9 @@ Los Centros de Atención deberán velar por que los infantes adquieran hábitos 
 
 El programa de trabajo a que se refiere la fracción V del artículo 39, deberá contener al menos la siguiente información:
 
-I. Los derechos de las niñas y niños, previstos en el artículo 2 y los mecanismos e instrumentos para satisfacerlos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+I. Los derechos de las niñas y niños, previstos en el artículo 2 y los mecanismos e instrumentos para satisfacerlos, incluyendo el protocolo de atención en caso de sospecha de violencia;
 
 II. Las actividades formativas y educativas que se desarrollarán y los resultados esperados;
 
@@ -641,9 +675,11 @@ XV. Las demás que ordenen las disposiciones aplicables.
 
 ### Capítulo VII. De la Capacitación y Certificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 54.
 
-La Comisión Interinstitucional, conforme a la Modalidad y Tipo de los Centro (sic) de Atención, determinará las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en ellos; al efecto, formulará los programas de formación, capacitación permanente y de certificación de competencias que correspondan, los que serán obligatorios para dicho personal y también establecerá los tipos de exámenes a los que deberán someterse, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de las niñas y niños.
+La comisión interinstitucional, conforme a la modalidad, modelo y tipo de los centros de atención, determinará las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en ellos, al efecto, formulará los programas de formación, capacitación permanente y de certificación de competencias que correspondan, los que serán obligatorios para dicho personal y también establecerá los tipos de exámenes a los que deberán someterse, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de las niñas y niños.
 
 Tratándose de niñas y niños con discapacidad, se estructurarán programas de sensibilización y capacitación continua para el personal de los Centros de Atención, los que fomentarán el trato no discriminatorio y la convivencia en un ambiente de inclusión y respeto a sus derechos, en condiciones de igualdad.
 
@@ -657,27 +693,39 @@ La capacitación impartida por las autoridades estatales y municipales o tercero
 
 ### Capítulo VIII. Del Personal de los Centros de Atención
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 57.
 
-Todo Centro de Atención tendrá como responsables directos a un Director y a un Médico General, este último preferentemente con especialidad en pediatría.
+Todo centro de atención tendrá como responsable directo a un Director.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 58.
 
-El cargo de Director a que se refiere el artículo anterior, deberá recaer en persona que cuente con Licenciatura en Educación, Trabajo Social, Psicología o Medicina, con cédula profesional expedida por institución autorizada.
+El cargo de Director que se refiere el artículo anterior, podrá recaer en personas que cuenten con licenciatura en educación, trabajo social, psicología, medicina, o carreras afines a la atención de menores, con cédula profesional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 59.
 
-Los Centros de Atención contarán, como mínimo, con el personal siguiente:
+Los Centros de Atención, acorde al modelo de atención, podrán contar con el personal siguiente:
 
-I. Licenciado en Intervención Educativa o en Educación Preescolar;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+I. Licenciado en Intervención Educativa, Educación Preescolar o Licenciaturas afines;
 
 II. Licenciado en Puericultura;
 
-III. Médico General;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+III. Médico General o personal que preste los servicios de primer respondiente o atención médica;
 
 IV. Psicólogo;
 
-V. Vigilante;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+V. Vigilante o personal que preste los servicios del cuidado de acceso y salida de los menores;
 
 VI. Persona encargada de la limpieza;
 
@@ -753,13 +801,17 @@ Todas las actividades desarrolladas por las niñas y los niños, se llevarán a 
 
 ### Capítulo I. De la Inspección y Vigilancia
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 66.
 
-El Estado y los Municipios, en el ámbito de sus respectivas competencias y por conducto de las áreas correspondientes, deberán efectuar, cuando menos cada seis meses, visitas de inspección a los Centros de Atención, apegándose a las disposiciones de la Ley de Procedimientos Administrativos del Estado de Querétaro, en todo lo no previsto por este ordenamiento.
+El Estado y los municipios, en el ámbito de sus respectivas competencias y por conducto de las áreas correspondientes, deberán efectuar, visitas de inspección o verificación a los centros de atención bajo criterios de riesgo, teniendo por solventada la acreditación de documentación que diversa autoridad ya hubiese requerido y verificado, apegándose a las disposiciones de la Ley de Procedimientos Administrativos del Estado de Querétaro, en todo lo no previsto en este ordenamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 67.
 
-Las visitas de inspección, tendrán por objeto verificar el cumplimiento de las disposiciones de esta Ley y demás ordenamientos aplicables, por parte de los prestadores de servicios, debiendo informarse a la autoridad competente, sobre la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños.
+Las visitas de inspección o verificación tendrán por objeto revisar el cumplimiento de las disposiciones de esta Ley y demás ordenamientos aplicables, por parte de los prestadores de servicios, debiendo informarse a la autoridad competente sobre la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños.
 
 La Coordinación Estatal de Protección Civil o Coordinación Municipal correspondiente, tendrán la facultad de iniciar cualquier operativo de prevención encaminado a disminuir o mitigar riesgos, coordinando a las autoridades competentes.
 
@@ -904,3 +956,15 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
+
+Artículo Tercero. Lo previsto en la presente Ley se aplicará atendiendo a la suficiencia presupuestal con que se cuente.
