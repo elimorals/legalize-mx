@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2021-06-02"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE AGOSTO DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 27 DE AGOSTO DE 2021.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -1626,6 +1626,8 @@ Por los servicios prestados por la Fiscalía General del Estado de Querétaro, s
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 28582 A LA 28583. PÁGINAS DE LA 17849 A LA 17851]</small>
 
 > <small>[N. DE E. VÉASE REFORMAS DE LA TABLA EN EL P.O. DE 2 DE JUNIO DE 2021, PÁGINAS DE LA 17849 A LA 17851]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 27 DE AGOSTO DE 2021, PÁGINA 37058.]</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
