@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2021-04-19"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -223,11 +223,83 @@ III. No haber sido condenado en sentencia que haya causado ejecutoria por delito
 
 IV. No estar inhabilitado por resolución que haya causado ejecutoria para el desempeño de funciones públicas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 27 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO II BIS. DE LA UNIDAD DE PROFESIONALIZACIÓN Y EVALUACIÓN PARA DEFENSORES PÚBLICOS
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 12 Bis.
+
+El Instituto contará con una Unidad de Profesionalización y Evaluación, el cual tiene como objeto contribuir a la actualización y capacitación de las y los Defensores Públicos, cuyas atribuciones especificas serán las siguientes:
+
+I. Diseñar, programar y aplicar proyectos de capacitación académica en las distintas ramas del derecho relacionadas a la defensoría pública;
+
+II. Realizar de manera periódica proyectos de evaluación a las y los Defensores Públicos;
+
+III. Disponer y proporcionar permanentemente de material académico físico y electrónico de consulta que auxilie en el ejercicio de sus funciones a las y los Defensores Públicos, y
+
+IV. Realizar de manera periódica, foros, cursos y talleres de capacitación para las y los servidores públicos del Instituto.
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 12 Ter.
+
+La Unidad de Profesionalización y Evaluación de Servidores Públicos del Instituto contará con un Coordinador General nombrado por el Director del Instituto, quien deberá reunir para su designación, los requisitos siguientes:
+
+I. Tener Título de Licenciado en Derecho y Cédula Profesional expedidos por autoridad o institución legalmente facultada para ello y debidamente registrados, con antigüedad mínima de cinco años y experiencia en el ejercicio de la profesión, especialmente en las materias afines a sus funciones;
+
+II. No estar condenado por sentencia que haya causado ejecutoria, por delito doloso que amerite pena privativa de libertad, y
+
+III. No estar inhabilitado para el desempeño de funciones públicas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 27 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO II TER. DE LA UNIDAD DE VIGILANCIA Y SEGUIMIENTO DE PROCESOS
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 12 Quater.
+
+La unidad de vigilancia y seguimiento a procesos es un órgano de asesoría técnica y apoyo para las y los usuarios, que tiene por objeto contribuir al seguimiento y vigilancia del debido proceso, así como de auxilio para el correcto desempeño de las funciones de las y los Defensores Públicos.
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 12 Quinquies.
+
+La Unidad de Vigilancia y Seguimiento a Procesos estará integrada por:
+
+I. Diez Defensores Públicos especializados en materia penal civil, mercantil, familiar, laboral y amparo;
+
+II. Dos traductores bilingües;
+
+III. Dos intérpretes o traductores de lenguas indígenas;
+
+IV. Diez trabajadoras y trabajadores sociales, y
+
+V. Dos representantes de la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 12 Sexies.
+
+Corresponde a la Unidad de Vigilancia y Seguimiento a Procesos:
+
+I. Atender quejas y dudas de los usuarios que soliciten patrocinio legal;
+
+II. Auxiliar en sus funciones a las y los Defensores Públicos en el ejercicio de sus patrocinios;
+
+III. Realizar por medio del personal correspondiente, la interpretación o traducción al castellano de las lenguas, dialectos o idioma a las personas que requieran del servicio de la defensoría pública, en auxilio y colaboración de las defensoras y defensores públicos;
+
+IV. Canalizar denuncias por violaciones cometidas a los derechos humanos y al debido proceso ante la Comisión de Derechos Humanos del Estado de México;
+
+V. Analizar y dar seguimiento a los procesos activos, así como a cada una de las actuaciones, vigilando el debido proceso y el buen desempeño de las y los Defensores Públicos mediante informes mensuales a la subdirección técnica;
+
+VI. Dar seguimiento a las causas de retiro del patrocinio, y
+
+VII. Informar al Órgano de Control interno correspondiente, sobre las faltas e incumplimiento de las funciones de los Defensores Públicos.
+
 ### CAPÍTULO III. ATRIBUCIONES ESPECÍFICAS DEL INSTITUTO
-
-### CAPÍTULO IV. DEL CONSEJO TÉCNICO
-
-### CAPÍTULO V. DE LOS DEFENSORES PÚBLICOS
 
 ###### Artículo 13.
 
@@ -329,21 +401,29 @@ XVII. Proveer, en el ámbito administrativo, lo necesario para el mejor desarrol
 
 XVIII. Implementar los sistemas informáticos de gestión necesarios para el registro y seguimiento de los asuntos designados a las y los Defensores Públicos, para facilitar el desempeño de sus funciones, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE AGOSTO DE 2021)</small>
 
-XIX. Las demás que le señalen las disposiciones legales aplicables y el Secretario.
+XIX. Coordinar la elaboración de una estadística y base de datos sobre el número de procesos patrocinados por cada Defensor Público;
 
-### CAPÍTULO VI. DE LAS CAUSAS DE RETIRO DEL PATROCINIO
+> <small>(ADICIONADA, G.G. 27 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
+XX. Vigilar y controlar de manera periódica el número de procesos activos a cargo de cada defensor público a fin de garantizar el buen patrocinio y el eficaz desempeño de sus funciones;
+
+> <small>(ADICIONADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+XXI. Fijar un número promedio de tres Defensores Públicos por juzgado, y ministerio público, distribuidos de acuerdo con las necesidades de cada materia y distrito, como dos peritos por distrito judicial, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], G.G. 27 DE AGOSTO DE 2021)</small>
+
+XXII. Las demás que le señalen las disposiciones legales aplicables y el Secretario.
+
+### CAPÍTULO IV. DEL CONSEJO TÉCNICO
 
 ###### Artículo 15.
 
 El Consejo Técnico es un órgano de asesoría y apoyo del Instituto, que tiene por objeto contribuir al diseño, coordinación y evaluación de los programas y proyectos para mejorar el servicio de asesoría, patrocinio y defensa de las personas que así lo soliciten, cuya integración y funcionamiento quedarán establecidos en términos del Reglamento.
 
-### CAPÍTULO VII. DE LAS CAUCIONES Y FIANZAS DE INTERÉS SOCIAL
-
-> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+### CAPÍTULO V. DE LOS DEFENSORES PÚBLICOS
 
 ###### Artículo 16.
 
@@ -503,7 +583,9 @@ Con independencia de las acciones que correspondan por la inobservancia de las f
 
 Para el ejercicio de su encargo, los defensores públicos se auxiliarán de los peritos, trabajadores sociales y demás servidores públicos que sean necesarios, los cuales tendrán las atribuciones y obligaciones que les señale esta Ley y las demás disposiciones aplicables.
 
-### CAPÍTULO VIII. DEL SERVICIO PROFESIONAL DE CARRERA
+### CAPÍTULO VI. DE LAS CAUSAS DE RETIRO DEL PATROCINIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 20.
 
@@ -531,6 +613,10 @@ IX. Proporcione documentación falsa o alterada a su defensor, para que ésta se
 
 X. Cualquier otra contraria a esta Ley que se advierta durante el juicio.
 
+### CAPÍTULO VII. DE LAS CAUCIONES Y FIANZAS DE INTERÉS SOCIAL
+
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 21.
 
 El Instituto podrá, con cargo a un fondo público, apoyar a los imputados adultos y adolescentes de escasos recursos con el otorgamiento de fianzas de interés social a efecto de que puedan dar cumplimiento a la garantía económica fijada como medida cautelar por el Órgano Jurisdiccional.
@@ -554,6 +640,8 @@ IV. Los demás que se establezcan en el convenio suscrito con la afianzadora que
 Una vez fijada la garantía económica, previniendo su posible ejecución, cuando el imputado tenga nombrada defensa particular, en caso de que ésta sea revocada y nombrado Defensor Público, el Instituto podrá reservarse el otorgamiento de la fianza de interés social.
 
 La fianza de interés social que otorga el gobierno, no será objeto para la sustitución por equivalente y el tiempo de su tramitación se sujetará al requerido para su emisión y en su caso autorización por la afianzadora.
+
+### CAPÍTULO VIII. DEL SERVICIO PROFESIONAL DE CARRERA
 
 ###### Artículo 23.
 
@@ -788,3 +876,13 @@ G.G. 19 DE ABRIL DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 309.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 14; SE ADICIONA EL CAPÍTULO II BIS, DENOMINADO DE LA UNIDAD DE PROFESIONALIZACIÓN Y EVALUACIÓN PARA DEFENSORES PÚBLICOS; EL CAPÍTULO II TER, DENOMINADO DE LA UNIDAD DE VIGILANCIA Y SEGUIMIENTO DE PROCESOS; LOS ARTÍCULOS 12 BIS, 12 TER, 12 QUATER, 12 QUINQUIES Y 12 SEXIES; Y LAS FRACCIONES XX, XXI Y XXII DEL ARTÍCULO 14, DE LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado, realizará la reforma correspondiente a las disposiciones reglamentarias que se deriven de esta Ley, en un plazo no mayor a noventa días hábiles, posteriores a la entrada en vigor del presente Decreto.
