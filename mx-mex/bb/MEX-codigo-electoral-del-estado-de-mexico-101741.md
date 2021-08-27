@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2020-11-26"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -4685,9 +4685,13 @@ IV. Integrar el expediente del cómputo distrital de la elección de Gobernador 
 
 Los presidentes de los consejos distritales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales. Asimismo, tomarán las medidas necesarias para el depósito, en el lugar señalado para tal efecto, de los expedientes electorales hasta la conclusión del proceso electoral.
 
-> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 27 DE AGOSTO DE 2021)</small>
 
-El consejo distrital deberá permanecer en funciones hasta en tanto no se concluya el proceso electoral.
+El consejo distrital deberá permanecer en funciones hasta en tanto no se concluya el proceso electoral de su competencia.
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+El Consejo General emitirá un acuerdo para determinar los consejos distritales que deberán concluir sus funciones de conformidad con el párrafo anterior.
 
 ###### Artículo 362.
 
@@ -4895,9 +4899,13 @@ No se suspenderá la sesión mientras no se concluya el cómputo de la elección
 
 Los consejos municipales, en un plazo no mayor de cuatro días después de concluido el cómputo municipal, deberán enviar al Consejo General un ejemplar de las actas levantadas en cada casilla electoral, de las protestas presentadas ante ellos mismos, así como un informe detallado de todo el proceso electoral y sobre las reclamaciones y medios de impugnación interpuestos, con una copia del acta del cómputo municipal.
 
-> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 27 DE AGOSTO DE 2021)</small>
 
-El consejo municipal deberá permanecer en funciones hasta en tanto no se concluya el proceso electoral.
+El consejo municipal deberá permanecer en funciones hasta en tanto no se concluya el proceso electoral de su competencia.
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+El Consejo General emitirá un acuerdo para determinar los consejos municipales que deberán concluir sus funciones de conformidad con el párrafo anterior.
 
 ###### Artículo 376.
 
@@ -7724,3 +7732,13 @@ G.G. 26 DE NOVIEMBRE DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 305.- POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 361 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 375, Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 361 Y EL PÁRRAFO TERCERO AL ARTÍCULO 375, DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Lo previsto en el presente Decreto no será aplicable a los procesos electorales pendientes o en trámite que no han sido concluidos.
