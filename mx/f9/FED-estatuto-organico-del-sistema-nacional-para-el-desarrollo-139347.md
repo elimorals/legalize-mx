@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-13934
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-05"
-last_updated: "2020-03-31"
+last_updated: "2021-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2019-10-16"
 
 ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 31 DE MARZO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2021.
 
 Estatuto publicado en la Primera Sección al Número 4 del Diario Oficial de la Federación, el jueves 5 de diciembre de 2019.
 
@@ -665,7 +663,9 @@ XXXII. Expedir copias certificadas de los documentos que obren en sus archivos;
 
 XXXIII. Solicitar el auxilio de las instituciones policiales competentes, para la imposición de las medidas urgentes de protección, así como de las autoridades de los tres órdenes de gobierno, para el desempeño de sus funciones;
 
-XXXIV. Dirigir la coordinación de la Red Nacional de Difusores de los Derechos de Niñas, Niños y Adolescentes en las entidades federativas;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+XXXIV. Dirigir la coordinación de la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas;
 
 XXXV. Delegar alguna de las facultades a que se refiere el presente artículo a las personas servidoras públicas titulares de las unidades administrativas que le estén adscritas;
 
@@ -1253,9 +1253,13 @@ VI. Elaborar las propuestas de Normas Oficiales Mexicanas referentes a los derec
 
 VII. Dirigir acciones de promoción y difusión de los derechos de las niñas, niños y adolescentes; y
 
+> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+VIII. Promover la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas, así como llevar a cabo acciones en materia de participación infantil con dicha Red.
+
 > <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
-VIII. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+IX. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 35.
 
@@ -1486,3 +1490,13 @@ OCTAVO. El "ACUERDO por el que el Titular del Sistema Nacional para el Desarroll
 NOVENO. En lo relativo al Órgano Interno de Control, se está a lo señalado en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y lo previsto en el sexto transitorio del "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el treinta de noviembre de dos mil dieciocho, quedando a cargo la de la Jefa o Jefe de la Unidad de Administración y Finanzas la coordinación de las acciones respectivas.
 
 Se expide en la Ciudad de México, el dieciséis de octubre de dos mil diecinueve.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, María del Rocío García Pérez.- Rúbrica.
+
+D.O.F. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
+
+PRIMERO.- La presente modificación al Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La persona titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes a través de la persona que ocupe la titularidad de la Dirección General de Normatividad, Promoción y Difusión de los Derechos de Niñas, Niños y Adolescentes, deberá realizar todas aquellas gestiones necesarias para conformar los lineamientos y bases, así como aquellas normativas que le den sustento regulador a la nueva “Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes”, así como las adecuaciones necesarias a fin de actualizar las acciones de operación, tipologías, elementos de identificación sustantiva y de políticas que conformaran dicha Red.
+
+TERCERO.- Hasta en tanto se cumple lo señalado en el artículo anterior, los elementos descritos que hagan referencia a la “Red Nacional de DIFusores” se entenderán como “Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes”.
