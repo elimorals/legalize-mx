@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2021-08-13"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1903,61 +1903,57 @@ La Contraloría estará a cargo de un titular denominado Contralor, quien será 
 
 Para ser Contralor se requieren los mismos requisitos que para Oficial Mayor, excepto el de la profesión que podrá ser cualquier otra afín a sus funciones.
 
+> <small>(REFORMADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 155.
 
 La Contraloría tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+I.- Instaurar el procedimiento previsto en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en sus etapas de investigación, substanciación y resolución, tratándose de faltas administrativas no graves de los diputados, los servidores públicos del propio Poder Legislativo y servidores públicos de elección popular municipal;
 
-I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, tratándose de los diputados, los demás servidores públicos del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, poniéndolos en estado de resolución para someterlos a la Junta de Coordinación Política;
+II.- En los casos de las faltas administrativas catalogadas como graves, deberá turnarlas al Tribunal de Justicia Administrativa del Estado de México de conformidad con la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
-> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+III.- Imponer las sanciones en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, a diputados, servidores públicos del Poder Legislativo y servidores públicos de elección popular municipal cuando se trate de faltas administrativas no graves;
 
-II.- Conocer de las responsabilidades administrativas y hacer efectivas las sanciones que correspondan, cuando así lo acuerde la Junta de Coordinación Política;
+IV.- Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía General de Justicia del Estado de México o, en su caso, ante el homólogo en el ámbito federal, y hacer del conocimiento de las autoridades que integran los Sistemas Anticorrupción o de Fiscalización, cuando conozca de actos que sean de su competencia;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+V.- Recibir y, en su caso, substanciar los medios de impugnación a que se refiere la Ley de Responsabilidades Administrativas del Estado de México y Municipios, y resolverlos cuando la ley así lo prevea;
 
-III.- Ejecutar, por acuerdo de la Junta de Coordinación Política, y en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los miembros de los ayuntamientos de los municipios de la entidad, en términos de las leyes respectivas;
+VI.- Vigilar que se cumplan las disposiciones legales en materia de Declaraciones de Situación Patrimonial y de Intereses, y, en su caso, la constancia de declaración fiscal, de los diputados, los servidores públicos del Poder Legislativo y los de elección popular municipal;
 
-> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+VII.- Recibir, registrar y custodiar las declaraciones de situación patrimonial y de intereses, la presentación de la constancia de declaración fiscal y determinar el Conflicto de Intereses de los diputados, los servidores públicos del Poder Legislativo y los de elección popular municipal; asimismo, verificar la situación patrimonial y la posible actualización del conflicto de interés;
 
-IV.- Substanciar los medios de impugnación que se presenten en materia de responsabilidad administrativa, turnándolos a la Junta de Coordinación Política para que emita la resolución correspondiente;
+VIII.- Contar con un sistema de atención de denuncias, respecto de la actuación de los servidores públicos;
 
-> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+IX.- Establecer mecanismos de coordinación con la Secretaría de la Contraloría del Gobierno del Estado de México, Contralorías Internas de las dependencias y organismos auxiliares del Poder Ejecutivo y/o Contralorías Municipales del Estado de México, para el mejor desempeño de sus funciones;
 
-V.- Vigilar que se cumplan las disposiciones legales en materia de Manifestación de Bienes, debiendo recibirlas, registrarlas y custodiarlas, dando seguimiento a su evolución patrimonial;
+X.- Sugerir dentro del ámbito de su competencia, la implementación de controles, a través de las auditorías y otras acciones de control para optimizar la función de las dependencias y unidades administrativas de la Legislatura;
 
-VI.- Contar con un sistema de atención de quejas y denuncias, respecto de la actuación de los servidores públicos;
+XI.- Asesorar en el ámbito de su competencia a las dependencias y unidades administrativas adscritas al Poder Legislativo, para el mejor cumplimiento de sus programas;
 
-VII.- Establecer coordinación con otras dependencias de control, para el mejor desempeño de sus funciones;
+XII.- Estudiar y evaluar los sistemas de control de las dependencias y unidades administrativas del Poder Legislativo;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+XIII.- Participar en las sesiones del Comité de Adquisiciones y Servicios; Comité de Arrendamientos, Adquisición de Inmuebles y Enajenaciones; Comité Interno de Obra; Comité de Gobierno Digital; Comité de Transparencia; y del Comité de Ética, verificando el cumplimiento de la normatividad aplicable;
 
-VIII.- Establecer y aplicar dentro del ámbito de su competencia, los criterios de control, evaluación y auditoría para optimizar la función de las dependencias administrativas de la Legislatura;
+XIV.- Efectuar revisiones a las dependencias y unidades administrativas del Poder Legislativo, a través de auditorías y otras acciones de control, a fin de verificar el cumplimiento de la normatividad aplicable en materia de presupuestación, contabilidad, contratación de bienes y servicios, administración de recursos humanos, materiales y financieros, ingresos, egresos y manejo y custodia de fondos y valores;
 
-IX.- Asesorar en el ámbito de su competencia a los órganos y dependencias de la Legislatura, para el mejor cumplimiento de sus programas;
+XV.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Junta de Coordinación Política, así como de las dependencias del Poder Legislativo;
 
-X.- Evaluar los criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control de la administración del Poder Legislativo, con el fin de asegurar su eficiencia;
+XVI.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
 
-XI.- Participar en los procesos de licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, verificando el cumplimiento de las disposiciones contenidas en la ley de la materia;
+XVII.- Informar anualmente a la Asamblea, por conducto del presidente de la Junta de Coordinación Política, de las labores desarrolladas;
 
-XII.- Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
+XVIII.- Implementar acciones y mecanismos tendentes a prevenir actos u omisiones que pudieran constituir responsabilidades administrativas de diputados, servidores públicos del Poder Legislativo y de elección popular municipal;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+XIX.- Implementar acciones para establecer el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de empleos, cargos o comisiones, con el objeto de prevenir la comisión de faltas y hechos de corrupción;
 
-XIII.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Junta de Coordinación Política, así como de las dependencias del Poder Legislativo;
+XX.- Participar en el Sistema Estatal de Fiscalización, en los términos de la Ley del Sistema Anticorrupción del Estado de México y Municipios;
 
-XIV.- Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como de recursos materiales y financieros del Poder Legislativo;
+XXI.- Proponer la instrumentación de acciones de mejora derivadas de las auditorías y de las otras acciones de control;
 
-XV.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
+XXII.- Requerir a las dependencias y unidades administrativas adscritas al Poder Legislativo, por sí o a través de los titulares de las unidades administrativas de la Contraloría, la información y documentación que sea necesaria para el ejercicio de sus atribuciones; y
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
-
-XVI.- Informar anualmente a la Asamblea, por conducto del Presidente de la Junta de Coordinación Política, de las labores desarrolladas;
-
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
-
-XVII.- Las demás que le señalen los ordenamientos legales o que determine la Junta de Coordinación Política o su presidente.
+XXIII.- Las demás que le señalen las leyes, otros ordenamientos jurídicos, las que determine la Junta de Coordinación Política o su presidente.
 
 ###### Artículo 156.
 
@@ -2799,15 +2795,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 444 POR EL QUE SE REFORMAN LOS ARTÍCULOS 245 Y 246 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+G.G. 27 DE AGOSTO DE 2021.
 
-PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 304.- POR EL QUE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE EXPIDE EL REGLAMENTO INTERNO DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+###### ARTÍCULO PRIMERO.
 
-TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
 
-P.O. 15 DE DICIEMBRE DE 2023.
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura proveerá lo conducente para que en un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente Decreto se publiquen los Manuales Administrativos de la Contraloría del Poder Legislativo en el Periódico Oficial “Gaceta del Gobierno.
+
+###### ARTÍCULO CUARTO.
+
+Los expedientes que se encuentren actualmente en trámite, en términos del acuerdo “POR EL QUE SE ARMONIZAN Y ASIGNAN ATRIBUCIONES A LAS UNIDADES ADMINISTRATIVAS DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO”, publicado en el Periódico Oficial “Gaceta del Gobierno” el siete de agosto de dos mil diecisiete, continuarán su substanciación en concordancia con las reformas del presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga el Reglamento Interno de la Contraloría del Poder Legislativo del Estado Libre y Soberano de México publicado mediante decreto 231, del veintiuno de junio de dos mil seis.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 472 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499; LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO Y LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE GUERRERO NÚMERO 280, EN MATERIA DE VIOLENCIA VICARIA”.]
 
