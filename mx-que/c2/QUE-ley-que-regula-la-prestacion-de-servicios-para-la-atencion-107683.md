@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1076
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2015-04-17"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,930 +21,950 @@ state: "QUE"
 ---
 # LEY QUE REGULA LA PRESTACION DE SERVICIOS PARA LA ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE QUERETARO
 
-ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
+LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE OCTUBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 17 de abril de 2015.
 
-Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
 
-ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
+LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
 CONSIDERANDO
 
-PRIMERO.- Que por decretos publicados en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, el veintidós de agosto de mil novecientos noventa y seis y el once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando la estructura y competencia del Poder Judicial de la Federación;
+[...]
 
-SEGUNDO.- Que en los artículos 94, párrafo segundo, 99 y 100, párrafo octavo, de la Carta Magna, 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, se establece que la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, estarán a cargo del Consejo de la Judicatura Federal, y que éste es el órgano facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley;
+Por lo expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro expide la siguiente:
 
-TERCERO.- Que el artículo 17 constitucional establece, entre otras cosas, que los tribunales estarán expeditos para impartir justicia en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita;
+LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE QUERÉTARO
 
-CUARTO.- Que en términos de los artículos 81, fracciones IV, V y VI, 144 y 145 de la Ley Orgánica del Poder Judicial de la Federación, corresponde al Consejo de la Judicatura Federal determinar, mediante Acuerdos Generales, el número y los límites territoriales de los circuitos en que se divida el territorio de la República, así como el número, delimitación territorial y, en su caso, especialización por materia, de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito en cada uno de los mencionados circuitos. Asimismo, que cada uno de los circuitos comprenderá los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal, y que en cada distrito deberá establecerse cuando menos un juzgado;
+## Título Primero. Parte general
 
-QUINTO.- Que para regular los temas antes señalados se encuentra vigente el Acuerdo General 16/1998, de veinte de mayo de mil novecientos noventa y ocho, del Pleno del Consejo de la Judicatura Federal, el cual sustituyó al Acuerdo 1/1993, de trece de enero de mil novecientos noventa y tres, el cual fue actualizado mediante el diverso Acuerdo número 1/1994, del primero de febrero de mil novecientos noventa y cuatro, ambos expedidos por el Pleno de la Suprema Corte de Justicia de la Nación;
+### Capítulo I. Disposiciones generales
 
-SEXTO.- Que con motivo de la creación de órganos jurisdiccionales y su especialización, así como la creación de nuevos circuitos y su delimitación territorial por parte del Pleno del Consejo de la Judicatura Federal, el referido Acuerdo General 16/1998 ha sido modificado durante un lapso de más de dos años y por tal razón, se hace evidente la necesidad de emitir uno nuevo que lo sustituya y actualice.
+###### Artículo 1.
 
-En consecuencia, con fundamento en las citadas disposiciones constitucionales y legales, este Pleno del Consejo de la Judicatura Federal expide el siguiente
+La presente Ley es de orden público, interés social y de observancia obligatoria en el territorio del Estado. Tiene por objeto regular la participación de los sectores privado y social, en la prestación de servicios para la atención, cuidado y desarrollo integral infantil en la Entidad, garantizando el acceso de niñas y niños a dichos servicios en condiciones de igualdad, eficiencia, calidad, calidez, seguridad y protección adecuadas, que promuevan en ejercicio pleno de sus derechos.
 
-ACUERDO
+###### Artículo 2.
 
-PRIMERO.- El territorio de la República se divide en veintisiete circuitos, cuya circunscripción territorial es la siguiente:
+El Estado y los municipios, en el ámbito de su competencia, vigilarán que la prestación de los servicios que regula esta Ley, se oriente a lograr la observancia y ejercicio de los derechos fundamentales de las niñas y niños, entre otros:
 
-I.- PRIMER CIRCUITO: Distrito Federal.
+I. A un entorno seguro, afectivo y libre de violencia;
 
-II.- SEGUNDO CIRCUITO: Estado de México.
+II. Al cuidado y protección contra actos u omisiones que puedan afectar su integridad física, psicológica y emocional;
 
-III.- TERCER CIRCUITO: Estados de Colima y Jalisco.
+III. A la atención y promoción de la salud;
 
-IV.- CUARTO CIRCUITO: Estado de Nuevo León.
+IV. A recibir la alimentación que les permita tener una nutrición adecuada;
 
-V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+V. A recibir orientación y educación apropiada a su edad, tendientes a lograr su desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
 
-VI.- SEXTO CIRCUITO: Estados de Puebla y Tlaxcala.
+VI. Al descanso, al juego y al esparcimiento;
 
-VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+VII. A la no discriminación;
 
-VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+VIII. A recibir servicios de calidad y con calidez, por parte de personal apto, suficiente y que cuente con formación o capacidades, desde un enfoque de los derechos de la niñez;
 
-IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+IX. A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta;
 
-XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+X. Programa Técnico Pedagógico; y
 
-XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+XI. Los demás derechos fundamentales consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que México sea parte, en la legislación federal y estatal para la protección de los derechos de niñas y niños, en esta Ley y en los demás ordenamientos aplicables.
 
-XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
+###### Artículo 3.
 
-XV.- DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
+Para los efectos de esta Ley se entenderá por:
 
-XVI.- DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
+I. Centros de Atención: los establecimientos, cualquiera que sea su denominación de modalidad pública, privada o mixta, en los que se prestan servicios para la atención cuidado y desarrollo integral infantil, a niñas y niños que cuenten con entre cuarenta y tres días y cinco años once meses de edad;
 
-XVII.- DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
+II. Comisión Interinstitucional: la Comisión Interinstitucional de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Querétaro;
 
-XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
+III. Constitución Federal: la Constitución Política de los Estados Unidos Mexicanos;
 
-XIX.- DECIMONOVENO CIRCUITO: Estado de Tamaulipas.
+IV. Desarrollo Integral Infantil: el derecho que tienen las niñas y niños a formarse física, mental, emocional y socialmente, en condiciones de igualdad, eficiencia, calidad, calidez, seguridad y protección adecuadas;
 
-XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
+V. Ley: la Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Querétaro;
 
-XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
+VI. Ley General: la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO: Estados de Hidalgo y Querétaro.
+VII. Medidas Precautorias: las medidas que emita la autoridad competente, para salvaguardar y proteger la vida y la integridad de las niñas y niños, con motivo de la prestación de los servicios regulados en la presente Ley;
 
-XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Aguascalientes y Zacatecas.
+VIII. Modalidades: las modalidades pública, privada o mixta que pueden presentar los Centros de Atención;
 
-XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+IX. Modelo de Atención: el conjunto de acciones lógicamente estructuradas y organizadas por instituciones del sector público, social o privado, para brindar servicios para la atención, cuidado y desarrollo integral infantil, en función de las necesidades y características de las niñas y niños sujetos de atención, de acuerdo con los fines y alcances bajo los que funciona cada Centro de Atención, atendiendo las disposiciones jurídicas que les son aplicables;
 
-XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+X. Periódico Oficial: el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”;
 
-XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+XI. Prestadores de servicios: las personas físicas o morales que cuenten con permiso, licencia o autorización, emitido por la autoridad competente, para instalar y operar uno o varios Centros de Atención, en cualquier modalidad y tipo, para la atención, cuidado y desarrollo integral infantil;
 
-XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+XII. Programa Estatal: el Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
+XIII. Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento: el conjunto de acciones para la vigilancia efectiva del cumplimiento de la presente Ley, a fin de garantizar el mejoramiento progresivo y fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
 
-I.- PRIMER CIRCUITO:
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 86/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+XIV. Programa Interno de Protección Civil: El instrumento formulado por el prestador de servicios, el cual deberá constar por escrito, estar firmado por personal competente, facultado, capacitado y especializado en análisis de riesgo de los centros de atención, y en términos de la ley General de Protección Civil y aprobado por la Coordinación de Protección Civil que corresponda, que se circunscribe al ámbito de una dependencia, entidad, institución y organismo pertenecientes a los sectores público, en sus tres órdenes de gobierno, privado y social y se ejecuta en los inmuebles correspondientes de acuerdo al tipo y Modelo, con el fin de salvaguardar la integridad física de las niñas y niños, empleados y demás personas que concurran a ellos, acopiando toda la información referente a las actividades de Protección Civil al interior del Inmueble;
 
-1.- Cincuenta y dos tribunales colegiados especializados: diez en materia penal, trece en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
+XV. Programa Municipal: el Programa Municipal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-2.- Seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
+XVI. Programa Nacional: el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 83/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-3.- Cuarenta y nueve juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, diez en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
+XVII. Programa Técnico Pedagógico: Es el documento que contiene el proceso, los logros, los avances, las dificultades y las recomendaciones de la enseñanza y el aprendizaje que impartirán los centros de atención, ya sea el documento emitido por entidad educativa, o el elaborado por el particular en un esquema no escolarizado;
 
-II.- SEGUNDO CIRCUITO:
+XVIII. Registro Estatal: el Catálogo público de los Centros de Atención, bajo cualquier modalidad y tipo, en el territorio del Estado de Querétaro;
 
-> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+XIX. Registro Nacional: el Catálogo público de los Centros de Atención, bajo cualquier modalidad y tipo, en el territorio nacional;
 
-1.- Diez tribunales colegiados especializados: dos en materia penal, uno en materia administrativa, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y dos tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez.
+XX. Reglamento: Reglamento de la Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Querétaro;
 
-2.- Tres tribunales unitarios: dos con sede en Toluca y uno con residencia en Ciudad Nezahualcóyotl.
+XXI. Reglamento General: el Reglamento de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-3.- Trece juzgados de distrito en el Estado de México: tres especializados en materia de procesos penales federales y dos especializados en materias de amparo y de juicios civiles federales, todos con residencia en Toluca; seis juzgados de distrito mixtos con sede en Naucalpan de Juárez y dos con sede en Ciudad Nezahualcóyotl.
+XXII. Secretaría: la Secretaría de Salud del Poder Ejecutivo del Estado de Querétaro; y
 
-III.- TERCER CIRCUITO:
+XXIII. Sistema Estatal: El Sistema Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Querétaro.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 69/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
+###### Artículo 4.
 
-1.- Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
+Las autoridades encargadas de aplicar la presente Ley y los prestadores de los servicios que regula la misma, ejercerán sus atribuciones y prestarán los servicios respectivamente, ajustándose a los siguientes principios rectores:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 70/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
+I. Interés superior de la niñez;
 
-2.- Cuatro tribunales unitarios con residencia en Guadalajara.
+II. Desarrollo integral de niñas y niños, en todos los aspectos de su vida, ya sean físicos, emocionales, psicosociales, cognitivos, sociales, educativos o culturales;
 
-3.- Dieciséis juzgados de distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; tres en materia administrativa y cuatro en materia civil, todos con residencia en Guadalajara.
+III. Proscripción de injerencias o afectaciones arbitrarias o ilegales en la vida privada de los niños, en su honra y en su reputación;
 
-4.- Dos juzgados de distrito en el Estado de Colima, con sede en la ciudad del mismo nombre.
+IV. No discriminación e igualdad de derechos;
 
-IV.- CUARTO CIRCUITO:
+V. Equidad de género;
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 89/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+VI. Participación de niñas y niños en todos los asuntos que les concierne;
 
-1.- Diez tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y tres en materia de trabajo, todos con residencia en Monterrey.
+VII. La protección de la organización y el desarrollo de la familia; y
 
-2.- Dos tribunales unitarios con residencia en Monterrey.
+VIII. Los demás que se desprendan de la Constitución Federal, de los tratados internacionales de los que México sea parte, la Ley General, la presente Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 44/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2002)</small>
+###### Artículo 5.
 
-3.- Diez juzgados de Distrito especializados en el Estado de Nuevo León: cuatro en materia penal, tres en materia administrativa, y tres en materias civil y de trabajo, todos con residencia en Monterrey.
+Los servicios para la atención, cuidado y desarrollo integral infantil que regula esta Ley, se podrán brindar a las niñas y niños que cuenten con entre cuarenta y tres días de nacidos y cinco años once meses de edad.
 
-V.- QUINTO CIRCUITO:
+### Capítulo II. De las Autoridades Competentes
 
-1.- Tres tribunales colegiados con residencia en Hermosillo.
+###### Artículo 6.
 
-2.- Cuatro tribunales unitarios con sede en Hermosillo.
+Corresponde al Poder Ejecutivo del Estado, en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, a través de la Secretaría, el ejercicio de las atribuciones siguientes:
 
-3.- Diez juzgados de distrito en el Estado de Sonora: cuatro con sede en Hermosillo, cuatro con residencia en Nogales y dos con sede en Ciudad Obregón.
+I. Diseñar, conducir, ejecutar y evaluar la política pública estatal, en congruencia con la política nacional en la materia;
 
-VI.- SEXTO CIRCUITO:
+II. Autorizar, en el ámbito de su competencia, la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
 
-1.- Diez tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y dos en materia de trabajo, todos con residencia en Puebla.
+III. Aprobar y ejecutar el Programa Estatal, de conformidad con la Ley General, la presente Ley y en concordancia con las directrices del Plan Nacional de Desarrollo, del Programa Nacional y de los fines del Consejo Nacional de Prestación para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-2.- Un tribunal unitario con sede en Puebla.
+IV. Organizar el Sistema Estatal;
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 58/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+V. Coordinar y operar el Registro Estatal;
 
-3.- Siete juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+VI. Verificar, en su ámbito de competencia, que la prestación de los servicios cumpla con los estándares de calidad y seguridad que exige el principio de interés superior de la niñez y las disposiciones aplicables;
 
-4.- Dos juzgados de distrito en el Estado de Tlaxcala, con sede en la ciudad del mismo nombre.
+VII. Determinar los indicadores que permitan evaluar la aplicación del Programa Estatal;
 
-VII.- SEPTIMO CIRCUITO:
+VIII. Asesorar a los gobiernos municipales que lo soliciten, en la elaboración, ejecución o evaluación de sus respectivos programas;
 
-1.- Siete tribunales colegiados especializados: dos en materia penal y dos en materias administrativa y de trabajo, con residencia en Boca del Río; y tres en materia civil con sede en Xalapa.
+IX. Suscribir convenios de coordinación con los demás órdenes de gobierno y convenios de concertación e inducción con los sectores privado y social, con el fin de cumplir con el objeto de la presente Ley;
 
-2.- Un tribunal unitario con residencia en Boca del Río.
+X. Promover, realizar, incentivar y difundir estudios e investigaciones en la materia;
 
-3.- Ocho juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río y dos con sede en Tuxpan.
+XI. Vigilar, en el ámbito de su competencia, que los prestadores de servicios en cualquiera de sus modalidades y tipos, cumplan con las disposiciones de esta Ley y demás ordenamientos legales aplicables;
 
-VIII.- OCTAVO CIRCUITO:
+XII. Decretar, en el ámbito de su competencia, las medidas precautorias necesarias a los Centros de Atención autorizados por el Estado;
 
-1.- Tres tribunales colegiados con residencia en Torreón.
+XIII. Imponer, en el ámbito de su competencia, las sanciones que correspondan por el incumplimiento a las disposiciones de esta Ley y de los demás ordenamientos aplicables;
 
-2.- Dos tribunales unitarios con sede en Torreón.
+XIV. Hacer del conocimiento de la autoridad competente, toda aquella información que pueda constituir un hecho ilícito; y
 
-3.- Seis juzgados de distrito en el Estado de Coahuila: dos con residencia en Saltillo, uno con sede en Piedras Negras, uno con residencia en Monclova y dos en La Laguna con sede en Torreón.
+XV. Las demás que le asignen esta Ley y otros ordenamientos aplicables.
 
-IX.- NOVENO CIRCUITO:
+###### Artículo 7.
 
-1.- Dos tribunales colegiados con residencia en San Luis Potosí.
+Corresponde a los municipios, en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, el ejercicio de las atribuciones siguientes:
 
-2.- Un tribunal unitario con sede en San Luis Potosí.
+I. Diseñar, conducir, ejecutar y evaluar la política municipal, en congruencia con la política estatal y la federal en la materia;
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+II. Autorizar, en el ámbito de su competencia, la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
 
-3.- Cinco juzgados de distrito en el Estado de San Luis Potosí: cuatro con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
+III. Elaborar, aprobar, ejecutar y evaluar el Programa Municipal, de conformidad con la presente Ley, la Ley General, el Plan Estatal de Desarrollo y el Programa Estatal en la materia;
 
-X.- DECIMO CIRCUITO:
+IV. Coadyuvar con el Sistema Estatal en la materia; así como en la integración y operación del Registro Estatal;
 
-1.- Tres tribunales colegiados con residencia en Villahermosa.
+V. Verificar, en su ámbito de competencia, que la prestación de los servicios cumpla con los estándares de calidad y seguridad que exige el principio de interés superior de la niñez y las disposiciones aplicables;
 
-2.- Dos tribunales unitarios con sede en Villahermosa.
+VI. Determinar los indicadores que permitan evaluar la aplicación del Programa Municipal en la materia;
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 48/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2001)</small>
+VII. Suscribir convenios de coordinación en la materia con los demás órdenes de gobierno, así como convenios de concertación e inducción con los sectores privado y social, para la satisfacción de los fines de la presente Ley;
 
-3.- Cuatro juzgados de distrito en el Estado de Tabasco, con residencia en Villahermosa.
+VIII. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 
-4.- Dos juzgados de distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
+IX. Vigilar, en el ámbito de su competencia, que los prestadores de servicios en cualquiera de sus tipos y modalidades cumplan con las disposiciones de esta Ley y de los demás ordenamientos aplicables;
 
-XI.- DECIMOPRIMER CIRCUITO:
+X. Decretar las medidas precautorias necesarias a los Centros de Atención autorizados por el municipio, en cualquier modalidad o tipo;
 
-1.- Tres tribunales colegiados con residencia en Morelia.
+XI. Imponer, en el ámbito de su competencia, las sanciones que correspondan por el incumplimiento a las disposiciones de esta Ley y de los demás ordenamientos aplicables;
 
-2.- Dos tribunales unitarios con sede en Morelia.
+XII. Denunciar a la autoridad competente, toda aquella información que pueda constituir un hecho ilícito; y
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 34/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+XIII. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
 
-3.- Ocho juzgados de distrito en el Estado de Michoacán: cuatro con residencia en Morelia y cuatro con sede en Uruapan.
+###### Artículo 8.
 
-XII.- DECIMOSEGUNDO CIRCUITO:
+La autorización para instalar y operar un Centro de Atención de los que regula esta Ley, será otorgada:
 
-1.- Cinco tribunales colegiados con residencia en Mazatlán.
+Apartado A. Por el Poder Ejecutivo del Estado, a través de la Secretaría:
 
-2.- Tres tribunales unitarios con sede en Mazatlán.
+I. Cuando se trate de Centros de Atención a través de los cuales, alguna de las dependencias, entidades del Poder Ejecutivo del Estado presten directamente los servicios;
 
-3.- Diez juzgados de distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
+II. Cuando se trate de Centros de Atención a través de los cuales, personas físicas o morales de los sectores social o privado presten los servicios, con apoyo de recursos públicos de origen estatal; y
 
-XIII.- DECIMOTERCER CIRCUITO:
+III. Cuando se trate de Centros de Atención a través de los que personas físicas o morales de los sectores social o privado presten los servicios en el territorio del Estado de Querétaro, sin que reciban apoyo de recursos públicos de ningún orden de gobierno.
 
-1.- Tres tribunales colegiados con residencia en Oaxaca.
+Apartado B. Por el Municipio:
 
-2.- Dos tribunales unitarios con sede en Oaxaca.
+I. Cuando se trate de Centros de Atención a través de los que alguna de las dependencias o entidades del Municipio, presten directamente los servicios; y
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 49/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2001)</small>
+II. Cuando se trate de Centros de Atención a través de los que personas físicas o morales de los sectores social o privado, presten los servicios con apoyo de recursos públicos de origen municipal. Cuando concurran recursos de origen estatal, la competencia para la autorización se surtirá a favor del Estado.
 
-3.- Ocho juzgados de distrito en el Estado de Oaxaca: seis con residencia en Oaxaca y dos con sede en Salina Cruz.
+###### Artículo 9.
 
-XIV.- DECIMOCUARTO CIRCUITO:
+Corresponde a los municipios autorizar, en el ámbito de su competencia, el Programa Interno de Protección Civil y demás autorizaciones, licencias y permisos concernientes en uso de suelo, funcionamiento, ocupación, seguridad y operaciones, seguridad estructural del inmueble que se requiera para que la autoridad federal autorice la instalación de un Centro de Atención de los que regula la Ley General y el Reglamento General y demás normatividad aplicable. Las concernientes a la materia sanitaria, corresponderá otorgarlas al Poder Ejecutivo del Estado, a través de la Secretaría.
 
-1.- Tres tribunales colegiados con residencia en Mérida.
+## Título Segundo. Del Sistema Estatal
 
-2.- Un tribunal unitario con sede en Mérida.
+### Capítulo I. Disposiciones Generales
 
-3.- Cuatro juzgados de distrito en el Estado de Yucatán, con residencia en Mérida.
+###### Artículo 10.
 
-4.- Dos juzgados de distrito en el Estado de Campeche, con sede en la ciudad del mismo nombre.
+El Sistema Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Querétaro, es el conjunto ordenado de órganos, instituciones, instancias, programas, políticas y acciones relacionadas con los servicios para la atención, cuidado y desarrollo integral infantil, con que cuentan el Poder Ejecutivo del Estado y los municipios, para la consecución del objeto de la presente Ley.
 
-XV.- DECIMOQUINTO CIRCUITO:
+###### Artículo 11.
 
-1.- Tres tribunales colegiados con residencia en Mexicali.
+La titularidad del Sistema Estatal corresponde al Poder Ejecutivo del Estado, quién la ejercerá por conducto de la Secretaría.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 41/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2001)</small>
+### Capítulo II. De la Comisión Interinstitucional
 
-2.- Seis tribunales unitarios: dos con sede en Mexicali y cuatro con residencia en Tijuana.
+###### Artículo 12.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 42/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2001)</small>
+La Comisión Interinstitucional de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Querétaro, es una instancia de consulta, asesoría, opinión y propuesta de instrumentos y acciones orientadas a establecer políticas públicas y estrategias relativas a la prestación de los servicios que regula esta Ley en el Estado de Querétaro.
 
-3.- Trece juzgados de distrito en el Estado de Baja California: cuatro con sede en Mexicali, siete con residencia en Tijuana y dos con sede en Ensenada.
+###### Artículo 13.
 
-XVI.- DECIMOSEXTO CIRCUITO:
+La Comisión Interinstitucional se integrará con:
 
-1.- Cinco tribunales colegiados, cuatro con residencia en Guanajuato y uno con sede en León.
+I. El Titular de la Secretaría de Salud del Poder Ejecutivo del Estado, quien lo presidirá;
 
-2.- Dos tribunales unitarios con sede en Guanajuato.
+II. El Titular de la Secretaría de Educación del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 33/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+III. El Titular de la Secretaría del Trabajo del Poder Ejecutivo del Estado;
 
-3.- Siete juzgados de distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y dos con residencia en Celaya.
+IV. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XVII.- DECIMOSEPTIMO CIRCUITO:
+V. El Titular de la Coordinación Estatal de Protección Civil; y
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 90/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+VI. Un representante de los municipios del Estado, electo de entre los representantes que al efecto éstos designen.
 
-1.- Cinco tribunales colegiados: cuatro con residencia en Chihuahua y uno con sede en Juárez.
+Todos los comisionados tendrán derecho a voz y voto.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 40/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2002)</small>
+El cargo de comisionado será honorífico e institucional.
 
-2.- Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Juárez.
+###### Artículo 14.
 
-3.- Siete juzgados de distrito en el Estado de Chihuahua: tres con residencia en la ciudad del mismo nombre y cuatro con sede en Juárez.
+Los integrantes de la Comisión Interinstitucional, podrán designar un suplente, el cual deberá tener, al menos, nivel jerárquico de Director o equivalente, con facultad de decisión.
 
-XVIII.- DECIMOCTAVO CIRCUITO:
+###### Artículo 15.
 
-1.- Dos tribunales colegiados con residencia en Cuernavaca.
+Corresponde a la Comisión Interinstitucional:
 
-2.- Un tribunal unitario con sede en Cuernavaca.
+I. Elaborar y someter a la aprobación del titular del Poder Ejecutivo del Estado, el Programa Estatal, conforme al procedimiento previsto en esta Ley, evaluar sus resultados y, en su caso, proponer su modificación;
 
-3.- Cuatro juzgados de distrito en el Estado de Morelos, con residencia en Cuernavaca.
+II. Elaborar propuestas de políticas públicas, programas, estrategias y acciones en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, que fortalezcan la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, privado y social, en beneficio de las niñas y niños;
 
-XIX.- DECIMONOVENO CIRCUITO:
+III. Proponer a la Secretaría la celebración de convenios de coordinación y cooperación con los distintos órdenes de gobierno para dar cumplimiento al objeto de la presente Ley;
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+IV. Desarrollar e impulsar la investigación y la generación de estudios que contribuyan a la toma de decisiones de la Secretaría, así como a la planeación de políticas públicas vinculadas con el objeto de esta Ley;
 
-1.- Cinco tribunales colegiados: cuatro con residencia en Ciudad Victoria y uno con sede en Reynosa.
+V. Promover la participación de las familias, la sociedad civil y niñas y niños, en la observación y acompañamiento de la política estatal relacionada con los servicios para la atención, cuidado y desarrollo integral infantil; y
 
-2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
+VI. Las demás previstas en esta Ley y su Reglamento.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+###### Artículo 16.
 
-3.- Once juzgados de Distrito en el Estado de Tamaulipas: dos con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Matamoros, tres con residencia en Reynosa y dos con sede en Tampico.
+Para el cumplimiento de sus atribuciones y seguimiento de sus acuerdos, la Comisión Interinstitucional sesionará de manera ordinaria dos veces al año y en forma extraordinaria, las veces que sea necesario, previa convocatoria del Presidente, a petición de cualquiera de sus integrantes.
 
-XX.- VIGESIMO CIRCUITO:
+###### Artículo 17.
 
-1.- Tres tribunales colegiados con residencia en Tuxtla Gutiérrez.
+La operación y funcionamiento de la Comisión Interinstitucional se regulará por las disposiciones de esta Ley y su Reglamento.
 
-2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
+### Capítulo III. Del Programa Estatal
 
-3.- Seis juzgados de distrito en el Estado de Chiapas: tres con residencia en Tuxtla Gutiérrez y tres con sede en Tapachula.
+###### Artículo 18.
 
-XXI.- VIGESIMO PRIMER CIRCUITO:
+El Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, es el instrumento público y documento rector que define el conjunto de políticas, acciones, lineamientos, mecanismos generales y particulares, encaminadas a dirigir y encauzar la visión, las estrategias y actividades del Poder Ejecutivo del Estado, en la prestación de servicios para la atención, cuidado y desarrollo integral infantil en la Entidad, así como en el fomento de la participación de los sectores privado y social en dichos servicios, de conformidad con los principios y disposiciones que establece esta Ley.
 
-1.- Cuatro tribunales colegiados: dos con residencia en Chilpancingo y dos con sede en Acapulco.
+La vigencia del Programa Estatal no podrá exceder de la que corresponda al Plan Estatal de Desarrollo, aunque podrá contener consideraciones y proyecciones a largo plazo.
 
-2.- Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
+###### Artículo 19.
 
-3.- Seis juzgados de distrito en el Estado de Guerrero: uno con residencia en Chilpancingo, cuatro con sede en Acapulco y uno con residencia en Iguala.
+El Programa Estatal será ejecutado por el Poder Ejecutivo del Estado, a través de la Secretaría, la que podrá auxiliarse de las dependencias y entidades estatales, en los términos que disponga este ordenamiento.
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO:
+###### Artículo 20.
 
-1.- Cuatro tribunales colegiados: dos con residencia en Querétaro y dos con sede en Pachuca.
+El Programa Estatal deberá elaborarse bajo los siguientes lineamientos:
 
-2.- Un tribunal unitario con sede en Querétaro.
+I. Estar debidamente fundado y motivado;
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 62/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+II. Expresar la finalidad del Programa Estatal;
 
-3.- Tres juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+III. Guardar congruencia con los Planes Nacional y Estatal de Desarrollo, con el Programa Nacional de la materia y con las disposiciones de esta Ley;
 
-4.- Dos juzgados de distrito en el Estado de Hidalgo, con sede en Pachuca.
+IV. Ser congruente con los derechos y principios rectores previstos en los artículos 2 y 4 de este ordenamiento;
 
-XXIII.- VIGESIMO TERCER CIRCUITO:
+V. Identificar a la población objetivo del Programa Estatal, así como la dinámica que ha tenido en orden a su desenvolvimiento en los factores familiar, demográfico, sociológico, económico, laboral, ocupacional y demás variables conducentes que, a juicio de la Comisión Interinstitucional, sea necesario considerar;
 
-1.- Tres tribunales colegiados: uno con residencia en Zacatecas y dos con sede en Aguascalientes.
+VI. Contener un diagnóstico analítico de la situación que en las esferas pública, social y privada, guardan los servicios para la atención, cuidado y desarrollo integral infantil en el Estado de Querétaro, que permita conocer la calidad, eficacia y eficiencia de su prestación e identificar la problemática y demás puntos críticos que presente, así como los mecanismos e instrumentos para solventarlos;
 
-2.- Un tribunal unitario con sede en Zacatecas.
+VII. Determinar metas y objetivos para fortalecer y mejorar las condiciones de eficiencia, calidad, seguridad, protección, igualdad y calidez adecuadas en que deben de prestarse los servicios que regula esta Ley; para promover la participación en éstos, de los sectores privado, social y académico del Estado, así como para difundir y afianzar la cultura en la materia, entre dichos sectores;
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 48/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2002)</small>
+VIII. Contener los plazos de corto, mediano y largo alcance, para el cumplimiento de las metas y objetivos mencionados en la fracción VII, así como los mecanismos, instrumentos, estrategias y líneas de acción para lograrlos;
 
-3.- Dos juzgados de distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y uno con sede en Guadalupe.
+IX. Establecer las formas de capacitación y profesionalización en la materia, para los servidores públicos de las dependencias y entidades de la Administración Pública estatal que tengan competencia relacionada con la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
 
-4.- Tres juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+X. Contener un análisis de la situación que guarda el marco normativo estatal aplicable en la materia, que permita conocer su eficacia, eficiencia y observancia; las fallas, duplicidades, inconsistencias y obsolescencias, así como las propuestas para solventarlas;
 
-XXIV.- VIGESIMO CUARTO CIRCUITO:
+XI. Incluir indicadores de desempeño;
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 35/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+XII. Establecer mecanismos e instrumentos de evaluación;
 
-1.- Dos tribunales colegiados con residencia en Tepic.
+XIII. Incluir fuentes, registros, informes, autoridades, modelos de atención, estudios, documentos, investigaciones de campo, estadísticas, bibliografía y demás antecedentes consultados; y
 
-2.- Un tribunal unitario con sede en Tepic.
+XIV. Las demás que establezca el Gobernador del Estado o la Comisión Interinstitucional, el Reglamento y otros ordenamientos aplicables.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 61/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+###### Artículo 21.
 
-3.- Tres juzgados de distrito en el Estado de Nayarit, con residencia en Tepic.
+Para la elaboración del Programa Estatal, la Comisión Interinstitucional expedirá la convocatoria correspondiente a fin de que los Poderes Judicial y Legislativo del Estado, los organismos constitucionales autónomos, los municipios, las organizaciones privadas, sociales y cualquier interesado, participen mediante propuestas que serán presentadas en los foros que al efecto se realicen.
 
-XXV.- VIGESIMO QUINTO CIRCUITO:
+La convocatoria se publicará por una sola ocasión en el Periódico Oficial y, por lo menos, en dos periódicos de mayor circulación en la Entidad; con una anticipación mínima de siete días hábiles anteriores a la fecha de realización del primer foro.
 
-1.- Un tribunal colegiado con residencia en Durango.
+###### Artículo 22.
 
-2.- Un tribunal unitario con sede en Durango.
+La convocatoria deberá contener, como mínimo, el número de foros a realizar, el lugar y el día y hora en que habrán de realizarse.
 
-3.- Tres juzgados de distrito en el Estado de Durango, con sede en la ciudad del mismo nombre.
+###### Artículo 23.
 
-XXVI.- VIGESIMO SEXTO CIRCUITO:
+Concluido el último foro de consulta, la Comisión Interinstitucional elaborará el proyecto de Programa Estatal y lo publicará por quince días naturales en el portal de Internet del Poder Ejecutivo del Estado, convocando al público en general, a formular ante dicha Comisión, por escrito o en forma digital en la dirección electrónica de ésta última, los comentarios que estime pertinentes.
 
-1.- Un tribunal colegiado con residencia en La Paz.
+###### Artículo 24.
 
-2.- Un tribunal unitario con sede en La Paz.
+Fenecido el plazo a que se refiere el artículo anterior, la Comisión Interinstitucional realizará las modificaciones que, en su caso, considere pertinentes, en un plazo de diez días hábiles, para posteriormente someterlo al Gobernador del Estado, quien, de autorizarlo, ordenará la publicación de un extracto del Programa Estatal en el Periódico Oficial y por lo menos en dos de los periódicos de mayor circulación en la Entidad.
 
-3.- Dos juzgados de distrito en el Estado de Baja California Sur, con residencia en La Paz.
+###### Artículo 25.
 
-XXVII.- VIGESIMO SEPTIMO CIRCUITO:
+Cuando por sí o a propuesta de la Comisión Interinstitucional, el titular del Poder Ejecutivo del Estado determine sea necesario modificar el Programa Estatal, se procederá en los mismos términos que para su autorización prevé este Capítulo.
 
-1.- Un tribunal colegiado con residencia en Cancún.
+### Capítulo IV. De los Programas Municipales
 
-2.- Un tribunal unitario con sede en Cancún.
+###### Artículo 26.
 
-3.- Tres juzgados de distrito en el Estado de Quintana Roo, uno con residencia en Chetumal y dos con sede en Cancún.
+Corresponde a los Municipios elaborar o modificar, en el ámbito de su competencia, el programa municipal relativo a los servicios que regula esta Ley, de conformidad con las disposiciones y requisitos señalados en el Capítulo que antecede, que en lo conducente le resulten aplicables, mismo que someterán a la aprobación del Ayuntamiento, para su posterior publicación en la respectiva Gaceta Municipal.
 
-TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que enseguida se indica:
+Los programas municipales deberán guardar congruencia con los Planes Nacional y Estatal de Desarrollo, el Programa Nacional, el Programa Estatal y las disposiciones de esta Ley.
 
-I.- PRIMER CIRCUITO: Distrito Federal.
+### Capítulo V. Del Registro Estatal
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+###### Artículo 27.
 
-II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia civil y en materia de trabajo, es el Estado de México.
+Los Centros de Atención del sector público, social o privado se inscribirán en el Registro Estatal, cuya operación, administración, control y actualización corresponderá a la Secretaría, de conformidad con las disposiciones de esta Ley, su Reglamento y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+###### Artículo 28.
 
-La del Primer Tribunal Colegiado en Materia Administrativa con residencia en Toluca, será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en dicha ciudad.
+El Registro Estatal tendrá por objeto:
 
-> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+I. Coadyuvar en la integración y actualización del Registro Nacional de los Centros de Atención, proporcionando la información que forma parte del Registro Estatal, en términos de lo previsto en la Ley General y su Reglamento;
 
-Por lo que hace al Segundo y Tercer Tribunales Colegiados en Materia Administrativa con residencia en Naucalpan de Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de México, con residencia en la citada ciudad y en Ciudad Nezahualcóyotl.
+II. Concentrar la información de los Centros de Atención de los sectores público, social y privado, que presten servicios para la atención, cuidado y desarrollo integral infantil en el Estado;
 
-Por lo que toca a los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
+III. Identificar a los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus modalidades y tipos, así como mantener actualizada la información que lo conforma;
 
-En cuanto al tribunal unitario con residencia en Ciudad Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de México, con sede en la referida ciudad.
+IV. Contar con un sistema organizado de información y estadística que contribuya al diseño, establecimiento, implementación, ejecución, vigilancia y evaluación de las políticas públicas, así como del Programa Estatal;
 
-III.- TERCER CIRCUITO: Estados de Colima y Jalisco.
+V. Facilitar la supervisión de los Centros de Atención; y
 
-IV.- CUARTO CIRCUITO: Estado de Nuevo León.
+VI. Los demás que les asignen la Ley General, esta Ley, su Reglamento y demás ordenamientos aplicables.
 
-V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+###### Artículo 29.
 
-VI.- SEXTO CIRCUITO: Estados de Puebla y Tlaxcala.
+El Registro Estatal se ajustará a los principios de máxima publicidad, transparencia, legalidad y rendición de cuentas, sin perjuicio de las disposiciones aplicables en materia de acceso a la información pública gubernamental y protección de datos personales en posesión de particulares y de autoridades.
 
-VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+###### Artículo 30.
 
-VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+Los responsables de los Centros de Atención, una vez que hayan obtenido la autorización para su funcionamiento, solicitarán a la Secretaría su inscripción en el Registro Estatal, proporcionando la siguiente información:
 
-IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
+I. Identificación del prestador del servicio, sea persona física o moral;
 
-X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+II. Identificación, en su caso, del representante legal;
 
-XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+III. Ubicación del Centro de Atención;
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+IV. Modalidad, modelo y tipo de atención bajo el cual opera;
 
-XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
+V. Fecha de inicio de operaciones; y
 
-XV.- DECIMOQUINTO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora.
+VI. Capacidad instalada y, en su caso, ocupada.
 
-En relación con los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de distrito en el Estado de Baja California, con sede en dicha ciudad.
+Los responsables de los Centros de Atención deberán presentar cada seis meses, ante la Secretaría, de conformidad con el calendario y demás requisitos que ésta establezca mediante acuerdo que publique en el Periódico Oficial, un escrito en formato impreso o digital, mediante el que actualicen los datos de su registro.
 
-En cuanto a los tribunales unitarios con residencia en Tijuana será la misma que la establecida para los juzgados de distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
+###### Artículo 31.
 
-XVI.- DECIMOSEXTO CIRCUITO: Respecto de los tribunales colegiados con residencia en Guanajuato, su jurisdicción territorial será el Estado de Guanajuato y tendrán conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo que se originen en los juzgados de distrito en el Estado de Guanajuato, con sede en la ciudad del mismo nombre y en los juzgados de distrito con residencia en Celaya.
+La Secretaría publicará en el Periódico Oficial, a más a tardar el 15 de enero de cada año, la lista de los Centros de Atención con autorización vigente que se encuentren inscritos en el Registro Estatal, así como los datos de cada uno de dichos Centros, que establece el artículo anterior.
 
-En cuanto al tribunal colegiado con residencia en León, su jurisdicción territorial será el Estado de Guanajuato y tendrá conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo, que se originen en los juzgados de distrito en el Estado de Guanajuato, con residencia en León.
+###### Artículo 32.
 
-> <small>(REFORMADA POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
+El Registro Estatal, por conducto del funcionario con jerarquía no menor a Director General o de área de la Secretaría que designe al efecto el Titular de la misma, será responsable de proporcionar al Registro Nacional la información que señala el artículo 30 de esta Ley.
 
-XVII.- DECIMOSEPTIMO CIRCUITO: En relación con los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
+Para efecto de cumplir con la obligación referida en el párrafo que antecede, la Secretaría realizará las gestiones necesarias para que el Estado, por conducto del titular del Poder Ejecutivo, suscriba o renueve oportunamente con la Federación, los convenios de coordinación conducentes a tal propósito.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 40/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2002)</small>
+###### Artículo 33.
 
-Por lo que hace a los tribunales unitarios con residencia en Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de Chihuahua, con sede en la citada ciudad.
+El registro de nuevos Centros de Atención deberá notificarse por el funcionario estatal responsable al Registro Nacional, dentro de los veinte días hábiles siguientes a que se haya realizado el mismo.
 
-XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
+## Título Tercero. De la prestación de los servicios
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XIX.- DECIMONOVENO CIRCUITO:
+### Capítulo I. Modalidades, Modelos y Tipos
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+###### Artículo 34.
 
-La jurisdicción territorial de los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
+Los Centros de Atención pueden presentar alguna de las siguientes modalidades:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+I. Pública: la financiada y administrada, ya sea por el Estado o los Municipios, o bien, por sus instituciones;
 
-En cuanto al tribunal colegiado con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
+II. Privada: aquélla cuya creación, financiamiento, operación y administración sólo corresponde a particulares; y
 
-La jurisdicción territorial del tribunal unitario con sede en Ciudad Victoria será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
+III. Mixta: aquélla en que el Estado o los Municipios, participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
 
-En lo referente al tribunal unitario con residencia en Nuevo Laredo, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en dicha ciudad.
+###### Artículo 35.
 
-Por cuanto hace al tribunal unitario con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
+Para efectos de protección civil, los Centros de Atención, en función de su capacidad instalada, se clasifican en los siguientes tipos:
 
-En relación con el tribunal unitario con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
+I. Tipo 1: con capacidad instalada para dar servicio hasta a 10 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio y tipo de inmueble: casa habitación o local comercial;
 
-XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
+II. Tipo 2: con capacidad instalada para dar servicio de 11 hasta 50 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio y tipo de inmueble: casa habitación, local comercial o inmueble con instalaciones específicamente diseñadas, construidas o habilitadas de acuerdo al tipo de servicio;
 
-XXI.- VIGESIMO PRIMER CIRCUITO: Respecto de los tribunales colegiados y del tribunal unitario con residencia en Chilpancingo, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en la citada ciudad y en la de Iguala.
+III. Tipo 3: con capacidad instalada para dar servicio de 51 hasta 100 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio y tipo de inmueble: casa habitación, local comercial o inmueble con instalaciones específicamente diseñadas, construidas o habilitadas de acuerdo al tipo de servicio; y
 
-En cuanto a los tribunales colegiados y al tribunal unitario con residencia en Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en dicha ciudad.
+IV. Tipo 4: con capacidad instalada para dar servicio a más de 100 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio, tipo de inmueble: casa habitación, local comercial o inmueble con instalaciones específicamente diseñadas, construidas o habilitadas de acuerdo al tipo de servicio.
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO: Respecto de los tribunales colegiados con residencia en Querétaro, su jurisdicción territorial será la entidad del mismo nombre.
+La tipología anterior se ajustará a las normas de cada institución y al Reglamento de esta Ley.
 
-Por cuanto hace a los tribunales colegiados con sede en Pachuca, su jurisdicción territorial será el Estado de Hidalgo.
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2021)</small>
 
-La jurisdicción territorial del tribunal unitario comprenderá los Estados de Hidalgo y Querétaro.
+###### Artículo 35 Bis.
 
-XXIII.- VIGESIMO TERCER CIRCUITO: Respecto del tribunal colegiado con residencia en Zacatecas, su jurisdicción territorial será la Entidad del mismo nombre.
+Los centros de atención pueden presentar alguno o varios de los siguientes modelos de atención:
 
-En cuanto a los tribunales colegiados con sede en Aguascalientes, su jurisdicción territorial será el Estado del mismo nombre.
+I. De cuidado;
 
-La jurisdicción territorial del tribunal unitario comprenderá los Estados de Aguascalientes y Zacatecas.
+II. Alimentación, por medios propios o servicios subrogados; y
 
-XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+III. Programa Técnico Pedagógico.
 
-XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+### Capítulo II. De los Prestadores de Servicios
 
-XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+###### Artículo 36.
 
-XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+Son Prestadores de Servicios las dependencias y entidades públicas, así como las personas físicas o morales que cuenten con autorización otorgada por la autoridad estatal o municipal competente, para instalar y operar uno o varios Centros de Atención en el Estado, bajo cualquier modalidad, tipo y modelo de atención que regula esta Ley.
 
-CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
+En ningún caso podrán prestarse los servicios que regula esta Ley, sin contar con las autorizaciones a que se refiere el Capítulo III del presente Título; de ocurrir tal situación, se procederá a la clausura inmediata del establecimiento, sin detrimento de la imposición de la multa que establezca el Reglamento.
 
-I.- PRIMER CIRCUITO:
+### Capítulo III. De las Autorizaciones
 
-Los juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
+###### Artículo 37.
 
-II.- SEGUNDO CIRCUITO:
+Para instalarse y operar, los Centros de Atención deberán contar con autorización que será expedida por las autoridades estatales o municipales competentes, una vez que el interesado haya cumplido los requisitos que establecen esta Ley, su Reglamento y demás disposiciones aplicables en la materia.
 
-Los juzgados de distrito en Materia de Procesos Penales Federales en el Estado de México y los juzgados de distrito en Materias de Amparo y de Juicios Civiles Federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+###### Artículo 38.
 
-Los juzgados de distrito en el Estado de México, con residencia en Naucalpan de Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
+La autorización faculta al Centro de Atención para instalarse y prestar los servicios que regula esta Ley, por lo tanto, es personalísima, intransferible, inalienable, inembargable y no podrá imponerse ningún gravamen sobre la misma; en consecuencia, cualquier acto, contrato, convenio, operación, acuerdo, determinación o resolución de autoridad o de particulares, tendiente a tales efectos, será nulo de pleno derecho.
 
-Los juzgados de distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
+###### Artículo 39.
 
-III.- TERCER CIRCUITO:
+Los requisitos para otorgar las autorizaciones a que se refiere este Capítulo, son:
 
-Los juzgados de distrito en el Estado de Jalisco, con residencia en Guadalajara, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+I. Presentar solicitud en la que, al menos, se indique:
 
-Los juzgados de distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+a) Denominación o razón social del Centro de Atención; domicilio y croquis de ubicación del mismo; la población por atender; los servicios que se proponen ofrecer; los horarios de funcionamiento; el nombre y datos generales del o los responsables del Centro de Atención.
 
-IV.- CUARTO CIRCUITO:
+b) Si el solicitante es persona física, el nombre, nacionalidad, escolaridad, ocupación y domicilio.
 
-Los juzgados de distrito en el Estado de Nuevo León, con residencia en Monterrey, ejercerán jurisdicción territorial en el distrito judicial que conforma el territorio de la propia Entidad Federativa.
+c) Si el solicitante es persona moral, la denominación, domicilio y nombre del representante legal de la misma, quien deberá proporcionar los datos como si se tratara de una persona física;
 
-V.- QUINTO CIRCUITO:
+II. Anexar copia certificada del acta de nacimiento, identificación oficial y comprobante de domicilio, si el prestador de servicios es persona física; tratándose de personas morales, el acta constitutiva, las reformas a ésta y los documentos que acrediten la representación legal del solicitante.
 
-Los juzgados de distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Cumpas, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Nacozari de García, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
+III. Acompañar el Reglamento Interno del Centro de Atención;
 
-Los juzgados de distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Agua Prieta, Altar, Arizpe, Atil, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Caborca, Cananea, Cucurpe, Fronteras, General Plutarco Elías Calles, Huachinera, Imuris, Magdalena, Naco, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
+IV. Presentar los manuales técnico-administrativos, de operación y de seguridad;
 
-Los juzgados de distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto.
+V. Entregar el Programa de Trabajo de acuerdo con las edades y condiciones de las niñas y niños que atenderán, el que deberá contener las actividades que se desarrollarán en el Centro de Atención, la organización administrativa básica que tendrá éste, así como demás requisitos que establece esta Ley y su Reglamento;
 
-VI.- SEXTO CIRCUITO:
+VI. Contar con las licencias, permisos y demás autorizaciones en materia de uso de suelo, funcionamiento, ocupación, protección civil, seguridad y operaciones, seguridad estructural del inmueble y aspectos de carácter sanitario, que se requieran para su funcionamiento;
 
-Los juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+VII. Adjuntar el Programa Interno de Protección Civil que contenga la respectiva Carta de Corresponsabilidad;
 
-Los juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+VIII. Cumplir con los requerimientos previstos para la modalidad correspondiente, que establezcan esta Ley, su Reglamento, las disposiciones normativas y técnicas de la Ley Federal sobre Metrología y Normalización, y las Normas Oficiales Mexicanas aplicables;
 
-VII.- SEPTIMO CIRCUITO:
+IX. Tener la autorización de la Coordinación Municipal de Protección Civil, que se integrará con lo siguiente:
 
-Los juzgados de distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
+a) Certificado de Cumplimiento de Revisión Documental del Programa Interno de Protección Civil.
 
-Los juzgados de distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Acultzingo, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Boca del Río, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Catemaco, Coetzala, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chacaltianguis, Chocamán, Fortín, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Isla, Ixhuatlancillo, Ixmatlahuacán, Ixtaczoquitlán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, La Perla, Lerdo de Tejada, Los Reyes, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Medellín, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Otatitlán, Paso de Ovejas, Paso del Macho, Playa Vicente, Puente Nacional, Rafael Delgado, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, Santiago Tuxtla, Soledad Atzompa, Soledad de Doblado, Tehuipango, Tequila, Texhuacán, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Tres Valles, Tuxtilla, Ursulo Galván, Veracruz, Xoxocotla, Yanga y Zongolica.
+b) Certificado de Cumplimiento de Revisión Física de las instalaciones;
 
-Los juzgados de distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, El Higo, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Mecatlán, Naranjos Amatlán, Ozuluama, Pánuco, Papantla, Platón Sánchez, Poza Rica de Hidalgo, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tecolutla, Temapache, Tempoal, Tepetzintla, Texcatepec, Tihuatlán, Tlachichilco, Tuxpan, Zacualpan, Zontecomatlán y Zozocolco de Hidalgo.
+X. Contar con la correspondiente autorización de la Secretaría de Educación, en caso que el solicitante otorgue el servicio de educación inicial y grados en educación preescolar; y
 
-VIII.- OCTAVO CIRCUITO:
+XI. Acreditar que quienes laboran o administran el Centro de Atención no tienen antecedentes penales por los delitos de violación, estupro, abusos deshonestos, contra la salud y narcomenudeo, corrupción y explotación de personas, pornografía, turismo sexual, lenocinio y trata de personas, secuestro, violencia familiar, de lesiones o daños dolosos cometidos en agravio de menores de edad o cualquier otra conducta delictuosa similar que pudiera afectar o poner en riesgo a los infantes beneficiarios del servicio.
 
-Los juzgados de distrito en el Estado de Coahuila, con residencia en Saltillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
+La comisión de los mencionados delitos, inhabilitan a cualquier persona para laborar en los Centro de Atención que regula esta Ley.
 
-El juzgado de distrito en el Estado de Coahuila, con residencia en Piedras Negras, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuña, Allende, Guerrero, Hidalgo, Jiménez, Juárez, Morelos, Múzquiz, Nava, Piedras Negras, Progreso, Sabinas, San Juan de Sabinas, Villa Unión y Zaragoza.
+###### Artículo 40.
 
-El juzgado de distrito en el Estado de Coahuila, con residencia en Monclova, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatrociénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
+Las licencias, permisos y demás autorizaciones referidas en la fracción VI del artículo 39, se otorgarán por las dependencias y entidades del Poder Ejecutivo del Estado y por los municipios, en su ámbito de competencia, conforme a las leyes que regulan la materia de la que emanen.
 
-Los juzgados de distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+###### Artículo 41.
 
-> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+De omitir el solicitante la exhibición de alguno de los requisitos señalados en el artículo 39, la autoridad estatal o municipal competente lo requerirá para que en el plazo de diez días hábiles siguientes al en que se formule el requerimiento subsane la omisión, apercibiéndole que de no hacerlo se tendrá por no presentada su solicitud.
 
-IX.- NOVENO CIRCUITO:
+###### Artículo 42.
 
-Los juzgados de distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
+Las autorizaciones a que se refiere este Capítulo, tendrán una vigencia de por lo menos un año, sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables.
 
-El juzgado de distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Ciudad Fernández, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, Rioverde, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo, y Xilitla.
+Ningún Centro de Atención podrá prestar servicios para la atención, cuidado y desarrollo integral infantil, sin cumplir con los requisitos que exige el artículo 39.
 
-X.- DECIMO CIRCUITO:
+###### Artículo 43.
 
-Los juzgados de distrito en el Estado de Tabasco, con residencia en Villahermosa, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+La información y los documentos a que se refiere el artículo 39, estarán siempre a disposición de las personas que ejerzan la patria potestad, tutela, custodia o de quienes tengan la responsabilidad del cuidado y crianza de las niñas y niños.
 
-Los juzgados de distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+### Capítulo IV. Del Reglamento Interno
 
-XI.- DECIMOPRIMER CIRCUITO:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
 
-Los juzgados de distrito en el Estado de Michoacán, con residencia en Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Zacapu, Zináparo, Zinapécuaro y Zitácuaro.
+###### Artículo 44.
 
-Los juzgados de distrito en el Estado de Michoacán, con residencia en Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tinguindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Ziracuaretiro.
+Los centros de atención deberán contar con un reglamento interno en el que se especifique el uso y mantenimiento de las instalaciones; características de los servicios, aspectos de seguridad higiene y protección civil; cuidados de la salud; protocolo de atención en caso de sospecha de violencia; horarios de la prestación de servicio; la admisión de niñas y niños; el mecanismo para designar a la persona o personas autorizadas para recoger a las niñas o niños; la tolerancia para su entrada y salida; derechos y obligaciones de los usuarios; y, en su caso, la cuota mensual, forma de pago y fechas para hacerlos.
 
-XII.- DECIMOSEGUNDO CIRCUITO:
+Los Centros de Atención deberán velar por que los infantes adquieran hábitos de higiene, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integridad de la familia, evitando privilegios de raza, religión, grupo, sexo o individuo, en concordancia con su entorno social, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
 
-Los juzgados de distrito en el Estado de Sinaloa, con residencia en Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Culiacán y Navolato.
+### Capítulo V. Del Programa de Trabajo
 
-Los juzgados de distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
+###### Artículo 45.
 
-Los juzgados de distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
+El programa de trabajo a que se refiere la fracción V del artículo 39, deberá contener al menos la siguiente información:
 
-XIII.- DECIMOTERCER CIRCUITO:
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-Los juzgados de distrito en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de distrito con residencia en Salina Cruz.
+I. Los derechos de las niñas y niños, previstos en el artículo 2 y los mecanismos e instrumentos para satisfacerlos, incluyendo el protocolo de atención en caso de sospecha de violencia;
 
-Los juzgados de distrito en el Estado de Oaxaca, con residencia en Salina Cruz, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Asunción Ixtaltepec, Ciudad Ixtepec, Chauites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Reforma de Pineda, Salina Cruz, San Blás Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Mateo del Mar, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mixtepec, San Pedro Pochutla, San Pedro Tapanatepec, Santa María Colotepec, Santa María Chimalapa, Santa María Guienagati, Santa María Huatulco, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
+II. Las actividades formativas y educativas que se desarrollarán y los resultados esperados;
 
-XIV.- DECIMOCUARTO CIRCUITO:
+III. La forma en que se dará cumplimiento a cada una de las actividades que señala el artículo 64;
 
-Los juzgados de distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+IV. Los perfiles del personal que laborará en el Centro de Atención directamente vinculados al trabajo con niñas y niños, así como las actividades que se les encomendarán;
 
-Los juzgados de distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+V. Las formas y actividades de apoyo a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza, para fortalecer la comprensión de sus funciones en la atención, cuidado y desarrollo integral de la niña o niño;
 
-XV.- DECIMOQUINTO CIRCUITO:
+VI. El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a las niñas y niños;
 
-Los juzgados de distrito en el Estado de Baja California, con residencia en Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Mexicali del Estado de Baja California y por el municipio de San Luis Río Colorado del Estado de Sonora.
+VII. Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de los usuarios y de los infantes beneficiarios del servicio o de cualquier interesado;
 
-Los juzgados de distrito en el Estado de Baja California, con residencia en Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Playas de Rosarito, Tecate y Tijuana.
+VIII. El procedimiento para la entrega de información a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza de las niñas y niños, sobre el desempeño y desarrollo integral de los infantes; y
 
-Los juzgados de distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
+IX. La demás que establezca el Reglamento de esta Ley.
 
-XVI.- DECIMOSEXTO CIRCUITO:
+### Capítulo VI. De las Medidas de Seguridad y de Protección Civil
 
-Los juzgados de distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Allende, Atarjea, Cuerámaro, Doctor Mora, Dolores Hidalgo, Guanajuato, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Silao, Tierra Blanca, Victoria y Xichú.
+###### Artículo 46.
 
-Los juzgados de distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón.
+Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el que deberá contener, por lo menos:
 
-Los juzgados de distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
+I. La delimitación de la responsabilidad de los prestadores de servicio en cada una de las modalidades;
 
-XVII.- DECIMOSEPTIMO CIRCUITO:
+II. El estado pormenorizado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio; y
 
-Los juzgados de distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
+III. Lo que establezca el Reglamento de esta Ley y la demás normatividad aplicable.
 
-Los juzgados de distrito en el Estado de Chihuahua, con sede en Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxedis G. Guerrero.
+El Programa Interno de Protección Civil, deberá sujetarse a evaluación de manera periódica por la autoridad competente.
 
-XVIII.- DECIMOCTAVO CIRCUITO:
+###### Artículo 47.
 
-Los juzgados de distrito en el Estado de Morelos, con residencia en Cuernavaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con los reglamentos federales, estatales y municipales aplicables.
 
-XIX.- DECIMONOVENO CIRCUITO:
+Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cien metros.
 
-Los juzgados de distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria, Villagrán y Xicoténcatl.
+###### Artículo 48.
 
-Los juzgados de distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
+Para el funcionamiento de los Centros de Atención, se deberán definir las rutas de evacuación, así como la señalización y avisos de protección civil, de acuerdo con el Reglamento y otras disposiciones jurídicas aplicables.
 
-Los juzgados de distrito en el Estado de Tamaulipas, con residencia en Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
+Al diseñar estas rutas, se deberá tomar en cuenta e identificar, además de la seguridad y rapidez, el sitio de refugio seguro en el exterior del inmueble al que se conducirá a niñas, niños y personal que preste sus servicios, el cual debe estar lejos del paso de cables que conduzcan energía eléctrica y de ductos que conduzcan gas o sustancias químicas, flamables o peligrosas.
 
-Los juzgados de distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
+###### Artículo 49.
 
-Los juzgados de distrito en el Estado de Tamaulipas, con residencia en Tampico, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
+Con relación a la evacuación del inmueble, se deberá comprobar periódicamente el funcionamiento de todos los elementos de evacuación así como las salidas del mismo en caso de riesgo. Además, se deben prever medidas específicas relacionadas con la evacuación de personas con discapacidad, primordialmente de los niños.
 
-XX.- VIGESIMO CIRCUITO:
+###### Artículo 50.
 
-Los juzgados de distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Mitontic, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
+Al menos una vez cada dos meses, se deberá realizar un simulacro de evacuación externo con la participación de todas las personas que ocupen regularmente el inmueble. Igualmente, deberán llevarse a cabo sesiones informativas con el objeto de transmitir a los ocupantes las instrucciones de comportamiento frente a situaciones de emergencia.
 
-Los juzgados de distrito en el Estado de Chiapas, con residencia en Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
+###### Artículo 51.
 
-XXI.- VIGESIMO PRIMER CIRCUITO:
+Cualquier modificación o reparación estructural del inmueble, deberá contar con la autorización municipal correspondiente y realizarse por personal capacitado, fuera del horario en el que se prestan los servicios.
 
-El juzgado de distrito en el Estado de Guerrero, con residencia en Chilpancingo, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acatepec, Ahuacotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Copanatoyac, Cualac, Chilapa de Alvarez, Chilpancingo, Eduardo Neri, General Heliodoro Castillo, Huamuxtitlán, Leonardo Bravo, Malinaltepec, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
+###### Artículo 52.
 
-Los juzgados de distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
+Las zonas de paso, patios y zonas de recreo no se podrán utilizar en ningún caso como zonas de almacenaje. Cuando por necesidad y siempre de forma transitoria se tuvieran que utilizar estas zonas para depositar objetos, se procurará que esto se realice fuera del horario de servicio y, en todo caso, se tomarán todas las medidas necesarias para evitar accidentes.
 
-El juzgado de distrito en el Estado de Guerrero, con residencia en Iguala, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
+###### Artículo 53.
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO:
+El mobiliario y materiales que se utilicen en el inmueble deben mantenerse en buenas condiciones de uso, retirándose aquellos que puedan ser susceptibles de causar daños o lesiones debido a su mal estado. Los acabados interiores de los inmuebles serán adecuados a la edad de niñas y niños.
 
-Los juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+En el inmueble, como mínimo para su funcionamiento, a fin de prevenir y/o proteger de cualquier situación de riesgo o emergencia, se deberá:
 
-Los juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+I. Contar con salidas de emergencia, rutas de evacuación, alarmas, pasillos de circulación, equipo contra incendios, mecanismos de alerta, señalizaciones y sistema de iluminación de emergencia;
 
-XXIII.- VIGESIMO TERCER CIRCUITO:
+II. Tener suficientes extintores y detectores de humo que determine la norma oficial para tal efecto, considerando que estos deberán establecerse en lugares despejados de obstáculos que impidan o dificulten su uso y ser correctamente señalizados para permitir su rápida localización; el Reglamento podrá asimismo definir la cantidad y calidad atendiendo a su modalidad y tipo correspondiente;
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 48/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2002)</small>
+III. Habilitar espacios en el Centro de Atención específicos y adecuados, alejados del alcance de niñas y niños para el almacenamiento de elementos combustibles o inflamables, los cuales no podrán situarse en sótanos, semisótanos, por debajo de escaleras y en lugares próximos a radiadores de calor o fuentes de electricidad;
 
-Los juzgados de distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y otro con sede en Guadalupe, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+IV. Verificar las condiciones de ventilación de las áreas donde se almacenan o utilizan productos que desprendan gases o vapores inflamables;
 
-Los juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+V. Controlar y eliminar fuentes de ignición como instalaciones eléctricas, chimeneas y conductos de humo, descargas eléctricas atmosféricas, radiación solar, ventilación, calentadores, flamas abiertas, cigarrillos, entre otros;
 
-XXIV.- VIGESIMO CUARTO CIRCUITO:
+VI. Evitar que las instalaciones eléctricas estén al alcance de niñas y niños, instalando conductos continuos y protecciones seguras que defina la norma correspondiente. Si se cuenta con plantas de luz o transformadores, estarán aislados mediante un cerco perimetral, el cual debe estar en buen estado y no representar riesgo adicional. Su acometida no deberá atravesar el terreno del inmueble en el que se preste el servicio y en caso de deterioro, deberá notificarse de inmediato al responsable del suministro de electricidad, para proceder a su inmediata reparación;
 
-Los juzgados de distrito en el Estado de Nayarit, con residencia en Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+VII. Identificar y colocar las sustancias o líquidos de limpieza empleadas en el Centro de Atención en recipientes herméticos, cerrados, etiquetados y guardados lejos del alcance de niñas y niños;
 
-XXV.- VIGESIMO QUINTO CIRCUITO:
+VIII. Abstenerse de almacenar sustancias o materiales peligrosos de carácter, tóxico, inflamable o explosivo de cualquier tipo y cantidad;
 
-Los juzgados de distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
+IX. Realizar una inspección interna de las medidas de seguridad al menos una vez al mes;
 
-XXVI.- VIGESIMO SEXTO CIRCUITO:
+X. Revisar al menos una vez al año las paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas;
 
-Los juzgados de distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+XI. Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
 
-XXVII.- VIGESIMO SEPTIMO CIRCUITO:
+XII. Contar con protección infantil todos los mecanismos eléctricos;
 
-El juzgado de distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
+XIII. No manipular ni tratar de reparar nunca objetos, aparatos o instalaciones relacionados con la electricidad, cables y elementos que no estén aislados;
 
-Los juzgados de distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
+XIV. En caso de aparatos de calefacción, éstos deberán estar fijos; y
 
-QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+XV. Las demás que ordenen las disposiciones aplicables.
 
-SEXTO.- Los asuntos que como consecuencia de la entrada en vigor de este Acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal o juzgado de distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
+### Capítulo VII. De la Capacitación y Certificación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 54.
+
+La comisión interinstitucional, conforme a la modalidad, modelo y tipo de los centros de atención, determinará las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en ellos, al efecto, formulará los programas de formación, capacitación permanente y de certificación de competencias que correspondan, los que serán obligatorios para dicho personal y también establecerá los tipos de exámenes a los que deberán someterse, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de las niñas y niños.
+
+Tratándose de niñas y niños con discapacidad, se estructurarán programas de sensibilización y capacitación continua para el personal de los Centros de Atención, los que fomentarán el trato no discriminatorio y la convivencia en un ambiente de inclusión y respeto a sus derechos, en condiciones de igualdad.
+
+###### Artículo 55.
+
+Los prestadores de servicios deberán brindar a su personal las facilidades necesarias para capacitarse y certificarse dentro de los programas referidos en el artículo anterior, sin perjuicio de lo establecido por la legislación laboral aplicable.
+
+###### Artículo 56.
+
+La capacitación impartida por las autoridades estatales y municipales o terceros que éstas señalen, no creará ningún vínculo laboral con los Centros de Atención o con el personal que éstos contraten.
+
+### Capítulo VIII. Del Personal de los Centros de Atención
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 57.
+
+Todo centro de atención tendrá como responsable directo a un Director.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 58.
+
+El cargo de Director que se refiere el artículo anterior, podrá recaer en personas que cuenten con licenciatura en educación, trabajo social, psicología, medicina, o carreras afines a la atención de menores, con cédula profesional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 59.
+
+Los Centros de Atención, acorde al modelo de atención, podrán contar con el personal siguiente:
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+I. Licenciado en Intervención Educativa, Educación Preescolar o Licenciaturas afines;
+
+II. Licenciado en Puericultura;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+III. Médico General o personal que preste los servicios de primer respondiente o atención médica;
+
+IV. Psicólogo;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+V. Vigilante o personal que preste los servicios del cuidado de acceso y salida de los menores;
+
+VI. Persona encargada de la limpieza;
+
+VII. Nutriólogo; y
+
+VIII. El que en su caso, establezca el Reglamento.
+
+###### Artículo 60.
+
+En los casos de los Centros de Atención que atiendan a niñas y niños con alguna discapacidad, deberán contar con el personal profesional adecuado para la atención de dichos infantes.
+
+### Capítulo IX. De los Usuarios
+
+###### Artículo 61.
+
+Son usuarios todas las personas físicas que gratuita u onerosamente utilicen los servicios de un Centro de Atención regulado por esta Ley; el padre y la madre de los infantes; quienes legalmente ejerzan sobre los menores la patria potestad, tutela, guarda o custodia; sus representantes legales o quienes tengan a su cargo la responsabilidad de su cuidado o crianza.
+
+###### Artículo 62.
+
+Corresponden a los usuarios las obligaciones siguientes:
+
+I. Cumplir con las disposiciones de esta Ley, su Reglamento, del Reglamento Interno del Centro de Atención y las demás que resulten aplicables;
+
+II. Identificarse ante el personal del Centro de Atención y firmar la entrega, así como la posterior recepción de la niña o niño;
+
+III. Informar al personal del Centro de Atención, de todos aquellos datos de los que tenga conocimiento, relativos a la salud física y psicológica de la niña o niño;
+
+IV. Observar las indicaciones de tipo médico-preventivo que le haga el Médico del Centro de Atención, a fin de que el infante reciba la atención y cuidados que correspondan;
+
+V. Informar de manera inmediata al personal del Centro de Atención, sobre las causas que hayan originado las lesiones físicas que presenten la niña o niño y que hubieren sido detectadas por el personal del Centro al momento de su recepción o durante su estancia;
+
+VI. Dependiendo de la gravedad de las lesiones o en caso de que éstas se apreciaran reiteradamente en el cuerpo de la niña o el niño, el responsable del Centro de Atención tomará las medidas médicas, administrativas o legales que correspondan, solicitándose, en este último supuesto, el apoyo de la Secretaría, del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro y, en su caso, del Ministerio Público; y
+
+VII. Acudir al Centro de Atención, en los casos señalados en el Reglamento Interno y en el Reglamento de esta Ley.
+
+###### Artículo 63.
+
+El usuario podrá solicitar la intervención de la autoridad competente que corresponda, para reportar cualquier irregularidad o incumplimiento a la normatividad o factor que pueda constituir un riesgo en el Centro de Atención.
+
+### Capítulo X. De la Operación de los Centros de Atención
+
+###### Artículo 64.
+
+Con el fin de garantizar el cumplimiento de los servicios a que se refiere esta Ley, en los Centros de Atención se realizarán las siguientes actividades:
+
+I. Protección y seguridad;
+
+II. Supervisión e inspección constante, periódica y efectiva en materia de protección civil por parte de las autoridades correspondientes;
+
+III. Fomento al cuidado de la salud;
+
+IV. Atención médica en caso de urgencia, la cual podrá brindarse en el Centro de Atención o a través de instituciones de salud públicas o privadas;
+
+V. Alimentación adecuada y suficiente para su nutrición;
+
+VI. Fomento a la comprensión y ejercicio de los derechos de niñas y niños;
+
+VII. Descanso, esparcimiento, juego y actividades recreativas propias de su edad;
+
+VIII. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz y socio-afectivo;
+
+IX. Enseñanza del lenguaje y comunicación;
+
+X. Información y apoyo al usuario, para fortalecer la comprensión de sus funciones en la educación de niñas y niños; y
+
+XI. Las demás que establezca el Reglamento.
+
+###### Artículo 65.
+
+Todas las actividades desarrolladas por las niñas y los niños, se llevarán a cabo dentro del establecimiento del Centro de Atención, con excepción de aquellas que conforme al programa y plan de trabajo, sea necesario realizar fuera de dichas instalaciones, en tal supuesto debe avisarse previamente al usuario, quien deberá autorizar por escrito o en vía electrónica, la salida del infante.
+
+## Título Cuarto. De la Inspección y Vigilancia
+
+### Capítulo I. De la Inspección y Vigilancia
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 66.
+
+El Estado y los municipios, en el ámbito de sus respectivas competencias y por conducto de las áreas correspondientes, deberán efectuar, visitas de inspección o verificación a los centros de atención bajo criterios de riesgo, teniendo por solventada la acreditación de documentación que diversa autoridad ya hubiese requerido y verificado, apegándose a las disposiciones de la Ley de Procedimientos Administrativos del Estado de Querétaro, en todo lo no previsto en este ordenamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 67.
+
+Las visitas de inspección o verificación tendrán por objeto revisar el cumplimiento de las disposiciones de esta Ley y demás ordenamientos aplicables, por parte de los prestadores de servicios, debiendo informarse a la autoridad competente sobre la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños.
+
+La Coordinación Estatal de Protección Civil o Coordinación Municipal correspondiente, tendrán la facultad de iniciar cualquier operativo de prevención encaminado a disminuir o mitigar riesgos, coordinando a las autoridades competentes.
+
+###### Artículo 68.
+
+El Estado y los Municipios, se coordinarán con la Federación para implementar en la Entidad, el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento, el que tendrá los objetivos siguientes:
+
+I. Garantizar el mejoramiento progresivo y el fortalecimiento de los servicios que regula esta Ley;
+
+II. Establecer los mecanismos de colaboración técnico operativa para lograr la vigilancia efectiva del cumplimiento de la presente Ley y demás normatividad aplicable;
+
+III. Evitar la discrecionalidad y la corrupción en la asignación de autorizaciones que regula esta Ley; y
+
+IV. Garantizar la detección y corrección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños.
+
+###### Artículo 69.
+
+Cuando con motivo del ejercicio de las atribuciones de inspección y vigilancia que en el ámbito de su competencia les confieran otras leyes, las dependencias y entidades del Poder Ejecutivo del Estado y los municipios detecten irregularidades que puedan estar relacionadas con la prestación de servicios para la atención, cuidado y desarrollo integral infantil, darán aviso inmediato de las mismas a la Secretaría, para que en caso de que así lo estime pertinente, inste el procedimiento administrativo sancionador que regula este Título.
+
+Las sanciones administrativas que impongan las autoridades citadas en el párrafo anterior, se aplicarán en forma independiente y sin perjuicio de las diversas que, en su ámbito de competencia, imponga la Secretaría, con motivo de las infracciones a las disposiciones de la presente Ley.
+
+### Capítulo II. De las Medidas Precautorias
+
+###### Artículo 70.
+
+El Estado y los Municipios, en el ámbito de su competencia, cuando adviertan situaciones en los Centros de Atención, que pudieran poner en riesgo la integridad de las niñas y niños, podrán imponer las medidas precautorias siguientes:
+
+I. Recomendación escrita, en la que se fije un plazo de hasta treinta días naturales para corregir la causa que le dio origen;
+
+II. Apercibimiento por escrito, el cual procederá en caso de que no se atienda la recomendación en el plazo establecido, señalándose un término de hasta diez días naturales para corregir la causa que lo motivó; y
+
+III. Suspensión total o parcial de actividades en el Centro de Atención, que se mantendrá hasta en tanto se corrija la situación que le dio origen.
+
+### Capítulo III. De las Infracciones y Sanciones
+
+###### Artículo 71.
+
+El Estado y los Municipios, en el ámbito de su competencia, podrán imponer las sanciones administrativas siguientes:
+
+I. Multa administrativa;
+
+II. Suspensión temporal de la autorización otorgada; y
+
+III. Revocación de la autorización y cancelación del registro.
+
+###### Artículo 72.
+
+La multa administrativa será impuesta, en los siguientes casos:
+
+I. Impedir total o parcialmente el desarrollo de una visita de inspección;
+
+II. No elaborar los alimentos proporcionados a niñas y niños, conforme al plan nutricional respectivo;
+
+III. No cumplir con los requisitos mínimos de alimentación balanceada establecidos en los ordenamientos y normas oficiales aplicables;
+
+IV. Modificar la estructura del inmueble o la distribución de los espacios, sin contar con los permisos de la autoridad competente;
+
+V. Incumplir con las medidas de salud y atención médica correspondientes; y
+
+VI. Realizar, por parte del personal de los Centros de Atención, algún acto de discriminación en contra de niños, niñas o usuarios del servicio.
+
+###### Artículo 73.
+
+Son causas de suspensión temporal de la autorización:
+
+I. No contar con el personal competente o suficiente para brindar los servicios regulados por esta Ley;
+
+II. No regularizar la situación que haya dado origen a la imposición de la multa, de tal forma que continúen las causas que originaron la misma;
+
+III. Realizar actividades con niñas y niños, fuera de las instalaciones del Centro de Atención, sin el previo consentimiento del usuario;
+
+IV. Incumplir con alguno de los estándares mínimos de calidad y seguridad que establezca la normatividad aplicable;
+
+V. Realizar actividades que pongan en peligro o riesgo la vida, la salud o la integridad física o psicológica de niñas y niños;
+
+VI. Reincidir en alguna de las causas que originen las sanciones contenidas en el artículo que antecede; y
+
+VII. En caso de fallecimiento o lesiones graves en una niña o niño dentro del Centro de Atención o con motivo de los servicios que presta éste, en tanto se deslinden las responsabilidades correspondientes.
+
+###### Artículo 74.
+
+Son causas de revocación de la autorización y cancelación del registro:
+
+I. La pérdida de la vida o la existencia de lesiones graves en una niña o niño, acreditadas mediante sentencia ejecutoria que haya causado estado y sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley, por parte del Centro de Atención o personas relacionadas con el mismo;
+
+II. La comisión de cualquier delito doloso que afecte la vida, salud, integridad física o sexual de un niño o niña, cometido o tolerado por los responsables o el personal del Centro de Atención, declarada mediante sentencia firme; y
+
+III. La no regularización de la situación que dio origen a la imposición de una suspensión temporal, de tal forma que subsistan las causas que originaron la misma.
+
+Una vez que quede firme la resolución que decrete la revocación de la autorización de un Centro de Atención, se procederá a la cancelación de su inscripción en el Registro Estatal.
 
 ## TRANSITORIOS
 
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
-SEGUNDO.- Queda sin efecto el Acuerdo General 16/1998 de veinte de mayo de mil novecientos noventa y ocho, del Pleno del Consejo de la Judicatura Federal. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento.
 
-TERCERO.- Los Acuerdos Generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente Acuerdo y que se refieran a la determinación del número y límites territoriales de los circuitos, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito, se integrarán a este Acuerdo General para efectos de su actualización.
+Artículo Tercero. Los prestadores de servicios que se encuentren operando con anterioridad a la entrada en vigor de esta Ley, contarán con un plazo de un año, contado a partir de la entrada en vigor de la misma, para ajustar sus Centros de Atención a las disposiciones de la presente Ley.
 
-CUARTO.- Las modificaciones a la circunscripción territorial de los Municipios que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente Acuerdo General, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en Acuerdos Generales que se integren al propio Acuerdo.
+Artículo Cuarto. La Comisión Interinstitucional deberá quedar instalada en un plazo no mayor de sesenta días naturales siguientes a la entrada en vigor de la presente Ley. Para tal efecto, la Secretaría de Salud del Poder Ejecutivo del Estado, emitirá la convocatoria respectiva, por lo menos cinco días hábiles previos a la fecha de instalación.
 
-QUINTO.- El Pleno del Consejo de la Judicatura Federal, fijará las fechas de inicio de labores del Juzgado Cuarto de Distrito en el Estado de Yucatán, con residencia en Mérida, así como de los órganos jurisdiccionales federales pertenecientes al Vigésimo Séptimo Circuito, con excepción de los Juzgados de Distrito con residencia en Cancún y el diverso con sede en Chetumal.
+Artículo Quinto. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente ordenamiento, el titular del Poder Ejecutivo deberá expedir el Reglamento de esta Ley.
 
-SEXTO.- Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+Artículo Sexto. La Comisión Interinstitucional de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Querétaro, tendrá un plazo de noventa días naturales, contados a partir de la fecha de su instalación, para elaborar el Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
-EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 23/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, fue aprobado por el propio Pleno, en sesión extraordinaria de dieciséis de abril de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a dieciséis de abril de dos mil uno.- Conste.- Rúbrica.
+Artículo Séptimo. Iniciada la vigencia de la presente Ley, los Ayuntamientos de los Municipios del Estado de Querétaro, habrán de realizar las adecuaciones conducentes a los reglamentos, planes y programas que correspondan en la materia.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
-D.O.F. 22 DE JUNIO DE 2001.
+DADO EN EL SALÓN DE SESIONES “CONSTITUYENTES 1916-1917” RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS QUINCE DÍAS DEL MES DE ENERO DEL AÑO DOS MIL QUINCE.
 
-ACUERDO 33/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XVI.
+A T E N T A M E N T E
 
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO
 
-SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+MESA DIRECTIVA
 
-D.O.F. 22 DE JUNIO DE 2001.
+DIP. MARCO ANTONIO LEÓN HERNÁNDEZ
 
-ACUERDO 34/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, NÚMERO 3, APARTADO XI.
+PRESIDENTE
 
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+Rúbrica
 
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+DIP. BEATRIZ GUADALUPE MARMOLEJO ROJAS
 
-D.O.F. 22 DE JUNIO DE 2001.
+PRIMER SECRETARIA
 
-ACUERDO 35/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, NÚMERO 1, APARTADO XXIV.
+Rúbrica
 
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+Lic. José Eduardo Calzada Rovirosa, Gobernador del Estado de Querétaro, en ejercicio de lo dispuesto por los artículos 22 fracción I, 23 de la Constitución Política del Estado de Querétaro y 8 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro; expido y promulgo la presente LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE QUERÉTARO.
 
-SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado, en la ciudad de Santiago de Querétaro, Qro., el día veintiséis del mes de marzo del año dos mil quince; para su debida publicación y observancia.
 
-D.O.F. 9 DE AGOSTO DE 2001.
+Lic. José Eduardo Calzada Rovirosa
 
-ACUERDO 41/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 2 APARTADO XV.
+Gobernador del Estado de Querétaro
 
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+Rúbrica
 
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+Lic. Jorge López Portillo Tostado
 
-D.O.F. 9 DE AGOSTO DE 2001.
+Secretario de Gobierno
 
-ACUERDO 42/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XV.
+Rúbrica
 
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+P.O. 27 DE AGOSTO DE 2021.
 
-D.O.F. 21 DE AGOSTO DE 2001.
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE QUERÉTARO".]
 
-ACUERDO 48/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO X.
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
 
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 21 DE AGOSTO DE 2001.
-
-ACUERDO 49/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XIII.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 3 DE SEPTIEMBRE DE 2001.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE SEPTIEMBRE DE 2001.
-
-ACUERDO 58/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO VI.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE SEPTIEMBRE DE 2001.
-
-ACUERDO 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, INCISO 1, APARTADO XIX Y PUNTO TERCERO APARTADO XIX.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 1 DE OCTUBRE DE 2001.
-
-ACUERDO 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO IX Y PUNTO CUARTO APARTADO IX.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 1 DE OCTUBRE DE 2001.
-
-ACUERDO 61/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XXIV.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 1 DE OCTUBRE DE 2001.
-
-ACUERDO 62/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XXII.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 26 DE OCTUBRE DE 2001.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 31 DE OCTUBRE DE 2001.
-
-ACUERDO 68/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO III.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 31 DE OCTUBRE DE 2001.
-
-ACUERDO 69/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO III.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 31 DE OCTUBRE DE 2001.
-
-ACUERDO 70/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 2 APARTADO III.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 9 DE NOVIEMBRE DE 2001.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 21 DE NOVIEMBRE DE 2001.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 82/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO I.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 83/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO I.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 84/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 85/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 86/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 87/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO IV.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 88/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1 APARTADO IV.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 89/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO IV.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE DICIEMBRE DE 2001.
-
-ACUERDO 90/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO XVII.
-
-PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 12 DE JUNIO DE 2002.
-
-ACUERDO 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 3, APARTADOS IV Y XIX.
-
-PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos atenderán la situación laboral del personal adscrito al Juzgado Decimoprimero de Distrito en el Estado de Tamaulipas, con residencia en Nuevo Laredo, en los términos establecidos en el Dictamen por el que se autorizó su traslado a Monterrey, Nuevo León.
-
-D.O.F. 12 DE JUNIO DE 2002.
-
-ACUERDO 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1, APARTADOS II Y PUNTO TERCERO APARTADO II.
-
-PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 15 DE AGOSTO DE 2002.
-
-PRIMERO.- Este acuerdo entrará en vigor el quince de agosto de dos mil dos.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos, ambas del Consejo de la Judicatura Federal para que atiendan la situación laboral del personal adscrito al Tercer Tribunal Unitario del Decimoséptimo Circuito, en los términos establecidos por el Pleno del propio Consejo.
-
-D.O.F. 10 DE OCTUBRE DE 2002.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- El Pleno del Consejo de la Judicatura Federal, determinará en su oportunidad lo relativo a las readscripciones de quienes se desempeñarán como titulares de los juzgados de Distrito especializados en el Estado de Nuevo León, con residencia en Monterrey.
-
-D.O.F. 15 DE OCTUBRE DE 2002.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+Artículo Tercero. Lo previsto en la presente Ley se aplicará atendiendo a la suficiencia presupuestal con que se cuente.
