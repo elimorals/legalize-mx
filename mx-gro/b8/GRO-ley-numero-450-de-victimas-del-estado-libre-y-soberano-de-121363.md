@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-450-de-victimas-del-estado-libre-y-soberano-de-12136
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-12"
-last_updated: "2017-05-12"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 12 de mayo de 2017.
 
@@ -35,7 +35,7 @@ LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBE
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local, 227 y 287 de la Ley Orgánica del Poder Legislativo en vigor, este Honorable Congreso decreta y expide la siguiente:
 
@@ -147,7 +147,9 @@ Los derechos de las víctimas que prevé la presente Ley, deberán ser interpret
 
 I. A una investigación pronta y eficaz que lleve, en su caso, a la identificación y enjuiciamiento de los responsables de violaciones al Derecho Internacional de los derechos humanos, y a su reparación integral;
 
-II. A ser reparadas por el Estado de manera integral, adecuada, diferenciada, transformadora y efectiva por el daño o menoscabo que han sufrido en sus derechos como consecuencia de violaciones a derechos humanos y por los daños que esas violaciones les causaron;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+II. A ser reparadas por el Estado de manera integral, adecuada, diferenciada, transformadora y efectiva por el daño o menoscabo que han sufrido en sus derechos como consecuencia de violaciones a derechos humanos y por los daños que esas violaciones les causaron dentro del plazo de un año;
 
 III. A conocer la verdad de lo ocurrido acerca de los hechos en que le fueron violados sus derechos humanos para lo cual la autoridad deberá informar los resultados de las investigaciones;
 
@@ -259,17 +261,29 @@ Las instituciones públicas de los gobiernos Estatal y municipales en el ámbito
 
 ### Capítulo I. Medidas de Ayuda Inmediata
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 9.
 
-La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
+La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia y atención preferencial, en la prestación de servicios, programas y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
-Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, periodistas y personas en situaciones de desplazamiento interno.
+Los servicios, programas y acciones, tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, periodistas y personas en situaciones de desplazamiento interno.
 
-Las Medidas de Ayuda Inmediata previstas en el presente Capítulo podrán cubrirse con cargo a los Recursos de Ayuda, según corresponda, en coordinación con las autoridades correspondientes en el ámbito de sus competencias.
+Las Medidas de Ayuda Inmediata previstas en el presente Capítulo podrán cubrirse a través de lo siguiente:
+
+I. Con cargo a los Recursos de Ayuda;
+
+II. Servicios y apoyos que proporcionan las diversas instituciones en los respectivos ámbitos de su competencia;
+
+III. A través de los programas sociales y económicos que opera el Estado y los Municipios;
+
+IV. Cualquier otro que tenga como finalidad la satisfacción de dichas medidas de ayuda en coordinación con las autoridades de los tres niveles de gobierno.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 10.
 
-Las instituciones hospitalarias públicas, estatales y municipales tienen la obligación de dar atención de emergencia de manera inmediata a las víctimas que lo requieran, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
+Las instituciones hospitalarias públicas, estatales y municipales tienen la obligación de dar atención de emergencia de manera inmediata a las víctimas que lo requieran, dando una atención preferente cuando se trate de casos graves, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
 
 ###### Artículo 11.
 
@@ -284,6 +298,10 @@ Las Medidas de Asistencia y Atención serán: las económicas y de desarrollo; a
 ###### Artículo 13.
 
 Todas las medidas de asistencia, atención, protección o servicios otorgados por las instituciones públicas del Estado y de los municipios a las víctimas por cualquier hecho, serán gratuitos y éstas recibirán un trato digno con independencia de su capacidad socioeconómica y sin exigir condición previa para su admisión a estos, que las establecidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+Las instituciones públicas del Estado y de los Municipios en el ámbito de sus respectivas competencias deberán proporcionar de manera gratuita y oportuna asistencia, atención y acompañamiento a las víctimas respecto de los servicios previstos en la Ley, sea por conducto del área jurídica, de derechos humanos, algún área afín, o en su defecto establezcan un módulo para su atención.
 
 ### Capítulo III. Medidas de Reparación Integral
 
@@ -331,7 +349,13 @@ V. Participar y coadyuvar en la protección y atención a las víctimas;
 
 VI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-VII. Las demás aplicables a la materia que les conceda la Ley u otros ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2021)</small>
+
+VII. Proporcionar en el ámbito de sus respectivas competencias de manera gratuita y oportuna asistencia, atención y acompañamiento a las víctimas respecto de los servicios previstos en la Ley, sea por conducto del área jurídica, de derechos humanos, algún área afín, o en su defecto establezcan un módulo para su atención; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE AGOSTO DE 2021)</small>
+
+VIII. Las demás aplicables a la materia que les conceda la Ley u otros ordenamientos legales aplicables.
 
 ## Título Cuarto. Coordinación para la atención integral a víctimas en el Estado
 
@@ -737,7 +761,9 @@ I. El juzgador penal mediante sentencia ejecutoriada;
 
 II. El juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
 
-III. El Ministerio Público;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+III. El Ministerio Público; con la declaración de la víctima directa o indirecta;
 
 IV. La Comisión de los Derechos Humanos del Estado;
 
@@ -755,11 +781,23 @@ El reconocimiento de la calidad de víctima tendrá los siguientes efectos:
 
 I. Permitirá acceder a todos los derechos, garantías, acciones, mecanismos y procedimientos, en los términos de esta Ley y sus disposiciones reglamentarias;
 
-II. Facilitará el acceso a los recursos del Fondo Estatal y la reparación integral, de conformidad con lo previsto en la presente Ley y la normatividad que de ella emane. El procedimiento y los elementos a acreditar se determinarán en el Reglamento correspondiente; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-III. En el caso de lesiones graves, delitos contra la libertad sexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición forzada de personas, privación de la libertad y todos aquellos que impidan a la víctima acceder adecuadamente a la defensa de sus derechos y el Juez de la causa o la autoridad responsable del procedimiento ordenarán suspender de inmediato, todos los juicios y procedimientos administrativos y detendrán los plazos de prescripción y caducidad en que aquella se vea involucrada, y todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de ejercer adecuadamente los derechos en dichos juicios y procedimientos.
+II. Facilitará el acceso a los recursos del Fondo Estatal y la reparación integral, de conformidad con lo previsto en la presente Ley y la normatividad que de ella emane. El procedimiento y los elementos a acreditar se determinarán en el Reglamento correspondiente;
 
-Al reconocerse su calidad de víctima, ésta podrá acceder a los recursos del Fondo Estatal y a la reparación integral. El procedimiento y los elementos a acreditar, se determinarán de conformidad con lo previsto en la presente Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2021)</small>
+
+III. Al reconocerse su calidad de víctima, ésta podrá acceder a los recursos del Fondo Estatal y a la reparación integral. El procedimiento y los elementos a acreditar, se determinarán de conformidad con lo previsto en la presente Ley y su Reglamento; y
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+III. (SIC) En el caso de lesiones graves, delitos contra la libertad sexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición forzada de personas, privación de la libertad y todos aquellos que impidan a la víctima acceder adecuadamente a la defensa de sus derechos y el Juez de la causa o la autoridad responsable del procedimiento ordenarán suspender de inmediato, todos los juicios y procedimientos administrativos y detendrán los plazos de prescripción y caducidad en que aquella se vea involucrada, y todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de ejercer adecuadamente los derechos en dichos juicios y procedimientos.
+
+Al reconocerse su calidad de víctima, ésta podrá acceder a los recursos del Fondo Estatal y a la reparación integral. El procedimiento y los elementos a acreditar, se determinarán de conformidad con lo previsto en la presente Ley y su Reglamento; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+IV. A recibir de manera urgente, preferencial y gratuita las medidas de ayuda, atención y asistencia que le sean necesarias para la reparación del hecho victimizante.
 
 ### Capítulo II. Fondo Estatal
 
@@ -1013,9 +1051,17 @@ I. Impidan u obstaculicen el acceso de las víctimas y sus representantes a la i
 
 II. Proporcionen información falsa a las víctimas o sobre los hechos que produjeron la victimización;
 
-III. Discriminen por razón de la victimización, o
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-IV. Se nieguen, cuando estén obligados a ello, a dar una disculpa pública que incluya el reconocimiento de los hechos y la aceptación de responsabilidades.
+III. Discriminen por razón de la victimización;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+IV. Se nieguen, cuando estén obligados a ello, a dar una disculpa pública que incluya el reconocimiento de los hechos y la aceptación de responsabilidades, u
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+V. Omitan o nieguen brindar servicios de atención, asistencia y acompañamiento a las víctimas, o proporcionen el servicio de manera negligente, inoportuna o con fines lucrativos, cuando así lo requieran las víctimas acreditadas o en proceso de acreditación.
 
 T R A N S I T O R I O S
 
@@ -1084,3 +1130,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 815 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los poderes del estado, los órganos autónomos, los Ayuntamientos del Estado y concejo municipal, tendrán 90 días para hacer las adecuaciones administrativas correspondientes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
