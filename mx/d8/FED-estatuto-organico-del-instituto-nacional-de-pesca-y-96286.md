@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-pesca-y-96286"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-18"
-last_updated: "2013-10-18"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96286&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-10-08"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PESCA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2021.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de octubre de 2013.
 
@@ -47,13 +47,17 @@ ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PESCA
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 1.
 
-El Instituto Nacional de Pesca (INAPESCA) es un organismo público descentralizado de la Administración Pública Federal, sectorizado a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, de conformidad al Decreto, publicado en el Diario Oficial de la Federación el 7 de junio del 2012 y a los artículos 4, fracción XXI, 8 fracción XXIX y 29 de la Ley General de Pesca y Acuacultura Sustentables; con domicilio legal en la Ciudad de México, Distrito Federal, sin perjuicio de establecer las oficinas que estime convenientes en las diversas entidades federativas donde tenga representatividad.
+El Instituto Nacional de Pesca y Acuacultura es un organismo público descentralizado de la Administración Pública Federal, sectorizado a la Secretaría de Agricultura y Desarrollo Rural, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, de conformidad al Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2012 y a los artículos 4 fracción XXI, 8 fracción XXIX y 29 de la Ley General de Pesca y Acuacultura Sustentables; con domicilio legal en la Ciudad de México, sin perjuicio de establecer las oficinas que estime convenientes en las diversas entidades federativas donde tenga representatividad.
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 2.
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases de la organización, funcionamiento y facultades conforme a las cuales se regirán las diferentes unidades administrativas, así como los órganos que integran el Instituto Nacional de Pesca.
+El presente Estatuto Orgánico tiene por objeto establecer las bases de la organización, funcionamiento y facultades conforme a las cuales se regirán las diferentes unidades administrativas, así como los órganos que integran el Instituto Nacional de Pesca y Acuacultura.
 
 ###### Artículo 3.
 
@@ -61,19 +65,29 @@ Además de las definiciones contenidas en el artículo 4 de la Ley General de Pe
 
 I. Comisión: La Comisión Nacional de Acuacultura y Pesca;
 
-II. Director General: El Director General del Instituto Nacional de Pesca;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
 
-III. Estatuto: El presente Estatuto Orgánico del Instituto Nacional de Pesca;
+II. Director General: A la persona titular de la Dirección General del Instituto Nacional de Pesca y Acuacultura;
 
-IV. INAPESCA: El Instituto Nacional de Pesca;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+III. Estatuto: El presente Estatuto Orgánico del Instituto Nacional de Pesca y Acuacultura;
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+IV. INAPESCA: El Instituto Nacional de Pesca y Acuacultura;
 
 V. Ley: La Ley Federal de las Entidades Paraestatales y su Reglamento;
 
-VI. Junta de Gobierno: Órgano de Gobierno del Instituto Nacional de Pesca;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+VI. Junta de Gobierno: Órgano de Gobierno del Instituto Nacional de Pesca y Acuacultura;
 
 VII. Productores: Persona civil o jurídica que adopta las principales decisiones acerca de la utilización de los recursos disponibles y ejerce el control administrativo sobre las operaciones de la explotación pesquera y acuícola;
 
-VIII. Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+VIII. Secretaría: Secretaría de Agricultura y Desarrollo Rural.
 
 ###### Artículo 4.
 
@@ -103,9 +117,11 @@ IX. Certificar y registrar las líneas genéticas de especies acuícolas que se 
 
 X. Las demás que expresamente le atribuya el presente Estatuto, así como las demás disposiciones legales, reglamentarias y administrativas vinculados (sic) al ámbito de la pesca y la acuacultura.
 
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 6.
 
-El INAPESCA difundirá a la comunidad científica y a la sociedad sus actividades y los resultados de las investigaciones, sin perjuicio de la salvaguarda de los derechos de propiedad intelectual y de la información que por su naturaleza deba reservarse de conformidad a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+El INAPESCA difundirá, a la comunidad científica y a la sociedad, sus actividades y los resultados de las investigaciones, sin perjuicio de la salvaguarda de los derechos de propiedad intelectual y de la información que por su naturaleza deba reservarse de conformidad a la Ley General de Transparencia y Acceso a la Información Pública y Ley Federal de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 7.
 
@@ -139,17 +155,27 @@ A. Órganos Superiores:
 
 I. Junta de Gobierno;
 
-B. Unidades Administrativas
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+B. Unidades Administrativas:
 
 I. Dirección General;
 
-II. Dirección General Adjunta de Investigación en Acuacultura;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
 
-III. Dirección General Adjunta de Investigación Pesquera en el Atlántico;
+II. Dirección de Investigación en Acuacultura;
 
-IV. Dirección General Adjunta de Investigación Pesquera en el Pacífico;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
 
-V. Dirección General Adjunta de Administración, y
+III. Dirección de Investigación Pesquera en el Atlántico;
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+IV. Dirección de Investigación Pesquera en el Pacífico;
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+V. Dirección de Administración, y;
 
 VI. Dirección Jurídica.
 
@@ -167,9 +193,11 @@ Los titulares de las unidades administrativas, deberán acordar con su superior 
 
 ### Capítulo I. La Junta de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno se integrará en términos del artículo quinto del Decreto por el que se establece la organización y funcionamiento del organismo público descentralizado denominado Instituto Nacional de Pesca, quien es la autoridad máxima y estará conformado:
+La Junta de Gobierno se integrará en términos del artículo quinto del Decreto por el que se establece la organización y funcionamiento del organismo público descentralizado denominado Instituto Nacional de Pesca y Acuacultura, quien es la autoridad máxima y se integrará por:
 
 I. Presidente de la Junta de Gobierno, quien será el Titular de la Secretaría;
 
@@ -365,9 +393,11 @@ XXXI. Las demás que determinen otras disposiciones jurídicas aplicables o admi
 
 ### Capítulo III. De las Unidades Administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 23.
 
-Corresponde a los Directores Generales Adjuntos, Directores de Área, Subdirectores, Jefes de Centros Regionales de Investigación Acuícola y Pesquera, en el ámbito de sus respectivas competencias, el ejercicio de las facultades siguientes:
+Corresponde a los Directores de Área, Subdirectores y Jefes de Centros Regionales de Investigación Acuícola y Pesquera, en el ámbito de sus respectivas competencias, el ejercicio de las facultades siguientes:
 
 I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de la Unidad Administrativa a su cargo;
 
@@ -397,9 +427,11 @@ XIII. Atender en el ámbito de sus respectivas funciones, los acuerdos aprobados
 
 XIV. Las demás facultades que le confieran la Junta de Gobierno, el Director General y las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 24.
 
-La Dirección General Adjunta de Investigación en Acuacultura estará a cargo de un Director General Adjunto que tendrá las facultades siguientes:
+La persona titular de la Dirección de Investigación en Acuacultura tendrá las facultades siguientes:
 
 I. Planear y coordinar la ejecución de los programas, proyectos de investigación y acciones relativas a la acuacultura que se realicen en los Centros Regionales de Investigación Acuícola y Pesquera del Instituto;
 
@@ -425,9 +457,11 @@ XI. Participar, en coordinación con las autoridades competentes, en la elaborac
 
 XII. Establecer la coordinación de los programas de colaboración con las instituciones y organizaciones científicas nacionales e internacionales relacionadas con la investigación y sanidad acuícola.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 25.
 
-Las Direcciones Generales Adjuntas de Investigación Pesquera en el Atlántico y Pacífico estarán a cargo de los Directores Generales Adjuntos que tendrá (sic) las facultades siguientes:
+Las personas titulares de las Direcciones de Investigación Pesquera en el Atlántico y en el Pacífico tendrá las facultades siguientes:
 
 I. Elaborar, planear y coordinar la ejecución de los programas, proyectos de investigación y desarrollo tecnológico y las acciones relativas a las atribuciones del INAPESCA que se realizan en la región de su competencia, con apego a los lineamientos que determine el Director General del Instituto;
 
@@ -459,9 +493,11 @@ XIV. Establecer la coordinación y los programas de colaboración con las instit
 
 XV. Proporcionar asesoría técnica a los productores para la implementación de sistemas de aseguramiento de la calidad en las distintas fases de la cadena productiva de la pesca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 26.
 
-La Dirección General Adjunta de Administración estará a cargo de un Director General Adjunto que tendrá las facultades siguientes:
+La persona titular de la Dirección de Administración tendrá las facultades siguientes:
 
 I. Aplicar las normas, sistemas, políticas y procedimientos para la óptima administración del personal, recursos financieros, materiales y servicios generales del Instituto, supervisar su observancia, atendiendo a lo dispuesto en la normatividad de la Administración Pública Federal;
 
@@ -469,7 +505,9 @@ II. Conducir las relaciones laborales con el personal de confianza, consensuar y
 
 III. Dirigir la operación del Sistema de Profesionalización en el Instituto, de conformidad con las políticas y lineamientos expedidos por la Junta de Gobierno;
 
-IV. Coordinar la planeación general, el seguimiento del programa de Desarrollo Informático del Instituto Nacional de Pesca en todas las áreas del Instituto, en coordinación con la Secretaría;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+IV. Coordinar la planeación general, el seguimiento del programa de Desarrollo Informático del Instituto Nacional de Pesca y Acuacultura en todas las áreas del Instituto, en coordinación con la Secretaría;
 
 V. Coordinar e integrar el anteproyecto de presupuesto anual y los programas operativos del Instituto, de conformidad con las disposiciones de las Secretarías de Hacienda y Crédito Público y presentarlo a la consideración del Director General;
 
@@ -511,15 +549,19 @@ XII. Llevar, la legalización y registro de los servidores públicos del INAPESC
 
 ### Capítulo IV. De las Unidades Administrativas Foráneas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 28.
 
-Los Centros Regionales de Investigación Acuícola y Pesquera estarán a cargo de un Jefe de Centro, que tendrán las facultades siguientes:
+Los Centros Regionales de Investigación Acuícola y Pesquera estarán a cargo de un Jefe o Jefa de Centro, que tendrán las facultades siguientes:
 
 I. Participar en la formulación del programa regional de investigación pesquera y acuícola, así como dirigir Programas Operativos Anuales del Centro Regional de Investigación a su cargo;
 
 II. Formular y proponer los esquemas de vinculación y cooperación con el sector productivo y las instituciones de educación superior y de investigación;
 
-III. Formular y establecer el banco de información con los resultados de las investigaciones efectuadas en el Centro Regional de Investigación Acuícola y Pesquera, y un sistema de consulta eficiente, así como proporcionar la atención a las solicitudes de los ciudadanos de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
+III. Formular y establecer el banco de información con los resultados de las investigaciones efectuadas en el Centro Regional de Investigación Acuícola y Pesquera, y un sistema de consulta eficiente, así como proporcionar la atención a las solicitudes de los ciudadanos de conformidad con la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública;
 
 IV. Elaborar conforme las necesidades de investigación de los proyectos, el programa de superación académica y desarrollo profesional científico y técnico del personal a su cargo, sometiéndolo para su aprobación a las autoridades competentes;
 
@@ -573,15 +615,19 @@ En los comités especializados y grupos de trabajo y de apoyo participarán las 
 
 ### Capítulo VII. De las suplencias
 
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 34.
 
-En los casos de ausencia temporal, impedimento o excusa del Director General, será suplido en el orden siguiente: por el Director General Adjunto de Investigación Pesquera en el Atlántico; por el Director General Adjunto de Investigación Pesquera en el Pacífico; por el Director General Adjunto de Investigación en Acuacultura; por el Director General Adjunto de Administración, y por el Titular de la Dirección Jurídica, siempre que las designaciones no sean del orden de su competencia.
+En los casos de ausencia temporal, impedimento o excusa de la persona titular de la Dirección General, será suplido en el orden siguiente: por la persona titular de la Dirección de Investigación Pesquera en el Atlántico; por la persona titular de la Dirección de Investigación Pesquera en el Pacífico; por la persona titular de la Dirección de Investigación en Acuacultura; por la persona titular de la Dirección de Administración, y por la persona titular de la Dirección Jurídica, siempre que las designaciones no sean del orden de su competencia.
 
-En los juicios de amparo en los que el Director General debe intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso administrativo, contestación de demandas e interposición de toda clase de recursos en términos de las leyes que los rigen, incluyendo la materia laboral, será suplido por el Titular de la Dirección Jurídica o por el Titular de la Dirección General Adjunta de Administración.
+En los juicios de amparo en los que la persona titular de la Dirección General debe intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso administrativo, contestación de demandas e interposición de toda clase de recursos en términos de las leyes que los rigen, incluyendo la materia laboral, será suplido por la persona Titular de la Dirección Jurídica o por la persona Titular de la Dirección de Administración.
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 35.
 
-En los casos de ausencia temporal, impedimentos o excusa de las Direcciones Generales Adjuntas, o del Titular de la Dirección Jurídica, éstos serán suplidos por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de su respectiva competencia.
+En los casos de ausencia temporal, impedimentos o excusa de las personas titulares de las Direcciones, éstos serán suplidos por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de su respectiva competencia.
 
 ###### Artículo 36.
 
@@ -606,3 +652,17 @@ TERCERO.- El INAPESCA realizará las acciones necesarias para que la entrada en 
 CUARTO.- Las erogaciones que se generen por la entrada en vigor del presente Estatuto deberán cubrirse con cargo al presupuesto de egresos aprobado por la Cámara de Diputados al INAPESCA en el ejercicio fiscal correspondiente y aquellas modificaciones que se lleven a cabo a su estructura orgánica, deberán realizarse conforme a las disposiciones aplicables y mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal y subsecuentes.
 
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Instituto Nacional de Pesca, en su sesión tercera, celebrada en México, Distrito Federal, a los ocho días del mes de octubre de dos mil trece.- El Presidente Suplente de la Junta de Gobierno del Inapesca y Subsecretario de Alimentación y Competitividad, Ricardo Aguilar Castillo.- Rúbrica.- El Director General del Inapesca, Raúl Adán Romo Trujillo.- Rúbrica.- El Prosecretario y Coordinador de Asesores del Oficial Mayor, Javier Dueñas García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PESCA Y ACUACULTURA”.]
+
+PRIMERO. La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será inscrita en el Registro Público de Organismos Descentralizados.
+
+SEGUNDO. La Dirección de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican, se adecúen en los términos del presente Estatuto Orgánico y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+TERCERO. Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso serán afectados por la modificación del presente Estatuto Orgánico.
+
+CUARTO. En tanto se expidan los manuales que deriven de la modificación del presente Estatuto Orgánico, se continuarán aplicando, en lo conducente, los vigentes.
