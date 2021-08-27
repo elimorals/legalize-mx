@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-animal-del-estado-de-queretaro-69503"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2014-03-21"
+last_updated: "2021-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCIÓN ANIMAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -401,7 +401,9 @@ X. Mantener hacinado a un grupo de animales de la misma o de diversas especies, 
 
 XI. Abandonarlos en la vía pública, ya sea vivos o muertos;
 
-XII. Practicarles otras mutilaciones que no sean las motivadas por exigencias funcionales o de salud;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+XII. Practicarles intervenciones quirúrgicas cuyo objeto sea modificar la apariencia del animal o conseguir otros fines no curativos, así como realizar mutilaciones que no sean las motivadas por exigencias de salud, particularmente el realizar el corte de orejas o cola, la sección de cuerdas vocales o la extirpación de uñas o dientes, salvo cuando se consideren necesarias en beneficio de un animal determinado o para impedir su reproducción;
 
 XIII. Utilizarlos como blancos en actividades deportivas de tiro o caza, salvo cuando se cuente con la correspondiente licencia para efectuar actividades cinegéticas;
 
@@ -1030,3 +1032,13 @@ Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicaci�
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Cada uno de Ayuntamientos (sic) de los Municipios del Estado de Querétaro realizará las adecuaciones y modificaciones en los reglamentos administrativos.
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 37 DE LA LEY DE PROTECCIÓN ANIMAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
