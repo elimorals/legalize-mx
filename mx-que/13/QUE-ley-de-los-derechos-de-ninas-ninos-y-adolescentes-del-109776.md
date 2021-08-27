@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109776"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2019-10-18"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -223,7 +223,9 @@ VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
 
 VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
-IX. Derecho a la protección de la salud y a la seguridad social;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+IX. Derecho a la protección de la salud, alimentación y a la seguridad social;
 
 X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
@@ -565,7 +567,9 @@ En los casos en que niñas, niños y adolescentes sean víctimas de delitos se a
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal de Protección, deberá coordinarse con el Sistema Estatal de Atención a Víctimas, el cual procederá a través de su Comisión Ejecutiva en los términos de la legislación aplicable.
 
-### Capítulo Décimo. Del derecho a la protección de la salud y a la seguridad social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2021)</small>
+
+### Capítulo Décimo. Del derecho a la protección de la salud, alimentación y a la seguridad social
 
 ###### Artículo 46.
 
@@ -607,7 +611,17 @@ XVII. Establecer medidas para la detección temprana de discapacidades a efecto 
 
 XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
 
-Asimismo, garantizarán que todos los sectores públicos y privados de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+Asimismo, garantizarán que todos los sectores públicos y privados de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición; particularmente, deberá priorizarse en las instituciones de educación preescolar, primaria, secundaria y medio superior, el derecho a una alimentación nutritiva, suficiente y de calidad en los términos del artículo 4°, párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos con la finalidad de combatir el sobrepeso, obesidad y en general, cualquier enfermedad cardiovascular en niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+El Poder Ejecutivo del Estado de Querétaro, en coordinación con los gobiernos municipales, adoptarán una política alimentaria que involucre la participación de las familias en aras del desarrollo integral de la niñez y las personas adolescentes durante su estancia educativa.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+De igual forma, gozarán de las ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 Los servicios de salud en el Estado deberán garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez y la adolescencia, la igualdad sustantiva y la no discriminación, así como establecer medidas de protección a favor de niñas, niños y adolescentes.
 
@@ -1998,3 +2012,13 @@ P.O. 18 DE OCTUBRE DE 2019.
 Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO Y DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
