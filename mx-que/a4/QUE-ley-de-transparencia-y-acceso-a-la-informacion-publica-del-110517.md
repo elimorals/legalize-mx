@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1105
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2019-05-14"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado, el viernes 13 de noviembre de 2015.
 
@@ -1093,7 +1093,9 @@ Además de lo señalado en el artículo 66 de la presente Ley, el Poder Judicial
 
 I. Los criterios y ejecutorias publicadas en el órgano de difusión oficial;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2306,3 +2308,13 @@ P.O. 14 DE MAYO DE 2019.
 Artículo Primero. La presente Ley, en lo que corresponde a la Ley Orgánica del Poder Legislativo, entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del estado de Querétaro, salvo lo dispuesto en el artículo 152 de la Ley Orgánica del Poder Legislativo señalado en la presente ley, el cual entrará en vigor el día 01 de enero de 2020 atendiendo a la suficiencia presupuestal aprobada. Lo relativo en la presente Ley a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 69 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
