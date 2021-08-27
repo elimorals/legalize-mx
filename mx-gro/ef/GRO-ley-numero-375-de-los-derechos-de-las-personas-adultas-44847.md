@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-375-de-los-derechos-de-las-personas-adultas-44847"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-16"
-last_updated: "2012-09-18"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 16 de noviembre de 2004.
 
@@ -339,11 +339,11 @@ V.- Conocer y respetar los derechos de las personas adultas mayores previstos en
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 15.
 
-La Política Pública Estatal sobre las Personas Adultas Mayores, deberá contemplar los siguientes objetivos:
+Son objetivos de la Política Pública Estatal sobre las Personas Adultas Mayores, atendiendo los lineamientos federales en la materia, los siguientes:
 
 I.- Propiciar las condiciones para un mayor bienestar físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su auto estima y preservando su dignidad como ser humano;
 
@@ -401,7 +401,9 @@ XVII.- Fomentar que las Instituciones educativas y de seguridad social establezc
 
 XVIII.- Elaborar estudios e investigaciones sociales de la transición demográfica poblacional, los índices de desarrollo, los efectos diferenciales del envejecimiento en las mujeres y los hombres, que sirvan como herramientas de trabajo a las instituciones del sector público y privado para desarrollar programas en beneficio de la población adulta mayor;
 
-XIX.- Establecer un programa social de pensión económica, de carácter permanente que tenderá a la cobertura universal para las Personas Adultas Mayores, estableciendo las directrices para su operación o funcionamiento;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+XIX.- Establecer un programa social de pensión económica, de carácter permanente que tenderá, en coordinación y complementariamente con los programas federales y municipales, a la cobertura universal para las Personas Adultas Mayores, estableciendo las directrices para su operación o funcionamiento;
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -987,13 +989,17 @@ El Instituto administrará libremente su patrimonio en el cumplimiento de sus ob
 
 Se instituye el Programa "Pensión Guerrero", de carácter público y de observancia general en el Estado de Guerrero, como un acto de justicia social a favor de las Personas Adultas Mayores.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 60.
 
-El Programa "Pensión Guerrero", tiene por objeto, garantizar el otorgamiento de un apoyo económico a manera de pensión, a favor de las Personas Adultas Mayores que no cuenten con ningún tipo de apoyo de este tipo por parte de los diferentes institutos de seguridad social, de la Federación, el Estado, Municipios, el Sector Privado o por el Gobierno de otros Países, como un acto de justicia social a favor de las Personas Adultas Mayores.
+El Programa “Pensión Guerrero”, como un acto de justicia social, tiene por objeto garantizar el otorgamiento de un apoyo económico a manera de pensión, a favor de las Personas Adultas Mayores que no se encuentren en el padrón de beneficiarios de los programas similares de carácter federal o municipal en el estado de Guerrero, conforme a lo dispuesto en el artículo 62 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 61.
 
-El Programa Pensión Guerrero, será de carácter permanente Público y de observancia general en el Estado de Guerrero y tenderá a la cobertura universal, su fondo de operación será aprobado por el Poder Legislativo en el Presupuesto de Egresos de cada año, una vez aprobado el monto del Fondo, este será irreductible e intransferible y no podrá ser menor al probado en el año inmediato anterior.
+El Programa Pensión Guerrero, será de carácter permanente, público y de observancia general en el Estado de Guerrero y tenderá, en coordinación y de manera complementaria con los programas federales y municipales a la cobertura universal. Su fondo de operación será aprobado por el Poder Legislativo en el Presupuesto de Egresos de cada año y, una vez aprobado el monto del Fondo, éste será intransferible hasta el cumplimiento de sus metas.
 
 ###### Artículo 62.
 
@@ -1362,3 +1368,13 @@ ARTÍCULO EGUNDO (SIC).- Remítase al Titular del Ejecutivo del Estado, para los
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado y en la página web del Honorable Congreso del Estado.
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 822 POR EL QUE SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN XIX, 60 Y 61 DE LA LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Túrnese al Titular del Ejecutivo Estatal, para su conocimiento y efectos legales procedentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en el Portal Oficial del Congreso del Estado para su conocimiento general.
