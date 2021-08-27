@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2020-01-17"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -141,13 +141,17 @@ XXI. Suspensión de la farmacodependencia: proceso mediante el cual el farmacode
 
 XXII. Medicina tradicional: conjunto de conocimientos, aptitudes y prácticas basados en teorías, creencias y experiencias indígenas de las diferentes culturas, usados para el mantenimiento de la salud, así como para la prevención, el diagnóstico, la mejora o el tratamiento de enfermedades físicas o mentales;
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XXIII. Embarazo múltiple: a la presencia de dos o más fetos dentro del útero; y
+XXIII. Embarazo múltiple: a la presencia de dos o más fetos dentro del útero;
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XXIV. Nacimiento múltiple: al alumbramiento de dos o más bebés producto de un embarazo múltiple.
+XXIV. Nacimiento múltiple: al alumbramiento de dos o más bebés producto de un embarazo múltiple; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+XXV. Prevención de obesidad y sobrepeso: el conjunto de acciones dirigidas a evitar o reducir el consumo de bebidas y alimentos con alto contenido calórico y bajo o nulo contenido nutricional, y limitar los daños asociados al consumo de dichos productos.
 
 ###### Artículo 3.
 
@@ -177,9 +181,9 @@ X. La información relativa a las condiciones, recursos y servicios de salud;
 
 XI. La educación para la salud;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XII. La orientación, promoción y vigilancia en materia de nutrición, atendiendo a los problemas de malnutrición;
+XII. La orientación, promoción y vigilancia en materia de nutrición, atendiendo a los problemas de malnutrición, obesidad y sobrepeso;
 
 XIII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de los seres humanos;
 
@@ -539,9 +543,9 @@ IX. Determinar la periodicidad y características de la información que deberá
 
 X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro;
+XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición, obesidad y sobrepeso en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro;
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -671,9 +675,9 @@ VII. La prevención y el control de las enfermedades buco dentales;
 
 VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-IX. La promoción del mejoramiento de la nutrición atendiendo a los problemas de malnutrición;
+IX. La promoción del mejoramiento de la nutrición atendiendo a los problemas de malnutrición, obesidad y sobrepeso;
 
 X. La asistencia social a grupos vulnerables; y
 
@@ -1011,9 +1015,9 @@ II. Las actividades recreativas, de esparcimiento y culturales, destinadas a for
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas, especialmente cuando se trate de embarazos y nacimientos múltiples;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de malnutrición de menores de edad y adolescentes;
+IV. La vigilancia de los alimentos y bebidas que se expendan en cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico y media superior, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de malnutrición obesidad y sobrepeso de menores de edad y adolescentes;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
@@ -1279,11 +1283,11 @@ La Secretaría de Educación podrá considerar la incorporación de asignaturas 
 
 ### Capítulo Segundo. De la nutrición
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 98.
 
-La Secretaría de Salud formulará y desarrollará programas de nutrición, prevención y atención a problemas de malnutrición, promoviendo en coordinación con la Secretaría de Educación, la participación de los organismos estatales, nacionales e internacionales, así como de los sectores social y privado, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos.
+La Secretaría de Salud formulará y desarrollará programas de nutrición, prevención y atención a problemas de malnutrición, obesidad y sobrepeso, promoviendo en coordinación con la Secretaría de Educación, la participación de los organismos estatales, nacionales e internacionales, así como de los sectores social y privado, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos.
 
 ###### Artículo 99.
 
@@ -1307,9 +1311,9 @@ V. Promover la investigación básica y aplicada en ciencias, encaminada a conoc
 
 VI. Recomendar las dietas y el consumo de nutrimentos indispensables para la población en general, proveyendo lo necesario, en la esfera de su competencia, a dicho consumo;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-VII. Realizar acciones de concientización y promoción de las medidas preventivas, a fin de evitar la malnutrición de las personas y en particular de los menores de edad y adolescentes; y
+VII. Realizar acciones de concientización y promoción de las medidas preventivas, a fin de evitar la malnutrición, obesidad y sobrepeso de las personas y en particular de los menores de edad y adolescentes; y
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -1467,9 +1471,15 @@ II. Diabetes Mellitus;
 
 III. Cáncer;
 
-IV. Enfermedades respiratorias crónicas; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2021)</small>
 
-V. Las demás que señale el Consejo de Salubridad General.
+IV. Enfermedades respiratorias crónicas;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)</small>
+
+V. Malnutrición, obesidad y sobrepeso; y
+
+VI. Las demás que señale el Consejo de Salubridad General.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
@@ -2320,3 +2330,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. La Secretaría de Salud contará con un plazo de 6 meses, contados a partir de la entrada en vigor de la presente Ley, para emitir la normatividad y lineamientos que correspondan según lo dispuesto por los artículos 100 y 136 de la Ley de Salud del Estado de Querétaro, para el cumplimiento de la obligación por parte de los establecimientos previstos en el artículo 12, fracción III, Tipo I y Tipo II, de la Ley sobre Bebidas Alcohólicas del Estado de Querétaro.
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO Y DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
