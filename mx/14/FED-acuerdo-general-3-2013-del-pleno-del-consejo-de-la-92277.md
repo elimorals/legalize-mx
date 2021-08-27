@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-08-02"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -175,9 +175,9 @@ III. TERCER CIRCUITO:
 
 IV. CUARTO CIRCUITO:
 
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 7/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE AGOSTO DE 2021)</small>
 
-1. Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cuatro en materia de trabajo, todos con residencia en Monterrey.
+1. Trece tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cinco en materia de trabajo, todos con residencia en Monterrey.
 
 > <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
 
@@ -8388,3 +8388,19 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, la Dirección General de Gestión Judicial y a la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
 
 CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionan con el cumplimiento de este Acuerdo.
+
+D.O.F. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL QUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN EL CIRCUITO INDICADO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Quinto Tribunal Colegiado en Materia de Trabajo del Cuarto Circuito de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Quinto Tribunal Colegiado en Materia de Trabajo del Cuarto Circuito que inicia funciones.
+
+QUINTO. La Dirección General de Tecnologías de la Información deberá asegurar la dotación de los equipos de cómputo para el Quinto Tribunal Colegiado en Materia de Trabajo del Cuarto Circuito que inicia funciones.
+
+SEXTO. El personal de la Administración Regional apoyará para el traslado de los asuntos que por turno corresponda conocer al Quinto Tribunal Colegiado en Materia de Trabajo del Cuarto Circuito que inicia funciones.
