@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2019-09-26"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -3478,6 +3478,12 @@ Las autoridades auxiliarán a los titulares de la patria potestad en el ejercici
 El derecho de castigar no implica infligir al menor golpes o malos tratos, pudiendo, en su caso, tipificarse el delito de lesiones.
 
 Cuando llegue al conocimiento del juez que aquellas personas que tienen al menor bajo su guarda y cuidado no cumplen con las obligaciones que les corresponden, maltratan al menor, le infieren golpes o le causen lesiones, aunque no constituyan un delito, lo hará saber al Ministerio Público quien promoverá lo que corresponda para la protección del menor. El Ministerio Público deberá actuar aunque tales hechos lleguen a su conocimiento por otro medio distinto a la información del juez.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2021)</small>
+
+###### Artículo 589 Bis.
+
+Cuando alguno de los progenitores, que ostente la guarda y custodia de la hija o el hijo, decretada judicialmente, ya sea provisional o definitiva sobre ellos, realice conductas reiteradas para evitar la convivencia con las personas que tengan reconocido judicialmente su derecho a la misma, el juez podrá modificar el ejercicio de la patria potestad o custodia, con la finalidad de garantizar a los menores el ejercicio pleno del derecho a la convivencia.
 
 ### Capítulo III. De los efectos de la patria potestad respecto de los bienes del hijo
 
@@ -15854,3 +15860,13 @@ SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento y para l
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 813 POR EL QUE SE ADICIONA EL ARTÍCULO 589 BIS AL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado y difúndase a través de los medios de comunicación para su difusión.
