@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2021-08-17"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -524,6 +524,10 @@ Contenido del acta de nacimiento
 ###### Artículo 3.
 
 10.- El acta de nacimiento contendrá lugar y fecha de registro, fecha, hora y lugar del nacimiento, el sexo del presentado, el nombre del registrado, de conformidad con las reglas establecidas en este Código, la razón de si es presentado vivo o muerto, la impresión de la huella digital si está vivo y la Clave Única de Registro de Población.
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+En todos los casos que se requiera, el oficial registrará en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas.
 
 > <small>(ADICIONADO, G.G. 1 DE AGOSTO DE 2019)</small>
 
@@ -18658,3 +18662,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobier
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 311.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO Y SE RECORREN EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 3.10 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
