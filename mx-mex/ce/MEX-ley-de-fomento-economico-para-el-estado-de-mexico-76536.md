@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2021-01-06"
+last_updated: "2021-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -167,6 +167,10 @@ XLII. Visita colegiada: Al acto en el que las dependencias y organismos auxiliar
 
 XLIII. UMA: A la Unidad de Medida y Actualización, que es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de todas las anteriores.
 
+> <small>(ADICIONADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+XLIV. Emprendimiento verde: A la unidad económica formal, en la que se producen y ofrecen al mercado bienes o servicios, basados en la innovación, que generan beneficios ambientales directos y que incorporan prácticas internacionales con enfoque sostenible.
+
 ### Capítulo Segundo. De las Autoridades de Fomento Económico
 
 ###### Artículo 4.
@@ -189,11 +193,17 @@ I. Diseñar e implementar políticas públicas que estimulen la inversión y gen
 
 II. Generar políticas públicas que logren atraer inversiones productivas al Estado, para lo cual promoverán el diseño y aprobación de incentivos que tengan un respaldo institucional claro y transparente;
 
-III. Diseñar, promover, identificar y/o establecer mecanismos e instrumentos financieros para el fomento de la inversión productiva en el Estado;
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+III. Diseñar, promover, identificar y/o establecer mecanismos e instrumentos financieros para el fomento de la inversión productiva en el Estado; enfatizando en emprendimientos verdes;
 
 IV. Diseñar estrategias de fomento de los sectores económicos estratégicos del Estado, a efecto de proveer a su fortalecimiento y consolidación como motor fundamental de la economía;
 
 V. Identificar, con la participación municipal correspondiente, la vocación productiva de los municipios y regiones del Estado, a fin de diseñar las estrategias y líneas de acción necesarias para lograr su crecimiento económico, como uno de los fundamentos del desarrollo económico del Estado;
+
+> <small>(ADICIONADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+V Bis. Diseñar estrategias específicas para impulsar y/o fomentar el surgimiento, desarrollo y prosperidad de emprendimientos verdes en el Estado;
 
 > <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
 
@@ -207,7 +217,9 @@ VIII. Fomentar el desarrollo industrial de manera ordenada, mediante el establec
 
 IX. Estimular la iniciativa emprendedora para el diseño de proyectos productivos industriales, comerciales o de servicios, así como para su establecimiento, fortalecimiento y/o consolidación, mediante el otorgamiento de asesoría, capacitación, acceso al financiamiento, en su caso, y el establecimiento de canales para la comercialización de los bienes y servicios que se produzcan en el Estado;
 
-X. Promover la creación y desarrollo de MIPYMES en el Estado, mediante el impulso de acciones e instrumentos de asesoría y financiamiento;
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+X. Promover la creación y desarrollo de MIPYMES y de emprendimientos verdes en el Estado, mediante el impulso de acciones e instrumentos de asesoría y financiamiento;
 
 XI. Impulsar el desarrollo de cadenas productivas, mediante la identificación de líneas de proveeduría tanto para el Gobierno, como para las empresas instaladas en el Estado;
 
@@ -279,7 +291,11 @@ XIV. La atracción de la inversión extranjera directa en la Entidad;
 
 XV. El desarrollo minero; y
 
-XVI. Las demás que esta Ley y otros ordenamientos le señalen.
+> <small>(ADICIONADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+XVI. El impulsar, financiar y fomentar el desarrollo de negocios verdes de bienes y servicios con base en la innovación y desarrollo tecnológico, y
+
+XVII. Las demás que esta Ley y otros ordenamientos le señalen.
 
 En la promoción de las acciones comprendidas en las fracciones anteriores, que precisen de la dotación de recursos públicos para su instrumentación, la Secretaría acordará con la Secretaría de Finanzas la asignación de los recursos necesarios, de conformidad con las previsiones y prioridades presupuestales correspondientes.
 
@@ -441,6 +457,10 @@ d). Apoyar la creación de MIPYMES y promover el crecimiento de las que ya está
 
 e). Impulsar proyectos productivos en los municipios o zonas geográficas donde prevalezcan condiciones de marginación y pobreza extremas.
 
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
+
+f). Apoyar la creación de emprendimientos verdes, entre la población joven, especialmente, de aquella que se encuentra en condiciones de marginación y pobreza.
+
 Este programa deberá estar integrado y aprobarse, a más tardar, durante la Tercera Sesión Anual del Consejo, y será enviado a consideración del Gobernador del Estado, durante el mes de noviembre siguiente, para su inclusión en el paquete económico que enviará a la Legislatura;
 
 VI. Proponer al Gobernador del Estado los montos de recursos estatales que deban destinarse a la operación en el Estado de los programas federales de desarrollo empresarial;
@@ -487,7 +507,9 @@ Las dependencias competentes establecerán los procedimientos y mecanismos de co
 
 Los apoyos o incentivos previstos por esta Ley, se otorgarán preferentemente a las empresas que cumplan con los criterios de sustentabilidad siguientes:
 
-I. Proveer al desarrollo económico con equidad social, con base en un adecuado manejo de los recursos naturales que asegure su capacidad de renovación;
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2021)</small>
+
+I. Proveer al desarrollo económico con equidad social, con base en un eficiente y sostenible manejo de los recursos naturales para la producción de un bien, que asegure su capacidad de renovación y el uso de materiales reciclados;
 
 II. Utilizar preferentemente los recursos de la región, y asegurar su reutilización;
 
@@ -1936,3 +1958,13 @@ SEXTO. Se otorga un plazo de 120 días hábiles, a partir de la vigencia de la p
 SÉPTIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se hagan referencias al Fideicomiso para la Promoción Turística se entenderán hechas al Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal, el cual cambia de denominación y se constituirá con los recursos del Fideicomiso vigente.
 
 Los convenios, contratos y acuerdos suscritos con antelación con cargo u obligación por parte del Fideicomiso para la Promoción Turística seguirán teniendo vigencia y constituirán parte de los derechos y obligaciones del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal.
+
+G.G. 27 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 308.- POR EL QUE SE REFORMA LAS FRACCIONES III Y X DEL ARTÍCULO 5 Y LA FRACCIÓN I DEL ARTÍCULO 16; SE ADICIONA LA FRACCIÓN XLIV AL ARTÍCULO 3, LA FRACCIÓN V BIS. AL ARTÍCULO 5, LA FRACCIÓN XVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 6, Y EL INCISO F) A LA FRACCIÓN V DEL ARTÍCULO 13 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
