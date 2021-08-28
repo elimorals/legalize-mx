@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-para-adolescentes-del-estado-de-oaxaca-52027"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2020-09-26"
+last_updated: "2021-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -135,23 +137,15 @@ Se entiende por formación integral del adolescente toda actividad dirigida a fo
 
 Se entiende por reinserción toda actividad dirigida a garantizar el ejercicio de los derechos del adolescente encontrado responsable de la comisión de un delito, en el seno de su comunidad y de su familia, conforme a las previsiones de esta ley.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 11.
 
-Interés superior
+Interés superior de las y los adolescentes
 
-A los efectos de esta ley se entiende por interés superior el principio dirigido a asegurar el disfrute pleno y efectivo de todos los derechos y garantías del adolescente.
+Se funda en la dignidad misma del ser humano, en las características propias de las y los adolescentes y en la necesidad de propiciar el desarrollo de éstos, con pleno aprovechamiento de sus potencialidades, así como en la naturaleza y alcances previstos en los instrumentos internacionales, garantizando que toda medida que el Estado tome frente a ellas y ellos, deba interpretarse y aplicarse siempre en el sentido de maximizar los derechos de las y los adolescentes y de restringir los efectos negativos de su sujeción a un sistema que en esencia tiene un carácter sancionatorio.
 
-Para determinar el interés superior en una situación concreta se debe apreciar:
-
-I. la opinión del adolescente;
-
-II. la necesidad de equilibrio entre los derechos y garantías del adolescente y sus deberes;
-
-III. la necesidad de equilibrio entre las exigencias del bien común y los derechos y garantías del adolescente;
-
-IV. la necesidad de equilibrio entre los derechos de las personas y los derechos y garantías del adolescente; y
-
-V. la condición específica del adolescente como persona que está en proceso de desarrollo.
+Para determinar el interés superior en una situación concreta se deberá valorar la opinión de la o el adolescente, la necesidad de equilibrio entre los derechos y garantías de éste con sus deberes, las exigencias del bien común y los derechos de la víctima u ofendido.
 
 ###### Artículo 12.
 
@@ -159,19 +153,25 @@ Principio de especialización del Sistema integral de justicia para adolescentes
 
 Desde el inicio del proceso todas las actuaciones y diligencias estarán a cargo de órganos especializados en materia de justicia de adolescentes. Todas las referencias que esta ley haga a los representantes del Ministerio Publico, jueces y salas del Tribunal Superior de Justicia, se entenderán hechas a servidores públicos y órganos especializados en justicia para adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 13.
 
-Aplicación directa
+Aplicación directa y el Pro Persona.
 
 A todo adolescente se le aplicarán directamente los derechos y garantías reconocidos para todos los individuos en las constituciones federal y local y en los tratados internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 14.
 
-Principio de no discriminación
+Principio de no discriminación e igualdad sustantiva.
 
-Los derechos y garantías reconocidos en esta ley se aplicarán a todos los adolescentes sin discriminación alguna por razones de orientación sexual, origen étnico, condición social o económica, religión o cualquier otro motivo semejante propio o de sus padres, familiares u otras personas responsables o que las tengan bajo su cuidado.
+Los derechos y garantías reconocidos en esta Ley se aplicarán a quienes se les atribuya o compruebe la realización de uno o varios hechos señalados como delitos por las leyes penales mientras sean adolescentes, sin que se admita discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, económicas, condición de salud, religión, opinión, preferencia sexual, identidad de género, estado civil o cualquier otra, ya sea de la persona adolescente o de quienes ejercen sobre ellas la patria potestad o tutela, que atenten contra su dignidad humana.
 
-Durante la investigación, la tramitación del proceso y la ejecución de las sanciones, se respetarán al adolescente sus creencias, su religión y sus pautas culturales y morales siempre que sean compatibles con los derechos de terceros y las garantías que para todo individuo reconoce la Constitución General de la República.
+Se entiende por igualdad sustantiva el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades del sistema velarán por que todas las personas adolescentes sean atendidas teniendo en cuenta sus características, para lo cual deberán advertir los impactos diferenciados, condiciones específicas y necesidades especiales que afecten o beneficien a cualquiera de las partes, a fin de garantizar el ejercicio de sus derechos sobre la base de la igualdad sustantiva.
+
+Durante el procedimiento, determinación de la medida o sanción y ejecución de la que corresponda, se respetará a la persona adolescente en sus creencias, su religión y sus pautas culturales, con estricto respeto a los derechos humanos.
 
 #### SECCIÓN II. DERECHOS Y GARANTÍAS SUSTANTIVAS
 
@@ -931,7 +931,9 @@ a) Violación (artículos 246 y 248);
 
 b) Lesiones (artículo 271, en relación con los artículos 274, 275, 276 y 277);
 
-c) Homicidio (artículos 285, 289, 296, segunda y tercera parte, y 299);
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+c) Homicidio (artículos 285, 289, 294, segunda parte, 295 y 299);
 
 d) Parricidio (artículo 306);
 
@@ -956,6 +958,10 @@ i) Trata de personas (artículo 348 Bis F); y
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
 
 j) Robo (artículo 349 en relación con los artículos 353, 354 y 355).
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+k) Violación a la intimidad sexual (artículo 249).
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
 
@@ -989,9 +995,9 @@ i) (DEROGADO, P.O. 13 DE MARZO DE 2010)
 
 j) Tortura (articulo 1 en relación con el artículo 4 de la Ley Estatal para Prevenir y Sancionar la Tortura);
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-k) Abuso sexual (artículo 241, fracción IV, en el supuesto de violencia física):
+k) Abuso sexual (artículo 241, fracción II, en el supuesto de violencia física);
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
 
@@ -1654,3 +1660,11 @@ P.O. 26 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2532.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 11, EL PRIMER PÁRRAFO DEL ARTÍCULO 13, EL ARTÍCULO 14, EL INCISO C) DE LA FRACCIÓN I Y EL INCISO K) DE LA FRACCIÓN II DEL ARTÍCULO 93; SE ADICIONA EL INCISO K A LA FRACCIÓN I DEL ARTÍCULO 93 DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
