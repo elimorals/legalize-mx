@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2021-05-05"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -481,7 +481,9 @@ XXI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 XXII. Establecer anualmente el calendario oficial y ordenar la publicación del calendario oficial que regirá en el Estado;
 
-XXIII. Tramitar lo relacionado con las facultades del Poder Ejecutivo establecidas en las fracciones X y XXIV del artículo 79 y el artículo 100 párrafo IV y 102 de la Constitución del Estado Libre y Soberano de Oaxaca;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XXIII. Tramitar lo relacionado con las facultades del Poder Ejecutivo establecidas en las fracciones X y XXIV del artículo 79 y el artículo 100 párrafo IV y 102 de la Constitución del Estado Libre y Soberano de Oaxaca, garantizando el principio de paridad de género.
 
 XXIV. Coordinar las acciones de Gobierno, políticas de conciliación y concertación en el territorio del Estado;
 
@@ -3330,3 +3332,11 @@ CUARTO. El despacho de los asuntos que le correspondían a la Jefatura de la Gub
 QUINTO. Cuando en las diversas disposiciones normativas se refieran a la Jefatura de la Gubernatura, se entenderán que se encuentran a cargo de las instancias a que hace referencia el artículo anterior.
 
 SEXTO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto a este Decreto.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2529.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 52 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
