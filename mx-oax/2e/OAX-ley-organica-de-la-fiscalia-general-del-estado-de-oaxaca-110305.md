@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-fiscalia-general-del-estado-de-oaxaca-110305
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-06"
-last_updated: "2020-08-29"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 6 de octubre de 2015.
 
@@ -209,6 +209,10 @@ XXIII. Implementar un sistema de control y evaluación de la gestión institucio
 
 XXIV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. Se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que realice el Ministerio Público y mantendrá la confidencialidad de los datos personales, en los términos que disponga la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XXIV Bis. Brindar capacitación a los cuerpos de seguridad pública del Estado y de los municipios en materia de servicios periciales y medicina forense, de conformidad con los mecanismos de coordinación correspondientes;
+
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
 XXV. Crear la Base Estadística de Violencia Política contra las Mujeres en razón de Género;
@@ -361,9 +365,7 @@ XIV. Resolver el recurso de reclamación interpuesto por alguna de las partes so
 
 XV. Resolver el recurso de inconformidad interpuesto por la víctima u ofendido, en contra del no ejercicio de la acción penal, prescripción, negativa del Ministerio Público a desahogar diligencias propuestas por alguna de las partes, abstención de iniciar la investigación o la aplicación de un criterio de oportunidad, en términos del Reglamento;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
-
-XVI. Dispensar la práctica de la necropsia, cuando la muerte de la persona no sea constitutiva de delito y tratándose de delitos culposos, cuando sea evidente la causa que la originó;
+XVI. (DEROGADA, P.O. 28 DE AGOSTO DE 2021)
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -519,7 +521,7 @@ XV. Proponer al Fiscal General la solicitud a los concesionarios de telecomunica
 
 XVI. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución Federal y del Código Nacional de Procedimientos Penales;
 
-XVII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+XVII. (DEROGADA, P.O. 28 DE AGOSTO DE 2021)
 
 XVIII. Autorizar la entrega vigilada y las operaciones encubiertas;
 
@@ -585,11 +587,15 @@ De igual manera, todas las autoridades que actúen en auxilio de las previstas e
 
 El incumplimiento por parte de los servidores públicos de los órganos, dependencias, entidades e instituciones de los tres órganos de gobierno a lo dispuesto en el presente artículo, dará lugar al requerimiento por parte del Ministerio Público al superior jerárquico de aquéllos, para que se dé inicio a los procedimientos de responsabilidad o disciplinarios y se impongan las sanciones que correspondan, sin perjuicio de la responsabilidad penal que resulte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 19.
 
-Los órganos, dependencias, entidades e instituciones estatales y municipales que por sus funciones o actividades tengan registros, bases de datos, información o documentación de carácter reservado o confidencial útil para la investigación y persecución de los delitos, deberán cumplir con las solicitudes que les sean formuladas por el Ministerio Público para el debido cumplimiento de sus funciones en términos de la legislación aplicable. En estos casos, se entregará al requirente la información solicitada sin que pueda argumentarse su reserva o confidencialidad de ningún tipo del que prevean las disposiciones aplicables.
+Los órganos, dependencias, entidades e instituciones estatales y municipales así como las empresas en materia de comunicación digitalizada, que por sus funciones o actividades tengan registros, bases de datos, información o documentación de carácter reservado o confidencial útil para la investigación y persecución de los delitos, deberán cumplir con las solicitudes que les sean formuladas por el Ministerio Público en tiempo real para el debido cumplimiento de sus funciones en términos de la legislación aplicable. En estos casos, se entregará al Agente del Ministerio Público en funciones la información solicitada en tiempo real, incluso vía electronica, sin que pueda argumentarse su reserva o confidencialidad de ningún tipo del que prevean las disposiciones aplicables.
 
-Durante la investigación y el proceso penal el Ministerio Público conservará la reserva y confidencialidad de la información que le sea proporcionada de conformidad con el párrafo anterior, en los términos que prevea las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Durante la investigación y el proceso penal el Ministerio Público conservará bajo su más estricta responsabilidad la reserva y confidencialidad de la información que le sea proporcionada de conformidad con el párrafo anterior, en los términos que prevea las disposiciones aplicables.
 
 Los servidores públicos que contravengan lo dispuesto en el presente artículo serán sujetos de responsabilidad administrativa y/o penal.
 
@@ -665,13 +671,17 @@ XII. Las unidades administrativas u operativas, y
 
 XIII. Las demás áreas que se prevean en el Reglamento y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Para el nombramiento de las personas titulares de las áreas señaladas en las fracciones que anteceden, el o la titular de la Fiscalía General deberá observar el principio de paridad de género, así mismo, deberá generar mecanismos para establecer la paridad de género entre hombres y mujeres, en las convocatorias para formar parte del Servicio Profesional de Carrera Ministerial, Policial y Pericial.
+
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 El Reglamento y los instrumentos que emanen de éste establecerán las vicefiscalías, las fiscalías especializadas, las fiscalías regionales, los institutos, las direcciones, las fiscalías, las unidades administrativas u operativas y demás áreas administrativas que se requieran; sus atribuciones, facultades y funciones, así como su organización y funcionamiento.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-Asimismo, el Reglamento y los instrumentos que emanen regularán todo lo concerniente a la organización y funcionamiento de las fiscalías especializadas en Materia de Combate a la Corrupción y en Delitos Electorales, la Agencia de Investigación, los institutos de la Fiscalía General, la Oficialía Mayor, la Contraloría Interna, y la Visitaduría General.
+Asimismo, el Reglamento y los instrumentos que emanen regularán todo lo concerniente a la organización y funcionamiento de las fiscalías especializadas en Materia de Combate a la Corrupción y en Delitos Electorales, la Agencia de Investigación, los Institutos de la Fiscalía General, la Oficialía Mayor, la Contraloría Interna, y la Visitaduría General.
 
 ### CAPÍTULO III. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
@@ -1772,3 +1782,19 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2533.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; Y SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 44 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2583.- MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 19; SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 21; SE DEROGA LA FRACCIÓN XVI DEL ARTÍCULO 10, LA FRACCIÓN XVII DEL ARTÍCULO 11 QUÁTER DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
