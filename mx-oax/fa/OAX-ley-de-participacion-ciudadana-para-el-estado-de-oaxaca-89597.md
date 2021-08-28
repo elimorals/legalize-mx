@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-participacion-ciudadana-para-el-estado-de-oaxaca-89597"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2020-02-29"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto del 2012.
 
@@ -53,7 +53,9 @@ La presente Ley es reglamentaria del apartado C del Artículo 25 de la Constituc
 
 Esta Ley no podrá invocarse para restringir parcial o totalmente los mecanismos de participación ciudadana que los pueblos y comunidades indígenas han creado y lleguen a desarrollar en el futuro, según sus sistemas normativos internos, usos, costumbres y tradiciones de conformidad con lo que establecen las Constituciones Federal y Particular del Estado, así como los tratados internacionales aplicables.
 
-La regulación de los mecanismos previstos en esta Ley no impedirá el desarrollo de otras formas de participación ciudadana en la vida política, económica, social y cultural del Estado o del Municipio, ni el ejercicio de otros derechos ciudadanos previstos en otros ordenamientos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+La regulación de los mecanismos previstos en esta Ley no impedirá, ni limitará el desarrollo de otras formas de participación ciudadana en la vida política, económica, social y cultural del Estado, del Municipio y de las comunidades indígenas y afromexicanas, ni el ejercicio de otros derechos ciudadanos previstos en otros ordenamientos.
 
 ###### ARTÍCULO 2.
 
@@ -878,3 +880,9 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1398.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 35, LA FRACCIÓN IV DEL ARTÍCULO 77, LA FRACCIÓN II Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 82 Y LAS FRACCIONES II Y III DEL ARTÍCULO 83, DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2587.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 1 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
