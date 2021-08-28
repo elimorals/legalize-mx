@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2021-06-09"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -413,9 +413,11 @@ VII. Las demás que establezca esta Ley, su reglamento y demás disposiciones le
 
 Para mejorar la defensa, asistencia y protección de las mujeres víctimas de violencia, el Estado y los municipios, contarán con instancias especializadas y personal calificado para la procuración del respeto a los derechos inherentes a éstas.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 11.
 
-El Estado y los municipios, impulsarán la cultura de protección a los derechos humanos de las mujeres.
+El Estado y los municipios, impulsarán la cultura de protección a los derechos humanos de las mujeres y vigilarán que se apliquen las sanciones respectivas a las servidoras y servidores públicos cuando sus acciones u omisiones constituyan violencia institucional, buscando que en todo momento los Titulares de los Órganos Internos de Control se encuentren capacitados para la aplicación efectiva de la presente disposición, a través del Instituto Chihuahuense de las Mujeres.
 
 ###### Artículo 12.
 
@@ -540,6 +542,14 @@ El objeto del Sistema se cumplirá con estricto apego a las disposiciones consti
 Los recursos humanos, financieros y materiales que conformen el Sistema serán responsabilidad jurídica y administrativa de quienes lo integran.
 
 La aportación voluntaria de recursos a cargo de particulares no implica la transferencia de los mismos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 15 Bis.
+
+El Sistema deberá crear el Sistema Informático de Registro de Casos de Riesgo Feminicida cuando exista violencia familiar, lesiones y tentativa de feminicidio, el cual tendrá como objetivo establecer un registro único de atención para cada víctima, que permita implementar medidas de prevención y protección personalizadas, ante un potencial riesgo feminicida.
+
+La Secretaría del Consejo tendrá a su cargo el Sistema Informático de Registro de Casos de Riesgo Feminicida.
 
 ### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
@@ -717,11 +727,17 @@ IV. Incluir una partida presupuestal suficiente para garantizar que las dependen
 
 V. Celebrar convenios de coordinación y concertación con la participación que corresponda a las dependencias o entidades del Gobierno Federal, Estatal y municipal, con organismos nacionales e internacionales en materia de prevención y erradicación de la violencia contra las mujeres, y protección y asistencia a las víctimas;
 
-VI. Realizar, a través de los diversos medios de comunicación, campañas de sensibilización sobre la violencia contra las mujeres, con la finalidad de informar a la población, y en especial a las mujeres, sobre las leyes que las protegen, las medidas y programas que les asisten y los recursos disponibles;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-VII. Instar a los diversos medios de comunicación para que dejen de promover estereotipos que denigren a las mujeres y patrones de conducta generadores de violencia en contra de ellas;
+VI. Realizar, a través de los diversos medios de comunicación, campañas de sensibilización sobre la violencia contra las mujeres, con la finalidad de informar a la población, y en especial a las mujeres, sobre las leyes que las protegen, las medidas y programas que les asisten y los recursos disponibles, así como efectuar campañas dirigidas a incentivar las denuncias de cualquier tipo de violencia, agresión o acoso contra niñas y adolescentes y de prevención de la violencia en este grupo etario.
 
-VIII. Difundir en las comunidades indígenas información sobre los derechos de las mujeres;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+VII. Instar, en los términos de la presente Ley y demás disposiciones aplicables, a los diversos medios de comunicación, para que dejen de promover estereotipos que denigren a las mujeres y patrones de conducta generadores de violencia en contra de ellas.
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+VIII. Difundir en las comunidades indígenas información sobre los derechos de las mujeres, y diseñar un programa de prevención de la violencia en contra de niñas y adolescentes desde una perspectiva intercultural.
 
 IX. Promover la investigación, con perspectiva de género, sobre las causas y consecuencias de la violencia contra las mujeres;
 
@@ -871,7 +887,9 @@ IX. Impartir cursos de formación y especialización con perspectiva de género 
 
 X. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya un delito, asistencia, orientación jurídica y de cualquier otra índole, necesarias para su eficaz atención y protección;
 
-XI. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XI. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Esto conforme a los protocolos especializados de investigación y seguimiento de los delitos de violencia familiar, violación y feminicidio que elabore e implemente, donde se integren la perspectiva de género, de interculturalidad y de infancia.
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2017)</small>
 
@@ -939,7 +957,9 @@ XI. Capacitar al personal docente y de apoyo de los albergues y centros educativ
 
 XII. Desarrollar modelos de intervención para detectar la violencia contra las alumnas en albergues y centros educativos;
 
-XIII. Capacitar y sensibilizar al personal docente y de apoyo a fin de que otorguen atención urgente a las alumnas que sufren algún tipo de violencia, así como sobre la obligación de informar y canalizar a las instancias competentes aquellos casos de violencia contra mujeres que llegasen a ocurrir en los albergues o centros educativos; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XIII. Capacitar y sensibilizar al personal docente y de apoyo a fin de que otorguen atención urgente a las alumnas que sufren algún tipo de violencia, así como sobre la obligación de informar y canalizar a las instancias competentes aquellos casos de violencia contra niñas, adolescentes y mujeres que llegasen a ocurrir en los albergues o centros educativos, garantizando la adopción de protocolos de detección de la violencia digital, violencia escolar y violencia en el ámbito familiar al interior de dichos centros.
 
 XIV. Las demás previstas para el cumplimiento de esta Ley.
 
@@ -981,7 +1001,9 @@ XIII. Las demás previstas para el cumplimiento de esta Ley.
 
 Corresponde a los Municipios de la Entidad:
 
-I. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+I. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres, así como elaborar un plan de prevención, atención, canalización y denuncia para los casos de violencia contra niñas y adolescentes.
 
 II. Participar con las autoridades estatales en la conformación y consolidación del Sistema;
 
@@ -1536,3 +1558,19 @@ P.O. 9 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO NO. LXVI/RFLYC/0749/2020 IX P.E.”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1051/2021 XIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de enero del año 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, destinará los recursos necesarios a las diversas Secretarías que conforman el Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, para la creación, manejo e implementación del Sistema Informático de Registro de Casos de Riesgo Feminicida. En lo subsecuente, se harán las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, se tomarán las previsiones para el inicio y funcionamiento de las figuras e instancias previstas en el mismo.
