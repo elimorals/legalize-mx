@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2020-12-19"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -215,9 +215,17 @@ XV. Derecho a un traductor. Para efecto de expresar sus necesidades y contar con
 
 XVI. A la protección de la unidad familiar; toda persona, en situación de migración, tienen derecho a la unidad y/o reunión familiar, más aún en tratándose de niñas, niños y adolescentes en movilidad por contextos de vulnerabilidad.
 
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVII. Defender la unidad Familiar, promover la no separación de las familias por motivos de migración o por su condición de refugiado, salvo los casos en los que se acredite fehacientemente ser necesaria para garantizar el interés superior de la niñez y la adolescencia.
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVIII. A no ser separados en virtud de su condición migratoria, y en su defecto, a ser reunificados de ser posible de forma inmediata, y así respetar sus derechos a la unidad familiar; y
+
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XVII. Las demás que le reconozcan y le confieran las normas aplicables.
+XIX. Las demás que le reconozcan y le confieran las normas aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y PARTICULARES
 
@@ -926,3 +934,9 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado de Oaxaca contará con un plazo de 60 días hábiles, contados a partir del día siguiente al de la entrada en vigor de la presente reforma, para emitir la normatividad que regulará la expedición de las cartas de identidad, en el Reglamento de la Ley para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2615.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XVII Y XVIII, Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 8, DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estadode (sic) Oaxaca. publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estadode (sic) Oaxaca.
