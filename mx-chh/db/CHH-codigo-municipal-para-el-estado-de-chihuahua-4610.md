@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2021-07-03"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2861,9 +2861,7 @@ XII.- Realizar las demás atribuciones que le fijen las leyes y sus reglamentos.
 
 ### CAPITULO UNICO. DE LA DECLARACION PATRIMONIAL
 
-> <small>[N. DE E. QUE EL PRESENTE ARTÍCULO FUE REFORMADO MEDIANTE DECRETO Nº LXVI/RFCOD/0976/2021 II P.O., PUBLICADO EL 27 DE FEBRERO DE 2021, QUE A LA LETRA ESTABLECE “ARTÍCULO 92. ... I. a VII. … VIII. La persona titular de la Administración de la Ciudad. IX. Aquellos que en el Municipio o entidades descentralizadas manejen, recauden, vigilen o administren fondos y/o recursos, ya sea por función o comisión.” PARA CONSULTAR EL CONTENIDO COMPLETO DEL ARTÍCULO, VÉASE EL TEXTO ANTERIOR AL DECRETO LXVI/RFCOD/0969/2021 X P.E.PUBLICADO EN EL 27 DE FEBRERO DE 2021]</small>
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 92.
 
@@ -3789,59 +3787,41 @@ Son objeto de éste derecho, los servicios que preste el Departamento de Bombero
 
 La prestación de los servicios públicos constituye la atribución primordial de los Municipios. La administración municipal reglamentará y vigilará la organización y funcionamiento de los servicios públicos que le corresponden.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 180.
 
 Las funciones y servicios públicos municipales, son los siguientes:
 
-I.- Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;
+I. Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+II. Agua potable y saneamiento, alcantarillado sanitario, tratamiento y disposición de sus aguas residuales; para la prestación de estos servicios se estará a lo establecido y estipulado en la Ley del Agua del Estado de Chihuahua, en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
-II.- Agua potable y saneamiento, alcantarillado sanitario, tratamiento y disposición de sus aguas residuales; para la prestación de estos servicios se estará a lo establecido y estipulado en la Ley del Agua del Estado de Chihuahua, en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
+III. Pavimentación y nomenclaturas de calles;
 
-III.- Pavimentación y nomenclaturas de calles;
+IV. Limpia, recolección, almacenamiento, traslado, tratamiento y disposición final de residuos de su competencia;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2012)</small>
+V. Alumbrado público;
 
-IV.- Limpia, recolección, almacenamiento, traslado, tratamiento y disposición final de residuos de su competencia;
+VI. Rastros, mercados y centrales de abasto;
 
-V.- Alumbrado público;
+VII. Calles, parques, jardines y su equipamiento;
 
-VI.- Rastros, mercados y centrales de abasto;
+VIII. Panteones; autorización para construcción ejecutadas (sic) por particulares, su planificación y modificación;
 
-VII.- Calles, parques, jardines y su equipamiento;
+IX. Alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales; y
 
-VIII.- Panteones; autorización para construcción ejecutadas por particulares, su planificación y modificación;
-
-IX.- Alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2021)</small>
-
-X.- De bomberos.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2021)</small>
-
-XI.- Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
+X. Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios del Estado observarán lo dispuesto por las leyes federales y estatales.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
-
-Los municipios, a fin de lograr una mejor prestación de servicios públicos, y previo acuerdo entre sus ayuntamientos, podrán dentro de los ramos de competencia municipal, coordinarse y asociarse para el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
-
-En los municipios que se cuente con la figura de Administración de la Ciudad, la persona que ocupe su titularidad será responsable de la evaluación y supervisión de lo dispuesto por este artículo de conformidad a los reglamentos particulares de cada Municipio, con excepción de lo previsto en su fracción I.
-
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+Los municipios, a fin de lograr una mejor prestación de servicios públicos, y previo acuerdo entre sus ayuntamientos, podrán dentro de los ramos de competencia municipal, coordinarse y asociarse para el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
 Para efectos de la fracción I, del presente artículo, en relación con el artículo 40 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, los municipios implementarán progresivamente los Módulos de Atención a la Violencia Familiar y de Género en sus demarcaciones territoriales, asignando para tal fin los recursos necesarios; para ello, el Consejo Estatal de Seguridad Pública, con la participación del Instituto Chihuahuense de las Mujeres, determinará los municipios en que se habrán de instalar los Módulos de Atención a la Violencia Familiar y de Género, de conformidad con la propuesta debidamente sustentada en índices y estadísticas que presente el Instituto Chihuahuense de las Mujeres.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
-
 Para atender la violencia contra las mujeres, los Módulos podrán regionalizarse de tal manera que estos atiendan a dos o más municipios, en cuyo caso los municipios involucrados deberán convenir sobre la operación de los mismos. Los municipios donde ya operen los Centros de Justicia para las Mujeres impulsarán la instalación de áreas para atender y canalizar a dichos Centros a las personas que se estime sean víctimas de violencia familiar y de género.
+
+En los municipios que se cuente con la figura de Administración de la Ciudad, la persona que ocupe su titularidad será responsable de la evaluación y supervisión de lo dispuesto por este artículo de conformidad a los reglamentos particulares de cada Municipio, con excepción de lo previsto en su fracción I.
 
 ###### ARTICULO 181.
 
@@ -5638,3 +5618,11 @@ Los municipios del Estado, deberán armonizar sus reglamentos de conformidad con
 ###### ARTÍCULO CUARTO.
 
 Los municipios del Estado, deberán realizar previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/1036/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 92 Y 180 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto por el artículo 180, sexto párrafo, cuya entrada en vigor será el día diez de septiembre del año dos mil veintiuno.
