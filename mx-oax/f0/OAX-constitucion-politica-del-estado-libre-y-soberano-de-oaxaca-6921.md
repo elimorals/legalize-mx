@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-08-07"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -797,7 +797,9 @@ Para la designación del titular del organismo descentralizado a que se refiere 
 
 En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
 
-El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública, que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+(NOTA: EL 6 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública, que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; que goce de buena reputación Y NO HAYA SIDO CONDENADO POR DELITO DOLOSO. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 (REUBICADO, P.O. 30 DE JUNIO DE 2015)
 
@@ -829,23 +831,23 @@ VI. Preservar, respetar y cuidar la naturaleza, el medio ambiente y la biodivers
 
 De los Ciudadanos, de las Elecciones, de los Partidos Políticos, de los Mecanismos de la Participación Ciudadana, de los Medios de Impugnación y de los Candidatos Independientes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 23.
 
-Son ciudadanos del Estado de Oaxaca los hombres y mujeres que hayan nacido en su territorio, quienes sean hijos de padre o madre oaxaqueños y quienes teniendo una residencia mínima de cinco años en la Entidad, deseen ser considerados como tales, en los términos de la Ley, que sean mayores de 18 años y tengan modo honesto de vivir.
+Son ciudadanas y ciudadanos oaxaqueños del Estado de Oaxaca los hombres y mujeres que hayan nacido en su territorio, quienes sean hijos de padre o madre oaxaqueños y quienes, teniendo una residencia mínima de cinco años en la Entidad, deseen ser considerados como tales, en los términos de la Ley, que sean mayores de 18 años y tengan modo honesto de vivir.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-Para todos los efectos legales cuando se mencione al ciudadano, o alguna figura de autoridad, se entenderá que se refiere de igual manera a hombres y mujeres.
+Las ciudadanas y los ciudadanos oaxaqueños habitantes en el Estado de Oaxaca tienen derecho de participar directamente en la toma de decisiones públicas por medio de los mecanismos de participación que al efecto se reconocen en la presente Constitución; se reconoce a las y (sic) ciudadanos habitantes en el Estado con residencia mínima de cinco años en la Entidad para participar en los mecanismos de participación ciudadana, en los términos de la Ley. Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar la participación ciudadana.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2021)</small>
 
-Son obligaciones de los ciudadanos del Estado:
+Son obligaciones de las ciudadanas y los ciudadanos oaxaqueños del Estado:
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum, revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos y en los que establezcan las leyes;
+I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum, consulta ciudadana sobre revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos y en los que establezcan las leyes;
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -863,15 +865,15 @@ IV.- Dar la información verídica al Ejecutivo del Estado de las necesidades de
 
 V.- Formar parte del Ejército Nacional para la defensa del territorio, de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 24.
 
-Son prerrogativas de las ciudadanas y ciudadanos del Estado:
+Son prerrogativas de las ciudadanas y los ciudadanos oaxaqueños habitantes en el Estado:
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum, revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos y en los que establezcan las leyes.
+I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum, consulta ciudadana sobre revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos y en los que establezcan las leyes;
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -889,25 +891,29 @@ IV.- Asociarse individual y libremente para tomar parte en forma pacífica en lo
 
 V.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-VI.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a la que pertenecen como solidaridad moral a este fin, así como en caso de catástrofes, terremotos, inundaciones, incendios y otras causas consideradas de fuerza mayor.
+VI.- Colaborar voluntariamente en los trabajos gratuitos para beneficio de la comunidad a la que pertenecen, establecidos de manera colectiva bajo el principio de solidaridad, así como las tareas solicitadas por las autoridades para hacer frente a catástrofes como terremotos, inundaciones, incendios y otras causas que requieran su participación;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-VII.- Ser promovidos a cualquier empleo, cargo o comisión.
+VII.- Acceder en igualdad de circunstancias a cualquier empleo, cargo o comisión;
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
 VIII.- Presentar iniciativas de Ley, en los términos y con los requisitos que señalen esta Constitución y la Ley de la materia;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-IX.- Ser observador en los procesos electorales y en los mecanismos de participación ciudadana, de conformidad con las leyes;
+IX.- Participar en la observación de los procesos electorales y en los mecanismos de participación ciudadana, de conformidad con las leyes; y
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-Las ciudadanas y ciudadanos oaxaqueños residentes en el extranjero tienen derecho a votar en la elección de la Gobernadora o Gobernador del Estado, de acuerdo al procedimiento establecido en la Ley;
+X.- Participar en la organización y desarrollo de los procesos electorales y de los mecanismos de participación ciudadana a que le convoque el Instituto Estatal Electoral y de Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Las ciudadanas y los ciudadanos oaxaqueños residentes en el extranjero tienen derecho a votar en la elección de la Gobernadora o el Gobernador del Estado, de acuerdo con el procedimiento establecido en la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1091,109 +1097,77 @@ XVI. Es derecho de los partidos políticos participar en las elecciones, a trav�
 
 Los partidos políticos deberán respetar los sistemas electorales de los pueblos y comunidades indígenas para la elección de sus autoridades o representantes, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-C. DE LOS MECANISMOS DE LA PARTICIPACIÓN CIUDADANA
+C. DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
 
-Se reconocen como mecanismos de participación ciudadana: el voto libre y secreto, el plebiscito, el referéndum, la revocación de mandato, la audiencia pública, el cabildo en sesión abierta y los consejos consultivos ciudadanos; que serán regulados por la Constitución y la ley, bajo las siguientes bases y criterios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2021)</small>
 
-I.- El plebiscito es el instrumento mediante el cual los ciudadanos del Estado, por medio del sufragio libre, directo, secreto y universal, podrán objetar las determinaciones de naturaleza administrativa emitidas por el Poder Ejecutivo del Estado.
+Se reconocen como mecanismos de participación ciudadana: el voto libre y secreto, el plebiscito, el referéndum, la consulta ciudadana sobre revocación de mandato, la audiencia pública, el cabildo en sesión abierta y los consejos consultivos ciudadanos, bajo las siguientes bases y criterios:
 
-No podrán someterse a plebiscito actos administrativos que se emitan en cumplimiento de los deberes que deriven para el Ejecutivo del Estado por virtud de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes federales y estatales, los tratados internacionales, los que se dicten en materia laboral, hacendaria o fiscal, así como obligaciones derivadas de instrumentos contractuales.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-El Instituto Estatal Electoral y de Participación Ciudadana convocará y organizará el plebiscito previa solicitud de, al menos, las dos terceras partes de los integrantes del Congreso o el veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado.
+I. El plebiscito es el instrumento mediante el cual las ciudadanas y los ciudadanos oaxaqueños, por medio del sufragio libre, directo, secreto y universal, podrán aprobar o rechazar las decisiones que sean competencia del Poder Ejecutivo del Estado.
 
-Para que el plebiscito surta efecto, y su resultado sea válido y de pleno derecho para el Gobierno del Estado, se requieren dos condiciones:
+No podrán someterse a plebiscito asuntos en materia tributaria o fiscal.
 
-a) La participación de un número de ciudadanos superior al cincuenta por ciento de la lista nominal de electores del estado, y
+El Instituto Estatal Electoral y de Participación Ciudadana convocará y organizará el plebiscito previa solicitud de al menos las dos terceras partes de las y los integrantes del Congreso o el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado.
+
+El plebiscito surtirá efecto y su resultado será obligatorio para el Poder Ejecutivo del Estado cuando se cumplan dos condiciones:
+
+a) La participación de un número de ciudadanas y ciudadanos oaxaqueños superior al cincuenta por ciento de la lista nominal de electores del Estado, y
 
 b) La aprobación de la mayoría simple de los votos emitidos.
 
-Cuando los resultados del plebiscito sean contrarios a una determinación administrativa, tendrán efectos vinculatorios para el Poder Ejecutivo del Estado.
+El Poder Ejecutivo del Estado difundirá la convocatoria y la información pertinente al asunto que se someterá a plebiscito, a través de los medios, mecanismos y recursos de comunicación social con que cuente, bajo el principio de máxima publicidad, con el fin de que la población esté en posibilidad de ejercer su derecho de participar de manera libre e informada.
 
-Sólo serán procedentes un máximo de tres consultas por medio del plebiscito en una legislatura del Congreso del Estado.
+El Poder Ejecutivo del Estado dará a conocer el resultado del plebiscito a través de los medios, mecanismos y recursos de comunicación social con los que cuente, bajo el principio de máxima publicidad.
 
-El resultado del plebiscito será publicado por el Instituto Estatal Electoral y de Participación Ciudadana en el Periódico Oficial del Gobierno del Estado y por lo menos en uno de los medios de comunicación impresos de mayor circulación en la entidad.
+El resultado del plebiscito será publicado por el Instituto Estatal Electoral y de Participación Ciudadana en el Periódico Oficial del Gobierno del Estado.
 
-El plebiscito se llevará a cabo cuando se cumpla una de las siguientes condiciones:
+El plebiscito se llevará a cabo cuando:
 
 a) En el proceso electoral local inmediato, una vez cubiertos los requisitos de ley ante el Instituto Estatal Electoral y de Participación Ciudadana, o
 
-b) En los siguientes seis meses a la resolución del Instituto Estatal Electoral y de Participación Ciudadana en la que certifique el cumplimiento de los requisitos legales, a condición de que el Presupuesto de Egresos correspondiente establezca una partida para su promoción y realización;
+b) En los siguientes seis meses a la resolución del Instituto Estatal Electoral y de Participación Ciudadana en la que certifique el cumplimiento de los requisitos legales, dentro del Presupuesto de Egresos correspondiente se establecerá una partida para su promoción y realización;
 
-II.- El referéndum es la consulta a los ciudadanos del Estado que se realiza por medio del sufragio libre, directo, secreto y universal, para que expresen su voluntad únicamente sobre la creación o reforma de normas o preceptos de carácter general y/o de normas secundarias.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-El referéndum será improcedente respecto de:
+II. El referéndum es el mecanismo por el cual las ciudadanas y los ciudadanos oaxaqueños realizan por medio del sufragio libre, directo, secreto y universal, la expresión de su voluntad sobre la creación o reforma de normas o preceptos constitucionales, de carácter general o secundarias que sean competencia del Congreso del Estado de Oaxaca.
 
-a) Normas que expida el Congreso del Estado en cumplimiento de la Constitución de los Estados Unidos Mexicanos, los tratados internacionales y las leyes federales,
+No podrán ser sometidas a referéndum la disminución o eliminación de garantías señaladas en esta Constitución, y leyes hacendarias o fiscales.
 
-b) Disminución o eliminación de garantías señaladas en esta Constitución,
+La solicitud de referéndum deberá formularse por escrito, ante el Instituto Estatal Electoral y de Participación Ciudadana, conforme a los términos y formas que marca la Ley, por el titular del Poder Ejecutivo del Estado o por al menos 5 por ciento de las y los ciudadanos inscritos en la lista nominal de electores del Estado.
 
-c) Jurisprudencia de los Tribunales Federales y del Estado,
-
-d) Leyes o normas que regulen la organización y funcionamiento de los Poderes del Estado,
-
-e) Leyes generales que emita el Congreso del Estado en cumplimiento de las sentencias dictadas por los Tribunales Federales,
-
-f) Decretos que expida el Congreso del Estado en sus facultades jurisdiccionales y ejecutivas,
-
-g) Leyes hacendarias o fiscales, y
-
-h) Reglamentos que el Gobernador del Estado emita a fin de hacer cumplir las leyes que expida el Congreso del Estado.
-
-La solicitud de referéndum deberá formularse por escrito, ante el Instituto Estatal Electoral y de Participación Ciudadana, conforme a los términos y formas que marca la Ley, por el Gobernador del Estado o por veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado.
-
-Los titulares de este derecho podrán ejercerlo un máximo de tres ocasiones por legislatura. La solicitud deberá estar referida a la creación de una ley o a la reforma de los preceptos de una ley.
+El Poder Legislativo del Estado difundirá la información pertinente relacionada con el referéndum, a través de los medios, mecanismos y recursos de comunicación social con que cuente, bajo el principio de máxima publicidad, con el fin de que la población esté en posibilidad de ejercer su derecho de participar de manera libre e informada.
 
 El referéndum se llevará a cabo en el proceso estatal electoral inmediato, una vez cubiertas las formalidades ante el Instituto Estatal Electoral y de Participación Ciudadana.
 
-Para que el referéndum surta efecto, y sus resultados sean válidos y de pleno derecho, se requieren dos condiciones:
+Para que el referéndum surta efecto y sus resultados sean obligatorios para el Congreso del Estado, se requieren dos condiciones:
 
 a) La participación de una cantidad de ciudadanos superior al cincuenta por ciento de la lista nominal de electores del Estado, y
 
 b) La aprobación de la mayoría simple de los votos emitidos.
 
-El resultado del referéndum será publicado por el Instituto Estatal Electoral y de Participación Ciudadana en el Periódico Oficial del Gobierno del Estado y por lo menos en uno de los medios de comunicación impresos de mayor circulación en la entidad,
+El resultado del referéndum será publicado por el Instituto Estatal Electoral y de Participación Ciudadana en el Periódico Oficial del Gobierno del Estado. El Poder Legislativo del Estado dará a conocer el resultado del referéndum mediante los medios, mecanismos y recursos de comunicación social con los que cuente, bajo el principio de máxima publicidad.
 
-III.- Procede la revocación de mandato del Gobernador del Estado cuando se presenten los supuestos y se cumplan los requisitos que a continuación se enuncian:
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-a) Se formule la solicitud por escrito y la suscriban cuando menos veinte por ciento de los ciudadanos oaxaqueños inscritos en la lista nominal de electores del Estado, ante el Instituto Estatal Electoral y de Participación Ciudadana,
+III. La consulta ciudadana sobre revocación de mandato es el mecanismo por el cual las ciudadanas y los ciudadanos oaxaqueños pueden ordenar al Congreso del Estado la destitución del Gobernador del Estado. Procede la consulta ciudadana sobre la revocación de mandato cuando se presenten los supuestos y se cumplan los siguientes requisitos:
 
-b) Haya transcurrido al menos la mitad del mandato del Gobernador del Estado,
+a) Se formule la solicitud por escrito ante el Instituto Estatal Electoral y de Participación Ciudadana y la suscriban cuando menos cinco por ciento de las y los ciudadanos oaxaqueños inscritos en la lista nominal de electores del Estado;
 
-c) Se expresen los fundamentos y las razones que llevan a solicitar la revocación del mandato por violaciones graves a la Constitución Política del Estado,
+b) Haya transcurrido al menos una tercera parte del mandato del titular del Poder Ejecutivo del Estado, y
 
-d) Se expresen los fundamentos y las razones que llevan a solicitar la revocación del mandato por acciones atribuibles directamente al Gobernador del Estado que puedan ser consideradas como delitos de lesa humanidad, y
+c) Se expresen las razones que lleven a solicitar la revocación del mandato,
 
-e) Se presente la solicitud en la forma y términos que marque la ley ante el Instituto Estatal Electoral y de Participación Ciudadana.
+El Instituto Estatal Electoral y de Participación Ciudadana organizará y convocará a la consulta a la ciudadanía a fin de que esta se pronuncie mediante sufragio libre, directo, secreto y universal.
 
-El Instituto Estatal Electoral y de Participación Ciudadana certificará el cumplimiento de los requisitos de la solicitud.
+Para que el resultado de la votación sea válido y de pleno derecho, es indispensable que el número de electores que participe en la consulta para la revocación de mandato sea cuando menos la mitad más uno a la que participó en las elecciones en las cuales fue electo el titular del Poder Ejecutivo del Estado.
 
-La certificación del Instituto podrá ser recurrida de acuerdo con lo siguiente:
+La consulta sobre revocación de mandato procederá solamente tres veces en el periodo para el que fue electo el Gobernador, y no podrán realizarse dos en un lapso menor a los dos años.
 
-a) Cuando el recurrente considere mal apreciados los requisitos relativos a los incisos a) o d), el recurso se solventará ante el Tribunal Estatal Electoral, y
-
-b) Cuando el recurrente considere mal apreciados los requisitos relativos a los incisos c) y e), el recurso se solventará ante la Sala Constitucional del Tribunal Superior de Justicia.
-
-Una vez que el Instituto Estatal Electoral y de Participación Ciudadana certifique que se han cubierto los requisitos previstos en esta Constitución y la ley, dará vista al Congreso del Estado.
-
-El Congreso del Estado solventará el juicio de procedencia para la revocación de mandato en observancia de las reglas previstas en el artículo 118 de esta Constitución, y deberá:
-
-a) Requerir al representante común de los solicitantes que aporte las pruebas de las que se derive directa y objetivamente la responsabilidad del Gobernador del Estado por las violaciones graves a la Constitución Política y que motivan la solicitud de revocación, o bien por las acciones de éste que pudieran considerarse como delitos de lesa humanidad, y
-
-b) Dar vista al Gobernador del Estado para que ofrezca pruebas y formule alegatos.
-
-Una vez desahogado el juicio de procedencia para la revocación del mandato, el Congreso del Estado, con el voto aprobatorio de las dos terceras partes de los diputados presentes, dará vista al Instituto Estatal Electoral y de Participación Ciudadana, para los efectos de que organice la consulta a la ciudadanía del Estado a fin de que ésta se pronuncie mediante sufragio libre, directo, secreto y universal.
-
-Procederá la revocación del mandato cuando de la consulta resulte que existe una mayoría simple de los electores del Estado.
-
-Para que el resultado de la votación sea válido y de pleno derecho, es indispensable que el número de electores que participe en la consulta para la revocación de mandato sea superior al que participó en las elecciones en las cuales fue electo el Gobernador y que el número de votos en favor de la revocación del mandato sea superior al que obtuvo el Gobernador del Estado en esa votación.
-
-El mecanismo de revocación de mandato procederá solamente una vez en el periodo para el que fue electo el Gobernador.
-
-La revocación de mandato es una figura independiente del juicio político a que podrá sujetarse al Gobernador del Estado.
-
-En caso de que el mandato del Ejecutivo sea revocado, se estará a lo dispuesto en el artículo 72 de esta Constitución;
+En caso de que el mandato del Ejecutivo sea revocado, se estará a lo dispuesto en el artículo 72 de esta Constitución.
 
 IV.- Las autoridades administrativas estatales y municipales, en el ámbito de su competencia, establecerán obligatoriamente audiencias públicas y periódicas para que los ciudadanos del Estado, de manera directa, les planteen asuntos de interés público en los términos que determine la Ley.
 
@@ -3387,7 +3361,7 @@ C. EL ÓRGANO GARANTE DE ACCESO A LA INFORMACIÓN PÚBLICA, TRANSPARENCIA, PROTE
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
+Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -3395,7 +3369,7 @@ Sesionará colegiadamente y públicamente, se regirá por los principios de cert
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
+Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
 
 El nombramiento podrá ser objetado por el Gobernador del Estado, en un plazo de diez días hábiles. Si el Gobernador no objetare el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado, la persona nombrada por el Congreso del Estado.
 
@@ -5836,3 +5810,11 @@ P.O. 7 DE AGOSTO DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2509.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
