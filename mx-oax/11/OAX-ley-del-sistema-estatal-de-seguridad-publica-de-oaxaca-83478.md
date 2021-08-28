@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2019-08-24"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -820,6 +820,10 @@ XII. Proponer al Consejo Estatal la creación de comisiones especiales permanent
 XIII. Analizar con los presidentes de los Consejos Regionales y Municipales la problemática municipal en materia de seguridad pública, así como proponer las estrategias y acciones para su atención y solución;
 
 XIV. Presentar al Consejo Nacional las propuestas de programas, estrategias y acciones que se acuerden en el Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XIV Bis. Garantizar que los servicios periciales que se instalen en el Estado cuenten con instalaciones y equipamiento adecuados para el cumplimiento de sus funciones;
 
 XV. Implementar las medidas necesarias para hacer efectiva la coordinación en materia de seguridad pública, así como la ejecución de las políticas y acciones adoptadas por el Consejo Estatal, y
 
@@ -3446,3 +3450,11 @@ P.O. 24 DE AGOSTO DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2533.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; Y SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 44 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
