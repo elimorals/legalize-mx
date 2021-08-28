@@ -4,7 +4,7 @@ identifier: "OAX-ley-reglamentaria-del-articulo-4-de-la-constitucion-94710"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-04"
-last_updated: "2013-06-04"
+last_updated: "2021-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 4° DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, EN MATERIA DE JUSTA REPARACION DEL DAÑO EN DERECHOS HUMANOS PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 2530, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY REGLAMENTARIA DEL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, EN MATERIA DE JUSTA REPARACIÓN DEL DAÑO EN DERECHOS HUMANOS PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 4 de junio de 2013.
 
@@ -208,3 +210,15 @@ Tlalixtac de Cabrera, Centro, Oax., a 18 de abril del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2530.- MEDIANTE EL CUAL SE ABROGA LA LEY REGLAMENTARIA DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, EN MATERIA DE JUSTA REPARACIÓN DEL DAÑO EN DERECHOS HUMANOS PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL 04 DE JUNIO DEL AÑO 2013".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Los juicios o procedimientos y demás asuntos jurídicos y administrativos que se encuentren en trámite y que se hayan iniciado conforme a las disposiciones previstas en la Ley Reglamentaria del artículo 4º de la Constitución Política del Estado Libre y Soberano de Oaxaca, en Materia de Justa Reparación del Daño en Derechos Humanos para el Estado Libre y Soberano de Oaxaca, antes de la entrada en vigor de este Decreto, se seguirán rigiendo por las mismas hasta su conclusión.
