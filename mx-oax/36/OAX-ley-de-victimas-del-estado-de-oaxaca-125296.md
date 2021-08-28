@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-victimas-del-estado-de-oaxaca-125296"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-09"
-last_updated: "2018-11-10"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE VÍCTIMAS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de diciembre de 2017.
 
@@ -57,7 +57,9 @@ En las normas que protejan a víctimas, se aplicará siempre la que más favorez
 
 La presente Ley obliga, en sus respectivas competencias, a todas las autoridades estatales y municipales, así como a cualquiera de sus dependencias, organismos o instituciones públicas o privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral. Las autoridades antes mencionadas deberán actuar conforme a los principios y criterios establecidos en esta Ley y la Ley General de Víctimas, así como brindar atención inmediata en especial en materias de salud, educación y asistencia social, en caso contrario quedarán sujetas a las responsabilidades administrativas, civiles o penales a que haya lugar.
 
-La reparación integral comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+La reparación integral comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima, misma que deberá ser oportuna, plena, efectiva, adecuada, eficaz, expedita y justa; teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante.
 
 ###### Artículo 2.
 
@@ -2298,3 +2300,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas normas de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Por única ocasión la Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes del Honorable Congreso del Estado, de la terna que enviará el Ejecutivo Estatal, previa convocatoria que emita el Secretario General de Gobierno, misma que se publicará en el Periódico Oficial del Gobierno del Estado y en dos diarios de circulación en la Entidad.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2531.- MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 1 DE LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
