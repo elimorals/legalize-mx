@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-11-21"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -283,7 +283,9 @@ XVI. Derecho de asociación y reunión.
 
 XVII. Derecho a la intimidad.
 
-XVIII. Derecho a la seguridad jurídica y al debido proceso.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVIII. Derecho al acceso a la justicia, a la seguridad jurídica y al debido proceso.
 
 XIX. Derecho de acceso a las tecnológicas de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha de internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
@@ -585,9 +587,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 51.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a la consecución de dicho fin mediante la adopción de las medidas necesarias.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo y garantizarles una vida libre de condiciones de mendicidad, entendiéndose por esto, toda situación que implique solicitar limosnas para sí o para terceras personas. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a la consecución de dicho fin mediante la adopción de las medidas necesarias.
 
 ### CAPÍTULO OCTAVO. DERECHO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
@@ -605,7 +609,9 @@ I. El maltrato físico o psicológico, desatención, negligencia, abandono, abus
 
 II. Conductas que atenten contra su correcta formación.
 
-III. Trata de personas en cualquiera de sus formas de explotación y demás conductas punibles establecidas en las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+III. Trata de personas en cualquiera de sus formas de explotación y demás conductas punibles establecidas en las disposiciones aplicables, incluidos los actos de mendicidad forzada.
 
 IV. El trabajo antes de la edad mínima de quince años.
 
@@ -628,6 +634,10 @@ La recuperación y restitución de derechos a que se refiere el párrafo anterio
 ###### Artículo 55.
 
 En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley General de Víctimas y de la Ley de Atención y Protección a Víctimas u Ofendidos del Delito del Estado de Chihuahua. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Para asegurar una efectiva reparación integral del daño, se elaborará un Programa Especial de Reparación Integral en el ámbito Estatal, coordinado por la Comisión Ejecutiva de Atención a Víctimas de conformidad con los procedimientos y alcances de la reparación integral del daño, establecidos en la Ley de Víctimas para el Estado de Chihuahua.
 
 ### CAPÍTULO NOVENO. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
@@ -1031,9 +1041,19 @@ CAPÍTULO DECIMOCTAVO
 
 DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 88.
 
-Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, en esta Ley y demás disposiciones aplicables.
+Niñas, niños y adolescentes gozan de los derechos y garantías de acceso a la justicia, seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, en esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 88 Bis.
+
+Para dar cumplimiento al derecho de acceso a la justicia se debe garantizar que niñas, niños y adolescentes, así como sus madres, padres, defensores, tutores o representantes legales, en su caso, puedan utilizar el sistema legal para proteger sus derechos humanos.
+
+El sistema legal debe proporcionar a niñas, niños y adolescentes, los medios para obtener una respuesta rápida, eficaz y justa para proteger sus derechos, así como los mecanismos para prevenir y resolver los conflictos, garantizando, en todo momento, su derecho al debido proceso y a la reparación integral del daño.
 
 ###### Artículo 89.
 
@@ -1665,7 +1685,17 @@ XIV. Supervisar la ejecución de las medidas especiales de protección de niñas
 
 XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos.
 
-XVI. Las demás que les confieran otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVI. Asumir la representación de niñas, niños y adolescentes que hayan perdido la vida como consecuencia de algún delito, asegurando la defensa y representación de sus derechos e intereses en el sistema de procuración e impartición de justicia.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVII. Participar en la búsqueda y localización de niñas, niños y adolescentes desaparecidos, aun en los casos en que solo se encuentren reportados como ausentes o extraviados donde así lo requieran las autoridades competentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVIII. Las demás que les confieran otras disposiciones aplicables.
 
 ###### Artículo 132.
 
@@ -2071,9 +2101,11 @@ Tratándose del procedimiento de conciliación, se harán constar en el convenio
 
 ### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO DE PROTECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 164.
 
-Toda persona, institución o autoridad que tenga conocimiento o presuma fundadamente la existencia de alguna conducta o hecho que vulnere derechos que pudieran afectar el desarrollo integral de alguna niña, niño o adolescente, sin perjuicio de prestarle el auxilio inmediato que requiera, tiene el deber de denunciarlo por cualquier medio y sin necesidad de formalidad alguna.
+Toda persona, institución o autoridad que tenga conocimiento o presuma fundadamente la existencia de alguna conducta o hecho que vulnere derechos que pudieran afectar el desarrollo integral de alguna niña, niño o adolescente, sin perjuicio de prestarle el auxilio inmediato que requiera, tiene el deber de denunciarlo por cualquier medio y sin necesidad de formalidad alguna, en especial cuando se detecten hechos relacionados con violencia sexual.
 
 Solo cuando la denuncia provenga de un particular, tendrá derecho a realizarla de manera anónima, o bien, a que se garantice la reserva y confidencialidad de sus datos personales.
 
@@ -2083,7 +2115,13 @@ La Procuraduría de Protección o instancia análoga en el ámbito municipal, as
 
 Niñas, niños y adolescentes, para la defensa de sus derechos, podrán personalmente o a través de un tercero, solicitar la asistencia y protección de la Procuraduría de Protección con el fin de que se promuevan las acciones legales y de protección oportunas; también lo podrán hacer por su propio derecho o incluso por conducto de una persona que no tenga ningún tipo de representación formal.
 
-La Procuraduría de Protección deberá tomar las previsiones necesarias para que las distintas etapas del procedimiento de protección o en la imposición de medidas especiales de protección, toma de declaración y desahogo de pruebas periciales se desarrollen de acuerdo con las características y necesidades de niñas, niños y adolescentes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2021)</small>
+
+Así mismo, la Procuraduría de Protección asumirá la representación de niñas, niños y adolescentes que hayan perdido la vida como consecuencia de algún delito, asegurando la defensa de sus derechos e intereses, en el sistema de procuración e impartición de justicia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE AGOSTO DE 2021)</small>
+
+La Procuraduría de Protección deberá tomar las previsiones necesarias para que las distintas etapas del procedimiento o en la imposición de medidas especiales de protección, toma de declaración, y desahogo de pruebas periciales se desarrollen de acuerdo con las características y necesidades de niñas, niños y adolescentes.
 
 ###### Artículo 166.
 
@@ -2091,9 +2129,11 @@ La Procuraduría de Protección deberá en todo momento hacer el mayor esfuerzo 
 
 En particular debe velar que la identidad del niño, niña o adolescente no sea hecha pública ante los medios de comunicación.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 167.
 
-Los responsables y demás personal de los centros educativos, de salud, sociales públicos o privados, y en general cuantas entidades o instituciones tengan relación con niñas, niños y adolescentes, tendrán igualmente la obligación señalada en el artículo anterior, así como a colaborar con la autoridad competente para prevenir, evitar y resolver tales situaciones.
+Las personas en el servicio público, así como los responsables y el personal de los centros educativos, de salud, sociales o privados, y en general cuantas entidades o instituciones que tengan conocimiento de hechos o conductas que atenten contra los derechos y/o el desarrollo de niñas, niños y adolescentes, tendrán igualmente la obligación señalada en el artículo anterior, así como a colaborar con la autoridad competente para prevenir, evitar y resolver tales situaciones.
 
 ###### Artículo 168.
 
@@ -2530,3 +2570,27 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1034/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 51 Y 53, FRACCIÓN III, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1051/2021 XIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de enero del año 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, destinará los recursos necesarios a las diversas Secretarías que conforman el Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, para la creación, manejo e implementación del Sistema Informático de Registro de Casos de Riesgo Feminicida. En lo subsecuente, se harán las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, se tomarán las previsiones para el inicio y funcionamiento de las figuras e instancias previstas en el mismo.
