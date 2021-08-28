@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2021-05-15"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -199,7 +199,11 @@ XXXII. Condicionar, limitar o restringir las oportunidades de empleo, permanenci
 
 XXXIII. Condicionar, impedir o negar el acceso a los inmuebles, el acceso a información, comunicación y atención a las personas con discapacidad en instancias y servicios públicos y privados;
 
-XXXIV. En general cualquier otra conducta discriminatoria en los términos que establezca la presente ley.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DEL 2021)</small>
+
+XXXIV. Promover odio y violencia por medio de la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio masivo de comunicación o redes sociales que de manera directa o indirecta injurie, difame, discrimine, humille, atente contra la dignidad o promueva la explotación de las personas; y
+
+XXXV. En general cualquier otra conducta discriminatoria en los términos que establezca la presente ley.
 
 ###### Artículo 8.
 
@@ -1172,3 +1176,11 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2428.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 2° DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DEL 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2588.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXXIV RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
