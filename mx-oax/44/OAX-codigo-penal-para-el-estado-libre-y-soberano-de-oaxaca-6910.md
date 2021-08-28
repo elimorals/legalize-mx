@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-06-05"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4293,11 +4293,17 @@ I. El sujeto activo tenga conocimientos técnicos o profesionales en materia de 
 
 II. El sujeto activo cometa el ilícito en contra de personas físicas o jurídicas que ejerzan la función o servicio público.
 
-Las penas previstas en este capítulo se impondrán con independencia de las que correspondan por la comisión de otros delitos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+Las penas previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otros delitos.
 
-232 Bis B.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+232 Bis B.- A la persona que utilice en los medios digitales o redes sociales datos personales o una imagen ficticia con la finalidad de cometer algún hecho ilícito se le aplicará de dos a seis años de prisión, y multa de doscientos a cuatrocientas veces el valor diario vigente de la Unidad de Medida y Actualización al momento de la comisión del hecho, independientemente del delito que se llegue a configurar.
+
+(ADICIONADO, P.O. 29 DE FEBRERO DE 2020) (REUBICADO [N. DE E. ANTES ARTÍCULO 232 BIS B], P.O. 28 DE AGOSTO DE 2021)
+
+232 Bis C.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
 
 ## TITULO DECIMO.
 
@@ -4771,19 +4777,11 @@ Si la violencia se ejerce en despoblado o en paraje solitario se aplicara prisi�
 
 270.- Se aplicará prisión de diez a treinta años al que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo particular o de transporte público.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ### CAPÍTULO IV. OCUPACIÓN IRREGULAR DE ÁREAS O PREDIOS
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
-
-270 Bis.- Se aplicará prisión de dos a cinco años y multa de cien a 300 veces el valor de la Unidad de Medida y actualización a los sujetos privados o públicos que:
-
-I. Propicien o permitan la ocupación irregular de áreas y predios en los centros de población;
-
-II. Autoricen indebidamente asentamientos humanos o construcciones en Zonas de riesgo o polígonos de protección, salvaguarda y amortiguamiento; y,
-
-III. No respeten el ordenamiento territorial, el desarrollo urbano y desarrollo metropolitano en condiciones de equidad, generado por la consolidación y el crecimiento urbano.
+270 Bis.- (DEROGADO, P.O. 28 DE AGOSTO DE 2021)
 
 TITULO DECIMOSEXTO.
 
@@ -5585,17 +5583,17 @@ IV.- Con prisión de dieciocho a veinticinco años de prisión y multa de tresci
 
 373.- El abigeato de ganado menor se sancionará:
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-I.- Con prisión de tres a cinco años y multa de cincuenta a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento no exceda de cinco cabezas;
+I.- Con prisión de tres a cinco años y multa de cien a doscientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento no exceda de cinco cabezas o de hasta cinco colonias de abejas en un apiario;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-II.- Con prisión de cinco a ocho años y multa de ciento cincuenta a trescientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de cinco cabezas pero no de quince, y
+II.- Con prisión de cinco a ocho años y multa de doscientas a trescientas cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de cinco cabezas, pero no de quince o exceda de cinco pero no de quince colonias de abejas de un apiario, y
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-III.- Con prisión de ocho a diez años y multa de trescientas a setecientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de quince cabezas.
+III.- Con prisión de ocho a diez años y multa de trescientas cincuenta a setecientas cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento exceda de quince cabezas o quince colonias de abejas de un apiario.
 
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 
@@ -5895,6 +5893,24 @@ En el delito de despojo de inmueble, el perdón del ofendido extingue la acción
 
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+### CAPITULO V BIS.
+
+Ocupación irregular de áreas o predios.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+386 Bis.- Se aplicará prisión de dos a cinco años y multa de 100 a 300 veces el valor de la Unidad de Medida y actualización a quien o quienes incurran en las siguientes conductas:
+
+l. Propicien o permitan la ocupación irregular de áreas y predios en los centros de población;
+
+II. Autoricen indebidamente asentamientos humanos o construcciones en: Zonas de riesgo o polígonos de protección, salvaguarda y amortiguamiento; y,
+
+III. No respeten el ordenamiento territorial, el desarrollo urbano y desarrollo metropolitano en condiciones de equidad, generado por la consolidación y el crecimiento urbano.
+
+Tratándose de servidores públicos que se encuentren en cualquiera de los supuestos de este artículo, aprovechándose del cargo que ostenten, se sancionaran de 4 a 8 años de prisión y multa de 200 a 500 veces el valor de la unidad de medida y actualización.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO VI.
@@ -6103,6 +6119,32 @@ Se entiende por misoginia las conductas contra la mujer que se manifiestan media
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
+###### Artículo 412.
+
+A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ella.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con discapacidad, se encuentre embarazada o el hecho de (sic) cometa frente a cualquier ofendido o víctima indirecta, además de la pena impuesta, ésta se aumentará hasta un tercio más.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
+
 ### CAPITULO III BIS.
 
 Alteraciones a la Salud por Razón de Género.
@@ -6136,32 +6178,6 @@ III. Cuando la conducta del sujeto activo cause deformidad incorregible en el ro
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
-
-###### Artículo 412.
-
-A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ella.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
-
-Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con discapacidad, se encuentre embarazada o el hecho de (sic) cometa frente a cualquier ofendido o víctima indirecta, además de la pena impuesta, ésta se aumentará hasta un tercio más.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
 
 ### CAPITULO IV. Discriminación
 
@@ -6239,46 +6255,6 @@ Este delito se perseguirá de oficio.
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
-
-413. A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de cuatro a ocho años de prisión y de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente. Para los efectos de este artículo, se tendrá por consumado el delito aun cuando él o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
-
-Los alimentos comprenderán la comida, el vestido, la habitación, la asistencia en caso de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto a los menores de edad, comprende, además, los gastos necesarios para la educación básica y para proporcionarle un oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
-
-También comprenden las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
-
-Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el Juez determinará el pago de los alimentos o la reparación del daño, con base en la capacidad económica del deudor; el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años; así como del estado de necesidad de los acreedores.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
-
-414.- Al que renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos o se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a cuatro años y de doscientos a quinientos días multa, pérdida de los derechos de familia y pago como reparación del daño, de las cantidades no suministradas oportunamente.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
-
-415.- Para el caso de que la persona legitimada otorgue el perdón, sólo procederá si el imputado, acusado o sentenciado paga todas las cantidades que hubiere dejado de proporcionar por concepto de alimentos y otorgue garantía cuando menos por el monto equivalente a un año. No procederá el perdón para quien habiéndolo obtenido sea procesado nuevamente por el mismo delito.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
-
-416.- Se impondrá pena de seis meses a cuatro años de prisión y de doscientos a quinientos días multa a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo o haciéndolo no lo hagan dentro del término ordenado por el Juez u omitan realizar de inmediato el descuento ordenado.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
-
-417.- Si la omisión en el cumplimiento de las obligaciones alimentarias ocurre en incumplimiento de una resolución judicial, las sanciones se incrementarán en una mitad.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
-
-418.- Los delitos previstos en este Título se perseguirán por querella, con excepción de cuando los acreedores sean las y los hijos menores de 18 años, o persona con discapacidad, en cuyo caso se perseguirá de oficio, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -6321,6 +6297,46 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+413. A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de cuatro a ocho años de prisión y de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente. Para los efectos de este artículo, se tendrá por consumado el delito aun cuando él o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+Los alimentos comprenderán la comida, el vestido, la habitación, la asistencia en caso de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto a los menores de edad, comprende, además, los gastos necesarios para la educación básica y para proporcionarle un oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+También comprenden las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el Juez determinará el pago de los alimentos o la reparación del daño, con base en la capacidad económica del deudor; el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años; así como del estado de necesidad de los acreedores.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+414.- Al que renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos o se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a cuatro años y de doscientos a quinientos días multa, pérdida de los derechos de familia y pago como reparación del daño, de las cantidades no suministradas oportunamente.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+415.- Para el caso de que la persona legitimada otorgue el perdón, sólo procederá si el imputado, acusado o sentenciado paga todas las cantidades que hubiere dejado de proporcionar por concepto de alimentos y otorgue garantía cuando menos por el monto equivalente a un año. No procederá el perdón para quien habiéndolo obtenido sea procesado nuevamente por el mismo delito.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+416.- Se impondrá pena de seis meses a cuatro años de prisión y de doscientos a quinientos días multa a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo o haciéndolo no lo hagan dentro del término ordenado por el Juez u omitan realizar de inmediato el descuento ordenado.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+417.- Si la omisión en el cumplimiento de las obligaciones alimentarias ocurre en incumplimiento de una resolución judicial, las sanciones se incrementarán en una mitad.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+418.- Los delitos previstos en este Título se perseguirán por querella, con excepción de cuando los acreedores sean las y los hijos menores de 18 años, o persona con discapacidad, en cuyo caso se perseguirá de oficio, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
+
 ### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
@@ -6361,6 +6377,10 @@ Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualq
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
@@ -6372,10 +6392,6 @@ Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualq
 I. Dolosamente prive de la vida a un animal vertebrado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
@@ -7514,5 +7530,21 @@ P.O. 5 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1793.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 27; EL PÁRRAFO PRIMERO DE LA FRACCIÓN I DEL ARTÍCULO 29; SE DEROGA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I DEL ARTÍCULO 29 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2528.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 373; SE ADICIONA EL CAPÍTULO V BIS DENOMINADO “OCUPACIÓN IRREGULAR DE ÁREAS O PREDIOS”, AL TÍTULO DECIMONOVENO DEL LIBRO SEGUNDO QUE CONTIENE EL ARTÍCULO 386 BIS; Y SE DEROGA EL CAPÍTULO IV DEL TÍTULO DÉCIMOQUINTO, DEL LIBRO SEGUNDO, ASÍ COMO EL ARTÍCULO 270 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2584.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 232 BIS A; SE ADICIONA EL ARTÍCULO 232 BIS B RECORRIENDOSE EL SUBSECUENTE PARA SER EL ARTÍCULO 232 BIS C, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
