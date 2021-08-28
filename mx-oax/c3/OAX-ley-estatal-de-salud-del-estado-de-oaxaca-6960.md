@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2021-08-24"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -529,7 +529,11 @@ Para los efectos del artículo anterior habrá un cuadro básico de insumos para
 
 El Gobierno del Estado coadyuvará con las autoridades federales y municipales competentes para:
 
-I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos e insumos para la salud menstrual de niñas, adolescentes, mujeres y personas menstruantes;
+
+La Secretaría de Salud a través de los Servicios de Salud de Oaxaca pondrán a disposición de las niñas, adolescentes, mujeres y personas menstruantes los productos e insumos para la salud menstrual como son toallas sanitarias, tampones o copas menstruales en la Unidades Médicas, Centros y Casas de Salud ubicadas en los municipios y comunidades del territorio oaxaqueño, priorizando la utilización de productos reutilizable, sustentable o ecológico.
 
 II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
@@ -3652,3 +3656,17 @@ P.O. 24 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango contrarios al presente.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2614.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 31 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- La Secretaría de Salud en coordinación con la Secretaría de Finanzas del Gobierno del Estado prevendrán la disposición presupuestal necesario (sic) para el ejercicio fiscal siguiente a la aprobación del presente Decreto.
+
+CUARTO.- La Secretaría de Salud a través de los Servicios de Salud de Oaxaca dentro de los ciento ochenta días naturales a la entrada en vigor del presente Decreto, pondrá de manera gratuita a disposición de las niñas, adolescentes, mujeres y personas menstruantes los productos e insumos para la salud menstrual como son toallas sanitarias, tampones o copas menstruales en las Unidades Médicas, Centros y Casas de Salud ubicadas en los municipios y comunidades del territorio oaxaqueño, priorizando la utilización de productos reutilizable, sustentable o ecológico.
+
+QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
