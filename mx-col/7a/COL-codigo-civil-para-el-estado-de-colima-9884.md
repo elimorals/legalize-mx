@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2021-07-17"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -697,6 +697,14 @@ ART. 22.- La capacidad jurídica de las personas físicas se adquiere por el nac
 
 ART. 23.- La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+A la persona mayor de edad mayor (sic) con algún tipo de discapacidad intelectual, deberá proporcionárseles acceso al sistema de apoyos que necesiten para ejercer su capacidad jurídica y para tomar decisiones, con el fin de que puedan ejercer plenamente y por sí mismas su autonomía y todos sus derechos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Como excepción a lo establecido en el primer párrafo, los menores de edad, a partir de los quince años cumplidos, podrán abrir cuentas de depósito bancario de dinero en términos de la Ley de Instituciones de Crédito, sin la intervención de sus representantes y tendrán la administración de los fondos depositados en dichas cuentas.
+
 ART. 24.- El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
@@ -919,7 +927,11 @@ ART. 50.- Las actas del Registro Civil extendidas física o electrónicamente co
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
-ART. 51.- Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la Oficina respectiva del Registro Civil en el Estado de Colima o de cualquiera otra entidad federativa.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+ART. 51.- Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se inscriban en la oficina respectiva del Registro Civil en el Estado de Colima o de cualquiera otra entidad federativa.
+
+Las inscripciones de los actos del estado civil adquirido por los mexicanos en el extranjero quedarán registradas en el libro del Registro Civil que corresponda, en términos del artículo 37 de este Código.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -957,7 +969,9 @@ ART. 57.- En las poblaciones en que no haya oficial del Registro, el niño será
 
 ART. 58.- El acta de nacimiento se registrará con asistencia de dos testigos que identificarán al padre, a la madre, o a ambos cuando éstos sean quienes presenten al hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres, los apellidos de los padres en el orden que de común acuerdo determinen, o los que le corresponda, la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro Nacional de Población que se asigne al registrado.
 
-El orden que sea asignado para el primer hijo o hija, deberá prevalecer para los posteriores que tuvieren los mismos padres.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+El orden de los apellidos que sea asignado para el primer hijo o hija, deberá prevalecer para los posteriores que tuvieren los mismos padres.
 
 Si no se proporcionan los nombres de los padres, el oficial del Registro Civil le pondrá nombre y apellido. Haciéndose constar esta circunstancia en acta por separado que se agregará al apéndice. Queda prohibido mostrar ésta última acta, a menos que medie orden judicial. No podrá asentarse por ningún motivo que el hijo es de padres desconocidos.
 
@@ -1046,6 +1060,10 @@ III.- Si el hijo es menor de catorce años, se expresará sólo el consentimient
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
 IV. En estas actas queda prohibido expresar que el hijo es natural.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+En el caso de lo dispuesto por las fracciones I, II y III de este artículo, la autorización de quien corresponda podrá consistir, cuando menos, en los datos del reconocedor sin que se modifiquen los apellidos de la persona reconocida cuando el reconocedor decida no ejercer el derecho a la paternidad, con la finalidad de garantizar el conocimiento de su origen y el cumplimiento de las obligaciones por concepto de alimentos.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
@@ -1431,15 +1449,25 @@ I. La aclaración procede, cuando en ellas existan errores de escritura, mecanog
 
 II. La complementación o ampliación procede, cuando del contenido del acta del estado civil se desprendan de manera indubitable datos y circunstancias, relacionadas directamente con la persona registrada, que en su oportunidad no hayan sido correctamente definidos y determinados, o que no se hayan levantado en formatos autorizados; y
 
-III. La rectificación por vía administrativa procede cuando se solicite variar el nombre de la persona registrada o nombres de las personas que intervinieron en el acto o alguna otra característica esencial de la identidad de la persona; excepto cuando dicha corrección implique cambio a derechos y obligaciones relacionadas con la filiación y el parentesco o cuando éstas tengan su origen en sentencias judiciales, en estos casos, dichos cambios deberán solicitarse ante la autoridad jurisdiccional que corresponda.
+> <small>(REFORMADO [N. DE E. ESTE PRIMER PÁRRAFO], P.O. 28 DE AGOSTO DE 2021)</small>
+
+III. La rectificación por vía administrativa procede cuando se solicite variar el nombre de la persona registrada o nombres de las personas que intervinieron en el acto o algún otro dato esencial de la identidad de la persona; excepto cuando dicha corrección implique cambio a derechos y obligaciones relacionadas con la filiación y el parentesco o cuando éstas tengan su origen en sentencias judiciales, en estos casos, dichos cambios deberán solicitarse ante la autoridad jurisdiccional que corresponda.
 
 La rectificación de acta por vía administrativa procederá en los siguientes supuestos:
 
 a) Cuando una persona sea conocida con nombre diferente al que aparece en su acta de nacimiento, a fin de adaptarlo a su realidad social, derivado del uso invariable y constante de otro diverso en su vida social y jurídica, sin que se afecten los apellidos;
 
-b) Cuando el nombre propio impuesto a una persona le cause afrenta a su dignidad humana como consecuencia de la exposición al ridículo; y
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-c) En los casos de homonimia, si le causa perjuicio moral o económico.
+b) Cuando el nombre propio impuesto a una persona le cause afrenta a su dignidad humana como consecuencia de la exposición al ridículo;
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+c) En los casos de homonimia, si le causa perjuicio moral o económico; y
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+d) En los casos de actos de los mexicanos celebrados en el extranjero, cuando el acta se hubiere levantado como registro y no como inscripción, como lo previene el artículo 51 de este Código; en cuyo caso procederá la rectificación de la misma, cambiando la denominación de registro a inscripción, así como los datos esenciales de la identidad de la persona que deban modificarse como consecuencia de ello.
 
 La aclaración y complementación se tramitará y resolverá en un plazo no mayor a tres días hábiles. La rectificación se tramitará y resolverá en un plazo no mayor a quince días hábiles. En todos los casos, la Dirección General del Registro Civil informará de su resolución a la Oficialía del Registro Civil competente, al Archivo Estatal del Registro Civil, así como al Registro Nacional de Población e Identificación Personal, para que se hagan las anotaciones que correspondan.
 
@@ -3327,7 +3355,9 @@ II.- Bienes que adquiera por cualquier otro título.
 
 ART. 429.- Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
 
-ART. 430.- En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+ART. 430.- En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto. Tratándose de las cuentas de depósito bancario de dinero a que se refiere el segundo párrafo del artículo 23 de este Código, la totalidad del usufructo de los fondos depositados en dichas cuentas pertenecerá al menor de edad.
 
 ART. 431.- Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
 
@@ -4165,7 +4195,9 @@ ART. 634.- Mientras se nombra tutor, el juez debe dictar las medidas necesarias 
 
 ### CAPITULO XVI. Del estado de interdicción
 
-ART. 635.- Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+ART. 635.- Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537, y el segundo párrafo del artículo 23 de este Código.
 
 ART. 636.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
@@ -11810,3 +11842,9 @@ P.O. 17 DE JULIO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial “El Estado de Colima.”
 
 SEGUNDO.- Los juicios de divorcio por mutuo consentimiento o incausado que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos de conformidad con lo dispuesto con las disposiciones vigentes en que fueron iniciados.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 485.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
