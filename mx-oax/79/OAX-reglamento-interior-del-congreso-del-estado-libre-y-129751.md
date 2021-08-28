@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2021-08-24"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -1381,9 +1381,11 @@ Salvo disposición legal en contrario, para el cómputo de los plazos señalados
 
 En el caso de que las iniciativas impliquen un impacto presupuestal, la comisión o comisiones deberán solicitar a la Comisión de Presupuesto y Programación y a la Secretaría de Finanzas del Gobierno del Estado, una proyección de dicho impacto. Lo anterior de conformidad con lo dispuesto por la Ley de Presupuesto y Responsabilidad Hacendaria en vigor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 67.
 
-En el proceso legislativo de dictamen, la comisión podrá convocar al diputado promovente, a efecto de ampliar la información acerca de su propuesta. Si éste no asistiere, continuará el proceso de dictamen.
+En el proceso legislativo de dictamen, la comisión podrá convocar al o los promoventes, a efecto de ampliar la información acerca de su propuesta. Si éste no asistiere, continuará el proceso de dictamen.
 
 La comisión podrá acordar la realización de foros, sesiones públicas o reuniones, en las que consulte:
 
@@ -2968,3 +2970,11 @@ P.O. 24 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2613. MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
