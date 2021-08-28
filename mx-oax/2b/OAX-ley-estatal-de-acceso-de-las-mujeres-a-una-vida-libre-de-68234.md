@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2021-08-24"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -59,7 +59,9 @@ IV. Garantizar a las mujeres un trato digno así como atención integral y espec
 
 V. Asegurar el acceso oportuno y eficaz de las mujeres víctimas de violencia de género a la procuración e impartición de justicia;
 
-VI. Establecer lineamientos de coordinación y cooperación entre las autoridades federales, estatales y municipales, para cumplir con los objetivos de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+VI. Establecer lineamientos de coordinación y cooperación entre las autoridades federales, estatales y municipales, a efecto de implementar los mecanismos necesarios que garanticen la dignidad e integridad absoluta de las mujeres y den cumplimiento a los objetivos de esta Ley;
 
 VII. Unificar criterios de intervención institucional en la prevención y detección de la violencia de género, en la atención de las mujeres víctimas y en la reeducación integral de los agresores;
 
@@ -153,13 +155,17 @@ XIV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en ca
 
 XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVI. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia; y
+XVI. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres.
+XVII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVIII. Protocolo Alba: Es el mecanismo institucional que permite la coordinación inmediata de los ámbitos de competencia y responsabilidades de los tres órdenes de gobierno en la promoción y ejecución de actividades conducentes para la localización de mujeres con denuncia o reporte de desaparición, extravío o no localización.
 
 ###### Artículo 7.
 
@@ -473,7 +479,7 @@ II. El diseño de un sistema de monitoreo, mismo que deberá ser instaurado por 
 
 ### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 19 Bis.
 
@@ -551,105 +557,285 @@ El Estado y los Municipios, impulsarán programas para difundir la cultura de de
 
 Alerta de violencia de género es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia de género en un Municipio o región determinada, ya sea ejercida por personas o por la propia comunidad. Tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación, acciones o política pública, usos o costumbres que agravien sus derechos humanos, se solicitará y estará conforme lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-### Capítulo Primero. Del Sistema
+### Capítulo Sexto. Del Protocolo Alba
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 24.
 
-Las órdenes de protección, son actos de protección y de urgente aplicación en función del interés superior de la Víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad judicial, el Ministerio Público o en caso de urgencia el Síndico Municipal, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, sin que sean condicionadas a la iniciación de una denuncia o de un proceso judicial para su emisión, deberán otorgarse de oficio o a petición de la víctima o víctima indirecta, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+El Ministerio Público y el Síndico Municipal, bajo su más estricta responsabilidad, ordenarán la implementación de las órdenes de protección idóneas, para salvaguardar la integridad de las mujeres y niñas que se encuentren viviendo cualquier tipo de violencia de género.
+
+El Síndico Municipal, una vez que emita las órdenes de protección o emergencia preventivas, hará del conocimiento del Ministerio Público dentro de las veinticuatro horas siguientes, los hechos y el tipo de órdenes otorgadas, para que este asuma sus facultades constitucionales y legales, como representante de la víctima o víctimas.
+
+Las órdenes de protección, podrán ser de naturaleza colectiva a fin de prevenir un daño irreparable contra las mujeres debido a su vínculo con una organización, grupo o comunidad de personas determinadas o determinables.
 
 En materia de violencia política contra las mujeres en razón de género, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Tribunal Electoral del Estado de Oaxaca, podrán solicitar a las autoridades competentes el otorgamiento de las órdenes o medidas de protección y reparación, contenidas en el artículo 341 BIS y 341 TER de la Ley de Instituciones y Procedimientos Electorales de Oaxaca y esta Ley.
 
-El Ministerio Público y el Síndico Municipal en caso de urgencia, bajo su más estricta responsabilidad, ordenarán fundada y motivadamente la aplicación de las medidas de protección idóneas, cuando estime que el agresor representa un riesgo inminente en contra de la seguridad de la víctima, en términos del artículo 137 del Código Nacional de Procedimientos Penales, esta Ley y la Ley General, según corresponda.
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-El Síndico Municipal, una vez que emita las órdenes de emergencia preventivas, según corresponda, hará del conocimiento del Ministerio Público, dentro de las veinticuatro horas siguientes, los hechos y el tipo de órdenes otorgadas, para que este asuma sus facultades constitucionales y legales, como representante de la sociedad ofendida.
+###### Artículo 24 Bis.
+
+Estarán legitimados para solicitar órdenes de protección:
+
+a) La víctima o víctima indirecta en situación de riesgo, sus familiares, representantes legales, autoridades comunitarias o representativas.
+
+b) La Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
+
+c) Las organizaciones de la sociedad civil que lleven a cabo el acompañamiento, asesoría y programas de protección de los derechos de las mujeres y la familia, cuando la víctima y/o víctima indirecta así lo solicite por escrito, se encuentre grave o presente alguna discapacidad que le impida solicitar la protección.
+
+d) En el caso de menores de edad por la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 24 Ter.
+
+Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinaría, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para garantizar la materialización de la protección inmediata a las víctimas de acuerdo a sus condiciones específicas, tomando en consideración el contexto de la violencia;
+
+IV. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de investigación o del proceso respectivo;
+
+V. Principio de oportunidad y eficacia: Las órdenes deben de ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garantice su objetivo;
+
+VI. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VII. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas;
+
+VIII. Principio del interés superior de la niñez: Cuando las decisiones que se adopten relacionadas con el trámite de órdenes de protección, afecten de manera directa o indirecta a una niña, niño o adolescente se deberán evaluar y ponderar las posibles repercusiones para evitar efectos negativos en su esfera de derechos; y
+
+IX. Principio pro personas: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 24 Quáter.
+
+Cuando una mujer o niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+La autoridad deberá informar con lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+La autoridad deberá realizar la mediación y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
+
+Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal, del Ministerio Público o de quién esté facultado para ello, tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aún cuando no exista una solicitud.
+
+Tratándose de órdenes de protección que involucren a niños, niñas y adolescentes indígenas o afromexicanas, la autoridad emisora deberá dar aviso inmediato a la Procuraduría Estatal de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, a la Secretaría de Pueblos Indígenas y Afromexicano y a la Secretaría del Sistema Local de Protección de los derechos de niñas, niños y adolescentes, para que en el ámbito de su competencia se proceda de manera coordinada con la protección del menor.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 24 Quinquies.
+
+Las órdenes de protección podrán solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud, aún sin que exista un proceso jurisdiccional previo.
+
+Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección.
+
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Artículo 24 Sexties. Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la presente Ley señale como delito en contra de una mujer o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubieren (sic) sído detenida en flagrancia.
+
+Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
 
 ###### Artículo 25.
 
 Las órdenes de protección que consagra la presente Ley son personalísimas e intransferibles y podrán ser:
 
-I. De emergencia;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-II. Preventivas; y
+I. Administrativas: que son emitidas por el Ministerio Público y las autoridades administrativas.
 
-III. De naturaleza Civil.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 
-Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan y dejaran de surtir efectos una vez que la autoridad competente determine que el riesgo o peligro de la víctima ha disminuido o desaparecido.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2021)</small>
+
+Deberán expedirse de manera inmediata a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 25 Bis.
+
+Para la emisión de las órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
+
+I. Los hechos relatados por la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
+
+II. Las peticiones explícitas de la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o de quien informe sobre el hecho;
+
+III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
+
+IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+
+V. La persistencia del riesgo aún después de su salida de un refugio temporal, y
+
+VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+
+Para la evaluación del riesgo, con la finalidad de dar continuación, ampliar o dejar sin efecto las órdenes de protección, las autoridades administrativas, el Ministerio Público o los órganos jurisdiccionales competentes, deberán estar en contacto permanente con la o las víctimas a fin de verificar que éstas se encuentran fuera de peligro, tomando en cuenta:
+
+a) El riesgo o peligro existente. Cuando se advierta que existe una situación de riesgo que comprometa la integridad física o psicológica, la libertad o seguridad, así como los bienes de la víctima y víctimas indirectas.
+
+b) El Test de Evaluación de Riesgo de Violencia hacia las Mujeres.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 25 Ter.
+
+Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+
+I. Los principios establecidos en esta Ley;
+
+II. Que sea adecuada, oportuna y proporcional;
+
+III. Que los sistemas normativos internos no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquier otra, que las coloque en una situación de mayor riesgo, y
+
+V. Las necesidades expresadas por la mujer o niña solicitante.
+
+Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 26.
 
-Son órdenes de protección de emergencia las siguientes:
+Las órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
 
-I. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+II. Custodia personal y/o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado de Oaxaca, la Agencia Estatal de Investigaciones, la Secretaría de Seguridad Pública o a la Fiscalía General de la República, según corresponda. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública de los tres órdenes de gobierno. Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+III. Proporcionar a las mujeres, o a las niñas, en situación de violencia y en su caso sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta Ley;
 
-II. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
 
-III. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad; y
+V. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+a) Aplicación de antirretrovirales de profilaxis post-exposición;
 
-IV. Prohibición de intimidar o molestar a la Víctima en su entorno social, así como a cualquier integrante de su familia, incluidos la vía telefónica o cualquier otro medio electrónico de comunicación.
+b) Anticoncepción de emergencia, y
+
+c) interrupción legal y voluntaria del embarazo en caso de violación;
+
+VI. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
+
+VII. Los demás gastos indispensables, dentro o fuera del estado o el país, para la mujer y en su caso sus hijas e hijos mientras se encuentre imposibilitada de obtenerlas por sus propios medios;
+
+VIII. Facilitar a ala (sic) mujer o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior.
+
+XIX (SIC). La prohibición a la persona agresora de intimidar, molestar o comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas, u otras víctimas indirectas (sic) o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o, de hecho;
+
+XX. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
+
+XXI. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Instituto de la Función Registral del Estado de Oaxaca;
+
+XXII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia; y
+
+XXIII. Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 27.
 
-Son órdenes de protección preventivas las siguientes:
+Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
 
-I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia;
+I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
 
-Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+II. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
 
-II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+III. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
 
-III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+IV. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
 
-IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la Víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
+V. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
 
-V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
+VI. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
 
-VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la Víctima en el momento de solicitar el auxilio; y
+VII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, del matrimonio en sociedad conyugal o de separación de bienes. Se debe garantizar el cumplimiento de las obligaciones contractuales del agresor con respecto a la propiedad o posesión que previamente existían o los apoyos que brindan para ellos; y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
 
-VII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
+VIII. Obligación alimentaría provisional e inmediata;
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+IX. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres;
+
+X. Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas;
+
+XI. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+
+XII. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
+
+XIII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+
+XIV. Retención y guarda de armas de fuego, propiedad de la o las personas agresoras o de alguna corporación pública o privada de seguridad, independientemente si las mismas se encuentran registradas a su nombre o el de alguien más, conforme a la normatividad de la materia. Es aplicable lo anterior a las armas punzocortantes, punzo contundentes u otras, que independientemente de su uso, hayan sido empleadas para intimidar, amenazar o lesionar a la víctima. Así como la cancelación del permiso de portación de armas por autoridad competente;
+
+XV. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+XVI. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate de domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal (sic) ; que deberá informarse al Instituto de la Función Registral del Estado de Oaxaca para realizar la anotación marginal;
+
+XVII. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Instituto de la Función Registral del Estado de Oaxaca, a efecto de garantizar las obligaciones alimentarias; y
+
+XVIII. Las demás que se requieran para brindar una protección a la víctima.
 
 ###### Artículo 27 Bis.
 
-Las órdenes de protección de emergencia y preventivas podrán ser otorgadas por los Agentes del Ministerio Público de la Fiscalía General del Estado de Oaxaca con competencia en el territorio donde resida la víctima, para lo cual las victimas podrán acudir directamente, aun sin que exista un proceso jurisdiccional previo.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2021)
 
-Para el caso de órdenes de protección que dependen de un proceso jurisdiccional, serán competentes las autoridades que conozcan de aquél.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 28.
 
-Corresponderá a las autoridades estatales en el ámbito de sus competencias, otorgar las órdenes emergentes y preventivas de la presente Ley, quienes tomarán en consideración:
+Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección en coordinación con las instancias responsables de atenderlas e implementarlas.
 
-I. El riesgo o peligro existente;
+En los casos donde presuntamente exista conexidad con delitos de competencia federal, las órdenes de protección deberán ser otorgadas por la Fiscalía General de la República y en caso de que lo amerite por una jueza o juez federal.
 
-II. La seguridad de la víctima; y
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-III. Los elementos con que se cuente.
+###### Artículo 28 Bis.
+
+Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
+
+Previo a la suspensión de las órdenes de protección decretadas, las autoridades administrativas, ministeriales y órganos jurisdiccionales deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 28 Ter.
+
+Por ninguna circunstancia las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional notificará de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
+
+Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 28 Quáter.
+
+A ninguna mujer o niña y sus hijas o hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 28 Quinquies.
+
+La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y sus homólogas en las entidades federativas, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Artículo 28 Sexties. En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 29.
 
-Son órdenes de protección de naturaleza civil las siguientes:
-
-I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
-
-II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
-
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
-
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias; y
-
-V. Obligación alimentaria provisional e inmediata.
-
-Serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
+Las órdenes de protección deberán ser restringidas en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 ###### Artículo 30.
 
@@ -661,37 +847,99 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes 
 
 Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes, quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales o en su caso por conducto de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes de Oaxaca.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+### Capítulo Primero. Del Sistema
+
+###### Artículo 31 Bis.
+
+La autoridad competente que conozca de la desaparición, extravío o no localización de una mujer dentro del territorio del Estado de Oaxaca, implementará de manera inmediata y sin dilación el "Protocolo Alba".
+
+El "Protocolo Alba" permanecerá activo hasta la localización y plena identificación de la mujer desaparecida o no localizada.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 31 Ter.
+
+La planeación, coordinación, implementación y ejecución del "Protocolo Alba" se deberá realizar con base en una perspectiva de derechos humanos y de género intercultural y diferenciada.
+
+Las autoridades encargadas de planear, coordinar, implementar y ejecutar el "Protocolo Alba" se regirán por los principios siguientes:
+
+I. Igualdad y no discriminación
+
+II. Pro persona
+
+III. Principio del interés superior de la niñez
+
+IV. Legalidad
+
+V. Inmediatez
+
+VI. Debida diligencia
+
+VII. Exhaustividad
+
+VIII. Transparencia
+
+IX. Máxima Publicidad
+
+X. Asignación y uso óptimo de recursos
+
+XI. Continuidad
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 31 Quáter.
+
+Se integrará el Comité Técnico de Colaboración del "Protocolo Alba", el cual tiene el objetivo de brindar mayor cobertura y rapidez en la implementación de los mecanismos de búsqueda, investigación y localización de mujeres, desaparecidas o no localizadas, así ·como fortalecer los vínculos interinstitucionales y de cooperación entre las autoridades de los tres ámbitos de gobierno. Será presidido por la persona Titular de la Fiscalía General del Estado de Oaxaca.
+
+El Comité deberá sesionar al menos una vez al mes. Las sesiones serán públicas.
+
+El Comité Técnico de Colaboración del "Protocolo Alba" estará conformado por al menos las instituciones que se enlistan a continuación:
+
+I. Fiscalía General del Estado de Oaxaca;
+
+II. Secretaría General de Gobierno;
+
+III. Secretaría de Finanzas;
+
+IV. Secretaría de Seguridad Pública;
+
+V. Secretaría de Pueblos Indígenas y Afromexicano;
+
+VI. Secretaría de las Mujeres de Oaxaca;
+
+VII. Secretaría de Salud;
+
+VIII. Secretaría de Bienestar del Estado de Oaxaca;
+
+IX. Comisión Ejecutiva Estatal de Atención a Víctimas;
+
+X. Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
+
+XI. Instituto Estatal de Educación Pública de Oaxaca;
+
+XII. Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca
+
+XIII. Corporación Oaxaqueña de Radio y Televisión;
+
+XIV. Instituto Oaxaqueño de Atención al Migrante;
+
+XV. Coordinación Estatal de Protección Civil; y
+
+XVI. Podrán ser convocados a las sesiones del Comité, las Autoridades Municipales que presenten mayor incidencia de mujeres desaparecidas o no localizadas, además de organismos no gubernamentales, asociaciones civiles y dependencias federales que coadyuven a la pronta localización de la mujer víctima de desaparición, extravío o no localización.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 31 Quinquies.
+
+Al encontrar a la mujer o niña desaparecida y/o ausente, por parte de las autoridades correspondientes se les brindará atención médica, psicológica y legal, protegiendo en todo momento su integridad.
+
+## TÍTULO III. DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ### Capítulo Segundo. De la integración y atribuciones del Sistema
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-###### Artículo 31 Bis.
-
-En caso de no localización de una mujer dentro del territorio del Estado de Oaxaca o alguno de sus municipios, se implementará un programa de búsqueda para mujeres no localizadas al que se denominará "Alerta Rosa".
-
-Este programa constituirá un protocolo de actuación y una herramienta eficaz de difusión masiva e inmediata en todos los medios de comunicación disponibles, que permitirá la inmediata localización y recuperación de mujeres que se encuentren en riesgo inminente de sufrir daño grave por motivo de su no localización o cualquier circunstancia donde se presuma la comisión de algún delito ocurrido en el territorio estatal.
-
-Este programa contará con un Comité Estatal, el cual será integrado por las dependencias competentes que señala esta Ley, y será presidida por el Titular de la Fiscalía General del Estado de Oaxaca. El Comité contará con los órganos necesarios que señalen sus propios lineamientos, en donde los miembros serán honoríficos.
-
-Los requisitos que se tomarán en cuenta para activar la "Alerta Rosa" en todo el territorio del estado son los siguientes:
-
-I. Que se trate de una mujer;
-
-II. Que se encuentre en riesgo inminente de sufrir daño grave a su integridad personal, y;
-
-III. Que exista información suficiente: Nombre, edad, sexo, características físicas, señas particulares, padecimientos, discapacidades, vestimenta que portaba al momento de la ausencia, así como la descripción de las circunstancias de los hechos, las personas y vehículos involucrados, la última vez que fue vista y demás información que se considere relevante.
-
-La Fiscalía General del Estado de Oaxaca será la autoridad competente para evaluar, analizar y, en su caso, realizar la activación de la "Alerta Rosa" en el Estado.
-
-La "Alerta Rosa" se activará una vez recibido el reporte de no localización de una mujer y será independiente al proceso de investigación y demás mecanismos que implementan las autoridades para localizar y recuperar lo más pronto posible a las mujeres desaparecidas, por lo tanto, el hecho de que no proceda la activación de una alerta, no significa que no se lleve a cabo una investigación o que no se realicen acciones para la pronta localización de las mujeres desaparecidas.
-
-Una vez activada la "Alerta Rosa" podrá participar la sociedad civil, medios de comunicación, empresas y todos aquellos sectores que deseen colaborar para sumar esfuerzos y potenciar la búsqueda y localización.
-
-## TÍTULO III. DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
-
-### Capítulo Tercero. Del Programa
 
 ###### Artículo 32.
 
@@ -743,7 +991,7 @@ Toda persona física o moral, podrá efectuar aportaciones de recursos al Sistem
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### Capítulo Cuarto. De la Distribución de Competencias
+### Capítulo Tercero. Del Programa
 
 ###### Artículo 38.
 
@@ -1037,9 +1285,9 @@ VII. Informar periódicamente al Secretario Ejecutivo del Sistema, el cumplimien
 
 VIII. Las demás que le confieran el Sistema, su Presidencia, la Secretaría Ejecutiva y los ordenamientos jurídicos aplicables.
 
-### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
+### Capítulo Cuarto. De la Distribución de Competencias
 
-### Capítulo Segundo. De los Refugios para la Atención a Mujeres Víctimas de Violencia
+### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
 
 ###### Artículo 49.
 
@@ -1113,7 +1361,7 @@ V. Las unidades administrativas responsables de su ejecución.
 
 El programa deberá establecer los mecanismos de monitoreo, seguimiento y evaluación, así como el alcance derivado de su implementación. Además, establecerá las competencias entre las instancias estatales y municipales y los mecanismos de coordinación.
 
-### Capítulo Tercero. De los Centros de Reeducación para Agresores
+### Capítulo Segundo. De los Refugios para la Atención a Mujeres Víctimas de Violencia
 
 ###### Artículo 53.
 
@@ -1149,9 +1397,9 @@ X. Realizar campañas de información con énfasis en la protección integral de
 
 XI. Impulsar la suscripción de acuerdos de concertación entre las diferentes instancias públicas o privadas, para el cumplimento (sic) de los objetivos de esta Ley;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XII. Implementar y operar la "Alerta Rosa" en todo el territorio del estado;
+XII. Implementar y operar el "Protocolo Alba" en el territorio del Estado y coordinarse con la Federación;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1231,9 +1479,9 @@ IX. Informar al Consejo sobre la ejecución de las actividades de su competencia
 
 X. Iniciar los procesos de investigación de todas las muertes violentas de mujeres desde la perspectiva de género y bajo la presunción de feminicidio.
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XI. Evaluar, analizar y, en su caso, realizar la activación del programa "Alerta Rosa" en el Estado;
+XI. Implementar, coordinar, activar, y dar seguimiento a la operación y ejecución del "Protocolo Alba" en el Estado de manera inmediata al reporte o conocimiento de la desaparición forzada, extravío o no localización de una mujer en el Estado de Oaxaca; de acuerdo a los principios establecidos en la presente Ley.
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1353,9 +1601,9 @@ XV. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XVI. Coadyuvar en la formación de liderazgos políticos de las mujeres, impulsar mecanismos de promoción, protección y respeto de los derechos políticoelectorales de las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+XVII. Coadyuvar y participar en la operación, ejecución y evaluación del "Protocolo Alba" en el territorio del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1389,9 +1637,9 @@ IX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XI. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+XI. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1437,9 +1685,9 @@ X. Celebrar convenios de cooperación, coordinación y concertación en la mater
 
 XI. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+XII. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1471,9 +1719,9 @@ VIII. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan
 
 IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-X. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa" en todo el estado;
+X. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -1491,9 +1739,9 @@ XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Finanzas:
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-I. Asignar, en el Proyecto de Presupuesto de Egresos del Estado, recursos para el cumplimiento de los objetivos del Sistema, del Programa y del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres; previstos en esta Ley;
+I. Asignar, en el Proyecto de Presupuesto de Egresos del Estado, recursos suficientes para el cumplimiento de los objetivos del Sistema, del Programa, del "Protocolo Alba" y del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres; previstos en esta Ley;
 
 II. Conformar desde la perspectiva de género las normas y lineamientos de carácter técnico-presupuestal en la formulación de los programas y acciones;
 
@@ -1539,11 +1787,11 @@ XII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 64.
 
-Corresponde a la Secretaria de Pueblos Indígenas y Afromexicano:
+Corresponde a la Secretaría de Pueblos Indígenas y Afromexicano:
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
@@ -1567,9 +1815,9 @@ VI. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-VIII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+VIII. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1627,9 +1875,9 @@ XIX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 XX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XXI. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa" en todo el estado;
+XXI. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1659,9 +1907,9 @@ V. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-VII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+VII. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1711,13 +1959,11 @@ e) La igualdad sustantiva entre la mujer y el hombre, y;
 
 f) Eliminar el uso del lenguaje sexista en todos sus contenidos, así como promover la erradicación de prácticas, usos y costumbres que atenten contra la dignidad de las mujeres.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-g) El Programa “Alerta Rosa” en todo el Estado.
+g) El "Protocolo Alba" en el territorio del Estado.
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
-
-En los pueblos y comunidades indígenas y afromexicanas la difusión se realizará en su lengua de origen.
+En los pueblos y comunidades indígenas y afromexicano, se difundirá la información de manera oportuna y actualizada en su lengua materna, observando un lenguaje claro, sencillo, con pertinencia cultural y por medios culturalmente utilizados por los pueblos.
 
 II. Producir programas televisivos y radiofónicos que promuevan la cultura de la denuncia y orienten a la sociedad para que perciba la violencia contra las mujeres como delito, cuestión de seguridad pública y de derechos humanos;
 
@@ -1817,9 +2063,9 @@ VIII. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan
 
 IX. Proporcionar de manera mensual y dentro de su ámbito de competencia la información completa y oportuna de los casos que conozca de violencia contra las mujeres al Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-X. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa" en sus respectivos territorios;
+X. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en sus respectivos territorios;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1830,6 +2076,8 @@ XI. Prohibir en su demarcación territorial la colocación de publicidad que gen
 XII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ## TÍTULO IV. DE LA PREVENCIÓN DE LA VIOLENCIA, ATENCIÓN INTEGRAL A SUS VÍCTIMAS Y REEDUCACIÓN A LOS AGRESORES
+
+### Capítulo Tercero. De los Centros de Reeducación para Agresores
 
 ###### Artículo 71.
 
@@ -2354,3 +2602,39 @@ P.O. 24 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2571.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 2, EL ARTÍCULO 24, EL ARTÍCULO 25, EL ARTÍCULO 26, EL ARTÍCULO 27, EL ARTÍCULO 28 Y EL ARTÍCULO 29; SE ADICIONAN LOS ARTÍCULOS 24 BIS, 24 TER, 24 QUÁTER, 24 QUINQUIES, 24 SEXTIES, 25 BIS, 25 TER, 28 BIS, 28 TER, 28 QUÁTER, 28 QUINQUIES, 28 SEXTIES, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, la Fiscalía General del Estado de Oaxaca en coordinación con el Tribunal Superior de Justicia, contará con 45 días naturales para elaborar de conformidad con el presente Decreto, y publicar en su página web oficial:
+
+1. El Test de Evaluación de Riesgo de Violencia hacia las Mujeres.
+
+2. El Protocolo de emisión, seguimiento y evaluación de órdenes de protección para el Estado de Oaxaca.
+
+Ambos instrumentos deberán ser remitidos vía informe al Honorable Congreso del Estado de Oaxaca, inmediatamente después de su publicación.
+
+CUARTO. A partir de la publicación de los instrumentos señalados en el transitorio anterior por la Fiscalía General del Estado, en un plazo máximo de 10 días hábiles, deberán girar circular comunicando el Protocolo y el Test de Riesgo de Violencia hacia las Mujeres, a la Secretaría General de Gobierno y Secretaría de Seguridad Pública para los efectos correspondientes.
+
+QUINTO. Es responsabilidad de la Fiscalía General del Estado la capacitación al Ministerio Público y a la Secretaría de Seguridad Pública para el otorgamiento y ejecución de las órdenes de protección de conformidad con los parámetros señalados en el presente Dictamen de origen; de igual forma es responsabilidad del Tribunal Superior de Justicia del Estado, la capacitación a los jueces, para la emisión de órdenes de protección.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2576.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 6, EL ARTÍCULO 31 BIS, LA FRACCIÓN XII DEL ARTÍCULO 54, LA FRACCIÓN XI DEL ARTÍCULO 57, LA FRACCIÓN XVII DEL ARTÍCULO 58, LA FRACCIÓN XI DEL ARTÍCULO 59, LA FRACCIÓN XII DEL ARTÍCULO 60, LA FRACCIÓN X DEL ARTÍCULO 61, LA FRACCIÓN I DEL ARTÍCULO 62, EL PÁRRAFO PRIMERO Y LA FRACCIÓN VIII DEL ARTÍCULO 64, LA FRACCIÓN XXI DEL ARTÍCULO 65, LA FRACCIÓN VII DEL ARTÍCULO 66, EL INCISO G) DE LA FRACCIÓN I DEL ARTÍCULO 68, LA FRACCIÓN X DEL ARTÍCULO 70; Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 6, UN CAPÍTULO SEXTO DENOMINADO "DEL PROTOCOLO ALBA" AL TÍTULO II "DE LAS MODALIDADES DE LA VIOLENCIA" Y LOS ARTÍCULOS 31 TER, 31 QUÁTER Y 31 QUINQUIES, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Los casos de desaparición o no localización de mujeres, iniciados bajo el Programa de búsqueda denominado Alerta Rosa, se seguirán bajo el procedimiento establecido en el Protocolo Alerta Rosa.
+
+QUINTO. A partir de la entrada en vigor del presente Decreto, la Fiscalía General del Estado de Oaxaca, contará con 45 días naturales para emitir la convocatoria y realizar la instalación del Comité Técnico de Colaboración del Protocolo Alba, apegándose a lo establecido en los diversos instrumentos nacionales e internacionales en materia de Derechos Humanos.
+
+SEXTO. La Fiscalía General del Estado de Oaxaca contará con 45 días naturales, a partir de la instalación del Comité Técnico de Colaboración del Protocolo Alba, para la elaboración y publicación del Protocolo Alba en el Estado de Oaxaca.
