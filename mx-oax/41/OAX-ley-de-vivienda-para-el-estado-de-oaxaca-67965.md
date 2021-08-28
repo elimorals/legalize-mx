@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2020-08-29"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -381,7 +381,9 @@ V. Prestar, en términos de las disposiciones jurídicas aplicables, los servici
 
 VI. Coordinar acciones con el Gobierno del Estado con la finalidad de recibir apoyo para la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda;
 
-VII. Coordinar acciones en materia de suelo y vivienda con otros municipios; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DEL 2021)</small>
+
+VII. Coordinar acciones en materia de suelo y vivienda con otros municipios; para impulsar programas de vivienda social, fomentando la incorporación de ecotecnologías, como el uso de la energía solar, energía eólica, la utilización de letrinas o baños secos, sistemas de captación de agua de lluvia y la utilización de recursos naturales de la región, y
 
 VIII. Las demás previstas en esta Ley.
 
@@ -1029,7 +1031,11 @@ IX. Impulsar y desarrollar modelos educativos para formar especialistas en vivie
 
 X. Investigación, asesoría y apoyo técnico; y
 
-XI. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DEL 2021)</small>
+
+XI. Promover la realización de un dictamen valuatorio basado en los lineamientos técnicos y jurídicos en materia de valuación de vivienda social emitidos por perito valuador certificado; y
+
+XII. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
 ## TÍTULO OCTAVO. DE LA INTEGRACIÓN DE INFORMACIÓN E INDICADORES DE VIVIENDA
 
@@ -1218,3 +1224,11 @@ P.O. 29 DE AGOSTO DEL 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DEL 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2570.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 15, Y SE ADICIONA LA FRACCION XI, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 66 TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
