@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-82750
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2020-10-24"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el día jueves 18 del año 2011.
 
@@ -262,6 +262,10 @@ XII. Expedir, actualizar y publicar la Carta Estatal Pesquera y la Carta Estatal
 XIII. Integrar, operar y mantener actualizado el Registro Estatal de Pesca y Acuacultura;
 
 XIV. Coordinarse con la Federación para todo lo relativo a los periodos de pesca y veda; de siembra y cosecha para el cultivo y producción de especies acuáticas, de acuerdo con las condiciones técnicas, biológicas y de medio ambiente;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XIV Bis. Establecer mecanismos complementarios de apoyo y programas que garanticen el empleo, ingreso y el sustento económico de los pescadores en los periodos de veda;
 
 XV. Coadyuvar, de conformidad con la normatividad aplicable, en medidas de sanidad e inocuidad acuícola y pesquera para prevenir, controlar y erradicar agentes patógenos qué representen un riesgo para las especies acuáticas o para el consumo humano de las mismas;
 
@@ -561,6 +565,10 @@ k) Favorecer la creación de figuras organizativas para la promoción y difusió
 
 l) Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto pesqueros y acuícolas.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+m) Establecer e implementar mecanismos complementarios de apoyo y programas que garanticen el empleo, el ingreso y sustento económico de los pescadores en los periodos de veda.
+
 IV. La SEPESCA implementará políticas de apoyo para la producción de especies acuícolas a los productores y acuacultores del sector social pesquero de la Entidad; y
 
 V. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
@@ -751,9 +759,11 @@ En el caso de los permisos de pesca deportivo-recreativa, sus titulares permisio
 
 Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la SAGARPA/CONAPESCA, conforme a las disposiciones que para tal efecto se emitan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 43.
 
-La pesca de consumo doméstico que efectúen los residentes en las riberas y en las costas, no requiere concesión o permiso, pero sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las normas oficiales que se expidan.
+La pesca de consumo doméstico que efectúen los residentes en las riberas y en las costas, no requiere concesión o permiso, pero sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las normas oficiales que se expidan. En los periodos de veda, el Gobierno del Estado y los Municipios deberán establecer e implementar mecanismos complementarios de apoyo y programas que garanticen el empleo, el ingreso y el sustento económico de los pescadores y sus familias.
 
 Las cantidades permitidas por pesquería o especie se especificarán en la LGPAS y en las disposiciones legales que expida la autoridad federal competente.
 
@@ -1226,3 +1236,11 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan y contravengan el presente Decreto.
 
 CUARTO. El Titular del Poder Ejecutivo del Estado deberá adoptar y realizar las acciones necesarias; así como disponer de los recursos necesarios para dar cumplimiento al presente.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2535.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 43; Y SE ADICIONAN LA FRACCIÓN XIV BIS AL ARTÍCULO 9; Y EL INCISO M) DE LA FRACCIÓN III DEL ARTÍCULO 24, DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
