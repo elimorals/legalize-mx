@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1395
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-11"
-last_updated: "2021-03-06"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY QUE REGULA LA PRESTACION DE SERVICIOS PARA LA ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Anexo al No. 99 del Periódico Oficial del Estado de Chihuahua, el miércoles 11 de diciembre de 2019.
 
@@ -161,6 +163,10 @@ La interpretación administrativa de las disposiciones contenidas en la presente
 
 Niñas, niños y adolescentes serán las personas beneficiarias de los servicios que brinden los Centros de Atención Infantil en relación con la atención, cuidado y su desarrollo integral.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Así mismo, se garantizará que niñas, niños y adolescentes en situación de orfandad por causa de feminicidio, sean beneficiarios de los servicios que brinden los Centros de Atención Infantil.
+
 ###### Artículo 12.
 
 Los servicios en materia de cuidados infantiles deberán otorgarse con calidad, calidez, seguridad y protección, en condiciones de igualdad, sin discriminación de ningún tipo y con pleno respeto de los derechos humanos.
@@ -187,9 +193,11 @@ Los Centros de Atención Infantil que acepten niñas y niños mayores de cuatro 
 
 ### Capítulo III. De los Derechos de las Personas Beneficiarias
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 16.
 
-Niñas, niños y adolescentes tienen derecho a recibir los servicios para la atención, cuidado y desarrollo integral infantil en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad con el fin de garantizar el interés superior de la niñez.
+Niñas, niños y adolescentes tienen derecho a recibir los servicios para la atención, cuidado y desarrollo integral infantil en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad, con el fin de garantizar el interés superior de la niñez. En tal virtud se deberá garantizar que cuenten con el acceso a la justicia y reparación integral, en aquellos casos en los que sean víctimas de violencia dentro de los Centros de Atención Infantil.
 
 ###### Artículo 17.
 
@@ -212,6 +220,10 @@ VII. Recibir orientación y educación apropiada acorde con su edad, enfocadas a
 VIII. Disfrutar de tiempo de descanso, juego y esparcimiento.
 
 IX. Recibir cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+X. El acceso a la justicia y reparación integral en los casos de niñas, niños y adolescentes víctimas de violencia, dentro de los Centros de Atención Infantil.
 
 Cuando los servicios se proporcionen de manera directa por autoridades estatales y municipales, además de cumplir con los derechos anteriores, niñas, niños y adolescentes deberán recibir un trato intercultural acorde al grupo poblacional que se atienda.
 
@@ -250,6 +262,12 @@ Las personas prestadoras de servicios están obligadas a integrar en los Centros
 Lo anterior no exime de la obligación que las instituciones de seguridad social de orden estatal o municipal tienen con sus derechohabientes y demás beneficiarios, de proporcionarles los servicios para atender las diferentes discapacidades.
 
 Independientemente del tipo, modalidad y modelo de atención adoptado, los Centros de Atención Infantil deberán implementar los conceptos de diseño universal y ajustes razonables que permitan la accesibilidad de personas con discapacidad, de conformidad con lo dispuesto en la Ley para la Inclusión y Desarrollo de las Personas con Discapacidad en el Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 19 Bis.
+
+Las personas prestadoras de servicios priorizarán la integración en los Centros de Atención Infantil, de niñas, niños y adolescentes en condición de orfandad cuyas madres hayan sido víctimas de feminicidio, pudiendo brindarles atención psicológica, como un elemento complementario en sus modelos de atención.
 
 ###### Artículo 20.
 
@@ -623,7 +641,9 @@ VI. Fomentar la igualdad entre mujeres y hombres con perspectiva de género.
 
 VII. Garantizar el cumplimiento de criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo Estatal, a partir de los requerimientos y características de los modelos de atención.
 
-VIII. Implementar mecanismos de participación de madres y padres de familia, de quienes ejercen la tutela de niñas, niños y adolescentes, así como de aquellas personas responsables de su cuidado y crianza, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención Infantil.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+VIII. Implementar mecanismos de participación de madres y padres de familia, de quienes ejercen la tutela de niñas, niños y adolescentes, así como de aquellas personas que integren su núcleo familiar, y sean responsables de su cuidado y crianza, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención Infantil.
 
 IX. Generar acciones afirmativas para garantizar la igualdad sustantiva y no discriminación de los pueblos y comunidades indígenas, proporcionando acompañamiento y asesoría necesaria cuando opten por la apertura de Centros de Atención Infantil en sus comunidades.
 
@@ -1004,3 +1024,19 @@ Concluido el plazo señalado en el párrafo que antecede, la autoridad competent
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado de Chihuahua, deberá realizar las adecuaciones necesarias en el Reglamento de la Ley, dentro de los 60 días naturales siguientes a la entrada en vigor del presente Decreto, respecto a la operatividad y funcionamiento de la presente reforma.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1051/2021 XIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de enero del año 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, destinará los recursos necesarios a las diversas Secretarías que conforman el Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, para la creación, manejo e implementación del Sistema Informático de Registro de Casos de Riesgo Feminicida. En lo subsecuente, se harán las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, se tomarán las previsiones para el inicio y funcionamiento de las figuras e instancias previstas en el mismo.
