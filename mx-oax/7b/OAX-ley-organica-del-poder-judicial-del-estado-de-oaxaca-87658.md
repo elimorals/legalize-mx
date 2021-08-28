@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2021-05-15"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -815,7 +815,9 @@ XVIII. Nombrar y remover, a propuesta del presidente consejero, al secretario ej
 
 XIX. Integrar las comisiones que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura y señalarles su duración, objeto y funciones:
 
-XX. Verificar el cumplimiento de los requisitos de ley y aplicar el examen de oposición para los candidatos a ocupar los cargos de magistrados del Tribunal Superior de Justicia y Tribunales Especializados; y remitir al Gobernador del Estado una lista que contenga ocho candidatos por cada vacante;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XX. Verificar el cumplimiento de los requisitos de ley, adoptar las acciones afirmativas para lograr la paridad de género en las magistraturas, aplicar el examen de oposición para las candidaturas a ocupar los cargos de magistraturas del Tribunal Superior de Justicia y Tribunales Especializados; y remitir a la persona titular del Poder Ejecutivo del Estado una lista que contenga ocho candidaturas por cada vacante en términos del artículo 102 de la Constitución local.
 
 XXI. Acordar las renuncias que presenten los jueces del Poder Judicial, su retiro forzoso o voluntario y suspender en sus cargos a los jueces del Poder Judicial a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
 
@@ -2782,3 +2784,11 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2425.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 60, LA FRACCIÓN III DEL ARTÍCULO 95 Y SE ADICIONA LA FRACCIÓN VII AL PRIMER PÁRRAFO DEL ARTÍCULO 60 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2529.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 52 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
