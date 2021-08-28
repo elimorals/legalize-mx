@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-06-12"
+last_updated: "2021-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -517,7 +517,9 @@ XIII.- Cambiar con la aprobación de la mayoría calificada la cabecera municipa
 
 XIV.- Calificar los casos en que las sesiones de Cabildo sean privadas;
 
-XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los programas de obras correspondientes;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2021)</small>
+
+XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los programas de obras correspondientes, preservando; la historia, la cultura, las lenguas indígenas, las tradiciones y costumbres de los pueblos y comunidades indígenas y Afromexicanos, su protección legal y el respeto a ser consultados para su formulación.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
@@ -884,6 +886,10 @@ II.- Extraordinarias, aquellas que realizarán cuantas veces sea necesario para 
 III.- Solemnes, aquellas que se revisten de un ceremonial especial.
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el Recinto Oficial o en el lugar que habilite o lo acuerde el Ayuntamiento con el voto calificado de sus integrantes, y las solemnes en el lugar que para tal efecto acuerde el Cabildo, por mayoría simple, mediante declaratoria oficial.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Las sesiones ordinarias y solemnes serán convocadas con al menos 48 horas de anticipación.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -1487,9 +1493,17 @@ XXXII.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el
 
 XXXIII.- Atender los requerimientos de información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse en el primer año de ejercicio.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XXXIV.- Diseñar e Implementar programas de reforestación de especies arbóreas endémicas, para el entorno y la infraestructura urbana en las vías secundarias de las demarcaciones territoriales;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XXXV.- Promover y fomentar entre las personas el cuidado de las áreas verdes en el entorno inmediato a su domicilio; y
+
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XXXIV.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
+XXXVI.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2102,6 +2116,10 @@ III.- Los fideicomisos públicos, en los que el fideicomitente será el ayuntami
 ###### ARTÍCULO 102.
 
 Los servicios públicos y la administración pública paramunicipal se regularán teniendo en cuenta la Ley de Planeación.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+Los Municipios podrán crear Institutos Municipales de Planeación o Institutos Microregionales de Planeación, según sea el caso, como organismos públicos descentralizados de las administraciones municipales, con personalidad jurídica y patrimonio propio, en los términos de la Ley Estatal de Planeación y la Ley de Planeación, Desarrollo Administrativo y Servicios Públicos Municipales.
 
 ## TÍTULO SEXTO. DE LA HACIENDA Y PATRIMONIO MUNICIPAL
 
@@ -4218,3 +4236,35 @@ P.O. 12 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2537.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 46 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. - Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2539.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XXXIV Y XXXV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 68, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2589.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 102 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2590.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
