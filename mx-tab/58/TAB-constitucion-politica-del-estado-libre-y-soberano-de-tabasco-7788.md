@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2021-08-26"
+last_updated: "2021-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2021.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1481,11 +1481,15 @@ Cuando el Gobernador solicite licencia para separarse del cargo hasta por sesent
 
 Si la falta temporal se convierte en absoluta, se procederá como dispone el artículo anterior.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 49.
 
-El Gobernador no podrá ausentarse del territorio del Estado ni separarse del ejercicio de sus funciones por más de sesenta días, sin permiso de la Legislatura.
+Después del segundo año del periodo respectivo, el Gobernador Constitucional podrá solicitar licencia para separarse del ejercicio de sus funciones por tiempo indefinido, la cual será autorizada por el Congreso.
+
+Una vez autorizada la licencia a que se refiere el párrafo anterior, el Congreso procederá de forma inmediata a nombrar un Gobernador Interino. Si el Congreso no estuviese en sesiones, la Comisión Permanente lo convocará inmediatamente a sesión extraordinaria para tales efectos. A quien sea nombrado no le será aplicable lo establecido en las fracciones II y IV del artículo 44 de esta Constitución.
+
+Para reincorporarse al ejercicio de sus funciones, el Gobernador Constitucional con licencia informará por escrito al Presidente del Congreso, quien tomará la nota correspondiente, notificará de inmediato al Gobernador Interino para que cese en el ejercicio del cargo en la fecha que se indique, haciéndolo del conocimiento del Pleno en su oportunidad.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -3748,3 +3752,11 @@ SEGUNDO. Los diputados electos por el principio de representación proporcional 
 TERCERO. Dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto, se realizarán las reformas necesarias a la legislación que corresponda, a fin de armonizarlas con las disposiciones establecidas en el presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 303 POR EL QUE "SE REFORMA EN SU INTEGRIDAD EL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
