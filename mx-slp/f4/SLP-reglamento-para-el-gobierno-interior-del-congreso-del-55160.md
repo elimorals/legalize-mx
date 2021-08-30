@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2021-02-27"
+last_updated: "2021-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1923,9 +1923,9 @@ X. Mantener actualizado el inventario de inmuebles, muebles y equipo, así como 
 
 XI. Controlar y disponer que se realice el servicio de intendencia, conservación y limpieza del recinto del Congreso;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-XII. Ser directamente responsable del cuidado y control del archivo administrativo e histórico del Congreso, conforme a lo que establece la Ley de Archivos del Estado de San Luis Potosí, y
+XII. Verificar el funcionamiento del archivo administrativo; y la implementación de políticas y estrategias de preservación del archivo histórico del Congreso, conforme a lo que establece la Ley de Archivos del Estado de San Luis Potosí, y
 
 XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
@@ -2964,3 +2964,11 @@ P.O. 27 DE FEBRERO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1240.-SE REFORMA EL ARTÍCULO 177 EN SU FRACCIÓN XII, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
