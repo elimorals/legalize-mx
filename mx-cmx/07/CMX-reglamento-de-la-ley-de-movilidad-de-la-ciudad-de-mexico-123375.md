@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2021-05-28"
+last_updated: "2021-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE AGOSTO DE 2021.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -568,15 +568,37 @@ El promovente debe solicitar la prórroga por escrito a la Secretaría, dentro d
 
 #### SECCIÓN PRIMERA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PÚBLICO MASIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 47.
 
-El servicio público de transporte de pasajeros de tipo masivo, forma parte del Sistema Integrado de Transporte Público, y se prestará mediante los siguientes sistemas:
+El servicio público de transporte de pasajeros de tipo masivo, forma parte del Sistema Integrado de transporte Público y se prestará mediante los siguientes sistemas:
 
 I. El Sistema de Transporte Colectivo “Metro”;
 
-II. El Servicio de Transportes Eléctricos de la Ciudad de México;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE AGOSTO DE 2021)</small>
 
-III. Sistema de Movilidad M1, y
+II. El Servicio de Transportes Eléctricos de la Ciudad de México, el cual a su vez se conforma de:
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2021)</small>
+
+a) Tren Ligero;
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2021)</small>
+
+b) Trolebús;
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2021)</small>
+
+c) Trolebús concesionado; y
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2021)</small>
+
+d) Cablebús.
+
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Red de Transporte Público de Pasajeros de la Ciudad de México (RTP).
 
 IV. Otros que establezca el Jefe de Gobierno mediante Decreto.
 
@@ -603,6 +625,10 @@ VII. Servicio Ordinario de Corredores de Transporte Público Colectivo: Es el qu
 > <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
 
 VIII. Servicio Zonal.
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2021)</small>
+
+IX. Servicio de Trolebús concesionado.
 
 Los servicios directo, exprés, así como ejecutivo de corredores pueden tener tarifa diferencial previa solicitud, presentación de estudios técnicos y autorización correspondiente.
 
@@ -912,9 +938,9 @@ IV. Número de concesión;
 
 V. Vigencia de la concesión;
 
-> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. Modalidad del servicio de transporte de Pasajeros Público, Individual, de Ruta, Corredor, Zonal o de Carga;
+VI. Modalidad del servicio de transporte de Pasajeros Público, Individual, de Ruta, Corredor, Zonal, Trolebús concesionado, o de Carga;
 
 VII. Derechos y obligaciones del concesionario;
 
@@ -3629,3 +3655,13 @@ TERCERO. La expedición de la licencia para conducir Tipo A1, y Tipo A2 entrará
 CUARTO. Las licencias para conducir Tipo “A” expedidas con anterioridad a la entrada en vigor de las licencias para conducir Tipos A1 y A2, serán válidas para la conducción de automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas, así como para motocicletas, bicimotos, triciclos automotores, tetramotos y motonetas, hasta por el plazo de su vigencia. Además, para el caso de reposición de licencias Tipo “A”, éstas surtirán la misma suerte, hasta por el plazo de la vigencia que falte para la expiración del documento.
 
 QUINTO. Para el caso de expedición de nuevas licencias tipo “A” y la renovación de licencias tipo “A” cuya vigencia haya vencido al 31 de julio de 2021, se deberá apegar a lo establecido en el presente Decreto.
+
+G.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, 48 Y 73 DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día de su publicación.
+
+TERCERO. El Organismo Regulador de Transporte continuará y concluirá las gestiones administrativas ante las instancias correspondientes para la liberación del derecho de vía hasta su culminación. Una vez hecho lo anterior, coadyuvará con las gestiones, dentro del ámbito de su competencia, para la entrega del proyecto y la asignación de los inmuebles a la Entidad Paraestatal (sic) Servicio de Transportes Eléctricos.
