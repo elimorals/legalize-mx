@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-de-guanajuato-131903"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-10-30"
-last_updated: "2018-10-30"
+last_updated: "2021-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131903&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
 
 Estatuto publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de octubre de 2018.
 
@@ -57,9 +57,13 @@ II. La integración, competencia y funcionamiento de sus órganos colegiados de 
 
 III. El procedimiento para la designación, sustitución y suplencia de las autoridades ejecutivas;
 
-IV. Las atribuciones del Director de Escuela;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-V. Las funciones del Secretario General y de los Secretarios Académicos; y
+IV. Las atribuciones de quien detente la titularidad de la Dirección de la Escuela;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Las funciones de quien detente la titularidad de la Secretaría General y de las Secretarías Académicos (sic); y
 
 VI. Los medios de impugnación.
 
@@ -81,11 +85,41 @@ Organización académica y administrativa
 
 La Universidad contará con una organización funcional académico administrativa desconcentrada y organizada en distintas sedes distribuidas en Campus que presten los servicios educativos en el nivel superior; así como la relativa al nivel medio superior, distribuida en Escuelas.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 Equivalencia semántica
 
 ###### Artículo 4.
 
-Para los efectos de este Estatuto y demás ordenamientos que apruebe la Universidad en ejercicio de la facultad que le confieren los artículos 6, fracción X y 57 de la Ley Orgánica, se entenderá que se hace referencia a los alumnos cuando se utilice el término estudiante.
+Para los efectos de este Estatuto y demás ordenamientos que apruebe la Universidad en ejercicio de la facultad que le confieren los artículos 6, fracción X y 57 de la Ley Orgánica, se entenderá que se hace referencia a:
+
+I. Los alumnos cuando se utilice el término estudiante o personas integrantes de la comunidad estudiantil;
+
+II. Los profesores de carrera cuando se utilice el término de profesoras y profesores de carrera, personas integrantes o elementos del profesorado de carrera;
+
+III. Los Directores de Departamento, cuando se refiera a las autoridades ejecutivas de los Departamentos o a la Directora o Director del Departamento;
+
+IV. El secretario del órgano colegiado, cuando se haga referencia a la persona que detente la secretaría del órgano colegiado;
+
+V. Profesores del Departamento, cuando se refiera al profesorado;
+
+VI. El Rector General, cuando se refiera a la persona titular de la Rectoría General;
+
+VII. El Secretario General, cuando se haga referencia a la persona titular de la Secretaría General;
+
+VIII. Los Rectores de Campus, cuando se refiera a las personas titulares de las Rectorías de Campus;
+
+IX. El Director del Colegio del Nivel Medio Superior, cuando se haga referencia a la persona titular de la Dirección del Colegio del Nivel Medio Superior;
+
+X. Los Directores de División, cuando se refiera a las personas titulares de las Direcciones de División;
+
+XI. El Secretario Académico, cuando se haga referencia a la persona titular de la Secretaría Académica;
+
+XII. Los Directores de las Escuelas, cuando se refiera a la persona titular de la Dirección de las Escuelas;
+
+XIII. El Presidente del órgano colegiado, cuando se haga referencia a la Presidencia y a la Presidenta o Presidente, y
+
+XIV. Los Rectores de Campus, los Directores de División, los Directores de Departamento y el Director del Colegio del Nivel Medio Superior, cuando se haga referencia a las autoridades ejecutivas de los Campus, de las Divisiones, de los Departamentos y del Colegio del Nivel Medio Superior.
 
 ### CAPÍTULO SEGUNDO. SUBSISTEMA DEL NIVEL SUPERIOR
 
@@ -103,15 +137,25 @@ De conformidad con lo dispuesto por el artículo 13 de la Ley Orgánica, en la c
 
 CAMPUS es la entidad académico-administrativa que se integra por una o más Divisiones para posibilitar el desarrollo interdisciplinario, la movilidad y flexibilidad de los programas académicos. A fin de favorecer la unidad institucional, propiciará su desarrollo en colaboración con otros Campus y con el subsistema del nivel medio superior mediante planes, programas y proyectos específicos que hagan posible su desarrollo inter y transdisciplinario y transversal.
 
-DIVISIÓN es la entidad académica integrada en los Campus, constituida por Departamentos en razón de su similitud o afinidad disciplinar u objeto de estudio. A ella se adscribirán los programas educativos y los estudiantes. Se conformará con un mínimo de tres Departamentos, de los cuales al menos dos corresponderán a disciplinas diferentes.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-DEPARTAMENTO es la entidad académica básica para la realización de las funciones esenciales de la Universidad. Se conformará por profesores integrados con base en la afinidad de intereses disciplinares o temáticos. Deberá estar integrado con ocho o más profesores de carrera y los adscritos de tiempo parcial e invitados en los términos de este ordenamiento. De los profesores de carrera, cuatro o más deberán contar con posgrado, particularmente dos o más con grado de doctor. Deberán tener, al menos, una línea de investigación con productividad probada.
+DIVISIÓN es la entidad académica integrada en los Campus, constituida por Departamentos en razón de su similitud o afinidad disciplinar u objeto de estudio. A ella se adscribirán los programas educativos y las y los estudiantes. Se conformará con un mínimo de tres Departamentos, de los cuales al menos dos corresponderán a disciplinas diferentes.
 
-Los profesores del Departamento, con base en su perfil académico, experiencia y desarrollo profesional, deberán participar integralmente en los programas educativos, y atender las prioridades de estos. Igualmente podrán participar en programas educativos de una o más entidades académicas.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Con la finalidad de privilegiar la consistencia académica de los Departamentos, los profesores estarán adscritos a aquel que corresponda a su mayor afinidad disciplinar. Sólo en caso de que no se afecte lo previsto en el párrafo 4 de este artículo, los profesores podrán ser adscritos atendiendo a sus actividades o perfil profesional.
+DEPARTAMENTO es la entidad académica básica para la realización de las funciones esenciales de la Universidad. Se conformará por profesoras y profesores integrados con base en la afinidad de intereses disciplinares o temáticos. Deberá estar integrado con ocho o más elementos del profesorado de carrera y los adscritos de tiempo parcial e invitados en los términos de este ordenamiento. Del profesorado de carrera, cuatro o más deberán contar con posgrado, particularmente dos o más con doctorado. Deberán tener, al menos, una línea de investigación con productividad probada.
 
-En cumplimiento a lo dispuesto en la fracción V del artículo 32 de la Ley Orgánica, los Directores de Departamento diseñarán los mecanismos institucionales que garanticen la vida colegiada en los Departamentos, a efecto de optimizar los resultados académicos de vanguardia en las áreas disciplinares que trabajen y, de esta manera, consolidar las líneas de investigación que se desarrollan y benefician a los programas educativos en los que inciden.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+El profesorado del Departamento, con base en su perfil académico, experiencia y desarrollo profesional, deberán participar integralmente en los programas educativos, y atender las prioridades de estos. Igualmente podrán participar en programas educativos de una o más entidades académicas.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Con la finalidad de privilegiar la consistencia académica de los Departamentos, las profesoras y los profesores estarán adscritos a aquel que corresponda a su mayor afinidad disciplinar. Sólo en caso de que no se afecte lo previsto en el párrafo 4 de este artículo, las profesoras y los profesores podrán ser adscritos atendiendo a sus actividades o perfil profesional.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+En cumplimiento a lo dispuesto en la fracción V del artículo 32 de la Ley Orgánica, las autoridades ejecutivas de los Departamentos diseñarán los mecanismos institucionales que garanticen la vida colegiada en los Departamentos, a efecto de optimizar los resultados académicos de vanguardia en las áreas disciplinares que trabajen y, de esta manera, consolidar las líneas de investigación que se desarrollan y benefician a los programas educativos en los que inciden.
 
 Los Campus, Divisiones o Departamentos podrán desarrollar sus funciones esenciales en cualquier modalidad conforme al Modelo Educativo que adopte la Universidad y en los términos que se establezcan en el reglamento respectivo.
 
@@ -135,11 +179,13 @@ Los mecanismos y procedimientos que se diseñen para el funcionamiento de las mi
 
 La Dirección del Colegio del Nivel Medio Superior cuidará que las Escuelas acaten lo establecido en el Modelo Educativo, así como en los acuerdos emitidos por la dependencia de educación a nivel federal, que permiten contar con un referente y esquema para fines de actualizar los programas dentro de un marco curricular común que incida en la acreditación nacional.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 Escuela
 
 ###### Artículo 9.
 
-Escuela es la entidad académica responsable de ofrecer la educación de nivel medio superior que permita a sus egresados aspirar a la educación superior o a un mayor desarrollo personal o laboral, además de fomentar en los estudiantes una conciencia social, solidaria y participativa.
+Escuela es la entidad académica responsable de ofrecer la educación de nivel medio superior que permita a quienes egresen de ella aspirar a la educación superior o a un mayor desarrollo personal o laboral, además de fomentar en la comunidad estudiantil una conciencia social, solidaria y participativa.
 
 ## TÍTULO TERCERO. GOBIERNO DE LA UNIVERSIDAD
 
@@ -179,13 +225,17 @@ Inicio de vigencia de los acuerdos
 
 Los acuerdos y resoluciones de los órganos colegiados de gobierno y los de cualquier autoridad ejecutiva que sean de observancia general, iniciarán su vigencia en la fecha que éstos indiquen, siempre que primero sean publicados en la Gaceta Universitaria. A falta de indicación del inicio de su vigencia o cuando ésta sea anterior a su publicación, los acuerdos y resoluciones serán obligatorios a partir del día hábil siguiente al de su publicación.
 
-Corresponde al Secretario del órgano colegiado de gobierno de que se trate, gestionar la publicación correspondiente en los plazos previstos en el artículo 42 de este ordenamiento.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Secretarios de órganos colegiados de gobierno
+Corresponde a la persona que detente la Secretaría del órgano colegiado de gobierno de que se trate, gestionar la publicación correspondiente en los plazos previstos en el artículo 42 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Secretaría de los órganos colegiados de gobierno
 
 ###### Artículo 15.
 
-Los Secretarios de los órganos colegiados de gobierno tendrán voz, pero no voto, a excepción de que se trate de un miembro del órgano elegido específicamente para fungir como tal en una sesión por ausencia del Secretario titular. Estarán dotados de fe pública en el ejercicio de sus funciones.
+Las personas que detenten la Secretaría de los órganos colegiados de gobierno tendrán voz, pero no voto, a excepción de que se trate de una persona integrante del órgano, elegida específicamente para fungir como tal en una sesión por ausencia de quien detente la Secretaría. Estarán dotadas de fe pública en el ejercicio de sus funciones.
 
 ### CAPÍTULO SEGUNDO. INTEGRACIÓN Y COMPETENCIA DE LOS ÓRGANOS COLEGIADOS DE GOBIERNO
 
@@ -195,21 +245,37 @@ Consejo General Universitario
 
 De conformidad con lo establecido por el artículo 15 de la Ley Orgánica, el Consejo General Universitario es el órgano de gobierno de mayor jerarquía de la Universidad. Se integrará por:
 
-I. El Rector General, quien lo presidirá;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. El Secretario General, quien lo será también de este cuerpo colegiado;
+I. La persona titular de la Rectoría General, quien lo presidirá;
 
-III. Los Rectores de Campus;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. El Director del Colegio del Nivel Medio Superior;
+II. La persona titular de la Secretaría General, quien lo será también de este cuerpo colegiado;
 
-V. Los Directores de División;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. Un profesor representante del personal académico y un estudiante representante de cada División;
+III. Las personas titulares de las Rectorías de Campus;
 
-VII. Tres profesores miembros del personal académico y tres estudiantes representantes del Colegio del Nivel Medio Superior; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VIII. Un representante del personal administrativo.
+IV. La persona titular de la Dirección del Colegio del Nivel Medio Superior;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Las personas titulares de las Direcciones de División;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Una profesora o profesor representante del personal académico y un estudiante representante de cada División;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII. Tres integrantes del profesorado representantes del personal académico y tres estudiantes representantes del Colegio del Nivel Medio Superior; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII. Una persona representante del personal administrativo.
 
 El Consejo General Universitario, para el adecuado cumplimiento de la conducción general de la Universidad, cuenta con las atribuciones reguladas en el artículo 16 de la Ley Orgánica.
 
@@ -219,15 +285,25 @@ Consejo Universitario de Campus
 
 Cada Consejo Universitario de Campus, conforme a lo establecido por el artículo 23 de la Ley Orgánica, se integrará por:
 
-I. El Rector de Campus, quien lo presidirá;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. El Secretario Académico del Campus, quien será el Secretario de este cuerpo colegiado;
+I. La persona titular de la Rectoría de Campus, quien lo presidirá;
 
-III. Los Directores de División;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Los Directores de Departamento; y
+II. La persona titular de la Secretaría Académica del Campus, quien lo será de este cuerpo colegiado;
 
-V. Un profesor representante del personal académico por cada Departamento y, en igual número, representantes de los estudiantes de la División correspondiente.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Las personas titulares de las Direcciones de División;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Las personas titulares de las Direcciones de Departamento; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Una profesora o profesor representante del personal académico por cada Departamento y, en igual número, representantes de los estudiantes de la División correspondiente.
 
 Las atribuciones del Consejo Universitario de Campus están definidas en el artículo 24 de la Ley Orgánica.
 
@@ -237,13 +313,21 @@ Consejo Divisional
 
 En los términos del artículo 27 de la Ley Orgánica, cada Consejo Divisional se integrará por:
 
-I. El Director de la División, quien lo presidirá;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. El Secretario Académico de la División, quien será el Secretario de este cuerpo colegiado;
+I. La persona titular de la Dirección de la División, quien lo presidirá;
 
-III. Los Directores de los Departamentos adscritos a la División; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Un profesor representante del personal académico por cada Departamento y, en igual número, representantes de los estudiantes de la División.
+II. La persona titular de la Secretaría Académica de la División, quien lo será de este cuerpo colegiado;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Las personas titulares de las Direcciones de los Departamentos adscritos a la División; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Una profesora o profesor representante del personal académico por cada Departamento y, en igual número, representantes de los estudiantes de la División.
 
 Las atribuciones del Consejo Divisional están definidas en el artículo 28 de la Ley Orgánica.
 
@@ -253,13 +337,21 @@ Consejo Académico del Nivel Medio Superior
 
 En los términos de lo dispuesto por el artículo 33 de la Ley Orgánica, el Consejo Académico del Nivel Medio Superior estará integrado por:
 
-I. El Director del Colegio de Nivel Medio Superior, quien lo presidirá;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. El Secretario Académico del Colegio, quien será el Secretario de este cuerpo colegiado;
+I. La persona titular de la Dirección del Colegio de Nivel Medio Superior, quien lo presidirá;
 
-III. Los Directores de las Escuelas; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Un profesor y un estudiante que representarán al personal académico y a los estudiantes de cada Escuela.
+II. La persona titular de la Secretaría Académica del Colegio, quien lo será de este cuerpo colegiado;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Las personas titulares de las Direcciones de las Escuelas; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Una profesora o profesor y un estudiante que representarán al personal académico y a los estudiantes de cada Escuela, respectivamente.
 
 Las atribuciones del Consejo Académico del Nivel Medio Superior están definidas en el artículo 34 de la Ley Orgánica.
 
@@ -269,11 +361,17 @@ Academias de las Escuelas
 
 En los términos de lo dispuesto por el artículo 37 de la Ley Orgánica, la Academia de cada Escuela estará integrada por:
 
-I. El Director de Escuela, quien la presidirá;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. El Secretario Académico, quien será el Secretario de ese órgano colegiado de gobierno; y
+I. La persona titular de la Dirección de Escuela, quien la presidirá;
 
-III. Seis profesores representantes del personal académico, procurando se cubran las áreas de conocimiento, y en igual número representantes de los estudiantes.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. La persona titular de la Secretaría Académica, quien lo será de ese órgano colegiado de gobierno; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Seis integrantes del profesorado representantes del personal académico, procurando se cubran las áreas de conocimiento, y en igual número representantes de los estudiantes.
 
 Atribuciones de las Academias de las Escuelas
 
@@ -287,15 +385,23 @@ II. Expedir los lineamientos en los asuntos que le competan;
 
 III. Cuidar que la educación ofrecida se imparta de manera integral y con calidad;
 
-IV. Discutir y aprobar el programa de trabajo pertinente para la docencia, que presentará el Director de la Escuela, enmarcado en el programa respectivo del Colegio del Nivel Medio Superior;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-V. Proponer al Consejo Académico del Nivel Medio Superior, previo dictamen sobre trayectorias y proyectos, candidatos a Director de Escuela, o bien, declarar desierta la convocatoria cuando ningún candidato inscrito cumpla los requisitos exigidos;
+IV. Discutir y aprobar el programa de trabajo pertinente para la docencia, que presentará la persona titular de la Dirección de la Escuela, enmarcado en el programa respectivo del Colegio del Nivel Me dio (sic) Superior;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Proponer al Consejo Académico del Nivel Medio Superior, previo dictamen sobre trayectorias y proyectos, personas candidatas a la Dirección de la Escuela, o bien, declarar desierta la convocatoria cuando ninguna persona candidata inscrita cumpla los requisitos exigidos;
 
 VI. Proponer la creación o modificación de los programas de las unidades de aprendizaje y someterlos para su opinión o aprobación al Consejo Académico del Nivel Medio Superior;
 
-VII. Estudiar y dictaminar los proyectos o iniciativas que presenten el Director de Escuela, los profesores o los estudiantes;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VIII. Hacer observaciones a los acuerdos del Consejo Académico del Nivel Medio Superior y del Director del Colegio del Nivel Medio Superior, que incidan en el ámbito académico de la Escuela. Dichas observaciones tendrán el efecto de someter el asunto sobre el que recaigan las observaciones a la decisión o reconsideración de la autoridad que corresponda;
+VII. Estudiar y dictaminar los proyectos o iniciativas que presenten la persona titular de la Dirección de Escuela, integrantes del profesorado o de su comunidad estudiantil;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII. Hacer observaciones a los acuerdos del Consejo Académico del Nivel Medio Superior y de la persona titular de la Dirección del Colegio del Nivel Medio Superior, que incidan en el ámbito académico de la Escuela. Dichas observaciones tendrán el efecto de someter el asunto sobre el que recaigan las observaciones a la decisión o reconsideración de la autoridad que corresponda;
 
 IX. Proponer al Consejo Académico del Nivel Medio Superior la adopción de medidas que se estimen favorables a los intereses de la Escuela;
 
@@ -303,51 +409,63 @@ X. Integrar y asignar las comisiones para el mejor cumplimiento de las funciones
 
 XI. Conocer las modificaciones curriculares en cuanto a la planeación, diseño, rediseño y evaluación de los programas educativos actuales, del Bachillerato General y del Bachillerato Bivalente;
 
-XII. Fungir como cuerpo consultivo en los asuntos administrativos que le someta el Director de Escuela; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XII. Fungir como cuerpo consultivo en los asuntos administrativos que le someta la persona titular de la Dirección de Escuela; y
 
 XIII. Las demás que le señalen este Estatuto, así como los reglamentos y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Suplencias
 
 ###### Artículo 22.
 
-En las sesiones del Consejo General Universitario, en ausencia del Rector General, presidirá la sesión el Secretario General.
+En las sesiones del Consejo General Universitario, en ausencia de la persona titular de la Rectoría General, presidirá la sesión quien detente la Secretaría General.
 
-En las sesiones de los órganos colegiados de gobierno, en ausencia del Presidente presidirá la sesión el Secretario, eligiéndose de entre los representantes presentes al que se desempeñará como Secretario del órgano en la sesión respectiva.
+En las sesiones de los órganos colegiados de gobierno, en ausencia de quien ostente la Presidencia, presidirá la sesión quien ostente la Secretaría, eligiéndose de entre las personas representantes presentes a quien desempeñará la Secretaría del órgano en la sesión respectiva.
 
-En la ausencia del Secretario se elegirá de entre los representantes presentes a quien funja como Secretario del órgano en la sesión respectiva.
+En la ausencia de la persona que detente la Secretaría se elegirá de entre las personas representantes presentes a quien funja como Secretaria o Secretario del órgano en la sesión respectiva.
 
-En ausencia por causa justificada de los Rectores de Campus, Directores de División, Director del Colegio del Nivel Medio Superior y Directores de Escuelas del Nivel Medio Superior, asistirá el Secretario Académico que corresponda. En el caso de los Directores de Departamento, asistirá a las sesiones la persona que el Director respectivo haya designado como su suplente. La suplencia de los Directores de Departamento, no podrá recaer en miembros titulares del órgano respectivo ni en sus suplentes.
+En ausencia por causa justificada de las autoridades ejecutivas de los Campus, de las Divisiones, del Colegio del Nivel Medio Superior y de Escuelas del Nivel Medio Superior, asistirá la persona que detente la Secretaría Académica que corresponda. En el caso de la autoridad ejecutiva del Departamento, asistirá a las sesiones la persona que el Director o Directora correspondiente haya designado como su suplente. La suplencia de las autoridades ejecutivas de las Departamentos, no podrá recaer en integrantes titulares del órgano respectivo ni en sus suplentes.
 
-La persona que el Director de Departamento designe como su suplente deberá ser miembro del mismo Departamento y cumplir con los requisitos para ser Director.
+La persona que el Director o Directora de Departamento designe como su suplente deberá pertenecer al mismo Departamento y cumplir con los requisitos para ser autoridad ejecutiva del Departamento.
 
-En ausencia de los representantes titulares, asistirán a las sesiones sus suplentes, previo aviso al titular de la Secretaría del órgano correspondiente. En el aviso que comunique la ausencia, los representantes titulares deberán exponer las causas que justifican la misma. El aviso se podrá realizar hasta antes del inicio de la sesión correspondiente.
+En ausencia de las personas representantes titulares, asistirán a las sesiones sus suplentes, previo aviso a la Secretaría del órgano correspondiente. En el aviso que comunique la ausencia, las personas representantes titulares deberán exponer las causas que justifican la misma. El aviso se podrá realizar hasta antes del inicio de la sesión correspondiente.
 
 Sesiones públicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 23.
 
-Las sesiones de los órganos colegiados de gobierno serán públicas, salvo que por la naturaleza de los asuntos que se traten se requiera sesionar con reserva a juicio del Presidente del órgano o de la mayoría de los integrantes. El acceso a las sesiones también se podrá restringir para preservar el orden o por cuestiones de seguridad.
+Las sesiones de los órganos colegiados de gobierno serán públicas, salvo que por la naturaleza de los asuntos que se traten se requiera sesionar con reserva a juicio de quien detente la Presidencia del órgano o de la mayoría de sus integrantes. El acceso a las sesiones también se podrá restringir para preservar el orden o por cuestiones de seguridad.
 
 Se procurará la transmisión en vivo de las sesiones públicas a través de las nuevas tecnologías de la información que se estimen pertinentes.
 
-Los Secretarios de los órganos colegiados de gobierno deberán garantizar la protección de datos personales durante el desarrollo de las sesiones. Además, se deberán de omitir los datos personales en las versiones públicas de los documentos que los impliquen.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Las personas que detenten la secretaría de los órganos colegiados de gobierno deberán garantizar la protección de datos personales durante el desarrollo de las sesiones. Además, se deberán de omitir los datos personales en las versiones públicas de los documentos que los impliquen.
 
 Participación en las sesiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 24.
 
-En el desarrollo de las sesiones sólo podrán participar los propietarios o en ausencia de estos, sus suplentes, y aquellos invitados especiales para cuya presencia sea otorgada la anuencia del órgano correspondiente.
+En el desarrollo de las sesiones sólo podrán participar las personas representantes titulares o en ausencia de estas, sus suplentes, y aquellas personas invitadas especiales para cuya presencia sea otorgada la anuencia del órgano correspondiente.
 
 Cuando en las sesiones se trate algún asunto relacionado con las atribuciones que ejerce la Defensoría de los Derechos Humanos en el Entorno Universitario, su titular podrá asistir con voz pero sin voto, sin que se requiera la anuencia del órgano colegiado de gobierno correspondiente.
 
 ### CAPÍTULO TERCERO. FUNCIONAMIENTO DE LOS ÓRGANOS COLEGIADOS DE GOBIERNO
 
-Orientación y capacitación a miembros electos
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Orientación y capacitación
 
 ###### Artículo 25.
 
-El Secretario del órgano colegiado de gobierno correspondiente orientará y capacitará para su buen desempeño a los miembros electos sobre el funcionamiento del órgano respectivo y sobre los alcances de su representación.
+La Secretaría del órgano colegiado de gobierno correspondiente orientará y capacitará para su buen desempeño a las personas integrantes electas sobre el funcionamiento del órgano respectivo y sobre los alcances de su representación.
 
 Principios
 
@@ -367,9 +485,13 @@ La Presidencia del órgano colegiado de gobierno correspondiente anunciará el c
 
 Las sesiones extraordinarias serán aquellas en las que, por la urgencia de los asuntos, se realicen fuera del calendario de sesiones.
 
-Las sesiones solemnes serán aquellas en las que tomen protesta el Rector General, los Rectores de Campus, el Director del Colegio de Nivel Medio Superior, los Directores de División y los Directores de Escuela o se otorguen distinciones honoríficas o reconocimientos académicos a miembros de la comunidad universitaria o externos a ésta; o las que se decreten con tal carácter.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Cuando la naturaleza o urgencia del asunto lo permita y así se convoque por el Presidente, podrán celebrarse sesiones apoyadas en las tecnologías de la información y comunicación disponibles sin que se requiera la presencia física de los integrantes del órgano.
+Las sesiones solemnes serán aquellas en las que tomen protesta el Rector o la Rectora General, las autoridades ejecutivas de los Campus, del Colegio de Nivel Medio Superior, de las Divisiones y de las Escuelas o se otorguen distinciones honoríficas o reconocimientos académicos a integrantes de la comunidad universitaria o personas externas a ésta; o las que se decreten con tal carácter.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Cuando la naturaleza o urgencia del asunto lo permita y así se convoque por la Presidencia, podrán celebrarse sesiones apoyadas en las tecnologías de la información y comunicación disponibles sin que se requiera la presencia física de las personas integrantes del órgano.
 
 Convocatoria a sesiones
 
@@ -377,7 +499,9 @@ Convocatoria a sesiones
 
 La convocatoria para las sesiones ordinarias será emitida por la autoridad ejecutiva del órgano colegiado de gobierno. Se expedirá, preferentemente, vía electrónica cuando menos con cinco días hábiles de anticipación a la misma, acompañada de la documentación respectiva. Cuando a juicio de la presidencia ésta fuera muy voluminosa, los expedientes completos quedarán depositados en la Secretaría correspondiente.
 
-La convocatoria para las sesiones extraordinarias será expedida, preferentemente, por vía electrónica, por la autoridad ejecutiva del órgano colegiado de gobierno o cuando a éste se lo solicite por escrito al menos al veinticinco por ciento de sus miembros.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+La convocatoria para las sesiones extraordinarias será expedida, preferentemente, por vía electrónica, por la autoridad ejecutiva del órgano colegiado de gobierno o cuando a ésta se lo solicite por escrito al menos el veinticinco por ciento de sus integrantes.
 
 Sesiones extraordinarias
 
@@ -385,77 +509,107 @@ Sesiones extraordinarias
 
 Las sesiones extraordinarias se ocuparán exclusivamente del o los asuntos para los que hayan sido convocadas, deberán celebrarse dentro de los cinco días hábiles siguientes a la convocatoria respectiva, que se hará a través de los medios electrónicos, acompañada de la documentación correspondiente. Cuando a juicio de la presidencia ésta fuera muy voluminosa, los expedientes completos quedarán depositados en la Secretaría.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 Inclusión de asuntos en el orden del día
 
 ###### Artículo 30.
 
-Los miembros de los órganos colegiados de gobierno podrán solicitar fundada y motivadamente la inclusión de asuntos al orden del día, cuando menos con cinco días hábiles antes de la sesión ordinaria, acompañando en todos los casos la documentación respectiva.
+Quienes integran los órganos colegiados de gobierno podrán solicitar fundada y motivadamente la inclusión de asuntos al orden del día, cuando menos con cinco días hábiles antes de la sesión ordinaria, acompañando en todos los casos la documentación respectiva.
 
-Los asuntos generales que se incluyan sólo tendrán por finalidad informar a los asistentes y, en su caso, serán agendados para su desahogo en la sesión que acuerde el órgano colegiado de gobierno, atendiendo a la valoración que otorguen a dichos asuntos.
+Los asuntos generales que se incluyan sólo tendrán por finalidad informar a quienes asistan y, en su caso, serán agendados para su desahogo en la sesión que acuerde el órgano colegiado de gobierno, atendiendo a la valoración que otorguen a dichos asuntos.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Retiro de asuntos del orden del día
 
 ###### Artículo 31.
 
-Cuando el Presidente del órgano colegiado de gobierno juzgue que algún asunto requiere de un mayor análisis, solicitará al Secretario su retiro de la agenda e informará al pleno sobre su incorporación en la siguiente sesión pudiendo ser, a su criterio, de carácter extraordinario.
+Cuando la Presidencia del órgano colegiado de gobierno juzgue que algún asunto requiere de un mayor análisis, solicitará la Secretaría su retiro de la agenda e informará al pleno sobre su incorporación en la siguiente sesión pudiendo ser, a su criterio, de carácter extraordinario.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Quórum
 
 ###### Artículo 32.
 
-El quórum en las sesiones de los órganos colegiados de gobierno se integrará con la presencia de la mitad más uno de sus miembros. Corresponderá al Presidente hacer la declaración del quórum legal, previa lista de presentes verificada por el Secretario.
+El quórum en las sesiones de los órganos colegiados de gobierno se conformará con la presencia de la mitad más uno de sus integrantes. Corresponderá a la Presidencia hacer la declaración del quórum legal, previa lista de presentes verificada por la Secretaría.
 
-Escrutadores
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Escrutadoras o escrutadores
 
 ###### Artículo 33.
 
-En las sesiones de cualquier órgano colegiado de gobierno, el Presidente designará el número de escrutadores que estime pertinente, quienes deberán informar al Secretario la existencia o inexistencia del quórum.
+En las sesiones de cualquier órgano colegiado de gobierno, la Presidencia designará el número de escrutadoras o escrutadores que estime pertinente, quienes deberán informar a la Secretaría la existencia o inexistencia del quórum.
 
 Segunda convocatoria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 34.
 
-Si en la fecha señalada en la convocatoria no se reúne el quórum necesario para sesionar, el Secretario del órgano colegiado de gobierno levantará acta circunstanciada de este hecho. Acto seguido, la Presidencia citará por segunda ocasión con la anticipación que por su urgencia requiera el asunto, dicha sesión se celebrará con los integrantes que estén presentes. Las decisiones se adoptarán por mayoría simple de los presentes.
+Si en la fecha señalada en la convocatoria no se reúne el quórum necesario para sesionar, la Secretaría del órgano colegiado de gobierno levantará acta circunstanciada de este hecho. Acto seguido, la Presidencia citará por segunda ocasión con la anticipación que por su urgencia requiera el asunto, dicha sesión se celebrará con las personas integrantes que estén presentes. Las decisiones se adoptarán por mayoría simple de quienes estén en la sesión.
 
 En el acta circunstanciada que se levante se deberá hacer constar las circunstancias de tiempo, lugar, personas que asistieron y asuntos que se iban a tratar.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Dispensa de lectura
 
 ###### Artículo 35.
 
-Al inicio de la sesión, el Secretario consultará al pleno si se dispensa la lectura de los documentos que hayan sido previamente circulados.
+Al inicio de la sesión, la Secretaría consultará al pleno si se dispensa la lectura de los documentos que hayan sido previamente circulados.
 
 Discusión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 36.
 
-El Presidente someterá a discusión los asuntos listados en el orden del día mediante el procedimiento de tres rondas.
+La Presidencia someterá a discusión los asuntos listados en el orden del día mediante el procedimiento de tres rondas.
 
-En la discusión de cada punto del orden del día, el Presidente concederá, en primera ronda, el uso de la palabra a los miembros que quieran hacer uso de ese derecho para ese asunto en particular. Los integrantes intervendrán en el orden en que lo soliciten.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Las intervenciones deberán ser ordenadas, respetuosas, ilustrativas, propositivas, concisas y relacionadas con el asunto que se esté tratando; cuando el caso así lo requiera, el Presidente podrá establecer una duración limitada para cada una de las intervenciones.
+En la discusión de cada punto del orden del día, la Presidencia concederá, en primera ronda, el uso de la palabra a las personas integrantes que quieran hacer uso de ese derecho para ese asunto en particular. Las personas integrantes intervendrán en el orden en que lo soliciten.
 
-Después de agotada la primera ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido y, en caso de no ser así, se realizará una segunda o una tercera ronda de debates.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Las intervenciones deberán ser ordenadas, respetuosas, ilustrativas, propositivas, concisas y relacionadas con el asunto que se esté tratando; cuando el caso así lo requiera, la Presidencia podrá establecer una duración limitada para cada una de las intervenciones.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Después de agotada la primera ronda, la Presidencia preguntará si el asunto se encuentra suficientemente discutido y, en caso de no ser así, se realizará una segunda o una tercera ronda de debates.
 
 Cuando no se registren intervenciones, se dispensará su discusión y el asunto se someterá de inmediato a votación.
 
-El Presidente propondrá a los miembros los recesos que estime pertinentes.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Los miembros que estén en uso de la palabra sólo podrán ser interrumpidos cuando se trate de alguna moción de orden o de explicación que se considere pertinente, pero sólo será permitida la interrupción con la anuencia del Presidente.
+La Presidencia propondrá a las personas integrantes los recesos que estime pertinentes.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Las personas integrantes que estén en uso de la palabra sólo podrán ser interrumpidas cuando se trate de alguna moción de orden o de explicación que se considere pertinente, pero sólo será permitida la interrupción con la anuencia de la Presidencia.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Votación
 
 ###### Artículo 37.
 
-En las sesiones de los órganos colegiados de gobierno, las decisiones se adoptarán por mayoría simple de votos. El voto del Presidente, en caso de empate, será de calidad.
+En las sesiones de los órganos colegiados de gobierno, las decisiones se adoptarán por mayoría simple de votos. El voto de la Presidenta o Presidente, en caso de empate, será de calidad.
 
 Excusas y recusaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 38.
 
-Los miembros de los órganos colegiados de gobierno deberán de excusarse o podrán ser recusados en aquellos asuntos que los involucren personalmente o puedan afectar su imparcialidad.
+Las personas integrantes de los órganos colegiados de gobierno deberán de excusarse o podrán ser recusadas en aquellos asuntos que les involucren personalmente o puedan afectar su imparcialidad.
 
 La excusa será admitida y procederá sin más trámite ante el órgano al que pertenece la persona que la solicita.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE AGOSTO DE 2021)</small>
 
 La recusación de un integrante deberá presentarse ante el órgano de gobierno al que pertenece el cual resolverá lo conducente, salvo lo dispuesto en otros ordenamientos aplicables al caso.
 
@@ -463,9 +617,11 @@ Las solicitudes de recusación deberán ser presentadas por lo menos dos días a
 
 Moción de orden
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 39.
 
-Habrá lugar a moción de orden ante el Presidente:
+Habrá lugar a moción de orden ante la Presidencia:
 
 I. Cuando la intervención realizada se limite a la lectura de un documento que haya sido distribuido para estudio previo, a menos que sea imprescindible hacer una cita breve del documento;
 
@@ -477,11 +633,15 @@ IV. Cuando se altere el orden.
 
 Medidas para preservar el orden
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 40.
 
-Con el fin de que prevalezca el orden en las sesiones, el Presidente podrá tomar las siguientes medidas:
+Con el fin de que prevalezca el orden en las sesiones, la Presidenta o Presidente podrá tomar las siguientes medidas;
 
-I. Solicitar a los miembros del órgano y a los asistentes que guarden el orden a efecto de no entorpecer la sesión;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Solicitar a las personas integrantes del órgano y a quienes asistan que guarden el orden a efecto de no entorpecer la sesión;
 
 II. En caso de que no se acate lo anterior, podrá ordenar el desalojo de la sala de sesiones; y
 
@@ -489,9 +649,11 @@ III. Si lo estima pertinente o legalmente ya no es factible desarrollar la sesi�
 
 Acta de la sesión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 41.
 
-De cada sesión se elaborará un acta, que será autorizada por el Secretario del órgano colegiado de gobierno correspondiente para que, en su caso, sea aprobada en la sesión ordinaria siguiente.
+De cada sesión se elaborará un acta, que será autorizada por el Secretario o Secretaria del órgano colegiado de gobierno correspondiente para que, en su caso, sea aprobada en la sesión ordinaria siguiente:
 
 Dicha acta contendrá como mínimo:
 
@@ -503,23 +665,29 @@ III. Una breve reseña de cada uno de los puntos y, en su caso, los dictámenes,
 
 IV. Los acuerdos adoptados y el número de votos con los que se aprobaron; y
 
-V. La firma del Secretario.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. La firma del Secretario o Secretaria.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Publicación de los acuerdos
 
 ###### Artículo 42.
 
-El Secretario del órgano colegiado de gobierno comunicará por escrito los acuerdos y resoluciones a la Secretaría General, la que ordenará su publicación oficial en la Gaceta Universitaria. La publicación se deberá realizar dentro de los tres días hábiles siguientes a la sesión en que se tomó el acuerdo o resolución.
+La Secretaría del órgano colegiado de gobierno comunicará por escrito los acuerdos y resoluciones a la Secretaría General, la que ordenará su publicación oficial en la Gaceta Universitaria. La publicación se deberá realizar dentro de los tres días hábiles siguientes a la sesión en que se tomó el acuerdo o resolución.
 
-Los representantes, a través de los medios a su alcance, comunicarán a sus representados los acuerdos aprobados, sin menoscabo de su publicación en la Gaceta Universitaria.
+Las personas representantes, a través de los medios a su alcance, comunicarán a aquellos que representan los acuerdos aprobados, sin menoscabo de su publicación en la Gaceta Universitaria.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Sustitución de representantes
 
 ###### Artículo 43.
 
-Cuando sin causa justificada, a juicio del órgano colegiado de gobierno alguno de los representantes propietarios deje de asistir a tres sesiones consecutivas, perderá la calidad de representante ante ese órgano y, en su caso, será sustituido definitivamente por su suplente quien asumirá la titularidad.
+Cuando sin causa justificada, a juicio del órgano colegiado de gobierno alguna de las personas representantes titulares deje de asistir a tres sesiones consecutivas, perderá la calidad de representante ante ese órgano y, en su caso, será sustituida definitivamente por su suplente quien asumirá la titularidad.
 
-El Secretario deberá informar en la sesión en que se registre la tercera ausencia sin causa justificada del representante titular, ante el pleno del órgano colegiado de gobierno, para que a la próxima sesión se presente el suplente en calidad de propietario.
+La persona titular de la Secretaría deberá informar en la sesión en que se registre la tercera ausencia sin causa justificada de la persona representante titular, ante el pleno del órgano colegiado de gobierno, para que a la próxima sesión se presente la persona suplente en calidad de titular.
 
 ### CAPÍTULO CUARTO. COMISIONES
 
@@ -531,11 +699,13 @@ En cada órgano colegiado de gobierno se integrarán las comisiones permanentes 
 
 Su composición y funcionamiento estarán determinados por el órgano colegiado de gobierno que le dé origen o, en su caso, por la normatividad correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 Comisiones
 
 ###### Artículo 45.
 
-Comisión es la instancia que auxilia al órgano colegiado de gobierno, se integrará con autoridades ejecutivas, con representantes del personal académico y de los estudiantes y, en su caso, del personal administrativo, pertenecientes a dicho órgano. Realizará las tareas previstas por el ordenamiento respectivo o por el órgano que les da origen, tiene funciones consultivas o dictaminadoras, salvo que los ordenamientos aplicables le asignen otra de naturaleza decisoria.
+Comisión es la instancia que auxilia al órgano colegiado de gobierno. Se integrará con autoridades ejecutivas, con representantes del personal académico y de estudiantes y, en su caso, del personal administrativo, pertenecientes a dicho órgano. Realizará las tareas previstas por el ordenamiento respectivo o por el órgano que les da origen; tiene funciones consultivas o dictaminadoras, salvo que los ordenamientos aplicables le asignen otra de naturaleza decisoria.
 
 Dictámenes y resoluciones
 
@@ -557,41 +727,55 @@ Tipos de comisiones
 
 Las comisiones permanentes son las previstas en este Estatuto u otros ordenamientos universitarios o las creadas por los órganos respectivos con tal carácter.
 
-Las comisiones especiales son las que se conforman para cumplir con un fin específico y delimitado. Se integrarán con el número de miembros propietarios que se estime pertinente.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Duración de los integrantes de las comisiones
+Las comisiones especiales son las que se conforman para cumplir con un fin específico y delimitado. Se integrarán con el número de representantes titulares que se estime pertinente (sic).
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Duración de las personas integrantes de las comisiones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 48.
 
-Los integrantes de las comisiones permanentes durarán en su cargo el periodo que como miembros del órgano colegiado de gobierno les corresponda. Los miembros de las comisiones especiales lo serán por el tiempo necesario para el cumplimiento del objeto por el cual se constituyó la Comisión, sin que pueda exceder el periodo que como miembros del órgano les corresponda.
+Quienes integren las comisiones permanentes durarán en su cargo el periodo que como representantes ante el órgano colegiado de gobierno les corresponda. Las personas integrantes de las comisiones especiales lo serán por el tiempo necesario para el cumplimiento del objeto por el cual se constituyó la Comisión, sin que pueda exceder el periodo que como integrantes del órgano les corresponda.
 
 Su reelección como integrantes del órgano colegiado de gobierno no implica necesariamente su permanencia en la comisión respectiva.
 
-Los miembros electos para una Comisión Permanente no podrán formar parte de otra, salvo que se trate de una Especial.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Tratándose de las Comisiones Permanentes de Vigilancia, de Normatividad y de Honor y Justicia, cuando se designen a los integrantes propietarios se aprobará una lista de comisionados sustitutos, en orden de prelación, que serán llamados a integrar la Comisión correspondiente, en el caso de que alguno de los integrantes originalmente designados deje de tener el carácter de comisionado y no sea posible llamar a su suplente. Los sustitutos durarán en el cargo hasta en tanto se hace la nueva integración de la Comisión.
+Las personas integrantes electas para una Comisión Permanente no podrán formar parte de otra, salvo que se trate de una Especial.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Tratándose de las Comisiones Permanentes de Vigilancia, de Normatividad y de Honor y Justicia, cuando se designen a las personas integrantes titulares se aprobará una lista de comisionados sustitutos, en orden de prelación, que serán llamados a integrar la Comisión correspondiente, en el caso de que alguna de las personas integrantes originalmente designadas deje de tener el carácter de comisionada y no sea posible llamar a su suplente. Los sustitutos durarán en el cargo hasta en tanto se hace la nueva integración de la Comisión.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Presidencia de las comisiones
 
 ###### Artículo 49.
 
-La Presidencia de las comisiones estará a cargo de la autoridad ejecutiva del órgano colegiado de gobierno que las constituyó, pudiendo su titular delegarla en quien a su juicio resulte idóneo para ese cometido.
+La Presidencia de las comisiones estará a cargo de la autoridad ejecutiva del órgano colegiado de gobierno que las constituyó, pudiendo su titular delegarla en la persona que a su juicio resulte idónea para ese cometido.
 
-El Presidente del órgano colegiado de gobierno respectivo las instalará dentro de los quince días hábiles siguientes a la fecha de elección de sus miembros.
+La Presidencia del órgano colegiado de gobierno respectivo las instalará dentro de los quince días hábiles siguientes a la fecha de elección de sus integrantes.
 
-Cada Comisión contará con un Secretario, que será electo de entre los miembros pertenecientes a ella.
+Cada Comisión contará con un Secretario o Secretaria, que se elegirá de entre las personas pertenecientes a ella.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Quórum y convocatorias
 
 ###### Artículo 50.
 
-Habrá quórum con la asistencia de la mayoría de sus miembros, y los acuerdos se tomarán por mayoría simple de votos de los presentes. El voto del Presidente, en caso de empate, será de calidad.
+Habrá quórum con la asistencia de la mayoría de las personas integrantes, y los acuerdos se tomarán por mayoría simple de votos de quienes estén presentes. El voto de la Presidencia, en caso de empate, será de calidad.
 
-Cuando no se reúna quórum en la primera convocatoria, la sesión se llevará a cabo con los miembros que asistan a la segunda convocatoria que se realizará en los términos de lo establecido por el artículo 34 de este ordenamiento.
+Cuando no se reúna quórum en la primera convocatoria, la sesión se llevará a cabo con las personas integrantes que asistan a la segunda convocatoria que se realizará en los términos de lo establecido por el artículo 34 de este ordenamiento.
 
-Sólo en ausencia del propietario, su suplente deberá asistir a las sesiones, con derecho a voz y voto.
+Sólo en ausencia de la persona titular, su suplente deberá asistir a las sesiones, con derecho a voz y voto.
 
-Las sesiones de las comisiones serán privadas, excepto cuando la mayoría de los integrantes presentes acuerden que sean públicas.
+Las sesiones de las comisiones serán privadas, excepto cuando la mayoría de sus integrantes presentes acuerden que sean públicas.
 
 Comisiones Permanentes
 
@@ -651,13 +835,19 @@ Comisión de Honor y Justicia
 
 Corresponde a la Comisión de Honor y Justicia, dictaminar y, en su caso, resolver sobre:
 
-I. La trayectoria de los candidatos a recibir distinciones o grados honoríficos que otorgue el Consejo General Universitario;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. La trayectoria de las personas candidatas a recibir distinciones o grados honoríficos que otorgue el Consejo General Universitario;
 
 II. Los conflictos que surjan entre órganos de gobierno de la Universidad;
 
-III. La remoción de los integrantes de la Junta Directiva, del Patronato, de la Defensoría de los Derechos Humanos en el Entorno Universitario y del Consejo Consultivo de la Defensoría de los Derechos Humanos en el Entorno Universitario;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. La responsabilidad del personal académico o estudiantes en los términos del Reglamento de Responsabilidades en el Entorno Universitario;
+III. La remoción de las personas integrantes de la Junta Directiva, del Patronato, de la Defensoría de los Derechos Humanos en el Entorno Universitario y del Consejo Consultivo de la Defensoría de los Derechos Humanos en el Entorno Universitario;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. La responsabilidad del personal académico o estudiantes en los términos del Reglamento de Responsabilidades en el Entorno Universitario y el Reglamento de Responsabilidades y Sanciones en Materia de Violencia de Género.
 
 V. La responsabilidad del personal académico o estudiantes en los asuntos relacionados con violencia de género en los términos de las disposiciones aplicables; y
 
@@ -685,11 +875,13 @@ VII. Detección de necesidades de la sociedad en el ámbito de la educación uni
 
 VIII. Interacción con el entorno social, laboral, empresarial y comunitario.
 
-Expertos invitados
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Personas expertas invitadas
 
 ###### Artículo 57.
 
-En las comisiones podrán intervenir expertos invitados, quienes sólo tendrán derecho a voz.
+En las comisiones podrán intervenir personas expertas invitadas, quienes sólo tendrán derecho a voz.
 
 Trabajo de las comisiones
 
@@ -707,73 +899,97 @@ Las comisiones que se encuentren establecidas y reguladas en otros ordenamientos
 
 Requisitos para ser representante del personal académico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 60.
 
-Al momento de su elección, los profesores representantes del personal académico ante los órganos colegiados de gobierno de la Universidad deberán cumplir con los siguientes requisitos:
+Al momento de su elección, las personas integrantes del profesorado representantes del personal académico ante los órganos colegiados de gobierno de la Universidad deberán cumplir con los siguientes requisitos:
 
 I. Distinguirse en la actividad académica dentro de la Universidad; y
 
 II. Contar con, al menos, dos años de antigüedad en la labor académica dentro de la Institución, excepto cuando se trate de órganos colegiados de nueva creación.
 
-Requisitos para ser representante de los estudiantes
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Requisitos para ser representante de estudiantes
 
 ###### Artículo 61.
 
-Para ser representante de los estudiantes ante los órganos colegiados de gobierno, al momento de su elección, se requiere ser estudiante ordinario conforme a lo dispuesto por el Reglamento Académico.
+Para ser representante de las y los estudiantes ante los órganos colegiados de gobierno, al momento de su elección, se requiere ser estudiante ordinario conforme a lo dispuesto por el Reglamento Académico.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Requisitos para ser representante del personal administrativo
 
 ###### Artículo 62.
 
-Para ser el representante del personal administrativo ante el Consejo General Universitario se requiere, al momento de su elección, cumplir con los siguientes requisitos:
+Para ser representante del personal administrativo ante el Consejo General Universitario se requiere, al momento de su elección, cumplir con los siguientes requisitos:
 
-I. Tener antigüedad de al menos dos años como trabajador administrativo de la Universidad; y
+I. Tener antigüedad de al menos dos años como trabajadora o trabajador administrativo de la Universidad; y
 
-II. Distinguirse en su calidad de trabajador universitario, congruente con su calidad de universitario.
+II. Distinguirse en su calidad de trabajadora o trabajador universitario, congruente con su calidad de universitario.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Impedimentos
 
 ###### Artículo 63.
 
-Están impedidos para ser representantes del personal académico, de los estudiantes o del personal administrativo, quienes ocupen cargos directivos o administrativos que impliquen dependencia jerárquica del Presidente del órgano respectivo.
+Tienen impedimento para ser representantes del personal académico, de las y los estudiantes o del personal administrativo, quienes ocupen cargos directivos o administrativos que impliquen dependencia jerárquica de la persona que detente la Presidencia del órgano respectivo.
 
-También están impedidos los estudiantes que desarrollen actividades de apoyo administrativo, virtud a una beca o la prestación de un servicio social que impliquen dependencia del Presidente del órgano respectivo.
+También tienen impedimento las y los estudiantes que desarrollen actividades de apoyo administrativo, por virtud de una beca o la prestación de un servicio social que impliquen dependencia de la persona que detente la Presidencia del órgano respectivo.
 
-Asimismo, están impedidos quienes tengan parentesco en línea recta sin limitación de grado; en la colateral por consanguinidad dentro del cuarto grado, o en la colateral por afinidad dentro del segundo, con el Presidente del órgano respectivo.
+Asimismo, tienen impedimento quienes tengan parentesco en línea recta sin limitación de grado; en la colateral por consanguinidad dentro del cuarto grado, o en la colateral por afinidad dentro del segundo, con la persona que detente la Presidencia del órgano respectivo.
 
-### CAPÍTULO SEXTO. ELECCIÓN DE LOS REPRESENTANTES ANTE LOS ÓRGANOS COLEGIADOS DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Proceso de elección de representantes de los estudiantes y del personal académico
+### CAPÍTULO SEXTO. ELECCIÓN DE REPRESENTANTES ANTE LOS ÓRGANOS COLEGIADOS DE GOBIERNO
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Proceso de elección de representantes de estudiantes y personal académico
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 64.
 
-Los Consejos Divisionales y el Consejo Académico del Nivel Medio Superior y las Academias de Escuela, respectivamente, organizarán y supervisarán por medio de una Comisión Especial el proceso de elección de los representantes de sus estudiantes y de su personal académico ante el Consejo General Universitario, los Consejos Universitarios de Campus, el Consejo Académico del Nivel Medio Superior, los Consejos Divisionales y las Academias de Escuela.
+Los Consejos Divisionales y el Consejo Académico del Nivel Medio Superior y las Academias de Escuela, respectivamente, organizarán y supervisarán por medio de una Comisión Especial el proceso de elección de representantes de sus estudiantes y de su personal académico ante el Consejo General Universitario, los Consejos Universitarios de Campus, el Consejo Académico del Nivel Medio Superior, los Consejos Divisionales y las Academias de Escuela.
 
-Para el proceso de elección de los representantes del personal académico y de los estudiantes se sujetará a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2021)</small>
+
+Para el proceso de elección de representantes del personal académico y estudiantes se sujetará a lo siguiente:
 
 I. La Comisión Especial integrada en cada División y en el Consejo Académico del Nivel Medio Superior tendrá a su cargo la organización y supervisión del proceso;
 
-II. Por conducto de sus Secretarios, expedirá la convocatoria respectiva con treinta días naturales de anticipación a la fecha de la elección;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-III. La convocatoria contendrá como mínimo: los requisitos de elegibilidad que deberán de cumplir los integrantes de las fórmulas, el periodo para el registro, el requerimiento de la aceptación de la responsabilidad que implica la representación a que se aspira, así como el lugar, la fecha y la hora de la elección; y
+II. Por conducto de la persona titular de la Secretaría, expedirá la convocatoria respectiva con treinta días naturales de anticipación a la fecha de la elección;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. La convocatoria contendrá como mínimo: los requisitos de elegibilidad que deberán de cumplir las personas integrantes de las fórmulas, el periodo para el registro, el requerimiento de la aceptación de la responsabilidad que implica la representación a que se aspira, así como el lugar, la fecha y la hora de la elección; y
 
 IV. La convocatoria contendrá criterios de desempate.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Proceso de elección de representantes del personal administrativo
 
 ###### Artículo 65.
 
-El Consejo General Universitario integrará una Comisión Especial que organice la elección del representante del personal administrativo de la Universidad, de acuerdo al siguiente procedimiento:
+El Consejo General Universitario integrará una Comisión Especial que organice la elección de la persona representante del personal administrativo de la Universidad, de acuerdo al siguiente procedimiento:
 
-I. Por conducto del Secretario General, expedirá la convocatoria respectiva con treinta días naturales de anticipación a la fecha de la elección; y
+I. Por conducto de la Secretaría General, se expedirá la convocatoria respectiva con treinta días naturales de anticipación a la fecha de la elección; y
 
-II. La convocatoria contendrá como mínimo: los requisitos de elegibilidad que deberán de cumplir los integrantes de las fórmulas, el periodo para el registro, el requerimiento de la aceptación de la responsabilidad que implica la representación a que se aspira, así como el lugar, la fecha y la hora de la elección.
+II. La convocatoria contendrá como mínimo: los requisitos de elegibilidad que deberán de cumplir las personas integrantes de las fórmulas, el periodo para el registro, el requerimiento de la aceptación de la responsabilidad que implica la representación a que se aspira, así como el lugar, la fecha y la hora de la elección.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Elección por voto personal, libre, secreto y directo
 
 ###### Artículo 66.
 
-El personal académico y los estudiantes, elegirán a sus respectivos representantes ante los órganos colegiados de gobierno mediante voto personal, libre, secreto y directo. De la misma forma se elegirá al representante del personal administrativo ante el Consejo General Universitario.
+El personal académico y las personas integrantes de la comunidad estudiantil, elegirán a sus respectivos representantes ante los órganos colegiados de gobierno mediante voto personal, libre, secreto y directo. De la misma forma se elegirá al representante del personal administrativo ante el Consejo General Universitario.
 
 Resultado de la elección
 
@@ -781,43 +997,57 @@ Resultado de la elección
 
 En los procesos de elección de representantes ante los órganos colegiados de gobierno, la Comisión Especial designada para tal efecto realizará el escrutinio y cómputo de los votos emitidos.
 
-Los resultados de la elección de representantes se harán constar en acta circunstanciada que deberá ser firmada por el Secretario de la Comisión y posteriormente remitirla a la Secretaría Académica y a la Secretaría General. El Secretario de la Comisión deberá ponerla a la vista de la comunidad universitaria respectiva y comunicarla a la autoridad ejecutiva que presida el órgano para el cual se convocó a elección. El resultado de la elección también se publicará en la Gaceta Universitaria.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Los resultados de la elección de representantes se harán constar en acta circunstanciada que deberá ser firmada por el Secretario o Secretaria de la Comisión y posteriormente remitirla a la Secretaría Académica y a la Secretaría General. La persona que detente (sic) Secretaría de la Comisión deberá ponerla a la vista de la comunidad universitaria respectiva y comunicarla a la autoridad ejecutiva que presida el órgano para el cual se convocó a elección. El resultado de la elección también se publicará en la Gaceta Universitaria.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Duración del cargo
 
 ###### Artículo 68.
 
-Los representantes del personal académico y de los estudiantes ante los órganos colegiados de gobierno, así como del personal administrativo ante el Consejo General Universitario, durarán en su cargo dos años a partir de su elección. Podrán ser reelectos, por una sola vez, para ocupar un periodo consecutivo, de conformidad con las mismas disposiciones que para la elección se estipulan en el presente Estatuto.
+Las personas representantes del personal académico y de la comunidad estudiantil ante los órganos colegiados de gobierno, así como del personal administrativo ante el Consejo General Universitario, durarán en su cargo dos años a partir de su elección. Podrán ser reelectas, por una sola vez, para ocupar un periodo consecutivo, de conformidad con las mismas disposiciones que para la elección se estipulan en el presente Estatuto.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Integración de las fórmulas
 
 ###### Artículo 69.
 
-Los aspirantes a representantes del personal académico y de los estudiantes ante los órganos de gobierno, así como del personal administrativo ante el Consejo General Universitario, se inscribirán al proceso bajo la modalidad de fórmulas.
+Las personas aspirantes a representantes del personal académico y de la comunidad estudiantil ante los órganos de gobierno, así como del personal administrativo ante el Consejo General Universitario, se inscribirán al proceso bajo la modalidad de fórmulas.
 
-Cada fórmula estará constituida por un representante titular y un suplente, ambos deberán cumplir con los mismos requisitos al momento de la elección.
+Cada fórmula estará constituida por una persona representante titular y una suplente, ambos deberán cumplir con los mismos requisitos al momento de la elección.
 
-En el caso de que una fórmula de aspirantes se desintegre, el aspirante que quede podrá volver a integrar fórmula hasta un día antes de la fecha de elección.
+En el caso de que una fórmula de personas aspirantes se desintegre, la persona aspirante que quede podrá volver a integrar fórmula hasta un día antes de la fecha de elección.
 
-Cuando por cualquier causa faltara el representante titular, se convocará al suplente.
+Cuando por cualquier causa faltara la persona representante titular, se convocará al suplente. Sólo habrá nueva elección cuando ambas personas que integran la fórmula dejen de serlo en conjunto, de tal forma que la representación sea inexistente.
 
-Sólo habrá nueva elección cuando el representante propietario y el suplente dejen de serlo en conjunto, de tal forma que la representación sea inexistente.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
 
-### CAPÍTULO SÉPTIMO. ATRIBUCIONES DE LOS REPRESENTANTES ANTE LOS ÓRGANOS COLEGIADOS DE GOBIERNO
+### CAPÍTULO SÉPTIMO. ATRIBUCIONES DE LAS PERSONAS REPRESENTANTES ANTE LOS ÓRGANOS COLEGIADOS DE GOBIERNO
 
-Atribuciones de los representantes
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Atribuciones de las personas representantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 70.
 
-Corresponde a los representantes ante los órganos colegiados de gobierno:
+Corresponde a las personas representantes ante los órganos colegiados de gobierno:
 
 I. Participar con voz y voto en las sesiones, sin posibilidad de abstención;
 
-II. Presentar iniciativas o proyectos debidamente documentados y relativos a las funciones del órgano respectivo, los cuales se harán del conocimiento del Secretario del cuerpo colegiado para ser turnados, en su caso, a las comisiones correspondientes del órgano;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. Presentar iniciativas o proyectos debidamente documentados y relativos a las funciones del órgano respectivo, los cuales se harán del conocimiento de quien detente la Secretaría del cuerpo colegiado para ser turnados, en su caso, a las comisiones correspondientes del órgano;
 
 III. Solicitar la incorporación en el orden del día de aquellos asuntos que consideren deban ser tratados, de conformidad con lo dispuesto en el artículo 30 de este ordenamiento;
 
-IV. Asumir una conducta crítica y propositiva, procurando el bien de la Universidad, de su entidad académica y de los miembros de la comunidad a la que representan;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Asumir una conducta crítica y propositiva, procurando el bien de la Universidad, de su entidad académica y de las personas integrantes de la comunidad a la que representan;
 
 V. Informar y, en su caso, consultar oportunamente a sus representados de los asuntos que así lo requieran;
 
@@ -833,7 +1063,9 @@ X. Vigilar que se cumplan los cometidos del órgano colegiado de gobierno, confo
 
 #### SECCIÓN SEGUNDA
 
-### CAPÍTULO PRIMERO. DE LAS AUTORIDADES EJECUTIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO PRIMERO. AUTORIDADES EJECUTIVAS
 
 Autoridades Ejecutivas
 
@@ -841,39 +1073,61 @@ Autoridades Ejecutivas
 
 Las Autoridades Ejecutivas de gobierno de la Universidad son:
 
-I. El Rector General;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Los Rectores de Campus;
+I. Rectora o Rector General;
 
-III. Los Directores de División;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Los Directores de Departamento;
+II. Rectoras o Rectores de Campus;
 
-V. El Director del Colegio del Nivel Medio Superior; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. Los Directores de las Escuelas de Nivel Medio Superior.
+III. Directoras o Directores de División;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Directoras o Directores de Departamento;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Directora o Director del Colegio del Nivel Medio Superior; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Directoras o Directores de las Escuelas de Nivel Medio Superior.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Atribuciones de las autoridades ejecutivas
 
 ###### Artículo 72.
 
-Las atribuciones del Rector General, Rectores de Campus, Directores de División, Directores de Departamento y del Director del Colegio del Nivel Medio Superior son las previstas en los artículos 21, 26, 30, 32 y 36 de la Ley Orgánica.
+Las atribuciones de la persona titular de la Rectoría General, así como de las autoridades ejecutivas de los Campus, de las Divisiones, de los Departamentos y del Colegio del Nivel Medio Superior son las previstas en los artículos 21, 26, 30, 32 y 36 de la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Plan de trabajo conjunto de Divisiones y Departamentos
 
 ###### Artículo 73.
 
-Para un adecuado desarrollo de las atribuciones que le corresponden al Director de División y a los Directores de Departamento adscritos a la misma, deberán establecer un plan de trabajo conjunto acorde con el Plan de Desarrollo Institucional y con el Modelo Educativo correspondiente.
+Para un adecuado desarrollo de las atribuciones que le corresponden a quienes detenten la Dirección de División y de los Departamentos adscritos a la misma, deberán establecer un plan de trabajo conjunto acorde con el Plan de Desarrollo Institucional y con el Modelo Educativo correspondiente.
 
-El Director de División, de manera conjunta con los Directores de Departamento, deberá presentar un informe anual de las labores realizadas ante el Consejo Divisional.
+La Directora o el Director de División, de manera conjunta con las Directoras o Directores de Departamento, deberán presentar un informe anual de las labores realizadas ante el Consejo Divisional.
 
-### CAPÍTULO SEGUNDO. ATRIBUCIONES DEL DIRECTOR DE ESCUELA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Atribuciones del Director de Escuela
+### CAPÍTULO SEGUNDO. ATRIBUCIONES DE LA DIRECTORA O DIRECTOR DE ESCUELA
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Atribuciones de la Directora o Director de Escuela
+
+> <small>(REFORMADO PRIMER PÁRRAFO. P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 74.
 
-Corresponde al Director de Escuela:
+Corresponde a la Directora o Director de Escuela:
 
 I. Cumplir y hacer cumplir los ordenamientos legales, los acuerdos y disposiciones de las autoridades que en cada caso correspondan;
 
@@ -915,27 +1169,41 @@ Designación de las autoridades ejecutivas
 
 El proceso de designación de las autoridades ejecutivas se sujetará a lo siguiente:
 
-I. ÓRGANO CONVOCANTE. Para la designación del Rector General, el órgano convocante será el Consejo General Universitario; del Rector de Campus el Consejo Universitario de Campus correspondiente; del Director de División y del Director de Departamento será el Consejo Divisional respectivo; para el Director del Colegio del Nivel Medio Superior lo será el Consejo Académico del Nivel Medio Superior y para el Director de Escuela la Academia correspondiente;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. COMISIÓN ESPECIAL. El órgano colegiado de gobierno convocante integrará una Comisión Especial formada por consejeros, que será la encargada de substanciar el procedimiento;
+I. ÓRGANO CONVOCANTE. Para la designación del Rector o Rectora General, el órgano convocante será el Consejo General Universitario; del Rector o Rectora de Campus el Consejo Universitario de Campus correspondiente; del Director o Directora de División y del Director o Directora de Departamento será el Consejo Divisional respectivo; para el Director o Directora del Colegio del Nivel Medio Superior lo será el Consejo Académico del Nivel Medio Superior y para el Director o Directora de Escuela la Academia correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. COMISIÓN ESPECIAL. El órgano colegiado de gobierno convocante integrará una Comisión Especial formada por consejeras y consejeros, que será la encargada de substanciar el procedimiento;
 
 III. LINEAMIENTOS. El órgano convocante emitirá los lineamientos sobre los cuales se desarrollará el proceso de designación, así como el procedimiento de consulta de la opinión de su comunidad universitaria; los lineamientos serán diseñados atendiendo a los principios fundamentales de libertad, equidad, pluralidad, imparcialidad, respeto y participación, inherentes a la vida universitaria;
 
 IV. SESIÓN PERMANENTE DE LA COMISIÓN ESPECIAL. A partir de la sesión en la cual se declare instalada la Comisión Especial, ésta sesionará permanentemente durante el tiempo que requiera el proceso de designación respectivo, y dará a conocer el lugar en el cual estará instalada, así como el horario de atención;
 
-V. INCOMPATIBILIDADES. Los integrantes de la Comisión Especial, a partir del momento de aceptar su elección, no podrán participar como aspirantes a ocupar el cargo para el cual asumieron la responsabilidad de colaborar en la conducción del proceso respectivo. Igualmente, deberán de abstenerse de hacer pública su preferencia hacia cualquier aspirante o candidato durante todo el proceso. Asimismo, los consejeros que aspiren a ocupar un cargo de autoridad ejecutiva se abstendrán de participar en las sesiones de los órganos colegiados de gobierno vinculadas con el proceso de designación;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. CONVOCATORIA. La Comisión Especial emitirá la convocatoria respectiva, precisará los lapsos y modalidades a que se sujetarán los registros, así como la oportunidad y forma en que los aspirantes presentarán sus proyectos de desarrollo ante el pleno del órgano colegiado de gobierno que corresponda sujetándose a lo dispuesto en este ordenamiento y los lineamientos que emita el órgano convocante;
+V. INCOMPATIBILIDADES. Quienes integren la Comisión Especial, a partir del momento de aceptar su elección, no podrán participar como aspirantes a ocupar el cargo para el cual asumieron la responsabilidad de colaborar en la conducción del proceso respectivo. Igualmente, deberán de abstenerse de hacer pública su preferencia hacia cualquier aspirante o persona candidata durante todo el proceso. Asimismo, las y los consejeros que aspiren a ocupar un cargo de autoridad ejecutiva se abstendrán de participar en las sesiones de los órganos colegiados de gobierno vinculadas con el proceso de designación;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. CONVOCATORIA. La Comisión Especial emitirá la convocatoria respectiva, precisará los lapsos y modalidades a que se sujetarán los registros, así como la oportunidad y forma en que las personas aspirantes presentarán sus proyectos de desarrollo ante el pleno del órgano colegiado de gobierno que corresponda sujetándose a lo dispuesto en este ordenamiento y los lineamientos que emita el órgano convocante;
 
 VII. AUTONOMINACIONES Y NOMINACIONES. La Comisión Especial recibirá las autonominaciones y las nominaciones que surjan de la comunidad universitaria. En este último supuesto, la persona nominada deberá suscribir una carta en la que exprese su aceptación y su deseo de participar en el proceso respectivo, misma que se incorporará en la documentación entregada a la comisión;
 
 VIII. VERIFICACIÓN DE REQUISITOS. Recibidas las autonominaciones y nominaciones, la Comisión Especial verificará que se satisfagan los requisitos que para ocupar el cargo correspondiente señala la Ley Orgánica, con fundamento en lo dispuesto por los artículos 20, 25, 29, 31, 35 y 38, respectivamente, y negará el registro a quienes no cumplan con alguno de ellos;
 
-IX. NUEVA CONVOCATORIA. Para los efectos de este procedimiento, el órgano convocante podrá declarar desierta la convocatoria y emitir una nueva para designar autoridades ejecutivas cuando no se presenten aspirantes al cargo, cuando en su totalidad los inscritos declinen seguir participando, o bien, cuando los inscritos no cumplan con los requisitos exigidos por la ley;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-X. DICTAMEN DE LA COMISIÓN ESPECIAL. La Comisión Especial dictaminará sobre el cumplimiento o incumplimiento de los requisitos de los aspirantes para ser considerados candidatos; el dictamen se someterá a discusión y, en su caso, aprobación del pleno del órgano colegiado de gobierno correspondiente;
+IX. NUEVA CONVOCATORIA. Para los efectos de este procedimiento, el órgano convocante podrá declarar desierta la convocatoria y emitir una nueva para designar autoridades ejecutivas cuando no se presenten aspirantes al cargo, cuando en su totalidad las personas inscritas declinen seguir participando, o bien, cuando éstas no cumplan con los requisitos exigidos por la ley;
 
-XI. PRESENTACIÓN DE PROYECTOS. En sesión convocada con ese propósito, el o los aspirantes presentarán ante el pleno del órgano colegiado de gobierno correspondiente sus respectivos proyectos de desarrollo; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+X. DICTAMEN DE LA COMISIÓN ESPECIAL. La Comisión Especial determinará sobre el cumplimiento o incumplimiento de los requisitos de las personas aspirantes para ser consideradas candidatas; el dictamen se someterá a discusión y, en su caso, aprobación del pleno del órgano colegiado de gobierno correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XI. PRESENTACIÓN DE PROYECTOS. En sesión convocada con ese propósito, las personas aspirantes presentarán ante el pleno del órgano colegiado de gobierno correspondiente sus respectivos proyectos de desarrollo; y
 
 XII. RESOLUCIÓN DEL ÓRGANO COLEGIADO DE GOBIERNO. Una vez agotadas las presentaciones y rendido el informe de la Comisión Especial sobre el proceso de consulta a la comunidad universitaria, el órgano respectivo resolverá sobre la o las candidaturas que propondrá al órgano de gobierno encargado de hacer la designación correspondiente.
 
@@ -945,59 +1213,87 @@ Protesta del cargo
 
 Las autoridades ejecutivas de la Universidad designadas por los órganos de gobierno establecidos en la Ley Orgánica, rendirán protesta atendiendo a lo siguiente:
 
-I. El Rector General ante el Consejo General Universitario;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Los Rectores de Campus, el Director del Colegio del Nivel Medio Superior, los Directores de División y los Directores de Escuela ante los órganos colegiados de gobierno propios de su entidad académica; y
+I. Quien detente la titularidad de la Rectoría General ante el Consejo General Universitario;
 
-III. Los Directores de Departamento ante el Rector de Campus respectivo.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. Quien detente la titularidad de una Rectoría de Campus, de la Dirección del Colegio del Nivel Medio Superior, de la Dirección de División y de Escuela, ante los órganos colegiados de gobierno propios de su entidad académica; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Quien detente la titularidad de una Dirección de Departamento ante el Rector de Campus respectivo.
 
 ### CAPÍTULO CUARTO. SUPLENCIAS Y SUSTITUCIÓN DE LAS AUTORIDADES EJECUTIVAS
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Reglas de sustitución
 
 ###### Artículo 77.
 
-En ausencias del Rector General, los Rectores de Campus, los Directores de División y del Director del Colegio del Nivel Medio Superior, que excedan los tres meses, la Junta Directiva analizará las causas de la ausencia y, en caso de considerar que es definitiva, nombrará un sustituto para concluir el periodo respectivo.
+En ausencias de la persona titular de la Rectoría General, de las Rectorías de Campus, de las Direcciones de División y la del Colegio del Nivel Medio Superior, que excedan los tres meses, la Junta Directiva analizará las causas de la ausencia y, en caso de considerar que es definitiva, nombrará una persona sustituta para concluir el periodo respectivo.
 
-Tratándose de ausencias de los Directores de Departamento que excedan los tres meses, el Rector de Campus respectivo analizará los motivos de la ausencia, la calificará y si la considera definitiva, lo comunicará al Consejo Divisional, que instrumentará el procedimiento para la selección de candidatos a Director de Departamento para concluir el periodo respectivo.
+Tratándose de ausencias de las personas titulares de las Direcciones de Departamento que excedan los tres meses, el Rector o Rectora de Campus respectivo analizará los motivos de la ausencia, la calificará y si la considera definitiva, lo comunicará al Consejo Divisional, que instrumentará el procedimiento para la selección de personas candidatas a Directora o Director de Departamento para concluir el periodo respectivo.
 
-En relación con las ausencias del Director de Escuela que excedan los tres meses, el Consejo Académico del Nivel Medio Superior analizará los motivos de la ausencia, la calificará y la dará a conocer al Director del Colegio del Nivel Medio Superior. Si éste la considera definitiva, la Academia respectiva instrumentará el procedimiento para la selección de candidatos a Director de Escuela para concluir el periodo respectivo.
+En relación con las ausencias de la persona titular de la Dirección de Escuela que excedan los tres meses, el Consejo Académico del Nivel Medio Superior analizará los motivos de la ausencia, la calificará y la dará a conocer al Director o Directora del Colegio del Nivel Medio Superior. Si éste la considera definitiva, la Academia respectiva instrumentará el procedimiento para la selección de personas candidatas a dirigir la Escuela para concluir el periodo respectivo.
 
-Si por falta definitiva de una autoridad ejecutiva se nombra a un sustituto para que funja con tal carácter por un lapso de dos años o menos, se entenderá que tal designación únicamente tiene como finalidad concluir el periodo del titular originalmente nombrado, y por lo tanto puede ser designado con el carácter de titular para un periodo de cuatro años, con posibilidad de uno más. Si la sustitución es mayor a dos años, el titular designado al cumplir dicho periodo, podrá ser designado para otro de cuatro años, sin posibilidad de uno más.
+Si por falta definitiva de una autoridad ejecutiva se nombra a una persona sustituta para que funja con tal carácter por un lapso de dos años o menos, se entenderá que tal designación únicamente tiene como finalidad concluir el periodo de la persona titular originalmente nombrada y por lo tanto puede ser designada con el carácter de titular para un periodo de cuatro años, con posibilidad de uno más. Si la sustitución es mayor a dos años, la persona titular designada al cumplir dicho periodo podrá ser designada para otro de cuatro años, sin posibilidad de uno más.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Reglas de suplencia
 
 ###### Artículo 78.
 
-En los términos del artículo 22 de la Ley Orgánica, en ausencias del Rector General que no excedan de tres meses será suplido por el Secretario General. En ausencias que no excedan los tres meses de los Rectores de Campus, de los Directores de División y del Director del Colegio del Nivel Medio Superior serán suplidos por el Secretario Académico respectivo.
+En los términos del artículo 22 de la Ley Orgánica, en ausencias de la persona que detente la titularidad de la Rectoría General, que no excedan de tres meses, será suplida por el Secretario o Secretaria General. En ausencias que no excedan los tres meses de las autoridades ejecutivas de los Campus, de las Divisiones y del Colegio del Nivel Medio Superior serán suplidas por la persona titular de la Secretaría Académica respectiva.
 
-Conforme a lo dispuesto por el último párrafo del artículo 38 de la Ley Orgánica, el Director de Escuela será suplido por el Secretario Académico de la misma o por quien designe el Director del Colegio de Nivel Medio Superior.
+Conforme a lo dispuesto por el último párrafo del artículo 38 de la Ley Orgánica, la persona titular de la Dirección de Escuela será suplida por la persona titular de la Secretaría Académica de la misma o por quien designe la autoridad ejecutiva del Colegio de Nivel Medio Superior.
 
-Cuando se ha designado un suplente conforme a las reglas de este artículo y el periodo de suplencia haya transcurrido sin que el proceso de designación de una nueva autoridad ejecutiva haya concluido, corresponderá a la Junta Directiva, al Rector de Campus o al Director del Colegio del Nivel Medio Superior, según sea el caso por el origen del nombramiento, designar al suplente en tanto concluye el proceso de designación.
+Cuando se ha designado a una persona suplente conforme a las reglas de este artículo y el periodo de suplencia haya transcurrido sin que el proceso de designación de una nueva autoridad ejecutiva haya concluido, corresponderá a la Junta Directiva, a la autoridad ejecutiva del Campus o del Colegio del Nivel Medio Superior, según sea el caso por el origen del nombramiento, designar a la persona suplente en tanto concluye el proceso de designación.
 
-## TÍTULO CUARTO. SECRETARIO GENERAL Y SECRETARIOS ACADÉMICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
 
-### CAPÍTULO PRIMERO. SECRETARIO GENERAL
+## TÍTULO CUARTO. SECRETARÍA GENERAL Y SECRETARÍAS ACADÉMICAS
 
-Secretario General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO PRIMERO. SECRETARÍA GENERAL
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Secretaría General
 
 ###### Artículo 79.
 
-En términos de lo dispuesto por el artículo 43 de la Ley Orgánica, la Universidad contará con un Secretario General, quien estará dotado de fe pública para el ejercicio de sus actividades oficiales. Será nombrado y removido por el Rector General.
+En términos de lo dispuesto por el artículo 43 de la Ley Orgánica, la Universidad contará con un Secretario o Secretaria General, quien estará dotado de fe pública para el ejercicio de sus actividades oficiales. Su nombramiento y remoción corresponderá a la persona titular de la Rectoría General.
 
-Funciones del Secretario General
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Funciones de la Secretaría General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 80.
 
-Corresponde al Secretario General de la Universidad:
+Corresponde a la persona titular de la Secretaría General de la Universidad:
 
-I. Apoyar al Rector General en la coordinación de la Universidad y en la atención de los asuntos que éste le encomiende y que sean de su competencia;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Suplir al Rector General en ausencias que no excedan de tres meses;
+I. Apoyar al Rector o Rectora General en la coordinación de la Universidad y en la atención de los asuntos que le encomiende y que sean de su competencia;
 
-III. Firmar, con el Rector General, los documentos oficiales que así lo requieran;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Fungir como Secretario del Consejo General Universitario, en cuyas sesiones tendrá voz;
+II. Suplir al Rector o Rectora General en ausencias que no excedan de tres meses;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Firmar, con el Rector o Rectora General, los documentos oficiales que así lo requieran;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Detentar la Secretaría del Consejo General Universitario, en cuyas sesiones tendrá voz;
 
 V. Ordenar la publicación de los acuerdos adoptados por el Consejo General Universitario en la Gaceta Universitaria;
 
@@ -1009,17 +1305,21 @@ VIII. Promover acciones para asegurar la congruencia entre la normatividad, el M
 
 IX. Coadyuvar en la organización de los procesos de selección y designación de las autoridades ejecutivas, así como de elección de los demás órganos de gobierno de la Universidad;
 
-X. Coordinar la Comisión de Apoyo Institucional, instancia conformada por los Secretarios Académicos según lo establecido en el artículo 45 de la Ley Orgánica; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+X. Coordinar la Comisión de Apoyo Institucional, instancia conforma da (sic) por los Secretarios Académicos según lo establecido en el artículo 45 de la Ley Orgánica; y
 
 XI. Las demás que sean inherentes a su encargo, así como aquellas que deriven de la Ley Orgánica, este Estatuto y otras disposiciones universitarias aplicables.
 
 ### CAPÍTULO SEGUNDO. SECRETARÍAS ACADÉMICAS
 
-Secretarios Académicos
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Secretarías Académicas
 
 ###### Artículo 81.
 
-De conformidad con lo establecido en el artículo 45 de la Ley Orgánica, los Consejos Universitarios de Campus, los Consejos Divisionales, el Consejo Académico del Nivel Medio Superior y las Academias de Escuela, contarán con un Secretario Académico, que será nombrado y removido por la autoridad ejecutiva de la instancia a la que pertenezca. En las sesiones respectivas tendrá derecho a voz, pero no a voto y estará dotado de fe pública en el ejercicio de sus actividades oficiales.
+De conformidad con lo establecido en el artículo 45 de la Ley Orgánica, los Consejos Universitarios de Campus, los Consejos Divisionales, el Consejo Académico del Nivel Medio Superior y las Academias de Escuela, contarán con una Secretaría Académica, la persona que desempeñe dicho cargo será nombrada y removida por la autoridad ejecutiva de la instancia a la que pertenezca. En las sesiones respectivas tendrá derecho a voz, pero no a voto y estará dotado de fe pública en el ejercicio de sus actividades oficiales.
 
 Objeto de las Secretarías Académicas
 
@@ -1027,17 +1327,25 @@ Objeto de las Secretarías Académicas
 
 Las Secretarías Académicas son áreas de apoyo de las autoridades ejecutivas, les corresponde armonizar en el ámbito académico y administrativo las funciones de las entidades académicas a las que pertenecen.
 
-Funciones comunes de los Secretarios Académicos
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Funciones comunes de la (sic) Secretarías Académicas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 83.
 
-Corresponde a los Secretarios Académicos de los Campus, de las Divisiones, del Colegio del Nivel Medio Superior y de las Escuelas, en el ámbito de sus respectivas competencias:
+Corresponde a quienes detenten la titularidad de las Secretarías Académicas de los Campus, de las Divisiones, del Colegio del Nivel Medio Superior y de las Escuelas, en el ámbito de sus respectivas competencias:
 
-I. Fungir como Secretarios del órgano colegiado al cual pertenecen, dándole seguimiento a los acuerdos del mismo;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Fungir como Secretaria o Secretario del órgano colegiado al cual pertenecen, dándole seguimiento a los acuerdos del mismo;
 
 II. Participar con la autoridad ejecutiva respectiva en todos aquellos asuntos que ésta le encomiende y que sean de su competencia, colaborando en las actividades de planeación, evaluación y apoyo académico;
 
-III. Suplir a la autoridad ejecutiva de la entidad a la que pertenecen en ausencias que no excedan de tres meses. En relación con los Directores de Escuela, deberá observarse además lo estipulado en el artículo 38 de la Ley Orgánica;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. Suplir a la autoridad ejecutiva de la entidad a la que pertenecen en ausencias que no excedan de tres meses. En relación con los Directores o Directoras de Escuela, deberá observarse además lo estipulado en el artículo 38 de la Ley Orgánica;
 
 IV. Representar a su autoridad ejecutiva en las relaciones de trabajo con el personal adscrito a la entidad a la que pertenecen;
 
@@ -1047,17 +1355,23 @@ VI. Custodiar el archivo de la entidad académica a la cual está adscrito;
 
 VII. Certificar los documentos oficiales y publicar la información del órgano colegiado de gobierno al cual pertenece;
 
-VIII. Informar al Secretario General de los procesos de designación de autoridades ejecutivas y elección de profesores representantes de personal académico y estudiantes ante los órganos colegiados, con quince días de anticipación a la fecha de la sesión donde se integrará la Comisión Especial, para efectos de recibir el apoyo técnico necesario;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII. Informar a la persona titular de la Secretaría General de los procesos de designación de autoridades ejecutivas y elección de las personas integrantes del profesorado representantes del personal académico y estudiantes ante los órganos colegiados, con quince días de anticipación a la fecha de la sesión donde se integrará la Comisión Especial, para efectos de recibir el apoyo técnico necesario;
 
 IX. Llevar el registro de la producción académica de su entidad; y
 
 X. Las demás que sean inherentes a su cargo, así como aquellas que deriven de la legislación universitaria o le sean encomendadas por su autoridad ejecutiva.
 
-Funciones específicas de los Secretarios Académicos de las Divisiones y de las Escuelas del Nivel Medio Superior
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Funciones específicas de las Secretarías Académicas de las Divisiones y de las Escuelas del Nivel Medio Superior
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 84.
 
-Además de lo señalado en el artículo anterior, corresponde exclusivamente a los Secretarios Académicos de las Divisiones y de las Escuelas del Nivel Medio Superior:
+Además de lo señalado en el artículo anterior, corresponde exclusivamente a las personas titulares de las Secretarías Académicas de las Divisiones y de las Escuelas del Nivel Medio Superior:
 
 I. Colaborar con la Dirección de la entidad correspondiente en las actividades de planeación, evaluación y apoyo académico;
 
@@ -1113,21 +1427,33 @@ c) Mencionar de manera expresa y clara los hechos en que basa su impugnación y 
 
 d) En su caso, las pruebas que ofrezca;
 
-III. El Secretario del órgano colegiado de gobierno o autoridad ejecutiva que emitió el acto o resolución impugnada, deberá remitir el escrito del recurso de revisión a la autoridad resolutora, dentro del plazo de cuarenta y ocho horas a su recepción, anexando un informe circunstanciado;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+III. La Secretaría del órgano colegiado de gobierno o autoridad ejecutiva que emitió el acto o resolución impugnada, deberá remitir el escrito del recurso de revisión a la autoridad resolutora, dentro del plazo de cuarenta y ocho horas a su recepción, anexando un informe circunstanciado;
 
 IV. La autoridad resolutora resolverá en la siguiente sesión a la recepción del escrito y del informe circunstanciado, confirmando, modificando o revocando el acto o resolución impugnado; y
 
 V. La resolución se deberá notificar al promovente dentro de las cuarenta y ocho horas siguientes a su emisión.
 
-Será competente para resolver el recurso de revisión el órgano colegiado de gobierno que sea superior jerárquico al órgano o autoridad ejecutiva que haya emitido el acto o resolución impugnado. En contra de los actos o resoluciones de los Consejos Divisionales conocerá el Consejo Universitario de Campus; de las Academias de Escuela el Consejo Académico del Nivel Medio Superior y en el Caso de los Consejos Universitarios de Campus y del Consejo Académico del Nivel Medio Superior, conocerá el Consejo General Universitario.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Recibido el recurso de revisión, el presidente del órgano resolutor proveerá lo necesario para su admisión o desechamiento por haberse presentado extemporáneamente o por no contar con la firma del solicitante.
+La competencia para resolver el recurso de revisión sobre el acto o resolución que emita un órgano colegiado o autoridad ejecutiva de gobierno corresponderá al órgano que sea su superior jerárquico, conforme a la integración de los órganos colegiados de gobierno descritas en el presente Estatuto. En contra de los actos o resoluciones de los Consejos Divisionales conocerá el Consejo Universitario de Campus; de las Academias de Escuela el Consejo Académico del Nivel Medio Superior y en el caso de los Consejos Universitarios de Campus y del Consejo Académico del Nivel Medio Superior, conocerá el Consejo General Universitario.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Tratándose del recurso de revisión contra actos o resoluciones emitidas por las Comisiones de Honor y Justicia del Consejo General Universitario, de los Consejos Universitarios de Campus y del Consejo Académico del Nivel Medio Superior, en el marco de procedimientos de responsabilidad universitaria, el órgano competente para conocer del recurso será el órgano colegiado de gobierno al que pertenecen.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Recibido el recurso de revisión, la presidencia del órgano resolutor proveerá lo necesario para su admisión o desechamiento por haberse presentado extemporáneamente o por no contar con la firma del solicitante.
 
 Recurso de reconsideración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 89.
 
-El recurso de reconsideración procede en contra de los actos y resoluciones del Consejo General Universitario, se interpondrá ante el Secretario General dentro de los cinco días siguientes a su notificación.
+El recurso de reconsideración procede en contra de los actos y resoluciones del Consejo General Universitario, se interpondrá ante la Secretaría General dentro de los cinco días siguientes a su notificación.
 
 El escrito deberá contener los requisitos señalados en la fracción II, del artículo anterior.
 
@@ -1174,3 +1500,13 @@ Dr. Luis Felipe Guerrero Agripino
 El Secretario General
 
 Dr. Héctor Efraín Rodríguez de la Rosa
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo único. El presente Acuerdo de reforma entrará en vigencia el 1 de septiembre de dos mil veintiuno, previa publicación en la Gaceta Universitaria y el Periódico Oficial del Gobierno del Estado de Guanajuato.
