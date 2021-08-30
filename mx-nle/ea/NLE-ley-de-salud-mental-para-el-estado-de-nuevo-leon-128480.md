@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2021-06-16"
+last_updated: "2021-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -117,7 +117,9 @@ XV. Interconsulta: al procedimiento mediante el cual a petición del personal m�
 
 XVI. Ley de Salud: a la Ley Estatal de Salud;
 
-XVII. Persona usuaria: aquella que recibe el beneficio de cualquier programa o campaña de salud mental, de prevención o manejo de trastornos mentales, encaminadas a la preservación de sus salud mental y calidad de vida;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XVII. Persona usuaria: aquella que recibe el beneficio de cualquier programa o campaña de salud mental, de prevención o manejo de trastornos mentales y de prevención, atención o posvención del suicidio encaminada a la preservación de su salud mental y calidad de vida;
 
 XVIII. Personal de salud: profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud mental;
 
@@ -911,7 +913,9 @@ V. Especificar el tipo de tratamiento que se les proporcionará y los métodos p
 
 ### Capítulo XI. De la atención psiquiátrica y/o psicológica para personas en conflicto con la ley penal
 
-### Capítulo XII. De las Sanciones y del Recurso de Inconformidad
+### Capítulo XI Bis. De la detección, prevención y atención al suicidio
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 90.
 
@@ -962,6 +966,72 @@ Podrán celebrarse convenios o acuerdos de coordinación entre el Tribunal Super
 ###### Artículo 101.
 
 En términos de lo dispuesto en los artículos 192, 193 y 194 de la Ley Nacional de Ejecución Penal, el establecimiento para la atención integral de personas declaradas judicialmente como inimputables y a quienes se les señalo una medida de seguridad de tipo internamiento y curación, será coordinado por la Secretaría de Salud del Estado y, en el ámbito de sus atribuciones tendrá la participación de las dependencias del Gobierno cuyas funciones cubran las áreas educativas, de asistencia social y familiar, laborales, de desarrollo social, deportivas y culturales, en un esquema de coordinación y corresponsabilidad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
+
+### Capítulo XII. De las Sanciones y del Recurso de Inconformidad
+
+###### Artículo 101 Bis.
+
+Toda persona en el Estado que haya realizado un intento de suicidio, así como sus familiares, tienen derecho a ser atendidas en el marco de las políticas de salud que la Secretaría implemente para tal efecto, asegurando en todo momento la confidencialidad de la información, resguardando sus datos personales en toda asistencia y/o tratamiento de un paciente con conductas suicidas con estricto apego a la normatividad correspondiente y vigilando en todo momento la no revictimización de la persona con intento suicida, consumado o no, así como sus familiares y círculo cercano.
+
+En todo momento se priorizará la atención de los niños, niñas y adolescentes sin ningún tipo de menoscabo o discriminación.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 101 Bis 1.
+
+En cuanto a la detección, prevención y atención del suicidio y sus conductas relacionadas, se entenderá por:
+
+I.- Conducta suicida: el conjunto de comportamientos relacionados con la intencionalidad de comunicar, actuar o ejecutar un acto autodestructivo que podría acabar con la propia vida;
+
+II.- Intento suicida: la acción autodestructiva a la que sobrevive la persona con ideación o conducta suicida.
+
+III. Posvención: Acciones e intervenciones posteriores a un intento suicida o a un suicidio destinadas a trabajar con las personas sobrevivientes y sus familias; y
+
+IV. Suicidio: Acto deliberado e intencional realizado por una persona para quitarse la vida.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 101 Bis 2.
+
+En materia de detección, prevención y atención al suicidio e independientemente de las atribuciones que le son conferidas en el artículo 24 de la presente Ley, le corresponde a la Secretaría:
+
+I. Inducir la disminución en la incidencia del suicidio así como su erradicación, mediante la prevención, atención y posvención, a través de las siguientes acciones:
+
+a) Elaborar estrategias integrales con enfoque coordinado, interdisciplinario y multisectorial para combatir la problemática del suicidio;
+
+b) Implementar acciones, considerando la participación interinstitucional con enfoque interdisciplinario, orientados a la prevención, atención, posvención y erradicación del suicidio;
+
+c) Realizar tareas de sensibilización de la población, capacitación y profesionalización de recursos humanos, personal médico, paramédico y, en su caso, quienes atiendan a las personas en crisis, en instituciones gubernamentales y privadas para la detección de las personas con conductas suicidas, su prevención, atención, y posvención;
+
+d) Diseñar e implementar los procedimientos posteriores a una conducta suicida, para asistir y acompañar a las personas, familia o instituciones vinculadas a la persona que se privó la vida;
+
+e) Promover la integración, operación y funcionamiento de organismos consultivos en los que participen instituciones dedicadas a la investigación, y organizaciones civiles;
+
+f) Elaborar y mantener actualizada una guía práctica para la atención del paciente con conducta suicida;
+
+g) Diseñar un protocolo de intervención para los servicios de emergencia hospitalaria, considerando la coordinación entre las instituciones de servicios de salud del sector público y privado, y otros ámbitos comunitarios intervinientes;
+
+h) Apoyar, asesorar, llevar registro, así como vigilancia de las instituciones, asociaciones, organizaciones no gubernamentales y profesionales del sector público y privado, para que cumplan con los estándares establecidos por la autoridad de aplicación para la prevención, atención y posvención del suicidio;
+
+i) Implementar un sistema de información estadística que contenga datos de los intentos, así como de suicidios cometidos en la entidad; y
+
+j) Promover los principios de equidad y no discriminación en el acceso y prestación a los servicios de salud de quienes presenten alguna conducta suicida.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 101 Bis 3.
+
+Le corresponde al Instituto elaborar conforme a las políticas dictadas por la Secretaría de Salud, y dentro del marco de los sistemas nacional y estatal de salud, un programa anual de trabajo, en el que se refleje como mínimo, las bases para la atención del paciente con riesgo suicida o intento de suicidio, y sus familiares, el apoyo de un equipo interdisciplinario que asegure el acompañamiento durante su tratamiento y recuperación.
+
+Como parte del acompañamiento médico podrán participar miembros de la comunidad, círculo y familiares del paciente, siempre y cuando estos coadyuven efectivamente en su rehabilitación.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 101 Bis 4.
+
+Cuando se trate del intento o la conducta suicida de una niña, niño o adolescente, la institución que primero conozca del caso deberá dar aviso del incidente a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, a fin de que realice las acciones necesarias para salvaguardar los derechos de la niña, niño o adolescente.
 
 ###### Artículo 102.
 
@@ -1040,3 +1110,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Ejecutivo del Estado tendrá 90 días naturales para elaborar los lineamientos, bajo los que se llevará a cabo lo dispuesto en el presente Decreto. La Procuraduría de Protección de Niñas, Niños y Adolescentes, la Secretaría Estatal de Salud y la Secretaría de Educación del Estado de Nuevo León, deberán adecuar todas las disposiciones normativas correspondientes (sic) 30 días naturales después de emitidos los lineamientos mencionados.
 
 TERCERO.- En los lineamientos que se realicen, deberá darse prioridad a que el Tamiz de Salud Mental, se aplique haciendo uso de medios telemáticos, aprovechando los recursos materiales, humanos y tecnológicos con los que ya se cuenta, tanto en la Secretaria de Educación, así como en la Secretaria de Salud, sin que sea limitativo, en caso de que el Titular del Ejecutivo del Estado, considere la dispensa de mayores recursos para cumplir debidamente con lo dispuesto en el presente Decreto, deberá de prever en su proyecto de presupuesto de egresos para el ejercicio fiscal siguiente, la partida presupuestal correspondiente.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 536. SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 4; Y SE ADICIONA UN CAPÍTULO XI BIS DENOMINADO “DE LA DETECCIÓN, PREVENCIÓN Y ATENCIÓN AL SUICIDIO” QUE CONSTA DE LOS ARTÍCULOS 101 BIS, 101 BIS 1, 101 BIS 2, 101 BIS 3 Y 101 BIS 4, TODOS DE LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría Estatal de Salud, tendrá un lapso de 90 días naturales contados a partir del día de la entrada en vigor del presente Decreto, para adecuar sus reglamentos correspondientes a fin de dar cumplimiento al contenido del mismo.
+
+TERCERO.- Las disposiciones contenidas en el presente Decreto estarán sujetas al presupuesto del año en curso. El Titular del Poder Ejecutivo del Estado de ser el caso, incluirá en el proyecto de Egresos del Estado para el Ejercicio 2022, los recursos necesarios para la aplicación del presente Decreto.
