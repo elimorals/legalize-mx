@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2021-05-24"
+last_updated: "2021-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -49,7 +49,9 @@ CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
 Las disposiciones del presente Código Municipal son de orden público e interés social y reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 68 de la Constitución Política del Estado de Aguascalientes, 1° , 2°, 3° , 4° y 36 fracción I de la Ley Municipal para el Estado de Aguascalientes, los cuales otorgan al H. Ayuntamiento del Municipio de San Francisco de los Romo, Estado de Aguascalientes, las facultades para aprobar, de acuerdo con las leyes en materia municipal expedidas por el Congreso del Estado, las disposiciones administrativas de observancia general dentro de su jurisdicción, que organicen la administración pública, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-Las presentes disposiciones tienen por objeto regular la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre mujeres y hombres, así como la integridad moral del individuo y de la familia regulando además los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Las presentes disposiciones tienen por objeto regular la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre mujeres y hombres, así como la integridad moral del individuo y de la familia regulando además los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, movilidad y transporte locales.
 
 Quedan obligados al cumplimiento y observancia del presente Código, sin distinción todas y todos los habitantes' que conformen la población del Municipio.
 
@@ -647,7 +649,9 @@ VI.- Agua Potable, drenaje y alcantarillado;
 
 VII.- D.I.F. Municipal, Equidad y Género;
 
-VIII.- Seguridad Pública, Tránsito Municipal y Protección Civil
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII.- Seguridad Pública y Movilidad Municipal, y Protección Civil
 
 Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
@@ -799,7 +803,9 @@ f) Rastro;
 
 g) Calles, parques, jardines y su equipamiento;
 
-h) Seguridad pública, en los términos del Artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito; y
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+h) Seguridad Pública y Movilidad en los términos del Artículo 21 de la Constitución Federal; y
 
 i) Unidades deportivas y de promoción cultural de su competencia.
 
@@ -841,7 +847,9 @@ LIX. El Municipio podrá coordinarse con otros municipios entre sí, con municip
 
 LX. Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
 
-LXI. Nombrar al Titular de Seguridad Pública y Tránsito Municipal; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+LXI. Nombrar al Titular de Seguridad Pública y Movilidad Municipal; y
 
 LXII. Las demás que le confieran el presente Código, la ley en la materia, y otras disposiciones legales.
 
@@ -859,7 +867,9 @@ III. Dentro de su competencia, cumplir y hacer cumplir las disposiciones conteni
 
 IV. Tomar la Protesta de Ley a los Regidores y Síndico, funcionarios y empleados del Municipio;
 
-V. Proponer al H. Ayuntamiento los nombramientos del Secretario del H. Ayuntamiento, del titular de Seguridad Pública y Tránsito Municipal, del Director General de Finanzas y Administración y de recaudadores de fondos de la Hacienda Municipal, así como nombrar a los demás funcionarios públicos municipales;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Proponer al H. Ayuntamiento los nombramientos del Secretario del H. Ayuntamiento, del titular de Seguridad Pública y Movilidad Municipal, del Director General de Finanzas y Administración y de recaudadores de fondos de la Hacienda Municipal, así como nombrar a los demás funcionarios públicos municipales;
 
 VI. Presidir y dirigir las Sesiones que deba celebrar el H. Ayuntamiento;
 
@@ -879,7 +889,9 @@ XIII. Promover y vigilar la aplicación de las políticas públicas de buen gobi
 
 XIV. Conceder licencia para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección General de Finanzas y Administración;
 
-XV. Tener bajo su mando los cuerpos de seguridad pública, nombrar y remover a los jefes y agentes de policía y tránsito del H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XV. Tener bajo su mando los cuerpos de Seguridad Pública y Movilidad, nombrándolos y removiéndolos de sus cargos mediante los Procedimientos establecidos en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo.
 
 XVI. Ordenar y en su caso vigilar las visitas domiciliarias que realice la Administración Pública Municipal, cumplan con lo dispuesto por el Artículo 16 de la Constitución Federal y en el presente Código;
 
@@ -1051,7 +1063,9 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 ### CAPITULO I. De las Dependencias y Entidades de la Administración Municipal
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2021, PAGINAS 37 Y 38.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO EN SUS UNIDADES ADMINISTRATIVAS, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 99.
 
@@ -1070,8 +1084,6 @@ Coordinación de Comunicación Social;
 Coordinación de Relaciones Públicas;
 
 Coordinación de Gestión Social;
-
-Delegación Puertecito de la Virgen;
 
 Delegación La Escondida;
 
@@ -1097,9 +1109,13 @@ Dirección de Servicios Públicos y Ecología;
 
 Dirección de Asuntos Jurídicos;
 
-Dirección de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Dirección de Seguridad Pública y Movilidad Municipal;
 
 De las Unidades Administrativas con que contará la Presidencia Municipal se desprenderá la estructura siguiente:
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 I.- PRESIDENCIA MUNICIPAL:
 
@@ -1116,6 +1132,8 @@ Coordinación de Gestión Social;
 Instancia Municipal de la Mujer;
 
 Instancia Municipal de la Juventud.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 II.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF)
 
@@ -1145,17 +1163,23 @@ Departamento de Unidad de Trabajo Social y Canalización;
 
 Departamento de Psicología;
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 III.- COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
 Coordinador de Comunicación Social;
 
 Departamento de Comunicación e Información.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 IV.- DELEGACIÓN PUERTECITO DE LA VIRGEN.
 
 Delegado;
 
 Subdelegado.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 V.- DELEGACIÓN LA ESCONDIDA.
 
@@ -1219,6 +1243,8 @@ Departamento de Control Patrimonial.
 
 Departamento de Informática, Tecnologías de la Información y Comunicación (TIC's)
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 VIII.- DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
 
 Director de Planeación y Evaluación;
@@ -1232,6 +1258,8 @@ Departamento de Monitoreo y Evaluación;
 Departamento de Programación;
 
 Departamento de Seguimiento a la Obra Pública.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 IX.- DIRECCIÓN DE CONTRALORÍA MUNICIPAL.
 
@@ -1247,6 +1275,8 @@ Departamento Jurídico y Responsabilidades Administrativas;
 
 Departamento de Coordinación de Mejora Regulatoria, Simplificación Administrativa E Innovación.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 X.- DIRECCIÓN DE OBRAS PÚBLICAS.
 
 Director de Obras Públicas;
@@ -1259,6 +1289,8 @@ Departamento de Proyectos;
 
 Departamento de Supervisión.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 XI.- DIRECCIÓN DE DESARROLLO SOCIAL, ECONÓMICO Y AGROPECUARIO.
 
 Director de Desarrollo Social, Económico y Agropecuario;
@@ -1270,6 +1302,8 @@ Departamento de Concertación Social;
 Departamento de Desarrollo Económico;
 
 Departamento de Desarrollo Agropecuario.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 XII.- DIRECCIÓN DE DESARROLLO URBANO.
 
@@ -1287,6 +1321,8 @@ Departamento de Fraccionamientos y Regularización;
 
 Departamento de Supervisión e Imagen Urbana.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 XIII.- DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA.
 
 Director de Servicios Públicos y Ecología;
@@ -1303,6 +1339,8 @@ Departamento de Parques y Jardines;
 
 Departamento de Ecología;
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 XIV.- DIRECCIÓN DE ASUNTOS JURÍDICOS.
 
 Director de Asuntos Jurídicos;
@@ -1313,25 +1351,69 @@ Departamento de Gestión Jurídica;
 
 Departamento de Jueces Calificadores.
 
-XV.- DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Director de Seguridad Pública y Tránsito Municipal;
+FRACCIÓN XV.- DIRECCIÓN DE SEGURIDAD PÚBLICA Y MOVILIDAD MUNICIPAL.
 
-Subdirector de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Primer Comandante de Seguridad Pública y Tránsito Municipal;
+Director de Seguridad Pública y Movilidad Municipal;
 
-Comandante de Grupo;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Oficiales;
+Subdirector Operativo de Seguridad Pública y Movilidad Municipal.
 
-Suboficiales;
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Agentes;
+Subdirector de Asuntos Internos y Jurídico de Seguridad Pública y Movilidad Municipal.
 
-Departamento de Servicios Médicos;
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2021)</small>
 
-Departamento de Asuntos Internos.
+Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero, y
+
+d) Policía.
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Servicio Médico;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Prevención del Delito;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Trabajo Social;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Unidad de Análisis;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Unidad de Inteligencia;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Profesionalización;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Operadores de Cámaras;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Administración; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Departamento de Armería.
 
 ###### ARTICULO 100.
 
@@ -2613,35 +2695,51 @@ XXI. Las demás que designen las leyes aplicables en la materia y las que encomi
 
 XXII. En caso de ausencia del Director de Servicios Públicos y Ecología, el Subdirector de Servicios Públicos y ecología podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
 
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 30 DE AGOSTO DE 2021)</small>
+
 APARTADO DECIMO TERCERO
 
-De la Dirección de Seguridad Pública y Tránsito Municipal
+De la Dirección de Seguridad Pública y Movilidad Municipal
 
 ###### ARTICULO 115.
 
 Compete al H. Ayuntamiento mantener el orden y la seguridad pública en el Municipio, así como prevenir la comisión de delitos y proteger a las personas en sus bienes y derechos.
 
-Dicha función será ejecutada a través de la Dirección de Seguridad Pública y Tránsito Municipal, la cual tiene las facultades que le confiere el presente Código siendo las siguientes:
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-I. Efectuar exámenes de selección a los aspirantes a formar parte de la policía municipal y tránsito;
+Dicha función será ejecutada a través de la Dirección de Seguridad Pública y Movilidad Municipal, la cual tiene las facultades que le confiere el presente Código siendo las siguientes:
 
-II. Realizar inventario y tener el resguardo correcto de los documentos y objetos que les sean recogidos a los detenidos y que resulte motivo de conflicto o peligro para su vida durante el tiempo que dure su detención;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Efectuar exámenes de selección a los aspirantes a formar parte de la policía municipal y movilidad;
+
+II. (DEROGADA, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2021)</small>
 
 III. Llevar libro del registro de los detenidos donde se asiente el día y hora en que fueron detenidos, los motivos de la detención, el día y hora de su salida, así como el monto de la multa pagada en su caso. Dicho registro podrá ser en forma escrita o en forma magnética;
 
-IV. Conocer y dictaminar sobre las faltas de policía y buen gobierno, las sanciones correspondientes;
+IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2021)
 
-V. Ejercitar de oficio las funciones conciliatorias cuando de la falta cometida deriven daños y perjuicios que deban reclamarse por la vía civil y en su caso obtener la reparación o dejar a salvo los derechos de lo ofendido;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. Expedir constancias sobre hechos asentados en los libros de registro;
+V. Ejercitar de oficio las funciones conciliatorias cuando los infractores a la Ley de Movilidad del Estado de Aguascalientes deseen celebrar un convenio de no intervención derivado de daños materiales, siempre y cuando no contravengan disposiciones contenidas en otras leyes o códigos;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Expedir constancias de no antecedentes policiales;
 
 VII. Ejecutar las sanciones de arresto que sean impuestas por autoridad competente;
 
 VIII. Vigilar que en el Municipio se cumpla con las disposiciones de este Código;
 
-IX. Imponer multas e infracciones a las disposiciones relativas a seguridad pública y tránsito municipal respectivamente y recibir el pago de las mismas, en caso de tratarse de horas o días en que no laboran las cajas de la Dirección General de Finanzas y Administración, la Dirección de Seguridad Publica y Tránsito Municipal, recibirá el importe de las multas expidiendo el recibo correspondiente;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-X. En materia de vialidad serán aplicables las disposiciones establecidas en la Ley de Tránsito y Vialidad en el Estado;
+IX. Imponer multas e infracciones a las disposiciones relativas a seguridad pública y movilidad municipal respectivamente y recibir el pago de las mismas, en caso de tratarse de horas o días en que no laboran las cajas de la Dirección General de Finanzas y Administración, la Dirección de Seguridad Publica y Movilidad Municipal, recibirá el importe de las multas expidiendo el recibo correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+X. En materia de vialidad serán aplicables las disposiciones establecidas en la Ley de Movilidad Estado de Aguascalientes;
 
 XI. Deberán apoyar en sus funciones a las autoridades municipales y efectuar una permanente vigilancia dentro de la jurisdicción del Municipio; y aquéllas otras que establezcan otras o leyes o le atribuya el H. Ayuntamiento y el Presidente Municipal.
 
@@ -2657,23 +2755,25 @@ Las adquisiciones de bienes muebles y servicios cuyo monto sea inferior a tres m
 
 Lo dispuesto en el presente Título, no será aplicable a los contratos que se celebren con otras dependencias de gobierno incluyendo los organismos descentralizados y desconcentrados, municipales, estatales y federales.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 117.
 
 El Comité de Adquisiciones será integrado de la siguiente manera:
 
-l. El Director General de Finanzas y Administración, quien presidirá el Comité.
+I. El Presidente; Que será el Director General de Finanzas y Administración, quien presidirá el comité.
 
-II. El Regidor de Hacienda;
+II. Un Secretario Ejecutivo; Que será designado por el Sujeto de la Ley Contratante
 
-III. El Síndico;
+III. Tres vocales que serán; El Regidor de Hacienda, El Síndico y un representante de la Secretaria o Tesorería del Municipio o un representante de la Coordinación Estatal de Planeación y Proyectos, o su similar del Municipio.
 
-IV. El Contralor Municipal;
+IV. Un representante de la Contraloría del Estado o del Órgano Interno de Control de la Entidad o Municipios según corresponda.
 
-V. Un representante de la Cámara Nacional de Comercio; y
+V. Un representante de la Cámara o Asociación del ramo, mismos que serán designados por el Titular de la entidad del ejecutivo o del Municipio.
 
-VI. Un representante de la Cámara Nacional de la Industria de la Transformación; Cada uno de los integrantes nombrará a un suplente, hecha excepción del Síndico.
+Cada uno de los integrantes nombrará a un suplente a excepción del Síndico.
+
+Todos los integrantes del Comité tendrán voz y voto en las decisiones del mismo, a excepción del Contralor Municipal quien únicamente tendrá voz.
 
 ###### ARTICULO 118.
 
@@ -4147,7 +4247,9 @@ IX. Bien Obsoleto: Al Bien mueble que no obstante que no haya terminado su vida 
 
 X. Bien de Uso Común: Al Bien mueble ubicado en áreas municipales de uso común y de utilidad general y que por lo mismo no posee resguardo;
 
-XI. Bien de uso Público: Al Bien mueble ubicado en lugares públicos y que por lo mismo no posee un resguardo y que son vigilados por los elementos adscritos a la Dirección de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XI. Bien de uso Público: Al Bien mueble ubicado en lugares públicos y que por lo mismo no posee un resguardo y que son vigilados por los elementos adscritos a la Dirección de Seguridad Pública y Movilidad Municipal;
 
 XII. Resguardo: Al Documento Público expedido por Control Patrimonial, en el que consta la firma del resguardante y que contiene los datos del bien mueble;
 
@@ -4577,7 +4679,9 @@ V. En caso de robo, pérdida o extravío de alguna o las dos palcas de circulaci
 
 VI. Mostrar una identificación con fotografía que lo acredite como Servidor Público adscrito al Municipio, cuando se lo requiera el personal de Control Patrimonial;
 
-VII. Cubrir el importe de las multas que le sean impuestas por la Dirección de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII. Cubrir el importe de las multas que le sean impuestas por la Dirección de Seguridad Pública y Movilidad Municipal;
 
 VIII. Acudir al Centro de Verificación Vehicular en tiempo y forma según el vale expedido por el Taller, de no ser así, deberá pagar la multa que origina su falta;
 
@@ -5005,19 +5109,25 @@ VI. TURNO DEL CASO A LA CONTRALORIA MUNICIPAL, para el fincamiento de responsabi
 
 Todo lo no previsto en el presente Título será resuelto por la Comisión.
 
-## TITULO SEPTIMO. DEL DEPARTAMENTO DE JUECES CALIFICADORES DE SEGURIDAD PUBLICA Y TRANSITO
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 30 DE AGOSTO DE 2021)</small>
+
+## TITULO SÉPTIMO. DEL DEPARTAMENTO DE JUECES CALIFICADORES DE SEGURIDAD PUBLICA Y MOVILIDAD
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 379.
 
-En el Municipio de San Francisco de los Romo a efecto de llevar a cabo el control necesario de los detenidos y de las multas, que por faltas administrativas imponga la policía preventiva o de tránsito, existirá un Departamento de Jueces Calificadores de Seguridad Pública y Tránsito respectivamente, que dependerá de la Dirección de Asuntos Jurídicos.
+En el Municipio de San Francisco de los Romo a efecto de llevar a cabo el control necesario de los detenidos y de las multas, que por faltas administrativas imponga la Dirección de Seguridad Pública y Movilidad Municipal, así como otras corporaciones, existirá un Departamento de Jueces Calificadores de Seguridad Pública y Movilidad respectivamente, que dependerá de la Dirección de Asuntos Jurídicos.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 380.
 
-Será facultad exclusiva del Departamento de Jueces Calificadores de Seguridad Pública y Tránsito Municipal, la aplicación de sanciones y medidas de seguridad por la violación y contravención a las disposiciones del presente Capítulo.
+Será facultad exclusiva del Departamento de Jueces Calificadores de Seguridad Pública y Movilidad Municipal, la aplicación de sanciones y medidas de seguridad por la violación y contravención a las disposiciones del presente Capítulo.
 
-Así como la de calificación, reclasificación y reconsideración, según proceda, de las multas y sanciones por la contravención de la Ley de Vialidad del Estado y de las disposiciones de Tránsito del Municipio de San Francisco de los Romo y demás aplicables.
+Así como la de calificación, reclasificación y reconsideración, según proceda, de las multas y sanciones por la contravención de la Ley de Movilidad del Estado de Aguascalientes y de las disposiciones de movilidad del Municipio de San Francisco de los Romo y demás aplicables.
 
 ###### ARTICULO 381.
 
@@ -5083,7 +5193,9 @@ VIII. Llevar el control y registro de infractores;
 
 IX. Rendir diariamente al Director de Asuntos Jurídicos el informe respecto de los hechos de mayor relevancia, respecto de los infractores puestos a su disposición y de las sanciones aplicadas;
 
-X. Dictar las medidas y lineamientos necesarios al personal de Seguridad Pública y Tránsito para el buen funcionamiento del Juzgado Calificador;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+X. Dictar las medidas y lineamientos necesarios al personal de Seguridad Pública y Movilidad para el buen funcionamiento del Juzgado Calificador;
 
 XI. Remitir a las autoridades competentes las armas, objetos peligrosos o que sean motivo o estén afectos a la comisión de algún ilícito, así como las sustancias psicotrópicas, enervantes y estupefacientes que se hayan asegurado a los infractores;
 
@@ -5345,9 +5457,11 @@ V. Entregar la documentación necesaria al Juez Calificador en turno, a efecto d
 
 VI. Llevar el control administrativo de su área.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 401.
 
-En caso de que, el receptor o el Juez Calificador constatara que el infractor, al momento de su presentación, fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del policía que lo detuvo, aquel deberá de elaborar informe de los hechos, para los efectos de remitirlo a la Dirección General de Seguridad Pública y Tránsito, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
+En caso de que, el receptor o el Juez Calificador constatara que el infractor, al momento de su presentación, fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del policía que lo detuvo, aquel deberá de elaborar informe de los hechos, para los efectos de remitirlo a la Subdirección de Asuntos Internos y Jurídico de Seguridad Pública y Movilidad, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
 
 Si el médico de guardia constatara que el infractor, al momento de su detención, fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del policía que lo detuvo, deberá elaborar informe de los hechos y proceder en términos de lo establecido en el párrafo anterior.
 
@@ -5379,19 +5493,27 @@ Tratándose de los segundos, el Síndico Municipal remitirá en su caso, oficio 
 
 En ningún caso el personal del Municipio podrá tener dominio de los bienes para sí o por sus cónyuges, ascendientes, descendientes y colaterales dentro del cuarto grado, consanguíneos o por afinidad.
 
-### CAPITULO V. De los Jueces Calificadores de Tránsito
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 30 DE AGOSTO DE 2021)</small>
+
+### CAPITULO V. De los Jueces Calificadores de Movilidad
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 405.
 
-Es facultad exclusiva de los jueces calificadores de Tránsito, la calificación, reclasificación y reconsideración de las multas a que se hagan acreedores los infractores de la ley de Vialidad del Estado.
+Es facultad exclusiva de los jueces calificadores de Movilidad, la calificación, reclasificación y reconsideración de las multas a que se hagan acreedores los infractores de la Ley de Movilidad del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 406.
 
-El Juez Calificador de Tránsito llevará el control y funcionamiento administrativo del turno asignado, debiendo rendir informe al Director de Asuntos Jurídicos de su actividad.
+El Juez Calificador de Movilidad llevará el control y funcionamiento administrativo del turno asignado, debiendo rendir informe al Director de Asuntos Jurídicos de su actividad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 407.
 
-los infractores que no estén de acuerdo con la imposición de una o más infracciones, por contravenir disposiciones de la ley de Vialidad del Estado o disposiciones Reglamentarias de tránsito, podrán recurrir ante el Juez Calificador de Tránsito a formular instancia de reconsideración, y se substanciará conforme a las siguientes disposiciones:
+Los infractores que no estén de acuerdo con la imposición de una o más infracciones, por contravenir disposiciones de la Ley de Movilidad del Estado de Aguascalientes o disposiciones Reglamentarias de movilidad, podrán recurrir ante el Juez Calificador de Movilidad a formular instancia de reconsideración, y se substanciará conforme a las siguientes disposiciones:
 
 I. Deberá presentar dentro de los cinco días hábiles siguientes, al inmediato posterior a que fue impuesta, verbalmente o por escrito, una relación breve y concreta de los hechos, sus alegatos, y exhibiendo la infracción correspondiente;
 
@@ -5401,11 +5523,15 @@ III. En la resolución, del Juez Calificador resolverá fundada y motivadamente 
 
 IV. Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado así deberá de acreditarlo, a efecto de que sea procedente la reconsideración de la multa impuesta.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
+
 ###### ARTICULO 408.
 
 En caso de ser procedente la imposición de la multa, la calificará conforme las disposiciones aplicables y la notificará personalmente.
 
-Para calificación, reclasificación y reconsideración de las multas de tránsito, el Juez Calificador de Tránsito, deberá tomar en cuenta lo dispuesto en el Artículo 21 Constitucional.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Para calificación, reclasificación y reconsideración de las multas de movilidad, el Juez Calificador de Movilidad, deberá tomar en cuenta lo dispuesto en el Artículo 21 Constitucional.
 
 Los Jueces Calificadores sólo atenderán las gestiones que provengan directamente de los interesados y en ningún momento podrán emitir resoluciones respecto a flotillas de parques vehiculares públicos o privados. Se considera reincidencia para los efectos de éste capítulo la aplicación de una sanción de un mismo grupo y por la misma causa en un período de doce meses anteriores inmediatos a la nueva sanción.
 
@@ -6821,7 +6947,9 @@ VI. Rastro;
 
 VII. Mantenimiento de Calles, Parques y Jardines;
 
-VIII. Seguridad Pública y Tránsito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII. Seguridad Pública y Movilidad;
 
 IX. Control de Rabia y Población Canina; y
 
@@ -7231,9 +7359,11 @@ Queda prohibida la utilización de transformadores reconstruidos y la operación
 
 Todo sistema de alumbrado público deberá contar con equipos de control de encendido y apagado automático. Dispositivos de protección del sistema, que incluyan un sistema de tierra física por poste si la sub-estación está en postes metálicos y unidades de medición de energía en los puntos de entrega deben ser de siete terminales por 100 amperes para sub-estaciones hasta de 15 KVA, y 200 amperes en sub-estaciones de 25 a 37.5 KVA.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 601.
 
-En las vías principales y ejes viales se incluirán circuitos ahorradores de energía, previa validación de la Dirección de de (sic) Servicios Públicos, que permitan dejar fuera de operación una parte del sistema o disminuir la intensidad lumínica en las horas en que la densidad del tránsito vehicular o peatonal se reduzca.
+En las vías principales y ejes viales se incluirán circuitos ahorradores de energía, previa validación de la Dirección de de (sic) Servicios Públicos, que permitan dejar fuera de operación una parte del sistema o disminuir la intensidad lumínica en las horas en que la densidad de la movilidad vehicular o peatonal se reduzca.
 
 ###### ARTICULO 602.
 
@@ -7517,7 +7647,9 @@ Para tal efecto, la persona con quien se entienda la diligencia estará obligado
 
 Son autoridades auxiliares, en los términos de este Código:
 
-I. Los elementos de la Dirección de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Los elementos de la Dirección de Seguridad Pública y Movilidad Municipal;
 
 II. El Departamento de Reglamentos;
 
@@ -8479,9 +8611,11 @@ Si se desconoce el nombre del propietario se dará aviso a la autoridad municipa
 
 En este caso, el propietario deberá pagar además de la sanción y los daños ocasionados el transporte a dichos corrales.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 755.
 
-En caso de encontrarse a un semoviente causando daños irreparables en un predio de una comunidad del Municipio, el propietario del mismo podrá sacar el animal y conducirlo de inmediato al Delegado o Comisario Municipal, quien le dará la orden para trasladarlo a los corrales del pie mostrenco del Rastro Municipal. En caso de semovientes peligrosos tales como toros de lidia, fieras salvajes, reptiles de cualquier tipo o cualquier animal que resulte de peligro inminente para la comunidad y que invadan un predio ejidal, zona urbana de la comunidad o alguna propiedad privada, se faculta a la Dirección de Seguridad Pública y Tránsito Municipal, para que sacrifique de inmediato al animal, sin obligación de indemnizar al propietario del mismo.
+En caso de encontrarse a un semoviente causando daños irreparables en un predio de una comunidad del Municipio, el propietario del mismo podrá sacar el animal y conducirlo de inmediato al Delegado o Comisario Municipal, quien le dará la orden para trasladarlo a los corrales del pie mostrenco del Rastro Municipal. En caso de semovientes peligrosos tales como toros de lidia, fieras salvajes, reptiles de cualquier tipo o cualquier animal que resulte de peligro inminente para la comunidad y que invadan un predio ejidal, zona urbana de la comunidad o alguna propiedad privada, se faculta a la Dirección de Seguridad Pública y Movilidad Municipal, para que sacrifique de inmediato al animal, sin obligación de indemnizar al propietario del mismo.
 
 ###### ARTICULO 756.
 
@@ -8735,17 +8869,23 @@ IV. Deberán tener ventilación suficiente y estar acomodados de tal forma que p
 
 V. Deberán mantenerse en buen estado los vehículos y todos los accesorios, debiendo asearse antes y después de las labores propias.
 
-# LIBRO SEXTO. DE LA SEGURIDAD PUBLICA Y TRANSITO
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 30 DE AGOSTO DE 2021)</small>
+
+# LIBRO SEXTO. DE LA SEGURIDAD PUBLICA Y MOVILIDAD
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 797.
 
-El presente Capítulo tiene por objeto establecer las bases para regular la actuación de los Cuerpos de Seguridad Pública y Tránsito y es de observancia obligatoria para todos los elementos que la conforman, en el área geográfica de competencia municipal.
+El presente Capítulo tiene por objeto establecer las bases para regular la actuación de los Cuerpos de Seguridad Pública y Movilidad y es de observancia obligatoria para todos los elementos que la conforman, en el área geográfica de competencia municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 798.
 
-La Dirección de Seguridad Pública y Tránsito Municipal es una Área Administrativa subordinada al Presidente Municipal, quien es el jefe inmediato de los Cuerpos de Policía Preventiva y Tránsito, destinado en un marco de respeto a las garantías individuales, a:
+La Dirección de Seguridad Pública y Movilidad Municipal es una Área Administrativa subordinada al Presidente Municipal, quien es el jefe inmediato de los Cuerpos de Policía Preventiva y Movilidad, destinado en un marco de respeto a las garantías individuales, a:
 
 I. Mantener la tranquilidad y el orden público, vigilando permanentemente todo el territorio del Municipio, apegándose a la división de sectores que consigna el presente Código; en la zona rural del territorio del Municipio, deberá apoyar en sus funciones a los Delegados y Comisarios Municipales y efectuar una estrecha vigilancia en todos los poblados y rancherías;
 
@@ -8757,19 +8897,25 @@ IV Colaborar en la investigación y persecución de los delitos, siendo auxiliar
 
 V. Auxiliar a la población en casos de siniestros y desastres;
 
-VI. Vigilar el cumplimiento de las normas de tránsito de vehículos, semovientes y peatones dentro del Municipio;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Vigilar el cumplimiento de las normas de movilidad de vehículos, semovientes y peatones dentro del Municipio;
 
 VII. Auxiliar a las autoridades municipales, estatales y federales, en los casos en que se requiera el uso de la fuerza pública; y
 
 VIII. Practicar inspección anual a los vehículos registrados, para verificar el cumplimiento de las obligaciones que señala el presente Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 799.
 
-La Subdirección de Seguridad Pública y Tránsito Municipal depende de la Dirección de Seguridad Pública y Tránsito Municipal, tiene las siguientes atribuciones:
+La Subdirección Operativa de Seguridad Pública y Movilidad depende de Dirección de Seguridad Pública y Movilidad Municipal, tiene las siguientes atribuciones:
 
 I. Proponer las políticas en materia de prevención del delito, a fin de implementar modelos educativos que permitan combatir y abatir la delincuencia, fomentando en la población una cultura de prevención y seguridad que restaure y conserve el orden social y reduzca el daño causado por la delincuencia, promoviendo una participación corresponsable entre autoridades y ciudadanía, a fin de incrementar la seguridad personal y patrimonial de los habitantes del Municipio de San Francisco de los Romo;
 
-II. Desarrollar y aplicar las políticas, programas y acciones en materia de prevención del delito, mediante procesos conjuntos, que permitan la coparticipación de la Dirección de Seguridad Pública y Tránsito Municipal y la sociedad;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. Desarrollar y aplicar las políticas, programas y acciones en materia de prevención del delito, mediante procesos conjuntos, que permitan la coparticipación de la Dirección de Seguridad Pública y Movilidad Municipal y la sociedad;
 
 III. Promover la concertación institucional y sectorial en los ámbitos público, privado y social, participando en programas de prevención delictiva;
 
@@ -8789,33 +8935,75 @@ X. Fomentar programas de prevención en instituciones de enseñanza, con la part
 
 XI. Promover y asesorar a los comités, organizaciones vecinales, instituciones y sectores respecto de programas y acciones en materia de seguridad vecinal y prevención del delito, fomentando la cultura del autocuidado.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+ARTICULO 799 BIS.- La Subdirección de Asuntos Internos y Jurídico dependerá de la Dirección de Seguridad Pública y Movilidad Municipal, teniendo las siguientes atribuciones:
+
+I. Asesorar al Director, Subdirector Operativo y demás personal de la corporación en los aspectos jurídicos relacionados con la (sic) diferentes intervenciones que realicen en el desempeño de sus funciones y los demás inherentes a la naturaleza de la corporación.
+
+II. Atender las controversias legales relacionadas con el funcionamiento de la Dirección de Seguridad Pública y Movilidad.
+
+III. Realizar los estudios tendientes a proponer reformas para el buen funcionamiento de la Dirección de Seguridad Pública y Movilidad Municipal.
+
+IV. Recibir quejas de los ciudadanos en contra de Policías y de Policías en contra de personal de la Dirección General de Seguridad Pública y Movilidad Municipal, en relación con el incumplimiento de las obligaciones establecidas en los artículos 61 y 62 del Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo.
+
+Así mismo, iniciar el procedimiento de investigación cuando se pretenda condecorar o rendir homenaje a algún elemento operativo de la Dirección de Seguridad Pública y Movilidad de éste Municipio por actos destacados en la prestación del servicio.
+
+V. Realizar investigaciones de oficio, a efecto de determinar la existencia de conductas violatorias a los principios de actuación, así como la probable responsabilidad de algún elemento, ya sea en servicio o fuera de él.
+
+VI. Practicar visitas de vigilancia o inspección para cerciorarse del cumplimiento a los principios de actuación y deberes señalados en el presente Código y Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo.
+
+VII. Mantener un registro de las quejas, que deberá contener el nombre del Policía, cargo, número de expediente, faltas imputadas y la resolución dictada, debiendo informar de ello a la Comisión del Servicio Profesional de Carrera, Honor y Justicia del Municipio de San Francisco de los Romo.
+
+VIII. Vigilar que los elementos de la Dirección de Seguridad Pública y Movilidad Municipal cumplan con los convenios de coordinación para la realización de acciones en torno a los programas Estatales y Nacionales de Seguridad Pública.
+
+IX. Dar vista al Ministerio Público de los hechos materia de sus investigaciones que puedan ser constitutivos de delito.
+
+X. A efecto de hacer cumplir sus determinaciones derivadas de sus investigaciones, podrá solicitar a la Comisión del Servicio Profesional de Carrera, Honor y Justicia del Municipio de San Francisco de los Romo inicie con los procedimientos sancionadores establecidos en el Reglamento del Servicio Profesional de Carrera Policial.
+
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 800.
 
 El Departamento de la Unidad de Protección Civil depende de la Secretaría del Ayuntamiento y Dirección General de Gobierno, su objeto y atribuciones están contenidas en el Reglamento Municipal de Protección Civil de San Francisco de los Romo.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 801.
 
-El mando operativo de la Dirección de Seguridad Pública y Tránsito Municipal corresponde al Presidente Municipal, quien lo ejerce por sí o a través del Secretario del H. Ayuntamiento y Director General de Gobierno y por el Director de Seguridad Pública y Tránsito Municipal.
+El mando operativo de la Dirección de Seguridad Pública y Movilidad Municipal corresponde al Presidente Municipal, quien lo ejerce, por sí o a través del Secretario del H. Ayuntamiento y Director General de Gobierno y por el Director de Seguridad Pública y Movilidad Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 802.
 
-La Dirección de Seguridad Pública y Tránsito Municipal se sujetará a un régimen policial.
+La Dirección de Seguridad Pública y Movilidad Municipal se sujetará a un régimen policial.
 
-Para la observancia de dicho régimen, la Subdirección de Seguridad Pública y Tránsito Municipal, deberá estar concentrada en un Cuartel General, que contará con los siguientes servicios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2021)</small>
+
+Para la observancia de dicho régimen, la Subdirección Operativa de Seguridad Pública y Movilidad Municipal, deberá estar concentrada en una Comandancia, que contará con los siguientes servicios:
 
 I. Central de Radio;
 
-II. Guardia en Prevención;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-III. Servicio de Cuartel;
+II. Recorridos de vigilancia en los sectores establecidos;
 
-IV. Cuartel de Bomberos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-V. Cárcel Preventiva;
+III. Servicios fijos;
 
-VI. Control de Detenidos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Servicio de atención a la ciudadanía en la puerta de acceso a la Comandancia;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Operadores de Cámaras;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Control de Detenidos en Barandilla;
 
 VII. Trabajo Social;
 
@@ -8825,29 +9013,45 @@ IX. Estrados para la fijación de avisos y circulares; y
 
 X. Juzgado Calificador y lugar para el depósito de pertenencias de los detenidos.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 803.
 
-Para los efectos del servicio del personal operativo se considera horario normal, la jornada que comprende 12 horas continuas de labores, con su descanso inmediato de 24 horas, excepción hecha de los casos en que se dicten disposiciones de acuartelar a una parte o a la totalidad de la Corporación.
+Para los efectos del servicio del personal operativo se considera horario normal, la jornada que comprende 12 horas continuas de labores, con su descanso inmediato de 24 horas, excepción hecha de los casos en que se dicten disposiciones de acuartelar a una parte o a la totalidad de la Corporación o por necesidades del servicio en el que se deba cumplir un horario distinto.
 
-No podrán gozar del descanso de 24 horas señalado en el párrafo que antecede si el elemento operativo no ha realizado su jornada previa de 12 horas o si ha faltado a laborar en la jornada que le corresponde; deberá presentarse en el turno siguiente al que pertenece, contabilizándose con ello dos faltas consecutivas debido a que se suman las 12 horas de la falta más las 24 horas de descanso a las que sólo tiene derecho si hubiese laborado, por lo que la falta a laborar por dos jornadas consecutivas implica la suma total de cuatro faltas, considerándose que el elemento operativo incurre en la falta prevista en el Artículo 858 fracción I del presente Código.
+No podrán gozar del descanso de 24 horas señalado en el párrafo que antecede si el elemento operativo no ha realizado su jornada previa de 12 horas o si ha faltado a laborar en la jornada que le corresponde; deberá presentarse en el turno siguiente al que pertenece, contabilizándose con ello dos faltas consecutivas debido a que se suman las 12 horas de la falta más las 24 horas de descanso a las que sólo tiene derecho si hubiese laborado, por lo que la falta a laborar por dos jornadas consecutivas implica la suma total de cuatro faltas, considerándose que el elemento operativo incumplió con su obligación estipulada en el artículo 61 apartado A. DE PRIMER NIVEL fracción XXV del Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo, con lo cual se dará inicio al Procedimiento Sancionador establecido en dicho ordenamiento legal.
 
 ###### ARTICULO 804.
 
 Para los efectos de este Capítulo se entenderá por:
 
-I. Dirección: a la Dirección de Seguridad Pública y Tránsito Municipal, la cual se integra por el personal administrativo y por el personal operativo de la Subdirección de Seguridad Pública y Tránsito Municipal y demás personal adscrito directamente a la Dirección;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Director: al titular de la Dirección de Seguridad Pública y Tránsito Municipal;
+I. Dirección: a la Dirección de Seguridad Pública y Movilidad Municipal, la cual se integra por personal administrativo y operativo;
 
-III. Comisión de Honor y Justicia: es el órgano colegiado de la Dirección de Seguridad Pública y Tránsito Municipal, encargado de conocer, resolver y sancionar los casos de faltas cometidas por los elementos operativos de los Cuerpos de Seguridad Pública en servicio o fuera de él, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias previstos en el presente ordenamiento, así como el encargado de otorgar reconocimientos a las acciones relevantes en que intervinieron los miembros de la Dirección;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Subdirector de Seguridad Pública y Tránsito Municipal: es el subalterno del Director y quien está a cargo de la Subdirección de Seguridad Pública y Tránsito Municipal;
+II. Director: al titular de la Dirección de Seguridad Pública y Movilidad, Municipal;
 
-V. Por Cuerpos de Seguridad Pública: a todos los elementos operativos que conforman la Dirección de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. Elemento Operativo: Es el personal que compone el área operativa, la que está integrada por los empleados municipales adscritos a la Dirección de Seguridad Pública y Tránsito Municipal, quienes están bajo el mando de ésta y del Subdirector de Seguridad Pública y Tránsito Municipal; sus funciones son aquéllas inherentes a la prestación del servicio de seguridad pública en forma directa, no desempeñan funciones estrictamente administrativas y no forman parte del área administrativa. Asimismo se regirán por el Título Primero del Libro Sexto de este Código; y
+III. Comisión del Servicio del Servicio Profesional de Carrera, Honor y Justicia: es el órgano colegiado de la Dirección de Seguridad Pública y Movilidad Municipal, encargado de conocer, resolver y sancionar las violaciones a las obligaciones establecidas en el Reglamento del Servicio Profesional de Carrera Policial por los Elementos Operativos en servicio o fuera de él, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias, así como el encargado de otorgar reconocimientos a las acciones relevantes en que intervinieron
 
-VII. Personal Administrativo: Es el personal que compone el área administrativa, está integrada por los empleados municipales adscritos a la Dirección de Seguridad Pública y Tránsito Municipal, que desarrollan actividades de carácter estrictamente administrativas; tienen como funciones atender al público, dar el apoyo administrativo, asesoría, organización y control necesarios al personal operativo, para que éste pueda desarrollar en forma eficiente los programas asignados. Este personal no formará parte del área operativa de los cuerpos de Seguridad Pública. Asimismo se regirán por el Título Primero del Libro Sexto de este Código y lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Subdirector Operativo de Seguridad Pública y Movilidad Municipal: es el subalterno del Director y quien está a cargo de la Subdirección de Seguridad Pública y Movilidad Municipal;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Subdirector de Asuntos Internos y Jurídico: es el subalterno del Director y quien está a cargo de las investigaciones de elementos operativos por violaciones a las obligaciones y principios de actuación es tablecidos (sic) en el presente Código y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo y el responsable de los asuntos jurídicos que resulten del servicio de seguridad pública y vialidad de la Dirección:
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Elemento Operativo: Es el personal que compone el área operativa, la que está integrada por los empleados municipales adscritos a la Dirección de Seguridad Pública y Movilidad Municipal, quienes están bajo el mando de ésta y del Subdirector Operativo de Seguridad Pública y Movilidad Municipal; sus funciones son aquéllas inherentes a la prestación del servicio de seguridad pública en forma directa, no desempeñan funciones estrictamente administrativas y no forman parte del área administrativa. Asimismo se regirán por el Título Primero del Libro Sexto de este Código; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII. Personal Administrativo: Es el personal que compone el área administrativa, está integrada por Empleados Municipales y Policías adscritos a la Dirección de Seguridad Pública y Movilidad, que desarrollan actividades de carácter estrictamente administrativas; tienen como funciones atender al público, dar el apoyo administrativo, asesoría, organización y control necesarios del personal operativo, para que éste pueda desarrollar en forma eficiente los programas asignados. Este personal no formará parte del área operativa. Asimismo se regirán por el Título Primero del Libro Sexto de este Código y lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
 ### CAPITULO I. Principios que Regulan la Actuación de los Cuerpos de Seguridad Pública
 
@@ -8855,11 +9059,15 @@ VII. Personal Administrativo: Es el personal que compone el área administrativa
 
 El servicio a la comunidad y la disciplina, así como el respeto a los derechos humanos y a la legalidad son principios normativos que los Cuerpos de Seguridad Pública deben observar invariablemente en su actuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 806.
 
-los Cuerpos de Seguridad Pública deberán:
+Los Policías adscritos a la Dirección de Seguridad Pública y Movilidad deberán:
 
-I. Actuar dentro del orden jurídico respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, el presente Código y demás disposiciones relativas y aplicables;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Actuar dentro del orden jurídico respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley de Movilidad del Estado de Aguascalientes, el presente Código y demás disposiciones relativas y aplicables;
 
 II. Servir con eficiencia, fidelidad, honor y disciplina y cuidar del entorno ecológico del área a su cuidado;
 
@@ -8881,37 +9089,39 @@ X. Coordinar sus acciones con otras autoridades para prevenir y combatir la deli
 
 XI. Ejercer las facultades y obligaciones previstas en la reglamentación vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 807.
 
-Para el correcto desempeño de los Cuerpos encargados de la seguridad pública, el Subdirector de Seguridad Pública y Tránsito Municipal en materia de Asuntos Internos y Denuncias tiene las siguientes funciones:
+Para el correcto desempeño del servicio de Seguridad Pública y Movilidad de la Dirección, el Subdirector de Asuntos Internos y Jurídico tiene las siguientes funciones:
 
-I. Realizar visitas periódicas con el objeto de verificar que el personal operativo limite su actuación conforme al presente Código y demás disposiciones legales aplicables, se localice en el lugar físico indicado, de acuerdo con las órdenes superiores de trabajo asignado;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Realizar visitas periódicas con el objeto de verificar que el personal operativo limite su actuación conforme al presente Código, al Reglamento del Servicio Profesional de Carrera Policía (sic) y demás disposiciones legales aplicables, se localice en el lugar físico indicado, de acuerdo con las órdenes superiores de trabajo asignado;
 
 II. Coordinar la integración de expedientes sobre asuntos sujetos a investigación, inspección y seguimiento, contemplados en los programas ordinarios y extraordinarios de inspección;
 
-III. Atender quejas ciudadanas en contra de la actuación del personal operativo a cargo de la Dirección dando conocimiento a las instancias correspondientes;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Promover una cultura de respeto a los derechos humanos en las acciones de seguridad pública, específicamente en los procesos de detención y mantenimiento del orden público, a través de la difusión y promoción de los mismos hacia el interior de la Dirección y la ciudadanía; y
+III. Atender quejas ciudadanas en contra de la actuación de los elementos de Seguridad Pública y Movilidad;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Promover una cultura de respeto a los derechos humanos en las acciones de seguridad pública y movilidad, específicamente en los procesos de detención y mantenimiento del orden público;
 
 V. las demás que le indique el Director.
 
 ###### ARTICULO 808.
 
-Para el correcto desempeño de los Cuerpos encargados de la seguridad pública, la Dirección contará con un Comisionado de la Dirección de Asuntos Jurídicos que tendrá las siguientes funciones:
-
-I. Asesorar al Director, Subdirectores y demás personal de la Corporación en los aspectos jurídicos relacionados con las diferentes intervenciones que realicen en el desempeño de sus funciones y los demás inherentes a la naturaleza de la Corporación;
-
-II. Atender las controversias legales relacionadas con el funcionamiento de la Dirección
-
-III. Realizar los estudios tendientes a proponer reformas para el buen funcionamiento de la Dirección; y
-
-IV. Las demás que le indique el Director en auxilio de los Subdirectores de área.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ### CAPITULO II. Personal que Integra la Dirección de Seguridad Pública y Tránsito Municipal
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 809.
 
-La Dirección de Seguridad Pública y Tránsito Municipal estará a cargo de un Director y conformada por un Subdirector de Seguridad Pública y Tránsito Municipal, además de estar constituida por dos áreas:
+La Dirección de Seguridad Pública y Movilidad Municipal estará a cargo de un Director y conformada por un Subdirector Operativo y un Subdirector de Asuntos Internos y Jurídico, además de estar constituida por dos áreas:
 
 I. Administrativa; y
 
@@ -8921,21 +9131,27 @@ II. Operativa.
 
 El Director de Seguridad Pública y Tránsito Municipal será nombrado por el H. Ayuntamiento de una terna integrada por personas calificadas para ocupar el cargo que le presentará el Presidente Municipal, de entre las cuales se designará al titular, el que tendrá las facultades y obligaciones que le señalen las leyes, además de las siguientes:
 
-I. Organizar en el aspecto operativo, los Cuerpos de Seguridad Pública y Tránsito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Organizar en el aspecto operativo, los elementos de Seguridad Pública y Movilidad;
 
 II. Preservar el orden público, combatir y prevenir la comisión de delitos y faltas administrativas;
 
-III. Llevar un registro y control de escuelas de manejo que funcionen en el Municipio;
+III. (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 IV. Realizar campañas permanentes para vigilar que los señalamientos de tránsito se encuentren en óptimas condiciones, ordenando la reposición de los destruidos o la instalación de los que resulten necesarios;
 
-V. Tener el personal de vigilancia necesario en las casetas o módulos ubicados en el Municipio y personal de guardia en el Cuartel General; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Tener el personal de vigilancia necesario para cubrir con los servicios previamente establecidos; y
 
 VI. Las demás que le señale este Código o le asigne el Presidente Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 811.
 
-El Subdirector de Seguridad Pública y Tránsito Municipal tendrá las facultades y obligaciones siguientes:
+El Subdirector Operativo de Seguridad Pública y Movilidad Municipal tendrá las facultades y obligaciones siguientes:
 
 I. Sustituir al Director en sus faltas y ausencias temporales;
 
@@ -8943,7 +9159,9 @@ II. Auxiliar al Director en las funciones que éste le encomiende;
 
 III. Acatar las disposiciones que en el ejercicio de su desempeño emanen del Director;
 
-IV. Planear la operación y regulación de los servicios de seguridad pública y tránsito municipal a fin de que sean sometidos a la consideración del Director para su aprobación;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Planear la operación y regulación de los servicios de seguridad pública y movilidad municipal a fin de que sean sometidos a la consideración del Director para su aprobación;
 
 V. Ejecutar y regular los programas y servicios relativos a la seguridad pública en el territorio del Municipio de San Francisco de los Romo;
 
@@ -8951,13 +9169,21 @@ VI. Analizar y evaluar las operaciones que realice la Corporación para mejorar 
 
 VII. Apoyar e intervenir en situaciones de contingencia con el propósito de prevenir y mitigar situaciones de emergencia;
 
-VIII. Dirigir, coordinar y supervisar las Jefaturas Operativas de los Destacamentos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IX. Transmitir las órdenes del Director al personal de seguridad pública y tránsito municipal;
+VIII. Dirigir, coordinar y supervisar a los Comandantes de Grupos Operativos;
 
-X. Planear la operación y regulación de los servicios de tránsito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-XI. Ejecutar y regular los programas y servicios relativos a la vigilancia de sistemas viales y de tránsito del Municipio de San Francisco de los Romo;
+IX. Transmitir las órdenes del Director al personal de seguridad pública y movilidad municipal;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+X. Planear la operación y regulación de los servicios de movilidad;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XI. Ejecutar y regular los programas y servicios relativos a la vigilancia de sistemas viales y de movilidad del Municipio de San Francisco de los Romo;
 
 XII. Analizar y evaluar las operaciones que realice la Corporación, para mejorar los servicios de seguridad vial, inspección y vigilancia preventiva;
 
@@ -8965,25 +9191,31 @@ XIII. Apoyar e intervenir en situaciones de contingencia con el propósito de pr
 
 XIV. Las demás que le sean encomendadas por el Director.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 812.
 
-El personal que compone el Área Administrativa está integrado por los empleados municipales adscritos a la Dirección a excepción de los que conforman el área operativa.
+El personal que compone el Área Administrativa está integrado por los Empleados Municipales y Policías adscritos a la Dirección a excepción de los que conforman el área operativa.
 
-El personal administrativo tiene como funciones atender al público, dar el apoyo administrativo, asesoría, organización y control necesarios al personal operativo para que éste pueda desarrollar en forma eficiente los programas asignados. Las personas que desempeñen funciones estrictamente administrativas no formarán parte del área operativa de los Cuerpos de Seguridad Pública, aún cuando laboren en las áreas en donde se presta dicho servicio. Asimismo se regirán por el Título Primero del Libro Sexto de este Código y por lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+El personal administrativo tiene como funciones atender al público, dar el apoyo administrativo, asesoría, organización y control necesarios del personal operativo para que éste pueda desarrollar en forma eficiente los programas asignados. Las personas que desempeñen funciones estrictamente administrativas no formarán parte del área operativa, aun cuando laboren en las áreas en donde se presta dicho servicio. Asimismo, se regirán por el Título Primero del Libro Sexto de este Código y por lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 813.
 
-El personal que compone el Área Operativa está integrado por los empleados municipales adscritos a la Dirección de Seguridad Pública y Tránsito Municipal que no tienen funciones estrictamente administrativas en términos de lo indicado en el Artículo que antecede, quienes están bajo el mando de ésta y del Subdirector de Seguridad Pública y Tránsito Municipal según la jerarquía que se establece en este Capítulo; sus funciones son aquellas inherentes a la prestación del servicio de seguridad pública en forma directa. Asimismo se regirán por el Título Primero del Libro Sexto de este Código.
+El personal que compone el Área Operativa está integrado por los empleados municipales adscritos a la Dirección de Seguridad Pública y Movilidad Municipal que no tienen funciones estrictamente administrativas en términos de lo indicado en el Artículo que antecede, quienes están bajo el mando de ésta y del Subdirector Operativo de Seguridad Pública y Movilidad Municipal según la jerarquía que se establece en este Capítulo; sus funciones son aquellas inherentes a la prestación del servicio de seguridad pública y movilidad en forma directa. Asimismo, se regirán por el Título Primero del Libro Sexto de este Código.
 
 ###### ARTICULO 814.
 
-El Presidente Municipal relevará a todo el personal de la Dirección de Seguridad Pública y Tránsito Municipal que considere necesario para el mejor funcionamiento de la Corporación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ### CAPITULO III. Cargos, Grados y Mandos Jerárquicos
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 815.
 
-La subordinación debe ser mantenida rigurosamente entre el personal de los Cuerpos de Seguridad Pública de conformidad con la jerarquía a que se refiere este Código. Entre funcionarios de igual rango, existirá la subordinación cuando alguno de ellos esté investido de un mando especial.
+La subordinación debe ser mantenida rigurosamente entre el personal de Seguridad Pública y Movilidad de conformidad con la jerarquía a que se refiere este Código. Entre funcionarios de igual rango, existirá la subordinación cuando alguno de ellos esté investido de un mando especial.
 
 ###### ARTICULO 816.
 
@@ -8993,73 +9225,109 @@ I. Personal con Cargo: aquél que tiene un puesto administrativo en la estructur
 
 II. Personal con Grado: aquél que ostenta un rango policíaco, independientemente del cargo que ocupa en la estructura orgánica de la Dirección y que de acuerdo con dicho grado, tiene un mando jerárquico, exclusivamente sobre los integrantes del Área Operativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 817.
 
-El mando de los Cuerpos de Seguridad Pública está a cargo del Presidente Municipal, quien lo ejerce a través del Secretario del H. Ayuntamiento y Director General de Gobierno y del Director de Seguridad Pública y Tránsito Municipal. La jerarquía de mando se establece de la siguiente manera:
+El mando de los Elementos adscritos a la Dirección de Seguridad Pública y Movilidad está a cargo del Presidente Municipal, quien lo ejerce a través del Secretario del H. Ayuntamiento y Director General de Gobierno y del Director de Seguridad Pública y Movilidad Municipal. La jerarquía de mando se establece de la siguiente manera:
+
+(REPUBLICADA, P.O. 30 DE AGOSTO DE 2021)
 
 I. Presidente Municipal;
 
+(REPUBLICADA, P.O. 30 DE AGOSTO DE 2021)
+
 II. Secretario del H. Ayuntamiento y Director General de Gobierno;
 
-III. Director de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Subdirector de Seguridad Pública y Tránsito Municipal;
+III. Director de Seguridad Pública y Movilidad Municipal;
 
-V. Primer Comandante de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. Comandantes de Grupo;
+IV. Subdirector de Seguridad Pública y Movilidad Municipal;
 
-VII. Oficiales; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VIII. Suboficiales de Seguridad Pública y Tránsito Municipal.
+V. Subdirector de Asuntos Internos y Jurídico de Seguridad Pública y Movilidad Municipal;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Jefes de Departamentos de: Servicio Médico, Prevención del Delito, Trabajo Social, Unidad de Análisis, Unidad de Inteligencia, Profesionalización, Operadores de Cámaras, Administración y Armería;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII. Policía Primero;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII. Policía Segundo;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IX. Policía Tercero; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+X. Policía.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ### CAPITULO IV. De la Policía Comercial, Bancaria y Residencial
 
 ###### ARTICULO 818.
 
-La Policía Comercial, Bancaria y Residencial es un Cuerpo de Seguridad Pública integrante de la Dirección.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 819.
 
-Los elementos de la Policía Comercial, Bancaria y Residencial están obligados a llevar el curso de formación básica.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 820.
 
-Los integrantes de la Policía Comercial, Bancaria y Residencial tienen la obligación, de adoptar las normas disciplinarias establecidas en el presente Libro en los mismos términos que los demás elementos de la Corporación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 821.
 
-El H. Ayuntamiento está facultado para celebrar contratos con particulares para la prestación del servicio de vigilancia y seguridad a través de la Policía Comercial, Bancaria y Residencial. En cada contrato se fijarán las condiciones especificas del servicio, tales como número y grado de los elementos, horario, así como las condiciones especiales que requieran los particulares, conforme a las restricciones y modalidades que señala el presente Código y demás disposiciones aplicables.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 822.
 
-Los elementos de la Policía Comercial, Bancaria y Residencial en cualquier momento podrán gozar de un ascenso de grado.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 823.
 
-A los elementos de Seguridad Pública que pertenezcan a la Policía Comercial, Bancaria y Residencial para efectos de determinar si incurrieron en alguna falta leve o grave y para la aplicación de alguna sanción, se les realizará la investigación correspondiente a través de la Subdirección de Seguridad Pública y Tránsito Municipal en materia de Asuntos Internos y Denuncias y será el Director quien aplicará las sanciones que señalan los Artículos 854 fracciones I y II y 855 del presente Código. Asimismo la Dirección remitirá a la Comisión de Honor y Justicia el expediente correspondiente en los casos previstos en los Artículos 854 fracciones III, IV y V, y 855 del presente Código.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 824.
 
-Para los efectos de los derechos y obligaciones de los elementos de Policía Comercial, Bancaria y Residencial se sujetarán a lo dispuesto por los Artículos 840, 841, 848, 849, 850, 851, 852, 854 Y 857 del presente ordenamiento.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-En caso de incumplimiento de las obligaciones señaladas en el párrafo anterior los elementos de la Policía Comercial, Bancaria y Residencial serán sancionados en términos de lo indicado por el párrafo segundo del Artículo que antecede, sanción que será impuesta en los términos señalados en los Artículos del 866 al 874 del presente Código.
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 30 DE AGOSTO DE 2021)</small>
 
-### CAPITULO V. Profesionalización de los Cuerpos de Seguridad Pública
+### CAPITULO V. Profesionalización de los Elementos de Seguridad Pública y Movilidad Municipal
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 825.
 
-Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo integral de sus elementos, se establece el Programa de Formación Policíaca Permanente para el Municipio de San Francisco de los Romo.
+Para lograr una óptima y eficaz prestación del servicio de seguridad pública y movilidad con el objeto de alcanzar el desarrollo integral de sus elementos, se establece la Carrera Policía (sic) para el Municipio de San Francisco de los Romo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 826.
 
-Este Programa tendrá como finalidad la de alcanzar un desarrollo profesional, técnico, científico, humano y cultural a través de la capacitación teórica y práctica de los elementos que conforman los Cuerpos de Seguridad Pública, en un marco de respeto a los derechos humanos y al estado de derecho.
+La Carrera Policial tendrá como finalidad la de alcanzar un desarrollo profesional, técnico, científico, humano y cultural a través de la capacitación teórica y práctica de los elementos que conforman La Dirección de Seguridad Pública y Movilidad, en un marco de respeto a los derechos humanos y al estado de derecho.
 
 Para tal efecto, la autoridad municipal destinará los fondos suficientes que quedarán en una partida especial dentro del Presupuesto de Egresos Anual.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 827.
 
-En cumplimiento a lo establecido en el Artículo anterior, se institucionaliza el Sistema de Carrera Policíaca, que tiene como objetivo profesionalizar la formación de los elementos que componen los Cuerpos de Seguridad Pública.
+En cumplimiento a lo establecido en el Artículo anterior, se institucionaliza el Sistema de Carrera Policial, que tiene como objetivo profesionalizar la formación de los Elementos de Seguridad Pública y Movilidad, lo cual será regulado por el Título Tercero del Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO PRIMERO
 
@@ -9067,25 +9335,17 @@ Programa de Formación Policíaca
 
 ###### ARTICULO 828.
 
-El Programa Permanente de Formación Policíaca para el Municipio de San Francisco de los Romo, cuenta con los siguientes niveles:
-
-I. Formación Básica: Todos los elementos de nuevo ingreso a los Cuerpos de Seguridad Pública que no cuenten con formación básica, deberán ser capacitados en el Instituto Estatal de Seguridad Pública de Aguascalientes para incorporarse a la carrera policíaca, a fin de que se encuentren aptos para realizar las actividades de su función, en una forma profesional;
-
-II. Actualización: Los Cuerpos de Seguridad Pública deberán actualizarse en forma obligatoria y permanente sobre los conocimientos y habilidades que se requieren para el ejercicio de sus funciones, mediante cursos y programas de evaluación llevados a cabo por el Instituto Estatal de Seguridad Pública de Aguascalientes, el cual fijará el curso, la forma y el tiempo;
-
-III. Especialización Técnica y Profesional: La formación técnica consiste en lograr la capacitación de los Cuerpos de Seguridad Pública para trabajos específicos, orientados a la realización de actividades en donde se requieran conocimientos, aptitudes y habilidades especiales en un área determinada de la actividad policíaca. La capacitación también determinará qué especialidades son compatibles entre ellas para destinarse a diversas áreas de trabajo. La finalidad de la formación profesional es la de obtener un título o grado académico a nivel profesional, en alguna materia de carrera policíaca expedido o reconocido por una institución educativa;
-
-IV. Promoción: Permite a los Cuerpos de Seguridad Pública que aspiren a ascender dentro de la carrera policíaca, contar con los conocimientos y habilidades propias del nuevo grado, mediante el proceso de capacitación; y
-
-V. Formación de Mandos: Tiene por objetivo la preparación de los mandos medios y superiores a fin de desarrollar integralmente al personal en la administración y organización policíaca.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 829.
 
-Los elementos que conforman los Cuerpos de Seguridad Pública, tienen como obligación asistir al Instituto Estatal de Seguridad Pública de Aguascalientes, para adquirir los conocimientos teóricos y prácticos que conlleven a su profesionalización, dentro del programa de formación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 830.
 
-Es obligación del Instituto Estatal de Seguridad Pública de Aguascalientes, encargarse de elaborar, poner en práctica y evaluar el programa de formación policíaca. Los colaboradores de dicha área serán designados por el Director pudiendo participar las instituciones académicas de nivel medio o superior, nacional o extranjeras que se interesen en dicho programa, previa convocatoria de esa Dirección.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SEGUNDO
 
@@ -9093,93 +9353,57 @@ Sistema de Carrera Policíaca
 
 ###### ARTICULO 831.
 
-El Sistema de Carrera Policíaca se establece con el objeto de determinar la participación de los integrantes de los Cuerpos de Seguridad Pública dentro de las jerarquías y niveles que componen a la Dirección, los requisitos para participar en dicho Sistema y sus formas de acreditación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 832.
 
-La ejecución del Sistema de Carrera Policíaca queda a cargo de la Comisión de Selección y Promoción de los Cuerpos de Seguridad Pública, la cual es autónoma en su funcionamiento y gozará de amplias facultades para examinar a los elementos participantes, sus expedientes y sus hojas de servicio a fin de determinar los ascensos de grado y de jerarquía correspondientes. Dicha Comisión estará integrada y presidida por el Director de Seguridad Pública y Tránsito Municipal o por quien él designe, por dos de los Oficiales de más alto grado y con mayor antigüedad en la prestación del servicio dentro de los Cuerpos de Seguridad Pública y por cinco elementos de los Cuerpos de Seguridad Pública, que serán seleccionados a propuesta de los elementos operativos de la misma Dirección.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 833.
 
-Los aspirantes a formar parte de los Cuerpos de Seguridad Pública y Tránsito, deberán someterse a un proceso de evaluación, previa convocatoria emitida por la Dirección cumpliendo los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
-
-II. Ser de notoria buena conducta y reconocida solvencia moral;
-
-III. Contar con el Certificado de Educación Secundaria, como mínimo requerido para el puesto en concurso;
-
-IV. No estar sujeto a proceso penal, ni tener antecedentes penales por delito grave o doloso;
-
-V. Tener una edad no mayor de cuarenta años y contar con el perfil físico, ético y psicológico, necesarios para la realización de las actividades policíacas;
-
-VI. No hacer uso de sustancias psicotrópicas, estupefacientes y otras que produzcan efectos similares;
-
-VII. No ser afecto a bebidas embriagantes de forma consuetudinaria;
-
-VIII. Tener acreditado el Servicio Militar Nacional;
-
-IX. No estar suspendido del mismo o de otro cuerpo policiaco por causa justificada;
-
-X. En el supuesto de solicitar el reingreso a los Cuerpos de Seguridad Pública, deberá haber observado buena conducta durante el tiempo que permaneció fuera de servicio de la Corporación y no tener antecedentes penales por delito doloso en el ejercicio de sus funciones o delito considerado grave;
-
-XI. Haber observado buena conducta durante su servicio en la Dirección de Seguridad Pública y Tránsito o una corporación similar;
-
-XII. No haber sido cesado de la Dirección de Seguridad Pública y Tránsito Municipal o tener en su expediente acta administrativa por la comisión de alguna falta grave; y
-
-XIII. Presentar la documentación que le sea requerida.
-
-El Subdirector de Seguridad Pública y Tránsito Municipal previo acuerdo de la Comisión de Selección y Promoción, presentará los nombres de los aspirantes a formar parte de los Cuerpos de Seguridad Pública y Tránsito, que acreditaron los conocimientos y aptitudes que se requieren para formar parte de los mismos y someterse al proceso a que se refiere este Código.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 834.
 
-Los aspirantes que resulten seleccionados y no cuenten con la formación básica cursarán el nivel de formación básica que imparte el Instituto Estatal de Seguridad Pública de Aguascalientes y durante el tiempo de dicho curso gozarán de los apoyos y beneficios necesarios para desarrollar en forma digna y eficiente su preparación. Los aspirantes que sean expulsados, los que abandonen los estudios injustificadamente o los que reprueben el curso básico no podrán pertenecer a los Cuerpos de Seguridad Pública.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 835.
 
-La Comisión de Selección y Promoción de los Cuerpos de Seguridad Pública y Tránsito, elegirá dentro de los egresados del curso de formación básica, a aquellos que de acuerdo a una evaluación objetiva cumplan con los requisitos para ocupar las plazas vacantes de Suboficiales de los Cuerpos de Seguridad Pública y Tránsito.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 836.
 
-Los integrantes de los Cuerpos de Seguridad Pública y Tránsito sólo podrán ascender a las plazas vacantes de las jerarquías inmediatas superiores, mediante evaluación curricular y concurso de la promoción, dependiendo de la jerarquía a la que aspiren y conforme al Sistema de Carrera Policíaca, teniendo cuando menos un año en el grado actual, cumpliendo los requisitos establecidos en el Reglamento Interno de la Dirección.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 837.
 
-Por lo que respecta a la evaluación curricular o concurso de promoción, se deberán valorar entre otros, los siguientes requisitos:
-
-I. La conservación de los requisitos de ingreso a los Cuerpos de Seguridad Pública y Tránsito;
-
-II. La escolaridad y la formación adquirida dentro de su estancia en los Cuerpos de Seguridad Pública y Tránsito;
-
-III. La eficiencia dentro del desempeño de sus funciones asignadas;
-
-IV. El comportamiento ético y profesional;
-
-V. La antigüedad y la jerarquía dentro de los Cuerpos de Seguridad Pública y Tránsito;
-
-VI. El conocimiento que se tenga de las garantías individuales que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, las leyes y reglamentos que rigen a los Cuerpos de Seguridad Pública y Tránsito; y
-
-VII. En el Sistema de Carrera Policíaca se determinarán los puntos de mérito y los puntos de demérito que deberán considerarse en los concursos, mediante parámetros objetivos de evaluación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 838.
 
-De acuerdo con las necesidades de la Dirección, la Comisión de Promoción y Selección de los Cuerpos de Seguridad Pública y Tránsito lanzará una convocatoria donde se señalen los requisitos de ingreso al concurso de promoción respectivo, la jerarquía y las plazas vacantes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 839.
 
-La Comisión de Selección y Promoción de los Cuerpos de Seguridad Pública y Tránsito evaluará las actividades desarrolladas por los Cuerpos de Seguridad Pública y Tránsito, como mínimo cada seis meses. Dicha evaluación se llevará a cabo a través de exámenes teóricos, prácticos y psicométricos, analizándose además, la actuación policíaca de cada uno de los elementos desde un punto de vista ético, la eficiencia de los servicios prestados por el mismo, su asistencia y puntualidad, las sanciones a que se hizo acreedor durante su desempeño en la prestación del servicio, y demás elementos necesarios para la debida evaluación de la actuación de los elementos, cuyos resultados ingresarán al expediente de cada uno de los mismos, tomándose en consideración para futuros procedimientos de promoción y selección.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO TERCERO
 
 Derechos y Obligaciones de los Elementos que Integran los Cuerpos de Seguridad Pública y Tránsito
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 840.
 
-Son derechos de todos los elementos que conforman los Cuerpos de Seguridad Pública y Tránsito aquellos que por naturaleza de su grado o cargo le son conferidos en forma explícita por este Código y demás leyes y reglamentos.
+Son derechos de todos los elementos que conforman los Cuerpos de Seguridad Pública y Movilidad aquellos que por naturaleza de su grado o cargo le son conferidos en forma explícita por este Código y demás leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 841.
 
-Son derechos de los elementos del Área Operativa de los Cuerpos de Seguridad Pública y Tránsito, los siguientes:
+Son derechos de los elementos de la Dirección de Seguridad Pública y Movilidad, los siguientes:
 
 I. Percibir un salario digno y remunerador, acorde con las características del servicio;
 
@@ -9197,7 +9421,9 @@ VII. Ser sujeto de condecoraciones, estímulos y reconocimientos policíacos cua
 
 VIII. Tener jornadas de trabajo conforme a las necesidades del servicio, así como disfrutar de las prestaciones, establecidas en la Ley;
 
-IX. Ser asesorados y defendidos jurídicamente por el Comisionado de la Dirección de Asuntos Jurídicos, en forma gratuita, en el supuesto de que por motivos del servicio sean sujetos a algún procedimiento que tenga por objeto fincarles una responsabilidad jurídica, siempre y cuando la denuncia o querella no haya sido presentada por alguna autoridad municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IX. Ser asesorados y defendidos jurídicamente por un comisionado de la Dirección de Asuntos Jurídicos, en forma gratuita, en el supuesto de que por motivos del servicio sean sujetos a algún procedimiento que tenga por objeto fincarles una responsabilidad jurídica, siempre y cuando la denuncia o querella no haya sido presentada por alguna autoridad municipal;
 
 X. Recibir oportuna atención médica sin costo alguno para el elemento policíaco, cuando sean lesionados en cumplimiento de su deber; en caso de extrema urgencia o gravedad serán atendidos en la institución médica pública o privada más cercana al lugar en donde se produjeron los hechos;
 
@@ -9215,9 +9441,11 @@ c. Muerte colectiva por motivo de trabajo - 3150 días de salario mínimo genera
 
 XIV. Los demás que señale la legislación en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 842.
 
-Son obligaciones de los integrantes de la Corporación:
+Son obligaciones de los Elementos de Seguridad Pública y Movilidad:
 
 I. Tomar las medidas de seguridad y de orden urgentes y necesarios en los casos de emergencia, tales como: incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes o calamidades;
 
@@ -9245,7 +9473,9 @@ XII. Detener a los delincuentes e infractores que sorprendan en flagrante delito
 
 XIII. Poner a disposición del Agente del Ministerio Público los objetos o instrumentos que aseguren a particulares relacionados con hechos delictivos, elaborar partes de novedades de los hechos de que tenga conocimiento y comparecer a rendir informes y declaraciones que soliciten las autoridades;
 
-XIV. Elaborar las boletas de infracción a los particulares que violen cualquiera de las obligaciones que contiene este Libro;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XIV. Elaborar las boletas de infracción a los particulares que violen cualquiera de las obligaciones que contiene la Ley de Movilidad del Estado de Aguascalientes;
 
 XV. Prestar sus servicios de manera personal, quedando prohibido delegarlo a terceros;
 
@@ -9267,27 +9497,37 @@ XXIII. Llevar a cabo las detenciones de los vehículos en cumplimiento a lo que 
 
 XXIV. Las demás que señalen las distintas leyes y ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-ARTICULO 842 A.- Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal en materia de Equidad de Género, las siguientes:
+ARTICULO 842 A.- Son obligaciones, en general, de los Elementos de Seguridad Pública y Movilidad Municipal en materia de Equidad de Género, las siguientes:
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 I. Atender de manera inmediata todos los casos de violencia contra las mujeres;
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 II. Proporcionar a las presuntas víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos;
-
-III. Atender, obedecer y ejecutar las disposiciones contenidas en las órdenes de protección, dictadas por el Agente del Ministerio Público o por el Juez Penal en términos de la Legislación aplicable; y
-
-IV. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
-ARTICULO 842 B.- Queda estrictamente prohibido a los elementos operativos de la Dirección de Seguridad Pública Municipal, en cuanto a equidad de género el fomentar prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimaren o exacerben la violencia contra la mujer.
+III. Atender, obedecer y ejecutar las disposiciones contenidas en las órdenes de protección, dictadas por el Agente del Ministerio Público o por el Juez Penal en términos de la Legislación aplicable; y
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+IV. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+ARTICULO 842 B.- Queda estrictamente prohibido a los elementos de la Dirección de Seguridad Pública y Movilidad Municipal, en cuanto a equidad de género el fomentar prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimaren o exacerben la violencia contra la mujer.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ARTICULO 842 C.- El Presidente Municipal en materia de equidad de género, deberá:
 
-I. Implementar un programa de capacitación permanente para el personal de la Corporación de Seguridad Pública para atender los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Implementar un programa de capacitación permanente para el personal de la Dirección de Seguridad Pública y Movilidad para atender los casos de violencia contra las mujeres;
 
 II. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia;
 
@@ -9297,23 +9537,31 @@ IV. Proporcionar a las presuntas víctimas de violencia la asesoría necesaria p
 
 V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 843.
 
-La Dirección les proporcionará a los elementos de los Cuerpos de Seguridad Pública y Tránsito el uniforme consistente en: pantalón o falda, camisa o blusa, chamarra, calzado, cinturón, insignias y divisas, fornituras, toletes, moscoba y dotación de municiones, armas de fuego en sus formas corta y larga, conforme lo determine la Dirección, según lo dispuesto por el Artículo 839 del presente Código.
+La Dirección les proporcionará a los elementos de Seguridad Pública y Movilidad el uniforme consistente en: pantalón o falda, camisa o blusa, chamarra, calzado, cinturón, insignias y divisas, fornituras, toletes, moscoba y dotación de municiones, armas de fuego en sus formas corta y larga, conforme lo determine la Dirección.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 844.
 
-Los elementos del Cuerpo Operativo de Seguridad Pública y Tránsito que utilizan para su función vehículos dotados con accesorios consistentes en sirena, altavoces y torretas con luces intermitentes, deben de observar de manera estricta y cuidadosa todas y cada una de las normas previstas en la legislación vigente.
+Los elementos Operativos de Seguridad Pública y Movilidad que utilizan para su función vehículos dotados con accesorios consistentes en sirena, altavoces y torretas con luces intermitentes, deben de observar de manera estricta y cuidadosa todas y cada una de las normas previstas en la legislación vigente.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 845.
 
-En el ejercicio de su desempeño, los elementos de Seguridad Pública y Tránsito llevarán a efecto conforme lo establece el presente Código y demás leyes aplicables sus funciones; tratándose de domicilios privados, se respetará en todo caso su inviolabilidad y sólo podrán tener acceso por virtud de mandamiento escrito debidamente fundado y motivado de autoridad competente.
+En el ejercicio de su desempeño, los elementos de Seguridad Pública y Movilidad llevarán a efecto conforme lo establece el presente Código y demás leyes aplicables sus funciones; tratándose de domicilios privados, se respetará en todo caso su inviolabilidad y sólo podrán tener acceso por virtud de mandamiento escrito debidamente fundado y motivado de autoridad competente.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 846.
 
-Si en cumplimiento de sus funciones los elementos de Seguridad Pública y Tránsito tuvieran necesidad de penetrar en casa habitación, ya fuere con objeto de realizar alguna detención o cualquier otro acto de carácter legal, recabarán previamente el permiso por escrito de los habitantes del domicilio en cuestión.
+Si en cumplimiento de sus funciones los elementos de Seguridad Pública y Movilidad tuvieran necesidad de penetrar en casa habitación, ya fuere con objeto de realizar alguna detención o cualquier otro acto de carácter legal, recabarán previamente el permiso por escrito de los habitantes del domicilio en cuestión.
 
-Cuando la autoridad competente solicite la intervención de los Cuerpos de Seguridad Pública y Tránsito, deberá formular su petición por escrito debidamente fundada y motivada.
+Cuando la autoridad competente solicite la intervención de los Elementos de Seguridad Pública y Movilidad , deberá formular su petición por escrito debidamente fundada y motivada.
 
 ###### ARTICULO 847.
 
@@ -9321,17 +9569,25 @@ No se considerarán como domicilios particulares o privados, los patios, escaler
 
 ### CAPITULO VI. Régimen Disciplinario
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 848.
 
-El régimen disciplinario se basa en el conjunto de normas que los Cuerpos de Seguridad y Tránsito deberán observar en el servicio, cualquiera que sea su jerarquía. Esas normas disciplinarias tienen como fundamento la obediencia, alto concepto del honor, la justicia y la moral, así como la subordinación a que deben sujetarse los miembros de la Corporación a sus superiores.
+El régimen disciplinario se basa en el conjunto de normas que los Elementos de Seguridad y Movilidad deberán observar en el servicio, cualquiera que sea su jerarquía. Esas normas disciplinarias tienen como fundamento la obediencia, alto concepto del honor, la justicia y la moral, así como la subordinación a que deben sujetarse los miembros de la Corporación a sus superiores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 849.
 
-Las obligaciones derivadas de la disciplina para los Cuerpos de Seguridad Pública y Tránsito, son las siguientes:
+Las obligaciones derivadas de la disciplina para los elementos de Seguridad Pública y Movilidad, son las siguientes:
 
-I. La observancia de las obligaciones que a los Cuerpos de Seguridad Pública les impone el presente Código;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Los Cuerpos de Seguridad Pública deben normar su conducta bajo los siguientes aspectos:
+I. La observancia de las obligaciones que a los Elementos de Seguridad Pública les impone el presente Código y el Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. Los Elementos de Seguridad Pública y Movilidad deben normar su conducta bajo los siguientes aspectos:
 
 a) Obediencia y disciplina;
 
@@ -9343,9 +9599,13 @@ d) Lealtad, abnegación e interés para con la Corporación; y
 
 e) Consideración y urbanidad para con toda la ciudadanía.
 
-III. Mantener rigurosamente la subordinación entre los grados de la jerarquía existente entre los elementos que componen los Cuerpos de Seguridad Pública;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Acatar, cumplir con diligencia, prontitud y exactitud las órdenes verbales y por escrito que le emitan los mandos, salvo que evidentemente se viole alguna disposición legal en cuyo caso se pondrán en conocimiento de inmediato a la superioridad;
+III. Mantener rigurosamente la subordinación entre los grados de la jerarquía existente entre los elementos que componen la Dirección de Seguridad Pública y Movilidad;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Acatar, cumplir con diligencia, prontitud y exactitud las órdenes verbales y por escrito que le emitan los mandos, salvo que evidentemente se viole alguna disposición legal en cuyo caso se pondrán en conocimiento de inmediato a la Subdirección de Asuntos Internos y Jurídico de Seguridad Pública y Movilidad;
 
 V. Realizar el saludo militar y civil, según se porte o no el uniforme para con la Bandera Nacional y/o con sus superiores jerárquicos;
 
@@ -9355,17 +9615,21 @@ VII. Guardar absoluta discreción en las áreas específicas asignadas, así com
 
 VIII. Solicitar por los conductos jerárquicos que corresponda en forma respetuosa y atenta, cualquier cosa relacionada con el servicio o que en forma alguna lo afecte;
 
-IX. Los elementos que conforman los Cuerpos de Seguridad Pública y Tránsito deben apegarse al uso de las claves y al Código Fonético autorizado en los medios de comunicación policíaca;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-X. Comunicar de inmediato a un Oficial de mayor grado y jerarquía, cuando en ausencia de quien tiene el mando reciba una orden dirigida a su superior;
+IX. Los elementos que conforman la Dirección de Seguridad Pública y Movilidad deben apegarse al uso de las claves y al Código Fonético autorizado en los medíos de comunicación policíaca;
+
+X. (DEROGADA, P.O. 30 DE AGOSTO DE 2021)
 
 XI. No aceptar un compromiso que vaya en detrimento de su honor y la reputación de la Corporación; y
 
 XII. Respetar el honor familiar de los particulares y de los miembros de la Corporación, así como el suyo propio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 850.
 
-Las obligaciones de los elementos de los Cuerpos de Seguridad Pública y Tránsito con mando, derivadas de la disciplina, son las siguientes:
+Las obligaciones de los elementos de la Dirección de Seguridad Pública y Movilidad con mando, derivadas de la disciplina, son las siguientes:
 
 I. Conocer a sus subordinados, su mentalidad, proceder, actitudes, salud, cualidades y defectos, con la finalidad de asignar adecuadamente las misiones en las que intervengan;
 
@@ -9373,29 +9637,41 @@ II. Supervisar las acciones de sus subalternos durante el servicio;
 
 III. Revisar en forma cuidadosa la documentación relativa al servicio, antes de otorgar el visto bueno, remitiéndola al superior jerárquico;
 
-IV. Expresar las órdenes sólo en forma general, definiendo el objetivo por alcanzar, sin entrar en detalles de ejecución, salvo que así lo requiera la orden que entorpezca la iniciativa de los subordinados;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Expresar las órdenes sólo en forma general, definiendo el objetivo por alcanzar, sin entrar en detalles de ejecución;
 
 V. Respetar el ejercicio del derecho de opinión y petición de sus subordinados, siempre que sea en forma respetuosa y atenta;
 
-VI. Poner a disposición de la autoridad competente todo objeto o persona que en el ejercicio de sus funciones sean retenidas por él o sus subordinados; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Poner a disposición de la autoridad competente todo objeto o persona que en el ejercicio de sus funciones sean detenidas por él o sus subordinados; y
 
 VII. Realizar juntas generales con el personal a su cargo una vez al mes para escuchar en forma directa, quejas o sugerencias relacionadas con el servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 851.
 
-Queda estrictamente prohibido a los miembros de los Cuerpos de Seguridad Pública y Tránsito, lo siguiente:
+Queda estrictamente prohibido a los miembros de la Dirección de Seguridad Pública y Movilidad, lo siguiente:
 
 I. Utilizar rigor innecesario y toda palabra, acto o ademán ofensivo para con la ciudadanía y miembros de la Corporación;
 
 II. Asistir uniformados a espectáculos públicos, por iniciativa propia y sin motivo de trabajo oficial;
 
-III. Salvo orden expresa de la superioridad, desempeñar las funciones propias de otro elemento de la misma jerarquía o condición;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Efectuar sus funciones fuera de la jurisdicción que le haya sido asignada, salvo orden expresa de la superioridad;
+III. Salvo orden expresa del Director, desempeñar las funciones propias de otro elemento de la misma jerarquía o condición;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Efectuar sus funciones fuera de la jurisdicción que le haya sido asignada, salvo orden expresa del Director;
 
 V. Abandonar el servicio o la comisión que desempeñe antes de que llegue su relevo y obtenga la autorización correspondiente;
 
-VI. Tomar parte activa en su carácter de servidor público en servicio y otro tipo de actividades de carácter político o religioso;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Tomar parte activa en su carácter de servidor público en servicio de actividades de carácter político o religioso;
 
 VII. Realizar en cualquier forma la comisión de un delito o falta administrativa;
 
@@ -9419,9 +9695,11 @@ XVI. Tutear o tratar con altivez y despotismo a los ciudadanos; y
 
 XVII. Atender en horas de servicio asuntos particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 852.
 
-Las obligaciones de los elementos de los Cuerpos de Seguridad Pública Y (sic) Tránsito con mando son:
+Las obligaciones de los elementos de la Dirección de Seguridad Pública y Movilidad con mando son:
 
 I. Mantener el orden y la disciplina para con los subordinados;
 
@@ -9431,9 +9709,11 @@ III. Propiciar el buen entendimiento, la solidaridad y la amistad entre el perso
 
 ### CAPITULO VII. La Función Policíaca ante la Sociedad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 853.
 
-Los Cuerpos de Seguridad Pública y Tránsito deben realizar en el cumplimiento de su deber:
+Los Elementos de la Dirección de Seguridad Pública y Movilidad deben realizar en cumplimiento de su deber:
 
 I. Un servicio eficaz y consciente, haciendo uso del buen juicio para poder ganarse la estimación, respeto y confianza del público para con él y para la institución que representa;
 
@@ -9441,215 +9721,361 @@ II. Estando en servicio o franco, deberán asumir un elevado sentido de responsa
 
 III. Actuar con imparcialidad, cortesía y firmeza, sin discriminar por causa de edad, raza, credo, posición económica, sexo, nacionalidad o por razones de amistad.
 
+(REPUBLICADO, P.O. 30 DE AGOSTO DE 2021)
+
 ### CAPITULO VIII. Sanciones y Correctivos Disciplinarios
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2021, PAGINAS 51 Y 52.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 854.
 
-Para los Cuerpos de Seguridad Pública y Tránsito se considera falta, cualquier conducta contraria a las normas disciplinarias o a los principios de actuación previstos en este Libro. Tomando en consideración la gravedad de la falta, se aplicarán las siguientes sanciones y correctivos disciplinarios:
+Para los Elementos de Seguridad Pública y Movilidad se considera falta, cualquier conducta contraria a sus obligaciones, normas disciplinarias o a los principios de actuación previstos en este Libro y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo. Tomando en consideración la gravedad de la falta, se aplicarán las siguientes sanciones y correctivos disciplinarios:
 
-I. Amonestación: es el acto por el cual el superior advierte al inferior la omisión o defecto en el cumplimiento de sus deberes, invitándolo a corregirse, a fin de que no incurra en falta y se haga acreedor a un arresto. La amonestación puede hacerse de palabra o por escrito. En ambos casos, se harán de manera que ningún individuo de menor jerarquía al del aludido se aperciba de ella, procurando observar en estos casos la discreción que les exige la disciplina;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Arresto con o sin perjuicio del servicio: Es el confinamiento que dentro o fuera de las instalaciones de su Corporación, se hace acreedor el subalterno por haber incurrido en faltas considerables o por haber acumulado tres amonestaciones respectivamente. La orden de arresto deberá hacerse por escrito especificando el motivo, lugar y duración del mismo, la cual no podrá exceder de treinta y seis horas;
+I. Amonestación: Es el acto por el cual el superior jerárquico advierte al infractor por la omisión o acción incorrecta, en el desempeño de los principios de actuación u obligaciones, exhortándole a no reincidir en las conductas motivo de la sanción. Dicha sanción, puede ser pública o privada: si es pública, se aplicará frente a dos integrantes que cuenten con el mismo grado o superior al del infractor y la privada se aplicará a solas. Invariablemente la aplicación de ambas deberán registrarse en el expediente del infractor;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. Arresto: Sanción a la que se hace acreedor el subalterno por haber incumplido alguna de las obligaciones establecidas en éste Libro o en el Reglamento del Servicio Profesional de Carrera Policial o por haber acumulado tres amonestaciones públicas o privadas en un periodo menor a treinta días naturales. Ésta sanción podrá aplicarse de las siguientes maneras:
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+a) Con Perjuicio del Servicio: Imponiendo el Confinamiento del Elemento dentro de las Instalaciones de la Comandancia, aún durante los periodos que debiera estar laborando, si así fuera el caso;
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+b) Sin Perjuicio del Servicio: Realizando las actividades que regularmente le son asignadas dentro de su jornada, la cual deberá realizarla cumpliendo con los horarios establecidos, al término de los cuales, si no ha concluido con dicho arresto se concentrará en las Instalaciones de la Comandancia para recibir instrucciones de su superior jerárquico;
 
 III. Cambio de adscripción: Es la reubicación del elemento de su grupo, turno, servicio o comisión, que se decretará cuando su comportamiento afecte la disciplina y desempeño laboral en su adscripción original o bien sea necesario para mantener una buena relación e imagen con la comunidad donde se desempeña;
 
-IV. Suspensión temporal: Es la separación del elemento al cargo por el incumplimiento de sus funciones por el tiempo que determine el reglamento de cada una de las Corporaciones de Seguridad. Esta suspensión no podrá exceder de quince días; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-V. Destitución o Rescisión: Es la separación del elemento al cargo de acuerdo con las normas disciplinarias reglamentarias.
+IV. Suspensión temporal: Sanción que consiste en apartar del servicio al elemento, por haberse encontrado responsable del incumplimiento de sus obligaciones, normas disciplinarias o principios de actuación previstos en este Libro y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo. Esta sanción podrá imponerse desde uno y como máximo quince días naturales sin goce de sueldo; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Remoción: destitución del elemento de la Dirección de Seguridad Pública y Movilidad por haberse encontrado responsable del incumplimiento de sus obligaciones, normas disciplinarias o principios de actuación previstos en este Libro y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo.
 
 En todos los casos que se señalan en el presente Artículo los correctivos disciplinarios que se impongan a los elementos de las Corporaciones deberán constar por escrito y estar debidamente fundados y motivados.
 
-Los titulares de las Corporaciones podrán imponer a los elementos los correctivos disciplinarios que establecen las fracciones I y II de este Artículo, informando a la Comisión de Honor y Justicia dentro de los tres días hábiles siguientes a su aplicación, exponiendo las causas que lo motivaron.
-
-En el supuesto de las fracciones III, IV y V corresponde a la Comisión de Honor y Justicia la aplicación de los correctivos disciplinarios.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 855.
 
-La aplicación de los correctivos disciplinarios corresponde al Director en los casos a que se refieren las fracciones I y II del Artículo anterior; las fracciones III, IV y V serán facultad exclusiva de la Comisión de Honor y Justicia. Cuando ésta última imponga la destitución o rescisión de algún elemento operativo de Seguridad Pública y Tránsito, la aplicará el Director.
+Los correctivos disciplinarios correspondientes a la amonestación, arresto o cambio de adscripción podrán ser promovidos por cualquier integrante con grado jerárquico de Policía Tercero o Superior y aplicado por un Policía Segundo o Superior: La aplicación de la Suspensión y Remoción será facultad exclusiva de la Comisión del Servicio Profesional de Carrera, Honor y Justicia.
 
 ###### ARTICULO 856.
 
 Las sanciones o correctivos disciplinarios a que se hace mención deberán incluirse en el expediente personal de los elementos.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2021, PÁGINA 52.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ### CAPITULO IX. Causas de Destitución
 
 ###### ARTICULO 857.
 
-Son faltas leves por las que podrán ser sancionados los elementos que conforman los Cuerpos de Seguridad Pública y Tránsito que conocerá y aplicará el Director, las siguientes:
-
-I. Por desacato injustificado a las órdenes de sus superiores;
-
-II. Revelar claves del servicio, asuntos secretos o reservados de los que tenga conocimiento;
-
-III. Aplicar a sus subalternos en forma dolosa o reiterada correctivo disciplinarios, sin tener facultad para ello o sin causa justificada; y
-
-IV. Por utilizar los vehículos oficiales para uso particular o de manera negligente.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 858.
 
-Son faltas graves por las que podrán ser sancionados los elementos que conforman los Cuerpos de Seguridad Pública y Tránsito que conocerá y aplicará la Comisión de Honor y Justicia, las siguientes:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Faltar a sus labores por más de dos ocasiones en un periodo de treinta días naturales, sin permiso o sin causa justificada;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Reincidir en las faltas sin permiso o causa injustificada a la que se refiere la fracción anterior, en los siguientes treinta días naturales;
+### CAPITULO X. Condecoraciones y Estímulos
 
-III. Que se le dicte sentencia condenatoria por la comisión de un delito doloso en el ejercicio de sus funciones o delito considerado grave;
-
-IV. Disparar el arma de fuego sin causa justificada;
-
-V. Poner en peligro a los particulares o a sus compañeros por causa de imprudencia, descuido, negligencia, pánico o abandono del servicio;
-
-VI. Asistir a sus labores en estado de ebriedad o bajo el influjo de sustancias psicotrópicas o estupefacientes o por consumirlas durante el servicio o en su centro de trabajo;
-
-VII. Presentar documentación alterada, informes alejados a la verdad o realidad de los hechos de los que tenga conocimiento o que se le hayan encomendado;
-
-VIII. Obligar o sugerirle a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
-
-IX. Por falta grave a los principios de actuación y a las normas disciplinarias, según calificación de la Comisión de Honor y Justicia; y
-
-X. Las demás que señale el presente Código.
-
-### CAPITULO X. Condecoraciones y Reconocimientos Policíacos
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 859.
 
-La Dirección manifestará públicamente el reconocimiento a las personas que siendo miembros de la Corporación, sean un ejemplo positivo de comportamiento y trabajo en beneficio de la seguridad pública y aún a aquellas que no sean miembros de alguna corporación.
+La Dirección de Seguridad Pública y Movilidad manifestará públicamente el reconocimiento a las personas que siendo Elementos de la Corporación, sean un ejemplo positivo de comportamiento y trabajo en beneficio de la seguridad pública movilidad.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 860.
 
-Las formas de reconocimiento, tal y como se señala en el Artículo anterior, son otorgadas a nombre del H. Ayuntamiento de San Francisco de los Romo, por el Presidente Municipal o por el Director o bien, por la persona que designe el primero.
+El régimen de condecoraciones y estímulos, es el procedimiento por el cual se establecen los requisitos para que la instancia correspondiente, otorgue el reconocimiento público, la remuneración económica o ambos, a los elementos, basándose en los méritos, los mejores resultados de formación continua, la capacidad, el compromiso demostrado, el desarrollo alcanzado y las acciones relevantes reconocidas por la sociedad, con la finalidad de fomentar la calidad y efectividad en el desempeño del servicio y en el desarrollo integral, fortaleciendo además su identidad institucional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 861.
 
-Las formas de reconocimiento son las siguientes:
+Las formas de condecoraciones y estímulos son las siguientes:
 
-I. Medallas;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Diplomas;
+I. Mérito Policial;
 
-III. Cartas laudatorias; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Otros reconocimientos y estímulos.
+II. Mérito Cívico;
 
-Su otorgamiento podrá hacerse en vida o con posterioridad al fallecimiento del integrante de los Cuerpos de Seguridad Pública y Tránsito.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+III. Mérito Social;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Mérito Ejemplar;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Mérito Tecnológico;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Mérito Facultativo;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII. Mérito Docente; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII. Mérito Deportivo.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 862.
 
-Anualmente, el H. Ayuntamiento, con base en el reglamento que para tal efecto expida, valorará el otorgamiento de los siguientes reconocimientos a los Cuerpos de Seguridad Pública y Tránsito, mismos que se entregarán el 3 de diciembre de cada año, en el marco de la conmemoración del Día del Policía caído de San Francisco de los Romo:
+Anualmente, el H. Ayuntamiento, con base en el Reglamento del Servicio de Carrera Policial, valorará el otorgamiento de las condecoraciones y estímulos a los Elementos de Seguridad Pública y Movilidad, mismos que se entregarán el 3 de diciembre de cada año, en el marco de la conmemoración del Día del Policía caído de San Francisco de los Romo.
 
-I. Medalla de Heroísmo: Se otorga por el gran valor demostrado, ya sea a uno o varios elementos por su acción coordinada al exponer su vida o integridad física al rescatar a personas de peligros graves o en siniestros. Se requiere solicitud escrita a la Dirección por parte de quien desee promoverla, debiendo contener los relatos o testimoniales del suceso. Se otorga a miembros de cualquier jerarquía;
-
-II. Medalla de Honor: Se otorga por el constante y ejemplar comportamiento durante el servicio, así como por haber participado en situaciones hostiles o adversas, donde la magnitud de dichas situaciones hayan sido mayor que los recursos disponibles para hacerle frente;
-
-III. Medalla a la Perseverancia: Se otorga al personal de cualquier nivel jerárquico que cumpla quince años en servicio activo, con o sin interrupción;
-
-IV. Medalla de Eficiencia: Se otorga a elementos de los cuerpos de seguridad con dos años o más de servicio que en el desarrollo de su trabajo se advierta claramente en el área de su jurisdicción la disminución de hechos delictivos. Corresponde al superior jerárquico iniciar el procedimiento por medio de escrito dirigido al Director; y
-
-V. Medalla de Servicio Distinguido: Se otorga a los elementos con más de cinco años en puestos de mando y que siendo poseedores de la Medalla de Eficiencia, hayan aumentado de forma destacada el índice de aprovechamiento eficaz y la calidad del servicio en el área de su jurisdicción. El promovente será el superior jerárquico quien a la petición por escrito dirigida al Director adjuntará las constancias necesarias para el efecto de su evaluación.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 863.
 
-. El H. Ayuntamiento podrá otorgar una medalla a nombre del Municipio de San Francisco de los Romo a personas que no son miembros de la Dirección, que sin embargo han realizado acciones concretas que hayan hecho posible la prestación de un mejor servicio por parte de la Corporación. La propuesta deberá ser hecha por la Dirección General de Gobierno al H. Ayuntamiento y se le denomina Medalla de Gratitud.
+El H. Ayuntamiento podrá otorgar una medalla a nombre del Municipio de San Francisco de los Romo a personas que no son miembros de la Dirección de Seguridad Pública y Movilidad, que sin embargo han realizado acciones concretas que hayan hecho posible la prestación de un mejor servicio por parte de la Corporación. La propuesta deberá ser hecha por la Dirección General de Gobierno al H. Ayuntamiento y se le denomina Medalla de Gratitud.
 
 ###### ARTICULO 864.
 
-Los diplomas se entregarán con motivo de acciones sobresalientes que enaltezcan a la Corporación, tales como espíritu de servicio, triunfos deportivos y todas aquéllas que a juicio de la Dirección sean merecedoras de reconocer mediante esta presea.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 865.
 
-Las Cartas Laudatorias se entregan por una actividad específica que haya contribuido a la ejecución de una misión importante o bien que la actividad fue ejemplar por su entrega y determinación. Consiste en la entrega de una carta al policía distinguido, donde se describe en forma breve y elocuente el mérito alcanzado y es firmada por el Presidente Municipal, por el Secretario del H. Ayuntamiento y por los integrantes de la Comisión de Seguridad Pública y Tránsito del H. Ayuntamiento. Se entregará mensualmente a propuesta del Consejo Ciudadano de Seguridad Pública y Tránsito. Se le designará El Policía del Mes y tendrá derecho a un estímulo económico.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-### CAPITULO XI. Comisión de Honor y Justicia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2021)</small>
+
+### CAPITULO XI
+
+Comisión del Servicio Profesional de Carrera, Honor y Justicia.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 866.
 
-La Comisión de Honor y Justicia es el órgano colegiado de la Dirección de Seguridad Pública y Tránsito Municipal encargado de conocer, resolver y sancionar los casos de faltas cometidas por los elementos operativos de los Cuerpos de Seguridad Pública en servicio o fuera de él, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias previstos en el presente ordenamiento, así como de otorgar reconocimientos a las acciones relevantes en que intervinieron los miembros de la Dirección.
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia es el órgano colegiado de la Dirección de Seguridad Pública y Movilidad Municipal encargado de conocer, resolver y sancionar los casos de faltas cometidas por elementos, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias previstos en el presente ordenamiento y en el Reglamento del Servicio Profesional de Carrera Policial, así como de otorgar condecoraciones y estímulos a las acciones relevantes en que intervinieron los Policías.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 867.
 
-La Comisión de Honor y Justicia tiene por objeto que los Cuerpos de Seguridad Pública y Tránsito se mantengan dentro de las prescripciones legales propias de su función de servicio eficiente y honorable a la comunidad; para tal efecto, gozará de las más amplias facultades para examinar los expedientes de los elementos operativos de la Dirección de Seguridad Pública y Tránsito Municipal y practicar las diligencias que le permitan allegarse de los elementos necesarios para dictar su resolución.
+La Comisión del (sic)
+
+(sic) Pública y Movilidad se mantengan dentro de las prescripciones legales propias de su función de servicio eficiente y honorable a la comunidad; para tal efecto, gozará de las más amplias facultades para examinar los expedientes de los Policías y practicar las diligencias que le permitan allegarse de los elementos necesarios para dictar su resolución.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 868.
 
-La Comisión de Honor y Justicia debe de actuar en coordinación con el Secretario del H. Ayuntamiento y el Director de Seguridad Pública y Tránsito Municipal, para proteger los intereses de la sociedad y salvaguardar la tranquilidad y el orden público.
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia debe de actuar en coordinación con el Secretario del H. Ayuntamiento y el Director de Seguridad Pública y Movilidad Municipal, para proteger los intereses de la sociedad y salvaguardar la tranquilidad y el orden público.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 869.
 
-El Director deberá turnar a la Comisión de Honor y Justicia, el o los casos de los elementos de Seguridad Pública y Tránsito que hayan infringido las disposiciones del presente Código o que estén sujetos a una investigación por parte de la Dirección, haciendo entrega al Presidente de la Comisión, los antecedentes que se hayan logrado reunir con veinticuatro horas de anticipación a la fecha de celebración de la sesión.
+El Subdirector de Asuntos Internos y Jurídico deberá turnar a la Comisión del Servicio Profesional de Carrera, Honor y Justicia, el o los casos de los elementos de Seguridad Pública y Movilidad que hayan infringido las disposiciones del presente Código y Reglamento del Servicio Profesional de Carrera Policial, haciendo entrega al Presidente o a la Secretaría Técnica de la Comisión del Servicio Profesional de Carrera, Honor y Justicia, los antecedentes que se hayan logrado reunir para que de inicio el Procedimiento mencionado en dicho Reglamento.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 870.
 
-La Comisión de Honor y Justicia proporcionará con veinticuatro horas de anticipación, al elemento objeto de citación, las copias de los documentos que integran el expediente por el que se ordenó la citación, para que se presente aportando los elementos de prueba que juzgue convenientes.
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia proporcionará con nueve días de anticipación, al Policía objeto de la investigación, las copias de los documentos que integran el expediente por el que se ordenó el emplazamiento, para que se presente a la audiencia y aporte los elementos de prueba que juzgue convenientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 871.
 
-La Comisión de Honor y Justicia tendrá las siguientes facultades y obligaciones:
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia, tendrá las siguientes atribuciones:
 
-I. Conocer, resolver y sancionar sobre las faltas previstas en el Artículo 858 del presente ordenamiento, en las que incurran los elementos operativos por cualquier conducta contraria a las normas disciplinarias o a los principios de actuación previstos en este Título y sobre las quejas o denuncias que le sean presentados por cualquier persona o cualquier autoridad;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Resolver sobre la suspensión temporal y la destitución de los elementos operativos de la Dirección de Seguridad Pública y Tránsito Municipal por la comisión de una falta prevista en el presente ordenamiento;
+I. Participar en la valoración para determinar el otorgamiento de estímulos o recompensas a los integrantes;
 
-III. Aprobar, en su caso, el otorgamiento de las condecoraciones, estímulos y recompensas previstos en este Código;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. Sesionar por lo menos una vez al mes;
+II. Determinar sobre la permanencia o conclusión del servicio de los integrantes, en base a los requisitos y formalidades establecidos en los instrumentos normativos aplicables;
 
-V. Rendir informes trimestrales al Secretario del H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-VI. Levantar las actas de cada sesión en el momento en que se celebren éstas, las cuales deberán quedar asentadas en el libro correspondiente y firmadas por el Presidente, el Secretario y demás integrantes de la Comisión, así como por las personas que en ella intervengan. El libro quedará a disposición de la Secretaria del H. Ayuntamiento para los efectos conducentes; y
+III. Determinar sobre las evaluaciones del desempeño;
 
-VII. Solicitar a la Dirección la presencia del elemento cuyo caso se vaya a analizar, indicándole la fecha, hora y lugar en que habrá de celebrarse la sesión de la Comisión, por lo menos con cinco días naturales de anticipación.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. Procurar que se cumplan los fines de la carrera policial;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. Evaluar la aplicación de los procedimientos del Servicio Profesional de Carrera Policial;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI. Examinar los expedientes de los aspirantes a la formación inicial, para determinar su ingreso o no;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII. Examinar los expedientes de los integrantes de la institución, a fin de determinar los ascensos de grado y jerarquías correspondientes;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VIII. Aprobar las convocatorias para los procedimientos de ingreso y promoción;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+IX. Solicitar al Director, los informes sobre los avances de implementación y cumplimiento de los procedimientos del Servicio Profesional de Carrera Policial;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+X. Recomendar ajustes, cuando así lo considere pertinente, sobre los procedimientos, programas, acciones y medidas relacionadas con la operación del Servicio Profesional de Carrera Policial;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XI. Conocer y resolver sobre el otorgamiento de constancias de grado jerárquico, cumpliendo escrupulosamente con las formalidades de los procedimientos;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XII. Revisar anualmente los resultados del Servicio Profesional de Carrera Policial, expuestos por la Dirección;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XIII. Sugerir a la Dirección la implementación de programas y actividades académicas para el óptimo desarrollo de los procedimientos de formación inicial y continua, así como las evaluación (sic) para la permanencia de los integrantes de la Dirección;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XIV. Coordinarse con las demás autoridades e instituciones relacionadas con el Servicio Profesional de Carrera Policial para su mejor funcionamiento;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XV. Fomentar la vocación de servicio mediante la promoción y permanencia entre los integrantes de la Dirección, para satisfacer las expectativas de desarrollo profesional del personal;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XVI. Coordinar, dirigir y determinar sobre la migración de los integrantes al Servicio Profesional de Carrera Policial, acordando los niveles, términos y condiciones en que deberán ser ubicados cada uno de ellos;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XVII. Conocer, resolver y sancionar sobre las faltas clasificadas como de primer, segundo y tercer nivel, en las que incurran los integrantes operativos por cualquier conducta contraria a los principios de actuación previstos;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XVIII. Resolver sobre la suspensión temporal o remoción de los elementos de la Dirección de Seguridad Pública y Movilidad, por la comisión de alguna de las faltas previstas;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XIX. Dictar, durante el procedimiento, las medidas necesarias para conocer la verdad histórica de los hechos, sobre cada caso en particular, ajustándose a los principios esenciales del procedimiento;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XX. Participar en el otorgamiento de algún tipo de estímulo o condecoración previstos en la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXI. Dictar, como una medida de seguridad, en los casos que el propio órgano colegiado califique como graves, el apartamiento del servicio de manera temporal, si goce de sueldo del presunto infractor y por un periodo máximo de 30 días naturales. Lo anterior con el objeto de desarrollar eficazmente las diligencias, evitando un riesgo mayor en la prestación del servicio de seguridad pública; en caso de que al final del procedimiento, fuese determinada la no responsabilidad de el o los integrantes que hubiesen sido apartados del servicio temporalmente como una medida de seguridad, deberán pagársele la totalidad de las percepciones que no hayan sido recibidas, durante el periodo correspondiente;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXII. Informar a las instancias competentes, cuando se advierta en el desarrollo del procedimiento, la probable comisión de delitos;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXIII. Rendir informes trimestrales al Secretario del H. Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXIV. Dictar en cada caso la resolución que corresponda, imponiendo las sanciones de su competencia, a los elementos que sean encontrados responsables de la comisión de las faltas previstas;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXV. Solicitar a la Dirección, la presencia del integrante cuyo caso se vaya a desahogar, indicándole la fecha, hora y lugar en que habrá de celebrarse la sesión, por lo menos con nueve días de anticipación;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXVI Notificar al Registro Nacional de Personal de las Instituciones de Seguridad Pública sobre las sanciones que sean impuestas a los integrantes operativos, en un término de cinco días hábiles siguientes a su resolución;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXVII. Conocer y resolver de los recursos de resolución que prevé la normatividad aplicable, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+XXVIII. Las demás que de manera explícita o implícita le sean conferidas en términos de las disposiciones normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 872.
 
-La Comisión de Honor y Justicia se integrará por:
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia se integrará por:
 
-I. Un Presidente: Será el Regidor titular de la Comisión de Seguridad Pública y Tránsito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. Un Secretario: Que será el Director de Asuntos Jurídicos del H. Ayuntamiento, quien sólo realizará funciones administrativas, contando con voz y no con voto;
+I. Un Presidente, que será el Presidente Municipal, quien tendrá voz y voto;
 
-III. Seis Vocales de Seguridad Pública y Tránsito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-IV. El Director de Seguridad Pública y Tránsito, quién contará sólo con voz y no con voto; y
+II. Un Fiscal, que será el titular de la Subdirección de Asuntos Internos y Jurídico, quien contará solo con voz;
 
-V. Un Fiscal que será el Subdirector de Seguridad Pública y Tránsito, quién contará sólo con voz y no con voto.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-Para cada uno de estos cargos se designará un suplente, a excepción del Presidente.
+III. Un Secretario Técnico, que será el Director de Asuntos Jurídicos, quien tendrá voz y voto;
 
-Los anteriores cargos son honorarios y no percibirán sueldo alguno por sus funciones.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2021)</small>
 
-Todos los Vocales que integran la Comisión de Honor y Justicia, deberán estar en servicio activo en el momento de su designación.
+IV. Tres Policías Terceros, encargados de los Departamentos de:
 
-Los Vocales y los suplentes que integran la Comisión de Honor y Justicia serán elegidos por los integrantes de Seguridad Pública y Tránsito Municipal, mediante el proceso que determine la propia Comisión y a falta de éste los designará el Presidente de la misma.
+a) Prevención del delito;
+
+b) Análisis; e
+
+c) Inteligencia.
+
+Quienes tendrán voz y voto;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+V) Un representante de la Contraloría Municipal, quien tendrá voz y voto;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VI) Un miembro del Consejo Municipal, el cual será designado por el Presidente Municipal quien tendrá voz y voto;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII) Un Regidor de la Comisión de Seguridad Pública y Movilidad, quien tendrá voz y voto;
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+El Presidente y cada uno de los miembros de la Comisión, podrán designar un suplente. Los anteriores cargos con (sic) honoríficos y no percibirán retribución alguna por sus funciones.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 873.
 
-La Comisión de Honor y Justicia seguirá el procedimiento sencillo que previene el presente Libro de éste ordenamiento para el trámite de los asuntos de su competencia y cuidando de respetar la garantía de audiencia que consagra el Artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al presunto infractor el derecho a ser oído y probar sus afirmaciones. Previamente se solicitarán a la Dirección todos los antecedentes del caso, que deberán entregarse al Presidente de la Comisión por lo menos veinticuatro horas antes de la fecha de la sesión, la que se sujetará al siguiente procedimiento:
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia seguirá los procedimientos establecidos en el reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo, para el otorgamiento de estímulos y condecoraciones y la imposición de sanciones, cuidando respetar la garantía de audiencia que consagra el Artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al presunto infractor el derecho a ser oído y probar sus afirmaciones.
 
-I. La Comisión de Honor y Justicia abrirá un expediente con las constancias o antecedentes que existan del caso;
-
-II. La Comisión de Honor y Justicia hará saber al elemento sujeto al procedimiento, la naturaleza y causa del mismo, a fin de que conozca los hechos que se le imputan y pueda defenderse, notificándole de la celebración de la sesión con 24 horas hábiles de anticipación a la misma para que ofrezca las pruebas pertinentes y señalándole lugar, día y hora para la celebración de la sesión de pruebas y alegatos;
-
-III. Serán admisibles toda clase de pruebas que se puedan desahogar en el momento de la diligencia y aquellas que por su naturaleza no se puedan desahogar dentro de esta sesión, se celebrarán dentro de los 15 días hábiles siguientes para su oportuno desahogo, excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres;
-
-IV. En dicha sesión se desahogarán las pruebas ofrecidas y no estando pendiente probanza alguna por desahogar, el interesado podrá presentar en forma verbal o por escrito los alegatos que a su derecho convengan;
-
-V. La resolución tomará en consideración la falta cometida y la jerarquía del elemento sujeto a procedimiento, así como las pruebas desahogadas;
-
-VI. De todo lo actuado en la sesión se levantará constancia por escrito;
-
-VII. La Comisión dictará su resolución debidamente fundada y motivada, dentro de los diez días hábiles siguientes y la notificará personalmente al interesado; y
-
-VIII. Las resoluciones de la Comisión de Honor y Justicia se agregarán a los expedientes de los elementos de los Cuerpos de Seguridad Pública.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 874.
 
-las decisiones de la Comisión de Honor y Justicia se tomarán por mayoría de votos, la votación en el seno de la Comisión será de manera abierta y razonada por sus integrantes; el Presidente tendrá voto de calidad y los fallos que emita la Comisión serán inapelables y no admitirán recurso alguno.
+Las decisiones de la Comisión del Servicio Profesional de Carrera, Honor y Justicia se tomarán por mayoría de votos, la votación en el seno de la Comisión será de manera abierta y razonada por sus integrantes; los fallos que emita la Comisión no admitirán recurso alguno.
 
-Sólo podrá sesionar con la presencia del Presidente, del Secretario y un mínimo de tres vocales y en caso de que no se reúnan tres vocales o sus suplentes, el Presidente suspenderá la sesión, señalando nueva fecha para la celebración de la misma y en caso de no presentarse los vocales o suplentes, la determinación que recaiga será obligatoria y surtirá los efectos legales conducentes.
+Sólo sesionará válidamente Comisión del Servicio Profesional de Carrera, Honor y Justicia con la presencia de la mitad más uno de sus miembros con derecho a voz y voto, incluido siempre el Presidente o su suplente.
 
-Las facultades de la Comisión de Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y al Director de Seguridad Pública y Tránsito.
+Las facultades de la Comisión del Servicio Profesional de Carrera, Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y Director General de Gobierno y al Director de Seguridad Pública y Movilidad.
 
 ## TITULO SEGUNDO. DE LAS FALTAS DE POLICIA Y BUEN GOBIERNO
 
@@ -10039,17 +10465,23 @@ XVI. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda in
 
 En caso de que la multa impuesta no fuere cubierta por el infractor, aquélla se permutará por arresto hasta de treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 885.
 
-La vigilancia sobre la comisión de faltas administrativas queda a cargo de la Dirección de Seguridad Pública y Tránsito Municipal y la Subdirección de Seguridad Pública y Tránsito Municipal, en el ámbito de su competencia, en los centros de espectáculos, además del Inspector dependiente del Departamento de Reglamentos. La aplicación de las sanciones es facultad exclusiva de los Jueces Calificadores.
+La vigilancia sobre la comisión de faltas administrativas queda a cargo de la Dirección y Subdirección Operativa de Seguridad Pública y Movilidad Municipal, en el ámbito de su competencia, en los centros de espectáculos, además del Inspector dependiente del Departamento de Reglamentos. La aplicación de las sanciones es facultad exclusiva de los Jueces Calificadores.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 886.
 
-Los elementos de la Dirección de Seguridad Pública y Tránsito Municipal en el ámbito de su competencia, deberán tomar las medidas necesarias para presentar ante el Juez Calificador competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
+Los elementos de la Dirección de Seguridad Pública y Movilidad Municipal en el ámbito de su competencia, deberán tomar las medidas necesarias para presentar ante el Juez Calificador competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 887.
 
-En el caso de comisión de una falta no flagrante que deberá presentarse ante el Juez Calificador, éste mandará citar a su presencia a los implicados y en caso de desobediencia a dicha cita podrá hacerlos comparecer por medio de la fuerza pública, previo acuerdo que éste emita a la Dirección de Seguridad Pública y Tránsito Municipal, mediante escrito debidamente fundado y motivado en términos de lo dispuesto por el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+En el caso de comisión de una falta no flagrante que deberá presentarse ante el Juez Calificador, éste mandará citar a su presencia a los implicados y en caso de desobediencia a dicha cita podrá hacerlos comparecer por medio de la fuerza pública, previo acuerdo que éste emita a la Dirección de Seguridad Pública y Movilidad Municipal, mediante escrito debidamente fundado y motivado en términos de lo dispuesto por el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2010)</small>
 
@@ -10107,9 +10539,11 @@ la acción para imponer las sanciones por las faltas señaladas en este Capítul
 
 El presente Capítulo tiene por objeto regular el funcionamiento de la Pensión Municipal y su interrelación con las autoridades y Dependencias que hacen uso de ella.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 898.
 
-El H. Ayuntamiento de San Francisco de los Romo a través de la Dirección de Seguridad Pública y Tránsito Municipal es la autoridad competente para la aplicación del presente Capítulo y tendrá las obligaciones y facultades que en el mismo se señalan.
+El H. Ayuntamiento de San Francisco de los Romo a través de la Dirección de Seguridad Pública y Movilidad Municipal es la autoridad competente para la aplicación del presente Capítulo y tendrá las obligaciones y facultades que en el mismo se señalan.
 
 ###### ARTICULO 899.
 
@@ -10125,9 +10559,11 @@ Todo bien mueble que ingrese a la Pensión Municipal contará con un registro en
 
 Para los efectos de este Capítulo, se entiende por resguardo, la acción por la cual un bien mueble ingresa temporalmente a las instalaciones de la Pensión Municipal. Se podrán llevar a cabo ingresos a la Pensión Municipal los 365 días del año, las 24 horas del día.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 902.
 
-El Director de Seguridad Pública y Tránsito Municipal, podrá autorizar el ingreso, resguardo y salida de vehículos en depósitos o pensiones particulares cuando los depósitos municipales no tengan cupo o por causas extraordinarias, debiendo ajustarse a las disposiciones de este capítulo.
+El Director de Seguridad Pública y Movilidad Municipal, podrá autorizar el ingreso, resguardo y salida de vehículos en depósitos o pensiones particulares cuando los depósitos municipales no tengan cupo o por causas extraordinarias, debiendo ajustarse a las disposiciones de este capítulo.
 
 ###### ARTICULO 903.
 
@@ -10145,13 +10581,19 @@ Las causas por las que un vehículo puede ingresar a la Pensión Municipal, ser�
 
 I. Por accidente;
 
-II. Por infracción cometida por haber violado alguna de las disposiciones de tránsito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. Por infracción cometida por haber violado alguna de las disposiciones de la Ley de Movilidad del Estado de Aguascalientes;
 
 III. Por abandono en vía publica; y
 
 IV. Por orden de cualquier autoridad administrativa o judicial, misma que debe estar debidamente fundada y motivada.
 
-Se considera abandono cuando un vehículo, permanece por más de siete días en un mismo lugar de la vía pública y que se haya realizado el apercibimiento al poseedor o propietario, por parte de agentes de tránsito, para que sea retirado.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Se considera abandono cuando un vehículo, permanece por más de siete días en un mismo lugar de la vía pública y que se haya realizado el apercibimiento al poseedor o propietario, por parte de los Elementos de Seguridad Pública y Movilidad, para que sea retirado.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 906.
 
@@ -10163,11 +10605,13 @@ II. Causas de fuerza mayor; y
 
 III. Efectos climatológicos o hechos de la naturaleza.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 907.
 
-Todo vehículo que sea remitido a la Pensión Municipal, sin importar la causa de su ingreso, deberá contar con un inventario debidamente llenado en el momento de ser levantado por los agentes de tránsito municipal en los casos de las tres primeras fracciones del Artículo 905 o bien cuando se trate de otra autoridad remitente en el caso de la fracción IV, en el momento de ser remitido a la Pensión Municipal.
+Todo vehículo que sea remitido a la Pensión Municipal, sin importar la causa de su ingreso, deberá contar con un inventario debidamente llenado en el momento de ser levantado por los Elementos de Seguridad Pública y Movilidad municipal en los casos de las tres primeras fracciones del Artículo 905 o bien cuando se trate de otra autoridad remitente en el caso de la fracción IV, en el momento de ser remitido a la Pensión Municipal.
 
-Para ello, los oficiales de tránsito deberán llevar en todo momento, formatos de acta o parte, además de los formatos de inventarios y sellos de cancelado.
+Para ello, los Elementos de Seguridad Pública y Movilidad deberán llevar en todo momento, formatos de acta o parte, además de los formatos de inventarios y sellos de cancelado.
 
 ###### ARTICULO 908.
 
@@ -10175,33 +10619,45 @@ Cuando el ingreso a la Pensión Municipal, sea por las causas señaladas en los 
 
 I. Cuando proceda el oficial a levantar el parte, deberá hacerla en presencia del conductor del vehículo o un testigo, excepto en el caso de abandono en vía publica; en ese momento deberá hacer el inventario de las pertenencias y del estado general del vehículo. El inventario será firmado de conformidad por el conductor del vehículo o por un testigo y por el oficial encargado.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
+
 ###### ARTICULO 909.
 
 Los vehículos que sean trasladados a la Pensión Municipal, teniendo como causa su abandono, además de contar con los requisitos señalados en el Artículo anterior, deberán contar en su caso con el apercibimiento engomado adherido al vehículo o anexando copia del apercibimiento al inventario para que se permita el ingreso del mismo a la Pensión Municipal.
 
-El personal de la Pensión Municipal deberá de elaborar el inventario respectivo, que en todo momento deberá coincidir con el presentado por el Agente de Seguridad Pública y Tránsito y en caso de discrepancia, se hará la anotación correspondiente, debiendo firmar dicho recibo tanto el personal de la citada pensión, como el Agente de Mérito, bajo responsabilidad del primero en caso de omisión de dicho requisito; se le asignará cajón para su acomodo y será sellado. En caso de ser motocicleta o triciclo le asignará un lugar especial y en caso de muebles, se depositarán en el almacén que señale la autoridad que los reciba.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+El personal de la Pensión Municipal deberá de elaborar el inventario respectivo, que en todo momento deberá coincidir con el presentado por el Elemento de Seguridad Pública y Movilidad y en caso de discrepancia, se hará la anotación correspondiente, debiendo firmar dicho recibo tanto el personal de la citada pensión, como el elemento de Mérito, bajo responsabilidad del primero en caso de omisión de dicho requisito; se le asignará cajón para su acomodo y será sellado. En caso de ser motocicleta o triciclo le asignará un lugar especial y en caso de muebles, se depositarán en el almacén que señale la autoridad que los reciba.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 910.
 
-En caso de ser por accidente y en el supuesto de que la persona resulte dañada físicamente y no sea posible que firme de conformidad el inventario, ni que participe en él, el oficial encargado será el responsable del levantamiento, por lo que deberá de informar al conductor del vehículo, que con posterioridad pase a la Dirección de Seguridad Pública y Tránsito Municipal a recoger copia de dicho inventario.
+En caso de ser por accidente y en el supuesto de que la persona resulte dañada físicamente y no sea posible que firme de conformidad el inventario, ni que participe en él, el Policía encargado será el responsable del levantamiento, por lo que deberá de informar al conductor del vehículo, que con posterioridad pase a la Dirección de Seguridad Pública y Movilidad Municipal a recoger copia de dicho inventario.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 911.
 
-Una vez realizado el inventario, el oficial responsable en presencia del propietario, de testigos o de autoridad remitente, procederá a dar por concluido el inventario, recabándose las firmas correspondientes.
+Una vez realizado el inventario, el Policía responsable en presencia del propietario, de testigos o de autoridad remitente, procederá a dar por concluido el inventario, recabándose las firmas correspondientes.
 
-El Agente responsable le informará al conductor del vehículo, que tiene derecho de retirar sus pertenencias, sin que ningún Agente de Seguridad Pública y Tránsito se lo impida.
+El Policía responsable le informará al conductor del vehículo, que tiene derecho de retirar sus pertenencias, sin que ningún Elemento de Seguridad Pública y Movilidad se lo impida.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 912.
 
-En caso de accidente o infracción, si la unidad no esta dañada o no resultó dañada por efecto del accidente, el conductor podrá llevar él mismo su vehículo a la Pensión Municipal, bajo la escolta del agente de tránsito, en estos casos el servicio de grúa no es necesaria, por lo que el inventario y la colocación de los sellos se hará al llegar a la Pensión Municipal en presencia del conductor, del agente de tránsito y del encargado en turno de la pensión en términos de lo indicado en el Artículo 909 del presente Código.
+En caso de accidente o infracción, si la unidad no está dañada o no resultó dañada por efecto del accidente, el conductor podrá llevar él mismo su vehículo a la Pensión Municipal, bajo la escolta del Elemento de Seguridad Pública y Movilidad, en estos casos el servicio de grúa no es necesaria, por lo que el inventario y la colocación de los sellos se hará al llegar a la Pensión Municipal en presencia del conductor, del Elemento de Seguridad Pública y Movilidad y del encargado en turno de la pensión en términos de lo indicado en el Artículo 909 del presente Código.
 
-Queda estrictamente prohibido a los Agentes de Seguridad Pública y de Tránsito o al personal de la Presidencia Municipal subirse a los vehículos particulares al ser remitidos a la Pensión Municipal, así como conducirlos ellos mismos salvo orden del superior jerárquico.
+Queda estrictamente prohibido a los Elementos de Seguridad Pública y Movilidad o al personal de la Presidencia Municipal subirse a los vehículos particulares al ser remitidos a la Pensión Municipal, así como conducirlos ellos mismos salvo orden del superior jerárquico.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 913.
 
-El operador de la grúa, verificará lo anotado en el inventario por el Agente de Seguridad Pública y Tránsito y firmará de conformidad en el mismo, en caso de existir discrepancia alguna, se asentará la anotación correspondiente, firmando tanto el agente que entrega, como el operador de la grúa.
+El operador de la grúa, verificará lo anotado en el inventario por el Elemento de Seguridad Pública y Movilidad y firmará de conformidad en el mismo, en caso de existir discrepancia alguna, se asentará la anotación correspondiente, firmando tanto el agente que entrega, como el operador de la grúa.
 
-El original del inventario lo conservará el Agente de Seguridad Pública y de Tránsito, la primera copia la entregará al conductor y la segunda copia al operador de la grúa para respaldar el traslado del vehículo a la Pensión Municipal.
+El original del inventario lo conservará el Elemento de Seguridad Pública y Movilidad, la primera copia la entregará al conductor y la segunda copia al operador de la grúa para respaldar el traslado del vehículo a la Pensión Municipal.
 
 ###### ARTICULO 914.
 
@@ -10217,9 +10673,11 @@ En caso de intervención de alguna grúa particular, el costo en ningún momento
 
 Los daños que sean ocasionados durante el traslado del vehículo a la Pensión Municipal por medio de grúa, son responsabilidad de los elementos que la transportan, por lo que la Pensión Municipal cotejará el estado físico antes de proceder a autorizar su ingreso en la misma y en caso de encontrar cualquier anomalía hará las anotaciones y observaciones en presencia de los elementos que transportaron la unidad y del conductor en caso de encontrarse presente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 917.
 
-Todo vehículo que ingrese a la Pensión Municipal, contará con un registro a través de los sistemas de información que provean en cualquier momento todos los datos relativos a: placas del vehículo, características, causa de ingreso, autoridad remitente, fecha y hora de ingreso, número de expediente del Agente de Seguridad Pública y Tránsito que participó, así como los demás datos que se estimen pertinentes.
+Todo vehículo que ingrese a la Pensión Municipal, contará con un registro a través de los sistemas de información que provean en cualquier momento todos los datos relativos a: placas del vehículo, características, causa de ingreso, autoridad remitente, fecha y hora de ingreso, número de expediente del Elemento de Seguridad Pública y Movilidad que participó, así como los demás datos que se estimen pertinentes.
 
 De la misma manera, todo vehículo que ingrese a la Pensión Municipal, contará con una póliza de seguro contra incendio, robo y vandalismo. La póliza será cargada al costo que se acumule por gasto de traslado por grúa y los días de estancia en la Pensión Municipal. La vigencia de la póliza será de doce meses como máximo o bien tendrá como fecha de vencimiento el día en que el vehículo salga de la pensión.
 
@@ -10247,9 +10705,11 @@ Al recibirse en la Pensión Municipal el escrito y el vehículo, se deberá iden
 
 Una vez que se ha levantado el inventario, el encargado de turno de la Pensión Municipal, en presencia del remitente colocará los sellos de cancelado, mismos que serán rubricados. Del inventario levantado, se proporcionará una copia a la autoridad remitente y el original, así como la copia restante se conservará en la pensión, a fin de que se registren en el sistema de información.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 923.
 
-Cualquier persona o autoridad, que ingrese a la Pensión Municipal, con el fin de practicar una diligencia o para substraer objetos, deberá contar con orden por escrito de la Dirección de Seguridad Pública y Transito Municipal y se realizará en presencia del encargado de turno de la Pensión Municipal, quien levantará reporte de los sucesos.
+Cualquier persona o autoridad, que ingrese a la Pensión Municipal, con el fin de practicar una diligencia o para substraer objetos, deberá contar con orden por escrito de la Dirección de Seguridad Pública y Movilidad Municipal y se realizará en presencia del encargado de turno de la Pensión Municipal, quien levantará reporte de los sucesos.
 
 APARTADO CUARTO (SIC)
 
@@ -10265,9 +10725,11 @@ Después de transcurridos seis meses de ingreso del vehículo en la Pensión Mun
 
 Esta disposición se le hará saber a los conductores de vehículos ingresados a la Pensión Municipal al momento de entregar el inventario respectivo y a quien aparezca como propietario en la tarjeta de circulación, aplicándose los mismos lineamientos al resto de los bienes muebles.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 926.
 
-En caso de ser vehículos y el monto del crédito fiscal que resulte por el transcurso de los seis meses de pensión, de gastos de arrastre, avisos, edictos e infracciones de tránsito, sea igualo o más del valor de la tasación, el H. Ayuntamiento podrá autorizar la adjudicación de los bienes para su beneficio o para programas municipales de beneficencia pública, cuando previamente se hayan publicado los avisos en los términos del Artículo correspondiente de este apartado.
+En caso de ser vehículos y el monto del crédito fiscal que resulte por el transcurso de los seis meses de pensión, de gastos de arrastre, avisos, edictos e infracciones de movilidad, sea igualo (sic) o más del valor de la tasación, el H. Ayuntamiento podrá autorizar la adjudicación de los bienes para su beneficio o para programas municipales de beneficencia pública, cuando previamente se hayan publicado los avisos en los términos del Artículo correspondiente de este apartado.
 
 ###### ARTICULO 927.
 
@@ -10279,13 +10741,17 @@ Se podrán llevar a cabo salidas de vehículos de lunes a sábado en un horario 
 
 En los formatos de inventario y de salida que utiliza la Pensión Municipal aparecerá la leyenda "acepto de conformidad las condiciones en que recibo el vehículo y lo especificado en el inventario, no reservando ninguna reclamación posterior a la salida del vehículo".
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 929.
 
-En los casos que previene el Artículo 905, fracciones de la I a la III, la Dirección de Seguridad Pública y Tránsito Municipal, será la autoridad facultada para autorizar la salida o liberación de vehículos, misma que deberá ser siempre por escrito y con el sello y firma del Director.
+En los casos que previene el Artículo 905, fracciones de la I a la III, la Dirección de Seguridad Pública y Movilidad Municipal, será la autoridad facultada para autorizar la salida o liberación de vehículos, misma que deberá ser siempre por escrito y con el sello y firma del Director.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 930.
 
-En el caso de los vehículos remitidos por autoridad diferente, las autoridades correspondientes serán las facultadas para girar instrucción para la salida de vehículos, que como requisito indispensable deberá ser mediante escrito firmado por las personas autorizadas, dirigido a la Dirección de Seguridad Pública y Tránsito Municipal para que a su vez el titular de la misma otorgue la liberación al interesado.
+En el caso de los vehículos remitidos por autoridad diferente, las autoridades correspondientes serán las facultadas para girar instrucción para la salida de vehículos, que como requisito indispensable deberá ser mediante escrito firmado por las personas autorizadas, dirigido a la Dirección de Seguridad Pública y Movilidad Municipal para que a su vez el titular de la misma otorgue la liberación al interesado.
 
 ###### ARTICULO 931.
 
@@ -10351,19 +10817,25 @@ Los particulares gestores de autoridades facultadas, una vez que hayan pagado lo
 
 Los particulares podrán utilizar para traslado de salida de vehículos, los servicios de una grúa particular o bien tendrán la opción de utilizar la grúa oficial de la Pensión Municipal, efectuando el pago correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 942.
 
-No se proporcionará información alguna a personas o entidades no facultadas para solicitarla, la petición deberá hacerse en forma oficial y por escrito a la Dirección de Seguridad Pública y Tránsito Municipal.
+No se proporcionará información alguna a personas o entidades no facultadas para solicitarla, la petición deberá hacerse en forma oficial y por escrito a la Dirección de Seguridad Pública y Movilidad Municipal.
 
 ###### ARTICULO 943.
 
 La contravención a las disposiciones de este capítulo, por parte del personal de la Pensión Municipal, será motivo de sanciones administrativas, conforme lo establece este Código, el Estatuto Jurídico de los Trabajadores al Servicio del Estado, sus Municipios y Organismos Descentralizados, la Ley de Responsabilidad de los Servidores Públicos del Estado y demás disposiciones aplicables.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
+
 ###### ARTICULO 944.
 
 También se procederá a abrir el procedimiento económico-coactivo para obtener el pago de la pensión de los vehículos ingresados a los depósitos vehiculares municipales y se regulará de la siguiente manera:
 
-I. Sólo procede el pago de la pensión contra los que aparezcan como propietarios de vehículos que hayan ingresado al depósito por accidente o infracciones a las disposiciones de tránsito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. Sólo procede el pago de la pensión contra los que aparezcan como propietarios de vehículos que hayan ingresado al depósito por accidente o infracciones a las disposiciones de la Ley de Movilidad del Estado de Aguascalientes;
 
 II. El procedimiento iniciará certificando, por el encargado del depósito vehicular, con los documentos de ingreso que han transcurrido seis meses de permanencia del vehículo en el depósito;
 
@@ -10861,11 +11333,15 @@ En los permisos y autorizaciones que la Dirección expida para la ocupación o u
 
 El permiso y autorizaciones se otorgarán en un plazo de diez días hábiles una vez cubiertos los requisitos para el mismo, que son: solicitud del peticionario indicando el motivo y periodo de uso, acreditación de personalidad en caso de ser persona moral con la escritura constitutiva correspondiente, en caso de ser persona física con su identificación oficial y en caso de requerir mayor información por el tipo de evento a realizar, la Dirección, se lo hará saber al peticionario al momento de entregar la solicitud. Cualquier daño ocasionado a la vía pública será a costa del peticionario.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
+
 ###### ARTICULO 1025.
 
 Señalamientos.
 
-La Dirección estudiará conjuntamente con la Dirección de Seguridad Pública y Tránsito, aquellos casos especiales en los que se pueda autorizar, de manera temporal o provisional, las construcciones a que hace referencia el Artículo anterior. Además, se requerirá colocar un letrero en lugar visible a 15 metros, en el que se indique la fecha de inicio y terminación de la obra.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+La Dirección estudiará conjuntamente con la Dirección de Seguridad Pública y Movilidad, aquellos casos especiales en los que se pueda autorizar, de manera temporal o provisional, las construcciones a que hace referencia el Artículo anterior. Además, se requerirá colocar un letrero en lugar visible a 15 metros, en el que se indique la fecha de inicio y terminación de la obra.
 
 Los escombros, excavaciones o cualquier obstáculo en la vía pública originados por obras públicas o privadas, deberán ser señalados con banderas o letreros en el día y además con señales luminosas durante la noche. Las dimensiones y características de los señalamientos serán fijadas por la Dirección. Los daños causados por la falta de señales apropiadas serán reparados por el dueño de las obras.
 
@@ -10909,9 +11385,13 @@ Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se
 
 Las disposiciones generales para las canalizaciones son:
 
-I. Los trabajos en la (sic) zonas o en cruceros de gran afluencia vehicular deberán ejecutarse en estricto apego a las disposiciones de tiempo, ejecución, señalamientos y medidas de seguridad que indique la Dirección de Seguridad Pública y Tránsito y las correspondientes aplicables del presente Libro;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
-II. El cruce del arroyo en calzadas, avenidas y calles, se hará por partes para evitar el cierre del tránsito para ello se recabará el permiso correspondiente de la Dirección de Seguridad Pública y Tránsito Municipal presentando de forma previa un estudio de rutas alternativas de tráfico vehicular, sobre todo en los casos de ancho menor de 6 metros, para en su caso permitir el cierre total de la vialidad;
+I. Los trabajos en la (sic) zonas o en cruceros de gran afluencia vehicular deberán ejecutarse en estricto apego a las disposiciones de tiempo, ejecución, señalamientos y medidas de seguridad que indique la Dirección de Seguridad Pública y Movilidad y las correspondientes aplicables del presente Libro;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. El cruce del arroyo en calzadas, avenidas y calles, se hará por partes para evitar el cierre del tránsito para ello se recabará el permiso correspondiente de la Dirección de Seguridad Pública y Movilidad Municipal presentando de forma previa un estudio de rutas alternativas de tráfico vehicular, sobre todo en los casos de ancho menor de 6 metros, para en su caso permitir el cierre total de la vialidad;
 
 III. Se colocarán dispositivos de protección y señalamiento adecuados para evitar daños a personas, vehículos y fincas adyacentes con motivo de la ejecución de las obras, según el Título Sexto de este Libro;
 
@@ -14647,11 +15127,15 @@ Reubicación de postes en la vía pública.
 
 Cuando se requiera reubicar postes, ya sea de C.F.E., telefonía, alumbrado público, o semáforos, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
+
 ###### ARTICULO 1353.
 
 Carga y descarga de materiales.
 
-Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá obtener previamente la autorización correspondiente de la Dirección. En los casos en que por necesidad de obstrucción de una vialidad exclusivamente en aquellas actividades del proceso constructivo que así lo ameriten, se deberá dar aviso y obtener la autorización de la autoridad de tránsito correspondiente.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá obtener previamente la autorización correspondiente de la Dirección. En los casos en que por necesidad de obstrucción de una vialidad exclusivamente en aquellas actividades del proceso constructivo que así lo ameriten, se deberá dar aviso y obtener la autorización de la autoridad de movilidad correspondiente.
 
 ### CAPITULO III. Tapiales
 
@@ -15111,7 +15595,9 @@ Montaje de las estructuras.
 
 En el montaje de las estructuras se observará lo siguiente:
 
-I. El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Tránsito Municipal y notificar a la Dirección;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+I. El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Movilidad Municipal y notificar a la Dirección;
 
 II. Anclajes.- Antes de iniciar la colocación de la estructura, el Perito Responsable de Obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
@@ -15993,7 +16479,9 @@ e) (sic) Dirección de Obras Públicas.
 
 f) Organismo Operador de Agua Potable.
 
-g) Dirección de Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+g) Dirección de Seguridad Pública y Movilidad Municipal.
 
 h) El Regidor de la Comisión de Obras Públicas.
 
@@ -17905,7 +18393,9 @@ En base a lo establecido en el Artículo 8° de la Ley General de Equilibrio Eco
 
 I. La creación, administración y manejo de áreas naturales protegidas de competencia municipal en coordinación con el Estado;
 
-II. El establecimiento, en coordinación con la Dirección de Seguridad Pública y Tránsito Municipal, de medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales Aplicables;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II. El establecimiento, en coordinación con la Dirección de Seguridad Pública y Movilidad Municipal, de medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales Aplicables;
 
 III. Participar en la elaboración de proyectos de reglamentación de zonificación y de usos de suelo así como los Planes y Programas de Desarrollo Urbano Municipal;
 
@@ -18359,6 +18849,8 @@ Para obtener la autorización anterior deben presentar solicitud por escrito ant
 
 ### CAPITULO III. De las Autoridades que Reglamentan el Comercio en la Vía Publica
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
+
 ###### ARTICULO 1667.
 
 Para la protección de la flora y fauna silvestre y acuática existente en el Municipio, el H. Ayuntamiento podrá celebrar, con la intervención que corresponda al Gobierno del Estado, acuerdos con la Federación para:
@@ -18673,7 +19165,9 @@ IX. Zonas permitidas: aquellas donde se pueden autorizar los giros comerciales p
 
 Será autoridad para la aplicación de las presentes disposiciones:
 
-La Dirección de Servicios Públicos la cuál podrá delegar sus facultades administrativas a las Delegaciones Municipales en su área de influencia y se coordinará en su caso con la Dirección de Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+La Dirección de Servicios Públicos la cual podrá delegar sus facultades administrativas a las Delegaciones Municipales en su área de influencia y se coordinará en su caso con la Dirección de Seguridad Pública y Movilidad Municipal.
 
 ###### ARTICULO 1698.
 
@@ -18701,7 +19195,9 @@ d) Expedir y/o revocar los permisos para el ejercicio del comercio en la vía p�
 
 e) Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá tomar en cuenta que no se afecte a terceros al autorizar la venta de productos repetidos o que ya otro comerciante, ya sea establecido o informal, se encuentre expendiendo con anterioridad, en todo caso se deberá de establecer el comerciante a una distancia de 150 metros lineales entre un giro similar y otro;
 
-f) Coordinarse con la Dirección de Seguridad Pública y Tránsito Municipal para el retiro de puestos por infracción al presente Código;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+f) Coordinarse con la Dirección de Seguridad Pública y Movilidad Municipal para el retiro de puestos por infracción al presente Código;
 
 g) Vigilar el cumplimiento de lo dispuesto en este Capítulo, y en el Código;
 
@@ -18737,7 +19233,9 @@ b) Con base en lo anterior, determinar en sus áreas de influencia, los espacios
 
 c) Ampliar, reducir, modificar o reubicar las áreas para el ejercicio de la actividad comercial en vía pública, en sus áreas de influencia, en coordinación con la Dirección de Servicios Públicos.
 
-IV. La Dirección de Seguridad Pública y Tránsito Municipal, a través de sus elementos en activo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2021)</small>
+
+IV. La Dirección de Seguridad Pública y Movilidad Municipal, a través de sus elementos en activo:
 
 a) Realizar acciones preventivas y/o correctivas con el objeto de mantener la seguridad, el orden público y la tranquilidad de las personas en los lugares o zonas en donde se ejerza el comercio en la vía pública; y
 
@@ -18859,9 +19357,11 @@ Para la venta de animales vivos se deberá contar con los permisos correspondien
 
 Para verificar el debido cumplimiento de las disposiciones que señala el presente Capítulo, y demás disposiciones aplicables, la Dirección de Servicios Públicos, contará con un departamento de verificadores e inspectores, los cuales portarán ostensiblemente su identificación que los acredite.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 1708.
 
-El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Dirección de Seguridad Pública y Tránsito Municipal.
+El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Dirección de Seguridad Pública y Movilidad Municipal.
 
 ### CAPITULO V. De las Farmacias, Droguerías, Tlapalerías o Similares
 
@@ -19775,7 +20275,9 @@ V. El Director de Servicios Públicos o el Representante que designe;
 
 VI. El Director General de Desarrollo Urbano, Rural, Ecología y Servicios Públicos;
 
-VII. El Director de Seguridad Pública y Tránsito o el representante que designe;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+VII. El Director de Seguridad Pública y Movilidad o el representante que designe;
 
 VIII. El Jefe de Reglamentos; y
 
@@ -21472,3 +21974,17 @@ P.O. 24 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 117 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO EN LA ORGANIZACIÓN ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO”.]
 
 UNICO.- La corrección del Artículo 117 al Código Municipal de San Francisco de los Romo es para su aplicación a partir de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “CORRECCIÓN DEL ARTÍCULO 117 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO EN LA ORGANIZACIÓN ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO”.]
+
+ÚNICO.- La corrección del Artículo 117 al Código Municipal de San Francisco de los Romo es para su aplicación y publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DE “REFORMA, ADICIÓN Y/O MODIFICACIÓN DE DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
