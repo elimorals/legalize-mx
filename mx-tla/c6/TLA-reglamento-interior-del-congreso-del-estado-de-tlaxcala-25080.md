@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2020-12-07"
+last_updated: "2021-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -131,9 +131,11 @@ A continuación, el presidente de la Mesa Directiva rendirá la protesta de ley 
 
 Antes de concluir la sesión de instalación el presidente de la Mesa Directiva nombrará las dos comisiones que comuniquen al titular del Poder Ejecutivo y al Poder Judicial, a través del Presidente del Tribunal Superior de Justicia del Estado de Tlaxcala, la instalación de la Legislatura; el presidente dará por concluida la sesión y fijará día y hora para que se verifique la próxima sesión, y citará verbalmente a los diputados que estén presentes y por escrito a los diputados electos que no hubieren asistido.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 10.
 
-Concluida la sesión de instalación, se reunirán los integrantes de la comisión instaladora y de la Mesa Directiva electa, para proceder al acto de entrega y recepción de los recursos humanos, financieros y materiales de la legislatura saliente, para tal efecto los titulares de los órganos técnicos y administrativos del Congreso, presentarán ante dicha comisión los inventarios y la demás documentación necesaria; ésta verificará la existencia física de los bienes inventariados, su estado de conservación y ubicación, levantándose las actas necesarias hasta concluir satisfactoriamente con el procedimiento administrativo señalado en la Ley de la materia.
+Concluida la sesión de instalación, se reunirán los integrantes de la comisión instaladora y de la Mesa Directiva electa, así como el Contralor Interno del Congreso del Estado, para proceder al acto de entrega y recepción de los recursos humanos, financieros y materiales de la legislatura saliente, para tal efecto los titulares de los órganos técnicos y administrativos del Congreso, presentarán ante dicha comisión los inventarios y la demás documentación necesaria; ésta verificará la existencia física de los bienes inventariados, su estado de conservación y ubicación, levantándose las actas necesarias hasta concluir satisfactoriamente con el procedimiento administrativo señalado en la Ley de la materia.
 
 ###### Artículo 11.
 
@@ -1927,6 +1929,332 @@ Una vez obtenido el resultado del diagnóstico, se iniciará el proceso de redis
 
 Para el cumplimiento de esta etapa, las comisiones ordinarias podrán contar con el asesoramiento del Instituto de Estudios Legislativos y la colaboración de instituciones u organismos públicos y privados.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
+
+## Título Sexto. Del Órgano Interno de Control
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
+
+### Capítulo Único. Atribuciones y Organización del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 192.
+
+El Órgano Interno de Control es la instancia de control del Congreso del Estado, tiene las atribuciones que le confieren la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala así como las conferidas en el presente reglamento. Esta instancia estará a cargo de un titular denominado Contralor Interno del Congreso del Estado, que tendrá el nivel de Director y al que le asistirá el personal necesario para el cumplimiento de sus atribuciones.
+
+El Contralor Interno del Congreso del Estado podrá disponer de la asesoría externa especializada, para el mejor cumplimiento de sus facultades, previa autorización del Presidente de la Junta de Coordinación y Concertación Política.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 193.
+
+Para el ejercicio de las atribuciones que le competen a la Contraloría, contará con las siguientes unidades administrativas:
+
+I. Secretaría Técnica;
+
+II. Unidad de Responsabilidades Administrativas, la que contará con las áreas siguientes:
+
+a) Área de Investigación;
+
+b) Área de Sustanciación, e
+
+c) Área Resolutora
+
+III. Unidad de Situación Patrimonial, y
+
+IV. Unidad de Auditoría Interna.
+
+Además se auxiliará de las unidades administrativas, que sean necesarias para el ejercicio de sus atribuciones y que sean autorizadas por la Junta de Coordinación Política, cuyas funciones quedarán establecidas en el Manual de Organización de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 194.
+
+El Contralor Interno asesorará y vigilará que los órganos técnicos y administrativos, así como el personal al servicio del Congreso del Estado, orienten sus acciones y el ejercicio de sus atribuciones para que se establezcan sistemas de control preventivo y de autocontrol, tendientes a mejorar, modernizar y transparentar el ejercicio de sus funciones. Además de las atribuciones que le confiere la Ley Orgánica del Poder Legislativo, el Contralor Interno ejercerá las funciones siguientes:
+
+I. Fijar, dirigir y controlar la política general del Órgano Interno de Control;
+
+II. Representar legalmente a la Contraloría;
+
+III. Suscribir convenios y acuerdos con dependencias, órganos o entidades del Gobierno Federal, Estatal, informando sobre dicha circunstancia a la Junta de Coordinación y Concertación Política;
+
+IV. Coordinar las actividades del Órgano Interno de Control y presentar el programa anual correspondiente;
+
+V. Aprobar el anteproyecto del presupuesto anual de egresos del Órgano Interno de Control y enviarlo a la Junta de Coordinación y Concertación Política, para su inclusión en el anteproyecto de egresos del Congreso del Estado;
+
+VI. Establecer y emitir los criterios y procedimientos para la recepción y tramitación de quejas y denuncias, que sean competencia del Órgano Interno de Control;
+
+VII. Proponer a los servidores públicos del Órgano Interno de Control, y gestionar la expedición de su nombramiento respectivo, así como las remociones que sean necesarias para el buen funcionamiento de esta instancia;
+
+VIII. Informar al Presidente de la Junta de Coordinación y Concertación Política sobre los resultados de las acciones de control y evaluación de las dependencias del Poder Legislativo, así como de los avances cualitativos y cuantitativos de las actividades del Órgano Interno de Control;
+
+IX. Presentar su informe anual de actividades a la Junta de Coordinación y Concertación Política;
+
+X. Substanciar y resolver los recursos que se interpongan en contra de las resoluciones derivadas de los procedimientos instaurados de conformidad con la Ley General de Responsabilidades Administrativas;
+
+XI. Determinar la realización de supervisiones, revisiones, auditorías y evaluaciones administrativas, financieras, operacionales, contables, técnicas y jurídicas a las dependencias del Congreso del Estado;
+
+XII. Establecer criterios y mecanismos para el desarrollo de los procesos de entrega-recepción de las dependencias y unidades administrativas del Congreso del Estado;
+
+XIII. Vigilar que periódicamente, se realice y actualice el inventario de bienes muebles e inmuebles del Congreso del Estado y establecer medidas y criterios para su control;
+
+XIV. Proponer acciones de carácter preventivo, para el cumplimiento de las funciones de los servidores públicos del Congreso del Estado;
+
+XV. Expedir copias cotejadas o simples de los documentos o expedientes relativos a los asuntos de su competencia;
+
+XVI. Llevar un registro de servidores públicos sancionados del Congreso del Estado;
+
+XVII. Expedir los acuerdos, circulares y demás disposiciones jurídicas de su competencia que sean necesarias para el buen despacho del Órgano Interno de Control;
+
+XVIII. Elaborar los Manuales Administrativos del Órgano Interno de Control;
+
+XIX. Cumplir con las obligaciones de transparencia y con los lineamientos establecidos en materia de clasificación de la información, y
+
+XX. Las demás que se señalen en el presente Reglamento o le encomiende la Junta de Coordinación y Concertación Política.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 195.
+
+Al Contralor Interno del Poder Legislativo le auxiliará el personal que integre la Unidad de Responsabilidades Administrativas, la que se integrará de un área de investigación y otra de sustanciación y resolución; la Unidad de Situación Patrimonial, la Unidad de Auditoría Interna y una Secretaría Técnica. A los responsables de dichas unidades administrativas, les corresponde el ejercicio de las atribuciones siguientes:
+
+I. Planear, programar, organizar, controlar, dirigir y evaluar el desempeño de las funciones encomendadas a las unidades administrativas a su cargo;
+
+II. Acordar con el Contralor Interno, los asuntos cuya tramitación corresponda al área a su cargo;
+
+III. Formular los informes, estudios, opiniones o dictámenes que les sean solicitados por el Contralor Interno;
+
+IV. Formular y proponer al Contralor Interno el proyecto del programa operativo anual de actividades y gestionar los recursos necesarios para el eficaz desarrollo de sus funciones;
+
+V. Implementar de manera permanente, previo acuerdo con el Contralor Interno, programas preventivos para evitar posibles irregularidades administrativas tratándose de servidores públicos del Congreso del Estado;
+
+VI. Proponer al Contralor Interno las modificaciones administrativas que tiendan a lograr el mejor funcionamiento del área a su cargo;
+
+VII. Coordinar sus actividades con las demás unidades administrativas del Órgano Interno de Control para el mejor desempeño de sus funciones;
+
+VIII. Ejecutar el programa operativo anual de actividades de la Unidad a su cargo aprobado por el Contralor Interno;
+
+IX. Llevar el control y gestión de la correspondencia de los asuntos a su cargo, y
+
+X. Las demás que les señale el Contralor Interno y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 196.
+
+La Unidad de Responsabilidades Administrativas, ejercerá las siguientes atribuciones:
+
+I. Integrar, coordinar y evaluar el sistema de quejas y denuncias, que facilite la participación de la ciudadanía con relación al desempeño de los servidores públicos del Congreso del Estado;
+
+II. Investigar los actos u omisiones que sean denunciados ante el Órgano Interno de Control, a efecto de elaborar el informe de presunta responsabilidad administrativa grave o no grave, cometida por algún servidor público del Congreso del Estado;
+
+III. En caso de faltas administrativas no graves, deberá instaurar de oficio o a petición de parte, el procedimiento de responsabilidad administrativa, desde la admisión del informe de presunta responsabilidad administrativa hasta la conclusión de la audiencia inicial a que se refiere la Ley General de Responsabilidades Administrativas. Para ello deberá observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos;
+
+IV. Por conducto del servidor público asignado, dictar la resolución que recaiga al procedimiento de responsabilidad administrativa;
+
+V. Verificar que se hagan efectivas las sanciones administrativas impuestas a los servidores públicos del Congreso del Estado;
+
+VI. Organizar y supervisar el registro de servidores públicos sancionados;
+
+VII. Formular y dar seguimiento a las denuncias que procedan ante el Ministerio Público, derivadas de los procedimientos administrativos, que instaure;
+
+VIII. Recibir y tramitar, previa revisión del Contralor Interno, en términos de las disposiciones aplicables, las inconformidades que se formulen con motivo de las adquisiciones o contratación de obra pública, que realice el Congreso del Estado;
+
+IX. Evaluar anualmente el resultado de las acciones específicas que hayan implementado en materia preventiva y proponer, en su caso, las modificaciones que resulten procedentes;
+
+X. Sustanciar, hasta ponerlos en estado de resolución, los medios de impugnación que interpongan los servidores públicos en contra de las resoluciones emitidas, y
+
+XI. Las demás que le encomiende el Contralor Interno.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 197.
+
+La Unidad de Responsabilidades Administrativas, durante los procedimientos de responsabilidad administrativa que sustancie, deberá observar lo siguiente:
+
+I. Las autoridades investigadoras establecerán áreas de fácil acceso, para que cualquier interesado pueda presentar denuncias por presuntas Faltas administrativas. Las denuncias que se presenten podrán ser anónimas, por lo que la autoridad investigadora mantendrá con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones;
+
+II. La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos. En la investigación que lleve a cabo el Órgano Interno de Control, se deberán observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos, siendo responsabilidad de la Unidad de Responsabilidad Administrativa regir sus actuaciones con la oportunidad, exhaustividad y eficiencia en la investigación, la integralidad de los datos y documentos, así como el resguardo del expediente en su conjunto;
+
+III. La denuncia podrá presentarse por escrito o de manera electrónica a través de los mecanismos que para tal efecto establezca el Órgano Interno de Control, debiendo contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa;
+
+IV. Toda persona señalada como responsable de una falta administrativa tiene derecho a que se presuma su inocencia hasta que no se demuestre, más allá de toda duda razonable, su culpabilidad. La autoridad investigadora tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de tales faltas, así como la responsabilidad de aquellos a quienes se imputen las mismas. Quienes sean señalados como presuntos responsables de una falta administrativa no estarán obligados a confesar su responsabilidad, ni a declarar en su contra, por lo que su silencio no deberá ser considerado como prueba o indicio de su responsabilidad en la comisión de los hechos que se le imputan;
+
+V. Las autoridades investigadoras tendrán acceso a la información necesaria para el esclarecimiento de los hechos, con inclusión de aquélla que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones denunciadas, con la obligación de mantener la misma reserva o secrecía, conforme a lo que determinen las leyes;
+
+VI. Las autoridades encargadas de la investigación, podrán ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la normatividad estatal en materia de Procedimiento Administrativo;
+
+VII. La Autoridad investigadora otorgará un plazo de cinco hasta quince días hábiles para la atención de sus requerimientos, sin perjuicio de poder ampliarlo por causas debidamente justificadas, cuando así lo soliciten los interesados. Esta ampliación no podrá exceder en ningún caso la mitad del plazo previsto originalmente;
+
+VIII. Los órganos técnicos y administrativos, así como las comisiones y comités del congreso del Estado, a los que se les formule requerimiento de información, tendrán la obligación de proporcionarla en el mismo plazo a que se refiere la fracción anterior, contando a partir de que la notificación surta sus efectos. Cuando derivado de la complejidad de la información solicitada, se requiera de un plazo mayor para su atención, se solicitará prórroga debidamente justificada ante la Autoridad investigadora;
+
+IX. Durante la investigación la autoridad investigadora podrá solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas. Para hacer cumplir sus determinaciones la autoridad investigadora podrá hacer uso de las medidas de apremio a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+X. Concluidas las diligencias de investigación, la autoridad investigadora procederá al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y, en su caso, calificarla como grave o no grave. Una vez calificada la conducta se incluirá la misma en el Informe de Presunta Responsabilidad Administrativa y este se presentará ante la autoridad substanciadora a efecto de iniciar el procedimiento de responsabilidad administrativa;
+
+XI. Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar, debiendo notificarse dicha determinación al o los servidores públicos sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión;
+
+XII. La autoridad substanciadora, o en su caso, la resolutora se abstendrá de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas a un servidor público, según sea el caso, cuando de las investigaciones practicadas o derivado de la valoración de las pruebas aportadas en el procedimiento se advierta que no existe daño ni perjuicio al patrimonio del Congreso del Estado o que se actualiza alguna de las hipótesis contenidas en el artículo 101 de la Ley General de Responsabilidades Administrativas;
+
+XIII. La calificación de los hechos como faltas administrativas no grave y la abstención a que se refiere la fracción anterior, podrán ser impugnadas, en su caso, por el Denunciante, mediante el recurso de inconformidad teniendo para ello un plazo de cinco días hábiles, contados a partir de la notificación de la resolución impugnada y siguiéndose las formalidades previstas en la Ley General de Responsabilidades Administrativas;
+
+XIV. El procedimiento de responsabilidad administrativa dará inicio cuando la autoridad substanciadora, en el ámbito de su competencia, admita el Informe de Presunta Responsabilidad Administrativa. En caso de que con posterioridad a la admisión del informe la autoridad investigadora advierta la probable comisión de cualquier otra falta administrativa imputable a la misma persona señalada como presunto responsable, deberán elaborar un diverso Informe de Presunta Responsabilidad Administrativa y promover el respectivo procedimiento de responsabilidad administrativa por separado, sin perjuicio de que, en el momento procesal oportuno, puedan solicitar su acumulación;
+
+XV. La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de aquella encargada de la investigación;
+
+XVI. En lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad administrativa, será de aplicación supletoria lo dispuesto en la Ley Estatal en materia de Procedimiento Administrativo;
+
+XVII. En los procedimientos de responsabilidad administrativa podrán hacer uso de los medios de apremio y medidas cautelares previstas en la Ley General de Responsabilidades Administrativas;
+
+XVIII. Para conocer la verdad de los hechos la autoridad resolutora podrá valerse de cualquier persona o documento, ya sea que pertenezca a las partes o a terceros, sin más limitación que la de que las pruebas hayan sido obtenidas lícitamente, y con pleno respeto a los derechos humanos, solo estará excluida la confesional a cargo de las partes por absolución de posiciones. Las pruebas serán valoradas atendiendo a las reglas de la lógica, la sana crítica y de la experiencia;
+
+XIX. La autoridad resolutora del asunto podrán ordenar la realización de diligencias para mejor proveer, sin que por ello se entienda abierta de nuevo la investigación, disponiendo la práctica o ampliación de cualquier diligencia probatoria, siempre que resulte pertinente para el conocimiento de los hechos relacionados con la existencia de la Falta administrativa y la responsabilidad de quien la hubiera cometido. Con las pruebas que se alleguen al procedimiento derivadas de diligencias para mejor proveer se dará vista a las partes por el término de tres días para que manifiesten lo que a su derecho convenga, pudiendo ser objetadas en cuanto a su alcance y valor probatorio en la vía incidental;
+
+XX. Respecto de los informes de presunta responsabilidad administrativa, notificaciones, incidentes, acumulación, probanzas ofrecidas, objeción de éstas y su desahogo se observarán los términos y formalidades que la Ley General de Responsabilidades Administrativas señala para el desahogo de procedimientos de responsabilidad administrativa;
+
+XXI. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Autoridad substanciadora declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
+
+XXII. Una vez trascurrido el periodo de alegatos, la autoridad resolutora del asunto, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello;
+
+XXIII. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular del órgano técnico o administrativo, del comité o comisión que corresponda, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles;
+
+XXIV. Los Servidores Públicos que resulten responsables por la comisión de Faltas administrativas no graves, podrán interponer ante la autoridad que emitió la resolución el recurso de revocación dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva, siguiendo para ello las formalidades y términos previstos en la Ley General de Responsabilidades Administrativas. Las resoluciones que se dicten en el recurso de revocación serán impugnables ante el Tribunal de Justicia Administrativa, y
+
+XXV. La ejecución de las sanciones por Faltas administrativas no graves se llevará a cabo de inmediato, una vez que sean impuestas por el Órgano Interno de Control, y conforme se disponga en la resolución respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 198.
+
+La Unidad de Situación Patrimonial, ejercerá las siguientes atribuciones:
+
+I. Promover ante la Unidad de Responsabilidad Administrativa, la instauración del procedimiento administrativo por omisión o extemporaneidad en la presentación de la manifestación de bienes de los servidores públicos del Congreso del Estado, que no sean de elección popular, así como por las irregularidades derivadas de la evolución patrimonial de los mismos;
+
+II. Organizar y supervisar el registro de servidores públicos sancionados;
+
+III. Coordinar, supervisar y evaluar el cumplimiento de las disposiciones en materia de manifestación y registro patrimonial de los servidores públicos del Congreso del Estado, dictando las medidas que tiendan a mantener actualizada la información que permita dar seguimiento a su evolución patrimonial;
+
+IV. Proponer al Contralor Interno el diseño y contenido de los formatos, bajo los cuales, los servidores públicos del Congreso del Estado, deberán presentar su declaración patrimonial, fiscal y de intereses, así como expedir los instructivos de llenado correspondientes;
+
+V. Elaborar y someter a consideración del Contralor Interno, los criterios bajo los cuales se realizará el proceso de entrega-recepción del Poder Legislativo;
+
+VI. Coordinar y vigilar la aplicación del procedimiento de entrega-recepción de la Presidencia de la Junta de Coordinación Política, Diputados, así como de los órganos técnicos y administrativos del Congreso del Estado, a efecto de que se cumpla con la normatividad establecida;
+
+VII. Vigilar que se realice y actualice periódicamente con carácter preventivo el inventario de bienes muebles e inmuebles, patrimonio del Congreso del Estado;
+
+VIII. Instrumentar mecanismos administrativos y de sistematización para la capacitación, asesoría, recepción, registro y resguardo de las declaraciones patrimonial, fiscal y de intereses de los servidores públicos del Congreso del Estado;
+
+IX. Instrumentar mecanismos y acciones tendientes a prevenir la omisión o extemporaneidad en la presentación de la manifestación de bienes por alta, baja o anualidad de los servidores públicos del Congreso del Estado;
+
+X. Diseñar y operar eficazmente el sistema de registro, control y resguardo de expedientes de procedimientos administrativos instaurados a servidores públicos del Congreso del Estado;
+
+XI. Verificar que durante el desahogo del procedimiento administrativo que se haya instaurado, el servidor público omiso regularice su situación ante la autoridad correspondiente;
+
+XII. Registrar y resguardar los expedientes de entrega-recepción del Congreso del Estado;
+
+XIII. Supervisar la situación jurídica, custodia y buen uso, que guardan los bienes inmuebles del Congreso del Estado y verificar la integración legal de sus expedientes respectivos;
+
+XIV. Realizar los inventarios correspondientes respecto de los bienes muebles en resguardo de los Diputados al término de su periodo constitucional o de la separación de su cargo, y
+
+XV. Las demás que le encomiende el Contralor Interno.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 199.
+
+La Unidad de Auditoría Interna, ejercerá las siguientes atribuciones:
+
+I. Auxiliar al Contralor Interno en las tareas de vigilancia, evaluación y supervisión de la correcta aplicación de los recursos financieros, materiales y humanos con que cuenten los órganos técnicos y administrativos, así como las comisiones y comités del Congreso del Estado, con apego a la normatividad establecida;
+
+II. Proponer y opinar sobre normas, políticas y procedimientos de control, evaluación y auditoria que coadyuven a optimizar la función de las dependencias del Congreso del Estado;
+
+III. Llevar el control y seguimiento de los expedientes iniciados con motivo de las atribuciones que le otorga el presente Reglamento u otras disposiciones legales;
+
+IV. Comprobar que la realización de las auditorias se apeguen a las normas, procedimientos y técnicas de auditoria, así como a los objetivos y programas establecidos;
+
+V. Hacer del conocimiento del Contralor Interno los resultados de las acciones de vigilancia, así como turnar los expedientes respectivos en los casos que se presuma una irregularidad, para el desahogo del procedimiento administrativo correspondiente por parte de la Unidad de Responsabilidades Administrativas;
+
+VI. Coordinar la participación del Órgano Interno de Control en los procesos de adquisiciones, arrendamientos y enajenaciones de bienes y servicios y contratación de obra, constatando el cumplimiento de la normatividad establecida para tal efecto;
+
+VII. Sugerir mecanismos para lograr la eficacia en la vigilancia y control del gasto, así como promover programas de austeridad y contención del gasto;
+
+VIII. Supervisar la instrumentación de medidas preventivas y correctivas derivadas de las auditorias y revisiones realizadas por el Órgano Interno de Control;
+
+IX. Desarrollar las auditorias conforme a los programas, objetivos y técnicas prevalecientes; emitir los informes respectivos con las observaciones y recomendaciones que procedan y hacer del conocimiento del Contralor Interno, las irregularidades detectadas en el desempeño de sus atribuciones;
+
+X. Auxiliar al Contralor Interno en la planeación y ejecución de las auditorias financieras, administrativas y presupuestales elaborando los informes respectivos, así como en la supervisión y fiscalización del correcto manejo del presupuesto de egresos del Congreso del Estado;
+
+XI. Practicar arqueos a los fondos fijos que integran la cuenta de caja en los estados financieros del Congreso del Estado;
+
+XII. Revisar que las normas de contabilidad del Congreso del Estado, cumplan con los principios de contabilidad gubernamental aplicables, y que los registros contables incluyan todas las operaciones correspondientes al ejercicio presupuestal para el que fueron autorizados;
+
+XIII. Sugerir las medidas de control interno que salvaguarden los activos del Congreso del Estado y aseguren el ejercicio del presupuesto autorizado en forma óptima y transparente con apego a la normatividad;
+
+XIV. Vigilar que los órganos técnicos y administrativos del Congreso del Estado cumplan con la correcta aplicación de las normas, políticas y disposiciones legales en el manejo y control de los recursos humanos y materiales;
+
+XV. Planear, organizar y ejecutar el programa anual de auditorías administrativas, formulando las observaciones y recomendaciones tendientes a mejorar el desarrollo y control de las actividades administrativas y operativas;
+
+XVI. Verificar que existan medidas e instrumentos de modernización administrativas tendientes a lograr la eficacia en la vigilancia, supervisión y control del gasto del Congreso del Estado;
+
+XVII. Llevar el seguimiento de las diversas acciones de control, vigilancia y supervisión, desarrolladas por el Órgano Interno de Control, y
+
+XVIII. Las demás que le encomiende este Reglamento.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 200.
+
+Al Contralor Interno lo auxiliará un Secretario Técnico, quien tendrá las atribuciones siguientes:
+
+I. Acordar con el Contralor los asuntos de su competencia;
+
+II. Auxiliar al Contralor Interno mediante el registro, ejecución y seguimiento de los acuerdos;
+
+III. Revisar los asuntos del Contralor Interno y de las unidades administrativas que le presenten para su tramitación y cumplimiento;
+
+IV. Desempeñar las diferentes comisiones que le asigne el Contralor Interno;
+
+V. Integrar el programa operativo anual del Órgano Interno de Control en coordinación con las demás unidades administrativas y proceder a su seguimiento;
+
+VI. Coordinar e integrar el informe anual de actividades;
+
+VII. Preparar los informes sobre el avance de los programas y objetivos para autorización de su titular;
+
+VIII. Atender las audiencias del Contralor interno, en su ausencia, turnando a las unidades administrativas los asuntos de su competencia;
+
+IX. Supervisar las acciones relativas al registro, mantenimiento y conservación de los inmuebles asignados al Órgano Interno de Control y sus unidades administrativas;
+
+X. Efectuar los movimientos de altas, bajas y cambios de mobiliario;
+
+XI. Gestionar y coordinar los servicios generales de logística y de apoyo en actos y eventos del Órgano Interno de Control;
+
+XII. Administrar el fondo revolvente para atención a viáticos del personal del Órgano Interno de Control, y
+
+XIII. Las demás que le encomiende este Reglamento.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+###### Artículo 201.
+
+Ante el supuesto de que el Contralor Interno cometa alguna causa grave de las previstas en el párrafo segundo del artículo 126 de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, la Junta de Coordinación y Concertación Política, procederá a realizar el procedimiento siguiente:
+
+I. Dentro de los cinco días posteriores a que tenga conocimiento de la denuncia que señale el supuesto acto infractor cometido por el Contralor Interno, la Junta de Coordinación y Concertación Política en conjunto con la Presidencia de la Mesa Directiva o la Comisión Permanente, propondrá al pleno la integración de una Comisión Especial que se encargue de sustanciar el procedimiento sancionador;
+
+II. La comisión especial nombrada para tal efecto, deberá celebrar sesión de instalación dentro de los cinco días posteriores a su creación, en la que declarará la radicación del expediente de responsabilidad administrativa correspondiente, notificando sobre esta circunstancia al Contralor Interno, corriéndole traslado con las actuaciones que integren el expediente correspondiente y concediéndole el término de cinco días para que presente las pruebas que a su derecho convengan;
+
+III. Una vez recibidas las alegaciones y las pruebas ofrecidas por el contralor interno, procederá a señalar fecha para efecto de que tenga verificativo la audiencia en la que se desahoguen las pruebas que por su naturaleza así lo ameriten. Para tal efecto se podrán recibir todos aquellos medios de probanza que señala la legislación adjetiva civil estatal siempre que estén apegadas a derecho siempre que el periodo para su desahogo no exceda de treinta días;
+
+IV. Desahogadas las pruebas ofrecidas por la parte denunciante y por el Contralor Interno, la Comisión Especial procederá a señalar fecha para la celebración de audiencia de alegatos. Una vez celebrada dicha audiencia y recibidas las alegaciones de las partes, ordenará traer los autos a la vista para efecto de que emita la resolución que en derecho proceda;
+
+V. La resolución que emita la Comisión Especial, deberá presentarse ante la Junta de Coordinación dentro de los diez días posteriores al desahogo de la audiencia de alegatos;
+
+VI. Recibida por la Junta de Coordinación y Concertación Política, la resolución emitida por la Comisión Especial, se procederá a acordar fecha para la celebración de la sesión del Pleno en que se dé a conocer la resolución emitida;
+
+VII. El Congreso del Estado celebrará sesión privada en la que resuelva sobre la procedencia de la remoción del contralor interno. Para la remoción del Contralor Interno, se requiere del voto en mayoría calificada de las y los diputados integrantes del Pleno del Congreso del Estado, siempre que se acreditare por parte del contralor interno la comisión de algún acto que implique una transgresión a los principios de legalidad, imparcialidad, objetividad y honestidad en el ejercicio de sus funciones. La remoción también procederá cuando se advierta la comisión de irregularidades en el desempeño de este servidor público que, aun no siendo graves, sean continuas y quebranten los mismos principios señalados en esta fracción, y
+
+VIII. En caso de no alcanzarse la votación requerida en la fracción anterior, se declarará no procedente la denuncia que dio origen al procedimiento de remoción y se ordenará el archivo del expediente de mérito.
+
 T R A N S I T O R I O S
 
 PRIMERO. Este Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
@@ -2118,3 +2446,15 @@ P.O. 7 DE DICIEMBRE DE 2020.
 PRIMERO. Con fundamento en el artículo 53 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, el presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado de Tlaxcala.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 358.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
