@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-la-comision-estatal-para-el-desarrollo-139
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-11-25"
-last_updated: "2020-11-20"
+last_updated: "2021-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DE LA COMISION ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDIGENAS DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS AL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDÍGENAS PUBLICADO EN EL P.O. 20 DE NOVIEMBRE DE 2020, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDÍGENAS, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021 (ABROGADO).
 
 Estatuto publicado en el Alcance Uno del Núm. 47 del Periódico Oficial del Estado de Hidalgo, el lunes 25 de noviembre de 2019.
 
@@ -596,3 +596,17 @@ SEGUNDO.- A partir de la entrada en vigor de este Acuerdo, la Comisión Estatal 
 TERCERO.- En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las Direcciones del Organismo, se continuarán aplicando los vigentes al momento de entrar en vigor el presente Acuerdo.
 
 CUARTO.- El presente Acuerdo deberá inscribirse en el Registro Público en términos de los que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA EL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA ELDESARROLLO (SIC) SOSTENIBLE DE LOS PUEBLOS INDÍGENAS”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en elPeriódico (sic) Oficial del Estado.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Comisión Estatal, publicado el día 20 de noviembre del 2020 en el Periódico Oficial del Estado de Hidalgo, derogándose cualquier otra disposición que se oponga a lo previsto por el presente Estatuto Orgánico.
+
+TERCERO.- A partir de la entrada en vigor de este Acuerdo, la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas, deberá emitir sus manuales de organizacióny (sic) procedimientos.
+
+CUARTO.- En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las Direcciones del Organismo, se continuarán aplicando los vigentes al momento de entrar en vigor el presente Acuerdo.
+
+QUINTO.- El presente Acuerdo deberá inscribirse en el Registro Público en términos de losque (sic) establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
