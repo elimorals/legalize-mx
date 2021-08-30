@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-07-12"
+last_updated: "2021-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -5069,191 +5069,61 @@ Reglas Generales
 
 ###### ARTÍCULO 292.
 
-En el Municipio de Aguascalientes la Justicia Municipal consiste en la valoración de las conductas presumiblemente constitutivas de faltas administrativas, tanto de Policía como de Vialidad, con el fin de determinar la sanción o medida de seguridad que en su caso corresponda y vigilar su cumplimiento.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 293.
 
-La Dirección de Justicia Municipal dependerá de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y será facultad exclusiva del Director de Justicia Municipal por sí o a través de los Jueces Municipales lo establecido en el artículo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 294.
 
-El sistema de Justicia Municipal funcionará las 24 horas de los 365 días del año. Cada Juzgado actuará por turnos que estarán integrados por:
-
-I. El Juez Municipal.
-
-II. Un receptor de detenidos.
-
-III. Un encargado del depósito de pertenencias y cajero.
-
-IV. Un médico de guardia.
-
-V. Un responsable del área de trabajo social.
-
-VI. Oficiales custodios.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Se buscará una integración con igual número de mujeres que de hombres.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 295.
 
-Para ser titular de la Dirección de Justicia Municipal, se requiere:
-
-I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de cinco años.
-
-II. Contar con el título de Licenciado en Derecho, con una antigüedad mínima de dos años y contar con cédula profesional para el ejercicio de la profesión.
-
-III. No haber sido sentenciado por la comisión de delito doloso alguno.
-
-IV. Contar con experiencia comprobable en la materia de administración de justicia municipal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 296.
 
-Son atribuciones de la persona titular de la Dirección de Justicia Municipal:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Proveer en el ámbito de su competencia lo necesario para la debida impartición de la Justicia Municipal.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-II. Examinar y proponer al Secretario del H. Ayuntamiento y Director General de Gobierno, el personal a integrar la Dirección de Justicia Municipal, así como los programas permanentes de capacitación, que invariablemente deberán contener los temas de acceso a la justicia y juzgar con perspectiva de género, así como de violencia contra las mujeres.
-
-III. Determinar discrecionalmente y de acuerdo a las necesidades del servicio, los horarios y turnos del personal que integra la Dirección de Justicia Municipal.
-
-IV. Ejercer por sí o por conducto del Juez en turno el mando de los oficiales custodios.
-
-V. Informar al Secretario del H. Ayuntamiento y Director General de Gobierno, sobre los asuntos relevantes que se susciten en la Dirección.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VI. Elaborar planes y programas necesarios para la debida impartición de la Justicia Municipal, incluyendo la perspectiva de género.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-VII. Expedir constancias de no antecedentes policiales.
-
-VIII. Vigilar el buen funcionamiento administrativo y operativo de la Dirección.
-
-IX. Determinar la habilitación de Juzgados Municipales, con la autorización del Secretario del H. Ayuntamiento y Director General de Gobierno, en los lugares donde sea necesario de acuerdo a las necesidades del servicio, o bien interrumpir el funcionamiento de estos, cuando la prestación del servicio se vuelva inoperante.
-
-X. Nombrar al oficial custodio encargado de la guardia, así como nombrar a los oficiales custodios encargados de la guardia por turnos. Las guardias podrán ser rotativas.
-
-XI. Las demás que disponga éste Código y las leyes respectivas.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SEGUNDO
 
 De los Jueces Municipales de Seguridad Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
-
 ###### ARTÍCULO 297.
 
-Para ser Juez(a) Municipal se requiere:
-
-I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de tres años.
-
-II. Contar con título de Licenciado en Derecho y cédula profesional para el ejercicio de la profesión.
-
-III. Aprobar el examen de conocimientos que aplique el Director de Justicia Municipal. Dicho examen deberá ser aprobado en su formato y contenido por el Secretario del H. Ayuntamiento y Director General de Gobierno.
-
-IV. No haber sido sentenciado por delito doloso alguno.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-V. Contar con conocimientos en materia de nuevas masculinidades y perspectiva de género.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 298.
 
-Son atribuciones de Jueces y juezas Municipales:
-
-I. Recibir, a través del receptor de detenidos, las personas que sean puestas a su disposición.
-
-II. Analizar y valorar los hechos imputados al detenido, así como los objetos y pruebas con los que se cuente.
-
-III. Determinar, en su caso, si los hechos que se le presentan son constitutivos de una falta administrativa o se presume algún delito.
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
-
-IV. En su caso, determinar e imponer al infractor el arresto, la multa o medida de seguridad previstas en el presente Código y vigilar su cumplimiento.
-
-V. En caso de que se presuma que los hechos de que tiene conocimiento sean constitutivos de algún delito, el Juez Municipal suspenderá inmediatamente su intervención y pondrá al detenido y los objetos afectos, a disposición de la autoridad competente.
-
-VI. Llevar el control administrativo del turno que se le asigne en el Juzgado.
-
-VII. Llevar un registro de las personas que le fueron puestas a disposición y la determinación tomada.
-
-VIII. Expedir cuando proceda las boletas de egreso correspondientes.
-
-IX. Rendir al Director de Justicia Municipal informe de hechos relevantes durante su turno.
-
-X. No abandonar su área de trabajo, aún habiendo concluido su turno, hasta que sea relevado por el Juez Municipal entrante.
-
-XI. Aplicar las medidas necesarias para la tutela y protección de los menores puestos a disposición.
-
-XII. Llevar el control de la correspondencia y registro de todos los oficios en que intervenga con motivo del ejercicio de sus funciones.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XIII. Dictar las medidas y lineamientos necesarios al personal de la Secretaría de Seguridad Pública para el buen funcionamiento del Juzgado.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XIV. Están facultados para aplicar las sanciones establecidas en el artículo 157 de la Ley de Vialidad del Estado de Aguascalientes, así como para llevar a cabo los procedimientos establecidos en el Capítulo Décimo Noveno del Reglamento de Tránsito del Municipio de Aguascalientes y aplicar sus respectivas sanciones. Lo anterior, independientemente de si el Juez Municipal esté adscrito o no a Tránsito y Movilidad.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-XV. Para imponer, como sanción administrativa, el servicio comunitario, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 179 y 179 BIS de la Ley Municipal para el Estado de Aguascalientes y el Reglamento que para tal efecto expida el H. Ayuntamiento.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-XVI. Las demás que se desprendan del presente Código y demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Tratándose de casos donde se presuma la existencia de algún tipo de violencia de género, independientemente del asunto de que se trate, queda prohibido efectuar procedimientos de conciliación, negociación o mediación.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 299.
 
-Lasy (sic) los Jueces Municipales, dentro de su turno serán la máxima autoridad tanto del Juzgado respectivo como del Centro de Detención adjunto y cuidarán estrictamente que se respeten los derechos humanos de los y las infractores(as) y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal del Juzgado, incluyendo actos de discriminación basada en edad, discapacidades, origen étnico, clase, condiciones de salud, religión; opiniones, sexo, orientación sexual, identidad sexo-génerica, estado civil o cualquier otra que tenga por objeto o por resultado, menoscabar o anular el reconocimiento, goce o ejercicio, independientemente de su estado civil, sobre la base de los Derechos Humanos y las libertades fundamentales en las esferas políticas, económicas, social, cultural, civil o en cualquier otra esfera.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 300.
 
-Los Jueces Municipales podrán emitir órdenes para que sean practicadas visitas domiciliarias únicamente para cerciorarse del cumplimiento de disposiciones de policía en términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley del Procedimiento Administrativo para el Estado de Aguascalientes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 301.
 
-El Juez Municipal al hacer su cambio de turno, deberá entregar documental y físicamente, al Juez Municipal entrante, los detenidos que se encuentren bajo su responsabilidad, indicando las causas y condiciones de su detención y permanencia.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO TERCERO
 
 Del Receptor de Presuntos Infractores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
 ###### ARTÍCULO 302.
 
-La persona que reciba a presuntos infractores, deberá respetar en todo momento los derechos humanos del presunto infractor, tener grado de Licenciatura en Derecho, estará bajo la supervisión del juez municipal y tendrá, en orden progresivo, las siguientes obligaciones:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. La recepción de los detenidos que sean puestos a su disposición.
-
-II. Recabar los datos de identificación de los presuntos infractores, la información de los hechos que motivaron su detención, los datos del denunciante o agraviado en caso de existir, así como cualquier otra circunstancia que revista interés para el caso.
-
-III. Remitir al infractor, al depósito de pertenencias a fin de que resguarden sus objetos personales.
-
-IV. Solicitar y recabar de servicios médicos el examen psicofísico de los presuntos infractores puestos a disposición del Juez Municipal.
-
-V. Entregar la documentación necesaria al Juez Municipal en turno, a efecto de que imponga las sanciones correspondientes a los infractores.
-
-VI. Llevar el control administrativo de su área.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO CUARTO
 
@@ -5261,233 +5131,87 @@ Del Encargado del Depósito de Pertenencia de los Infractores
 
 ###### ARTÍCULO 303.
 
-El encargado del depósito de pertenencias, será parte de la Secretaría de Finanzas Públicas y se encargará tanto de recibir las pertenencias de los presuntos infractores como de recibir el pago de las multas dentro de las instalaciones de los Juzgados Municipales.
-
-Para efectos de su función como encargado del depósito de pertenencias, estará bajo el mando del Director de Justicia Municipal o del Juez Municipal en turno. Dicho Director podrá solicitar a la Secretaría de Finanzas Públicas el cambio del personal que considere pertinente adscrito a la Secretaría a su cargo.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 304.
 
-El encargado del depósito de pertenencias tendrá bajo su más estricta responsabilidad recibir, custodiar y devolver cuando proceda, todos los objetos, valores, dinero y documentos que depositen los infractores, previo recibo de inventario que se le expida.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 305.
 
-Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto motivo de la comisión de algún ilícito o cualquier objeto utilizado para delinquir, se pondrán inmediatamente a disposición del Juez Municipal para que proceda a su remisión, mediante oficio, a la autoridad competente.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO QUINTO
 
 De los Jueces Municipales adscritos a Tránsito y Movilidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
-
 ###### ARTÍCULO 306.
 
-Es facultad de los Jueces Municipales adscritos a Tránsito y Movilidad, la calificación y reconsideración de las sanciones a que se hagan acreedores los infractores del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes. Además, contarán con las atribuciones establecidas en el artículo 298 del presente Código, para efecto de la aplicación del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes, así como el Reglamento que en materia de servicio comunitario expida el H. Ayuntamiento.
-
-En el caso de la multa, el monto de la misma será establecido por la Secretaría de Finanzas Públicas Municipales y será considerada como crédito fiscal.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 307.
 
-Para ingresar al cuerpo de Jueces Municipales adscritos a Tránsito y Movilidad, se deberán de cumplir los requisitos a que se refiere el artículo 297 del presente Código.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 308.
 
-El Director de Justicia Municipal, acorde a las necesidades de la Dirección de Tránsito y Movilidad, asignará los horarios y turnos que deberán cubrir los Jueces Municipales comisionados a esta dependencia.
-
-Estos funcionarios llevarán el control y funcionamiento administrativo del tumo asignado, debiendo rendir diariamente informe de actividades al Director de Justicia Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 309.
 
-En caso de ser procedente la imposición de la multa, la calificará conforme las disposiciones aplicables y la notificará personalmente.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
-Para calificación, reclasificación y reconsideración de las multas de tránsito, el Juez Municipal de Tránsito y Movilidad, deberá tomar en cuenta lo dispuesto en el artículo 21 Constitucional.
-
-> <small>N. DE E. DEROGADO TERCER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
-
-> <small>N. DE E. DEROGADO CUARTO PÁRRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 310.
 
-Los infractores que no estén de acuerdo con la calificación de alguna boleta de infracción, deberán recurrir ante el Juzgado Municipal comisionado a la Dirección de Tránsito y Movilidad dentro del término establecido en el artículo 144 fracción VI de la Ley de Vialidad para el Estado de Aguascalientes, a solicitar la reconsideración, que tiene como objeto, el confirmar, revocar o modificar la sanción impuesta.
-
-El infractor que solicite la reconsideración deberá presentar en forma personal su licencia de conducir vigente, a efecto de acreditar los extremos de los Artículos 32 y 37 de la ley de Vialidad en el Estado. Sin este requisito el recurso se desechará de plano.
-
-Acto seguido narrará en forma respetuosa una relación breve y concreta de los hechos que originaron la boleta de infracción, y expondrá a modo de alegatos los motivos por los cuales solicita la reconsideración de la calificación.
-
-El Juez Municipal resolverá de inmediato conforme a los hechos y alegatos presentados.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 311.
 
-El infractor que alegue su calidad de obrero, jornalero o asalariado deberá de acreditarlo a satisfacción del Juez, a efecto de proceder en consecuencia.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SEXTO
 
 Del Departamento de Servicios Médicos, Psicología y Trabajo Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
-
 ###### ARTÍCULO 312.
 
-La Dirección de Justicia Municipal contará con personal médico, psicológico y de trabajo social a cargo de un Jefe(a) de Departamento, quien contará con las siguientes atribuciones:
-
-I. Organizar y supervisar las distintas actividades que se realizan en el área a su cargo.
-
-II. Asignar y dictar las instrucciones al personal a su cargo, para el buen funcionamiento de los consultorios médicos y psicológicos, así como el de las áreas de trabajo social.
-
-III. Solicitar los materiales y equipo de trabajo para el departamento a su cargo.
-
-IV. Coordinar, supervisar y proponer planes y programas de trabajo al Director de Justicia Municipal.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VI. Participar en la programación y supervisión de cursos de capacitación, incluyendo en materia de derechos humanos, de violencia e igualdad de género y justicia con perspectiva de género.
-
-VII. Establecer el rol de turnos del personal a su cargo.
-
-VIII. Llevar el control administrativo de las personas que sean atendidas en los consultorios médicos, psicológicos y áreas de trabajo social.
-
-IX. Proveer lo necesario a efecto de que se cuente con médico de guardia en los Juzgados Municipales en todo momento.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-X. Verificar que el personal a su cargo evite prácticas de conciliación, mediación, negociación o atenciones psicológicas de familia o pareja en los casos donde exista violencia de cualquier tipo en contra de las mujeres.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XI. Las demás que se desprendan de éste Código, de los ordenamientos jurídicos vigentes y lasnormas (sic) administrativas que dicte la persona titular de la Dirección de Justicia Municipal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 313.
 
-Serán atribuciones del personal médico de Justicia Municipal:
-
-I. Revisar el estado de salud de quienes son puestos a disposición del Juez Municipal, elaborando a cada uno el certificado médico de integridad psicofísica correspondiente, supervisando su salud, durante el tiempo que estén detenidos.
-
-II. Visitar a los detenidos al inicio de su turno, efectuando una revisión médica a cada uno de ellos y especificar la evolución en el certificado médico respectivo.
-
-III. Informar al Juez Municipal sobre la viabilidad de ingreso del detenido a celdas por motivos de su salud, y sugerir la salida de algún detenido que requiera atención en una institución médica o bien que por su estado de salud no sea adecuada la continuidad de su internamiento.
-
-IV. Al concluir su turno, entregar de manera personal, física y documentalmente los detenidos en celdas, debiendo informar el estado de salud de cada uno a su relevo.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
-
-VI. Elaborar informe por escrito de actividades al final del turno.
-
-VII. Participar en las reuniones de trabajo programadas por sus superiores.
-
-VIII. Efectuar revisión y atención médica a cualquier persona que por urgencia requiera de su atención, de acuerdo con la posibilidad material con que se cuente, y en caso de no ser así, enviar al hospital que corresponda a la persona que se trate.
-
-IX. Impartir cursos de capacitación sobre prevención de enfermedades al público en general, previa orden jerárquica.
-
-X. Asistir a los cursos de capacitación a que sean enviados para su actualización.
-
-XI. Las demás que se desprendan de éste Código, de los ordenamientos jurídicos vigentes y las normas administrativas que dicte el Director de Justicia Municipal.
-
-Los médicos durante su turno serán responsables del buen uso o cuidado del equipo medico, mobiliario, medicinas y material de curación con que cuente la dependencia.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Proporcionar atención libre de cualquier tipo de discriminación, o estereotipos de sumisión de un género hacia otro.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2019)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 314.
 
-Son atribuciones del personal del DIF Municipal:
-
-I. Pasar lista a los detenidos en celdas al inicio de cada turno.
-
-II. Orientar a detenidos, infractores y a la población en general, en la solución de problemas sociales, familiares, vecinales, de adicciones, entre otros.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Tratándose de mujeres que vivan violencia familiar se abstendrán de orientaciones en pareja o familia, así como de conciliación, mediación o negociación.
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE AGOSTO DE 2019)</small>
-
-III. Atender y encauzar a la autoridad competente a las personas extraviadas, en desventaja social, menores de edad y enfermos mentales que sean presentados por los integrantes operativos de la Secretaría de Seguridad Pública o remitidos por el Juez Municipal.
-
-IV. Llevar el registro de actividad diaria.
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
-
-V. Proponer y elaborar planes y programas de atención a personas y familias con problemas sociales, familiares, de adicción, entre otros, respetando en todo caso la autonomía e independencia de las mujeres, sin asignación de consideraciones sobre la responsabilidad de cuidado de la familia de manera exclusiva a éstas.
-
-En el caso de menores de edad, adicionalmente a lo que dispone la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Aguascalientes se aplicará el Protocolo de Intervención Integral a Menores Infractores, previsto en el reglamento aprobado por el H. Ayuntamiento.
-
-VI. Atender casos urgentes de violencia familiar, desamparo, intentos de suicidio, protección y asesoramiento a víctimas de faltas administrativas.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Lo anterior, en coordinación con los lineamientos establecidos por el Instituto Municipal de la Mujer de Aguascalientes, a efecto de que no apliquen estereotipos tradicionales a las mujeres y se favorezca la autonomía e independencia.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VII. Coadyuvar en la conciliación con la jueza o juezMunicipal (sic) cuando así se les requierasalvo (sic) en casos de violencia familiar.
-
-VIII. Elaborar ficha de registro de las personas atendidas, la cual deberá contener según sea el caso:
-
-a).- Copia de la Puesta a disposición del Juez.
-
-b).- Certificado Médico.
-
-c).- Fotografía de la persona.
-
-d).- Datos de identificación de la persona tales como, nombre, edad y fecha de nacimiento, estado civil, sexo, ocupación, nivel de estudios, domicilio y número telefónico si lo hubiere.
-
-e).- Motivo de canalización al área.
-
-f).- Diagnóstico Social.
-
-g).- Plan de Acción.
-
-h).- Nombre de los padres o Tutores tratándose de menores o incapaces, y los datos de la persona a quien se le entrega el canalizado.
-
-i).- Conclusión debiendo entregar al Juez Municipal en turno copia de la ficha de registro.
-
-j).- Recibir para canalizar a la autoridad municipal o estatal, e incluso a instituciones de beneficencia pública o asociaciones civiles, según corresponda, a las personas abandonadas e incapaces de cuidarse así mismos que por su condición y en el lugar en que se encuentren estuvieren expuestas a algún tipo de peligro, debiendo notificar por escrito a la Comisión Estatal de los Derechos Humanos.
-
-IX. Las demás que asigne el Director.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 315.
 
-El personal adscrito al Departamento de Servicios Médicos deberá abstenerse de abandonar su área de trabajo, aún concluido su turno, hasta que sea relevado por el personal entrante, debiéndose considerar su inobservancia como un abandono de lugar de trabajo sin causa justificada.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SÉPTIMO
 
 De los Oficiales Custodios
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
-
 ###### ARTÍCULO 316.
 
-La guardia de los Juzgados Municipales se conformará por los elementos necesarios que cumplan con el perfil requerido, estén capacitados y tengan el trato humano digno que estarán adscritos a la Dirección de Justicia Municipal de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, los cuales laborarán en los diferentes Juzgados Municipales y estarán bajo el mando del Director de Justicia Municipal así como de los Jueces Municipales.
-
-Los oficiales custodios no serán considerados elementos de seguridad pública por lo que para la recisión contractual de los mismos no estarán sujetos a los procesos de Honor y Justicia.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 317.
 
-Los oficiales custodios que laborarán en los Centros Municipales de Detención Preventiva, estarán bajo el mando del Juez Municipal en turno en cada juzgado, y en su caso del Director de Justicia Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 318.
 
-Será responsabilidad de los oficiales custodios la seguridad e integridad de los detenidos, así como el resguardo de los Centros de Detención Municipal, debiendo informar de inmediato de cualquier anomalía al Juez Municipal en turno o en su caso al Director de Justicia Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO OCTAVO
 
@@ -5495,201 +5219,81 @@ Del Proceso ante el Juzgado Municipal
 
 ###### ARTÍCULO 319.
 
-Los detenidos serán atendidos sucesivamente por el receptor de detenidos, según el orden en que fueron llegando.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 320.
 
-Antes de ser puesto a disposición del Juez, el detenido será identificado ante el receptor de detenidos mediante la aportación de nombre, datos personales, señas particulares y domicilio, acreditándose, de existir, con una identificación personal.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 320
 
-BIS.- En caso de que la infracción sea cometida por un menor de dieciséis años, la autoridad administrativa correspondiente pondrá a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes de Estado de Aguascalientes al menor para su resguardo y atención en términos del artículo 84 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Aguascalientes.
-
-En todos los casos se dará aviso a quien ejerza la patria potestad o custodia de los menores infractores en términos del artículo citado en el párrafo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2019)</small>
+BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 320
 
-TER.- Cuando la autoridad administrativa determine la responsabilidad de un menor de edad, emitirá la resolución respectiva imponiendo la sanción aplicable por la falta administrativa.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PARTE FINAL DEL PRIMER PÁRRAFO], P.O. 19 DE AGOSTO DE 2019)</small>
-
-La autoridad administrativa en base a los elementos que arroje la investigación de los hechos atribuibles a un menor, podrá declarar procedente la imposición de una medida correctiva de naturaleza formativa, instructiva o educativa, de conformidad con los programas que para tal efecto apruebe la Dirección de Justicia Municipal independientemente de la sanción aplicable por la falta administrativa.
-
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-En caso de que el menor infractor no cumpla con la medida correctiva mencionada en el párrafo anterior, se procederá a la detención inmediata del menor para la aplicación de la sanción que determine el Juez Municipal en los términos del presente Código.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
+TER.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 320
 
-QUATER.- Cuando el menor de edad sea resguardado por el departamento de psicología y trabajo social adscrito a la Dirección de Justicia Municipal, en ningún caso se internará en ninguna celda con personas mayores de edad.
-
-Para efectos del presente artículo, el Juez Municipal clasificará la custodia preventiva del menor de la siguiente manera:
-
-I.- En el caso de menores de 18 años pero mayores de 16, se internarán en zonas de resguardo en las que en ningún caso podrán estar internados con personas mayores de edad, dando aviso en todos los casos a quienes ejerzan la custodia o la patria potestad del menor.
-
-II.- En el caso de menores de 16 años pero mayores de 12, se pondrán a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes, dando en todos los casos aviso a quienes ejerzan la patria potestad o tutela del menor.
-
-III.- En el caso de menores de 12 años, estos se consideran como niñas o niños, se dará aviso inmediatamente a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, en términos de los artículos 81 y 82 de la Ley de los Derechos de Las Niñas, Niños y Adolescentes del Estado de Aguascalientes, poniéndolos bajo su resguardo.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
+QUATER.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 320
 
-QUINTUS.- Cuando la conducta que sea objeto de una sanción administrativa sea realizada por un menor de edad; será obligación de quienes ejerzan la Patria Potestad o Tutela, asistir a un curso especializado y participar en los programas psicoeducativos previstos en el Protocolo de Atención Integral a Menores Infractores que al efecto implementen las dependencias del Municipio dependiendo la índole de la infracción cometida por el menor.
-
-El Juez calificador ante quien se presente el menor, citará a quienes ejerzan la patria potestad del menor emplazándolos a su asistencia ante la instancia correspondiente señalando fecha y hora, para que asistan al curso y participen en los programas psicoeducativos a que se refiere el párrafo anterior. En caso de inasistencia, el obligado se hará acreedor a una multa de hasta 10 unidades de medida de actualización; en caso de que nuevamente se incumpla con la asistencia, se utilizará el apoyo de los elementos de seguridad pública para su presentación, en términos de los establecido por el artículo 60 fracciones I y II del Código de Procedimientos Civiles aplicado supletoriamente.
-
-Se tendrá por cumplida la obligación a que se refiere el párrafo primero de este artículo, una vez que se obtenga la constancia de cumplimiento emitida por la instancia correspondiente.
-
-En caso de que el menor de edad no cuente con ingresos previos y la causa de su presentación no constituya falta grave, la obligación mencionada en el párrafo primero del presente artículo para quien ejerza la patria potestad o tutela podrá tenerse por cumplida mediante el pago de una multa y la reparación del daño según preceda. En el caso del pago de la multa en ningún caso podrá ser mayor a la que se establezca la Ley de Ingresos del Municipio de Aguascalientes al autor de la conducta cometida por el menor.
-
-En el caso de que el menor sea reincidente en ingresos, sin importar el tipo de infracción que cometa, la obligación a que se refiere el párrafo primero del presente artículo será inconmutable y no podrá tenerse por cumplida a través de multa o cualquier otro medio, pudiendo la autoridad tomar las medias que resulten necesarias conforme a la Ley para presentar a los obligados a cumplir con esta disposición, si aun así el obligado incumple con su asistencia, inmediatamente se dará aviso al Ministerio Público adscrito a los Juzgados Familiares para que se inicie el proceso correspondiente.
-
-Lo establecido en este artículo es independiente de la obligación de quienes ejercen la patria potestad de los menores de responder por daños y perjuicios causados por los menores, establecida en la fracción XIV del artículo 96 de la Ley de los Derechos de Las Niñas, Niños y Adolescentes del Estado de Aguascalientes.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
+QUINTUS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 320
 
-SEXTUS.- Cuando se trate de un menor infractor reincidente en ingresos a la Dirección de Justicia Municipal, será obligación del Gobierno Municipal a través del Dif (sic) Municipal, así como cualquier otra dependencia municipal involucrada en atención a menores y adolescentes ya establecido en el Protocolo de Atención Integral a Menores Infractores realizar una visita al domicilio particular del menor para realizar una inspección de las condiciones en que vive el menor y tomar las medidas necesarias para dar apoyo a los Padres, tomando en consideración cada caso se procederá a:
-
-I.- Canalizar para su atención a las dependencias de los gobiernos Municipal, Estatal y Federal según sea el caso; o bien, con Instituciones de Educación Superior públicas o privadas con las que se tenga convenio de colaboración celebrado;
-
-II.- Dar parte al Ministerio Público de los hechos para que se inicie el procedimiento que corresponda. O bien,
-
-III.- El Municipio, en caso de ser necesario pondrá en funcionamiento el Protocolo de Atención Integral a Menores Infractores.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+SEXTUS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 321.
 
-El Juez Municipal determinará la imposición de una medida de seguridad consistente en la retención del infractor en un área especial de observación habilitada para ello, bajo el cuidado y vigilancia médica, antes de que le sea determinada su situación jurídica, cuando de forma enunciativa más no limitativa, existan los siguientes supuestos:
-
-I.- Si al momento de ser presentado ante el Juez, el detenido se encuentra intoxicado a grado tal que le sea imposible ejercer su derecho de audiencia y, por tanto, rendidos sus alegatos.
-
-II.- Cuando el detenido sea agresivo y no haga posible el normal desarrollo del proceso al que se encuentra sujeto.
-
-III.- En caso de que el detenido pueda poner en riesgo su integridad física y la de las demás personas.
-
-La medida de seguridad subsistirá hasta en tanto cesen los efectos de la intoxicación o cambie su comportamiento, pero, en ningún caso, podrá exceder de treinta y seis horas.
-
-En todo caso, la sanción impuesta deberá de computarse desde el momento en que el detenido hubiera sido puesto a disposición del Juez Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 322.
 
-El receptor de detenidos, una vez recabados los datos de identificación remitirá al presunto infractor al depósito de pertenencias a fin de que recaben sus objetos personales, así mismo solicitará y recabará de servicios médicos el examen psicofísico de los presuntos infractores.
-
-El infractor, al entregar sus pertenencias al encargado del depósito de pertenencias, obtendrá el recibo de las mismas debidamente firmado por el propio encargado del depósito, igualmente, el recibo de pertenencias deberá ser firmado de conformidad por el propio detenido. Una vez que las pertenencias sean devueltas a los familiares, personas expresamente autorizadas o al propio infractor, se devolverá tal documento.
-
-Cuando el infractor se niegue a firmar, el encargado del depósito recabará el nombre y firma de dos testigos de asistencia.
-
-Si el detenido no puede o no sabe leer o escribir, plasmará en el recibo de inventario la huella digital de su pulgar derecho.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 323.
 
-El receptor de detenidos entregará la documentación necesaria al Juez Municipal en turno a efecto de imponer las sanciones correspondientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 324.
 
-En términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el Juez Municipal sancionará con multa, arresto hasta por treinta y seis horas o servicio comunitario.
-
-En el segundo caso, habiendo sido notificado el infractor del monto de la multa, se le requerirá por el pago inmediato de la misma, y de no hacerlo, se le conmutará por arresto.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-En ningún caso, la sanción de arresto excederá las treinta y seis horas. La ejecución del servicio comunitario será en los términos del Reglamento que para tal efecto expida el H. Ayuntamiento.
-
-Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado y así lo acredite a satisfacción del juzgador se reducirá el importe de la multa en términos del artículo 21 de la Constitución Federal.
-
-Inmediatamente que el infractor pague la multa, por su conducto o por interpósita persona, será puesto en absoluta libertad.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Podrá considerarse como trabajo comunitario, la asistencia a psicoterapias reeducativas para quien realice actos de violencia en la familia, en cuyo caso no podrán ser atendidos en los mismos horarios y lugares ni por las mismas personas que atienden a quienes sufren la violencia.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-El modelo de intervención se articulará en coordinación con el Instituto Municipal de la Mujer de Aguascalientes, a efecto de que se proporcione con el enfoque de género y los estándares debidos para la atención de agresores.
-
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2018)</small>
-
-De igual manera, se podrá considerar como trabajo comunitario, la asistencia a los cursos de concientización en materia de acoso callejero, descritos en la fracción VII del artículo 179 de la Ley Municipal para el Estado de Aguascalientes y la fracción XV del artículo 39 del Reglamento del Instituto Municipal de la Mujer de Aguascalientes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 325.
 
-El Juez Municipal, a efecto de aplicar las sanciones administrativas que señala este Código, deberá de verificar si existe adecuación de la conducta del infractor con la falta descrita.
-
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 326.
 
-Para fijar el importe de la multa económica, el Juez Municipal tomará en cuenta, la situación económica del infractor, su peligrosidad, la conducta desplegada al momento de ser detenido, los antecedentes del infractor, así como la reincidencia.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 327.
 
-Una vez impuesta la sanción por el Juez que haya conocido del asunto, no podrá ser alterada por ningún motivo hasta la cumplimentación de la misma.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 328.
 
-Las sanciones pecuniarias se podrán conmutar:
-
-I. Tres días de salario mínimo general vigente en el Estado, de cuatro a seis horas de arresto.
-
-II. Cuatro a Cinco días de salario mínimo general vigente en el Estado, de siete a diez horas de arresto.
-
-III. Seis a Siete días de salario mínimo general vigente en el Estado, de once a trece horas de arresto.
-
-IV. Ocho a Nueve días de salario mínimo general vigente en el Estado, de catorce a diecisiete horas de arresto.
-
-V. Diez días de salario mínimo general vigente en el Estado, de dieciocho a veinte horas de arresto.
-
-VI. Once a Doce días de salario mínimo general vigente en el Estado, de veintiún a veinticuatro horas de arresto.
-
-VII. Trece días de salario mínimo general vigente en el Estado, de veinticinco a veintiocho horas de arresto.
-
-VIII. Catorce a Quince días de salario mínimo general vigente en el Estado, de veintinueve a treinta y un horas de arresto.
-
-IX. Dieciséis a Diecisiete días de salario mínimo general vigente en el Estado, de treinta y dos a treinta y cinco horas de arresto.
-
-X. Veinte días de salario mínimo general vigente en el Estado y superiores, treinta y seis horas de arresto.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 329.
 
-En los centros de detención preventiva municipales se garantizará el derecho de los infractores a comunicarse con el exterior.
-
-Sin perjuicio de lo anterior, los detenidos utilizarán los medios que en cada Centro de Detención se puedan proporcionar.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 330.
 
-Se deberá notificar al infractor que cuenta con el término de treinta días naturales para reclamar la devolución de sus pertenencias, a partir del día siguiente al de su egreso.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 331.
 
-Si transcurrido el término de treinta días naturales, las pertenencias no fueren reclamadas, o bien que abandonadas en la vía pública se ignore su dueño, se procederá de la siguiente manera:
-
-El Director de Justicia Municipal, clasificará los bienes de los que se trate, en aquellos de los que se puedan ser útiles al sistema municipal de Desarrollo Integral para la Familia, de aquellos que por su condición física o jurídica no lo sean.
-
-En el primer caso pasados treinta días sin que hayan sido reclamados por quienes acrediten ser sus legítimos dueños, el Director levantará acta circunstanciada de las causas por las cuales llegaron a su posesión con la presencia de un representante de la Contraloría Municipal y ordenará su remisión al Sistema de Desarrollo Integral de la Familia Municipal para su disposición final.
-
-Tratándose de los segundos, el Director remitirá en su caso, oficio a las autoridades competentes por medio del cual les comunique que pasados treinta días de su notificación se dispondrá la destrucción de los objetos, misma que se llevara a cabo en presencia del Director de Asuntos Jurídicos y de dos testigos de asistencia, así como de un representante de la Contraloría Municipal, levantándose acta circunstanciada de dicho procedimiento.
-
-En ningún caso el personal del Municipio podrá obtener dominio de los bienes para sí o para sus cónyuges, ascendientes, descendientes y colaterales dentro del cuarto grado, consanguíneos o por afinidad.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 332.
 
-En caso de que cualquier persona adscrita a la Dirección de Justicia Municipal constatara que el infractor, al momento de su detención fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del personal de la Secretaría de Seguridad Pública, deberá de elaborar informe de hechos, para los efectos de remitirlo a la Dirección de Asuntos Internos de Seguridad Pública, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ### CAPÍTULO IX. De los Centros de Detención Preventiva
 
@@ -5699,61 +5303,35 @@ Disposiciones Generales
 
 ###### ARTÍCULO 333.
 
-El presente capítulo contiene disposiciones de observancia general obligatoria en el Municipio de Aguascalientes y sanciona las faltas administrativas que alteran o ponen en peligro el orden público y la sana convivencia entre habitantes del Municipio.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 334.
 
-Constituye una falta administrativa la acción u omisión, individual o de grupo, realizada en vía pública o cuyos efectos se manifiesten en ella, o bien se altere o ponga en peligro el orden público o la integridad de las personas en su seguridad, tranquilidad y propiedades en los términos del presente Código Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 335.
 
-Se considera vía pública todo espacio de uso común que por la costumbre o por disposición de la autoridad competente, se encuentre destinado al libre tránsito, así como todo inmueble que de hecho se utilice para este fin, no siendo impedimento que el mismo sea de propiedad particular, al igual que el transporte del servicio público.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 336.
 
-El daño o perjuicio que pudiera causar una falta administrativa deberá reclamarse ante las autoridades judiciales o en la vía que corresponda.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 337.
 
-Las sanciones administrativas, serán aplicables cuando corresponda, sin perjuicio de las responsabilidades civiles o penales que con motivo de los mismos hechos de que se trata hayan incurrido los infractores.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SEGUNDO
 
 De las Faltas Contra la Seguridad Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
 ###### ARTÍCULO 338.
 
-Son faltas contra la seguridad pública y se sancionarán con arresto hasta por treinta y seis horas o multa de cinco a treinta días de salario mínimo general vigente en el Estado, las siguientes:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Causar, en los espectáculos y lugares públicos, falsas alarmas, lanzar voces o tomar actitudes que infundan o puedan infundir pánico en los presentes.
-
-II. Almacenar, detonar cohetes, utilizar material peligroso, inflamable, explosivo, corrosivo, pólvora fría, hacer fogatas o utilizar negligentemente cualquier combustible o material inflamable, que pongan en peligro a la población y que no cuenten con los permisos correspondientes.
-
-III. Formar parte de grupos que causen molestias a las personas en lugares públicos o en la proximidad de los domicilios de éstas.
-
-IV. Encender o pretender detonar, utilizar material pirotécnico, explosivo o peligroso o elevar globos de fuego, sin autorización escrita de las autoridades correspondientes, sin la presencia del titular del permiso o cuando contando con dicha autorización, ésta sea utilizada negligentemente.
-
-V. Penetrar o invadir, sin autorización, zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o recreo.
-
-VI. Organizar o tomar parte en juegos de cualquier índole, en vía pública, que pongan en peligro a las personas que en él (sic) transiten o que causen molestias a las familias que habitan en o cerca del lugar en que se desarrollen los juegos, a los peatones o a las personas que manejen cualquier clase de vehículos.
-
-VII. Solicitar los servicios de la policía, de los bomberos o de establecimientos médicos o asistencias de emergencia, invocando hechos falsos.
-
-VIII. Transportar, sin la autorización correspondiente, sustancias que importen peligro para la población, quedando el vehículo bajo el resguardo de la autoridad competente.
-
-IX. Portar cualquier objeto, que solo puede ser utilizado para agredir o causar algún daño y que no tenga aplicación en actividades laborales o recreativas.
-
-X. Ingerir bebidas embriagantes en la vía pública.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XI. Realizar actos de violencia contra las mujeres de conformidad con los ordenamientos aplicables a la materia que regulan las formas y tipos de violencia de género.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-XII. Realizar actos de violencia y discriminación contra cualquier persona, en los términos señalados por el artículo primero de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO TERCERO
 
@@ -5761,15 +5339,9 @@ De las Faltas Contra el Civismo
 
 ###### ARTÍCULO 339.
 
-Son faltas contra el civismo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Ocasionar disturbios, emitir gritos o interrumpir injustificadamente, un acto oficial con honores a la Bandera.
-
-II. Hacer burla, signos de desprecio o cualquier otro que implique falta de respeto hacia los símbolos patrios, respetando en todo momento las creencias religiosas de los habitantes del Municipio.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-III. Portar insignias, ropas ó identificaciones de uso exclusivo de corporaciones policiales del Estado y sus Municipios, sin estar debidamente autorizado para ello.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO CUARTO
 
@@ -5777,31 +5349,9 @@ De las Faltas Contra la Propiedad Pública
 
 ###### ARTÍCULO 340.
 
-Son faltas contra la propiedad pública y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Deteriorar intencionalmente bienes destinados al equipamiento urbano, o hacer uso indebido de los servicios públicos.
-
-II. Hacer uso indebido de las casetas telefónicas o maltratar los buzones, nomenclaturas, expendios de timbres, señales indicadoras u otros aparatos de uso común colocados en la vía pública.
-
-III. Utilizar indebidamente los hidrantes públicos.
-
-IV. Utilizar, remover o transportar césped, flores, tierra u otros materiales de las calles, plazas, mercados y demás lugares de uso común, sin autorización para ello.
-
-V. Maltratar o ensuciar las fachadas de los edificios o lugares públicos.
-
-VI. Maltratar o hacer uso indebido de las estatuas, monumentos, postes, arbotantes, cobertizos, edificios o cualquier otro bien de uso público o causar deterioros en las calles, parques, paseos o lugares públicos.
-
-VII. Cortar las ramas de los árboles de las calles y avenidas, sin autorización para ello o maltratarlos de cualquier manera.
-
-VIII. Borrar, cubrir o alterar los números o letras con que están marcadas las casas o los letreros que designen las calles o plazas u ocupar los lugares destinados para ello con propaganda de cualquier clase.
-
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
-
-IX. Instalar en forma no autorizada conexiones a cualquiera de las instalaciones del sistema de redes de agua potable y alcantarillado municipal.
-
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
-
-X. Destinar el agua potable de uso doméstico a otro no autorizado.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO QUINTO
 
@@ -5809,121 +5359,17 @@ De las Faltas Contra la Salubridad
 
 ###### ARTÍCULO 341.
 
-Son faltas contra la salubridad y el ornato público y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-I. Ensuciar, desviar o retener las corrientes de agua de los manantiales, cauces o arroyos, tanques o tinacos almacenadores, fuentes públicas, acueductos y tuberías de los servicios del Municipio;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-II. Arrojar en la vía pública animales muertos y/o sus partes, escombros o cualquier sustancia que contamine el ambiente;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-III. Arrojar a los drenajes residuos, escombros, desechos materiales, sustancias toxicas, lodos y productos de los tratamientos de aguas residuales que contaminen o puedan obstruir su funcionamiento;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IV. Arrojar o abandonar en la vía pública fuera de los depósitos colocados para tal fin, residuos o cualquier otro objeto;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-V. Arrojar en predios baldíos, residuos en cualquier estado y de cualquier especie;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VI. Orinar o defecar en la vía pública, en lugares distintos de los autorizados para ese efecto;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VII. Sacudir ropa, alfombras y otros objetos hacia la vía pública, tirar deshechos o desperdicios sobre la misma o en cualquier predio o lugar no autorizado;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VIII. Tener animales que originen mal olor, fauna nociva, ruidos o que causen cualquier otro tipo de molestia a los vecinos en zonas habitacionales;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IX. Realizar la quema de residuos, pasto seco, llantas o cualquier sustancia que cause contaminación al ambiente;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-X. Fumar en lugares expresamente prohibidos para ello;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XI. Descargar aguas residuales contaminantes contrarias al permiso otorgado por la autoridad municipal correspondiente; y
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XII. Abstenerse de recoger las heces fecales arrojadas por animales de compañía a la vía pública, áreas verdes, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SEXTO
 
 De las Faltas Contra el Bienestar Colectivo
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
-
 ###### ARTÍCULO 342.
 
-Son faltas contra la sana convivencia entre vecinos en zonas habitacionales y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
-
-I. Causar escándalo en la vía pública.
-
-II. Conducir en la vía pública animales peligrosos sin permiso de la autoridad y sin tomar las medidas de seguridad necesarias; o dejar el poseedor o el propietario del animal que éste transite libremente en la vía pública sin tomar las medidas de seguridad necesarias para evitar daños a terceros.
-
-III. Hacer manifestaciones ruidosas en forma tal que produzcan disturbio o grave alteración del orden de un espectáculo o acto público.
-
-IV. Exigir gratificaciones por protección de automóviles estacionados en la vía pública.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-V. Ocupar un cajón de estacionamiento destinado a personas con discapacidad, sin serlo u obstruir las rampas especiales para ellos.
-
-VI. Alterar el orden, arrojar cojines, líquidos o cualquier objeto, prender fuego o provocar altercados en los espectáculos o en la entrada de ellos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2018)</small>
-
-VII. Producir ruido con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos en la vía pública, dentro o fuera de inmueble o casa habitación, que por su volumen excedan los niveles permitidos y provoque malestar a la ciudadanía en general.
-
-VIII. Ensayar las bandas de guerra o conjuntos musicales en lugares públicos, careciendo del permiso correspondiente o en lugares privados cuando el ruido generado ocasione molestias a los vecinos.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-IX. Proferir palabras obscenas en la vía pública, insultar o hacer referencia a su sexualidad.
-
-X. Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas necesarias de aseguramiento de tiestos, plantas u otros objetos.
-
-XI. Obstaculizar un sentido de circulación o la totalidad de cualquier vialidad primaria, secundaria o carretera, durante cualquier manifestación de los habitantes del Municipio.
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
-
-XII. Realizar acoso, con palabras sea cual sea su contenido, ademanes sexuales o acciones físicas de seguimiento en contra de la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica, siempre y cuando no constituya algún delito. Asimismo, se considerarán dentro de esta fracción, las demás conductas descritas por la fracción VII del artículo 8º de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
-
-Para el caso de que la falta administrativa implique un acto de los incluidos en la presente fracción, la persona infractora deberá acreditar su asistencia a los cursos de concientización en la materia, mismos que deberá impartir el Instituto Municipal de la Mujer de Aguascalientes y se podrán considerar como trabajo comunitario según lo establecido por el último párrafo del artículo 324 del presente Código.
-
-En caso de que la persona infractora no realice el trabajo comunitario referido, la autoridad municipal competente emitirá en su contra una orden de presentación y le aplicará el arresto o multa que establece el primer párrafo del presente artículo. Si realizó parcialmente el servicio comunitario, únicamente se le podrá aplicar el arresto o multa de forma proporcional a la parte que dejó de cumplir.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XIII. Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas como son la violencia familiar, comunitaria y de género.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-XIV. Efectuar actos de discriminación o de violencia de cualquier tipo por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-XV. Efectuar trato diferenciado entre mujeres y hombres, así como cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra en la prestación de cualquier servicio o en el otorgamiento de algún derecho.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-XVI. Discriminar de cualquier forma a la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica mediante la negativa de la prestación de algún servicio y/o venta de algún bien, con las excepciones que se señalan y regulan en los ordenamientos jurídicos aplicables.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Para los casos de la fracción XII, se efectuará el reporte correspondiente al Instituto Municipal de la Mujer de Aguascalientes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2017)</small>
 
@@ -5997,103 +5443,31 @@ ARTICULO 342 SEPTIES.- Sanciones por infracción a lo dispuesto por el artículo
 
 5. Arresto hasta por 36 horas al responsable de la emisión de ruido.
 
-(REUBICADO [N. DE E. ANTES APARTADO SÉPTIMO], P.O. 9 DE ENERO DE 2017)
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO OCTAVO
 
 De las Faltas Contra la Integridad de las Personas y sus Bienes
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
-
 ###### ARTÍCULO 343.
 
-Son faltas contra la integridad de la personas en su seguridad, tranquilidad, propiedades particulares, y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Provocar a cualquier animal para que ataque a una persona.
-
-II. Causar molestias por cualquier medio, que impida el legítimo uso o disfrute de un inmueble.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-III. Dejar en descuido quien ejerza la guarda y custodia de una persona que padezca de una enfermedad mental y que éste deambule libremente en la vía pública cuando con ello se ponga en peligro su vida o la de otros.
-
-IV. Arrojar contra una persona líquidos, polvos u otras sustancias, que puedan mojarla, ensuciarla, mancharla, o causarle malestar.
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
-
-V. Turbar la tranquilidad de las personas dentro de una zona habitacional, con gritos, música o ruidos aun cuando estos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo, no lo haga.
-
-VI. Hacer bromas indecorosas o mortificantes o en cualquier otra forma molestar a una persona mediante el uso del teléfono.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VII. Dirigirse a una persona con frases o ademanes que afecten su integridad, asediarlo, intimidarlo o impedirle su libertad de acción en cualquier forma, en el caso de mujeres se considerarán además cualquier frase que les sea dirigida de manera ofensiva.
-
-VIII. Maltratar, rayar, pintar o ensuciar las fachadas de los edificios o inmuebles de propiedad particular.
-
-IX. Maltratar, rayar, pintar o ensuciar los vehículos automotores o cualquier otro bien mueble propiedad privada.
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
-
-X. Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos.
-
-XI. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2008)
-
-XII. Comunicar dolosamente a una o más personas de la imputación que se hace a otra persona física de un hecho cierto o falso, que le cause deshonra, descrédito o afecte su reputación.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-XIII. Formular toda clase de expresiones o realización de acciones destinadas a discriminar y manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
-
-(REUBICADO [N. DE E. ANTES APARTADO OCTAVO], P.O. 9 DE ENERO DE 2017)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO NOVENO
 
 De las Faltas Contra la Integridad Moral del Individuo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
-
 ###### ARTÍCULO 344.
 
-Son faltas contra la integridad moral de las personas y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de Unidad de Medida y Actualización vigente, las siguientes:
-
-I. Usar drogas, sustancias, plantas o semillas enervantes en la vía pública.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-II. Invitar, inducir, promocionar o facilitar en la vía pública el comercio carnal, lo cual también es aplicable a quien se ostente como cliente de este comercio.
-
-III. Injuriar a las personas que asistan a un espectáculo o diversión con palabras, actitudes o gestos, por parte de los actores, jugadores, músicos o auxiliares del espectáculo o diversión.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-IV. Faltar en la vía pública, al respeto o consideración que se debe a los adultos mayores, mujeres, niños, a personas con discapacidad y a cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra.
-
-V. Corregir con escándalo, vejar o maltratar a los menores, adultos mayores, al cónyuge, concubina o concubinario en la vía pública, o bien en el interior de un bien inmueble, siempre que cause efectos hacia el exterior o lo solicite un tercero.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VI. Ejecutar, exhibir o asumir actitudes obscenas y/o sexuales, de manera pública.
-
-VII. Asistir los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-VIII. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda incitar a algún tipo de violencia.
-
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
-
-IX. Quien en la vía pública utilice a menores de edad para efectos de mendicidad, y en perjuicio de los derechos del menor, lo anterior a efecto de garantizar lo dispuesto por el artículo 6 fracción XIII del presente Código.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 15 DE MARZO DE 2021.]</small>
-
-Cuando se trate de mendicidad por situación de calle, pobreza o abandono, deberá ser atendida por las Dependencias e Instituciones del Municipio de Aguascalientes competentes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 345.
 
-Las personas que incurran en las faltas administrativas contempladas en este capítulo serán sancionadas en los términos precisados en este código.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-(REUBICADO [N. DE E. ANTES APARTADO NOVENO], P.O. 9 DE ENERO DE 2017)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO DÉCIMO
 
@@ -6101,41 +5475,29 @@ De la Aplicación de Sanciones
 
 ###### ARTÍCULO 346.
 
-Los arrestos impuestos como sanción se cumplirán siempre en los Centros de Detención Preventiva municipales.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 347.
 
-En el caso de la comisión de una falta no flagrante, que deba ser presentada ante el Juez Municipal, este mandará citar a los implicados, y en caso de desobediencia a dicha citación podrá hacerlos comparecer mediante el uso de la fuerza pública, previa orden de comparecencia por escrito, en la cual funde y motive su actuación, en términos de lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 348.
 
-No serán sancionados por la Justicia Municipal los menores de 12 años de edad y los que por enfermedad mental sean jurídicamente incapaces. Sin perjuicio de lo anterior, el Juez, bajo su estricta responsabilidad y respeto a los derechos humanos, podrá dictar las medidas para su protección.
-
-En estos casos estará facultado para ingresarles a espacios habilitados como áreas de observación, mismos que serán distintos de las celdas comunes.
-
-Una vez dispuesto lo anterior, el personal de Trabajo Social y Psicología, se abocará a la localización de los familiares o personas encargadas de su guarda y protección, y en su defecto, se tomarán las medidas necesaria (sic) para remitirles a la institución especializada para su cuidado.
-
-De igual forma se destinarán espacios especiales para la reclusión de los menores de dieciocho años y mayores de doce, cuando por sus circunstancias lo ameriten.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 349.
 
-La vigilancia sobre la comisión de faltas administrativas queda a cargo de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y de la Dirección de Reglamentación, así como de la Coordinación Municipal de Protección Civil en el ámbito de su competencia, en los centros de espectáculos. La aplicación de las sanciones es facultad exclusiva de los Jueces Municipales.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 350.
 
-Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y el personal de la Dirección de Reglamentación, así como de la Coordinación Municipal de Protección Civil en el ámbito de su competencia, deberán poner a disposición inmediatamente ante el Juez Municipal competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 351.
 
-Toda persona que tenga una discapacidad, serán sancionados por las faltas que cometan, siempre que su impedimento no haya influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecen circunstancias que ameriten dicho tratamiento.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO], P.O. 9 DE ENERO DE 2017)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO DÉCIMO PRIMERO
 
@@ -6143,31 +5505,25 @@ Complicidad, Concurso y Reincidencia
 
 ###### ARTÍCULO 352.
 
-Cuando una falta se ejecute con la participación de dos o más personas y no constare la forma en que dichas personas actuaron, pero sí su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este capítulo; sin embargo el Juez Municipal, discrecionalmente podrá duplicar la sanción pecuniaria si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer en común la falta. Cuando se duplique la multa, el arresto no podrá exceder de treinta y seis horas.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 353.
 
-Cuando el infractor cometa varias faltas, se le acumularán las sanciones correspondientes a cada una de ellas, pero el arresto no podrá exceder de treinta y seis horas.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 354.
 
-Cuando una falta pueda ser considerada bajo dos o más aspectos y cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 355.
 
-El Juez Municipal podrá, a su juicio, amonestar o advertir; o bien reducir hasta la mínima las sanciones señaladas en este capítulo por la comisión de faltas de policía, de acuerdo con la peligrosidad en la conducta del infractor.
-
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 356.
 
-En el caso de reincidencia el Juez Municipal deberá duplicar el máximo de las sanciones pecuniarias que establece este capítulo.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-Se considerará reincidente al que haya cometido la misma falta en un lapso menor a un año de ejecutada la primera u otra dentro de la misma clasificación de protección de valores que indica este capítulo.
-
-En el supuesto de la reincidencia el Juez Municipal conforme a la gravedad de la falta y conforme a lo establecido en el artículo 8 del Reglamento de Servicio Comunitario del Municipio de Aguascalientes y según lo considere oportuno y necesario impondrá como sanción administrativa el servicio comunitario de treinta y seis horas y su ejecución será en términos de lo dispuesto en el mismo ordenamiento jurídico; lo anterior no será aplicable a las faltas clasificadas como graves y muy graves por la Ley de Movilidad del Estado de Aguascalientes y el Reglamento de Movilidad del Municipio de Aguascalientes.
-
-(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO PRIMERO], P.O. 9 DE ENERO DE 2017)
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO DÉCIMO SEGUNDO
 
@@ -6175,27 +5531,29 @@ De la Prescripción
 
 ###### ARTÍCULO 357.
 
-La acción para imponer las sanciones por las faltas señaladas en este capítulo, prescribirán en seis meses, que se contarán a partir del día en que se cometa la falta.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ### CAPÍTULO X. De la Junta Municipal de Reclutamiento
 
 ###### ARTÍCULO 358.
 
-El presente capítulo tiene como finalidad establecer los derechos y obligaciones que tienen las personas que por su conducta antisocial o antijurídica, se encuentren internadas en los Centros de Detención Preventiva Municipales, así como de los visitantes; las atribuciones de las autoridades competentes; las funciones de Justicia Municipal. Así mismo, establece las bases o reglas para el buen funcionamiento de dicha área y de las distintas autoridades administrativas encargadas de la vigilancia en el Centro de Detención Preventiva Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 359.
 
-El Centro de Detención Preventiva Municipal, es el inmueble destinado al internamiento de las personas que se encuentran cumpliendo una sanción de carácter administrativo o a disposición de alguna autoridad Investigadora, judicial ó administrativa, y de aquellas que se encuentran en espera de que se le resuelva su situación jurídica-legal.
-
-Los Centros de Detención Preventiva Municipal contarán con instalaciones destinadas para el cuidado y observación de menores de edad, inimputables, personas que se encuentren cumpliendo con una medida de seguridad, observación médica, entre otras.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 360.
 
-El Centro de Detención Preventiva Municipal, podrá recibir a las personas que remitan por haber cometido faltas al presente ordenamiento; o en su defecto que se encuentren bajo la presunción de la comisión de un hecho delictuoso, así como aquellas personas que por su condición de inimputabilidad o por cualquier otro motivo se encuentren en observación o cumpliendo alguna medida de seguridad.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 361.
 
-El Centro de Detención Preventiva Municipal, estará bajo la dirección administrativa del Director de Justicia Municipal, quien ejercerá dicha facultad por sí o por conducto del Juez Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SEGUNDO
 
@@ -6203,159 +5561,33 @@ Competencia, responsabilidades y funciones
 
 ###### ARTÍCULO 362.
 
-Las autoridades administrativas competentes, con atribuciones para hacer cumplir el presente capítulo son:
-
-I. El Presidente Municipal.
-
-II. El Secretario del H. Ayuntamiento.
-
-III. El Director de Asuntos Jurídicos del Municipio.
-
-IV. El Director de Justicia Municipal.
-
-V. Los Jueces Municipales.
-
-VI. Los oficiales custodios comisionados a los Juzgados Municipales.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 363.
 
-Las autoridades señaladas en el artículo que antecede, con excepción de las mencionadas en las fracciones V y VI, tienen atribuciones para delegar sus funciones en el personal del municipio de su confianza designado para tal efecto, con el propósito de que se cumpla con los objetivos del presente Código.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 364.
 
-El Municipio podrá llevar a cabo toda clase de convenios con las autoridades estatales y federales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado de la custodia y manutención de los internos en los Centros de Detención Municipales, así como para brindar un mejor servicio.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 365.
 
-El personal que durante el desempeño y (sic) sus funciones esté relacionado con las actividades propias del centro preventivo, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga la persona titular de la Dirección de Justicia Municipal de este municipio.
-
-Estará también obligado a la capacitación que en materia de juzgar con perspectiva de género, le proporcione el Municipio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 366.
 
-La persona titular de la Dirección de Justicia Municipal, además de las atribuciones que tiene en relación con lo previsto en otros ordenamientos y en capítulos anteriores, tendrá las siguientes atribuciones:
-
-I. Organizar, dirigir y administrar los Centros de Detención Preventiva de este municipio.
-
-II. Establecer reglas o normas de seguridad de los Centros de Detención Preventiva Municipal.
-
-III. Establecer las funciones y roles de labores de los oficiales custodios comisionados a los Centros de Detención Preventiva Municipales.
-
-IV. Determinar los horarios, trámites y reglas que deben observarse en el proceso de visita para los internos.
-
-V. Establecer las normas que regirán, para la atención médica de los internos, así como los requisitos que deberán contener los dictámenes de los exámenes médicos que se les practiquen a las personas que vayan a ser internadas en los Centros de Detención Preventiva Municipales.
-
-VI. Establecer los horarios en que se deben proporcionar los alimentos a los detenidos.
-
-VII. Autorizar, por sí o a través del Juez Municipal en casos especiales las visitas fuera del horario establecido, de acuerdo a su amplio criterio y tomando en consideración la situación jurídica del interno, así como las demás condiciones y elementos existentes.
-
-VIII. Ordenar las normas de higiene que deberán existir y prevalecer en los Centros de Detención Preventiva municipales.
-
-IX. Establecer y llevar a cabo un sistema de identificación y control de registro de las personas internas en los Centros de Detención Preventiva municipales o que se encuentren ingresadas en los mismos por cualquier motivo.
-
-X. Asimismo es facultad exclusiva del Director de Justicia Municipal, vigilar que el Juez Municipal en turno, cumpla cabalmente las atribuciones inherentes a su cargo.
-
-XI. Vigilar que se respeten los derechos humanos de los detenidos.
-
-XII. Vigilar que las normas de seguridad sean cumplidas y observadas por los oficiales custodios y demás personal municipal relacionadas con las tareas propias de los Centros de Detención Preventiva Municipales.
-
-XIII. Vigilar se lleve a cabo el buen funcionamiento del Centro de Detención Preventiva Municipal.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XIV. Solicitar se sancione administrativamente o disciplinariamente a cualquier integrante operativo de la Secretaría de Seguridad Pública o personal municipal que no cumplan o violen cualquier disposición del presente ordenamiento.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XV. Solicitar al Secretario de Seguridad Pública el cambio de cualquier integrante operativo comisionado a los Juzgados Municipales, siempre y cuando exista causa justificada para ello.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XVI. Tener las veinticuatro horas de los trescientos sesenta y cinco días del año, oficiales custodios en las instalaciones del Centro de Detención Preventiva de referencia, encargados del buen funcionamiento del mismo.
-
-XVII. Realizar cursos teóricos-prácticos en materia de derecho y funciones de Centro de Detención Preventiva de personas detenidas, para la formación y actualización del personal de los centros.
-
-XVIII. Asignar un área médica en la cual deberá existir un médico responsable de guardia, a fin de dar atención a los internos en los Centros de Detención Preventiva Municipal y determinar las condiciones físicas en las que se encuentran las personas que ingresan en calidad de arrestados o detenidos.
-
-XIX. Las demás que se desprendan del presente Código o que le sean asignadas por el Presidente Municipal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 367.
 
-Jueces y juezas Municipales, además de las establecidas en el Código Municipal u otras disposiciones, tienen las siguientes atribuciones:
-
-I. Llevar el control de los detenidos que ingresen diariamente a los Centros de Detención Preventiva Municipales.
-
-II. Colaborar con las tareas de capacitación y actualización para el personal de los Centros de Detención Preventiva Municipales.
-
-III. Realizar las funciones delegadas por el Director de Justicia Municipal.
-
-IV. Vigilar que se cumplan por parte del personal de Justicia Municipal con las obligaciones del presente capítulo.
-
-V. Ordenar se realice toda diligencia necesaria a fin que se cumpla estrictamente con lo establecido en el presente capítulo, en relación con toda persona ingresada en los Centros de Detención Preventiva Municipales.
-
-VI. Dar conocimiento al Director de Justicia Municipal, de cualquier anomalía o contradicción que se realice con lo estipulado en el presente capítulo, con el propósito de que se corrija o se sancione al responsable.
-
-VII. Estar al mando de los oficiales custodios que se encuentren de turno en los Centros de Detención Preventiva Municipales.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VIII. Juzgar con perspectiva de género, considerando las desigualdades entre mujeres y hombres, en la comisión de las faltas administrativas que así lo requieran, resultando aplicable en los casos de presión, intimidación contra mujeres que hayan formulado quejas por actos de violencia de género.
-
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2018)</small>
-
-IX. Solicitar los informes de la instancia municipal de la mujer, respecto a los cursos de concientización referidos en el último párrafo del artículo 324 del presente Código.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 368.
 
-Son facultades y obligaciones de los oficiales custodios, además de las que señale el Código Municipal, las siguientes:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Recibir, custodiar y vigilar a toda persona ingresada a los Centros de Detención Preventiva Municipales.
-
-II. Llevar un registro de las personas que se internen en su turno, en las que se fijarán todos los datos pertinentes a su identidad, falta administrativa o probable delito cometido, así como la autoridad ante la cual se encuentra a disposición.
-
-III. Llevar a cabo un riguroso registro de las órdenes de libertad de los internos.
-
-IV. Vigilar que antes de ingresar el detenido a los Centros de Detención Preventiva Municipales, dicha persona haya sido objeto de una revisión corporal, para impedir se introduzcan objetos de los prohibidos dentro de dicha área, para su seguridad y de los demás internos, o para evitar una evasión.
-
-V. Vigilar que antes de ingresar al detenido a la celda correspondiente, dicha persona haya sido sujeta a revisión y dictamen médico.
-
-VI. Vigilar que se cumpla el derecho de cualquier persona ingresada a comunicarse con el exterior, para ello, se utilizarán los medios que en cada Centro de Detención Municipal se puedan proporcionar.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-VII. Exigir y ordenar a los integrantes operativos de la Secretaría de Seguridad Pública cualquier otra autoridad que remitan a los Centros de Detención Preventiva Municipal a personas por faltas administrativas o de cualquier otra índole, que notifiquen mediante la puesta disposición al Juez Municipal en turno los motivos de la detención ó presentación; apercibiéndolos a que en caso de omisión a lo indicado se harán acreedores a una sanción administrativa ó no se dará trámite de recepción de la persona en cuestión.
-
-VIII. Custodiar y vigilar en todo momento al detenido durante el procedimiento de calificación, revisión médica y en su caso hasta su internamiento en las celdas, igualmente cuando sea requerido ante la presencia del Juez Municipal o este último ordene su presencia ante cualquier otro miembro del personal adscrito a Justicia Municipal.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-IX. Vigilar que no se den malos tratos, ni se ataque físicamente a los detenidos por el integrante operativo, estando obligado a reportar cualquier caso al Juez Municipal en turno, así como a su autoridad superior para la sanción a que se hiciera acreedor.
-
-X. En caso de que se suscite un conato de riña, robos, evasión de internos o cualquier otro disturbio que ocurra dentro de los Centros de Detención Preventiva Municipal, deberán de dar conocimiento inmediato al Juez Municipal en turno, a fin de que determine el trámite legal a seguir.
-
-XI. Dar aviso inmediato a la autoridad competente, en caso de que el interno necesite atención médica.
-
-XII. Permitir el acceso a las personas visitantes de los internos en los horarios establecidos para tal efecto, siempre que reúnan y cumplan con los requisitos señalados, de conformidad al presente capítulo.
-
-XIII. Llevar a cabo un registro de visitas, en el cual se contengan los datos personales del visitante, persona a quien va a visitar, la hora de entrada y de salida del visitante.
-
-XIV. Vigilar que las personas visitantes no introduzcan objetos o sustancias ilegales al área de celdas y practicar una revisión minuciosa de los objetos y alimentos que lleven consigo.
-
-XV. Acompañar por seguridad a cada persona visitante al área de detención de la persona a visitar, hasta el momento de su retiro.
-
-XVI. Vigilar que en los edificios de los Centros de Detención Preventiva Municipales se efectúen rondas, cuando menos, cada treinta minutos.
-
-XVII. Vigilar el área de celdas, permanentemente, para salvaguardar la integridad física de los detenidos o internos, especialmente en los casos de personas agresivas o en estado depresivo.
-
-XVIII. Vigilar que se cumpla con la normatividad aplicable.
-
-XIX. Las demás que determine el Director de Justicia Municipal por sí o a través de los Jueces Municipales.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO TERCERO
 
@@ -6363,47 +5595,39 @@ Procedimiento
 
 ###### ARTÍCULO 369.
 
-El área de Jueces Municipales, en el ámbito de su competencia, supervisará que desde el momento en que sea presentada una persona como presunto responsable de la comisión de una falta administrativa, de un delito, o cualquier otro motivo de presentación, le sea elaborado el expediente administrativo de ingreso, a fin de llevar un control y estadísticas sobre el índice de la población que ingresa al Centro de Detención Preventiva Municipal y vigilar, supervisar y ordenar, a los oficiales custodios para que durante el procedimiento administrativo para el internamiento del detenido se apeguen a lo dispuesto en el presente ordenamiento.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 370.
 
-Una vez que el integrante operativo ya sea Federal, Estatal o Municipal que realice la detención o presentación de la persona, deberá informar a un receptor de detenidos, sobre los hechos que motivan su actuación. De igual manera tendrán la obligación de informar todo lo relacionado con la detención al Juez Municipal en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 371.
 
-Antes de ingresar al área de internamiento, deberá elaborarse un dictamen a la persona detenida, siendo obligación del médico precisar si dicha persona presenta alguna lesión, las características de ésta en cuanto a su gravedad, tiempo de sanidad o si se requiere alguna atención médica especializada o su posible internamiento a alguna institución hospitalaria, así mismo deberá determinar en el mismo documento, con toda precisión, si dicha persona se encuentra bajo los efectos de alguna bebida embriagante, sustancia tóxica o enervante o en caso contrario, si no presenta ninguna de las circunstancias antes descritas. Por otra parte, el médico deberá expresar en forma clara y concreta si existe algún inconveniente que por su estado de salud física o mental la persona examinada no deba de ingresar al área de internamiento u observación. En el dictamen se precisará el nombre y firma del médico que elabora el documento así como su número de cédula profesional.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 372.
 
-El médico, además de las mencionadas en el artículo anterior y de las establecidas en éste Código y otros ordenamientos, tendrá las siguientes atribuciones:
-
-I. Aplicar, en caso necesario, los primeros auxilios a los internos que así lo requieran y realizar las consultas y exámenes necesarios para corroborar el estado de salud de los detenidos e internos.
-
-II. Controlar los medicamentos que se le deban administrar a los internos.
-
-III. Emitir opinión al Juez Municipal en turno, sobre el traslado de los detenidos e internos a instituciones hospitalarias, cuando así lo considere necesario.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 373.
 
-Antes de ingresar al detenido al área de celdas y una vez elaborado su expediente administrativo y el dictamen médico correspondiente, deberá ser presentado ante el Juez Municipal en turno, a fin de que se lleve a cabo el procedimiento de calificación de conformidad a lo que establece el presente Código, salvo los casos de excepción señalados en el presente capítulo.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 374.
 
-Ninguna persona detenida podrá ser internada en el Centro de Detención Preventiva Municipal portando cintas, cintos, lentes, cordones, cerillos, encendedores, cigarros, dinero, radio localizadores, teléfonos o cualquier otro objeto que ponga en peligro la integridad física del mismo interno o de sus compañeros de celda.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 375.
 
-Ningún arresto administrativo podrá exceder del término de treinta y seis horas, de conformidad con el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 376.
 
-Será obligación de la Dirección de Justicia Municipal llevar a cabo un sistema de identificación, como medio de control administrativo de todos aquellos internos que se encuentren a su disposición. Para la identificación de los internos, además se podrá tomar una fotografía de frente y de perfil, así como las huellas dactilares las cuales se insertarán en el expediente administrativo de ingreso al Centro de Detención Preventiva Municipal. La información será confidencial y sólo podrá ser entregada cuando así sea requerido por las autoridades competentes y se realice dicha petición por escrito.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+ARTÍCULO 376 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-ARTÍCULO 376 BIS.- Tratándose de faltas administrativas vinculadas a cualquier tipo de violencia de género y en particular violencia familiar, se remitirá a la Secretaría de Seguridad Pública Municipal, la información del lugar, circunstancias y personas involucradas, para los efectos de establecer acciones preventivas y de proximidad policial de protección a las víctimas directas e indirectas.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO CUARTO
 
@@ -6411,39 +5635,41 @@ Derechos y Obligaciones del Interno
 
 ###### ARTÍCULO 377.
 
-Las personas detenidas en el Centro de Detención Preventiva Municipal, tienen derecho a que se les informe el motivo y causas de la detención, la razón por la que serán ingresados, a disposición de qué autoridad se encuentran o en su caso el arresto o multa que se les aplicará.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 378.
 
-Los oficiales custodios deberán permitir el acceso a la o las personas que visiten al interno, las cuales deberán sujetarse al horario establecido, reglas de seguridad y el lugar que se destine para tal efecto, salvo que sea la primera visita en el día y hora que ingrese el interno al Centro de Detención Preventiva Municipal. El abogado defensor del interno tendrá acceso en cualquier tiempo que desee visitar a su cliente, siempre y cuando acredite ser abogado a través de su cédula profesional y el detenido lo acepte como su abogado defensor.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 379.
 
-El interno podrá recibir alimentos que le sean proporcionados por sus familiares o personas de su confianza y en caso de que durante el transcurso de doce horas no reciba su dotación de alimentos, el Municipio deberá proporcionar las tres raciones de alimentos diarias durante su estancia en dicho lugar.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 380.
 
-Los internos tendrán derecho a que el Municipio les brinde atención médica necesaria durante su internamiento, incluyendo el traslado a un centro hospitalario previa autorización expresa de la autoridad competente. Para dicho efecto el Municipio contará con un médico las veinticuatro horas del día en cada Centro de Detención Preventiva Municipal, quien contará con una área especial para desempeñar sus funciones, la cual deberá contar con el cuadro básico de medicamentos y material de curación suficiente, determinado por el Jefe del Departamento de Servicios Médicos Municipales, a fin de estar en condiciones de prestar los primeros auxilios a los detenidos.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 381.
 
-Será obligación de los internos y de las personas que se remitan al Centro de Detención Preventiva Municipal, mantener siempre y ante todo momento una buena actitud y dirigirse con el debido respeto y consideración ante el Juez Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 382.
 
-El interno, durante el período que dure su estancia en el Centro de Detención Preventiva Municipal, deberá guardar el orden y respeto que se merecen los oficiales custodios así como el personal administrativo. Asimismo deberá evitar cualquier agresión física o verbal tanto con las demás personas que se encuentren internas, como con las personas que acudan de visita a dichas instalaciones.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 383.
 
-Será obligación del interno, mantener aseada el área donde se encuentra detenido, con el propósito de que esta permanezca en un buen estado higiénico, y evitar realizar cualquier desperfecto o daño a las instalaciones.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 384.
 
-Será obligación del interno, reportar a las autoridades del Centro de Detención Preventiva Municipal, cualquier anomalía de que se percate.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 385.
 
-Será obligación de los internos, acatar y cumplir las órdenes de las autoridades del Centro de Detención Preventiva Municipal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO QUINTO
 
@@ -6451,15 +5677,9 @@ Sanciones
 
 ###### ARTÍCULO 386.
 
-El interno que no cumpla con las disposiciones de esta normatividad le serán aplicadas las siguientes sanciones:
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-I. Amonestación.
-
-II. Suspensión de visita familiar.
-
-III. Si está cumpliendo un arresto administrativo se le incrementará su sanción en multa y en arresto, siempre que no sea mayor a los límites que marca el presente Código, así como el arresto que no exceda del término de treinta y seis horas.
-
-IV. En el supuesto caso en que el interno realice con su conducta, un hecho u omisión que de acuerdo con la ley se tipifique como delito se dará vista al Ministerio Público en el Estado, o bien a la autoridad competente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SEXTO
 
@@ -6467,53 +5687,29 @@ Distribución de Internamiento en Celdas, Medidas de Seguridad, Reglas de Intern
 
 ###### ARTÍCULO 387.
 
-El área de celdas para el internamiento de las personas detenidas se distribuirá de la siguiente forma:
-
-I. Área para internar a los menores de edad.
-
-II. Celdas para los que cumplen sanciones administrativas.
-
-III. Celdas para mujeres.
-
-IV. Celdas para las personas que se encuentran a disposición de autoridades civiles.
-
-V. Celdas para las personas que se encuentran afectados de sus facultades mentales.
-
-VI. Celdas especiales para las personas que se encuentran cumpliendo con una medida de seguridad en espera de que le sea determinada su situación legal.
-
-VII. El Juez Municipal de turno podrá dictar las medidas y lineamientos necesarios a efecto de reforzar la seguridad de los internos.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 388.
 
-Las personas remitidas a los Centros de Detención Preventiva Municipales y que deban ser ingresados, una vez registrados y calificados, serán internadas en las celdas de dicha institución bajo las siguientes bases:
-
-I. Las mujeres y hombres ocuparan celdas distintas.
-
-II. Los menores de edad serán internados en el cuarto de observación designado para tal efecto.
-
-III. Las personas con alguna enfermedad infecto-contagiosa, con alguna enfermedad mental, depresivos o con una actitud agresiva, serán internados en celda distinta a los demás.
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE AGOSTO DE 2011)</small>
-
-IV. Los detenidos que forman parte de una corporación policial deberán ser internados en una sola celda.
-
-V. Se tendrán las consideraciones del caso a los adultos mayores, así como a las personas con capacidades diferentes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 389.
 
-Por ningún motivo se internará en el área de celdas a persona alguna que sea remitida por alguna autoridad administrativa o judicial, si no presenta el oficio que funde y motive la causa legal de su ingreso, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Dirección de Justicia Municipal, debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 390.
 
-Cuando la autoridad administrativa o judicial que requiera al interno para alguna diligencia procesal, deberá solicitar su excarcelación provisional mediante oficio en el cual se indique el lugar donde habrá de ser remitido, el día y hora en que se requiera, debiéndose designar el o los oficiales de custodia necesarios, quienes deberán tomar las medidas preventivas de seguridad para que se cumpla con la orden dictada por la autoridad.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 391.
 
-Para que los oficiales custodios pueda (sic) dejar en libertad a un interno, deberá contar con la respectiva orden de libertad, misma que será por escrito con el nombre y firma del titular de la autoridad a quien se encuentra a su disposición el interno o en su defecto a quien se encuentra supliendo a dicho funcionario, así como el sello correspondiente.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 392.
 
-Como medida de seguridad y con el objeto de salvaguardar la integridad y los derechos humanos de los internos, el área de celdas deberá contar con cámaras de vídeo grabación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO SÉPTIMO
 
@@ -6521,7 +5717,9 @@ Informática
 
 ###### ARTÍCULO 393.
 
-La Dirección de Justicia Municipal mantendrá actualizados los informes estadísticos relacionados con las personas que se encuentran internas en los Centros de Detención Preventiva Municipales, debiéndose rendir un informe diario y mensual sobre los índices de internamientos, el cual será entregado a la Secretaría del H. Ayuntamiento.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO OCTAVO
 
@@ -6529,101 +5727,73 @@ Control de Visitas
 
 ###### ARTÍCULO 394.
 
-Los familiares de los internos tendrán derecho de realizar su visita en un horario de las nueve a las trece horas y de las catorce a las dieciséis horas de todos los días de la semana. Los oficiales custodios llevarán un control de visitas en un libro destinado para tal efecto en el que se asentará entre otros datos los siguientes:
-
-I. Fecha de la visita.
-
-II. Nombre de la persona interna a visitar.
-
-III. Nombre del visitante, fotografía y huella dactilar.
-
-IV. Edad y firma del visitante.
-
-V. Parentesco.
-
-VI. Hora de visita.
-
-VII. Hora de salida.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 395.
 
-El visitante deberá presentar una identificación para su ingreso al área de celdas, la cual se le devolverá una vez concluida la misma, en la inteligencia de que no deberá exceder dicha visita por más de quince minutos.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 396.
 
-Sin excepción de persona, se negará el acceso para ver a los internos o hablar con el Juez Municipal para pedir información de los detenidos a toda persona que acuda a este Centro de Detención Preventiva Municipal, cuando se presente:
-
-I. En estado de ebriedad o bajo los influjos de alguna sustancia tóxica.
-
-II. Armado o con materiales que pongan en peligro la integridad de los detenidos, del personal custodio o administrativo.
-
-III. Sin camisa o descalza.
-
-IV. A menores de edad.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 397.
 
-A su ingreso el visitante deberá portar un gafete de identificación que expresará la palabra "VISITANTE" devolviéndola contra la entrega de su identificación personal.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 398.
 
-Todos los visitantes deberán ser sometidos a una revisión corporal como medida de seguridad y por ningún motivo podrá ingresar al área de celdas con objetos que por su diseño o naturaleza implique algún riesgo para la integridad física de los internos, de los visitantes, oficiales custodios o administrativo de la institución, por lo que los alimentos también serán revisados de manera higiénica, para evitar que sean introducidos diversos objetos no permitidos, lo anterior a través de los oficiales custodios.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-La revisión de mujeres visitantes, deberá de efectuarse por oficiales custodios mujeres, y el mismo deberá obedecer a los fines señalados, pero garantizando un trato respetuoso, sin comentarios inadecuados en relación a su género, orientación sexual o condición.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 399.
 
-Cuando algún funcionario relacionado con la procuración y administración de la justicia, ya sea del fuero común o federal en ejercicio de sus funciones, solicite su ingreso al área de celdas y acredite su personalidad, deberá proporcionársele las facilidades necesarias para que realice su visita. De igual forma se permitirá el acceso a los funcionarios de la Comisión Nacional de Derechos Humanos y del organismo protector de los derechos humanos en el Estado para que lleven a cabo sus funciones.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 400.
 
-La persona que incurra en alguna irregularidad en relación a lo antes preceptuado, se pondrá a disposición del Juez Municipal en turno, para que deslinde responsabilidad administrativa de dicho visitante y en caso de la probable comisión de algún delito se dará vista al Agente del Ministerio Público en el Estado, o bien, a la autoridad competente según sea el caso.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO NOVENO
 
 Oficiales Custodios
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
-
 ###### ARTÍCULO 401.
 
-Laspersonas (sic) que desempeñen el cargo de oficial custodio comisionados a los Centros de Detención Preventiva Municipal, deberán cumplir con sus responsabilidades en estricto apego a los derechos fundamentales de las personas internas, aplicando lo establecido por las Leyes, el presente Código Municipal y Reglamentos relacionados con su ámbito de competencia para el desarrollo de su trabajo.
-
-Por ningún motivo quienes desempeñen esta labor de custodia o personal administrativo solicitará a la persona interna o a sus familiares dádiva o emolumento alguno, pues en tal supuesto, se avisara a su jefe o jefa inmediato(a), quien deberá levantar el acta administrativa circunstanciada de los hechos que motiven la irregularidad detectada o reportada con el nombre y firma del quejoso o quejosa y de dos personas que atestigüen, procediendo conforme a derecho.
-
-De igual forma se procederá en caso de presentarse acoso sexual y/o cualquier conducta irregular por parte de las personas que se desempeñen como oficiales custodios o personal administrativo a la persona interna o a sus familiares.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 402.
 
-Como medida de seguridad entre los cambios de turno de los oficiales custodios, deberán realizar una revisión en el área de celdas, a fin de contabilizar todas y cada una de las personas que se encuentren internas y a disposición de las diversas autoridades. De igual forma se realizará una revisión a las instalaciones del área de celdas para verificar los objetos personales del interno que no sean de los prohibidos y verificar los accesos a dichas celdas y lugares de ventilación para evitar en todo momento que algún interno se evada de la justicia.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 403.
 
-Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada de inmediato en forma verbal y mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 404.
 
-El Director de Justicia Municipal podrá ordenar se lleven a cabo operativos sin previo aviso a efecto de realizar revisiones minuciosas de los artículos personales de los oficiales custodios con la finalidad de verificar que éstos no porten algún objeto o sustancia ilegal entre sus pertenencias. Igualmente podrá ordenar les sean practicados exámenes médicos y psicológicos para comprobar su aptitud e integridad física para la prestación de sus servicios.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO DÉCIMO
 
 De los Traslados y el Personal
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
 ###### ARTÍCULO 405.
 
-Los detenidos por la probable comisión de delitos, deberán ser trasladados por los integrantes operativos que designe para tal efecto la Secretaría de Seguridad Pública, a los lugares que indiquen las autoridades competentes, procurando efectuarlo en forma rápida y con seguridad.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 406.
 
-El traslado deberá ser registrado en el libro que se lleve para dicha finalidad, señalando fecha y hora en que se lleve a cabo, el lugar del traslado y la causa y motivo del mismo. Corresponderá a los oficiales custodios hacer las anotaciones correspondientes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 407.
 
-El Centro de Detención Preventiva Municipal, deberá contar con el personal directivo, técnico, administrativo, de seguridad y custodia, que se requiera para su adecuado funcionamiento, de acuerdo con las reglas establecidas en el presente Código.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
 APARTADO DÉCIMO PRIMERO
 
@@ -6631,11 +5801,11 @@ Mantenimiento al Área de Celdas
 
 ###### ARTÍCULO 408.
 
-El Director de Justicia Municipal, podrá contratar el personal necesario para llevar a cabo el aseo en el área de celdas municipales y mantenerlas en óptimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Aguascalientes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTÍCULO 409.
 
-El Centro de Detención Preventiva Municipal deberá contar con personal capacitado en las diversas áreas de mantenimiento, a fin de que se encuentre en buenas condiciones.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 ### CAPITULO I
 
@@ -9601,11 +8771,15 @@ La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco 
 
 El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, tendrá como finalidad mejorar la Seguridad en el Municipio de Aguascalientes, mediante un plan permanente, coordinado por un órgano central, responsable de orientar y supervisar el trabajo multidisciplinario y transversal entre las dependencias del Gobierno Municipal, contando también con la participación ciudadana a efecto de identificar los problemas de seguridad pública que afectan al Municipio y así prevenirlos y combatirlos de manera eficaz mediante el desarrollo e implementación de estrategias que atiendan los factores que generan la delincuencia, siempre en apego a las Leyes y Reglamentos que conforman el marco jurídico del Municipio y con base en los Protocolos, Reglamentos o Planes Permanentes que se aprueben. Para su funcionamiento, sesionará de manera trimestral de forma ordinaria, pudiendo hacerlo de manera extraordinaria en las ocasiones que el mismo Consejo lo determine.
 
-El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, se conformará por los siguientes integrantes, quienes contaran con voz y voto:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2021)</small>
+
+El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; se conformará por los siguientes integrantes, quienes contaran con voz y voto:
 
 I.- Un Presidente, que será el Presidente Municipal. En todo momento podrá delegar la Presidencia en cualquier integrante del gabinete municipal y contará con voz y voto de calidad.
 
-II.- Un Secretario, que será el Regidor Presidente de la Comisión Permanente de Seguridad Pública, quien asumirá la Presidencia en caso de ausencia del Presidente Municipal cuando el Presidente así lo considere oportuno.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+
+II.- El Regidor Presidente de la Comisión Permanente de Seguridad Pública;
 
 III.- El Secretario de Seguridad Pública Municipal.
 
@@ -9615,7 +8789,7 @@ V.- El Secretario de Desarrollo Social.
 
 VI.- El Jefe de la Oficina Ejecutiva del Presidente Municipal.
 
-VII.- El Presidente del Consejo de la Ciudad.
+VII.- (DEROGADA, P.O. 30 DE AGOSTO DE 2021)
 
 VIII.- El Director del Sistema de Desarrollo Integral de la Familia Municipal.
 
@@ -9640,6 +8814,10 @@ Los integrantes previstos en la fracción XVI, serán electos por el pleno del C
 Convocatoria Pública que emita la Comisión Permanente de Seguridad Pública del H. (sic)
 
 Ayuntamiento, al inicio de cada Administración Pública Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2021)</small>
+
+Para la coordinación y desarrollo de sus trabajos, el Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia tendrá un Secretario Técnico, quien únicamente contará con voz y el cual será electo por acuerdo de la mayoría de los integrantes de dicho Consejo a propuesta del Presidente.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -22985,6 +22163,14 @@ m) Por extraer agua de la red de agua potable sin el permiso o autorización cor
 
 n) Por cualquier tipo de daño o destrucción de los recipientes para depósito de basura y/o para residuos sólidos urbanos que coloquen o manden colocar (sic) municipio, o hayan sido instalados por particulares.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2021)</small>
+
+V. GRUPO CINCO, SANCIÓN ADMINISTRATIVA: SERVICIO COMUNITARIO CONSISTENTE EN LA LIMPIEZA DE LOS BIENES PÚBLICOS, CENTROS PÚBLICOS, LUGARES DE USO COMÚN RESGUARDADOS O DE PROPIEDAD MUNICIPAL, CONFORME A LO ESTABLECIDO EN EL REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES, con respecto a las siguientes conductas:
+
+a) Por arrojar goma de mascar a la vía pública, áreas verdes y/o parques públicos.
+
+b) Por arrojar a la vía pública, áreas verdes y/o parques públicos la colilla de cigarro, entendiéndose como el deshecho que queda de un cigarro consumido.
+
 En caso de reincidencia se aplicará hasta el doble del máximo de la sanción correspondiente. Para los efectos de estas sanciones se considera reincidente a aquella persona que habiendo sido sancionada por cometer las infracciones señaladas, viole nuevamente la misma disposición en el transcurso de seis meses.
 
 En caso de que la prestación del servicio de limpia y recolección de residuos sólidos se realice por particulares, otorgada mediante concesión o convenio, se procederá a la cancelación de los mismos para operar, funcionar o prestar servicios concedidos de competencia municipal, cuando no se preste el servicio en las condiciones y términos establecidos en el presente Código y demás disposiciones legales que prescriban otros ordenamientos jurídicos.
@@ -24980,3 +24166,25 @@ DECIMO: Todos los trámites que se hubiesen iniciado bajo la vigencia de los ord
 DÉCIMO SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la anterior Dirección de Justicia Municipal, se entenderán hechas o conferidas a la actual Dirección de Juzgados Cívicos.
 
 DÉCIMO TERCERO: Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Juez Municipal o Juez Calificador, se entenderán hechas o conferidas al actual Juez Cívico.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE SE “ADICIÓN AL INCISO I) DE LA FRACCIÓN I Y EL INCISO E) DE LA FRACCIÓN II (SIC) DEL ARTÍCULO 1574 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+Único.- La presente reforma iniciará su vigencia a los seis meses siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA AL ARTÍCULO 619 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+PRIMERO: La presente reforma al artículo 619 del Código Municipal de Aguascalientes, iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Una vez que la presente reforma al Código Municipal de Aguascalientes entre en vigor; el Presidente del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia deberá presentar ante el Consejo, la propuesta para la elección del Secretario Técnico y de este modo se proceda a su designación, lo que se deberá realizar dentro de un plazo no mayor a los siguientes veinte días hábiles.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA MEDIANTE LA CUAL SE DEROGAN LOS ARTÍCULOS 292 AL 409, EXCEPTUANDO LOS ARTÍCULOS 342 BIS, 342 TER, 342 QUATER, 342 QUINQUIES, 342 SEXIES, 342 SEPTIES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES”.]
+
+PRIMERO: La presente REFORMA MEDIANTE EL (SIC) CUAL SE DEROGAN LOS ARTÍCULOS 292 AL 409 EXCEPTUANDO LOS ARTÍCULOS 342 BIS, 342 TER, 342 QUATER, 342 QUINQUIES, 342 SEXIES, 342 SEPTIES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES Y MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Todos los trámites que se hubiesen iniciado bajo la vigencia de los ordenamientos legales señalados en el TRANSITORIO PRIMERO, se deberán de concluir con los procedimientos previstos en los mismos.
