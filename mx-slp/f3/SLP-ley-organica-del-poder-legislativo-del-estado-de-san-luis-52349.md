@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2021-06-24"
+last_updated: "2021-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -763,9 +763,11 @@ El Congreso del Estado a efecto de iniciar su actividad Legislativa en los perio
 
 La Directiva es el órgano de dirección del Pleno y será responsable de la conducción de las sesiones del mismo; tendrá las atribuciones señaladas en la presente Ley y en el Reglamento. Se integrará por un Presidente, que será el Presidente del Congreso; dos vicepresidentes; dos secretarios; y dos prosecretarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 64.
 
-La composición de la Directiva será plural. La Junta hará las propuestas de quienes deberán integrarla, conforme lo determine el Reglamento.
+La composición de la Directiva será plural, y en su integración deberá observarse el principio de paridad de género. La Junta hará las propuestas de quienes deberán integrarla, conforme lo determine el Reglamento.
 
 Para cubrir las ausencias del Presidente del Congreso y de los demás integrantes de este órgano, se atenderá a lo dispuesto en el Reglamento.
 
@@ -959,6 +961,10 @@ III. Proponer al Pleno:
 
 a) A los integrantes de la Directiva, de las comisiones y de los comités; así como la sustitución de los mismos cuando exista causa justificada para ello conforme al Reglamento.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+En la propuesta de integración de comisiones y comités deberá observarse el principio de paridad de género.
+
 b) La designación, y la remoción en su caso, del Oficial Mayor, del Contralor, del Coordinador de Finanzas, y del Coordinador de Asesoría y Secretariado Técnico de Comisiones, conforme a lo dispuesto en esta Ley y en el Reglamento.
 
 c) El presupuesto anual del Poder Legislativo;
@@ -1036,6 +1042,10 @@ Las comisiones permanentes se integrarán con un mínimo de tres y un máximo de
 ###### ARTICULO 88.
 
 Las comisiones permanentes y especiales se integran con un Presidente, un Vicepresidente, un Secretario y vocales; que ocupan su cargo conforme al orden en que son nombrados.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
+
+ARTICULO 88 BIS. En la designación de las presidencias de las comisiones permanentes deberá observarse el principio de paridad de género obligatoria.
 
 ###### ARTICULO 89.
 
@@ -2826,3 +2836,11 @@ P.O. 24 DE JUNIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1241.- SE REFORMA EL ARTÍCULO 64 EN SU PÁRRAFO PRIMERO Y ADICIONA, AL ARTÍCULO 82 EN SU FRACCIÓN III EN EL INCISO A) EL PÁRRAFO SEGUNDO, Y EL ARTÍCULO 88 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
