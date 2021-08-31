@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-864-de-operaciones-inmobiliarias-del-estado-de-11064
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-13"
-last_updated: "2015-10-13"
+last_updated: "2021-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 864 DE OPERACIONES INMOBILIARIAS DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO, LA PRESENTE LEY ENTRA EN VIGOR SESENTA DÍAS DESPUÉS DE SU PUBLICACIÓN.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2021.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 13 de octubre de 2015.
 
@@ -69,9 +67,21 @@ V. Operaciones Inmobiliarias: Es el acto de intermediación, tendiente a la cele
 
 VI. Profesional Inmobiliario o Profesionales Inmobiliarios: Las personas físicas que se dediquen con la respectiva licencia expedida por la Secretaría de Desarrollo Económico, de forma habitual y retribuida dentro del Estado de Guerrero, a asesorar o intervenir como mediador para la celebración de un acto jurídico en el que se transmita el dominio, uso o goce temporal de un bien inmueble;
 
-VII. Registro: El Registro Estatal de Profesionales Inmobiliarios; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
 
-VIII. Secretaría: Secretaría de Desarrollo Económico.
+VII. Registro: El Registro Estatal de Profesionales Inmobiliarios;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+VIII. Secretaría: Secretaría de Desarrollo Económico;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+IX. Unidades Capacitadoras: Las instituciones que cuenten con Reconocimiento de Validez Oficial de Estudios expedida por autoridad competente en materia de profesionalismo inmobiliario o equiparables, y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+X. Usuarios: Toda persona física o moral que contrate a un Profesional Inmobiliario con el objeto de que le oriente o ayude a realizar operaciones inmobiliarias.
 
 ###### ARTÍCULO 3.
 
@@ -89,9 +99,13 @@ Los notarios públicos deberán dar aviso a la Secretaría cuando de la verifica
 
 Los Profesionales Inmobiliarios podrán auxiliarse del personal necesario para el desarrollo de los trabajos inherentes a su actividad, cumpliendo con los requisitos que se señalan en este artículo, este personal podrá ser:
 
-I. Administrativo: Son los que no tienen relación directa con las operaciones inmobiliarias, como pudieran ser chóferes, recepcionistas, telefonistas, auxiliares contables, entre otros; e
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
 
-II. Inmobiliario: La persona cuya función es única y exclusivamente auxiliar al Profesional Inmobiliario en las tareas preparatorias y complementarias de la mediación inmobiliaria, como podría ser, a modo enunciativo, de informador, visitador, captador y enseñanza de inmuebles, entre otros, justificándose su contratación y autorización en que el Profesional Inmobiliario, por estar ejercitando las suyas como tal, no pueda atender estas actividades auxiliares
+I. Administrativo: Son los que no tienen relación directa con las operaciones inmobiliarias, como pudieran ser chóferes, recepcionistas, telefonistas, auxiliares contables, entre otros; y
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+II. Auxiliar Inmobiliario: La persona cuya función es única y exclusivamente auxiliar al Profesional Inmobiliario en las tareas preparatorias y complementarias de la mediación inmobiliaria, como podría ser, a modo enunciativo, de informador, visitador, captador y enseñanza de inmuebles, entre otros, justificándose su contratación y autorización en que el Profesional Inmobiliario, por estar ejercitando las suyas como tal, no pueda atender estas actividades auxiliares.
 
 Los auxiliares no tienen la calidad de Profesionales Inmobiliarios, mientras no obren en el Registro y será responsable de sus funciones inmobiliarias el Profesional Inmobiliario registrado con el que colaboren.
 
@@ -115,9 +129,17 @@ VI. Conducirse con honestidad y ética profesional, y proteger los intereses leg
 
 VII. Omitir conducirse de manera que pongan a sus clientes en situaciones de inseguridad legal o financiera en las operaciones inmobiliarias en las que los apoyen;
 
-VIII. Excusarse de recibir pagos anticipados o depósitos en dinero por la prestación de sus servicios o por lo (sic) trámites propios de las operaciones inmobiliarias, cuando no se pueda extender a cambio factura, un recibo fiscal u otro documento legal que ampare el mismo, salvo tratándose de los pagos establecidos en el contrato de adhesión registrado; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
 
-IX. Las demás que establezca esta Ley y su Reglamento
+VIII. Excusarse de recibir pagos anticipados o depósitos en dinero por la prestación de sus servicios o por lo (sic) trámites propios de las operaciones inmobiliarias, cuando no se pueda extender a cambio factura, un recibo fiscal u otro documento legal que ampare el mismo, salvo tratándose de los pagos establecidos en el contrato de adhesión registrado;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+IX. Dar de alta ante la Secretaría al o los auxiliares inmobiliarios que lo apoyen, y
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+X. Las demás que establezca esta Ley y su Reglamento.
 
 ###### ARTÍCULO 6.
 
@@ -187,9 +209,17 @@ IV. Formular y ejecutar, con la participación de los Profesionales Inmobiliario
 
 V. Llevar actualizado el Registro, en el que se deberán inscribir las licencias otorgadas a los Profesionales Inmobiliarios y el nombre de su titular, así como las sanciones que se les impongan, en los términos de esta Ley;
 
-VI. Aplicar las sanciones a quienes incumplan las disposiciones de esta Ley; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
 
-VII. Establecer y operar un sistema de quejas o denuncias para usuarios respecto de los Profesionales Inmobiliarios con registro estatal y las personas que se ostenten como tales sin serlo.
+VI. Aplicar las sanciones a quienes incumplan las disposiciones de esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+VII. Establecer y operar un sistema de quejas o denuncias para usuarios respecto de los Profesionales Inmobiliarios con registro estatal y las personas que se ostenten como tales sin serlo, y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+VIII. La Secretaría solo podrá otorgar Licencias a personas que hayan concluido exitosamente su capacitación en una Unidad Capacitadora." (sic)
 
 ###### ARTÍCULO 13.
 
@@ -207,7 +237,9 @@ b) Copia de identificación oficial vigente con fotografía del representante le
 
 c) Copia certificada del poder notarial del representante legal;
 
-d) Acreditamiento del representante legal de su experiencia y conocimientos en operaciones de corretaje o intermediación inmobiliaria;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2021)</small>
+
+d) Acreditación del representante legal de su experiencia y conocimientos en operaciones de corretaje o intermediación inmobiliaria, expedido por una Unidad Capacitadora;
 
 e) No contar el representante legal con antecedentes penales con motivo de la comisión de delitos de carácter patrimonial;
 
@@ -265,9 +297,17 @@ V. Para el desarrollo de la visita, el requerido designará dos testigos con ide
 
 VI. El o los inspectores harán entrega de una copia del acta levantada, donde se asienten los hechos derivados de la actuación;
 
-VII. No afectará la validez de lo actuado en la diligencia, la negativa de firmar el acta por los Profesionales Inmobiliarios, o la persona con quien se haya realizado la diligencia, así como los testigos que presenciaron las actuaciones, lo que deberá hacerse constar en la misma. El acta es válida con la firma de uno solo de los inspectores, aún cuando actúen dos o más; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
 
-VIII. En el acto de la diligencia, los inspectores podrán formular las observaciones que consideren procedentes y aprobar las pruebas necesarias; o dentro del término de cinco días hábiles siguientes a la fecha de la conclusión de la diligencia que corresponda.
+VII. No afectará la validez de lo actuado en la diligencia, la negativa de firmar el acta por los Profesionales Inmobiliarios, o la persona con quien se haya realizado la diligencia, así como los testigos que presenciaron las actuaciones, lo que deberá hacerse constar en la misma. El acta es válida con la firma de uno solo de los inspectores, aún cuando actúen dos o más;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+VIII. En el acto de la diligencia, los inspectores podrán formular las observaciones que consideren procedentes y aprobar las pruebas necesarias; o dentro del término de cinco días hábiles siguientes a la fecha de la conclusión de la diligencia que corresponda; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2021)</small>
+
+IX. Todo acto de la Secretaría deberá estar fundado y motivado.
 
 ###### ARTÍCULO 19.
 
@@ -315,13 +355,17 @@ IV. Suspensión de la licencia respectiva e inscripción en el Registro, en su c
 
 V. Cancelación de la licencia respectiva y de la inscripción en el Registro.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-A las personas físicas que se ostenten como Profesionales Inmobiliarios con licencia estatal y que realicen operaciones inmobiliarias sin que cuenten con la Licencia respectiva se les aplicará la sanción consistente en multa de hasta por 600 días de salario mínimo vigente en el Estado, según el caso particular y tomando en cuenta las circunstancias previstas en el artículo 19 de esta Ley.
+A las personas físicas o morales que se ostenten como Profesionales Inmobiliarios sin contar con la Licencia a que se refiere la presente Ley, así como aquellas personas físicas o morales que realicen operaciones inmobiliarias sin tener vigente su licencia en los términos de lo dispuesto por esta Ley, se les impondrá sanción de hasta mil veces el valor diario de la unidad de medida y actualización, sin menoscabo de la responsabilidad civil o penal en que incurran.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-A los Profesionales Inmobiliarios con registro estatal que durante la vigencia de su registro hubieran sido condenados por delito de carácter patrimonial, serán sancionados con la cancelación del registro y, en su caso, revocación de la Licencia respectiva.
+A los Profesionales Inmobiliarios con registro estatal que durante la vigencia de su registro hayan sido condenados por delito de carácter patrimonial, serán sancionados con la cancelación del registro y, en su caso, revocación de la Licencia respectiva. De acuerdo a lo estipulado en el artículo 28 de la presente Ley.
 
 ###### ARTÍCULO 25.
 
@@ -524,3 +568,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. DAVID CIENFUEGOS SALGADO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 834 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 864, DE OPERACIONES INMOBILIARIAS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
