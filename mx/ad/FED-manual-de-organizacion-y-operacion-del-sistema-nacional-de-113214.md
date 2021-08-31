@@ -4,7 +4,7 @@ identifier: "FED-manual-de-organizacion-y-operacion-del-sistema-nacional-de-1132
 country: "mx"
 rank: "manual"
 publication_date: "2016-03-03"
-last_updated: "2018-04-04"
+last_updated: "2021-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113214&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-02"
 
 MANUAL DE ORGANIZACIÓN Y OPERACIÓN DEL SISTEMA NACIONAL DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2021.
 
 Manual publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 3 de marzo de 2016.
 
@@ -49,17 +49,29 @@ MANUAL DE ORGANIZACIÓN Y OPERACIÓN DEL SISTEMA NACIONAL DE PROTECCIÓN INTEGRA
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 AGOSTO DE 2021)</small>
+
 ###### Artículo 1.
 
-El Sistema Nacional se integrará, organizará y funcionará de conformidad con lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento, el presente Manual y demás disposiciones que para tal efecto emitan.
+El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes se integrará, organizará y funcionará de conformidad con lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento, el presente Manual y demás disposiciones que para tal efecto emitan.
 
 El objeto del presente ordenamiento es establecer las directrices, los principios y las acciones que permitan la organización y operación del Sistema Nacional de Protección Integral previsto en la Ley, a efecto de garantizar el cumplimiento de la misma para la protección y ejercicio de los derechos de niñas, niños y adolescentes, a través de la coordinación entre las instancias de la Federación y las Entidades Federativas, en el ámbito de sus respectivas competencias, así como con los sectores privado y social, de la generación e implementación de políticas públicas y demás acciones que promuevan la universalidad, interdependencia, indivisibilidad y progresividad en el goce de los derechos de niñas, niños y adolescentes.
 
-El presente Manual podrá ser modificado a propuesta, motivada y fundada, de la Secretaría Ejecutiva o de los integrantes del Sistema Nacional. Los integrantes del Sistema podrán remitir a la Secretaría propuestas para la modificación del presente manual, mismas que se presentarán por conducto de la Secretaría Ejecutiva con la debida anticipación para su presentación en la respectiva sesión del Sistema. La modificación será autorizada por mayoría de votos de los integrantes del Sistema.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
+El presente Manual podrá ser modificado a propuesta, motivada y fundada, de la Secretaría Ejecutiva o de los integrantes del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes. Los integrantes del Sistema podrán remitir a la Secretaría propuestas para la modificación del presente manual, mismas que se presentarán por conducto de la Secretaría Ejecutiva con la debida anticipación para su presentación en la respectiva sesión del Sistema. La modificación será autorizada por mayoría de votos de los integrantes del Sistema.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
 
 ###### Artículo 2.
 
-Los acuerdos, resoluciones y recomendaciones emitidos por el Sistema Nacional son vinculantes para todos sus integrantes; para asegurar su implementación se buscará la participación de las instituciones públicas o privadas, nacionales e internacionales, organismos públicos autónomos invitados del Sistema, así como la sociedad civil y de niñas, niños y adolescentes.
+Los acuerdos, resoluciones y recomendaciones emitidos por el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes son vinculantes para todos sus integrantes; para asegurar su implementación se buscará la participación de las instituciones públicas o privadas, nacionales e internacionales, organismos públicos autónomos invitados del Sistema, así como la sociedad civil y de niñas, niños y adolescentes.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
 
@@ -73,9 +85,11 @@ II. Autoridades locales: los órganos de gobierno con potestad de mando cuya com
 
 III. Comisiones: Las Comisiones a que hace referencia el artículo 129 de la Ley;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
 
-IV. Comisión especializada: Comisión especializada (sic): El grupo de treinta y dos personas expertas del ámbito académico en temas referentes al respeto, protección y promoción de los derechos de las niñas, niños y adolescentes representantes de cada una de las entidades federativas;
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+IV. Comisión especializada: El grupo de personas expertas del ámbito académico en temas referentes al respeto, protección y promoción de los derechos de las niñas, niños y adolescentes con conocimiento especializado en la situación que prevalece sobre la garantía de los derechos de niñas, niños y adolescentes a nivel nacional, regional o local;
 
 V. Enfoque basado en los derechos de las niñas, niños y adolescentes: Reconocimiento de las niñas, niños y adolescentes como personas titulares de derechos, con base en el respeto de su dignidad, vida, supervivencia, bienestar, salud, desarrollo, participación y no discriminación, garantizando integralidad en el disfrute de sus derechos;
 
@@ -165,7 +179,11 @@ XI. Realizar en el ámbito de su competencia, foros de consulta con personas exp
 
 XII. Diseñar e implementar de manera coordinada y permanente programas de formación integral y capacitación acerca del conocimiento y respeto de los derechos de niñas, niños y adolescentes;
 
-XIII. Supervisar que el ejercicio del presupuesto destinado a la protección de los derechos de niñas, niños y adolescentes se ejecute con enfoque de derechos hacia los mismos y congruencia con las prioridades que determine el Sistema Nacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+XIII. Informar a la población en general, en la primera sesión ordinaria del Sistema de cada año, los resultados del ejercicio de los recursos del año fiscal anterior destinados a la protección de los derechos de niñas, niños y adolescentes, a efecto de contribuir a la garantía de que éstos se ejecuten con enfoque de derechos hacia los mismos y en congruencia con las prioridades que determine el Sistema Nacional;
 
 > <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
@@ -173,11 +191,19 @@ XIV. Coadyuvar con la Secretaría Ejecutiva en la ejecución de acciones y proye
 
 XV. Las demás establecidas en la Ley, su Reglamento y el presente Manual.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 AGOSTO DE 2021)</small>
+
 ###### Artículo 6.
 
-El Sistema Nacional de Protección Integral podrá promover políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia de éstos.
+El Sistema Nacional podrá promover políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia de éstos.
 
-Las políticas de fortalecimiento familiar que promueva el Sistema Nacional de Protección Integral podrán contemplar por lo menos lo siguiente:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 AGOSTO DE 2021)</small>
+
+Las políticas de fortalecimiento familiar que promueva el Sistema Nacional podrán contemplar por lo menos lo siguiente:
 
 I. Un diagnóstico periódico para determinar las causas de separación de las niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
@@ -215,7 +241,11 @@ c) Los mecanismos de consulta y participación con niñas, niños y adolescentes
 
 d) Los mecanismos de participación con los sectores público, social y privado.
 
-VI. Dar seguimiento al ejercicio del presupuesto destinado a la protección de los derechos de niñas, niños y adolescentes de las autoridades locales, a fin de garantizar que éste se ejecute con enfoque de derechos hacia los mismos y congruencia con las prioridades que determine el Sistema Nacional, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+VI. Informar los resultados del ejercicio del presupuesto destinado a la protección de los derechos de niñas, niños y adolescentes de las autoridades locales, a fin de garantizar que éste se ejecute con enfoque de derechos hacia los mismos y congruencia con las prioridades que determinen tanto los Sistemas Estatales de Protección como el Sistema Nacional, y
 
 VII. Las demás que se acuerden al interior de los Sistemas Locales.
 
@@ -273,9 +303,11 @@ XIII. Diseñar con el apoyo de representantes de los sectores público, social, 
 
 XIV. Realizar, en coordinación con la Secretaría de Hacienda y Crédito Público y la Cámara de Diputados, análisis sobre la inversión pública con enfoque de derechos de la infancia y adolescencia, con el propósito de identificar los programas presupuestarios que coadyuvan al cumplimiento de alguno de los derechos de la infancia y evidenciar los vacíos temáticos para la atención integral de este grupo de población;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
 
-XV. Proponer al Sistema Nacional directrices para la asignación de recursos suficientes en los presupuestos de los integrantes del Sistema para el cumplimiento de los Acuerdos y Resoluciones emitidas por dicha instancia colegiada, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+XV. Proponer al Sistema Nacional, un documento tendiente a orientar a los integrantes del Sistema, a fin de que estos consideren la asignación de recursos dentro de sus procedimientos de presupuestación, en términos de las disposiciones jurídicas aplicables en la materia, con el objeto de que los integrantes del Sistema estén en posibilidad de dar cumplimiento a los acuerdos, resoluciones y recomendaciones emitidas respectivamente por la instancia Colegiada, el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional. Los integrantes del Sistema deberán observar las metodologías y mecanismos que establezcan las autoridades competentes en términos de la legislación en la materia para el seguimiento de los recursos asignados;
 
 XVI. Proponer mecanismos de recopilación de información para ser remitida a los órganos relevantes del Sistema Universal y del Sistema Regional de Derechos Humanos, en coordinación con la Secretaría de Relaciones Exteriores, y
 
@@ -341,11 +373,13 @@ VII. Emitir su voto en los asuntos planteados ante el Sistema Nacional. En caso 
 
 VIII. Las demás que le señale la Ley, su Reglamento y el presente Manual.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 AGOSTO DE 2021)</small>
 
 ###### Artículo 13.
 
-Además Las personas invitadas referidas en el artículo 127, párrafo tercero y sexto de la Ley tienen las obligaciones y derechos señalados en las fracciones I, III y V del artículo 12 del Manual, y podrán:
+Las personas invitadas referidas en el artículo 127, párrafo tercero y sexto de la Ley tienen las obligaciones y derechos señalados en las fracciones I, III y V del artículo 12 del Manual, y podrán:
 
 > <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
@@ -405,7 +439,11 @@ I. Requerir a los integrantes del Sistema Nacional realizar las acciones conduce
 
 II. Representar al Sistema Nacional en ámbitos públicos a nivel nacional e internacional;
 
-III. Señalar la fecha, la hora y el lugar para la celebración de las sesiones;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+III. Señalar la fecha, la hora y el lugar para la celebración de las sesiones; así como si se ha de celebrar de manera presencial o virtual a través de los medios de comunicación electrónica.
 
 IV. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
@@ -417,15 +455,21 @@ VII. Instruir a la Secretaría Ejecutiva que provea la información necesaria pa
 
 VIII. Convocar, por conducto de la Secretaría Ejecutiva, a sesiones ordinarias y extraordinarias;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
 
-IX. Declarar el diferimiento de la sesión por falta de quórum legal, en términos de lo previsto en este Manual;
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+IX. Declarar el diferimiento de la sesión por falta de quórum legal, en caso de fuerza mayor, caso fortuito, por medidas de austeridad o por imposibilidad material, en términos de lo previsto en este Manual;
 
 X. Dictar las medidas necesarias para la conservación del orden durante las sesiones;
 
 XI. Solicitar a la persona titular de la Secretaría Ejecutiva someter a votación los proyectos de acuerdo y resoluciones del Sistema Nacional;
 
-XII. Declarar, por causa de fuerza mayor, la suspensión temporal o definitiva de la sesión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+XII. Declarar, por causa de fuerza mayor, de caso fortuito, por medidas de austeridad o por imposibilidad material la suspensión temporal o definitiva de la sesión;
 
 XIII. Instruir la adopción de las medidas necesarias para el adecuado desarrollo de las sesiones del Sistema;
 
@@ -503,11 +547,19 @@ XXII. Las demás que le instruya la persona titular de la Presidencia y las que 
 
 El Sistema Nacional sesionará de forma ordinaria conforme lo establece el artículo 128 de la Ley, sin perjuicio de que se realicen sesiones extraordinarias cuando existan circunstancias que lo ameriten.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE ABRIL DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
+Para el caso de que el Sistema Nacional, por razones de medidas de austeridad, de fuerza mayor, caso fortuito o imposibilidad material no pudiera sesionar de manera presencial en la sede señalada para tal efecto; la persona titular de la Presidencia, por conducto del Secretario Ejecutivo del Sistema, podrá señalar que la misma se lleve a cabo de manera virtual a través de los medios de comunicación electrónica disponibles en el momento.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
 
 ###### Artículo 20.
 
-Para la realización de las sesiones del Sistema se tendrá como sede principal el Distrito Federal, pudiéndose reunir en otras entidades federativas cuando así lo determine la persona titular de la Presidencia del Sistema.
+Para la realización de las sesiones del Sistema se tendrá como sede principal la Ciudad de México, pudiéndose reunir en otras entidades federativas o virtualmente a través de medios de comunicación electrónica, cuando así lo determine la persona titular de la Presidencia del Sistema Nacional.
 
 > <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
@@ -523,7 +575,11 @@ Las sesiones extraordinarias tienen por objeto tratar asuntos que por su urgenci
 
 La convocatoria a las sesiones deberá contener como requisitos mínimos: fecha, hora, el lugar en que la misma se celebrará, su carácter ordinario o extraordinario, el orden del día, así como la documentación necesaria para la discusión de los asuntos.
 
-Para el envío de la convocatoria se enviará preferentemente por medios electrónicos de comunicación, a criterio de la Secretaría Ejecutiva.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 AGOSTO DE 2021)</small>
+
+En el caso de que la sesión se pretenda realizar de manera virtual a través de medios de comunicación electrónica, se tendrá que establecer además de los requisitos señalados en el párrafo que precede; el medio electrónico, plataforma electrónica, programa informático o aplicación móvil a través del cual se va a desarrollar la sesión que se trate, los requerimientos necesarios para la realización de la sesión, así como la clave que dará el acceso a los miembros e invitados del Sistema. Esta información será de carácter confidencial e intransferible, más que en los casos de suplencias contemplados en el presente Manual.
 
 ###### Artículo 24.
 
@@ -537,15 +593,29 @@ Para que el Sistema Nacional pueda sesionar, es necesario que estén presentes l
 
 El día y hora fijados para la sesión, reunidas las personas integrantes del Sistema, la persona titular de la Secretaría Ejecutiva determinará la existencia del quórum asentándolo en el acta respectiva.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
+De ser el caso que, la sesión se vaya a realizar de manera virtual a través de medios de comunicación electrónica; la propia Secretaría Ejecutiva del Sistema, determinará el mecanismo que considere adecuado para verificar el cumplimiento del presente artículo.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 27.
 
 Si llegada la hora prevista para la sesión, no estuviere presente la mitad más uno de sus integrantes con derecho a voz y voto pero estuviere la persona titular de la Presidencia, ésta dará, a su consideración, un plazo de espera que considere pertinente.
 
-Si transcurrido dicho plazo no se lograra la integración del quórum, en caso de celebrarse una sesión ordinaria, la persona titular de la Presidencia, tomará las medidas necesarias para el diferimiento de la misma, lo que se hará constar en el acta correspondiente.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
 
-En este supuesto, la persona titular de la Presidencia, previo acuerdo con las personas integrantes del Sistema y personas invitadas, iniciará una sesión de trabajo y el resultado de la sesión podrá tomarse como base para la toma de acuerdos en el desahogo de la sesión diferida, la cual se realizará cuando lo determine la persona titular de la Presidencia.
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
+Si transcurrido dicho plazo no se lograra la integración del quórum, en caso de celebrarse una sesión ordinaria, la persona titular de la Presidencia, tomará las medidas necesarias para el diferimiento de la misma, lo que se hará constar en el acta correspondiente. Siendo aplicable en el mismo sentido, si por cuestiones atribuibles a problemas tecnológicos fuera imposible la realización de la sesión.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
+En estos supuestos, la persona titular de la Presidencia, previo acuerdo con las personas integrantes del Sistema y personas invitadas, iniciará una sesión de trabajo y el resultado de la sesión podrá tomarse como base para la toma de acuerdos en el desahogo de la sesión diferida, la cual se realizará cuando lo determine la persona titular de la Presidencia.
 
 En el supuesto de las asambleas extraordinarias las personas integrantes del Sistema, en uso de la facultad conferida por el artículo 4 del presente Manual, podrá sesionar válidamente con la concurrencia de una tercera parte de los integrantes presentes con derecho a voz y voto incluida la persona titular de la Presidencia o en su defecto su suplente.
 
@@ -567,6 +637,12 @@ Durante la sesión, los asuntos contenidos en el orden del día serán analizado
 
 En cada punto del orden del día, la persona titular de la Presidencia, con el auxilio de la persona titular de la Secretaría Ejecutiva, cederá la palabra a las personas asistentes que quieran hacer uso de ésta.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
+En las sesiones que se realicen de manera virtual a través de medios de comunicación electrónica, las personas asistentes que quieran hacer uso de la palabra, deberán solicitar la misma mediante las herramientas que ofrezca la plataforma digital, ya sea de manera escrita o hablada; en su defecto, mediante cualquier medio electrónico que permita a la persona titular de la Secretaría Ejecutiva identificar la solicitud de intervención en la sesión; quien una vez que identifique la petición deberá conceder la misma en el momento procesal oportuno.
+
 > <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 Concluido el intercambio de opiniones, la persona titular de la Secretaría Ejecutiva preguntará a las personas asistentes si está suficientemente discutido el asunto y en caso de estarlo, se realizará la votación correspondiente.
@@ -586,6 +662,12 @@ Las personas integrantes del Sistema Nacional con derecho a voto, lo harán expr
 La votación se tomará en el siguiente orden: se contarán los votos a favor, los votos en contra y, en su caso, las abstenciones.
 
 En caso de empate, la persona titular de la Presidencia tendrá voto de calidad.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
+Para el caso de que exista duda sobre la votación emitida en las sesiones virtuales a través de medios de comunicación electrónica, la persona titular de la Secretaria Ejecutiva del Sistema en el uso de sus atribuciones, podrá proponer el mecanismo que considere adecuado para el conteo de la votación, utilizando los medios tecnológicos disponibles en el momento; manteniendo el orden de la sesión que se lleve a cabo y privilegiando la certeza, legalidad y la transparencia del proceso.
 
 > <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
@@ -611,7 +693,11 @@ De cada sesión de Sistema, la Secretaría Ejecutiva levantará un proyecto de a
 
 I. Lugar, fecha, hora de inicio y terminación de la sesión,
 
-II. Tipo de sesión (ordinaria o extraordinaria),
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+II. Tipo de sesión (ordinaria o extraordinaria) y especificar si se celebra de manera presencial o virtual a través de medios de comunicación electrónica,
 
 III. Nombre y cargo de las personas asistentes y la institución, organismo o entidad a la que representan,
 
@@ -819,11 +905,13 @@ Las Comisiones tendrán por objeto la determinación de los mecanismos interinst
 
 (DEROGADO, D.O.F. 4 DE ABRIL DE 2018)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 AGOSTO DE 2021)</small>
 
 ###### Artículo 62.
 
-El Sistema Nacional tendrá una Comisión Especializada de análisis en lo relativo al respeto, protección y promoción de los derechos, que estará conformada por una persona experta en la materia del ámbito académico, que será nombrada por cada uno de los Sistemas Locales.
+El Sistema Nacional tendrá una Comisión Especializada de análisis en lo relativo al respeto, protección y promoción de los derechos de niñas, niños y adolescentes, que estará conformada por personas expertas del ámbito académico en materia de los derechos de niñas, niños y adolescentes integrantes de institutos, centros de investigación o universidades, públicas o privadas, a nivel nacional, regional o local, que será votada por el Sistema Nacional, a propuesta de la Secretaría Ejecutiva del Sistema Nacional, quien a su vez podrá realizar una consulta con la Secretarías Ejecutivas estatales sobre las personas expertas en la materia en sus entidades federativas.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
@@ -847,9 +935,13 @@ La Secretaría Ejecutiva y la Coordinación de las Comisiones proveerán los ins
 
 ### CAPÍTULO XII. Del Consejo Consultivo
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
 ###### Artículo 65.
 
-El Sistema Nacional de Protección Integral, conforme al artículo 145 de la Ley, contará con un Consejo Consultivo con veinte integrantes, cuya integración y funcionamiento se atendrá a lo dispuesto en el Capítulo III Título Segundo del Reglamento.
+El Sistema Nacional, conforme al artículo 145 de la Ley, contará con un Consejo Consultivo con veinte integrantes, cuya integración y funcionamiento se atendrá a lo dispuesto en el Capítulo III Título Segundo del Reglamento.
 
 ### CAPÍTULO XIII. Del Programa Nacional y Programas Locales de Protección
 
@@ -877,7 +969,11 @@ I. Las políticas, objetivos, estrategias, líneas de acción prioritarias, meta
 
 II. Contemplar por lo menos los siguientes tipos de indicadores: de gestión, de resultado, de servicios y estructurales a fin de medir la cobertura, calidad e impacto de dichas estrategias y líneas de acción prioritarias;
 
-III. La estimación de los recursos, fuentes de financiamiento, así como la determinación de los instrumentos financieros que podrán requerir las dependencias y entidades de los tres órdenes de gobierno responsables de la ejecución de los distintos Programas;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 AGOSTO DE 2021)</small>
+
+III. Elaborar sus anteproyectos de presupuesto considerando los objetivos de sus respectivos programas Nacional o Locales, considerando las disposiciones que emita la autoridad Hacendaria para tales fines;
 
 IV. Los mecanismos que aseguren una ejecución coordinada de los distintos Programas por parte de las autoridades de los distintos órdenes de gobierno;
 
@@ -905,9 +1001,13 @@ La Secretaría Ejecutiva podrá emitir recomendaciones para que los Programas Lo
 
 ### CAPÍTULO XIV. De la Evaluación de las Políticas Vinculadas con la Protección de los Derechos de Niñas, Niños y Adolescentes
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
 ###### Artículo 73.
 
-Las Secretarías Ejecutivas de los Sistemas Locales ajustarán sus lineamientos para la evaluación de los programas y acciones en materia de derechos de niñas, niños y adolescentes estatales con base a los lineamientos que apruebe el Sistema Nacional.
+Las Secretarías Ejecutivas de los Sistemas Locales coordinarán esfuerzos con autoridades de evaluación de la políticas y programas sociales a fin de valorar la pertinencia de emitir lineamientos o algún otro instrumento jurídico para la evaluación de los programas y acciones en materia de derechos de niñas, niños y adolescentes estatales con excepción de los programas y políticas sociales cuya evaluación esté a cargo de los órganos establecidos en la legislación estatal especializada en la materia.
 
 ###### Artículo 74.
 
@@ -929,9 +1029,13 @@ V. Los mecanismos para la participación de niñas, niños y adolescentes, en t�
 
 VI. Los que establezcan las disposiciones jurídicas y administrativas aplicables.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 AGOSTO DE 2021)</small>
+
 ###### Artículo 76.
 
-Las dependencias y entidades que formen parte de los Sistemas Locales que tengan a su cargo programas, acciones o recursos destinados a la protección de los derechos de niñas, niños y adolescentes establecidos en el Título Segundo de la Ley, realizarán las evaluaciones de sus programas, acciones y recursos, con base en los lineamientos que se emitan para tales efectos.
+Las dependencias y entidades que formen parte de los Sistemas Locales que tengan a su cargo programas, acciones o recursos destinados a la protección de los derechos de niñas, niños y adolescentes establecidos en el Título Segundo de la Ley, realizarán las evaluaciones de sus programas, acciones y recursos, con base en los lineamientos que se emitan para tales efectos, con excepción de los programas y políticas sociales cuya evaluación esté a cargo de los órganos establecidos en la legislación local.
 
 ###### Artículo 77.
 
@@ -1013,9 +1117,13 @@ Las bases de datos sobre niñas, niños y adolescentes migrantes a que se refier
 
 ### CAPÍTULO XIX. Del Registro de Autorizaciones de Profesionales en materia de Trabajo Social y Psicología o carreras afines para intervenir en procedimientos de adopción
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 31 AGOSTO DE 2021)</small>
+
 ###### Artículo 86.
 
-El Sistema Nacional DIF operará un registro de autorizaciones de profesionales en materia de trabajo social y psicología o carreras afines de acuerdo a lo establecido en el Capítulo V, Título Cuarto del Reglamento. Los Sistemas Locales podrán apegarse a lo establecido en dicho ordenamiento, sin perjuicio de lo que se para tales fines se establezca en la leyes locales y sus respectivos reglamentos.
+El Sistema Nacional DIF operará un registro de autorizaciones de profesionales en materia de trabajo social y psicología o carreras afines de acuerdo con lo establecido en el Capítulo V, Título Cuarto del Reglamento. Los Sistemas Locales podrán apegarse a lo establecido en dicho ordenamiento, sin perjuicio de lo que se (sic) para tales fines se establezca en las leyes locales y sus respectivos reglamentos.
 
 ### CAPÍTULO XX. De las acciones de protección de niñas, niños y adolescentes
 
@@ -1023,7 +1131,11 @@ El Sistema Nacional DIF operará un registro de autorizaciones de profesionales 
 
 La Procuraduría Federal coordinará las medidas para prevenir, atender y sancionar los casos en que los derechos de las niñas, niños o adolescentes se vean afectados, en particular por cualquiera de los supuestos previstos en el artículo 47 de la Ley de acuerdo a lo señalado en el Título Quinto del Reglamento.
 
-Las Procuradurías de Protección Locales podrán ceñirse a estas disposiciones, sin menoscabo de lo que señalen la leyes locales y sus respectivos reglamentos.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 31 AGOSTO DE 2021)</small>
+
+Las Procuradurías de Protección Locales podrán ceñirse a estas disposiciones, sin menoscabo de lo que señalen las leyes locales y sus respectivos reglamentos.
 
 ### CAPÍTULO XXI. De las medidas de protección especial
 
@@ -1064,3 +1176,19 @@ México, D.F., a 2 de diciembre de 2015.- El Secretario Ejecutivo del Sistema Na
 D.O.F. 4 DE ABRIL DE 2018.
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3O. DEL CÓDIGO CIVIL VIGENTE FEDERAL.]</small>
+
+D.O.F 31 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS Y ADICIONES A LAS DIVERSAS DISPOSICIONES DEL MANUAL DE ORGANIZACIÓN Y OPERACIÓN DEL SISTEMA NACIONAL PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+ÚNICO.- Las reformas y adiciones al Manual de Organización y Operación del Sistema Nacional de Protección Integral, aprobadas mediante Acuerdo 03/2020 del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, de fecha 10 de noviembre del 2020, estarán disponibles en los siguientes vínculos web:
+
+https://www.gob.mx/cms/uploads/attachment/file/655160/Manual_Org_Op_SIPINNA.pdf
+
+http://www.dof.gob.mx/2021/SEGOB/Manual_Org_Op_SIPINNA.pdf
+
+## [N. DE E. TRANSITORIO DEL “AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS Y ADICIONES A LAS DIVERSAS DISPOSICIONES DEL MANUAL DE ORGANIZACIÓN Y OPERACIÓN DEL SISTEMA NACIONAL DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES”
+
+ÚNICO.- El presente Aviso entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
