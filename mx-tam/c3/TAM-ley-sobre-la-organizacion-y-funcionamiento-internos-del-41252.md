@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-07-06"
+last_updated: "2021-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2727,6 +2727,10 @@ El acta que se levante de cada sesión deberá contener una relación sucinta de
 
 2. Como parte del Parlamento Abierto, el Congreso del Estado convocará a la ciudadanía a participar en la realización de parlamentos mediante el formato de un ejercicio simulado de asamblea plenaria, así como a otros espacios de participación en los que las personas expresen y formulen propuestas con relación a los diferentes temas de su entorno social.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2021)</small>
+
+3. En la página oficial electrónica del Congreso del Estado, se establecerá un buzón digital que estará permanentemente al servicio de la ciudadanía para recibir propuestas, opiniones y sugerencias con relación a las iniciativas presentadas que se encuentren pendientes de dictaminar, de las cuales se hará entrega para su conocimiento con el carácter de material informativo a las y los Diputados integrantes de las comisiones dictaminadoras del asunto al que se refieran, o de la diputación permanente en su caso. Este espacio de participación ciudadana se establece sin demérito de los mecanismos de parlamento abierto considerados en este artículo. El Presidente de la Mesa Directiva procurará su difusión y promoción entre la ciudadanía de todo el Estado.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -3440,3 +3444,11 @@ P.O. 6 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su expedición.
+
+P.O. 31 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-628 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 168 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
