@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-del-deporte-de-la-ciudad-de-137
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-08-02"
-last_updated: "2019-08-02"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137392&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-07-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2021.
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el viernes 2 de agosto de 2019.
 
@@ -170,7 +170,21 @@ VIII. Manual: El Manual de la Junta de Gobierno.
 
 IX. Organismo: El Instituto del Deporte de la Ciudad de México;
 
-X. Órganos-político-administrativos: Alcaldías, Organismos Públicos Centralizados y Descentralizados, y en general todas y cada una de las dependencias que integran los tres niveles de Gobierno;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+X. Órganos-político-administrativos:
+
+a) Dependencias
+
+b) Órganos desconcentrados
+
+c) Alcaldías
+
+d) Entidades (se entiende sector paraestatal y no paraestatal)
+
+e) Órganos de Gobierno y
+
+f) Autónomos;
 
 XI. Programa: El Programa del Deporte del Distrito Federal;
 
@@ -184,9 +198,15 @@ XIV. Sistema: El Sistema de Cultura Física y Deporte de la Ciudad de México;
 
 El Instituto conducirá sus actividades con base en los objetivos, estrategias y políticas que le confiere la Ley, el Estatuto Orgánico y el Programa General de Desarrollo de la Ciudad de México, así como los programas que de éste se deriven, de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 6.
 
-Es objetivo del Instituto, fomentar e impulsar la Cultura Física y el Deporte, a través de programas sociales y acciones coordinadas con organismos públicos y privados, para mejorar la calidad de vida de los habitantes de la Ciudad de México, así como coadyuvar en la formación de deportistas de alto rendimiento en el marco de una política inclusiva, que representen y posicionen a la Ciudad de México a nivel Nacional e Internacional.
+Es objetivo del Instituto, fomentar e impulsar la Cultura Física y el Deporte, a través de programas sociales y acciones coordinadas con organismos públicos y privados, para mejorar la calidad de vida de los habitantes de la Ciudad de México, así como coadyuvar en la formación de deportistas de alto rendimiento en el marco de una política inclusiva, que representen y posicionen a la Ciudad de México a nivel nacional e internacional; reconociendo el derecho de las personas al conocimiento, difusión y práctica del deporte, con prohibición de toda forma de discriminación; fomentando programas que atiendan y eliminen la discriminación en el deporte y actividades físicas; asimismo creando e implementando protocolos para eliminar y erradicar la violencia hacia las mujeres.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 6 bis. El Instituto reconoce el derecho de las personas al conocimiento, difusión y práctica del deporte y prohíbe toda forma de discriminación; asimismo creará e implementará protocolos para eliminar y erradicar la violencia hacia las mujeres y fomentará programas y acciones que promuevan una mayor participación de las mismas en el deporte y la actividad física.
 
 ###### Artículo 7.
 
@@ -510,11 +530,21 @@ XIV. Proponer a la Junta de Gobierno, la aplicación y distribución de los recu
 
 XV. Proponer las directrices en materia deportiva con los Órganos Político- Administrativos;
 
-XVI. Someter a la aprobación de la Junta de Gobierno los programas sociales que implemente el Instituto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XVII. Realizar el proceso para la designación de la persona deportista que deba ser distinguida con el Premio al Mérito Deportivo de la Ciudad de México, y;
+XVI. Promover, en su caso, los protocolos para erradicar cualquier tipo de violencia y/o discriminación en el deporte, y ratificar el protocolo único para dar cumplimiento a los programas y líneas de acción para prevenir y eliminar la discriminación y violencia de género en el Deporte de la Ciudad de México, a efecto de dar cumplimiento a lo establecido en la Ley de Educación Física y Deporte del Distrito Federal, así mismo coadyuvar para su cumplimiento con los Órganos Político Administrativos de la Ciudad de México.
 
-XVIII. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, en los términos de las disposiciones legales y administrativas aplicables.
+(REUBICADA, G.O. 1 DE SEPTIEMBRE DE 2021)
+
+XVII. Someter a la aprobación de la Junta de Gobierno los programas sociales que implemente el Instituto;
+
+(REUBICADA, G.O. 1 DE SEPTIEMBRE DE 2021)
+
+XVIII. Realizar el proceso para la designación de la persona deportista que deba ser distinguida con el Premio al Mérito Deportivo de la Ciudad de México, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, en los términos de las disposiciones legales y administrativas aplicables.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENERALES DE LAS DIRECCIONES, LA COORDINACIÓN DE COMUNICACIÓN Y ALIANZAS ESTRATÉGICAS Y DE LA SUBDIRECCIÓN DE ASUNTOS JURÍDICOS
 
@@ -558,7 +588,17 @@ XVI. Proporcionar, previo acuerdo con la persona titular de la Dirección Genera
 
 XVII. Dirigir las acciones que en el ámbito de su competencia, establezca el Sistema;
 
-XVIII. Las demás que le confieren otras disposiciones legales y aquellas que le establezca la persona titular de la Dirección General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Participar en la elaboración del protocolo único del Instituto del Deporte de la Ciudad de México e implementarlo en el ámbito de su competencia, a fin de erradicar cualquier tipo de violencia y/o discriminación en el deporte.
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Promover medidas para la prevención de cualquier tipo de violencia y/o discriminación en el Deporte, a través de programas y líneas de acciones de acuerdo a lo establecido en el articulo 13 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicios de Recursos de la Ciudad de México.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Las demás que le confieren otras disposiciones legales y aquellas que le establezca la persona titular de la Dirección General.
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN EJECUTIVA DE PROMOCIÓN Y DESARROLLO DE LA CULTURA FÍSICA Y EL DEPORTE
 
@@ -843,3 +883,13 @@ Ciudad de México a 3 de Julio de 2019
 Mtro. Rodrigo Dosal Ulloa
 
 Director General del Instituto del Deporte de la Ciudad de México
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 4, EL ARTÍCULO 6, SE ADICIONA EL ARTÍCULO 6 BIS, SE ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 17 Y SE ADICIONAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 18 DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. – Publíquese la presente reforma en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. – El presente acuerdo de reforma entrará en vigor al día siguiente de su publicación.
