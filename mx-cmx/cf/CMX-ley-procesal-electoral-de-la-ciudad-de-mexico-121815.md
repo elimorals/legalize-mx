@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-de-la-ciudad-de-mexico-121815"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-07"
-last_updated: "2020-07-29"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -1664,11 +1664,69 @@ El Tribunal hará la publicación de los criterios obligatorios dentro de los se
 
 La Jurisprudencia emitida por el Tribunal obligará a las autoridades electorales de la Ciudad de México, formales o materiales, así como en lo conducente, a los partidos políticos.
 
-### CAPÍTULO I. Del Juicio Electoral
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO XIV. Del Sistema de Justicia Digital Electoral
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 101 Bis.
+
+El Sistema de Justicia Digital Electoral es el conjunto de medios y recursos electrónicos, que permiten la tramitación y sustanciación de un proceso jurisdiccional competencia del Tribunal Electoral, con mayor eficiencia y eficacia, a fin de resolver las controversias que se sometan a su jurisdicción.
+
+Las controversias de las que conozca el Tribunal Electoral serán resueltas de conformidad con los principios de certeza, imparcialidad, objetividad, legalidad, probidad, uso de las tecnologías de la información y comunicación, salvaguardando en todo momento los derechos humanos de las personas justiciables.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 101 Ter.
+
+El Sistema de Justicia Digital Electoral se integrará por las herramientas informáticas y soluciones digitales de comunicación e información que al efecto el Tribunal Electoral adquiera o desarrolle, con el fin de constituir un sistema que funja como una opción de acceso a la justicia para la ciudadanía.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 101 Quater.
+
+Para la implementación del Sistema de Justicia Digital Electoral deberán observarse los lineamientos que al efecto emita el Pleno del Tribunal Electoral; los cuales se regirán con base en los criterios de confiabilidad, certeza, seguridad, accesibilidad, eficiencia y transparencia; además deberán atender de forma enunciativa, más no limitativa a las siguientes características:
+
+I. El uso de una Firma Electrónica Certificada o Firma Electrónica Avanzada, la cual producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad de los documentos, tendrá el mismo valor probatorio, en la presentación de las demandas y la interposición de los recursos, así como en cualquier promoción dentro del expediente respectivo;
+
+II. El cumplimiento de los requisitos establecidos en la presente Ley;
+
+III. El procedimiento para que las autoridades señaladas como responsables puedan dar cumplimiento a lo dispuesto por los artículos 76, 77 y 78 de la presente Ley;
+
+IV. El derecho de los terceros interesados de comparecer, electrónicamente, a través del Sistema de Justicia Digital Electoral o físicamente;
+
+V. Desarrollar el procedimiento para la sustanciación del expediente electrónico en donde se establecerán los mismos plazos que concurren para el trámite en formato físico;
+
+VI. La reserva y protección de datos personales de conformidad con lo establecido por la ley de la materia;
+
+VII. El derecho de las partes de solicitar la reproducción simple o certificada de cualquier constancia que obre en el expediente electrónico, lo cual se autorizará mediante acuerdo del Magistrado que corresponda;
+
+VIII. Las resoluciones que emita el Tribunal podrán constar por escrito ya sea de manera impresa o digital, y, una vez aprobadas por el Pleno en la sesión que corresponda, digitalizarse y firmarse con el Certificado Digital de la Firma Electrónica que corresponda;
+
+IX. La plataforma deberá contar con un diseño que permita a cualquier grupo de atención prioritaria utilizarla;
+
+X. Se establezca el Protocolo para la integración, resguardo y manejo de los expedientes electrónicos, entre otras medidas para el tratamiento de los expedientes electrónicos;
+
+XI. Establecer la formación de expedientes en físico que funjan como respaldo al expediente electrónico, los cuales podrán ser cotejados en todo momento;
+
+XII. El Sistema deberá contener apartados para la consulta de expedientes electrónicos, la interposición de los medios de impugnación, la ampliación de éstos, la presentación de promociones, y el soporte técnico;
+
+XIII. El Sistema deberá contar con una bitácora mediante la cual se registre el ingreso o consulta de cualquier documento de los expedientes electrónicos, debiéndose almacenar toda la actividad que realicen las personas usuarias en el Sistema;
+
+XIV. En caso de que se considere la acumulación de dos o más expedientes, en los que uno o varios de ellos no se hubieren conocido por esta vía, su sustanciación seguirá por la vía que cada uno fue promovido; su acumulación procederá hasta el dictado de la resolución correspondiente;
+
+XV. Establecer un catálogo de irregularidades en que puedan incurrir las personas servidoras públicas en el acceso y manejo a los expedientes electrónicos;
+
+XVI. Uso de sello y documentos electrónicos, en todas sus modalidades, en la elaboración de todo tipo de escritos, resoluciones, oficios, diligencias y demás actuaciones dentro del expediente electrónico;
+
+XVII. Admisión en el desahogo de comunicaciones, exhortos, oficios, audiencias y diligencias judiciales mediante correo electrónico, mensaje de datos, videograbación, videoconferencia o cualquier otro formato electrónico que lo permita, previamente autorizado por el Tribunal y;
+
+XVIII. Instauración de una Oficialía de Partes Virtual que facilite la presentación de demandas, escritos iniciales o cualquier tipo de promociones, con sus anexos, en forma electrónica y, al mismo tiempo, se integre el expediente electrónico.
 
 ## TÍTULO TERCERO. De los Medios de Impugnación en Particular
 
-### CAPÍTULO II. De las Nulidades
+### CAPÍTULO I. Del Juicio Electoral
 
 ###### Artículo 102.
 
@@ -1748,7 +1806,7 @@ Cuando en la sección de ejecución, por efecto de la acumulación de las resolu
 
 Los juicios electorales por los que se impugnen cómputos totales y constancias de mayoría o asignación, deberán ser resueltos a más tardar treinta días antes de la toma de posesión de Diputaciones, Alcaldías y concejales o Jefatura de Gobierno.
 
-### CAPÍTULO III. Del Juicio para la Protección de los Derechos Político-Electorales de los Ciudadanos
+### CAPÍTULO II. De las Nulidades
 
 ###### Artículo 111.
 
@@ -1914,7 +1972,7 @@ Será nulo el proceso electivo o democrático respecto de una colonia o pueblo o
 
 Cuando el Instituto acuerde la utilización de dispositivos electrónicos para la recepción de la votación en los procesos electorales, el Consejo General del Instituto deberá notificarlo de manera inmediata al Tribunal, para el efecto de que éste, emita un acuerdo plenario en el cual establecerá las causales de nulidad. Dicho acuerdo será notificado por oficio al Consejo General del Instituto y a las representaciones de los partidos políticos ante dicho órgano, y publicado de manera oportuna en la Gaceta Oficial, en los estrados del Tribunal y en el Sitio de Internet del Tribunal.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Del Juicio para la Protección de los Derechos Político-Electorales de los Ciudadanos
 
 ###### Artículo 122.
 
@@ -2000,7 +2058,7 @@ El juicio para la protección de los derechos político-electorales de la ciudad
 
 ## TÍTULO PRIMERO. De los Procedimientos Especiales
 
-### CAPÍTULO II. De la Demanda
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 126.
 
@@ -2280,7 +2338,7 @@ Se tendrá por desistido de la acción intentada a toda persona servidora públi
 
 Cuando se solicite que se tenga por desistido el actor de las acciones intentadas, la Magistratura Instructora o la Comisión citarán a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento y dictarán resolución.
 
-### CAPÍTULO III. De las Pruebas
+### CAPÍTULO II. De la Demanda
 
 ###### Artículo 145.
 
@@ -2302,7 +2360,7 @@ VI. Asentar la firma autógrafa de la parte promovente; en caso de no contener �
 
 Si al presentarse una demanda la persona servidora pública omite mencionar los preceptos en que la funda o lo hace de manera incorrecta, el Pleno emitirá su resolución tomando en consideración los que debieron ser invocados.
 
-### CAPÍTULO IV. De la Audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas
+### CAPÍTULO III. De las Pruebas
 
 ###### Artículo 147.
 
@@ -2498,7 +2556,7 @@ Para el caso de las pruebas documentales originales que sean presentadas por la 
 
 Si el medio de perfeccionamiento únicamente consiste en la ratificación de contenido y firma del probable suscriptor, éste deberá ser citado para tales efectos, con el apercibimiento que de no comparecer a la audiencia respectiva se tendrán por perfeccionados los documentos objetados.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IV. De la Audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas
 
 ###### Artículo 165.
 
@@ -2622,7 +2680,7 @@ Para conocer y resolver respecto a resoluciones laborales, revisión de los acto
 
 ## TÍTULO SEGUNDO. Del Juicio de Inconformidad Administrativa
 
-### CAPÍTULO II. De las Partes
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 175.
 
@@ -2646,7 +2704,7 @@ Si son varios los actores o las autoridades responsables, deberán designar una 
 
 Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomendarán a las secretarias o secretarios o a actuarios del propio órgano jurisdiccional.
 
-### CAPÍTULO III. De las Notificaciones y de los Plazos
+### CAPÍTULO II. De las Partes
 
 ###### Artículo 179.
 
@@ -2672,7 +2730,7 @@ Las partes podrán designar personas solamente autorizadas para oír notificacio
 
 La Magistratura Instructora o la Comisión, al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
 
-### CAPÍTULO IV. De los Impedimentos
+### CAPÍTULO III. De las Notificaciones y de los Plazos
 
 ###### Artículo 182.
 
@@ -2754,7 +2812,7 @@ II. Se contarán por días hábiles.
 
 Durante los procesos electorales, electivos o democráticos, en razón de las cargas jurisdiccionales, el Pleno podrá suspender la sustanciación de los juicios de inconformidad administrativa y no transcurrirán términos procesales, ni podrá ordenarse desahogo de diligencia alguna; salvo por lo que se refiere a los plazos para la presentación de la demanda, los cuales seguirán transcurriendo.
 
-### CAPÍTULO V. De la Demanda y Contestación
+### CAPÍTULO IV. De los Impedimentos
 
 ###### Artículo 192.
 
@@ -2772,7 +2830,7 @@ Al interponer la recusación con causa, las partes interesadas aportarán las pr
 
 Si se declara nuevamente infundada la recusación interpuesta, el Pleno decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la hace valer y, en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, en la fecha en que se interpuso la recusación.
 
-### CAPÍTULO VI. De la Suspensión
+### CAPÍTULO V. De la Demanda y Contestación
 
 ###### Artículo 194.
 
@@ -2828,7 +2886,7 @@ Las autoridades responsables en su informe justificado, se referirán a cada uno
 
 Si la autoridad responsable no rindiera el informe justificado dentro del plazo señalado en el artículo anterior, la Magistratura Instructora o la Comisión, declarará la preclusión correspondiente y tendrá por cierto el acto reclamado, salvo prueba en contrario.
 
-### CAPÍTULO VII. De las Pruebas
+### CAPÍTULO VI. De la Suspensión
 
 ###### Artículo 199.
 
@@ -2848,7 +2906,7 @@ La suspensión podrá ser revocada por el Pleno en cualquier etapa del juicio, s
 
 Será causa de responsabilidad administrativa la violación de la suspensión otorgada por el Pleno, para tal efecto, la Comisión dará vista a la Contraloría que corresponda, y si las o los probables responsables fueran los titulares de las Contralorías del Instituto o del Tribunal, se dará vista a los respectivos órganos superiores de dirección, al Congreso de la Ciudad de México, y a la autoridad ministerial para que determinen lo que conforme a Derecho proceda.
 
-### CAPÍTULO VIII. De la Improcedencia y el Sobreseimiento
+### CAPÍTULO VII. De las Pruebas
 
 ###### Artículo 201.
 
@@ -2902,7 +2960,7 @@ II. Interés directo o indirecto en el juicio; y
 
 III. Ser inquilina o inquilino, arrendadora o arrendador, tener amistad estrecha o enemistad manifiesta, o tener relaciones de índole económico con cualquiera de las partes.
 
-### CAPÍTULO IX. De la Audiencia
+### CAPÍTULO VIII. De la Improcedencia y el Sobreseimiento
 
 ###### Artículo 207.
 
@@ -2940,7 +2998,7 @@ V. Cuando no se haya efectuado acto procesal alguno durante el término de cient
 
 Procederá el sobreseimiento en el último caso, si la promoción no realizada es necesaria para la continuación del juicio.
 
-### CAPÍTULO X. De la Sentencia
+### CAPÍTULO IX. De la Audiencia
 
 ###### Artículo 209.
 
@@ -2976,7 +3034,7 @@ Una vez cerrada la instrucción, dentro de los treinta días hábiles siguientes
 
 El plazo señalado en el párrafo anterior, podrá duplicarse mediante acuerdo del magistrado instructor o de la Comisión, en virtud de la complejidad del asunto o del número de las constancias que integren el expediente, lo cual deberá ser notificado a las partes de manera personal.
 
-### CAPÍTULO XI. Del Cumplimiento de la Sentencia
+### CAPÍTULO X. De la Sentencia
 
 ###### Artículo 214.
 
@@ -3010,7 +3068,7 @@ El Pleno dictará las correcciones disciplinarias correspondientes, en aquellos 
 
 Para tal efecto, podrá hacer uso de cualquiera de los medios de apremio previstos en ésta ley.
 
-### CAPÍTULO XII. De la Regularización del Procedimiento
+### CAPÍTULO XI. Del Cumplimiento de la Sentencia
 
 ###### Artículo 217.
 
@@ -3019,6 +3077,8 @@ El actor podrá acudir en queja al Pleno, en caso de incumplimiento de la senten
 Una vez transcurrido el plazo referido, el Pleno resolverá a propuesta del magistrado instructor, si la autoridad ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que cumpla en un plazo de cinco días hábiles, amonestándola y previniéndola de que, en caso, de renuencia se le impondrá una multa de cincuenta a ciento ochenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 En todo caso, para hacer cumplir sus resoluciones, el Tribunal podrá proceder en términos de los artículos 113 y 114 de la presente ley.
+
+### CAPÍTULO XII. De la Regularización del Procedimiento
 
 ###### Artículo 218.
 
@@ -3093,3 +3153,17 @@ SEXTO.- Los subsecuentes nombramientos que se lleven a cabo con motivo de la apl
 SÉPTIMO.- Para garantizar el principio de paridad de género en la postulación de candidaturas a los cargos de elección popular en los próximos procesos electorales, el Instituto Electoral aplicará los lineamientos utilizados en el Proceso Electoral Ordinario 2017-2018.
 
 Los Distritos Electorales y Demarcaciones Territoriales se ordenarán de mayor a menor conforme al porcentaje de votación obtenido en el proceso electoral anterior, y se dividirán en tres bloques de competitividad, y en caso de remanente, éste se considerará en el bloque de competitividad alta.
+
+G.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN CAPÍTULO XIV, DEL SISTEMA DE JUSTICIA DIGITAL ELECTORAL, AL TÍTULO SEGUNDO REGLAS COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACIÓN, DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Remitase a la persona titular de la Jefatura de Gobierno para su Promulgación y Publicación en la Gaceta Oficial de la Cuidad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+
+Cuarto.- El Pleno del Tribunal Electoral de la Ciudad de México deberá emitir los lineamientos a que se refiere el artículo 101 Quáter, en los 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Quinto.- El Pleno del Tribunal Electoral de la Ciudad de México deberá realizar las adecuaciones sin exceder sus presupuestos autorizados y cumpliendo con las metas y objetivos de sus programas operativos y de conformidad con el artículo 7 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México; lo anterior bajo los principios de austeridad, generalidad, la sustentabilidad, honradez, proporcionalidad, equidad, efectividad, certidumbre, transparencia y rendición de cuentas.
