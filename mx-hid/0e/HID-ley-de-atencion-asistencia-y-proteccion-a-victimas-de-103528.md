@@ -4,7 +4,7 @@ identifier: "HID-ley-de-atencion-asistencia-y-proteccion-a-victimas-de-103528"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2017-12-11"
+last_updated: "2021-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE ATENCION, ASISTENCIA Y PROTECCION A VICTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -1208,3 +1210,21 @@ P.O. 11 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 239 QUE REFORMA LOS ARTÍCULOS 4 FRACCIÓN IX, 5 Y 8 FRACCIÓN I DE LA LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 735 POR EL QUE SE EXPIDE LA LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO Y SE ABROGA LA LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Atención, Asistencia y Protección a Víctimas de Delitos y Violaciones a Derechos Humanos, publicada en el Periódico Oficial del Estado, el 10 de noviembre de 2014.
+
+TERCERO. La persona Titular del Poder Ejecutivo del Estado de Hidalgo, deberá proveer la esfera administrativa necesaria para el cumplimiento y observancia de la presente Ley, para tal efecto, dentro de los ciento ochenta días hábiles siguientes a la fecha en que este Decreto entre en vigor, deberá expedir el respectivo Reglamento.
+
+CUARTO. La persona Titular del Ejecutivo del Estado de Hidalgo, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, emitirá una convocatoria pública a la que podrán inscribirse las personas que consideren cumplen con las condiciones para ser titular de la Comisión Estatal, enviando en tiempo y firma la respectiva terna al Congreso del Estado, y previendo las medidas presupuestales necesarias para que la Comisión Estatal, una vez designada la persona titular de la misma, inicie sus funciones; mismo término en el que la Junta de Gobierno de la Comisión Estatal, deberá expedir su estatuto orgánico.
+
+QUINTO. El Sistema Estatal de Atención a Víctimas que se establece en la presente Ley, deberá constituirse dentro de los treinta días hábiles siguientes a partir de la designación de la persona titular de la Comisión Estatal.
+
+SEXTO. La persona Titular del Ejecutivo del Estado de Hidalgo, deberá prever lo necesario a afecto de que, dentro de los noventa días siguientes a la designación de la persona titular de la Comisión Estatal, se disponga de los recursos necesarios para asignar los fondos que integrarán el Recurso de Ayuda.
+
+SÉPTIMO. Se derogan todas las disposiciones que contravengan el presente Decreto.
