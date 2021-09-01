@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2019-04-01"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -59,7 +59,9 @@ Artículo Único.- Se expide la LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE 
 
 La presente Ley es de orden público e interés general, su observancia y aplicación es de carácter general y obligatorio en el Territorio del Estado, y tiene por objeto establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas, bienes y mercancías por medios terrestres, así como registrar y regular el Servicio de Transporte y los Servicios Auxiliares y Conexos que operan en las vías públicas de competencia estatal.
 
-Las disposiciones reglamentarias y demás ordenamientos que emanen de esta Ley, así como las políticas públicas y programas, deben sujetarse a la jerarquía, principios rectores y estrategia de movilidad.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+Las disposiciones reglamentarias y demás ordenamientos que emanen de esta Ley, así como las políticas públicas y programas, deben sujetarse a la jerarquía, principios rectores y estrategia de movilidad, enfocados en todo momento a brindar un servicio de transporte que prevenga cualquier tipo de violencia contra las mujeres.
 
 ###### Artículo 2.
 
@@ -74,6 +76,10 @@ III. La señalización vial y nomenclatura;
 IV. La infraestructura de movilidad, servicios y demás elementos inherentes o incorporados a la misma; y
 
 V. La infraestructura y equipamiento auxiliar de los servicios públicos de transporte de pasajeros y de carga que promueva la eficiencia en la prestación del servicio.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VI. La seguridad en el uso de transporte enfocada a la protección de las mujeres contra actos de violencia por razón de género, de conformidad con lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo.
 
 ### CAPÍTULO II. DEFINICIONES
 
@@ -140,6 +146,10 @@ XXIV. REVERSIÓN: Acto administrativo por virtud del cual, mediante la resoluci�
 XXV. REVOCACIÓN: Acto administrativo por virtud del cual la Autoridad Competente, deja sin efectos la concesión, el permiso o la autorización, con base en las determinaciones y términos de esta Ley y del Reglamento correspondiente;
 
 XXVI. SECRETARÍA: La Secretaría de Movilidad y Transporte;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI Bis. SEGURIDAD CON PERSPECTIVA DE GÉNERO. Las acciones y medidas que implementen las autoridades, concesionarios, permisionarios y usuarios en general del servicio público de transporte, encaminadas a prevenir y atender, cualquier tipo de violencia contra las mujeres por razón de género, en las unidades de servicio público.
 
 XXVII. SERVICIO DE TRANSPORTE: El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
 
@@ -233,7 +243,13 @@ III. Establecer las bases para la celebración de los concursos relacionados con
 
 IV. Establecer y administrar los registros y sistemas de información y de control del servicio público y privado de transporte;
 
-V. Instrumentar en coordinación con otras dependencias y con los municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+V. Instrumentar en coordinación con otras dependencias y con los municipios, programas y campañas de educación peatonal, ciclista, vial y cortesía urbana, a la prevención de accidentes y el adecuado funcionamiento de la movilidad.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+V Bis. Implementar las medidas necesarias para prevenir y atender la violencia contra las mujeres por razón de género, en específico el acoso sexual (sic) contra de las mujeres en las unidades de servicio público de transporte, de conformidad con lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo;
 
 VI. Emitir la opinión respecto a la congruencia de los programas municipales de movilidad con relación al Programa Estatal de Movilidad y Transporte;
 
@@ -249,11 +265,17 @@ XI. Promover la inversión en el ramo, mediante la participación de los sectore
 
 XII. Coordinar las comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia de competencia de la Secretaría;
 
-XIII. Implementar políticas y mecanismos de profesionalización de conductores de los servicios de transporte, a través de la capacitación, evaluación y certificación de sus competencias laborales;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Implementar políticas y mecanismos de profesionalización de conductores de los servicios de transporte, a través de la capacitación, evaluación y certificación de sus competencias laborales, que incluyan las relacionadas con la materia de seguridad con perspectiva de género;
 
 XIV. Implementar el uso de nuevas tecnologías, herramientas informáticas y aplicaciones en la prestación de los servicios de transporte, que tengan como finalidad utilizar la información existente en los registros, que propicien la interacción en tiempo real entre concesionario, permisionarios o terceros que intervengan de manera directa o indirecta en la prestación de un servicio público y el usuario;
 
 Dichas tecnologías deberán facilitar la realización de trámites y comunicación entre los concesionarios y la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIV Bis. Implementar acciones, planes y programas para que los concesionarios y permisionarios cuenten con los medios e instrumentos tecnológicos de respuesta inmediata a través de la georreferenciación, que permitan prevenir la violencia de cualquier tipo contra las mujeres en el transporte público y brinde opciones a éstas para solicitar auxilio y garantice la reacción oportuna de los cuerpos de seguridad pública;
 
 XV. Admitir, substanciar y resolver sobre los recursos y controversias que interpongan los particulares, en términos de la presente Ley, en las cuales se le señale; y
 
@@ -275,6 +297,12 @@ g. Vigilar que el Organismo del Transporte Convencional y el Organismo del Trans
 
 h. Las demás que determinen esta Ley y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 7 Bis.
+
+En caso de que se lleven a cabo actos de violencia contra las mujeres por razón de género por parte de usuarios concesionarios, permisionarios, titulares de autorizaciones y convenios, así como a sus conductores y empleados, se dará conocimiento al Ministerio Público, para los efectos procedentes.
+
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DEL ORGANISMO DE TRANSPORTE CONVENCIONAL
 
 ###### Artículo 8.
@@ -285,11 +313,15 @@ I. Proponer los planes, programas, acciones y presupuestos necesarios en materia
 
 II. Diseñar, operar, explotar, conservar, rehabilitar y mantener en funcionamiento los servicios mencionados en la fracción anterior, realizándolos directamente o a través de particulares mediante el otorgamiento de concesiones, permisos, autorizaciones, convenios y contratos de corto, mediano y largo plazo entre los sectores público y privado, para el desarrollo de infraestructura o la prestación de servicios al sector público o al usuario final;
 
-III. Planear, determinar y satisfacer las necesidades de la población en materia de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos relacionados con ello y de las autorizaciones y convenios de cualquier tipo que sean relativos a la materia, sirviéndose de los elementos técnicos y avances tecnológicos disponibles; ordenando la incorporación, uso y admisión de nuevas tecnologías en los vehículos del Servicio de Transporte de su competencia, a fin de elevar la calidad del servicio y la eficiencia en su operación y control;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+III. Planear, determinar y satisfacer las necesidades de la población en materia de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos relacionados con ello y de las autorizaciones y convenios de cualquier tipo que sean relativos a la materia, sirviéndose de los elementos técnicos y avances tecnológicos disponibles; ordenando la incorporación, uso y admisión de nuevas tecnologías en los vehículos del Servicio de Transporte de su competencia, a fin de elevar la calidad del servicio y la eficiencia en su operación y control, garantizando en todo momento la seguridad y la integridad física, sexual, psicológica, patrimonial o económica de las y los usuarios, estableciendo las acciones necesarias contra la violencia por razón de género;
 
 IV. Vincular la infraestructura vial, de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario y de los Servicios Auxiliares y Conexos y contribuir con ello al crecimiento económico de cada zona;
 
-V. Identificar y satisfacer la demanda de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario y de los Servicios Auxiliares y Conexos, privilegiando la satisfacción social y buscando la sostenibilidad del servicio;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+V. Identificar y satisfacer la demanda de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario y de los Servicios Auxiliares y Conexos, privilegiando la satisfacción social, la seguridad con perspectiva de género y buscando la sostenibilidad del servicio;
 
 VI. Regular, vigilar y sancionar la prestación de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos y de las autorizaciones y convenios, así como establecer, regular y vigilar las tarifas aplicables a los usuarios y la forma de pago a los prestadores del servicio;
 
@@ -367,7 +399,9 @@ XXIV. Vigilar y mantener en operación los servicios colectivo, individual, priv
 
 XXV. Acordar y emitir disposiciones administrativas de carácter general que prevean, eviten y sancionen el acaparamiento o la acumulación ilegal de las concesiones, permisos y convenios de los Servicios de Transporte Público, Privado y Complementario, y de los Servicios Auxiliares y Conexos vinculados a ellos, así como dictar medidas tendientes a erradicar la práctica de actos de comercio con los permisos, concesiones y demás elementos inherentes a ello, tales como las placas, engomados y tarjetas de circulación; así como ejercer todas las acciones legales que sean necesarias para ello e incoar los procedimientos administrativos que al caso sean procedentes;
 
-XXVI. Diseñar, implementar, operar y ejercer directamente planes, programas y acciones de seguridad destinados a proteger la integridad y la vida de los usuarios de los Servicios de Transporte Público, Privado y Complementario y de los Servicios Auxiliares y Conexos vinculados a ellos; turnando a la autoridad competente las incidencias respectivas y, cuando así proceda, elaborando las boletas de infracción y sancionando a los particulares que transgredan las normas vigentes, recabando de ellos garantía suficiente para amparar el pago de la sanción que corresponda, impidiendo, aún con el auxilio de la fuerza pública, que esto suceda en contravención a los preceptos de esta Ley, del Reglamento respectivo y de los demás ordenamientos legales vigentes;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI. Diseñar, implementar, operar y ejercer directamente planes, programas y acciones de seguridad destinados a proteger la integridad y la vida de los usuarios de los Servicios de Transporte Público, Privado y Complementario y de los Servicios Auxiliares y Conexos vinculados a ellos, con énfasis en brindar seguridad con perspectiva de género; turnando a la autoridad competente las incidencias respectivas y, cuando así proceda, elaborando las boletas de infracción y sancionando a los particulares que transgredan las normas vigentes, recabando de ellos garantía suficiente para amparar el pago de la sanción que corresponda, impidiendo, aún con el auxilio de la fuerza pública, que esto suceda en contravención a los preceptos de esta Ley, del Reglamento respectivo y de los demás ordenamientos legales vigentes;
 
 XXVII. En general regular, registrar, normar y vigilar todo lo referente a los Servicios de Transporte Público, Privado y Complementario, a los Servicios Auxiliares y Conexos vinculados a ellos, y a las autorizaciones, convenios y contratos relativos a los mismos que operan en las vías públicas de competencia Estatal; así como autorizar, definir, establecer, fijar, modificar, normar, regular, sancionar y vigilar todo lo referente a las tarifas aplicables a los usuarios y a las formas de pago a los prestadores de los servicios a su cargo;
 
@@ -447,7 +481,9 @@ VII. Promover la participación de los sectores social y privado en los procesos
 
 VIII. Proporcionar a los Municipios asesoría y, en su caso, convenir con ellos la elaboración de estudios en materia del Servicio Público de Transporte Masivo de Pasajeros, del Servicio de Pago Electrónico, de la operación y desarrollo del Centro General de Gestión de Operaciones, y de los Servicios Auxiliares y Conexos relacionados con ellos;
 
-IX. Promover acciones para que las vialidades peatonales se mantengan en buen estado, coadyuvando en la realización de estudios tendientes a facilitar el acceso de la población infantil, de personas con discapacidad, de adultos mayores y mujeres en período de gestación a los Servicios de Transporte Masivo de Pasajeros, al Servicio de Pago Electrónico, y a los Servicios Auxiliares y Conexos relacionados con ellos;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Promover acciones para que las vialidades peatonales se mantengan en buen estado, coadyuvando en la realización de estudios tendientes a prevenir la violencia en contra de las mujeres por razón de género; así como, facilitar el acceso de la población infantil, de personas con discapacidad, de adultos mayores y mujeres en período de gestación a los Servicios de Transporte Masivo de Pasajeros, al Servicio de Pago Electrónico, y a los Servicios Auxiliares y Conexos relacionados con ellos;
 
 X. Crear y operar el Sistema de Información de Transporte, mediante la práctica de estudios de ingeniería y vialidad y Servicios Auxiliares y Conexos; incorporando a este la información de las Dependencias y Entidades Estatales que la generen, así como la de las empresas, organizaciones y personas físicas vinculadas con el transporte;
 
@@ -519,7 +555,9 @@ XXXIV. Acordar y emitir disposiciones administrativas de carácter general que p
 
 XXXV. Negar el otorgamiento de concesiones, permisos, autorizaciones, convenios y contratos cuando puedan originar acaparamiento o acumulación ilegal; o bien, cuando su otorgamiento pueda contravenir disposiciones legales en materia de competencia económica;
 
-XXXVI. Diseñar, implementar, operar y ejercer directamente o en coordinación con otras autoridades planes, programas y acciones de seguridad destinados a proteger la integridad y la vida de los usuarios del Servicio Público de Transporte Masivo, de sus Estaciones y Terminales y de las personas que transitan en los vehículos y carriles exclusivos y preferenciales destinados al mismo, así como de quienes utilicen los Centros de Transferencia Modal utilizando medios los tecnológicos disponibles; turnando a la autoridad competente las incidencias respectivas y, cuando así proceda, elaborando las boletas de infracción, sancionando a los particulares y usuarios que transgredan la exclusividad operativa de los Corredores o carriles del Servicio Público de Transporte Masivo de Pasajeros, recabando de ellos garantía suficiente para amparar el pago de la sanción que corresponda, impidiendo, aún con el auxilio de la fuerza pública, que esto suceda en contravención a los preceptos de esta Ley, del Reglamento respectivo y de los demás ordenamientos legales vigentes;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXXVI. Diseñar, implementar, operar y ejercer directamente o en coordinación con otras autoridades planes, programas y acciones de seguridad destinados a proteger la integridad y la vida de los usuarios, con énfasis en brindar seguridad con perspectiva de género en el Servicio Público de Transporte Masivo, de sus Estaciones y Terminales, y de las personas que transitan en los vehículos y carriles exclusivos y preferenciales destinados al mismo, así como de quienes utilicen los Centros de Transferencia Modal utilizando los medios tecnológicos disponibles; turnando a la autoridad competente las incidencias respectivas y, cuando así proceda, elaborando las boletas de infracción, sancionando a los particulares y usuarios que transgredan la exclusividad operativa de los Corredores o carriles del Servicio Público de Transporte Masivo de Pasajeros, recabando de ellos garantía suficiente para amparar el pago de la sanción que corresponda, impidiendo, aún con el auxilio de la fuerza pública, que esto suceda en contravención a los preceptos de esta Ley, del Reglamento respectivo y de los demás ordenamientos legales vigentes;
 
 XXXVII. En general regular, registrar, normar, vigilar y sancionar todo lo referente al Servicio Público de Transporte Masivo de Pasajeros, al Servicio de Pago Electrónico, al Centro General de Gestión de Operaciones y a los Servicios Auxiliares y Conexos que operan en las vías públicas de competencia Estatal, así como todo lo referente a las concesiones, permisos, autorizaciones, convenios y contratos relativos a ellos;
 
@@ -545,13 +583,17 @@ II. Proveer en el ámbito de su competencia, que la infraestructura vial y peato
 
 III. Coordinar las acciones que, en materia de protección al medio ambiente, la reducción de contaminantes atmosféricos y de gases de efecto invernadero, lleve a cabo el municipio, en relación con la movilidad y la prestación del servicio público y especial de transporte, y el particular, en el ámbito de su competencia;
 
-IV. Instrumentar en coordinación con el Estado, la Secretaría y otros municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, así como de protección al medio ambiente;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Instrumentar en coordinación con el Estado, la Secretaría y otros municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, de actos de violencia en contra de las mujeres por razón de género, así como de protección al medio ambiente;
 
 V. Mantener la vialidad libre de obstáculos u objetos que impidan, dificulten u obstruyan el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados;
 
 VI. Remitir a los depósitos vehiculares, los vehículos que se encuentren abandonados, inservibles, destruidos e inutilizados en las vías públicas y estacionamientos públicos de su jurisdicción;
 
-VII. Promover en el ámbito de su competencia las acciones para el uso racional del espacio vial, teniendo como prioridad a las personas con discapacidad, menores y adultos mayores, peatones, y medios de transporte masivo y colectivo de pasajeros, así como de los espacios para la guarda de bicicletas y similares;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Promover en el ámbito de su competencia las acciones para el uso racional del espacio vial, teniendo como prioridad a las personas con discapacidad, mujeres, niñas, niños, adolescentes y personas adultas mayores, peatones, y medios de transporte masivo y colectivo de pasajeros, así como de los espacios para la guarda de bicicletas y similares;
 
 VIII. Diseñar e instrumentar programas de recuperación y habilitación progresiva de espacios urbanos para el desplazamiento peatonal y la construcción y mantenimiento de infraestructura ciclista con la finalidad de promover la movilidad urbana no motorizada, en los términos de la ley de la materia; y
 
@@ -603,7 +645,9 @@ Por cada miembro propietario habrá un suplente acreditado, el cual contará con
 
 Al Consejo corresponde:
 
-I. Proponer medidas relativas al mejoramiento de la calidad de la Movilidad y el Transporte;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+I. Proponer medidas relativas al mejoramiento de la calidad de la Movilidad y el Transporte, priorizando en todo momento que estas se enfoquen a garantizar la seguridad con perspectiva de género.
 
 II. Realizar estudios técnicos que permitan mejorar la eficiencia operativa del sistema de transporte;
 
@@ -621,9 +665,11 @@ El Reglamento respectivo establecerá los demás aspectos operacionales relativo
 
 ### CAPITULO I. DE LA PLANEACIÓN DE LA MOVILIDAD
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-El propósito de la planeación de la movilidad es garantizar el desplazamiento de las personas y bienes, por lo que las políticas públicas y programas en la materia deberán estar encaminadas a la obtención de ese fin.
+El propósito de la planeación de la movilidad es garantizar el desplazamiento seguro de las personas, en especial de las mujeres y las niñas; así como, de los bienes, por lo que las políticas públicas y programas en la materia deberán estar encaminados a la obtención de ese fin.
 
 ###### Artículo 24.
 
@@ -665,7 +711,9 @@ IV. Corresponsabilidad social. Esquemas de movilidad y transporte basados en sol
 
 V. Eficiencia. Optimizar los desplazamientos ágiles y asequibles maximizando los recursos disponibles, sin que su diseño y operación produzcan externalidades negativas desproporcionadas a sus beneficios;
 
-VI. Equidad. Equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, poniendo especial énfasis en grupos en desventaja física, social y económica;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Equidad. Equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, poniendo especial énfasis en grupos en desventaja física, social y económica, promoviendo el acceso al transporte de calidad, seguro y eficiente, con políticas públicas incluyentes y acciones para eliminar la violencia contra las mujeres por razón de género y el acoso sexual;
 
 VII. Multimodalidad. Ofrecer a los diferentes grupos de usuarios opciones de movilidad y modos de transporte integrados, que proporcionen disponibilidad, rapidez, accesibilidad, seguridad e interconexión;
 
@@ -714,6 +762,20 @@ X. Nuevas Tecnologías de apoyo a la Movilidad (APP'S): La movilidad irá acompa
 Con la finalidad de disminuir el alto costo social y económico que se derivan de los accidentes e incidentes de tránsito en los servicios de transporte, se elaborará e implantará un Programa de Seguridad, que deberá considerar todas las medidas administrativas, operativas y de coordinación que mejoren la seguridad de todos los usuarios del transporte, anteponiendo la jerarquía de movilidad, dando un verdadero protagonismo al ciudadano y, de manera muy significativa, a los usuarios más vulnerables (peatones, personas con discapacidad y ciclistas) que adquieren prioridad sobre los vehículos motorizados.
 
 El programa deberá considerar la utilización de equipo y tecnología de video vigilancia y rastreo de acuerdo con las especificaciones que determine el Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 29 Bis.
+
+A fin de prevenir las acciones que generen violencia contra las mujeres por razón (sic) género en el transporte público, la Secretaría en coordinación con la Secretaría de Seguridad Pública del Estado de Hidalgo deberán:
+
+I. Generar mecanismos de atención y canalización de las mujeres víctimas de violencia por razón de género en el transporte y el espacio público;
+
+II. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres por razón de género en el transporte público;
+
+III. Realizar con otras dependencias campañas de prevención de la violencia contra las mujeres en el transporte público; y
+
+IV. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
 ### CAPITULO V. DEL ESTUDIO DE IMPACTO EN LA MOVILIDAD
 
@@ -1291,7 +1353,9 @@ Al efecto, el interesado presentará:
 
 I. Solicitud por escrito en el formato respectivo;
 
-II. Copia certificada de la denuncia instaurada ante el Ministerio Público, con motivo de la denuncia de los hechos ilícitos por los cuales ya no se dispone de cualquiera de los objetos a reponer;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+II. Copia certificada de la denuncia instaurada y ratificada ante el Ministerio Público, con motivo de la denuncia de los hechos ilícitos por los cuales ya no se dispone de cualquiera de los objetos a reponer;
 
 III. En el caso de extravío, copia certificada del acta informativa ante el Órgano Jurisdiccional competente en la que se especifique tal circunstancia;
 
@@ -1300,6 +1364,10 @@ IV. La copia del alta por la que quedo inscrito el vehículo, en la que necesari
 V. Los originales de las constancias de no infracción que expidan las Autoridades Federales, Estatales y Municipales del lugar en materia de tránsito, así como de la Autoridad Competente en materia de transporte, con los que se compruebe que el documento a reponer no ha sido retenido como garantía por alguna de ellas; y
 
 VI. El comprobante del pago de derechos que se generen por reposición.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+En caso que los vehículos, placas, engomado, tarjeta de circulación o tarjetón fueran sustraídas, hayan participado o sean utilizados en la posible comisión de un hecho delictivo, la autoridad ministerial, una vez ratificada la denuncia, notificará por la vía acordada dentro de las 72 horas siguientes, a las autoridades del transporte competentes, a fin de que estas últimas registren dicha situación en sus sistemas registrales.
 
 ###### Artículo 94.
 
@@ -1635,6 +1703,12 @@ Los servicios publicitarios y los de promoción visual podrán efectuarse por me
 
 Los servicios publicitarios y los de promoción visual podrán ejercerlos directamente los concesionarios o permisionarios del servicio de transporte, o facultarán para la prestación de los mismos a particulares, en ambos casos se requerirá del permiso emitido por la Secretaría a través de los Organismos Públicos Descentralizados; asimismo deberán cumplir con los lineamientos establecidos en la Ley, el Reglamento y demás disposiciones que resulten aplicables.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 146 Bis.
+
+Bajo ninguna circunstancia los servicios publicitarios y los de promoción visual, podrán contener texto, imágenes, símbolos o cualquier tipo de representación que promueva la discriminación, la violencia contra las mujeres por razón de género y el no respeto a los derechos humanos.
+
 ###### Artículo 147.
 
 La Secretaría y los organismos públicos descentralizados vigilarán que las frases, palabras, objetos e imágenes que se utilicen en la publicidad, no atente contra los derechos humanos, la dignidad humana, ni se estime como inscripciones discriminatorias u ofensivas; asimismo que no obstruya o desvirtúe las características y cromática que identifica a las unidades.
@@ -1719,7 +1793,9 @@ XVII. Cumplir con la cromática y demás elementos de identificación de los veh
 
 XVIII. Responder por las faltas o infracciones, en que incurran por sí mismos o por sus conductores, a la presente Ley o sus normas reglamentarias;
 
-XIX. Asegurase que la prestación del servicio se realice con respeto y cortesía al usuario;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Asegurar que la prestación del servicio se realice con respeto y cortesía al usuario, promoviendo en todo momento la prevención de conductas de violencia en contra de las mujeres;
 
 XX. Supervisar que el servicio se efectúe en condiciones idóneas de higiene personal y de acuerdo a las disposiciones aplicables;
 
@@ -1746,6 +1822,10 @@ I. Obtener el Tarjetón de conductor de los servicios de transporte, portarla du
 II. Cursar y aprobar los programas de capacitación, en los términos de la presente ley y sus normas reglamentarias, acreditándolo con la documentación que corresponda;
 
 III. Atender con cortesía a los usuarios del servicio, así como peatones y a los demás conductores en la vía pública;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+III Bis. Abstenerse de realizar actos de violencia en contra de mujeres por razón de género;
 
 IV. Tratándose del servicio público de transporte colectivo cumplir los planes de operación establecidos;
 
@@ -1779,6 +1859,10 @@ Los conductores del servicio de transporte suspenderán la prestación del servi
 
 I. Cuando los usuarios ejecuten o hagan a otros ejecutar a bordo de los vehículos de transporte, actos que atenten contra la tranquilidad, seguridad o integridad de los demás pasajeros;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+I Bis. Cuando se lleven a cabo actos de violencia en contra de las mujeres por razón de género, dando conocimiento al Ministerio Público, para los efectos procedentes.
+
 II. Cuando implique la contravención de disposiciones legales o reglamentarias;
 
 III. Cuando el vehículo sufra accidentes o presente fallas mecánicas que dificulten o impidan su adecuada circulación o impliquen riesgos sobre la vida e integridad de las personas;
@@ -1799,7 +1883,13 @@ III. Transportar materias, materiales o sustancias peligrosas, sin contar con au
 
 IV. Prestar el servicio u operar el vehículo de transporte cuando se encuentren bajo el influjo de bebidas alcohólicas o sustancias tóxicas;
 
-V. Operar la unidad sin usar el cinturón de seguridad o circular con exceso de velocidad;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+V. Operar la unidad sin usar el cinturón de seguridad;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+V BIS. Circular a exceso de velocidad;
 
 VI. Cobrar por el servicio una tarifa distinta a la autorizada por el Organismo del Transporte Convencional o, en su caso, percibir o recibir un pago distinto al autorizado por el Organismo del Transporte Masivo por la prestación del servicio que efectúa;
 
@@ -1835,6 +1925,10 @@ XXI. Prestar el servicio sin contar en la unidad con extintor;
 
 XXII. Incurrir en actos violentos o en actos tendientes a alterar el orden y la paz pública;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXII Bis. Realizar acciones o utilizar términos que impliquen violencia en contra de mujeres por razón de género; o que menoscaben su dignidad y respeto hacia sus derechos humanos;
+
 XXIII. Incitar o promover la utilización de servicios de transporte públicos, auxiliares y conexos que no cuenten con la autorización correspondiente;
 
 XXIV. Interrumpir en forma parcial o total la prestación del servicio, salvo por causa de fuerza mayor o caso fortuito;
@@ -1867,7 +1961,9 @@ XXXV. Colocar o difundir propaganda electoral en los vehículos o unidades de tr
 
 Cualquier persona puede hacer uso del servicio de transporte, previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; en consecuencia, los concesionarios, permisionarios, conductores y empleados relacionados con el servicio estarán obligados a prestarlo, salvo cuando el solicitante:
 
-I. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquilidad, seguridad e integridad de los usuarios; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+I. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquilidad, seguridad e integridad de los usuarios, así como de aquellos que se configuren como violencia en contra de mujeres por razón de género; y
 
 II. En general, cuando el usuario pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales vigentes.
 
@@ -2873,6 +2969,10 @@ XXIII. Por incurrir en actos violentos en contra de la autoridad o de sus repres
 
 XXIV. Por incurrir en actos violentos;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXIV Bis. Por incurrir en actos que pongan en riesgo la seguridad, la integridad psicológica, física, sexual, patrimonial, económica o la vida de las mujeres;
+
 XXV. Por incurrir, alentar o propiciar actos tendientes a impedir que otro prestador del servicio, debidamente autorizado, opere con normalidad;
 
 XXVI. Cuando el conductor de la unidad sea flagrantemente sorprendido realizando maniobras imprudentes o temerarias, con las que se ponga en peligro la seguridad de los usuarios o de los demás ocupantes o transeúntes de las vías públicas;
@@ -3087,11 +3187,17 @@ IX. A quien transgreda de cualquier manera las condiciones de prestación del se
 
 X. Se les impondrá multa por el importe de setenta y cinco hasta cien veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 154 fracciones IX y XXXI, 233, 270 fracciones XV, XXII, XXIII, XXIV y XXVIII;
 
-XI. Se impondrá multa de cuarenta y cinco hasta sesenta y cinco veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 79, 80, 94 fracción V, 95, 134, 138, 147, 151 fracciones I, III, VI, VII, VIII, XI, XIII, XIV, XVII y XX, 154 fracciones II, V, VI, VII, XIII, XIV, XVI, XVIII, XX, XXI y XXXV, 215 fracción II, 239, 240, 251 y 270 fracciones XVI, XVII y XXV;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Se impondrá multa de veinticinco hasta cuarenta veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos: 76, 77, 81, 87, 122, 132, 151 fracciones II y IV, 152 fracciones VI, VII y IX, 154 fracciones V, XV, XVI, XIX y XXVII, 248 y 270 fracciones XII, XIII, XIV, XXVII y XXX;
+XI. Se impondrá multa de cuarenta y cinco hasta sesenta y cinco veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 79, 80, 94 fracción V, 95, 134, 138, 147, 151 fracciones I, III, VI, VII, VIII, XI, XIII, XIV, XVII y XX, 154 fracciones II, VI, VII, XIII, XIV, XVIII, XX, XXI y XXXV, 215 fracción II, 239, 240, 251 y 270 fracciones XVI, XVII y XXV;
 
-XIII. Se impondrá multa de veinte hasta treinta veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos 68, 74, 90, 92, 93, 94 fracciones I a IV, 116, 120, 151 fracciones X, XII, XV, XVI, XXI, XXII y XXIII, 152 fracciones I, II, III, IV, V, X, XI, XIII, XIV, XV y XVI, 154 fracciones I, X, XI, XII y XXVII, 157 fracciones III y IV, 252 fracciones I y IV, 253 fracción III, 270 fracciones XIX, XX, XXVI y XXIX, 272 y 281;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Se impondrá multa de veinticinco hasta cuarenta veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos: 76, 77, 81, 87, 122, 132, 151 fracciones II y IV, 152 fracciones VI, VII y IX, 154 fracciones V BIS, XV, XVI, XIX y 248 y 270 fracciones XII, XIII, XIV, XXVII, XXX y XXXIV;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Se impondrá multa de veinte hasta treinta veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos 68, 74, 90, 92, 93 primer párrafo, 94 fracciones I a IV, 116, 120, 151 fracciones X, XII, XV, XVI, XXI, XXII, XXIII, XXIV y XXV, 152 fracciones I, II, III, IV, V, X, XI, XIII, XIV, XV y XVI, 154 fracciones I, V, X, XI, XII, XVII y XXVII, 157 fracciones III y IV, 252 fracciones I y IV, 253 fracción III, 270 fracciones XIX, XX, XXVI y XXIX, 272 y 281.
 
 En todos los casos, la Autoridad Competente podrá determinar el monto de las multas tomando en cuenta la gravedad de la infracción, la capacidad económica del infractor, la reincidencia de éste en la comisión del hecho que la motiva, o cualquier otro elemento del que pueda inferirse la gravedad o levedad del hecho infractor, para así determinar individualizadamente la multa que corresponda.
 
@@ -3266,3 +3372,11 @@ P.O. 1 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 738 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el (sic) día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
