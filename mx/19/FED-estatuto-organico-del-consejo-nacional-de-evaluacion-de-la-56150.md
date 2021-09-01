@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2020-10-02"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2007-03-16"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 2 DE OCTUBRE DE 2020 NO APLICA AL ARTICULADO DEL ACUERDO DE MODIFICACIONES PUBLICADO EN EL D.O.F. DE 26 DE AGOSTO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2021.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -425,15 +423,21 @@ V. Proponer a la Comisión Ejecutiva el calendario anual de sesiones;
 
 VI. Presentar a la Comisión Ejecutiva opiniones técnicas sobre los asuntos cuya atención o resolución corresponda a ésta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
 Secretaría Técnica de la Comisión Ejecutiva
 
 El Secretario Ejecutivo ejercerá, sin perjuicio de las prerrogativas asociadas a la calidad de integrante, las funciones de Secretaría Técnica de la Comisión Ejecutiva, para tal efecto, preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro y dará seguimiento a las decisiones que se adopten.
 
-La Dirección General Adjunta de Coordinación auxiliará al Secretario Ejecutivo en el ejercicio de la atribución a la que se refiere el numeral que antecede.
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-En caso de ausencia del Secretario Ejecutivo, el Director General Adjunto de Coordinación asumirá las funciones de la Secretaría Técnica de la Comisión Ejecutiva, concurriendo al órgano colegiado con voz y voto.
+La Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional auxiliará al Secretario Ejecutivo en el ejercicio de la atribución a la que se refiere el numeral que antecede.
+
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de ausencia del Secretario Ejecutivo, la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional asumirá las funciones de la Secretaría Técnica de la Comisión Ejecutiva, concurriendo al órgano colegiado con voz y voto.
 
 ### Capítulo V. Del Organo Interno
 
@@ -448,6 +452,8 @@ En el ejercicio de sus facultades el titular del órgano interno se auxiliará p
 Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ### Capítulo VI. De la Secretaría Ejecutiva
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 28.
 
@@ -489,7 +495,9 @@ XIV. Proponer al Comité los nombramientos de los dos siguientes niveles de la e
 
 XV. Ejecutar, en la órbita de su competencia, y supervisar el adecuado cumplimiento de las resoluciones de la Comisión Ejecutiva y del Comité;
 
-XVI. Elaborar, con la colaboración de la Dirección General Adjunta de Administración, el anteproyecto de presupuesto de egresos que deberá ajustarse a los criterios y objetivos de los programas y políticas previamente aprobados, para someterlo a la consideración del Presidente del Comité Directivo;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Elaborar, con la colaboración de la Coordinación General de Administración, el anteproyecto de presupuesto de egresos que deberá ajustarse a los criterios y objetivos de los programas y políticas previamente aprobados, para someterlo a la consideración del Presidente del Comité Directivo;
 
 XVII. Proveer a los órganos del Consejo de los elementos necesarios para el cumplimiento de sus funciones;
 
@@ -511,13 +519,17 @@ XXV. Las demás que le confieran las disposiciones aplicables.
 
 ### Capítulo VII. De la Estructura Orgánica Administrativa Básica
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
 Unidades Administrativas
 
 De conformidad con lo previsto por la fracción III del artículo 6 del Decreto y para el ejercicio de sus atribuciones, el Consejo contará con las siguientes Unidades Administrativas:
 
-I. Dirección General Adjunta de Administración.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+I. Coordinación General de Administración.
 
 1. Dirección de Administración y Finanzas.
 
@@ -527,15 +539,21 @@ I. Dirección General Adjunta de Administración.
 
 3. Dirección de Tecnología de Información.
 
-> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-II. Dirección General Adjunta de Análisis de la Pobreza.
+II. Coordinación General de Análisis de la Pobreza.
+
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
 
 1. Dirección de Normas y Metodología de Medición de la Pobreza.
 
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
 2. Dirección de Muestreo y Estadística.
 
-III. Dirección General Adjunta de Evaluación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+III. Coordinación General de Evaluación.
 
 1. Dirección de Planeación y Normatividad de la Política de Evaluación.
 
@@ -547,7 +565,9 @@ III. Dirección General Adjunta de Evaluación.
 
 4. Dirección de Evaluación de Impacto.
 
-IV. Dirección General Adjunta de Coordinación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional
 
 1. Dirección de Servicios Jurídicos.
 
@@ -557,7 +577,9 @@ IV. Dirección General Adjunta de Coordinación.
 
 3. Dirección de Servicios Técnicos.
 
-En el Manual Administrativo del Consejo se precisarán las unidades administrativas de nivel jerárquico inferior que tendrá cada una de las Direcciones Generales Adjuntas, asignándoles sus atribuciones y los procedimientos aplicables a cada una de ellas.
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+En el Manual Administrativo del Consejo se precisarán las unidades administrativas de nivel jerárquico inferior que tendrá cada una de las Coordinaciones Generales, asignándoles sus atribuciones y los procedimientos aplicables a cada una de ellas.
 
 ###### Artículo 30.
 
@@ -591,19 +613,25 @@ XII. Hacer del conocimiento del órgano interno de control en el Consejo, las qu
 
 XIII. Las demás que le confieran otras disposiciones jurídicas aplicables, el Consejo o el Secretario Ejecutivo.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-Artículo 30 bis.- Los titulares de las Direcciones Generales Adjuntas y de la Dirección de Servicios Jurídicos tendrán la facultad de expedir certificaciones de las constancias de los expedientes relativos a los asuntos de su competencia.
+Artículo 30 bis.- Los titulares de las Coordinaciones Generales y de la Dirección de Servicios Jurídicos tendrán la facultad de expedir certificaciones de las constancias de los expedientes relativos a los asuntos de su competencia.
 
-### Capítulo VIII. De la Dirección General Adjunta de Administración
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo VIII. De la Coordinación General de Administración
+
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 31.
 
-La Dirección General Adjunta de Administración es la unidad administrativa encargada de vigilar, coordinar y ejecutar todas las acciones relativas a la administración de recursos humanos y materiales del Consejo, así como de dirigir las acciones de acceso a la información.
+La Coordinación General de Administración es la unidad administrativa encargada de vigilar, coordinar y ejecutar todas las acciones relativas a la administración de recursos humanos y materiales del Consejo, así como de dirigir las acciones de acceso a la información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 32.
 
-La Dirección General Adjunta de Administración tendrá las siguientes funciones:
+La Coordinación General de Administración tendrá las siguientes funciones:
 
 I. Determinar y presentar al Secretario Ejecutivo las políticas, normas, lineamientos, sistemas y procedimientos para la programación, presupuestación, organización, y administración en general de los recursos que disponga el Consejo;
 
@@ -685,6 +713,8 @@ XXXVIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
 XXXIX. Las demás que le confieran otras disposiciones aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
 La Dirección de Administración y Finanzas tiene las siguientes funciones:
@@ -739,7 +769,11 @@ XXIII. Desarrollar las políticas y criterios para la ejecución de los programa
 
 XXIV. Proveer a las áreas del Consejo de los bienes y servicios requeridos, para el desarrollo de sus funciones en el cumplimiento de los objetivos institucionales, y
 
-XXV. Acordar con la Dirección General Adjunta de Administración los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXV. Acordar con la Coordinación General de Administración los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 34.
 
@@ -775,9 +809,11 @@ XIV. Adoptar las medidas necesarias para asegurar la custodia y conservación de
 
 XV. Coordinar la elaboración del informe anual sobre el acceso a la información pública; y
 
-XVI. Acordar con la Dirección General Adjunta de Administración los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+XVI. Acordar con la Coordinación General de Administración los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 35.
 
@@ -831,17 +867,25 @@ XXIII. Coordinar el desarrollo y la integración de sistemas Web;
 
 XXIV. Evaluar y determinar la factibilidad tecnológica de interconexión entre las diversas plataformas tecnológicas de los municipios y el Consejo, y
 
-XXV. Acordar con la Dirección General Adjunta de Administración los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-### Capítulo IX. De la Dirección General Adjunta de Análisis de la Pobreza
+XXV. Acordar con la Coordinación General de Administración los asuntos de su competencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo IX. De la Coordinación General de Análisis de la Pobreza
+
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 36.
 
-La Dirección General Adjunta de Análisis de la Pobreza tiene por objeto definir, identificar, analizar y medir la pobreza, así como sus orígenes y causas, su evolución y distribución en el territorio nacional
+La Coordinación General de Análisis de la Pobreza tiene por objeto definir, identificar, analizar y medir la pobreza, así como sus orígenes y causas, su evolución y distribución en el territorio nacional
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 37.
 
-Para el cumplimiento de su objeto la Dirección General Adjunta (sic) Análisis de la Pobreza tendrá las siguientes facultades:
+Para el cumplimiento de su objeto la Coordinación General de Análisis de la Pobreza tendrá las siguientes facultades:
 
 I. Planear y coordinar las actividades relacionadas con la generación de lineamientos, metodologías, normas, modelos e instrumentos de medición, identificación y definición de la pobreza a nivel nacional, estatal y municipal;
 
@@ -879,9 +923,9 @@ XV. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
 XVI. Coordinar las estimaciones sobre la pobreza a nivel nacional, estatal y municipal, de conformidad con los criterios establecidos por el Consejo;
 
-> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XVII. Coordinar el análisis de la información disponible en materia económica y social, que permita establecer los requerimientos para llevar a cabo las estimaciones señaladas en la fracción anterior;
+XVII. Proponer a la Coordinación General de Análisis de la Pobreza, métodos de análisis para la medición de la pobreza;
 
 > <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
 
@@ -925,7 +969,7 @@ XXVI. Coordinar los contenidos de la página de Internet del Consejo, en materia
 
 XXVII. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
@@ -933,7 +977,9 @@ La Dirección de Normas y Metodología de Medición de la Pobreza tiene las sigu
 
 I. Coordinar el intercambio de información sobre técnicas de medición de la pobreza con instituciones públicas, académicas y privadas;
 
-II. Proponer a la Dirección General Adjunta, modelos y técnicas en medición de la pobreza, con base en investigaciones internas y externas;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+II. Proponer a la Coordinación General, modelos y técnicas en medición de la pobreza, con base en investigaciones internas y externas;
 
 III. Definir lineamientos que permitan el desarrollo de indicadores para la medición de la pobreza, apegados a lo especificado en la normatividad que rige al Consejo;
 
@@ -945,11 +991,15 @@ VI. Establecer los lineamientos para el desarrollo de contenidos de encuestas qu
 
 VII. Coordinar investigaciones internas para la revisión de cuestionarios utilizados a nivel nacional e internacional que contribuyan al desarrollo de cuestionarios específicos para la medición de la pobreza, y
 
-VIII. Acordar con la Dirección General Adjunta de Análisis de la Pobreza los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Acordar con la Coordinación General de Análisis de la Pobreza los asuntos de su competencia.
 
 ###### Artículo 39.
 
 (DEROGADO, D.O.F. 23 DE OCTUBRE DE 2015)
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 40.
 
@@ -967,7 +1017,9 @@ V. Definir criterios de resultados, de acuerdo a un rigoroso (sic) análisis est
 
 VI. Planear y coordinar las actividades de los grupos de trabajo organizados para el análisis de los diferentes indicadores definidos por la Ley para la medición de la pobreza.
 
-VII. Poner a consideración de la Dirección General Adjunta de Análisis de la Pobreza los criterios para medir, identificar y definir la pobreza a nivel nacional, estatal y municipal;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Poner a consideración de la Coordinación General de Análisis de la Pobreza los criterios para medir, identificar y definir la pobreza a nivel nacional, estatal y municipal;
 
 VIII. Establecer los criterios técnicos para la selección de muestras, diseño de trabajo de campo, realización de encuestas y análisis estadístico de los estudios que realice y/o coordine el Consejo;
 
@@ -991,17 +1043,25 @@ XVII. Coordinar los trabajos de asesoría para la revisión de los diseños mues
 
 XVIII. Coordinar estudios para la comparación de diferentes bases de datos utilizadas para la medición de la pobreza o sus indicadores asociados, y
 
-XIX. Acordar con la Dirección General Adjunta de Análisis de la Pobreza la atención y el despacho de los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-### Capítulo X. De la Dirección General Adjunta de Evaluación
+XIX. Acordar con la Coordinación General de Análisis de la Pobreza la atención y el despacho de los asuntos de su competencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo X. De la Coordinación General de Evaluación
+
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 41.
 
-La Dirección General Adjunta de Evaluación tiene por objeto normar y coordinar las evaluaciones de las políticas y programas sociales.
+La Coordinación General de Evaluación tiene por objeto normar y coordinar las evaluaciones de las políticas y programas sociales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 42.
 
-Para el cumplimiento de su objeto la Dirección General Adjunta de Evaluación tendrá las siguientes funciones:
+Para el cumplimiento de su objeto la Coordinación General de Evaluación tendrá las siguientes funciones:
 
 I. Planear, normar y coordinar la actividad del gobierno federal en materia de evaluación de la política y/o los programas de desarrollo social;
 
@@ -1043,6 +1103,8 @@ XIX. Planear, promover y proponer los mecanismos para impulsar y fortalecer los 
 
 XX. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 43.
 
 Corresponde a la Dirección de Planeación y Normatividad de la Política de Evaluación las siguientes funciones:
@@ -1079,7 +1141,11 @@ XV. Determinar los requerimientos mínimos de carácter técnico que se deberán
 
 XVI. Diseñar y administrar un directorio de organismos evaluadores independientes que participen en la evaluación externa de la política y/o los programas de desarrollo social que operan las dependencias federales, y
 
-XVII. Acordar con la Dirección General Adjunta de Evaluación los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Acordar con la Coordinación General de Evaluación los asuntos de su competencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 44.
 
@@ -1107,7 +1173,11 @@ X. Establecer criterios para la formulación de normas y lineamientos que permit
 
 XI. Establecer canales de comunicación con las Unidades Administrativas de las dependencias federales que operen programas de desarrollo social seleccionados para que el Consejo realice una evaluación sobre los mismos, y
 
-XII. Acordar con la Dirección General Adjunta de Evaluación los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Acordar con la Coordinación General de Evaluación los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 45.
 
@@ -1145,9 +1215,13 @@ XV. Dirigir y coordinar el análisis de duplicidades y complementariedades de lo
 
 XVI. Establecer canales de comunicación con las Unidades Administrativas de las dependencias federales que operen programas de desarrollo social que implementen mecanismos de monitoreo, y
 
-XVII. Acordar con la Dirección General Adjunta de Evaluación los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
-### Capítulo XI. De la Dirección General Adjunta de Coordinación
+XVII. Acordar con la Coordinación General de Evaluación los asuntos de su competencia.
+
+### Capítulo XI. De la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 46.
 
@@ -1185,15 +1259,19 @@ XV. Determinar los requerimientos mínimos de carácter técnico que se deberán
 
 XVI. Planear y administrar una base de datos de los organismos evaluadores independientes nacionales e internacionales que cumplan con las condiciones técnicas y puedan participar en las evaluaciones de impacto de los programas de desarrollo social, con el fin de garantizar los objetivos estratégicos del Consejo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 47.
 
-La Dirección General Adjunta de Coordinación tendrá las siguientes funciones:
+La Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional tendrá las siguientes funciones:
 
 I. Coordinar los servicios de asesoría jurídica mediante la gestión de la representación legal del Consejo;
 
 II. Coordinar la representación legal del Consejo ante cualquier tribunal y autoridad administrativa y judicial;
 
-III. Asesorar al Presidente del Consejo, al Secretario Ejecutivo, a los investigadores académicos y a las Direcciones Generales Adjuntas, sobre la normatividad en general para su adecuada interpretación;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+III. Asesorar al Presidente del Consejo, al Secretario Ejecutivo, a los investigadores académicos y a las Coordinaciones Generales, sobre la normatividad en general para su adecuada interpretación;
 
 IV. Proponer propuestas de reglamentos, políticas y disposiciones administrativas a la consideración del Secretario Ejecutivo y del Comité Directivo;
 
@@ -1209,7 +1287,9 @@ IX. Dirigir los servicios de asesoría técnica que requiera el grupo de Conseje
 
 X. Administrar la documentación de las sesiones y el registro de las actas y acuerdos de la Comisión Ejecutiva;
 
-XI. Coordinar la integración de la información y darle seguimiento a los compromisos de trabajo establecidas (sic) con las Direcciones Generales Adjuntas;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Coordinar la integración de la información y darle seguimiento a los compromisos de trabajo establecidas (sic) con las Coordinaciones Generales;
 
 XII. Establecer un sistema de administración de proyectos para integrar las investigaciones individuales que realicen los consejeros sobre medición de la pobreza y evaluación de programas sociales;
 
@@ -1221,9 +1301,13 @@ XV. Coordinar el seguimiento a las observaciones que hagan las Comisiones de Des
 
 XVI. Coordinar el seguimiento a las propuestas, sugerencias y observaciones que hagan la Comisión Nacional de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Consejo Consultivo de Desarrollo Social, el Ejecutivo Federal y cualquier otro organismo de participación social;
 
-XVII. Dirigir la integración de la información y darle seguimiento a los compromisos de trabajo entre el Secretario Ejecutivo y las Direcciones Generales Adjuntas, y
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Dirigir la integración de la información y darle seguimiento a los compromisos de trabajo entre el Secretario Ejecutivo y las Coordinaciones Generales, y
 
 XVIII. Acordar con (sic) Secretaría Ejecutiva la atención y el despacho de los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 48.
 
@@ -1235,7 +1319,9 @@ II. Proponer proyectos de reglamentos interiores, normas, políticas y demás di
 
 III. Determinar y revisar los diversos proyectos de acuerdos, convenios y lineamientos que deba celebrar el Consejo ante los diversos órdenes de gobierno e instituciones públicas, privadas, nacionales e internacionales;
 
-IV. Asesorar a la Dirección General Adjunta de Administración en los trámites y actividades de adiciones, arrendamientos y contratación de servicios que requiera celebrar el Consejo ante terceros;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Asesorar a la Coordinación General de Administración en los trámites y actividades de adquisiciones, arrendamientos y contratación de servicios que requiera celebrar el Consejo ante terceros;
 
 V. Ejercer en coordinación con el Secretario Ejecutivo la representación legal del Consejo ante cualquier autoridad, institución o persona que le demande algún asunto legal o jurídico de interés del Consejo;
 
@@ -1245,13 +1331,19 @@ VII. Dirigir la sistematización de los tratados internacionales, leyes, reglame
 
 VIII. Asesorar en materia jurídica y legal a las diversas áreas que conforman al Consejo Nacional para la celebración de acuerdos de cooperación y bases de colaboración entre los diversos órdenes de gobierno y organismos públicos privados y académicos tanto nacionales como internacionales;
 
-IX. Coordinar con el Secretario Ejecutivo la asesoría sobre la normatividad en general para orientar al Presidente del Consejo, a los investigadores académicos del Consejo y a las Direcciones Generales Adjuntas;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Coordinar con el Secretario Ejecutivo la asesoría sobre la normatividad en general para orientar al Presidente del Consejo, a los investigadores académicos del Consejo y a las Coordinaciones Generales;
 
 X. Colaborar de forma conjunta con las dependencias de gobierno federal, estatal y municipal y demás instancias, para revisar la normatividad relacionada con la evaluación, monitoreo, indicadores y medición de pobreza, que por necesidades de las funciones y programas específicos, obliguen a relacionarse previo, acuerdo con el Secretario Ejecutivo;
 
 XI. Celebrar y establecer a nombre del Consejo acuerdos de cooperación y bases de colaboración con las dependencias de gobierno, estatal y municipal para el ejercicio de las actividades sustantivas establecidas en la Ley General de Desarrollo Social y demás disposiciones aplicables, y
 
-XII. Acordar con la Dirección General Adjunta de Coordinación la atención y despacho de los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional la atención y despacho de los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 49.
 
@@ -1289,7 +1381,11 @@ XV. Dirigir la edición, impresión y distribución de los libros, revistas y fo
 
 XVI. Diseñar e instrumentar diversos escenarios y estrategias publicitarias, y
 
-XVII. Acordar con la Dirección General Adjunta de Coordinación los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 50.
 
@@ -1313,7 +1409,9 @@ VIII. Coordinar el seguimiento a las observaciones que hagan las Comisiones de D
 
 IX. Coordinar el seguimiento a las propuestas, sugerencias y observaciones que hagan la Comisión Nacional de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Consejo Consultivo de Desarrollo Social, el Ejecutivo Federal y cualquier otro organismo de participación social;
 
-X. Determinar y supervisar la calendarización y el seguimiento de los trabajos especiales que les sean encomendados a las Direcciones Generales Adjuntas por parte del Órgano colegiado y el Comité Directivo;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+X. Determinar y supervisar la calendarización y el seguimiento de los trabajos especiales que les sean encomendados a las Coordinaciones Generales por parte del Órgano colegiado y el Comité Directivo;
 
 XI. Dirigir los análisis de resultados de las actividades de las áreas del Consejo a través de la definición de mecanismos de evaluación;
 
@@ -1325,15 +1423,21 @@ XIV. Coordinar los sistemas de evaluación y control para corregir las deficienc
 
 XV. Evaluar los requerimientos técnicos, operativos y de recursos humanos y financieros de los proyectos especiales que planteen los consejeros para dimensionar su impacto y su viabilidad, y
 
-XVI. Acordar con la Dirección General Adjunta de Coordinación los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional los asuntos de su competencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ### Capítulo XII. De las Suplencias en las Unidades Administrativas del Consejo
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. DE 1 DE SEPTIEMBRE DE 2021, PÁGINA 161; SE ADVIERTE QUE CAMBIÓ LA ESTRUCTRUA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 51.
 
-Durante las ausencias del Secretario Ejecutivo el despacho y resolución de los asuntos correspondientes al Consejo estarán a cargo de los Directores Generales Adjuntos de Coordinación, Análisis de la Pobreza Evaluación y Administración, en el orden mencionado.
-
-En las ausencias de los Directores Generales Adjuntos de Evaluación, Coordinación, Análisis de la Pobreza y Administración, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el titular de la Dirección de Área adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
+Durante las ausencias del Secretario Ejecutivo el despacho y resolución de los asuntos correspondientes al Consejo estarán a cargo de los Coordinadores Generales de Monitoreo, Entidades Federativas y Fortalecimiento Institucional, Análisis de la Pobreza, Evaluación y Administración, en el orden mencionado. En las ausencias de los Coordinadores Generales de Evaluación, Monitoreo, Entidades Federativas y Fortalecimiento Institucional, Análisis de la Pobreza y Administración, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el titular de la Dirección de Área adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
 
 Los titulares las Direcciones de Área serán suplidos durante sus ausencias por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos.
 
@@ -1386,6 +1490,16 @@ SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Org
 TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
 D.O.F. 26 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
 
