@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-08-16"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -14126,7 +14126,9 @@ El Sistema de Aguas de la Ciudad de México es el Órgano Desconcentrado que tie
 
 I. Construir, operar y mantener la infraestructura hidráulica;
 
-II. Dar cumplimiento a las disposiciones que en materia de recursos hidráulicos y protección ambiental le confiere la Ley de Aguas del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+II. Dar cumplimiento a las disposiciones que en materia de recursos hidráulicos y protección ambiental le confiere la Ley de la materia;
 
 III. Fungir como autoridad fiscal en los términos establecidos en el Código Fiscal de la Ciudad de México, a efecto de ejercer todas las facultades conferidas a las autoridades fiscales, excepto aquellas que se asignen de manera exclusiva a alguna autoridad en particular.
 
@@ -14146,19 +14148,31 @@ Para el despacho de los asuntos que competan al Sistema de Aguas de la Ciudad de
 
 2. Gerencia General de Coordinación Institucional de Operación y Servicios;
 
-3. Dirección General de Agua Potable;
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+3. Dirección General de Agua Potable a la que queda adscrita:
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+3.1. Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable.
 
 4. Dirección General de Drenaje;
 
-5. Dirección General de Apoyo Técnico y Planeación a la que queda adscrita:
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2019)</small>
+5. Dirección General de Planeación de los Servicios Hidráulicos.
 
-5.1. Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable.
+5.1. (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2021)
 
-6. Dirección General de Servicios a Usuarios a la que queda adscrita:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+6. Dirección General de Servicios a Usuarios a la que quedan adscritas:
 
 6.1. Dirección de Verificación de Conexiones en Alcaldías.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+6.2. Dirección de Atención al Público.
 
 7. Dirección Ejecutiva de Asuntos Jurídicos; y
 
@@ -14252,7 +14266,9 @@ II. Ejecutar los programas operativos, presupuestación, contratación y ejecuci
 
 III. Planear y dirigir el funcionamiento de los sistemas de distribución de agua potable;
 
-IV. Elaborar, conjuntamente con la Dirección General de Apoyo Técnico y Planeación, las políticas y acciones relativas al monitoreo y control de la calidad del agua potable y agua tratada, de acuerdo con las disposiciones legales y normativas vigentes;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Elaborar conjuntamente con la Dirección General de Planeación de los Servicios Hidráulicos, las políticas y acciones relativas al monitoreo y control de la calidad del agua potable y agua tratada, de acuerdo con las disposiciones legales y normativas vigentes;
 
 V. Proponer y someter a consideración de la Coordinación General, los estudios e investigaciones relativas al aprovechamiento de nuevas fuentes de abastecimiento de agua, así como, los programas de rehabilitación y reposición de pozos, extracción, captación, conducción y distribución de agua potable;
 
@@ -14266,19 +14282,69 @@ VIII. Llevar a cabo los procesos de contratación de obra pública y servicios r
 
 IX. Establecer y dirigir las políticas y acciones para la atención de fallas en los sistemas de agua potable;
 
-X. Formalizar los mecanismos de coordinación con las Alcaldías, para la prestación de los servicios hidráulicos;
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XI. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para revocarlos, suspenderlos y/o terminarlos con apego a la normatividad aplicable;
+X. Establecer y dirigir las acciones para fomentar la investigación y desarrollo tecnológico en materia de agua potable;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, previa opinión de la Dirección Ejecutiva de Asuntos Jurídicos al respecto;
+XI. Conciliar la medición para la facturación del agua en bloque, que la Comisión Nacional del Agua entrega al Gobierno de la Ciudad de México;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Expedir y certificar copias de los documentos que obren en sus archivos; y
+XII. Realizar los procedimientos de revisión y autorización de ajustes de costos, de precios unitarios y precios unitarios extraordinarios, así como volumetría adicional, de conformidad con las disposiciones legales y términos contractuales;
 
-XIV. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
+XIII. Formalizar los mecanismos de coordinación con las Alcaldías, para la prestación de los servicios hidráulicos;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para rescindirlos, suspenderlos y/o terminarlos con apego a la normativa aplicable;
+
+XV. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, previa opinión de la Dirección Ejecutiva de Asuntos Jurídicos al respecto;
+
+XVI. Expedir y certificar copias de los documentos que obren en sus archivos; y
+
+XVII. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 307 Bis.
+
+La Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable, tiene las siguientes atribuciones:
+
+I. Diseñar e instrumentar las acciones necesarias para que se cuente con el hardware y software para la implementación y mantenimiento de las estaciones de automatización y medición del sistema hidráulico de agua potable;
+
+II. Analizar los reportes estadísticos de la medición de variables hidráulicas en las diferentes estaciones hidrométricas de instalaciones de agua potable para desarrollar e implementar los sistemas de información necesarios para el apoyo de las funciones del Sistema de Aguas de la Ciudad de México;
+
+III. Integrar los recursos financieros requeridos para ejecutar las obras de sectorización y automatización;
+
+IV. Integrar la documentación necesaria para los procesos licitatorios de obra pública y de servicios relacionados con la misma, destinados a la construcción, implementación y mantenimiento de los sectores hidrométricos de la red de distribución de agua potable de la Ciudad de México;
+
+V. Coadyuvar con las Alcaldías y Direcciones Generales del Sistema de Aguas de la Ciudad de México que correspondan, a efecto de integrar los proyectos o trabajos de mantenimiento mayor al funcionamiento sectorizado de la red de agua potable;
+
+VI. Llevar a cabo la medición de parámetros hidráulicos del Sistema de Aguas de la Ciudad de México;
+
+VII. Dar seguimiento a los proyectos relacionados con la eficiencia de los sectores y mega sectores de la red hidráulica de la Ciudad de México;
+
+VIII. Ejecutar las acciones necesarias para que los sistemas de agua potable cuenten con equipos de automatización, así como los sistemas de información para la transmisión y manejo de los datos generados;
+
+IX. Establecer las acciones para determinar los volúmenes de flujo de agua en los sistemas de captación en las redes de agua potable y conciliar los volúmenes de agua en bloque, que entrega la Comisión Nacional del Agua a la Ciudad de México;
+
+X. Intervenir, por instrucción de su superior jerárquico y en el ámbito de su competencia, respecto a la contratación y ejecución de la obra pública y servicios relacionados con la misma a cargo del Sistema de Aguas de la Ciudad de México;
+
+XI. Coadyuvar con la persona titular de su Unidad Administrativa en los procedimientos de revisión y autorización de ajuste de costos, precios unitarios, precios unitarios extraordinarios y volumetría adicional, en el ámbito de sus atribuciones y de conformidad con las disposiciones legales y términos contractuales;
+
+XII. Instrumentar, por instrucción de su superior jerárquico y en el ámbito de sus atribuciones, la suspensión o terminación anticipada de los contratos de obra pública y servicios relacionados con la misma, así como determinar su temporalidad;
+
+XIII. Coadyuvar, por instrucción de su superior jerárquico y en el ámbito de sus atribuciones, en la substanciación y resolución de los procedimientos de rescisión administrativa de los contratos de su competencia;
+
+XIV. Remitir a la Dirección Ejecutiva de Asuntos Jurídicos los documentos necesarios para que se lleven a cabo las acciones jurídicas que legalmente procedan para la defensa de los intereses del Sistema de Aguas de la Ciudad de México;
+
+XV. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para rescindirlos, suspenderlos y/o terminarlos con apego a la normativa aplicable;
+
+XVI. Expedir y certificar copias de los documentos que obren en sus archivos; y
+
+XVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables o le sean instruidas por sus superiores jerárquicos en el ámbito de sus atribuciones.
 
 ###### Artículo 308.
 
@@ -14290,7 +14356,9 @@ II. Ejecutar los programas operativos, presupuestación, contratación, ejecuci�
 
 III. Planear y dirigir el funcionamiento de los sistemas de distribución de agua residual tratada y de los sistemas de conducción y desalojo de aguas residuales;
 
-IV. Elaborar, conjuntamente con la Dirección General de Apoyo Técnico y Planeación, las políticas y acciones relativas al monitoreo y control del agua tratada, de acuerdo con las disposiciones legales y normativas vigentes;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Elaborar conjuntamente con la Dirección General de Planeación de los Servicios Hidráulicos, las políticas y acciones relativas al monitoreo y control del agua tratada, de acuerdo con las disposiciones legales y normativa vigente;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -14304,7 +14372,9 @@ VIII. Establecer mecanismos de coordinación con las Alcaldías para la prestaci
 
 IX. Controlar las actividades de desazolve de la red de drenaje, cauces y vasos reguladores;
 
-X. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para revocarlos, suspenderlos y terminarlos con apego a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+X. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para rescindirlos, revocarlos, suspenderlos y terminarlos con apego a la normativa aplicable;
 
 XI. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, previa opinión de la Dirección Ejecutiva de Asuntos Jurídicos al respecto;
 
@@ -14336,9 +14406,11 @@ XXI. Remitir a la Dirección Ejecutiva de Asuntos Jurídicos los documentos nece
 
 XXII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 309.
 
-La Dirección General de Apoyo Técnico y Planeación, tiene las siguientes atribuciones:
+La Dirección General de Planeación de los Servicios Hidráulicos, tiene las siguientes atribuciones:
 
 I. Llevar a cabo las actividades de planeación, programación y presupuestación de la obra pública y servicios relacionados con la misma, a cargo del Sistema de Aguas de la Ciudad de México;
 
@@ -14350,7 +14422,7 @@ IV. Establecer y ejecutar las políticas y lineamientos relativos a la vigilanci
 
 V. Establecer las políticas y lineamientos para determinar las especificaciones a que deberán sujetarse las obras y servicios hidráulicos;
 
-VI. Establecer y dirigir las acciones para fomentar la investigación y desarrollo tecnológico en materia de potabilización;
+VI. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2021)
 
 VII. Solicitar a la Dirección General de Agua Potable y a la Dirección General de Drenaje, la contratación de obra pública y servicios relacionados con la misma para el cumplimiento de sus objetivos;
 
@@ -14362,51 +14434,21 @@ X. Substanciar y resolver los procedimientos de rescisión administrativa de los
 
 XI. Remitir a la Dirección Ejecutiva de Asuntos Jurídicos los documentos para interponer las acciones jurídicas necesarias, para la defensa de los intereses del Sistema de Aguas de la Ciudad de México, en el ámbito de su competencia;
 
-XII. Expedir y certificar copias de los documentos que obren en sus archivos; y
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
+XII. Coordinar la guarda y custodia del acervo técnico, documental y gráfico del Sistema de Aguas de la Ciudad de México para la consulta de su personal y usuarios;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Programar y supervisar, con la participación que corresponda a la Gerencia General de Coordinación Institucional de Operación y Servicios, campañas periódicas e instrumentos de participación ciudadana que instruyan el uso eficiente del agua y su conservación en todas las fases del ciclo hidrológico, e impulsen una cultura del agua que considere a este elemento como un recurso vital, escaso, finito y vulnerable mediante la educación ambiental; así como dirigir programas, estudios y acciones para el aprovechamiento racional del agua, la conservación de su calidad y el pago oportuno de los derechos por el suministro de ésta;
+
+XIV. Expedir y certificar copias de los documentos que obren en sus archivos; y
+
+XV. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 310.
 
-La Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable, tiene las siguientes atribuciones:
-
-I. Diseñar e instrumentar las acciones necesarias para que se cuente con el hardware y software para la implementación y mantenimiento de las estaciones de automatización y medición del sistema hidráulico de agua potable;
-
-II. Analizar los reportes estadísticos de la medición de variables hidráulicas en las diferentes estaciones hidrométricas de instalaciones de agua potable para desarrollar e implementar los sistemas de información necesarios para el apoyo de las funciones del Sistema de Aguas de la Ciudad de México;
-
-III. Integrar los recursos financieros requeridos para ejecutar las obras de sectorización y automatización;
-
-IV. Integrar la documentación necesaria para los procesos licitatorios de obra pública y de servicios relacionados con la misma, destinados a la construcción, implementación y mantenimiento de los sectores hidrométricos de la red de distribución de agua potable de la Ciudad de México;
-
-V. Coadyuvar con las Alcaldías y con las Direcciones Generales del Sistema de Aguas de la Ciudad de México que correspondan, a efecto de integrar los proyectos o trabajos de mantenimiento mayor, al funcionamiento sectorizado de la red de agua potable;
-
-VI. Conciliar la medición para la facturación del agua en bloque que la Comisión Nacional del Agua entrega al Gobierno de la Ciudad de México;
-
-VII. Llevar a cabo la medición de parámetros hidráulicos del Sistema de Aguas de la Ciudad de México;
-
-VIII. Dar seguimiento a los proyectos relacionados con la eficiencia de los sectores y mega sectores de la red hidráulica de la Ciudad de México;
-
-IX. Ejecutar las acciones necesarias para que los sistemas de agua potable cuenten con equipos de automatización, así como los sistemas de información para la transmisión y manejo de los datos generados;
-
-X. Establecer las acciones para determinar los volúmenes de flujo de agua en los sistemas de captación en las redes de agua potable y conciliar los volúmenes de agua en bloque que entrega la Comisión Nacional del Agua a la Ciudad de México;
-
-XI. Intervenir, en el ámbito de su competencia que comprenda a la Dirección General de Apoyo Técnico y Planeación, en la contratación y ejecución de la obra pública y servicios relacionados con la misma, a cargo del Sistema de Aguas de la Ciudad de México;
-
-XII. Recomendar los procedimientos de revisión y autorización de ajuste de costos, de precios unitarios, extraordinarios y volumetría adicional, de conformidad con las disposiciones legales y términos contractuales;
-
-XIII. Instrumentar, la suspensión o terminación anticipada de los contratos de obra pública y servicios relacionados con la misma, así como determinar su temporalidad, en el ámbito de su competencia de la Dirección General de Apoyo Técnico y Planeación;
-
-XIV. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, en los términos del presente Reglamento;
-
-XV. Remitir a la Dirección Ejecutiva de Asuntos Jurídicos, los documentos necesarios para que se lleven a cabo las acciones jurídicas que legalmente procedan, para la defensa de los intereses del Sistema de Aguas de la Ciudad de México derivados de actos competencia del área;
-
-XVI. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para revocarlos, suspenderlos y terminarlos con apego a la normatividad aplicable;
-
-XVII. Expedir y certificar copias de los documentos que obren en sus archivos; y
-
-XVIII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
+(DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 311.
 
@@ -14414,33 +14456,47 @@ La Dirección General de Servicios a Usuarios, tiene las siguientes atribuciones
 
 I. Ejecutar las facultades que le corresponden al Sistema de Aguas de la Ciudad de México como autoridad fiscal, conforme a lo dispuesto por el Código Fiscal de la Ciudad de México;
 
-II. Supervisar las actividades realizadas por terceros en concesión o cualquier otra modalidad relativas a la lectura, emisión, distribución de boletas por los consumos de agua potable y descargas de aguas residuales;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-III. Supervisar y ordenar la suspensión y/o restricción del servicio de agua a los usuarios domésticos, no domésticos y mixtos y de la descarga a la red de drenaje en los términos previstos en la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
+II. Supervisar las actividades realizadas por las áreas adscritas relativas a la atención al público, lectura, emisión y distribución de boletas por los consumos de agua potable y descargas de aguas residuales;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Planear, establecer y ordenar los programas de práctica de visitas domiciliarias, de verificaciones, procedimientos de ejecución, inspección y revisiones de gabinete, de conformidad con las disposiciones fiscales;
+III. Supervisar y ordenar la suspensión y/o restricción del servicio de agua a los usuarios domésticos, no domésticos y mixtos, y de la descarga a la red de drenaje en los términos previstos en la Ley de la materia y el Código Fiscal de la Ciudad de México;
 
-V. Dirigir y controlar la recaudación de derechos por suministro de agua, servicios de construcción y operación hidráulica, descarga en la red de drenaje y sus accesorios;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Programar y ordenar la emisión de las órdenes de inspección relativas a los consumos de agua potable y descargas a la red de drenaje, conforme a las disposiciones legales y reglamentarias de la materia y demás disposiciones administrativas;
+IV. Planear, establecer y ordenar de forma coordinada con la Tesorería de la Ciudad de México, los programas de práctica de visitas domiciliarias, de verificaciones, procedimientos de ejecución, inspección y revisiones de gabinete, de conformidad con las disposiciones fiscales;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Programar, ordenar y dirigir los actos de verificación administrativa, inspección y vigilancia, además de la suspensión de las tomas no autorizadas, conforme a lo establecido en la Ley de Aguas del Distrito Federal y demás disposiciones legales y reglamentarias de la materia;
+V. Dirigir y controlar en coordinación con la Tesorería de la Ciudad de México, la recaudación de derechos por suministro de agua, servicios de construcción y operación hidráulica, descarga en la red de drenaje y sus accesorios;
 
-VIII. Autorizar la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Programar y ordenar de forma coordinada con la Tesorería de la Ciudad de México, la emisión de las órdenes de inspección relativas a los consumos de agua potable y descargas a la red de drenaje, conforme a las disposiciones legales y reglamentarias de la materia y demás disposiciones administrativas;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Programar, ordenar y dirigir los actos de verificación, inspección y vigilancia, así como lo relativo a la suspensión de las tomas no autorizadas, conforme a lo establecido en la Ley de la materia y demás disposiciones legales y reglamentarias aplicables;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Ordenar y controlar la emisión de autorizaciones para la comercialización de agua potable por particulares derivada de tomas de uso comercial o industrial;
 
 IX. Autorizar los dictámenes de factibilidad de otorgamiento del servicio a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, considerando la disponibilidad del agua y de la infraestructura para su prestación;
 
 X. Formalizar los mecanismos de coordinación con los Órganos - Político Administrativos, para regular la participación que corresponde a éstos en la atención de las solicitudes de conexión a las redes hidráulicas;
 
-XI. Atender oportuna y eficazmente, por si o, en su caso, por conducto de los Órganos - Político Administrativos, las solicitudes para la instalación, reconstrucción y cambio de diámetro de tomas de agua potable, residual tratada y descargas domiciliarias;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Supervisar que la atención a las solicitudes para la instalación, reconstrucción y cambio de diámetro de tomas de agua potable, residual tratada y descargas domiciliarias, sea oportuna y eficaz;
 
 XII. Suscribir los documentos relativos al ejercicio de las atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia y las demás funciones que se deriven de la normatividad aplicable;
 
-XIII. Programar y supervisar, con la participación que corresponda a la Gerencia General de Coordinación Institucional de Operación y Servicios, campañas periódicas e instrumentos de participación Ciudadana que instruyan el uso eficiente del agua y su conservación en todas las fases del ciclo hidrológico, e impulsen una cultura del agua que considere a este elemento como un recurso vital, escaso, finito y vulnerable mediante la educación ambiental; así como dirigir programas, estudios y acciones para el aprovechamiento racional del agua, la conservación de su calidad y el pago oportuno de los derechos por el suministro de ésta;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Coadyuvar en la promoción de campañas periódicas e instrumentos de participación Ciudadana que instruyan el uso eficiente del agua y su conservación en todas las fases del ciclo hidrológico, e impulsen una cultura del agua que considere a este elemento como un recurso vital, escaso, finito y vulnerable mediante la educación ambiental; así como dirigir programas, estudios y acciones para el aprovechamiento racional del agua, la conservación de su calidad y el pago oportuno de los derechos por el suministro de ésta;
 
 XIV. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para revocarlos, suspenderlos y/o terminarlos con apego a la normatividad aplicable;
 
@@ -14448,47 +14504,75 @@ XV. Expedir y certificar copias de los documentos que obren en sus archivos;
 
 XVI. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, previa opinión de la Dirección Ejecutiva de Asuntos Jurídicos al respecto;
 
-XVII. Establecer y supervisar las políticas que garanticen el entero y oportuno de la recaudación diaria a la Tesorería de la Ciudad de México, obtenida en el Sistema de Aguas de la Ciudad de México y sus concesionarias;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII. Coordinar y evaluar las solicitudes presentadas por las y los contribuyentes relativas a certificaciones de pagos, constancias de adeudos, devoluciones y compensaciones de pagos indebidos, de acuerdo a las normas jurídicas aplicables;
+XVII. Establecer y supervisar las políticas que garanticen el entero oportuno de la recaudación diaria en coordinación con la Tesorería de la Ciudad de México, obtenida en el Sistema de Aguas de la Ciudad de México;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XIX. Determinar, administrar y controlar el cobro de los créditos fiscales por concepto de derechos por suministro de agua y derechos de descarga de la red de drenaje;
+XVIII. Coordinar y evaluar, conjuntamente con la Tesorería de la Ciudad de México, las solicitudes presentadas por las y los contribuyentes relativas a certificaciones de pagos, constancias de adeudos, devoluciones y compensaciones de pagos indebidos, de acuerdo a las normas jurídicas aplicables;
 
-XX. Coordinar la atención a usuarios en las oficinas de atención al público del Sistema de Aguas de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XXI. Calificar, aprobar y en su caso, hacer efectivas las garantías del interés fiscal, en estricto apego a lo establecido en las disposiciones aplicables, así como, coordinar las acciones para la recaudación y recuperación del crédito fiscal;
+XIX. Determinar, administrar y controlar conjuntamente con la Tesorería de la Ciudad de México, el cobro de los créditos fiscales por concepto de derechos por suministro de agua y derechos de descarga de la red de drenaje;
 
-XXII. Ordenar la suspensión y restricción del servicio de agua potable y descarga a la red de drenaje a los usuarios, así como la restricción del servicio a los usuarios que cuenten con medición en la descarga de agua residual;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Coordinar, con la Tesorería de la Ciudad de México, la atención a usuarios en las oficinas de atención al público del Sistema de Aguas de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXI. Calificar, aprobar y, en su caso, hacer efectivas las garantías del interés fiscal de manera coordinada con la Tesorería de la Ciudad de México y, en estricto apego a lo establecido en las disposiciones aplicables, así como coordinar las acciones para la recaudación y recuperación del crédito fiscal;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXII. Ordenar y coordinar la suspensión y/o restricción del servicio a los usuarios que cuenten con medición en la descarga de agua residual, en apego a las disposiciones legales aplicables en la materia;
 
 XXIII. Coadyuvar con la Dirección Ejecutiva de Asuntos Jurídicos para la atención de las impugnaciones por parte de los usuarios que deriven de actos emitidos por el Sistema de Aguas de la Ciudad de México, así como para la integración de los supuestos que puedan constituir delitos fiscales;
 
 XXIV. Coordinar y controlar los programas y acciones relativas al cumplimiento de las especificaciones técnicas para la instalación y el mantenimiento de medidores;
 
-XXV. Revisar y aprobar las devoluciones, compensaciones y transferencias derivadas de resoluciones de los tribunales o de alguna autoridad jurisdiccional;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-XXVI. Llevar a cabo el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, así como enajenar, dentro o fuera de remate los bienes embargados a través del procedimiento administrativo de ejecución y expedir el documento que ampare la enajenación de los mismos; y
+XXV. Coordinar, con la Tesorería de la Ciudad de México, las devoluciones, compensaciones y transferencias derivadas de resoluciones de los tribunales o de alguna autoridad jurisdiccional;
 
-XXVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI. Llevar a cabo, de manera coordinada con la Tesorería de la Ciudad de México, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, así como enajenar, dentro o fuera de remate los bienes embargados a través del procedimiento administrativo de ejecución y expedir el documento que ampare la enajenación de los mismos;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Asegurar la actualización y administración, en coordinación con la Tesorería de la Ciudad de México, del padrón de usuarios, considerando a los usuarios activos del servicio de suministro de agua potable y descarga a la red de drenaje;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII. Coordinar y controlar las actividades relativas a las inspecciones de campo que deriven de la adición, modificación o actualización de información contenida en el Sistema Comercial Centralizado del Sistema de Aguas de la Ciudad de México; y
+
+XXIX. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 312.
 
 La Dirección de Verificación de Conexiones en Alcaldías, adscrita a la Dirección General de Servicios a Usuarios, tiene las siguientes atribuciones:
 
-I. Coordinar la ejecución de proyectos especiales de tipo hidráulico, así como brindar la debida atención y solución de los conflictos que surjan con los usuarios y terceros, en relación con las instalaciones hidráulicas y los servicios a cargo del Sistema de Aguas de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+I. Atender y dar seguimiento a las solicitudes de usuarios y terceros, en relación con los servicios hidráulicos a cargo del Sistema de Aguas de la Ciudad de México y sus instalaciones hidráulicas en el ámbito de su competencia;
 
 II. Coordinar, supervisar y emitir los dictámenes de factibilidad de servicios relativos a la dotación de los servicios hidráulicos de agua potable, agua residual tratada y drenaje, para la construcción de obras nuevas, ampliaciones, modificaciones y registros de obra en la Ciudad de México;
 
 III. Atender solicitudes de conexión de los servicios hidráulicos para trámites de Licencia de Construcción y Manifestaciones de Obra y autorizar las tomas de agua y conexiones de albañales;
 
-IV. Emitir las órdenes de inspección y verificación a las instalaciones hidráulicas conforme a las atribuciones contenidas en la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+IV. Emitir las órdenes de inspección y verificación a las instalaciones hidráulicas conforme a las atribuciones contenidas en la Ley de la materia y el Código Fiscal de la Ciudad de México;
 
-V. Emitir los requerimientos de documentación necesaria para acreditar la legalidad de las instalaciones hidráulicas de los usuarios del servicio en términos de la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Emitir y ejecutar las órdenes de supresión de tomas de agua potable y de descargas a la red de drenaje irregular, detectadas en el ejercicio de sus atribuciones, de conformidad con lo establecido en la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
+V. Emitir los requerimientos de documentación necesaria para acreditar la legalidad de las instalaciones hidráulicas de los usuarios del servicio en términos de la Ley de la materia y el Código Fiscal de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Emitir y ejecutar las órdenes de supresión de tomas de agua potable y de descargas a la red de drenaje irregular detectadas en el ejercicio de sus atribuciones, de conformidad con lo establecido en la Ley de la materia y el Código Fiscal de la Ciudad de México;
 
 VII. Celebrar convenios con los desarrolladores para formalizar el pago de aprovechamientos, mediante la realización de las obras de reforzamiento hidráulico, así como supervisar su ejecución de conformidad con los supuestos previstos en el Código Fiscal de la Ciudad de México;
 
@@ -14497,6 +14581,54 @@ VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 IX. Expedir y certificar copias de los documentos que obren en sus archivos; y
 
 X. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 312 Bis.
+
+La Dirección de Atención al Público tiene las siguientes atribuciones:
+
+I. Brindar atención a las promociones y solicitudes de trámites presentadas por los usuarios del servicio de suministro de agua y de la red de drenaje, hasta su resolución;
+
+II. Brindar, en coordinación con la Tesorería de la Ciudad de México, la atención a usuarios en las oficinas de atención al público del Sistema de Aguas de la Ciudad de México;
+
+III. Tramitar y dar seguimiento, en coordinación con la Tesorería de la Ciudad de México, a las solicitudes presentadas por los contribuyentes relativas a certificaciones de pagos, constancias de adeudos, devoluciones y compensaciones de pagos indebidos de acuerdo a las normas jurídicas aplicables;
+
+IV. Llevar a cabo la emisión y ejecución de la orden para la suspensión y/o restricción a los usuarios del servicio de agua potable y descarga a la red de drenaje, así como la restricción del servicio a los usuarios que cuenten con medición en la descarga de agua residual, en apego a las disposiciones legales aplicables en la materia;
+
+V. Coordinar y controlar por instrucciones de su superior jerárquico los programas y acciones relativas a la ejecución de las actividades de instalación, sustitución, rehabilitación y/o mantenimiento de medidores;
+
+VI. Vigilar el cumplimiento de las especificaciones técnicas requeridas para la ejecución de los programas de instalación, sustitución, rehabilitación y/o mantenimiento de medidores;
+
+VII. Coordinar y controlar las actividades relativas a la obtención del registro de lectura de los equipos de medición requeridos para el cálculo de consumos de agua potable y volúmenes de agua residuales descargados a la red de drenaje;
+
+VIII. Elaborar, administrar y mantener actualizado, junto con la Tesorería de la Ciudad de México, el padrón de usuarios activos del servicio de suministro de agua potable y descarga a la red de drenaje;
+
+IX. Llevar a cabo, por instrucciones de su superior jerárquico, las actividades relativas a las inspecciones de campo que deriven de la adición, modificación o actualización de información contenida en el Sistema Comercial Centralizado del Sistema de Aguas de la Ciudad de México;
+
+X. Coadyuvar con la Tesorería de la Ciudad de México en las acciones relacionadas con los programas de práctica de visitas domiciliarias para verificar las condiciones físicas y de operación de las tomas y ramificaciones de agua, además de los equipos de medición, así como la inspección y verificación de los registros de la lectura en los medidores, de verificaciones, procedimientos de ejecución, inspección y revisiones de gabinete, de conformidad con las disposiciones fiscales;
+
+XI. Revisar, tramitar y dar seguimiento en coordinación con la Tesorería de la Ciudad de México, a las devoluciones, compensaciones y trasferencias, derivadas de resoluciones de los tribunales o de alguna autoridad jurisdiccional;
+
+XII. Vigilar, en coordinación con la Tesorería de la Ciudad de México, el correcto cumplimiento de las políticas que garanticen el entero oportuno de la recaudación por derechos por suministro de agua, servicios de construcción y operación hidráulica, descarga en la red de drenaje y sus accesorios;
+
+XIII. Coadyuvar con la Tesorería de la Ciudad de México en la determinación, administración y control de cobro de los créditos fiscales por concepto de derechos por suministro de agua y derechos de descarga a la red de drenaje;
+
+XIV. Coadyuvar con la Tesorería de la Ciudad de México en el procedimiento para hacer efectivas las garantías del interés fiscal en estricto apego a lo establecido en las disposiciones aplicables, así como colaborar en las acciones para la recaudación y recuperación del crédito fiscal;
+
+XV. Coadyuvar con la Tesorería de la Ciudad de México en el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, así como enajenar, dentro o fuera de remate los bienes embargados y expedir el documento que ampare la enajenación de los mismos;
+
+XVI. Analizar y autorizar, por instrucción de su superior jerárquico, las solicitudes de autorización para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial;
+
+XVII. Atender los requerimientos de información de las autoridades fiscales y administrativas de los órganos internos de control y supervisores o auditores externos, así como de cualquier otra autoridad que conforme a la normativa corresponda, presentar los informes que, en el ámbito de las atribuciones del Sistema de Aguas de la Ciudad de México, les sean solicitados;
+
+XVIII. Coadyuvar con la Dirección Ejecutiva de Asuntos Jurídicos para la atención de las impugnaciones por parte de los usuarios, que deriven de actos emitidos por el Sistema de Aguas de la Ciudad de México, así como para la integración de los supuestos que puedan constituir delitos fiscales;
+
+XIX. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para revocarlos, suspenderlos y/o terminarlos con apego a la normativa aplicable;
+
+XX. Expedir y certificar copias de los documentos que obren en sus archivos;
+
+XXI. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables, así como las que le sean instruidas por sus superiores jerárquicos en el ámbito de sus atribuciones.
 
 ###### Artículo 313.
 
@@ -14520,7 +14652,9 @@ VII. Coordinar con la Procuraduría Fiscal de la Ciudad de México, la defensa d
 
 VIII. Designar a las personas servidoras públicas autorizadas y adscritas a la Dirección Ejecutiva de Asuntos Jurídicos para representar, contestar demandas, denuncias, querellarse, comparecer a audiencias y a todo tipo de diligencias y actuaciones judiciales, ofrecer pruebas, interponer recursos, intervenir en los juicios de amparo. así como en la elaboración de los informes previos y con justificación y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses del Sistema de Aguas de la Ciudad de México;
 
-IX. Conocer, substanciar y resolver el procedimiento administrativo relativo a la aplicación de sanciones y medidas de seguridad a que se refiere la Ley de Aguas del Distrito Federal, previa integración y envío del expediente con motivo de la verificación, inspección y vigilancia;
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Conocer, substanciar y resolver el procedimiento administrativo relativo a la aplicación de sanciones y medidas de seguridad a que se refiere la Ley de la materia, previa integración y envío del expediente con motivo de la verificación, inspección y vigilancia;
 
 X. Conocer, substanciar y resolver los recursos administrativos de inconformidad, revocación, cancelación, reconsideración y en general de todos aquellos actos emitidos por el Sistema de Aguas de la Ciudad de México, con excepción de aquellos que hubiesen sido encomendados expresamente a otras Unidades Administrativas del mismo;
 
@@ -14776,71 +14910,9 @@ XVIII. Las demás que señalen las disposiciones legales aplicables.
 
 (DEROGADO, G.O. 15 DE MAYO DE 2019)
 
-(Artículo 329.- (DEROGADO, G.O. 15 DE MAYO DE 2019)
-
 ###### Artículo 329.
 
-Corresponde a la Dirección General Operativa:
-
-I. Dirigir, organizar, planificar y coordinar las acciones de dictaminación, demolición, rehabilitación, supervisión contempladas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-II. Revisar y dar seguimiento a los anteproyectos, proyectos y ejecución de obras;
-
-III. Organizar las acciones para la organización territorial de las empresas en sus distintos ramos, a fin de realizar el proceso de dictaminación, demolición, reconstrucción, rehabilitación de viviendas afectadas;
-
-III. Organizar y supervisar a las empresas inscritas en el padrón del Programa Integral de Reconstrucción, para definir los Cuadrantes de Atención para el proceso de reconstrucción en cumplimiento del Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-IV. Organizar y supervisar a las empresas inscritas en el padrón del Programa Integral de Reconstrucción, para definir los Cuadrantes de Atención para el proceso de reconstrucción en cumplimiento al Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-V. Coordinar y participar en el Comité Científico y de Grietas y en la Mesa Técnica;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VI. Dar seguimiento a los trámites y gestión de las constancias de derechos adquiridos y redensificación;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VII. Informar de manera conjunta con la Dirección General de Atención a Personas Damnificadas sobre el proceso de reconstrucción en barrios, colonias, pueblos y/o edificios;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VIII. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el expediente único de las personas damnificadas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-IX. Incorporar en la base de datos del Censo Social y Técnico a las personas que por alguna razón no hayan sido censadas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-X. Establecer los canales de comunicación y/o acción con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda, la Secretaría de Administración y Finanzas, el Instituto de Vivienda, la Secretaría de Obras y Servicios y otras Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que forman parte de la Administración Pública de la Ciudad de México, para concretar las labores de la Comisión;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XI. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Obras y Servicios, a fin de garantizar la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas por la Comisión para la Reconstrucción de la Ciudad de México, velando siempre por el beneficio de las y los damnificados;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XII. Llevar a cabo el seguimiento con el Instituto de Vivienda, a fin de seguir atendiendo a las personas damnificadas que solicitaron un crédito a ese instituto para rehabilitar o reconstruir sus inmuebles. Así mismo, se coordinará con el Comité Científico y de Grietas para definir las zonas de riesgo y cuidar que las obras en dichas zonas, cumplan con las medidas de mitigación y convivencia que el Comité defina;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIII. Coordinar las acciones de seguimiento y evaluación de la información a través del Portal de la Reconstrucción (administrada por la Secretaría de Administración y Finanzas) y del Censo Técnico y Social;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIV. Coordinar los mecanismos para dar seguimiento al gasto ejercido en proyectos, obras y apoyos a rentas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XV. Realizar la vinculación interinstitucional y para el cumplimiento de los objetivos planteados en el Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia; y
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XVI. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas (sic) se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas.
+(DEROGADO, G.O. 15 DE MAYO DE 2019)
 
 ###### Artículo 330.
 
@@ -15193,3 +15265,15 @@ SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
 TERCERO.- Los asuntos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen sus atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
 
 CUARTO.- Las referencias hechas en este Reglamento, así como de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen sus atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
+
+CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
