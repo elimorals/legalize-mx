@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2021-07-06"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -143,6 +143,10 @@ VIII.- Normatividad Municipal: Bandos, reglamentos, circulares y otras disposici
 
 VIII BIS: Parlamento Abierto: La práctica de los Ayuntamientos de exponer las sesiones a la ciudadana (sic) y rendir reportes a la misma sobre sus actividades;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VIII TER.– Presupuesto participativo: Instrumento de participación ciudadana mediante el cual los vecinos del municipio deciden sobre la aplicación de un porcentaje del presupuesto de egresos municipal para proyectos de infraestructura o servicios que mejoren sus comunidades.
+
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 IX.- Servidora o Servidor Público: Personas representantes de elección popular y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal; y todas aquéllas que manejen o apliquen recursos económicos municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
@@ -227,9 +231,11 @@ I. Quienes temporal o definitivamente tengan su domicilio en el mismo; y
 
 II. Quienes tengan intereses económicos en el mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 18.
 
-Son derechos de los habitantes del Municipio:
+Son derechos de los habitantes del municipio:
 
 I.- Gozar de las garantías y protección que les otorguen las Leyes y acudir a las autoridades competentes cuando el caso lo requiera;
 
@@ -240,6 +246,10 @@ III.- Acceder a los servicios públicos Municipales e instalaciones destinadas a
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
 IV. Proponer a las autoridades municipales del lugar en que residan, las iniciativas, proyectos y acciones que consideren de utilidad pública;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IV BIS.- Acceder a los instrumentos de participación ciudadana reconocidos en la legislación vigente.
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
@@ -379,9 +389,11 @@ ARTÍCULO 26 TER.- Las violaciones a las normas de transparencia, acceso a la in
 
 Los Ayuntamientos promoverán la participación ciudadana en las políticas públicas Municipales.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 28.
 
-Los Ayuntamientos expedirán las normas reglamentarias que establezcan las formas y procedimientos que garanticen mayor participación a los ciudadanos en el quehacer Municipal y puedan expresar su aprobación o rechazo a los actos del Ayuntamiento, respecto de los Bandos, Reglamentos, circulares, o disposiciones administrativas de observancia general.
+Los Ayuntamientos expedirán las normas reglamentarias que establezcan las formas y procedimientos que garanticen el acceso a los instrumentos de participación ciudadana, que contribuyan al mejoramiento del quehacer municipal con la finalidad de que se atiendan eficazmente las necesidades de la población, y, que al mismo tiempo, les permita expresar su aprobación o rechazo a los actos del Ayuntamiento y la Administración Pública Municipal, respecto de los Bandos, reglamentos, circulares y cualquier disposición administrativa de observancia general.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -808,6 +820,10 @@ r).- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuota
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por las dos terceras partes del Ayuntamiento; en caso de ser necesario realizar adecuaciones presupuestales, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. En ambos casos, se deberá observar lo dispuesto por las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+s BIS) De acuerdo con su capacidad presupuestal, instrumentar la figura de presupuesto participativo como mecanismo de participación ciudadana, conforme a la legislación vigente y las normas reglamentarias que expida el Ayuntamiento.
 
 t).- Autorizar al Presidente Municipal, la celebración de contratos con particulares e instituciones oficiales, sobre asuntos de interés público, en los términos de Ley. Al efecto, los Ayuntamientos están facultados para obligarse crediticiamente a través del Presidente Municipal; en este caso, se deberán observar los criterios de aprobación establecidos en esta Ley, así como en las disposiciones de la materia.
 
@@ -1815,9 +1831,17 @@ b) Las obligaciones de garantía o pago causante de deuda pública u otros pasiv
 
 II. Presupuestos de Egresos:
 
-a) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; y
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-b) Las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros.
+a) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones;
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+b) Las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros; y
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+c) Las previsiones para sufragar las erogaciones correspondientes al presupuesto participativo, el cual deberá ser ejercido conforme a lo establecido en la Ley de Participación Ciudadana para el Estado de Hidalgo, la normativa reglamentaria que emita el Ayuntamiento y demás disposiciones aplicables.
 
 Los funcionarios de la administración pública municipal deberán comparecer ante el Ayuntamiento cuando se les requiera para aportar la información necesaria que contribuya a un mejor análisis de las Iniciativas.
 
@@ -3782,3 +3806,13 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 721 QUE REFORMA LOS INCISOS H), J) Y S) DE LA FRACCIÓN I DEL ARTÍCULO 56, EL INCISO GG) DE LA FRACCIÓN I DEL ARTÍCULO 60, LA FRACCIÓN XV DEL ARTÍCULO 67, LA FRACCIÓN XII DEL ARTÍCULO 69 Y LA FRACCIÓN II DEL ARTÍCULO 94; Y ADICIONA EL PÁRRAFO CUARTO RECORRIENDO EL CUARTO A QUINTO DEL ARTÍCULO 39 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 739 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las autoridades municipales, atendiendo a lo dispuesto en el artículo 56 inciso s BIS, del presente Decreto, tendrán un plazo de hasta 90 días naturales, contado a partir de la entrada en vigor del presente Decreto, para adecuar o expedir normas reglamentarias atendiendo a sus facultades constitucionales y legales.
