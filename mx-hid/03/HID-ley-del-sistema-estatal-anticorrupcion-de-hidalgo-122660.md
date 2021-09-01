@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-estatal-anticorrupcion-de-hidalgo-122660"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2017-07-10"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -220,6 +220,10 @@ VI. La persona titular que ocupe la Presidencia del Instituto de Transparencia, 
 VII. La persona titular que ocupe la Presidencia del Tribunal de Justicia Administrativa; y
 
 VIII. Cinco titulares de Contralorías Municipales, quienes durarán en su encargo un año y serán designados por la Comisión de Selección a que hace referencia el artículo 18 de esta Ley, tomando en consideración la opinión del Instituto de Desarrollo Municipal del Estado, y del Instituto para el Desarrollo y Fortalecimiento Municipal del Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+IX. La o el Presidente de la Comisión de Transparencia y Anticorrupción, del Congreso Libre y Soberano del Estado de Hidalgo.
 
 ###### Artículo 11.
 
@@ -710,3 +714,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 741 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 10, (SIC) LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE HIDALGO.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que contravengan el presente decreto.
