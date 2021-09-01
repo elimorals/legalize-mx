@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2021-01-20"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -41,7 +41,9 @@ QUE CONTIENE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S …
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -1614,6 +1616,14 @@ III. Corredores Biológicos;
 IV. Zonas sujetas voluntariamente a conservación; y
 
 V. Jardines Históricos, Botánicos, Orquidarios y Arboretos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+Para poder realizar las obras y actividades que realice el sector público o privado descritas en el artículo 37, éstas, deberán sujetarse a la evaluación del impacto ambiental y a su autorización, previsto en esta Ley y su reglamento, normas oficiales y demás disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de iniciar obras y actividades, en las áreas naturales protegidas, sin contar con la evaluación del impacto ambiental y a su autorización, se impondrán las Medidas de Seguridad e Infracciones y Sanciones aplicables establecidas en el Título Séptimo de la presente Ley.
 
 ###### Artículo 87.
 
@@ -3374,3 +3384,9 @@ P.O. 20 DE ENERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los Ayuntamientos contarán con sesenta días para la adecuación de sus reglamentos acorde al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 740 POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO, AL ARTÍCULO 86 A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
