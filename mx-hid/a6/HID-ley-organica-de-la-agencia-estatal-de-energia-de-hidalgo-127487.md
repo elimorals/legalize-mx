@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-agencia-estatal-de-energia-de-hidalgo-127487
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-04-02"
-last_updated: "2018-04-02"
+last_updated: "2021-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENERGÍA DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número 14 del Periódico Oficial del Estado de Hidalgo, el lunes 2 de abril de 2018.
 
@@ -73,7 +73,7 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Agencia: Agencia Estatal de Energía de Hidalgo;
 
-II. Director: Director General de la Agencia Estatal de Energía de Hidalgo;
+II. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2021)
 
 III. Ley: Ley Orgánica de la Agencia Estatal de Energía de Hidalgo;
 
@@ -87,7 +87,9 @@ Para cumplir con su objetivo, la Agencia tendrá las siguientes atribuciones:
 
 I. Celebrar convenios, contratos, alianzas estratégicas, asociaciones, formar sociedades, fideicomisos y, en general, toda clase de actos e instrumentos jurídicos tendientes a cumplir con el objetivo de la Agencia; con los agentes públicos, sociales y privados, interesados en la materia;
 
-II. Promover la creación y participar en empresas de propósito específico para desarrollar actividades económicas del sector energético en términos de la Ley de Hidrocarburos, de la Ley de la Industria Eléctrica, de la Ley Federal de Competencia Económica y de las demás disposiciones jurídicas aplicables a nivel federal y estatal; ya sea con participación minoritaria por parte de la Agencia o en términos de la Ley de Entidades Paraestatales del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+II. Promover, crear, integrar, constituir, participar y administrar, sociedades y empresas de propósito específico para desarrollar actividades económicas del sector energético en términos de la Ley de Hidrocarburos, de la Ley de la Industria Eléctrica, de la Ley Federal de Competencia Económica y de las demás disposiciones jurídicas aplicables a nivel federal y estatal; y en términos de la Ley de Entidades Paraestatales del Estado de Hidalgo;
 
 III. Promover y fomentar el uso, aprovechamiento racional y eficiente de la energía eléctrica, de los combustibles fósiles y de las fuentes de energías renovables, así como la reducción de emisiones de gases de efecto invernadero;
 
@@ -119,7 +121,9 @@ XVI. Apoyar a los productores, proveedores y contratistas del sector energético
 
 XVII. Ejecutar, desarrollar y construir obra pública relacionada con proyectos prioritarios en materia energética;
 
-XVIII. Promover y participar en la generación de información y realización de estudios e investigaciones tendientes a la realización de proyectos energéticos sustentables, en especial para el establecimiento de zonas de actuación para el desarrollo de proyectos de energía;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Promover, realizar y participar en la generación de información y de estudios e investigaciones tendientes a la realización de proyectos energéticos sustentables, en especial para el establecimiento de zonas de actuación para el desarrollo de proyectos de energía;
 
 XIX. Asesorar y ofrecer asistencia técnica sobre temas de energía a los ayuntamientos de la Entidad, dependencias y entidades, así como a las personas físicas y morales, públicas y privadas;
 
@@ -131,6 +135,10 @@ XXII. Representar a la persona titular de la Secretaría de Desarrollo Económic
 
 XXIII. Proponer apoyos, incentivos y subvenciones para el desarrollo de proyectos energéticos y para empresas del sector energético en la Entidad, de acuerdo con la normatividad aplicable; y
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII BIS. Realizar todo tipo de estudios, incluyendo de impacto social y ambiental para el desarrollo de proyectos energéticos en el Estado;
+
 XXIV. Las demás que señale la Ley, otras disposiciones aplicables y que se requieran para el cumplimiento de su objetivo.
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN
@@ -141,7 +149,9 @@ Para el cumplimiento de su objetivo y desempeño de sus funciones, la Agencia es
 
 I. La Junta de Gobierno; y
 
-II. El Director General.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+II. La persona titular de la Dirección General de la Agencia.
 
 ###### Artículo 6.
 
@@ -171,7 +181,9 @@ e) Secretaría de Gobierno; y
 
 f) La Unidad de Planeación y Prospectiva.
 
-Cada integrante de la Junta de Gobierno podrá ser suplido por un representante que éste designe por escrito, el cual deberá tener cargo mínimo de Director dentro de la dependencia en que desempeñe tal cargo y contará con las mismas facultades de los propietarios, en caso de ausencia de estos. Las y los titulares o quienes los suplan gozarán de voz y voto, pero un mismo integrante o quien supla a éste, no podrá sustituir, representar o realizar alguna función de otro integrante, dentro de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+Cada integrante de la Junta de Gobierno podrá ser suplido por un representante que éste designe por escrito, el cual deberá tener cargo mínimo de Dirección de Área dentro de la dependencia en que desempeñe tal cargo y contará con las mismas facultades de los propietarios, en caso de ausencia de estos. Las y los titulares o quienes los suplan gozarán de voz y voto, pero un mismo integrante o quien supla a éste, no podrá sustituir, representar o realizar alguna función de otro integrante, dentro de la Junta de Gobierno.
 
 El cargo de miembro de la Junta de Gobierno será honorífico, por lo que no recibirán salario, prestación o emolumento alguno por su desempeño.
 
@@ -273,7 +285,9 @@ VI. Vigilar la congruencia entre el presupuesto de ingresos estimado, modificado
 
 VII. Aprobar la suscripción o celebración de créditos para el financiamiento de la Agencia, sin perjuicio de cumplir con las disposiciones establecidas en la legislación de deuda pública estatal y observar los lineamientos que dicten las autoridades competentes, en materia de manejo de disponibilidades financieras;
 
-VIII. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la Agencia que no correspondan a las operaciones propias del objetivo de la misma;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la persona titular de la Dirección General pueda disponer de los activos fijos de la Agencia que no correspondan a las operaciones propias del objetivo de la misma;
 
 IX. Aprobar, anualmente los estados financieros y la información programática-presupuestal de la Agencia, una vez que se cuente con el dictamen del Auditor Externo y el Comisario Público haya presentado su informe correspondiente para efectos de transparencia en el actuar de la Junta de Gobierno;
 
@@ -285,7 +299,9 @@ XII. Proponer a la persona titular del Ejecutivo Estatal por conducto de la Secr
 
 XIII. Autorizar la creación de comités o subcomités especializados o comités de apoyo institucional;
 
-XIV. Nombrar y remover, a propuesta del Director General, a los servidores públicos de la Agencia que ocupen cargos con dos niveles administrativos inmediatos inferiores al de aquél. En materia de fijación de sueldos y prestaciones, apegarse a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia, así como conceder licencias y las demás que señale su Estatuto Orgánico;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Nombrar y remover, a propuesta de la persona titular de la Dirección General, a los servidores públicos de la Agencia que ocupen cargos con dos niveles administrativos inmediatos inferiores al de aquél. En materia de fijación de sueldos y prestaciones, apegarse a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia, así como conceder licencias y las demás que señale su Estatuto Orgánico;
 
 XV. Nombrar y remover a propuesta de su Presidente, a la o el Secretario Técnico y Prosecretario de la Junta de Gobierno quienes podrán ser miembros o no del mismo;
 
@@ -295,7 +311,9 @@ XVII. Proponer la aplicación de estos recursos en proyectos autorizados por la 
 
 XVIII. Establecer, con sujeción a las disposiciones legales aplicables, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Agencia requiera para la prestación de sus servicios, de conformidad con la Ley de Bienes del Estado;
 
-XIX. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Analizar y aprobar, en su caso, los informes periódicos que rinda la persona titular de la Dirección General con la intervención que corresponda a los comisarios;
 
 XX. Acordar con sujeción a las disposiciones legales aplicables, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Dependencia Coordinadora de Sector correspondiente;
 
@@ -303,11 +321,15 @@ XXI. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a fa
 
 XXII. Supervisar el cumplimiento de las medidas adoptadas para el ejercicio del gasto público con base en resultados;
 
-XXIII. Verificar que la o el titular de la Agencia realice las acciones pertinentes que permitan la implantación de los programas y proyectos en materia de racionalidad, disciplina y eficiencia presupuestal. Proponer los sueldos y prestaciones adicionales de los servidores públicos de la Agencia, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII. Verificar que la persona titular de la Agencia realice las acciones pertinentes que permitan la implementación de los programas y proyectos en materia de racionalidad, disciplina y eficiencia presupuestal. Proponer los sueldos y prestaciones adicionales de los servidores públicos de la Agencia, de conformidad con las disposiciones aplicables;
 
 XXIV. Aprobar el Programa Sectorial de Fomento al Desarrollo Energético Sustentable y los subprogramas que de éste se deriven;
 
-XXV. Aprobar, previo a su firma, los acuerdos, convenios, fideicomisos, contratos, asociaciones, sociedades y demás actos jurídicos que celebre el Director General para el cumplimiento del objetivo de la Agencia; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXV. Autorizar a la persona titular de la Dirección General, previo a su firma, la constitución de fideicomisos, asociaciones y sociedades, para el cumplimiento del objetivo de la Agencia; y
 
 XXVI. Las demás que le sean conferidas por la Ley y otras disposiciones legales y normativas aplicables.
 
@@ -351,15 +373,21 @@ V. Participar en los comités o subcomités o grupos de trabajo que determine la
 
 VI. Las demás que le sean encomendadas por la Junta de Gobierno y las que sean necesarias para el adecuado funcionamiento de la misma.
 
-### CAPÍTULO IV. DEL DIRECTOR GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO IV. DE LA PERSONA TITULAR DE LA DIRECCIÓN GENERAL
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 17.
 
-La o el Director, quien funge como representante legal de la Agencia, se designará libremente por la persona titular del Ejecutivo Estatal, o a indicación de ésta por la persona titular de la Secretaría de Desarrollo Económico, por un periodo de seis años, con posibilidad de ser designado nuevamente, por única ocasión por un período igual.
+La persona titular de la Dirección General, quien funge como representante legal de la Agencia, se designará libremente por la persona titular del Poder Ejecutivo Estatal, o a indicación de ésta por la persona titular de la Secretaría de Desarrollo Económico, por un periodo de seis años, con posibilidad de ser designado nuevamente, por única ocasión por un periodo igual.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-Son requisitos para ser la o el Director los siguientes:
+Son requisitos para ser la persona titular de la Dirección General los siguientes:
 
 I. Ser ciudadana o ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos políticos;
 
@@ -371,11 +399,15 @@ IV. Tener un modo honesto de vivir;
 
 V. Comprobar no tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción; y
 
-VI. Acreditar cuando menos cinco años de experiencia en el sector público o privado, en puestos de nivel dirección general o superior.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Acreditar cuando menos cinco años de experiencia en el sector público o privado, de los cuales cuando menos uno deberá ser a nivel de directivo o similar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-Durante el tiempo de su encargo, la o el Director sólo podrá ser removido por alguna de las causas siguientes:
+Durante el tiempo de su encargo, la persona titular de la Dirección General sólo podrá ser removida por alguna de las causas siguientes:
 
 I. Perder sus derechos como ciudadano o ser suspendido en el ejercicio de los mismos;
 
@@ -385,23 +417,31 @@ III. Ser declarado en estado de interdicción;
 
 IV. Faltar a las sesiones de la Junta de Gobierno, sin motivo o causa justificada;
 
-V. Dejar de cumplir con cualquiera de los requisitos para ser Director;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Desempeñar cualquier otro tipo de empleo, trabajo, cargo o comisión públicos o privados, salvo que sea académico;
+V. Dejar de cumplir con cualquiera de los requisitos señalados en el artículo 18 de la Ley;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Desempeñar cualquier otro empleo, salvo que sea de carácter académico o se trate de algún cargo o comisión honorarios.
 
 VII. Aprovechar o explotar la información a la que tienen acceso en virtud de su encargo, en beneficio propio o a favor de terceros; y
 
 VIII. Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente y de manera indebida, información que se encuentre bajo su custodia, a la cual tenga acceso o conocimiento con motivo de su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 20.
 
-Además de las conferidas en los artículos 15 y 16 de la Ley de Entidades Paraestatales del Estado de Hidalgo, así como el artículo 16 de su Reglamento, la o el Director tendrá las siguientes facultades y obligaciones:
+Además de las conferidas en la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, la persona titular de la Dirección General, tendrá las siguientes facultades y obligaciones:
 
 I. Administrar y representar legalmente a la Agencia;
 
 II. Implementar una administración ágil, eficiente y eficaz sujetándose a lo establecido en Ley de Entidades Paraestatales del Estado de Hidalgo, en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y en el Proceso de Planeación para el desarrollo del Estado;
 
-III. Formular los programas de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos y presentarlos para su aprobación a la Junta de Gobierno. Si dentro de los plazos correspondientes el Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, la Junta de Gobierno procederá al desarrollo e integración de tales instrumentos;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+III. Formular los programas de acción, financiero y operativo anual, los presupuestos de ingresos y egresos, así como presentarlos para su aprobación a la Junta de Gobierno. Si dentro de los plazos establecidos la persona titular de la Dirección General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, la Junta de Gobierno procederá al desarrollo e integración de tales instrumentos;
 
 IV. Formular el Programa de Calidad Institucional y Mejora Continua;
 
@@ -415,7 +455,9 @@ VIII. Establecer sistemas eficientes para la administración del personal, de lo
 
 IX. Establecer un sistema de indicadores que permita evaluar la gestión con base a resultados;
 
-X. Proponer a la Junta de Gobierno el nombramiento o la remoción de los dos niveles administrativos inmediatos inferiores al del Director General, la fijación de sueldos y demás prestaciones, de conformidad a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+X. Proponer a la Junta de Gobierno el nombramiento o la remoción de los dos niveles administrativos inmediatos inferiores a la persona titular de la Dirección General, la fijación de sueldos y demás prestaciones, de conformidad a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia;
 
 XI. Presentar periódicamente a la Junta de Gobierno el informe del desempeño de las actividades de la Agencia, incluida la evaluación programática - presupuestal, el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
 
@@ -442,6 +484,10 @@ XXI. Otorgar poderes generales y especiales con las facultades que les competan,
 Los poderes generales para actos de dominio y administración, para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados;
 
 XXII. Sustituir y revocar poderes generales o especiales;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XXII BIS. Emitir y certificar las copias de los registros y documentos que obren en los archivos de la Agencia, conforme a la normatividad aplicable;
 
 XXIII. Formular y actualizar el Programa Institucional de Desarrollo de la Agencia, el cual deberá ser congruente con la actualización que sobre el particular establezcan las dependencias globalizadoras, respecto al Plan Estatal de Desarrollo;
 
@@ -477,7 +523,9 @@ XXXVIII. Elaborar el Estatuto Orgánico de la Agencia y presentarlo para su apro
 
 XXXIX. Nombrar y remover al personal administrativo de la Agencia conforme a lo establecido en las disposiciones vigentes;
 
-XL. Proponer a la Junta de Gobierno la creación de asociaciones, fideicomisos y empresas de propósito específico en materia energética;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XL. Proponer a la Junta de Gobierno la creación de asociaciones, sociedades y fideicomisos en materia energética;
 
 XLI. Recabar la información y elementos estadísticos que reflejen el estado de las funciones de la Agencia tendientes a mejorar la gestión de la misma;
 
@@ -489,7 +537,9 @@ XLIV. Promover la participación de las organizaciones sociales, instituciones a
 
 XLV. Contratar servicios de asesoría profesional especializada que coadyuven al cumplimiento de los objetivos de la Agencia o las que se deriven de otras disposiciones aplicables, previo acuerdo de la Junta de Gobierno;
 
-XLVI. Signar, previa autorización de la Junta de Gobierno, acuerdos, convenios, contratos, fideicomisos, asociaciones, sociedades y demás actos jurídicos propios de la Agencia; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+XLVI. Signar, previa autorización de la Junta de Gobierno, la constitución de fideicomisos, asociaciones y sociedades para el cumplimiento del objeto de la Agencia; y
 
 XLVII. Las que señalen otras leyes, reglamentos, decretos, acuerdos, y demás disposiciones legales y reglamentarias, así como lo que le indique la Junta de Gobierno, la o el titular del Ejecutivo Estatal y la Secretaría de Desarrollo Económico, de conformidad y con las limitaciones y restricciones de las disposiciones legales aplicables.
 
@@ -521,7 +571,9 @@ IV. Las cuotas y otros ingresos propios que reciba por los servicios prestados;
 
 V. Los bienes muebles e inmuebles de su propiedad, los que le sean transmitidos y los que adquiera por cualquier título legal;
 
-VI. Las cuotas, utilidades de empresas en las que participe, intereses, dividendos y en general otros ingresos propios que reciba por los bienes y servicios prestados; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Las cuotas, utilidades que genere de empresas en las que participe, con base en la parte proporcional de sus aportaciones, intereses, dividendos y en general otros ingresos propios que reciba por los bienes y servicios prestados; y
 
 VII. Los demás ingresos, bienes, y recursos que por cualquier título legal reciba o adquiera.
 
@@ -622,3 +674,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 736 QUE APRUEBA LA INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENERGÍA DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
