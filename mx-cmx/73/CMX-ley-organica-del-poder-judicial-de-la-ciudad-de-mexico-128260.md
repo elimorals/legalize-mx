@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2021-07-22"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -100,43 +100,73 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acción efectiva, a la acción de protección efectiva de derechos;
 
-II. Archivo Judicial, al Archivo Judicial del Tribunal Superior de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-III. Centro de Justicia Alternativa, al Centro de Justicia Alternativa del Tribunal Superior de Justicia de la Ciudad de México;
+II. Archivo Judicial, al Archivo Judicial del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
 
-IV. Comisión de Disciplina Judicial, a la Comisión de Disciplina Judicial del Consejo de la Judicatura de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+III. Centro de Justicia Alternativa, al Centro de Justicia Alternativa del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Comisión de Disciplina Judicial, a la Comisión de Disciplina Judicial del Consejo de la Judicatura del Poder Judicial de la Ciudad de México;
 
 V. Congreso, al Congreso de la Ciudad de México;
 
-VI. Consejo de la Judicatura, al Consejo de la Judicatura de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Consejo de la Judicatura, al Consejo de la Judicatura del Poder Judicial de la Ciudad de México;
 
 VII. Constitución, a la Constitución Política de la Ciudad de México;
 
-VIII. Contraloría, a la Contraloría del Tribunal Superior de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Instituto de Estudios Judiciales, al Instituto de Estudios Judiciales del Consejo de la Judicatura;
+VIII. Contraloría, a la Contraloría del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
 
-X. Juzgados, a los órganos jurisdiccionales del Tribunal Superior de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XI. Las y los Consejeros de la Judicatura, a las personas titulares del Consejo de la Judicatura de la Ciudad de México;
+IX. Instituto de Estudios Judiciales, al Instituto de Estudios Judiciales del Consejo de la Judicatura del Poder Judicial de la Ciudad de México;
 
-XII. Las y los Magistrados de las Magistraturas, a las Magistradas o Magistrados del Tribunal Superior de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Juzgadores y/o las y los Jueces de la Ciudad de México, a las y los titulares de los Juzgados del Tribunal Superior de Justicia de la Ciudad de México;
+X. Juzgados, a los órganos jurisdiccionales del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Las y los Consejeros de la Judicatura, a las personas integrantes del Consejo de la Judicatura del Poder Judicial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Las y los Magistrados, a las Magistradas o Magistrados adscritos al Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Juzgadores y/o las y los Jueces de la Ciudad de México, a las personas titulares de los Juzgados del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
 
 XIV. Ley, a la presente Ley Orgánica del Poder Judicial de la Ciudad de México;
 
-XV. Pleno, al Pleno del Tribunal Superior de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. Pleno del Consejo, al Pleno del Consejo de la Judicatura de la Ciudad de México;
+XV. Pleno, al Pleno del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Pleno del Consejo, al Pleno del Consejo de la Judicatura del Poder Judicial de la Ciudad de México;
 
 XVII. Poder Judicial, al Poder Judicial de la Ciudad de México;
 
-XVIII. Sala o Salas, a las Salas del Tribunal Superior de Justicia de la Ciudad de México en cualquiera de las siguientes materias: Civil, Penal, Familiar, justicia para Adolescentes, Especializadas en Ejecución de Sentencias Penales y Laboral;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XIX. Sala Constitucional, a la Sala Constitucional del Tribunal Superior de Justicia de la Ciudad de México; y
+XVIII. Sala o Salas, a las Salas del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México en cualquiera de las siguientes materias: Civil, Penal, Familiar, Justicia para Adolescentes, Especializadas en Ejecución de Sentencias Penales y Laboral;
 
-XX. Tribunal Superior de Justicia, al Tribunal Superior de Justicia de la Ciudad de México.
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Sala Constitucional, a la Sala Constitucional del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, y
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Tribunal Superior de Justicia, al Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México.
 
 ###### Artículo 6.
 
@@ -146,11 +176,15 @@ I. Las y los Magistrados del Tribunal Superior de Justicia; y
 
 II. Las y los Jueces de la Ciudad de México.
 
-Las demás personas servidoras públicas y auxiliares de la administración de justicia intervendrán en el ejercicio jurisdiccional en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Ley, los Códigos de Procedimientos vigentes en la Ciudad de México y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Las demás personas servidoras públicas y auxiliares de la administración de justicia intervendrán en el ejercicio jurisdiccional, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Ley, los Códigos de Procedimientos Nacionales o los vigentes en la Ciudad de México y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 7.
 
-Los árbitros no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fije el Código de Procedimientos Civiles vigente en la Ciudad de México, el Código de Comercio para toda la República y otras leyes que expresamente lo regulen, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles y mercantiles que les encomienden los interesados. Para que resulten ejecutables sus fallos, éstos deben ser homologados por las autoridades civiles y jurisdiccionales correspondientes, sólo en relación con los requisitos inherentes a su formalidad.
+Las personas árbitras no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fijen los Códigos de Procedimientos Nacionales o los vigentes en la Ciudad de México, el Código de Comercio para toda la República y otras leyes que expresamente lo regulen, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles y mercantiles que les encomienden las personas interesadas. Para que resulten ejecutables sus fallos, éstos deben ser homologados por las autoridades civiles y jurisdiccionales correspondientes, sólo en relación con los requisitos inherentes a su formalidad.
 
 ###### Artículo 8.
 
@@ -200,29 +234,39 @@ Para los efectos de esta Ley, habrá un sólo partido judicial con la extensión
 
 Los nombramientos de las y los Magistrados del Tribunal Superior de Justicia se realizarán en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución y la Ley Orgánica del Congreso de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 11.
 
-A propuesta del Consejo de la Judicatura las y los Magistrados del Tribunal Superior de Justicia serán designados y en su caso ratificados por las dos terceras partes de las y los Diputados del Congreso, de entre las ternas que les remita el propio Consejo de la Judicatura.
+A propuesta del Consejo de la Judicatura, las y los Magistrados adscritos al Tribunal Superior de Justicia serán designados y, en su caso, ratificados por las dos terceras partes de las y los Diputados del Congreso.
 
 Las y los Magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en la Constitución y en esta Ley.
 
-Las ternas serán integradas por las y los aspirantes que hayan cubierto los requisitos y la evaluación que al efecto se lleve a cabo en los términos del artículo 35 apartado E, numeral 11 de la Constitución.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Las personas aspirantes propuestas deberán cumplir con los requisitos establecidos en el artículo 35 Apartado E, numeral 11 de la Constitución.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-El Congreso deberá designar o ratificar a la o al candidato a ocupar el cargo de Magistrada o Magistrado de entre la terna propuesta, o bien, rechazar toda la terna, dentro del improrrogable plazo de quince días hábiles, contados a partir del día siguiente en que se reciba en el propio Congreso el oficio respectivo del Consejo de la Judicatura.
+El Congreso deberá designar o ratificar a la persona candidata a ocupar el cargo de Magistrada o Magistrado, o bien, rechazar, dentro del improrrogable plazo de quince días hábiles, contados a partir del día siguiente en que se reciba en el propio Congreso el oficio respectivo del Consejo de la Judicatura.
 
-Para computar dicho plazo, el oficio que contenga la o las ternas de las y los candidatos a ocupar el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia, se remitirá al Congreso con una copia, a fin de que en ésta se asiente el sello de recibido y la fecha correspondiente de la instancia que actúe como oficialía de partes de ese órgano legislativo.
+Para computar dicho plazo, el oficio que contenga la o las propuestas de las personas candidatas a ocupar el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia, se remitirá al Congreso con una copia, a fin de que en ésta se asiente el sello de recibido y la fecha correspondiente de la instancia que actúe como oficialía de partes de ese órgano legislativo.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-En caso de que el Congreso rechace por escrito la totalidad de las y los aspirantes de la o las ternas propuestas en el referido plazo, en un tiempo máximo de dos días hábiles a partir de que fue notificada la resolución del Congreso, el Consejo someterá una nueva terna, en los términos del artículo precedente.
+En caso de que el Congreso rechace por escrito la totalidad de las personas aspirantes de la o las propuestas en el referido plazo, en un tiempo máximo de dos días hábiles contados a partir de que fue notificada la resolución del Congreso, el Consejo someterá una nueva propuesta, en los términos del artículo precedente.
 
-Si esta segunda terna fuere rechazada por escrito del Congreso o el Consejo de la Judicatura no fuese notificado por el Congreso de su resolución en el plazo de quince días hábiles mencionado, ocupará el cargo con carácter provisional la persona que determine el Consejo de la Judicatura, quien deberá haber acreditado los requisitos establecidos en el artículo 21 de esta Ley y demás disposiciones jurídicas aplicables y no haber integrado ninguna de las ternas rechazadas.
+Si esta segunda propuesta fuere rechazada por escrito del Congreso o el Consejo de la Judicatura no fuese notificado por el Congreso de su resolución en el plazo de quince días hábiles mencionado, ocupará el cargo con carácter provisional la persona que determine el Consejo de la Judicatura, quien deberá haber acreditado los requisitos establecidos en el artículo 21 de esta Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 14.
 
-En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Consejo de la Judicatura hará un tercero que surtirá sus efectos desde luego como provisionales y que estará sometido a la aprobación del Congreso en un plazo de quince días hábiles improrrogables.
+En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Consejo de la Judicatura hará un tercero que surtirá sus efectos provisionales y estará sometido a la aprobación del Congreso en un plazo de quince días hábiles improrrogables.
 
 ###### Artículo 15.
 
@@ -280,7 +324,7 @@ VII. No haber ocupado el cargo de titular de la Jefatura de Gobierno, la Secreta
 
 VIII. Presentar su declaración de evolución patrimonial, conforme a la ley de la materia; y
 
-IX. Aprobar los procesos de evaluación de control de confianza que para tal efecto emita a través de acuerdo el Consejo de la Judicatura en coordinación con el Instituto de Estudios Judiciales.
+IX. (DEROGADA, G.O. 2 DE SEPTIEMBRE DE 2021)
 
 Los nombramientos de las y los Magistrados serán hechos preferentemente de entre aquellas personas que cuentan con el Servicio Civil de Carrera Judicial y que se hayan desempeñado como juez o jueza o que hayan prestado sus servicios con eficiencia y probidad en la impartición o procuración de justicia, o en su caso, que por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica se consideren aptos para impartirla. En igualdad de circunstancias, se preferirá a los originarios o vecinos de la Ciudad de México.
 
@@ -306,31 +350,7 @@ VIII. Participar y obtener resultado favorable en el concurso de oposición, as�
 
 ###### Artículo 23.
 
-Para ser Jueza o Juez en las materias de Justicia para Adolescentes, Ejecución de Sanciones Penales, de Delitos no Graves y Civil de Cuantía Menor se requiere:
-
-I. Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Tener cuando menos veintiocho años de edad cumplidos al día de la designación;
-
-III. Contar con título de Licenciado en Derecho y Cédula Profesional expedida por la autoridad o institución legalmente facultada para ello;
-
-IV. Tener práctica profesional mínima de cuatro años, contados a partir de la obtención del título profesional relacionada con la materia del cargo para el que se concursa, además la práctica profesional de los jueces de justicia penal para adolescentes y de ejecución de sanciones deberá estar relacionada con las materias de:
-
-a) Conocimientos interdisciplinarios en materia de derechos de niñas, niños y adolescentes;
-
-b) Conocimientos específicos sobre el Sistema Integral de Justicia Penal para Adolescentes;
-
-c) Conocimientos del sistema penal acusatorio, las medidas de sanción especiales y la prevención del delito para adolescentes;
-
-d) El desarrollo de habilidades para el trabajo con adolescentes en el ámbito de sus respectivas competencias.
-
-V. Haber residido en la Ciudad de México o en su área Metropolitana durante los dos años anteriores al día de la designación;
-
-VI. Gozar de buena reputación, para lo cual se tomará en cuenta no ser deudor alimentario moroso y contar con una trayectoria laboral respetable a través de un estudio de los antecedentes del postulante en el que se pueda evaluar su conducta ética;
-
-VII. No haber sido condenado por sentencia firme, por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
-
-VIII. Participar y obtener resultado favorable en el concurso de oposición, así como en los demás exámenes que establece ésta Ley, en los mismos términos de lo que ésta dispone.
+(DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 24.
 
@@ -428,13 +448,15 @@ El Consejo de la Judicatura a propuesta del Pleno del Tribunal, establecerá por
 
 ### CAPÍTULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-El Poder Judicial de la Ciudad de México se deposita en un Tribunal Superior de Justicia que contará con una Sala Constitucional; un Consejo de la Judicatura y Juzgados.
+El Poder Judicial se deposita en un Tribunal Superior de Justicia que contará con una Sala Constitucional; un Consejo de la Judicatura y Juzgados.
 
-El Tribunal Superior de Justicia de la Ciudad de México, funcionará en Pleno y en Salas.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas.
 
-El Pleno del Tribunal de Justicia de la Ciudad de México, es el Órgano supremo del Poder Judicial, éste se integra por las y los Magistrados adscritos al Tribunal Superior de Justicia, una o uno de los cuales presidirá y no formará parte de ninguna Sala.
+El Pleno del Tribunal de Justicia, es el órgano supremo del Poder Judicial, éste se integra por las y los Magistrados adscritos al Tribunal Superior de Justicia, una o uno de los cuales presidirá sin formar parte de alguna Sala.
 
 ###### Artículo 33.
 
@@ -472,11 +494,15 @@ El Pleno deberá dictar la resolución correspondiente dentro del término de tr
 
 IV. Solicitar al Consejo de la Judicatura, el cambio de adscripción de las o los Jueces y, en su caso, su remoción del cargo por causa justificada;
 
-V. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus propias funciones y de las relativas a la función jurisdiccional del Tribunal Superior de Justicia, del Instituto de Servicios Periciales y Ciencias Forenses y de los órganos judiciales;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Establecer los mecanismos que permitan evaluar el desempeño jurisdiccional de las Salas y Juzgados para su implementación;
+V. Emitir precedentes jurisdiccionales sobre criterios sostenidos en asuntos competencia del Pleno, a petición de cualquier persona Magistrada, los cuales serán del conocimiento público;
 
-VII. Ordenar y supervisar que el Instituto de Estudios Judiciales implemente cursos de capacitación y actualización de carácter jurisdiccional de forma permanente, en los que participen los servidores públicos de la administración de justicia;
+VI. (DEROGADA, G.O. 2 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Solicitar al Instituto de Estudios Judiciales la implementación permanente de cursos de capacitación y actualización de carácter jurisdiccional, en los que participen las personas servidoras públicos (sic) del Poder Judicial de la Ciudad de México;
 
 VIII. Recibir y en su caso aceptar o rechazar la renuncia de quien presida el Tribunal;
 
@@ -484,7 +510,9 @@ IX. Determinar la materia de las Salas del Tribunal Superior de Justicia;
 
 X. Calificar en cada caso las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones que se promuevan en contra de las Magistradas y los Magistrados, en negocios de la competencia del Pleno;
 
-XI. Proponer al Consejo de la Judicatura, a través de su Presidente, las adecuaciones administrativas tendientes a simplificar y eficientar los procedimientos de registro, control y seguimiento de los asuntos que sean tramitados ante los Tribunales del Fuero Común y del Tribunal Superior de Justicia procurando en todo caso, y en la medida de lo posible, la incorporación de los métodos más modernos de sistematización y computarización para la más expedita, eficaz y transparente administración de justicia;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Proponer al Consejo de la Judicatura, sin perjuicio de las facultades administrativas y de gestión de este último para emitirlas, a través de su Presidente, las adecuaciones administrativas tendientes a simplificar y eficientar los procedimientos de registro, control y seguimiento de los asuntos que sean tramitados ante los Tribunales del Fuero Común y del Tribunal Superior de Justicia procurando en todo caso, y en la medida de lo posible, la incorporación de los métodos más modernos de sistematización y computarización para la más expedita, eficaz y transparente administración de justicia;
 
 XII. Conocer de las quejas que se presenten en contra de quien lo presida;
 
@@ -492,7 +520,9 @@ XIII. Conocer de los asuntos cuya resolución no esté expresamente atribuida a 
 
 XIV. Resolver las revisiones administrativas a que se refiere el párrafo octavo del artículo 100 de la Constitución Política de los Estados Unidos Mexicanos, en los términos que esta Ley dispone;
 
-XV. Solicitar al Consejo de la Judicatura, la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función de los órganos judiciales;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Solicitar al Consejo de la Judicatura, sin perjuicio de la facultad administrativa directa de este último, la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función de los órganos judiciales;
 
 XVI. Revisar, modificar y, en su caso, revocar los acuerdos que el Consejo de la Judicatura apruebe, siempre y cuando se refieran a la designación, adscripción, remoción de las y los Magistrados o Jueces, requiriéndose para ello el voto de cuando menos dos terceras partes de sus integrantes, de conformidad con los artículos 108 y 109 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -520,9 +550,11 @@ La o el Magistrado que presida el Tribunal Superior de Justicia de la Ciudad de 
 
 El periodo de ejercicio del Presidente iniciará en el mes de enero y rendirá la protesta de ley ante el Pleno del Tribunal Superior de Justicia, en la primera sesión del año en curso.
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 39.
 
-La o el Magistrado que presida el Tribunal Superior de Justicia, tendrá las atribuciones que le confiere la presente Ley, siendo sus funciones principales las de: impulsar el desarrollo del Sistema de Impartición y Administración de Justicia en la Ciudad de México; procurar la correcta aplicación de la ley y velar para que la administración de justicia sea eficaz y expedita, dictando al efecto las providencias que fueren necesarias, promoviendo la modernización y adecuado funcionamiento de los diversos órganos jurisdiccionales y administrativos, por sí o por conducto de las personas servidoras públicas judiciales facultados al efecto.
+La o el Magistrado que presida el Tribunal Superior de Justicia, tendrá las atribuciones que le confiere la presente Ley, siendo sus funciones principales las de: impulsar el desarrollo del Sistema de Impartición y Administración de Justicia en la Ciudad de México; procurar la correcta aplicación de la ley y velar para que la administración de justicia sea eficaz y expedita, dictando al efecto las providencias que fueren necesarias, promoviendo la modernización y adecuado funcionamiento de los diversos órganos jurisdiccionales y administrativos, por sí o por conducto de las personas servidoras públicas judiciales facultados al efecto, así como a través de propuestas al Consejo de la Judicatura para su aprobación.
 
 ###### Artículo 40.
 
@@ -538,7 +570,9 @@ a) En los actos oficiales, teniendo la facultad de delegar en otros Magistrados 
 
 b) Ante las autoridades en cualquier procedimiento en que el Tribunal Superior de Justicia sea parte, teniendo la facultad de delegar por causas de fuerza mayor en aquellos casos que las leyes lo permitan, la representación en el Titular de la Dirección Jurídica.
 
-II. Nombrar a los Secretarios de la Presidencia y del Pleno del Tribunal;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+II. Nombrar a las personas secretarias de la Presidencia y del Pleno del Tribunal, así como a la persona titular de la Oficialía Mayor, de la Dirección General del Centro de Justicia Alternativa, de la Dirección General del Instituto de Estudios Judiciales y de la Dirección del Instituto de Servicios Pericial (sic) y Ciencias Forenses;
 
 III. Designar a los Titulares de las Secretarías Auxiliares o Técnicas, y demás personal de la Presidencia. De igual forma a los funcionarios, técnicos y personal que señale la presente ley;
 
@@ -642,6 +676,10 @@ Las Salas penales establecerán un sistema de guardia y control, para substancia
 
 Las resoluciones colegiadas de las Salas se tomarán por unanimidad o mayoría de votos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Asimismo, a petición de cualquiera de sus integrantes, podrán integrar precedentes los criterios emitidos por unanimidad en asuntos de su competencia.
+
 ###### Artículo 50.
 
 Corresponde a la Presidenta o Presidente de la Sala:
@@ -656,9 +694,17 @@ IV. Dirigir la discusión de los negocios sometidos al conocimiento de la Sala y
 
 V. Dar a la Secretaría de Acuerdos los puntos que comprendan las disposiciones resolutivas votadas y aprobadas;
 
-VI. Llevar la administración de la oficina de la Sala; y
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Vigilar que las Secretarías y demás personas servidoras públicas de la Sala cumplan con sus deberes respectivos.
+VI. Llevar la administración de la oficina de la Sala;
+
+> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Ordenar la publicación y difusión de los precedentes respecto de criterios definidos por asuntos competencia de la Sala, aprobados por unanimidad por sus integrantes, y
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Vigilar que las Secretarías y demás personas servidoras públicas de la Sala cumplan con sus respectivos deberes.
 
 ###### Artículo 51.
 
@@ -774,29 +820,39 @@ Las y los Secretarios de Acuerdos y las y los Secretarios Auxiliares de Salas, t
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 58.
 
 Los Juzgados son órganos jurisdiccionales, cuyos titulares son las y los Jueces.
 
-En la Ciudad de México habrá el número de Juzgados que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita. Dichos Juzgados estarán numerados progresivamente. Asimismo podrá definir el número y especialización de los juzgados de conformidad con las necesidades y el presupuesto.
+En la Ciudad de México habrá el número de Juzgados que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita. Dichos Juzgados estarán numerados progresivamente. Asimismo, podrá definir el número y especialización de los mismos, de conformidad con las necesidades y el presupuesto con el que se cuente.
 
-Podrá definir el número y especialización de los juzgados de conformidad con las necesidades y el presupuesto.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 59.
 
-Los Juzgados de lo Civil de Proceso Escrito conocerán:
+Los Juzgados de lo Civil de Proceso Escrito conocerán de procedimientos escritos:
 
 I. De los asuntos de jurisdicción voluntaria, cuyo conocimiento no corresponda a la materia familiar;
 
-II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales siempre que el valor de la cosa sea igual o mayor a la cantidad que el artículo 691 del Código de Procedimientos Civiles vigente en la Ciudad de México establece para que un juicio sea apelable, cantidad que se actualizará en forma anual con base en la variación observada por la inflación en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía, entre la última actualización de dicho monto y el mes de noviembre del año en cuestión. A falta de uno o de otro serán aplicables los que los sustituyan; dicho valor se dará a conocer en el boletín judicial;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-III. De los asuntos que versen sobre derechos personales, en materia civil, cuya suerte principal sea igual o mayor a la cantidad que el artículo 691 fracciones II y III del Código de Procedimientos Civiles vigente en la Ciudad de México, establece para que un juicio sea apelable, la que se actualizará en términos de la fracción anterior, dicho valor se dará a conocer en el boletín judicial.
+II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales, cuyo conocimiento no corresponda a los Jueces Civiles de Proceso Oral;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+III. De los asuntos que versen sobre derechos personales, en materia civil, cuyo conocimiento no corresponda a los Juzgados Civiles de Proceso Oral;
 
 IV. De los asuntos de jurisdicción contenciosa, concurrente cuya competencia no esté expresivamente prevista a favor de los juzgados de lo civil de proceso oral.
 
-V. De los asuntos de jurisdicción contenciosa concurrente de tramitación especial que versen sobre derechos personales cuya suerte principal sea igual o mayor a la cantidad que los artículos 1339 y 1340 del Código de Comercio establecen para que un juicio sea apelable, la que actualizará la Secretaría de Economía, en términos del artículo 1253 fracción VI del citado código.
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-VI. De los interdictos, juicios hipotecarios y ejecutivos civiles, con excepción de lo previsto en la fracción V del artículo 98 de esta Ley Orgánica;
+V. De los asuntos de jurisdicción contenciosa concurrente de tramitación especial que versen sobre derechos personales, cuyo conocimiento no corresponda a los Juzgados Civiles de Proceso Oral;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VI. De los interdictos, juicios hipotecarios, vía de apremio y ejecutivos civiles, con excepción de lo previsto en (sic) artículo 98, fracción V, de esta Ley;
 
 VII. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, en el ámbito de su competencia;
 
@@ -804,11 +860,33 @@ VIII. De todas las controversias que se susciten en materia de arrendamiento de 
 
 IX. De los asuntos relativos a la inmatriculación judicial de inmuebles y demás asuntos referentes a la materia que establezcan las leyes;
 
-X. Siempre serán competentes de los asuntos de cuantía indeterminada, con independencia de que la acción sea real o personal, común o concurrente;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XI. De los juicios ejecutivos mercantiles cuya suerte principal sea superior a cuatro millones de pesos 00/100 Moneda Nacional, sin tomar en cuenta intereses y demás accesorios reclamados a la fecha de interposición de la demanda, cantidad que se actualizará en términos de lo previsto en el artículo 1253, fracción VI del Código de Comercio;
+X. Siempre serán competentes de los asuntos de cuantía indeterminada, es decir, aquellos que no sean cuantificables en dinero, en materia común o concurrente;
 
-XII. De los demás asuntos que les encomienden las leyes.
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XI. De los juicios ejecutivos mercantiles que no sean competencia de los Juzgados Civiles de Proceso Oral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XII. De las diligencias preliminares de consignación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el Código de Procedimientos Civiles vigente en la Ciudad de México, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. De juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, y de las resoluciones y convenios celebrados ante la Procuraduría Social de la Ciudad de México, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XV. De los demás asuntos que les encomienden las leyes.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Los procedimientos de su competencia podrán tramitarse en línea o a través del uso de tecnologías de la información aprovechando el principio de equivalencia funcional del documento electrónico, conforme a los Lineamientos que al efecto emita el Consejo de la Judicatura.
 
 ###### Artículo 60.
 
@@ -816,7 +894,9 @@ Los Juzgados Penales y de Justicia para Adolescentes ejercerán las competencias
 
 Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos juzgados.
 
-Las personas servidoras públicas (sic) públicos del Tribunal y del Consejo de la Judicatura que con motivo de sus funciones posean información sobre el turno y las reglas deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedores, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Las personas servidoras públicas del Tribunal y del Consejo de la Judicatura que, con motivo de sus funciones posean información sobre el turno y las reglas, deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedoras, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
 
 Los Juzgados Penales y de Justicia para Adolescentes conocerán de los delitos en materia de narcomenudeo previstos en el Título Décimo Octavo Capítulo VII de la Ley General de Salud. En los procedimientos penales que se substancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
 
@@ -836,9 +916,9 @@ De igual manera, y tomando en consideración las características del hecho inve
 
 Las y los Jueces de Control, conocerá desde el inicio de la etapa de investigación hasta el dictado del auto de apertura de juicio; así como resolverán de manera unitaria.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-Los Tribunales de Enjuiciamiento que actúen de manera unitaria o colegiada, conocerán desde que se recibe el auto de apertura a juicio oral, hasta la explicación y el dictado de la sentencia; asimismo resolverán de manera colegiada, cuando esté integrada por tres jueces, lo anterior, en razón del criterio que se va a establecer o por otra circunstancia, según lo determine el juez a quien se le designe el asunto; y resolverán de manera unitaria en los demás casos.
+Los Tribunales de Enjuiciamiento que actúen de manera unitaria o colegiada, conocerán del asunto desde que se reciba el auto de apertura a juicio, hasta la sentencia firme. En todos los casos la actuación del Tribunal será de manera unitaria, salvo que determine lo contrario la persona juzgadora a quien se le designe el asunto por razón del criterio que se va a establecer o por otra circunstancia. El Tribunal de Enjuiciamiento actuando de manera colegiada se integrará por tres personas juzgadoras.
 
 En materia penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
 
@@ -1162,9 +1242,11 @@ Las y los Jueces podrán facultar a las y los pasantes de derecho que laboren en
 
 ### CAPÍTULO III. EL PROCESO ORAL EN MATERIA FAMILIAR
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 89.
 
-Las y los Jueces de Proceso Oral en materia Familiar tendrán a su cargo, además, la etapa de conciliación durante la celebración de la audiencia preliminar, en los términos del Código de Procedimientos Civiles vigente en la Ciudad de México.
+Las y los Jueces de Proceso Oral en materia Familiar, además, tendrán a su cargo, la etapa de conciliación durante la celebración de la audiencia preliminar, en los términos dispuestos en el Código de Procedimientos respectivo, Nacional o vigente en la Ciudad de México.
 
 ###### Artículo 90.
 
@@ -1234,9 +1316,11 @@ VIII. La (sic) demás que determinen la Ley, el Consejo, el Titular de la Centra
 
 Quedará inhabilitado para asumir el cargo de Oficial Notificador quien haya sido condenado por delito que amerite pena corporal de más de un año de prisión, y cualquiera que haya sido la pena en caso de que se trate de robo, fraude, falsificación, abuso de confianza u cualquier otro que lastime seriamente la buena fama en el concepto público. De igual forma quedará impedido en el caso de haber sido sancionado con inhabilitación administrativa por incurrir en responsabilidad durante el ejercicio del servicio público, sin importar la gravedad de la falta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 94.
 
-Para su mejor desempeño, la operación de los Juzgados de Proceso Oral en materia Familiar, estará asistida en sus funciones por las unidades de Gestión Judicial, que tendrán una dependencia funcional de la Presidencia del Tribunal, conforme a las cargas de trabajo y las necesidades del servicio, se requieran tendrán a su cargo (sic), las que tendrán las siguientes atribuciones:
+Para su mejor desempeño, la operación de los Juzgados de Proceso Oral en materia Familiar, estará asistida por las Unidades de Gestión Judicial, quienes tendrán una dependencia funcional de la Presidencia del Tribunal, cuya persona titular tendrá fe pública sobre asuntos de su competencia y tendrá las siguientes atribuciones:
 
 I. Las Unidades de Gestión Administrativa que, conforme a las cargas de trabajo y las necesidades del servicio, determine el Consejo, tendrán a su cargo:
 
@@ -1374,23 +1458,15 @@ IV. Tribunal de Alzada.
 
 Las y los Jueces del Sistema Penal Acusatorio elegirán de entre ellos, una Jueza o Juez coordinador, quien durará seis meses en su encargo.
 
-El ejercicio de la función administrativa estará a cargo del Órgano de Gestión Judicial a través de sus Unidades.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+El apoyo judicial para las y los Jueces del Sistema Penal Acusatorio se ejercerá a través de la Dirección General de Gestión Judicial, por conducto de las Unidades de Gestión Judicial que la integran.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 101.
 
-El Órgano de Gestión Judicial, contará por lo menos con el siguiente personal:
-
-I. Un Administradora o Administrador;
-
-II. Un Jefe o Jefa de Unidad de Causas y Ejecuciones;
-
-III. Un Jefe o Jefa de Servicios Generales y Recursos Materiales;
-
-IV. Un Jefe o Jefa de Unidad de Causa y Sala;
-
-V. Un Jefe o Jefa de la Unidad de Notificación; y
-
-VI. El personal auxiliar que determine quien presida el Tribunal Superior de Justicia.
+Las Unidades de Gestión Judicial tendrán la estructura que les autorice el Consejo de la Judicatura, de conformidad con su especialidad y funciones específicas. Contarán tanto con personal de carrera judicial como administrativo.
 
 ###### Artículo 102.
 
@@ -1418,27 +1494,21 @@ IV. De los demás asuntos que determinen las leyes.
 
 El Tribunal de Alzada resolverá de manera colegiada, respecto a las sentencias dictadas por el Tribunal de Enjuiciamiento, en las que se haya impuesto pena de prisión mayor de cinco años o cuando alguna de las Magistradas o Magistrados lo determine en razón del precedente u otra circunstancia. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
-### CAPÍTULO VI. DE LA JUSTICIA CIVIL DE CUANTÍA MENOR, DEL PROCESO ORAL CIVIL Y PENAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO VI. DE LA JUSTICIA DE PROCESO ORAL CIVIL Y PENAL
 
 ###### Artículo 104.
 
-Las y los Jueces de lo Civil de Cuantía Menor conocerán:
-
-I. De los asuntos de jurisdicción concurrente de tramitación especial, cuya suerte principal sea inferior a la cantidad que los artículos 1339 y 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 1253 fracción VI del citado código.
-
-II. De las diligencias preliminares de consignación, con la misma limitación a que se refiere la fracción inmediata anterior;
-
-III. De la diligenciación de exhortos y despacho de los demás asuntos que les encomienden las leyes, en el ámbito de su competencia;
-
-IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el Código de Procedimientos Civiles vigente en la Ciudad de México, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo; y
-
-V. De juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para la Ciudad de México, y de las resoluciones y convenios celebrados ante la Procuraduría Social de la Ciudad de México.
+(DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 105.
 
 Las y los Jueces de lo Civil de Proceso Oral conocerán:
 
-I. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el Código de Procedimientos Civiles vigente en la Ciudad de México establezca para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 59, fracción II de esta Ley;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+I. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el Código de Procedimientos Civiles vigente en la Ciudad de México establezca para que un juicio sea apelable, cantidad que se actualizará en términos de lo dispuesto por el artículo 691 del Código de Procedimientos Civiles vigente en la Ciudad de México;
 
 II. De los juicios que versen sobre derechos personales de naturaleza civil, cuya suerte principal sea inferior a la cantidad que el Código de Procedimientos Civiles vigente en la Ciudad de México establezca para que un juicio se (sic) apelable, cantidad que se actualizará en los términos en (sic) esta Ley;
 
@@ -1446,9 +1516,21 @@ III. De los negocios de jurisdicción concurrente sin limitación de cuantía, p
 
 IV. De los medios preparatorios a juicio y de las providencias precautorias relacionados con los juicios que son de su competencia, en términos de las fracciones anteriores;
 
-V. De los asuntos de jurisdicción voluntaria, así como de la diligenciación de exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con los juicios orales en materia civil y mercantil; y
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-V (SIC). De los juicios ejecutivos mercantiles orales cuya suerte principal sea igual o superior a la cantidad que los artículos 1339 y 1340 del Código de Comercio establece para que un juicio sea apelable y hasta cuatro millones de pesos 00/100 moneda nacional, sin tomar en cuenta intereses y demás accesorios reclamados a la fecha de la interposición de la demanda, cantidad sujeta a la actualización que en términos del artículo 1253 fracción VI del citado Código lleve a cabo la Secretaría de Economía.
+V. De los asuntos de jurisdicción voluntaria, así como de la diligenciación de exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con los juicios orales en materia civil y mercantil;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VI. De los juicios ejecutivos mercantiles orales cuya suerte principal sea igual o superior a las cantidades que establecen los artículos 1339 y 1340 del Código de Comercio establece para que un juicio sea apelable, y hasta cuatro millones de pesos 00/100 moneda nacional, sin tomar en cuenta los intereses y demás accesorios reclamados a la fecha de la interposición de la demanda, cantidad sujeta a la actualización a que se refiere el artículo 1253 fracción VI del citado Código, y
+
+> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Los demás que establezcan las leyes.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Los procedimientos de su competencia podrán tramitarse en línea o a través del uso de tecnologías de la información aprovechando el principio de equivalencia funcional del documento electrónico, conforme a los Lineamientos que al efecto emita el Consejo de la Judicatura.
 
 ###### Artículo 106.
 
@@ -1463,6 +1545,10 @@ III. De la diligenciación de los exhortos y despacho de los demás asuntos que 
 ###### Artículo 107.
 
 Los Juzgados a que se refieren (sic) este Capítulo, para el despacho de los negocios, contarán con las personas servidoras públicas de la administración de justicia que fije el presupuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Asimismo, conforme a las disposiciones que emita e l (sic) Consejo de la Judicatura y atendiendo a la disponibilidad presupuestal, para el apoyo de las funciones jurisdiccionales los Juzgados Civiles de Proceso Oral, podrán contar con una Unidad de Gestión Judicial para Juzgados Orales Civiles, dependiente de la Dirección General de Gestión Judicial, cuya persona titular contará con fe pública en la emisión de actos de su competencia.
 
 ### CAPÍTULO I. DE LAS AUSENCIAS DE LAS MAGISTRADAS Y LOS MAGISTRADOS
 
@@ -1918,9 +2004,11 @@ El Boletín Judicial se publicará por la Dirección General de los Anales de Ju
 
 La Dirección General de Anales de Jurisprudencia y Boletín Judicial, contará con un Titular de la Dirección General que deberá reunir los requisitos señalados en las fracciones I a V del artículo 22 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 179.
 
-En la Ciudad de México se publicará una revista que se denominará “Anales de Jurisprudencia”, la que tendrá por objeto dar a conocer tanto estudios jurídicos como los fallos más notables que sobre cualquier materia pronuncie el Tribunal Superior de Justicia, misma que deberá publicarse bimestralmente.
+En la Ciudad de México se publicará una revista que se denominará “Anales de Jurisprudencia”, la que tendrá por objeto dar a conocer tanto estudios jurídicos, como los fallos más notables y precedentes que sobre cualquier materia pronuncie el Tribunal Superior de Justicia, en Pleno o Salas, misma que deberá publicarse de manera bimestral.
 
 El Boletín Judicial contendrá los acuerdos, sentencias y avisos de todos los Juzgados y Salas, así como los avisos y acuerdos del Pleno y del Consejo, su publicación se hará todos los días laborables del Tribunal Superior de Justicia.
 
@@ -2070,6 +2158,8 @@ La o el Director deberá cumplir con los requisitos del artículo 22 de esta Ley
 
 ### CAPÍTULO XI. DEL CENTRO DE JUSTICIA ALTERNATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 197.
 
 Corresponde a la Coordinación de Comunicación Social recabar y difundir la información generada por las diversas áreas del Tribunal Superior de Justicia y el Consejo de la Judicatura, así como llevar un seguimiento de las noticias que se divulguen tanto en medios impresos como electrónicos, contará con el personal indispensable para el desarrollo de sus actividades.
@@ -2088,7 +2178,7 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 ###### Artículo 198.
 
-El Centro de Justicia Alternativa es un órgano desconcentrado del Poder Judicial de la Ciudad de México que cuenta con autonomía técnica, operativa, presupuestaria y de gestión, y se instituye para administrar y substanciar los medios alternos de solución de controversias, como la mediación, la conciliación y el arbitraje y aquellos señalados en la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México para la atención de los conflictos de naturaleza civil, mercantil, familiar o penal, entre particulares, así como para su desarrollo.
+El Centro de Justicia Alternativa formará parte del Poder Judicial de la Ciudad de México, mismo que se instituye para administrar y substanciar los medios alternos de solución de controversias, como la mediación, la conciliación, el arbitraje y aquellos señalados en la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México, para la atención de los conflictos de naturaleza civil, mercantil, familiar o penal, entre particulares, así como para su desarrollo.
 
 Estos medios alternativos de solución de controversias son parte fundamental y privilegiada del sistema integral de justicia de la Ciudad de México.
 
@@ -2130,7 +2220,9 @@ XV. Cumplir con las disposiciones legales aplicables, así como con las que le a
 
 El Centro contará con una Dirección General, del cual partirá la estructura necesaria del mismo, para el desarrollo eficaz y eficiente de sus funciones, así como con una planta de mediadores especializados y el personal técnico y administrativo que para ello requiera.
 
-El Consejo de la Judicatura emitirá convocatoria pública y abierta para concursar por el cargo de titular del Centro de Justicia Alternativa.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+El Consejo de la Judicatura, a propuesta de la o el Presidente designará a la persona titular del Centro de Justicia Alternativa.
 
 ###### Artículo 201.
 
@@ -2322,7 +2414,9 @@ El Pleno del Tribunal Superior de Justicia, podrá solicitar al Consejo la exped
 
 Los actos y decisiones del Consejo de la Judicatura, en ningún caso, podrán modificar las resoluciones o invadir la función jurisdiccional depositada en los órganos del Poder Judicial de la Ciudad de México, ni podrán afectas (sic) las resoluciones de las y los Jueces y Magistradas o Magistrados.
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, propuestas de ternas de designación o de ratificación a que se contrae el artículo 284 de esta Ley, así como la remoción de Magistradas, Magistrados y Juzgadores, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establece esta Ley.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Las decisiones del Consejo de la Judicatura serán definitivas e inatacables y, por lo tanto, no procederá juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción o de ratificación a que se contrae el artículo 284 de esta Ley, así como la remoción de Magistradas, Magistrados y Juzgadores, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establece esta Ley.
 
 ### CAPÍTULO ÚNICO
 
@@ -2370,7 +2464,9 @@ XIII. Designar a una persona Titular de la Secretaría General del Consejo, la c
 
 XIV. Designar al Jurado que con la cooperación de instituciones públicas o privadas se integrará para el examen que presentarán las personas que deban ejercer los cargos de peritos, en los asuntos que se tramiten ante el Tribunal y dentro de los requisitos que esta Ley señale;
 
-XV. Nombrar a los Titulares de la Oficialía Mayor,, (sic) del Instituto de Estudios Judiciales, de la Visitaduría General y de las Visitadurías Judiciales y del Centro de Justicia Alternativa;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Nombrar a las personas Titulares de la Visitaduría General y de las Visitadurías Judiciales.
 
 XVI. Proponer al Congreso la o el Titular de la Contraloría General;
 
@@ -2408,7 +2504,21 @@ Las excitativas serán remitidas al Pleno del Tribunal Superior de Justicia, pre
 
 XXX (SIC). Emitir disposiciones y programas que coadyuven para la prevención, atención e indemnización de enfermedades o riesgos de trabajo psicosociales, derivados de la fatiga y estrés laboral para las personas trabajadoras del Poder Judicial de la Ciudad de México; mismas que deberán contemplar mecanismos que garanticen un entorno laboral favorable, y
 
-XXXI. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XXX. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus funciones y de las relativas a la función jurisdiccional del Tribunal Superior de Justicia, del Instituto de Servicios Periciales y Ciencias Forenses y de los órganos judiciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XXXI. Expedir acuerdos, lineamientos y demás disposiciones administrativas que coadyuven a la función jurisdiccional, especialmente aquellas que garanticen el acceso a la justicia, a las tecnologías de la información, justicia digital y la tutela jurisdiccional efectiva, sin perjuicio de la autonomía de los órganos jurisdiccionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XXXII. Nombrar a la persona titular del Centro de Justicia Alternativa, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XXXIII. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
 
 ###### Artículo 219.
 
@@ -2436,13 +2546,23 @@ X. Dirigir, con la colaboración de la Oficialía Mayor, la policía de los edif
 
 XI. Proponer al Pleno del Consejo de la Judicatura la expedición de acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus funciones; y
 
-XII. Las demás que determinen las leyes y el reglamento interior del Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Presentar propuestas de acuerdos Generales, lineamientos y demás disposiciones administrativas competencia del Consejo de la Judicatura, y
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Las demás que determinen las leyes y el Reglamento Interior del Consejo.
 
 ### CAPÍTULO I. DE LA OFICIALÍA MAYOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ## TÍTULO DÉCIMO. DE LA VISITADURÍA JUDICIAL
 
 ### CAPÍTULO II. DEL INSTITUTO DE SERVICIOS PERICIALES Y CIENCIAS FORENSES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 220.
 
@@ -2584,9 +2704,11 @@ IX.- Las demás que determine la Ley o demás disposiciones aplicables.
 
 La Dirección de la Unidad de Gestión Judicial en materia Familiar tiene como objeto coordinar a las Unidades de Gestión Judicial en materia Familiar que apoyan a los Juzgados Familiares.
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 230.
 
-Para ser Directora o Director de la Unidad de Gestión Judicial en materia Familiar se deberán satisfacer los requisitos del artículo 22 de esta Ley; además debe tener conocimientos en la materia y será designado por quien presida el Tribunal Superior de Justicia, a propuesta de la Dirección General de Gestión Judicial, con apego a la normatividad vigente.
+Para ser persona Directora de la Unidad de Gestión Judicial en materia Familiar se deberán satisfacer los requisitos establecidos en el artículo 24 de esta Ley; además, se deberá acreditar tener conocimientos en la materia. Será designada por quien presida el Tribunal Superior de Justicia a propuesta de la Dirección General de Gestión Judicial, con apego a la normativa vigente.
 
 ###### Artículo 231.
 
@@ -2682,9 +2804,11 @@ IV. No haber sido condenado por delito doloso.
 
 ### CAPÍTULO III. DEL INSTITUTO DE ESTUDIOS JUDICIALES
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 235.
 
-La Oficialía Mayor dependerá del Consejo de la Judicatura de la Ciudad de México y en sus funciones podrá ser asistida por la Comisión de Administración y Presupuesto; asimismo contará con las Direcciones Ejecutivas que corresponden a los apartados de este artículo. Además, ejercerá directamente o por conducto de aquéllas las facultades y obligaciones siguientes:
+La Oficialía Mayor dependerá de la o el Presidente del Poder Judicial de la Ciudad de México y podrá ser asistida por la Comisión de Administración y Presupuesto del Consejo; asimismo, contará con las Direcciones Ejecutivas y de Área que correspondan a los apartados de este artículo. Además, ejercerá directamente o por conducto de aquellas, las facultades y obligaciones siguientes:
 
 I. En materia de programación, presupuesto, planeación administrativa y organización:
 
@@ -2726,23 +2850,35 @@ a) Las demás que le confiera el Pleno del Consejo de la Judicatura (sic) Méxic
 
 b) La instrumentación de esas Direcciones Generales de la Oficialía Mayor será congruente con las disponibilidades presupuestales del Tribunal y con las atribuciones y responsabilidades que se les confieran en el Reglamento Interior del mismo;
 
-c) Asimismo, y en apoyo de la función jurisdiccional, la Oficialía Mayor tendrá a su cargo la administración, supervisión y control de las Unidades de Gestión Administrativa, la Central de Comunicaciones Procesales y las Unidades de Apoyo Tecnológico, propondrá al Consejo las políticas, lineamientos y criterios a los que dichas áreas deberán de sujetarse;
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+c) Asimismo, y en apoyo de la función jurisdiccional, la Oficialía Mayor tendrá a su cargo la administración, supervisión y control de las Unidades de Apoyo Tecnológico, propondrá al Consejo las políticas, lineamientos y criterios a los que dichas áreas deberán de sujetarse;
 
 d) La Oficialía Mayor estará a cargo de una persona servidora pública que se denominará Oficial Mayor. Para desempeñar dicho cargo, se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 16 de esta Ley. Además, contar con título profesional a nivel de licenciatura y acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del cargo; y
 
-e) La Dirección General de Gestión Judicial dependerá de la Oficialía Mayor, la que será responsable de organizar, dirigir y controlar la gestión administrativa, favoreciendo de manera eficiente y eficaz los recursos y procesos, proporcionando un soporte técnico a los jueces y autorizados previamente por el Consejo de la Judicatura.
+e) (DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 236.
 
 La Dirección General de Gestión Judicial se integrará con las siguientes áreas:
 
-I. Direcciones de Gestión Judicial, y
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-II. Unidades de Gestión Judicial.
+I. Direcciones de Gestión Judicial;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+II. Unidades de Gestión Judicial en materia Penal y Familiar, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+III. Unidad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 237.
 
-Para ser titular de Dirección de Gestión Judicial se deberán satisfacer los requisitos del artículo 22 de esta Ley; además, se deben acreditar conocimientos en materia de administración y será designado por la o el Presidente del Tribunal Superior de Justicia a propuesta de la Dirección General de Gestión Judicial, con apego a la normatividad vigente.
+Para ser persona Titular de la Dirección de Gestión Judicial se deberán satisfacer los requisitos dispuestos en el artículo 24 de esta Ley, salvo pronunciamiento expreso del Consejo de la Judicatura; y será designada por la o el Presidente del Tribunal Superior de Justicia a propuesta de la Dirección General de Gestión Judicial, con apego a la normatividad vigente.
 
 ###### Artículo 238.
 
@@ -2804,33 +2940,23 @@ XXV. Proponer a la o al Presidente del Tribunal Superior de Justicia proyectos d
 
 La Unidad de Gestión Judicial, por el número que se necesiten dependerá de quien sea nombrado Titular de la Dirección General de Gestión.
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 240.
 
-La Unidad de Gestión Judicial, es un órgano de control y gestión judicial encargada de planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión tendiente a desarrollas (sic) con efectividad en todo al sistema penal acusatorio.
+La Unidad de Gestión Judicial es el área de apoyo judicial encargada de dar trámite a la substanciación de los asuntos turnados para conocimiento de las Magistradas y los Magistrados Penales, así como las y los Jueces, todos del Sistema Penal Acusatorio, respecto al seguimiento de las carpetas judiciales, tanto en lo legal, como en lo administrativo.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 241.
 
-La Unidad de Gestión Judicial, estará integrada por:
+La Unidad de Gestión Judicial contará con una persona Titular que estará a cargo de la estructura que autorice el Consejo de la Judicatura para la misma.
 
-I. Una persona Titular Administrador;
-
-II. Una persona Titular de la Jefatura de Unidad de Causas y ejecuciones;
-
-III. Una persona Titular de la Jefatura de Unidad de Servicios Generales y Recursos Materiales;
-
-IV. Una persona Titular de la Jefatura de Unidad de Sala;
-
-V. Una persona Titular de la Jefatura de la Unidad de Notificación;
-
-VI. Una persona Titular de la Unidad de Mantenimiento;
-
-VII. Una persona Titular de la Unidad de Informática; y
-
-VIII. El personal auxiliar que determine el órgano competente.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 242.
 
-Para ser Administradora o Administrador de las Unidades de Gestión Judicial se deberán satisfacer los requisitos del artículo 23 de esta Ley; además deberán acreditarse conocimientos en materia de administración y será designado por el Presidente del Tribunal Superior de Justicia.
+Para ser persona Titular de las Unidades de Gestión Judicial se deberán satisfacer los requisitos dispuestos en el artículo 24 de esta Ley salvo pronunciamiento expreso del Consejo de la Judicatura.
 
 ###### Artículo 243.
 
@@ -2936,25 +3062,17 @@ XXX. Garantizar la correcta coordinación, ubicación, distribución del persona
 
 XXXI. Las demás que le confieran las leyes, reglamentos y acuerdos que emita el Pleno del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 246.
 
-Las Unidades de Gestión Judicial en materia Penal, apoyarán a las o los Magistrados, a las o los Jueces de Control, al Tribunal de Enjuiciamiento, de Ejecución de Sanciones Penales, de Justicia para Adolescentes y Ejecución de Medidas Sancionadora, conforme a la estructura que se defina y autorice en el reglamento respectivo.
+Las Unidades de Gestión Judicial en materia Penal apoyarán a las Magistradas y los Magistrados, a las y los Jueces del (sic) Control, al Tribunal de Enjuiciamiento, de Ejecución, de Justicia para Adolescentes y Ejecución de Medidas Sancionadoras, conforme a la estructura que (sic) defina por el Consejo de la Judicatura.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 247.
 
-Las Unidades de Gestión Judicial en materia Penal estarán integradas al menos por el siguiente personal:
-
-I. Administrador o Administradora;
-
-II. Una Jefatura de Unidad de Causas y ejecuciones;
-
-III. Una Jefatura de Unidad de Servicios Generales y Recursos Materiales;
-
-IV. Una Jefatura de Unidad de Sala;
-
-V. Una Jefatura de la Unidad de Notificación;
-
-VI. El personal que determine la Presidencia del Tribunal Superior de Justicia.
+Las Unidades de Gestión Judicial en materia Penal tendrán la estructura autorizada por el Consejo de la Judicatura, de conformidad con su especialidad y funciones específicas. Contarán tanto con personal de carrera judicial como administrativo.
 
 ###### Artículo 248.
 
@@ -3004,7 +3122,7 @@ XIV. Las demás que le confieran leyes, reglamentos, acuerdos y demás disposici
 
 ###### Artículo 250.
 
-El Instituto de Servicios Periciales y Ciencias Forenses es un órgano desconcentrado del Consejo de la Judicatura, dotado de autonomía técnica y presupuestal, especializado en la prestación de servicios periciales y forenses. El Instituto deberá de garantizar en los dictámenes que emita la objetividad e imparcialidad de conformidad con las leyes y los estándares nacionales e internacionales en la materia, en razón de lo que establece el inciso f del artículo 35 de la Constitución.
+El Instituto de Servicios Periciales y Ciencias Forenses es un órgano del Tribunal Superior de Justicia, especializado en la prestación de servicios periciales y forenses. El Instituto deberá garantizar en los dictámenes que emita la objetividad e imparcialidad de conformidad con lo dispuesto por leyes y los estándares nacionales e internacionales en la materia, en atención a lo dispuesto por el artículo 35 de la Constitución, Apartado F.
 
 Contará con un Consejo Técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto de Servicios Periciales y Ciencias Forenses, el cual será presidido por la persona titular de la Dirección General del Instituto de Servicios Periciales y Ciencias Forenses e integrado de la forma siguiente:
 
@@ -3144,9 +3262,11 @@ V. No haber sido condenado por sentencia definitiva por delito doloso alguno o e
 
 En relación al requisito para ocupar los cargos anteriormente señalados, relativo al no haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, cuando se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 260.
 
-La designación del Titular de la Dirección General, de las Direcciones y Subdirecciones será efectuada por el Consejo de la Judicatura.
+La designación de las personas Titulares de la Dirección General, de las Direcciones y Subdirecciones será efectuada por la o el Presidente del Tribunal Superior de Justicia.
 
 ###### Artículo 261.
 
@@ -3256,11 +3376,7 @@ A los auxiliares de la administración de justicia a que se refiere este título
 
 ###### Artículo 272.
 
-El Instituto de Estudios Judiciales es un órgano desconcentrado del Consejo de la Judicatura que tiene como objetivo coadyuvar con el fortalecimiento del servicio de impartición de justicia del Tribunal Superior de Justicia, mediante la formación de los servidores públicos jurisdiccionales y de apoyo judicial desarrollando las competencias necesarias para llevar a cabo el buen desarrollo de sus atribuciones, así como a través de la implementación de procesos de selección, ratificación y evaluación de los cargos de la Carrera Judicial.
-
-El Instituto tendrá una persona Titular de la Dirección General que deberá reunir los requisitos establecidos en el artículo 22 de esta Ley, a excepción de su fracción VI; además, contará con el personal necesario para el cumplimiento de sus objetivos. Las y los Jueces y Las y los Magistrados que así lo soliciten, se podrán incorporar al cuerpo docente del Instituto.
-
-El funcionamiento y atribuciones del Instituto de Estudios Judiciales se regirán por el acuerdo respectivo, que expedirá el Consejo de la Judicatura.
+El Instituto de Estudios Judiciales es un órgano dependiente de la o el Presidente del Tribunal Superior de Justicia y tiene como objetivo coadyuvar en el fortalecimiento del servicio de impartición de justicia del propio Tribunal, mediante la formación y capacitación de las personas servidoras públicas jurisdiccionales y de apoyo judicial, desarrollando las competencias necesarias para llevar a cabo el buen desarrollo de sus atribuciones, así como a través de la implementación de procesos de selección, ratificación y evaluación de los cargos de la carrera judicial.
 
 ###### Artículo 273.
 
@@ -4739,3 +4855,19 @@ G.O. 22 DE JULIO DE 2021.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. Remítase a la Jefa de Gobierno para efectos (sic) los efectos procedimentales correspondientes.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO CUARTO; SE REFORMAN Y MODIFICAN LAS FRACCIONES II, III, IV, VI, VIII, IX, X, XI, XII, XIII, XV, XVI, XVIII, XIX, Y XX DEL ARTÍCULO 5; SE MODIFICA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 6, ASÍ COMO LOS ARTÍCULOS 7, 11, 12, 13 Y 14; SE DEROGAN (SIC) LA FRACCIÓN IX DEL ARTÍCULO 21, ASÍ COMO EL ARTÍCULO 23; SE MODIFICAN LOS ARTÍCULOS 32, ASÍ COMO LAS FRACCIONES V, VI, VII, XI, Y XV DEL ARTÍCULO 37; SE REFORMAN LOS ARTÍCULOS 39, LA FRACCIÓN II DEL ARTÍCULO 41 Y 49; SE MODIFICAN LAS FRACCIONES VI, VII; Y VIII DEL ARTÍCULO 50 Y 58; SE REFORMAN EL PRIMER PÁRRAFO, ASÍ COMO LAS FRACCIONES II, III, V, VI, X, XI, XII, XIII, XIV Y XV, Y SE AGREGA UN ÚLTIMO PÁRRAFO, AL ARTÍCULO 59; SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 60 Y EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 61; SE REFORMAN LOS ARTÍCULOS 89, 94, 100, 101; SE DEROGA EL ARTÍCULO 104; SE MODIFICAN LAS FRACCIONES I, V, VI Y VII, Y SE AGREGA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 105; SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 107 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 179; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 198; SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 200; SE REFORMAN LOS ARTÍCULO 217, 218, ASÍ COMO LAS FRACCIONES XV, XXX, XXXI, XXXII Y XXXIII DEL ARTÍCULO 219; SE MODIFICAN EL ARTÍCULO 230, ASÍ COMO EL PRIMER PÁRRAFO, Y LOS INCISOS C) Y E) DE LA FRACCIÓN V DEL ARTÍCULO 235; SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 236, ASÍ COMO LOS ARTÍCULOS 237, 240, 241, 242, 246, 247, PRIMER PÁRRAFO DEL ARTÍCULO 250, 260 Y 272 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefa de Gobierno de la Ciudad de México para efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las personas servidoras públicas adscritas al Poder Judicial que formaron parte de los órganos jurisdiccionales del Sistema Penal Tradicional, transitarán al Sistema Penal Acusatorio bajo la homologación y adscripción que proponga la Dirección General de Gestión Judicial, y autorice el Consejo de la Judicatura dentro de los treinta días hábiles siguientes contados a partir de la publicación del acuerdo respectivo.
+
+CUARTO.- El proceso de transformación y/o, en su caso, transformación de Juzgados Civiles de Cuantía Menor a Juzgados Civiles de Proceso Oral o Civiles de Proceso Escrito, será determinado por el Consejo de la Judicatura en acuerdos que se harán públicos.
+
+QUINTO.- La nueva competencia de los Juzgados Civiles de Proceso Escrito y los Juzgados Civiles de Proceso Oral entrará en vigor a partir del 1 enero de 2022.
+
+Los asuntos recibidos antes de la entrada en vigor del presente Decreto continuarán conociéndolos, hasta su conclusión, los Juzgados Civiles competentes en ese momento, independientemente de que sea transformado el órgano jurisdiccional respectivo.
