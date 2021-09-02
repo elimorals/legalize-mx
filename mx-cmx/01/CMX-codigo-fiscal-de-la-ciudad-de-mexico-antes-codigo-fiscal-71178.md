@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2020-12-21"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -74,7 +74,7 @@ Asimismo, las autoridades fiscales tendrán la obligación de promover, respetar
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 31 DE DICIEMBRE DE 2018 MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE XLVII FRACCIONES A XLIV FRACCIONES.]</small>
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 2.
 
@@ -248,13 +248,13 @@ XLI. Tribunal: El Tribunal Superior de Justicia de la Ciudad de México;
 
 XLII. Tribunal de Justicia Administrativa: El Tribunal de Justicia Administrativa de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XLIII. Vivienda de Interés Popular: Aquella cuyo precio de venta al público es superior a 5400 veces el valor diario de la Unidad de Medida y Actualización vigente y hasta 10800 veces el valor diario de la Unidad de Medida y Actualización vigente, y
+XLIII. Vivienda de Interés Popular: vivienda cuyo precio de venta al público es superior a 6,000 veces el valor diario de la Unidad de Medida y Actualización vigente y no exceda de 10,800 veces el valor diario de dicha Unidad; y
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XLIV. Vivienda de Interés Social: Aquella cuyo precio máximo de venta al público es de 5400 veces el valor diario de la Unidad de Medida y Actualización vigente.
+XLIV. Vivienda de Interés Social: vivienda cuyo precio máximo de venta al público es de 6,000 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 3.
 
@@ -23083,3 +23083,15 @@ La resolución a que hace referencia este artículo deberá establecer el mecani
 ARTÍCULO TRIGÉSIMO SEXTO.- Los notarios podrán presentar para inscripción en el Registro Público de la Propiedad y de Comercio a más tardar el 29 de enero de 2021, el o los testimonios respecto de los actos jurídicos relacionados con adquisición o transmisión de inmuebles con las reducciones a que se refieren los artículos 275 Bis y 275 Ter, en el caso de que los contribuyentes hayan obtenido la constancia expedida por la Dirección General de Regularización Territorial en el año 2020 y que los derechos correspondientes hubieran sido pagados a más tardar el último día de diciembre del mismo año.
 
 ARTÍCULO TRIGÉSIMO SÉPTIMO.- Las personas a las que se refiere el artículo 156 BIS, deberán presentar dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, el aviso de los contratos a que hace mención dicho artículo, vigentes al 01 de enero de 2021, independientemente de la fecha de celebración o modificación de los mismos.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA LEY DE VIVIENDA PARA LA CIUDAD MÉXICO, LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, EL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO Y LA NORMA DE ORDENACIÓN NÚMERO 26 QUE FORMA PARTE DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y DEL PROGRAMA GENERAL DE DESARROLLO URBANO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Por lo que se refiere a la Reforma a la Norma de Ordenación Número 26, inscríbase lo establecido en el presente Decreto tanto en el Registro de los Planes y Programas de Desarrollo Urbano como en el Registro Público de la Propiedad y Comercio de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+CUARTO.- Los Acuerdos emitidos por la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México para la aplicación de la Norma de Ordenación Número 26, continuarán vigentes en lo que no contravengan al presente Decreto.
