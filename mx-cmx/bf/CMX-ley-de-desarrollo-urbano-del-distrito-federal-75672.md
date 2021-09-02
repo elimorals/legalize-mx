@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2021-08-20"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -166,13 +166,17 @@ XXXV. Suelo urbano: Las zonas a las que el Programa General clasifique como tale
 
 XXXVI. Traza Urbana: La estructura básica de la Ciudad o de parte de ella, que refiere en forma gráfica la vialidad y demarcación de manzanas o predios limitados por la vía pública, de zonas urbanas existentes o en proyecto;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XXXVII. Vivienda de Interés Social: La vivienda cuyo precio máximo de venta al público es de 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente;
+XXXVII. Vivienda de Interés Social: vivienda cuyo precio máximo de venta al público es de 6,000 veces el valor diario de la Unidad de Medida y Actualización vigente;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XXXVIII. Vivienda de interés popular: La vivienda cuyo precio de venta al público es superior a 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente y no exceda de 9,000 veces la Unidad de Cuenta de la Ciudad de México vigente;
+XXXVIII. Vivienda de interés popular: vivienda cuyo precio de venta al público es superior a 6,000 veces el valor diario de la Unidad de Medida y Actualización vigente y no exceda de 10,800 veces el valor diario de dicha Unidad;
+
+> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XXXVIII Bis. Vivienda Sustentable: vivienda cuyo precio de venta al público es superior a 10,800 veces el valor diario de la Unidad de Medida y Actualización vigente y no exceda de 17,314 veces el valor diario de la Unidad de Mediad y Actualización vigente;
 
 XXXIX. Zona Conurbada: la parte del territorio de la Ciudad con una continuidad física y demográfica respecto de centros de población situados en los municipios circunvecinos y;
 
@@ -2177,3 +2181,15 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Todos los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento; las personas habitantes de los asentamientos sujetos a procedimiento administrativo podrán tramitar los esquemas de participación social que implementen las autoridades ambientales en el ejercicio de sus atribuciones.
 
 CUARTO.- Todas las referencias que se hagan a la Asamblea Legislativa del Distrito Federal en la Ley de Desarrollo Urbano del Distrito Federal, se entenderán que son competencia del Congreso de la Ciudad de México.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA LEY DE VIVIENDA PARA LA CIUDAD MÉXICO, LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, EL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO Y LA NORMA DE ORDENACIÓN NÚMERO 26 QUE FORMA PARTE DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y DEL PROGRAMA GENERAL DE DESARROLLO URBANO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Por lo que se refiere a la Reforma a la Norma de Ordenación Número 26, inscríbase lo establecido en el presente Decreto tanto en el Registro de los Planes y Programas de Desarrollo Urbano como en el Registro Público de la Propiedad y Comercio de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+CUARTO.- Los Acuerdos emitidos por la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México para la aplicación de la Norma de Ordenación Número 26, continuarán vigentes en lo que no contravengan al presente Decreto.
