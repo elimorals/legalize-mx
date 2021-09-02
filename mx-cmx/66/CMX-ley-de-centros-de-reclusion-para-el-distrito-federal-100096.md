@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-de-reclusion-para-el-distrito-federal-100096"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-04"
-last_updated: "2019-12-24"
+last_updated: "2021-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100096&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-03-28"
 ---
 # LEY DE CENTROS DE RECLUSION PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 2 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de abril de 2014.
 
@@ -1669,3 +1671,39 @@ SÉPTIMO. La Fiscalía General de Justicia de la Ciudad de México, a partir de 
 OCTAVO. Las referencias hechas a la Fiscalía General de Justicia de la Ciudad de México y a su titular se entenderán hechas para la Procuraduría General de Justicia de la Ciudad de México en tanto no entre en funciones la Fiscalía.
 
 NOVENO. A partir de la entrada en vigor del presente decreto, se incluirán en la base de datos de las personas sentenciadas, a aquellas que hayan adquirido ese carácter con fecha posterior a la entrada en vigor de la presente ley.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV DE DICHO NUMERAL DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN XXVII DEL ARTÍCULO 3º Y SE ADICIONAN LAS FRACCIONES XXVII BIS, XXVII TER, XXVII QUÁTER Y XXVII QUINQUIES A DICHO NUMERAL, DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN XIV DEL ARTÍCULO 18 Y SE ADICIONAN LAS FRACCIONES XIV BIS Y XIV TER A DICHO NUMERAL; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 55, SE DEROGAN LOS ARTÍCULOS 20 Y 54, Y SE MODIFICA EL ARTÍCULO 119, DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE DEROGAN LAS FRACCIONES I, III Y IV DEL ARTÍCULO 15 BIS Y SE ADICIONAN AL ARTÍCULO 25 LAS FRACCIONES IV BIS, IV TER IV QUÁTER, VI BIS Y VI TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO. SE ABROGA LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga la Ley de Centros de Reclusión para el Distrito Federal, publicado (sic) en la Gaceta Oficial de la Ciudad de México el 04 de abril de 2014 y demás disposiciones que contravengan el presente decreto.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, las referencias hechas a la Subsecretaría del Sistema Penitenciario de la Secretaría de Gobierno o a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo de su adscripción en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del presente Decreto, se entenderán realizadas a la Secretaría de Seguridad Ciudadana de la Ciudad de México. Misma situación ocurrirá para los órganos colegiados a los que asista la persona titular de la Secretaría de Gobierno de la Ciudad de México en materia de sistema penitenciario, la Secretaría de Seguridad Ciudadana de Ciudad de México designará a su representante.
+
+QUINTO. El Gobierno de la Ciudad de México contará con 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los reglamentos y emitir las disposiciones correspondientes; hasta en tanto, las disposiciones actuales continúan vigentes y podrán ser aplicadas por la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+SEXTO. Los recursos humanos, materiales, técnicos y tecnológicos, así como los bienes muebles e inmuebles asignados a la Secretaría de Gobierno de la Ciudad de México para la Subsecretaría del Sistema Penitenciario pasarán a formar parte del patrimonio de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+En lo relativo a bienes en posesión o servicios contratados por la Secretaría de Gobierno de la Ciudad de México para la Subsecretaría del Sistema Penitenciario o por esta última, obtenidos por arrendamiento, comodato o cualquier otro contrato mediante el cual se haya transmitido la posesión o propalado dichos servicios, su utilización corresponderá a la Subsecretaría, en tanto no se determine lo contrario.
+
+La Secretaría de Administración y Finanzas de la Ciudad de México coadyuvará con la Secretaría de Gobierno y la Subsecretaría de Sistema Penitenciario, a efecto de realizar las gestiones y trámites correspondientes para dar cumplimiento cabal al presente artículo, conforme a las disposiciones legales aplicables.
+
+SÉPTIMO. El personal que en ejecución del presente Decreto deba ser transferido a la Secretaría de Seguridad Ciudadana de la Ciudad de México podrá participar en las evaluaciones de control de confianza para su permanencia, sujetándose al régimen administrativo que esta Ley y demás normativa aplicable establecen. La Secretaría de Administración y Finanzas y la Secretaría de Seguridad Ciudadana, ambas de la Ciudad de México, determinarán los procedimientos para la reubicación del personal de base que sea necesario, respetando los derechos laborales adquiridos.
+
+OCTAVO. La Secretaría de Seguridad Ciudadana de la Ciudad de México deberá adecuar su estructura orgánica y actualizar sus Manuales Administrativos en los plazos y condiciones que establezca la Dirección Ejecutiva de Dictaminación y Procedimientos Organizacionales de la Secretaría de Administración y Finanzas de la Ciudad de México.
+
+NOVENO. Los asuntos o procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite y deban ser atendidos por las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo objeto de transferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto, a excepción de los trámites urgentes o sujetos a plazo improrrogable.
+
+DÉCIMO. En tanto se formaliza material, financiera y administrativamente la transferencia a la Secretaría de Seguridad Ciudadana de la Ciudad de México, de los recursos humanos, materiales, técnicos, tecnológicos, financieros y presupuestales de la Subsecretaría de Sistema Penitenciario, la Secretaría de Gobierno continuará ejerciendo los recursos presupuestales correspondientes a esta área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2021.
+
+DÉCIMO PRIMERO. La Subsecretaría de Sistema Penitenciario deberá actualizar las reglas de operación para potenciar el funcionamiento del patronato al que se refiere el artículo 70 de la Ley de Centros Penitenciarios de la Ciudad de México, en un lapso de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO. La Secretaría de Seguridad Ciudadana deberá establecer las bases para la organización y operación del Servicio Profesional de Carrera de las y los integrantes del Sistema Penitenciario, a que se refiere la Ley de Centros Penitenciarios de la Ciudad de México.
+
+Los procesos de formación, actualización y especialización de las personas integrantes del Sistema Penitenciario se alinearán al Programa de Profesionalización y al Programa Rector de Profesionalización de la Universidad de la Policía de la Ciudad de México.
+
+El Instituto de Capacitación Penitenciaria continuará en funciones hasta en tanto se implemente el Servicio Profesional de Carrera de las personas integrantes del Sistema Penitenciario.
