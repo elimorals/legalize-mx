@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2021-06-09"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -412,7 +412,17 @@ XII. Solicitar en situaciones de emergencia o desastre el auxilio de los prestad
 
 XIII. Formar parte del Gabinete de Seguridad Ciudadana y Procuración de Justicia y de las instancias colegiadas que establezcan la presente ley y demás disposiciones;
 
-XIV. Auxiliar a la Fiscalía para el adecuado desarrollo de los procedimientos penales, en los términos de las disposiciones aplicables; y
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Auxiliar a la Fiscalía para el adecuado desarrollo de los procedimientos penales, en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIV Bis. Ejercer en el ámbito de su competencia las atribuciones que regulen la ejecución de penas y medidas de seguridad, relativas a la reinserción social;
+
+> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XIV Ter. Las que resulten de los convenios de colaboración y coordinación que celebre en materia de seguridad ciudadana; y
 
 XV. Las demás que señalen las disposiciones legales aplicables.
 
@@ -424,11 +434,7 @@ La Policía de Investigación dependerá de la persona titular de la Fiscalía, 
 
 ###### Artículo 20.
 
-En el ejercicio de la función de seguridad ciudadana corresponde al titular de la Secretaría de Gobierno:
-
-I. Ejercer en el ámbito de su competencia las atribuciones que regulen la ejecución de penas y medidas de seguridad relativa a la reinserción social; y
-
-II. Las demás previstas en los ordenamientos legales aplicables y las que resulten de los convenios de colaboración que celebre en materia de seguridad ciudadana.
+(DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 21.
 
@@ -980,11 +986,17 @@ II. Bajo la responsabilidad de la Fiscalía: Policía de investigación.
 
 ###### Artículo 54.
 
-La Secretaría de Gobierno tendrá bajo su responsabilidad el cuerpo de seguridad organizado jerárquica y disciplinariamente, de acuerdo con lo dispuesto en (sic) Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México en lo referente a los centros penitenciarios a su cargo.
+(DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 55.
 
-Las policías preventiva, auxiliar, de tránsito, cívica, bancaria e industrial y cuerpos especiales desempeñarán sus funciones bajo la dirección y mando directo de la Secretaría, observando las disposiciones establecidas en la normatividad federal y local en la materia, regulando su funcionamiento interno a través de su correspondiente Ley Orgánica, Reglamentos, Acuerdos, Protocolos y demás instrumentos jurídico-administrativos que se emitan para tal efecto.
+Las policías preventiva, auxiliar, de tránsito, cívica, bancaria e industrial y cuerpos especiales desempeñarán sus funciones bajo la dirección y mando directo de la Secretaría observando las disposiciones establecidas en la normatividad federal y local en la materia, regulando su funcionamiento interno a través de su correspondiente Ley Orgánica, Reglamentos, Acuerdos, Protocolos y demás instrumentos jurídico-administrativos que se emitan para tal efecto.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+De igual forma, como parte de la función de seguridad ciudadana, la Secretaría tendrá bajo su dirección y responsabilidad el cuerpo de vigilancia y custodia de los Centros Penitenciarios, Centro de Sanciones Administrativas y de Integración Social y Centros Especializados, organizado jerárquica y disciplinariamente en los términos de su Reglamento y demás disposiciones legales aplicables.
 
 Los ingresos que se generen por los servicios prestados por las policías auxiliar y bancaria e industrial, deberán enterarse a favor de la Tesorería de la Ciudad.
 
@@ -1332,11 +1344,31 @@ Todas las personas servidoras públicas de las instituciones de seguridad ciudad
 
 En caso de instaurarse procedimiento por responsabilidad administrativa a algún servidor público, éste será oído en su defensa con anterioridad a la imposición de la sanción que le corresponda y podrá inconformarse ante las instancias y conforme a las vías previstas en la Ley de Responsabilidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 79.
 
-Los colores oficiales, combinaciones, características y uso, que distinga e identifique de manera oficial a los cuerpos policiales y sus Integrantes de carrera, en sus inmuebles, vehículos y en sus uniformes, así como las insignias, medallas, divisas, gafetes y escudos de la Institución se especificarán en el Manual de Uniformes y Equipo.
+Los colores oficiales, así como sus combinaciones, características y uso que distinga e identifique a los cuerpos policiales y sus integrantes, sus inmuebles, vehículos, equipos y uniformes, así como las características de las insignias, medallas, divisas, gafetes y escudos se especificarán en el Manual y, en su caso, los Lineamientos que para tal efecto emita la Secretaría.
 
-La utilización indebida de los uniformes, condecoraciones, grados jerárquicos, insignias, divisas, gafetes, escudos y siglas de los cuerpos policiales por quien no tenga facultades ni autorización para ello será castigado de conformidad con el Código Penal de la Ciudad de México.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+La utilización indebida de vehículos, equipos, placas y uniformes oficiales, condecoraciones, grados jerárquicos, insignias, divisas, gafetes, escudos y siglas de los cuerpos policiales, por parte de sus integrantes o por quien no tenga facultades ni autorización para ello, serán sancionados de conformidad con lo previsto por el Código Penal (sic) la Ciudad de México, con independencia de las responsabilidades administrativas que las conductas produzcan.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías no podrán utilizar en sus vehículos oficiales los colores, cromáticas, marcas, escudos, distintivos luminosos o acústicos, iguales o similares a los destinados para la prestación del servicio de seguridad ciudadana.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Para los efectos del párrafo anterior, en el caso de las Alcaldías, los vehículos destinados para la prestación del servicio de seguridad ciudadana podrán portar en los costados el nombre de la demarcación a la cual pertenecen así como el logotipo de su gobierno con una medida de hasta un metro de largo por cuarenta centímetros de ancho; y acorde con la tipografía que para tales efectos emita la Secretaría de Seguridad Ciudadana o bien estén establecidos en el Manual de Identidad Institucional de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Únicamente los vehículos destinados para la prestación del servicio de seguridad ciudadana deberán utilizar las cromáticas, marcas, escudos, distintivos luminosos o acústicos determinados en los lineamientos que emita la Secretaría; lo anterior, siempre y cuando sean operados por personal policial de esa Dependencia.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Los Lineamientos tendrán por objeto definir el diseño, especificaciones y demás elementos relacionados con el balizamiento de los vehículos oficiales de los Cuerpos Policiales, destinados a realizar funciones operativas en todo el territorio de la Ciudad de México.
 
 ###### Artículo 80.
 
@@ -1870,9 +1902,11 @@ La Ley de Responsabilidades Administrativas de la Ciudad de México, será de ap
 
 En el caso de destitución, si la autoridad jurisdiccional resolviere que fue injustificada, el Gobierno de la Ciudad sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 119.
 
-La Comisión de Honor y Justicia de la Fiscalía y del Sistema Penitenciario se sujetarán a lo establecido en el Reglamento que al efecto emitan tanto la Fiscalía como la Secretaría de Gobierno.
+La Comisión de Honor y Justicia de la Fiscalía y del Sistema Penitenciario se sujetarán a lo establecido en el Reglamento que al efecto emitan tanto la Fiscalía como la Secretaría.
 
 ###### Artículo 120.
 
@@ -2148,6 +2182,14 @@ Cualquier persona que ejerza funciones de seguridad ciudadana sólo podrá porta
 
 Las instituciones de seguridad ciudadana mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a los servidores públicos de las instituciones de seguridad ciudadana. Dicha huella deberá registrarse en una base de datos del Sistema.
 
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Todos los vehículos oficiales utilizados por las Instituciones de Seguridad Ciudadana, destinados a realizar funciones operativas, propiedad de éstas, arrendadas o por cualquier otra figura de adquisición, deberán de encontrarse balizados conforme a los Lineamientos a que se refiere el artículo 79 de esta Ley. La transgresión a la presente disposición será causal de responsabilidad administrativa de conformidad con las leyes en la materia.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Asimismo, todos los vehículos pertenecientes a las Instituciones de Seguridad Ciudadana que no se encuentren asignados a labores operativas, no deberán hacer uso de cromáticas, marcas, escudos, distintivos o colores autorizados de manera exclusiva para el uso de los vehículos operativos.
+
 ###### Artículo 139.
 
 En el caso de que los integrantes de las instituciones de seguridad ciudadana aseguren armas o municiones, lo comunicarán de inmediato al Registro y las pondrán a disposición de las autoridades competentes, en los términos de las normas aplicables.
@@ -2359,3 +2401,53 @@ G.O. 9 DE JUNIO DE 2021.
 PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV DE DICHO NUMERAL DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN XXVII DEL ARTÍCULO 3º Y SE ADICIONAN LAS FRACCIONES XXVII BIS, XXVII TER, XXVII QUÁTER Y XXVII QUINQUIES A DICHO NUMERAL, DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN XIV DEL ARTÍCULO 18 Y SE ADICIONAN LAS FRACCIONES XIV BIS Y XIV TER A DICHO NUMERAL; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 55, SE DEROGAN LOS ARTÍCULOS 20 Y 54, Y SE MODIFICA EL ARTÍCULO 119, DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE DEROGAN LAS FRACCIONES I, III Y IV DEL ARTÍCULO 15 BIS Y SE ADICIONAN AL ARTÍCULO 25 LAS FRACCIONES IV BIS, IV TER IV QUÁTER, VI BIS Y VI TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO. SE ABROGA LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga la Ley de Centros de Reclusión para el Distrito Federal, publicado (sic) en la Gaceta Oficial de la Ciudad de México el 04 de abril de 2014 y demás disposiciones que contravengan el presente decreto.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, las referencias hechas a la Subsecretaría del Sistema Penitenciario de la Secretaría de Gobierno o a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo de su adscripción en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del presente Decreto, se entenderán realizadas a la Secretaría de Seguridad Ciudadana de la Ciudad de México. Misma situación ocurrirá para los órganos colegiados a los que asista la persona titular de la Secretaría de Gobierno de la Ciudad de México en materia de sistema penitenciario, la Secretaría de Seguridad Ciudadana de Ciudad de México designará a su representante.
+
+QUINTO. El Gobierno de la Ciudad de México contará con 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los reglamentos y emitir las disposiciones correspondientes; hasta en tanto, las disposiciones actuales continúan vigentes y podrán ser aplicadas por la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+SEXTO. Los recursos humanos, materiales, técnicos y tecnológicos, así como los bienes muebles e inmuebles asignados a la Secretaría de Gobierno de la Ciudad de México para la Subsecretaría del Sistema Penitenciario pasarán a formar parte del patrimonio de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+En lo relativo a bienes en posesión o servicios contratados por la Secretaría de Gobierno de la Ciudad de México para la Subsecretaría del Sistema Penitenciario o por esta última, obtenidos por arrendamiento, comodato o cualquier otro contrato mediante el cual se haya transmitido la posesión o propalado dichos servicios, su utilización corresponderá a la Subsecretaría, en tanto no se determine lo contrario.
+
+La Secretaría de Administración y Finanzas de la Ciudad de México coadyuvará con la Secretaría de Gobierno y la Subsecretaría de Sistema Penitenciario, a efecto de realizar las gestiones y trámites correspondientes para dar cumplimiento cabal al presente artículo, conforme a las disposiciones legales aplicables.
+
+SÉPTIMO. El personal que en ejecución del presente Decreto deba ser transferido a la Secretaría de Seguridad Ciudadana de la Ciudad de México podrá participar en las evaluaciones de control de confianza para su permanencia, sujetándose al régimen administrativo que esta Ley y demás normativa aplicable establecen. La Secretaría de Administración y Finanzas y la Secretaría de Seguridad Ciudadana, ambas de la Ciudad de México, determinarán los procedimientos para la reubicación del personal de base que sea necesario, respetando los derechos laborales adquiridos.
+
+OCTAVO. La Secretaría de Seguridad Ciudadana de la Ciudad de México deberá adecuar su estructura orgánica y actualizar sus Manuales Administrativos en los plazos y condiciones que establezca la Dirección Ejecutiva de Dictaminación y Procedimientos Organizacionales de la Secretaría de Administración y Finanzas de la Ciudad de México.
+
+NOVENO. Los asuntos o procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite y deban ser atendidos por las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo objeto de transferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto, a excepción de los trámites urgentes o sujetos a plazo improrrogable.
+
+DÉCIMO. En tanto se formaliza material, financiera y administrativamente la transferencia a la Secretaría de Seguridad Ciudadana de la Ciudad de México, de los recursos humanos, materiales, técnicos, tecnológicos, financieros y presupuestales de la Subsecretaría de Sistema Penitenciario, la Secretaría de Gobierno continuará ejerciendo los recursos presupuestales correspondientes a esta área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2021.
+
+DÉCIMO PRIMERO. La Subsecretaría de Sistema Penitenciario deberá actualizar las reglas de operación para potenciar el funcionamiento del patronato al que se refiere el artículo 70 de la Ley de Centros Penitenciarios de la Ciudad de México, en un lapso de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO. La Secretaría de Seguridad Ciudadana deberá establecer las bases para la organización y operación del Servicio Profesional de Carrera de las y los integrantes del Sistema Penitenciario, a que se refiere la Ley de Centros Penitenciarios de la Ciudad de México.
+
+Los procesos de formación, actualización y especialización de las personas integrantes del Sistema Penitenciario se alinearán al Programa de Profesionalización y al Programa Rector de Profesionalización de la Universidad de la Policía de la Ciudad de México.
+
+El Instituto de Capacitación Penitenciaria continuará en funciones hasta en tanto se implemente el Servicio Profesional de Carrera de las personas integrantes del Sistema Penitenciario.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 79 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO Y SE ADICIONAN TRES PÁRRAFOS A DICHO PRECEPTO LEGAL. SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 138 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. A efecto de dar cumplimiento al presente Decreto, la persona titular de la Secretaría de Seguridad Ciudadana de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para expedir los Lineamientos correspondientes en materia de diseño, especificaciones y demás elementos relacionados con el balizamiento de los vehículos oficiales de los Cuerpos Policiales, destinados a realizar funciones operativas en todo el territorio de la Ciudad de México.
+
+QUINTO. Se concede un plazo que no podrá exceder de 30 días hábiles posteriores a la publicación de los Lineamientos correspondientes en materia de diseño, especificaciones y demás elementos relacionados con el balizamiento de los vehículos oficiales de los Cuerpos Policiales, para que las Dependencias, Órganos Desconcentrados, Entidades del Gobierno de la Ciudad de México y Alcaldías que tengan a su cargo vehículos oficiales destinados a funciones de seguridad ciudadana, lleven a cabo la homologación del balizamiento correspondiente conforme a lo autorizado por la Secretaría.
