@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2021-07-22"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -2150,7 +2150,9 @@ B. De su integración y funcionamiento
 
 1. El Poder Judicial de la Ciudad de México se deposita en un Tribunal Superior de Justicia que contará con una Sala Constitucional; un Consejo de la Judicatura y Juzgados.
 
-2. La administración, vigilancia, evaluación, disciplina y servicio de carrera del Poder Judicial de la Ciudad de México estarán a cargo del Consejo de la Judicatura local.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+2. La administración, gestión vigilancia, evaluación, disciplina y servicio de carrera del Poder Judicial de la Ciudad de México estarán a cargo del Consejo de la Judicatura local.
 
 3. El Consejo de la Judicatura designará a las y los jueces conforme a lo previsto por esta Constitución y la ley en la materia.
 
@@ -2160,9 +2162,13 @@ Las y los jueces durarán seis años en su cargo y podrán ser ratificados, prev
 
 Las y los jueces no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro.
 
-4. A propuesta del Consejo de la Judicatura las y los magistrados del Tribunal Superior de Justicia serán designados y en su caso ratificados por las dos terceras partes de las y los diputados del Congreso, de entre las ternas que les remita el propio Consejo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-Las ternas serán integradas por las y los aspirantes que hayan cubierto los requisitos y la evaluación que al efecto se lleve a cabo en los términos del apartado E, numeral 11 del presente artículo.
+4. A propuesta del Consejo de la Judicatura las y los magistrados del Tribunal Superior de Justicia serán designados y en su caso ratificados por las dos terceras partes de las y los diputados del Congreso.
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Las personas aspirantes propuestas deberán cumplir los requisitos establecidos en el apartado E, numeral 11 del presente artículo.
 
 Las y los magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en esta Constitución y en la ley de la materia. Una vez ratificados permanecerán en su encargo hasta los setenta años de edad, y sólo podrán ser privados del mismo en los términos que establecen esta Constitución y las leyes.
 
@@ -2196,7 +2202,9 @@ D. Medios alternativos de solución de controversias
 
 1. El sistema integral de justicia de la Ciudad de México privilegiará los medios alternativos de solución de controversias. Para garantizar el acceso a estos medios se establecerá el Centro de Justicia Alternativa.
 
-2. El Centro de Justicia Alternativa será un órgano desconcentrado del Tribunal Superior de Justicia de la Ciudad de México con plena autonomía técnica, operativa, presupuestaria y de decisión; su titular será nombrado por el Consejo de la Judicatura de conformidad con lo previsto por la ley orgánica y durará seis años en su cargo, sin posibilidad de reelección.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+2. El Centro de Justicia Alternativa dependerá de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México; su titular será nombrado por éste última (sic) de conformidad con lo previsto por la ley orgánica y durará seis años en su cargo, sin posibilidad de reelección.
 
 3. El Centro de Justicia Alternativa tendrá las siguientes facultades:
 
@@ -2246,11 +2254,15 @@ El Consejo de la Judicatura funcionará en pleno y en comisiones y contará con 
 
 10. El Consejo de la Judicatura elaborará el proyecto de presupuesto del Poder Judicial, mismo que deberá someter a la aceptación del Pleno del Tribunal Superior de Justicia. Una vez realizado lo anterior, se incorporará en el Proyecto de Presupuesto de Egresos de la Ciudad de México, por conducto de la o el Jefe de Gobierno.
 
-11. El ingreso, formación, permanencia y especialización de la carrera judicial se basará en los resultados del desempeño y el reconocimiento de méritos. Se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honradez e independencia. El ingreso se hará mediante concursos públicos de oposición a cargo del Instituto de Estudios Judiciales como órgano desconcentrado del Consejo de la Judicatura, que contará con un Consejo Académico. La permanencia estará sujeta al cumplimiento de los requisitos para el cargo, así como a la evaluación y vigilancia sobre el desempeño en los términos previstos en la ley y en los acuerdos generales que con arreglo a ésta, emita este Consejo Académico. La ley regulará el servicio de carrera para el personal de la rama administrativa.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+11. El ingreso, formación, permanencia y especialización de la carrera judicial se basará en los resultados del desempeño y el reconocimiento de méritos. Se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honradez e independencia. El ingreso se hará mediante concursos públicos de oposición a cargo del Instituto de Estudios Judiciales que dependerá de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, contará con un Consejo Académico. La permanencia estará sujeta al cumplimiento de los requisitos para el cargo, así como a la evaluación y vigilancia sobre el desempeño en los términos previstos en la ley y en los acuerdos generales que con arreglo a ésta, emita este Consejo Académico. La ley regulará el servicio de carrera para el personal de la rama administrativa.
 
 F. Instituto de Servicios Periciales y Ciencias Forenses
 
-Es un órgano desconcentrado del Consejo de la Judicatura, dotado de autonomía técnica y presupuestal, especializado en la prestación de servicios periciales y forenses. La ley regulará su organización y funcionamiento. Contará con un consejo técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto, cuya integración y facultades estarán previstas en la ley.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+Es un órgano dependiente de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, especializado en la prestación de servicios periciales y forenses. La ley regulará su organización y funcionamiento. Contará con un consejo técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto, cuya integración y facultades estarán previstas en la ley.
 
 En el ejercicio de sus funciones deberá garantizar la objetividad e imparcialidad de los dictámenes que emita, de conformidad con las leyes y los estándares nacionales e internacionales en la materia.
 
@@ -3916,7 +3928,9 @@ El sistema electoral y las reglas para la elección de las y los diputados de ma
 
 Lo dispuesto en los artículos 29, apartado B, numeral 3 y 53, apartado A, numeral 6 de esta Constitución, será aplicable a partir de la elección de 2021 a las y los diputados e integrantes de las alcaldías que sean electos en 2018.
 
-TERCERO.- Las disposiciones relativas a los derechos y las relaciones laborales entre las instituciones públicas de la Ciudad y sus trabajadores, establecidas en el artículo 10, apartado C y demás relativos de esta Constitución, entrarán en vigor el 1 de enero de 2020.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+TERCERO.- Las disposiciones relativas a los derechos y las relaciones laborales entre las instituciones públicas de la Ciudad y sus trabajadores, establecidas en el artículo 10, apartado C y demás relativos de esta Constitución, entrarán en vigor el 31 de agosto de 2024.
 
 CUARTO.- Los apartados del artículo 8, en lo referente a la educación preescolar, primaria y secundaria, entrarán en vigor en la Ciudad de México en el momento en que se efectúe la descentralización de los servicios educativos.
 
@@ -3962,9 +3976,9 @@ El Gobierno de la Ciudad de México deberá presentar la propuesta educativa cor
 
 DÉCIMO QUINTO.- El Congreso de la Ciudad de México expedirá la legislación en materia de planeación, la cual entrará en vigor a más tardar el 5 de septiembre de 2019, y la Ley del Instituto de Planeación, el 5 de diciembre de ese año.
 
-> <small>(REFORMADO, G.O. 2 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-La ley de planeación establecerá el calendario para la elaboración del Plan General de Desarrollo, el Programa General de Ordenamiento Territorial y los Programas de Ordenamiento Territorial de cada demarcación; el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías; así como los programas sectoriales, especiales e institucionales; y los programas parciales de las colonias, pueblos y barrios originarios y comunidades indígenas, sobre la base de que el Plan General de Desarrollo entre en vigor el 1 de octubre de 2020, el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías lo hagan el 1 de enero de 2021, y el Programa de Ordenamiento Territorial y los programas de ordenamiento territorial de cada una de las demarcaciones el 1 de abril de 2021.
+La ley de planeación establecerá el calendario para la elaboración del Plan General de Desarrollo, el Programa General de Ordenamiento Territorial y los Programas de Ordenamiento Territorial de cada demarcación; el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías; así como los programas sectoriales, especiales e institucionales; y los programas parciales de las colonias, pueblos y barrios originarios y comunidades indígenas, sobre la base de que el Plan General de Desarrollo entre en vigor el 1 de octubre de 2022, el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías lo harán el 1 de abril de 2023, el Programa de Ordenamiento Territorial el 1 de octubre de 2022, y los programas de ordenamiento territorial de cada una de las demarcaciones el 1 de abril de 2023.
 
 El comité de selección al que se refiere el artículo 15 de esta Constitución se conformará por convocatoria de la o el Jefe de Gobierno a las universidades públicas y privadas de mayor reconocimiento en la Ciudad, los colegios de profesionales, los institutos de investigación, organizaciones de la sociedad civil y las cámaras relacionadas con las materias de planeación y serán designados, de forma escalonada, por las dos terceras partes de las y los miembros presentes del Congreso de la Ciudad. Será de carácter honorífico y sólo sesionará cuando se requiera llevar a cabo un proceso de nombramiento. La ley establecerá los lineamientos y mecanismos para el ejercicio de sus funciones.
 
@@ -3998,9 +4012,9 @@ Todas las averiguaciones previas y carpetas de investigación iniciadas por la P
 
 La ley de la Fiscalía General de Justicia entrará en vigor el 5 de diciembre de 2019. La o el Fiscal General de Justicia será designado por el Congreso de la Ciudad de México a más tardar el 15 de diciembre de 2019.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-DÉCIMO OCTAVO.- El Congreso de la Ciudad de México expedirá las leyes o realizará las modificaciones a los ordenamientos que rigen a los organismos autónomos establecidos en esta Constitución, a más tardar el 5 de diciembre de 2019.
+DÉCIMO OCTAVO.- El Congreso de la Ciudad de México expedirá las leyes o realizará las modificaciones a los ordenamientos que rigen a los organismos autónomos establecidos en esta Constitución, a más tardar el 31 de agosto de 2024.
 
 Los consejos ciudadanos encargados de la integración de los organismos autónomos deberán constituirse para atender la función específica que les otorga esta Constitución.
 
@@ -4008,7 +4022,9 @@ Los consejos ciudadanos a los que se refiere el artículo 46, apartado C, numera
 
 DÉCIMO NOVENO.- El Congreso de la Ciudad de México, en un plazo que no exceda de su primer año de ejercicio legislativo, expedirá una ley para la seguridad ciudadana que establezca las bases para que las alcaldías convengan con la o el Jefe de Gobierno la operación de cuerpos de policía de proximidad a cargo de la prevención del delito.
 
-VIGÉSIMO.- La legislación relativa a los sistemas y programas establecidos en esta Constitución deberá entrar en vigor a más tardar el 31 de diciembre de 2019. Las autoridades competentes realizarán las acciones necesarias para implementar estos sistemas a más tardar dentro de los 180 días posteriores a la entrada en vigor de la legislación en la materia.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+VIGÉSIMO.- La legislación relativa a los sistemas y programas establecidos en esta Constitución deberá entrar en vigor a más tardar el 31 de diciembre de 2023. Las autoridades competentes realizarán las acciones necesarias para implementar estos sistemas a más tardar dentro de los 180 días posteriores a la entrada en vigor de la legislación en la materia.
 
 VIGÉSIMO PRIMERO.- El Instituto Electoral del Distrito Federal, ahora Instituto Electoral de la Ciudad de México, realizará las gestiones necesarias para que el Instituto Nacional Electoral lleve a cabo el proceso de redistritación local para ajustar la geografía electoral a lo que dispone esta Constitución, que será aplicable a partir del proceso electoral 2017-2018.
 
@@ -4070,9 +4086,9 @@ Para tal efecto, en el Presupuesto de Egresos de 2019, el Congreso de la Ciudad 
 
 VIGÉSIMO CUARTO.- En los casos en que deba instalarse un nuevo organismo público creado por esta Constitución, los recursos necesarios para su funcionamiento deberán preverse en el proyecto de Presupuesto de Egresos anterior al año en que inicie sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-VIGÉSIMO QUINTO.- El Congreso de la Ciudad de México, deberá expedir a más tardar el 15 de diciembre de 2021, la Ley del Centro de Conciliación Laboral y la Ley que Regula las Relaciones Laborales de la Ciudad de México y sus Personas Trabajadoras; dentro del mismo plazo, deberá armonizar, la Ley Orgánica del Poder Judicial de la Ciudad de México y la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+VIGÉSIMO QUINTO.– El Congreso de la Ciudad de México, deberá expedir a más tardar el 25 de julio de 2024, la Ley del Centro de Conciliación Laboral y la Ley que Regula las Relaciones Laborales de la Ciudad de México y sus Personas Trabajadoras; dentro del mismo plazo, deberá armonizar, la Ley Orgánica del Poder Judicial de la Ciudad de México y la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
 En tanto el Congreso expide la legislación a que se refiere el párrafo anterior, las relaciones laborales entre la Ciudad de México y sus trabajadores que hasta antes de la entrada en vigor de esta Constitución se hubieren regido por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, continuarán normándose por dicha Ley.
 
@@ -4138,7 +4154,9 @@ TRIGÉSIMO SÉPTIMO.- Con relación a lo establecido en el segundo párrafo, num
 
 TRIGÉSIMO OCTAVO.- Esta Constitución deberá ser accesible a todas las personas, por lo que las autoridades tomarán las medidas apropiadas para que sea adaptada y traducida a las diversas lenguas originarias que se hablan en la Ciudad de México y a todos los formatos accesibles de manera gratuita para cualquier persona, en un plazo de un año a partir de su publicación.
 
-TRIGÉSIMO NOVENO.- En las materias de su competencia, el Congreso deberá adecuar la totalidad del orden jurídico de la Ciudad de México a esta Constitución, a más tardar el 31 de diciembre de 2020.
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+TRIGÉSIMO NOVENO.- En las materias de su competencia, el Congreso deberá adecuar la totalidad del orden jurídico de la Ciudad de México a esta Constitución, a más tardar el 31 de agosto de 2024.
 
 Dada en el Salón de Sesiones de la Asamblea Constituyente de la Ciudad de México, en la Antigua Casona de Xicoténcatl, a los treinta y un días del mes de enero de dos mil diecisiete.- Por la Mesa Directiva: el Presidente, Alejandro de Jesús Encinas Rodríguez.- Rúbrica.- La Primera Vicepresidenta, Clara Marina Brugada Molina.- Rúbrica.- La Segunda Vicepresidenta, Irma Cué Sarquis.- El Tercer Vicepresidente, Mauricio Tabe Echartea.- Rúbrica.- La Primer Secretaria, Margarita Saldaña Hernández.- Rúbrica.- La Segunda Secretaria, Bertha Elena Luján Uranga.- Rúbrica.- La Tercer Secretaria, Aída Arregui Guerrero.- Rúbrica.- Por la Mesa de Consulta, los Coordinadores de Grupos Parlamentarios: Partido de la Revolución Democrática, María de los Dolores Padierna Luna.- Rúbrica.- MORENA, Bernardo Bátiz Vázquez.- Rúbrica.- Partido Revolucionario Institucional, César Octavio Camacho Quiroz.- Rúbrica.- Partido Acción Nacional, Santiago Creel Miranda.- Rúbrica.- Ejecutivo Federal, Fernando Francisco Lerdo de Tejada Luna.- Rúbrica.- Constitucionalista y Coordinador de la Conferencia de Armonización, Porfirio Alejandro Muñoz Ledo y Lazo de la Vega.- Rúbrica.- Partido Verde Ecologista de México, Luis Alejandro Bustos Olivares.- Rúbrica.- Partido Movimiento Ciudadano, Alejandro Chanona Burguete.- Rúbrica.- Partido Nueva Alianza, Gabriel Ricardo Quadri de la Torre.- Rúbrica.- Partido Encuentro Social, Hugo Eric Flores Cervantes.- Rúbrica.- Los Presidentes de Comisiones: Principios Generales, Jesús Enrique Jackson Ramírez.- Rúbrica.- Carta de Derechos, María Marcela Lagarde y de los Ríos.- Rúbrica.- Desarrollo Sostenible y Planeación Democrática, Enrique Provencio Durazo.- Rúbrica.- Ciudadanía, Ejercicio Democrático y Régimen de Gobierno, Raúl Bautista González.- Rúbrica.- Poder Judicial, Procuración de Justicia, Seguridad Pública y Organismos Constitucionales Autónomos, Manuel Enrique Díaz Infante de la Mora.- Rúbrica.- Alcaldías, Gabriela Cuevas Barrón.- Rúbrica.- Pueblos y Barrios Originarios y Comunidades Indígenas Residentes, Jesús Ramírez Cuevas.- Rúbrica.- Buen Gobierno, Combate a la Corrupción y Régimen de Responsabilidades de los Servidores Públicos, Armando Ríos Piter.- Rúbrica.- Los Diputados Constituyentes: Claudia Aguilar Barroso.- Rúbrica.- Gonzalo Altamirano Dimas.- Rúbrica.- Diana Arellano Rivera.- Rúbrica.- Jorge Aréchiga Ávila.- Rúbrica.- Juan Ayala Rivero.- Rúbrica.- Armando Jesús Baez Pinal.- Rúbrica.- Marath Baruch Bolaños López.- Rúbrica.- María Fernanda Bayardo Salim.- Rúbrica.- Bruno Iván Bichir Nájera.- Rúbrica.- Héctor Hermilo Bonilla Rebentún.- Rúbrica.- Enrique Burgos García.- Rúbrica.- Jaime Fernando Cárdenas Gracia.- Rúbrica.- Lolkin Castañeda Badillo.- Rúbrica.- René Cervera García.- Rúbrica.- Elena Chávez González.- Rúbrica.- Isidro Hildegardo Cisneros Ramírez.- Rúbrica.- Ernesto Javier Cordero Arroyo.- Rúbrica.- Katia D´Artigues Beauregard.- Rúbrica.- Esthela Damián Peralta.- Rúbrica.- Yolanda de la Torre Valdez.- Rúbrica.- Mayela Eugenia Delgadillo Bárcena.- Rúbrica.- Federico Döring Casar.- Rúbrica.- José Eduardo Escobedo Miramontes.- Rúbrica.- Ismael Figueroa Flores.- Rúbrica.- Carlos Gelista González.- Rúbrica.- Roberto Gil Zuarth.- Rúbrica.- Mariana Gómez del Campo Gurza.- Rúbrica.- María Teresa Gómez Mont y Urueta.- Rúbrica.- Augusto Gómez Villanueva.- Rúbrica.- Lisbeth Hernández Lecona.- Rúbrica.- María Gloria Hernández Madrid.- Rúbrica.- Ana Julia Hernández Pérez.- Rúbrica.- Javier Jiménez Espriú.- Rúbrica.- Nelly Antonia Juárez Audelo.- Rúbrica.- Clara Jusidman Rapoport.- Rúbrica.- Elvira Daniel Kabbaz Zaga.- Rúbrica.- Tobyanne Ledesma Rivera.- Rúbrica.- Cynthia Iliana López Castro.- Rúbrica.- Kenia López Rabadán.- Rúbrica.- Roberto López Suárez.- Rúbrica.- Humberto Lozano Avilés.- Rúbrica.- Aristeo López Pérez.- Rúbrica.- Ana Laura Magaloni Kerpel.- Rúbrica.- María Lorena Marín Moreno.- Rúbrica.- José Andrés Millán Arroyo.- Rúbrica.- Ifigenia Martha Martínez y Hernández.- Rúbrica.- Julio César Moreno Rivero.- Rúbrica.- Edda Alejandra Beatriz Moreno y Toscano.- Rúbrica.- Guadalupe Elizabeth Muñoz Ruiz.- Rúbrica.- José Marco Antonio Olvera Acevedo.- Rúbrica.- María Eugenia Ocampo Bedolla.- Rúbrica.- José Manuel Oropeza Morales.- Rúbrica.- José Jesús Ortega Martínez.- Rúbrica.- Patricia Jimena Ortiz Couturier.- Rúbrica.- Beatriz Pagés Llergo Rebollar.- Rúbrica.- Claudia Pastor Badilla.- Rúbrica.- María de la Paz Quiñones Cornejo.- Rúbrica.- Javier Quijano Baz.- Rúbrica.- Gabriela Rodríguez Ramírez.- Rúbrica.- Jaime Eduardo Rojo Cedillo.- Rúbrica.- María Guadalupe Cecilia Romero Castillo.- Rúbrica.- Juan Carlos Romero Hicks.- Rúbrica.- Lilia Eugenia Rossbach Suárez.- Rúbrica.- Martha Patricia Ruiz Anchondo.- Rúbrica.- María Lucero Saldaña Pérez.- Rúbrica.- Olga María del Carmen Sánchez Cordero.- Rúbrica.- María del Consuelo Sánchez Rodríguez.- Rúbrica.- Irma Eréndira Sandoval Ballesteros.- Rúbrica.- María Esther de Jesús Scherman Leaño.- Rúbrica.- Jesús Sesma Suárez.- Rúbrica.- Cecilia Guadalupe Soto González.- Rúbrica.- Santiago Taboada Cortina.- Rúbrica.- Margarita María Valdés González Salas.- Rúbrica.- Jesús Salvador Valencia Guzmán.- Rúbrica.- Miguel Ángel Marcos Velázquez Muñoz.
 
@@ -4269,3 +4287,33 @@ V. Admisión en el desahogo de comunicaciones, exhortos, oficios, audiencias, no
 Los sistemas y herramientas electrónicas que a la entrada en vigor de la reforma se hayan implementado serán válidos y, en su caso, se ajustarán al presente Decreto.
 
 QUINTO. En tanto se instituye el Sistema de Justicia Laboral, en términos del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 39 de la Constitución Política de la Ciudad de México, la Junta Local de Conciliación y Arbitraje deberá implementar progresivamente las plataformas, sistemas y herramientas tecnológicas necesarias para su modernización y adecuado funcionamiento, en términos del presente Decreto.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO, DÉCIMO OCTAVO, VIGÉSIMO, VIGÉSIMO QUINTO Y TRIGÉSIMO NOVENO DEL DECRETO POR EL QUE SE EXPIDE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, EL 5 DE FEBRERO DE 2017”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su Promulgación y Publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL NUMERAL 2 Y SE REFORMA EL NUMERAL 4, AMBOS DEL APARTADO B; SE REFORMA EL NUMERAL 2 DEL APARTADO D; SE REFORMA EL NUMERAL 11 DEL APARTADO E, Y SE REFORMA EL PRIMER PÁRRAFO DEL APARTADO F, TODOS DEL ARTÍCULO 35 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su Promulgación y Publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO TRANSITORIO DÉCIMO QUINTO, DEL DECRETO POR EL QUE SE EXPIDE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, EL 5 DE FEBRERO DE 2017, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO TRANSITORIO OCTAVO, DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 20 DE DICIEMBRE DE 2019”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su Promulgación y Publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
