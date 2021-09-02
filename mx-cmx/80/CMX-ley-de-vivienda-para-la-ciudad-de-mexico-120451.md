@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2019-10-11"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -252,15 +252,29 @@ LIII. SUSTENTABILIDAD: Conjunto de acciones que buscan un equilibrio entre los r
 
 LIV. VIVIENDA ACCESIBLE: Es aquella que está orientada hacia el diseño de la vivienda y el entorno, de tal manera que las personas puedan acceder a éstas, independiente de su condición física o social;
 
-LV. VIVIENDA DE INTERÉS POPULAR: La vivienda cuyo precio de venta al público es superior a 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente y no exceda de 9,000 veces la Unidad de Cuenta de la Ciudad de México vigente;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-LVI. VIVIENDA DE INTERÉS SOCIAL La vivienda cuyo precio máximo de venta al público es de 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente;
+LV. VIVIENDA DE INTERÉS POPULAR: vivienda cuyo precio de venta al público es superior a 6,000 veces el valor diario de la Unidad de Medida y Actualización vigente y no exceda de 10,800 veces el valor diario de dicha Unidad;
 
-LVII. VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA: Aquella cuyo precio máximo de venta al público no exceda de 21,000 veces la Unidad de Cuenta de la Ciudad de México vigente;
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-LVIII. VIVIENDA PROGRESIVA: La acción destinada a satisfacer las necesidades habitacionales y cambiantes de las personas, desde las etapas iniciales, en el proceso paulatino, escalonado y discontinuo de construcción y adaptación. Se realiza en etapas a través de mejoramientos y/o ampliaciones de acuerdo a los recursos económicos y necesidades de las y los habitantes; y
+LVI. VIVIENDA DE INTERÉS SOCIAL: vivienda cuyo precio máximo de venta al público es de 6,000 veces el valor diario de la Unidad de Medida y Actualización vigente;
 
-LIX. VIVIENDA RURAL: Edificaciones construidas en localidades que tengan menos de 2,500 habitantes, y su principal actividad económica sea el sector primario.
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+LVII. VIVIENDA PARA LAS PERSONAS TRABAJADORAS DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA: vivienda cuyo precio máximo de venta al público no exceda de 21,000 veces el valor diario de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+LVIII. VIVIENDA PROGRESIVA: acción destinada a satisfacer las necesidades habitacionales y cambiantes de las personas, desde las etapas iniciales, en el proceso paulatino, escalonado y discontinuo de construcción y adaptación. Se realiza en etapas a través de mejoramientos y/o ampliaciones de acuerdo con los recursos económicos y necesidades de las y los habitantes;
+
+> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+LIX. VIVIENDA RURAL: Edificaciones construidas en localidades que tengan menos de 2,500 habitantes, y su principal actividad económica sea el sector primario, y
+
+> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+LX. VIVIENDA SUSTENTABLE: vivienda cuyo precio de venta al público es superior a 10,800 veces el valor diario de la Unidad de Medida y Actualización vigente y no exceda de 17,314 veces el valor diario de dicha Unidad.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SU COMPETENCIA
 
@@ -1321,3 +1335,15 @@ G.O. 11 DE OCTUBRE DE 2019.
 PRIMERO.- Túrnese a la Jefa de Gobierno de la Ciudad de México, para los efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA LEY DE VIVIENDA PARA LA CIUDAD MÉXICO, LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, EL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO Y LA NORMA DE ORDENACIÓN NÚMERO 26 QUE FORMA PARTE DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y DEL PROGRAMA GENERAL DE DESARROLLO URBANO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– Por lo que se refiere a la Reforma a la Norma de Ordenación Número 26, inscríbase lo establecido en el presente Decreto tanto en el Registro de los Planes y Programas de Desarrollo Urbano como en el Registro Público de la Propiedad y Comercio de la Ciudad de México.
+
+TERCERO.– El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+CUARTO.- Los Acuerdos emitidos por la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México para la aplicación de la Norma de Ordenación Número 26, continuarán vigentes en lo que no contravengan al presente Decreto.
