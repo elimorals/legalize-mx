@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2021-08-13"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -391,7 +391,9 @@ X.- Impulsar la capacitación, actualización y especialización del Cuerpo de S
 
 XI.- Integrar el Sistema de Información Penitenciaria;
 
-XII.- Dirigir los mecanismos, sistemas y procedimientos de funcionamiento de los centros penitenciarios de reinserción social y los de internamiento especializados para adolescentes del Estado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Dirigir los mecanismos, sistemas y procedimientos de funcionamiento de los centros penitenciarios de reinserción social y los de internamiento especializados para adolescentes del Estado, así como nombrar y remover a las personas titulares de los centros penitenciarios estatales, regionales y distritales en el Estado;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
@@ -2404,3 +2406,11 @@ P.O. 13 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 17 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
