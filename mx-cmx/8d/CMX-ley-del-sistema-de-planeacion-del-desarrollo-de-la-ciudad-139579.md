@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-planeacion-del-desarrollo-de-la-ciudad-13957
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-20"
-last_updated: "2019-12-20"
+last_updated: "2021-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139579&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-18"
 
 LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 20 de diciembre de 2019.
 
@@ -1094,7 +1094,9 @@ SÉPTIMO. El Congreso y la Administración Pública Local tomarán las medidas l
 
 La integración de los órganos del instituto deberá llevarse a cabo en un periodo de sesenta días a partir de la fecha de entrada en vigor de la presente ley.
 
-OCTAVO. El Plan General entrará en vigor el 01 de octubre de 2020, el Programa de Gobierno y los programas de gobierno de las Alcaldías lo harán el 01 de enero de 2021, y el Programa General y los programas de ordenamiento territorial de cada una de las demarcaciones territoriales el 01 de octubre de 2021.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+OCTAVO. El Plan General entrará en vigor el 01 de octubre de 2022, el Programa de Gobierno y los programas de gobierno de las Alcaldías lo harán el 01 de abril de 2023, el Programa General el 01 de octubre de 2022 y los programas de ordenamiento territorial de cada una de las demarcaciones territoriales el 01 de abril de 2023.
 
 El Instituto elaborará y remitirá al Congreso, a la administración pública local y a las Alcaldías, a más tardar el 30 de julio de 2020, un diagnóstico sobre los asentamientos humanos irregulares y las propuestas de acciones y medidas a implementar previo a la entrada en vigor de los programas de ordenamiento territorial a que se refiere el párrafo anterior. La administración pública local y las Alcaldías deberán implementar de inmediato las acciones y medidas contenidas en el diagnostico antes señalado, debiendo informar de manera trimestral al Congreso sobre su avance y cumplimiento.
 
@@ -1115,3 +1117,15 @@ DÉCIMO QUINTO. Para la integración del proyecto de Presupuesto de Egresos para
 Palacio Legislativo del Congreso de la Ciudad de México, a los once días del mes de diciembre del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD VENTURA ÁVILA, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3, fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los dieciocho días del mes de diciembre del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTÍZ QUINTERO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO TRANSITORIO DÉCIMO QUINTO, DEL DECRETO POR EL QUE SE EXPIDE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO EL 5 DE FEBRERO DE 2017. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO TRANSITORIO OCTAVO, DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 20 DE DICIEMBRE DE 2019".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su Promulgación y Publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
