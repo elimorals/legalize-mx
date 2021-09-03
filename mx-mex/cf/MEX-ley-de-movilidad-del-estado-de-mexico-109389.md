@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2021-01-05"
+last_updated: "2021-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -65,7 +65,19 @@ I. Centro de Transferencia Modal: Espacio físico con infraestructura y equipami
 
 I. Bis. Chofer: persona que conduce un vehículo del servicio público de transporte.
 
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+I. Ter. Bicicleta: Medio de transporte que consta de dos o más ruedas alineadas que es impulsado mediante energía eléctrica o fuerza humana, mismo que se utiliza en carriles específicamente diseñados para ellos en la vía pública.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+I. Quater. Bici estacionamiento: Espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas por tiempo determinado.
+
 II. Ciclista: Conductor de un vehículo de tracción humana a través de pedales. Se considera también ciclista a aquellos que conducen bicicletas asistidas por motores eléctricos.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+II. Bis. Ciclovía: A la parte de la vía pública destinada únicamente para la circulación de bicicletas, la cual puede ser de dos sentidos o de uno solo.
 
 III. Conductor: Persona que maneje un vehículo automotor en cualquiera de sus modalidades.
 
@@ -821,6 +833,90 @@ VIII. Las cédulas de notificación de infracción y la demás información rele
 
 Cuando los actos que deban inscribirse en el registro estatal, no se asienten, si no contravienen las disposiciones de esta ley, sólo surtirán efectos entre los otorgantes, pero no podrán producir perjuicio a terceros, quienes sí podrán aprovecharlos en lo que les fueren favorables.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+## TÍTULO QUINTO. DE LA MOVILIDAD SUSTENTABLE
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO PRIMERO. DE LAS Y LOS CICLISTAS
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 52.
+
+El Estado reconoce y protege el derecho humano a la movilidad universal, incluyente, saludable, no contaminante y gratuita, el cual se deberá ejercer en condiciones dignas, equitativas y seguras, en las mismas condiciones que los usuarios de otros vehículos, pero bajo condiciones preferentes de infraestructura para ciclistas, así como su importancia y su socialización.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 53.
+
+Las personas dentro del Estado gozarán de los siguientes derechos:
+
+I. A contar con la infraestructura necesaria para su correcta y segura movilidad o circulación;
+
+II. Circular por infraestructura ciclista que únicamente permita la circulación de bicicletas;
+
+III. Contar con servicios que le permitan realizar trasbordos con otros medios de transporte como lo son las áreas de estacionamiento seguros y estratégicos, y
+
+IV. Las demás que establezca esta Ley o demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 54.
+
+Las y los ciclistas deberán de cumplir los siguientes ordenamientos:
+
+I. Respetar las leyes, reglamentos y demás ordenamientos que les resulten aplicables, así como señales de tránsito e indicaciones del personal de la dirección de tránsito estatal o municipal, aun cuando circulen como contingente, pelotón, colectivo o grupo de ciclistas.
+
+Únicamente se exceptúa lo anterior en caso de eventos deportivos o rodadas que cuenten previamente con el permiso de las autoridades competentes y la vigilancia de éstas en dicho evento;
+
+II. Generar una convivencia responsable con los demás conductores de otros vehículos y el transporte público cuando exista la necesidad de compartir los carriles de extrema derecha, y
+
+III. Las demás que establezca esta Ley o demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 55.
+
+Se deberá constituir el Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México (FOMOCyT), el cual deberá ajustarse de manera anual a las necesidades y al balance financiero que se requiera, previo estudio de las autoridades en materia de movilidad.
+
+Así mismo tendrá como únicos objetivos:
+
+I. Construir una partida presupuestal especial para implementar mejoras a la infraestructura para la movilidad alternativa, no motorizada y peatonal;
+
+II. Coadyuvar con la Secretaría a fin de dar mantenimiento a la infraestructura ciclista y peatonal ya establecida, previo estudio de la situación vial;
+
+III. Desarrollar acciones para reducir los accidentes de peatones y ciclistas, e
+
+IV. Implementación de políticas al fomento del uso de la bicicleta y demás medios de transporte no contaminantes.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 56.
+
+Para la regulación, funcionamiento, así como su aplicación de recursos del Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México deberá de sujetarse a la presente ley, así como a las respectivas reglas de operación que emita la Secretaría.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 57.
+
+De acuerdo con el artículo 55 de la presente Ley, del monto total de participaciones que integren el Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México, se deberá distribuir de la siguiente manera:
+
+I. Cuarenta por ciento para dar cumplimiento a lo establecido por la fracción I del artículo 55;
+
+II. Veinte por ciento a fin de cumplir con lo establecido en la fracción II del artículo 55;
+
+III. Veinte por ciento para garantizar lo dispuesto en la fracción III del artículo 55, y
+
+IV. Veinte por ciento a fin de efectuar lo establecido por la fracción IV del artículo 55.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 58.
+
+El Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México será administrado por la Secretaría con base en los principios de publicidad, transparencia y rendición de cuentas, además de cumplir en todo momento con los objetivos establecidos en la ley.
+
 T R A N S I T O R I O S
 
 PRIMERO. Publíquese el presente Decreto en (sic) Periódico Oficial "Gaceta del Gobierno".
@@ -1148,3 +1244,17 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 319.- POR EL QUE SE ADICIONAN LAS FRACCIONES I TER Y I QUATER; II BIS AL ARTÍCULO 2; EL TÍTULO QUINTO “DE LA MOVILIDAD SUSTENTABLE”; CAPÍTULO PRIMERO “DE LAS Y LOS CICLISTAS”, QUE CONTIENEN LOS ARTÍCULOS 52, 53, 54, 55, 56, 57 Y 58, A LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo Estatal tendrá un plazo improrrogable de 180 días hábiles posteriores a la entrada en vigor del presente Decreto para armonizar sus correspondientes reglamentos con el presente Decreto.
+
+CUARTO. La Legislatura del Estado de México deberá asignar los recursos presupuestales necesarios para la constitución del Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México (FOMOCyT). Las Secretarías de Movilidad y de Finanzas deberán llevar a cabo todos los actos necesarios de conformidad con las disposiciones jurídicas aplicables para constituir dicho Fondo, en un plazo de seis meses contados a partir de la asignación presupuestal correspondiente.
+
+QUINTO. La Secretaría de Movilidad tendrá un plazo improrrogable de 90 días hábiles posteriores a la constitución del Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México para emitir las Reglas de Operación correspondientes para su correcto funcionamiento.
