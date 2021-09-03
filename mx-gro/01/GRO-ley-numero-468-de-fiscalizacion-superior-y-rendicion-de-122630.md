@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-468-de-fiscalizacion-superior-y-rendicion-de-122630"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2021-07-30"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance V al Número 57 del Periódico Oficial del Estado de Guerrero, el martes 18 de julio de 2017.
 
@@ -228,6 +228,14 @@ Se integrará conforme a lo dispuesto en los artículos 53 o 55 de la Ley Genera
 La falta de presentación de la cuenta pública dentro del término establecido será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes y no será impedimento para que la Auditoría Superior del Estado realice su función de fiscalización.
 
 Las cuentas públicas que se presenten de manera extemporánea, con independencia de las sanciones que impliquen para la respectiva entidad fiscalizable, otorgarán a la Auditoria Superior del Estado una prórroga similar al periodo del retraso para presentar el Informe Individual, contado a partir de la fecha en que se haya entregado el Informe General.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 13 Bis.
+
+La información financiera gubernamental de las cuentas públicas que se presenten a la Auditoría Superior del Estado por parte de las entidades fiscalizables deberá ser dictaminada por profesionistas que acrediten contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública; y, sólo serán válidas las certificaciones cuando sean expedidas por los organismos certificadores que obtengan el Reconocimiento de Idoneidad de la Secretaría de Educación Pública.
+
+La Auditoria Superior del Estado de Guerrero, llevará un registro de los profesionistas acreditados, y emitirá las bases y requisitos para formar parte del padrón de contadores certificados.
 
 ###### Artículo 14.
 
@@ -1398,3 +1406,19 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. La Auditoría Superior del Estado de Guerrero realizará y adecuará las disposiciones reglamentarias correspondientes, a fin de poner en funcionamiento la herramienta electrónica a que hace referencia el artículo 18 Bis de la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 TERCERO. Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
+
+P.O. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 845 POR EL QUE SE ADICIONA EL ARTÍCULO 13 BIS DE LA LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de la recepción de la Cuenta Pública del Ejercicio Fiscal 2021 que se presenta a más tardar en el mes de abril de 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la Gaceta Parlamentaria y la Página web del Congreso del Estado de Guerrero, para conocimiento general.
