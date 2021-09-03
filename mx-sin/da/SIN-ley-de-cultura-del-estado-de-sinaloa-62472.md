@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-cultura-del-estado-de-sinaloa-62472"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-13"
-last_updated: "2018-05-30"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CULTURA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de agosto de 2008.
 
@@ -162,6 +162,10 @@ I. Elevar, mediante la acción cultural, la calidad de vida de la población;
 II. Fomentar la cultura con un sentido distributivo, incluyente y equitativo;
 
 III. Garantizar el acceso de la población a los bienes y servicios culturales con sentido de beneficio social;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+III Bis. Promover el interés superior de niñas, niños y adolescentes;
 
 IV. Promover la participación de los Municipios en el fomento a la cultura;
 
@@ -838,3 +842,9 @@ P.O. 30 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 384 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 668 QUE ADICIONA LA FRACCIÓN III BIS, AL ARTÍCULO 14 DE LA LEY DE CULTURA DEL ESTADO DE SINALOA”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
