@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
 country: "mx"
 rank: "ley"
 publication_date: "1985-07-16"
-last_updated: "2019-06-12"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS DE ASISTENCIA SOCIAL DE CARACTER MUNICIPAL DENOMINADO "SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA"
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE OCTUBRE DE 2022 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARÁCTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA» DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
 
@@ -335,7 +333,9 @@ II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública.
 
 III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad.
 
-IV. Acreditar ante el Titular del organismo o ante el Consejo Directivo, cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo, contar con título profesional en las áreas económicas o contable- administrativas con experiencia mínima de un año en la materia y con la certificación de competencia laboral en funciones de la Hacienda Pública, expedida por el Instituto Hacendario del Estado de México.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Acreditar ante el Titular del organismo o ante el Consejo Directivo, cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo, contar con título profesional en las áreas económicas o contable-administrativas con experiencia mínima de un año en la materia y con la certificación de competencia laboral específica, correspondiente al puesto, expedida por el Instituto Hacendario del Estado de México o cualquier autoridad competente.
 
 El requisito de la certificación de competencia laboral, deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicie funciones.
 
@@ -512,5 +512,13 @@ G.G. 12 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 47.- POR EL QUE SE REFORMA LA LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE ASISTENCIA SOCIAL, DE CARÁCTER MUNICIPAL, DENOMINADOS 'SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA' ”.]
 
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 321.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 15 TER DE LA LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE ASISTENCIA SOCIAL, DE CARÁCTER MUNICIPAL, DENOMINADOS “SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
