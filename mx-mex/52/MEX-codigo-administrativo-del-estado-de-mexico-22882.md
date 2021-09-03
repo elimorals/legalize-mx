@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2021-01-06"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -5649,7 +5649,11 @@ V. El Coordinador General de Protección Civil del Estado de México;
 
 VI. Los Sistemas y Consejos Municipales de Protección Civil;
 
-VII. La representación de los sectores social y privados, de las instituciones educativas, grupos voluntarios y expertos en diferentes áreas relacionadas con la protección civil.
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Los Cuerpos de Bomberos Municipales;
+
+VIII. La representación de los sectores social y privados, de las instituciones educativas, grupos voluntarios y expertos en diferentes áreas relacionadas con la protección civil.
 
 El Ejecutivo del Estado y los presidentes municipales, tendrán la responsabilidad de la integración y funcionamiento de los sistemas de protección civil.
 
@@ -5864,6 +5868,10 @@ IV. Los grupos voluntarios.
 > <small>(ADICIONADA, G.G. 26 DE NOVIEMBRE DE 2019)</small>
 
 V. Los Comités Ciudadanos de Prevención de Protección Civil.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+
+VI. El Cuerpo de Bomberos del Municipio.
 
 Los sistemas municipales deberán vincularse y coordinarse con el sistema estatal de protección civil.
 
@@ -18218,3 +18226,21 @@ SEXTO. Se otorga un plazo de 120 días hábiles, a partir de la vigencia de la p
 SÉPTIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se hagan referencias al Fideicomiso para la Promoción Turística se entenderán hechas al Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal, el cual cambia de denominación y se constituirá con los recursos del Fideicomiso vigente.
 
 Los convenios, contratos y acuerdos suscritos con antelación con cargo u obligación por parte del Fideicomiso para la Promoción Turística seguirán teniendo vigencia y constituirán parte de los derechos y obligaciones del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal.
+
+G.G. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 324.- POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 6.6, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE Y LA FRACCIÓN VI AL ARTÍCULO 6.12, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 142, LOS ARTÍCULOS 144, 144 BIS, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 144 TER, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y SE EXPIDE LA LEY DE LOS CUERPOS DE BOMBEROS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Quedan derogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por la presente Ley.
+
+CUARTO. Los municipios del Estado, dentro de los cien días siguientes a la entrada en vigor del presente Decreto, deberán armonizar sus reglamentos de conformidad con la presente Ley.
+
+QUINTO. Los Ayuntamientos de los 125 Municipios tomarán las previsiones necesarias dentro de la planeación y programación de su presupuesto para garantizar el cumplimiento del presente Decreto.
+
+SEXTO. La antigüedad, prestaciones y demás derechos adquiridos a los que sean sujetos los miembros de los Cuerpos de Bomberos municipales ya establecidas en las diferentes modalidades que prevalecen en el Estado, serán respetados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, establecerá las previsiones para que a partir de la entrada en vigor de la presente Ley, las Bases Regionales que cuenten con las condiciones de centros de formación, se adapten para cumplir con los señalado en el Título Sexto de este Decreto.
