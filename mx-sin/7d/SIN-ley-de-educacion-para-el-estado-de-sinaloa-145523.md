@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2021-02-10"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -133,7 +133,9 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y las mujeres, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y la de género, y
 
 V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
 
@@ -215,9 +217,11 @@ IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar
 
 X. Todos aquellos que contribuyan al bienestar y desarrollo de México y del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 15.
 
-La educación impartida en el Estado, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas (sic) discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en todos los ámbitos de gobierno del Estado.
+La educación impartida en el Estado, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y la de género, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en todos los ámbitos de gobierno del Estado.
 
 Además, responderá a los siguientes criterios:
 
@@ -1457,7 +1461,9 @@ XVII. Crear un sistema estatal de becas; bajo una regulación específica y vigi
 
 XVIII. Otorgar estímulos, recompensas, reconocimientos y distinciones a los maestros que sobresalgan en su desempeño profesional.
 
-XIX. Establecer programas de educación extraescolar, de fomento cultural, de recreación y deporte;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Establecer programas de educación extraescolar, de fomento cultural, de prevención contra la violencia de género, y de recreación y deporte;
 
 XX. Fomentar la actividad física de los educandos, el recreo activo, los juegos tradicionales, circuitos recreativos y pautas para la salud, como acciones formativas y preventivas;
 
@@ -2250,3 +2256,11 @@ P.O. 10 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 567 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO, A LA FRACCIÓN XXXII, DEL ARTÍCULO 145 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 667 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 11, 15 Y 145 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
