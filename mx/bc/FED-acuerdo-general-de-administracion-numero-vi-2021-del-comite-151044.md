@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-vi-2021-del-comite-151
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-07-09"
-last_updated: "2021-07-09"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151044&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-06-28"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VI/2021, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE JUNIO DE DOS MIL VEINTIUNO, MEDIANTE EL CUAL SE CREA EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD, Y SE ESTABLECEN LAS REGLAS DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en la Gaceta del Semanario Judicial de la Federación, el viernes 9 de julio de 2021
 
@@ -137,9 +137,21 @@ VI. Establecer los Indicadores de Austeridad y evaluar su cumplimiento con base 
 
 VII. Proponer a los órganos y áreas que correspondan, la celebración de convenios de colaboración con instituciones educativas y centros de investigación en materia de indicadores, evaluación de la gestión, mejora continua de procesos, o cualquier otra materia encaminada a mejorar la eficiencia administrativa y en consecuencia la racionalidad del gasto;
 
-VIII. Aprobar el calendario de sesiones ordinarias en la última sesión ordinaria de cada año, y
+> <small>(REFORMADA [N. DE ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2021, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, S.J.F. 3 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Las demás que le asigne el Ministro Presidente de la Suprema Corte, y el Comité de Gobierno y Administración.
+VIII. Autorizar la justificación para la adquisición o arrendamiento de vehículos en los casos que así lo requiera la normativa aplicable. Esta autorización deberá obtenerse por la unidad responsable contratante previamente a que el asunto se someta a consideración de la instancia competente para autorizar la adquisición o el arrendamiento;
+
+> <small>(REFORMADA [N. DE ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2021, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, S.J.F. 3 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Conocer las justificaciones que motivaron las excepciones a la licitación pública en los procedimientos de adquisición y arrendamiento de bienes, así como de contratación de servicios, con base en los informes bimestrales que remitan para tal efecto las unidades responsables contratantes;
+
+> <small>(ADICIONADA [N. DE REUBICADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2021, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, S.J.F. 3 DE SEPTIEMBRE DE 2021)</small>
+
+X. Aprobar el calendario de sesiones ordinarias en la última sesión ordinaria de cada año, y
+
+> <small>(ADICIONADA [N. DE REUBICADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2021, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, S.J.F. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Las demás que le asigne el Ministro Presidente de la Suprema Corte, y el Comité de Gobierno y Administración.
 
 ###### Artículo 9.
 
@@ -282,3 +294,17 @@ Firman los señores Ministros integrantes del Comité de Gobierno y Administraci
 Nota: El Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación citado en este acuerdo, aparece publicado en la Gaceta del Semanario Judicial de la Federación, Décima Época, Libro 18, Tomo III, mayo de 2015, página 2432, con número de registro digital: 2651.
 
 Este acuerdo se publicó el viernes 9 de julio de 2021 a las 10:16 horas en el Semanario Judicial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2021, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Las Unidades Responsables contratantes remitirán al Comité de Evaluación y Seguimiento de las Medidas de Racionalidad y Austeridad, a más tardar el diecisiete de septiembre de dos mil veintiuno, el informe sobre las justificaciones que motivaron las excepciones a licitación pública en las adquisiciones y arrendamientos de bienes, así como en la contratación de servicios, que correspondan a los meses de julio y agosto del presente año.
+
+TERCERO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+CUARTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración Número VI/2021, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, de veintiocho de junio de dos mil veintiuno, mediante el cual se crea el Comité de Evaluación y Seguimiento de las Medidas de Racionalidad y Austeridad, y se establecen las reglas de su integración y funcionamiento, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
