@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nuevo-1456
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2021-08-23"
+last_updated: "2021-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 21 de diciembre de 2020.
 
@@ -53,7 +53,9 @@ Las disposiciones de esta Ley son de orden público e interés general y social,
 
 Son objetivos de esta Ley:
 
-I. Impulsar y fortalecer la generación, aplicación, divulgación y difusión de la investigación científica y tecnológica, y de la innovación como inversiones estratégicas del Estado;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+I. Impulsar y fortalecer la generación, aplicación, divulgación y difusión de la investigación científica y tecnológica, y de la innovación como inversiones estratégicas del Estado, garantizando el acceso abierto de dicha información para su consulta;
 
 II. Promover la coordinación y colaboración interinstitucional e intersectorial en materia de ciencia y tecnología e innovación;
 
@@ -99,49 +101,113 @@ XXII. Conferir al Instituto, las atribuciones y facultades necesarias para coord
 
 XXIII. Establecer la integración y funciones del Consejo General para impulsar la ciencia, la tecnología e innovación, en el que participen los sectores públicos, científico-académico, social y privado.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 2 Bis.
+
+Los sectores público, científico, académico, tecnológico, social y productivo participarán en la integración y realización de políticas públicas en materia de ciencia, desarrollo tecnológico y la innovación conforme a los siguientes principios:
+
+I. La toma de decisiones en materia de impulso a CTI para el desarrollo del Estado, se llevará a cabo con la participación de los sectores público, científico, académico, tecnológico, social y productivo;
+
+II. El Gobierno del Estado, de conformidad con lo dispuesto por esta Ley, deberá participar en el otorgamiento de recursos económicos y financieros para el desarrollo de la CTI, considerándolos como inversión para el mejoramiento de la calidad de vida y el desarrollo económico del Estado;
+
+III. La ciencia, tecnología e innovación son factores estratégicos que contribuyen al crecimiento económico y el bienestar social del Estado, y son parte fundamental para lograr el desarrollo sustentable, mejorar la competitividad y elevar la calidad de vida de los nuevoleoneses;
+
+IV. La construcción de las políticas públicas en CTI estará centrada en las personas, de manera incluyente y orientada al desarrollo social, cultural y económico de las mismas, así como el combate a la pobreza; la participación de la mujer y el hombre en el ámbito científico y tecnológico, que deberá ser equilibrada y sin discriminación, e incentivando el impulso al desarrollo de las nuevas generaciones de investigadores;
+
+V. La divulgación de conocimientos, innovaciones tecnológicas y sus impactos se promoverá con el propósito de ampliar y fortalecer la cultura científica y tecnológica en la sociedad; y
+
+VI. La política estatal de impulso al conocimiento preverá áreas prioritarias, proyectos estratégicos y apoyos a largo plazo a la investigación científica, el desarrollo y la innovación tecnológica, con el propósito de garantizar el fortalecimiento del capital humano, la creación de instituciones científicas, el mejoramiento de la enseñanza de la ciencia, la integración de la ciencia en la cultura de los nuevoleoneses, la creación de infraestructura científico-tecnológica, el fomento de capacidades de innovación y de emprendimiento de base tecnológica y la transformación de la base industrial mediante la vinculación con universidades y centros de investigación.
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Clúster: concentración geográfica de empresas e instituciones asociadas en un campo particular, vinculados (sic) por características comunes y complementarias, que compiten, pero también cooperan y que su misión es impulsar la competitividad y crecimiento del sector en la región a través de la colaboración, vinculación y sinergias entre gobierno, academia y empresa;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-II. Capital semilla y de riesgo: los apoyos, créditos o capital que se otorgan a nuevos negocios basados en la innovación en sus etapas de incubación y etapas iniciales de operación;
+I. Acceso Abierto: el acceso digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
-III. Centros para incubación y desarrollo de nuevos negocios: los espacios físicos que pueden contar con infraestructura experimental de laboratorios y plantas piloto, y sistemas de gestión de negocios que apoyan la generación de nuevas empresas, especialmente aquellas de alto valor agregado o del conocimiento;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-IV. CONACYT: el Consejo Nacional de Ciencia y Tecnología, organismo público descentralizado de la Administración Pública Federal;
+II. Clúster: concentración geográfica de empresas e instituciones asociadas en un campo particular, vinculados (sic) por características comunes y complementarias, que compiten, pero también cooperan y que su misión es impulsar la competitividad y crecimiento del sector en la región a través de la colaboración, vinculación y sinergias entre gobierno, academia y empresa;
 
-V. Consejo General: el Consejo General para el Fomento a la Investigación Científica, Tecnológica y de Innovación para el Desarrollo del Estado de Nuevo León;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-VI. CTI: Ciencia, Tecnología e Innovación;
+III. Capital semilla y de riesgo: los apoyos, créditos o capital que se otorgan a nuevos negocios basados en la innovación en sus etapas de incubación y etapas iniciales de operación;
 
-VII. Desarrollo tecnológico: el uso sistemático del conocimiento o el entendimiento obtenido de la investigación dirigido hacia la producción de materiales, dispositivos, sistemas o métodos, incluyendo el diseño, desarrollo y mejora de prototipos, nuevos procesos o productos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Ecosistema Estatal de Ciencia, Tecnología e Innovación: el conjunto de entidades de la Administración Pública Estatal y Municipal, universidades, instituciones de educación superior, personas físicas y morales innovadoras y empresas del sector productivo, que interactúan entre sí de manera articulada con la finalidad de asignar recursos públicos y privados a la realización de actividades orientadas a la generación y difusión de conocimientos que soportan las innovaciones;
+IV. Centros para incubación y desarrollo de nuevos negocios: los espacios físicos que pueden contar con infraestructura experimental de laboratorios y plantas piloto, y sistemas de gestión de negocios que apoyan la generación de nuevas empresas, especialmente aquellas de alto valor agregado o del conocimiento;
 
-IX. FONLCTI: Fondo Nuevo León para la Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-X. I2T2: el Instituto de Innovación y Transferencia de Tecnología de Nuevo León;
+V. CONACYT: el Consejo Nacional de Ciencia y Tecnología, organismo público descentralizado de la Administración Pública Federal;
 
-XI. Innovación: la introducción de un nuevo, o significativamente mejorado, producto, bien, servicio, o proceso, derivada tanto de la aplicación de la investigación científica, y del desarrollo tecnológico, como respuesta a necesidades sociales y de mercado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Investigación científica: el estudio sistemático dirigido hacia un conocimiento científico más completo o hacia un entendimiento mejor de la materia estudiada. Se clasifica en básica o aplicada: en la básica, el objetivo es ganar conocimiento o entendimiento de los fenómenos sin aplicaciones específicas; en la aplicada, el objetivo es ganar conocimiento o entendimiento necesarios para aplicarlos a satisfacer en forma práctica las necesidades sociales o de mercado;
+VI. Consejo General: el Consejo General para el Fomento a la Investigación Científica, Tecnológica y de Innovación para el Desarrollo del Estado de Nuevo León;
 
-XIII. Modelo Ecosistema de Innovación Estatal: el desarrollo de un modelo en donde, conforme a un plan y estrategia asumidos conjuntamente por la sociedad y el gobierno, se tiene el propósito de construir una economía basada en el conocimiento y una cultura de innovación permanente y sustentable;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-XIV. Parque de Investigación Científica, Tecnología e Innovación: el espacio físico donde se asienta y concentra la infraestructura territorial y de servicios para abastecer y servir a las unidades individuales destinadas a la investigación e innovación tecnológica dirigidos a la satisfacción de necesidades sociales y productivas; facilitando la transferencia tecnológica al sector productivo, e impulsando el desarrollo del capital intelectual del Estado;
+VII. CTI: Ciencia, Tecnología e Innovación;
 
-XV. PROCTEINL: Al Programa de Ciencia, Tecnología e Innovación de Nuevo León, para impulsar el conocimiento científico, la tecnología y la innovación para el desarrollo como instrumento prioritario, que tendrá que ser actualizable cada tres años por el Consejo General y es el instrumento que rige las acciones estatales en el tema CTI;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. SNI: Sistema Nacional de Investigadores;
+VIII. Desarrollo tecnológico: el uso sistemático del conocimiento o el entendimiento obtenido de la investigación dirigido hacia la producción de materiales, dispositivos, sistemas o métodos, incluyendo el diseño, desarrollo y mejora de prototipos, nuevos procesos o productos;
 
-XVII. SEICYT: Sistema Estatal de Información Científica y Tecnológica, que compilará la información de la ciencia, tecnología e innovación para el desarrollo del Estado y que será administrado y actualizado por el Instituto, con acceso al público en general; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII. Transferencia de tecnología: el proceso de transmisión o intercambio de nuevos conocimientos y tecnología desde el entorno científico al productivo o dentro del entorno productivo para su utilización en la creación y desarrollo de productos, procesos y servicios con valor agregado y viables comercialmente.
+IX. Ecosistema Estatal de Ciencia, Tecnología e Innovación: el conjunto de entidades de la Administración Pública Estatal y Municipal, universidades, instituciones de educación superior, personas físicas y morales innovadoras y empresas del sector productivo, que interactúan entre sí de manera articulada con la finalidad de asignar recursos públicos y privados a la realización de actividades orientadas a la generación y difusión de conocimientos que soportan las innovaciones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+X. FONLCTI: Fondo Nuevo León para la Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XI. I2T2: el Instituto de Innovación y Transferencia de Tecnología de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Innovación: la introducción de un nuevo, o significativamente mejorado, producto, bien, servicio, o proceso, derivada tanto de la aplicación de la investigación científica, y del desarrollo tecnológico, como respuesta a necesidades sociales y de mercado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Investigación científica: el estudio sistemático dirigido hacia un conocimiento científico más completo o hacia un entendimiento mejor de la materia estudiada. Se clasifica en básica o aplicada: en la básica, el objetivo es ganar conocimiento o entendimiento de los fenómenos sin aplicaciones específicas; en la aplicada, el objetivo es ganar conocimiento o entendimiento necesarios para aplicarlos a satisfacer en forma práctica las necesidades sociales o de mercado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Investigación científica y la innovación tecnológica y social para el desarrollo: Todas las actividades sistemáticas y creadoras encaminadas a aumentar el caudal de los conocimientos científicos y a aplicarlos para el desarrollo tecnológico, económico y social del Estado con visión de largo plazo, que se sustenta en procesos de compartir los conocimientos de las personas para crear valor e innovaciones que se apliquen a necesidades sociales y de mercado, y que se conviertan en productos y servicios nuevos o mejorados con alto valor agregado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Modelo Ecosistema de Innovación Estatal: el desarrollo de un modelo en donde, conforme a un plan y estrategia asumidos conjuntamente por la sociedad y el gobierno, se tiene el propósito de construir una economía basada en el conocimiento y una cultura de innovación permanente y sustentable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Parque de Investigación Científica, Tecnología e Innovación: el espacio físico donde se asienta y concentra la infraestructura territorial y de servicios para abastecer y servir a las unidades individuales destinadas a la investigación e innovación tecnológica dirigidos (sic) a la satisfacción de necesidades sociales y productivas; facilitando la transferencia tecnológica al sector productivo, e impulsando el desarrollo del capital intelectual del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. PROCTEINL: Al Programa de Ciencia, Tecnología e Innovación de Nuevo León, para impulsar el conocimiento científico, la tecnología y la innovación para el desarrollo como instrumento prioritario, que tendrá que ser actualizable cada tres años por el Consejo General y es el instrumento que rige las acciones estatales en el tema CTI;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. SNI: Sistema Nacional de Investigadores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. SEICYT: Sistema Estatal de Información Científica y Tecnológica, que compilará la información de la ciencia, tecnología e innovación para el desarrollo del Estado y que será administrado y actualizado por el Instituto, con acceso al público en general; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Transferencia de tecnología: el proceso de transmisión o intercambio de nuevos conocimientos y tecnología desde el entorno científico al productivo o dentro del entorno productivo para su utilización en la creación y desarrollo de productos, procesos y servicios con valor agregado y viables comercialmente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 4.
 
-Para la ejecución de los objetivos de esta Ley se contará con los siguientes órganos:
+Para la ejecución de los objetivos de esta Ley se contará con los siguientes organismos y mecanismos:
 
 I. El Consejo General;
 
@@ -149,9 +215,15 @@ II. El PROCTEINL;
 
 III. El SEICYT;
 
-IV. El I2T2.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-Para desarrollar y fortalecer una cultura científica, tecnológica y de innovación en la entidad, el poder Ejecutivo del Estado y los Municipios impulsarán a través de diversos mecanismos de coordinación la participación de los sectores social público y privado.
+II (SIC). El I2T2; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+III. Los fondos para financiar el impulso al conocimiento, ciencia, tecnología e innovación.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 5.
 
@@ -213,11 +285,15 @@ b) El Director del Centro de Competitividad de Monterrey (CCM);
 
 c) El representante de la Confederación Patronal de la República Mexicana (COPARMEX) en el Estado; y
 
-d) Los presidentes de los clústeres estatales.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+d) Dos representantes de los clústeres estratégicos estatales que será seleccionado entre los presidentes de los clústers con mayores actividades en ciencia, tecnología e innovación.
 
 El Consejo General podrá invitar a sus sesiones al Presidente de la Comisión de Ciencia y Tecnología del H. Congreso del Estado (o la Comisión encargada del tema), quien tendrá derecho de voz.
 
-Los titulares de las Secretarías Estatales a que se refiere la fracción III de este artículo sólo podrán ser suplidos por un servidor público con nivel de Subsecretario; los demás miembros del Consejo no podrán designar suplentes.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+Los titulares de las Secretarías Estatales e instituciones educativas a que se refiere la fracción III y IV de este artículo sólo podrán ser suplidos por un servidor público con nivel de Subsecretario; los rectores podrán nombrar un suplente con nivel de vicerrector, secretario o equivalente que entre sus obligaciones estén actividades de Investigación e Innovación; los demás miembros del Consejo no podrán designar suplentes.
 
 En el caso de la modificación o supresión de algunas de las dependencias, entidades u organizaciones empresariales y sociales se sustituirán por sus equivalentes.
 
@@ -229,7 +305,9 @@ El Presidente del Consejo General, por conducto del Secretario Ejecutivo, podrá
 
 Las atribuciones del Consejo General son las siguientes:
 
-I. Aprobar y actualizar cada tres años el PROCTEINL;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+I. Aprobar el PROCTEINL y realizar sus actualizaciones cada tres años;
 
 II. Proponer al Congreso del Estado o al titular del Ejecutivo Estatal, según corresponda, las reformas legales o administrativas necesarias para reducir o eliminar las barreras regulatorias, presupuestales, administrativas y financieras que obstaculicen el desarrollo económico y social de la entidad mediante el conocimiento y la innovación tecnológica;
 
@@ -248,6 +326,22 @@ VIII. Aprobar sus Reglas de Organización y Funcionamiento, cuyo proyecto formul
 IX. Proponer acciones para impulsar la adecuada protección y explotación de la propiedad intelectual y estimular la transferencia de conocimiento y tecnología por centros de investigación, universidades, instituciones de educación superior, empresas del conocimiento, empresas en general y demás personas que produzcan investigaciones, desarrollos e innovaciones tecnológicas; y
 
 X. Otorgar y emitir las bases para el premio estatal de ciencia, tecnología e innovación del Estado.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Revisar y aprobar en el PROCTEINL las áreas prioritarias y los proyectos estratégicos de ciencia, tecnología e innovación para el desarrollo económico y social del Estado a los cuales se les deberá otorgar especial atención y apoyo presupuestal;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Proponer a su consideración para que emita sus recomendaciones en el proyecto de presupuesto consolidado de ciencia, tecnología e innovación que será incluido, en los términos de las disposiciones aplicables, en el Proyecto de Presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Emitir anualmente un informe general acerca del estado que guarda la ciencia, la tecnología y la innovación en Nuevo León, cuyo contenido deberá incluir la definición de áreas estratégicas y programas prioritarios; así como los aspectos financieros, resultados y logros obtenidos en este sector; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Proponer esquemas generales de organización para la coordinación y vinculación de las actividades de investigación, desarrollo tecnológico e innovación en los diferentes sectores de la Administración Pública Estatal y con los diversos sectores productivos y de servicios del Estado.
 
 Las demás que se establezcan en otras disposiciones jurídicas y en las Reglas de Organización y Funcionamiento que expida el propio Consejo General.
 
@@ -309,13 +403,17 @@ Así mismo, las dependencias y entidades de la Administración Pública Estatal 
 
 Para el debido cumplimiento del PROCTEINL, en concordancia con el objeto y objetivos de la presente Ley, y en el ámbito de sus respectivas competencias, corresponderá:
 
-I. A la Secretaría de Economía y Trabajo: la promoción de manera prioritaria de programas de impulso y apoyo para:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-a. El Desarrollo en tecnología e innovación para el sector productivo, especialmente para micro, pequeñas y medianas empresas; y
+I. A la Secretaría de Economía y Trabajo: coadyuvar en la promoción y financiamiento de programas de impulso y apoyo dentro del PROCTEINL para:
 
-b. La Conformación de agrupamientos empresariales, incubadoras de empresas del conocimiento, empresas especializadas en vinculación y empresas de base tecnológica.
+a. Desarrollos tecnológicos e innovaciones para el sector productivo, especialmente para micro, pequeñas y medianas empresas; y
 
-II. A la Secretaría de Educación: coadyuvar en la promoción y financiamiento de la incorporación de la temática de investigación científica, desarrollo e innovación tecnológica en la educación estatal a todos los niveles; y
+b. La Conformación de centros de incubación de empresas del conocimiento, empresas especializadas en vinculación y empresas de base tecnológica.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+II. A la Secretaría de Educación: coadyuvar en la promoción y financiamiento de la incorporación de la temática de investigación, desarrollo e innovación tecnológica en la educación estatal a todos los niveles; la formación de capital humano especializado; y
 
 III. A las Secretarías y demás entidades del Gobierno Estatal: la promoción de programas, proyectos, presupuestos y mecanismos necesarios para impulsar la formación de capital humano, la investigación científica, tecnología e innovación para el desarrollo del Estado.
 
@@ -401,6 +499,40 @@ VI. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y
 
 VII. La descripción de las prioridades presupuestarias de investigación científica, desarrollo e innovaciones tecnológicas que se requiera (sic).
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 17 Bis.
+
+El PROCTEINL estará alineado al Plan Nacional de Desarrollo y a los Objetivos de Desarrollo Sostenible, por lo que procurará que los proyectos estratégicos del estado contribuyan al desarrollo del mismo en las áreas de:
+
+I. Fin de la pobreza;
+
+II. Hambre cero;
+
+III. Salud y bienestar;
+
+IV. Educación de calidad;
+
+V. Igualdad de género;
+
+VI. Agua limpia y saneamiento;
+
+VII. Energía asequible y no contaminante;
+
+VIII. Trabajo decente y crecimiento económico;
+
+IX. Industria, innovación e infraestructura;
+
+X. Reducción de las desigualdades;
+
+XI. Ciudad y comunidad sostenible;
+
+XII. Producción y consumo responsable;
+
+XIII. Acción por el clima; y
+
+XIV. Vida de ecosistemas terrestres.
+
 ###### Artículo 18.
 
 El PROCTEINL será formulado con una visión de corto y largo plazo pudiendo tener una vigencia de hasta de (sic) 25 años; su revisión y, en su caso, actualización se realizará cada tres años por el Consejo General.
@@ -427,11 +559,57 @@ El PROCTEINL, así como sus actualizaciones, aprobados (sic) por el Consejo Gene
 
 ### CAPÍTULO III. SISTEMA ESTATAL DE INFORMACIÓN CIENTIFÍCA Y TECNOLÓGICA, SEICYT
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 20.
 
-Las dependencias y entidades de la Administración Pública Estatal deberán aportar al I2T2, toda (sic) información necesaria que sea requerida por la misma, la cual servirá para la integración y actualización del SEICYT. La administración, operación, mantenimiento y actualización del SEICYT estará a cargo del I2T2.
+El I2T2 diseñará e impulsará una estrategia estatal para democratizar la información Científica, Tecnológica y de Innovación, con el fin de fortalecer las capacidades del estado para que el conocimiento universal esté disponible a los educandos, educadores, académicos, investigadores, científicos, tecnólogos y población en general. La estrategia buscará ampliar, consolidar y facilitar el acceso a la información científica, tecnológica y de innovación nacional e internacional a texto completo, en formatos digitales.
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL DEL PÁRRAFO TERCERO.]</small>
 
 La información del SEICYT será accesible al público en general a través de la red mundial de información conocida como internet, observándose los derechos de propiedad industrial e intelectual, las disposiciones que respecto de la información confidencial y reservada señala la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, así como las reglas de confidencialidad que resulten aplicables.
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL DEL PÁRRAFO SEGUNDO.]</small>
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+La información del SEICYT será accesible al público en general a través de la red mundial de información conocida como internet, observándose los derechos de propiedad industrial e intelectual, las disposiciones que respecto de la información confidencial y reservada señala la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, así como las reglas de confidencialidad que resulten aplicables. Toda la información a la que hace referencia el presente capítulo deberá ser publicada respetando el formato de acceso abierto.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20 Bis.
+
+Se buscará que el conocimiento esté disponible, a texto completo y en formatos digitales a los educandos, educadores, académicos, investigadores, científicos, tecnólogos y población en general.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20 Bis 1.
+
+Para el adecuado funcionamiento y desarrollo del Acceso a la Información Científica, Tecnológica y de Innovación de Calidad, el I2T2 deberá:
+
+VII (SIC). Crear un repositorio con la información científica y tecnológica relevante en la entidad, con acceso a bases de datos y a otros repositorios nacionales e internacionales disponibles de acceso abierto;
+
+VIII. Actualizar permanentemente la adquisición de recursos de información científica y tecnológica publicada;
+
+IX. Simplificar los procesos administrativos para la adquisición de bases de datos y colecciones de información científica y tecnológica en formato digital;
+
+X. Promover la operación y uso de bases de datos de publicaciones electrónicas en las instituciones de educación superior y centros de investigación del estado;
+
+XI. Ampliar la cobertura temática de las publicaciones científicas y tecnológicas disponibles a los usuarios mediante el uso colectivo de las colecciones, y
+
+XII. Promover la capacitación a los usuarios, con el apoyo y seguimiento de las instituciones de educación superior y centros de investigación, con la finalidad de hacer mejor uso y aprovechamiento de los acervos.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20 Bis 2.
+
+Los investigadores, tecnólogos, académicos y estudiantes de maestría, doctorado y posdoctorado del estado de Nuevo León, cuya actividad de investigación sea financiada con recursos públicos o que hayan utilizado infraestructura pública en su realización, por decisión personal podrán, depositar o en su caso autorizar expresamente el depósito de una copia de la versión final aceptada para publicar con acceso abierto en el SEICYT, comprobando que ha cumplido con el proceso de aprobación respectivo bajo los términos que establezca el I2T2.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20 Bis 3.
+
+El presente capítulo y los lineamientos que de él se deriven, respetarán en todo momento la legislación aplicable, incluida aquélla en materia del derecho de autor.
 
 ###### Artículo 21.
 
@@ -441,7 +619,9 @@ I. Compilar y difundir la información relevante en materia de ciencia, tecnolog
 
 II. Facilitar la integración y actualización del PROCTEINL y de los proyectos de presupuesto para el desarrollo del Estado, con base en la ciencia, la tecnología e Innovación;
 
-III. Impulsar la cultura de la ciencia en la sociedad nuevoleonesa; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+III. Impulsar la cultura de la ciencia, tecnología e innovación en la sociedad nuevoleonesa; y
 
 IV. Promover la vinculación entre el sector académico, el científico y los sectores productivos, así como la modernización y la competitividad del sector productivo.
 
@@ -451,7 +631,9 @@ Las dependencias y entidades de la Administración Pública Estatal, las institu
 
 El SEICYT se conformará, entre otros aspectos, con la siguiente información:
 
-I. El impacto de la ciencia, la tecnología e innovación aplicados en la economía, el desarrollo social, la productividad y la competitividad del Estado;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+I. El impacto real del conocimiento y la innovación tecnológica aplicados en la economía, el desarrollo social, la productividad y la competitividad del Estado;
 
 II. El PROCTEINL y los informes anuales sobre la operación y resultados de dicho Programa;
 
@@ -477,7 +659,9 @@ La información que genere el SEI será validada por el I2T2, por lo que será l
 
 El I2T2 es un organismo público descentralizado del Gobierno del Estado, no sectorizado, que responde directamente al Ejecutivo Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus atribuciones.
 
-El I2T2 tiene por objeto coordinar las políticas públicas del Gobierno Estatal en materia de ciencia, desarrollo tecnológico e innovación, así como asegurar la colaboración en la materia con el Gobierno Federal y los organismos y asociaciones públicos, privados y sociales que integran el PROCTEINL. Para este propósito contará con las facultades y recursos que le otorga esta Ley y las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+El I2T2 tiene por objeto coordinar las políticas públicas del Gobierno Estatal en materia de ciencia, desarrollo tecnológico e innovación, así como asegurar la colaboración en la materia con el Gobierno Federal y los organismos y asociaciones públicos, privados y sociales que integran el Ecosistema Estatal de Ciencia, Tecnología e Innovación. Para este propósito contará con las facultades y recursos que le otorga esta Ley y las demás disposiciones aplicables.
 
 El domicilio legal del I2T2 estará en la ciudad de Monterrey, Nuevo León, o en cualquiera de los municipios del área conurbada de la cual ésta forma parte, en donde establezca su oficina principal, pudiendo establecer oficinas regionales o municipales en el Estado.
 
@@ -495,7 +679,9 @@ El I2T2 tiene las siguientes facultades:
 
 I. Realizar las acciones necesarias para cumplir los objetivos de esta Ley;
 
-II. Integrar y mantener actualizado el SEICYT;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+II. Integrar y mantener actualizado el SEICYT y el Repositorio de Investigación científica y tecnológica de la entidad;
 
 III. Llevar a cabo los proyectos estratégicos y las acciones a corto, mediano y largo plazo que se determinen en el PROCTEINL;
 
@@ -519,19 +705,33 @@ XII. Impulsar la comercialización de nuevas tecnologías con potencial de desar
 
 XIII. Promover la adecuada protección y explotación de la propiedad intelectual y la transferencia de tecnología por centros de investigación, universidades, instituciones de educación superior, empresas del conocimiento, empresas en general y demás personas que produzcan investigaciones, desarrollos e innovaciones tecnológicas;
 
-XIV. Impulsar las carreras de ciencias e ingenierías entre los jóvenes;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-XV. Celebrar convenios de colaboración con instituciones y universidades públicas y privadas, tanto nacionales como extranjeras, en materia de formación de capital humano, investigación, desarrollo científico y Tecnológico;
+XIV. Impulsar las carreras de ciencias e ingenierías, así como el emprendimiento de base tecnológica, entre los jóvenes;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Celebrar convenios de colaboración con instituciones y universidades públicas y privadas, tanto nacionales como extranjeras, en materia de formación de capital humano, investigación, desarrollo tecnológico e innovación;
 
 XVI. Establecer alianzas con parques tecnológicos nacionales e internacionales y sus asociaciones para el intercambio de conocimiento, apoyo a emprendedores en los centros de incubación y desarrollo de negocios y transferencia de mejores prácticas;
 
 XVII. Realizar las acciones necesarias para promover y posicionar a las empresas del Estado como desarrolladoras y proveedoras importante (sic) para el mercado nacional e internacional de productos y servicios de alto valor agregado basados en ciencia y tecnología;
 
-XIX (SIC). Aportar recursos a las instituciones académicas, centros de investigación y, en general, a personas físicas y morales, públicas, sociales y privadas, para el fomento y realización de investigaciones y desarrollos tecnológicos, en función de programas y proyectos específicos, en los términos de esta Ley y, en su caso, de los convenios que al efecto celebre el I2T2 con otros aportantes y con las instituciones o centros interesados, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos y patrimonio;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-XX. La vinculación entre los estudios científicos y la innovación tecnológica con las diversas empresas o sectores que permita fortalecerlos; y
+XVIII. Aportar recursos a las instituciones académicas, centros de investigación y, en general, a personas físicas y morales, públicas, sociales y privadas, para el fomento y realización de investigaciones y desarrollos tecnológicos, en función de programas y proyectos específicos, en los términos de esta Ley y, en su caso, de los convenios que al efecto celebre el I2T2 con otros aportantes y con las instituciones o centros interesados, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos y patrimonio;
 
-XIX (SIC). Las demás que deriven de esta Ley, así como las que se establezcan en otras leyes y su Reglamento Interior.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. La vinculación entre los estudios científicos y la innovación tecnológica con las diversas empresas o sectores que permita (sic) fortalecerlos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Promover y apoyar la cultura de la creatividad y la innovación científica y tecnológica en la sociedad nuevoleonesa y en los diversos sectores productivos del Estado, realizando actividades de difusión y divulgación y el fomento a las vocaciones científico-tecnológicas; y
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XXI. Las demás que deriven de esta Ley, así como las que se establezcan en otras leyes y su Reglamento Interior.
 
 ###### Artículo 27.
 
@@ -555,7 +755,13 @@ VIII. El diseño y ejecución de los proyectos establecidos en el PROCTEINL;
 
 IX. La vinculación efectiva entre los sectores académico y científico con los sectores productivos; y
 
-X. Los demás aspectos que se determinen en el Programa Estratégico.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+X. Las demandas de la sociedad que puedan ser atendidas con soluciones científico, tecnológicas y el mejoramiento del bienestar social en la entidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Los demás aspectos que se determinen en el Programa Estratégico.
 
 Los resultados del estudio de estos factores servirán de base en la formulación, revisión y actualización del PROCTEINL.
 
@@ -595,29 +801,43 @@ I. Un Presidente, designado por el Titular del Ejecutivo Estatal de entre los ti
 
 II. Un Secretario, que será el Director General, con voz pero sin voto; y
 
-III. Un representante de cada una de las dependencias y entidades de la Administración Pública Estatal enlistadas a continuación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-i. Secretaría de Finanzas y Tesorería General de (sic) Estado;
+III. Un representante de cada una de las dependencias y entidades de la Administración Pública Estatal enlistadas a continuación, quienes tendrán el carácter de vocal:
 
-ii. Secretaría de Economía y Trabajo;
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-iii. Secretaría de Educación; y
+a) Secretaría de Finanzas y Tesorería General de (sic) Estado;
 
-iv. Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-V (SIC). Un representante de los investigadores estatales, con nivel III del SNI.
+b) Secretaría de Economía y Trabajo;
 
-VI. Dos representantes de los clústers estatales, seleccionados entre los que tengan mayor actividad científica y tecnológica.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-VI (SIC). Dos representantes de las empresas tecnológicas del estado, seleccionados entre las empresas con mayor actividad tecnológica y vinculación académica.
+c) Secretaría de Educación; y
 
-Los representantes de las fracciones III, IV, V y VI tendrán el carácter de vocal.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+d) Secretaría General de Gobierno.
+
+IV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2021)
+
+V. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2021)
+
+VI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2021)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 Los representantes propietarios de las dependencias de la Administración Pública Estatal, deberán ser los Secretarios o nivel equivalente. En el caso de los suplentes, podrán ser Subsecretarios o Directores Generales que tengan la responsabilidad de las funciones de promoción de la investigación científica y desarrollo tecnológico en dichas dependencias y entidades.
 
-A las sesiones de (sic) Junta de Gobierno se podrá invitar con voz pero sin voto a servidores públicos y a científicos o especialistas que, por la naturaleza de los asuntos a tratar, acuerde la propia Junta de Gobierno. Los miembros de las fracciones IV a VI no podrán tener suplente.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-La Junta de Gobierno sesionará por lo menos 2 veces por año y en forma extraordinaria las veces que sea necesario. La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal. Las resoluciones se tomarán por mayoría de votos de los miembros presentes.
+A las sesiones de (sic) Junta de Gobierno se podrá invitar con voz pero sin voto a servidores públicos y a científicos o especialistas que, por la naturaleza de los asuntos a tratar, acuerde la propia Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+La Junta de Gobierno sesionará por lo menos 2 veces por año y en forma extraordinaria las veces que sea necesario. La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de votos de los miembros presentes.
 
 ### CAPITULO VI. DEL DIRECTOR GENERAL DEL I2T2
 
@@ -659,29 +879,73 @@ XIV. Conocer y resolver los asuntos de carácter administrativo y laboral relaci
 
 XV. Constituir o participar en fideicomisos, asociaciones y sociedades que se requieran para cumplir con el objeto de esta Ley, de conformidad con los lineamientos y acuerdos que establezca la Junta de Gobierno;
 
-XVI. Realizar todo tipo de actos y gestiones necesarios para el cumplimiento del objeto y objetivos de esta Ley; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
-XVII. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del I2T2.
+XVI. Realizar todo tipo de actos y gestiones necesarios para el cumplimiento del objeto y objetivos de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Expedir y certificar las copias de documentos y constancias que existan en los archivos del I2T2; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior del I2T2.
 
 ###### Artículo 32.
 
 El I2T2 queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Estatal, de conformidad a lo establecido por la ley de la materia.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII. DEL PATRIMONIO Y LAS RELACIONES LABORALES DEL I2T2
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 32 Bis.
+
+El patrimonio del I2T2 se integrará con:
+
+I. Los recursos estatales previstos en las disposiciones presupuestales correspondientes, que recibirá para su aplicación en los proyectos, obras y acciones que le están encomendadas al Instituto de acuerdo al objeto y objetivos de esta Ley;
+
+II. Los bienes inmuebles, muebles y derechos que por cualquier título adquiera, o los que en el futuro aporten o afecten la Federación, el Estado, los municipios, otras instituciones públicas o privadas y personas físicas o morales;
+
+III. Las transferencias, aportaciones en dinero, bienes, subsidios, estímulos y prestaciones que reciba de los gobiernos federal, estatal y municipales, y los que obtenga de personas físicas o morales, y las demás instituciones y organismos públicos o privados, nacionales o extranjeros;
+
+IV. Los recursos que obtenga de las actividades materia de su objeto general;
+
+V. Los rendimientos, frutos, productos, y en general, los aprovechamientos que obtenga de las operaciones que realice o que le corresponda por cualquier título legal;
+
+VI. Los créditos que obtenga, así como los bienes y derechos que adquiera legalmente;
+
+VII. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales; y
+
+VIII. Cualquier otra percepción de la cual el Instituto resulte beneficiario.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 32 Bis 1.
+
+Las relaciones laborales del I2T2 con el personal que tenga el carácter de servidor público a su cargo se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+
+Los prestadores de servicios que no sean considerados servidores públicos se regirán por las normas del derecho común que les resulten aplicables.
 
 ## TÍTULO III. DEL FINANCIAMIENTO Y ESTÍMULOS PARA IMPULSAR LA CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO
 
-### CAPÍTULO II. DEL FONDO MIXTO CONACYT-NUEVO LEÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 33.
 
-Los fondos con los cuales operará el I2T2 para impulsar la ciencia, tecnología e innovación, serán los siguientes:
+Los fondos con los cuales operará el I2T2 para impulsar el conocimiento científico y la innovación tecnológica para el desarrollo del Estado, y para los cuales el Director General asumirá el rol de Responsable Administrativo, serán los siguientes:
 
-I. El fondo mixto CONACYT-Nuevo León;
+I. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2021)
 
 II. El fondo Nuevo León para la Ciencia, Tecnología e Innovación del Estado; y
 
-III. Otros fondos que constituyan el Gobierno del Estado con dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, con los gobiernos de otras entidades federativas, con universidades, instituciones y organismos nacionales y extranjeros, y en general con cualquier otro tercero, que contribuyan al desarrollo del Estado de la ciencia, tecnología e innovación.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+III. El Gobierno del Estado podrá constituir otros fondos de manera coordinada con dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, con los gobiernos de otras entidades federativas, con universidades, instituciones, organismos nacionales y extranjeros, y con cualquier otra persona física o moral, pública o privada, cuya finalidad principal sea el logro y cumplimiento del objeto y objetivos de esta Ley.
 
 Los fondos de participación extranjera a que se refiere la última fracción de este artículo serán constituidos en términos la Ley de Inversión Extranjera.
 
@@ -691,49 +955,15 @@ Para lograr los objetivos y fines de esta Ley, se deberá destinar al menos hast
 
 Así mismo, en función de los recursos disponibles, el Titular de (sic) Ejecutivo Estatal deberá promover que el monto total de los recursos que inviertan conjuntamente el Estado y los distintos sectores productivos, se acerque gradualmente en el mediano plazo al equivalente a lo que invierten los países desarrollados de la Organización para la Cooperación y el Desarrollo Económicos.
 
-### CAPÍTULO III. DEL FONDO NUEVO LEON PARA LA CIENCIA, TECNOLOGÍA E INNOVACIÓN
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. DEL FONDO MIXTO CONACYT-NUEVO LEÓN
 
 ###### Artículo 35.
 
-El fondo mixto CONACYT-Nuevo León será un instrumento de financiamiento para el desarrollo del Estado de la ciencia, tecnología e innovación, conforme a lo siguiente:
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2021)
 
-I. Se observarán las disposiciones de la Ley de Ciencia y Tecnología aplicable (sic) a los fondos mixtos, y las de la presente Ley en todo lo que no se opongan a la anterior y de manera supletoria;
-
-II. Previo acuerdo de los fideicomitentes, la organización y recursos que se aporten al fondo mixto se dirigirán a apoyar y financiar el cumplimiento de los objetivos de esta Ley y los del PROCTEINL;
-
-III. El Titular del Ejecutivo del Estado presidirá el Comité Técnico y de Administración del Fondo, y en sus ausencias será suplido por la persona a quien éste designe;
-
-IV. Previo acuerdo de los fideicomitentes, participarán y formarán parte del Comité Técnico y de Administración los titulares de las siguientes dependencias y entidades de la administración pública paraestatal:
-
-a) La Secretaría de Finanzas y Tesorería General del Estado;
-
-b) La Secretaría de Economía y Trabajo;
-
-c) La Secretaría de Educación;
-
-d) La Secretaría de Salud;
-
-e) Agua y Drenaje Monterrey I.P.D.;
-
-f) La Secretaría de Desarrollo Sustentable;
-
-g) La Corporación para el Desarrollo Agropecuario de Nuevo León;
-
-h) El I2T2; y
-
-i) Los demás que determine el Titular del Ejecutivo Estatal.
-
-V. Previo acuerdo de los fideicomitentes, se podrán establecer en el fondo subcomités y subcuentas para apoyar de manera específica y eficaz a los diversos sectores productivos del Estado y a los distintos ámbitos de especialidad científica, tecnológica y de innovación que se requieran para apoyar a dichos sectores.
-
-En cada subcuenta el Comité respectivo lo presidirá el titular de la dependencia o entidad correspondiente, el que determinará entre otros aspectos:
-
-a) Las convocatorias y su temática;
-
-b) Las prioridades a apoyar; y
-
-c) Los términos de referencia de los proyectos y la forma de aplicación de apoyos de la subcuenta correspondiente.
-
-### CAPÍTULO IV. PREMIO ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
+### CAPÍTULO III. DEL FONDO NUEVO LEON PARA LA CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ###### Artículo 36.
 
@@ -743,25 +973,33 @@ Se crea el Fondo Nuevo León para la Ciencia, Tecnología e Innovación (FONLCTI
 
 El FONLCTI será participativo e incluyente de las dependencias y entidades de la Administración Pública Estatal, y podrá contar con la participación de los sectores académico, científico y tecnológico, público, social y privado, relacionadas con el objeto del fondo y las materias establecidas en el PROCTEINL, en los términos que se establezcan en sus reglas de operación, mismas que serán publicadas en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 38.
 
-El establecimiento y operación del PROCTEINL se sujetará a las siguientes bases:
+El establecimiento y operación del FONLCTI se sujetará a las siguientes bases:
 
 I. Participarán y formarán parte de este Fondo las dependencias, entidades del estado y los gobiernos municipales que aporten a dicho fondo;
 
-II. Se conformará un Comité Técnico y de Administración del fondo con representantes de los fideicomitentes y que se auxiliará de subcomités para los distintos temas propios del fondo;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+II. Se conformará un Comité Técnico y de Administración del fondo con representantes de los participantes y que se auxiliará de subcomités para los distintos temas propios del fondo;
 
 III. Tendrá por objeto el otorgamiento de apoyos y financiamientos para el cumplimiento de los objetivos de esta Ley y de las acciones, proyectos y demás aspectos previstos en el PROCTEINL, en los términos que se establezcan en el contrato respectivo y en las reglas de operación que apruebe el Comité Técnico y de Administración del fondo, sujetándose en todos los casos al saldo y límite de disponibilidad presupuestal del fondo;
 
 IV. Además de las aportaciones de las dependencias y entidades estatales y Gobiernos Municipales, este fondo podrá recibir aportaciones del Gobierno Federal, de personas físicas y morales, públicas o privadas, sean nacionales o extranjeras, así mismo, los resultantes de convenios o acuerdos con organismos internacionales, los productos que se generen por la inversión y la administración de los recursos del fondo y de cualesquiera otros terceros, así como contribuciones que las leyes determinen se destinen a este instrumento, mismas que deberán ser informadas en su oportunidad en la cuenta pública respectiva;
 
-V. Serán beneficiarios las instituciones de educación superior públicas y privadas, centros, laboratorios, empresas públicas y privadas, y demás personas físicas y morales dedicadas a la investigación científica, el desarrollo tecnológico y la innovación, que contribuyan al desarrollo del Estado con base en el conocimiento y en la aplicación de innovaciones tecnológicas en el marco del PROCTEINL, así como estudiantes de todos los niveles involucrados en programas de divulgación y fomento de las vocaciones científicas y tecnológicas;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+V. Serán beneficiarios las instituciones de educación superior públicas y privadas, centros, laboratorios, empresas públicas y privadas, y demás personas físicas y morales dedicadas a la investigación científica, el desarrollo tecnológico y la innovación, y emprendedores de base tecnológica que contribuyan al desarrollo del Estado con base en el conocimiento y en la aplicación de innovaciones tecnológicas en el marco del PROCTEINL, así como estudiantes de todos los niveles involucrados en programas de divulgación y fomento de las vocaciones científicas y tecnológicas;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 VI. Los beneficiarios serán seleccionados en forma competitiva y transparente de acuerdo a los requisitos, criterios e indicadores que se determinen en las reglas de operación de este fondo, y las que se establezcan en las respectivas convocatorias que al efecto se expidan.
 
 Así mismo, los recursos de este fondo se ejercerán conforme a las reglas de operación emitidas y las demás disposiciones aplicables.
 
-En este sentido, dichas reglas de operación serán elaboradas por el Comité Técnico y de Administración y aprobadas por el Consejo General, y se deberán publicar en el Periódico Oficial del Estado a más tardar a los 10 días hábiles posteriores a que sean aprobadas, así como ponerlas a disposición de la población en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
+En este sentido, dichas reglas de operación serán elaboradas por el Comité Técnico y de Administración y aprobadas por el Consejo General, formarán parte del Sistema Estatal de Información, y se deberán publicar en el Periódico Oficial del Estado a más tardar a los 10 días hábiles posteriores a que sean aprobadas, así como ponerlas a disposición de la población en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
 
 VII. Los recursos del fondo se canalizarán invariablemente a la finalidad a la que hayan sido destinados, su inversión será siempre en renta fija, la que garantice mayores rendimientos, y tendrá su propia contabilidad;
 
@@ -773,7 +1011,15 @@ X. El fondo no será considerado entidad de la Administración Pública Paraesta
 
 XI. El fondo estará sujeto a las medidas de control, evaluación y auditoría gubernamental; y
 
-XII. En la operación y financiamiento del fondo, se deberán tomar en cuenta las propuestas que realice el Consejo General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Previo acuerdo de los aportantes, se podrán establecer en el fondo subcomités y subcuentas para apoyar de manera específica y eficaz a los diversos sectores productivos del Estado, a las necesidades específicas en los distintos ámbitos de especialidad científica, tecnológica y de innovación que especifique cada aportante del fondo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. En la operación y financiamiento del fondo, se deberán tomar en cuenta las propuestas que realice el Consejo General.
+
+### CAPÍTULO IV. PREMIO ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ###### Artículo 39.
 
@@ -876,3 +1122,13 @@ P.O. 23 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 526. SE ADICIONAN DIVERSOS TRANSITORIOS AL DECRETO 259, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 21 DE DICIEMBRE DE 2020, QUE REFIERE A LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 527. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento al presente Decreto, el Ejecutivo del Estado, así como la Junta de Gobierno del I2T2, deberán modificar las disposiciones reglamentarias y normativas a los sesenta días contados a su entrada en vigor.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan la presente Ley.
