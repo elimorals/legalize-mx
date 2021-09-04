@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2018-12-29"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -1294,6 +1294,10 @@ IV. No se inicien en la fecha señalada o dejen de cumplirse en las etapas de re
 V. Sobrevenga otra causa de interés público que los afecte.
 
 En ningún caso se deberá cancelar un programa de desarrollo urbano, sin que se apruebe y publique uno nuevo.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Los planes o programas de desarrollo urbano municipal deberán evaluarse y revisarse cada tres años.
 
 ###### ARTICULO 77.
 
@@ -4540,3 +4544,15 @@ P.O. 29 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 619 POR EL QUE SE REFORMAN LOS ARTÍCULOS 121; 131; LA FRACCIÓN III DEL ARTÍCULO 259; LA FRACCIÓN II DEL ARTÍCULO 300; SEGUNDO PÁRRAFO DEL ARTÍCULO 357; Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 19, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LA FRACCIÓN SUBSECUENTE; SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 21, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LA FRACCIÓN SUBSECUENTE; UN PÁRRAFO SEGUNDO AL ARTÍCULO 267; EL INCISO H) A LA FRACCIÓN III (SIC) DEL ARTÍCULO 286; UN PÁRRAFO TERCERO AL ARTÍCULO 400 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 484.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 76 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA; SE DEROGAN LOS ARTÍCULOS 77 Y 78, DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 33 Y EL ARTÍCUL 38 BIS, AMBOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- Los Ayuntamientos deberán evaluar y revisar sus planes o programas de desarrollo urbano en un lapso no mayor a 180 días contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Dentro de un plazo no mayor a 30 días naturales, los ayuntamientos deberán incluir en su portal de transparencia los planes o programas de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo que se encuentren vigentes.
+
+CUARTO.- El Instituto de Pensiones de los Servidores Públicos del Estado de Colima dentro de un plazo no mayor a 10 días hábiles contados a partir de la entrada en vigor del presente decreto deberá realizar las acciones necesarias para cabal cumplimiento a lo dispuesto en el presente decreto.
