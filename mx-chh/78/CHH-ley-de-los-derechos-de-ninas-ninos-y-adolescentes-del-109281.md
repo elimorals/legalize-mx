@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-08-28"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -97,9 +97,11 @@ Conforme a lo anterior, los recursos asignados en el Presupuesto de Egresos no p
 
 Lo previsto en este artículo será aplicable, en lo conducente, a los ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 6.
 
-El Estado y los municipios en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de goce, ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible, privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
+El Estado y los municipios, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas y acciones, en materia de goce, ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible, privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales. Para tal efecto, se podrá convocar a las organizaciones de la sociedad civil, instituciones académicas y organismos de defensa de los derechos humanos para evaluar los resultados de los programas implementados.
 
 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
 
@@ -1531,6 +1533,10 @@ XXVI. Implementar dentro del ámbito de sus competencias, de así estimarlo conv
 
 XXVI (SIC). Realizar campañas permanentes de concientización, con el fin de prevenir el uso de juguetes y videojuegos que induzcan a la violencia.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Promover la implementación de programas de prevención social de violencia y delincuencia orientados a niñas, niños y adolescentes, que contengan temas de nutrición, rendimiento académico, capacitación para el trabajo, actividades físicas y lúdico-formativas; con el propósito de fomentarles un desarrollo integral.
+
 ###### Artículo 124.
 
 Las autoridades estatales y municipales celebrarán acuerdos de colaboración con las instancias del orden federal, que permitan garantizar que el ingreso, permanencia y salida de niñas, niños y adolescentes del territorio nacional, sea conforme a las disposiciones legales cuando tales situaciones tengan impacto en el territorio de la Entidad.
@@ -2111,6 +2117,10 @@ Solo cuando la denuncia provenga de un particular, tendrá derecho a realizarla 
 
 La Procuraduría de Protección o instancia análoga en el ámbito municipal, así como al Ministerio Público de la adscripción donde se encontrare, bajo su responsabilidad realizarán las actuaciones que estimen necesarias para asegurarse de la existencia o no de la vulneración o restricción a sus derechos.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Las autoridades, en el ámbito de sus respectivas competencias, deberán realizar campañas permanentes de difusión, en redes sociales, radiodifusoras, televisoras o cualquier medio de comunicación o campaña de socialización que estimen pertinente, sobre la importancia, funcionalidad y acceso a denunciar el abuso infantil, maltrato infantil, intrafamiliar o cualquier conducta o hecho que vulnere derechos que pudieran afectar el desarrollo integral de alguna niña, niño o adolescente. Lo anterior con la finalidad de prevenir y atender la violencia que se pudiera generar hacia estos grupos vulnerables.
+
 ###### Artículo 165.
 
 Niñas, niños y adolescentes, para la defensa de sus derechos, podrán personalmente o a través de un tercero, solicitar la asistencia y protección de la Procuraduría de Protección con el fin de que se promuevan las acciones legales y de protección oportunas; también lo podrán hacer por su propio derecho o incluso por conducto de una persona que no tenga ningún tipo de representación formal.
@@ -2525,15 +2535,15 @@ El Poder Ejecutivo contará con un plazo de 90 días posteriores a la entrada en
 
 P.O. 10 DE OCTUBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0759/2020 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 4 DE NOVIEMBRE DE 2020.
+P.O. 10 DE OCTUBRE DE 2020.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0759/2020 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2547,7 +2557,7 @@ La Secretaría General de Gobierno, a través de la Dirección del Registro Civi
 
 El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
 
-P.O. 10 DE OCTUBRE DE 2020.
+P.O. 4 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0768/2020 I P.O., POR EL QUE SE REFORMA EL ARTÍCULO 53, FRACCIÓN I, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
@@ -2594,3 +2604,19 @@ El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, destinará los
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, se tomarán las previsiones para el inicio y funcionamiento de las figuras e instancias previstas en el mismo.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1050/2021 XIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1052/2021 XIII P.E., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 164, UN CUARTO PÁRRAFO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El . presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
