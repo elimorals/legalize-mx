@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2021-06-19"
+last_updated: "2021-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. 4 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -3060,3 +3062,43 @@ P.O. 19 DE JUNIO DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2582.- MEDIANTE EL CUAL APRUEBA LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, aprobada mediante el Decreto número 1690, publicada en el Periódico Oficial del Gobierno del Estado, con fecha 11 de marzo de 2016.
+
+TERCERO. Los procedimientos iniciados en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, aprobada mediante el Decreto número 1690, publicado en el Periódico Oficial del Gobierno del Estado, con fecha 11 de marzo de 2016, seguirán rigiéndose por la misma, hasta su conclusión.
+
+CUARTO. El Honorable Congreso del Estado Libre y Soberano de Oaxaca, designará a las y los Comisionados integrantes del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, al o la titular de la Contraloría General e integrantes del Consejo Consultivo Ciudadano, por el voto de las dos terceras partes de las Diputadas y Diputados presentes, dentro del plazo de treinta días naturales contados a partir de la entrada en vigor de la presente Ley
+
+Por única ocasión las y los Comisionados del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, serán elegidos en los términos siguientes:
+
+a. Una Comisionada y un Comisionado que durará en su encargo tres años.
+
+b. Una Comisionada y un Comisionado que durará en su encargo cuatro años.
+
+c. Una Comisionada o Comisionado que durará en su encargo cinco años.
+
+Por única ocasión los integrantes del Consejo de Participación Ciudadana, serán elegidos en los términos siguientes:
+
+a. Un o una integrante que durará en su encargo un año.
+
+b. Un o una integrante que durará en su encargo dos años.
+
+c. Un o una integrante que durará en su encargo tres años.
+
+d. Un o una integrante que durará en su encargo cuatro años.
+
+e. Un o una integrante que durará en su encargo cinco años.
+
+QUINTO. Los recursos económicos, materiales y técnicos del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, creado conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, aprobada mediante el Decreto número 1690, publicada en el Periódico Oficial del Gobierno del Estado, con fecha 11 de marzo de 2016, pasarán a formar parte del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, creado mediante este Decreto.
+
+SEXTO. Se dejan a salvo los derechos adquiridos de las y los trabajadores del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca basándose en la modalidad de su contratación.
+
+SÉPTIMO. El Consejo General del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, en el ámbito de su competencia, emitirá el Reglamento Interno y las demás disposiciones normativas para dar cumplimiento a la presente Ley, en un plazo no mayor de noventa días naturales, contados a partir del nombramiento de los nuevos Comisionados y Comisionadas.
+
+OCTAVO. Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
