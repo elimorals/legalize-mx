@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-educacion-para-los-adultos-14
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "2016-10-03"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -155,11 +155,11 @@ DE LOS ÓRGANOS DE ADMINISTRACIÓN Y CONTROL DEL INSTITUTO.
 
 La administración del Instituto estará a cargo de la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 9.
 
-La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por el Secretario de Educación y Deporte, quien la presidirá; los titulares de la Secretaría General de Gobierno y de la Secretaría de Finanzas y Administración, o quienes éstos designen para suplirlos; un representante del sector educativo estatal; a invitación del Presidente: un representante del organismo, un representante del Instituto Nacional para la Educación de los Adultos; un representante de la Secretaría de Educación Pública en el Estado; el Presidente del Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C., y un representante de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Único de Trabajadores del Instituto Nacional para la Educación de los Adultos.
+La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por la persona titular de la Secretaría de Educación y Deporte, quien la presidirá; las personas titulares de las Secretarías General de Gobierno y de Hacienda, o quienes se designen para suplirles; una persona representante del sector educativo estatal; a invitación de quien sea titular de la Presidencia: una persona representante del organismo, una persona representante del Instituto Nacional para la Educación de los Adultos; una persona representante de la Secretaría de Educación Pública en el Estado; quien presida el Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C., y una persona representante de los trabajadores designada por el Comité Ejecutivo Nacional del Sindicato Único de Trabajadores del Instituto Nacional para la Educación de los Adultos.
 
 ###### Artículo 10.
 
@@ -325,9 +325,9 @@ I.- Cuando deje de cumplir sus fines u objeto; o
 
 II.- Cuando su funcionamiento no resulte ya conveniente desde el punto de las finanzas públicas del Estado o del interés público.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opinión de las Secretarías de Educación y Deporte y de la Función Pública del Estado, propondrá al Ejecutivo la disolución o extinción del Instituto.
+En todo caso, la Secretaría de Hacienda, atendiendo a la opinión de las Secretarías de Educación y Deporte y de la Función Pública del Estado, propondrá al Ejecutivo la disolución o extinción del Instituto.
 
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
@@ -538,3 +538,53 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
