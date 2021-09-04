@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2021-04-24"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -111,6 +111,10 @@ Las dependencias y entidades de la Administración Pública Estatal tendrán ór
 
 Los órganos internos de control se integrarán en los términos previstos en las leyes y reglamentos respectivos y contarán con las facultades que estos determinen; mismos que dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública del Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría de la Función Pública tendrá un Órgano Interno de Control, cuya titularidad será designada por la persona titular del Poder Ejecutivo del Estado, de quien dependerá jerárquica y funcionalmente. Quien ocupe la titularidad del Órgano Interno de Control designará y removerá a sus integrantes.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
@@ -189,7 +193,9 @@ I. Especializada en Control, Análisis y Evaluación.
 
 II. De Distrito por Zonas.
 
-III. Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
 
 IV. Especializada en Operaciones Estratégicas.
 
@@ -371,9 +377,9 @@ II.- Secretaría de Hacienda;
 
 III. Secretaría de Innovación y Desarrollo Económico.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Secretaría de Desarrollo Social;
+IV. Secretaría de Desarrollo Humano y Bien Común.
 
 V.- Secretaría de Salud;
 
@@ -395,21 +401,19 @@ X.- Secretaría de Desarrollo Urbano y Ecología;
 
 XI.- Secretaría de Desarrollo Rural;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XII. Secretaría de Desarrollo Municipal.
+XII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 XIII. Secretaría de la Función Pública.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XIV.- Fiscalía General del Estado.
+XIV. Secretaría de Coordinación de Gabinete.
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XV. Coordinación Ejecutiva de Gabinete.
+XV. Fiscalía General del Estado.
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -433,17 +437,15 @@ I.- Los que le encomienda directamente la Constitución Política del Estado;
 
 II.- Conducir los asuntos internos del orden político del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-III.- Conducir y coordinar las relaciones del Poder Ejecutivo con la Federación, con los otros Poderes del Estado, y los Agentes Consulares, en lo relativo a su competencia;
+III. Conducir y coordinar las relaciones del Poder Ejecutivo con los otros Poderes del Estado, y con las y los Agentes Consulares en lo relativo a su competencia.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 IV.- Designar a los representantes que integrarán el Jurado, para seleccionar y someter al Pleno del Congreso la terna integrada por los candidatos a Magistrados del Supremo Tribunal de Justicia mejor calificados; asimismo, intervenir en la integración de las ternas para la designación de los Consejos Municipales y demás funcionarios, de conformidad con lo dispuesto por la Constitución Política del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-V.- Asesorar jurídicamente a las dependencias y entidades del Ejecutivo;
+V. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 VI.- Atender lo relativo a la remisión de iniciativas de leyes y decretos enviados por el Ejecutivo al Congreso del Estado;
 
@@ -465,13 +467,9 @@ X.- Llevar un registro general de firmas de funcionarios y atender todo lo relat
 
 XI.- Tramitar los recursos administrativos que competa conocer y resolver a la persona titular del Poder Ejecutivo del Estado, incluyendo aquellos que pretendan combatir actos emitidos por la propia Secretaría General de Gobierno, facultándola para substanciar todas las etapas del procedimiento, excepto la emisión de la resolución definitiva.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2018)</small>
+XII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XII.- Representar a la persona titular del Poder Ejecutivo en cualquier procedimiento administrativo o contencioso, así como en cualquier medio de control constitucional, en que sea señalada como parte o tercero, con facultades amplias y necesarias para ejercer dicha representación, salvo que la misma sea asumida por la Consejería Jurídica.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ENERO DE 2020)</small>
-
-XIII. Coordinar y organizar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 XIV.- Tramitar las expropiaciones por causa de utilidad pública;
 
@@ -493,7 +491,9 @@ XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en rela
 
 XIX. Ejercer y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal;
 
-XX. (DEROGADA, P.O. 21 DE MARZO DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Ejercer las atribuciones relativas a infraestructura física educativa en los términos que señale la ley de la materia.
 
 XXI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
@@ -513,15 +513,11 @@ XXV. Fomentar y apoyar la realización de programas de colaboración intermunici
 
 XXVI.- Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2021)</small>
-
-XXVII.- Coordinar el esfuerzo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, ejerciendo funciones de control, vigilancia, supervisión y seguimiento de las responsabilidades que les competen, así como presidir el Consejo Consultivo de los Centros de Justicia para las Mujeres conforme a los objetivos establecidos en el Acuerdo que les da origen.
+XXVII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2021)</small>
 
 XXVIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -537,9 +533,9 @@ III. Ejercer las funciones de ingresos; control presupuestal; planeación, opera
 
 IV. Impulsar y operar el modelo de Gestión para Resultados en la administración pública estatal, de conformidad con las leyes y ordenamientos legales aplicables;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-V. Representar al Estado, salvo disposición expresa del Gobernador, en los procedimientos jurisdiccionales relacionados con las materias de su competencia;
+V. Representar al Estado, salvo disposición expresa de la persona titular del Poder Ejecutivo del Estado, en los procedimientos jurisdiccionales relacionados con las materias de su competencia.
 
 VI. Intervenir, en representación del Estado, en los diversos órganos, reuniones y actividades de coordinación fiscal y colaboración administrativa en la materia de su competencia;
 
@@ -639,17 +635,39 @@ XLIX. Establecer la normatividad, la coordinación y los mecanismos a que deber�
 
 L. Determinar y aplicar las normas, lineamientos, técnicas, procedimientos y sistemas a seguir para la instrumentación y operación del Sistema Integral para la Planeación, la Programación y la Presupuestación del Gasto Público Estatal; y
 
-LI. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+LI. Establecer medidas de disciplina y austeridad presupuestaria en la Administración Centralizada y Paraestatal y, en su caso, determinar las adecuaciones presupuestarias al gasto cuando se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera del Estado, reportando al respecto al Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+LII. Disponer que los fondos y pagos correspondientes a la Administración Paraestatal se manejen, temporal o permanentemente, de manera centralizada en la Secretaría de Hacienda del Estado, en los supuestos previstos en la fracción anterior de este artículo.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+LIII. Suspender, diferir o determinar reducciones en la ministración de los recursos, cuando las dependencias y entidades no cumplan con las leyes y reglamentos que rigen la administración de los recursos públicos.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+LIV. Emitir y publicar en el Periódico Oficial del Estado, las disposiciones en las materias a que se refiere este artículo, que deberán observar las dependencias y entidades, incluyendo todos los órganos, organismos descentralizados y demás entes públicos de la Administración Pública Estatal, independientemente de la forma o estructura legal bajo la que se encuentren organizados o que cuenten con un régimen especial, derivado de su ley especial o decreto de creación.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+LV. Ejercer las atribuciones relativas a infraestructura física educativa en los términos que señale la ley de la materia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN LI], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+LVI. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 ARTICULO 26 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 27.
 
-A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Humano y Bien Común corresponde el despacho de los siguientes asuntos:
 
 I.- Coordinar el diseño, instrumentación, evaluación y seguimiento de la Política Estatal de Desarrollo Social y Humano, así como conducir la formulación del Programa respectivo;
 
@@ -667,9 +685,9 @@ VI.- Celebrar convenios, contratos, acuerdos y cualquier otro acto jurídico en 
 
 VII.- Coordinar el diseño, instrumentación, evaluación y seguimiento de los programas y proyectos tendientes a lograr la igualdad sustancial entre mujeres y hombres, así como para prevenir y erradicar la violencia de género;
 
-VIII.- Promover y fomentar acciones para fortalecer el desarrollo de la familia;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+VIII. Promover acciones para fortalecer el desarrollo de la familia que incluyan el diseño, instrumentación, evaluación y seguimiento de programas tendentes a fomentar el desarrollo integral desde el embarazo, e impulsar la igualdad sustantiva de condiciones de desarrollo para las familias uniparentales.
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -691,9 +709,21 @@ XIV.- Llevar a cabo programas de desarrollo que deberán incluir acciones de asi
 
 XV.- Colaborar en el trabajo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, para desde el ámbito competencial correspondiente contribuir a los objetivos establecidos en el Acuerdo que les da origen.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XVI.- Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
+XVI. Participar, en coordinación con los organismos de la Administración Pública responsables en la materia, en el diseño, instrumentación, evaluación y seguimiento de las políticas públicas y los programas tendentes a garantizar el desarrollo integral infantil.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Participar, en coordinación con los organismos de la Administración Pública responsables en la materia, en el diseño, instrumentación, evaluación y seguimiento de las políticas públicas y los programas tendentes al otorgamiento de apoyo alimentario, de transporte, becas académicas, subsidios educativos, deportivos, culturales o similares que garanticen el acceso a la educación y desarrollo humano universal y tengan como fin evitar la deserción escolar.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Llevar a cabo programas de desarrollo que deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud y demás medidas tendentes a contrarrestar las condiciones sociales que padecen las personas que se encuentren en situación de vulnerabilidad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XVI], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -887,25 +917,33 @@ XX. Diseñar proyectos turísticos que involucren directamente a los pobladores 
 
 XXI. Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la preservación del ambiente natural;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XXII. Ejercer las atribuciones derivadas de los convenios que en materia de desarrollo económico celebre el Gobierno del Estado con el Gobierno Federal o con los municipios de la Entidad, así como con instituciones y personas morales públicas y privadas;
+XXII. Crear y formular programas para el desarrollo de productos, rutas y circuitos turísticos en el Estado, así como instaurar y participar en las ferias y exposiciones regionales, nacionales e internacionales que se lleven a cabo para promover el turismo de la Entidad.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XXIII. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Económico para el Estado de Chihuahua, así como de las demás leyes y disposiciones en materia de industria, comercio, turismo y demás actividades productivas;
+XXIII. Ejercer las atribuciones derivadas de los convenios que en materia de desarrollo económico celebre el Gobierno del Estado con el Gobierno Federal o con los Municipios de la Entidad, así como con instituciones y personas morales públicas y privadas.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XXIV. Realizar y promover estudios e investigaciones sobre ahorro y uso eficiente de energía, difundir las políticas que el Gobierno Federal establezca en el sector energético, elaborar proyectos, programas, proporcionar asesorías, procedimientos, ejecutar acuerdos y demás aspectos relacionados con el sector que promuevan su desarrollo tecnológico, financiamiento y eficiencia, así como controlar y vigilar el debido cumplimiento de dichas atribuciones; y
+XXIV. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Económico para el Estado de Chihuahua, así como de las demás leyes y disposiciones en materia de industria, comercio, turismo y demás actividades productivas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XXV. Ejercer las atribuciones y facultades que le otorga la Ley de Prestación de Servicios Inmobiliarios del Estado de Chihuahua.
+XXV. Coordinar la Estrategia Estatal de Desarrollo Energético Sustentable para elevar la competitividad y promover la inversión pública, social y privada mediante la Agencia Estatal en la materia, como organismo público descentralizado.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XXVI. Los demás que fijen expresamente las leyes y sus reglamentos.
+XXVI. Promover el ahorro y uso eficiente de la energía mediante la consolidación de la demanda de recursos públicos destinados a la adquisición de insumos energéticos, así como esquemas de financiamiento público, social y privado que impulsen la innovación, desarrollo tecnológico y capital humano en la materia.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Ejercer las atribuciones y facultades que le otorga la Ley de Prestación de Servicios Inmobiliarios del Estado de Chihuahua.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII. Los demás que le fijen expresamente las leyes y sus reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -917,9 +955,9 @@ ARTICULO 28 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 A la Secretaría de Educación y Deporte corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-I.- Ejercer las funciones que al estado correspondan en materia educativa;
+I. Elaborar y conducir la política educativa y deportiva del Estado, con la participación de las dependencias y entidades de la Administración Pública Estatal que corresponda.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
@@ -1011,7 +1049,9 @@ IV.- Ejercer las facultades que al Ejecutivo correspondan, de conformidad con la
 
 V.- Supervisar la ejecución de las obras con el objeto de que éstas se realicen de conformidad con los requisitos técnicos especificados en los proyectos aprobados y elaborar los informes que permitan conocer el avance y la calidad de las obras públicas;
 
-VI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Ejercer las atribuciones relativas a infraestructura física educativa en los términos que señale la ley de la materia.
 
 VII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
@@ -1513,6 +1553,14 @@ VIII. Establecer mecanismos de cooperación y colaboración con autoridades fede
 
 IX. Crear y difundir programas, proyectos y estudios permanentes de información y fomento a la cultura de la denuncia y de la legalidad en relación a esta materia.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+H. Diseñar, coordinar y evaluar la política estatal del Sistema Penitenciario. El desarrollo de dicha política se llevará a cabo mediante un órgano administrativo desconcentrado.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+I. Coordinar y organizar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
 (NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PROCESO LEGISLATIVO DEL DECRETO NO. LXVI/RFLEY/0513/2019 I P.O. PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2020, LA MODIFICACIÓN CORRESPONDE AL PRESENTE PÁRRAFO]</small>
@@ -1521,59 +1569,123 @@ IX. Crear y difundir programas, proyectos y estudios permanentes de información
 
 PARA DAR CUMPLIMIENTO AL DERECHO DE ACCESO A LA JUSTICIA A PERSONAS, PUEBLOS Y COMUNIDADES INDÍGENAS, LA FISCALÍA GENERAL DEL ESTADO, EN EL EJERCICIO DE LAS ATRIBUCIONES ANTES SEÑALADAS, GARANTIZARÁ QUE AQUELLAS CUENTEN CON LA ASISTENCIA DE PERSONAS TRADUCTORAS E INTÉRPRETES, DEBIDAMENTE CERTIFICADAS, EN TODA ACTUACIÓN QUE LES INVOLUCRE, ESTABLECIENDO PARA ELLO LAS PREVISIONES NECESARIAS Y, DE RESULTAR INDISPENSABLE, LA CELEBRACIÓN DE CONVENIOS DE COLABORACIÓN O COORDINACIÓN CON LAS INSTITUCIONES COMPETENTES.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+###### ARTICULO 35 Bis.
 
-ARTICULO 35 BIS. A la Secretaría de Desarrollo Municipal corresponde el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-I. Coadyuvar al desarrollo de los municipios;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-II. Elaborar los planes y programas tendientes a apoyar el desarrollo de los Municipios, mediante el mejor aprovechamiento de sus recursos;
+###### ARTICULO 35 Ter.
 
-III. Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los Municipios para fortalecer el Desarrollo Económico y Social de éstos;
+La Secretaría de Coordinación de Gabinete tendrá las siguientes atribuciones:
 
-IV. Proponer al Ejecutivo la celebración de convenios de coordinación con los Municipios, para la realización de obras y la prestación de Servicios Públicos;
-
-V. Gestionar el apoyo a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales;
-
-VI. Promover el desarrollo equilibrado de los municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona;
-
-VII. Fomentar e impulsar la participación de los ayuntamientos en los programas que tienen al desarrollo de los mismos;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2018)</small>
-
-VIII. Promover la participación ciudadana de forma organizada que impulse el desarrollo comunitario para el cumplimiento de planes y programas de los Municipios;
-
-IX. Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
-
-Así mismo, dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
-
-Instrumentar y desarrollar, en coordinación con las dependencias federales competentes y con Instituciones de Educación Superior, un Sistema de Profesionalización y Capacitación del Servicio Público Municipal, mediante modelos de formación continua de los servidores públicos municipales; y de certificación de las competencias laborales de los titulares de las diversas dependencias municipales a las que se refiere el último párrafo del artículo 60 del Código Municipal para el Estado, en los términos que establezca la Ley.
-
-X. Asesorar, impartir y organizar cursos y talleres de capacitación y actualización administrativa y jurídica para el desempeño de las funciones municipales, y
-
-XI. Los demás que le atribuyan expresamente las leyes y sus reglamentos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-ARTICULO 35 TER.- La Coordinación Ejecutiva del Gabinete será el órgano de la Administración Pública centralizada, que dé seguimiento a las Políticas Públicas y al Plan Estatal de Desarrollo, los acuerdos dictados por el Gobernador del Estado, facilitando la comunicación entre los titulares de las dependencias, que además (sic), las siguientes atribuciones:
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 I. Coordinar la elaboración del Plan Estatal de Desarrollo y los Informes de Gobierno;
 
-II. Dar seguimiento a los acuerdos y compromisos que instruya el Gobernador;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+II. Dar seguimiento, procurar y coordinar el cumplimiento de los acuerdos y compromisos tomados por la persona titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 III. Planificar los asuntos estratégicos y la priorización de las acciones de la Administración Pública estatal;
 
-IV. Realizar estudios y proponer al Gobernador del Estado alternativas de reorganización de los servicios que prestan las distintas dependencias, así como detectar necesidades e implementar acciones de optimización y sinergia de los procesos administrativos internos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-V. Proponer al Gobernador los proyectos de políticas públicas, reglamentos internos, manuales y disposiciones de carácter general para la administración pública centralizada y en el ámbito de su competencia;
+IV. Realizar estudios y proponer a la persona titular del Ejecutivo del Estado alternativas de reorganización de los servicios que prestan las distintas dependencias, así como detectar necesidades e implementar acciones de optimización y sinergia de los procesos administrativos internos.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. Proponer a la persona titular del Ejecutivo del Estado los proyectos de políticas públicas, reglamentos internos, manuales y disposiciones de carácter general para la Administración Pública Centralizada y en el ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 VI. Armonizar que los planes, programas y funcionamiento de las dependencias y entidades de la administración pública se ajusten al Plan Estatal de Desarrollo;
 
-VII. Recopilar y sistematizar la información de actividades e informar al Gobernador de los resultados y desempeño de las tareas que lleven a cabo las dependencias de la Administración Pública centralizada, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Las demás que expresamente le encomienden las leyes, reglamentos y acuerdos.
+VII. Recopilar y sistematizar la información de actividades e informar a la persona titular del Ejecutivo del Estado de los resultados y desempeño de las tareas que lleven a cabo las dependencias de la Administración Pública Centralizada.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Dar seguimiento a las políticas públicas y al Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Dar seguimiento a los acuerdos dictados por la persona titular del Ejecutivo del Estado, facilitando la comunicación entre quienes ocupen las titularidades de las dependencias de la Administración Pública Estatal, Entidades Paraestatales y Órganos Autónomos del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+X. Funcionar como enlace entre la Administración Pública Estatal y el Gobierno Federal.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XI. En materia de desarrollo municipal:
+
+a) Elaborar los planes y programas tendientes a apoyar el desarrollo de los Municipios, mediante el mejor aprovechamiento de sus recursos.
+
+b) Proponer al Ejecutivo las acciones, convenios y mecanismos de coordinación entre el Estado y los Municipios para fortalecer el desarrollo económico y social de estos, así como para la realización de obras y la prestación de servicios públicos.
+
+c) Gestionar el apoyo a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales.
+
+d) Promover el desarrollo equilibrado de los Municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona.
+
+e) Fomentar e impulsar la participación de los Ayuntamientos en los programas que propicien el desarrollo de los mismos.
+
+f) Promover la participación ciudadana de forma organizada que impulse el desarrollo comunitario para el cumplimiento de planes y programas de los Municipios.
+
+g) Elaborar, instrumentar, organizar e impartir cursos y talleres de capacitación y actualización dirigidos al funcionariado de los Ayuntamientos y Sindicaturas municipales, a fin de que una vez que reciban la constancia que les acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
+
+h) Desarrollar, en coordinación con las dependencias federales competentes y con las instituciones de educación superior, un Sistema de Profesionalización y Capacitación del Servicio Público Municipal.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XII. En materia de Asesorías y Proyectos Especiales:
+
+a) Coordinar, promover y realizar las investigaciones, estudios y análisis relacionados con la problemática del Estado.
+
+b) Diseñar, desarrollar y dar seguimiento, en coordinación con las dependencias y entidades de la Administración Pública Estatal involucradas, las acciones necesarias de los proyectos encomendados por la persona titular del Ejecutivo.
+
+c) Realizar los diagnósticos sociales, políticos y administrativos necesarios para el ejercicio de las atribuciones.
+
+d) Proponer a la persona titular del Ejecutivo programas para el aprovechamiento social, político, económico, comunitario y de innovación, mismos que se estructurarán en coordinación con las áreas involucradas del sector público, social o privado, según sea el caso.
+
+e) Determinar las prioridades, analizar y, en su caso, aprobar la formulación de los estudios y proyectos ejecutivos de las diversas dependencias y entidades que integran el Poder Ejecutivo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. En materia de Política Digital:
+
+a) Planear y ejecutar acciones que generen más y mejores condiciones de acceso, uso y apropiación de las tecnologías de la información para la población.
+
+b) Establecer lineamientos para la optimización de la infraestructura informática del Estado.
+
+c) Evaluar periódicamente las políticas digitales creadas para las dependencias gubernamentales a fin de buscar su mejoramiento permanente.
+
+d) Administrar la información generada para sistematizar la retroalimentación de la población hacia el Gobierno.
+
+e) Ser el enlace con la Federación, otras entidades gubernamentales, la iniciativa privada y con la ciudadanía en general, en materia de política digital.
+
+f) Detectar las necesidades en materia de tecnología de la información y comunicación de la Administración Pública Estatal, y recomendar las acciones para su desarrollo y modernización.
+
+g) Planear, desarrollar y mantener la infraestructura de tecnología de la información y comunicación a nivel competitivo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. En materia de Consejería Jurídica:
+
+a) Ejercer como titular de la Consejería Jurídica del Estado con las facultades de representación legal de la persona titular del Poder Ejecutivo del Estado, más amplias y necesarias para el desahogo de todo tipo de litigios, ante autoridades federales, estatales o municipales y organismos internacionales de derechos humanos; así como para las acciones y controversias constitucionales en las que el Estado sea parte. Dichas facultades podrán ser delegadas.
+
+Así mismo, será la encargada de asesorar en la materia a la persona titular del Poder Ejecutivo del Estado.
+
+b) Asesorar jurídicamente las dependencias y entidades del Poder Ejecutivo.
+
+c) Elaborar proyectos de iniciativas de Ley, decretos y reglamentos que le sean encomendados por la persona titular del Poder Ejecutivo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Las demás que expresamente le encomienden las leyes, reglamentos y acuerdos.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1645,7 +1757,9 @@ VIII. Implementar acciones tendientes a prevenir el comportamiento criminal.
 
 IX. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Plan Estatal de Seguridad Pública.
 
-X. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y reinserción social de delincuentes entre las direcciones de seguridad pública municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+X. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad y prevención del delito, entre las direcciones de seguridad pública municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias.
 
 XI. Representar a la persona titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública.
 
@@ -1661,17 +1775,17 @@ XVI. Celebrar convenios de colaboración, en el ámbito de su competencia y en e
 
 XVII. Prestar, de forma excepcional, servicios regidos por el Derecho Privado para proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas, bienes y valores; seguridad en inmuebles; a dependencias, entidades y órganos públicos así como a personas físicas y morales que por alguna circunstancia lo requieran de manera temporal, o que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado, sin afectar el estado de fuerza requerido para la seguridad pública.
 
-XVIII. Diseñar la política penitenciaria en los delitos del orden local.
+XVIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XIX. Desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados.
+XIX. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XX. Diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia.
+XX. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XXI. Vigilar el adecuado funcionamiento de los establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares.
+XXI. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XXII. Participar, conforme a los convenios respectivos, en el traslado de las personas internas de los Centros de Reinserción Social en el Estado.
+XXII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XXIII. Diseñar la política criminal para la aplicación de las medidas de seguridad a las personas imputables adultas que están sometidas a procedimiento especial.
+XXIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 XXIV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos en materia del tránsito de vehículos y personas peatonas en el uso de las vías públicas.
 
@@ -1685,73 +1799,11 @@ XXVIII. Generar los insumos tangibles e intangibles necesarios para la profesion
 
 XXIX. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 36.
 
-Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación de Comunicación Social, la Coordinación de Relaciones Públicas, Coordinación de Asesores y Proyectos Especiales, Coordinación de Política Digital y la Consejería Jurídica.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-A. la Coordinación de Asesores y Proyectos Especiales, tendrá las siguientes atribuciones
-
-I. Coordinar, promover y realizar las investigaciones, estudios y análisis relacionados con la problemática del Estado;
-
-II. Desarrollar, en coordinación con las dependencias y entidades de la Administración Pública Estatal, las acciones necesarias para desarrollar los proyectos que le sean encomendados;
-
-III. Realizar los diagnósticos sociales, políticos y administrativos en torno al desarrollo de los proyectos encomendados;
-
-IV. Dar seguimiento al diseño de los proyectos que le hayan sido encomendados y al desarrollo de los mismos;
-
-V. Proponer al Titular del Ejecutivo programas para el aprovechamiento social, político, económico y comunitario, y de innovación mismos que se estructurarán en coordinación con las áreas involucradas del sector público, social o privado, según sea el caso, y
-
-VI. Determinar las prioridades, analizar y, en su caso, aprobar la formulación de los estudios y proyectos ejecutivos.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
-
-B. La Coordinación de Política Digital tendrá las siguientes atribuciones:
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-I. Planear y ejecutar acciones que generen más y mejores condiciones de acceso, uso y apropiación de las tecnologías de la información para la población;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-II. Establecer lineamientos para la optimización de la infraestructura informática del Estado.
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-III. Evaluar periódicamente las políticas digitales creadas para las dependencias gubernamentales a fin de buscar su mejoramiento permanente.
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-IV. Administrar la información generada para sistematizar la retroalimentación de la población hacia el gobierno.
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-V. Ser el enlace con la Federación, otras entidades gubernamentales, la iniciativa privada y con la ciudadanía en general, en materia de política digital.
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-VI. Detectar las necesidades en materia de tecnología de la información y comunicación de la Administración Pública Estatal, y recomendar las acciones para su desarrollo y modernización.
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-VII. Planear, desarrollar y mantener la infraestructura de tecnología de la información y comunicación a nivel competitivo.
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-VIII. Las demás que expresamente le encomienden los reglamentos y acuerdos.
-
-IX. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
-
-X. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-C. Para el cumplimiento de sus funciones, y salvo disposición en contrario de la ley, el titular de la Consejería Jurídica será el abogado del Estado y tendrá las facultades de representación legal del Titular del Poder Ejecutivo más amplias y necesarias para el desahogo de todo tipo de litigios, ante cualquier autoridad federal, estatal o municipal, así como para las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
-
-Así mismo será la encargada de todos los aspectos propios de su naturaleza relacionados con la asesoría jurídica al Gobernador, y los demás asuntos que le encomiende directamente.
+Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación General de Comunicación, la cual atenderá las materias de comunicación social, opinión pública y relaciones públicas.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -3198,3 +3250,53 @@ A efecto de dar cumplimiento al presente Decreto, se incorporarán las partidas 
 4. En el año 2024, se creará y operará la Unidad Regional Zona Noroeste.
 
 El personal asignado a la Fiscalía Especializada, así como a cada una de las Unidades Regionales podrá aumentarse gradualmente para establecer la estructura orgánica necesaria, conforme a la incidencia delictiva y la suficiencia presupuestal.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
