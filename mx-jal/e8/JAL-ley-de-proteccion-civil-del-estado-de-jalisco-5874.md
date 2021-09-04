@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2020-09-19"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -1023,6 +1023,28 @@ VI. Representantes de brigadas comunitarias o personas que estén en condiciones
 
 El Consejo se reunirá en sesiones ordinarias mínimo tres veces al año y extraordinarias, cuando el caso así lo requiera, a convocatoria de su presidente. Deberá sesionar en el mes de septiembre para la elaboración del presupuesto del Sistema Estatal de Protección Civil.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo Estatal en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. la validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 El Reglamento Interior del Consejo Estatal de Protección Civil dispondrá lo relativo a procedimientos para ratificar o relevar a los representantes, integración de sus comisiones y las normas que regulen el funcionamiento del pleno, del Comité Estatal de Emergencia y de sus comisiones. También establecerá los criterios para la premiación y entrega de reconocimientos a los voluntarios y brigadas comunitarias que se hayan destacado en el año, conforme a lo establecido en el artículo 52 bis de la presente ley.
@@ -1039,7 +1061,9 @@ III. Los investigadores, profesionales y peritos en materia de protección civil
 
 IV. Los representantes de organismos auxiliares y de participación social.
 
-Los presidentes municipales en los casos previstos en la fracción I que antecede, participarán con voz y voto; en tanto que los representantes a que se refieren las fracciones II, III y IV de este artículo, participarán únicamente con voz informativa.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Los presidentes municipales en los casos previstos en la fracción I del párrafo que antecede, participarán con voz y voto; en tanto que los representantes a que se refieren las fracciones II, III y IV, participarán únicamente con voz informativa.
 
 ###### Artículo 33.
 
@@ -2342,3 +2366,9 @@ P.O. 19 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27953/LXII/20 QUE ADICIONA AL ARTÍCULO 18 LA FRACCIÓN V DE LA LA (SIC) LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28433/LXII/21 SE REFORMA EL ARTÍCULO 32 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor un día después de su publicación en el periódico oficial "El Estado de Jalisco".
