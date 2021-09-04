@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2021-06-09"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -189,6 +189,30 @@ H. En materia de Desaparición Forzada de Personas: Las previstas para las Entid
 
 I. En materia de Delitos Electorales: la prevención, investigación y persecución de los delitos establecidos, cuando no sea competente la Federación, y prestar el auxilio que se requiera por la autoridad, conforme a lo dispuesto en la Ley General en Materia de Delitos Electorales.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+J. Diseñar, coordinar y evaluar la política estatal del Sistema Penitenciario. Dicha política se llevará a cabo mediante un órgano administrativo desconcentrado, el cual tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+I. Desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+II. Desarrollar programas de atención integral y de seguimiento requeridos para la ejecución de medidas de adolescentes en conflicto con la ley penal, en términos de la legislación de la materia.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. Vigilar el adecuado funcionamiento de los establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Desarrollar la política criminal para la aplicación de las medidas de seguridad a las personas imputables adultas que estén sometidas a un procedimiento especial.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. Participar, conforme a los convenios respectivos, en el traslado de las personas internas de los centros de reinserción social en el Estado.
+
 ### CAPÍTULO II. De la Organización
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
@@ -205,9 +229,9 @@ I. La Fiscalía Especializada en Control, Análisis y Evaluación;
 
 II. Las Fiscalías de Distrito por Zonas;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-III. La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género;
+III. La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -235,9 +259,9 @@ IX. Los Agentes del Ministerio Público.
 
 X. La Agencia Estatal de Investigación.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; en Delitos Electorales; en Operaciones Estratégicas; y en Combate a la Corrupción, así como los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por autoridad competente.
+La persona titular de la Fiscalía General del Estado, las y los Fiscales Especializados y de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -277,9 +301,13 @@ III. La Dirección de Innovación y Desarrollo Tecnológico.
 
 IV. La Unidad de Análisis Financiero.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-V. Las demás que establezcan las leyes y reglamentos.
+V. La Dirección del Instituto Estatal de Seguridad Pública.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Las demás que establezcan las leyes y reglamentos.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -295,9 +323,19 @@ I. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 II. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
-III. La Comisión Ejecutiva de Atención a Víctimas; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. La Comisión Ejecutiva de Atención a Víctimas.
 
 IV. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Prevención y Reinserción Social.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
 
@@ -441,7 +479,7 @@ IV. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 Para el ejercicio de sus atribuciones, la Fiscalía Especializada en Control, Análisis y Evaluación, contará con las unidades orgánicas siguientes:
 
-I. Dirección del Instituto Estatal de Seguridad Pública;
+I. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
 
@@ -479,11 +517,13 @@ c) Arresto hasta por treinta y seis horas, en su caso.
 
 Las Fiscalías de Distrito por Zonas serán cinco, conforme a la distribución territorial señalada en el artículo 5 de esta Ley, a cargo de un Fiscal de Distrito, las que ejercerán las atribuciones descritas en el apartado B del artículo 2 de este ordenamiento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 8 Bis.
 
-La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, tendrá a su cargo:
+La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia, tendrá a su cargo:
+
+> <small>(ADICIONADO [N. DE E. REFORMADO CON SUS INCISOS], P.O. 4 DE FEBRERO DE 2012)</small>
 
 A. El ejercicio de las atribuciones a que se refiere el Apartado B del artículo 2 de esta Ley, cuando se trate de hechos en los que se haya privado de la vida a mujeres por razones de violencia de género; igualmente en los casos de los siguientes hechos o conductas delictivas en que la víctima sea mujer:
 
@@ -501,13 +541,21 @@ e) Discriminación por razones de género.
 
 f) Delitos en materia de trata de personas previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, inclusive tratándose de niños en los términos de las disposiciones aplicables.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)</small>
+
 B. La atención psicológica, médica y otras, en los casos de violencia contra las mujeres en los delitos o hechos contemplados en el apartado A de este artículo, en coordinación con otros órganos o unidades administrativas de la Fiscalía General que proporcionen los servicios a que se refiere el presente apartado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)</small>
 
 C. La canalización a víctimas u ofendidos, en los casos de los apartados anteriores, hacia las dependencias o instituciones que proporcionen los servicios de carácter tutelar, asistencial, preventivo, educacional y demás de contenido similar, así como la vigilancia de su debida atención.
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
 D. La coordinación con las entidades estatales y/o municipales encargadas del funcionamiento de las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+E. Coordinar el esfuerzo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, ejerciendo funciones de control, vigilancia, supervisión y seguimiento de las responsabilidades que les competen, así como presidir el Consejo Consultivo de los Centros de Justicia para las Mujeres conforme a los objetivos establecidos en el Acuerdo que les da origen.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
@@ -538,6 +586,12 @@ La Comisión Ejecutiva de Atención a Víctimas podrá contar con establecimient
 ###### Artículo 10.
 
 (DEROGADO, P.O. 1 DE ENERO DE 2020)
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 10 Bis.
+
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Fiscalía General del Estado, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables, para cuyos efectos contará con la Dirección de Planeación, Control de Recursos y Programas Federales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2018)</small>
 
@@ -1856,3 +1910,53 @@ P.O. 9 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVI/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO Nº LXVI/RFLYC/0749/2020 IX P.E.".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
