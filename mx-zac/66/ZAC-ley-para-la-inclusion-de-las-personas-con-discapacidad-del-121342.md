@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inclusion-de-las-personas-con-discapacidad-del-1213
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-03"
-last_updated: "2021-08-11"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE SEPTIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 4 DE SEPTIEMBRE DE 2021 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 652 PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 2021.]</small>
 
 Ley publicada en el Suplemento al Número 35 del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de mayo de 2017.
 
