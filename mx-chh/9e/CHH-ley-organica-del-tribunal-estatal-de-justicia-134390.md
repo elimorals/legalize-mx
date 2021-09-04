@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-tribunal-estatal-de-justicia-134390"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-03-13"
-last_updated: "2021-08-07"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 13 de marzo de 2019.
 
@@ -71,6 +71,10 @@ III. Determinará los ajustes que correspondan a su presupuesto en caso de dismi
 
 IV. Realizará los pagos, llevará la contabilidad y elaborará sus informes.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+El recinto del Tribunal es inviolable. Toda fuerza pública tiene prohibido el acceso a las instalaciones, salvo que se solicite el auxilio de la misma para la imposición de medios de apremio y medidas disciplinarias, en los términos establecidos en las leyes y el Reglamento.
+
 ###### Artículo 2.
 
 Para efectos de esta Ley, se entenderá por:
@@ -82,6 +86,10 @@ II. Presidencia: La del Tribunal Estatal de Justicia Administrativa.
 III. Reglamento: El Reglamento Interior del Tribunal Estatal de Justicia Administrativa.
 
 IV. Tribunal: El Tribunal Estatal de Justicia Administrativa.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. Secretaría: La Secretaría General del Tribunal.
 
 ### CAPÍTULO II. DE LA COMPETENCIA DEL TRIBUNAL Y LOS CONFLICTOS DE INTERESES
 
@@ -187,11 +195,17 @@ El Tribunal se integrará por tres Magistraturas, una de las cuales lo presidir�
 
 El trámite de los asuntos de la competencia del Pleno del Tribunal se regirá por las disposiciones siguientes:
 
-I. El Pleno tendrá cada año dos períodos de sesiones. El primero, comenzará el primer día hábil del mes de enero y terminará el antepenúltimo día hábil de la primera quincena del mes de julio; el segundo, comenzará el primer día hábil del mes de agosto y, terminará el antepenúltimo día hábil de la primera quincena del mes de diciembre.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-II. Las sesiones del Pleno, así como las diligencias o audiencias que deban practicar serán públicas, de las cuales se levantará acta y se tomará versión estenográfica y en los casos que se estime necesario serán videograbadas, resguardando en todos los casos los datos personales, de conformidad con la legislación en materia de Transparencia y Acceso a la Información Pública. Sólo en los casos que la Ley lo establezca, las sesiones podrán ser privadas, sin embargo, de estas se harán versiones públicas.
+I. El Pleno celebrará sesiones indistintamente cualquier día de la semana, en horas hábiles, cuantas veces sea necesario atendiendo al volumen de asuntos.
 
-III. Las y los magistrados tienen la obligación de estar presentes en las sesiones y en la discusión de los asuntos. Los debates serán dirigidos por la persona titular de la Presidencia del Tribunal, sin cuya presencia no podrán llevarse a cabo las sesiones, salvo que concurra en su representación la persona que se designe para tales efectos de conformidad con esta Ley, bastando la asistencia de otra persona titular de Magistratura más para la validez, tanto de la sesión como la de la votación.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+II. Las sesiones del Pleno, así como las diligencias o audiencias que deban practicar serán públicas, de las cuales la Secretaría levantará el acta correspondiente, se tomará versión estenográfica y en los casos que se estime necesario serán videograbadas, resguardando en todos los casos los datos personales, de conformidad con la legislación en materia de Transparencia y Acceso a la Información Pública.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. Las personas titulares de las Magistraturas y de la Secretaría tienen la obligación de estar presentes en las sesiones y en la discusión de los asuntos. Los debates serán dirigidos por la persona titular de la Presidencia del Tribunal, sin cuya presencia no podrán llevarse a cabo las sesiones, salvo que concurra en su representación la persona que se designe para tales efectos de conformidad con esta Ley, bastando la asistencia de otra persona titular de Magistratura más para la validez, tanto de la sesión como la de la votación.
 
 IV. Las resoluciones se tomarán por unanimidad o mayoría de votos de las y los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación que previamente se califique conforme a la Ley. En caso de empate, la persona titular de la Presidencia tendrá voto de calidad.
 
@@ -199,21 +213,27 @@ V. Siempre que una persona titular de Magistratura disintiere de la mayoría pod
 
 VI. Transcurrido el plazo señalado en la fracción anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente. Si no fuera aprobado el proyecto, pero quien ocupe la titularidad de la Magistratura ponente aceptare las adiciones o reformas propuestas en la sesión, procederá a redactar la resolución con base en los términos de la discusión. Si el voto de la mayoría de las personas titulares de las magistraturas fuera en sentido distinto al del proyecto, una de ellas redactará la resolución correspondiente. En ambos casos, el plazo para redactar la resolución será de cinco días hábiles.
 
-VII. Las resoluciones deberán ser firmadas por todas las personas titulares de las Magistraturas y por la o el Secretario.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Las resoluciones deberán ser firmadas por todas las personas titulares de las Magistraturas y de la Secretaría.
 
 VIII. Las demás que determinen las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-Las sesiones del Pleno se celebrarán dentro de los períodos a que alude la fracción I del artículo 7 de esta Ley, en los días y horas que se fijen al efecto.
+Las sesiones del Pleno se celebrarán, en los días y horas que se fijen al efecto por la Presidencia.
 
 También podrán sesionar de manera extraordinaria, a solicitud de cualquiera de sus integrantes, la cual deberá ser presentada a la Presidencia a fin de que emita la convocatoria correspondiente.
 
 ### CAPÍTULO II. DEL PLENO Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-El Pleno se integrará con la totalidad de las y los magistrados, siendo sus facultades las siguientes:
+El Pleno se integrará con la totalidad de las personas titulares de las Magistraturas, siendo sus facultades las siguientes:
 
 I. Elegir de entre las y los magistrados que lo componen, a la persona titular de la Presidencia.
 
@@ -229,7 +249,9 @@ b) Los requisitos que deberán satisfacerse para la permanencia y promoción en 
 
 c) Las reglas sobre disciplina y, en su caso, un sistema de estímulos a las y los servidores públicos jurisdiccionales de acuerdo a la disponibilidad presupuestaria del Tribunal.
 
-V. Designar a las y los secretarios de acuerdos de las ponencias instructoras, a propuesta de la persona titular de la Presidencia.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. Designar a la persona titular de la Secretaría, así como a las y los secretarios de acuerdos de las ponencias instructoras, a propuesta de la persona titular de la Presidencia.
 
 VI. Aprobar los nombramientos de las y los servidores públicos jurisdiccionales y administrativos del Tribunal.
 
@@ -239,7 +261,9 @@ VIII. Autorizar los programas permanentes de capacitación, especialización y a
 
 IX. Acordar la distribución de los recursos presupuestales conforme a la Ley y el presupuesto aprobado por el Congreso del Estado, y supervisar su legal y adecuada aplicación.
 
-X. Llevar el registro de las y los peritos del Tribunal, y mantenerlo actualizado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+X. Aprobar el registro de las y los peritos del Tribunal, y mantenerlo actualizado.
 
 XI. Nombrar, remover, suspender y resolver todas las cuestiones que se relacionen con los nombramientos de las y los servidores públicos de la carrera judicial, en los términos de las disposiciones aplicables.
 
@@ -261,7 +285,9 @@ XIX. Supervisar la correcta operación y funcionamiento de la Oficialía de Part
 
 XX. Formular el informe anual de labores del Tribunal para ser presentado al Congreso del Estado.
 
-XXI. Dictar sentencia interlocutoria en los incidentes que procedan.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXI. Dictar sentencia interlocutoria en los incidentes y recursos que procedan.
 
 XXII. Resolver la instancia de aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones que emita y determinar las medidas que sean procedentes para la efectiva ejecución de sus sentencias.
 
@@ -285,7 +311,9 @@ La persona titular de la Presidencia será designada por las y los magistrados e
 
 Podrán ser elegibles para ocupar la titularidad de la Presidencia, las y los magistrados cuyos nombramientos cubran el periodo antes señalado.
 
-En el caso de faltas temporales, la persona titular de la Presidencia será suplida por las y los magistrados, para lo cual se atenderá al orden alfabético de sus apellidos.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+En el caso de faltas temporales, la persona titular de la Presidencia será suplida por la o el magistrado que esta designe.
 
 Si la falta es definitiva, se comunicará al Congreso del Estado para que designe a quien habrá de cubrir la vacante, y el Pleno designará a la nueva persona titular de la Presidencia para concluir el periodo. La o el magistrado que se designe para concluir el periodo no tendrá impedimento para su elección como titular de la Presidencia en el periodo inmediato siguiente.
 
@@ -293,7 +321,9 @@ Si la falta es definitiva, se comunicará al Congreso del Estado para que design
 
 Son atribuciones de la persona titular de la Presidencia del Tribunal, las siguientes:
 
-I. Representar al Tribunal ante toda clase de autoridades y delegar el ejercicio de esta función en las y los servidores públicos subalternos sin perjuicio de su ejercicio directo.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+I. Representar al Tribunal ante toda clase de autoridades y particulares, y delegar el ejercicio de esta función en las y los servidores públicos subalternos sin perjuicio de su ejercicio directo.
 
 II. Formar parte del Comité Coordinador del Sistema Estatal Anticorrupción, en términos de lo dispuesto por el artículo 187, apartado A, fracción I, inciso e), de la Constitución Política del Estado.
 
@@ -302,6 +332,10 @@ III. Despachar la correspondencia del Tribunal.
 IV. Convocar a sesiones al Pleno, dirigir sus debates y conservar el orden en estas.
 
 V. Someter al conocimiento del Pleno los asuntos de la competencia del mismo, así como aquellos que considere necesarios.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Autorizar, junto con la Secretaría, las actas en que se hagan constar las deliberaciones y acuerdos del Pleno, así como firmar el engrose de las resoluciones.
 
 VI. Autorizar, junto con la o el primer secretario de acuerdos de su ponencia instructora, las actas en que se hagan constar las deliberaciones y acuerdos del Pleno, así como firmar el engrose de las resoluciones.
 
@@ -361,17 +395,93 @@ XII. Desahogar los procedimientos y formular el proyecto de resolución correspo
 
 XIII. Las demás que les correspondan conforme a las disposiciones legales aplicables.
 
-### CAPÍTULO I. DEL PERSONAL DEL TRIBUNAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. DE LA SECRETARÍA GENERAL DEL TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 13 bis. El Tribunal contará con una Secretaría General que lo será también de su Pleno y tendrá fe pública en todo lo relativo al ejercicio de su función. La persona titular de la Secretaría, a propuesta de la Presidencia, será designada por el Pleno y rendirá ante este la protesta de ley.
+
+Quien ocupe la titularidad de la Secretaría concurrirá a las sesiones del Pleno, tendrá derecho a voz pero no a voto; elaborará las actas correspondientes y dará fe de los acuerdos tomados y las resoluciones pronunciadas.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 13 bis A. La ausencia temporal de la persona titular de la Secretaría será cubierta provisionalmente por quien designe el Pleno, de conformidad con la propuesta enviada por la Presidencia.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 13 bis B. La persona titular de la Secretaría, tendrá las atribuciones siguientes:
+
+I. Realizar las funciones de Secretaría de Acuerdos, de conformidad con las leyes y reglamentos, que sean compatibles con su cargo y que se encuentren dentro del ámbito de su competencia.
+
+II. Vigilar que los acuerdos o resoluciones del Pleno o de la Presidencia, sean debidamente cumplimentados.
+
+III. Autorizar y dar fe, con su firma, de las actuaciones del Pleno o de la Presidencia.
+
+IV. Expedir certificaciones de los documentos y medios electrónicos existentes en los archivos del Tribunal, previo cotejo de las mismas.
+
+V. Emitir constancias relativas a la actividad y conformación del Tribunal.
+
+VI. Llevar la correspondencia de la Secretaría, así como la del Pleno y la Presidencia cuando así se le encomiende.
+
+VII. Acordar con la Presidencia los asuntos de su competencia.
+
+VIII. Autorizar con su firma los libros de gobierno.
+
+IX. Supervisar la correcta operación y funcionamiento de la Oficialía de Partes, de la Actuaría, así como de los archivos del Tribunal.
+
+X. Custodiar y utilizar los sellos, los libros de gobierno, el archivo y el secreto del Tribunal.
+
+XI. Hacer las notificaciones que se le encomienden por el Pleno, la Presidencia o lo determine la ley, por sí misma o por conducto del actuario respectivo.
+
+XII. Recibir y distribuir la correspondencia dirigida al Tribunal.
+
+XIII. Dar trámite a las solicitudes o requerimientos que se dicten u ordenen en las actuaciones para la debida sustanciación de los expedientes.
+
+XIV. Llevar el registro de las y los peritos del Tribunal, y mantenerlo actualizado.
+
+XV. Recibir de las Magistraturas los proyectos de resolución, circularlos oportunamente para su estudio y listarlos en el orden del día de la sesión en que deban analizarse, discutirse y votarse.
+
+XVI. Entregar a las Magistraturas copia de la totalidad de los documentos soporte de los asuntos que se someterán a discusión en la sesión respectiva.
+
+XVII. Elaborar el orden del día de las sesiones y tomar las medidas necesarias para su publicación oportuna en los estrados y en la página electrónica del Tribunal.
+
+XVIII. Verificar el quórum legal de las sesiones de Pleno.
+
+XIX. Estar presente en las audiencias o diligencias ordenadas con motivo de las funciones del Tribunal.
+
+XX. Efectuar las certificaciones necesarias para el debido engrosamiento de las resoluciones del Pleno.
+
+XXI. Tener bajo su dependencia inmediata a los empleados de la Secretaría, ejerciendo vigilancia sobre ellos para que desempeñen sus labores correctamente, con puntualidad y disciplina.
+
+XXII. Elaborar proyectos de reglamentos, manuales, instructivos y cualquier instrumento normativo necesario para el buen funcionamiento del Tribunal para someterlos a la aprobación del Pleno.
+
+XXIII. Informar permanentemente a la Presidencia respecto de las actividades administrativas a su cargo y del trámite de los asuntos de su competencia
+
+XXIV. Realizar los trámites necesarios para que se publiquen en el Periódico Oficial del Estado las actas o acuerdos que determinen la Ley, el Pleno o la Presidencia.
+
+XXV. Levantar las actas de las sesiones del Pleno.
+
+XXVI. Recabar datos para la elaboración de los informes que deba rendir la Presidencia.
+
+XXVII. Administrar la página electrónica del Tribunal y mantener los registros relativos a las autorizaciones de las claves de acceso que correspondan a las personas servidoras públicas jurisdiccionales y a las partes.
+
+XXVIII. En su caso, participar en los programas de capacitación y realizar las tareas de docencia e investigación que le sean asignadas.
+
+XXIX. Ejercer las demás atribuciones que le confieran las disposiciones aplicables, la Presidencia o el Pleno.
 
 ## TÍTULO TERCERO. DEL PERSONAL DEL TRIBUNAL Y DEL ÓRGANO INTERNO DE CONTROL
 
-### CAPÍTULO II. DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO I. DEL PERSONAL DEL TRIBUNAL
 
 ###### Artículo 14.
 
 El Tribunal tendrá las personas servidoras públicas siguientes:
 
-I. Las y los magistrados.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+I. Las personas titulares de las magistraturas.
 
 II. Las y los secretarios de acuerdos de las ponencias instructoras.
 
@@ -381,7 +491,13 @@ IV. Oficiales Jurisdiccionales.
 
 V. La persona titular del Órgano Interno de Control.
 
-VI. Las demás personas que con el carácter de mandos medios y superiores señale el Reglamento y se encuentren previstos en el presupuesto autorizado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. La persona titular de la Secretaría.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Las demás personas que con el carácter de mandos medios y superiores señale el Reglamento y se encuentren previstos en el presupuesto autorizado.
 
 Las y los servidores públicos a que se refieren las fracciones anteriores serán considerados personal de confianza.
 
@@ -453,6 +569,18 @@ Para ser titular de la Primera Secretaría de Acuerdos se requiere tener al meno
 
 Las y los actuarios y oficiales jurisdiccionales deberán reunir los requisitos descritos en las fracciones I a la IV de este artículo y además deberán contar como mínimo con un año de experiencia en materia fiscal o administrativa.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 19 bis. Para ser titular de la Secretaría, se requiere:
+
+I. Tener ciudadanía mexicana.
+
+II. Tener al menos treinta años de edad.
+
+III. Contar con reconocida buena conducta.
+
+IV. Tener licenciatura en derecho, administración o áreas afines, con título debidamente registrado con una antigüedad mínima de 5 años.
+
 ###### Artículo 20.
 
 El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en los principios de honestidad, eficiencia, capacidad y experiencia, el cual comprenderá a las y los servidores públicos a que se refieren las fracciones II, III y IV del artículo 14 de esta Ley.
@@ -505,9 +633,13 @@ Se suspenderán las labores generales del Tribunal y no correrán los plazos, lo
 
 Únicamente se recibirán promociones en la Oficialía de Partes durante las horas hábiles que determine el Pleno del Tribunal.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 25.
 
-Las personas titulares de la Magistratura, Secretaría de Acuerdos, Actuaría y Oficialía Jurisdiccional estarán impedidas para desempeñar cualquier otro empleo, cargo o comisión público o privado, excepto los de carácter docente u honorífico.
+Las personas titulares de la Magistratura, Secretaría, Secretarías de Acuerdos, Actuaría y Oficialía Jurisdiccional estarán impedidas para desempeñar cualquier otro empleo, cargo o comisión público o privado, excepto los de carácter docente u honorífico.
+
+### CAPÍTULO II. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 26.
 
@@ -714,6 +846,14 @@ TERCERO.- Todas las referencias contenidas en los ordenamientos legales, a la Sa
 P.O. 7 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/1039/2021 XII P.E.".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1044/2021 XIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA”.]
 
 ###### ARTÍCULO ÚNICO.
 
