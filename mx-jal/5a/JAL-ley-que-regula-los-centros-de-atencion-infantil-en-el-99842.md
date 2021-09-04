@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-los-centros-de-atencion-infantil-en-el-99842"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2021-06-08"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el 25 de marzo de 2014.
 
@@ -146,6 +146,12 @@ IX. Al Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afecti
 X. El (sic) Enseñanza del lenguaje y comunicación; e
 
 XI. Información y apoyo a los padres, tutores o quienes ejerzan la patria potestad o custodia y en su caso la responsabilidad del cuidado o crianza del menor, para fortalecer la comprensión de sus funciones en la educación de niñas y niños.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 7 Bis.
+
+Los Centros de Atención, en materia de salud, deberá cooperar en el ejercicio de las acciones para combatir las enfermedades transmisibles, adoptando las medidas que las autoridades sanitarias dicten y, en su caso, estableciendo medidas especiales que estimen necesarias y que sean compatibles con las emitidas por la autoridad.
 
 ### CAPÍTULO II. De los Usuarios de los Servicios de los Centros de Atención Infantil
 
@@ -868,5 +874,11 @@ P.O. 8 DE OCTUBRE DE 2019.
 P.O. 8 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28395/LXII/21 QUE REFORMA EL ARTÍCULO 25 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28431/LXII/21 SE ADICIONA EL ARTÍCULO 7 BIS A LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
