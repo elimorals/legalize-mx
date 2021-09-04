@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "2019-06-01"
+last_updated: "2021-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA - ANTES LEY ORGANICA DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS -
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 4 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -690,3 +692,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicaci
 SEGUNDO.- El cumplimiento de lo previsto en el presente Decreto que requiera de presupuesto para su instrumentación y desarrollo, se sujetará a la disponibilidad presupuestaria de la Comisión de Derechos Humanos del Estado.
 
 TERCERO.- La Comisión de Derechos Humanos del Estado deberá prever en su Proyecto de Presupuesto de Egresos del Ejercicio Fiscal 2020 y venideros, la partida respectiva para el cumplimiento de lo previsto en el presente Decreto, en tanto que el H. Congreso del Estado deberá revisar, analizar y, en su caso, aprobar lo necesario para tal fin.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 490.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto que contiene el texto de la Ley Orgánica de la Comisión de Derechos Humanos para el Estado de Colima, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Colima, expedida por Decreto No. 57 de la Legislatura Local, con fecha del 30 de mayo de 1992 y las demás disposiciones aplicables que se opongan a la presente Ley.
+
+TERCERO. La Comisión de Derechos Humanos del Estado de Colima, deberá expedir el Reglamento Interior dentro de los ciento veinte días naturales siguientes a la entrada en vigor de esta Ley y deberá ser publicada en el Periódico Oficial del Estado. En tanto su entrada en vigor, seguirá rigiendo el Reglamento Interno vigente.
+
+CUARTO. Los procedimientos iniciados antes de la entrada en vigor de la presente Ley deberán ser concluidos con la Legislación anterior.
+
+QUINTO. Las áreas, unidades administrativas y mecanismos de archivo descritos en esta Ley, se considerarán para su creación o fortalecimiento, conforme al techo presupuestal y necesidad del Organismo ante la carga y demanda social, buscando la mejora continua de los esquemas dispuestos en la presente Ley y el marco jurídico aplicable.
+
+SEXTO. Los nombramientos de las y los servidores públicos que se encuentren desempeñando actualmente funciones, seguirán vigentes con la entrada en vigor de la presente Ley, aplicando los criterios aquí señalados para los nuevos nombramientos que se expidieren.
