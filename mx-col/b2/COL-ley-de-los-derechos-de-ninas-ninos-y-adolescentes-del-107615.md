@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2021-05-29"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -365,7 +365,9 @@ A falta de disposición expresa en esta Ley, se estará a los principios general
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por haber permanecido con su madre o padre privado de la libertad en algún Centro Penitenciario o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
@@ -775,9 +777,43 @@ Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de 
 
 La edad mínima para contraer una relación conyugal, será a los 18 años de edad cumplidos, en ningún caso podrá dispensarse lo dispuesto en este artículo.
 
-### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPÍTULO X. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
+### CAPÍTULO VIII BIS
+
+GARANTÍAS MÍNIMAS DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS Y NIÑOS, HIJOS DE MUJERES Y HOMBRES PRIVADOS DE LA LIBERTAD.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 47 Ter.
+
+Las hijas y los hijos de mujeres privadas y hombres privados de su libertad tienen los mismos derechos que el resto de las niñas, niños y adolescentes, reconocidos por la Constitución y por los tratados internacionales de los que México sea parte.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 47 Quáter.
+
+Las autoridades penitenciarias en coordinación con las autoridades competentes de la materia de que se trate garantizarán a las hijas y los hijos de mujeres y hombres privados de su libertad el goce y disfrute de sus derechos, en los términos de lo previsto en la Ley Nacional de Ejecución Penal, atendiendo a los estándares constitucionales e internacionales en la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 47 Quinquies.
+
+Para garantizar la protección de los derechos de niñas y niños, hijos de mujeres y hombres privados de su libertad, las autoridades se apegarán a los siguientes principios y acciones, además de lo previsto en la presente Ley, velando por el interés superior de las niñas y los niños:
+
+a) Tomar las medidas necesarias para organizar guarderías infantiles con servicios educativos, pediátricos y de nutrición a las niñas y los niños que viven con sus madres o padres en prisión.
+
+b) Brindar las máximas posibilidades para que las madres o padres dediquen el mayor tiempo al cuidado y convivencia con sus hijas e hijos.
+
+c) Las decisiones para determinar la separación de las hijas y los hijos de las mujeres y hombres privados de la libertad se adoptarán en función del caso en particular, previa evaluación del mismo.
+
+d) Derecho de las hijas y los hijos a tener contacto frecuente con sus madres o padres privados de la libertad, en condiciones que garanticen el interés superior de la niñez, cuando se determine la separación.
+
+e) Obligaciones de ambos padres del cuidado de sus hijas e hijos.
+
+f) Las niñas y los niños que dejan de vivir en el Centro Penitenciario, solos o junto con su progenitora o progenitor encarcelado, recibirán atención especializada y apoyo para su integración y normal desarrollo a la sociedad, antes, durante y después de su partida.
+
+### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
 ###### Artículo 48.
 
@@ -833,7 +869,7 @@ La recuperación y restitución de derechos a que se refiere el párrafo anterio
 
 En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley para la Protección de Víctimas en el Estado de Colima y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
-### CAPÍTULO XI. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
+### CAPÍTULO X. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
 ###### Artículo 52.
 
@@ -881,6 +917,10 @@ XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabi
 
 XIX. Prohibir la distribución, venta, exhibición y suministro en cualquiera de sus formas, de bebidas azucaradas y alimentos que excedan los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadido, que establece la Norma Oficial Mexicana correspondiente, en instituciones públicas y privadas de educación básica y media superior.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XIX (SIC). Implementar programas especiales para niñas y niños que hayan salido de algún Centro Penitenciario por haber permanecido con su madre o padre privado de la libertad, orientados a integrarlos a la sociedad, privilegiando su normal desarrollo físico y psicológico.
+
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses de vida y complementaria hasta los dos años de edad, así como la prevención de embarazos no planeados, higiene, medidas de prevención de adicciones, accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 El Sistema Estatal de Salud, en coordinación con el Sistema Nacional de Salud, deberán garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
@@ -891,7 +931,7 @@ En todos los casos se respetará el derecho a la privacidad e intimidad de niña
 
 Se deberá buscar garantizar el derecho a la seguridad social; asimismo, desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida, en coordinación con las autoridades federales.
 
-### CAPÍTULO XII. DEL DERECHO A LA EDUCACIÓN
+### CAPÍTULO XI. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
 ###### Artículo 54.
 
@@ -939,7 +979,7 @@ Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, en
 
 Las niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
 
-### CAPÍTULO XIII. DE LOS DERECHOS AL DESCANSO Y AL ESPARCIMIENTO
+### CAPÍTULO XII. DEL DERECHO A LA EDUCACIÓN
 
 ###### Artículo 58.
 
@@ -1051,7 +1091,7 @@ III. Establecer mecanismos gratuitos de atención, asesoría, orientación y pro
 
 IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO XIV. DE LOS DERECHOS DE LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
+### CAPÍTULO XIII. DE LOS DERECHOS AL DESCANSO Y AL ESPARCIMIENTO
 
 ###### Artículo 61.
 
@@ -1063,7 +1103,7 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 
 El Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas competencias, están obligados a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
-### CAPÍTULO XV. DE LOS DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO XIV. DE LOS DERECHOS DE LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
 
 ###### Artículo 63.
 
@@ -1081,7 +1121,7 @@ Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Federal, ni de los principios rectores de esta Ley.
 
-### CAPÍTULO XVI. DEL DERECHO A LA PARTICIPACIÓN
+### CAPÍTULO XV. DE LOS DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
 
 ###### Artículo 65.
 
@@ -1133,7 +1173,7 @@ Asimismo, la Procuraduría de Protección estará facultada para promover accion
 
 Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
 
-### CAPÍTULO XVII. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
+### CAPÍTULO XVI. DEL DERECHO A LA PARTICIPACIÓN
 
 ###### Artículo 72.
 
@@ -1151,7 +1191,7 @@ Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y to
 
 Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
 
-### CAPÍTULO XVIII. DEL DERECHO A LA INTIMIDAD
+### CAPÍTULO XVII. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
 
 ###### Artículo 76.
 
@@ -1159,7 +1199,7 @@ Niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más li
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
 
-### CAPÍTULO XIX. DEL DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
+### CAPÍTULO XVIII. DEL DERECHO A LA INTIMIDAD
 
 ###### Artículo 77.
 
@@ -1205,7 +1245,7 @@ En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se
 
 El órgano jurisdiccional, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
-### CAPÍTULO XX. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
+### CAPÍTULO XIX. DEL DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
 ###### Artículo 83.
 
@@ -1283,9 +1323,7 @@ La legislación en materia de justicia integral para adolescentes en conflicto c
 
 La legislación a que se refiere el párrafo anterior, deberá garantizar los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
 
-### CAPÍTULO XXI. DEL DERECHO AL ACCESO A LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
-
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+### CAPÍTULO XX. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
 
 ###### Artículo 90.
 
@@ -1371,9 +1409,9 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XXII. DERECHO A UNA ALIMENTACIÓN SALUDABLE
+### CAPÍTULO XXI. DEL DERECHO AL ACCESO A LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 100 Bis.
 
@@ -1393,7 +1431,9 @@ Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del inte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2021)</small>
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XXII. DERECHO A UNA ALIMENTACIÓN SALUDABLE
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
 
 ###### Artículo 100 Bis 3.
 
@@ -1417,7 +1457,7 @@ c) Serán espacios protegidos de la publicidad de bebidas o alimentos de alto co
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 101.
 
@@ -1533,7 +1573,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 110.
 
@@ -1623,7 +1663,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### Artículo 117.
 
@@ -1647,7 +1687,9 @@ II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, a
 
 III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
 
-IV. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria, por haber permanecido con su madre o padre privado de la libertad en algún Centro Penitenciario o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
 
 V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley;
 
@@ -1751,9 +1793,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el DIF Estatal.
 
-### CAPÍTULO III. DEL DIF ESTATAL Y LOS DIF MUNICIPALES
-
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN
 
 #### SECCIÓN PRIMERA. DEL SISTEMA ESTATAL DE PROTECCIÓN
 
@@ -1965,7 +2005,7 @@ La instancia a que se refiere el presente artículo coordinará a los servidores
 
 > <small>(ADICIONADO [N. DE E. CON EL ARTÍCULO QUE LO INTEGRA], P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO IV. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO III. DEL DIF ESTATAL Y LOS DIF MUNICIPALES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -1987,7 +2027,7 @@ VI. Las demás establecidas en otras disposiciones legales, relativas a la prote
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO V. DEL PERSONAL ENCARGADO DE LA REPRESENTACIÓN Y RESTITUCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO IV. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2367,7 +2407,7 @@ IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VI. MEDIDAS DE PROTECCIÓN ESPECIAL Y MEDIDAS URGENTES DE PROTECCIÓN ESPECIAL DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO V. DEL PERSONAL ENCARGADO DE LA REPRESENTACIÓN Y RESTITUCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2437,7 +2477,7 @@ Todo aquel que desobedezca u obstaculice el ejercicio de las facultades de los e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VII. DEL CUERPO ESPECIALIZADO DE SEGURIDAD PÚBLICA
+### CAPÍTULO VI. MEDIDAS DE PROTECCIÓN ESPECIAL Y MEDIDAS URGENTES DE PROTECCIÓN ESPECIAL DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2585,7 +2625,7 @@ El personal de la Procuraduría realizará visitas periódicas a los lugares a q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VIII. DE LA RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO VII. DEL CUERPO ESPECIALIZADO DE SEGURIDAD PÚBLICA
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2625,7 +2665,7 @@ La persona que funja como titular de la Procuraduría de Protección, planeará 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO IX. DE LA ATENCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES A QUIENES SE LES ATRIBUYA LA COMISIÓN O PARTICIPACIÓN DE UN HECHO SEÑALADO COMO DELITO EN LA LEY PENAL
+### CAPÍTULO VIII. DE LA RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2679,7 +2719,7 @@ Para efectos de este artículo, la Procuraduría de Protección, sus Subprocurad
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO X. DE LOS MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS
+### CAPÍTULO IX. DE LA ATENCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES A QUIENES SE LES ATRIBUYA LA COMISIÓN O PARTICIPACIÓN DE UN HECHO SEÑALADO COMO DELITO EN LA LEY PENAL
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2689,7 +2729,7 @@ De conformidad con la Ley Nacional del Sistema Integral de Justicia Penal para A
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XI. DE LA PARTICIPACIÓN DE LA PROCURADURÍA DE PROTECCIÓN EN LOS PROCESOS DE ADOPCIÓN
+### CAPÍTULO X. DE LOS MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2711,7 +2751,7 @@ Las actuaciones que tengan lugar en la Procuraduría de Protección, relativas a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XII. DE LAS AUTORIDADES DE PRIMER CONTACTO Y PROCURADURÍAS MUNICIPALES
+### CAPÍTULO XI. DE LA PARTICIPACIÓN DE LA PROCURADURÍA DE PROTECCIÓN EN LOS PROCESOS DE ADOPCIÓN
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2735,9 +2775,9 @@ II. Cuando sea solicitada vía oficio por las diversas autoridades administrativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XIII. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
+### CAPÍTULO XII. DE LAS AUTORIDADES DE PRIMER CONTACTO Y PROCURADURÍAS MUNICIPALES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 183.
 
@@ -2815,9 +2855,9 @@ Respecto a la forma y términos en que se llevará a cabo la coordinación opera
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 20 DE OCTUBRE DE 2018)
 
-### CAPÍTULO XIV. DEL PROGRAMA ESTATAL
+### CAPÍTULO XIII. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 20 DE OCTUBRE DE 2018)
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 188.
 
@@ -2861,9 +2901,9 @@ El titular de la Visitaduría será nombrado por el Consejo Consultivo de la Com
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 20 DE OCTUBRE DE 2018)
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO XIV. DEL PROGRAMA ESTATAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 20 DE OCTUBRE DE 2018)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 191.
 
@@ -2888,6 +2928,10 @@ El Programa deberá incluir mecanismos transparentes que permitan su evaluación
 El Sistema Estatal de Protección y Municipales, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 195.
 
@@ -3110,3 +3154,11 @@ SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía, que se
 TERCERO.- Los Ayuntamientos, en el ámbito de sus competencias, deberán evitar la distribución, venta, exhibición y suministro en cualquiera de sus formas, de bebidas azucaradas y alimentos que excedan los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadido, que establece la Norma Oficial Mexicana correspondiente, en las inmediaciones de las instituciones públicas y privadas de educación básica y media superior.
 
 CUARTO.- En un plazo de 60 días hábiles, los Ayuntamientos deberán actualizar su Reglamento para el Comercio en Vía Pública, en atención al Transitorio Tercero.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+[N. DE. E TRANSITORIOS DEL “DECRETO NÚM. 483.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes.
