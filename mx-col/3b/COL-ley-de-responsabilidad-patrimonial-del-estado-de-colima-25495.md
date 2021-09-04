@@ -4,7 +4,7 @@ identifier: "COL-ley-de-responsabilidad-patrimonial-del-estado-de-colima-25495"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-22"
-last_updated: "2018-03-24"
+last_updated: "2021-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 22 de junio de 2002.
 
@@ -319,23 +319,29 @@ En el caso de que el particular hubiese obtenido la anulación de actos administ
 
 ### CAPÍTULO VI. DEL DERECHO DEL ESTADO DE REPETIR CONTRA LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 36.
 
-El Estado podrá repetir de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación del procedimiento administrativo disciplinario previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos, se determine su responsabilidad, siempre y cuando la falta administrativa haya tenido el carácter de grave. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
+El Estado podrá repetir de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación del procedimiento administrativo previsto por la Ley General de Responsabilidades Administrativas, se determine su responsabilidad. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique, la cual se expresará en la resolución correspondiente.
 
-La gravedad de la falta se calificará de acuerdo a los criterios que se establecen en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 37.
 
-Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que haya pagado el Estado con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos o ante el órgano contencioso administrativo competente.
+Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que haya pagado el Estado con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto por la Ley General de Responsabilidades Administrativas o acudir ante el Tribunal de Justicia Administrativa del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
-La presentación de reclamaciones por responsabilidad patrimonial del Estado interrumpirá los plazos de prescripción que la Ley Estatal de Responsabilidades de los Servidores Públicos determina para iniciar el procedimiento administrativo disciplinario a los servidores públicos, mismos que se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+La presentación de reclamaciones por responsabilidad patrimonial del Estado interrumpirá los plazos de prescripción que la Ley General de Responsabilidades Administrativas de los Servidores Públicos determina para iniciar el procedimiento administrativo de responsabilidades administrativas, mismos que se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados. El Estado deberá realizar paralelamente al momento de cubrir las indemnizaciones correspondientes en términos de la presente Ley, el análisis que exprese si existen razones fundadas para presumir que el pago se derivó como resultado de una acción u omisión atribuible a determinado servidor o servidora pública, lo cual comunicará en un término posterior de 5 cinco días hábiles al órgano interno de control para el inicio del procedimiento de responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 39.
 
-Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos, se aplicarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial del Estado.
+Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas se aplicarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial del Estado.
 
 ## TRANSITORIOS
 
@@ -392,3 +398,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 455 POR EL QUE SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 482.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 36, 37, 38 Y 39, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
