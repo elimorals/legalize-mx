@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2017-10-14"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -47,9 +47,11 @@ LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Chihuahua, correspondiendo su aplicación al Ejecutivo Estatal, a través de la Secretaría de Economía, siendo este instrumento el marco legal para la promoción del desarrollo de la actividad y vocación turística en el Estado.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Chihuahua, correspondiendo su aplicación al Ejecutivo Estatal, a través de la Secretaría de Innovación y Desarrollo Económico, siendo este instrumento el marco legal para la promoción del desarrollo de la actividad y vocación turística en el Estado.
 
 Los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes para garantizar la aplicación del presente ordenamiento.
 
@@ -93,9 +95,11 @@ XII. Región Turística: Es un espacio homogéneo que puede abarcar el territori
 
 XIII. Reglamento: El de la Ley de Turismo del Estado de Chihuahua.
 
-XIV. Ruta Turística: Es un circuito temático o geográfico que se basa en el patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas.
+XIV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XV. Secretaría: La Secretaría de Economía del Gobierno del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Secretaría: La Secretaría de Innovación y Desarrollo Económico del Gobierno del Estado de Chihuahua.
 
 XVI. Servicios Turísticos: Los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, como el alojamiento, alimentación, renta de equipo, etc., en apego con lo dispuesto por esta Ley y su Reglamento.
 
@@ -125,9 +129,11 @@ XXII. Zona de Interés: Aquella área posible de ser delimitada claramente, en l
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 4.
 
-Son atribuciones de la Secretaría de Economía:
+Son atribuciones de la Secretaría:
 
 I. Proponer al Titular del Poder Ejecutivo del Estado, las políticas aplicables en materia de Turismo.
 
@@ -201,11 +207,15 @@ El Consejo Consultivo Estatal, es un órgano de consulta de composición colegia
 
 El Consejo Consultivo Estatal, se integrará por:
 
-I. El Titular de la Secretaría de Economía, quien lo presidirá, pudiendo designar a otra persona en su nombre y representación.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+I. La persona titular de la Secretaría, quien lo presidirá, pudiendo designar a otra persona en su nombre y representación.
 
 II. El Titular de la Secretaría de Hacienda, o la persona que éste designe.
 
-III. El Presidente de la Comisión de Economía del H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. La persona que presida la Comisión de Economía, Turismo y Servicios del H. Congreso del Estado.
 
 IV. Los Presidentes de los Consejos Consultivos Regionales, mismos que participarán en función de su adscripción territorial atendiendo a la Agenda prevista por el Presidente del Consejo.
 
@@ -217,9 +227,11 @@ Podrán ser invitadas las instituciones y demás entidades públicas, privadas y
 
 El cargo de Consejero será honorario, por lo que su desempeño no representará remuneración alguna.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-En los casos de los actos realizados por representantes de los titulares de las Secretarías de Hacienda y Economía, deberán ser ratificados por su titular.
+En los casos de los actos realizados por representantes de las personas titulares de la Secretaría y de la Secretaría de Hacienda, deberán ser ratificados por su titular.
 
 ###### Artículo 9.
 
@@ -423,11 +435,29 @@ El Decreto para la Declaratoria de Zona de Desarrollo Turístico Sustentable deb
 
 La Secretaría, en conjunto con el Municipio que corresponda, formulará los programas de manejo correspondientes para cada territorio del Estado decretado como Zona de Desarrollo Turístico Sustentable.
 
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII BIS. DE LA RUTA TURÍSTICA
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 36 Bis.
+
+Ruta Turística es un circuito temático o geográfico que se basa en el patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas.
+
+Compete a la Secretaría determinar y establecer reglas y procedimientos para la creación, operación y mantenimiento de las rutas turísticas del sotol, nuez, manzana, vino, queso y las demás que se determinen con la participación de los diversos sectores de turismo, academias, sociedad civil y Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 36 Ter.
+
+Las rutas turísticas a que se refiere el artículo 36 Bis, tendrán el carácter de permanentes y serán incorporadas en el Atlas Turístico del Estado, además estarán disponibles en el acceso principal de la página web de la Secretaría, misma que contendrá un apartado para que las personas puedan dar de alta un correo electrónico y recibir información de estas rutas.
+
+Asimismo, la Secretaría instalará módulos turísticos en los que se facilite orientación, asistencia e información al público en general, sobre dichas rutas, los cuales serán ubicados en los centros de mayor afluencia turística.
+
 ### CAPÍTULO VIII. DE LA PROMOCIÓN TURÍSTICA
 
 ### CAPÍTULO IX. LOS PRESTADORES DE SERVICIOS TURÍSTICOS
-
-### CAPÍTULO X. DE LA CAPACITACIÓN
 
 ###### Artículo 37.
 
@@ -447,7 +477,7 @@ La Secretaría realizará y promoverá campañas oficiales de publicidad en mate
 
 Dichas campañas, tenderán a fomentar entre los chihuahuenses una conciencia cívica de servicio, rectitud y hospitalidad para con el turista nacional y extranjero.
 
-### CAPÍTULO XI. DEL TURISTA
+### CAPÍTULO X. DE LA CAPACITACIÓN
 
 ###### Artículo 41.
 
@@ -573,15 +603,17 @@ XVII. Las demás que establezca la legislación aplicable en la materia.
 
 Queda prohibida cualquier forma de discriminación por parte de los prestadores de servicios turísticos en detrimento al turista.
 
-### CAPÍTULO XII. DE LAS VERIFICACIONES Y SANCIONES
+### CAPÍTULO XI. DEL TURISTA
 
 ###### Artículo 52.
 
 La Secretaría promoverá la formación de profesionales en las ramas de la actividad turística, así como la capacitación y/o certificación, según corresponda, de los recursos humanos existentes.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 53.
 
-Para efectos del artículo anterior, el Titular del Ejecutivo del Estado, por conducto de la Secretaría de Economía, fijará las bases de coordinación con los sectores público y privado, a efecto de obtener su asistencia y colaboración para la aplicación de cursos de capacitación turística, tanto a prestadores de servicios turísticos como a servidores públicos estatales.
+Para efectos del artículo anterior, quien ocupe la titularidad del Ejecutivo del Estado, por conducto de la Secretaría, fijará las bases de coordinación con los sectores público y privado, a efecto de obtener su asistencia y colaboración para la aplicación de cursos de capacitación turística a personas prestadoras de servicios turísticos y servidoras públicas estatales.
 
 ###### Artículo 54.
 
@@ -590,6 +622,8 @@ Con el objeto de elevar los índices de competitividad en las empresas que ofrec
 ###### Artículo 55.
 
 La Secretaría deberá participar en la elaboración de los programas de capacitación turística que realicen otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal.
+
+### CAPÍTULO XII. DE LAS VERIFICACIONES Y SANCIONES
 
 ### CAPÍTULO XIII. DE LOS RECURSOS
 
@@ -684,3 +718,53 @@ P.O. 14 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0389/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
