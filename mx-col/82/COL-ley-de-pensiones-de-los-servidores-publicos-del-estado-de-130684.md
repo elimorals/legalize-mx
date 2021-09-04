@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2021-02-27"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -1069,35 +1069,11 @@ Conservación de derecho ante el Instituto derivado de la baja del afiliado
 
 ###### Artículo 77.
 
-Información que debe publicar permanentemente el Instituto
-
-1. Sin perjuicio de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima en materia de transparencia y rendición de cuentas, el Instituto estará obligado a contar con un portal de internet, a través del cual publicará la información que más adelante se detalla, independientemente de que el Consejo Directivo o esta Ley, resuelva publicar a través de otros medios que juzgue convenientes:
-
-I. La información financiera y presupuestaria que mensualmente apruebe el Consejo Directivo;
-
-II. Las resoluciones que acuerde el Consejo Directivo, en materia de otorgamiento de pensiones;
-
-III. La relación de pensiones otorgadas, denegadas, suspendidas, modificadas, revocadas y terminadas;
-
-IV. El otorgamiento, control y recuperación de los préstamos en los términos de esta Ley;
-
-V. Las convocatorias a sesiones ordinarias y extraordinarias del Consejo Directivo;
-
-VI. Las resoluciones que acuerde el Consejo Directivo y que tengan repercusión en el fondo de Cuentas Institucionales;
-
-VII. Los resultados de auditorías externas que se practiquen al Instituto;
-
-VIII. Los resultados de las valuaciones actuariales del sistema de pensiones de acuerdo con la periodicidad con que estos hayan sido elaborados;
-
-IX. La relación de Entidades Públicas Patronales que tengan adeudos por concepto de aportaciones, cuotas y descuentos, a partir de la quincena inmediata siguiente al que éstos hayan sido exigibles, indicando el concepto, monto y número de quincenas que integran el adeudo; y
-
-X. Cualquier otra que a juicio del Consejo Directivo deba de ser publicada en beneficio de los afiliados y pensionados.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 78.
 
-Transmisión en vivo de las sesiones
-
-1. El Instituto deberá transmitir en vivo las sesiones de sus órganos de gobierno, a fin de dotar de la mayor transparencia las operaciones reguladas por esta Ley.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 ## TÍTULO QUINTO. DE LAS PRESTACIONES
 
@@ -2300,3 +2276,15 @@ P.O. 27 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 414.- POR EL QUE SE REFORMA EL NUMERAL 1, FRACCIÓN III DEL ARTÍCULO 92 DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 484.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 76 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA; SE DEROGAN LOS ARTÍCULOS 77 Y 78, DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 33 Y EL ARTÍCUL 38 BIS, AMBOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- Los Ayuntamientos deberán evaluar y revisar sus planes o programas de desarrollo urbano en un lapso no mayor a 180 días contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Dentro de un plazo no mayor a 30 días naturales, los ayuntamientos deberán incluir en su portal de transparencia los planes o programas de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo que se encuentren vigentes.
+
+CUARTO.- El Instituto de Pensiones de los Servidores Públicos del Estado de Colima dentro de un plazo no mayor a 10 días hábiles contados a partir de la entrada en vigor del presente decreto deberá realizar las acciones necesarias para cabal cumplimiento a lo dispuesto en el presente decreto.
