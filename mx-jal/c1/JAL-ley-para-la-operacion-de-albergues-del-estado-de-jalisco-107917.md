@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-operacion-de-albergues-del-estado-de-jalisco-107917
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2020-04-21"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de mayo de 2015.
 
@@ -541,9 +541,17 @@ XIX. No derivar en terceras personas, el cuidado, vigilancia, o en su caso, la g
 
 XX. Llevar registro inmediato en la bitácora, todos los ingresos y egresos, salidas temporales, registro de visitantes, y cualquier eventualidad relativa a los residentes;
 
-XXI. Designar al personal suficiente que garantice que siempre esté en el albergue para que las autoridades y servidores públicos puedan dirigirse para realizar visitas de inspección o verificación, permitiéndoles el acceso inmediato, y sin que medie previo aviso, a las instalaciones, expedientes y a los residentes; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XXII. Las demás obligaciones que éste u otros ordenamientos legales establezcan.
+XXI. Designar al personal suficiente que garantice que siempre esté en el albergue para que las autoridades y servidores públicos puedan dirigirse para realizar visitas de inspección o verificación, permitiéndoles el acceso inmediato, y sin que medie previo aviso, a las instalaciones, expedientes y a los residentes;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXII. Cooperar en el ejercicio de las acciones para combatir las enfermedades transmisibles, adoptando las medidas que las autoridades sanitarias dicten y, en su caso, estableciendo medidas especiales que estimen necesarias y que sean compatibles con las emitidas por la autoridad; y
+
+> <small>(REFORMADA Y REUBICADA ANTES FRACCIÓN XXII], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII. Las demás obligaciones que éste y otros ordenamientos legales establezcan.
 
 Para efectos de lo establecido en el presente artículo, los titulares o administradores de los albergues y su personal, se abstendrán de realizar actividades que afecten la integridad física y psicológica de los residentes. Asimismo, los titulares o administradores evitarán que el personal que (sic) realice actividades diversas al cuidado, vigilancia, y en su caso, la guarda y custodia de los residentes.
 
@@ -1046,5 +1054,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 P.O. 21 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27858/LXII/20, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63 DE LA LEY PARA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO.”]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28430/LXII/21 SE REFORMA EL ARTÍCULO 33 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
