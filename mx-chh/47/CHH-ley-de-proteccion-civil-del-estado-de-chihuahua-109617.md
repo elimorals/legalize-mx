@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2021-07-03"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -120,6 +122,10 @@ XVII. Programa Especial de Protección Civil: Aquel cuyo contenido se concreta a
 XVIII. Programa Interno de Protección Civil: Instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social en el Estado o municipios; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre.
 
 XIX. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la continuidad de operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XIX bis. Código Adam: Es el protocolo implementado a través del Programa Interno de Protección Civil en inmuebles e instalaciones fijas y móviles de las dependencias, entidades, instituciones, organismos, industrias o empresas pertenecientes a los sectores público o privado, para la búsqueda y localización, en sus instalaciones, de personas desaparecidas o no localizadas menores de dieciocho años, hasta en tanto se haga cargo la autoridad competente.
 
 XX. Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada.
 
@@ -743,9 +749,11 @@ En el caso de que se identifiquen riesgos específicos que puedan afectar de man
 
 ### CAPÍTULO XI. DEL PROGRAMA INTERNO DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 51.
 
-El Programa Interno de Protección Civil, es aquel instrumento de planeación y operación, implementado en un inmueble público o privado, con el fin de establecer acciones preventivas para mitigar los riesgos previamente identificados y estar en condiciones de atender cualquier tipo de emergencia o desastre, brindando el auxilio inmediato necesario para salvaguardar la integridad física de los ocupantes, de las propias instalaciones, e información vital.
+El Programa Interno de Protección Civil, es aquel instrumento de planeación y operación, implementado en un inmueble público o privado, con el fin de establecer acciones preventivas para mitigar los riesgos previamente identificados y estar en condiciones de atender cualquier tipo de emergencia o desastre, brindando el auxilio inmediato necesario para salvaguardar la integridad física de los ocupantes, de las propias instalaciones, e información vital. En su caso, deberá estar integrado por el Código Adam.
 
 ###### ARTÍCULO 52.
 
@@ -758,6 +766,10 @@ Para el caso de las unidades hospitalarias, en la elaboración del programa inte
 ###### ARTÍCULO 54.
 
 Los inmuebles referidos en el presente Capítulo, presentarán ante la autoridad de protección civil correspondiente, el Programa Interno para revisión y autorización. En caso de que se realicen modificaciones en cuanto a la estructura del inmueble o la estructura de la Unidad Interna de Protección Civil, dicho programa quedará sin validez, por lo cual el responsable del inmueble deberá actualizarlo y presentarlo nuevamente a revisión y autorización.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+La autoridad de protección civil correspondiente, emitirá un dictamen para determinar, de acuerdo a las características de las instalaciones, si el Programa Interno de Protección Civil deberá estar integrado por el Código Adam.
 
 ###### ARTÍCULO 55.
 
@@ -781,9 +793,11 @@ Los responsables de la administración y operación de las actividades señalada
 
 Los brigadistas se integrarán con personal que labore en la propia institución, establecimiento o dependencia, y será capacitado en una o varias funciones del Programa Interno de Protección Civil, sea primeros auxilios, prevención y combate de incendios, evacuación y búsqueda y rescate.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 60.
 
-Ante cualquier situación de emergencia y/o desastre, la primera instancia de actuación especializada corresponde a las unidades internas de protección civil de cada instalación pública o privada, hasta asegurar la integridad física de las personas, en tanto la autoridad correspondiente arribe al lugar de la emergencia.
+Ante cualquier situación de emergencia y/o desastre, la primera instancia de actuación especializada corresponde a las unidades internas de protección civil de cada instalación pública o privada, hasta asegurar la integridad física de las personas, en tanto la autoridad correspondiente arribe al lugar de la emergencia, salvo lo dispuesto en el Código Adam.
 
 ###### ARTÍCULO 61.
 
@@ -796,6 +810,14 @@ II. Dotar a su Unidad Interna de Protección Civil del equipo de respuesta neces
 III. Asegurar la capacitación de los brigadistas, para un mejor desempeño de sus funciones, mediante programas de capacitación y adiestramiento, sin perjuicio de las disposiciones legales aplicables.
 
 IV. Supervisar la realización de simulacros, así como la evaluación de los mismos.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. Asegurar la capacitación del personal en la identificación de circunstancias al interior de sus instalaciones, que pudieran traer aparejadas la desaparición o no localización de personas menores de dieciocho años. Así como la capacitación en la activación y desarrollo del Código Adam.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Implementar el Código Adam, en los términos previstos en la Ley.
 
 ### CAPÍTULO XIII. DE LOS TERCEROS ACREDITADOS
 
@@ -1366,3 +1388,35 @@ Los municipios del Estado, deberán armonizar sus reglamentos de conformidad con
 ###### ARTÍCULO CUARTO.
 
 Los municipios del Estado, deberán realizar previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1037/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 180 días naturales posteriores a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, dentro del plazo de 30 días hábiles posteriores a la publicación del presente Decreto, deberá conformar una comisión especial para coadyuvar en la elaboración del Código Adam; integrada cuando menos por:
+
+I.- La Comisión Local de Búsqueda.
+
+II.- Familiares de personas desaparecidas o no localizadas.
+
+III.- Organizaciones no gubernamentales involucradas en la búsqueda y localización de personas.
+
+IV.- Las personas administradoras, gerenciales, poseedoras, arrendatarias o propietarias de inmuebles e instalaciones fijas y móviles de las dependencias, entidades, instituciones, organismos, industrias o empresas pertenecientes a los sectores público, privado y social.
+
+V.- La Coordinación Estatal de Protección Civil.
+
+VI.- El H. Congreso del Estado de Chihuahua.
+
+VIII.- (SIC) Demás personal que considere.
+
+Para tales efectos, emitirá una convocatoria que será publicada en los principales medios de comunicación del Estado, así como en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, dentro del plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, deberá publicar el Código Adam.
