@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-las-personas-mayores-en-el-estado-de-130149"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-25"
-last_updated: "2018-07-25"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Folleto del Periódico Oficial del Estado de Chihuahua, el miércoles 25 de julio de 2018.
 
@@ -139,7 +139,9 @@ XI. DIF Estatal.- El Organismo para la asistencia social pública del Estado den
 
 XII. DIF Municipales.- Los organismos municipales para la asistencia social pública.
 
-XIII. Dirección de Grupos Vulnerables.- Dirección de Grupos Vulnerables y Prevención a la Discriminación, dependiente de la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Dirección de Grupos Vulnerables.- Dirección de Grupos Vulnerables y Prevención a la Discriminación, dependiente de la Secretaría de Desarrollo Humano y Bien Común.
 
 XIV. Discriminación.- Cualquier distinción, exclusión, restricción que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y las libertades fundamentales en la esfera familiar, social, comunitaria, cultural, laboral, política, económica o cualquier otra en que la persona mayor interactúe.
 
@@ -1099,9 +1101,11 @@ XII. Impulsar atención preferencial a la persona mayor y la adaptación estruct
 
 Los objetivos de la política municipal deberán ser congruentes con los que correspondan a la política nacional y estatal en la materia, atendiendo a las particularidades propias de cada municipio.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 79.
 
-Con el propósito de ampliar la cobertura y calidad en la atención, así como para el adecuado aprovechamiento en la asignación y aplicación de los recursos, la Secretaría de Desarrollo Social del Estado a través de sus Direcciones y unidades administrativas especializadas, propiciará la celebración de convenios de coordinación entre las dependencias y entidades de la administración pública federal, estatal y municipal y de concertación con organizaciones de la sociedad civil encargadas de operar programas o acciones de asistencia y defensa de los derechos de personas mayores.
+Con el propósito de ampliar la cobertura y calidad en la atención, así como para el adecuado aprovechamiento en la asignación y aplicación de los recursos, la Secretaría de Desarrollo Humano y Bien Común del Estado, a través de sus Direcciones y unidades administrativas especializadas, propiciará la celebración de convenios de coordinación entre las dependencias y entidades de la administración pública federal, estatal y municipal y de concertación con organizaciones de la sociedad civil encargadas de operar programas o acciones de asistencia y defensa de los derechos de personas mayores.
 
 ### CAPÍTULO V. DE LAS MODALIDADES DE LA ATENCIÓN
 
@@ -1549,7 +1553,9 @@ I. Una Asamblea integrada por quienes ocupen la titularidad:
 
 a. Del Poder Ejecutivo del Estado, quien lo presidirá.
 
-b. De la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+b) De la Secretaría de Desarrollo Humano y Bien Común.
 
 c. De la Secretaría de Educación y Deporte.
 
@@ -1567,7 +1573,9 @@ i. De la Comisión Estatal de los Derechos Humanos.
 
 La asamblea se integrará además por hasta diez integrantes de las organizaciones de la sociedad civil, en cuya designación se aplicará una cuota de género del cincuenta por ciento.
 
-II. Una Secretaría Técnica, cuyas funciones recaerán en la Dirección de Grupos Vulnerables y Prevención a la Discriminación de la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+II. Una Secretaría Técnica, cuyas funciones recaerán en la Dirección de Grupos Vulnerables y Prevención a la Discriminación de la Secretaría de Desarrollo Humano y Bien Común.
 
 III. Integrantes por invitación:
 
@@ -1812,3 +1820,55 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecinueve días del mes de julio del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
