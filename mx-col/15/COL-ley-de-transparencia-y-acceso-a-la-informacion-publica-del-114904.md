@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2021-03-13"
+last_updated: "2021-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 30 de mayo de 2016.
 
@@ -843,6 +843,10 @@ XII. Los empréstitos y deudas que contraigan, así como los bienes que enajenen
 
 XIII. Los anteproyectos de reglamentos y disposiciones administrativas de carácter general con anticipación a la fecha en que se pretendan publicar o someter a la consideración del Cabildo, salvo que su publicación pueda comprometer seriamente los efectos que se pretenda lograr o que se trate de situaciones de emergencia.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Los planes o programas de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo.
+
 ###### Artículo 34.
 
 Además de lo señalado en el artículo 29 del presente ordenamiento, el Tribunal Electoral del Estado deberá hacer pública en internet la siguiente información:
@@ -1070,6 +1074,34 @@ VIII. La información relativa a los procesos de selección de los consejos;
 IX. Resultado de las evaluaciones del cuerpo docente; y
 
 X. El listado de instituciones incorporadas y requisitos de incorporación.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 38 Bis.
+
+Además de lo señalado en el artículo 29 de la presente Ley, el Instituto de Pensiones de los Servidores Públicos del Estado de Colima deberá hacer pública en internet la siguiente información:
+
+I. La información financiera y presupuestaria que mensualmente apruebe el Consejo Directivo;
+
+II. Las resoluciones que acuerde el Consejo Directivo, en materia de otorgamiento de pensiones;
+
+III. La relación de pensiones otorgadas, denegadas, suspendidas, modificadas, revocadas y terminadas;
+
+IV. El otorgamiento, control y recuperación de los préstamos en los términos de la Ley de Pensiones de los Servidores Públicos del Estado de Colima;
+
+V. Las convocatorias a sesiones ordinarias y extraordinarias del Consejo Directivo;
+
+VI. Las resoluciones que acuerde el Consejo Directivo y que tengan repercusión en el fondo de Cuentas Institucionales;
+
+VII. Los resultados de auditorías externas que se practiquen al Instituto;
+
+VIII. Los resultados de las valuaciones actuariales del sistema de pensiones de acuerdo con la periodicidad con que estos hayan sido elaborados;
+
+IX. La relación de Entidades Públicas Patronales que tengan adeudos por concepto de aportaciones, cuotas y descuentos, a partir de la quincena inmediata siguiente al que éstos hayan sido exigibles, indicando el concepto, monto y número de quincenas que integran el adeudo;
+
+X. La transmisión de las sesiones del Consejo Directivo en vivo a través de su página oficial, almacenando en la misma, las videograbaciones que se susciten de la sesión para que puedan ser consultadas por los interesados; salvo los casos de excepción previstos en la Ley;
+
+XI. Cualquier otra que a juicio del Consejo Directivo deba de ser publicada en beneficio de los afiliados y pensionados.
 
 ###### Artículo 39.
 
@@ -2970,3 +3002,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las dependencias que integran la administración pública centralizada, así como las dependencias insertas en el presente decreto, adecuarán sus disposiciones reglamentarias, en atención a las obligaciones comunes de los sujetos obligados establecidas en la Ley de Transparencia y Acceso a la información Pública del Estado de Colima, dentro de los 90 días naturales siguientes a la aprobación del presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 484.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 76 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA; SE DEROGAN LOS ARTÍCULOS 77 Y 78, DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 33 Y EL ARTÍCULO 38 BIS, AMBOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- Los Ayuntamientos deberán evaluar y revisar sus planes o programas de desarrollo urbano en un lapso no mayor a 180 días contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Dentro de un plazo no mayor a 30 días naturales, los ayuntamientos deberán incluir en su portal de transparencia los planes o programas de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo que se encuentren vigentes.
+
+CUARTO.- El Instituto de Pensiones de los Servidores Públicos del Estado de Colima dentro de un plazo no mayor a 10 días hábiles contados a partir de la entrada en vigor del presente decreto deberá realizar las acciones necesarias para cabal cumplimiento a lo dispuesto en el presente decreto.
