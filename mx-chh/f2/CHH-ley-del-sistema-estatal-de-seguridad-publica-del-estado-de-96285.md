@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2021-06-09"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -417,11 +419,13 @@ IV. Ser de reconocida capacidad y probidad y contar con, por lo menos, cinco añ
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Secretaría General de Gobierno, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la presente Ley y demás disposiciones aplicables.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Fiscalía General del Estado, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la presente Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 El personal de confianza de las unidades administrativas del Secretariado Ejecutivo, incluso sus titulares y de las dependencias que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo, se considerará personal de seguridad pública y será de libre designación y remoción; asimismo, se sujetará a los procesos de evaluación de control de confianza y de certificación.
 
@@ -1679,7 +1683,15 @@ III. Proponer las etapas, niveles de escolaridad y grados académicos de la Prof
 
 IV. Proponer la celebración de convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con el objeto de brindar formación académica de excelencia a los Integrantes.
 
-V. Las demás que establezcan otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. Instrumentar e impulsar la capacitación en las instituciones públicas y privadas, respecto a la activación y desarrollo del Código Adam.
+
+La capacitación deberá llevar un enfoque integral, transversal y con perspectiva de derechos humanos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Las demás que establezcan otras disposiciones aplicables.
 
 ### CAPÍTULO XVI. DE LAS CATEGORÍAS PARA AGENTES DEL MINISTERIO PÚBLICO
 
@@ -1997,9 +2009,9 @@ IV. Escala Básica
 
 a) Policía
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Secretaría y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en las fracciones III, incisos b) y c) y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
+Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Fiscalía General del Estado, y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en las fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -3029,11 +3041,11 @@ El Registro de Información Penitenciaria es la base de datos que contiene, admi
 
 La base de datos del Registro de Información Penitenciaria deberá contener, cuando menos, el reporte de la ficha de identificación personal de cada interno, con fotografía, huellas decadactilares, registro de ADN, estudios técnicos interdisciplinarios, datos de procesos penales y demás información necesaria para la integración del Registro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 240.
 
-El Registro de Información Penitenciaria será administrado por la Secretaría y desarrollará las siguientes funciones:
+El Registro de Información Penitenciaria será administrado por la Fiscalía General y desarrollará las siguientes funciones:
 
 I. Almacenar, concentrar, conservar y mantener actualizada la información relativa a procesados y sentenciados a que se refiere el artículo anterior, incluyendo características criminales, medios de identificación, recursos y modos de operación.
 
@@ -3041,15 +3053,15 @@ II. Enviar de manera permanente al Sistema Único de Información Criminal, la i
 
 III. Diseñar e instrumentar la estadística penitenciaria relativa a los procesados y sentenciados, por razón del fuero, género, ingresos y egresos, delito, origen étnico, lugar de nacimiento, municipio y estado a que pertenezcan, lugar en que sucedieron los hechos por los que fue procesado o sentenciado y niveles de escolaridad, entre otros.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Las demás que le establezcan otras disposiciones legales o la persona titular de la Secretaría.
+IV. Las demás que le establezcan otras disposiciones legales o la persona titular de la Fiscalía General.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 241.
 
-La Secretaría dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Información Penitenciaria.
+La persona titular de la Fiscalía General dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Información Penitenciaria.
 
 ###### Artículo 242.
 
@@ -3383,7 +3395,9 @@ También serán responsables los superiores que dieron las órdenes ilícitas.
 
 Sin perjuicio de lo dispuesto en la Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado de Chihuahua, el Estado y los municipios, en el ámbito de sus atribuciones, deberán establecer un servicio de localización de personas y bienes que promueva la colaboración y participación ciudadana.
 
-Para el caso de la sustracción de menores, deberán implementar sistemas de alerta y protocolos de acción inmediata para su búsqueda y localización, en el que coadyuven con las Instituciones de Seguridad Pública las corporaciones de emergencia, medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Para el caso de personas desaparecidas o no localizadas, deberán implementar sistemas de alerta y protocolos de acción inmediata para su búsqueda y localización, de acuerdo al Código Adam y el Protocolo Homologado de Búsqueda, en el que participarán las Instituciones de Seguridad Pública, corporaciones de emergencia, y podrán coadyuvar medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general.
 
 ###### Artículo 292.
 
@@ -4008,3 +4022,85 @@ P.O. 9 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO N° LXVI/RFLYC/0749/2020 IX P.E".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1037/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 180 días naturales posteriores a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, dentro del plazo de 30 días hábiles posteriores a la publicación del presente Decreto, deberá conformar una comisión especial para coadyuvar en la elaboración del Código Adam; integrada cuando menos por:
+
+I.- La Comisión Local de Búsqueda.
+
+II.- Familiares de personas desaparecidas o no localizadas.
+
+III.- Organizaciones no gubernamentales involucradas en la búsqueda y localización de personas.
+
+IV.- Las personas administradoras, gerenciales, poseedoras, arrendatarias o propietarias de inmuebles e instalaciones fijas y móviles de las dependencias, entidades, instituciones, organismos, industrias o empresas pertenecientes a los sectores público, privado y social.
+
+V.- La Coordinación Estatal de Protección Civil.
+
+VI.- El H. Congreso del Estado de Chihuahua.
+
+VIII.- Demás personal que considere.
+
+Para tales efectos, emitirá una convocatoria que será publicada en los principales medios de comunicación del Estado, así como en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, dentro del plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, deberá publicar el Código Adam.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de (sic) Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
