@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2020-08-22"
+last_updated: "2021-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -75,7 +75,9 @@ I. Constitución Federal: Constitución Política de los Estados Unidos Mexicano
 
 II. Constitución Estatal: Constitución Política del Estado Libre y Soberano de Colima;
 
-III. Juez: Juez de Primera Instancia o de Menor Cuantía del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. Juez: Juez de Primera Instancia, de los Tribunales Laborales o de Menor Cuantía del Poder Judicial del Estado;
 
 IV. Órgano Resolutor: órgano encargado de resolver el procedimiento disciplinario para imponer sanciones por faltas de los servidores públicos del Poder Judicial del Estado, y puede tener este carácter el Pleno del Supremo Tribunal de Justicia, en los términos de esta Ley;
 
@@ -85,9 +87,9 @@ VI. Personal Administrativo: servidores públicos que desempeñen funciones dive
 
 VII. Personal del Supremo Tribunal: servidores públicos adscritos o comisionados al Pleno, Presidencia o Salas del Supremo Tribunal de Justicia, con excepción de Magistrados;
 
-VIII. Personal de Confianza: Secretario General de Acuerdos, Oficial Mayor, Visitadores, Secretarios Técnicos, Directores y titulares de las (sic) órganos administrativos, Administradores, Jefes, Jefes de las Oficinas de Servicios Comunes, Coordinadores; Jueces, Proyectistas, Secretarios de Acuerdos, Secretarios de Toma de Actas, Secretarios de Causas y Atención, Secretarios Actuarios, Notificadores, Mediadores, Conciliadores, Auxiliares, Oficiales y Operadores, los que expresamente señale la presente Ley, y los que con tal categoría se determinen al crearse la plaza correspondiente.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-Son funciones de confianza las de dirección, inspección, vigilancia, supervisión, asesoría y fiscalización, cuando tengan carácter general, y las que se relacionen directamente con las anteriores, con servicios personales, así como el manejo de fondos, valores o datos de estricta confidencialidad; las marcadas en los artículos 6 y 7 de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, así como las que determine el Pleno del Tribunal que no contravengan lo anterior;
+VIII. Personal de Confianza: Secretario General de Acuerdos, Oficial Mayor, Visitadores, Secretarios Técnicos, Directores y titulares de las (sic) órganos administrativos, Administradores, Jefes, Jefes de las Oficinas de Servicios Comunes, Coordinadores; Jueces, Proyectistas, Secretarios Instructores, Secretarios de Acuerdos, Secretarios de Toma de Actas, Secretarios de Causas y Atención, Gestores judiciales, Secretarios Actuarios, Notificadores, Mediadores, Conciliadores, Auxiliares, Oficiales, Operadores y los que expresamente señale la presente Ley, y los que con tal categoría se determinen al crearse la plaza correspondiente.
 
 IX. Personal de los Juzgados: servidores públicos adscritos a los Juzgados con excepción del Juez;
 
@@ -127,11 +129,17 @@ V. Los Tribunales de Enjuiciamiento;
 
 VI. Los Juzgados de Ejecución de Penas y Medidas de Seguridad;
 
-VII. Los Juzgados de Menor Cuantía;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. El Centro Estatal de Justicia Alternativa; y
+VII. Los Tribunales Laborales;
 
-IX. Los demás órganos auxiliares de la administración de justicia en los términos que establezcan las leyes.
+VIII. Los Juzgados de Menor Cuantía;
+
+IX. El Centro de Justicia Alternativa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+X. Los demás órganos auxiliares de la administración de justicia en los términos que establezcan las leyes.
 
 ###### Artículo 5.
 
@@ -2715,11 +2723,705 @@ X. (DEROGADA, P.O. 1 DE MARZO DE 2016)
 
 XI. Las demás que establezca la presente Ley, los reglamentos, o determine el Pleno del Tribunal.
 
-### Capítulo I. De las Áreas Auxiliares
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo V. Del Sistema de Justicia Laboral
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Primera. De la competencia, denominación y funcionamiento
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Bis.
+
+Sistema de Justicia Laboral.
+
+El Sistema de Justicia Laboral previsto en la Constitución Federal, Constitución Estatal y la Ley Federal del Trabajo se ejercerá por:
+
+I. Jueces Laborales Ordinarios; y
+
+II. Jueces Laborales Auxiliares y de Ejecución.
+
+Los órganos jurisdiccionales en materia laboral serán denominados Tribunales Laborales y tendrán competencia para conocer y resolver los conflictos de trabajo que se susciten entre trabajadores y patrones, sólo entre aquellos o sólo entre éstos, derivado de las relaciones de trabajo o de hechos relacionados con ellas y de acuerdo con su competencia establecida en la Ley Federal del Trabajo.
+
+En materia laboral, los procedimientos serán uniinstanciales.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Ter.
+
+Organización operativa.
+
+La administración y operatividad del Sistema de Justicia Laboral corresponderá a la Coordinación General de Administración.
+
+La Coordinación General de Administración fungirá como un órgano auxiliar del Pleno del Tribunal en las funciones de dirección, planeación, organización, administración, vigilancia, así como de transparencia y acceso a la información en los términos que establezca la presente Ley, los reglamentos y los lineamientos que para tal efecto emitan el Pleno del Tribunal para la adecuada operatividad y eficacia del Sistema de Justicia Laboral.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Quáter.
+
+Administración de las Sedes Judiciales.
+
+La planeación, organización, dirección, control de gestión y funcionamiento administrativo de las sedes judiciales estará a cargo de un Coordinador Administrativo de Sede.
+
+Además, el Coordinador Administrativo de Sede tendrá bajo su responsabilidad la programación, coordinación y control de la agenda del Tribunal Laboral o Tribunales Laborales de su adscripción; la administración de las salas de audiencia; la recepción, registro, resguardo y conservación de los bienes y valores que se encuentren a disposición de los Tribunales Laborales con motivo de la tramitación de los asuntos; así como, la supervisión de los servicios de mantenimiento, limpieza y vigilancia de las sedes judiciales.
+
+El personal que dependerá, para efectos administrativos, del Coordinador Administrativo de Sede será el siguiente:
+
+I. Proyectistas jurídicos;
+
+II. Secretarios Instructores;
+
+III. Actuarias;
+
+IV. Gestores Judiciales;
+
+V. Operador Audiovisual y Soporte Técnico;
+
+VI. Oficial de Partes y Atención al Público;
+
+VII. Oficial de Archivo y Valores;
+
+VIII. Auxiliar de Servicios Generales; y
+
+IX. Demás personal que determine el Pleno del Tribunal.
+
+El Pleno del Tribunal determinará, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal, el número de plazas que deberán crearse en cada sede judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Quinquies.
+
+Designación de personal.
+
+El Pleno del Tribunal designará al personal de carrera judicial y a los demás puestos de administración y auxiliares, en los términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Sexies.
+
+Lineamientos de actuación y procedimientos.
+
+El funcionariado público adscrito a los Tribunales Laborales actuará en términos de lo previsto en las disposiciones constitucionales, legales y reglamentarias, así como, manuales de actuación y demás determinaciones que con carácter general emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Septies.
+
+Actuaciones procesales.
+
+Todas las actuaciones procesales serán autorizadas por el Juez, a excepción de las diligencias encomendadas al Secretario Instructor o al Actuario.
+
+Para producir fe, las audiencias se registrarán por medios electrónicos o cualquier otro idóneo a consideración del Juez, siempre que permita garantizar la fidelidad e integridad de la información, conservación y reproducción de su contenido, así como, el acceso a los mismos a quienes de acuerdo con la Ley, tuvieren derecho a ella.
+
+La certificación de las actas que se lleven a través del Sistema Digital del Tribunal Laboral deberá realizarla el Secretario Instructor correspondiente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Segunda. De los Jueces del Sistema de Justicia Laboral
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Octies.
+
+Requisitos, duración y ratificación del cargo de Juez Laboral.
+
+Para ser Juez Laboral se deberá cumplir con los requisitos previstos en el artículo 50 de esta Ley y sujetarse a las previsiones del Sistema de Carrera Judicial y de los Concursos de Oposición de la presente Ley.
+
+Respecto a la duración y ratificación, los Jueces Laborales atenderán las disposiciones previstas en los artículos 51 y 52 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Nonies.
+
+Atribuciones de los Jueces Laborales Ordinarios.
+
+Son atribuciones de los Jueces Laborales Ordinarios, las siguientes:
+
+I. Conocer y resolver los conflictos de trabajo que se susciten entre trabajadores y patrones, sólo entre aquéllos o sólo entre éstos, derivado de las relaciones de trabajo o de hechos relacionados con ellas, de acuerdo con la competencia establecida en la Ley Federal del Trabajo;
+
+II. Conocer de los procedimientos para procesales o voluntarios;
+
+III. Promover la conciliación entre las partes siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros;
+
+IV. Resolver los recursos de reconsideración;
+
+V. Subsanar omisiones o errores en que hubiere incurrido, o en su caso, precisar algún punto, hasta antes de dictar sentencia;
+
+VI. Aclarar, en su caso, las sentencias que haya emitido para corregir errores o precisar algún punto, así como errores de mención de fecha, nombre, denominación o de cálculo;
+
+VII. Ordenar exhortos y requisitorias, así como desahogar aquellos actos por los cuales sea exhortado o requerido, con apego a sus facultades y normatividad vigente; y
+
+VIII. Las previstas en la Constitución Federal, la Ley Federal del Trabajo y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 149 Decies.
+
+Atribuciones de los Jueces Laborales Auxiliares y de Ejecución.
+
+Son atribuciones de los Jueces Laborales Auxiliares y de Ejecución, las siguientes:
+
+I. Conocer y resolver de los conflictos colectivos de naturaleza jurídica que no tengan una tramitación especial en la Ley Federal del Trabajo y que deban tramitarse con las disposiciones del procedimiento ordinario;
+
+II. Conocer y resolver los conflictos colectivos de naturaleza económica;
+
+III. Conocer y resolver los procedimientos especiales colectivos;
+
+IV. Conocer y resolver sobre el procedimiento de huelga;
+
+V. Ejecutar las sentencias dictadas, y en su caso, ordenar todas aquellas medidas necesarias para lograr el cumplimiento eficaz de la misma; y
+
+VI. Las previstas en la Constitución Federal, la Ley Federal del Trabajo y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Undecies. Atribuciones complementarias de los Jueces Laborales Ordinarios y de los Laborales Auxiliares y de Ejecución Laboral.
+
+Son atribuciones complementarias de los Jueces Laborales Ordinarios y Jueces Laborales Auxiliares y de Ejecución Laboral, las siguientes:
+
+I. Fomentar, en todo momento, la conciliación como la vía privilegiada para la solución del conflicto;
+
+II. Presidir y dirigir las audiencias judiciales, así como, emitir las decisiones que en ellas corresponda;
+
+III. Dirigir y moderar el debate, por lo que contará con las más amplias facultades para conducir el procedimiento;
+
+IV. Autorizar todas las actuaciones procesales, a excepción hecha de las diligencias encomendadas a otros funcionarios;
+
+V. Ordenar el cumplimiento de exhortos y requisitorias de otras autoridades, cuando le corresponda;
+
+VI. Emplear, cualquiera de los medios de apremio necesarios, para asegurar el cumplimiento de sus resoluciones;
+
+VII. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la legislación aplicable;
+
+VIII. Dictar, elaborar, dar lectura y explicar las sentencias en los asuntos de su conocimiento; e,
+
+IX. Imponer correcciones disciplinarias para mantener el buen orden en el desarrollo de las audiencias o diligencias.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Tercera. De la administración general del Sistema de Justicia Laboral
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Duodecies. Requisitos para ocupar el cargo de Coordinador General de Administración.
+
+Para ser nombrado Coordinador General de Administración se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional de licenciatura en derecho, administración pública, administración de empresas, o carreras afines;
+
+III. Tener experiencia mínima de cinco años en el ejercicio de la profesión, contados a partir de expedida su cédula profesional;
+
+IV. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+V. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Terdecies. Atribuciones del Coordinador General de Administración.
+
+Son atribuciones del Coordinador General de Administración, las siguientes:
+
+I. Coordinar las labores administrativas de las sedes judiciales del Sistema de Justicia Laboral;
+
+II. Elaborar junto con los Coordinadores Administrativos de las sedes judiciales las políticas, manuales, procedimientos y controles administrativos, a fin de optimizar y garantizar el funcionamiento de los Tribunales Laborales y presentarlos al Pleno del Tribunal para su aprobación;
+
+III. Proponer al Pleno del Tribunal para su aprobación, las bases y lineamientos para la difusión de las metas, estrategias, objetivos, acciones y proyectos derivados de la operación del Sistema de Justicia Laboral;
+
+IV. Coordinar la implementación de las políticas, procedimientos y controles administrativos que emita el Pleno del Tribunal;
+
+V. Supervisar el desempeño del funcionariado público a su cargo, en el ejercicio de sus funciones;
+
+VI. Inspeccionar la conservación y funcionalidad de los bienes muebles e inmuebles asignados a los Tribunales Laborales y las sedes judiciales, así como, realizar las gestiones necesarias ante la Oficialía Mayor, a efecto de cubrir los requerimientos que surjan;
+
+VII. Vigilar mediante el sistema de gestión y, en la esfera administrativa, la aplicación de los criterios y lineamientos de programación de audiencias, el rol de turnos y la distribución de asuntos entre los Jueces, así como implementar las medidas necesarias para corregir las incidencias que se presenten;
+
+VIII. Supervisar que los Coordinadores Administrativos de las sedes judiciales cumplan con mantener el cuidado y la preparación de las salas de audiencia y Tribunales Laborales, a efecto de que se encuentren en condiciones óptimas para su uso;
+
+IX. Remitir al Pleno del Tribunal los informes estadísticos sobre los trámites gestionados en los Tribunales Laborales, en términos de los reglamentos respectivos o conforme a las determinaciones que emita el Pleno del Tribunal;
+
+X. Supervisar la captura, registro y resguardo oportuno de la información y actos procesales en el sistema de gestión, así como su manejo eficiente; y en su caso, emitir las observaciones necesarias y las medidas de corrección oportunas a las sedes judiciales;
+
+XI. Verificar, en los casos en que se exhiban cantidades en efectivo en alguna de las sedes administrativas, que se depositen en la unidad correspondiente para su resguardo;
+
+XII. Revisar la debida conservación, registro y resguardo de los bienes y valores que se encuentren a disposición de las sedes judiciales, con motivo de la tramitación de los asuntos y emitir recomendaciones a las Coordinaciones Administrativas de las sedes judiciales, a fin de efectuar las correcciones debidas;
+
+XIII. Elaborar el Plan Operativo Anual de Gestión Laboral para las sedes judiciales;
+
+XIV. Diseñar y presentar al Pleno del Tribunal los indicadores estadísticos y de control de gestión necesarios para medir y evaluar los resultados, así como, el impacto de la implementación y operación del Sistema de Justicia Laboral;
+
+XV. Proponer al Pleno del Tribunal las modificaciones o actualizaciones a los modelos de competencia e indicadores del desempeño del funcionariado público que opera en las sedes judiciales;
+
+XVI. Presentar propuestas relacionadas con la gestión del Sistema Laboral al Pleno del Tribunal, con el propósito de garantizar la constante y oportuna automatización de los procesos operativos;
+
+XVII. Presentar ante el Pleno del Tribunal las necesidades detectadas en las sedes judiciales, a efecto de que sean tomados en cuenta para la elaboración del anteproyecto del presupuesto de egresos correspondiente;
+
+XVIII. Coadyuvar con el Centro de Estudios Judiciales en la elaboración de un plan anual para capacitación y actualización del personal jurisdiccional y administrativo que operen en las sedes judiciales; y
+
+XIX. Ejercer las demás atribuciones que establezca la presente Ley, los reglamentos y Acuerdos que determine el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Quaterdecies. Requisitos para ser nombrado Coordinador Administrativo de Informática, Audio y Video.
+
+Para ser nombrado Coordinador de Informática, Audio y Video se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional de licenciatura en informática, ingeniería en sistemas computacionales o carreras afines;
+
+III. Contar con experiencia mínima de tres años en ejercicio de la profesión contados a partir de la expedición de la cédula profesional;
+
+IV. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+V. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Quindecies. Atribuciones del Coordinador Administrativo de Informática, Audio y Video.
+
+Son atribuciones del Coordinador Administrativo de Informática, Audio y Video, las siguientes:
+
+I. Supervisar el óptimo estado de los sistemas de grabación, audio y video en las salas de cada sede judicial para el desarrollo de las audiencias;
+
+II. Garantizar que los sistemas de control y registro se encuentren en buenas condiciones y estén siempre disponibles;
+
+III. Supervisar que la grabación de las audiencias se realice en tiempo y forma;
+
+IV. Colaborar en el desarrollo y la implementación de los módulos para el Sistema de Gestión Judicial y para el de control de unidad de almacenamiento;
+
+V. Colaborar en la administración de la base de datos del Sistema de Gestión Judicial;
+
+VI. Auxiliar al Coordinador General Administrativo en las actividades inherentes al área de informática;
+
+VII. Coadyuvar a la Dirección de Tecnologías de la Información y Comunicaciones en la actualización del inventario del equipo de cómputo de los órganos y dependencias del Sistema de Justicia Laboral;
+
+VIII. Elaborar el programa anual de mantenimiento preventivo y correctivo a los equipos de cómputo de la sede judicial; y
+
+IX. Ejercer las demás atribuciones que establezca la presente Ley, los reglamentos y Acuerdos que determine el Pleno del Tribunal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Cuarta. De la administración de Sede Judicial
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Sexdecies. Requisitos para ocupar el cargo de Coordinador Administrativo de Sede Judicial.
+
+Para ser nombrado Coordinador Administrativo de sede judicial se requiere:
+
+I. I. (SIC) Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional de licenciatura en derecho, administración de empresas, administración pública, o carreras afines;
+
+III. Tener experiencia mínima de tres años en el ejercicio de la profesión, contada a partir de la expedición de su cédula profesional;
+
+IV. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+V. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Septendecies. Atribuciones del Coordinador Administrativo de Sede Judicial.
+
+Son atribuciones del Coordinador Administrativo de sede judicial, las siguientes:
+
+I. Dirigir las labores administrativas para el debido funcionamiento de la sede judicial de su adscripción;
+
+II. Supervisar el desempeño del funcionariado público a su cargo;
+
+III. Llevar el manejo administrativo y la custodia de las salas de audiencias e instalaciones a fin de que se encuentren en condiciones óptimas de uso;
+
+IV. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados, debiendo poner en inmediato conocimiento de la Oficialía Mayor, así como del Coordinador General de Administración sobre cualquier requerimiento o necesidad que surja;
+
+V. Supervisar que se remita oportunamente el efectivo que los Tribunales Laborales reciban, a la Oficina de Depósito y Consignaciones, para la elaboración de la cédula respectiva;
+
+VI. Tener a su cargo el archivo de la sede judicial;
+
+VII. Remitir al Archivo General los asuntos concluidos;
+
+VIII. Controlar los registros de los asuntos tramitados en la sede judicial;
+
+IX. Determinar el diseño de las rutas por actuario para la práctica efectiva y oportuna de las notificaciones y diligencias de cada día;
+
+X. Verificar la debida integración de los expedientes digitalizados;
+
+XI. En caso de notoria urgencia, autorizar las licencias económicas hasta por tres días al personal a su cargo;
+
+XII. Proporcionar oportunamente al Pleno del Tribunal y a las autoridades federales o estatales los informes que le soliciten en los términos que determinen las leyes, el reglamento y los Acuerdos que para el efecto emita el Pleno del Tribunal;
+
+XIII. Controlar la agenda de las audiencias que vayan a efectuarse, indicándoles al personal con la anticipación debida, el día, la hora y la sala asignada;
+
+XIV. Organizar semanalmente el rol del personal jurisdiccional y administrativo, y hacerlo del conocimiento a más tardar el viernes de cada semana anterior;
+
+XV. Supervisar la distribución de los asuntos entre los Jueces;
+
+XVI. Verificar que las audiencias queden registradas en los medios instrumentados para tal efecto;
+
+XVII. Coordinar la ejecución adecuada de las tareas logísticas y administrativas para la celebración y desarrollo de las audiencias del Tribunal Laboral;
+
+XVIII. Supervisar los libros de informes;
+
+XIX. Turnar la correspondencia respectiva al Juez que corresponda el despacho del asunto;
+
+XX. Tramitar la correspondencia administrativa de la sede judicial;
+
+XXI. Elaborar el programa operativo anual de la sede judicial; y
+
+XXII. Ejercer las demás atribuciones que establezca la presente Ley, los reglamentos y los Acuerdos que determine el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Octodecies. Requisitos para ocupar el cargo de Proyectista Jurídico.
+
+Para ser nombrado Proyectista Jurídico se requiere:
+
+I. I. (SIC) Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional de licenciatura en derecho;
+
+III. Gozar de buena reputación y no haber obtenido condena por delito doloso;
+
+IV. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal; y
+
+V. Someterse al procedimiento de selección previsto en la presente Ley para ocupar los cargos de carrera judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Novodecies. Atribuciones del Proyectista Jurídico.
+
+Son atribuciones del Proyectista Jurídico, las siguientes:
+
+I. Atender los juicios de amparo que se promuevan en contra de las resoluciones emitidas por el Tribunal Laboral;
+
+II. Guardar bajo su más estricta responsabilidad los expedientes que reciban para su estudio y proyecto;
+
+III. Analizar y preparar con la debida anticipación los proyectos de resolución de los asuntos asignados por el Juez Laboral;
+
+IV. Entregar el proyecto de resolución en el término que al efecto se le hubiere fijado; y
+
+V. Ejercer las demás atribuciones que establezca la presente Ley, los reglamentos y los Acuerdos que determine el Pleno del Tribunal, así como, las que le sean asignadas por el Juez y el Coordinador Administrativo de sede judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Vicies. Requisitos para ocupar el cargo de Secretario Instructor.
+
+Para ser nombrado Secretario Instructor se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título de licenciatura en derecho y cédula profesional;
+
+III. Contar con experiencia mínima de tres años, contados a partir de la expedición de la cédula profesional;
+
+IV. Gozar de buena reputación y no haber obtenido condena por delito doloso;
+
+V. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal; y
+
+VI. Someterse al procedimiento de selección previsto en la presente Ley para ocupar los cargos de carrera judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Unvicies. Atribuciones del Secretario Instructor.
+
+Son atribuciones del Secretario Instructor, las siguientes:
+
+I. Admitir o prevenir la demanda y, en su caso, subsanarla conforme a la legislación laboral;
+
+II. Recibir las promociones y documentos que le sean turnados;
+
+III. Dar trámite a las promociones, exhortos y requisitorias que ingresen a la sede judicial;
+
+IV. Dictar los acuerdos substanciadores de la etapa escrita en los procedimientos de competencia del Tribunal Laboral;
+
+V. Elaborar proyectos de acuerdos para dar respuesta a las solicitudes presentadas por las partes y oficios;
+
+VI. Ordenar el cumplimiento de exhortos y requisitorias de otras autoridades, cuando le corresponda;
+
+VII. Elaborar proyectos de acta mínima;
+
+VIII. Integrar el expediente;
+
+IX. Ordenar las vistas, traslados y notificaciones correspondientes en la etapa escrita;
+
+X. Turnar los acuerdos y oficios a la Coordinación Administrativa de Sede para su notificación y debido cumplimiento;
+
+XI. Hacer constar en autos la fecha de publicación del boletín judicial o, en su caso las listas de notificaciones por estrados, así como la fijación de las mismas;
+
+XII. Autorizar las listas de notificaciones;
+
+XIII. Verificar que las diligencias de notificaciones y citaciones se hayan realizado en tiempo y forma conforme a la Ley, y en su caso, certificar las notificaciones personales se practicaron debidamente;
+
+XIV. Tomar las protestas correspondientes, con los apercibimientos de ley, a las partes y terceros que intervengan en el desarrollo de las audiencias;
+
+XV. Certificar las audiencias identificando el medio de registro de la misma con el número de expediente correspondiente, así como, las actas que se lleven a través del Sistema Digital del Tribunal Laboral;
+
+XVI. Usar y guardar el sello del Tribunal Laboral;
+
+XVII. Verificar que las constancias de notificaciones y citaciones sean agregadas a las causas de manera digital;
+
+XVIII. Integrar el legajo de actuaciones, así como los archivos de audio y video para la tramitación del recurso de reconsideración;
+
+XIX. Dar trámite a las incompetencias;
+
+XX. Decretar las providencias cautelares;
+
+XXI. Solicitar al Operador Audiovisual y de Soporte Técnico, las copias de audio y video solicitadas por escrito por las partes;
+
+XXII. Mantener el archivo de los documentos que ingresen al área;
+
+XXIII. Firmar las resoluciones que así lo ameriten, el día en que sean emitidas;
+
+XXIV. Asentar en los expedientes las certificaciones y demás razones que señale la Ley o el Juez le ordene;
+
+XXV. Elaborar los mandatos judiciales que se generan y ordenan en las audiencias, y expedir copias de las actuaciones escritas u orales en las correspondientes unidades de almacenamiento informático; y
+
+XXVI. Ejercer las demás atribuciones que establezca la presente Ley, los reglamentos y los Acuerdos que determine el Pleno del Tribunal, así como, las que le sean asignadas por el Juez y el Coordinador Administrativo de sede judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Duovicies. Requisitos para ser nombrado Actuario.
+
+Para ser nombrado Actuario se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Tener título y cédula profesional de licenciatura en derecho;
+
+III. Gozar de buena reputación y no haber obtenido condena por delito doloso;
+
+IV. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal; y
+
+V. Someterse al procedimiento de selección previsto en la presente Ley para ocupar los cargos de carrera judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Tervicies. Atribuciones del Actuario.
+
+Son atribuciones del Actuario, las siguientes:
+
+I. Llevar a cabo los emplazamientos, las notificaciones y citaciones en los asuntos, observando las formalidades legales, así como la entrega de correspondencia a las partes interesadas;
+
+II. Agotar el trabajo encomendado dentro de los plazos que señale la Ley Federal del Trabajo;
+
+III. Asentar en las actas, de manera clara y veraz las circunstancias de cada diligencia, así como las razones que deban ser conocidas por el Coordinador Administrativo de sede;
+
+IV. Informar al Coordinador Administrativo de sede sobre las notificaciones realizadas y en su caso, dar las razones de las que no fue posible llevar a cabo mediante reportes de trabajo;
+
+V. Recibir diariamente los documentos de notificación y anexos, ordenándolas según la ruta que deban seguir en la zona que le fue asignada;
+
+VI. Elaborar y fijar en un lugar visible la lista de los acuerdos y resoluciones pronunciadas;
+
+VII. Asentar en los expedientes la razón de las notificaciones respectivas;
+
+VIII. Dar fe del desahogo de pruebas, en los casos que proceda y por comisión o autorización del Juez;
+
+IX. Realizar las diligencias de embargo observando las formalidades legales;
+
+X. Resolver las cuestiones que susciten en la diligencia de embargo;
+
+XI. Poner a disposición del Tribunal Laboral, el dinero o valores embargados; y
+
+XII. Ejercer las demás atribuciones que establezca la presente Ley, los reglamentos y los Acuerdos que determine el Pleno del Tribunal, así como, las que le sean asignadas por el Juez y el Coordinador Administrativo de sede judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Quatervicies. Requisitos para ser nombrado Gestor Judicial.
+
+Para ser designado Gestor Judicial se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Tener título y cédula profesional de licenciatura en derecho;
+
+III. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+IV. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Quinvicies. Atribuciones del Gestor Judicial.
+
+Son atribuciones del Gestor Judicial, las siguientes:
+
+I. Asistir al Juez en el desarrollo de las audiencias en los términos que determine el reglamento correspondiente;
+
+II. Auxiliar en la elaboración de proyectos de acta mínima;
+
+III. Ingresar los datos de los expedientes al Sistema Informático de Gestión Laboral de la sede judicial;
+
+IV. Capturar la información que se genera en audiencias en el Sistema Informático de Gestión Judicial; y
+
+V. Las demás que determine el reglamento, así como, las que encomienden el Juez y el Coordinador Administrativo de sede.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Sexvicies. Atribuciones del Operador Audiovisual y Soporte Técnico.
+
+Son atribuciones del Operador Audiovisual y Soporte Técnico, las siguientes:
+
+I. Verificar que el lugar donde se va a realizar la audiencia tenga las condiciones adecuadas para que se lleve a cabo la misma;
+
+II. Preparar, verificar y configurar los equipos de videograbación, audio e interconexión antes de las audiencias presenciales y remotas;
+
+III. Grabar y estar atento a las actuaciones de las partes en cada audiencia para enfocar las cámaras a los lugares requeridos;
+
+IV. Respaldar los registros de videograbación en los medios electrónicos, ópticos y magnéticos adecuados, así como verificarlos;
+
+V. Proporcionar soporte técnico y mantenimiento al equipo de cómputo de la sede judicial;
+
+VI. Verificar que los equipos de audio y video tengan las condiciones que garanticen las grabaciones de las audiencias;
+
+VII. Registrar lo que corresponda en el Sistema de Gestión Judicial;
+
+VIII. Llevar a cabo el monitoreo de circuito cerrado de las instalaciones y del sistema de videovigilancia de la sede;
+
+IX. Solicitar al Coordinador Administrativo de Informática, Audio y Video, la sustitución o compra de equipos de grabación de audio y video para videograbar las audiencias, cuando las necesidades así lo requieran;
+
+X. Atender cualquier solicitud de soporte técnico de los Jueces en audiencia;
+
+XI. Resguardar y organizar los registros digitales de las audiencias celebradas y llevar una bitácora de las audiencias realizadas;
+
+XII. Auxiliar en la administración de las líneas telefónicas, así como de la red de voz y datos;
+
+XIII. Llevar a cabo los planes de mantenimiento preventivo para hardware y software que se programen para cualquiera de las instancias a las que se les proporciona servicio;
+
+XIV. Dar soporte necesario al sistema informático de gestión judicial como mantenimiento preventivo, correctivo y perfectivo; además de brindar soporte en sitio, telefónica o remotamente al usuario;
+
+XV. Proporcionar soporte técnico a los usuarios de la sede judicial;
+
+XVI. Rendir los informes que le sean requeridos por el Coordinador Administrativo Informática, Audio y Video; y
+
+XVII. Ejercer las demás funciones que asigne el Coordinador Administrativo de Informática, Audio y Video, así como el Coordinador Administrativo de sede.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Septvicies. Requisitos para ser nombrado Operador Audiovisual y Soporte Técnico.
+
+Para ser nombrado Operador Audiovisual y Soporte Técnico se requiere:
+
+I. I. (SIC) Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con licenciatura en informática, ingeniería en sistemas computacionales o carreras afines;
+
+III. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+IV. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Octovicies. Requisitos para ser nombrado Oficial de Partes y de Atención al Público.
+
+Para ser nombrado Oficial de Partes y Atención al Público se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional de licenciatura en derecho, en administración pública, o carreras afines;
+
+III. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+IV. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Novovicies. Atribuciones del Oficial de Partes y de Atención al Público.
+
+Son atribuciones del Oficial de Partes y Atención al Público, las siguientes:
+
+I. Apoyar y orientar al público en general;
+
+II. Llevar el control riguroso de promociones que ingresan;
+
+III. Recibir, verificar e ingresar las promociones al Sistema de Gestión Judicial derivadas de los expedientes que se instruyen en el Tribunal Laboral y acusar de recibido mediante el sello electrónico o con sello fechador;
+
+IV. Turnar en tiempo y forma las promociones recibidas a la Secretaría de Instrucción para el trámite correspondiente;
+
+V. Recibir y registrar la correspondencia distinta a los expedientes y turnarla al área correspondiente;
+
+VI. Brindar apoyo en el control, elaboración y distribución de la correspondencia;
+
+VII. Atender el conmutador y distribuir las llamadas;
+
+VIII. Proporcionar información, con respecto a la celebración de las audiencias, únicamente;
+
+IX. Apoyar en las labores de notificación que se realicen dentro de la sede judicial; y
+
+X. Las demás que establezca el reglamento, así como, las que le sean asignadas por el Juez y el Coordinador Administrativo de sede judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Tricies. Requisitos del Oficial de Archivo y Valores.
+
+Para ser nombrado Oficial de Archivo y Valores se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional de licenciatura en derecho, en administración pública, o carreras afines;
+
+III. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+IV. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Untricies. Atribuciones del Oficial de Archivo y Valores.
+
+Son atribuciones del Oficial de Archivo y Valores, las siguientes:
+
+I. Facilitar los expedientes a las partes;
+
+II. Llevar el control de los expedientes en existencia y los que se hayan remitido al Archivo Judicial;
+
+III. Hacer el trámite para remitir o solicitar devolución de los expedientes;
+
+IV. Reportar cualquier incidente que se presente por el manejo de los expedientes;
+
+V. Resguardar la información contenida en los expedientes;
+
+VI. Llevar el registro y conservar en resguardo los valores que sean puestos a disposición de los Tribunales Laborales, con motivo de la tramitación de los asuntos; y
+
+VII. Las demás que establezca el reglamento, así como, las que le sean asignadas por el Juez y el Coordinador Administrativo de sede judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Duotricies. Requisitos para ser nombrado Auxiliar de Servicios Generales.
+
+Para ser nombrado Auxiliar de Servicios Generales se requiere:
+
+I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Tener escolaridad mínima de bachillerato terminado o técnico administrativo;
+
+III. Gozar de buena reputación y no haber obtenido condena por delito doloso; y
+
+IV. Contar con las aptitudes y competencias que para el efecto emita el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 149 Tertricies. Atribuciones del Auxiliar de Servicios Generales.
+
+Son atribuciones del Auxiliar de Servicios Generales, las siguientes:
+
+I. Brindar servicios de mantenimiento y limpieza a las instalaciones de la sede judicial;
+
+II. Atender los requerimientos de instalaciones, mantenimiento de bienes muebles e inmuebles y de servicios generales que demande el funcionamiento de la sede judicial;
+
+III. Recibir y dar seguimiento a solicitudes de servicio;
+
+IV. Colaborar en la recepción de materiales y entrega de estos al área solicitante;
+
+V. Entregar y recoger correspondencia;
+
+VI. Efectuar las reparaciones menores de los bienes muebles e inmuebles que se encuentren a disposición de la sede judicial; y
+
+VII. Las demás que establezca el reglamento o le encomiende el Juez o el Coordinador Administrativo de sede.
 
 ## TÍTULO TERCERO. DE LAS ÁREAS AUXILIARES DEL PLENO DEL TRIBUNAL
 
-### Capítulo II. De la Oficialía Mayor
+### Capítulo I. De las Áreas Auxiliares
 
 ###### ARTÍCULO 150.
 
@@ -2747,7 +3449,7 @@ VII. Archivo Judicial; y
 
 VIII. Unidad de Igualdad de Género y Derechos Humanos.
 
-### Capítulo III. De la Dirección de Tecnologías de la Información y Comunicaciones
+### Capítulo II. De la Oficialía Mayor
 
 ###### Artículo 151.
 
@@ -2875,7 +3577,7 @@ V. Para la infraestructura y equipamiento de las instalaciones del Poder Judicia
 
 VI. Para otorgar estímulos económicos y sociales a la planta de servidores públicos del Poder Judicial en los términos que se establezcan en el Reglamento y acuerdos generales, hasta por un treinta por ciento de dicho fondo.
 
-### Capítulo IV. Del Departamento de Comunicación Social
+### Capítulo III. De la Dirección de Tecnologías de la Información y Comunicaciones
 
 ###### Artículo 159.
 
@@ -2951,7 +3653,7 @@ IV. De Soporte Técnico.
 
 El Reglamento determinará la integración, atribuciones, y requisitos para ocupar la titularidad de dichas áreas, así como el personal administrativo y subalterno que resulte necesario para el desempeño de sus atribuciones.
 
-### Capítulo V. Del Centro de Estudios Judiciales
+### Capítulo IV. Del Departamento de Comunicación Social
 
 ###### Artículo 162.
 
@@ -3005,7 +3707,7 @@ XIII. Gestionar los espacios pertinentes para que personal judicial acuda a entr
 
 XIV. Las demás que le confieran las leyes, reglamentos y le encomiende el Presidente.
 
-### Capítulo VI. De la Contraloría
+### Capítulo V. Del Centro de Estudios Judiciales
 
 ###### Artículo 164.
 
@@ -3015,7 +3717,7 @@ El Supremo Tribunal de Justicia contará con un Centro de Estudios Judiciales, e
 
 El Centro de Estudios Judiciales funcionará como lo determine el reglamento que al efecto expida el Supremo Tribunal de Justicia y contará con el personal docente y administrativo necesario para la ejecución de sus propios programas.
 
-### Capítulo VII. De la Unidad de Acceso a la Información Pública
+### Capítulo VI. De la Contraloría
 
 ###### Artículo 166.
 
@@ -3081,7 +3783,7 @@ XXV. Certificar constancias de las actuaciones que realicen en el ejercicio de s
 
 XXVI. Las demás que establezca la Ley, los reglamentos y el Pleno del Tribunal.
 
-### Capítulo VIII. Del Archivo Judicial
+### Capítulo VII. De la Unidad de Acceso a la Información Pública
 
 ###### Artículo 168.
 
@@ -3127,9 +3829,7 @@ Aplicaciones normativas complementarias en Materia de Transparencia.
 
 Las leyes de Transparencia, sus reglamentos, las de Datos Personales y sus reglamentos establecerán los procedimientos y limitaciones que pueden generarse como parte del Acceso a la Información Pública Gubernamental.
 
-### Capítulo IX. De la Unidad de Igualdad de Género y Derechos Humanos
-
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+### Capítulo VIII. Del Archivo Judicial
 
 ###### Artículo 172.
 
@@ -3181,7 +3881,9 @@ El Reglamento respectivo fijará la denominación de los puestos y las atribucio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### Capítulo I. Del Sistema de la Carrera Judicial
+### Capítulo IX. De la Unidad de Igualdad de Género y Derechos Humanos
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 177 Bis.
 
@@ -3223,7 +3925,7 @@ VIII. Las demás que determinen esta Ley, su Reglamento, otros ordenamientos apl
 
 ## TÍTULO CUARTO. DE LA CARRERA JUDICIAL
 
-### Capítulo II. De los Concursos de Oposición
+### Capítulo I. Del Sistema de la Carrera Judicial
 
 ###### Artículo 178.
 
@@ -3279,17 +3981,41 @@ La carrera judicial está integrada por las siguientes categorías:
 
 I. Juez de Primera Instancia;
 
-II. Juez de Menor Cuantía;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-III. Jefe de Causas y Atención de Sistema Acusatorio;
+II. Juez Laboral;
 
-IV. Secretario de toma de Actas del Sistema Acusatorio;
+(REUBICADA [N. DE E. ANTES FRACCIÓN II], P.O. 4 DE SEPTIEMBRE DE 2021)
 
-V. Secretario de Causas y Atención de Sistema Acusatorio;
+III. Juez de Menor Cuantía;
 
-VI. Secretario de Acuerdos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Secretario Actuario o Notificador.
+IV. Proyectista Jurídico;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN III], P.O. 4 DE SEPTIEMBRE DE 2021)
+
+V. Jefe de Causas y Atención de Sistema Acusatorio;
+
+> <small>(REFORMADA [REUBICADA N. DE E. ANTES FRACCIÓN IV], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Secretario de Toma de Actas del Sistema Acusatorio;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Secretario Instructor;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN V], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Secretario de Causas y Atención del Sistema Acusatorio;
+
+> <small>(ADICIONADA [n. de e. REUBICADA ANTES FRACCIÓN VI], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Secretario de Acuerdos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN VII], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+X. Secretario Actuario y Notificador.
 
 Los Secretarios de Acuerdos y Actuarios, podrán ser adscritos a las áreas y órganos jurisdiccionales de Menor Cuantía, de Primera Instancia y Salas del Supremo Tribunal, de conformidad con los requisitos que la presente Ley y sus reglamentos señalen para cada puesto.
 
@@ -3311,7 +4037,7 @@ El Pleno del Tribunal, establecerá, de acuerdo con su presupuesto y mediante di
 
 Para el otorgamiento de los estímulos se tomará en cuenta el desempeño en el ejercicio de la función, los cursos realizados en el Centro de Estudios Judiciales y los impartidos por las instituciones de educación superior, grado académico, permanencia en el servicio, participación en actividades de investigación y docencia dentro del Centro y los demás que el propio Pleno del Tribunal estime necesarios.
 
-### Capítulo I. De las Causales de Responsabilidad
+### Capítulo II. De los Concursos de Oposición
 
 ###### Artículo 187.
 
@@ -3403,7 +4129,7 @@ El jurado tiene facultades para decidir lo conducente en el caso de presentarse 
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De las Causales de Responsabilidad
 
 ###### Artículo 195.
 
@@ -3551,7 +4277,7 @@ I. El Pleno del Tribunal, respecto de: Magistrados, Jueces, Titular y personal a
 
 II. Los Jueces de Primera Instancia o Jueces de Menor Cuantía: respecto del personal adscrito al Juzgado de su adscripción.
 
-### Capítulo III. Del Procedimiento
+### Capítulo II. De las Sanciones
 
 ###### Artículo 205.
 
@@ -3681,7 +4407,7 @@ VI. El órgano resolutor, tomando en cuenta la gravedad de la falta cometida, as
 
 Sólo podrá instaurarse procedimiento administrativo disciplinario en contra de Magistrados del Tribunal que amerite suspensión, destitución e inhabilitación, así como el que amerite destitución e inhabilitación en contra de jueces, en los supuestos previstos por la Constitución Estatal y la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-### Capítulo IV. De las Excitativas de Justicia
+### Capítulo III. Del Procedimiento
 
 ###### Artículo 216.
 
@@ -3795,7 +4521,7 @@ Interinato durante la Suspensión
 
 En tanto se substancia el procedimiento disciplinario, y una vez suspendido temporalmente al probable infractor, el Pleno del Tribunal en su caso designará a quien deba suplir al servidor público de forma provisional en tanto subsista la suspensión.
 
-### Capítulo I. Generalidades
+### Capítulo IV. De las Excitativas de Justicia
 
 ###### Artículo 228.
 
@@ -3857,7 +4583,7 @@ Cuando el quejoso se desista de su promoción, se tendrá por no interpuesta.
 
 ## TÍTULO SEXTO. DE LAS AUSENCIAS Y COMPETENCIA SUBJETIVA
 
-### Capítulo II. De los Impedimentos, Excusas y Recusaciones
+### Capítulo I. Generalidades
 
 ###### Artículo 235.
 
@@ -3985,7 +4711,7 @@ III. Los que determine el Pleno del Tribunal, atendiendo los derechos laborales 
 
 En materia penal, familiar, justicia para adolescentes y narcomenudeo, las vacaciones de los servidores públicos serán alternadas.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo II. De los Impedimentos, Excusas y Recusaciones
 
 ###### Artículo 249.
 
@@ -4059,7 +4785,7 @@ Los Jueces que dejen de conocer el asunto estarán obligados a resolver término
 
 ## TÍTULO SÉPTIMO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-### Capítulo II. De la Integración de la Jurisprudencia
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 254.
 
@@ -4111,7 +4837,7 @@ Invocación de Jurisprudencia
 
 Cuando las partes invoquen tesis de jurisprudencia o precedentes expresarán los datos de identificación y publicación. De no haber sido publicadas bastará que se acompañen copias certificadas de las resoluciones correspondientes, o que éstas últimas se invoquen con datos claros que las hagan identificables. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia o precedentes invocados.
 
-### Capítulo III. De la Obligatoriedad de la Jurisprudencia
+### Capítulo II. De la Integración de la Jurisprudencia
 
 ###### Artículo 259.
 
@@ -4149,7 +4875,7 @@ Emisión de la Jurisprudencia
 
 El Pleno del Tribunal o las Salas remitirán las tesis en el plazo de quince días hábiles al área encargada de su compilación y sistematización, para su publicación, así como a la Presidencia, a la Sala o Salas que no hubiesen intervenido en su integración, a los Juzgados del Poder Judicial y al Centro Estatal de Justicia Alternativa, para su inmediata observancia obligatoria.
 
-### Capítulo IV. De la Interrupción de la Jurisprudencia
+### Capítulo III. De la Obligatoriedad de la Jurisprudencia
 
 ###### Artículo 262.
 
@@ -4161,7 +4887,7 @@ La jurisprudencia que pronuncien las Salas del Supremo Tribunal de Justicia tend
 
 La observancia de la jurisprudencia será obligatoria al día siguiente de que se publique en el Boletín Judicial.
 
-### Capítulo V. De la Compilación, Sistematización y Difusión de la Jurisprudencia
+### Capítulo IV. De la Interrupción de la Jurisprudencia
 
 ###### Artículo 263.
 
@@ -4208,6 +4934,8 @@ I. Exista jurisprudencia en contrario de la Suprema Corte de Justicia de la Naci
 II. Exista jurisprudencia de alguno de los Plenos de Circuito o Tribunales Colegiados del Circuito exactamente aplicable; y
 
 III. Por nueva disposición constitucional o legal aplicables.
+
+### Capítulo V. De la Compilación, Sistematización y Difusión de la Jurisprudencia
 
 ###### Artículo 268.
 
@@ -4720,3 +5448,9 @@ PRIMERO.- El presente Decreto entrará en vigor a los 30 días siguientes a su p
 SEGUNDO.- El sistema electrónico se regirá conforme a las determinaciones que con carácter general emita el Pleno del Supremo Tribunal de Justicia del Estado de Colima, dentro de los 15 días siguientes a la publicación del presente Decreto en el Periódico Oficial “El Estado de Colima” y de conformidad a las posibilidades informáticas actuales que prevalecen en el sistema electrónico del Poder Judicial del Estado, a fin de que se atienda de manera urgente las medidas implementadas, hasta en tanto se emiten las inherentes al sistema electrónico integral del Poder Judicial del Estado.
 
 TERCERO.- Dentro de los 30 días siguientes a la publicación del presente Decreto en el Periódico Oficial “El Estado de Colima”, el Pleno del Supremo Tribunal de Justicia del Estado, presentará al Congreso del Estado, un proyecto de sistema electrónico para la atención integral de los diversos procedimientos jurisdiccionales, que incluya la estimación presupuestal respectiva, a fin de que sea considera (sic) en el presupuesto de egresos del ejercicio fiscal siguiente.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 491.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial “El Estado de Colima.”
