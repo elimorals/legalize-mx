@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-infraestructura-fisica-64486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2016-10-03"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FISICA EDUCATIVA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -245,7 +247,9 @@ II.- Instancias públicas, privadas o sociales del extranjero cuyo objeto sea ed
 
 Los ingresos generados por los servicios prestados en los términos del artículo anterior, serán destinados al equipamiento y desarrollo tecnológico necesario para el adecuado desempeño de las funciones del Instituto, así como a la ejecución de convenios suscritos con las instancias educativas estatales para el desarrollo de proyectos dirigidos a la educación que imparta el Estado.
 
-La operación de estos recursos quedará a cargo del Instituto, bajo la supervisión y apoyo de la Secretaría de Finanzas y Administración, debiendo informar con claridad, ante la Junta de Gobierno, las distintas formas de obtención de recursos financieros, criterios de aplicación del gasto y, en su caso, recuperación, rendición de cuentas e indicadores de gestión, así como metas resultantes de la aplicación de tales recursos.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+La operación de estos recursos quedará a cargo del Instituto, bajo la supervisión y apoyo de la Secretaría de Hacienda, debiendo informar con claridad, ante la Junta de Gobierno, las distintas formas de obtención de recursos financieros, criterios de aplicación del gasto y, en su caso, recuperación, rendición de cuentas e indicadores de gestión, así como metas resultantes de la aplicación de tales recursos.
 
 ### CAPÍTULO SEXTO. DE LA ADMINISTRACIÓN DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
@@ -263,31 +267,43 @@ III.- Las áreas, unidades administrativas o direcciones necesarias para su adec
 
 La Junta de Gobierno se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-I.- Un Presidente, y fungirá como tal, el Secretario de Educación y Deporte;
+I.- Una Presidencia, que recaerá en quien ocupe la titularidad de la Secretaría de Educación y Deporte.
 
-II.- Un Secretario Técnico, y fungirá como tal, el Secretario de Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Una Secretaría Técnica, y fungirá como tal la persona titular de la Secretaría de Comunicaciones y Obras Públicas.
 
 III.- Las siguientes Vocalías:
 
-a). El Secretario General de Gobierno.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-b). El Secretario de Finanzas y Administración.
+a) La persona titular de la Secretaría General de Gobierno.
 
-c). El Secretario de Planeación y Evaluación.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-d). Un representante del Instituto Nacional de la Infraestructura Física Educativa, a invitación previa del Presidente.
+b) La persona titular de la Secretaría de Hacienda.
 
-e). Un representante del organismo público denominado Servicios Educativos del Estado de Chihuahua.
+c) (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-f). A invitación previa del Presidente, un representante en el Estado de la Secretaría de Educación Pública del Poder Ejecutivo Federal.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+d) Una persona representante del Instituto Nacional de la Infraestructura Física Educativa, a invitación previa de quien sea titular de la Presidencia.
+
+e) (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+f) A invitación previa de quien sea titular de la Presidencia, una persona representante de la Secretaría de Educación Pública del Poder Ejecutivo Federal en el Estado.
 
 Cada integrante podrá nombrar su respectivo suplente, mediante formal oficio.
 
 El cargo de integrante de la Junta de Gobierno será honorario, por lo que no habrá lugar a remuneración alguna, y su duración dependerá de la del cargo respectivo. Igualmente, su ratificación o no dependerá de quien esté facultado para expedir los nombramientos originarios de los que se deriva el respectivo carácter de integrante de dicho Órgano de Gobierno.
 
-El Director General participará en las sesiones de la Junta de Gobierno con voz, pero no con voto.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Quien ocupe la Dirección General participará en las sesiones de la Junta de Gobierno con voz, pero no con voto.
 
 ###### ARTÍCULO 17.
 
@@ -305,7 +321,9 @@ I.- Expedir su Reglamento Interior;
 
 II.- Establecer las políticas generales para el desarrollo de las actividades del Instituto;
 
-III.- Aprobar el anteproyecto de ingresos, el anteproyecto de presupuesto de egresos y los Programas Operativos Anuales del Instituto, considerando los diagnósticos anuales de la INFE, y remitirlos a la Secretaría de Finanzas y Administración en los términos aplicables de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Aprobar el anteproyecto de ingresos, el anteproyecto de presupuesto de egresos y los Programas Operativos Anuales del Instituto, considerando los diagnósticos anuales de la INFE, y remitirlos a la Secretaría de Hacienda en los términos aplicables de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público;
 
 IV.- Aprobar los informes de actividades y los estados financieros que le presente el Director General;
 
@@ -584,3 +602,53 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
