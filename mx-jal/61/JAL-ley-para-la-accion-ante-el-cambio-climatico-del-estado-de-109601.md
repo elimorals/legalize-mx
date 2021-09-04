@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2021-06-08"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -1068,6 +1068,30 @@ XXXIII. Promover el intercambio científico con instituciones de investigación 
 XXXIV. Organizar, participar y presentar en conferencias y talleres nacionales e internacionales trabajos sobre los estudios científicos y desarrollos normativos, relacionados con las actividades de la Comisión; y
 
 XXXV. Las demás que le confiere la presente Ley, sus reglamentos y otras disposiciones jurídicas que de ella deriven.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 45 Bis.
+
+En los casos en que no sea posible la presencia física de los integrantes de la Comisión en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. la validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ### CAPÍTULO III. SISTEMA ESTATAL DE INFORMACIÓN
 
@@ -2192,3 +2216,9 @@ P.O. 8 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28394/LXII/21 QUE REFORMA EL ARTÍCULO 90 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28432/LXII/21 SE ADICIONA EL ARTÍCULO 45 BIS A LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor un día después de su publicación en el periódico oficial "El Estado de Jalisco".
