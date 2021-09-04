@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1395
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-11"
-last_updated: "2021-08-28"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo al No. 99 del Periódico Oficial del Estado de Chihuahua, el miércoles 11 de diciembre de 2019.
 
@@ -67,17 +67,29 @@ I. Los derechos de niñas, niños y adolescentes, que deben garantizarse por las
 
 II. Los requisitos para la apertura y funcionamiento de los Centros de Atención Infantil.
 
-III. El Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Los lineamientos que deberán cumplirse en el diseño, instrumentación, seguimiento y evaluación de la política pública estatal en materia de atención, cuidado y desarrollo integral infantil.
+III. El Instituto Chihuahuense de Desarrollo Integral Infantil.
 
-V. Los mecanismos de coordinación y colaboración entre las autoridades competentes, así como los de concertación de estas con los sectores social y privado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+IV. El Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+V. Los lineamientos que deberán cumplirse en el diseño, instrumentación, seguimiento y evaluación de la política pública estatal en materia de atención, cuidado y desarrollo integral infantil.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Los mecanismos de coordinación y colaboración entre las autoridades competentes, así como los de concertación de estas con los sectores social y privado.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 4.
 
-La verificación y monitoreo del cumplimiento de las disposiciones del presente ordenamiento, corresponde a las autoridades estatales y municipales en el ámbito de sus respectivas atribuciones, así como al Área Estatal y al Área de Centros de Atención Infantil que se constituya en cada municipio para dar seguimiento a estas acciones.
+La verificación y monitoreo del cumplimiento de las disposiciones del presente ordenamiento, corresponde a las autoridades estatales y municipales en el ámbito de sus respectivas atribuciones, así como al Área de Centros de Atención Infantil que se constituya en cada municipio para dar seguimiento a estas acciones.
 
-Derivado de sus actividades, dichas áreas podrán formular recomendaciones al Consejo Estatal y a los Consejos Municipales, respectivamente, tendientes a lograr el mejoramiento de la política pública en materia de prestación de servicios de atención, cuidado y desarrollo integral infantil.
+Derivado de sus actividades, dicha área podrá formular recomendaciones al Instituto y a los Consejos Municipales, respectivamente, tendientes a lograr el mejoramiento de la política pública en materia de prestación de servicios de atención, cuidado y desarrollo integral infantil.
 
 ###### Artículo 5.
 
@@ -87,7 +99,9 @@ I. Adolescentes: Toda persona que tenga entre doce años cumplidos y menos de di
 
 II. Área de Centros de Atención Infantil: Aquella creada en los municipios del Estado encargada de la verificación, supervisión y monitoreo de los Centros de Atención Infantil y personas prestadoras de servicios, así como de capacitar al personal de dichos centros; conformada por el personal operativo de las diferentes dependencias de los gobiernos municipales, a fin de garantizar el cumplimiento de las disposiciones de la presente Ley.
 
-III. Área Estatal: Aquella dependiente de la Secretaría de Desarrollo Social, que contará con personal especializado para atender los aspectos vinculados a la vigilancia de Centros de Atención Infantil, capacitación del personal y aplicación de recursos tanto para el otorgamiento de becas a niñas, niños y adolescentes, como para proyectos de equipamiento e infraestructura en la materia cuando se consideren pertinentes.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. Instituto: El Instituto Chihuahuense de Desarrollo Integral Infantil.
 
 IV. Centros de Atención Infantil: Todo aquel espacio correctamente delimitado, cualquiera que sea su denominación, ya sea de modalidad pública, privada o mixta donde se prestan servicios para la atención, cuidado y desarrollo integral infantil, en un marco de ejercicio pleno de los derechos de niñas, niños y adolescentes, independientemente de la naturaleza jurídica, denominación o razón social que adopten dichos Centros.
 
@@ -99,7 +113,9 @@ VII. Desarrollo Integral Infantil: Derecho que tienen las niñas, niños y adole
 
 VIII. Ley: Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Chihuahua.
 
-IX. Licencia de Funcionamiento: Autorización escrita que expide la Secretaría de Desarrollo Social del Gobierno Estatal, para la legal apertura y operatividad de uno o varios Centros de Atención Infantil.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Licencia de Funcionamiento: Autorización escrita que expide la Secretaría, para la legal apertura y operatividad de uno o varios Centros de Atención Infantil.
 
 X. Medidas Precautorias: Aquellas que con motivo de la prestación de los servicios para la atención, cuidado y desarrollo integral infantil emitan las autoridades competentes, de conformidad con la presente Ley, para salvaguardar y proteger la vida y la integridad física y psicológica de niñas, niños y adolescentes.
 
@@ -127,7 +143,9 @@ XXI. Registro Estatal: Catálogo público de personas prestadoras de servicios y
 
 XXII. Reglamento: Reglamento de la Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Chihuahua.
 
-XXIII. Secretaría: La Secretaría de Desarrollo Social de (sic) Gobierno del Estado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII. Secretaría: La Secretaría de Desarrollo Humano y Bien Común de Gobierno del Estado.
 
 XXIV. Tipo: A los que se refiere el artículo 37 de la presente Ley.
 
@@ -153,9 +171,15 @@ Quien proporcione servicios en la materia regulada por esta Ley, a hijas e hijos
 
 En lo no previsto por el presente ordenamiento, se estará en lo conducente, a las disposiciones jurídicas que regulan las materias específicas sobre educación, salud, riesgos sanitarios, salubridad, protección civil, desarrollo social e inclusión para personas con discapacidad y sobre derechos de los pueblos y comunidades indígenas.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-La interpretación administrativa de las disposiciones contenidas en la presente Ley, corresponde al Consejo Estatal.
+La interpretación administrativa de las disposiciones contenidas en la presente Ley, corresponde al Instituto.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Para la realización de las tareas relacionadas con el párrafo anterior, el Instituto podrá solicitar asesoría y orientación al Consejo Estatal.
 
 ### Capítulo II. De los Sujetos de Servicios para la Atención, Cuidado y Desarrollo Integral
 
@@ -381,9 +405,11 @@ La licencia de funcionamiento, una vez obtenida, constituye la autorización par
 
 Tendrá una vigencia anual la cual deberá renovarse, una vez que se cumplan (sic) con los requisitos establecidos en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-La Secretaría será la autoridad competente para otorgar las licencias de funcionamiento cuando las personas interesadas cumplan con las disposiciones del presente ordenamiento, así como con los documentos vigentes y requisitos siguientes:
+El Instituto, será la autoridad competente para otorgar las licencias de funcionamiento cuando las personas interesadas cumplan con las disposiciones del presente ordenamiento, así como con los documentos vigentes y requisitos siguientes:
 
 I. Solicitud en la que se indique la población que se pretende atender, los servicios que se propone ofrecer, los horarios de funcionamiento, el nombre y datos generales de las personas responsables, el personal con que se contará y la ubicación del Centro de Atención Infantil.
 
@@ -403,7 +429,9 @@ VIII. Programa Interno de Protección Civil de conformidad con lo dispuesto por 
 
 IX. Licencias, permisos y demás autorizaciones en materia de protección civil, uso de suelo, funcionamiento, ocupación, seguridad y operaciones, seguridad estructural del inmueble y aspectos de carácter sanitario.
 
-X. Documentos expedidos por las autoridades que determine el Consejo Estatal, mediante los cuales se acrediten los conocimientos y capacitación de las personas que prestarán los servicios, así como su buen estado de salud.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+X. Documentos expedidos por las autoridades que determine el Instituto, mediante los cuales se acrediten los conocimientos y capacitación de las personas que prestarán los servicios, así como su buen estado de salud.
 
 XI. Información de los recursos financieros, mobiliario, equipo, material didáctico y de consumo para operar.
 
@@ -553,27 +581,35 @@ El personal que labore en los Centros de Atención Infantil, está obligado a pa
 
 Sin perjuicio de lo anterior, los Centros de Atención Infantil deberán establecer programas permanentes de capacitación para su personal y, en su caso, autorizarlo para que participe en aquellos organizados por las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 50.
 
-El Consejo Estatal determinará, conforme al tipo, modalidad y modelo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención Infantil.
+El Instituto determinará, conforme al tipo, modalidad y modelo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención Infantil.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-Las personas prestadoras de servicios y el personal que labore en los Centros de Atención Infantil deberán presentar, de manera periódica, un certificado médico general que contenga los exámenes de laboratorio, físicos y psicológicos que el Consejo Estatal considere necesarios para acreditar su buen estado de salud, con el fin de garantizar la salud, seguridad e integridad física y psicológica de niñas, niños y adolescentes.
+Las personas prestadoras de servicios y el personal que labore en los Centros de Atención Infantil deberán presentar, de manera periódica, un certificado médico general que contenga los exámenes de laboratorio, físicos y psicológicos que el Instituto considere necesarios para acreditar su buen estado de salud, con el fin de garantizar la salud, seguridad e integridad física y psicológica de niñas, niños y adolescentes.
 
 ###### Artículo 52.
 
 Las personas prestadoras de servicios y el personal que labore en los Centros de Atención Infantil garantizarán un ambiente de respeto en el marco de los derechos de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 53.
 
-El Consejo Estatal implementará acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención Infantil.
+El Instituto implementará acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención Infantil.
 
 ### Capítulo IX. Del Registro Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 54.
 
-Expedida la licencia de autorización, la Secretaría debe notificarlo dentro de los cinco días hábiles siguientes al DIF Estatal para que proceda a su inscripción en el Registro Estatal.
+Expedida la licencia de autorización, el Instituto debe notificarlo dentro de los cinco días hábiles siguientes al DIF Estatal para que proceda a su inscripción en el Registro Estatal.
 
 Los registros de nuevos Centros de Atención Infantil deberán ser notificados al Registro Nacional señalado en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, dentro de los veinte días hábiles siguientes a que se haya realizado el mismo.
 
@@ -581,9 +617,11 @@ La información de los registros ya existentes deberá actualizarse cada seis me
 
 El incumplimiento de las anteriores obligaciones será causa grave de responsabilidad.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 55.
 
-La operación, mantenimiento y actualización del Registro Estatal estará a cargo del DIF Estatal, a partir de la información que le suministre la Secretaría; para tal efecto, deberá implementar las estrategias y acciones que considere pertinentes con las diferentes instituciones, dependencias y personas prestadoras de servicio.
+La operación, mantenimiento y actualización del Registro Estatal estará a cargo del DIF Estatal, a partir de la información que le suministre el Instituto; para tal efecto, deberá implementar las estrategias y acciones que considere pertinentes con las diferentes instituciones, dependencias y personas prestadoras de servicio.
 
 ###### Artículo 56.
 
@@ -611,13 +649,57 @@ La información del Registro Estatal, deberá orientarse por los principios de m
 
 ### Capítulo X. De la Política Estatal en Materia de Cuidados Infantiles
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 59.
 
-La rectoría de los servicios para la atención, cuidado y desarrollo integral infantil corresponde al Poder Ejecutivo del Estado, a través del Consejo Estatal; y a los Ayuntamientos, por conducto de sus Consejos Municipales, cada uno en sus respectivos ámbitos de competencia; por ende, tienen la responsabilidad directa en la autorización, funcionamiento, monitoreo, supervisión y evaluación de dichos servicios.
+La rectoría de los servicios para la atención, cuidado y desarrollo integral infantil corresponde al Poder Ejecutivo del Estado, a través del Instituto; y a los Ayuntamientos, por conducto de sus Consejos Municipales, cada uno en sus respectivos ámbitos de competencia; por ende, tienen la responsabilidad directa en la autorización, funcionamiento, monitoreo, supervisión y evaluación de dichos servicios.
 
-Para el cumplimiento de lo anterior, la Secretaría, así como los Consejos Municipales, contarán, respectivamente, con un área específica con personal especializado, para atender los aspectos vinculados a la vigilancia y supervisión de Centros de Atención Infantil, capacitación del personal y aplicación de recursos tanto para el otorgamiento de becas a niñas, niños y adolescentes, como para proyectos de equipamiento e infraestructura en la materia cuando se consideren pertinentes, cada una en sus respectivos ámbitos de competencia.
+Para el cumplimiento de lo anterior, el Instituto, así como los Consejos Municipales, contarán, respectivamente, con un área específica con personal especializado, para atender los aspectos vinculados a la vigilancia y supervisión de Centros de Atención Infantil, capacitación del personal y aplicación de recursos tanto para el otorgamiento de becas a niñas, niños y adolescentes, como para proyectos de equipamiento e infraestructura en la materia cuando se consideren pertinentes, cada una en sus respectivos ámbitos de competencia.
 
-La Secretaría se auxiliará de personal competente en materia de pertinencia cultural de las diferentes dependencias gubernamentales, para capacitar a las personas prestadoras de servicios y a quienes laboren en los Centros de Atención Infantil.
+El Instituto podrá auxiliarse de personal competente en materia de pertinencia cultural de las diferentes dependencias gubernamentales, para capacitar a las personas prestadoras de servicios y a quienes laboren en los Centros de Atención Infantil.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 59 BIS. El Instituto tendrá las siguientes atribuciones:
+
+I. Formular, conducir y evaluar la Política Estatal.
+
+II. Diseñar y ejecutar el programa estatal de supervisión, que debe contener el conjunto de acciones necesarias para la vigilancia efectiva del cumplimiento de la Política Estatal.
+
+III. Promover el diseño y uso de indicadores, así como la implementación de mecanismos de seguimiento y evaluación de la cobertura y calidad de los servicios que se prestan en los Centros.
+
+IV. Promover el monitoreo ciudadano y el acceso a la información de los programas de servicios para la atención, cuidado y desarrollo integral infantil, a fin de garantizar la transparencia y el uso eficiente de los recursos públicos.
+
+V. Determinar las competencias, capacitación y aptitudes con las que debe contar el personal que pretenda laborar en los Centros de Atención.
+
+VI. Implementar acciones dirigidas a certificar y capacitar de manera continua al personal que labora en los Centros de Atención.
+
+VII. Impulsar acciones de gobierno para ofrecer un servicio de atención, cuidado y desarrollo integral infantil con criterios comunes de calidad, a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de los servicios.
+
+VIII. Promover, ante las instancias competentes, la certificación de competencias laborales para el personal que preste sus servicios en los Centros de Atención Infantil.
+
+IX. Impulsar programas conjuntos de capacitación y seguimiento para el personal que labora en los Centros de Atención Infantil, a cargo de las dependencias y entidades que conforman el Consejo Estatal.
+
+X. Expedir las licencias de funcionamiento para los Centros de Atención.
+
+XI. Notificar al DIF Estatal acerca de la expedición de licencias de autorización para su registro.
+
+XII. Suministrar al DIF información pertinente para llevar a cabo el Registro Estatal.
+
+XIII. Diseñar e instrumentar modelos de intervención, en los que el sector social pueda articular sus recursos humanos, materiales y operativos para la atención y prevención de las problemáticas que enfrenta la niñez en el Estado y que limitan su desarrollo integral.
+
+XIV. Impulsar la coordinación interinstitucional entre los tres órdenes de gobierno, así como la concertación de acciones entre los sectores público, social y privado.
+
+XV. Implementar acciones para la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados, incluyendo la aplicación de recursos para becas, infraestructura y equipamiento.
+
+XVI. Vigilar, en el ámbito de su competencia, el cumplimiento de esta Ley y de las disposiciones estatales que se relacionen y deriven de la misma.
+
+XVII. Imponer las sanciones que correspondan a su ámbito de competencia, por el incumplimiento a las disposiciones de esta Ley.
+
+XVIII. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito.
+
+XIX. Las demás que se establezcan en la ley y el reglamento.
 
 ###### Artículo 60.
 
@@ -639,7 +721,9 @@ V. Promover pautas de convivencia familiar y comunitaria fundadas en el respeto,
 
 VI. Fomentar la igualdad entre mujeres y hombres con perspectiva de género.
 
-VII. Garantizar el cumplimiento de criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo Estatal, a partir de los requerimientos y características de los modelos de atención.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Garantizar el cumplimiento de criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Instituto, a partir de los requerimientos y características de los modelos de atención.
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -667,9 +751,11 @@ VI. Interculturalidad.
 
 A través de las políticas públicas relacionadas con la prestación de servicios para la atención, cuidado y desarrollo integral infantil, se fomentará la participación de los sectores social y privado, en la consecución del objeto de esta Ley y de conformidad con la política nacional en la materia.
 
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 64.
 
-La evaluación de la política pública en materia de prestación de servicios de cuidados infantiles, se realizará por el órgano desconcentrado de la Secretaría, con autonomía técnica y de gestión, previsto en el artículo 65 de la Ley de Desarrollo Social y Humano para el Estado de Chihuahua, o a través de organismos independientes que podrán ser instituciones educativas de nivel superior o de investigación científica.
+La evaluación de la política pública en materia de prestación de servicios de cuidados infantiles se realizará por un área especializada del Instituto.
 
 ### Capítulo XI. De la Distribución de Competencias
 
@@ -739,15 +825,19 @@ XIII. Las demás que les señale esta Ley y otras disposiciones jurídicas.
 
 ### Capítulo XII. De los Consejos Estatal y Municipales de Prestación de Servicios en Materia de Atención, Cuidado y Desarrollo Integral Infantil
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 67.
 
-El Consejo Estatal es una instancia de consulta y coordinación de acciones entre los tres órdenes de gobierno, así como con los sectores social y privado, que tiene por objeto diseñar, instrumentar y ejecutar la política pública que permita garantizar los derechos de niñas, niños y adolescentes en los Centros de Atención Infantil.
+El Consejo Estatal es una instancia de consulta y coordinación de acciones entre los tres órdenes de gobierno, así como con los sectores social y privado, que tiene por objeto asesorar en la elaboración, diseño, instrumentación y ejecución de la política pública que permita garantizar los derechos de niñas, niños y adolescentes en los Centros de Atención Infantil.
 
 ###### Artículo 68.
 
 El Consejo Estatal estará integrado por las personas titulares de las siguientes instancias:
 
-I. Secretaría de Desarrollo Social, que lo presidirá.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+I. La Secretaría de Desarrollo Humano y Bien Común, que lo presidirá.
 
 II. Secretaría General de Gobierno.
 
@@ -779,9 +869,11 @@ Serán invitados permanentes: la Comisión Estatal de los Derechos Humanos, la S
 
 Por cada titular en el Consejo Estatal se designará otra persona suplente, que deberá tener al menos el nivel jerárquico de una Jefatura de Departamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 71.
 
-El Consejo celebrará sesiones ordinarias de manera trimestral y de forma extraordinaria las veces que se requiera, estas últimas convocadas por su Presidencia o a petición de cualquiera de sus integrantes.
+El Consejo celebrará sesiones ordinarias de manera semestral y de forma extraordinaria las veces que se requiera, estas últimas convocadas por su Presidencia o a petición de cualquiera de sus integrantes.
 
 Para sesionar válidamente se requerirá la asistencia de más de la mitad de quienes lo integran con derecho a voto.
 
@@ -789,27 +881,35 @@ Para sesionar válidamente se requerirá la asistencia de más de la mitad de qu
 
 El Consejo Estatal, tendrá las siguientes atribuciones:
 
-I. Formular y conducir la Política Estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, que permita la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado en el mejoramiento de dichos servicios.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-II. Diseñar e instrumentar modelos de intervención, en los que el sector social pueda articular sus recursos humanos, materiales y operativos para la atención y prevención de las problemáticas que enfrenta la niñez en el Estado y que limitan su desarrollo integral.
+I. Formular opiniones y colaborar en el diseño de la Política Estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, que permita la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado en el mejoramiento de dichos servicios.
 
-III. Impulsar la coordinación interinstitucional entre los tres órdenes de gobierno, así como lo concertación de acciones entre los sectores público, social y privado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+II. Colaborar en el diseño y formular opiniones en la instrumentación de modelos de intervención, en los que el sector social pueda articular sus recursos humanos, materiales y operativos para la atención y prevención de las problemáticas que enfrenta la niñez en el Estado y que limitan su desarrollo integral.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo integral de la niñez, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad.
 
 IV. Promover los mecanismos de corresponsabilidad y solidaridad entre la sociedad civil y las diferentes dependencias y entidades que integran el Consejo Estatal.
 
-V. Impulsar programas conjuntos de capacitación y seguimiento para el personal que labora en los Centros de Atención Infantil, a cargo de las dependencias y entidades que conforman el Consejo Estatal.
+V. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-VI. Promover, ante las instancias competentes, la certificación de competencias laborales para el personal que preste sus servicios en los Centros de Atención Infantil.
+VI. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-VII. Promover el diseño y uso de indicadores, así como la implementación de mecanismos de seguimiento y evaluación de la cobertura y calidad de los servicios que se prestan en los Centros de Atención Infantil.
+VII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 VIII. Impulsar la investigación y la generación de estudios que contribuyan a la toma de decisiones y la planeación de políticas públicas vinculadas con el objeto de esta Ley.
 
-IX. Promover el monitoreo ciudadano y el acceso a la información de los programas de servicios para la atención, cuidado y desarrollo integral infantil, a fin de garantizar la transparencia y el uso eficiente de los recursos públicos.
+IX. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-X. Implementar acciones para la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados, incluyendo la aplicación de recursos para becas, infraestructura y equipamiento.
+X. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-XI. Garantizar la aplicación de Normas Oficiales Mexicanas en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Formular opiniones y asesorar a la Coordinación en la aplicación de Normas Oficiales Mexicanas en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil.
 
 XII. Promover la participación de las familias, la sociedad civil, los pueblos indígenas, niñas, niños y adolescentes en el diseño, implementación y evaluación de la Política Estatal en la materia.
 
@@ -817,11 +917,11 @@ XIII. Generar de manera continua, campañas de difusión y concientización para
 
 XIV. Coadyuvar con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en términos de la legislación aplicable.
 
-XV. Diseñar políticas públicas, estrategias y acciones coordinadas para asegurar la atención, cuidado y desarrollo integral a niñas, niños y adolescentes.
+XV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 XVI. Coordinar esfuerzos de las dependencias y entidades que conforman el Consejo Estatal, para promover mecanismos que permitan mejorar la calidad de los servicios para la atención, cuidado y desarrollo integral infantil.
 
-XVII. Impulsar acciones de gobierno para ofrecer un servicio de atención, cuidado y desarrollo integral infantil con criterios comunes de calidad, a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de los servicios.
+XVII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 XVIII. Las demás que le otorga esta Ley.
 
@@ -829,7 +929,9 @@ XVIII. Las demás que le otorga esta Ley.
 
 Por cada ayuntamiento deberá constituirse un Consejo Municipal, que se integrará de manera análoga a la conformación del Consejo Estatal, o bien, con las dependencias que considere adecuadas respecto a la materia de la presente Ley.
 
-Para su funcionamiento y atribuciones se estará, en lo conducente, a las disposiciones que regulan al Consejo Estatal.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+Para su funcionamiento y atribuciones se estará, en lo conducente, a las disposiciones que regulan al Consejo Estatal y al Instituto.
 
 ### Capítulo XIII. De la Inspección y Vigilancia
 
@@ -847,9 +949,11 @@ I. Verificar el cumplimiento de los requisitos señalados en esta Ley y demás o
 
 II. Detectar, de manera oportuna, cualquier riesgo para la integridad física o psicológica de niñas, niños y adolescentes e informar a la autoridad competente para solicitar su debida actuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 76.
 
-El Consejo Estatal, en coordinación con los ayuntamientos, implementará un programa estatal de supervisión que tendrá los siguientes objetivos:
+El Instituto, en conjunto con los ayuntamientos, implementará un programa estatal de supervisión que tendrá los siguientes objetivos:
 
 I. Garantizar el mejoramiento progresivo y el fortalecimiento de los servicios en materia de cuidados infantiles.
 
@@ -883,7 +987,9 @@ I. Multa administrativa, por un monto de 50 hasta 500 veces el valor de la Unida
 
 II. Suspensión temporal de la licencia de funcionamiento.
 
-III. Solicitar a la Secretaría la revocación de la licencia de funcionamiento y su cancelación del Registro Estatal, señalando la causa que la motivó.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+III. Revocación de la licencia de funcionamiento y su cancelación del Registro Estatal, señalando la causa que la motivó.
 
 ###### Artículo 80.
 
@@ -1040,3 +1146,53 @@ El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, destinará los
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, se tomarán las previsiones para el inicio y funcionamiento de las figuras e instancias previstas en el mismo.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
