@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2021-08-04"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE SEPTIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE SEPTIEMBRE DE 2021.]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -1669,9 +1669,9 @@ XXV. Formular la Cuenta Pública correspondiente al ejercicio fiscal anterior, c
 
 XXVI. Las demás que le asigne el Ayuntamiento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2021)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2021) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2021)
 
-### Capítulo V (SIC). Órgano Interno de Control
+### Capítulo IV. Órgano Interno de Control
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
 
@@ -1725,23 +1725,17 @@ III. En los casos de los titulares de las áreas de investigación y substanciac
 
 IV. No haber sido candidato a presidente, síndico o regidor en la elección inmediata anterior.
 
-> <small>(REFORMADO EN SU PROEMIO, P.O. 4 DE AGOSTO DE 2021)</small>
+(REFORMADO, P.O. 4 DE AGOSTO DE 2021) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2021)
 
 Facultades del Órgano Interno de Control
 
 ###### Artículo 105.
 
-Son facultades y obligaciones del titular de la Contraloría Municipal:
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+Son facultades y obligaciones del titular:
 
 I. Vigilar, verificar y revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos propios, así como los que la Federación y el Estado transfieran al Municipio, de conformidad a la Ley General, y la normatividad establecida en materia de control y evaluación;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
-
 II. Inspeccionar el gasto público municipal y su congruencia con el Presupuesto de Egresos, así como el Programa presupuestario;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE AGOSTO DE 2021)</small>
 
 III. Inspeccionar y vigilar que las dependencias y entidades de la administración pública municipal cumplan con las normas y disposiciones en materia de:
 
@@ -1753,75 +1747,39 @@ c) Contratación de servicios y obra pública; y
 
 d) Adquisición, arrendamientos, conservación, uso, afectación. enajenación y baja de bienes muebles e inmuebles, registro, valuación y valoración del patrimonio, almacenes y demás activos y recursos materiales de la administración municipal;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE AGOSTO DE 2021)</small>
-
 IV. Auditar y vigilar el cumplimiento de las disposiciones en materia de planeación, presupuesto, ingresos, contabilidad gubernamental, financiamiento, inversión, deuda, patrimonio, fondos, valores y exenciones o deducciones de impuestos o derechos municipales, por parte de la administración municipal;
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
 V. Recibir y atender las denuncias que presenten los servidores públicos o particulares con motivo de los actos de corrupción de conformidad con la Ley General;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
-
 VI. Recibir y registrar las declaraciones patrimoniales y de interés, y la constancia de declaración fiscal, que presenten los servidores públicos municipales, fijando las normas, criterios y formatos oficiales para el cumplimiento de dicha obligación de conformidad a la Ley General;
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
 VII. Coadyuvar con la Auditoría Superior del Estado y la Fiscalía General, en la investigación derivado de denuncias de los actos de corrupción de servidores públicos o particulares de conformidad con la Ley General;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
-
 VIII. Conocer e investigar los hechos u omisiones de los servidores públicos municipales que no sean miembros del Cabildo;
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
 IX. Verificar el cumplimiento del Plan Municipal de Desarrollo y los programas presupuestarios;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
-
 X. Intervenir en los actos de entrega-recepción de los servidores públicos en los términos de la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas;
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
 XI. Formular, conjuntamente con el área de tesorería o su equivalente, el anteproyecto de presupuesto del Órgano Interno de Control;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
-
 XII. Presentar al ayuntamiento el programa anual de trabajo;
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
 XIII. Implementar mecanismos internos que permitan investigar, substanciar y calificar actos u omisiones que pudieran derivar en faltas graves y no graves y que puedan constituir responsabilidades administrativas en términos de la Ley General;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
-
 XIV. Presentar las denuncias por hechos que las leyes señalan como delitos ante la Fiscalía correspondiente, así como por las conductas administrativas a que refiere la Ley General;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
 
 XV. En el caso de las faltas administrativas no graves, podrán imponer sanciones a servidores públicos en términos de la Ley General y notificarlas al Ayuntamiento o a la Auditoría Superior del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
-
 XVI. Tramitar y resolver el recurso de revocación en los casos de faltas administrativas no graves en términos de la Ley General;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
 
 XVII. Programar y practicar auditorías a las dependencias y entidades de la administración pública municipal informando del resultado al Cabildo y a la Auditoría Superior del Estado e instaurar los procedimientos necesarios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
-
 XVIII. Verificar que el ayuntamiento cumpla con el envío de la cuenta pública anual, los informes mensuales y trimestrales a los que se refiere la Ley;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
 
 XIX. Revisar y verificar la información financiera, presupuestal y programática, así como las cuentas públicas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
-
 XX. Informar trimestralmente al Ayuntamiento y a la Auditoría Superior del Estado sobre las acciones y actividades del Órgano Interno de Control; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
 
 XXI. Las demás que le señalen la Ley General y otras disposiciones jurídicas sobre la materia, reglamentos y acuerdos del Ayuntamiento.
 
