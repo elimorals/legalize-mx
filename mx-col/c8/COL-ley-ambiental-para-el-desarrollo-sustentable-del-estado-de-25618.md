@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2021-02-27"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -2213,7 +2213,9 @@ V. El vertimiento de residuos sólidos en cuerpos y corrientes de agua de jurisd
 
 VI. La disposición final de lodos generados en los sistemas de tratamiento de aguas que se descarguen en cuerpos de agua y bienes de jurisdicción estatal o municipal; y
 
-VII. La aplicación de plaguicidas, fertilizantes y sustancias tóxicas cuando afecten o puedan afectar mantos acuíferos, cuerpos de agua y bienes de jurisdicción estatal o municipal y sistemas de drenaje y alcantarillado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+VII. La aplicación de fertilizantes y sustancias tóxicas cuando afecten o puedan afectar mantos acuíferos, cuerpos de agua y bienes de jurisdicción estatal o municipal y sistemas de drenaje y alcantarillado. En todos los casos, se prohíbe la utilización de insecticidas o plaguicidas agrícolas que contengan neonicotinoides.
 
 ###### ARTÍCULO 148.
 
@@ -3116,3 +3118,15 @@ P.O. 27 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 413.- POR EL QUE SE REFORMA EL ARTÍCULO 106, FRACCIONES II, III, VII Y VIII, ASÍ COMO, EL ARTÍCULO 115, PÁRRAFO SEGUNDO, DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 480.- POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 147 DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- La transición será gradual, hasta lograr la sustitución, eliminación y consecuente prohibición de la utilización de insecticidas o plaguicidas agrícolas que contengan neonicotinoides, la cual se realizará de conformidad con lo siguiente:
+
+a) En las inmediaciones de áreas naturales y áreas naturales protegidas, parques naturales, lagunas, esteros, ríos, grutas, reservas ecológicas y centros de apicultura del Estado, en un plazo de un año a partir de la entrada en vigor del presente Decreto.
+
+b) En el resto del territorio, en un plazo de dos años contados a partir de la entrada en vigor del presente Decreto.
