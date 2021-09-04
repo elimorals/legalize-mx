@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2020-12-31"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -445,11 +445,11 @@ IV. La reducción de la pobreza extrema.
 
 El Fondo para el Desarrollo Socioeconómico Municipal se determinará anualmente en el Presupuesto de Egresos del Estado y se enterará mensualmente en los doce meses del año por partes iguales a los municipios por conducto de la Secretaría de Hacienda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 38
 
-1. Se crea el Fondo Estatal de Seguridad Pública Municipal, con cargo a recursos estatales, mismos que serán determinados anualmente en el Presupuesto de Egresos del Estado. La Secretaría General de Gobierno, por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, formulará a la Secretaría de Hacienda del Estado, una propuesta para la asignación de los recursos que lo integren.
+1. Se crea el Fondo Estatal de Seguridad Pública Municipal, con cargo a recursos estatales, mismos que serán determinados anualmente en el Presupuesto de Egresos del Estado. La Fiscalía General del Estado, por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, formulará a la Secretaría de Hacienda del Estado, una propuesta para la asignación de los recursos que lo integren.
 
 > <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
 
@@ -469,9 +469,9 @@ En el Presupuesto de Egresos del Estado, de cada ejercicio fiscal, se hará la d
 
 La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación por cada Municipio, deberá publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-La Secretaría General de Gobierno, a través del Secretariado Ejecutivo, propondrá para su aprobación al Consejo Estatal de Seguridad Pública, las reglas de operación del Fondo Estatal de Seguridad Pública Municipal, debiendo publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
+La Fiscalía General del Estado, a través del Secretariado Ejecutivo, propondrá para su aprobación al Consejo Estatal de Seguridad Pública, las reglas de operación del Fondo Estatal de Seguridad Pública Municipal, debiendo publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
 
@@ -479,17 +479,17 @@ La Secretaría General de Gobierno, a través del Secretariado Ejecutivo, propon
 
 4. A efecto de cumplir con el carácter subsidiario de este Fondo, los Municipios que sean considerados como beneficiarios deberán aportar de sus recursos presupuestarios el 35% (treinta y cinco por ciento) del total de los recursos estatales otorgados por este Fondo.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-Los acuerdos celebrados entre la Secretaría General de Gobierno, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y los Municipios, deberán firmarse en un término no mayor a noventa días naturales, contados a partir de la publicación del resultado de la aplicación de las fórmulas y variables mencionadas con anterioridad.
+Los acuerdos celebrados entre la Fiscalía General del Estado, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y los Municipios, deberán firmarse en un término no mayor a noventa días naturales, contados a partir de la publicación del resultado de la aplicación de las fórmulas y variables mencionadas con anterioridad.
 
 Este Fondo se enterará por la Secretaría de Hacienda a los Municipios, de manera ágil y directa.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 38
 
-5. Los Municipios reportarán trimestralmente a la Secretaría de Hacienda y a la Secretaría General de Gobierno, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el ejercicio de los recursos del Fondo y el avance en el cumplimiento de las metas, así como las modificaciones o adecuaciones realizadas a las asignaciones previamente establecidas; en este último caso deberá incluirse la aprobación de las mismas.
+5. Los Municipios reportarán trimestralmente a la Secretaría de Hacienda y a la Fiscalía General del Estado, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el ejercicio de los recursos del Fondo y el avance en el cumplimiento de las metas, así como las modificaciones o adecuaciones realizadas a las asignaciones previamente establecidas; en este último caso deberá incluirse la aprobación de las mismas.
 
 > <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
 
@@ -722,3 +722,53 @@ Durante el tiempo de vigencia de las acciones decretadas para combatir la contin
 ###### ARTÍCULO CUARTO.
 
 Para los efectos previstos en el presente Decreto, en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, y demás disposiciones aplicables, se entiende por correo electrónico oficial de las personas que funjan como autoridades fiscales estatales, aquel que tenga la terminación @chihuahua.gob.mx; las autoridades fiscales estatales podrán comunicarse entre sí, y con las autoridades fiscales federales en materia fiscal federal coordinada, por ese medio electrónico; y se considera este con el mismo valor que un documento físico con firma autógrafa y con sello de la oficina de la autoridad correspondiente, independientemente de sus anexos digitalizados. En los casos en que las mencionadas autoridades utilicen en sus correos electrónicos una terminación diferente a la referida, bastará con que señalen por oficio presentado físicamente, con firma autógrafa y debidamente sellado, ante la diversa autoridad fiscal ante la cual pretendan actuar por dicha vía electrónica, cuál es la terminación oficial del correo electrónico, así como las direcciones de correo electrónico específicas de los servidores públicos que actuarán en tales términos.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
+
+Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
