@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-08-28"
+last_updated: "2021-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -831,13 +831,17 @@ Para el fortalecimiento de la cultura indígena del Estado de Oaxaca, los munici
 
 LXXXIX.- Instalar viveros municipales dentro de su jurisdicción, para producir plantas nativas de la zona, para contribuir a la reforestación en su región y promover la forestación entre la población.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XC.- Inscribir a sus trabajadores en alguno de los regímenes de seguridad social o en su defecto suscribir convenio con los Servicios de Salud del Estado; a través de la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca para acceder a la seguridad social; y
+XC. Inscribir a sus trabajadores en alguno de los regímenes de seguridad social o en su defecto suscribir nuevo convenio con los Servicios de Salud del Estado; a través de la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca para acceder a la seguridad social;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-XCI.- Las demás que les señalen las leyes y reglamentos municipales.
+XCI.- Establecer las medidas de control y las sanciones para prevenir y vigilar la contaminación visual, así como la originada por ruido, por malos olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas, así como a la población, al ambiente o los elementos naturales; y
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XCII.- Las demás que les señale (sic) las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -2102,6 +2106,12 @@ II.- Registro Civil, a través de su Presidente Municipal; en términos del art�
 III.- Embellecimiento y conservación de los poblados, centros urbanos y obras de interés social; y
 
 IV.- Los demás que acuerde el Ayuntamiento por el voto de la mayoría calificada. Este acuerdo deberá publicarse en el Periódico Oficial del Gobierno del Estado o en la Gaceta Municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 100 BIS. La prestación del servicio de alumbrado público se sujetará, a las prioridades establecidas en el Plan Municipal de Desarrollo y, en lo conducente, a las disposiciones legales federales y estatales aplicables.
+
+Para preservar y cuidar el medio ambiente, así como prevenir los efectos del cambio climático, en el alumbrado público preferentemente serán utilizadas luminarias con tecnología con diodo emisor de luz, conocida como LED, procurando que sean alimentadas con energía eólica y/o solar.
 
 ###### ARTÍCULO 101.
 
@@ -4268,3 +4278,11 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2538.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XC; SE ADICIONA LA FRACCIÓN. XCI, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 43, Y EL ARTÍCULO 100 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
