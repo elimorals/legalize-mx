@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2021-08-19"
+last_updated: "2021-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -301,15 +301,23 @@ Si la ausencia de los Diputados propietarios electos impide la instalación de l
 
 La sesión de instalación de la Legislatura entrante se efectuará el día uno de septiembre del año de la elección a las once horas, de conformidad con el orden del día, que contendrá cuando menos, lo siguiente:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
 I. Lista de asistencia;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
 II. Declaración del quórum legal;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
 III. Declaratoria de instalación de la Legislatura entrante y de apertura del primer año de ejercicio constitucional;
 
-IV. Declaratoria de constitución de las formas de organización parlamentaria;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-V. Elección de la Junta de Gobierno y Coordinación Política;
+IV. Honores a la bandera e interpretación del Himno Nacional Mexicano y del Himno del Estado de Durango;
+
+V. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2021)
 
 VI. Posicionamiento de los representantes de las formas de organización parlamentaria constituidas; y,
 
@@ -713,17 +721,33 @@ III. Lectura del acta de la sesión anterior, la que será discutida y aprobada,
 
 IV. Lectura a la lista de la correspondencia oficial, recibida para su trámite;
 
-V. Presentación de iniciativas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Declaratoria de publicidad de dictámenes y acuerdos remitidos por las Comisiones;
+V. En su caso, desarrollo de espacio solemne;
 
-VII. Discusión y votación en su caso, de dictámenes que rindan las comisiones legislativas respecto a las iniciativas y asuntos que les hayan sido encomendados;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Puntos de Acuerdo;
+VI. Presentación de iniciativas;
 
-IX. Asuntos generales; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-X. Clausura de la sesión.
+VII. Declaratoria de publicidad de dictámenes y acuerdos remitidos por las Comisiones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Discusión y votación en su caso, de dictámenes que rindan las comisiones legislativas respecto a las iniciativas y asuntos que les hayan sido encomendados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Puntos de Acuerdo;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+X. Asuntos generales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Clausura de la sesión.
 
 La Mesa Directiva, con autorización de la mayoría de los integrantes presentes del Pleno podrá incluir el tratamiento de asuntos considerados de obvia y urgente resolución, haciéndolo saber al inicio de la sesión.
 
@@ -739,9 +763,17 @@ II. Declaración del quórum legal;
 
 III. Declaratoria de apertura del año de ejercicio constitucional y del correspondiente periodo ordinario de sesiones;
 
-IV. Posicionamiento de los representantes de las formas de organización parlamentaria constituidas; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-V. Clausura de la sesión.
+IV. Honores a la bandera e interpretación del Himno Nacional Mexicano y del Himno del Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+V. Posicionamiento de los representantes de las formas de organización parlamentaria constituidas; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+V. (SIC) Clausura de la sesión.
 
 El posicionamiento de las representaciones parlamentarias se hará tomando el orden ascendente, conforme el número de Diputados que las integren, sin embargo, la participación será única por cada partido político representado; cuando dos o más formas de organización partidista tengan dos o más Diputados, la prelación en el orden de participación se hará tomando en cuenta el número de votos emitidos en la elección correspondiente.
 
@@ -1031,33 +1063,33 @@ El Presidente de la Comisión Permanente podrá delegar en el Secretario de Serv
 
 ### CAPÍTULO IV. DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2020)</small>
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL CONTENIDO DEL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NO. 002 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2021 QUE A LA LETRA DICE: "SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura. En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados." BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.]</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 86.
 
-En la segunda sesión de la Legislatura y para todo el ejercicio constitucional, la asamblea elegirá por mayoría absoluta y mediante votación por cédula, el órgano de gobierno interior denominado Junta de Gobierno y Coordinación Política, integrado por un Presidente, que será el coordinador del grupo parlamentario o coalición parlamentaria que por sí mismo cuente con la mayoría absoluta de Diputados del Congreso; dos secretarios, uno de grupo o coalición mayoritario y otro de la primera minoría y dos vocales que corresponderán a Diputados del grupo parlamentario o coalición parlamentaria mayoritarios y de la segunda minoría respectivamente.
+A más tardar en la tercera sesión de la Legislatura y para todo el ejercicio constitucional, la asamblea elegirá por mayoría absoluta y mediante votación por cédula, el órgano de gobierno interior denominado Junta de Gobierno y Coordinación Política.
 
-A la Junta concurrirán con voz los demás representantes parlamentarios de los Partidos Políticos representados en el Congreso.
+La Junta de Gobierno y Coordinación Política estará integrada por un Presidente o Presidenta, que será el o la coordinadora del grupo parlamentario o coalición parlamentaria que por sí mismo cuente con mayoría calificada de integrantes del Congreso; dos secretarías, una del grupo o coalición mayoritaria y otra de la primera minoría; y dos vocales, que corresponderán a diputadas o diputados del grupo parlamentario o coalición parlamentaria mayoritarios y de la segunda minoría respectivamente.
 
-Para efectos de determinar la prelación de las minorías, se estará al número de Diputados acreditados en la Legislatura por cada partido político y en su caso, a la votación que éstos hayan obtenido por sí mismos en la última elección de Diputados de representación proporcional.
+A la Junta de Gobierno y Coordinación Política concurrirán con voz las y los demás representantes parlamentarios de los Partidos Políticos representados en el Congreso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2020)</small>
+Para efectos de determinar la prelación de las minorías, se estará al número de diputadas o diputados acreditados en la Legislatura por cada partido político y, en su caso, a la votación que éstos hayan obtenido por sí mismos en la última elección de diputados y diputadas de representación proporcional.
 
-En el caso de las coaliciones parlamentarias, la prelación se determinará de acuerdo al número de diputados que la integran y en su caso, a la suma de la votación que éstos hayan obtenido por sí mismos en la última elección de Diputados de representación proporcional.
+En el caso de las coaliciones parlamentarias, la prelación se determinará de acuerdo al número de diputadas y diputados que las integran y, en caso de contar con el mismo número de diputadas y diputados, a la suma de la votación que éstas hayan obtenido por sí mismas en la última elección de diputadas y diputados de representación proporcional.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2020)</small>
+En caso de que ningún grupo o coalición parlamentaria cuente con mayoría calificada al inicio de la Legislatura y con base en las declaratorias de constitución de las formas de organización parlamentaria realizadas en la sesión de instalación de la Legislatura, la responsabilidad de presidir la Junta de Gobierno tendrá una duración anual; esta encomienda se desempeñará sucesivamente en el primer año por el coordinador o coordinadora del grupo parlamentario de la coalición mayoritaria con mayor número de diputados, el segundo año lo presidirá el coordinador o coordinadora del grupo parlamentario de la coalición parlamentaria mayoritaria que le siga en orden decreciente al número de legisladores que la integren, y el tercer año presidirá la Junta de Gobierno el coordinador o coordinadora del grupo parlamentario o la coalición que le siga al grupo o coalición parlamentaria mayoritaria en orden decreciente al número de legisladores, siempre y cuando cuenten por lo menos con el veinte por ciento del número total de integrantes de la Legislatura.
 
-En caso de que ningún grupo o coalición parlamentaria se encuentre con mayoría absoluta, la responsabilidad de presidir la Junta tendrá una duración anual; esta encomienda se desempeñará sucesivamente por los coordinadores de las representaciones parlamentarias en orden decreciente al número de legisladores que la integren, siempre y cuando cuenten por lo menos con el veinte por ciento del número total de Diputados de la Legislatura.
+La Junta de Gobierno y Coordinación Política deberá impulsar los entendimientos, convergencias y consensos sobre las tareas legislativas, políticas y administrativas del Congreso del Estado. Adoptará sus resoluciones preferentemente por consenso; y en caso de no lograrlo, por la mayoría absoluta de sus miembros. En caso de empate, el Presidente o Presidenta ejercerá su voto de calidad.
 
-La Junta de Gobierno y Coordinación Política deberá impulsar los entendimientos, convergencias y consensos sobre las tareas legislativas, políticas y administrativas del Congreso del Estado. Adoptará sus resoluciones preferentemente por consenso; y en caso de no lograrlo, por la mayoría absoluta de sus miembros. En caso de empate, el Presidente ejercerá su voto de calidad.
-
-En su sesión de instalación, la Junta de Gobierno y Coordinación Política deberá incluir en el orden del día, los puntos siguientes:
+En su sesión de instalación, la Junta de Gobierno y Coordinación Política deberá incluir en el orden del día, al menos, los puntos siguientes:
 
 I. Declaratoria de instalación;
 
 II. Análisis, discusión y aprobación, en su caso, del proyecto de distribución e integración de las comisiones legislativas;
 
-III. Análisis, discusión y aprobación, en su caso, del calendario para la puesta en marcha de los trabajos de la Legislatura mismo que deberá contener, entre otros aspectos, los siguientes:
+III. Análisis, discusión y aprobación, en su caso, del calendario para la puesta en marcha de los trabajos de la Legislatura, mismo que deberá contener, entre otros aspectos, los siguientes:
 
 a) Toma de protesta del gobernador electo, cuando corresponda;
 
@@ -1067,11 +1099,13 @@ c) La agenda legislativa institucional;
 
 d) Entrega-Recepción final del Congreso del Estado;
 
-e) Formulación del plan de desarrollo institucional; y
+e) Formulación del plan de desarrollo institucional;
 
 f) Otros asuntos cuyo desahogo se determine por la vía del acuerdo parlamentario; y
 
 IV. Otros asuntos que ameriten su atención y pronto desahogo.
+
+[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL CONTENIDO DEL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NO. 002 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2021 QUE A LA LETRA DICE: "SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura. En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados." BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.](REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 87.
 
@@ -1087,7 +1121,9 @@ IV. Dirigir y organizar los trabajos de la agenda legislativa institucional, en 
 
 V. Proponer al Pleno del Congreso a los integrantes de las Comisiones Legislativas, así como su sustitución, cuando existieren causas justificadas;
 
-VI. Proponer al Pleno del Congreso, para su designación o remoción, a quien ocupe el cargo de Secretario General;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Proponer al Pleno del Congreso, para su designación, a quien ocupe el cargo de Secretario o Secretaria General;
 
 VII. Nombrar y remover a los servidores públicos del Congreso, en los casos en que la presente ley no disponga determinado procedimiento;
 
@@ -1155,7 +1191,9 @@ III. Las demás que les confieran otras disposiciones legales aplicables.
 
 Cuando el Presidente de la Junta de Gobierno y Coordinación Política se ausentare de manera definitiva, inmediatamente se nombrará una nueva directiva en la forma establecida en esta ley. Su ausencia temporal será cubierta por el primer secretario.
 
-Las ausencias temporales o definitivas de los secretarios y vocales serán cubiertas por quien proponga la forma de organización parlamentaria a que correspondan, debiendo ser ratificadas por el Pleno.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+Las ausencias temporales o definitivas de los secretarios y vocales serán cubiertas por quien proponga la forma de organización parlamentaria a que correspondan.
 
 ###### Artículo 92.
 
@@ -1179,7 +1217,9 @@ III. Especiales y de Investigación, las que sean designadas por el Presidente d
 
 Las Comisiones Legislativas serán propuestas por la Junta de Gobierno y Coordinación Política ante la Mesa Directiva, quien deberá someterlas a la consideración del Congreso en la tercera sesión de cada año de ejercicio constitucional, a excepción de las comisiones ordinarias, que serán nombradas al inicio del ejercicio constitucional y fungirán durante todo el período de la Legislatura.
 
-Las Comisiones Legislativas deberán integrarse de manera tal que reflejen la pluralidad política del Congreso y estarán integradas invariablemente por un Presidente, un Secretario y tres vocales. Sólo la Comisión de Hacienda, Presupuesto y Cuenta Pública estará conformada por siete integrantes, un Presidente, un Secretario y cinco Vocales.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+Las Comisiones Legislativas deberán integrarse de manera tal que reflejen la pluralidad política del Congreso y estarán integradas invariablemente por un Presidente, un Secretario y cuatro vocales. Sólo la Comisión de Hacienda, Presupuesto y Cuenta Pública estará conformada por siete integrantes, un Presidente, un Secretario y cinco Vocales.
 
 ###### Artículo 95.
 
@@ -1220,6 +1260,10 @@ Las comisiones, para ilustrar su juicio en el estudio de los asuntos que se les 
 Para el despacho de los asuntos de su incumbencia, las comisiones se reunirán mediante citatorio de sus respectivos Presidentes.
 
 Cualquier miembro del Congreso puede asistir, sin derecho a voto, a las reuniones de trabajo de las comisiones y exponer libremente en ellas su parecer sobre el asunto en estudio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+Además, invariablemente, se le deberá enviar invitación a la diputada o al diputado promovente, de cada una de las iniciativas a dictaminar durante la sesión, para argumentar los motivos de su propuesta y ampliar la información necesaria. Si la o el promovente no asistiera se continúa con el proceso.
 
 ###### Artículo 103.
 
@@ -1407,11 +1451,17 @@ XX. Asuntos Indígenas;
 
 XXI. Régimen, Reglamento y Prácticas Parlamentarias;
 
-XXII. Atención a Personas con Discapacidad, Enfermos Terminales y Adultos Mayores;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-XXIII. Asuntos de la Familia y Menores de Edad;
+XXII. Atención a Personas con Discapacidad, y Adultos Mayores;
 
-XXIV. Igualdad y Género;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII. Comisión de Asuntos Familiares y de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+XXIV. Igualdad de Género;
 
 XXV. Asuntos Metropolitanos;
 
@@ -1635,21 +1685,25 @@ III. Desahogo de las consultas respecto de la aplicación e interpretación de e
 
 IV. Reglamento del Centro de Investigaciones y Estudios Legislativos.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 141.
 
-La Comisión de Atención a Personas con Discapacidad, Enfermos Terminales y Adultos Mayores, dictaminará los asuntos que tengan relación con la Legislación y atención de:
+La Comisión de Atención a Personas con Discapacidad, y Adultos Mayores, dictaminará los asuntos que tengan relación con la Legislación y atención de:
 
-I. Personas que sufran cualquier tipo de discapacidad física o mental;
+I. Personas con cualquier tipo de discapacidad; y,
 
-II. Víctimas de enfermedades terminales;
+II. Adultos mayores.
 
-III. Incapacitados mentales recluidos en centros de atención especial; y,
-
-IV. Adultos mayores.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 142.
 
-La Comisión de Asuntos de la Familia y Menores de Edad, estudiará y analizará lo relativo a la problemática de la familia en lo general, y de los menores de edad, en lo particular.
+La Comisión de Asuntos Familiares y de los Derechos de Niñas, Niños y Adolescentes, estudiará y analizará lo relativo a la problemática de la familia en lo general, y de las niñas, niños y adolescentes, en lo particular, como titulares de derecho.
+
+Además, impulsará la celebración anual del Parlamento Infantil del Estado de Durango, con la finalidad de generar un espacio que los acerque a conocer su derecho a participar en un proceso de representación y ser parte de la vida parlamentaria, de conformidad con las previsiones de la convocatoria que emita la Junta de Gobierno y Coordinación Política.
+
+La celebración del Parlamento Infantil deberá atender necesariamente las medidas sanitarias y de seguridad que corresponda.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2018)</small>
 
@@ -1991,7 +2045,11 @@ I. Dirección de Apoyo al Proceso Parlamentario, la cual contará con los siguie
 
 II. Dirección de Apoyo a Órganos Legislativos, la cual contará con la siguiente Coordinación:
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
 1) Coordinación de Relaciones públicas y atención a legisladores.
+
+Esta Coordinación tendrá a su cargo la atención de visitas guiadas al Congreso.
 
 III. Dirección de Informática y Telecomunicaciones, la cual contará con los siguientes Departamentos:
 
@@ -2011,7 +2069,9 @@ III. Bajo la orientación del Secretario General dirigir los trabajos y supervis
 
 IV. Supervisar y vigilar el cumplimiento, y en su caso, ejecutar las políticas y lineamientos de los servicios parlamentarios y legislativos;
 
-V. Publicar y distribuir la gaceta parlamentaria y los documentos que requieran su difusión y publicación por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+V. Publicar y distribuir la gaceta parlamentaria y los documentos que requieran su difusión y publicación del Congreso del Estado, por lo menos a las 21:00 hrs. del día inmediato a la sesión;
 
 VI. Informar, por conducto de la Secretaría General, a la Junta de Gobierno y Coordinación Política, al término de los periodos ordinarios de sesiones, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta y respecto al desempeño en la prestación de los servicios parlamentarios;
 
@@ -2039,7 +2099,13 @@ XVII. Proveer lo necesario para el oportuno despacho parlamentario de las inicia
 
 XVIII. Coordinar la prestación de los Servicios Técnicos de Informática y Comunicaciones, así como vigilar la correcta operación del Sistema de Información Parlamentaria; y,
 
-XIX. Las demás que esta Ley, el Pleno del Congreso y el Secretario General le confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. En el sistema de información parlamentaria y la pantalla de votación se podrá establecer a petición de cualquier diputado la utilización de sobrenombres, alias, apodo o motes que identifiquen plenamente al legislador, sin que medie requisito alguno más que sea solicitado en forma escrita, con la excepción de que estos no sean obscenos o vulgares.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Las demás que esta Ley, el Pleno del Congreso y el Secretario General le confieran.
 
 C. LA SECRETARIA DE SERVICIOS JURIDICOS
 
@@ -2353,9 +2419,13 @@ Ninguna iniciativa, asunto o petición se discutirá y votará en el Pleno sin e
 
 Los dictámenes deberán contener una exposición clara en la cual se habrán de expresar las razones y argumentos tomados en cuenta para emitirlo, y concluir sometiendo a la consideración del Congreso, el proyecto de ley, decreto o acuerdo, según corresponda.
 
-Al dictamen, según su naturaleza, deberá acompañarse el análisis impacto presupuestario que necesariamente deba elaborarse por la Secretaría de Finanzas y de Administración del Gobierno del Estado, la cual deberá remitir dicha opinión a la Comisión Dictaminadora en un plazo que no exceda de treinta días naturales.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-En caso de no darse cumplimento al párrafo anterior el Centro de Investigaciones y Estudios Legislativos emitirá la opinión correspondiente.
+Al dictamen, según su naturaleza, deberá acompañarse el análisis (sic) impacto presupuestario que necesariamente deba elaborarse por la Secretaría de Finanzas y de Administración del Gobierno del Estado, la cual deberá remitir dicha opinión a la Comisión Dictaminadora en un plazo que no exceda de treinta días naturales. El Centro de Investigaciones y Estudios Legislativos realizará una evaluación previa en el cual señale si existe posibilidad de impacto presupuestario; esta evaluación previa deberá notificarse a los presidentes de las Comisiones respectivas dentro de los cinco días hábiles siguientes a la fecha en que el Centro de Investigaciones y Estudios Legislativos reciba la copia de las iniciativas.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de que la Secretaría de Finanzas y de Administración del Gobierno del Estado no remita el análisis en el plazo de treinta días naturales previsto en el presente artículo, el Centro de Investigaciones y Estudios Legislativos emitirá la opinión correspondiente.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -2367,9 +2437,19 @@ Los dictámenes derivados del ejercicio de atribuciones distintas a la creación
 
 #### SECCIÓN SEGUNDA. DE LAS REGLAS GENERALES PARA EL DEBATE
 
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL CONTENIDO DEL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NO. 002 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2021 QUE A LA LETRA DICE: "SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura. En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados." BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.]</small>
+
 ###### Artículo 186.
 
 Cuando a juicio de la Comisión se requiera mejor proveer sobre una iniciativa o asunto en estudio o sobre alguno de los temas o puntos contenidos en ellos, podrá instruir a los órganos técnicos de apoyo y a los asesores de las distintas formas de organización parlamentaria para que realicen el estudio de los mismos y emitan una opinión no vinculante; o en su caso, proceder en los términos previstos en el capítulo relacionado con las comisiones legislativas, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 186 Bis.
+
+En la tramitación de las propuestas para iniciar leyes o decretos por parte del Congreso del Estado ante el Congreso de la Unión, las iniciativas se turnarán a la comisión o comisiones que correspondan, de acuerdo a la naturaleza de los asuntos y ordenamientos legales objeto de las propuestas.
+
+Los dictámenes de acuerdo referentes al ejercicio de la fracción III del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos, deberán ser acompañados de los debates suscitados en el Pleno y comisión o comisiones dictaminadoras.
 
 ###### Artículo 187.
 
@@ -2431,9 +2511,13 @@ En el debate de asuntos distintos a los dictámenes, se aplicarán las mismas re
 
 Todo dictamen que conste de más de un artículo, se someterá a debate en lo general, y aprobado en ese sentido, se hará en lo particular, en caso de que hubiera reserva. De no existir éstas, se discutirá y votará tanto en lo general como en lo particular, en un solo acto.
 
-Los dictámenes de reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado, se discutirán y votarán en un solo acto, posterior a los actos en que hayan recibido segunda lectura y su aprobación será por mayoría calificada.
+> <small>(REFORMADO Y REUBICADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
-Los dictámenes que consten de un solo artículo, se someterán a debate en un sólo acto, tanto en lo general como en lo particular.
+Los dictámenes que consten de un solo artículo se discutirán y votarán en un solo acto, tanto en lo general como en lo particular.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
+Los dictámenes de reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado, se discutirán y votarán en un solo acto, posterior a que hayan recibido segunda lectura, y su aprobación será por mayoría calificada.
 
 ###### Artículo 194.
 
@@ -3186,5 +3270,25 @@ P.O. 19 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el día 31 de agosto de 2021 previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- En un plazo que no exceda de 20 días, el Centro de Investigaciones y Estudios Legislativos deberá informar a la Mesa Directiva el estado en que se encuentren las iniciativas presentadas.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto
+
+P.O. 5 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 619 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 31 de agosto de 2021 previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto
+
+P.O. 5 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 002 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura.
+
+En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto
