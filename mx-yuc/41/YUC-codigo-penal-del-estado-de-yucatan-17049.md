@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2021-08-03"
+last_updated: "2021-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2238,6 +2238,10 @@ El delito de incumplimiento de obligaciones de asistencia familiar se perseguir�
 > <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 Cuando el incumplimiento se refiera a los hijos, a los ascendientes adultos mayores o exista imposibilidad para presentar la querella por parte de los acreedores, se perseguirá de oficio y cuando proceda, el Ministerio Público promoverá la designación de un tutor especial o representante para las víctimas del delito ante la autoridad judicial, que tendrá facultades para designarlos. Se declarará extinguida la acción penal oyéndose previamente al tutor o representante, cuando el procesado hubiese cubierto el importe de los alimentos vencidos.
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+Para el cumplimiento de lo dispuesto en el párrafo que antecede, se auxiliará del Registro de Deudores Alimentarios Morosos de Yucatán.
 
 ###### ARTÍCULO 222.
 
@@ -5624,3 +5628,13 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Cláusula derogatoria
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 412/2021 POR EL QUE SE MODIFICAN LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES, EN MATERIA DE CREACIÓN DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. La fiscalía contará con 120 días partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado para poner en funcionamiento el Registro de Deudores Alimentarios Morosos de Yucatán.
+
+Artículo tercero. Se derogan las disposiciones emitidas con anterioridad que se opongan al presente decreto.
