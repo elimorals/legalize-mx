@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2021-04-19"
+last_updated: "2021-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -1039,19 +1039,29 @@ VII. Que se emitan las medidas de protección urgentes, especiales o cautelares 
 
 Las autoridades estatales, en el ámbito de su competencia, deberán garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria de conformidad con la Ley de Migración y su Reglamento, la Ley General, esta Ley y las demás disposiciones jurídicas aplicables debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
 
-Las autoridades competentes, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior.
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
 
-Asimismo, establecerán los estándares mínimos para que los espacios de alojamiento o albergues brinden la atención integral adecuada a niñas, niños y adolescentes migrantes, los cuales deberán cumplir con lo siguiente:
+Todas las autoridades competentes, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior.
 
-I. El diseño universal y la accesibilidad en términos de la normatividad aplicable
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+El Sistema Estatal DIF y los Sistemas Municipales habilitarán espacios para recibir a niñas, niños, adolescentes y sus familias que cuenten con los estándares mínimos para que los espacios de alojamiento o albergues brinden la atención integral adecuada a niñas, niños y adolescentes migrantes, los cuales deberán cumplir con lo siguiente:
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+I. El diseño universal, la accesibilidad, la autorización y registro en términos de la normatividad aplicable.
 
 II. Contar con medidas de seguridad, protección y vigilancia necesarias para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados.
 
 III. Contar con un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables.
 
-IV. Tratándose de niñas, niños o adolescentes acompañados podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de estos en aplicación del principio del interés superior de la niñez.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
 
-V. En caso de que el Sistema Estatal DIF o los sistemas municipales DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración con el fin de proporcionarles el tratamiento adecuado de adoptar medidas de protección especiales.
+IV. Tratándose de niñas, niños o adolescentes acompañados deberán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos, previo dictamen de interés superior de la niñez, emitido por la Procuraduría de Protección.
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+V. En el caso de que el plan de restitución de derechos que emita la Procuraduría de Protección estipule la posibilidad de que niñas, niños o adolescentes extranjeros sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicará al Instituto Nacional de Migración y a la Comisión Mexicana de Ayuda a Refugiados con el fin de adoptar las medidas de protección especiales dictadas a su favor.
 
 VI. El Sistema Estatal DIF enviará al Sistema Nacional DIF la información en el momento en que se genere de las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, que incluya las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica.
 
@@ -1063,13 +1073,21 @@ VIII. En ningún caso una situación migratoria irregular de niñas, niños o ad
 
 En tanto el Instituto Nacional de Migración determine la situación migratoria de la niña, niño o adolescente, el Sistema Estatal DIF a través de la Procuraduría Estatal en coordinación con los sistemas municipales DIF competentes deberá brindar la protección que prevé la Ley General, esta ley, incluyendo las siguientes disposiciones:
 
-I. Proporcionar asistencia social para la atención de niñas, niños y adolescentes migrantes no acompañados o acompañados, nacionales y extranjeros, que requieran servicios para su protección.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+I. Proporcionar protección integral para la atención de niñas, niños y adolescentes migrantes no acompañados o acompañados, nacionales y extranjeros, que requieran servicios de salud, educación, acogimiento residencial, alimentación, entre otros.
 
 II. Otorgar facilidades de estancia y garantizar la protección de niñas, niños y adolescentes migrantes no acompañados y acompañados, en tanto se resuelva su situación migratoria.
 
 III. Coadyuvar con el Instituto Nacional de Migración en la implementación de acciones que permitan brindar una atención adecuada a las niñas, niños y adolescentes migrantes no acompañados y acompañados que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad.
 
-IV. Las demás que señale las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Valorar de manera multidisciplinaria a niñas, niños y adolescentes en contexto de migración, a fin de que la Procuraduría de Protección determine el interés superior de la niñez, y emita el plan de restitución de derechos correspondiente a cada caso.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+V. Las demás que señale la Ley General, la Ley de Migración y la Ley sobre Refugiados, Protección Complementaria y Asilo Político, en materia de infancia Migrante.
 
 ###### Artículo 63.
 
@@ -1097,17 +1115,21 @@ X. A recurrir la decisión ante la autoridad jurisdiccional competente.
 
 XI. A conocer la duración del procedimiento que se llevará a cabo, mismo que deberá seguir el principio de celeridad.
 
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 64.
 
-Está prohibido rechazar, remover o de cualquier manera transferir a los espacios de alojamiento a una niña, niño o adolescente migrante, cuando al retornarlo a su lugar de origen implique peligro para su vida, seguridad y/o libertad a causa de persecución o amenaza, violencia generalizada o violaciones masivas a los derechos humanos, entre otros, así como donde pueda ser sometido a tortura u otros tratos crueles, inhumanos o degradantes.
+Está prohibido transferir a estaciones migratorias a una niña, niño o adolescente migrante, así como retornarlo a su lugar de origen cuando implique peligro para su vida, seguridad y/o libertad a causa de persecución o amenaza, violencia generalizada o violaciones masivas a los derechos humanos, entre otros, así como donde pueda ser sometido a tortura u otros tratos crueles, inhumanos o degradantes.
 
 ###### Artículo 65.
 
 Cualquier decisión sobre la reintegración de una niña, un niño o adolescente a su familia de origen, con su familia extensa o ampliada, según sea el caso, sólo podrá realizarse en base a su interés superior.
 
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 66.
 
-El Sistema Estatal DIF en colaboración con los sistemas municipales DIF competentes se coordinará en lo conducente con la Secretaría de Relaciones Exteriores y la Delegación del Instituto Nacional de Migración a fin de garantizar de forma prioritaria la asistencia social y protección consular de niñas, niños y adolescentes migrantes que se encuentren en el extranjero en proceso de repatriación y cuya familia de origen, ampliada o extensa, tutores, personas que tengan a su guarda o cuidado radiquen en el Estado de México.
+La Procuraduría de Protección en colaboración con las Procuradurías de Protección de Niñas, Niños y Adolescentes Municipales se coordinará en lo conducente con la Secretaria de Relaciones Exteriores, la Representación del Instituto Nacional de Migración y Embajadas o Consulados a fin de garantizar de forma prioritaria la protección integral de niñas, niños y adolescentes migrantes que se encuentren en el extranjero en proceso de repatriación y cuya familia de origen, ampliada o extensa, tutores, personas que tengan a su guarda o cuidado radiquen en el Estado de México.
 
 ### Capítulo Vigésimo. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones
 
@@ -2178,3 +2200,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 326.- POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO, LAS FRACCIONES I, IV Y V DEL ARTÍCULO 61 , LAS FRACCIONES I Y IV DEL ARTÍCULO 62, LOS ARTÍCULOS 64 Y 66; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 62 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Legislatura preverá durante cada ejercicio fiscal, los recursos presupuestales necesarios para la aplicación del presente Decreto y sus disposiciones derivadas o reglamentarias, estableciendo una partida presupuestal específica para la atención integral de la niñez migrante, la habilitación de espacios de alojamiento y su transporte.
