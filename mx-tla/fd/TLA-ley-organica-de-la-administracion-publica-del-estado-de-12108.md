@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2021-03-16"
+last_updated: "2021-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TLA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA, PUBLICADA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -1572,3 +1574,135 @@ Artículo Quinto. De conformidad con la capacidad presupuestal y recursos humano
 Artículo Sexto. Los Juzgados Laborales, iniciaran sus funciones en los términos, que para tal efecto se establezcan en la Declaratoria que realice el Congreso del Estado de Tlaxcala.
 
 Artículo Séptimo. Quedan derogadas todas las normas que se opongan al presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 345.- LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de septiembre de dos mil veintiuno, debiendo ser publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Tlaxcala, publicada en el Número Extraordinario del Periódico Oficial del Gobierno del Estado, el martes 7 de abril de 1998, mediante el Decreto número 162 del Congreso del Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+A partir del primero de enero de dos mil veintidos, se abroga la Ley del Instituto Tlaxcalteca de la Cultura, publicada en el Periódico Oficial del Gobierno del Estado, el 20 de abril de 1983, tomo LXXVII, número 17, mediante el Decreto número 140 del Congreso del Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas entrará en funciones el día primero de septiembre de dos mil veintiuno y establecerá las medidas conducentes necesarias a fin de continuar dando sustento presupuestal a las siguientes dependencias de nueva creación:
+
+- Coordinación General de Planeación e Inversión, que sustituye a la Secretaría de Políticas Públicas y Participación Ciudadana.
+
+- Secretaría de Infraestructura, que sustituye a la Secretaría de Obras Públicas, Desarrollo Urbano y Vivienda.
+
+- Secretaría de Movilidad y Transporte, que sustituye a la Secretaría de Comunicaciones y Transportes.
+
+- Secretaría de la Función Pública, que sustituye a la Contraloría del Ejecutivo.
+
+La Coordinación General de Planeación e Inversión, la Secretaría de Infraestructura, la Secretaría de Movilidad y Transporte, y la Secretaría de la Función Pública, iniciarán sus funciones con los recursos humanos, financieros y materiales asignados para el ejercicio de dos mil veintiuno a las dependencias a las cuales sustituyen.
+
+###### ARTÍCULO QUINTO.
+
+A la Coordinación General de Planeación e Inversión le serán transferidas a partir del primero de septiembre de dos mil veintiuno, las unidades administrativas que actualmente efectúan funciones de planeación e inversión en la extinta Secretaría de Planeación y Finanzas, con los recursos presupuestales asignados, así como con los elementos humanos, materiales y financieros respectivos.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Finanzas elaborará el presupuesto de egresos correspondiente al año dos mil veintidós con la nueva estructura de la administración pública, dando suficiencia presupuestal a las secretarías de Bienestar, Medio Ambiente, Ordenamiento Territorial y Vivienda, Trabajo y Competitividad, y Cultura, así como a la Coordinación General de Comunicación, para lo cual la Oficialía Mayor de Gobierno habrá de instrumentar los cambios pertinentes para elaborar y autorizar las plantillas correspondientes y dotar de recursos materiales a éstas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente ordenamiento, se formará una Comisión, integrada por la Consejería Jurídica del Ejecutivo, la Coordinación General de Planeación e Inversión, la Secretaría de Finanzas y la Oficialía Mayor de Gobierno, quienes en el ámbito de sus respectivas competencias, coordinarán el proceso de transferencia de atribuciones, asuntos y recursos técnicos, humanos, materiales y financieros existentes, entre las dependencias reorganizadas, representadas por sus titulares o el personal que éstos designen, bajo el cumplimiento de las disposiciones generales y especiales emitidas para la entrega-recepción. Los asuntos y recursos con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente ordenamiento, serán transferidos íntegramente a la nueva dependencia que los que los (sic) asuma en un plazo máximo de ciento veinte días a partir de la entrada en vigor del mismo. Los titulares de las dependencias y unidades administrativas de origen y de nueva creación, con el apoyo de las dependencias coordinadoras del proceso de transferencia, proveerán y acordarán lo necesario para cumplir oportunamente el mismo. La Consejería Jurídica del Ejecutivo, la Coordinación General de Planeación e Inversión, las Secretarías de Finanzas y la Oficialía Mayor de Gobierno, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos no contemplados en el presente ordenamiento, escuchando previamente la opinión de la dependencia involucrada.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando algún órgano desconcentrado o unidad administrativa deba pasar de una dependencia a otra, la transferencia se realizará incluyendo los recursos humanos, financieros y materiales que el órgano desconcentrado o la unidad administrativa utilice para la atención de los asuntos de su conocimiento.
+
+###### ARTÍCULO NOVENO.
+
+Todos los recursos técnicos, materiales, financieros y humanos de la Secretaria de Obras Públicas, Desarrollo Urbano y Vivienda, pasarán a formar parte de la Secretaría de Infraestructura. La Secretaría de Infraestructura se subrogará en todos los derechos y obligaciones que hasta la fecha haya contraído la Secretaría de Obras Públicas, Desarrollo Urbano y Vivienda.
+
+###### ARTÍCULO DÉCIMO.
+
+Todos los recursos técnicos, informáticos, materiales, financieros y humanos de la Coordinación General de Ecología pasarán a formar parte de la Secretaría de Medio Ambiente. La Secretaría de Medio Ambiente se subrogará en todos los derechos y obligaciones que hasta la fecha haya contraído la Coordinación General de Ecología.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Todos los recursos técnicos, informáticos, materiales, financieros y humanos de la Secretaría de Políticas Públicas y Participación Ciudadana, pasarán a formar parte de la Coordinación General de Planeación e Inversión. La Coordinación General de Planeación e Inversión se subrogará en todos los derechos y obligaciones que hasta la fecha haya contraído la Secretaría de Políticas Públicas y Participación Ciudadana.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+A fin de programar, fijar prioridades administrativas y establecer tiempos, órganos y responsables de la profesionalización de la gestión pública del nuevo gobierno, la Oficialía Mayor de Gobierno elaborará y ejecutará, a más tardar en un plazo de ciento veinte días naturales, contados a partir de la entrada en vigor de la presente Ley, el Programa de Reingeniería Gubernamental del Estado de Tlaxcala, el cual tendrá como propósito establecer las bases, términos y condiciones de la reingeniería de la administración pública, según los conceptos y alcances que fije el Ejecutivo del Estado.
+
+Asimismo, en el citado plazo y con base en los criterios que fije el Ejecutivo del Estado, la Oficialía Mayor de Gobierno formulará e instrumentará el Plan de Reestructura de la Administración Pública Estatal, que tendrá como propósito desaparecer, fusionar, liquidar o reformar todas aquellas entidades, ya sean organismos descentralizados u órganos desconcentrados, a fin de evitar duplicidad de funciones y disponer de los recursos públicos de manera racional y con base en los principios de austeridad, eficiencia y eficacia. Para ello, dictará las medidas generales y específicas conducentes, en coordinación con la nueva Secretaría de Finanzas, las cuales repercutirán en el presupuesto de egresos del dos mil veintidós.
+
+Para el cumplimiento de lo anterior, el Titular del Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura de las dependencias creando, fusionando, escindiendo o disolviendo las unidades administrativas y oficinas necesarias; asimismo, podrá trasladar o crear las nuevas unidades administrativas y oficinas que resulten necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda.
+
+La Oficialía Mayor de Gobierno establecerá las medidas conducentes para garantizar la continuidad de las licitaciones, adjudicaciones y contrataciones en materia de obra pública. Para ello, le serán trasladados los recursos humanos, financieros, materiales y técnicos.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los procedimientos y demás asuntos que con motivo de la entrada en vigor de esta Ley deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a las nuevas dependencias o entidades o, en su caso, se establezcan las unidades administrativas que deban conocer aquéllos, en términos de esta Ley.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Todo instrumento jurídico o administrativo y norma en sentido formal o material, incluyendo los procedimientos judiciales, administrativos y/o conciliatorios, mencionados de manera enunciativa mas no limitativa, que a la entrada en vigor del presente ordenamiento, se refiera a las dependencias que dejan de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a las dependencias a que se refiere el presente ordenamiento y a las que se asignen las facultades específicas que en cada caso se relacionen, incluidas las de coordinación de sector de las entidades respectivas y participación en sus órganos de gobierno, siendo facultad del Titular del Ejecutivo, por conducto de la Consejería Jurídica del Ejecutivo, hacer la interpretación legal correspondiente y aclarar cualquier duda al respecto.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra de la administración pública centralizada, se respetarán en términos de la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios, y, en su caso, de los lineamientos para el Servicio Civil de Carrera vigentes.
+
+Se salvaguardan los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pertenezcan a un organismo público descentralizado, para que puedan ser contratados en la dependencia creada que se haga cargo del despacho de dicha dependencia de origen, cuando a dicho organismo público descentralizado le sea aplicable la Ley Federal del Trabajo.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El proceso de transición de atribuciones de las dependencias y unidades administrativas de origen a las de nueva creación culminará en la fecha en que tengan que entrar en funciones, en razón de las siguientes fechas:
+
+A) DEPENDENCIAS QUE ENTRARÁN EN FUNCIONES EL PRIMERO DE SEPTIEMBRE DE DOS MIL VEINTIUNO:
+
+Secretaría de Finanzas
+
+Secretaría de Infraestructura
+
+Secretaría de Movilidad y Transporte
+
+Coordinación General de Planeación e Inversión
+
+Secretaría de Medio Ambiente
+
+Secretaría de la Función Pública
+
+B) DEPENDENCIAS QUE ENTRARÁN EN FUNCIONES EL PRIMERO DE ENERO DE DOS MIL VEINTIDOS:
+
+Secretaría de Bienestar
+
+Secretaría de Ordenamiento Territorial y Vivienda
+
+Secretaría de Trabajo y Competitividad
+
+Coordinación General de Comunicación
+
+Secretaría de Cultura
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Las dependencias de nueva creación: Secretaría de Bienestar, Secretaría de Medio Ambiente, Coordinación General de Comunicación, Secretaría de Ordenamiento Territorial y Vivienda, Secretaría de Trabajo y Competitividad y Secretaría de Cultura, tendrán un plazo de ciento veinte días contados a partir del nombramiento de su titular, para la elaboración, revisión, aprobación y expedición de su reglamento interior, en términos del Programa de Reingeniería Gubernamental del Estado de Tlaxcala y el Plan de Reestructura de la Administración Pública Estatal.
+
+La Coordinación General de Planeación e Inversión, la Secretaría de Infraestructura, la Secretaría de Movilidad y Transporte y la Secretaría de la Función Pública, tendrán ciento veinte días contados a partir de la entrada en vigor de la presente ley, para adecuar su reglamento interior y publicar sus reformas; en términos del Programa de Reingeniería Gubernamental del Estado de Tlaxcala y el Plan de Reestructura de la Administración Pública Estatal y en tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
+
+La Oficialía Mayor de Gobierno vigilará y supervisará estas disposiciones a fin de darles cumplimiento en tiempo y forma. Además, establecerá las medidas necesarias para actualizar y publicar sus manuales administrativos correspondientes.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+La Secretaría de Finanzas designará los recursos económicos necesarios para la capacitación del personal de nuevo ingreso que sea adscrito a las dependencias de nueva creación, dentro de los ciento veinte días contados a partir la entrada en vigor de la presente ley. La Oficialía Mayor de Gobierno coordinará y organizará la capacitación mencionada.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Ejecutivo Estatal, a través de la Oficialía Mayor de Gobierno y la Coordinación General de Comunicación, contará con cuarenta días contados a partir (sic) la entrada en vigor de la presente ley, para publicar y dar a conocer a la población las nuevas denominaciones de las dependencias que cambian de nombre a partir del primero de septiembre de dos mil veintiuno. Asimismo, difundirá y dará a conocer la nueva estructura de la Administración Pública que operará en el estado a partir del año de dos mil veintidós.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan aquellas disposiciones que se opongan con el contenido del presente Decreto.
