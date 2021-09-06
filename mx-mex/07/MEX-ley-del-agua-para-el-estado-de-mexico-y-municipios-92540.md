@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2021-01-05"
+last_updated: "2021-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -1061,7 +1061,9 @@ Los representantes del consejo directivo tendrán voz y voto, con excepción del
 
 La dirección del organismo operador intermunicipal estará a cargo de un director general nombrado por el consejo directivo, a propuesta de los municipios que suscriban el convenio de coordinación.
 
-Para ocupar el cargo de director general, se requerirá experiencia mínima de tres años en la administración de servicios.
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+Para ocupar el cargo de director general, se requerirá experiencia mínima de dos años en servicios de agua o infraestructura hidráulica, o contar con experiencia comprobada técnica, administrativa, científica, de investigación, de prestación de los servicios públicos o cualquier otra, relacionada con la materia.
 
 ###### Artículo 40.
 
@@ -1479,13 +1481,19 @@ Las condiciones a que deberán sujetarse los usuarios para la prestación de los
 
 Las personas físicas o jurídicas colectivas requieren permiso de autoridad competente para descargar aguas residuales en cuerpos receptores de jurisdicción estatal o municipal, en los términos que señale la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+En el procedimiento descrito en el párrafo anterior, las personas físicas o jurídicas colectivas autorizadas, adoptarán dentro de sus procesos, la utilización de materiales biodegradables, siempre y cuando técnicamente sean viables, atendiendo a las normas de carácter técnico en la materia.
+
 Queda prohibido:
 
 I. Descargar a los cuerpos de agua y sistemas de drenaje y alcantarillado, desechos sólidos o sustancias que puedan contaminar o alterar física, química o biológicamente las aguas claras de las corrientes, cauces, vasos o depósitos, o que por sus características puedan poner en peligro el funcionamiento de la infraestructura hidráulica, la seguridad de un núcleo de población o de sus habitantes;
 
 II. Instalar conexiones clandestinas al drenaje o alcantarillado para realizar sus descargas;
 
-III. Realizar alguna derivación para incumplir las obligaciones previstas en la presente Ley y su Reglamento; y
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+III. Realizar alguna derivación para incumplir las obligaciones previstas en la presente Ley y su Reglamento, y
 
 IV. Realizar descargas de un predio a otro sin la autorización de su propietario o poseedor y del prestador de los servicios.
 
@@ -2992,3 +3000,11 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 327.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO AL ARTÍCULO 39, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 80, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES Y SUS FRACCIONES, AMBOS DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
