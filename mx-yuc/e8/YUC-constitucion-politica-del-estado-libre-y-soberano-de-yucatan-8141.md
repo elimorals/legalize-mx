@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2021-07-05"
+last_updated: "2021-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -2743,9 +2743,13 @@ Las leyes que se dicten en esta materia atenderán la vigilancia y orientarán l
 
 La familia es una institución social permanente a la que se reconoce como el fundamento primordial de la sociedad sobre la cual evoluciona el Estado. Es una institución integrada por dos o más personas unidas o emparentadas entre sí, por afinidad, por consanguinidad o por adopción, que como comunidad afectiva y de convivencia, potencía el libre desarrollo de todos sus miembros.
 
-El matrimonio es una institución por medio del cual se establece la unión jurídica de un hombre y una mujer, con igualdad de derechos, deberes y obligaciones, con la posibilidad de generar la reproducción humana de manera libre, responsable e informada. El Estado reconoce que es de vital interés para la sociedad que en la unión de hombre y mujer para la procreación, se establezcan límites en cuanto a la edad y salud física y psíquica.
+> <small>(REFORMADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
 
-El concubinato es la unión de un hombre y una mujer, quienes libres de matrimonio, viven como esposos y pueden generar una familia, en los términos que fije la ley.
+El matrimonio es una institución por medio del cual se establece la unión jurídica, libre y voluntaria de dos personas, con igualdad de derechos, deberes y obligaciones, para realizar la comunidad de vida, en donde ambos se procuran respeto y ayuda mutua. El Estado reconoce que es de vital interés para la sociedad que en la unión de dos personas, se establezcan límites en cuanto a la edad y salud física y psíquica.
+
+> <small>(REFORMADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+El concubinato es la unión de dos personas, quienes libres de matrimonio, viven como cónyuges pueden generar una familia, en los términos que fije la ley.
 
 El Estado y la ley protegerán la organización y el desarrollo de la familia, así como el respeto a su dignidad e intimidad. Asimismo, regularán el matrimonio, las causas de separación, disolución y sus efectos; así como las condiciones para la constitución del concubinato.
 
@@ -4822,3 +4826,15 @@ D.O. 5 DE JULIO DE 2021.
 Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 413/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE MATRIMONIO IGUALITARIO".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Armonización legal
+
+Artículo segundo. El Congreso del Estado de Yucatán, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de este decreto, deberá realizar las adecuaciones a la legislación secundaria que correspondan.
