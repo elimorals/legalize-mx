@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2017-11-24"
+last_updated: "2021-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -125,9 +125,13 @@ XXII. Coordinarse, en el ámbito de su competencia, con las autoridades federale
 
 XXIII. Desempeñar las atribuciones establecidas en el artículo 23 y en las demás disposiciones de la Ley Nacional de Ejecución Penal.
 
+> <small>(ADICIONADA, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+XXIV. Así como llevar el registro de los obligados alimentarios que hayan incurrido en morosidad en el cumplimiento de sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial.
+
 > <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-XXIV. Las demás que establezcan esta ley, la ley procesal, la Ley Nacional de Ejecución Penal, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y otras disposiciones legales y normativas aplicables.
+XXV. Las demás que establezcan esta ley, la ley procesal, la Ley Nacional de Ejecución Penal, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 5.
 
@@ -377,6 +381,10 @@ Excusa del Fiscal General
 
 El Fiscal General deberá excusarse de conocer los asuntos en los casos señalados en el artículo anterior, pero no podrá ser recusado. El Gobernador calificará las excusas del Fiscal General.
 
+### Capítulo VI. Del Registro de Deudores Alimentarios Morosos de Yucatán
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
 Responsabilidades
@@ -430,6 +438,110 @@ III. Suspensión del empleo, sin goce de sueldo, hasta por noventa días.
 IV. Remoción, salvo que se trate de integrantes del servicio profesional de carrera.
 
 Las sanciones serán impuestas por la autoridad competente, conforme al procedimiento establecido en el reglamento de esta ley. Supletoriamente serán aplicables las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 19.
+
+De su Objeto.
+
+El Registro de Deudores Alimentarios Morosos de Yucatán tiene por objeto fungir como un mecanismo que se emplea para inscribir a los deudores alimentarios morosos, para hacerlos responsables de su obligación de dar alimentos; se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial.
+
+La Fiscalía, deberá llevar un registro electrónico con los datos a que hace mención el artículo 23 de la presente Ley, que estará a disposición para su consulta de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial de manera gratuita y exclusivamente para el ejercicio de sus funciones. Para lo cual, deberán coordinarse con la Fiscalía, para efectos de la implementación de sistemas electrónicos e informáticos que permitan su funcionamiento y operación.
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20.
+
+De su finalidad
+
+El Registro de Deudores Alimentarios Morosos de Yucatán tendrá como finalidad:
+
+I.- Coadyuvar en la protección de los derechos de alimentos de las personas que tengan el carácter de acreedor alimentario conforme a las disposiciones que ordenen las leyes respectivas.
+
+II.- Hacer pública la información de quienes deban pensión alimenticia.
+
+III.- Generar un medio de persuasión y sanción a los deudores alimenticios morosos para que no eludan su deber y cumplan con las obligaciones familiares a la que se encuentren sujetos.
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 21.
+
+De la inscripción de deudores alimentarios
+
+La Fiscalía deberá realizar la inscripción del deudor alimentario dentro de las 48 horas de recibido el oficio judicial que así lo ordene.
+
+El órgano jurisdiccional deberá proporcionar los datos contenidos en el artículo 23 para ordenar su inscripción en el Registro de Deudores Alimentarios Morosos de Yucatán.
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 22.
+
+Publicidad
+
+El Registro de Deudores Alimentarios Morosos de Yucatán será público y estará a disposición de todos aquellos que requieran información, para lo cual, la Fiscalía, estará facultado para la expedición de certificados con la constancia que obre en dicho registro.
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 23.
+
+De los datos que integran el Registro de Deudores Alimentarios Morosos de Yucatán
+
+El Registro de Deudores Alimentarios Morosos de Yucatán se integrará por los siguientes datos:
+
+I.- Nombre completo del Deudor Alimentario moroso.
+
+II.- Clave Única del Registro de Población del deudor alimentario moroso.
+
+III.- Domicilio del deudor alimentario moroso
+
+IV.- Nacionalidad del deudor alimentario moroso.
+
+V.- Profesión u oficio, si fuera desconocido se hará constar esa circunstancia.
+
+VI.- Nombre del acreedor o acreedores alimentarios.
+
+VII.- Monto del adeudo alimentario.
+
+VIII.- Número de veces que se ha ordenado su registro.
+
+IX.- Órgano jurisdiccional que ordena su registro.
+
+X.- Numeración del expediente o causa de la que derive su inscripción.
+
+Estos datos se protegerán en términos de la legislación vigente en la materia de protección de datos personales.
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 24.
+
+Del contenido de los certificados de Adeudo de Obligaciones Alimentarias
+
+Los certificados de Adeudo de las Obligaciones Alimentarias contendrán la siguiente información:
+
+I.- Nombre completo del deudor alimentario moroso.
+
+II.- La leyenda de si se encuentra o no inscrito en el Registro de Deudores Alimentarios Morosos de Yucatán.
+
+Se emitirán certificados de Adeudo de las Obligaciones Alimentarias con los datos contenidos en el artículo 23, únicamente cuando el solicitante acredite su interés jurídico.
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 25.
+
+Del deudor alimentario.
+
+Se constituye deudor alimentario moroso aquella persona que incumpla con la ministración de los alimentos a los que se encuentre obligado, por un período de noventa días naturales, consecutivos o no, y siempre que dicha obligación sea ordenada por un órgano jurisdiccional.
+
+Cuando el deudor alimentario moroso acredite que ha cumplido con la totalidad del monto adeudado por pago de pensión por los que fue inscrito, podrá solicitar la cancelación del registro ante el mismo juez que lo ordenó. La Fiscalía hará la cancelación respectiva previa orden judicial, dentro de las 48 horas siguientes a la recepción de la orden de cancelación.
+
+El deudor alimentario moroso podrá presentar propuestas o celebrar contratos o convenios contenidos y/o regulados por la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y/o la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con muebles del Estado, así como formar parte de su Padrón de Contratistas y Proveedores siempre y cuando éste informe, bajo formal protesta de decir verdad, estar en proceso de cumplimiento de sus obligaciones en materia alimentaria ante la instancia correspondiente, a más tardar dentro de los 30 días siguientes a la adjudicación de la obra, adquisición o servicio de que se trate. En caso de incumplimiento se deberá de dar la rescisión anticipada.
+
+La dependencia o entidad informará a la instancia correspondiente de la adjudicación otorgada al deudor alimentario para los efectos judiciales o administrativos a los que haya lugar.
+
+El deudor alimentario moroso no podrá tramitar o renovar la licencia de conducir ni acceder a beneficios económicos otorgados por el titular del poder ejecutivo del Estado de Yucatán por decreto, mientras siga inscrito como deudor en el Registro de Deudores Alimentarios Morosos de Yucatán. Lo anterior, salvo que se demuestre que la licencia de conducir sea una herramienta indispensable de trabajo para solventar las obligaciones alimentarias.
+
+En caso de reincidencia, el deudor alimentario no podrá acceder a las excepciones y salvedades señaladas en los párrafos anteriores.
 
 ## Artículos transitorios
 
@@ -562,3 +674,13 @@ El gobernador deberá regular a la comisión intersecretarial para la reinserci�
 Décimo. Previsiones presupuestales
 
 El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
+
+D.O. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 412/2021 POR EL QUE SE MODIFICAN LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES, EN MATERIA DE CREACIÓN DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. La fiscalía contará con 120 días (sic) partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado para poner en funcionamiento el Registro de Deudores Alimentarios Morosos de Yucatán.
+
+Artículo tercero. Se derogan las disposiciones emitidas con anterioridad que se opongan al presente decreto.
