@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2021-01-26"
+last_updated: "2021-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -1627,7 +1627,9 @@ B) Cambio en la razón o denominación social.
 
 C) Actualización o modificación del programa de cómputo autorizado.
 
-Asimismo, los permisionarios informarán a la Secretaría de Finanzas dentro de los cinco días hábiles siguientes, de la sustitución o adición de peritos valuadores en todas sus unidades económicas.
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
+Asimismo, los permisionarios informarán a la Secretaría de Finanzas o a la Ventanilla de Gestión, dentro de los cinco días hábiles siguientes, de la sustitución o adición de peritos valuadores en todas sus unidades económicas.
 
 > <small>(ADICIONADO, G.G. 18 DE ABRIL DE 2016)</small>
 
@@ -1679,9 +1681,11 @@ Para la expedición, revalidación, reposición o modificación de los permisos 
 
 Los permisos deberán revalidarse anualmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 134.
 
-Para obtener el permiso de apertura, instalación y funcionamiento de las unidades económicas que rige este Capítulo, el solicitante o representante legal, con independencia de lo dispuesto en otros ordenamientos legales, debe presentar una solicitud por escrito ante la ventanilla de gestión, con los datos y documentos siguientes:
+Para obtener el permiso de apertura, instalación y funcionamiento de las unidades económicas que rige este Capítulo, el solicitante o representante legal, con independencia de lo dispuesto en otros ordenamientos legales, podrá presentar una solicitud por escrito ante la Ventanilla de Gestión o ante la Secretaría de Finanzas, con los datos y documentos siguientes:
 
 I. Nombre, razón social o denominación de la casa de empeño o comercializadora.
 
@@ -1703,19 +1707,21 @@ IX. Adjuntar copia del formato del contrato de mutuo con interés y garantía pr
 
 X. Si el solicitante es persona jurídica colectiva debe acompañar copia certificada del acta constitutiva, así como el poder notarial otorgado al representante legal.
 
-> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
 
-XI. Exhibir la licencia de uso de suelo expedida por la autoridad municipal o estatal, en su caso.
+XI. Exhibir la licencia de uso de suelo, expedida por la autoridad municipal o estatal, en su caso, o la licencia de funcionamiento vigente, y
 
 XII. Adjuntar copia del recibo fiscal de pago de los derechos correspondientes, expedido por la Secretaría de Finanzas.
 
-> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
 
-Cuando se trate de casas de empeño, una vez cumplidos tales requisitos, adicionalmente se deberá presentar dentro de los cinco días posteriores al de la aprobación de la solicitud, contrato de seguro ante una compañía aseguradora debidamente acreditada conforme a la legislación aplicable, suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados, mismo que en ningún caso podrá ser menor al valor que el perito valuador otorgue al momento del empeño, el cual deberá ser renovado anualmente para efectos de la revalidación del permiso correspondiente.
+Cuando se trate de casas de empeño, una vez cumplidos los requisitos anteriores, adicionalmente se deberá presentar dentro de los cinco días posteriores al de la aprobación de la solicitud, contrato de seguro ante una compañía aseguradora debidamente acreditada conforme a la legislación aplicable, suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados, mismo que en ningún caso podrá ser menor al valor que el perito valuador otorgué al momento del empeño, el cual deberá ser renovado anualmente para efectos de la revalidación del permiso correspondiente y que contenga por lo menos, las siguientes coberturas; responsabilidad civil, fenómenos meteorológicos, robo con y sin violencia, incendio, pérdida, extravío y deterioro de los bienes empeñados.
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 135.
 
-La Secretaría de Finanzas tendrá un plazo de cinco días hábiles para contestar, contados a partir de la recepción del oficio con el cual la ventanilla de gestión remita la solicitud correspondiente.
+La Secretaría de Finanzas tendrá un plazo de cinco días hábiles para contestar, contados a partir de la recepción de la solicitud del permiso correspondiente ante dicha Secretaría, o bien, a partir de la recepción del oficio con el cual la Ventanilla de Gestión remita la solicitud.
 
 ###### Artículo 136.
 
@@ -1783,9 +1789,11 @@ III. Por cambio de propietario, para lo cual el interesado en adquirir, previame
 
 El permisionario deberá solicitar la modificación del permiso en un plazo que no exceda de cinco días hábiles, contados a partir de que se dé alguno de los supuestos previstos en el artículo que antecede.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 144.
 
-Para la modificación de un permiso, el interesado deberá presentar ante la Secretaría de Finanzas los documentos siguientes:
+Para la modificación de un permiso, el interesado deberá presentar ante la Secretaría de Finanzas o la Ventanilla de Gestión, los documentos siguientes:
 
 I. Solicitud por escrito expresando la causa que motiva la petición.
 
@@ -1813,9 +1821,11 @@ Es obligación del permisionario de las casas de empeño, en los casos de modifi
 
 En caso de que la resolución notificada niegue la modificación del permiso, el interesado podrá inconformarse en los términos previstos por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 149.
 
-El permisionario tiene la obligación de revalidar anualmente su permiso, debiendo presentar ante la Secretaría de Finanzas lo siguiente:
+El permisionario tiene la obligación de revalidar anualmente su permiso, debiendo presentar ante la Secretaría de Finanzas o la Ventanilla de Gestión, lo siguiente:
 
 I. Solicitud por escrito.
 
@@ -1935,21 +1945,31 @@ Las casas de empeño no podrán utilizar, bajo ningún título, los objetos pign
 
 Las casas de empeño deberán informar periódicamente a la Secretaría de Finanzas, del registro que realicen del contrato de adhesión de mutuo con interés y garantía prendaria ante la Procuraduría Federal del Consumidor, en cumplimiento de las normas aplicables al caso.
 
-> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 163.
 
-Las casas de empeño quedan obligadas a indemnizar a los pignorantes en los casos de pérdida, extravío, deterioro, incendio o cualquier otra causa que les impida hacer entrega de la cosa empeñada en la misma forma en que la recibieron, a través de alguna de las siguientes opciones, a elección de los pignorantes:
+Las casas de empeño quedan obligadas a indemnizar a los pignorantes cuando, por pérdida, extravío, deterioro, incendio o a causa de algún siniestro, les impida hacer entrega de la cosa empeñada en la misma forma en que la recibieron, a través de alguna de las siguientes opciones, a elección de los pignorantes:
+
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
 
 I. La entrega del valor del bien conforme al avalúo señalado en el contrato de mutuo.
+
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
 
 II. La entrega de un bien del mismo tipo, valor, marca y calidad.
 
 Tratándose de metales preciosos, el valor de reposición del bien, no podrá ser inferior al valor estipulado en el contrato.
 
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
 III. La indemnización del bien se hará en un plazo que no excederá los quince días naturales posteriores al vencimiento del contrato.
 
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
 IV. En caso de incumplimiento de la indemnización se aplicará un interés idéntico al que la casa de empeño fija a partir del siguiente día hábil en que tenga vencimiento el pago.
+
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
 
 La infracción a esta disposición se sancionará conforme a lo dispuesto en el artículo 191 de la presente Ley.
 
@@ -2007,9 +2027,11 @@ Corresponde al Ejecutivo del Estado, a través de la Secretaría de Finanzas con
 
 La vigencia de la constancia de inscripción de valuadores otorgada por la Secretaría será de doce meses, contada a partir de la fecha de su expedición. La misma vigencia tendrá cada renovación que se tramite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 172.
 
-Para la tramitación de la constancia respectiva los valuadores deberán presentar la documentación siguiente:
+Para la tramitación de la constancia respectiva los valuadores deberán presentar ante la Secretaría de Finanzas o la Ventanilla de Gestión, la documentación siguiente:
 
 I. Solicitud por escrito dirigida a la Secretaría de Finanzas, la cual deberá contener los datos generales del valuador (nombre, edad, estado civil, registro federal de contribuyentes, profesión, domicilio), así como el nombre de la casa de empeño o comercializadora donde presta y/o prestará sus servicios.
 
@@ -2031,9 +2053,11 @@ Cuando la solicitud de inscripción no cumpla con cualquiera de los requisitos s
 
 La Secretaría de Finanzas contará con un término de cinco días hábiles posteriores a la fecha en que el solicitante remita el escrito de desahogo conducente, para emitir la resolución respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 174.
 
-Para obtener la renovación de la constancia de valuadores ante la Secretaría de Finanzas, los solicitantes deberán presentar los documentos siguientes:
+Para obtener la renovación de la constancia de valuadores, los solicitantes deberán presentar ante la Secretaría de Finanzas o a la Ventanilla de Gestión, los documentos siguientes:
 
 I. Escrito dirigido a la Secretaría de Finanzas solicitando la renovación de su inscripción, el cual deberá contener los datos generales actualizados del valuador (nombre, edad, estado civil, registro federal de contribuyentes, profesión, domicilio), así como el nombre de la casa de empeño o comercializadora donde presta y/o prestará sus servicios.
 
@@ -2267,11 +2291,11 @@ VIII. Clausura permanente cuando la unidad económica expenda o suministre bebid
 
 IX. Clausura permanente cuando en una unidad económica se permita el baile con contenido sexual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 191.
 
-Cuando se trate de unidades económicas de casas de empeño y comercializadoras, corresponde a la Secretaría de Finanzas, en el ámbito de sus atribuciones, imponer multa de cincuenta a quinientas Unidades de Medida y Actualización, a los titulares de las casas de empeño o comercializadoras cuando:
+Cuando se trate de unidades económicas de casas de empeño y comercializadoras, corresponde a la Secretaría de Finanzas, en el ámbito de sus atribuciones, imponer multa de cincuenta a tres mil Unidades de Medida y Actualización, a los titulares de las casas de empeño o comercializadoras cuando:
 
 I. Una persona física o jurídica colectiva instale o haga funcionar una unidad económica sin contar con el permiso expedido por la Secretaría de Finanzas, o realice las actividades que regula esta Ley, sin autorización.
 
@@ -2878,3 +2902,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 329.- POR EL QUE SE REFORMA EL PÁRRAFO CUARTO (SIC) DEL ARTÍCULO 129, LOS PÁRRAFOS PRIMERO, SEGUNDO Y LA FRACCIÓN XI DEL ARTÍCULO 134, EL ARTÍCULO 135, EL PRIMER PÁRRAFO DEL ARTÍCULO 144, EL PRIMER PÁRRAFO DEL ARTÍCULO 149, EL PRIMER PÁRRAFO DEL ARTÍCULO 163, EL PRIMER PÁRRAFO DEL ARTÍCULO 172, EL PRIMER PÁRRAFO DEL ARTÍCULO 174 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 191 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
