@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-8130"
 country: "mx"
 rank: "ley"
 publication_date: "1988-10-04"
-last_updated: "2016-12-28"
+last_updated: "2021-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 4 de Octubre de 1988.
 
@@ -291,7 +291,13 @@ No podrán presentar propuestas ni celebrar pedidos o contratos, las personas f�
 
 I.- Aquellas en cuyas empresas participe el servidor público que deba decidir directamente, o los que le hayan delegado tal facultad, sobre la adjudicación del pedido o contrato, o su cónyuge o sus parientes consanguíneos o por afinidad hasta el cuarto grado, o civiles, sea como accionista, administrador, gerente, apoderado o comisario.
 
-II.- Los demás que por cualquier causa se encuentren impedidos para ello por disposición de Ley.
+> <small>(ADICIONADA, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Aquellas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos de Yucatán, salvo las excepciones previstas en la ley.
+
+> <small>(REFORMADA, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Los demás que por cualquier causa se encuentren impedidos para ellos (sic) por disposición de Ley.
 
 ###### ARTICULO 28º.
 
@@ -418,3 +424,13 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 6 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 412/2021 POR EL QUE SE MODIFICAN LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES, EN MATERIA DE CREACIÓN DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. La fiscalía contará con 120 días (sic) partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado para poner en funcionamiento el Registro de Deudores Alimentarios Morosos de Yucatán.
+
+Artículo tercero. Se derogan las disposiciones emitidas con anterioridad que se opongan al presente decreto.
