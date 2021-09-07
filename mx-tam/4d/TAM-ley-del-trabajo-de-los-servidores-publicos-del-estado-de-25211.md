@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2021-07-14"
+last_updated: "2021-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -375,7 +375,9 @@ Las mujeres trabajadoras tendrán los siguientes derechos relacionados con el em
 
 l.- Durante el período del embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso;
 
-II.- Disfrutarán de un descanso, al menos, de seis semanas anteriores y seis posteriores al parto;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Disfrutarán de un descanso, al menos, de seis semanas anteriores y seis posteriores al parto. En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
 
 III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario, en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto;
 
@@ -1598,3 +1600,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-612 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 32 BIS DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
