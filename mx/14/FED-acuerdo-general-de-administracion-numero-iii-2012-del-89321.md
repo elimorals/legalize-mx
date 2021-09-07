@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-iii-2012-del-89321"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-09-06"
-last_updated: "2012-09-06"
+last_updated: "2021-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89321&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-09-04"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO III/2012 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [SE EMITEN LAS BASES PARA INVESTIGAR Y SANCIONAR EL ACOSO LABORAL Y EL ACOSO SEXUAL EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2021 DEL DOS DE SEPTIEMBRE DE DOS MIL VEINTIUNO, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LAS DIRECTRICES DEL MECANISMO INTEGRAL PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO SEXUAL Y CUALQUIER OTRA FORMA DE VIOLENCIA SEXUAL Y DE GÉNERO, PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2012, DEL TRES DE JULIO DE DOS MIL DOCE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, MEDIANTE EL CUAL SE EMITEN LAS BASES PARA INVESTIGAR Y SANCIONAR EL ACOSO LABORAL Y EL ACOSO SEXUAL EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de septiembre de 2012.
 
@@ -130,3 +132,23 @@ TERCERO. La Coordinación de Derechos Humanos y Asesoría de la Presidencia de l
 El Ministro Presidente Juan N. Silva Meza.- Rúbrica.- El Ministro Luis María Aguilar Morales.- Rúbrica.- El Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.
 
 EL LICENCIADO ALFREDO FARID BARQUET RODRIGUEZ, DIRECTOR GENERAL DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CON FUNDAMENTO EN LOS ARTICULOS 11, FRACCION X, Y 27, FRACCION III, DEL REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION CERTIFICA: Que esta copia del "ACUERDO GENERAL DE ADMINISTRACION NUMERO III/2012, DEL TRES DE JULIO DE DOS MIL DOCE, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, MEDIANTE EL CUAL SE EMITEN LAS BASES PARA PARA (SIC) INVESTIGAR Y SANCIONAR EL ACOSO LABORAL Y EL ACOSO SEXUAL EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION", constante de siete fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General y se certifica para la difusión correspondiente. México, Distrito Federal, a cuatro de septiembre de dos mil doce.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN IX/2021 DEL DOS DE SEPTIEMBRE DE DOS MIL VEINTIUNO, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LAS DIRECTRICES DEL MECANISMO INTEGRAL PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO SEXUAL Y CUALQUIER OTRA FORMA DE VIOLENCIA SEXUAL Y DE GÉNERO”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO. Se abrogan el Acuerdo General de Administración Número III/2012, del tres de julio de dos mil doce, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, mediante el cual se emiten las Bases para investigar y sancionar el acoso laboral y el acoso sexual en la Suprema Corte de Justicia de la Nación, y el Acuerdo General de Administración del seis de marzo de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se crea la Unidad Especial de Atención a Quejas o Denuncias por acoso laboral y/o sexual en el Alto Tribunal, así como se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Se deja sin efectos el Manual de buenas prácticas para investigar y sancionar el acoso laboral y/o el acoso sexual en la Suprema Corte de Justicia de la Nación, y se instruye se realicen las acciones necesarias para que se emitan los instrumentos correspondientes, con el propósito de dar cumplimiento a las disposiciones previstas en el presente Acuerdo General de Administración.
+
+CUARTO. Las áreas competentes de la Oficialía Mayor, en coordinación con la Unidad General de Igualdad de Género, realizarán las modificaciones a la estructura orgánica de esta Unidad que sean necesarias a fin de dar cumplimiento a las disposiciones del presente Acuerdo General de Administración.
+
+QUINTO. La Unidad General de Igualdad de Género ejercerá las atribuciones para brindar atención a los casos de acoso sexual y de cualquier otra forma de violencia sexual y de género de conformidad con lo previsto en el presente Acuerdo General de Administración, aun cuando éstos hayan ocurrido antes de la entrada en vigor del mismo.
+
+SEXTO. La Dirección General de Servicios Médicos proporcionará acompañamiento psicológico a las personas afectadas o denunciantes a que se refiere el presente Acuerdo General de Administración, hasta en tanto la Unidad General de Igualdad de Género cuente con el personal especializado para tal efecto.
+
+SÉPTIMO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
