@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2021-02-12"
+last_updated: "2021-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -51,13 +51,13 @@ Esta ley tiene por objeto:
 
 I. Promover y garantizar la igualdad sustantiva transversalizando la perspectiva de género en todas sus actuaciones y procurando la utilización de un lenguaje no sexista dentro en sus documentos oficiales, el derecho a la igualdad real de oportunidades y trato de las personas, a participar y beneficiarse de manera incluyente en las actividades educativas, de salud, productivas, económicas, laborales, políticas, culturales, recreativas, y en general en todas aquellas que permiten el desarrollo pleno e integral de las personas, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-II. Prevenir toda forma de discriminación en contra de cualquier persona, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social, económica o de salud, estado de gravidez, lengua, religión, expresión de las ideas u opiniones, preferencias sexuales, estado civil, filiación e identidad política, apariencia física o cualquier otra que atente contra la dignidad humana y que represente obstáculo para su desarrollo pleno e integral, en los términos de lo establecido en los artículos séptimo y octavo de la Constitución Política del Estado de Coahuila de Zaragoza.
+II. Prevenir toda forma de discriminación en contra de cualquier persona, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social, económica o de salud, estado de gravidez, lengua, religión, expresión de las ideas u opiniones, preferencias sexuales, estado civil, filiación e identidad política, apariencia física, empleo, profesión u oficio, o cualquier otra que atente contra la dignidad humana y que represente obstáculo para su desarrollo pleno e integral, en los términos de lo establecido en los artículos séptimo y octavo de la Constitución Política del Estado de Coahuila de Zaragoza.
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-III. Definir los tipos de discriminación que viven los diversos grupos afectados por este hecho, en función de sus propias características o forma de vida, por su origen étnico o nacional, el sexo, la edad, la discapacidad, la condición de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil y otras diferencias que pueden ser motivos de distinción y exclusión o restricción de derechos. Conforme a su participación social o ámbito de acción, priorizando el carácter educativo y formativo de esta la (sic) ley para la población de la entidad, particularmente de las nuevas generaciones.
+III.- Definir los tipos de discriminación que viven los diversos grupos afectados por este hecho, en función de sus propias características o forma de vida, por su origen étnico o nacional, el sexo, la edad, la discapacidad, la condición de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil, su empleo, profesión u oficio, y otras diferencias que pueden ser motivos de distinción y exclusión o restricción de derechos. Conforme a su participación social o ámbito de acción, priorizando el carácter educativo y formativo de esta la ley para la población de la entidad, particularmente de las nuevas generaciones.
 
 ###### ARTÍCULO 3.
 
@@ -79,9 +79,9 @@ IV. Dirección: La Dirección para Promover la Igualdad y Prevenir la Discrimina
 
 V. Discapacidad: Es el resultado de la interacción entre las personas con diversidad funcional y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Discriminación: Toda ley, acto, hecho o conducta que provoque distinción, exclusión, restricción, o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política, apariencia física, identidad o expresión de género o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+VI. Discriminación: Toda ley, acto, hecho o conducta que provoque distinción, exclusión, restricción, o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política, apariencia física, identidad o expresión de género, empleo, profesión u oficio, o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
 VII. Estado: El Estado Libre y Soberano de Coahuila de Zaragoza;
 
@@ -192,6 +192,10 @@ v.- Discriminación por identidad o expresión de género: Se produce cuando exi
 > <small>[N. DE E. PERTENECE AL INCISO V, P.O. 31 DE ENERO DE 2020]</small>
 
 Esta puede ser realizada hacia cualquier género en un orden moral o físico por no mostrar la identidad de género esperada socialmente.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
+
+w.- Discriminación por razón de empleo, profesión u oficio: se presenta por condición del trabajo que desempeñan o el centro de trabajo en que laboran; se les priva, restringe o niega la entrada, el acceso y/o uso de espacios o servicios públicos o privados, debido al estigma o prejuicios de particulares, servidores públicos o de la sociedad en general, o bien, cuando reciben cualquier tipo de agresión o de aislamiento social o es víctima de cualquier otra práctica discriminatoria motivada por causa de su empleo, profesión u oficio.
 
 ###### ARTÍCULO 4.
 
@@ -1424,3 +1428,11 @@ P.O. 12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 915.- SE MODIFICA EL CONTENIDO DEL INCISO B DEL ARTÍCULO 3 BIS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 86.- SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 2°, ASÍ COMO LA FRACCIÓN VI DEL ARTÍCULO 3° Y SE ADICIONA EL INCISO W) AL ARTÍCULO 3° BIS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
