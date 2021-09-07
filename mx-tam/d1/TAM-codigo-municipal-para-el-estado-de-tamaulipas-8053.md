@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2021-07-14"
+last_updated: "2021-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2177,9 +2177,9 @@ Los derechos que cobren las Tesorerías Municipales, serán estrictamente los qu
 
 Los propietarios o poseedores de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios y reflejen mal aspecto y falta de conservación en relación con los inmuebles que colinden, están obligados a realizar la limpieza y desmonte de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas, así como contribuir a la buena imagen del Municipio. En caso de no hacerlo, el servicio será prestado por el Ayuntamiento, el cual realizará la limpieza o desmonte correspondiente, haciéndolo cuando menos en un contorno externo en el caso de viviendas, construcciones o edificaciones deshabitadas y en condición de abandono, con cargo al propietario o poseedor, a través de la notificación respectiva, con base en la reglamentación correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-Los propietarios o poseedores de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios, a que se refiere el primer párrafo, que hagan caso omiso a los exhortos o notificaciones para que cumplan con su obligación y respecto de los cuales el Ayuntamiento o la autoridad administrativa competente, ante esta falta administrativa, hubiesen realizado el servicio de limpieza o desmonte de conformidad con los programas permanentes de saneamiento ambiental e higiene a las comunidades, serán sujetos de cobro por derechos de los servicios de limpieza o desmonte realizados. Estos programas especificarán periodos para la realización de los servicios de limpieza y desmonte de tal suerte que se contemple su aplicación permanente en todo el Municipio.
+Los propietarios o poseedores de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios, a que se refiere el primer párrafo, que hagan caso omiso a los exhortos o notificaciones para que cumplan con su obligación y respecto de los cuales el Ayuntamiento o la autoridad administrativa competente, ante esta falta administrativa, hubiesen realizado el servicio de limpieza o desmonte de conformidad con los programas permanentes de saneamiento ambiental e higiene a las comunidades, serán sujetos de cobro por derechos de los servicios de limpieza o desmonte realizados conforme al procedimiento que para el caso, establezcan los ayuntamientos en sus reglamentos y leyes de ingresos. Estos programas especificarán periodos para la realización de los servicios de limpieza y desmonte de tal suerte que se contemple su aplicación permanente en todo el Municipio.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
 
@@ -6460,3 +6460,15 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-630 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 140, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos deberán expedir el reglamento a que se hace referencia, o bien, podrán ajustar el vigente, atendiendo al contenido del presente Decreto en un plazo no mayo de 60 días naturales.
