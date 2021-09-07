@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-129935
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-12"
-last_updated: "2018-07-12"
+last_updated: "2021-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021 (ABROGADO).
 
 Estatuto publicado en la Segunda Parte al Número 139 del Periódico Oficial del Gobierno del Estado de Guanajuato, el jueves 12 de julio de 2018.
 
@@ -918,3 +920,21 @@ Artículo Segundo. La Secretaría Técnica deberá presentar la estructura orgá
 Asimismo, su implementación será de manera gradual, sujeta a las disposiciones normativas y disponibilidad presupuestal de la Secretaría Ejecutiva, sin detrimento del cumplimiento de las obligaciones y responsabilidades que la propia Ley del Sistema establece.
 
 Artículo Tercero. La atribución referida en el artículo 8, fracción IX del presente Estatuto, será ejercida por el Órgano de Gobierno durante los tres meses siguientes de la entrado en vigor del mismo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “CERTIFICACIÓN DEL ACUERDO NO. OGSE/017 /2021, DE FECHA 31 DE AGOSTO DE 2021, MEDIANTE EL CUAL EL COMITÉ COORDINADOR EN SU CALIDAD DE ÓRGANO DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO, EXPIDE EL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO, ASÍ COMO SU ANEXO”.]
+
+Vigencia
+
+Artículo Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Estatuto Anterior
+
+Artículo Segundo. Se abroga el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato en fecha 12 de julio del 2018.
+
+Registro de la estructura orgánica
+
+Artículo Tercero. El Secretario Técnico deberá presentar la estructura orgánica prevista en el artículo 12 del Estatuto Orgánico, para su autorización y registro ante la Secretaría de Finanzas, Inversión y Administración del Gobierno del Estado de Guanajuato.
