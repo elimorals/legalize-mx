@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2020-11-22"
+last_updated: "2021-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -945,33 +945,37 @@ I.- Los Jueces de lo Civil;
 
 II.- Los Jueces de lo Familiar;
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Los Jueces de lo Mercantil;
+
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-III.- Los Jueces de lo Penal;
+IV.- Los Jueces de lo Penal;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-IV.- Los Jueces Especializados en Justicia para Adolescentes;
+V.- Los Jueces Especializados en Justicia para Adolescentes;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-V.- Los Jueces de Ejecución de Sanciones;
+VI.- Los Jueces de Ejecución de Sanciones;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VI.- Los Jueces de Ejecución de Medidas para Adolescentes;
+VII.- Los Jueces de Ejecución de Medidas para Adolescentes;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VII.- Los Jueces Mixtos;
+VIII.- Los Jueces Mixtos;
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Los Jueces de Control; y
+IX.- Los Jueces de Control; y
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-IX.- Los Jueces de Tribunal de Enjuiciamiento.
+X.- Los Jueces de Tribunal de Enjuiciamiento.
 
 ###### ARTICULO 36.
 
@@ -1015,13 +1019,13 @@ I.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda
 
 II.- De los negocios contenciosos que versen sobre propiedad y demás derechos reales sobre inmuebles; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en que la competencia corresponde a los Jueces de lo Familiar;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta Unidades de Medida y Actualización, excepto en lo concerniente al derecho familiar. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin exceder la que pueda tramitarse en esta modalidad;
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta Unidades de Medida y Actualización, excepto en lo concerniente al derecho familiar y a la materia mercantil, que serán exclusivos de los jueces especializados;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- De las controversias del orden civil o mercantil que se susciten entre particulares y los Ayuntamientos, con independencia de la cuantía del asunto;
+IV.- De las controversias del orden civil que se susciten entre particulares y los Ayuntamientos;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -1058,6 +1062,14 @@ VII.- De las cuestiones relativas a adopción, a las que afecten a los menores e
 VIII.- De los registros en que consten los discernimientos de los cargos de tutor y curador, los que estarán a disposición de los Consejos Locales de Tutela.
 
 IX.- De las diligencias que les encomiende el Tribunal por conducto del Pleno o la Presidencia, y de las demás funciones a que los obliguen las leyes Federales y del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 38 Ter.
+
+Los jueces de lo Mercantil conocerán de los asuntos de esta materia, previstos por el Código de Comercio y bajo las reglas de competencia que, por razón de cuantía, prevén la citada legislación mercantil, esta Ley y el Código de Procedimientos Civiles vigente en la entidad.
+
+El Consejo de la Judicatura establecerá los Distritos Judiciales donde ejercerán jurisdicción los juzgados de lo mercantil y en los Distritos Judiciales en que el volumen de los negocios lo amerite, el Consejo determinará la creación de juzgados especializados en materia de oralidad mercantil.
 
 ###### ARTICULO 39.
 
@@ -1183,15 +1195,21 @@ En los Distritos Judiciales en que el volumen de los negocios no amerite que los
 
 ARTICULO 40 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 41.
 
-Los jueces Mixtos tendrán las atribuciones y funciones que las leyes señalen para los Jueces de lo Civil, Penal y Familiar.
+Los jueces Mixtos tendrán las atribuciones y funciones que las leyes señalen para los Jueces de lo Civil, Mercantil, Penal y/o Familiar.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
+
+El Consejo de la Judicatura especificará, en función a las necesidades del servicio, las materias cuya competencia se asigne a los Juzgados Mixtos.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 42.
 
-En los distritos judiciales donde hubiere recargo de negocios o expedientes, el Pleno del Supremo Tribunal de Justicia podrá crear nuevos Juzgados, los cuales conocerán de los asuntos que éste les asigne. El acuerdo de creación correspondiente deberá publicarse en el Periódico Oficial del Estado y en los estrados judiciales.
+En los distritos o regiones judiciales donde hubiere recargo de negocios o expedientes, el Consejo de la Judicatura podrá crear nuevos Juzgados, los cuales conocerán de los asuntos que éste les asigne. El acuerdo de creación correspondiente deberá publicarse en el Periódico Oficial del Estado y en los estrados judiciales.
 
 ###### ARTICULO 43.
 
@@ -4303,7 +4321,17 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 360.- SE REFORMA Y ADICIONAL EL ARTÍCULO 111, DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-785 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 38, FRACCIONES III Y IV; 41; 42 Y SE ADICIONAN LA FRACCIÓN III, RECORRIENDO EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 35; EL ARTÍCULO 38 TER; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 41, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, CON RELACIÓN A LOS JUECES ESPECIALIZADOS EN MATERIA MERCANTIL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto el Consejo de la Judicatura acuerde sobre la creación de los juzgados especializados en materia mercantil, la competencia de estos asuntos continuará a cargo de los juzgados civiles.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 30.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 160 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
