@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2021-07-06"
+last_updated: "2021-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1474,6 +1474,10 @@ Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará 
 ###### Artículo 62.
 
 La elección del Gobernador será directa, secreta, uninominal y por mayoría en todo el territorio del Estado, en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
+
+Los partidos políticos deberán alternar el género en la candidatura para cada periodo electivo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -4152,3 +4156,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A partir del día siguiente de la entrada en vigor del presente Decreto, en el plazo de 90 días deberán realizarse las adecuaciones a la Ley Orgánica del Poder Legislativo y a su Reglamento.
+
+P.O. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 793 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Con el objeto de cumplir con lo estipulado en el Artículo 62 de la Constitución Política para el Estado de Hidalgo y de esa forma garantizar la aplicación del principio de paridad de género, sin que ello suponga una violación a otros derechos constitucionales y convencionales, los partidos políticos, para el proceso electoral 2021-2022, observarán sus reglas democráticas internas para la elección del candidato o candidata con una convocatoria abierta a ambos géneros, en el entendido de que para el siguiente periodo electivo deberán alternar el género.
