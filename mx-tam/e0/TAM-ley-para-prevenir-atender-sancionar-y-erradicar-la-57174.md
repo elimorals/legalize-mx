@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2021-07-14"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -649,7 +649,13 @@ l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas p
 
 m) establecer políticas públicas, en coordinación con los Municipios, para que las condiciones de los espacios públicos constituyan entornos libres de violencia contra las mujeres, y
 
-n) las demás que le confieren esta ley u otros ordenamientos aplicables.
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+n) Coordinarse con la Secretaría de Educación, para establecer programas de otorgamiento de becas individuales para mujeres víctimas de violencia y/o en situación de peligro; de ser necesario, para sus dependientes económicos, que les permitan desarrollar los ciclos de educativos básicos y en su caso, de educación media superior y superior.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+ñ) Las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -785,7 +791,13 @@ f) celebrar convenios de colaboración, coordinación y concertación en la mate
 
 g) implementar acciones educativas destinadas a prevenir y atender la violencia contra las mujeres en la comunidad para identificar los actos constitutivos de delitos; y
 
-h) las demás que le confieran esta ley u otros ordenamientos aplicables.
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+h) Coordinarse con la Secretaría de Bienestar Social, para elaborar programas de otorgamiento de becas específicas para mujeres víctimas de violencia y/o que se encuentren en contexto de peligro, así como para sus dependientes económicos, que les permitan desarrollar los ciclos educativos básicos y en su caso, de educación media superior y superior.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+i) Las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
 
@@ -1234,6 +1246,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 14 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-555 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; ASÍ COMO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-634 MEDIANTE EL CUAL SE ADICIONA EL INCISO N), AL NUMERAL 1, RECORRIÉNDOSE EN SU ORDEN NATURAL LOS SUBSECUENTES, DEL ARTÍCULO 13; Y SE ADICIONA EL INCISO H), AL NUMERAL 1, RECORRIÉNDOSE EN SU ORDEN NATURAL LOS SUBSECUENTES, DEL ARTÍCULO 17, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
