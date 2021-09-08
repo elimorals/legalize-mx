@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-82804"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2018-10-30"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
-Ley publicada en el Periódico Oficial del estado de Tamaulipas, el jueves 1º, de septiembre de 2011
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 1 de septiembre de 2011.
 
 EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
@@ -269,7 +269,9 @@ IX. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la particip
 
 X. Participar con las dependencias y entidades competentes de la administración pública federal en la formulación, e implementación de los programas de ordenamiento territorial, así como pesquero y acuícola;
 
-XI. Promover y participar, de conformidad con la Ley Federal sobre Metrología y Normalización y otras disposiciones aplicables, con las dependencias competentes de la administración pública federal en la elaboración, modificación, actualización y ejecución de normas oficiales mexicanas a favor del desarrollo integral y sustentable de la pesca y la acuacultura;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Promover y participar, de conformidad con la Ley de Infraestructura de la Calidad y otras disposiciones aplicables, con las dependencias competentes de la administración pública federal en la elaboración, modificación, actualización y ejecución de normas oficiales mexicanas a favor del desarrollo integral y sustentable de la pesca y la acuacultura;
 
 XII. Proponer y formular planes de manejo pesquero y acuícola, en coordinación con las dependencias competentes de la administración pública y organizaciones no gubernamentales y de conformidad con las normas oficiales mexicanas y otras disposiciones aplicables; publicarlos en el Periódico Oficial del Estado, promover su aplicación, seguimiento y evaluación;
 
@@ -1264,3 +1266,11 @@ P.O. 30 DE OCTUBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-632 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 8 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA FRACCIÓN XIV DEL ARTÍCULO 64 DE LA LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS; Y LA FRACCIÓN XXXV DEL ARTÍCULO 215 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
