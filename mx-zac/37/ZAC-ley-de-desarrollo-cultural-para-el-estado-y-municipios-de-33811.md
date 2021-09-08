@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-cultural-para-el-estado-y-municipios-de-33811
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2017-09-16"
+last_updated: "2021-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE DESARROLLO CULTURAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CULTURA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 8 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -518,3 +520,29 @@ P.O. 16 DE SEPTIEMBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE CULTURA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se abroga la Ley que Crea el Instituto Zacatecano de Cultura "Ramón López Velarde", aprobada mediante Decreto #16, publicado en el Suplemento al número 105 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 31 de diciembre de 1986.
+
+Artículo tercero. Se abroga la Ley de Desarrollo Cultural para el Estado y Municipios de Zacatecas, aprobada mediante Decreto # 293, publicado en el Suplemento número 2 al número 66 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 16 de agosto de 2003.
+
+Artículo cuarto. Dentro de los ciento veinte días siguientes a la entrada en vigor de esta Ley, el Director General deberá someter a la aprobación de la Junta de Gobierno los proyectos de Estatuto Orgánico, Reglamento y la demás normatividad interna a que se hace referencia en esta Ley.
+
+Artículo quinto. Los recursos humanos, materiales y financieros de la Banda Sinfónica, la Orquesta de Cámara y el Coro del Estado de Zacatecas deberán transferirse al Instituto para constituir parte de su patrimonio y cumplir con su objeto, de conformidad con los procedimientos previstos en las leyes de la materia y bajo la supervisión de la Secretaría de la Función Pública.
+
+Los derechos de autor relativos a las grabaciones de la Banda Sinfónica, la Orquesta de Cámara y el Coro del Estado de Zacatecas se transferirán al Instituto en los términos de las Leyes en la materia.
+
+Los derechos laborales de los servidores públicos que sean transferidos al Instituto serán respetados y garantizados.
+
+Artículo sexto. El Instituto Zacatecano de Cultura "Ramón López Velarde" deberá implementar medidas de disciplina financiera y racionalidad de gasto para garantizar la operatividad de la presente Ley.
+
+Artículo séptimo. La Legislatura del Estado dará seguimiento a la aplicación de la Ley, a efecto de proponer las modificaciones presupuestales en los siguientes presupuestos de egresos.
+
+Artículo octavo. Se derogan las disposiciones que contravengan a la presente Ley.
