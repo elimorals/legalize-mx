@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2021-02-06"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -5951,9 +5951,9 @@ Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que con
 
 1938.- El mandato puede ser general o especial: son generales los contenidos en los tres primeros párrafos del artículo siguiente; cualquiera otro mandato tendrá el carácter de especial.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
 
-Ningún poder se otorgará por una duración mayor a tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque, con excepción de los que se otorguen para actos de dominio sobre bienes inmuebles, cuya vigencia no podrá exceder del término de un año.
+Ningún poder se otorgará por una duración mayor a tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque.
 
 1939.- En todos los poderes generales para pleitos y cobranzas bastará que se diga que se otorga con todas las facultades generales y especiales que requieran cláusulas especiales conforme a la ley para que se entiendan conferidos sin limitación alguna.
 
@@ -8310,3 +8310,11 @@ P.O. 6 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 578.- SE ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 690.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1938 DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
