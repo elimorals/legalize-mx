@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2021-09-07"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1029,9 +1029,13 @@ XIV.- De Cultura.
 
 XV.- De Desarrollo Económico
 
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XVI.- De Grupos Vulnerables.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
 
-XVI.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+XVII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -1039,9 +1043,9 @@ Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
 ARTICULO 64 BIS.- Las Comisiones del Ayuntamiento deberán sesionar por lo menos una vez por mes.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
 
-ARTICULO 64 TER.- Las Comisiones rendirán al Ayuntamiento un informe anual de las labores que desarrollen sus respectivas comisiones.
+ARTICULO 64 TER.- Los Munícipes rendirán al Ayuntamiento un informe anual de las labores que desarrollen sus respectivas comisiones.
 
 ### CAPITULO XII. DE LOS ORGANOS AUXILIARES
 
@@ -6472,3 +6476,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos deberán expedir el reglamento a que se hace referencia, o bien, podrán ajustar el vigente, atendiendo al contenido del presente Decreto en un plazo no mayo de 60 días naturales.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-635 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVI, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XVI DEL ARTÍCULO 64 Y SE REFORMA EL ARTÍCULO 64 TER DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
