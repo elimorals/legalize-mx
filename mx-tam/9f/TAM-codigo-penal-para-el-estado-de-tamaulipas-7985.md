@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2021-07-14"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1609,6 +1609,30 @@ La autoridad la hará valer de oficio, sea cual fuere el estado del procedimient
 
 Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+La acción penal prescribirá en el término máximo de la sanción privativa de libertad del delito que se trate, en los siguientes casos:
+
+a) Corrupción de menores e incapaces, en términos de lo dispuesto en los artículos 192, 193 y 194 de este Código;
+
+b) Pornografía de menores de edad e incapaces, en términos de lo dispuesto en el artículo 194-Bis de este Código;
+
+c) Prostitución sexual de menores e incapaces, en términos de lo dispuesto en los artículos 194-Ter y 194-Quáter de este Código;
+
+d) Pederastia, en términos de lo dispuesto en el artículo 198 Bis de este Código;
+
+e) Lenocinio, en términos de lo dispuesto en el artículo 200 de este Código;
+
+f) Abuso sexual, en términos de lo dispuesto en el artículo 286 de este Código;
+
+g) Estupro, en términos de lo dispuesto en los artículos 270 y 271 de este Código;
+
+h) Violación, en términos de lo dispuesto en el artículo 274 párrafo segundo, y artículo 275 fracciones I, II y III, de este Código;
+
+i) Hostigamiento y acoso sexual, en términos del artículo 276 sexies de este Código; y
+
+j) Violación a la intimidad, en términos del artículo 276 Septies de este Código.
+
 #### Sección I. PRESCRIPCION DE LA ACCION
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
@@ -1623,9 +1647,11 @@ La acción penal prescribe en un año, si el delito sólo se sancionare con mult
 
 Si el delito mereciere, además de esta sanción, la privativa de la libertad, o fuere alternativa, se atenderá a la de privación de libertad; lo mismo se observará cuando corresponda alguna otra sanción accesoria, pero, en el caso de la reparación del daño, quedarán a salvo los derechos del ofendido para que los ejerza en la vía y forma que corresponda.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 129.
 
-Para la prescripción de la acción penal se tendrá como base el término medio aritmético de la sanción señalada al delito de que se trate, pero en ningún caso bajará de tres años.
+Para la prescripción de la acción penal se tendrá como base el término medio aritmético de la sanción señalada al delito de que se trate, con excepción de lo dispuesto en el artículo 126 de este Código, pero en ningún caso bajará de tres años.
 
 ###### ARTICULO 130.
 
@@ -5173,31 +5199,37 @@ VIII.- Cuando se robe a las víctimas de catástrofes o de accidentes aéreos o 
 
 IX.- Cuando el objeto del apoderamiento sea un vehículo en circulación o estacionado en la vía pública o lugar destinado a su guarda o reparación;
 
-X.- Cuando el robo se cometa en una oficina recaudadora u otra en la que se conserven caudales, o cuando éstos sean transportados;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Cuando se cometa en una oficina bancaria, recaudadora, u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Cuando se cometa en contra de persona que realice operaciones bancarias o financieras; depósito o retiro de efectivo o de títulos de crédito; al interior de un inmueble; en cajero automático o inmediatamente después de su salida. La misma pena se impondrá al empleado de la institución bancaria o financiera que colabore para la realización del robo;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2012)</small>
 
-XI.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público;
-
-XII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
+XII.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público;
 
 XIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 XIV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-XV. - (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
+XV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-XVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
+XVI. - (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 XVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
+XVIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
+
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2012)</small>
 
-XVIII.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa; y,
+XIX.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa; y,
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2012)</small>
 
-XIX.- Cuando el robo se efectúe en lugar destinado a industria, comercio, almacén o bodega donde se encuentren en resguardo o se elaboren productos industriales o materias primas de origen diverso, así como durante su traslado.
+XX.- Cuando el robo se efectúe en lugar destinado a industria, comercio, almacén o bodega donde se encuentren en resguardo o se elaboren productos industriales o materias primas de origen diverso, así como durante su traslado.
 
 ###### ARTICULO 408.
 
@@ -6946,3 +6978,19 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXIV-610 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 129; Y SE ADICIONA EL PÁRRAFO QUINTO Y LOS INCISOS A) AL J), AL ARTÍCULO 126, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-631 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X, Y SE ADICIONA LA FRACCIÓN XI, RECORRIENDO LAS SUBSECUENTES EN SU ORDEN NATURAL, AL ARTÍCULO 407, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE AGRAVANTES EN EL DELITO DE ROBO SIMPLE".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
