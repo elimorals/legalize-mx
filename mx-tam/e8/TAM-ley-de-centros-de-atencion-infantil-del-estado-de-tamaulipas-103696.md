@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-centros-de-atencion-infantil-del-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2019-01-09"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -805,7 +805,9 @@ XII. No manipular ni tratar de reparar nunca objetos, aparatos o instalaciones r
 
 XIII. Fijar los aparatos de calefacción, en caso de contar con ellos; y
 
-XIV. Las demás que ordene la Ley Federal sobre Metrología y Normalización, las Normas Oficiales Mexicanas aplicables, la Ley de Protección Civil para el Estado de Tamaulipas, la Ley General, esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Las demás que ordene la Ley de Infraestructura de la Calidad, las Normas Oficiales Mexicanas aplicables, la Ley de Protección Civil para el Estado de Tamaulipas, la Ley General, esta Ley y su Reglamento.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
 
@@ -1080,3 +1082,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Lo dispuesto en el presente Decreto se aplicará de manera gradual, de conformidad con la suficiencia presupuestaria y la capacidad institucional del sector educativo del Estado de Tamaulipas.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-632 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 8 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA FRACCIÓN XIV DEL ARTÍCULO 64 DE LA LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS; Y LA FRACCIÓN XXXV DEL ARTÍCULO 215 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
