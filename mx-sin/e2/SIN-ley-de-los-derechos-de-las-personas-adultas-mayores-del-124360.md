@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-las-personas-adultas-mayores-del-124360"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-10"
-last_updated: "2017-11-10"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 10 de noviembre de 2017.
 
@@ -77,9 +77,53 @@ X. Integración social. Es el resultado de las acciones que realizan las depende
 
 XI. Atención integral. Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores. Para facilitarles una vejez plena y sana se considerarán sus hábitos, capacidades funcionales, usos y costumbres, y preferencias;
 
-XII. Reglamento. Reglamento de la Ley de los Derechos de las Personas Adultas Mayores del Estado de Sinaloa; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Calidad del servicio. Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales.
+XII. Reglamento. Reglamento de la Ley de los Derechos de las Personas Adultas Mayores del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Calidad del servicio. Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Abandono. La falta de acción sistemática, permanente, consiente y deliberada o no para atender de manera integral las necesidades de una persona mayor para su bienestar e integridad como individuo, que ponga en peligro su vida o su integridad física, psíquica o moral; y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Violencia Contra las Personas Adultas Mayores. Cualquier acción u omisión directa o indirecta, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 3 Bis.
+
+Los tipos de violencia contra las personas adultas mayores, son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que consista en la negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado. Incluye también la manipulación o abuso de su condición física o necesidades afectivas para apropiarse de sus bienes;
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 3 Bis
+
+1. Las modalidades de la violencia contra las personas adultas mayores son:
+
+I. Violencia en el ámbito familiar. Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a la persona adulta mayor, mediante la realización de uno o varios tipos de violencia, dentro o fuera del domicilio familiar, cuando la persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación afectiva o de hecho;
+
+II. Violencia en el ámbito institucional. Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. Incluye la negación a recibir tratamientos médicos, créditos, trabajo o educación por razones de edad;
+
+III. Violencia en la comunidad. Son los actos individuales o colectivos que transgreden o menoscaban los derechos fundamentales de las personas adultas mayores, propiciando su denigración, discriminación, marginación o exclusión en cualquier ámbito; y
+
+IV. Violencia en instituciones de cuidado prolongado o larga estadía. Son los actos u omisiones de las personas que laboran en centros o establecimientos, públicos o privados, que brindan atención y cuidado prolongado a las personas adultas mayores que residen en ellos, que impliquen cualquier clase de violencia, abuso, negligencia o discriminación dirigida hacia la persona adulta mayores (sic), así como el empleo de métodos de coerción o restricción que atenten contra su intimidad, dignidad y autonomía en la toma de decisiones.
 
 ###### Artículo 4.
 
@@ -221,7 +265,9 @@ II. Otorgar alimentos de conformidad con lo establecido en el Código Familiar d
 
 III. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo; y
 
-IV. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, abandono, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos.
 
 ###### Artículo 11.
 
@@ -726,3 +772,11 @@ GONZALO GÓMEZ FLORES
 La Secretaria de Desarrollo Social
 
 ROSA ELENA MILLÁN BUENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 665 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 3; Y LA FRACCIÓN IV, DEL ARTÍCULO 10; Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 3; Y LOS ARTÍCULOS 3 BIS Y 3 BIS 1, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
