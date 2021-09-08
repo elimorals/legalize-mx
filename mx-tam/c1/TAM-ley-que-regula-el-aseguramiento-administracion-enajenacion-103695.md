@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-el-aseguramiento-administracion-enajenacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2021-07-14"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -49,7 +49,9 @@ LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FI
 
 ###### ARTÍCULO 1.
 
-1. La presente Ley tiene por objeto regular la administración y destino final de los vehículos automotores, sus accesorios o componentes, que se encuentren abandonados en la vía pública o en los establecimientos de depósito vehicular, por cualquier causa distinta a las establecidas en los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas, así como en la Ley de Extinción de Dominio para el Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+1. La presente Ley tiene por objeto regular la administración y destino final de los vehículos automotores, sus accesorios o componentes, que se encuentren abandonados en la vía pública o en los establecimientos de depósito vehicular, por cualquier causa distinta a las establecidas en el Código Penal para el Estado de Tamaulipas, Código Nacional de Procedimientos Penales, y en la Ley Nacional de Extinción de Dominio.
 
 2. Las disposiciones contenidas en la presente Ley, son de orden público y de observancia general en todo el Estado de Tamaulipas.
 
@@ -360,3 +362,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-633 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1 DE LA LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
