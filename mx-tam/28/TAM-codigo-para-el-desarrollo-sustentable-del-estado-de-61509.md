@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2021-05-20"
+last_updated: "2021-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -3577,7 +3577,9 @@ XXXIII. Manejo de hábitat: aquel que se realiza sobre la vegetación, el suelo 
 
 XXXIV. Manejo integral: aquel que considera de manera relacionada aspectos biológicos sociales, económicos y culturales vinculados con la vida silvestre y su hábitat;
 
-XXXV. Marca: el método de identificación aprobado por la Comisión que, conforme a lo establecido en la Ley Federal sobre Metrología y Normalización, puede demostrar la legal procedencia de ejemplares, partes o derivados;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XXXV. Marca: el método de identificación aprobado por la Comisión que, conforme a lo establecido en la Ley de Infraestructura de la Calidad, puede demostrar la legal procedencia de ejemplares, partes o derivados;
 
 XXXVI. Muestreo: el levantamiento sistemático de los datos que indican las características generales, la magnitud, la estructura y las tendencias de una población o de su hábitat con el fin de diagnosticar su estado actual y proyectar los escenarios que podría enfrentar en el futuro;
 
@@ -4982,3 +4984,11 @@ P.O. 20 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-632 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 8 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA FRACCIÓN XIV DEL ARTÍCULO 64 DE LA LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS; Y LA FRACCIÓN XXXV DEL ARTÍCULO 215 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
