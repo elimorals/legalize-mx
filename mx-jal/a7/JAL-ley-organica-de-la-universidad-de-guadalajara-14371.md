@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-de-guadalajara-14371"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-01-15"
-last_updated: "2021-07-06"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE GUADALAJARA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de enero de 1994.
 
@@ -873,15 +873,43 @@ IV. Las demás que les otorguen esta Ley, el Estatuto General y los Reglamentos 
 
 El Contralor General dependerá del Consejo General Universitario, quien lo designará de la terna que proponga el Consejo Social de la Universidad.
 
-Para ser designado Contralor General se requerirá:
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-I. Tener nacionalidad mexicana;
+Para ser designado deberá cumplir con los requisitos que establece la fracción VII del Artículo 35 Bis de la Constitución Política del Estado de Jalisco.
 
-II. Ser mayor de treinta años;
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-III. Poseer título de licenciatura en una carrera propia de su función, y
+Art. 49 A. El procedimiento para la elección del Contralor General deberá ser el siguiente:
 
-IV. Contar con reconocida capacidad, experiencia y honorabilidad.
+I. El Consejo Social de la Universidad debe publicar la convocatoria, preferentemente dentro del tercer mes anterior a que fenezca el nombramiento del Contralor que termina su encargo;
+
+II. La convocatoria pública debe contener cuando menos lo siguiente:
+
+a) Cargo vacante, periodo de duración y fecha determinada o determinable de inicio del periodo;
+
+b) Requisitos de elegibilidad y documentos para acreditarlos;
+
+c) Lugar, fechas y horarios para el registro de aspirantes;
+
+d) El procedimiento de elección establecido en la norma interna de la Universidad de Guadalajara, respetando su autonomía;
+
+e) Determinar una fecha límite para que el Consejo General elija al titular;
+
+f) Establecer un procedimiento en caso de que el Consejo General no resuelva la elección en el plazo establecido o de que ningún candidato alcance la votación requerida;
+
+III. El periodo de registro de aspirantes no debe ser inferior a dos días;
+
+IV. Una vez que se cierre el registro de aspirantes, el Consejo Social debe realizar entrevistas públicas a cada uno de los aspirantes, para ampliar la información sobre su trayectoria profesional y conocer su plan de trabajo;
+
+V. El Consejo Social deberá emitir y presentar al Consejo General el dictamen con la terna propuesta;
+
+VI. El Consejo General debe aprobar la terna de candidatos, por mayoría simple;
+
+VII. Una vez aprobada la terna, el Consejo General debe elegir al Contralor, de entre los candidatos propuestos, por el voto de cuando menos las dos terceras partes de la integración del Consejo General;
+
+VIII. Si ningún candidato alcanza la votación requerida o el Consejo General no resuelve la elección en el plazo señalado en la convocatoria, se entiende que se rechaza la terna propuesta, y se declara desierta la convocatoria y se emite una nueva en la que podrán participar los aspirantes registrados en la anterior convocatoria; y
+
+IX. El Contralor General electo debe rendir la protesta de ley ante el Consejo General Universitario, previo a tomar posesión del cargo.
 
 ## TÍTULO QUINTO. De los Organos de Gobierno y Autoridades de los Centros Universitarios
 
@@ -1724,3 +1752,13 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28402/LXII/21 DEL CONGRESO DEL ESTADO, QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
