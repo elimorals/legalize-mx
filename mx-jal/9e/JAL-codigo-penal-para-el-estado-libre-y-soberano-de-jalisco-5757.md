@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2021-04-15"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO EL 15 DE ABRIL DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -339,11 +337,21 @@ XV. Administración fraudulenta previsto en el artículo (sic) 254-Bis y 254-Ter
 
 XVI. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores previsto en el artículo 255;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 XVII. Adquisición ilegítima de bienes materia de un delito o una infracción penal previsto en el artículo 265;
 
-XVIII. Defraudación fiscal previsto en los artículos 286 al 288; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XIX. Delitos contra el ambiente previstos en los artículos 289 al 297.
+XVIII. Defraudación fiscal previsto en los artículos 286 al 288;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Delitos contra el ambiente previstos en los artículos 289 al 297; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Delitos de Operaciones con Recursos de Procedencia Ilícita previstos en los artículos 310 y 311.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -5813,6 +5821,10 @@ II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización an
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Art. 305.
 
 Se impondrán de seis a ocho meses de prisión, multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, a quien de manera intencional realice actos de maltrato y crueldad sin que ponga en peligro su vida, causando lesiones a cualquier animal y que de manera evidente se refleje un menoscabo en la salud del animal, sin afectar de manera permanente el desenvolvimiento y las funciones propias del animal.
@@ -5873,15 +5885,47 @@ Quedan exceptuados de los delitos previstos en el presente Título los sacrifici
 
 Será excluyente de los delitos contemplados en el presente capítulo cuando prevalezca un riesgo inminente en la integridad física de las personas o los que se originen por accidentes sin que medie la intención de causar un daño al animal.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-## TÍTULO VIGÉSIMO CUARTO (SIC). DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN
+## TITULO VIGESIMO QUINTO. DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESION
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 309.
 
 A quien, de forma intencional y mediante actos concretos, obstaculice, impida o reprima la producción, publicación, distribución, circulación o difusión de algún medio de comunicación masiva, se le impondrán de seis meses a tres años de prisión y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+## TITULO VIGESIMO SEXTO. DE LOS DELITOS DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Art. 310.
+
+Se impondrá de cinco a quince años de prisión y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización a quien, por sí o por interpósita persona, realice cualquiera de las siguientes conductas:
+
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo invierta, traspase, transporte o transfiera dentro del Estado, recursos, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita; u
+
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
+
+Se entenderá que son producto de una actividad ilícita los recursos, derechos o bienes de cualquier naturaleza, cuando;
+
+a) Existan indicios fundados o certeza de que los recursos, derechos o bienes, provienen directa o indirectamente, o representan ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+
+b) Se realicen actos u operaciones a nombre de un tercero, sin el consentimiento de éste y no se actualice la gestión de negocios ante la legislación aplicable.
+
+Cuando la autoridad competente en el ejercicio de sus facultades, encuentren elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y denunciar los hechos que probablemente puedan constituir un delito.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Art. 311.
+
+Las penas previstas en el artículo anterior se aumentarán hasta una mitad cuando el que realice las conductas previstas en este Capítulo tenga el carácter de administrador, funcionario, empleado, apoderado, consejero o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
+
+Las penas previstas en este Capítulo se duplicarán si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conductas en los dos años posteriores a su terminación.
+
+Además de las penas previstas en este capítulo se le impondrá inhabilitación para desempeñar empleo, cargo o comisión de conformidad con lo establecido en el artículo 144 de este Código. La inhabilitación iniciará a partir de que se haya cumplido la pena de prisión.
 
 ## TRANSITORIOS
 
@@ -7086,3 +7130,13 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28121/LXII/20 QUE REFORMA LOS ARTÍCULOS 236 Y 236 BIS Y SE ADICIONA LA FRACCIÓN IX Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 234 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
