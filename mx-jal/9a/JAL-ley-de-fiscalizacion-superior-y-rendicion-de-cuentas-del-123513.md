@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-123513
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2021-07-06"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -77,13 +77,15 @@ VII. Instituir los medios de defensa correspondientes.
 
 ###### Artículo 3.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 1. Para efectos de esta ley se entenderá por:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 I. Auditoría Superior: la Auditoría Superior del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 II. Comisión: la Comisión de Vigilancia y Sistema Anticorrupción del Congreso del Estado;
 
@@ -119,7 +121,9 @@ XVII. Reglamento Interno: el Reglamento Interno de la Auditoría Superior;
 
 XVIII. Tribunal: el Tribunal de Justicia Administrativa del Estado; y
 
-XIX. Unidad: la Unidad de Vigilancia, que es el órgano técnico de la Comisión.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Unidad: la Unidad de Vigilancia, que es el órgano técnico de la Comisión y órgano interno de control de la Auditoría Superior del Estado de Jalisco.
 
 ###### Artículo 4.
 
@@ -1496,3 +1500,13 @@ P.O. 6 DE JULIO DE 2021.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
