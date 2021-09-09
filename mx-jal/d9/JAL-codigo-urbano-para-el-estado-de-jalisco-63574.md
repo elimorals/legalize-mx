@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2020-12-03"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -1077,11 +1077,11 @@ A falta de informe, se requerirá a su superior jerárquico, para que lo emita e
 
 El Titular del Poder Ejecutivo del Estado, conforme las disposiciones del presente ordenamiento, proveerá los medios necesarios para el buen funcionamiento de la Procuraduría de Desarrollo Urbano, conforme se determine en la Ley del Presupuesto, Contabilidad y Gasto Público y lo autorice el Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-El Procurador de Desarrollo Urbano será designado por el Congreso del Estado (sic) partir de la lista de los aspirantes que reúnan los requisitos de elegibilidad que remita el Consejo Estatal, con la opinión del Comité de Participación Social del Sistema Estatal Anticorrupción. El Procurador deberá reunir los siguientes requisitos:
+La persona titular de la Procuraduría de Desarrollo Urbano será designada por el Congreso del Estado a partir de la lista de los aspirantes que reúnan los requisitos de elegibilidad que remita el Consejo Estatal, con la opinión técnica del Comité de Participación Social del Sistema Estatal Anticorrupción y deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -1099,9 +1099,23 @@ V. Tener conocimientos y experiencia mínima de cinco años en materia de ordena
 
 VI. No haber desempeñado, durante los últimos cuatro años anteriores, el cargo de Secretario de Infraestructura y Obra Pública o de Secretario de Medio Ambiente y Desarrollo Territorial, ni haber sido titular, responsable o encargado de dependencia estatal o municipal responsable de emitir dictámenes, licencias, permisos y autorizaciones en materia de urbanizaciones, edificaciones, subdivisiones, relotificaciones e intervención en inmuebles afectos al patrimonio cultural edificado.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-El Congreso del Estado emitirá la convocatoria conforme a lo establecido en el presente Código para que los interesados presenten sus propuestas, el cual, con base en ellas, designará al titular de la Procuraduría de Desarrollo Urbano.
+2. Para la elección de la persona titular de la Procuraduría de Desarrollo Urbano, se aplicará el siguiente procedimiento:
+
+I. El Congreso del Estado emitirá la convocatoria conforme a lo establecido en el presente Código para que las y los interesados presenten sus propuestas;
+
+II. La Comisión competente enviará copia de los expedientes de las y los aspirantes inscritos al Comité de Participación Social del Sistema Estatal Anticorrupción;
+
+III. El Comité de Participación Social emitirá un informe sobre la viabilidad de los perfiles de las y los aspirantes, dentro de (sic) término establecido en la convocatoria;
+
+IV. En caso de que el Comité de Participación Social no remita al Congreso el informe dentro del plazo señalado en la fracción anterior, el Congreso deberá concluir el proceso en los términos del presente articulo y la convocatoria respectiva;
+
+V. La Comisión deberá elaborar un dictamen que proponga la lista de las y los candidatos elegibles, considerando el informe remitido por el Comité, del que se tomará en cuenta sólo el veinte por ciento superior de los perfiles mejor evaluados;
+
+VI. El Congreso del Estado primero aprobará por mayoría simple y en votación nominal la lista de elegibles, para luego proceder a elegir a la o el Procurador por mayoría calificada y en votación por cédula de entre las y los candidatos de la lista aprobada; y
+
+VII. Si no existen personas candidatas elegibles, el Congreso no resuelve dentro del plazo fijado por la convocatoria o ninguna persona candidata elegible reúne la mayoría requerida en tres votaciones por cédula, se declarará desierta la convocatoria y se emitirá una nueva.
 
 ###### Artículo 20.
 
@@ -6528,3 +6542,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Medio Ambiente y Desarrollo Territorial deberá de emitir, en un plazo de noventa días hábiles contados a partir de la publicación del presente, un dictamen técnico en el que establezca la necesidad o no de revisar el Ordenamiento Ecológico Regional del Territorio del Estado actualmente en vigor y en todo caso, dar inicio con el procedimiento para la revisión del mismo. Una vez concluida (sic) el proceso de revisión del Ordenamiento Ecológico Regional del Territorio del Estado de Jalisco, la Secretaría del Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, deberá de iniciar con el proceso establecido en el Código Urbano para la revisión del Plan Estatal en apoyo de las autoridades necesarias e involucradas en la materia.
 
 TERCERO. La Secretaría del Medio Ambiente y Desarrollo Territorial deberá de emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente del Estado de Jalisco, en materia de Ordenamiento Ecológico Regional y Local del Territorio, dentro de los ciento ochenta días naturales siguientes a la publicación del presente decreto en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
