@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2020-08-27"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -203,7 +203,13 @@ Obligatoriedad y nulidad por contravención.
 
 1. Todo requerimiento de obra pública por parte de los entes públicos se contratará conforme a lo dispuesto por esta Ley.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 2. Los actos que se realicen en contravención a lo dispuesto por esta Ley serán nulos de pleno derecho.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. Los entes públicos deberán reportar y denunciar a las autoridades correspondientes cualquier anomalía en la contratación y realización de las obras.
 
 ###### Artículo 6.
 
@@ -211,7 +217,9 @@ Información pública y transparencia.
 
 1. La divulgación de los contratos, procedimientos y ejecución de obra pública, se atenderá conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
-2. Los entes públicos cumplirán con las disposiciones administrativas que sean necesarias para la transparencia y equidad de los procedimientos de adjudicación, tomando en cuenta la opinión de la Secretaría, de las cámaras industriales y colegios de profesionistas.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+2. Los entes públicos cumplirán con las disposiciones administrativas que sean necesarias para la transparencia y equidad de los procedimientos de adjudicación
 
 ###### Artículo 7.
 
@@ -309,9 +317,13 @@ Modalidades de los contratos de obra pública.
 
 I. Sobre la base de precios unitarios, en cuyo caso el pago total al contratista se hace por unidad de concepto de trabajo ejecutado;
 
-II. A precio global, en cuyo caso el contratista dirige y ejecuta una obra con materiales propios y asume el riesgo de su realización a cambio de una remuneración previamente determinada, con la posibilidad de ajuste a la misma por fenómenos inflacionarios;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-III. A precio alzado, en cuyo caso el contratista dirige y ejecuta una obra con materiales propios y asume el riesgo de su realización a cambio de una remuneración previamente determinada, sin la posibilidad de ajuste a la misma;
+II. A precio global, en cuyo caso el contratista dirige y ejecuta una obra con materiales propios que cubran estándares de calidad determinados por la Secretaría o el ente público correspondiente y asume el riesgo de su realización a cambio de una remuneración previamente determinada, con la posibilidad de ajuste a la misma por fenómenos inflacionarios;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III. A precio alzado, en cuyo caso el contratista dirige y ejecuta una obra con materiales propios que cubran estándares de calidad determinados por la Secretaría o el ente público correspondiente y asume el riesgo de su realización a cambio de una remuneración previamente determinada, sin la posibilidad de ajuste a la misma;
 
 IV. De obra por administración, en cuyo caso el contratista presenta directamente todos los gastos de la obra y cobra un porcentaje como factor de sobrecosto que incluye los gastos indirectos, el cargo por financiamiento, cargos adicionales y utilidad; o
 
@@ -363,7 +375,9 @@ Planeación y programación - Programas operativos anuales.
 
 4. El Comité verificará que los documentos enviados por los entes públicos en los términos del párrafo anterior, cumplan con los principios de eficiencia y congruencia en la consecución de los objetivos y metas del Plan Estatal de Desarrollo y demás instrumentos de planeación estatal, regional, sectorial y los que deriven de la Ley de Planeación del Estado de Jalisco y sus Municipios.
 
-5. Si el Comité no hace observaciones a los proyectos enviados por los entes públicos se entenderá que cumplen con las exigencias del párrafo anterior.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+5. Si el Comité, una vez revisados los proyectos que le fueron enviados, no tiene observaciones, así lo hará saber a los entes públicos
 
 6. En la elaboración del programa anual de obra pública la Secretaría deberá asesorar a los entes públicos, cuando así le fuere solicitado.
 
@@ -811,9 +825,15 @@ Procedimientos de contratación - Licitaciones electrónicas.
 
 Procedimiento de contratación - Recursos locales.
 
-1. En los procedimientos de contratación las dependencias y entidades optarán preferentemente por el empleo de los recursos humanos del estado y por la utilización de bienes o servicios de procedencia local o regional.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+1. En los procedimientos de contratación las dependencias y entidades optarán preferentemente por el empleo de los recursos humanos del estado y por la utilización de bienes o servicios de procedencia local o regional, siempre y cuando cubran con estándares de calidad y competencia razonables y equiparables en el mercado nacional.
 
 2. Solo podrán contratarse personas no registradas en el Padrón Único de Contratistas cuando los contratistas locales, de manera individual o en asociación, no cuenten con la capacidad para la ejecución de la obra pública o servicios de que se trate, o bien, se esté en alguna de las situaciones previstas en las fracciones IV, VIII, IX del numeral 3 del artículo 43.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. En cualquier caso, las empresas contratadas deberán demostrar experiencia y realizar su registro con posterioridad.
 
 ###### Artículo 47.
 
@@ -3232,3 +3252,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
