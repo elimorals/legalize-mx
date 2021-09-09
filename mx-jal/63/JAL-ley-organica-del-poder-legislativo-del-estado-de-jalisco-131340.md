@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-07-29"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1125,9 +1125,17 @@ XIV. Las demás que le concedan la legislación general y estatal aplicable.
 
 2. La Unidad de Vigilancia se rige por la legislación en materia de fiscalización superior y demás materias de su competencia.
 
-3. El titular de la Unidad de Vigilancia es electo por el Congreso del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, previa convocatoria pública a la sociedad y dura en el cargo cuatro años sin posibilidad de reelección.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-4. Para ser titular de la Unidad de Vigilancia se debe cumplir con los mismos requisitos que para ser Auditor Superior del Estado.
+3. La Unidad de Vigilancia contará con una estructura mínima y suficiente, diferente a la de sus funciones como Órgano Interno de Control de la Auditoría Superior, garantizando así una efectiva y eficiente fiscalización del ente mencionado, así como la especialización y profesionalización de cada una de sus áreas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+4. El titular de la Unidad de Vigilancia es electo por el Congreso del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, previa convocatoria pública a la sociedad y dura en el cargo cuatro años sin posibilidad de reelección.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+5. Para ser titular de la Unidad de Vigilancia se debe cumplir con los mismos requisitos que para ser Auditor Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
 
@@ -3890,3 +3898,13 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28420/LXII/21 QUE ADICIONA EL ARTÍCULO 26 DE LA LEY DEL (SIC) ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
