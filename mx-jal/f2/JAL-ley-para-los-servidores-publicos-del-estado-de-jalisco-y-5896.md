@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2021-07-29"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -851,35 +851,55 @@ El Comité Técnico de Transparencia y Valoración Salarial se integra por:
 
 I. Representantes del sector público, quienes contarán con voz, pero sin voto:
 
-a) El Gobernador del Estado o la persona que éste designe en su representación, quien presidirá el Comité;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-b) El Presidente del Supremo Tribunal de Justicia del Estado o quien designe el pleno del mismo para comparecer en su lugar;
+a) La persona titular del Poder Ejecutivo del Estado o la persona que éste designe en su representación, quien presidirá el Comité;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+b) La persona Presidente del Supremo Tribunal de Justicia del Estado o quien designe el Pleno del mismo para comparecer en su lugar;
 
-c) Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Hacienda y Presupuestos y de Administración;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-d) El Consejero Presidente de la Comisión Estatal de Derechos Humanos;
+c) Dos representantes del Poder Legislativo, que serán las personas titulares presidentes de las comisiones legislativas de Hacienda y Presupuestos y de Administración y Planeación Legislativa;
 
-e) El Presidente del Instituto Electoral del estado de Jalisco;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-f) El Presidente del Instituto de Transparencia y Acceso a la Información; y
+d) La persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos;
 
-g) El académico especialista en gestión y administración pública o en ciencias políticas y de gobierno, designado por el rector de la Universidad de Guadalajara.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+e) La persona titular de la Presidencia del Instituto Electoral del Estado de Jalisco;
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+f) La persona titular de la Presidencia del Instituto de Transparencia y Acceso a la Información y Protección de Datos Personales; y
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+g) Una persona de la academia, que designará por (sic) el rector de la Universidad de Guadalajara; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 II. Representantes del sector privado, quienes contarán con voz y voto:
 
-a) El académico especialista en gestión y administración pública o en ciencias políticas y de gobierno, designado por el rector de las siguientes universidades: Universidad del Valle de Atemajac, Universidad Autónoma de Guadalajara, Instituto Tecnológico y de Estudios Superiores de Occidente y Universidad Panamericana; y
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-b) Los tres representantes de grupos sociales, con exclusión del grupo educativo, nombrados por el Consejo Económico y Social del estado de Jalisco, el cual velará por que los grupos que lo integren estén debidamente representados en el Comité.
+a) Un académico designado por el rector de las siguientes universidades: Universidad del Valle de Atemajac, Universidad Autónoma de Guadalajara, Instituto Tecnológico y de Estudios Superiores de Occidente y Universidad Panamericana;
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+b) Tres representantes de grupos sociales, por invitación del Gobernador del Estado, en los que esté debidamente representado el sector empresarial, las organizaciones del sector social y de asistencia social.
 
 El Comité, a petición de cualquiera de sus miembros, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias, para el mejor cumplimiento de sus actividades.
 
-El Comité Técnico de Transparencia y Valoración Salarial sesionará de manera ordinaria, previa convocatoria por parte del representante del Poder Ejecutivo, durante los meses de mayo, junio y julio, para formular las recomendaciones respectivas a más tardar el día quince de julio, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de presupuesto de egresos del estado de Jalisco, así como en el de los organismos públicos descentralizados del Poder Ejecutivo y en el de los municipios. Fuera de este tiempo, dicho Comité podrá sesionar de manera extraordinaria a petición fundamentada de cualquiera de sus miembros, presentada al representante del Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-Para que el Comité sesione válidamente se requiere contar con la mitad más uno de los miembros con derecho a voto y el representante del Poder Ejecutivo. Los acuerdos se tomarán por mayoría de votos y en caso de empate, el asunto se tratará en la sesión siguiente.
+El Comité Técnico de Transparencia y Valoración Salarial sesionará, de manera ordinaria previa convocatoria por parte de la persona Titular del Poder Ejecutivo, durante los meses de mayo, junio y julio, para formular las recomendaciones respectivas a más tardar el día quince de julio, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de presupuesto de egresos del estado de Jalisco, así como en el de los organismos públicos descentralizados del Poder Ejecutivo y en el de los municipios. Fuera de este tiempo, dicho Comité podrá sesionar de manera extraordinaria a petición fundamentada de cualquiera de sus miembros presentada al representante del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Para que el Comité sesione válidamente se requiere contar con la mitad más uno de los miembros con derecho a voto y la persona representante del Poder Ejecutivo. Los acuerdos se tomarán por mayoría de votos y en caso de empate, el asunto se tratará en la sesión siguiente.
 
 La Secretaría Técnica del Comité estará a cargo de la Secretaría General de Gobierno.
 
@@ -1364,6 +1384,10 @@ La seguridad social tiene por finalidad garantizar el derecho humano a la salud;
 ###### Art. 64.
 
 La seguridad social será proporcionada por las Entidades Públicas, a los trabajadores y sus beneficiarios, a través de convenios de incorporación que celebren preferentemente con el Instituto Mexicano del Seguro Social, o con las instituciones a que se refiere la fracción XII del artículo 56 de esta ley, siempre que aseguren cuando menos el mismo nivel de atención y cobertura territorial que el Instituto Mexicano del Seguro Social, para que sean éstas las que proporcionen a los servidores públicos los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y asistenciales; así mismo, tendrán la obligación de afiliar a todos los servidores públicos al Instituto de Pensiones del Estado para el otorgamiento de las pensiones y jubilaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+A su vez, cada uno de los ayuntamientos, al incorporarse al Instituto de Pensiones, deberá autorizar la firma un convenio con la Secretaría de la Hacienda Pública del Estado y dicho Instituto para que de las participaciones estatales que les correspondan, se retenga (sic) mensualmente las aportaciones patronales que deberán de cubrir al Instituto. EI incumplimiento a lo anterior será sancionado conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Art. 65.
 
@@ -2221,49 +2245,61 @@ Al resolverse que una declaración de huelga es legal, el Tribunal de Arbitraje 
 
 En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelga, el Tribunal de Arbitraje y Escalafón y todas las Autoridades Estatales y Municipales deberán respetar el derecho que ejerciten los servidores, dándoles las garantías y presentándoles el auxilio que les soliciten.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-## TITULO SEXTO. Del servicio civil de carrera
+## TÍTULO SEXTO. DEL SERVICIO PROFESIONAL DE CARRERA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
-
-###### Artículo 152.
-
-El Servicio Civil de Carrera es el instrumento que tiene por objeto la selección, incorporación, desarrollo profesional y personal de los servidores públicos, a través de procedimientos y mecanismos transparentes, justos y equitativos.
-
-Tiene como propósito reconocer y aprovechar la experiencia, conocimiento y capacidades de los servidores públicos, a fin de que los entes públicos alcancen sus metas con apoyo de personal capacitado que, de manera continua, uniforme, regular y permanente, preste servicios de calidad, con imparcialidad, libre de prejuicios y lealtad a la Institución.
-
-La organización, desarrollo y funcionamiento del servicio civil de carrera se llevará a cabo en los términos establecidos por la presente ley, los reglamentos y las demás disposiciones legales aplicables.
-
-El servicio civil de carrera se sustenta en los principios generales de legalidad, honradez, lealtad, imparcialidad, eficiencia, transparencia, profesionalismo, disciplina, mérito, aptitud, experiencia, probidad, equidad laboral y de género, no discriminación y respeto a los derechos humanos.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 152.
 
-El Servicio Civil de Carrera, es el proceso a través del cual se logra la eficiencia y eficacia de la administración pública a través de la selección, incorporación y desarrollo profesional de los servidores públicos.
+El Servicio Profesional de Carrera es el instrumento que tiene por objeto la selección, incorporación, desarrollo profesional y personal de los servidores públicos, a través de procedimientos y mecanismos transparentes, justos y equitativos.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Tiene como propósito reconocer y aprovechar la experiencia, conocimiento y capacidades de los servidores públicos, a fin de que los entes públicos alcancen sus metas con apoyo de personal capacitado que, de manera continua, uniforme, regular y permanente, preste servicios de calidad, con imparcialidad, libre de prejuicios y lealtad a la Institución.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+La organización, desarrollo y funcionamiento del servicio civil de carrera se llevará a cabo en los términos establecidos por la presente ley, los reglamentos y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+El servicio profesional de carrera se sustenta en los principios rectores de austeridad, confidencialidad, competencia por mérito, disciplina, economía, eficacia, eficiencia, equidad, honradez, independencia, integridad, imparcialidad, lealtad, legalidad, objetividad, profesionalismo, transparencia y de rendición de cuentas, así como los valores del compromiso, cooperación, respeto, entorno cultural y ecológico, equidad de género, honestidad, no discriminación, interés público, liderazgo, responsabilidad, solidaridad, tolerancia y vocación de servicio.
+
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 153.
 
 Para los efectos del presente Título, se entenderá por:
 
-I. Servicio: El Servicio Civil de Carrera definido en el artículo anterior;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+I. Servicio: El Servicio Profesional de Carrera definido en el artículo anterior;
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 II. Comisión: La Comisión de Evaluación de las Entidades Públicas;
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
 III. Entidades Públicas: Las que se refieren en el artículo primero de ésta Ley;
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 IV. Órgano de Administración Interna: La dependencia designada o creada por la Entidad Pública, para que administre el Sistema;
 
-V. Reglamento Interno: El Reglamento Interno del Servicio Civil de Carrera de cada Entidad Pública;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Sistema: El Sistema Administrativo del Servicio Civil de Carrera;
+V. Reglamento Interno: El Reglamento Interno del Servicio Profesional de Carrera de cada Entidad Pública;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Sistema: El Sistema Administrativo del Servicio Profesional de Carrera;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
@@ -2273,15 +2309,15 @@ VII. Movilidad: Los cambios de adscripción, radicación y reubicación del serv
 
 VIII. Promoción: Los ascensos, mejorías laborales o cualesquier cambio de categoría que beneficie al servidor público o genere mayores oportunidades para su desarrollo laboral o profesional; y
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Mecanismos: Mecanismos del Servicio Civil de Carrera.
+IX. Mecanismos: Mecanismos del Servicio Profesional de Carrera.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 154.
 
-El Servicio procurará el desarrollo profesional de los servidores públicos, su estabilidad laboral, la calificación de sus habilidades, capacidades y desempeño.
+El Servicio procurará el desarrollo profesional de los servidores públicos, su estabilidad laboral, la evaluación y calificación de sus habilidades, capacidades y desempeño
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
@@ -2303,17 +2339,19 @@ III. Los servidores públicos cuyo nombramiento tenga por disposición legal un 
 
 IV. Los demás que su Reglamento Interno señale.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 157.
 
-El titular de cada una de las entidades a que se refiere el artículo primero de esta Ley elaborará su propio Reglamento Interno, donde se establecerá, entre otros aspectos, la organización, funcionamiento y operación del Servicio. En el Poder Ejecutivo Estatal, existirá un solo Reglamento Interior aplicable para todas sus dependencias, con excepción de lo dispuesto en el artículo siguiente.
+El titular de cada una de las entidades a que se refiere el artículo primero de esta Ley elaborará su propio Reglamento Interno, donde se establecerá, entre otros aspectos, la organización, funcionamiento, fortalecimiento y operación del Servicio. En el Poder Ejecutivo Estatal, existirá un solo Reglamento Interior aplicable para todas sus dependencias, con excepción de lo dispuesto en el artículo siguiente.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 158.
 
-Los servidores públicos de base se regirán por el Reglamento de Escalafón respectivo de cada una de las dependencias y Entidades Públicas, sin menoscabo de su capacitación y desarrollo profesional dentro del Servicio.
+Los servidores públicos de base se regirán por el Reglamento de Escalafón respectivo de cada una de las dependencias y Entidades Públicas, tendrán acceso al Sistema Administrativo del Servicio Profesional de Carrera, sujetándose, en su caso, a los procedimientos de reclutamiento, selección y nombramiento previstos en este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 Los servidores públicos incorporados a los Servicios de Salud Jalisco y a la Secretaría de Educación del Estado, que cuenten con un sistema propio de profesionalización y desarrollo, se regirán por sus reglamentos y normas de operación respectivos.
 
@@ -2321,13 +2359,15 @@ Los servidores públicos incorporados a los Servicios de Salud Jalisco y a la Se
 
 Los servidores públicos de la Fiscalía Estatal y los elementos de la Policía Investigadora, en cuestión de promoción, ascenso y capacitación especializada, se regirán por lo establecido en la Ley Orgánica de la Fiscalía General del Estado de Jalisco y su reglamento.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
 Los elementos de los cuerpos de seguridad pública del Estado y municipios que cuenten con reglamentos y programas en materia de promoción, ascenso y capacitación especializada, se regirán, en su caso, por lo establecido en los mismos.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 159.
 
-Quienes desempeñen algún puesto del Servicio, tendrán los mismos derechos y obligaciones que cualquier otro servidor público y únicamente podrán ser cesados de su cargo cuando exista causa justificada, de conformidad con el artículo 22 y siguiendo los lineamientos establecidos por los artículos 23 y 26 de esta Ley.
+Quienes desempeñen algún puesto del Servicio, tendrán los mismos derechos y obligaciones que cualquier otro servidor público y únicamente podrán ser cesados de su cargo cuando exista causa justificada, de conformidad con la normatividad en la materia.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2351,19 +2391,23 @@ I. El Presidente, que tendrá voto de calidad para caso de empate;
 
 II. El Titular del Órgano de Administración Interna, quien fungirá además como Secretario Técnico de la Comisión;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-III. Dos miembros que representen a los servidores públicos de confianza que ocupen puestos considerados del Servicio, los cuales serán designados por el sistema de insaculación; y
+III. Dos miembros que representen a los servidores públicos de confianza que ocupen puestos considerados del Servicio, los cuales serán designados por el sistema de insaculación;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Dos miembros que representen a los servidores públicos de base, designados en los términos del Reglamento Interno, quienes participarán exclusivamente en procedimientos de promoción de servidores públicos de base a puestos de confianza.
+IV. Dos miembros que representen a los servidores públicos de base, designados en los términos del Reglamento Interno, quienes participarán exclusivamente en procedimientos de promoción de servidores públicos de base a puestos de confianza; y
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. Como invitado permanente, el titular del Órgano Interno de Control del ente público, quien participará con voz, pero sin voto y no computará para quorum.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 162.
 
-Los miembros de la Comisión tendrán voz y voto; sus cargos serán honoríficos y durarán en su cargo hasta el término de la administración o hasta la fecha de su separación de la Entidad Pública o hasta en tanto mantengan su representación.
+Los miembros de la Comisión tendrán voz y voto, con excepción del titular del Órgano Interno de Control del ente público, quien contará con voz únicamente; sus cargos serán honoríficos y durarán en su cargo hasta el término de la administración o hasta la fecha de su separación de la Entidad Pública o hasta en tanto mantengan su representación.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2453,9 +2497,17 @@ III. Ascenso;
 
 IV. Desarrollo;
 
-V. Profesionalización; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Cambio de nivel y categoría.
+V. Profesionalización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Evaluación; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Cambio de nivel y categoría.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2633,15 +2685,15 @@ I. La solicitud expresa del servidor público;
 
 II. La destitución, en los términos de la Ley General de Responsabilidades Administrativas o de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-III. El cese justificado del servidor público, de conformidad con esta ley.
+III. El cese definitivo del servidor público conforme a la normatividad en la materia.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 190.
 
-Podrán reingresar los servidores públicos al Servicio cuando reúnan de nueva cuenta los requisitos previstos en el artículo 172. Su reingreso les faculta para concursar en igualdad de condiciones sin que su separación temporal al Servicio importe descalificación alguna.
+Podrán reingresar los servidores públicos al Servicio cuando reúnan de nueva cuenta los requisitos previstos en el presente ordenamiento y no tengan impuesta una sanción que implique inhabilitación o la temporalidad de esta haya fenecido.
 
 ## TRANSITORIOS
 
@@ -3080,3 +3132,41 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "EJ Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28439/LXII/21 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE PENSIONES Y DE LA LEY PARA LOS SERVIDORES PÚBLICOS, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. El Instituto de Pensiones del Estado tiene un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, para presentar al titular del Poder Ejecutivo del Estado de Jalisco, los proyectos de reforma a las disposiciones reglamentarias del Instituto de Pensiones del Estado de Jalisco para adecuarlas al presente Decreto.
+
+(NOTA: EL 23 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 150/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO CUARTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Cuarto. SERÁN MATERIA (SIC) MODIFICACIÓN Y REDUCCIÓN POR CAUSA DE UTILIDAD PÚBLICA, LAS PENSIONES QUE A LA ENTRADA EN VIGOR QUE SEÑALA EL PRESENTE DECRETO SE ENCUENTREN VIGENTES, ASÍ COMO LAS FUTURAS QUE EN TÉRMINOS DEL PRESENTE ORDENAMIENTO SE OTORGUEN BAJO LAS CONDICIONES QUE EL PRESENTE DECRETO ESTABLECE.
+
+(NOTA: EL 23 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 150/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO QUINTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Quinto. LAS PENSIONES QUE EXCEDAN EL MONTO ESTABLECIDO EN EL ARTÍCULO 70 FRACCIÓN II DE LA PRESENTE LEY, DEBERÁN MODIFICARSE DE MANERA OFICIOSA PARA ADECUARSE AL LÍMITE MÁXIMO ESTIPULADO. UNA VEZ REALIZADA LA MODIFICACIÓN, DEBERÁ REESTRUCTURARSE TODO CRÉDITO, PRÉSTAMO Y DEMÁS OBLIGACIONES QUE LOS PENSIONADOS TUVIERAN CON EL INSTITUTO EN CASO DE QUE EXCEDAN EL PORCENTAJE MÁXIMO DE DESCUENTO.
+
+(NOTA: EL 23 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 150/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Sexto. EL CONSEJO DIRECTIVO DEL INSTITUTO DE PENSIONES DEL ESTADO TIENE UN PLAZO DE NOVENTA DÍAS HÁBILES PARA MODIFICAR Y ADECUAR LAS PENSIONES VIGENTES AL LÍMITE DE CUANTÍA ESTABLECIDO EN EL ARTÍCULO 70 FRACCIÓN II DE LA PRESENTE LEGISLACIÓN.
+
+Séptimo. La regularidad de las pensiones se mantendrá por lo que corresponde a su otorgamiento mensual, así como a los servicios médicos y prestaciones a ellas inherentes.
+
+Octavo. Las entidades públicas que incorporen a sus servidores públicos en razón de las modificaciones a los artículos 33 de la Ley del Instituto de Pensiones y 64 de la Ley para los Servidores Públicos, ambos ordenamientos del Estado de Jalisco, que se expiden en el presente decreto, deberán suscribir los convenios correspondientes con la Secretaría de la Hacienda Pública y el Instituto de Pensiones, a más tardar el 1 de enero de 2022.
+
+Noveno. Las entidades públicas dispondrán de un plazo de sesenta días naturales contados a partir de la entrada en vigor del presente decreto, para dar cumplimiento al presente decreto en términos de la reforma que se aprueba al artículo 33 de la Ley del Instituto de Pensiones del Estado de Jalisco, quedando sujeta la afiliación correspondiente a la aprobación de dicho Instituto con base en los requisitos que establece la presente Ley. Dicha afiliación no tendrá efectos retroactivos.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
