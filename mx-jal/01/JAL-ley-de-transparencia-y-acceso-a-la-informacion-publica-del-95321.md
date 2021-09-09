@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2021-08-24"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE AGOSTO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -547,27 +545,81 @@ n) Las cuentas públicas, las auditorías internas y externas, así como los dem
 
 o) La información sobre adjudicaciones directas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años, que deberá contener, por lo menos, lo siguiente:
 
-1. La propuesta enviada por el participante;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-2 Los motivos y fundamentos legales aplicados para llevarla a cabo;
+1. El Programa Anual de Adquisiciones, Arrendamientos y Servicios;
 
-3. La autorización del ejercicio de la opción;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-4. En su caso, las cotizaciones consideradas, especificando los nombres de los proveedores y los montos;
+2. La integración del Comité de Adquisiciones;
 
-5. El nombre de la persona física o jurídica adjudicada;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-6. La unidad administrativa solicitante y la responsable de su ejecución;
+3. La solicitud de compra, adquisición o aprovisionamiento de las áreas requirentes;
 
-7. El número, fecha, el monto del contrato y el plazo de entrega o de ejecución de los servicios u obra;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-8. Los mecanismos de vigilancia y supervisión, incluyendo, en su caso, los estudios de impacto urbano y ambiental, según corresponda;
+4. La propuesta enviada por el participante;
 
-9. Los informes de avance sobre las obras o servicios contratados;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-10. El convenio de terminación; y
+5. Los motivos y fundamentos legales aplicados para llevarla a cabo;
 
-11. El finiquito;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+6. La autorización del ejercicio de la opción;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+7. En su caso, las cotizaciones consideradas, especificando los nombres de los proveedores y los montos;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+8. El nombre de la persona física o jurídica adjudicada;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+9. La unidad administrativa solicitante y la responsable de su ejecución;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+10. El número, fecha, el monto del contrato y el plazo de entrega o de ejecución de los servicios u obra;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+11. Los mecanismos de vigilancia y supervisión, incluyendo, en su caso, los estudios de impacto urbano y ambiental, según corresponda;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+12. La partida presupuestal, de conformidad con el clasificador por objeto del gasto, en el caso de ser aplicable;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+13. Origen de los recursos especificando si son federales, estatales o municipales, así como el tipo de fondo de participación o aportación respectiva;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+14. Las actas de las sesiones que se realizan durante los procesos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+15. El video y audio de las sesiones que se realizan durante los procesos;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+16. Los informes de avance sobre las obras o servicios contratados;
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+17. El convenio de terminación;
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+18. El finiquito y evidencia de la entrega del bien o servicio; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+19 La investigación de Mercado, una vez emitida la adjudicación.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4788,3 +4840,13 @@ P.O. 13 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28338/LXII/21 QUE REFORMA EL ARTÍCULO 29 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
