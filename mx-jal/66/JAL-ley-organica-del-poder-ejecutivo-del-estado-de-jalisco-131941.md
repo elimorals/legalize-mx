@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2021-06-05"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -2109,21 +2109,23 @@ XXVII. Las que establezcan otras disposiciones legales y reglamentarias aplicabl
 
 ###### Artículo 53.
 
-1. El titular de la Contraloría del Estado, cuando lo considere necesario podrá designar como representantes ante el órgano máximo de gobierno de las entidades de la Administración Pública Estatal a los Comisarios Públicos, mismos que tendrán las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-I. Requerir a las diversas áreas administrativas de las Entidades la información y documentación que necesite para el ejercicio de sus funciones;
+1. La persona titular de la Contraloría del Estado deberá designar a los órganos internos de control de las entidades de la Administración Pública Paraestatal, en su caso, a los órganos de vigilancia en las empresas de participación estatal, los que se regirán conforme a la normatividad de los primeros y lo establecido en la presente ley.
 
-II. Auxiliar y promover el mejoramiento de la gestión de las Entidades de la Administración Pública del Estado;
+I. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
 
-III. Vigilar que la Entidad remita en tiempo y forma a los órganos de fiscalización superior y a la Contraloría del Estado los informes previstos en la normatividad aplicable;
+II. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
 
-IV. Vigilar el desempeño general de las Entidades encomendadas a su sector;
+III. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
 
-V. Solicitar a la Junta de Gobierno, al Director General y a las demás áreas de los Organismos Públicos Descentralizados, la información que requiera el cumplimiento de sus funciones y solicitar se le brinden las facilidades para llevar a cabo cualquier tipo de diligencia que se necesite;
+IV. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
 
-VI. Vigilar de manera preventiva que la información financiera que generen las Entidades de la Administración Pública del Estado sea organizada, sistematizada y difundida en los términos de la Ley General de Contabilidad Gubernamental; y
+V. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
 
-VII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables; así como las que determine el Contralor del Estado.
+VI. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
+
+VII. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 54.
 
@@ -2345,7 +2347,9 @@ I. Una Junta de Gobierno;
 
 II. Un titular;
 
-III. Un órgano de vigilancia; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III. Un Órgano Interno de Control; y
 
 IV. La estructura administrativa que establezca su Estatuto Orgánico.
 
@@ -3146,3 +3150,13 @@ P.O. 5 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28392/LXII/21 DEL CONGRESO DEL ESTADO, QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea (sic) agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
