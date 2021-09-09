@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2020-11-07"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -43,15 +43,33 @@ LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
 El juicio en materia administrativa tiene por objeto resolver las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, las municipales y de los organismos descentralizados de aquellas, con los particulares. Igualmente, de las que surjan entre dos o más entidades públicas de las citadas en el presente artículo.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 Procede el juicio en materia administrativa en contra de disposiciones normativas de carácter general siempre que no se trate de leyes emanadas del Congreso. En estos casos la demanda deberá interponerse en contra del primer acto de aplicación, ante las Salas del Tribunal de Justicia Administrativa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Para efectos del párrafo anterior, se entiende por disposiciones normativas de carácter general los reglamentos locales y municipales, así como los decretos, acuerdos y todo tipo de resoluciones administrativas de observancia general.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 También procede el juicio en materia administrativa en cualquier otro caso que expresamente determinen las leyes.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-El juicio en materia administrativa no procede en contra de las resoluciones de los recursos de revisión y de transparencia, ni de las revisiones oficiosas en materia de información pública, emitidas por el Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco.
+El juicio en materia administrativa no procede en contra de las resoluciones de los recursos de revisión y de transparencia, en materia de información pública y protección de datos personales emitidas por el Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando la resolución recaída a un recurso administrativo, no satisfaga el interés jurídico del recurrente y éste la controvierta en el juicio en materia administrativa, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que el Tribunal de Justicia Administrativa determine la procedencia del mismo, el juicio en materia administrativa procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de impugnación no planteados en el recurso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+En estos casos, tal prerrogativa no implica la oportunidad de exhibir en juicio los medios de prueba que, conforme a la ley, debió presentar en el procedimiento administrativo de origen o en el recurso administrativo respectivo para desvirtuar los hechos u omisiones advertidos por la autoridad administrativa, estando en posibilidad legal de hacerlo.
 
 ###### Artículo 2.
 
@@ -59,15 +77,23 @@ Los juicios que se promuevan con fundamento en lo dispuesto por el artículo pre
 
 A falta de disposición expresa, y en cuanto no se oponga a lo prescrito en este ordenamiento, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 3.
 
 Son parte en el juicio administrativo:
 
-I. El actor;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-II. El demandado. Tendrá ese carácter:
+I. La parte demandante;
 
-a) La autoridad que dicte u ordene, ejecute o trate de ejecutar la resolución o tramite el procedimiento impugnado o la que la sustituya legalmente;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+II. La parte demandada. Tendrán ese carácter:
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+a) La autoridad que dictó la resolución impugnada; y
 
 b) El particular a quien favorezca la resolución cuya modificación, extinción o nulidad pide la autoridad administrativa; y
 
@@ -95,7 +121,9 @@ La personería de las partes se acreditará en los términos que dispongan las l
 
 Las partes, en cualquier etapa procesal, podrán designar como abogado patrono a cualquier persona que se encuentre legalmente autorizada para ejercer la profesión de abogado o de licenciado en derecho. La designación se hará por escrito, el que deberá suscribir de conformidad la persona sobre quien recaiga el nombramiento.
 
-La persona designada en los términos del párrafo que antecede podrá recibir notificaciones, hacer promociones de trámite, ofrecer y rendir pruebas, alegar en las audiencias, interponer recursos y en general, realizar todos los actos que resulten necesarios para la defensa de los derechos de quien lo autorizó, pero no podrá delegar o substituir tales facultades en un tercero.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+La persona designada en los términos del párrafo que antecede podrá recibir notificaciones, hacer promociones de trámite, ofrecer y rendir pruebas, ampliar la demanda, alegar en las audiencias, interponer recursos y en general, realizar todos los actos que resulten necesarios para la defensa de los derechos de quien lo autorizó, pero no podrá delegar o substituir tales facultades en un tercero.
 
 La acreditación de la autorización para el ejercicio de la profesión deberá realizarse mediante la inscripción de la cédula o autorización provisional en su caso, en los libros de registro de que disponga el órgano jurisdiccional que conozca del asunto.
 
@@ -247,7 +275,9 @@ III. Si han sido abogados o apoderados de alguna de las partes en el mismo asunt
 
 IV. Si tienen amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados o representantes;
 
-V. Si han intervenido en la emisión o ejecución del acto impugnado;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. Si han intervenido en la emisión o ejecución del acto impugnado; excepto cuando se trate de la persona Presidente de este Tribunal, en los casos que emita un acto procesal en los asuntos jurisdiccionales que tramite;
 
 VI. Si son partes en un juicio similar pendiente de resolución; y
 
@@ -293,6 +323,8 @@ La resolución que decida la recusación, es irrevocable. Si se declara improced
 
 ### CAPÍTULO IV. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
 Es improcedente el juicio en materia administrativa, contra los actos:
@@ -313,9 +345,27 @@ VI. De cuyas constancias de autos apareciere, claramente, que no existe la resol
 
 VII. Respecto de los cuales hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno, por haber dejado de existir el objeto o materia del mismo;
 
-VIII. Contra actos o resoluciones dictados en materia electoral o de los cuales corresponda conocer a alguna jurisdicción ordinaria distinta de la especializada en materia administrativa; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IX. En los demás casos en que la improcedencia resulte de alguna disposición de la ley.
+VIII. Contra actos o resoluciones dictados en materia electoral o de los cuales corresponda conocer a alguna jurisdicción ordinaria distinta de la especializada en materia administrativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Contra disposiciones administrativas de carácter general que por su sola entrada en vigor causen un perjuicio al demandante, salvo que dicha impugnación se realice en unión a su primer acto de aplicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+X. Cuando no se hagan valer conceptos de impugnación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Cuando la demanda se hubiere interpuesto por la misma parte y en contra del mismo acto impugnado, por dos o más ocasiones; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XII. En los demás casos en que la improcedencia resulte de alguna disposición de la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 30.
 
@@ -327,7 +377,17 @@ II. En el caso que el demandante muera durante el juicio, si su pretensión es i
 
 III. Cuando la autoridad demandada haya satisfecho la pretensión del actor o hubiese revocado el acto que se impugna.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Cuando el promovente del juicio se desista. Para estar en aptitud de decretar el sobreseimiento será necesario requerir al particular para que dentro del término de tres días ratifique dicha circunstancia ante la Sala que conozca del asunto, apercibido que en caso de no hacerlo, se continuará con la secuela procesal.
+
 El sobreseimiento se podrá decretar en cualquiera de los casos antes señalados, de oficio o a petición de parte, en cualquier etapa procesal, incluyendo la sentencia definitiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis.
+
+En el juicio en materia administrativa no operara la caducidad de la instancia.
 
 ### CAPÍTULO V. DE LA DEMANDA
 
@@ -373,11 +433,15 @@ La demanda deberá contener:
 
 I. El nombre del demandante, domicilio procesal y correo electrónico para recibir notificaciones;
 
-II. El señalamiento de la resolución o acto administrativo que se impugna;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+II. El señalamiento de la resolución o acto administrativo que se impugna y, en su caso, la disposición administrativa de carácter general que se impugna con motivo de su primer acto de aplicación;
 
 III. La autoridad o autoridades demandadas, o el nombre y domicilio del particular demandado cuando el juicio sea promovido por la autoridad administrativa;
 
-IV. Los hechos que dieron origen al acto que se impugna;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Los hechos que den motivo a la demanda;
 
 V. La fecha en la que se tuvo conocimiento de la resolución o acto impugnado;
 
@@ -387,11 +451,35 @@ VII. El nombre y domicilio del tercero interesado cuando lo haya; y
 
 VIII. La enumeración de las pruebas que ofrezca, las que deberán relacionarse con los hechos en los que se funda la demanda.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-En caso de que se ofrezca prueba pericial, de inspección judicial o testimonial, se precisarán los hechos sobre los que deben versar y se señalarán los nombres, domicilios y correos electrónicos del perito o de los testigos en su caso.
+En caso de que se ofrezca prueba de inspección judicial o testimonial, se precisarán los hechos sobre los que deben versar y se señalarán los nombres, domicilios y correos electrónicos de los testigos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+En la prueba pericial se precisarán los hechos sobre los cuales versará, su domicilio y correo electrónico; para la designación del perito se estará a las reglas establecidas en el artículo 51.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+En los casos en que sean dos o más demandantes, éstos ejercerán su opción a través de un representante común.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de que no se nombre representante común, el Magistrado Instructor requerirá a los promoventes para que lo designen en el plazo de cinco días, con el apercibimiento que de no hacerlo, lo designará el propio Magistrado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+En la demanda en que promuevan dos o más personas diversos actos o resoluciones, el Magistrado Instructor requerirá a los promoventes, para que en el plazo de cinco días, presenten cada uno de ellos su demanda respecto del acto o resolución correspondiente, apercibidos que de no hacerlo se desechará la demanda inicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el Magistrado Instructor desechará por improcedente la demanda interpuesta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el Magistrado Instructor requerirá al promovente para que los señale dentro del término de cinco días, con el apercibimiento que de no hacerlo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que corresponda.
 
@@ -403,31 +491,83 @@ I. Una copia de la misma y de los documentos anexos para cada una de las partes;
 
 II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio;
 
-III. El documento en que conste el acto impugnado o, en su caso, copia de la instancia no resuelta por la autoridad;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. El cuestionario para los peritos cuando se ofrezca prueba pericial;
+III. El documento en que conste la resolución o el acto impugnado;
 
-V. Las pruebas documentales que ofrezca; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Constancia de la notificación del acto impugnado, excepto cuando el demandante declare, bajo protesta de decir verdad, que no recibió constancia; cuando hubiere sido por correo o bien cuando hubiere tenido conocimiento de la misma sin mediar notificación. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo.
+IV. En el supuesto de que se impugne una resolución (sic) negativa ficta, deberá acompañar una copia en la que obre el sello de recepción de la instancia no resuelta expresamente por la autoridad;
 
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas, a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se hallen para que, a su costa, se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para ese efecto, deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que se acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-Si el acto impugnado no constare documentalmente el actor lo manifestará así, bajo protesta formal de decir verdad, y ofrecerá los elementos de prueba mediante los cuales acredite la existencia del acto impugnado.
+V. El cuestionario para los peritos cuando se ofrezca prueba pericial;
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-Si los documentos a que se refiere el presente artículo excedieren de cincuenta fojas, quedarán en la secretaría para que se instruyan de ellos las partes y sólo subsistirá la obligación de presentar copia del escrito.
+VI. Las pruebas documentales que ofrezca; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Constancia de la notificación del acto impugnado, excepto cuando el demandante declare, bajo protesta de decir verdad, que no recibió constancia; cuando hubiere sido por correo o bien cuando hubiere tenido conocimiento de la misma sin mediar notificación. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas, a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se hallen para que, a su costa, se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para ese efecto, deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que se acompañe copia de la solicitud debidamente presentada por lo menos cinco días antes de la interposición de la demanda. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Si no se adjuntan a la demanda los documentos a que se refieren las fracciones I, II, III, IV, VI y VII de este precepto, el Magistrado Instructor requerirá al promovente para que los presentes (sic) dentro del plazo de cinco días.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando el promovente no los presente dentro de dicho plazo, se tendrá por no presentada la demanda. Si se trata de las pruebas documentales que ofrezca, las mismas se tendrán por no ofrecidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de no exhibir el original del cuestionario para los peritos, se tendrá por no ofertada la prueba pericial, sin que medie requerimiento alguno.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 37.
 
-Si al examinarse la demanda se advierte que ésta es oscura, irregular o incompleta, o que no se adjuntaron los documentos señalados en el artículo precedente, se requerirá al demandante para que dentro del término de tres días la aclare, corrija, complete o exhiba los documentos aludidos, apercibiéndolo de que de no hacerlo se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas, en su caso.
+Si al examinarse la demanda se advierte que ésta es oscura, irregular o incompleta, se requerirá al demandante para que dentro del término de cinco días la aclare, corrija o complete, apercibiéndolo de que de no hacerlo se desechará de plano la demanda.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
-El demandante tendrá derecho de ampliar la demanda dentro de los diez días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la misma, cuando se impugne una resolución negativa ficta.
+Cuando se alegue que la resolución administrativa no fue notificada o que lo fue ilegalmente, siempre que se trate de las impugnables en el juicio en materia administrativa, se estará a las reglas siguientes:
 
-También podrá ampliar la demanda cuando en la contestación se sostenga que el juicio es improcedente por consentimiento tácito, si el actor considera que la notificación del acto impugnado se practicó ilegalmente.
+I. Si la parte demandante afirma conocer la resolución administrativa, los conceptos de impugnación contra su notificación y contra la resolución misma, deberán hacerse valer en la demanda, en la que manifestará la fecha en que la conoció;
+
+II. Si la parte demandante manifiesta que no conoce la resolución administrativa que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien la atribuye, su notificación o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia de la resolución administrativa y de su notificación, mismas que deberá combatir mediante ampliación de la demanda; y
+
+III. El Tribunal estudiará los conceptos de impugnación expresados contra la notificación, en forma previa al examen de los expresados en contra de la resolución administrativa.
+
+Si resuelve que no hubo notificación o que fue ilegal, considerará que la parte demandante fue sabedora de la resolución administrativa desde la fecha en que manifestó conocerla o en la que se le dio a conocer, según se trate, quedando sin efectos todo lo actuado con base a dicha notificación, y procederá al estudio de la impugnación que se hubiese formulado contra la resolución.
+
+Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con la resolución administrativa combatida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 38 Bis.
+
+Se podrá ampliar la demanda, dentro de los diez días siguientes a aquél en que surta efectos la notificación del acuerdo que admita su contestación, en los casos siguientes:
+
+I. Cuando se impugne una negativa ficta;
+
+II. Contra el acto principal del que derive la resolución impugnada en la demanda, así como su notificación, cuando se den a conocer en la contestación;
+
+III. Cuando con motivo de la contestación, se introduzcan cuestiones que, sin violar el primer párrafo del artículo 45 de esta Ley, no sean conocidas por el actor al presentar la demanda; y
+
+IV. Cuando la autoridad demandada plantee el sobreseimiento del juicio por extemporaneidad en la presentación de la demanda.
+
+En el escrito de ampliación de demanda se deberá señalar el nombre de la parte demandante y el juicio en que se actúa, siendo aplicables las reglas precisadas para el escrito inicial de demanda, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten.
+
+Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente, lo dispuesto para el escrito inicial de demanda.
+
+Si no se adjuntan las copias a que se refiere este artículo, el Magistrado Instructor requerirá al promovente para que las presentes (sic) dentro del plazo de tres días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de cualquier otro documento, se estará a las reglas establecidas en el artículo 37.
 
 ###### Artículo 39.
 
@@ -479,21 +619,33 @@ V. Las pruebas que ofrezca, las que deberá relacionar con los hechos de su cont
 
 VI. El nombre y domicilio del coadyuvante, cuando lo haya.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 44.
 
 El demandado deberá adjuntar a su contestación:
 
-I. Copias de la misma y de los documentos que acompañe para cada una de las partes. Su omisión dará lugar a que se le requiera para que los exhiba dentro de un término de tres días, apercibiéndolo de que se tendrá por no contestada la demanda en caso de incumplimiento;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-II. El documento en que acredite su personalidad, salvo cuando actúe por su propio derecho o se trate de una autoridad electa popularmente;
+I. Copias de la misma y de los documentos que acompañe para el demandante y en su caso, para los terceros señalados;
 
-III. El cuestionario que deba desahogar el perito, si se ofrece prueba pericial; así como la ampliación del cuestionario para el desahogo de dicha prueba, en el caso de que ésta se haya propuesto por el demandante; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+II. El documento en que acredite su personalidad, cuando quien comparezca a producir contestación a la demanda sea un particular y no gestione en nombre propio
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III. El cuestionario que deba desahogar el perito, si se ofrece prueba pericial, así como la ampliación del cuestionario para el desahogo de dicha prueba, en el caso de que ésta se haya propuesto por el demandante;
 
 IV. Las pruebas documentales que aporte, si las tuviere en su poder. En caso contrario se aplicarán las reglas que se establecen para el ofrecimiento de las documentales en la demanda.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-Si los documentos a que se refiere el presente artículo excedieren de cincuenta fojas, quedarán en la secretaría para que se instruyan de ellos las partes y sólo subsistirá la obligación de presentar copia del escrito.
+Tratándose de la contestación a la ampliación de la demanda, se deberán adjuntar también los documentos previstos en este artículo, excepto aquéllos que ya se hubieran acompañado al escrito de contestación de la demanda. Esto sin que implique la posibilidad de ofrecer aquellas pruebas que debieron haber sido exhibidas con la contestación de demanda.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Para los efectos de este artículo, en caso de no acompañar alguno de los documentos referidos, serán aplicables las reglas previstas por el artículo 37.
 
 ###### Artículo 45.
 
@@ -501,9 +653,11 @@ En la contestación de la demanda no podrán cambiarse los fundamentos de derech
 
 En el caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoye la misma.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 46.
 
-Dentro del término de tres días se acordará sobre la contestación de la demanda, se tendrán por admitidas o desechadas las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo. Con las copias de la contestación, de los documentos anexos y del auto que la admita se correrá traslado al actor.
+Dentro del término de tres días se acordará sobre la contestación de la demanda, y, en su caso, se dictarán las providencias necesarias para su desahogo. Con las copias de la contestación, de los documentos anexos y del auto que la admita, se correrá traslado a la parte demandante.
 
 ###### Artículo 47.
 
@@ -511,11 +665,19 @@ Una vez agotados los términos para la contestación de la demanda o de su ampli
 
 ### CAPÍTULO VII. DE LAS PRUEBAS
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 48.
 
-En los juicios a que se refiere esta ley será admisible toda clase de pruebas, excepto la confesional mediante absolución de posiciones, las que no tengan relación con los hechos controvertidos, las contrarias a la moral y al derecho; y las que no hayan sido ofrecidas ante la autoridad demandada en el procedimiento administrativo, salvo que en éste no se le hubiera dado oportunidad razonable de hacerlo.
+En los juicios a que se refiere esta ley será admisible toda clase de pruebas, excepto la confesional mediante absolución de posiciones, las que no tengan relación con los hechos controvertidos, las contrarias a la moral y al derecho; y las que no hayan sido ofrecidas ante la autoridad demandada en el procedimiento o recurso administrativo, salvo que en éste no se le hubiera dado oportunidad razonable de hacerlo.
 
 Las pruebas supervenientes podrán presentarse antes de citación para sentencia. En este caso, la Sala ordenará dar vista a la contraparte para que en el término de cinco días exprese lo que a su derecho convenga, reservándose su admisión y valoración hasta la sentencia definitiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 48 Bis.
+
+Las resoluciones y actos administrativos se presumirán legales. Sin embargo, las autoridades deberán probar los hechos que los motiven, cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
 ###### Artículo 49.
 
@@ -653,31 +815,45 @@ La Sala resolverá sobre la autenticidad del documento, exclusivamente, para efe
 
 ### CAPÍTULO IX. DE LAS MEDIDAS CAUTELARES
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 66.
 
-La suspensión de la resolución o del acto administrativo, podrá concederse de oficio, en el mismo auto en que admita la demanda, cuando el acto o resolución impugnado, de llegar a consumarse, dificultaría restituir al particular en el goce de su derecho. El auto que decrete la suspensión debe notificarse sin demora a la autoridad demandada, para su cumplimiento.
+Una vez iniciado el juicio administrativo, salvo en los casos en que se ocasione perjuicio al interés social o se contravengan disposiciones de orden público, y con el fin de asegurar la eficacia de la sentencia, el Magistrado Instructor podrá decretar la suspensión de la ejecución del acto impugnado, así como todas las medidas cautelares positivas necesarias, para evitar que quede sin materia el juicio o se cause daño irreparable a la parte demandante.
+
+Las medidas cautelares positivas se decretarán, entre otros casos, cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende por el simple transcurso del tiempo.
+
+Para esto, será necesario realizar una apreciación preliminar, sobre la legalidad de la resolución administrativa impugnada, de manera que, para conceder tales medidas, bastará la comprobación de la apariencia del buen derecho, a fin de mantener la situación de hecho existente en el estado que se encuentra.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 67.
 
-Además de los casos a que alude el artículo anterior, la suspensión se decretará cuando concurran los siguientes requisitos:
+La solicitud de medidas cautelares, presentada por la parte demandante o su representante legal, se tramitará y resolverá con el incidente respectivo, de conformidad con lo siguiente:
 
-I. Que lo solicite el particular actor;
+La promoción en donde se soliciten las medidas cautelares señaladas, deberá contener los siguientes requisitos:
 
-II. Que el solicitante demuestre su interés jurídico; y
+I. Señalar los hechos que se pretenden resguardar; y
 
-III. Que, de concederse la suspensión, no se siga perjuicio a un evidente interés social o se contravengan disposiciones de orden público.
+II. Manifestar el interés suspensional del promovente y expresar los motivos por los cuales solicita la suspensión o medida cautelar positiva.
 
-Se considerará, entre otros casos, que sí se siguen tales perjuicios o se realizan tales contravenciones cuando, de concederse la suspensión: se continúe el funcionamiento de centros de vicio, de lenocinios, la producción o el comercio de drogas enervantes; se permita la consumación o continuación de delitos o de sus efectos, o el alza de precios con relación a artículos de primera necesidad o bienes de consumo necesario; se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el estado, o la campaña contra el alcoholismo y la venta de substancias que envenenen a la persona.
+La parte promovente deberá adjuntar copia de la solicitud, para cada una de las partes y autoridades relacionadas, a fin de correrles traslado.
 
-IV. Que sean de difícil reparación los daños y perjuicios que se causen al particular con la ejecución del acto.
+En caso de no cumplir con los requisitos previstos en las fracciones I y II del presente artículo, se tendrá por no interpuesto el incidente.
 
-La Sala resolverá sobre la suspensión dentro de los tres días siguientes a que hubiere sido solicitada la medida; si concede la suspensión, procurará fijar la situación en que habrán de quedar las cosas y dictará las medidas pertinentes para conservar la materia del juicio y evitar que se causen daños irreparables para el actor o, en su caso para restituir al actor en el goce de su derecho, hasta en tanto no cause estado la sentencia definitiva.
+La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante la Sala Unitaria, y podrá ser presentada en cualquier tiempo, hasta antes de que se dicte sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 68.
 
-La Sala, sin dejar de observar los requisitos previstos en el artículo anterior, podrá hacer una apreciación, de carácter provisional, sobre la legalidad del acto o resolución impugnada de manera que, para conceder la suspensión, bastará la comprobación de la apariencia del derecho que reclama el particular actor, de modo tal que sea posible anticipar, que en la sentencia definitiva declarará procedente la acción intentada, además del peligro que la demora en la resolución definitiva del juicio podría ocasionar para la preservación del derecho que motivó la demanda.
+El incidente de suspensión se tramitará por cuerda separada.
 
-El análisis a que se alude en el párrafo anterior debe realizarse sin prejuzgar sobre la certeza del derecho y, en consecuencia, la resolución dictada para otorgar la suspensión, no tendrá efecto alguno sobre la sentencia de fondo.
+El Magistrado instructor deberá proveer lo conducente sobre las medidas cautelares provisionales peticionadas, dentro de las veinticuatro horas siguientes a la presentación de la solicitud, y en dicho acuerdo, ordenará correr traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de cuarenta y ocho horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo.
+
+Si no se presenta el informe requerido o si éste no se refiere específicamente a los hechos que le impute el promovente, se presumirá cierto el acto o resolución impugnada, para el sólo efecto de resolver la materia del incidente.
+
+Vencido el término, con el informe o sin él, el Magistrado de Sala Unitaria, en un término máximo de cinco días, resolverá en definitiva la promoción formulada.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2015)</small>
 
@@ -705,15 +881,103 @@ La garantía a que alude el primer párrafo de este artículo no se exigirá cua
 
 En los casos en que proceda la suspensión, pero que pueda ocasionar daños y perjuicios a terceros, se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene sentencia favorable en el juicio.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 70.
 
-Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo, dentro de los treinta días siguientes a la notificación de la sentencia, ante la Sala, quien dará vista a las demás partes por un término de cinco días, y citará a una audiencia de pruebas y alegatos, dentro de los cinco días siguientes, en la que se dictará la sentencia que corresponda.
+En los casos en los que la suspensión o las medidas cautelares solicitadas puedan causar daños a terceros, el Tribunal las ordenará siempre que la parte demandante otorgue garantía bastante para reparar, mediante indemnización, los daños y perjuicios que con ellas pudieran causarse, si no obtiene sentencia favorable en el juicio. Esta garantía deberá expedirse a favor de los terceros que pudieran tener derecho a la reparación del daño o a la indemnización citada y quedará a disposición de la Sala Unitaria correspondiente.
+
+Si no es cuantificable la indemnización respectiva, se fijará discrecionalmente el importe de la garantía, expresando los razonamientos lógicos y jurídicos respectivos. Si se carece por completo de datos que permitan el ejercicio de esta facultad, se requerirá a las partes afectadas para que proporcionen todos aquéllos que permitan conocer el valor probable del negocio y hagan posible la fijación del monto de la garantía.
+
+Por su parte, la autoridad podrá obligarse a resarcir los daños y perjuicios que se pudieran causar al particular; en cuyo caso, el Tribunal, considerando las circunstancias del caso, podrá no dictar las medidas cautelares. En este caso, si la sentencia definitiva es contraria a la autoridad, el Magistrado, deberá condenarla a pagar la indemnización administrativa que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Bis.
+
+Las medidas cautelares positivas y la suspensión de la ejecución del acto impugnado, podrán quedar sin efecto, si la contraparte exhibe contragarantía para indemnizar los daños y perjuicios que pudieran causarse a la parte actora. Además, la contragarantía deberá cubrir los costos de la garantía que hubiese otorgado la parte demandante, la cual comprenderá, entre otros aspectos, los siguientes:
+
+I. Los gastos o primas pagados, conforme a la ley, a la empresa legalmente autorizada que hubiere otorgado la garantía;
+
+II. Los gastos legales de la escritura respectiva y su registro, así como los de cancelación y su registro, cuando la parte actora hubiere otorgado garantía hipotecaria;
+
+III. Los gastos legales acreditados para constituir el depósito; y/o
+
+IV. Los gastos efectivamente erogados para constituir la garantía, siempre que estén debidamente comprobados con la documentación correspondiente.
+
+No se admitirá la contragarantía, si de ejecutarse el acto impugnado, o de no concederse la medida cautelar queda (sic) sin materia el juicio, o cuando resulte en extremo difícil restituir las cosas al estado que guardaban antes del inicio del juicio, lo cual deberá ser motivado por el Magistrado.
+
+Cuando el solicitante de la suspensión o medida cautelar positiva obtenga sentencia favorable firme, el Magistrado de Sala Unitaria ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte, o en su caso del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, la Sala Unitaria ordenará hacer efectiva la garantía otorgada ante la autoridad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Ter.
+
+En los casos en que las medidas cautelares positivas o la suspensión del acto impugnado sean procedentes, se concederá en forma tal (sic), que no impida la continuación del procedimiento en el asunto que haya motivado el acto o resolución impugnada, hasta dictarse resolución firme en él; a no ser que la continuación de dicho procedimiento deje irreparablemente consumado el daño o perjuicio que pueda ocasionarse a la parte demandante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Quáter.
+
+Cuando apareciere debidamente probado que ya se resolvió sobre las medidas cautelares en otro juicio de nulidad, promovido con anterioridad por la misma parte demandante o por otra persona en su nombre o representación, contra el mismo acto impugnado y contra las mismas autoridades, se declarará sin materia el incidente de suspensión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Quinquies.
+
+Las medidas cautelares otorgadas de manera provisional del acto o resolución impugnada dejarán de surtir sus efectos a partir del momento en que se dicte la interlocutoria que resuelva en definitiva si se otorga o se niega lo peticionado, o bien, transcurra el término improrrogable de quince días contados a partir del día siguiente en que haya sido concedida; lo que ocurra primero.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Sexies.
+
+La resolución que conceda o niegue las medidas cautelares de manera definitiva, podrá modificarse o revocarse de oficio o a petición de parte, cuando ocurra un hecho superveniente que lo motive, mientras no se pronuncie sentencia ejecutoria en el juicio en materia administrativa, debiendo tramitarse en la misma forma que el incidente a que alude el presente capitulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Septies.
+
+Para la ejecución y cumplimiento de las resoluciones que otorguen la suspensión del acto impugnado, así como todas las medidas cautelares que se prevén en este capítulo; se observarán las disposiciones a que se refiere (sic) los artículos 10 y 104 de esta Ley; pudiendo este Tribunal en su caso, cuando la naturaleza del acto lo permita, hacer cumplir la resolución correspondiente
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Octies.
+
+Tratándose del incumplimiento de la resolución que conceda la suspensión de la ejecución del acto impugnado o alguna otra de las medidas cautelares previstas en esta Ley, procederá la queja mediante escrito interpuesto en cualquier momento hasta antes de que se dicte sentencia definitiva.
+
+En el escrito en que se interponga la queja se expresarán los hechos por los que se considera que se ha dado el incumplimiento y en su caso, se acompañarán los documentos en que consten las actuaciones de la autoridad que pretenda vulnerar la suspensión o la medida cautelar otorgada.
+
+El Magistrado pedirá un informe a quien se impute el incumplimiento, que deberá rendir dentro del plazo de tres días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja.
+
+Vencido dicho plazo, con informe o sin él, el Magistrado Instructor resolverá en un plazo máximo de cinco días.
+
+Si la Sala resuelve que hubo incumplimiento, declarará la nulidad de las actuaciones realizadas en violación a la suspensión o de otra medida cautelar otorgada; y ordenará su cumplimiento en los términos del artículo que antecede.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO IX BIS. FACULTAD DE ATRACCIÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 70 Nonies.
+
+La Sala Superior podrá ejercer de oficio su facultad de atracción para resolver sobre el otorgamiento de una suspensión o medida cautelar en los juicios o procedimientos especiales competencia del Tribunal de Justicia Administrativa, que ostenten características especiales.
+
+Cuando se ejerza la facultad de atracción a que se refiere el párrafo anterior, corresponderá al Presidente resolver sobre la suspensión o medida cautelar provisional, mientras que la definitiva será resuelta por la Sala Superior.
+
+Revisten características especiales los juicios o procedimientos en los que:
+
+a) Por su materia, conceptos de impugnación o cuantía se consideren de interés y trascendencia.
+
+Tratándose de la cuantía, el valor del negocio será determinado por la Sala Superior, mediante la emisión del acuerdo general correspondiente.
+
+b) Para su resolución sea necesario establecer, por primera vez, la interpretación directa de una ley, reglamento o disposición administrativa de carácter general; hasta fijar jurisprudencia.
+
+A efecto de ejercer la facultad de atracción, se requerirá al Magistrado de Sala Unitaria a fin de que remita el cuadernillo incidental dentro de las veinticuatro horas siguientes a la Secretaría General de Acuerdos de la Sala Superior, la que lo turnará, en su caso, al Presidente o al Magistrado ponente que corresponda conforme a las reglas establecidas para los asuntos competencia de dicho Órgano Jurisdiccional.
+
+Los acuerdos de la Presidencia que decidan atraer el juicio, serán notificados personalmente a las partes en los términos a que alude la presente Ley
 
 ### CAPÍTULO X. DE LAS AUDIENCIAS DE DESAHOGO DE PRUEBAS
-
-### CAPÍTULO XI. DE LA SENTENCIA
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
 
 ###### Artículo 71.
 
@@ -723,11 +987,21 @@ Cuando en un mismo asunto fueren varias las pruebas ofrecidas, el hecho de que a
 
 Una vez desahogadas las pruebas, se dictará auto para que dentro del término de cinco días las partes formulen por escrito sus alegatos. El auto dictado en estos términos, aún cuando no lo mencione expresamente, tendrá efectos de citación para sentencia.
 
-### CAPÍTULO XII. DE LA ACLARACIÓN DE SENTENCIA
+### CAPÍTULO XI. DE LA SENTENCIA
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 72.
 
-La sentencia deberá dictarse dentro de los veinte días que sigan a la notificación del auto en que se cite para sentencia. Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala deberá examinar primero aquellas que puedan llevar a declarar la nulidad lisa y llana del acto o de la resolución impugnada.
+Las sentencias del Tribunal se fundarán en derecho y resolverán sobre la pretensión de la parte demandante que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
+
+Cuando se hagan valer diversas causales de ilegalidad, la sentencia deberá examinar primero aquéllos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en que forma afectaron las defensas del particular y trascendieron al sentido de la resolución.
+
+Las Salas podrán corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto, tanto los conceptos de impugnación y las causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
+
+Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+
+En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
 
 ###### Artículo 73.
 
@@ -741,15 +1015,43 @@ III. Los puntos resolutivos en que se expresen, con claridad, las resoluciones o
 
 IV. Los términos en que deberá ser cumplimentada la sentencia por parte de la autoridad demandada.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 73 Bis.
+
+Las sentencias que dicte la Sala Superior del Tribunal de Justicia Administrativa con motivo de las demandas que prevé la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios, deberán contener como elementos mínimos los siguientes:
+
+I. El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado;
+
+II. Determinar el monto de la indemnización, explicitando los criterios utilizados para su cuantificación, y
+
+III. En los casos de concurrencia previstos en el Capítulo IV de la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios, se deberán razonar los criterios de impugnación y la graduación correspondiente para su aplicación a cada caso en particular.
+
 ###### Artículo 74.
 
 La sentencia definitiva podrá:
 
-I. Reconocer la validez de la resolución o del acto impugnado;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-II. Declarar la nulidad de la resolución o acto combatido; y
+I. Reconocer la validez de la resolución impugnada.
 
-III. Decretar el sobreseimiento.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+II. Declarar la nulidad de la resolución impugnada.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III. Declarar la nulidad para efectos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Declarar la nulidad y condenar a la autoridad; y
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. Decretar el sobreseimiento del juicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 75.
 
@@ -761,21 +1063,55 @@ II. Si los hechos que la motivaron no se realizaron, fueron distintos o se aprec
 
 III. La violación o restricción de un derecho público subjetivo previsto en la Constitución Política del Estado o en las leyes administrativas, cuando afecte sustancialmente el sentido del acto o resolución impugnado;
 
-IV. La omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución o el acto, cuando afecte las defensas del particular y trascienda el sentido de la resolución o acto impugnado; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. La omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución, el acto o el procedimiento administrativo, cuando afecte las defensas del particular y trascienda el sentido de la resolución o acto impugnado; y
 
 V. El desvío de poder, tratándose de sanciones o de actos discrecionales. Se entiende por desvío de poder el ejercicio de potestades administrativas para fines distintos de los previstos en la ley.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 76.
 
-La sentencia que declare la nulidad de un acto o resolución tendrá por objeto nulificar las consecuencias de éste y, en su caso, restituir al particular en el goce del derecho violado, restableciendo las cosas al estado que guardaban antes de que hubiere ocurrido el acto o resolución impugnada cuando el acto fuere de carácter positivo; y cuando fuere de carácter negativo, tendrá el efecto de obligar a la autoridad responsable a que subsane las omisiones en que hubiere incurrido.
+La sentencia que declare la nulidad de un acto o resolución tendrá por objeto nulificar las consecuencias de este, y, además:
 
-La nulidad de la resolución o acto podrá decretarse lisa y llanamente o para determinado efecto. En este último caso deberá precisar con claridad la forma y términos en que la autoridad deba cumplir. Cuando la nulidad hubiese sido declarada por causas distintas a los vicios de forma o a la incompetencia de la autoridad, y deba dictarse una nueva resolución, deberá señalarse de manera concreta el sentido en que la autoridad debe dictar la nueva resolución.
+a) Otorgar o restituir al actor en el goce de los derechos afectados; y
 
-Siempre que se esté en alguno de los supuestos previstos en las fracciones IV y V del artículo inmediato anterior, se declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
+b) Reconocer a la parte demandante la existencia de un derecho subjetivo y condenar al cumplimiento de la obligación correlativa.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2007)</small>
+La nulidad de la resolución o acto podrá decretarse lisa y llanamente o para determinado efecto. En este último caso, deberá precisar con claridad, la forma y términos en que la autoridad deba cumplir.
 
-Las sentencias que se emiten en el caso de elementos de los cuerpos de seguridad pública del estado o sus municipios, que hayan sido cesados o removidos de su cargo, por ningún motivo procederá su instalación o reinstitución y, en su caso, solo procederá la indemnización constitucional, si resultó inocente su reinstalación será a juicio del patrón.
+Siempre que se esté en alguno de los supuestos previstos en la fracción IV, del artículo 75, de esta Ley, el Tribunal declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución.
+
+En los casos en que la sentencia implique una modificación a la cuantía de la resolución administrativa impugnada, el Tribunal deberá precisar, el monto, el alcance y los términos de la misma, para su cumplimiento.
+
+Tratándose de sanciones, cuando dicho Tribunal aprecie que la sanción es excesiva porque no se motivó adecuadamente o no se dieron los hechos agravantes de la sanción, deberá reducir el importe de la sanción apreciando libremente las circunstancias que dieron lugar a la misma.
+
+Cuando la nulidad hubiese sido declarada por causas distintas a los vicios de forma o a la incompetencia de la autoridad, y deba dictarse una nueva resolución, deberá señalarse de manera concreta, el sentido en que la autoridad debe dictar la nueva resolución; salvo que se trate de resoluciones discrecionales.
+
+Las sentencias que se emitan respecto de los elementos operativos a que se refiere la fracción XII, del artículo 3, de la Ley del Sistema de Seguridad Pública del Estado de Jalisco, y se resuelva que la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada; atento a lo dispuesto en (sic) fracción XIII, apartado B, del artículo 123 Constitucional, la autoridad demandada sólo estará obligada a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 76 bis. Las autoridades demandadas y cualesquiera otras autoridades relacionada (sic), están obligadas a cumplir las sentencias del Tribunal de Justicia Administrativa del Estado de Jalisco, conforme a lo siguiente:
+
+I. En los casos en los que la sentencia declare la nulidad y ésta se funde en alguna de las siguientes causales:
+
+a) Tratándose de la incompetencia, la autoridad competente podrá iniciar el procedimiento o dictar una nueva resolución, sin violar lo resuelto por la sentencia, siempre que no hayan caducado sus facultades. Este efecto se producirá, aun en el caso de que la sentencia declare la nulidad en forma lisa y llana.
+
+b) Si tiene su causa en un vicio de forma de la resolución impugnada, ésta se puede reponer subsanando el vicio que produjo la nulidad; en el caso de nulidad por vicios del procedimiento, éste se puede reanudar reponiendo el acto viciado y a partir del mismo.
+
+Si la autoridad tiene facultades discrecionales para iniciar el procedimiento o para dictar una nueva resolución en relación con dicho procedimiento, podrá abstenerse de reponerlo, siempre que no afecte al particular que obtuvo la nulidad de la resolución impugnada.
+
+Los efectos que establece este inciso se producirán sin que sea necesario que la sentencia lo establezca, aun cuando la misma declare una nulidad lisa y llana.
+
+c) Cuando la resolución impugnada esté viciada en cuanto al fondo, la autoridad no podrá dictar una nueva resolución sobre los mismos hechos, salvo que la sentencia le señale efectos que le permitan volver a dictar el acto.
+
+Para los efectos de este inciso, no se entenderá que el perjuicio se incrementa cuando se trate de juicios en contra de resoluciones que determinen obligaciones de pago que se aumenten con actualización, por el simple transcurso del tiempo y con motivo de los cambios de precios en el país o con alguna tasa de interés o recargos.
+
+d) Cuando prospere el desvío de poder, la autoridad queda impedida para dictar una nueva resolución sobre los mismos hechos que dieron lugar a la resolución impugnada, salvo que la sentencia ordene la reposición del acto administrativo anulado, en cuyo caso, éste deberá reponerse en el plazo que señala la sentencia.
+
+II. En los casos de condena, la sentencia deberá precisar la forma y los plazos en los que la autoridad cumplirá con la obligación respectiva.
 
 ###### Artículo 77.
 
@@ -811,9 +1147,7 @@ Si el proyecto del Magistrado Ponente no fuere aceptado por los otros magistrado
 
 Las sentencias pronunciadas por la Sala Superior adquirirán firmeza cuando fueren notificadas a las partes en el procedimiento.
 
-### CAPÍTULO XIII. DE LA EXCITATIVA DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+### CAPÍTULO XII. DE LA ACLARACIÓN DE SENTENCIA
 
 ###### Artículo 82.
 
@@ -821,7 +1155,9 @@ La aclaración de sentencia tendrá por objeto esclarecer algún concepto o supl
 
 Estas aclaraciones podrán hacerse de oficio, dentro del día hábil siguiente al de la firma de la sentencia. La aclaración podrá hacerse a instancia de parte y, en este caso, podrá interponerse dentro de los tres días que sigan a la notificación de la sentencia. En este último caso, interpuesta la aclaración, se resolverá de plano dentro de los cinco días siguientes al de su interposición.
 
-### CAPÍTULO XIV. DE LA EJECUCIÓN DE LAS SENTENCIAS
+### CAPÍTULO XIII. DE LA EXCITATIVA DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 83.
 
@@ -833,19 +1169,19 @@ Recibida la excitativa de justicia, el Presidente del Tribunal solicitará el in
 
 En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de que el Ponente hubiera formulado su proyecto, el informe a que se refiere el párrafo anterior se pedirá a los Magistrados que no hubiesen emitido su voto particular, para que lo hagan en un plazo de tres días.
 
-### CAPÍTULO XV. DE LOS RECURSOS
+### CAPÍTULO XIV. DE LA EJECUCIÓN DE LAS SENTENCIAS
 
 ###### Artículo 85.
 
 La ejecución de las sentencias es competencia del órgano jurisdiccional que las hubiese dictado en primera instancia.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-Una vez que la sentencia definitiva que hubiese declarado procedente la pretensión del particular actor, haya quedado firme, el Magistrado, de oficio o a petición de parte, dictará auto concediendo a la autoridad un término no menor a cuarenta y ocho horas ni mayor a quince días hábiles, para cumplir con la sentencia e informar sobre dicho cumplimiento, apercibiendo que de no hacerlo en el término concedido se hará acreedora a los medios de apremio y sanciones correspondientes.
+Una vez que la sentencia definitiva haya quedado firme y en esta se hubiese declarado procedente la pretensión de la parte demandante, el Magistrado dictará auto concediendo a la parte demandada un término de quince días hábiles para cumplir con la sentencia e informar sobre dicho cumplimiento, apercibiendo que de no hacerlo en el término concedido se hará acreedora a los medios de apremio y sanciones correspondientes.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-Transcurrido el término a que alude el párrafo anterior sin que la autoridad hubiere dado cumplimiento a la sentencia, se decretará la ejecución forzosa de la misma, haciendo uso de las medidas de apremio e imponiendo las sanciones que correspondan. Si existe algún acto material que ejecutar, lo podrá hacer la Sala por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido el sentido de la misma, el Magistrado procederá a dictarla en rebeldía de la autoridad, dentro de un término que no excederá de cinco días.
+Transcurrido el término a que alude el párrafo anterior sin que la autoridad hubiere dado cumplimiento a la sentencia, se decretará la ejecución forzosa de la misma. Si existe algún acto material que ejecutar, lo podrá hacer la Sala por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, el Magistrado procederá a dictarla en rebeldía de la autoridad, salvo que se trate de facultades discrecionales, dentro de un término que no excederá de cinco días.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -875,9 +1211,7 @@ En todo caso, la cantidad fijada como indemnización en los casos de cumplimient
 
 Si la cantidad fijada como indemnización para el cumplimiento sustituto de la sentencia pudiera producir trastorno grave al presupuesto de la entidad pública obligada al pago, ésta lo hará del conocimiento del (sic) la Sala, justificando los motivos y acompañando una propuesta de cumplimiento. La Sala, con audiencia de las partes, resolverá si procede o no la proposición y, en su caso, fijará la manera en que la autoridad deberá cumplir de modo que se eviten trastornos graves al presupuesto.
 
-### CAPÍTULO XVI. DE LAS RESPONSABILIDADES
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+### CAPÍTULO XV. DE LOS RECURSOS
 
 #### Sección I. DE LA RECLAMACIÓN
 
@@ -893,23 +1227,41 @@ II. Decreten o nieguen el sobreseimiento del juicio, con excepción de cuando se
 
 III. Admitan o rechacen la intervención del coadyuvante o del tercero;
 
-IV. Conceden o nieguen la suspensión del acto o resolución impugnada, o contra las que fijen las garantías en el trámite de la suspensión;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2017)</small>
+IV. Concedan o nieguen el otorgamiento de la suspensión o medidas cautelares de manera definitiva del acto o resolución impugnada, o contra las que fijen las garantías relativas a estas;
 
-V. Resuelvan sobre la posibilidad o imposibilidad de la autoridad para cumplir con la sentencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
+V. Modifiquen o revoquen las medidas cautelares otorgadas en juicio, así como sus garantías
 
-VI. Resuelvan sobre la procedencia o improcedencia del cumplimiento sustituto, o fijen en cantidad líquida la indemnización por tal concepto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2017)</small>
+VI. Dejen sin materia el incidente de medidas cautelares;
 
-VII. Admitan, desechen o tengan por no interpuesta la solicitud para declarar que ha operado la afirmativa ficta; o
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2017)</small>
+VII. Resuelvan sobre la queja a que se refiere esta ley;
 
-VIII. Resuelvan la calificación del cumplimiento de la sentencia que declaró que ha operado la afirmativa ficta.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Resuelvan sobre la posibilidad o imposibilidad de la autoridad para cumplir con la sentencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Resuelvan sobre la procedencia o improcedencia del cumplimiento sustituto, o fijen en cantidad líquida la indemnización por tal concepto;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+X. Admitan, desechen o tengan por no interpuesta la solicitud para declarar que ha operado la afirmativa ficta;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Resuelvan la calificación del cumplimiento de la sentencia que declaró que ha operado la afirmativa ficta; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Resuelvan la calificación del cumplimiento de la sentencia definitiva.
 
 ###### Artículo 90.
 
@@ -931,13 +1283,21 @@ En el recurso se deberán expresar con claridad la resolución impugnada y los a
 
 Al escrito en el que se interponga el recurso deberá acompañarse una copia del mismo para cada una de las partes. Si no se acompañaren los documentos aludidos, se prevendrá al recurrente para que dentro del término de tres días subsane la omisión, apercibiéndole que en caso de no hacerlo se le tendrá por desistido del recurso.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 93.
 
-Interpuesto el recurso a que se refiere el artículo anterior, el Magistrado que hubiere dictado la resolución recurrida ordenará correr traslado a las partes, para que, en el término de cinco días, expresen lo que a su derecho convenga. Transcurrido dicho término, se remitirán a la Sala Superior del Tribunal las constancias necesarias para la resolución del recurso. La interposición del recurso no suspenderá ni el procedimiento ni los efectos de la resolución recurrida.
+Interpuesto el recurso a que se refiere el artículo anterior, y siempre y cuando la materia del recurso no verse sobre las medidas cautelares otorgadas, el Magistrado que hubiere dictado la resolución recurrida ordenará correr traslado a las partes, para que, en el término de cinco días, expresen lo que a su derecho convenga. Transcurrido dicho término, se remitirán a la Sala Superior del Tribunal las constancias necesarias para la resolución del recurso. La interposición del recurso no suspenderá ni el procedimiento ni los efectos de la resolución recurrida.
 
 Recibido el recurso por la Sala Superior del Tribunal, el Presidente designará un Magistrado Ponente. La resolución que corresponda al recurso deberá dictarse dentro de los quince días siguientes.
+
+Cuando la reclamación se interponga en contra de las resoluciones a que se refieren las fracciones IV, V, VI y VII, del artículo 89, de esta Ley; mismas que versan sobre las medidas cautelares, el Magistrado Instructor deberá proveer lo conducente en un término de 24 veinticuatro horas, y ordenará correr traslado a fin de que las partes expresen lo que a su derecho convenga dentro del término de 3 tres días siguientes contados a partir de que sea notificado el acuerdo respectivo.
+
+Este acuerdo, deberá ser notificado a las partes, en un plazo no mayor a veinticuatro horas.
+
+Presentadas las manifestaciones o transcurrido el término aludido en el párrafo que antecede, el Magistrado Instructor remitirá la totalidad de las constancias del Cuadernillo Incidental a la Sala Superior, en un plazo no mayor de 3 tres días contado a partir del fenecimiento de dicho término.
+
+Recibido el recurso por la Sala Superior del Tribunal, el Presidente designará un Magistrado Ponente. Y la resolución que corresponda al recurso aludido en estos últimos párrafos, deberá dictarse dentro de los 10 días siguientes.
 
 ###### Artículo 94.
 
@@ -1017,9 +1377,9 @@ Una vez recibido el recurso por la Sala Superior, ésta designará un Magistrado
 
 La Sala Superior, dentro de un término igual al señalado para la formulación del proyecto de sentencia, dictará la misma.
 
-### CAPÍTULO XVII. DE LOS PROCEDIMIENTOS ESPECIALES
+### CAPÍTULO XVI. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 103.
 
@@ -1039,15 +1399,61 @@ La autoridad demandada que insistiere en la repetición de un acto declarado nul
 
 Quien interponga un recurso de apelación que resulte desestimado por notoriamente improcedente será sancionado con multa hasta por el equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 106 Bis.
+
+Cuando el órgano jurisdiccional que (sic) deseche o desestime una recusación advierta que existan elementos suficientes que demuestren que su promoción se haya dirigido a entorpecer o dilatar el procedimiento en cuestión, se impondrá multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Articulo 106 Ter.
+
+En el caso del artículo 70 Quáter, de esta Ley, si se acredita que la segunda suspensión o medida cautelar positiva se solicitó indebidamente y con mala fe, se impondrá multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 106 Quáter.
+
+Cuando la demanda se hubiere interpuesto por la misma parte y en contra del mismo acto impugnado, por dos o más ocasiones, se impondrá multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
 ###### Artículo 107.
 
 Al Actuario que sin causa justificada incumpla con la obligación de notificar una resolución dentro del término que señala esta ley, se le impondrá una amonestación. En caso de reincidencia, una multa que no excederá del quince por ciento de su salario mensual; y si incurriera nuevamente en tal conducta, se le impondrá una sanción hasta por treinta días de suspensión; de persistir en la omisión, será destituido sin responsabilidad para el Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 107 Bis.
+
+Al funcionario del Tribunal que sin causa justificada incumpla con la suspensión y medidas cautelares se le impondrá una amonestación.
+
+En caso de reincidencia, se impondrá una multa que no excederá del quince por ciento de su salario mensual, y si incurriera nuevamente en tal conducta, se impondrá una sanción hasta por treinta días de suspensión, de persistir en la omisión, será destituido sin responsabilidad para el Estado.
+
+Para efectos de este artículo, deberá denunciarse el incumplimiento ante el órgano de control interno del Tribunal, a fin de que instruya y resuelva los procedimientos respectivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 107 Ter.
+
+Al funcionario del Tribunal que sin causa justificada incumpla con los términos a que el (sic) artículo 92 de esta Ley, se le impondrá una amonestación.
+
+En caso de reincidencia, se impondrá una multa que no excederá del quince por ciento de su salario mensual, y si incurriera nuevamente en tal conducta, se impondrá una sanción hasta por treinta días de suspensión, de persistir en la omisión, será destituido sin responsabilidad para el Estado.
+
+Para efectos de este artículo, deberá denunciarse el incumplimiento ante el órgano de control interno del Tribunal, a fin de que instruya y resuelva los procedimientos respectivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 107 Quater.
+
+Cualquiera de las partes del juicio o sus abogados patronos, podrán manifestar a través de una promoción dirigida a Presidencia del Tribunal de Justicia Administrativa, la negativa por parte de la Sala Unitaria de remitir los recursos que se contemplan en esta Ley, caso en el que el Magistrado Presidente ordenará requerir a la Sala responsable para que en un término de 24 horas, rinda el informe respectivo y remita el expediente o las constancias necesarias para resolver el recurso, según sea el caso, para el dictado de su resolución, con el apercibimiento que en caso de no hacerlo, salvo causa justificada, podrá ser sujeto de una multa hasta por el equivalente a ciento veinte veces el valor diario de la Unidad de Medida y Actualización.
+
+En el supuesto de que la autoridad responsable no atienda las obligaciones que impone este artículo, o bien, del informe que se rinda, se desprendan hechos que pueden dar a lugar a una falta administrativa, deberá darse vista al órgano interno de control para que se inicie el procedimiento a que haya lugar.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2005)</small>
 
-### CAPÍTULO XVIII. Del juicio en línea
+### CAPÍTULO XVII. DE LOS PROCEDIMIENTOS ESPECIALES
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 108.
 
@@ -1138,6 +1544,10 @@ El Tribunal recibe la solicitud con sus anexos y en un plazo no mayor a cinco d�
 Los plazos a que se refiere el párrafo anterior, inician a partir del día siguiente al en que la autoridad reciba el escrito del Tribunal, otorgando formal acuse de recibo del cual se deja copia en el mismo Tribunal a disposición del particular.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO XVIII. Del juicio en línea
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 115.
 
@@ -1448,3 +1858,13 @@ CUARTO. Las autoridades cuyos actos sean susceptibles de impugnarse ante el Trib
 QUINTO. En caso de que el Tribunal de Justicia Administrativa del Estado de Jalisco reciba una demanda para tramitarse por juicio en línea y constate que la autoridad demandada no ha realizado trámite alguno para estar en posibilidad de comparecer mediante juicio en línea, se le prevendrá para que en el plazo de diez días hábiles contados a partir de que se le notifique dicha prevención, proceda a realizar los trámites respectivos o, en su caso, acredite que ya cumplió.
 
 SEXTO. Los juicios que se encuentren en trámite ante el Tribunal de Justicia Administrativa del Estado de Jalisco a la fecha en que inicie la operación del juicio en línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea (sic) agendado dentro de los plazos y términos que corresponden en su la (sic) Ley Orgánica del Poder Legislativo.
