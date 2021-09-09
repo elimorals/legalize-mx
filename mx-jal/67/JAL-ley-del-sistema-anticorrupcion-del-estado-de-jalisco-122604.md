@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2018-01-25"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -59,7 +59,9 @@ II. Establecer mecanismos de coordinación entre los diversos órganos de combat
 
 III. Establecer las bases mínimas, para la prevención de las faltas administrativas y los hechos que la ley señale como delitos en materia de corrupción;
 
-IV. Establecer las bases para la emisión de políticas públicas integrales en el combate a la corrupción, así como en la fiscalización y control de los recursos públicos, armonizándose con el Sistema Nacional;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Establecer las bases para la emisión de políticas públicas integrales en el combate a la corrupción, y la promoción de la integridad pública, así como en la fiscalización y control de los recursos públicos, armonizándose con el Sistema Nacional;
 
 V. Establecer las directrices básicas que definan la coordinación de las autoridades competentes para la generación de políticas públicas en materia de prevención, investigación, detección, control, sanción, disuasión y combate a la corrupción armonizándose con el Sistema Nacional;
 
@@ -279,11 +281,15 @@ XI. Aquellas que prevean las reglas de funcionamiento y organización interna de
 
 1. Los integrantes del Comité de Participación Social serán elegidos conforme al procedimiento que señala este artículo.
 
-2. El Congreso del Estado constituirá una Comisión de Selección, por un periodo de tres años, integrada por nueve mexicanos que tengan una residencia mínima de tres años en el Estado de Jalisco, de la siguiente manera:
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-I. Convocará a las instituciones de educación superior y de investigación, para proponer candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción; y
+2. El Congreso del Estado constituirá una Comisión de Selección, por un periodo de tres años, con posibilidad de ratificación hasta por dos periodos más, integrada por nueve mexicanos que tengan una residencia mínima de tres años en el Estado de Jalisco, de la siguiente manera:
 
-II. Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos de la fracción anterior.
+I. Convocará a las instituciones de educación superior y de investigación, para proponer candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción;
+
+II. Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos de la fracción anterior; y
+
+III. Para el caso de la ratificación, esta se sustanciará previo a la convocatoria y bastará con la propuesta por escrito de ratificación por parte de las instituciones proponentes y carta de aceptación del interesado.
 
 3. El cargo de miembro de la Comisión de Selección será honorífico. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Social por un periodo de seis años contados a partir de la disolución de la Comisión de Selección.
 
@@ -323,7 +329,9 @@ I. Aprobar sus normas de carácter interno;
 
 II. Elaborar su programa de trabajo anual;
 
-III. Aprobar el informe anual de las actividades que realice en cumplimiento a su programa de trabajo anual, mismo que deberá ser público;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III. Aprobar el informe anual de las actividades que realice en cumplimiento a su programa de trabajo anual, mismo que deberá presentar, en el mes de febrero, en la Secretaría Técnica y ser público;
 
 IV. Participar en la Comisión Ejecutiva en términos de esta Ley;
 
@@ -383,6 +391,20 @@ IV. Preparar el orden de los temas a tratar; y
 
 V. Garantizar el seguimiento de los temas del Comité Coordinador y los demás de su competencia.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 22 bis.
+
+1. Los integrantes del Comité de Participación Social tendrán las siguientes atribuciones:
+
+I. Asistir y votar, en las sesiones de la Comisión Ejecutiva;
+
+II. Asistir y votar, en las sesiones del Comité de Participación Social;
+
+III. Realizar iniciativas, mociones, propuestas o proyectos necesarios para el buen desempeño de los órganos colegiados en que participa; y
+
+IV. Presentar en el mes de febrero, en lo individual, informe anual de actividades a la Secretaría Técnica.
+
 ###### Artículo 23.
 
 1. El Comité de Participación Social podrá solicitar al Comité Coordinador la emisión de exhortos públicos cuando algún hecho de corrupción requiera de aclaración pública. Los exhortos tendrán por objeto requerir a las autoridades competentes información sobre la atención al asunto de que se trate.
@@ -410,6 +432,10 @@ II. Los recursos que le sean asignados anualmente en el Presupuesto de Egresos c
 III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro título, siempre que sean indispensables para el ejercicio de sus funciones.
 
 2. Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por la Ley para los Servidores Públicos del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. La Secretaria Ejecutiva otorgará los recursos materiales y administrativos suficientes a los integrantes del Comité de Participación Social para el ejercicio de sus atribuciones.
 
 ###### Artículo 27.
 
@@ -485,7 +511,9 @@ IX. Las adecuaciones que se requieran para su homologación con las normas emiti
 
 2. La Comisión Ejecutiva podrá invitar a sus sesiones a especialistas en los temas a tratar, los cuales contarán con voz pero sin voto, mismos que serán citados por el Secretario Técnico.
 
-3. Por las labores que realicen como miembros de la Comisión Ejecutiva, los integrantes del Comité de Participación Social no recibirán contraprestación adicional a la que se les otorgue por su participación como integrantes del Comité de Participación Social, de conformidad con lo establecido en esta Ley.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. Por las labores que realicen como miembros de la Comisión Ejecutiva, los integrantes del Comité de Participación Social, recibirán adicionalmente los recursos materiales y administrativos necesarios para su participación como integrantes del Comité de Participación Social, de conformidad con lo establecido en esta Ley.
 
 4. La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere necesarios a las autoridades integrantes del Comité Coordinador, a través del Secretario Técnico.
 
@@ -511,11 +539,15 @@ III. Incurrir en alguna falta administrativa grave o hecho de corrupción.
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles;
 
-II. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-III. Tener más de treinta y cinco años de edad, al día de la designación;
+II. Experiencia verificable en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
 
-IV. Poseer al día de la designación antigüedad mínima de diez años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones;
+III. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Poseer al día de la designación antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos relacionados con la materia de esta Ley que le permitan el desempeño de sus funciones;
 
 V. Gozar de buena reputación y no haber sido condenado por algún delito;
 
@@ -533,7 +565,9 @@ X. No ser titular de alguna dependencia o entidad de la administración pública
 
 ###### Artículo 35.
 
-1. Corresponde al Secretario Técnico ejercer la dirección de la Secretaría Ejecutiva, por lo que contará con las facultades previstas para los directores generales de los organismo (sic) públicos descentralizados en la de la (sic) Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, salvo aquellas que por disposición de esta Ley correspondan a otro órgano.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+1. Corresponde al Secretario Técnico ejercer la dirección de la Secretaría Ejecutiva, por lo que contará con las facultades previstas para los directores generales de los organismos públicos descentralizados en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, salvo aquellas que por disposición de esta Ley correspondan a otro órgano, así como los recursos suficientes para dotar de insumos administrativos al Comité Coordinador.
 
 2. El Secretario Técnico adicionalmente tendrá las siguientes funciones:
 
@@ -557,9 +591,13 @@ IX. Realizar estudios especializados en materias relacionadas con la prevención
 
 X. Administrar las herramientas y tecnologías de la información y asegurar el acceso a las mismas de los miembros del Comité Coordinador y de la Comisión Ejecutiva;
 
-XI. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicas y reflejen los avances o retrocesos en la política estatal anticorrupción; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva.
+XI. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicos y reflejen los avances o retrocesos en la política estatal anticorrupción; y
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Llevar a cabo diagnósticos para identificar los procesos más susceptibles de corrupción.
 
 ### Capítulo V. Sistemas Municipales
 
@@ -748,3 +786,13 @@ P.O. 25 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26724/LXI/17 QUE REFORMA EL ARTÍCULO 34, FRACCIÓN X DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su la Ley Orgánica del Poder Legislativo.
