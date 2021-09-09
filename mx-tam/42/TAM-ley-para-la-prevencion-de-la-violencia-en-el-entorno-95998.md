@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-la-violencia-en-el-entorno-95998"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2021-07-14"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -81,9 +81,17 @@ IX. Fortalecer la colaboración con la sociedad para la instrumentación de pol�
 
 X. Crear el Consejo para la Prevención, Tratamiento y Erradicación de la Violencia en el entorno Escolar del Estado de Tamaulipas;
 
-XI. Instrumentar el Programa de Prevención e Intervención de la Violencia en el entorno Escolar, para las instituciones educativas; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Crear el Registro Estatal para el Control de la Violencia en el entorno Escolar.
+XI. Instrumentar el Programa de Prevención e Intervención de la Violencia en el entorno Escolar, para las instituciones educativas;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Crear el Registro Estatal para el Control de la Violencia en el entorno Escolar; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Crear Brigadas Escolares sobre la Prevención de la Violencia Escolar para su detección temprana y atención inmediata dentro de todas las escuelas de la entidad.
 
 ###### ARTÍCULO 4.
 
@@ -93,29 +101,33 @@ I. Agresor: el alumno que planee, ejecute o participe en la violencia en el ento
 
 II. Ambiente hostil: situación en la que la violencia escolar altera las condiciones de la educación de los estudiantes y crea un ambiente escolar abusivo;
 
-III. Cómplice: el alumno que, sin ser agresor, coopere en la ejecución del maltrato escolar o en las represalias, mediante actos u omisiones anteriores, simultáneos o posteriores al hecho;
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Consejo: el consejo para la Prevención, Tratamiento y Erradicación de la Violencia en el entorno Escolar del Estado de Tamaulipas;
+III. Brigadas Escolares sobre la Prevención de la Violencia Escolar: grupo de personas seleccionadas de entre los integrantes de la comunidad escolar, que interactúan y se reúnen con la finalidad de tomar las medidas necesarias para llevar a cabo acciones preventivas de violencia escolar en la institución educativa a la que pertenecen;
 
-V. Escuela: el inmueble en que presta sus servicios una institución educativa pública o privada;
+IV. Cómplice: el alumno que, sin ser agresor, coopere en la ejecución del maltrato escolar o en las represalias, mediante actos u omisiones anteriores, simultáneos o posteriores al hecho;
 
-VI. Ley: la Ley para la Prevención de la Violencia en el entorno Escolar del Estado de Tamaulipas;
+V. Consejo: el consejo para la Prevención, Tratamiento y Erradicación de la Violencia en el entorno Escolar del Estado de Tamaulipas;
 
-VII. Personal capacitado: el que haya sido capacitado por la Secretaría o aquel que posea conocimientos acreditables en materia de prevención e intervención de violencia en el entorno escolar, así como en el tratamiento de sus consecuencias;
+VI. Escuela: el inmueble en que presta sus servicios una institución educativa pública o privada;
 
-VIII. Personal escolar: el que sostenga una relación laboral con la institución educativa, que incluye enunciativamente al de carácter directivo, docente, de supervisión, administrativo, de enfermería, cafetería y conserjería;
+VII. Ley: la Ley para la Prevención de la Violencia en el entorno Escolar del Estado de Tamaulipas;
 
-IX. Programa de Prevención e Intervención de la Violencia en el entorno Escolar: el que establece el conjunto de lineamientos para prevenir, tratar y erradicar la violencia en el entorno escolar;
+VIII. Personal capacitado: el que haya sido capacitado por la Secretaría o aquel que posea conocimientos acreditables en materia de prevención e intervención de violencia en el entorno escolar, así como en el tratamiento de sus consecuencias;
 
-X. Registro Estatal para el Control de la Violencia en el entorno Escolar: la compilación detallada de la incidencia de violencia en el entorno escolar en el Estado, que realizará la Secretaría;
+IX. Personal escolar: el que sostenga una relación laboral con la institución educativa, que incluye enunciativamente al de carácter directivo, docente, de supervisión, administrativo, de enfermería, cafetería y conserjería;
 
-XI. Represalias: respuesta de castigo, venganza o amenaza en contra de quien reporte casos de maltrato escolar, proporcione información durante una investigación, o sea testigo o poseedor de información fiable en algún caso de violencia en el entorno escolar;
+X. Programa de Prevención e Intervención de la Violencia en el entorno Escolar: el que establece el conjunto de lineamientos para prevenir, tratar y erradicar la violencia en el entorno escolar;
 
-XII. Secretaría: la Secretaría de Educación del Estado de Tamaulipas;
+XI. Registro Estatal para el Control de la Violencia en el entorno Escolar: la compilación detallada de la incidencia de violencia en el entorno escolar en el Estado, que realizará la Secretaría;
 
-XIII. Víctima: el alumno contra quien se realiza la violencia en el entorno escolar; y
+XII. Represalias: respuesta de castigo, venganza o amenaza en contra de quien reporte casos de maltrato escolar, proporcione información durante una investigación, o sea testigo o poseedor de información fiable en algún caso de violencia en el entorno escolar;
 
-XIV. Violencia en el entorno escolar: todas aquellas acciones negativas o actos violentos de tipo físico, verbal, sexual, patrimonial, psicológico, a través de los medios tecnológicos, sean o no, en respuesta a una acción predeterminada necesariamente, que ocurren de modo reiterativo prologándose durante un periodo de tiempo y que tienen como intención causar daño por el deseo consciente de herir, amenazar o discriminar por parte de uno o varios estudiantes a otro u otros en el entorno escolar.
+XIII. Secretaría: la Secretaría de Educación del Estado de Tamaulipas;
+
+XIV. Víctima: el alumno contra quien se realiza la violencia en el entorno escolar; y
+
+XV. Violencia en el entorno escolar: todas aquellas acciones negativas o actos violentos de tipo físico, verbal, sexual, patrimonial, psicológico, a través de los medios tecnológicos, sean o no, en respuesta a una acción predeterminada necesariamente, que ocurren de modo reiterativo prologándose durante un periodo de tiempo y que tienen como intención causar daño por el deseo consciente de herir, amenazar o discriminar por parte de uno o varios estudiantes a otro u otros en el entorno escolar.
 
 ###### ARTÍCULO 5.
 
@@ -509,9 +521,11 @@ Se promoverá el otorgamiento de un reconocimiento a fin de año como incentivo 
 
 ### CAPÍTULO V. DE LA CAPACITACIÓN
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 32.
 
-Las instituciones educativas formarán grupos de prevención e intervención de violencia en el entorno escolar, así como grupos de apoyo a víctimas de estas conductas, los cuales estarán conformados por personal administrativo, docente, directivos escolares, estudiantes, voluntarios, padres de familia y miembros de la comunidad.
+Las instituciones educativas formarán grupos de prevención e intervención de violencia en el entorno escolar, así como grupos de apoyo a víctimas de estas conductas, según lo establecido dentro del Capítulo V BIS de la presente ley, los cuales estarán conformados por personal administrativo, docente, directivos escolares, estudiantes, voluntarios, padres de familia y miembros de la comunidad.
 
 ###### ARTÍCULO 33.
 
@@ -527,9 +541,77 @@ III. Realizar una evaluación de la capacitación proporcionada, para definir la
 
 Los lineamientos serán incluidos en el programa de capacitación de todo trabajador de la educación y docente que pertenezca a una institución educativa pública o privada.
 
-### CAPÍTULO VI. DE LA DENUNCIA
+> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPÍTULO VII. DEL SEGUIMIENTO
+### CAPÍTULO V BIS. DE LAS BRIGADAS ESCOLARES SOBRE LA PREVENCIÓN DE LA VIOLENCIA ESCOLAR
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 34 BIS. En todas las instituciones y planteles educativos se deberá conformar una Brigada Escolar sobre la Prevención de la Violencia Escolar, que son instancias de apoyo para la aplicación de la presente Ley, cuyo coordinador será el enlace con las autoridades.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 34 TER. La Brigada se integrará de la siguiente forma:
+
+I. El Director del plantel educativo, o quien éste designe en su representación;
+
+II. Tres representantes de padres de familia, que serán designados por la Asociación de Padres de familia del plantel educativo;
+
+III. Dos representantes del personal docente, que serán designados por el director del plantel educativo; y
+
+IV. Un psicólogo y/o trabajador social, adscrito al plantel, quien será el responsable de la Brigada.
+
+Las brigadas podrán invitar a sus reuniones o actividades a dos representantes de los estudiantes, designados por la propia Brigada, dándose preferencia a la participación de los educandos, como parte de su proceso formativo y siempre atendiendo a la propia naturaleza del nivel educativo.
+
+La Brigada tratará los temas de su competencia, con la discreción y sigilo necesario. Se cuidará de no tratar temas particulares en presencia de representantes de estudiantes, que puedan ocasionar un perjuicio en la comunidad estudiantil.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 34 QUATER. Las actividades que lleven a cabo las Brigadas y que involucren acciones específicas de carácter permanente por parte de las autoridades, se formalizarán mediante la suscripción de convenios de colaboración, los cuales tendrán carácter vinculante para las autoridades firmantes.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 34 QUINQUIES. Corresponde a las Brigadas:
+
+I. Adoptar las medidas preventivas establecidas en el Programa de Prevención e Intervención de la Violencia en el entorno Escolar;
+
+II. Dar seguimiento a la ejecución de los mecanismos, instrumentos y procedimientos para la prevención, tratamiento y erradicación de la violencia en el entorno escolar en el Estado;
+
+III. Comunicar al director de la institución educativa, los probables hechos de violencia escolar sucedidos al interior y exterior de la escuela o bien a través de redes sociales;
+
+IV. Llevar a cabo los convenios de coordinación con las autoridades, necesarios para el cumplimiento de esta Ley o sus planes y programas internos en la materia;
+
+V. Gestionar ante quien corresponda, las necesidades que en materia de seguridad escolar requiera el plantel;
+
+VI. Proponer y opinar respecto de los criterios y acciones en materia de seguridad escolar;
+
+VII. Gestionar ante la autoridad correspondiente la atención física, psicológica y jurídica en casos de violencia escolar;
+
+VIII. Aplicar las medidas disciplinarias correspondientes a los autores de violencia escolar;
+
+IX. Aplicar las medidas disciplinarias correspondientes a los partícipes en casos de violencia escolar y represalias;
+
+X. Extender reconocimientos a los miembros de la comunidad escolar que se distingan por su valor cívico y participación social de las labores preventivas de violencia escolar;
+
+XI. Las demás que conforme a esta Ley y otras disposiciones le correspondan.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 34 SEXTIES. El funcionamiento de las Brigadas, se sujetará a las siguientes disposiciones:
+
+I. El registro de la Brigada será ante la Secretaría y lo realizará el director del plantel educativo de que se trate;
+
+II. En caso, de la sustitución de alguno de los miembros de la Brigada, el director del plantel lo comunicará a la Secretaría, dentro de los diez días hábiles siguientes a partir de que ésta ocurra;
+
+III. Las determinaciones de la Brigada se adoptarán por mayoría de votos de sus miembros;
+
+IV. La representación de los alumnos que participen en actividades de las Brigadas, deberá elegirse entre aquellos que se distingan por su espíritu de servicio a la comunidad;
+
+V. Por cada miembro de la Brigada podrá haber un suplente, quien sustituirá al titular en sus ausencias, sin formalidad adicional alguna; y
+
+VI. La conformación de las Brigadas deberá realizarse dentro de los primeros quince días hábiles del inicio del ciclo escolar.
+
+### CAPÍTULO VI. DE LA DENUNCIA
 
 ###### ARTÍCULO 35.
 
@@ -575,7 +657,7 @@ VII. Mencionar si la parte involucrada necesita de servicios de tratamiento psic
 
 La información contenida en la denuncia debe ser confidencial y no deberá afectar la calificación de rendimiento escolar de la víctima o del presunto agresor. Una vez presentada la denuncia, se citará a las partes involucradas e interesadas, garantizando su derecho de audiencia.
 
-### CAPÍTULO VIII. DE LA REVISIÓN
+### CAPÍTULO VII. DEL SEGUIMIENTO
 
 ###### ARTÍCULO 42.
 
@@ -601,7 +683,7 @@ Al final del ciclo escolar, cada institución educativa, remitirá la informaci�
 
 A dicho informe se deberán anexar copias de las denuncias recibidas y toda la documentación que respalde el actuar de la autoridad escolar correspondiente, en la solución de los incidentes.
 
-### CAPÍTULO IX. DE LOS SERVICIOS DE APOYO
+### CAPÍTULO VIII. DE LA REVISIÓN
 
 ###### ARTÍCULO 45.
 
@@ -635,7 +717,7 @@ II. Adoptar planes de capacitación de profesores en la identificación, prevenc
 
 III. Producir material didáctico de sensibilización del problema de la violencia en el entorno escolar, con utilización de casos reales que permitan la discusión sobre los mismos entre los estudiantes. Dicho material deberá ser distribuido entre las instituciones educativas.
 
-### CAPÍTULO X. DEL REGISTRO ESTATAL PARA EL CONTROL DE LA VIOLENCIA EN EL ENTORNO ESCOLAR
+### CAPÍTULO IX. DE LOS SERVICIOS DE APOYO
 
 ###### ARTÍCULO 51.
 
@@ -645,7 +727,7 @@ Estos apoyos también estarán disponibles para aquéllos que se consideran como
 
 Cuando la víctima o agresor solicite dicho apoyo, la institución educativa lo canalizará oportunamente a la instancia correspondiente, según lo estipulado en los lineamientos correspondientes.
 
-### CAPÍTULO I. DE LAS SANCIONES PARA LOS AGRESORES Y CÓMPLICES
+### CAPÍTULO X. DEL REGISTRO ESTATAL PARA EL CONTROL DE LA VIOLENCIA EN EL ENTORNO ESCOLAR
 
 ###### ARTÍCULO 52.
 
@@ -667,7 +749,7 @@ V. En todos los casos, el informe reservará aquella información que conforme a
 
 ## TÍTULO TERCERO. DE LA VIGILANCIA Y SANCIONES
 
-### CAPÍTULO II. DE LAS SANCIONES PARA EL PERSONAL ESCOLAR
+### CAPÍTULO I. DE LAS SANCIONES PARA LOS AGRESORES Y CÓMPLICES
 
 ###### ARTÍCULO 54.
 
@@ -689,7 +771,7 @@ Los directores escolares o su designado, serán los responsables de aplicar, pre
 
 Cuando la gravedad de la conducta de la violencia en el entorno escolar tenga consecuencias penales se procederá conforme al Programa de Prevención e Intervención de la Violencia en el entorno Escolar, dando parte a la autoridad competente.
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LAS SANCIONES PARA EL PERSONAL ESCOLAR
 
 ###### ARTÍCULO 57.
 
@@ -713,13 +795,15 @@ VII. Se viole la confidencialidad de los datos contenidos en los expedientes ún
 
 Los procedimientos y sanciones para el personal escolar, se sujetarán a las disposiciones previstas por las leyes aplicables.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 59.
 
 En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y demás derivadas de ésta, podrá interponerse el recurso administrativo de revisión previsto en la Ley de Educación para el Estado de Tamaulipas.
 
 ## TÍTULO CUARTO. DEL ACCESO A LA INFORMACIÓN PÚBLICA
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 60.
 
@@ -760,3 +844,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “LXIV-787 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XI Y XII; Y 32; Y SE ADICIONAN LAS FRACCIONES XIII AL ARTÍCULO 3 Y III AL ARTÍCULO 4, RECORRIÉNDOSE LAS ACTUALES III A LA XIV EN SU ORDEN SUBSECUENTE, ASÍ COMO EL CAPÍTULO V BIS AL TÍTULO SEGUNDO DENOMINADO DE LAS BRIGADAS ESCOLARES SOBRE LA PREVENCIÓN DE LA VIOLENCIA ESCOLAR CONFORMADO POR LOS ARTÍCULOS 34 BIS, 34 TER, 34 QUATER, 34, QUINQUIES Y 34 SEXTIES A LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
