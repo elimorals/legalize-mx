@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-instituto-para-la-atencion-de-los-75016"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-05-03"
-last_updated: "2011-05-30"
+last_updated: "2021-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA ATENCION DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA ATENCIÓN DE LAS Y LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA ATENCION DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 3 de mayo de 2010.
 
@@ -490,3 +490,19 @@ Lic. Aunard de la Rocha Waite
 Directora General del Instituto para la Atención de los Adultos Mayores del Estado de Hidalgo
 
 Psic. Araceli Islas Fuentes
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA ATENCIÓN DE LAS Y LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicaciónen (sic) el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Atención de las y los AdultosMayores (sic) del Estado de Hidalgo, publicado el día 03 de mayo del 2010 en el Periódico Oficialdel (sic) Estado de Hidalgo, derogándose cualquier otra disposición que se oponga a lo previsto por el presente Estatuto Orgánico.
+
+TERCERO.- A partir de la entrada en vigor de este Estatuto, el Instituto para la Atención de las y los Adultos Mayores del Estado de Hidalgo deberá emitir sus manuales de organizacióny (sic) procedimientos en un plazo de 90 días hábiles.
+
+CUARTO.- En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las Unidades Administrativas del Instituto para la Atención de las y los AdultosMayores (sic) del Estado de Hidalgo, se continuarán aplicando los vigentes al momento de entraren (sic) vigor el presente Estatuto.
+
+QUINTO.- El presente Estatuto deberá inscribirse en el Registro Público en términos de losque (sic) establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
