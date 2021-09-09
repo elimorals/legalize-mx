@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-del-estado-de-jalisco-131942"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2020-07-01"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Quinquies Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -265,9 +265,9 @@ VII. Dirección General de Policía de Investigación.
 
 ###### Artículo 11.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-1. La Fiscalía Especializada en Combate a la Corrupción de conformidad con la Constitución Política del Estado de Jalisco, es la responsable de investigar y perseguir las conductas que el Código Penal del Estado tipifica como “delitos relacionados con hecho (sic) de corrupción” previstos en los artículos 144, 145, 146 fracciones I, IV, VII, VIII, IX, XII, XIII, XIX, XXI, XXII, XXIII y XXIV, 147, 148, 149, 150, 151, 152, 153, 154 y demás ordenamientos especiales.
+1. La Fiscalía Especializada en Combate a la Corrupción de conformidad con la Constitución Política del Estado de Jalisco, es la responsable de investigar y perseguir las conductas que el Código Penal del Estado tipifica como “delitos relacionados con hechos de corrupción” previstos en los artículos 144, 145, 146 fracciones I, IV, VII, VIII, IX, XII, XIII, XIX, XXI, XXII, XXIII y XXIV, 147, 148, 149, 150, 151, 152, 153, 154 y demás ordenamientos especiales.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -339,13 +339,17 @@ XXVII. Decidir sobre el destino de los recursos que le sean asignados, de confor
 
 XXVIII. Diseñar e implementar una plataforma digital de servidores públicos y proveedores Inhabilitados, ya sean personas físicas o jurídicas, con motivo de delitos por hechos de corrupción, teniendo como soporte las sentencias dictadas por la autoridad judicial, que hayan causado estado y que le sean notificadas, con información clara, accesible y actualizada, de conformidad a la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XXIX. Dar aviso oportunamente a los diversos entes públicos, cuando se inhabilite mediante sentencia ejecutoriada, a cualquier servidor público, proveedor o contratista, sea persona física o jurídica por haber cometido hechos de corrupción, dictadas por la autoridad judicial, que le sean notificadas acompañando al informe copia certificada de la sentencia ejecutoriada; y
+XXIX. Dar aviso oportunamente a los diversos entes públicos, cuando se inhabilite mediante sentencia ejecutoriada, a cualquier servidor público, proveedor o contratista, sea persona física o jurídica por haber cometido hechos de corrupción, dictadas por la autoridad judicial, que le sean notificadas acompañando al informe copia certificada de la sentencia ejecutoriada;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XXX. Las demás que en su caso le confieran otras disposiciones aplicables.
+XXX. Identificar y asegurar bienes en los delitos asociados a la corrupción; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXXI. Las demás que en su caso le confieran otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -984,3 +988,13 @@ TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participaci
 CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
 
 QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su la Ley Orgánica del Poder Legislativo.
