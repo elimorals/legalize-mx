@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2020-04-14"
+last_updated: "2021-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -905,9 +905,19 @@ XX. Organizar seminarios, congresos, conferencias y demás actos análogos en ma
 
 XXI. Coordinar el organismo desconcentrado denominado Administración para la Beneficencia Pública en el Estado, y otorgar los apoyos que requiera;
 
-XXII. Coordinar administrativamente las actividades del Sistema para el Desarrollo Integral de la Familia del Estado y de las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXII. Coordinar administrativamente las actividades del Sistema para el Desarrollo Integral de la Familia del Estado y de las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII. Coordinar el Organismo Público Descentralizado de la Administración Pública Estatal, denominado Comisión Estatal de Conciliación y Arbitraje Médico, de acuerdo a lo establecido en la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXIV. Participar, conforme a lo establecido en la Ley de la materia, en la Comisión Estatal para la Atención y Protección a Personas con la Condición del Espectro Autista; y
+
+XXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XIII. De la Secretaría de Desarrollo Urbano y Medio Ambiente
 
@@ -1840,3 +1850,11 @@ P.O. 14 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-788 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXII Y SE ADICIONAN LAS FRACCIONES XXIII Y XXIV, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS CONSECUENTES, DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
