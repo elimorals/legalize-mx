@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-1308
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-10-04"
-last_updated: "2019-11-27"
+last_updated: "2021-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 4 de octubre de 2018.
 
@@ -589,7 +587,9 @@ XXVIII. Atender y resolver los asuntos que conforme a la Ley Federal del Trabajo
 
 XXIX. Proponer estrategias y líneas de acción orientadas al cumplimiento de los objetivos de las entidades que le estén sectorizadas, así como vigilar, controlar y proponer en relación con los asuntos encomendados a las mismas;
 
-XXX. Coordinar el establecimiento y la integración de la Junta Local de Conciliación y Arbitraje del Estado, de las Juntas Especiales de la Local de Conciliación y Arbitraje del Estado y del Tribunal Estatal de Conciliación y Arbitraje del Estado de Morelos; proponer a dichas autoridades laborales, en estricto respeto a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la administración de justicia laboral en el Estado;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXX. Coordinar el establecimiento y la integración del Tribunal Estatal de Conciliación y Arbitraje; así como proponer a dicha autoridad laboral, en estricto respeto a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la administración de justicia burocrática en el estado;
 
 XXXI. Crear y presidir, en su caso, las comisiones o comités transitorios o permanentes necesarios para la mejor atención de los asuntos de naturaleza laboral;
 
@@ -1261,7 +1261,9 @@ XVIII. Dar opinión al Gobernador del Estado, sobre los proyectos de convenios, 
 
 XIX. Revisar y, en su caso, validar con su rúbrica, todos los contratos y convenios que procedan de las Secretarías y Dependencias del Poder Ejecutivo, en atención a la política que fije éste en los que sea parte.
 
-## TÍTULO TERCERO. DE LOS ORGANISMOS ADMINISTRATIVOS Y DE JUSTICIA LABORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+## TÍTULO TERCERO. DE LOS ORGANISMOS ADMINISTRATIVOS DE CONCILIACIÓN Y JUSTICIA BUROCRÁTICA
 
 ### CAPÍTULO PRIMERO. DE LOS ORGANISMOS ADMINISTRATIVOS
 
@@ -1269,33 +1271,53 @@ XIX. Revisar y, en su caso, validar con su rúbrica, todos los contratos y conve
 
 A efecto de proveer mecanismos de conciliación y defensa de los intereses de los trabajadores, existirá la Procuraduría Estatal de Defensa del Trabajo, que dependerá directamente del Secretario de Desarrollo Económico y del Trabajo.
 
-### CAPÍTULO SEGUNDO. DE LOS ORGANISMOS DE JUSTICIA LABORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO SEGUNDO. DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
-Con el propósito de satisfacer los requerimientos de la Ley Federal del Trabajo, se establece la Junta Local de Conciliación y Arbitraje, así como el Tribunal Estatal de Conciliación y Arbitraje, los que se encargarán de administrar justicia en el ámbito de su competencia, conforme a lo dispuesto en los apartados A y B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente; organismos que dependerán de la Secretaría de Desarrollo Económico y del Trabajo, se integrarán y serán competentes en términos de lo dispuesto en la Ley Federal del Trabajo y la Ley del Servicio Civil del Estado de Morelos.
+El Tribunal Estatal de Conciliación y Arbitraje se encargará de administrar justicia burocrática en el ámbito de su competencia, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás normativa aplicable; organismo que dependerá administrativamente de la Secretaría de Desarrollo Económico y del Trabajo, se integrará y será competente en términos de lo dispuesto en la Ley del Servicio Civil del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 39.
 
-Serán del conocimiento y resolución del Tribunal Estatal de Conciliación y Arbitraje y de la Junta Local de Conciliación y Arbitraje los conflictos que se presenten en las relaciones laborales entre los Poderes del Estado y sus trabajadores, los municipios y sus trabajadores, y los patrones y sus trabajadores, en los términos de la Ley del Servicio Civil del Estado de Morelos y la Ley Federal del Trabajo, según sea el caso.
+Serán del conocimiento y resolución del Tribunal Estatal de Conciliación y Arbitraje los conflictos que se presenten en las relaciones burocráticas entre los Poderes del Estado y sus trabajadores, los municipios y sus trabajadores, en los términos de la Ley del Servicio Civil del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 40.
 
-Las autoridades a que se refiere el artículo anterior, tendrán autonomía jurisdiccional plena para ejercer sus funciones y dictar sus resoluciones.
+La autoridad a que se refiere el artículo anterior, tendrá autonomía jurisdiccional plena para ejercer sus funciones y dictar sus resoluciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 41.
 
-Para el desempeño de las autoridades, que comprende este Título, el Ejecutivo proporcionará el apoyo administrativo necesario, por conducto de las Secretarías y Dependencias competentes.
+Para el desempeño de las autoridades, que comprende este título, el Ejecutivo proporcionará el apoyo administrativo necesario, por conducto de las Secretarías y Dependencias competentes.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 42.
 
-Las autoridades a que se refiere este Capítulo, se regirán en cuanto a su organización, integración y competencia, por las disposiciones y ordenamientos particulares que les den origen.
+La autoridad a que se refiere este Capítulo se regirá en cuanto a su organización, integración y competencia por las disposiciones y ordenamientos particulares que le den origen.
 
-### CAPÍTULO PRIMERO. DE LOS ORGANISMOS AUXILIARES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO TERCERO. DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MORELOS
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 42 Bis.
+
+La instancia conciliatoria que conocerá de las diferencias o los conflictos entre trabajadores y patrones de competencia estatal, a que se refiere la fracción XX del apartado A, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos será el Centro de Conciliación Laboral del Estado de Morelos a que alude el artículo 85-F de la Constitución Política del Estado Libre y Soberano de Morelos; mismo que se regirá conforme su propia Ley Orgánica.
 
 ## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
-### CAPÍTULO SEGUNDO. DE LOS OBJETIVOS, DESARROLLO Y OPERACIÓN
+### CAPÍTULO PRIMERO. DE LOS ORGANISMOS AUXILIARES
 
 ###### Artículo 43.
 
@@ -1401,7 +1423,7 @@ En los reglamentos o estatutos orgánicos de los organismos auxiliares, se estab
 
 Los ingresos que se recauden por los diversos conceptos que establece la Ley de Ingresos y los de naturaleza distinta que obtengan los Organismos Auxiliares, se concentrarán forzosamente en la Tesorería General del Estado y deberán reflejarse en la contabilidad gubernamental.
 
-### CAPÍTULO TERCERO. DEL CONTROL, COORDINACIÓN Y EVALUACIÓN
+### CAPÍTULO SEGUNDO. DE LOS OBJETIVOS, DESARROLLO Y OPERACIÓN
 
 ###### Artículo 58.
 
@@ -1499,7 +1521,7 @@ XIII. Suscribir, cuando así lo requiera el régimen laboral del propio organism
 
 XIV. Las demás que le asignen otras leyes, reglamentos, acuerdos y disposiciones administrativas aplicables.
 
-### CAPÍTULO CUARTO. DE LOS ORGANISMOS DESCENTRALIZADOS Y SU REGISTRO
+### CAPÍTULO TERCERO. DEL CONTROL, COORDINACIÓN Y EVALUACIÓN
 
 ###### Artículo 65.
 
@@ -1559,7 +1581,7 @@ La enajenación de títulos representativos del capital social, propiedad del Go
 
 Las comisiones, comités, patronatos y programas, creados por determinación del Gobernador del Estado, cualesquiera que sean sus finalidades, quedarán sujetos en lo que les resulte aplicable, a las disposiciones de esta Ley.
 
-### CAPÍTULO QUINTO. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
+### CAPÍTULO CUARTO. DE LOS ORGANISMOS DESCENTRALIZADOS Y SU REGISTRO
 
 ###### Artículo 75.
 
@@ -1701,7 +1723,7 @@ El titular del Registro Público de los Organismos Descentralizados podrá exped
 
 La cancelación de las inscripciones en el Registro Público de los Organismos Descentralizados procederá en el caso de su extinción y una vez que se haya concluido su liquidación.
 
-### CAPÍTULO SEXTO. DE LOS FIDEICOMISOS PÚBLICOS
+### CAPÍTULO QUINTO. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
 ###### Artículo 87.
 
@@ -1737,7 +1759,7 @@ Respecto al nombramiento, facultades, operación y responsabilidades de los titu
 
 En los casos de escisión, fusión y liquidación de empresas de participación estatal mayoritaria, aquellas se realizarán en los términos previstos en sus estatutos y en la legislación correspondiente, con la intervención de la Secretaría coordinadora de sector, para señalar la forma y términos conforme a los cuales deba hacerse la fusión y la liquidación, que se harán conforme a las normas establecidas por la Secretaría de Hacienda, pero sin que ello implique oposición a los estatutos de dichas empresas y cuidará siempre la protección que debe darse al interés público, a los accionistas o titulares de partes sociales y los derechos, que en materia laboral, corresponden en la empresa a los servidores públicos.
 
-### CAPÍTULO ÚNICO. (REFORMADO, P.O. 22 DE MAYO DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
+### CAPÍTULO SEXTO. DE LOS FIDEICOMISOS PÚBLICOS
 
 ###### Artículo 95.
 
@@ -1783,11 +1805,7 @@ El Gobernador del Estado en los contratos constitutivos de fideicomisos de la Ad
 
 ## TÍTULO QUINTO. DE LA ASISTENCIA SOCIAL
 
-### CAPITULO DECIMO PRIMERO. DEL PATRIMONIO E INVERSIONES DEL INSTITUTO
-
-SECCION 1a.
-
-PATRIMONIO DEL INSTITUTO
+### CAPÍTULO ÚNICO. (REFORMADO, P.O. 22 DE MAYO DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 101.
 
@@ -1915,6 +1933,34 @@ DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 211, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MORELOS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Publíquese el presente decreto en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. El presente decreto iniciará su vigencia el primero de octubre del año 2021.
+
+CUARTA. Dentro del plazo de 60 días hábiles, contados a partir del día siguiente de la entrada en vigor de este decreto, deberá instalarse la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Morelos.
+
+QUINTA. Dentro de un plazo no mayor a 90 días hábiles contados a partir de la instalación de la Junta de Gobierno a que se hace referencia en la disposición que antecede, aquella deberá expedir el Estatuto Orgánico del organismo público descentralizado que se crea.
+
+A partir del inicio de la vigencia del Estatuto Orgánico, se contará con 60 días hábiles para la elaboración de los Manuales de Organización y de Políticas y de Procedimientos respectivos.
+
+SEXTA. Dentro de un plazo de 60 días hábiles, contados a partir de la designación del director general del Centro de Conciliación Laboral del Estado de Morelos, éste deberá solicitar en el registro público de los organismo descentralizados del estado de Morelos, a cargo de la Secretaría de Hacienda del Poder Ejecutivo Estatal, la inscripción del presente instrumento, de conformidad con lo dispuesto en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+SÉPTIMA. De conformidad con lo dispuesto en la fracción XXV del artículo 22 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, y en los artículos 9, fracción XXV, y 15, fracción XXV, del Reglamento Interior de la Secretaría de Gobierno, el director general del Centro de Conciliación Laboral del Estado de Morelos deberá, dentro del plazo de 10 días hábiles siguientes a su designación, registrar ante la Secretaría de Gobierno del Poder Ejecutivo Estatal, conforme a los formatos que expida la Dirección General Jurídica de esta última, su firma autógrafa y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+OCTAVA. El Centro de Conciliación Laboral del Estado de Morelos iniciará formalmente sus actividades en la misma fecha en que lo hagan los juzgados especializados en materia laboral, previa expedición del nombramiento del director general y la instalación de la Junta de Gobierno, debiendo contar en esa fecha con la designación de la Comisaría Pública respectiva.
+
+NOVENA. La supresión que sobre la referencia a la Junta Local de Conciliación y Arbitraje del Estado de Morelos se hace en la Ley Orgánica por virtud del presente decreto, no obsta para que de conformidad con las disposiciones constitucionales y legales en la materia continúe conociendo de los procedimientos individuales, colectivos y registrales que se encuentren en trámite y aquellos que se inicien con posterioridad a la entrada en vigor del Decreto publicado el 1° de mayo de 2019, hasta en tanto entre en funciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro Federal de Conciliación y Registro Laboral, así como el Centro de Conciliación Laboral del Estado de Morelos.
+
+La Junta Local de Conciliación y Arbitraje del Estado de Morelos durante el tiempo en que legalmente desarrolle sus actuaciones seguirá con su adscripción, para efectos administrativos, a la Secretaría de Desarrollo Económico y del Trabajo.
+
+DÉCIMA. El Poder Ejecutivo Estatal deberá realizar los actos jurídicos y administrativos necesarios e idóneos, para dotar de los recursos humanos, materiales y financieros que resulten necesarios para el cumplimiento del objeto del Centro de Conciliación Laboral, conforme a la suficiencia presupuestal correspondiente.
+
+DÉCIMA PRIMERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 146, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
