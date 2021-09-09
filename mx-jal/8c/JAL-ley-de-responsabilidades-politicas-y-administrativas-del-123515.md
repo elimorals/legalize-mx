@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2020-12-05"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -389,7 +389,7 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 #### Sección Segunda. De su Estructura
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ### Capítulo I. Observancia de la Ley General de Responsabilidades Administrativas
 
@@ -593,9 +593,13 @@ XXII. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, indep
 
 1. Los órganos internos de control se regirán conforme a lo establecido en el artículo 106 de la Constitución Política del Estado y tendrán las facultades y obligaciones que les otorga la Ley General de Responsabilidades Administrativas y las demás leyes aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-Para el desempeño de sus funciones, los Órganos Internos de Control gozarán de autonomía técnica y de gestión que les permita cumplir con la finalidad para la cual fueron creados. Los Órganos Internos de Control deberán emitir y aprobar los manuales, lineamientos y estatutos necesarios para el desempeño de sus funciones.
+2. Para el desempeño de sus funciones, los Órganos Internos de Control gozarán de autonomía técnica y de gestión de los recursos que le sean asignados, que les permita cumplir con la finalidad para la cual fueron creados. Los Órganos Internos de Control deberán emitir y aprobar los manuales, lineamientos y estatutos necesarios para el desempeño de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. Los Órganos Internos de Control deberán formar parte de la estructura de los entes públicos y su titular deberá tener preferentemente nivel directivo.
 
 ###### Artículo 52.
 
@@ -629,43 +633,199 @@ XI. Implementar el protocolo de actuación en contrataciones públicas expedido 
 
 XII. Tramitar y en su caso resolver, los recursos derivados de los procedimientos de responsabilidad administrativa, según corresponda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Resolver las faltas administrativas, e imponer y ejecutar las sanciones correspondientes a las conductas que acrediten violencia política contra las mujeres en razón de género de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco; y
+XIII. Resolver las faltas administrativas, e imponer y ejecutar las sanciones correspondientes a las conductas que acrediten violencia política contra las mujeres en razón de género de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XIV. Las demás que le otorguen la legislación general y estatal aplicable.
+XIV. Promover la integración del Comité de Ética y Prevención de Conflicto de Interés de sus respectivos entes, así como dar seguimiento e implementación de su óptima operación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Planear, programar y dirigir los asuntos de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Mantener la coordinación técnica necesaria con las diversas autoridades, con el propósito (sic) dar cumplimiento a sus atribuciones; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Las demás que le otorguen la legislación general y estatal aplicable
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 53.
 
-1. El órgano interno de control se integrará con una estructura que permita que la autoridad encargada de la substanciación y, en su caso, de la resolución del procedimiento de responsabilidad administrativa, sea distinto de aquél o aquellos encargados de la investigación, garantizando la independencia en el ejercicio de sus funciones.
+1. El órgano interno de control se integrará con una estructura que permita que la autoridad encargada de la substanciación y, en su caso, de la resolución del procedimiento de responsabilidad administrativa, sea distinto de aquél o aquellos encargados de la investigación, garantizando la independencia en el ejercicio de sus funciones, para lo cual, contará con un Titular y las siguientes áreas:
+
+I. De Denuncias e Investigación Administrativa, la cual fungirá como Autoridad Investigadora;
+
+II. De Responsabilidades Administrativas, la cual fungirá como Autoridad Sustanciadora y en su caso como Autoridad Resolutora;
+
+III. De Auditoría, Promoción, Evaluación, Fortalecimiento y Control Interno; y
+
+IV. Las demás que se consideren necesarias para el adecuado desempeño del órgano interno de control.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 53 Bis.
 
-1. El Órgano Interno de Control, se conforma preferentemente de la siguiente manera:
+1. El Titular del Órgano Interno de Control tendrá las siguientes facultades:
 
-I. La persona titular del Órgano Interno de Control;
+I. Proponer, emitir y aprobar la normatividad interna que considere necesaria para el correcto desempeño de sus funciones;
 
-II. Área de Auditoría;
+II. Delegar las funciones que considere necesarias al personal a su cargo para de conformidad con la presente Ley, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables en la materia;
 
-III. Área de Investigación;
+III. Expedir las copias certificadas de los archivos que obren en el Órgano Interno de Control, de conformidad con la normatividad aplicable en materia de protección de datos personales;
 
-IV. Área de Substanciación;
+IV. Ordenar la práctica de las diligencias, notificaciones y emplazamientos que sean necesarios para el desempeño de sus funciones, de conformidad con las leyes aplicables;
 
-V. Área de Responsabilidades; y
+V. Requerir a las autoridades y particulares en su ámbito de competencia, la información necesaria para cumplir con sus facultades y atribuciones;
 
-VI. Las demás áreas necesarias para el cumplimiento de sus funciones.
+VI. Publicar en el periódico oficial "El Estado de Jalisco" o en la gaceta correspondiente, la información que la normatividad señale;
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+VII. Solicitar, ante la autoridad competente, la designación de abogados de oficio cuando así se requiera;
+
+VIII. Fungir, en su caso, como autoridad Investigadora, Sustanciadora o Resolutora;
+
+IX. Formular, emitir y ejecutar el Programa de Trabajo e integrar y presentar el informe anual respectivo;
+
+X. Realizar la defensa jurídica de las resoluciones que emita ante las diversas instancias; y
+
+XI. Las demás que le confiera la normatividad aplicable en la materia.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 53 Ter.
 
-Para el estudio y despacho de los asuntos de su competencia, el Órgano Interno de Control, se auxiliará del personal adscrito al área para el cumplimiento de las funciones a su cargo, atendiendo a su disponibilidad presupuestal aprobada.
+1. La Autoridad Investigadora contará con las siguientes facultades:
 
-Las instituciones deberán de hacer la previsión presupuestal necesaria para el debido cumplimiento de las funciones de los Órganos Internos de Control.
+I. Recibir las denuncias que le formulen por el incumplimiento de las obligaciones de los servidores públicos, llevando a cabo las investigaciones conforme a lo establecido en la Ley General de Responsabilidades Administrativas;
+
+II. Calificar las faltas y emitir el informe de presunta responsabilidad administrativa;
+
+III. Emitir el acuerdo de conclusión y archivo correspondiente;
+
+IV. Realizar el seguimiento del procedimiento disciplinario hasta su conclusión;
+
+V. Comparecer en los juicios y procedimientos en los que sea parte;
+
+VI. Proponer al Área de Auditoría y de Control Preventivo, la implementación y seguimiento de mecanismos e instancias de participación ciudadana para el cumplimiento de estándares de servicio, derivado del resultado de las investigaciones a su cargo;
+
+VII. Emitir recomendaciones y medidas preventivas derivado de los procedimientos de investigación que realice;
+
+VIII. Formular requerimientos a las personas físicas o morales, públicas o privadas, a fin de allegarse de los elementos necesarios para la investigación e imponer las medidas de apremio correspondientes;
+
+IX. Llevar los registros de los asuntos de su competencia;
+
+X. Iniciar las investigaciones de oficio respecto a la inobservancia de las disposiciones normativas aplicables a los servidores públicos, de conformidad a lo establecido en la Ley General de Responsabilidades Administrativas y en la presente Ley;
+
+XI. Requerir a las autoridades y particulares la información necesaria para cumplir con sus facultades y atribuciones;
+
+XII. Practicar las diligencias, notificaciones y emplazamientos que sean necesarios para el desempeño de sus funciones, de conformidad con las leyes aplicables;
+
+XIII. Expedir las copias certificadas de los documentos que obren en el área de su competencia;
+
+XIV. Realizar la defensa jurídica de las resoluciones que emita ante las diversas instancias; y
+
+XV. Las demás que le confiera la normatividad aplicable en la materia, así como las que le encomiende el Titular del Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 53 Quáter.
+
+1. La Autoridad Sustanciadora contará con las siguientes facultades:
+
+I. Sustanciar el procedimiento de responsabilidad administrativa por faltas graves y no graves, así como del recurso de reclamación;
+
+II. Practicar las diligencias que sean necesarias para el desempeño de sus funciones, de conformidad con las leyes aplicables;
+
+III. Requerir a las autoridades y particulares la información necesaria para cumplir con sus facultades y atribuciones;
+
+IV. Expedir las copias certificadas de los documentos que obren en el área de su competencia; y
+
+V. Las demás que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 53 Quinquies.
+
+1. La Autoridad Resolutora contará con las siguientes facultades:
+
+I. Emitir las resoluciones que correspondan dentro de los procedimientos instaurados a servidores públicos de conformidad con las leyes aplicables en la materia;
+
+II. Practicar las diligencias, notificaciones y emplazamientos que sean necesarios para el desempeño de sus funciones, de conformidad con las leyes aplicables;
+
+III. Requerir a las autoridades y particulares la información necesaria para cumplir con sus facultades y atribuciones;
+
+IV. Expedir las copias certificadas de los documentos que obren en el área de su competencia;
+
+V. Realizar la defensa jurídica de las resoluciones que emita ante las diversas instancias; y
+
+VI. Las demás que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 53 Sexies.
+
+1. Corresponde al Titular del Área de Promoción, Evaluación, Fortalecimiento y Control Interno las siguientes atribuciones:
+
+I. Ordenar y realizar las auditorías, visitas de inspección y verificaciones que le instruya el Titular del Órgano Interno de Control o Titular del Área de Quejas y Denuncias, así como las que se encuentren contenidas en el plan de trabajo;
+
+II. Suscribir el informe correspondiente que derive de las auditorías y visitas de inspección realizadas y comunicar el resultado de estas al Titular del Órgano Interno de Control, al Titular del ente y a los Titulares de las áreas auditadas;
+
+III. Ordenar y realizar las auditorías, revisiones y visitas de inspección que se requieran para determinar si las diversas áreas del ente cumplen con la normatividad, programas y metas establecidos e informar los resultados al Titular del Órgano Interno de Control, al Titular del ente y a los Titulares de las áreas auditadas y evaluar la eficiencia y eficacia en el cumplimiento de sus objetivos, además de proponer las recomendaciones y medidas preventivas y correctivas que apoyen el logro de sus fines, aprovechar mejor los recursos que tiene asignados, y que el otorgamiento de sus servicios sea oportuno, confiable y completo;
+
+IV. Vigilar la aplicación oportuna de las medidas correctivas y recomendaciones derivadas de las auditorías o revisiones practicadas, por sí o por las diferentes instancias externas de fiscalización;
+
+V. Requerir a las autoridades y particulares la información necesaria para el cumplimiento de sus atribuciones;
+
+VI. Llevar los registros de los asuntos de su competencia;
+
+VII. Proponer al titular del Órgano Interno de Control, el Plan de Trabajo;
+
+VIII. Verificar el cumplimiento de las normas de control que emita el órgano rector del Sistema Nacional y Estatal de Fiscalización, así como elaborar los proyectos de normas complementarias que se requieran en materia de control;
+
+IX. Evaluar la suficiencia y efectividad de la estructura de control interno establecido, de conformidad al Plan de trabajo, así como informar de los resultados obtenidos una vez concluida dicha evaluación;
+
+X. Brindar asesoría sobre el cumplimiento del marco legal y reglamentario que le realicen las diferentes áreas del ente público;
+
+XI. Requerir a las unidades administrativas de la institución en la que sean designados, la información que se requiera para constatar el cumplimiento de sus obligaciones cuando no sea necesario llevar a cabo una auditoría o revisión;
+
+XII. Practicar las diligencias, notificaciones y emplazamientos que sean necesarios para el desempeño de sus funciones, de conformidad con las leyes aplicables;
+
+XIII. Expedir las copias certificadas de los documentos que obren en el área de su competencia;
+
+XIV. Realizar la defensa jurídica de las resoluciones que emita ante las diversas instancias;
+
+XV. Promover y asegurar el desarrollo administrativo, la modernización y la mejora de la gestión pública del ente, mediante la implementación de acciones, programas y proyectos en esta materia;
+
+XVI. Participar en el proceso de planeación que desarrolle el ente, para el establecimiento y ejecución de compromisos y acciones de mejora de la gestión o para el desarrollo administrativo integral, conforme a las estrategias que establezca el órgano rector del Sistema Nacional de Fiscalización;
+
+XVII. Brindar asesoría al Comité de Ética y Prevención de Conflictos de Interés del Ente Público;
+
+XVIII. Promover en el ámbito del ente, el establecimiento de pronunciamiento de carácter ético, así como programas orientados a la transparencia y el combate a la corrupción e impunidad;
+
+XIX. Proponer al Titular del Órgano Interno de Control, las investigaciones que en materia de evaluación y de control se deban integrar al Plan de Trabajo;
+
+XX. Llevar los registros de los asuntos de su competencia;
+
+XXI. Establecer acciones preventivas y de transformación institucional a partir de los resultados de las distintas evaluaciones a los modelos programas y demás estrategias establecidas en esta materia en el ente;
+
+XXII. Requerir a las autoridades y particulares la información necesaria para cumplir con sus facultades y atribuciones;
+
+XXIII. Practicar las diligencias, notificaciones y emplazamientos que sean necesarios para el desempeño de sus funciones, de conformidad con las leyes aplicables; y
+
+XXIV. Las demás que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 53 Septies.
+
+1. Los Órganos Internos de Control deberán generar un Plan de Trabajo y un informe anual, el cual se presentará ante el superior jerárquico del ente público, de manera escrita o en los medios electrónicos con que se cuente.
+
+En el caso de los entes constitucionalmente autónomos, se presentará ante el Congreso del Estado.
 
 ### Capítulo IV (SIC). Facilidades para presentar las declaraciones fiscal, patrimonial y de intereses
 
@@ -673,9 +833,11 @@ Las instituciones deberán de hacer la previsión presupuestal necesaria para el
 
 1. Los órganos internos de control conocerán de los procedimientos de responsabilidad administrativa por faltas administrativas no graves y resolverán los recursos de revocación en los términos de la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 55.
 
-1. Los procedimientos de responsabilidad administrativa que resuelve el Tribunal de Justicia Administrativa se seguirán y resolverán conforme lo establecido en su Ley Orgánica y a la Ley General de Responsabilidades Administrativas.
+1. Los procedimientos de responsabilidad administrativa que resuelve el Tribunal de Justicia Administrativa se seguirán y resolverán conforme lo establecido en la presente ley, su Ley Orgánica y a la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 56.
 
@@ -866,3 +1028,13 @@ P.O. 5 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28110/LXII/20 QUE REFORMA EL ARTÍCULO 5 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
