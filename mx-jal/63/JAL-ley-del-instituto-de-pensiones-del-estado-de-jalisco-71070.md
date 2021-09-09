@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2021-07-29"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -353,9 +353,11 @@ La incorporación realizada por la entidad patronal, con la aprobación del Cons
 
 Al afiliado que se separe definitivamente del servicio, sin tener derecho a pensión, se le devolverán, previa solicitud, el total de las aportaciones efectuadas por éste, sin que se incluyan las patronales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-Quedan excluidos de la aplicación de la presente ley, las personas que presten sus servicios mediante contratos por tiempo y obra determinada, y aquellos que lo hagan a través de contratos sujetos a la legislación común.
+Quedan excluidos de la aplicación de la presente ley, las personas que presten sus servicios mediante contratos sujetos a la legislación común.
 
 Tampoco podrán ser sujetos de incorporación las personas que presten sus servicios con el carácter de honoríficos, meritorios, voluntarios, prestadores de servicio social o cualesquiera otros análogos.
 
@@ -414,6 +416,10 @@ Año % Regular Vivienda Adicional Total
 2017 11.5% 11.5% 3.0% 6.0% 32.0%
 
 De la cuota patronal se separará contablemente el 3% para fondo de vivienda, con la finalidad de otorgar créditos de tal naturaleza. El fondo de vivienda no constituye cuenta individual y, por ende, no es susceptible de abono a préstamos del trabajador, de incorporación a su fondo de pensiones, ni de devolución alguna. El 3% mencionado forma parte del fondo general, solidario del Instituto.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+La base de cotización para el pago de las aportaciones de todas las plazas para cualquier afiliado, no deber ser mayor a 39 veces el valor de la unidad de medida y actualización elevado al mes.
 
 ###### Artículo 40.
 
@@ -651,7 +657,9 @@ Para calcular el monto de las cantidades que correspondan por pensión se estar�
 
 I. Se tomará en cuenta el promedio del sueldo tabular disfrutado en los últimos tres años de servicio inmediato anterior a la fecha de la baja del trabajador; y
 
-II. La pensión máxima total que se pague a una persona, independientemente de las plazas desempeñadas y del monto de los últimos salarios sobre los que se hayan cotizado, no podrá ser superior a treinta y cinco veces el salario mínimo general mensual vigente en la Zona Metropolitana de Guadalajara.
+REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)
+
+II. La pensión máxima total que se pague a una persona, independientemente de las plazas desempeñadas y del monto de los últimos salarios sobre los que se hayan cotizado, no podrá ser superior a treinta y nueves (sic) veces el valor de la unidad de medida y actualización elevado al mes.
 
 ###### Artículo 71.
 
@@ -1559,7 +1567,13 @@ XVII. Autorizar al Presidente y al Director General para que suscriban los contr
 
 XVIII. Ordenar se efectúen los requerimientos y reclamaciones a las entidades públicas patronales, cuando se detecten omisiones, errores, defectos o cualquier irregularidad en el cumplimiento de las obligaciones que les impone esta Ley; y
 
-XIX. Las demás que le confieran las leyes y sus reglamentos, así como las que resulten inherentes a sus atribuciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Modificar y reducir por causa de utilidad pública el monto de las pensiones, para adecuarlas a los términos y condiciones establecidos en los artículos 39 y 70 fracción II del presente ordenamiento, siempre y cuando exista estudio actuarial que lo justifique y la medida no vulnere el derecho a una pensión digna; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Las demás que le confieran las leyes y sus reglamentos, así como las que resulten inherentes a sus atribuciones.
 
 ###### Artículo 154.
 
@@ -1799,7 +1813,11 @@ b) Los que hubieren cotizado con anterioridad al inicio de vigencia de esta Ley 
 
 Las nuevas prestaciones que se contemplan en la presente Ley, sólo se otorgarán a partir de la vigencia de ésta a los afiliados y pensionados.
 
-Todas las pensiones y prestaciones que se hayan otorgado bajo la vigencia del régimen de la Ley que se abroga seguirán rigiéndose por el mismo, bajo las mismas condiciones por él establecidas.
+(NOTA: EL 23 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 150/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DEL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 22862/LVIII/09, MODIFICADO POR EL DECRETO NÚMERO 28439/LXII/21 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+TODAS LAS PENSIONES Y PRESTACIONES INHERENTES A ELLAS QUE SE HAYAN OTORGADO BAJO LA VIGENCIA DEL RÉGIMEN DE LA LEY QUE SE ABROGA PASARÁN A REGIRSE POR LA LEGISLACIÓN VIGENTE, BAJO LAS CONDICIONES ESTABLECIDAS EN EL PRESENTE ORDENAMIENTO. LO ANTERIOR EXCLUSIVAMENTE PARA LOS EFECTOS DE NIVELAR EL MONTO CONFORME AL TOPE ESTABLECIDO EN EL PRESENTE DECRETO.
 
 En el caso de todo tipo de préstamos, los afiliados actuales y futuros gozarán de los mismos beneficios para su otorgamiento; y deberán cumplir con los mismos requisitos.
 
@@ -1900,3 +1918,31 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28439/LXII/21 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE PENSIONES Y DE LA LEY PARA LOS SERVIDORES PÚBLICOS, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. El Instituto de Pensiones del Estado tiene un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, para presentar al titular del Poder Ejecutivo del Estado de Jalisco, los proyectos de reforma a las disposiciones reglamentarias del Instituto de Pensiones del Estado de Jalisco para adecuarlas al presente Decreto.
+
+(NOTA: EL 23 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 150/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO CUARTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Cuarto. SERÁN MATERIA (SIC) MODIFICACIÓN Y REDUCCIÓN POR CAUSA DE UTILIDAD PÚBLICA, LAS PENSIONES QUE A LA ENTRADA EN VIGOR QUE SEÑALA EL PRESENTE DECRETO SE ENCUENTREN VIGENTES, ASÍ COMO LAS FUTURAS QUE EN TÉRMINOS DEL PRESENTE ORDENAMIENTO SE OTORGUEN BAJO LAS CONDICIONES QUE EL PRESENTE DECRETO ESTABLECE.
+
+(NOTA: EL 23 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 150/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO QUINTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Quinto. LAS PENSIONES QUE EXCEDAN EL MONTO ESTABLECIDO EN EL ARTÍCULO 70 FRACCIÓN II DE LA PRESENTE LEY, DEBERÁN MODIFICARSE DE MANERA OFICIOSA PARA ADECUARSE AL LÍMITE MÁXIMO ESTIPULADO. UNA VEZ REALIZADA LA MODIFICACIÓN, DEBERÁ REESTRUCTURARSE TODO CRÉDITO, PRÉSTAMO Y DEMÁS OBLIGACIONES QUE LOS PENSIONADOS TUVIERAN CON EL INSTITUTO EN CASO DE QUE EXCEDAN EL PORCENTAJE MÁXIMO DE DESCUENTO.
+
+(NOTA: EL 23 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 150/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Sexto. EL CONSEJO DIRECTIVO DEL INSTITUTO DE PENSIONES DEL ESTADO TIENE UN PLAZO DE NOVENTA DÍAS HÁBILES PARA MODIFICAR Y ADECUAR LAS PENSIONES VIGENTES AL LÍMITE DE CUANTÍA ESTABLECIDO EN EL ARTÍCULO 70 FRACCIÓN II DE LA PRESENTE LEGISLACIÓN.
+
+Séptimo. La regularidad de las pensiones se mantendrá por lo que corresponde a su otorgamiento mensual, así como a los servicios médicos y prestaciones a ellas inherentes.
+
+Octavo. Las entidades públicas que incorporen a sus servidores públicos en razón de las modificaciones a los artículos 33 de la Ley del Instituto de Pensiones y 64 de la Ley para los Servidores Públicos, ambos ordenamientos del Estado de Jalisco, que se expiden en el presente decreto, deberán suscribir los convenios correspondientes con la Secretaría de la Hacienda Pública y el Instituto de Pensiones, a más tardar el 1 de enero de 2022.
+
+Noveno. Las entidades públicas dispondrán de un plazo de sesenta días naturales contados a partir de la entrada en vigor del presente decreto, para dar cumplimiento al presente decreto en términos de la reforma que se aprueba al artículo 33 de la Ley del Instituto de Pensiones del Estado de Jalisco, quedando sujeta la afiliación correspondiente a la aprobación de dicho Instituto con base en los requisitos que establece la presente Ley. Dicha afiliación no tendrá efectos retroactivos.
