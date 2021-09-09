@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-55874"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2018-03-20"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo Número 67 del Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2007.
 
@@ -81,7 +81,9 @@ V. Fomentar y consolidar las áreas forestales permanentes, mediante su delimita
 
 VI. Contribuir en la adopción y difusión de las medidas de prevención, combate y control de incendios forestales, plagas y enfermedades forestales;
 
-VII. Promover acciones de conservación y restauración de suelos forestales;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Promover acciones de compensación ambiental, conservación y restauración en suelos forestales;
 
 VIII. Impulsar la cultura, educación, investigación, capacitación y desarrollo tecnológico para el manejo sustentable de los recursos forestales;
 
@@ -393,11 +395,17 @@ VI. Ejercer las facultades de vigilancia y de coadyuvancia previstas en este ord
 
 VII. Celebrar, en el ámbito de su competencia, acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
-VIII. Ejercer en el ámbito de su competencia las facultades de regulación, autorización, inspección y vigilancia sobre las obras y actividades relacionadas con el sector forestal; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Ejercer en el ámbito de su competencia las facultades de regulación, autorización, inspección y vigilancia sobre las obras y actividades relacionadas con el sector forestal;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Procurar la rehabilitación de ecosistemas forestales deteriorados por cambios de uso de suelo; y
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-IX. La atención de los demás asuntos que en materia de su competencia le confieran esta ley, el Código para el Desarrollo Sustentable del Estado de Tamaulipas u otros ordenamientos.
+X. La atención de los demás asuntos que en materia de su competencia le confieran esta ley, el Código para el Desarrollo Sustentable del Estado de Tamaulipas u otros ordenamientos.
 
 ### CAPÍTULO IV. De las Atribuciones de los Municipios
 
@@ -1630,6 +1638,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 20 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-637 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, FRACCIÓN VII, ARTÍCULO 13, FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN IX, RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL PARA PASAR A SER LA FRACCIÓN X, AL PÁRRAFO TERCERO DEL ARTÍCULO 13 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
