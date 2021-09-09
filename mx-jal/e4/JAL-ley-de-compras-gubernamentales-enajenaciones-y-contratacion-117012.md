@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2021-04-03"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -59,15 +59,29 @@ IV. La contratación de servicios; y
 
 V. El manejo de almacenes.
 
-2. La Administración Centralizada y Paraestatal del Poder Ejecutivo, los órganos de los Poderes Legislativo y Judicial del Estado de Jalisco, de los organismos constitucionales autónomos y la Administración Pública Municipal Centralizada y Paramunicipal deberán emitir las bases generales y demás disposiciones secundarias derivadas de esta Ley en el ámbito de competencia que a cada uno le corresponda, observando lo establecido por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción y la normatividad secundaria que de esta emane, la Ley del Presupuesto Contabilidad y Gasto Publico, la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios y la presente Ley.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+2. La Administración Centralizada y Paraestatal del Poder Ejecutivo, los órganos de los Poderes Legislativo y Judicial del Estado de Jalisco, de los organismos constitucionales autónomos y la Administración Pública Municipal Centralizada y Paramunicipal deberán emitir las bases generales y demás disposiciones secundarias derivadas de esta Ley en el ámbito de competencia que a cada uno le corresponda, observando lo establecido por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción y la normatividad secundaria que de esta emane, la Ley del Presupuesto Contabilidad y Gasto Público del Estado de Jalisco, la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios y la presente Ley.
 
 3. La programación y presupuestación de las adquisiciones y contratación de servicios se deberán sujetar a los criterios de responsabilidad hacendaria y financiera que coadyuven al manejo sostenible de las finanzas públicas, establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-4. La adquisición de bienes y contratación de servicios que realicen los entes públicos del Poder Ejecutivo, así como los Poderes Legislativo y Judicial y los organismos constitucionales autónomos, se deberán realizar con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+4. La adquisición de bienes y contratación de servicios que realicen los entes públicos, del Poder Ejecutivo, así como los Poderes Legislativo y Judicial y los organismos constitucionales autónomos, se deberán realizar con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, buenas prácticas, gobierno abierto y máxima exposición pública.
 
 5. Cuando en las operaciones objeto de esta ley se afecten fondos económicos previstos en los convenios que se celebren con la Administración Pública Federal, se acatará lo dispuesto por la Legislación Federal o Estatal, según el caso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+6. La interpretación y aplicación de la presente Ley, privilegiará los principios constitucionales relativos a la transparencia y máxima publicidad de la información generada por los procesos realizados por los entes públicos, así como la protección de datos personales que contempla la ley en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+7. Los entes públicos deberán adoptar instrumentos de contrataciones abiertas favoreciendo la generación en datos abiertos, así como, mecanismos de involucramiento social, adicionales a los establecidos en la presente legislación.
+
 ###### Artículo 2.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 1. Para los fines de esta ley se entiende por:
 
@@ -91,81 +105,101 @@ IV. Comité Técnico: Ente encargado de conducir y coordinar el funcionamiento d
 
 V. Contraloría: La Contraloría del Estado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Convocante: El ente público que a través de su unidad centralizada de compras lleva a cabo los procedimientos de contratación a efecto de adquirir o arrendar bienes o contratar la prestación de servicios que solicite la unidad requirente;
+VI. Contrataciones abiertas: La divulgación y uso de información abierta, accesible y oportuna sobre las contrataciones del gobierno, para lograr que los ciudadanos y las empresas puedan participar, con el fin de identificar problemas y solucionarlos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Entes públicos: el Poder Ejecutivo del Estado de Jalisco, sus Dependencias Centralizadas y Paraestatales; el Poder Judicial del Estado de Jalisco; el Poder Legislativo del Estado de Jalisco; la Administración Pública Municipal Centralizada y Paramunicipal; y los Organismos Constitucionalmente Autónomos;
+VII. Convocante: El ente público que a través de su unidad centralizada de compras lleva a cabo los procedimientos de contratación a efecto de adquirir o arrendar bienes o contratar la prestación de servicios que solicite la unidad requirente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Empresa en consolidación: Aquella que acredite, para su registro como proveedor, contar con una antigüedad no menor a un año, ni mayor a cinco años respecto de su constitución, y/o ser presididas por una persona física no mayor de 35 años de edad;
+VIII. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Enajenación: La transmisión a otra persona física o jurídica de la propiedad, bien o derecho que se tiene sobre los bienes muebles e inmuebles de los entes públicos;
+IX. Entes públicos: el Poder Ejecutivo del Estado de Jalisco, sus Dependencias Centralizadas y Paraestatales; el Poder Judicial del Estado de Jalisco; el Poder Legislativo del Estado de Jalisco; la Administración Pública Municipal Centralizada y Paramunicipal en los términos de la Ley del Gobierno y la Administración Pública Municipal; y los Organismos Constitucionalmente Autónomos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-X. Fianza o póliza: Cantidad de dinero u objeto de valor que se da para asegurar el cumplimiento de suministros, la seriedad de la oferta y la correcta aplicación de los anticipos u otra obligación, misma que será expedida por una institución autorizada en el Estado;
+X. Empresa en consolidación: Aquella que acredite, para su registro como proveedor, contar con una antigüedad no menor a un año, ni mayor a cinco años respecto de su constitución, y/o ser presididas por una persona física no mayor de 35 años de edad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XI. Fondo: Fondo Impulso Jalisco FIMJA;
+XI. Empresa Pro Integridad: Aquella que adopte políticas de integridad empresarial y esté debidamente registrada, ante las autoridades correspondientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Garantía: Compromiso del proveedor para hacerse responsable para el cumplimiento de las obligaciones de tiempo, modo y lugar, así como por los defectos, vicios ocultos o falta de calidad, averías, mediante un escrito, de reparar o restituir de forma gratuita los defectos encontrados en el lapso de un tiempo determinado que no podrá ser menor a un año o más dependiendo lo estipulado en el contrato;
+XII. Enajenación: La transmisión a otra persona física o jurídica de la propiedad, bien o derecho que se tiene sobre los bienes muebles e inmuebles de los entes públicos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Investigación de Mercado: Técnica usada para identificar las características del mercado de bienes y servicios específicos a fin de proveer al área requirente de información útil, para planear la adquisición y arrendamiento de bienes o la prestación de servicios;
+XIII. Fianza o póliza: Cantidad de dinero u objeto de valor que se da para asegurar el cumplimiento de suministros, la seriedad de la oferta y la correcta aplicación de los anticipos u otra obligación, misma que será expedida por una institución autorizada en el Estado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XIV. Insaculación: Es el procedimiento mediante el cual se somete al azar el resultado de los medios causales o fortuitos empleados para fiar a la suerte una resolución;
+XIV. Fondo: Fondo Impulso Jalisco FIMJA;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XV. Ley: la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
+XV. Garantía: Compromiso del proveedor para hacerse responsable para el cumplimiento de las obligaciones de tiempo, modo y lugar, así como por los defectos, vicios ocultos o falta de calidad, averías, mediante un escrito, de reparar o restituir de forma gratuita los defectos encontrados en el lapso de un tiempo determinado que no podrá ser menor a un año o más dependiendo lo estipulado en el contrato;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. Licitante: La persona física o jurídica que participa en cualquier procedimiento de licitación pública;
+XVI. Investigación de Mercado: Técnica usada para identificar las características del mercado de bienes y servicios específicos a fin de proveer al área requirente de información útil, para planear la adquisición y arrendamiento de bienes o la prestación de servicios;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XVII. Órganos de Control: la Contraloría del Estado y los órganos internos de control de los entes públicos;
+XVII. Insaculación: Es el procedimiento mediante el cual se somete al azar el resultado de los medios causales o fortuitos empleados para fiar a la suerte una resolución;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII. Proveedor: Toda persona física o jurídica que suministre mercancías, materias primas y demás bienes muebles, proporcione inmuebles en arrendamiento o preste servicios a los sujetos obligados de esta ley;
+XVIII. Ley: la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XIX. Ofertas subsecuentes de descuento: Modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus proposiciones tienen la posibilidad de que con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
+XIX. Licitante: La persona física o jurídica que participa en cualquier procedimiento de licitación pública;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XX. RUPC: Registro Estatal Único de Proveedores y Contratistas;
+XX. Órganos de Control: la Contraloría del Estado y los órganos internos de control de los entes públicos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XXI. Secretaría: La Secretaría de Administración;
+XXI. Política de Integridad Empresarial: Conjunto de elementos de autoregulación (sic) y controles internos contemplados en la Ley General de Responsabilidades Administrativas que permitan mitigar y reducir los riesgos de corrupción, así como garantizar una cultura de integridad al interior de las empresas y organizaciones;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XXII. Sistema Electrónico de Compras Gubernamentales (SECG): Sistema informático de consulta gratuita, integrado por información relevante para los procesos de compras públicas, bajo los principios de transparencia, participación y colaboración ciudadana, máxima publicidad y accesibilidad de uso. Dicho sistema constituye el medio por el cual se desarrollarán procedimientos de contratación;
+XXII. Proveedor: Toda persona física o jurídica que suministre mercancías, materias primas y demás bienes muebles, proporcione inmuebles en arrendamiento o preste servicios a los sujetos obligados de esta ley;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XXIII. Testigo Social: La persona física o jurídica que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley; y
+XXIII. Ofertas subsecuentes de descuento: Modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus proposiciones tienen la posibilidad de que con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XXIV. Unidad centralizada de compras: La unidad administrativa responsable de las adquisiciones o arrendamiento de bienes y la contratación de los servicios de los entes públicos.
+XXIV. Registro Pro Integridad: Es el Registro de Empresas Pro Integridad del Estado de Jalisco a cargo de la Contraloría del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXV. RUPC: Registro Estatal Único de Proveedores y Contratistas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI. Secretaría: La Secretaría de Administración;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Sistema Electrónico de Compras Gubernamentales (SECG): Sistema informático de consulta gratuita, integrado por información relevante para los procesos de compras públicas, bajo los principios de transparencia, participación y colaboración ciudadana, máxima publicidad y accesibilidad de uso. Dicho sistema constituye el medio por el cual se desarrollarán procedimientos de contratación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII. Testigo Social: La persona física o jurídica que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXIX. Unidad centralizada de compras: La unidad administrativa responsable de las adquisiciones o arrendamiento de bienes y la contratación de los servicios de los entes públicos.
 
 ###### Artículo 3.
 
@@ -211,7 +245,9 @@ V. La Contraloria y los Órganos Internos de Control de los entes públicos; y
 
 VI. Los Testigos Sociales.
 
-2. Los datos que integran el SECG, son de consulta pública para cualquier interesado, observando en todo momento las reservas de ley cuando así lo establezcan las disposiciones de protección de información, o cuando se trate de información que se considere como reservada o confidencial.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+2. Los datos que integran el SECG, son de consulta pública para cualquier interesado, observando en todo momento las reservas de ley cuando así lo establezcan las disposiciones de protección de información, o cuando se trate de información que se considere como reservada o confidencial. A dicho sistema tendrán acceso y estará sujeto a supervisión y auditoría por parte de los Órganos Internos de Control, cuando se autorice una investigación, se instaure un procedimiento de responsabilidad, se autoricen auditorías generales o especiales, debidamente fundadas y motivadas.
 
 ### CAPÍTULO II. SISTEMA ELECTRÓNICO DE COMPRAS GUBERNAMENTALES Y CONTRATACIÓN DE OBRA PÚBLICA
 
@@ -223,11 +259,29 @@ VI. Los Testigos Sociales.
 
 1. El SECG tendrá los siguientes fines:
 
-I. Contribuir a la generación de una política integral de la Administración Pública Estatal en materia de contrataciones;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-II. Propiciar la transparencia y seguimiento de las adquisiciones, arrendamientos y servicios del sector público, asi como las contrataciones de obras públicas y servicios relacionados con las mismas, y generar la información necesaria que permita la adecuada planeación, programación y presupuestación de la contrataciones públicas, así como su evaluación integral; y
+I. Contribuir a la generación de una política integral de la Administración Pública en materia de contrataciones;
 
-III. Proveer insumos para el seguimiento y evaluación del funcionamiento de esta Ley y de los servidores públicos que operan los recursos públicos y su gasto.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+II. Propiciar la transparencia y seguimiento de las adquisiciones, arrendamientos y servicios del sector público, así como las contrataciones de obras públicas y servicios relacionados con las mismas, y generar la información necesaria que permita la adecuada planeación, programación y presupuestación de las contrataciones públicas, así como su evaluación integral;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III. Proveer insumos para el seguimiento y evaluación del funcionamiento de esta Ley y de los servidores públicos que operan los recursos públicos y su gasto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Permitir la participación electrónica en los procesos de contratación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. Promover las mejores prácticas en materia de contrataciones abiertas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Promover el uso de nuevas tecnologías que permitan mejorar la equidad, transparencia, participación, cumplimiento y eficiencia de las contrataciones.
 
 ###### Artículo 7.
 
@@ -265,7 +319,9 @@ III. El Registro Estatal Único de Proveedores y Contratistas;
 
 IV. El Padrón de Testigos Sociales y los reportes que los testigos emitan;
 
-V. La información relativa a los procedimientos de contratación con todas sus etapas, las convocatorias y bases y en su caso modificaciones; las juntas de aclaraciones y los fallos de adjudicación; los datos de los contratos y de los convenios modificatorios; las adjudicaciones directas; los nombres de los participantes en los procesos de asignación de contratos; número de contrato, estatus de cumplimiento, y en su caso si se impusieron penalizaciones o deducciones, así como si se realizaron ampliaciones de contrato y la justificación de dicha decisión; los informes de avance físico y financiero; y los finiquitos de contratos. Todo ello con excepción de aquellos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad pública en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV (SIC). La información relativa a los procedimientos de contratación con todas sus etapas, la solicitud de adquisición, la investigación de mercado, las convocatorias y bases y en su caso modificaciones; las juntas de aclaraciones, las actas de presentación, apertura de propuestas y los fallos de adjudicación; los datos de los contratos y de los convenios modificatorios; las adjudicaciones directas; los nombres de los participantes en los procesos de asignación de contratos; número de contrato, estatus de cumplimiento, y en su caso si se impusieron penalizaciones o deducciones, así como si se realizaron ampliaciones de contrato y la justificación de dicha decisión; los informes de avance físico y financiero; y los finiquitos de contratos. Todo ello con excepción de aquellos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad pública en los términos de las disposiciones legales aplicables;
 
 VI. Las notificaciones y avisos relativos a los procedimientos de contratación y de la instancia de inconformidades;
 
@@ -285,9 +341,15 @@ XII. El Registro de Investigaciones de Mercado.
 
 3. La administración técnica del SECG estará a cargo de la Secretaría, la cual deberá emitir los lineamientos que habrán de observar los entes públicos para su uso y actualización de información.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+4. Los Órganos Internos de Control de los Entes Públicos contarán con acceso al SECG para el seguimiento y vigilancia de sus respectivos procesos, cuando se autorice una investigación, se instaure un procedimiento de responsabilidad, se autoricen auditorías generales o especiales, debidamente fundadas y motivadas.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-1. La inalterabilidad y conservación de la información contenida o remitida a través del SECG, estará garantizada por el uso de protocolos de seguridad alineados a los estándares internacionales, no obstante, los usuarios de dicho sistema deberán observar las medidas de seguridad que garanticen que los documentos electrónicos que incorporen al mismo se encuentren libres de virus informáticos.
+1. La inalterabilidad y conservación de la información contenida o remitida a través del SECG, estará garantizada por el uso de protocolos de seguridad alineados a los estándares internacionales, utilizando preferentemente tecnología basada en cadenas de bloques o su equivalente en certeza y seguridad; no obstante, los usuarios de dicho sistema deberán observar las medidas de seguridad que garanticen que los documentos electrónicos que incorporen al mismo se encuentren libres de todo tipo de amenazas informáticas o software hostil.
 
 ###### Artículo 10.
 
@@ -321,17 +383,35 @@ XII. El Registro de Investigaciones de Mercado.
 
 ###### Artículo 13.
 
-1. La investigación de mercado deberá proporcionar al menos la siguiente información:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-I. La verificación de la existencia de los bienes, arrendamientos o servicios y de los proveedores a nivel local, nacional o internacional;
+1. La investigación de mercado deberá contener al menos la siguiente información:
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+I. La verificación de la existencia de oferta de los bienes, arrendamientos o servicios en la calidad, cantidad y oportunidad requeridas por el Ente Público, y de los proveedores a nivel local, nacional o internacional;
 
 II. La identificación de bienes y servicios sustituibles;
 
-III. La identificación de procesos alternativos, tales como la renta u otros: y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. El precio máximo de referencia basado en la información que se obtenga en el propio ente público, o en su caso, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio, o una combinación de dichas fuentes. La investigación de mercado puede basarse en información local, nacional y/o internacional. Deberán considerarse al menos tres cotizaciones.
+III. La identificación de procesos alternativos, tales como la renta u otros;
 
-2. La investigación de mercado deberá llevarse a cabo por el área requirente, con tiempo suficiente para que las convocantes analicen la información pertinente.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. El precio máximo, el precio mínimo y la media de precios de los bienes, arrendamientos o servicios requeridos, basados en la información que se obtenga en el momento de llevar a cabo la investigación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. La metodología y las fuentes de información utilizadas; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Fecha de elaboración, así como el nombre y firma de los servidores públicos que elaboraron la investigación.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+2. La investigación de mercado la realizará el área requirente con la anticipación que permita conocer las condiciones que imperan en el mercado desde el punto de vista del comprador al momento de iniciar el procedimiento de contratación que corresponde.
 
 3. La metodología para la investigación de mercado deberá contemplar al menos los siguientes elementos:
 
@@ -342,6 +422,32 @@ II. Deben considerarse todos los bienes y servicios que cumplan con los requisit
 III. Identificar el número de los potenciales proveedores, su origen (local, nacional o internacional), solvencia y capacidades técnicas tales como volumen de producción y ventas, redes de distribución, tiempos de entrega, experiencia, especialización y desempeño, y solvencia financiera; y
 
 IV. En su caso, solicitar cotizaciones, o realizar estimaciones propias con base en cantidades requeridas e información disponible de costos, considerar precios pactados en contratos anteriores, precios publicados por los proveedores o precios históricos, diferentes presentaciones de los productos, condiciones de entrega, pago y financiamiento, y descuentos por volumen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES E INCISOS], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. Bis. Las fuentes podrán usarse siempre y cuando hayan sido generadas dentro de los 60 días naturales a aquel en que se pretendan ser utilizadas y no hayan cambiado las condiciones de mercado, situación que deberá de acreditarse, dentro de la propia investigación de mercado.
+
+I. La investigación de mercado puede basarse en información local, nacional e internacional, y deberá documentarse e integrarse al expediente de contratación correspondiente;
+
+II. La investigación de mercado deberá utilizarse para establecer el precio máximo y mínimo de referencia de bienes, arrendamientos o servicios, así como el precio conforme al cual se realizará la contratación correspondiente. Además, podrá utilizarse para sustentar la procedencia de agrupar varios bienes o servicios en una sola partida y elegir el procedimiento de contratación que podrá llevarse a cabo;
+
+III. La información deberá de ser obtenida, por medios electrónicos o físicos, siempre y cuando se tenga constancia de los medios y de la información que permita su verificación, de al menos tres referencias de las siguientes fuentes:
+
+a) La información histórica de compras efectuadas e investigaciones de mercado con que cuente el propio Ente Público en su Unidad Centralizada de compras;
+
+b) La que se encuentra disponible en el SECG, en cuanto a compras efectuadas e investigaciones de mercado;
+
+c) La obtenida de organismos especializados, de cámaras, asociaciones o agrupaciones industriales, comerciales o de servicios;
+
+d) La recabada por medio de cotizaciones a fabricantes, prestadores de servicios, proveedores, distribuidores o comercializadores del ramo correspondiente;
+
+e) La obtenida a través de las páginas de internet de los proveedores directos, por vía telefónica o por algún otro medio siempre que se deje constancia acreditable y verificable de la información obtenida;
+
+IV. Las fuentes podrán usarse siempre y cuando hayan sido generadas dentro de los 60 días naturales a aquel en que se pretendan ser utilizadas y no hayan cambiado las condiciones de mercado, situación que deberá de acreditarse, dentro de la propia investigación de mercado;
+
+V. La investigación de mercado puede basarse en información local, nacional e internacional, y deberá documentarse e integrarse al expediente de contratación correspondiente; y
+
+VI. La investigación de mercado deberá utilizarse para establecer el precio máximo y mínimo de referencia de bienes, arrendamientos o servicios, así como el precio conforme al cual se realizará la contratación correspondiente. Además, podrá utilizarse para sustentar la procedencia de agrupar varios bienes o servicios en una sola partida y elegir el procedimiento de contratación que podrá llevarse a cabo.
 
 4. La elaboración de la investigación de mercado estará a cargo del área requirente, y deberá acompañarse al documento mediante el cual se haga la solicitud formal de la adquisición o contratación correspondiente.
 
@@ -383,9 +489,17 @@ I. La actividad;
 
 II. Los datos generales;
 
-III. El historial en materia de contrataciones y su cumplimiento; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Las sanciones que se hubieren impuesto siempre que hayan causado estado.
+III. El historial en materia de contrataciones y su cumplimiento;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Las sanciones que se hubieren impuesto siempre que hayan causado estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. La existencia de una política de Integridad.
 
 2. Este Registro será público y se regirá por las normas de esta Ley y demás legislación aplicable.
 
@@ -399,13 +513,29 @@ IV. Las sanciones que se hubieren impuesto siempre que hayan causado estado.
 
 7. Cualquier unidad centralizada de compras tendrá acceso a la información relativa al historial de cumplimiento de los proveedores y contratistas, con base en la cual podrán reducir los montos de garantía de cumplimiento.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 17 Bis.
+
+1. La Política de Integridad Empresarial tiene por objetivo acreditar a aquellas empresas y organizaciones que cumplan con una Política de Integridad de conformidad a lo dispuesto por el artículo 25 de la Ley General de Responsabilidades Administrativas y los requisitos que señale la Contraloría del Estado.
+
+2. La Contraloría es la instancia encargada de mantener actualizado el Registro Pro Integridad, de conformidad a la convocatoria que emita para tal efecto, procurando la equidad para los participantes. Dicho registro será de observancia obligatoria para las Unidades Centralizadas de Compras de los Entes Públicos.
+
+3. El resultado que las empresas obtengan en la acreditación dentro del Registro Pro Integridad serán consideradas como un valor agregado en el RUPC.
+
+4. Los Órganos Internos de Control de los Entes Públicos podrán celebrar convenios de colaboración con la Contraloría del Estado con la finalidad de implementar el cumplimiento del Registro Pro Integridad.
+
+5. La Contraloría del Estado se podrá auxiliar de organizaciones empresariales y de la sociedad civil especializadas a efecto de promover las Políticas de Integridad Empresarial, conforme a los requisitos establecidos en la convocatoria.
+
 ###### Artículo 18.
 
 1. El RUPC tiene por objeto proporcionar la información actual, completa, confiable y oportuna, sobre las personas físicas o jurídicas con capacidad de proporcionar bienes o prestar servicios, en la cantidad, calidad y oportunidad que se requiera, así como las condiciones de oferta, para obtener las mejores condiciones de contratación.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 19.
 
-1. La Secretaría operará el RUPC, el cual se formará con las personas físicas o jurídicas que deseen enajenar mercancías, materias primas y bienes muebles o bien prestar o contratar los servicios que los entes públicos requieran.
+1. La Secretaría operará el RUPC, el cual se formará con la información relativa a las personas físicas o jurídicas que deseen enajenar mercancías, materias primas y bienes muebles o bien prestar o contratar los servicios que los entes públicos requieran.
 
 ###### Artículo 20.
 
@@ -415,7 +545,17 @@ I. Presentar las constancias de cumplimiento de obligaciones fiscales en sentido
 
 II. Presentar el alta que acredite la debida inscripción, afiliación y vigencia de derechos de los trabajadores al régimen obligatorio de seguridad social asi como encontrarse al corriente en el pago de cuotas obrero patronales, o en su caso, los contratos respectivos tratándose de personal por honorarios; y
 
-III. Presentar constancia de la que se desprenda estar al corriente en el pago del impuesto sobre nóminas en el Estado.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III. Presentar constancia de la que se desprenda estar al corriente en el pago del impuesto sobre nóminas en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. En el supuesto de refrendo en el RUPC, presentar constancia de anteriores contratos cumplidos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. En el caso de personas jurídicas, presentar acta constitutiva, y en su caso, las modificaciones que sufra en original o copia certificada.
 
 2. No se podrán solicitar requisitos que tengan por objeto desincentivar la participación de las empresas en el RUPC y limitar su libre participación en los procedimientos señalados por esta ley.
 
@@ -423,13 +563,25 @@ III. Presentar constancia de la que se desprenda estar al corriente en el pago d
 
 1. La Secretaria resolverá lo conducente sobre las solicitudes de inscripción RUPC que presenten los particulares, en un término que no exceda de cinco días hábiles contados a partir de la fecha de recepción de la solicitud de inscripción, y demás documentación requerida.
 
-2. En caso de que la solicitud de inscripción no reúna los requisitos señalados en la presente ley o en el reglamento correspondiente, se hará del conocimiento del solicitante la información o requisitos faltantes, otorgándosele un término de cinco días naturales para que subsane los defectos respectivos, con el apercibimiento de que en caso de no hacerlo se tendrá por no presentada.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+2. En caso de que la solicitud de inscripción no reúna los requisitos señalados en la presente ley o en el reglamento correspondiente, se hará del conocimiento del solicitante la información o requisitos faltantes, otorgándosele un término de cinco días hábiles para que subsane los defectos respectivos, con el apercibimiento de que en caso de no hacerlo se tendrá por no presentada.
 
 3. Si transcurrido el término señalado en el párrafo que precede, el solicitante no subsana sus omisiones, su solicitud se tendrá por no presentada.
 
 4. Los proveedores deberán de refrendar su registro cada año antes del 31 de mayo del ejercicio fiscal que corresponda, presentando para tal efecto los requisitos señalados para la inscripción en el RUPC. En su caso, para el refrendo de su registro será obligación de los proveedores o contratistas informar a la Secretaría de cualquier cambio en su acta constitutiva, socios, apoderados, administradores o domicilio, o en su defecto informar que no se han presentado cambios en dichos rubros. Omitir dicha actualización en la información de refrendo será causa de baja del Registro y la no renovación del mismo por un año.
 
-5. La falta del refrendo causará baja del RUPC.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+5. La falta del refrendo causará baja del RUPC, debiéndose realizar nuevamente el trámite de inscripción en el mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+6. La solicitud de inscripción en el RUPC podrá iniciarse de manera electrónica. La verificación de la información recibida deberá ser realizada dentro de los 30 días siguientes a la solicitud y en caso de que de la revisión se adviertan inconsistencias o falta de veracidad en la información recibida, esto será motivo para negar el registro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+7. El RUPC permitirá el pre registro de los proveedores interesados con la información que para dichos efectos sea requerida.
 
 ###### Artículo 22.
 
@@ -495,39 +647,77 @@ XXII. Las demás que sean conferidas por las disposiciones secundarias.
 
 1. Para el cumplimiento de sus atribuciones, funciones y objetivos, el Comité de Adquisiciones de la Administración Centralizada del Poder Ejecutivo del Estado de Jalisco, u aquellos de sus Entidades y Paraestatales, el del Poder Legislativo del Estado de Jalisco; de la Administración Pública Municipal Centralizada y Paramunicipal; y de los Organismos Constitucionalmente Autónomos tendrá la estructura siguiente:
 
-I. Un Presidente
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-II. Siete vocales;
+I. Un Presidente, el cual será el Titular del Ente Público, quien éste designe o el Secretario de Administración para la Administración Pública Centralizada;
 
-III. Un Secretario Ejecutivo que asistirá a las sesiones del Comité sólo con voz pero sin voto; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. En su caso, los invitados y los testigos sociales, que sólo tendrán voz.
+II. Diez vocales;
 
-2. Los vocales serán los titulares o representantes que ellos designen, de las entidades públicas y organismos del sector privado siguiente:
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-I. Contraloría del Estado, o el Órgano de control correspondiente;
+III. Un Secretario Técnico que asistirá a las sesiones del Comité sólo con voz, pero sin voto;
 
-II. Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-III. Consejo de Cámaras Industriales de Jalisco;
+IV. Un representante del órgano interno de control y el titular del área jurídica del área encargada de las adquisiciones, enajenaciones y contratación de servicios del ente público serán invitados permanentes, con voz, pero sin voto; y
 
-IV. Consejo Nacional de Comercio Exterior;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-V. Centro Empresarial de Jalisco, S.P.;
+V. En su caso, los invitados y los testigos sociales, que sólo tendrán voz.
 
-VI. Consejo Agropecuario de Jalisco; y
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Consejo Coordinador de Jóvenes Empresarios del Estado de Jalisco.
+2. Los vocales serán los titulares, o representantes que ellos designen, de las entidades públicas y organismos del sector privado siguiente:
 
-3. Todos los vocales participarán con voz y voto, salvo el representante de la Contraloría o el Órgano de control, quien participará con voz, pero sin voto.
+I. Secretaría de la Hacienda Pública, o su homologo;
 
-4. Las disposiciones secundarias podrán considerar la participación de más vocales permanentes con derecho a voz, pero sin voto.
+II. Secretaría de Administración, o su homólogo;
 
-5. Por cada integrante se designará por escrito a su respectivo suplente, que deberá tener como mínimo el nivel jerárquico inmediato inferior del representante.
+III. Secretaría de Desarrollo Económico, o su homólogo;
 
-6. Los cargos en el Comité serán honoríficos y por lo tanto no remunerados.
+IV. Secretaria de Agricultura y Desarrollo Rural, o su homólogo;
 
-7. Excepcionalmente, en aquellos entes públicos municipales en cuya demarcación geográfica no exista representación de las organizaciones empresariales, el comité se integrará con los representantes del sector privado que se establezcan en las disposiciones secundarias derivadas de esta Ley, invariablemente en la proporción señalada por el presente artículo.
+V. Consejería Jurídica, o su homologo;
+
+VI. Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara;
+
+VII. Consejo de Cámaras Industriales de Jalisco;
+
+VIII. Un representante acreditado por el Consejo Nacional Agropecuario;
+
+IX.Confederación Patronal de la República Mexicana; y
+
+X. Consejo Mexicano de Comercio Exterior de Occidente.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3.Todos los vocales participarán con voz y voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+4. En los Municipios, Organismos Autónomos y demás Entes Públicos que no tengan en su estructura puestos homólogos a los señalados en las fracciones I a V, el órgano máximo de gobierno, establecerá quienes habrán de integrar el Comité, respetando el número de integrantes y la configuración previstos en este artículo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+5. Las disposiciones secundarias podrán considerar la participación de más vocales permanentes con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+6. El ente público llevará un registro de los representantes de los organismos del sector privado y sus suplentes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+7. Los cargos en el Comité serán honoríficos y por lo tanto no remunerados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+8. Los vocales deberán contar con un código de ética y conducta de la organización que representan, donde se estipulen los lineamientos a seguir cuando participan en contrataciones públicas, consejos o comités, así como sus sanciones respectivas en caso de incumplimiento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+9. Excepcionalmente, en aquellos entes públicos municipales en cuya demarcación geográfica no exista representación de las organizaciones empresariales, el comité se integrará con los representantes del sector privado que se establezcan en las disposiciones secundarias derivadas de esta Ley, invariablemente en la proporción señalada por el presente artículo.
 
 ###### Artículo 26.
 
@@ -679,9 +869,21 @@ VIII. Solicitar del área requirente las investigaciones de mercado necesarias p
 
 IX. Atender y ejecutar las resoluciones que emita el Comité del ente público;
 
-X. Publicar las bases o convocatoria de licitación o concurso; e
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XI Integrar, administrar y mantener actualizado el Registro de Servicios de Consultoría, Asesoría, Estudios e Investigaciones y remitirlos para su inclusión en el SECG.
+X. Publicar las bases o convocatoria de licitación;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Integrar, administrar y mantener actualizado el Registro de Servicios de Consultoría, Asesoría, Estudios e Investigaciones y remitirlos para su inclusión en el SECG;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Fomentar la capacitación, entre otros temas, de ética profesional, integridad pública, así como las normas contenidas en los protocolos de actuación de sus entes públicos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Capacitar al personal del ente público en los temas de procedimientos de compras, adjudicaciones y licitaciones.
 
 ###### Artículo 36.
 
@@ -729,7 +931,9 @@ VIII. Aquellos otros que disponga el reglamento correspondiente que al efecto em
 
 ###### Artículo 39.
 
-1. La Contraloría será la única competente para otorgar el registro de testigo social, y deberá difundir en el SECG y en su página de Internet el nombre de quienes hayan obtenido el registro correspondiente para fungir como tales.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+1. La Contraloría y los Órganos Internos de Control de los Entes Públicos, estarán facultados para otorgar el registro de testigo social en sus respectivos ámbitos de competencia, y deberán difundir en el SECG en su caso, o en su página de Internet oficial el nombre de quienes hayan obtenido el registro correspondiente para fungir como tales.
 
 2. El registro otorgado, tendrá una vigencia mínima de un año, prorrogable hasta por un periodo igual al otorgado.
 
@@ -747,9 +951,15 @@ III. Emitir al final de su participación el testimonio correspondiente del cual
 
 2. En caso de que el testigo social detecte irregularidades en los procedimientos de contratación en los que participe, deberá remitir su testimonio a la autoridad competente para los efectos de la investigación administrativa correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. Cuando un procedimiento de contratación se declare desierto, el testigo social designado continuará participando en los subsecuentes procedimientos que el ente público determine llevar a cabo para realizar la contratación de que se trate. La Dependencia o Entidad respectiva deberá informar de lo anterior a la Contraloría del Estado o al Órgano Interno de Control correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 41.
 
-1. La Contraloría emitirá los lineamientos que especificarán los montos de la contraprestación al testigo social en función de la importancia y del presupuesto asignado a la contratación.
+1. La Contraloría del Estado y la Secretaría de la Hacienda Pública, emitirán los lineamientos que especificarán los montos de la contraprestación al testigo social en función de la capacidad presupuestal.
 
 ## TÍTULO TERCERO. PROCEDIMIENTOS DE COMPRA, DE ENAJENACIÓN DE BIENES Y DE CONTRATACIÓN DE SERVICIOS
 
@@ -829,9 +1039,11 @@ VII. Cumplir con las demás obligaciones que les impongan otras disposiciones.
 
 4. La suma de las operaciones que se realicen por el supuesto de adjudicación directa no podrá exceder del quince por ciento del monto al que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 48.
 
-1. El ente público podrá celebrar la Licitación por Encargo a un organismo público reconocido nacional o internacionalmente en el tema.
+1. El ente público podrá solicitar a un organismo público reconocido nacional o internacionalmente en el tema, que realice el procedimiento de licitación, previa autorización del Comité.
 
 ###### Artículo 49.
 
@@ -851,13 +1063,25 @@ II. A los proveedores del sector de las micro, pequeñas y medianas empresas ase
 
 III. Al proveedor local sobre el nacional o a este sobre el extranjero, para el caso de proveedores extranjeros, se dará preferencia al proveedor de origen mexicano cuya empresa esté legalmente establecida en el extranjero;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. A los proveedores que presenten mejor grado de protección al medio ambiente; y
+IV. A los proveedores que presenten mejor grado de protección al medio ambiente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-V. Los proveedores que presenten innovaciones tecnológicas, en términos de los lineamientos establecidos por la Secretaria de Innovación, Ciencia y Tecnología.
+V. A los proveedores que se encuentren acreditados en el Registro Pro Integridad;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Los proveedores que presenten innovaciones tecnológicas, en términos de los lineamientos establecidos por la Secretaría de Innovación, Ciencia y Tecnología;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VII. A los proveedores que cuenten con certificación en normas mexicanas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. A los proveedores que tengan mayoría de capital por parte de mujeres.
 
 3. Para el caso de los Ayuntamientos, estos podrán establecer un primer criterio de preferencia favoreciendo a los proveedores del sector de las micro, pequeñas y medianas empresas, en ese orden, asentadas o con domicilio en el municipio de que se trate.
 
@@ -907,9 +1131,11 @@ XIII. Las demás que por cualquier causa se encuentren impedidas para ello por d
 
 2. Será responsabilidad de la unidad centralizada de compras correspondiente verificar lo anterior.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 53.
 
-1. Los actos, pedidos y contratos que se realicen en contravención en lo dispuesto por esta ley y las disposiciones que de ella se deriven, serán nulos y de la exclusiva responsabilidad del titular del ente público que lo formule.
+1. Los actos, pedidos y contratos que se realicen en contravención en lo dispuesto por esta ley y las disposiciones que de ella se deriven, serán nulos y se procederá a fincar responsabilidad a los servidores que corresponda conforme a los procedimientos establecidos en las leyes correspondientes.
 
 ###### Artículo 54.
 
@@ -953,11 +1179,17 @@ IV. Internacionales, cuando puedan participar proveedores locales, nacionales y 
 
 ###### Artículo 59.
 
-1. La convocatoria a la licitación, en la cual se establecerán las bases en que se desarrollará el procedimiento, y que además describirá los requisitos de participación, deberá contener:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-I. El nombre, denominación o razón social del ente público convocante;
+1. La licitación pública inicia con la publicación de la convocatoria, en la cual se establecerán las bases en que se desarrollará el procedimiento, y que además describirá los requisitos de participación, deberá contener:
 
-II. La descripción detallada de los bienes, arrendamientos o servicios, el origen de los recursos, ya sea Federal, Estatal o Municipal o en su caso el programa del que deviene, así como los aspectos que la convocante considere necesarios para determinar el objeto y alcance de la contratación;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+I. El nombre, denominación o razón social del ente público convocante, el origen de los recursos, ya sea Federal, Estatal o Municipal, o en su caso el programa del que deviene, y el carácter de la licitación;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+II. Un anexo técnico que contenga la descripción detallada de los bienes, arrendamientos o servicios desde la perspectiva de requisitos técnicos mínimos necesarios que aseguren una mayor participación de licitantes, así como los aspectos que la convocante considere necesarios para determinar el objeto y alcance de la contratación;
 
 III. La fecha, hora y lugar de celebración de la primera junta de aclaración a la convocatoria a la licitación, del acto de presentación y apertura de proposiciones y de aquella en la que se dará a conocer el fallo, y el señalamiento de la forma en la que se deberán presentar las proposiciones:
 
@@ -969,7 +1201,9 @@ VI. El señalamiento de que para intervenir en el acto de presentación y apertu
 
 VII. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las proposiciones, y, en su caso, firma del contrato. Asimismo, la indicación de que el licitante deberá proporcionar una dirección de correo electrónico;
 
-VIII. Precisar que será requisito el que los licitantes entreguen junto con el sobre cerrado una declaración escrita, bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos establecidos en el artículo 48 de esta Ley;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Precisar que será requisito el que los licitantes entreguen junto con el sobre cerrado una declaración escrita, bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos establecidos en el artículo 52 de esta Ley;
 
 IX. Precisar que será requisito el que los licitantes presenten una declaración de integridad y no colusión, en la que manifiesten, bajo protesta de decir verdad, que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas, para que los servidores públicos del ente público, induzcan o alteren las evaluaciones de las proposiciones, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes, así como la celebración de acuerdos colusorios;
 
@@ -977,25 +1211,41 @@ X. La indicación respecto a si la contratación abarcará uno o más ejercicios
 
 XI. La indicación de si la totalidad de los bienes o servicios objeto de la licitación, o bien, de cada partida o concepto de los mismos, serán adjudicados a un solo licitante, o si la adjudicación se hará mediante el procedimiento de abastecimiento simultáneo, en cuyo caso deberá precisarse el número de fuentes de abastecimiento requeridas, los porcentajes que se asignarán a cada una y el porcentaje diferencial en precio que se considerará;
 
-XII. Los criterios específicos que se utilizarán para la evaluación de las proposiciones y adjudicación de los contratos, debiéndose utilizar preferentemente los criterios de puntos y porcentajes, o el de costo beneficio;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. El domicilio de las oficinas de la Contraloría o de los órganos de control del ente público de que se trate;
+XII. Los criterios específicos que se utilizarán para la evaluación de las proposiciones y adjudicación de los contratos, debiéndose utilizar preferentemente los criterios de puntos y porcentajes, o el de costo beneficio. En las convocatorias que utilicen el criterio de puntos y porcentajes para la evaluación de las proposiciones y adjudicación de los contratos, se deberá precisar:
+
+a) los rubros que se deberán incluir en la presentación de propuestas técnicas y económicas, tomando como base las características propias de la contratación;
+
+b) el valor en puntos o porcentaje que podrá concederse en dichos rubros;
+
+c) el mínimo de puntuación o porcentaje que habrá de tomarse en cuenta para considerar la solvencia de la propuesta; y
+
+d) la manera en que los licitantes habrán de acreditar cada rubro a evaluar.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. El domicilio de las oficinas de la Contraloría o de los órganos internos de control del ente público, donde se podrá presentar el recurso de inconformidad en contra de los actos de la licitación, solicitar el proceso de conciliación ante cualquier diferencia derivada del cumplimiento de los contratos o pedidos y presentar quejas o denuncias;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
 XIV. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-XV. Plazo para la celebración del contrato respectivo, plazos y requisitos para entrega de garantías, así como condiciones para otorgar anticipos; y
+XV. Plazo para la celebración del contrato respectivo, plazos y requisitos para entrega de garantías y condiciones para otorgar anticipos al proveedor adjudicado; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
 XVI. La indicación de que los licitantes entreguen en su propuesta una declaración escrita en la que hagan constar su aceptación a que les sea retenida su Aportación cinco al millar del monto total del contrato, antes de I.V.A. que se adjudicado para ser aportado al Fondo Impulso Jalisco. Esta retención no deberá ser repercutido (sic) en la integración de la propuesta económica; su contravención será causa de desechamiento de la propuesta presentada.
 
-2. Salvo disposición en contrario, se podrá desechar una propuesta, o determinadas partidas de ésta, cuando de la evaluación de la misma, el licitante correspondiente haya omitido cualquier requisito solicitado en la Convocatoria.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-3. Los requisitos y reglas de participación que se establezcan en la convocatoria y las bases de los procedimientos de contratación deberán ser los estrictamente necesarios para cumplir con su objeto, sin incluir elementos que pudieran resultar injustificados, discriminatorios o que favorezcan a determinados participantes.
+2. La licitación pública concluye con la emisión del fallo, o en su caso, con la cancelación del procedimiento respectivo o su declaratoria de desierta.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. Los requisitos y reglas de participación que se establezcan en la convocatoria y las bases de los procedimientos de contratación deberán ser los estrictamente necesarios para cumplir con su objeto, sin incluir requisitos que impliquen la discrecionalidad en su cumplimiento, elementos que pudieran resultar injustificados, innecesarios, excesivos, limitativos, discriminatorios o que favorezcan a determinados participantes.
 
 4. Deberá evitarse exigir requisitos para comprobar la experiencia y la capacidad técnica, financiera y de ejecución de los participantes que sean desproporcionados, atendiendo a las características del bien o servicio a contratar.
 
@@ -1003,9 +1253,19 @@ XVI. La indicación de que los licitantes entreguen en su propuesta una declarac
 
 6. Previo a la publicación de la convocatoria a la licitación pública, se podrá difundir el proyecto de la misma a través del SECG, al menos durante cinco días hábiles, lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale. Los comentarios y opiniones que se reciban al proyecto de convocatoria, serán analizados por los entes a efecto de, en su caso, considerarlas para enriquecer el proyecto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+7. No se podrá solicitar que los bienes a adquirir o arrendar, sean de una marca determinada o que los requisitos, documentos y especificaciones técnicas contenidas en la convocatoria favorezcan a determinados participantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+8. En el caso particular de requerirse la compra de marca determinada, el área requirente deberá manifestar por escrito de forma fundada y motivada que no existe otra u otras marcas alternativas de los bienes requeridos o que las existentes no puedan ser sustituidas o que la utilización de una marca distinta puede ocasionar una pérdida económica, costo adicional o menoscabo al patrimonio de la convocante y se demuestre que existen varios proveedores que puedan competir ofertando la misma marca de los bienes o servicios requeridos en mejores condiciones, lo anterior deberá acreditarse mediante la investigación de mercado.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 60.
 
-1. La publicación de la convocatoria a la licitación pública se realizará a través del portal de Internet del ente público convocante y del SECG, en formato descargable. Asimismo, el convocante pondrá a disposición de los licitantes una versión impresa de la misma.
+1. La publicación de la convocatoria a la licitación pública se realizará en días y horas hábiles a través del portal de Internet del ente público convocante y del SECG, en formato descargable, salvo causa justificada y por la naturaleza urgente de la necesidad podrá realizarse en días y horas inhábiles. El convocante pondrá a disposición de los licitantes una versión impresa de la misma.
 
 ###### Artículo 61.
 
@@ -1025,6 +1285,10 @@ XVI. La indicación de que los licitantes entreguen en su propuesta una declarac
 
 4. La convocante deberá realizar al menos una junta de aclaraciones, siendo optativa para los licitantes la asistencia a la misma, salvo que en la convocatoria se disponga lo contrario.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+5. Las modificaciones a la convocatoria deberán publicarse y estar disponibles para su consulta, proporcionando la convocatoria como se estableció originalmente y el contenido de las modificaciones.
+
 ###### Artículo 63.
 
 1. Para la junta de aclaraciones se considerará lo siguiente:
@@ -1043,7 +1307,9 @@ V. De cada junta de aclaraciones se levantará acta en la que se harán constar 
 
 ###### Artículo 64.
 
-1. La entrega de proposiciones podrá hacerse en sobre cerrado o por vía electrónica a través del SECG. En ambos casos la proposición contendrá la oferta técnica y económica. La Secretaría establecerá las disposiciones técnicas para la entrega de proposiciones a través del SECG.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+1. La entrega de proposiciones podrá hacerse en sobres cerrados o por vía electrónica a través del SECG, en los términos señalados en las bases de la convocatoria. En ambos casos la proposición contendrá la oferta técnica y económica. La Secretaría establecerá las disposiciones técnicas para la entrega de proposiciones a través del SECG.
 
 2. La convocante podrá solicitar muestras de los productos ofertados, cuando asi lo requiera.
 
@@ -1089,7 +1355,9 @@ III. A quien oferte el precio más bajo que resulte del uso de la modalidad de o
 
 ###### Artículo 68.
 
-1. Si derivado de la evaluación de las proposiciones y previa consideración de los criterios de preferencia establecidos en el artículo 48 se obtuviera un empate entre dos o más licitantes en una misma o más partidas, se deberá adjudicar el contrato en primer término a las micro empresas, a continuación se considerará a las pequeñas empresas y en caso de no contarse con alguna de las anteriores, se adjudicará a la que tenga el carácter de mediana empresa.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+1. Si derivado de la evaluación de las proposiciones y previa consideración de los criterios de preferencia establecidos en el artículo 49 se obtuviera un empate entre dos o más licitantes en una misma o más partidas, se deberá adjudicar el contrato en primer término a las microempresas, a continuación, se considerará a las pequeñas empresas y en caso de no contarse con alguna de las anteriores, se adjudicará a la que tenga el carácter de mediana empresa.
 
 2. En caso de subsistir el empate entre empresas de la misma estratificación de los sectores señalados en el párrafo anterior, o bien, de no haber empresas de este sector y el empate se diera entre licitantes que no tienen el carácter de micro, pequeñas o medianas empresas, se realizará la adjudicación del contrato a favor del licitante que resulte ganador del sorteo por insaculación que realice la convocante, el cual consistirá en depositar en una urna o recipiente transparente, las boletas con el nombre de cada licitante empatado, acto seguido se extraerá en primer lugar la boleta del licitante ganador y posteriormente las demás boletas de los licitantes que resultaron empatados en esa partida, con lo cual se determinarán los subsecuentes lugares que ocuparán tales proposiciones.
 
@@ -1127,7 +1395,9 @@ VI Nombre, cargo y firma de los miembros del Comité que asisten al acto. Indica
 
 ###### Artículo 71.
 
-1. Los Comités procederán a declarar desierta una licitación, o determinadas partidas de ésta, cuando las proposiciones presentadas no reúnan los requisitos solicitados o cuando los precios de los bienes, arrendamientos o servicios ofertados no resulten aceptables. La declaración de partida o licitación desierta producirá el efecto de que no se adquieran los bienes o servicios respectivos dentro de la licitación que corresponda.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+1. Los Comités o las unidades centralizadas de compras, según corresponda, procederán a declarar desierta una licitación, o determinadas partidas de ésta, cuando las proposiciones presentadas no reúnan los requisitos solicitados o cuando la propuesta más económica que cumpla con todos los requerimientos técnicos solicitados en la convocatoria, resulte superior en un 10% o inferior en un 40% respecto de la media de precios que arroje la investigación de mercado. Esta media se obtendrá sumando los precios que arrojen las cotizaciones obtenidas durante la investigación de mercado, y posteriormente dividiendo el resultado entre el número de dichas cotizaciones. La declaración de partida o licitación desierta producirá el efecto de que no se adquieran los bienes o servicios respectivos dentro de la licitación que corresponda.
 
 2. Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, el ente podrá emitir una segunda convocatoria, o bien optar por la adjudicación directa, en los términos establecidos en el presente ordenamiento. Cuando los requisitos o el carácter sea modificado con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
 
@@ -1151,7 +1421,9 @@ a) Una vez recibidas las proposiciones presentadas a través del SECG, así como
 
 b) Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar el importe de cada una de ellas. Dicha acta deberá ser suscrita por los respectivos representantes de la unidad centralizada de compras y del Órgano de control; y
 
-c) Para el fallo del proceso se emitirá un dictamen que valide la adjudicación, el cual contendrá los elementos técnicos y económicos que hayan sido tomados en cuenta. Dicho dictamen deberá ser suscrito por los respectivos representantes de la unidad centralizada de compras, por un representante del área requirente, y por el integrante del Comité que para tales operaciones sea expresamente designado por el propio Comité.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+c) Para el fallo del proceso se emitirá un dictamen que valide por parte del área requirente los aspectos técnicos de las propuestas presentadas y por la unidad centralizada de compras los aspectos económicos; el dictamen contendrá los criterios que hayan sido tomados en consideración. El dictamen será suscrito por los respectivos representantes de la unidad centralizada de compras, del área requirente, y por el integrante del Comité que para tales operaciones sea expresamente designado.
 
 VI. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de dos propuestas susceptibles de analizarse técnicamente;
 
@@ -1287,6 +1559,10 @@ III. No se podrán establecer plazos de entrega en los cuales no sea factible pr
 
 2. Salvo lo dispuesto por la propia Ley, los entes públicos se abstendrán de hacer modificaciones que se refieran a precios unitarios, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+3. Toda modificación a los contratos deberá estar disponible para su consulta, se hará público el contrato como se estableció originalmente junto con las modificaciones realizadas.
+
 ###### Artículo 82.
 
 1. Los contratos para la adquisición y arrendamientos de bienes muebles, o la prestación de servicios, se celebrarán en igualdad de condiciones con aquellos proveedores que se encuentren inscritos en el RUPC cuyo registro se encuentre vigente. No obstante, tal requisito no será obstáculo para que cualquier proveedor pueda presentar preguntas en la junta de aclaraciones, o para que pueda presentar proposiciones.
@@ -1309,7 +1585,13 @@ II. La correcta aplicación de los anticipos, con la exhibición de póliza de f
 
 3. Para el caso de enajenaciones de bienes muebles, los postores deberán garantizar la seriedad de sus ofertas preferentemente mediante cheque. La garantía otorgada se hará efectiva en caso de que el postor adjudicado se desista de su oferta, o no acuda a recoger los bienes dentro del plazo pactado.
 
-4. Para los efectos de este artículo, los entes públicos fijarán las bases, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse, considerando los antecedentes de cumplimiento de los proveedores en los contratos celebrados con los entes públicos, por lo que podrán determinar montos menores para estos.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+4. Para los efectos de este artículo, los entes públicos fijarán las bases, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse, los cuales no deberán ser menores al diez por ciento, considerando los antecedentes de cumplimiento de los proveedores en los contratos celebrados con los entes públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+5. Para contratos superiores al equivalente a cuatro mil veces el valor diario de la Unidad de Medida y Actualización el Ente Público deberá solicitar la garantía correspondiente, conforme a su normativa.
 
 ###### Artículo 85.
 
@@ -1387,7 +1669,9 @@ IX. Firma del inconforme o de su representante legal. La falta de firma, será c
 
 ###### Artículo 93.
 
-1. La autoridad que conozca de la instancia de inconformidad, deberá emitir Acuerdo admitiendo o desechando la misma.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+1. La autoridad que conozca de la instancia de inconformidad, deberá emitir Acuerdo admitiendo o desechando la misma, a más tardar quince días hábiles posteriores a su recepción.
 
 2. La autoridad que conozca de la inconformidad prevendrá al promovente por una sola ocasión, cuando hubiere omitido alguno de los requisitos señalados en las fracciones II, VI y VII del artículo anterior, a fin de que subsane dichas omisiones, apercibiéndole que en caso de no hacerlo en el plazo de tres días hábiles se desechará su inconformidad. En caso de que se omita el requisito señalado en la fracción VIII del artículo anterior, se entenderá que el promovente no ofrece pruebas para acreditar su dicho, con las consecuencias legales inherentes.
 
@@ -1579,9 +1863,13 @@ IV. Decretar la nulidad del acto impugnado, para efectos de su reposición, subs
 
 ###### Artículo 116.
 
-1. Los Proveedores que infrinjan las disposiciones contenidas en esta Ley serán sancionados por los Órganos de Control de los entes gubernamentales respectivos. Las sanciones podrán consistir en apercibimiento, inhabilitación hasta por cinco años o cancelación del registro.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-2. Al momento de imponer la sanción, el Órgano de control deberá considerar:
+1. Los Proveedores que infrinjan las disposiciones contenidas en esta Ley serán sancionados por los órganos internos de control de los entes gubernamentales respectivos. Las sanciones podrán consistir en apercibimiento, inhabilitación hasta por cinco años o cancelación del registro.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+2. Al momento de imponer la sanción, el órgano interno de control deberá considerar:
 
 I. La gravedad de la falta;
 
@@ -1633,9 +1921,13 @@ IV. En caso de que la irregularidad se detecte una vez que se haya celebrado el 
 
 1. La Contraloria, el Órgano de control o el que haga sus veces en los Entes Públicos; serán competentes para diseñar, implementar y dar seguimiento a un sistema relativo a los manifiesto de vínculos y relaciones que deberán formular los particulares que tengan interés en participar en los procedimiento de contrataciones públicas, concesiones, licencias, permisos o autorizaciones y sus prorrogas, enajenación de bienes muebles y avalúos.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 122.
 
-1. La Subsecretaría en el caso de la Administración Pública del Estado, será competente para diseñar, implementar y dar seguimiento a un registro (sic) personas físicas y jurídicas que se encuentren inhabilitadas para celebrar contratos con los entes públicos derivado de procedimientos administrativos que así lo determinen.
+1. La Secretaría en el caso de la Administración Pública del Estado, será competente para diseñar, implementar y dar seguimiento a un registro (sic) personas físicas y jurídicas que se encuentren inhabilitadas para celebrar contratos con los entes públicos derivado de procedimientos administrativos que así lo determinen.
+
+2. La Secretaría estará encargada de diseñar e implementar un sistema de monitoreo y evaluación del sistema de compras públicas, con el propósito de llevar a cabo procesos estratégicos de compras y adquisiciones, así como para fortalecer la rendición de cuentas.
 
 ###### Artículo 123.
 
@@ -1673,11 +1965,17 @@ II. El inmueble se requiera temporalmente, o resulte más onerosa la adquisició
 
 ###### Artículo 128.
 
-1. Cuando exista necesidad de adquirir algún bien inmueble, las dependencias del ente público, fundando su petición, lo propondrán al titular del ente, quien solicitará opinión a la dependencia encargada de ejecutar obra pública, y en caso de no contar con ella, aquella que tenga a su cargo el mantenimiento y remodelación de los inmuebles del ente correspondiente, y de la dependencia encargada de la administración de los inmuebles del ente, siendo esta última la que emitirá el dictamen que determinará si procede su adquisición, la cual se realizará por su conducto.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-2. En todos los casos, la dependencia encargada de la administración de los inmuebles del ente público correspondiente verificará previamente a la adquisición, que el uso y destino para el que se requieren los inmuebles, sea compatible y necesario para la realización de los fines y atribuciones que sean competencia del solicitante, así como su localización respecto a las obras de infraestructura y equipamiento.
+1. Cuando exista necesidad de adquirir algún bien inmueble, la dependencia requirente del ente público, mediante oficio lo propondrá a la dependencia encargada de la administración de los inmuebles, la que emitirá el dictamen que determinará si procede su adquisición.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+2. La dependencia encargada de la administración de los inmuebles podrá solicitar cualquier aclaración o ampliación, en caso de que lo considere necesario.
 
 3. No se aplicarán las disposiciones de este ordenamiento, a las adquisiciones de inmuebles para la ejecución de obra pública.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 129.
 
@@ -1685,11 +1983,37 @@ II. El inmueble se requiera temporalmente, o resulte más onerosa la adquisició
 
 I. Cuantificar y cualificar los requisitos, atendiendo a las características de los inmuebles solicitados y su localización;
 
-II. Revisar el inventario general de los bienes inmuebles propiedad del ente público, para determinar la existencia de inmuebles disponibles o en su defecto, la necesidad de adquirir otros;
+II. Revisar el inventario general de los bienes inmuebles propiedad del ente público, para determinar la existencia de inmuebles disponibles; y
 
-III. Asignar en su caso a la dependencia solicitante, los inmuebles disponibles; y
+III. Asignar, en su caso, a la dependencia solicitante, los inmuebles disponibles.
 
-IV. De no ser posible lo anterior, adquirir los inmuebles con cargo a la partida presupuestal autorizada, previo acuerdo de quien tenga facultades para autorizar la compra de inmuebles en el ente respectivo, y realizar las gestiones necesarias para la firma, registro y archivo de la escritura de propiedad correspondiente.
+2. De no ser posible asignar algún bien inmueble, la dependencia emitirá su dictamen respecto de la compra solicitada, en el que se verifique que el uso para el que se requiere sea compatible y necesario para la realización de los fines y atribuciones competencia del solicitante.
+
+3. Para elaborar tal dictamen, la dependencia administradora de inmuebles deberá:
+
+I. Solicitar a la dependencia encargada de ejecutar obra pública un informe técnico respecto del estado físico que guarda el inmueble solicitado; y
+
+II. Gestionar los avalúos comercial y catastral, para lo cual solicitará a la dependencia requirente la partida presupuestal necesaria.
+
+4. La dependencia administradora de inmuebles remitirá el dictamen a la requirente.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 129 Bis.
+
+1. La dependencia requirente, con el dictamen referido en el artículo anterior, propondrá la adquisición del bien al titular del Ente.
+
+2. Para los efectos del artículo anterior, la solicitud deberá cumplir los siguientes requisitos:
+
+I. Estar incluido en los requerimientos inmobiliarios de su programa anual o, en su caso, que sea parte de un programa, proyecto o necesidad especifica;
+
+II. Tener presupuesto autorizado para su adquisición o, en su caso, la solicitud de recursos; y
+
+III. Justificar la necesidad de adquirir el bien.
+
+3. El titular del ente público evaluará la petición y determinará si es procedente la compra, misma que se llevará por conducto de la dependencia administradora de inmuebles, previa opinión del Comité y del Órgano Interno de Control.
+
+4. La dependencia administradora de inmuebles realizará las gestiones necesarias para la firma, registro y archivo de la escritura de propiedad correspondiente.
 
 ###### Artículo 130.
 
@@ -2046,3 +2370,13 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Ejecutivo del Estado de Jalisco, antes del 31 de diciembre de 2021, deberá realizar las adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
 
 Tercero. Los ayuntamientos del Estado de Jalisco, antes del 31 de Diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28438/LXII/21 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO, DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA EN MATERIA DEL SISTEMA ESTATAL PARA EL COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
+
+TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea (sic) agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
