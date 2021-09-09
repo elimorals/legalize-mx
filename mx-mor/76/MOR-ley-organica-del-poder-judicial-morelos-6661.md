@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2018-02-16"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -65,9 +65,11 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 La presente Ley tiene por objeto regular la organización, estructura y funcionamiento del Poder Judicial del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 2.
 
-Corresponde al Poder Judicial del Estado, en los términos de la Constitución Política local, la facultad de aplicar las leyes en asuntos civiles y penales del fuero común, lo mismo que en los asuntos de orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción, así como el de regular su administración.
+Corresponde al Poder Judicial del Estado, en los términos de la Constitución General de la República y la Constitución Política Local, la facultad de aplicar las leyes en asuntos civiles, familiares, mercantiles, laborales y penales del fuero común, lo mismo que en los asuntos de orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción, así como el de regular su administración.
 
 ###### ARTICULO 3.
 
@@ -75,9 +77,13 @@ La facultad a que se refiere el artículo anterior se ejerce por:
 
 I.- El Tribunal Superior de Justicia;
 
-II.- El Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-III.- Los Juzgados de Primera Instancia;
+II.- La Junta de Administración, Vigilancia y Disciplina del Poder Judicial:
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Los Juzgados o Tribunales de Primera Instancia en materia civil, familiar, mercantil, laboral y penal;
 
 IV.- Los Juzgados Menores;
 
@@ -105,15 +111,25 @@ III.- Auxiliar a la justicia federal y demás autoridades, en los términos de l
 
 IV.- Diligenciar o mandar diligenciar exhortos procedentes de las demás autoridades judiciales del Estado o de fuera de él, si estuvieren ajustados a derecho;
 
-V.- Proporcionar a las autoridades competentes los datos e informes que éstos pidan, cuando así proceda conforme a la ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Las demás que los ordenamientos legales les impongan.
+V.- Implementar a través de la junta de Administración, Vigilancia y Disciplina del Poder Judicial el uso estratégico de tecnologías de la información y comunicación tales como sistemas informáticos, medios electrónicos, ópticos, fax, correo electrónico, documento digital, firma o contraseña electrónica y en general los medios aportados por los descubrimientos de la ciencia que ayuden a que la impartición de justicia se realice de manera pronta y expedita.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Proporcionar a las autoridades competentes los datos e informes que éstos pidan, cuando así proceda conforme a la ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Las demás que los ordenamientos legales les impongan.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 6.
 
-Son días y horas hábiles para el despacho en el Tribunal Superior de Justicia, Consejo de la Judicatura Estatal, Juzgados de Primera Instancia, Menores y de Paz, de lunes a viernes, de las ocho a las quince horas, salvo los días en que oficialmente se suspendan las labores. Quedan exceptuados los asuntos de carácter penal y los casos en que por disposición de la ley o a juicio del pleno del tribunal o del Consejo, en su caso, fuere necesario laborar en días y horas diversos.
+Son días y horas hábiles para el despacho en el Tribunal Superior de Justicia, Junta de Administración, Vigilancia y Disciplina del Poder Judicial: Juzgados de Primera Instancia, Menores y de Paz, de lunes a viernes, de las ocho a las quince horas, salvo los días en que oficialmente se suspendan las labores. Quedan exceptuados los asuntos de carácter penal y los casos en que por disposición de la ley o a juicio del Pleno del Tribunal o de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, en su caso, fuere necesario laborar en días y horas diversos.
+
+Así mismo, por cuanto a la materia laboral se estará a lo dispuesto por los artículos 715 y 716; de la Ley Federal del Trabajo; así como lo establecido en el ordinal 928, fracción III, del mismo ordenamiento federal, en este último caso, la Junta de Administración, Vigilancia y Disciplina del Poder Judicial determinará el personal que cubrirá las guardias permanentes.
 
 ###### ARTICULO 7.
 
@@ -147,11 +163,11 @@ Ningún nombramiento para servidor público de la administración de justicia o 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 14.
 
-El Pleno del Tribunal Superior de Justicia, la Sala Especializada en Justicia Penal para Adolescentes y los Jueces adscritos a esta, tienen competencia territorial en todo el Estado; las Salas de Circuito, en el de su adscripción; los Jueces de Primera Instancia y Menores en el Circuito, Distrito o Demarcación para el que se les designe; y, los Jueces de paz en el Municipio para el cual se les nombre.
+El Pleno del Tribunal Superior de Justicia tiene competencia territorial en todo el estado; las Salas de Circuito, en el de su adscripción; los jueces de primera instancia en materia civil, familiar, mercantil y penal, así como los jueces menores en el Distrito o Demarcación para el que se les designe; los jueces de los Tribunales Laborales tendrán competencia en todo el estado, bajo el esquema de Distrito judicial con cabecera en las ciudades de Cuernavaca, Cuautla y Jojutla; Primer Distrito, con cabecera en Cuernavaca, abarcará los municipios de Cuernavaca, Emiliano Zapata, Huitzilac, Jiutepec, Temixco, Tepoztlán y Xochitepec. Segundo Distrito con cabecera en Cuautla, comprenderá los municipios de Cuautla, Atlatlahucan, Axochiapan, Ayala, Jantetelco, Jonacatepec, Ocuituco, Temoac, Tepalcingo, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan, Yautepec, Yecapixtla, Zacualpan y Hueyapan; Tercer Distrito, con cabecera en Jojutla, comprenderá los municipios de Amacuzac, Coatlán del Río, Coatetelco, Jojutla, Mazatepec, Miacatlán, Puente de Ixtla, Tetecala, Tlaltizapán, Tlaquiltenango, Xoxocotla y Zacatepec; y los jueces de paz en el municipio para el cual se les nombre.
 
 ###### ARTICULO 15.
 
@@ -173,13 +189,15 @@ No obstante lo dispuesto en los artículos anteriores, el Pleno del Tribunal Sup
 
 En cada circuito habrá el número de salas de circuito que fueren necesarias en materia civil, penal o mixta, a juicio del Pleno del Tribunal Superior de Justicia, oyendo el parecer del Consejo de la Judicatura Estatal por cuanto a la factibilidad presupuestal de su creación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 18.
 
-En cada distrito judicial y en cada demarcación habrá el número de juzgados de primera instancia y menores que fueren necesarios, en materia civil, penal o mixta, los que serán denominados conforme al número progresivo que les asigne el Tribunal Superior de Justicia y tendrán su residencia en la cabecera distrital o demarcacional o en el lugar que el Pleno del propio Tribunal determine, sin modificar su jurisdicción.
+En cada distrito judicial y en cada demarcación habrá el número de juzgados de primera instancia que fueren necesarios, en materia civil, familiar, mercantil, laboral, penal o mixta, así como juzgados menores; todos ellos que serán denominados conforme al número progresivo que les asigne la Junta de Administración, Vigilancia y Disciplina del Poder Judicial; y tendrán su residencia en la cabecera distrital o demarcacional o en el lugar que la propia Junta determine, sin modificar su jurisdicción.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-El Pleno del Tribunal podrá acordar, dentro de las posibilidades presupuestales, la conformación de Juzgados, integrados cada uno de ellos por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma unitaria o colegiada de conformidad con lo dispuesto por la Ley. En estos casos el Pleno designará a uno de los Jueces como coordinador.
+La Junta de Administración, Disciplina y Vigilancia del Poder Judicial podrá acordar, dentro de las posibilidades presupuestales, la conformación de juzgados, integrados cada uno de ellos por los jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma unitaria o colegiada de conformidad con lo dispuesto por la Ley. En estos casos, la misma Junta designará a uno de los jueces como coordinador.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -339,13 +357,17 @@ XXI.- Intervenir en los asuntos relativos a los juicios de amparo promovidos en 
 
 XXII.- Nombrar al personal supernumerario que las necesidades de la administración requieran, en el ámbito de su competencia;
 
-XXIII.- Crear los Juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia para un mejor servicio, oyendo el parecer del Consejo de la Judicatura Estatal por cuanto a la factibilidad presupuestal de su creación;
+XXIII.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
 
 XXIV.- En la esfera de su competencia, tomar todas las decisiones que tiendan a la correcta y adecuada aplicación de la presente ley, así como resolver cualquier situación no prevista por ella;
 
 XXV.- Expedir su propio reglamento; y
 
-XXVI.- Las demás que le confieran las leyes.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI.- Conocer de las excusas, recusaciones y conflictos de competencia de los jueces o Tribunales Laborales, y
+
+XXVII.- Las demás que le confieran las leyes.
 
 ###### ARTICULO 30.
 
@@ -729,7 +751,9 @@ El personal de la administración de justicia del Estado será de confianza o de
 
 I.- Administrador de Juzgado;
 
-II.- Secretarios de acuerdos de los juzgados, independientemente de las funciones que desempeñen, ya sea civiles, penales, y actuarios de los propios juzgados;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Secretarios de acuerdos de los juzgados, independientemente de las funciones que desempeñen, ya sea civiles, familiares, mercantiles, laborales y penales, y actuarios de los propios juzgados;
 
 III.- Secretarios de acuerdos y actuarios de los juzgados menores;
 
@@ -739,7 +763,9 @@ V.- Taquimecanógrafos;
 
 VI.- Mecanógrafos;
 
-VII.- Auxiliares de oficina;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Auxiliares de oficina y técnicos judiciales;
 
 VIII.- Intendentes del tribunal; y,
 
@@ -845,17 +871,17 @@ VIII.- Ser de honradez y probidad notorios; y,
 
 IX.- No ser ministro de culto religioso alguno.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 66.
 
-La planta de personal de los juzgados será la siguiente: un Juez, uno o más Secretarios, uno o más Actuarios y el número de empleados auxiliares que determine el Consejo de la Judicatura Estatal.
+La plantilla del personal de los juzgados será la siguiente: un juez, uno o más secretarios, uno o más actuarios y el número de empleados auxiliares que determine la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+Los juzgados que funcionen conforme al sistema procesal penal acusatorio y adversarial, tendrán los funcionarios y el personal administrativo auxiliar necesarios para su buen funcionamiento, que determine la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
 
-Los juzgados que funcionen conforme al sistema procesal penal acusatorio y adversarial, tendrán los funcionarios y el personal administrativo auxiliar que determine el Consejo de la Judicatura, necesarios para su buen funcionamiento.
+La Junta de Administración, Vigilancia y Disciplina del Poder Judicial podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de parte y otras áreas para varios juzgados de un mismo distrito o circuito judicial.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
-
-El Consejo de la Judicatura podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías y otras áreas para varios juzgados de un mismo distrito o circuito judicial.
+Los Tribunales Laborales, se conformarán e integrarán por un juez especializado en materia laboral por uno o más secretarios, funcionariosy empleados conforme a las disposiciones que para ese efecto emita la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, en términos de lo dispuesto por la Ley Federal del Trabajo.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -893,21 +919,25 @@ Tratándose del envío de exhorto, mandamiento o comisión a otro Estado, el Jue
 
 Son Jueces de primera instancia los siguientes:
 
-I.- Civiles;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Civiles, familiares y mercantiles;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
 II.- Penales;
 
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Laborales;
+
 > <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-III.- Especializados para adolescentes, y
+III (SIC).- Especializados para adolescentes, y
 
-IV.- Mixtos.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-Para todos los efectos legales, se consideran jueces de primera instancia en materia penal a los jueces de control, jueces de enjuiciamiento y ejecución de sanciones.
+IV.- Mixtos. Para todos los efectos legales, se consideran jueces de primera instancia en materia penal a los jueces de control, jueces de enjuiciamiento y ejecución de sanciones.
 
 ###### ARTICULO 68.
 
@@ -1013,6 +1043,82 @@ Los Jueces de Primera Instancia no podrán encomendar a los Jueces Menores de la
 
 (DEROGADO, P.O. 23 DE JULIO DE 2008)
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Bis.- La función jurisdiccional, competencia de los Tribunales Laborales se ejercerá por un juez laboral, cuyo nombramiento, en términos de lo previsto por la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo, la Constitución Política del Estado de Morelos y la presente Ley, será mediante concurso de selección público y abierto y recaerá en personas que acrediten tener conocimientos en la materia y práctica en el derecho laboral.
+
+Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+Para efectos del artículo 712 Bis de la Ley Federal del Trabajo, se estará a lo previsto por el artículo 74 de la presente ley.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Ter.- Los jueces laborales conocerán de los conflictos individuales y colectivos y estarán auxiliados por la Unidad de Peritos Judiciales, de conformidad con lo dispuesto en la Ley Federal del Trabajo; y los lineamientos que para tal efecto expida la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Quater.- El Tribunal Laboral, contará con los secretarios, secretario instructor, administrador, actuarios, servidores públicos judiciales y empleados que se juzgue conveniente, de conformidad con lo previsto en esta Ley y los lineamientos que emita la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Quinquies.- Los jueces laborales tendrán las atribuciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Morelos, la Ley Federal del Trabajo y demás disposiciones aplicables, y en particular lo previsto en el artículo 723 de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Sexies.- Durante la tramitación de los juicios y hasta el cierre de su instrucción, el juez a cargo del Tribunal Laboral deberá estar presente en el desarrollo de las audiencias. Deberá auxiliarse de un secretario instructor para dictar los acuerdos relativos a la etapa escrita del procedimiento, hasta antes de la audiencia preliminar, quien deberá verificar y, en su caso, certificar que las notificaciones personales se practicaron debidamente.
+
+En su actuación, los jueces y secretarios instructores deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía, independencia, bajo un modelo procesal público, gratuito, predominantemente oral y conciliatorio.
+
+El juez deberá atender al principio de realidad sobre los elementos formales que lo contradigan. Asimismo, se privilegiará la solución del conflicto sobre los formalismos procedimentales, sin afectar el debido proceso y los fines del derecho del trabajo.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Septies.- Los Tribunales Laborales, en términos de lo dispuesto por la Ley Federal del Trabajo, contarán con los sistemas electrónicos que para tal efecto acuerde la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asimismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarias para operar la conectividad por medios electrónicos con las autoridades laborales.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Octies.- Los jueces laborales y secretarios instructores estarán forzosamente impedidos y tendrán el deber de excusarse en el conocimiento de los asuntos en los casos previstos por el artículo 707 bis de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Nonies.- Los juzgadores laborales y secretarios instructores tendrán la obligación de excusarse inmediatamente que se avoquen al conocimiento de un negocio del que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que lo origine o de que tengan conocimiento de él, expresando concretamente la causa o razón del impedimento.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Decies.- Procede la recusación cuando, a pesar de existir alguno de los impedimentos expresados, los jueces laborales o los secretarios instructores no se excusen. La recusación siempre se fundará en causa legal.
+
+Las excusas y recusaciones de los secretarios instructores, así como de los peritos, serán calificadas por el juez a cargo del Tribunal laboral.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 72
+
+Undecies.- En materia laboral tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+
+Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
+
+Cuando un juez de la materia laboral utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
+
+Las autoridades judiciales en materia laboral podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación.
+
 ###### ARTICULO 73.
 
 Son obligaciones de los Jueces de primera instancia:
@@ -1053,9 +1159,11 @@ XIV.- Las demás que les imponga la ley.
 
 Tratándose de los juzgados penales del sistema procesal penal acusatorio y adversarial, así como los especializados en justicia para adolescentes, donde se hubiere asignado un administrador de juzgado, las atribuciones previstas en las fracciones II, III, V, VI, IX, X, XII y XIII de este artículo, quedarán a cargo del administrador.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 74.
 
-En los distritos y demarcaciones en que hubiere más de un juzgado los asuntos se turnarán por la oficialía de partes común en los términos que señale el Pleno del Tribunal.
+En los distritos, demarcaciones y sedes judiciales en que hubiere más de un juzgado los asuntos se turnarán por la oficialía de partes común en los términos que señale la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
 
 ### CAPITULO TERCERO. DE LOS JUECES MENORES
 
@@ -1187,17 +1295,25 @@ Los Jueces de Paz desempeñarán sus funciones dentro de los límites territoria
 
 Los Secretarios y Actuarios de los juzgados, deberán satisfacer los siguientes requisitos: Ser mexicano en pleno ejercicio de sus derechos civiles; mayores de edad; no haber sido declarados penalmente responsables, mediante sentencia ejecutoria, por delito intencional que amerite pena privativa de libertad, ni en procedimiento de responsabilidad administrativa; no tener impedimento físico o enfermedad que los incapacite para el desempeño de su cargo; ser de honradez notoria, y poseer título de abogado o licenciado en derecho, o ser pasante de derecho debidamente acreditado. En este último caso deberá titularse en un plazo máximo de dos años después de concluidos sus estudios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 93.
 
-Los Secretarios de Acuerdos de los Juzgados serán nombrados por el Consejo de la Judicatura Estatal, y tendrán las siguientes atribuciones y deberes:
+Los secretarios de acuerdos o secretarios instructores de los juzgados serán nombrados por la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, y tendrán las siguientes atribuciones:
 
-I.- Dar fe y autorizar con su firma las actuaciones que en su función le imponga la Ley o le encomiende el Juez;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Dar fe y autorizar con su firma, por escrito o de manera electrónica, según sea el caso, las actuaciones que en su función le imponga la ley o le encomiende el juez;
 
 II.- Dar cuenta al Juez y presentarle proyecto de acuerdo, dentro del término de ley, con las promociones y documentos oficiales dirigidos al juzgado;
 
-III.- Asentar en autos, dentro del término, las certificaciones que procedan de oficio o por mandato judicial;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- Cumplir oportunamente en sus términos las resoluciones judiciales firmes;
+III.- Asentar en autos, dentro del término, las certificaciones que procedan de oficio o por mandato judicial, por escrito o de manera electrónica, según sea el caso;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Hacer uso de las tecnologías de la información y comunicación que establezca la legislación respectiva, así como, la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, para la tramitación de las actuaciones y asuntos de su competencia en los juicios que conozcan; y en todos los casos, cumplir oportunamente en sus términos las resoluciones judiciales firmes;
 
 V.- Dar cuenta al Juez de las faltas y omisiones que personalmente hubiese notado en los servidores públicos de la administración de justicia subalternos de la oficina, o por denuncias verbal o escrita del público;
 
@@ -1207,19 +1323,29 @@ VII.- Concurrir y desempeñar sus labores en las horas hábiles o cuando así lo
 
 VIII.- Vigilar que el personal bajo su dependencia se dedique a sus labores oficiales;
 
-IX.- Entregar oportunamente los expedientes de notificaciones personales o pendientes de diligencias a los Actuarios, cuando deban efectuarse fuera del Juzgado;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Entregar oportunamente los expedientes de notificaciones personales o pendientes de diligencias a los Actuarios, que se expidan de manera física o electrónica según sea el caso, cuando deban efectuarse fuera del Juzgado;
 
 X.- Hacer, en ausencia del Actuario, las notificaciones personales que procedan a las partes, dentro del término de ley, cuando éstas concurran al Juzgado;
 
 XI.- Mostrar los expediente (sic) a las partes, cuando éstas lo soliciten, especialmente cuando se haya publicado resolución en el boletín judicial y esté corriendo un término;
 
-XII.- Remitir al Archivo Judicial General, al terminar el año, los expedientes cuyo envío sea forzoso conforme a la ley; mismos que deberán estar debidamente foliados;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Remitir al archivo judicial general, al terminar el año, los expedientes físicos o electrónicos, según sea el caso, cuyo envío sea forzoso conforme a la ley; mismos que deberán estar debidamente foliados;
 
 XIII.- Practicar las diligencias que correspondan a los Actuarios, en ausencia de éstos o cuando el Juez así lo ordene;
 
 XIV.- Auxiliar al Juez en la redacción de las resoluciones que éste le encomiende, con excepción de las sentencias definitivas; y
 
-XV.- Las demás que les encomienden la ley o el titular de su dependencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- Tratándose de los secretarios instructores, estos dictarán los acuerdos relativos a la etapa escrita del procedimiento, hasta antes de la audiencia preliminar, quien deberá verificar y, en su caso, certificar que las notificaciones personales se practicaron debidamente, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- Las demás que les encomiende la ley o su superior jerárquico.
 
 ###### ARTICULO 94.
 
@@ -1259,7 +1385,9 @@ VII.- Entregar y recibir bajo riguroso inventario los bienes y valores a que se 
 
 VIII.- Distribuir los asuntos entre los jueces por turno riguroso, y;
 
-IX.- Las demás que determine la ley, el Consejo de la Judicatura o el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Las demás que determine la ley o la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -2097,11 +2225,11 @@ Se consideran como faltas de los miembros del Consejo de la Judicatura Estatal, 
 
 Si la falta se cometiere porque alguna de las Salas del Tribunal no dicte sus resoluciones dentro del termino legal, solamente será responsable el Magistrado Ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás Magistrados; y cualquiera de los tres será responsable si habiéndose presentado la ponencia correspondiente, no concurriere a la discusión del negocio o no firmare la sentencia dentro del mismo plazo legal, sin causa justificada en uno y otros casos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 186.
 
-Son faltas de los administradores y de los Secretarios de Acuerdos:
+Son faltas de los administradores, de los secretarios de acuerdos y de los secretarios instructores:
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -2135,9 +2263,11 @@ VII.- No cumplir con las atribuciones en el ámbito de su competencia de lo que 
 
 VIII.- Las demás que señalen otras leyes u ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 187.
 
-Son faltas de los Actuarios:
+Son faltas de los actuarios o notificadores:
 
 I.- Dejar de hacer con la debida oportunidad, sin causa plenamente justificada, las notificaciones personales o no llevar al cabo las diligencias de sus atribuciones, cuando éstas deban efectuarse fuera del Tribunal;
 
@@ -2502,3 +2632,15 @@ QUINTA. El Pleno del Tribunal Superior de Justicia nombrará una comisión que e
 SEXTA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, la Magistrada del Tribunal Unitario de Justicia para Adolescentes procederá a realizar la entrega recepción al Tribunal Superior de Justicia del Estado.
 
 SÉPTIMA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL, EN MATERIA LABORAL".]
+
+PRIMERA.- Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas aquellas disposiciones de igual o menor jerarquía jurídica que se oponga al presente decreto.
+
+CUARTA.- El Tribunal Superior de Justicia del Estado de Morelos o la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos, deberá continuar con todas las acciones o adecuaciones administrativas necesarias para culminar, antes de la vigencia de este decreto, la implementación del nuevo Sistema de Justicia laboral.
