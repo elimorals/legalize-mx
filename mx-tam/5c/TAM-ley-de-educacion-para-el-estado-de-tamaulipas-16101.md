@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2021-09-08"
+last_updated: "2021-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -1154,6 +1154,12 @@ La educación oficial o incorporada al Estado, estará unificada por lo que se r
 ###### ARTICULO 65.
 
 La disciplina escolar será entendida como una actitud personal y grupal, de respeto por la convivencia democrática y por las normas escolares, que las y los maestros deberá fomentar por medios educativos, que prescindan absolutamente de métodos coercitivos que atenten contra la dignidad e integridad física y emocional del educando.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 65 BIS.- En caso de declaratoria de emergencia o contingencia sanitaria por situaciones de pandemia o un fenómeno natural, emitida por la autoridad correspondiente, que tenga una duración de más de 15 días naturales, la Secretaría deberá realizar las acciones necesarias para que se continúe el plan de estudios y el calendario escolar, en los planteles educativos públicos y privados, mediante el uso de tecnología que permita a los estudiantes acceder desde sus hogares.
+
+Asimismo, deberá establecer mecanismos que permita a los educandos hacer llegar sus trabajos y evaluaciones a las maestras y maestros para la protección de la salud o integridad física de las y los estudiantes.
 
 #### SECCION TERCERA. CONSEJO ESTATAL TECNICO DE LA EDUCACION
 
@@ -2374,3 +2380,15 @@ P.O. 8 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-789 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 65 BIS A LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación de la reforma del presente decreto, se sujetará a la disponibilidad presupuestal correspondiente.
