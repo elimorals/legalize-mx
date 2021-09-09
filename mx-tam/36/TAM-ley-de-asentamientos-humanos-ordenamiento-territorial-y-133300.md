@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2020-07-08"
+last_updated: "2021-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -1829,9 +1829,17 @@ I. Los municipios deberán hacer públicos todos los requisitos en forma escrita
 
 II. Deberá establecer el tiempo de respuesta máximo por parte de las autoridades a las diferentes solicitudes;
 
-III. Las respuestas a las solicitudes deben ser mediante acuerdo por escrito; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
-IV. En los casos en que no proceda la autorización se deberá motivar y fundamentar en derecho las causas de la improcedencia en el acuerdo respectivo.
+III. Las respuestas a las solicitudes deben ser mediante acuerdo por escrito;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+IV. En los casos en que no proceda la autorización se deberá motivar y fundamentar en derecho las causas de la improcedencia en el acuerdo respectivo; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+
+V. En el caso de las solicitudes de refrendo anual de uso de suelo de quienes hayan estado operando y justifiquen haber realizado la solicitud de refrendo sin contar con respuesta definitiva de la autoridad municipal, se entenderá la afirmativa ficta y serán válidos los refrendos correspondientes, y la autoridad estará obligada a expedirlos a la brevedad posible a partir de la solicitud inicial, mediante el pago correspondiente, sin óbice de seguir operando, entre tanto se expiden los citados refrendos.
 
 ### CAPÍTULO II. De las Licencias de Fraccionamiento y Urbanización del Suelo
 
@@ -3636,3 +3644,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia de este.
+
+P.O. 9 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-790 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III Y IV; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 150 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los efectos legales del presente Decreto aplicarán para las personas que ya se encuentren en el supuesto legal a que este se refiere al inicio de su vigencia.
