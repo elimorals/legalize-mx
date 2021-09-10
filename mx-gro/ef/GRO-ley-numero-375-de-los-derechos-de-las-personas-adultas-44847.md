@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-375-de-los-derechos-de-las-personas-adultas-44847"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-16"
-last_updated: "2021-08-27"
+last_updated: "2021-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 16 de noviembre de 2004.
 
@@ -41,9 +41,13 @@ LEY NUMERO 375, DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GU
 
 Esta Ley es de orden público, de interés social y de observancia general en el Estado de Guerrero, y tiene por objeto:
 
-I. Garantizar las condiciones para que las personas adultas mayores gocen de una calidad de vida, productiva dentro y fuera del seno familiar;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-II. Promover los derechos de los adultos mayores, garantizar su cumplimiento y aplicar sanciones conforme a derecho, a aquel o aquella persona física o jurídica colectiva, pública o privada, que cometa actos físicos o morales de discriminación o segregación contra el adulto mayor;
+I. Garantizar las condiciones para que las personas adultas mayores gocen de una calidad de vida digna, productiva dentro y fuera del seno familiar;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+II. Promover los derechos de las personas adultas mayores, garantizar su cumplimiento y aplicar sanciones conforme a derecho, a aquel o aquella persona física o jurídica colectiva, pública o privada, que promueva, permita o cometa actos físicos o morales de discriminación o segregación contra las personas adultas mayores;
 
 III. Fomentar valores de respeto, solidaridad, protección y cuidado hacia el adulto mayor en la sociedad en general, y
 
@@ -104,6 +108,30 @@ XIII. Personas Adultas Mayores. Aquéllas que cuentan con sesenta y cinco años 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 XIV. Procuraduría: la Procuraduría para la Defensa del Menor y la Familia.
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Violencia contra las personas adultas mayores: Afectación física o psicológica, que produce un daño o afectación en la persona adulta mayor, en el ámbito público o privado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 4 Bis.
+
+La violencia que puede generarse en contra de las personas adultas mayores, de manera enunciativa y no limitativa, puede expresarse en:
+
+I. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. Violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. Violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+
+IV. Violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. Violencia virtual. También denominada acoso virtual o acoso cibernético; siendo ésta, aquella que se realiza a través de los dispositivos electrónicos de comunicación con el fin intencionado de dañar o agredir a una persona o grupo;
+
+VI. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las personas adultas mayores.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -307,9 +335,11 @@ El Poder Ejecutivo, a través del Instituto garantizará que toda Institución P
 
 Las Instituciones Públicas y Privadas a cargo de Programas sociales para las Personas Adultas Mayores, deberán proporcionar información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las Personas Adultas Mayores.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 12.
 
-Ninguna Persona Adulta Mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su edad, genero, estado físico, creencia religiosa o condición social.
+Ninguna Persona Adulta Mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su edad, género, creencia religiosa, condición social, origen étnico o nacional, discapacidad, salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -425,13 +455,17 @@ XXIII.- Elaborar y promover la responsabilidad individual y colectiva de reconoc
 
 XXIV.- Establecer servicios para las víctimas de malos tratos y procedimientos de rehabilitación para quienes los cometan;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-XXV.- Establecer mecanismos que alienten a profesionales de la salud y servicios sociales y al público en general a que informen al IGATIPAM sobre la existencia de malos tratos a personas de edad, y
+XXV.- Establecer mecanismos que alienten a profesionales de la salud y servicios sociales y al público en general a que informen al IGATIPAM sobre la existencia de malos tratos a personas de edad;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-XXVI.- Fomentar la contratación de personas adultas mayores, a través de incentivos fiscales.
+XXVI.- Fomentar la contratación de personas adultas mayores, a través de incentivos fiscales, y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Fomentar la atención de las personas adultas mayores en centros de atención gerontológica.
 
 ## TITULO QUINTO. DE LAS OBLIGACIONES DE LAS INSTITUCIONES PUBLICAS
 
@@ -447,13 +481,11 @@ En su formulación y ejecución, el Plan Estatal de Desarrollo, deberá ser cong
 
 Corresponde a la Secretaría General de Gobierno garantizar a las Personas Adultas Mayores.
 
-I.- La implementación de los programas necesarios a efecto de promover el empleo para las Personas Adultas Mayores, tanto en el sector público como en el privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos, sin más discriminación que su limitación física o mental;
+I.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+II.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2021)
 
-II.- La Coordinación con las diferentes Secretarías de la Administración Pública estatal, para impulsar programas de autoempleo de acuerdo a su profesión u oficio y a través de apoyos financieros, de capacitación y la creación de redes de comercialización;
-
-III.- La capacitación y financiamiento para autoempleo a través de becas, talleres familiares, bolsas de trabajo oficiales y particulares;
+III.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2021)
 
 IV.- El derecho para acceder con facilidad y seguridad a los servicios y programas que en materia de transporte ejecute el Gobierno Estatal y los Municipales;
 
@@ -464,6 +496,20 @@ VI.- El derecho permanente y en todo tiempo, de obtener descuentos o exenciones 
 VII.- El establecimiento de convenios de colaboración con las instituciones públicas y privadas dedicadas a la comunicación masiva, para la difusión de una cultura de aprecio y respeto hacia las Personas Adultas Mayores, y
 
 VIII.- La asesoría jurídica y legal en materia laboral a través de personal capacitado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 17 Bis.
+
+Corresponde a la Secretaría del Trabajo y Previsión Social garantizar a las personas adultas mayores:
+
+I. La implementación, en coordinación con las diferentes instancias de la administración pública estatal y municipal, de programas para promover el empleo remunerado o auto empleo, tanto en el sector público como en el privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos, disponiendo de los recursos financieros que resulten necesarios;
+
+II. La capacitación y financiamiento para el autoempleo a través de becas, talleres familiares, bolsas de trabajo oficial y particular;
+
+III. La asistencia jurídica cuando decidan retirarse de sus actividades laborales, y
+
+IV. La creación y difusión de programas de orientación cuando deseen retirarse de los centros de trabajo públicos o privados.
 
 ###### Artículo 18.
 
@@ -493,13 +539,31 @@ II.- La promoción para la formulación de programas educativos de licenciatura 
 
 III.- La promoción con las Instituciones de educación superior e investigación científica, para que incluyan a la geriatría en su currícula de medicina y a la gerontología en las demás carreras pertenecientes a las áreas de salud y ciencias sociales;
 
-IV.- La promoción para la inclusión en los planes y programas de estudio de todos los niveles educativos, de contenidos sobre el proceso de envejecimiento;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-V.- El acceso a la cultura, promoviendo su expresión a través de talleres, exposiciones, concursos y eventos comunitarios nacionales e internacionales;
+IV.- La promoción para la inclusión en los planes y programas de estudio de todos los niveles educativos, de contenidos sobre el proceso de envejecimiento, con la inducción de una cultura de respeto a los derechos humanos y de una vida digna de las personas adultas mayores;
+
+V.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2021)
 
 VI.- El fomento entre toda la población estudiantil y el profesorado de una cultura de la vejez de respeto, aprecio y reconocimiento a la capacidad de aportación de las Personas Adultas Mayores, y
 
 VII.- La institución de becas estudiantiles para Personas Adultas Mayores y celebrar convenios de colaboración con Instituciones privadas a fin de que otorguen el mismo beneficio.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 19 Bis.
+
+Corresponde a la Secretaría de Cultura, garantizar a las personas adultas mayores:
+
+I. El acceso a la cultura, promoviendo su expresión a través de talleres, exposiciones, concursos y eventos comunitarios, nacionales e internacionales;
+
+II. El acceso gratuito o con descuentos especiales a eventos culturales que promuevan las instituciones públicas o privadas, previa acreditación de edad;
+
+III. El diseño y operación de programas culturales y concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
+
+IV. El derecho de hacer uso de las bibliotecas públicas que faciliten el préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de persona jubilada o pensionada y/o credencial de persona adulta mayor, y
+
+V. El establecimiento de convenios de colaboración con las instituciones públicas y privadas dedicadas a la comunicación masiva, para la difusión de una cultura de aprecio y respeto hacia las personas adultas mayores.
 
 ###### Artículo 20.
 
@@ -544,6 +608,16 @@ I.- La participación en actividades de atención al turismo, particularmente la
 II.- La promoción de actividades de recreación turística con tarifas preferentes, y
 
 III.- La celebración de convenios con empresas del ramo turístico para ofrecer tarifas especiales y/o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y centros turísticos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+Corresponde a la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial, a través del Instituto de Vivienda y Suelo Urbano de Guerrero, garantizar a las personas adultas mayores:
+
+I. Las acciones necesarias dirigidas a promover programas de vivienda que permitan a (sic) la obtención de vivienda, y
+
+II. El acceso a proyectos de vivienda a las parejas compuestas por personas adultas mayores.
 
 ###### Artículo 22.
 
@@ -779,27 +853,49 @@ II. Un Director General, y
 
 III. Un Comisario Público y las estructuras administrativas que establezca el Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 44.
 
-El Consejo Directivo será la máxima autoridad del Organismo y estará integrado por los siguientes miembros:
+El Consejo Directivo será la máxima autoridad del Organismo y estará integrado por las personas titulares siguientes de:
 
-I. El Secretario de Desarrollo Social, que fungirá como Presidente;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-II. El Secretario de Educación Guerrero;
+I. La Secretaría de Desarrollo y Bienestar Social;
 
-III. El Secretario de Salud;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+II. La Secretaría de Educación Guerrero;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+III. La Secretaría de Salud;
 
 IV. La Secretaría de la Mujer;
 
-V. El Secretario de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-VI. El Contralor General del Estado, y (sic)
+V. La Secretaría de Asuntos Indígenas y Afromexicanos;
 
-VII. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+VI. La Secretaría de Contraloría y Transparencia Gubernamental;
 
-VIII. El Secretario General de Gobierno
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+VII. La Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. La Secretaría General de Gobierno;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+IX. La Secretaría del Trabajo y Previsión Social y,
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+X. La Secretaría de Cultura.
 
 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
@@ -927,9 +1023,11 @@ XI. Las demás que le confieran esta Ley, su Reglamento Interno y otros ordenami
 
 ### CAPITULO III. DEL CONTROL Y EVALUACION
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 54.
 
-El Organismo contará con un Comisario Público. Designado y removido, en su caso, por la Contraloría General del Estado, y actuará como órgano de vigilancia.
+El Organismo contará con un Comisario Público, designado y removido, en su caso, por la Secretaría de Contraloría y Transparencia Gubernamental, y actuará como órgano de vigilancia.
 
 ###### Artículo 55.
 
@@ -939,11 +1037,15 @@ I. Vigilar y Evaluar la operación y funcionamiento del Organismo;
 
 II. Realizar estudios sobre la eficiencia con la que se ejerzan en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos;
 
-III. Solicitar la información y realizar los actos que requiere el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General del Estado le señale;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+III. Solicitar la información y realizar los actos que requiere el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Contraloría y Transparencia Gubernamental, le señale;
 
 IV. Asistir a todas las sesiones del Consejo Directivo con derecho a voz, pero sin voto, y
 
-V. Rendir a la Contraloría General del Estado, un informe bimestral respecto del ejercicio de sus actividades.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+V. Rendir un informe bimestral a la Secretaría de Contraloría y Transparencia Gubernamental, respecto del ejercicio de sus actividades.
 
 ### CAPITULO IV. DEL CONSEJO CIUDADANO DE ADULTOS MAYORES
 
@@ -1031,11 +1133,11 @@ Corresponde a la Secretaría de Educación Guerrero y de Desarrollo Social, ases
 
 Se instituye el Programa "Fomento a la Creación de Organizaciones Productivas" cuyo objeto será el propiciar la organización de las Personas Adultas Mayores en grupos productivos de diferente orden, sobre todo en el ámbito rural.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 68.
 
-Corresponde a las Secretarías de Desarrollo Social y Rural, asesorar para expedir las reglas de operatividad y lineamientos con que deba conducirse el funcionamiento y organización del Programa "Fomento a la Creación de Organizaciones Productivas".
+Corresponde a las Secretarías de Desarrollo y Bienestar Social y de Agricultura, Ganadería, Pesca y Desarrollo Rural, asesorar para expedir las reglas de operatividad y lineamientos con que deba conducirse el funcionamiento y organización del Programa "Fomento a la Creación de Organizaciones Productivas".
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1053,29 +1155,49 @@ El Congreso del Estado aprobará en el Presupuesto de Egresos de cada año a pro
 
 Para la operación del Programa Pensión Guerrero, se crea un Comité Técnico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 72.
 
-El Comité Técnico del Programa de Pensión Guerrero, estará integrado por:
+El Comité Técnico del Programa de Pensión Guerrero, estará integrado por las personas titulares siguientes de:
 
-I. El Secretario de Desarrollo Social, quien lo presidirá;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-II. El Coordinador Estatal de Programas Sociales, que será el Secretario Técnico;
+I. La Secretaría de Desarrollo y Bienestar Social, quien lo presidirá;
 
-III. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-IV. El Secretario de Finanzas y Administración;
+II. La Coordinación Estatal de Programas Sociales, que ocupará el cargo de la Secretaría Técnica;
 
-V. El Secretario de Salud;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-VI. El Contralor General del Estado;
+III. La Secretaría General de Gobierno;
 
-VII. El Coordinador del Sistema Estatal del Registro Civil;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
+IV. La Secretaría de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+V. La Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+VI. La Secretaría de Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+VII. La Coordinación del Sistema Estatal del Registro Civil;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. La Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 IX. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2012)
 
-X. El Presidente de la Comisión de Desarrollo Social del Congreso del Estado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
+
+X. La Presidencia de la Comisión de Desarrollo y Bienestar Social del Congreso del Estado;
 
 XI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2012)
 
@@ -1241,11 +1363,11 @@ Corresponde a la Procuraduría de Defensa del Menor y la Familia del Estado, con
 
 La Procuraduría dispondrá de un plazo no mayor de cinco días para realizar las investigaciones pertinentes y hasta 30 días para resolver sobre su procedencia.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 91.
 
-Para determinar si la persona adulta mayor ha sido víctima de abandono, desamparo, marginación, abuso, explotación o maltrato, la Procuraduría se auxiliará, con la práctica de los exámenes médicos o psicológicos que sean necesarios, debiendo solicitar el auxilio y colaboración de la Dirección de Servicios Periciales de la Procuraduría General de Justicia del Estado.
+Para determinar si la persona adulta mayor ha sido víctima de abandono, desamparo, marginación, abuso, explotación o maltrato, la Procuraduría se auxiliará, con la práctica de los exámenes médicos o psicológicos que sean necesarios, debiendo solicitar el auxilio y colaboración de la Dirección de Servicios Periciales de la Fiscalía General del Estado.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1378,3 +1500,13 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Túrnese al Titular del Ejecutivo Estatal, para su conocimiento y efectos legales procedentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en el Portal Oficial del Congreso del Estado para su conocimiento general.
+
+P.O. 10 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 844 POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 375, DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto hágase del conocimiento del Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página oficial del Honorable Congreso del Estado de Guerrero, para su conocimiento general y efectos legales procedentes.
