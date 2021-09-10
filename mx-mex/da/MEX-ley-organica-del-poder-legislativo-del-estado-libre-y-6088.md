@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2021-08-27"
+last_updated: "2021-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -757,9 +757,9 @@ III.- Apoyar en el desarrollo de sus trabajos a las comisiones y comités;
 
 IV.- Supervisar la edición del "Diario de Debates" y de la "Gaceta Parlamentaria";
 
-> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2021)</small>
 
-V.- Proponer a la Asamblea la designación del Auditor Superior, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto (sic) Estudios Legislativos; asimismo, informar sobre la renuncia, remoción o licencia de éstos.
+V.- Proponer a la Asamblea la designación del Auditor Superior, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Director General del Instituto de Estudios Legislativos; asimismo, informar sobre la renuncia, remoción o licencia de éstos;
 
 VI.- Establecer las bases para la elaboración y aplicación del presupuesto anual del Poder Legislativo;
 
@@ -2410,3 +2410,23 @@ Los expedientes que se encuentren actualmente en trámite, en términos del acue
 ###### ARTÍCULO QUINTO.
 
 Se abroga el Reglamento Interno de la Contraloría del Poder Legislativo del Estado Libre y Soberano de México publicado mediante decreto 231, del veintiuno de junio de dos mil seis.
+
+G.G. 10 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 330.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 177, Y SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 177, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 1, LA FRACCIÓN I, II, III Y V DEL ARTÍCULO 4, LOS ARTÍCULOS 5, 6, 8, EL PRIMER PÁRRAFO Y LAS FRACCIONES IV, V, VI, VIII, IX Y XI DEL ARTÍCULO 10, LAS FRACCIONES I Y III DEL ARTÍCULO 11, LOS ARTÍCULOS 12, 13 Y 14, LA FRACCIÓN XIV DEL ARTÍCULO 16, EL CUARTO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 19, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21, EL PRIMER PÁRRAFO DEL ARTÍCULO 22, LOS ARTÍCULOS 24 Y 25 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 26; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1, LAS FRACCIONES XII, XIII, XIV, XV Y XVI AL ARTÍCULO 10, LA FRACCIÓN IV AL ARTÍCULO 11, Y SE DEROGAN EL ARTÍCULO 9, LA FRACCIÓN III DEL ARTÍCULO 10, Y EL ARTÍCULO 20, DEL REGLAMENTO INTERNO DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los órganos de dirección del Instituto de Estudios Legislativos, continuarán funcionando con las denominaciones correspondientes, en todo lo que no contravengan a este reglamento.
