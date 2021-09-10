@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2021-08-27"
+last_updated: "2021-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2021.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -2219,19 +2219,37 @@ El Instituto de Estudios Legislativos, es un órgano administrativo del Poder Le
 
 El Instituto sin exclusión de otros propósitos, clasificará la información que en su caso suministra el Congreso de la Unión y los estatales, realizando investigaciones sobre los temas que atañen al Estado de México.
 
-> <small>(ADICIONADO, G.G. 30 ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 177.
 
-Para ser Vocal Ejecutivo del Instituto de Estudios Legislativos de la Legislatura, se requiere:
+Para ser Director General del Instituto de Estudios Legislativos de la Legislatura, se requiere:
 
 I. (DEROGADA, G.G. 20 DE DICIEMBRE DE 2016)
 
+> <small>(ADICIONADA, G.G. 30 ABRIL DE 2004)</small>
+
 II. Poseer título profesional de licenciatura; preferentemente, tener estudios de postgrado y experiencia en la investigación de asuntos en materia pública o social;
+
+> <small>(ADICIONADA, G.G. 30 ABRIL DE 2004)</small>
 
 III. Ser designado por el pleno de la Legislatura, a propuesta de la Junta de Coordinación Política contando con la aprobación del Comité de Estudios Legislativos;
 
+> <small>(ADICIONADA, G.G. 30 ABRIL DE 2004)</small>
+
 IV. Ser mexiquense, en los términos de lo establecido por el artículo 23 de la Constitución Política del Estado Libre y Soberano de México.
+
+> <small>(ADICIONADA, G.G. 10 DE SEPTIEMBRE DE 2021)</small>
+
+V. No estar condenado por sentencia que haya causado ejecutoria, por delito doloso que amerite pena privativa de libertad, ni estar inhabilitado para ejercer cargo público;
+
+> <small>(ADICIONADA, G.G. 10 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Ser mayor de treinta años de edad; y
+
+> <small>(ADICIONADA, G.G. 10 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Tener un mínimo de dos años de experiencia en la actividad a desarrollar.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2819,15 +2837,25 @@ Los expedientes que se encuentren actualmente en trámite, en términos del acue
 
 Se abroga el Reglamento Interno de la Contraloría del Poder Legislativo del Estado Libre y Soberano de México publicado mediante decreto 231, del veintiuno de junio de dos mil seis.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 472 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499; LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO Y LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE GUERRERO NÚMERO 280, EN MATERIA DE VIOLENCIA VICARIA”.]
+G.G. 10 DE SEPTIEMBRE DE 2021.
 
-PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 330.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 177, Y SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 177, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 1, LA FRACCIÓN I, II, III Y V DEL ARTÍCULO 4, LOS ARTÍCULOS 5, 6, 8, EL PRIMER PÁRRAFO Y LAS FRACCIONES IV, V, VI, VIII, IX Y XI DEL ARTÍCULO 10, LAS FRACCIONES I Y III DEL ARTÍCULO 11, LOS ARTÍCULOS 12, 13 Y 14, LA FRACCIÓN XIV DEL ARTÍCULO 16, EL CUARTO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 19, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21, EL PRIMER PÁRRAFO DEL ARTÍCULO 22, LOS ARTÍCULOS 24 Y 25 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 26; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1, LAS FRACCIONES XII, XIII, XIV, XV Y XVI AL ARTÍCULO 10, LA FRACCIÓN IV AL ARTÍCULO 11, Y SE DEROGAN EL ARTÍCULO 9, LA FRACCIÓN III DEL ARTÍCULO 10, Y EL ARTÍCULO 20, DEL REGLAMENTO INTERNO DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
+###### ARTÍCULO PRIMERO.
 
-TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 12 DE MARZO DE 2024.
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los órganos de dirección del Instituto de Estudios Legislativos, continuarán funcionando con las denominaciones correspondientes, en todo lo que no contravengan a este reglamento.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
 
