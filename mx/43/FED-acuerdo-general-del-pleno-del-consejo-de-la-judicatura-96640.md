@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2021-08-24"
+last_updated: "2021-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -759,9 +759,13 @@ XV. Coordinar con la Comisión de Administración las acciones para que los magi
 
 XVI. Remitir al Pleno, las propuestas de publicaciones del Consejo en términos de la normativa que aquél emita;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA PERICIAL, D.O.F. 10 DE SEPTIEMBRE DE 2021)</small>
 
-XVII. Aprobar la Lista anual de las personas que puedan fungir como peritos ante los órganos del Poder Judicial de la Federación;
+XVII. Aprobar las convocatorias y la lista anual de personas que puedan fungir como peritos antes (sic) los órganos del Poder Judicial de la Federación;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA PERICIAL, D.O.F. 10 DE SEPTIEMBRE DE 2021)</small>
+
+XVII Bis. Aprobar las convocatorias para la celebración de los concursos, así como las listas de ganadoras y ganadores para la selección de los peritos que sean adscritos a la Unidad de Peritos Judiciales;
 
 XVIII. Coordinar y supervisar el funcionamiento del Instituto de la Judicatura Federal;
 
@@ -2443,35 +2447,45 @@ La Unidad de Peritos Judiciales es un área técnica especializada en materia pe
 
 El titular de la Unidad de Peritos Judiciales será propuesto por el Presidente y designado por el Pleno.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA PERICIAL, D.O.F. 10 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 98 Decies.
 
 La persona titular de la Unidad de Peritos Judiciales tendrá las atribuciones siguientes:
 
-I. Elaborar y someter a consideración del Pleno del Consejo de la Judicatura Federal, las convocatorias para la celebración de concursos para la selección de peritos;
+I. Presentar y someter a consideración de la Comisión de Carrera Judicial, las convocatorias para la celebración de concursos para la selección de los peritos que serán adscritos a la Unidad de Peritos Judiciales;
 
-II. Integrar el jurado de los concursos para la selección de peritos;
+II. Presidir y coordinar la integración del jurado de los concursos para la selección de peritos;
 
-III. Establecer los mecanismos, lineamientos y logística para la celebración de los concursos de selección;
+III. Establecer los lineamientos para la celebración de los concursos de selección de peritos;
 
-IV. Recibir y analizar las solicitudes de las y los aspirantes durante el plazo que determine la convocatoria, y verificar que sean ciudadanos mexicanos, gocen de buena reputación y conozcan la ciencia, arte u oficio sobre el que verse la convocatoria, conforme a lo previsto en el artículo 102 Ter 2, de la Ley;
+IV. Presentar y someter a consideración de la Comisión de Carrera Judicial, las convocatorias para la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación;
 
-V. Designar al personal que otorgará el auxilio específico a los tribunales laborales federales, en términos de lo dispuesto en la normativa aplicable;
+V. Presentar y someter a consideración de la Comisión de Carrera Judicial la lista anual de las personas que puedan fungir como peritos ante los órganos del Poder Judicial de la Federación; así como la de ganadoras y ganadores que sean adscritos a la Unidad de Peritos Judiciales;
 
-VI. Emitir los criterios y lineamientos para la presentación y formulación de los dictámenes e informes periciales que se rindan ante los tribunales laborales federales;
+VI. Coordinar las actividades que resulten necesarias para la recepción y análisis de las solicitudes para la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, de las y los aspirantes durante el plazo que determine la convocatoria, conforme la normativa aplicable;
 
-VII. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Unidad; así como los mecanismos para realizar una evaluación anual, a efecto de determinar su continuidad;
+VII. Auxiliar a los Tribunales Laborales Federales en el ejercicio de sus funciones respecto a la designación de los peritos en términos de lo dispuesto en la normativa aplicable;
 
-VIII. Supervisar la intervención de los peritos en las diversas especialidades;
+VIII. Establecer los lineamientos para la presentación y formulación de los dictámenes e informes periciales que se rindan ante los Tribunales Laborales Federales;
 
-IX. Formular el Programa Anual de Trabajo de la unidad administrativa a su cargo y someterlo a la consideración de su superior jerárquico; y
+IX. Diseñar los programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Unidad de Peritos Judiciales; así como los mecanismos para realizar una evaluación quinquenal de los mismos, a efecto de determinar su continuidad;
 
-X. Las demás que establezcan el Pleno y las Comisiones.
+X. Auxiliar y supervisar la intervención de los peritos que presten sus servicios a los Tribunales Laborales Federales, en las diversas especialidades;
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
+XI. Fomentar la capacitación permanente de los peritos, así como, realizar las acciones inherentes para su seguimiento y verificación;
 
-Artículo 98 Undecies. De conformidad con lo dispuesto en el artículo 102 Ter 2 de la Ley, para ser perito de la Unidad de Peritos Judiciales se requiere poseer la ciudadanía mexicana, gozar de buena reputación, así como conocer la ciencia, arte u oficio sobre el que vaya a versar el peritaje y acreditar su pericia mediante examen que presentará ante un jurado que designe el Consejo, con la cooperación de instituciones públicas o privadas que a juicio del propio Consejo cuenten con la capacidad para ello. La decisión del jurado será irrecurrible.
+XII. Suscribir, previo dictamen de la Dirección General de Asuntos Jurídicos, los convenios de colaboración con dependencias o instituciones públicas o privadas a fin de facilitar a los órganos jurisdiccionales el acceso a diversas especialidades periciales para el ejercicio de sus funciones jurisdiccionales conforme a la normativa aplicable, o bien para el auxilio en los procedimientos de selección de los peritos que se adscriban a la Unidad de Peritos Judiciales;
+
+XIII. Solicitar a la Secretaría Ejecutiva de Administración la contratación de los servicios de personas físicas o morales, para la elaboración de pruebas, análisis o estudios especializados necesarios en la emisión de los dictámenes periciales que se rindan ante los Tribunales Laborales Federales;
+
+XIV. Formular el Programa Anual de Trabajo de la unidad administrativa a su cargo y someterlo a la consideración de su superior jerárquico; y
+
+XV. Las demás que establezcan el Pleno y las Comisiones.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA PERICIAL, D.O.F. 10 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 98 Undecies. De conformidad con lo dispuesto en el artículo 103 de la Ley, para ser perito o perita de la Unidad de Peritos Judiciales se requiere poseer la ciudadanía mexicana, gozar de buena reputación, así como conocer la ciencia, arte u oficio sobre el que vaya a versar el peritaje y acreditar su pericia mediante examen que presentará ante un jurado que designe el Consejo, con la cooperación de instituciones públicas o privadas que a juicio del propio Consejo cuenten con la capacidad para ello. La decisión del jurado será irrecurrible.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
@@ -3695,9 +3709,7 @@ XXI. Intervenir, en el ámbito de su competencia, en el desahogo de acciones rel
 
 XXII. Rendir por sí o por conducto de los secretarios técnicos adscritos a la Dirección General de Asuntos Jurídicos, los informes previos y justificados en los juicios de amparo promovidos en contra del Consejo, del Presidente, de los Consejeros, y de las unidades administrativas que lo integran, así como de sus órganos auxiliares, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-XXIII. Elaborar la propuesta de integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación; y demás atribuciones que en materia pericial le confiere el Acuerdo General aplicable; y
+XXIII. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA PERICIAL, D.O.F. 10 DE SEPTIEMBRE DE 2021)
 
 XXIV. Las demás que establezcan el Pleno y las Comisiones.
 
@@ -6520,3 +6532,13 @@ D.O.F. 24 DE AGOSTO DE 2021.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA PERICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Los procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo deberán concluirse conforme a la normativa vigente al momento de su inicio.
