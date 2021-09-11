@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2019-08-24"
+last_updated: "2021-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -161,9 +161,27 @@ Los extranjeros casados o que contraigan matrimonio o vivan en concubinato, domi
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 9.
 
-El Registro Civil es la institución de carácter público y de interés social, por la cual el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas físicas o individuales en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del Estado; así como la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o la pérdida de la capacidad para administrar bienes, y los demás actos que así lo exijan las leyes.
+El Registro Civil es la institución de carácter público y de interés social, a través de la cual el Estado garantiza el derecho a la identidad e inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas físicas o individuales en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del Estado; así como la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o la pérdida de la capacidad para administrar bienes, y los demás actos que así lo exijan las leyes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Estado de Zacatecas, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias ordenadas por los jueces familiares y tribunales o establecidas por convenio judicial.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 9 BIS.- El Oficial del Registro Civil expedirá las constancias de identidad como documento de identificación personal, previa solicitud del interesado y cumpliendo los requisitos previstos en el reglamento de la Dirección del Registro Civil.
+
+Se entiende por identidad al conjunto de características o elementos que distinguen a un individuo y lo hacen único frente a los demás, y que forman parte de los atributos de la personalidad establecidos en el artículo 24 del Código Civil del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 9 TER.- El registro expedirá una constancia donde informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+
+El Oficial del Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote la constancia en los folios reales de que sea propietario el deudor alimentario moroso.
 
 ###### ARTICULO 10.
 
@@ -186,6 +204,14 @@ En el asentamiento de las actas del Registro Civil, intervendrán: el Oficial en
 ###### ARTICULO 14.
 
 Las actas del Registro Civil se referirán exclusivamente a los hechos y circunstancias concernientes al estado civil de las personas, establecerán el principio o la extinción de la vida jurídica y acreditarán las relaciones a que se refiere el artículo 9° de esta ley.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Las constancias de identidad son los documentos expedidos por las Oficialías del Registro Civil establecidas en los municipios, a través de los formatos expedidos por la misma, a las personas inscritas en los libros de las oficialías del registro civil o en aquellos de la propia Dirección, previa la solicitud del interesado.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Las constancias de identidad son actos declarativos.
 
 ###### ARTICULO 15.
 
@@ -303,11 +329,33 @@ El médico o partera que atienda un alumbramiento estará obligado a notificar, 
 
 El Oficial del Registro Civil, en cuanto reciba la notificación a que se refiere el párrafo anterior, levantará la constancia respectiva en un libro sellado y foliado que se llevará para tales efectos, y citará, con apercibimiento de sanción, a los progenitores cuyos datos le hubieren sido comunicados. Si ninguno de ellos compareciese dentro de los noventa días siguientes a la fecha del nacimiento, se dará aviso al Consejo de Familia del Distrito Judicial que corresponda, a fin de que se procure la localización del menor y de los padres omisos y se tomen las medidas que en cada caso se requieran para que no resulten perjuicios a los derechos del menor.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 37.
 
-El acta de nacimiento contendrá la hora, dia, mes, año y lugar en que ocurrió, así como el sexo, la impresión digital del pulgar derecho o, en su caso, del pie derecho en su integridad sin que por motivo alguno pueda omitirse. Igualmente se asentará si es presentado vivo o muerto; nombre, edad, domicilio, estado civil y nacionalidad de los padres, de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta a los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento contendrá:
+
+I. Hora, día, mes, año y lugar del nacimiento;
+
+II. El sexo de la persona presentada;
+
+III. Nombre propio;
+
+IV. Apellidos de los progenitores en el orden de prelación que acuerden; el orden elegido deberá mantenerse para todos los hijos de la misma filiación, si es diferente al acostumbrado, deberá establecerse como nota marginal en el acta.
+
+Cuando no haya acuerdo entre los progenitores, el Oficial del Registro Civil deberá especificar expresamente el orden de los apellidos, atendiendo al interés superior del menor;
+
+V. La razón de si el registrado se ha presentado vivo o muerto;
+
+VI. La impresión digital del pulgar derecho o, en su caso, del pie derecho en su integridad sin que por motivo alguno pueda omitirse;
+
+VII. Nombre, edad, domicilio, estado civil y nacionalidad de los padres, de los abuelos paternos y maternos, y
+
+VIII. El nombre, edad, domicilio y nacionalidad de los testigos.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Si la presentación la realiza una persona distinta a los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
@@ -501,9 +549,13 @@ III. La declaración de dos testigos mayores de edad, que conozcan a los pretend
 
 IV. Un certificado médico expedido por institución oficial, en el que haga constar que los pretendientes no padecen alguna enfermedad contagiosa, crónica o incurable;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
-V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. Los términos en que se determinen los derechos y obligaciones objeto del convenio, podrán establecerse como resultado de un procedimiento de mediación familiar. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal, el de separación de bienes o el régimen mixto. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejar de presentarse este convenio aún so pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio;
+V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. Los términos en que se determinen los derechos y obligaciones objeto del convenio, podrán establecerse como resultado de un procedimiento de mediación familiar. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal, el de separación de bienes o el régimen mixto. No puede dejar de presentarse este convenio aún so pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio.
+
+... (SIC)
+
+... (SIC)
 
 VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los cónyuges es viudo; o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en el caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
@@ -627,7 +679,13 @@ III. Los nombres de los padres del difunto;
 
 IV. La causa o motivo que determinó la muerte, el destino del cadáver, nombre y ubicación del panteón o crematorio;
 
-V. La hora, día, mes, año y lugar de la muerte y todos los informes que se tengan en caso de muerte violenta;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+V. La hora, día, mes, año y lugar de la muerte y todos los informes que se tengan en caso de muerte violenta.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Si la causa fue por feminicidio o violencia familiar, determinada por sentencia firme, el Juez lo hará del conocimiento del Registro Civil para la anotación marginal correspondiente y lo informará al Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, será obligación del Juez remitirlo al Oficial del Registro Civil;
 
 VI. Nombre, apellidos, número de cédula profesional y domicilio del médico que certifica la defunción;
 
@@ -667,13 +725,37 @@ El Jefe de cualquier puesto o destacamento militar tiene la obligación de dar p
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO OCTAVO. CONSTANCIAS DE IDENTIDAD
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 92 BIS.- Las personas que requieran obtener una constancia de identidad, deberán realizar la solicitud ante la Oficialía del Registro Civil del municipio en donde se encuentre inscrito el hecho de su nacimiento.
+
+Los requisitos para la emisión de la constancia de identidad se establecerán en el Reglamento de la Dirección del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 92 TER.- Las constancias de identidad deberán contener lo siguiente:
+
+I. Los datos de inscripción del nacimiento del solicitante asentados en el acta del Registro Civil correspondiente, como son: nombre, fecha y lugar de nacimiento, fecha de registro, nombre del Oficial del Registro Civil;
+
+II. Nombre de los padres;
+
+III. Nombre de las personas que fungen como testigos para la emisión de la constancia, quienes deberán exhibir identificación oficial;
+
+IV. El domicilio actual de la persona a favor de la cual se expide la constancia, y
+
+V. Fotografía tamaño pasaporte cancelada con el sello de la Oficialía del Registro Civil del municipio correspondiente.
+
+Las constancias de identidad contendrán la firma del titular de la Oficialía del Registro Civil del municipio en donde se tramite, la del solicitante si comparece personalmente o la de su representante legal, y la de los testigos respectivos; en caso de que alguno de ellos no pudiere hacerlo, se asentará tal circunstancia.
+
+Los comparecientes podrán ser sujetos de responsabilidad penal, en el caso de que incurran en falsedad en sus declaraciones.
 
 ## TITULO CUARTO. DE LA INSCRIPCION DE LAS EJECUTORIAS JUDICIALES RELATIVAS A LA INCAPACIDAD LEGAL DE ADMINISTRAR BIENES, A LA AUSENCIA O PRESUNCION DE MUERTE
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 93.
 
@@ -729,9 +811,9 @@ La aclaración de las actas del estado civil procede cuando en el registro exist
 
 ## TITULO PRIMERO. GENERALIDADES DEL MATRIMONIO
 
-### CAPITULO SEGUNDO. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 100.
 
@@ -757,7 +839,9 @@ El Estado establece el matrimonio como uno de los medios morales reconocidos por
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-### CAPITULO TERCERO. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
+### CAPITULO SEGUNDO. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 106.
 
@@ -766,6 +850,18 @@ Para contraer matrimonio es necesario que ambos contrayentes sean mayores de eda
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 También es requisito para contraer matrimonio, la asistencia previa de los interesados a los cursos de orientación prematrimonial con perspectiva de género, que lleven a cabo las Oficialías del Registro Civil correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Declaración de ambos contrayentes, bajo protesta de decir verdad, de no haber sido sentenciados por violencia familiar.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Comprobante de que ninguno de los contrayentes se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de que alguno lo hubiere sido, o se encuentra en el registro mencionado en el párrafo anterior, será necesario que el otro entregue al Oficial del Registro Civil una declaración firmada en la que manifieste conocer tal situación y que, a pesar de ello, mantiene su voluntad de contraer matrimonio.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
@@ -799,9 +895,7 @@ Las Oficialías del Registro Civil podrán celebrar los convenios de colaboraci�
 
 (DEROGADO, P.O. 29 DE MARZO DE 2017)
 
-### CAPITULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO TERCERO. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
 
 ###### ARTICULO 114.
 
@@ -819,7 +913,7 @@ III. El parentesco de consanguinidad legítima o natural, sin limitación de gra
 
 IV. El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2021)
 
 VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
@@ -865,13 +959,9 @@ Tratándose de zacatecanos que se casan en el extranjero, dentro de tres meses d
 
 Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá efectos desde el día en que se hizo la transcripción.
 
-### CAPITULO QUINTO
+### CAPITULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
-DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES.
-
-DISPOSICIONES GENERALES
-
-DE LOS REGIMENES PATRIMONIALES, MATRIMONIALES Y CONCUBINARIOS
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 120.
 
@@ -971,7 +1061,13 @@ El contrato de compraventa podrá celebrarse entre los cónyuges, cuando el matr
 
 Los cónyuges durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
-### CAPITULO SEXTO. DE LA SOCIEDAD CONYUGAL
+### CAPITULO QUINTO
+
+DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES.
+
+DISPOSICIONES GENERALES
+
+DE LOS REGIMENES PATRIMONIALES, MATRIMONIALES Y CONCUBINARIOS
 
 ###### ARTICULO 135.
 
@@ -1045,7 +1141,7 @@ Las disposiciones generales contenidas en este Capítulo son aplicables en lo co
 
 Si los cónyuges celebraron su matrimonio fuera del Estado de Zacatecas, pero dentro de la República, y adquieren bienes ubicados en el Estado de Zacatecas, la propiedad y administración de estos bienes, estén los consortes domiciliados o no en territorio del Estado, se regirán por lo que dispongan las capitulaciones expresas; o, en su defecto, por las disposiciones de este Código.
 
-### CAPITULO SEPTIMO. DE LA SEPARACION DE BIENES
+### CAPITULO SEXTO. DE LA SOCIEDAD CONYUGAL
 
 ###### ARTICULO 149.
 
@@ -1153,7 +1249,7 @@ Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y admi
 
 Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes se regirá por lo que dispone el Código de Procedimientos Civiles.
 
-### CAPITULO OCTAVO. DE LAS DONACIONES ANTENUPCIALES
+### CAPITULO SEPTIMO. DE LA SEPARACION DE BIENES
 
 ###### ARTICULO 164.
 
@@ -1203,7 +1299,7 @@ El marido y la mujer que ejerzan la patria potestad se dividirán entre sí por 
 
 El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
-### CAPITULO NOVENO. DE LAS DONACIONES ENTRE CONSORTES
+### CAPITULO OCTAVO. DE LAS DONACIONES ANTENUPCIALES
 
 ###### ARTICULO 175.
 
@@ -1237,13 +1333,13 @@ Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
 Las donaciones antenupciales no son revocables por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a los dos prometidos y que ambos sean ingratos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 180.
 
-Las donaciones antenupciales son revocables cuando, durante el matrimonio el donatario cometa adulterio, violencia familiar, abandono de las obligaciones alimentarias u otras que a juicio del Juez de lo Familiar causen perjuicio al donante o a sus hijos.
+Las donaciones antenupciales son revocables cuando, durante el matrimonio el donatario cometa violencia familiar, abandono de las obligaciones alimentarias, sostenga relaciones sexuales con persona distinta a su cónyuge u otras que a juicio del Juez de lo Familiar causen perjuicio al donante o a sus hijos.
 
-### CAPITULO DECIMO. DE LOS MATRIMONIOS NULOS
+### CAPITULO NOVENO. DE LAS DONACIONES ENTRE CONSORTES
 
 ###### ARTICULO 181.
 
@@ -1265,7 +1361,7 @@ IV. La donación entre consortes se perfecciona con la muerte del donante o cuan
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO DECIMO PRIMERO. DEL DIVORCIO
+### CAPITULO DECIMO. DE LOS MATRIMONIOS NULOS
 
 ###### ARTICULO 183.
 
@@ -1307,9 +1403,7 @@ La acción que nace de esta clase de nulidad y la que dimana del parentesco de a
 
 ###### ARTICULO 191.
 
-La acción de nulidad que nace del adulterio habido entre las personas que pretendan contraer matrimonio, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si éste matrimonio se ha disuelto por muerte del cónyuge ofendido.
-
-En uno y en otro casos, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2021)
 
 ###### ARTICULO 192.
 
@@ -1399,7 +1493,7 @@ Declarada la nulidad del matrimonio, se observarán respecto de las donaciones a
 
 I. Las hechas por un tercero a los cónyuges, podrán ser revocadas;
 
-II. Las que haga el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueren objeto de ellas se devolverán al donante con todos sus productos;
+II. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2021)
 
 III. Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
 
@@ -1417,7 +1511,7 @@ Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomar�
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-### CAPITULO DECIMO SEGUNDO
+### CAPITULO DECIMO PRIMERO. DEL DIVORCIO
 
 ###### ARTICULO 212.
 
@@ -1495,13 +1589,13 @@ En los procedimientos de divorcio el Juez, de oficio, deberá tomar las medidas 
 
 Ejecutoriada una sentencia de divorcio, el Juez que lo decretó remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas a este efecto.
 
-### CAPITULO DECIMO TERCERO. REGLAS GENERALES APLICABLES AL DIVORCIO
+### CAPITULO DECIMO SEGUNDO
 
 #### SECCION PRIMERA. DEL DIVORCIO VOLUNTARIO
 
 ###### ARTICULO 223.
 
-El divorcio por mutuo consentimiento no procede sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2021)
 
 ###### ARTICULO 224.
 
@@ -1553,33 +1647,7 @@ Si el convenio no fuere aprobado, no podrá decretarse el divorcio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)</small>
 
-### CAPITULO DECIMO TERCERO BIS. DIVORCIO INCAUSADO
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
-
-ARTICULO 240 BIS.- El divorcio incausado podrá solicitarse por uno de los cónyuges ante el Juez competente, sin que sea necesario señalar la causa por el cual lo solícita.
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
-
-ARTICULO 240 TER.- El cónyuge promovente del divorcio deberá acompañar a su solicitud, una propuesta de convenio que deberá contener los siguientes requisitos:
-
-I. La designación del progenitor que tendrá la guarda y custodia de los hijos;
-
-II. El modo de costear las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
-
-III. Designación del cónyuge que hará uso del domicilio conyugal y del menaje;
-
-IV. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta su liquidación, así como la forma de liquidarla. Para ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad conyugal, las capitulaciones matrimoniales y el proyecto de partición;
-
-V. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la indemnización en los términos de este Código, el Juez resolverá atendiendo las circunstancias especiales de cada caso, y
-
-VI. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos.
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
-
-ARTICULO 240 QUATER.- El Juez está obligado a suplir la deficiencia de las partes en el convenio propuesto.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+### CAPITULO DECIMO TERCERO. REGLAS GENERALES APLICABLES AL DIVORCIO
 
 ###### ARTICULO 231.
 
@@ -1665,13 +1733,41 @@ En virtud del divorcio los cónyuges recobrarán su entera capacidad para contra
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
+### CAPITULO DECIMO TERCERO BIS. DIVORCIO INCAUSADO
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 BIS.- El divorcio incausado podrá solicitarse por uno de los cónyuges ante el Juez competente, sin que sea necesario señalar la causa por el cual lo solícita.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 TER.- El cónyuge promovente del divorcio deberá acompañar a su solicitud, una propuesta de convenio que deberá contener los siguientes requisitos:
+
+I. La designación del progenitor que tendrá la guarda y custodia de los hijos;
+
+II. El modo de costear las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+
+III. Designación del cónyuge que hará uso del domicilio conyugal y del menaje;
+
+IV. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta su liquidación, así como la forma de liquidarla. Para ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad conyugal, las capitulaciones matrimoniales y el proyecto de partición;
+
+V. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la indemnización en los términos de este Código, el Juez resolverá atendiendo las circunstancias especiales de cada caso, y
+
+VI. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 240 QUATER.- El Juez está obligado a suplir la deficiencia de las partes en el convenio propuesto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+
 ### CAPITULO DECIMO TERCERO TER. DIVORCIO ADMINISTRATIVO
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ARTICULO 240 QUINQUIES.- Se entiende por divorcio administrativo, cuando ambos cónyuges convengan en divorciarse, y cubran todos los siguientes requisitos:
 
-I. Sean mayores de edad;
+I. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -1698,8 +1794,6 @@ ARTICULO 240 OCTIES.- Para el caso que los solicitantes del divorcio administrat
 ### CAPITULO DECIMO CUARTO. DEL CONCUBINATO
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-### CAPITULO PRIMERO. DEL PARENTESCO
 
 ###### ARTICULO 241.
 
@@ -1733,7 +1827,7 @@ La concubina no tiene derecho a usar el apellido del concubino, aun cuando los h
 
 ## TITULO SEGUNDO
 
-### CAPITULO SEGUNDO. DE LOS ALIMENTOS
+### CAPITULO PRIMERO. DEL PARENTESCO
 
 ###### ARTICULO 245.
 
@@ -1787,37 +1881,7 @@ En la línea recta los grados se cuentan por el número de generaciones, o por e
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
 
-### CAPITULO TERCERO. DE LA VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-###### ARTICULO 283 Bis.
-
-Por violencia familiar se considera todo acto u omisión intencional, aislado o reiterado, dirigido a dominar, someter, controlar o agredir, de manera mediante el uso de la fuerza verbal, física o psicológica, así como omisiones graves que se ejercen contra cualquier miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicológica, sexual, económica o patrimonial; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Los tipos de violencia familiar son los siguientes:
-
-I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas.
-
-II. Violencia Psicológica: Comportamiento consistente en acciones u omisiones reiteradas, cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, sevicia, humillaciones, celotipia, conductas de abandono, así como omisiones, que provoquen en quien las recibe, depresión o menoscabo, detrimento, disminución o afectación en la autoestima o la inteligencia emocional.
-
-III. Violencia Sexual: Conducta consistente en la agresión física o con intimidación u hostigamiento, para obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor, con independencia que el generador de dicha violencia guarde o no relación conyugal, de pareja, afectiva o de parentesco con los receptores de la violencia familiar.
-
-Se entenderá asimismo como violencia sexual, la mutilación genital, y la violencia contra los derechos sexuales y reproductivos, la cual consiste en cualquier acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud sexual y reproductiva, o afecte el ejercicio de la libertad sexual;
-
-IV. Violencia contra los derechos sexuales y reproductivos: Cualquier tipo de actuación que impida, o restrinja el libre ejercicio del derecho a la salud reproductiva de cualquier integrante de la familia y por tanto, afecte a la libertad para disfrutar de una vida sexual satisfactoria y sin riesgos para la salud, a la libertad para acceder o no a servicios de atención a la salud sexual y reproductiva, a los anticonceptivos y para ejercer o no el derecho a la paternidad o maternidad responsable;
-
-V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
-
-VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
-
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la libertad, dignidad o integridad de la familia.
-
-Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-###### ARTICULO 283 Ter.
-
-También se consideran acciones de violencia familiar las previstas en este artículo, aún cuando el agresor y la víctima no habiten en el mismo domicilio, pero tengan o hayan tenido relación de parentesco, ya sea por consanguinidad, afinidad, adopción, matrimonio, concubinato u otra relación afín, o que convivan o que hayan convivido en el mismo domicilio y estén sujetos a patria potestad, tutela, guarda, protección, educación, cuidado, custodia, o que mantengan o hayan mantenido una relación afectiva, aún cuando no compartan el mismo domicilio.
+### CAPITULO SEGUNDO. DE LOS ALIMENTOS
 
 ###### ARTICULO 255.
 
@@ -1899,6 +1963,18 @@ Respecto de los menores, los alimentos comprenden, además, los gastos necesario
 
 El obligado a dar alimentos cumple la obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso. El Juez de lo Familiar ordenará al Oficial de Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando los datos de identificación del deudor alimentario que obren en el expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+El deudor alimentario moroso que acredite ante el Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+El Oficial del Registro Civil cancelará las inscripciones a que se refiere el segundo párrafo previa orden judicial.
+
 ###### ARTICULO 268.
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
@@ -1959,9 +2035,13 @@ En los casos en que los que ejerzan la patria potestad gocen de la mitad del usu
 
 Cesa la obligación de dar alimentos:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
-I. Cuando el que la tiene carece de medios para cumplirla y lo prueba mediante proceso jurisdiccional;
+I. Cuando el obligado se encuentre impedido física o mentalmente para desempeñar una actividad productiva remunerada y carece de bienes o ingresos para soportarla.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+El impedimento físico o mental debe ser judicialmente declarado;
 
 II. Cuando el alimentista deje de necesitar los alimentos;
 
@@ -1993,17 +2073,105 @@ Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimie
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2006)</small>
 
-### CAPITULO PRIMERO. DE LA PATERNIDAD Y FILIACION
-
-### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
+### CAPITULO TERCERO. DE LA VIOLENCIA FAMILIAR
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 283 BIS.- Por violencia familiar se considera todo acto u omisión intencional, aislado o reiterado, dirigido a dominar, someter, controlar o agredir, de manera mediante el uso de la fuerza verbal, física o psicológica, así como omisiones graves que se ejercen contra cualquier miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicológica, sexual, económica o patrimonial; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Los tipos de violencia familiar son los siguientes:
+
+I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas.
+
+II. Violencia Psicológica: Comportamiento consistente en acciones u omisiones reiteradas, cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, sevicia, humillaciones, celotipia, conductas de abandono, así como omisiones, que provoquen en quien las recibe, depresión o menoscabo, detrimento, disminución o afectación en la autoestima o la inteligencia emocional.
+
+III. Violencia Sexual: Conducta consistente en la agresión física o con intimidación u hostigamiento, para obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor, con independencia que el generador de dicha violencia guarde o no relación conyugal, de pareja, afectiva o de parentesco con los receptores de la violencia familiar.
+
+Se entenderá asimismo como violencia sexual, la mutilación genital, y la violencia contra los derechos sexuales y reproductivos, la cual consiste en cualquier acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud sexual y reproductiva, o afecte el ejercicio de la libertad sexual;
+
+IV. Violencia contra los derechos sexuales y reproductivos: Cualquier tipo de actuación que impida, o restrinja el libre ejercicio del derecho a la salud reproductiva de cualquier integrante de la familia y por tanto, afecte a la libertad para disfrutar de una vida sexual satisfactoria y sin riesgos para la salud, a la libertad para acceder o no a servicios de atención a la salud sexual y reproductiva, a los anticonceptivos y para ejercer o no el derecho a la paternidad o maternidad responsable;
+
+V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
+
+VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la libertad, dignidad o integridad de la familia.
+
+Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+De igual manera, se considera violencia familiar la alienación parental, consistente en la manipulación o inducción que un progenitor realice hacia su hijo o hija, mediante la desaprobación o crítica tendiente a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 283 TER.- También se consideran acciones de violencia familiar las previstas en este artículo, aún cuando el agresor y la víctima no habiten en el mismo domicilio, pero tengan o hayan tenido relación de parentesco, ya sea por consanguinidad, afinidad, adopción, matrimonio, concubinato u otra relación afín, o que convivan o que hayan convivido en el mismo domicilio y estén sujetos a patria potestad, tutela, guarda, protección, educación, cuidado, custodia, o que mantengan o hayan mantenido una relación afectiva, aún cuando no compartan el mismo domicilio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN , P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO CUARTO. REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 283 QUATER.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 267 del presente Código. Dicho registro contendrá:
+
+I. Nombre completo, Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso;
+
+II. Nombre del acreedor o acreedores alimentarios;
+
+III. Datos del acta que acrediten el vínculo entre deudor y acreedor alimentario, en su caso;
+
+IV. Número de pagos incumplidos y monto del adeudo alimentario;
+
+V. Órgano jurisdiccional que ordena el registro, y
+
+VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 283 QUINQUIES.- La constancia de deudor alimentario moroso contendrá la siguiente información:
+
+I. Nombre y apellidos del deudor alimentario moroso;
+
+II. Número, nombre y apellidos del acreedor o acreedores alimentarios;
+
+III. CURP del deudor alimentario moroso;
+
+IV. Juzgado que ordena la inscripción;
+
+V. Número de expediente;
+
+VI. Monto de la pensión alimenticia decretada, y
+
+VII. Monto de las cantidades no suministradas.
+
+En caso de tener cubierta la totalidad de los pagos de la pensión alimenticia, se expedirá una constancia de registro de deudor alimentario que acredite su puntualidad.
+
+La constancia de deudor alimentario sin adeudo o de deudor alimentario moroso, será emitida a petición de parte interesada, dentro de los tres días hábiles siguientes al de la solicitud.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 283 SEXIES.- La inscripción en el Registro de Deudores Alimentarios Morosos tendrá los siguientes efectos:
+
+I. Garantizar la preferencia en el pago de deudas alimentarias;
+
+II. Constituir prueba plena en el delito de abandono de familiares, y
+
+III. Inscribir en el registro público de la propiedad la cantidad adeudada.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 283 SEPTIES.- Procede la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos en los siguientes supuestos:
+
+I. Cuando el deudor demuestra en juicio haber cumplido con su obligación alimentaria y que la misma está garantizada;
+
+II. Cuando al momento de dictar sentencia condenatoria, la pensión de alimentos se establezca en un porcentaje del sueldo que percibe el deudor alimentario, y
+
+III. Cuando el deudor alimentario, una vez condenado, demuestra haber cumplido con su obligación alimentaria, por un lapso de noventa días y habiendo también demostrado que la pensión está garantizada en lo futuro.
+
+En cualquier supuesto, el Juez de lo Familiar que hubiere ordenado la inscripción solicitará al Oficial del Registro Civil su cancelación.
 
 ## TITULO TERCERO
 
-### CAPITULO TERCERO. DE LA FILIACION DE LOS HIJOS
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO PRIMERO. DE LA PATERNIDAD Y FILIACION
 
 ###### ARTICULO 284.
 
@@ -2017,7 +2185,9 @@ La filiación resulta de las presunciones legales, o del nacimiento, o del recon
 
 El Estado, a través de la autoridad y organismos que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación a quienes hayan llegado a la pubertad.
 
-### CAPITULO CUARTO. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS
+### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 287.
 
@@ -2037,13 +2207,13 @@ Contra esta presunción se admitirán como prueba las de haber sido físicamente
 
 No basta el dicho de la madre para excluir de la paternidad al marido. Mientras éste viva, únicamente él podrá reclamar contra la filiación del hijo favorecido por las presunciones de paternidad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
 ###### ARTICULO 290.
 
-El cónyuge no podrá desconocer a los hijos, alegando adulterio de la madre, salvo prueba en contrario.
+(DEROGADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)
 
-Tampoco se podrá desconocer la paternidad de los hijos que durante el matrimonio conciba su cónyuge mediante técnicas de reproducción asistida, si hubo consentimiento expreso en tales métodos.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Los cónyuges no podrán desconocer el parentesco de los hijos que durante el matrimonio conciba su cónyuge mediante técnicas de reproducción asistida, si hubo consentimiento expreso en tales métodos.
 
 ###### ARTICULO 291.
 
@@ -2121,7 +2291,9 @@ II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la v
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO QUINTO. DE LA LEGITIMACION
+### CAPITULO TERCERO. DE LA FILIACION DE LOS HIJOS
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 306.
 
@@ -2141,9 +2313,7 @@ En defecto de esa posesión de estado son admisibles todos los medios ordinarios
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO CUARTO. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS
 
 ###### ARTICULO 309.
 
@@ -2199,9 +2369,7 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO SEPTIMO. DE LA ADOPCION
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+### CAPITULO QUINTO. DE LA LEGITIMACION
 
 ###### ARTICULO 316.
 
@@ -2229,9 +2397,9 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPÍTULO OCTAVO. DE LA ADOPCIÓN PLENA
+### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 322.
 
@@ -2315,11 +2483,11 @@ Si ambos progenitores contrajeron matrimonio entre sí, en el acta de reconocimi
 
 La mujer casada puede reconocer sin consentimiento del esposo, a un hijo habido con persona distinta a éste antes de su matrimonio. Es aplicable lo dispuesto en la parte final del artículo 334.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 337.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo propio por un hombre que no sea su cónyuge, salvo cuando éste lo haya desconocido y se haya declarado, por sentencia firme, que no es hijo suyo. Son aplicables, en lo conducente, las reglas preceptuadas en los artículos 287 al 291 de este Código.
+Los padres biológicos tienen la obligación de reconocer a su hijo o hija, con independencia de la relación que exista entre ellos, con la finalidad de proteger el interés superior del niño y a efecto de privilegiar el derecho humano a la identidad.
 
 ###### ARTICULO 338.
 
@@ -2403,9 +2571,9 @@ III. A percibir la porción hereditaria que fije la ley en caso de intestado, o 
 
 La acción que compete al hijo para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad antes de esa edad, muriendo después en el mismo estado.
 
-### CAPÍTULO NOVENO. DE LA ADOPCIÓN SIMPLE
+### CAPITULO SEPTIMO. DE LA ADOPCION
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 351.
 
@@ -2531,11 +2699,15 @@ b) Se han tomado en consideración los deseos y opiniones del menor o incapacita
 
 c) El consentimiento del menor o incapacitado a la adopción, cuando sea necesario, ha sido dado libremente y por escrito, sin que medie pago o compensación de clase alguna.
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+V. Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO DÉCIMO. DE LA ADOPCIÓN INTERNACIONAL
+### CAPÍTULO OCTAVO. DE LA ADOPCIÓN PLENA
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 364 Ter.
 
@@ -2577,9 +2749,9 @@ No pueden adoptar mediante adopción plena, las personas que tengan vínculo de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+### CAPÍTULO NOVENO. DE LA ADOPCIÓN SIMPLE
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 364 Nonies.
 
@@ -2643,7 +2815,9 @@ Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+### CAPÍTULO DÉCIMO. DE LA ADOPCIÓN INTERNACIONAL
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 369 Bis.
 
@@ -2675,7 +2849,9 @@ ARTICULO 369 Quintus.- Una vez decretada la adopción, el Sistema Estatal para e
 
 ## TITULO CUARTO. DE LA PATRIA POTESTAD
 
-### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
+### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 370.
 
@@ -2689,15 +2865,13 @@ Los menores de edad no emancipados están bajo la patria potestad, mientras exis
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 373.
 
-Su ejercicio quedará sujeto en cuanto a la custodia y educación de los niños, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes aplicables y, en su caso, a las que convengan las partes como resultado de un procedimiento de mediación.
+Su ejercicio quedará sujeto en cuanto a la custodia y educación de los niños, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes aplicables y, en su caso, a las que convengan las partes como resultado de un procedimiento de mediación. El juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, según el caso, atendiendo al interés superior de la niña o el niño. De oficio, o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a los padres y a la niña o al niño. En todo caso, protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para la niña o el niño.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
-
-Salvo circunstancias excepcionales, no deberá separarse al niño menor de diez años de su madre.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 374.
 
@@ -2713,11 +2887,11 @@ III. Por el abuelo y abuela maternos;
 
 En los casos señalados en las fracciones II y III de este artículo no se establece un orden de prelación y el Juez, en resolución motivada, podrá alterarlo atendiendo al interés superior del niño.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 375.
 
-Cuando los dos progenitores han reconocido al hijo y viven juntos, ejercerán ambos la custodia; si vivieren separados, la custodia compartida será preferente, cuando se atienda al interés superior del niño, salvo circunstancias especiales que se analizarán según lo dispuesto en los artículos 343 y 344 de este Código.
+Cuando los dos progenitores han reconocido al hijo y viven juntos, ejercerán ambos la custodia; si vivieren separados, el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la custodia, según el caso y atendiendo al interés superior del niño o niña, para tales efectos, de oficio, o a petición de parte interesada, el juez se allegará de los elementos necesarios para determinar lo relativo a la custodia, debiendo escuchar a los padres y a la niña o al niño, salvo circunstancias especiales que se analizarán según lo dispuesto en los artículos 343 y 344 de este Código.
 
 ###### ARTICULO 376.
 
@@ -2727,11 +2901,19 @@ Si el hijo es adoptivo y la adopción la hizo un matrimonio, ambos cónyuges con
 
 Si sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 378.
 
-Solamente por falta o impedimento del padre y de la madre, la patria potestad corresponde al abuelo y a la abuela paternos y maternos. En todo caso, se elegirá para su ejercicio o quienes por su solvencia y reputación resulten los más idóneos.
+A falta o impedimento del padre y de la madre, la patria potestad corresponde a los abuelos paternos o maternos.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Para determinar a quién corresponde ejercerla, el Juez tendrá en cuenta el interés superior del menor considerando la mayor identificación afectiva, las condiciones económicas, físicas y mentales de los abuelos, así como las circunstancias propias del caso y de ser posible la opinión del menor, para garantizarle un desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+Para el caso dos o más menores de una misma familia que convivan juntos, el Juez procurará, si fuere posible, la continuación de dicha convivencia.
 
 ###### ARTICULO 379.
 
@@ -2765,9 +2947,7 @@ Además del Ministerio Público tiene acción para demandar la pérdida de la pa
 
 El que está sujeto a la patria potestad no puede comparecer en Juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
 ###### ARTICULO 384.
 
@@ -2853,7 +3033,7 @@ Los Jueces tienen facultad para tomar las medidas necesarias para impedir que, p
 
 Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
+### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
 
 ###### ARTICULO 401.
 
@@ -2945,7 +3125,9 @@ II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a 
 
 ## TITULO QUINTO. DE LA TUTELA
 
-### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 408.
 
@@ -3053,7 +3235,7 @@ El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere,
 
 El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
+### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
 
 ###### ARTICULO 428.
 
@@ -3105,7 +3287,7 @@ Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltar
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicando a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS EN ESTABLECIMIENTOS DE BENEFICENCIA
+### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
 
 ###### ARTICULO 440.
 
@@ -3141,7 +3323,7 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 1992)</small>
 
-### CAPITULO SEXTO. DE LA TUTELA DATIVA
+### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
 
 ###### ARTICULO 444.
 
@@ -3167,7 +3349,7 @@ A falta de tutor testamentario y de persona que con apego a los artículos anter
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
 
-### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### ARTICULO 450.
 
@@ -3181,7 +3363,7 @@ Los directores de los hospitales y demás instituciones de beneficencia, donde s
 
 En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
-### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPITULO SEXTO. DE LA TUTELA DATIVA
 
 ###### ARTICULO 453.
 
@@ -3247,7 +3429,7 @@ Si el menor sujeto a tutela dativa en los términos establecidos en este Capítu
 
 Siempre que por cualquier circunstancia, no existiere tutela ni quien ejerciere la patria potestad, en tanto se provee a la tutela que corresponda, le será nombrado un tutor dativo por el Juez de Primera Instancia del lugar.
 
-### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### ARTICULO 463.
 
@@ -3299,6 +3481,10 @@ V. El tutor que pretenda contraer matrimonio con su pupilo;
 
 VI. El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+VII. El tutor que haya sido sentenciado por violencia familiar.
+
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 465.
@@ -3325,7 +3511,7 @@ En el caso de que se trata en el artículo anterior, se proveerá a la tutela co
 
 Absuelto un tutor, volverá al ejercicio de su cargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de dos años de prisión.
 
-### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 471.
 
@@ -3337,7 +3523,9 @@ II. Los militares en servicio activo;
 
 III. Los que tengan bajo su patria potestad tres o más descendientes;
 
-IV. Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Los que no puedan atender a la tutela sin menoscabo de su subsistencia;
 
 V. Los que por el mal estado habitual de su salud, o por su rudeza e ignorancia, no puedan atender debidamente la tutela;
 
@@ -3373,7 +3561,7 @@ El tutor que, sin excusa o desechada la que hubiere propuesto, no desempeña la 
 
 Muerto el tutor que está desempeñando la tutela, sus herederos o ejecutores testamentarios deberán dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
+### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 479.
 
@@ -3457,7 +3645,7 @@ Si los tutores son varios, sólo se exigirá, a cada uno de ellos, garantía por
 
 El Juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
 
-### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
+### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 493.
 
@@ -3727,7 +3915,7 @@ En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitad
 
 Para que pueda hacerse en la retribución de los tutores, el aumento extraordinario que permite el artículo 544, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
 
-### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
+### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTICULO 547.
 
@@ -3803,7 +3991,7 @@ La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan s
 
 Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPITULO DECIMO CUARTO. DEL CURADOR
+### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
 
 ###### ARTICULO 563.
 
@@ -3817,7 +4005,7 @@ II. Cuando el incapacitado sujeto a tutela entre a la patria potestad.
 
 La muerte, incapacidad del tutor o ausencia declarada legalmente termina la tutela con relación al tutor. Tan pronto como llegue a conocimiento del Juez que un tutor ha muerto, o ha sido declarado incapaz o ausente, promoverá de inmediato el nombramiento del nuevo tutor.
 
-### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
+### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTICULO 565.
 
@@ -3871,7 +4059,7 @@ Todas las acciones por hechos relativos a la administración de la tutela que el
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
+### CAPITULO DECIMO CUARTO. DEL CURADOR
 
 ###### ARTICULO 578.
 
@@ -3947,7 +4135,7 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a esta ley tenga que intervenir un curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le cubrirán conforme a derecho.
 
-### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
 
 ###### ARTICULO 594.
 
@@ -3981,7 +4169,7 @@ Los menores de edad no pueden alegar la nulidad en las obligaciones que hubieren
 
 ## TITULO SEXTO
 
-### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
+### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
 
 ###### ARTICULO 601.
 
@@ -4039,7 +4227,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes y tiene capaci
 
 ## TITULO SEPTIMO. DE LOS AUSENTES E IGNORADOS
 
-### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### ARTICULO 610.
 
@@ -4147,7 +4335,7 @@ Cada seis meses, en el día correspondiente al que hubiere sido nombrado el repr
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que siga el ausente, y es causa legítima de remoción.
 
-### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 632.
 
@@ -4195,7 +4383,7 @@ La declaración de ausencia se publicará por una vez en el Periódico Oficial y
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá las mismas instancias que el Código de Procedimientos Civiles asigne a los negocios de mayor interés.
 
-### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
+### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 641.
 
@@ -4275,7 +4463,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o si prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes, con deducción de la mitad de los frutos y rentas, que quedarán a beneficio de los que han tenido la posesión provisional.
 
-### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTICULO 659.
 
@@ -4293,7 +4481,7 @@ Si no hubiere sociedad conyugal y el cónyuge presente no fuere heredero ni tuvi
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
+### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
 
 ###### ARTICULO 663.
 
@@ -4303,17 +4491,13 @@ Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez,
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de cualquier medio de transporte que sufra un siniestro, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por este Título.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
-Tratándose de personas no localizadas por actos presumiblemente atribuibles a la delincuencia organizada, en los casos de secuestro y desaparición forzada, bastará que hayan transcurrido dos años, contados desde el día de su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que sea necesaria la declaración de ausencia; no obstante, se tomarán las medidas provisionales autorizadas por el Capítulo Primero del Título Séptimo. En estos supuestos, el Juez acordará la declaración de presunción de muerte y ordenará su publicación en el Periódico Oficial, Órgano de Gobierno del Estado y en un periódico de circulación en el Estado.
+Tratándose de personas no localizadas por actos presumiblemente atribuibles a la delincuencia organizada, en los casos de secuestro y desaparición forzada, se estará a lo establecido en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Zacatecas, y la Ley que Establece el Procedimiento de Declaración Especial de Ausencia para Personas Desaparecidas en el Estado de Zacatecas.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
-El Ministerio Público, mediante acuerdo, con base en las evidencias recabadas, determinará los actos que se presuman atribuibles a la delincuencia organizada.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
-
-Cuando el Ministerio Público conozca de los hechos citados en el presente artículo, podrá promover ante la autoridad judicial competente el inicio del procedimiento que corresponda.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 665.
 
@@ -4361,7 +4545,7 @@ La sentencia que declare la presunción de muerte de uno de los cónyuges, termi
 
 En el caso en que el cónyuge presente no fuere heredero, tendrá derecho a alimentos.
 
-### CAPITULO UNICO
+### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### ARTICULO 674.
 
@@ -4383,7 +4567,7 @@ Lo dispuesto en los artículos anteriores, debe entenderse sin perjuicio de las 
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, o sus acciones no sean ejercitadas por sus representantes o por sus causahabientes.
 
-### CAPITULO PRIMERO
+### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 679.
 
@@ -4403,7 +4587,7 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ## TITULO OCTAVO. DEL PATRIMONIO DE FAMILIA
 
-### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
+### CAPITULO UNICO
 
 ###### ARTICULO 683.
 
@@ -4577,7 +4761,7 @@ Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pl
 
 ## TITULO NOVENO. DEL NOMBRE DE LA MUJER CASADA, SOLTERA, VIUDA O DIVORCIADA
 
-### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
+### CAPITULO PRIMERO
 
 ###### ARTICULO 704.
 
@@ -4623,9 +4807,7 @@ Si la viuda usaba su apellido propio, continuará con éste, sin tener derecho a
 
 La madre soltera continuará con su mismo nombre, aunque sus hijos sean reconocidos por su padre y lleven el apellido de éste.
 
-### CAPITULO CUARTO. DE LA PROTECCION DE LAS PERSONAS CON DISCAPACIDAD, NIÑOS y ADULTOS MAYORES
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
 
 ###### ARTICULO 712.
 
@@ -4659,7 +4841,7 @@ La naturaleza jurídica del representante de la familia, es la de un mandatario 
 
 Cuando alguno de los miembros de la familia integre otra, dejará de formar parte de la primera.
 
-### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
+### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
 
 ###### ARTICULO 720.
 
@@ -4749,6 +4931,10 @@ Los Consejos de Familia vigilarán la integración familiar, mediante programas 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
+### CAPITULO CUARTO. DE LA PROTECCION DE LAS PERSONAS CON DISCAPACIDAD, NIÑOS y ADULTOS MAYORES
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 728.
 
 Las personas con discapacidad, niños y adultos mayores, tienen derecho a la protección integral por cuenta y a cargo de su familia.
@@ -4790,6 +4976,8 @@ La protección de los adultos mayores y personas con discapacidad, desamparados,
 ###### ARTICULO 733.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia y la Comisión Estatal para la Integración Social de las Personas con Discapacidad, para cumplir con los fines de este Código, podrán crear instituciones, en donde los adultos mayores y personas con discapacidad vivan, cuando carezcan de familia que les brinde protección o no posean los medios necesarios para hacerlo, gestionarles atención médica; y procurarán la construcción de Centros de Rehabilitación necesarios para lograr el restablecimiento de los mismos.
+
+### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
 
 ###### ARTICULO 734.
 
@@ -5042,3 +5230,15 @@ Artículo segundo. La Secretaría de Educación instruirá a las autoridades esc
 Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
 
 Artículo cuarto. Los juicios de divorcio necesario que se encuentren en trámite a la entrada en vigor del presente decreto, seguirán substanciándose hasta su conclusión, de conformidad con las disposiciones en la materia que se derogan.
+
+P.O. 11 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 689.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, sin perjuicio de lo previsto en el siguiente artículo.
+
+Artículo segundo. Las disposiciones relacionadas con la carta de identidad y con el Registro de Deudores Alimentarios Morosos, iniciarán su vigencia el 1 de enero del año 2022.
+
+Artículo tercero. El Ejecutivo del Estado deberá prever en la iniciativa de Presupuesto de Egresos del Estado para el ejercicio fiscal 2022, que remita a la Legislatura, los recursos financieros suficientes para la Dirección del Registro Civil, dependiente de la Coordinación General Jurídica, con la finalidad de garantizar la creación del Registro de Deudores Alimentarios Morosos y la expedición de las cartas de identidad.
+
+Artículo cuarto. Se derogan las disposiciones que contravengan el presente Decreto.
