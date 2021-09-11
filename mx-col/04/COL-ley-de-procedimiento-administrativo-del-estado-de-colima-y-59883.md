@@ -4,7 +4,7 @@ identifier: "COL-ley-de-procedimiento-administrativo-del-estado-de-colima-y-5988
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-09"
-last_updated: "2018-03-24"
+last_updated: "2021-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 11 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 9 de febrero de 2008.
 
@@ -37,7 +39,9 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLlMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente:
 
@@ -1380,3 +1384,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en este Decreto.
 
 TERCERO. Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley de Justicia Administrativa del Estado de Colima y del Tribunal de Justicia Administrativa del Estado, entrarán en vigor cuando dicho ordenamiento se encuentre vigente.
+
+P.O. 11 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 494.- POR EL QUE SE APRUEBA LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios contenida en el Decreto número 219 publicado en el Periódico Oficial “El Estado de Colima” el día nueve del mes de febrero del año dos mil ocho, así como todas sus adiciones y reformas.
+
+Asimismo, se deroga toda disposición jurídica de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Se derogan en lo conducente las disposiciones jurídicas contenidas en las leyes y reglamentos administrativos relativas a recursos impugnativos dispuestos para cuestionar y en su caso revocar, modificar o confirmar los actos y resoluciones que dicten las autoridades administrativas en contra de los particulares, quedando únicamente subsistentes los recursos de revisión e inconformidad previstos en esta ley.
+
+Quedan exceptuadas de la derogación anterior las disposiciones contenidas en las leyes y reglamentos que regulan la integración, organización y funcionamiento de los poderes Legislativo y Judicial, así como de los órganos autónomos previstos en la Constitución Política del Estado Libre y Soberano de Colima, en cuyo caso se aplicarán los recursos impugnativos que en tales leyes y reglamentos se prevea.
+
+CUARTO. Los juicios, procedimientos administrativos y medios de impugnación iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su conclusión conforme al ordenamiento jurídico vigente aplicable al momento de su inicio.
+
+QUINTO. El Tribunal y las autoridades administrativas llevarán a cabo campañas de divulgación de la ley contenida en el presente Decreto.
