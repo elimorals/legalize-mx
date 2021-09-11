@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2021-08-11"
+last_updated: "2021-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1680,6 +1680,10 @@ V. También fiscalizará los recursos que se destinen y se ejerzan por cualquier
 Las entidades fiscalizadas a que se refiere el párrafo anterior, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la ley.
 
 La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+
+En los procesos de fiscalización y revisión de los recursos públicos se podrán utilizar medios electrónicos, buzón digital y firma electrónica, en los términos que establezca la ley.
 
 VI. Verificar el cumplimiento de los criterios generales que rigen la contabilidad gubernamental y la presentación homogénea de información financiera, patrimonial y de los ingresos y egresos de los entes públicos estatales y municipales.
 
@@ -4034,3 +4038,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos integrantes del estado de Zacatecas, deberán realizar las adecuaciones necesarias para dar cumplimiento a la presente reforma, en un término de 180 días hábiles a partir de la entrada en vigor de este Decreto.
 
 TERCERO. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, la Legislatura del Estado reformará la Ley Orgánica del Municipio del Estado y otros ordenamientos, para armonizarlos a esta reforma.
+
+P.O. 11 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 766.- SE REFORMA EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Dentro de los ciento veinte días siguientes a la entrada en vigor de este decreto, se modificará la Ley de Fiscalización y Rendición de Cuentas del Estado, la Ley Orgánica del Poder Legislativo del Estado, la Ley de Firma Electrónica del Estado y otros ordenamientos aplicables, para adecuarlas a la presente reforma.
+
+Artículo tercero. Se derogan las disposiciones que contravengan el presente decreto.
