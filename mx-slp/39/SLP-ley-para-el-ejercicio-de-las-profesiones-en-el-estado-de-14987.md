@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-14987"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-08"
-last_updated: "2016-02-13"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de julio de 1999.
 
@@ -403,7 +403,9 @@ De conformidad con la gravedad de la infracción de que se trate, la Dirección 
 
 I. Apercibimiento;
 
-II. Multa de cincuenta a quinientos días de salario mínimo vigente en la capital del Estado en el momento de la comisión de la infracción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II. Multa de ochenta a ochocientas veces el valor de la unidad de medida y actualización vigente en el momento de la comisión de la infracción.
 
 Tratándose de instituciones educativas, la multa impuesta podrá duplicarse en caso de reincidencia, o según la gravedad del caso, sin perjuicio de la imposición de la misma, se podrá solicitar la revocación de la autorización o disponer el retiro del reconocimiento de validez oficial de estudios, de conformidad con lo previsto en los artículos 95 fracción VII y 96 fracción I de la Ley de Educación del Estado;
 
@@ -415,9 +417,11 @@ IV. Solicitar ante la Dirección General de Profesiones de la Secretaría de Edu
 
 Para determinar la imposición de las sanciones señaladas en el artículo anterior, se considerará la gravedad de la infracción, las circunstancias en que fue cometida, si se trata de reincidencia, los daños y perjuicios que se hubieren producido o puedan producirse a la sociedad.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 43.
 
-A quienes den lugar a que se actualice un ilícito sancionado por la legislación penal en materia de ejercicio profesional, la Dirección Estatal de Profesiones impondrá una multa hasta por el equivalente a cuatrocientas veces el salario mínimo general diario vigente en el Estado. Dicho ilícito se tendrá por acreditado una vez que la resolución judicial respectiva cause ejecutoria, misma que se hará del conocimiento de la mencionada Dirección por parte de la autoridad judicial que conozca del asunto. La multa a que se refiere este artículo se impondrá sin perjuicio de las sanciones que correspondan según lo dispuesto en el Título Sexto, Capítulo Cuarto del Código Penal del Estado.
+A quienes den lugar a que se actualice un ilícito sancionado por la legislación penal en materia de ejercicio profesional, la Dirección Estatal de Profesiones impondrá una multa hasta por el equivalente a quinientas veces el valor de la unidad de medida y actualización vigente. Dicho ilícito se tendrá por acreditado una vez que la resolución judicial respectiva cause ejecutoria, misma que se hará del conocimiento de la mencionada Dirección por parte de la autoridad judicial que conozca del asunto. La multa a que se refiere este artículo se impondrá sin perjuicio de las sanciones que correspondan según lo dispuesto en el Título Noveno de la Parte Especial del Código Penal del Estado.
 
 ### CAPITULO II. Del Procedimiento y del Recurso Administrativo
 
@@ -480,3 +484,11 @@ P.O. 13 DE FEBRERO DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1244.- SE REFORMA LOS ARTÍCULOS 41 EN SU FRACCIÓN II EL PÁRRAFO PRIMERO Y 43, DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
