@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2019-06-17"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -75,21 +75,31 @@ Corresponde a las autoridades del Gobierno del Estado, Ayuntamientos, Entidades 
 
 La presente Ley tiene por objeto:
 
-I. Prevenir, atender, sancionar y eliminar toda forma de discriminación de la que pueda ser víctima, cualquier persona que se encuentre en el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I. Promover la igualdad de oportunidades y de trato en el Estado, así como prevenir, atender y sancionar toda forma de discriminación de la que puede ser víctima cualquier persona que se encuentre en el Estado de Hidalgo;
 
 II. Promover y garantizar el goce y ejercicio de los derechos humanos en el Estado de Hidalgo;
 
 III. Promover la igualdad jurídica, de oportunidades y de trato, a efecto de que éstas sean reales, efectivas y permanentes;
 
-IV. Establecer los principios, lineamientos, criterios e indicadores que deban orientar la instrumentación y evaluación de las políticas públicas a favor de la no discriminación y la igualdad jurídica de oportunidades y de trato;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Establecer los principios, lineamientos, criterios e indicadores que deban orientar la instrumentación y evaluación de las políticas públicas a favor de la no discriminación, la igualdad jurídica de oportunidades y de trato, así como contra la homofobia, la xenofobia, la misoginia y la discriminación por apariencia;
 
 V. Coadyuvar a la eliminación de las circunstancias sociales, culturales educativas, políticas, económicas, de salud, trabajo, disposiciones legales, figuras o instituciones jurídicas o de hechos, acciones, omisiones o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir ilícitamente alguno o algunos de los derechos humanos de las personas, grupos o comunidades en condición de vulnerabilidad, por cualquiera de los motivos relacionados en la Constitución Política de los Estados Unidos Mexicanos y en los Instrumentos Internacionales suscritos y ratificados por México;
 
-VI. Establecer mecanismos permanentes de seguimiento, para la instrumentación de las políticas públicas en materia de no discriminación, así como medidas positivas y compensatorias para el efectivo acceso a la igualdad de oportunidades y de trato;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Establecer mecanismos permanentes de seguimiento, para la instrumentación de las políticas públicas en materia de no discriminación, así como acciones afirmativas, medidas de inclusión y medidas de nivelación para el efectivo acceso a la igualdad de oportunidades y de trato;
 
 VII. Establecer y regular el procedimiento a través del cual las personas que han sido objeto de actos discriminatorios, podrán solicitar que se sancione a las personas responsables;
 
 VIII. Establecer las sanciones que correspondan a las conductas discriminatorias en que incurran las o los servidores públicos o particulares, en términos de lo dispuesto en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII BIS. Garantizar la no violencia institucional en contra de personas, grupos o comunidades, así como la debida diligencia en la actuación de los servidores públicos;
 
 IX. Vincular la integración, funcionamiento, facultades y obligaciones de la Comisión de Derechos Humanos del Estado de Hidalgo como la institución encargada para Prevenir, Atender, Sancionar y Eliminar la Discriminación en el Estado de Hidalgo, así como establecer el procedimiento al que deberá sujetarse para el cumplimiento de sus funciones;
 
@@ -125,33 +135,57 @@ VI. Las demás que establezca la presente Ley y demás disposiciones aplicables.
 
 La observancia y aplicación del cumplimiento de esta Ley y de las políticas públicas para garantizar el derecho a la no discriminación y la igualdad de oportunidades y de trato, estará a cargo de la Comisión de Derechos Humanos del Estado de Hidalgo, sujetándose a las disposiciones de la presente Ley y a la Ley de Derechos Humanos del Estado de Hidalgo, en concordancia con la legislación nacional de la materia y los instrumentos internacionales suscritos y ratificados por México.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 9.
 
 Para los efectos de la presente Ley, se entiende por:
 
 I. Accesibilidad: Combinación de elementos constructivos y operativos que permiten a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse y comunicarse con uso seguro, autónomo y cómodo en los espacios construidos, el mobiliario, servicios, información y comunicaciones;
 
-II. Comisión: Comisión de Derechos Humanos del Estado de Hidalgo;
+II. Acciones Afirmativas: Medidas especiales, específicas y de carácter temporal dirigidas específicamente a remediar la situación de los miembros del grupo a que están destinadas en un aspecto o varios aspectos de su vida social para alcanzar la igualdad efectiva. Es obligación del Gobierno del Estado el establecer acciones afirmativas en tanto constituyen medidas temporales, razonables, proporcionales y objetivas orientadas a la igualdad material. En consecuencia, los elementos fundamentales de éstas son:
 
-III. Derechos Humanos: Conjunto de bienes, potestades, derechos, libertades públicas, universales e imprescriptibles que son indispensables para lograr el pleno desarrollo y la satisfacción de necesidades o exigencias propias y efectivamente humanas;
+a) Objeto y fin: Hacer realidad la igualdad material y, por tanto, compensar o remediar una situación de injusticia, desventaja o discriminación; alcanzar una representación o un nivel de participación equilibrada, así como establecer las condiciones mínimas para que las personas puedan partir de un mismo punto de arranque y desplegar sus atributos y capacidades.
 
-IV. Diseño Universal: Principio sustentado en el establecimiento de productos, entornos, programas y servicios que puedan ser utilizados por todas las personas, en la mejor medida posible, sin necesidad de adaptación o diseño especializado.
+b) Destinatarias: Personas y grupos en situación de vulnerabilidad, desventaja y/o discriminación para gozar y ejercer efectivamente sus derechos.
 
-V. Estado: Estado Libre y Soberano de Hidalgo;
+c) Conducta exigible: Abarca una amplia gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria. La elección de una acción dependerá del contexto en que se aplique y del objetivo a lograr. La figura más conocida de las acciones afirmativas son las políticas de cuotas o cupos;
 
-VI. Igualdad Real de Oportunidades y de Trato: Derecho de toda persona o grupo, a acceder al igual y efectivo disfrute de sus derechos, tanto por la vía jurídica como en la de hecho.
+Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas. Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afro descendientes, mujeres, niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores;
 
-VII. Instrumentos Internacionales: Tratados, Convenios y Convenciones, suscritos por el Estado Mexicano;
+III. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;
 
-VIII. Ley: Ley para Prevenir, Atender, Sancionar y Eliminar la Discriminación en el Estado de Hidalgo;
+IV. Comisión: Comisión de Derechos Humanos del Estado de Hidalgo;
 
-IX. Medidas Positivas y Compensatorias: Medidas específicas dirigidas a un sector, con las que se pretende suprimir y prevenir la discriminación o compensar las desventajas resultantes de actitudes, comportamientos y estructuras existentes que los colocan en una situación de vulnerabilidad y hacer efectivo el ejercicio pleno de sus derechos y el principio de igualdad de oportunidades y de trato;
+V. Derechos Humanos: Conjunto de bienes, potestades, derechos, libertades públicas, universales e imprescriptibles que son indispensables para lograr el pleno desarrollo y la satisfacción de necesidades o exigencias propias y efectivamente humanas;
 
-X. Perspectiva de Género: Principio sustentado en una visión científica, analítica y política sobre la igualdad de oportunidades y de trato entre mujeres y hombres y el acceso al ejercicio efectivo de sus derechos y oportunidades, excluido de toda discriminación por cuestión de género.
+VI. Diseño Universal: Principio sustentado en el establecimiento de productos, entornos, programas y servicios que puedan ser utilizados por todas las personas, en la mejor medida posible, sin necesidad de adaptación o diseño especializado.
 
-XI. Servidores Públicos: Los señalados como tales en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, así como las Leyes que de ellas emanen; y
+VII. Estado: Estado Libre y Soberano de Hidalgo;
 
-XII. Vulnerabilidad: Condición de riesgo o discriminación al que se enfrenta una persona, cuando los bienes económicos de los cuales dispone, son escasos en relación a sus necesidades primarias o básicas, o dadas las desventajas sociales de su entorno, la colocan en una situación que le impiden alcanzar oportunidades de desarrollo o mejor nivel de vida.
+VIII. Homofobia: Odio y/o rechazo hacia la homosexualidad; el miedo o negativa que surge de la misma pueden provocar la exclusión y hasta la criminalización de aquellas personas que su orientación sexual e identidad de género sea distinta a la de la heterosexualidad;
+
+IX. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+X. Instrumentos Internacionales: Tratados, Convenios y Convenciones, suscritos por el Estado Mexicano;
+
+XI. Ley: Ley para Prevenir, Atender, Sancionar y Eliminar la Discriminación en el Estado de Hidalgo;
+
+XII. Medidas de Inclusión: Son aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato;
+
+XIII. Medidas de Nivelación: Buscan hacer efectivo el acceso de todas las personas a la igualdad sustantiva de oportunidades eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad;
+
+XIV. Misoginia: Tendencia a la aversión, que puede ser patológica o no, a las mujeres. Normalmente, se habla de la misoginia como un sentimiento por parte del hombre hacia la mujer, pero las mujeres también pueden presentar actitudes misóginas. La misoginia forma parte de los patrones culturales de muchas sociedades donde el rol de la mujer está supeditado exclusivamente al hogar y la reproducción. Una sociedad misógina establece rígidas reglas de conducta para las mujeres de manera que estas cumplan con la función que se les asigna.
+
+XV. Perspectiva de Género: Principio sustentado en una visión científica, analítica y política sobre la igualdad de oportunidades y de trato entre mujeres y hombres y el acceso al ejercicio efectivo de sus derechos y oportunidades, excluido de toda discriminación por cuestión de género.
+
+XVI. Servidores Públicos: Los señalados como tales en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, así como las Leyes que de ellas emanen;
+
+XVII. Violencia Institucional: Actos u omisiones de servidores públicos que discriminan o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades;
+
+XVIII. Vulnerabilidad: Condición de riesgo o discriminación al que se enfrenta una persona, cuando los bienes económicos de los cuales dispone, son escasos en relación a sus necesidades primarias o básicas, o dadas las desventajas sociales de su entorno, la colocan en una situación que le impiden alcanzar oportunidades de desarrollo o mejor nivel de vida; y
+
+XIX. Xenofobia: Es el rechazo u odio hacia las personas de origen extranjero. Es una de las principales fuentes y formas contemporáneas de discriminación y conflicto.
 
 ###### Artículo 10.
 
@@ -177,25 +211,123 @@ VIII. Transparencia y acceso a la información.
 
 ### CAPÍTULO II.. DE LA DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social o económica, condición de salud, embarazo, lengua, religión, opiniones, preferencia sexual, estado civil, identidad política, apariencia física, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
+La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud o jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, preferencia sexual, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física, color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 11 Bis.
+
+Con base en lo establecido en el artículo primero constitucional y el artículo 11 de esta Ley se consideran como discriminación, entre otras las siguientes conductas:
+
+I. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos;
+
+II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;
+
+III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;
+
+IV. Establecer o convenir diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
+
+V. Limitar o negar el acceso y permanencia a los programas de capacitación y de formación profesional;
+
+VI. Negar o limitar información sobre derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
+
+VII. Negar, limitar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
+
+VIII. Impedir o restringir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
+
+IX. Impedir o limitar el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;
+
+X. Impedir, negar o limitar el acceso a la procuración e impartición de justicia;
+
+XI. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas y niños a ser escuchados;
+
+XII. Aplicar o permitir usos o costumbres que atenten contra la igualdad, dignidad e integridad humana;
+
+XIII. Impedir la libre elección de cónyuge, concubina, concubinario o pareja;
+
+XIV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación;
+
+XV. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
+
+XVI. Negar asistencia religiosa, atención médica o psicológica a personas privadas de la libertad, que presten servicio en las fuerzas armadas o que estén internadas en instituciones de salud o asistencia;
+
+XVII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes nacionales e instrumentos jurídicos internacionales aplicables;
+
+XVIII. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas, los niños y los adolescentes, con base al interés superior de la niñez;
+
+XIX. Negar o impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
+
+XX. Limitar, obstaculizar o impedir el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
+
+XXI. Negar, obstaculizar o impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+
+XXII. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+
+XXIII. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+XXIV. Explotar o dar un trato abusivo o degradante;
+
+XXV. Restringir obstaculizar o impedir la participación en actividades deportivas, recreativas o culturales;
+
+XXVI. Restringir, obstaculizar o impedir o limitar el uso de lenguas, idiomas, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+
+XXVII. Impedir, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos colectivos de los pueblos indígenas y originarios y de sus integrantes, el uso de sus idiomas, la práctica de sus sistemas normativos, la reproducción de su cultura y de su vida comunitaria;
+
+XXVIII. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
+
+XXIX. Incitar a la exclusión, persecución, odio, violencia, rechazo, burla, difamación, ofensa o injuria en contra de cualquier persona, grupo o comunidad;
+
+XXX. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género o por cualquier otro motivo de discriminación;
+
+XXXI. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
+
+XXXII. Quitar de la matrícula de cualquier centro educativo por condición de embarazo;
+
+XXXIII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+
+XXXIV. Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
+
+XXXV. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales debido a embarazo, discapacidad, edad en los términos de la legislación laboral vigente; por tener la calidad de persona egresada de alguna institución pública o privada de educación; por motivaciones injustificadas de salud y por antecedentes penales;
+
+XXXVI. Estigmatizar y negar derechos a personas con VIH/SIDA;
+
+XXXVII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas;
+
+XXXVIII. Criminalizar a cualquier persona, grupo o comunidad;
+
+XXXIX. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de estos, y
+
+XL. En general cualquier otro acto u omisión discriminatorio en términos del artículo 11 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-Por su naturaleza, las acciones legislativas, educativas o de políticas públicas positivas o compensatorias que sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de lograr condiciones de igualdad real de oportunidades de las personas o grupos, no se consideraran conductas discriminatorias.
+Por su naturaleza, las acciones afirmativas, medidas de inclusión, medidas de nivelación, legislativas, educativas o de políticas públicas positivas o compensatorias que, sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de lograr condiciones de igualdad sustantiva de oportunidades de las personas o grupos, no se considerarán conductas discriminatorias.
 
 Tampoco, se consideraran actos discriminatorios, los que por su naturaleza, no tengan el propósito de anular o menoscabar los derechos y la igualdad de oportunidades, ni atentar contra la dignidad humana o se sustenten en un trato diferenciado, distinto o restrictivo, basado en la afiliación a una dependencia u organización, en capacidades intelectuales, conocimientos especializados o habilidad física para desempeñar una actividad determinada, en la exigencia y cumplimiento de requisitos académicos y de evaluación para acceder a una institución o dependencia o permanecer en ella y las que se relacionen con el ejercicio de los derechos y facultades entre las y los ciudadanos en el Estado.
 
-### CAPÍTULO III.. DE LAS MEDIDAS PREVENTIVAS, POSITIVAS Y COMPENSATORIAS PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+No se considerarán discriminatorias las acciones afirmativas que tengan por efecto promover la igualdad sustantiva de oportunidades de las personas o grupos. Tampoco será juzgada como discriminatoria la distinción basada en criterios razonables, proporcionales y objetivos cuya finalidad no sea el menoscabo de derechos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO III.. DE LAS ACCIONES AFIRMATIVAS, MEDIDAS DE INCLUSIÓN Y MEDIDAS DE NIVELACIÓN PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, están obligadas a planear, impulsar y adoptar las medidas preventivas, positivas y compensatorias que tiendan a favorecer condiciones de igualdad real de oportunidades y de trato, así como para prevenir, atender, sancionar y eliminar toda forma de discriminación, debiendo implementar como parte fundamental de sus políticas públicas, que el principio de igualdad y no discriminación, rija en todas las acciones, medidas y estrategias que se implementen en el ámbito de su respectiva competencia con el fin de erradicar aquéllos obstáculos que limiten en los hechos el ejercicio de derechos y libertades de las personas, que impidan su pleno desarrollo y su efectiva participación en la vida política, económica, cultural y social del país y del Estado.
+Las autoridades de los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, y aquellas instituciones que estén bajo su regulación o competencia, están obligadas a planear, impulsar y adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación que tiendan a favorecer condiciones de igualdad sustantiva de oportunidades y de trato, así como para prevenir, atender, sancionar y eliminar toda forma de discriminación, debiendo implementar como parte fundamental de sus políticas públicas, que el principio de igualdad y no discriminación, rija en todas las acciones, medidas y estrategias que se implementen en el ámbito de su respectiva competencia con el fin de erradicar aquéllos obstáculos que limiten en los hechos el ejercicio de derechos y libertades de las personas, que impidan su pleno desarrollo y su efectiva participación en la vida política, económica, cultural y social del país y del Estado.
+
+La adopción de acciones afirmativas, medidas de inclusión y medidas de nivelación, forma (sic) parte de la perspectiva antidiscriminatoria, la cual debe ser incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas que lleven a cabo cada uno de los poderes públicos federales.
+
+Las personas físicas o morales, están obligadas a prevenir y eliminar cualquier acto discriminatorio en contra de persona alguna y que están contemplado (sic) en esta Ley. Así mismo, podrán establecer cualquiera de las medidas preventivas y positivas a que se refiere este capítulo.
 
 ###### Artículo 14.
 
@@ -218,6 +350,10 @@ VII. Prohibir la difusión de contenidos discriminatorios, en los medios de comu
 VIII. Establecer, a través de los medios de comunicación oficial, prácticas orientadas a erradicar la discriminación en los contenidos que los propios medios oficiales y privados difundan;
 
 IX. Informar, sensibilizar, capacitar y formar de manera permanente a las y los servidores públicos, en materia de derechos humanos con perspectiva de género, igualdad de oportunidades, de trato y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX BIS. Generar mecanismos para garantizar el respeto, la no discriminación y la no violencia institucional por parte de los cuerpos de seguridad y servidores públicos;
 
 X. Diseñar y ejecutar políticas públicas que promuevan, la igualdad de oportunidades y de trato;
 
@@ -279,9 +415,17 @@ Las autoridades del Gobierno del Estado encargados de la administración y procu
 
 Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su competencia, llevarán a cabo, las medidas necesarias para la eliminación de discriminación y violencia contra las personas, grupos y comunidades en condición de vulnerabilidad, debiendo garantizar su seguridad e integridad mediante la aplicación de los programas y políticas que tengan por objeto evitar los actos de violencia de los cuales puedan ser objeto, investigando y sancionando a los responsables.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 18 Bis.
+
+Las mujeres se considerarán grupo de atención prioritaria y por lo tanto se encuentran protegidas por la presente ley, ello en razón a la situación de desigualdad entre hombres y mujeres, las brechas de desigualdad, las formas y modalidades de violencia de las que son objeto y sus consecuencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 19.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la equidad de género, la igualdad real de oportunidades y de trato y la no discriminación de las mujeres, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades de los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad de género, la igualdad sustantiva de oportunidades y de trato y la no discriminación de las mujeres, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
 
 I. Impulsar la creación, fortalecimiento y consolidación de centros de atención y apoyo integral a las mujeres;
 
@@ -290,6 +434,10 @@ II. Incentivar la educación mixta, fomentando el acceso y permanencia en el sis
 III. Ofrecer información completa y actualizada, sobre salud sexual y reproductiva a efecto de asegurarles el acceso a la misma, en condiciones de igualdad;
 
 IV. Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social, las condiciones para la atención obligatoria de las mujeres que lo soliciten;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV Bis. Promover, vigilar, fomentar y asegurar el derecho de la mujer de alimentar a sus hijas o hijos a través de la lactancia en espacios públicos, privados y laborales promoviendo en todo momento el respeto y dignidad humana de la mujer y el interés superior del menor;
 
 V. Procurar la creación de Centros de Desarrollo Infantil y Guarderías, asegurando el acceso a los mismos para las hijas e hijos de madres trabajadoras;
 
@@ -303,17 +451,29 @@ VIII. Fomentar la libre elección del empleo e incentivar las oportunidades de a
 
 IX. Establecer en igualdad de condiciones, la remuneración, prestaciones y condiciones laborales para el trabajo de igual valor;
 
-X. Establecer mecanismos legales que posibiliten la inmediata protección de las mujeres en situación de discriminación; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XI. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+X. Establecer mecanismos legales que posibiliten la inmediata protección de las mujeres en situación de discriminación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Crear licencias de paternidad, homologar condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 20.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la no discriminación y la igualdad real de oportunidades y de trato, de las niñas y niños, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, están en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la no discriminación y la igualdad sustantiva de oportunidades y de trato, de las niñas, niños y adolescentes, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes:
 
 I. Instrumentar programas de atención integral a su salud, para hacer efectivos sus derechos humanos;
 
-II. Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad y maternidad responsable y el respeto a sus derechos humanos y no discriminación;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II. Impartir educación para la igualdad y la diversidad, la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad y maternidad responsable y el respeto a sus derechos humanos y no discriminación;
 
 III. Promover el acceso a centros de desarrollo infantil, con especial énfasis a menores con discapacidad o pertenecientes a grupos o comunidades indígenas;
 
@@ -323,15 +483,47 @@ V. Preferir en igualdad de circunstancias para el otorgamiento de becas, crédit
 
 VI. Alentar la producción y difusión de libros para niños y niñas con contenidos relativos a sus derechos humanos, así como en lenguaje accesible a quienes presenten alguna discapacidad o pertenecientes a un grupo o comunidad indígena;
 
-VII. Promover la creación de instituciones, que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Promover la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación o malos tratos; y
+VII. Promover la creación de instituciones, que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
 
-IX. Las demás que establezca la presente ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Promover la recuperación física, psicológica y la integración social de toda menor víctima de abandono, explotación o malos tratos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Derogar o abrogar las disposiciones normativas, que se encuentren dentro del ámbito de su competencia, que impongan requisitos discriminatorios de ingreso y permanencia a escuelas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X. Ajustes razonables en materia de accesibilidad física y comunicaciones en escuelas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Garantizar la accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Desarrollar políticas contra la discriminación por motivos de edad;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 21.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la igualdad real de trato y de oportunidades y la no discriminación de las y los adultos mayores, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de trato y de oportunidades y la no discriminación de las y los adultos mayores, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
 
 I. Garantizar el acceso a los servicios de atención médica y seguridad social, según lo dispuesto en la normatividad en la materia;
 
@@ -341,13 +533,43 @@ III. Promover una cultura a fin de garantizar la integridad psicofísica, así c
 
 IV. Establecer incentivos a las empresas que contraten a las personas adultas mayores;
 
-V. Sensibilizar a los profesionales de la salud y de servicio social, sobre los derechos de las personas adultas mayores, implementando campañas de solidaridad intergeneracional que combatan prejuicios; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+V. Sensibilizar a los profesionales de la salud y de servicio social, sobre los derechos de las personas adultas mayores, implementando campañas de solidaridad intergeneracional que combatan prejuicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Realizar ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Derogar o abrogar las disposiciones normativas, que se encuentren dentro del ámbito de su competencia, que impongan requisitos discriminatorios de ingreso y permanencia a escuelas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X. Garantizar la accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Desarrollar políticas contra la discriminación por motivos de edad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la no discriminación y la igualdad real de oportunidades y de trato, de las personas con discapacidad, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la no discriminación y la igualdad sustantiva de oportunidades y de trato, de las personas con discapacidad, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes:
 
 I. Promover un entorno que permita el libre acceso y desplazamiento, sustentado en los principios de diseño universal;
 
@@ -369,13 +591,55 @@ IX. Promover que en las unidades del sistema estatal de salud y de seguridad soc
 
 X. Garantizar el acceso a la información mediante el lenguaje mexicano de señas visuales, a personas con discapacidad visual y auditiva;
 
-XI. Establecer incentivos a las empresas que contraten a personas con discapacidad, así como rediseñen sus áreas en sujeción a los principios de diseño universal; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+XI. Establecer incentivos a las empresas que contraten a personas con discapacidad, así como rediseñen sus áreas en sujeción a los principios de diseño universal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Realizar ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Adaptar puestos de trabajo para personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Asegurar la accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Derogar o abrogar las disposiciones normativas, que se encuentren dentro del ámbito de su competencia, que impongan requisitos discriminatorios de ingreso y permanencia a escuelas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Diseñar y distribuir las comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Usar intérpretes de lengua de señas mexicana en los eventos públicos de todas las dependencias gubernamentales y en los tiempos oficiales de televisión;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Asegurar la educación para la igualdad y la diversidad dentro del sistema educativo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XXI. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la no discriminación y la igualdad real de oportunidades y de trato, de las personas pertenecientes a un grupo o comunidad indígena, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la no discriminación y la igualdad sustantiva de oportunidades y de trato, de las personas pertenecientes a un grupo o comunidad indígena, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
 
 I. Establecer programas educativos que promuevan el intercambio cultural;
 
@@ -407,17 +671,47 @@ X. Fomentar e implementar programas públicos para modificar e inhibir práctica
 
 XI. De acuerdo a la disponibilidad presupuestaría, difundir a través de textos, tecnología de la información, medios audiovisuales, impresos e informáticos: leyes, reglamentos, así como los contenidos de los programas, obras, servicios dirigidos a los pueblos y comunidades indígenas, en la lengua de sus correspondientes beneficiarios;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Reconocer que las lenguas indígenas serán válidas, al igual que el español, para cualquier asunto o trámite de carácter público, así como para acceder plenamente a la gestión, servicios e información pública en el Estado de Hidalgo; y
+XII. Reconocer que las lenguas indígenas serán válidas, al igual que el español, para cualquier asunto o trámite de carácter público, así como para acceder plenamente a la gestión, servicios e información pública en el Estado de Hidalgo;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Las demás que establezca la presente ley y otras disposiciones aplicables.
+XIII. Diseñar y distribuir las comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en lenguas indígenas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Usar intérpretes y traductores de lenguas indígenas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Derogar o abrogar las disposiciones normativas, que se encuentren dentro del ámbito de su competencia, que impongan requisitos discriminatorios de ingreso y permanencia a escuelas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Desarrollar políticas contra la discriminación por apariencia;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Crear módulos de atención a la ciudadanía en la lengua indígena que prevalezca en la región en todas las instituciones públicas, para efecto de garantizar una atención incluyente y no discriminatoria; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 24.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a. favor de la igualdad real de trato y oportunidades y la no discriminación de las y los jóvenes, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de trato y oportunidades y la no discriminación de las y los jóvenes, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes:
 
 I. Prevenir, atender, disminuir y eliminar los factores de riesgo a los que están expuestas las personas jóvenes, generando condiciones para el ejercicio de sus derechos y su pleno desarrollo;
 
@@ -431,43 +725,147 @@ V. Promover y difundir su participación informada en los asuntos públicos así
 
 VI. Fomentar e incentivar sus expresiones culturales en todas sus manifestaciones, así como el respeto a las mismas;
 
-VII. Promover campañas para garantizar la libre manifestación de las ideas, el derecho a la propia identidad, la libertad y la seguridad de las ppersonas (sic) jóvenes; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Las demás que establezca la presente ley y otras disposiciones aplicables.
+VII. Promover campañas para garantizar la libre manifestación de las ideas, el derecho a la propia identidad, la libertad y la seguridad de las personas jóvenes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Derogar o abrogar las disposiciones normativas, que se encuentren dentro del ámbito de su competencia, que impongan requisitos discriminatorios de ingreso y permanencia a escuelas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X. Asegurar la educación para la igualdad y la diversidad dentro del sistema educativo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Desarrollar políticas contra la discriminación por apariencia;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Garantizar la accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la igualdad real de oportunidades, de trato y la no discriminación de las personas que presenten diversa orientación o preferencia sexual y forma de expresar su identidad de género, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de oportunidades, de trato y la no discriminación de las personas que presenten diversa orientación o preferencia sexual y forma de expresar su identidad de género, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
 
 I. Asegurar el acceso a programas de salud, libre de estereotipos, prejuicios o estigmas;
 
-II. Diseñar e implementar programas con enfoque de derechos humanos y respeto a las diferencias; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-III. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+II. Diseñar e implementar programas con enfoque de derechos humanos y respeto a las diferencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Asegurar la educación para la igualdad y la diversidad dentro del sistema educativo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Garantizar la accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Derogar o abrogar las disposiciones normativas, que se encuentren dentro del ámbito de su competencia, que impongan requisitos discriminatorios de ingreso y permanencia a escuelas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 26.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la igualdad real de trato y de oportunidades y la no discriminación de las personas, en situación de calle, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de trato y de oportunidades y la no discriminación de las personas en situación de calle, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
 
 I. Diseñar e implementar programas de prevención y atención para las poblaciones en situación de calle desde un enfoque de respeto a sus derechos humanos;
 
-II. Establecer procedimientos para evitar el maltrato en la intervención de personas en situación de calle, a efecto de que se respeten sus derechos humanos; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-III. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+II. Establecer procedimientos para evitar el maltrato en la intervención de personas en situación de calle, a efecto de que se respeten sus derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Identificar las prácticas discriminatorias y evitar la violencia institucional en contra de las personas en situación de calle;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Asegurar la educación para la igualdad y la diversidad dentro del sistema educativo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Desarrollar políticas contra la discriminación por apariencia;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Garantizar la accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 27.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la igualdad real de oportunidades y de trato y la no discriminación de las personas migrantes, refugiadas y solicitantes de asilo, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de oportunidades y de trato y la no discriminación de las personas migrantes, refugiadas y solicitantes de asilo, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
 
 I. Revisar y en su caso corregir las prácticas de quienes prestan sus servicios de atención a personas migrantes, con la finalidad de proporcionales un trato digno;
 
-II. Revisar y en su caso reformar los requisitos que se exigen en las diversas dependencias públicas, para que los migrantes puedan acceder a los servicios que en ellas se presten; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-III. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+II. Revisar y en su caso reformar los requisitos que se exigen en las diversas dependencias públicas, para que los migrantes puedan acceder a los servicios que en ellas se presten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Asegurar la educación para la igualdad y la diversidad dentro del sistema educativo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, a favor de la igualdad real de oportunidades y de trato y la no discriminación de las personas que presenten alguna enfermedad, con especial énfasis en aquellas personas que presentan un padecimiento mental, crónico degenerativo o infectocontagioso, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de oportunidades y de trato y la no discriminación de las personas que presenten alguna enfermedad, con especial énfasis en aquellas personas que presentan un padecimiento mental, crónico degenerativo o infectocontagioso, entre las cuales deberán incluir, de manera enunciativa mas no limitativa, las siguientes:
 
 I. Garantizar el acceso a los servicios de salud, según lo dispuesto en los ordenamientos aplicables en la materia;
 
@@ -479,11 +877,31 @@ IV. Promover el derecho a la confidencialidad y privacidad, respecto a la condic
 
 V. Coordinar con las autoridades de salud, programas de sensibilización, capacitación e información para las personas que prestan sus servicios en el sistema educativo, cuyo objetivo sea combatir la ignorancia y desinformación en torno a la enfermedad, para evitar prácticas discriminatorias;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Realizar campañas pedagógicas de información dirigidas a niñas, niños y adolescentes, con el objeto de difundir el respeto a los derechos humanos de las personas que viven con algún tipo de enfermedad física o mental a efecto de inhibir la discriminación en contra de quienes la padecen; y
+VI. Realizar campañas pedagógicas de información dirigidas a niñas, niños y adolescentes, con el objeto de difundir el respeto a los derechos humanos de las personas que viven con algún tipo de enfermedad física o mental a efecto de inhibir la discriminación en contra de quienes la padecen;
 
-VII. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Realizar ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Integrar en el diseño, instrumentación y evaluación de las políticas públicas el derecho a la igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Realizar acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 28 Bis.
+
+Las autoridades del Gobierno del Estado, Municipios, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las medidas positivas y compensatorias necesarias, con perspectiva de género, la igualdad real de oportunidades y de trato y la no discriminación.
 
 ### CAPÍTULO IV.. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
@@ -660,6 +1078,12 @@ Cuando la reclamación o queja presentada involucre tanto a personal del Gobiern
 ###### Artículo 50.
 
 Las y los servidores públicos están obligados a auxiliar al personal de la Comisión en el desempeño de sus funciones, así como a rendir los informes que se les soliciten en los términos establecidos por la Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 50 Bis.
+
+A la persona particular física, moral o servidora pública a quien se atribuyan los presuntos actos, omisiones o prácticas sociales discriminatorias, se les apercibirá para el caso de omisión en dar contestación a las imputaciones, o dar respuesta parcial, se tendrán por ciertas las conductas o prácticas sociales presuntamente discriminatorias que se le atribuyan, salvo prueba en contrario, y se le notificará del procedimiento conciliatorio, cuando así proceda, para efectos de su participación.
 
 ###### Artículo 51.
 
@@ -884,3 +1308,9 @@ P.O. 17 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 755 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
