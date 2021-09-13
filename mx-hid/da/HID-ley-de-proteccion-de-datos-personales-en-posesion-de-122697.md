@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-de-datos-personales-en-posesion-de-122697"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-24"
-last_updated: "2017-11-20"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de julio de 2017.
 
@@ -102,6 +102,12 @@ IV. Comité de Transparencia: Cuerpo colegiado de cada sujeto obligado encargado
 V. Cómputo en la nube: Modelo de provisión externa de servicios de cómputo bajo demanda, que implica el suministro de infraestructura, plataforma o programa informático, distribuido de modo flexible, mediante procedimientos virtuales, en recursos compartidos dinámicamente;
 
 VI. Consentimiento: Manifestación de la voluntad libre, específica e informada del titular, mediante la cual autoriza el tratamiento de sus datos personales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI BIS. Datos Biométricos.- Son los datos personales relacionados con las características físicas, fisiológicas o de comportamiento de una persona física, que permite o confirma la identificación única de la misma.
+
+De manera enunciativa mas no limitativa, son considerados datos biométricos, la Huella dactilar, el Reconocimiento facial, vascular, de iris o retina; y la geometría de la mano u oreja.
 
 VII. Datos personales: Cualquier información concerniente a una persona física identificada o identificable expresada en forma numérica, alfabética, alfanumérica, gráfica, fotográfica, acústica o en cualquier otro formato. Se considera que una persona es identificable cuando su identidad puede determinarse directa o indirectamente a través de cualquier información, siempre y cuando esto no requiera plazos, medios o actividades desproporcionadas;
 
@@ -288,6 +294,10 @@ En adición a la obligación anterior, el responsable deberá sujetarse a las fa
 ###### Artículo 14.
 
 El responsable podrá tratar los datos personales en su posesión para finalidades distintas a aquéllas que motivaron el tratamiento original de los mismos, siempre y cuando cuente con atribuciones expresas conferidas en la Ley y medie el consentimiento del titular, en los términos previstos en la presente Ley y demás normatividad que resulte aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Los datos biométricos como lo son, la Huella dactilar, el Reconocimiento facial, vascular, de iris o retina; y la geometría de la mano u oreja, no podrán ser tratados para otras finalidades, ni transferidos entre autoridades administrativas de ningún orden de gobierno; salvo que se actualicen los supuestos previstos en las fracciones I, III y V del artículo 98 de esta Ley.
 
 ###### Artículo 15.
 
@@ -1150,6 +1160,10 @@ El responsable deberá presentar la evaluación de impacto a la protección de d
 ###### Artículo 109.
 
 El Instituto deberá emitir un dictamen sobre la evaluación de impacto a la protección de datos personales del programa, servicio, sistema de información o tecnología, presentado por el responsable en un plazo de treinta días contados a partir del día siguiente a la presentación de la evaluación, el cual deberá sugerir recomendaciones no vinculantes que permitan mitigar y reducir la generación de los impactos y riesgos que se detecten en materia de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+En el caso que dicho instituto detectará el tratamiento de datos biométricos no necesarios o sustituibles por algún otro que ayude a cumplir la finalidad, exhortará fundada y motivadamente al responsable, a fin de que retire o sustituya dichos datos.
 
 ###### Artículo 110.
 
@@ -2170,3 +2184,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los responsables a que se refiere la presente Ley deberán tramitar, expedir o modificar su normatividad interna, conforme a lo ordenado en la presente Ley, a más tardar el 27 de julio de 2018.
 
 TERCERO. El Instituto deberá emitir los lineamientos a que se refiere esta Ley y publicarlos en el Periódico Oficial del Estado, a más tardar el 27 de enero de 2018.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 758 POR EL QUE SE POR EL QUE SE ADICIONAN LA FRACCIÓN VI BIS AL ARTÍCULO 3; UN PÁRRAFO SEGUNDO AL ARTÍCULO 14; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 109, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
