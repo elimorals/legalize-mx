@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2018-07-30"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -845,7 +845,9 @@ Las organizaciones incorporarán como una de sus políticas prioritarias la de i
 
 El Ejecutivo Estatal, a fin de mantener informado al productor, a sus organizaciones y a la sociedad en general, sobre los avances de los programas y acciones para el desarrollo agrícola, establecerá un Sistema Estatal de Información Agropecuaria, el cual se coordinará con todas las instancias Federales, Estatales y Municipales, para mantener una actualización permanente, que será coordinado por el Secretario de Agricultura y Desarrollo Rural, a través de un Centro Estatal de Información Agropecuaria.
 
-Las reglas de operación del Sistema Estatal de información agropecuaria, se establecerán en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Las reglas de operación del Sistema Estatal de información agropecuaria, se establecerán en el Reglamento de la presente Ley, y serán publicadas en el Periódico Oficial del Estado de Hidalgo, en los sistemas de información institucional y en los sitios oficiales de la dependencia, garantizando la máxima publicidad.
 
 ###### ARTICULO 63.
 
@@ -1286,3 +1288,15 @@ P.O. 30 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 463.- QUE ADICIONA EL ARTÍCULO 13 BIS A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 752 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 62 A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan el presente Decreto.
