@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2020-08-20"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -1063,9 +1063,17 @@ La Dirección de Equidad y No-Discriminación estará encargada de la atención 
 
 I. En coordinación con la Dirección de Educación y Capacitación, impartir cursos y seminarios que promuevan la igualdad de oportunidades;
 
-II. En coordinación con la Dirección de Educación y Capacitación, emitir alertas respecto de problemas graves de discriminación que detecte en la sociedad, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-III. En coordinación con la Dirección de Educación y Capacitación, preparar investigaciones en materia de No-Discriminación.
+II. En coordinación con la Dirección de Educación y Capacitación, emitir alertas respecto de problemas graves de discriminación que detecte en la sociedad;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. En coordinación con la Dirección de Educación y Capacitación, preparar investigaciones en materia de No-Discriminación, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. La implementación del Mecanismo Independiente de Monitoreo Estatal de la Convención sobre los Derechos de las personas con Discapacidad, que tendrá por objeto difundir, promover, proteger y supervisar la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, el cual se organizará y funcionará conforme a lo que establezca su reglamento; sus integrantes tendrán carácter honorifico por lo que no recibirán retribución alguna.
 
 ### Capítulo IX. De la Dirección de Administración
 
@@ -1133,11 +1141,11 @@ VIII. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, c
 
 IX. Rendir anualmente al Congreso del Estado en el mes de enero de cada año, un informe de labores que explique sobre el cumplimiento de las responsabilidades que le consigna esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 79.
 
-La persona titular del Órgano Interno de Control será electa, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y podrá ser reelecta por una sola vez; y así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
+La persona titular del Órgano Interno de Control será electa, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros. Durará en su encargo cuatro años, y podrá ser reelecta por una sola vez; y así mismo, no podrá ser removida sino por causa justificada, debidamente fundada y motivada cuando así lo determine el Pleno del Congreso por mayoría de sus integrantes, y el nuevo nombramiento será por el término que le reste a la autoridad sujeta a remoción.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
@@ -1167,9 +1175,9 @@ IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista pr
 
 V. Efectuada la elección, se citará a la persona electa para que rinda la protesta de ley, ante el Pleno del Congreso.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-ARTICULO 79 BIS. Las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, serán electas, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durarán en su encargo cuatro años, y podrán ser reelectas por una sola vez; no podrán ser removidas sino por los casos y causas que establezcan las leyes de la materia.
+ARTICULO 79 BIS. Las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, serán electas, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros. Durarán en su encargo cuatro años, y podrán ser reelectas por una sola vez; no podrán ser removidas sino por causa justificada, debidamente fundada y motivada cuando así lo determine el Pleno del Congreso por mayoría de sus integrantes, y el nuevo nombramiento será por el término que le reste a la autoridad sujeta a remoción.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
@@ -1904,3 +1912,19 @@ SEGUNDO. La integración de la Comisión Estatal de Derechos Humanos del Estado 
 TERCERO. La elección bajo el principio de paridad de género en los términos de este Decreto, de las personas titulares: del Órgano Interno de Control; así como de las autoridades, Investigadora; y Sustanciadora de dicho órgano, de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, se realizará (sic) partir de la conclusión del ejercicio legal de cada una de las personas que actualmente se desempeñan en dichas titularidades.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1255.- SE REFORMA EL ARTÍCULO 75 EN SUS FRACCIONES II Y III; Y ADICIONA AL MISMO ARTÍCULO 75 LA FRACCIÓN IV, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1257.- SE REFORMA LOS ARTÍCULOS 79 EN SU PÁRRAFO PRIMERO Y 79 BIS EN SU PÁRRAFO PRIMERO, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
