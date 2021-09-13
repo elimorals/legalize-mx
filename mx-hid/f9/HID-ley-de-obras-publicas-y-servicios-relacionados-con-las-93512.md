@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2021-07-28"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -99,7 +99,13 @@ VII.- LICITACIÓN PÚBLICA: Procedimiento a través del cual se convoca a partic
 
 VIII.- MUNICIPIOS: Los contemplados en el Artículo 23 de la Constitución Política para el Estado de Hidalgo; y
 
-IX.- SECRETARÍA: La Secretaría de Obras Públicas y Ordenamiento Territorial.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- SECRETARÍA: La Secretaría de Obras Públicas y Ordenamiento Territorial; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- TESTIGO SOCIAL: La persona física o moral que participa con voz en los procedimientos de contratación de obras públicas y servicios relacionados con las mismas y que emite un testimonio final de conformidad con esta Ley.
 
 ###### ARTÍCULO 3.
 
@@ -440,6 +446,16 @@ Los licitantes sólo podrán presentar una proposición en cada procedimiento de
 A los actos del procedimiento de licitación pública e invitación a cuando menos tres personas podrá asistir cualquier persona en calidad de observador, bajo la condición de registrar su asistencia mediante oficio dirigido a la Dependencia, Entidad o Municipio y abstenerse de intervenir en cualquier forma en los mismos.
 
 En los procedimientos de contratación, optarán preferentemente por el empleo de los recursos humanos y por la utilización de bienes o servicios propios de la región en donde se realizará la obra pública o los servicios relacionados con la misma.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 35 BIS. En las licitaciones públicas, cuyo monto rebase el equivalente a seiscientos mil veces la Unidad de Medida y Actualización vigente, y en aquellos casos que determine la Contraloría, atendiendo al impacto que la contratación tenga en los programas sustantivos de los convocantes, participarán un máximo de tres testigos sociales.
+
+En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio a la Contraloría o al Órgano Interno de Control del convocante.
+
+Se podrá exceptuar la participación de los testigos sociales en aquéllos casos en que los procedimientos de contrataciones contengan información clasificada como reservada en los términos de las disposiciones legales aplicables.
+
+En el Reglamento se establecerán los alcances de participación de los testigos sociales.
 
 ### CAPÍTULO II. DE LA LICITACIÓN PÚBLICA
 
@@ -1252,3 +1268,17 @@ P.O. 28 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 726 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 772 QUE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 2 Y EL ARTÍCULO 35 BIS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO.".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO. El Ejecutivo Estatal adecuará el Reglamento de la Ley de Obra Pública y Servicios relacionados con las mismas para el Estado de Hidalgo un plazo no mayor a 90 días naturales, contados a partir del día siguiente en que entre en vigor el presente ordenamiento.
+
+TERCERO. La Contraloría instrumentará acciones con el objeto de ampliar la cobertura de los testigos sociales en la contratación pública, en un plazo no mayor a cinco años a partir de la entrada en vigor del presente decreto.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin en el ejercicio fiscal 2022.
+
+QUINTO.- Se derogan todas aquellas disposiciones que contravengan el presente decreto.
