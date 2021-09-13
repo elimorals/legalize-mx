@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2021-07-06"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1191,9 +1191,9 @@ El perdón del ofendido o del legitimado para otorgarlo, extingue la acción pen
 
 Cuando muera el ofendido, podrán otorgar el perdón las demás personas que tengan derecho a la reparación del daño y los perjuicios, de conformidad a lo previsto por el artículo 42 de este Código.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-En los casos de los delitos incluidos en el Título Quinto y el Título Octavo que sean perseguibles por querella y que impliquen cualquier tipo de violencia hacia las mujeres, menores de edad o incapaces, el perdón legal solo podrá otorgarse cuando se hayan reparado los daños y perjuicios ocasionados por la comisión del delito y además el inculpado se someta al tratamiento psicoterapéutico reeducativo especializado, previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo y su Reglamento.
+En los casos de los delitos incluidos en el Título Quinto que sean perseguibles por querella y que impliquen cualquier tipo de violencia hacia las mujeres, personas menores de edad o incapaces, el perdón legal solo podrá otorgarse cuando se hayan reparado los daños y perjuicios ocasionados por la comisión del delito y además el inculpado se someta al tratamiento psicoterapéutico reeducativo especializado, previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo y su Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1255,9 +1255,9 @@ III.- Desde el día en que se realizó la última conducta tratándose de delito
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-En los delitos previstos en el Título Quinto, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, no podrá declararse la prescripción en perjuicio de niñas, niños y adolescentes, por el transcurso del tiempo.
+En los delitos previstos en el Título Quinto, así como en los delitos de homicidio doloso, feminicidio, tráfico de menores, corrupción de menores y lenocinio, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, no podrá declararse la prescripción en perjuicio de niñas, niños y adolescentes, por el transcurso del tiempo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1671,9 +1671,13 @@ La misma pena se impondrá a quien no estando en condiciones de prestar auxilio,
 
 Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de seis meses a tres años y multa de 10 a 50 días, privándolo además de la patria potestad o de la tutela, si el delincuente fuere ascendiente o tutor del ofendido y del derecho a heredar respecto a la persona abandonada.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+La punibilidad se aumentará una tercera parte, cuando el delito sea cometido en contra de una persona de sesenta o más años de edad o en contra de una persona menor de dieciocho años.
+
 ### CAPITULO IV. PELIGRO DE CONTAGIO DE ENFERMEDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 161.
 
@@ -1685,7 +1689,7 @@ Al que habiendo atropellado a una persona no le preste auxilio o no solicite la 
 
 ###### ARTICULO 162.
 
-Al que sabiendo que padece algún mal grave y transmisible y de manera intencional ponga por cualquier medio en peligro de contagio la salud de otro, se le impondrá de dos a seis años de prisión, multa de 20 a 120 días y tratamiento curativo obligatorio en institución adecuada. Si la puesta en peligro es violando un deber de cuidado, se impondrá la mitad de la punibilidad y el mismo tratamiento curativo obligatorio, si el peligro de contagio se da entre cónyuges o concubinos, sólo se procederá por querella del ofendido.
+Al que sabiendo que padece algún mal grave y transmisible y de manera intencional ponga por cualquier medio en peligro de contagio la salud de otro, se le impondrá de dos a seis años de prisión, multa de 20 a 120 días y tratamiento curativo obligatorio en institución adecuada. Si la puesta en peligro es violando un deber de cuidado, se impondrá la mitad de la punibilidad y el mismo tratamiento curativo obligatorio, si la enfermedad padecida fuera incurable, la punibilidad que corresponda se aumentará en una mitad. Si el peligro de contagio se da entre cónyuges o concubinos, sólo se procederá por querella del ofendido.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2099,9 +2103,17 @@ Se duplicará la punibilidad prevista en el párrafo anterior:
 
 I.- Cuando el hostigador se valga de su relación laboral, docente, doméstica o cualquier otra que implique subordinación de la víctima.
 
-II.- Cuando la víctima sea menor de edad o persona que no tenga capacidad de comprender el significado del hecho o posibilidad para resistirlo; o
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-III.- Cuando el hostigador sea servidor público y utilice los medios y las circunstancias que el cargo le proporcione, caso en el cual también se le privará del cargo que desempeñe y se le inhabilitará para desempeñar cualquier otro, por el mismo tiempo que dure la pena de prisión impuesta.
+II.- Cuando la víctima sea menor de edad o persona que no tenga capacidad de comprender el significado del hecho o posibilidad para resistirlo;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Cuando el hostigador sea servidor público y utilice los medios y las circunstancias que el cargo le proporcione, caso en el cual también se le privará del cargo que desempeñe y se le inhabilitará para desempeñar cualquier otro, por el mismo tiempo que dure la pena de prisión impuesta; o
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Cuando se cometa en bases, paraderos, estaciones, terminales, en vehículos destinados al transporte colectivo e individual, privado o complementario, o en espacios físicos que sirven como punto para la conexión de los usuarios entre dos o más modos de transporte o dos o más rutas.
 
 Este delito se perseguirá por querella, cuando la víctima fuere mayor de edad con capacidad para comprender el significado del hecho y posibilidad para resistirlo.
 
@@ -2355,7 +2367,9 @@ II.- Si el apoderamiento fuere de seis a quince cabezas, se impondrá de tres a 
 
 III.- Si el apoderamiento excediere de quince cabezas, se impondrá de cinco a siete años de prisión y multa de 150 a 200 días.
 
-Para los efectos del presente artículo, se entenderá por ganado mayor el bovino, equino, mular o asnal y por ganado menor el porcino, ovino o caprino.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Para los efectos del presente artículo, se entenderá por ganado mayor el bovino, equino, mular o asnal y por ganado menor el porcino, ovino, caprino o una colonia de abejas en un apiario.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
@@ -2701,25 +2715,25 @@ IV.- Violencia Sexual: Cualquier acción u omisión que atenta contra la liberta
 
 V.- Violencia Económica: Toda acción u omisión que afecta la economía de la víctima y se manifiesta a través de limitaciones encaminadas a controlar sus ingresos económicos o en la restricción o condicionamiento de los recursos económicos.
 
+ARTICULO 243 QUINTUS.- (DEROGADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+I.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+II.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+III.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+IV.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+V.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+VI.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+VII.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+VIII.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
-
-ARTICULO 243 QUINTUS.- Los delitos previstos en este Capítulo, se perseguirán por querella excepto cuando:
-
-I.- La víctima sea menor de edad, incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa;
-
-II.- La víctima sea mayor de sesenta años de edad;
-
-III.- La víctima sea una mujer en estado de embarazo o durante los tres meses posteriores al parto;
-
-IV.- Se cometa con la participación de dos o más personas;
-
-V.- Se cometa con el uso de armas de fuego o punzocortantes;
-
-VI.- Se deje cicatriz permanente en alguna parte del cuerpo;
-
-VII.- Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
-
-VIII.- Exista imposibilidad material de la víctima de denunciar.
 
 Las punibilidades previstas en este Capítulo, se aplicarán independientemente de la que resulte por la comisión de otros delitos.
 
@@ -3935,9 +3949,9 @@ Al que con propósito de inculpar a alguien como responsable de un delito ante l
 
 ### CAPÍTULO III TER. DELITOS EN CONTRA DE LOS ANIMALES
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 15 días a 1 mes de prisión y multa de 25 a 50 Unidades de Medida y Actualización en su modalidad de valor diario; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 1 mes a 6 meses de prisión y multa de 50 a 150 Unidades de Medida y Actualización en su modalidad de valor diario.
+ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 3 meses a 1 año de prisión de prisión (sic) y multa de 25 a 50 Unidades de Medida y Actualización; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 6 meses a 2 años de prisión y multa de 50 a 150 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -4083,7 +4097,9 @@ IV.- Pagar los salarios de los trabajadores en tabernas, cantinas, prostíbulos 
 
 V.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y los jóvenes menores de 16 años;
 
-VI.- Violar sin causa justificada, en perjuicio de los trabajadores los convenios formalizados ante la Junta de Conciliación y Arbitraje y ante los funcionarios o empleados de ésta que sean competentes para autorizar semejantes convenios;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Violar sin causa justificada, en perjuicio de los trabajadores, los laudos o sentencias dictadas por las autoridades laborales o los convenios formalizados ante el Centro de Conciliación Laboral, ante el Tribunal de Conciliación y Arbitraje, ante la Junta de Conciliación y Arbitraje o ante los Tribunales Laborales.
 
 VII.- Sostener y organizar directa o indirectamente por sí o por interpósita persona, sindicatos blancos dentro de sus negociaciones o por cualquier otro medio procurar divisiones y discordias entre las organizaciones de trabajadores legalmente reconocidos.
 
@@ -4698,3 +4714,9 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 SEGUNDO. El Titular del Poder Ejecutivo del Estado, en un término que no excederá de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, deberá prever las medidas presupuestales y administrativa necesarias, para garantizar el derecho a la interrupción legal del embarazo.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 762 QUE REFORMA EL ARTÍCULO EL ARTÍCULO (SIC) 114 PÁRRAFO TERCERO, 121 PÁRRAFO SEGUNDO, 162 PÁRRAFO PRIMERO, 189 BIS FRACCIÓN II Y III, 208 PÁRRAFO SEGUNDO, 334 FRACCIÓN VI Y 349 DECIES; ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160 Y LA FRACCIÓN IV DEL ARTÍCULO 189 BIS; Y SE DEROGA EL ARTÍCULOS 243 QUINTUS Y SUS FACCIONES I, II, III, IV, V, VI, VII y VIII, DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
