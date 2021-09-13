@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2019-04-01"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -79,6 +79,10 @@ I.- Contribuir al desarrollo sustentable del Estado, mediante la participación 
 
 II.- Impulsar la silvicultura y el aprovechamiento sustentable de los recursos forestales, para que contribuyan con bienes y servicios que aseguren el mejoramiento del nivel de vida de los hidalguenses, especialmente de los propietarios, poseedores y pobladores forestales;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II Bis.- Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, la población vulnerable, los jóvenes y las personas con capacidades diferentes;
+
 III.- Promover el desarrollo de los bienes y servicios ambientales de los ecosistemas forestales así como proteger, mantener y aumentar su biodiversidad;
 
 IV.- Organizar, capacitar, operar, integrar y profesionalizar las instituciones públicas del Estado y Municipios, para el desarrollo forestal sustentable; y
@@ -110,6 +114,10 @@ IX.- Promover y regular los servicios técnico forestales;
 X.- Promover y consolidar las áreas forestales permanentes, impulsando su delimitación y manejo sostenible, evitando que el cambio de uso de suelo con fines agropecuarios o de cualquier otra índole afecte su permanencia y potencialidad;
 
 XI.- Compatibilizar en lo posible las actividades pecuarias y agrícolas en terrenos forestales y preferentemente forestales a través de sistemas agro-silvopastoriles;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI Bis.- Impulsar el manejo forestal sustentable, bajo un enfoque ecosistémico y de manejo integrado del territorio rural, mediante el cual se garantice la capacidad productiva permanente de los ecosistemas y recursos existentes en los mismos y se respete la integridad estructural y funcional, interdependencia, complejidad, diversidad de los ecosistemas forestales y sus procesos de largo plazo, considerando su capacidad de carga y aplicando el principio precautorio;
 
 XII.- Asumir las funciones de inspección y vigilancia forestal, mediante convenios y acuerdos con la Federación;
 
@@ -145,6 +153,10 @@ XXVII.- Fortalecer la participación de la sociedad, incluyendo a los pueblos y 
 
 XXVIII.- Promover instrumentos económicos para fomentar el desarrollo forestal;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII Bis.- Garantizar la aplicación de las salvaguardas reconocidas por el derecho internacional y derechos humanos, bajo el principio de protección más amplia a las personas, para reducir al mínimo los riesgos sociales y ambientales;
+
 XXIX.- Impulsar el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas, de conformidad con la normatividad que resulte aplicable; y
 
 XXX.- Fomentar la cultura, educación, capacitación, investigación y desarrollo tecnológico forestal.
@@ -155,7 +167,9 @@ XXX.- Fomentar la cultura, educación, capacitación, investigación y desarroll
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Aprovechamiento forestal: La extracción realizada en los términos de esta Ley, de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Aprovechamiento forestal sustentable: La extracción realizada en los términos de esta Ley, de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables, en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos por periodos indefinidos;
 
 II.- Áreas de Protección Forestal: Los espacios forestales o boscosos colindantes a la zona Federal y de influencia de nacimientos, corrientes, cursos y cuerpos de agua o la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la Autoridad, de acuerdo con el Reglamento de esta Ley;
 
@@ -238,6 +252,10 @@ XXXVIII.- Reglamento: El Reglamento de la presente Ley;
 XXXIX.- Rendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;
 
 XL.- Restauración forestal: El conjunto de actividades tendentes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente sus funciones originales y mantener las condiciones que propicien su persistencia y evolución;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XL BIS.- Salvaguardas: Defensas precautorias de los derechos de la población y de los propietarios y poseedores legales de los recursos forestales en escenarios de riesgo ambiental;
 
 XLI.- Saneamiento forestal: Las acciones técnicas encaminadas a combatir y controlar plagas y enfermedades forestales;
 
@@ -521,13 +539,17 @@ La política Estatal en materia forestal, promoverá el fomento y adecuada plane
 
 Por tanto, la política en materia forestal sustentable que desarrolle el Ejecutivo Estatal, deberá observar los principios rectores, que establece la Ley General de Desarrollo Forestal Sustentable:
 
-I.- Lograr que el aprovechamiento sustentable de los ecosistemas forestales sea fuente permanente de ingresos y mejores condiciones de vida para sus propietarios o poseedores, generando una oferta suficiente para la demanda social, industrial y exportación, así como fortalecer la capacidad productiva de los ecosistemas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Impulsar que el aprovechamiento sustentable de los ecosistemas forestales sea fuente permanente de ingresos y mejores condiciones de vida para sus propietarios o poseedores y las comunidades que dependen de dichos ecosistemas, generando una oferta suficiente para la demanda social, industrial y la exportación, así como fortalecer la capacidad productiva de los ecosistemas y fomentar el manejo forestal comunitario;
 
 II.- Fortalecer las capacidades de decisión, acción y fomento de las comunidades ante las Autoridades y otros agentes productivos, de manera que puedan ejercer su derecho a proteger, conservar y aprovechar los ecosistemas forestales, de acuerdo con sus conocimientos, experiencias y tradiciones;
 
 III.- Dar atención integral y cercana a los usuarios, propietarios y poseedores forestales, en el marco del Servicio Estatal Forestal;
 
-IV.- Diseñar y establecer instrumentos de mercado, fiscales, financieros y jurídico regulatorios, orientados a inducir comportamientos productivos y de consumo sobre los recursos forestales y dar transparencia a la actividad forestal;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Diseñar y establecer instrumentos de mercado, fiscales, financieros y jurídico regulatorios, orientados a inducir comportamientos productivos y de consumo sustentables de los recursos forestales, que respeten los derechos comunitarios y darle transparencia a la actividad forestal;
 
 V.- Asegurar la permanencia y calidad de los bienes y servicios ambientales, derivados de los procesos ecológicos, asumiendo en programas, proyectos, normas y procedimientos la interdependencia de los elementos naturales, que conforman los recursos susceptibles de aprovechamiento, como parte integral de los ecosistemas a fin de establecer procesos de gestión y formas de manejo integral de los recursos naturales;
 
@@ -535,9 +557,25 @@ VI.- Desarrollar mecanismos y procedimientos que reconozcan el valor de los bien
 
 VII.- Crear mecanismos económicos para compensar, apoyar y estimular a los propietarios y poseedores de los recursos forestales por la generación de los bienes y servicios ambientales, considerando a éstos como bienes públicos, para garantizar la biodiversidad y la sustentabilidad de la vida humana;
 
-VIII.- Vigilar que la capacidad de transformación de la industria forestal existente, sea congruente con el volumen autorizado en los permisos de aprovechamiento expedidos, considerando las importaciones del extranjero y de otras Entidades; y
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-IX.- Consolidar una cultura forestal que garantice el cuidado, preservación y aprovechamiento sustentable de los recursos forestales, sus bienes y servicios ambientales, así como su valoración económica, social y de seguridad, que se proyecte en actitudes, conductas y hábitos de consumo.
+VII BIS.- Impulsar la formación de salvaguardas para regular y fomentar la conservación, mejora y desarrollo de los recursos forestales; así como para asegurar la protección a la población en casos de riesgos ambientales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Vigilar que la capacidad de transformación de la industria forestal existente, sea congruente con el volumen autorizado en los permisos de aprovechamiento expedidos, considerando las importaciones del extranjero y de otras Entidades;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Consolidar una cultura forestal que garantice el cuidado, preservación y aprovechamiento sustentable de los recursos forestales, sus bienes y servicios ambientales, así como su valoración económica, social y de seguridad, que se proyecte en actitudes, conductas y hábitos de consumo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Un enfoque territorial y ecosistémico, que coordine acciones de los diversos agentes involucrados en los territorios forestales; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- La integración industrial local y el desarrollo de oportunidades de empleo para poblaciones sin acceso a la tierra en los territorios forestales.
 
 ###### ARTICULO 19.
 
@@ -551,11 +589,25 @@ I.- El respeto y conocimiento de la naturaleza, cultura y tradiciones de los pue
 
 II.- La incorporación efectiva de los propietarios forestales y sus organizaciones en la silvicultura, producción, industria y comercio de los productos forestales, la diversificación o uso múltiple y los bienes y servicios ambientales;
 
-III.- La participación de los propietarios de predios e industrias forestales, en los procesos de promoción de certificación del manejo forestal y de la cadena productiva;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- La participación de las organizaciones sociales y privadas e instituciones públicas en la conservación, protección, restauración y aprovechamiento de los ecosistemas forestales y sus recursos; y
+III.- La participación activa de los propietarios de predios e industrias forestales, en los procesos de promoción de certificación del manejo forestal y de la cadena productiva;
 
-V.- El impulso al mejoramiento de la calidad, capacidad y condición de los recursos humanos a través de la modernización e incremento de los medios para la educación, la capacitación y generación de mayores oportunidades de empleo, en actividades productivas y de servicios.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- La participación de las organizaciones sociales y privadas e instituciones públicas en la conservación, protección, restauración y aprovechamiento de los ecosistemas forestales y sus recursos;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V.- El impulso al mejoramiento de la calidad, capacidad y condición de los recursos humanos a través de la modernización e incremento de los medios para la educación, la capacitación y generación de mayores oportunidades de empleo, en actividades productivas y de servicios;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. La regulación y aprovechamiento de los recursos y terrenos forestales, deben ser objeto de atención de las necesidades sociales, económicas, ecológicas y culturales de las generaciones presentes y futuras; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. El fomento al manejo forestal comunitario.
 
 ###### ARTICULO 21.
 
@@ -581,13 +633,29 @@ IX.- La contribución a la fijación de carbono y liberación de oxígeno;
 
 X.- La conservación de la biodiversidad de los ecosistemas forestales, y de las comunidades indígenas;
 
-XI.- La conservación prioritaria de las especies amenazadas de extinción o sujetas a protección especial;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XII.- La protección de los recursos forestales a través del combate al tráfico o apropiación ilegal de materias primas y de especies;
+XI.- La conservación prioritaria de las especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial;
 
-XIII.- La recuperación forestal de los terrenos preferentemente forestales, para incrementar la frontera forestal; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XIV.- El uso de especies compatibles con las nativas y con la persistencia de los ecosistemas forestales.
+XII.- La protección de los recursos forestales a través del combate al tráfico o apropiación ilegal de materias primas, productos y de especies;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII.- La recuperación forestal de los terrenos agropecuarios y preferentemente forestales, para incrementar la frontera forestal;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV.- El uso de especies compatibles con las nativas y con la persistencia de los ecosistemas forestales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- La conservación y mejoramiento genético de los recursos forestales; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI.- Observar los principios como: biodiversidad, interconectividad, interdependencia, procesos de largo plazo y complejidad.
 
 ###### ARTICULO 22.
 
@@ -597,7 +665,9 @@ I.- Ampliar y fortalecer la participación de la producción forestal en el crec
 
 II.- El desarrollo de infraestructura;
 
-III.- El fomento al desarrollo constante y diversificado de la industria forestal, creando condiciones favorables para la inversión de grandes, medianos, pequeños y microempresas, a fin de asegurar una oferta creciente de productos para el consumo interno y el Mercado Nacional;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III.- El fomento al desarrollo constante y diversificado de la industria forestal, de los servicios y comercios relacionados con este sector, el fortalecimiento de redes locales de valor, creando condiciones favorables para la inversión de grandes, medianos, pequeños y microempresas, a fin de asegurar una oferta creciente de productos para el consumo interno y el Mercado Nacional;
 
 IV.- El fomento a la integración de cadenas productivas y comerciales;
 
@@ -619,9 +689,17 @@ XII.- El apoyo económico y otorgamiento de incentivos a los proyectos de invers
 
 XIII.- La valoración de los bienes y servicios ambientales;
 
-XIV.- El apoyo, estímulo y compensación de los efectos económicos de largo plazo de formación del recurso forestal y del costo de los bienes y servicios ambientales; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XV.- La realización de acciones equivalentes a la regeneración, restauración y restablecimiento de recursos forestales, en aquellas obras o actividades públicas o privadas que por ellas mismas puedan ocasionar el deterioro.
+XIV.- El apoyo, estímulo y compensación de los efectos económicos de largo plazo de formación del recurso forestal y del costo de los bienes y servicios ambientales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- La realización de acciones equivalentes a la regeneración, restauración y restablecimiento de recursos forestales, en aquellas obras o actividades públicas o privadas que por ellas mismas puedan ocasionar el deterioro; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. El establecimiento de plantaciones forestales comerciales.
 
 ### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA FORESTAL
 
@@ -1228,6 +1306,10 @@ Los adquirentes de la propiedad o de los derechos de uso o usufructo sobre terre
 Los titulares de los derechos de propiedad, uso o usufructo de terrenos en donde exista un área de protección deberán hacerlo del conocimiento del adquirente, del fedatario o Autoridad, ante quien se vaya a realizar el acto de transmisión de estos derechos y deberá hacerse constar esta situación en la escritura correspondiente.
 
 Los derechos de aprovechamiento podrán ser cedidos en todo o en parte a favor de terceras personas. Cuando se trate del supuesto a que se refiere el Artículo 56 la transferencia de los derechos derivados de la autorización sólo podrá surtir efectos una vez que la Secretaría haya emitido dictamen sobre su procedencia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+En ningún caso la pérdida de cubierta forestal ocasionada por incendio, tala, desmonte o quema, podrá considerarse como razón para autorizar el cambio de uso de suelo en terrenos forestales.
 
 No se podrá otorgar autorización de cambio de uso de suelo en un terreno incendiado sin que hayan pasado 20 años, a menos que se acredite fehacientemente a la Secretaría que el ecosistema se ha regenerado totalmente, mediante los mecanismos que para tal efecto se establezcan en el Reglamento.
 
@@ -1907,6 +1989,10 @@ XXII.- Realizar en terrenos incendiados, cualquier actividad o uso distintos a l
 
 XXIII.- Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII BIS.- La extracción, sin autorización, de recursos forestales maderables en áreas de protección forestal.
+
 XXIV.- Depositar residuos sólidos, que representen peligro de desequilibrio ecológico al ambiente; y
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
@@ -1941,9 +2027,9 @@ La imposición de las multas a que se refiere el Artículo anterior, se determin
 
 I.- Con el equivalente de 40 a 1,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXV del Artículo 152 de esta ley; y
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II.- Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII y XXIV del Artículo 152 de esta Ley.
+II.- Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII, XXIII BIS y XXIV del Artículo 152 de esta Ley.
 
 > <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2092,3 +2178,9 @@ P.O. 1 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 746 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
