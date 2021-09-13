@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2020-08-17"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -67,7 +67,9 @@ V.- Fomentar la inversión productiva en las actividades económicas Estatales, 
 
 VI.- Promover el crecimiento y desarrollo sustentable de los distintos Municipios y regiones de la Entidad, particularmente los de menor desarrollo relativo;
 
-VII.- Fomentar la creación, desarrollo y consolidación de las micro, pequeñas y medianas empresas, así como de proyectos emprendedores y de las empresas sociales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Fomentar la creación, formalización, desarrollo y consolidación de las micro, pequeñas y medianas empresas, así como de proyectos emprendedores y de las empresas sociales;
 
 VIII.- Facilitar el acceso a los apoyos institucionales y programas de fomento al desarrollo económico, para su óptimo aprovechamiento, en particular en aquellos sectores y regiones estratégicos definidos en el Plan Estatal de Desarrollo;
 
@@ -115,7 +117,9 @@ III.- ASOCIACIONISMO: Modelo de vinculación productiva que realiza un conjunto 
 
 IV.- CADENAS PRODUCTIVAS: Los sistemas productivos que integran conjuntos de organismos y Unidades Económicas, que proporcionan un alto valor agregado a los procesos de generación de productos o servicios;
 
-V.- CENTRO HIDALGUENSE DE SERVICIOS EMPRESARIALES: Espacio físico para la orientación, información, asesoría, vinculación y prestación de servicios a las MIPYMES;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V.- INSTITUTO HIDALGUENSE DE SERVICIOS EMPRESARIALES: Espacio físico para la orientación, información, asesoría, vinculación y prestación de servicios a las MIPYMES;
 
 VI.- CONSEJO CONSULTIVO: Grupo de trabajo auxiliar de la Comisión Rectora, integrado por servidores públicos, encargado por la presente disposición, o por una autoridad competente, del análisis, seguimiento, evaluación y resolución de asuntos vinculados con inversiones productivas y otorgamiento de apoyos y estímulos a la inversión;
 
@@ -128,6 +132,10 @@ IX.- ESTÍMULO: Es el apoyo directo o indirecto que otorga el Poder Ejecutivo de
 X.- FOMENTO ECONÓMICO: Realización de acciones orientadas al desarrollo económico y a la competitividad de la Entidad, en función de la optimización de los procesos y procedimientos, alineación estratégica de planes y programas, mejora regulatoria, capacitación y adiestramiento, y todo lo relativo a la generación de inversiones y empleo;
 
 XI.- FONDO: El Fondo para el Desarrollo Económico y la Competitividad del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI BIS.- FORMALIZACIÓN. Proceso por el que las unidades económicas dan cumplimiento a la normatividad fiscal, laboral y de seguridad social.
 
 XII.- INCENTIVOS: Acto relativo a la exención de impuestos y derechos, estímulos fiscales, subsidios o servicios de apoyo y gestoría, emitidos por la autoridad competente de los Gobiernos Estatal y Municipales destinados a fomentar las actividades económicas;
 
@@ -211,17 +219,21 @@ II.- Un Vicepresidente Ejecutivo, quien suplirá al Presidente en su ausencia, q
 
 III.- Un Secretario Técnico, que será designado por el Titular de la Secretaría;
 
-IV.- Cinco Vocales del Gobierno del Estado, que serán los Titulares de las Secretarías de:
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-a).- Finanzas;
+IV.- Cinco Vocales del Gobierno del Estado, que serán los Titulares de:
 
-b).- Planeación y Desarrollo Regional;
+a) Secretaría de las Finanzas Públicas;
 
-c).- Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+b) Unidad de Planeación y Prospectiva;
 
-d).- Agricultura; y
+c) Secretaría de Obras Públicas y Ordenamiento Territorial;
 
-e).- Turismo.
+d) Secretaría de Desarrollo Agropecuario;
+
+e) Turismo; y
+
+f) Secretaría del Trabajo y Previsión Social.
 
 ###### Artículo 10.
 
@@ -293,9 +305,11 @@ Para el cumplimiento de su objeto, la Comisión Rectora se apegará a los térmi
 
 Se crea un Consejo Consultivo de Análisis e Incentivos a la Inversión para la Competitividad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-El Consejo Consultivo estará integrado por los Titulares de la Secretaría de Desarrollo Económico, la Secretaría de Finanzas, la Secretaría de Planeación y Desarrollo Regional; y la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos, quienes designarán a sus respectivos suplentes.
+El Consejo Consultivo estará integrado por los Titulares de la Secretaría de Desarrollo Económico, la Secretaría de Finanzas Públicas, Secretaría de Obras Públicas y Ordenamiento Territorial y de la Unidad de Planeación y Prospectiva, quienes designarán a sus respectivos suplentes.
 
 En función de las características y necesidades de los proyectos, el Presidente del Consejo Consultivo podrá invitar a otras Dependencias y Entidades de la Administración Pública Estatal y de las Administraciones Públicas Municipales.
 
@@ -405,7 +419,9 @@ V.- Difundir los esquemas de financiamiento dispuestos para las MIPYMES, en coor
 
 VI.- Consolidar, alinear y dar congruencia a la oferta de servicios a las MIPYMES, con los programas e instrumentos de apoyo de la Federación, generando valor agregado y evitando duplicidad de acciones al interior del Gobierno del Estado;
 
-VII.- Crear el Centro Hidalguense de Servicios Empresariales, con el objeto de proporcionar orientación, asesoría, asistencia técnica y vinculación sobre financiamiento, capacitación, mercados, protección civil, medio ambiente y desarrollo empresarial, entre otros productos y servicios, que respalden la modernización, mayor competitividad y sustentabilidad de las Unidades Económicas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Crear el Instituto Hidalguense de Competitividad Empresarial, con el objeto de proporcionar orientación, asesoría, asistencia técnica y vinculación sobre financiamiento, capacitación, mercados, protección civil, medio ambiente y desarrollo empresarial, entre otros productos y servicios, que respalden la formalización, la modernización, mayor competitividad y sustentabilidad de las Unidades Económicas;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -457,9 +473,11 @@ V.- Las acciones encaminadas a favorecer el ambiente, relaciones y cultura labor
 
 VI.- El desarrollo de habilidades y conocimientos, mediante esquemas de modernización y profesionalización, que reconozcan, califiquen y certifiquen la experiencia y competencia laboral de las personas, para el desempeño de funciones productivas, que permitan atender las necesidades del mercado laboral.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-La Secretaría, en coordinación con las Dependencias competentes del Ejecutivo Estatal, promoverá la incorporación de los sectores más desprotegidos y desvinculados del mercado formal, a las oportunidades de empleo y capacitación; para lo cual en los programas relacionados con el empleo, se deberán de prever acciones orientadas a estos propósitos.
+La Secretaría, en coordinación con las Dependencias competentes del Ejecutivo Estatal, promoverá la incorporación de las personas trabajadoras más desprotegidas y desvinculadas de la economía formal, a las oportunidades de empleo y capacitación; para lo cual, en los programas relacionados con el empleo, se deberán de prever acciones orientadas a estos propósitos.
 
 ### CAPÍTULO IV. DEL IMPULSO Y DIFUSIÓN DEL DESARROLLO Y MODERNIZACIÓN TECNOLÓGICA
 
@@ -854,3 +872,13 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 427 POR EL QUE SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 1, FRACCIÓN VII DEL ARTÍCULO 10; Y FRACCIONES IV Y VIII DEL ARTÍCULO 28; Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 1 DE LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 756 QUE REFORMA Y QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- El Ejecutivo Estatal en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá emitir las reglas de operación y demás disposiciones para su cumplimiento
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin en el ejercicio fiscal 2022.
