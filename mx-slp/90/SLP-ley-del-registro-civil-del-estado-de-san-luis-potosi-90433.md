@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2021-06-10"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -279,7 +279,9 @@ IX. Fungir de enlace ante el Registro Nacional de Población e Identificación P
 
 X. Enviar al Registro Nacional de Población, y al Instituto Nacional de Estadística, Geografía e Informática, copias de las actas de las que levantan los oficiales;
 
-XI. Dar aviso cada 90 días al Registro Federal de Electores del Instituto Federal Electoral de las actas levantadas por los oficiales y que son remitidas a la Dirección en los casos de defunción de personas mayores de edad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Dar aviso cada 90 días al Registro Federal de Electores del Instituto Nacional Electoral de las actas levantadas por los oficiales y que son remitidas a la Dirección en los casos de defunción de personas mayores de edad;
 
 XII. Proporcionar capacitación en forma permanente y periódica a los oficiales y al personal del Registro Civil, antes y durante el ejercicio de sus funciones, siendo ésta obligatoria con la finalidad de profesionalizar los servicios que presta la institución y actualización de sus servidores públicos, y
 
@@ -733,7 +735,9 @@ De igual forma hará prueba plena la constancia de parto que contenga el nombre 
 
 Cuando no exista el certificado o la constancia antes señalada, o por causas de fuerza mayor no se tuvieran, el declarante deberá presentar ante el Oficial, denuncia realizada ante el Ministerio Público, en la que se haga constar la razón de la falta de documentos y las circunstancias en que ocurrió el nacimiento. Dicha denuncia se anexará al expediente.
 
-III. Copia certificada del acta de matrimonio de los padres; en caso de no ser casados, deberán presentar sus actas de nacimiento para el efecto de que se haga constar la filiación de ambos en el acta del registrado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Copia certificada del acta de matrimonio de los padres; en caso de no ser casados, deberán presentar sus actas de nacimiento para el efecto de que se haga constar la filiación de ambos en el acta del registrado; respetando el orden de los apellidos, que de común acuerdo determinen ambos progenitores.
 
 IV. Identificación oficial de los presentantes, cuando sea posible, y
 
@@ -745,11 +749,11 @@ V. Comprobante del domicilio declarado por él o los presentantes del menor a re
 
 En las poblaciones en que no haya Oficial, el recién nacido será presentado ante el oficial más cercano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 67.
 
-La primera copia certificada del acta de nacimiento será gratuita, y se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+La primera copia certificada del acta de nacimiento será gratuita, y se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, respetando el orden de los apellidos que de común acuerdo determinen ambos progenitores, asentando la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
 
 Sí éste se presenta como hija o hijo de madre y padre desconocidos, el Oficial, le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
 
@@ -1676,5 +1680,21 @@ P.O. 10 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1191.- SE REFORMA LOS ARTÍCULOS 5°, 18 EN SU PÁRRAFO PRIMERO, 37 EN SUS PÁRRAFOS PRIMERO Y OCTAVO, 69, 75 EN SU PÁRRAFO PRIMERO Y 154; Y DEROGA DE LOS ARTÍCULOS 19 LA FRACCIÓN III Y 26 LA FRACCIÓN II, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1259.- SE REFORMA EL ARTÍCULO 21 EN SU FRACCIÓN XI, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1263.- SE REFORMA LOS ARTÍCULOS 65 EN SU FRACCIÓN III Y 67 EN SU PRIMER PÁRRAFO, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
