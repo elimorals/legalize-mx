@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-la-tortura-en-el-estado-de-san-luis-potosi-80
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2018-02-17"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 28 de diciembre de 2010.
 
@@ -63,9 +63,11 @@ La autoridad ministerial al tener conocimiento o razones fundadas de que existen
 
 La autoridad jurisdiccional al tener conocimiento o razones fundadas de que existen indicios o evidencias de que se ejerció tortura en la confesión de la persona indiciada, o en la declaración de las personas que deponen en su contra, dará vista inmediatamente a la autoridad ministerial, aun cuando se produzca el fallecimiento de la víctima en alguna de las etapas del procedimiento.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 4°.
 
-En todo lo no previsto por esta Ley, serán aplicables supletoriamente las disposiciones de los códigos, Penal; y de Procedimientos Penales, vigentes en el Estado de San Luis Potosí.
+En todo lo no previsto por esta Ley, serán aplicables supletoriamente las disposiciones de los códigos, Penal Federal; Penal del Estado; y Nacional de Procedimientos Penales; así como la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 ### CAPITULO II. DE LA PREVENCION DE LA TORTURA
 
@@ -121,9 +123,11 @@ En la implementación de la prevención de la tortura y demás acciones que deri
 
 ### CAPITULO III. DE LA REPARACION DEL DAÑO
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 13.
 
-El responsable por el delito de tortura estará obligado a cubrir los gastos de asesoría legal, médicos, funerarios, de rehabilitación o de cualquier otra índole, que haya erogado la víctima o sus familiares, como consecuencia del delito, en los términos de los códigos, Penal; y de Procedimientos Penales, estatales.
+El responsable por el delito de tortura estará obligado a cubrir los gastos de asesoría legal, médicos, funerarios, de rehabilitación o de cualquier otra índole, que haya erogado la víctima o sus familiares, como consecuencia del delito, en los términos de los códigos, Penal Federal, Penal del Estado; y Nacional de Procedimientos Penales; así como Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos a Penas Crueles, Inhumanos o Degradantes.
 
 ## TRANSITORIOS
 
@@ -160,5 +164,13 @@ P.O. 17 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 885.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3° DE LA LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSI".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1245.- SE REFORMA (SIC) LOS ARTÍCULOS 4° Y 13 DE LA LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Éste Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
