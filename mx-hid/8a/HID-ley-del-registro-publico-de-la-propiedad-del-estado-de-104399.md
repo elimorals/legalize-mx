@@ -4,7 +4,7 @@ identifier: "HID-ley-del-registro-publico-de-la-propiedad-del-estado-de-104399"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2015-12-31"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance Dos del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -791,7 +791,15 @@ XI. Las fianzas legales o judiciales, de acuerdo con lo establecido en el Artíc
 
 XII. El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio de bienes inmuebles, así como declaraciones de reservas, destinos y usos surgidos de las leyes aplicables;
 
-XIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII BIS. Las determinaciones Judiciales señaladas en el artículo 141 BIS de la Ley para la Familia del Estado de Hidalgo.
+
+El Registro verificará el Registro de Deudores Alimentarios Morosos para el caso de que el deudor alimentario pretenda adquirir, transmitir, modificar, limitar, extinguir la propiedad o posesión de bienes y raíces o cualquier otro derecho real. De estar en este supuesto informará al Juez Familiar competente para que este resuelva lo que a derecho corresponda y no podrá realizarse la inscripción; y
 
 XIV. Cualquier otro título que sea anotable, de acuerdo con la presente Ley y su Reglamento, u otras Leyes, por mandato legítimo de autoridad o que sea procedente a juicio del Registrador.
 
@@ -1376,3 +1384,9 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 765 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 113; Y SE ADICIONA, LA FRACCIÓN XIII BIS AL ARTÍCULO 113 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
