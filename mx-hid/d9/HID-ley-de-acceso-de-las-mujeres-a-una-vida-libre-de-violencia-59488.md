@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-03-15"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -83,53 +83,109 @@ IV.- La igualdad sustantiva entre mujeres y hombres;
 
 V.- El pluralismo social y la multiculturalidad de las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- La perspectiva de género; y
+VI.- La perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VII.- La transversalidad.
+VII.- La transversalidad; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Enfoque diferencial y especializado.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 3 BIS.- Los ejes de acción mencionados en el Artículo 1 de la presente Ley serán:
+
+I.- Eje de Prevención;
+
+II.- Eje de Atención;
+
+III.- Eje de Sanción; y
+
+IV.- Eje de Erradicación
+
+La Política Estatal Integral se articulará en estos ejes de acción, con el propósito de hacer efectivo el derecho de las mujeres para acceder a una vida libre de todo tipo y forma de violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 4.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I.- Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II.- Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+I.- Agravio Comparado: Implica un trato desigual de las mujeres dentro del marco jurídico del Estado, en relación con otro Estado e incluso de procedimientos y trámites de índole administrativa (sic);
 
-III.- Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+II.- Cédula de Registro Único: Instrumento operado mediante un sistema informático, conformado por los apartados de los datos de la víctima; de la agresión y/o delitos a la víctima; de la persona agresora; del servicio o servicios brindados a la víctima, los sugeridos por el tratante y, en su caso, la canalización a otra dependencia mediante el sistema de referencia-contrarreferencia realizada;
 
-IV.- Violencia contra las mujeres: Cualquier acción u omisión, que a través del uso o abuso del poder ejercido sobre una mujer y basada en su género, tiene por objeto, fin o resultado causar la muerte o un daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-V.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+III.- Dependencias: Las Secretarías que conforman al Poder Ejecutivo y que constituyen la Administración Pública Central en términos de la Ley Orgánica para la Administración Pública del Estado de Hidalgo;
 
-VI.- Víctima: La mujer de cualquier edad a quien se le inflige algún tipo de violencia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+IV.- Derechos fundamentales de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos fundamentales universales contenidos en los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos;
 
-VII.- Generador de violencia: La persona que inflige cualquier tipo de violencia contra las mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VIII.- Derechos fundamentales de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos fundamentales universales contenidos en los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
+V.- Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el goce pleno de sus derechos y libertades;
 
-IX.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad contribuyendo a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+VI.- Entidades: Los Organismos Descentralizados creados por Ley o Decreto;
 
-IX Bis.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-X.- Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el goce pleno de sus derechos y libertades;
+VII.- Estado: El Estado Libre y Soberano de Hidalgo;
 
-XI.- Dependencias: Las Secretarías que conforman al Poder Ejecutivo y que constituyen la Administración Pública Central en términos de la Ley Orgánica para la Administración Pública del Estado de Hidalgo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XII.- Entidades: Los Organismos Descentralizados creados por Ley o Decreto.
+VIII.- Generador de violencia: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
-XIII.- Estado: El Estado Libre y Soberano de Hidalgo; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XIV.- Agravio Comparado: Implica un trato desigual de las mujeres dentro del marco jurídico del Estado, en relación con otro Estado e incluso de procedimientos y trámites de índole administrativa.
+IX.- Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad contribuyendo a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII.- Ruta de atención integral a mujeres en situación de violencia de género: Mecanismo que articula mediante el sistema de referencia y contrarreferencia servicios interinstitucionales, que de conformidad con las atribuciones y facultades de las dependencias y entidades de la administración pública estatal y municipal, deben brindar para garantizar la atención integral a mujeres y niñas víctimas de violencia de género, que disminuyan el impacto de la violencia, brinden protección, contribuyan a la superación de las secuelas de los hechos victimizantes e incluyan estrategias eficaces de rehabilitación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV.- Sistema de referencia, contrarreferencia: Procedimiento técnico [médico-jurídico] y administrativo entre las instituciones y dependencias de que participan en el Sistema Estatal para la Prevención, Atención y Erradicación de la Violencia hacia las Mujeres, para facilitar el envío-recepción-regreso de las mujeres en situación de violencia, con el propósito de brindarles una atención oportuna, integral y de calidad;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII (SIC).- Víctima: La mujer de cualquier edad a quien se le inflige algún tipo de violencia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII.- Violencia contra las mujeres: Cualquier acción u omisión que, a través del uso o abuso del poder ejercido sobre una mujer y basada en su género, tiene por objeto, fin o resultado causar la muerte o un daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado.
 
 ###### ARTÍCULO 5.
 
@@ -201,6 +257,10 @@ Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos y por las que
 
 Para efectos del presente Capítulo se entenderá por Tecnologías de la información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI Bis. Violencia Simbólica.- Es la violencia amortiguada, insensible e invisible para sus propias víctimas, que se ejerce mediante la expresión, emisión o difusión de mensajes, signos, valores icónicos e ideas con patrones estereotipados y simbólicos, que se transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2019)</small>
 
 XII. Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
@@ -227,9 +287,11 @@ IV.- La imposición vocacional en el ámbito escolar; y
 
 V.- El propiciar un estado de riesgo de las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género para proteger a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales. Para ello deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género, interculturalidad, diversidad y regionalización de la población, para proteger de manera integral a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales. Para ello deberán tomar en consideración:
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
@@ -259,21 +321,21 @@ VI.- Evitar la implementación o utilización de procedimientos de mediación o 
 
 VII.- Impulsar la creación de mejores y más eficaces procedimientos, estrategias y servicios para prevenir, atender, sancionar y erradicar la violencia familiar que se cometa en agravio de víctimas sujetas a aislamiento social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 9.
 
-Con el objeto de contribuir a la erradicación de la violencia contra las mujeres en el ámbito familiar, las Instancias facultadas para hacerlo, promoverán ante el Poder Legislativo, en la esfera de su competencia, que considere:
+El Poder Legislativo contribuirá a la erradicación de la violencia contra las mujeres, generando medidas legislativas con perspectiva de género y erradicación de conductas generadoras de violencia.
 
-I.- Tipificar el delito de violencia familiar y sus equiparaciones conducentes, que incluyan como elementos los contenidos en la definición prevista en el Artículo 6 de este ordenamiento;
+I.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-II.- Establecer la violencia familiar como causal de divorcio y habrá de considerarse en lo relativo a la pérdida de la patria potestad y de restricción para el régimen de visitas, así como para la guarda y custodia de hijas e hijos;
+II.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-III.- Establecer la violencia familiar como causal de divorcio, de pérdida de la patria potestad, de impedimento para la guarda y custodia de niños y niñas; así como de restricción para el régimen de visitas o de convivencia;
+III.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-IV.- Disponer la pérdida de la patria potestad cuando sea por causa de violencia familiar, incumplimiento de obligaciones alimentarías o de crianza; y
+IV.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
-
-V.- Legislar a efecto de que, en los ordenamientos conducentes, se incluya como sanción, al generador de violencia, someterse a psicoterapia reeducativa especializada y gratuita, y a participar en actividades para modificar su conducta violenta.
+V.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -489,13 +551,17 @@ La violencia política contra las mujeres en razón de género se sancionará en
 
 Las órdenes de protección: Son personalísimas e intransferibles, de naturaleza administrativa y jurisdiccional, así como, de urgente aplicación para proteger a las mujeres de la violencia familiar o sexual, siendo fundamentalmente precautorias y cautelares, consecuentemente no causan estado sobre los bienes o derechos de los probables responsables o infractores, y durarán por el tiempo que determine el Reglamento de la presente Ley. Deberán otorgarse por la Autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-Las Órdenes de Protección consagradas por la presente Ley y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia como emergentes y preventivas, serán solicitadas por la víctima, las hijas o hijos, personas que convivan con ella y serán otorgadas e instrumentadas por la representación social, que recae en el Agente del Ministerio Público, con el auxilio de la Policía Estatal, independientemente de que exista, o no, averiguación previa por los hechos de violencia, en caso de no existir Averiguación Previa, el Ministerio Público hará del conocimiento del solicitante de la orden de protección, el derecho que le asiste a la víctima para denunciar los hechos, salvo los casos específicos contemplados por la Ley en la materia, como delitos perseguibles oficiosamente, en los que el Ministerio Público, iniciará la Averiguación Previa al tener conocimiento del asunto; salvo los casos mencionados anteriormente; el Ministerio Público, hará constar dichas circunstancias mediante acta circunstanciada.
+Las Órdenes de Protección consagradas por la presente Ley y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia como emergentes y preventivas, serán solicitadas por la víctima, las hijas o hijos, personas que convivan con ella y serán otorgadas e instrumentadas por la representación social, que recae en el Agente del Ministerio Público, con el auxilio de la Policía Estatal, independientemente de que exista, o no, carpeta de investigación por los hechos de violencia, en caso de no existir carpeta de investigación, el Ministerio Público hará del conocimiento del solicitante de la orden de protección, el derecho que le asiste a la víctima para denunciar los hechos, salvo los casos específicos contemplados por la Ley en la materia, como delitos perseguibles oficiosamente, en los que el Ministerio Público, iniciará la carpeta de investigación al tener conocimiento del asunto, salvo los casos mencionados anteriormente; el Ministerio Público, hará constar dichas circunstancias mediante acta circunstanciada.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 La representación social podrá, a su vez, solicitar las órdenes de protección que considere pertinentes durante el procedimiento ante la autoridad jurisdiccional competente.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 En virtud de la notoria urgencia, en los Municipios, la aplicación de las órdenes de protección le corresponderá a los Conciliadores Municipales, con el auxilio de la Policía Municipal; una vez concedida dicha medida de protección, el Conciliador Municipal, deberá hacerlo del conocimiento a la autoridad competente, de conformidad con el procedimiento y observancia que determine el Reglamento o acuerdo conducente. La mujer que vive la violencia familiar o sexual podrá elegir, ante cuál de las autoridades solicitarlas, salvo para las órdenes de naturaleza civil o familiar, que se otorgan por el Juez de la materia.
 
@@ -507,9 +573,9 @@ La duración de las órdenes de protección será hasta que la víctima de la vi
 
 Son órdenes de protección de emergencia las siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-I.- Desocupación por el generador de violencia familiar, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+I.- Desocupación del domicilio conyugal por parte de la persona generadora de violencia familiar;
 
 II.- Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
@@ -673,7 +739,9 @@ b.- Atención; y
 
 c.- Erradicación.
 
-La finalidad y objetivo del Subsistema de Acción será, aportar los avances en la construcción de modelos, por cada uno de los ejes de acción, que prevé la Ley, proporcionando la información respectiva a la Secretaría Ejecutiva en los instrumentos y mecanismos que para tal efecto, ésta diseñe y establezca.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+La finalidad y objetivo del Subsistema de Acción será, aportar los avances en la construcción de modelos y de rutas de atención integral a mujeres en situación de violencia, por cada uno de los ejes de acción, que prevé la Ley, proporcionando la información respectiva a la Secretaría Ejecutiva en los instrumentos y mecanismos que, para tal efecto, ésta diseñe y establezca.
 
 III.- Subsistema de Armonización: Conformado por dos unidades, la legislativa y la judicial, que examinarán semestralmente los avances legislativos en el País, a efecto de instrumentar acciones que permitan estar en concordancia a nivel Federal y con otras Entidades de la República. Estará encabezado por el Instituto Hidalguense de las Mujeres.
 
@@ -713,6 +781,10 @@ XII.- Diseñar un modelo integral de atención a los derechos fundamentales de l
 
 XIII.- Fomentar la armonización legislativa para erradicar la discriminación y violencia de género, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado.
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV.- Institucionalizar la Ruta de atención integral a mujeres en situación de violencia de género que deberán cumplir las dependencias y entidades de la administración pública estatal y municipal de Hidalgo y el uso del sistema de referencia y contrarreferencia y de la Cédula de Registro Único.
+
 ###### ARTÍCULO 37.
 
 El Titular del Ejecutivo Estatal propondrá en el Proyecto de Presupuesto de Egresos del Estado, asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente Ley.
@@ -726,6 +798,18 @@ Los integrantes del Sistema proporcionaran sin dilación y con toda oportunidad 
 ###### ARTÍCULO 39.
 
 El Estado y los Municipios coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con la competencia, forma de organización y operación previstas en el presente ordenamiento, su Reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Las Autoridades Estatales y Municipales elaborarán e implementarán su propia Ruta de atención de mujeres en situación de violencia, de conformidad con sus facultades y atribuciones legales, así como, del presupuesto del que dispongan.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Dicha ruta, estará interconectada con la Ruta de Atención Integral a Mujeres en Situación de Violencia, a fin de participar en la coordinación de las intervenciones interinstitucionales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando por el tipo de violencia, existieran otras áreas, dependencias o autoridades que deban intervenir, se canalizarán a las víctimas a las instituciones que prestan esa atención y protección, mediante el uso del sistema de referencia, contrarreferencia y de la Cédula de Registro Único.
 
 #### SECCIÓN PRIMERA. DEL PODER EJECUTIVO ESTATAL
 
@@ -749,9 +833,13 @@ VII.- Coordinar la creación de programas de reeducación con perspectiva de gé
 
 VIII.- Garantizar una adecuada coordinación entre la Federación, las Entidades Federativas y los Municipios, con la finalidad de erradicar la violencia contra las mujeres;
 
-IX.- Realizar a través del Instituto Hidalguense de las Mujeres y con el apoyo de las instancias correspondientes, campañas de información, con énfasis en la doctrina de la protección integral de los derechos fundamentales de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-X.- Impulsar la celebración de acuerdos intersectoriales de coordinación y cooperación de manera que sirvan de cauce para lograr la atención integral de las mujeres;
+IX.- Realizar a través del Instituto Hidalguense de las Mujeres y con el apoyo de las instancias correspondientes, campañas permanentes de información, sensibilización y concientización sobre el derecho de las mujeres a vivir una vida libre de violencia, con énfasis en la doctrina de la protección integral de los derechos fundamentales de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Impulsar la celebración de acuerdos intersectoriales de coordinación y cooperación de manera que sirvan de cauce para lograr la atención integral de las mujeres, mediante la utilización del sistema de referencia, contrarreferencia y de la Cédula de Registro Único;
 
 XI.- Promover y realizar investigaciones con perspectiva de género sobre las causas y las consecuencias de la violencia contra las mujeres;
 
@@ -763,9 +851,15 @@ XIV.- Vigilar que los medios de comunicación no promuevan patrones de conducta 
 
 XV.- Desarrollar los mecanismos necesarios para el cumplimiento de la presente Ley;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV BIS.- Implementar la Ruta de atención integral a mujeres en situación de violencia de género;
+
 XVI.- Requerir la asignación de los recursos presupuestales necesarios para hacer frente a las contingencias de alerta de violencia de género contra las mujeres;
 
-XVII.- Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Estatal; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVII.- Impulsar la creación, operación y fortalecimiento de refugios para las víctimas que reúnan las condiciones de seguridad para la protección integral de las mujeres víctimas, conforme al modelo de atención diseñado por el Sistema Estatal;
 
 XVIII.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
@@ -785,13 +879,53 @@ III.- Participar en los trabajos de promoción y defensa de los derechos fundame
 
 IV.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-V.- Participar en la elaboración del Programa en coordinación con las demás autoridades integrantes del Sistema; y
+V.- Participar en la elaboración del Programa en coordinación con las demás autoridades integrantes del Sistema;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Las demás previstas para el cumplimiento de la presente Ley.
+VI.- Coordinar y evaluar el funcionamiento y eficacia de la Ruta de atención integral a mujeres en situación de violencia de género;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Formular las bases para la coordinación entre las Autoridades Federales, Locales y Municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, a través de la Ruta de Atención Integral a Mujeres en Situación de Violencia, mediante la creación y evaluación del sistema de referencia, contrarreferencia y de la Cédula de Registro Único;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos fundamentales de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos fundamentales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Coordinar y evaluar el funcionamiento y eficacia de los Modelos de atención, prevención y sanción que establezcan el Estado y los Municipios;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII.- Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV.- Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- Coordinar la armonización legislativa para erradicar la discriminación y violencia de género, conjuntamente con el Instituto Hidalguense de las Mujeres, pudiendo invitar o establecer coordinación con la Comisión de Igualdad de Género del Congreso del Estado, al Poder Judicial, así como a la sociedad civil organizada, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI.- Las demás previstas para el cumplimiento de la presente Ley
 
 #### SECCIÓN TERCERA. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -801,19 +935,19 @@ Corresponde a la Secretaría de Desarrollo Social:
 
 I.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2010);
 
-II.- Formular las bases para la coordinación entre las Autoridades Federales, Locales y Municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+II.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-III.- Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos fundamentales de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
+III.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-IV.- Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos fundamentales de las mujeres;
+IV.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-V.- Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
+V.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-VI.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+VI.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-VII.- Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
+VII.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-VIII.- Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta Ley;
+VIII.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
 IX.- Fomentar el desarrollo social desde la visión de protección integral de los derechos fundamentales de las mujeres con perspectiva de género, para procurarles una vida libre de violencia;
 
@@ -827,9 +961,7 @@ XII.- Promover políticas de igualdad de condiciones y oportunidades entre mujer
 
 XIII.- Promover políticas de prevención y atención de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
-
-XIV.- Coordinar la armonización legislativa para erradicar la discriminación y violencia de género, conjuntamente con el Instituto Hidalguense de las Mujeres, pudiendo invitar o establecer coordinación con la Comisión de Igualdad de Género del Congreso del Estado, al Poder Judicial así como a la sociedad civil organizada, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado; y
+XIV.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
 XV.- Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -907,9 +1039,13 @@ V.- Brindar servicios integrales a las víctimas y a los generadores de violenci
 
 VI.- Difundir en las instituciones del sector salud, programas y material referente a la prevención y atención de la violencia contra las mujeres;
 
-VII.- Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VIII.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
+VII.- Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres mediante el uso del sistema de referencia contrarreferencia y el (sic) Cédula de Registro Único;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, y de la Ruta de atención a mujeres en situación de violencia, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
 
 IX.- Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos fundamentales de las mujeres;
 
@@ -969,7 +1105,9 @@ VI.- Tomar medidas y realizar las acciones de su competencia, en coordinación c
 
 VII.- Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-VIII.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema, del Programa y de la Ruta de atención a mujeres en situación de violencia; y
 
 IX.- Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -987,7 +1125,13 @@ III.- Dictar las medidas necesarias para que la víctima reciba atención médic
 
 IV.- Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
 
-V.- Canalizar a las víctimas a las Instituciones públicas y privadas encargadas de su atención integral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Canalizar a las víctimas a las Instituciones públicas y privadas encargadas de su atención integral mediante el uso del sistema de referencia, contrarreferencia y de la Cédula de Registro Único;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V BIS.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, y de la Ruta de atención a mujeres en situación de violencia, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
 
 VI.- Proporcionar a las víctimas asesoría que les permita reconocer su situación;
 
@@ -999,7 +1143,15 @@ VII Bis.- Promover y proteger a través de la Fiscalía Especializada en Delitos
 
 VIII.- Procurar la seguridad de la víctima; y
 
-IX.- Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, en los términos establecidos en la Ley de Víctimas del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Elaborar, aplicar, evaluar y difundir protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual, y
+
+XI.- Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN OCTAVA. DEL INSTITUTO HIDALGUENSE DE LAS MUJERES
 
@@ -1017,6 +1169,18 @@ Los resultados de dichas investigaciones serán dados a conocer públicamente pa
 
 IV.- Proponer a las Autoridades encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV BIS.- Impulsar y coordinar la implementación de la Ruta de Atención Integral a Mujeres en Situación de Violencia de género, estableciendo indicadores para su evaluación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV TER.- Reunir y sistematizar la información obtenida de las instituciones integrantes de la Ruta de Atención Integral a Mujeres en Situación de Violencia para proponer el diseño y/o modificación de los programas, las medidas y las acciones institucionales que se consideren pertinentes, con la finalidad de atender de manera expedita, eficaz y eficiente a mujeres en situación de violencia;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV QUATER.- Coordinar la creación del sistema de referencia, contrarreferencia y de la Cédula de Registro Único, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
+
 V.- Colaborar con las instituciones del Sistema en el diseño y evaluación del modelo de atención a víctimas en los refugios;
 
 VI.- Impulsar la creación de unidades de atención y protección a las víctimas de violencia previstas en la Ley;
@@ -1029,11 +1193,15 @@ VIII.- Vigilar que la atención ofrecida en las diversas instituciones públicas
 
 IX.- Difundir la cultura de respeto a los derechos fundamentales de las mujeres;
 
-X.- Integrar el banco de datos de violencia contra las mujeres que incluya información organizada por tipo y modalidad de violencia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Integrar el banco de datos de violencia contra las mujeres que incluya información organizada por tipo y modalidad de violencia en colaboración con las instituciones del Sistema;
 
 XI.- Solicitar a las Dependencias de la Administración Pública Estatal y Municipal la información estadística correspondiente;
 
-XII.- Registrar los programas y modelos estatales de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Colaborar con las instituciones del Sistema en el diseño de los programas y modelos estatales de prevención, atención, sanción y erradicación de la violencia contra las mujeres y llevar su registro;
 
 XIII.- Representar al Estado ante el Sistema Nacional;
 
@@ -1091,9 +1259,11 @@ V. Las demás que establezcan la legislación en materia electoral.
 
 #### SECCIÓN NOVENA. DE LOS MUNICIPIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 48.
 
-Corresponde a los Municipios, en el marco de coordinación señalado en la presente Ley y demás disposiciones aplicables en la materia, las siguientes acciones:
+Corresponde a las Instancias Municipales para el Desarrollo de las Mujeres, en el marco de coordinación señalado en la presente Ley y demás disposiciones aplicables en la materia, las siguientes acciones:
 
 I.- Instrumentar y articular, en concordancia con las políticas Nacional, Estatal y municipal los lineamientos orientados a erradicar la violencia contra las mujeres;
 
@@ -1107,13 +1277,19 @@ IV.- Ejecutar las acciones necesarias para el cumplimiento (sic) los Programas N
 
 V.- Apoyar la creación de programas especializados de reeducación psicoterapéutica para los generadores de violencia;
 
-VI.- Promover programas informativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VII.- Apoyar la creación de refugios seguros para las víctimas;
+VI.- Promover programas informativos sobre la igualdad entre los géneros para eliminar la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Apoyar la creación, operación y fortalecimiento de refugios seguros para las víctimas que reúnan las condiciones de seguridad para la protección integral de las mujeres víctimas, conforme al modelo de atención diseñado por el Sistema Estatal;
 
 VIII.- Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
 
-IX.- Favorecer y apoyar a la creación de instituciones públicas o privadas encargadas de la atención para las mujeres víctimas de violencia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Apoyar y fortalecer las instituciones públicas o privadas encargadas de la atención para las mujeres víctimas de violencia;
 
 X.- Llevar a cabo, de acuerdo con los Sistemas Nacional y Estatal, programas de información a la población respecto a la violencia contra las mujeres; y
 
@@ -1151,29 +1327,93 @@ VIII.- Las demás previstas en otros ordenamientos legales aplicables.
 
 Las víctimas de cualquier tipo y modalidades de violencia tendrán los derechos siguientes:
 
-I.- Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II.- Contar con asesoría jurídica gratuita y expedita;
+I.- Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
 
-III.- Recibir atención médica y psicológica;
+II.- Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
-IV.- Contar con un refugio, de acuerdo a lo establecido en el Artículo 53;
+III.- Contar con asesoría jurídica gratuita y expedita;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+IV.- Recibir atención médica y psicológica;
 
-V.- Poder acceder a servicios de orientación integral;
+V.- Contar con un refugio, de acuerdo a lo establecido en el Artículo 53;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+VI.- Poder acceder a servicios de orientación integral;
 
-VI.- En los casos de violencia familiar, las mujeres que tengan hijas o hijos menores de edad podrán acudir a los refugios con éstos; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+VII.- En los casos de violencia familiar, las mujeres podrán acudir a los refugios con sus hijas e hijos, o bien, con las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural, que habiten con ellas en el mismo domicilio;
 
-VII.- Ser informadas cuando el agresor quede libre después del proceso judicial o que por cualquier circunstancia recupere su libertad, a fin de que la víctima esté en condiciones de tomar las medidas de protección pertinentes.
+VIII.- Ser informadas cuando el agresor quede libre después del proceso judicial o que por cualquier circunstancia recupere su libertad, a fin de que la víctima esté en condiciones de tomar las medidas de protección pertinentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Ser valoradas y educadas libres d (sic) estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o discriminación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X.- La víctima no será obligada a participar en mecanismos de conciliación con su agresor, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Los demás señalados en esta Ley y otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 51 BIS.- La atención a las Mujeres en Situación de Violencia, se regirá por los siguientes principios:
+
+I.- Atención integral;
+
+II.- Efectividad;
+
+III.- Legalidad;
+
+IV.- Auxilio oportuno; y
+
+V.- Respeto a los Derechos Humanos de las Mujeres.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 51 TER.- El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 51 QUATER.- La Ruta de atención integral a mujeres en situación de violencia de género operará a través de un sistema informático que generará la Cédula de Registro Único, de tal manera que, con independencia de la institución a la que acudan por primera vez las mujeres en situación de violencia, se garantice el seguimiento del caso hasta su conclusión.
+
+Al efecto, las dependencias y entidades deberán registrar el ingreso de las mujeres en situación de violencia en el sistema informático con los datos obtenidos de la Cédula de Registro Único. Esta cédula deberá transmitirse a las dependencias y entidades a donde se canalicen las víctimas o se preste el servicio subsecuente, a efecto de que se tenga un registro de la atención que se brinda desde el inicio hasta la conclusión de cada caso.
+
+El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la Cédula de Registro Único.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 51 QUINQUIES.- Con el propósito de brindar una atención efectiva a las mujeres en situación de violencia, se actuará a partir de la Ruta de atención integral a mujeres en situación de violencia de género que garantice que las intervenciones, independientemente del tipo o modalidad de violencia, correspondan a las políticas, servicios y acciones interinstitucionales, coordinadas a través del Sistema de Referencia y Contrarreferencia y del uso de la Cédula de Registro Único que optimicen las actividades y los recursos de las dependencias del nivel estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 51 SEXIES.- La Ruta de atención integral a mujeres en situación de violencia de género deberá contener las siguientes etapas:
+
+I. Identificación de la problemática. Consiste en determinar las características del problema, tipo y modalidad de violencia, riesgos y efectos para las víctimas directas e indirectas, en la esfera médica, económica, laboral y jurídica;
+
+II. Determinación de prioridades. Identificar las necesidades inmediatas y mediatas, así como las medidas de protección que en su caso requieran las víctimas;
+
+III. Orientación y canalización. Se brindará de manera precisa y con lenguaje accesible, la orientación social y jurídica necesaria y suficiente con respecto a su caso, realizando la canalización a la instancia que corresponda, mediante el uso del sistema de referencia, contrarreferencia o de no ser necesario brindar el servicio que se requiera; y
+
+IV. Seguimiento. Garantizar el cumplimiento de los procedimientos de derivación, así como la oportuna prestación de servicios por las dependencias.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 51 SEPTIES.- Las dependencias, entidades y órganos administrativos del nivel estatal o municipal que atienden a mujeres en situación de violencia deberán:
+
+I.- Canalizar de manera inmediata a las mujeres víctimas de violencia a las Unidades de Atención mediante el uso del sistema de referencia contrarreferencia y el uso de la cédula de registro único; cuando se trate de violencia sexual, serán trasladadas a la agencia del Ministerio Público que corresponda;
+
+II.- Realizar en coordinación con las otras dependencias, para asegurar la uniformidad y la calidad de la atención de las mujeres víctimas de violencia, protocolos de atención médica, psicológica y jurídica; y
+
+III.- Las dependencias de gobierno que atiendan a mujeres víctimas de violencia deberán expedir documentos que hagan constar la atención de las mujeres víctimas de violencia, con la finalidad de que los hagan valer en sus centros de trabajo o para los fines que estimen convenientes.
 
 ### CAPÍTULO ÚNICO. DE LAS SANCIONES
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 52.
 
@@ -1181,7 +1421,9 @@ Corresponde a los refugios, desde la perspectiva de género:
 
 I.- Aplicar el Programa;
 
-II.- Velar por la seguridad de las mujeres que se encuentren en ellos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Velar por la seguridad de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural, que habiten con ellas en el mismo domicilio y que se encuentren con ellos;
 
 III.- Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita reintegrarse a su entorno social;
 
@@ -1189,23 +1431,29 @@ IV.- Proporcionar a las víctimas asesoría jurídica gratuita;
 
 V.- Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Contar con el personal debidamente sensibilizado, capacitado y especializado en la materia;
+VI.- Contar con el personal debidamente profesionalizado, capacitado y especializado en la materia;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Contar, preferentemente, con una bolsa de trabajo con la finalidad de que puedan acceder a la actividad laboral a la que se refriere (sic) esta ley; y
+VII.- Contar, preferentemente, con una bolsa de trabajo con la finalidad de que puedan acceder a la actividad laboral a la que se refiere esta ley; y
 
-VIII.- Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Permitir la permanencia de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, debiendo también proporcionarles a ellas y ellos la atención necesaria para su recuperación física y psicológica; y
+
+IX.- Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
 ###### ARTÍCULO 53.
 
 Los refugios deberán implementar medidas de seguridad tendientes a proteger la integridad de las víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 54.
 
-Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas e hijos menores de edad, los siguientes servicios gratuitos:
+Los refugios deberán prestar a las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, los siguientes servicios especializados y gratuitos:
 
 I.- Hospedaje;
 
@@ -1215,13 +1463,25 @@ III.- Servicio médico;
 
 IV.- Asesoría jurídica;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-V.- Apoyo psicológico; y
+V.- Apoyo psicológico;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Capacitación preferentemente técnica y administrativa, para que puedan adquirir conocimientos para el desempeño de una actividad laboral que les proporcione independencia económica.
+VI.- Capacitación preferentemente técnica y administrativa, para que puedan adquirir conocimientos para el desempeño de una actividad laboral que les proporcione independencia económica.; (sic)
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Vestido y calzado;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
 ###### ARTÍCULO 55.
 
@@ -1243,7 +1503,7 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 ###### ARTÍCULO 58.
 
-Para el caso de los servidores públicos, el incumplimiento de las disposiciones contenidas en esta Ley, estará sujeto a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo y la Legislación aplicable; en el caso de los particulares, se substanciarán los procedimientos jurisdiccionales que, al caso y según la materia corresponda.
+Para el caso de los servidores públicos, el incumplimiento de las disposiciones contenidas en esta Ley, estará sujeto a lo que establece la Ley General de Responsabilidades de los Servidores Públicos; en el caso de los particulares, se substanciarán los procedimientos jurisdiccionales correspondientes.
 
 ## TRANSITORIOS
 
@@ -1422,3 +1682,13 @@ P.O. 15 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 697 QUE REFORMA LA FRACCIÓN V Y VI Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 UNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 777 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las autoridades estatales y municipales tendrán un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente decreto, para definir, estructurar y emitir las reglas de operación de las Rutas de Atención Integral a mujeres en situación de violencia de género, así como su interconexión.
+
+TERCERO. Los recursos financieros necesarios para la implementación de las acciones previstas en el presente Decreto, deberán contemplarse a partir del ejercicio fiscal 2023 incrementándose anualmente de manera progresiva de conformidad con la disponibilidad presupuestaria anual con que se cuente.
