@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2021-09-01"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1201,6 +1201,10 @@ jj) Establecer programas de sensibilización y capacitación dirigido a las y lo
 
 kk) Elaborar, en concordancia con la legislación y programas nacionales y estatales, el Programa Municipal para la Igualdad y No Discriminación, considerando las disposiciones específicas en materia de prevenir, atender y eliminar la discriminación, así como en materia de igualdad entre mujeres y hombres, dentro de los tres primeros meses del inicio de la Administración Municipal, en concordancia con la respectiva presentación del Plan de Desarrollo.
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I BIS) Formular e Implementar el Programa Municipal de Prevención Social de la Violencia y Delincuencia;
+
 II.- Asimismo, podrán:
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
@@ -1865,9 +1869,9 @@ En caso de que al treinta y uno de diciembre del año que corresponda, el Ayunta
 
 Para la formulación y aprobación del Presupuesto de Egresos del Municipio se deberá observar lo siguiente:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-I. El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo 95 TER fracción II, deberá incorporar los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo y del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores;
+I. El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo 95 TER fracción II, deberá incorporar los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo, del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos y del Programa Municipal de Prevención Social de la Violencia y Delincuencia, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios;
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -2625,7 +2629,9 @@ V.- Coordinar los cuerpos de seguridad pública con la Federación, con el Estad
 
 VI.- Dotar al cuerpo de policía y tránsito de recursos y elementos técnicos que le permitan actuar sobre bases científicas en la prevención y combate de infracciones y delitos;
 
-VII.- Organizar un sistema de capacitación institucional para su personal, cuando no exista academia de formación policial o celebrar convenios con el Estado, para mejorar el nivel cultural, así como técnicas de investigación y demás actividades encaminadas a ese fin;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Contribuir con el Ayuntamiento en la elaboración del Programa Municipal de Prevención Social de la Violencia y Delincuencia
 
 VIII.- Vigilar que los cuerpos policiacos bajo su mando, realicen sus funciones con estricto apego al respeto de los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos; y
 
@@ -2871,9 +2877,9 @@ En los Municipios que conforman al Estado, funcionará un Comité de Planeación
 
 El Comité de Planeación para el Desarrollo Municipal, funcionará como órgano desconcentrado dependiente del Presidente Municipal, regulando su funcionamiento interno dentro del propio Ayuntamiento y contará con las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-I.- Promover y coadyuvar con la autoridad municipal, con la colaboración de los sectores que actúan a nivel local, en la elaboración de Plan de Desarrollo Municipal y del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos y los programas sectoriales, en congruencia con los que formulen los gobiernos federal y estatal;
+I.- Promover y coadyuvar con la autoridad municipal, con la colaboración de los sectores que actúan a nivel local, en la elaboración de Plan de Desarrollo Municipal, del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, Programa Municipal de Prevención Social de la Violencia y Delincuencia y los programas sectoriales, en congruencia con los que formulen los gobiernos federal y estatal.
 
 II.- Cumplir con las prevenciones que establece la Ley de Planeación para el Desarrollo del Estado y con la legislación federal en la materia;
 
@@ -3035,6 +3041,42 @@ XI.- Impulsar la participación de las organizaciones privadas dedicadas a la pr
 
 XII.- Las demás que establezca el ordenamiento jurídico estatal y aquellas que deriven de los acuerdos que, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, se asuman en el Sistema Nacional DIF y los Sistemas DIF de Hidalgo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO DÉCIMO QUINQUIES. DE LA INSTANCIA MUNICIPAL PARA LA PREVENCIÓN DE LAS ADICCIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 145 DUODÉCIMUS.- En cada municipio, deberá existir una Instancia Municipal para la Prevención de las Adicciones, que tendrá por objeto prevenir y atender las problemáticas relacionadas al uso de drogas licitas e ilícitas, entre otros tipos de adicciones.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 145 TERTIUSDÉCIMUS.- La Instancia Municipal para la Prevención de las Adicciones tendrá las siguientes atribuciones:
+
+I. Brindar atención y seguimiento psicológico.
+
+II. Diseñar y ejecutar programas de prevención de las adicciones.
+
+III. Impartir talleres que promuevan habilidades sociales y estilos de vida saludables.
+
+IV. Impartir talleres ocupacionales de diferentes disciplinas artísticas y deportivas.
+
+V. Diseñar, coordinar y ejecutar acciones de prevención de las adicciones en colonias, barrios y escuelas.
+
+VI. En caso que se amerite, canalizar y referenciar a centros de rehabilitación e instituciones de cuidado a la salud física, psicológica y social.
+
+VII. Organizar, coordinar y promover grupos de autoayuda.
+
+VIII. Desarrollar eventos y actividades de participación ciudadana a favor de la prevención de adicciones y el fomento de estilos de vida saludables.
+
+IX. Detectar aquellos casos que puedan ser hechos posiblemente constitutivos de algún delito, y referirlos con la autoridad correspondiente; y
+
+X. Coordinar sus acciones con las dependencias u organismos federales o estatales encargados del combate a las adicciones.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 145 QUARTUSDÉCIMUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, podrán colaborar con la Instancia Municipal para la Prevención de las Adicciones en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
+
 ### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
 
 ### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
@@ -3043,11 +3085,9 @@ XII.- Las demás que establezca el ordenamiento jurídico estatal y aquellas que
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
-
 ## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
 
-### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 146.
 
@@ -3077,7 +3117,7 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
 
-### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
+### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 152.
 
@@ -3185,7 +3225,7 @@ IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestac
 
 ## TÍTULO OCTAVO. DE LA JUSTICIA COTIDIANA
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
 
 ###### ARTÍCULO 160.
 
@@ -3269,7 +3309,7 @@ IV.- Ordenar la detención que sea competencia de otras autoridades; y
 
 V.- No podrán aplicar procedimientos de conciliación en casos de violencia familiar o sexual, en estos casos tienen la obligación de canalizar a las victimas ante las instancias o dependencias correspondientes.
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 164.
 
@@ -3309,7 +3349,7 @@ III.- Otras que tiendan a proteger los bienes y la seguridad pública en los cas
 
 Si las circunstancias así lo ameritan, podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las Leyes, sin perjuicio de la responsabilidad civil o penal en que incurriere.
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 168.
 
@@ -3444,6 +3484,8 @@ La autoridad recurrida o el Ayuntamiento, deberán tomar en cuenta para su resol
 ###### ARTÍCULO 183.
 
 Con relación a los recursos administrativos, tanto la autoridad Municipal como el Ayuntamiento comunicarán en tiempo y forma su resolución al promovente.
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 184.
 
@@ -3816,3 +3858,25 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Las autoridades municipales, atendiendo a lo dispuesto en el artículo 56 inciso s BIS, del presente Decreto, tendrán un plazo de hasta 90 días naturales, contado a partir de la entrada en vigor del presente Decreto, para adecuar o expedir normas reglamentarias atendiendo a sus facultades constitucionales y legales.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+[N. DE. E. TRANSITORIOS DEL "DECRETO NÚM. 774 QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las Instancias Municipales para la Prevención de las Adicciones podrán crearse como Unidad Administrativa, Órgano desconcentrado u Organismo Público Descentralizado de la Administración Pública Municipal, con base en la capacidad administrativa y presupuestal (sic) cada Municipio.
+
+CUARTO. El Ejecutivo Estatal y los Ayuntamientos se coordinarán en la implementación, regulación y control sanitario de las Instancias Municipales para la Prevención de las Adicciones, así como para la asignación de sus presupuestos correspondientes.
+
+QUINTO. Los Ayuntamientos en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su publicación en el Periódico Oficial del Estado de Hidalgo, deberán emitir los lineamientos o normatividad de organización y funcionamiento de las Instancias Municipales para la Prevención de las Adicciones, conforme a lo dispuesto por el presente Decreto.
+
+SEXTO. Los Ayuntamientos deberán prever en su presupuesto para el Ejercicio Fiscal del año 2022, la asignación de recursos para la organización y funcionamiento de las Instancias Municipales para la Prevención de Adicciones.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 776 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
