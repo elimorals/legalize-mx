@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2021-08-04"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -567,9 +567,9 @@ X. Proponer para su aprobación al Congreso del Estado, las cuotas y tarifas apl
 
 XI. Reglamentar los espectáculos públicos, la publicidad y anuncios, vigilando que se desarrollen conforme a derecho, a la moral y a las buenas costumbres;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, en los términos de la fracción VI del artículo 10 de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno, y Ordenamientos de los Municipios del Estado de San Luis Potosí, y
+XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, de conformidad con el artículo 13 fracción VI, de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno y Ordenamientos de los Municipios del Estado de San Luis Potosí, y
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3372,3 +3372,11 @@ P.O. 4 DE AGOSTO DE 2021.
 PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil veintidós, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1246.- SE REFORMA EL ARTÍCULO 31 EN SU INCISO B) LA FRACCIÓN XII, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
