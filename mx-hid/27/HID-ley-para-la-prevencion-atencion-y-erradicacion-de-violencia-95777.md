@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2017-08-14"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -101,31 +101,61 @@ VI.- Garantizar el funcionamiento y cumplimiento de los objetivos del Registro E
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Comunidad educativa: Población integrada por alumnos, alumnas, padres, madres y tutores, profesionales de la educación, asistentes de la educación y equipos docentes directivos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II. Colegiado Mediador: Miembros de instancias educativas, profesionales o especialistas, en su caso representación de padres de familia convocados por la Secretaría para atender un caso en específico;
+I. Brigadas Escolares: Brigadas Escolares sobre la Prevención del Acoso y la Violencia Escolar conformada por un grupo de personas seleccionadas de entre los integrantes de la comunidad escolar, que interactúan y se reúnen con la finalidad de tomar las medidas necesarias para llevar a cabo acciones preventivas de violencia y acoso escolar de en la institución educativa a la que pertenecen;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II. Comunidad educativa: Población integrada por alumnos, alumnas, padres, madres y tutores, profesionales de la educación, asistentes de la educación y equipos docentes directivos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 III. Cultura de la paz: Conjunto de valores, actitudes y comportamientos, modos de vida y acción que, inspirándose en ella, reflejan el respeto de la vida, de la persona humana, de su dignidad y sus derechos, así como la adhesión a los principios de libertad, justicia, solidaridad, tolerancia y entendimiento, tanto entre los pueblos como entre los grupos y las personas;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 IV. Discriminación entre la comunidad educativa: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, creencia religiosa, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas que integran la comunidad educativa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 V. Generador: Miembro de la comunidad educativa que realiza una acción de violencia escolar;
 
-VI. Ley: Ley para la Prevención, Atención y Erradicación de Violencia Escolar para el Estado de Hidalgo;
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Programa Estatal: Programa Estatal de Prevención, Atención y Erradicación de Violencia Escolar;
+VI. Indicador de riesgo: Características de tipo físicas, psicoemocionales y/o conductuales que puede presentar una persona que está siendo objeto de algún tipo de violencia;
 
-VIII. Protocolo: Conjunto de reglas expedidas por la autoridad competente para prevenir, atender y erradicar la violencia originada en el entorno escolar;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Víctima: Persona integrante de la comunidad educativa que sufra alguna forma de agresión (verbal, física, moral, sexual, o económica) en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
+VII. Ley: Ley para la Prevención, Atención y Erradicación de Violencia Escolar para el Estado de Hidalgo;
 
-X. Víctimas indirectas: Familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos;
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XI. REPAEVE: Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar;
+VIII. PEPAEVE: Programa Estatal de Prevención, Atención y Erradicación de Violencia Escolar;
 
-XII. Secretaría: La Secretaría de Educación Pública de Hidalgo (SEPH); y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Violencia Escolar: Conducta agresiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual y/o por exclusión social, que se presenta entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución, que ponga en riesgo la convivencia escolar.
+IX. Protocolo: Conjunto de reglas expedidas por la autoridad competente para prevenir, atender y erradicar la violencia originada en el entorno escolar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+X. REPAEVE: Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Secretaría: La Secretaría de Educación Pública de Hidalgo (SEPH);
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Víctima: Persona integrante de la comunidad educativa que sufra alguna forma de agresión (verbal, física, moral, sexual, o económica) en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Víctimas indirectas: Familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Violencia Escolar: Conducta agresiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual y/o por exclusión social, que se presenta entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución, que ponga en riesgo la convivencia escolar.
 
 ###### Artículo 5.
 
@@ -139,7 +169,9 @@ III.- Prevención de Violencia Escolar;
 
 IV.- No discriminación;
 
-V.- Integridad física, psicológica y moral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Integridad física y psicológica;
 
 VI.- Cohesión de la comunidad educativa y gobierno;
 
@@ -161,13 +193,25 @@ XII.- Corresponsabilidad interinstitucional y social;
 
 XIII.- El interés superior de la niñez;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XIV.- Resolución no violenta de conflictos; y
+XIV.- Resolución de conflictos de manera asertiva;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XV.- El pluriculturalismo y reconocimiento de la diversidad.
+XV.- El pluriculturalismo y reconocimiento de la diversidad;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI.- La inclusión;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVII.- La participación; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII.- El acceso a una vida libre de violencia.
 
 Los principios de esta Ley constituyen el marco conforme al cual se deberán planear, crear, ejecutar y evaluar, acciones, proyectos y políticas del Programa Estatal, para garantizar un ambiente libre de violencia en el entorno escolar.
 
@@ -177,17 +221,41 @@ Los principios de esta Ley constituyen el marco conforme al cual se deberán pla
 
 La víctima de cualquier tipo y modalidad de violencia en el entorno escolar o de maltrato escolar tiene derecho a:
 
-I. Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II. Contar con atención inmediata y efectiva por parte de las autoridades del Estado cuando se encuentre en riesgo su integridad física o psicológica;
+I. Presentar su queja ante la autoridad escolar de su elección de manera pública, privada o anónima a través de cualquier medio, por sí mismo, por sus padres o cualquier persona de su confianza;
 
-III. Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Recibir información, atención y acompañamiento médico y psicológico;
+II. Se investiguen de manera pronta y eficaz los hechos materia de la queja, entrevistando a todos y cada uno de los involucrados y testigos de los hechos;
 
-V. A ser canalizada a las instancias correspondientes para su atención oportuna según sean las circunstancias y las necesidades de cada caso; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI. A la reparación del daño moral y, en su caso, a recibir una indemnización o el pago de daños y perjuicios en términos de la legislación aplicable.
+III. El cese inmediato de conductas violentas que atenten contra su dignidad e integridad física y psicológica, aplicando las medidas correspondientes para su efecto;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Contar con atención inmediata y efectiva por parte de las autoridades del Estado cuando se encuentre en riesgo su integridad física o psicológica;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Recibir información, atención y acompañamiento médico y psicológico;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. A ser canalizada a las instancias correspondientes para su atención oportuna según sean las circunstancias y las necesidades de cada caso; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX. La reparación del daño moral y, en su caso, a recibir una indemnización o el pago de daños y perjuicios en términos de la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -203,9 +271,39 @@ III. Recibir información, veraz y suficiente que le permita decidir sobre las o
 
 IV. Contar con asesoría psicológica y representación jurídica gratuita y expedita;
 
-V. Recibir información, atención y acompañamiento médico y psicológico por las instancias correspondientes, según sean las circunstancias y las necesidades de cada caso; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Acceder a procedimientos expeditos y accesibles de procuración y administración de Justicia.
+V. Recibir información, atención y acompañamiento médico y psicológico por las instancias correspondientes, según sean las circunstancias y las necesidades de cada caso;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Acceder a procedimientos expeditos y accesibles de procuración y administración de Justicia; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Contar con un tratamiento psicológico según sean las circunstancias y las necesidades de cada caso para mejorar sus formas de convivencia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 5 Quater.
+
+Las y los alumnos de una institución educativa tienen derecho a:
+
+I. Que se respete su integridad física y emocional, su intimidad, su privacidad, las diferencias por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales y evitar cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los miembros de la comunidad educativa;
+
+II. No ser excluidos del grupo educativo;
+
+III. En caso de conflicto con sus compañeros, contar con acceso a métodos de mediación para la resolución del mismo a través de instancias de la Secretaría;
+
+IV. Que les sean respetados todos sus derechos como seres humanos;
+
+V. No ser discriminados por ningún motivo;
+
+VI. Estar libres de violencia en las aulas, en las instalaciones educativas, en los lugares aledaños a éstas, en transportes educativos, en redes sociales y en su tránsito hacia y desde la escuela a sus hogares;
+
+VII. Un entorno socioeducativo en paz; y
+
+VIII. Los demás que se establezcan en las disposiciones legales aplicables.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES, DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -215,11 +313,11 @@ El Poder Ejecutivo del Estado, a través de la Secretaría, ejecutará sus atrib
 
 Para los efectos de prevención, atención y erradicación de los casos de violencia escolar previstos en esta Ley, concurrirán: El Titular del Poder Ejecutivo, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Salud de Hidalgo, la Secretaría de Educación Pública de Hidalgo, la Secretaría de Seguridad Pública de Hidalgo y la Procuraduría General de Justicia del Estado por la naturaleza y/o gravedad de los casos de violencia escolar.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 6 Bis.
 
-Las autoridades, en el ámbito de su competencia, deberán adoptar las medidas que aseguren a las personas integrantes de la comunidad educativa la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad.
+Las autoridades, en el ámbito de su competencia, deberán adoptar las medidas que aseguren a las personas integrantes de la comunidad educativa la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad para la mejora del clima escolar.
 
 ###### Artículo 7.
 
@@ -297,11 +395,13 @@ VI.- Celebrar convenios de cooperación con los sectores público, privado y soc
 
 VII.- Con base en la concurrencia de las autoridades previstas en esta Ley, la Secretaría podrá promover estrategias informativas y de capacitación sobre acciones, proyectos y/o programas para la prevención, atención y erradicación de violencia escolar en la Entidad;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-VIII.- Promover y colaborar en la creación de Equipos Preventivos y de Atención en contra de la violencia escolar en cada centro educativo;
+VIII.- Promover y colaborar en la creación de Brigadas Escolares en contra de la violencia escolar en cada centro educativo;
 
-IX.- Dar parte a la autoridad competente en los casos de violencia escolar que así lo ameriten;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Dar parte a la autoridad competente en los casos de violencia escolar;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -309,13 +409,15 @@ X.- Interponer la queja correspondiente ante el órgano interno de control en ca
 
 XI.- Elaborar y difundir materiales informativos para la prevención, atención y erradicación de las modalidades de violencia escolar previstos en la presente Ley;
 
-XII.- Dar a conocer el Programa Estatal, por medio de campañas de información dirigidas a personal directivo y responsables ante grupo, con el objetivo de garantizar su aplicación en las escuelas públicas o privadas de la Entidad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Dar a conocer el Programa Estatal, por medio de diversas acciones y estrategias de difusión dirigidas a miembros de la comunidad educativa, con el objetivo de garantizar su aplicación en las escuelas públicas o privadas de la Entidad;
 
 XIII.- Promover y apoyar acciones, proyectos y programas, con organizaciones de la sociedad civil, miembros de la comunidad educativa y sociedad en general, con el objeto de fomentar su participación en el Programa Estatal que establece esta Ley;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XIV.- Promover y capacitar con las autoridades necesarias y previstas en esta Ley, a la comunidad educativa y a las Unidades Preventivas contra la violencia escolar dentro de las instituciones públicas y privadas para la detección y atención inmediata de casos de violencia originadas en el entorno escolar;
+XIV.- Promover y capacitar con las autoridades necesarias y previstas en esta Ley, a la comunidad educativa y a las Brigadas Escolares en contra de la violencia escolar dentro de las instituciones públicas y privadas para la detección y atención inmediata de casos de violencia originadas en el entorno escolar;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -365,7 +467,9 @@ Las escuelas públicas y privadas en el Estado deberán:
 
 I.- Contemplar mecanismos, acciones y programas para una mayor integración a la Comunidad Educativa, en el desarrollo de estrategias para la prevención y erradicación de la violencia escolar, y generar ambientes basados en una cultura de la paz, resolución no violenta de conflictos, entre los miembros de la comunidad educativa;
 
-II.- Manejar dentro del expediente personal y académico de cada alumno, el registro que en su caso, se levantará al estudiante que sea activo de conductas específicas en esta Ley, ya sea como víctima o generador, mismas que darán a conocer al REPAEVE;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Manejar dentro del expediente personal y académico de cada alumno, el cual deberá de contar con el soporte documental de la debida actuación, el registro que, en su caso, se levantará al estudiante que sea activo de conductas específicas en esta Ley, ya sea como víctima o generador, mismas que darán a conocer al REPAEVE;
 
 III.- Guardar reserva sobre la información de que dispongan acerca de las circunstancias personales y familiares del alumno;
 
@@ -379,7 +483,15 @@ IV Bis.- Informar a la Secretaría y al REPAEVE, sobre casos que detecten en los
 
 V.- Implementar las acciones y proyectos que determine el Programa Estatal; y
 
-VI.- Desarrollar Unidades de Prevención contra la violencia escolar para su detección y atención inmediata.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Desarrollar Brigadas Escolares para su detección y atención inmediata.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 12 Bis.
+
+En las escuelas y planteles educativos públicos y privados se promoverá la implementación de las acciones necesarias para realizar la capacitación del personal directivo, docente y administrativo para la prevención y atención de la violencia escolar de conformidad por lo establecido en la Ley de Educación para el Estado de Hidalgo.
 
 ### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA ESCOLAR
 
@@ -388,6 +500,8 @@ VI.- Desarrollar Unidades de Prevención contra la violencia escolar para su det
 ## TÍTULO SEGUNDO. DE LA VIOLENCIA ESCOLAR
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
@@ -423,19 +537,23 @@ I. Actitud intencionalmente agresiva que se presenta de manera repetida y sistem
 
 II. Presencia de algún tipo de violencia escolar previsto en esta Ley por parte de un generador, propinada a una o varias víctimas miembros de la comunidad educativa; bastará con que se presente una sola vez para que se tenga como presumible la violencia; y
 
-III. Que sea reconocida como tal por alguno de quienes se vieron involucrados directa o indirectamente en el acto violento.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Que sea reconocida como tal por alguno de quienes se vieron involucrados directa o indirectamente en el acto violento acreditándose indicadores de riesgo.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 15.
 
-Los directivos de las instituciones públicas o privadas en el Estado, a través de la Secretaría, tienen la facultad de derivar hacia personal profesional y/o formado o bien al DIF Estatal y/o Secretaría de Salud, los casos de violencia escolar que así lo requieran.
+Los directivos de las instituciones públicas o privadas en el Estado, a través de la Secretaría, tienen la obligación de derivar hacia personal profesional y/o formado o bien al Agente del Ministerio Público cuando las conductas son presuntamente constitutivas de delito, en caso de no serlo a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, y/o las unidades de primer contacto en sus respectivos municipios.
 
 ###### Artículo 16.
 
 Cuando lo solicite el padre o tutor de la víctima de violencia escolar y el personal profesional y/o formado así lo recomiende, dicho alumno podrá ser inscrito a través de la Secretaría, a otra institución educativa, para que pueda desarrollarse en un ambiente escolar adecuado.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-El colegiado mediador del asunto podrá acordar la inscripción del generador a otra institución educativa como medida precautoria, si bien este hecho no reemplaza el proceso de restauración del daño a realizar hacia quien fue objeto de violencia.
+Las Brigadas Escolares podrán acordar la inscripción del generador a otra institución educativa como medida precautoria, si bien este hecho no reemplaza el proceso de restauración del daño a realizar hacia quien fue objeto de violencia.
 
 ### CAPÍTULO III
 
@@ -443,9 +561,11 @@ DEL REPAEVE.
 
 REGISTRO ESTATAL DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-La Secretaría elaborará, implementará y evaluará el Programa Estatal, en concurrencia con las demás autoridades reconocidas, las cuales deberán aprobar lo que a ellas compete, de conformidad a lo establecido por esta Ley y su Reglamento Interno.
+La Secretaría elaborará, coordinará, promoverá, implementará y evaluará el Programa Estatal, en concurrencia con las demás autoridades reconocidas, las cuales deberán aprobar lo que a ellas compete, de conformidad a lo establecido por esta Ley y su Reglamento Interno.
 
 ###### Artículo 18.
 
@@ -493,11 +613,11 @@ La Secretaría dará a conocer el contenido del Programa Estatal a las escuelas 
 
 Con el fin de dar cumplimiento a las medidas de prevención, atención y erradicación de la violencia escolar incluidas en el Programa Estatal y lo establecido en esta Ley, las escuelas públicas y privadas en la Entidad deberán generar actividades de formación u orientación a los miembros de su comunidad educativa.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DE LA PARTICIPACIÓN SOCIAL Y ACCESO A LA INFORMACIÓN
 
 ###### Artículo 23.
 
-Se crea el Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar, dependiente de la Secretaría, que compilará los datos sobre los casos de violencia escolar que tengan lugar en escuelas públicas o privadas en el Estado.
+Se crea el Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar, dependiente de la Secretaría, que compilará los datos sobre los casos de violencia escolar que tengan lugar en escuelas públicas o privadas en el Estado en los niveles básico a superior.
 
 ###### Artículo 24.
 
@@ -519,11 +639,13 @@ I.- Recopilar los datos de casos de violencia escolar por:
 
 7. El nombre de la Institución, en caso de haber sido canalizado;
 
-8. Evidencias, investigación, seguimiento y proceso de rehabilitación;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+8. Evidencias, investigación, atención y seguimiento especifico al caso.
 
-9. Medidas aplicadas al generador y a la víctima; y
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+9. Medidas implementadas a víctimas y generadores de violencia escolar con base en la normatividad vigente y en los Protocolos;
 
 10. Nombre de los padres involucrados o tutores, domicilio y teléfono;
 
@@ -531,7 +653,9 @@ Con el objetivo de elaborar análisis, estadísticas y/o estudios necesarios que
 
 II .- Evaluar con respecto a los resultados de los registros e información recopilada, las propuestas de modificación e implementación de acciones y/o proyectos al Programa Estatal, con la finalidad de mejorar su aplicación en la prevención, atención y erradicación de violencia escolar;
 
-III.- Registrar y controlar las medidas aplicadas al generador, de conformidad a lo establecido en esta Ley y en sus reglamentos internos institucionales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Registrar y dar seguimiento a las medidas aplicadas al generador y a la víctima, de conformidad a lo establecido en esta Ley y en sus reglamentos internos institucionales;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -565,11 +689,15 @@ X.- Las demás que señalen esta Ley, su Reglamento y otras disposiciones legale
 
 A más tardar en los primeros quince días del mes de agosto, el REPAEVE deberá presentar un informe anual detallado a la Secretaría, sobre las medidas implementadas en favor de la prevención, atención y erradicación de la violencia escolar, así como los incidentes informados por las escuelas públicas y privadas del Estado.
 
-## TÍTULO TERCERO. DE LA PARTICIPACIÓN SOCIAL Y ACCESO A LA INFORMACIÓN
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. DE LAS MEDIDAS PARA LOS GENERADORES
+## TÍTULO TERCERO
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. DE LAS BRIGADAS ESCOLARES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 26.
 
@@ -579,19 +707,63 @@ La sociedad hidalguense en general que se vea involucrada y/o que tenga conocimi
 
 Cualquier persona tendrá acceso a la información obtenida por el REPAEVE a través de mecanismos establecidos por la Secretaría, de conformidad con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo.
 
-### CAPÍTULO II. DE LAS MEDIDAS PARA EL PERSONAL ESCOLAR
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. DE LAS MEDIDAS PARA LOS GENERADORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 27 Bis.
+
+En todas las instituciones y planteles educativos se deberá conformar una Brigada Escolar, que son instancias de apoyo para la aplicación de la presente Ley, cuyo coordinador será el enlace con las autoridades.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 27 Ter.
+
+Las Brigadas deberán estar integradas bajo el principio de paridad de género, para el caso de instituciones del nivel básico, medio superior y superior, se integrarán por 7 miembros de la comunidad educativa: 3 maestros, 3 padres o madres de familia y en su caso tutores, y un representante municipal.
+
+El funcionamiento de las Brigadas se sujetará a los lineamientos que establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 27 Quater.
+
+Corresponde a las Brigadas:
+
+I. Adoptar las medidas preventivas establecidas en el Protocolo de detección, atención y prevención de la violencia escolar;
+
+II. Dar seguimiento a la ejecución de los mecanismos, acciones y programas implementados para la prevención y erradicación de la violencia escolar dentro de la institución educativa;
+
+III. Comunicar al director de la institución educativa, los probables hechos de violencia o acoso escolar sucedidos al interior y exterior de la escuela o bien a través de redes sociales;
+
+IV. Gestionar, proponer y opinar ante las autoridades que corresponda, sobre criterios y soluciones en materia de seguridad escolar que requiera el plantel;
+
+V. Gestionar ante la autoridad correspondiente la atención física, psicológica y jurídica en casos de acoso o violencia entre escolares; y
+
+VI. Las demás que conforme a esta Ley y otras disposiciones le correspondan.
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO III. DE LA CERTIFICACIÓN COMO INSTITUCIÓN EDUCATIVA LIBRE DE VIOLENCIA ESCOLAR
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2017)</small>
+### CAPÍTULO II. DE LAS MEDIDAS PARA EL PERSONAL ESCOLAR
 
 ###### Artículo 28.
 
-El Protocolo es el instrumento rector en materia de violencia escolar para las escuelas, cuya expedición estará a cargo de la Secretaría y contiene los apartados de Ambiente Preventivo y de Paz, Aviso Preventivo, Reporte Escolar de Atención, Atención y Erradicación:
+El Protocolo es el instrumento rector en materia de violencia escolar para las escuelas, cuya expedición estará a cargo de la Secretaría y contiene los siguientes apartados:
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 I.- Ambiente Preventivo y de Paz. Este se dará a través de la cooperación dentro del entorno escolar usando como herramienta el diálogo, la interacción entre los actores del entorno escolar, y la resolución pacífica de conflictos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+a. La prevención será un tema que se llevará a cabo por todos los actores de la comunidad educativa quienes deberán asumir sus responsabilidades en la convivencia escolar, usando herramientas como el dialogo y la resolución sana y pacífica de conflictos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+b. Detección. Una vez que se identifique a alguna víctima, así como al generador de violencia escolar, con base en los indicadores de riesgo que establece el Protocolo.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 II.- Aviso Preventivo. Este estará a cargo del docente o autoridad designada por la escuela.
 
@@ -609,6 +781,12 @@ e) Difundir la información sobre el tipo de servicios de apoyo para el generado
 
 f) Brindar a los alumnos una formación basada en el respeto y fomento de los valores escolares, los derechos humanos, la tolerancia y aquellos que permitan una convivencia sana.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+El director al será la máxima autoridad, podrá realizar Advertencia verbal, en la cual se establezcan las acciones inadecuadas que se le atribuyen y las sanciones a las que se puede hacer acreedor en caso de reincidencia.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
 III.- Reporte escolar de atención. Este se dará siempre y cuando la gravedad de la conducta no genere lesiones en la niña o niño víctima de la acción de violencia, daño psicosexual o alguno que pueda dañar o dejar secuelas de por vida.
 
 La realización del reporte se hará de la siguiente manera:
@@ -616,6 +794,12 @@ La realización del reporte se hará de la siguiente manera:
 a) Deberá existir una acusación directa de cualquier miembro de la comunidad escolar.
 
 b) Se deberá realizar un informe personal y mediante escrito por parte del director y/o autoridades escolares o tutores de la niña o niño víctima de la acción de violencia y de la niña o niño generador de la acción violenta, que establezca los pormenores y especifique la modalidad de violencia escolar y las medidas a las que se puede hacer acreedor en caso de reincidencia, conforme a lo establecido en la presente Ley, para su colaboración e intervención en el comportamiento y daño causados.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+c) En caso de reincidencia la autoridad educativa deberá realizar un reporte escolar de atención y prevención de violencia escolar dirigido a los padres de familia del generador y la víctima, estableciendo los pormenores de la modalidad de violencia escolar y las medidas a las que se puede hacer acreedor el generador de violencia escolar si la conducta es reiterativa, conforme a lo establecido en la presente Ley, para su colaboración e intervención en el comportamiento y daño causados.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 IV. Atención.
 
@@ -625,35 +809,59 @@ b) Procedimiento para la aplicación de mecanismos alternativos de solución de 
 
 c) Canalizar a la víctima de violencia escolar, mediante escrito de la institución y a solicitud de la Secretaría, para su atención de tipo profesional en el DIF Estatal y/o en la Secretaría de Salud; o bien de tipo particular, cuando el padre, madre y en su caso tutor así lo decidan, con el objetivo de mejorar su comportamiento y la integridad de su salud.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+En su caso solicitar la atención psicológica para generador de violencia.
+
 El profesional de tipo particular, miembro del DIF Estatal y/o de la Secretaría de Salud correspondiente, deberá acreditarse ante el REPAEVE por medio de escrito dirigido a la Secretaría donde haga constar su capacidad profesional, de conformidad a lo previsto por esta Ley y su reglamento.
 
 El profesional deberá entregar por escrito al REPAEVE y a la institución, las especificaciones del tratamiento y/o rehabilitación los cuales deberán ser oportunos, y efectivos en absoluto respeto de los derechos humanos, mismos (sic) que será agregado al expediente que le corresponda.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+c Bis) En caso de que las conductas de violencia escolar continúen, las Brigadas Escolares, integrarán el expediente y dictarán las medidas necesarias y pertinentes, para asegurar y garantizar un entorno libre de violencia, tanto para el generador, así como a la víctima.
+
 d) Establecer si el acto de violencia puede ser atendido por la escuela y, si no, determinar un proceso de remisión de dicho acto a la autoridad competente.
 
-IV. Erradicación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-a) Consecuencias y acciones que se deben de llevar a cabo por parte de los directivos escolares o autoridad educativa responsable, en contra de aquella persona que violente a un alumno.
-
-b) Descripción de consecuencias y acciones en contra de aquella persona que haya presentado una acusación falsa de manera intencional;
-
-c) La denuncia o acusación de un acto de violencia escolar, deberá ser presentada por cualquier miembro de la comunidad escolar, ante la autoridad escolar correspondiente, quien deberá reportarla al REPAEVE;
-
-d) Procedimiento de investigación de un acto de violencia escolar en donde se escuchará a las partes involucradas con absoluto respeto a sus derechos; y
-
-e) Acciones para acercarse a los padres del generador de acoso escolar, celebrando reuniones periódicas y registrarlas.
+V. Erradicación.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
+a) Consecuencias y acciones que se deben de llevar a cabo por parte de los directivos escolares o autoridad educativa responsable, en contra de aquella persona que violente a un alumno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+b) Comunicar la situación de violencia escolar a la brevedad posible, describiendo las consecuencias y acciones en contra de aquella persona que haya presentado una acusación falsa de manera intencional;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+c) La denuncia o acusación de un acto de violencia escolar, deberá ser presentada por cualquier miembro de la comunidad escolar, ante la autoridad escolar correspondiente, quien deberá reportarla al REPAEVE para su conocimiento y atención del caso;
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+
+d) Procedimiento de investigación de un acto de violencia escolar en donde se escuchará a las partes involucradas con absoluto respeto a sus derechos; y
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+e) Acciones de manera permanente que fortalezcan la convivencia escolar sana.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-Los directores escolares o su designado serán los responsables de aplicar, previa investigación, la sanción correspondiente e informar al REPAEVE para su registro y control.
+Las personas encargadas de las direcciones escolares o su designado serán los responsables de aplicar, previa investigación, las medidas para los generadores y víctimas e informar al REPAEVE para su registro y control.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 30.
 
 Cuando la gravedad de la conducta de violencia escolar tenga consecuencias de tipo penal, se procederá a dar parte a las instancias correspondientes, facilitando y colaborando en todo lo necesario para la investigación sobre el caso específico y a solicitud de la autoridad.
+
+### CAPÍTULO III. DE LA CERTIFICACIÓN COMO INSTITUCIÓN EDUCATIVA LIBRE DE VIOLENCIA ESCOLAR
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 31.
 
@@ -683,7 +891,7 @@ Se aplicarán las medidas y procedimientos administrativos establecidos por la S
 
 ###### Artículo 33.
 
-El REPAEVE analizará la información recibida por cada institución educativa con la finalidad de obtener un diagnóstico preciso sobre la situación de cada una.
+El REPAEVE analizará de acuerdo a sus cifras estadísticas, el fenómeno de la violencia escolar dentro de los centros educativos en el Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -762,3 +970,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría deberá expedir el Reglamento de la presente Ley, a los 90 días naturales siguientes a su entrada en vigor.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo previsto por esta Ley.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 760 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría de Educación Pública, deberá emitir los lineamentos para la integración y el funcionamiento de las Brigadas Escolares, en un plazo no mayor a 180 días a la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
