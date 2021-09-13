@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1443-2021-del-consejo-general-del-instituto-15090
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-09-01"
-last_updated: "2021-09-01"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150909&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2021-08-23"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EFECTÚA EL CÓMPUTO TOTAL, SE DECLARA LA VALIDEZ DE LA ELECCIÓN DE DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y SE ASIGNAN A LOS PARTIDOS POLÍTICOS NACIONALES ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, DE LA REVOLUCIÓN DEMOCRÁTICA, DEL TRABAJO, VERDE ECOLOGISTA DE MÉXICO, MOVIMIENTO CIUDADANO Y MORENA, LAS DIPUTACIONES QUE LES CORRESPONDEN PARA EL PERIODO 2021-2024.
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 13 DE SEPTIEMBRE DE 2021, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en el Número 1 del Diario Oficial de la Federación, el miércoles 1 de septiembre de 2021.
 
@@ -320,3 +322,69 @@ https://www.ine.mx/sesion-extraordinaria-del-consejo-general-23-de-agosto-de-202
 Página DOF
 
 www.dof.gob.mx/2021/INE/CGext202108_23_ap_17.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE, EN ACATAMIENTO A LAS SENTENCIAS DICTADAS POR EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN LOS EXPEDIENTES SUP-REC-1410/2021 Y ACUMULADOS, ASÍ COMO SUP-REC-1414/2021 Y ACUMULADOS, SE MODIFICA LA ASIGNACIÓN DE LAS DIPUTACIONES FEDERALES QUE LES CORRESPONDEN A LOS PARTIDOS POLÍTICOS NACIONALES ACCIÓN NACIONAL Y VERDE ECOLOGISTA DE MÉXICO, APROBADA MEDIANTE ACUERDO INE/CG1443/2021", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifica la asignación de diputaciones por el principio de RP determinada mediante Acuerdo INE/CG1443/2021, en acatamiento a las sentencias dictadas por el TEPJF en los expedientes SUP-REC-1410/2021 y Acumulados, así como SUP-REC-1414/2021 y Acumulados, acorde con lo señalado en las consideraciones de este Acuerdo.
+
+SEGUNDO. Se revocan las constancias de asignación de diputaciones por el principio de RP expedidas a favor de:
+
+PAN
+
+CUARTA CIRCUNSCRIPCIÓN
+
+No. de lista Propietario Suplente
+
+7 OSCAR DANIEL MARTINEZ RAYMUNDO BOLAÑOS
+
+TERRAZAS AZOCAR
+
+PVEM
+
+TERCERA CIRCUNSCRIPCIÓN
+
+No. de lista Propietario Suplente
+
+4 JAVIER OCTAVIO HERRERA LUIS ARMANDO
+
+BORUNDA MELGAR BRAVO
+
+TERCERO. Expídanse las constancias de asignación de diputaciones por el principio de RP, a los partidos Acción Nacional y Verde Ecologista de México, conforme a lo siguiente:
+
+PAN
+
+CUARTA CIRCUNSCRIPCIÓN
+
+No. de lista Propietaria Suplente
+
+10 ANA LAURA VALENZUELA MARIANA BEATRIZ
+
+SÁNCHEZ SABANERO ZARZUELA
+
+PVEM
+
+TERCERA CIRCUNSCRIPCIÓN
+
+No. de lista Propietaria Suplente
+
+5 ------------------- SANTY MONTEMAYOR
+
+CASTILLO
+
+CUARTO. A efecto de dar cabal cumplimiento a la sentencia emitida por el TEPJF en el expediente SUP-REC-1410/2021, y toda vez que se trata de personas candidatas que no tienen su domicilio en territorio nacional siendo que fueron postuladas como Acción Afirmativa Migrante, esta autoridad notificará al Partido Acción Nacional la constancia, para que de forma inmediata notifique y entregue a las candidatas Ana Laura Valenzuela Sánchez y Mariana Beatriz Sabanero Zarzuela la constancia correspondiente e informe inmediatamente a este Consejo General lo conducente.
+
+QUINTO. Notifíquese al Partido Verde Ecologista de México el presente Acuerdo y entréguense (sic) la constancia correspondiente para que, a la brevedad, lo comunique a la persona señalada en el Punto de (sic) Acuerdo TERCERO e informe inmediatamente a este Consejo General lo conducente.
+
+SEXTO. Infórmese por conducto del Secretario Ejecutivo a la Secretaría General de la Cámara de Diputados, la modificación de las asignaciones de diputaciones electas por el principio de RP, de conformidad con lo determinado en el presente Acuerdo.
+
+SÉPTIMO. Infórmese de manera inmediata a la Sala Superior del TEPJF sobre el cumplimiento dado a las sentencias dictadas en los expedientes SUP-REC-1410/2021 y Acumulados, así como SUP-REC-1414/2021 y Acumulados.
+
+OCTAVO. Notifíquese a la Secretaría General de la Cámara de Diputados el presente Acuerdo, a efecto de que dé cumplimiento a la consideración 17.
+
+NOVENO. Notifíquese a la ciudadana Octavia Ortega Arteaga que, a través de la consideración 12 del presente Acuerdo, se da respuesta a lo planteado en su escrito.
+
+DÉCIMO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias a efecto de difundir el presente Acuerdo a través de su publicación en el DOF.
