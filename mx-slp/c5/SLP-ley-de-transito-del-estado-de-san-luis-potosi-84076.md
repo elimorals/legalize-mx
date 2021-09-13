@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2021-07-15"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -843,9 +843,11 @@ El servicio de estacionamiento consiste en la guardia de vehículos en edificios
 
 El estacionamiento de vehículos en las vías públicas se permitirá en las zonas, horarios y formas que la autoridad de tránsito determine, según el flujo vehicular y las dimensiones de las propias vías, previo estudio de factibilidad, a través de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 56.
 
-Los ayuntamientos, a través de sus titulares de tránsito, señalarán lugares específicos de estacionamientos para personas con discapacidad, de conformidad con la ley de la materia.
+Los ayuntamientos, a través de sus titulares de tránsito, señalarán lugares específicos de estacionamientos para personas con discapacidad, y mujeres embarazadas, de conformidad con la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2018)</small>
 
@@ -923,9 +925,11 @@ ARTICULO 63 BIS. A los vehículos de emergencia que estén realizando su labor n
 
 ### Capítulo I. De los Peatones, de los Ciclistas, y de la Educación Vial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 64.
 
-La Secretaría y las autoridades municipales de tránsito, llevarán a cabo en forma permanente campañas y programas de educación vial, destinados a crear conciencia de corresponsabilidad en la ciudadanía; fomentar hábitos de respeto a la normatividad en la materia; así como el trato preferente que se debe dar en las vías de tránsito a los adultos mayores y personas con discapacidad; fomentar el uso del transporte no motorizado, como la bicicleta, como medida ecológica para propiciar el uso racional del automóvil particular; prevenir accidentes; mejorar la circulación de los vehículos; y, en general, crear las condiciones necesarias para lograr el bienestar de los habitantes del Estado.
+La Secretaría y las autoridades municipales de tránsito, llevarán a cabo en forma permanente campañas y programas de educación vial, destinados a crear conciencia de corresponsabilidad en la ciudadanía; fomentar hábitos de respeto a la normatividad en la materia; así como el trato preferente que se debe dar en las vías de tránsito a los adultos mayores, mujeres embarazadas, y personas con discapacidad; fomentar el uso del transporte no motorizado, como la bicicleta, como medida ecológica para propiciar el uso racional del automóvil particular; prevenir accidentes; mejorar la circulación de los vehículos; y, en general, crear las condiciones necesarias para lograr el bienestar de los habitantes del Estado.
 
 La Secretaría promoverá con las autoridades competentes, la incorporación a los planes del estudio, de materias que contengan temas de seguridad y educación vial.
 
@@ -1031,19 +1035,25 @@ XII. Las demás disposiciones que establezca el reglamento respectivo.
 
 En los cruceros o zonas marcadas para el paso de peatones, donde no haya semáforos o agentes que regulen la circulación, así como en las vías de doble circulación donde no exista camellón central, los conductores harán alto para ceder el paso a los mismos que se encuentren en el arroyo de la calle.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 70.
 
-Los niños y niñas, personas adultas mayores, personas con discapacidad y los escolares, tendrán derecho de paso en todas las intersecciones y zonas señaladas, por lo que:
+Los niños y niñas, personas adultas mayores, mujeres embarazadas, personas con discapacidad, y los escolares, tendrán derecho de paso en todas las intersecciones y zonas señaladas, por lo que:
 
 I. Los escolares realizarán el ascenso y descenso de los vehículos que utilicen para trasladarse, en lugares previamente autorizados, en las inmediaciones del plantel, y
 
-II. Los agentes deberán proteger el tránsito de los niños y niñas, personas adultas mayores, personas con discapacidad y los escolares, mediante los dispositivos e indicaciones convenientes, en los horarios establecidos.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II. Los agentes deberán proteger el tránsito de los niños y niñas, personas adultas mayores, mujeres embarazadas, personas con discapacidad, y los escolares, mediante los dispositivos e indicaciones convenientes, en los horarios establecidos.
 
 Los tutores, cuidadores y docentes que tengan a su cargo a niños, niñas o adolescentes, serán responsables de las obligaciones que establece el artículo 67 de esta Ley como peatones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 71.
 
-Las personas con discapacidad, personas adultas mayores, y escolares, tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
+Las personas con discapacidad, mujeres embarazadas, personas adultas mayores, y escolares, tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
 
 I. En los pasos peatonales, la señal del semáforo así lo indique;
 
@@ -1079,11 +1089,13 @@ V. Permitir que los elementos o agentes de tránsito revisen sus documentos y lo
 
 VI. Tomar las precauciones necesarias al abordar o bajar del vehículo para evitar accidentes;
 
-VII. Respetar los límites de velocidad que marcan los señalamientos viales, y las zonas de estacionamiento destinadas para las personas con discapacidad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+VII. Respetar los límites de velocidad que marcan los señalamientos viales, y las zonas de estacionamiento destinadas para las personas con discapacidad, y mujeres embarazadas;
 
-VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuando le corresponde el paso a los peatones, ciclistas, escolares, personas adultas mayores y personas con discapacidad y éstos no alcancen a cruzar la calle;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuando le corresponde el paso a los peatones, ciclistas, escolares, mujeres embarazadas, personas adultas mayores, y personas con discapacidad, y éstos no alcancen a cruzar la calle;
 
 IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y
 
@@ -1880,3 +1892,11 @@ P.O. 15 DE JULIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1243.- SE REFORMA LOS ARTÍCULOS 56 EN SU PÁRRAFO PRIMERO, 64 EN SU PÁRRAFO PRIMERO, 70 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN II, 71 EN SU PÁRRAFO PRIMERO Y 72 EN SUS FRACCIONES VII Y VIII, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
