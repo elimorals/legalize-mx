@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-municipio-de-chinicuila-michoacan-para-1471
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-28"
-last_updated: "2020-12-28"
+last_updated: "2021-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL MUNICIPIO DE CHINICUILA, MICHOACÁN, PARA EL EJERCICIO FISCAL DEL AÑO 2021.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el número 73, Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 28 de diciembre de 2020.
 
