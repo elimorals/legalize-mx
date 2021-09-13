@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-11-17"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1535,11 +1535,11 @@ Riña es la contienda de obra entre dos o más personas con intención de causar
 
 Para la aplicación de las penas, dentro del mínimo y el máximo señalados, se tomará en consideración quién fue el provocado, quién el provocador y el grado de provocación.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 133.
 
-Si el homicidio es calificado, se impondrá una pena de veinte a cuarenta y cinco años de prisión y sanción pecuniaria de dos mil a cuatro mil quinientos días del valor de la unidad de medida y actualización.
+Si el homicidio es calificado, se impondrá una pena de treinta a sesenta años de prisión y sanción pecuniaria de dos mil a cuatro mil quinientos días del valor de la unidad de medida y actualización.
 
 ###### ARTÍCULO 134.
 
@@ -1567,9 +1567,9 @@ VI. La víctima haya sido incomunicada, o privada de su libertad, cualquiera que
 
 VII. El cuerpo de la víctima sea expuesto de cualquier forma, depositado, o arrojado en un lugar público.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-Este delito se sancionará con una pena de veinte a cincuenta años de prisión, y sanción pecuniaria de dos mil a cinco mil días del valor de la unidad de medida y actualización.
+Este delito se sancionará con una pena de cuarenta a sesenta años de prisión, y sanción pecuniaria de dos mil a cinco mil días del valor de la unidad de medida y actualización.
 
 Además de las sanciones señaladas en el presente artículo, el sujeto activo perderá los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -1621,9 +1621,11 @@ En los casos a que se refieren las fracciones II y III, además de las sanciones
 
 Al que infiera lesiones que pongan en peligro la vida se le impondrá una pena de uno a seis años de prisión y sanción pecuniaria de cien a seiscientos días del valor de la unidad de medida y actualización, sin perjuicio de las sanciones que le correspondan, de acuerdo al artículo anterior.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 139.
 
-Cuando se infieran lesiones bajo las circunstancias de las calificativas a que se refiere el artículo 144 de este Código, se agravará con un tercio más la pena de prisión que corresponda.
+Cuando se infieran lesiones bajo las circunstancias de las calificativas a que se refiere el artículo 144 de este Código, se aumentará la sanción hasta el doble de la que corresponda por la lesión simple causada.
 
 ###### ARTÍCULO 140.
 
@@ -2733,13 +2735,21 @@ XIV. Se cometa aprovechando las condiciones de confusión respecto de los bienes
 
 XV. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste similar;
 
-XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar;
 
 XVII. El objeto robado sea un vehículo de motor.
 
 En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad.
 
-Los adquirentes o detentadores de vehículos o autopartes no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o posesión de las cosas que se consideran robadas; para acreditar esta circunstancia se atenderá al costo de compra de los bienes y su precio en el mercado, así como la legalidad del procedimiento de adquisición con persona moral o física cierta, o en la buena fe de la posesión.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Los adquirentes o detentadores de vehículos o autopartes no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o posesión de las cosas que se consideran robadas; para acreditar esta circunstancia se atenderá al costo de compra de los bienes y su precio en el mercado, así como la legalidad del procedimiento de adquisición con persona moral o física cierta, o en la buena fe de la posesión, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Se cometa utilizando, ocupando o auxiliándose de una motocicleta.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -5692,3 +5702,27 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1250.- SE REFORMA EL ARTÍCULO 135 EN SU PÁRRAFO NOVENO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1261.- SE REFORMA LOS ARTÍCULOS 133 Y 139, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1262.- SE REFORMA EL ARTÍCULO 218 EN SUS FRACCIONES XVI Y XVII; Y ADICIONA AL MISMO ARTÍCULO 218 LA FRACCIÓN XVIII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
