@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2018-07-30"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -41,9 +41,11 @@ QUE CONTIENE LA LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO D
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de observancia obligatoria; sus disposiciones son de orden público e interés social y sus objetivos son:
+La presente ley es de observancia general en el Estado de Hidalgo; sus disposiciones son de orden público e interés social, teniendo por objeto proteger a los animales, garantizar su bienestar, brindarles atención, buen trato, manutención, alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento, actos de zoofilia y la deformación de sus características físicas, así como, asegurar la sanidad del animal, la salud pública y las cinco libertades del animal, siendo estas: libre de hambre, sed y desnutrición, miedos y angustias, de incomodidades físicas o térmicas, de dolor, lesiones o enfermedades, y para expresar las pautas propias de comportamiento y sus objetivos son:
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -139,6 +141,10 @@ XIX.- Campañas: Acciones públicas realizadas de manera periódica por la Autor
 
 XX.- Centros de Control Animal y Zoonosis: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y en su caso, sacrificio humanitario de animales abandonados;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XX Bis.- Consejo. Al Consejo Consultivo Ciudadano para la Protección de los Animales;
+
 XXI.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
 
 XXI Bis.- (DEROGADA, P.O. 30 DE JULIO DE 2018)
@@ -229,6 +235,24 @@ VIII.- Todo animal muerto debe ser tratado con respeto.
 
 Toda persona tiene derecho a que la Secretaría ponga a su disposición la información que soliciten en cuanto al trato digno y respetuoso de los animales, así mismo cualquier persona física o moral que maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 5° Bis.
+
+Es prerrogativa de las y los ciudadanos, además de las conferidas en otros ordenamientos aplicables, solicitar y recibir la información y orientación necesarias de las autoridades estatales o municipales, en relación con los derechos y obligaciones vinculados con la posesión de animales y con sus enfermedades.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 5° Ter.
+
+Las Organizaciones de la Sociedad Civil legalmente constituidas, además de las establecidas en la Ley Estatal de Fomento y Fortalecimiento de las Organizaciones de la Sociedad Civil para el Estado de Hidalgo y demás normativa aplicable, cuyo objeto social sea la protección de la fauna en general o realizar actividades cívicas de interés público enfocadas a la protección y defensa de los animales, podrán coadyuvar con las autoridades estatales y municipales competentes para la realización de campañas de vacunación, desparasitación, esterilización, sacrificio, promoción de cultura de tenencia responsable, respeto a los animales y demás acciones que se implementen para el desarrollo de las políticas en materia de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 5° Quáter.
+
+La participación de las personas y sectores involucrados en la formación y aplicación de las medidas de conservación y aprovechamiento sustentable de la fauna silvestre se regirá en los términos previstos en la Ley General de Vida Silvestre.
+
 ### CAPITULO SEGUNDO. DE LA DISTRIBUCION DE COMPETENCIAS
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
@@ -287,11 +311,17 @@ II.- Establecer y regular los Centros de Control Animal y Zoonosis, además de p
 
 III.- Apoyar a la Autoridad en materia de salud en el Estado, en campañas de esterilización y vacunación a precios módicos de recuperación, o en casos determinados, de manera gratuita, conjuntamente con los Centros de Control Animal y Zoonosis y Asociaciones Protectoras de Animales;
 
-IV.- La promoción y difusión que genere una cultura cívica de protección, responsabilidad y trato digno a los animales; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+IV.- La promoción y difusión que genere una cultura cívica de protección, responsabilidad y trato digno a los animales;
 
-V.- Celebrar Convenios con la Autoridad en materia ambiental, de educación y de salud en el Estado, para llevar a cabo los fines de la presente Ley.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Celebrar Convenios con la Autoridad en materia ambiental, de educación y de salud en el Estado, para llevar a cabo los fines de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Fomentar la participación de la sociedad civil de manera individual, grupal y organizada en el establecimiento de políticas públicas encaminadas al cumplimiento de sus facultades y de los objetivos de la presente Ley.
 
 ###### Artículo 10.
 
@@ -303,7 +333,9 @@ II.- Un secretario.
 
 III.- Dos vocales, nombrados por la Autoridad en materia de Salud y por la Autoridad en materia de Ecología en el Estado; y
 
-IV.- Los invitados, por parte de las Asociaciones Protectoras de Animales, y por Médicos Veterinarios Zootecnistas.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Los invitados, por parte de las Asociaciones Protectoras de Animales, Organizaciones de la Sociedad Civil, y por Médicos Veterinarios Zootecnistas.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -369,9 +401,15 @@ VII.- Portar obligatoriamente un collar con placa o cualquier otro medio de iden
 
 VIII.- Informar al Área Técnica de la Muerte de los animales que determine el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-Todo propietario, poseedor o encargado de una mascota deberá llevarla a la calle únicamente con collar y correa, y en caso necesario, con un bozal, siempre y cuando no se altere la tranquilidad o represente un riesgo para la sociedad.
+Todo propietario, poseedor o encargado de una mascota, cuando esté en la vía pública deberá llevarla con collar, correa y placa de identificación donde consten sus datos de contacto.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Los animales que por sus antecedentes naturaleza, adiestramiento o actividades a las que son destinados representen un riesgo para las personas u otros seres vivos, deberán usar adicionalmente bozal.
 
 ###### Artículo 15.
 
@@ -429,11 +467,33 @@ V.- Mutilar, torturar, envenenar, quemar, golpear, estrangular y asfixiar y cual
 
 VI.- Toda privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos y alojamiento adecuado;
 
-VII.- Abandonar a los animales en propiedades y en la vía pública;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Abandonar a los animales en espacios públicos o privados.
 
 VIII.- Dejar por tiempo prolongado en el interior de vehículos animales sin ventilación, ni agua y alimento suficiente; y
 
 IX.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 22 Bis.
+
+Además de las mencionadas en el artículo anterior, se considerarán como actos de crueldad y maltrato en contra de los animales con carácter doméstico, las siguientes conductas:
+
+I.- Tenerlos en azoteas o terrazas permanentemente;
+
+II.- Atarlos, amarrarlos, sujetarlos o inmovilizarlos temporal o permanentemente sin causa justificada;
+
+III.- No proporcionarles el espacio suficiente y adecuado para su movilidad, esparcimiento y debida protección de acuerdo a las condiciones del cuidado de su especie;
+
+IV.- Descuidar la vivienda destinada para ellos y sus condiciones de ventilación e higiene;
+
+V.- Causarles con dolo sed, insolación, dolores o cualquier acto que atente contra su salud;
+
+VI.- No proporcionarles una alimentación adecuada y suficiente que cubra sus necesidades vitales, de acuerdo a su especie y talla; y
+
+VII. Mutilar sus extremidades realizarles cualquier acción tendiente a limitar su capacidad de vuelo, en el caso de las aves.
 
 ###### Artículo 23.
 
@@ -441,7 +501,9 @@ Queda prohibido por cualquier motivo:
 
 I.- El uso de animales vivos, como instrumento de entrenamiento en animales de guardia, ataque, o como medio para verificar su agresividad. Quedando excluidas las especies de fauna silvestre manejadas con fines de rehabilitación y su preparación para su liberación en su hábitat, así como las aves de presa cuando se trate de su entrenamiento, siempre y cuando medie los permisos de la autoridad competente y de profesionales en la materia;
 
-II.- El obsequio, distribución o venta de animales con fines de propaganda política, promoción comercial, obras benéficas o fiestas o eventos escolares y como premios en sorteos, juegos, concursos, rifas y loterías;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- El obsequio, distribución o venta de animales con fines de propaganda política, promoción comercial, obras benéficas o ferias, eventos escolares, premios en sorteos, juegos, concursos, rifas, loterías o cualquier otra actividad análoga, con excepción de aquellos eventos que tienen como objeto la venta de animales y que estén legalmente autorizados para ello;
 
 III.- La venta o donación de animales a menores de edad, sin permiso de sus padres o tutores;
 
@@ -455,9 +517,49 @@ VII.- Atropellar animales de manera intencional, cuando esto se pueda evitar ya 
 
 VIII.- El uso de animales en la celebración de ritos, y usos tradicionales medicinales o afrodisíacos que atenten contra el bienestar del animal;
 
-IX.- Proporcionar cualquier clase de alimento u objetos en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarle daño físico, enfermedad o muerte al animal; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Proporcionar cualquier clase de alimento u objetos en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarle daño físico, enfermedad o muerte al animal;
 
 X.- Entrenar animales con fines ilícitos.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Mantener a los animales general o permanentemente: amarrados, encadenados, enjaulados (salvo los que tengan capacidad para volar), o de alguna otra manera que se limite o impida su movilidad.
+
+Serán consideradas excepciones aquellas debidas a prescripción médica veterinaria profesional;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Mantener a los animales expuestos a la intemperie, en instalaciones indebidas desde el punto de vista higiénico-sanitario, de bienestar o de seguridad del animal; o inadecuadas para la práctica de los cuidados y la atención requerida de acuerdo con sus necesidades, según raza y especie;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII.- Mantener a los animales en azoteas, terrenos baldíos o propiedades abandonadas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV.- Someter a los animales a la exposición de ruidos, temperaturas, electricidad, aromas, vibraciones, luces o cualquier otro tipo de fenómenos físicos que les resulte perjudicial;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI.- Realizar u ordenar la realización de tatuajes sobre la piel de animales con fines estéticos y la perforación del cuerpo con fines distintos a los curativos, o a efecto de colocar cualquier aditamento ornamental en los mismos, considerando como excepciones aquellas que sean practicadas con el fin de registro o identificación en términos de la Ley en materia Pecuaria, o hechas en beneficio de su salud o seguridad cuando por las condiciones de vida del animal resulte estrictamente necesario, que sean realizadas por médicos veterinarios profesionales, y a las que se les dé cabal seguimiento del proceso de curación para garantizar su total sanación; la aplicación de productos químicos o sustancias en su pelaje con la finalidad de modificar su apariencia y que pueda dañar su salud;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVII.- Las intervenciones quirúrgicas cuyo objeto sea modificar la apariencia de un animal doméstico, con fines distintos a los curativos o benéficos para su salud, como lo son, de manera enunciativa más no limitativa: el corte de la cola o de orejas, la sección de las cuerdas vocales y la extirpación de uñas y dientes; salvo los actos que se consideren necesarios en beneficio de los animales, así como aquellos destinados a limitar o impedir la reproducción;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII.- La venta o adiestramiento de animales en áreas comunes o en áreas en las que se atente contra la integridad física de las personas o en aquellos establecimientos que no cuenten con las instalaciones adecuadas para realizarlo; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIX.- El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para fines distintos al uso agropecuario.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -481,9 +583,59 @@ IV.- Contar con las medidas preventivas, para que los animales no sean perturbad
 
 V.- Contar con un Médico Veterinario Zootecnista, como responsable de la salud de los animales y de la orientación a los interesados en adquirir una mascota.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 25 Bis.
+
+Cualquier persona o lugar dedicado a la reproducción, selección, crianza o venta de animales, deberá cumplir con los siguientes requisitos, sin perjuicio de los demás que establezca para ello la autoridad competente:
+
+I. Deberán obtener de la autoridad competente la licencia de autorización para desempeñar dicha actividad;
+
+II. Llevar un registro con la ficha técnica de todos los animales, el cual deberá contener nombre del animal, especie, raza, edad y registro de las consultas médicas, desparasitaciones y vacunas; posteriormente a la venta del animal, el nombre y domicilio del propietario y copia de identificación oficial;
+
+III. Deberán tener buenas condiciones higiénico-sanitarias, adecuadas a las necesidades fisiológicas de los animales que alberguen;
+
+IV. Dispondrán de comida suficiente y adecuada, agua, lugares para dormir y contarán con personal capacitado para su cuidado, así como servicio médico veterinario profesional en el lugar 24 horas al día;
+
+V. Instalaciones adecuadas para evitar el contagio en los casos de enfermedad, o para guardar, en su caso, períodos de cuarentena;
+
+VI. Los animales deberán ser desparasitados y vacunados conforme el médico veterinario profesional lo indique; debiendo tener consultas médicas con veterinarios profesionales al menos una vez cada 6 meses; y
+
+VII. Deberán prestar las facilidades a efecto de que se realicen visitas por parte de médico veterinario profesional autorizado por la autoridad municipal o estatal, a efecto de que se constaten las condiciones de higiene del lugar en que se encuentran los animales y su salud.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 25 Ter.
+
+Además de lo previsto en el artículo anterior, cuando se trate de establecimientos dedicados a la reproducción, selección, crianza o venta de animales, deberán cumplir las siguientes disposiciones:
+
+I. Garantizar su protección y asegurarles un trato digno y respetuoso;
+
+II. Evitar el maltrato y la crueldad hacia los animales tanto por parte de los comerciantes, sus empleados o ayudantes, así como por parte de quien los adquiere;
+
+III. Asegurar que los animales estén resguardados, previo a su venta, en lugares que cuenten con áreas e infraestructura necesaria para su manejo;
+
+IV. Prestar, sin costo alguno, por lo menos dos espacios físicos dentro de su establecimiento, para la exhibición de animales en adopción que se encuentren en custodia de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados, así como publicarlo a través de medios remotos o la utilización de herramientas tecnológicas; y
+
+V. Quienes lleven a cabo la reproducción, selección, crianza o la comercialización de animales de compañía, deberán acreditar que cuentan con la capacidad técnica y operativa suficiente.
+
+Además de las medidas anteriormente señaladas, se deberán prever las condiciones suficientes de espacio, seguridad, ventilación, iluminación, alimentación, así como las necesarias para la estancia de los animales en instalaciones de resguardo durante los períodos en los que no se encontrarán en exhibición para su comercialización.
+
+Las personas o lugares dedicados a la reproducción, selección, crianza o venta de animales que no cuenten con las autorizaciones correspondientes, serán sujetos a las sanciones establecidas en esta ley y los animales serán resguardados hasta su adopción por la autoridad correspondiente con el apoyo de asociaciones protectoras de animales legalmente constituidas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 25 Quater.
+
+En la venta de animales se deberá privilegiar aquella que se pueda realizar a través de medios remotos o mediante la utilización de herramientas tecnológicas que eviten el contacto físico directo entre el animal para venta y el público interesado en su adquisición, siempre y cuando se cumpla con la normatividad Federal y local en materia de protección, cuidado y trato digno y respetuoso a los animales.
+
+Para poder utilizar estos medios, deberán de contar con las autorizaciones a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-Para la venta de cualquier mascota, deberá observarse lo dispuesto por el Artículo 23 fracción III.
+Para la venta de cualquier mascota, deberá observarse lo dispuesto por el Artículo 23 fracción III y fracción XV.
 
 ###### Artículo 27.
 
@@ -817,9 +969,9 @@ III.- Los recursos que se generen por la aplicación de la presente Ley; y
 
 IV.- Los eventos culturales, deportivos, y demás que se realicen para la recaudación de fondos.
 
-### CAPITULO VIGESIMO. DE LA DENUNCIA Y VIGILANCIA
+### CAPITULO DECIMO NOVENO BIS. DEL CONSEJO CONSULTIVO CIUDADANO PARA LA PROTECCION DE LOS ANIMALES
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 83.
 
@@ -869,13 +1021,67 @@ X.- Cualquier otro lugar donde se manejen animales.
 
 Gestionar mediante convenios con el Estado, asilos o refugios para especies de fauna doméstica, a fin de canalizar a los animales abandonados, perdidos, lastimados o enfermos en los términos de la presente Ley.
 
-### CAPITULO VIGESIMO PRIMERO. DE LA DISPOSICION DE CADAVERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPITULO VIGESIMO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO VIGESIMO. DE LA DENUNCIA Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 89 Bis.
+
+Se crea el Consejo Consultivo Ciudadano para la Protección a los Animales como órgano de carácter consultivo, de asesoramiento y de participación y colaboración ciudadana en materia de planeación, supervisión y evaluación de las políticas públicas enfocadas al cuidado y protección de los animales, a efecto de garantizar los derechos a todos los animales objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 89 Ter.
+
+Además de las funciones establecidas en el artículo anterior, el Consejo Consultivo Ciudadano para la Protección de los Animales, podrá emitir opiniones, observaciones y recomendaciones no vinculantes en la materia para las acciones que realicen la Secretaría y la Procuraduría Estatal de Protección al Ambiente para el cumplimiento de la presente Ley.
+
+La Procuraduría Estatal para la Protección al Ambiente, emitirá los lineamientos para el funcionamiento del Consejo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 89 Quater.
+
+El Consejo estará integrado atendiendo el principio de paridad de género, por:
+
+I. Hasta cuatro representantes de la Sociedad Civil con experiencia probada en la protección de los animales;
+
+II. Hasta cuatro Consejeros representantes de Organizaciones de la Sociedad Civil o Asociaciones Civiles dedicadas a la protección y defensa de los animales, debidamente registradas en el Estado de Hidalgo;
+
+III. Hasta dos Consejeros representantes de Instituciones Académicas que realicen acciones probadas en el estudio y defensa de los animales; y
+
+IV. Hasta dos Consejeros representantes de los Colegios de profesionistas dedicados al estudio, protección y preservación de los animales.
+
+Las y los candidatos a ocupar los puestos de Consejeros establecidos en la fracción I del presente artículo podrán postularse al cargo de manera personal cubriendo los requisitos establecidos en la Convocatoria que para tal efecto se emita.
+
+Las y los candidatos a ocupar los puestos de Consejeros establecidos en las fracciones II, III y IV, deberán ser postulados por la institución u organización que pretendan representar.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 89 Quinquies.
+
+La elección de Consejeros se realizará por la Procuraduría Estatal de Protección al Ambiente de conformidad con lo que se establezca en la Convocatoria que para tal efecto emita.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 89 Sexies.
+
+El Cargo de Consejero será honorífico y tendrá una duración de 3 años con posibilidad de postularse para ejercicios subsecuentes.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 89 Septies.
+
+El Consejo deberá sesionar de manera ordinaria al menos una vez cada tres meses y extraordinaria cada vez que lo requieran, a petición de la persona que ostente la titularidad de la Presidencia.
+
+A las sesiones del Consejo podrán asistir con carácter de invitados, con derecho a voz, pero no a voto, las personas que el Consejo considere.
+
+### CAPITULO VIGESIMO PRIMERO. DE LA DISPOSICION DE CADAVERES
 
 ###### Artículo 90.
 
-Toda persona podrá denunciar ante la Procuraduría o el Área Técnica Municipal correspondiente, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y los demás ordenamientos jurídicos.
+Toda persona podrá denunciar ante la Procuraduría o el Área Técnica Municipal correspondiente, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y los demás ordenamientos jurídicos y, en su caso, colaborar, en la medida de lo posible, con las mismas para detener tales actos.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -913,6 +1119,18 @@ Si por la naturaleza de los hechos denunciados, se trate de asuntos de competenc
 
 Corresponde a la Procuraduría y al Área Técnica Municipal competente, vigilar el debido cumplimiento de las presentes disposiciones.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 95 Bis.
+
+La Procuraduría y el Área Técnica Municipal competente, con auxilio de la Fuerza Pública, podrán rescatar animales del interior de un domicilio cuando se esté cometiendo un delito de forma flagrante o acreditando la existencia de riesgo inminente a causa del maltrato en contra de animales.
+
+Además, la Procuraduría y el Área Técnica Municipal deberán garantizar el aseguramiento precautorio de los animales.
+
+### CAPITULO VIGESIMO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 96.
 
 Queda estrictamente prohibido arrojar animales muertos o moribundos en la vía pública, terrenos baldíos, depósitos de basura, canales de desagüe o lechos de ríos.
@@ -933,7 +1151,11 @@ Si las lesiones sólo comprenden alguno de los miembros, deberá ser canalizado 
 
 ###### Artículo 99.
 
-Se considera como infractora toda persona, física o moral, o autoridad, que por hecho, acto u omisión, intencional o imprudencial, induzca directa o indirectamente a alguien a infringir o violar las disposiciones de la presente Ley, su reglamento y demás disposiciones jurídicas.
+Se considerará como infractora a toda persona física o moral, o autoridad, que, por hecho, acto u omisión, intencional o imprudencial, infrinja o induzca directa o indirectamente a alguien para que viole lo establecido en la presente Ley, su reglamento y demás disposiciones jurídicas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Tratándose de personas morales dedicadas a la defensa y protección de los animales, se aumentarán hasta en un cincuenta por ciento de las sanciones previstas por esta Ley.
 
 ###### Artículo 100.
 
@@ -943,17 +1165,25 @@ Los padres o tutores de incapaces son responsables de las faltas que estos comet
 
 La imposición de las sanciones previstas por la presente Ley no excluyen la responsabilidad civil o penal y la eventual indemnización o reparación del daño correspondiente que puedan recaer sobre el sancionado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 102.
 
-Las sanciones administrativas podrán consistir en:
+Las sanciones administrativas deberán ser valoras de acuerdo al daño ocasionado, y podrán consistir en:
 
 I.- Amonestación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II.- Multa de 5 a 300 veces la Unidad de Medida y Actualización vigente; y
+II- Multa de 10 a 300 veces la Unidad de Medida y Actualización vigente;
 
-III.- Arresto hasta por 36 horas.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Arresto hasta por 36 horas; en caso de personas morales se impondrá el arresto al responsable directo de incurrir en la conducta o en su caso al representante legal o responsable de la dependencia respectiva; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Cuando se trate de personas morales dedicadas a la defensa y protección de los animales, además de las anteriores, se podrán revocar las autorizaciones, licencias o permisos correspondientes o clausurar de forma temporal o definitiva, parcial o total, las instalaciones o sitios donde se desarrolle la infracción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -1080,3 +1310,15 @@ P.O. 30 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 460 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 767 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. - Las autoridades competentes tendrán un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor para realizar la armonización con relación al presente Decreto.
+
+TERCERO. La Procuraduría Estatal de Protección al Ambiente en un plazo que no exceda los sesenta días naturales a la entrada en vigor del presente Decreto, deberá expedir los lineamientos para el funcionamiento del Consejo Consultivo Ciudadano para la Protección de los Animales.
+
+CUARTO. La Procuraduría Estatal de Protección al Ambiente en un plazo que no exceda los noventa días naturales a la entrada en vigor del presente Decreto, deberá publicar la Convocatoria para la elección de las y los Consejeros del Consejo Consultivo Ciudadano para la Protección de los Animales.
