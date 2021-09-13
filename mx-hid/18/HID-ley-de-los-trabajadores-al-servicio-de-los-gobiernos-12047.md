@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2020-12-22"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -107,13 +107,17 @@ V. En los Ayuntamientos, los miembros de los cuerpos de seguridad y de policía 
 
 Los trabajadores no incluídos en la relación que antecede serán considerados de base. Al crearse nuevas categorías o cargos, no comprendidos en este artículo como de confianza, su clasificación como tales, cuando corresponda según la naturaleza del servicio, se determinará en el manual de organización respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 4o.
 
-Los trabajadores de base serán inamovibles después de seis meses de servicio ininterrumpido sin nota desfavorable en su expediente.
+Las y los trabajadores de base serán inamovibles después de seis meses de servicio ininterrumpido sin nota desfavorable en su expediente.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+El proceso de contratación que lleven a cabo los sujetos reglamentados por la presente Ley, será tal que se asegure la igualdad y equidad de oportunidades entre los aspirantes a un mismo puesto, quedando terminantemente prohibido la discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas, así como tratándose de aspirantes del sexo femenino, a su posible estado de embarazo al momento de llevar a cabo la selección del personal a contratar. El resultado del proceso de contratación únicamente obedecerá a la capacidad técnica, cultural e idoneidad que él o la aspirante demuestre para ocupar el puesto ofertado.
 
-El proceso de contratación que lleven a cabo los sujetos reglamentados por la presente Ley, será tal que se asegure la equidad de oportunidades entre los aspirantes a un mismo puesto, quedando terminantemente prohibido el hacer discriminación de persona atendiendo a su origen étnico, social, orientación sexual, discapacidad, o género, así como tratándose de aspirantes del sexo femenino, a su posible estado de embarazo al momento de llevar a cabo la selección del personal a contratar. El resultado del proceso de contratación únicamente obedecerá a la capacidad técnica, cultural e idoneidad que el o la aspirante demuestre para ocupar el puesto ofertado.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 4o BIS. Es de interés social garantizar un ambiente laboral libre de discriminación y de violencia, promover y vigilar la capacitación, el adiestramiento, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que éstas deban generar tanto a los titulares y los trabajadores de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos descentralizados de la Administración Pública, así como para los titulares y los trabajadores de los Ayuntamientos en el Estado de Hidalgo.
 
 ###### ARTICULO 5o.
 
@@ -122,6 +126,12 @@ Los trabajadores de base deberán ser de nacionalidad mexicana y sólo podrán s
 ###### ARTICULO 6o.
 
 Las actuaciones o certificaciones que se hicieren con motivo de la aplicación de la presente ley no causará impuestos locales en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 6o BIS. Se prohíbe la subcontratación de personal en beneficio de las dependencias e instituciones de los Poderes Ejecutivo, Legislativo y Judicial, de los organismos descentralizados de la Administración Pública, así como de los Ayuntamientos del Estado de Hidalgo.
+
+Se permitirá únicamente la subcontratación de servicios especializados o de ejecución de obras especializadas, siempre que el contratista esté registrado en el padrón público a que se refiere el artículo 15 de la Ley Federal del Trabajo.
 
 ## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES Y DE LOS TITULARES
 
@@ -199,11 +209,17 @@ Los períodos de descanso a que se refiere el párrafo anterior se prorrogarán 
 
 Durante el período del embarazo y lactancia, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso.
 
-Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia. Asimismo, contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, las madres trabajadoras tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia, periodo que podrá ser prorrogado hasta los dos años de edad del menor, a solicitud expresa de la trabajadora. Asimismo, contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Las servidoras y los servidores públicos, gozarán de un día hábil al año con goce íntegro de sueldo a fin de someterse a la realización de exámenes médicos de prevención de cualquier tipo de cáncer. Para justificar este permiso, deberán presentar el certificado médico correspondiente, expedido por una institución de salud pública o privada.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Los titulares señalados en el artículo 2 de la presente ley implementarán acciones para promover la flexibilidad de la jornada de trabajo, a fin de facilitar la participación, de las servidoras y los servidores públicos en las actividades de educación y desarrollo de sus hijas, hijos o pupilos. Las y los trabajadores no estarán obligados a reponer las horas de la jornada de trabajo destinadas a tal fin, siempre que acrediten su participación con las autoridades escolares.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -333,9 +349,47 @@ Es nula la cesión de salarios en favor de tercera persona.
 
 Los trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el Presupuesto de Egresos, el cual deberá pagarse en un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero, y que será equivalente a 60 días de salario, cuando menos, sin deducción alguna. El Ejecutivo fijará las normas reglamentarias conducentes para fijar las proporciones y el procedimiento para los pagos en caso de que el trabajador hubiere prestado sus servicios menos de un año.
 
-### CAPITULO IV. OBLIGACIONES DE LOS TITULARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPITULO V. OBLIGACIONES DE LOS TRABAJADORES
+### CAPITULO III BIS. TRABAJO A DISTANCIA
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 31 BIS. Es la modalidad de trabajo que, en el marco de las relaciones laborales previstas en esta Ley, se realiza en el domicilio del trabajador o en un sitio libremente elegido por el mismo, utilizando las tecnologías de la información y la comunicación para llevar a cabo las actividades laborales que le son encomendadas y para las que fue contratado.
+
+Salvo en situaciones de necesidad, el trabajo a distancia debe ser por acuerdo mutuo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 31 TER. Los nombramientos que contemplen esta modalidad, deberán contener, además de lo estipulado en el artículo 9 de esta Ley, lo siguiente:
+
+I. Las condiciones y características de las actividades a realizar, de acuerdo con el puesto de trabajo;
+
+II. La jornada máxima de trabajo será de 8 horas diarias, teniendo el trabajador la libertad de distribuir su horario, obligándose a entregar cada semana un informe con el avance de las actividades encomendadas. Podrá acordarse un horario escalonado de entrada y salida a las áreas laborales; y
+
+III. Los tiempos y formas de entrega de los productos resultado del trabajo a distancia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 31 QUÁTER. En la modalidad de trabajo a distancia, los Titulares tendrán, además las siguientes obligaciones, las cuales deberán quedar especificadas en el adendum al contrato de trabajo vigente, que para el efecto se firme:
+
+I. Proveer de los útiles, instrumentos y materiales necesarios para la ejecución del trabajo, de acuerdo con las posibilidades presupuestales.
+
+El trabajador no será responsable por el desgaste natural que sufran los útiles, instrumentos y materiales de trabajo; y
+
+II. Respetar los horarios y días reservados para el descanso y la vida personal de los trabajadores.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 31 QUINQUIES. Son obligaciones de los trabajadores en la modalidad de trabajo a distancia, las siguientes:
+
+I. Guardar máxima confidencialidad sobre las actividades laborales que desarrolle;
+
+II. Abstenerse de hacer cualquier uso, reproducción, comercialización u otra acción de los productos del trabajo que se generen por su actividad, sin autorización expresa de la Institución; y
+
+III. Rendir el informe a que se refiere la fracción II del artículo 31 Ter.
+
+### CAPITULO IV. OBLIGACIONES DE LOS TITULARES
 
 ###### ARTICULO 32.
 
@@ -429,7 +483,7 @@ Los titulares no podrán establecer un plazo mayor de quince días para el pago 
 
 En ningún caso el cambio de funcionarios de una dependencia podrá afectar los derechos de los trabajadores.
 
-### CAPITULO VI. SUSPENSION Y TERMINACION DE LA RELACION LABORAL
+### CAPITULO V. OBLIGACIONES DE LOS TRABAJADORES
 
 ###### ARTICULO 38.
 
@@ -453,9 +507,7 @@ VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de t
 
 VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente, entre otros temas, y de manera esencial, sobre derechos humanos, combate a la corrupción, igualdad y equidad de género y la prevención y eliminación de la discriminación, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
 
-### CAPITULO UNICO. ESCALAFON
-
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+### CAPITULO VI. SUSPENSION Y TERMINACION DE LA RELACION LABORAL
 
 ###### ARTICULO 39.
 
@@ -533,7 +585,9 @@ Si a juicio del Titular procede demandar ante el Tribunal Estatal de Conciliaci�
 
 ## TITULO TERCERO
 
-### CAPITULO I. SINDICATOS
+### CAPITULO UNICO. ESCALAFON
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 42.
 
@@ -637,7 +691,7 @@ El procedimiento para resolver las permutas de empleos, así como las inconformi
 
 ## TITULO CUARTO. ORGANIZACION COLECTIVA DE LOS TRABAJADORES, CONDICIONES GENERALES DE TRABAJO Y CONFLICTOS COLECTIVOS
 
-### CAPITULO II. CONDICIONES GENERALES DE TRABAJO
+### CAPITULO I. SINDICATOS
 
 ###### ARTICULO 62.
 
@@ -737,7 +791,7 @@ En los casos de violación a lo dispuesto en el artículo 72, el Tribunal Estata
 
 Las remuneraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
 
-### CAPITULO III. CONFLICTOS COLECTIVOS
+### CAPITULO II. CONDICIONES GENERALES DE TRABAJO
 
 ###### ARTICULO 78.
 
@@ -771,7 +825,7 @@ Las condiciones generales de trabajo surtirán efectos a partir de la fecha de s
 
 Las condiciones generales de trabajo serán autorizadas previamente por la Secretaría de Planeación, cuando contengan prestaciones económicas que signifiquen erogaciones con cargo al Gobierno del Estado y que deban cubrirse a través del Presupuesto de Egresos del propio Estado, sin cuyo requisito no podrá exigirse a éste su cumplimiento.
 
-### CAPITULO UNICO. RIESGOS PROFESIONALES Y ENFERMEDADES NO PROFESIONALES
+### CAPITULO III. CONFLICTOS COLECTIVOS
 
 ###### ARTICULO 83.
 
@@ -855,7 +909,7 @@ Al resolverse que una declaración de huelga es legal, el Tribunal a petición d
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO. PRESCRIPCIONES
+### CAPITULO UNICO. RIESGOS PROFESIONALES Y ENFERMEDADES NO PROFESIONALES
 
 ###### ARTICULO 100.
 
@@ -881,7 +935,7 @@ La licencia será continua y discontinua, una sola vez cada año contado a parti
 
 ## TITULO SEXTO
 
-### CAPITULO I
+### CAPITULO UNICO. PRESCRIPCIONES
 
 ###### ARTICULO 102.
 
@@ -943,7 +997,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ## TITULO SEPTIMO. TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE Y PROCEDIMIENTO ANTE EL MISMO
 
-### CAPITULO II. PROCEDIMIENTO
+### CAPITULO I
 
 ###### ARTICULO 108.
 
@@ -999,7 +1053,7 @@ IV. Conocer de los conflictos sindicales e intersindicales; y
 
 V. El registro de las condiciones generales de trabajo.
 
-### CAPITULO III. MEDIOS DE APREMIO Y DE LA EJECUCION DE LOS LAUDOS
+### CAPITULO II. PROCEDIMIENTO
 
 ###### ARTICULO 115.
 
@@ -1149,7 +1203,7 @@ III.- La Costumbre; y
 
 IV.- La Equidad.
 
-### CAPITULO IV. CORRECCIONES DISCIPLINARIAS Y SANCIONES
+### CAPITULO III. MEDIOS DE APREMIO Y DE LA EJECUCION DE LOS LAUDOS
 
 ###### ARTICULO 139.
 
@@ -1169,7 +1223,7 @@ El Tribunal Estatal de Conciliación y Arbitraje tiene la obligación de proveer
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola que, de no hacerlo, se procederá conforme a lo dispuesto en el artículo anterior.
 
-### CAPITULO UNICO. CONFLICTOS ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES
+### CAPITULO IV. CORRECCIONES DISCIPLINARIAS Y SANCIONES
 
 ###### ARTICULO 143.
 
@@ -1194,6 +1248,8 @@ C) Suspensión del empleo con privación de sueldos hasta por tres días.
 Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en cuenta las circunstancias en que tuvo lugar la falta cometida.
 
 ## TITULO OCTAVO
+
+### CAPITULO UNICO. CONFLICTOS ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES
 
 ###### ARTICULO 146.
 
@@ -1370,3 +1426,13 @@ P.O. 22 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 524 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir de los 30 días siguiente (sic) de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 768 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo, salvo lo dispuesto en el SEGUNDO TRANSITORIO.
+
+SEGUNDO. Las reformas en materia de subcontratación entrarán en vigor el primero de en (sic) enero de 2022.
+
+TERCERO. Los titulares a que hace referencia el artículo 2, dentro de un plazo que no exceda de noventa días a la entrada en vigor del presente decreto, deberán emitir o adecuar lineamientos para la modalidad de trabajo a distancia.
