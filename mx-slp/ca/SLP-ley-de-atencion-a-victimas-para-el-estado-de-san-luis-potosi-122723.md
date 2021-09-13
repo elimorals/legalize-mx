@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-victimas-para-el-estado-de-san-luis-potosi-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-28"
-last_updated: "2020-03-17"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 28 de julio de 2017.
 
@@ -195,7 +195,9 @@ XIV. Programa: El Programa Estatal de Atención Integral para las Víctimas;
 
 XV. Procedimiento: Procedimientos seguidos ante autoridades judiciales o administrativas;
 
-XVI. Recursos de Ayuda: Gastos de ayuda, Asistencia y Reparación Integral, previstos en los títulos segundo, tercero y cuarto de la Ley, con cargo al Fondo Estatal, según corresponda;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención, rehabilitación y reparación integral, previstos en los títulos segundo, tercero y cuarto de la Ley, con cargo al Fondo Estatal, según corresponda;
 
 XVII. Registro: Registro Estatal de Víctimas;
 
@@ -2394,3 +2396,11 @@ P.O. 17 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1254.- SE REFORMA EL ARTÍCULO 6° EN SU FRACCIÓN XVI, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
