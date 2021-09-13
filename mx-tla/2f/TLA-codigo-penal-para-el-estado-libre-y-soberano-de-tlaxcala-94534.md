@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2021-05-10"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2813,9 +2813,11 @@ III. La inutilización permanente o la pérdida de cualquier órgano, extremidad
 
 La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 239.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria o brutal ferocidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria o brutal ferocidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia u odio.
 
 I. Existe premeditación: Cuando se comete el delito después de haber reflexionado sobre su ejecución;
 
@@ -2837,7 +2839,9 @@ IX. Existe brutal ferocidad: Cuando el sujeto activo lo comete sin ningún motiv
 
 X. Cuando dolosamente se cometa en contra de servidores públicos de las instituciones policiales, de procuración y administración de justicia, si se encuentran en el ejercicio de sus funciones o con motivo de las mismas, siempre que se estén cumpliendo con arreglo a la ley.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Existe odio cuando el sujeto activo lo comete por prejuicio, por uno o más de los siguientes motivos: el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la identidad de género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma o los antecedentes penales de la víctima.
 
 ###### Artículo 240.
 
@@ -5068,3 +5072,11 @@ P.O. 10 DE MAYO DE 2021.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 Segundo. Quedan derogadas todas las normas que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 354.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 239, Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 239, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
