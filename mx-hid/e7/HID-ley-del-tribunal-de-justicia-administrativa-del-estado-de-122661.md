@@ -4,7 +4,7 @@ identifier: "HID-ley-del-tribunal-de-justicia-administrativa-del-estado-de-12266
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2017-07-10"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -415,9 +415,11 @@ Contra esta resolución sólo procederá el recurso de reclamación.
 
 El término para interponer la demanda en contra de las resoluciones de las Autoridades Administrativas Estatales o Municipales, directamente ante el Tribunal, mediante correo certificado o a través de los medios electrónicos que para tal efecto se establezcan, será de quince días hábiles, contados a partir de aquel en que haya surtido la resolución o acuerdo que se reclame o el día que se haya tenido conocimiento de ellos o de su ejecución, o en el que se hubiere ostentado sabedor de ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 46.
 
-Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse en materia fiscal dentro de los cinco años siguientes a la fecha en que sea notificada la resolución y en materia administrativa dentro del año siguiente salvo que dicha resolución haya originado efectos de tracto sucesivo caso en el cual la autoridad podrá demandar la nulidad en cualquier momento para los efectos de la sentencia, en caso de nulificar la resolución favorable, sólo se retrotraerán a los cinco y un año respectivamente a la presentación de la demanda.
+Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse dentro de los cinco años siguientes a la fecha en que sea notificada la resolución, salvo que dicha resolución haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier momento para los efectos de la sentencia, en caso de la (sic) nulificar la resolución favorable, sólo se retrotraerán a los cinco años a la presentación de la demanda.
 
 En los casos de negativa ficta, el interesado no está coligado a interponer la demanda dentro del término a que se refiere ese Artículo pudiendo presentarla en cualquier tiempo, mientras no se dicte resolución.
 
@@ -605,9 +607,11 @@ La inasistencia de las partes a esta audiencia, no impedirá su celebración.
 
 El Magistrado dictará la sentencia definitiva en un plazo no mayor a treinta días, el cual podrá ampliarse por una sola vez por otros treinta días cuando la complejidad del asunto así lo requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 67.
 
-Las sentencias que dicten los Magistrados según la materia de que se trate, no necesitarán formulismo alguno, pero deberán contener:
+Las sentencias que dicten los Magistrados según la materia de que se trate, no necesitarán formulismo alguno, debiendo acompañarlas con Formato de Lectura Fácil, cuando sea procedente, y deberán contener:
 
 I. La fijación clara y precisa de los puntos controvertidos, así como el examen y valoración de las pruebas que se hayan rendido, según el prudente arbitrio del Tribunal, salvo las documentales públicas e inspección judicial que siempre harán prueba plena;
 
@@ -748,3 +752,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 761 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 52 Y SE ADICIONA EL ARTÍCULO 155 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO; SE REFORMA EL ARTÍCULO 46 PÁRRAFO PRIMERO Y 66 (SIC) PÁRRAFO PRIMERO, DE LA LEY DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
