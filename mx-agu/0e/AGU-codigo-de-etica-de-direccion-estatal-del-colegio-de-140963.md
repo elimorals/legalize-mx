@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-direccion-estatal-del-colegio-de-140963"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-02"
-last_updated: "2019-12-02"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DE DIRECCIÓN ESTATAL DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Primera Sección al Número 48 del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de diciembre de 2019.
 
@@ -115,31 +115,47 @@ IX. Reglas de Integridad: Las Reglas de Integridad para el Ejercicio de la Funci
 
 ### CAPÍTULO II. Principios Rectores y Directrices del Servicio Público
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 5°.
 
 Principios. Los principios constitucionales que todo servidor público debe observar en el desempeño de su empleo, cargo, comisión o función:
 
-I. Disciplina: Los servidores públicos acatan las reglas de comportamiento para mantener el orden y la subordinación para con sus superiores jerárquicos en la cadena de mando, que les instruyan en ejercicio de sus atribuciones y facultades, cuando estas no constituyan un acto ilícito o irregular.
+I. Competencia por mérito: Los servidores públicos deberán ser seleccionados para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
 
-II. Eficiencia: Los servidores públicos actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
+II. Disciplina: Las personas servidoras públicas desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
 
-III. Equidad de género: Los servidores públicos, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres tengan las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones.
+III. Economía: Los servidores públicos en el ejercicio del gasto público administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
 
-IV. Honradez: Los servidores públicos se conducen con rectitud sin utilizar su función, empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
+IV. Eficacia: Los servidores públicos actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
 
-V. Imparcialidad: Los servidores públicos dan a los ciudadanos y a la población en general el mismo trato, no conceden privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos, afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+V. Eficiencia: Los servidores públicos actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
 
-VI. Lealtad: Los servidores públicos corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad, y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
+VI. Equidad: Los servidores públicos procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
 
-VII. Legalidad: Los servidores públicos hacen sólo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas (sic) atribuyen a su empleo, cargo, o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+VII. Equidad de género: Los servidores públicos, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres tengan las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones.
 
-VIII. Rendición de Cuentas: Los servidores públicos asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+VIII. Honradez: Los servidores públicos se conducen con rectitud sin utilizar su función, empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
 
-IX. Reglamento: El Reglamento Interior del Colegio de Educación Profesional Técnica del Estado de Aguascalientes.
+IX. Imparcialidad: Los servidores públicos dan a los ciudadanos y a la población en general el mismo trato, no conceden privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos, afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
 
-X. Transparencia: Los servidores públicos en el ejercicio de sus funciones protegen los datos personales que estén bajo su custodia; privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información Estatal, como un elemento que genera valor a la sociedad y promueve un gobierno abierto.
+X. Integridad: Los servidores públicos actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
 
-XI. Así como todos los principios contemplados en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes; la Ley del Sistema Estatal Anticorrupción; la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y demás normatividad aplicable.
+XI. Lealtad: Los servidores públicos corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad, y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
+
+XII. Legalidad: Los servidores públicos hacen sólo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo, o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+
+XIII. Profesionalismo: Los servidores públicos deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
+
+XIV. Objetividad: Los servidores públicos deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
+
+XV. Rendición de Cuentas: Los servidores públicos asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+
+XVI. Reglamento: El Reglamento Interior del Colegio de Educación Profesional Técnica del Estado de Aguascalientes.
+
+XVII. Transparencia: Los servidores públicos en el ejercicio de sus funciones protegen los datos personales que estén bajo su custodia; privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información Estatal, como un elemento que genera valor a la sociedad y promueve un gobierno abierto.
+
+La promoción sobre el conocimiento y aplicación de dichos principios se realizará en los términos de lo previsto en los artículos 22, 23 y 24 de este Código.
 
 ###### Artículo 6°.
 
@@ -566,3 +582,21 @@ ATENTAMENTE
 C.P. JANETH ALEJANDRA DE LA ROSA ESPEJO
 
 TITULAR DE LA UNIDAD AUDITORA DEL ÓRGANO INTERNO DE CONTROL DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO DE ÉTICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano Interno de Control del Colegio de Educación Profesional Técnica del Estado de Aguascalientes deberá dar a conocer de manera inmediata la reforma establecida en el presente Acuerdo a través de los mecanismos de difusión establecidos en el Código de Ética.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
