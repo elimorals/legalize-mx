@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2021-09-01"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -569,9 +569,11 @@ Dichas facultades serán ejercidas conforme a lo dispuesto en la Ley General y d
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-Para la formulación y conducción de la política ambiental y la aplicación de los instrumentos previstos en esta Ley, en materia de preservación, restauración, y protección del equilibrio ecológico y medio ambiente, el Ejecutivo del Estado, las Dependencias de la Administración Pública y los Ayuntamientos, así como los particulares observarán los principios y lineamientos siguientes:
+Para la formulación y conducción de la política ambiental y la aplicación de los instrumentos previstos en esta Ley, en materia de preservación, restauración, y protección del equilibrio ecológico y medio ambiente, el Ejecutivo del Estado, las Dependencias de la Administración Pública y los Ayuntamientos, así como los particulares observarán los principios previstos en la Constitución Política de los Estados Unidos Mexicanos, los tratados e instrumentos internacionales suscritos y ratificados por México, la Constitución Política del Estado de Hidalgo y en la presente Ley, y los lineamientos siguientes:
 
 I. Los ecosistemas son patrimonio común de la sociedad y de su equilibrio dependen la vida y las posibilidades productivas de la Entidad;
 
@@ -1650,6 +1652,12 @@ Las superficies mejor conservadas de las áreas naturales protegidas, donde exis
 ###### Artículo 91.
 
 En las áreas naturales protegidas deberán determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán señaladas como zonas de amortiguamiento, en donde sólo podrán realizarse las actividades establecidas en el Reglamento de la presente Ley en la materia, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 91 Bis.
+
+Es obligación de los municipios del Estado de Hidalgo asegurar la plantación, incremento, ampliación, desarrollo, conservación, mantenimiento, manejo, preservación, protección y restitución de los árboles en las áreas naturales protegidas que se encuentren dentro de su territorio; así como llevar a cabo un inventario de los árboles existentes en el Municipio e implementar campañas de concientización permanente sobre el valor de los árboles, para promover y garantizar el equilibrio ecológico, el desarrollo sostenible y el bienestar humano.
 
 #### SECCIÓN SEGUNDA. ÁREAS NATURALES PROTEGIDAS
 
@@ -3063,6 +3071,12 @@ La Procuraduría y los municipios, llevarán a cabo, de oficio o a petición de 
 
 Toda persona tiene derecho a denunciar ante la Procuraduría o los Ayuntamientos, en el ámbito de sus competencias hechos, actos u omisiones que produzcan o puedan producir desequilibrio ecológico, daños al ambiente, a los recursos naturales, al patrimonio natural o cualquier otro que constituya infracción a las disposiciones de la presente Ley, sus Reglamentos y los demás ordenamientos de la materia.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 260 Bis.
+
+En caso de que al momento de hacer la denuncia exista riesgo inminente de desequilibrio ecológico o de contaminación en el territorio de la entidad, la autoridad correspondiente ordenará la imposición de alguna o algunas de las medidas de seguridad contenidas en el artículo 212 de la presente Ley.
+
 ###### Artículo 261.
 
 La formulación de la denuncia ciudadana, así como los acuerdos, resoluciones y recomendaciones que se emitan, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados, conforme a las disposiciones jurídicas aplicables, ni suspenderán, ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad.
@@ -3390,3 +3404,9 @@ P.O. 1 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 740 POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO, AL ARTÍCULO 86 A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 744 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
