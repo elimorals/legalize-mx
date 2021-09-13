@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2018-09-20"
+last_updated: "2021-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -377,9 +377,9 @@ III. Efectuar en forma permanente estudios de legislación fiscal, así como est
 
 La Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-El Secretario de Finanzas; el Presidente de la Comisión de Vigilancia del Poder Legislativo; el titular de la Auditoría Superior del Estado, y por un municipio de cada zona del Estado representados por sus tesoreros, elegidos anualmente por los ayuntamientos en el número que para cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
+El Secretario de Finanzas; los presidentes de las comisiones de, Hacienda del Estado; y Vigilancia del Poder Legislativo; el titular de la Auditoría Superior del Estado, y por un municipio de cada zona del Estado representados por sus tesoreros, elegidos anualmente por los ayuntamientos en el número que para cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
 
 ###### ARTICULO 30.
 
@@ -510,6 +510,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 20 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1189.- SE REFORMA EL ARTÍCULO 18 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1256.- SE REFORMA EL ARTÍCULO 29 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
