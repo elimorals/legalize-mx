@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-95591"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2017-10-09"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -439,7 +439,9 @@ II.- Los cónyuges y las personas que tengan parentesco por consanguinidad hasta
 
 III.- Las personas que tengan intereses contrarios o litigios en proceso con el organismo de que se trate;
 
-IV.- Las personas que hayan sido condenadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Las personas que estén condenadas por delitos patrimoniales; por delitos contra la libertad sexual y/o delitos de violencia de género en cualquiera de sus modalidades, por delitos de violencia familiar de cualquiera de sus tipos y manifestaciones; por ser deudor Alimentario Moroso; las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
 
 V.- Los Diputados al Congreso del Estado conforme al artículo 35 de la Constitución Política del Estado de Hidalgo y los Diputados y Senadores al Congreso de la Unión en términos del artículo 62 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -806,3 +808,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. A partir de la entrada en vigor del presente decreto, las Entidades Paraestatales del Estado de Hidalgo contarán con un plazo de 90 días para realizar todos los actos necesarios, con la finalidad de ajustarse a los términos que establece esta Ley.
 
 TERCERO. El Ejecutivo Estatal reformará el Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo, dentro de un plazo de 30 días siguientes a su entrada en vigor.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 750 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 24, DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
