@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-07-15"
+last_updated: "2021-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -51,31 +51,45 @@ QUE CONTIENE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 1.
 
 La presente Ley es de orden público e interés social y tiene por objeto:
 
-I.- Regular los apoyos que el Estado otorgue para impulsar, promover, fortalecer, asistir y coordinar: la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado en el Estado, como instrumento que coadyuve a la competitividad, desarrollo, mejoría de la calidad de vida y fortalecimiento de la identidad cultural de la sociedad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Regular los apoyos que el Estado otorgue para impulsar, promover, fortalecer, asistir y coordinar: la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado en el Estado, como instrumento que coadyuve a la competitividad, desarrollo, equidad e igualdad, mejoría de la calidad de vida y fortalecimiento de la identidad cultural de la sociedad;
 
 II.- Determinar los instrumentos mediante los cuales el Estado apoyará las actividades de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado, que realicen personas físicas y morales, de los sectores público y privado, para el desarrollo del Estado;
 
 III.- Establecer los mecanismos e instrumentos de coordinación de acciones entre dependencias, entidades, municipios e instituciones del Estado, que intervienen en la definición de políticas y programas en materia de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado o que lleven a cabo, directa o indirectamente, actividades de este tipo;
 
-IV.- Establecer y garantizar los medios de concertación, vinculación y participación, de la comunidad científica y académica de las instituciones educativas y centros de investigación y desarrollo tecnológico, los sectores público, social y privado, para la formulación de la Política de Estado en materia de promoción, difusión, generación del conocimiento, desarrollo y aplicación de la ciencia y la tecnología en la innovación, así como para la formación y capacitación de profesionales en la materia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Establecer y garantizar los medios de concertación, vinculación y participación, de la comunidad científica y académica de las instituciones educativas y centros de investigación y desarrollo tecnológico, los sectores público, social y privado, a través de la generación de espacios institucionales, para la formulación de la Política de Estado en materia de promoción, difusión, generación del conocimiento, desarrollo y aplicación de la ciencia y la tecnología en la innovación, así como para la formación y capacitación de profesionales en la materia.
+
+Los espacios a que refiere esta fracción, deberán ser plurales y representativos, expresando un equilibrio entre quienes participan.
 
 V.- Vincular la investigación, el desarrollo tecnológico, la innovación y la transferencia de tecnología, con los sectores educativo, productivo y social, para incrementar la capacidad de los mismos en áreas estratégicas del desarrollo estatal a largo plazo, que coadyuven a elevar la productividad y competitividad de la economía del Estado, propicien el desarrollo regional y Municipal e impulsen el aumento sostenido de ingreso y del bienestar general;
 
 VI.- Apoyar la capacidad y el fortalecimiento de los grupos de investigación científica y tecnológica de las instituciones de educación superior, que correspondan a las áreas estratégicas del Estado;
 
-VII.- Establecer las bases y lineamientos, conforme a las cuales el Consejo de Ciencia y Tecnología del Estado de Hidalgo, deba celebrar Convenios de Coordinación o Colaboración con los sectores público, social y privado con el propósito de configurar el Sistema Estatal de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Establecer las bases y lineamientos, conforme a las cuales el Consejo de Ciencia, Tecnología e Innovación de Hidalgo, deba celebrar Convenios de Coordinación o Colaboración con los sectores público, social y privado con el propósito de configurar el Sistema Estatal de Ciencia, Tecnología e Innovación;
 
 VIII.- Regular la aplicación de recursos destinados para el financiamiento de la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado, la divulgación científica, así como la formación y el estímulo de investigadores tecnólogos en el Estado de Hidalgo; y
 
 IX.- Establecer las acciones y programas que propicien el acercamiento de la sociedad a la actividad científica y tecnológica, así como promover la generación de espacios, donde puedan desarrollar su capacidad innovadora.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
-El Consejo de Ciencia y Tecnología del Estado de Hidalgo, en el ámbito de su competencia, tendrá a su cargo la aplicación de la presente Ley, en los términos que la misma establece.
+El Consejo de Ciencia, Tecnología e Innovación de Hidalgo, en el ámbito de su competencia, tendrá a su cargo la aplicación de la presente Ley, en los términos que la misma establece.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 3.
 
@@ -85,7 +99,9 @@ I.- Estado: El Estado Libre y Soberano de Hidalgo;
 
 II.- Municipios: A los Municipios integrantes del Estado de Hidalgo comprendidos en el Artículo 23 de la Constitución Política del Estado de Hidalgo;
 
-III.- COCYTEH: El Consejo de Ciencia y Tecnología del Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III.- CITNOVA: El Consejo de Ciencia, Tecnología e Innovación de Hidalgo.
 
 IV.- Dependencias: A las Secretarías del Ejecutivo Estatal, las unidades administrativas adscritas al Gobierno del Estado;
 
@@ -173,9 +189,17 @@ IX.- La planeación, el seguimiento y supervisión, la evaluación integral, la 
 
 X.- La generación y utilización del conocimiento científico y tecnológico debe considerar diversos aspectos éticos relacionados con la salud humana, animal y vegetal, el medio ambiente, el beneficio social, el respeto a la diversidad cultural, el apego al marco jurídico, y considerar las ventajas y riesgos que representa tanto el uso como la ausencia de la aplicación de nuevas tecnologías;
 
-XI.- Un elemento importante para detonar el desarrollo de la ciencia, la tecnología y la innovación, es la eliminación y reducción de las barreras y restricciones que las afectan. Los sectores público, social y privado realizarán los esfuerzos que les correspondan para lograr este objetivo; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XII.- Las Dependencias y Entidades del sector público podrán desarrollar actividades de investigación, desarrollo tecnológico y de innovación que concierten con el sector productivo privado, que aportará al financiamiento de dichas actividades.
+XI.- Un elemento importante para detonar el desarrollo de la ciencia, la tecnología y la innovación, es la eliminación y reducción de las barreras y restricciones que las afectan. Los sectores público, social y privado realizarán los esfuerzos que les correspondan para lograr este objetivo;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Las Dependencias y Entidades del sector público podrán desarrollar actividades de investigación, desarrollo tecnológico y de innovación que concierten (sic) con el sector productivo privado, que aportará al financiamiento de dichas actividades; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Se debe promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación igualitaria de mujeres y hombres en todos los ámbitos del Sistema Estatal de Ciencia, Tecnología e Innovación.
 
 #### SECCIÓN III. DE LA COMISIÓN HIDALGUENSE DE INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN
 
@@ -183,11 +207,17 @@ XII.- Las Dependencias y Entidades del sector público podrán desarrollar activ
 
 Se crea la Comisión Hidalguense de Investigación, Desarrollo Tecnológico e Innovación, como un órgano de política y coordinación, que tendrá las facultades que establece esta Ley. La Comisión se integrará de la siguiente forma:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II.- El Director General del COCYTEH, quién fungirá como Secretario Ejecutivo de la Comisión;
+I.- La persona titular del Gobierno del Estado, quien lo presidirá;
 
-III.- Por la Administración Pública Estatal, los titulares de las siguientes Dependencias y Entidades:
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- La persona titular de la Dirección General del CITNOVA, quien fungirá como Secretario Ejecutivo de la Comisión;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Por la Administración Pública Estatal las personas titulares de las siguientes Dependencias y Entidades:
 
 a).- Secretaría de Desarrollo Económico;
 
@@ -197,25 +227,39 @@ c).- Secretaría de Salud;
 
 d).- Secretaría de Desarrollo Social;
 
-e).- Secretaría de Agricultura y Desarrollo Rural;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-f).- Secretaría de Planeación y Desarrollo Regional;
+e).- Secretaría de Desarrollo Agropecuario;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-g).- Secretaría de Medio Ambiente y Ordenamiento Territorial;
+f).- Unidad de Planeación y Prospectiva;
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-h).- Oficina de Modernización e Innovación Gubernamental;
+g).- Secretaría de Obras Públicas y Ordenamiento Territorial; y
 
-IV.- El presidente del Consejo Coordinador Empresarial; y
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-V.- El Presidente del Consejo Consultivo Ciudadano;
+h).- Dirección General de Innovación Gubernamental y Mejora Regulatoria.
 
-Adicionalmente, la Comisión contará con la participación a título personal de cuatro miembros que se renovarán cada tres años y que serán invitados por el Gobernador del Estado, a propuesta del Secretario Ejecutivo. Estos miembros tendrán derecho a voz y voto y deberán ser integrantes de los sectores académico o privado. Para formular dichas propuestas, el Secretario Ejecutivo llevará a cabo un procedimiento de auscultación en ambos sectores, de tal manera que cada una de dichas personas cuente con una sólida trayectoria, méritos en su actividad y sean representativas de los ámbitos científico, tecnológico o empresarial, tratando de buscar un equilibrio entre ellos.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- La o el presidente del Consejo Coordinador Empresarial; y
+
+V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Dos representantes de instituciones educativas tecnológicas de educación media superior y superior, quienes serán designados por la Secretaría de Educación Pública.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Adicionalmente, la Comisión contará con la participación a título personal de cuatro miembros, seleccionados bajo el principio de paridad de género, que se renovarán cada tres años y que serán invitados por el Gobernador del Estado, a propuesta del Secretario Ejecutivo. Estos miembros tendrán derecho a voz y voto y deberán ser integrantes de los sectores académico o privado. Para formular dichas propuestas, el Secretario Ejecutivo llevará a cabo un procedimiento de auscultación en ambos sectores, de tal manera que cada una de dichas personas cuente con una sólida trayectoria, méritos en su actividad y sean representativas de los ámbitos científico, tecnológico o empresarial, tratando de buscar un equilibrio entre ellos.
 
 El Titular del Poder Ejecutivo podrá invitar a participar a las sesiones de la Comisión a personalidades del ámbito científico, tecnológico y empresarial que puedan aportar conocimientos o experiencias a los temas de la agenda de la propia Comisión, quienes asistirán con voz pero sin voto.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 7.
 
@@ -249,23 +293,35 @@ XII.- Establecer un sistema independiente para la evaluación de la eficacia, re
 
 XIII.- Recibir y revisar los informes de impacto del avance científico, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado en la industria estatal y en el bienestar de la sociedad que realice el Secretario Técnico con el apoyo de los Comités a que se refiere esta Ley;
 
-XIV.- Proponer, con base en los elementos que le proporcionen los comités intersectoriales y de vinculación, los lineamientos generales del parque científico e impulsar su conformación y operación en las diversas regiones del Estado, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XV.- Realizar el seguimiento y conocer la evaluación general del Programa y del presupuesto anual destinado a la ciencia, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado y los demás instrumentos de apoyo a estas actividades.
+XIV. Proponer, con base en los elementos que le proporcionen los comités intersectoriales y de vinculación, los lineamientos generales del parque científico e impulsar su conformación y operación en las diversas regiones del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Realizar el seguimiento y conocer la evaluación general del Programa y del presupuesto anual destinado a la ciencia, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado y los demás instrumentos de apoyo a estas actividades; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Promover la investigación científica en los jóvenes investigadores en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa.
 
 ###### ARTÍCULO 8.
 
 La Comisión sesionará dos veces al año en forma ordinaria y en forma extraordinaria cuando su Presidente así lo determine, a propuesta del Secretario Ejecutivo. La Comisión sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 9.
 
-La Comisión podrá crear comités intersectoriales y de vinculación para atender los asuntos que la misma determine, relacionados con la articulación de políticas, la propuesta de programas prioritarios y áreas estratégicas, así como para la vinculación de la investigación con la educación y, la innovación, el desarrollo tecnológico y la transferencia de tecnología con los sectores productivos. Estos comités serán coordinados por el Secretario Ejecutivo, los que contarán con el apoyo del COCYTEH para su eficiente funcionamiento. En dichos comités participarán miembros de la comunidad científica, tecnológica y empresarial.
+La Comisión podrá crear comités intersectoriales y de vinculación para atender los asuntos que la misma determine, relacionados con la articulación de políticas, la propuesta de programas prioritarios y áreas estratégicas, así como para la vinculación de la investigación con la educación y, la innovación, el desarrollo tecnológico y la transferencia de tecnología con los sectores productivos. Estos comités serán coordinados por el Secretario Ejecutivo, los que contarán con el apoyo del CITNOVA para su eficiente funcionamiento. En dichos comités participarán miembros de la comunidad científica, tecnológica y empresarial.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 10.
 
-Para garantizar la eficaz incorporación de las políticas y programas prioritarios en los anteproyectos de programas operativos y presupuestos anuales, así como para la revisión integral y de congruencia global del anteproyecto de presupuesto estatal en lo relativo a la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado y asegurar la ejecución de los instrumentos específicos de apoyo que determine la Comisión, se integrará un comité intersecretarial que será coordinado de manera conjunta por la Secretaría de Finanzas, y por el COCYTEH, al que se convocará a representantes de dependencias y entidades de la Administración Pública Estatal encargados de las funciones de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado de cada sector. La información del anteproyecto de presupuesto consolidado de ciencia, tecnología e innovación en sus distintas fases se presentará a revisión de la Comisión.
+Para garantizar la eficaz incorporación de las políticas y programas prioritarios en los anteproyectos de programas operativos y presupuestos anuales, así como para la revisión integral y de congruencia global del anteproyecto de presupuesto estatal en lo relativo a la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado y asegurar la ejecución de los instrumentos específicos de apoyo que determine la Comisión, se integrará un comité intersecretarial que será coordinado de manera conjunta por la Secretaría de Finanzas, y por el CITNOVA, al que se convocará a representantes de dependencias y entidades de la Administración Pública Estatal encargados de las funciones de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado de cada sector. La información del anteproyecto de presupuesto consolidado de ciencia, tecnología e innovación en sus distintas fases se presentará a revisión de la Comisión. El Comité Intersecretarial a que se refiere el párrafo anterior, se apoyará en un Secretario Técnico con funciones permanentes, designado conjuntamente por la Secretaría de Finanzas y el CITNOVA.
 
-El Comité Intersecretarial a que se refiere el párrafo anterior, se apoyará en un Secretario Técnico con funciones permanentes, designado conjuntamente por la Secretaría de Finanzas y el COCYTEH.
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 11.
 
@@ -287,7 +343,9 @@ d).- Los informes de impacto del avance científico, el desarrollo tecnológico,
 
 III.- Coordinar los comités intersectoriales que determine la Comisión para la articulación de políticas, programas y presupuestos y la implantación de instrumentos y mecanismos específicos de apoyo;
 
-IV.- Representar a la Comisión en los órganos de Gobierno y de administración de entidades paraestatales en los cuales el COCYTEH deba participar así como en comités, comisiones y consejos de la Administración Pública de los cuales el COCYTEH forme o deba formar parte;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Representar a la Comisión en los órganos de gobierno y de administración de entidades paraestatales en los cuales el CITNOVA deba participar así como en comités, comisiones y consejos de la Administración Pública de los cuales el CITNOVA forme o deba formar parte;
 
 V.- Realizar las demás actividades que le encomiende la Comisión; y
 
@@ -343,9 +401,31 @@ XX.- Coadyuvar en la identificación de talentos juveniles en materia de ciencia
 
 XXI.- Fomentar la formación de grupos interdisciplinarios de jóvenes investigadores, que se vinculen a las líneas de trabajo de las Instituciones;
 
-XXII.- Incrementar el acervo científico y tecnológico de las bibliotecas públicas del Estado, con ediciones de actualidad y en cantidad suficiente para cada uno de los recintos existentes; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XXIII.- Propiciar la instalación en el Estado de librerías científicas y tecnológicas.
+XXII. Incrementar el acervo científico y tecnológico de las bibliotecas públicas del Estado, con ediciones de actualidad y en cantidad suficiente para cada uno de los recintos existentes;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII. Propiciar la instalación en el Estado de librerías científicas y tecnológicas;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 769 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2021, PÁGINAS 25 Y 28.]</small>
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV (SIC). Reducir la disparidad de acceso real a las tecnologías de la información y la comunicación;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 769 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2021, PÁGINAS 25 Y 28.]</small>
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV (SIC). Fomentar el establecimiento de puntos de acceso público a Internet, en todos los municipios y localidades de la entidad; y
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 769 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2021, PÁGINAS 25 Y 28.]</small>
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI (SIC). Impulsar y consolidar la administración pública electrónica, que posibilite el uso de servicios en línea para la sociedad.
 
 ### CAPÍTULO III. DE LOS INSTRUMENTOS DE APOYO A LA INVESTIGACIÓN, DESARROLLO TECNOLÓGICO, INNOVACIÓN, TRANSFERENCIA DE TECNOLOGÍA Y POSGRADO
 
@@ -381,9 +461,11 @@ XIII.- La asistencia con asesoría, espacio y, en su caso, financiamiento, a las
 
 #### SECCIÓN I. DEL SISTEMA ESTATAL DE INFORMACIÓN CIENTIFICA, TECNOLÓGICA Y DE POSGRADO
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 14.
 
-Se crea el Sistema Estatal de Información Científica, Tecnológica y de Posgrado, cuya operación, administración y actualización estará a cargo del COCYTEH, con la colaboración de las Dependencias, Entidades, Municipios e Instituciones. Dicho Sistema de Información, será eficaz y accesible al público en general, sin perjuicio de los derechos de propiedad industrial e intelectual, y de las reglas de confidencialidad que se establezcan.
+Se crea el Sistema Estatal de Información Científica, Tecnológica y de Posgrado, cuya operación, administración y actualización estará a cargo del CITNOVA, con la colaboración de las Dependencias, Entidades, Municipios e Instituciones. Dicho Sistema de Información, será eficaz y accesible al público en general, sin perjuicio de los derechos de propiedad industrial e intelectual, y de las reglas de confidencialidad que se establezcan.
 
 ###### ARTÍCULO 15.
 
@@ -413,17 +495,23 @@ X.- Mantener la relación de países con los que México sostenga intercambio ci
 
 El Estado podrá convenir la realización de acciones conjuntas con la Federación, y las instituciones públicas y privadas, para la consolidación y el fortalecimiento del Sistema de Información.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 17.
 
-El Estado, con el propósito de mantener actualizado el Sistema de Información, podrá, a través del COCYTEH, convenir o acordar con la Federación, los Estados y los Municipios el compartir la información científica y tecnológica de que dispongan.
+El Estado, con el propósito de mantener actualizado el Sistema de Información, podrá, a través del CITNOVA, convenir o acordar con la Federación, los Estados y los Municipios el compartir la información científica y tecnológica de que dispongan.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 18.
 
-El COCYTEH expedirá las bases para el funcionamiento del Sistema de Información, las cuales considerarán lo necesario para que este sea un Instrumento que coadyuve a la vinculación entre la investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado, sus formas de aplicación, así como a la modernización y la competitividad del sector productivo.
+El CITNOVA expedirá las bases para el funcionamiento del Sistema de Información, las cuales considerarán lo necesario para que éste sea un instrumento que coadyuve a la vinculación entre la investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado, sus formas de aplicación, así como a la modernización y la competitividad del sector productivo.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 19.
 
-Para la determinación de aquellas actividades de investigación, desarrollo tecnológico, innovación y transferencia de tecnología, que deban realizarse, el COCYTEH solicitará la opinión de las Dependencias, Entidades, Municipios e Instituciones Públicas y Privadas.
+Para la determinación de aquellas actividades de investigación, desarrollo tecnológico, innovación y transferencia de tecnología, que deban realizarse, el CITNOVA solicitará la opinión de las Dependencias, Entidades, Municipios e Instituciones Públicas y Privadas.
 
 #### SECCIÓN II. DE LA DIVULGACIÓN Y FOMENTO DE LA CULTURA CIENTÍFICA
 
@@ -451,19 +539,23 @@ V.- Las demás que de acuerdo con el Programa se requieran llevar a cabo.
 
 #### SECCIÓN III. DEL PROGRAMA ESPECIAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 22.
 
-El Titular del Poder Ejecutivo del Estado, expedirá el Programa Especial de Ciencia, Tecnología e Innovación. Su integración, actualización, ejecución y evaluación estará a cargo de COCYTEH, apegándose a las disposiciones legales aplicables y a los planes y Programas Nacionales y Estatales, relacionados con la materia.
+El Titular del Poder Ejecutivo del Estado, expedirá el Programa Especial de Ciencia, Tecnología e Innovación. Su integración, actualización, ejecución y evaluación estará a cargo de CITNOVA, apegándose a las disposiciones legales aplicables y a los planes y Programas Nacionales y Estatales, relacionados con la materia.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 23.
 
-El Programa será formulado, actualizado y evaluado por el COCYTEH, con base en las propuestas que presenten las Dependencias, Entidades, Municipios e Instituciones, así como personas físicas y morales, que apoyen o realicen, investigación, desarrollo tecnológico, innovación o transferencia de tecnología.
+El Programa será formulado, actualizado y evaluado por el CITNOVA, con base en las propuestas que presenten las Dependencias, Entidades, Municipios e Instituciones, así como personas físicas y morales, que apoyen o realicen, investigación, desarrollo tecnológico, innovación o transferencia de tecnología.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
 
 El programa incluirá una visión de largo plazo y proyección de hasta veinticinco años en los términos de esta Ley y de las demás disposiciones que deriven de la misma. El programa será actualizado sexenalmente en concordancia con el Plan Estatal de Desarrollo que corresponda.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
@@ -479,7 +571,9 @@ b).- Innovación y desarrollo tecnológico;
 
 c).- Transferencia de tecnología y posgrado;
 
-d).- Formación de investigadores, científicos, tecnólogos y profesionales de alto nivel;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+d).- Formación de personas investigadoras, científicas, tecnólogas y profesionales de alto nivel, atendiendo el principio de paridad de género;
 
 e).- Vinculación;
 
@@ -509,19 +603,27 @@ Para la ejecución del Programa, las Dependencias, Entidades, Municipios e Insti
 
 #### SECCIÓN IV.. DE LOS FONDOS Y FIDEICOMISO PARA LA CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 26.
 
-El Estado, a través del COCYTEH, promoverá la instrumentación de fondos de carácter Estatal, Regional y Municipal para apoyar la obtención y administración de los recursos que se precisen, para la ejecución de los proyectos de investigación, desarrollo tecnológico, innovación y transferencia de tecnología en la Entidad.
+El Estado, a través del CITNOVA, promoverá la instrumentación de fondos de carácter Estatal, Regional y Municipal para apoyar la obtención y administración de los recursos que se precisen, para la ejecución de los proyectos de investigación, desarrollo tecnológico, innovación y transferencia de tecnología en la Entidad.
 
 Éstos podrán ser complementarios de los señalados en la Ley de Ciencia y Tecnología Federal, se constituirán y operarán conforme a lo dispuesto por la presente Ley, la normatividad que al efecto expida el comité técnico y de administración de cada fondo y con base en los acuerdos o convenios que se celebren con las Autoridades Estatales y Municipales respectivas. Estos fondos podrán tener las siguientes modalidades:
 
 I.- Fondos Estratégicos y Sectoriales;
 
-a).- Los Fondos Estratégicos, serán establecidos por el Estado a través del COCYTEH, con la partida anual que se determine en el Decreto del Presupuesto de Egresos de Estado y los recursos de las dependencias y entidades de la Administración Pública involucradas, con el objeto de otorgar apoyos y financiamientos para actividades directamente vinculadas con la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado en áreas estratégicas; y
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-b).- Los Fondos Sectoriales, serán establecidos por el Estado a través del COCYTEH, con la partida anual que se determine en el Decreto del Presupuesto de Egresos de Estado y los recursos de las dependencias y entidades involucradas, con el objeto de apoyar el desarrollo de la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado, la formación de recursos humanos, becas, creación o fortalecimiento de grupos o cuerpos académicos de Investigación y desarrollo tecnológico, divulgación científica y tecnológica, y de la infraestructura que requiera el sector de que se trate, en cada caso.
+a).- Los Fondos Estratégicos, serán establecidos por el Estado a través del CITNOVA, con la partida anual que se determine en el Decreto del Presupuesto de Egresos de Estado y los recursos de las dependencias y entidades de la Administración Pública involucradas, con el objeto de otorgar apoyos y financiamientos para actividades directamente vinculadas con la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado en áreas estratégicas; y
 
-II.- Fondos Mixtos, serán establecidos por el Estado a través del COCYTEH, con la partida anual que se determine en el Decreto del Presupuesto de Egresos del Estado y los recursos de las Dependencias, Entidades, Municipios del Estado y particulares involucrados, con el objeto de apoyar; la innovación y desarrollo tecnológico, la transferencia de tecnología y el posgrado;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+b).- Los Fondos Sectoriales, serán establecidos por el Estado a través del CITNOVA, con la partida anual que se determine en el Decreto del Presupuesto de Egresos de Estado y los recursos de las dependencias y entidades involucradas, con el objeto de apoyar el desarrollo de la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado, la formación de recursos humanos, becas, creación o fortalecimiento de grupos o cuerpos académicos de Investigación y desarrollo tecnológico, divulgación científica y tecnológica, y de la infraestructura que requiera el sector de que se trate, en cada caso.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Fondos Mixtos, serán establecidos por el Estado a través del CITNOVA, con la partida anual que se determine en el Decreto del Presupuesto de Egresos del Estado y los recursos de las Dependencias, Entidades, Municipios del Estado y particulares involucrados, con el objeto de apoyar; la innovación y desarrollo tecnológico, la transferencia de tecnología y el posgrado;
 
 III.- El Fondo Hidalgo de Ciencia y Tecnología, será distinto y podrá ser complementario de los señalados en las fracciones anteriores, teniendo como finalidad apoyar la realización de proyectos de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado en el Estado, formación de recursos humanos; de desarrollo de la infraestructura y equipamiento; de difusión, divulgación y enseñanza de la ciencia y la tecnología; así como para otorgar estímulos y reconocimientos a personas físicas y morales que destaquen en estas materias. Estos apoyos habrán de concretarse en, publicaciones, acciones de divulgación, estímulos y reconocimientos y las demás que contribuyan al cumplimiento del Programa y apruebe el comité técnico y de, administración del Fondo; el mismo se constituirá con las aportaciones de:
 
@@ -541,17 +643,23 @@ g).- Los apoyos de Instituciones Estatales, Nacionales e Internacionales y;
 
 h).- Otros recursos que determine el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 27.
 
-Los fondos serán administrados por un Comité Técnico, integrado por representantes de las dependencias, entidades, municipios e Instituciones involucradas y por un representante del COCYTEH, el cual será presidido por un representante del Estado. Asimismo, contará con la participación de científicos, tecnólogos y académicos, de los sectores público, social y privado, vinculados con las áreas de investigación.
+Los fondos serán administrados por un Comité Técnico, integrado por representantes de las dependencias, entidades, municipios e Instituciones involucradas y por un representante del CITNOVA, el cual será presidido por un representante del Estado. Asimismo, contará con la participación de científicos, tecnólogos y académicos, de los sectores público, social y privado, vinculados con las áreas de investigación.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 28.
 
-Para la evaluación técnica y científica de los proyectos financiados con los fondos, en cada uno de ellos se integrará una comisión de evaluación, en la que participen investigadores, científicos y tecnólogos del Estado, designados de común acuerdo entre las Dependencias, Entidades, Municipios e Instituciones involucrados y el COCYTEH.
+Para la evaluación técnica y científica de los proyectos financiados con los fondos, en cada uno de ellos se integrará una comisión de evaluación, en la que participen investigadores, científicos y tecnólogos del Estado, designados de común acuerdo entre las Dependencias, Entidades, Municipios e Instituciones involucrados y el CITNOVA.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-Las Dependencias, Entidades, Municipios e Instituciones involucrados en el fondo correspondiente, para apoyar las funciones del comité técnico y de administración, designarán un secretario administrativo y al COCYTEH, corresponderá el apoyo a la comisión de evaluación, por conducto del secretario técnico que designe.
+Las Dependencias, Entidades, Municipios e Instituciones involucrados en el fondo correspondiente, para apoyar las funciones del comité técnico y de administración, designarán un secretario administrativo y al CITNOVA, corresponderá el apoyo a la comisión de evaluación, por conducto del secretario técnico que designe.
 
 ###### ARTÍCULO 30.
 
@@ -583,15 +691,23 @@ Se dará prioridad en la asignación de recursos de los fondos, a los programas 
 
 De igual forma, serán prioritarios los proyectos que se propongan lograr la utilización racional, eficiente y sustentable de los recursos naturales, así como aquellos, cuyo propósito sea la creación y funcionamiento de redes, científicas y tecnológicas.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 37.
 
-La asignación de recursos de los fondos, para proyectos, programas, investigaciones, becas y para cualquier otra actividad, estará sujeta a la existencia de recursos, la celebración del convenio correspondiente, a las disposiciones legales aplicables y:
+El otorgamiento de apoyos, financiamientos y recursos de los fondos y del Fideicomiso, para proyectos, programas, investigaciones y becas para actividades de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado, estarán sujetos a:
 
-I.- A la vigilancia de la debida aplicación y el adecuado aprovechamiento de los fondos asignados;
+I. Existencia de recursos;
 
-II.- A la rendición, ante el COCYTEH, en forma cuatrimestral, de los informes técnicos y financieros, sobre el desarrollo y resultados de la actividad apoyada; y
+II. Se procurará observar el principio de paridad de género;
 
-III.- A la regulación específica de los derechos de propiedad industrial e intelectual, de los resultados obtenidos por las personas físicas y morales que reciban apoyo de los fondos, protegiendo los intereses del Estado.
+III. Celebración del convenio correspondiente;
+
+IV. Vigilancia de la debida aplicación y el adecuado aprovechamiento de los fondos asignados;
+
+V. A la rendición, ante el CITNOVA, en forma cuatrimestral, de los informes técnicos y financieros, sobre el desarrollo y resultados de la actividad apoyada; y
+
+VI. A la regulación específica de los derechos de propiedad industrial e intelectual, de los resultados obtenidos por las personas físicas y morales que reciban apoyo de los fondos, protegiendo los intereses del Estado.
 
 ###### ARTÍCULO 38.
 
@@ -607,9 +723,11 @@ II.- Facilitar la programación anual de los distintos programas y proyectos ori
 
 III.- Propiciar el desarrollo de las empresas y actividades con base tecnológica, el desarrollo de los sectores prioritarios y estratégicos, y la aplicación comercial de conocimientos científicos, tecnológicos, organizacionales y de diseño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 40.
 
-El Fideicomiso contará con un Comité Técnico que estará integrado por un representante de la Secretaría de Desarrollo Económico, quien lo presidirá y tendrá voto de calidad, de la Secretaría de Finanzas, de la Secretaría de Contraloría y del COCYTEH.
+El Fideicomiso contará con un Comité Técnico que estará integrado por un representante de la Secretaría de Desarrollo Económico, quien lo presidirá y tendrá voto de calidad, de la Secretaría de Finanzas, de la Secretaría de Contraloría y del CITNOVA.
 
 Formarán parte del Comité Técnico, dos representantes del Consejo, uno del sector académico y otro del sector privado, en su caso, los cuales sólo tendrán derecho a voz.
 
@@ -637,9 +755,11 @@ VII.- Los demás que, por otros conceptos, se aporten para el mejor cumplimiento
 
 #### SECCIÓN I. DE LA FORMACIÓN DE RECURSOS HUMANOS
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 42.
 
-El COCYTEH, propondrá a las Dependencias, Entidades, Municipios e Instituciones, normas, criterios y mecanismos de coordinación, para la elaboración de programas orientados a la formación y capacitación de recursos humanos, en las áreas estratégicas del conocimiento prioritarias para el desarrollo del Estado, en materia de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado.
+El CITNOVA, propondrá a las Dependencias, Entidades, Municipios e Instituciones, normas, criterios y mecanismos de coordinación, para la elaboración de programas orientados a la formación y capacitación de recursos humanos, en las áreas estratégicas del conocimiento prioritarias para el desarrollo del Estado, en materia de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado.
 
 ###### ARTÍCULO 43.
 
@@ -677,21 +797,25 @@ V.- Apoyar la integración de grupos de investigadores y tecnólogos en el Estad
 
 VI.- Dar prioridad a los integrantes del Sistema de Investigación en las diferentes actividades emanadas del Sistema Estatal.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 45.
 
-Podrán formar parte del Sistema de Investigadores y Tecnólogos aquellos reconocidos como activos por el COCYTEH, que cumplan con los requisitos establecidos en las bases que se emitan, para la integración de dicho Sistema, relativos a su calidad y nivel de desarrollo académico y profesional.
+Podrán formar parte del Sistema de Investigadores y Tecnólogos aquellos reconocidos como activos por el CITNOVA, que cumplan con los requisitos establecidos en las bases que se emitan, para la integración de dicho Sistema, relativos a su calidad y nivel de desarrollo académico y profesional. El CITNOVA, emitirá las bases para el otorgamiento de los reconocimientos a la labor científica y tecnológica.
 
-El COCYTEH, emitirá las bases para el otorgamiento de los reconocimientos a la labor científica y tecnológica.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 46.
 
-El COCYTEH, es el encargado de desarrollar, regular, operar y vigilar el funcionamiento del Sistema de Investigadores, garantizando en el proceso de instrumentación, los principios de transparencia, Legalidad y equidad, involucrando en su operación a miembros reconocidos de los sectores Público, social y privado.
+El CITNOVA, es el encargado de desarrollar, regular, operar y vigilar el funcionamiento del Sistema de Investigadores, garantizando en el proceso de instrumentación, los principios de transparencia, Legalidad y equidad, involucrando en su operación a miembros reconocidos de los sectores Público, social y privado.
 
 ### CAPÍTULO V. DE LA COORDINACIÓN Y DESCENTRALIZACIÓN
 
+> <small>(REFORMADO PPRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 47.
 
-El COCYTEH, en términos de la Ley de Planeación del Estado, podrá celebrar convenios de coordinación y colaboración con la Federación, otras entidades federativas y los municipios, a efecto de establecer programas y apoyos específicos de carácter local, Nacional e Internacional, para impulsar el desarrollo y la descentralización de la investigación, desarrollo tecnológico, innovación y transferencia de tecnología en el Estado.
+El CITNOVA, en términos de la Ley de Planeación del Estado, podrá celebrar convenios de coordinación y colaboración con la Federación, otras entidades federativas y los municipios, a efecto de establecer programas y apoyos específicos de carácter local, Nacional e Internacional, para impulsar el desarrollo y la descentralización de la investigación, desarrollo tecnológico, innovación y transferencia de tecnología en el Estado.
 
 En los convenios a que se refiere el párrafo anterior, se determinarán, además de los objetivos comunes y las obligaciones de las partes, los compromisos concretos de financiamiento, vigilancia y aplicación de recursos, así como de los principios que se establecen en esta Ley.
 
@@ -699,17 +823,23 @@ Asimismo, buscará que las acciones de coordinación contemplen el desarrollo de
 
 Podrán ser materia de los convenios la colaboración y coordinación en proyectos de investigaciones de interés regionales, con universidades u otras Instituciones, locales o foráneas, cuando éstas sean parte de la celebración de dichos convenios.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 48.
 
-El COCYTEH, podrá convenir con la Federación, las Dependencias, Entidades, Municipios e Instituciones, entre otros, el establecimiento y operación de fondos a que se refiere esta Ley.
+El CITNOVA, podrá convenir con la Federación, las Dependencias, Entidades, Municipios e Instituciones, entre otros, el establecimiento y operación de fondos a que se refiere esta Ley.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 49.
 
-El COCYTEH, podrá suscribir con los Municipios del Estado, Convenios de Coordinación, a efecto de que éstos asuman las funciones a que se refieren los programas y proyectos a cargo del COCYTEH, con la finalidad de descentralizar las actividades científicas y tecnológicas.
+El CITNOVA, podrá suscribir con los Municipios del Estado, Convenios de Coordinación, a efecto de que éstos asuman las funciones a que se refieren los programas y proyectos a cargo del CITNOVA, con la finalidad de descentralizar las actividades científicas y tecnológicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 50.
 
-Los Convenios y Acuerdos de Coordinación que suscriba el COCYTEH, deberán sujetarse a lo siguiente:
+Los convenios y acuerdos de coordinación que suscriba el CITNOVA, deberán sujetarse a lo siguiente:
 
 I.- Definir con precisión las materias y actividades que constituyan el objeto del convenio o acuerdo;
 
@@ -721,29 +851,39 @@ IV.- Especificar la vigencia del convenio o acuerdo, previendo la rescisión, so
 
 V.- Contener las estipulaciones que las partes consideren necesarias, para el correcto cumplimiento del convenio o acuerdo correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 51.
 
-El Ejecutivo, a través del COCYTEH, promoverá la creación de Instancias Municipales y Regionales, para que, participen en la divulgación científica, con la finalidad de garantizar el desarrollo científico y tecnológico, en todo el Estado, que se traduzca en el desarrollo económico equitativo y sustentable del mismo.
+El Ejecutivo, a través del CITNOVA, promoverá la creación de Instancias Municipales y Regionales, para que participen en la divulgación científica, con la finalidad de garantizar el desarrollo científico y tecnológico, en todo el Estado, que se traduzca en el desarrollo económico equitativo y sustentable del mismo.
 
 ### CAPÍTULO VI. DE LA PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 52.
 
-El Estado promoverá la participación de los sectores social y privado; para ello se apoyará en el COCYTEH, quien procurará garantizar al individuo el pleno derecho a la participación permanente, en la definición de políticas en materia de ciencia y tecnología.
+El Estado promoverá la participación de los sectores social y privado; para ello se apoyará en el CITNOVA, quien procurará garantizar al individuo el pleno derecho a la participación permanente, en la definición de políticas en materia de ciencia y tecnología.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 53.
 
-El COCYTEH, buscará la representación de la comunidad científica y tecnológica, y procurará garantizar su participación permanente, mediante los mecanismos, procesos o instrumentos, que el propio COCYTEH considere pertinentes.
+El CITNOVA, buscará la representación de la comunidad científica y tecnológica, y procurará garantizar su participación permanente, mediante los mecanismos, procesos o instrumentos, que el propio CITNOVA considere pertinentes.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 54.
 
-El COCYTEH, establecerá los mecanismos e instrumentos mediante los cuales propiciará la participación ciudadana, garantizando la recepción, sistematización y análisis de las opiniones recibidas, a efecto de considerarlas para la elaboración de políticas estratégicas en materia científica y tecnológica.
+El CITNOVA, establecerá los mecanismos e instrumentos mediante los cuales propiciará la participación ciudadana, garantizando la recepción, sistematización y análisis de las opiniones recibidas, a efecto de considerarlas para la elaboración de políticas estratégicas en materia científica y tecnológica.
 
-Sin perjuicio de otros medios, el COCYTEH deberá transmitir a las dependencias, Entidades, Municipios, y demás instancias competentes, las opiniones y propuestas que se reciban de las instituciones vinculadas con tareas relacionadas con la ciencia y la tecnología.
+Sin perjuicio de otros medios, el CITNOVA deberá transmitir a las dependencias, Entidades, Municipios, y demás instancias competentes, las opiniones y propuestas que se reciban de las instituciones vinculadas con tareas relacionadas con la ciencia y la tecnología.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 55.
 
-El COCYTEH, tomará en cuenta la participación ciudadana para desarrollar las siguientes acciones:
+El CITNOVA, tomará en cuenta la participación ciudadana para desarrollar las siguientes acciones:
 
 I.- Formular propuestas sobre políticas de apoyo a la investigación, el desarrollo tecnológico, la innovación y la transferencia de tecnología;
 
@@ -771,11 +911,11 @@ El Estado reconocerá los logros sobresalientes de quienes realicen investigaci�
 
 El Estado, a través de los organismos encargados de la educación en Hidalgo, promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles educativos.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 60.
 
-El Estado, a través del COCYTEH, promoverá entre los sectores social y privado, la creación de centros de investigación para el fomento de la investigación, el desarrollo tecnológico y la transferencia de tecnología.
-
-En el Presupuesto de Egresos del Estado y de conformidad con la disponibilidad presupuestal, se establecerán partidas para la creación de los mismos en el sector público.
+El Estado, a través del CITNOVA, promoverá entre los sectores social y privado, la creación de centros de investigación para el fomento de la investigación, el desarrollo tecnológico y la transferencia de tecnología.
 
 ### CAPÍTULO VIII. DEL PREMIO HIDALGO DE CIENCIA Y TECNOLOGÍA
 
@@ -783,9 +923,11 @@ En el Presupuesto de Egresos del Estado y de conformidad con la disponibilidad p
 
 Se instituye el Premio Hidalgo de Ciencia y Tecnología, con el objeto de reconocer, promover y estimular lo más destacado de la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología, la formación de recursos humanos, la difusión, divulgación y enseñanza en estos rubros, realizadas de manera individual o colectiva, por jóvenes y adultos hidalguenses o residentes en el Estado que hayan realizado su actividad científica y tecnológica en la Entidad, cuya obra en estos campos se haga acreedora de tal distinción.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 62.
 
-El premio consistirá en diploma, medalla de oro al mérito y la entrega, en numerario o en especie, del monto que determine la Junta de Gobierno del COCYTEH.
+El premio consistirá en diploma, medalla de oro al mérito y la entrega, en numerario o en especie, del monto que determine la Junta de Gobierno del CITNOVA.
 
 ###### ARTÍCULO 63.
 
@@ -819,7 +961,9 @@ Para garantizar la eficacia de las políticas y acciones necesarias para el desa
 
 I.- Revisar las políticas, programas, ordenamientos legales y administrativos relacionados con la innovación, para formular propuestas tendientes a su mejoramiento en pro de la innovación;
 
-II.- Proponer a la Secretaría de Desarrollo Económico, a la Comisión Hidalguense, al COCYTEH y a otras Dependencias y Entidades de la Administración Pública Estatal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Proponer a la Secretaría de Desarrollo Económico, a la Comisión Hidalguense, al CITNOVA y a otras Dependencias y Entidades de la Administración Pública Estatal:
 
 a).- Mecanismos y fuentes de apoyo y financiamiento para la creación y desarrollo de redes científicas y de innovación;
 
@@ -966,3 +1110,9 @@ P.O. 15 DE JULIO DE 2013.
 PRIMERO.- El Presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 769 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
