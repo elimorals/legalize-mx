@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2020-06-25"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -96,6 +96,10 @@ VII. Dependencias y Entidades: las pertenecientes al Poder Ejecutivo del Estado 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 VII Bis. Evidencias graficas: todo tipo de fotografías y videos que sirvan para comprobar efectivamente el estado que guardan y el avance que llevan las obras, de acuerdo con el programa y el contrato correspondiente;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII Ter. Expediente técnico: documento que concentra los datos generales de una obra pública, que son: breve descripción de la obra; objetivos; beneficiarios; resumen de los dictámenes de factibilidad aplicables en cada obra; justificación; localización; presupuesto; materiales e insumos utilizados; y programación y cumplimiento de avances físicos y financieros.
 
 VIII. Instituciones: las señaladas en el artículo anterior, con excepción de la contemplada en la fracción II de este artículo;
 
@@ -1731,6 +1735,10 @@ El incumplimiento a lo previsto en esta Ley será motivo de responsabilidad en l
 
 La forma y términos en que las instituciones deberán remitir al órgano de control interno que les corresponda, la información relativa a los actos y contratos materia de esta Ley, serán establecidos de manera sistemática y coordinada por dichas instancias en el ámbito de su competencia.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 171 BIS. Por su parte, las instituciones que realicen obra pública por administración directa, deberán integrar el expediente técnico, en cada caso.
+
 ###### ARTÍCULO 172.
 
 La administración del sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas, estará a cargo de la Contraloría General del Estado, a través de la unidad administrativa que determine su Reglamento, en el cual las dependencias y entidades, y los demás sujetos de esta Ley, deberán incorporar la información que ésta les requiera.
@@ -2390,3 +2398,11 @@ P.O. 25 DE JUNIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1249.- SE ADICIONA AL ARTÍCULO 2° LA FRACCIÓN VII TER Y EL ARTÍCULO 171 BIS, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUÍS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
