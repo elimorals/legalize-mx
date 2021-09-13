@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2021-05-22"
+last_updated: "2021-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -1353,7 +1353,9 @@ IV. Nombrar, y remover por causa justificada, a los servidores judiciales;
 
 V. Designar al Secretario y los titulares de los órganos auxiliares del propio Consejo;
 
-VI. Dirigir el Instituto de Estudios Judiciales, la Contraloría y las demás unidades y áreas de apoyo técnico y administrativo del Poder Judicial;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Dirigir la Escuela Judicial, la Contraloría y las demás unidades y áreas de apoyo técnico y administrativo del Poder Judicial;
 
 VII. Acordar el retiro forzoso de los jueces de Primera Instancia y menores;
 
@@ -1479,11 +1481,11 @@ X. Las demás que determinen las leyes y los correspondientes reglamentos y acue
 
 ### CAPITULO V. De los Organos Auxiliares
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 97.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura contará con los siguientes órganos auxiliares: el Instituto de Estudios Judiciales, Promoción, y Desarrollo de los Derechos Humanos; la Visitaduría Judicial; la Contraloría del Poder Judicial del Estado; la Dirección Jurídica; la Unidad de Estadística y Seguimiento; y el Centro Estatal de Medición y Conciliación.
+Para su adecuado funcionamiento, el Consejo de la Judicatura contará con los siguientes órganos auxiliares: Escuela Judicial; la Visitaduría Judicial; la Contraloría del Poder Judicial del Estado; la Dirección Jurídica; la Unidad de Estadística y Seguimiento; y el Centro Estatal de Medición y Conciliación.
 
 ###### ARTICULO 98.
 
@@ -1531,9 +1533,11 @@ Los asuntos concernientes a la vigilancia y disciplina del Poder Judicial, estar
 
 El Secretariado Ejecutivo de Vigilancia y Disciplina se auxiliará para su mejor desempeño, del personal que autorice el Consejo de la Judicatura, de acuerdo a su presupuesto.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 106.
 
-El Secretariado Ejecutivo de Pleno y Carrera Judicial será responsable del Instituto de Estudios Judiciales, de la Gaceta Judicial, de la Biblioteca y de la Oficialía de Partes; y se apoyará por el personal que autorice el Consejo de la Judicatura, de acuerdo a su presupuesto.
+El Secretariado Ejecutivo de Pleno y Carrera Judicial será responsable de la Escuela Judicial, de la Gaceta Judicial, de la Biblioteca y de la Oficialía de Partes; y se apoyará por el personal que autorice el Consejo de la Judicatura, de acuerdo con su presupuesto.
 
 ### CAPITULO II. De la Contraloría
 
@@ -1639,31 +1643,63 @@ De toda visita de inspección deberá levantarse acta circunstanciada, en la cua
 
 El acta de la visita se levantará por triplicado, uno de cuyos ejemplares se entregará al titular del órgano visitado, y el original al Consejo de la Judicatura, para que determine lo que corresponda.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPITULO IV. Instituto de Estudios Judiciales, Promoción, y Desarrollo de los Derechos Humanos
+### CAPITULO IV. De la Escuela Judicial
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 119.
 
-El Instituto de Estudios Judiciales dependiente del Consejo de la Judicatura, a través del Secretariado Ejecutivo del Pleno y Carrera Judicial, es el órgano encargado de la investigación jurídica, formación, profesionalización, capacitación y actualización de los miembros del Poder Judicial, y de quienes aspiren pertenecer a éste.
+La Escuela Judicial, dependiente del Consejo de la Judicatura, a través del Secretariado Ejecutivo del Pleno y Carrera Judicial, es el órgano encargado de la investigación jurídica, sensibilización, formación, profesionalización, especialización, capacitación y actualización de las personas integrantes del Poder Judicial, y de quienes aspiren pertenecer a éste.
 
-El funcionamiento y atribuciones del Instituto se regirán por las normas que determine el Consejo de la Judicatura, en el reglamento respectivo.
+El funcionamiento y atribuciones de la Escuela Judicial se regirán por las normas que determine el Consejo de la Judicatura, en el reglamento respectivo.
 
-El Instituto podrá establecer extensiones regionales, apoyar los programas y cursos en los términos que les sea solicitados, y coordinarse con las instituciones de educación superior del país, para que éstas lo auxilien en la realización de sus tareas y atribuciones.
+La Escuela Judicial podrá establecer extensiones regionales, apoyar los programas y cursos en los términos que les sea (sic) solicitados, y coordinarse con las instituciones de educación superior del país, para que éstas le auxilien en la realización de sus tareas y atribuciones.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 119 BIS. La Escuela Judicial se integrará por:
+
+I. Un Comité Académico;
+
+II. La Dirección;
+
+III. La Subdirección,
+
+IV. Un área de investigación judicial;
+
+V. Un área de investigación en derechos humanos y género;
+
+VI. El personal administrativo que sea necesario y permita la disponibilidad presupuestal.
+
+VII. El personal académico integrado por servidores y servidoras judiciales con grado de Maestría o Doctorado, y
+
+VIII. En su caso, las extensiones regionales.
+
+Le corresponde al Pleno de la Judicatura el expedir los nombramientos del personal, incluyendo los de la Dirección y Subdirección, así como los contratos de prestación de servicios que se requieran para la planta docente y administrativa.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 120.
 
-El Instituto tendrá un Comité Académico presidido por su Director, integrado por cuando menos cuatro miembros, todos de carácter honorífico, designados por el Pleno del Consejo de la Judicatura, para ejercer por un periodo de dos años, de entre personas con reconocida experiencia profesional y académica.
+La Escuela Judicial tendrá un Comité Académico presidido por quien ocupe su Dirección, integrado por cuando menos cuatro integrantes, todos de carácter honorífico, designados por el Pleno del Consejo de la Judicatura, para ejercer por un periodo de dos años, de entre personas con reconocida experiencia profesional y académica.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 121.
 
-El Comité Académico tendrá como función determinar, de manera conjunta con el Director, los programas de investigación, preparación y capacitación de los alumnos del Instituto; los mecanismos de evaluación y rendimiento; la elaboración de proyectos reglamentarios; y las reglas para la participación en los exámenes de oposición.
+El Comité Académico tendrá como función determinar, de manera conjunta con la persona que ocupe la Dirección, los programas de investigación, preparación y capacitación de las y los alumnos de la Escuela Judicial; los mecanismos de evaluación y rendimiento; la elaboración de proyectos reglamentarios; y las reglas para la participación en los exámenes de oposición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 122.
 
-Los programas que imparta el Instituto tendrán como objeto lograr que los integrantes del Poder Judicial del Estado, o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarias para el adecuado desempeño de la función judicial.
+Los programas que imparta la Escuela Judicial tendrán como objeto lograr que las y los integrantes del Poder Judicial del Estado, o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarias para el adecuado desempeño de la función judicial.
 
-Para ello, el Instituto establecerá los programas y cursos tendientes a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Para ello, la Escuela Judicial establecerá los programas y cursos tendientes a:
 
 I. Desarrollar el conocimiento práctico de los trámites, diligencias y actuaciones que forman parte de los procedimientos y asuntos de la competencia del Poder Judicial del Estado;
 
@@ -1681,15 +1717,59 @@ VII. Promover el intercambio académico con instituciones de educación superior
 
 VIII. Las demás que le encomiende el Consejo de la Judicatura.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 122 BIS. Los cursos y programas que se impartan en la Escuela Judicial podrán ser presenciales, semi presenciales o en modalidad de educación a distancia por medios electrónicos.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 123.
 
-El Instituto llevará a cabo cursos de preparación para los exámenes correspondientes, a las distintas categorías que componen la carrera judicial.
+La Escuela Judicial llevará a cabo cursos de preparación para los exámenes correspondientes, a las distintas categorías que componen la carrera judicial.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 124.
 
-El Instituto de Estudios Judiciales, Promoción, y Desarrollo de los Derechos Humanos contará con dos áreas de investigación; una que tendrá como función primordial realizar los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado; y la segunda, especializada en género y derechos humanos, teniendo como función la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado en esta materia.
+La Escuela Judicial, contará con dos áreas de investigación; una que tendrá como función primordial realizar los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado; y la segunda, especializada en género y derechos humanos, teniendo como función la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado en esta materia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 124 BIS. Para ocupar la Dirección de la Escuela Judicial, se requiere tener título legalmente expedido, de una profesión afín a las funciones que deban desempeñar, con experiencia profesional mínima de cinco años.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 124 TER. La Dirección de la Escuela Judicial tendrá las siguientes atribuciones:
+
+I. Dirigir, administrar y coordinar las actividades de la Escuela Judicial;
+
+II. Proponer el proyecto de presupuesto anual de la Escuela Judicial y de capacitación al Pleno del Consejo de la Judicatura, en coordinación con el Secretariado Ejecutivo de Administración;
+
+III. Presidir las reuniones del Comité Académico;
+
+IV. Proponer e instrumentar mecanismos para la difusión de los estudios e investigaciones desarrolladas en la Escuela Judicial;
+
+V. Rendir, informes mensuales y anuales de las actividades realizadas al Pleno del Consejo de la Judicatura y su Presidencia;
+
+VI. Elaborar el programa operativo anual de la Escuela Judicial, así como los proyectos estratégicos y demás procesos de planeación que le instruya el Pleno del Consejo de la Judicatura;
+
+VII. Dar seguimiento a los proyectos e iniciativas que surjan en el seno del Comité Académico;
+
+VIII. Presentar al Pleno del Consejo de la Judicatura propuestas de personas y perfiles para incorporarse al Instituto en las áreas de investigación, docencia y cargos administrativos;
+
+IX. Gestionar los convenios de colaboración que se le encomienden, con instituciones públicas y privadas, así como de educación superior y coordinarse con la Dirección Jurídica del Consejo, para la elaboración de los mismos;
+
+X. Gestionar y sugerir la adquisición del acervo documental que resulte necesario para la consulta de las y los alumnos de la Escuela Judicial, en coadyuvancia con la Biblioteca del Poder Judicial José Francisco Pedraza Montes;
+
+XI. Verificar que las actividades docentes y académicas se realicen conforme a la normatividad aplicable, así como en apego a los planes y programas de estudio;
+
+XII. Informar a sus superiores jerárquicos, sobre las decisiones y acuerdos adoptados en el seno del Comité Académico;
+
+XIII. Realizar los estudios previos y someter a consideración del Pleno del Consejo de la Judicatura, el establecimiento de extensiones regionales en diversas regiones del Estado que sean necesarias para el desarrollo de las funciones y cumplimiento de los objetivos de la Escuela Judicial;
+
+XIV. Gestionar apoyos y fondos externos para el financiamiento de investigaciones en beneficio del Poder Judicial, ante instituciones académicas públicas, paraestatales y privadas, nacionales y extranjeras, y
+
+XV. Las demás que establezcan los reglamentos y los acuerdos que al efecto expida el Pleno del Consejo de la Judicatura, así como lo que le instruyan la Comisión de Carrera Judicial y el Secretariado Ejecutivo de Pleno y Carrera Judicial.
 
 ### CAPITULO V. De la Oficialía de Partes Común
 
@@ -1919,31 +1999,35 @@ La calificación final se determinará con el promedio de los puntos que cada mi
 
 Al llevar a cabo su evaluación, el jurado se regirá por los principios de imparcialidad y objetividad.
 
-En caso de empate se tomará en consideración los cursos que el sustentante haya realizado y aprobado en el Instituto de Estudios Judiciales, la antigüedad en el Poder Judicial del Estado en su caso, el desempeño y el grado académico, y
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de empate se tomará en consideración los cursos que la persona sustentante haya realizado y aprobado en la Escuela Judicial, la antigüedad en el Poder Judicial del Estado en su caso, el desempeño y el grado académico, y
 
 IV. Concluidos los exámenes orales se levantará un acta final, y el presidente del jurado declarará quienes son los concursantes que resultaron ganadores y el medio de selección utilizado, e informará de inmediato al Consejo de la Judicatura, para que realice los nombramientos respectivos.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 151.
 
-Los cuestionarios y casos prácticos serán elaborados por un comité, integrado por un miembro del Consejo de la Judicatura, quien lo presidirá, por un magistrado o un juez dependiendo de la categoría para la cual se concursa, y por un miembro del Instituto de Estudios Judiciales. La designación de los miembros del comité se hará en los términos que establezca el reglamento respectivo del Instituto de Estudios Judiciales.
+Los cuestionarios y casos prácticos serán elaborados por un comité, integrado por un miembro del Consejo de la Judicatura, quien lo presidirá, por un magistrado o magistrada, o un juez o jueza dependiendo de la categoría para la cual se concursa, y por una persona integrante de la Escuela Judicial. La designación de los miembros del comité se hará en los términos que establezca el reglamento respectivo de la Escuela Judicial.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 152.
 
-El jurado encargado de los exámenes orales se integrará por:
+El jurado encargado de la aplicación de los exámenes orales se integrará por:
 
-I. Un miembro del Consejo de la Judicatura, quien lo presidirá,
+I. Un Consejero o Consejera de la Judicatura, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+II. Un Magistrado o Magistrada y un Juez o Jueza, quienes serán designados por insaculación, y
 
-II. Un Magistrado y un Juez, quienes serán designados por insaculación, y
+III. Una persona designada por la Escuela Judicial.
 
-III. Una persona designada por el Instituto de Estudios Judiciales.
+Por cada titular se nombrará una persona suplente, designado en los términos que señale el reglamento correspondiente.
 
-Por cada miembro titular se nombrará un suplente, designado en los términos que señale el reglamento correspondiente.
+A las y los miembros del jurado les serán aplicables los impedimentos legales, los cuales serán calificados por el propio jurado.
 
-A los miembros del jurado les serán aplicables los impedimentos legales, los cuales serán calificados por el propio jurado.
-
-El Presidente del jurado tendrá voto de calidad en caso de empate.
+La Presidencia del jurado tendrá voto de calidad en caso de empate.
 
 ###### ARTICULO 153.
 
@@ -1959,13 +2043,17 @@ Ningún juez podrá permanecer en el juzgado de su adscripción por más de tres
 
 Siempre que ello fuere posible, y en términos de lo dispuesto en este Capítulo, el Consejo de la Judicatura establecerá las bases para que los jueces puedan elegir la plaza y materia del órgano de adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 155.
 
-En aquellos casos en que para la primera adscripción de jueces haya más de una plaza vacante, el Consejo de la Judicatura tomará en consideración, de conformidad con el acuerdo respectivo, los siguientes elementos:
+En aquellos casos en que para la primera adscripción de jueces o juezas haya más de una plaza vacante, el Consejo de la Judicatura tomará en consideración, de conformidad con el acuerdo respectivo, los siguientes elementos:
 
 I. La calificación obtenida en el concurso de oposición;
 
-II. Los cursos que haya realizado en el Instituto de Estudios Judiciales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II. Los cursos que haya realizado en la Escuela Judicial;
 
 III. La antigüedad en el Poder Judicial del Estado o la experiencia profesional;
 
@@ -1977,7 +2065,9 @@ V. El grado académico que comprende el nivel de estudios con que cuente el serv
 
 Tratándose de cambios de adscripción se considerarán los siguientes elementos:
 
-I. Los cursos de enseñanza y capacitación que se hayan realizado en el Instituto de Estudios Judiciales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I. Los cursos de enseñanza y capacitación que se hayan realizado en la Escuela Judicial;
 
 II. La antigüedad en el Poder Judicial del Estado;
 
@@ -2035,13 +2125,15 @@ Los periodos vacacionales de los magistrados serán determinados por el Pleno de
 
 ### CAPITULO IV. De los Estímulos y Recompensas
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 163.
 
-El Consejo de la Judicatura estimulará y recompensará a los empleados y funcionarios del Poder Judicial, que se distingan por la eficiencia y excelencia en el ejercicio de su trabajo, espíritu de servicio, asistencia y puntualidad.
+El Consejo de la Judicatura estimulará y recompensará a las y los servidores judiciales, que se distingan por la eficiencia y excelencia en el ejercicio de su trabajo, espíritu de servicio, asistencia y puntualidad.
 
-El Consejo de la Judicatura establecerá, mediante acuerdos generales, acorde con su presupuesto, un sistema de estímulos para las personas que integran las diversas categorías de la carrera judicial. Dicho sistema tomará en consideración el desempeño en el ejercicio de su función, la capacitación recibida en el Instituto de Estudios Judiciales, grado académico, antigüedad, arraigo y los demás elementos que el propio Consejo estime necesarios.
+El Consejo de la Judicatura establecerá, mediante acuerdos generales, acorde con su presupuesto, un sistema de estímulos para las personas que integran las diversas categorías de la carrera judicial. Dicho sistema tomará en consideración el desempeño en el ejercicio de su función, la capacitación recibida, o impartida en la Escuela Judicial, grado académico, antigüedad, arraigo y los demás elementos que el propio Consejo estime necesarios.
 
-Para tal efecto, implementará un sistema de indicadores de desempeño y evaluará objetivamente a través de la Unidad de Estadística, Evaluación y Seguimiento, la información cuantitativa que corresponda a cada servidor judicial, y tomará en cuenta la calidad humana y atención que se preste en el ejercicio del trabajo; asimismo, promoverá la capacitación constante y sistemática del personal en las diversas áreas de desarrollo profesional y humano.
+Para tal efecto, implementará un sistema de indicadores de desempeño y evaluará objetivamente a través de la Unidad de Estadística, Evaluación y Seguimiento, la información cuantitativa que corresponda a cada servidor y servidora judicial, y tomará en cuenta la calidad humana y atención que se preste en el ejercicio del trabajo; asimismo, promoverá la capacitación constante y sistemática del personal en las diversas áreas de desarrollo profesional y humano.
 
 ## TITULO SEXTO. DE LA JURISPRUDENCIA LOCAL
 
@@ -2059,9 +2151,15 @@ La jurisprudencia emitida por el Pleno del Supremo Tribunal de Justicia, es obli
 
 La jurisprudencia emitida por las salas del Supremo Tribunal de Justicia será obligatoria para los juzgados depositarios del Poder Judicial del Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de notoria inobservancia de una jurisprudencia, interpretado en el marco de un absoluto silencio, sobre la aplicación de un criterio jurisprudencial estatal invocado por alguna de las partes en un caso en particular, ante la actualización de la falta establecida en el artículo 178 fracción VIII bis, de la Ley Orgánica del Poder Judicial del Estado, se deberá dar cuenta por el Presidente del Supremo Tribunal de Justicia del Estado, cuando se actué en pleno o por el Presidente de la Sala, cuando se actúe en Sala, al Consejo de la Judicatura del Poder Judicial del Estado, a efecto de que proceda conforme a su facultad investigadora y sancionadora.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 166.
 
-La jurisprudencia que emitan el Pleno y las salas del Supremo Tribunal de Justicia, será obligatoria a partir del día siguiente de su publicación en el Periódico Oficial del Estado. No obstante lo anterior, una vez que se haya aprobado, se deberá comunicar para su conocimiento a todos los órganos jurisdiccionales del Estado y al Consejo de la Judicatura para su difusión a través de la Gaceta, a fin de que los interesados estén en posibilidad de invocarla.
+La jurisprudencia que emitan el Pleno y las salas del Supremo Tribunal de Justicia, será obligatoria a partir del día siguiente de su publicación en el Periódico Oficial del Estado. No obstante lo anterior, una vez que se haya aprobado, se deberá comunicar para su conocimiento a todos los órganos jurisdiccionales del Estado y al Consejo de la Judicatura para su difusión a través de la Gaceta y del apartado especial que al efecto cuente la página electrónica oficial del Poder Judicial del Estado, para la publicidad sistematizada de los criterios a fin de que los interesados estén en posibilidad de conocerla e invocarla.
 
 ###### ARTICULO 167.
 
@@ -2149,9 +2247,15 @@ VI. Dictar resoluciones contra el texto expreso de la ley con dolo o mala fe;
 
 VII. Aplicar penas por analogía o mayoría de razón;
 
-VIII. Dedicar a los servidores públicos de la impartición de justicia de su dependencia, al desempeño de labores extrañas a las funciones oficiales, las que deberán estar demarcadas con toda precisión en el Reglamento de esta Ley, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Las demás que establezcan las leyes y los reglamentos.
+VIII. Dedicar a los servidores públicos de la impartición de justicia de su dependencia, al desempeño de labores extrañas a las funciones oficiales, las que deberán estar demarcadas con toda precisión en el Reglamento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IX. La notoria inobservancia de una jurisprudencia emitida a nivel local, conforme al artículo 165 de esta Ley, y
+
+X. Las demás que establezcan las leyes y los reglamentos.
 
 ###### ARTICULO 179.
 
@@ -2656,5 +2760,13 @@ P.O. 22 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1178.- SE REFORMA EL ARTÍCULO 2° EN SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ."]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1264.- SE REFORMA (SIC) LOS ARTÍCULOS 94, 97, 106, 119, 120, 121, 122, 123,124,150, 151, 152, 155, 156, 163, 166 Y 178; Y ADICIONA LOS Y A LOS (SIC) ARTÍCULOS 119 BIS, 122 BIS, 124 BIS, 124 TER, 165, 178, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
