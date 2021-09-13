@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2021-02-27"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -418,11 +418,57 @@ La Secretaría deberá establecer plazos para que las dependencias y entidades s
 
 Tratándose de municipios, las unidades de administración deberán elaborar los respectivos calendarios de gasto y someterlos a la consideración del cabildo, dentro de los primeros quince días del ejercicio.
 
-### CAPÍTULO I. De la Programación y Presupuestación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO III. Del Balance Presupuestario Sostenible del Estado y los Municipios
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 23 Bis.
+
+El Gasto total propuesto por el Ejecutivo del Estado en el proyecto de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado, y el que se ejerza en el año fiscal, deberá contribuir a un Balance Presupuestario Sostenible.
+
+El Estado deberá generar Balances presupuestarios sostenibles. Se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. De igual forma, el balance presupuestario de recursos disponibles se considera sostenible, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso se contrate por parte del gobierno estatal y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, en cumplimiento con el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 23 Ter.
+
+Debido a razones excepcionales, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado, podrán prever un Balance presupuestario de recursos disponibles negativo. En ese supuesto, el Poder Ejecutivo del Estado, deberá informar al Congreso del Estado de los siguientes aspectos:
+
+I. Los motivos excepcionales que justifican el Balance presupuestario de recursos disponibles negativo, conforme a lo previsto en el siguiente artículo;
+
+II. Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de recursos disponibles negativo, y
+
+III. El número de ejercicios fiscales, y enumeración y descripción de acciones requeridas para que dicho Balance presupuestario de recursos disponibles negativo sea eliminado y se restablezca su sostenibilidad.
+
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, reportará en informes trimestrales y en la Cuenta Pública que entregue al Congreso del Estado; y a través de su página oficial de Internet, el avance de las acciones, hasta en tanto se recupere el presupuesto sostenible de recursos disponibles.
+
+En caso de que el Congreso del Estado modifique la Ley de Ingresos y el Presupuesto de Egresos de tal manera que genere un Balance presupuestario de recursos disponibles negativo, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del Balance presupuestario de recursos disponibles negativo a que se refiere este párrafo, el Ejecutivo del Estado deberá dar cumplimiento a lo previsto en la fracción III y el párrafo anterior de este artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 23 Quáter.
+
+Se podrá incurrir en un Balance presupuestario de recursos disponibles negativo cuando:
+
+I. Se presente una caída en el Producto Interno Bruto nacional en términos reales, y a causa de eso, se origine una caída en las participaciones federales con respecto a lo aprobado en el Presupuesto de Egresos de la Federación, y ésta no logre compensarse con los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+II. Sea necesario cubrir los costos de la reconstrucción provocada por los desastres naturales declarados en los términos de las Leyes aplicable, (sic) o
+
+III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del gasto no etiquetado observado en el Presupuesto de egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el Balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 23 Quinque. El Gasto total propuesto por los municipios de la Entidad, en sus respectivos Presupuestos de Egresos, el aprobado, y el que se ejerza en el año fiscal, deberán contribuir al Balance presupuestario sostenible.
+
+Los municipios deberán generar Balances presupuestarios sostenibles. Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Debido a las razones excepcionales a que se refiere el artículo 23 Quáter de esta Ley, el Congreso del Estado podrá aprobar un Balance presupuestario de recursos disponibles negativo para el Municipio respectivo. Para tal efecto, el tesorero municipal o su equivalente, será responsable de cumplir lo previsto en el artículo 23 Ter de esta Ley.
 
 ## TÍTULO SEGUNDO. De la Programación, Presupuestación y Aprobación
 
-### CAPÍTULO II. De la Ley de Ingresos; y del Presupuesto de Egresos
+### CAPÍTULO I. De la Programación y Presupuestación
 
 ###### ARTÍCULO 24.
 
@@ -562,7 +608,7 @@ Los ejecutores del gasto sólo podrán realizar los trámites necesarios para ll
 
 La programación y el ejercicio de recursos destinados a comunicación social se autorizarán por la Secretaría, en los términos de las leyes aplicables. Los gastos que en los mismos rubros efectúen los demás ejecutores del gasto, se incluirán dentro de su presupuesto y se autorizarán por sus unidades de administración.
 
-### CAPÍTULO III. De la Aprobación, y los Mecanismos de Comunicación y Coordinación
+### CAPÍTULO II. De la Ley de Ingresos; y del Presupuesto de Egresos
 
 ###### ARTÍCULO 35.
 
@@ -648,7 +694,7 @@ a) La metodología empleada para determinar la estacionalidad y el volumen de la
 
 b) La distribución del presupuesto a nivel de ejecutores del gasto, y con una desagregación de capítulo de gasto.
 
-### CAPÍTULO I. Del Ejercicio
+### CAPÍTULO III. De la Aprobación, y los Mecanismos de Comunicación y Coordinación
 
 ###### ARTÍCULO 38.
 
@@ -696,7 +742,7 @@ Dentro de los veinte días hábiles posteriores a la publicación del Presupuest
 
 ## TÍTULO TERCERO. Del Ejercicio del Gasto Público
 
-### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
+### CAPÍTULO I. Del Ejercicio
 
 ###### ARTÍCULO 41.
 
@@ -754,7 +800,7 @@ Los ejecutores del gasto deberán incluir en los informes trimestrales, un repor
 
 En ningún caso, los ejecutores del gasto podrán celebrar contratos plurianuales que rebasen sus periodos constitucionales.
 
-### CAPÍTULO III. De las Adecuaciones Presupuestarias
+### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
 
 ###### ARTÍCULO 46.
 
@@ -794,7 +840,7 @@ Los poderes, Legislativo; y Judicial, los entes autónomos, los municipios y sus
 
 Los ejecutores del gasto no otorgarán garantías ni efectuarán depósitos para el cumplimiento de sus obligaciones de pago, con cargo al Presupuesto de Egresos.
 
-### CAPÍTULO IV. De la Austeridad y Disciplina Presupuestaria
+### CAPÍTULO III. De las Adecuaciones Presupuestarias
 
 ###### ARTÍCULO 51.
 
@@ -834,7 +880,7 @@ No podrán realizarse traspasos de recursos de gasto de inversión a ningún otr
 
 Los poderes, Legislativo; y Judicial, los entes autónomos, los municipios y sus organismos, podrán autorizar adecuaciones a sus respectivos presupuestos en los términos del artículo anterior, siempre que permitan un mejor cumplimiento de los objetivos de los programas a su cargo. Dichas adecuaciones deberán ser autorizadas por sus órganos de gobierno.
 
-### CAPÍTULO V. De los Servicios Personales
+### CAPÍTULO IV. De la Austeridad y Disciplina Presupuestaria
 
 ###### ARTÍCULO 55.
 
@@ -892,7 +938,7 @@ III. Se promoverá la adquisición o arrendamiento consolidado de materiales, su
 
 Los ejecutores del gasto, excepto los municipios, no podrán realizar adquisiciones de inmuebles sin la previa justificación ante la Secretaría.
 
-### CAPÍTULO VI. De los Subsidios y Donativos
+### CAPÍTULO V. De los Servicios Personales
 
 ###### ARTÍCULO 58.
 
@@ -978,7 +1024,7 @@ La acción para exigir el pago de las remuneraciones prescribirá en un año, co
 
 La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. De los Subsidios y Donativos
 
 ###### ARTÍCULO 66.
 
@@ -1052,7 +1098,7 @@ Las dependencias y entidades que reciban donativos en dinero deberán enterar lo
 
 ## TÍTULO CUARTO. Transferencias a Municipios
 
-### CAPÍTULO I. De la Información y Transparencia
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 71.
 
@@ -1090,7 +1136,7 @@ Las dependencias o entidades que requieran suscribir convenios con los municipio
 
 ## TÍTULO QUINTO. De la Información, Transparencia y Evaluación
 
-### CAPÍTULO II. De la Evaluación
+### CAPÍTULO I. De la Información y Transparencia
 
 ###### ARTÍCULO 73.
 
@@ -1126,9 +1172,7 @@ Para los efectos del párrafo anterior, los ejecutores del gasto remitirán a su
 
 Con el objeto de mejorar la transparencia y rendición de cuentas en el ejercicio del gasto, la Secretaría, mediante firma de convenios con los demás ejecutores del gasto, fortalecerá las acciones de coordinación para evaluar el correcto uso de los recursos públicos, para lo cual deberá establecer programas que contribuyan a implementar mecanismos para mejorar los sistemas de evaluación, transparencia y eficiencia en el ejercicio del gasto en todos los niveles de gobierno, conforme a los principios del artículo 2° de la presente Ley.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO II. De la Evaluación
 
 ###### ARTÍCULO 77.
 
@@ -1171,6 +1215,10 @@ En la elaboración de los anteproyectos de presupuesto a los que se refiere el a
 Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
 
 ## TÍTULO SEXTO. De las Sanciones e Indemnizaciones
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1413,6 +1461,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 27 DE FEBRERO DE 2021.
 
 [N . DE E. TRANSITORIOS DEL “DECRETO 1123.- SE REFORMA EL ARTÍCULO 34 Y DEROGA DEL ARTÍCULO 3º LA FRACCIÓN VII, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 33 LA FRACCIÓN III, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1258.- SE ADICIONA AL TÍTULO PRIMERO EL CAPÍTULO III “DEL BALANCE PRESUPUESTARIO SOSTENIBLE DEL ESTADO Y LOS MUNICIPIOS” CON SUS ARTÍCULOS 23 BIS, 23 TER, 23 QUÁTER Y 23 QUINQUE, DE Y A LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
