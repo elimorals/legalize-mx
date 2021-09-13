@@ -4,7 +4,7 @@ identifier: "SLP-codigo-procesal-administrativo-para-el-estado-de-san-luis-12264
 country: "mx"
 rank: "codigo"
 publication_date: "2017-07-18"
-last_updated: "2019-10-03"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de julio de 2017.
 
@@ -547,9 +547,13 @@ Los interesados en un procedimiento administrativo tendrán derecho de conocer, 
 
 Tratándose de personas distintas a las señaladas en el párrafo anterior, su acceso a la información estará regulado conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, y a los acuerdos y lineamientos generales vinculados a su aplicación, expedidos por la autoridad competente para ello.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 54.
 
-Los interesados podrán solicitar que les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en que se actúa, salvo en los casos a que se refiere el artículo anterior.
+Las partes podrán solicitar que les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en que se actúa, salvo en los casos a que se refiere el artículo anterior.
+
+De igual modo y, previa autorización, se podrá autorizar el uso de las innovaciones tecnológicas que permitan de una manera más ágil a las partes, el acceso a las constancias que obran en el expediente o toca, mediante la utilización de cámaras fotográficas, grabadoras, lectores ópticos u otro medio electrónico de reproducción portátil, para copiar o reproducir el contenido de las actuaciones o resoluciones que obran en ellos. Debiendo observarse, desde luego, lo previsto en la parte final del párrafo anterior.
 
 ### Capítulo V. Pruebas
 
@@ -2564,3 +2568,11 @@ P.O. 3 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1260.- SE REFORMA EL ARTÍCULO 54, DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
