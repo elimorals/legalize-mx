@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2018-07-30"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -171,6 +171,10 @@ I. La elaboración de diagnósticos en materia de igualdad;
 
 II. El establecimiento de Consejos Generales de Planeación para la Agenda de Género y la creación de las Unidades Institucionales para la Igualdad entre Mujeres y Hombres;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II Bis. Valoración de las circunstancias particulares del contexto social donde hayan de aplicarse, así como al seguimiento oportuno y constante de las mismas;
+
 III. Estrategias especializadas en los diferentes ámbitos de desarrollo; y
 
 IV. La elaboración de políticas públicas.
@@ -223,7 +227,9 @@ III. Impulsar la vinculación interinstitucional en el marco de la Comisión de 
 
 IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal; y
 
-V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, deportiva, cultural y civil.
 
 ###### Artículo 12.
 
@@ -241,7 +247,9 @@ Corresponde al Ejecutivo Estatal, sin perjuicio de las atribuciones que tiene co
 
 I. Conducir y determinar la Política Estatal de Igualdad;
 
-II. Diseñar, aprobar e implementar las políticas públicas en la materia, conforme a las disposiciones de esta ley;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II. Diseñar, aprobar e implementar las políticas públicas en la materia, debidamente armonizadas con el Programa Estatal de Igualdad, conforme a las disposiciones de esta ley;
 
 III. Aprobar el Programa Estatal de Igualdad;
 
@@ -291,9 +299,35 @@ IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su 
 
 X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
 
-XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
 
 XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Impulsar liderazgos igualitarios;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Establecer medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas y campañas informativas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Establecer medidas para fortalecer el acceso de las mujeres a sus derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, y su participación en el desarrollo rural y en sus beneficios; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Promover la participación de las mujeres rurales.
 
 ### CAPÍTULO TERCERO. DE LA COMISIÓN DE IGUALDAD Y NO DISCRIMINACIÓN
 
@@ -461,9 +495,25 @@ I Bis. La inclusión en los presupuestos y puntual aplicación de fondos para la
 
 I Ter. El fomento de políticas públicas con perspectiva de género en materia económica.
 
-II. Efectuar las acciones para el acceso igualitario a procesos productivos; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-III. Establecer programas para la promoción de la igualdad en el trabajo.
+II. Efectuar las acciones para el acceso igualitario a procesos productivos;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Establecer programas para la promoción de la igualdad en el trabajo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Impulsar liderazgos igualitarios;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Establecimiento de medidas bajo los principios de igualdad y no discriminación en las condiciones de trabajo entre mujeres y hombres, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 
 ###### Artículo 23.
 
@@ -473,9 +523,35 @@ I. Establecer lineamientos que aseguren la igualdad en la contratación del pers
 
 II. Establecer acciones de capacitación, educación y formación que favorezcan la no discriminación;
 
-III. Fomentar el acceso al trabajo en un entorno laboral que garantice el trato digno y la no discriminación; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Fomentar el acceso al trabajo en un entorno laboral que garantice el trato digno y la no discriminación;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 IV. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que desarrollen buenas prácticas de igualdad en contratación y asignaciones salariales.
+
+Para la expedición del certificado a empresas se observará lo siguiente:
+
+a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+b) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género.
+
+c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Evitar la segregación de las personas del mercado de trabajo en razón de su sexo, preferencia o identidad sexual.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD SOCIAL Y CULTURAL ENTRE MUJERES Y HOMBRES
 
@@ -513,9 +589,9 @@ Serán objetivos de la Política de Igualdad en materia de derechos sociales y c
 
 I. Contribuir a eliminar los roles tradicionalmente asignados a los géneros, que impiden alcanzar la igualdad sustantiva entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-I Bis. Mantener permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género;
+I. Bis. Mantener permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género; incluyendo de manera permanente la sensibilización y capacitación en materia de igualdad y equidad de género.
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -798,3 +874,9 @@ P.O. 30 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 457 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 749 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
