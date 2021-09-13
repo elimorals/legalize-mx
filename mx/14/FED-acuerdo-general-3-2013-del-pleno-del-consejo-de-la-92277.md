@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-08-27"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -183,9 +183,9 @@ IV. CUARTO CIRCUITO:
 
 2. Cuatro Tribunales Unitarios: tres con residencia en Monterrey y uno especializado en Materia Penal, con residencia en Cadereyta, todos en el Estado de Nuevo León.
 
-> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 11/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2021)</small>
 
-3. Catorce juzgados de Distrito especializados en el Estado de Nuevo León: seis en materia penal, tres en materia administrativa y cinco en materias civil y de trabajo, todos con residencia en Monterrey.
+3. Trece juzgados de Distrito especializados en el Estado de Nuevo León: cinco en materia penal, tres en materia administrativa y cinco en materias civil y de trabajo, todos con residencia en Monterrey.
 
 V. QUINTO CIRCUITO:
 
@@ -8404,3 +8404,17 @@ CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gesti�
 QUINTO. La Dirección General de Tecnologías de la Información deberá asegurar la dotación de los equipos de cómputo para el Quinto Tribunal Colegiado en Materia de Trabajo del Cuarto Circuito que inicia funciones.
 
 SEXTO. El personal de la Administración Regional apoyará para el traslado de los asuntos que por turno corresponda conocer al Quinto Tribunal Colegiado en Materia de Trabajo del Cuarto Circuito que inicia funciones.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS “ACUERDO GENERAL 11/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN MATERIA PENAL EN EL ESTADO DE NUEVO LEÓN, CON RESIDENCIA EN MONTERREY; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DEL CITADO ÓRGANO JURISDICCIONAL; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA MATERIA Y SEDE INDICADA; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]</small>
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección General de Gestión Judicial y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionan con el cumplimiento de este Acuerdo.
+
+QUINTO. La Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Penal en el Estado de Nuevo León, fijará en lugar visible un aviso que contenga el origen y destino de los asuntos del órgano jurisdiccional que concluye funciones para consulta de los interesados.
