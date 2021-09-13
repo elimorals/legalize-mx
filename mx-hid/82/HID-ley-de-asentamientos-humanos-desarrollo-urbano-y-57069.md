@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2018-05-14"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -86,6 +86,10 @@ IV.- Las acciones tendientes a crear la reserva territorial para la construcció
 Para los efectos de esta Ley, se entiende por:
 
 I.- Acción urbana: El proceso de aprovechamiento, acondicionamiento y utilización del territorio para el asentamiento humano, mediante la introducción o mejoramiento de infraestructura, equipamiento y servicios, así como por el fraccionamiento, urbanización, fusión, subdivisión, lotificación, relotificación, edificación, cambio de régimen a propiedad en condominio u otros tendientes a la transformación, uso o aprovechamiento del suelo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I BIS. Áreas verdes y espacios libres: Los jardines, parques, plazas públicas, áreas deportivas y de esparcimiento destinadas dentro de un fraccionamiento;
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -1959,7 +1963,9 @@ IV.- Otorgar las garantías conducentes, a efecto de asegurar la ejecución adec
 
 V.- Inscribir en el Registro Público de la Propiedad y del Comercio la autorización respectiva y sus planos correspondientes;
 
-VI.- Ceder a título gratuito al Municipio, superficies de terreno para vías públicas, áreas verdes y áreas de donación en los términos previstos por esta Ley;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Ceder a título gratuito al Municipio, superficies de terreno para vías públicas, áreas verdes, espacios libres y áreas de donación en los términos previstos por esta Ley. Una vez recepcionadas por el Municipio, estás áreas no podrán ser sujetas de venta, permuta, cesión, donación, comodato o cualquier acto de enajenación;
 
 VII.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerdo con lo dispuesto en la Legislación Fiscal Estatal y Municipal;
 
@@ -1968,6 +1974,10 @@ VIII.- Construir el equipamiento urbano necesario que le haya sido señalado en 
 IX.- Construir las redes de infraestructura necesarias para el acercamiento de los servicios públicos de la acción urbana autorizada; y
 
 X.- Las demás que establezca la reglamentación respectiva.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 156 BIS. En camellones y guarniciones de los diferentes tipos de fraccionamientos, se deberán colocar zonas arboladas, preferentemente con flora nativa de la zona en cuestión.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -2079,9 +2089,11 @@ Las disposiciones reglamentarias de construcción, operación y mantenimiento de
 
 Toda obra, construcción o edificación que se realice en el Territorio del Estado requerirá de un proyecto ejecutivo y de la licencia de construcción, de acuerdo con la zonificación establecida en los programas que integran el Sistema y conforme a las disposiciones reglamentarias de esta Ley y las expedidas por el Municipio.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 169.
 
-Las disposiciones reglamentarias de este ordenamiento establecerán las normas técnicas para lograr la satisfacción de los requerimientos de funcionamiento, higiene, seguridad, estabilidad, emergencias, acceso en los inmuebles y edificaciones, siendo su objetivo principal el bienestar y seguridad de sus ocupantes.
+Las disposiciones reglamentarias de este ordenamiento establecerán las normas técnicas para lograr la satisfacción de los requerimientos de funcionamiento, higiene, seguridad, estabilidad, emergencias, áreas verdes, espacios libres, acceso en los inmuebles y edificaciones, siendo su objetivo principal el bienestar y seguridad de sus ocupantes.
 
 ###### ARTICULO 170.
 
@@ -2564,3 +2576,11 @@ P.O. 14 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 434 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 775 QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
