@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2020-12-15"
+last_updated: "2021-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -799,7 +799,9 @@ VI. Haber sido seleccionado a través del concurso de méritos correspondiente, 
 
 Además de las atribuciones que les corresponden por materia, son atribuciones de los Jueces y Juezas del fuero común, con excepción de lo previsto en el Artículo 79 de la presente Ley:
 
-I. Substanciar y resolver los litigios de su competencia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I. Substanciar y resolver los litigios de su competencia, acompañando las sentencias con Formato de Lectura Fácil, cuando sea procedente;
 
 II. Cumplir y hacer cumplir, sin demora y con estricto apego a la Ley, sus propias determinaciones, las del Tribunal Superior de Justicia y, en su caso, las de las Autoridades Judiciales de la Federación;
 
@@ -2451,6 +2453,14 @@ Los Magistrados, las Magistradas, Consejeros, Consejeras de la Judicatura, Juece
 
 El ingreso y la promoción de los servidores públicos del Poder Judicial, en su caso, se harán mediante los concursos de opisición (sic), los procesos de selección, los exámenes de aptitud y demás medios que al efecto se señalen, siempre, regidos por los principios de independencia, imparcialidad, profesionalismo, excelencia, objetividad, y antigüedad.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 155 BIS.- Además de los requisitos establecidos para el ingreso y la promoción de las personas servidoras públicas del Poder Judicial, las mismos (sic) deberán cumplirá (sic) con:
+
+I. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente con el pago, cancele esa deuda o tramite el descuento correspondiente; y
+
+II. No estar condenada o condenado por delitos contra la libertad y el normal desarrollo psicosexual y de los derechos reproductivos, delitos en los que concurran razones de género en su comisión o por el delito de violencia familiar.
+
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 156.
@@ -2796,3 +2806,9 @@ P.O. 15 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 530, QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20, EL PÁRRAFO TERCERO DEL ARTÍCULO 30 Y EL ARTÍCULO 33 FRACCIÓN III; Y SE ADICIONA LA FRACCIÓN IV BIS DEL ARTÍCULO 18 Y LA FRACCIÓN IX BIS DEL ARTÍCULO 20 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 761 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 52 Y SE ADICIONA EL ARTÍCULO 155 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO; SE REFORMA EL ARTÍCULO 46 PÁRRAFO PRIMERO Y 66 PÁRRAFO PRIMERO, DE LA LEY DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
