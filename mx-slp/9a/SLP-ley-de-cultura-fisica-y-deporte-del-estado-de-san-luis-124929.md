@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2021-04-10"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -61,7 +61,9 @@ II. Elevar, por medio de la activación física, la cultura física y el deporte
 
 III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a este fin;
 
-IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud y prevención de enfermedades;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud y prevención de enfermedades, así como la prevención de las adicciones y el consumo de las sustancias psicoactivas;
 
 V. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la prevención del delito;
 
@@ -1446,5 +1448,13 @@ P.O. 10 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1154.- SE REFORMA EL ARTÍCULO 130 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 130 LA FRACCIÓN VI, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1248.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 2°, DE (SIC) LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
