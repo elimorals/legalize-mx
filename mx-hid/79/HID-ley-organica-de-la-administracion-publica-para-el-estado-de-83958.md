@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2021-08-16"
+last_updated: "2021-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -45,7 +45,9 @@ SEGUNDO.- El asunto de cuenta, se registró en el Libro de Gobierno de la Primer
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -242,6 +244,10 @@ Cuando exista duda sobre la competencia en algún asunto, el Gobernador del Esta
 ###### Artículo 19.
 
 Al frente de cada dependencia del Poder Ejecutivo habrá un titular, quien para el despacho de los asuntos de su competencia, se auxiliará por las unidades administrativas que establezcan el reglamento interior respectivo, el manual de organización y demás disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Las dependencias del Poder Ejecutivo no podrán estar sin Titular por más de treinta días hábiles.
 
 ###### Artículo 20.
 
@@ -1936,3 +1942,9 @@ P.O. 16 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 724 QUE REFORMA Y ADICIONA, DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 773 MEDIANTE EL CUAL SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
