@@ -4,7 +4,7 @@ identifier: "HID-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8928
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2016-12-31"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -469,7 +469,9 @@ Las convocatorias para la celebración de asambleas generales se harán de acuer
 
 I.- La convocatoria deberá indicar el tipo de asamblea de que se trate, lugar en donde se realizará dentro del condominio, o en su caso el establecido por el reglamento correspondiente, así como la fecha y hora en que se celebrará, incluyendo el orden del día y quien convoca;
 
-II.- Los condóminos o sus representantes serán notificados mediante la entrega de la convocatoria respectiva en la unidad de propiedad exclusiva. Además el convocante colocará la convocatoria en uno o más lugares visibles del condominio o en los establecidos en el reglamento de que se trate;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Los condóminos o sus representantes serán notificados mediante la entrega de la convocatoria respectiva en la unidad de propiedad exclusiva o mediante correo electrónico o medio digital que haya indicado. Además, el convocante colocará la convocatoria en uno o más lugares visibles del condominio, en las páginas electrónicas oficiales si las tuvieren, o en los establecidos en el reglamento de que se trate;
 
 III.- Podrán convocar a asamblea de acuerdo a lo que establece esta Ley:
 
@@ -987,7 +989,9 @@ Para la imposición de las sanciones y para emitir sus resoluciones, las autorid
 
 La Asamblea podrá resolver en una reunión especial convocada para tal efecto, y por acuerdo de quienes representen un mínimo del 51% del valor del inmueble, que se tomen las siguientes medidas:
 
-I.- Iniciar las acciones civiles correspondientes para exigir al condómino que incumpla con Las obligaciones establecidas en la presente Ley, o las contenidas en la Escritura Constitutiva o en los acuerdos de la propia Asamblea, el cumplimiento forzoso de dichas obligaciones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Acudir a la justicia Alternativa o Iniciar directamente las acciones civiles correspondientes para exigir al condómino que incumpla con las obligaciones establecidas en la presente Ley, o las contenidas en la Escritura Constitutiva o en los acuerdos de la propia Asamblea, el cumplimiento forzoso de dichas obligaciones;
 
 II.- En caso de que dicho incumplimiento sea reiterado o grave, se podrá demandar ante Juez Civil, la imposición de las sanciones pecuniarias que se hubieren previsto, las cuales podrán llegar incluso hasta la enajenación del inmueble y la rescisión del contrato que le permite ser condómino; y
 
@@ -1040,3 +1044,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 753 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 35 Y LA FRACCIÓN I DEL ARTÍCULO 84; DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
