@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-del-delito-para-el-estado-de-hidalgo-71127"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2020-07-20"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de diciembre de 2009.
 
@@ -87,11 +87,17 @@ III.- Prevención terciaria, que comprende medidas para prevenir la reincidencia
 
 Las estrategias de prevención del delito abarcarán tres formas:
 
-I.- Prevención situacional, que consiste en modificar el entorno para eliminar las condiciones que facilitan la delincuencia.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-II.- Prevención social, que consiste en programas de carácter social dirigidos a grupos en riesgo, y tiene como propósito reducir los factores criminógenos mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento de la familia, la educación, la salud y el desarrollo social, urbano y económico.
+I.- Prevención situacional, que consiste en modificar el entorno urbano, ambiental y tecnológico, para propiciar la convivencia, la cohesión y esparcimiento social y eliminar las condiciones que propician y facilitan la delincuencia;
 
-III.- Prevención comunitaria, que tiene por objeto promover la participación de la comunidad en acciones tendientes a mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y solución de los conflictos a través de los medios de justicia alternativa.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Prevención social, que consiste en programas de carácter social dirigidos a grupos en riesgo, y tiene como propósito reducir los factores criminógenos mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento y protección de la familia para evitar su desintegración, la prevención de adicciones, la educación, el deporte, la cultura, la vivienda, la salud y el desarrollo social, urbano y económico; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Prevención comunitaria, que tiene por objeto promover la participación ciudadana y comunitaria en acciones tendientes a establecer prioridades de la prevención, mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y solución de los conflictos a través de los medios de justicia alternativa, así como, el impulso de las actividades de las organizaciones de la sociedad civil.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE PREVENCIÓN DEL DELITO
 
@@ -350,3 +356,9 @@ P.O. 20 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 411 QUE ADICIONA EL ARTÍCULO 13 BIS DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 757 QUE REFORMA, DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
