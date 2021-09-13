@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2021-05-10"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -523,7 +525,9 @@ II.- Atención médica de primer contacto, dotación de aparatos funcionales, ca
 
 III.- Superación de la pobreza, atención a personas en situación de vulnerabilidad como indígenas, niños en estado de abandono, madres solteras, jornaleros agrícolas y en general toda persona en situación desfavorable por razón de edad, sexo o grupo étnico;
 
-IV.- Obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Obras de infraestructura para agua potable, drenaje, electrificación; caminos y otras vías de comunicación, incluido el recubrimiento de calles, banqueta, guarnición y rampa para silla de ruedas, comprendidos los carriles para ciclistas; el saneamiento ambiental; el equipamiento urbano, incluyendo de manera enunciativa más no limitativa, parques, jardines y juegos infantiles; así como, mobiliario urbano abarcando el alumbrado público, arborización de calles y letrero con nombre de la calle, colonia o localidad y código postal;
 
 V.- Salud;
 
@@ -1352,3 +1356,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO.- Las autoridades competentes tendrán un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor para realizar la armonización con relación al presente Decreto.
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, deberán contemplarse a más tardar en el ejercicio fiscal 2022, quedando sujeto a la disponibilidad presupuestaria anual que se apruebe, así como a lo establecido en los convenios, acuerdos, planes, programas y normatividad vigente.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 766 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del primero de enero de 2022.
