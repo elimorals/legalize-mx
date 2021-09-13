@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2020-08-17"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -1069,6 +1069,10 @@ Además de lo anterior, los propietarios, poseedores, administradores de estable
 
 En todos los lugares a que se refiere el Artículo anterior, deberán colocarse en sitios visibles y accesibles, equipos de seguridad, señales preventivas, indicativas, prohibitivas, restrictivas e informativas, luces y equipo reglamentario según el caso, instructivos, manuales para situaciones de emergencia, los cuales consignarán las reglas y orientaciones que deberán observarse antes, durante y después del algún siniestro o desastre, así como señalar las zonas de seguridad y rutas de evacuación.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+La señalización con información de protección civil, a que se refiere el párrafo anterior, estará complementado (sic) con el sistema de escritura Braille, con base a las disposiciones de las normas oficiales.
+
 ###### Artículo 82.
 
 Las Autoridades Federales, Estatales y Municipales auxiliarán a los inspectores y supervisores, para el eficaz desempeño de sus funciones, cuando así lo soliciten.
@@ -1154,3 +1158,13 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los plazos establecidos en el presente Decreto, para la elaboración de los Atlas de Riesgo, empezarán a correr hasta que los Ayuntamientos Constitucionalmente electos entren en funciones.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 770 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 81 A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se establece un plazo de noventa días hábiles para que el Ejecutivo estatal expida los Lineamientos de Señalización de Protección Civil en Sistema de escritura Braille.
+
+TERCERO.- La señalización mandatada en el presente Decreto deberá colocarse a más tarda (sic) en un plazo no mayor a 180 días hábiles, contados a partir de la publicación (sic) los Lineamientos de Señalización de Protección Civil en Sistema de escritura Braille.
