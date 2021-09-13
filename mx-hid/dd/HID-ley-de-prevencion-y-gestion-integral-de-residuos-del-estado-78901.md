@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2021-01-20"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -527,6 +527,12 @@ Estos planes de manejo deberán ser acordes a lo previsto en la Ley General y en
 
 Las autoridades competentes de los dos órdenes de gobierno, podrán promover el desarrollo de proyectos, estudios y diagnósticos para identificar las necesidades a satisfacer, para instrumentar planes de manejo sobre residuos sólidos urbanos y de manejo especial, según corresponda, antes de proponer la inclusión de otros residuos en los listados de residuos sujetos a planes de manejo. En este caso, incentivarán a productores, comercializadores y generadores de los mismos, a formular e instrumentar planes de manejo piloto y, conjuntamente, seleccionarán las localidades en las que se establecerán para probar su eficacia y eficiencia antes de implantarlos en todo el Estado de Hidalgo.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 29 Bis.
+
+La Secretaría y los Municipios, de manera conjunta y respetando el ámbito de competencia, realizarán los proyectos de colocación de contenedores diferenciados en la vía pública y áreas comunes, para depositar las heces de animales de compañía y mascotas, a efecto de ser tratadas y manejadas de manera adecuada.
+
 ###### Artículo 30.
 
 De acuerdo con lo que establece la Ley General, serán responsables de la formulación y ejecución de los planes de manejo, según corresponda: los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que, al desecharse, se convierten en los residuos sólidos urbanos o de manejo especial, que se incluyan en los listados de residuos sujetos a planes de manejo, de conformidad con las normas oficiales mexicanas correspondientes.
@@ -951,7 +957,9 @@ La recolección de residuos sólidos urbanos en las etapas de barrido de las ár
 
 La recolección a la que hace referencia este artículo, será realizada por trabajadores de los servicios de limpia dotados de carros en los que depositarán los residuos. Este servicio será exclusivo para este fin, estando prohibido que se destine a la recolección de residuos domiciliarios o de otra índole diferente a la establecida por las autoridades competentes; salvo que dichas autoridades lo consideren pertinente en casos fundados y motivados.
 
-Las autoridades correspondientes deberán instalar contenedores en la vía pública en cantidad suficiente y debidamente distribuidos, que permitan la disposición de los residuos sólidos urbanos provenientes de las fuentes a las que aplica este artículo y, de ser el caso, contarán con contenedores distintos que permitan la segregación de los residuos de conformidad con los programas que para tal fin se establezcan. Dichos contenedores deberán estar tapados, recibir mantenimiento periódico y ser vaciados con la debida regularidad, conforme lo dispongan los ordenamientos legales correspondientes.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Las autoridades correspondientes deberán instalar contenedores diferenciados en la vía pública o áreas comunes en cantidad suficiente y debidamente distribuidos, que permitan la disposición de los residuos sólidos urbanos provenientes de las fuentes a las que aplica este artículo y, de ser el caso, contarán con contenedores distintos que permitan la segregación de los residuos de conformidad con los programas que para tal fin se establezcan. Dichos contenedores deberán estar tapados, recibir mantenimiento periódico y ser vaciados con la debida regularidad, conforme lo dispongan los ordenamientos legales correspondientes.
 
 ###### Artículo 67.
 
@@ -1474,3 +1482,11 @@ P.O. 20 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 771 QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría y los Municipios, en un plazo no mayor a noventa días contados a partir de la entrada en vigor de este Decreto, deberán instalar los contenedores diferenciados, conforme a lo dispuesto en la presente Ley.
