@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2020-10-26"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -161,9 +161,11 @@ XXIV. Vivienda de Tipo Residencial Medio: Aquélla cuyo valor al término de su 
 
 ### CAPÍTULO I. DE LOS LINEAMIENTOS
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 4.
 
-Los principios que regirán en la observancia de esta Ley son: la equidad e inclusión social; el respeto a la legalidad y protección jurídica de la propiedad y el combate a la invasión de predios y al crecimiento irregular de las ciudades y zonas rurales.
+Los principios que regirán en la observancia de esta Ley son: la equidad e inclusión social de manera que, toda persona sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil, pueda ejercer su derecho constitucional a la vivienda; el respeto a la legalidad y protección jurídica de la propiedad y el combate a la invasión de predios y al crecimiento irregular de las ciudades y zonas rurales.
 
 ###### Artículo 5.
 
@@ -623,6 +625,10 @@ II. Generar los fondos que garanticen la administración y recuperación de los 
 
 III. Que los beneficiarios, puedan cubrir sus créditos en los términos y porcentajes establecidos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Así como avalar la seguridad estructural, la accesibilidad y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados, con objeto de brindar una mejor calidad de vida a los ocupantes de las viviendas.
+
 ###### Artículo 33.
 
 El Estado promoverá ante instituciones financieras públicas y privadas, el otorgamiento de créditos a sectores específicos de la población, que no se encuentren afiliados a algún régimen de seguridad social, mediante un esquema de ahorro previo que garantice el acceso al crédito.
@@ -631,9 +637,11 @@ Para tal efecto, el Estado concertará con las instituciones del sector financie
 
 ### CAPÍTULO III. ESTÍMULOS A LA VIVIENDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-El Estado y los Municipios concederán a través de sus dependencias y entidades, los beneficios, estímulos y facilidades que se consignan en esta Ley, así como los contenidos en otras disposiciones legales y administrativas vigentes.
+El Estado y los Municipios promoverán que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente actualizadas las disposiciones legales, normas oficiales mexicanas, códigos de procesos de edificación y reglamentos de construcción, que contengan los requisitos técnicos que garanticen la seguridad estructural, la accesibilidad, habitabilidad y sustentabilidad de toda vivienda y que definan responsabilidades generales de su producción.
 
 Dichos beneficios, estímulos y facilidades serán previstos por el Estado a través de la iniciativa de Ley de Ingresos del Estado o del instrumento jurídico que emita, a efecto de incentivar el mejoramiento de viviendas, así como la producción de vivienda popular, económica y de interés social.
 
@@ -1050,3 +1058,9 @@ P.O. 26 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 743 QUE REFORMA EL ARTÍCULO 4; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
