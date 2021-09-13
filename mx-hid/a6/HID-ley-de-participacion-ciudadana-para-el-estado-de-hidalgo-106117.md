@@ -4,7 +4,7 @@ identifier: "HID-ley-de-participacion-ciudadana-para-el-estado-de-hidalgo-106117
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2015-02-16"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -110,6 +110,10 @@ Se CREA La Ley de Participación Ciudadana para el Estado de Hidalgo, para queda
 ###### ARTÍCULO 1.
 
 Las disposiciones de esta Ley, son de orden e interés público y de observancia general, en materia de Participación Ciudadana.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+Para los efectos de la presente Ley, la participación ciudadana es una forma de democracia directa y participativa, que reconoce el derecho de las personas a incidir en las decisiones y el control de la función pública y en los procesos de toma de decisiones sobre asuntos que resulten trascendentales para la población.
 
 Este ordenamiento tiene por objeto fomentar, promover, regular y establecer los instrumentos, que permitan la organización y funcionamiento de la participación ciudadana a través de las figuras de Iniciativa Ciudadana, Consulta Popular y Audiencia Pública, con estricto apego a las disposiciones de la Constitución Política del Estado de Hidalgo y del Código Electoral del Estado de Hidalgo.
 
@@ -752,3 +756,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS CATORCE DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL QUINCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 754 QUE ADICIONA EL SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 1 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
