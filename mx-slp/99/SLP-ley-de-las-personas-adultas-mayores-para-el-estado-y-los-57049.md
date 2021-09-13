@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2021-05-20"
+last_updated: "2021-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -397,15 +397,29 @@ VII. Las demás que establezca el Reglamento de esta Ley.
 
 Los ayuntamientos del Estado, las secretarías, organismos públicos descentralizados, desconcentrados y organismos autónomos competentes, trabajarán coordinadamente mediante convenios que al efecto celebren con el INAPAM, para crear, planear, establecer y dar seguimiento a las políticas públicas necesarias para las personas adultas mayores.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-ARTÍCULO 11 BIS. La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, teniendo las siguientes obligaciones para con ellos;
+ARTÍCULO 11 BIS. La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de mantener y preservar su calidad de vida, teniendo las siguientes obligaciones para con ellos:
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
 I. Satisfacer sus necesidades y cuidarlos en su condición de personas adultas mayores, de enfermedad, o del estado de interdicción en el que se encuentren;
 
-II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-III. Evitar actos de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo la persona, bienes y derechos del adulto mayor.
+II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+III. Evitar actos de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo la persona, bienes y derechos del adulto mayor;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Otorgar alimentos de conformidad con lo establecido en el Código Familiar para el Estado de San Luis Potosí, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
+V. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares.
 
 ### CAPITULO II. Consejo Interinstitucional Gerontológico
 
@@ -1292,5 +1306,13 @@ P.O. 20 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1172.- SE ADICIONA AL ARTÍCULO 12 EN SU FRACCIÓN III EL INCISO S), DE (SIC) LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1252.- SE REFORMA EL ARTÍCULO 11 BIS EN SU PÁRRAFO PRIMERO, ASÍ COMO EN SUS FRACCIONES II Y III Y ADICIONA, AL MISMO ARTÍCULO 11 BIS LAS FRACCIONES IV Y V, DE (SIC) LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
