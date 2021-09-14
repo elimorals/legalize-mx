@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-gran-sorteo-especial-248-con-premios-en-149713"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-07"
-last_updated: "2021-06-07"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2021-05-14"
 ---
 # REGLAMENTO DEL GRAN SORTEO ESPECIAL 248, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2021 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL GRAN SORTEO ESPECIAL 248, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 14 DE SEPTIEMBRE DE 2021.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 7 de junio de 2021.
 
@@ -57,7 +57,9 @@ f) Emisión. Total de billetes que Lotería Nacional genera para su venta por so
 
 g) Estructura de Premios. Forma que detalla el reparto de los premios del Sorteo. Sirve como soporte del Calendario de sorteos aprobado por el Consejo Directivo.
 
-h) INDEP. Instituto Nacional para Devolver al Pueblo lo Robado
+> <small>(F. DE E., D.O.F. 14 DE SEPTIEMBRE DE 2021)</small>
+
+h) INDEP. Instituto para Devolver al Pueblo lo Robado
 
 i) Premio Especial, Se refiere a los derechos de uso y acceso del Palco en el Estadio Azteca, con capacidad para 20 (veinte) personas, 4 (cuatro) estacionamientos y con vencimiento hasta el año 2065;
 
