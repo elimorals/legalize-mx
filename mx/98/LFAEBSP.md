@@ -4,7 +4,7 @@ identifier: "LFAEBSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-12-19"
-last_updated: "2020-01-22"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26816&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAEBSP"
 
 LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de diciembre de 2002.
 
@@ -590,7 +590,9 @@ Los procedimientos de enajenación serán los siguientes:
 
 I.- Donación,
 
-II.- Compraventa, que incluye la permuta y cualesquiera otras formas jurídicas de transmisión de la propiedad, a través de licitación pública, subasta, remate o adjudicación directa.
+> <small>(REFORMADA, D.O.F. 14 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Compraventa, que incluye la permuta y cualesquiera otras formas jurídicas de transmisión de la propiedad, a través de licitación pública, subasta, remate, sorteo o adjudicación directa.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
@@ -690,9 +692,17 @@ I.- Licitación Pública;
 
 II.- Subasta;
 
-III.- Remate, o
+> <small>(REFORMADA, D.O.F. 14 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- Adjudicación directa.
+III.- Remate;
+
+> <small>(REFORMADA, D.O.F. 14 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Adjudicación directa, o
+
+> <small>(ADICIONADA, D.O.F. 14 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Sorteo.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
@@ -1677,3 +1687,9 @@ D.O.F. 22 DE ENERO DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+
+D.O.F. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 132 DE LA LEY GENERAL DE BIENES NACIONALES, Y LOS ARTÍCULOS 31 Y 38 DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
