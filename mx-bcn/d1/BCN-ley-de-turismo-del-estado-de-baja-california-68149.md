@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2021-08-06"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -667,25 +667,29 @@ Para los efectos del Artículo anterior, la Secretaría promoverá la celebraci�
 
 #### SECCIÓN SEGUNDA. DEL TURISMO ACCESIBLE
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 50 BIS.- La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad y a las personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 50 TER.- Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad y las adultas mayores cuenten con accesibilidad a los servicios en condiciones adecuadas.
+
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
-
-ARTÍCULO 50 BIS.- La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
-
-ARTÍCULO 50 TER.- Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
 
 La misma obligación tendrán las autoridades respecto a los sitios culturales con afluencia turística.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 La Secretaría, el Estado y los Municipios supervisarán que lo dispuesto en este Capítulo se cumpla.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-ARTÍCULO 50 QUARTER.- La Secretaría, considerando la viabilidad técnica, económica y financiera de los Proyectos Turísticos que promuevan organismos o empresas de los sectores social y privado, auxiliará en la gestión de estímulos, para que proporcionen instalaciones y servicios que tengan en cuenta todos los aspectos de accesibilidad para las personas con discapacidad ante las Autoridades Federales, Estatales y Municipales.
+ARTÍCULO 50 QUARTER.- La Secretaría, considerando la viabilidad técnica, económica y financiera de los Proyectos Turísticos que promuevan organismos o empresas de los sectores social y privado, auxiliará en la gestión de estímulos, para que proporcionen instalaciones y servicios que tengan en cuenta todos los aspectos de accesibilidad para las personas con discapacidad y las adultas mayores ante las Autoridades Federales, Estatales y Municipales
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-ARTÍCULO 50 QUINQUIES.- La Secretaría promoverá con los Ayuntamientos en donde se desarrollan actividades turísticas, la celebración de acuerdos destinados a la adopción de las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, así como todos los servicios orientados a la prestación de una atención integral al turista.
+ARTÍCULO 50 QUINQUIES.- La Secretaría promoverá con los Ayuntamientos en donde se desarrollan actividades turísticas, la celebración de acuerdos destinados a la adopción de las medidas pertinentes para asegurar el acceso de las personas con discapacidad y las adultas mayores, en igualdad de condiciones con los demás, así como todos los servicios orientados a la prestación de una atención integral al turista.
 
 ### CAPÍTULO VIII. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO, DE LOS CORREDORES TURÍSTICOS, DE LAS RUTAS TURÍSTICAS Y DE LOS ANDADORES TURÍSTICOS
 
@@ -699,9 +703,11 @@ La Secretaría de Turismo Federal, conjuntamente con la Secretaría de Desarroll
 
 La Secretaría, escuchando a los organismos del sector, conjuntamente con las dependencias involucradas de los tres niveles de gobierno, propondrá, al Ejecutivo Estatal, las Zonas de Desarrollo Turístico Prioritario, determinando las características jurídicas y técnicas para su desarrollo y protección, a efecto de que se expidan las declaratorias correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 53.
 
-La Secretaría, en coordinación con las dependencias y entidades de la administración pública federal y estatal que correspondan, así como con los gobiernos de los municipios y con los sectores social y privado, impulsará la creación o adecuación de la infraestructura que requieran las zonas de desarrollo turístico prioritario, considerando también las necesidades de las personas con discapacidad.
+La Secretaría, en coordinación con las dependencias y entidades de la administración pública federal y estatal que correspondan, así como con los gobiernos de los municipios y con los sectores social y privado, impulsará la creación o adecuación de la infraestructura que requieran las zonas de desarrollo turístico prioritario, considerando también las necesidades de las personas con discapacidad y las adultas mayores.
 
 ###### ARTÍCULO 54.
 
@@ -1358,3 +1364,9 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 252 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 46 DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 292 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 BIS, 50 TER, 50 QUARTER, 50 QUINQUIES Y 53 DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
