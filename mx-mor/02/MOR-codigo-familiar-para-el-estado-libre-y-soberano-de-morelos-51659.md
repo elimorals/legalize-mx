@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2021-04-21"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3433,13 +3433,15 @@ Salvo autorización por escrito del Director General del Registro Civil, queda p
 
 ###### ARTÍCULO 423.
 
-ACTAS DEL REGISTRO CIVIL. Las actas del Registro Civil se asentarán en formatos especiales que se denominarán "Formas del Registro Civil" y serán autorizadas por el Director General del Registro Civil; las inscripciones se harán por triplicado. Deberán contener la Clave Única del Registro de Población.
+ACTAS DEL REGISTRO CIVIL. Las actas del Registro Civil se asentarán en formatos especiales que se denominarán “Formas del Registro Civil” y serán autorizadas por el Director General del Registro Civil; las inscripciones se harán por triplicado. Deberán contener la Clave Única del Registro de Población.
 
 Las actas del Registro Civil sólo pueden asentarse en los formatos a que se refiere este artículo, la infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
 
 El Registro Civil además resguardará las inscripciones, por medios informativos o aquellos que el avance tecnológico ofrezca en una base de datos en la que se produzcan los datos contenidos en las actas asentadas en las formas del Registro Civil que permitan la conservación de los mismos y la certeza sobre su autenticidad.
 
-Estará a cargo de los oficiales del Registro Civil autorizar los actos del estado civil y llevar por duplicado siete libros que contendrán: actas de nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el territorio del mismo; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio, la tutela, o que se ha perdido o limitado la capacidad legal para administrar bienes siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+Estará a cargo de los oficiales del Registro Civil autorizar los actos del estado civil y llevar por duplicado siete libros que contendrán: actas de nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el territorio del mismo; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio, la tutela, o que se ha perdido o limitado la capacidad legal para administrar bienes y las resoluciones que ordenen el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
 
 El Estado Civil solo se comprueba con las constancias relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente aceptados por la ley.
 
@@ -3915,7 +3917,9 @@ El acta en donde se asiente la ejecutoria en que se declare la ausencia o la pre
 
 CANCELACIÓN DEL ACTA CUANDO CESE LA INCAPACIDAD, O SE PRESENTE EL AUSENTE O EL PRESUNTO MUERTO. Cuando se recobre la capacidad legal para administrar bienes o su persona, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-### CAPÍTULO IV. DE LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO IV. DE LA RECTIFICACIÓN, ACLARACIÓN Y RECONOCIMIENTO DE IDENTIDAD DE GÉNERO EN LAS ACTAS DEL REGISTRO CIVIL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
 
@@ -3924,6 +3928,22 @@ CANCELACIÓN DEL ACTA CUANDO CESE LA INCAPACIDAD, O SE PRESENTE EL AUSENTE O EL 
 PROCEDIMIENTO DE RECTIFICACIÓN DE ACTAS DEL REGISTRO CIVIL. La aclaración de actas del Registro Civil procede cuando en el acta existen errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecten la filiación de las personas físicas y deberá tramitarse ante las Oficialías del Registro Civil correspondientes de cada Municipio o ante la unidad responsable del Registro Civil del Poder Ejecutivo Estatal, siendo éste último en ambos casos, quien resolverá la solicitud y remitirá copia certificada de la resolución que recaiga a la Oficialía del Registro Civil correspondiente para su debida inscripción.
 
 En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del Registro Civil, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en los artículos 456 al 461 del Código Procesal Familiar.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 487 BIS.- LEVANTAMIENTO DE UNA NUEVA ACTA DE NACIMIENTO PARA EL RECONOCIMIENTO DE LA IDENTIDAD DE GÉNERO. Pueden solicitar las personas para el reconocimiento de la identidad de género, el levantamiento de una nueva acta de nacimiento por reasignación de concordancia sexo-genérica, previa la anotación correspondiente en su acta de nacimiento primigenia. La copia certificada del acta primigenia será reservada y sólo podrá ser obtenida por el solicitante, autoridades de procuración de justicia, jurisdiccionales o notarios públicos, estos últimos para efecto de trámites hereditarios.
+
+Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así (sic) misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia.
+
+El reconocimiento respectivo se llevará a cabo por una sola ocasión ante las instancias y las autoridades correspondientes del Registro Civil del estado de Morelos cumpliendo todas las formalidades que exige el Reglamento del Registro Civil del Estado de Morelos.
+
+En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico o procedimiento para el reconocimiento de la identidad de género. Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de su levantamiento. Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+Cumplido el trámite, la Dirección General del Registro Civil informará de la modificación a la Secretaría de Gobernación, de Hacienda y Crédito Público, de Educación Pública, de Salud, de Relaciones Exteriores, de Seguridad Pública, a la institución de seguridad social a la que pertenezca el solicitante, al Instituto Nacional Electoral, al Instituto Morelense de Procesos Electorales y Participación Ciudadana, a la Fiscalía General de la República, al Consejo de la Judicatura Federal, al Tribunal Superior de Justicia, a la Fiscalía General, a la Comisión Estatal de Seguridad Pública y al Archivo General de Notarías, estos últimos del estado de Morelos. También se notificará a cualquier otro ente público o privado que considere necesario el solicitante.
+
+En caso de que la Dirección General del Registro Civil advierta la posible comisión de un delito en términos del Título Décimo, Capítulo IV del Código Penal para el Estado de Morelos deberá requerir la intervención que le compete al ministerio público.
+
+La copia certificada del acta reservada, sólo podrá ser obtenida por el solicitante, autoridades de procuración de justicia, jurisdiccionales o notarios públicos, estos últimos para efecto de trámites hereditarios.
 
 # LIBRO SÉPTIMO. DE LAS SUCESIONES
 
@@ -6884,3 +6904,17 @@ PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATRO POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE FACILITAR EL CAMBIO DE IDENTIDAD DE GÉNERO, PARA AJUSTARLA A LA REALIDAD SOCIAL DE CADA PERSONA EN NUESTRO ESTADO".]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su promulgación, sanción y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente reforma, el titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento del Registro Civil del Estado de Morelos, para adecuarlo a las modificaciones contenidas en este Decreto.
+
+CUARTA. Una vez que sea publicado el presente Decreto, se informe a la Cámara de Diputados del Congreso de la Unión, que el Congreso del Estado de Morelos, realizó la reforma necesaria a su Código Familiar para garantizar el derecho al cambio de nombre y documentos de identidad, a través de un procedimiento administrativo ante el Registro Civil, conforme a la identidad de género auto percibida, atendiendo al procedimiento idóneo propuesto por los resolutivos de la Suprema Corte de Justicia de la Nación, y en particular del amparo en revisión 1317/2017.
+
+QUINTA. Se derogan las disposiciones jurídicas de igual o menor grado que se opongan al presente decreto.
