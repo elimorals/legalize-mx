@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-de-asistencia-social-privada-para-107428"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2016-09-02"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -403,9 +403,11 @@ Estas medidas deberán dictarse por escrito, de manera fundada y motivada y debe
 
 La Procuraduría de Protección podrá solicitar el auxilio de la fuerza pública cuando se estime conveniente para cumplir con estas medidas.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 36.
 
-Las inspecciones periódicas deberán llevarse a cabo de conformidad con la planeación que para tales efectos determine la Procuraduría de Protección, la (sic) cuales deberán programarse por lo menos cada seis meses.
+Las inspecciones periódicas deberán llevarse a cabo de conformidad con la planeación que para tales efectos determine la Procuraduría de Protección, la (sic) cuales deberán programarse por lo menos cada tres meses.
 
 ###### Artículo 37.
 
@@ -536,3 +538,9 @@ P.O. 2 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 537 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 291 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
