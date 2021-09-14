@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2021-05-20"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE SEPTIEMBRE DE 2021.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -1824,9 +1824,11 @@ Las enajenaciones a que se refiere este artículo no podrán realizarse a favor 
 
 Los servidores públicos que no se encuentren en los supuestos señalados en el párrafo anterior, podrán participar en las licitaciones públicas de los bienes muebles al servicio de las dependencias o las unidades administrativas de la Presidencia de la República, que éstas determinen enajenar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 132.
 
-Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo, la venta se hará mediante licitación pública. De no lograrse la venta de los bienes a través del procedimiento de licitación pública, se procederá a su subasta en el mismo evento, en los términos que señalen las normas generales que emita la Secretaría.
+Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo, la venta se hará mediante licitación pública. De no lograrse la venta de los bienes a través del procedimiento de licitación pública, se procederá a su subasta en el mismo evento, en los términos que señalen las normas generales que emita la Secretaría. También se podrá enajenar bienes por sorteo.
 
 Para efectos de la subasta se considerará postura legal la que cubra las dos terceras partes del valor base fijado para la licitación. Si en la primera almoneda no hubiere postura legal, se realizará una segunda, deduciendo en ésta un diez por ciento del importe que en la anterior hubiere constituido la postura legal. Si no se lograse la venta en la segunda almoneda, se podrán emplear los procedimientos a que se refiere el párrafo siguiente, considerando para tal efecto como valor base la postura legal de esta última almoneda.
 
@@ -1842,7 +1844,9 @@ El monto de la enajenación no podrá ser inferior a los valores mínimos de los
 
 La enajenación de bienes muebles cuyo valor mínimo no hubiere fijado la Secretaría, en los términos a que se refiere el párrafo anterior, no podrá pactarse por debajo del que se determine mediante avalúo sobre los bienes específicos que practicarán la propia Secretaría, las instituciones de crédito, los corredores públicos o los especialistas en materia de valuación con cédula profesional expedida por autoridad competente.
 
-Lo dispuesto en los dos párrafos anteriores respecto al valor mínimo de venta no será aplicable a los casos de subasta a que se refiere el párrafo segundo de este artículo.
+> <small>(REFORMADO, D.O.F. 14 DE SEPTIEMBRE DE 2021)</small>
+
+Lo dispuesto en los párrafos anteriores respecto al valor mínimo de venta no será aplicable a los casos de sorteo y de subasta a que se refieren los párrafos primero y segundo de este artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
@@ -2299,3 +2303,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 14 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 132 DE LA LEY GENERAL DE BIENES NACIONALES, Y LOS ARTÍCULOS 31 Y 38 DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO”.]</small>
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
