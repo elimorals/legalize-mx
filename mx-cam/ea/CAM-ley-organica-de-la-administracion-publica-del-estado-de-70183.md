@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2021-03-16"
+last_updated: "2021-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -2570,3 +2570,99 @@ SEGUNDO.- La Secretaría de Seguridad Pública de la Administración Pública de
 TERCERO.- En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias en el Reglamento Interior de la Secretaría de Seguridad Pública y demás disposiciones aplicables para el debido cumplimiento de este decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 253 POR EL QUE "SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos legales del presente decreto, el H. Congreso del Estado y el Ejecutivo Estatal tomarán todas las previsiones financieras y presupuestales correspondientes en la Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal 2022.
+
+Las Secretarías y Dependencias continuarán funcionando con su denominación, estructura, organización, presupuesto y atribuciones, tal como lo establece la Ley Orgánica de la Administración Pública del Estado de Campeche vigente hasta el 31 de diciembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente decreto, queda abrogada la Ley Orgánica de la Administración Pública del Estado de Campeche, publicada en el Periódico Oficial del Estado de fecha 14 de septiembre de 2009 y se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+En virtud de que mediante el presente decreto se reasignan parte de las atribuciones de la Secretaría de Administración e Innovación Gubernamental a la Secretaría de Finanzas, deberán transferirse oportunamente a esta Secretaría los recursos humanos, materiales, presupuestales y financieros de las Subsecretarías que correspondan a la nueva Secretaría de Administración y Finanzas, por cuanto a las atribuciones de Administración.
+
+Por lo que respecta a la Subsecretaría de Innovación Gubernamental, deberán transferirse los recursos humanos, materiales, presupuestales y financieros correspondientes a la Secretaría de Modernización Administrativa e Innovación Gubernamental.
+
+En virtud de la transformación de la Secretaría de Planeación a Secretaría de Modernización Administrativa e Innovación Gubernamental, deberán transferirse todos los recursos humanos, materiales, presupuestales y financieros de esa Secretaría a la de nueva creación.
+
+La Unidad de Programas y Proyectos de Inversión Pública del Estado de Campeche deberá adscribirse a la Secretaría de Modernización Administrativa e Innovación Gubernamental, por lo que le serán transferidos todos los recursos presupuestales, financieros, materiales y humanos de dicha unidad a esa Secretaría.
+
+Quedan garantizados los derechos laborales y de seguridad social de las y los servidores públicos que en virtud del presente decreto, se transfieren de una Secretaría a otra.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal deberá crear un organismo descentralizado en materia de artes y cultura, el cual estará constituido por el presupuesto de la Secretaría de Cultura. Este organismo descentralizado deberá crearse a través del Acuerdo correspondiente antes del día 31 de diciembre de 2021.
+
+En el Acuerdo de creación se establecerá el régimen laboral de las y los servidores públicos que le serán adscritos, respetando en su integridad todos sus derechos laborales y de seguridad social.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal deberá crear un organismo descentralizado en materia de patrimonio cultural, el cual estará constituido de conformidad con lo previsto en la Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal 2022. Este organismo descentralizado deberá crearse a través del Acuerdo correspondiente antes del día 31 de diciembre de 2021.
+
+En el Acuerdo de creación se establecerá el régimen laboral de las y los servidores públicos que le serán adscritos, respetando en su integridad todos sus derechos laborales y de seguridad social.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal deberá crear un organismo descentralizado en materia de pesca, que estará constituido por el presupuesto de la Secretaría de Pesca y Acuacultura. Este organismo descentralizado deberá crearse a través del Acuerdo correspondiente antes del día 31 de diciembre de 2021.
+
+En el Acuerdo de creación se establecerá el régimen laboral de las y los servidores públicos que le serán adscritos, respetando en su integridad todos sus derechos laborales y de seguridad social.
+
+###### ARTÍCULO OCTAVO.
+
+En virtud del presente decreto, todos los recursos humanos, materiales, financieros y presupuestales de la hoy Secretaría de Desarrollo Energético Sustentable, serán transferidos a la Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía. Los derechos labores y de seguridad social de las y los servidores públicos, serán respetados en su totalidad.
+
+Asimismo, el Ejecutivo Estatal modificará el Acuerdo de Creación de la Agencia de Energía del Estado, para adecuarlo a lo contenido en el presente Decreto. En dicho Acuerdo se señalará que la Agencia se sectorizará a la Secretaría referida en el párrafo anterior, la que a su vez, presidirá su junta de gobierno.
+
+###### ARTÍCULO NOVENO.
+
+La Subsecretaría de Fomento al Empleo y Productividad, con las unidades administrativas denominadas Dirección de Productividad Laboral y Servicio Nacional del Empleo, serán transferidas a la Secretaría de Desarrollo Económico, por lo que se le dotará a esta Secretaría de todos los recursos humanos, financieros, materiales y presupuestales de dichas unidades administrativas. Asimismo, se respetará en su integridad los derechos laborales y de seguridad social de las y los servidores públicos de dichas unidades que se transfieren.
+
+###### ARTÍCULO DÉCIMO.
+
+De manera enunciativa más no limitativa, en un plazo de 90 días contados a partir de la entrada en vigor del presente decreto, deberán realizarse las modificaciones a la Ley Orgánica del Centro de Conciliación Laboral del Estado, a la Ley de Mejora Regulatoria para el Estado de Campeche y sus Municipios, a la Ley de Planeación del Estado de Campeche y sus Municipios, a la Ley del Sistema de Información para el Estado, a la Ley de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche, a la Ley de Desarrollo Cultural del Estado, a la Ley del Patrimonio Cultural del Estado, a la Ley de Pesca y Acuacultura Sustentable del Estado, a la Ley de Vivienda para el Estado y demás disposiciones relativas y aplicables del marco jurídico estatal que resulten necesarias para el debido cumplimiento de lo dispuesto por este decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+A la Secretaría de Inclusión se le adscribirá la Subsecretaría de Atención para el Desarrollo de la Población Indígena de la hoy Secretaría de Desarrollo Social y Humano. Se le transferirá a la Secretaría de Inclusión, el capital humano, recursos materiales y financieros que se determinen en la Ley de Presupuesto de Egresos del Estado correspondiente.
+
+Las personas servidoras públicas que con motivo de lo dispuesto en el presente transitorio se adscriban a la Secretaría se les respetarán en su integridad sus derechos laborales y de seguridad social.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+A partir de la entrada en vigor del funcionamiento de las Secretarías y Dependencias de la Administración Pública Centralizada, éstas contarán con un plazo no mayor a noventa días naturales para la emisión de sus respectivos Reglamentos Interiores y Manuales de Organización.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las referencias hechas a la Secretaría de Desarrollo Social y Humano en otros ordenamientos legales deberán entenderse hechas a la Secretaría de Bienestar a partir de la entrada en vigor del presente decreto.
+
+Todas las referencias realizadas a la Secretaría de Desarrollo Rural se entenderán hechas a la Secretaría de Desarrollo Agropecuario conforme a las atribuciones y facultades que se dispone en la presente ley, a partir de su entrada en vigor.
+
+Las referencias hechas a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura en otros ordenamientos deberán entenderse hechas a la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas a partir de la entrada en vigor del presente decreto.
+
+Las referencias hechas a la Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático en otros ordenamientos deberán entenderse hechas a la Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía a partir de la entrada en vigor del presente decreto.
+
+Las referencias hechas a la Secretaría de Seguridad Pública en otros ordenamientos legales deberán entenderse hechas a la Secretaría de Protección y Seguridad Ciudadana a partir de la entrada en vigor del presente decreto.
+
+Las referencias hechas a la Secretaría General de Gobierno en otros ordenamientos jurídicos deberán entenderse hechas a la Secretaría de Gobierno a partir de la entrada en vigor del presente decreto.
+
+Las referencias hechas a la Secretaría de Finanzas en otros ordenamientos jurídicos deberán entenderse hechas a la Secretaría de Administración y Finanzas a partir de la entrada en vigor del presente decreto.
+
+Las referencias hechas a la Secretaría de Administración e Innovación Gubernamental en otros ordenamientos jurídicos deberán entenderse hechas a la Secretaría de Administración y Finanzas a partir de la entrada en vigor del presente decreto.
+
+Las referencias hechas a la Secretaría de Planeación en otros ordenamientos jurídicos deberán entenderse hechas a la Secretaría de Modernización Administrativa e Innovación Gubernamental a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los expedientes, asuntos y procedimientos en trámite que se hayan iniciado antes de la entrada en vigor de este decreto, deberán turnarse a la Secretaría, Dependencia o Entidad competente para la continuación de su trámite de conformidad con la legislación aplicable.
