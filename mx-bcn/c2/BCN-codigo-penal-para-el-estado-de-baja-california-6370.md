@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2021-09-03"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1633,15 +1633,21 @@ Lesiones causadas por animal.- De las lesiones que a una persona cause algún an
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 147.
 
-Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; así como también, en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
+Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía, con traición o con odio; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; así como también; en contra de miembros de las instituciones policiales del Estado en ejercicio o coma (sic) consecuencia del desempeño de sus funciones, incluyendo a las (sic) elementos de las empresas privadas y a las (sic) que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
 Concepto de premeditación.- Hay premeditación, siempre que el imputado cause intencionalmente una lesión, después de haber reflexionado sobre el delito que va a cometer.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+
 Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquier otra substancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución económica o de cualquier otra especie dada o prometida; por tormento, motivos depravados o brutal ferocidad.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
 En los casos de homicidio frente a menores de edad, o familiares de la víctima, cuando medie retribución en los términos que señala el párrafo que antecede, se aplicara al responsable invariablemente, la sanción máxima que señala el artículo 126 de este código.
 
@@ -1684,6 +1690,38 @@ Concepto de alevosía.- La alevosía consiste en sorprender intencionalmente, a 
 ###### Artículo 151.
 
 Concepto de traición.- Obra a traición el que no solamente emplea la alevosía, sino también la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquel por sus relaciones de parentesco, gratitud, amistad o cualquier otra que inspire confianza.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 151 Bis.
+
+Concepto de Odio.- Se actúa con odio cuando el sujeto activo realiza la conducta en contra de la víctima motivado por su:
+
+I. Condición social o económica;
+
+II. Vinculación, pertenencia o relación con un grupo social definido;
+
+III. Origen étnico o social;
+
+IV. Apariencia física;
+
+V. Nacionalidad, lugar de origen o idioma;
+
+VI. Color de piel o cualquier otra característica física;
+
+VII. Sexo, orientación sexual o identidad de género;
+
+VIII. Religión o creencias;
+
+IX. Edad;
+
+X. Opiniones;
+
+XI. Discapacidad o condiciones de salud;
+
+XII. Estado civil;
+
+XIII. Ocupación, profesión o actividad de la víctima.
 
 ###### Artículo 152.
 
@@ -6200,3 +6238,9 @@ P.O. 3 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 254 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA DENOMINACIÓN DEL TÍTULO PRIMERO, SECCIÓN PRIMERA, DEL LIBRO SEGUNDO; LA ADICIÓN DE UN CAPÍTULO X AL TÍTULO PRIMERO; ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 160 TER AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 293 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 147; LA ADICIÓN DE UN ARTÍCULO 151 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial el (sic) Estado.
