@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2021-07-02"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1189,23 +1189,21 @@ ARTICULO 135 BIS 4.- (DEROGADO, P.O. 10 DE MAYO DE 1983)
 
 ### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 143.
 
-El matrimonio es la unión de un hombre y una mujer para convivir y realizar los fines esenciales de la familia como institución social y civil.
-
-El matrimonio debe celebrarse ante los funcionarios que establece la Ley y con las formalidades que ella exige.
+El Matrimonio es la unión libre de dos personas para realizar la comunidad de vida, en donde ambas se procuran respeto, igualdad y ayuda mutua. Debe celebrarse ante el Oficial del Registro Civil y con las formalidades que estipule el presente Código.
 
 ###### ARTICULO 144.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 145.
 
-Para contraer matrimonio, tanto el hombre como la mujer, necesitan haber cumplido dieciocho años, por lo que en ningún caso los Presidentes Municipales podrán otorgar dispensa a menores de dieciocho años.
+Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad. No habrá excepción a este requisito.
 
 ###### ARTICULO 146.
 
@@ -1323,7 +1321,9 @@ Los cónyuges contribuirán al sostenimiento del hogar, a su alimentación y a l
 
 No estará obligado a contribuir económicamente el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
-Se presume que la esposa realiza la aportación correspondiente a los alimentos cuando se dedica al cuidado del hogar y de los hijos, más aun cuando un hijo o hija sufra enfermedad o discapacidad permanente, salvo que se demuestre lo contrario.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+Se presume que uno de los cónyuges realiza la aportación correspondiente a los alimentos cuando se dedica al cuidado del hogar y de los hijas e hijos, más aún cuando un hijo o hija sufra enfermedad o discapacidad permanente, salvo que se demuestre lo contrario.
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
@@ -1365,9 +1365,11 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 (DEROGADO, P.O. 20 DE JUNIO DE 1975)
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 169.
 
-El marido y la mujer, mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta la autorización de aquel; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes.
+Los contrayentes tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin necesidad de autorización del otro cónyuge; salvo atendiendo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes.
 
 ###### ARTICULO 170.
 
@@ -1385,9 +1387,11 @@ El marido y la mujer, mayores de edad tienen capacidad para administrar, contrat
 
 El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 174.
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Los cónyuges durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 ### CAPITULO IV. DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES
 
@@ -1397,21 +1401,27 @@ DISPOSICIONES GENERALES
 
 El contrato de matrimonio debe celebrarse bajo el régimen de sociedad conyugal, o bajo el de separación de bienes.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 176.
 
-Las capitulaciones matrimoniales son los pactos que los esposos celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
+Las capitulaciones matrimoniales son los pactos que los cónyuges celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 177.
 
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
+Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante el, y pueden comprender solamente los bienes de que sean dueños los cónyuges en el momento de hacer el pacto, sino también los que adquieran después.
 
 ###### ARTICULO 178.
 
 (DEROGADO, P.O. 29 DE MAYO DE 2020)
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 179.
 
-Son nulos los pactos que los esposos hicieren contra las Leyes o los naturales fines del matrimonio.
+Son nulos los pactos que los cónyuges hicieren contra las Leyes o los naturales fines del matrimonio.
 
 ### CAPITULO V. DE LA SOCIEDAD CONYUGAL
 
@@ -1419,27 +1429,29 @@ Son nulos los pactos que los esposos hicieren contra las Leyes o los naturales f
 
 La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 181.
 
-La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
-
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+La sociedad conyugal nace al celebrarse el matrimonio o durante el. Puede comprender no solo los bienes de que sean dueños los cónyuges al formarla, sino también los futuros que adquieran los consortes.
 
 Salvo pacto en contrario, que conste en capitulaciones matrimoniales, la sociedad no comprenderá los bienes que cada cónyuge adquiera por donación, herencia, legado, dones de la fortuna, o por cualquier otro título gratuito, los cuales serán de su exclusiva propiedad.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 182.
 
-Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
+Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los cónyuges pacten hacerse copartícipes o transferirse la propiedad de los bienes que ameriten tal requisito para que la traslación sea válida.
 
 ###### ARTICULO 183.
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 184.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los cónyuges.
 
 ###### ARTICULO 185.
 
@@ -1457,7 +1469,9 @@ I.- La lista detallada de los bienes inmuebles que cada consorte lleve a la soci
 
 II.- La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad;
 
-III.- Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Nota pormenorizada de las deudas que tenga cada cónyuge al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos cónyuges o por cualquiera de ellos.
 
 IV.- La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuales son los bienes que hayan de entrar a la sociedad;
 
@@ -1545,9 +1559,11 @@ Todo lo relativo a la formación de inventarios y solemnidades de la partición 
 
 Puede haber separación de bienes en virtud de capitulaciones anteriores al matrimonio, o durante éste, por convenio de los consortes, o bien por sentencia judicial. La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrar el matrimonio, sino también los que adquieran después.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 205.
 
-La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objetos de la sociedad conyugal que deben constituir los esposos.
+La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben de constituir los cónyuges.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -1559,9 +1575,11 @@ Durante el matrimonio la separación de bienes puede terminar para ser sustituid
 
 No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 208.
 
-Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los bienes de que sea dueño cada esposo al celebrarse el matrimonio, y nota especificada de las deudas que al casarse tenga cada consorte.
+Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los bienes de que sea dueño cada cónyuge al celebrarse el matrimonio, y nota especificada de las deudas que al casarse tenga cada consorte.
 
 ###### ARTICULO 209.
 
@@ -1579,39 +1597,53 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 213.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquél, retribución u honorario alguno por servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+Los cónyuges no podrán cobrarse el uno al otro retribución u honorario alguno por servicios personales que se prestaren, o por los consejos y asistencia que se dieren; pero si uno de los consortes por causa de ausencia o impedimento de alguno, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 214.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la Ley les concede.
+Los cónyuges que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la Ley les concede.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 215.
 
-El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+Los cónyuges responden mutuamente, de los daños y perjuicios que se causen por dolo, culpa o negligencia.
 
 ### CAPITULO VII. DE LAS DONACIONES ANTENUPCIALES
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 216.
 
-Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
+Se llaman antenupciales las donaciones que antes del matrimonio hacen un cónyuge al otro, cualquiera que sea el nombre que la costumbre les haya dado.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 217.
 
-Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos, en consideración al matrimonio.
+Son también donaciones antenupciales las que un extraño hace a alguno de los cónyuges o a ambos, en consideración al matrimonio.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 218.
 
-Las donaciones antenupciales entre esposos, aunque fueren varias, no podrán exceder reunidas de la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
+Las donaciones antenupciales entre cónyuges, aunque fueren varias, no podrán exceder reunidas de la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
 
 ###### ARTICULO 219.
 
 Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 220.
 
-Para calcular si es inoficiosa una donación antenupcial, tienen el esposo donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
+Para calcular si es inoficiosa una donación antenupcial, tienen el cónyuge donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
 
 ###### ARTICULO 221.
 
@@ -1625,9 +1657,11 @@ Las donaciones antenupciales no necesitan para su validez de aceptación expresa
 
 Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 224.
 
-Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
+Tampoco se revocará por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos cónyuges y que los dos sean ingratos.
 
 ###### ARTICULO 225.
 
@@ -1891,9 +1925,11 @@ XIX.- El mutuo consentimiento.
 
 Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 266.
 
-Cualquiera de los esposos puede pedir divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+Cualquiera de los cónyuges puede pedir divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
 
 ###### ARTICULO 267.
 
@@ -2097,9 +2133,11 @@ El parentesco resultante de la adopción se equipara al de consanguinidad con to
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 291.
 
-El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón.
+El parentesco por afinidad es el que se contrae por el matrimonio, entre los parientes de los cónyuges.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -16778,3 +16816,9 @@ P.O. 2 DE JULIO DE 2021.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los contratos celebrados con anterioridad a la vigencia de esta norma se regirán por las disposiciones en vigor al momento de su celebración.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 253 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 143, 145, 161, 169, 174, 176, 177, 179, 181, 182, 184, 186, 205, 208, 213, 214, 215, 216, 217, 218, 220, 224, 266, 291; Y SE DEROGA EL ARTÍCULO 144, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
