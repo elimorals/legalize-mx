@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2021-09-09"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1581,7 +1581,7 @@ V. Pago del derecho correspondiente.
 
 En cada uno de los municipios debe haber un Tesorero o Encargado de la Hacienda Municipal, designado por el Ayuntamiento a propuesta del Presidente Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 65.
 
@@ -1595,13 +1595,13 @@ I. Ser ciudadano mexicano, por nacimiento, en pleno ejercicio de sus derechos, y
 
 II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar el cargo;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 III. Tener la siguiente escolaridad:
 
-a) En los municipios en los que la población sea mayor a veinte mil habitantes, se requiere tener título profesional, en las áreas contables o administrativas, con experiencia mínima de un año en las áreas contables o administrativas, con experiencia mínima de un año en la materia, en el servicio público; y
+a) En los municipios en los que la población sea mayor a veinte mil habitantes, se requiere tener título profesional, en las áreas económico, administrativas o contables con experiencia mínima de un año en dichas áreas y con experiencia mínima de un año en la materia en el servicio público; y
 
-b) En los municipios que la población sea menor a veinte mil habitantes, se requiere por lo menos, tener certificado de educación media superior; y acreditar expedienta (sic) o conocimientos en la materia;
+b) En los municipios que la población sea menor a veinte mil habitantes, se requiere contar con licenciatura concluida en las áreas económicas, administrativas o contables con experiencia mínima de un año en dichas áreas y con experiencia mínima de un año en la materia en el servicio público.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -2252,6 +2252,10 @@ Al frente de dicha policía debe estar un servidor público designado por el Pre
 ###### Artículo 103.
 
 Los bienes y servicios públicos municipales, con excepción de los servicios de seguridad pública y policía preventiva municipal, así como de los bienes inmuebles con valor histórico o cultural relevante en los términos de la ley de la materia, previa autorización del Ayuntamiento, pueden ser materia de concesión a particulares, sujetándose a lo establecido por esta ley, las cláusulas del contrato de concesión y demás leyes aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+Las concesiones de mercados y centrales de abastos, se regularán en los reglamentos municipales atendiendo lo dispuesto en el último párrafo del artículo 94 de esta ley.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -3392,3 +3396,19 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su la Ley Orgánica del Poder Legislativo.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28434/LXII/21 QUE REFORMA EL ARTÍCULO 103 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los 125 ayuntamientos deberán adecuar sus disposiciones reglamentarias en los términos del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28435/LXII/21 QUE REFORMA EL ARTÍCULO 65 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el primero de octubre de 2021 posterior a su publicación en el periódico oficial "El Estado de Jalisco”.
+
+SEGUNDO. Para la siguiente administración municipal la fracción III del artículo 65 no será aplicable a los funcionarios que tengan continuidad en su nombramiento acreditando el inicio de una carrera en un área económico administrativa.
