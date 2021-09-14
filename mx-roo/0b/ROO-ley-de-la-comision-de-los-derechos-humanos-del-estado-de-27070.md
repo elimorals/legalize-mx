@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2018-10-17"
+last_updated: "2021-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -75,17 +75,29 @@ IV. Comisión Nacional: La Comisión Nacional de los Derechos Humanos;
 
 V. Comisión: La Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
-VI. Presidente: El Presidente de la Comisión de los Derechos Humanos del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+VI. La persona titular de la presidencia: Persona titular de la presidencia de la Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
 VII. Consejo Consultivo: El Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
 VIII. Legislatura: La Legislatura del Estado de Quintana Roo;
 
-IX. Diputación Permanente: La Diputación Permanente de la Legislatura del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-X. Grupo Vulnerable: Conjunto de personas que por circunstancias de pobreza, origen étnico, estado de salud, edad, género o discapacidad, se encuentran en una situación de mayor indefensión para hacer frente a los problemas que plantea la vida y no cuentan con los recursos necesarios para satisfacer sus necesidades básicas, e
+IX. Comisión Permanente: La Comisión Permanente de la Legislatura del Estado de Quintana Roo;
 
-XI. Instrumentos Jurídicos Internacionales: Los Tratados, Convenios, Acuerdos, Resoluciones, Declaraciones, Convenciones, Recomendaciones y Pactos Internacionales en materia de derechos humanos, de los cuales México forme parte.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+X. Grupo Vulnerable: Conjunto de personas que por circunstancias de pobreza, origen étnico, estado de salud, edad, género o discapacidad, se encuentran en una situación de mayor indefensión para hacer frente a los problemas que plantea la vida y no cuentan con los recursos necesarios para satisfacer sus necesidades básicas;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Instrumentos Jurídicos Internacionales: Los Tratados, Convenios, Acuerdos, Resoluciones, Declaraciones, Convenciones, Recomendaciones y Pactos Internacionales en materia de derechos humanos, de los cuales México forme parte; y,
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Paridad de género: Igualdad entre mujeres y hombres, siendo la asignación del 50% mujeres y 50% hombres en la integración de la Estructura Orgánica de la Comisión.
 
 ###### Artículo 4.
 
@@ -103,9 +115,11 @@ En los casos previstos en los párrafos anteriores, la Comisión podrá interven
 
 Cuando se trate de asuntos que involucren a autoridades o servidores públicos de otras entidades federativas, la Comisión enviará la documentación e información relativa a la Comisión Estatal que corresponda, para los fines legales pertinentes.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 6.
 
-En la aplicación de las disposiciones de esta Ley, están obligados a colaborar con la Comisión, todos los ciudadanos residentes o de paso en el Estado y, especialmente, las autoridades y los servidores públicos.
+En la aplicación de las disposiciones de esta Ley, las personas residentes o de paso en el Estado, tienen la obligación de colaborar con la Comisión y, especialmente, las autoridades y personas servidoras públicas estatales y municipales.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -127,9 +141,11 @@ El personal de la Comisión que incumpla con lo establecido en el párrafo anter
 
 La Comisión proporcionará la información que le sea requerida, relativa a los datos y documentos que obren en los expedientes de los procedimientos, de conformidad con lo dispuesto por la legislación y normatividad aplicable, en materia de transparencia y acceso a la información pública.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-La Comisión, en el desempeño de sus funciones y en el carácter y ejercicio de su autonomía, no recibirá instrucciones o indicaciones de autoridad o servidor público alguno.
+La Comisión, en el desempeño de sus funciones y en el carácter y ejercicio de su autonomía, no recibirá instrucciones o indicaciones de autoridad o persona servidora pública alguna.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -145,25 +161,37 @@ La Comisión se integrará por:
 
 I. Un Consejo Consultivo;
 
-II. Un Presidente que será quien tenga la representación legal de la Comisión;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-III. Un Secretario Técnico;
+II. Una persona titular de la presidencia que será quien tenga la representación legal de la Comisión;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Hasta tres Visitadores Generales;
+III. Una Secretaría Técnica;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-V. Los Visitadores Adjuntos, y
+IV. Hasta tres Visitadurías Generales;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Un Órgano Interno de Control.
+V. Las Visitadurías Adjuntas;
 
-La Comisión se auxiliará del personal profesional, técnico y administrativo necesario para el desempeño de sus funciones, que permita la disponibilidad presupuestal de la Comisión.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-El Primer Visitador General desempeñará sus funciones en la sede de la Comisión.
+VI. Un Órgano Interno de Control; y,
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Unidades Técnicas y Administrativas.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+La Comisión se auxiliará del personal profesional, técnico y administrativo necesario para el desempeño de sus funciones, que permita la disponibilidad presupuestal de la Comisión, garantizando en todo momento, la paridad de género en la integración de su estructura orgánica.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+La persona titular de la primera Visitaduría General desempeñará sus funciones en la sede de la Comisión.
 
 ###### Artículo 11.
 
@@ -267,33 +295,41 @@ IV. Consultas formuladas por autoridades, particulares u otras entidades, sobre 
 
 En los términos de esta Ley, sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales estatales, cuando dichos actos y omisiones tengan carácter administrativo. La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
 
-### CAPÍTULO II. DEL NOMBRAMIENTO Y FACULTADES DEL PRESIDENTE DE LA COMISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO II
+
+DEL NOMBRAMIENTO Y FACULTADES DE LA PERSONA TITULAR DE LA PRESIDENCIA DE LA COMISIÓN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 15.
 
-El Presidente deberá reunir para su designación los siguientes requisitos:
+La persona titular de la Presidencia deberá reunir para su designación los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+I. Tener ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener una residencia en el Estado no menor de 5 años anteriores al día de su designación;
 
 III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+IV. Gozar de buena reputación y no haber recibido condena por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-V. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de algunos de los Organismos Públicos Defensores de los Derechos Humanos;
+V. No haber recibido sanción en el desempeño de algún cargo, empleo o comisión dentro de la administración pública federal, estatal o municipal con motivo de una recomendación de algunos de los Organismos Públicos Defensores de los Derechos Humanos;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VI. Poseer, al día de su designación, con antigüedad mínima de cinco años, título y cédula profesional de nivel licenciatura, preferentemente de Licenciado en Derecho.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Contar preferentemente con experiencia en materia de derechos humanos o actividades afines reconocidas por las leyes mexicanas y los instrumentos internacionales.
+VII. No ser Titular de alguna Secretaría o Titular de la Fiscalía General del Estado, a menos que se separe del cargo, un año previo a la designación.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -303,11 +339,11 @@ VIII. No haber sido Secretario, Director General o su equivalente en la Administ
 
 IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político durante el año previo al de su designación.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 16.
 
-El Presidente será designado por el voto de las dos terceras partes de los miembros presentes de la Legislatura, o en sus recesos, por la Diputación Permanente. El Presidente de la Comisión durará en su cargo cuatro años.
+La persona titular de la presidencia será designada por el voto de las dos terceras partes de los miembros presentes de la Legislatura, de entre las propuestas que formulen los Grupos Legislativos, Representaciones Legislativas y las organizaciones de la sociedad civil que se encuentren legalmente constituidas en los términos de la legislación civil o aplicable, cuyo objeto social se encuentre vinculado con la promoción y defensa de los derechos humanos. La persona titular de la presidencia durará en su cargo cuatro años.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -315,7 +351,9 @@ El Presidente será designado por el voto de las dos terceras partes de los miem
 
 El procedimiento para la designación del Presidente, se sujetará al trámite siguiente:
 
-I. Llegado el momento de la designación, el Presidente de la Mesa Directiva de la Legislatura, o de la Diputación Permanente a propuesta de la Comisión de Derechos Humanos de la Legislatura, emitirá una convocatoria pública y abierta, en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos que regularán la designación.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+I. Llegado el momento de la designación, el Presidente de la Mesa Directiva de la Legislatura, convocará a los grupos parlamentarios representados en la Legislatura, así como a las organizaciones de la sociedad civil legalmente constituidas en los términos de la legislación civil aplicable, cuyo objeto social se encuentre vinculado con la promoción y defensa de los derechos humanos, para que presenten sus propuestas. Los convocados podrán presentar no más de una propuesta;
 
 II. El plazo para la recepción de solicitudes de registro será de diez días naturales siguientes a la publicación de la Convocatoria en el Periódico Oficial del Estado de Quintana Roo, en dos diarios de circulación en el Estado y en la página Web del Poder Legislativo del Estado de Quintana Roo.
 
@@ -327,23 +365,29 @@ IV. La Comisión de Derechos Humanos de la Legislatura, dentro de los diez días
 
 V. Una vez concluidas las entrevistas, las organizaciones de la sociedad civil a que se refiere la fracción II de este artículo, excepto aquellas que en términos de la misma fracción hubieren presentado propuesta de aspirante al cargo, así como la ciudadanía en general, podrán emitir opinión en relación a los aspirantes y presentarla por escrito debidamente sustentada ante la Oficialía de Partes del Poder Legislativo dirigida a la Comisión de Derechos Humanos de la Legislatura. El plazo para la recepción de opiniones vencerá a los tres días hábiles siguientes a que hubieren concluido las entrevistas;
 
-VI. Una vez recibidas las opiniones a que se refiere la fracción anterior, en un plazo no mayor a tres días hábiles siguientes, la Comisión de Derechos Humanos de la Legislatura, elaborará un Dictamen que contenga una terna con los aspirantes que considere idóneos para ocupar el cargo y presentarlo a la consideración de la Legislatura o en su caso de la Diputación Permanente para la designación correspondiente;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-VII. El candidato que resulte electo, deberá rendir la protesta de ley correspondiente ante la Legislatura o la Diputación Permanente en su caso, y
+VI. La Comisión de Derechos Humanos de la Legislatura, una vez recibidas las opiniones de la sociedad deberá presentarlas con el Dictamen respectivo a la consideración de la Legislatura para que en sesión que para tal efecto se celebre, se someta a votación de sus integrantes, y se determine quién de los candidatos propuestos resultare electo, debiéndole notificar su designación para que acuda a rendir la protesta de ley;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+VII. El candidato que resulte electo., deberá rendir la protesta de ley correspondiente ante la Legislatura, y
 
 VIII. La designación del Presidente se mandará a publicar en el Periódico Oficial del Estado de Quintana Roo y en la página web del Poder Legislativo del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-Las funciones del Presidente, de los Visitadores Generales y del Secretario Técnico son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, el Estado o municipios, en organismos privados, o con el desempeño de su profesión, exceptuando las actividades docentes, académicas o de investigación.
+Las funciones de las personas titulares de la Presidencia, Visitadurías Generales y Secretaría Técnica, son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, el Estado o municipios, en organismos privados, o con el desempeño de su profesión, exceptuando las actividades docentes, académicas o de investigación.
 
-El Presidente durante su encargo, no podrá participar en eventos proselitistas de algún partido político, ni desempeñar actividades electorales.
+La persona titular de la presidencia durante su encargo, no podrá participar en eventos proselitistas de algún partido político, ni desempeñar actividades electorales.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-El Presidente y los Visitadores Generales no podrán ser detenidos ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen en ejercicio de las funciones propias de los cargos que les asigna esta Ley.
+Las personas titulares de la presidencia y las Visitadurías Generales, no podrán ser detenidas ni sujetas a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen en ejercicio de las funciones propias de los cargos que le asigna esta Ley.
 
 ###### Artículo 20.
 
@@ -401,9 +445,9 @@ XIV. Fungir como apoderado legal con las más amplias facultades, para actos de 
 
 XV. Plantear acciones de inconstitucionalidad, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. Solicitar, en los términos del artículo 56 Bis de esta ley, a la Legislatura o en sus recesos, a la Diputación Permanente, según corresponda se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión, y
+XVI. Solicitar, en los términos del artículo 56 Bis de esta ley, a la Legislatura o en sus recesos, a la Comisión Permanente, según corresponda se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión, y
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -417,39 +461,61 @@ Los documentos emitidos por la Comisión dentro de los procedimientos establecid
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN, NOMBRAMIENTO Y FACULTADES DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-El Consejo Consultivo estará integrado por un presidente y seis consejeros, que deberán gozar de reconocido prestigio en la sociedad; ser mexicanos por nacimiento; con una residencia mínima en el Estado de 5 años, y estar en pleno ejercicio de sus derechos políticos y civiles.
+El Consejo Consultivo estará integrado por una persona titular de la presidencia y seis consejeros o consejeras, que deberán contar con experiencia, promoción y defensa de los derechos humanos, tener nacionalidad mexicana en pleno ejercicio de sus derechos políticos y civiles; con una residencia mínima en el Estado de 5 años.
 
-Los cargos de consejeros serán de carácter honorífico y cuando menos cuatro de ellos, no deberán desempeñar ningún cargo o comisión como servidores públicos.
+Los cargos de la consejería serán de carácter honorífico y cuando menos cuatro de ellos, no deberán desempeñar ningún cargo o comisión como personas servidoras públicas.
 
-El Presidente y el Secretario Técnico de la Comisión, lo serán también del Consejo Consultivo.
+La persona titular de la presidencia y la Secretaría Técnica de la Comisión, lo serán también del Consejo Consultivo.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+En la integración del Consejo Consultivo se deberá garantizar la paridad de género.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-Los miembros del Consejo Consultivo durarán en sus respectivos cargos un período de cuatro años y serán designados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente; el procedimiento de la designación de éstos será en los mismos términos que el requerido para la designación del Presidente.
+Las personas integrantes del Consejo Consultivo durarán en sus respectivos cargos un período de cuatro años y serán designados por el voto de las dos terceras partes de los miembros presentes de la Legislatura; el procedimiento de la designación de éstos será en los mismos términos que el requerido para la designación del Presidente.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-###### Artículo 25
+###### Artículo 25 Bis.
 
-Bis.- Los Consejeros dejarán de ejercer su encargo por alguna de las causas siguientes:
+Las y los Consejeros dejarán de ejercer su encargo por alguna de las causas siguientes:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 I. Por concluir el período para el que fueron electos;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 II. Por renuncia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 III. Por incapacidad permanente que les impida el desempeño de sus funciones;
 
-IV. Por faltar, sin causa justificada, a más de dos sesiones consecutivas o a tres acumuladas en un año, y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-V. Por haber sido condenado mediante sentencia ejecutoriada por delito doloso.
+IV. Por faltar, sin causa justificada, a más de dos sesiones consecutivas o a tres acumuladas en un año;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+V. Por haber recibido condena mediante sentencia ejecutoriada por delito doloso, y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Por dejar de cumplir durante el ejercicio del cargo con alguno de los requisitos para su designación.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 En el supuesto previsto en la fracción I, la Comisión informará a la Legislatura, con al menos tres meses de antelación a la terminación del encargo, a efecto de que tome las previsiones necesarias.
 
-En los demás casos, la Legislatura del Estado, previa garantía de audiencia que se otorgue a los Consejeros, resolverá lo procedente.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+En los demás casos, la Legislatura del Estado, previa garantía de audiencia que se otorgue a las y los Consejeros, resolverá lo procedente.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -491,25 +557,37 @@ El Consejo Consultivo tomará sus decisiones por mayoría de votos de sus miembr
 
 El Consejo Consultivo sesionará cuando menos una vez al mes de manera ordinaria y extraordinaria cuantas veces lo convoque así el Presidente, o mediante solicitud que a éste formulen por lo menos tres miembros del Consejo Consultivo, cuando se estime que hay razones de importancia para ello.
 
-### CAPÍTULO IV. DEL NOMBRAMIENTO Y FACULTADES DEL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-SECRETARIO TÉCNICO
+### CAPÍTULO IV
+
+DEL NOMBRAMIENTO Y FACULTADES DE LA SECRETARÍA TÉCNICA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-El Secretario Técnico de la Comisión deberá para su designación, reunir los siguientes requisitos:
+La persona titular de la Secretaría Técnica de la Comisión deberá para su designación, reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+I. Tener ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener una residencia en el Estado no menor de 5 años;
 
 III. Contar, por lo menos, con 25 años cumplidos el día de su designación;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-V. Tener título de abogado o licenciado en derecho y cédula profesional, expedidos por institución legalmente autorizada para hacerlo; y
+IV. Gozar de buena reputación y no haber recibido condena por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-VI. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de los Organismos Públicos de Protección y Defensa de Derechos Humanos.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+V. Contar con licenciatura en derecho y cedula profesional, expedidos por institución legalmente autorizada para hacerlo, y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+VI. No haber recibido sanción en el desempeño de algún cargo, empleo o comisión dentro de la administración pública federal, estatal o municipal con motivo de una recomendación de los Organismos Públicos de Protección y Defensa de Derechos Humanos.
 
 ###### Artículo 29.
 
@@ -553,25 +631,39 @@ IX. Las demás que le señalen esta ley, otros ordenamientos legales y las que l
 
 (DEROGADO, P.O. 27 DE FEBRERO DE 2014)
 
-### CAPÍTULO VI. DEL NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO VI
+
+DEL NOMBRAMIENTO Y FACULTADES DE LAS PERSONAS TITULARES DE LAS VISITADURÍAS GENERALES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 32.
 
-Los Visitadores Generales deberán, para su designación, reunir los siguientes requisitos:
+Las personas titulares de las Visitad u rías Generales deberán, para su nombramiento, reunir los siguientes requisitos:
 
-I. Ser ciudadanos mexicanos por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener una residencia en el Estado no menor de 5 años;
 
-III. Ser mayor de 25 años el día de su nombramiento;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+III. Contar con 25 años de edad al día de su nombramiento;
 
-IV. Poseer, al día de su designación, título profesional de abogado o licenciado en derecho y contar con la cédula profesional respectiva;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo de cualquiera que haya sido la pena, y
+IV. Contar, al día de su nombramiento, con licenciatura en derecho y contar con la cedula profesional respectiva;
 
-VI. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de los Organismos Públicos de Protección y Defensa de Derechos Humanos.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+V. Gozar de buena reputación y no haber recibido condena por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo de cualquiera que haya sido la pena, y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+VI. No haber recibido sanción en el desempeño de algún cargo, empleo o comisión dentro de la administración pública federal, estatal o municipal con motivo de una recomendación de los Organismos Públicos de Protección y Defensa de Derechos Humanos.
 
 ###### Artículo 33.
 
@@ -601,17 +693,23 @@ VII. Iniciar a petición de parte, la investigación de las quejas e inconformid
 
 VIII. Las demás que les señalen esta ley, su Reglamento y el Presidente, necesarias para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-Los Visitadores Adjuntos deberán, para su designación, reunir los siguientes requisitos:
+Quien se desempeñe como Visitador o Visitadora adjunta deberán, para su nombramiento, reunir los siguientes requisitos:
 
-I. Ser ciudadanos mexicanos por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+I. Contar con la ciudadanía mexicana, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener una residencia en el Estado no menor de 5 años;
 
 III. Contar con carta de pasante de la carrera de abogado o licenciado en derecho o haber cursado por lo menos el 50% de los estudios de dicha carrera; y
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Gozar de buena reputación y no haber recibido condena por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 ###### Artículo 35.
 
@@ -693,29 +791,47 @@ XXI. Inscribir y mantener actualizada la información correspondiente del Sistem
 
 XXII. Las demás que le confieran otros ordenamientos.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 35 Quáter.
 
-El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+La persona titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+I. Tener nacionalidad mexicana en pleno goce de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 II. Tener treinta años de edad cumplidos el día de la designación;
 
-III. Gozar de buena reputación y no haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+III. Gozar de buena reputación y no haber recibido condena por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Acreditar experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+V. Contar al día de su designación con título y cedula profesional de licenciatura en derecho, contaduría, administración, economía o finanzas, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+VII. No haber recibido inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-El titular del Órgano Interno de control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato o candidata a cargo de elección popular alguno.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+La persona titular del Órgano Interno de control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -723,61 +839,89 @@ El titular del Órgano Interno de control no podrá durante el ejercicio de su c
 
 La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
 
-I. La Mesa Directiva de la Legislatura o la Diputación Permanente, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+I. La Mesa Directiva de la Legislatura o la Comisión Permanente, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
 
 II. Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de la emisión de la convocatoria, así como estar debidamente suscritas por el solicitante;
 
-III. La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen de los candidatos que, a su juicio, considere idóneos para la conformación de una terna ante la Legislatura del Estado o en su caso, la Diputación Permanente, para la designación correspondiente;
+III. La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo; Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen de los candidatos que, a su juicio, considere idóneos para la conformación de una terna ante la Legislatura del Estado para la designación correspondiente;
 
-IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura o la Diputación Permanente.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura del Estado.
 
 Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del en cargo.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 35 Sexies.
 
-El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
+La persona titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas.
 
-Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
+Tratándose de las demás personas servidoras públicas adscritas al Órgano Interno de Control de la Comisión serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-###### Artículo 35 Sépties.
+###### Artículo 35 Septies.
 
-El Órgano Interno de Control será removido de su cargo por la Legislatura o en su caso por la Diputación Permanente, por las siguientes causas:
+La persona titular del Órgano Interno de Control será removida de su cargo por la Legislatura, por las siguientes causas:
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
 II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
 
-III. Haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+III. Haber recibido condena de manera firme por delito doloso;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
 V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro los plazos previstos por la Ley;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 VI. Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
 VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 35 Octies.
 
-En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Consejo Consultivo de la Comisión, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o de la Diputación Permanente, en su caso, acompañando el expediente del asunto.
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Consejo Consultivo de la Comisión, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente a la persona titular de la Mesa Directiva de la Legislatura acompañando el expediente del asunto.
 
-El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para qué sea instructora en el procedimiento.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+La persona titular de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley, y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
 Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
 
-Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura o en su caso a la Diputación Permanente quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Consejo Consultivo de la Comisión para los efectos legales que correspondan.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura o la Diputación Permanente designará un nuevo titular para efectos de concluir el periodo.
+Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Consejo Consultivo de la Comisión para los efectos legales que correspondan.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de haber transcurrido más de dos años de la duración del cargo de la persona titular removida, la Legislatura designará un nuevo titular para efectos de concluir el periodo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -927,11 +1071,13 @@ Las conclusiones del expediente, que serán la base de las recomendaciones, esta
 
 ### CAPÍTULO III. DE LOS ACUERDOS Y RECOMENDACIONES AUTÓNOMOS
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 53.
 
-La Comisión podrá dictar acuerdos de trámite, que serán obligatorios para que las autoridades y servidores públicos comparezcan o aporten información y documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título Cuarto, Capítulo II de la presente ley. Asimismo, en estos casos, podrá turnarse el asunto a la Secretaría de la Contraloría del Estado, para efecto de aplicar las sanciones que establece las leyes que en materia de responsabilidades correspondan.
+La Comisión podrá dictar acuerdos de trámite, que serán obligatorios para que las autoridades y las personas servidoras públicas comparezcan o aporten información y documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título Cuarto, Capítulo II de la presente ley.
+
+Asimismo, en estos casos, podrá turnarse el asunto a la Secretaría de la Contraloría del Estado, o los Órganos Internos de Control, para efecto de aplicar las sanciones que establece las leyes que en materia de responsabilidades correspondan.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -979,15 +1125,19 @@ Los servidores públicos deben fundar y motivar la negativa de la aceptación de
 
 La Comisión debe verificar el cumplimiento de sus recomendaciones, para lo cual, puede realizar toda clase de actuaciones, gestiones o diligencias de oficio o a petición de parte.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 56
 
-Bis.- Cuando las recomendaciones emitidas no sean aceptadas o cumplidas total o parcialmente por los servidores públicos, la Comisión por conducto de su Presidente, dará vista a la Legislatura o en sus recesos a la Diputación Permanente de tal situación, a fin de que a través de la Comisión Ordinaria de Derechos Humanos, a su juicio y con el objeto de que expliquen las razones de su conducta o justifiquen su omisión, se sirva citar a comparecer ante la misma, a los servidores públicos involucrados, durante el periodo legislativo al momento de la notificación de la negativa o el periodo legislativo inmediato posterior en caso de ocurrir ésta en un periodo de receso. Esta comparecencia será de carácter público, en ella las víctimas podrán exponer su testimonio, sea por escrito, comparecencia o por cualquier otro medio que cumpla con el cometido de que los diputados conozcan el punto de vista de las víctimas. La Comisión por conducto de su representante legal, estará presente en la comparecencia del servidor público y podrá intervenir en ella.
+Bis.- Cuando las recomendaciones emitidas no sean aceptadas o cumplidas total o parcialmente por los servidores públicos, la Comisión por conducto de su Presidente, dará vista a la Legislatura o en sus recesos a la Comisión Permanente de tal situación, a fin de que a través de la Comisión Ordinaria de Derechos Humanos, a su juicio y con el objeto de que expliquen las razones de su conducta o justifiquen su omisión, se sirva citar a comparecer ante la misma, a los servidores públicos involucrados, durante el periodo legislativo al momento de la notificación de la negativa o el periodo legislativo inmediato posterior en caso de ocurrir ésta en un periodo de receso. Esta comparecencia será de carácter público, en ella las víctimas podrán exponer su testimonio, sea por escrito, comparecencia o por cualquier otro medio que cumpla con el cometido de que los diputados conozcan el punto de vista de las víctimas. La Comisión por conducto de su representante legal, estará presente en la comparecencia del servidor público y podrá intervenir en ella.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 Para efectos del párrafo anterior, deberá observarse y proceder conforme a lo siguiente:
 
-a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados de la Legislatura o en sus recesos, de la Diputación Permanente, para que comparezca ante dichos órganos legislativos, a través de la Comisión Ordinaria de Derechos Humanos a efecto de que expliquen el motivo de su negativa;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados de la Legislatura o en sus recesos, de la Comisión Permanente, para que comparezca ante dichos órganos legislativos, a través de la Comisión Ordinaria de Derechos Humanos a efecto de que expliquen el motivo de su negativa;
 
 b) La Comisión determinará, previa consulta con los órganos legislativos referidos en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso;
 
@@ -1055,43 +1205,55 @@ Todas las autoridades y servidores públicos tienen la obligación de atender, d
 
 Las autoridades o servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, lo comunicarán a la Comisión y expresarán las razones para considerarlas así. En este supuesto, los Visitadores Generales tendrán la facultad de hacer la clasificación definitiva sobre la reserva y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
 
-### CAPÍTULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y PERSONAS SERVIDORAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 68.
 
-Las autoridades y los servidores públicos serán responsables penal y administrativamente, por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas y denuncias ante la Comisión, de acuerdo con las disposiciones constitucionales y legales aplicables.
+Las autoridades y las personas servidoras públicas serán responsables penal y administrativamente, por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas y denuncias ante la Comisión, de acuerdo con las disposiciones constitucionales y legales aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 69.
 
-La Comisión podrá rendir un informe especial cuando persistan actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento por parte de las autoridades y servidores públicos que deban intervenir o colaborar en sus investigaciones, no obstante los requerimientos que ésta les hubiere formulado. Este informe especial deberá ser difundido para el conocimiento de la sociedad quintanarroense.
+La Comisión podrá rendir un informe especial cuando persistan actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento por parte de las autoridades y personas servidoras públicas que deban intervenir o colaborar en sus investigaciones, no obstante los requerimientos que ésta les hubiere formulado. Este informe especial deberá ser difundido para el conocimiento de la sociedad quintanarroense.
 
-La Comisión denunciará ante los órganos competentes los delitos o faltas que, independientemente de dichas conductas y actitudes, hubiesen cometido las autoridades o servidores públicos de que se trate.
+la Comisión denunciará ante los órganos competentes los delitos o faltas que, independientemente de dichas conductas y actitudes, hubiesen cometido las autoridades o personas servidoras públicas de que se trate.
 
-Respecto a los particulares que durante los procedimientos de la Comisión incurran en faltas o delitos, la misma lo hará del conocimiento de las autoridades competentes para que sean sancionados de acuerdo con las leyes de la materia.
+Respecto a las y los particulares que durante los procedimientos de la Comisión incurran en faltas o delitos, la misma lo hará del conocimiento de las autoridades competentes para que sean sancionados de acuerdo con las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 70.
 
-La Comisión deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realice para efectos de la aplicación de las sanciones administrativas que deban imponerse. A su vez, la autoridad superior informará a la Comisión sobre las medidas y sanciones disciplinarias impuestas.
+La Comisión deberá poner en conocimiento de los superiores jerárquicos inmediatos o mediatos, de las autoridades y personas servidoras públicas, los actos u omisiones en que incurran durante y con motivo de las investigaciones que realice, para efectos de la aplicación de las sanciones administrativas que deban imponerse. A su vez, la autoridad superior informará a la Comisión sobre las medidas y sanciones disciplinarias impuestas.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 71.
 
-Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir las autoridades y servidores públicos en el curso de las investigaciones seguidas por la Comisión, ésta podrá solicitar la amonestación pública o privada, según sea el caso, al titular de la dependencia de que se trate.
+Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir las autoridades y personas servidoras públicas en el curso de las investigaciones seguidas por la Comisión, ésta podrá solicitar la amonestación pública o privada, según sea el caso, a la persona titular de la dependencia de que se trate.
 
 ## TÍTULO QUINTO. DEL RÉGIMEN LABORAL
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 72.
 
-El personal que preste sus servicios a la Comisión se regirá por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes Ejecutivo, Legislativo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo. Todos los servidores públicos que integren la planta de la Comisión, son trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
+El personal que preste sus servicios a la Comisión será designado atendiendo a la paridad de género y se regirá por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes Ejecutivo, Legislativo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo. Las personas que integren la planta laboral de la Comisión serán de confianza y de base.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 Se establecerá un sistema de servicio profesional de carrera, a efecto de garantizar el ingreso, desarrollo y permanencia en el servicio público de la Comisión, en igualdad de oportunidades y con base en el mérito, a fin de impulsar la eficiencia y eficacia de la gestión pública para beneficio de la sociedad.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
-Para tal efecto, en el reglamento respectivo se establecerán las bases para el cumplimiento de lo dispuesto en el párrafo anterior.
+Para tal efecto, se observará la paridad de género y se elaborará el reglamento respectivo, en el cual se establecerán las bases para el cumplimiento de lo dispuesto en el presente artículo.
 
 T R A N S I T O R I O S
 
@@ -1206,3 +1368,13 @@ Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
 
 Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 131 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto comenzará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. En un plazo no mayor a noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Comisión de los Derechos Humanos del Estado de Quintana Roo, deberá realizar las adecuaciones que correspondan a sus reglamentos o normatividad interna.
