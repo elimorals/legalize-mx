@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2021-05-31"
+last_updated: "2021-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -672,6 +672,22 @@ El financiamiento de campaña será administrado en su totalidad por los partido
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE DEROGA LA FRACCIÓN III DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 III. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2019)
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+III. Bis. - Bonificación por actividad electoral.
+
+Los partidos políticos tendrán derecho a recibir una bonificación por actividad electoral, con base al número de representantes de partido debidamente acreditados ante las casillas electorales de acuerdo al siguiente procedimiento:
+
+a. La representación para efectos de esta bonificación será de un representante por partido político en cada casilla electoral;
+
+b. El monto por casilla será de diez veces la Unidad de Medida y Actualización;
+
+c. Esta bonificación se entregará cinco días después de que los partidos efectúen el registro de los nombramientos de sus representantes ante las mesas directivas de casilla de conformidad con el artículo 137 de este Código;
+
+d. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos de la Junta Estatal Ejecutiva del Instituto Estatal Electoral verificará la participación de los partidos políticos a través del acta de la jornada electoral, la cual deberá estar firmada, cuando menos, por un representante debidamente acreditado ante la casilla electoral correspondiente; y
+
+e. En el cómputo de la elección correspondiente, se verificará la asistencia de los representantes de los Partidos ante las mesas directivas de casilla en el acta de la jornada electoral, en caso de haber diferencia entre el registro de representantes y la verificación de su asistencia, la cantidad que resulte será descontada de las prerrogativas por actividades ordinarias permanentes.
 
 IV. Por actividades específicas como entidades de interés público:
 
@@ -6444,3 +6460,13 @@ El presente Decreto entrará en vigor, concluidos los procesos electorales del a
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 790 QUE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 30 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La reglamentación y normatividad afectada por este Decreto, deberá adecuarse en un plazo no mayor a 45 días, una vez publicado el presente.
