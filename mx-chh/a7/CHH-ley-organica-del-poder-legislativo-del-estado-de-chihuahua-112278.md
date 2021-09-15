@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2021-08-14"
+last_updated: "2021-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -601,7 +601,9 @@ VIII.- Presentar iniciativas de decreto, acuerdo, pronunciamientos y declaracion
 
 IX.- Someter a consideración del Pleno, el Proyecto de Presupuesto de Egresos del Congreso que le presente el Comité de Administración, a más tardar el primero de octubre de cada año.
 
-En dicho proyecto, deberá establecerse el monto que se canalizará para llevar a cabo publicaciones que programe el Consejo Editorial, del Comité de Biblioteca.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+En dicho proyecto, deberá establecerse el monto que se canalizará para llevar a cabo publicaciones que programe el Consejo Editorial, del Comité Editorial y de Biblioteca.
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
 
@@ -947,11 +949,11 @@ Las Comisiones tendrán a su cargo las cuestiones relacionadas con la materia pr
 
 Son Comisiones de Dictamen Legislativo las siguientes:
 
-I.- Primera de Gobernación y Puntos Constitucionales.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+I.- De Gobernación y Puntos Constitucionales.
 
-II.- Segunda de Gobernación
+II.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
 III.- De Programación, Presupuesto y Hacienda Pública.
 
@@ -963,19 +965,27 @@ IV.- De Seguridad Pública y Protección Civil.
 
 V.- De Transparencia, Acceso a la Información Pública y Parlamento Abierto.
 
-VI.- De Educación y Cultura.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
-VII.- De Ciencia y Tecnología.
+VI.- De Educación, Cultura Física y Deporte.
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- De Ciencia, Tecnología e Innovación.
 
 VIII.- De Justicia.
 
-IX.- De Derechos Humanos.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+IX.- De Derechos Humanos y Atención a Grupos Vulnerables.
 
-X. De Obras, Servicios Públicos y Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
-XI.- De Ecología y Medio Ambiente.
+X.- De Obras, Servicios Públicos, y Desarrollo y Movilidad Urbana.
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- De Medio Ambiente, Ecología y Desarrollo Sustentable.
 
 XII.- De Trabajo y Previsión Social.
 
@@ -987,13 +997,19 @@ XV.- De Desarrollo Municipal y Fortalecimiento del Federalismo.
 
 XVI.- De Asuntos Fronterizos.
 
-XVII.- De Participación Ciudadana.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII.- De Desarrollo Rural.
+XVII.- De Participación Ciudadana y Asuntos Electorales.
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII.- De Desarrollo Rural y Ganadería.
 
 XIX.- De Salud.
 
-XX.- De Economía, Turismo y Servicios.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+XX.- De Economía, Industria y Comercio.
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1003,29 +1019,23 @@ XXII.- De Igualdad.
 
 XXIII.- De Energía.
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
-
-XXIV.- De Deporte.
+XXIV.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 XXV.- De Familia, Asuntos Religiosos y Valores.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
-XXVI.- Anticorrupción.
+XXVI.- De Anticorrupción.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
-
-XXVII.- De Movilidad Urbana.
+XXVII.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
 XXVIII.- De Agua.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
-
-XXIX.- De Atención a Grupos Vulnerables.
+XXIX.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1035,23 +1045,33 @@ XXX.- De Recursos Forestales.
 
 XXXI.- De Feminicidios.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+XXXII.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
-XXXII.- De Vivienda.
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+XXXIII.- De Turismo y Cultura.
 
 ###### ARTÍCULO 97.
 
 Las Comisiones Ordinarias tendrán una Presidencia y una Secretaría, fungiendo el resto de sus integrantes como vocales. Sus miembros serán designados por el Pleno, a propuesta de la Junta de Coordinación Política.
 
-Se constituirán, a más tardar, en la cuarta sesión posterior a la de instalación de la Legislatura en funciones, con un máximo de cinco integrantes y un mínimo de tres.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+Se constituirán, a más tardar, en la cuarta sesión posterior a la de instalación de la Legislatura en funciones.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
 Tratándose de la Comisión Jurisdiccional se constituirá en la misma sesión referida en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+Las Comisiones Ordinarias de dictamen legislativo estarán constituidas con un mínimo de tres integrantes y un máximo de cinco; las contempladas en las fracciones I, III, IV, VIII y XXII del artículo 96 de esta Ley, estarán conformadas con un mínimo de cinco integrantes y un máximo de siete.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 98.
 
-Las y los diputados podrán formar parte de hasta cinco Comisiones Ordinarias, pero solamente podrán presidir una.
+Las y los diputados podrán formar parte de hasta ocho Comisiones Ordinarias, pero solamente podrán presidir una.
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -1193,9 +1213,11 @@ Una vez que estén firmados los dictámenes por la mayoría de los miembros de l
 
 ### CAPÍTULO III. DE LA COMISIÓN DE FISCALIZACIÓN
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 113.
 
-La Comisión de Fiscalización se conformará con un máximo de cinco integrantes y un mínimo de tres, reflejando la composición plural del Congreso.
+La Comisión de Fiscalización se conformará con un máximo de siete integrantes y un mínimo de cinco, reflejando la composición plural del Congreso.
 
 ###### ARTÍCULO 114.
 
@@ -1285,23 +1307,23 @@ Los Comités del Congreso, son órganos auxiliares integrados por diputadas y di
 
 En la integración del Comité de Adquisiciones, Arrendamientos y Servicios, se atenderá lo dispuesto por el artículo 123 Bis de esta Ley.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 118.
 
-El Comité de Biblioteca se conformará con un máximo de cinco miembros y un mínimo de tres, y el Comité de Administración se integrará hasta por tantos Partidos Políticos se encuentren representados en la Legislatura. En su integración, se reflejará la paridad de género, y tendrán las atribuciones que esta Ley, sus reglamentos y demás normatividad les señalen.
+El Comité Editorial y de Biblioteca se conformará con un máximo de cinco miembros y un mínimo de tres, y el Comité de Administración se integrará hasta por tantos Partidos Políticos se encuentren representados en la Legislatura. En su integración, se reflejará la paridad de género, y tendrán las atribuciones que esta Ley, sus reglamentos y demás normatividad les señalen.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 119.
 
-Quienes integren los Comités de Administración y de Biblioteca, serán designados por el Pleno, a propuesta de la Junta de Coordinación Política, y desempeñarán sus trabajos durante todo el período de la Legislatura.
+Quienes integren los Comités de Administración, y (sic) Editorial y de Biblioteca, serán designados por el Pleno, a propuesta de la Junta de Coordinación Política, y desempeñarán sus trabajos durante todo el período de la Legislatura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 120.
 
-Los Comités de Administración y de Biblioteca se reunirán, para la atención y desahogo de sus asuntos, en la medida que su carga de trabajo así lo requiera, previa convocatoria emitida por quien presida, conjuntamente con su secretaría.
+Los Comités de Administración, y (sic) Editorial y de Biblioteca se reunirán, para la atención y desahogo de sus asuntos, en la medida que su carga de trabajo así lo requiera, previa convocatoria emitida por quien presida, conjuntamente con su secretaría.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1313,11 +1335,13 @@ El Congreso contará con los siguientes Comités:
 
 I.- De Administración.
 
-II.- De Biblioteca.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Editorial y de Biblioteca.
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2019)</small>
 
-III. De Adquisiciones, Arrendamientos y Servicios.
+III.- De Adquisiciones, Arrendamientos y Servicios.
 
 ### CAPÍTULO VI. DEL COMITÉ DE ADMINISTRACIÓN
 
@@ -1341,11 +1365,15 @@ VII.- Conocer el informe de la Contraloría Interna, sobre el desempeño del per
 
 VIII.- Las demás que esta Ley, sus reglamentos y demás normatividad le asignen.
 
-### CAPÍTULO VII. DEL COMITÉ DE BIBLIOTECA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII. DEL COMITÉ EDITORIAL Y DE BIBLIOTECA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 123.
 
-Son atribuciones del Comité de Biblioteca:
+Son atribuciones del Comité Editorial y de Biblioteca:
 
 I.- Promover la formación de un acervo bibliográfico del Congreso.
 
@@ -1379,9 +1407,9 @@ II. La persona titular de la Secretaría de Asuntos Legislativos y Jurídicos, c
 
 III. La persona titular de la Dirección de Finanzas de la Secretaría de Administración, como vocal.
 
-IV. La o el Diputado que presida el Comité de Administración, como vocal.
+IV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
-V. La o el Diputado que presida la Comisión de Transparencia, Acceso a la Información Pública y Parlamento Abierto, como vocal.
+V. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2021)</small>
 
@@ -1390,6 +1418,14 @@ VI. La persona titular del Órgano Interno de Control, con voz pero sin voto.
 Tratándose de contrataciones que requieran un grado de especialidad por el tipo de adquisición, arrendamiento o servicio de que se trate, deberá asistir la persona titular del área técnica correspondiente, quien contará con voz pero sin voto.
 
 En los actos de los procedimientos que lleve a cabo el Comité podrán participar, previa invitación o solicitud por escrito, personas de los sectores social y privado, siempre y cuando acrediten tener interés en los asuntos que se deban tratar.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+Trimestralmente, deberá informar al Comité de Administración respecto al ejercicio de sus funciones, y deberá contener al menos:
+
+I. La información sobre los procedimientos de adjudicación directa, invitación restringida y licitación pública, incluyendo su justificación y resultados; así como los contratos celebrados en el período a informar.
+
+II. La agenda de los procesos de contratación conforme a su planeación y programación.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
 
@@ -3236,3 +3272,9 @@ P.O. 14 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0007/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
