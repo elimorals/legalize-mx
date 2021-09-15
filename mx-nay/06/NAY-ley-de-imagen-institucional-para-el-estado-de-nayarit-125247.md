@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-imagen-institucional-para-el-estado-de-nayarit-125247"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-16"
-last_updated: "2021-03-18"
+last_updated: "2021-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2017.
 
@@ -51,7 +51,9 @@ La presente Ley es de orden público y de observancia general y tiene por objeto
 
 Para los efectos de esta ley se entiende por:
 
-I. Colores institucionales: Al blanco y negro en sus gamas y escalas de gris, así como aquellos que directa o indirectamente no sean alusivos o vinculados a los colores que identifican a los partidos políticos;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+I. Colores institucionales: Al blanco y negro en sus gamas y escalas de gris, así como aquellos que directa o indirectamente no sean alusivos o vinculados a los colores que identifican a los partidos políticos, exceptuando la combinación de colores que sea una representación de la identidad pluricultural del Estado;
 
 II. Entes Públicos:
 
@@ -69,9 +71,17 @@ f) Los órganos jurisdiccionales que no formen parte del poder judicial, y
 
 g) Aquellos sobre el que tenga control cualquiera de los poderes y órganos públicos señalados en esta fracción.
 
-III. Eslogan: Frase breve utilizada para publicidad o propaganda política, y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Imagen Institucional: Conjunto de elementos gráficos y visuales, que deberán utilizarse como distintivo en documentos, bienes muebles e inmuebles, eventos y demás actividades que desarrollen cualquier ente público en el ejercicio de sus funciones.
+III. Eslogan: Frase breve utilizada para publicidad o propaganda política;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Fotografía oficial: Imagen impresa de servidores públicos y servidoras públicas, que se emplea como instrumento de difusión de su imagen personal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+V. Imagen Institucional: Conjunto de elementos gráficos y visuales, que deberán utilizarse como distintivo en documentos, bienes muebles e inmuebles, eventos y demás actividades que desarrollen cualquier ente público en el ejercicio de sus funciones.
 
 ###### Artículo 3.
 
@@ -87,6 +97,10 @@ Los municipios utilizarán el nombre y escudo regulado en los Bandos de Policía
 
 La imagen institucional de todos los entes públicos, así como de aquellos en los que su legislación no prevea un escudo o imagen en específico, deberá estar libre de ideas, expresiones o logotipos, propias de alguna persona o partido político.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+En todo momento, la imagen institucional de los entes públicos deberá tener la finalidad de enaltecer la identidad pluricultural del Estado.
+
 ###### Artículo 5.
 
 En la construcción, constitución, ampliación, adecuación, remodelación, conservación, mantenimiento o modificación de las obras e inmuebles públicos, así como en la planeación y el diseño de un proyecto urbano o arquitectónico, deberán atenderse las disposiciones señalas (sic) en la presente ley en cuanto a la elaboración de la imagen institucional, así como a la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit.
@@ -95,21 +109,35 @@ En la construcción, constitución, ampliación, adecuación, remodelación, con
 
 En la adquisición, adecuación, mantenimiento y uso de bienes muebles de carácter público deberán utilizarse únicamente los colores institucionales.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 7.
 
-En el diseño de los sitios web, deberá (sic) utilizarse los colores institucionales o aquellos que no puedan ser vinculados a alguna persona o partidos políticos, nacionales o estatales, y prescindir de acciones de promoción de éstos o de funcionarios públicos, identificando la información a la institución únicamente.
+En el diseño de los sitios web, deberá (sic) utilizarse los colores institucionales, y prescindir de acciones de promoción de partidos políticos nacionales o estatales, o de funcionarios públicos, identificando la información a la institución únicamente.
 
 ###### Artículo 8.
 
 Queda prohibida la utilización de cualquier eslogan que identifique o que pueda ser vinculado con alguna persona, partido político nacional o estatal en los bienes muebles e inmuebles de carácter público.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+Se podrá hacer uso de eslóganes que tengan por objeto enaltecer la identidad pluricultural y/o impulsar el desarrollo del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-Queda prohibido el uso de colores, escudos, símbolos, signos, expresiones o eslogan que directa o indirectamente y que de manera inequívoca vincule alguna persona en la difusión de programas de carácter gubernamental.
+Queda prohibido el uso de colores, escudos, símbolos, signos, expresiones o eslogan que directa o indirectamente y que de manera inequívoca vincule alguna persona en la difusión de programas de carácter gubernamental, a excepción de aquellos que tengan por objeto enaltecer la identidad pluricultural y/o impulsar el desarrollo del Estado.
 
 ###### Artículo 10.
 
 Se prohíbe la sustitución de elementos que identifican bienes propiedad de los entes públicos justificados en el cambio de administración.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 10 Bis.
+
+Queda prohibido colocar en las dependencias y entidades de la administración pública estatal y municipal la imagen impresa que funja como fotografía oficial de servidores públicos y servidoras públicas.
 
 ###### Artículo 11.
 
@@ -160,3 +188,9 @@ P.O. 18 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 14 DE LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE IMAGINEN INSTITUCIONAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
