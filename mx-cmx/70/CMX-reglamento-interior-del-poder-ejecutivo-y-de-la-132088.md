@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-09-01"
+last_updated: "2021-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -898,7 +898,9 @@ Asimismo, se le adscribe el Órgano Desconcentrado denominado Planta Productora 
 
 XIV. A la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes:
 
-A) Dirección Ejecutiva de Derechos Indígenas.
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
+A) Dirección General de Derechos Indígenas.
 
 XV. A la Secretaría de Salud:
 
@@ -7350,6 +7352,8 @@ XV. Las demás que el presente Reglamento y otras disposiciones le asignen.
 
 #### SECCIÓN XV. DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2021)</small>
+
 #### SECCIÓN XVI. DE LA SECRETARÍA DE SALUD
 
 ###### Artículo 171.
@@ -9648,7 +9652,7 @@ XV. Las demás atribuciones conferidas por las personas Titulares de la Secretar
 
 ###### Artículo 214.
 
-Corresponde a la Dirección Ejecutiva de Derechos Indígenas.
+Corresponde a la Dirección General de Derechos Indígenas:
 
 I. Promover la adecuación de los planes, programas, acciones y proyectos que lleven a cabo las Dependencias y Entidades de la administración pública de la Ciudad de México, para que garanticen derechos de los pueblos indígenas de la Ciudad de México;
 
@@ -15277,3 +15281,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los asuntos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen sus atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
 
 CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 15 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+TERCERO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a la Unidad Administrativa que mediante el presente Decreto cambia de denominación, se entenderán hechas a aquella que la sustituya.
