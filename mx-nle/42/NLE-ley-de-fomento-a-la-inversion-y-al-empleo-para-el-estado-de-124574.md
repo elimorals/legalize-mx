@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2020-06-29"
+last_updated: "2021-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -297,11 +297,11 @@ El Consejo Consultivo Ciudadano de la Secretaría que se establezca en los térm
 
 Adicionalmente a lo dispuesto por los tratados internacionales, ley de inversión extranjera, leyes fiscales estatales y municipales, así como en el Plan Estatal de Desarrollo, el Consejo en los términos de la presente Ley, podrá aprobar el otorgamiento de incentivos a la inversión nacional y extranjera, para la creación de nuevas empresas y fomentar el empleo para fortalecer e incrementar la capacidad de operación de las empresas ya existentes en el Estado, con el fin de seguir creando nuevas fuentes de empleo.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 21 Bis.
 
-Para el otorgamiento de los incentivos contemplados en el Artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas empresa emergente o “Startups”, y a aquellas empresas que contraten trabajadores de primer empleo y a personas adultas mayores.
+Para el otorgamiento de los incentivos contemplados en el Artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas empresa emergente o "Startups", y a aquellas empresas que dentro de su plantilla laboral tengan a trabajadores de primer empleo y a personas adultas mayores.
 
 ###### Artículo 22.
 
@@ -756,3 +756,9 @@ P.O. 29 DE JUNIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado deberá adecuar conforme a lo dispuesto en el presente Decreto, los Reglamentos competentes en un plazo de 90 días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 528. SE REFORMA EL ARTÍCULO 21 BIS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
