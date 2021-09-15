@@ -4,7 +4,7 @@ identifier: "FED-catalogo-general-de-puestos-del-consejo-de-la-judicatura-140094
 country: "mx"
 rank: "otro"
 publication_date: "2020-01-21"
-last_updated: "2020-01-21"
+last_updated: "2021-09-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140094&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-01-13"
 ---
 # CATALOGO GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO DEL CATÁLOGO GENERAL DE PUESTOS JUNIO 2021 DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CATÁLOGO GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2021 (SIN EFECTOS).
 
 Catálogo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de enero de 2020.
 
@@ -930,3 +932,19 @@ Anexo 2. Registro de Actualizaciones.
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 21 DE ENERO DE 2020, PÁGINAS DE LA 139 A LA 142.]</small>
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Catálogo General de Puestos del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 27 de noviembre de 2019, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé y Loretta Ortiz Ahlf.- Ciudad de México, a 13 de enero de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE AUTORIZA EL CATÁLOGO GENERAL DE PUESTOS JUNIO 2021 DEL CONSEJO DE LA JUDICATURA FEDERAL Y SU PUBLICACIÓN QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SÉPTIMO: Se autoriza dejar sin efectos el Catálogo General de Puestos del Consejo de la Judicatura Federal, aprobado el 27 de noviembre de 2019.
+
+OCTAVO: El presente Catálogo General de Puestos junio 2021, entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+[…]
+
+En cumplimiento a lo ordenado por el Pleno del Consejo de la Judicatura Federal, en sesión del 7 de julio de dos mil veintiuno, se hace del conocimiento el Catálogo General de Puestos del Consejo de la Judicatura Federal junio 2021, está visible en el siguiente link:
+
+www.dof.gob.mx/2021/CJF/catalogo_puestos_CJF_2021.pdf
