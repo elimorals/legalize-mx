@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2020-11-20"
+last_updated: "2021-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -347,15 +347,17 @@ VI.- Por concluir el término para el cual fueron elegidos.
 
 ### CAPITULO UNICO. DE LA INSTALACION DE LA CAMARA
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 33.
 
-Recibida la constancia de mayoría o de asignación proporcional, antes del día 30 de noviembre del año de la elección los Diputados electos deberán presentarse a la Secretaría General del Congreso y registrarse en el libro que a ese efecto debe llevarse en la misma, asentándose la fecha de presentación, nombre y apellidos, distrito o circunscripción electoral, domicilio, acompañando además, copia de su constancia de mayoría o de asignación proporcional, y su currícula, entregándose al interesado por parte del Congreso la certificación respectiva y convocándolo a la junta previa prevista en el artículo siguiente.
+Recibida la constancia de mayoría o de asignación proporcional, antes del día 30 de septiembre del año de la elección los Diputados electos deberán presentarse a la Secretaría General del Congreso y registrarse en el libro que a ese efecto debe llevarse en la misma, asentándose la fecha de presentación, nombre y apellidos, distrito o circunscripción electoral, domicilio, acompañando además, copia de su constancia de mayoría o de asignación proporcional, su currícula, entregándose al interesado por parte del Congreso la certificación respectiva y convocándolo a la junta previa prevista en el artículo siguiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 34.
 
-El 30 de noviembre del año de la elección, a las diez horas, se llevará a cabo una junta previa a la instalación de la Legislatura, con la presencia de los Diputados propietarios electos, a fin de preparar su instalación. Si no concurriera la mayoría, la Mesa Directiva de la Legislatura saliente o su Diputación Permanente, citará para el día siguiente, en forma verbal, a los concurrentes y por escrito o por otro medio adecuado a los faltantes, a fin de que acudan.
+El 30 de septiembre del año de la elección, a las diez horas, se llevará a cabo una junta previa a la instalación de la Legislatura, con la presencia de los Diputados propietarios electos, a fin de preparar su instalación. Si no concurriera la mayoría, la Mesa Directiva de la Legislatura saliente o su Diputación Permanente, citará para el día siguiente, en forma verbal, a los concurrentes y por escrito o por otro medio adecuado a los faltantes, a fin de que acudan.
 
 El Presidente de la Mesa Directiva de la Cámara saliente, o de su Diputación Permanente, en esta reunión previa:
 
@@ -367,9 +369,11 @@ B).- Exhortará a los Diputados a integrarse a los Grupos Parlamentarios conform
 
 C).- Citará a los Diputados electos para la sesión de instalación y dará a conocer el procedimiento previsto en la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 35.
 
-Para la instalación de la Cámara de Diputados se reunirán éstos el día primero de diciembre del año de la elección, presididas por la Mesa Directiva de la Cámara saliente o de su Diputación Permanente y se procederá en la forma siguiente:
+Para la instalación de la Cámara de Diputados se reunirán éstos el día primero de octubre del año de la elección, presididas por la Mesa Directiva de la Cámara saliente o de su Diputación Permanente y se procederá en la forma siguiente:
 
 A).- El Presidente pedirá al Secretario proceda a dar lectura a la lista de los Diputados electos y comprobando que se tiene la concurrencia que prescribe el Artículo 28 de la Constitución Política del Estado, le informará al Presidente;
 
@@ -379,7 +383,9 @@ C).- Acto continuo, el Presidente saliente invitará a los Diputados a elegir la
 
 D).- Dado a conocer el resultado de la votación por el Secretario, termina la función de la Mesa Directiva de la Legislatura saliente o de su Diputación Permanente, por lo cual se retira del presidium y los integrantes de la Mesa Directiva electa pasan a ocupar su lugar en éste. A continuación nombrará una Comisión que se encargará de acompañar a los integrantes de la Mesa Directiva de la Legislatura saliente o de la Diputación Permanente, al abandonar el recinto; y
 
-E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá en voz alta: "La (número ordinario que corresponda) Legislatura del Estado de Sinaloa, se declara legítimamente constituida e instalada y abre hoy, Primero de Diciembre de (año que corresponda) su Primer Período Ordinario de Sesiones, correspondiente al Primer Año de su Ejercicio Constitucional."
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá en voz alta: "La (número ordinario que corresponda) Legislatura del Estado de Sinaloa, se declara legítimamente constituida instalada y abre hoy, primero de octubre de (año que corresponda) su Primer Período Ordinario de Sesiones, correspondiente al Primer Año de su Ejercicio Constitucional".
 
 ## TITULO CUARTO. DE LA ORGANIZACION DEL CONGRESO
 
@@ -2303,7 +2309,7 @@ VI.- El Ejecutivo del Estado no podrá hacer alguna observación ni oponerse a s
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 230.
 
@@ -2371,7 +2377,7 @@ Los procedimientos de Juicio Político, declaratoria de procedencia por la comis
 
 ###### ARTICULO 241.
 
-El Congreso del Estado expedirá el Bando Solemne entre los días 15 al 20 de diciembre del año de la elección, para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiera hecho el Tribunal Estatal Electoral; una vez recibida por el mismo, la declaratoria de validez de la elección y la del Gobernador electo, respecto del candidato que hubiera obtenido el mayor número de votos.
+El Congreso del Estado expedirá el Bando Solemne entre los días 1 de septiembre al 20 de Octubre del año de la elección, para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiera hecho el Tribunal Estatal Electoral; una vez recibida por el mismo, la declaratoria de validez de la elección y la del Gobernador electo, respecto del candidato que hubiera obtenido el mayor número de votos.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -2642,3 +2648,11 @@ El presente Decreto entrará en vigor al momento de su aprobación por el Pleno 
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 682 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 33; 34, PRIMER PÁRRAFO; 35, PRIMER PÁRRAFO E INCISO E); Y 241, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa”.
