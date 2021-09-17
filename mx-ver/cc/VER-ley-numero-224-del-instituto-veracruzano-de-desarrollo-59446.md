@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-224-del-instituto-veracruzano-de-desarrollo-59446"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-01"
-last_updated: "2008-02-01"
+last_updated: "2021-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 224 DEL INSTITUTO VERACRUZANO DE DESARROLLO MUNICIPAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 1 de febrero de 2008.
 
@@ -105,7 +105,9 @@ III. Contribuir, a solicitud de los ayuntamientos, en la elaboración de program
 
 IV. Coordinarse y colaborar interinstitucionalmente con los organismos afines para el desarrollo municipal nacional y de las entidades federativas, para realizar y ejecutar acciones y programas de fortalecimiento municipal;
 
-V. Propiciar con las instancias gubernamentales y las organizaciones sociales y privadas la cultura de la participación ciudadana como elemento del desarrollo municipal;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+V. Propiciar con las instancias gubernamentales y las organizaciones sociales y privadas la cultura de la participación ciudadana como elemento del desarrollo municipal, así como de la planeación del desarrollo urbano, cultural, económico, forestal y del equilibrio ecológico;
 
 VI. Diseñar y promover programas para la formación, capacitación y profesionalización de los ediles y demás servidores públicos;
 
@@ -113,7 +115,9 @@ VII. Celebrar acuerdos, contratos y convenios con dependencias federales, estata
 
 VIII. Establecer y operar mecanismos para la obtención, programación, presupuestación, aplicación y administración en general de los recursos financieros, humanos y materiales que permitan la operación y logro de las metas del Instituto;
 
-IX. Desarrollar programas de investigación y difusión a través de estudios, análisis, encuestas, mesas redondas, conferencias, entre otras actividades;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Desarrollar programas de investigación y difusión a través de estudios, análisis, encuestas, mesas redondas, conferencias, entre otras actividades, en materia de desarrollo municipal, comunitario, de participación social, perspectiva de género y desarrollo sostenible;
 
 X. Consolidar un sistema estatal de información municipal que comprenda la investigación, documentación e intercambio de experiencias;
 
@@ -123,15 +127,27 @@ XII. Contribuir al desarrollo de una política de coordinación institucional en
 
 XIII. Promover el intercambio de experiencias y la participación de los ayuntamientos con las asociaciones municipalistas, en el ámbito nacional e internacional;
 
-XlV. Investigar, promover, diseñar y aplicar, en su caso, en forma coordinada con las instituciones públicas o privadas estatales, nacionales o internacionales los programas para la modernización de la administración, la gestión y los servicios públicos municipales;
+XIV. Investigar, promover, diseñar y aplicar, en su caso, en forma coordinada con las instituciones públicas o privadas estatales, nacionales o internacionales los programas para la modernización de la administración, la gestión y los servicios públicos municipales;
 
 XV. Promover en los ayuntamientos la recuperación y conservación de los archivos históricos municipales y, en general, lo relativo al acervo documental municipal;
 
 XVI. Promover, incorporar y sistematizar propuestas para la integración de una agenda municipalista de Veracruz, procurando la participación de los representantes de los sectores público, privado y social;
 
-XVII. Impartir cursos de capacitación, talleres y asesorías a servidores públicos e interesados de la materia municipal; y
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII. Las demás que le otorguen otras leyes aplicables a la materia.
+XVII. Impartir cursos de capacitación, talleres y asesorías a servidores públicos e interesados de la materia municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Evaluar y certificar los estándares de competencia laboral validados por el Consejo Nacional de Normalización y Certificación de Competencias Laborales (CONOCER) para profesionalizar la función pública en los Ayuntamientos de la entidad;
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Realizar, previo análisis y comprobación, el padrón de consultores y asesores externos en materias del ámbito de la administración pública municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Las demás que le otorguen otras leyes aplicables a la materia.
 
 ### CAPÍTULO III. De la Organización del Instituto
 
@@ -153,15 +169,19 @@ IV. Las áreas de operación que se establezcan en el Reglamento Interno.
 
 La Junta es el máximo órgano de gobierno del Instituto y estará integrada de la siguiente forma:
 
-l. Un Presidente, que será el Gobernador del Estado;
+I. Un Presidente, que será el Gobernador del Estado;
 
 II. El Secretario de Gobierno;
 
 III. El Secretario de Finanzas y Planeación;
 
-IV. Un diputado representante del Congreso del Estado, que será el Presidente de la Comisión de Desarrollo y Fortalecimiento Municipal;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-V. Cinco vocales, presidentes municipales, que serán invitados por el Presidente de la Junta. En su designación deberá observarse la proporcional representación de las regiones del Estado, la pluralidad política, étnica y socioeconómica; y
+IV. Un diputado representante del Congreso del Estado, que será quien presida la Comisión Permanente de Desarrollo y Fortalecimiento Municipal;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+V. Las cinco vocales, que serán Presidentes Municipales, los cuales serán invitados por el Presidente de la Junta. En su designación deberá observarse la proporcional representación de las regiones del Estado, la paridad de género, la pluralidad política, étnica y socioeconómica, y
 
 VI. El Director General del Instituto, quien fungirá como Secretario Técnico.
 
@@ -219,7 +239,7 @@ El Director del Instituto tendrá las siguientes atribuciones:
 
 I. Representar legalmente al Instituto;
 
-lI. Elaborar el reglamento interno del Instituto, los manuales de organización y procedimientos, así como los demás instrumentos normativos internos que deban regir al Instituto y someterlos a la consideración de la Junta para su aprobación;
+II. Elaborar el reglamento interno del Instituto, los manuales de organización y procedimientos, así como los demás instrumentos normativos internos que deban regir al Instituto y someterlos a la consideración de la Junta para su aprobación;
 
 III. Ejecutar las normas generales, los criterios y políticas que dicte la Junta para orientar las actividades del Instituto, a fin de cumplir con sus principios y objetivos;
 
@@ -243,7 +263,7 @@ XII. Fomentar la cultura de transparencia y acceso a la información de la admin
 
 XIII. Coordinar la realización de investigaciones para el desarrollo regional y municipal y, en su caso, hacer las publicaciones correspondientes;
 
-XlV. Convocar, previo acuerdo con el Presidente, a sesiones de la Junta;
+XIV. Convocar, previo acuerdo con el Presidente, a sesiones de la Junta;
 
 XV. Celebrar acuerdos, contratos y convenios necesarios para la realización de los fines del Instituto;
 
@@ -253,7 +273,9 @@ XVII. Presentar el informe anual de labores ante la Junta de Gobierno, correspon
 
 XVIII. Dar cumplimiento a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave;
 
-XIX. Proporcionar asesoría a los ayuntamientos respecto de la elaboración de los planes municipales de desarrollo;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Proporcionar asesoría a los ayuntamientos respecto de la elaboración de los planes municipales de desarrollo, los cuales deberán estar alineados con los Objetivos de Desarrollo Sostenible contenidos en la Agenda 2030 para el Desarrollo Sostenible y demás resoluciones e instrumentos adoptados en esa materia, por los organismos internacionales de los que el Estado Mexicano es miembro y signatario;
 
 XX. Elaborar, a solicitud de los ayuntamientos, los instrumentos técnicos-jurídicos para la elaboración y actualización del marco normativo municipal; y
 
@@ -340,3 +362,13 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 863 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO VERACRUZANO DE DESARROLLO MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
