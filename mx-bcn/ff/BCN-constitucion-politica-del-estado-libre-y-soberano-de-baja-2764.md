@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2021-08-08"
+last_updated: "2021-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -309,47 +309,47 @@ APARTADO A. De la promoción, respeto, protección y garantía de los Derechos H
 
 Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado y los Municipios deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 Esta Constitución asume a plenitud todos los derechos, prerrogativas de los pueblos y comunidades indígenas; así como las obligaciones de las instituciones públicas establecidas en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos. Por tanto, reconoce los derechos colectivos, a los siguientes pueblos indígenas autóctonos: Kiliwas, Kumiai, Pai pai, Cucapá y Cochimí, así como a las comunidades que conforman estos pueblos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 Las comunidades indígenas pertenecientes a cualquier otro pueblo indígena, procedentes de otro Estado de la República y que residan temporal o permanentemente dentro del territorio del Estado de Baja California, quedan protegidos por los derechos señalados en esta Constitución y la ley respectiva. La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y Leyes de la materia.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 Sin poner en riesgo la unidad estatal, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia a su autonomía. Sin perjuicio de lo anterior, también se reconoce el derecho de las mujeres y los hombres indígenas residentes en el Estado, a participar en la elección de Diputaciones y de Munícipes para integrar los Ayuntamientos del Estado, en los términos que determine la Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los Municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-El Estado garantizará el derecho de toda persona a la movilidad universal, atendiendo a los principios de igualdad, accesibilidad, disponibilidad y sustentabilidad.
+El acceso al agua para consumo personal y doméstico es un derecho que tiene toda persona. La Ley garantizará su distribución y saneamiento; las autoridades en la materia tienen la obligación de respetar, proteger y cumplir con la prestación de este servicio en los términos de la Ley.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-El acceso al agua para consumo personal y doméstico es un derecho que tiene toda persona. La Ley garantizará su distribución y saneamiento; las autoridades en la materia tienen la obligación de respetar, proteger y cumplir con la prestación de éste servicio en los términos de la Ley.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-El disfrute de una movilidad segura en las vialidades del Estado es un derecho que tiene toda persona. La Ley establecerá las bases y programas para garantizar la seguridad vial del peatón, conductor y pasajero, en las distintas modalidades del transporte público o privado, incluyendo el no motorizado.
+El disfrute de una movilidad segura en las vialidades del Estado es un derecho que tiene toda persona. La ley establecerá las bases y programas para garantizar la seguridad vial del peatón, conductor y pasajero, en las distintas modalidades del transporte público o privado, incluyendo el no motorizado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 Toda persona tiene el derecho humano a vivir libre de corrupción.
 
@@ -5464,3 +5464,13 @@ Primero. Una vez aprobada la presente reforma, túrnese a los Ayuntamientos del 
 Segundo. Agotado el proceso legislativo correspondiente, y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
 
 Tercero. La presente reforma, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 01 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO. Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
