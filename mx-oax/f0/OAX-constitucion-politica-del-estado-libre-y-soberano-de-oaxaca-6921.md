@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-08-28"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -49,9 +49,13 @@ En el Estado todas las personas gozarán de los derechos humanos reconocidos en 
 
 La interpretación de las normas relativas a los derechos humanos, se hará conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, favoreciendo en todo tiempo a las personas la protección más amplia. Para el ejercicio de los derechos humanos y las garantías constitucionales no se exigirán condiciones o requisitos que no estén establecidos en la Constitución o la ley. Ninguna norma jurídica podrá restringir los derechos humanos ni sus garantías.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Las autoridades del Estado, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, pluriculturalidad y progresividad. El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes. En el caso de aquellos que se reserve el pueblo de Oaxaca, serán protegidos mediante el Juicio para la Protección de los Derechos Humanos. Todas las autoridades están obligadas a que en sus determinaciones o resoluciones que pronuncien deben de aplicar el control difuso de constitucionalidad y convencionalidad en materia de derechos humanos.
+Las autoridades del Estado, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, pluriculturalidad y progresividad. El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes. En el caso de aquellos que se reserve el pueblo de Oaxaca, serán protegidos mediante el Juicio para la Protección de los Derechos Humanos. Todas las autoridades están obligadas a que en sus determinaciones o resoluciones que pronuncien deben de aplicar el control difuso de constitucionalidad y convencionalidad en materia de derechos humanos. Cuando exista alguna contradicción o conflicto en la aplicación de dos o más derechos humanos, el juzgador o autoridad respectiva aplicarán la ponderación, razonable, fundada, idónea y atendiendo a las necesidades de cada caso.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Todas las personas tienen derecho al respeto y protección de la dignidad humana y las autoridades del Estado deberán garantizar su observancia, conforme al ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -59,9 +63,9 @@ Las autoridades del Estado, en el ámbito de sus competencias, tienen la obligac
 
 La Ley es igual para todos. La Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y esta Constitución son la Ley Suprema del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
+Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorgan expresamente a la Federación, se entienden reservadas para el Estado de Oaxaca en el ámbito de su competencia.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -379,9 +383,9 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 
 Las autoridades de los municipios y comunidades preservarán el tequio como expresión de solidaridad según los usos de cada pueblo y comunidad indígenas. Los tequios encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada pueblo y comunidad indígena, podrán ser considerados por la ley como pago de contribuciones municipales; la ley determinará las autoridades y procedimientos tendientes a resolver las controversias que se susciten con motivo de la prestación del tequio.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud, este implicará la participación de todos los órganos de poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo definirá la competencia del Estado y de los Municipios en materia de salubridad local.
+En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud, este implicará la participación de todos los órganos de poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo, definirá la competencia del Estado y de los Municipios en materia de salubridad local. La Ley garantizará la extensión progresiva, cuantitativa y cualitativa de los servicios de Salud, con el objeto de garantizar la atención integral a la población oaxaqueña que no cuenta con seguridad social.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -619,7 +623,9 @@ Los pueblos indígenas del Estado de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, 
 
 Los pueblos indígenas y afromexicano tienen derecho a ser consultados de manera libre, previa e informada, mediante procedimientos apropiados y culturalmente pertinentes, y a través de sus instituciones representativas, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles, con la finalidad de llegar a un acuerdo u obtener su consentimiento. Para este efecto, el Estado deberá celebrar consultas y cooperar de buena fe con los pueblos interesados, de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en la Constitución Federal y en los instrumentos internacionales en la materia.
 
-La ley reglamentaria castigará las diversas formas de discriminación étnica y las conductas etnocidas; así como el saqueo cultural en el Estado. Igualmente protegerá a los pueblos y comunidades indígenas y al Pueblo y comunidades afromexicanas contra reacomodos y desplazamientos, determinando los derechos y obligaciones que se deriven de los casos de excepción que pudieran darse, así como las sanciones que procedan con motivo de su contravención.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+La ley reglamentaria castigará las diversas formas de discriminación étnica y las conductas etnocidas; así como el saqueo del patrimonio cultural material e inmaterial de los pueblos y comunidades indígenas y afromexicanas del Estado, protegiendo la propiedad intelectual colectiva y los elementos que la conforman. Así mismo, los protegerá, contra reacomodos y desplazamientos, determinando los derechos y obligaciones que se deriven de los casos de excepción que pudieran darse, así como las sanciones que procedan con motivo de su contravención.
 
 La Ley establecerá los procedimientos que aseguren a los indígenas y afromexicanos el acceso efectivo a la protección jurídica que el Estado brinda a todos sus habitantes.
 
@@ -821,9 +827,13 @@ IV. (DEROGADA, P.O. 30 DE JUNIO DE 2015)
 
 V. Tratándose de los pueblos y comunidades indígenas, cumplir con las obligaciones, contribuciones y los cargos que la comunidad les señale conforme a los sistemas normativos indígenas.
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Preservar, respetar y cuidar la naturaleza, el medio ambiente y la biodiversidad del Estado.
+VI. Preservar, respetar y cuidar la naturaleza, el medio ambiente y la biodiversidad del Estado; y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Auspiciar la sana alimentación, la práctica de algún deporte y la sana recreación en familia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1345,9 +1355,9 @@ El Congreso elaborará su propio proyecto de presupuesto en los términos de la 
 
 Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas para el Poder Legislativo no podrán ser reducidas ni transferidas, salvo en los casos de ajuste presupuestal general previstos en la Ley.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-El Poder Legislativo se regirá por los principios de Congreso abierto, para tal efecto las Diputadas y los Diputados establecerán mecanismos de audiencia y rendición de cuentas que garanticen su responsabilidad frente a los ciudadanos oaxaqueños.
+El Poder Legislativo se regirá por los principios de Parlamento Abierto por lo que para tal efecto las Diputadas y los Diputados deberán implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas. La ley establecerá los mecanismos a los que hace referencia este artículo.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1695,9 +1705,9 @@ III. Autorizar al Gobernador del Estado la firma de convenios, a fin de arreglar
 
 Consecuentemente solicitar la aprobación de la Cámara de Senadores, para los efectos del párrafo primero del artículo 46 de la Constitución Federal y de acuerdo con la Ley respectiva;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Iniciar leyes y decretos ante el Congreso de la Unión;
+IV. Iniciar leyes y decretos ante el Congreso de la Unión y dictaminar las Minutas Federales para los efectos del artículo 135 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -2467,9 +2477,9 @@ V. Presentar a la Legislatura a más tardar el 30 de abril de cada año, la Cuen
 
 En el año que concluya su mandato, la presentará al Congreso conforme a los plazos y procedimientos que se establezcan legalmente;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales, sin perjuicio de remitir a la propia Legislatura las iniciativas que presenten los Ayuntamientos para que se decreten las tasas, cuotas y tarifas de los impuestos, derechos y contribuciones de mejoras a sus respectivos Municipios;
+VI. Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales;
 
 VII. Presentar a la Legislatura, al terminar su período constitucional, una memoria sobre el estado que guarden los asuntos públicos, expresando cuáles sean las deficiencias que note en la administración y cuáles las medidas que en su concepto deben aplicarse para subsanarlas;
 
@@ -3299,15 +3309,19 @@ Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgán
 
 IX.- Cada ayuntamiento procurará contar con una Regiduría de Derechos Humanos encargada de la protección, defensa, promoción, estudio, divulgación y vigilancia de los derechos humanos. Asimismo, procurará contar con una Regiduría de Equidad y Género, que tendrá como objetivo promover la participación igualitaria de las mujeres en los ámbitos de la vida social, económica, política, cultural y familiar de la comunidad y la eliminación de todo acto discriminatorio que contravenga la igualdad de género.
 
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IX], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Los Municipios, deberán crear un área específica de atención integral a la juventud, que se encargará de garantizar a las y los jóvenes, su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, orientación sexual, raza, circunstancia social o de salud, religión o cualquier otra.
+
 > <small>(REFORMADO SU FORMATO, P.O. 16 DE ENERO DE 2018)</small>
 
 ## TÍTULO SEXTO. DE LOS ÓRGANOS AUTÓNOMOS DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 114.
 
-Conforme a esta Constitución y sus leyes respectivas, los órganos autónomos del Estado son entes públicos, con personalidad jurídica y patrimonio propio. Gozan de autonomía técnica, para su administración presupuestaria y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones. Tienen el derecho a iniciar leyes en las materias de su competencia, presentar el proyecto de presupuesto que requieran para su inclusión en el Presupuesto de Egresos del Estado, así como promover controversias constitucionales y acciones de inconstitucionalidad en el ámbito de su competencia local. Están facultados para imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente. Cada órgano rendirá un informe anual de labores al Congreso del Estado, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables.
+Conforme a esta Constitución y sus leyes respectivas, los órganos autónomos del Estado son entes públicos, con personalidad jurídica y patrimonio propio. Gozan de autonomía técnica, para su administración presupuestaria y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones. Tienen el derecho a iniciar leyes en las materias de su competencia, presentar el proyecto de presupuesto que requieran para su inclusión en el Presupuesto de Egresos del Estado, así como promover controversias constitucionales y acciones de inconstitucionalidad en el ámbito de su competencia local. Están facultados para imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente. Cada órgano rendirá a través de sus titulares un informe anual de labores ante el pleno del Congreso del Estado, el cual será publicitado por los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -3361,7 +3375,7 @@ C. EL ÓRGANO GARANTE DE ACCESO A LA INFORMACIÓN PÚBLICA, TRANSPARENCIA, PROTE
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
+El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -3369,7 +3383,7 @@ Sesionará colegiadamente y públicamente, se regirá por los principios de cert
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
+Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
 
 El nombramiento podrá ser objetado por el Gobernador del Estado, en un plazo de diez días hábiles. Si el Gobernador no objetare el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado, la persona nombrada por el Congreso del Estado.
 
@@ -3807,17 +3821,25 @@ Los miembros de los Ayuntamientos y los Alcaldes son responsables de los delitos
 
 En los delitos del orden común y violación de las leyes federales y del Estado, los servidores públicos señalados en el artículo 115 de esta Constitución, no gozarán de protección constitucional alguna, pudiendo en consecuencia proceder contra ellos ante la Fiscalía General del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 124.
+
+De las infracciones a las ordenanzas y reglamentos exclusivos del Municipio cometidos por los concejales, alcaldes, agentes municipales y agentes de policía conocerán una comisión integrada por concejales del Ayuntamiento respectivo, en los términos de sus reglamentos, la que se encargará de analizar la acusación, y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado, para que posteriormente proceda a emitir su dictamen.
+
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 148], P.O. 8 DE DICIEMBRE DE 2000)</small>
-
-###### ARTICULO 124.
-
-De las infracciones a las ordenanzas y reglamentos exclusivos del Municipio cometidos por los concejales, alcaldes y agentes municipales, conocerán una comisión integrada por concejales del Ayuntamiento respectivo, en los términos de sus reglamentos, la que se encargará de analizar la acusación, y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado, para que posteriormente proceda a emitir su dictamen.
 
 Conociendo el dictamen el Ayuntamiento y erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante la resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 148], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 Si la resolución del Ayuntamiento fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 148], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 Si el Ayuntamiento declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 148], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
@@ -3847,19 +3869,19 @@ ARTICULO 125 BIS.- El matrimonio es un contrato civil. El divorcio disuelve el v
 
 En el Estado de Oaxaca todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda las necesidades del desarrollo integral del Estado.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y la justicia.
+La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y la justicia. Es un deber del Estado que la educación sea universal e inclusiva, con la finalidad de evitar toda forma de discriminación, exclusión o condiciones estructurales que se conviertan en barreras al aprendizaje y la participación.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 En las comunidades indígenas bilingües la enseñanza tenderá a conservar el idioma español y las lenguas indígenas de la región.
 
@@ -5818,3 +5840,121 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2617.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Oaxaca deberá realizar las adecuaciones en la legislación estatal para armonizar lo dispuesto en el presente Decreto, en el plazo de noventa días hábiles contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚM. 2618.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2619.- MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2620.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2621.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El Honorable Congreso del Estado de Oaxaca deberá realizar la armonización legislativa secundaria en materia de protección de la propiedad intelectual colectiva, en el plazo de 180 días naturales contados a partir de la publicación del presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2660.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2661.- MEDIANTE EL CUAL SE REFORMA EL QUINTO PÁRRAFO DEL ARTÍCULO 31 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2664.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2665.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2666.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO: El Honorable Congreso del Estado de Oaxaca deberá armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 365 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo dispuesto en el presupuesto de egresos correspondiente y en los términos de la concurrencia de los tres órdenes de gobierno, para garantizar los derechos derivados del presente Decreto según corresponda y conforme al ámbito de sus respectivas facultades y competencias.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2672.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. - El Congreso del Estado contará con un plazo de 180 días naturales para armonizar la legislación estatal con lo dispuesto en el presente Decreto, que se computarán a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+CUARTO. - Los Ayuntamientos de los Municipios deberán prever los recursos presupuestales para el funcionamiento y operación del área específica de atención integral a la juventud a que se refiere el presente Decreto, conforme a lo previsto en su respectivo Presupuesto de Egresos del ejercicio fiscal correspondiente y la legislacion de la materia.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM: 2675.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2678.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 124 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
