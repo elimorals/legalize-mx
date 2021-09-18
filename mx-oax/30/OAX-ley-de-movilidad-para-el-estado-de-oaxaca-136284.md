@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-08-07"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1322,6 +1322,10 @@ La Secretaría establecerá las especificaciones y capacidad de los vehículos p
 En el servicio público de transporte urbano, metropolitano, suburbano y foráneo de pasajeros, está prohibido realizar adaptaciones a las características de fabricación de los vehículos para obtener una mayor capacidad de pasaje. En el interior de los vehículos destinados al transporte colectivo urbano, metropolitano, suburbano y foráneo deberán adaptarse dispositivos de seguridad consistentes en cámaras de video y botón de pánico, y para los vehículos individuales en la modalidad de taxi dentro del territorio de un Municipio o de una zona conurbada, el mecanismo de Sistema de Posicionamiento Global (GPS) y botón de pánico a disposición del público usuario para casos de urgencia o riesgo inminente; todos los dispositivos señalados estarán enlazados al Centro de Control, Comando y Comunicación (C4), de la Secretaría de Seguridad Pública establecerá las especificaciones de los dispositivos de seguridad de conformidad a la norma técnica aplicable que deberán cumplir los dispositivos de cámaras de video, botones de pánico y Sistema de Posicionamiento Global (GPS), y en conjunto con la Secretaría de Movilidad verificará en forma permanente el cumplimiento de esta medida, a través de los operativos que ordene. Seguridad Pública del Estado, a efecto de monitorear cualquier ilícito que pueda cometerse en contra de los pasajeros o el conductor.
 
 En el transporte urbano, metropolitano, suburbano y foráneo de pasajeros, se destinaran los primeros cuatro lugares para el uso preferente de personas discapacitadas, de movilidad limitada y adultos mayores.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Los vehículos autorizados para prestar el servicio público de transporte de pasajeros, a que se refiere el artículo 52 fracción I, incisos a) y b), de esta Ley, deberán estar equipados de un contenedor para depósito de residuos sólidos para uso exclusivo del usuario del servicio de transporte; debiendo la Secretaría, determinar las especificaciones técnicas en la norma que emita al respecto.
 
 ###### Artículo 88.
 
@@ -3140,3 +3144,13 @@ P.O. 7 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2527.- MEDIANTE EL CUAL SE ADICIONA EL TRANSITORIO DÉCIMO CUARTO AL DECRETO NÚMERO 634 MEDIANTE EL CUAL SE APRUEBA LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2635.- MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 87 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La Secretaría deberá emitir la norma técnica que regule esta adición dentro de los 60 días hábiles posteriores a la publicación del presente Decreto, en el Periódico Oficial del Gobierno del Estado de Oaxaca, y los concesionarios contarán hasta con el término de seis meses contados partir de la publicación de la norma técnica, para implementar en sus unidades de motor los contenedores para basura.
+
+TERCERO.- La Secretaría, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable, deberá implementar capacitaciones a los concesionarios y/o choferes del transporte público, para el manejo final de los residuos sólidos.
