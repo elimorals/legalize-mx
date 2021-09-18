@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2021-08-28"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -537,13 +537,13 @@ XL. Tramitar el nombramiento de los encargados de la Administración Municipal q
 
 XLI. Coordinar y Organizar el Órgano Desconcentrado denominado Secretariado del Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XLII. Proponer proyectos y políticas gubernamentales en la operación regional, mediante mecanismos de coordinación;
+XLII. Aplicar los programas, normas y ordenamientos en materia de seguridad e higiene en el trabajo en las unidades económicas del Estado en coordinación con las autoridades del trabajo competentes y en su caso, con la participación de los sectores empresarial, de los trabajadores, sindicatos, académicos y profesionales de la sociedad que inciden en este ámbito;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XLIII. En coordinación con COPLADE procurar el desarrollo y gobernabilidad regional en el estado;
+XLIII. Fortalecer la vinculación institucional con sindicatos y organismos empresariales para el fomento de buenas prácticas laborales;
 
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2018)</small>
 
@@ -1575,11 +1575,15 @@ IV. Formular y promover el establecimiento de medidas para el fomento y protecci
 
 V. Fortalecer la productividad y la posición competitiva de la micro, pequeña y mediana empresa privada y social;
 
-VI. Promover, orientar y estimular el establecimiento y desarrollo de empresas e industrias en el Estado, garantizando la participación equitativa de las mujeres;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Promover, orientar y estimular el establecimiento y desarrollo de Unidades económicas en el Estado en el ámbito de su competencia, fomentando la participación equitativa de las mujeres;
 
 VII. Impulsar la relación comercial con actores estratégicos a nivel nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como la inversión en la producción y exportación de productos oaxaqueños;
 
-VIII. Desarrollar y mantener actualizado un catálogo de inversión para el Estado de Oaxaca, el cual permita facilitar la inversión nacional e internacional en la entidad;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Desarrollar y mantener actualizado un catálogo de oportunidades de inversión en el Estado de Oaxaca;
 
 IX. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo económico del Estado;
 
@@ -1587,49 +1591,67 @@ X. Promover proyectos que potencialicen el desarrollo económico sustentable en 
 
 XI. Elaborar e impulsar proyectos estratégicos, innovadores y sustentables que permitan la generación de inversiones y empleos en la Entidad;
 
-XII. Implementar mecanismos para incentivar el establecimiento de empresas e industrias en el Estado;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+XII. Implementar mecanismos para el establecimiento de empresas e industrias en el Estado;
 
-XIII. Ejecutar en coordinación con la Comisión Estatal de Mejora Regulatoria del Estado de Oaxaca, programas y acciones en la materia de Mejora Regulatoria, que incentiven el establecimiento de nuevas empresas e industrias en la entidad;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XIV. Planear y determinar los lineamientos para la explotación de los recursos minerales, de acuerdo a las disposiciones federales y con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
+XIII. Ejecutar las políticas gubernamentales en materia de Mejora Regulatoria, a través de la Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca;
 
-XV. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la calidad de los productos, así como el impulso de las exportaciones;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Promover el desarrollo de las industrias extractivas de acuerdo a las disposiciones legales aplicables y con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la competitividad de los productos oaxaqueños, así como el impulso de las exportaciones;
 
 XVI. Estimular la formación y participación activa en consejos, comités, patronatos o asociaciones de carácter público, privado o mixto, cuyo propósito sea el desarrollo industrial y comercial;
 
-XVII. Coordinar a las entidades del sector publico paraestatal que realicen funciones (sic) economía, tales como fideicomisos públicos, empresas de participación estatal, organismos auxiliares y demás que sean sectorizadas a la Secretaría por acuerdo del Gobernador;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII. Auspiciar y vigilar con apego a la normatividad nacional e internacional una conducta de responsabilidad social empresarial;
+XVII. Coordinar a las entidades de la Administración pública Paraestatal, que sean sectorizadas (sic) Secretaría por acuerdo del Gobernador;
+
+XVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 XIX. Participar en coordinación con las Dependencias y Entidades de los tres ámbitos de gobierno, en el diseño e implementación de estrategias y programas de abasto de productos básicos;
 
-XX. Procurar el equilibrio entre los factores de la producción, proponiendo y ejecutando las políticas sectoriales, programas y acciones que permitan consolidar en el Estado una nueva cultura laboral con justicia social;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XXI. Promover el incremento de la productividad laboral en el Estado;
+XX. Procurar el equilibrio entre los factores de la producción, proponiendo y ejecutando las políticas sectoriales, programas y acciones que permitan consolidar en el Estado una nueva cultura empresarial;
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2016)</small>
+XXI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
-XXII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2016)</small>
+XXII. Fomentar a través de la Coordinación del Servicio Nacional de Empleo Oaxaca, el empleo, la capacitación y el adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo;
 
-XXIII. Coordinar el Servicio Nacional de Empleo Oaxaca, así como promocionar y coordinar las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XXIV. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como, vigilar la observancia de tales principios al interior del Gobierno del Estado;
+XXIII. Vigilar el funcionamiento de la Coordinación del Servicio Nacional de Empleo (sic) Oaxaca y en el Estado;
 
-XXV. Fomentar la integración y desarrollo de las cooperativas, así como, coordinar y supervisar su funcionamiento, a fin de garantizar la protección a los integrantes y/o usuarios de las mismas;
+XXIV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
+
+XXV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 XXVI. Gestionar en los programas sociales en beneficio y apoyo a las necesidades de la mujer; vigilando el cumplimiento de sus objetivos de conformidad con las reglas de operación vigentes;
 
-XXVII. Organizar y fomentar la producción artesanal, así como, las industrias populares, promoviendo los estímulos necesarios para su desarrollo y comercialización;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XXVIII. Aplicar los programas, normas y ordenamientos en materia de seguridad e higiene en el trabajo, en las unidades económicas del Estado en coordinación con las autoridades del trabajo competentes y en su caso, con la participación de los sectores empresarial, de los trabajadores, sindicatos, académicos y profesionales de la sociedad que inciden en este ámbito;
+XXVII. Vigilar la organización y fomento de la producción artesanal, así como, las industrias populares, promoviendo los estímulos necesarios para su desarrollo y comercialización;
 
-XXIX. Fortalecer la vinculación institucional con sindicatos y organismos empresariales para el fomento de buenas práctivas (sic) laborales; y
+XXVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
-XXX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+XXIX. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXX. Otorgar la certificación de origen a los productos de origen oaxaqueño, que cumplan con los requisitos que para tal efecto se establezcan; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXXI. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado su reglamento interno y demás disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -3340,3 +3362,11 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2636.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XLII Y XLIII DEL ARTÍCULO 34, Y LAS FRACCIONES VI, VIII, XII, XIII, XIV, XV, XVII, XX, XXII, XXIII, XXVII Y XXX DEL ARTÍCULO 46-A; SE ADICIONA LA FRACCIÓN XXXI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 46-A; Y SE DEROGAN LAS FRACCIONES XVIII, XXI, XXIV, XXV, XXVIII Y XXIX DEL ARTICULO 46-A, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
