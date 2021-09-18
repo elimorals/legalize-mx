@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2021-08-28"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -59,13 +59,29 @@ El representante legal del Poder Judicial del Estado es el presidente del Tribun
 
 ###### Artículo 2.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Corresponde a los Tribunales del Poder Judicial la facultad de interpretar y aplicar la Constitución Política del Estado Libre y Soberano de Oaxaca, los tratados internacionales, las leyes en los asuntos, del orden civil, familiar, penal, laboral y de adolescentes del fuero común.
+Corresponde a los Tribunales del Poder Judicial del Estado la facultad de:
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Los tribunales y juzgados del Poder Judicial tendrán jurisdicción concurrente del orden federal, cuando expresamente les sea conferida y en todas las materias aplicarán el control difuso de constitucionalidad y convencionalidad en términos de la Constitución Política de los Estados Unidos Mexicanos y de los tratados internacionales en materia de derechos humanos de los que el Estado mexicano sea parte.
+Aplicar la Constitución Política de los Estados Unidos Mexicanos, y los Tratados Internacionales en materia de Derechos Humanos, la interpretación que de una y otra establezcan las entidades competentes.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Aplicar el control difuso de constitucionalidad y convencionalidad en todas las materias de su conocimiento, en términos de la Constitución Federal y de los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Aplicar los ordenamientos legales en los que exista materia concurrente.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Aplicar e interpretar la Constitución Política del Estado Libre y soberano de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Aplicar e interpretar los ordenamientos de orden civil, familiar, penal, de adolescentes, laboral y de todas las disposiciones estatales que tengan que ver con la administración de justicia.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -127,7 +143,9 @@ I. El Pleno del Tribunal Superior de Justicia;
 
 II. El Consejo de la Judicatura;
 
-III. Las salas especializadas en razón de la materia; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+III. Las salas que integran el Tribunal Superior de Justicia; y
 
 IV. Los juzgados de primera instancia en las materias penal, civil, familiar, oral mercantil, laboral, mixtos, de control, especializados en justicia para adolescentes, ejecución de sanciones, ejecución de penas; y tribunales de enjuiciamiento.
 
@@ -139,11 +157,11 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.
 
 De su integración y funcionamiento.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 5.
 
-El Tribunal Superior de Justicia se integrará por un Magistrado Presidente y los Magistrados que de acuerdo al presupuesto y a las necesidades de la función jurisdiccional lo exija.
+El Tribunal Superior de Justicia se integrará por una Magistratura que fungirá como Presidente o Presidenta y las Magistraturas que de acuerdo al presupuesto y a las necesidades de la función jurisdiccional lo exija.
 
 ###### Artículo 6.
 
@@ -301,19 +319,23 @@ El Pleno en la última sesión de cada período designará a la comisión que ac
 
 De la Presidencia del Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 16.
 
-El Tribunal Superior de Justicia estará presidido por el magistrado que en votación secreta resulte electo en la primera sesión plenaria del mes de enero.
+El Tribunal Superior de Justicia estará Presidido por la magistratura que en votación secreta resulte electa en la primera sesión plenaria del mes de enero, observando el principio de alternancia de género.
 
-El magistrado electo tomará inmediata posesión de su cargo y rendirá la protesta como Presidente del Tribunal Superior de Justicia del Estado; durará en su cargo el tiempo que señale la Constitución Política del Estado Libre y Soberano de Oaxaca y podrá ser reelecto por un período más.
+La magistrada o magistrado electo tomará inmediata posesión de su cargo y rendirá la protesta en el cargo de la Presidencia del Tribunal Superior de Justicia del Estado; durará en su cargo el tiempo que señale la Constitución Política del Estado Libre y Soberano de Oaxaca y podrá ser reelecta por un periodo más.
 
-Si ocurriera la falta absoluta del presidente por cualquier causa, el Pleno elegirá por mayoría un presidente interino para que termine el período.
+Si ocurriera la falta absoluta de quien ocupe la presidencia por cualquier causa, el Pleno elegirá por mayoría una presidencia interina para que termine el período.
 
-Las ausencias menores de diez días hábiles serán cubiertas por el magistrado que designe el presidente. Las ausencias mayores de diez días pero menores de seis meses, serán cubiertas por el magistrado que designe el Pleno en calidad de sustituto. Las ausencias mayores de seis meses, serán cubiertas por el magistrado que designe el Pleno en calidad de interino.
+Las ausencias menores de diez días hábiles serán cubiertas por la o el magistrado que designe quien ocupe la presidencia. Las ausencias mayores de diez días, pero menores de seis meses, serán cubiertas por la o el magistrado que designe el Pleno en calidad de sustituto o sustituta. Las ausencias mayores de seis meses, serán cubiertas por la o el magistrado que designe el Pleno en calidad de interino o interina.
 
 ###### Artículo 17.
 
-El Presidente del Tribunal Superior de Justicia tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+La Presidencia del Tribunal Superior de Justicia tendrá las siguientes atribuciones:
 
 I. Representar legalmente al Tribunal Superior de Justicia del Estado;
 
@@ -379,17 +401,55 @@ La estructura orgánica, atribuciones y requisitos de las unidades auxiliares a 
 
 De las salas del Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 20.
 
-El Tribunal Superior de Justicia funcionará con las salas que sean necesarias para la pronta y expedita impartición de justicia. Las salas podrán ser especializadas en razón de la materia. Se enumerarán progresivamente según lo acuerde el Pleno.
+El Tribunal Superior de Justicia funcionará con las Salas que sean necesarias para la pronta y expedita impartición de justicia.
 
-Cada una de las salas se integrará con un número impar de magistrados, quienes en la primera sesión del mes de enero de cada año, elegirán a quien las presida. El presidente de sala durará en su cargo un año y podrá ser reelecto consecutivamente hasta por dos períodos más.
+Según lo acuerde el Pleno del Tribunal Superior de Justicia, las Salas podrán ser, por las necesidades del servicio:
 
-Las ausencias del magistrado presidente de sala serán cubiertas por el magistrado decano de cada sala.
+I. Colegiadas y/o Unitarias.
 
-Las ausencias de un magistrado de sala menores a treinta días serán cubiertas por un magistrado integrante de otra sala, el que será designado por el Pleno para un período de un año, en la primera sesión que corresponda al primer período ordinario de sesiones. Cuando fueren mayores a treinta días, serán cubiertas por el juez designado por el Pleno del Tribunal Superior de Justicia a propuesta de su presidente.
+II. Especializadas y/o Mixtas.
 
-Las salas del Tribunal Superior de Justicia del Estado conocerán de los medios de impugnación que la ley de la materia determine, en los procesos seguidos en los juzgados de todo el Estado, exceptuando los que correspondan al Tribunal de lo Contencioso Administrativo.
+III. Centrales y/o Regionales.
+
+Las salas del Tribunal Superior de Justicia del Estado conocerán de los medios de impugnación que la ley de la materia determine, en los procesos seguidos en los juzgados de todo el Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20 Bis.
+
+Las Salas Colegiadas se integrarán con magistradas o magistrados en número de tres, quienes en la primera sesión del mes de enero de cada año, elegirán quien las presida. La presidenta o el presidente de Sala durará en su cargo un año y podrá ser reelecta o reelecto consecutivamente hasta por dos periodos más.
+
+Las Salas Colegiadas funcionarán en Pleno y tomarán sus acuerdos por unanimidad o mayoría de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
+
+En las colegiadas, la magistrada o magistrado que disintiere de la mayoría podrá formular voto particular el cual se insertará al final de la resolución respectiva si fuere presentado dentro de los cinco días hábiles siguientes a la fecha de acuerdo; o en su caso voto razonado para la misma finalidad.
+
+Las sesiones y audiencias de las Salas colegiadas y las audiencias de las unitarias se realizarán en los días y horarios que se establezcan mediante acuerdos generales.
+
+Con excepción de la o del Presidente del Tribunal Superior de Justicia, las magistradas y magistrados están obligados a integrar Sala Unitaria o Colegiada, según corresponda al asunto que deba resolverse.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20 Ter.
+
+Las o los Presidentes de las Salas Unitarias tendrán las mismas facultades y obligaciones que corresponden a las o los Presidentes de las Salas Colegiadas.
+
+Las Salas Unitarias se integrarán en forma equitativa con el número de secretarios o secretarias de estudio y cuenta adscritos a la Sala Colegiada de que se trate.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 20 Quáter.
+
+Las ausencias de la o del Presidente de la Sala Colegiada serán cubiertas por la magistrada o magistrado decano de cada Sala y en caso de ausencia de ambos, asumirá la presidencia la magistrada o el magistrado presente.
+
+Las ausencias de la o del titular de las Salas unitarias serán cubiertas por la o el titular de la Sala Unitaria de número subsecuente.
+
+Las ausencias de una magistrada o magistrado integrante de Sala menores a treinta días serán cubiertas por la magistrada o magistrado integrante de otra Sala de acuerdo a la agenda que para tal efecto acuerde el Pleno del Tribunal Superior de Justicia en la primera sesión ordinaria de cada año.
+
+Las ausencias de la magistrada o magistrado integrante de Sala mayores de treinta días serán cubiertas por la jueza o el juez que para ese efecto designe el Pleno del Tribunal Superior de Justicia a propuesta de quien lo preside.
 
 ###### Artículo 21.
 
@@ -411,15 +471,17 @@ Las salas del Tribunal Superior de Justicia del Estado se integrarán atendiendo
 
 Las salas conocerán además:
 
-I. De acuerdo a su especialidad; de los conflictos competenciales, de las recusaciones y excusas de los jueces de primera instancia, exceptuando a los del Tribunal Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+I. De acuerdo a su especialidad; de los conflictos competenciales, de las recusaciones y excusas de las y los titulares de los órganos jurisdiccionales de primera instancia;
 
-II. Las salas penales; de las solicitudes de reconocimiento de inocencia, anulación de sentencia y de los juicios de amparo que se promuevan en contra de actos de los jueces de primera instancia, exceptuando a los del Tribunal Contencioso Administrativo, en los términos de la fracción XII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos; y las civiles o mixtas en su caso, de los juicios de responsabilidad que se promuevan en contra de los jueces;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+II. Las salas penales; de las solicitudes de reconocimiento de inocencia, anulación de sentencia y de los juicios de amparo que se promuevan en contra de actos de las y los titulares de los órganos jurisdiccionales de primera instancia, en los términos de la fracción XII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos; y las civiles o mixtas en su caso, de los juicios de responsabilidad que se promuevan en contra de las juezas y los jueces;
 
-III. En alzada, de los recursos que la ley de la materia determine en los procesos seguidos ante la primera instancia, exceptuando a los del Tribunal Contencioso Administrativo. En materia penal, con excepción de lo dispuesto en la ley de justicia para adolescentes, el reconocimiento de inocencia y anulación de sentencia deberán ser conocidos por magistrados que no hubieren intervenido en el mismo asunto en apelación; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+III. En alzada, de los recursos que la ley de la materia determine en los procesos seguidos ante la primera instancia. En materia penal, con excepción de lo dispuesto en la ley de justicia para adolescentes, el reconocimiento de inocencia y anulación de sentencia deberán ser conocidos por las magistradas o los magistrados que no hubieren intervenido en el mismo asunto en apelación;
 
 IV. La Sala Constitucional conocerá de aquellos asuntos previstos en el artículo 106, apartado B, de la Constitución Política del Estado de Oaxaca.
 
@@ -559,17 +621,17 @@ Del territorio.
 
 ###### Artículo 34.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-En el Estado habrá juzgados penales, civiles, orales mercantiles, familiares, de control, tribunales de enjuiciamiento, especializados en justicia para adolescentes, de ejecución de sanciones, ejecución de penas, mixtos y en materia laboral; que sean necesarios para la pronta y expedita administración de justicia.
+En el Estado habrá en su modalidad oral o escrita, juzgados penales, civiles, mercantiles, familiares, en materia laboral, de control, tribunales de enjuiciamiento, especializados en justicia para adolescentes, de ejecución penal, de extinción de dominio, así como los mixtos que sean necesarios para la pronta y expedita administración de justicia.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 En los distritos judiciales con población mayoritariamente indígena, los juzgados resolverán los asuntos de su competencia atendiendo las normas estatales y las normas indígenas en un marco de pluralismo jurídico.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-La jurisdicción de primera instancia en materia penal acusatoria y de justicia para adolescentes comprende a los jueces de control, de enjuiciamiento y de ejecución de penas.
+La jurisdicción de primera instancia en materia penal acusatoria y de justicia para adolescentes comprende a las juezas y jueces de control, de enjuiciamiento y de ejecución penal.
 
 Los juzgados se identificarán por el orden que les corresponda, según la materia y por el lugar de su residencia; podrán agruparse en distritos judiciales en la forma y términos que determine el Consejo de la Judicatura.
 
@@ -593,11 +655,11 @@ Los secretarios de acuerdos serán sustituidos por otro secretario del mismo juz
 
 En ausencia del ejecutor o actuario judicial, el secretario de acuerdos ejercerá las funciones que le correspondan a aquél.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 37.
 
-Los juzgados de control, especializados en justicia para adolescentes y de ejecución de penas, se integrarán por el número de jueces que requiera la carga de trabajo. El tribunal de enjuiciamiento, en el sistema de adultos, se integrará de manera unitaria cuando la pena máxima del delito de que se trate no exceda de ocho años de prisión; fuera de este supuesto se integrará de manera colegiada por tres jueces.
+Los juzgados de control, especializados en justicia para adolescentes y de ejecución penal, se integrarán por el número de jueces que requiera la carga de trabajo. El tribunal de enjuiciamiento, conocerá de la etapa de juicio en materia penal y se integrará de manera unitaria o colegiada, dependiendo de los Acuerdos que para tal efecto emita el Consejo de la Judicatura, privilegiándose el conocimiento de asuntos de manera colegiada en delitos que afecten a niñas, niños y adolescentes y delitos en los que exista violencia de género.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
 
@@ -689,17 +751,21 @@ Los jueces residirán en el domicilio donde se ubique el juzgado al que estén a
 
 Cuando el juez tenga impedimento legal para conocer en determinados asuntos, será sustituido por el juez de igual categoría más próximo geográficamente o por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la sala que conozca del impedimento.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 44.
 
-Los requisitos para ser secretario de acuerdos de juzgado, de sala, de estudio y cuenta, ejecutor o actuario judicial.
+Los requisitos para ser secretaria o secretario de acuerdos de juzgado, de sala, de estudio y cuenta, ejecutora, ejecutor, actuaria o actuario judicial.
 
-1. Cedula profesional.
+1. Contar con la ciudadanía mexicana en pleno ejercicio de sus derechos civiles y políticos;
 
-2. Pertenecer al poder judicial.
+2. Tener título y cédula profesional de licenciatura en derecho, expedidos por institución educativa y autoridad legalmente facultada para ello;
 
-3. Cinco años de experiencia en práctica forense; y
+3. Tener cinco años de ejercicio profesional cuando menos al día de su nombramiento para ser secretario o secretaria y tres para actuario o actuaria judicial
 
-4. Los demás que fije el reglamento.
+4. Presentar las evaluaciones que determine el Consejo de la Judicatura; y
+
+5. Las demás que fije el reglamento.
 
 ###### Artículo 45.
 
@@ -789,7 +855,9 @@ VI. Ejercer el presupuesto de egresos del Poder Judicial del Estado, con excepci
 
 VII. Ordenar auditorias especiales o visitas de inspección ordinarias o extraordinarias;
 
-VIII. Conocer en segunda instancia de los recursos que se presenten en contra de las resoluciones dictadas por el visitador general;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Conocer en segunda instancia de los recursos que se presenten en contra de las resoluciones dictadas por las autoridades resolutoras de los órganos internos de control y de la Comisión de Disciplina;
 
 IX. Supervisar el funcionamiento de los órganos que integran el Poder Judicial, así como el desempeño de los servidores públicos y emitir los acuerdos generales necesarios para el mejoramiento de la administración de justicia;
 
@@ -801,7 +869,9 @@ XII. Instrumentar y vigilar la carrera judicial, en los términos que establece 
 
 XIII. Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo de los tribunales especializados, de los juzgados y tribunales de primera instancia;
 
-XIV. Expedir su reglamento interior, las normas de escalafón y régimen disciplinario, los manuales de procedimientos, organización y métodos, los acuerdos generales para el funcionamiento del Poder Judicial, con excepción del Tribunal Superior de Justicia, así como el reglamento relativo al haber o retiro en caso de conclusión del período constitucional de los consejeros;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Expedir su reglamento interior, las normas de escalafón y régimen disciplinario, los manuales de procedimientos, organización y métodos, los acuerdos generales para el funcionamiento del Poder Judicial, con excepción del Tribunal Superior de Justicia;
 
 XV. Establecer la política laboral y de organización en materia de recursos humanos del Poder Judicial, con excepción del Tribunal Superior de Justicia;
 
@@ -843,15 +913,17 @@ XXIX. Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su
 
 XXX. Fijar las bases de la política informática y los lineamientos para la información estadística que permitan conocer y planear el desarrollo del Poder Judicial; así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública;
 
-XXXI. Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleados del propio Consejo de la Judicatura; de los tribunales especializados, juzgados y tribunales de primera instancia; todo ello en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que se dicten en materia disciplinaria, por conducto de la visitaduría general;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXXI. Investigar y determinar las responsabilidades y sanciones a las servidoras y servidores públicos y a las y los empleados del propio Consejo de la Judicatura, juzgados, tribunales de primera instancia; todo ello en los términos y mediante los procedimientos establecidos en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, esta Ley, los reglamentos y acuerdos que se dicten en materia disciplinaria, por conducto de los órganos internos de control y de la Comisión de Disciplina;
 
 XXXII. Regular las autorizaciones para abandonar el lugar de residencia de los servidores públicos adscritos a los juzgados y tribunales especializados del Poder Judicial;
 
 XXXIII. Dictar las disposiciones necesarias para la recepción, control, adjudicación y destino de los bienes asegurados y decomisados;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XXXIV. Nombrar y remover en los términos que señale el reglamento interno y acuerdos generales, al titular y asesores de la Coordinación de Asesores del Tribunal Contencioso Administrativo y de Cuentas;
+XXXIV. Nombrar, conforme a esta Ley, a una jueza o juez interinos en los juzgados del sistema acusatorio, de justicia para adolescentes y de ejecución penal, que cubra las licencias extraordinarias y especiales que se otorguen sin goce de sueldo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
@@ -977,11 +1049,15 @@ Del Presidente del Consejo de la Judicatura.
 
 ###### Artículo 66.
 
-Son atribuciones del presidente del Consejo de la Judicatura, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Son atribuciones de quien presida el Consejo de la Judicatura:
 
 I. Representar legalmente al Consejo de la Judicatura;
 
-II. Tramitar los asuntos de la competencia del pleno del Consejo de la Judicatura y turnar los expedientes entre sus integrantes para que formulen los correspondientes proyectos de resolución. En caso de que el presidente estime trascendental algún trámite, designará a un consejero ponente para que someta el asunto a la consideración del pleno del Consejo de la Judicatura, a fin de que este determine lo que corresponda;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+II. Tramitar los asuntos de la competencia del pleno del Consejo de la Judicatura y turnar los expedientes entre sus integrantes para que formulen los correspondientes proyectos de resolución. En caso de que la o el presidente estime trascendental algún trámite, designará a la consejera o el consejero ponente para que someta el asunto a la consideración del pleno del Consejo de la Judicatura, a fin de que se determine lo que corresponda;
 
 III. Presidir el pleno del Consejo de la Judicatura, dirigir los debates y conservar el orden en las sesiones;
 
@@ -989,15 +1065,21 @@ IV. Autorizar y supervisar el buen manejo y destino de los recursos propios y aj
 
 V. Despachar la correspondencia oficial del Consejo, salvo la reservada a los presidentes de las comisiones;
 
-VI. Proponer al pleno del Consejo de la Judicatura el nombramiento y remoción de los siguientes servidores públicos: secretario ejecutivo, secretario ejecutivo auxiliar, los titulares de los órganos auxiliares del Poder Judicial y titulares de los órganos de control interno y administración interna;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Proponer al pleno del Consejo de la Judicatura el nombramiento y remoción de las y los siguientes servidores públicos: secretaria o secretario ejecutivo, secretaria o secretario ejecutivo auxiliar, los titulares de los órganos auxiliares del Poder Judicial y titulares de los órganos internos de control y administración interna;
 
 VII. Vigilar el funcionamiento de los órganos auxiliares del Consejo de la Judicatura;
 
-VIII. Informar al Congreso del Estado y al Gobernador del Estado de las vacantes que se produzcan en el Consejo de la Judicatura que deban ser cubiertas mediante sus respectivos nombramientos;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Informar al Congreso y a la Gubernatura del Estado de las vacantes que se produzcan en el Consejo de la Judicatura que deban ser cubiertas mediante sus respectivos nombramientos;
 
 IX. Otorgar licencias en los términos previstos en esta ley;
 
-X. Firmar las resoluciones y acuerdos del pleno del Consejo de la Judicatura, y legalizar, por sí o por conducto del secretario ejecutivo que al efecto designe, la firma de los servidores públicos del Poder Judicial del Estado en los casos en que la ley exija este requisito;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+X. Firmar las resoluciones y acuerdos del pleno del Consejo de la Judicatura, y legalizar, por sí o por conducto de la secretaria o secretario ejecutivo que al efecto designe, la firma de las y los servidores públicos del Poder Judicial del Estado en los casos en que la ley exija este requisito;
 
 XI. Rendir cuenta anualmente ante el Congreso del Estado, del ejercicio del presupuesto del Consejo de la Judicatura; y
 
@@ -1081,81 +1163,99 @@ X. La dirección de infraestructura.
 
 Ningún integrante de Pleno, Salas y órganos internos del Poder Judicial deberá ser cónyuge, concubina o concubinario o parientes por consanguinidad hasta el cuarto grado o por afinidad dentro del segundo grado o civiles, de los magistrados del Tribunal Superior de Justicia, de los Tribunales Especializados y de los consejeros del Consejo de la Judicatura Estatal.
 
-## Título Sexto.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-De los órganos de control interno.
+## Título Sexto.. De los órganos internos de control
 
 ### Capítulo I.
 
 De la visitaduría general.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 71.
 
-La visitaduría general es un órgano de control interno del Consejo de la Judicatura adscrita a la comisión de disciplina y estará a cargo de un visitador general, quien será designado y removido por el Consejo de la Judicatura a propuesta de la comisión de disciplina del propio Consejo.
+La visitaduría general es un órgano interno de control del Consejo de la Judicatura adscrita a la comisión de disciplina que tiene la función de vigilar, controlar y fortalecer el funcionamiento de los órganos jurisdiccionales y administrativos dependientes del Consejo, a fin de lograr un ejercicio responsable, profesional e independiente, así como evitar actos que lo demeriten.
 
-Para ser visitador se requiere:
+Además, tiene la obligación de fomentar la cultura de integridad de los servidores públicos e implementar los mecanismos de prevención de faltas administrativas y hechos de corrupción, para dar seguimiento al Sistema Nacional Anticorrupción, a la Ley de (sic) General de Responsabilidades Administrativas, a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y la Ley Estatal de Acceso a las Mujeres a una Vida Libre de Violencia de Género.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+Estará a cargo de una visitadora o visitador general, cuya designación será realizada por el pleno del Consejo de la Judicatura a propuesta de la Presidenta o Presidente del propio Consejo y mediante un proceso de selección, transparente y objetivo que garantice la alternancia entre mujeres y hombres.
+
+Para ser visitadora o visitador se requiere:
+
+I. Ser ciudadano o ciudadana mexicana en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener por lo menos treinta años de edad cumplidos al día del nombramiento;
 
-III. Tener título y cédula profesional de licenciado en derecho expedidos por la institución educativa y autoridad legalmente facultada para ello;
+III. Tener título y cédula profesional de licenciatura en derecho, expedidos por la institución educativa y autoridad legalmente facultada para ello;
 
-IV. Haber sido juez del Poder Judicial, por lo menos cinco años anteriores a la designación;
+IV. Contar con diez años de experiencia profesional cuando menos;
 
-V. No tener notas de demerito en su expediente; y
+(NOTA: EL 26 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 153/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VI. No haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervante.
+V. NO HABER SIDO SANCIONADO O SANCIONADA ADMINISTRATIVAMENTE, CON SUSPENSIÓN EN EL EJERCICIO DE LA FUNCIÓN PÚBLICA, O CON DESTITUCIÓN O INHABILITACIÓN PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA FEDERAL O ESTATAL;
 
-La visitaduría general tendrá a su cargo, el número de visitadores necesarios para llevar a cabo su debido funcionamiento y permita el presupuesto de egresos.
+VI. No haber sido sentenciado o sentenciada por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervante.
+
+La visitaduría general tendrá a su cargo, el número de visitadoras o visitadores necesarios para llevar a cabo su debido funcionamiento y permita el presupuesto de egresos, incorporando la paridad de género en el proceso de selección.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 72.
 
-El visitador general tendrá las siguientes obligaciones:
+La Visitaduría se integra por:
 
-I. Planear, programar, coordinar e implementar la práctica de las visitas ordinarias de inspección a los juzgados de primera instancia;
+I. Las Visitadurías Investigadoras, encargadas de indagar las faltas administrativas;
 
-II. Coordinar e intervenir en las visitas extraordinarias de inspección ordenadas por el Consejo de la Judicatura y la comisión de disciplina;
+II. Las Visitadurías Instructoras, conductoras del procedimiento administrativo de responsabilidad y su correspondiente substanciación hasta ponerlo en estado de resolución; y
 
-III. Vigilar que las visitas y actas que se levanten con motivo de las mismas, se ajusten a los lineamientos precisados en esta ley, el reglamento respectivo y acuerdos generales, para lo cual podrá acompañar a los visitadores en la práctica de las mismas;
+III. La Visitaduría General, que tiene a su cargo la obligación de resolver los instructivos de responsabilidad e imponer las sanciones correspondientes.
 
-IV. Resolver los procedimientos de responsabilidad que se formen con motivo de las quejas que se presenten en contra de algún servidor del Poder Judicial, o como resultado de las visitas practicadas;
+Sus atribuciones y el procedimiento administrativo sancionador serán reguladas por el Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado y los Acuerdos Generales emitidos por el propio Consejo.
 
-V. Rendir un informe al Consejo de la Judicatura, por conducto de la comisión de disciplina, del resultado de las visitas efectuadas, al término de cada período ordinario de sesiones y cuando así lo solicite el presidente del Consejo de la Judicatura.
-
-El informe contendrá:
-
-a. Un diagnóstico sobre prácticas burocráticas que incidan en el retraso de los asuntos y las propuestas para corregirlas y evitarlas.
-
-b. Las causas que atenten en contra de la calidad y eficacia en el dictado de la sentencia y el método para corregirlas.
-
-VI. Aplicar las normas y lineamientos establecidos por el Consejo de la Judicatura para la unificación de criterios de actuación al interior de la visitaduría;
-
-VII. Atender a los justiciables que concurran a las oficinas de la visitaduría a exponer algún problema relativo a la actuación de los órganos jurisdiccionales;
-
-VIII. Designar en caso de ausencia temporal, que no exceda de diez días, al visitador que lo sustituya. Si la ausencia es mayor, será cubierta por el visitador que al efecto designe el Consejo de la Judicatura, con carácter de provisional; y
-
-IX. Las demás actividades que le instruya expresamente el Consejo de la Judicatura o su presidente.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 73.
 
-Los visitadores tendrán las siguientes obligaciones:
+El Visitador o Visitadora General tendrá las siguientes obligaciones:
 
-I. Atender, por riguroso turno, las quejas y denuncias, formuladas por el público o por los titulares de las distintas áreas del Poder Judicial, relativas a las faltas a la función pública encomendada a los servidores públicos judiciales y darles el trámite correspondiente;
+I. Planear, programar, coordinar e implementar la práctica de las visitas ordinarias de inspección a los juzgados de primera instancia
 
-II. Someter a consideración del visitador general los programas de ejecución de visitas que le correspondan;
+II. Coordinar e intervenir en las visitas extraordinarias de inspección ordenadas por el pleno del Consejo de la Judicatura y la comisión de disciplina;
 
-III. Practicar las visitas ordinarias de inspección, de conformidad con los calendarios aprobados;
+III. Vigilar que las visitas y actas que se levanten con motivo de las mismas, se ajusten a los lineamientos precisados en esta ley, el reglamento respectivo y acuerdos generales, para lo cual podrá acompañar a los visitadores y visitadoras en la práctica de las mismas;
 
-IV. Practicar las visitas extraordinarias que determine el Consejo de la Judicatura o la comisión de disciplina;
+IV. Fungir como autoridad resolutora en los procedimientos de que inicien con motivo de los informes de presunta responsabilidad administrativa de las y los servidores públicos del Consejo de la Judicatura, en el ámbito de su competencia
 
-V. Informar al visitador general, dentro del plazo de cinco días hábiles siguientes a la conclusión de la visita, sobre el resultado de la misma;
+V. Rendir un informe al Consejo de la Judicatura, por conducto de la comisión de disciplina, del resultado de las visitas efectuadas, al término de cada periodo ordinario de sesiones y cuando así lo solicite el Presidente o Presidenta del Consejo de la Judicatura.
 
-VI. Atender a las personas que durante las visitas se presenten ante ellos; asentar en el acta respectiva las observaciones relacionadas con el asunto planteado y darle seguimiento en su caso, haciéndolas llegar al visitador general, para los efectos procedentes;
+El informe contendrá:
 
-VII. Iniciar, diligenciar, tramitar, poner en estado de resolución, el instructivo de responsabilidad, con las más amplias facultades de investigación de los hechos, siempre que no sean contrarias a derecho; y
+a) Un diagnóstico sobre prácticas burocráticas que incidan en el retraso de los asuntos y las propuestas para corregirlas y evitarlas.
 
-VIII. Las demás actividades que le instruya expresamente el visitador general.
+b) Las causas que atenten en contra de la calidad y eficacia en el dictado de las sentencias y el método para corregirlas.
+
+VI. Aplicar las normas y lineamientos establecidos por el Consejo de la Judicatura para la unificación de criterios de actuación al interior de la visitaduría;
+
+VII. Atender a las y los justiciables que concurran a las oficinas de la visitaduría a exponer algún problema relativo a la actuación de los órganos jurisdiccionales;
+
+VIII. Designar en caso de ausencia temporal, que no exceda de diez días, al visitador o visitadora que lo sustituya.
+
+Si la ausencia es mayor, será cubierta por el visitador o visitadora que al efecto designe el pleno del Consejo de la Judicatura, con carácter de provisional;
+
+IX. Organizar, distribuir y mantener la buena marcha del órgano interno de control conforme a los Acuerdos Generales que se expidan.
+
+X. Establecer las medidas necesarias para que toda servidora o servidor público se conduzca con la ética y responsabilidad que la función pública merece.
+
+XI. Prevenir la comisión de faltas administrativas y hechos de corrupción, implementando acciones para orientar el criterio que en situaciones específicas deberán observar las servidoras y servidores públicos en el desempeño de sus empleos, cargos o comisiones.
+
+XII. Canalizar ante las Visitadoras y Visitadores Investigadores las comunicaciones que reciba sobre posibles conductas constitutivas de responsabilidad administrativa atribuible a servidoras y servidores públicos del Consejo de la Judicatura Estatal para su investigación.
+
+XIII. Distribuir por riguroso turno entre las Visitadoras y Visitadores Instructores las denuncias formuladas por las Visitadoras y Visitadores Investigadores para la substanciación o trámite del procedimiento correspondiente hasta ponerlo en estado de resolución.
+
+XIV. Sugerir a los titulares de órganos jurisdiccionales y áreas administrativas la adopción de medidas preventivas a fin de prevenir y evitar faltas administrativas, actos de corrupción, conductas de acoso sexual y otras formas de violencia sexual y de género.
+
+XV. Las demás actividades que le instruya expresamente el Consejo de la Judicatura o su Presidenta o Presidente.
 
 ###### Artículo 74.
 
@@ -1169,25 +1269,35 @@ La estructura orgánica de la visitaduría general se establecerá en el reglame
 
 De la Dirección de Contraloría Interna.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 76.
 
-La dirección de contraloría interna es un órgano de control interno adscrita a la comisión de disciplina y estará a cargo de un contralor, quien será designado y removido por el Consejo de la Judicatura a propuesta de la comisión de vigilancia, información, evaluación y transparencia del propio Consejo.
+La dirección de contraloría interna es un órgano interno de control adscrita a la comisión de disciplina tiene la función de vigilar, controlar y substanciar los procesos derivados de actos u omisiones en el manejo, aplicación, administración de fondos, valores y recursos económicos que se traduzcan en daños y perjuicios estimables en dinero causados al patrimonio del Poder Judicial, y las inherentes a las declaraciones de situación patrimonial y de intereses; dando seguimiento al Sistema Nacional Anticorrupción, a la Ley de (sic) General de Responsabilidades Administrativas y a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
-Para ser director de contraloría se requiere:
+Estará a cargo de una contralora o contralor, cuya designación o remoción la realizará el pleno del Consejo de la Judicatura a propuesta de la Presidenta o Presidente del propio consejo, mediante un proceso de selección, transparente y objetivo, que garantice la alternancia entre mujeres y hombres.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+Para ser titular de contraloría se requiere:
+
+I. Ser ciudadano o ciudadana mexicana en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener por lo menos treinta años de edad cumplidos al día del nombramiento y un mínimo de cinco años de experiencia en el campo profesional vinculado a la supervisión y control de recursos y programas públicos;
 
-III. Tener título y cédula profesional preferentemente de licenciado en contaduría pública, administración pública o economía, expedidos por la institución educativa y autoridad legalmente facultada para ello; y
+III. Tener título y cédula profesional preferentemente de licenciatura en contaduría pública, administración pública o economía expedidos por la institución educativa y autoridad legalmente facultada para ello.
 
-IV. No haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervante.
+(NOTA: EL 26 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 153/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IV. NO HABER SIDO SANCIONADO O SANCIONADA ADMINISTRATIVAMENTE, CON SUSPENSIÓN EN EL EJERCICIO DE LA FUNCIÓN PÚBLICA, O CON DESTITUCIÓN O INHABILITACIÓN PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA FEDERAL O ESTATAL; Y
+
+V. No haber sido sentenciado o sentenciada por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervante.
 
 ###### Artículo 77.
 
 La dirección de contraloría interna tendrá las siguientes atribuciones:
 
-I. Recepcionar las quejas, denuncias y sugerencias que se presenten con motivo de la actuación de los servidores públicos del Poder Judicial, y darles el trámite correspondiente;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+I. Recibir las quejas, denuncias, vistas turnadas por autoridades competentes, así como informes de auditorías internas y externas; con motivo de la actuación de las y los servidores públicos del Consejo de la Judicatura del Poder Judicial, con excepción de la propia Contraloría, o de terceros vinculados;
 
 II. Comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones derivadas de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, patrimonio, fondos y valores;
 
@@ -1197,41 +1307,67 @@ IV. Vigilar el óptimo aprovechamiento de los recursos humanos, financieros y ma
 
 V. Formular el programa anual de control y auditoría para aprobación del Consejo de la Judicatura del Poder Judicial;
 
-VI. Realizar la práctica de auditorías, investigaciones especiales de oficio, visitas, inspecciones y revisiones que ordene el Consejo de la Judicatura, a los órganos jurisdiccionales y áreas administrativas que integran el Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, así como elaborar los informes de resultados correspondientes, adjuntando las pruebas conducentes que serán remitidos al Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Fincar la responsabilidad administrativa resarcitoria a los servidores públicos del Poder Judicial, cuando detecte irregularidades por actos u omisiones en el manejo, aplicación, administración de fondos, valores y recursos económicos que se traduzcan en daños y perjuicios estimables en dinero causados al patrimonio del Poder Judicial;
+VI. Practicar las auditorías, inspecciones, intervenciones y revisiones que ordene el pleno del Consejo de la Judicatura, a los órganos jurisdiccionales y áreas administrativas que integran el Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, así como elaborar los informes de resultados correspondientes que serán remitidos a la comisión de disciplina;
 
-VIII. Supervisar que las observaciones derivadas de las auditorías practicadas sean atendidas con la debida oportunidad por los servidores públicos correspondientes, en caso de omisión, darle vista a la comisión de disciplina del Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Llevar a cabo las acciones que procedan a fin de hacer efectivo el cobro de las sanciones administrativas resarcitorias que se impongan a los servidores públicos del Poder Judicial;
+VII. Determinar e imponer las sanciones e indemnizaciones correspondientes por la comisión de faltas administrativas, en términos de la normatividad aplicable. Esta facultad será exclusiva de la o el titular de contraloría interna;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Supervisar que las observaciones derivadas de las auditorías practicadas sean atendidas con la debida oportunidad por las y los servidores públicos correspondientes;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Llevar a cabo las acciones que procedan a fin de hacer efectivo el cobro de las sanciones económicas e indemnizaciones que se impongan en las resoluciones emitidas por la propia Contraloría a las y los servidores públicos del Consejo de la Judicatura y terceros vinculados.
 
 X. Intervenir en las diligencias de entrega-recepción cuando ocurran cambios de titulares de las diversas áreas del Poder Judicial;
 
 XI. Autorizar las bajas de bienes muebles del inventario en coordinación con la dirección de administración;
 
-XII. Sustanciar los procedimientos administrativos con motivo de las inconformidades presentadas por los servidores públicos del Poder Judicial, que surjan de los pliegos preventivos de responsabilidad;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Sustanciar los procedimientos administrativos con motivo de las inconformidades presentadas por los proveedores o contratistas, derivadas de las adjudicaciones efectuadas por el Poder Judicial;
+XII. Constituirse como autoridad investigadora, substanciadora y resolutora por las presuntas faltas administrativas determinadas en los actos citados en la fracción I, en términos de la legislación aplicable en la materia;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Substanciar los procedimientos administrativos con motivo de las inconformidades presentadas por los proveedores o contratistas, derivados de los procedimientos de contratación.
 
 XIV. Sustanciar los recursos que se presenten en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
 
-XV. Recibir y registrar las declaraciones de situación patrimonial de los servidores públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. Dar seguimiento a la evolución de la situación patrimonial de los servidores públicos del Poder Judicial en términos de lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y en su caso, en las demás disposiciones emitidas por el Consejo de la Judicatura;
+XV. Coordinar la recepción y registro de las declaraciones de situación patrimonial y de intereses que deben presentar las y los servidores públicos del Poder Judicial; y, en su caso, instruir las acciones correspondientes por incumplimiento en su presentación;
 
-XVII. Requerir a los servidores públicos que omitan presentar su declaración de situación patrimonial inicial o de modificación patrimonial, y en su caso, dar vista a la comisión de disciplina;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII. Proceder a la investigación del patrimonio del servidor público que omita presentar su declaración final de situación patrimonial, dándole vista a la comisión de disciplina de los resultados obtenidos;
+XVI. Dar seguimiento a la evolución de la situación patrimonial de las y los servidores públicos del Poder Judicial en términos de las leyes Federales y Estatales que en materia de combate a la corrupción se encuentren vigentes, y en las demás disposiciones que en materia de responsabilidades administrativas sean aplicables;
 
-XIX. Elaborar los manuales de organización, políticas y procedimientos de las diversas áreas administrativas y jurisdiccionales del Poder Judicial, con el concurso de estas, aprobados por el Consejo de la Judicatura;
+XVII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
-XX. Llevar el registro de los requerimientos de pago relativos a las pólizas de fianza enviadas a la Secretaría de Finanzas del Poder Ejecutivo por los diferentes órganos jurisdiccionales del Poder Judicial;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XXI. Hacer del conocimiento de la comisión de disciplina de los hechos que puedan ser constitutivos de delitos imputables a los servidores públicos del Poder Judicial;
+XVIII. Implementar los lineamientos y criterios que emitan los Comités Coordinadores de los sistemas nacional y estatal de combate a la corrupción e informar a dichos órganos los avances y resultados que se obtengan;
 
-XXII. Colaborar en las actividades de fiscalización conforme le sea requerido por la Auditoría Superior del Estado; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XXIII. Las demás que señale el reglamento respectivo y acuerdos generales.
+XIX. Dar seguimiento a los requerimientos de pago y a las incidencias relativas a las pólizas de fianza turnadas por la Dirección del Fondo para la Administración de Justicia del Consejo de la Judicatura;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Hacer del conocimiento de la comisión de disciplina de los hechos que puedan ser constitutivos de delitos imputables a los servidores públicos del Poder Judicial;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXI. Colaborar en las actividades de fiscalización conforme se requiera por las autoridades competentes;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXII. Las demás que señale el reglamento respectivo y acuerdos generales;
+
+XXIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 La dirección de contraloría interna contará con el personal y las áreas que según las necesidades del servicio se requieran para el correcto ejercicio de sus facultades y funciones, en términos del reglamento respectivo y acuerdos generales; y lo permita el presupuesto de egresos.
 
@@ -1273,7 +1409,9 @@ b) Aplicar los lineamientos que determinen los objetivos, programas, metas, pres
 
 c) Formular conjuntamente con las áreas responsables, los anteproyectos del gasto público y presupuesto de egresos del Poder Judicial, que se presentaran en tiempo y forma para su revisión y aprobación al Consejo de la Judicatura;
 
-d) Elaborar de acuerdo a la Ley de Presupuesto, gasto público y contabilidad, el proyecto de presupuesto de egresos del Consejo de la Judicatura, tribunales especializados, juzgados y tribunales de primera instancia, con apego a los criterios de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados; y
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+d) Elaborar de acuerdo a la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, el proyecto de presupuesto de egresos del Consejo de la Judicatura, tribunales especializados, juzgados y tribunales de primera instancia, con apego a los criterios de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados; y
 
 e) Coordinar la vigilancia y evaluación del ejercicio del gasto y del presupuesto de egresos, verificando que se efectúen en los términos legales establecidos.
 
@@ -1345,7 +1483,9 @@ IV. Hacer cumplir las normas y directrices relativas a la selección, contrataci
 
 V. Operar, controlar y evaluar los presupuestos asignados a las áreas dependientes de la dirección de administración;
 
-VI. Administrar los bienes y servicios adquiridos o contratados mediante licitación por el Poder Judicial del Estado y el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Administrar los bienes y servicios adquiridos o contratados mediante licitación por el Poder Judicial del Estado y el Consejo de la Judicatura. En términos de lo dispuesto por la Ley General de Responsabilidades Administrativas.
 
 VII. Levantar y mantener actualizado el inventario general de bienes muebles e inmuebles, que sean propiedad o estén al cuidado del Poder Judicial;
 
@@ -2003,7 +2143,9 @@ De las responsabilidades de los servidores públicos del Poder Judicial.
 
 ###### Artículo 131.
 
-Todo servidor público, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño del servicio público, tiene las siguientes obligaciones de carácter general:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Las y los servidores públicos, en el desempeño de su empleo, cargo o comisión, observarán los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, equidad, integridad, eficacia, eficiencia, transparencia, economía, rendición de cuentas y competencia por mérito, debiendo cumplir con las siguientes obligaciones de carácter general:
 
 I. Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un cargo o comisión;
 
@@ -2017,13 +2159,19 @@ V. Custodiar y cuidar la documentación e información que por razón de su carg
 
 VI. Observar en la dirección de sus subalternos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
 
-VII. Abstenerse de vender o adquirir cualquier mercancía dentro de su centro de trabajo; así como de consumir alimentos fuera de las áreas establecidas para ello;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Rendir cuentas sobre el ejercicio de sus funciones en términos de las normas aplicables;
 
 VIII. Usar adecuadamente los sellos y papelería oficial;
 
-IX. Abstenerse de concurrir al desempeño de sus labores en estado de embriaguez o bajo la influencia de drogas prohibidas;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-X. Observar respeto y subordinación legítimas con respecto a sus superiores inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+IX. Abstenerse de concurrir al desempeño de sus labores en estado de embriaguez o bajo la influencia de drogas prohibidas, así como ingerirlas o consumirlas dentro de su centro de trabajo;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+X. Observar respeto a sus superiores inmediatos y mediatos, atendiendo las instrucciones que éstos dicten en el ejercicio de sus atribuciones;
 
 XI. Abstenerse de ejercer las funciones de un cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa en el ejercicio de sus funciones;
 
@@ -2033,15 +2181,21 @@ XIII. Abstenerse de desempeñar algún otro cargo o comisión oficial o particul
 
 XIV. Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar cargo o comisión en el servicio público;
 
-XV. Presentar con oportunidad y veracidad las declaraciones de situación patrimonial en los términos que señala esta Ley;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de los órganos de control interno correspondientes conforme a la competencia de ésta;
+XV. Presentar con oportunidad y veracidad las declaraciones de situación patrimonial y de intereses, en los términos de la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciban de los órganos internos de control correspondientes, conforme a la competencia de estos;
 
 XVII. Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo;
 
 XVIII. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
 
-XIX. Abstenerse de impedir la formulación de quejas y denuncias en contra de servidores públicos, por sí o por interpósita persona, utilizando cualquier medio;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. No interferir en la formulación de quejas y denuncias en contra de servidores públicos por sí o por interpósita persona, utilizando cualquier medio;
 
 XX. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos, mantenimientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa del Consejo de la Judicatura conforme a las disposiciones legales aplicables al caso de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
@@ -2051,15 +2205,39 @@ XXII. Alterar los registros de asistencia en forma intencional, o bien sustraer 
 
 XXIII. No remitir al archivo, al terminar el año, los expedientes cuya remisión sea forzosa, conforme a la ley; y
 
-XXIV. Las demás que le imponga esta ley, el reglamento respectivo, acuerdos generales y disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Se reputarán como faltas administrativas las infracciones a cualquiera de las obligaciones señaladas en este artículo y se considerarán como graves las contenidas en las fracciones III, IV, V, VIII, XI, XIII, XIV, XVIII y XIX.
+XXIV. No ejercer actos de violencia de género en términos de lo establecido por la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXV. No incurrir en actos de cohecho, peculado, desvío de recursos públicos, utilización indebida de información, abuso de funciones, actuación bajo conflicto de interés, enriquecimiento oculto u ocultamiento de interés, simulación de acto jurídico, tráfico de influencias, encubrimiento, desacato, nepotismo u obstrucción de la justicia en los términos previstos por la Ley General de Responsabilidad (sic) Administrativas;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI. No acosar u hostigar sexualmente, ni llevar a cabo conductas de naturaleza sexual, valiéndose de su posición jerárquica o aunque no exista dicha posición sobre otra persona de su entorno laboral o efectúe cualquiera de esas conductas sin el consentimiento de ésta;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Colaborar en los procedimientos administrativos en los que sea parte;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII. Las demás que le imponga esta Ley, la Ley General de Responsabilidades Administrativas, La Ley de Responsabilidades Administrativas del Estado y Municipios del Estado de Oaxaca, el reglamento respectivo, acuerdos generales y disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Se reputarán faltas administrativas las infracciones a cualquiera de las obligaciones señaladas en este artículo y se considerarán graves las contenidas en las fracciones I, III, IV, V, VIII, IX, XI, XIII, XIV, XVIII, XIX, XXI, XXII, XXIV, XXV y XXVI.
 
 ###### Artículo 132.
 
-Independientemente de las obligaciones generales de todo servidor público, señaladas en el artículo que antecede, se reputarán como faltas a la función pública en ejercicio de su cargo o comisión, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-I. De los jueces en cualquier sistema:
+Independientemente de las obligaciones generales de toda servidora o servidor público señaladas en el artículo que antecede, también constituirán faltas administrativas en ejercicio de su cargo o comisión, las siguientes:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+I. De las juezas y jueces en cualquier sistema:
 
 a) No dictar, sin causa justificada, dentro del término señalado por la ley, los acuerdos que procedan a las promociones de las partes;
 
@@ -2075,7 +2253,9 @@ f) Admitir fianza o contra fianzas en los casos que prescriben las leyes, de per
 
 g) Conocer de los negocios en que estuvieran impedidos por las causas previstas en las leyes;
 
-h) Declarar la rebeldía de alguna de las partes sin que las notificaciones y citaciones se hayan hecho sin cumplir con las formalidades que la ley exige o antes del término correspondiente;
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+h) Declarar la rebeldía de alguna de las partes cuando las notificaciones y citaciones se hayan hecho sin cumplir con las formalidades que la ley exige o antes del término correspondiente;
 
 i) No admitir las pruebas ofrecidas por los litigantes cuando reúnan los requisitos previstos por las leyes aplicables;
 
@@ -2099,11 +2279,41 @@ r) Decretar un embargo o ampliación de él, sin que se reúnan los requisitos d
 
 s) No concurrir, sin causa justificada, al desempeño de sus labores oficiales; y
 
-t) Las demás señaladas en el reglamento respectivo y acuerdos generales.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Se consideran faltas graves las establecidas en los incisos b), f), g), h), j), k) y q) de esta fracción.
+t) No dictar de manera inmediata las medidas urgentes para salvaguardar la integridad de las personas en situación de violencia o por motivos de género, o bien, tratándose de menores de edad o de aquellas personas en situación de vulnerabilidad;
 
-II. Del secretario de acuerdos de sala y secretarios de estudio y cuenta:
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+u) Inobservar disposiciones del orden público o de interés general;
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+v) Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado;
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+w) Brindar atención inmediata a los usuarios que lo soliciten, sean o no parte en los procedimientos sometidos a su consideración;
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+x) No velar por el respeto de los derechos humanos de las personas involucradas en cualquier tipo de juicio;
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+y) No actuar oficiosamente en los asuntos en que la ley lo establezca y;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+z) Las demás que le imponga esta Ley, la Ley General de Responsabilidades Administrativas, La Ley de Responsabilidades Administrativas del Estado y Municipios del Estado de Oaxaca, el reglamento respectivo, acuerdos generales y disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Se consideran faltas graves las establecidas en los incisos b), f), g), h), j), k), q), t), u), v), x) y y), de esta fracción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+II. De las secretarias y secretarios de acuerdos de sala y de estudio y cuenta:
 
 a) No dar cuenta dentro del término de ley, con los oficios y documentos oficiales dirigidos al juzgado, con los escritos y promociones de las partes;
 
@@ -2111,7 +2321,9 @@ b) No asentar en autos, dentro del término, las certificaciones que procedan de
 
 c) No diligenciar dentro del término de ley las resoluciones judiciales, a menos que exista causa justificada;
 
-d) No dar cuenta al presidente de la sala, de las faltas u omisiones que personalmente hubieren notado en los servidores públicos del poder judicial subalternos de la oficina, o se denuncien por el público verbalmente o por escrito;
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+a) (sic) No dar cuenta a la presidenta o presidente de la sala, de las faltas u omisiones que personalmente hubieren notado en las servidoras y servidores públicos del Poder Judicial subalternos de la oficina, o se denuncien por el público verbalmente o por escrito;
 
 e) No turnar los tocas en forma inmediata a los magistrados ponentes una vez desahogada la audiencia de vista;
 
@@ -2119,11 +2331,17 @@ f) No entregar los asuntos resueltos por el pleno de la sala para su debida noti
 
 g) No dar cumplimiento en tiempo y forma a lo que se ordene en la ejecutoria del pleno de la Sala; y
 
-h) Las demás señaladas en el reglamento respectivo y acuerdos generales.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Se consideran faltas graves las establecidas en los incisos a), c) y g) de esta fracción.
+h) Las demás que le imponga esta Ley, la Ley General de Responsabilidades Administrativas, La Ley de Responsabilidades Administrativas del Estado y Municipios del Estado de Oaxaca, el reglamento respectivo, acuerdos generales y disposiciones legales aplicables.
 
-III. De los secretarios de acuerdos en general:
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Se consideran faltas administrativas graves las establecidas en los incisos a), c) y g) de esta fracción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+III. De las secretarias y secretarios de acuerdos general:
 
 a) No remitir a los ejecutores o actuarios judiciales oportunamente las actuaciones que requieran notificación personal o la práctica de alguna diligencia;
 
@@ -2137,11 +2355,25 @@ e) No remitir al archivo, al terminar el año, los expedientes cuya remisión se
 
 f) Las fijadas en la fracción II de este artículo; y
 
-g) Las demás señaladas en el reglamento respectivo y acuerdos generales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Se consideran faltas graves las establecidas en los incisos a), b) y c) de esta fracción.
+g) No turnar mediante libro o por medio del sistema digital, los expedientes en estado de resolución;
 
-IV. De los ejecutores o actuarios judiciales:
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+h) No recibir mediante libro o sistema, las promociones, oficios y demás documentación oficial que le corresponda;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+i) Las demás que le imponga esta Ley, la Ley General de Responsabilidades Administrativas, La Ley de Responsabilidades Administrativas del Estado y Municipios del Estado de Oaxaca, el reglamento respectivo, acuerdos generales y disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Se consideran faltas administrativas graves las establecidas en los incisos a), b), c), g), h) de esta fracción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+IV. De las ejecutoras, ejecutores, actuarias o actuarios judiciales:
 
 a) No hacer con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones, cuando deban efectuarse fuera del juzgado o tribunal;
 
@@ -2153,13 +2385,27 @@ d) Hacer notificaciones, citaciones o emplazamientos a las partes por cédula o 
 
 e) Practicar embargos, aseguramientos o retención de bienes o lanzamientos de personas o corporación que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del juzgado, se les demuestre que esos bienes son ajenos, en todo caso, deberán agregar a los autos la documentación que se les presente a efecto de dar cuenta al titular del juzgado o tribunal; y
 
-f) Las demás señaladas en el reglamento respectivo y acuerdos generales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Se consideran faltas graves las establecidas en los incisos a) y b) de esta fracción.
+f) Simular actuaciones o prácticas de diligencias que no correspondan a la realidad.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+g) Violentar derechos fundamentales de las partes o terceros en la práctica de emplazamientos, embargos, lanzamientos o cualquier otra actuación.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+h) Las demás que le imponga esta Ley, la Ley General de Responsabilidades Administrativas, La Ley de Responsabilidades Administrativas del Estado y Municipios del Estado de Oaxaca, el reglamento respectivo, acuerdos generales y disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Se consideran faltas administrativas graves las establecidas en los incisos a), b), d), f) y g) de esta fracción.
 
 ###### Artículo 133.
 
-Se consideran faltas laborales las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Se consideran también faltas administrativas, las siguientes:
 
 I. No asistir puntualmente a su centro de trabajo y abandonar el mismo durante la jornada sin permiso o causa justificada;
 
@@ -2167,7 +2413,9 @@ II. No desempeñar las labores encomendadas con honestidad, cuidado, eficiencia,
 
 III. No guardar reserva de los asuntos de que tengan conocimiento con motivo de su trabajo;
 
-IV. No observar buenas costumbres dentro y fuera del lugar de trabajo, siempre y cuando esté actuando con el carácter de empleado al servicio del Poder Judicial;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+IV. No observar los principios y valores previstos en el Código de Ética del Poder Judicial del Estado de Oaxaca para las servidoras y servidores públicos.
 
 V. No responder por los daños ocasionados a los bienes que tengan a su cargo, con motivo del trabajo encomendado;
 
@@ -2187,167 +2435,155 @@ Se consideran faltas graves las establecidas en las fracciones II, III y VI de e
 
 ###### Artículo 134.
 
-Para determinar la imposición de la sanción se tomará en cuenta la gravedad de la falta, su propia naturaleza, los efectos que produce, las circunstancias exteriores de su ejecución y las condiciones personales del infractor.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 135.
 
-Las sanciones aplicables por faltas administrativas y del orden laboral, son:
+En los casos de responsabilidades administrativas ante faltas administrativas no graves se impondrán las sanciones administrativas siguientes:
 
-I. Apercibimiento dirigido con la finalidad de que se evite la repetición que una falta. Si se hace de modo personal será apercibimiento privado; si se hace por escrito y queda asentado en el expediente del sancionado será apercibimiento público;
+I. Amonestación pública o privada;
 
-II. Amonestación;
+II. Multa de diez a cien unidades de medida y actualización vigente;
 
-III. Multa de cincuenta a cien días de salario mínimo vigente en la capital del Estado;
+III. Suspensión del empleo, cargo o comisión, de un día a treinta días naturales, sin goce de sueldo;
 
-IV. Suspensión del empleo, sin goce de sueldo, de quince días a tres meses; y
+IV. Destitución de su empleo, cargo o comisión;
 
-V. Terminación de la relación laboral sin responsabilidad para el Poder Judicial.
+V. Terminación de la relación laboral sin responsabilidad para el Poder Judicial;
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas, de tres meses a un año.
+
+Dentro del procedimiento administrativo, se podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la falta administrativa no grave.
+
+A su vez, podrá abstenerse de imponer la sanción que corresponda siempre que la servidora o servidor público:
+
+I. No haya sido sancionada o sancionado previamente por la misma Falta administrativa no grave.
+
+II. No haya actuado de forma dolosa y la falta atribuida no sea de trascendencia.
+
+El Órgano Interno de Control dejará constancia de la no imposición de la sanción correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 136.
 
-Las sanciones aplicables por faltas a la función pública encomendada, son:
+Las sanciones administrativas derivadas de los procedimientos por la comisión de faltas administrativas graves, consistirán en:
 
-I. Apercibimiento dirigido con la finalidad de que se evite la repetición de una falta. Si se hace de modo personal será apercibimiento privado; si se hace por escrito y queda asentado en el expediente del sancionado será apercibimiento público;
+I. Multa de cincuenta a ciento cincuenta unidades de medida y actualización vigente;
 
-II. Amonestación;
+II. Suspensión del empleo, cargo o comisión de treinta días a noventa días naturales sin goce de sueldo;
 
-III. Multa de cincuenta a ciento veinte días de salario mínimo vigente en la capital del Estado;
+III. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas, en términos de lo previsto por la Ley General de Responsabilidades Administrativas;
 
-IV. Suspensión en la función de diez días a tres meses;
+IV. Destitución del empleo, cargo o comisión;
 
-V. Inhabilitación temporal de tres a seis meses para desempeñar empleo, cargo o comisión en el servicio público; y
+V. Terminación de la relación laboral sin responsabilidad para el Poder Judicial;
 
-VI. Destitución del cargo.
+VI. Sanción económica
 
-Cuando además de las faltas, los servidores públicos hayan incurrido en hechos que puedan ser constitutivos de delitos, se pondrá en conocimiento del ministerio público para los efectos legales correspondientes.
+Los Órganos Internos de Control podrán imponer a la infractora o infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la falta administrativa grave.
 
-Estas sanciones y las correspondientes a faltas al orden administrativo o laboral podrán aplicarse sin sujeción al orden establecido, en caso de reincidencia, la sanción se aumentará gradualmente, de existir daño patrimonial se impondrá su reparación.
+En el caso de que la falta administrativa grave cometida por la servidora o servidor público le genere beneficios económicos se le impondrá sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos.
+
+En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos. Lo anterior, sin perjuicio de la imposición de las sanciones referidas.
+
+Cuando además de las faltas administrativas graves, se advierta la probable comisión de hechos que la ley señale como delitos, se pondrá en conocimiento del ministerio público correspondiente, para los efectos legales respectivos.
+
+Estas sanciones y las correspondientes a faltas no graves podrán aplicarse sin sujeción al orden establecido, en caso de reincidencia, la sanción se aumentará gradualmente.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 137.
 
-Siempre que se presente una denuncia o queja en contra de un servidor público del Poder Judicial, el visitador que en turno corresponda, formará inmediatamente el expediente denominado instructivo de responsabilidad con expresión del lugar, día y hora en que se reciba la queja, a efecto de que concluya inexcusablemente por resolución dentro de un término no mayor de un año.
+Siempre que se presente una denuncia o queja en contra de un servidor o servidora pública del Poder Judicial, el visitador o visitadora que en turno corresponda, formará inmediatamente el cuaderno de investigación y en su oportunidad el expediente denominado de presunta responsabilidad administrativa con expresión del lugar, día y hora en que se reciba la queja.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 138.
 
-Las denuncias que se presenten por las faltas a la función pública encomendada en que incurran los servidores públicos del Poder Judicial, se harán constar por escrito, dando inicio al instructivo para su debida tramitación; los escritos de denuncia deberán estar autorizados con la firma del denunciante al igual que cuando se trate de una comparecencia ante la visitaduría, así mismo la persona deberá señalar domicilio en el lugar de residencia de la visitaduría general; si falta el primer requisito no se dará trámite alguno a la denuncia, si falta el segundo las notificaciones se efectuaran por medio de cédula fijada en el tablero de avisos de la visitaduría.
+El procedimiento de responsabilidad administrativa es de orden público. En él se integra la participación ciudadana de forma activa, estableciendo las medidas y procedimientos necesarios para facilitar e incentivar la denuncia de actos anómalos susceptibles de ser investigados y sancionados.
 
-También podrá iniciarse dicho procedimiento por acta levantada con motivo de las visitas practicadas a los órganos jurisdiccionales y administrativos por hechos que se desprendan del ejercicio de la función de dichos servidores.
+A tal efecto, en todo procedimiento deberán observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
 
-I. La denuncia o el acta por comparecencia contendrán, además de los requisitos señalados en los párrafos anteriores, lo siguiente:
+El procedimiento se regirá por las siguientes bases:
 
-a) El nombre y firma del denunciante, precisando su domicilio para efectos procesales;
+I. Todas las investigaciones y procedimientos se seguirán con respeto al principio de presunción de inocencia y garantizarán el derecho de audiencia a las personas involucradas.
 
-b) El nombre y cargo del servidor público judicial a quien se le atribuyan los hechos y el órgano en el que preste sus servicios;
+La perspectiva de género será transversal desde la investigación hasta la resolución final de los asuntos, buscando la restauración integral conforme a los acuerdos generales que al efecto se expidan.
 
-c) Expresará con claridad y precisión los hechos u omisiones que considere son la falta cometida en su agravio;
+II. Las medidas cautelares podrán dictarse en cualquier momento de la investigación o del procedimiento y serán proporcionales a la conducta investigada o procesada e instrumentales para la persecución de la finalidad buscada.
 
-d) Los documentos en su caso, con los cuales justifique la denuncia o constituyan el motivo del acta, mismos que deberán exhibirse en ese mismo momento; y
+Estas medidas estarán especialmente orientadas a prevenir y evitar conductas que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño del cargo de las servidoras y servidores públicos, así como la de salvaguardar la integridad de las personas afectadas, particularmente en caso de violencia sexual y de género.
 
-e) El ofrecimiento de las pruebas que el denunciante estime servirán para justificar su dicho, debiendo acompañarlas de todos los elementos necesarios para su desahogo; sin este requisito no serán admitidas.
+III. Las pruebas serán valoradas atendiendo a las reglas de la lógica, la sana crítica y de la experiencia, acorde a las disposiciones previstas en el Reglamento Interior del Consejo y los Acuerdos Generales que emita este último.
 
-II. El procedimiento se instruirá en los términos siguientes:
+En el caso de conductas de naturaleza sexual o relacionadas con violencia de género se deberá incorporar la perspectiva de género para la valoración de las pruebas.
 
-a) Se iniciará con la denuncia o acta de comparecencia o de visita en la que se ofrecerán las pruebas respectivas, la cual se presentará el visitador que en turno corresponda, quien se encargará de la substanciación del instructivo de responsabilidad.
+IV. La prescripción de la acción disciplinaria y la caducidad dentro del procedimiento respectivo se regularán de conformidad con lo dispuesto en el artículo 142 de esta ley.
 
-b) El visitador correrá traslado con la copia de la denuncia o el acta al probable infractor, para que dentro de cinco días hábiles siguientes al de la notificación rinda un informe por escrito, ofreciendo las pruebas que estime pertinentes, en términos de lo establecido en el inciso c) de la fracción I de este artículo.
-
-c) Se citará al servidor público y al denunciante, en su caso a una audiencia de pruebas y alegatos que se celebrará dentro de un plazo igual al que se refiere el inciso anterior, y en su caso se desahogarán las pruebas que hayan aportado.
-
-d) El citatorio para la audiencia a que se refiere este inciso se comunicará en forma personal al servidor público encausado como al denunciante; siempre y cuando éstos residan en el lugar del juicio. En caso contrario, se le notificará mediante envío por correo certificado con acuse de recibo.
-
-e) El responsable del trámite del instructivo de responsabilidad podrá llevar a cabo la práctica de cualquier diligencia probatoria, para el esclarecimiento de los hechos; concluido este remitirá el expediente en estado de resolución al visitador general para que resuelva conforme a derecho.
-
-f) De no existir diligencias probatorias adicionales, el visitador general formulará su resolución de responsabilidad o de no responsabilidad, así como la sanción correspondiente, ello dentro de un plazo de diez días hábiles, ordenando su cumplimiento.
-
-g) La resolución de responsabilidad dictada por visitador general, determinará la inhibición del servidor público en el conocimiento del asunto en el cual se originó la denuncia.
-
-h) La resolución de responsabilidad deberá ser publicada en las lista de acuerdos del órgano respectivo y remitir una copia al expediente del servidor público.
-
-i) El servidor público sancionado podrá interponer recurso de revisión ante el Pleno del Consejo de la Judicatura, dentro de los tres días siguientes a aquel en haya sido notificado, debiendo expresar en su escrito los agravios que estime se causan.
-
-j) Las resoluciones que declaren que no ha lugar a aplicar sanción alguna son irrecurribles.
-
-Las pruebas admisibles son las que se establecen en el reglamento respectivo.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 139.
 
-El procedimiento para sancionar las faltas administrativas o laborales será el siguiente:
+El procedimiento de responsabilidad administrativa será regulado por el Reglamento Interior del Consejo y los Acuerdos Generales que expida este último.
 
-I. Se citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a sus intereses convenga, por sí o por medio de un defensor.
-
-Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de tres ni mayor de cinco días hábiles.
-
-II. Al concluir la audiencia o dentro de los ocho días siguientes, se resolverá sobre la existencia o inexistencia de responsabilidad, e impondrá al infractor en el primer caso la sanción o sanciones administrativas o laborales correspondientes. La resolución se notificará al interesado, a su jefe inmediato, al gestor administrativo en el caso de los tribunales especializados y al superior jerárquico, dentro de las setenta y dos horas siguientes.
-
-III. Si de la audiencia se desprende que no existen elementos suficientes para resolver o se adviertan elementos que impliquen la configuración de otras causales de responsabilidad administrativa o laboral con cargo del presunto responsable o de responsabilidad de otras personas o servidores públicos, se podrá disponer la práctica de investigaciones y citar para otra u otras audiencias.
-
-IV. Para el caso de que la resolución a que se refiere la fracción II de este artículo, no se dicte al concluir la audiencia, la visitaduría podrá determinar tratándose de servidores públicos, la suspensión temporal de los presuntos responsables respecto de sus cargos o comisiones, si así conviene, para la conducción o continuación de las investigaciones.
-
-La suspensión temporal a que se refiere el párrafo anterior no prejuzga sobre la responsabilidad imputada. La determinación hará constar expresamente esta salvedad.
-
-La suspensión temporal a que se refiere el primer párrafo de esta fracción, suspenderá los efectos del acto que haya dado origen al empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio.
-
-La suspensión cesará cuando así lo resuelva la autoridad instructora, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo.
-
-Si los servidores suspendidos temporalmente, no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieron recibir durante el tiempo en que se hallaron suspendidos.
-
-Se requerirá la autorización del Presidente del Consejo de la Judicatura y en su caso del Presidente del Tribunal Superior de Justicia para dicha suspensión, cuando el nombramiento del servidor público de que se trate hubiese sido realizado por dicho presidente.
-
-Igualmente, se requerirá autorización del Presidente del Consejo de la Judicatura si dicho nombramiento requirió ratificación del Pleno del Consejo de la Judicatura, en términos de esta ley.
-
-V. Si el servidor público sujeto al procedimiento disciplinario confesare su responsabilidad, se procederá de inmediato a dictar la resolución, a no ser que quien conozca del procedimiento disponga de la recepción de pruebas para acreditar la veracidad de la confesión.
-
-En caso de que se acepte la plena validez probatoria de la confesión del servidor público sujeto a procedimiento, se impondrá al mismo dos tercios de la sanción aplicable.
-
-Quedará a juicio de la autoridad que resuelve disponer o no la suspensión temporal del servidor público.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 140.
 
-Las citaciones y notificaciones que se deban realizar para la práctica del procedimiento disciplinario se comunicarán conforme a las reglas siguientes: el citatorio para la audiencia de ley a que se refiere la fracción I del artículo anterior se comunicará en forma personal al servidor público encausado; de la misma forma se realizará la notificación de la resolución del fondo del asunto, siempre y cuando el servidor público resida en el lugar del juicio. En caso contrario, se le notificará mediante envío por correo certificado con acuse de recibo.
+Las notificaciones podrán hacerse personalmente, por oficio, por lista, cédula de notificación, oficio, estrados, mensajería, telegrama o medio electrónico como el fax o correo electrónico; en cualquiera de esos casos deberá agregarse la constancia respectiva al expediente.
 
-Todas las demás notificaciones se sujetarán a lo dispuesto por la última parte del párrafo anterior de este artículo.
+Las notificaciones serán reguladas por los acuerdos generales que emita el Consejo.
 
-Asimismo se levantará acta circunstanciada de todas las diligencias que se practiquen recabando las firmas de quienes participen o intervengan en ellas, haciéndose los apercibimientos en términos de ley a quienes declaren con falsedad ante autoridades competentes.
-
-Las resoluciones y acuerdos durante el procedimiento al que se refiere el artículo anterior constarán por escrito y se asentarán en el registro de la visitaduría.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 141.
 
-Tienen acción para denunciar la comisión de faltas de los servidores públicos del Poder Judicial:
+La investigación por la presunta responsabilidad de Faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos.
 
-I. Las partes en el juicio en que se cometieren;
+Las denuncias podrán ser anónimas. En su caso, las autoridades investigadoras mantendrán con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
 
-II. Los abogados patronos de los litigantes en los casos de responsabilidades provenientes de hechos u omisiones cometidas en el juicio que patrocinen, siempre que tengan cédula de profesional de la abogacía legalmente expedida y registrada por las autoridades competentes; y
-
-III. El ministerio público en los negocios en que intervenga.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 142.
 
-El derecho de las autoridades del Poder Judicial a sancionar las faltas prescribirá en dos años, en el supuesto de que la autoridad sancionadora desconozca la infracción o al infractor; si conoce ambos extremos, las faltas laborales y administrativas prescribirán en noventa días hábiles y las faltas a la función pública encomendada prescribirán en un año, contados éstos a partir de la fecha en que se tuvo conocimiento de la falta y del probable infractor.
+Para el caso de faltas administrativas no graves, las facultades de los Órganos Internos de Control para imponer las sanciones prescribirán en tres años contados a partir del día siguiente al en que se hubieren cometido las infracciones o a partir del momento en que hubieren cesado.
 
-La prescripción se interrumpe al iniciarse el instructivo de responsabilidad en contra del probable infractor.
+Cuando se trate de faltas administrativas graves, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
+
+En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses, sin causa justificada; en caso de actualizarse dicha inactividad, se decretará de oficio la caducidad de la instancia.
+
+Los plazos a los que se refiere el presente artículo se computarán en días naturales.
+
+La prescripción se interrumpirá con la notificación del inicio del procedimiento de responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 143.
 
-Las sanciones previstas en este título se impondrán tomando en cuenta las siguientes circunstancias:
+Para la imposición de las sanciones a que se refiere esta Ley se deberán considerar los elementos del empleo, cargo o comisión que desempeñaba la servidora o servidor público cuando incurrió en la falta, así como los siguientes elementos:
 
-I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta ley o las que se dicten con base en ella;
+I. La gravedad de la falta en que se incurra;
 
-II. Las circunstancias socioeconómicas del servidor público;
+II. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
-III. El nivel jerárquico, los antecedentes y las condiciones del infractor;
+III. El nivel jerárquico y los antecedentes de la infractora o infractor, entre ellos la antigüedad en el servicio;
 
-IV. Las condiciones exteriores y los medios de ejecución;
+IV. Las circunstancias socioeconómicas de la servidora o servidor público;
 
-V. La antigüedad del servicio;
+V. Las condiciones exteriores y los medios de ejecución;
 
-VI. La reincidencia en el incumplimiento de obligaciones; y
+VI. La reincidencia en el incumplimiento de obligaciones, y
 
-VII. El monto del beneficio, daño o perjuicio económico derivado del incumplimiento de obligaciones.
+VII. El monto del beneficio derivado de la infracción que haya obtenido el o la responsable.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 144.
 
-Los órganos encargados de imponer las sanciones por faltas de los servidores públicos del Poder Judicial, son los presidentes de las Salas del Tribunal Superior de Justicia, la visitaduría general, la comisión de disciplina y el pleno del Consejo de la Judicatura.
+Los órganos encargados de imponer las sanciones por faltas de las servidoras y servidores públicos del Poder Judicial son: las presidencias de las Salas del Tribunal Superior de Justicia, los órganos internos de control, la comisión de disciplina y el pleno del Consejo de la Judicatura.
 
 > <small>(DEROGADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
@@ -2369,19 +2605,19 @@ Disposiciones preliminares.
 
 ###### Artículo 145.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 146.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 147.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 148.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
@@ -2391,39 +2627,39 @@ Estructura del Tribunal.
 
 ###### Artículo 149.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 150.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 151.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 152.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 153.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 154.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 155.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 156.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 157.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
@@ -2433,39 +2669,39 @@ De los Magistrados.
 
 ###### Artículo 158.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 159.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 160.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 161.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 162.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 163.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 164.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 165.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 166.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
@@ -2473,11 +2709,11 @@ De los Magistrados.
 
 ###### Artículo 167.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 168.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
@@ -2485,15 +2721,15 @@ De los Magistrados.
 
 ###### Artículo 169.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 170.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 171.
 
-(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
+(REPUBLICADA SU DEROGACIÓN, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 > <small>N. DE E. EL DECRETO NÚMERO 1367, EXPEDIDO POR LA LXII LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE LIBRO.</small>
 
@@ -2505,11 +2741,9 @@ De los Magistrados.
 
 ### Capítulo único. De la Coordinación de Asesores
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 172.
 
-La Coordinación de Asesores de lo Contencioso Administrativo y de Cuentas se integra con el Coordinador de Asesores y el número de Asesores que determine el Consejo de la Judicatura, su finalidad es proporcionar asesoría profesional, especializada en materia fiscal y administrativa de forma gratuita a las personas en materia contenciosa administrativa. En materia de cuentas proporcionarán asesoría profesional, especializada a los servidores públicos de los municipios que se rigen por sistemas normativos internos. Estará a cargo de un coordinador de asesores y su estructura, organización y funcionamiento se establece en el Reglamento Interno y en los acuerdos generales del Consejo de la Judicatura.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 173.
 
@@ -2792,3 +3026,19 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2637.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Lo anterior sin perjuicio de tomar en cuenta las faltas, sujetos de responsabilidad administrativa, así como los principios y garantías por la entrada en vigor de la Ley General de Responsabilidad Administrativa.
+
+CUARTO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Pleno del Tribunal Superior de Justicia y el Pleno del Consejo de la Judicatura, en el ámbito de sus respectivas competencias, deberán realizar y expedir las adecuaciones necesarias a su normatividad interna de conformidad con lo previsto en el presente Decreto.
+
+QUINTO. De acuerdo a lo que permita el presupuesto de egresos asignado para el Poder Judicial, el Consejo de la Judicatura y los órganos internos competentes del Poder Judicial crearán las áreas necesarias para la implementación del procedimiento de responsabilidad administrativa, de conformidad a lo previsto en el presente Decreto.
