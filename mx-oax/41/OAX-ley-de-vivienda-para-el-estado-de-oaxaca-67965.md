@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2021-08-28"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -98,6 +98,10 @@ IV. Beneficiario: Persona que acredite el ahorro para incorporarlo a las diferen
 V. Comisión: La Comisión Estatal de Vivienda (C.E.V.I.);
 
 VI. Consejo: El Consejo Estatal de Vivienda;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+VI Bis. Construcción sustentable: Aquellas construcciones que están diseñadas pensando en el efecto ecológico de todos los procesos involucrados en la construcción habitacional, teniendo en cuenta al menos una práctica respetuosa con el medio ambiente en alguna de las etapas del proceso: diseño, construcción, uso, mantenimiento, rehabilitación, demolición y reciclaje.
 
 VII. Crédito para Vivienda: Préstamo que se concede para la adquisición de suelo para vivienda, construcción, rehabilitación, mejoramiento, ampliación, complementación o adquisición de una vivienda; así como aquellos destinados al pago de pasivos;
 
@@ -375,6 +379,10 @@ II. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano 
 
 III. Establecer las zonas para el desarrollo habitacional, de conformidad con la legislación aplicable en materia de desarrollo urbano;
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, el municipio promoverá en coordinación con las autoridades competentes tanto federales como locales, la construcción sustentable en el desarrollo de las acciones habitacionales.
+
 IV. Coordinar con el Gobierno del Estado, la ejecución y el seguimiento del correspondiente Programa Estatal de Vivienda;
 
 V. Prestar, en términos de las disposiciones jurídicas aplicables, los servicios públicos municipales a los predios en los que se realicen acciones de vivienda derivados de los diferentes programas de vivienda federales, estatales y municipales;
@@ -515,7 +523,13 @@ La Política Estatal de Vivienda tiene por objeto el cumplimiento de esta Ley y 
 
 I. Mantener la congruencia de las acciones de vivienda con los Planes Nacional y Estatal de Desarrollo y los Programas Regionales, Sectoriales, Institucionales y Especiales;
 
-II. Considerar en la construcción de la vivienda el respeto al entorno ecológico, la preservación, el uso eficiente de los recursos naturales, eficiencia energética y tratamiento de residuos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+II. Considerar en la construcción de la vivienda el respeto al entorno ecológico, la preservación, en el uso eficiente de los recursos naturales, eficiencia energética y la separación de residuos.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Considerando la implementación de calentadores solares, sistema de tratamiento de aguas, paneles solares entre algunas ecotecnias que ayuden a que sea una vivienda más sustentable;
 
 III. Atención a la población en situación vulnerable, capacidades especiales, marginación o de pobreza o a damnificados por fenómenos naturales;
 
@@ -1232,3 +1246,11 @@ P.O. 28 DE AGOSTO DEL 2021.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2648.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO, DE LA FRACCIÓN II DEL ARTÍCULO 18; Y SE ADICIONA LA FRACCIÓN VI BIS DEL ARTÍCULO 3, UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 15, Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 18, DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
