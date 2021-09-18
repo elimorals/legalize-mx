@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2021-08-24"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -1303,6 +1303,10 @@ El Congreso contará con los siguientes centros de estudios:
 
 I. El Centro de Estudios Económicos y Finanzas Públicas, como organismo de apoyo y consulta, que tendrá como objeto desarrollar investigaciones, análisis, opiniones y evaluaciones en materia económica, hacendaría, presupuestal y finanzas;
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Para cumplir con sus funciones, el Centro de Estudios Económicos y Finanzas Publicas, podrán solicitar información o documentación a dependencias y entidades de la administración pública estatal, poderes públicos, órganos constitucionales autónomos y de cualquier otro ejecutor del gasto público estatal;
+
 II. El Centro de Estudios Jurídicos e Investigación Parlamentaria, tendrá el propósito de desarrollar estudios sobre temas jurídicos y parlamentarios, así como apoyar a los órganos de gobierno y áreas administrativas del Congreso en sus actividades de organización y capacitación legislativa;
 
 III. El Centro de Estudios Sociales y de Opinión Pública, tendrá como objeto realizar investigaciones y estudios de opinión sobre el estado que guardan las políticas públicas en Oaxaca, así como impulsar la cooperación institucional con sectores académicos, de la sociedad civil y los poderes públicos para el diseño de proyectos e iniciativas de ley en materia de desarrollo social, gobernabilidad y participación ciudadana.
@@ -1317,9 +1321,11 @@ V. El Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prev
 
 Los Centros de Estudios establecidos en éste artículo estarán adscritos a la Jucopo, con excepción del Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, que estará adscrito a la Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 103.
 
-Cada Centro de Estudios contará con un director, que deberá cumplir con los mismos requisitos que para ser titular de la Secretaría de Servicios Parlamentarios del Congreso, además de contar con los conocimientos y experiencia en el área afín a los objetivos de cada centro.
+Quien sea titular del Centro de Estudios deberá cumplir con los mismos requisitos que para ser titular de la Secretaría de Servicios Parlamentarios del Congreso, además de contar con los conocimientos y experiencia en el área afín a los objetivos de cada centro.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL PROCEDIMIENTO LEGISLATIVO
 
@@ -1586,3 +1592,11 @@ P.O. 24 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2655.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 103 Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I AL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
