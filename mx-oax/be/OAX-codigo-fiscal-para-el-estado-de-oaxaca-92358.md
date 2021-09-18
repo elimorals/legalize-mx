@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2020-12-26"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -4357,19 +4357,25 @@ e) Omitir el entero a la Secretaría, de las contribuciones que hubieren retenid
 
 f) Manifestar datos falsos para realizar la compensación de contribuciones que no le correspondan;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-g) Utilizar datos falsos para disminuir contribuciones, y
+g) Utilizar datos falsos para disminuir contribuciones o adquirir comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados; y
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-h) Declarar pérdidas fiscales inexistentes.
+h) Declarar pérdidas fiscales inexistentes
 
 Cuando los delitos sean calificados, la pena que corresponda se aumentará en una mitad.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Se aumentará hasta tres cuartas partes de la pena correspondiente cuando la conducta sea cometida por Servidores Públicos del Estado o Municipios.
+
 No se formulará querella si quien hubiere omitido el pago total o parcial de alguna contribución u obtenido el beneficio indebido, lo entera espontáneamente con sus recargos y actualización antes que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
-Para los fines de este artículo y del siguiente, se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aún cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Para los fines de este artículo y del siguiente, se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
 
 ###### ARTÍCULO 283.
 
@@ -4590,3 +4596,11 @@ PRIMERO. El presente decreto entrará en vigor el uno de enero de dos mil veinti
 SEGUNDO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2645.- MEDIANTE EL CUAL SE REFORMAN LOS INCISOS G) Y H), Y SE ADICIONA UN PÁRRAFO OCTAVO RECORRIENDO LOS SUBSECUENTES AL ARTÍCULO 282 DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
