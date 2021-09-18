@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2021-09-14"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1587,9 +1587,9 @@ En cada uno de los municipios debe haber un Tesorero o Encargado de la Hacienda 
 
 El Tesorero o Encargado de la Hacienda Municipal debe reunir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-I. Ser ciudadano mexicano, por nacimiento, en pleno ejercicio de sus derechos, y mayor de veintiún años;
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, y mayor de veintiún años;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -3412,3 +3412,9 @@ P.O. 14 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor el primero de octubre de 2021 posterior a su publicación en el periódico oficial "El Estado de Jalisco”.
 
 SEGUNDO. Para la siguiente administración municipal la fracción III del artículo 65 no será aplicable a los funcionarios que tengan continuidad en su nombramiento acreditando el inicio de una carrera en un área económico administrativa.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28445/LXII/21 QUE REFORMA EL ARTÍCULO 65 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
