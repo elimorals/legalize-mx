@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-para-el-estado-de-oaxaca-125270"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-30"
-last_updated: "2021-03-13"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 2017.
 
@@ -51,7 +51,9 @@ LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA
 
 La presente Ley es reglamentaria del artículo 20 párrafo décimo tercero de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con los artículos 59 fracciones XV, XXV, XXVI; y 79 fracción XVIII de la propia Constitución, y tiene por objeto establecer las bases y requisitos para la aprobación, concertación, contratación y control de la deuda pública a cargo de los Sujetos Obligados.
 
-Las disposiciones del presente ordenamiento no serán aplicables a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Las disposiciones del presente ordenamiento no serán aplicables a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y la Ley de Coordinación Fiscal.
 
 ###### Artículo 2.
 
@@ -213,9 +215,9 @@ A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la Le
 
 La interpretación en el ámbito administrativo corresponderá a la Secretaría. La Secretaría de la Contraloría y Transparencia Gubernamental vigilará en el ámbito de su competencia la aplicación de la misma.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá a la Federación de conformidad con la Legislación Federal aplicable y al Órgano Superior de Fiscalización del Estado de Oaxaca.
+La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá a la Auditoría Superior de la Federación y al Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA Y OBLIGACIONES DE LOS ÓRGANOS EN MATERIA DE DEUDA PÚBLICA
 
@@ -325,7 +327,9 @@ Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados
 
 Los Sujetos Obligados presentarán en los informes periódicos a que se refiere la Ley General y en su respectiva cuenta pública, la información detallada de las Obligaciones a corto plazo contraídas, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a corto plazo a que hace referencia la Ley de Disciplina Financiera.
 
-Las Obligaciones a corto plazo a que se refiere este artículo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año, salvo en el caso de las Obligaciones destinadas a Inversión pública productiva y se cumpla con los requisitos previstos en la Ley de Disciplina Financiera y la presente Ley.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+Las Obligaciones a corto plazo a que se refiere este artículo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año.
 
 ###### Artículo 14.
 
@@ -722,3 +726,25 @@ P.O. 13 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2633.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 13 DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales correspondientes.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2634.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1 Y ELTERCER·PÁRRAFO DEL ARTÍCULO 4 DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales correspondientes.
+
+CUARTO. Se derogan todas aquellas normas que se opongan al presente Decreto.
