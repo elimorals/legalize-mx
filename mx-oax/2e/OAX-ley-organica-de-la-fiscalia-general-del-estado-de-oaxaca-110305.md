@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-fiscalia-general-del-estado-de-oaxaca-110305
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-06"
-last_updated: "2021-08-28"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 6 de octubre de 2015.
 
@@ -51,9 +51,9 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
 Esta Ley Orgánica es de orden público e interés social, y tiene por objeto organizar a la Fiscalía General del Estado de Oaxaca para el despacho de los asuntos que a ésta y al Ministerio Público les confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley Orgánica y las demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-La Fiscalía General del Estado de Oaxaca, ejercerá sus atribuciones respondiendo a la satisfacción del interés social y del bien común. La actuación de sus servidores públicos se regirá por los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, eficiencia, eficiencia (sic), disciplina y respeto a los derechos humanos.
+La Fiscalía General del Estado de Oaxaca, ejercerá sus atribuciones respondiendo a la satisfacción del interés social y del bien común. La actuación de sus servidores públicos se regirá por los principios de legalidad, objetividad, igualdad, profesionalismo, honradez, austeridad, ética, lealtad, imparcialidad, integridad, eficiencia, disciplina, interculturalidad y respeto a los derechos humanos.
 
 ###### Artículo 2.
 
@@ -119,9 +119,9 @@ XVI. Servicio: Al Servicio Profesional de Carrera de la Fiscalía General del Es
 
 La Fiscalía General es la institución en la cual reside el Ministerio Público, dotada de autonomía constitucional, administrativa, presupuestal, financiera y operativa con personalidad jurídica y patrimonio propios, determinando sus prioridades de acuerdo con sus requerimientos y necesidades; ejercerá sus facultades respondiendo a la satisfacción del interés público.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-El Ministerio Público es el órgano público autónomo, único e indivisible, con independencia técnica, que ejerce sus atribuciones, facultades y funciones con pleno respeto a los derechos humanos y se rige por los principios de buena fe, autonomía, certeza, legalidad, objetividad, pluriculturalidad, imparcialidad, eficacia, honradez y profesionalismo; ejerce la dirección de la investigación y persecución de los delitos del orden común ante los tribunales y, para el efecto, solicitará medidas cautelares; buscará y presentará datos y elementos de prueba que acrediten la participación de los imputados en los hechos que las leyes señalen como delito; dirigirá las actuaciones de las policías; procurará que los juicios en materia penal se sigan con regularidad para que la impartición de justicia sea pronta y expedita; pedirá la imposición de las penas; e, intervendrá en todos los asuntos que la ley determine. El Ministerio Público tiene a su cargo ejercer la representación y defensa de los intereses de la sociedad en general y, de conformidad con las disposiciones aplicables, de la víctima u ofendido del delito.
+El Ministerio Público es el órgano público autónomo, único e indivisible, con independencia técnica, que ejerce sus atribuciones, facultades y funciones con pleno respeto a los derechos humanos, perspectiva de género y se rige por los principios de buena fe, autonomía, certeza, legalidad, objetividad, igualdad, ética, pluriculturalidad, imparcialidad, eficacia, honradez y profesionalismo; ejerce la dirección de la investigación y persecución de los delitos del orden común ante los tribunales y, para el efecto, solicitará medidas cautelares; buscará y presentará datos y elementos de prueba que acrediten la participación de los imputados en los hechos que las leyes señalen como delito; dirigirá las actuaciones de las policías; procurará que los juicios en materia penal se sigan con regularidad para que la impartición de justicia sea pronta y expedita; pedirá la imposición de las penas; e intervendrá en todos los asuntos que la ley determine. El Ministerio Público tiene a su cargo ejercer la representación y defensa de los intereses de la sociedad en general y, de conformidad con las disposiciones aplicables, de la víctima u ofendido del delito.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -195,31 +195,35 @@ XVI. Instrumentar y aplicar mecanismos de coordinación con la Secretaría de Se
 
 XVII. Promover la celebración de acuerdos o convenios con instituciones públicas o privadas en asuntos relacionados con sus atribuciones;
 
-XVIII. Celebrar acuerdos o convenios con instituciones públicas o privadas para garantizar a los imputados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y traductores;
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XIX. Emitir disposiciones para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictuoso, y aseguramiento de los instrumentos, objetos o productos del delito, así como los procedimientos y protocolos para asegurar su integridad;
+XVIII. Disponer de personal interprete y traductores para garantizar que las víctimas directas e indirectas, ofendidas, denunciantes, persona imputada y testigos pertenecientes a los pueblos y comunidades indígenas conozcan sus derechos tomando como base la pertinencia cultural;
 
-XX. Ofrecer y entregar recompensas, en los casos, términos y condiciones que determine el Reglamento;
+XIX. Celebrar acuerdos o convenios con instituciones públicas o privadas para garantizar a los imputados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y traductores;
 
-XXI. Determinar el destino de los bienes asegurados y los bienes que hayan causado abandono a favor del Estado, en términos de las disposiciones aplicables;
+XX. Emitir disposiciones para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictuoso, y aseguramiento de los instrumentos, objetos o productos del delito, así como los procedimientos y protocolos para asegurar su integridad;
 
-XXII. Intervenir en la entrega de los indiciados, imputados, procesados, acusados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa o del Gobierno Federal que los requiera, en los términos de los convenios de colaboración que al efecto celebren las entidades federativas;
+XXI. Ofrecer y entregar recompensas, en los casos, términos y condiciones que determine el Reglamento;
 
-XXIII. Implementar un sistema de control y evaluación de la gestión institucional para la Fiscalía General;
+XXII. Determinar el destino de los bienes asegurados y los bienes que hayan causado abandono a favor del Estado, en términos de las disposiciones aplicables;
 
-XXIV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. Se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que realice el Ministerio Público y mantendrá la confidencialidad de los datos personales, en los términos que disponga la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables;
+XXIII. Intervenir en la entrega de los indiciados, imputados, procesados, acusados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa o del Gobierno Federal que los requiera, en los términos de los convenios de colaboración que al efecto celebren las entidades federativas;
+
+XXIV. Implementar un sistema de control y evaluación de la gestión institucional para la Fiscalía General;
+
+XXV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. Se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que realice el Ministerio Público y mantendrá la confidencialidad de los datos personales, en los términos que disponga la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XXIV Bis. Brindar capacitación a los cuerpos de seguridad pública del Estado y de los municipios en materia de servicios periciales y medicina forense, de conformidad con los mecanismos de coordinación correspondientes;
+XXV Bis. Brindar capacitación a los cuerpos de seguridad pública del Estado y de los municipios en materia de servicios periciales y medicina forense, de conformidad con los mecanismos de coordinación correspondientes;
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-XXV. Crear la Base Estadística de Violencia Política contra las Mujeres en razón de Género;
+XXVI. Crear la Base Estadística de Violencia Política contra las Mujeres en razón de Género;
 
-XXVI. Constituir y administrar su archivo, y
+XXVII. Constituir y administrar su archivo, y
 
-XXVII. Las que señalen las legislaciones generales, nacionales, federales y estatales que sean aplicables, así como el Reglamento, el Reglamento del Servicio y demás disposiciones aplicables.
+XXVIII. Las que señalen las legislaciones generales, nacionales, federales y estatales que sean aplicables, así como el Reglamento, el Reglamento del Servicio y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DE LAS FUNCIONES DEL MINISTERIO PÚBLICO
 
@@ -231,7 +235,9 @@ I. Iniciar la investigación que corresponda cuando tenga conocimiento de la exi
 
 II. Investigar por sí, o a través de las instituciones policiales los hechos constitutivos de delito;
 
-III. Informar a la víctima u ofendido del delito, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución, los Tratados Internacionales suscritos y ratificados por el Estado Mexicano, la Ley General de Víctimas y las demás disposiciones aplicables, dictando las medidas necesarias para que la víctima reciba atención integral;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+III. Informar a la víctima o persona ofendida del delito, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución, los Tratados Internacionales suscritos y ratificados por el Estado Mexicano, la Ley General de Víctimas y las demás disposiciones aplicables, dictando las medidas necesarias para que la víctima reciba atención integral si esta pertenece a los pueblos y comunidades indígenas deberá recibirla en su lengua originaria;
 
 IV. Ejercer la conducción y mando de las autoridades que intervengan en la investigación de los delitos a fin de obtener y preservar los indicios o medios probatorios en los términos previstos en el artículo 21 de la Constitución Federal;
 
@@ -1513,6 +1519,8 @@ Las multas impuestas por la Fiscalía General tendrán la naturaleza de crédito
 
 ### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 88.
 
 La Fiscalía General elaborará su proyecto de Presupuesto Anual de Egresos, el cual será enviado al Congreso del Estado de Oaxaca para su incorporación al Presupuesto de Egresos de cada ejercicio fiscal.
@@ -1581,7 +1589,7 @@ En el caso de que conforme a las disposiciones aplicables a la Fiscalía General
 
 ###### Artículo 95.
 
-La Fiscalía General podrá otorgar atención inmediata o especializada a las víctimas u ofendidos del delito, según sea el caso. Para tales efectos, su actuación se regirá de acuerdo a los lineamientos que expida la Comisión Ejecutiva Estatal conforme a las disposiciones aplicables.
+La Fiscalía General podrá otorgar atención inmediata o especializada a las víctimas o personas ofendidas del delito, según sea el caso. Para tales efectos, su actuación observará la pertinencia cultural y se regirá de acuerdo a los lineamientos que expida la Comisión Ejecutiva Estatal conforme a las disposiciones aplicables.
 
 ###### Artículo 96.
 
@@ -1794,6 +1802,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 28 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2583.- MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 19; SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 21; SE DEROGA LA FRACCIÓN XVI DEL ARTÍCULO 10, LA FRACCIÓN XVII DEL ARTÍCULO 11 QUÁTER DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2638.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1; SEGUNDO PÁRRAFO DEL ARTÍCULO 3; LA FRACCIÓN III DEL ARTÍCULO 5 Y EL ARTÍCULO 95; Y SE ADICIONA LA FRACCIÓN XVIII RECORRIENDOSE LAS SUBSECUENTES AL ARTÍCULO 4 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
