@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2020-07-25"
+last_updated: "2021-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -67,17 +67,17 @@ VIII.- Promover la creación de la infraestructura necesaria para el crecimiento
 
 IX.- Alentar la competitividad, modernización y eficiencia de las empresas por medio de un desarrollo tecnológico propio, adecuado a las circunstancias del Estado y vinculado a los centros de producción tecnológica.
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-X.- Generar una política de facilitación a través de la creación de una ventanilla única en los términos establecidos por la Ley de Coordinación Estatal de la (sic) Zonas Económicas Especiales.
+X.- Generar, establecer, implementar y operar una plataforma logística multimodal que contenga los trámites y servicios relacionados, que contribuyan al desarrollo del Corredor Interoceánico del Istmo de Tehuantepec.
 
 > <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
 
 XI.- Fomentar, proteger e incentivar las industrias creativas.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-Se entenderá por Ventanilla Única y Zona Económica Especial lo establecido por la Ley Federal de Zonas Económicas y la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
+Se entenderá por Plataforma logística multimodal a lo establecido por el decreto de creación del organismo público descentralizado, denominado corredor interoceánico del Istmo de Tehuantepec.
 
 ###### ARTICULO 2º.
 
@@ -129,11 +129,11 @@ II.- Consejos Estatal, Regionales y Municipales, cuyas funciones estarán regula
 
 III.- Gobierno Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 4°.
 
-Los Consejos Estatal, Regionales y Municipales son los órganos técnicos y de asesoría del Ejecutivo Estatal y de los gobiernos municipales, para la promoción de las actividades de fomento del desarrollo integral de la Entidad, quienes además impulsarán programas para la inclusión en la vida productiva de sectores vulnerables, observando la paridad y perspectiva de género, en especial impulsarán las consideradas como Zonas Económicas Especiales.
+Los Consejos Estatal, Regionales y Municipales con inclusión de personas Indígenas y Afromexicanos según corresponda, son los órganos técnicos y de asesoría del Ejecutivo Estatal y de los gobiernos municipales, para la promoción de las actividades de fomento del desarrollo integral de la Entidad, quienes además impulsarán programas para la inclusión en la vida productiva de sectores vulnerables, así como proyectos de asociación que les permitan generar beneficios económicos, observando la paridad y perspectiva de género, en especial a los Municipios o localidades que abarque el denominado Corredor Interoceánico.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
 
@@ -200,6 +200,10 @@ l).- De la construcción.
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
 
 m) Industrias creativas.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+n).- Relacionados con la economía digital.
 
 II.- Programas especiales: Son aquellos que están orientados a materias y a grupos sociales que requieren de apoyos específicos, entre otros serán:
 
@@ -546,3 +550,19 @@ P.O. 25 DE JULIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2652.- MEDIANTE EL CUAL SE ADICIONA EL INCISO n) A LA FRACCIÓN I DEL ARTÍCULO 9°, DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2653.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 1°; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 4°, AMBOS DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
