@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2020-12-19"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -2829,9 +2829,15 @@ V. Que el cincuenta por ciento de los lotes se encuentren construidos y habitado
 
 VI. Tener en funcionamiento y a satisfacción de las Secretaría (sic) los sistemas para el manejo, tratamiento y disposición final de los residuos sólidos y las aguas negras a los que hacen referencia las fracciones III y IV del artículo 163 de la presente ley.
 
-VII. Haber entregado a satisfacción de la autoridad competente las redes de energía eléctrica, alumbrado público, de agua potable, alcantarillado sanitario y drenaje pluvial, áreas verdes y mobiliario urbano, exceptuándose a los fraccionamientos habitacionales de tipo social progresivo, quienes deberán contar con la red de energía eléctrica, alumbrado público, agua potable y alcantarillado sanitario y drenaje pluvial como mínimo; y
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Haber entregado al municipio respectivo, las escrituras correspondientes al área de donación para equipamiento urbano, servicios, áreas verdes y remanentes.
+VII. Haber sembrado un árbol por cada quince metros cuadrados de superficie. Los árboles deberán tener una altura mínima de un metro con cincuenta centímetros, utilizando para ello especies nativas;
+
+VIII. Haber entregado a satisfacción de la autoridad competente las redes de energía eléctrica, alumbrado público, de agua potable, alcantarillado sanitario y drenaje pluvial, áreas verdes y mobiliario urbano, exceptuándose a los fraccionamientos habitacionales de tipo social progresivo, quienes deberán contar con la red de energía eléctrica, alumbrado público, agua potable y alcantarillado sanitario y drenaje pluvial como mínimo; y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Haber entregado al municipio respectivo, las escrituras correspondientes al área de donación para equipamiento urbano, servicios, áreas verdes y remanentes
 
 ###### ARTÍCULO 175.
 
@@ -2900,6 +2906,12 @@ Además, deberán solicitar un estudio de prevención de riesgo que identifique 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 En ningún caso podrán asignarse usos o aprovechamientos urbanos o asentamientos humanos en zonas de alto riesgo que no hubieran tomado medidas de mitigación previas. En tales zonas está estrictamente prohibido realizar cualquier obra o edificación de carácter permanente.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 185 BIS. Con la finalidad de reducir el impacto al medio ambiente en la construcción de viviendas y la urbanización de suelo, los fraccionadores deberán plantar por lo menos un árbol nativo de la región en cada lote destinado a la habitación, preferentemente en los espacios destinados para las banquetas, con independencia de las áreas verdes existentes en el asentamiento humano.
+
+Lo anterior en términos de lo dispuesto por la normatividad estatal y municipal de la materia, con el fin de determinar las reglas específicas para su ubicación, altura, características del tipo de suelo y costos.
 
 ###### ARTÍCULO 186.
 
@@ -3432,3 +3444,11 @@ P.O. 19 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1778.- MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 137 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2647.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VII RECORRIENDOSE LAS SUBSECUENTES AL ARTICULO 174, Y EL ARTICULO 185 BIS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
