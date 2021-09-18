@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-06-05"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -371,11 +371,17 @@ XV. Participar y coadyuvar con los Gobiernos Municipales, así como los sectores
 
 XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipal y con organizaciones de los sectores social y privado a fin de facilitar e intensificar las actividades turísticas;
 
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Elaborar los catálogos, directorios y guías turísticas de los prestadores de servicios turísticos, para efectos de supervisión, inspección, estadística y difusión;
+
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XVII. Implementar mecanismos de coordinación con los Municipios, para lograr la transversalidad de la perspectiva de género, en el sector turístico a través de la coordinación de acciones a nivel municipal en el ámbito de sus respectivas competencias; y
+XVIII. Implementar mecanismos de coordinación con los Municipios, para lograr la transversalidad de la perspectiva de género, en el sector turístico a través de la coordinación de acciones a nivel municipal en el ámbito de sus respectivas competencias; y
 
-XVIII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de esta Ley, el Reglamento Interno y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de esta ley, el Reglamento interno y demás disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -517,9 +523,11 @@ El Programa Sectorial podrá contener entre otros elementos metodológicos de la
 
 ### CAPÍTULO VI. DE LOS PUEBLOS MÁGICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-La Secretaría implementará acciones tendientes al reconocimiento de nuevos Pueblos Mágicos, así como al fortalecimiento de los ya existentes.
+La Secretaria implementará acciones tendientes al reconocimiento de nuevos Pueblos Mágicos, determinando los mecanismos e instrumentos para la conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos estatales y municipales, preservando el patrimonio natural, histórico, arquitectónico y cultural, con base en los criterios determinados por las leyes en la materia, así como al fortalecimiento de los ya existentes, en apego al marco jurídico vigente.
 
 La Secretaría en sus presupuestos de egresos respectivos deberá establecer partidas presupuestales específicas para el cumplimiento de los objetivos establecidos en el presente artículo.
 
@@ -1094,3 +1102,19 @@ P.O. 5 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1784.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7,; (SIC) LA FRACCIÓN XVI DEL ARTÍCULO 9; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11; Y SE ADICIONA LA FRACCIÓN, XVII RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 9 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2649.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 29 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2650.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTICULO 9 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
