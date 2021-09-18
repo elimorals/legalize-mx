@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-regula-el-regimen-de-propiedad-en-condominio-de-94441"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2013-05-18"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -89,6 +89,10 @@ CUOTA EXTRAORDINARIA: Cantidad monetaria acordada por la Asamblea General para s
 
 DIRECCIÓN: Dirección de Justicia Alternativa dependiente del Consejo de la Judicatura del Poder Judicial.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+ESCRITURA CONSTITUTIVA: Documento público, mediante el cual se constituye un inmueble bajo el régimen de propiedad en condominio.
+
 EXTINCIÓN VOLUNTARIA: La desaparición del régimen de propiedad en condominio por voluntad expresa de quienes lo constituyeron.
 
 LEY: Ley del Régimen de Propiedad en Condominio de Inmuebles para el Estado de Oaxaca.
@@ -111,9 +115,11 @@ UNIDAD DE PROPIEDAD PRIVATIVA: Es el departamento, vivienda, local, áreas, nave
 
 ### CAPÍTULO II. DE LA CONSTITUCIÓN, MODALIDADES Y EXTINCIÓN DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 3.
 
-La constitución del Régimen de Propiedad en Condominio es el acto jurídico formal que el propietario o propietarios de un inmueble, instrumentarán ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan y comparten áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todos y cada uno, sin demérito de su unidad de propiedad privativa. Asimismo, una vez constituido el Régimen de Propiedad en Condominio, éste deberá de registrarse ante el Registro Público de la Propiedad.
+La constitución del Régimen de Propiedad en Condominio es el acto jurídico formal que el propietario o propietarios de un inmueble, instrumentarán ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan y comparten áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todos y cada uno, sin demérito de su unidad de propiedad privativa. Asimismo, una vez constituido el Régimen de Propiedad en Condominio, éste deberá de registrarse ante el Instituto de la Función Registral del Estado de Oaxaca.
 
 ###### Artículo 4.
 
@@ -187,21 +193,27 @@ VIII. La obligación de los condóminos de contratar póliza de seguro, con comp
 
 IX. El Reglamento Interno del Condominio, y en su caso conjunto condominal, el cual, no deberá contravenir las disposiciones de esta Ley, su Reglamento y otros ordenamientos jurídicos aplicables; Observándose al apéndice de la escritura, se agregue debidamente certificados por Notario Público, las memorias técnicas, los planos generales y los planos tipo de cada una de las unidades de propiedad privativa, correspondientes a las instalaciones hidráulicas, eléctricas, estructurales, gas y áreas comunes cubiertas y descubiertas así como jardines, estacionamiento, oficinas, casetas, bodegas, subestaciones y cisternas.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-La Escritura Constitutiva del Régimen de Propiedad en Condominio de Inmuebles, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta Ley, deberán inscribirse en el Registro Público de la Propiedad.
+La Escritura Constitutiva del Régimen de Propiedad en Condominio de Inmuebles, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta Ley, deberán inscribirse en el Instituto de la Función Registral del Estado de Oaxaca.
 
 ###### Artículo 11.
 
 Cualquier modificación a la Escritura Constitutiva y su Reglamento Interno, se acordará en Asamblea General Extraordinaria, a la que deberán asistir por lo menos la mayoría simple de los condóminos; sin embargo, para su modificación se deberá requerir un mínimo de votos que representen el 75 % del valor total del condominio.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 12.
 
-En todo contrato de adquisición de los derechos de una unidad de propiedad privativa, se hará constar que se entregó al interesado una copia simple de la Escritura Constitutiva y copia del Reglamento Interno.
+En todo contrato y escritura de adquisición de los derechos de una unidad de propiedad privativa, se hará constar que se entregó al interesado una copia simple de la Escritura Constitutiva y copia del Reglamento Interno, asimismo que tiene conocimiento pleno de lo señalado en el artículo 28 de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-Para la extinción voluntaria del Régimen de Propiedad en Condominio, se acordará en Asamblea General Extraordinaria, a la que deberán asistir la mayoría simple de los condóminos y requerirá de un mínimo de votos que representen el 75% del valor total del condominio para que sean válidas sus resoluciones. La extinción del Régimen de Propiedad en Condominio deberá constar en Escritura Pública, inscribirse en el Registro Público de la Propiedad.
+Para la extinción voluntaria del Régimen de Propiedad en Condominio, se acordará en Asamblea General Extraordinaria, a la que deberán asistir la mayoría simple de los condóminos y requerirá de un mínimo de votos que representen el 75% del valor total del condominio para que sean válidas sus resoluciones. La extinción del Régimen de Propiedad en Condominio deberá constar en Escritura Pública, inscribirse en el Instituto de la Función Registral del Estado de Oaxaca.
 
 ## TÍTULO SEGUNDO. DEL CONDÓMINO, DE SU UNIDAD DE PROPIEDAD PRIVATIVA Y DE LAS ÁREAS Y BIENES DE USO COMÚN
 
@@ -240,6 +252,10 @@ VI. Acudir ante la Dirección, para solicitar su intervención por violaciones a
 VII. Denunciar ante las autoridades competentes, hechos posiblemente constitutivos de algún delito, en agravio del condominio o conjunto condominal;
 
 VIII. Cada propietario podrá realizar las obras y reparaciones necesarias al interior de su unidad de propiedad privativa, quedando prohibida toda modificación o innovación que afecte la estructura, muros de carga u otros elementos esenciales del edificio o que puedan poner en peligro la estabilidad, seguridad, salubridad o comodidad del mismo; de conformidad con la (sic) leyes y reglamentos correspondientes.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+IX.- Formar parte de los comités de medio ambiente; educación y cultura; seguridad y protección civil; activación física y deporte; movilidad y de mediación.
 
 ###### Artículo 17.
 
@@ -431,7 +447,9 @@ IX. El secretario tendrá siempre a la vista de los asistentes el libro de actas
 
 Si el acuerdo de la Asamblea General:
 
-a) Modifica la Escritura Constitutiva del condominio, el acta se protocolizará ante Notario Público y se deberá inscribir en el Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+a) Modifica la Escritura Constitutiva del condominio, el acta se protocolizará ante Notario Público y se deberá inscribir en el Instituto de la Función Registral del Estado de Oaxaca.
 
 b) Modifica el Reglamento Interno, el acta se protocolizará ante Notario Público e inscribirla ante la Dirección.
 
@@ -1007,9 +1025,11 @@ De la misma manera informará la aplicación de recursos en las áreas y bienes 
 
 Se entiende por cultura condominal todo aquello que contribuya a generar las acciones y actitudes que permitan, en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en condominio. Entendiéndose como elementos necesarios: respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 80.
 
-La Dirección proporcionará a los condóminos, poseedores y administradores de inmuebles bajo el régimen de propiedad en condominio, asesoría y orientación legal en materia (sic) condominio, en coordinación con los organismos de vivienda y de otras dependencias e instituciones públicas y privadas.
+La Dirección proporcionará a los condóminos, poseedores y administradores de inmuebles bajo el régimen de propiedad en condominio, asesoría y orientación legal en materia de condominio; en coordinación con los organismos de vivienda y de otras dependencias e instituciones públicas y privadas, cursos, charlas y talleres en materia condominal, habitabilidad, adaptabilidad, sustentabilidad y exigibilidad de derechos, en los cuales se difundirá por cualquier medio la cultura condominal de manera permanente, la cual sentará las bases, condiciones y principios que permitan convivir de manera armónica, conformando una cultura de la paz.
 
 ###### Artículo 81.
 
@@ -1162,3 +1182,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 25 de abril del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NÚM. 2646.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, EL ARTÍCULO 10, EL ARTÍCULO 12, EL ARTÍCULO 13, EL ENCISO A) DE LA FRACCIÓN IX DEL ARTÍCULO 31 Y EL ARTÍCULO 80; SE ADICIONA EL PÁRRAFO DIECISIETE RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 2 Y LA FRACCIÓN IX AL ARTÍCULO 16 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
