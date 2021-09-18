@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2020-03-21"
+last_updated: "2021-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -48,6 +48,10 @@ En el cumplimiento del objeto de la presente Ley se salvaguardará y protegerá 
 ###### Artículo 2.
 
 Es de interés del pueblo oaxaqueño preservar las actividades artesanales e incentivar la creación, producción y comercialización de la artesanía oaxaqueña, corresponderá al Titular del Poder Ejecutivo del Estado, la aplicación de la presente Ley, por conducto del Instituto y de las demás dependencias y entidades estatales que tengan relación con el sector artesanal.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+
+A los Ayuntamientos en el ámbito de su competencia, corresponde aplicar la presente Ley de manera supletoria.
 
 ###### Artículo 3.
 
@@ -526,3 +530,11 @@ P.O. 21 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1340.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y VI, SE ADICIONA LA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 6 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2658.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca.
