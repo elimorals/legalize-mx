@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2021-08-24"
+last_updated: "2021-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -347,6 +347,10 @@ LXXVII. Hospedaje: Importe otorgado al servidor público para cubrir el servicio
 
 LXXVIII. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+LXXVIII Bis. Indicadores de Austeridad: Expresiones cuantitativas mediante las cuales se medirá y evaluará el desempeño de las áreas administrativas en el ámbito de su competencia, para la aplicación de las medidas de racionalidad y austeridad;
+
 LXXIX. Infantes: Los menores que asisten a los CENDI, hijos o pupilos de los servidores públicos que laboran en el Poder Judicial de la Federación;
 
 LXXX. Ingresos excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso a los aprobados al Consejo en el Presupuesto de Egresos de la Federación;
@@ -386,6 +390,10 @@ XCV. Lista de Valores: Lista de valores mínimos para desechos de bienes muebles
 XCVI. Mantenimiento: Acción tendiente a proveer a un bien de lo necesario para lograr su conservación y alargar su vida útil;
 
 XCVII. Mantenimiento y conservación: Actividades relacionadas con la instalación, reparación, mantenimiento y conservación de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en la Ciudad de México y en la zona conurbada;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+XCVII Bis. Medidas de Racionalidad y Austeridad: Las medidas establecidas, en materia de gasto público, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria; la Ley Federal de Austeridad Republicana; el Presupuesto de Egresos de la Federación del ejercicio fiscal que corresponda, aplicables al Consejo de la Judicatura Federal; así como las disposiciones emitidas por el Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación;
 
 XCVIII. Medios de comunicación electrónica: La infraestructura tecnológica que permite efectuar la transmisión y recepción de mensajes de datos y de documentos electrónicos;
 
@@ -8501,7 +8509,9 @@ Los recursos obtenidos por los procedimientos de enajenación de los bienes aseg
 
 La secretaria técnica del Fondo de Apoyo, llevará un registro detallado de los recursos que se integren al mismo.
 
-#### SECCIÓN TERCERA. DE LOS MECANISMOS DE COMUNICACIÓN Y COORDINACIÓN ENTRE LOS ÓRGANOS DEL PODER JUDICIAL Y LOS OTROS PODERES DE LA FEDERACIÓN Y DE LAS ENTIDADES FEDERATIVAS
+#### SECCIÓN SEGUNDA BIS. COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 673.
 
@@ -8515,9 +8525,7 @@ Tratándose de bienes inmuebles se procederá a su inscripción en el Catálogo 
 
 Cuando el aprovechamiento se refiera a bienes muebles, los mismos deberán inventariarse y reportarse en los registros que correspondan.
 
-#### SECCIÓN CUARTA. CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+#### SECCIÓN TERCERA. DE LOS MECANISMOS DE COMUNICACIÓN Y COORDINACIÓN ENTRE LOS ÓRGANOS DEL PODER JUDICIAL Y LOS OTROS PODERES DE LA FEDERACIÓN Y DE LAS ENTIDADES FEDERATIVAS
 
 ###### Artículo 676.
 
@@ -8557,7 +8565,9 @@ III. Acta de la destrucción del bien, que deberán suscribir el titular de la D
 
 La Dirección General de Recursos Materiales o la Administración Regional comunicarán a la Secretaría Ejecutiva de Administración, sobre las destrucciones que se hayan realizado a efecto de que ésta lleve el registro y control de ello, debiendo informar a la Comisión de Administración sobre cualquier operación de destrucción de bienes asegurados no reclamados y decomisados que se haya llevado a cabo en los términos de este Capítulo.
 
-#### SECCIÓN PRIMERA. PRESUPUESTO DE EGRESOS
+#### SECCIÓN CUARTA. CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 681.
 
@@ -9151,9 +9161,7 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
 
-#### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. PRESUPUESTO DE EGRESOS
 
 ###### Artículo 697.
 
@@ -9189,9 +9197,9 @@ V. Determinar los ajustes que correspondan en su presupuesto en caso de disminuc
 
 VI. Llevar la contabilidad y elaborar sus informes conforme a la Ley General de Contabilidad Gubernamental; el Acuerdo General Conjunto emitido por el Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación que regula el proceso contable de dichos órganos; así como remitirlos a las autoridades competentes para su integración a los informes trimestrales y a la Cuenta Pública.
 
-#### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
+#### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 700.
 
@@ -9307,9 +9315,193 @@ El registro histórico de indicadores que resulte del seguimiento físico y fina
 
 Lo previsto en este artículo tiene por objeto evitar el subejercicio de los recursos presupuestales al concluir el ejercicio fiscal, así como optimizar y racionalizar el uso de los mismos en cumplimiento al Plan de Desarrollo Institucional y los objetivos y metas institucionales.
 
-#### SECCIÓN SEGUNDA. SERVICIOS PERSONALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
 
-#### SECCIÓN TERCERA. ADECUACIONES PRESUPUESTARIAS
+#### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 704 Bis.
+
+El Comité es un cuerpo multidisciplinario que tendrá a su cargo la promoción, evaluación y seguimiento de las medidas de racionalidad y austeridad del Consejo, sin perjuicio de las atribuciones de las instancias competentes en materia de auditoría y fiscalización.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Ter.
+
+El Comité estará integrado, en los siguientes términos:
+
+I. Presidente: La persona titular de la Secretaría Ejecutiva de Administración; y
+
+II. Vocales: Las personas titulares de las Direcciones Generales de Programación, Presupuesto y Tesorería; Inmuebles y Mantenimiento; Recursos Materiales; Servicios Generales; Recursos Humanos; Servicios al Personal; Tecnologías de la Información; Innovación, Planeación y Desarrollo Institucional y de la Coordinación de Administración Regional.
+
+Las y los integrantes del Comité tendrán derecho a voz y voto durante las sesiones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Quater.
+
+Las personas titulares de la Contraloría y de la Dirección General de Asuntos Jurídicos, serán asesores permanentes del Comité.
+
+Las personas titulares de la Dirección General de Comunicación Social y Vocería; de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales; de la Escuela Federal de Formación Judicial; de la Coordinación de Seguridad del Poder Judicial de la Federación; y de la Unidad de Transparencia, serán asesores no permanentes del Comité.
+
+Las áreas administrativas antes señaladas que conforme a sus atribuciones administran y ejercen el presupuesto de las partidas de gasto de manera consolidada, deberán ser escuchadas cuando las políticas se proyecten destacadamente sobre su esfera competencial.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Quinquies.
+
+Las personas asesoras del Comité asistirán a las sesiones con voz, pero sin voto, y emitirán su opinión razonada respecto a los asuntos que se sometan a consideración del mismo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Sexies.
+
+El Comité tendrá las atribuciones siguientes:
+
+I. Verificar que el presupuesto del Consejo se ejerza con eficiencia y dentro de los calendarios aprobados, así como que se cumplan las medidas de austeridad acordadas por el Consejo;
+
+II. Emitir recomendaciones a las áreas administrativas, a fin de que en el ámbito de su competencia den cumplimiento a las medidas de racionalidad y austeridad;
+
+III. Proponer al Pleno la expedición o, en su caso, modificaciones a la normatividad interna relacionada con las prácticas de racionalidad, austeridad y eficiencia administrativa;
+
+IV. Aprobar el informe anual de evaluación de las medidas de racionalidad y austeridad, y deberá someterlo a consideración de la Comisión de Administración para conocimiento;
+
+V. Someter los Indicadores de Austeridad a la aprobación de la Comisión de Administración y evaluar su cumplimiento con base en los informes emitidos por las áreas administrativas en el ámbito de su competencia;
+
+VI. Proponer a la Comisión de Administración las acciones de reingeniería de los procesos utilizados por las áreas administrativas del Consejo para el ejercicio de sus funciones, con la finalidad de hacer eficiente el ejercicio del gasto y acotar tiempos de respuesta;
+
+VII. Proponer a las áreas administrativas que correspondan, la celebración de convenios de colaboración con instituciones educativas y centros de investigación en materia de indicadores, evaluación de la gestión, mejora continua de procesos, o cualquier otra materia encaminada a mejorar la eficiencia administrativa y en consecuencia la racionalidad del gasto;
+
+VIII. Aprobar el calendario de sesiones ordinarias del año siguiente, en la última sesión ordinaria de cada año; y
+
+IX. Las demás que estén previstas en esta Sección y las que le sean conferidas por el Pleno o la Comisión de Administración.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Septies.
+
+La o el Presidente del Comité tendrá las funciones siguientes:
+
+I. Presidir, coordinar y dirigir los debates de las sesiones del Comité;
+
+II. Aprobar la convocatoria a las sesiones ordinarias y extraordinarias del Comité;
+
+III. Determinar el contenido del orden del día y someter a consideración del Comité sus acuerdos y resoluciones;
+
+IV. Proponer al Comité la integración de grupos de trabajo y la realización de estudios y análisis en temas específicos;
+
+V. Invitar a las sesiones del Comité a servidores públicos del Poder Judicial de la Federación, especialistas u otras personas que puedan colaborar en el análisis de temas particulares;
+
+VI. Firmar las actas de las sesiones del Comité;
+
+VII. Presentar al Pleno un Informe Anual de Labores del Comité; y
+
+VIII. Las demás que disponga el Pleno, la Comisión de Administración y el Comité en el ámbito de su competencia.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Octies.
+
+Las y los vocales del Comité tendrán las siguientes funciones:
+
+I. Asistir y participar en las sesiones del Comité;
+
+II. Proponer a la o el Presidente del Comité los invitados que pueden asistir a las sesiones;
+
+III. Proponer a la Secretaría Técnica los asuntos que considere se deban tratar en las sesiones del Comité;
+
+IV. Solicitar a la o el Presidente del Comité la convocatoria a sesión extraordinaria, con el señalamiento de los asuntos específicos a tratar y su justificación;
+
+V. Proporcionar a la Secretaría Técnica la información que solicite en el ejercicio de sus atribuciones;
+
+VI. Firmar las actas de las sesiones del Comité a las que hubiese asistido; y
+
+VII. Las demás que les encomiende la o el Presidente del Comité en el ámbito de su competencia.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Nonies.
+
+El Comité contará con una o un Secretario Técnico, quien será designado por la o el Presidente del mismo, de entre aquellos que desempeñen esa función en los Comités que presida.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 704 Decies.
+
+La o el Secretario Técnico del Comité tendrá las siguientes funciones:
+
+I. Auxiliar a la o el Presidente del Comité en el desarrollo de las sesiones;
+
+II. Declarar la existencia de quórum y someter a consideración del Comité el orden del día de las sesiones;
+
+III. Emitir convocatoria a sesiones a petición de la o el Presidente del Comité, así como confirmar la asistencia de sus integrantes;
+
+IV. Integrar las carpetas y demás información de los asuntos que se discutirán en las sesiones, en forma física o electrónica, y enviarlas a los integrantes del Comité;
+
+V. Elaborar el proyecto de acta de cada sesión con los proyectos de acuerdos, así como remitirla a los integrantes y asesores del Comité, dentro de los cinco días hábiles siguientes a la celebración de la sesión para su revisión, comentarios y, en su caso, firma;
+
+VI. Solicitar por instrucción del Comité a las áreas administrativas en el ámbito de su competencia, la información sobre las acciones relacionadas con la ejecución de las medidas de racionalidad y austeridad;
+
+VII. Registrar los acuerdos que deriven de las sesiones; dar seguimiento a su cumplimiento, y comunicar su avance al Comité en la sesión correspondiente;
+
+VIII. Firmar las actas de las sesiones del Comité;
+
+IX. Llevar a cabo el control, resguardo y certificación de las actas y documentos del Comité;
+
+X. Proponer al Comité el proyecto de informe anual de evaluación de las medidas de racionalidad y austeridad para su autorización;
+
+XI. Proponer a la o el Presidente del Comité la celebración de sesiones extraordinarias;
+
+XII. Someter a consideración del Comité el proyecto de calendario anual de sesiones ordinarias; y
+
+XIII. Las demás que determine el Comité o la o el Presidente del mismo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 704 Undecies. Las sesiones del Comité se celebrarán de la siguiente manera:
+
+I. De forma ordinaria por lo menos cuatro veces por año, y extraordinaria cuando sea necesario;
+
+II. Presencialmente o en forma remota, mediante el uso de cualquier medio tecnológico con el que cuente el Consejo; y
+
+III. Se levantará un acta, la cual se someterá a la consideración de los integrantes del Comité, y deberá ser firmada dentro de los cinco días siguientes a su celebración.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 704 Duodecies. Las sesiones del Comité se considerarán válidas siempre y cuando asista la mitad más uno de sus integrantes, y entre ellos se encuentre la o el Presidente del mismo.
+
+Los acuerdos se aprobarán por mayoría de votos de los miembros presentes; en caso de empate, la o el Presidente del Comité tendrá voto de calidad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 704 Terdecies. Las sesiones del Comité que no puedan llevarse a cabo por falta de quórum o cualquier otra circunstancia, se realizarán dentro de los cinco días siguientes, convocando a ésta con al menos un día hábil de anticipación.
+
+En las sesiones ordinarias que, una vez iniciadas, se deban suspender, serán reanudadas en la misma fecha, siempre que las circunstancias o el motivo por el cual se suspendieron lo permitan. En caso de que ello no sea posible, se convocará a su reanudación dentro de los cinco días siguientes a la fecha de suspensión.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 704 Quaterdecies. A las sesiones del Comité podrán asistir como invitados, con voz, pero sin voto, servidores públicos del Poder Judicial de la Federación, especialistas o cualquier otra persona, que puedan aportar conocimientos o experiencias según los temas a tratar.
+
+Los invitados solamente estarán presentes durante la discusión del tema para el cual fueron convocados.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 704 Quindecies. La convocatoria se podrá realizar por cualquier medio que facilite la pronta y eficaz comunicación, incluidos los medios tecnológicos con los que cuente el Consejo.
+
+La Secretaría Técnica emitirá la convocatoria de sesiones ordinarias a los integrantes, asesores e invitados, con una anticipación de cuando menos siete días previos a la fecha de celebración.
+
+La convocatoria deberá incluir el orden del día, las carpetas y demás información a tratar en la sesión correspondiente.
+
+Las convocatorias para las sesiones extraordinarias del Comité se emitirán, cuando menos, con cinco días de anticipación a la fecha de la celebración de la sesión, a la cual se anexará el orden del día, las carpetas, así como la información a tratar en la sesión correspondiente.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 704 Sexdecies. Las áreas administrativas en el ámbito de su competencia, darán cumplimiento a las medidas de racionalidad y austeridad, así como a los acuerdos que emita el Comité.
+
+Asimismo, deberán remitir al Comité los informes que éste solicite con base en lo previsto en el presente Acuerdo.
+
+#### SECCIÓN SEGUNDA. SERVICIOS PERSONALES
 
 ###### Artículo 705.
 
@@ -9325,9 +9517,7 @@ Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
-#### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+#### SECCIÓN TERCERA. ADECUACIONES PRESUPUESTARIAS
 
 ###### Artículo 705 Bis.
 
@@ -9371,9 +9561,9 @@ El área administrativa solicitante deberá presentar un informe semestral al Pl
 
 ### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
 
-#### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
+#### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 706.
 
@@ -9417,7 +9607,7 @@ El ejercicio del gasto será responsabilidad de las unidades ejecutoras del mism
 
 El Consejo establecerá los sistemas informáticos que sean adecuados para las distintas fases de su proceso presupuestario. Asimismo, podrá celebrar convenios con la Secretaría de Hacienda para mantener la compatibilidad con sus correspondientes sistemas informáticos, exclusivamente para efectos de registro e información de sus operaciones financieras.
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO CONTABLE DE LAS OPERACIONES Y DEL REGISTRO PATRIMONIAL
+#### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9535,9 +9725,9 @@ La Dirección General de Innovación, Planeación y Desarrollo Institucional y l
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN TERCERA. DE LA FORMULACIÓN DE ESTADOS FINANCIEROS Y DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+#### SECCIÓN SEGUNDA. DEL REGISTRO CONTABLE DE LAS OPERACIONES Y DEL REGISTRO PATRIMONIAL
 
-> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 724.
 
@@ -9823,9 +10013,9 @@ Las aportaciones que se eroguen derivado de la celebración de convenios entre e
 
 Las mencionadas erogaciones estarán sujetas en todo momento al Presupuesto de Egresos del Poder Judicial de la Federación, y se deberá atender a las medidas de racionalidad, austeridad y disciplina presupuestal.
 
-#### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
+#### SECCIÓN TERCERA. DE LA FORMULACIÓN DE ESTADOS FINANCIEROS Y DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 749.
 
@@ -9993,9 +10183,9 @@ Los pagos por concepto de defunción que se otorguen a los beneficiarios con mot
 
 Para que se tenga derecho a las pagas y apoyo por concepto de defunción, es indispensable que la persona fallecida no se hubiese encontrado disfrutando de licencia sin goce de sueldo, excepto cuando se trate de licencia por enfermedad.
 
-#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
+#### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 766.
 
@@ -10059,7 +10249,7 @@ III. Se realicen reducciones a partidas de inversión para incrementar las de ga
 
 IV. Cuando lo solicite de manera expresa la Comisión de Administración.
 
-#### SECCIÓN SEGUNDA. AUDITORÍAS
+#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -10093,7 +10283,9 @@ Al extinguirse los fideicomisos, los recursos públicos remanentes deberán dest
 
 ### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
 
-#### SECCIÓN TERCERA. RESPONSABILIDADES
+#### SECCIÓN SEGUNDA. AUDITORÍAS
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 773.
 
@@ -10157,9 +10349,7 @@ El Consejo adoptará los Postulados Básicos de Contabilidad Gubernamental, a ef
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN PRIMERA. EVALUACIÓN
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+#### SECCIÓN TERCERA. RESPONSABILIDADES
 
 ###### Artículo 776.
 
@@ -10409,7 +10599,9 @@ En los casos que no se cuente con los elementos suficientes para la depuración 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
+#### SECCIÓN PRIMERA. EVALUACIÓN
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 795 Bis.
 
@@ -10559,11 +10751,7 @@ La Dirección General de Programación, Presupuesto y Tesorería publicará la C
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
-
-SUBSECCIÓN PRIMERA
-
-DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
 
 ###### Artículo 802.
 
@@ -10619,9 +10807,11 @@ La Dirección General de Programación, Presupuesto y Tesorería, así como las 
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
+#### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
 
 ###### Artículo 810.
 
@@ -10681,7 +10871,9 @@ II. Fincamiento de las responsabilidades, en términos de las disposiciones lega
 
 III. Adopción de acciones tendentes a mejorar la gestión y el control interno.
 
-#### SECCIÓN TERCERA. ADMINISTRACIÓN Y OPERACIÓN
+#### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 815.
 
@@ -10757,7 +10949,7 @@ Si como resultado de las auditorías o visitas, se detectan irregularidades que 
 
 La revisión y vigilancia que efectúe la Contraloría y en general las actividades propias de la auditoría, no deberán formar parte de las labores operativas y trámites administrativos que en forma directa realicen las unidades ejecutoras, por lo que los mecanismos de verificación y control interno que formen parte de los sistemas y procedimientos propios de la competencia, funciones y programas de las unidades ejecutoras, no deberán ser desarrollados por el personal de la Contraloría.
 
-#### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
+#### SECCIÓN TERCERA. ADMINISTRACIÓN Y OPERACIÓN
 
 ###### Artículo 825.
 
@@ -10795,7 +10987,7 @@ Las responsabilidades a que se refiere este Título, se constituirán y exigirá
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN QUINTA. DESTINO
+#### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
 
 ###### Artículo 830.
 
@@ -10829,9 +11021,7 @@ Los indicadores del Sistema de Planeación Estratégica Institucional deberán f
 
 Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra el Consejo para el cumplimiento de sus programas institucionales.
 
-#### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+#### SECCIÓN QUINTA. DESTINO
 
 ###### Artículo 834.
 
@@ -11481,9 +11671,9 @@ La contratación a que hace referencia este artículo deberá sujetarse a las re
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-#### SECCIÓN SÉPTIMA. SANCIONES
+#### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 854.
 
@@ -11661,7 +11851,9 @@ Los depósitos en dinero diversos a los depósitos judiciales corresponden, entr
 
 La Dirección General de Programación, Presupuesto y Tesorería transferirá, en un plazo no mayor a diez días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo de Apoyo e informará de ello a la Secretaría Técnica y al Comité.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SÉPTIMA. SANCIONES
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 888.
 
@@ -11693,9 +11885,7 @@ III. El sistema de registro y control de los recursos ajenos; y
 
 IV. Las demás que se establezcan en las disposiciones legales aplicables y en los acuerdos que emitan el Consejo y el Comité.
 
-#### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 891.
 
@@ -11775,7 +11965,7 @@ La devolución de cantidades o valores que deban ser reintegrados al depositante
 
 Se procurará que los billetes, certificados o instrumentos de depósito se puedan hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
 
-#### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
+#### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
 
 > <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -11805,7 +11995,9 @@ La institución depositaria debe informar a la secretaría técnica del Fondo, p
 
 Los informes de la institución depositaria deberán rendirse de forma que permitan la conciliación oportuna, completa y precisa de los ingresos, egresos y rendimientos. En caso de inconsistencias en los estados de cuenta, la secretaría técnica del Fondo de Apoyo deberá promover las aclaraciones correspondientes en un término no mayor de treinta días posteriores a que tenga conocimiento de ellas.
 
-#### SECCIÓN CUARTA. INSTALACIONES
+#### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 907.
 
@@ -11823,7 +12015,7 @@ En todo caso, se debe considerar que los recursos disponibles del Fondo de Apoyo
 
 Las percepciones del secretario técnico y las del personal que se designe para auxiliar en las actividades del Fondo de Apoyo, se cubrirán directamente de los recursos disponibles del Fondo de Apoyo, en los términos previstos en el artículo 249, fracción I, de la Ley Orgánica.
 
-#### SECCIÓN QUINTA. SERVICIO DE SEGURIDAD Y VIGILANCIA
+#### SECCIÓN CUARTA. INSTALACIONES
 
 ###### Artículo 911.
 
@@ -11833,7 +12025,7 @@ La Secretaría Técnica enviará en forma trimestral a la entidad de fiscalizaci
 
 La información que se genere con motivo de la administración y operación del Fondo de Apoyo, se regirá por lo dispuesto en las normas que en materia de transparencia tiene establecidas el Consejo.
 
-#### SECCIÓN SEXTA. BIENES
+#### SECCIÓN QUINTA. SERVICIO DE SEGURIDAD Y VIGILANCIA
 
 ###### Artículo 913.
 
@@ -11877,7 +12069,7 @@ La Dirección General de Comunicación Social y Vocería deberá presentar al Pl
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-#### SECCIÓN PRIMERA. DEROGADA
+#### SECCIÓN SEXTA. BIENES
 
 ###### Artículo 918.
 
@@ -11907,7 +12099,7 @@ Todas las instalaciones deberán contar con un análisis de riesgo.
 
 En las instalaciones, la Administración de Inmuebles deberá colocar en lugar visible, las medidas de acceso, estancia y salida de las mismas, con el propósito de orientar a servidores públicos y visitantes, así como transparentar las mismas.
 
-#### SECCIÓN SEGUNDA. DEROGADA
+#### SECCIÓN PRIMERA. DEROGADA
 
 ###### Artículo 922.
 
@@ -11953,7 +12145,7 @@ II. Gestionar y proveer los servicios de mantenimiento para la correcta operaci�
 
 La Coordinación de Seguridad atenderá los requerimientos que en materia de seguridad le soliciten las áreas administrativas, órganos jurisdiccionales y servidores públicos y, en su caso, atenderá en forma oportuna a las llamadas urgentes que se reciban en esta materia.
 
-#### SECCIÓN TERCERA. DEROGADA
+#### SECCIÓN SEGUNDA. DEROGADA
 
 ###### Artículo 927.
 
@@ -12027,7 +12219,7 @@ En la aplicación de los acuerdos generales y demás disposiciones del Consejo r
 
 El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social y Vocería o del Administrador del Centro de Justicia Penal quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.
 
-#### SECCIÓN CUARTA. DEROGADA
+#### SECCIÓN TERCERA. DEROGADA
 
 ###### Artículo 934.
 
@@ -12051,7 +12243,7 @@ La información que se genere por el uso de los equipos mencionados en el artíc
 
 El manejo, resguardo y entrega de la información generada por dichos sistemas, se regulará por los manuales, procedimientos y sistemas establecidos por la Coordinación de Seguridad, en ellos se privilegiará en todo momento la protección de los datos personales, con las excepciones que las leyes determinen. El mal uso de dicha información quedará bajo la responsabilidad de quien la controle y divulgue.
 
-#### SECCIÓN QUINTA. DEROGADA
+#### SECCIÓN CUARTA. DEROGADA
 
 ###### Artículo 938.
 
@@ -12061,7 +12253,7 @@ Asimismo, y a través del personal de seguridad, evaluará la prestación de los
 
 La administración de Inmuebles deberá reportar al área de contratación de que se trate, cualquier situación que contravenga las obligaciones contractuales.
 
-#### SECCIÓN SEXTA. DEROGADA
+#### SECCIÓN QUINTA. DEROGADA
 
 ###### Artículo 939.
 
@@ -13093,13 +13285,13 @@ Derogado.
 
 ## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
 
-#### SECCIÓN SÉPTIMA. DEROGADA
+#### SECCIÓN SEXTA. DEROGADA
 
 ###### Artículo 74.
 
 Derogado.
 
-#### SECCIÓN OCTAVA. DEROGADA
+#### SECCIÓN SÉPTIMA. DEROGADA
 
 ###### Artículo 75.
 
@@ -13768,3 +13960,17 @@ D.O.F. 24 AGOSTO DE 2021.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 20 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Consejo de la Judicatura Federal, deberá celebrar su sesión de instalación dentro de los treinta días naturales siguientes a la entrada en vigor del presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
+
+QUINTO. La creación del Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Consejo de la Judicatura Federal, no generará la creación de nuevas plazas.
