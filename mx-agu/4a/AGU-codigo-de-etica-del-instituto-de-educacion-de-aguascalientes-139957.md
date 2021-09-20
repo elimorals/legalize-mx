@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-de-educacion-de-aguascalientes-13
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-28"
-last_updated: "2019-10-28"
+last_updated: "2021-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Primera Sección al Número 43 del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de octubre de 2019.
 
@@ -555,9 +555,15 @@ II. La página de internet del IEA. Asimismo, deberá entregarse un ejemplar imp
 
 Órgano de sanción. Al Órgano Interno de Control le corresponde sancionar cualquier acto u omisión que quebrante la disciplina y respeto que, en apego a este Código, deben observar los Servidores Públicos, esto de conformidad con los artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 73 párrafo primero de la Constitución Política del Estado de Aguascalientes; artículo 10 párrafo segundo y 49 fracción I de la Ley General de Responsabilidades Administrativas y artículo 2° fracción I y 36 fracción I de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-Órgano de vigilancia. El IEA cuenta con un Comité de Ética y Prevención de Conflictos de Interés, encargado de fomentar y vigilar el cumplimiento de este Código y su Código de Conducta.
+Órgano de vigilancia. El IEA podrá contar con un Comité de Ética o figura análoga, encargado de fomentar y vigilar el cumplimiento de este Código y su Código de Conducta.
+
+En su caso, corresponderá al Órgano Interno de Control regular la integración, organización, atribuciones y funcionamiento del órgano referido en el párrafo anterior.
+
+El Órgano Interno de Control conocerá, investigará y sancionará de los asuntos que haga de su conocimiento el Comité de Ética.
 
 ## TRANSITORIOS
 
@@ -580,3 +586,21 @@ ATENTAMENTE
 C.P JORGE RAÚL DE LA CRUZ MEDRANO
 
 TITULAR DE LA UNIDAD AUDITORA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA EL CÓDIGO DE ÉTICA DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano Interno de Control del Instituto de Educación de Aguascalientes deberá dar a conocer de manera inmediata las modificaciones y adiciones establecidas en el presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
