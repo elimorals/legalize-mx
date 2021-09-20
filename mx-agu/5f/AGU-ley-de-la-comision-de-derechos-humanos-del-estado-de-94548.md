@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2021-08-02"
+last_updated: "2021-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -785,9 +785,9 @@ La Comisión deberá resolver sobre las quejas en un plazo no mayor de noventa d
 
 Cuando los hechos se traten de violaciones graves a los derechos humanos, el Presidente podrá asumir de oficio directamente la investigación de la queja, debiendo dictar la resolución final lo antes posible así como recomendar todas las medidas que resulten necesarias de entre las establecidas en los Artículos 19 Fracción XXI y 64 de esta Ley, para brindar a las víctimas la protección más amplia, de conformidad con el Artículo 1° segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
 
-Se consideran graves las quejas por hechos que violen el derecho a la vida, la libertad, integridad, seguridad o salud de las personas, así como la pérdida súbita de la vivienda o instrumentos de trabajo, y cualquier caso análogo.
+Se consideran graves las quejas por hechos que violen el derecho a la vida, la libertad, integridad, seguridad o salud de las personas, de lesa humanidad, así como la pérdida súbita de la vivienda o instrumentos de trabajo, y cualquier caso análogo.
 
 ###### ARTÍCULO 52.
 
@@ -1226,3 +1226,11 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
+
+P.O. 20 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 619.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 51 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
