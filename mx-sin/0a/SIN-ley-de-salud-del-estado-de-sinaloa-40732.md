@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2020-03-04"
+last_updated: "2021-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -84,6 +84,10 @@ II. La atención materno infantil;
 > <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2017)</small>
 
 II Bis. El programa de nutrición materno-infantil, en los pueblos y comunidades indígenas del Estado, el cual debe diseñarse, planearse y administrarse en coordinación y consulta con los pueblos y comunidades indígenas, para tomar en cuenta sus especificidades culturales.
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+II Bis 1. La salud bucodental;
 
 III. La prestación de servicios de planificación familiar;
 
@@ -1145,11 +1149,49 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO II BIS. DE LA SALUD BUCODENTAL
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 82 Bis.
+
+La Secretaría de Salud, en coordinación con otras autoridades sanitarias competentes, implementarán programas para la prevención y control de las enfermedades bucodentales en las escuelas de educación preescolar y primaria, dando prioridad a las escuelas rurales que se encuentren en situación de marginación o de escasos recursos del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 82 Bis 1.
+
+Los programas de salud bucodental que la Secretaría de Salud lleve a cabo en las escuelas de nivel preescolar y primaria de la entidad, serán permanentes y comprenderán las siguientes medidas:
+
+I. La detección oportuna de las enfermedades bucodentales y la evaluación del riesgo de contraerlas;
+
+II. La divulgación de medidas higiénicas para el control de los padecimientos bucodentales;
+
+III. La prevención específica en cada caso y la vigilancia de su cumplimiento;
+
+IV. Las acciones para el fomento y educación de la salud bucal;
+
+V. Las actividades que promuevan la participación activa de los padres, tutores o quienes ejerzan la patria potestad sobre ellos, en la detección y prevención de las enfermedades bucodentales;
+
+VI. La coordinación con instituciones de los sectores público, social y privado, con el objeto de alcanzar una amplia cobertura en la atención de los servicios de salud bucal en las escuelas de nivel preescolar y primaria; y
+
+VII. Las acciones prioritarias que permitan el acceso de la salud bucal en el caso de centros educativos ubicados en zonas rurales de la entidad.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 82 Bis 2.
+
+La prevención y control de la salud bucodental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejercen la patria potestad sobre ellos, y los sectores de salud y educativo del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 82 Bis 3.
+
+La Secretaría de Educación Pública y Cultura en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucodental, de conformidad con las bases de coordinación que al efecto se acuerden entre ambas autoridades.
+
 ### CAPÍTULO III. DE LOS SERVICIOS DE PLANIFICACIÓN FAMILIAR
-
-### CAPÍTULO IV. DE LA SALUD MENTAL
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 83.
 
@@ -1187,17 +1229,19 @@ Los Comités de Salud a que se refiere el artículo 137 de esta Ley, promoverán
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones de los programas Nacional y Estatal de planificación familiar formulados por los Consejos Nacional y Estatal de Población respectivamente, así como del elaborado sobre esta materia por el Sector Salud, buscando su incorporación al Programa Estatal de Salud.
 
+### CAPÍTULO IV. DE LA SALUD MENTAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ### CAPÍTULO V. DE LA SALUD PÚBLICA
 
 ### CAPÍTULO VI. DE LA ASISTENCIA SOCIAL
-
-### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
 
 ###### Artículo 87.
 
 Las disposiciones relativas a las atribuciones de las autoridades y los derechos y obligaciones en materia de salud mental, serán reguladas por la Ley especifíca que al efecto se emita.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
 
 ###### Artículo 88.
 
@@ -1219,7 +1263,7 @@ Las disposiciones relativas a las atribuciones de las autoridades y los derechos
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
+### CAPÍTULO ÚNICO
 
 ###### Artículo 93.
 
@@ -1265,7 +1309,7 @@ Los gastos que se generen por la compra, instalación y mantenimiento de los des
 
 En caso de incumplir con la compra, instalación y mantenimiento de los desfibriladores automáticos externos, así como por la capacitación del personal para su uso, por parte de los responsables a que hace referencia el artículo 93 Bis 2 de esta Ley, la Secretaría de Salud girarán (sic) un apercibimiento para que un plazo no mayor a diez días hábiles, contados a partir de su notificación cumplan con la obligación; en caso de omisión se procederá a la clausura del inmueble respectivo.
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
 
 ###### Artículo 94.
 
@@ -1309,7 +1353,7 @@ VII. La promoción de la educación y la capacitación para el trabajo, así com
 
 La atención médica que se preste a los adultos mayores deberá cumplir con los criterios establecidos en la Ley de Integración Social de Personas con Discapacidad del Estado, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, e incluirá programas educativos y de promoción de la salud.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### Artículo 98.
 
@@ -1397,7 +1441,7 @@ La Secretaría de Salud, en coordinación con la Dirección de Profesiones, vigi
 
 ## TÍTULO SEXTO. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 110.
 
@@ -1615,7 +1659,7 @@ La estructura orgánica interna de la Comisión será la que fije su Reglamento 
 
 ## TÍTULO SÉPTIMO. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
 
 ###### Artículo 127.
 
@@ -1661,7 +1705,7 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
 
 ###### Artículo 134.
 
@@ -1737,7 +1781,7 @@ Se podrá denunciar ante las autoridades sanitarias y el Ministerio Público, la
 
 ## TÍTULO OCTAVO. DE LA DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
 
-### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 140.
 
@@ -1763,9 +1807,7 @@ III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coor
 
 Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
-### CAPÍTULO I BIS. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
-
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### Artículo 144.
 
@@ -1869,7 +1911,9 @@ El Consejo podrá determinar la creación de comités y grupos de trabajo, tanto
 
 La integración de cada uno de los comités, así como su organización y funcionamiento, se sujetarán a lo que disponga el Reglamento Interno del Consejo.
 
-### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I BIS. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 150.
 
@@ -1891,7 +1935,7 @@ IV. Los establecimientos autorizados, conforme a la legislación aplicable, para
 
 Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador deberán solicitar y obtener información del Registro Estatal de Donadores, así como la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la legislación aplicable.
 
-### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 153.
 
@@ -1915,7 +1959,7 @@ El Consejo Estatal de Trasplantes definirá la aplicación y los rubros en que s
 
 ## TÍTULO NOVENO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 158.
 
@@ -1957,7 +2001,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### Artículo 162 Bis.
 
@@ -2015,7 +2059,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 Las autoridades sanitarias estatales, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 168.
 
@@ -2059,7 +2103,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TÍTULO DÉCIMO. INVESTIGACIÓN PARA LA SALUD
 
-### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 173.
 
@@ -2123,7 +2167,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TÍTULO DÉCIMO PRIMERO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 179.
 
@@ -2153,7 +2197,7 @@ Las autoridades sanitarias orientarán la captación, producción, procesamiento
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### Artículo 183.
 
@@ -2169,7 +2213,7 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 ## TÍTULO DÉCIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
 
 ###### Artículo 186.
 
@@ -2223,7 +2267,7 @@ B). Asistencia social.
 
 En todo lo no previsto en este Título, se estará a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO VI. DE LOS RASTROS
+### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
 
 ###### Artículo 194.
 
@@ -2237,7 +2281,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad com
 
 Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. DE LOS RASTROS
 
 ###### Artículo 197.
 
@@ -2279,7 +2323,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando se contravengan algunas de las disposiciones anteriores o las del reglamento respectivo, la autoridad sanitaria competente podrá, previo cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-### CAPÍTULO VIII. DE LA PROSTITUCIÓN
+### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 207.
 
@@ -2309,7 +2353,7 @@ I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades 
 
 II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
-### CAPÍTULO IX. DE LOS RECLUSORIOS
+### CAPÍTULO VIII. DE LA PROSTITUCIÓN
 
 ###### Artículo 211.
 
@@ -2331,7 +2375,7 @@ Los animales muertos deberán ser incinerados o enterrados antes de que entren e
 
 Los residuos sólidos se recibirán de preferencia en transportes dotados de caja hermética y su manejo será sólo en lo estrictamente indispensable para transportarse al sitio de disposición final.
 
-### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
+### CAPÍTULO IX. DE LOS RECLUSORIOS
 
 ###### Artículo 216.
 
@@ -2357,7 +2401,7 @@ El sacrifico (sic) de animales en los rastros autorizados se efectuará en los d
 
 El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
 
-### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
+### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
 
 ###### Artículo 222.
 
@@ -2391,7 +2435,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser d
 
 Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
+### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
 
 ###### Artículo 230.
 
@@ -2417,7 +2461,7 @@ El ayuntamiento, considerando el dictamen sanitario de la Secretaría de Salud d
 
 El Ayuntamiento podrá revocar las autorizaciones cuando se dejen de cumplir o se inflijan las disposiciones de esta Ley y los reglamentos respectivos, o por causas de interés público.
 
-### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
+### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
 
 ###### Artículo 233.
 
@@ -2431,7 +2475,7 @@ Los reclusorios estarán sujetos al control sanitario de los Gobiernos Estatal o
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
 
 ###### Artículo 236.
 
@@ -2441,7 +2485,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
+### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### Artículo 238.
 
@@ -2457,7 +2501,7 @@ La autoridad municipal, una vez terminada la edificación del centro de reunión
 
 El funcionamiento de los establecimientos a que se refiere el artículo 238 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO XVI. DE LAS GASOLINERAS
+### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
 
 ###### Artículo 241.
 
@@ -2483,7 +2527,7 @@ Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a e
 
 El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
 
-### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
+### CAPÍTULO XVI. DE LAS GASOLINERAS
 
 ###### Artículo 246.
 
@@ -2499,7 +2543,7 @@ III. Casa de huéspedes o pensión: casa donde se albergan personas para vivir e
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
+### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
 
 ###### Artículo 248.
 
@@ -2515,9 +2559,7 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere de contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas aplicables.
 
-### CAPÍTULO XIX. DE LOS GIMNASIOS
-
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
 
 ###### Artículo 250.
 
@@ -2531,7 +2573,9 @@ Los transportes que circulen en el interior de un solo municipio, deberán conta
 
 Los transportes que circulen por más de un municipio del territorio estatal, deberán contar con la autorización sanitaria correspondiente que será expedida por el Gobierno del Estado, una vez cubiertos los requisitos que marca esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO XIX. DE LOS GIMNASIOS
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 253.
 
@@ -2541,7 +2585,7 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO II. DE LOS CERTIFICADOS
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 255.
 
@@ -2553,7 +2597,7 @@ El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujeta
 
 La Secretaría de Salud y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS CERTIFICADOS
 
 ###### Artículo 257.
 
@@ -2585,7 +2629,7 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 259 Bis.
 
@@ -2655,7 +2699,7 @@ Queda totalmente prohibido, en los establecimientos antes mencionados la venta o
 
 ## TÍTULO DÉCIMO CUARTO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 260.
 
@@ -2761,7 +2805,7 @@ La autoridad sanitaria emitirá la resolución que corresponda al concluir la au
 
 La resolución de revocación surtirá sus efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 277.
 
@@ -2799,7 +2843,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 282.
 
@@ -2863,7 +2907,7 @@ La negativa a firmar el acta o a recibir copia de la misma o de la orden de visi
 
 ## TÍTULO DÉCIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 291.
 
@@ -2964,6 +3008,8 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 ###### Artículo 305.
 
 La desocupación, limpieza o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 306.
 
@@ -3470,3 +3516,11 @@ QUINTO. El Ejecutivo Estatal a través de la Secretaría de Salud, deberá crear
 El Ejecutivo Estatal incluirá en la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el Ejercicio Fiscal de 2020, los recursos económicos necesarios y suficientes para garantizar la creación y funcionamiento de la Comisión Estatal de Bioética.
 
 SEXTO. Por lo que se refiere a los establecimientos de los diversos sectores, la creación y funcionamiento de los comités a que se refiere el presente Decreto se sujetarán a los recursos humanos, materiales y financieros de dichos establecimientos, así como a la disponibilidad presupuestaria aprobada para tales efectos en el ejercicio fiscal correspondiente, de conformidad con las disposiciones para la integración y funcionamiento de los Comités Hospitalarios de Bioética y las características de los centros hospitalarios que deben tenerlos.
+
+P.O. 20 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 664 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA LA FRACCIÓN II BIS 1, AL APARTADO A, DEL ARTÍCULO 3; UN CAPÍTULO II BIS DENOMINADO «SALUD BUCODENTAL» AL TÍTULO QUINTO «PRESTACIÓN DE LOS SERVICIOS DE SALUD» CON LOS ARTÍCULOS 82 BIS, 82 BIS 1, 82 BIS 2 Y 82 BIS 3, A LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. La Secretaría de Salud y la Secretaría de Educación Pública y Cultura, deberán armonizar sus Reglamentos respectivos, para dar cumplimiento al presente Decreto.
