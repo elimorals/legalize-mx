@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2021-07-26"
+last_updated: "2021-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -1903,6 +1903,10 @@ e) Transporte de carga especializada: El que requiere de equipo o condiciones ad
 
 Respecto de la capacidad permitida de pasajeros a que se refiere este Artículo, la misma podrá variar atendiendo a las especificaciones del fabricante de los vehículos, previa autorización de la autoridad competente.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 119 BIS.- Para que un vehículo del servicio público en la modalidad de grúa, una vez empadronado en el Registro Estatal de Transporte, pueda circular por la infraestructura vial del Estado, deberá llevar en todo momento además de los requisitos establecidos en los artículos 80 y 97 de esta Ley, póliza de seguro vigente.
+
 ###### ARTÍCULO 120.
 
 En aquellos casos en que sea necesario transitar por algún tramo o tramos de una carretera o camino federal, la CMOV coordinará la tramitación del permiso correspondiente en los términos de la legislación de la materia.
@@ -1937,11 +1941,21 @@ VII. Suburbano: Autobús modelo no mayor a quince años; o microbús, minibús o
 
 VIII. Turístico: Autobús modelo no mayor a quince años; o microbús, minibús, midibús o vehículo modelo no mayor a doce años, con capacidad de hasta diecinueve pasajeros;
 
-IX. Taxi: Vehículo modelo no mayor a seis años; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
 
-X. Urbano: Autobús, microbús, minibús o midibús modelo no mayor a diez años.
+IX. Taxi: Vehículo modelo no mayor a seis años;
 
-Respecto a la antigüedad de los vehículos, deberá atenderse a que las condiciones físico mecánicas permitan su operación con apego a los estándares señalados en esta Ley. En el supuesto que las condiciones del vehículo lo permitan, el período de antigüedad para el servicio de taxi y urbano, podrá prorrogarse por una sola vez por un período de dos años más, previa autorización de la CMOV.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+X. Urbano: Autobús, microbús, minibús o midibús modelo no mayor de diez años; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Grúa: Vehículo modelo no mayor a quince años.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
+
+Para efectos de la antigüedad, esta se computará conforme al año de fabricación del vehículo o la fecha de la factura de origen, y deberá atenderse a que las condiciones físico mecánicas permitan su operación con apego a los estándares señalados en esta Ley. En el supuesto que las condiciones del vehículo lo permitan, el período de antigüedad para el servicio de taxi y urbano, podrá prorrogarse por una sola vez por un período de dos años más, previa autorización de la CMOV.
 
 ###### ARTÍCULO 124.
 
@@ -4778,3 +4792,11 @@ Se instruye a la Secretaría de Administración del Estado de Aguascalientes par
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 618.- SE REFORMAN LAS FRACCIONES IX Y X Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 123 Y SE ADICIONAN EL ARTÍCULO 119 BIS Y UNA FRACCIÓN XI AL ARTÍCULO 123 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
