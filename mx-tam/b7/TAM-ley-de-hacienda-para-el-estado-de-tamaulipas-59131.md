@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-07-14"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1333,9 +1333,9 @@ I.- Búsqueda de expedientes y documentos, tres veces el valor diario de la Unid
 
 Expedición de constancias, certificaciones o copias certificadas de expedientes y documentos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-Tratándose de certificación de averiguaciones previas, expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización, hasta 35 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 60 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 90 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; hasta 115 hojas, cinco veces el valor diario de la Unidad de Medida y Actualización; hasta 150 hojas seis veces el valor diario de la Unidad de Medida y Actualización; y de 151 hojas en adelante, siete veces el valor diario de la Unidad de Medida y Actualización.
+Tratándose de certificación de expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización, hasta 35 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 60 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 90 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; hasta 115 hojas, cinco veces el valor diario de la Unidad de Medida y Actualización; hasta 150 hojas seis veces el valor diario de la Unidad de Medida y Actualización; y de 151 hojas en adelante, siete veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1373,9 +1373,41 @@ IX.- Dictamen de viabilidad financiera para la instalación de establecimientos 
 
 X.- Opinión de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas, el valor anual de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Los servicios prestados por la Fiscalía General de Justicia, causarán conforme a la siguiente tarifa:
+
+a).- Expedición de copias simples, certificadas o autenticadas de averiguaciones previas, carpetas de investigación, expedientes de procedimientos administrativos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- Emisión de dictámenes periciales, cincuenta y seis veces el valor diario de la Unidad de Medida y Actualización, en las siguientes materias:
+
+1. Construcción o topografía,
+
+2. Documentos cuestionados o grafoscopía,
+
+3. Trabajo Social,
+
+4. Psicología,
+
+5. Toxicología forense,
+
+6. Medicina forense, y
+
+7. Dactiloscopía.
+
+c).- Emisión de dictamen de paternidad o prueba para determinación de perfiles genéticos, por cada uno setenta y nueve veces el valor diario de la Unidad de Medida y Actualización;
+
+d).- Traslado de motocicleta, automóvil, SUV o camioneta al depósito oficial de vehículos asegurados o puestos a disposición, con equipo de grúa, con maniobra simple, ocho veces el valor diario de la Unidad de Medida y Actualización;
+
+e).- Resguardo de motocicleta, automóvil, SUV o camioneta, en encierros de la Fiscalía General del Estado, se pagará diariamente 0.5 veces el valor diario de la Unidad de Medida y Actualización; y
+
+f).- Constancia de Antecedentes Penales, tres veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 60.
 
-Los derechos por concepto de adscripción de aspirante, exámenes para obtener la patente de aspirante o el fíat de Notario Público, constancia de no inhabilitación para el servicio público y constancia de no antecedentes penales, se causarán conforme a lo siguiente:
+Los derechos por concepto de adscripción de aspirante, exámenes para obtener la patente de aspirante o el fíat de Notario Público y constancia de no inhabilitación para el servicio público, se causarán conforme a lo siguiente:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1387,9 +1419,7 @@ II. Por el examen para obtener el fíat de Notario Público, cuatrocientas cincu
 
 III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-IV. Constancia de no antecedentes penales, tres veces el valor diario de la Unidad de Medida y Actualización;
+IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1481,9 +1511,9 @@ III. Las legalizaciones de firmas solicitadas oficiosamente por las autoridades 
 
 IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalización de firmas, busca de copias de documentos solicitados oficiosamente, por servidores públicos del Gobierno del Estado, de los Municipios o de la Federación en ejercicio y en cumplimiento de sus funciones.
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-V. Las certificaciones y copias certificadas de los documentos solicitados por las víctimas del delito, de averiguaciones previas, carpetas de investigación y procesos penales jurisdiccionales, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas y Código Nacional de Procedimientos Penales.
+V. Las certificaciones y copias certificadas de los documentos solicitados por las víctimas del delito dentro de procesos penales, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas y el Código Nacional de Procedimientos Penales.
 
 ### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
 
@@ -4134,3 +4164,15 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-809 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS Y LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
