@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2019-08-20"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE GASTO PUBLICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE GASTO PÚBLICO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -41,11 +43,11 @@ LEY DE GASTO PUBLICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 1°.
 
-El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejecución, control, evaluación del desempeño, e información y transparencia; mismas que se norman y se regulan por las disposiciones previstas en la presente ley, así como por la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
+El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejercicio y control, seguimiento, evaluación y rendición de cuentas; mismas que se norman y se regulan por las disposiciones previstas en la presente Ley, así como por la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -97,6 +99,10 @@ IX.- Clasificación Económica del Gasto: Clasifica las transacciones de los ent
 
 X.- Clasificación Administrativa: Tiene como objetivo principal identificar las unidades administrativas a través de las cuales se realiza la asignación, gestión y rendición de cuentas de los recursos presupuestales que éstas ejercen;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Bis.- Clasificación Programática: Establece la clasificación de los programas presupuestarios de los entes públicos, que permitirá organizar, en forma representativa y homogénea, las asignaciones de recursos de los programas presupuestarios;
+
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 XI.- Coordinador de Sector: Es la dependencia que designa el Gobernador del Estado conforme a la Ley Orgánica de la Administración Pública del Estado, para coordinar la planeación, programación, presupuestación, ejercicio, evaluación y seguimiento del gasto de aquellas entidades que estén ubicadas en el sector bajo su coordinación;
@@ -121,9 +127,9 @@ XV.- Eficacia en el ejercicio del gasto público: Es el logro de las metas progr
 
 XVI.- Eficiencia en el ejercicio del gasto público: Es el ejercicio de los recursos presupuestales en las formas y tiempos programados;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-XVII.- Ejecutores de gasto: Son las entidades a que se refiere el artículo 3° de esta Ley, a las que se asignan recursos con cargo al Presupuesto Anual de Egresos;
+XVII.- Ejecutores de gasto: Son las instancias a que se refiere el artículo 3° de esta Ley, a las que se asignan recursos con cargo al Presupuesto Anual de Egresos;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -149,6 +155,10 @@ XXII.- Indicadores de Gestión: Miden el avance y logro en procesos y actividade
 
 XXIII.- Indicadores Estratégicos: Miden el grado de cumplimiento de los objetivos de las políticas públicas contemplados en los Programas Presupuestarios;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII Bis.- Meta: Es la que establece límites o niveles máximos de logro, comunica el nivel de desempeño esperado a través de los indicadores establecidos para los programas presupuestarios. Para su establecimiento, se debe asegurar que son cuantificables y que están directamente relacionadas con el nivel de objetivo de cada indicador;
+
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 XXIV.- Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un programa y sus relaciones de causa y efecto, medios y fines;
@@ -160,6 +170,10 @@ XXV.- Órganos Autónomos: Son entidades estatales de derecho público con patri
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 XXVI.- Partida Presupuestal: Consiste en el nivel de agregación específico en el que se describe textualmente y en forma detallada, los bienes y servicios que se adquieren;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI Bis.- Perspectiva de Género: Es la metodología y mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -173,9 +187,25 @@ XXVIII.- Presupuesto de Egresos: El Presupuesto de Egresos del Gobierno del Esta
 
 XXIX.- Presupuesto Devengado: Es el reconocimiento oficial de las obligaciones de pago por parte de las entidades ejecutoras del gasto a favor de terceros, ello por la recepción de plena conformidad de bienes, servicios y obras previamente contratados, como también de las obligaciones que se deriven de leyes, decretos, resoluciones y sentencias definitivas;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XXIX Bis.- Programa Anual de Evaluación: Es el documento cuyo objetivo es establecer:
+
+a) Las evaluaciones y los tipos de evaluación que se aplicarán a los programas presupuestarios estatales, incluyendo los fondos de aportaciones federales operados en la entidad durante cada ejercicio fiscal;
+
+b) El calendario de ejecución de las evaluaciones;
+
+c) Vincular el calendario de ejecución de las evaluaciones con el calendario de preparación del proyecto del Presupuesto de Egresos; y
+
+d) Articular los resultados de las evaluaciones de los programas presupuestarios como elemento clave del Presupuesto basado en Resultados y del Sistema Estatal de Evaluación del Desempeño;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 XXX.- Programa Presupuestario: Categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos y cuya identificación corresponde a la solución de una problemática de carácter público;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XXX Bis.- Programas de inversión: Son las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -189,6 +219,10 @@ XXXII.- Proyectos de Inversión: Son las acciones que implican erogaciones de ga
 
 XXXIII.- Ramo: Es el mayor nivel de agregación en las asignaciones de gasto dentro del Presupuesto de Egresos del Gobierno del Estado;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XXXIII Bis.- Reglas de Operación: Son las disposiciones a las cuales se sujetan determinados programas y, en su caso, fondos estatales con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 XXXIV.- Responsabilidad Hacendaria: Es el cumplimiento de los principios y disposiciones de la presente Ley, la Ley de Ingresos, el Presupuesto de Egresos, y demás ordenamientos que procuren el equilibrio presupuestal, la disciplina fiscal y el logro de las metas establecidas en esta materia;
@@ -201,17 +235,21 @@ XXXV.- Secretaría: Secretaría de Finanzas;
 
 XXXVI.- Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-XXXVII.- Subejercicio del Gasto: Situación que genera disponibilidades presupuestarias, originadas con base en un retraso en el logro de las metas fijadas conforme al calendario presupuestal, o bien por no contar con el sustento legal para la ejecución del recurso;
+XXXVI Bis.- Sistema de Monitoreo de Indicadores para Resultados (SIMIR): Es la herramienta informática que permite retroalimentar el diseño y operación de los programas presupuestarios, así como al propio proceso presupuestario, con base en los resultados observados a partir de la organización estructurada de información sobre metas e indicadores de desempeño, que proveen evidencia y elementos objetivos para la toma de decisiones;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XXXVII.- Subejercicio del Gasto: Situación que genera disponibilidades presupuestarias, originadas con base en un retraso en la programación del gasto respecto al calendario presupuestal, o bien por no contar con el sustento legal para la ejecución del recurso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 XXXVIII.- Subsidio: Son las asignaciones de recurso estatal establecidas en el Presupuesto de Egresos, con la finalidad de que a través de las dependencias y entidades se otorguen a los diversos sectores de la sociedad como a los municipios, para fomentar el desarrollo de actividades sociales y económicas; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-XXXIX.- Unidad Responsable: Son las entidades mencionadas en el artículo 3° de la presente Ley, que están obligadas a la rendición de cuentas en relación al ejercicio de los recursos presupuestales que les han sido asignados, ello conforme a la presente ley, a la Ley General de Contabilidad Gubernamental, y demás leyes que apliquen en su caso.
+XXXIX.- Unidad Responsable: Es el área administrativa de los Poderes Legislativo y Judicial, los entes autónomos, las dependencias y entidades, que está obligada a la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al ramo, dependencia o entidad. Ello conforme a la presente Ley, a la Ley General de Contabilidad Gubernamental, y demás leyes que apliquen en su caso.
 
 ###### ARTICULO 3º.
 
@@ -239,9 +277,9 @@ VI.- Los Organismos Autónomos.
 
 Las personas físicas o morales, públicas o privadas, que ejerzan recursos públicos, deberán sujetarse a lo que establece esta Ley y a las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-Cuando las entidades a que se refiere este artículo, ejerzan recursos federales, se sujetarán, además de lo que disponga esta Ley, a la Ley de Coordinación Fiscal, a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a la Ley General de Contabilidad Gubernamental, a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como a las demás disposiciones aplicables.
+Cuando las instancias a que se refiere este artículo, ejerzan recursos federales, se sujetarán, además de lo que disponga esta Ley, a la Ley de Coordinación Fiscal, a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a la Ley General de Contabilidad Gubernamental, a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como a las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -261,11 +299,11 @@ II.- De austeridad, transparencia, rendición de cuentas, difusión de la inform
 
 III.- De evaluación del desempeño con el objeto de propiciar que los recursos públicos se asignen en los presupuestos respectivos con los principios anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTICULO 5º.
+###### ARTICULO 5°.
 
-Corresponde a la Secretaría de Finanzas, las actividades de las etapas de programación, presupuestación, ejercicio, seguimiento, control y evaluación del gasto, así como la difusión de la información financiera y presupuestaria del gasto público estatal, para lo cual tendrá entre otras atribuciones las siguientes:
+Corresponde a la Secretaría, las actividades de las etapas del ciclo presupuestario: planeación, programación, presupuestación, ejercicio y control, seguimiento, evaluación y rendición de cuentas, para lo cual tendrá entre otras atribuciones las siguientes:
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2002)</small>
 
@@ -277,27 +315,27 @@ III.- Controlar el ejercicio presupuestal;
 
 IV.- Efectuar los pagos que correspondan;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-V.- Llevar la contabilidad del Poder Ejecutivo y formular sus estados financieros, así mismo fijar los lineamientos para la elaboración de la información necesaria relativa a la integración de la Cuenta Pública del Gobierno del Estado de Tamaulipas;
+V.- Llevar la contabilidad del Poder Ejecutivo y formular sus estados financieros, así mismo fijar los lineamientos para la elaboración de la información necesaria relativa a la integración de la Cuenta Pública consolidada por tomos del Gobierno del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Recibir la información contable, financiera, patrimonial, presupuestal y programática del Poder Legislativo, del Poder Judicial y de los órganos estatales con autonomía de los poderes para la integración y consolidación en la Cuenta Pública del Gobierno del Estado de Tamaulipas y su presentación de la misma ante el Congreso del Estado, en los términos de las leyes de la materia;
+VI.- Recibir la información contable, financiera, patrimonial, presupuestal, programática y sus Anexos, del Poder Legislativo, del Poder Judicial, de los órganos estatales con autonomía de los poderes, y de las entidades del sector paraestatal, para la integración y consolidación en la Cuenta Pública del Gobierno del Estado de Tamaulipas y su presentación de la misma ante el Congreso del Estado, en los términos de las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 VII.- Dictar las disposiciones procedentes para el eficaz cumplimiento de sus funciones; y
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VIII.- Apoyar el funcionamiento del Sistema de Evaluación del Desempeño Gubernamental, mediante la aplicación de indicadores estratégicos y de gestión que permitan evaluar el ejercicio del gasto público a través de los resultados obtenidos en los programas de mayor impacto social en la población.
+VIII.- Apoyar el funcionamiento del Sistema de Evaluación del Desempeño del gasto público, para lo cual emitirá los criterios para la elaboración y aplicación de indicadores estratégicos y de gestión que permitan evaluar el ejercicio del gasto público a través de los resultados obtenidos en los programas de mayor impacto social en la población.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTICULO 6º.
+###### ARTICULO 6°.
 
-En cada una de las dependencias y entidades de la administración pública, los titulares serán los responsables del avance de los programas y del ejercicio del gasto, y de realizar la evaluación de los Programas Presupuestarios a su cargo, ya sea por cuenta propia o a través de terceros. Así como en su caso, analizar la información relativa al desarrollo y grado de avance en la operación de los programas, siendo los encargados de las áreas corresponsables de estas obligaciones, debiendo informar al titular de la dependencia sobre los resultados obtenidos de la evaluación.
+En cada una de las dependencias y entidades de la administración pública, los titulares serán los responsables del avance de los programas y del ejercicio del gasto, y de realizar la evaluación de los Programas Presupuestarios a su cargo que se instruya en el Programa Anual de Evaluación, ya sea por cuenta propia o a través de terceros. Así como en su caso, analizar la información relativa al desarrollo y grado de avance en la operación de los programas, siendo los encargados de las áreas corresponsables de estas obligaciones, debiendo informar al titular de la dependencia sobre los resultados obtenidos de la evaluación.
 
 ###### ARTICULO 7º.
 
@@ -349,15 +387,17 @@ La Secretaría de Finanzas difundirá a los Poderes Judicial, Legislativo, a las
 
 El titular del Ejecutivo conducirá la planeación del desarrollo de la entidad, debiendo comunicar al Congreso del Estado del cumplimiento del Plan Estatal de Desarrollo y los programas o ejercicio del gasto que de él se deriven, al momento de rendir el informe sobre el estado y perspectivas de la administración pública.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 11.
 
-El Comité de Planeación para el Desarrollo del Estado de Tamaulipas (COPLADET) y las entidades públicas, verificarán periódicamente la relación que guarden los programas y presupuestos de las entidades públicas, así como los resultados de su ejecución, con los objetivos y prioridades del Plan Estatal de Desarrollo y sus programas, a fin de adoptar las medidas preventivas y correctivas que sean necesarias.
+La Secretaría contribuirá a verificar periódicamente la relación que guarden los Programas Presupuestarios y presupuestos operados por la Administración Pública Estatal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan Estatal de Desarrollo y sus programas, a fin de adoptar las medidas preventivas y correctivas que sean necesarias.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 12.
 
-La Contraloría Gubernamental ejercerá el control, vigilancia e inspección del ejercicio del gasto, en congruencia con el Presupuesto de Egresos y la legislación aplicable. Asimismo, tendrá las atribuciones en materia de evaluación de desempeño en los términos de esta Ley.
+La Contraloría Gubernamental ejercerá el control, vigilancia e inspección del ejercicio del gasto, en congruencia con el Presupuesto de Egresos y la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -389,29 +429,85 @@ El Presupuesto de Egresos del Estado contendrá las actividades, obras, servicio
 
 La aprobación de las asignaciones presupuestales relativas a dichos proyectos vincula a su inclusión en las asignaciones de gasto público necesarias para su culminación en los subsiguientes presupuestos de egresos.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 17.
 
-El Presupuesto de Egresos del Estado deberá considerar la estrategia señalada en el Plan Estatal de Desarrollo y deberá incluir los Programas Presupuestarios sujetos a evaluación, los cuales deberán contener, en su caso:
+El Presupuesto de Egresos deberá considerar la estrategia señalada en el Plan Estatal de Desarrollo, lo cual se realizará a través de la alineación de los Programas Presupuestarios conforme a los criterios y lineamientos que emita la Secretaría, siendo sujetos de estudio los que se indiquen en el Programa Anual de Evaluación que para tales efectos se emita, debiendo considerar en su caso y como referencia de análisis, lo siguiente:
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 I.- Los resultados de la evaluación del desempeño que se hayan obtenido con la aplicación del Gasto Público de ejercicios anteriores;
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
 II.- Los objetivos, sus indicadores de desempeño y metas que se pretendan alcanzar, conforme a la Metodología del Marco Lógico;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 III.- Los bienes y servicios a producir o en su caso los servicios administrativos de apoyo;
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
 IV.- Los beneficiarios de los bienes y servicios que se pretendan generar, identificando el género, las regiones y los grupos vulnerables;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 V.- La temporalidad de los programas, así como la designación de los responsables de su ejecución;
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
 VI.- Las previsiones del gasto de acuerdo con lo establecido en la clasificación por objeto del gasto y demás clasificaciones que señale la Secretaría de Finanzas, apegándose a lo que establece la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 VII.- La calendarización del gasto público de conformidad con las clasificaciones que señale la Secretaría de Finanzas, y observando lo establecido en la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables; y
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
 VIII.- Las demás previsiones que se estimen necesarias.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 Los Programas Presupuestarios de las dependencias y las entidades de la administración pública deberán ser analizados y validados por la Secretaría de Finanzas, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan y de los programas que de él se deriven, en los términos de las leyes relativas.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 17 Bis.
+
+La Secretaría, autorizará la ministración de los subsidios y transferencias que con cargo a los presupuestos de las dependencias y, en su caso, de las entidades, se aprueben en el Presupuesto de Egresos.
+
+Las personas titulares de las dependencias y entidades, con cargo a cuyos presupuestos se autorice la ministración de subsidios y transferencias, serán responsables, en el ámbito de su competencia, de que éstos se otorguen y ejerzan conforme a las disposiciones generales aplicables.
+
+Los subsidios deberán sujetarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad y temporalidad, para lo cual las dependencias y entidades que los otorguen deberán:
+
+I.- Identificar con precisión a la población objetivo, tanto por grupo específico como por regiones y municipios de la entidad;
+
+II.- Prever, en su caso, montos máximos por persona beneficiaria y por porcentaje del costo total del programa. En los programas de beneficio directo a individuos o grupos sociales, los montos y porcentajes se establecerán con base en criterios redistributivos que deberán privilegiar a la población de menores ingresos y procuren la equidad entre regiones y municipios de la entidad, sin demérito de la eficiencia en el logro de los objetivos;
+
+III.- Procurar que el mecanismo de distribución, operación y administración otorgue acceso equitativo a todos los grupos sociales y géneros;
+
+IV.- Garantizar que los recursos se canalicen exclusivamente a la población objetivo y asegurar que el mecanismo de distribución, operación y administración facilite la obtención de información y la evaluación de los resultados respecto a los beneficios económicos y sociales de su asignación y aplicación; así como evitar que se destinen recursos a una administración costosa y excesiva;
+
+V.- Incorporar mecanismos periódicos de seguimiento, supervisión y evaluación que permitan ajustar las modalidades de su operación o decidir sobre su cancelación;
+
+VI.- Buscar, en su caso, fuentes alternativas de ingresos para lograr una mayor autosuficiencia y una disminución o cancelación de los apoyos con cargo a recursos presupuestarios;
+
+VII.- Asegurar la coordinación de acciones entre dependencias y entidades, para evitar duplicación en el ejercicio de los recursos y reducir gastos administrativos;
+
+VIII.- Prever la temporalidad en su otorgamiento;
+
+IX.- Procurar que sea el medio más eficaz y eficiente para alcanzar los objetivos y metas que se pretenden; y
+
+X.- Reportar su ejercicio en los informes trimestrales, detallando los elementos a que se refieren las fracciones I a IX de este artículo, incluyendo el importe de los recursos.
+
+Las transferencias destinadas a cubrir el déficit de operación y los gastos de administración asociados con el otorgamiento de subsidios de las entidades y sus órganos administrativos desconcentrados serán otorgadas de forma excepcional y temporal, siempre que se justifique ante la Secretaría su beneficio económico y social. Estas transferencias se sujetarán a lo establecido en las fracciones V, VI, VIII, IX y X de este artículo.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 17 Ter.
+
+Con el objeto de cumplir lo previsto en el artículo 4 Bis y 17 Bis de esta Ley, se señalarán en el Presupuesto de Egresos los programas que estarán sujetos a la emisión de Reglas de Operación, con el objeto de asegurar que la aplicación de los recursos públicos se realice con eficiencia, eficacia, economía, honradez y transparencia, para lo cual deberán elaborar sus Reglas de Operación de acuerdo al contenido mínimo que señalan los Lineamientos Generales emitidos por la Secretaría para tales efectos. Las dependencias, las entidades a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas serán responsables de emitir y publicar en el Periódico Oficial del Estado, las Reglas de Operación de los Programas Presupuestarios que inicien su operación en el ejercicio fiscal siguiente o, en su caso, las modificaciones a aquéllas que continúen vigentes, previa manifestación de impacto presupuestario por parte de la Secretaría y dictamen de impacto regulatorio de la Comisión Estatal de Mejora Regulatoria. Las Reglas de Operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -433,7 +529,9 @@ III.- Clasificación funcional del gasto;
 
 IV.- Clasificación económica del gasto;
 
-V.- Clasificación funcional programática; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Clasificación programática; y
 
 VI.- Otras clasificaciones que se establezcan conforme a la legislación aplicable.
 
@@ -521,11 +619,11 @@ VII.- En general, toda la información que se considere útil para proporcionar 
 
 En todo caso el proyecto de Presupuesto de Egresos, deberá cumplir con los requisitos y previsiones que establecen la fracción II del artículo 61 de la Ley General de Contabilidad Gubernamental, así como los artículos 9, 10, 11, 12, 13 y disposiciones transitorias de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 27.
 
-Las entidades mencionadas en las fracciones I, II, IV, V y VI del artículo 3° de esta ley, así como cada una de las dependencias que constituyen el Poder Ejecutivo contarán con un área responsable de elaborar su anteproyecto de presupuesto de egresos con base en los programas respectivos, las cuales darán seguimiento al avance de los mismos. Dichas áreas, además de cumplir con las funciones anteriores, también serán las encargadas de dar seguimiento a los resultados de las evaluaciones y atender las observaciones respecto a su cumplimiento.
+Los ejecutores de gasto mencionados en las fracciones I, II, IV, V y VI del artículo 3° de esta ley, así como cada una de las dependencias que constituyen el Poder Ejecutivo contarán con un área responsable de elaborar su anteproyecto de presupuesto de egresos con base en los programas respectivos, las cuales darán seguimiento al avance de los mismos. Dichas áreas, además de cumplir con las funciones anteriores, también serán las encargadas de dar seguimiento a los resultados de las evaluaciones y atender las observaciones respecto a su cumplimiento.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -533,11 +631,11 @@ Las entidades mencionadas en las fracciones I, II, IV, V y VI del artículo 3° 
 
 A más tardar el día último del mes de julio de cada año, el titular del Ejecutivo del Estado, a través de la Secretaría de Finanzas, determinará los criterios, y políticas de gasto, así como emitirá los lineamientos en los que deberán basarse las entidades a que se refiere el artículo 3° de esta ley, para la formulación de su anteproyecto de presupuesto, tomando en consideración en su caso, las disposiciones que para tales efectos establece la Ley General de Contabilidad Gubernamental y las disposiciones que de ella emanan.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 29.
 
-Todas las entidades comprendidas en las fracciones de la III a la VI del artículo 3° de esta ley, así como las dependencias del Ejecutivo, remitirán sus anteproyectos de presupuesto de egresos a la Secretaría de Finanzas durante la segunda quincena del mes de septiembre de cada año, con sujeción a los montos que el Ejecutivo del Estado establezca por medio de la propia Secretaría de Finanzas y cumpliendo con la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+Todos los ejecutores de gasto comprendidos en las fracciones de la III a la V del artículo 3o de esta Ley, así como las dependencias del Ejecutivo, remitirán sus anteproyectos de presupuesto de egresos a la Secretaría de Finanzas durante la segunda quincena del mes de septiembre de cada año, con sujeción a los montos que el Ejecutivo del Estado establezca por medio de la propia Secretaría de Finanzas y cumpliendo con la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -545,11 +643,15 @@ Todas las entidades comprendidas en las fracciones de la III a la VI del artícu
 
 Los órganos competentes de los Poderes Legislativo, Judicial y Organismos Autónomos, atendiendo a las previsiones del ingreso y del gasto público estatal que realice la Secretaría de Finanzas y a lo dispuesto por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, formularán sus respectivos proyectos de presupuesto, conforme a sus Programas Presupuestarios, y demás elementos de programación, y los enviarán durante la segunda quincena del mes de octubre de cada año al Gobernador del Estado, para que éste ordene su incorporación al proyecto de Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Los Indicadores de Desempeño de los Programas Presupuestarios para ejercicios fiscales subsecuentes y que forman parte de la información programática, deberán cargarse en el Sistema de Monitoreo de Indicadores para Resultados de la Secretaría durante el mes de noviembre de cada año.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 31.
 
-El titular del Ejecutivo del Estado, respecto de sus dependencias y entidades, seleccionará los programas que deban incluirse en el proyecto de Presupuesto de Egresos del Estado basándose en su prioridad o jerarquía, su factibilidad y su beneficio económico y social, de acuerdo al Plan Estatal de Desarrollo y procurando en todo caso promover el desarrollo regional. Tomando en cuenta los resultados que arroje la evaluación del desempeño de los presupuestos de ejercicios fiscales anteriores.
+El titular del Ejecutivo del Estado, respecto de sus dependencias y entidades, seleccionará los programas que deban incluirse en el proyecto de Presupuesto de Egresos del Estado basándose en su prioridad o jerarquía, su factibilidad y su beneficio económico y social, de acuerdo al Plan Estatal de Desarrollo y procurando en todo caso promover el desarrollo regional. Lo anterior, tomando en cuenta los resultados que arroje la evaluación del desempeño de los Programas Presupuestarios en ejercicios fiscales anteriores.
 
 ###### ARTICULO 32.
 
@@ -633,11 +735,11 @@ En todo caso el proyecto de Ley de Ingresos, deberá cumplir con los requisitos 
 
 ### CAPITULO IV. DE LA DEUDA PUBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 38.
 
-Las entidades públicas, en los términos de la Ley de Deuda Pública Estatal y Municipal, podrán:
+Las entidades públicas, en los términos de la Ley de Deuda Pública Estatal y Municipal, y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán:
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -699,35 +801,63 @@ Para el ejercicio del gasto público del Estado, las entidades deberán de sujet
 
 El ejercicio del gasto público comprende el manejo y aplicación de los recursos financieros, así como su justificación, comprobación y pago, con base en el presupuesto de egresos correspondientes.
 
+(NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 47.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá ampliar automáticamente las partidas aprobadas para el ejercicio fiscal realizando las erogaciones adicionales a las autorizadas hasta por el total de los ingresos ordinarios y extraordinarios que correspondan a ese ejercicio.
+La Secretaría, podrá ampliar automáticamente las partidas aprobadas para el ejercicio fiscal en curso realizando las erogaciones adicionales a las autorizadas hasta por el total de los ingresos ordinarios y extraordinarios que correspondan a ese ejercicio.
+
+(NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 48.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá efectuar reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados, así como las que se deriven de la aplicación de medidas de austeridad, racionalidad y atención a renglones prioritarios.
+La Secretaría, podrá efectuar reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados, así como las que se deriven de la aplicación de medidas de austeridad, racionalidad y atención a renglones prioritarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 49.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan con exceso de lo previsto en la Ley de Ingresos del Estado, a los programas que considere prioritarios y autorizará las transferencias de partidas cuando estas sean procedentes, dándoles la participación que corresponda a las entidades interesadas.
+La Secretaría, podrá asignar los recursos que se obtengan con exceso de lo previsto en la Ley de Ingresos del Estado, a los programas que considere prioritarios y autorizará las transferencias de partidas cuando estas sean procedentes.
 
-Las entidades, en su caso, deberán informar a la Secretaría de Finanzas, la forma en que las modificaciones financieras que afecten un programa o las metas establecidas para el mismo.
+Las entidades, en su caso, deberán informar a la Secretaría, la forma en que las modificaciones financieras que afecten un programa o las metas establecidas para el mismo.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 50.
 
-De los movimientos que se efectúen en los términos de los artículos 47, 48 y 49 de esta ley, el Ejecutivo informará al Congreso del Estado al rendir la Cuenta Pública del Gobierno del Estado de Tamaulipas.
+De los movimientos que se efectúen en los términos de los artículos 47, 48 y 49 de esta Ley, el Ejecutivo informará al Congreso del Estado al rendir la Cuenta Pública del Gobierno del Estado de Tamaulipas, ello en los apartados correspondientes a la información presupuestal e información programática.
 
 ###### ARTICULO 51.
 
 Las asignaciones establecidas en el presupuesto de egresos, determinadas conforme a los artículos 47, 48 y 49 de la presente Ley, señalan el límite máximo de las erogaciones; el cual no podrán excederse, pero tampoco será necesario agotarlo si ello no fuese necesario, pues cuando sea posible se buscarán economías para el erario estatal, cancelándose al cierre del ejercicio del presupuesto los saldos no utilizados ni comprometidos.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-La Secretaría de Finanzas, previo acuerdo del titular del Ejecutivo, realizará las transferencias de gasto que correspondan en virtud de la economía del erario estatal, dentro de los importes aprobados. Los recursos asignados en materia de seguridad pública o procuración de justicia no podrán, bajo ninguna circunstancia, ser transferidos o utilizados con propósitos diversos a los de su objeto. En caso de trasferencias de recursos para la seguridad pública o la procuración de justicia, no podrá aplicarse a ninguna materia distinta a la que motivó esa reasignación.
+La Secretaría realizará las transferencias de gasto que correspondan en virtud de la economía del erario estatal, dentro de los importes aprobados. Los recursos asignados en materia de seguridad pública o procuración de justicia no podrán, bajo ninguna circunstancia, ser transferidos o utilizados con propósitos diversos a los de su objeto. En caso de trasferencias de recursos para la seguridad pública o la procuración de justicia, no podrá aplicarse a ninguna materia distinta a la que motivó esa reasignación.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 51 Bis.
+
+Las dependencias y entidades podrán solicitar transferencias o modificaciones presupuestales hacia el interior de sus presupuestos autorizados apegadas a los procedimientos, requisitos y términos que determine la Secretaría, debiendo en su caso considerar el impacto en las metas de los indicadores de los Programas Presupuestarios sujetos a estos movimientos, conforme a los lineamientos en la materia.
+
+La Secretaría definirá mediante disposiciones de carácter general los procedimientos, requisitos y términos conforme a los cuales se llevarán a cabo las transferencias o modificaciones de recursos en los presupuestos autorizados a las dependencias y entidades.
+
+(NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 51 Ter.
+
+La Secretaría podrá realizar transferencias o modificaciones presupuestales entre diferentes dependencias y entidades como medida de planeación, programación y/o presupuestación hasta por las asignaciones establecidas en el Presupuesto de Egresos.
 
 ###### ARTICULO 52.
 
@@ -747,9 +877,15 @@ Se entenderá por justificantes, las disposiciones y los documentos legales que 
 
 Se entenderán por comprobantes, los documentos debidamente requisitados que demuestren la entrega de la suma de dinero correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 56.
 
-Los egresos y gastos derivados del ejercicio de la función o la representación, así como los comprobantes de los mismos, deberán sujetarse a los criterios y políticas de uso y destino que la Secretaría de Finanzas y la Contraloría Gubernamental determine en el manual correspondiente.
+Los egresos y gastos derivados del ejercicio de la función o la representación, así como los comprobantes de los mismos, deberán sujetarse a los criterios y políticas de uso y destino que la Secretaría y la Contraloría Gubernamental determinen en el manual correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+La documentación original comprobatoria que ampara el gasto que ejercen los ejecutores de gasto citados en el artículo 3° de esta Ley, quedará bajo el resguardo de dichas instancias, las cuales serán responsables del resguardo y cuidado de dicha documentación comprobatoria, ello en su carácter de ejecutores de gasto y conforme al procedimiento que al efecto determinen la Secretaría en coordinación con la Contraloría Gubernamental.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -771,11 +907,37 @@ Los calendarios de presupuesto de egresos con base mensual, deberán publicarse 
 
 Solamente podrán hacerse pagos con cargos al presupuesto de egresos del año anterior por los conceptos efectivamente devengados en ese ejercicio, siempre que la Secretaría de Finanzas tenga conocimiento oportuno y lo autorice.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 60.
 
-En casos excepcionales y debidamente justificados, la Secretaría de Finanzas podrá autorizar que se celebren contratos de obra pública, de adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año del ejercicio respectivo, pero en esos casos, los compromisos excedentes no cubiertos quedarán sujetos para los fines de su ejecución o de pago, a la disponibilidad presupuestal de los años subsecuentes.
+Los ejecutores de gasto podrán solicitar la autorización presupuestaria de la Secretaría, para la celebración de contratos plurianuales de obras públicas, adquisiciones, y arrendamientos o servicios durante el ejercicio fiscal siempre que:
 
-Esto deberá hacerse mención especial al presentar el proyecto de Presupuesto de Egresos al Congreso del Estado.
+I.- Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables;
+
+II.- Justifiquen el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate;
+
+III.- Realicen la especificación de las obras, adquisiciones, arrendamientos o servicios, señalando si corresponden a inversión o gasto corriente; y
+
+IV.- Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
+
+En el caso de proyectos para prestación de servicios, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Contraloría Gubernamental.
+
+Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus respectivas unidades de administración, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales para su justificación y autorización.
+
+Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 60 Bis.
+
+Las dependencias y entidades podrán realizar todos los trámites necesarios para realizar contrataciones de adquisiciones, arrendamientos, servicios y obra pública, con el objeto de que los recursos se ejerzan oportunamente a partir del inicio del ejercicio fiscal correspondiente.
+
+Las dependencias y entidades, podrán solicitar a la Secretaría autorización especial para convocar, adjudicar y, en su caso, formalizar tales contratos, cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se solicite, con base en los anteproyectos de presupuesto, así como en el procedimiento que para tales efectos establezca.
+
+Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes.
+
+Las dependencias y entidades podrán obtener la autorización a que se refiere este artículo en relación con los contratos plurianuales a que se refiere el artículo 60 de esta Ley, conforme a los Lineamientos que establezca la Secretaría.
 
 ###### ARTICULO 61.
 
@@ -801,11 +963,11 @@ Los Poderes Legislativo y Judicial, así como los Organismos Autónomos tendrán
 
 Las dependencias y entidades deberán remitir de manera trimestral a la Secretaría de Finanzas, la información relativa al ejercicio de los recursos federales que reciba el Estado, conforme a las disposiciones aplicables y dentro de los quince días naturales al período que corresponda. La misma obligación tendrán los municipios respecto de los recursos públicos estatales o federales que le sean transferidos.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 64.
 
-La Contraloría Gubernamental estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV, V y VI del artículo 3° de esta ley, con objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos. Así mismo, tendrá las atribuciones en materia de evaluación del desempeño en los términos que esta Ley prevé.
+La Contraloría Gubernamental estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV, V y VI del artículo 3° de esta Ley, con objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -881,8 +1043,6 @@ Los fines de la contabilidad gubernamental serán:
 
 I.- Registrar las operaciones en contabilidad y la emisión de la información financiera de acuerdo a los principios, normas contables generales y específicas e instrumentos que establezca la Ley General de Contabilidad Gubernamental y el Consejo Nacional de Armonización Contable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 II.- Proporcionar información sobre la aplicación de los fondos públicos, de una manera oportuna, confiable y comparable, a la transparencia y a la rendición de cuentas;
@@ -891,7 +1051,9 @@ III.- Detectar desviaciones si las hubiere, a efecto de corregirlas o delimitar 
 
 IV.- Servir de información para la evaluación de los programas y para la planeación y programación futura; y
 
-V.-Informar al Congreso del Estado el destino y manejo del gasto público, a través de la cuenta pública.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Informar al Congreso del Estado el destino y manejo del gasto público, a través de la Cuenta Pública consolidada por tomos del Gobierno del Estado de Tamaulipas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
 
@@ -949,13 +1111,13 @@ La Secretaría de Finanzas establecerá los mecanismos adecuados para evaluar el
 
 Los Poderes Legislativo y Judicial, así como los Organismos Autónomos, diseñarán, administrarán y operarán su respectivo Sistema de Evaluación del Desempeño, observando los principios rectores que refiere el artículo 4º Bis de esta Ley . Para los efectos del Sistema de Evaluación del Desempeño, deberán tomar las previsiones presupuestales para contar con los recursos necesarios para dar cumplimiento a las disposiciones de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 74.
 
-La Secretaría de Finanzas llevará a cabo el seguimiento del ejercicio del gasto público y de las metas que se vayan alcanzando periódicamente en los programas aprobados por el Comité de Planeación para el Desarrollo del Estado de Tamaulipas, así como de la eficiencia en el cumplimiento de los objetivos y metas establecidos en dichos programas, analizará también el impacto del gasto público estatal.
+La Secretaría llevará a cabo el seguimiento del ejercicio del gasto público y de las metas que se vayan alcanzando periódicamente en los Programas Presupuestarios incluidos en el Decreto del Presupuesto de Egresos, así como de la eficiencia en el cumplimiento de los objetivos y metas establecidos en dichos programas, analizará también el impacto del gasto público estatal.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
-
-Lo anterior, sin interferir en las facultades que las leyes otorgan a la Contraloría Gubernamental, en materia de diseño y aplicación de indicadores dentro del sistema de evaluación del desempeño del Gobierno del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -963,11 +1125,11 @@ Lo anterior, sin interferir en las facultades que las leyes otorgan a la Contral
 
 La Secretaría de Administración evaluará el ejercicio del gasto, en lo relativo a servicios personales y en general al gasto corriente, a fin de verificar la congruencia de estos gastos con los objetivos y prioridades del Plan Estatal de Desarrollo y sus programas, y en su caso adoptar las medidas preventivas y correctivas que sean necesarias.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 76.
 
-Internamente las entidades y las dependencias del Ejecutivo deberán dar seguimiento a sus programas presupuestarios en forma permanente, con el propósito de controlar los avances y desviaciones, a fin de instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación del gasto.
+Internamente las entidades y las dependencias del Ejecutivo deberán dar seguimiento a sus programas presupuestarios en forma permanente, a través de sus Indicadores de Desempeño, con el propósito de controlar los avances y desviaciones respecto a las metas establecidas, a fin de instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación del gasto.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -975,7 +1137,9 @@ Internamente las entidades y las dependencias del Ejecutivo deberán dar seguimi
 
 Son obligaciones de las dependencias y entidades del Ejecutivo del Estado en materia de evaluación del desempeño:
 
-I.- Elaborar y proponer los indicadores de desempeño con enfoque a resultados, de los programas a su cargo conforme a los lineamientos que emita la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Elaborar y proponer los Indicadores de desempeño del gasto con enfoque a resultados, de los programas presupuestarios a su cargo, conforme a los criterios y lineamientos que para tales efectos emita la Secretaría;
 
 II.- Evaluar por sí mismos o a través de evaluadores externos el resultado de los programas presupuestarios a su cargo;
 
@@ -983,15 +1147,23 @@ III.- Dar seguimiento a los Indicadores de Desempeño mediante el cálculo de su
 
 IV.- Dar seguimiento y monitoreo de los Indicadores de Desempeño de los programas presupuestarios a su cargo;
 
-V.- Atender las revisiones de las Evaluaciones del Desempeño que ordene la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Informar trimestralmente a la Contraloría Gubernamental, los resultados de las evaluaciones a los indicadores de desempeño de los programas a su cargo, dentro de los 10 días siguientes a la conclusión del periodo correspondiente;
+V.- Atender las revisiones de las diferentes Evaluaciones que en el marco del Sistema de Evaluación del Desempeño del gasto público, se instruyan a través de los Programas Anuales de Evaluación que correspondan;
 
-VII.- Elaborar e implementar proyectos de mejora para incorporarlos en el diseño, adecuación y operación de los programas presupuestarios a su cargo, atendiendo los resultados de las evaluaciones y sus revisiones e informar los avances con oportunidad; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Informar trimestralmente a la Secretaría, a través del Sistema de Monitoreo de Indicadores para Resultados, los avances observados mediante el monitoreo de los Indicadores de Desempeño del gasto de los Programas Presupuestarios a su cargo, dentro de los primeros días siguientes a la conclusión del periodo correspondiente, conforme a los plazos que establezca la Secretaría. Lo anterior formará parte de la información programática que se reportará en el marco de la Cuenta Pública;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- Atender los aspectos susceptibles de mejora derivados de los estudios instruidos en el Programa Anual de Evaluación, para incorporarlos en el diseño, adecuación y operación de los Programas Presupuestarios a su cargo, derivados de las recomendaciones realizadas a través de las evaluaciones respectivas e informar los avances con oportunidad; y
 
 VIII.- Acordar con la Secretaría de Finanzas las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
 
-Las dependencias y entidades del Ejecutivo, deberán tomar las previsiones presupuestales para contar con los recursos necesarios para dar cumplimiento a las disposiciones de esta Ley, en materia del Sistema de Evaluación del Desempeño.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Las dependencias y entidades del Ejecutivo, deberán tomar las previsiones presupuestales a fin de contar con los recursos necesarios para cubrir las erogaciones derivadas de la realización de las evaluaciones externas de los Programas Presupuestarios o políticas públicas que sean de su competencia, así como para dar cumplimiento a las disposiciones de esta Ley, en materia del Sistema de Evaluación del Desempeño del gasto público. Lo anterior, salvo en los casos que determine la Secretaría.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1005,37 +1177,75 @@ En los casos en que las dependencias y entidades del Ejecutivo del Estado, no pr
 
 La Secretaría de Finanzas está facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 77 de esta ley o cuando por conducto de la Contraloría Gubernamental se detecten desviaciones en las metas o en el destino del gasto, salvo en el supuesto de los recursos destinados al servicio de la deuda contratada en términos de la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 80.
 
-La Contraloría Gubernamental tendrá a su cargo el Sistema de Evaluación del Desempeño Gubernamental, en función de los objetivos y metas de los programas presupuestarios, y demás elementos de programación.
+La Secretaría tendrá a su cargo el Sistema de Evaluación del Desempeño del gasto público, en función de los objetivos y metas de los Programas Presupuestarios, y demás elementos del ciclo presupuestario.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+El Sistema de Evaluación del Desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores de gasto. Dicho sistema incorporará los indicadores de los Programas Presupuestarios para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción de la ciudadanía, buscando retroalimentar el proceso presupuestario para apoyar una toma de decisiones más fundamentada y orientar futuras asignaciones presupuestarias, así como el cumplimiento de los criterios establecidos en la fracción III del artículo 4 Bis de esta Ley.
+
+La Secretaría emitirá los criterios para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades.
+
+Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+
+Durante la elaboración del proyecto de Presupuesto de Egresos al que se refiere el artículo 17 de esta Ley, las dependencias y entidades deberán considerar la información de los indicadores del Sistema de Evaluación de Desempeño del gasto público, mismos que formarán parte de la información programática del Presupuesto de Egresos e incorporarán sus resultados en los informes trimestrales relacionados con la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
+
+La evaluación del desempeño del gasto público se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos en la entidad. Para tal efecto, la Secretaría coordinará lo siguiente:
+
+I.- Efectuar las evaluaciones de los Programas Presupuestarios por sí misma o a través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad, transparencia y los demás que se establezcan en las disposiciones aplicables;
+
+II.- Todas las evaluaciones se harán públicas y al menos deberán contener la siguiente información:
+
+a) Los datos generales del evaluador externo, destacando al coordinador de la evaluación y a su principal equipo colaborador;
+
+b) Los datos generales de la unidad administrativa responsable de dar seguimiento a la evaluación al interior de la dependencia o entidad;
+
+c) La forma de contratación del evaluador externo, de acuerdo con las disposiciones aplicables;
+
+d) El tipo de evaluación contratada, así como sus principales objetivos;
+
+e) En su caso, la base de datos generada con la información de gabinete y/o de campo para el análisis de la evaluación;
+
+f) Los instrumentos de recolección de información: cuestionarios, entrevistas y formatos, entre otros;
+
+g) Una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada;
+
+h) Un resumen ejecutivo en el que se describan los principales hallazgos y recomendaciones del evaluador externo;
+
+i) El costo total de la evaluación externa, especificando la fuente de financiamiento;
+
+III.- Las evaluaciones podrán efectuarse respecto de las políticas públicas, los Programas Presupuestarios correspondientes y el desempeño de las instituciones encargadas de llevarlos a cabo. Para tal efecto, se establecerán los métodos de evaluación que sean necesarios, los cuales podrán utilizarse de acuerdo a las características de las evaluaciones respectivas;
+
+IV.- Se establecerán programas anuales de evaluación;
+
+V.- Las evaluaciones deberán incluir información desagregada por sexo relacionada con las personas beneficiarias de los programas. Asimismo, las dependencias y entidades deberán presentar resultados con base en indicadores, previendo su desagregación por sexo y en su caso, por rangos de edades, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres a través de la incorporación de la perspectiva de género;
+
+VI.- Verificar que a partir de las recomendaciones plasmadas en los informes finales de evaluación, se establezcan los aspectos susceptibles de mejora para su atención;
+
+VII.- Dar seguimiento a los avances de los indicadores estratégicos y de gestión; y
+
+VIII.- Impartir a petición de parte, capacitación en materia de Presupuesto basado en Resultados, Metodología de Marco Lógico, diseño y construcción de indicadores, monitoreo y evaluación de Programas Presupuestarios.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 81.
 
-Son atribuciones de la Contraloría Gubernamental en materia del Sistema de Evaluación del Desempeño Gubernamental:
+Son atribuciones de la Contraloría Gubernamental en materia del Sistema de Evaluación del Desempeño del gasto público:
 
-I.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño Gubernamental, con base en la emisión de los lineamientos metodológicos y técnicos para su operación;
+I.- Determinar y coordinar las evaluaciones externas que se indiquen en el Programa Anual de Evaluación, aplicables a los fondos y programas de gasto federalizado cuyos recursos se ejerzan como parte del Presupuesto de Egresos, las políticas públicas, en el marco del Sistema de Evaluación del Desempeño del gasto público;
 
-II.- Emitir los lineamientos para las dependencias y entidades del Ejecutivo del Estado, relativos a la participación de los evaluadores externos en el marco del Sistema de Evaluación del Desempeño Gubernamental;
+II.- Formular recomendaciones a las dependencias y entidades del Ejecutivo del Estado, con base en los resultados derivados del monitoreo de los indicadores de los Programas Presupuestarios a través Sistema de Evaluación del Desempeño del gasto público;
 
-III.- Formular un Plan Anual de Evaluación respecto de los indicadores estratégicos y de gestión que deberá contener, cuando menos, el tipo de evaluación a realizar y los responsables de llevarla a cabo, por cada programa presupuestario sujeto a evaluación;
+III.- Dar seguimiento al cumplimiento de los aspectos susceptibles de mejora, derivados de las recomendaciones que se desprendan de las evaluaciones aplicadas tanto a los fondos y programas de gasto federalizado, como a los Programas Presupuestarios conforme al Programa Anual de Evaluación;
 
-IV.- Evaluar los resultados de los indicadores estratégicos y de gestión de los programas presupuestarios de las dependencias y entidades del Ejecutivo del Estado, pudiendo hacerlo a través de los Servicios de Evaluadores Externos;
+IV.- Vigilar el cumplimiento a las acciones establecidas en el Programa Anual de Evaluación; y
 
-V.- Dar seguimiento al resultado de los indicadores estratégicos y de gestión;
+V.- Impartir a petición de parte, capacitación en materia de clasificación, seguimiento y atención a los aspectos susceptibles de mejora, derivados de las evaluaciones externas señaladas en el Programa Anual de Evaluación.
 
-VI.- Formular recomendaciones a las dependencias y entidades del Ejecutivo del Estado, con base en los resultados de las evaluaciones, con el propósito de mejorar el impacto del gasto público en la población y la gestión gubernamental;
+La Secretaría y la Contraloría Gubernamental acordarán la forma y términos en que ésta última tendrá acceso a la información contenida en el Sistema de Monitoreo de Indicadores para Resultados, a efecto de facilitar el uso de esa información para el ejercicio de sus atribuciones y evitar duplicidad de requerimientos de información.
 
-VII.- Dar seguimiento al cumplimiento de las recomendaciones a que se refiere este artículo, así como a los proyectos de mejora que resulten de las evaluaciones realizadas;
-
-VIII.- Elaborar un informe anual que contenga los aspectos relevantes de los resultados de las evaluaciones realizadas para el año precedente, los proyectos de la mejora de la gestión y sus resultados; e
-
-IX.- Impartir a petición de parte, capacitación en materia de seguimiento y evaluación en el desempeño de la gestión pública.
-
-La información que se genere en el marco del Sistema de Evaluación del Desempeño Gubernamental se difundirá en los términos de la Ley General de Contabilidad Gubernamental, por parte de la Secretaría de Finanzas y la Contraloría Gubernamental, ello en el ámbito de sus respectivas competencias.
+La información que se genere en el marco del Sistema de Evaluación del Desempeño del gasto público se difundirá en los términos de la Ley General de Contabilidad Gubernamental, por parte de la Secretaría y la Contraloría Gubernamental, ello en el ámbito de sus respectivas competencias.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1043,17 +1253,17 @@ La información que se genere en el marco del Sistema de Evaluación del Desempe
 
 Las atribuciones que esta ley confiere a la Contraloría Gubernamental son sin perjuicio de las que la legislación correspondiente confiere a la Auditoría Superior del Estado.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 83.
 
-El Gobernador del Estado, a través de la Contraloría Gubernamental y a petición expresa de los Poderes Legislativo y Judicial, así como los Organismos Autónomos y los municipios, proporcionará la asesoría y apoyo técnico que requieran en materia de Evaluación del Desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para implementar sus propios Sistemas de Evaluación del Desempeño, ello en el ámbito de su competencia.
+El Gobernador del Estado, a través de la Secretaría y a petición expresa de los Poderes Legislativo y Judicial, así como los Organismos Autónomos y los municipios, proporcionará la asesoría y apoyo técnico que requieran en materia de Evaluación del Desempeño del gasto público, así como orientación sobre datos estadísticos, estudios o informes que soliciten y que sean necesarios para implementar sus propios Sistemas de Evaluación del Desempeño, ello en el ámbito de su competencia.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 84.
 
-Las entidades a que se refiere el artículo 3º de esta Ley, deberán conservar la documentación que se genere con motivo de la evaluación del desempeño, por el periodo de tiempo que marca la legislación del Estado de Tamaulipas.
+Las instancias a que se refiere el artículo 3° de esta Ley, deberán conservar la documentación que se genere con motivo de la evaluación del desempeño, por el periodo de tiempo que marca la legislación del Estado de Tamaulipas.
 
 T R A N S I T O R I O S
 
@@ -1178,3 +1388,19 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIV-808 MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GASTO PÚBLICO; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY ESTATAL DE PLANEACIÓN, EN MATERIA DE GASTO PÚBLICO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Derivado del cambio en la atribución relativa a la coordinación del Sistema de Evaluación del Desempeño del gasto público, la Secretaría y la Contraloría Gubernamental establecerán durante el segundo semestre de 2021, los acuerdos necesarios a efecto de realizar los traspasos de los asuntos relacionados con el cambio de competencias, señalando que dicho proceso deberá quedar concluido a más tardar el 31 de diciembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+La disposición relativa al resguardo y cuidado de la documentación comprobatoria del gasto por parte de las dependencias ejecutoras del mismo, a que hace referencia el segundo párrafo del artículo 56 del presente Decreto, entrará en vigor a partir del 1° de enero de 2022, ello con la finalidad de que se determinen las medidas necesarias para su implementación por parte de la Secretaría, la Contraloría Gubernamental y las dependencias y entidades involucradas.
