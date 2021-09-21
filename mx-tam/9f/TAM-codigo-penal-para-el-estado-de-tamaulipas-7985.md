@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2021-09-09"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3931,7 +3931,9 @@ Los parientes o tutores que entreguen en una casa de expósitos a un niño que e
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO VII. SUSTRACCION Y RETENCION DE MENORES POR LOS PADRES
+### CAPITULO VII. SUSTRACCIÓN Y RETENCIÓN DE MENORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 295.
 
@@ -3977,27 +3979,27 @@ El delito de abandono de obligaciones alimenticias sólo se perseguirá a petici
 
 Para que el perdón concedido por el ofendido pueda extinguir la acción o la sanción impuesta aun por sentencia firme, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos, y otorgar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ### CAPITULO UNICO. VIOLACIONES DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 300.
 
-Cometen el delito a que se refiere este capítulo los padres que habiéndoseles restringido o privado el ejercicio de la patria potestad o el derecho de custodia de sus hijos, mediante resolución judicial provisional o definitiva, los substraigan sin causa justificada del lugar donde habiten transitoria o permanentemente.
+Cometen el delito de sustracción de menores los ascendientes, parientes por consanguinidad o afinidad hasta el segundo grado que sustraigan a los menores arbitrariamente del lugar donde habiten transitoria o permanentemente, aun cuando no exista resolución de autoridad competente respecto a la patria potestad, derecho de custodia o convivencia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente, aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-Sólo se procederá contra el responsable a petición de quien ejerza la patria potestad o el derecho de custodia.
+Sólo se procederá a petición de parte ofendida.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 300 Bis.
 
-Comete el delito de retención de menores cualquiera de los padres que teniendo la custodia compartida de los hijos determinados días, se resista o se niegue a devolver a los menores al hogar en que ordinariamente habitan.
+Comete el delito de retención de menores cualquiera de los ascendientes, parientes por consanguinidad o afinidad hasta el segundo grado que teniendo compartida la custodia o convivencia de los menores, sin causa justificada se resista o se niegue a devolverlos al hogar en que habiten transitoria o permanentemente.
 
-Sólo se procederá a petición de quien ejerza el derecho de custodia.
+Sólo se procederá a petición de parte ofendida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -7016,3 +7018,15 @@ P.O. 9 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIV-809 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS Y LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
