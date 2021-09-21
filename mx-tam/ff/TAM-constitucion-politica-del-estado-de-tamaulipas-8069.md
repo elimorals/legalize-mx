@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2021-06-24"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -491,7 +491,13 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 El Sistema Estatal de Seguridad Pública se organizará en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la ley general de la materia, las disposiciones del Sistema Nacional de Seguridad Pública, y las siguientes bases de coordinación:
 
-I. La seguridad pública es una función a cargo del Estado y de los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, dentro de sus respectivas competencias establecidas en esta Constitución y desarrolladas en la ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en el orden jurídico nacional.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+I. La seguridad pública es una función a cargo del Estado y de los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, dentro de sus respectivas competencias establecidas en esta Constitución y desarrolladas en la ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en el orden jurídico nacional. El Congreso establecerá en el Presupuesto de Egresos las partidas presupuestales correspondientes a las instituciones de seguridad pública del Estado, las cuales no podrán ser menores a las aprobadas en el ejercicio anual inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Asimismo, con motivo de las funciones de su cargo es de interés público preservar la vida e integridad física de las personas titulares del Ejecutivo Estatal, Secretaría General de Gobierno, Secretaría de Seguridad Pública y Fiscalía General de Justicia, para lo cual el Estado garantizará las medidas de seguridad y protección adecuadas y suficientes, durante el tiempo que dure su cargo, así como por un periodo igual al tiempo que ocupó el mismo y podrán ser prorrogables, en tanto las condiciones de riesgo lo ameriten.
 
 II. El Sistema Estatal de Seguridad Pública, a través de su Secretariado Ejecutivo, establecerá la regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública.
 
@@ -503,9 +509,17 @@ V. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será la 
 
 VI. El Sistema Estatal de Control de Confianza dependerá del Secretariado Ejecutivo, en los términos que establezca la ley. Dicho sistema deberá establecer los procesos para la evaluación y certificación de mandos de las instancias de seguridad pública a nivel estatal y municipal.
 
-VII. El Sistema Estatal de Seguridad Pública contará con un Consejo de Participación Ciudadana como instancia independiente y externa de rendición de cuentas y evaluación política de seguridad en el Estado.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-El cual se integrará por cinco consejeros electos por la mayoría de dos terceras partes del Congreso a propuesta del Gobernador. El Consejo emitirá recomendaciones e informes no vinculantes. La ley establecerá los requisitos para ser consejero, así como sus obligaciones y prerrogativas.
+VII. El Sistema Estatal de Seguridad Pública contará con un Consejo de Participación Ciudadana como un órgano de consulta independiente y externa de rendición de cuentas y evaluación política de seguridad en el Estado.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+El cual se integrará por siete consejeros electos por la mayoría de los miembros presentes del Congreso a propuesta del Gobernador. El Consejo emitirá recomendaciones e informes no vinculantes. La ley establecerá los requisitos para ser consejero, así como sus obligaciones y prerrogativas.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Los cargos de las personas integrantes del Consejo de Participación Ciudadana durarán cinco años improrrogables y serán renovados de manera escalonada; éstos serán de naturaleza honorifica, por lo que no recibirán retribución, emolumento o compensación alguna.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -5276,6 +5290,30 @@ P.O. 24 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a partir del 1° de octubre de 2021.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXIV-799 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO, FRACCIONES I Y VII, Y SEGUNDO, Y SE ADICIONA UN PÁRRAFO TERCERO, AL ARTÍCULO 19 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes del Consejo de Participación Ciudadana que se nombren, por única ocasión, durarán en su encargo respectivamente, el primero de los nombrados un año, el segundo dos años, el tercero tres años, el cuarto y quinto cuatro años y el sexto y el séptimo cinco años improrrogables, periodos que empezarán a contar a partir de sus respectivos nombramientos.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-800 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 19 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
 
 ###### ARTÍCULO NOVENO.
 
