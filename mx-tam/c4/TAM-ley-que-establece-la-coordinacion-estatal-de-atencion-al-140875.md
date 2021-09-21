@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-la-coordinacion-estatal-de-atencion-al-140875
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-06"
-last_updated: "2020-10-31"
+last_updated: "2021-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY QUE ESTABLECE LA COORDINACION ESTATAL DE ATENCION AL BIENESTAR EMOCIONAL DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL ARTÍCULO ÚNICO DEL DECRETO NO. LXIV-807, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 21 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE ESTABLECE LA COORDINACIÓN ESTATAL DE ATENCIÓN AL BIENESTAR EMOCIONAL DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de febrero de 2020.
 
@@ -588,3 +590,27 @@ P.O. 31 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-807 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que establece la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas, expedida por el Congreso del Estado mediante Decreto LXIV-14, publicado en el Periódico Oficial del Estado número 17 de fecha 6 de febrero del 2020.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas, deberá realizar las acciones jurídicas necesarias en la normatividad aplicable, a fin de armonizarla con lo establecido en el mismo.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a la Secretaría de Bienestar Social, Contraloría Gubernamental, Secretaría de Finanzas y Secretaría de Administración del Gobierno del Estado de Tamaulipas, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
