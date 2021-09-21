@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-19"
-last_updated: "2021-07-14"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de octubre de 2010.
 
@@ -145,11 +145,17 @@ VI. Secretaría de Turismo;
 
 VII. Fiscalía General de Justicia del Estado;
 
-VIII. Sistema Estatal para el Desarrollo Integral de la Familia; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+VIII. Sistema Estatal para el Desarrollo Integral de la Familia;
 
-IX. Instituto de las Mujeres en Tamaulipas.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Instituto de las Mujeres en Tamaulipas; y
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+X. Comisión Ejecutiva de Atención a Víctimas.
 
 Por cada miembro propietario de la Comisión Interinstitucional habrá un suplente designado por escrito por el titular, quien en su caso deberá tener por lo menos el nivel de Director de área o equivalente. El suplente contará con las mismas facultades que los propietarios y podrá asistir, con voz y voto, a las sesiones de la Comisión cuando el propietario respectivo no concurra.
 
@@ -568,3 +574,15 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-809 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS Y LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
