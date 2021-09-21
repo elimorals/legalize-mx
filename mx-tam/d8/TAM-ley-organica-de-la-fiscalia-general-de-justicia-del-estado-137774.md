@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2020-11-22"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -567,15 +567,15 @@ II. Tener por lo menos treinta años cumplidos el día de la designación;
 
 III. Contar con título profesional de licenciatura en derecho, abogacía, ciencias jurídicas o equivalente, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente, así como contar con una experiencia profesional mínima de cinco años;
 
-(NOTA: EL 19 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso mediante sentencia que haya causado ejecutoria, O ESTAR SUJETO A PROCESO PENAL;
+IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso mediante sentencia que haya causado ejecutoria;
 
 V. En su caso, tener acreditado el Servicio Militar Nacional;
 
-(NOTA: EL 19 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VI. NO HABER SIDO SUSPENDIDO, DESTITUIDO NI INHABILITADO POR RESOLUCIÓN FIRME, EN LOS TÉRMINOS DE LAS NORMAS RELATIVAS A LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS;
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 VII. Aprobar las evaluaciones de control de confianza previstas en la legislación aplicable, y
 
@@ -611,15 +611,15 @@ II. Tener por lo menos treinta años cumplidos el día de la designación;
 
 III. Contar con título profesional de licenciatura en derecho, abogacía, ciencias jurídicas o equivalente, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente, así como contar con una experiencia profesional mínima de cinco años;
 
-(NOTA: EL 19 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso mediante sentencia que haya causado ejecutoria, O ESTAR SUJETO A PROCESO PENAL;
+IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso mediante sentencia que haya causado ejecutoria;
 
 V. En su caso, tener acreditado el Servicio Militar Nacional;
 
-(NOTA: EL 19 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VI. NO HABER SIDO SUSPENDIDO, DESTITUIDO NI INHABILITADO POR RESOLUCIÓN FIRME, EN LOS TÉRMINOS DE LAS NORMAS RELATIVAS A LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS;
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 VII. Acreditar las evaluaciones de control de confianza previstas en la legislación aplicable; y
 
@@ -665,13 +665,13 @@ I. Ejercer las atribuciones que la Constitución General, la Constitución del E
 
 II. Contar con el personal sustantivo, administrativo y auxiliar que resulte necesario para el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-III. Investigar los hechos señalados por la ley como delitos, cometidos por el personal de la institución en el ejercicio de sus funciones;
+III. Investigar los hechos señalados por la ley como delitos, cometidos por el personal de la institución en el ejercicio de sus funciones, con independencia de que exista Fiscalía o Unidad Especializada para su investigación y persecución, atendiendo a la calidad específica de servidores públicos de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Conocer de los procedimientos iniciados con motivo de la falta de requisitos de permanencia, así como de los derivados de las faltas administrativas cometidas por el personal sustantivo de la Fiscalía General; con excepción de las faltas administrativas contempladas en los artículos 49, fracción IV y 50 de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
+IV. Conocer de los procedimientos iniciados con motivo de la falta de requisitos de permanencia, así como de los derivados en las faltas administrativas cometidas por el personal sustantivo de la Fiscalía General; con excepción de las faltas administrativas contempladas en los artículos 49 y 50 de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 V. Disponer de los elementos de Policía de Investigación necesarios para efectos de sus facultades;
 
@@ -881,7 +881,9 @@ III. Por el Vicefiscal de Delitos de Alto Impacto y de Violaciones a Derechos Hu
 
 B. En caso de ausencia definitiva del Fiscal General, será suplido temporalmente por los Vicefiscales según el orden antes previsto, hasta en tanto se designe al titular, debiendo para tal efecto notificar al Congreso del Estado, para que inicie el procedimiento de designación previsto en el artículo 125 de la Constitución del Estado.
 
-C. Los Fiscales y demás servidores públicos de la Fiscalía General, en las ausencias temporales o definitivas serán suplidos por el servidor público de nivel jerárquico inmediato inferior o bien, por quien designe la persona titular de la Fiscalía General.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+C. Los Vicefiscales, Fiscales y demás servidores públicos de la Fiscalía General, en las ausencias temporales o definitivas serán suplidos por el servidor público de nivel jerárquico inmediato inferior o bien, por quien designe la persona titular de la Fiscalía General.
 
 D. Los Agentes del Ministerio Público en sus ausencias temporales serán suplidos por otro Agente del Ministerio Público designado por el superior jerárquico del ausente.
 
@@ -1159,11 +1161,13 @@ III. Contar con título profesional de carrera policial, licenciatura en derecho
 
 IV. Acreditar experiencia mínima de cinco años en funciones relativas a la seguridad pública, la procuración de justicia o a la investigación criminal;
 
-(NOTA: EL 19 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-V. Gozar de buena reputación y no haber sido sentenciado por la comisión de delito doloso, NI ESTAR VINCULADO A PROCESO POR EL MISMO TIPO DE DELITO;
+V. Gozar de buena reputación y no haber sido sentenciado por la comisión de delito doloso;
 
-VI. No haber sido suspendido, destituido ni inhabilitado por resolución firme, en los términos de las normas relativas a las responsabilidades administrativas de las y los servidores públicos; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
 VII. Acreditar las evaluaciones de control de confianza previstas en la legislación aplicable.
 
@@ -1391,9 +1395,11 @@ Los procedimientos establecidos en el artículo anterior, estarán a cargo de fa
 
 ### CAPÍTULO I. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 55.
 
-El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo las funciones de prevenir, corregir, calificar, investigar y sancionar actos u omisiones que pudieran constituir responsabilidades del personal administrativo de la Fiscalía General, distintas a las de competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales, la correcta administración de recursos humanos y materiales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante el Agente del Ministerio Público.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo las funciones de prevenir, corregir, calificar, investigar y sancionar actos u omisiones que pudieran constituir responsabilidades de las y los servidores públicos de la Fiscalía General, contempladas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, distintas a las de competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales y federales, la correcta administración de recursos humanos y materiales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante el Agente del Ministerio Público.
 
 El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto. En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley en materia de responsabilidades administrativas del Estado.
 
@@ -1603,7 +1609,9 @@ XII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jur
 
 La Dirección General de Administración, tendrá las siguientes facultades:
 
-I. Elaborar el Anteproyecto de Presupuesto de Egresos de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+I. Elaborar el Anteproyecto de Presupuesto de Egresos de la Fiscalía General, considerando las necesidades institucionales;
 
 II. Realizar las transferencias presupuestales necesarias para garantizar la operación de las unidades administrativas de la institución;
 
@@ -1625,11 +1633,9 @@ X. Recibir y verificar la documentación comprobatoria de las erogaciones realiz
 
 XI. Llevar el control de los bienes muebles e inmuebles, vehículos oficiales, armamento y el manejo de la licencia oficial colectiva;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Autorizar los trámites correspondientes a altas, bajas, cambios de adscripción, comisiones, control de personal, nóminas, actualización de plantilla
-
-(sic), vacaciones y jubilaciones de las y los servidores públicos de la institución, expidiendo las credenciales o constancias correspondientes, de acuerdo a lo dispuesto por la normatividad aplicable;
+XII. Administrar los recursos humanos de la institución;
 
 XIII. Implementar los programas para el mantenimiento de los inmuebles, del parque vehicular, así como de los servicios generales de los edificios que albergan las unidades administrativas;
 
@@ -1637,11 +1643,31 @@ XIII. Implementar los programas para el mantenimiento de los inmuebles, del parq
 
 XIV. Llevar el registro y control del flujo documental de la institución, así como el depósito y resguardo de la documentación inactiva;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-XV. Fungir como representante de la Fiscalía General y su titular, ante autoridades y particulares, en la realización de gestiones que con motivo del ejercicio de las atribuciones conferidas se requiera; y
+XV. Fungir como representante de la Fiscalía General y su titular, ante autoridades y particulares, en la realización de gestiones que con motivo del ejercicio de las atribuciones conferidas se requiera;
 
-XVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende y delegue la persona titular de la Fiscalía General.
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Suscribir los contratos y convenios relativos al arrendamiento, adquisición de bienes y servicios y demás actos que se requieran en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Suscribir y gestionar la documentación inherente al ejercicio del gasto institucional;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Rendir al Consejo de Fiscales, informe trimestral del estado que guarda el ejercicio del gasto;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Gestionar los recursos ante autoridades federales, estatales, municipales y organismos públicos o privados para el cumplimiento de los objetivos y fines de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Coordinar y vigilar que la actuación del personal designado como enlace administrativo de cada una de las unidades administrativas de la Fiscalía General, aplique las normas, sistemas y procedimientos para la correcta utilización de los recursos humanos, financieros y materiales, que se requieran para la operación de las unidades administrativas de la Fiscalía General; y
+
+XXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende y delegue la persona titular de la Fiscalía General.
 
 ###### Artículo 74.
 
@@ -1781,9 +1807,13 @@ VI. Aportaciones federales que le correspondan;
 
 VII. Utilidades, intereses, dividendos, rentas y aprovechamientos de sus bienes muebles e inmuebles;
 
-VIII. Recursos que reciba por concepto de los bienes o productos que enajene, así como los que perciba por pago de derechos;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Sanciones económicas impuestas por las autoridades competentes a las y los servidores públicos de conformidad con esta Ley, mismas que tendrán la naturaleza de créditos fiscales y serán enviadas para su cobro a la Secretaría de Finanzas, la cual, una vez efectuado el mismo, entregará las cantidades respectivas a la Fiscalía General;
+VIII. Recursos que reciba por concepto de los bienes o productos que enajene, por pago de derechos cobrados por servicios prestados y aprovechamientos;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Sanciones económicas impuestas por servidores públicos adscritos a la Fiscalía General en el ejercicio de sus funciones, mismas que tendrán la naturaleza de créditos fiscales y serán enviadas para su cobro a la Secretaría de Finanzas, la cual una vez efectuado el mismo, entregará las cantidades respectivas a la Fiscalía General;
 
 X. Bienes que le correspondan de conformidad con la legislación aplicable, vinculados con la comisión de delitos, así como los decomisados;
 
@@ -1793,7 +1823,9 @@ XII. Las demás que establezca la legislación aplicable.
 
 El patrimonio de la Fiscalía General será inembargable e imprescriptible y no será susceptible de ejecución judicial o administrativa.
 
-El presupuesto de egresos de la Fiscalía General, no podrá ser menor al aprobado por el Congreso, para el ejercicio anual inmediato anterior.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+El presupuesto de egresos de la Fiscalía General, no podrá ser menor en términos nominales al aprobado por el Congreso, para el ejercicio anual inmediato anterior.
 
 ###### Artículo 83.
 
@@ -2194,3 +2226,15 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-809 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS Y LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
