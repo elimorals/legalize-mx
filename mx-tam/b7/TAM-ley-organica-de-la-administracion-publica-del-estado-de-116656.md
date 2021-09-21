@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2021-09-09"
+last_updated: "2021-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -433,9 +433,9 @@ XXVIII. Resolver las solicitudes de condonación y cancelación de créditos fis
 
 XXIX. Notificar los procedimientos administrativos que lleven a cabo las autoridades fiscales incluso aquellos que deriven del ejercicio de la colaboración administrativa en materia fiscal federal y todo tipo de actos administrativos;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-XXX. Apoyar a la Contraloría Gubernamental en el diseño, administración y operación del Sistema de Evaluación del Desempeño del gasto público con el fin de conocer los resultados en el cumplimiento de objetivos y metas establecidos en la administración pública estatal;
+XXX. Coordinar el diseño, administración y operación del Sistema de Evaluación del Desempeño del gasto público con el fin de conocer los resultados en el cumplimiento de objetivos y metas establecidos en la administración pública estatal, a través de los indicadores de sus programas presupuestarios;
 
 > <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -1858,3 +1858,19 @@ P.O. 9 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-808 MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GASTO PÚBLICO; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY ESTATAL DE PLANEACIÓN, EN MATERIA DE GASTO PÚBLICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Derivado del cambio en la atribución relativa a la coordinación del Sistema de Evaluación del Desempeño del gasto público, la Secretaría y la Contraloría Gubernamental establecerán durante el segundo semestre de 2021, los acuerdos necesarios a efecto de realizar los traspasos de los asuntos relacionados con el cambio de competencias, señalando que dicho proceso deberá quedar concluido a más tardar el 31 de diciembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+La disposición relativa al resguardo y cuidado de la documentación comprobatoria del gasto por parte de las dependencias ejecutoras del mismo, a que hace referencia el segundo párrafo del artículo 56 del presente Decreto, entrará en vigor a partir del 1° de enero de 2022, ello con la finalidad de que se determinen las medidas necesarias para su implementación por parte de la Secretaría, la Contraloría Gubernamental y las dependencias y entidades involucradas.
