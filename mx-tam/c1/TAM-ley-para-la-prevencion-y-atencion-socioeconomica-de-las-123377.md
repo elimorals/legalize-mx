@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-y-atencion-socioeconomica-de-las-123377"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-14"
-last_updated: "2017-09-14"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 14 de septiembre de 2017.
 
@@ -47,25 +47,33 @@ LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y tiene por objeto establecer las bases para el diseño, la alineación y articulación de programas, proyectos y acciones tendientes a la prevención y atención socioeconómica de las violencias y la delincuencia en Tamaulipas, instrumentando las medidas necesarias para atender sus causas originarias y generar condiciones institucionales que apunten a garantizar condiciones de bienestar social en el Estado.
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Tamaulipas. El presente ordenamiento tiene por objeto establecer las bases para el diseño, la alineación y articulación de políticas públicas, tendientes a la prevención y atención socioeconómica de las violencias en Tamaulipas, instrumentando programas, estrategias y/o intervenciones institucionales necesarias para atender sus causas originarias y generar condiciones institucionales que apunten a garantizar el bienestar social en el Estado.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-La prevención socioeconómica de las violencias y la delincuencia se entenderá como el conjunto de políticas, estrategias e intervenciones orientadas a reducir factores de riesgo que favorezcan la generación de conductas violentas o delictivas, así como a combatir las distintas causas que las generan para fortalecer los factores de protección que componen la seguridad y bienestar en las personas.
+La prevención socioeconómica de las violencias se entenderá como el conjunto de políticas públicas, orientadas a reducir factores de riesgo que propicien la generación de conductas violentas o delictivas, así como a combatir las distintas causas que las originen para fortalecer los factores de protección que componen la seguridad y bienestar en las personas. El Ejecutivo Estatal, en coordinación con la Federación y los municipios, desarrollará políticas públicas para fortalecer las capacidades de resiliencia individual y comunitaria, a través de acciones permanentes, estructuradas y concretas, mismas que serán dirigidas a través de programas, estrategias o intervenciones transversales para el desarrollo social, económico, político y cultural.
 
-El Ejecutivo Estatal, en coordinación con la Federación y los municipios, desarrollará políticas e intervenciones integrales para fortalecer las capacidades de resiliencia individual y comunitaria, a través de medidas de cooperación permanentes, estructuradas y concretas, mismas que se coordinarán con las estrategias para el desarrollo social, económico, político y cultural.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 3.
 
-De manera enunciativa y no limitativa, formarán parte de la política de prevención y atención socioeconómica de las violencias y la delincuencia: los programas, estrategias y acciones del Ejecutivo Estatal y los municipios, vinculadas a la seguridad pública, salud pública, procuración de justicia, economía, trabajo, educación, cultura, derechos humanos y bienestar social; particularmente, las orientadas a los grupos vulnerables y en situación de riesgo.
+La aplicación de la presente Ley corresponde a las dependencias y entidades de la Administración Pública del Estado y de los Municipios, en particular a quienes ejercen acciones vinculadas a los grupos vulnerables y en situación de riesgo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 4.
 
-La planeación, programación, alineación, articulación y evaluación de las políticas públicas, programas y acciones en materia de prevención socioeconómica se realizarán en los diversos ámbitos de competencia, por conducto de las instituciones de seguridad pública y demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al cumplimiento de esta ley, debiendo respetar los derechos humanos de manera irrestricta, así como los siguientes principios:
+La alineación, articulación y evaluación de las políticas públicas, programas, estrategias o intervenciones en materia de prevención y atención socioeconómica de las violencias, se realizarán por conducto de las diversas dependencias y entidades de la Administración Pública Estatal, que en razón de sus atribuciones deban contribuir directa o indirectamente al cumplimiento de esta Ley, debiendo respetar los derechos humanos de manera irrestricta, así como los siguientes principios:
 
-I. Integralidad. Consiste en la articulación y alineación del conjunto de estrategias, programas y políticas públicas para la prevención socioeconómica de las violencias y la delincuencia focalizada en un territorio, con la participación ciudadana y comunitaria;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+I. Integralidad. Consiste en la articulación y alineación del conjunto de estrategias, programas y políticas públicas para la prevención socioeconómica de las violencias focalizada en un territorio, con la participación ciudadana y comunitaria;
 
 II. Interdisciplinariedad. Consiste en el diseño de políticas públicas tomando en cuenta conocimientos y herramientas de distintas disciplinas y experiencias nacionales e internacionales;
 
@@ -93,35 +101,41 @@ III. Conductas de riesgo: Son acciones u omisiones que involucran peligro para e
 
 IV. Conductas protectoras: Son acciones disuasivas provocadas por la condición biopsicosocial de las personas que permiten generar percepciones del ambiente físico, social que van unidas a una amplia posibilidad de autocuidado y autopercepción del riesgo;
 
-V. Cultura de la legalidad: Conjunto de valores, actitudes, comportamientos y estilos de vida que promueven el cumplimiento de la ley y el respeto del estado de derecho como condición para lograr mejores niveles de convivencia social;
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Cultura de la paz: Conjunto de valores, actitudes, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos atacando a sus raíces a través del diálogo y la negociación entre los individuos y los grupos;
+V. Consejos de Colaboración Vecinal: Instancia de participación ciudadana y comunitaria encargada de fomentar la participación de la ciudadanía en la planeación, diseño, evaluación, ejecución y seguimiento de las políticas públicas, estrategias, líneas de acción, programas y proyectos vinculadas con la prevención socioeconómica de las violencias;
 
-VII. Delincuencia: Fenómeno social, que obedece a diversas causas y tiene múltiples dimensiones, y que se expresa mediante una conducta que quebranta un orden social o legal determinado;
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Factor detonador: Acontecimiento de tipo macrosocial que acelera procesos de violencia en un territorio específico y contribuyen a una ruptura de tendencias históricas de convivencia social pacífica. Por ejemplo, catástrofes ambientales o humanas, crisis económicas, cierre de fronteras, cambio repentino de controles o de políticas gubernamentales, aceleración en los precios o escasez de productos esenciales;
+VI. Cultura de la legalidad: Conjunto de valores, actitudes, comportamientos y estilos de vida que promueven el cumplimiento de la ley y el respeto del estado de derecho como condición para lograr mejores niveles de convivencia social;
 
-IX. Factor precursor: Aquel que contribuye a la generación de ambientes sociales violentos como: situaciones de profunda desigualdad, abandono o deterioro urbano, discriminación o exclusión, conflictos étnicos, religiosos o políticos, despojo de tierras y recursos, construcción de grandes conjuntos habitacionales con malas condiciones de habitabilidad, corrupción generalizada e impunidad;
+VII. Cultura de la paz: Conjunto de valores, actitudes, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos atacando a sus raíces a través del diálogo y la negociación entre los individuos y los grupos;
 
-X. Factor de protección: Capacidades individuales, grupales o institucionales y formas de relaciones sociales que generan respeto, tolerancia y reconocimiento de los derechos de terceros y de sus necesidades, así como los mecanismos de sanción social a las conductas consideradas como ilícitas, generalmente aceptados y que permiten procesar adecuadamente los conflictos, como lo son: hábitos y prácticas de gobernabilidad democrática, cultura de la paz y diálogo, modelos de crianza democráticos y gestión participativa de empresas;
+VIII. Delincuencia: Fenómeno social, que obedece a diversas causas y tiene múltiples dimensiones, y que se expresa mediante una conducta que quebranta un orden social o legal determinado;
 
-XI. Factor de riesgo: Aquellas circunstancias socioculturales y características individuales, que, en conjunto, en un momento determinado, incrementan la vulnerabilidad de las personas y desembocan en conductas violentas y antisociales tales como: la violencia familiar, el maltrato infantil, el hacinamiento, la deserción escolar, el desempleo, el alcoholismo, el incremento de las adicciones, el aumento de bares, cantinas, antros, lugares de juego y el acoso escolar;
+IX. Factor detonador: Acontecimiento de tipo macrosocial que acelera procesos de violencia en un territorio específico y contribuyen a una ruptura de tendencias históricas de convivencia social pacífica. Por ejemplo, catástrofes ambientales o humanas, crisis económicas, cierre de fronteras, cambio repentino de controles o de políticas gubernamentales, aceleración en los precios o escasez de productos esenciales;
 
-XII. Memoria histórica: El conjunto de acciones para la reflexión colectiva respecto de hechos que implican violaciones graves a los derechos humanos derivados de las violencias y la delincuencia, procurando identificar sus causas, conocer la verdad y evitar su repetición, con la finalidad de promover una cultura de la paz y contribuir a la dignidad de las víctimas;
+X. Factor precursor: Aquel que contribuye a la generación de ambientes sociales violentos como: situaciones de profunda desigualdad, abandono o deterioro urbano, discriminación o exclusión, conflictos étnicos, religiosos o políticos, despojo de tierras y recursos, construcción de grandes conjuntos habitacionales con malas condiciones de habitabilidad, corrupción generalizada e impunidad;
 
-XIII. Participación ciudadana y comunitaria: La participación de los diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica;
+XI. Factor de protección: Capacidades individuales, grupales o institucionales y formas de relaciones sociales que generan respeto, tolerancia y reconocimiento de los derechos de terceros y de sus necesidades, así como los mecanismos de sanción social a las conductas consideradas como ilícitas, generalmente aceptados y que permiten procesar adecuadamente los conflictos, como lo son: hábitos y prácticas de gobernabilidad democrática, cultura de la paz y diálogo, modelos de crianza democráticos y gestión participativa de empresas;
 
-XIV. Programa Estatal: El Programa Estatal para la Prevención y Atención Socioeconómica de las Violencias;
+XII. Factor de riesgo: Aquellas circunstancias socioculturales y características individuales, que, en conjunto, en un momento determinado, incrementan la vulnerabilidad de las personas y desembocan en conductas violentas y antisociales tales como: la violencia familiar, el maltrato infantil, el hacinamiento, la deserción escolar, el desempleo, el alcoholismo, el incremento de las adicciones, el aumento de bares, cantinas, antros, lugares de juego y el acoso escolar;
 
-XV. Reglamento: El Reglamento de la Ley para la Prevención y Atención Socioeconómica de las Violencias del Estado de Tamaulipas;
+XIII. Memoria histórica: El conjunto de acciones para la reflexión colectiva respecto de hechos que implican violaciones graves a los derechos humanos derivados de las violencias y la delincuencia, procurando identificar sus causas, conocer la verdad y evitar su repetición, con la finalidad de promover una cultura de la paz y contribuir a la dignidad de las víctimas;
 
-XVI. Secretaría Ejecutiva: El Secretariado Ejecutivo del Sistema Estatal de Prevención y Atención Socioeconómica de las Violencias;
+XIV. Participación ciudadana y comunitaria: La participación de los diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica;
 
-XVII. Sistema Estatal: El Sistema Estatal de Prevención y Atención Socioeconómica de las Violencias;
+XV. Programa Estatal: El Programa Estatal para la Prevención y Atención Socioeconómica de las Violencias;
 
-XVIII. Violencia: El uso deliberado del poder o de la fuerza física, agresión física o verbal, ya sea en grado de amenaza o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones. Quedan incluidas las diversas manifestaciones que tiene la violencia como la de género, la juvenil, la delictiva, la institucional y la social, entre otras; y
+XVI. Reglamento: El Reglamento de la Ley para la Prevención y Atención Socioeconómica de las Violencias del Estado de Tamaulipas;
 
-XIX. Ley: La Ley para la Prevención y Atención Socioeconómica de las Violencias del Estado de Tamaulipas.
+XVII. Secretaría Ejecutiva: El Secretariado Ejecutivo del Sistema Estatal de Prevención y Atención Socioeconómica de las Violencias;
+
+XVIII. Sistema Estatal: El Sistema Estatal de Prevención y Atención Socioeconómica de las Violencias;
+
+XIX. Violencia: El uso deliberado del poder o de la fuerza física, agresión física o verbal, ya sea en grado de amenaza o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones. Quedan incluidas las diversas manifestaciones que tiene la violencia como la de género, la juvenil, la delictiva, la institucional y la social, entre otras; y
+
+XX. Ley: La Ley para la Prevención y Atención Socioeconómica de las Violencias del Estado de Tamaulipas.
 
 ### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN Y ATENCIÓN SOCIO ECONÓMICA DE LAS VIOLENCIAS
 
@@ -161,9 +175,13 @@ La prevención en el ámbito comunitario comprende la participación ciudadana y
 
 I. Elaboración de diagnósticos participativos para el análisis de la problemática diagnosticada bajo los estándares de buenas prácticas de atención psicosocial, terapéutica y pedagogías para la interrupción del ciclo de la violencia y el desarrollo de conductas protectoras. Así como para el mejoramiento de las condiciones de seguridad del entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y utilización de los mecanismos alternativos de solución de controversias;
 
-II. Garantía de acceso de la comunidad a los servicios públicos básicos;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-III. Inclusión de todos los sectores sociales en la toma de decisiones, particularmente, las mujeres, las y los jóvenes, las niñas y los niños, y grupos en situación de vulnerabilidad;
+II. Garantía de acceso a los servicios públicos básicos;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+III. Inclusión de todos los sectores sociales en la toma de decisiones, particularmente, las mujeres, las y los jóvenes, la niñez, personas con discapacidad, adultos mayores y demás grupos en situación de vulnerabilidad;
 
 IV. Impulso del desarrollo de acciones que permitan reconocer las capacidades pacificadoras;
 
@@ -173,7 +191,9 @@ VI. Fomento de la participación activa de la comunidad en la implementación de
 
 VII. Fomento a las actividades de las organizaciones de la sociedad civil; y
 
-VIII. Fomento de la participación de las universidades en los procesos de sistematización y evaluación de las políticas implementadas.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Fomento de la participación del sector académico, así como de las universidades en los procesos de sistematización y evaluación de las políticas implementadas.
 
 ###### Artículo 9.
 
@@ -187,63 +207,95 @@ III. Medidas administrativas encaminadas a disminuir la disponibilidad de medios
 
 IV. Estrategias para prevenir la repetición de casos de victimización; y
 
-V. Participación ciudadana en la transformación del espacio público, a través de comités ciudadanos de autoconstrucción, mantenimiento y uso y goce de los espacios públicos.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+V. Participación ciudadana en la transformación del espacio público, a través de Comités Municipales de autoconstrucción, mantenimiento y uso y goce de los espacios públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 10.
 
-La prevención en el ámbito psicosocial tiene como objetivo incidir en las motivaciones individuales respecto de condiciones delictivas o de violencia, con referencia a los individuos, la familia, la escuela y la comunidad, que incluye como mínimo:
+La prevención en el ámbito psicosocial tiene como objetivo incidir en las motivaciones individuales respecto de condiciones de violencia, con referencia a los individuos, la familia, la escuela y la comunidad, que incluye como mínimo:
 
 I. Impulsar el diseño y aplicación de programas formativos en habilidades para la vida, dirigidos principalmente a la población en situación de riesgo y vulnerabilidad;
 
-II. La inclusión de la prevención de la violencia, la delincuencia y las adicciones, en las políticas públicas de educación del Ejecutivo Estatal y de los municipios;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+II. La inclusión de la prevención de la violencia en las políticas públicas de educación del Ejecutivo Estatal y de los municipios;
 
 III. El fortalecimiento de las capacidades institucionales que aseguren la sostenibilidad de los programas de prevención socioeconómica; y
 
-IV. Adoptar medidas para el reconocimiento y respeto de la memoria histórica en materia de las violencias y el fenómeno de la delincuencia.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Adoptar medidas para el reconocimiento y respeto de la memoria histórica en materia de las violencias.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-La atención inmediata y efectiva a víctimas de violencia y delincuencia, en materia del impacto emocional, físico, patrimonial y el proceso legal, estará sujeta a las disposiciones existentes para ese objeto y siempre se velará por sus derechos y su seguridad en forma prioritaria.
+La atención inmediata y efectiva a víctimas de violencia, en materia del impacto emocional, físico, patrimonial y el proceso legal, estará sujeta a las disposiciones existentes para ese objeto y siempre se velará por sus derechos y su seguridad en forma prioritaria.
 
 ###### Artículo 12.
 
 Todas las intervenciones públicas en materia de prevención socioeconómica de las violencias deberán partir del reconocimiento de factores precursores, detonadores y de riesgo, los cuales se deberán tomar en cuenta para la instrumentación en el territorio.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 13.
 
-Los programas, acciones e intervenciones públicas en materia de prevención socioeconómica de las violencias deberán reconocer y fortalecer los factores de protección, así como fomentar la participación de las organizaciones de la sociedad civil en intervenciones articuladas y de manera colaborativa en el territorio.
+Los programas, estrategias e intervenciones públicas en materia de prevención socioeconómica de las violencias deberán reconocer y fortalecer los factores de protección, así como fomentar la participación de las organizaciones de la sociedad civil de manera articulada y colaborativa en el territorio.
 
 ### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-Para llevar a cabo la coordinación interinstitucional e intergubernamental de las políticas de prevención y atención socioeconómica de las violencias, se establecerá un Sistema Estatal, a partir del cual se definirán los principios, bases y procedimientos para la coordinación entre las autoridades estatales y municipales para la instrumentación de la estrategia y el programa específico para cada territorio.
+Para llevar a cabo la coordinación interinstitucional e intergubernamental de las políticas de prevención y atención socioeconómica de las violencias, se establecerá un Sistema Estatal, a partir del cual se definirán los principios, bases y procedimientos para la coordinación entre las autoridades estatales y municipales para la instrumentación de programas, estrategias e intervenciones públicas específicas para cada territorio.
 
 El Sistema Estatal se integrará por:
 
-I. Comité Coordinador, encabezado por el Gobernador e integrado por los titulares de las Secretarías, referidas en el artículo 15 de la presente Ley;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-II. Secretaría Ejecutiva, cuya titularidad recaerá en el Jefe de la Oficina del Gobernador; y
+I. Comité Coordinador, presidido por el Gobernador e integrado por las personas titulares de las dependencias y entidades, referidas en el artículo 15 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+II. Secretaría Ejecutiva, cuya titularidad recaerá (sic) la persona titular de la Secretaría de Bienestar Social;
 
 III. Los Comités Municipales de Prevención y Atención Socioeconómica de las Violencias.
 
 Los integrantes del Sistema Estatal deberán en todo momento apegarse de manera estricta a lo determinado por el Programa Estatal aprobado por el Comité Coordinador.
 
-El Sistema Estatal deberá reunirse por lo menos una vez al año, a más el tardar el cuatro de julio de cada año.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+El Sistema Estatal se reunirá cuando menos una vez al año, a convocatoria del Presidente del Comité Coordinador; para sesionar válidamente requerirá del quórum de la mayoría de sus integrantes; sus decisiones se tomarán por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Los cargos de las y los integrantes del Sistema Estatal serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna.
 
 #### SECCIÓN PRIMERA. DEL COMITÉ COORDINADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 15.
 
-El diagnóstico, diseño, articulación, alineación, ejecución, monitoreo y evaluación de las políticas públicas en materia de prevención socioeconómica de las violencias estarán a cargo del Comité Coordinador, órgano honorario que se integrará de la siguiente manera:
+El diagnóstico, diseño, articulación, alineación, ejecución, monitoreo y evaluación de las políticas públicas en materia de prevención socioeconómica de las violencias estarán a cargo del Comité Coordinador, que se integrará de la siguiente manera:
 
-I. El Gobernador del Estado, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-II. El Jefe de la Oficina del Gobernador; que fungirá como titular de la Secretaría Ejecutiva;
+I. La persona titular del Poder Ejecutivo del Estado, quien fungirá como Presidente;
 
-III. Los titulares de:
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-a) La Secretaría de Bienestar Social;
+II. La persona titular de la Secretaría de Bienestar Social; que fungirá como titular de la Secretaría Ejecutiva;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+III. Las personas titulares de:
+
+a) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2021)
 
 b) La Secretaría General de Gobierno;
 
@@ -273,17 +325,33 @@ n) El Sistema para el Desarrollo Integral de la Familia del Estado.
 
 Todos los integrantes del Comité Coordinador tendrán voz y voto.
 
-Únicamente el Gobernador del Estado podrá designar un suplente, de entre los integrantes del Comité Coordinador. Los demás integrantes deberán asistir a las sesiones del Comité Coordinador en forma personal.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-El Presidente de la Comisión de Derechos Humanos del Estado de Tamaulipas será invitado permanentemente, con derecho sólo a voz.
+La persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas será invitada permanentemente, con derecho sólo a voz.
 
-El Comité Coordinador contará con un Secretario Ejecutivo para organizar y sistematizar los trabajos del Comité Coordinador.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+El Presidente podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los organismos autónomos, de los municipios, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz pero sin voto.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Las ausencias del Presidente del Comité Coordinador, serán suplidas por la persona titular de la Secretaría General de Gobierno; las y los demás integrantes del Comité Coordinador, serán suplidas por el representante que para tal efecto designe, quien deberá desempeñar una función del nivel administrativo inmediato inferior.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+El Comité Coordinador se reunirá cuando menos dos veces al año, a convocatoria de su Presidente; para sesionar válidamente se requerirá un quórum de la mayoría de sus integrantes; sus decisiones se tomarán por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Para el mejor cumplimiento de sus atribuciones, el Comité Coordinador podrá constituir comisiones encargadas de atender asuntos o materias específicas.
 
 ###### Artículo 16.
 
 El Comité Coordinador sesionará conforme a las reglas siguientes:
 
-I. Se reunirá de manera ordinaria trimestralmente y de forma extraordinaria cuando sea necesario, y en su primera sesión de cada año deberá aprobar el Programa Estatal;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+I. Se reunirá de manera ordinaria por lo menos dos veces por año y de forma extraordinaria cuando sea necesario; y en su primera sesión ordinaria se deberá aprobar el Programa Estatal;
 
 II. Tratándose de sesiones ordinarias, la convocatoria deberá formularse con una anticipación de tres días naturales a la fecha de la sesión, y en el caso de sesiones extraordinarias, con un mínimo de veinticuatro horas;
 
@@ -299,7 +367,9 @@ VII. Las actas de las sesiones serán firmadas por el Presidente del Comité Coo
 
 VIII. Los integrantes recibirán copia del acta en que consten los acuerdos para su conocimiento y efectos.
 
-El Comité Coordinador podrá invitar a sus sesiones a representantes de organizaciones de la sociedad civil, así como a académicos relacionados con los temas de prevención socioeconómica de las violencias y la delincuencia, quienes tendrán derecho a voz.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+El Comité Coordinador podrá invitar a sus sesiones a representantes de organizaciones de la sociedad civil, así como a académicos relacionados con los temas de prevención socioeconómica de las violencias, quienes tendrán derecho a voz.
 
 ###### Artículo 17.
 
@@ -307,13 +377,17 @@ Son atribuciones del Comité Coordinador:
 
 I. Definir estrategias de colaboración intersecretarial para facilitar la cooperación, contactos e intercambio de información y experiencias entre los integrantes del Comité Coordinador, así como con organizaciones de la sociedad civil, centros educativos o de investigación, o cualquier otro grupo de expertos o redes especializadas en prevención;
 
-II. Establecer los lineamientos para recabar, analizar y compartir la información existente sobre la prevención socioeconómica de las violencias y la delincuencia en Tamaulipas. Analizar y evaluar las mejores prácticas, así como su evolución con objeto de contribuir a la toma de decisiones;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+II. Establecer los lineamientos para recabar, analizar y compartir la información existente sobre la prevención socioeconómica de las violencias en Tamaulipas. Analizar y evaluar las mejores prácticas, así como su evolución con objeto de contribuir a la toma de decisiones;
 
 III. Elaborar y aprobar el Programa Estatal, y todos aquellos acuerdos o directrices vinculados o derivados de la aprobación del Programa Estatal;
 
 IV. Establecer vínculos de coordinación y celebrar convenios de apoyo con entidades del sector público federal, estatal y municipal, así como con organizaciones del sector social y privado, a fin de integrar los esfuerzos en el objetivo común de la prevención socioeconómica de las violencias en el Estado de Tamaulipas;
 
-V. Aprobar las políticas, programas, estrategias y acciones que deberá instrumentar la Administración Pública del Estado de Tamaulipas, vinculadas a la prevención y atención socioeconómica de las violencias y la delincuencia;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+V. Aprobar las políticas, programas, estrategias y acciones que deberá instrumentar la Administración Pública del Estado de Tamaulipas, vinculadas a la prevención y atención socioeconómica de las violencias;
 
 VI. Analizar, alinear e integrar las propuestas de políticas públicas de los integrantes del Comité Coordinador;
 
@@ -327,7 +401,9 @@ c) Disminuir los espacios de tolerancia a la violencia;
 
 d) Combatir la violencia estructural;
 
-e) Garantizar la atención integral a las víctimas de la delincuencia;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+e) Garantizar la atención integral a las víctimas de las violencias;
 
 f) Fomentar la cultura de la legalidad, de la tolerancia y de la paz;
 
@@ -337,7 +413,9 @@ h) Implementar la interrupción de la violencia.
 
 VIII. Realizar por sí o por terceros, estudios sobre:
 
-a) Las causas estructurales de las violencias y de la delincuencia;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+a) Las causas estructurales de las violencias;
 
 b) La distribución epidemiológica de las violencias y la distribución geo delictiva;
 
@@ -357,7 +435,9 @@ IX. Promover la inclusión de contenidos relativos a la promoción de conductas 
 
 X. Fomentar la participación ciudadana y comunitaria en las labores de prevención socioeconómica de las violencias;
 
-XI. Promover la investigación científica y el intercambio de información entre organismos e instituciones a nivel nacional e internacional relacionadas con la prevención socioeconómica de las violencias y la delincuencia;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Promover la investigación científica y el intercambio de información entre organismos e instituciones a nivel nacional e internacional relacionadas con la prevención socioeconómica de las violencias;
 
 XII. Informar permanentemente a la sociedad sobre sus actividades a lo largo del año a través de los órganos competentes, e indicar los ámbitos de acción prioritarios de su programa de trabajo para el año siguiente;
 
@@ -367,7 +447,9 @@ XIV. Promover en el ámbito de su competencia, el conocimiento y utilización de
 
 XV. Realizar acciones para promover la cultura de la denuncia entre la sociedad;
 
-XVI. Realizar y promover acciones para el reconocimiento y respeto de la memoria histórica en materia de las violencias y el fenómeno de la delincuencia; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Realizar y promover acciones para el reconocimiento y respeto de la memoria histórica en materia de las violencias; y
 
 XVII. Las demás establecidas en la presente Ley.
 
@@ -379,23 +461,31 @@ I. Participar en las sesiones del Comité Coordinador;
 
 II. Formular estrategias para la implementación de proyectos de desarrollo económico y social en territorios diagnosticados, garantizando la coordinación de todos los órdenes de gobierno y organizaciones de la sociedad civil;
 
-III. Dar seguimiento a las estrategias implementadas por el Comité Coordinador;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+III. Dar seguimiento a las acciones implementadas por el Comité Coordinador;
 
 IV. Participar en la elaboración del Programa Estatal;
 
 V. Elaborar informes para ser presentados anualmente ante los integrantes del Sistema Estatal;
 
-VI. Elaborar los lineamientos necesarios para el cumplimiento de los objetivos del Sistema Estatal;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Designar a un funcionario de primer nivel, por lo menos con rango de subsecretario, como punto focal en sus respectivas dependencias; y
+VI. Elaborar los lineamientos necesarios para el cumplimiento de los objetivos del Sistema Estatal; y
 
-VIII. En caso de que un integrante del Comité Coordinador sea designado por el Gobernador del Estado como su suplente en alguna sesión del Comité Coordinador, éste ejercerá las atribuciones que corresponden a aquél.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Designar a un funcionario de primer nivel, por lo menos con rango de subsecretario, como punto focal en sus respectivas dependencias.
+
+VIII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2021)
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA EJECUTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 19.
 
-Son atribuciones de la Secretaría Ejecutiva:
+La Secretaría Ejecutiva tiene por objeto fungir como órgano de apoyo técnico del Comité Coordinador, a efecto de proveer asistencia técnica para el desempeño de sus atribuciones. Son atribuciones de la Secretaría Ejecutiva:
 
 I. Elaborar en coordinación con los demás integrantes del Sistema Estatal, las propuestas de contenido del Programa Estatal, y todos aquellos vinculados con esta materia;
 
@@ -417,15 +507,19 @@ IX. Las demás que le encomiende el Comité Coordinador.
 
 #### SECCIÓN TERCERA. DE LOS COMITÉS MUNICIPALES DE PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 20.
 
-Los municipios integrarán sus Comités Municipales, asesorados por el Secretario Ejecutivo del Comité de Coordinador, a fin de coadyuvar en la función pública, específicamente promoviendo, fomentando, difundiendo e implementando estrictamente el Programa Estatal aprobado por el Comité Coordinador.
+Los municipios desarrollarán la integración, atribuciones, funcionamiento de los Comités Municipales y deberán ser equivalentes a las que esta Ley, a fin de coadyuvar en la función pública, específicamente promoviendo, fomentando, difundiendo e implementando estrictamente el Programa Estatal aprobado por el Comité Coordinador.
 
 En los supuestos donde exista una problemática que abarque a municipios limítrofes de los estados de Nuevo León, San Luis Potosí y Veracruz, se podrán realizar estrategias de participación conjunta con el apoyo del propio Comité Coordinador.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-Los Comités Municipales se integrarán por el Presidente Municipal, quien presidirá el Comité Municipal y los titulares de las dependencias y entidades de la Administración Pública Municipal cuyas atribuciones estén vinculadas a la materia de esta Ley.
+Los Comités Municipales se integrarán por la persona titular de la Presidencia Municipal, quien lo presidirá y las personas titulares de las dependencias y entidades de la Administración Pública Municipal cuyas atribuciones estén vinculadas a la materia de esta Ley.
 
 ###### Artículo 22.
 
@@ -451,11 +545,15 @@ VI. Los ámbitos y grupos sociales prioritarios que deben ser atendidos;
 
 VII. El fomento de la capacitación de los servidores públicos cuyas atribuciones se encuentren relacionadas con la materia objeto de la presente Ley, lo cual incluirá la realización de seminarios, estudios e investigaciones o programas de formación entre otros, para asegurar que sus intervenciones sean apropiadas, eficientes, eficaces y sostenibles;
 
-VIII. Impulsar el trabajo conjunto con grupos vulnerables y en situación de riesgo para impedir que estos se expandan, actuando con mayor precisión en los factores que contribuyen a las violencias y la delincuencia;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Impulsar el trabajo conjunto con grupos vulnerables y en situación de riesgo para impedir que estos se expandan, actuando con mayor precisión en los factores que contribuyen a las violencias;
 
 IX. La movilización y construcción de una serie de acciones interinstitucionales que tengan capacidad para abordar las causas de las violencias, incluyendo a la sociedad civil;
 
-X. La disminución de las situaciones que aumenten el riesgo de que una persona infrinja la ley o que resulte ser víctima de la delincuencia;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+X. La disminución de las situaciones que aumenten el riesgo de que una persona infrinja la ley o que resulte ser víctima de las violencias;
 
 XI. El desarrollo de estrategias tendientes a la prevención socioeconómica de las violencias;
 
@@ -465,19 +563,17 @@ XIII. Cualquier otra política pública que se considere necesaria para cumplir 
 
 #### SECCIÓN PRIMERA. DE LA EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-El Comité Coordinador evaluará trimestralmente los resultados del Programa Estatal, a fin de contar con un mecanismo de actualización permanente de las políticas públicas, estrategias y líneas de acción vinculadas a la prevención socioeconómica de las violencias.
+El Comité Coordinador evaluará semestralmente los resultados del Programa Estatal, a fin de contar con un mecanismo de actualización permanente de las políticas públicas, estrategias y líneas de acción vinculadas a la prevención socioeconómica de las violencias. Los integrantes del Comité Coordinador enviarán al Secretario Ejecutivo un reporte de los resultados de los programas institucionales a su cargo.
 
-Los integrantes del Comité Coordinador enviarán al Secretario Ejecutivo un reporte de los resultados de los programas institucionales a su cargo, a más tardar catorce días naturales anteriores a la fecha de la sesión trimestral.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-En las sesiones trimestrales del Comité Coordinador, el Secretario Ejecutivo rendirá un informe pormenorizado de los logros y avances de las políticas públicas, estrategias, líneas de acción, programas y proyectos institucionales, quien lo hará público en los términos que establezcan las disposiciones aplicables.
-
-Para la evaluación de las políticas públicas, estrategias, líneas de acción, programas y proyectos referidos, se convocará a la Comisión de Derechos Humanos del Estado de Tamaulipas, a los representantes de organizaciones de la sociedad civil y académicos relacionados con los temas de prevención socioeconómica de las violencias.
-
-Los resultados de las evaluaciones determinarán la continuidad de los programas, proyectos y acciones.
+En las sesiones del Comité Coordinador, el Secretario Ejecutivo rendirá un informe pormenorizado de los logros y avances de las políticas públicas, estrategias, líneas de acción, programas y proyectos institucionales, quien lo hará público en los términos que establezcan las disposiciones aplicables. Para la evaluación de las políticas públicas, estrategias, líneas de acción, programas y proyectos referidos, se convocará a la Comisión de Derechos Humanos del Estado de Tamaulipas, a los representantes de organizaciones de la sociedad civil y académicos relacionados con los temas de prevención socioeconómica de las violencias. Los resultados de las evaluaciones determinarán la dirección y continuidad de los programas, proyectos y acciones.
 
 #### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN CIUDADANA Y COMUNITARIA
 
@@ -501,9 +597,11 @@ La participación ciudadana y comunitaria podrá validarse a través de Convenio
 
 El Secretario Ejecutivo del Comité Coordinador ejecutará los mecanismos eficaces diseñados por el Comité Coordinador para asegurar y promoverá la participación activa de los ciudadanos, recibiendo y turnando al Comité Coordinador las inquietudes, requerimientos y propuestas planteadas por la ciudadanía, a fin de darle la debida atención.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 30.
 
-Para lograr una verdadera participación ciudadana y comunitaria, se habrán de desarrollar de manera clara los lineamientos correspondientes.
+Para la óptima participación ciudadana y comunitaria, los Consejos de Colaboración Vecinal, deberán aprobar los lineamientos para su organización y funcionamiento.
 
 ### CAPÍTULO QUINTO. DEL FINANCIAMIENTO
 
@@ -558,3 +656,29 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los catorce días del mes de septiembre del año dos mil diecisiete
 
 ATENTAMENTE - EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXIV-807 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que establece la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas, expedida por el Congreso del Estado mediante Decreto LXIV-14, publicado en el Periódico Oficial del Estado número 17 de fecha 6 de febrero del 2020.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas, deberá realizar las acciones jurídicas necesarias en la normatividad aplicable, a fin de armonizarla con lo establecido en el mismo.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a la Secretaría de Bienestar Social, Contraloría Gubernamental, Secretaría de Finanzas y Secretaría de Administración del Gobierno del Estado de Tamaulipas, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
