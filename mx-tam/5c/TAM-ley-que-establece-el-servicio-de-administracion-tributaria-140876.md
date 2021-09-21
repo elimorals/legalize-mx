@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-el-servicio-de-administracion-tributaria-1408
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-06"
-last_updated: "2020-02-06"
+last_updated: "2021-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # LEY QUE ESTABLECE EL SERVICIO DE ADMINISTRACION TRIBUTARIA DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. LXIV-806, PUBLICADO EN EL P.O. 21 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY QUE ESTABLECE EL SERVICIO DE ADMINISTRACION TRIBUTARIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Número 17 del Periódico Oficial del Estado de Tamaulipas, el jueves 6 de febrero de 2020.
 
@@ -550,3 +552,19 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de diciembre del año dos mil diecinueve.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO DEL DECRETO NO. LXIV-806 QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley que establece el Servicio de Administración Tributaria de Tamaulipas, expedida el 15 de diciembre de 2019 por la Sexagésima Cuarta Legislatura del Estado, publicada en el Periódico Oficial del Estado No. 17 de fecha 06 de febrero de 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-806 MEDIANTE EL CUAL SE ABROGA LA LEY QUE ESTABLECE EL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado de Tamaulipas.
