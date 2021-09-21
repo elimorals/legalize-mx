@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2020-12-17"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -207,9 +207,11 @@ IX.- Convocar, a iniciativa del Ejecutivo del Estado y en los términos del art�
 
 X.- Las demás que le otorguen otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 16.
 
-A la Tesorería General del Estado le corresponde:
+A la Secretaría de Finanzas le corresponde:
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
@@ -223,7 +225,9 @@ IV.- Verificar que las operaciones en que se haga uso del crédito público prev
 
 V.- Considerar los efectos de la política crediticia adoptada para el logro de los objetivos y prioridades del Plan Estatal y de los Programas; y
 
-VI.- Adecuar y diseñar un sistema de contabilidad congruente con los objetivos y prioridades del Plan Estatal y de los Programas que de él se deriven, para sistematizar programáticamente la contabilidad Estatal.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Adecuar y diseñar un sistema de contabilidad congruente con los objetivos y prioridades del Plan Estatal y de los Programas que de él se deriven, para sistematizar programáticamente la contabilidad Estatal, así como un sistema de evaluación del desempeño del gasto público, basado en indicadores y metas de programas presupuestarios, para incorporar el enfoque a resultados, de conformidad con la Ley de Gasto Público y demás disposiciones aplicables.
 
 ###### ARTICULO 17.
 
@@ -688,3 +692,19 @@ P.O. 17 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-808 MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GASTO PÚBLICO; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY ESTATAL DE PLANEACIÓN, EN MATERIA DE GASTO PÚBLICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Derivado del cambio en la atribución relativa a la coordinación del Sistema de Evaluación del Desempeño del gasto público, la Secretaría y la Contraloría Gubernamental establecerán durante el segundo semestre de 2021, los acuerdos necesarios a efecto de realizar los traspasos de los asuntos relacionados con el cambio de competencias, señalando que dicho proceso deberá quedar concluido a más tardar el 31 de diciembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+La disposición relativa al resguardo y cuidado de la documentación comprobatoria del gasto por parte de las dependencias ejecutoras del mismo, a que hace referencia el segundo párrafo del artículo 56 del presente Decreto, entrará en vigor a partir del 1° de enero de 2022, ello con la finalidad de que se determinen las medidas necesarias para su implementación por parte de la Secretaría, la Contraloría Gubernamental y las dependencias y entidades involucradas.
