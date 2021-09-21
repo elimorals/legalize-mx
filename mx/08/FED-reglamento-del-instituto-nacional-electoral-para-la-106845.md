@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-para-la-106845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-26"
-last_updated: "2020-06-22"
+last_updated: "2021-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-03-11"
 
 REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2021.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 26 de marzo de 2015.
 
@@ -161,27 +161,57 @@ b) Causa grave: Las establecidas en el artículo 102, párrafo 2 de la Ley Gener
 
 c) Convocatoria: Es el documento que aprueba el Consejo General del Instituto, y que se dirige a la ciudadanía interesada para participar en un procedimiento de selección y designación de la o el Consejero Presidente y las o los Consejeros Electorales de un Organismo Público;
 
-d) Cotejo documental o compulsa: Acto a través del cual se verifica que las copias o certificaciones presentadas por los aspirantes coincidan con los documentos originales;
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-e) Designación: Es la atribución del Consejo General de nombrar a las y los Consejeros Presidentes, y Consejeros Electorales de los Organismos Públicos;
+d) Cotejo documental: Acto a través del cual se verifica que las copias o certificaciones presentadas por los aspirantes coincidan con los documentos originales;
 
-f) Entrevista virtual: Forma de concurrir a distancia y no de manera presencial a la entrevista con la o el Consejero Presidente, y las o los Consejeros Electorales del Instituto;
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-g) Grupos de Trabajo: Los integrados por Consejeros Electorales para auxiliar los trabajos de la Comisión de Vinculación dentro del procedimiento de selección y designación de las y los Consejeros Presidentes y Consejeras o Consejeros Electorales;
+e) Compulsa: Actividad que realiza la Unidad Técnica al verificar que el acta de nacimiento, título o cédula profesional, que una persona aspirante haya exhibido con motivo de una convocatoria anterior, se encuentren en su resguardo documental, para que no tenga que exhibirlos nuevamente, una vez constatada su idoneidad;
 
-h) Portal: La página de Internet del Instituto;
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-i) Remoción: Es la atribución del Consejo General para que, conforme al procedimiento establecido en la Ley General y en el presente ordenamiento, determine la separación del cargo de Consejera o Consejero Presidente, y Consejeras o Consejeros Electorales de los Organismos Públicos Locales por infracciones al artículo 102 numeral 2 de la Ley General;
+f) Designación: Es la atribución del Consejo General de nombrar a las y los Consejeros Presidentes, y Consejeros Electorales de los Organismos Públicos;
 
-j) Sistema de Registro: Herramienta informática para la captura de información en los formatos para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-k) Registro en línea: Modalidad de registro en la que cada aspirante digitaliza su documentación y la envía a la Unidad de Vinculación, a través del procedimiento establecido en la Convocatoria.
+g) Ensayo: Escrito original redactado por las personas aspirantes en el que analizarán una situación problemática del ámbito político-electoral, en relación con las responsabilidades, atribuciones, facultades y funciones operativas de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos. La modalidad de aplicación podrá ser presencial o a través de las tecnologías de la información, en términos de los Lineamientos que para tal efecto apruebe el Consejo General;
 
-l) Instructivo: Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-m) Vacante: Separación generada por cualquier causa, que implique la imposibilidad de reincorporarse al cargo para concluir el periodo del nombramiento.
+h) Entrevista virtual: Forma de concurrir a distancia y no de manera presencial a la entrevista con la o el Consejero Presidente, y las o los Consejeros Electorales del Instituto;
 
-n) Ausencia temporal: Separación del cargo, generada por cualquier causa justificada en el ejercicio de algún derecho, que impide atender el cargo sólo de manera provisional, para luego reincorporarse a las funciones.
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+i) Grupos de Trabajo: Los integrados por Consejeros Electorales para auxiliar los trabajos de la Comisión de Vinculación dentro del procedimiento de selección y designación de las y los Consejeros Presidentes y Consejeras o Consejeros Electorales;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+j) Portal: La página de Internet del Instituto;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+k) Remoción: Es la atribución del Consejo General para que, conforme al procedimiento establecido en la Ley General y en el presente ordenamiento, determine la separación del cargo de Consejera o Consejero Presidente, y Consejeras o Consejeros Electorales de los Organismos Públicos Locales por infracciones al artículo 102 numeral 2 de la Ley General;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+l) Sistema de Registro: Herramienta informática para la captura de información en los formatos para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+m) Registro en línea: Modalidad de registro en la que cada aspirante digitaliza su documentación y la envía a la Unidad de Vinculación, a través del procedimiento establecido en la Convocatoria.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+n) Instructivo: Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+o) Vacante: Separación generada por cualquier causa, que implique la imposibilidad de reincorporarse al cargo para concluir el periodo del nombramiento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+p) Ausencia temporal: Separación del cargo, generada por cualquier causa justificada en el ejercicio de algún derecho, que impide atender el cargo sólo de manera provisional, para luego reincorporarse a las funciones.
 
 > <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU FRACCIÓN I CONTENÍA HASTA EL INCISO F) Y CON LA PRESENTE MODIFICACIÓN SE PRECISA ÚNICAMENTE HASTA EL INCISO E), LA FRACCIÓN II, PUNTO 2 CONTENÍA HASTA EL INCISO S), AHORA SE MENCIONA HASTA EL INCISO Q).]</small>
 
@@ -259,9 +289,9 @@ n) Presentar al Consejo General las listas con los nombres de las y los aspirant
 
 o) Informar al Consejo General la generación de vacantes de Consejera o Consejero Presidente y de Consejeras o Consejeros Electorales en los Organismos Públicos;
 
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-p) Aprobar el calendario de entrevistas; y
+p) Aprobar el calendario de entrevistas;
 
 > <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
@@ -295,7 +325,9 @@ a) Tramitar y sustanciar a través de la Unidad de lo Contencioso, el procedimie
 
 b) Someter a consideración del Consejo General los dictámenes con proyecto de resolución, en términos de lo dispuesto por el artículo 103, numeral 4 de la Ley General;
 
-c) Informar al Consejo General y a la Comisión de Vinculación sobre la presentación y trámite de las quejas o denuncias en contra de la o el Consejero Presidente y las y los Consejeros Electorales de los Organismos Públicos, y
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+c) Informar al Consejo General y a la Comisión de Vinculación sobre la presentación y trámite de las quejas o denuncias en contra de la o el Consejero Presidente y las y los Consejeros Electorales de los Organismos Públicos; y
 
 d) Las demás que le confiera la Ley General, el presente Reglamento y las disposiciones aplicables en la materia.
 
@@ -417,7 +449,9 @@ Artículo 7
 
 a) Convocatoria pública;
 
-b) Registro de aspirantes y cotejo documental;
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+b) Registro de aspirantes;
 
 c) Verificación de los requisitos legales;
 
@@ -425,7 +459,9 @@ c) Verificación de los requisitos legales;
 
 d) Examen de conocimientos y cotejo documental;
 
-e) Ensayo presencial; y
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+e) Ensayo; y
 
 f) Valoración curricular y entrevista.
 
@@ -493,9 +529,9 @@ Artículo 9
 
 1. Los requisitos que deberán cubrir quienes aspiren a los cargos de Consejera o Consejero Presidente y Consejera o Consejero Electoral del Organismo Público, son los siguientes:
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-a) Tener ciudadanía mexicana por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+a) Tener ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
@@ -527,7 +563,17 @@ i) No estar inhabilitada o inhabilitado para ejercer cargos públicos en cualqui
 
 j) No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno federal como de las entidades federativas, ni subsecretaria, subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni Gobernadora o Gobernador, ni Secretaria o Secretario de Gobierno o su equivalente a nivel local. No ser Presidenta o Presidente Municipal, Síndica o Síndico o Regidora o Regidor o titular de dependencia de los ayuntamientos.
 
-k) (DEROGADO, D.O.F. 29 DE AGOSTO DE 2017)
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+k) No haber sido persona condenada o sancionada mediante Resolución firme por violencia familiar y/o doméstica, o cualquier agresión de género en el ámbito privado o público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+l) No haber sido persona condenada o sancionada mediante Resolución firme por delitos sexuales, contra la libertad sexual o la intimidad corporal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+m) No estar inscrita o tener registro vigente como persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda ante las instancias que así correspondan.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -547,7 +593,9 @@ Artículo 11
 
 1. Las y los ciudadanos interesados en participar en el procedimiento de selección y designación, realizarán el registro en línea, conforme a lo siguiente:
 
-Deberán capturar la información solicitada a través de los formatos habilitados en el Sistema de Registro. Una vez completados, deberán imprimirlos, firmarlos, escanearlos y remitirlos a la dirección electrónica establecida en la Convocatoria, adjuntando, cuando menos, la documentación siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+Deberán capturar la información solicitada a través de los formatos habilitados en el Sistema de Registro. Una vez completados, deberán imprimirlos, firmarlos, escanearlos y remitirlos o realizar la carga en el sistema en términos de la convocatoria, adjuntando, cuando menos, la documentación siguiente:
 
 a) Copia certificada del acta de nacimiento;
 
@@ -563,7 +611,9 @@ d) Curriculum vitae firmado por la o el aspirante, el cual deberá contener, ent
 
 e) Carta con firma autógrafa en la que la o el aspirante manifieste bajo protesta de decir verdad:
 
-i. Tener ciudadanía mexicana por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+i. Tener ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
 
 ii. No haber sido condenada o condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
@@ -577,21 +627,27 @@ vi. No haberse desempeñado durante los cuatro años previos a la designación c
 
 vii. No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni Gobernadora o Gobernador, ni Secretaria o Secretario de Gobierno o su equivalente a nivel local;
 
-viii. No ser jefe o jefa delegacional, presidenta o presidente municipal, síndica o síndico o regidora o regidor o titular de dependencia de los ayuntamientos; y
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+viii. No ser Jefe o Jefa delegacional, presidenta o presidente municipal, síndica o síndico o regidora o regidor o titular de dependencia de los ayuntamientos; y
 
 ix. La aceptación de concluir todo empleo, cargo o comisión en caso de ser designado como Consejero Presidente o Consejero Electoral.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-2. A solicitud expresa de un o una aspirante que con motivo de alguna convocatoria anterior hubiera presentado originales o copias certificadas del acta de nacimiento, título o cédula profesional señalados en los incisos a) y c) del presente numeral, y los mismos obraran en los archivos del Instituto, se ubicará en una situación de excepción para exhibirlos, una vez que la Unidad Técnica de Vinculación verifique su resguardo documental e idoneidad. En todo caso, dicha documentación quedará integrada en el expediente específico del procedimiento de designación que se encuentre en curso.
+x. Formato 3 de 3 contra la violencia política, respectivo a las personas que aspiran al cargo de consejera o consejero electoral de los Organismos Públicos Locales.
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+2. A solicitud expresa de un o una aspirante que con motivo de alguna convocatoria anterior hubiera presentado originales o copias certificadas del acta de nacimiento, título o cédula profesional señalados en los incisos a) y c) del presente numeral, y los mismos obraran en los archivos del Instituto, se ubicará en una situación de excepción para exhibirlos, una vez que la Unidad Técnica de Vinculación realice la compulsa con los que tiene en su resguardo documental y verifique su idoneidad. En todo caso, dicha documentación quedará integrada en el expediente específico del procedimiento de designación que se encuentre en curso.
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
 3. La información y documentación que con motivo del procedimiento de selección se proporcione al Instituto, deberá ser veraz y auténtica. De no ser así, el aspirante no podrá continuar en el procedimiento de selección.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-4. Una vez recibida la documentación proporcionada por las y los aspirantes a través del Registro en línea, la Unidad de Vinculación la revisará y la cargará en el Sistema de Registro para generar el acuse de recepción con la descripción de la información y documentación enviada al Instituto, así como el folio de cada aspirante.
+4. Una vez recibida la documentación proporcionada por las y los aspirantes a través del Registro en línea, la Unidad de Vinculación la revisará en el Sistema de Registro para generar el acuse de recepción con la descripción de la información y documentación enviada al Instituto, así como el folio de cada aspirante.
 
 En caso de que durante la revisión y carga de la documentación enviada se detectaran inconsistencias o información faltante, la Unidad Técnica realizará el requerimiento correspondiente.
 
@@ -611,7 +667,9 @@ b) Capturarán el contenido de cada uno de los expedientes en el formato electr�
 
 c) El registro de las y los aspirantes podrá ser consultado en todo momento por las y los Consejeros Electorales del Consejo General.
 
-d) Revisar que los aspirantes exhiban la totalidad de los documentos exigidos por la convocatoria, de conformidad con el artículo 11 numeral 1 del presente Reglamento y llevar a cabo el cotejo documental o compulsa a que se refiere el artículo 5, párrafo 1, fracción III, inciso d) del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+d) Revisar que los aspirantes exhiban la totalidad de los documentos exigidos por la convocatoria, de conformidad con el artículo 11 numeral 1 del presente Reglamento y llevar a cabo el cotejo documental a que se refiere el artículo 5, párrafo 1, fracción III, inciso d) del presente Reglamento.
 
 e) Los expedientes digitales, les serán entregados en medio magnético a las y los Consejeros Electorales integrantes del Consejo General.
 
@@ -685,15 +743,21 @@ Artículo 18
 
 7. La Comisión de Vinculación ordenará la publicación de los nombres y calificaciones de las y los aspirantes que acceden a la siguiente etapa, así como los folios y calificaciones de las y los que no pasen, garantizando la paridad de género en la conformación de las listas de las y los aspirantes que accedan a dicha etapa, para lo que elaborará listas diferenciadas de hombres y mujeres que hayan aprobado el examen de conocimientos, procurando el mismo número de aspirantes por cada género. Las calificaciones aprobatorias serán públicas.
 
-8. Las y los aspirantes que acrediten el examen y accedan a la etapa de ensayo, deberán acudir a la Junta Local Ejecutiva que corresponda, conforme al procedimiento establecido en la Convocatoria, para realizar, en su caso, el Cotejo documental, exhibiendo la documentación original que enviaron con su solicitud. De no ser así, la o el aspirante, no podrá continuar en el procedimiento de selección.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-9. Las Juntas Locales serán responsables de integrar los documentos y expedientes de cada aspirante que acredite el examen de conocimientos y que deberá presentarse a realizar el cotejo documental, debiendo reportar su contenido a la Unidad de Vinculación, considerando los puntos siguientes:
+8. Las y los aspirantes que acrediten el examen y accedan a la etapa de ensayo, deberán exhibir la documentación original que enviaron con motivo de su solicitud de registro, para realizar, en su caso, el cotejo documental, conforme al procedimiento que previamente sea establecido en la Convocatoria. De no ser así, la persona aspirante no podrá continuar en el procedimiento de selección.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+9. Las Juntas Locales serán responsables de integrar los documentos y expedientes de cada aspiranteque (sic) acredite el examen de conocimientos y que realice el cotejo documental, debiendo reportar su contenido a la Unidad de Vinculación, considerando los puntos siguientes:
 
 a) Durante el cotejo documental, integrarán los expedientes correspondientes.
 
 b) Capturarán el contenido de la documentación recibida, en el formato que se diseñe para tal efecto.
 
-c) Revisarán que cada aspirante exhiba la totalidad de los documentos exigidos por la convocatoria, de conformidad con el artículo 11 numeral 1 del presente Reglamento y llevarán a cabo el cotejo documental o compulsa a que se refiere el artículo 5, párrafo 1, fracción III, inciso d) del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+c) Revisarán que cada aspirante exhiba la totalidad de los documentos exigidos por la convocatoria, de conformidad con el artículo 11 numeral 1 del presente Reglamento y llevarán a cabo el cotejo documental a que se refiere el artículo 5, párrafo 1, fracción III, inciso d) del presente Reglamento.
 
 d) Listarán a las y los aspirantes que realizaron el cotejo documental, señalando las inconsistencias u omisiones en los documentos presentados, las cuales serán puestas a consideración de la Comisión de Vinculación. La Unidad Técnica realizará los requerimientos correspondientes para la debida integración del expediente físico.
 
@@ -703,23 +767,25 @@ f) La o el Secretario Técnico de la Comisión de Vinculación resguardará los 
 
 g) La información y documentación que integre los expedientes individuales de las y los aspirantes que por su naturaleza sea confidencial, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y el Reglamento del Instituto en materia de Transparencia y Acceso a la Información Pública, no podrá tener otro fin que el previsto en el procedimiento objeto del presente capítulo, ni ser utilizada o difundida salvo que medie el consentimiento expreso de la o el titular.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-### Capítulo VI. Del ensayo presencial
+### Capítulo VI. Del ensayo
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
 Artículo 19
 
-1. Las y los aspirantes que aprueben la verificación de requisitos legales y el examen de conocimientos, elaborarán un ensayo en forma presencial, cuya evaluación será tomada en cuenta en los términos que se establezcan en la Convocatoria respectiva.
+1. Las y los aspirantes que aprueben la verificación de requisitos legales y el examen de conocimientos, elaborarán un ensayo, cuya evaluación será tomada en cuenta en los términos que se establezcan en la Convocatoria respectiva.
 
-2. El Consejo General, a petición de la Comisión de Vinculación, podrá pedir a una institución de educación superior, de investigación o evaluación, el diseño, elaboración, la aplicación y calificación de los ensayos presenciales que elaboren las y los aspirantes. Los criterios para la dictaminación del ensayo presencial deberán hacerse públicos.
+2. El Consejo General, a petición de la Comisión de Vinculación, podrá pedir a una institución de educación superior, de investigación o evaluación, el diseño, elaboración, la aplicación y calificación de los ensayos que elaboren las y los aspirantes. Los criterios para la dictaminación del ensayo deberán hacerse públicos.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
 Artículo 20
 
-1. La Convocatoria establecerá los términos en que la Comisión de Vinculación debe publicitar la sede, fecha y horario en que deba aplicarse el ensayo presencial.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+1. La Convocatoria establecerá los términos en que la Comisión de Vinculación debe publicitar la sede, fecha y horario en que deba aplicarse el ensayo.
 
 2. El ensayo consistirá en un escrito que explique y analice un fenómeno específico de la práctica electoral en los términos que se señale en los Lineamientos que al efecto apruebe el Consejo General, toda vez que se pretende que cada aspirante evidencie su capacidad para construir un argumento con estructura lógica y ordenada.
 
@@ -761,13 +827,15 @@ Artículo 22
 
 4. El Consejo General, a propuesta de la Comisión de Vinculación, aprobará los criterios a evaluar en esta etapa y la ponderación que corresponda a cada uno de ellos, así como la cédula que se empleará para este propósito.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
 
-5. La Comisión de Vinculación garantizará la paridad de género en la conformación de las listas de las y los aspirantes que accedan a dicha etapa, para lo que elaborará listas diferenciadas de hombres y mujeres cuyo ensayo presencial haya sido dictaminado como idóneo, procurando el mismo número de aspirantes por cada género.
+5. La Comisión de Vinculación garantizará la paridad de género en la conformación de las listas de las y los aspirantes que accedan a dicha etapa, para lo que elaborará listas diferenciadas de hombres y mujeres cuyo ensayo haya sido dictaminado como idóneo, procurando el mismo número de aspirantes por cada género.
 
 6. Las entrevistas se realizarán conforme al calendario que previamente apruebe la Comisión de Vinculación.
 
-7. Las entrevistas serán transmitidas en tiempo real en el portal del Instituto, serán grabadas en video, y estarán disponibles en el portal de Internet del Instituto.
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2021)</small>
+
+7. Las entrevistas serán grabadas íntegramente en video y, una vez que todas hayan concluido, estarán disponibles en el portal de Internet del Instituto, para que sean consultadas por quien así lo desee.
 
 8. La entrevista será presencial, se realizará en panel con al menos tres Consejeros Electorales del Consejo General y, excepcionalmente, previa causa justificada y conforme a su valoración, podrá ser virtual, a través de una transmisión y recepción simultánea de audio y video mediante el uso de tecnologías de la información.
 
@@ -1300,6 +1368,18 @@ D.O.F. 22 DE JUNIO DE 2020.
 > <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES”.]</small>
 
 PRIMERO. Se aprueba la modificación del Reglamento conforme al cuadro del considerando 29 del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad Técnica haga del conocimiento de los órganos máximos de dirección de los OPL el contenido del presente Acuerdo.
+
+TERCERO. Publíquese el presente Acuerdo y el Reglamento, en el Diario Oficial de la Federación.
+
+CUARTO. La presente modificación al Reglamento entrará en vigor el día de su aprobación.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES”.]</small>
+
+PRIMERO. Se aprueba el presente Acuerdo por el que se modifica el Reglamento conforme al Considerando 25 del presente Acuerdo.
 
 SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad Técnica haga del conocimiento de los órganos máximos de dirección de los OPL el contenido del presente Acuerdo.
 
