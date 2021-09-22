@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2021-09-20"
+last_updated: "2021-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -779,7 +779,9 @@ Se realizarán actividades permanentes de vigilancia epidemiológica, de prevenc
 
 I. Cólera, fiebre tifoidea, paratifoidea, shigellosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
 
-II. Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+
+II. Influenza epidémica, coronavirus (COVID-19), otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
 
 III. Tuberculosis;
 
@@ -835,7 +837,9 @@ I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamen
 
 II. Inmediatamente, en los casos de cualquiera enfermedad que se presente en forma de brote o epidemia;
 
-III. Dentro de las veinticuatro horas, en los casos individuales de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+
+III. Dentro de las veinticuatro horas, en los casos individuales de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, coronavirus (COVID-19), paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos;
 
 IV. Inmediatamente, de los casos en que se detecte la presencia del virus de la Inmunodeficiencia Humana (VIH) o de anticuerpos de dicho virus, en alguna persona; y
 
@@ -3524,3 +3528,9 @@ P.O. 20 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. La Secretaría de Salud y la Secretaría de Educación Pública y Cultura, deberán armonizar sus Reglamentos respectivos, para dar cumplimiento al presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 674 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 49 Y LA FRACCIÓN III, DEL 53 A LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
