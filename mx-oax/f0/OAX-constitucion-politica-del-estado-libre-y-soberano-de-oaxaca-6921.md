@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-09-18"
+last_updated: "2021-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2903,15 +2903,13 @@ Para nombrar a las personas que ocuparán las magistraturas del Tribunal Superio
 
 El Consejo de la Judicatura certificará el cumplimiento de los requisitos de ley y aplicará los exámenes de oposición. Una vez concluidos éstos, remitirá al Gobernador del Estado una lista que contenga ocho candidatos, de los cuales el Gobernador enviará una terna al Congreso del Estado para que elija a quien debe ser Magistrado.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 2670 PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2021, PÁGINAS 1 Y 2, EN LO QUE SE REFIERE A LA REFORMA DEL PÁRRAFO TERCERO, QUEDANDO PUBLICADA EN SU LUGAR LA SIGUIENTE NOTA.]</small>
 
-La elección se hará por el voto de las dos terceras partes de los diputados del Congreso del Estado que se hallen presentes, dentro del improrrogable plazo de veinte días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
+(OBSERVADO POR EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, POR OFICIO GEO/028/2021, FECHADO EL 21 DE SEPTIEMBRE DE 2021, DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS 53 FRACCIÓN III Y 79 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA).
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
-
-En caso de que el Congreso del Estado rechace la terna propuesta, ocupará el cargo la persona que habiendo aparecido en la lista elaborada por el Consejo de la Judicatura designe el Gobernador del Estado.
+En caso de que el Congreso del Estado rechace la terna propuesta, el titular del ejecutivo enviará otra, de la lista elaborada por el Consejo de la Judicatura.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
@@ -3375,7 +3373,7 @@ C. EL ÓRGANO GARANTE DE ACCESO A LA INFORMACIÓN PÚBLICA, TRANSPARENCIA, PROTE
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
+Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -3383,7 +3381,7 @@ Sesionará colegiadamente y públicamente, se regirá por los principios de cert
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
+Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
 
 El nombramiento podrá ser objetado por el Gobernador del Estado, en un plazo de diez días hábiles. Si el Gobernador no objetare el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado, la persona nombrada por el Congreso del Estado.
 
@@ -5958,3 +5956,13 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS ”PARTES NO VETADAS.- DEL DECRETO 2670 POR EL QUE SE REFORMAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 102 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Quedan derogadas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
