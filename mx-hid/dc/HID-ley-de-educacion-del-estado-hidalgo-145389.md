@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2020-11-30"
+last_updated: "2021-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -1401,6 +1401,10 @@ El gobierno del Estado de Hidalgo, de conformidad con las disposiciones aplicabl
 
 El gobierno del Estado de Hidalgo en todo momento procurará fortalecer las fuentes de financiamiento a la tarea educativa y destinar recursos presupuestarios crecientes, en términos reales, para la educación pública, para lo cual el Gobierno del Estado de Hidalgo, con sujeción a las disposiciones de ingreso y gasto público correspondientes que resulten aplicables, concurrirá al financiamiento de la educación pública y de los servicios educativos en términos de lo dispuesto en el artículo 119 de la Ley General de Educación que establece que el monto anual en términos de la ley que el Estado destine al financiamiento en educación pública y en los servicios educativos garantizando la accesibilidad y la gratuidad en la educación, no podrá ser menor al equivalente del 8% del producto interno bruto del país. De este monto, se destinará al menos el 1 % del producto interno bruto al gasto para la educación superior y la investigación científica y humanística, así como al desarrollo tecnológico y la innovación en las instituciones públicas de educación superior.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+
+Los recursos presupuestales aprobados por el Congreso del Estado para el desarrollo de las funciones de las instituciones públicas de educación media superior y superior, no podrán ser inferiores a los otorgados en el ejercicio inmediato anterior, de conformidad con lo establecido por los artículos 62 de la Ley General de Educación Superior, y 119 de la Ley General de Educación.
+
 ###### Artículo 124.
 
 La Secretaría incluirá en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer las capacidades de la administración escolar. Los programas para tal efecto responderán a los lineamientos que emita la Autoridad Educativa Federal.
@@ -2100,3 +2104,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 779 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 123 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo”.]
