@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2021-01-18"
+last_updated: "2021-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -285,53 +285,9 @@ IV. Adjudicación Directa.
 
 Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria abierta de la Secretaría o el Comité Municipal respectivo, para que libremente se presenten proposiciones solventes en pliego o sobre cerrado, que será abierto públicamente, con el fin de procurar imparcialidad a los licitantes y de asegurar al Estado y a los Municipios las mejores condiciones disponibles en cuanto a oferta, precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2020)</small>
-
 ###### ARTÍCULO 16 Bis.
 
-En las licitaciones públicas, cuyo monto rebase el equivalente a ciento veinte mil unidades de medida y actualización vigente en la entidad y en aquellos casos que determine la Secretaría de la Función Pública, atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad, participarán testigos sociales conforme a lo siguiente:
-
-I. La Secretaría de la Función Pública y en su caso las Contralorías municipales, tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta Ley, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad y se integrará al expediente respectivo.
-
-II. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por la Secretaría de la Función Pública o en su caso por la Contraloría municipal.
-
-III. La Secretaría de la Función Pública, o la Contraloría municipal, acreditará como testigos sociales a aquellas personas que cumplan con los siguientes requisitos:
-
-a) Ser ciudadano poblano en ejercicio de sus derechos, o extranjero cuya situación migratoria permita la función a desarrollar;
-
-b) Cuando se trate de una organización no gubernamental, acreditar que se encuentra constituida conforme a las disposiciones legales aplicables y que no persigue fines de lucro;
-
-(NOTA: EL 31 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2020, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-c) NO HABER SIDO SENTENCIADO CON PENA PRIVATIVA DE LIBERTAD;
-
-d) No ser servidor público en activo. Asimismo, no haber sido servidor público federal, del estado o de algún municipio de la entidad durante al menos un año previo a la fecha en que se presente su solicitud para ser acreditado;
-
-(NOTA: EL 31 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2020, DECLARÓ LA INVALIDEZ DEL INCISO e) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-e) NO HABER SIDO SANCIONADO COMO SERVIDOR PÚBLICO YA SEA FEDERAL, ESTATAL, MUNICIPAL O POR AUTORIDAD COMPETENTE EN EL EXTRANJERO;
-
-f) Presentar currículo en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso, docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
-
-g) Asistir a los cursos de capacitación que imparte la Secretaría de la Función Pública o la Contraloría Municipal sobre esta Ley, y
-
-h) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar.
-
-IV. Los testigos sociales tendrán las funciones siguientes:
-
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
-
-a) Proponer a las dependencias, entidades, a la Secretaría de la Función Pública o en su caso a la Contraloría Municipal mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
-
-b) Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones, y
-
-c) Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Secretaría de la Función Pública o a la Contraloría municipal. Dicho testimonio deberá ser publicado dentro de los diez días naturales siguientes a su participación en la página de Internet de la dependencia, entidad o municipio que corresponda.
-
-En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al área de quejas del órgano interno de control de la dependencia, entidad o municipio convocante y a la Comisión General Inspectora de la Auditoría Superior del Estado de Puebla del Honorable Congreso del Estado Libre y Soberano de Puebla.
-
-Se podrá exceptuar la participación de los testigos sociales en aquéllos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad pública, en los términos de las disposiciones legales aplicables.
-
-El Reglamento de esta Ley especificará los montos de la contraprestación al testigo social en función de la importancia y del presupuesto asignado a la contratación.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2021)
 
 SECCIÓN DOS: EXCEPCIONES AL PROCEDIMIENTO DE LICITACIÓN PÚBLICA
 
@@ -2442,3 +2398,11 @@ P.O. 18 DE ENERO DE 2021.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA EL ARTÍCULO 16 BIS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL; ASÍ MISMO DEROGA EL ARTÍCULO 42 BIS DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
