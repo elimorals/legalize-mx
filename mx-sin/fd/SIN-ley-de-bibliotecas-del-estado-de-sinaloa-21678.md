@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-bibliotecas-del-estado-de-sinaloa-21678"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-18"
-last_updated: "2019-12-27"
+last_updated: "2021-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el día 18 de mayo de 2001.
 
@@ -92,6 +92,14 @@ IX. Secretaría: Secretaría de Educación Pública y Cultura del Estado;
 X. Sistema: Sistema Estatal de Bibliotecas;
 
 XI. Usuario: Persona beneficiaria de los servicios de consulta y préstamo bibliotecarios.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 2 Bis.
+
+El Titular del Poder Ejecutivo al remitir al Congreso del Estado la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, para el Ejercicio Fiscal del año correspondiente, deberá establecer asignaciones específicas destinadas a las bibliotecas públicas, mismas que no podrán ser inferiores a las asignadas en el presupuesto inmediato anterior.
+
+Las mismas previsiones deberán ser consideradas por los Ayuntamientos en sus correspondientes Presupuestos de Egresos.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
@@ -211,23 +219,29 @@ I. Un Presidente que será el titular de la Secretaría;
 
 II. Un Secretario Ejecutivo, que será el titular del ISIC;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
 
-III. Un vocal, que será el titular del área del ISIC que tenga a su cargo ejecutar los programas en materia de bibliotecas; y
+III. Un vocal, que será el titular del área del ISIC que tenga a su cargo ejecutar los programas en materia de bibliotecas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+
+IV. El Presidente de la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales del Congreso del Estado, como vocal; y
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Hasta nueve vocales invitados a participar por el Presidente del Consejo, conforme a los siguientes criterios de representación:
+V. Hasta nueve vocales invitados a participar por el Presidente del Consejo, conforme a los siguientes criterios de representación:
 
-a).- Un representante de las instituciones educativas de nivel básico;
+a) Un representante de las instituciones educativas de nivel básico;
 
-b).- Tres representantes de las instituciones educativas de nivel medio superior; entre las que se incluirán al Colegio de Bachilleres del Estado de Sinaloa y a la Universidad Autónoma de Sinaloa;
+b) Tres representantes de las instituciones educativas de nivel medio superior; entre las que se incluirán al Colegio de Bachilleres del Estado de Sinaloa y a la Universidad Autónoma de Sinaloa;
 
-c).- Tres representantes de las instituciones educativas de nivel superior; entre las que se incluirán la Universidad Autónoma de Sinaloa y la Universidad de Occidente;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
 
-d).- Un representante de los Municipios del Estado; y
+c) Tres representantes de las instituciones educativas de nivel superior; entre las que se incluirán la Universidad Autónoma de Sinaloa y la Universidad Autónoma de Occidente;
 
-e).- Un representante de los profesionales de la bibliotecología de la entidad.
+d) Un representante de los Municipios del Estado; y
+
+e) Un representante de los profesionales de la Bibliotecología de la entidad.
 
 ###### Artículo 10.
 
@@ -352,3 +366,9 @@ P.O. 27 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 359 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 1 BIS DE LA LEY DE BIBLIOTECAS DEL ESTADO DE SINALOA".]
 
 ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 660 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BIBLIOTECAS DEL ESTADO DE SINALOA”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
