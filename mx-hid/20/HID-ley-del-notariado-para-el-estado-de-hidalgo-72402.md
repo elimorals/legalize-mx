@@ -4,7 +4,7 @@ identifier: "HID-ley-del-notariado-para-el-estado-de-hidalgo-72402"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2016-12-31"
+last_updated: "2021-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 25 de enero de 2010.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo D E C R E T A:
 
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR El SIGUIENTE:
 
@@ -273,11 +275,13 @@ Los Notarios Públicos tendrán derecho a cobrar a los interesados en cada caso,
 
 Asimismo, cuando las Leyes así lo dispongan, calcularan, retendrán y enteraran bajo su responsabilidad solidaria por cuenta de los interesados, los impuestos y derechos que cada caso genere.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-Cuando una notaría estuviere vacante o se resolviere crear una o más, el Poder Ejecutivo publicará convocatorias para que los aspirantes al ejercicio del notariado presenten el examen de oposición correspondiente. Esta convocatoria será publicada por una sola vez en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación.
+Cuando una notaría estuviere vacante o se resolviere crear una o más, el Poder Ejecutivo publicará convocatorias para que los aspirantes al ejercicio del notariado presenten el examen de oposición correspondiente. Esta convocatoria será publicada por una sola vez en el Periódico Oficial del Estado y por dos veces consecutivas con intervalos de tres días en uno de los periódicos de mayor circulación en el Estado.
 
-En un plazo de treinta días hábiles contados a partir de la fecha de la última publicación, los aspirantes deberán acudir ante la Secretaría, a presentar su solicitud para ser admitidos al examen de oposición.
+Dicha convocatoria deberá contener por lo menos los siguientes requisitos: Señalar las fechas, horarios y lugar, relativos al inicio y término del periodo de inscripción al examen. En ningún caso el periodo de inscripción excederá de treinta días hábiles, contados a partir de la última publicación de la convocatoria, así como indicar el número de las notarías vacantes y justificar las de nueva creación.
 
 ###### ARTÍCULO 24.
 
@@ -1559,9 +1563,11 @@ XXIII.- Adquirir los bienes muebles e inmuebles necesarios para el logro de sus 
 
 XXIV.- Las demás que prevengan esta Ley y otras disposiciones relativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 168.
 
-La Asamblea de Notarios regirá las decisiones del Colegio. En ella todos los Notarios Públicos Titulares y Adscritos en ejercicio por licencia del Titular tendrán voz y voto.
+La Asamblea de Notarios regirá las decisiones del Colegio. En ella todos los Notarios Públicos Titulares tendrán voz y voto, en su ausencia, podrá ser ejercido por los Notarios Adscritos previa autorización del Notario Titular.
 
 Para que se considere legalmente reunida y válidas sus decisiones deberán estar presentes la mitad más uno de sus miembros. Tratándose de enajenación de bienes inmuebles deberán estar presentes las dos terceras partes de sus integrantes.
 
@@ -2006,3 +2012,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 22 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 782 QUE REFORMA EL ARTÍCULO 23 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 168, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
