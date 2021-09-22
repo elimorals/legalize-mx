@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-12960
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-30"
-last_updated: "2021-06-23"
+last_updated: "2021-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129609&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-07-18"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2021.
 
 Estatuto publicado en la Segunda Sección al Número 21 del Diario Oficial de la Federación, el lunes 30 de julio de 2018.
 
@@ -555,11 +555,19 @@ XIII. Presentar al Consejo políticas y dirigir las acciones relacionadas con la
 
 XIV. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales, y
 
-> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+XIV BIS. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2021)
 
-XIV BIS. Coordinar las acciones necesarias para la recuperación de la cartera extrajudicial y judicial de la Financiera.
+> <small>(ADICIONADA, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
-XV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo.
+XV. Coordinar al interior de la Financiera la implementación de acciones para atender las iniciativas legislativas y puntos de acuerdo de las cámaras con temas relacionados al sector agropecuario, rural, forestal y pesquero, así como proponer las estrategias de vinculación interinstitucional de las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Coordinar las acciones necesarias para la recuperación de la cartera extrajudicial y judicial de la Financiera;
+
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Llevar a cabo las demás actividades que, dentro del ámbito de su competencia, deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo.
 
 ###### ARTÍCULO 24.
 
@@ -577,9 +585,9 @@ IV. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en las fu
 
 V. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Supervisar la elaboración y revisión y, en su caso, validar los contratos, convenios e instrumentos jurídicos análogos que presenten las diferentes áreas de la Financiera en materia de crédito, fiduciaria, mandatos y comisiones, así como en los que se establezca la coordinación con dependencias y entidades de la administración pública y bases de licitación y demás actos jurídicos que celebre la Financiera y, en su caso, las Coordinaciones Regionales, verificando que se apeguen a los lineamientos y políticas establecidas;
+VI. Supervisar la elaboración y revisión y, en su caso, validar los contratos, convenios e instrumentos jurídicos análogos que presenten las diferentes áreas de la Financiera en materia de crédito, así como en los que se establezca la coordinación con dependencias y entidades de la administración pública y bases de licitación y demás actos jurídicos que celebre la Financiera y, en su caso, las Coordinaciones Regionales verificando que se apeguen a los lineamientos y políticas establecidas.
 
 VII. Dirigir las acciones jurídico corporativas tendientes a la rendición de los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México;
 
@@ -615,9 +623,9 @@ VI. Llevar a cabo las demás actividades dentro del área de su competencia, que
 
 Corresponde a la Subdirección Corporativa Jurídica de Crédito y Apoyo a Órganos Colegiados:
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
-I. Coordinar la opinión, y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia de crédito, fiduciaria y, en su caso, emitir la validación correspondiente a dichos actos;
+I. Coordinar la opinión, y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia de crédito y, en su caso, emitir la validación correspondiente a dichos actos.
 
 II. Validar y supervisar la elaboración de los modelos de convenios y contratos en materia de crédito, verificando que los mismos se apeguen a los lineamientos y políticas establecidas;
 
@@ -653,45 +661,13 @@ VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 28.
-
-Corresponde a la Subdirección Corporativa Fiduciaria:
-
-I. Proponer lineamientos para el desarrollo de la actividad relacionada con fideicomisos, mandatos, comisiones y avalúos en la Financiera;
-
-II. Proponer lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones y de avalúos;
-
-III. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, de avalúos, mandatos y comisiones;
-
-IV. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de avalúos, mandatos y comisiones;
-
-V. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
-
-VI. Supervisar la ejecución de las disposiciones de la Comisión en materia de fideicomisos, mandatos, comisiones y avalúos;
-
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
-
-VII. Realizar la administración de los bienes y derechos que se vinculen con fideicomisos, mandatos y comisiones que le sean encomendadas;
-
-VIII. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones;
-
-IX. Desarrollar procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos, comisiones y avalúos;
-
-X. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos;
-
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
-
-XI. Proponer a la Dirección General Adjunta Jurídica y Fiduciaria procesos y procedimientos para el desarrollo de los negocios fiduciario y de avalúos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo, y
-
-XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
-
-###### ARTÍCULO 29.
 
 Corresponde a la Subdirección Corporativa Jurídica de Normatividad y Consulta:
 
 I. Supervisar y evaluar el desarrollo del análisis, interpretación y consulta de leyes, reglamentos, decretos y, demás disposiciones legales y administrativas aplicables;
-
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
 II. Supervisar la revisión, opinión y dictaminación de contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado; así como bases de licitación y demás actos jurídicos que celebre la Financiera y, en su caso, las Coordinaciones Regionales, verificando que se apeguen a los lineamientos y políticas establecidas;
 
@@ -707,27 +683,65 @@ VII. Proporcionar el apoyo jurídico a las diversas unidades administrativas de 
 
 VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Financiera para rendir los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México, y
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
-
 IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 29.
+
+Corresponde a la Dirección Ejecutiva Fiduciaria y de Avalúos:
+
+I. Establecer y emitir las estrategias de contratación que deberán ser aplicables a los negocios fiduciarios y de avalúos, con el propósito de dar cumplimiento a los objetivos establecidos en los lineamientos y políticas, autorizadas por el Consejo Directivo.
+
+II. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios fiduciarios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con las Direcciones Generales Adjuntas o áreas competentes;
+
+III. Desarrollar los proyectos de negocios fiduciarios y de avalúos, que se encuentren vinculados al fortalecimiento del sector agropecuario, rural, forestal y pesquero, mediante la promoción de estrategias de negocios para la mejora continua;
+
+IV. Suscribir en su carácter de Delegado Fiduciario, los contratos, convenios modificatorios, de extinción y sustitución fiduciaria, en representación de la Financiera, apegándose en todo momento a la normatividad aplicable;
+
+V. Dirigir las relaciones institucionales con los clientes de los negocios fiduciarios y de avalúos, así como establecer los procesos de contratación y administración correspondientes, de acuerdo a la normatividad aplicable, con el propósito de dar cumplimiento a los requerimientos y niveles del servicio requerido;
+
+VI. Dirigir y supervisar la formalización, los mecanismos de control y seguimiento de los negocios fiduciarios y de avalúos, mediante el análisis de los indicadores de gestión, a fin de que se apeguen a la normatividad y niveles de servicio aplicable;
+
+VII. Dirigir y supervisar la actualización de los manuales y políticas fiduciarias y de avalúos conforme a lo establecido en la normatividad aplicable;
+
+VIII. Participar, en los Comités, Subcomités, Grupos de Trabajo Institucional, con el fin de establecer los acuerdos que emanen y correspondan a la Dirección Ejecutiva Fiduciaria y de Avalúos;
+
+IX. Dirigir y vigilar la correcta aplicación de las políticas, lineamientos y demás normatividad aplicable en materia Fiduciaria y de Avalúos;
+
+X. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 30.
 
-Corresponde a la Dirección Ejecutiva de Desarrollo y Vinculación del Negocio:
+Corresponde a la Subdirección Corporativa Fiduciaria y de Avalúos:
 
-I. Proponer la política de relaciones interinstitucionales con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como el sector privado y social para operar los programas que se celebren con instituciones orientadas a la inversión y financiamiento;
+I. Proponer lineamientos para el desarrollo de la actividad relacionada con fideicomisos, mandatos, comisiones y avalúos en la Financiera;
 
-II. Coordinar al interior de la Financiera la implementación de acciones para atender las iniciativas legislativas y puntos de acuerdo de las cámaras con temas relacionados al sector agropecuario, rural, forestal y pesquero, así como proponer las estrategias de vinculación interinstitucional de las mismas;
+II. Proponer lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones y de avalúos;
 
-III. Coordinar y facilitar reuniones de los directivos de la Financiera con las autoridades de los gobiernos estatales y municipales, con los representantes de las distintas organizaciones vinculadas a los sectores agropecuario, rural, forestal y, pesquero, instituciones académicas, empresas y organismos, con el propósito de establecer acuerdos o convenios que impulsen el desarrollo de dichos sectores nacionales;
+III. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, de avalúos, mandatos y comisiones;
 
-IV. Proponer actividades que propicien la generación de vínculos estratégicos, de cooperación, intercambio de información, experiencias y tecnología con entidades nacionales e internacionales relacionadas con el financiamiento agropecuario, rural, forestal y pesquero;
+IV. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de avalúos, mandatos y comisiones;
 
-V. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero para identificar tendencias y perspectivas de los mismos, en cuanto a demanda de productos de dichos sectores nacionales, así como la aplicación de las mejores prácticas en el tema en coordinación con las Direcciones Generales Adjuntas o áreas competentes;
+V. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
 
-VI. Diseñar y proponer estrategias de participación de la Financiera en foros, eventos, convenios e iniciativas de cooperación para promover la participación de instituciones y organismos en proyectos productivos que fortalezcan el desarrollo del sector agropecuario, rural, forestal y pesquero mexicano, así como dar seguimiento al cumplimiento de las obligaciones que de ellos se derive, y
+VI. Supervisar la ejecución de las disposiciones de la Comisión en materia de fideicomisos, mandatos, comisiones y avalúos;
 
-VII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+VII. Realizar la administración de los bienes y derechos que se vinculen con fideicomisos, mandatos y comisiones que le sean encomendadas;
+
+VIII. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones;
+
+IX. Desarrollar procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos, comisiones y avalúos;
+
+X. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos;
+
+XI. Proponer a la Dirección General Adjunta Jurídica y Fiduciaria procesos y procedimientos para el desarrollo de los negocios fiduciario y de avalúos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+XII. Coordinar la opinión y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia fiduciaria, mandatos y comisiones, así como en materia de avalúos y, en su caso emitir la validación correspondiente a dichos actos; y
+
+XIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Fiduciario y de Avalúos.
 
 ###### ARTÍCULO 31.
 
@@ -1015,7 +1029,9 @@ IV. Proporcionar apoyos y servicios de promoción, capacitación, consultoría y
 
 V. Coadyuvar con la Dirección General Adjunta de Finanzas, Operaciones y Sistemas en el uso los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
 
-VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+> <small>(ADICIONADA, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Coordinar y facilitar reuniones de los directivos de la Financiera con las autoridades de los gobiernos estatales y municipales, con los representantes de las distintas organizaciones vinculadas a los sectores agropecuario, rural, forestal y pesquero, instituciones académicas, empresas y organismos, con el propósito de establecer acuerdos o convenios que impulsen el desarrollo de dichos sectores nacionales;
 
 VII. Establecer y dirigir el desarrollo de programas de detección de oportunidades de negocio en las zonas agropecuarias, rurales, forestales y pesqueras con el propósito de definir estrategias de promoción ante instituciones nacionales e internacionales orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural;
 
@@ -1061,7 +1077,17 @@ XX. Asegurar en el ámbito de su competencia, la preparación de la información
 
 XXI. Proponer al Director General de la Financiera, las medidas de ajuste que sean requeridas para asegurar el cumplimiento de los objetivos, metas y prioridades establecidas, y
 
-XXII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
+XXII. Diseñar y proponer estrategias de participación de la Financiera en foros, eventos, convenios e iniciativas de cooperación para promover la participación de instituciones y organismos en proyectos productivos que fortalezcan el desarrollo del sector agropecuario, rural, forestal y pesquero mexicano, así como dar seguimiento al cumplimiento de las obligaciones que de ellos se derive;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
+XXIII. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con las Direcciones Generales Adjuntas o áreas competentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+
+XXIV. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General.
 
 ###### ARTÍCULO 41.
 
@@ -1999,11 +2025,11 @@ III. Sinaloa, y
 
 IV. Sonora.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 71.
 
-La Coordinación Regional Norte tendrá como sede la Ciudad de Monterrey, Nuevo León y se adscriben a su competencia las siguientes entidades federativas:
+La Coordinación Regional Norte tendrá como sede la Ciudad de San Pedro Garza García, Nuevo León y se adscriben a su competencia las siguientes Entidades Federativas:
 
 I. Coahuila de Zaragoza;
 
@@ -2412,5 +2438,11 @@ PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en
 D.O.F. 23 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES DE DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
+
+PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
 
 PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
