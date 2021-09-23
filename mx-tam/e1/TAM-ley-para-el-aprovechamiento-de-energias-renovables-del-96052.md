@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-aprovechamiento-de-energias-renovables-del-96052"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-24"
-last_updated: "2018-06-12"
+last_updated: "2021-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA EL FOMENTO Y EL APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA EN EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 23 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de septiembre de 2013.
 
@@ -334,3 +336,27 @@ P.O. 12 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-818 MEDIANTE EL CUAL SE CREA LA LEY PARA EL FOMENTO Y EL APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para el Aprovechamiento de Energías Renovables del Estado de Tamaulipas, publicada en el Periódico Oficial del Estado de Tamaulipas No. 115 de fecha 24 de septiembre de 2013, así como sus subsecuentes reformas y las demás disposiciones que se opongan al presente ordenamiento. Las referencias hechas a la Ley para el Aprovechamiento de Energías Renovables del Estado de Tamaulipas, en otros ordenamientos jurídicos, deberán entenderse como realizadas a la Ley materia de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los siguientes 90 días hábiles a la entrada en vigor del presente Decreto, deberán realizarse las reformas o adiciones necesarias en la legislación estatal aplicable a fin de armonizarla con este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los siguientes 90 días hábiles a la entrada en vigor del presente Decreto, deberá de instalarse el Comité de Operatividad Energética.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los siguientes 120 días hábiles a la entrada en vigor del presente Decreto, el Comité deberá de presentar a la persona titular del Poder Ejecutivo del Estado el Programa de Fomento y Aprovechamiento Sustentable de la Energía para el Estado de Tamaulipas, mismo que deberá de ser aprobado por la persona titular del Poder Ejecutivo del Estado dentro de los siguientes 60 días hábiles en que le sea presentado.
