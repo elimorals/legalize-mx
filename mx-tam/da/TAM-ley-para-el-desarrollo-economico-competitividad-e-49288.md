@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2019-08-20"
+last_updated: "2021-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -120,6 +120,14 @@ V. Cadenas productivas: Conjunto de agentes y actividades económicas que interv
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
 VI. Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+VI BIS. Clústeres: Grupo de empresas pertenecientes a un mismo sector de la actividad económica, en una zona geográfica definida, constituidas como asociaciones civiles y reconocidas por la Secretaría, que forman agrupamientos empresariales estratégicos mediante un convenio de colaboración entre dicho grupo y la Secretaría;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+VI TER. Comité de Clústeres: Comité para el Desarrollo y Fortalecimiento de los Clústeres;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
@@ -757,11 +765,11 @@ La Secretaría podrá celebrar convenios de coordinación y colaboración con en
 
 ### CAPITULO IV. DEL OTORGAMIENTO DE ESTIMULOS A LA INVERSION PRODUCTIVA
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 18.
 
-El Consejo, el Comité y/o la Secretaría, podrán recomendar al Ejecutivo Estatal el otorgamiento de estímulos previstos en la presente Ley para apoyar la instalación y ampliación de empresas, atendiendo los siguientes rubros: generación de empleos directos e indirectos, generación de empleos verdes; contratación de estudiantes, personas adultas mayores y/o personas con capacidades diferentes; nivel salarial de los empleos generados; monto y origen de la inversión; inversión en tecnología; proveeduría a empresas del estado y/o el país; diversificación de mercados; prestaciones laborales a sus trabajadores; aplicación de programas de reciclaje; implementación de fuentes de energía renovables no contaminantes; ubicación en parques industriales o zonas de menor crecimiento económico.
+El Consejo, el Comité y/o la Secretaría, podrán recomendar al Ejecutivo Estatal el otorgamiento de estímulos previstos en la presente Ley para apoyar la instalación y ampliación de empresas, atendiendo los siguientes rubros: generación de empleos directos e indirectos; contratación de estudiantes, personas adultas mayores y/o personas con discapacidad; nivel salarial de los empleos generados; monto y origen de la inversión; inversión en tecnología; proveeduría a empresas del Estado y/o del país; diversificación de mercados; prestaciones laborales a sus trabajadores; aplicación de programas de reciclaje; implementación de fuentes de energía renovables no contaminantes; y ubicación en parques industriales o zonas de menor crecimiento económico.
 
 En la observancia de las disposiciones inherentes a los procedimientos para el otorgamiento de los estímulos aquí previstos, las autoridades competentes deberán proceder garantizando en lo conducente los principios de equidad e igualdad de género.
 
@@ -773,11 +781,17 @@ Los estímulos fiscales susceptibles de otorgarse a empresas que se instalen o a
 
 I. Subsidio total o parcial al pago de impuesto sobre remuneración al trabajo personal subordinado.
 
-II. Subsidio total o parcial del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de actas constitutivas de sociedades mercantiles, así como los aumentos de capital, cuyo objeto social contemple el desarrollo de actividades productivas.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-III. Subsidio total o parcial del pago por concepto de derechos de inscripción de contratos de crédito del Registro Público de la Propiedad Inmueble y del Comercio, de acuerdo a las prioridades del desarrollo o impacto social o económico que la empresa genere y que tenga como propósito instalar o ampliar la planta productiva.
+II. Subsidio total o parcial del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de las escrituras o pólizas constitutivas y de las relativas al aumento de capital social de sociedades mercantiles, civiles y asociaciones civiles cuyo objeto social contemple el desarrollo de actividades productivas.
 
-IV. Subsidio total o parcial del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de operaciones de compraventa de terrenos destinados a la construcción de conjunto (sic) habitacionales, plantas industriales y centros comerciales que tengan proyecto e inicien el desarrollo del mismo, en los doce meses posteriores a la fecha en que se realice la compraventa.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+III. Subsidio total o parcial del pago por concepto de derechos de inscripción de contratos de crédito e inscripción de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de actos jurídicos, en el Registro Público de la Propiedad Inmueble y del Comercio, de acuerdo a las prioridades del desarrollo o impacto social o económico que la empresa genere y que tenga como propósito instalar o ampliar la planta productiva.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Subsidio total o parcial del pago por concepto de derechos del Registro Público de la Propiedad Inmueble y del Comercio, de actos jurídicos mediante los cuales se adquiera, transmita, modifique o extinga el dominio, el uso, el goce o la posesión de terrenos destinados a la construcción de conjunto habitacionales, plantas industriales y centros comerciales que tengan proyecto e inicien el desarrollo del mismo, en los doce meses posteriores a la fecha en que se realice el acto jurídico.
 
 V. Subsidio total o parcial del pago por concepto de derechos por servicios de prevención y control de la contaminación del medio ambiente.
 
@@ -1157,6 +1171,84 @@ IV. Delinear planes de trabajo con agrupaciones civiles para la promoción de lo
 
 V. Impulsar la investigación sobre fuentes alternas de financiamiento para la construcción de infraestructura estratégica en materia de comercio exterior.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO IX BIS. DE LOS CLÚSTERES
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 36 BIS. El Poder Ejecutivo, a través de la Secretaría, promoverá la creación y fortalecimiento de clústeres que se requieran para la atracción de mayor inversión y/o explotación en el Estado.
+
+Los clústeres deberán ser reconocidos por la Secretaría mediante un convenio de colaboración suscrito entre ambas partes.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 36 TER. Son objetivos de los clústeres, los siguientes:
+
+I. Fungir como plataforma de diálogo entre los sectores público y privado para diseñar e implementar estrategias que favorezcan el desarrollo de la industria o sector;
+
+II. Establecer comités especiales, cuya finalidad sea analizar la situación concreta de la industria o sector que corresponda para proponer programas y proyectos que impulsen su crecimiento económico;
+
+III. Proponer políticas, estrategias, acciones y programas para fomentar la investigación, innovación y el desarrollo tecnológico en su industria o sector;
+
+IV. Realizar estudios sobre planeación estratégica y necesidades de recursos humanos dentro de su industria o sector;
+
+V. Promover la formación de capital humano especializado para el fortalecimiento de la industria o sector; y
+
+VI. Fomentar y diseñar programas de apoyo y fortalecimiento a la red de proveedores de bienes y servicios, especialmente apoyando la integración de las micro, pequeñas y medianas empresas con las grandes empresas.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 36 QUÁTER. Se crea el Comité para el Desarrollo y Fortalecimiento de los Clústeres, el cual estará integrado por siete personas miembros, cuyos cargos serán honoríficos, mismos que se mencionan a continuación:
+
+I. La persona titular de la Secretaría, quien fungirá como Presidente;
+
+II. La persona titular de la Secretaría de Finanzas;
+
+III. La persona titular de la Secretaría de Turismo;
+
+IV. La persona titular de la Secretaría de Desarrollo Rural;
+
+V. La persona titular de la Secretaría de Desarrollo Urbano y Medio Ambiente;
+
+VI. La persona titular de la Comisión de Energía de Tamaulipas; y
+
+VII. La persona titular de la Presidencia del Consejo.
+
+Las personas integrantes del Comité de Clústeres, señaladas en el presente artículo, tendrán derecho a voz y voto para determinar las acciones correspondientes a sus atribuciones.
+
+El Comité de Clústeres podrá invitar a las sesiones tanto ordinarias como extraordinarias a representantes de sectores empresarial, sindical, educativo, gubernamental, asociaciones civiles y/o cualquier otra agrupación que se estime conveniente, referentes al sector en el cual se esté integrando el clúster, quienes tendrán derecho de voz, pero sin voto.
+
+Todos los cargos se entienden otorgados no a las personas sino al cargo de la dependencia que representen; consecuentemente por cada persona titular se designará a una persona suplente de la misma dependencia quien deberá sustituir a la persona titular en caso de ausencia, ejerciendo las mismas facultades de éstos.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 36 QUINQUIES. El Comité de Clústeres sesionará en forma ordinaria por lo menos una vez cada seis meses y en forma extraordinaria, las veces que sea necesario.
+
+Las sesiones serán convocadas por la persona titular de la Presidencia del Comité de Clústeres, especificando la fecha, el lugar y el orden del día de la sesión. Las sesiones ordinarias deberán ser convocadas por lo menos con setenta y dos horas de anticipación y las extraordinarias con veinticuatro horas de anticipación.
+
+A propuesta de quien presida la sesión, se nombrará una persona Secretaria Técnica, misma que realizará las funciones que se le asignen en las disposiciones reglamentarias y las que le asignen en el Comité de Clústeres.
+
+El quórum legal para sesionar será con la asistencia por mayoría de las personas miembros integrantes con derecho a voto o, en su caso, sus respectivos suplentes. De igual manera, las determinaciones que se emitan en dicha sesión deberán ser aprobadas por la mayoría de las personas presentes, en caso de empate quien presida la sesión tendrá el voto de calidad.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 36 SEXTIES. El Comité de Clústeres tendrá las siguientes atribuciones:
+
+I. Identificar, promover y apoyar, por sí mismo o por conducto de la Secretaría, a los grupos de empresas constituidos como asociaciones civiles para ser considerados como clústeres;
+
+II. Analizar las solicitudes de los agrupamientos empresariales estratégicos para ser reconocidos por la Secretaría como un clúster dentro del Estado;
+
+III. Gestionar ante la Secretaría la suscripción del convenio de colaboración con los clústeres para su reconocimiento;
+
+IV. Promover en coordinación con la Secretaría y con los clústeres a nivel nacional e internacional, la difusión de los proyectos, programas, iniciativas y resultados de estos últimos;
+
+V. Determinar cuáles son los clústeres que el Estado requiere para la mejora de la promoción económica;
+
+VI. Asesorar a los clústeres, por sí mismo o por conducto de la Secretaría, para obtener apoyos otorgados por las dependencias federales y locales; y
+
+VIII (SIC). Convocar y organizar foros o mesas de trabajo con representantes de sectores empresariales, sindicales, educativos, gubernamentales, asociaciones civiles y/o cualquier otra agrupación que se estime conveniente, para la implementación de planes y programas que impulsen el desarrollo de industrias y sectores económicos estratégicos para el crecimiento económico en el Estado.
+
 ### CAPITULO X. DE LAS SANCIONES Y LOS MEDIOS DE IMPUGNACION
 
 ###### ARTICULO 37.
@@ -1352,3 +1444,15 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-816 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
