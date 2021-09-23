@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2021-07-14"
+last_updated: "2021-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -79,9 +79,9 @@ VI. Dependencias: Las consideradas como tales en la Ley Orgánica de la Administ
 
 VII. Entidades: Las estimadas como tales en la Ley Orgánica de la Administración Pública del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Expediente Técnico: Conjunto de documentos necesarios para llevar a cabo el procedimiento de adjudicación de las obras públicas o de los servicios relacionados con las mismas, el cual será entregado al término de la obra a las autoridades estatales y municipales, previo visto bueno de seguridad y operación del inmueble expedido por el Director Responsable de Obra, contratado para la verificación de la calidad de la obra;
+VIII. Expediente Técnico: Conjunto de documentos necesarios para llevar a cabo el procedimiento de adjudicación de las obras públicas o de los servicios relacionados con las mismas;
 
 IX. Expediente Unitario: Documento conformado por archivos magnéticos y documentales, en el que se incluye toda la información y documentación comprobatoria del gasto relacionado con una obra pública o servicio relacionado con la misma, ejecutada a través de contrato o por administración directa;
 
@@ -147,15 +147,15 @@ VII. Los dictámenes, peritajes, avalúos y auditorías técnico-normativas y es
 
 VIII. Los estudios que tengan por objeto rehabilitar, corregir, sustituir o incrementar la eficiencia de las instalaciones de un bien inmueble;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología;
+IX. Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología; y
 
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-X. Los servicios profesionales de verificación de la calidad de la obra, realizada por el Director Responsable de Obra; y
+X. Todos aquellos de naturaleza análoga.
 
-XI. Todos aquellos de naturaleza análoga.
+XI. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 5.
 
@@ -289,13 +289,13 @@ VII. Tomar las providencias necesarias para el aseguramiento, protección y cust
 
 VIII. Facilitar al personal de la Secretaría y de la Contraloría, con propósitos de verificación, el acceso a cualquier etapa del proceso de licitación o ejecución de las obras públicas y de los servicios relacionados con las mismas, así como proveerlas de toda la información que les sea solicitada;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Vigilar que la ejecución de las obras públicas y de los servicios relacionados con las mismas, se sujete a los lineamientos y especificaciones autorizadas, así como a localidad indicada, por normas, reglamentos y leyes aplicables a las obras en el estado, apoyándose en los servicios profesionales del Director Responsable de Obra;
+IX. Vigilar que la ejecución de las obras públicas y de los servicios relacionados con las mismas, se sujete a los lineamientos y especificaciones autorizadas;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-X. Intervenir en la recepción de las obras públicas y servicios relacionados con las mismas, así como en la verificación de las especificaciones, calidad, costo y cantidad convenidos y, en su caso, apoyándose en el Director Responsable de Obra que firmó la responsiva de la licencia de construcción y verificación de la obra hasta su término, oponerse a la recepción y para los efectos legales a que haya lugar; y
+X. Intervenir en la recepción de las obras públicas y servicios relacionados con las mismas, así como en la verificación de las especificaciones, calidad, costo y cantidad convenidos y, en su caso, oponerse a la recepción para los efectos legales a que haya lugar; y
 
 XI. En general, cumplir con las resoluciones y bases que emita la Secretaría conforme a esta ley.
 
@@ -375,317 +375,47 @@ Las controversias del orden civil o mercantil que se susciten con motivo de los 
 
 En todas las cuestiones no previstas en la presente ley, se aplicarán supletoriamente las disposiciones del Código Civil y del Código de Procedimientos Civiles para el Estado de Tamaulipas.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ## TÍTULO SEGUNDO BIS. DE LOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ### CAPÍTULO PRIMERO. DE LOS DIRECTORES RESPONSABLES DE OBRA
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+ARTÍCULO 19 BIS. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-ARTÍCULO 19 BIS. Director Responsable de Obra es la persona física auxiliar de la Administración, con autorización y registro otorgado por la Secretaría de Obras Públicas, quien tiene la atribución en todas aquellas actividades vinculadas con su responsiva, de ordenar y hacer valer en la obra, la observancia de la presente Ley, del Reglamento de Construcciones y demás disposiciones aplicables, incluyendo las ambientales.
+ARTÍCULO 19 TER. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+ARTÍCULO 19 QUATER. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-ARTÍCULO 19 TER. Para obtener el registro de Director Responsable de Obra, se deben satisfacer los siguientes requisitos:
+ARTÍCULO 19 QUINQUES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-I. Acreditar que posee cédula profesional correspondiente a alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto o Ingeniero Civil;
-
-II. Acreditar, que el conocimiento de las Leyes materia de su desempeño profesional, la Ley Ambiental y demás leyes y disposiciones relativas al diseño urbano, vivienda, construcción, sustentabilidad, movilidad, protección civil, imagen urbana, anuncios, equipamiento, mobiliario urbano y de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación, los Programas y las Normas de Ordenación, para lo cual debe obtener el dictamen favorable de la Comisión de Director Responsable de Obra;
-
-III. Acreditar como mínimo cinco años de experiencia en proyectos y construcción de obras a las que se refiere el Reglamento de Construcciones para el Estado de Tamaulipas; y
-
-IV. Acreditar que es miembro activo del Colegio de Profesionales respectivo.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 QUATER. Se entiende que un Director Responsable de Obra otorga su responsiva cuando, con ese carácter:
-
-I. Tome a su cargo el cumplimiento normativo del proyecto y la dirección de la ejecución de una obra y/o instalación, aceptando la responsabilidad de la misma, de conformidad con el Reglamento de Construcciones para el Estado de Tamaulipas;
-
-II. Suscriba un dictamen de estabilidad o seguridad estructural de una obra, edificación o instalación;
-
-IIII (SIC). Suscriba el Visto Bueno de Seguridad y Operación de una obra, edificación o instalación; y
-
-IV. Suscriba un documento relativo a cualquier otra modalidad que determinen las disposiciones legales y administrativas aplicables.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 QUINQUES. Para el ejercicio de su función, el Director Responsable de Obra tiene las siguientes obligaciones:
-
-I. Suscribir y presentar ante la autoridad una manifestación de construcción o una solicitud de licencia de construcción especial o registro de obra ejecutada;
-
-II. Dirigir, vigilar y asegurar que tanto en el proyecto como en la ejecución de la obra se cumpla con lo establecido en los ordenamientos aplicables.
-
-En su caso, señalar en la bitácora el incumplimiento, así como las instrucciones para corregir las desviaciones, de conformidad con lo establecido en esta ley y realizar la revisión completa del proyecto ejecutivo y de toda la documentación necesaria.
-
-El Director Responsable de Obra debe contar con los Corresponsables, según sea el caso. En los casos no incluidos en dicho artículo, el Director Responsable de Obra podrá definir libremente la participación de los Corresponsables y demás especialistas que a su juicio considere.
-
-El Director Responsable de Obra debe comprobar que cada uno de los Corresponsables con que cuente, según sea el caso, cumpla con las obligaciones y observaciones asentadas en la bitácora; de no ser así, deberá notificarlo a la Dirección de Obras Públicas correspondiente y/o a la Secretaria de Obras Públicas del Estado de Tamaulipas;
-
-III. Ordenar en la obra, el cumplimiento de la presente Ley y de la normatividad aplicable, incluyendo en materia ambiental. De no ser atendida la orden por el propietario, poseedor y/o constructor lo asentará en la bitácora, notificando de inmediato a la Dirección de Obras Públicas correspondiente, anexando una copia de la nota de bitácora, en la que conste lo ordenado;
-
-IV. Planear y supervisar el cumplimiento de las medidas de seguridad e higiene contempladas en la normatividad aplicables a la obra, relativas al personal, terceras personas, sus colindancias y la vía pública y en su caso, denunciar ante la Autoridad correspondiente su incumplimiento; y
-
-V. Llevar en la obra un libro de bitácora foliado y sellado, el cual deberá cumplir con las requisitos mínimos establecidos en las Bases Generales que determine el contrato de obra Estatal o el reglamento de construcción municipal y quedará a resguardo y bajo responsabilidad del Director Responsable de Obra, pudiendo este último delegar dicha responsabilidad en su constructor o contratista, pero sin eximirse de la responsabilidad ante la Secretaría de Obras Públicas y la Secretaría de Desarrollo Urbano y Medio Ambiente. En caso de pérdida o robo de dicho libro de bitácora, las partes firmantes deberán guardar sus copias con firmas autógrafas.
-
-En la bitácora se anotarán, entre otros, los siguientes datos:
-
-a) Nombre y firma del propietario y/o poseedor, del Director Responsable de Obra, del constructor, así como de los Corresponsables, proyectistas, especialista en Mecánica de Suelos y del Perito en Desarrollo Urbano, en caso de ser requeridos;
-
-b) Nombre o razón social de la persona física o moral que ejecute la obra;
-
-c) Materiales empleados para fines estructurales o de seguridad;
-
-d) Procedimientos generales de construcción y de control de calidad;
-
-e) Descripción de los detalles definidos durante la ejecución de la obra;
-
-f) Fecha de las visitas, observaciones e instrucciones del Director Responsable de Obra, así como de los Corresponsables;
-
-g) Fecha de inicio de cada etapa de la obra; y
-
-h) Incidentes y accidentes;
-
-VI. Ordenar al propietario y/o constructor la colocación en la obra, en lugar visible y legible desde la vía pública, un letrero con el nombre del Director Responsable de Obra y, en su caso, de los Corresponsables y su registro, además del número de registro de manifestación de construcción o de licencia de construcción especial, la vigencia, tipo y uso de la obra y ubicación de la misma, así como los datos del constructor;
-
-VII. Solicitar al propietario, poseedor o constructor el aviso de terminación de la obra ejecutada, debiendo anexarlo a la bitácora y conservar copias de los planos actualizados y registrados del proyecto completo, del libro de bitácora y de las memorias de cálculo;
-
-VIII. Resellar anualmente la vigencia de Director Responsable de Obra dentro de los cinco días hábiles anteriores al aniversario de la fecha de su expedición y refrendar su registro de Director Responsable de Obra cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por los Colegios de los que sean miembros.
-
-IX. Solicitar al propietario o poseedor y/o al constructor los manuales de operación y mantenimiento para las obras que requieran de licencia de construcción.
-
-X. Observar conjuntamente con el Corresponsable en Instalaciones, las previsiones contra incendio, eléctricas, de combustible, de obra civil y otras que representen un o pongan en peligro la vida de los usuarios y terceras personas, así como los dictámenes de verificación de la instalación eléctrica y de combustible;
-
-XI. Vigilar que, en los planos del proyecto ejecutivo, se encuentren las áreas de donación en los casos que corresponda;
-
-XII. Celebrar el contrato de prestación de servicios profesionales, en el cual se establecerá el Arancel correspondiente;
-
-XIII. Verificar que los proyectistas hayan firmado los planos y memorias del proyecto, así como el especialista el estudio de mecánica de suelos, el estudio correspondiente, asumiendo la responsabilidad establecida en la Ley y demás normatividad vigente; y
-
-XIV. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS CORRESPONSABLES
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+ARTÍCULO 19 SEXIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-ARTÍCULO 19 SEXIES. Corresponsable es la persona física auxiliar de la Administración, con autorización y registro de la Autoridad Competente, con los conocimientos técnicos relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones, quien responderá en forma conjunta con el Director Responsable de Obra, o autónoma en los casos en que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, y deberá cumplir con lo establecido en la presente Ley, en el Reglamento de Construcciones y en las demás disposiciones aplicables, correspondiendo a la Autoridad otorgar su autorización y registro.
+ARTÍCULO 19 SEPTIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-I. Corresponsable en Diseño Urbano y Arquitectónico, para:
+ARTÍCULO 19 OCTIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-a) Habitación Plurifamiliar de más de 50 viviendas, hospitales, clínicas, centros de salud, edificaciones para exhibiciones, baños públicos, estaciones y terminales de transporte terrestre, aeropuertos, estudios cinematográficos y de televisión, estaciones de servicio para el expendio de combustible y carburantes, y pasos peatonales;
+ARTÍCULO 19 NONIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-b) El resto de las edificaciones que tengan más de 2,000 m² cubiertos, o más de 20 m de altura, sobre nivel medio de banqueta, o con capacidad para más de 250 concurrentes en locales cerrados, o más de 1,000 concurrentes en locales abiertos;
-
-c) Estaciones de comunicación celular y/o inalámbrica, chimeneas y/o cualquier otro tipo de instalación que rebase la altura de 15 m sobre su nivel de desplante.
-
-II. Corresponsable en Instalaciones, para:
-
-a) Habitación plurifamiliar de más de 50 viviendas, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, centrales telegráficas, telefónicas y de comunicación, estaciones de radio y televisión, estaciones repetidoras de comunicación celular y/o inalámbrica, estudios cinematográficos, industria pesada y mediana; plantas, estaciones y subestaciones eléctricas; estaciones de bombeo, albercas con iluminación subacuática, circos, ferias de cualquier magnitud, estaciones de servicio para el expendio de combustible y carburantes, y estaciones de transferencia de basura;
-
-b) El resto de las edificaciones que tengan más de 2,000 m² cubiertos, o más de 15 m de altura sobre nivel medio de banqueta o más de 250 concurrentes;
-
-c) Toda edificación que cuente con elevadores de pasajeros, de carga, industriales, residenciales o escaleras o rampas electromecánicas; y
-
-d) Las edificaciones ubicadas en zonas de Patrimonio Histórico, Artístico y Arqueológico de la Federación o en áreas de conservación patrimonial Estatal y/o Municipales en las que se realicen instalaciones electromecánicas nuevas o se modifiquen.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 SEPTIES. Para obtener el registro como Corresponsable se requiere:
-
-I. Acreditar que posee cédula profesional correspondiente a alguna de las profesiones de Ingeniero Civil, Arquitecto, Ingeniero Arquitecto, Ingeniero Mecánico Electricista, Ingeniero Mecánico, Ingeniero Electricista;
-
-II. Acreditar que conoce el Reglamento de Construcciones y demás normatividad aplicable en lo relativo a los aspectos correspondientes a su especialidad;
-
-III. Acreditar como mínimo cinco años de experiencia en su especialidad, así como su participación activa en proyectos y en obras; y
-
-IV. Acreditar que es miembro activo del Colegio de Profesionales respectivo.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 OCTIES. Los Corresponsables otorgarán su responsiva en los siguientes casos:
-
-I. El Corresponsable en Seguridad Estructural, cuando:
-
-a) Suscriba conjuntamente con el Director Responsable de Obra una manifestación de construcción o una solicitud de licencia de construcción especial;
-
-b) Suscriba los planos del proyecto estructural, la memoria de diseño de la cimentación y la estructura;
-
-c) Suscriba los procedimientos de construcción de las obras y los resultados de las pruebas de control de calidad de los materiales empleados;
-
-d) Suscriba un dictamen técnico de estabilidad o de seguridad estructural de una edificación o instalación, o
-
-e) Suscriba una constancia de seguridad estructural.
-
-II. El Corresponsable en Diseño Urbano y Arquitectónico, cuando:
-
-a) Suscriba conjuntamente con el Director Responsable de Obra una manifestación de construcción o una solicitud de licencia de construcción especial, o
-
-b) Suscriba la memoria y los planos del proyecto urbano y/o arquitectónico;
-
-III. El Corresponsable en Instalaciones, cuando:
-
-a) Suscriba conjuntamente con el Director Responsable de Obra una manifestación de construcción o una solicitud de licencia de construcción especial;
-
-b) Suscriba la memoria de diseño y los planos del proyecto de instalaciones; o
-
-c) Suscriba conjuntamente con el Director Responsable de Obra el Visto Bueno de Seguridad y Operación.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 NONIES. Para el ejercicio de su función, los Corresponsables tienen las siguientes obligaciones:
-
-I. El Corresponsable en Seguridad Estructural:
-
-a) Suscribir, conjuntamente con el Director Responsable de Obra, la manifestación de construcción o la solicitud de licencia de construcción especial cuando se trate de obras clasificadas como grupos A y B1;
-
-b) Verificar que en el proyecto de la cimentación y de la superestructura, se hayan realizado los estudios del suelo y de las construcciones colindantes, con objeto de constatar que el proyecto cumple con las características de seguridad necesarias;
-
-c) Verificar que el proyecto cumpla con las características generales para seguridad estructural;
-
-d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto estructural, y que tanto los procedimientos como los materiales empleados, correspondan a lo especificado y a las normas de calidad del proyecto. Tendrá especial cuidado en que la construcción de las instalaciones no afecten los elementos estructurales en forma diferente a lo dispuesto en el proyecto;
-
-e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra que pueda afectar la seguridad estructural de la misma, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación, deberá comunicarlo a la Autoridad correspondiente; y
-
-f) Responder de cualquier violación a las disposiciones de la presente Ley y reglamentos municipal y estatal relativas a su especialidad.
-
-II. Del Corresponsable en Diseño Urbano y Arquitectónico:
-
-a) Suscribir, conjuntamente con el Director Responsable de Obra, la manifestación de construcción o la solicitud de licencia de construcción especial, cuando se trate de las obras previstas en esta Ley;
-
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones relativas al Desarrollo Urbano;
-
-c) Verificar que el proyecto cumpla con las generales para su seguridad estructural;
-
-d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados, correspondan a lo especificado y a las normas de calidad del proyecto. Tendrán especial cuidado en que la construcción de las instalaciones no afecte a los elementos estructurales en forma de diferente a lo dispuesto en el proyecto;
-
-e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la Autoridad correspondiente; y
-
-f) Responder de cualquier violación a las disposiciones de la presente Ley y cualquier otra normatividad relativa a su especialidad.
-
-III. Del Corresponsable en Instalaciones:
-
-a) Suscribir, conjuntamente con el Director Responsable de Obra, la manifestación de construcción o la solicitud de licencia de construcción especial, cuando se trate de las obras previstas en esta Ley;
-
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando la factibilidad de otorgamiento de los servicios públicos y que se hayan cumplido las disposiciones del Reglamento de Construcciones y la legislación vigente al respecto, relativas a la seguridad, previsiones contra incendio y funcionamiento de las instalaciones;
-
-c) Vigilar que la construcción durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados correspondan a lo especificado y a las Normas de Calidad del proyecto;
-
-d) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectarla, asentándolo en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarla a la Autoridad correspondiente; y
-
-e) Responder de cualquier violación a las disposiciones relativas a su especialidad.
-
-IV. Obtener anualmente la constancia de vigencia de Director Responsable de Obra dentro de los cinco días hábiles anteriores al aniversario de la fecha de su expedición y refrendar su registro de Corresponsable cada tres años o cuando lo determine la Autoridad, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior o los Colegios de los que formen parte.
-
-En el caso de que un Corresponsable no haya resellado en un período de tres años su carnet, será obligatorio presentar una evaluación de conocimientos formulada por la autoridad correspondiente.
-
-V. Celebrar el contrato de prestación de servicios profesionales en el cual se establecerá el arancel correspondiente. El Arancel será proporcionado por los colegios de Ingenieros, Arquitectos profesionistas vigentes en dichos colegios, de conformidad con lo establecido en la Ley de Profesiones.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ### CAPÍTULO TERCERO. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+ARTÍCULO 19 DECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-ARTÍCULO 19 DECIES. Las funciones del Director Responsable de Obra y Corresponsables, en las obras y casos para los que hayan otorgado su responsiva se terminarán:
+ARTÍCULO 19 DUODECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-I. Cuando ocurra sustitución o retiro del Director Responsable de Obra y/o Corresponsables en la obra correspondiente, para lo cual se deberá levantar un acta administrativa ante la Autoridad Correspondiente asentando los motivos por los que el Director Responsable de Obra o el Corresponsable, sea sustituido o retire su responsiva, así como el avance de la obra hasta ese momento, la cual será suscrita por la autoridad correspondiente, por el Director Responsable de Obra y/o Corresponsables, según sea el caso, y por el propietario o poseedor. Una copia de esta acta se enviará a la administración y otra se asentará y anexará a la bitácora de la obra.
+ARTÍCULO 19 TERDECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-La administración ordenará la suspensión de la obra cuando el Director Responsable de Obra y/o Corresponsables no sean sustituidos en forma inmediata y no permitirá la reanudación hasta en tanto no se designe un nuevo Director Responsable de Obra y/o Corresponsable;
+ARTÍCULO 19 QUATERDECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
-II. Cuando no hayan refrendado su registro en el Colegio correspondiente; y
-
-III. Cuando el Municipio y/o el Estado expida la autorización de uso y ocupación de la obra.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 DUODECIES. Para los efectos de la presente Ley, la responsabilidad de carácter administrativo de los Directores Responsables de Obra y de los Corresponsables termina a los cinco años, salvo los casos sujetos al otorgamiento del visto bueno de seguridad y operación y la constancia de seguridad estructural, contados a partir de:
-
-I. La fecha en que se expida la autorización de uso y ocupación de conformidad con lo establecido en Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas y/o en el Reglamento de Construcciones, o
-
-II. La fecha en que formalmente hayan terminado su responsiva.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 TERDECIES. La autoridad correspondiente son la Autoridad competente para conocer y resolver las infracciones en que incurran los Directores Responsables de Obra y/o Corresponsables, considerando el dictamen que formule la Comisión de Director Responsable de Obra, para emitir la resolución que a derecho proceda, conforme al procedimiento administrativo correspondiente, independientemente de las sanciones previstas en los siguientes casos:
-
-I. Amonestación por escrito al Director Responsable de Obra o a los Corresponsables, cuando:
-
-a) Infrinjan lo establecido en la presente Ley, en el reglamento municipal y/o en el Reglamento de Construcciones, sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal;
-
-b) Presente la documentación incompleta o con datos erróneos y que formen parte de los procedimientos que inicien ante la Administración; y
-
-c) Omita notificar a la Secretaría de Obras Públicas, para el Registro en su carnet de la responsiva otorgada a una obra pública realizada por la Administración;
-
-II. Suspensión temporal por dos años del registro de Director Responsable de Obra o Corresponsables, según sea el caso, cuando infrinjan la presente Ley, el reglamento de Construcciones y demás ordenamientos aplicables sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
-
-a) Sin conocimiento y aprobación de la Delegación o de la Secretaría de Obras Públicas, en su caso, se modifique la obra o instalación sin apegarse a las condiciones de la manifestación de construcción registrada o de la licencia de construcción especial expedida, con excepción de las diferencias permitidas;
-
-b) El infractor que acumule dos amonestaciones por escrito en el período de un año, contando a partir de la fecha de la primera amonestación, o bien, que acumule tres amonestaciones por escrito en el período del trienio de la vigencia de su carnet, contando a partir de la fecha de la primera amonestación.
-
-En caso de que el infractor tenga dos o más sanciones durante el mismo período, éstas serán acumulables.
-
-De las responsivas que siguen vigentes, el Director Responsable de Obra o Corresponsable sancionado continuará siendo responsable.
-
-Cuando un Director Responsable de Obra o Corresponsable sea sancionado temporalmente por una obra determinada, continuará siendo responsable de las demás que tenga en proceso, pero no podrá otorgar nuevas responsivas, hasta haber cumplido su sanción.
-
-III. Cancelación del registro de Director Responsable de Obra o de Corresponsable, según sea el caso, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
-
-a) No cumplan con las disposiciones de la presente Ley, causando situaciones que pongan en peligro la vida de las personas y/o los bienes;
-
-b) Hayan obtenido con datos falsos su inscripción al padrón de profesionales respectivo;
-
-c) Presenten documentos que no hayan sido emitidos y/o validados por la autoridad competente en los trámites que gestione ante la Administración;
-
-d) No resellen o refrenden su vigencia de Director Responsable de Obra por un periodo de tiempo mayor a cinco años, contado a partir del último resello; y
-
-e) Hayan otorgado su responsiva en proyecto u obra que afecte de forma irreparable a un inmueble del patrimonio cultural urbano.
-
-En los casos de cancelación de registro, la autoridad correspondiente, según sea el caso, no otorgará nuevamente al infractor el registro en ninguna de las especialidades que señalan en la presente Ley.
-
-En el caso de las fracciones II, los infractores deben entregar a la Comisión, en un plazo máximo de 30 días naturales un informe detallado de las obras bajo su responsiva, el cual deberá acompañar de copias de la bitácora y memoria fotográfica.
-
-La Secretaría de Desarrollo Urbano y Ecología Municipal, en su caso, notificarán a la Comisión de Director Responsable de Obra acerca de los Directores Responsables de Obra o Corresponsables que hayan sido sancionados para que éstas procedan conforme a la presente Ley. De igual forma, se publicará en la página de internet de las dependencias. Adicionalmente, se informará al Colegio de Profesionales al que pertenezca el infractor.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 QUATERDECIES. El propietario y/o poseedor, de manera individual o mancomunada, según se actúe, tiene las siguientes obligaciones:
-
-a) Celebrar contrato de prestación de servicios profesionales con el Director Responsable de Obra o Corresponsable, según sea el caso, en el cual se establecerá el Arancel correspondiente, emitido por la Comisión de Director Responsable de Obra;
-
-b) Solicitar por escrito los cambios al proyecto ejecutivo de obra al Director Responsable de Obra y/o Corresponsable, según sea el caso, quienes autorizarán o no dichos cambios, lo cual deberá ser asentado en la bitácora, así como los motivos para ello;
-
-c) No podrá remover o sustituir al Director Responsable de Obra y/o Corresponsable derivado de que estos auxiliares de la administración exijan el cumplimiento de la normatividad por la cual otorgaron su responsiva;
-
-d) Contratar para la obra, el seguro de responsabilidad civil por daños a terceros en las obras. El monto mínimo asegurado no deberá ser menor del diez por ciento del costo total de la obra construida por el tiempo de vigencia de la manifestación de construcción o licencia de construcción;
-
-e) Contar en su caso, con el Programa Interno de Protección Civil para obra en construcción, remodelación y demolición; y
-
-f) Dar aviso a la Administración de la terminación de la obra ejecutada conforme a la presente Ley y el reglamento de Construcciones.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
-
-ARTÍCULO 19 QUINDECIES. El Constructor tiene las siguientes obligaciones:
-
-a) Ejecutar la obra conforme al proyecto ejecutivo, registrado en la manifestación de construcción o licencia de construcción especial ante la autoridad competente;
-
-b) Cuando existan diferencias físicas del terreno, condiciones de la colindancia o propiedades distintas del suelo donde se construirá la cimentación con lo indicado en el proyecto registrado, deberá comunicar al Director Responsable de Obra y/o Corresponsable para que determine cuál será el procedimiento a realizar;
-
-c) Atender las instrucciones del Director Responsable de Obra y/o los Corresponsables, en cuanto a las condiciones de seguridad y salud en la obra a efecto de prevenir riesgos laborales cumpliendo con lo establecido en la NOM-031-STPS vigente;
-
-d) Solicitar por escrito los cambios que considere pertinente al proyecto ejecutivo de obra al Director Responsable de Obra y/o Corresponsable, según sea el caso, quienes autorizarán o no dichos cambios, lo cual deberá ser asentado en la bitácora, así como los motivos para ello;
-
-e) Contratar laboratorios certificados y/o acreditados por entidades autorizadas para realizar las pruebas que se establezcan en las Normas para garantizar la calidad de los materiales;
-
-f) Colocar un letrero en la obra en un lugar visible y legible desde la vía pública, con el nombre del Director Responsable de Obra, número de registro y en su caso del o de los Corresponsables con su número de registro, el nombre del Constructor y su razón social además del número de registro de manifestación de construcción o de licencia de construcción especial, la vigencia, tipo, uso de la obra y ubicación de la misma; y
-
-g) Aplicar, en su caso, el Programa Interno de Protección Civil para obra en construcción, remodelación y demolición;
-
-El constructor será el responsable, en el caso de que existan daños en la obra o a terceros generados por el incumplimiento de los incisos anteriores.
+ARTÍCULO 19 QUINDECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
 
 ## TÍTULO TERCERO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -701,9 +431,9 @@ II. Considerar la disponibilidad de recursos, basándose en los presupuestos de 
 
 III. Verificar si en los archivos de las diversas dependencias, entidades y Ayuntamientos, existen estudios o proyectos relacionados con la obra pública que se pretenda desarrollar. En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Previamente a la realización de los trabajos, tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, con apoyo en los Directores Responsables de Obra; derechos de banco de extracción de materiales, así como la propiedad o los derechos de propiedad, incluyendo la liberación del derecho de vía y expropiación de inmuebles sobre los que se ejecutarán las obras públicas, los cuales deberán formar parte del expediente técnico respectivo. Todos los proyectos deberán incluir la ubicación geodésica donde se realizarán los trabajos. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista; como protecciones, seguros de obra, contratación del Director Responsable de Obra que firmará la responsiva de la licencia de construcción y la verificación de la calidad de la obra hasta su término;
+IV. Previamente a la realización de los trabajos, tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de banco de extracción de materiales, así como la propiedad o los derechos de propiedad, incluyendo la liberación del derecho de vía y expropiación de inmuebles sobre los que se ejecutarán las obras públicas, los cuales deberán formar parte del expediente técnico respectivo. Todos los proyectos deberán incluir la ubicación geodésica dónde se realizarán los trabajos. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista;
 
 V. Considerar los efectos que la ejecución de las obras públicas puedan causar sobre el medio ambiente, evaluando el impacto ambiental previsto por la legislación de la materia, estudios que deberán formar parte del expediente técnico respectivo. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales, cuando éstas pudieran deteriorarse;
 
@@ -915,9 +645,9 @@ Las obras públicas que lleven a cabo el Gobierno del Estado o los Ayuntamientos
 
 Para la realización de obras públicas, la dependencia, entidad o Ayuntamiento contarán preferentemente con los estudios y proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados; en todo caso, si no se hayan totalmente concluidos, deberán tener un avance tal en su desarrollo que permita a los licitantes preparar una propuesta solvente y, a su vez, ejecutar ininterrumpidamente los trabajos hasta su terminación.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-Previamente a la iniciación de las obras, deberá obtenerse la licencia de construcción del Ayuntamiento respectivo, el cual resolverá sobre su otorgamiento, mediante la firma responsiva del Director Responsable de Obra contratado.
+Previamente a la iniciación de las obras, deberá obtenerse licencia de construcción del Ayuntamiento respectivo, el cual resolverá sobre su otorgamiento.
 
 ###### ARTÍCULO 35.
 
@@ -1477,11 +1207,11 @@ El contratista estará obligado a devolver a la dependencia, entidad o Ayuntamie
 
 De ocurrir los supuestos establecidos en el artículo anterior, las dependencias, entidades o Ayuntamientos, comunicarán la suspensión, rescisión o terminación anticipada del contrato al contratista; posteriormente, lo harán del conocimiento de su órgano interno de control, a más tardar el último día hábil de cada mes, mediante un informe en el que se referirán los supuestos ocurridos en el mes de calendario inmediato anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 73.
 
-El contratista comunicará a la dependencia, entidad o Ayuntamiento la conclusión de los trabajos que le fueron encomendados para que el ente público, dentro del plazo pactado, con apoyo en el Director Responsable de Obra que verificó la calidad de la obra, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, la dependencia, entidad o municipio contará con un plazo de quince días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad.
+El contratista comunicará a la dependencia, entidad o Ayuntamiento la conclusión de los trabajos que le fueron encomendados para que el ente público, dentro del plazo pactado, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, la dependencia, entidad o municipio contará con un plazo de quince días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad.
 
 Recibidos físicamente los trabajos, las partes deberán elaborar dentro del término estipulado en el contrato, el finiquito de los trabajos en el que se harán constar los créditos a favor y en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
 
@@ -1509,29 +1239,31 @@ En los casos señalados en el artículo 48, fracción IX, de esta ley y bajo su 
 
 El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todas las leyes, reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección y conservación del medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale la dependencia, entidad o Ayuntamiento. Las responsabilidades y los daños y perjuicios originados por su inobservancia serán a cargo del contratista.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 77.
 
-Una vez concluida la obra o parte utilizable de la misma, la dependencia, entidad o Ayuntamiento, vigilará, con apoyo en el Director Responsable de Obra contratado para esa obra en particular, que la unidad que debe operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento, y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
-
-La entrega a la unidad operadora, deberá constar por escrito mediante el acta correspondiente.
+Una vez concluida la obra o parte utilizable de la misma, la dependencia, entidad o Ayuntamiento, vigilará que la unidad que debe operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento, y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
 
+La entrega a la unidad operadora, deberá constar por escrito mediante el acta correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 78.
 
-Las dependencias, entidades o Ayuntamientos bajo cuya responsabilidad quede una obra pública concluida, estarán obligados por conducto del área responsable de su operación, con apoyo en el Director Responsable de Obra que verificó la calidad de la obra, emitiendo los vistos buenos de habitabilidad, de seguridad y operación y de uso del inmueble, a mantenerla en niveles apropiados de funcionamiento y vigilar que· su uso, operación,· mantenimiento y conservación se realice conforme a los objetivos y acciones para las que fueron originalmente diseñadas.
+Las dependencias, entidades o Ayuntamientos bajo cuya responsabilidad quede una obra pública concluida, estarán obligados por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realice conforme a los objetivos y acciones para las que fueron originalmente diseñadas.
 
 ## TÍTULO SÉPTIMO. DE LA ADMINISTRACIÓN DIRECTA
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 79.
 
-Cumplidos los requisitos establecidos en los artículos 26 y 34 de esta ley, las dependencias, entidades y Ayuntamientos podrán realizar trabajos por administración directa, siempre que utilicen los servicios de un Director Responsable de Obra para la verificación de la calidad de la obra y posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico, que se requieran para el desarrollo de los trabajos respectivos. Al efecto, se elaborará un dictamen de factibilidad, el cual deberá ser autorizado por el Comité o Ayuntamiento de que se trate.
+Cumplidos los requisitos establecidos en los artículos 26 y 34 de esta ley, las dependencias, entidades y Ayuntamientos podrán realizar trabajos por administración directa, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico, que se requieran para el desarrollo de los trabajos respectivos. Al efecto, se elaborará un dictamen de factibilidad, el cual deberá ser autorizado por el Comité o Ayuntamiento de que se trate.
 
 En la ejecución de los trabajos por administración directa, se podrá:
 
@@ -1545,23 +1277,23 @@ IV. Utilizar los servicios de fletes y acarreos complementarios que se requieran
 
 Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, materiales u otros bienes que deban ser instalados, montados, colocados o aplicados, su adquisición se regirá por las disposiciones correspondientes a tal materia.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-En los trabajos por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que éstos adopten, incluidos los sindicatos, asociaciones y sociedades civiles y demás organizaciones o instituciones similares, exceptuándose lo señalado en la fracción IV que antecede, además aplicando lo señalado en el artículo 78 de esta ley.
+En los trabajos por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que éstos adopten, incluidos los sindicatos, asociaciones y sociedades civiles y demás organizaciones o instituciones similares, exceptuándose lo señalado en la fracción IV que antecede.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 80.
 
-Previamente a la realización de los trabajos por administración directa, el titular del área responsable de la ejecución de los trabajos emitirá el acuerdo respectivo, del cual formarán parte entre otros aspectos, la descripción pormenorizada de los trabajos que se deban ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto correspondiente, además el Director Responsable de Obra que verificará la calidad de la obra.
+Previamente a la realización de los trabajos por administración directa, el titular del área responsable de la ejecución de los trabajos emitirá el acuerdo respectivo, del cual formarán parte entre otros aspectos, la descripción pormenorizada de los trabajos que se deban ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto correspondiente.
 
 Los órganos internos de control en las dependencias, entidades o Ayuntamientos, previamente a la ejecución de los trabajos por administración directa, verificarán que se cuente con el presupuesto correspondiente y los programas de ejecución, de utilización de recursos humanos y, en su caso, de utilización de maquinaria y equipo de construcción.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 81.
 
-La ejecución de los trabajos estará a cargo de la dependencia, entidad o Ayuntamiento a través de la residencia de obra; una vez concluidos los trabajos por administración directa, deberá entregarse la obra al área responsable de su operación o mantenimiento. La entrega deberá constar por escrito y contener el visto bueno de uso y ocupación del inmueble por el respectivo Director Responsable de Obra contratado.
+La ejecución de los trabajos estará a cargo de la dependencia, entidad o Ayuntamiento a través de la residencia de obra; una vez concluidos los trabajos por administración directa, deberá entregarse la obra al área responsable de su operación o mantenimiento. La entrega deberá constar por escrito.
 
 ###### ARTÍCULO 82.
 
@@ -1573,11 +1305,11 @@ En la ejecución de los trabajos por administración directa serán aplicables l
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 83.
 
-Las dependencias, entidades y Ayuntamientos y Director Responsable de Obra contratado para verificar la calidad de la obra, conservarán en forma ordenada y sistemática, mediante archivos magnéticos y documentales, toda la información y documentación comprobatoria del gasto relacionado con las obras públicas o servicios relacionados con las mismas, mediante la conformación de un expediente unitario que contendrá lo siguiente:
+Las dependencias, entidades y Ayuntamientos conservarán en forma ordenada y sistemática, mediante archivos magnéticos y documentales, toda la información y documentación comprobatoria del gasto relacionado con las obras públicas o servicios relacionados con las mismas, mediante la conformación de un expediente unitario que contendrá lo siguiente:
 
 I. Los documentos que conforman el expediente técnico;
 
@@ -1603,11 +1335,11 @@ II. Si se estima que ha existido alguna violación a los preceptos aplicables, i
 
 Dentro del plazo que se hubiere señalado, el ente público competente dará cuenta del cumplimiento que hubiere hecho.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 86.
 
-El Ejecutivo Estatal o el Presidente Municipal, por conducto de los órganos de control correspondientes, podrá realizar las visitas, inspecciones y verificaciones que estime pertinentes, incluso con apoyo de un Director Responsable de Obra que asigne la Comisión de Directores Responsables de Obra, a las dependencias y entidades o a las áreas competentes del Ayuntamiento, que realicen obras públicas o servicios relacionados con las mismas, así como solicitar de los funcionarios y empleados de las mismas y de los contratistas, en su caso, todos los datos e informes relacionados con los actos de que se trate.
+El Ejecutivo Estatal o el Presidente Municipal, por conducto de los órganos de control correspondientes, podrá realizar las visitas, inspecciones y verificaciones que estime pertinentes a las dependencias y entidades o a las áreas competentes del Ayuntamiento, que realicen obras públicas o servicios relacionados con las mismas, así como solicitar de los funcionarios y empleados de las mismas y de los contratistas, en su caso, todos los datos e informes relacionados con los actos de que se trate.
 
 ###### ARTICULO 87.
 
@@ -1906,3 +1638,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-815 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
