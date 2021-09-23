@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2021-09-21"
+last_updated: "2021-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -1565,11 +1565,13 @@ I. Con motivo de sus funciones así lo requieran;
 
 II. Al momento de concluir el cargo, subsista el riesgo que les dio origen; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-III. En razón de las funciones realizadas en la Fiscalía General, que al momento de causar baja, las requieran.
+III. En razón de las funciones realizadas en la Fiscalía General que, al momento de causar baja, tenían asignadas o las requieran.
 
-En los supuestos establecidos en las fracciones II y III las medidas de seguridad tendrán una duración igual a la mitad del tiempo que ocupó el cargo que lo puso en riesgo y podrá ser prorrogable, en tanto las condiciones de riesgo lo ameriten.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+En los supuestos establecidos en las fracciones II y III las medidas de seguridad tendrán una duración igual al tiempo que ocupó el cargo que lo puso en riesgo, manteniendo las condiciones y proporción en que fueron otorgadas y podrán ser prorrogables en tanto las condiciones de riesgo objetivo así lo ameriten.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
 
@@ -2238,3 +2240,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-822 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 71, PÁRRAFOS PRIMERO, FRACCIÓN III Y SEGUNDO, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
