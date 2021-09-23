@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2021-09-08"
+last_updated: "2021-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -130,6 +130,10 @@ VI. Consejo: El Consejo de Gobierno para el Desarrollo Sustentable;
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
 VII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; protegiendo, cuidando, manejando, manteniendo y, en su caso, aprovechando los ecosistemas, los hábitat, las especies y las poblaciones de vida silvestre dentro o fuera de sus entornos naturales, de manera que salvaguarden las condiciones naturales para su permanencia a largo plazo;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+VII Bis. Constancia de No Adeudo Fiscal: Documento que consta que no se tiene adeudo alguno en Contribuciones registradas en el Estado de personas físicas y/o morales, el cual es requisito indispensable para la obtención de otros servicios o derechos;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -585,7 +589,9 @@ El Estado promoverá la participación de los distintos grupos sociales en la el
 
 3. Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación de los recursos naturales y el medio ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y la protección del medio ambiente.
 
-4. Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+4. Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental, y con base en lo anterior para todos los trámites y servicios que se realice en la Secretaría, además de los requisitos previstos en el presente Código, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
 
 5. Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetas al interés público y al aprovechamiento sustentable de los recursos naturales.
 
@@ -735,9 +741,13 @@ Para obtener el Registro Estatal Ambiental, se seguirá el siguiente procedimien
 
 I. El establecimiento promovente solicitará a las autoridades ambientales estatales el formato de la Cédula de Operación Anual, o bien podrá obtenerlo vía electrónica en la página de Internet de la Secretaría;
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-II. Llenado el formato, el establecimiento promovente entregará físicamente la base de datos generada por el programa de reporte de la Cédula de Operación Anual.
+II. Llenado el formato, el establecimiento promovente entregará físicamente la base de datos generada por el programa de reporte de la Cédula de Operación Anual; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+III. Para todos los trámites y servicios que se realizan en esta Secretaría, además de los requisitos previstos en el presente Código, reglamentos y manuales de procedimientos, guías y todos los señalados en la página de internet de la Secretaría, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
 
 ###### ARTICULO 32.
 
@@ -902,6 +912,10 @@ IV. La regulación de obras o actividades de carácter público o privado de com
 I. Aguas de jurisdicción estatal: las existentes dentro del territorio del Estado, siempre que no estén comprendidas en algunos de los casos de jurisdicción nacional o de propiedad particular, que se señalan en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Aguas residuales: las aguas de composición variada, provenientes de las descargas de usos público urbanos, doméstico, industrial, comercial de servicios, agrícola, pecuario de las plantas de tratamiento y en general de cualquier uso, así como la mezcla de ellas;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+II Bis. Constancia de No Adeudo Fiscal: Documento que consta que no se tiene adeudo alguno en Contribuciones registradas en el Estado de personas físicas y/o morales, el cual es requisito indispensable para la obtención de otros servicios o derechos;
 
 III. Cuerpo receptor: la corriente o depósito natural de agua, presas, cauces, zonas marinas o bienes estatales donde se descargan aguas residuales, así como los terrenos en donde se infiltran dichas aguas, cuando puedan contaminar los suelos, subsuelo o acuíferos;
 
@@ -1292,6 +1306,10 @@ III. Señalamiento de las medidas de seguridad en materia ambiental.
 5. Para los efectos a que se refiere la fracción XVII del párrafo 1 del presente artículo, la Secretaría notificará a los interesados su determinación para que sometan al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, explicando las razones que lo justifiquen, con el propósito de que aquéllos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a diez días. Una vez recibida la documentación, en un plazo no mayor a quince días, la Secretaría comunicará si procede o no una manifestación de impacto ambiental u otro estudio. Transcurrido el plazo indicado, se entenderá que no se requiere la presentación de manifestación o estudio alguno.
 
 6. El Reglamento del presente Libro determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al medio ambiente, y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+7. Para todos los trámites y servicios que se realizan en esta Secretaría, además de los requisitos previstos en el presente Código, reglamentos y manuales de procedimientos, guías y todos los señalados en la página de internet de la Secretaría, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
 
 ###### ARTICULO 58.
 
@@ -2145,6 +2163,10 @@ III. Aprovechamiento de residuos: El conjunto de acciones cuyo objetivo es recup
 
 IV. Composteo: El proceso de descomposición aerobia de la materia orgánica mediante la acción de microorganismos específicos, que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos;
 
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+IV Bis. Constancia de No Adeudo Fiscal: Documento que consta que no se tiene adeudo alguno en Contribuciones registradas en el Estado de personas físicas y/o morales, el cual es requisito indispensable para la obtención de otros servicios o derechos;
+
 V. Contenedor: El recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos urbanos o de manejo especial, durante su acopio, almacenamiento, recolección y traslado;
 
 VI. Caracterización de sitios contaminados: La determinación cualitativa y cuantitativa de los contaminantes presentes, provenientes de materiales o residuos regulados por este Libro, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
@@ -2716,6 +2738,10 @@ VI. Obtener una autorización en materia de impacto ambiental, en caso de que se
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 2. Además de los requisitos señalados en este artículo, la persona física o moral deberá atender las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por la Secretaría, mismas que formarán parte de la autorización.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+3. Para todos los trámites y servicios que se realizan en esta Secretaría, además de los requisitos previstos en el presente Código, reglamentos y manuales de procedimientos, guías y todos los señalados en la página de internet de la Secretaría, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
 
 ###### ARTICULO 146.
 
@@ -4992,3 +5018,11 @@ P.O. 8 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-817 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, CON RELACIÓN A LAS CONSTANCIAS DE NO ADEUDO FISCAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
