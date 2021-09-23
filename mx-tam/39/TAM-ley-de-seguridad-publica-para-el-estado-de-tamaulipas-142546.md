@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2021-07-14"
+last_updated: "2021-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -639,7 +639,9 @@ XI.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus
 
 La Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos, tendrá las atribuciones siguientes:
 
-I.- Proporcionar la seguridad y protección al Gobernador del Estado, a quien haya desempeñado dicho cargo, servidores públicos, previo dictamen emitido por la Secretaría y a otras personas nacionales o extranjeras que por la importancia de su encargo o encomienda, o por determinada circunstancia imperante, expresamente así lo disponga el Gobernador del Estado. En todo caso, para brindar este servicio, la Secretaría realizará la evaluación inherente a la o las personas que deban ser objeto de protección y seguridad;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Proporcionar la seguridad y protección a las personas titulares del Ejecutivo Estatal, Secretaría General de Gobierno, Secretaría de Seguridad Pública y Fiscalía General de Justicia, mediante las medidas adecuadas y suficientes, durante el tiempo que dure su cargo, así como por un periodo igual al tiempo que ocupó el mismo y podrán ser prorrogables, en tanto las condiciones de riesgo lo ameriten;
 
 II.- Brindar la seguridad a instalaciones y edificios públicos, así como de los inmuebles donde el Gobernador del Estado resida o labore habitual o transitoriamente y los vehículos donde sea trasladado;
 
@@ -2196,3 +2198,15 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-821 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
