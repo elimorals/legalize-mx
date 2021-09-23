@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2020-04-14"
+last_updated: "2021-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -75,65 +75,69 @@ I. Consejo: El Consejo Estatal de Seguridad Pública;
 
 II. Consejo Nacional: El Consejo Nacional de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-III. Fiscal General: El Fiscal General de Justicia del Estado;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-IV. Fiscalía General: La Fiscalía General de Justicia del Estado;
+III. Consejo de Participación Ciudadana: El órgano de consulta independiente y externa de rendición de cuentas y evaluación política de seguridad en el Estado;
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-V. Haber: La cantidad base de dinero con que se retribuye a los Integrantes, los servicios prestados;
+IV. Fiscal General: El Fiscal General de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+V. Fiscalía General: La Fiscalía General de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+VI. Haber: La cantidad base de dinero con que se retribuye a los Integrantes, los servicios prestados;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN III], P.O. 14 DE ABRIL DE 2020)
 
-VI. Instituciones policiales: Las corporaciones que cumplen funciones de prevención, de investigación, de reacción, de inspección, de vigilancia, de custodia y de vialidad; los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local o municipal, que realicen funciones similares;
+VII. Instituciones policiales: Las corporaciones que cumplen funciones de prevención, de investigación, de reacción, de inspección, de vigilancia, de custodia y de vialidad; los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local o municipal, que realicen funciones similares;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 14 DE ABRIL DE 2020)
 
-VII. Instituciones de Procuración de Justicia: El Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+VIII. Instituciones de Procuración de Justicia: El Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 14 DE ABRIL DE 2020)
 
-VIII. Instituciones de seguridad pública: Las instituciones policiales y de procuración de justicia, así como los tribunales e instancias responsables de la reinserción social del sentenciado, al igual que la reintegración social y familiar del adolescente, estatales y municipales;
+IX. Instituciones de seguridad pública: Las instituciones policiales y de procuración de justicia, así como los tribunales e instancias responsables de la reinserción social del sentenciado, al igual que la reintegración social y familiar del adolescente, estatales y municipales;
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 14 DE ABRIL DE 2020)</small>
 
-IX. Ley: La Ley de Coordinación del Sistema de Seguridad Pública para el Estado de Tamaulipas;
+X. Ley: La Ley de Coordinación del Sistema de Seguridad Pública para el Estado de Tamaulipas;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 14 DE ABRIL DE 2020)
 
-X. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+XI. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN X], P.O. 14 DE ABRIL DE 2020)
 
-XI. Programa: El Programa del Sistema Estatal de Seguridad Pública;
+XII. Programa: El Programa del Sistema Estatal de Seguridad Pública;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 14 DE ABRIL DE 2020)
 
-XII. Programa Integral: El Programa Integral de Prevención del Delito del Estado;
+XIII. Programa Integral: El Programa Integral de Prevención del Delito del Estado;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 14 DE ABRIL DE 2020)
 
-XIII. Secretaría: La Secretaría de Seguridad Pública;
+XIV. Secretaría: La Secretaría de Seguridad Pública;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XIII] P.O. 14 DE ABRIL DE 2020)
 
-XIV. Secretario: El Secretario de Seguridad Pública;
+XV. Secretario: El Secretario de Seguridad Pública;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 14 DE ABRIL DE 2020)
 
-XV. Secretario Ejecutivo: El titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XVI. Secretario Ejecutivo: El titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], P.O. 14 DE ABRIL DE 2020)</small>
 
-XVI. Sistema: El Sistema Estatal de Seguridad Pública; y
+XVII. Sistema: El Sistema Estatal de Seguridad Pública; y
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 14 DE ABRIL DE 2020)
 
-XVII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
+XVIII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
 
 ###### ARTICULO 5.
 
@@ -701,9 +705,15 @@ III. Los consejos municipales de seguridad pública;
 
 IV. Los consejos regionales de seguridad pública;
 
-V. La Conferencia Estatal de las instituciones policiales; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-VI. El Presidente del Consejo tiene la facultad y obligación de promover en todo tiempo, con la asistencia del Secretario, la coordinación y el funcionamiento efectivo del Sistema y de las instancias que lo integran.
+V. La Conferencia Estatal de las instituciones policiales;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+VI. El Consejo de Participación Ciudadana; y
+
+VII. El Presidente del Consejo tiene la facultad y obligación de promover en todo tiempo, con la asistencia del Secretario, la coordinación y el funcionamiento efectivo del Sistema y de las instancias que lo integran.
 
 El Secretario Ejecutivo se coordinará con los presidentes de los órganos colegiados referidos para impeler que la colaboración sea efectiva y se formulen y ejecuten políticas, programas, objetivos, estrategias y acciones eficaces, así como para su seguimiento y evaluación.
 
@@ -1025,7 +1035,47 @@ El Secretario Ejecutivo será el secretario técnico de la Conferencia, convocar
 
 El quórum para las reuniones de la Conferencia Estatal se integrará con la mitad más uno de los integrantes.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+#### SECCION QUINTA. DEL CONSEJO DE PARTICIPACION CUIDADANA
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 40 BIS. El Consejo de Participación Ciudadana se integrará por siete consejeros electos por la mayoría de los miembros presentes del Congreso a propuesta del Gobernador, aplicándose en lo conducente para tal efecto el procedimiento de nombramientos de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas. El Consejo emitirá recomendaciones e informes no vinculantes.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 40 TER. Para el ejercicio de su responsabilidad constitucional y legal el Consejo acordará por la mayoría de sus miembros los lineamientos para su funcionamiento interno.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 40 QUATER. Para ser integrante del Consejo de Participación Ciudadana se requiere:
+
+I. Ser ciudadano tamaulipeco en pleno ejercicio de sus derechos;
+
+II. Gozar buena reputación y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o por delito culposo calificado como grave por la ley, ni estar sujeto a procedimiento penal;
+
+III. No ser servidor público en funciones de instituciones de la Federación, el Estado o los Municipios, vinculadas con la seguridad pública o la procuración de justicia;
+
+IV. Poseer conocimientos sobre la función de la seguridad pública del Estado; y
+
+V. Contar por lo menos con 25 años de edad el día de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 40 QUINQUIES. Los integrantes del Consejo tendrán las siguientes obligaciones y prerrogativas:
+
+I. Acudir puntualmente a las reuniones del Consejo;
+
+II. Tener derecho a voz y voto dentro del Consejo;
+
+III. Atender y darle seguimiento a las encomiendas que por acuerdo del Consejo se les asignen;
+
+IV. Participar en las actividades de evaluación política de seguridad del Estado que lleve a cabo el Consejo;
+
+V. Opinar y formular propuestas con relación a las recomendaciones e informes no vinculantes que emita el Consejo; y
+
+VI. Las demás que acuerde el Consejo o que se establezcan en los lineamientos internos del mismo.
 
 ### CAPITULO III. DEL PROGRAMA DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
@@ -1089,7 +1139,7 @@ Son sujetos al régimen de desarrollo policial los integrantes de las institucio
 
 ### CAPITULO II. DE LA CARRERA POLICIAL
 
-#### SECCION SEGUNDA. DEL RECLUTAMIENTO, FORMACION INICIAL, SELECCION, E INGRESO
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTICULO 48.
 
@@ -1149,7 +1199,7 @@ La Carrera Policial es independiente de los nombramientos para desempeñar cargo
 
 En términos de las disposiciones aplicables, los titulares de las instituciones policiales podrán designar a los integrantes en cargos administrativos; asimismo, podrán relevarlos libremente, reintegrándolo a su grado policial y derechos inherentes a la Carrera Policial.
 
-#### SECCION TERCERA. DE LA PERMANENCIA, CERTIFICACION, PROMOCION Y RECONOCIMIENTO
+#### SECCION SEGUNDA. DEL RECLUTAMIENTO, FORMACION INICIAL, SELECCION, E INGRESO
 
 ###### ARTICULO 53.
 
@@ -1217,7 +1267,7 @@ Dicho proceso comprende el periodo de los cursos de formación o capacitación, 
 
 El ingreso consiste en la integración a la estructura institucional, de los candidatos que hayan acreditado, con los documentos y dictámenes respectivos, haber cumplido con lo dispuesto en el artículo anterior. Estos documentos y dictámenes serán aptos para acreditar el alta administrativa del candidato.
 
-#### SECCION CUARTA. DE LA SEPARACION O BAJA DEL SERVICIO
+#### SECCION TERCERA. DE LA PERMANENCIA, CERTIFICACION, PROMOCION Y RECONOCIMIENTO
 
 ###### ARTICULO 58.
 
@@ -1313,7 +1363,7 @@ El reconocimiento público a los integrantes de las instituciones policiales ser
 
 Todo reconocimiento otorgado por las instituciones será acompañado de una constancia que acredite el otorgamiento del mismo, la cual deberá ser integrada al expediente del elemento y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION CUARTA. DE LA SEPARACION O BAJA DEL SERVICIO
 
 ###### ARTICULO 65.
 
@@ -1435,7 +1485,7 @@ Los servidores públicos que tengan bajo su mando a agentes del Ministerio Públ
 
 ### CAPITULO II. DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
 
-#### SECCION SEGUNDA. DEL INGRESO AL SERVICIO DE CARRERA
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTICULO 76.
 
@@ -1473,7 +1523,7 @@ IX. Contendrá las normas para el registro y el reconocimiento de los certificad
 
 X. Contendrá las normas para el registro de las incidencias del personal.
 
-#### SECCION TERCERA. DEL DESARROLLO DEL SERVICIO DE CARRERA
+#### SECCION SEGUNDA. DEL INGRESO AL SERVICIO DE CARRERA
 
 ###### ARTICULO 78.
 
@@ -1545,9 +1595,7 @@ La duración de los programas de formación inicial no podrá ser inferior a qui
 
 En todo caso atendiendo a los lineamientos aplicables.
 
-#### SECCION CUARTA. DE LA TERMINACION DEL SERVICIO DE CARRERA
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+#### SECCION TERCERA. DEL DESARROLLO DEL SERVICIO DE CARRERA
 
 ###### ARTICULO 81.
 
@@ -1579,7 +1627,7 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 Las solicitudes de reincorporación al servicio de carrera se analizarán y en su caso, concederán con arreglo a lo que establezcan las leyes respectivas, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal.
 
-#### SECCIÓN PRIMERA. DEL REGISTRO DE DETENCIONES
+#### SECCION CUARTA. DE LA TERMINACION DEL SERVICIO DE CARRERA
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
@@ -1747,7 +1795,9 @@ Las instituciones adoptarán programas informáticos para organizar, ejecutar y 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2020)</small>
 
-#### SECCION SEGUNDA. DEL SISTEMA UNICO DE INFORMACION CRIMINAL
+#### SECCIÓN PRIMERA. DEL REGISTRO DE DETENCIONES
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 99.
 
@@ -1831,7 +1881,7 @@ Al servidor público que quebrante la reserva del Registro o proporcione informa
 
 Las instituciones de seguridad pública serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
 
-#### SECCION TERCERA. DEL REGISTRO NACIONAL DE PERSONAL DE SEGURIDAD PUBLICA
+#### SECCION SEGUNDA. DEL SISTEMA UNICO DE INFORMACION CRIMINAL
 
 ###### ARTICULO 104.
 
@@ -1855,7 +1905,7 @@ El Sistema Nacional de Información Penitenciaria es la base de datos que, dentr
 
 La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración de dicho sistema.
 
-#### SECCION CUARTA. DEL REGISTRO NACIONAL DE ARMAMENTO Y EQUIPO
+#### SECCION TERCERA. DEL REGISTRO NACIONAL DE PERSONAL DE SEGURIDAD PUBLICA
 
 ###### ARTICULO 109.
 
@@ -1873,19 +1923,7 @@ Cuando a los integrantes de las instituciones de seguridad pública se les dicte
 
 Las instituciones de seguridad pública inscribirán y mantendrán permanentemente actualizados en el Registro, los datos relativos a sus integrantes, en los términos de esta Ley.
 
-#### SECCIÓN QUINTA. DEL REGISTRO DE MEDIDAS CAUTELARES, SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
-
-ARTICULO 114 BIS. Las autoridades competentes mantendrán permanentemente actualizado el Registro de Medidas Cautelares y Soluciones Alternas y de Terminación Anticipada, el cual incluirá por lo menos lo siguiente:
-
-I. Las medidas cautelares impuestas a un imputado, fecha de inicio y término, delitos por el que se impuso la medida y, en su caso, incumplimiento o modificación de la misma;
-
-II. Los acuerdos reparatorios que se realicen, especificando el nombre de las partes que lo realizan, el tipo de delito, la autoridad que los sancionó, su cumplimiento o incumplimiento;
-
-III. La suspensión condicional, el proceso aprobado por el juez de control, especificando los nombres de las partes, el tipo del delito, las condiciones impuestas por el Juez, y su cumplimiento o incumplimiento; y
-
-IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
+#### SECCION CUARTA. DEL REGISTRO NACIONAL DE ARMAMENTO Y EQUIPO
 
 ###### ARTICULO 111.
 
@@ -1910,6 +1948,20 @@ En el caso de que los integrantes de las Instituciones de Seguridad Pública ase
 El incumplimiento de las disposiciones de esta sección, dará lugar a que la portación o posesión de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE ABRIL DE 2020)</small>
+
+#### SECCIÓN QUINTA. DEL REGISTRO DE MEDIDAS CAUTELARES, SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+ARTICULO 114 BIS. Las autoridades competentes mantendrán permanentemente actualizado el Registro de Medidas Cautelares y Soluciones Alternas y de Terminación Anticipada, el cual incluirá por lo menos lo siguiente:
+
+I. Las medidas cautelares impuestas a un imputado, fecha de inicio y término, delitos por el que se impuso la medida y, en su caso, incumplimiento o modificación de la misma;
+
+II. Los acuerdos reparatorios que se realicen, especificando el nombre de las partes que lo realizan, el tipo de delito, la autoridad que los sancionó, su cumplimiento o incumplimiento;
+
+III. La suspensión condicional, el proceso aprobado por el juez de control, especificando los nombres de las partes, el tipo del delito, las condiciones impuestas por el Juez, y su cumplimiento o incumplimiento; y
+
+IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
 
 ### CAPITULO III. DE LA RED ESTATAL DE TELECOMUNICACIONES
 
@@ -2326,3 +2378,15 @@ P.O. 14 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXIV-820 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DEL CONSEJO DE PARTICIPACIÓN CIUDADANA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
