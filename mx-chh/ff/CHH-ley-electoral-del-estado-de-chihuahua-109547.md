@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2021-08-07"
+last_updated: "2021-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -499,13 +499,17 @@ c) Las personas titulares de las presidencias municipales, de las sindicaturas y
 
 d) Las personas que hayan ocupado los cargos de sindicatura o regiduría podrán ser postuladas en el periodo inmediato siguiente como personas candidatas a la presidencia municipal, sin que ello suponga reelección, pero quienes hayan ocupado el cargo de la presidencia municipal no podrán postularse como personas candidatas a la sindicatura o regiduría en el periodo inmediato siguiente.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-4) Las Juntas Municipales y las Comisarías de Policía son autoridades municipales, las cuales serán elegidas en los términos del Libro Décimo de esta Ley.
+4) Las Juntas Municipales y las Comisarías de Policía son autoridades municipales, las cuales podrán ser elegidas en los términos del Libro Décimo de esta Ley.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
 
 I. Las Juntas Municipales, que se integran por la persona titular de la Presidencia Seccional y dos Regidurías.
 
 En las secciones municipales con más de cuatro mil habitantes existirá un regidor más, que será el primero de la lista de la planilla que hubiere alcanzado el segundo lugar, siempre que su porcentaje sea por lo menos el cincuenta por ciento de la votación alcanzada por la planilla ganadora.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
 
 II. Las Comisarías de Policía.
 
@@ -1267,9 +1271,9 @@ i) Promover la cultura democrática con perspectiva de género.
 
 j) Convocar, organizar y vigilar las elecciones extraordinarias.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-k) Preparar, organizar, desarrollar y calificar las elecciones de las Juntas Municipales correspondientes a las secciones establecidas en el artículo 11 del Código Municipal para el Estado de Chihuahua.
+k) Preparar, organizar, desarrollar y calificar las elecciones de las Juntas Municipales correspondientes a las secciones establecidas en el artículo 11 del Código Municipal para el Estado de Chihuahua que, en su caso, le sean solicitadas en los términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -8601,6 +8605,28 @@ Los ayuntamientos que requieran la celebración de la elección de las Juntas Mu
 
 El aviso deberá contener el número y nombre de las Juntas Municipales que serán objeto de elección.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 405 Bis
+
+Para los efectos de que, en su caso, le fuera solicitado al Instituto Estatal Electoral la celebración de elecciones previstas en los artículos 405 y 438, y demás disposiciones aplicables de la presente Ley, relativas a las Juntas Municipales y Comisarías de Policía, el peticionario deberá justificar la suficiencia presupuestaria para tal fin, y encontrarse además, dentro de los tiempos previstos en las normas conducentes.
+
+En caso dado, los Ayuntamientos podrán llevar a cabo por sí mismos las elecciones previstas en el párrafo que antecede, bajo las siguientes previsiones:
+
+I. La convocatoria será publicada con quince días naturales de anticipación al día de la elección ordinaria que se celebrará el último domingo del mes de octubre del año en que se instale el Ayuntamiento; y las extraordinarias, cuando haya solicitado la remoción de las autoridades por más de la mitad de los ciudadanos y así lo haya acordado el Ayuntamiento.
+
+II. La convocatoria contendrá las bases que para su celebración expida el Ayuntamiento.
+
+III. Las personas que se registren como candidatas a los puestos de elección, se registrarán por planillas en las que se mencionen los nombres de los propietarios y los suplentes.
+
+IV. Las personas integrantes de las Juntas Municipales serán electas en escrutinio secreto por mayoría de votos.
+
+V. Las personas integrantes de las Comisarías de Policía, serán electas en plebiscitos por mayoría de votos.
+
+VI. Los Ayuntamientos harán el cómputo y declaración de validez de la elección y del plebiscito que corresponda y, en su caso, entregarán las constancias de mayoría correspondientes.
+
+VII. Las Juntas Municipales y las Comisarías de Policía se instalarán el día quince de diciembre del año correspondiente a su renovación.
+
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 Artículo 406
@@ -9104,3 +9130,15 @@ P.O. 7 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0013/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La convocatoria para las elecciones de integrantes de las Juntas Municipales y de las Comisarías de Policía que tendrán verificativo el 31 de octubre del año 2021, deberá ser expedida y publicada por el Instituto Estatal Electoral, por esta vez, a más tardar el día 30 de septiembre del año 2021.
