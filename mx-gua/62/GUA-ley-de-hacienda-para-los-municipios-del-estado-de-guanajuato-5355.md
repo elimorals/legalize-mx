@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2019-11-22"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1481,9 +1481,11 @@ La suspensión podrá ser solicitada en cualquier tiempo ante las Tesorerías Mu
 
 No se exigirá dicha garantía si en el procedimiento administrativo de ejecución se hubieren ya embargado bienes suficientes para garantizar los intereses fiscales.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 144.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante la Sala del Tribunal de lo Contencioso Administrativo del Estado que conozca el juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El Superior o la sala ordenará a la Autoridad Ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante la Sala del Tribunal de Justicia Administrativa que conozca el juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o la sala ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
 
 ### CAPITULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -1569,29 +1571,41 @@ I.- Que no afecten el interés jurídico del recurrente;
 
 II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias;
 
-III.- Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquéllos contra los que no se promovió el recurso en el plazo señalado al efecto;
+III.- Que hayan sido impugnados ante el Tribunal de Justicia Administrativa;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto; y
 
 V.- En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno.
 
 #### SECCION SEGUNDA. DEL RECURSO DE REVOCACION
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 152.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otra, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa. Las resoluciones administrativas deberán establecer que son recurribles a través del citado recurso o bien que podrá promoverse juicio ante el Tribunal de Justicia Administrativa, indicando el plazo para ambos casos.
 
-Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de lo Contencioso Administrativo del Estado, la impugnación del acto conexo deberá hacerse valer ante la Sala del Tribunal que conozca del juicio respectivo.
+El interesado deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otra, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+
+Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de Justicia Administrativa, la impugnación del acto conexo deberá hacerse valer ante la Sala del Tribunal que conozca del juicio respectivo.
 
 #### SECCION TERCERA. DEL RECURSO DE OPOSICION AL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 153.
 
-El recurso de oposición al procedimiento de ejecución se hará valer ante la Tesorería Municipal y no podrá discutirse en el mismo la validez del acto administrativo en que se haya determinado el crédito fiscal.
+En el recurso de oposición al procedimiento administrativo de ejecución no podrá discutirse la validez del acto administrativo en que se haya determinado el crédito fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 154.
 
-Cuando el recurso de oposición al procedimiento de ejecución se interponga porque éste no se ajustó a la Ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primer almoneda. Salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de actos administrativos que no fueron notificados o que lo fueron ilegalmente, casos en que el plazo para interponer el recurso, se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
+Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque este no se ajustó a la Ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de actos administrativos que no fueron notificados o que lo fueron ilegalmente, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
@@ -1622,6 +1636,10 @@ Si por el enlace de las pruebas rendidas y de las presunciones formadas, las aut
 La Tesorería Municipal deberá dictar resolución y notificarla en un término que no excederá de cuatro meses contados a partir de la fecha de interposición del recurso. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
 
 El recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+La resolución podrá ser impugnada optativamente ante el Juzgado Administrativo Municipal o el Tribunal de Justicia Administrativa, por lo que aquella emitida deberá indicar los medios de defensa que procedan contra esta, la autoridad ante la cual deba interponerse y el plazo para ello.
 
 ###### ARTICULO 159.
 
@@ -2894,3 +2912,9 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 111, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 343 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN LOS ARTÍCULOS 144; 151, FRACCIONES III Y IV; 152; 153; Y 154, PRIMER PÁRRAFO; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 158 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
