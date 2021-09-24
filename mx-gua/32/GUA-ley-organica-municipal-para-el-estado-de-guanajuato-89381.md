@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2021-04-23"
+last_updated: "2021-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -795,15 +795,9 @@ Licencias
 
 En las faltas por licencia de más de dos meses de los regidores y síndicos propietarios, se llamará a los suplentes. Al término del plazo de la licencia concedida, el propietario deberá integrarse de inmediato a su cargo; cuando se trate de licencias por tiempo indeterminado, el ausente se reintegrará a la sesión siguiente a su aviso de terminación de la licencia.
 
-Abandono definitivo del cargo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
-
 ###### Artículo 50.
 
-Tres faltas consecutivas y sin causa justificada a las sesiones ordinarias de Ayuntamiento, serán consideradas como abandono definitivo del cargo.
-
-Para que se pueda considerar abandono definitivo del cargo, el Ayuntamiento lo notificará al regidor o síndico que haya incurrido en la causal referida en el párrafo anterior, para que manifieste lo que a su derecho convenga y en su caso, ofrezca las pruebas pertinentes por un término de quince días. Transcurrido dicho plazo el Ayuntamiento acordará si se actualiza el abandono definitivo del cargo, si se finca la responsabilidad correspondiente y si procede llamar al suplente, quien en su caso rendirá la protesta en la sesión siguiente. El acuerdo del Ayuntamiento que declare el abandono definitivo del cargo deberá notificarse al interesado dentro de los cinco días siguientes.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2381,6 +2375,10 @@ La contraloría municipal es el órgano interno de control encargado de la evalu
 
 La contraloría municipal tendrá autonomía técnica y de gestión.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+En el caso de ausencia definitiva del titular de la Contraloría Municipal por causas diversas a la conclusión de su período, el Ayuntamiento designará al Contralor Municipal a más tardar cuarenta y cinco días posteriores a la fecha en la que se determinó la vacante.
+
 El titular de la Contraloría Municipal durará en su cargo un periodo de cinco años, sin posibilidad de designación en el periodo inmediato, y será nombrado por el Ayuntamiento a partir de una terna formulada por el Comité Municipal Ciudadano.
 
 Para formular su propuesta, el Comité Municipal Ciudadano deberá realizar consulta pública. La consulta deberá ser publicada en el Periódico Oficial del Gobierno del Estado y, al menos, en uno de los medios de comunicación impresos de mayor circulación en el Municipio, a efecto de que las propuestas que formulen los ciudadanos se integren en una terna que se presentará al Ayuntamiento.
@@ -2389,7 +2387,9 @@ La integración y funcionamiento del mecanismo de consulta se establecerá en el
 
 De la propuesta en terna de aspirantes al cargo de Contralor Municipal, el Ayuntamiento nombrará como Contralor Municipal, al que obtenga mayoría calificada. Si ninguno de los integrantes obtiene la mayoría calificada, se repetirá la votación entre los dos integrantes de la terna que hayan obtenido el mayor número de votos y de entre ellos, será nombrado como contralor municipal el que obtenga la mayoría. La información que se genere con motivo de la integración de la terna, es información pública.
 
-Para el supuesto de lo señalado en el párrafo anterior, el Ayuntamiento deberá nombrar contralor municipal a más tardar cuarenta y cinco días a partir de la ausencia definitiva del titular de la contraloría municipal, en tanto se designará un encargado de despacho.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+El Ayuntamiento deberá iniciar el proceso de nombramiento de (sic) Contralor Municipal a más tardar cuarenta y cinco días previos a la conclusión del periodo por el que fue designado el titular de la Contraloría.
 
 La consulta para la designación de Contralor Municipal estará a cargo del Comité Municipal Ciudadano, quien podrá solicitar asesoría al Comité de Participación Ciudadana del Sistema Estatal Anticorrupción sobre el mecanismo de consulta, previo a la publicación de la convocatoria.
 
@@ -2415,13 +2415,17 @@ Requisitos de la convocatoria
 
 2. La convocatoria para integrar el Comité Municipal Ciudadano se realizará cumpliendo al menos con las siguientes bases:
 
-l. Los aspirantes deberán ser ciudadanos guanajuatenses y no haber sufrido condena por delito grave señalado por el Código Penal del Estado de Guanajuato, ni por delito que amerite pena corporal de más de un año de prisión;
+I. Los aspirantes deberán ser ciudadanos guanajuatenses y no haber sufrido condena por delito grave señalado por el Código Penal del Estado de Guanajuato, ni por delito que amerite pena corporal de más de un año de prisión;
 
 II. Los interesados deberán entregar en un solo acto los siguientes documentos: copia de acta de nacimiento, copia de identificación oficial vigente, carta de residencia en el municipio y curriculum vitae, y
 
 III. El Ayuntamiento revisará que se cumpla con los requisitos, evaluará las propuestas recibidas considerando el perfil, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, rendición de cuentas así como combate a la corrupción y propondrán el listado que estimen más apropiado.
 
 Lo no previsto en estas bases mínimas, será resuelto por el Ayuntamiento en los términos que señale el reglamento municipal.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+La convocatoria se emitirá al menos con cincuenta días de anticipación a la fecha de conclusión del período del Comité Municipal Ciudadano.
 
 > <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
 
@@ -2441,11 +2445,15 @@ III. Evaluación y Control de Obra Pública; y
 
 IV. Asuntos Jurídicos y Responsabilidades.
 
-Presupuesto de la contraloría
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Presupuesto y recursos de la contraloría
 
 ###### Artículo 133.
 
-En el presupuesto de egresos municipal deberán preverse los recursos materiales y humanos, con los que deberá contar la Contraloría Municipal para el ejercicio de sus atribuciones, mismos que deberán proponerse directamente al Ayuntamiento en el anteproyecto que para tal efecto formule el Contralor Municipal, debiendo remitirlo a la Secretaria del Ayuntamiento para su tramitación, dando vista a la Tesorería Municipal quien deberá incluirlo en sus términos al proyecto de presupuesto de egresos.
+La Contraloría Municipal deberá contar con los recursos presupuestales, materiales, humanos y tecnológicos, para garantizar la integración y funcionamiento de las áreas administrativas a que se refiere el artículo anterior, así como las demás necesarias para el cumplimiento de sus atribuciones.
+
+La persona titular de la Contraloría elaborará su anteproyecto de egresos, y lo propondrá directamente al ayuntamiento, por conducto de la Secretaría del Ayuntamiento, dando vista a la Tesorería Municipal quien deberá incluirlo en sus términos en el proyecto de presupuesto de egresos.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2018)</small>
 
@@ -2569,7 +2577,9 @@ XIV. Vigilar el desarrollo administrativo de las dependencias y entidades de la 
 
 XV. Vigilar que el desempeño de las funciones de los servidores públicos municipales, se realice conforme a la Ley, los reglamentos respectivos y el Código de Ética;
 
-XVI. Proponer al personal que haya de ser contratado para auxilio en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Designar, promover y remover al personal de la Contraloría Municipal en los términos de la legislación y del servicio civil de carrera;
 
 XVII. Presentar al Ayuntamiento, su anteproyecto de presupuesto anual;
 
@@ -4391,6 +4401,12 @@ La calificación de la infracción y la imposición de la sanción, deberá reso
 
 En el caso de que la falta se sancione con arresto, la calificación se deberá resolver inmediatamente.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Determinación del lugar del arresto
+
+Artículo 262 bis. Para determinar la sanción de arresto, el médico adscrito al Juzgado Cívico propondrá al titular de este las medidas que permitan la salvaguarda de la integridad física de los detenidos, y en su caso el área correspondiente donde se cumplirá la sanción, en los términos previstos por la Ley de Justicia Cívica del Estado de Guanajuato.
+
 Efectos y aplicación de las sanciones
 
 ###### Artículo 263.
@@ -4796,3 +4812,41 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Expedición de disposiciones reglamentarias de la Ley
 
 Artículo Segundo. Los Ayuntamientos del Estado contarán con un término de noventa días naturales para adecuar sus reglamentos, en congruencia con el presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 342 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE DEROGA EL ARTÍCULO 50 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 341 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE ADICIONA EL ARTÍCULO 262 BIS A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto se publicará en Periódico Oficial del Gobierno del Estado de Guanajuato y entrará en vigor a partir del 25 de octubre de 2022.
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 340 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 131 , EL ARTÍCULO 133 Y LA FRACCIÓN XVI DEL ARTÍCULO 139; Y SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 131 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 131-2; DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Supuesto único
+
+Artículo Segundo. En los municipios que, a la entrada en vigencia del presente decreto, no se haya nombrado persona titular de la contraloría, corresponderá al Ayuntamiento entrante la conformación del Comité Municipal Ciudadano y el desarrollo del procedimiento previsto en el artículo 131 de la presente Ley hasta su conclusión. Para la conformación del Comité Municipal Ciudadano, el Ayuntamiento entrante contará con un plazo de treinta días contados a partir de su instalación. En tanto se lleva a cabo el proceso de nombramiento, se designará por el Ayuntamiento un encargado de despacho dentro del personal adscrito a la Contraloría Municipal.
+
+El Ayuntamiento, por única ocasión, deberá haber designado al titular de la Contraloría Municipal a más tardar el quince de enero de 2022.
+
+Titulares electos conforme a (sic) proceso de Ley
+
+Artículo Tercero. Las personas que hayan sido designadas como titulares de la Contraloría Municipal conforme al proceso previsto en el artículo 131 de esta Ley, permanecerán hasta que cumplan su periodo de cinco años, salvo que incurran en alguna causal de destitución.
+
+Derecho a participar
+
+Artículo Cuarto. Las personas que hayan sido designadas como titulares de la Contraloría Municipal conforme al proceso previsto en el artículo 131 de esta Ley permanecerán hasta que cumplan su periodo de cinco años, salvo que su designación este afectada de nulidad o incurran en alguna causal de destitución.
