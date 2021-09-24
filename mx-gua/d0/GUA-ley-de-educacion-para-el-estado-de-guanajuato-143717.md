@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2020-07-22"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -74,6 +74,10 @@ III. Comunidad Educativa: al conjunto de personas integrado por educandos, perso
 IV. Educación de calidad: es aquella que se logra con la alineación entre los objetos, procesos y resultados del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y relevancia;
 
 V. Educación de excelencia: entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+V bis. Educación en gestión menstrual: los conocimientos y acciones tendientes a disminuir las brechas de desigualdad en el proceso educativo para las mujeres con motivo de la menstruación, entendiendo esta como el sangrado vaginal que ocurre como parte del ciclo sexual femenino;
 
 VI. Educando: a las niñas, niños, adolescentes, jóvenes y todas aquellas personas que cursan sus estudios en alguna institución de los tipos de educación básico, medio superior y superior, de carácter público o privado con autorización o reconocimiento de validez oficial de estudios por parte de las autoridades correspondientes;
 
@@ -528,6 +532,10 @@ IX. Establecerán y fortalecerán servicios de educación a distancia, para la p
 X. Realizarán programas educativos que tiendan a elevar los niveles académicos, culturales, sociales y de bienestar de la población, tales como, alfabetización, certificación de primaria, secundaria y media superior, y formación para el trabajo;
 
 XI. Desarrollarán programas con perspectiva de género, para otorgar becas y demás apoyos económicos, preferentemente a educandos que enfrenten condiciones económicas y sociales desfavorables, a efecto de que puedan ejercer su derecho a la educación;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+XI bis. Coordinarse con la Secretaría de Salud para realizar acciones afirmativas para impulsar la educación menstrual en las escuelas pertenecientes al Sistema Educativo Estatal;
 
 XII. Impulsarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijas, hijos o pupilos, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
@@ -3244,3 +3252,11 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 338 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 3 Y LA FRACCIÓN XI BIS AL ARTÍCULO 34 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
