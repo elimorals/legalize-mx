@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-las-juventudes-del-estado-de-guanajuato-144660"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-21"
-last_updated: "2020-10-21"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 21 de octubre de 2020.
 
@@ -256,6 +254,14 @@ Derecho a la información y orientación en materia sexual
 ###### Artículo 17.
 
 Los jóvenes tienen derecho a recibir información y orientación completa y científica sobre sexualidad para la toma de decisiones libres, responsables y congruentes con su proyecto de vida.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Derecho a la información y orientación en educación menstrual
+
+###### Artículo 17 Bis.
+
+Los jóvenes tienen derecho a que se generen acciones afirmativas para el fomento de la educación menstrual.
 
 #### Sección Novena. Derecho a la educación
 
@@ -1360,3 +1366,11 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 339 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE ADICIONA EL ARTÍCULO 17 BIS A LA LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
