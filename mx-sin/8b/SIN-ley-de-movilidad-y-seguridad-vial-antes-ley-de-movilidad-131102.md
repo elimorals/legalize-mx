@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-movilidad-y-seguridad-vial-antes-ley-de-movilidad-131102
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-10"
-last_updated: "2018-10-10"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SIN"
 
 LEY DE MOVILIDAD SUSTENTABLE DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del No. 125 del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de octubre de 2018.
 
-El Ciudadano LIC. QUIRINO ORDAZ COPPEL, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+El Ciudadano LIC. QUIRINO ORDAZ COPPEL, Gobernador Constitucional del Estado Libre y Soberano de Sinaloau, a sus habitantes hace saber:
 
 Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
 
@@ -407,7 +407,7 @@ IV. Emitir la Convocatoria Pública, derivada de la Declaratoria de Necesidad pa
 
 V. Vigilar que los servicios de transporte público, en tanto componentes básicos de la Movilidad Sustentable, se presten con apego a esta Ley y demás disposiciones legales y administrativas aplicables, incluidas la inspección de vehículos e instalaciones destinadas a los servicios de transporte y el cumplimiento de las condiciones establecidas en las concesiones o permisos;
 
-VI. Expedir, asignar y hacer entrega a los propietarios o legítimos poseedores de vehículos (sic) las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran;
+VI. Expedir, asignar y hacer entrega a los propietarios o legítimos poseedores de vehículos las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran;
 
 VII. Llevar y mantener actualizado el registro de altas, bajas y traslación de dominio de los vehículos, así como de canje de placas de circulación y calcomanía respectiva;
 
@@ -1399,7 +1399,9 @@ Los botones de pánico, las alarmas de urgencia, seguridad y solicitud de auxili
 
 Los menores de siete años sólo pueden hacer uso del transporte público de personas cuando estén acompañados por persona mayor de edad que se responsabilice de su seguridad.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONDUCTORES PARTICULARES Y DEL TRANSPORTE PUBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONDUCTORES DE VEHÍCULOS PARTICULARES Y DEL TRANSPORTE PÚBLICO
 
 #### Sección I. De los Derechos
 
@@ -1443,17 +1445,29 @@ En este caso, se les extenderá un certificado de aptitud, previo curso de capac
 
 De Vehículos Particulares.-
 
-I. Tirar o arrojar basura u objetos desde el interior del vehículo hacia el exterior;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-II. Transportar un número de personas superior al número de plazas o asientos cuya capacidad posea el vehículo;
+I. No tirar o arrojar basura u objetos desde el interior del vehículo hacia el exterior, y vigilar que los pasajeros cumplan con dicha disposición;
 
-III. Abordar o descender de los vehículos cuando se encuentren en movimiento; en todo caso el ascenso o descenso del vehículo lo efectuarán del lado que se encuentre más cercano a la banqueta, una vez que éste haya detenido totalmente su marcha;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Viajar en las salpicaderas, estribos o defensas de los vehículos;
+II. No transportar un número de personas superior al número de plazas o asientos cuya capacidad posea el vehículo;
 
-V. Cargar sobre sus piernas niños, mascotas u objetos al conducir;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Operar o accionar teléfonos celulares o cualquier otro aparato mecánico o electrónico mientras los vehículos se encuentren en movimiento, con excepción de los pasajeros y conductores de vehículos de paso preferencial o emergencia;
+III. No abordar o descender pasajeros de los vehículos cuando se encuentren en movimiento; en todo caso el ascenso o descenso del vehículo lo efectuarán del lado que se encuentre más cercano a la banqueta, una vez que éste haya detenido totalmente su marcha;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+IV. No llevar pasajeros en las salpicaderas, estribos o defensas de los vehículos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+V. No cargar sobre sus piernas a niños, mascotas u objetos al conducir;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+VI. No operar o accionar teléfonos celulares o cualquier otro aparato mecánico o electrónico mientras los vehículos se encuentren en movimiento, con excepción de los pasajeros y conductores de vehículos de paso preferencial o emergencia;
 
 VII. Utilizar los cinturones de seguridad del vehículo. Esta disposición se hará extensiva también a los pasajeros;
 
@@ -4374,3 +4388,21 @@ CARLOS GERARDO ORTEGA CARRICARTE
 SECRETARIO DE DESARROLLO SUSTENTABLE
 
 ÁLVARO RUELAS ECHAVE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 684 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO V, DEL TÍTULO SÉPTIMO; Y EL ARTÍCULO 101, EN SU PÁRRAFO TERCERO, EN SUS FRACCIONES I, II, III, IV, V Y VI, DE LA LEY DE MOVILIDAD SUSTENTABLE DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá adecuar, en su caso, las disposiciones normativas y reglamentarias respectivas, de conformidad con lo que se dispone en este instrumento.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
