@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-bebidas-alcoholicas-para-el-estado-de-guanajuato-y-13969
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Décima Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -107,7 +107,9 @@ XVI. Productor artesanal: Persona física o moral que de manera independiente re
 
 XVII. Productor en serie: Personas (sic) física o moral que fabrica, produce o envasa bebidas alcohólicas de forma distinta a la que implementan los productores artesanales;
 
-XVIII. Reincidencia: La comisión de un acto o hecho contrario a las disposiciones de esta Ley, en dos o más ocasiones;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Reincidencia. La sanción en dos o más ocasiones por infracciones a las disposiciones de esta Ley, en un periodo que no exceda de cinco años;
 
 XIX. Refrendo: Acto administrativo mediante el cual se otorga vigencia a la licencia por el ejercicio fiscal correspondiente;
 
@@ -275,7 +277,9 @@ Los titulares de las licencias deberán realizar el trámite de refrendo dentro 
 
 Para tales efectos, deberán solicitar el refrendo correspondiente al SATEG a través de los medios que se establezcan en las disposiciones de carácter general que éste emita.
 
-En caso de que los titulares de las licencias no realicen el trámite de refrendo dentro del plazo establecido, éstas quedarán revocadas. De ser así, se deberá llevar a cabo el trámite para el otorgamiento de una nueva licencia.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de que los titulares de las licencias no realicen el trámite de refrendo en dos o más ejercicios fiscales, estas quedarán revocadas; para tales efectos, el SATEG llevará a cabo lo previsto en el artículo 28 de la presente Ley. En estos casos se deberá llevar a cabo el trámite para el otorgamiento de una nueva licencia.
 
 Determinación del tipo de licencia
 
@@ -421,9 +425,11 @@ En caso de que el dictamen se emita en sentido positivo, el solicitante deberá 
 
 Modificaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-El SATEG podrá autorizar la modificación de domicilio, de titular, de tipo de la licencia o de modalidades complementarias, para lo cual, su titular deberá dar cumplimiento a lo establecido en los artículos 20 y 21 de esta Ley.
+El SATEG podrá autorizar la modificación de domicilio, de titular o de modalidades complementarias, para lo cual, su titular deberá dar cumplimiento a lo establecido en los artículos 20 y 21 de esta Ley.
 
 Para el caso de modificación de titular, el solicitante deberá acreditar que cuenta con los derechos de la licencia de manera legítima, para lo cual, deberá adjuntar el testimonio público o, en su caso, los testimonios para acreditar este hecho; o bien, resolución judicial en firme, en la que conste de manera expresa la adjudicación de los derechos de la licencia a su favor.
 
@@ -431,7 +437,9 @@ Se deberá realizar el trámite a que se refiere el párrafo que antecede, dentr
 
 En el supuesto de fallecimiento del titular de la licencia, ésta podrá ser explotada por el beneficiario designado por éste en su solicitud hasta por seis meses contados a partir del fallecimiento de aquel, tiempo en el cual deberá realizar los trámites para el cambio de titular de la licencia.
 
-Una vez que se tenga el dictamen administrativo correspondiente y en caso de que éste se emita en sentido positivo, el solicitante deberá cubrir los pagos que deriven por las modificaciones a las licencias de funcionamiento a que haya lugar, en un plazo de quince días naturales, en caso de que el solicitante no realice el pago se entenderá por desistido del trámite.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Una vez que se tenga el dictamen administrativo correspondiente y en caso de que este se emita en sentido positivo, el solicitante deberá cubrir los pagos que deriven por las modificaciones a las licencias de funcionamiento a que haya lugar, en un plazo de quince días hábiles, en caso de que el solicitante no realice el pago se entenderá por desistido del trámite.
 
 Actualización de datos
 
@@ -457,13 +465,19 @@ El SATEG podrá revocar la licencia o el permiso cuando se dé alguno de los sig
 
 I. A solicitud del ayuntamiento en los términos del artículo 12 fracción V de esta Ley;
 
-II. Cuando cometa infracciones señaladas en la presente Ley en más de dos ocasiones, dentro de un mismo ejercicio fiscal;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-III. Que se acredite que el titular presentó documentos falsos para cubrir los requisitos establecidos;
+II. Cuando cometa infracciones señaladas en la presente Ley en más de dos ocasiones;
 
-IV. Por violar los sellos de clausura colocados por autoridad estatal o municipal; y
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-V. A solicitud de los propietarios o poseedores legítimos de inmuebles que acrediten la terminación de la relación jurídica o contractual entre el titular de la licencia y aquellos.
+III. Cuando se acredite por segunda ocasión que en el establecimiento se hayan enajenado bebidas alcohólicas a menores de edad dentro de los últimos cinco años;
+
+IV. Que se acredite que el titular presentó documentos falsos para cubrir los requisitos establecidos;
+
+V. Por violar los sellos de clausura colocados por autoridad estatal o municipal; y
+
+VI. A solicitud de los propietarios o poseedores legítimos de inmuebles que acrediten la terminación de la relación jurídica o contractual entre el titular de la licencia y aquellos.
 
 Para lo señalado en la fracción I, las solicitudes deberán estar debidamente fundadas y motivadas, anexando la documentación que acredite los supuestos que sustenten dicha solicitud.
 
@@ -521,9 +535,15 @@ Los medidores para realizar pruebas de detección de intoxicación o nivel de al
 
 Los establecimientos deberán informar a los clientes acerca de la implementación de los programas emitidos por la Secretaría de Salud y por la Secretaría de Gobierno, tendientes a evitar o disuadir tanto el consumo excesivo de bebidas alcohólicas, como la conducción de vehículos automotores bajo el influjo del alcohol.
 
-En los establecimientos se deberá sugerir al conductor que sea notorio su estado de ebriedad que no conduzca, informándole las alternativas de servicio público de transporte; y
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-XI. Los titulares de las licencias señaladas en las fracciones II y IV del artículo 13, así como las que desarrollen la modalidad complementaria establecida en la fracción V del artículo 17 de esta Ley, deberán, además:
+En los establecimientos se deberá sugerir al conductor que sea notorio su estado de ebriedad que no conduzca, informándole las alternativas de servicio público de transporte;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Colocar y mantener un anuncio, situado al interior del establecimiento y a la vista del público, con la leyenda: «En este establecimiento no se venden bebidas alcohólicas a menores de edad»; y
+
+XII. Los titulares de las licencias señaladas en las fracciones II y IV del artículo 13, así como las que desarrollen la modalidad complementaria establecida en la fracción V del artículo 17 de esta Ley, deberán, además:
 
 a) Guardar mercancía alcohólica en el embalaje que corresponda, debidamente cerradas; y
 
@@ -644,6 +664,8 @@ Infracciones de la Ley
 Son infracciones a las disposiciones de esta Ley las que a continuación se señalan y a cada una se impondrá multa equivalente al número de veces del valor diario vigente al momento de la comisión de la infracción que se indica de la Unidad de Medida y Actualización (UMA), de conformidad con lo siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN LA DÉCIMA PARTE DEL P.O. DE 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 33 A LA 36.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA PARTE DEL P.O. DE 24 DE SEPTIEMBRE DE 2021, PÁGINA 61.]</small>
 
 Requisitos para la imposición de multas
 
@@ -779,9 +801,51 @@ V. Las obligaciones y prohibiciones de los titulares de la licencia de funcionam
 
 VI. Las condiciones de los establecimientos que enajenen bebidas alcohólicas en forma eventual;
 
-VII. La colocación y características de anuncios, transitorios o permanentes, referidos a bebidas alcohólicas, que sean visibles desde la vía pública o en sitios o lugares a los que tenga acceso el público; las obras de instalación, conservación, modificación, ampliación o retiro de los mencionados anuncios, así como el uso de los lugares públicos, fachadas, muros, paredes, bardas, azoteas, vehículos, maquinarias y toldos para tales efectos; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Las acciones o campañas tendientes a desalentar el consumo de bebidas alcohólicas.
+VII. La colocación y características de anuncios, transitorios o permanentes, referidos a bebidas alcohólicas, que sean visibles desde la vía pública o en sitios o lugares a los que tenga acceso el público; las obras de instalación, conservación, modificación, ampliación o retiro de los mencionados anuncios, así como el uso de los lugares públicos, fachadas, muros, paredes, bardas, azoteas, vehículos, maquinarias y toldos para tales efectos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Las acciones o campañas tendientes a desalentar el consumo de bebidas alcohólicas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Las acciones o campañas tendientes a evitar el consumo de bebidas alcohólicas en menores de edad.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+## Título Quinto. Denuncia Ciudadana
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Presentación de denuncia ciudadana
+
+###### Artículo 48.
+
+Cualquier persona podrá presentar denuncia cuando observe el incumplimiento de las obligaciones y prohibiciones establecidas en los artículos 30 y 31 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Recepción de denuncia ciudadana
+
+###### Artículo 49.
+
+El SATEG, así como los ayuntamientos, en términos de los convenios celebrados con el anterior, recibirán las denuncias objeto del presente Capítulo a través de los medios que tales autoridades determinen atendiendo a sus capacidades, las cuales se atenderán conforme a las disposiciones administrativas que al efecto emita el SATEG.
+
+Se procurará que dichos medios faciliten la presentación de la denuncia ciudadana, por lo que deben considerar los medios electrónicos o digitales a su alcance.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Protección de datos personales del denunciante
+
+###### Artículo 50.
+
+La autoridad que reciba la denuncia deberá salvaguardar la confidencialidad de los datos personales del denunciante, en atención a la Ley de la materia.
 
 ## TRANSITORIOS
 
@@ -815,9 +879,17 @@ Artículo Sexto. Los trámites y procedimientos pendientes de resolución con an
 
 Canje de licencias
 
-Artículo Séptimo. Los titulares de las licencias otorgadas durante la vigencia de la Ley que se abroga deberán realizar el canje respectivo durante los siete meses posteriores al inicio de la vigencia del presente ordenamiento, de conformidad con las disposiciones de carácter general que para tal efecto emita el Servicio de Administración Tributaria del Estado de Guanajuato.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-En caso de que los titulares no realicen el canje señalado en el párrafo anterior, las licencias quedarán canceladas. De ser así, se deberá llevar a cabo el trámite para el otorgamiento de una nueva licencia.
+Artículo Séptimo. Los titulares de las licencias otorgadas durante la vigencia de la Ley que se abroga deberán realizar el canje respectivo a más tardar el 30 de septiembre del ejercicio fiscal 2022, de conformidad con las disposiciones de carácter general que para tal efecto emita el Servicio de Administración Tributaria del Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de que los titulares no realicen el canje señalado en el párrafo anterior, el SATEG podrá clausurar de manera parcial o total según corresponda, aquellos establecimientos que cuenten con licencias de funcionamiento emanadas al amparo de la abrogada Ley de Alcoholes para el estado de Guanajuato; en estos casos, a fin de levantar la clausura de que se trate, los titulares deberán llevar el canje respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Si al cabo de dos ejercicios fiscales posteriores a la culminación del programa sus titulares no realizaron el canje a que hace referencia el primer párrafo de este artículo las licencias quedarán canceladas. De ser así, se deberá llevar a cabo el trámite para el otorgamiento de una nueva licencia.
 
 El canje al que hace referencia el presente artículo será gratuito.
 
@@ -838,3 +910,15 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 344 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN LA FRACCIÓN XVIII DEL ARTÍCULO 4; EL TERCER PÁRRAFO DEL ARTÍCULO 15; EL PRIMER Y EL QUINTO PÁRRAFOS DEL ARTÍCULO 24; LA FRACCIÓN II DEL ARTÍCULO 27; EL CUARTO PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 30; Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 47. SE ADICIONAN LA FRACCIÓN III AL ARTÍCULO 27, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; LA FRACCIÓN XI AL ARTÍCULO 30, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XI PARA QUEDAR COMO FRACCIÓN XII; LA FRACCIÓN IX AL ARTÍCULO 47; Y UN TÍTULO QUINTO DENOMINADO DENUNCIA CIUDADANA, INTEGRADO POR UN CAPÍTULO ÚNICO Y LOS ARTÍCULOS 48, 49 Y 50. SE DEROGA UNA PARTE DE LA FRACCIÓN VI DEL ARTÍCULO 38, EN LO QUE CORRESPONDE A LA MULTA POR REINCIDENCIA, DE LA LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Emisión de disposiciones
+
+Artículo Segundo. El SATEG a través de su Directora General, a efecto de dar cumplimiento al presente Decreto emitirá las disposiciones de carácter general en un plazo de noventa días naturales siguientes a la entrada en vigor del mismo.
