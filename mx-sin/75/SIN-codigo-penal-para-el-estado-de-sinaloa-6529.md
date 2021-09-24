@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2021-09-08"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1203,11 +1203,11 @@ La prescripción extingue la pretensión punitiva y la potestad de ejecutar las 
 
 La prescripción será declarada de oficio o a petición de parte.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 122 Bis.
 
-El ejercicio de la acción penal y la ejecución de las sanciones por los delitos en materia de secuestro, son imprescriptibles.
+El ejercicio de la acción penal y la ejecución de las sanciones por delitos en materia de feminicidio y aquellos cometidos en contra de la libertad sexual y el normal desarrollo de menores de edad o de personas que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
 
 ###### ARTICULO 123.
 
@@ -4980,3 +4980,11 @@ P.O. 8 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 673 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 180, DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 680 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL ARTÍCULO 122 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga a lo establecido en el presente Decreto.
