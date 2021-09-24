@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2021-04-16"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -108,6 +108,32 @@ XVI. Servicios Periciales: Unidad de Servicios Periciales y los peritos que la i
 > <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
 
 XVII. UIPE: Unidad de Inteligencia Patrimonial y Económica de la Fiscalía General del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 5 Bis.
+
+El Fiscal General formulará el Plan Estratégico de Persecución Penal, considerando las prioridades estatales establecidas en la política criminal para orientar las atribuciones institucionales, las prioridades en la investigación, persecución y ejercicio de la acción penal y las funciones que deben desempeñar las personas que prestan servicios en la institución; así como los objetivos y metas a corto, mediano y largo plazo, mismo que deberá ser aprobado por la mayoría de los miembros presentes del Congreso del Estado.
+
+El Plan contendrá una estrategia de atención y trámite en la que se deberá considerar:
+
+I. Los distintos análisis de la incidencia delictiva;
+
+II. Los diagnósticos situacionales;
+
+III. Las estadísticas de percepción de la violencia en la ciudadanía;
+
+IV. Los análisis de información elaborados por instancias especializadas;
+
+V. Los diagnósticos elaborados por organizaciones civiles;
+
+VI. Los informes sobre la situación de las víctimas del delito;
+
+VII. Los informes sobre violaciones a los derechos humanos; y
+
+VIII. Los demás instrumentos que sean fuente certera de información relacionada con los fenómenos criminales.
+
+El Plan Estratégico de Persecución Penal deberá presentarse al inicio de la gestión del Fiscal General, quien deberá informar anualmente al Congreso del Estado los resultados y modificaciones al mismo, en su caso.
 
 ## TÍTULO II. DE LAS FACULTADES DEL MINISTERIO PÚBLICO
 
@@ -389,13 +415,25 @@ El nombramiento o remoción del Fiscal General se sujetarán a los requisitos y 
 
 El Fiscal General podrá ser removido por el titular del Poder Ejecutivo por cualquiera de las siguientes causas graves:
 
-I. Si durante su desempeño incurre en incumplimiento de alguno de los requisitos establecidos para su designación previstos en la Constitución del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-II. Por abuso o ejercicio indebido del cargo que le corresponde como Fiscal General;
+I. Cuando, por deficiencias graves en su actuación, no se cumplan los objetivos establecidos en el Plan Estratégico de Persecución Penal;
 
-III. Cometer violaciones graves a la Constitución Federal o Constitución del Estado; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Por incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses.
+II. Por abuso o ejercicio indebido del cargo que le corresponde como Fiscal General; así como por autorizar indebidamente el no ejercicio o el desistimiento de la acción penal, por sí o por conducto del servidor en el cual delegue dicha facultad;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+III. Por incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Por incurrir en la violación del deber contemplado en el artículo 106 del Código Nacional de Procedimientos Penales; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+V. Por incurrir en alguna de las faltas administrativas graves de las previstas por la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 El acuerdo de remoción será notificado al Congreso del Estado a más tardar al día siguiente de su emisión.
 
@@ -1836,3 +1874,19 @@ En un término máximo de 60 días después de la entrada en vigor y publicació
 ###### ARTÍCULO CUARTO.
 
 Dentro del lapso de 180 días posteriores al del inicio de la vigencia del presente Decreto, la Fiscalía deberá adecuar su Reglamento para establecer las funciones y competencias de la estructura y demás áreas que se creen para el funcionamiento de la Unidad de Inteligencia Patrimonial y Económica, así como expedir los manuales de organización, procedimientos y servicios de la misma.
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 686 QUE REFORMA EL ARTÍCULO 14 Y ADICIONA EL ARTÍCULO 5 BIS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Por única ocasión, el Fiscal General deberá formular el Plan Estratégico de Persecución Penal dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+La Fiscalía General del Estado, por conducto de su titular, deberá hacer las adecuaciones al Reglamento de la Ley Orgánica de la Fiscalía General del Estado dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
