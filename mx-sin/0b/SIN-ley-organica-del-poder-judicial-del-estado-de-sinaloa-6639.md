@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2020-09-11"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -365,23 +365,19 @@ b) Ejercer, en los asuntos de su competencia, la facultad que al Pleno confiere 
 
 c) Las demás facultades que le confieren esta Ley o el Reglamento Interior del Supremo Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 29.
 
-La Primera y la Tercera Sala, conocerán:
+La Primera Sala conocerá:
 
 I. De los recursos que la Ley conceda ante el superior, contra las sentencias definitivas dictadas por los Jueces Penales de Primera Instancia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
 II. De las recusaciones y excusas de los Jueces de Primera Instancia con competencia penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 III. (DEROGADA, P.O. 30 DE MAYO DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
@@ -389,39 +385,33 @@ IV. De las solicitudes de reconocimiento de inocencia y de anulación de sentenc
 
 V. Ejercer la jurisdicción atrayente en asuntos del orden penal de las Salas de Circuito, en los términos de Ley; y
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN IV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 27 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER VI.</small>
-
 VI. Los demás asuntos que en materia penal determinen las Leyes.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 30.
 
-La Segunda Sala conocerá:
+La Segunda y Tercera Sala conocerán:
 
-I.- De los recursos que la Ley conceda ante el superior, contra las sentencias definitivas dictadas por los Jueces Civiles de Primera Instancia en los negocios de que deben conocer;
+I. De los recursos que ante el superior concedan las Leyes contra las sentencias definitivas dictadas por los Jueces de Primera Instancia en los asuntos del orden civil y familiar;
 
-II.- De las recusaciones y excusas de los Jueces Civiles de Primera Instancia;
+II. De las recusaciones y excusas de los Jueces de Primera Instancia en asuntos del orden civil y familiar;
 
-III.- Ejercer la jurisdicción atrayente en asuntos del orden civil de las Salas de Circuito, en los términos de Ley; y
+III. Ejercer la jurisdicción atrayente en asuntos del orden civil y familiar de las Salas de Circuito, en los términos de Ley; y
 
-IV.- De los demás asuntos que en materia civil determinen las Leyes.
+IV. De los demás asuntos que en materia civil y familiar señalen las Leyes.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 31.
 
 La Cuarta Sala conocerá:
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+I. De los recursos que ante el superior concedan las Leyes contra las resoluciones dictadas por los Jueces de Primera Instancia Especializados en Justicia para Adolescentes y en Ejecución de las Consecuencias Jurídicas del Delito;
 
-I.- De los recursos que ante el superior concedan las Leyes contra las sentencias definitivas dictadas por los Jueces de Primera Instancia en los asuntos del orden familiar, y en contra de las resoluciones dictadas por los Jueces Especializados en justicia para Adolescentes;
+II. De las recusaciones y excusas de los Jueces de Primera Instancia Especializados en Justicia para Adolescentes y de Ejecución de las Consecuencias Jurídicas del Delito; y
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
-
-II.- De las recusaciones y excusas de los Jueces de Primera Instancia en asuntos del orden familiar y de justicia para adolescentes;
-
-III.- Ejercer la jurisdicción atrayente en asuntos del orden familiar de las Salas de Circuito, en los términos de Ley; y
-
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
-
-IV.- De los demás asuntos que en materia familiar y de justicia para adolescentes señalen las Leyes.
+III. De los demás asuntos que en materia de justicia para adolescentes y ejecución de las consecuencias jurídicas del delito señalen las Leyes.
 
 ###### ARTICULO 32.
 
@@ -465,13 +455,11 @@ Los Actuarios de las Salas lo serán también del Pleno.
 
 ### CAPITULO VII. DE LAS SALAS DE CIRCUITO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 36.
 
-Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares, así como de los que se interpongan en contra de las resoluciones que dicten los Jueces de Primera Instancia de Ejecución de las Consecuencias Jurídicas del Delito.
+Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares.
 
 ###### ARTICULO 37.
 
@@ -1001,9 +989,49 @@ VIII.- Procurar que en los Tribunales se guarde disciplina y decoro, debiendo da
 
 IX.- Las demás funciones que le confiera el Reglamento del Consejo.
 
-### CAPITULO XVIII. DEL INSTITUTO DE CAPACITACION JUDICIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPITULO XIX. DE LAS CAUSAS DE RETIRO FORZOSO O VOLUNTARIO DE LOS MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPITULO XVII BIS. DE LA CARRERA JUDICIAL
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 80 BIS.- El ingreso y la promoción de los servidores públicos de carácter jurisdiccional del Poder Judicial del Estado se hará mediante el sistema de carrera judicial a que se refiere el presente Capítulo, el cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia, paridad de género y antigüedad, en su caso.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 80 BIS A.- La Carrera Judicial está integrada por las siguientes categorías:
+
+I. Juez o Jueza de Primera Instancia;
+
+II. Secretario o Secretaria Proyectista de Juzgado;
+
+III. Secretario o Secretaria de Juzgado;
+
+IV. Encargado o Encargada de Causas de Juzgado de Primera Instancia de Control y Juicio Oral Penal;
+
+V. Secretario o Secretaria de Causas de Juzgado de Primera Instancia Especializado en Oralidad Mercantil;
+
+VI. Auxiliar de Causas de Juzgado de Primera Instancia de Control y Juicio Oral Penal; y
+
+VII. Actuario o Actuaria.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 80 BIS B.- El ingreso y promoción para las categorías mencionadas en el artículo anterior podrá realizarse a través de concurso de oposición, de conformidad con lo dispuesto en esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 80 BIS C.- Los concursos de oposición para el ingreso y promoción a las diversas categorías de la carrera judicial se sujetarán a las disposiciones que para tal efecto expida el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 80 BIS D.- La celebración y organización de las evaluaciones que conformen el concurso de oposición para las categorías a que se refieren las fracciones II a VII del artículo 80 Bis A de esta Ley, estarán a cargo del Instituto de Capacitación Judicial en términos de las bases que determine el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 80 BIS E.- Los resultados de las evaluaciones serán remitidos al Pleno del Supremo Tribunal de Justicia para los efectos a que se refiere el artículo 21 de esta Ley.
+
+### CAPITULO XVIII. DEL INSTITUTO DE CAPACITACION JUDICIAL
 
 ###### ARTICULO 81.
 
@@ -1027,7 +1055,7 @@ El Instituto contará con un consejo académico cuya integración y funciones se
 
 El Director del Instituto y los Coordinadores deberán contar con título profesional en sus respectivas áreas y ser de reconocida buena conducta.
 
-### CAPITULO XX. DE LAS RESPONSABILIDADES OFICIALES
+### CAPITULO XIX. DE LAS CAUSAS DE RETIRO FORZOSO O VOLUNTARIO DE LOS MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### ARTICULO 85.
 
@@ -1071,7 +1099,7 @@ Al fallecer el Magistrado retirado, la pensión que disfrutaba se trasmitirá a 
 
 De igual prestación gozarán los mismos familiares del Magistrado, que teniendo derecho al retiro voluntario fallezca en el ejercicio de sus funciones.
 
-### CAPITULO XXI. DE LAS PROTESTAS, VACACIONES, LICENCIAS Y DIAS HABILES
+### CAPITULO XX. DE LAS RESPONSABILIDADES OFICIALES
 
 ###### ARTICULO 92.
 
@@ -1242,6 +1270,8 @@ III.- Por los Jueces respectivos, cuando se trate de las cometidas por los Secre
 Para imponer una corrección disciplinaria deberá hacerse previamente la declaración de que el acusado incurrió en falta, sin más requisitos que oír a éste y al denunciante, si quiere concurrir, recibiendo en el mismo acto las explicaciones o justificación del caso de una y otra parte. La resolución que corresponda se pronunciará dentro de los cinco días siguientes.
 
 Cuando recaigan dos o más declaratorias sobre un Juez de Primera Instancia en el sentido de que ha incurrido en una falta, el Tribunal en Pleno, si lo estima conveniente para el servicio de la administración de justicia, podrá decretar el cambio de adscripción de aquél a un Juzgado de inferior categoría, con pérdida de su derecho a la inamovilidad a que se refiere el artículo 106 de la Constitución Política del Estado, para cuyo efecto comenzará a contarse de nuevo a partir de la fecha de cambio de adscripción.
+
+### CAPITULO XXI. DE LAS PROTESTAS, VACACIONES, LICENCIAS Y DIAS HABILES
 
 ###### ARTICULO 103.
 
@@ -1512,3 +1542,13 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 677 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor dentro de los quince días siguientes a su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo. En un plazo que no excederá de noventa días posteriores a la publicación del presente Decreto, el Supremo Tribunal de Justicia emitirá la normativa necesaria para la implementación del sistema de carrera judicial.
+
+Artículo Tercero. Los asuntos que se encuentren en trámite en las Salas que cambian su competencia al entrar en vigor el presente Decreto, serán transferidos a la que en lo subsecuente deba conocer y concluidos por esta, de acuerdo a lo previsto en el mismo Decreto.
