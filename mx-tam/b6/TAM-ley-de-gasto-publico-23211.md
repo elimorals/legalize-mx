@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2021-09-21"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE GASTO PUBLICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE GASTO PÚBLICO DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE SEPTIEMBRE DE 2021.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -1219,19 +1219,51 @@ III.- Las evaluaciones podrán efectuarse respecto de las políticas públicas, 
 
 IV.- Se establecerán programas anuales de evaluación;
 
-V.- Las evaluaciones deberán incluir información desagregada por sexo relacionada con las personas beneficiarias de los programas. Asimismo, las dependencias y entidades deberán presentar resultados con base en indicadores, previendo su desagregación por sexo y en su caso, por rangos de edades, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres a través de la incorporación de la perspectiva de género;
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Verificar que a partir de las recomendaciones plasmadas en los informes finales de evaluación, se establezcan los aspectos susceptibles de mejora para su atención;
+V.- Las evaluaciones deberán incluir información desagregada por sexo relacionada con las personas beneficiarias de los programas. Asimismo, las dependencias y entidades deberán presentar resultados con base en indicadores, previendo su desagregación por sexo y en su caso, por rangos de edades, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres a través de la incorporación de la perspectiva de género; y
 
-VII.- Dar seguimiento a los avances de los indicadores estratégicos y de gestión; y
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
-VIII.- Impartir a petición de parte, capacitación en materia de Presupuesto basado en Resultados, Metodología de Marco Lógico, diseño y construcción de indicadores, monitoreo y evaluación de Programas Presupuestarios.
+VI.- Verificar que a partir de las recomendaciones plasmadas en los informes finales de evaluación, se establezcan los aspectos susceptibles de mejora para su atención.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021) (F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)
 
 ###### ARTICULO 81.
 
-Son atribuciones de la Contraloría Gubernamental en materia del Sistema de Evaluación del Desempeño del gasto público:
+Las atribuciones relacionadas con el Sistema de Evaluación del Desempeño del gasto público, quedarán distribuidas conforme a lo siguiente:
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+A.- Son atribuciones de la Secretaría en materia del Sistema de Evaluación del Desempeño del gasto público:
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño del gasto público, con base en la emisión de los lineamientos metodológicos y técnicos para su operación;
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+II.- Emitir los lineamientos para las dependencias y entidades del Ejecutivo del Estado, relativos a las evaluaciones externas aplicables a los Programas Presupuestarios, las políticas públicas, así como para normar la participación de los evaluadores externos, todo ello en el marco del Sistema de Evaluación del Desempeño del gasto público;
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Formular un Programa Anual de Evaluación respecto de los Programas Presupuestarios sujetos a evaluación, en el cual se establecerá el tipo de evaluación a realizar y el cronograma para su aplicación;
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Coordinar el monitoreo y valoración de los indicadores estratégicos y de gestión relativos a los Programas Presupuestarios de las dependencias y entidades del Ejecutivo del Estado, así como la evaluación de los mismos, pudiendo hacerlo por si misma o a través de los servicios de evaluadores externos;
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Dar seguimiento a los avances de los indicadores estratégicos y de gestión; y
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Impartir a petición de parte, capacitación en materia de Presupuesto basado en Resultados, Metodología de Marco Lógico, diseño y construcción de indicadores, monitoreo y evaluación de Programas Presupuestarios.
+
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+B.- Son atribuciones de la Contraloría Gubernamental en materia del Sistema de Evaluación del Desempeño del gasto público:
 
 I.- Determinar y coordinar las evaluaciones externas que se indiquen en el Programa Anual de Evaluación, aplicables a los fondos y programas de gasto federalizado cuyos recursos se ejerzan como parte del Presupuesto de Egresos, las políticas públicas, en el marco del Sistema de Evaluación del Desempeño del gasto público;
 
