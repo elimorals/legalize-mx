@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2020-04-29"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -62,6 +62,18 @@ Las normas administrativas se interpretarán bajo los criterios gramatical, sist
 En sus relaciones con los particulares, las dependencias y entidades de la administración pública centralizada y paraestatal del Estado y de sus municipios, actuarán bajo los principios de legalidad, objetividad, buena fe, confianza legítima, transparencia, participación y servicio a los particulares.
 
 La justicia administrativa en el Estado se impartirá bajo los principios de legalidad, imparcialidad, gratuidad, profesionalismo, publicidad, prontitud, audiencia, igualdad, exhaustividad, independencia y eficacia.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando la resolución recaída a un recurso administrativo no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio contencioso administrativo, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso. Lo anterior no implica para el actor una nueva oportunidad de ofrecer las pruebas que, conforme a la legislación o los reglamentos, debió ofrecer en el recurso administrativo de origen.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+Asimismo, cuando la resolución recaída a un recurso administrativo prevea su desechamiento, siempre que el magistrado del Tribunal determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de impugnación no planteados en el recurso. Lo anterior no implica para el actor una nueva oportunidad de ofrecer las pruebas que, conforme a la legislación o los reglamentos, debió ofrecer en el recurso administrativo de origen.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+
+De igual manera se procederá en el caso previsto por el segundo párrafo del artículo 226 de este Código, cuando después del desistimiento de la instancia administrativa, el interesado podrá impugnar el acto o resolución de que se trate ante el Tribunal.
 
 ###### Artículo 4.
 
@@ -3016,3 +3028,13 @@ Artículo Primero. El presente Decreto entrará en vigor a los ciento ochenta d�
 Artículo Segundo. El Pleno del Tribunal de Justicia Administrativa expedirá los lineamientos que permitan dar cumplimiento al presente Decreto, a más tardar doscientos cuarenta días después de la entrada en vigor del presente Decreto.
 
 Artículo Tercero. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto continuarán rigiéndose por las disposiciones anteriores.
+
+P.O. 24 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 3 DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2022, previa su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto continuarán rigiéndose por las disposiciones vigentes a la fecha de inicio de los respectivos procesos contenciosos administrativos.
+
+Artículo Tercero. En tanto el presente Decreto entre en vigor, el Tribunal de Justicia Administrativa del Estado de Guanajuato realizará las acciones que garanticen tanto la difusión de su contenido, como la capacitación de su personal.
