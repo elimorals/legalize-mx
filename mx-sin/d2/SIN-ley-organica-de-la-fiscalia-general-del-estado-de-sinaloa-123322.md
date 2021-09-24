@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2021-04-16"
+last_updated: "2021-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,17 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE SINALOA
 
-LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+TEXTO ORIGINAL.
 
-Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
+Reglamento publicado en la Primera Sección al Número 22 del Diario Oficial de la Federación, el jueves 29 de noviembre de 2018.
 
-El Ciudadano LIC. QUIRINO ORDAZ COPPEL, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Federal de Conciliación y Arbitraje.- Ciudad de México.- Secretaría General de Acuerdos.
 
-Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+El Pleno del Tribunal Federal de Conciliación y Arbitraje, en ejercicio de las facultades establecidas en el artículo 124 A, fracción V, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; artículo 8, fracción VI, del Reglamento Interior del Tribunal Federal de Conciliación y Arbitraje, en relación con el artículo 25 de la Ley General de Transparencia y Acceso a la Información Pública, expide el siguiente:
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Sexagésima Segunda Legislatura, ha tenido a bien expedir el siguiente,
-
-DECRETO NÚMERO: 247
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE
 
 ###### ARTÍCULO ÚNICO.
 
@@ -41,541 +39,193 @@ Se expide la Ley Orgánica de la Fiscalía General del Estado de Sinaloa, para q
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-## TÍTULO I. DISPOSICIONES GENERALES
+## Título I. Disposiciones Generales
 
-### CAPÍTULO ÚNICO. DEL OBJETO
+### Capítulo I. De la Unidad de Transparencia
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y tiene por objeto establecer la organización y funcionamiento de la Fiscalía General del Estado, para el ejercicio de las atribuciones y el despacho de los asuntos que le confieren a la Institución del Ministerio Público, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Sinaloa y demás disposiciones legales aplicables.
+El presente Reglamento es de observancia general y obligatoria para todas las áreas que conforman el Tribunal Federal de Conciliación y Arbitraje.
+
+Tiene por objeto establecer los criterios y procedimiento (sic) para garantizar la transparencia y el derecho de acceso a la información pública del Tribunal Federal de Conciliación y Arbitraje, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
 
 ###### Artículo 2.
 
-El Ministerio Público del Estado tiene como función representar a la sociedad. A éste le compete la investigación de los delitos del orden común cometidos en el territorio del Estado y de manera exclusiva, el ejercicio de la acción penal ante los tribunales, salvo los casos previstos en la Ley; asimismo, intervendrá en todos los asuntos que esta Ley u otras leyes al respecto establezcan.
+Para los efectos del presente Reglamento, además de las definiciones previstas en los artículos 3 y 4 de la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública, respectivamente, se entenderá por:
+
+Áreas Responsables. Unidades Jurídicas y Administrativas que integran la estructura orgánica de conformidad con el Reglamento Interior del Tribunal Federal de Conciliación y Arbitraje que en ejercicio de sus facultades, funciones y competencias generen, obtengan o transformen la información.
+
+Comité. Órgano colegiado y especializado del Tribunal Federal de Conciliación y Arbitraje, encargado de implementar las políticas necesarias para dar acceso a la información pública, de conformidad con el artículo 43 de la Ley General de Transparencia y Acceso a la Información Pública y 64 de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+Coordinación. Área encargada de la recepción, atención y desahogo oportuno de las solicitudes de acceso a la información que se presentan a la Unidad y Comité de Transparencia.
+
+Clasificación. Proceso a través del cual las áreas responsables determinan que la información en su poder es reservada o confidencial al actualizarse alguno de los supuestos previstos en los artículos 113 y 116 de la Ley General de Transparencia y Acceso a la Información Pública;
+
+Ley General: Ley General de Transparencia y Acceso a la Información Pública.
+
+Ley Federal: Ley Federal de Transparencia y Acceso a la Información Pública.
+
+Tribunal. El Tribunal Federal de Conciliación y Arbitraje.
+
+Unidad de Transparencia. Vínculo de comunicación para las gestiones derivadas de las solicitudes de información entre las áreas responsables del Tribunal y los solicitantes.
 
 ###### Artículo 3.
 
-Para la investigación de los delitos del orden común, competencia del Ministerio Público del Estado, las policías actuarán en los términos señalados en los artículos 21 de la Constitución Federal y 76 de la Constitución del Estado, bajo su conducción y mando.
+Con fundamento en el artículo 45 de la Ley General y 61 de la Ley Federal, la Unidad de Transparencia tendrá las siguientes funciones:
 
-Por conducción se entiende que es la dirección jurídica que ejerce el Ministerio Público sobre las instituciones policiales en la investigación de hechos que pueden ser constitutivos de delito. Por mando se entiende que es la facultad del Ministerio Público de ordenar a las instituciones policiales actos de investigación y de operación.
+I. Supervisar las actividades de la Coordinación al recibir y dar trámite a las solicitudes de acceso a la información;
+
+II. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarles sobre los sujetos obligados competentes conforme a la normatividad aplicable.
+
+III. Realizar los trámites internos necesarios para la atención oportuna y eficaz de las solicitudes de acceso a la información;
+
+IV. Hacer del conocimiento de la Contraloría Interna la probable responsabilidad por el incumplimiento de las obligaciones previstas en la normatividad de la materia; y
+
+V. Todas aquellas que se desprenden de la Ley General, Ley Federal y demás leyes aplicables que sean necesarias para garantizar el ejercicio del derecho de acceso a la información.
 
 ###### Artículo 4.
 
-El Ministerio Público, como representante de la sociedad en Sinaloa, se organiza en una Fiscalía General del Estado.
+Las áreas responsables deberán colaborar con la Unidad y el Comité de Transparencia para el cumplimiento de las obligaciones en la materia que establece este Reglamento, la Ley General, la Ley Federal y demás normatividad aplicable.
 
-La Fiscalía General del Estado, como órgano público autónomo, dotado de personalidad jurídica y patrimonio propios, promotor, respetuoso, protector y garante de los derechos humanos, se regirá en su actuación por los principios de constitucionalidad, debido proceso, buena fe, autonomía, legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto de la dignidad humana.
+En caso de que alguna de las áreas responsables se negare a colaborar de manera injustificada con la Unidad de Transparencia, ésta dará aviso al superior jerárquico de aquella para que ordene al servidor público de que se trate, a realizar sin demora las acciones conducentes.
 
 ###### Artículo 5.
 
-Para los efectos de la presente Ley, se entenderá por:
+Las ausencias del Titular de la Unidad de Transparencia serán suplidas por quien se encuentre a cargo de la Coordinación, quien observará lo dispuesto por el artículo 45 de la Ley General.
 
-I. Código Nacional: Código Nacional de Procedimientos Penales;
+## Título II
 
-II. Código Penal: Código Penal para el Estado de Sinaloa;
+Responsables en Materia de Transparencia y Acceso a la Información.
 
-III. Consejo Consultivo: Consejo Consultivo de la Fiscalía General;
-
-IV. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
-
-V. Constitución del Estado: Constitución Política del Estado de Sinaloa;
-
-VI. Fiscalía Anticorrupción: Fiscalía Especializada en Combate a la Corrupción;
-
-VII. Fiscalía General: Fiscalía General del Estado;
-
-VIII. Fiscal General: Fiscal General del Estado;
-
-IX. Fondo: Fondo de Procuración de Justicia;
-
-X. Ministerio Público: Ministerio Público del Estado;
-
-XI. Ley: Ley de la Fiscalía General del Estado de Sinaloa;
-
-XII. Personal Operativo: Los Agentes del Ministerio Público del Estado de Sinaloa, Policía de Investigación, orientadores jurídicos, facilitadores de mecanismos alternativos de solución de controversias en materia penal y servicios periciales;
-
-XIII. Policía de Investigación: Agentes investigadores adscritos a la Fiscalía General del Estado de Sinaloa;
-
-XIV. Policías: Los policías especializados en la investigación de delitos, así como aquellos que pertenezcan a las instituciones de seguridad pública del Estado o de los municipios, que en al ámbito de sus respectivas competencias actúen bajo el mando y conducción del Ministerio Público del Estado de Sinaloa, en la investigación de delitos competencia de éste;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
-
-XV. Reglamento: Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
-
-XVI. Servicios Periciales: Unidad de Servicios Periciales y los peritos que la integran; y
-
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
-
-XVII. UIPE: Unidad de Inteligencia Patrimonial y Económica de la Fiscalía General del Estado de Sinaloa.
-
-## TÍTULO II. DE LAS FACULTADES DEL MINISTERIO PÚBLICO
-
-### CAPÍTULO ÚNICO. DE LAS FACULTADES
+### Capítulo II. Del Comité de Transparencia
 
 ###### Artículo 6.
 
-Son facultades del Ministerio Público, las siguientes:
+El Comité de Transparencia estará integrado por un número impar, como lo establece el artículo 43 de la Ley General, y estará conformado de la siguiente manera:
 
-I. Promover, respetar, proteger y garantizar los derechos humanos, en el ámbito de su competencia, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad;
+I. El Magistrado Presidente de la Primera Sala del Tribunal, como Presidente del Comité;
 
-II. Iniciar la investigación que corresponda de oficio o a petición de parte, cuando tenga conocimiento de la existencia de un hecho que la Ley correspondiente señale como delito, para lo cual deberá recabar la denuncia, querella o requisito equivalente que establezca la Ley;
+II. El Director General de Administración, como Titular de la Unidad de Transparencia; y
 
-III. Formalizar la detención de los probables responsables de la comisión de delitos en caso de flagrancia o en casos urgentes, en los términos previstos en la Constitución Federal;
+III. El Titular de la Contraloría Interna;
 
-IV. Informar a la víctima u ofendido del delito, desde el momento en que se presente o comparezca ante él, los derechos que en su favor reconoce la Constitución Federal, los Tratados Internacionales suscritos y ratificados por el Estado Mexicano, la Ley General de Víctimas, la Constitución del Estado, la Ley de Atención y Protección a Víctimas del Estado de Sinaloa, y las demás disposiciones jurídicas aplicables, así como el alcance de esos derechos, dictando las medidas necesarias para que la víctima reciba atención integral;
+Los integrantes del Comité tendrán voz y voto en cada una de las sesiones celebradas.
 
-V. Ejercer la conducción y mando, en los términos previstos en el artículo 21 de la Constitución Federal, de las autoridades que intervengan en la investigación de los delitos a fin de obtener y preservar los indicios o medios probatorios;
+En caso de ausencia del Presidente, podrá ser suplido por cualquier Magistrado integrante de la Primera Sala. En caso de ausencia del Titular de la Unidad de Transparencia, se estará a lo señalado en el artículo 5 de este Reglamento. En caso de ausencia del Titular de la Contraloría Interna, éste podrá ser suplido por el servidor público de la jerarquía inmediata inferior.
 
-VI. Dictar sin demora una orden de búsqueda y localización de personas extraviadas o desaparecidas cuando reciba denuncia o tenga conocimiento por cualquier vía, de la probable comisión de un delito relacionado con esos hechos;
+El Comité podrá solicitar la presencia de las personas que consideren pertinentes en caso de ser necesario para la discusión de un tema, mismos que asistirán como invitados y tendrán voz, pero no voto en las sesiones del Comité.
 
-VII. Ordenar la realización de los actos o técnicas de investigación y la recolección de indicios y/o medios de prueba para el esclarecimiento del hecho delictivo;
+## Título III. Del Procedimiento de Acceso a la Información
 
-VIII. Supervisar la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
-
-IX. Realizar el aseguramiento de bienes, instrumentos, sustancias, huellas y objetos relacionados con el hecho delictuoso, dispositivos, medios de almacenamiento electrónico y sistemas de información en general que puedan constituir dato de prueba y en términos de las disposiciones aplicables declarar su abandono en favor del Estado y participar en la disposición final de los mismos;
-
-X. Instruir a los policías de investigación sobre la legalidad, pertinencia, suficiencia y contundencia de los indicios recolectados o por recolectar, así como de los demás actos de investigación o diligencias que deben ser realizadas;
-
-XI. Coordinar a las autoridades que intervengan en la investigación de los delitos a fin de obtener y preservar los indicios o medios probatorios;
-
-XII. Solicitar informes o documentación a otras autoridades y a particulares, así como la práctica de peritajes y de diligencias para la obtención de datos y/o medios de prueba;
-
-XIII. Recabar datos y/o medios de prueba conducentes a fin de acreditar, determinar y cuantificar el daño de la víctima por el delito sufrido para efecto de su reparación;
-
-XIV. Rendir los informes necesarios para la justificación de gastos no comprobables ejercidos durante el desarrollo de una investigación;
-
-XV. Informarle a los detenidos o imputados en la etapa de investigación, los hechos que se le imputan y los derechos que le asisten;
-
-XVI. Solicitar al órgano jurisdiccional la autorización de actos de investigación y demás actuaciones, cuando así lo requieran las leyes aplicables;
-
-XVII. Ordenar la detención y la retención de los imputados cuando resulte procedente en los términos de la Constitución Federal, el Código Nacional, la Constitución del Estado y las leyes aplicables, así como poner a disposición del órgano jurisdiccional a las personas detenidas dentro de los plazos legales y conforme a las disposiciones jurídicas aplicables;
-
-XVIII. Informar y facilitar a los detenidos de nacionalidad extranjera, una vez identificada, el ejercicio del derecho a recibir asistencia consular, y comunicar sin demora los hechos y la situación jurídica del detenido a dichas representaciones diplomáticas;
-
-XIX. Dictar las medidas necesarias para que la víctima o el inculpado reciban atención médica de emergencia de conformidad con las disposiciones jurídicas aplicables;
-
-XX. Poner a disposición de la autoridad competente a los inimputables mayores de edad a quienes se deban aplicar medidas de seguridad ejercitando las acciones correspondientes;
-
-XXI. Realizar las funciones a que se refiere el artículo 18 de la Constitución Federal, respecto de las personas menores de dieciocho años a quienes se atribuya la comisión o participación en un hecho que la Ley señale como delito competencia del Ministerio Público;
-
-XXII. En todos los procedimientos en que intervenga el Ministerio Público, deberá atender prioritariamente el interés superior de la niñez. Esta atención comprenderá como mínimo las acciones siguientes:
-
-a) Ordenar las medidas administrativas tendientes a la protección física, psicológica y para el sano desarrollo del niño y la niña, y solicitarlas en juicio velando por su efectiva ejecución;
-
-b) Asumir y ejercer la representación legal de menores y adolescentes que carezcan de ella, o si se desconoce si la tienen;
-
-c) Representar legalmente a niñas y niños afectados o impedidos en sus derechos por quien legalmente los represente o tenga obligación de protegerlos;
-
-d) Si su edad lo permite, procurar que las niñas y niños tengan oportunidad procesal para expresar su opinión por sí mismos de manera libre; y
-
-e) Verificar periódicamente, a través de los dictámenes periciales correspondientes, el sano desarrollo físico, mental y social del menor relacionado con algún procedimiento penal, incluidos los que se encuentren bajo la patria potestad, tutela o custodia del inculpado.
-
-XXIII. Ejercer o desistirse de la acción penal, determinar su no ejercicio, el archivo temporal y la facultad de abstenerse a investigar, así como aplicar criterios de oportunidad o solicitar la suspensión condicional del proceso, la apertura del procedimiento abreviado, la reparación del daño, así como formular las demás acciones, determinaciones y resoluciones de conformidad con lo previsto en la legislación aplicable;
-
-XXIV. Solicitar la cancelación de órdenes de aprehensión, reaprehensión o comparecencia, previa autorización del Fiscal General o del servidor público en quien delegue esta facultad, así como la reclasificación de la conducta o hecho por el cual se haya ejercido la acción penal;
-
-XXV. Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito;
-
-XXVI. Proporcionar el auxilio a víctimas, ofendidos, testigos y demás sujetos en el procedimiento penal y promover las acciones necesarias para que se provea su seguridad y atención inmediata;
-
-XXVII. Brindar las medidas de protección necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del imputado o intervenir en otras diligencias, sin riesgo para ellos;
-
-XXVIII. Dictar las medidas de protección que procedan;
-
-XXIX. Registrar y auditar los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos;
-
-XXX. Solicitar las providencias precautorias y medidas cautelares aplicables al imputado en el proceso, y promover su cumplimiento, así como solicitar la revocación, sustitución o modificación de las mismas en caso de que hayan cambiado las condiciones que justificaron su imposición;
-
-XXXI. Solicitar al órgano jurisdiccional la sustitución de la prisión preventiva oficiosa por otra medida cautelar, previa autorización del Fiscal General o del servidor público en quien delegue esta facultad;
-
-XXXII. Solicitar a la autoridad judicial la imposición de las penas o medidas de seguridad que correspondan;
-
-XXXIII. Intervenir en representación de la sociedad en el procedimiento de ejecución de las sanciones penales y medidas de seguridad;
-
-XXXIV. Intervenir en la extradición, entrega o traslado de imputados, procesados o sentenciados, en los términos de las disposiciones jurídicas aplicables, así como en cumplimiento de los tratados internacionales en los que el Estado Mexicano sea parte;
-
-XXXV. Solicitar y, en su caso, proporcionar la asistencia jurídica internacional que le sea requerida de conformidad con los tratados internacionales en los que el Estado Mexicano sea parte y lo dispuesto en la legislación aplicable;
-
-XXXVI. Vigilar el cumplimiento de los deberes que a su cargo establece la Ley General de Víctimas, y la Ley de Atención y Protección a Víctimas del Estado;
-
-XXXVII. Ejercer la acción de extinción de dominio, así como interponer cualquier medio de defensa legal ordinario o extraordinario que en derecho proceda, en términos de las disposiciones aplicables;
-
-XXXVIII. En los casos en que proceda, expedir constancias de la denuncia por la pérdida o extravío de objetos o documentos, sin prejuzgar de la veracidad de los hechos asentados;
-
-XXXIX. Previo cotejo, autenticar o certificar los documentos materia de su competencia que obren en sus archivos y garantizar que se dé fe de las diligencias que practique, de conformidad con las disposiciones jurídicas vigentes;
-
-XL. Asistir y conducirse con debida diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones;
-
-XLI. Intervenir con debida diligencia en los asuntos civiles y familiares en los casos que señalen las leyes y realizar las demás funciones que los ordenamientos jurídicos le señalen;
-
-XLII. Tratándose de adolescentes regirse por el procedimiento especializado conforme a la legislación nacional y demás disposiciones aplicables en la materia;
-
-XLIII. Recibir a los usuarios, registrar la información que proporcionen, orientarlos y canalizarlos al área de mejor resolución dentro del sistema de justicia penal acusatorio, otras instancias gubernamentales o incluso no gubernamentales, privilegiando la aplicación de mecanismos alternativos para la solución de controversias en materia penal;
-
-XLIV. Propiciar acuerdos reparatorios resultado de la sustanciación de mecanismos alternativos para la solución de controversias en materia penal y en su caso aprobarlos en términos de lo dispuesto en el Código Nacional;
-
-XLV. Participar con el carácter que las leyes competentes le confieran en aquellos procedimientos en que así lo determine el orden jurídico aplicable;
-
-XLVI. Presentar la acusación contra el imputado ante la autoridad judicial competente; y
-
-XLVII. Las demás que determinen otros ordenamientos.
-
-## TÍTULO III. DE LA FISCALÍA GENERAL DEL ESTADO
-
-### CAPÍTULO I. DE LAS BASES CONSTITUCIONALES DE LA FISCALÍA GENERAL
+### Capítulo III. Obligaciones en materia de Transparencia
 
 ###### Artículo 7.
 
-Las bases constitucionales de la Fiscalía General de conformidad con el artículo 76, párrafo tercero de la Constitución del Estado, son:
+El Comité en atención al artículo 43 de la Ley General adoptará sus decisiones por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
-I. Cumplir en el ámbito de su competencia, con las disposiciones que la Constitución Federal fundamenta en la actuación del Ministerio Público;
+El Comité tendrá las funciones a que se refiere el artículo 44 de la Ley General. Además, podrá desarrollar o adoptar las acciones conducentes para favorecer las mejores prácticas en materia de protección de datos personales en posesión del Tribunal.
 
-II. La investigación como la persecución ante los tribunales locales de los delitos del orden común cometidos en el territorio del Estado, corresponden al Ministerio Público y a los elementos policiacos del sistema de seguridad pública, los cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
-
-III. La Fiscalía General para el ejercicio de sus funciones contará con vicefiscales general, especializados y/o regionales, policías de investigación y demás personal que estará bajo su autoridad en los términos que establezca la Ley;
-
-IV. El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público.
-
-La acción penal ante la autoridad judicial se podrá ejercer por particulares conforme a lo dispuesto en el Código Nacional. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije el Código Nacional;
-
-V. El Ministerio Público procurará que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas y la reparación del daño e intervenir en todos los negocios que la Ley determine; y
-
-VI. La Ley establecerá los medios de impugnación a través de los cuales las víctimas u ofendidos del delito podrán recurrir, por la vía jurisdiccional, las omisiones de la Fiscalía General en la investigación de los delitos, así como las resoluciones sobre la reserva de las investigaciones preliminares, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
-
-### CAPÍTULO II. DE LAS FACULTADES DE LA FISCALÍA GENERAL
+### Capítulo I. Términos
 
 ###### Artículo 8.
 
-Corresponde a la Fiscalía General:
+El Presidente del Comité tendrá las atribuciones siguientes:
 
-I. Ejercer las facultades que la Constitución del Estado y las leyes le confieren al Ministerio Público;
+I. Presidir las sesiones;
 
-II. Vigilar que se observen los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las atribuciones que legalmente correspondan a las autoridades judiciales o administrativas;
+II. Proponer la participación de invitados que se consideren necesarios para asesorar al Comité;
 
-III. Fomentar las políticas para la investigación y persecución penal de los delitos en el ámbito local;
+III. Proponer al Comité criterios respecto de los procedimientos de acceso a la información, de datos personales y políticas de transparencia; y
 
-IV. Cumplir los objetivos de su competencia en el ámbito de la seguridad pública en coordinación con las autoridades de los tres órdenes de gobierno;
-
-V. Cumplir con los objetivos y fines que establecen las leyes en el ámbito de su competencia respecto el Sistema Nacional de Seguridad Pública como del Sistema Estatal de Seguridad Pública de Sinaloa;
-
-VI. Celebrar acuerdos o convenios con instituciones públicas o privadas para garantizar a los imputados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y traductores;
-
-VII. Atender y dar respuesta a las quejas, propuestas de conciliación y recomendaciones, así como atender las visitas, de los organismos protectores de derechos humanos conforme a la Constitución Federal y la Constitución del Estado, así como de organismos internacionales de protección de derechos humanos cuya competencia haya sido reconocida por el Estado Mexicano, conforme a las disposiciones aplicables;
-
-VIII. Suscribir los acuerdos interinstitucionales que sean necesarios para el cumplimiento de sus funciones;
-
-IX. Emitir disposiciones para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictuoso, y aseguramiento de los instrumentos, objetos o productos del delito, así como los procedimientos y protocolos para asegurar su integridad;
-
-X. Ofrecer y entregar recompensas, en los casos, términos y condiciones que determine el Reglamento;
-
-XI. Orientar a los particulares respecto de asuntos que presenten ante el Ministerio Público, que no constituyan delitos del orden común o que no sean de su competencia, sobre el trámite que legalmente corresponda al asunto de que se trate;
-
-XII. Coadyuvar en la política estatal de prevención del delito;
-
-XIII. Administrar, suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que diariamente se genere en materia de Seguridad Pública dentro del territorio del Estado a través de bases de datos, en términos del Reglamento.
-
-Por información en materia de Seguridad Pública, se entiende la que hace referencia el artículo 5, fracción II de la Ley General del Sistema Nacional de Seguridad Pública;
-
-XIV. Atender la regulación que prevé la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley respecto al Servicio de Carrera;
-
-XV. Formar y actualizar a sus servidores públicos para la investigación y persecución de los delitos en las materias que sean de su competencia; así como implementar un servicio de carrera de agentes del Ministerio Público, policías de investigación y peritos;
-
-XVI. Administrar y determinar el destino de los bienes asegurados y de los que hayan causado abandono a favor del Estado, conforme a lo previsto en los ordenamientos legales aplicables y lineamientos que se emitan para tal fin; así como resolver las inconformidades que se presenten respecto de las actuaciones relacionados (sic) a su devolución, uso o destino;
-
-XVII. Intervenir en la entrega de los indiciados, imputados, procesados, acusados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa o del Gobierno Federal que los requiera, en los términos de los convenios de colaboración que al efecto celebren las entidades federativas;
-
-XVIII. Implementar un sistema de control y evaluación de la gestión institucional para la Fiscalía General;
-
-XIX. Crear y administrar las bases estatales de información en el ámbito de su competencia;
-
-XX. Establecer medios de información sistemática y directa con la sociedad, para dar cuenta de sus actividades. Para efectos del acceso a la información pública, la Fiscalía General se regirá bajo el principio de máxima publicidad en los términos de la Constitución Federal y la Constitución del Estado; no obstante, se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que estén en curso y mantendrá la confidencialidad de los datos personales, en los términos que disponga la Ley General de Transparencia y Acceso a la Información Pública, Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, Ley de Transparencia y Acceso a la Información Pública y Ley de Protección de Datos Personales en Posesión de Sujetos Obligados ambas del Estado, el Código Nacional y las leyes aplicables;
-
-XXI. Constituir y administrar el Fondo de Procuración de Justicia en términos de Ley como a través de las Reglas que al efecto emita el Fiscal General;
-
-XXII. Llevar a cabo todos los actos necesarios para la constitución y administración de fondos en el ámbito de su competencia;
-
-XXIII. Administrar sus recursos humanos, materiales, financieros, así como su patrimonio y presupuesto conforme a las disposiciones aplicables;
-
-XXIV. Adquirir, arrendar y contratar bienes, servicios y obras públicas de conformidad con las disposiciones aplicables;
-
-XXV. Instrumentar y aplicar mecanismos de coordinación con la Secretaría de Seguridad Pública y con instituciones de seguridad pública de los tres órdenes de Gobierno, para la prevención e investigación de los delitos;
-
-XXVI. Desarrollar e instrumentar un sistema de medidas de protección para sus servidores públicos y de las personas cuya salvaguarda sea relevante con motivo de las funciones de aquellos;
-
-XXVII. Impulsar las acciones necesarias para promover la cultura de la denuncia de los delitos y la participación de la comunidad en las actividades de la procuración de justicia;
-
-XXVIII. Constituir y administrar su archivo;
-
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2019)</small>
-
-XXIX. Colaborar con el Ministerio Público Federal proporcionando los datos, registros y actuaciones de la investigación de delitos relacionados o cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
-
-XXX. Investigar y perseguir los delitos en el ámbito de su competencia, conforme a las Leyes Generales relacionadas con la materia de desaparición forzada, de tortura, y de delitos electorales;
-
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
-
-XXXI. Celebrar acuerdos interinstitucionales con autoridades e instituciones para coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el Estado; y
-
-XXXII. Las demás que prevean otras disposiciones jurídicas aplicables.
+IV. Las demás que deriven del presente Reglamento.
 
 ###### Artículo 9.
 
-La Fiscalía General para el despacho de los asuntos que le competen, estará integrada en forma enunciativa, mas no limitativa, con:
+EL Titular de la Unidad de Transparencia tendrá las facultades siguientes:
 
-I. Las Vicefiscalías General, Regionales y/o Especializadas;
+I. Programar y convocar a las sesiones del Comité de Transparencia;
 
-II. Fiscalía Especializada en Combate a la Corrupción;
+II. Elaborar el proyecto de la orden del día que corresponda a cada una de las sesiones del Comité de Transparencia y someterlo a consideración de los demás integrantes del Comité;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+III. Elaborar los proyectos de acta que contengan resoluciones y acuerdos que deberán ser aprobados por los integrantes del Comité de Transparencia;
 
-III. Fiscalía Especializada en Desapariciones Forzadas;
+IV. Recibir, integrar y revisar los proyectos y propuestas que se presenten, así como preparar la documentación que será analizada en las sesiones del Comité de Transparencia, misma que deberá acompañarse a la convocatoria correspondiente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+V. Auxiliar al Presidente del Comité de Transparencia en el desarrollo de sus funciones;
 
-IV. Fiscalía Especializada en Materia de Tortura;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
-
-V. Fiscalía Especializada en Atención de Delitos Electorales;
-
-VI. Órgano Interno de Control;
-
-VII. Policías de Investigación;
-
-VIII. Direcciones Generales, Direcciones de Unidad, Ministerios Públicos y Peritos;
-
-IX. Los órganos auxiliares encargados de impartir educación superior, realizar investigación académica, contribuir en la formulación de políticas públicas en materia de justicia penal y seguridad pública, los cuales participan en la capacitación y formación ética y profesional del personal de la Fiscalía General;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
-
-X. La Oficialía Mayor, órgano encargado de la administración de la Fiscalía General;
-
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
-
-XI. Unidad de Inteligencia Patrimonial y Económica; y
-
-XII. Los demás órganos o unidades creadas por mandato legal o que determine el Fiscal General en el Reglamento o en otras disposiciones de su normatividad interna.
+VI. Las demás que le sean encomendadas por el Presidente del Comité de Transparencia y aquellas que sean necesarias de acuerdo con la normatividad aplicable.
 
 ###### Artículo 10.
 
-Los titulares de los órganos o unidades a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+El Comité de Transparencia, para el cumplimiento de sus funciones celebrará sesiones ordinarias y extraordinarias con la presencia de la totalidad de sus integrantes y, en su caso, de sus suplentes.
 
 ###### Artículo 11.
 
-La Fiscalía General contará con el personal señalado en el artículo 9 de la presente Ley, así como el personal profesional, técnico y administrativo necesario para la realización de sus funciones, observando el principio de paridad de género, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado.
-
-Los Ministerios Públicos, policías de investigación y peritos, así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser de designación especial y, sin sujetarse a todos los requisitos de ese cargo, pero en ese caso no serán miembros del servicio de carrera. El Reglamento determinará los casos y condiciones en que proceda tal designación.
-
-El Fiscal General determinará en el Reglamento de la presente Ley y en las disposiciones que para tal efecto emita, los servidores públicos que tendrán el carácter de agente del Ministerio Público distinto a aquellos que formen parte del servicio de carrera.
+El Tribunal como sujeto obligado a través de las áreas responsables, debe poner a disposición de los particulares la información a que se refieren la Ley General y la Ley Federal, en su sitio de Internet y a través de la Plataforma Nacional.
 
 ###### Artículo 12.
 
-El Reglamento, así como los Acuerdos que disponga la creación de Vicefiscalías Regionales y/o Especializadas, unidades administrativas especializadas u órganos, se deleguen facultades o se adscriban los órganos y unidades, o que rijan su actuación y del personal que integra la Fiscalía General, se publicarán en el Periódico Oficial "El Estado de Sinaloa".
+Las áreas responsables son las encargadas de recopilar o generar la información y la Dirección de Informática Jurídica se encargará de su publicación, de conformidad con la normatividad aplicable a la materia.
 
-### CAPÍTULO III. DEL FISCAL GENERAL
+### Capítulo II. De la Clasificación de la Información
 
 ###### Artículo 13.
 
-La Fiscalía General estará presidida por la o el Fiscal General, quien presidirá la institución del Ministerio Público y ejercerá autoridad jerárquica sobre todo el personal, en el que podrá delegar el ejercicio de sus atribuciones.
+La Unidad de Transparencia en coordinación con la Contraloría Interna verificará y evaluará periódicamente que la información publicada tanto en el sitio de internet y la Plataforma Nacional de Transparencia sea veraz, confiable, oportuna, congruente, integral, actualizada, accesible, comprensible y verificable; atendiendo los formatos y Lineamientos que para tal efecto emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+El Comité de Transparencia coadyuvará en vigilar y evaluar el cumplimiento de las obligaciones de transparencia y en su caso emitirá las observaciones y recomendaciones que considere necesarias.
 
 ###### Artículo 14.
 
-El nombramiento o remoción del Fiscal General se sujetarán a los requisitos y procedimientos previstos en la Constitución del Estado.
+De conformidad con el artículo 45 de la Ley General, la Unidad de Transparencia es la encargada de recibir y dar trámite a las solicitudes de acceso de información.
 
-El Fiscal General podrá ser removido por el titular del Poder Ejecutivo por cualquiera de las siguientes causas graves:
+Las solicitudes de información se turnarán dentro de las veinticuatro horas siguientes a la recepción de la (sic) las mismas a las áreas que puedan tener o generar la información de acuerdo a sus facultades, competencias y funciones a través del oficio correspondiente, con el objeto de que realicen una búsqueda exhaustiva y razonable de la información solicitada.
 
-I. Si durante su desempeño incurre en incumplimiento de alguno de los requisitos establecidos para su designación previstos en la Constitución del Estado;
-
-II. Por abuso o ejercicio indebido del cargo que le corresponde como Fiscal General;
-
-III. Cometer violaciones graves a la Constitución Federal o Constitución del Estado; y
-
-IV. Por incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses.
-
-El acuerdo de remoción será notificado al Congreso del Estado a más tardar al día siguiente de su emisión.
-
-La remoción podrá ser objetada por el voto de las dos terceras partes de los miembros presentes del Congreso dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
-
-Lo señalado en las fracciones anteriores se aplicará sin perjuicio de lo establecido en el Título Cuarto de la Constitución Federal y en el Título VI de la Constitución del Estado, en materia de responsabilidades de los servidores públicos.
-
-### CAPÍTULO IV. DE LAS OBLIGACIONES Y FACULTADES DEL FISCAL GENERAL
+### Capítulo III. De la modalidad de Entrega
 
 ###### Artículo 15.
 
-Son obligaciones del Fiscal General:
+El área responsable de la generación o resguardo de la información la remitirá en un plazo máximo de diez días hábiles a la Unidad de Transparencia, de conformidad con el artículo 132 de la Ley General a efecto de que se realice la oportuna notificación de respuesta al solicitante.
 
-I. Ejercer con máxima diligencia las atribuciones que como titular del Ministerio Público y de la Fiscalía General le confiere la Ley;
+Cuando la información contenga partes o secciones reservadas o confidenciales, el área responsable, para efectos de atender la solicitud de información, deberá elaborar una versión pública en la que se testen las partes o secciones clasificadas, de conformidad con lo establecido en el artículo 118 de la Ley General.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
-
-II. Presentar en el mes de enero de cada año a los Poderes Legislativo y Ejecutivo del Estado, un informe de actividades a que se refiere el artículo 76 Bis de la Constitución Política del Estado de Sinaloa, así como comparecer ante ellos cuando se le cite a rendir cuentas o a informar sobre su gestión.
-
-III. Emitir el Reglamento y las demás disposiciones normativas necesarias para prevenir, investigar y, en su caso, solicitar la reparación del daño por violaciones a derechos humanos, en los términos de la Constitución Federal, la Constitución del Estado, y las leyes aplicables; y
-
-IV. Las demás que prevean otras disposiciones jurídicas aplicables.
+En caso de que el área no sea competente para atender la solicitud de acceso a la información que le haya sido turnada, lo hará del conocimiento de la Unidad de Transparencia dentro de las veinticuatro horas siguientes a la recepción de la misma.
 
 ###### Artículo 16.
 
-Son facultades del Fiscal General:
-
-I. Suscribir todos los instrumentos jurídicos que se deriven y sean necesarios para el cumplimiento de sus funciones;
-
-II. Supervisar la aplicación de los criterios que al seno de las Conferencias Nacionales de Procuración de Justicia y de Secretarios de Seguridad Pública, se emitan para la regulación de la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento, certificación y registro ministerial, pericial y policial; así como régimen disciplinario policial;
-
-III. Formular la acusación y las conclusiones correspondientes, cuando el agente del Ministerio Público no lo haya realizado en términos de las disposiciones jurídicas aplicables en materia procesal penal;
-
-IV. Autorizar el no ejercicio de la acción penal;
-
-V. Autorizar la solicitud de la cancelación de órdenes de aprehensión;
-
-VI. Autorizar el desistimiento de la acción penal y la solicitud de no imponer la prisión preventiva oficiosa, la entrega vigilada y las operaciones encubiertas, así como la aplicación de criterios de oportunidad;
-
-VII. Resolver la petición de sobreseimiento conforme a las disposiciones aplicables;
-
-VIII. Expedir y otorgar nombramientos a los integrantes del Servicio de Carrera y demás servidores públicos que integran la Fiscalía General en términos del Reglamento;
-
-IX. Solicitar y recibir de los concesionarios de telecomunicaciones, así como de los autorizados y proveedores de servicios de aplicación y contenido, la localización geográfica en tiempo real de los equipos de comunicación móvil y los datos conservados, en los términos de las disposiciones aplicables;
-
-X. Pronunciarse respecto a la omisión del Ministerio Público cuando éste no acuerde lo procedente una vez cerrada la investigación;
-
-XI. Solicitar al órgano jurisdiccional que corresponda, la autorización para la intervención de comunicaciones privadas;
-
-XII. Autorizar la aplicación de criterios de oportunidad en términos de la legislación aplicable;
-
-XIII. Autorizar al agente del Ministerio Público para que solicite al órgano jurisdiccional la sustitución de la prisión preventiva oficiosa por otra medida cautelar en los términos y forma que prevea el Reglamento;
-
-XIV. Autorizar la infiltración de agentes para investigaciones, así como los actos de entrega vigilada y las operaciones encubiertas previstos en la Ley y en los Tratados Internacionales ratificados por el Estado Mexicano;
-
-XV. Establecer mediante Acuerdo, los lineamientos para otorgar la libertad provisional bajo caución, resolver el no ejercicio de la acción penal, solicitar la cancelación de órdenes de aprehensión, reaprehensión y comparecencia; el desistimiento, el sobreseimiento parcial o total, la suspensión del proceso, así como cualquier otro acto de autoridad que el Fiscal General determine;
-
-XVI. Solicitar información relacionada con una investigación formalmente iniciada de las entidades que integran el sistema financiero de acuerdo con las disposiciones aplicables;
-
-XVII. Resolver las excusas o recusaciones de los agentes del Ministerio Público y peritos en el procedimiento penal en términos del Reglamento y las disposiciones aplicables;
-
-XVIII. Resolver los recursos que se le interpongan en términos del Reglamento;
-
-XIX. Resolver el recurso de reclamación interpuesto por alguna de las partes sobre la negativa de la reapertura de la investigación o la omisión de investigación por los agentes del Ministerio Público en términos del Reglamento;
-
-XX. Resolver el recurso de inconformidad interpuesto por la víctima u ofendido, en contra del no ejercicio de la acción penal, prescripción, negativa del Ministerio Público a desahogar diligencias propuestas por alguna de las partes, abstención de iniciar la investigación o la aplicación de un criterio de oportunidad, en términos del Reglamento;
-
-XXI. Dispensar la práctica de la necropsia, cuando la muerte de la persona no sea constitutiva de delito y tratándose de delitos culposos, cuando sea evidente la causa que la originó;
-
-XXII. Otorgar estímulos por productividad, riesgo o desempeño a los servidores públicos que no formen parte del Servicio de Carrera;
-
-XXIII. Establecer criterios generales en materia de recursos humanos, así como para la fijación de los tabuladores y remuneraciones del personal en términos de la legislación aplicable;
-
-XXIV. Imponer al personal de la Fiscalía General, las sanciones que procedan por incurrir en causas de responsabilidad o incumplimiento de obligaciones;
-
-XXV. Emitir las disposiciones normativas relativas a obra pública, administración, adquisición, control, arrendamiento, resguardo, enajenación de bienes y contratación de servicios; registro y control del patrimonio; así como en materia de programación, planeación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos estatales que formen parte de su patrimonio, en términos de lo previsto en la legislación aplicable, con base en resultados, constitución y operación de Fondos, así como la normatividad necesaria para el adecuado funcionamiento de la Fiscalía General;
-
-XXVI. Integrar y participar en la Conferencia Nacional de Procuración de Justicia;
-
-XXVII. Participar en las instancias de coordinación del Sistema Nacional de Seguridad Pública o de cualquier otro sistema u órgano colegiado donde la presente Ley prevea su participación;
-
-XXVIII. Suscribir convenios de colaboración, coordinación y concertación, en materia de capacitación, investigación de delitos o en cualquier otra materia, que resulten necesarios o convenientes para el cumplimiento de sus funciones;
-
-XXIX. Promover la homologación de los sistemas de compilación, clasificación, registro, análisis, evaluación y explotación de información para la investigación científica de los delitos;
-
-XXX. Coordinar y supervisar el suministro, intercambio, sistematización, consulta, análisis y actualización de la información que se genere en la Fiscalía General en materia de procuración de justicia, a través de los sistemas e instrumentos tecnológicos que correspondan;
-
-XXXI. Instruir la aplicación de los criterios formulados por el Consejo Nacional de Seguridad Pública para los Programas Nacionales de Procuración de Justicia y de Seguridad Pública, con respecto a los funcionarios que ejercen función de investigación de delitos;
-
-XXXII. Vigilar la aplicación de los Programas Rectores de Profesionalización de las instituciones de procuración de justicia y policiales, en términos de los criterios emitidos por el Consejo Nacional de Seguridad Pública;
-
-XXXIII. Conocer los resultados de los procesos de Evaluación y Control de Confianza y determinar lo conducente para fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal de la Fiscalía General; y
-
-XXXIV. Las demás que prevean otras disposiciones jurídicas aplicables.
-
-Las facultades previstas en esta Ley u otras leyes podrán delegarse en los servidores públicos que el Fiscal General determine mediante acuerdo, salvo lo dispuesto en el artículo siguiente.
+Cuando el área determine que los detalles proporcionados para localizar la información o documentos señalados en la solicitud de acceso que le haya sido turnada resulten ser insuficientes, incompletos o erróneos, dentro del plazo máximo de cuatro días hábiles siguientes a su recepción lo hará del conocimiento de la Unidad de Transparencia a efecto de realizar el debido requerimiento al solicitante.
 
 ###### Artículo 17.
 
-Son facultades indelegables del Fiscal General, las siguientes:
+En caso de que la información requerida por el solicitante se encuentre disponible al público a través de cualquier medio impreso o tecnológico, la Unidad de Transparencia dentro de los tres días hábiles siguientes a la recepción de la solicitud de acceso lo hará del conocimiento del solicitante.
 
-I. Promover acciones colectivas;
-
-II. Proponer a las autoridades con derecho para iniciar leyes, los proyectos de iniciativas para la exacta observancia de la Constitución del Estado en el ámbito de su competencia;
-
-III. Expedir las normas reglamentarias que se requieran para el funcionamiento de la Fiscalía General;
-
-IV. Emitir el Reglamento del Servicio de Carrera, manuales, acuerdos, protocolos, lineamientos, circulares, instructivos, bases, criterios y demás normas que conduzcan al buen despacho de las funciones de la Fiscalía General, y que establezcan los requisitos y los procedimientos para la ejecución de las actuaciones y diligencias que en la investigación de los delitos bajo el mando y conducción del Ministerio Público, deberán cumplir las instituciones de seguridad pública y las autoridades que actúen en auxilio de éstas, los cuales deberán publicarse en el Periódico Oficial "El Estado de Sinaloa";
-
-V. Elaborar y presentar el Proyecto de Egresos de la Fiscalía General ante el Poder Ejecutivo para su incorporación al proyecto de presupuesto de egresos del Estado a fin de ser presentado como tal ante el Congreso del Estado;
-
-VI. Establecer las comisiones, consejos, comités internos, grupos y demás instancias colegiadas que sean necesarios para el buen funcionamiento de la Fiscalía General; así como designar a los integrantes de los mismos y a los representantes de la Fiscalía General en órganos colegiados en los que participe la Institución;
-
-VII. Autorizar la estructura orgánica y crear, modificar o suprimir las unidades administrativas necesarias para el cumplimiento de las funciones de la Fiscalía General, de acuerdo al presupuesto establecido, determinando su adscripción y la del personal;
-
-VIII. Adscribir orgánicamente las unidades administrativas de la Fiscalía General previstas en las disposiciones jurídicas aplicables;
-
-IX. Celebrar acuerdos, bases de colaboración, convenios y demás instrumentos jurídicos con autoridades federales y/o locales, organismos públicos autónomos constitucionales, así como con organizaciones de los sectores social y privado, en el ámbito de su competencia;
-
-X. Nombrar y remover libremente a los servidores públicos considerados como personal de confianza, así como en los casos en que proceda, a los agentes del Ministerio Público, a los policías de investigación, así como a los peritos por designación especial, a los titulares de las vicefiscalías y unidades administrativas que integran la Fiscalía General, así como determinar sus facultades;
-
-XI. Aprobar la organización y funcionamiento de la Fiscalía General, así como establecer las áreas administrativas de la misma que sean necesarias para la prestación del servicio y el ejercicio de las funciones de la Fiscalía General;
-
-XII. Ordenar el cambio de adscripción de los servidores públicos de confianza de la Fiscalía General, según las necesidades del servicio de carrera;
-
-XIII. Emitir los acuerdos, protocolos, circulares, instructivos, bases, criterios y demás disposiciones administrativas generales necesarias para el ejercicio de las facultades a cargo de los ministerios públicos y de los servidores públicos que formen parte de la Fiscalía General;
-
-XIV. Dictar las disposiciones necesarias para asegurar la dirección general de (sic) Ministerio Público respecto de las Instituciones Policiales, en la investigación de los delitos;
-
-XV. Garantizar la autonomía del Ministerio Público como órgano técnico en el ejercicio de sus funciones, las cuales no podrán ser influidas ni restringidas por ninguna autoridad;
-
-XVI. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución Federal y del Código Nacional;
-
-XVII. Contratar profesionales, técnicos, expertos y asesores especializados, de conformidad con las disposiciones aplicables;
-
-XVIII. Expedir el Código de Ética de la Fiscalía General el cual deberá contener la definición de los valores, la visión y la misión institucionales a los que deben sujetarse sus servidores públicos para que realicen sus funciones con profesionalismo y probidad; y
-
-XIX. Las demás que con carácter indelegable, expresamente así lo señalen las leyes.
-
-No se considerará delegación los casos en que opere el régimen de suplencias previsto en el Reglamento, ni el ejercicio de atribuciones conferido a servidores públicos subalternos y que, por su naturaleza, concurran al debido desempeño de las conferidas al Fiscal General.
-
-### CAPÍTULO V. DE LA SUPLENCIA Y REPRESENTACIÓN DEL FISCAL GENERAL
+### Capítulo IV. Protección de Datos Personales
 
 ###### Artículo 18.
 
-El Fiscal General será suplido en sus excusas, ausencias o faltas temporales por la persona que se desempeñe en la Vicefiscalía General, en los términos previstos en el Reglamento.
-
-Los demás servidores públicos serán suplidos en los términos que establezca el Reglamento.
+Cuando la información requerida no se encuentre en los archivos del área, dentro de los tres días hábiles siguientes a la recepción de la solicitud de acceso, lo hará del conocimiento de la Unidad de Transparencia a efecto de que el Comité de Transparencia emita la resolución de inexistencia correspondiente, señalando las circunstancias de tiempo, modo y lugar que generaron la inexistencia en cuestión.
 
 ###### Artículo 19.
 
-Cuando se impute la comisión de un delito al Fiscal General, sin perjuicio de lo dispuesto por el artículo 135 de la Constitución del Estado y por la Ley de Responsabilidades de los Servidores Públicos del Estado, se procederá de la siguiente manera:
+En aquellos casos que la información solicitada implique un análisis, estudio o procesamiento de documentos cuya entrega o reproducción sobrepase las capacidades técnicas del área para cumplir con la solicitud de acceso en los plazos determinados para tales efectos, de manera excepcional, en forma fundada y motivada, se podrá poner a disposición del solicitante los documentos en consulta directa, salvo la información clasificada, garantizando siempre la integridad de los documentos.
 
-I. El servidor público a quien corresponda actuar como suplente del Fiscal General de conformidad con la presente Ley y su Reglamento, conocerá de la denuncia y se hará cargo de la investigación respectiva; y
+En ese sentido, el área deberá hacer del conocimiento a la Unidad de Transparencia las partes o secciones que no podrá (sic) dejarse a la vista del solicitante por estar clasificadas como reservadas o confidenciales; asimismo, se deberá señalar el lugar, día y hora en que se podrá llevar al cabo la consulta de la documentación solicitada por el personal que para tal efecto haya sido designado.
 
-II. El servidor público suplente del Fiscal General resolverá sobre el inicio del procedimiento para la declaración de procedencia ante el Congreso del Estado. Previo acuerdo con el titular del Ejecutivo Estatal.
+En caso de que los documentos sean de volumen considerable, o bien, contengan particularidades, el área podrá determinar que se necesite más de un día para realizar la consulta, lo que deberá indicar en el oficio de atención a la solicitud de acceso, así como los días destinados para tal efecto.
 
 ###### Artículo 20.
 
-El Fiscal General será representado ante las autoridades judiciales, administrativas y del trabajo por los servidores públicos que determine el Reglamento o por los Ministerios Públicos que designe para el caso concreto y con las formalidades que para el caso establezca la legislación aplicable.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+De conformidad con el artículo 100 de la Ley General los titulares de las áreas serán los responsables de clasificar la información, en atención con lo dispuesto en la normatividad de la materia.
 
 ## TÍTULO IV. DE LAS FISCALÍAS ESPECIALIZADAS EN COMBATE A LA CORRUPCIÓN, DE DESAPARICIÓN FORZADA DE PERSONAS, DE TORTURA, Y DE ATENCIÓN A DELITOS ELECTORALES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2019)</small>
 
-### CAPÍTULO ÚNICO. DE LAS FISCALÍAS ESPECIALIZADAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+### Capítulo V. Sanciones
 
 ###### Artículo 21.
 
-Las Fiscalías Especializadas son órganos encargados de investigar y perseguir los hechos o actos que las Leyes Generales y la legislación en el Estado consideran como delitos en materia de corrupción, desapariciones forzadas de personas, tortura y electoral.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
-
-Por su competencia y relevancia, todas tienen el nivel de Vicefiscalía General.
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+La información generada, recibida, obtenida, adquirida, transformada o conservada por el Tribunal sólo podrá ser clasificada como reservada o confidencial en los supuestos previstos en los artículos 113 y 116 de la Ley General y 110 y 113 de la Ley Federal, así como la demás normatividad aplicable.
 
 ###### Artículo 21 Bis.
 
@@ -595,77 +245,11 @@ Artículo 21 Bis A. La Fiscalía General debe capacitar, conforme a los más alt
 
 ###### Artículo 22.
 
-Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, de Tortura y de Atención a Delitos Electorales serán designados y removidos por el Fiscal General. El Congreso del Estado podrá objetar los nombramientos y remociones dentro del plazo de diez días hábiles en la forma dispuesta por el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
-
-Para tal efecto, una vez que se realicen los nombramientos respectivos, el Fiscal General los remitirá al Congreso del Estado conjuntamente con los expedientes que contengan la documentación correspondiente para la acreditación del cumplimiento de los requisitos para ocupar el cargo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2019)</small>
+Los datos personales concernientes a una persona física identificada o identificable no podrán clasificarse como confidenciales ante sus titulares, dando acceso a los datos previa acreditación de la identidad o personalidad del mismo.
 
 ###### Artículo 23.
 
-Corresponde a la Fiscalía Especializada en Combate a la Corrupción, la realización de las atribuciones siguientes:
-
-I. Ejercer las atribuciones que la Constitución Federal, las leyes Generales, la Constitución del Estado, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público, en lo relativo a los hechos que la Ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la propia Fiscalía General, supuesto en el cual conocerá el Órgano Interno de Control;
-
-II. Participar como integrante del Sistema Estatal y Municipal Anticorrupción del Estado, atendiendo las bases establecidas en el artículo 113 de la Constitución Federal, en la Ley General del Sistema Nacional Anticorrupción, 109 Bis D de la Constitución del Estado y en la Ley del Sistema Anticorrupción del Estado;
-
-III. Contar con los agentes del Ministerio Público especializados, peritos y policías de investigación, miembros del servicio de carrera, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía Especializada, sobre los que ejercerá mando directo en términos de lo dispuesto por la Ley respectiva y demás disposiciones aplicables.
-
-Para tales efectos, el Fiscal Especializado presentará solicitud debidamente sustentada y justificada ante el Fiscal General, que resolverá lo conducente procurando que se guarde un equilibrio y proporcionalidad en la asignación del personal ministerial considerando los requerimientos operacionales de las diversas unidades administrativas y órganos desconcentrados de la institución y la disponibilidad presupuestaria;
-
-IV. Proponer al Fiscal General, el nombramiento de los agentes del Ministerio Público por designación especial que reúnan amplia experiencia profesional en materia de combate a la corrupción, en términos de lo dispuesto por la normatividad aplicable;
-
-V. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
-
-VI. Coordinar y supervisar la actuación de la Policía de Investigación que se encuentre adscrita a la Fiscalía Especializada en términos de las disposiciones aplicables;
-
-VII. Diseñar e implementar estrategias y líneas de acción para prevenir y combatir los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-VIII. Implementar planes y programas destinados a detectar la comisión de los hechos que la Ley respectiva considera como delitos en materia de corrupción en el ámbito de su competencia. Dichos planes y programas deberán ser aprobados por el Fiscal General;
-
-IX. Instrumentar mecanismos de colaboración y coordinación con otras autoridades locales, nacionales y de otras entidades federativas para la elaboración de estrategias y programas tendientes a prevenir y combatir los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-X. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-XI. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-XII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de control y fiscalización a fin de fortalecer el desarrollo de las investigaciones;
-
-XIII. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
-
-XIV. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por la Fiscalía Especializada y otras unidades competentes de la Fiscalía General, en especial la relacionada con la investigación de los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-XV. Coadyuvar con otras áreas competentes de la Fiscalía General, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-XVI. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
-
-XVII. Emitir guías y manuales técnicos, en coordinación con las instancias competentes de la Fiscalía General para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-XVIII. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-XIX. Suscribir programas de trabajo y proponer al Fiscal General la celebración de convenios con las entidades federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad, así como de las unidades de inteligencia patrimonial de las entidades federativas, para la investigación y persecución de los hechos que la Ley respectiva considera como delitos en materia de corrupción;
-
-XX. Colaborar con la Fiscalía General en Combate a la Corrupción para que ejerza la facultad de atracción de los delitos del orden común en términos de las disposiciones jurídicas aplicables;
-
-XXI. Dirigir, coordinar y realizar la investigación de los hechos que presuntamente constituyan delitos del fuero común en materia de su competencia, en términos de las disposiciones jurídicas aplicables;
-
-XXII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando estos hayan desaparecido o no se localicen por causa atribuible al imputado, en los términos de la Ley de la materia;
-
-XXIII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la Ley respectiva considere como delitos en materia de corrupción, que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
-
-XXIV. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades;
-
-XXV. Colaborar con el Fiscal General en el ejercicio de las facultades que le otorga la Ley a efecto de contribuir a la persecución y abatimiento de los hechos que la Ley respectiva considera como delitos en materia de corrupción; y
-
-XXVI. Las demás que en su caso le confieran el Fiscal General u otras disposiciones legales aplicables.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JULIO DE 2019)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE JULIO DE 2019)</small>
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+Los documentos o expedientes clasificados como confidenciales sólo podrán ser comunicados a terceros siempre y cuando exista disposición legal expresa que lo justifique o cuando se cuente con el consentimiento del titular.
 
 ###### Artículo 23 Bis.
 
@@ -895,79 +479,63 @@ Artículo 23 Bis J. La persona titular de la UIPE, así como todo el personal ad
 
 ###### Artículo 24.
 
-El Consejo Consultivo es el órgano colegiado de participación ciudadana de la Fiscalía General.
+Los titulares de las áreas que constituyen el Tribunal deberán señalar la clasificación de la información, cuya leyenda deberá atender los siguientes parámetros:
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+I. La fecha de sesión del Comité de Transparencia en donde se confirmó la clasificación, en su caso:
 
-Está integrado, por el Fiscal General y seis consejeros ciudadanos que gocen de reconocido prestigio en el estudio, difusión y/o promoción de los derechos humanos como en sistemas de procuración y/o administración de justicia en el Estado, observando para su integración el principio de paridad de género.
+II. El nombre del área;
 
-El Vicefiscal General será el Secretario Técnico del Consejo Consultivo.
+III. La palabra reservado o confidencial;
 
-A excepción del cargo de Fiscal General y Vicefiscal General, quienes serán remunerados por las funciones propias de sus cargos y no por su intervención en el Consejo Consultivo, los demás miembros del mismo tendrán carácter honorífico.
+IV. Las partes o secciones reservadas o confidenciales, en su caso;
+
+V. El fundamento legal;
+
+VI. El periodo de reserva, y
+
+VII. La rúbrica del titular del área
+
+La mencionada leyenda deberá ser elaborada en formatos de medios impresos y electrónicos, debiendo formar parte del documento o expediente.
 
 ###### Artículo 25.
 
-El Fiscal General presidirá el Consejo Consultivo.
+El acceso a la información que este Tribunal genere, adquiere, transforme o se encuentre en su posesión, se dará en la modalidad de entrega y, en su caso, de envío elegidos por la persona solicitante.
 
-El Congreso del Estado nombrará a los Consejeros Ciudadanos para un periodo de dos años.
+Se entenderá por modalidad de entrega el formato a través del cual se puede dar acceso a la información entre los que se encuentran los siguientes:
 
-Todos los consejeros deberán rendir su protesta respectiva ante el Congreso del Estado.
+I. La consulta directa;
+
+II. La expedición de copias simples o certificadas; y
+
+III. La reproducción en cualquier otro medio incluidos aquellos que resulten aplicables, derivados del avance de la tecnología.
 
 ###### Artículo 26.
 
-El nombramiento de los consejeros ciudadanos que integren el Consejo Consultivo, se hará por el Congreso del Estado, con la aprobación de las dos terceras partes de sus miembros presentes y mediante consulta pública que deberá ser transparente a organizaciones de la sociedad civil.
-
-Los miembros del Consejo Consultivo no deberán desempeñar al momento de la designación como tal, ni durante el desarrollo de su encargo, algún cargo público en instancia gubernamental.
+El solicitante deberá cubrir los costos para obtener la información, la cual le deberá ser entregada sin costo cuando implique la entrega de no más de veinte hojas simples. A partir de la hoja veintiuno el costo será el que establezca la norma aplicable para la expedición de copias simples y certificadas.
 
 ###### Artículo 27.
 
-El Fiscal General comunicará al Congreso del Estado la necesidad de realizar el cambio de los consejeros ciudadanos cuyo periodo de nombramiento esté próximo a concluir, a efecto de que se realice el procedimiento correspondiente para el nombramiento de los nuevos consejeros ciudadanos.
-
-El aviso a que se refiere el párrafo anterior, deberá realizarse con dos meses de anticipación al día en que concluya el periodo de nombramiento respectivo.
-
-En tanto no se realicen los nombramientos respectivos, los consejeros ciudadanos que deban ser sustituidos continuarán en el ejercicio de su cargo.
+En todo momento el Titular de los datos personales o su representante legal, previa acreditación de su personalidad, podrá solicitar al Tribunal el acceso, rectificación, cancelación u oposición al tratamiento de los datos personales que le concierne. El ejercicio de este derecho no es requisito previo, ni impide el ejercicio de otro y se ajustará a lo previsto en Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 ###### Artículo 28.
 
-El Consejo Consultivo de la Fiscalía General, tendrá las siguientes obligaciones:
+El Tribunal no estará obligado a recabar el consentimiento del Titular para el tratamiento de sus datos personales en los siguientes casos:
 
-I. Actuar como órgano consultivo del Fiscal General en cuestiones técnicas y de operación administrativas;
+I. Cuando la Ley así lo disponga y no contravenga los principios de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-II. Opinar sobre los lineamientos generales administrativos de actuación y reglas de operación de la Fiscalía General, lo mismo que sobre los convenios que celebre con otras instancias el Fiscal General;
+II. Cuando la transferencia que se realice entre responsables, sea sobre datos personales que se utilicen para el ejercicio de facultades propias, compatibles o análogas con la finalidad que motivó el tratamiento de los datos personales;
 
-III. Opinar y observar en la programación, organización, administración, funcionamiento y operación del Fondo;
+III. Cuando exista una orden judicial, resolución o mandato fundado y motivado de autoridad competente;
 
-IV. Validar el Reglamento interno de la Fiscalía General;
-
-V. Emitir un informe sobre sus actividades anuales, que deberá presentarse ante los Poderes Ejecutivo y Legislativo;
-
-VI. Generar opiniones sobre el proyecto de informe anual que el Fiscal General presentará a los Poderes Ejecutivo y Legislativo;
-
-VII. Conocer el informe del Fiscal General respecto el gasto del ejercicio presupuestal; y
-
-VIII. Las demás que le sean conferidas por el Fiscal General como por el Congreso del Estado y que estén acordes a su naturaleza ciudadana.
+IV. Cuando los datos personales figuren en fuentes de acceso público.
 
 ###### Artículo 29.
 
-El Consejo Consultivo funcionará colegiadamente en sesiones ordinarias y extraordinarias.
-
-Las sesiones ordinarias se verificarán cuando menos una cada mes.
-
-Las sesiones extraordinarias se convocarán por el Fiscal General a instancia propia o mediante solicitud que a éste formulen por lo menos dos miembros del Consejo Consultivo, cuando se motive las razones de importancia para ello.
-
-Para celebrar sesiones del Consejo Consultivo se requerirá la presencia de por lo menos cuatro consejeros y del Fiscal General.
-
-El Consejo Consultivo contará con un Secretario Técnico quien asistirá a los consejeros para el pleno cumplimiento de sus obligaciones.
+Los Servidores Públicos del Tribunal serán responsables por el incumplimiento de las obligaciones en materia de transparencia y acceso a la información pública y protección de datos personales, a que se refieren la Ley General, la Ley Federal y la Ley General de Protección de datos Personales en Posesión de Sujetos Obligados.
 
 ###### Artículo 30.
 
-Los miembros del Consejo tendrán las siguientes funciones:
-
-I. Asistir a las sesiones del Consejo;
-
-II. Cumplir con las obligaciones que la Ley determina al Consejo Consultivo; y
-
-III. Desempeñar las actividades que el Consejo le asigne.
+Tan pronto como el Comité estime que un servidor público incurrió en incumplimiento de obligaciones a que se refiere el artículo anterior, dará aviso a la Contraloría Interna a efecto de que ésta inicie, en su caso, el o los procedimientos respectivos en términos de la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 31.
 
@@ -1659,75 +1227,17 @@ VIII. Los que resulten aplicables de acuerdo a las necesidades del servicio en l
 
 En el caso de que conforme a las disposiciones aplicables a la Fiscalía General le corresponda constituir y administrar otros fondos, se realizará conforme a los instrumentos que para tal efecto emita el Fiscal General, así como conforme a las disposiciones aplicables a la materia.
 
-## ARTÍCULOS TRANSITORIOS
+## Transitorios
 
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y en el Boletín Laboral Burocrático.
 
-SEGUNDO. Se abrogan la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 144, el 29 de noviembre de 2013, así como la Ley que Crea el Fondo de Apoyo a la Procuración de Justicia del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 96, el 12 de agosto de 1998.
+SEGUNDO. Se deroga el Reglamento de Transparencia y Acceso a la Información del Tribunal Federal de Conciliación y Arbitraje, publicado en el Diario Oficial de la Federación el 12 de junio de 2003.
 
-TERCERO. Los recursos que actualmente integran el Fondo de Apoyo a la Procuración de Justicia del Estado de Sinaloa deberán ser transferidos al Fondo que se crea mediante el presente Decreto.
+TERCERO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Reglamento, se sustanciarán conforme a la normatividad vigente en materia de transparencia.
 
-CUARTO. El titular de la Fiscalía General deberá expedir el Reglamento Interior de la Fiscalía General del Estado, en un plazo no mayor a 180 días hábiles de la entrada en vigor de la presente Ley.
+El presente Reglamento fue aprobado por el Pleno del Tribunal Federal de Conciliación y Arbitraje, en sesión ordinaria celebrada el 13 de noviembre de 2018, por UNANIMIDAD de votos de los Magistrados que lo integran.
 
-Asimismo, en el mismo plazo deberá expedir el Reglamento del Servicio de Carrera.
-
-QUINTO. El personal operativo de la Procuraduría General de Justicia del Estado de Sinaloa, deberá someterse al procedimiento de evaluación para migrar a la Fiscalía General, que comprende la certificación vigente de control de confianza, de competencias laborales y evaluación del desempeño, conforme las disposiciones de permanencia en el servicio previstas en esta Ley y las complementarias que dicte el Fiscal General. El proceso de migración deberá realizarse en los dos años siguientes a la entrada en vigor de la presente Ley. Para ser parte del servicio de carrera deberán cubrirse las disposiciones legales aplicables y ganar los concursos para las plazas de carrera.
-
-SEXTO. Los servidores públicos de base que se encuentren prestando sus servicios en la Procuraduría General de Justicia del Estado de Sinaloa, a la entrada en vigor del presente Decreto, podrán solicitar sea reasignada su plaza al Poder Ejecutivo del Estado, conservando la misma calidad y los derechos laborales que les corresponda, ante la transición a Fiscalía General, preservando su antigüedad en los términos de la normatividad aplicable.
-
-El personal de la Fiscalía General que labora como personal de confianza y permanezca en la misma, preservarán sus derechos de antigüedad en los términos de la normatividad aplicable.
-
-SÉPTIMO. Los procedimientos jurisdiccionales y administrativos relacionados con la separación, remoción, cese, o cualquier otra forma de terminación del servicio de los servidores públicos de la Procuraduría General de Justicia del Estado de Sinaloa iniciados hasta la entrada en vigor de la presente Ley, concluirán conforme a la normatividad que les fue aplicable en el momento de inicio del procedimiento.
-
-Son agentes del Ministerio Público, los secretarios de Ministerio Público habilitados por el Procurador General de Justicia como agentes por cumplir los requisitos para ser parte de la institución del Ministerio Público, por lo que les aplican todas sus obligaciones y facultades. Los conciliadores serán los facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, siempre que cumplan los requisitos para ello.
-
-OCTAVO. Hasta en tanto se expidan las disposiciones administrativas aplicables, la Fiscalía General se apoyará en la Administración Pública del Gobierno del Estado de Sinaloa, para los procedimientos de adquisiciones, servicios, obra pública, tecnologías de la información y demás aspectos administrativos que resulten necesarios.
-
-NOVENO. Los recursos financieros y tecnológicos asignados o destinados a la Procuraduría General de Justicia del Estado de Sinaloa se tendrán por transferidos a la Fiscalía General del Estado de Sinaloa, a fin de evitar la afectación del servicio.
-
-El Gobierno del Estado de Sinaloa y la Fiscalía General regularizarán la transmisión de la propiedad en favor de esta última.
-
-DÉCIMO. La Fiscalía General en un plazo no mayor a ciento ochenta días hábiles, deberá tener un órgano especializado en mecanismos alternativos de solución de controversias de materia penal, de conformidad con la Ley Nacional de la materia.
-
-DÉCIMO PRIMERO. Dentro de los seis meses siguientes a la expedición de la presente Ley, el Congreso del Estado deberá realizar la consulta pública que deberá ser transparente para designar los seis Consejeros Ciudadanos del Consejo Consultivo, quienes por única ocasión y para asegurar la renovación escalonada, deberán ser designados de la siguiente manera:
-
-- Dos consejeros ciudadanos para un periodo de dos años.
-
-- Dos consejeros ciudadanos para un periodo de tres años.
-
-- Dos consejeros ciudadanos para un periodo de cuatro años.
-
-DÉCIMO SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
-
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintinueve días del mes de agosto del año dos mil diecisiete.
-
-C. ROBERTO RAMSÉS CRUZ CASTRO
-
-DIPUTADO PRESIDENTE
-
-C. GUADALUPE IRIBE GASCÓN
-
-DIPUTADA SECRETARIA
-
-C. JESÚS ALFONSO IBARRA RAMOS
-
-DIPUTADO SECRETARIO
-
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los treinta y un días del mes de agosto del año dos mil diecisiete.
-
-El Gobernador Constitucional del Estado
-
-QUIRINO ORDAZ COPPEL
-
-El Secretario General de Gobierno
-
-GONZALO GÓMEZ FLORES
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 22 DE JULIO DE 2019.
+EL SUSCRITO SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE: CERTIFICA: Que este acuerdo mediante el cual el Pleno del Tribunal Federal de Conciliación y Arbitraje, en sesión celebrada el trece de noviembre de dos mil dieciocho, emite el Reglamento de Transparencia y Acceso a la Información del Tribunal Federal de Conciliación y Arbitraje, fue aprobado por unanimidad de votos de los Señores Magistrados: Rosalinda Vélez Juárez, José Luis Soto Miranda, Eduardo Laris González, Irma Ramírez Sánchez, Salvador Oyanguren Guedea, José Luis Amador Morales Gutiérrez, José Roberto Córdova Becerril, Miguel Ángel Gutiérrez Cantú, Patricia Isabella Pedrero Duarte, Janitzio Ramón Guzmán Gutiérrez, Mario Emilio Garzón Chapa, Nicéforo Guerrero Reynoso, Humberto Cervantes Vega, Carlos Francisco Quintana Roldán, María de Rosario Jiménez Moles, Rocío Rojas Pérez, Alfredo Freyssinier Álvarez, Errol Obed Ordóñez Camacho, Pedro José Escarcega Delgado, Fernando Ignacio Tovar y de Teresa, Elizabeth Cataño Navarro, Eduardo Arturo Hernández Castillón, Israel Requena Palafox, Carlos Maldonado Barón y Ángel Humberto Félix Estrada.- En la Ciudad de México, a los catorce días del mes de noviembre de dos mil dieciocho.- Doy fe.- El Secretario General de Acuerdos, Raziel Levi Segura de Iturbide.- Rúbrica.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 DEL H. CONGRESO DEL ESTADO.- QUE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS; REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y DE LA LEY DE SEGURIDAD PÚBLICA; Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA”.]
 
