@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-09-22"
+last_updated: "2021-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -353,6 +353,10 @@ El Estado garantizará la existencia de un servicio de defensoría pública de c
 
 Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2021)</small>
+
+Las partes tendrán el derecho de solicitar a su costa la expedición de copias simples de actuaciones judiciales, lo que podrá solicitarse y acordarse verbalmente, asentándose razón de su entrega.
+
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
@@ -643,9 +647,9 @@ El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades
 
 La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas y al pueblo y comunidades afromexicanas, así como las sanciones que procedan para el caso de incumplimiento.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2021)</small>
 
-Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas y afromexicanas, el Estado tiene la obligación de asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional.
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas y afromexicanas, el Estado tiene la obligación de asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición mediante programas de alimentación, en especial para la población vulnerable.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -921,9 +925,9 @@ IX.- Participar en la observación de los procesos electorales y en los mecanism
 
 X.- Participar en la organización y desarrollo de los procesos electorales y de los mecanismos de participación ciudadana a que le convoque el Instituto Estatal Electoral y de Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2021)</small>
 
-Las ciudadanas y los ciudadanos oaxaqueños residentes en el extranjero tienen derecho a votar en la elección de la Gobernadora o el Gobernador del Estado, de acuerdo con el procedimiento establecido en la Ley.
+Los ciudadanos oaxaqueños residentes en el extranjero tienen derecho a votar en la elección del Gobernador del Estado, y a votar y ser votados como diputados migrantes de acuerdo al procedimiento establecido en la Ley; (sic)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1367,11 +1371,11 @@ Los Diputados Propietarios podrán ser reelectos hasta por un periodo consecutiv
 
 Ninguno de los Diputados mencionados en el párrafo anterior, cuando hayan sido reelectos con el carácter de propietarios durante un periodo consecutivo anterior, podrá ser electo para el periodo inmediato como suplente, pero éstos sí podrán ser electos para el periodo inmediato como propietarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 33.
 
-El Congreso del Estado estará integrado por 25 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal y se sujetará a lo que en lo particular disponga la ley y a las bases siguientes:
+El Congreso del Estado estará integrado por 25 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal, un diputado por el principio de representación proporcional tendrá el carácter de migrante o binacional, que será electo conforme lo determine la ley electoral del Estado. Se entenderá por diputado migrante al representante popular que satisfaga las exigencias previstas en la Constitución Política de los Estados Unidos Mexicanos, su ley reglamentaria en materia de nacionalidad y ciudadanía y a las bases siguientes:
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1432,6 +1436,10 @@ V.- No haber sido condenado por delitos intencionales; y
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
 VI.- Tener un modo honesto de vivir.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2021)</small>
+
+VII.- En caso de ser migrante, acreditar la residencia binacional, en los términos estipulados en la ley.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -5966,3 +5974,29 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Quedan derogadas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2622.- MEDIANTE EL CUAL SE REFORMA UN SEGUNDO PÁRRAFO DE LA FRACCIÓN IX AL ARTÍCULO 24; 33; SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 34, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2659.- MEDIANTE EL CUAL SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2667.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DECIMOPRIMERO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
