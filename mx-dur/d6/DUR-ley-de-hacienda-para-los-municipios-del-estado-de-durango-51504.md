@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2017-03-19"
+last_updated: "2021-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -1379,6 +1379,44 @@ b) Si cubre la infracción después del tercer día que se menciona en el inciso
 
 c) Si paga después de treinta días de haber cometido la infracción, pero antes de cuarenta y cinco, se duplicara la multa; si después de ese período no se hace efectivo tal adeudo; dará inicio el procedimiento de ejecución contra el deudor.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+#### SECCIÓN VIGÉSIMA QUINTA. POR SERVICIO PÚBLICO DE ILUMINACIÓN
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 166 ter. Es objeto de este derecho la prestación del Servicio de Público de Iluminación a favor y en beneficio de la seguridad pública de los habitantes de los Municipios del Estado de Durango, Durango.
+
+Son sujetos de este derecho, los propietarios o poseedores de predios urbanos o rústicos ubicados en el área territorial municipal.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 166 quater. Se entiende por Servicio de Alumbrado Público, la iluminación que el Municipio otorga a la comunidad en calles y avenidas de sectores habitacionales, comerciales e industriales, plazas, jardines y otros lugares de uso común.
+
+La prestación de este servicio comprende la seguridad pública que se brinda al patrimonio mínimo indispensable de subsistencia y aquellos lucrativos con la iluminación, así como la planeación estratégica, la instalación de arbotantes, la realización de las obras de instalación, ejecución, operación y mantenimiento del sistema de alumbrado, así como la aplicación de políticas para la ampliación del servicio cuando las necesidades de la comunidad lo requieran.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 166 quinquies. La tarifa mensual correspondiente al derecho público de iluminación, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el Municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad.
+
+El derecho por servicio público de Iluminación casusará en forma mensual y se pagará mediante los recibos que para tal efecto emita la Comisión Federal de Electricidad, conforme a las tarifas que establezca cada municipio en su Ley de Ingresos.
+
+Para efectos del cobro de este derecho, los ayuntamientos podrán celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 166 sexies. En caso de que existan predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, éstos pagarán las tarifas que establezcan los municipios en sus leyes de Ingresos, mismas que serán integradas y, debidamente diferenciadas, en el estado de cuenta por concepto de impuesto predial que para tal efecto emite la Tesorería Municipal y, se deberá efectuar el pago de forma anual, independientemente de que para tal efecto se tomen como base las tarifas mensuales correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 166 septies. Para los efectos de esta Ley se entenderá por "costo anual global general actualizado erogado" la suma que resulte del total de las erogaciones por gasto directamente involucrado con la prestación de este servicio, reflejados en el presupuesto de egresos del municipio.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Artículo 166 octies. Los contribuyentes del Derecho por el Servicio Público de Iluminación que residan en zonas de ubicación geográfica clasificadas como habitacionales, comerciales e industriales dentro de los municipios del Estado de Durango; recibirán un estímulo fiscal en función del grado de beneficio que en materia de seguridad pública otorga la iluminación del sistema de alumbrado, a su patrimonio.
+
+Una vez aplicado el estímulo fiscal de mérito, dichos contribuyentes pagarán el Derecho por el Servicio Público de Iluminación de conformidad con las tarifas finales que para tal efecto establezcan los municipios.
+
 ### CAPÍTULO III. DE LAS CONTRIBUCIONES POR MEJORAS
 
 ###### Artículo 167.
@@ -1724,3 +1762,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Municipios del Estado de Durango, deberán realizar las modificaciones y adecuaciones necesarias a sus reglamentos en la materia, en un término no mayor a 60 días a partir de la entrada en vigencia del presente decreto.
 
 TERCERO. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 676.- POR EL QUE SE DEROGA EL CAPÍTULO XVIII DEL TÍTULO III DENOMINADO POR SERVICIO PÚBLICO DE ILUMINACIÓN. APROBADO MEDIANTE DECRETO No. 128, Y PUBLICADO EN EL PERIÓDICO OFICIAL 19 BIS, DE FECHA 6 DE MARZO DE 1988 QUE CONTIENE (SIC) LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO Y SE ADICIONA UNA SECCIÓN VIGÉSIMO QUINTA AL CAPÍTULO SEGUNDO DEL TÍTULO SEGUNDO, DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Los municipios del Estado de Durango, en un término de quince días a partir de la publicación del presente decreto deberán adecuar sus leyes de ingresos, respecto del servicio público de iluminación.
+
+TERCERO. Los municipios del Estado de Durango, a fin de establecer las cuotas del servicio de alumbrado público entre los usuarios, deberá solicitar a la Comisión Federal de Electricidad, el padrón de usuarios, y la Comisión, a su vez deberá proporcionarlo a los municipios.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
