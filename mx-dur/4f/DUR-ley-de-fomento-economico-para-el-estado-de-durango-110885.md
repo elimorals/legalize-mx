@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2021-07-04"
+last_updated: "2021-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -91,19 +91,45 @@ X. Promover acciones para facilitar el acceso al financiamiento a empresarias y 
 
 XI. Promover la generación de nuevas fuentes de empleo decente y consolidar las existentes.
 
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Promover la integración y consolidación de cadenas productivas y distributivas, y facilitar la incorporación de proveedores locales a las mismas;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Sentar las bases para facilitar el surgimiento, consolidación y maduración de agrupamientos empresariales, y de polos de desarrollo, procurando el desarrollo equilibrado de las distintas regiones del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Impulsar políticas de transformación tecnológica, y la incorporación a la economía digital de las micro, pequeñas y medianas empresas;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Establecer las bases para implementar políticas públicas que promuevan la generación de una economía basada en el conocimiento; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Fortalecer los vínculos jurídicos, administrativos y de cooperación, entre la administración pública federal, el Estado y los municipios, para impulsar un desarrollo económico congruente con los esfuerzos de planeación en los niveles nacional, regional, estatal y municipal, y de zonas con alta integración económica.
+
 ###### ARTÍCULO 4.
 
 Para los efectos de esta Ley, se entiende por:
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-I. Agrupamiento Empresarial: Concentración de empresas relacionadas entre sí, pertenecientes a un mismo sector, en una zona geográfica relativamente definida, conformando en sí misma un polo productivo especializado con ventajas competitivas;
+l. Acciones afirmativas. Son las medidas de carácter temporal, correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres.
+
+I BIS. Agrupamiento Empresarial. Concentración de empresas relacionadas entre sí, pertenecientes a un mismo sector, en una zona geográfica relativamente definida, conformando en sí misma un polo productivo especializado con ventajas competitivas.
 
 II. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-III. Consejo para el Desarrollo: El Consejo para el Desarrollo de Durango;
+II BIS. Economía Basada en el Conocimiento. Economía en la que los actores públicos y privados colaboran en la generación y aplicación del conocimiento en las actividades diarias y productivas, lo que fortalece la competitividad de las regiones, ciudades, y distintas demarcaciones territoriales, y contribuye al desarrollo sustentable, económico y social.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+III. CODEDUR: El Consejo para el Desarrollo de Durango.
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -145,7 +171,9 @@ f. En general, de todas las formas de organización social para la producción, 
 
 XIV. Organizaciones empresariales: Las cámaras y organismos empresariales y sus confederaciones en su carácter de entidades del sector privado de interés público, sindicatos patronales; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante los tres órdenes de gobierno.
 
-XV. Plan Sectorial: El Plan Sectorial de fomento a la creación, viabilidad, desarrollo, expansión, productividad, competitividad y sustentabilidad de las MIPYMES del Estado de Durango.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Programa Sectorial: El Programa Sectorial de Desarrollo Económico.
 
 XVI. Registro de Certificación: Registro Estatal del Certificado de Empresa Duranguense, que se otorga a aquellas empresas que sus actividades empresariales se desarrollan en el Estado.
 
@@ -154,6 +182,10 @@ XVII. Secretaría: La Secretaría de Desarrollo Económico del Gobierno del Esta
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 XVIII. Empleo Decente: aquél en el que se respeta plenamente la dignidad humana del trabajador; no existe discriminación en ninguna de sus manifestaciones; se tiene acceso a la seguridad social y se percibe un salario bien remunerado; se recibe capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Startup o Empresa Emergente. Empresa de reciente creación, fundada por emprendedores, de base tecnológica, innovadora y con una elevada capacidad, de rápido crecimiento.
 
 ###### ARTÍCULO 5.
 
@@ -171,7 +203,9 @@ I. Promover y vigilar el cumplimiento de la presente Ley.
 
 II. Promover y direccionar el desarrollo económico del Estado, impulsando la actividad productiva a través de procesos de creación de empresas competitivas, creativas e innovadoras, articuladas con las cadenas productivas relevantes y la vocación productiva de las distintas regiones de la entidad.
 
-III. Apoyar la integración de cadenas productivas y agrupamientos empresariales en base a las ventajas competitivas locales.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+III. Diseñar y ejecutar políticas públicas, para apoyar la integración de cadenas productivas y agrupamientos empresariales con base a las ventajas competitivas locales.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -195,15 +229,17 @@ XI. Posicionar el interés que el Estado tiene en ofrecer a los consumidores, pr
 
 XII. Adoptar los planes y programas para promover, en coordinación con las instancias respectivas, la comercialización de los productos y servicios generados en el Estado, en el mercado estatal, regional, nacional e internacional.
 
-XIII. Fomentar y promover una cultura exportadora.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Diseñar y ejecutar políticas públicas que fomenten y promuevan una cultura exportadora, con el objeto de hacer del comercio exterior, un instrumento de desarrollo orientado a fortalecer y elevar la competitividad de la planta productiva local, los comercios y servicios locales conexos;
 
 XIV. Adoptar las medidas y programas necesarios para la incorporación a la economía formal, de las personas y unidades que actualmente operan al margen de la formalidad.
 
 XV. Colaborar con la Secretaría de Turismo del Gobierno del Estado, para que las políticas públicas y los programas de promoción turística que se elaboren vinculen, respalden y fomenten el desarrollo económico de la entidad.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. Proponer al Consejo para el Desarrollo el Programa anual de promoción del Estado y sus municipios en el ámbito nacional e internacional, para incentivar y atraer inversiones a la entidad.
+XVI. Elaborar, operar, mantener actualizado, y proponer al CODEDUR, el Programa anual de promoción del Estado y sus municipios, en el ámbito nacional e internacional, para incentivar, y atraer inversiones a la entidad, en beneficio del Estado y sus municipios.
 
 XVII. Promover la participación de los municipios, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, considerando las necesidades, el potencial y vocación productiva de cada región.
 
@@ -223,7 +259,35 @@ XXI. Colaborar en coordinación con el Instituto Nacional de Economía Social en
 
 XXII. Coordinar los trabajos del Consejo para el Desarrollo y los Comités Regionales de Promoción Económica.
 
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XXIX.]</small>
+
 XXIII. Las demás, que esta Ley, su Reglamento y el Consejo le propongan.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XXIV. Generar plataformas por medios propios o externos, mediante el uso de tecnologías de la información, para promover la información relativa a los insumos, productos y/o maquinaria producidos localmente, para los efectos de la integración productiva.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XXV. Promover activamente y consensuar, de conformidad con las disposiciones legales aplicables, estrategias interinstitucionales, políticas y acciones con el sector educativo, privado y social, para el desarrollo de capital humano, y la especialización de los recursos humanos en actividades económicas, con el fin de aumentar la productividad, la competitividad económica del Estado y elevar el nivel de empleo.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI. Impulsar en el Estado, proyectos que refuercen la implantación de economías del conocimiento en los distintos municipios, y el potencial de innovación.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Promover, ante el Consejo de Ciencia y Tecnología del Estado de Durango, convenios para la elaboración de programas orientados a impulsar el desarrollo económico, y elevar la competitividad del Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII. Promover la renovación del patrón productivo en los sectores tradicionales de la economía o la reconversión de sectores en declive, y generar las condiciones para atraer inversiones que supongan la implantación de nuevas actividades económicas, en especial, las que aporten valor añadido; y
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XXIII.]</small>
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XXIX. Las demás, que esta Ley, su Reglamento y el Consejo propongan.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -243,87 +307,149 @@ La Secretaría desarrollará las acciones necesarias tendientes a consolidar el 
 
 ### CAPÍTULO III. DEL CONSEJO PARA EL DESARROLLO DE DURANGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
-
 ###### ARTÍCULO 9.
 
-El Consejo para el Desarrollo de Durango es la instancia de coordinación interinstitucional y de concertación de los sectores público, privado y social, el cual operará a partir de lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-I. Dar participación a la comunidad duranguense en la definición y dirección de la promoción del Estado, observando los principios de autonomía, permanencia y ejecutividad, para que su esfuerzo se oriente a los mejores intereses del estado en el mediano y largo plazo;
+El CODEDUR es la instancia de coordinación interinstitucional y de concertación de los sectores público, privado y social, el cual operará a partir de lo siguiente:
 
-II. Lograr que el número de empleos permanentes que se creen cada año en las empresas de Durango, sea superior al aumento de la población económicamente activa.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-III. Desarrollar un proyecto de largo plazo para el crecimiento económico de Durango e implementar un modelo que sea viable y atractivo, considerando la realidad del Estado, su potencial natural y humano y una estimación objetiva del entorno competitivo presente y futuro; y
+l. Dar participación a la comunidad duranguense en la definición y dirección de la promoción del Estado, observando los principios de autonomía, permanencia y ejecutividad, para que su esfuerzo se oriente a los mejores intereses del Estado en el mediano y largo plazo;
 
-IV. Proponer y recomendar políticas de promoción económica, para coadyuvar en el crecimiento económico integral y sostenido del estado, que incremente la calidad de vida de los duranguenses, estableciendo un esquema de desarrollo sustentable que aproveche y optimice sus recursos naturales, su posición geográfica y su clima, respetando su ecología.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+II. Incorporar en sus documentos programáticos, y acuerdos, objetivos de disminución de las cifras de desempleo, y la creación de empleos decentes.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+III. Participar en la construcción del Plan Estratégico, con base en lo dispuesto en el Sistema Estatal de Planeación para el Desarrollo, contenido en la Ley de Planeación del Estado de Durango, y proponer mejoras; y elaborar la agenda estratégica del CODEDUR, que contendrá metas de corto, mediano y largo plazo, con la finalidad de incidir en el crecimiento económico de Durango, considerando la realidad del Estado, su potencial natural y humano y una estimación objetiva del entorno competitivo presente y futuro;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Proponer y recomendar políticas de promoción económica, para coadyuvar en el crecimiento económico integral y sostenido del estado, que incremente la calidad de vida de los duranguenses, estableciendo un esquema de desarrollo sustentable que aproveche y optimice sus recursos naturales, su posición geográfica y su clima, respetando su ecología; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+V. Las demás que le sean asignadas por otras leyes.
 
 ###### ARTÍCULO 10.
 
-El Consejo para el Desarrollo tendrá los siguientes objetivos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El CODEDUR tendrá los siguientes objetivos:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 I. Agrupar a los responsables de las políticas económicas del Gobierno del Estado y de la comunidad empresarial, en una estructura formal de análisis y diálogo que tenga permanencia para planear y actuar con una visión de largo plazo;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 II. Establecer una estrecha coordinación y colaboración con la Secretaría y los Comités Regionales de Promoción Económica del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 III. Proponer un proyecto económico de largo plazo para el Estado, con base en la planeación estratégica que lo sustente, incluyendo los mecanismos de medición de avance y de difusión que de estos conceptos debe realizarse;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 IV. Establecer contacto y relación constante con la sociedad duranguense para promover, detectar, revisar y apoyar en su caso, las propuestas o proyectos que acerquen al Estado a sus metas de crecimiento económico;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 V. Promover una relación constante con los empresarios locales, nacionales y extranjeros, que puedan y deseen establecer en el Estado empresas permanentes, brindándoles el apoyo necesario que requieran, de acuerdo con la legislación en la materia y las organizaciones civiles y gubernamentales;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 VI. Aprovechar la estructura de la Secretaría, para llevar a cabo las gestiones y acciones necesarias para la consecución de estos objetivos;
 
-VII. Diseñar y aprobar su estructura y organización administrativa, contemplando áreas de investigación estratégica, de promoción de inversiones y las demás que se consideren necesarias para el logro de sus objetivos; estructura que deberá quedar definida en su Reglamento Interior;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Diseñar y aprobar su estructura y organización administrativa, contemplando áreas de investigación estratégica, de promoción de inversiones y las demás que se consideren necesarias para el logro de sus objetivos;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 VIII. Instrumentar los medios necesarios para generar y difundir en Durango, una cultura empresarial; y
 
-IX. Recibir el presupuesto que el Gobierno del Estado le asigne cada año, administrarlo con eficiencia, transparencia e informar su utilización anualmente al Congreso del Estado y ante las demás instancias que la Ley prevé.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+IX. Recibir el presupuesto que el Gobierno del Estado le asigne cada año, administrarlo con eficacia, transparencia e informar su utilización anualmente a la Secretaría, y al Congreso del Estado, y ante las demás instancias que la Ley prevé.
 
 ###### ARTÍCULO 11.
 
-El Consejo para el Desarrollo estará integrado de la siguiente forma:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El CODEDUR estará integrado de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 I. Un Presidente Honorario, que será el Gobernador del Estado;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 II. Un Presidente Ejecutivo, representante del sector empresarial, que será nombrado de entre los cinco consejeros empresariales, quienes lo elegirán por mayoría de votos;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 III. Un Vocal Ejecutivo, que será el titular de la Secretaria de Desarrollo Económico; y
 
-IV. Doce Consejeros propietarios, con sus respectivos suplentes, integrados de la siguiente forma:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-a) Cuatro consejeros funcionarios públicos del Gobierno del Estado, con nivel de Secretario, que serán designados por el Gobernador del Estado.
+IV. Trece Consejeros propietarios, con sus respectivos suplentes, integrados de la siguiente forma:
 
-b) Tres consejeros empresariales, que serán los Presidentes de los Comités Regionales de Promoción Económica; y
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-c) Cinco consejeros empresariales nombrados por el sector empresarial, de los cuales dos corresponderán a la región centro, dos a la región lagunera de Durango y un representante de la región noroeste del Estado.
+a) Cinco consejeros funcionarios públicos del Gobierno del Estado, con nivel de Secretario, que serán designados por el Gobernador del Estado, entre los cuales deberá estar el Secretario de Desarrollo Económico.
 
-Por cada integrante del Consejo para el Desarrollo, se designará un suplente. El cargo de consejero será honorifico.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-El Presidente Ejecutivo, los consejeros propietarios y suplentes, representantes de los Comités Regionales y de los empresarios, formarán parte del Consejo para el Desarrollo por periodos de tres años. Al término de cada periodo, los organismos podrán refrendar el nombramiento o designar a otro Consejero.
-
-Los Consejeros propietarios y suplentes, podrán dejar de formar parte del Consejo para el Desarrollo antes de terminar el periodo para el que fueron nombrados, por las siguientes causas:
-
-a) Por renuncia irrevocable;
-
-b) Por destitución, a solicitud formal presentada ante el Consejo para el Desarrollo por la institución que lo nombró Consejero; y
-
-c) Por acuerdo del Consejo para el Desarrollo, tomado por mayoría calificada de más del sesenta y cinco por ciento de los consejeros.
-
-En caso de renuncia o destitución de algún consejero propietario, su suplente ocupará su lugar hasta que la institución correspondiente nombre formalmente un sustituto.
+b) Tres consejeros empresariales, que serán los Presidentes de los Comités Regionales de Promoción Económica, los cuales serán elegidos de manera interna por mayoría de votos, de entre los miembros empresariales de cada Comité Regional de Promoción Económica; y
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
+c) Cinco consejeros empresariales nombrados por el sector empresarial, de los cuales dos corresponderán a la región centro, dos a la región lagunera de Durango y un representante de la región noroeste del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Por cada integrante del CODEDUR, se designará un suplente. El cargo de consejero será honorifico. En caso de empate, el presidente del Consejo, tendrá el voto de calidad.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El Presidente Ejecutivo, los consejeros propietarios y suplentes, representantes de los Comités Regionales y de los empresarios, formarán parte del CODEDUR por periodos de tres años. Al término de cada periodo, los organismos podrán refrendar el nombramiento por un periodo más o designar a otro Consejero.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El Presidente Ejecutivo, los Consejeros propietarios y suplentes, podrán dejar de formar parte del CODEDUR antes de terminar el periodo para el que fueron nombrados, por las siguientes causas:
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+a) Por renuncia irrevocable;
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+b) Por destitución, a solicitud formal presentada ante el CODEDUR por la institución que lo nombró Consejero; y
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+c) Por acuerdo del CODEDUR, tomado por mayoría calificada de más del sesenta y cinco por ciento de los consejeros.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de renuncia o destitución del Presidente Ejecutivo, una vez que la institución correspondiente haya nombrado a su sustituto, como consejero empresarial, los cinco consejeros empresariales procederán a elegir de entre ellos al nuevo Presidente Ejecutivo, quien durará en su cargo tres años contados a partir de la fecha de elección, y podrá reelegirse por otro período más. La designación del nuevo Presidente Ejecutivo, deberá llevarse a cabo dentro del mes siguiente a su renuncia o destitución, mientras tanto, su suplente asumirá el cargo.
+
 ###### ARTÍCULO 12.
 
-El Consejo para el Desarrollo se reunirá de manera ordinaria por lo menos una vez por trimestre. El Presidente Honorario y el Presidente Ejecutivo, podrán convocar a sesiones extraordinarias cuando así lo consideren necesario. Las convocatorias de las sesiones serán emitidas por el Vocal Ejecutivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-El Consejo para el Desarrollo tendrá la responsabilidad de elaborar y modificar su Reglamento Interno de Operación, que deberá ser aprobado por mayoría de más del sesenta y cinco por ciento de los votos del pleno.
+El CODEDUR se reunirá de manera ordinaria por lo menos una vez por trimestre. El Presidente Honorario y el Presidente Ejecutivo, podrán convocar a sesiones extraordinarias cuando así lo consideren necesario.
 
-Los acuerdos del Consejo para el Desarrollo, serán tomados por consenso o, a falta de este, por mayoría simple de votos.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El CODEDUR tendrá la responsabilidad de elaborar y modificar su Reglamento Interno de Operación, que deberá ser aprobado por mayoría de más del sesenta y cinco por ciento de los votos del pleno.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Los acuerdos del CODEDUR, serán tomados por consenso o, a falta de este, por mayoría simple de votos, y por ser de interés público, estarán a disposición del público en general, para su consulta en cualquier momento, ya sea, en archivos del Consejo, y por internet, en los términos establecidos en la legislación de transparencia y acceso a la información que correspondan.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
@@ -331,15 +457,47 @@ Los acuerdos del Consejo para el Desarrollo, serán tomados por consenso o, a fa
 
 La Vocalía Ejecutiva, tendrá las siguientes funciones:
 
-I. Ejecutar los acuerdos del Consejo para el Desarrollo;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-II. Proponer al Consejo para el Desarrollo, los programas de promoción económica y los proyectos de inversión en las distintas ramas de la actividad económica de la Entidad;
+I. Ejecutar los acuerdos del CODEDUR;
 
-III. Proponer al Consejo para el Desarrollo y ejecutar en su caso los estudios de factibilidad en cualquiera de las tres zonas que se identifican en la Entidad a través de los Comités Regionales de Promoción Económica;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+II. Proponer al CODEDUR, los programas de promoción económica y los proyectos de inversión en las distintas ramas de la actividad económica de la Entidad;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+III. Proponer al CODEDUR y ejecutar en su caso los estudios de factibilidad en cualquiera de las tres zonas que se identifican en la Entidad a través de los Comités Regionales de Promoción Económica;
 
 IV. Asesorar a las personas físicas y morales, inversionistas nacionales y extranjeros, en los trámites para el establecimiento de empresas; y
 
-V. Las demás que el Consejo para el Desarrollo le señale.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+V. Las demás que el CODEDUR le señale.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 13 BIS.
+
+Con el objeto de dar operatividad al CODEDUR, se crea la Dirección General que fungirá como órgano técnico y ejecutivo de este Consejo. El titular de la Dirección General será designado de manera unánime por todos los integrantes del CODEDUR, a propuesta del CODEDUR y tendrá las siguientes funciones:
+
+I. Ejecutar los acuerdos del CODEDUR;
+
+II. Proponer al CODEDUR y ejecutar en su caso, los estudios de factibilidad en cualquiera de las tres zonas que se identifican en la Entidad, a través de los Comités Regionales de Promoción Económica;
+
+III. Fungir como enlace ante la Secretaría, para todos los efectos administrativos y operativos correspondientes;
+
+IV. Programar, dirigir y supervisar el trabajo de las áreas operativas y administrativas del CODEDUR;
+
+V. Representar legalmente al CODEDUR en actos de administración, pleitos y cobranzas;
+
+VI. Elaborar y presentar para su aprobación, en su caso, el proyecto de presupuesto anual del CODEDUR;
+
+VII. Elaborar y presentar para su aprobación, ante el CODEDUR, el proyecto de Programa Anual de Trabajo;
+
+VIII. Elaborar y presentar para su aprobación el proyecto de Plan de Desarrollo Institucional del CODEDUR;
+
+X. Las demás que señalen las leyes vigentes y el Reglamento Interior.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
@@ -377,15 +535,23 @@ IV. Mantener contacto permanente con la comunidad de su región para detectar, p
 
 V. Generar y aprobar su estructura y procedimientos operativos, en los términos de la reglamentación interna que cada uno de ellos elabore;
 
-VI. Representar al Consejo para el Desarrollo en su región e informarles de los acuerdos y actividades; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Recibir el presupuesto que el Consejo para el Desarrollo le asigne cada año, administrarlo con eficiencia, transparencia e informar su utilización anualmente al Congreso del Estado y ante las demás instancias que la Ley prevé.
+VI. Representar al CODEDUR en su región e informarles de los acuerdos y actividades; y
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Recibir el presupuesto que el CODEDUR le asigne cada año, administrarlo con eficiencia, transparencia, e informar su ejercicio anualmente a la Secretaría por conducto de la Dirección General del CODEDUR, al Congreso del Estado, y ante las demás instancias que la Ley prevé.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Promover esquemas de vinculación entre el sector productivo, y las instituciones de educación superior, para la elaboración de proyectos que promuevan una economía basada en el conocimiento, en beneficio del desarrollo económico de todas las regiones económicas del Estado.
 
 ARTÍCULO 14 BIS 2.
 
-El Patrimonio del Consejo para el Desarrollo y el de los Comités Regionales de Promoción Económica estará formado por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El Patrimonio del CODEDUR y de los Comités Regionales estará formado por:
 
 > <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
 
@@ -393,13 +559,25 @@ El Patrimonio del Consejo para el Desarrollo y el de los Comités Regionales de 
 
 I. Los recursos que aporte el gobierno del Estado de Durango, cuyo monto corresponde al porcentaje de la recaudación del Impuesto sobre Nómina que se determine en las Leyes de Ingresos y Egresos del Estado de Durango para el ejercicio fiscal vigente.
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 II. Por los subsidios, aportaciones extraordinarias y donativos de los Gobiernos Federal, Estatal y Municipales, de entidades paraestatales e internacionales y de los particulares, entre otros;
 
-III. Los derechos que obtengan por vía de prestación de servicios de estudios, gestiones, análisis de viabilidad de los distintos proyectos que se sometan a la consideración del Consejo para el Desarrollo; por su ejecución o seguimiento; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Por los recursos que se obtengan por cualquier otro concepto.
+III. Los derechos que obtengan por vía de prestación de servicios de estudios, gestiones, análisis de viabilidad de los distintos proyectos que se sometan a la consideración del CODEDUR, por su ejecución o seguimiento; y
 
-El Consejo para el Desarrollo y los Comités Regionales de Promoción Económica, deberán comprobar el ejercicio de sus recursos a la Secretaría y a la Secretaría de Finanzas y de Administración, de conformidad con lo dispuesto en las leyes, reglamentos y demás normas aplicables en la materia.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Los bienes muebles que por cualquier título legal adquiera (sic) para el cumplimiento de sus objetivos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+V. Por los recursos que se obtengan por cualquier otro concepto.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El CODEDUR y los Comités Regionales de Promoción Económica, deberán comprobar el ejercicio de sus recursos a la Secretaría y a la Secretaría de Finanzas y de Administración, de conformidad con lo dispuesto en las leyes, reglamentos y demás normas aplicables en la materia.
 
 ## TÍTULO SEGUNDO. DEL FOMENTO A LA ACTIVIDAD EMPRESARIAL
 
@@ -437,13 +615,43 @@ Para el fomento de las MIPYMES, esta Ley tiene como objetivos:
 
 I. Impulsar su creación, viabilidad, desarrollo, expansión, productividad, competitividad y sustentabilidad.
 
-II. Incrementar su participación en el mercado local, nacional e internacional, en un marco de crecimiento de las cadenas productivas que generen a los productos un mayor valor agregado.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+II. Incrementar su participación en el mercado local, nacional e internacional, en un marco de crecimiento e integración de las cadenas productivas que generen a los productos un mayor valor agregado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
 La Secretaría elaborará un Plan Sectorial, en el marco de la normativa aplicable, tomando en cuenta los objetivos establecidos en el artículo anterior, así como los acuerdos que en uso de sus atribuciones tome el Consejo para el Desarrollo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 19 BIS.
+
+La Secretaría elaborará, y ejecutará, los programas sectoriales, institucionales, especiales, regionales, o de cualquier otro tipo, necesarios para el cumplimiento de la presente Ley; y en su caso, se coordinará con los entes públicos correspondientes para tal efecto. El Programa Sectorial, guardará congruencia, con el Plan Estatal de Desarrollo y el Plan Estratégico, y se elaborará de acuerdo a los criterios del Sistema de Planeación Democrática que marca la Ley de Planeación del Estado de Durango, al establecer para tal fin, los mecanismos de participación y consulta a ciudadanos, y de los sectores social y privado.
+
+La Secretaría elaborará la reglamentación, para la definición de los programas de apoyo económico o financiero o en especie, que cuenten con convocatoria abierta a empresarios y emprendedores, organizaciones, municipios o localidades. La reglamentación especificará que al menos, dichos programas deberán contar con, justificación, establecimiento de objetivos general (sic) y específicos; cobertura y población objetivo; tipos y modalidades de apoyo; criterios, requisitos, y mecanismos de selección de beneficiarios, con su correspondiente publicación de resultados; mecánica de operación; mecanismos de seguimiento y supervisión; mecanismos de evaluación, transparencia y rendición de cuentas; sistema de indicadores de resultados, y todos los que la Secretaría considere necesarios.
+
+La Secretaría, definirá en sus reglamentos, los medios de promoción y tiempos de difusión de las reglas de operación de los programas, para conocimiento de la ciudadanía y de los beneficiarios potenciales, y las publicará de manera oportuna, en un lugar visible y de fácil acceso, en su página oficial de internet.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 19 BIS l.
+
+En las reglas de operación de los programas, la Secretaría incluirá medidas explícitas para fomentar la perspectiva de género, acciones afirmativas que permitan la igualdad entre hombres y mujeres, o bien elaborará programas específicos o modalidades dentro de los programas, con perspectiva de género, de conformidad con la Ley de Planeación del Estado de Durango, y demás legislación aplicable.
+
+La Secretaría, impulsará la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto; y desarrollará un sistema de indicadores que identifique el avance del presupuesto, y de las políticas públicas con perspectiva de género. Los indicadores deberán publicarse en la página de internet oficial de la Secretaría, y con base a lo que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 19 BIS II.
+
+La Secretaría, emitirá las disposiciones reglamentarias correspondientes, para la revisión periódica de ejecución del Programa Sectorial y sus Programas.
+
+Para la instrumentación de los programas señalados en el presente capítulo, en los términos de normatividad legal aplicable, la Secretaría propondrá la participación que corresponda, a las dependencias y entidades de la Administración Pública, y la debida coordinación o colaboración, cuando así se requiera con los Gobiernos Federal y Municipales, así como las acciones que se consideren convenientes con los sectores social y privado, para la ejecución de los programas.
+
+El Ejecutivo, por conducto de la Secretaría, promoverá la celebración de convenios de colaboración con los gobiernos municipales, que faciliten la cooperación y la congruencia de las acciones gubernamentales en materia de planeación y conducción para el desarrollo económico.
 
 ###### ARTÍCULO 20.
 
@@ -455,7 +663,9 @@ En caso de crisis económicas o financieras generalizadas en el Estado, de maner
 
 ###### ARTÍCULO 21.
 
-La Secretaría promoverá la participación del sector privado para la consecución de los objetivos establecidos en el artículo 18, a través de los convenios que celebre, principalmente en cuanto a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría promoverá para el impulso de las MIPYMES, en forma directa a partir de programas específicos, y/o mediante la participación del sector privado para la consecución de los objetivos establecidos en el artículo 18, a través de los convenios que celebre, principalmente en cuanto a:
 
 I. La certificación de especialistas que otorguen servicios de consultoría y capacitación a las MIPYMES, a través de los organismos o instituciones competentes.
 
@@ -468,6 +678,30 @@ IV. Orientar a las MIPYMES en sistemas de administración y cumplimiento de obli
 V. La integración y fortalecimiento de las cadenas productivas y agrupamientos empresariales.
 
 VI. El desarrollo de proveedores, almacenistas e intermediarios.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Facilitar la integración de MIPYMES a nuevos mercados, y propiciar mayor participación en las exportaciones.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Fomentar la vinculación de la planta productiva con instituciones educativas y de investigación tecnológica, que coadyuve con el fortalecimiento de procesos productivos.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Apoyar en proyectos de modernización, adecuación, asimilación, desarrollo tecnológico, y su incorporación al comercio digital.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+X. Emplear tecnologías de la información para promover a las MIPYMES ante empresas instaladas o que pretendan instalarse en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XI. La elaboración de programas específicos, para cada región y sector económico, para promover la cooperación entre empresas, y la integración y formación de redes productivas de valor, y cooperativismo en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Apoyar a MIPYMES, especialmente aquellas integradas a los agrupamientos empresariales, que formulen proyectos para incrementar su productividad y competitividad, a través de procesos de innovación y desarrollo tecnológico, que contribuyan a mejorar sus bienes, servicios y procesos productivos.
 
 #### SECCIÓN ÚNICA. DEL REGISTRO ESTATAL DE MIPYMES
 
@@ -505,13 +739,17 @@ A toda empresa inscrita en el Registro Estatal de MIPYMES le corresponderá una 
 
 Las políticas públicas para el fomento a la inversión nacional y extranjera, se ajustarán a lo dispuesto en el Plan Estratégico, en el marco del Sistema Estatal de Planeación del Desarrollo. Los programas de la Secretaría que se contengan en el Plan Estatal de Desarrollo, con el objetivo de fomentar la inversión nacional y extranjera, guardarán congruencia con la planeación estratégica.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 28.
 
-Los programas para el fomento a la inversión de empresas nacionales y extranjeras, deberán orientarse bajo los siguientes criterios: potenciar la vocación productiva de las regiones del Estado, apoyar el desarrollo de los sectores industrial, agropecuario, comercial, turístico y de servicios, apoyar la vinculación permanente con las unidades productivas ya establecidas, y fomentar la generación y conservación de empleos.
+Los programas para el fomento a la inversión de empresas nacionales y extranjeras, deberán orientarse bajo los siguientes criterios: potenciar la vocación productiva de las regiones del Estado, apoyar el desarrollo de los sectores minero, industrial, agropecuario, comercial, turístico y de servicios, apoyar la vinculación permanente con las unidades productivas ya establecidas, promover la instalación de empresas que desarrollen ciencia y tecnología en el Estado, y fomentar la generación y conservación de empleos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-El Gobernador del Estado por sí o a través de la Secretaría, en cumplimiento al Programa Anual de Promoción del Estado y sus Municipios, promoverá la actividad empresarial de la entidad, poniendo especial énfasis en aquellas acciones que permitan atraer empresas que generen nuevas fuentes directas de empleos bien remunerados.
+El Gobernador del Estado por sí o a través de la Secretaría, en cumplimiento al Programa Anual de Promoción del Estado y sus Municipios, promoverá la actividad empresarial de la entidad, poniendo especial énfasis en primer orden de importancia, en aquellas acciones que permitan atraer empresas que generen nuevas fuentes directas de empleos bien remunerados, y adicionalmente, considerará a las empresas que desarrollen ciencia y tecnología en el Estado.
 
 ###### ARTÍCULO 30.
 
@@ -599,11 +837,21 @@ III. Identificar e impulsar a la producción artesanal como una actividad potenc
 
 IV. Fomentar el aprecio y valoración de la expresión y actividad artesanal como elemento fundamental de la cultura, economía e identidad duranguense.
 
-### CAPÍTULO V. DEL FOMENTO A LA COMERCIALIZACIÓN DE LOS PRODUCTOS DURANGUENSES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. DEL FOMENTO A LA COMERCIALIZACIÓN DE LOS PRODUCTOS DURANGUESES (SIC) Y EL DESARROLLO DE PROVEEDORES LOCALES
 
 ###### ARTÍCULO 44.
 
 Para el fomento a la comercialización de productos duranguenses, la Secretaría en coordinación con las cámaras y organismos empresariales, elaborará un programa de promoción de productos y servicios de origen duranguense, en ferias y exposiciones comerciales y de negocios dentro y fuera del territorio nacional.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 44 BIS 1.
+
+La Secretaría, proporcionará a las empresas nacionales o extranjeras que soliciten su apoyo para instalarse en el Estado, un listado de fabricantes locales de maquinaria, equipo u otros insumos, a efecto de que los tomen en consideración para la compra de dichos bienes.
+
+En los convenios de incentivos que celebre la Secretaría con esas empresas, se fijará una cláusula en la cual, como contraprestación a los apoyos o incentivos recibidos, la empresa se comprometa a considerar en primera instancia una parte de su presupuesto para la adquisición de productos estatales, maquinaria, equipo u otros insumos fabricados en el Estado, participando, en igualdad de circunstancias con los bienes o servicios procedentes de otras partes del país o del extranjero, siempre y cuando cubran las especificaciones que requieran.
 
 ###### ARTÍCULO 45.
 
@@ -675,6 +923,12 @@ VI.- Fomentar, divulgar y promover la inversión nacional y extranjera en las ac
 
 VII.- Fortalecer la competitividad de los mezcales estatales, fomentando el desarrollo de su producción y calidad.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 47 BIS 3.
+
+La Secretaría, desarrollará un programa para apoyar a las micro, pequeñas y medianas empresas del Estado en sus procesos de certificación y normalización dentro de los programas de desarrollo de emprendedores.
+
 ## TÍTULO TERCERO. DEL EMPRENDIMIENTO
 
 ### CAPÍTULO I. DEL EMPRENDIMIENTO
@@ -690,6 +944,50 @@ I. Apoyo para la realización de foros de proyectos, exposiciones, congresos y c
 II. Mentoría, capacitación y asesoría en análisis, revisión y perfeccionamiento de proyectos emprendedores por parte de asesores calificados, en materia de finanzas y administración.
 
 III. Vinculación a esquemas de incubadoras, grupos de ángeles inversionistas, créditos para jóvenes emprendedores, incentivos y subsidios.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Establecimiento de una política, que propicie la creación de instrumentos de financiamiento para proyectos de emprendimiento viables, en coordinación con instituciones financieras nacionales y extranjeras, y organismos gubernamentales creados para esos fines, la captación de capital semilla y de riesgo, de ángeles inversionistas, el impulso a la formación de redes de ángeles inversionistas, y la creación de fondos de capital de riesgo privados, esquemas de financiación colaborativa, y otras formas alternativas de financiamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+V. Diseñar e implementar programas, para el financiamiento al impulso y consolidación de emprendimientos altamente viables, proyectos de jóvenes emprendedores, proyectos de startups o empresas emergentes, e iniciativas empresariales de alto valor social y potencial de crecimiento derivadas de proyectos de investigación universitaria, en beneficio de todas (sic) regiones económicas del Estado establecidas en la presente Ley; para lo que se destinará anualmente, en el presupuesto de Egresos, hasta el 5% de la suma (sic) recursos de los Fondos de Promoción Económica y Desarrollo de la Actividad Empresarial en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Diseñar e implementar programas de crédito con perspectiva de género, para impulsar la incorporación de mujeres emprendedoras y empresarias en igualdad de oportunidades, para lo cual se destinará anualmente, en el presupuesto de Egresos, hasta el 5% de la suma (sic) recursos de los Fondos de Promoción Económica y Desarrollo de la Actividad Empresarial en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Implementación de programas específicos de líneas de crédito, y políticas, para impulsar y consolidar startups, o empresas emergentes, en apoyo a la definición, validación y lanzamiento al mercado de productos innovadores y con alto potencial de crecimiento;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Crear estrategias de incentivos, a favor de startups o empresas emergentes, que sean financiadas por ángeles inversionistas;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Promover la instalación de centros de emprendimiento de alto impacto, y puntos de apoyo al emprendedor, que fomenten la cultura y actividad emprendedora, de manera equilibrada en las regiones del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+X. Generar líneas específicas de apoyo para iniciativas empresariales, de alto valor social y potencial de crecimiento, derivadas de proyectos de investigación universitaria; y para incentivar la transferencia de conocimiento a la sociedad, mediante la promoción de desarrollo de emprendimientos en los centros universitarios, en colaboración con el sector productivo;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Fomentar la creación y uso de herramientas disponibles en internet, y las de tecnología digital e informática, para el desarrollo y consolidación de emprendimientos, que mejoren el acceso a la internacionalización de sus productos y servicios, y a los nuevos procesos de comercialización, organización y producción;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Diseñar e implementar estrategias que fortalezcan el vínculo de los actores del ecosistema emprendedor, para impulsar el surgimiento y consolidación de proyectos emprendedores viables; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Realizar acciones de asesoría y vinculación de emprendedores, con el ente obligado correspondiente, en el desarrollo y protección intelectual de invenciones e innovaciones tecnológicas y signos distintivos.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría publicará un mapa amigable de servicios en su portal oficial de internet, para que los emprendedores puedan acceder de manera sencilla, a información relevante, para el inicio, consolidación y conclusión de un emprendimiento, y promoverá que se incluya información, que facilite la vinculación de los usuarios, con las incubadoras que conforman parte del Sistema Estatal de Incubadoras de Empresas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -729,7 +1027,9 @@ La Secretaría creará el Sistema Estatal de Incubadoras de Empresas.
 
 Para formar parte del Sistema Estatal de Incubadoras de Empresas, las mismas deberán inscribirse en el registro que para tal efecto opere la Secretaría, la cual entregará la constancia respectiva, de conformidad con lo establecido en el Reglamento de esta Ley.
 
-La Secretaría apoyará y orientará a las instituciones educativas para la creación de sus incubadoras de empresas o para su vinculación a incubadoras ya establecidas.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría promoverá, apoyará y orientará a las instituciones educativas para la creación de sus incubadoras de empresas o para su vinculación a incubadoras ya establecidas.
 
 ## TÍTULO CUARTO. DE LOS INCENTIVOS, EL FONDO DE FOMENTO ECONÓMICO Y LA CERTIFICACIÓN
 
@@ -766,6 +1066,10 @@ c. Adquisición de bienes o servicios.
 d. Estudios de pre-inversión y factibilidad.
 
 e. Educación institucional en materia de cooperativismo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+f. Elaboración de estudios ambientales.
 
 II. Otorgamiento de precios preferenciales para la adquisición de bienes inmuebles propiedad de los gobiernos estatal y municipal.
 
@@ -813,7 +1117,9 @@ Las exenciones de impuestos o derechos y estímulos fiscales serán intransferib
 
 ###### ARTÍCULO 59.
 
-La exención temporal de los siguientes impuestos y derechos estatales, se aplicarán de conformidad con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+La exención temporal o descuentos de los siguientes impuestos y derechos estatales, a las empresas e instituciones educativas del sector privado, se aplicarán de conformidad con lo siguiente:
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
@@ -969,7 +1275,9 @@ Una vez que la Secretaría haya analizado la solicitud de apoyo por parte de la 
 
 ###### ARTÍCULO 66.
 
-Para facilitar la instalación y la operación de las empresas en la entidad, la Secretaría otorgará los siguientes servicios de apoyo y gestoría institucional de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Para facilitar la instalación y la operación de las empresas e instituciones educativas del sector privado, en la entidad, la Secretaría otorgará los siguientes servicios de apoyo y gestoría institucional de:
 
 I. Gestión para lograr la agilización de trámites ante dependencias federales, estatales y municipales para la obtención de licencias y permisos.
 
@@ -1005,6 +1313,16 @@ IX. Desarrollo de la cultura de calidad y excelencia que garantice la competitiv
 
 X. Gestoría y seguimiento a proyectos de inversión estratégica o de alto impacto a través de expedientes de ruta de puesta en marcha y operación de las empresas que los desarrollen.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Los apoyos o incentivos previstos por el presente artículo, para beneficio de instituciones educativas del sector privado, se otorgarán preferentemente, considerando el cumplimiento de algún o algunos de los siguientes criterios, además de los criterios, parámetros y requisitos que se solicitan de manera general a todas las empresas:
+
+a) Garantizar que la importancia del espíritu innovador y competitivo, y competencias en materia de emprendimiento se incorpore en los programas de estudio, y se refleje adecuadamente en el material didáctico y en la formación del profesorado;
+
+b) Generar ecosistemas de impulso al emprendimiento, con la creación de empresas; y
+
+c) Desarrollar cátedras de investigación en las universidades, enfocadas al desarrollo económico del Estado, y convenir para ello con la Secretaría y las empresas.
+
 ###### ARTÍCULO 67.
 
 Además de lo dispuesto en el presente Capítulo el Gobernador del Estado, podrá establecer sistemas especiales de incentivos orientados a regiones económicas prioritarias o a ramas o actividades económicas emergentes o estratégicas para la economía de la entidad.
@@ -1021,11 +1339,15 @@ I. Se establezcan en áreas o zonas geográficas prioritarias.
 
 II. Generen nuevos empleos.
 
-III. Reinviertan sus utilidades en activos fijos para la ampliación, modernización o fortalecimiento de la empresa.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+III. Que reinviertan sus utilidades en activos fijos para la construcción de parques, y naves industriales, bodegas o plazas comerciales, y que generen un impacto considerable en el desarrollo económico en el Estado, sus municipios o regiones económicas, o algún sector, o rama de actividad en el Estado; y de manera preferente, para aquellas empresas que reinviertan sus utilidades para la ampliación, modernización o fortalecimiento de la empresa.
 
 IV. Destinen parte de su gasto de operación a la investigación y desarrollo científico y tecnológico.
 
-V. Sustituyan importaciones incorporando insumos, componentes, servicios o productos de origen local a sus procesos o productos.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+V. Acrediten la sustitución de importaciones, incorporando insumos, componentes, servicios o productos de origen local a sus procesos o productos, en lugar de productos importados o de otras entidades del país, así como quienes acrediten un mayor grado de integración estatal;
 
 VI. Inviertan en la formación y capacitación especializada de técnicos y profesionistas.
 
@@ -1143,7 +1465,13 @@ V. El Titular de la Secretaría de la Secretaría de Comunicaciones y Obras Púb
 
 VI. El Titular de la Secretaría de Contraloría.
 
-La Comisión sesionará cuando sea necesario analizar y resolver las solicitudes relacionadas con los incentivos a que se refiere el presente, para sus resoluciones tomará en consideración las necesidades del proyecto, la viabilidad de las obras a ejecutar, así como la disponibilidad presupuestal con que se cuente.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+La Comisión intersecretarial de infraestructura sesionará de manera presencial o por videoconferencia, de manera ordinaria por lo menos dos veces al año, y de manera extraordinaria cuando sea necesario analizar y resolver las solicitudes relacionadas con los incentivos a que se refiere el presente artículo, para sus resoluciones tomará en consideración las necesidades del proyecto, la viabilidad de las obras a ejecutar, así como la disponibilidad presupuestal con que se cuente.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría, a través de la Subsecretaría de Desarrollo Empresarial Industrial, convocará a las sesiones de la Comisión Intersecretarial de Infraestructura, y dará seguimiento a los acuerdos que de ella emanen.
 
 Los incentivos que se otorguen deberán quedar formalizados en el convenio de colaboración que al efecto celebre la Secretaría con la empresa, estableciendo en el mismo las obligaciones que deberá cumplir el inversionista en contraprestación por la obtención de tales incentivos.
 
@@ -1222,6 +1550,10 @@ III. Realizar estudios de gran visión sobre desarrollo económico, inversión p
 IV. Impulsar la competitividad empresarial.
 
 V. Otorgar, previo dictamen que la Secretaría y la Secretaría de Finanzas y de Administración emitan según el proyecto de que se trate, garantías y financiamiento a las micro, pequeñas y medianas empresas.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Diseñar y ejecutar, políticas y programas específicos de impulso al emprendimiento, a la cultura emprendedora, y de fortalecimiento al ecosistema emprendedor.
 
 Los recursos del Fondo podrán destinarse para apoyar los programas de la Secretaría, para el cumplimiento de las funciones que le han sido asignadas en esta Ley.
 
@@ -1313,13 +1645,13 @@ VI. Promoción de la equidad de género.
 
 VII. Promoción de la Identidad Duranguense.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2021)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Incorporación de la Cultura de respeto a los derechos humanos en la actividad empresarial.
+VIII. Incorporación a una red de empresarios solidarios e instituciones educativas de nivel superior, que den acompañamiento y asesoría a jóvenes emprendedores.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-La persona o empresa que resulte premiada, además de la entrega de su reconocimiento, serán promovidas en los programas de difusión del Gobierno del Estado, candidatas preferentes a participar de los fondos y programa de incentivos y otros beneficios que se establezcan en las bases que al efecto se emitan en la convocatoria, y los demás que determine el Consejo para el Desarrollo a propuesta de sus integrantes.
+La persona o empresa que resulte premiada, además de la entrega de su reconocimiento, serán promovidas en los programas de difusión del Gobierno del Estado, candidatas preferentes a participar de los fondos y programa de incentivos y otros beneficios que se establezcan en las bases que al efecto se emitan en la convocatoria, de conformidad con la disposición presupuestal respectiva y los demás que determine el Consejo para el Desarrollo a propuesta de sus integrantes.
 
 ## TÍTULO QUINTO. DE LA MEJORA REGULATORIA
 
@@ -1413,6 +1745,10 @@ Las dependencias estatales y municipales, deberán dar respuesta a las solicitud
 
 El Titular del Poder Ejecutivo promoverá a través de la Secretaría, la creación y fortalecimiento de agrupamientos empresariales, sobre todo en aquellos sectores considerados como estratégicos en los términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+El Ejecutivo, por conducto de la Secretaría, podrá valerse de la opinión de los sectores privado, social y académico, para determinar los agrupamientos empresariales estratégicos.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 97.
@@ -1450,6 +1786,10 @@ VI. Fomentar y diseñar programas de apoyo y fortalecimiento a la red de proveed
 VII. Difundir los casos de éxito de la industria o sector para aprovecharlos en la competencia con otras regiones económicas; y
 
 VIII. Promover, en coordinación con la Secretaría a nivel nacional e internacional la difusión de sus proyectos, programas, iniciativas y resultados.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Promover una economía basada en el conocimiento, a partir de convenios entre la Secretaría, instituciones de educación técnica-media y superior, públicas y privadas, institutos de investigación y el sector social y privado, para la creación y desarrollo de centros de innovación, cátedras de investigación científica aplicada y comercial, e instalación de oficinas de transferencia tecnológica, a fin de fortalecer los sectores industrial, comercial y de servicios de la entidad, y generar condiciones propicias para el desarrollo de actividades económicas de carácter estratégico.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -1575,11 +1915,13 @@ VIII. Las demás que le asigne el Presidente Ejecutivo y el Secretario Técnico 
 
 Los vocales a que se refiere el artículo 102 de la presente Ley durarán al igual que el Presidente dos años en su cargo, pudiendo ser designados nuevamente al término del período correspondiente cuantas veces se considere necesario para el adecuado cumplimiento de los fines del Consejo Ciudadano Asesor.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
-
 ###### ARTÍCULO 108.
 
-Los Consejos Ciudadanos Asesores sesionarán conforme el calendario que aprueben. Las sesiones ordinarias se realizarán al menos trimestralmente. Las sesiones extraordinarias se efectuarán en cualquier momento, previa convocatoria a solicitud al Presidente Honorario, del Presidente Ejecutivo o del Secretario Técnico de los Consejos Ciudadanos Asesores. Las convocatorias a las sesiones podrán realizarse por medios electrónicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+
+Los Consejos Ciudadanos Asesores sesionarán, de manera presencial o por videoconferencia, conforme el calendario que aprueben. Las sesiones ordinarias se realizarán al menos trimestralmente. Las sesiones extraordinarias se efectuarán en cualquier momento, previa convocatoria a solicitud al Presidente Honorario, del Presidente Ejecutivo o del Secretario Técnico de los Consejos Ciudadanos Asesores. Las convocatorias a las sesiones podrán realizarse por medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 Las convocatorias deberán ser realizadas, cuando menos, con cinco días hábiles antes para las sesiones ordinarias, y para el caso de las extraordinarias, con la anticipación que sea necesaria. En las convocatorias deberá indicarse la fecha, hora, lugar y orden del día, y serán acompañadas de la información documental que se considere pertinente.
 
@@ -1882,3 +2224,19 @@ SEGUNDO. Se realizarán las modificaciones correspondientes en la Ley de Haciend
 TERCERO. Los incentivos fiscales y no fiscales que incorporan en la presente Ley, a partir de la reforma a los artículos 63, 64, 69 y 70, se otorgarán de acuerdo a la disponibilidad presupuestal del Gobierno del Estado de Durango.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 621.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La Secretaría de Desarrollo Económico deberá realizar las modificaciones a la Ley de Fomento Económico, y elaborar las disposiciones reglamentarias que contemplan las modificaciones y adiciones a la presente Ley, en un plazo de 60 días después del inicio de vigencia del presente Decreto.
+
+TERCERO.- El CODEDUR y los Comités Regionales para la Promoción Económica, deberán adaptar, sus reglamentos interiores, en un plazo de 60 días contados a partir de la fecha de publicación de este Decreto.
+
+CUARTO.- El Gobierno del Estado de Durango, destinará los recursos especificados (sic) el artículo 48, fracciones V y VII del presente decreto, y los incluirá dentro del proyecto de egresos del ejercicio fiscal 2022, de acuerdo a la disponibilidad presupuestaria.
+
+QUINTO.- El Gobierno del Estado de Durango, realizará las modificaciones, que deriven de la fracción VI del artículo 82, del presente decreto, a la documentación legal y reglamentaria correspondiente, en un plazo no mayor a 60 días contados a la fecha.
+
+SEXTO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
