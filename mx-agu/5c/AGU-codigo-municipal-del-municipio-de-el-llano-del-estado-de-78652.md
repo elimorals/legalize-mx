@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2020-10-12"
+last_updated: "2021-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -1055,9 +1055,11 @@ La entrega de los asuntos a cargo del servidor público que concluye, no lo exim
 
 Cada titular sólo implementará un acta administrativa de entrega-recepción a la cual acompañará los anexos formulados para el efecto, clasificados por la dirección o nivel equivalente, manteniendo en cada dirección copia que incluya la información de la entrega.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 81.
 
-En la entrega del organismo municipal regulador del agua potable, alcantarillado y saneamiento, se estará al carácter de organismo público descentralizado y al acuerdo que en tal sentido tome los integrantes del gobierno del mismo.
+En la entrega de los organismos municipales se estará al carácter de organismo público descentralizado y al acuerdo que en tal sentido tome los integrantes del gobierno del mismo.
 
 ###### ARTÍCULO 82.
 
@@ -1819,11 +1821,15 @@ Son obligaciones y atribuciones de la Comisión de Agua Potable, Drenaje, Alcant
 
 I. Dictaminar o proponer lo conducente en relación a estudios, programas y acciones tendientes a mejorar el sistema de agua potable, drenaje, alcantarillado y saneamiento del municipio;
 
-II. Mantenerse informada y comunicar lo conducente al Ayuntamiento en relación a la operación y programas de trabajo de los servicios públicos que proporciona el organismo denominado Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de El Llano;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+II. Mantenerse informada y comunicar lo conducente al Ayuntamiento en relación a la operación y programas de trabajo de los servicios públicos que proporciona la Dirección de Agua Potable, Alcantarillado y Saneamiento del Municipio de El Llano;
 
 III. Vigilar la operación y desempeño de los servicios públicos en cuestión, en cuanto se realicen directamente por el ayuntamiento a través de las dependencias municipales correspondientes, así como verificar que se apoye el suministro de agua mediante pipas a los asentamientos humanos que carecen del servicio, en la medida de las posibilidades del Ayuntamiento;
 
-IV. Formar parte del Consejo Consultivo del Organismo Operador de la Comisión de Agua Potable, Alcantarillado y Saneamiento del municipio de El Llano Aguascalientes; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Formar parte del Consejo Consultivo de la Dirección de la Comisión de Agua Potable, Alcantarillado y Saneamiento del municipio de El Llano Aguascalientes; y
 
 V. Vigilar la conservación de los sistemas de desagüe, drenaje, colectores y plantas de saneamiento de aguas residuales del Municipio, en forma conjunta con la Comisión de Desarrollo Urbano y Obra Pública, así como procurar la conservación de los manantiales de abastecimiento de agua potable, en coordinación con la comisión edilicia de Ecología.
 
@@ -2285,7 +2291,9 @@ VI. Dirección de Servicios Públicos Municipales y Medio Ambiente;
 
 VII. Dirección de Obras Públicas y Planeación;
 
-VIII. Dirección del Organismo de Agua Potable, Alcantarillado y Saneamiento;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Dirección de Agua Potable, Alcantarillado y Saneamiento
 
 IX. Dirección de Seguridad Pública y Vialidad;
 
@@ -2303,11 +2311,11 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 215.
 
-Las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
+Las dependencias de la Administración Pública podrán contar con las siguientes unidades administrativas:
 
 I. De la Oficina del Presidente Municipal, la cual se integrará por las siguientes estructuras:
 
@@ -2405,6 +2413,14 @@ E. Departamento de Gestión Social;
 
 F. Departamento de Promoción y Concertación;
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+G. Departamento de la Instancia de Atención a las Mujeres;
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+H. Departamento del Patronato de la Feria Municipal;
+
 VIII. Dirección de Obras Públicas y Planeación, estará conformada por:
 
 A. Departamento de Costos y precios unitarios;
@@ -2413,7 +2429,9 @@ B. Departamento de Planeación y Desarrollo Urbano;
 
 C. Departamento de proyectos y supervisión de obras;
 
-IX. Dirección del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento, integrada por:
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Dirección de Agua Potable, Alcantarillado y Saneamiento, integrada por:
 
 A. Departamento Operativo;
 
@@ -3381,6 +3399,62 @@ XI. Acordar con el Presidente Municipal el despacho de los asuntos que le corres
 
 XII. Así como las acciones tendientes a mejorar la cultura de los habitantes en el Municipio de El Llano.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 252 BIS.- En cumplimiento de sus objetivos, el Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, tendrá las siguientes atribuciones:
+
+I. Promover la perspectiva de género, mediante la participación de las mujeres en la toma de decisiones respecto al diseño de los planes y programas del Gobierno Municipal;
+
+II. Coadyuvar, con el Municipio, para integrar el apartado relativo al programa operativo anual de acciones gubernamentales a favor de las mujeres, que deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales la mujer debe tener una participación efectiva;
+
+III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
+
+IV. Apoyar a las y los representantes del Municipio ante las autoridades estatales y con la instancia de las mujeres en la Entidad Federativa, para tratar todo lo referente a los programas dirigidos a las mujeres y lograr la equidad de género;
+
+V. En su caso, aplicar las acciones contenidas en el Programa Estatal de la Mujer;
+
+VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
+
+VII. Promover y concretar acciones, apoyos y colaboraciones con los sectores social y privado, con el fin de unir esfuerzos participativos a favor de una política de igualdad de género entre mujeres y hombres;
+
+VIII. Coordinar los trabajos del tema de mujeres, entre el Municipio y el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique, por separado, información sobre hombres y mujeres, que sirvan de base fundamental para la elaboración de diagnósticos municipales, estatales y regionales;
+
+IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres;
+
+X. Promover la capacitación y actualización de servidores públicos responsables de emitir las políticas públicas, de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
+
+XI. Brindar orientación a las mujeres del Municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición;
+
+XII. Promover ante las autoridades del sector salud, los servicios antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino;
+
+XIII. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
+
+XIV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
+
+XV. Estimular la capacidad productiva de la mujer;
+
+XVI. Promover la elaboración de programas que fortalezcan a la familia como ámbito de igualdad de derechos, oportunidades y responsabilidades, sin distinción de sexo;
+
+XVII. Coadyuvar en el combate y eliminación de todas las formas de violencia contra las mujeres, dentro o fuera de la familia;
+
+XVIII. Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación de las mujeres en los diversos ámbitos del desarrollo municipal; y
+
+XIX. Las demás que se establezcan en las disposiciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 252 TER.- El Departamento del Patronato de La Feria tendrá por objeto promover y organizar la Feria Regional de El Llano, Aguascalientes. Misma que se efectuará cada año en la fecha que establezca este mismo; en la cual se realizarán exposiciones, subastas, o cualquier otro tipo de evento que fomente la cultura, ciencia, artes, conservación ecológica, recreación, industria, comercio, artesanías, así como la actividad agropecuaria.
+
+Son objetivos del Patronato:
+
+I. Administrar, conservar, ampliar y mejorar de manera permanente las diferentes instalaciones de la Feria;
+
+II. Promover y difundir entre la población local, nacional y extranjera, las diferentes actividades que se organicen en las instalaciones que se administren;
+
+III. Celebrar toda clase de actos jurídicos y contratos, necesarios para la realización de los fines del Organismo; Cumpliendo para ello con las formalidades que señale la legislación vigente; y
+
+IV. Realizar las demás actividades que sean necesarias para (sic) ejercicio de las facultades anteriores, así como la compra, arrendamiento y subarrendamiento de toda clase de bienes muebles o inmuebles, derechos reales o personales que se hagan necesarios para la obtención de los fines anteriormente descritos.
+
 ### CAPÍTULO XVII. De la Dirección de Obras Públicas y Planeación
 
 ###### ARTÍCULO 253.
@@ -3475,87 +3549,53 @@ La Dirección de Seguridad Pública y Vialidad Municipal tendrá como facultades
 
 #### SECCIÓN I. Del Objetivo, Naturaleza Jurídica y Atribuciones
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 256.
 
-La presente Sección tiene por objetivo regular las atribuciones así como la administración y funcionamiento de la Instancia Municipal de Atención a las Mujeres.
+La presente Sección tiene por objetivo regular las atribuciones, así como la administración y funcionamiento del Departamento de Atención a las Mujeres.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 257.
 
-Se instituye la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano, Para el desarrollo social integral de la mujer dentro del Municipio, como organismo público descentralizado de la administración municipal, al cual se le otorga personalidad jurídica.
+Se instituye el Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, para el desarrollo social integral de la mujer dentro del Municipio, como el Departamento de la Dirección de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 258.
 
-El objeto general de la Instancia Municipal de las Mujeres de el Municipio de El Llano, es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres en el Municipio, así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana y la participación equitativa de las mujeres en la vida política, cultural, económica y social del Municipio, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas por cada una de las dependencias y entidades municipales.
+El objeto general del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres en el Municipio, así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana y la participación equitativa de las mujeres en la vida política, cultural, económica y social del Municipio, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas por cada una de las dependencias y entidades municipales.
 
 ###### ARTÍCULO 259.
 
-En cumplimiento de sus objetivos, la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano, tendrá las siguientes atribuciones:
-
-I. Promover la perspectiva de género, mediante la participación de las mujeres en la toma de decisiones respecto al diseño de los planes y programas del Gobierno Municipal;
-
-II. Coadyuvar, con el Municipio, para integrar el apartado relativo al programa operativo anual de acciones gubernamentales a favor de las mujeres, que deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales la mujer debe tener una participación efectiva;
-
-III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
-
-IV. Apoyar a las y los representantes del Municipio ante las autoridades estatales y con la instancia de las mujeres en la Entidad Federativa, para tratar todo lo referente a los programas dirigidos a las mujeres y lograr la equidad de género;
-
-V. En su caso, aplicar las acciones contenidas en el Programa Estatal de la Mujer;
-
-VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
-
-VII. Promover y concretar acciones, apoyos y colaboraciones con los sectores social y privado, con el fin de unir esfuerzos participativos a favor de una política de igualdad de género entre mujeres y hombres;
-
-VIII. Coordinar los trabajos del tema de mujeres, entre el Municipio y el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique, por separado, información sobre hombres y mujeres, que sirvan de base fundamental para la elaboración de diagnósticos municipales, estatales y regionales;
-
-IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres;
-
-X. Promover la capacitación y actualización de servidores públicos responsables de emitir las políticas públicas, de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
-
-XI. Brindar orientación a las mujeres del Municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición;
-
-XII. Promover ante las autoridades del sector salud, los servicios antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino;
-
-XIII. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
-
-XIV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
-
-XV. Estimular la capacidad productiva de la mujer;
-
-XVI. Promover la elaboración de programas que fortalezcan a la familia como ámbito de igualdad de derechos, oportunidades y responsabilidades, sin distinción de sexo;
-
-XVII. Coadyuvar en el combate y eliminación de todas las formas de violencia contra las mujeres, dentro o fuera de la familia;
-
-XVIII. Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación de las mujeres en los diversos ámbitos del desarrollo municipal; y
-
-XIX. Las demás que se establezcan en las disposiciones correspondientes.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 #### SECCIÓN II. Disposiciones Generales
 
 ###### ARTÍCULO 260.
 
-La Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano tendrá su domicilio legal en la Ciudad de Palo Alto cabecera municipal del Municipio de El Llano Aguascalientes.
-
-El patrimonio de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano es propio y se integra por el presupuesto y los bienes muebles e inmuebles que le transmita en propiedad el Municipio de El Llano, recursos y apoyos que obtenga de instituciones públicas Estatales y/o Federales y/o privadas, así como por todos los bienes y derechos que adquiera por cualquier otro título y por las obligaciones que adquiera o le deriven de las disposiciones legales aplicables.
-
-El Municipio de el Llano, por conducto del Ayuntamiento, suministrará a la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano los bienes, recursos e insumos necesarios para su funcionamiento administrativo, en la medida en que los recursos propios del mismo no resulten suficientes para tal efecto, por lo que en el Presupuesto de Egresos del Municipio de El Llano se contemplará la partida que apruebe el Ayuntamiento para su asignación a la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 261.
 
-Para el cumplimiento de su objeto y ejercicio de sus atribuciones la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano estará dotada de autonomía técnica y de gestión, por lo que sus proyectos y programas, actos y actividades serán decididos y ejecutados en los términos establecidos por sus órganos de dirección en los términos de este Código Municipal.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
-Los proyectos y programas de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano se formularán con base a lo previsto en materia de desarrollo social en el Plan municipal de Desarrollo.
-
-En los proyectos y programas de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano se contemplará de manera prioritaria las actividades y acciones tendientes a evitar, prevenir y erradicar la discriminación, desigualdad y maltrato a las Mujeres, así como para promover la educación en el ejercicio y respeto de sus derechos fundamentales, su dignidad y sus valores y para la promoción de su mejoramiento cultural, social y económico, incluyéndose la realización de estudios, análisis, investigaciones y diagnóstico sobre la problemática que afecta a las Mujeres en el Municipio de el Llano.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 262.
 
-La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano estará a cargo de una Directora General, quien contará con personal de apoyo, auxilio y colaboración necesario para el óptimo desempeño de esta Dirección y que para tal efecto determine el Ayuntamiento en su Presupuesto de Egresos.
+La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano estará a cargo de una Jefa de Departamento, quien contará con personal de apoyo, auxilio y colaboración necesario para el óptimo desempeño de este Departamento y que para tal efecto determine el Ayuntamiento en su Presupuesto de Egresos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 263.
 
-La Dirección General de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano, recaerá forzosamente en una mujer, quien será designada y podrá ser removida por el Presidente Municipal de el Llano. Éste designará y removerá al demás personal de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano, a propuesta de la Directora General, estableciendo el organigrama, facultades y obligaciones de cada uno de los cargos respectivos, determinando las funciones que sean de confianza, mediante acuerdo que se publicará en el Periódico Oficial del Estado.
+La Jefatura del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, recaerá forzosamente en una mujer, quien será designada y podrá ser removida por el Presidente Municipal de El Llano, Aguascalientes. Éste designará y removerá al demás personal del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
 
-Para ser Directora General se requiere lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+Para ser Jefa del Departamento se requiere lo siguiente:
 
 I. Ser Mujer;
 
@@ -3565,9 +3605,9 @@ III. Ser vecina del Municipio de el Llano con residencia efectiva y consecutiva 
 
 IV. Demostrar ser distinguida o haber participado reiteradamente en actos o actividades a favor de los derechos fundamentales y dignificación de las Mujeres.
 
-La distribución de la partida asignada en el presupuesto municipal a favor de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano, será determinada dentro de los primeros quince días de enero de cada año, a propuesta de la Directora General.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-Es obligación de la Directora General, rendir un informe trimestral al H. Ayuntamiento y al Presidente Municipal de El Llano, de manera integral sobre la operación y funcionamiento de la Instancia Municipal de Atención a las Mujeres de el Municipio de El Llano. Dicho informe se verá reflejado en el informe anual de gobierno de la administración municipal.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ## TÍTULO SEGUNDO. POLÍTICAS PÚBLICAS CON PERSPECTIVA DE GÉNERO
 
@@ -3661,7 +3701,9 @@ I. El Presidente Municipal;
 
 II. El Secretario del H. Ayuntamiento y Director General de Gobierno;
 
-III. La Directora General de la Instancia Municipal de Atención a las Mujeres en el Municipio de El Llano;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+III. La Jefa del Departamento de Atención a las Mujeres en el Municipio de El Llano;
 
 IV. El Síndico Municipal;
 
@@ -4025,301 +4067,113 @@ Los organismos públicos descentralizados y empresas de participación municipal
 
 ###### ARTÍCULO 307.
 
-El H. Ayuntamiento del Municipio de El Llano, con fundamento en lo establecido en la Ley de los Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado de Aguascalientes, en sesión ordinaria de Cabildo de fecha 11 de febrero del año 2002, aprobó la instalación del órgano público descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio denominado "Comisión de Agua Potable, Alcantarillado y Saneamiento" del Municipio de El Llano, Aguascalientes.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 308.
 
-Corresponde a la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de El Llano:
-
-I. Realizar las actividades que se requieren para lograr que, se preste a la comunidad los servicios adecuados y eficientes en materia de agua potable, alcantarillado, drenaje y saneamiento de las aguas residuales;
-
-II. Registrar mediante la solicitud correspondiente que hagan los usuarios la conexión al servicio de agua entubada, quien otorgará el permiso y recaudará los cobros de los derechos que correspondan, ya sea que se trate del establecimiento de una nueva línea;
-
-III. Realizar en forma regular y periódica muestras y análisis del agua, llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye entre la población, así como la del agua que una vez utilizada y tratada se vierte en los cauces o vasos;
-
-IV. Realizar las acciones necesarias para que se ajuste al Sistema de Agua Potable, Alcantarillado y Saneamiento del Estado de Aguascalientes en los términos de la Ley; así como a la coordinación y normatividad que efectué el Instituto del Agua del Estado;
-
-V. Promover el fortalecimiento de las relaciones de la Comisión de Agua Potable, Alcantarillado y Saneamiento con los demás organismos o empresas operadoras de agua y saneamiento del Estado y de los Estados de la República, con el fin de intercambiar experiencias y conocimientos, y procurar la cooperación interinstitucional;
-
-VI. Proporcionar las facilidades para que el auditor externo designado por el Ayuntamiento de El Llano; pueda rendir en su oportunidad informes de auditoría sobre las operaciones de la Comisión de Agua Potable, Alcantarillado y Saneamiento, con opinión de éstos sobre sus resultados y realizar anualmente un informe de auditoría de los estados financieros;
-
-VII. Realizar las demás funciones que se requieran para el mejor desempeño de las anteriores facultades y atribuciones, así como de las que se asignen en otras leyes aplicables;
-
-VIII. Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la consideración del Ayuntamiento;
-
-IX. Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios y con las actividades de la competencia de la dirección respectiva, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes; y
-
-X. Intervenir en la selección y adscripción del personal al que integre la planta de empleados de la dirección, en la promoción de los mismos; en el otorgamiento de licencias, vacaciones, permisos y exenciones; en el otorgamiento de estímulos y recompensas; así como en la aplicación de sanciones.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ### CAPÍTULO III. Del Patronato de la Feria
 
 ###### ARTÍCULO 309.
 
-Se crea el Organismo Público Descentralizado de la Administración Municipal, denominado "Patronato de la Feria Regional de El Llano, Aguascalientes", quien en lo sucesivo se entenderá como "Patronato"; contando personalidad jurídica y patrimonio propio. Con domicilio en la Cabecera Municipal de el Llano.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 310.
 
-El Patronato de La Feria tendrá por objeto promover y organizar la Feria Regional de El Llano, Aguascalientes. Misma que se efectuará cada año en la fecha que establezca este mismo; en la cual se realizarán exposiciones, subastas, o cualquier otro tipo de evento que fomente la cultura, ciencia, artes, conservación ecológica, recreación, industria, comercio, artesanías así como la actividad agropecuaria.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 311.
 
-Son objetivos del Patronato:
-
-I. Administrar, conservar, ampliar y mejorar de manera permanente las diferentes instalaciones de la Feria;
-
-II. Promover y difundir entre la población local, nacional y extranjera, las diferentes actividades que se organicen en las instalaciones que se administren;
-
-III. Celebrar toda clase de actos jurídicos y contratos, necesarios para la realización de los fines del Organismo; Cumpliendo para ello con las formalidades que señale la legislación vigente; y
-
-IV. Realizar las demás actividades que sean necesarias para ejercicio de las facultades anteriores, así como la compra, arrendamiento y subarrendamiento de toda clase de bienes muebles o inmuebles, derechos reales o personales que se hagan necesarios para la obtención de los fines anteriormente descritos.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 312.
 
-La máxima autoridad del Patronato será el Consejo Directivo que se integrará con los siguientes miembros:
-
-I. Tres representantes designados por el Honorable Ayuntamiento de El Llano, Aguascalientes, a propuesta del Presidente Municipal;
-
-II. Un representante de los comerciantes dentro del Municipio, a propuesta del Presidente Municipal; y
-
-III. Un representante de las Instituciones Culturales, Deportivas y Sociales del Municipio a propuesta del Presidente Municipal aprobada por el Cabildo.
-
-Por cada Consejero Propietario se designará un Suplente que cubrirá sus ausencias.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 313.
 
-Los cargos de Consejeros serán honoríficos y personales y sus titulares no recibirán retribución económica por el desempeño de sus funciones, salvo lo que en lo particular acuerde el Ayuntamiento cada año. El periodo de duración de los titulares será de tres años, pudiendo ser reelectos por una sola vez.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 314.
 
-El H. Ayuntamiento de El Llano, nombrará al Consejo Directivo del Patronato en el primer año de la Administración Municipal por medio de la propuesta que presente el Presidente Municipal. En caso de no aprobarse la propuesta del Presidente Municipal se solicitará nueva propuesta.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 315.
 
-Los integrantes del Consejo Directivo podrán ser removidos de sus cargos, por el H. Ayuntamiento, cuando en el desempeño del mismo cometan faltas graves que perjudiquen el buen desempeño de las funciones del Patronato o causen perjuicio a su patrimonio.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 316.
 
-En ningún caso podrán ser miembros del Consejo Directivo:
-
-I. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el tercer grado o parentesco civil con cualquiera de los miembros del Cabildo;
-
-II. Las personas que tengan litigios pendientes con el Patronato y/ o Municipio; y
-
-III. Las personas sentenciadas por delitos patrimoniales, dolosos o culposos, las inhabilitadas para ejercer alguna actividad empresarial o para desempeñar un empleo, cargo o comisión en el servicio público.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 317.
 
-Una vez designados por el H. Ayuntamiento los miembros del Consejo Directivo, éstos designarán entre ellos mismos al Presidente, Secretario y Tesorero del Patronato, a propuesta del Presidente Municipal.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 318.
 
-Las personas propuestas para tales cargos, deberán contar entre otros con los siguientes requisitos:
-
-I. Ser de reconocida solvencia moral.
-
-II. No tener antecedentes penales.
-
-III. Que al momento de su designación no tenga en su contra alguna denuncia de orden civil o mercantil.
-
-IV. Que no esté inhabilitado para el ejercicio de la administración pública.
-
-V. Que no desempeñe algún cargo directivo en algún partido político.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 319.
 
-El Consejo Directivo se reunirá por lo menos una vez al mes, sin perjuicio de hacerlo en cualquier tiempo en que haya asuntos urgentes que tratar. Sus decisiones serán tomadas por mayoría y el Presidente tendrá voto de calidad en caso de empate. Para que el Consejo Directivo se encuentre legalmente reunido se requerirá la asistencia de la mayoría de sus miembros.
-
-En caso de que, como consecuencia de un segundo citatorio no se lograse la mayoría, el Consejo Directivo sesionará con el número de miembros que concurra, debiendo en este caso estar siempre presente, para su validez el Presidente, a menos que en el orden del día se encuentren enlistados puntos que no sean de trascendencia o importancia para el Patronato, caso en el cual serán válidos con la presencia del Secretario.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 320.
 
-La falta consecutiva a tres reuniones de Consejo Directivo, sin causa justificada, se tendrá como ausencia definitiva, a lo cual se hará llamar al suplente que ocupe la vacante. Tratándose del puesto de Presidente, del Secretario o del Tesorero, dará lugar a que el Consejo Directivo designe sustituto.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 321.
 
-Corresponde al Consejo Directivo:
-
-I. Representar legalmente al Patronato, por medio de su Presidente;
-
-II. Aprobar los planes y programas de trabajo del Patronato;
-
-III. Conceder licencia a cualquiera de sus miembros para separarse de su cargo, por cusa (sic) justificada, hasta por un periodo de 90 noventa días, llamando a su suplente;
-
-IV. Proponer y discutir, para efecto de su aprobación por el H. Ayuntamiento, los presupuestos de ingresos y egresos del Patronato;
-
-V. Revisar, aprobar y modificar el estatuto orgánico interno en el que se establezca las bases de organización, así como las facultades y funciones que corresponda a las distintas áreas que integren el organismo;
-
-VI. Contratar los créditos que fueren necesarios para el cumplimiento de sus fines, previa autorización del H. Ayuntamiento;
-
-VII. Resolver las inconformidades y quejas que los usuarios de las instalaciones le presenten con motivo de prestación de los servicios y que por su importancia sean de su incumbencia;
-
-VIII. Establecer las condiciones de los contratos que celebre el Patronato con los particulares y entes públicos y ejercitar las acciones que de los mismos se deriven;
-
-IX. Otorgar poderes generales y especiales para pleitos y cobranzas y para administrar bienes, con las facultades y limitaciones que juzgue convenientes. El otorgamiento y su revocación serán firmados por el Presidente del Consejo Directivo conjuntamente con el Secretario y/o el Tesorero;
-
-X. Determinar las condiciones en que deben celebrarse los contratos de trabajo con el personal del organismo, así como el monto de los sueldos y salarios;
-
-XI. Formular o contratar los proyectos de obras para el mejoramiento, la conservación y ampliación de las instalaciones, si es que las hubiera;
-
-XII. Contratar, por medio de concurso, la realización de las obras que no ejecute directamente el Patronato y para los casos en que dichas obras se hagan con aportaciones federales, estatales o municipales, su concurso y asignación deberá de ajustarse a lo que determine la Ley de Obras Públicas, respectiva;
-
-XIII. Vigilar la recaudación de los recursos del organismo y la conservación de su patrimonio revisando mensualmente sus estados financieros;
-
-XIV. Informar semestralmente al H. Ayuntamiento Municipal, sin perjuicio de hacerlo cuando éste lo requiera, sobre las labores realizadas por el organismo durante ese término y sobre sus estados financieros; y
-
-XV. Presentar al Ayuntamiento el ejercicio contable que comprenderá del día primero de enero al treinta y uno de diciembre del año corriente, haciendo constar las actividades desarrolladas y los resultados obtenidos durante la feria anual. Esto lo realizará en el mes de enero.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 322.
 
-De los Órganos de Vigilancia:
-
-I. La vigilancia la realizará durante todo el ejercicio la Contraloría Municipal.
-
-II. Los estados financieros serán auditados por la Contraloría Municipal, independientemente de que el Patronato decida dictaminarlos por otros medios.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 323.
 
-Corresponde al Presidente del Consejo Directivo:
-
-I. Ostentar la representación legal del Patronato;
-
-II. Convocar y presidir las sesiones del Consejo Directivo, en caso de que omitiere la convocatoria, ésta podrá ser formulada por la mayoría de los miembros del Consejo Directivo;
-
-III. Ejecutar los acuerdos del Consejo Directivo;
-
-IV. Proponer y someter a la aprobación del Consejo Directivo los planes y programas de trabajo del Patronato;
-
-V. Evaluar y controlar el desarrollo de los planes y programas de trabajo y en su caso, proponer las medidas correctivas que corresponda;
-
-VI. Autorizar junto con el Tesorero, las erogaciones que deban efectuarse con motivo de su administración ordinaria;
-
-VII. Suscribir, junto con el Secretario y tesorero, los contratos que obliguen al Patronato y que sean aprobados por el Consejo Directivo;
-
-VIII. Recibir y resolver sobre las inconformidades y quejas que presenten los usuarios de las instalaciones cuando éstas quejas sean de su incumbencia; y
-
-IX. Ejercer la representación del Consejo Directivo ante cualquier autoridad para actos de defensa del patrimonio del organismo.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 324.
 
-El Presidente del Consejo Directivo, en el ejercicio de sus cargos tendrá respecto a los negocios del Patronato:
-
-I. Poder general para pleitos y cobranzas;
-
-II. Poder general para actos de administración;
-
-III. Las anteriores facultades se entienden conferidas en los términos del Código Civil vigente en el Estado de Aguascalientes;
-
-IV. Enunciativa, más no limitativamente, queda facultado para:
-
-A. Para fincar, continuar, transigir, contestar o desistirse en cualquier clase de juicio, trámite diligencias, ya sean judiciales, administrativas, laborales o fiscales, en donde el Patronato tenga o pueda llegar a tener el carácter de actor, demandado, quejoso, ofendido, tercer perjudicado o cualquier otro carácter, en donde el Patronato tenga o pueda llegar a tener algún interés, ya sea directo o indirecto;
-
-B. Para que en los juicios, trámites o diligencias, en que intervenga, ejercite toda clase de acciones, oponga excepciones, reconvenga, duplique y replique, ofrezca y desahogue toda clase de pruebas permitidas por la ley, incluyendo el juicio de amparo, recuse jueces, magistrados o secretarios, articule y absuelva posiciones, conceda quitas y esperas, transija, convenga, someta a arbitrios los negocios del Patronato, para recibir y hacer pagos, hacer posturas, pujas y mejoras, pedir y tomar posesión de bienes muebles o inmuebles;
-
-C. Para presentar denuncias y querellas penales en los casos en que resulte ofendido el Patronato, pudiendo en todos los casos coadyuvar con el Ministerio Público, y en su caso, otorgar el perdón correspondiente;
-
-D. Celebrar toda clase de convenios y contratos de cualquier naturaleza que éstos sean y sirvan para cumplir adecuadamente con el objeto social del organismo;
-
-E. Adquirir bienes de cualquier naturaleza que éstos sean y que sirva para el mejor funcionamiento social;
-
-F. Para contratar empleados y en su caso despedirlos, así como para asignar los empleos;
-
-G. Delegar las anteriores facultades a una o más personas, y en su caso revocarlas o limitarlas, conservando el mandante el ejercicio de las mismas;
-
-H. Hacer valer sus facultades, exceptuando las de dominio;
-
-I. En general para representar al Patronato en la forma más amplia y eficiente que en el caso proceda sin limitación alguna, ante cualquier persona física o moral, ante autoridades ya sean judiciales, administrativas, laborales o fiscales, pudiendo ser federales, estatales o municipales, de cualquier entidad Federativa o del Distrito Federal.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 325.
 
-Corresponde al Secretario del Consejo Directivo:
-
-I. Levantar y autorizar las actas de las reuniones celebradas por el Consejo, asentándolas en folio suelto o libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una las firmas de los asistentes;
-
-II. Sustituir al Presidente en sus ausencias a las sesiones del Consejo Directivo;
-
-III. Certificar las copias de actas y documentos que se encuentren en el archivo del organismo y cuya expedición sea autorizada por el Presidente del Consejo;
-
-IV. Autorizar con su firma las comunicaciones que el Presidente dirija a nombre del Consejo Directivo; y
-
-V. Levantar las actas correspondientes de los concursos a que convoque el Consejo Directivo, para la adjudicación de contratos de obra, autorizándolas con su firma, conjuntamente con el Presidente.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 326.
 
-Corresponde al Tesorero:
-
-I. Analizar los estados financieros del Organismo e informar mensualmente al Consejo Directivo sobre el estado que guardan las finanzas del Patronato;
-
-II. Supervisar el inventario de bienes propiedad del Patronato debiendo dar cuenta al Consejo Directivo de todas las modificaciones que sufra;
-
-III. Vigilar la recaudación de los fondos del Patronato y su correcta aplicación;
-
-IV. Revisar la contabilidad del organismo, en lo personal o a través de un contador que al efecto lo asesore; y
-
-V. Firmar en forma mancomunada con el Presidente y/o el Secretario y/o Director General, todos los cheques que se expiden para realizar algún pago.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 327.
 
-Corresponde a los vocales del Consejo Directivo:
-
-I. Asistir a las reuniones del Consejo Directivo y participar con voz y voto;
-
-II. Desempeñar las funciones que le sean encomendadas por el mismo Consejo Directivo; y
-
-III. Proponer al Consejo Directivo los acuerdos que consideren pertinentes para el buen funcionamiento del Patronato.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 328.
 
-Para la administración interna del Patronato, el Consejo Directivo podrá designar un Director General, a propuesta del Presidente del Consejo el cual tendrá las siguientes facultades y obligaciones:
-
-I. Cumplir y hacer cumplir los acuerdos de Patronato;
-
-II. Rendir, con la formalidad y periodicidad que le señale el Consejo Directivo, informes generales y parciales de sus actividades en la dirección;
-
-III. Dirigir las actividades del organismo, conforme a los programas aprobados por el Patronato;
-
-IV. Ejercer el presupuesto del Patronato conforme a las facultades que le delegue el Consejo a través del estatuto orgánico interno;
-
-V. Designar y remover al personal administrativo del organismo, previa autorización de los vocales del Consejo Directivo;
-
-VI. Proponer al Consejo Directivo medios de captación de recursos y su óptima utilización;
-
-VII. Autorizar el uso de las instalaciones para los diferentes eventos que se realicen en las mismas; y
-
-VIII. Las demás que le designe el Consejo Directivo y el estatuto orgánico interno;
-
-El Director General devengará el sueldo que señale el presupuesto anual del Patronato.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 329.
 
-El patrimonio del Patronato se integrará, con:
-
-I. Los derechos posesorios y de usufructo de los inmuebles que administre;
-
-II. Las aportaciones que en su favor haga la Federación, los gobiernos del Estado y Municipio;
-
-III. Los inmuebles que se expropien a su favor;
-
-IV. Las aportaciones, herencias, legados, donaciones y demás bienes y derechos que reciba de personas físicas o morales, oficiales o particulares;
-
-V. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones; y
-
-VI. Los demás bienes muebles o inmuebles, derechos, ingresos y aprovechamientos que obtenga por cualquier título legal.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 330.
 
-Los bienes del patrimonio del Patronato serán inembargables e imprescriptibles. Para enajenarlos, gravarlos o ejercer cualquier otro acto de dominio sobre ellos, el Consejo Directivo deberá solicitar previamente, autorización al H. Ayuntamiento Municipal, el cual resolverá lo conducente, conforme a lo que dispongan las leyes aplicables.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 331.
 
-Cuando en su oportunidad sean comprados, donados, adquiridos los terrenos e instalaciones que se encuentran dentro del área señalada para la operación del organismo, éste tendrá la totalidad de los derechos posesorios y el usufructo por todo el tiempo en que se destinen los inmuebles para los fines señalados para este organismo.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 332.
 
-Los ingresos que obtenga el Patronato se destinarán a cubrir los gastos de operación, conservación, mejoramiento y ampliación de las instalaciones de la feria, de tal manera, que su operación financiera sea autofinanciable y en general al desarrollo de las actividades propias del Patronato. En caso de que una vez cubiertas las necesidades del Patronato, resultaren excedentes, se destinarán a obras de beneficio comunitario que disponga el H. Ayuntamiento de El Llano.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 333.
 
-Cualquier otro punto no previsto en este ordenamiento, será resuelto por el H. Ayuntamiento de El Llano.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 ### CAPÍTULO IV. De la Administración Desconcentrada
 
@@ -8699,13 +8553,19 @@ III. En coordinación con la unidad municipal de protección civil, tomará las 
 
 IV. Se prohíbe y será materia de sanción el realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, sin autorización previa y por escrito de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 914.
 
-Corresponde al H. Ayuntamiento, a través del organismo operador de los Servicios de Agua Potable y Saneamiento, en coordinación con la Dirección de Servicios Públicos Municipales y Medio Ambiente en cuanto a la prevención y control de la contaminación y al uso racional del agua, lo siguiente:
+Corresponde al H. Ayuntamiento, a través de la Dirección de Agua Potable y Alcantarillado y Saneamiento, en coordinación con la Dirección de Servicios Públicos Municipales y Medio Ambiente en cuanto a la prevención y control de la contaminación y al uso racional del agua, lo siguiente:
 
-I. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-II. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal;
+I. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente, así como realizar las actividades que se requieren para lograr que, se preste a la comunidad los servicios adecuados y eficientes en materia de agua potable, alcantarillado, drenaje y saneamiento de las aguas residuales, además de registrar mediante la solicitud correspondiente que hagan los usuarios la conexión al servicio de agua entubada, quien otorgará el permiso y recaudará los cobros de los derechos que correspondan, ya sea que se trate del establecimiento de una nueva línea.
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+II. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal, además de realizar en forma regular y periódica muestras y análisis del agua, llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye entre la población, así como la del agua que una vez utilizada y tratada se vierte en los cauces o vasos;
 
 III. Prevenir y controlar la contaminación que los servicios públicos municipales pudieran generar, para evitar que se afecte la calidad del agua;
 
@@ -13315,9 +13175,13 @@ VIII. No se admitirán correcciones, enmendaduras, ni añadiduras de ningún tip
 
 Además, en los casos de construcción de casas en serie, se deberá presentar:
 
-I. Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por el organismo municipal regulador del agua potable y alcantarillado, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Obras Públicas y Planeación Municipal el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-II. En sustitución del requisito del punto número dos; un convenio escrito con el organismo municipal regulador del agua potable y alcantarillado de que el constructor y/o propietario se compromete a no entregar ninguna vivienda sino hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
+I. Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por la Dirección de Agua Potables y Alcantarillado, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Obras Públicas y Planeación Municipal el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+II. En sustitución del requisito del punto número dos; un convenio escrito con la Dirección de Agua Potable y Alcantarillado de que el constructor y/o propietario se compromete a no entregar ninguna vivienda sino hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
 
 III. Copia de un contrato temporal por consumo de agua para la construcción de las viviendas; y
 
@@ -17046,3 +16910,15 @@ Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opo
 ###### ARTÍCULO TERCERO.
 
 Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de El Llano, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
+
+P.O. 27 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE EL LLANO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
