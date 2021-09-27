@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2017-del-pleno-del-consejo-de-la-121361"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-15"
-last_updated: "2020-12-18"
+last_updated: "2021-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-05-08"
 
 ACUERDO GENERAL 3/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 15 de mayo de 2017.
 
@@ -191,13 +191,15 @@ Los reportes estadísticos deberán remitirse a la Dirección General de Estadí
 
 Los juzgadores deberán levantar de manera individual un acta administrativa, por duplicado, del inicio de sus funciones, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Creación de Nuevos Órganos, debiendo remitir a ésta un ejemplar.
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 12/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 13.
 
-Los juzgadores y el personal que les está adscrito disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero de cada año.
+Las y los juzgadores y el personal que les está adscrito disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 140 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero de cada año.
 
-> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 36/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+Durante los dos meses que conforma el periodo respectivo, solamente tres jueces y su personal podrán de manera simultánea gozar de sus vacaciones, de tal modo que durante este periodo los siete juzgadores restantes y su personal, en forma excepcional tendrán jornadas de 24 horas de trabajo por 24 de descanso.
 
-Durante los dos meses que conforma el periodo respectivo, solamente dos jueces de control y su personal podrán de manera simultánea gozar de sus vacaciones, de manera que durante este periodo, los ocho juzgadores restantes y su personal, en forma excepcional tendrán jornadas de 24 horas de trabajo por 24 de descanso.
+Una vez que concluya dicho periodo vacacional, las guardias de los jueces adscritos al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, deberán regularse conforme a lo que señala el artículo 6 del Acuerdo General 36/2020, del Pleno del Consejo de la Judicatura Federal.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA DE LOS JUECES DE CONTROL
 
@@ -790,3 +792,11 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los Jueces Noveno y Décimo de Control adscritos al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones que inician funciones, de la infraestructura y equipamiento necesario para el desempeño de sus labores.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos.
+
+D.O.F. 27 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 12/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 13, DEL SIMILAR 3/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES; EN RELACIÓN CON SU PERIODO VACACIONAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
