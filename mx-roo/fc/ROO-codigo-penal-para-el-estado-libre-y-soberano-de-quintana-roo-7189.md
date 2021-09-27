@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2021-06-18"
+last_updated: "2021-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -3633,7 +3633,7 @@ Al que quebrante los sellos puestos por orden de la autoridad pública competent
 
 ###### ARTICULO 219.
 
-Al que verbalmente o por medio de expresiones físicas, ultraje a un servidor público o agente de la autoridad en el ejercicio de sus funciones o con motivo de éstas y en presencia del mismo, se le impondrá de seis meses a un año de prisión y de diez a treinta días multa.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -4852,3 +4852,11 @@ P.O. 18 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 132 POR EL QUE SE DEROGA EL ARTÍCULO 219 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
