@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "2018-10-01"
+last_updated: "2021-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -281,6 +281,10 @@ ARTICULO 32 BIS-F. (DEROGADO, P.O. 1 DE OCTUBRE DE 2018)
 
 Los Asuntos competencia del Tribunal se promoverán, substanciarán y resolverán en los términos que dispone la presente Ley. A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles vigente en el Estado, siempre que se refiera a instituciones previstas en esta Ley y que la disposición supletoria se avenga al procedimiento contencioso administrativo que la misma establece.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+En todos los asuntos competencia de la Sala Superior se observarán las reglas establecidas para la operación de las notificaciones y avisos, a través del Boletín Jurisdiccional, previsto en esta Ley.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 34.
@@ -355,7 +359,9 @@ En materia de justicia administrativa no habrá condenación en costas. Las part
 
 Para las diligencias que deban practicarse fuera del local del Tribunal, podrá comisionarse a los Secretarios o a los Actuarios. Las que deban desahogarse fuera de la residencia de la Sala del conocimiento del juicio, por su naturaleza o porque así lo solicite alguna de las partes, podrán encomendarse a la autoridad jurisdiccional correspondiente, quien en todo caso, estará facultada para aplicar los medios de apremio que establece esta ley con la finalidad de que se cumpla con la resolución materia del exhorto.
 
-En el supuesto anterior, la parte oferente deberá señalar domicilio para recibir notificaciones en el lugar de residencia de la autoridad exhortada, desde su escrito de ofrecimiento. Si el actor es el oferente, las demandadas y los terceros deberán señalar dicho domicilio en sus escritos de contestación; si el ofrecimiento proviene de las demandadas, la Sala concederá tres días a las partes contrarias para que cumplan con el mismo requisito, si no obrara en autos un domicilio para tales efectos. En caso de incumplimiento del requisito anterior, las notificaciones se harán por lista de estrados de la autoridad exhortada.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+En el supuesto anterior, la parte oferente deberá señalar domicilio para recibir notificaciones en el lugar de residencia de la autoridad exhortada, desde su escrito de ofrecimiento. Si el actor es el oferente, las demandadas y los terceros deberán señalar dicho domicilio en sus escritos de contestación; si el ofrecimiento proviene de las demandadas, la Sala concederá tres días a las partes contrarias para que cumplan con el mismo requisito, si no obrara en autos un domicilio para tales efectos. En caso de incumplimiento del requisito anterior, las notificaciones se harán por Boletín Jurisdiccional o lista de estrados de la autoridad exhortada, según sea el caso.
 
 Las Salas diligenciarán en un término no mayor de cinco días los exhortos que reciban, salvo que por la naturaleza del caso se requiera un término mayor.
 
@@ -445,141 +451,101 @@ Las autoridades que figuren como partes en el juicio Contencioso Administrativo,
 
 ### CAPITULO III. DE LAS NOTIFICACIONES Y TERMINOS
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 45.
 
-Todo acuerdo o resolución debe notificarse, o en su caso, darse el aviso en la dirección de correo electrónico señalada, a más tardar el día hábil siguiente a aquél en que el expediente haya sido turnado al Actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
+Las notificaciones a los particulares y a las autoridades en el juicio deberán realizarse por medio del Boletín Jurisdiccional, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional, según sea el caso, de que se realizará la notificación, a más tardar el tercer día hábil siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Jurisdiccional.
 
-Las partes que así lo deseen, podrán señalar su clave o dirección de correo electrónico a la Sala Regional en que se lleve el juicio, a fin de que por este medio se les dé aviso de la emisión de los autos y demás resoluciones que en él se dicten, acompañado de un extracto de su contenido que comprenderá la fecha y órgano de emisión, los datos de identificación del expediente y el tipo de auto o resolución. Satisfecho lo anterior, el Magistrado Instructor ordenará que los avisos de que se trata se le practiquen por este medio a la parte que lo haya solicitado; el Actuario, a su vez, deberá dejar constancia en el expediente de que el aviso se envió a la dirección de correo electrónico señalado hasta por tres ocasiones consecutivas y la fecha y hora en que las realizó. En estos casos, durante el plazo de cinco días siguientes a aquél en que el aviso se llevó a cabo, la parte interesada podrá apersonarse al local de la Sala a notificarse personalmente de la resolución de que se trate y, a su vencimiento, si esto último no hubiere ocurrido, se procederá a su notificación por lista de estrados.
+Dicho aviso deberá incluir el archivo electrónico que contenga el acuerdo o resolución.
+
+El Actuario deberá enviar el aviso electrónico correspondiente a cada acuerdo o sentencia que se deba notificar, sin que pueda incluir en un aviso dos o más actuaciones o resoluciones, aunque sean de la misma fecha.
+
+Las partes son responsables de los términos en que señalen la dirección de correo electrónico a la que se enviará el aviso electrónico, por lo que será obligación de quien lo proporcione verificar que brinda información correcta y válida, sin que exista responsabilidad para el Tribunal, en caso de que exista algún error en el señalamiento de la dirección de correo electrónico.
+
+Las partes podrán cambiar la dirección de correo electrónico que hayan señalado al inicio del juicio, siempre y cuando lo soliciten mediante promoción en la que expresamente mencionen la nueva dirección, y en el acuerdo que al efecto se dicte se ordenará a la Actuaría correspondiente que tenga como señalado nueva dirección de correo electrónico, pero dicha modificación sólo tendrá efectos en el juicio específico en el que se solicite.
+
+Los particulares y las autoridades, mientras no se haya realizado la notificación por Boletín Jurisdiccional, podrán apersonarse en el Tribunal para ser notificados personalmente. Una vez realizada la notificación por Boletín Jurisdiccional, las partes, cuando esto proceda, deberán acudir al Tribunal a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente al (sic) en que surta efectos la notificación correspondiente. El Actuario o el Secretario de Acuerdos, en todos los casos, previo levantamiento de razón, entregará los traslados de ley.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 45 BIS. Se entenderá por Boletín Jurisdiccional al medio de comunicación oficial físico o electrónico, a través del cual el Tribunal de Justicia Administrativa da a conocer las actuaciones o resoluciones en los juicios y procedimientos que se tramitan ante el mismo.
+
+Se entenderá por aviso electrónico al mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 46.
 
 Las notificaciones se harán:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+I. Únicamente por medio de oficio a las autoridades y personalmente a los particulares, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
 
-I.- Por medio de oficio a las autoridades y personalmente a los particulares, cuando se trate de alguna de las siguientes resoluciones:
+a. La que corra traslado de la demanda a la autoridad, al tercero interesado, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 6, fracción III de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Sinaloa;
 
-a) La que admita o deseche la demanda, su ampliación y la contestación de ambas;
+b. La que mande citar al testigo que no pueda ser presentado por la parte oferente;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+c. La que requiera a las partes para que subsanen la omisión de no haber mencionado dirección de correo electrónico, para recibir los avisos electrónicos correspondientes;
 
-b) La que tenga por no presentada la demanda, la ampliación de demanda y la contestación respectiva;
+Dicho requerimiento deberá ser atendido por las partes en un término no mayor a tres días hábiles, de lo contrario las notificaciones se realizarán a través de (sic) Boletín Jurisdiccional sin que medie el envío de los avisos electrónicos correspondientes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+d. Las que comuniquen al perito sobre su participación en el juicio; y,
 
-c) La que deseche o tenga por no ofrecida alguna prueba;
+e. La que notifique el auto que decrete la suspensión en términos de lo dispuesto en el artículo 68, párrafo tercero, de esta Ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+En los demás casos, las notificaciones deberán realizarse por medio del Boletín Jurisdiccional.
 
-d) La que admita o deseche un recurso;
+El Magistrado Instructor podrá, excepcionalmente, ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberá fundar y motivar esa determinación en el acuerdo respectivo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
-
-e) La que señale día y hora para el desahogo de una audiencia;
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
-
-f) La que ordene el emplazamiento de un tercero o la cita a testigos;
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
-
-g) El requerimiento de un acto, a la parte que deba cumplirlo;
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
-
-h) La de sobreseimiento y la sentencia interlocutoria o definitiva;
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
-
-i) La que admita o deseche la petición del ejercicio de la facultad de atracción; y,
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
-
-j) Las demás que el Magistrado estime necesario.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-Las notificaciones por oficio a las autoridades, se realizarán a través de los recibos correspondientes, que contengan: nombre del actor, número de expediente, fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate, fecha y número de oficio, nombre de la autoridad notificada, fecha de la notificación, firma del Actuario y sello oficial de la dependencia y firma de quien recibe la notificación. Al oficio de notificación, se adjuntará copia certificada del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo y deberá asentar razón de las notificaciones que realice por boletín electrónico.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-Las notificaciones que deban hacerse a las autoridades, también podrán efectuarse, opcionalmente, en la forma prevista en el artículo 45 de esta Ley, por medio del aviso en la dirección de correo electrónico institucional.
+Las notificaciones por oficio a las autoridades se realizarán a través de los recibos correspondientes, que contengan: nombre del actor, número de expediente, fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate, fecha y número de oficio, nombre de la autoridad notificada, fecha de la notificación, firma del Actuario y sello oficial de la dependencia y firma de quien recibe la notificación. Al oficio de notificación, se adjuntará copia certificada del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo y deberá asentar razón de las notificaciones que realice por Boletín Jurisdiccional.
 
 Las notificaciones personales se harán directamente al interesado, su representante legal o al autorizado en los términos de esta ley, por el Actuario correspondiente, en el domicilio señalado para tal efecto. Si no se encontrare y cerciorado el notificador, bajo su responsabilidad que es el domicilio correcto, le dejará citatorio con cualquier persona que se encuentre en el lugar, para que lo espere a una hora fija del día hábil siguiente. Si se negare a recibirlo o en los casos en que el domicilio se encontrare cerrado, la citación se entenderá con el vecino más cercano, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio. El citatorio deberá contener: nombre y domicilio del citado, el del Tribunal que manda practicar la diligencia, número de expediente, fecha y hora a la que se cita, fecha del citatorio, nombre y firma del Actuario.
 
-Si quien haya de notificarse no atendiere el citatorio, la notificación se hará mediante instructivo por conducto de cualquier persona que se encuentre en el domicilio en el que se realice la diligencia; de negarse a recibirla o en el caso de que el domicilio se encontrare cerrado, la notificación se realizará en los términos previstos para el citatorio, según lo señalado en el párrafo que antecede. En ambos casos, si la persona que recibe el citatorio o el instructivo es distinta al interesado, deberá tener 18 años o más, según su propio dicho o a juicio del notificador.
+Si quien haya de notificarse no atendiere el citatorio, la notificación se hará mediante instructivo por conducto de cualquier persona que se encuentre en el domicilio en el que se realice la diligencia; de negarse a recibirla o en el caso de que el domicilio se encontrare cerrado, la notificación se realizará en los términos previstos para el citatorio, según lo señalado en el párrafo que antecede. En ambos casos, si la persona que recibe el citatorio o el instructivo es distinta al interesado, deberá tener dieciocho años o más, según su propio dicho o a juicio del notificador.
 
 El Instructivo deberá contener: nombre del Tribunal que manda practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, nombre y firma de la persona que recibe, así como nombre y firma del actuario. Al Instructivo deberá adjuntarse copia certificada del acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario.
 
 De todo lo anterior, el Actuario deberá levantar acta circunstanciada que agregará al expediente junto con las constancias que acrediten que la diligencia se realizó en los términos del presente artículo.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+Si el domicilio señalado para recibir notificaciones por las partes no existe, está desocupado o permanece cerrado después de dos búsquedas en días sucesivos y en horas laborables, se hará constar en actas dicha circunstancia y las notificaciones personales a realizar surtirán sus efectos por medio de (sic) boletín jurisdiccional.
 
-Si el domicilio señalado para recibir notificaciones por las partes no existe, está desocupado o permanece cerrado después de dos búsquedas en días sucesivos y en horas laborables, se hará constar en actas dicha circunstancia y las notificaciones personales a realizar surtirán sus efectos por medio de lista de estrados.
+II. Por medio de edictos, cuando el particular que deba ser emplazado haya desaparecido; se ignore su domicilio; se encuentre fuera del territorio estatal sin haber dejado representante legal en el mismo; o, hubiere fallecido y no se conozca al albacea de la sucesión. Los edictos deberán publicarse por dos veces de cinco en cinco días, en el Periódico Oficial “El Estado de Sinaloa” y en algún otro periódico de mayor circulación, a juicio del Magistrado, sin perjuicio de entregar una copia de la notificación en la Secretaría del Honorable Ayuntamiento del lugar en que el destinatario haya tenido su última residencia, si se tuviere conocimiento de ello, de lo contrario, se entregará a la Fiscalía General del Estado.
 
-II.- Por medio de edictos, cuando el particular que deba ser emplazado haya desaparecido; se ignore su domicilio; se encuentre fuera del territorio estatal sin haber dejado representante legal en el mismo; o, hubiere fallecido y no se conozca al albacea de la sucesión. Los edictos deberán publicarse por dos veces de cinco en cinco días, en el Periódico Oficial "El Estado de Sinaloa" y en algún otro periódico de mayor circulación, a juicio del Magistrado, sin perjuicio de entregar una copia de la notificación en la Secretaría del Honorable Ayuntamiento del lugar en que el destinatario haya tenido su última residencia, si se tuviere conocimiento de ello, de lo contrario, se entregará a la Procuraduría de Justicia del Estado de Sinaloa.
+De todo lo anterior, se dejará constancia en el expediente respectivo; y,
 
-De todo lo anterior, se dejará constancia en el expediente respectivo.
+III. En las oficinas, si se presentan las partes a quien deba notificarse mientras no se haya realizado la notificación por Boletín Jurisdiccional, sin perjuicio de cumplir con las formalidades prescritas en este artículo en cuanto a las constancias que deban agregarse a los autos.
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-III.- Por lista de estrados, cuando así lo solicite la parte interesada o cuando sea diversa a las resoluciones que se señalan en la fracción I del presente artículo.
+ARTICULO 46 BIS. La lista de autos y resoluciones dictados por un Magistrado o Sala se publicará en el Boletín Jurisdiccional.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+En el Boletín Jurisdiccional deberá indicarse la denominación de la Sala y ponencia del Magistrado o Secretaría de Acuerdos que corresponda, según sea el caso, el número de expediente, la identificación de las autoridades a notificar y, en términos de la normatividad aplicable en materia de protección de datos personales, en su caso, el nombre del particular; así como una síntesis del auto, resolución o sentencia. El Boletín Jurisdiccional podrá consultarse en la página electrónica del Tribunal o en los módulos ubicados en la Sala en que estén radicados los juicios.
 
-Las partes deberán señalar domicilio en el lugar de residencia de la Sala Superior o de las Salas Regionales, desde su primera comparecencia o después de emplazados según sea el caso, con el fin de que en él se realicen las notificaciones personales indicadas en esta Ley. En caso de no hacerlo, aún las personales, se realizarán por lista de estrados, hasta en tanto cumpla con tal requisito. Entendiéndose que se les dio oportunidad de señalar domicilio sin que lo hubieren hecho.
+Las notificaciones electrónicas a las partes se entenderán realizadas con la sola publicación en el Boletín Jurisdiccional, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
 
-Cuando los terceros o el demandado en el juicio de lesividad, después de emplazados no se apersonaren a juicio a deducir sus derechos, las subsecuentes notificaciones, aún las personales, se realizarán por lista de estrados, entendiéndose que se les dio oportunidad de señalar domicilio sin que lo hubieren hecho.
+La lista también podrá darse a conocer mediante documento impreso que se colocará en un lugar accesible de la Sala en que estén radicados los juicios, en la misma fecha en que se publique en el Boletín Jurisdiccional.
 
-La lista de estrados deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados ubicándola en lugar abierto de las oficinas del Tribunal, asentando en autos la constancia correspondiente.
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
+ARTICULO 46 BIS-A. El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses de recibo del correo certificado se agregarán como constancia al expediente.
 
-IV.- Por correo certificado con acuse de recibo, cuando se trate de la notificación por oficio a las autoridades que radiquen fuera de la residencia de la Sala Regional que tenga conocimiento del Juicio o de la Sala Superior en asuntos de su competencia y cuando el Tribunal lo estime necesario. Los acuses de recibo y las piezas postales devueltas se agregarán a las actuaciones;
+El Tribunal llevará en archivo especial las publicaciones atrasadas del Boletín Jurisdiccional y hará la certificación que corresponda, a través de los servidores públicos competentes.
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-V.- Por telegrama, en forma adicional, cuando se trate de resoluciones que exijan cumplimiento inmediato a la parte que deba cumplirlo.
-
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
-
-VI.- En las oficinas del Tribunal, si se presentan las partes a quien deba notificarse, incluyendo las que han de practicarse personalmente o por oficio, sin perjuicio de cumplir con las formalidades prescritas en este artículo en cuanto a las constancias que deban agregarse a los autos.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-En los demás casos, las notificaciones a las partes se ordenarán hacer por boletín electrónico.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-En las notificaciones, el Actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación y de los avisos en la dirección de correo electrónico, así como de las notificaciones personales y por lista de estrados. Los acuses de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 46 BIS. La lista de acuerdos y resoluciones dictados por los Magistrados de las Salas Regionales, se publicarán por boletín electrónico al día hábil siguiente de su emisión para conocimiento de las partes.
-
-La publicación señalará la denominación de la Sala del Magistrado que corresponda, el nombre del particular y la identificación de las autoridades a notificar, el número de expediente, así como el contenido del acuerdo o resolución.
-
-Se tendrá como fecha de notificación, la del día en que se publique en el boletín electrónico y el Actuario lo hará constar en el auto o resolución de que se trate.
-
-El Tribunal, llevará en archivo especial, las publicaciones atrasadas del boletín electrónico y hará la certificación que corresponda, a través de los servidores públicos competentes.
-
-La lista también podrá darse a conocer mediante documento impreso que se colocará en un lugar accesible de la Sala en que estén radicados los juicios, en la misma fecha en que se publique en el boletín electrónico.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 47.
 
 Las notificaciones surtirán sus efectos:
 
-I.- Las personales y las que se realicen por oficio o por lista de estrados, al día hábil siguiente en que se efectúen;
+I. Las efectuadas por medio de (sic) Boletín Jurisdiccional, al tercer día hábil siguiente a aquél en que se haya realizado la publicación;
 
-II.- Las que se lleven a cabo por edictos, a los 10 días hábiles posteriores a su última publicación;
+II. Las personales y las que se realicen por oficio, al día hábil siguiente en que se efectúen;
 
-III.- Las que se realicen por correo certificado con acuse de recibo o telegrama, al día hábil siguiente de la fecha en que conste que fueron recibidas; y,
+III. Las que se lleven a cabo por edictos, a los diez días hábiles posteriores a su última publicación;
 
-IV.- El día hábil siguiente en que el interesado o su representante legal, se haga sabedor de la notificación irregular o del contenido del acuerdo o resolución a que se refiere dicha notificación.
+IV. Las que se realicen por correo certificado con acuse de recibo, al día hábil siguiente de la fecha en que conste que fueron recibidas; y,
+
+V. El día hábil siguiente en que el interesado o su representante legal, se haga sabedor de la notificación irregular o del contenido del acuerdo o resolución a que se refiere dicha notificación.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -587,11 +553,17 @@ IV.- El día hábil siguiente en que el interesado o su representante legal, se 
 
 Las notificaciones y diligencias deberán hacerse en días y horas hábiles.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-Son días hábiles todos los días del año, exceptuando sábados, domingos, períodos de vacaciones y los que señale como inhábiles la Ley de los Trabajadores al Servicio del Estado o los que acuerde la Sala Superior.
+Son días hábiles todos los días del año, exceptuando sábados, domingos, períodos de vacaciones y los que señale como inhábiles la Ley de los Trabajadores al Servicio del Estado o los que acuerde el Tribunal.
 
-Son horas hábiles las comprendidas entre las 8:30 y las 15:00 horas, exceptuándose los casos de presentación de promociones en la fecha de vencimiento de su término, que podrán recibirse hasta las 19:00 horas indistintamente por los Secretarios del Tribunal en el local de éste, o en el domicilio particular de aquéllos. Si se recibieran después de la hora señalada, no se tendrán como presentadas dentro del término legal.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+Son horas hábiles las comprendidas entre las 8:30 y las 15:00 horas.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+La presentación de las demandas o promociones de término podrá hacerse hasta las veinticuatro horas del día de su vencimiento ante la oficialía de partes correspondiente o mediante buzón jurisdiccional instalado para tal efecto en cada una de las Salas del Tribunal.
 
 Los Magistrados podrán habilitar los días y horas inhábiles, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse, notificando a los interesados. Si una diligencia se inició en días y horas hábiles, puede llevarse hasta su fin, sin interrupción y sin necesidad de habilitación expresa.
 
@@ -731,9 +703,13 @@ Si el actor no amplía su demanda, se entenderá que consiente los actos, resolu
 
 La demanda deberá presentarse por escrito con los siguientes requisitos formales:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-I.- El nombre y domicilio del actor o de quien promueve en su representación, así como su Dirección de Correo Electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea. En los casos en que sean dos o más demandantes, éstos ejercerán su opción a través de un representante común.
+I.- El nombre y domicilio del actor o de quien promueve en su representación, domicilio para oír y recibir notificaciones dentro de la jurisdicción de la Sala Regional competente, y su dirección de correo electrónico.
+
+Cuando no se señale dirección de correo electrónico, se requerirá al actor mediante notificación personal para que lo señale en un plazo no mayor a tres días hábiles, en caso de no atender dicho requerimiento, no se enviarán los avisos electrónicos que correspondan.
+
+En los casos en que sean dos o más demandantes, estos ejercerán su opción a través de un representante común;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -839,6 +815,14 @@ Cuando en las pruebas ofrecidas exista alguna que por su naturaleza requiera ser
 
 Admitida la demanda, se correrá traslado a las partes para que la contesten en el término de quince días, pudiendo hacerlo personalmente o por correo certificado con acuse de recibo ante la Sala del conocimiento cuando radiquen fuera de su residencia. Cuando los demandados fueren varios el término para contestar les correrá individualmente. El término para contestar la ampliación de la demanda, será de cinco días.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+Las dependencias, organismos o autoridades cuyos actos o resoluciones sean susceptibles de impugnarse ante el Tribunal, así como aquéllas encargadas de su defensa en el juicio y quienes puedan promover juicio de lesividad, deben registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso (sic) administrativos, para el efecto del envío del aviso electrónico, salvo en los casos en que ya se encuentren registrados en el Sistema de Justicia en Línea.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+Si las autoridades solicitan dentro de un juicio el cambio o actualización de la dirección de correo electrónico institucional, la modificación relativa sólo surtirá efectos para el juicio en el que se hizo la petición respectiva.
+
 ###### ARTICULO 63.
 
 La parte demandada deberá expresar en su contestación:
@@ -861,13 +845,17 @@ IV.- Los fundamentos de derecho que considere aplicables al caso y los argumento
 
 V.- Las pruebas que ofrezca, acompañándolas y aportando los elementos informativos y materiales necesarios para su preparación y desahogo.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Acompañará copia de la contestación y de los documentos anexos a ella para cada una de las partes, a excepción de aquellos casos en que excedan de veinticinco fojas útiles, los que quedarán en la Secretaría de la Sala para que se instruyan las partes.
+VI.- Acompañará copia de la contestación y de los documentos anexos a ella para cada una de las partes, a excepción de aquellos casos en que excedan de veinticinco fojas útiles, los que quedarán en la Secretaría de la Sala para que se instruyan las partes; y,
 
-> <small>(N. DE E. ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
-Cuando las demandadas omitan acompañar los documentos a que se refieren las fracciones V y VI que anteceden, se estará a lo dispuesto en el segundo párrafo del artículo 59 de esta ley.
+VII.- Dirección de correo electrónico, para recibir los avisos electrónicos correspondientes, salvo que la autoridad demandada ya tenga registrada su dirección de correo electrónico ante este Tribunal, en términos del artículo 62, párrafo segundo, de esta Ley. En caso de que no exista registro, se requerirá a la autoridad demandada mediante notificación personal, para que señale la dirección de correo electrónico correspondiente en un plazo no mayor a tres días hábiles, en caso de no atender dicho requerimiento, no se enviarán los avisos electrónicos que correspondan.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando las demandadas omitan acompañar los documentos a que se refieren las fracciones V y VI, se estará a lo dispuesto en el párrafo segundo del artículo 59 de esta Ley.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -875,7 +863,13 @@ Cuando las demandadas omitan acompañar los documentos a que se refieren las fra
 
 El tercero interesado podrá concurrir a defender el acto o a excepcionarse en su contra, dentro de los quince días hábiles siguientes a su notificación, acompañando las copias de traslado necesarias; transcurrido el plazo y hasta antes de dictarse la sentencia, su intervención tendrá el valor de alegato.
 
-El tercero interesado deberá expresar en su escrito de comparecencia las pruebas que ofrezca, acompañándolas y aportando los elementos informativos y materiales necesarios para su preparación y desahogo. En caso de que omita acompañar los documentos antes señalados, se estará a lo dispuesto en el segundo párrafo del artículo 59 de esta Ley.
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+En su escrito de comparecencia el tercero deberá señalar domicilio para oír y recibir notificaciones dentro de la jurisdicción de la Sala competente, y su dirección de correo electrónico. En caso de que no señale dirección de correo electrónico, se requerirá al tercero mediante notificación personal, para que la señale en un plazo no mayor a tres días hábiles, en caso de no atender dicho requerimiento, no se enviarán los avisos electrónicos correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+
+El tercero interesado deberá expresar en su escrito de comparecencia las pruebas que ofrezca, acompañándolas y aportando los elementos informativos y materiales necesarios para su preparación y desahogo. En caso de que omita acompañar los documentos antes señalados, se estará a lo dispuesto en el párrafo segundo del artículo 59 de esta Ley.
 
 ###### ARTICULO 65.
 
@@ -2268,3 +2262,17 @@ CUARTO. La Sala Superior deberá expedir el Estatuto del Servicio Profesional de
 QUINTO. El Centro de Estudios Sobre Justicia Administrativa que se crea mediante el presente Decreto deberá iniciar sus operaciones dentro de los seis meses posteriores al inicio de vigencia del mismo, debiéndose realizar en dicho plazo las adecuaciones pertinentes al Reglamento Interior del Tribunal.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 27 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 678 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. En los juicios y procedimientos que se encuentren en trámite ante el Tribunal de Justicia Administrativa del Estado de Sinaloa, al momento de entrar en vigor el presente Decreto, las partes podrán optar por incorporarse al sistema de avisos y notificaciones de (sic) Boletín Jurisdiccional, mediante escrito presentado ante el Tribunal en cualquier momento.
+
+En caso de que las partes no presenten el escrito señalado en el párrafo anterior, los juicios y procedimientos que se encuentren en trámite ante el Tribunal de Justicia Administrativa del Estado de Sinaloa, serán tramitados hasta su total resolución conforme a las disposiciones legales vigentes en el momento de la presentación de la demanda.
+
+TERCERO. Para los efectos de lo dispuesto en el artículo 62, párrafo segundo de esta Ley, las dependencias, organismos o autoridades contarán con un plazo de tres meses, contados a partir de la entrada en vigor del presente Decreto, para registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, todas las referencias hechas al Boletín Electrónico, se entenderán realizadas al Boletín Jurisdiccional.
