@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-136433"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-31"
-last_updated: "2019-05-31"
+last_updated: "2021-09-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136433&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-05-24"
 
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL PLAZA DEL ESTUDIANTE (CAIS PLAZA DEL ESTUDIANTE)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2021 (SIN EFECTOS).
 
 Reglamento publicado al Número 103 de la Gaceta Oficial de la Ciudad de México, el viernes 31 de mayo de 2019.
 
@@ -359,3 +359,17 @@ MTRA. NADIA TRONCOSO ARRIAGA
 DIRECTORA GENERAL
 
 INSTITUTO DE ATENCIÓN A POBLACIONES PRIORITARIAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS MAYORES DE EDAD Y PERSONAS SERVIDORAS PÚBLICAS DEL ALBERGUE TRANSITORIO SAN MIGUEL”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su difusión y conocimiento.
+
+SEGUNDO.- El presente Aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Con motivo de la entrada en vigor del presente Reglamento Interno de Convivencia, se deja sin efecto el diverso Aviso por el cual se da a conocer el Reglamento Interno de Convivencia para las Personas Usuarias y Personas Servidoras Públicas del Centro de Asistencia e Integración Social, “Plaza del Estudiante”, publicado en la Gaceta Oficial de la Ciudad de México, el 31 de mayo de 2019, así como todas las disposiciones que se opongan y contravengan el contenido del presente aviso.
+
+CUARTO.- Una vez que se cuente con la habilitación de las instalaciones del Albergue Transitorio San Miguel, para la operación de la tercera fase del Modelo de Inclusión Social, se procederá a realizar el traslado de las personas en proceso de inclusión social que actualmente se encuentran en el domicilio de sur 65-A 3243, Colonia Viaducto Piedad, Alcaldía Iztacalco, para que continúen con su proceso en la etapa que les corresponda.
