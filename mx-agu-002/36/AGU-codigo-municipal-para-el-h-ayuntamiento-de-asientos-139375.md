@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2021-05-03"
+last_updated: "2021-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -1309,21 +1309,17 @@ En las Sesiones Solemnes se podrá omitir la lectura del acta de la sesión ante
 
 En las Sesiones Solemnes deberán de realizarse honores al Lábaro Patrio y se deberá de entonar el Himno Nacional Mexicano.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2021)</small>
+
 ### CAPÍTULO V. Sesiones Secretas
 
 ###### ARTÍCULO 111°.
 
-Dada su naturaleza, en las Sesiones Secretas estará prohibido el acceso al público al recinto donde se sesione durante el desarrollo de la misma.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2021)
 
 ###### ARTÍCULO 112°.
 
-Serán consideradas por este Código como Sesiones Secretas las siguientes:
-
-I. Donde se traten asuntos que exijan reserva de acuerdo a lo establecido en la Ley Municipal para el Estado de Aguascalientes;
-
-II. Donde se traten asuntos de carácter secreto dirigidos al H. Ayuntamiento, por los Poderes Ejecutivo, Legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
-
-III. Las que así acuerde previamente el Cabildo.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2021)
 
 ### CAPÍTULO VI. De la Intervención del Público en las Sesiones
 
@@ -14581,6 +14577,16 @@ VI. No se probare la existencia del acto respectivo.
 
 La resolución del recurso se realizará de conformidad con lo establecido por los artículos 90 a 96 de la Ley del Procedimiento Administrativo, debiendo siempre fundarse en derecho y examinar todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios, pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
+### Capítulo V.- Derogado. Artículos 111. – Derogado
+
+Artículos 112.- Derogado
+
+SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de acuerdo a lo ordenado en el artículo 94 de la Ley Municipal para el Estado de Aguascalientes.
+
+El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+En Asientos, Aguascalientes, a 02 de agosto de 2021.”
+
 ###### ARTÍCULO 1567°.
 
 El afectado podrá impugnar las notificaciones de los actos administrativos recurribles que no hayan sido notificados o no se hubieren apegado a lo dispuesto en esta ley, conforme a las siguientes reglas:
@@ -14748,5 +14754,13 @@ Derogado
 SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de acuerdo a lo ordenado en el artículo 94 de la Ley Municipal para el Estado de Aguascalientes.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.”
+
+P.O. 28 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL “ACUERDO POR EL QUE SE DEROGA EL CAPÍTULO V, SESIONES SECRETAS Y LOS ARTÍCULOS 111° Y 112° DEL CÓDIGO MUNICIPAL PARA ASIENTOS”, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2021.]</small>
+
+“De acuerdo con los artículos 3, 4, 16, 36, 38, 89, 91 y 94 de la Ley Municipal para el Estado de Aguascalientes, y en base al contenido del acta de sesión ordinaria del H. Cabildo de fecha 02 de agosto del 2021, se expide el Acuerdo por el que se deroga el Capítulo V, Sesiones Secretas y los artículos 111° y 112° del Código Municipal para Asientos.
+
+PRIMERO: Se derogan las disposiciones contenidas en el Capítulo V, artículos 111 y 112, quedando de la siguiente manera:
 
 ### CAPÍTULO III. De la Impugnación de las Notificaciones
