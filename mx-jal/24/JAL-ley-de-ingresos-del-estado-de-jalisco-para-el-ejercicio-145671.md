@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-145671"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-28"
-last_updated: "2021-02-20"
+last_updated: "2021-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2021
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial al Número 47 Bis del Periódico Oficial del Estado de Jalisco, el lunes 28 de diciembre de 2020.
 
@@ -1881,7 +1881,9 @@ Cuando se efectúe la compra de 5 ejemplares en adelante, se aplicarán los sigu
 
 3. Libros: el precio de los libros será el costo de producción más un 10% por concepto de operación, considerando los descuentos establecidos en el punto anterior.
 
-II. La venta y publicación del Periódico Oficial “El Estado de Jalisco”:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2021)</small>
+
+II. La venta y publicación del periódico oficial “El Estado de Jalisco”:
 
 a) Venta:
 
@@ -1919,7 +1921,9 @@ El costo de los planes parciales de desarrollo será pagado por el solicitante, 
 
 El costo de las publicaciones que hicieren las dependencias del Estado con motivo del procedimiento económico coactivo, será repercutido al contribuyente que lo origine.
 
-Cuando se trate de publicaciones solicitadas por dependencias del Poder Ejecutivo, se aplicará un descuento del 50%.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2021)</small>
+
+Las publicaciones institucionales solicitadas por dependencias y entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, así como los organismos públicos constitucionalmente autónomos estatales, estarán exentas del pago.
 
 III. La venta de formas valoradas y tarjetas:
 
@@ -2370,3 +2374,9 @@ P.O. 20 DE FEBRERO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Se otorga un descuento del 70% a los adeudos de más de 180 días, por concepto de los servicios de guarda y custodia de vehículos, mercancía u objetos varios, establecidos en el artículo 25 fracción I, a partir de la entrada en vigor del presente decreto y hasta el mes de mayo del año 2021.
+
+P.O. 28 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28453/LXII/21 QUE REFORMA EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 40 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2021".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
