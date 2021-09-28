@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-150558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-08-10"
-last_updated: "2021-08-10"
+last_updated: "2021-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150558&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-07-30"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PUBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACION SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL AVISO PUBLICADO EN LA G.O. DE 28 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2021 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 10 de agosto de 2021.
 
@@ -525,3 +527,17 @@ Ciudad de México, 30 de julio de 2021.
 DRA. ALMUDENA OCEJO ROJO
 
 SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DEJA SIN EFECTOS EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 10 DE AGOSTO DE 2021”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su difusión y conocimiento.
+
+SEGUNDO.- El presente aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- A partir de la entrada en vigor del presente Aviso, los servicios sociales que otorga el Centro de Asistencia e Integración Social Azcapotzalco (CAIS Azcapotzalco), se proporcionarán en el Centro de Asistencia e Integración Social Coruña Jóvenes (CAIS Coruña Jóvenes).
+
+CUARTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso, será resuelto por la Coordinación General de Inclusión Social de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
