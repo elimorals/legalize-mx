@@ -4,7 +4,7 @@ identifier: "CHP-ley-patrimonial-de-la-administracion-publica-del-estado-de-7760
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-27"
-last_updated: "2017-07-10"
+last_updated: "2021-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY PATRIMONIAL DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL PATRIMONIO DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 27 de octubre de 2010.
 
@@ -788,3 +790,19 @@ Artículo Segundo: Se derogan todas las disposiciones que se opongan a lo dispue
 Artículo Tercero.- Los procedimientos y recursos administrativos que actualmente se encuentren en trámite, se seguirán llevando a cabo hasta su total conclusión por las autoridades y disposiciones legales vigentes, con anterioridad a la entrada en vigor del presente Decreto.
 
 Artículo Cuarto.- El Titular del Instituto de la Consejería Jurídica y de Asistencia Legal, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 428 LEY DEL PATRIMONIO DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley Patrimonial de la Administración Pública del Estado de Chiapas, publicada mediante Decreto 380, en el Periódico Oficial número 259, Segunda Sección, Tomo III, de fecha 27 de octubre de 2010, y sus correspondientes reformas.
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Cuarto.- El Titular del Poder Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto; hasta en tanto, serán aplicables las disposiciones contenidas en el Reglamento de la Ley Patrimonial de la Administración Pública del Estado de Chiapas, siempre que no contravengan al presente Decreto.
+
+Artículo Quinto.- La Comisión de Subasta, deberá quedar instalada dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Sexto.- En caso de existir controversias o situaciones no previstas, hasta en tanto se expida el Reglamento de la Ley, el Director General, previa opinión de la Consejería, resolverá lo conducente.
