@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ciencia-y-tecnologia-del-estado-de-chiapas-38808"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-31"
-last_updated: "2018-12-28"
+last_updated: "2021-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE CHIAPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas el 31 de Marzo de 2004.
 
@@ -734,3 +736,13 @@ Artículo Décimo. Las referencias, compromisos, procedimientos y atribuciones c
 Artículo Décimo Primero. Las atribuciones relativas a la Dirección de Producción Digital e Internet, de la Secretaría General de Gobierno, serán transferidas y atendidas por el Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas; los recursos humanos, financieros y materiales de la referida Dirección, serán transferidos a las Unidades de Planeación e Informática de la Secretaría General de Gobierno, previo dictamen de la dependencia normativa.
 
 De la misma forma, y en atención a lo prescrito en el Artículo Tercero Transitorio de la Ley Orgánica de la Administración Pública del Estado de Chiapas, los recursos humanos, financieros y materiales que se encontraban adscritos, asignados y correspondían a los diversos organismos de la Secretaría General de Gobierno, que en virtud de la entrada en vigor de esa ley se extinguen y/o fusionan, serán asignados, reorientados y transferidos a las áreas operativas o de apoyo de la misma Secretaría de Gobierno, para el cumplimiento de sus atribuciones.
+
+P.O. 29 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 429 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Decreto que contiene la Ley de Ciencia y Tecnología del Estado de Chiapas, publicada en el Periódico Oficial No.230, Tomo II, de fecha 31 de marzo del 2004.
+
+Artículo Tercero.- El Ejecutivo del Estado en un plazo de 180 ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley, expedirá el Plan Estatal de Innovación, Ciencia y Tecnología del Estado de Chiapas.
