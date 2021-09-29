@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-archivo-general-de-la-nacion-140686"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-02-05"
-last_updated: "2020-02-05"
+last_updated: "2021-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140686&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-01-09"
 ---
 # ESTATUTO ORGANICO DEL ARCHIVO GENERAL DE LA NACION
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 29 DE SEPTIEMBRE DE 2021 EN: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2021.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 5 de febrero de 2020.
 
@@ -163,6 +165,12 @@ a) Subdirección de Procesos Archivísticos, y
 
 b) Subdirección de Investigación y Conservación del Patrimonio Documental.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+c) Subdirección de Gestión de Fondos y Colecciones Históricas.
+
 IV. La Dirección de Desarrollo Archivístico Nacional tendrá adscrita (sic) las siguientes áreas:
 
 a) Subdirección de Desarrollo Archivístico;
@@ -193,9 +201,21 @@ b) Subdirección de Contratos y Convenios, y
 
 c) Subdirección de lo Contencioso.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+d) Subdirección para la Protección y Restitución del Patrimonio Documental.
+
 VIII. La Dirección de Tecnologías de la Información y Comunicaciones tendrá adscrita la siguiente área:
 
 a) Subdirección de Infraestructura Tecnológica y Medios Electrónicos.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+b) Subdirección de Sistemas de Información
 
 IX. El Consejo Técnico Científico y Archivístico;
 
@@ -411,9 +431,13 @@ XXXIII. Expedir copias certificadas de los documentos que obren en sus archivos 
 
 ### CAPÍTULO II. De la Dirección General
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-El Director General tendrá las siguientes facultades y responsabilidades, además de las establecidas en la normativa en materia de archivos, la Ley Federal de las Entidades Paraestatales, su Reglamento y otras disposiciones aplicables:
+La persona titular de la Dirección General tendrá las siguientes facultades y responsabilidades, además de las establecidas en la normativa en materia de archivos, la Ley Federal de las Entidades Paraestatales, su Reglamento y otras disposiciones aplicables:
 
 I. Presidir el Consejo Nacional de Archivos y proponer ante esa instancia la adopción de las disposiciones de carácter general en materia de gestión documental y administración de archivos;
 
@@ -479,9 +503,13 @@ XXXI. Custodiar los expedientes que incluyan los documentos justificativos y com
 
 XXXII. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 25.
 
-El Subdirector de Vinculación tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Vinculación tendrá las siguientes atribuciones:
 
 I. Opinar sobre los proyectos y programas relacionados con la planeación estratégica del Archivo General;
 
@@ -511,27 +539,65 @@ XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan en 
 
 ### CAPITULO III. De la Dirección de Preservación del Patrimonio Documental
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-El Director de Preservación del Patrimonio Documental tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Preservación del Patrimonio Documental tendrá las siguientes atribuciones:
 
 I. Dirigir el adecuado resguardo y custodia del Patrimonio Documental;
 
-II. Autorizar la incorporación al Archivo General de los documentos con valor histórico generados por la Administración Pública Federal y, en su caso, de otros sujetos obligados, así como aquellos documentos en posesión de particulares;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-III. Aprobar los lineamientos, políticas, criterios y procedimientos para investigar, organizar, describir, conservar, restaurar y preservar el Patrimonio Documental, así como vigilar su cumplimiento;
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+I Bis. Aprobar el Plan Integral para la Preservación del Acervo Histórico del Archivo General, previo visto bueno del Director General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II. Aprobar el ingreso al Archivo General de los documentos con valor histórico generados por la Administración Pública Federal y, en su caso, de otros sujetos obligados, así como aquellos documentos en posesión de particulares;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+III. Validar los lineamientos, políticas, criterios y procedimientos para investigar, organizar, describir, conservar, restaurar y preservar el Patrimonio Documental, así como vigilar su cumplimiento o, en su caso, aprobarlos de primera mano;
 
 IV. Proponer al Director General el ejercicio del derecho preferente en los casos de enajenación por venta de un acervo o archivo privado de interés público y, en general, cuando se trate de documentos acordes con lo previsto en el artículo 36, fracciones II, III y IV, de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos;
 
-V. Aprobar los lineamientos y criterios de conservación preventiva para garantizar la integridad física de los soportes documentales que custodia el Archivo General;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-VI. Aprobar las transcripciones paleográficas y dictámenes de autenticidad del Patrimonio Documental;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Supervisar los procesos de conservación, restauración, organización y descripción del Patrimonio Documental;
+V. Aprobar los lineamientos y criterios de conservación, gestión y control, para garantizar la integridad física de los soportes documentales que custodia el Archivo General;
 
-VIII. Aprobar los dictámenes técnicos que justifiquen las Declaratorias de Patrimonio Documental y de archivos privados de interés público, así como la recuperación del Patrimonio Documental sustraído o en riesgo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-IX. Aprobar los dictámenes técnicos que justifiquen el permiso de salida del país del Patrimonio Documental, así como de los documentos que pertenezcan a un archivo privado de interés público;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Aprobar las transcripciones paleográficas, certificaciones y dictámenes de autenticidad del Patrimonio Documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Supervisar los procesos de gestión, control, restauración, conservación, organización y descripción del Patrimonio Documental
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Dirigir la elaboración de los dictámenes, reportes, estudios e insumos técnicos que justifiquen las Declaratorias de Patrimonio Documental y de archivos privados de interés público, así como la recuperación del Patrimonio Documental sustraído o en riesgo;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Dirigir la elaboración de los dictámenes, reportes, estudios e insumos técnicos que justifiquen el permiso de salida del país del Patrimonio Documental, así como de los documentos que pertenezcan a un archivo privado de interés público;
 
 X. Fungir como enlace en la elaboración de normas mexicanas y normas oficiales mexicanas en materia de organización y conservación documental.
 
@@ -539,67 +605,297 @@ XI. Aprobar los protocolos internos de actuación en materia de sustracción o e
 
 XII. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 26 Bis.
+
+La persona titular de la Subdirección de Gestión de Fondos y Colecciones Históricas tendrá las siguientes atribuciones:
+
+I. Proponer los lineamientos, políticas, criterios y procedimientos para el control y custodia del Patrimonio Documental y vigilar su cumplimiento, previa coordinación con las demás áreas administrativas, salvo instrucción expresa de su superior jerárquico;
+
+II. Coordinar la recepción e instalación de los documentos incorporados al Archivo General;
+
+III. Aprobar las reglas, normas y criterios para la conformación y administración del Registro Central de los Fondos y Colecciones Documentales, previa coordinación con las demás áreas administrativas, salvo instrucción expresa de su superior jerárquico;
+
+IV. Aprobar la metodología necesaria para la definición y unificación de fondos documentales, previa coordinación con las demás áreas administrativas, salvo instrucción expresa de su superior jerárquico;
+
+V. Coordinar el diseño de las estrategias necesarias para la adecuada gestión del acervo y dirigir su implementación con las personas servidoras públicas adscritas a la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental;
+
+VI. Coordinar el servicio de traslado interno del acervo documental para el ejercicio de cualquiera de las atribuciones de la Dirección de Preservación del Patrimonio Documental;
+
+VII. Dirigir el servicio de préstamo interno del acervo documental para el desarrollo de las actividades de difusión de la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental;
+
+VIII. Proponer a su superior jerárquico y coordinar los programas de formación y capacitación del personal en materia archivística, respecto de su ámbito competencial.
+
+IX. Dirigir la elaboración de las certificaciones, transcripciones paleográficas y dictámenes de autenticidad del Patrimonio Documental;
+
+X. Participar en la elaboración de las normas mexicanas y normas oficiales mexicanas en materia de organización, descripción y digitalización documental;
+
+XI. Vigilar, en su ámbito competencial, la implementación de las medidas de conservación preventiva, en atención a las normas, políticas, lineamientos, instrucciones y criterios que se hayan definido en la Dirección de Preservación del Patrimonio Documental;
+
+XII. Coordinar la atención de las solicitudes de acceso a la información pública, en atención a las atribuciones de las áreas administrativas de la Dirección de Preservación del Patrimonio Documental;
+
+XIII. Coordinar las investigaciones, análisis y acciones que proporcionen la información que permita corroborar la probable sustracción ilícita del Patrimonio Documental del acervo histórico del Archivo General y la fecha aproximada de su sustracción;
+
+XIV. Coordinar el procedimiento de registro de los documentos históricos que, bajo los supuestos enunciados en el artículo 36 de la Ley Federal Sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos puedan ser considerados monumentos históricos, en el Sistema Único de Registro Público de Monumentos y Zonas Arqueológicas e Históricas ante el Instituto correspondiente;
+
+XV. Coordinar, en su ámbito competencial, los vínculos de colaboración interinstitucional en cuestiones de preservación, protección y conservación del Patrimonio Documental;
+
+XVI. Gestionar los procedimientos de contratación de servicios especializados respecto de su ámbito competencial;
+
+XVII. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y (sic)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 27.
 
-El Subdirector de Procesos Archivísticos tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Investigación Histórica y Procesos Archivísticos tendrá las siguientes atribuciones:
 
-I. Proponer los lineamientos, políticas, criterios y procedimientos para el control y custodia del Patrimonio Documental y vigilar su cumplimiento;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-II. Supervisar la recepción e instalación de los documentos incorporados al Archivo General;
+I. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)
 
-III. Proponer los procedimientos y políticas para realizar los procesos de organización y descripción del Patrimonio Documental y vigilar su cumplimiento;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-IV. Determinar y dirigir la implementación del programa anual de organización y descripción del Patrimonio Documental;
+II. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)
 
-V. Coordinar las acciones de selección y preparación del Patrimonio Documental para digitalizar y su posterior cotejo con los correspondientes archivos digitales;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-VI. Coordinar el desarrollo de los proyectos de investigación en torno a la teoría y práctica archivística, que contribuyan al conocimiento de los procesos técnicos aplicados al Patrimonio Documental;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Dirigir la elaboración de certificaciones, transcripciones paleográficas y dictámenes de autenticidad del Patrimonio Documental;
+III. Proponer los lineamientos, políticas, criterios y procedimientos para realizar los procesos de organización y descripción del Patrimonio Documental, previa coordinación con las demás áreas administrativas, salvo instrucción expresa de su superior jerárquico, y vigilar su cumplimiento;
 
-VIII. Colaborar en la elaboración de normas mexicanas y normas oficiales mexicanas en materia de organización, descripción y digitalización documental;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-IX. Acordar con el Director de Preservación del Patrimonio Documental el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Dirigir la implementación del programa anual de organización y descripción del Patrimonio Documental, conforme a los principios archivísticos, de conservación y normas aplicables;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+V. Dirigir la implementación del programa anual de preparación de documentos históricos para su digitalización;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+V Bis. Vigilar la elaboración de los diagnósticos generales de descripción del Patrimonio Documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+V Ter. Vigilar la revisión interna que se realice de los diagnósticos de organización y descripción documental que presenten los sujetos obligados para definir la viabilidad de las incorporaciones documentales al acervo que resguarda el Archivo General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Dirigir el desarrollo de los proyectos de investigación histórica y en torno a la teoría y práctica archivística, que contribuyan al conocimiento de los procesos técnicos aplicados al Patrimonio Documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI Bis. Coordinar la elaboración y seguimiento de proyectos de organización y descripción documental, atendiendo a convocatorias externas o convenios, para su financiamiento;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+VII. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Participar en la elaboración de normatividad y normas oficiales mexicanas en materia de organización, descripción y digitalización documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII Bis. Participar o representar, según instruya su superior jerárquico, en las comisiones o grupos de trabajo institucionales dentro y fuera del Archivo General, en cuestiones archivísticas.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII Ter. Coadyuvar en el procedimiento de registro de los documentos en el Sistema Único del Registro Público de Monumentos y Zonas Arqueológicas e Históricas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII Quater. Vigilar, en su ámbito competencial, la implementación de las medidas de conservación preventiva, en atención a las normas, políticas, lineamientos, instrucciones y criterios que se hayan definido en la Dirección de Preservación del Patrimonio Documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII Quinquies. Coordinar, en su ámbito competencial, los vínculos de colaboración interinstitucional en cuestiones de preservación, protección y conservación del Patrimonio Documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII Sexies. Gestionar los procedimientos de contratación de servicios especializados respecto de su ámbito competencial;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 28.
 
-El Subdirector de Investigación y Conservación del Patrimonio Documental tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Investigación y Conservación del Patrimonio Documental tendrá las atribuciones:
 
-I. Proponer el plan integral de preservación y el programa anual de conservación del Patrimonio Documental y supervisar su cumplimiento;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-II. Coordinar la elaboración de los diagnósticos generales de conservación del Patrimonio Documental;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+I. Proponer a su superior jerárquico el Plan Integral para la Preservación del Acervo Histórico del Archivo General, gestionar las estrategias para su implementación; así como tomar nota del seguimiento que realicen las unidades y áreas administrativas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II. Dirigir el desarrollo de los Diagnósticos Generales de Conservación de los fondos y colecciones históricas que resguarda el Archivo General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II Bis. Informar a la persona titular de la Dirección de Preservación del Patrimonio Documental sobre cualquier incidente que pueda poner en riesgo la integridad física del patrimonio documental a resguardo del Archivo General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II Ter. Dirigir el monitoreo de las condiciones ambientales de los espacios de resguardo, exhibición y consulta del Patrimonio Documental que resguarda el Archivo General de la Nación; informar de los incidentes que requieren atención urgente y vigilar la adecuada implementación de acciones preventivas y/o correctivas por parte de las áreas competentes;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II Quater. Dirigir las acciones de estabilización y restauración del acervo histórico a resguardo del Archivo General de la Nación y, en su caso, designar a los responsables de coordinar las actividades asociadas para tal fin;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II Quinquies. Autorizar los dictámenes de viabilidad para digitalización del Patrimonio Documental a resguardo del Archivo General de la Nación;
 
 III. Coadyuvar con la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental en la conservación de las colecciones o fondos bibliohemerográficos;
 
-IV. Analizar los diagnósticos generales de conservación que realicen los sujetos obligados para definir la viabilidad de las incorporaciones documentales y su seguimiento;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-V. Proponer los dictámenes técnicos en conservación que justifiquen las Declaratorias de Patrimonio Documental y archivos privados de interés público, así como la recuperación del Patrimonio Documental sustraído o en riesgo;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Dirigir la elaboración de los dictámenes técnicos en conservación relacionados con certificados de autenticidad, y para préstamo externo;
+IV. Validar los Diagnósticos Generales de Conservación de fondos o colecciones de terceros que pretendan ingresar al acervo del Archivo General;
 
-VII. Coordinar el desarrollo de los proyectos de investigación en torno a los soportes documentales y sus elementos, que contribuyan a la ampliación del conocimiento en materia de conservación-restauración del Patrimonio Documental;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-VIII. Proponer criterios, lineamientos, políticas y procedimientos en materia de conservación, restauración y preservación del Patrimonio Documental;
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Asesorar a la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental en cuestiones de museografía para exhibición de Patrimonio Documental;
+IV Bis. Validar los dictámenes de viabilidad de las solicitudes de restauración de Patrimonio Documental de la Nación;
 
-X. Controlar el procedimiento de registro de los documentos en el Sistema Único de Registro Público de Monumentos y Zonas Arqueológicas, Artísticas e Históricas y el Registro Público de Monumentos y Zonas Artísticas;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-XI. Coordinar los vínculos de colaboración interinstitucional en cuestiones de preservación, protección y conservación del Patrimonio Documental;
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Colaborar en la elaboración de normas mexicanas y normas oficiales mexicanas en materia de conservación y preservación documental;
+IV Ter. Coordinar la elaboración de los diagnósticos del estado de conservación, reportes de condición y valuaciones con fines de aseguramiento, así como proponer a su superior jerárquico a la persona que podría fungir como comisario o equivalente para aquellos documentos históricos solicitados en préstamo;
 
-XIII. Acordar con el Director de Preservación del Patrimonio Documental el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV Quater. Auxiliar a las unidades y áreas administrativas competentes en en (sic) las actividades que requieran como perito o especialista en la materia de conservación y restauración;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV Quinquies. Participar con la Subdirección de Gestión y Preservación de Fondos y Colecciones Históricas en la elaboración de los dictámenes de autenticidad, validando y suscribiendo los análisis técnicos correspondientes;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+V. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+VI. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Proponer a su superior jerárquico y vigilar los proyectos de investigación en torno a los soportes documentales y sus elementos, que contribuyan a la ampliación del conocimiento en materia de conservación y restauración del Patrimonio Documental de la Nación;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Aprobar los criterios, lineamientos, políticas y procedimientos en materia de conservación preventiva, estabilización y restauración del Patrimonio Documental de la Nación que resguarda el Archivo General de la Nación, previa coordinación con las demás áreas administrativas, salvo instrucción expresa de su superior jerárquico;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Auxiliar a la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental en cuestiones de condiciones de exhibición y montaje del Patrimonio Documental de la Nación que resguarda el Archivo General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+X. Coadyuvar en el procedimiento de registro de los documentos en el Sistema Único del Registro Público de Monumentos y Zonas Arqueológicas e Históricas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Coordinar, en su ámbito competencial, los vínculos de colaboración interinstitucional en cuestiones de preservación, protección y conservación del Patrimonio Documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Participar en la elaboración de normativa y normas oficiales mexicanas en materia de conservación y preservación documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+XII Bis. Gestionar los procedimientos de contratación de servicios especializados en materia de conservación y restauración para el acervo que resguarda el Archivo General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
 ### CAPITULO IV. De la Dirección de Desarrollo Archivístico Nacional
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-El Director de Desarrollo Archivístico Nacional tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Desarrollo Archivístico Nacional tendrá las siguientes atribuciones:
 
 I. Aprobar los lineamientos, manuales, instructivos, criterios y recomendaciones para la aplicación en sede administrativa en materia de gestión documental y administración de archivos para los sujetos obligados, previa opinión de la Dirección de Asuntos Jurídicos y Archivísticos;
 
@@ -617,13 +913,37 @@ VII. Aprobar la guía de auditoría archivística y demás mecanismos de fiscali
 
 VIII. Fungir como el responsable del área Coordinadora de Archivos, y
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII Bis. Dirigir la vinculación con los sujetos obligados y las instituciones académicas y científicas, para generar contenidos de formación y capacitación, que promuevan la homologación de los criterios y prácticas en materia de gestión documental y administración de archivos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII Ter. Dirigir los esquemas de colaboración con las autoridades jurisdiccionales y fiscalizadoras, internas y externas, de los sujetos obligados, en materia de cumplimiento normativo archivístico; y
+
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 30.
 
-El Subdirector de Desarrollo Archivístico tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Desarrollo Archivístico tendrá las siguientes atribuciones:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 I. Proponer los criterios y recomendaciones que deban regir los procesos de entrega-recepción en materia (sic) archivos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 II. Elaborar la propuesta de guía de auditoría archivística, así como dirigir las asesorías y capacitaciones a las autoridades competentes en esta materia;
 
@@ -631,7 +951,15 @@ III. Coordinar la recolección, sistematización, registro y publicación de la 
 
 IV. Auxiliar al responsable del área coordinadora de archivos en el ejercicio de sus facultades y obligaciones;
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 V. Elaborar las propuestas de lineamientos, manuales, instructivos, criterios y recomendaciones en materia de gestión documental y administración de archivos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 VI. Elaborar las recomendaciones y criterios en materia de gestión documental y administración de archivos aplicables a los expedientes que requieran una atención especializada;
 
@@ -639,51 +967,97 @@ VII. Coordinar las acciones que permitan la orientación en administración de r
 
 VIII. Coordinar la asesoría y el acompañamiento a los sujetos obligados en materia de documentación siniestrada y riesgos sanitarios;
 
-IX. Acordar con el Director de Desarrollo Archivístico Nacional el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan; y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan; y
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 31.
 
-El Subdirector de Disposición Documental tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Disposición Documental tendrá las siguientes atribuciones:
 
 I. Emitir los dictámenes de transferencia secundaria a los archivos históricos institucionales y baja documental de los sujetos obligados de la Administración Pública Federal, para lo cual podrá requerirles la documentación correspondiente;
 
 II. Tomar conocimiento en los casos de eliminación de documentación de comprobación administrativa inmediata que realizan los sujetos obligados de la Administración Pública Federal;
 
-III. Coadyuvar con las autoridades jurisdiccionales y fiscalizadoras internas y externas de los sujetos obligados;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-IV. Acordar con el Director de Desarrollo Archivístico Nacional el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
+III. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+III Bis. Asesorar a los sujetos obligados en la materia de su competencia que así lo soliciten;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
 
 V. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-El Subdirector de Cumplimiento Normativo Archivístico tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Cumplimiento Normativo Archivístico tendrá las atribuciones:
 
 I. Coordinar la recolección y sistematización de la información relacionada con el cumplimiento normativo en materia archivística en la Administración Pública Federal;
 
-II. Proponer y ejecutar las visitas de verificación de cumplimiento normativo archivístico;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II. Proponer y ejecutar los esquemas que permitan verificar el cumplimiento normativo archivístico de los sujetos obligados del Poder Ejecutivo Federal;
 
 III. Administrar el registro y validación de los instrumentos de control y consulta archivísticos de los sujetos obligados de la Administración Pública Federal;
 
-IV. Acompañar a los sujetos obligados de la Administración Pública Federal cuando éstos o alguna de sus unidades o áreas administrativas se fusione, extinga o cambie de adscripción, para garantizar la adecuada gestión documental y administración de su archivo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-V. Dirigir las acciones para asesorar y capacitar a los sujetos obligados y particulares en materia de gestión documental y administración archivos;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Asesorar a los sujetos obligados de la Administración Pública Federal cuando éstos o alguna de sus unidades o áreas administrativas se fusione o cambie de adscripción, para garantizar la adecuada gestión documental y administración de su archivo;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+V. Dirigir las acciones para asesorar y capacitar a los sujetos obligados en materia de gestión documental y administración (sic) archivos;
 
 VI. Proponer el programa anual de capacitación en materia de gestión documental y administración de archivos, así como organizar las actividades correspondientes;
 
-VII. Vincularse con los sujetos obligados y las instituciones académicas y científicas, para generar contenidos de formación y capacitación, que promuevan la homologación de los criterios y prácticas en materia de gestión documental y administración de archivos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-VIII. Acordar con el Director de Desarrollo Archivístico Nacional el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le corresponda, y
+VII. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le corresponda, y
 
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
 ### CAPÍTULO V. De la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-El Director de Gestión, Acceso y Difusión del Patrimonio Documental tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental tendrá las siguientes atribuciones:
 
 I. Establecer los lineamientos, políticas y procedimientos para dar acceso y difusión del Patrimonio Documental, con independencia del soporte en el que se encuentre;
 
@@ -735,9 +1109,13 @@ XXIV. Supervisar los procesos de organización, conservación y preservación de
 
 XXV. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-El Subdirector de Difusión tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Difusión tendrá las siguientes atribuciones:
 
 I. Elaborar el plan de comunicación del Archivo General;
 
@@ -765,9 +1143,13 @@ XII. Las demás que las disposiciones legales y reglamentarias le atribuyan en e
 
 ### CAPÍTULO VI. De la Dirección de Administración
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 35.
 
-El Director de Administración tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Administración tendrá las siguientes atribuciones:
 
 I. Establecer, implementar y evaluar las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir en las unidades administrativas, para la gestión de los recursos humanos, financieros y materiales; así como verificar su observancia de conformidad con la política que determine el Director General;
 
@@ -815,9 +1197,13 @@ XXII. Someter a consideración del Director General el Programa Institucional, a
 
 XXIII. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 36.
 
-El Subdirector de Recursos Financieros tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Recursos Financieros tendrá las siguientes atribuciones:
 
 I. Supervisar la integración del anteproyecto del presupuesto anual del Archivo General, así como el Programa Operativo Anual;
 
@@ -835,9 +1221,13 @@ VII. Acordar con el Director de Administración el despacho de los asuntos de su
 
 VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-El Subdirector de Recursos Materiales y Servicios Generales tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Recursos Materiales y Servicios Generales tendrá las siguientes atribuciones
 
 I. Administrar los recursos materiales del Archivo General, así como supervisar el cumplimiento de las normas que emitan las autoridades competentes en dicha materia;
 
@@ -867,9 +1257,13 @@ XIII. Acordar con el Director de Administración el despacho de los asuntos de s
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 38.
 
-El Subdirector de Recursos Humanos tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Recursos Humanos tendrá las siguientes atribuciones:
 
 I. Ejecutar las políticas y los mecanismos para la administración y desarrollo de los recursos humanos, que incluyan el reclutamiento, selección, contratación, nombramientos, inducción, evaluación, remuneraciones, prestaciones, servicios sociales, motivación, capacitación, actualización y movimientos del personal del Archivo General;
 
@@ -891,9 +1285,13 @@ IX. Acordar con el Director de Administración el despacho de los asuntos de su 
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 39.
 
-El Subdirector de Planeación y Evaluación tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Planeación y Evaluación tendrá las atribuciones:
 
 I. Coordinar entre las unidades administrativas y demás instancias competentes la implementación de las políticas, lineamientos y criterios técnicos que deban aplicarse en materia de planeación, modernización y desarrollo institucional;
 
@@ -921,9 +1319,13 @@ XII. Las demás que las disposiciones legales y reglamentarias le atribuyan en e
 
 ### CAPÍTULO VII. De la Dirección de Asuntos Jurídicos y Archivísticos
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 40.
 
-El Director de Asuntos Jurídicos y Archivísticos tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Asuntos Jurídicos y Archivísticos tendrá las siguientes atribuciones:
 
 I. Representar al Archivo General ante toda autoridad administrativa o jurisdiccional, para defender sus intereses o intervenir en cualquier asunto en el que tenga injerencia, con todos los derechos que las leyes reconocen a las personas físicas y morales, así como desistirse de acciones judiciales, previa autorización del Director General;
 
@@ -983,9 +1385,45 @@ XXVIII. Las demás que las disposiciones legales y reglamentarias le atribuyan e
 
 Los Subdirectores adscritos a la Dirección de Asuntos Jurídicos y Archivísticos podrán requerir a cualquier unidad o área administrativa la documentación que requieran para el cumplimiento de sus facultades.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 40 Bis.
+
+La persona titular de la Subdirección para la Protección y Restitución del Patrimonio Documental tendrá las siguientes atribuciones:
+
+I. Auxiliar y, en su caso, suplir al Director de Asuntos Jurídicos y Archivísticos en la representación legal del Archivo General en los asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de autoridades administrativas y judiciales, nacionales o internacionales, cuando la materia del asunto se vincule con la prevención, protección o restitución del Patrimonio Documental de la Nación o archivos privados de interés público;
+
+II. Asesorar a las unidades administrativas en los asuntos que se vinculen con la materia de su competencia;
+
+III. Auxiliar en materia de autorización y uso de imágenes, así como de las disposiciones legales relacionadas con la reproducción del Patrimonio Documental de la Nación;
+
+IV. Gestionar la sustanciación de los procedimientos de expropiación y recuperación a que se refieren los artículos 77, último párrafo, 92, párrafos segundo y tercero, y 97 de la Ley General, respectivamente;
+
+V. Coordinar la presentación y seguimiento de las denuncias y querellas por hechos probablemente constitutivos de delito que afecten al Patrimonio Documental de la Nación;
+
+VI. Coordinar la elaboración de los proyectos de las Declaratorias de Patrimonio Documental de la Nación y de las Declaratorias de Interés Público;
+
+VII. Coordinar la elaboración de los proyectos de autorización para que el Patrimonio Documental de la Nación salga del país, así como el de las resoluciones para que se ejerza el derecho preferente de compra a favor del Archivo General, o que determinen el rescate de los documentos en peligro de destrucción o pérdida;
+
+VIII. Participar en los grupos de trabajo, convenciones, coloquios, conferencias o foros relacionados con la materia de su competencia;
+
+IX. Proponer al Director de Asuntos Jurídicos y Archivísticos, para su aprobación, los criterios, instrucciones, normas, procedimientos, estrategias, esquemas y las acciones legales relacionadas con la prevención de la sustracción y tráfico ilícito del Patrimonio Documental de la Nación, así como para su recuperación;
+
+X. Coordinar el diseño e implementación de un monitoreo continuo que procure la protección del Patrimonio Documental de la Nación;
+
+XI. Acordar con el Director de Asuntos Jurídicos y Archivísticos el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
+
+XII. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 41.
 
-El Subdirector de Normatividad y Consulta Archivística tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Normatividad y Consulta Archivística tendrá las siguientes atribuciones:
 
 I. Coordinar la elaboración de los dictámenes de los proyectos de iniciativas de leyes, reglamentos, decretos, criterios y acuerdos en materia de gestión documental y administración de archivos, así como aquellas que correspondan a las actividades del Archivo General;
 
@@ -1015,9 +1453,13 @@ XIII. Acordar con el Director de Asuntos Jurídicos y Archivísticos el despacho
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 42.
 
-El Subdirector de Contratos y Convenios tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Contratos y Convenios tendrá las siguientes atribuciones:
 
 I. Acompañar al Director de Asuntos Jurídicos y Archivísticos en la representación legal del Archivo General relativa a las negociaciones y suscripción de los instrumentos jurídicos consensuales;
 
@@ -1033,9 +1475,13 @@ VI. Acordar con el Director de Asuntos Jurídicos y Archivísticos el despacho d
 
 VII. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 43.
 
-El Subdirector de lo Contencioso tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de lo Contencioso tendrá las siguientes atribuciones:
 
 I. Acompañar y, en su caso, suplir al Director de Asuntos Jurídicos y Archivísticos en la representación legal del Archivo General en asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de autoridades administrativas y judiciales;
 
@@ -1059,27 +1505,67 @@ X. Las demás que las disposiciones legales y reglamentarias le atribuyan en el 
 
 ### CAPÍTULO VIII. De la Dirección de Tecnologías de la Información y Comunicaciones
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 44.
 
-El Director de Tecnologías de la Información y Comunicaciones tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Tecnologías de la Información y Comunicaciones tendrá las siguientes atribuciones:
 
-I. Dirigir el desarrollo y mantenimiento de los sistemas informáticos, de acuerdo con los requerimientos que al efecto soliciten las unidades administrativas;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-II. Promover el desarrollo de sistemas informáticos, así como la implementación de las nuevas tecnologías que faciliten la actividad ordinaria de las unidades administrativas;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-III. Implementar el sistema automatizado de gestión documental del Archivo General, bajo los criterios que determinen las Direcciones de Desarrollo Archivístico Nacional, así como de Preservación del Patrimonio Documental;
+I. Dirigir entre sus áreas administrativas la operación de la infraestructura tecnológica, de los servicios informáticos y de la digitalización.
 
-IV. Autorizar la adquisición, instalación o implementación de los servicios informáticos e infraestructura tecnológica;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-V. Dirigir la operación de los servicios informáticos, de infraestructura tecnológica y de comunicaciones del Archivo General;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Aprobar los mecanismos de control y protocolos de seguridad para la salvaguarda y custodia de la información, sistemas y equipos tecnológicos del Archivo General;
+II. Aprobar la adquisición, instalación o implementación de los servicios informáticos e infraestructura tecnológica, así como dirigir la emisión de las opiniones técnicas que le sean requeridas;
 
-VII. Coadyuvar con la Dirección de Desarrollo Archivístico Nacional en la promoción del uso de tecnologías de la información relacionadas con la gestión documental y administración de archivos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-VIII. Dirigir el desarrollo informático de los repositorios electrónicos del Archivo General, en coordinación con la Dirección de Preservación del Patrimonio Documental;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Dirigir el procedimiento de digitalización del Patrimonio Documental en coordinación con la Dirección de Preservación del Patrimonio Documental y la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental;
+III. Aprobar los mecanismos de control y protocolos de seguridad para la salvaguarda y custodia de la información, sistemas y equipos tecnológicos del Archivo General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Dirigir entre sus áreas administrativas el desarrollo informático de los repositorios electrónicos del Archivo General, en coordinación con cualquier unidad o área administrativa que por sus atribuciones se requiera su participación.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+V. Dirigir la emisión de los criterios, procedimientos, normas e instrucciones en materia de almacenamiento y administración del Patrimonio Documental en formato digital;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Dirigir entre sus áreas administrativas el procedimiento de digitalización del Patrimonio Documental, una vez que los documentos involucrados sean preparados archivísticamente, en coordinación con la Dirección de Preservación del Patrimonio Documental y la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Dirigir entre sus áreas administrativas el desarrollo e implementación de las medidas que permitan preservar el Patrimonio Documental en formato digital, según los criterios que defina la Dirección de Preservación del Patrimonio Documental y la Dirección de Desarrollo Archivístico Nacional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Avisar a las unidades administrativas sobre la normativa en materia de tecnologías, comunicaciones y seguridad de la información, así como supervisar su cumplimiento;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Dirigir las acciones que aseguren el cumplimiento de la estrategia de gobierno digital en el Archivo General, y
 
 X. Establecer los procedimientos de almacenamiento y administración del Patrimonio Documental en formato digital;
 
@@ -1091,27 +1577,85 @@ XIII. Autorizar las acciones que aseguren el cumplimiento de la estrategia de go
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 44 Bis.
+
+La persona titular de la Subdirección de Sistemas de Información tendrá las siguientes atribuciones:
+
+I. Coordinar el desarrollo y mantenimiento de los sistemas informáticos, de acuerdo con los requerimientos que al efecto soliciten las unidades administrativas;
+
+II. Proponer el desarrollo de sistemas informáticos, así como de las nuevas tecnologías que pudieran facilitar la actividad ordinaria de las unidades administrativas, así como evaluar su funcionamiento y realizar los respaldos que estime pertinente;
+
+III. Coordinar la implementación de un sistema automatizado de gestión documental en el Archivo General, bajo los criterios que determinen las Direcciones de Desarrollo Archivístico Nacional y la Dirección de Preservación del Patrimonio Documental;
+
+IV. Proponer la implementación de tecnologías soportadas en internet para desarrollar sistemas de información, difusión, promoción, educación, dentro del Archivo General de la Nación;
+
+V. Coordinar los procesos de digitalización del Patrimonio Documental, según los criterios que defina su superior jerárquico;
+
+VI. Proponer a las unidades administrativas las características y los procesos tecnológicos para la operación del Repositorio Electrónico del Patrimonio Documental, con la finalidad de brindar a las unidades y áreas administrativas del Archivo General un espacio para difundir dichos documentos.
+
+VII. Coordinar las actividades de análisis, diseño, desarrollo, pruebas y puesta en producción, basado en la metodología establecida en la Dirección de Tecnologías de la Información y Comunicaciones, para garantizar la operación de los sistemas informáticos con los cuales cuenta el Organismo.
+
+VIII. Gestionar el cumplimiento de la estrategia de gobierno digital en el Archivo General, según las instrucciones de su superior jerárquico, y proponer las medidas para su cumplimiento;
+
+IX. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y (sic)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 45.
 
-El Subdirector de Infraestructura Tecnológica y Medios Electrónicos tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subdirección de Infraestructura Tecnológica y Medios Electrónicos tendrá las siguientes atribuciones:
 
-I. Definir las características técnicas de los servicios informáticos e infraestructura tecnológica requeridos por el Archivo General para su operación, así como coordinar su adquisición, instalación o implementación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-II. Coordinar las acciones para desarrollar, instrumentar y mantener una operación continua de los servicios informáticos, de infraestructura tecnológica y de comunicaciones del Archivo General;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+I. Proponer las características técnicas de los servicios informáticos e infraestructura tecnológica requeridos por el Archivo General para su operación, así como coordinar su adquisición, instalación o implementación;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II. Coordinar las acciones para desarrollar, instrumentar y mantener una operación continúa de los servicios informáticos, de infraestructura tecnológica y de comunicaciones del Archivo General;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 III. Coordinar las actividades para brindar el soporte y asesoría técnica al personal del Archivo General, así como el mantenimiento preventivo y correctivo de la infraestructura tecnológica;
 
-IV. Coordinar la operación de los procedimientos de administración y almacenamiento del Patrimonio Documental en formato digital;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
 
-V. Supervisar el procedimiento de preservación digital en el Archivo General;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Dar seguimiento a la estrategia de gobierno digital en el Archivo General y proponer las medidas para su cumplimiento;
+IV. Proponer los criterios, procedimientos, normas e instrucciones en materia de almacenamiento y administración del Patrimonio Documental en formato digital; y coordinar su operación o implementación;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+V. Vigilar el cumplimiento de las acciones en materia de seguridad de la información;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Gestionar el cumplimiento de la estrategia de gobierno digital en el Archivo General, según las instrucciones de su superior jerárquico, y proponer las medidas para su cumplimiento;
 
 VII. Supervisar el cumplimiento de las acciones en materia de seguridad de la información;
 
 VIII. Coordinar la operación de servicios digitales en el Archivo General;
 
-IX. Acordar con el Director de Tecnologías de la Información y Comunicaciones el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Acordar con su superior jerárquico el despacho de los asuntos de su competencia, así como la atención de las observaciones emitidas por las autoridades fiscalizadoras internas y externas que le correspondan, y
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera su superior jerárquico.
 
@@ -1164,3 +1708,27 @@ Los servidores públicos que integren el Órgano Interno de Control en el Archiv
 PRIMERO.- El presente Estatuto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se abroga el Estatuto Orgánico del Archivo General, publicado en el Diario Oficial de la Federación el 27 de noviembre de 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN".]
+
+Primero. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO DEL ÓRGANO DE GOBIERNO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN.
+
+ANTECEDENTES
+
+El 13 de agosto de 2021, se llevó a cabo la Tercera Sesión Ordinaria 2021 del Órgano de Gobierno del Archivo General de la Nación, en donde se aprobó el siguiente: ACUERDO (R) OG-O-3-21-7. Se aprueba el Acuerdo que reforma, deroga y adiciona diversas disposiciones del Estatuto Orgánico del Archivo General de la Nación, conforme el anexo que se acompañó, y se instruye al Director General para que realice las gestiones necesarias para su publicación en el Diario Oficial de la Federación.
+
+Por lo anterior, el que suscribe, Carlos Enrique Ruiz Abreu, Director General del Archivo General de la Nación, con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales, y en cumplimiento a lo ordenado por el Órgano de Gobierno del Archivo General de la Nación, emite lo siguiente:
+
+ÚNICO.- Para conocimiento de los interesados se da a conocer el Acuerdo que reforma, deroga y adiciona diversas disposiciones del Estatuto Orgánico del Archivo General de la Nación, consultables en las siguientes ligas y para todos los efectos jurídicos a que haya lugar:
+
+https://www.gob.mx/cms/uploads/attachment/file/663876/Modificaciones_Estatuto_organico_AGN_2021__F_.pdf
+
+www.dof.gob.mx/2021/AGN/Reforma_Estatuto_Organico_Archivo_General_Nacion.pdf
