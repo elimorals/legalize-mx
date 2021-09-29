@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2021-09-07"
+last_updated: "2021-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -151,13 +151,17 @@ VIII.- Los intérpretes o traductores;
 
 IX.- Los especialistas mediadores y conciliadores;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-X.- Los síndicos e interventores de concursos y;
+X.- Los síndicos e interventores de concursos;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-XI.- Los demás que los que la ley les confiera dicho carácter.
+XI.- Las autoridades laborales y de seguridad social, estatales y federales; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Los demás que la ley les confiera dicho carácter.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -370,6 +374,10 @@ Cada Región Judicial contará con los Jueces de Control y Tribunales de Enjuici
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
 Tratándose de los casos de competencia extraordinaria a que se refiere el artículo 22 del Código Nacional de Procedimientos Penales, previa petición fundada y motivada, serán competentes para conocer los jueces del sistema penal acusatorio de la Primera Región Judicial del Estado, con sede en la Capital del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 10 QUINQUIES.- El número, residencia, distribución y competencia territorial en los Distritos o Regiones Judiciales de los Tribunales Laborales, se determinará mediante acuerdos generales que emita el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -949,33 +957,35 @@ II.- Los Jueces de lo Familiar;
 
 III.- Los Jueces de lo Mercantil;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Los Jueces de los Tribunales Laborales;
+
+V.- Los Jueces de lo Penal;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Los Jueces Especializados en Justicia Penal para Adolescentes;
+
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-IV.- Los Jueces de lo Penal;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-V.- Los Jueces Especializados en Justicia para Adolescentes;
-
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
-
-VI.- Los Jueces de Ejecución de Sanciones;
+VII.- Los Jueces de Ejecución de Sanciones;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VII.- Los Jueces de Ejecución de Medidas para Adolescentes;
+VIII.- Los Jueces de Ejecución de Medidas para Adolescentes;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Los Jueces Mixtos;
+IX.- Los Jueces Mixtos;
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-IX.- Los Jueces de Control; y
+X.- Los Jueces de Control; y
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-X.- Los Jueces de Tribunal de Enjuiciamiento.
+XI.- Los Jueces de Tribunal de Enjuiciamiento.
 
 ###### ARTICULO 36.
 
@@ -2597,11 +2607,11 @@ Para la consecución de sus objetivos, la Contraloría contará con un Director 
 
 Las disposiciones del presente Capítulo son reglamentarias de los párrafos segundo y tercero del artículo 107 de la Constitución Política del Estado y, tendrán por contenido definir el objeto y composición del Fondo, su administración, conservación y destino, dejando a criterio del Consejo de la Judicatura sus formas de captación mediante los acuerdos que estime pertinentes con base en las sugerencias que al respecto realice el responsable del Fondo.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 134.
 
-El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del Consejo de la Judicatura y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante la aplicación de estímulos y recompensas, y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el más eficaz cumplimiento de las funciones.
+El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del Consejo de la Judicatura y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante la aplicación de estímulos, recompensas y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el más eficaz cumplimiento de las funciones. De igual forma, podrá aplicar, parte de dichos recursos para realizar acciones de infraestructura para la habilitación, construcción o establecimiento de salas, juzgados u oficinas del Poder Judicial del Estado y demás bienes necesarios para su funcionamiento, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 ###### ARTICULO 135.
 
@@ -2711,7 +2721,9 @@ El patrimonio del Fondo se destinará:
 
 I.- Al otorgamiento de estímulos económicos a los servidores del Poder Judicial;
 
-II.- A la adquisición de mobiliario, equipo, libros de consulta y demás material de contenido jurídico que se considere útil para el más eficaz cumplimiento de las funciones; y,
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II.- A la construcción, habilitación o remodelación de inmuebles, adquisición de mobiliario, equipo, libros de consulta y demás material de contenido jurídico que se considere útil para el más eficaz cumplimiento de las funciones; y,
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -3869,41 +3881,61 @@ IX.- Las demás que le señale el Consejo de la Judicatura y la normatividad apl
 
 El Consejo de la Judicatura del Estado establecerá el perfil y requisitos que deban satisfacer los titulares de los Órganos Administrativos del Sistema de Justicia Penal Acusatorio y Oral.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+## TITULO DECIMO SEGUNDO. DE LOS TRIBUNALES LABORALES
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 222.
 
-Para los efectos de esta Ley, se entiende por centro antirrábico el establecimiento operado o concesionado por el Ayuntamiento con el propósito de contribuir a la prevención y control de la rabia animal y coadyuvar con las autoridades sanitarias competentes en los casos en que seres humanos hubieren contraído dicha enfermedad.
+Los Tribunales Laborales serán unitarios. A los jueces de Tribunal Laboral les corresponderá conocer:
+
+I.- De los asuntos relativos a las diferencias o los conflictos entre trabajadores y patrones suscitados dentro de la jurisdicción estatal, derivado de las relaciones de trabajo o de hechos relacionados con ellas, que no sea competencia de los Tribunales Laborales del Poder Judicial de la Federación, en términos de lo que dispone el artículo 123 Apartado "A", fracción XX, de la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- De la diligenciación de exhortos, requisitorias y despachos de naturaleza laboral; y
+
+III.- De las demás funciones que les impongan las leyes y otros ordenamientos jurídicos.
+
+Los Jueces de Tribunal Laboral serán la máxima autoridad jurisdiccional en la materia laboral. Actuarán de conformidad con los procedimientos previstos en la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 223.
 
-Los centros antirrábicos que establezcan los Ayuntamientos, tendrán las siguientes funciones:
+El tribunal laboral se integrará con:
 
-I.- Atender quejas sobre animales agresores;
+I.- Un juez;
 
-II.- Capturar animales agresores y callejeros;
+II.- Secretarios; y
 
-III.- Observar clínicamente a los animales capturados dentro de un lapso de 48 horas para que su propietario lo reclame;
+III.- El personal que determine el Consejo de la Judicatura.
 
-IV.- Vacunar a los animales capturados y reclamados por su propietario, a costa del mismo, dentro del lapso señalado en la fracción anterior, así como también, de aquellos que para tal fin sean llevados voluntariamente por sus propietarios;
-
-V.- Practicar la necropsia de animales sospechosos de padecer rabia;
-
-VI.- Obtener los diagnósticos de rabia por medio de análisis de laboratorio.
-
-VII.- Canalizar a las personas agredidas para su tratamiento oportuno; y
-
-VIII.- El sacrificio humanitario de los animales que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten.
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 224.
 
-Los propietarios de los animales a que se refiere el artículo anterior estarán obligados a vacunarlos ante las autoridades sanitarias, así como mantenerlos dentro de sus domicilios y bajo su control.
+Los secretarios instructores de los tribunales laborales, en el ámbito de sus atribuciones, además de las que señala la Ley Federal del Trabajo, tendrán las siguientes:
+
+I.- A petición del Juez laboral, dictar los acuerdos relativos a la etapa escrita de procedimiento;
+
+II.- Al inicio de las audiencias, hacer constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de los servidores públicos del Tribunal, y demás personas que intervendrán;
+
+III.- Tomar protesta previa de que se conducirán con verdad las partes y los terceros que intervengan en el desarrollo de las audiencias, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad;
+
+IV.- Certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse;
+
+V.- Firmar las resoluciones que así lo ameriten, el día en que se emitan;
+
+VI.- Decretar las providencias cautelares previstas en la Ley Federal del Trabajo; y
+
+VII.- Las demás que determine la ley o el Consejo de la Judicatura.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -4333,29 +4365,33 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 
 Hasta en tanto el Consejo de la Judicatura acuerde sobre la creación de los juzgados especializados en materia mercantil, la competencia de estos asuntos continuará a cargo de los juzgados civiles.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 30.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 160 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 29 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-795 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, EN MATERIA DE TRIBUNALES LABORALES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo dispuesto por los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Legislatura del Estado, previo al día primero de mayo de dos mil veintidós, emitirá la declaratoria de entrada en funciones de los Tribunales Laborales. Dicha declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO TERCERO.
 
-A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia o Entidad a este Organismo Desconcentrado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por aquella Dependencia y esta Entidad.
-
-Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+En el Presupuesto de Egresos del Estado se deberán destinar los recursos necesarios para la implementación oportuna de la reforma del sistema local de justicia laboral.
 
 ###### ARTÍCULO CUARTO.
 
-El proceso de extinción del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes iniciará a partir de la publicación del presente Decreto y tendrá como fecha límite el día 30 de junio de 2020, salvo que exista impedimento para ello. En este último supuesto, a partir del 1° de julio de 2020, el Instituto de Servicios de Salud del Estado (sic) Aguascalientes a través de los servidores públicos competentes de acuerdo con las disposiciones legales que lo rigen, será el encargado de llevar a cabo el cumplimiento de las obligaciones del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes que por su naturaleza le sean competentes.
-
-Dentro de las obligaciones a que hace referencia el párrafo anterior, se consideran incluidas las relativas al cumplimiento de las obligaciones fiscales, de seguridad social, así como cualquier otra a cargo del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes ante el Servicio de Administración Tributaria, Instituto Mexicano del Seguro Social y/o cualquier otra autoridad a la que haya lugar, incluido la realización de pagos ante las instituciones bancarias y realizar los trámites que resulten necesarios ante las autoridades correspondientes a fin de obtener su cancelación ante el registro Federal de Contribuyentes del Organismo Público Descentralizado en comento, así como cualquier otro trámite al que hubiere lugar.
+De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura del Estado emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral.
 
 ###### ARTÍCULO QUINTO.
 
-El Programa "El Médico en Tu Casa" será aplicado en concordancia con las demás disposiciones de atención médica que se establecen en la Ley de Salud del Estado de Aguascalientes así como en los acuerdos y convenios que para el efecto se suscriban.
-
-P.O. 3 DE JULIO DE 2017.
+El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y administrativos que se ameriten para el funcionamiento del sistema de impartición de justicia laboral. De igual forma, el Consejo de la Judicatura emitirá las disposiciones reglamentarias, acuerdos y demás normativa, que sean necesarias para la correcta implementación de las presentes reformas y adiciones.
 
 ###### ARTÍCULO SEXTO.
 
-Se abroga la Ley del Centro Estatal de Estudios Municipales de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 21 de septiembre del 1984 y en consecuencia se extingue el Organismo Público Descentralizado denominado Centro Estatal de Estudios Municipales.
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125.- SE ADICIONA UN CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 69 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
