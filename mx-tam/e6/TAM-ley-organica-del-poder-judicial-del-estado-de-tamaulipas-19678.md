@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2021-09-07"
+last_updated: "2021-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -151,13 +151,17 @@ VIII.- Los intérpretes o traductores;
 
 IX.- Los especialistas mediadores y conciliadores;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-X.- Los síndicos e interventores de concursos y;
+X.- Los síndicos e interventores de concursos;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-XI.- Los demás que los que la ley les confiera dicho carácter.
+XI.- Las autoridades laborales y de seguridad social, estatales y federales; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Los demás que la ley les confiera dicho carácter.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -370,6 +374,10 @@ Cada Región Judicial contará con los Jueces de Control y Tribunales de Enjuici
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
 Tratándose de los casos de competencia extraordinaria a que se refiere el artículo 22 del Código Nacional de Procedimientos Penales, previa petición fundada y motivada, serán competentes para conocer los jueces del sistema penal acusatorio de la Primera Región Judicial del Estado, con sede en la Capital del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 10 QUINQUIES.- El número, residencia, distribución y competencia territorial en los Distritos o Regiones Judiciales de los Tribunales Laborales, se determinará mediante acuerdos generales que emita el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -949,33 +957,35 @@ II.- Los Jueces de lo Familiar;
 
 III.- Los Jueces de lo Mercantil;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Los Jueces de los Tribunales Laborales;
+
+V.- Los Jueces de lo Penal;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Los Jueces Especializados en Justicia Penal para Adolescentes;
+
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-IV.- Los Jueces de lo Penal;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-V.- Los Jueces Especializados en Justicia para Adolescentes;
-
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
-
-VI.- Los Jueces de Ejecución de Sanciones;
+VII.- Los Jueces de Ejecución de Sanciones;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VII.- Los Jueces de Ejecución de Medidas para Adolescentes;
+VIII.- Los Jueces de Ejecución de Medidas para Adolescentes;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Los Jueces Mixtos;
+IX.- Los Jueces Mixtos;
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-IX.- Los Jueces de Control; y
+X.- Los Jueces de Control; y
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-X.- Los Jueces de Tribunal de Enjuiciamiento.
+XI.- Los Jueces de Tribunal de Enjuiciamiento.
 
 ###### ARTICULO 36.
 
@@ -2597,11 +2607,11 @@ Para la consecución de sus objetivos, la Contraloría contará con un Director 
 
 Las disposiciones del presente Capítulo son reglamentarias de los párrafos segundo y tercero del artículo 107 de la Constitución Política del Estado y, tendrán por contenido definir el objeto y composición del Fondo, su administración, conservación y destino, dejando a criterio del Consejo de la Judicatura sus formas de captación mediante los acuerdos que estime pertinentes con base en las sugerencias que al respecto realice el responsable del Fondo.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 134.
 
-El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del Consejo de la Judicatura y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante la aplicación de estímulos y recompensas, y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el más eficaz cumplimiento de las funciones.
+El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del Consejo de la Judicatura y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante la aplicación de estímulos, recompensas y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el más eficaz cumplimiento de las funciones. De igual forma, podrá aplicar, parte de dichos recursos para realizar acciones de infraestructura para la habilitación, construcción o establecimiento de salas, juzgados u oficinas del Poder Judicial del Estado y demás bienes necesarios para su funcionamiento, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 ###### ARTICULO 135.
 
@@ -2711,7 +2721,9 @@ El patrimonio del Fondo se destinará:
 
 I.- Al otorgamiento de estímulos económicos a los servidores del Poder Judicial;
 
-II.- A la adquisición de mobiliario, equipo, libros de consulta y demás material de contenido jurídico que se considere útil para el más eficaz cumplimiento de las funciones; y,
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+II.- A la construcción, habilitación o remodelación de inmuebles, adquisición de mobiliario, equipo, libros de consulta y demás material de contenido jurídico que se considere útil para el más eficaz cumplimiento de las funciones; y,
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -3869,6 +3881,60 @@ IX.- Las demás que le señale el Consejo de la Judicatura y la normatividad apl
 
 El Consejo de la Judicatura del Estado establecerá el perfil y requisitos que deban satisfacer los titulares de los Órganos Administrativos del Sistema de Justicia Penal Acusatorio y Oral.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+## TITULO DECIMO SEGUNDO. DE LOS TRIBUNALES LABORALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 222.
+
+Los Tribunales Laborales serán unitarios. A los jueces de Tribunal Laboral les corresponderá conocer:
+
+I.- De los asuntos relativos a las diferencias o los conflictos entre trabajadores y patrones suscitados dentro de la jurisdicción estatal, derivado de las relaciones de trabajo o de hechos relacionados con ellas, que no sea competencia de los Tribunales Laborales del Poder Judicial de la Federación, en términos de lo que dispone el artículo 123 Apartado "A", fracción XX, de la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- De la diligenciación de exhortos, requisitorias y despachos de naturaleza laboral; y
+
+III.- De las demás funciones que les impongan las leyes y otros ordenamientos jurídicos.
+
+Los Jueces de Tribunal Laboral serán la máxima autoridad jurisdiccional en la materia laboral. Actuarán de conformidad con los procedimientos previstos en la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 223.
+
+El tribunal laboral se integrará con:
+
+I.- Un juez;
+
+II.- Secretarios; y
+
+III.- El personal que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTICULO 224.
+
+Los secretarios instructores de los tribunales laborales, en el ámbito de sus atribuciones, además de las que señala la Ley Federal del Trabajo, tendrán las siguientes:
+
+I.- A petición del Juez laboral, dictar los acuerdos relativos a la etapa escrita de procedimiento;
+
+II.- Al inicio de las audiencias, hacer constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de los servidores públicos del Tribunal, y demás personas que intervendrán;
+
+III.- Tomar protesta previa de que se conducirán con verdad las partes y los terceros que intervengan en el desarrollo de las audiencias, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad;
+
+IV.- Certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse;
+
+V.- Firmar las resoluciones que así lo ameriten, el día en que se emitan;
+
+VI.- Decretar las providencias cautelares previstas en la Ley Federal del Trabajo; y
+
+VII.- Las demás que determine la ley o el Consejo de la Judicatura.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -4298,3 +4364,31 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Hasta en tanto el Consejo de la Judicatura acuerde sobre la creación de los juzgados especializados en materia mercantil, la competencia de estos asuntos continuará a cargo de los juzgados civiles.
+
+P.O. 29 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-795 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, EN MATERIA DE TRIBUNALES LABORALES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo dispuesto por los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Legislatura del Estado, previo al día primero de mayo de dos mil veintidós, emitirá la declaratoria de entrada en funciones de los Tribunales Laborales. Dicha declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En el Presupuesto de Egresos del Estado se deberán destinar los recursos necesarios para la implementación oportuna de la reforma del sistema local de justicia laboral.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura del Estado emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y administrativos que se ameriten para el funcionamiento del sistema de impartición de justicia laboral. De igual forma, el Consejo de la Judicatura emitirá las disposiciones reglamentarias, acuerdos y demás normativa, que sean necesarias para la correcta implementación de las presentes reformas y adiciones.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
