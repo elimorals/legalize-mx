@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2021-09-22"
+last_updated: "2021-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -1097,13 +1097,33 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer sin importar la raza, condición económica o social durante el embarazo, el parto y el puerperio;
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-III. La promoción de la integración y el bienestar familiar;
+II. La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 
-IV. La información a la mujer, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna; y
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
-V. La atención médica de las mujeres embarazadas y de los niños que viven con VIH.
+II Bis. La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, se realizará antes del alta hospitalaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+III. La revisión de retina y tamiz auditivo al prematuro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+V. La promoción de la integración y el bienestar familiar;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VI. La información a la mujer, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2021)</small>
+
+VII. La atención médica de las mujeres embarazadas y de los niños que viven con VIH.
 
 ###### Artículo 78.
 
@@ -3534,3 +3554,11 @@ P.O. 22 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 674 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 49 Y LA FRACCIÓN III, DEL 53 A LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 679 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LAS FRACCIONES II, III, IV Y V, Y ADICIONA LAS FRACCIONES II BIS, VI Y VII AL ARTÍCULO 77 DE LA LEY DE SALUD DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado y el Organismo Público Descentralizado Servicios de Salud de Sinaloa, dentro de los noventa días posteriores al inicio de vigencia del presente Decreto deberán adecuar la normatividad necesaria para la debida atención del mismo.
