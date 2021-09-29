@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2021-09-20"
+last_updated: "2021-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -2855,39 +2855,59 @@ Artículo 227 Novodecies. El Pleno conocerá de aquéllos casos relacionados con
 
 Son sujetos de este Capítulo los servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 229.
 
-Los servidores públicos tendrán derecho a que se les otorgue una licencia de paternidad con goce de sueldo, por el periodo de diez días naturales, contados a partir del día de nacimiento del infante.
+Los servidores públicos tendrán derecho a que se les otorgue una licencia de paternidad con goce de sueldo, por el periodo de noventa días naturales a partir del nacimiento o adopción del infante.
+
+Las licencias por adopción se regirán por lo dispuesto en el artículo 233 del presente Acuerdo.
+
+En el caso de que el servidor público requiera días previos al nacimiento o adopción, dicha necesidad podrá ser cubierta con una licencia distinta, siguiendo para tal efecto, los trámites que resulten aplicables a cada caso.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 230.
 
-Para efectos del artículo anterior, el servidor público adscrito a cualquier órgano jurisdiccional deberá presentar por escrito ante el titular de su adscripción, la petición respectiva, a la que tendrá que adjuntar el certificado médico de nacimiento del infante, expedido por un centro de salud público o privado que acredite su paternidad, a fin de que el titular expida el aviso de licencia respectivo. Además, en un plazo que no exceda de treinta días naturales, deberá presentar al área de su adscripción, el acta de nacimiento correspondiente; los documentos mencionados quedarán bajo el resguardo del órgano jurisdiccional respectivo.
+Para los casos de alumbramiento, el procedimiento se llevará a cabo conforme a lo siguiente:
+
+I. El servidor público deberá presentar con antelación al parto y por escrito ante la persona titular de su adscripción, la petición respectiva de licencia de paternidad, a la que tendrá que adjuntar el último estudio ginecológico de la persona con quien se gestó el embarazo expedido por un centro de salud público o privado, así como referir la fecha probable de alumbramiento.
+
+Los titulares de los órganos jurisdiccionales y áreas administrativas presentarán su petición ante la Secretaría Ejecutiva del Pleno;
+
+II. El día de inicio del alumbramiento, el servidor público informará ese hecho a su titular o a la Secretaría Ejecutiva del Pleno, según corresponda, por los medios de comunicación disponibles para que, por su conducto o a través de quien designe para tal efecto, se notifique a la Dirección General de Recursos Humanos sobre tal circunstancia. El periodo de noventa días para la licencia de paternidad se contabilizará a partir del mismo día de inicio del proceso de alumbramiento, salvo lo dispuesto en la fracción VI de la presente disposición;
+
+III. El servidor público tendrá quince días naturales para enviar, física o digitalmente y con firma electrónica, a su titular o a la Secretaría Ejecutiva del Pleno, según corresponda, el certificado médico de nacimiento del infante, expedido por un centro de salud público o privado en el que se acredite su paternidad;
+
+IV. Además, en un plazo que no exceda de treinta días naturales, deberá entregar al área de su adscripción o a la Secretaría Ejecutiva del Pleno, según corresponda, el acta de nacimiento correspondiente. Dicho plazo será improrrogable, salvo que exista causa justificada que imposibilite su presentación en dicho plazo;
+
+V. Los documentos mencionados quedarán bajo el resguardo del órgano jurisdiccional, área administrativa de su adscripción o de la Secretaría Ejecutiva del Pleno;
+
+VI. El servidor público podrá optar por gozar de licencia de paternidad a que tenga derecho dentro de los nueve meses posteriores al nacimiento del infante, para lo cual deberá presentar su solicitud acompañada de la documentación con la que cuente en ese momento ante la persona titular de su adscripción o ante la Secretaría Ejecutiva del Pleno, según corresponda, para dar constancia de su paternidad, considerando los tiempos estipulados en las fracciones anteriores;
+
+VII. En cualquier caso, el plazo de noventa días para gozar de la licencia de paternidad correrá de forma ininterrumpida; y
+
+VIII. En caso de no presentar la documentación que acredite el hecho de la paternidad o se compruebe su falsedad, se descontarán del salario los días otorgados y se dará inicio a los procedimientos administrativos sancionadores que correspondan.
 
 ###### Artículo 231.
 
-Los servidores públicos adscritos a las áreas administrativas, deberán presentar la documentación señalada en el artículo anterior, a la Dirección General de Recursos Humanos o a las Administraciones Regionales y Delegaciones Administrativas, en el ámbito de su competencia, a fin de que estas verifiquen los requisitos de procedencia de la licencia de paternidad y resguarden los documentos en el expediente que en ellas obra, según sea el caso.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 232.
 
-Los servidores públicos podrán solicitar ampliación de la licencia de paternidad a que se refiere el artículo 229 de este Acuerdo, en las siguientes circunstancias y períodos:
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)
 
-(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016))
-
-I. En caso de enfermedad grave del infante recién nacido, así como de complicaciones graves de salud que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un periodo de cinco días hábiles continuos;
-
-II. En caso de parto múltiple, la licencia de paternidad podrá extenderse por cinco días hábiles continuos; y
-
-III. En caso de que durante los primeros quince días posteriores al parto, la madre fallezca, el servidor público podrá solicitar una licencia con goce de sueldo, por diez días hábiles adicionales al período correspondiente a su licencia de paternidad, dicha solicitud deberá realizarse por escrito ante el titular de su adscripción, a la cual adjuntará el acta de defunción correspondiente.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 233.
 
-Las servidoras públicas a quienes se conceda la adopción de un infante disfrutarán de una licencia con goce de sueldo por tres meses. En el caso de los servidores públicos que estén en este supuesto, la licencia será de diez días naturales.
+Las personas servidoras públicas a quienes se conceda la adopción de un infante disfrutarán de una licencia con goce de sueldo por noventa días naturales, mismos que podrán ejercer dentro de los nueve meses siguientes, conforme a lo dispuesto en el artículo 230, fracción VI.
+
+(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020
 
 Los periodos de las licencias se computarán a partir de la fecha en que se materialice la decisión en la que se hubiere aprobado o determinado la adopción.
+
+(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020
 
 Idénticas licencias y por los mismos plazos se otorgarán a las madres y padres por gestación subrogada. En este supuesto, los periodos de las licencias se computarán a partir de la fecha de nacimiento, la cual se documentará con los medios idóneos para acreditarlo.
 
@@ -2927,19 +2947,23 @@ Artículo 236 ter. Para efectos del artículo anterior, si los dos padres o tuto
 
 ###### Artículo 237.
 
-Las hipótesis de ampliación de las licencias y permisos regulados por este Capítulo, no serán acumulables en ningún caso, debiendo hacer valer solamente una de ellas en cada solicitud.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 238.
 
-Los servidores públicos podrán solicitar licencia de paternidad solamente una vez por año.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 239.
 
-Podrá concederse licencia con goce de sueldo en términos de este Capítulo, sin importar que implique la extensión previa o posterior del período vacacional. Sin embargo, cuando la licencia por paternidad considere días dentro del período vacacional previamente autorizado por el titular, no podrá ampliarse este último.
+Podrá concederse licencia con goce de sueldo en términos de este Capítulo, sin importar que implique la extensión previa o posterior del período vacacional. Sin embargo, cuando la licencia por paternidad o adopción considere días dentro del período vacacional previamente autorizado por el titular, no podrá ampliarse este último.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 240.
 
-Las licencias que se autoricen por paternidad no serán consideradas para el cómputo a que se refiere el artículo 166 de la Ley Orgánica, y demás correlativos de otras disposiciones aplicables, para el otorgamiento de nuevas licencias.
+Las licencias que se autoricen por paternidad o adopción no serán consideradas para el cómputo a que se refiere el artículo 146 de la Ley Orgánica, y demás correlativos de otras disposiciones aplicables, para el otorgamiento de nuevas licencias.
 
 ###### Artículo 241.
 
@@ -2947,11 +2971,11 @@ Para acreditar los derechos previstos en este Capítulo, quien los ejerza deber�
 
 Los casos no previstos en este Capítulo, serán resueltos por la Comisión de Administración, con base en la Ley del ISSSTE; el Reglamento respectivo; y demás disposiciones aplicables.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 241 Bis.
 
-No se autorizarán sustituciones de servidores públicos que estén disfrutando de licencias de paternidad o por adopción.
+Se autorizarán las sustituciones de personas servidoras públicas que estén disfrutando de licencias de paternidad o por adopción.
 
 # LIBRO TERCERO. RECURSOS MATERIALES
 
@@ -13974,3 +13998,13 @@ TERCERO. El Comité de Evaluación y Seguimiento de las medidas de racionalidad 
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
 
 QUINTO. La creación del Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Consejo de la Judicatura Federal, no generará la creación de nuevas plazas.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil veintiuno.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las solicitudes de licencia que se encuentren en trámite a la entrada en vigor del presente Acuerdo serán atendidas hasta su conclusión de conformidad con las disposiciones con las que fueron iniciadas.
