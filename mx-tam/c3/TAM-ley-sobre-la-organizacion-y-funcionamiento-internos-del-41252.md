@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-08-31"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -919,7 +919,11 @@ e) De Asuntos Patrimoniales y Municipales.
 
 2. A cada Sección corresponderán las Comisiones y Comités afines a su nomenclatura que acuerde la Junta de Coordinación Política al inicio de la Legislatura.
 
-### CAPITULO SEPTIMO. DE LA ORGANIZACION TECNICA Y ADMINISTRATIVA
+### CAPÍTULO SEXTO BIS
+
+DE LOS ASUNTOS QUE PASAN DE UNA LEGISLATURA A OTRA.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 53.
 
@@ -985,13 +989,47 @@ e) De Asuntos Patrimoniales y Municipales.
 
 Para el desempeño de sus atribuciones, la Diputación Permanente aplicará en lo conducente, las normas relativas al funcionamiento interno del Congreso previstas en esta ley, tanto en tratándose de la atención de los asuntos en comisiones o en el Pleno.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO SEPTIMO. DE LA ORGANIZACION TECNICA Y ADMINISTRATIVA
+
+#### SECCIÓN PRIMERA. DE LAS INICIATIVAS Y MINUTAS
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 58 BIS.
+
+1. Las iniciativas cuyo plazo para ser dictaminadas y/o resueltas haya vencido y que no fueron procesadas durante la legislatura saliente, de conformidad con los artículos 89 y 184, quedarán bajo resguardo de la Unidad de Servicios Parlamentarios hasta el término del primer periodo Ordinario del Segundo año de ejercicio de la legislatura entrante.
+
+2. La Unidad de Servicios Parlamentarios al finalizar la legislatura saliente, publicará el listado respectivo en la Gaceta; así como, en un micrositio del Congreso del Estado.
+
+3. La Diputada o Diputado electo para un periodo consecutivo que haya sido iniciante en la legislatura anterior; los Grupos Parlamentarios a través de su Coordinador o Coordinadora; o la Junta directiva de las comisiones ordinarias en ejercicio podrán solicitar a la Presidencia de la Mesa Directiva que se turne una o varias de las iniciativas que se encuentren en el listado antes referido. Estas iniciativas serán turnadas a las comisiones correspondientes y serán procesadas en términos de la presente ley.
+
+4. Las iniciativas que no fuesen solicitadas para ser turnadas a la o las comisiones correspondientes durante el Primer Periodo Ordinario del Segundo Año de Ejercicio de la legislatura entrante, se tendrán por desechadas y se archivarán como asuntos total y definitivamente concluidos.
+
+5. Las minutas cuyo plazo para ser dictaminadas y/o resueltas haya vencido, que no fueron procesadas durante la legislatura o que tengan una antigüedad mayor a dos legislaturas, se integrarán en un listado elaborado por la Mesa Directiva, que será hecho del conocimiento del Pleno y comunicado respecto a su desahogo en términos de la presente ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 58 TER.
+
+1. La Unidad de Servicios Parlamentarios al finalizar la legislatura, elaborará un listado con las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente, el cual será remitido a la Mesa Directiva de la legislatura entrante para su publicación en la Gaceta.
+
+2. Las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente, que sean recibidas por la legislatura entrante, serán turnadas a las comisiones correspondientes una vez que hayan sido instaladas, para efecto de que sean procesadas en los términos parlamentarios.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS DICTÁMENES EN PODER DE LA MESA DIRECTIVA
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 58 QUATER.
+
+1. Los dictámenes de iniciativas, minutas y puntos de acuerdo que se encuentren en poder de la Mesa Directiva, serán devueltos a las Comisiones correspondientes en calidad de proyectos. Las Comisiones, deberán elaborar un acuerdo dentro del primer mes de sus trabajos a partir de su instalación, donde señalen, qué proyectos serán desechados y cuáles serán procesados para su nueva discusión.
+
+2. En caso de que un proyecto de dictamen corresponda a comisiones unidas, la Comisión que encabeza el turno será la encargada de realizar el acuerdo señalado en el párrafo anterior.
+
 ### CAPITULO PRIMERO. DE LOS DIPUTADOS Y EL COMPORTAMIENTO PARLAMENTARIO
-
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
-
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION GENERAL DE LA REPUBLICA
-
-### CAPITULO SEGUNDO. DE LAS SESIONES
 
 ###### ARTICULO 59.
 
@@ -1353,7 +1391,7 @@ c) Gestionar ante la Junta de Coordinación Política la asignación del presupu
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
-### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS
+### CAPITULO SEGUNDO. DE LAS SESIONES
 
 ###### ARTICULO 67.
 
@@ -1563,7 +1601,7 @@ e) Sobrevenga la muerte del representante popular.
 
 4. De acuerdo con la disponibilidad presupuestal, durante el desempeño de su encargo, los diputados podrán gozar de un seguro de vida y de un seguro de gastos médicos mayores en los términos previstos por el presupuesto anual de egresos.
 
-### CAPITULO CUARTO. DE LA DISPENSA DE LAS FASES DE LOS PROCEDIMIENTOS
+### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS
 
 ###### ARTICULO 76.
 
@@ -1725,11 +1763,11 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 3. Si por falta de quórum no pudiere verificarse la sesión, el presidente de la Mesa Directiva está facultado para utilizar los medios que juzgue convenientes a fin de que los diputados concurran a ella.
 
+### CAPITULO CUARTO. DE LA DISPENSA DE LAS FASES DE LOS PROCEDIMIENTOS
+
 ### CAPITULO QUINTO. DEL CEREMONIAL
 
-### CAPITULO SEXTO. DE LAS GALERIAS
-
-#### SECCION TERCERA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### ARTICULO 86.
 
@@ -1743,11 +1781,7 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 4. La información inherente al desarrollo de los procedimientos previstos en el presente capítulo se dará a conocer a los integrantes del Pleno a través de medios o vías de comunicación electrónica, o en forma impresa.
 
-#### SECCION CUARTA. DEL PROCEDIMIENTO LEGISLATIVO ORDINARIO
-
-APARTADO A
-
-DEL DERECHO DE INICIATIVA
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION GENERAL DE LA REPUBLICA
 
 ###### ARTICULO 87.
 
@@ -1771,7 +1805,7 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 7. Independientemente del sentido de la determinación del Pleno en torno a cada minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, cuando el Congreso de la Unión o la Comisión Permanente del mismo realicen el cómputo y la declaración a que se refiere el párrafo 2 del artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, el presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, comunicará a los Poderes Ejecutivo y Judicial, al Instituto Estatal Electoral, al Tribunal Estatal Electoral, a la Comisión de Derechos Humanos del Estado y a los Ayuntamientos del mismo, la emisión de la declaración de haber sido aprobada la adición o reforma correspondiente.
 
-#### SECCION QUINTA. DEL PROCEDIMIENTO PRESUPUESTARIO
+#### SECCION TERCERA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
 
 ###### ARTICULO 89.
 
@@ -1803,7 +1837,11 @@ En tratándose de dictámenes sobre iniciativas de reforma y adición a la Const
 
 2. Independientemente de lo dispuesto en el párrafo anterior, el presidente de la Mesa Directiva comunicará al Poder Judicial del Estado, a los entes públicos con autonomía de los Poderes del Estado y a los Ayuntamientos del mismo el decreto de reformas y adiciones a la Constitución Política del Estado.
 
-#### SECCION SEXTA. DEL PROCEDIMIENTO DE COMPARECENCIAS
+#### SECCION CUARTA. DEL PROCEDIMIENTO LEGISLATIVO ORDINARIO
+
+APARTADO A
+
+DEL DERECHO DE INICIATIVA
 
 ###### ARTICULO 93.
 
@@ -2181,7 +2219,7 @@ DE LAS OBSERVACIONES DEL EJECUTIVO
 
 Cuando se formulen observaciones en parte a las disposiciones aprobadas por el Congreso para una ley o decreto, en tanto éstas se encuentran dentro del plazo previsto para la nueva discusión, el Presidente de la Mesa Directiva o de la Diputación Permanente podrá plantear al Ejecutivo del Estado su promulgación, publicación y circulación en todo aquello que no fuese observado, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
 
-#### SECCION SEPTIMA. DEL PROCEDIMIENTO DE NOMBRAMIENTOS
+#### SECCION QUINTA. DEL PROCEDIMIENTO PRESUPUESTARIO
 
 ###### ARTICULO 124.
 
@@ -2227,7 +2265,7 @@ En todo caso, con motivo del proceso presupuestario imperará el principio de eq
 
 Para la formulación, presentación, discusión y votación de los dictámenes sobre la revisión y calificación de las cuentas públicas se aplicarán, en lo conducente, las previsiones sobre el funcionamiento de las comisiones y en torno al procedimiento legislativo ordinario.
 
-#### SECCION OCTAVA. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+#### SECCION SEXTA. DEL PROCEDIMIENTO DE COMPARECENCIAS
 
 ###### ARTICULO 130.
 
@@ -2285,7 +2323,7 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 5. El Presidente de la Mesa Directiva o de la Diputación Permanente, previo a la discusión del dictamen, consultará al Pleno Legislativo o a la Diputación Permanente si el desahogo de éste se realiza en forma reservada.
 
-#### SECCION NOVENA. DEL PROCEDIMIENTO DE OTORGAMIENTO Y ENTREGA DE LA MEDALLA AL MERITO "LUIS GARCIA DE ARELLANO"
+#### SECCION SEPTIMA. DEL PROCEDIMIENTO DE NOMBRAMIENTOS
 
 ###### ARTICULO 133.
 
@@ -2427,7 +2465,7 @@ f) El dictamen final a que hace referencia el inciso que antecede, será sometid
 
 Cuando el Pleno apruebe dictámenes relacionados con el nombramiento de servidores públicos comprendidos en el párrafo 1 del artículo 133, en la sesión de que se trate o en la más próxima, se le invitará a que rinda protesta constitucional para el inicio de su encargo.
 
-#### SECCION DECIMA. DE LAS PROPUESTAS QUE NO CONSTITUYAN INICIATIVA
+#### SECCION OCTAVA. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTICULO 136.
 
@@ -2489,6 +2527,8 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 5. La determinación que adopte el Pleno será notificada personalmente al denunciado y al denunciante. En caso de resolverse la procedencia de la responsabilidad administrativa, se establecerá la sanción aplicable, conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
+#### SECCION NOVENA. DEL PROCEDIMIENTO DE OTORGAMIENTO Y ENTREGA DE LA MEDALLA AL MERITO "LUIS GARCIA DE ARELLANO"
+
 ###### ARTICULO 141.
 
 1. La Medalla al Mérito "Luis García de Arellano" es la presea instituida por el Congreso del Estado para honrar a las mujeres y hombres tamaulipecos que se hayan distinguido por sus servicios eminentes prestados al Estado, a la Patria o a la Humanidad.
@@ -2537,6 +2577,8 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 5. Durante la sesión solemne, el homenajeado ocupará un lugar en el presidium del Salón de Sesiones, colocándose a la izquierda del titular del Ejecutivo del Estado.
 
+#### SECCION DECIMA. DE LAS PROPUESTAS QUE NO CONSTITUYAN INICIATIVA
+
 ###### ARTICULO 147.
 
 1. Las propuestas que no constituyan iniciativa de ley, de decreto o de acuerdo, que presenten uno o más miembros del Pleno, se sujetarán al siguiente procedimiento:
@@ -2551,7 +2593,7 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 2. Estas propuestas se presentarán invariablemente en el apartado de asuntos generales del orden del día.
 
-### CAPITULO SEPTIMO. DEL REGISTRO DE LOS ACTOS DEL CONGRESO
+### CAPITULO SEXTO. DE LAS GALERIAS
 
 ###### ARTICULO 148.
 
@@ -2565,9 +2607,7 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 5. En caso de ser aprobada la dispensa del turno a comisiones de una iniciativa o proposición, si ésta ya hubiese sido leída se continuará con su puesta a discusión y subsiguiente votación; pero si no hubiese sido leída, el presidente de la Mesa Directiva dispondrá su lectura íntegra y, posteriormente, se procederá a su discusión y votación.
 
-### CAPÍTULO OCTAVO. DEL PARLAMENTO ABIERTO
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
+### CAPITULO SEPTIMO. DEL REGISTRO DE LOS ACTOS DEL CONGRESO
 
 ###### ARTICULO 149.
 
@@ -2646,6 +2686,10 @@ Cuando a invitación expresa de la Legislatura, el Gobernador del Estado, el Pre
 "Siendo las (horas) del (fecha) la (número ordinal) Legislatura del Congreso del Estado Libre y Soberano de Tamaulipas, clausura su (número ordinal del período) correspondiente al (primer segundo o tercer del año) de su ejercicio constitucional".
 
 5. El Presidente de la Mesa Directiva dispondrá la expedición del Decreto correspondiente.
+
+### CAPÍTULO OCTAVO. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 158.
 
@@ -3452,3 +3496,11 @@ P.O. 31 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-848 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO SEXTO BIS DENOMINADO "DE LOS ASUNTOS QUE PASAN DE UNA LEGISLATURA A OTRA" AL TÍTULO SEGUNDO DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición.
