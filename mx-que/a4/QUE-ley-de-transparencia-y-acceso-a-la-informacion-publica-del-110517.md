@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1105
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2021-08-27"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado, el viernes 13 de noviembre de 2015.
 
@@ -53,7 +55,9 @@ Esta Ley tiene por objeto establecer los principios, bases generales y procedimi
 
 I. Establecer:
 
-a) La competencia del Organismo garante del Estado en materia de transparencia y acceso a la información.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) La competencia de la Comisión en materia de transparencia y acceso a la información.
 
 b) Los procedimientos para garantizar el ejercicio del derecho de acceso a la información.
 
@@ -65,7 +69,9 @@ II. Regular:
 
 a) El medio de impugnación con que cuentan los solicitantes de información.
 
-b) La organización y funcionamiento del Organismo garante del Estado y de las unidades de información de los sujetos obligados.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+b) La organización y funcionamiento de la Comisión y de las unidades de transparencia de los sujetos obligados.
 
 III. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la información, así como la rendición de cuentas; y
 
@@ -79,9 +85,9 @@ I. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas a lo
 
 II. Áreas: Unidades administrativas de los sujetos obligados que cuentan o puedan contar con la información;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III. Comisión: Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro a la que hace referencia el artículo 26 de esta Ley;
+III. Comisión: Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro;
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
 
@@ -89,7 +95,9 @@ III. Bis. Comisionado: Cada uno de los integrantes de la Comisión garante del E
 
 IV. Comité de Transparencia: Instancia a la que hace referencia el artículo 42 de la presente Ley;
 
-V. Consejo: Consejo del Sistema Estatal de Transparencia y Acceso a la Información;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. Consejo: Consejo del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales al que hace referencia la Ley General de Transparencia y Acceso a la Información Pública;
 
 VI. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea, que pueden ser usados por cualquier interesado y que tienen las características siguientes:
 
@@ -129,7 +137,9 @@ XII. Formatos Accesibles: Cualquier medio o forma alternativa que dé acceso a l
 
 XIII. Información: La contenida en los documentos y expedientes que los sujetos obligados generen, obtengan, adquieran, transformen o conserven por cualquier título, que será de los siguientes tipos:
 
-a) Confidencial: La relativa a las personas y sus datos personales y protegida por el derecho fundamental de la privacidad contemplado en la legislación aplicable en el territorio del Estado, particularmente en los artículos 43 al 47 del Código Civil del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) Confidencial: La relativa a las personas y sus datos personales y protegida por el derecho fundamental de la privacidad contemplado en la legislación aplicable en el territorio del Estado.
 
 b) De interés público: Aquella que resulta relevante o beneficiosa para la sociedad, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados.
 
@@ -137,13 +147,19 @@ c) Pública: Todo registro o dato contenido en documentos que haya sido creado u
 
 d) Reservada: Aquella que se encuentra temporalmente sujeta a alguna de las excepciones previstas en la presente ley por razones de interés público.
 
-XIV. Servidores Públicos: Los señalados en el artículo 2 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XV. Sistema Estatal: Sistema Estatal de Transparencia y Acceso a la Información;
+XIV. Servidores Públicos: Los que así considere la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
-XVI. Sistema Nacional: Sistema Nacional de Transparencia y Acceso a la Información;
+XV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-XVII. Superior jerárquico: los definidos en el artículo 5 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Superior jerárquico: el servidor público que ostente el cargo inmediato superior respecto del servidor público que deba cumplir con las obligaciones en los términos de esta Ley;
 
 XVIII. Titular de la dependencia: Los secretarios, directores generales o sus equivalentes que definan las leyes orgánicas y los reglamentos internos de los sujetos obligados como primer responsable de la dependencia;
 
@@ -209,9 +225,13 @@ III. Cuando exista impedimento para ello, por tratarse de información clasifica
 
 Está prohibida toda discriminación que menoscabe o anule la transparencia o acceso a la información pública en posesión de los sujetos obligados.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-Para efectos de la presente Ley, los términos de todas las notificaciones previstas en la misma, empezaran a correr al día siguiente al que se practiquen y cuando los plazos fijados sean en días, estos se entenderán como hábiles.
+Para efectos de la presente Ley, las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueron realizadas.
+
+Cuando la presente Ley, señale plazos fijados en días, estos se entenderán como días hábiles.
 
 ### Capítulo Segundo. De los principios generales
 
@@ -331,65 +351,49 @@ En el caso de los fideicomisos y fondos públicos que no cuenten con estructura 
 
 ## Título Segundo. De los responsables en materia de transparencia y acceso a la información
 
-### Capítulo Primero. Del Sistema Estatal de Transparencia y Acceso a la Información Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo Primero. Del Sistema de Transparencia y Acceso a la información Pública en el Estado de Querétaro
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-El Sistema Estatal de Trasparencia y Acceso a la Información Pública, tiene como finalidad coordinar y evaluar las acciones relativas a la política pública de transparencia y acceso a la información, se integra por la Comisión y las Unidades de Transparencia de los sujetos obligados.
+El acceso a la Información Pública y los mecanismos de Transparencia en el Estado de Querétaro, estarán sujetos a lo previsto en la Ley General de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 20.
 
-El Sistema Estatal tiene como funciones:
-
-I. Establecer lineamientos, instrumentos, objetivos, indicadores, metas, estrategias, y políticas tendientes a cumplir con los objetivos de la presente Ley;
-
-II. Promover e implementar acciones para garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de condiciones, el derecho de acceso a la información;
-
-III. Establecer los criterios para la publicación de los indicadores que permitan a los sujetos obligados rendir cuentas del cumplimiento de sus objetivos y resultados obtenidos;
-
-IV. Promover la participación ciudadana a través de mecanismos eficaces en la planeación, implementación y evaluación de políticas en la materia;
-
-V. Establecer acciones de profesionalización, actualización y capacitación de los servidores públicos de los sujetos obligados en materia de transparencia y acceso a la información pública;
-
-VI. Promover la coordinación efectiva de las instancias que integran el Sistema Estatal y dar seguimiento a las acciones para el efecto se (sic) establecidas; y
-
-VII. Las demás que se desprendan de la ley.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 21.
 
-Para el funcionamiento del Sistema Estatal se conformará un Consejo, conformado por los integrantes de la Comisión Estatal y los titulares de las Unidades de Transparencia. Será presidido por el Presidente de la Comisión.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 22.
 
-El Consejo se reunirá por lo menos cada seis meses a convocatoria de su Presidente o la mitad más uno de sus integrantes; la convocatoria deberá establecer la agenda de los asuntos a tratar.
-
-El quórum para las reuniones del Consejo se hará con la asistencia de la mitad más uno de sus integrantes. Los acuerdos se tomaran por la mayoría de los presentes.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 23.
 
-El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las personas o instituciones especializadas en la materia a tratar.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 24.
 
-El Consejo del Sistema Estatal contará con un Secretario Técnico que contará con las atribuciones siguientes:
-
-I. Colaborar con el Presidente en la emisión y difusión de la convocatoria de sesión al Consejo;
-
-II. Levantar las actas de las sesiones del Consejo;
-
-III. Dar seguimiento a los acuerdos y resoluciones del Consejo; y
-
-IV. Las demás que determine el Consejo del Sistema Estatal.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 25.
 
-Los miembros del Consejo podrán formular propuestas de acuerdos o reglamentos internos que permitan el mejor funcionamiento del Sistema Estatal.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-### Capítulo Segundo. De la Comisión Estatal de Información Gubernamental
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo Segundo. De la Comisión de Transparencia, Acceso a la información Pública y Protección de Datos Personales del Estado de Querétaro
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 26.
 
-La Comisión Estatal de Información Gubernamental es un organismo constitucional autónomo, especializado, independiente, imparcial dotado de personalidad jurídica y patrimonio propios, con autonomía técnica, de gestión y operación, capacidad para decidir sobre el ejercicio de su presupuesto y para determinar su organización interna, responsable de garantizar el ejercicio del derecho de acceso a la información pública, conforme a los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos y en esta Ley.
+La Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, es un organismo constitucional autónomo, especializado, independiente, imparcial dotado de personalidad jurídica y patrimonio propios, con autonomía técnica, de gestión y operación, capacidad para decidir sobre el ejercicio de su presupuesto y para determinar su organización interna, responsable de garantizar el ejercicio de los derechos de acceso a la información pública y protección de datos personales, conforme a los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos, y en esta Ley.
 
 ###### Artículo 27.
 
@@ -501,15 +505,23 @@ Son facultades del Presidente de la Comisión:
 
 I. Representar legalmente a la Comisión y otorgar poderes para pleitos y cobranzas;
 
-II. Elaborar el proyecto de presupuesto anual y administrar los recursos aprobados y el patrimonio de la Comisión;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III. Nombrar a los servidores públicos de la Comisión;
+II. Proponer al Pleno de la Comisión el proyecto de presupuesto anual, y dar seguimiento al ejercicio del mismo;
 
-IV. Fijar la postura institucional de la Comisión ante otros organismos y con la sociedad, en su caso;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-V. Aplicar las medidas y sanciones disciplinarias a los integrantes de la Comisión que determine el Pleno en su caso; y
+III. Designar a los servidores públicos de la Comisión;
 
-VI. Las demás facultades y obligaciones que establezca la normatividad interna de la Comisión.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Fijar la postura institucional de la Comisión ante otros organismos y con la sociedad, en su caso; y
+
+V. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Las demás que establezcan las disposiciones legales y administrativas.
 
 ###### Artículo 35.
 
@@ -705,33 +717,31 @@ Las Unidades de Transparencia emitirán lineamientos o normas, que deberán cump
 
 Cuando alguna dependencia, entidad o unidad administrativa de los sujetos obligados se negare a atender en tiempo la solicitud que le envíe la Unidad de Transparencia, esta le requerirá al servidor público que corresponda que acate sin demora la solicitud de información.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 50.
 
-Cuando persista el incumplimiento en la entrega de la información, a pesar del aviso respectivo, la Unidad de Transparencia procederá a dar vista al órgano interno de control del sujeto obligado, para que determinen la aplicación de las sanciones que en el marco estricto de su función les corresponda, conforme a lo dispuesto en la presente Ley y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+Cuando persista el incumplimiento en la entrega de la información, a pesar del aviso respectivo, la Unidad de Transparencia procederá a dar vista al órgano interno de control del sujeto obligado, para que determinen la aplicación de las sanciones que en el marco estricto de su función les corresponda, conforme a lo dispuesto en la presente Ley y en la Ley de Responsabilidades Administrativas del Estado de Querétaro.
 
-## Título Tercero. De la Plataforma Electrónica Estatal Homologada de Transparencia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-### Capítulo Único. De la Plataforma Estatal de Transparencia
+## Título Tercero. De la Plataforma de Transparencia
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo Único. De la Plataforma de Transparencia
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-La Comisión desarrollará, administrará, implementará y pondrá en funcionamiento la plataforma electrónica homologada que permitirá cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente ley para los sujetos obligados con el fin de estandarizar los procesos y la simplicidad del uso, de conformidad con la normatividad que establezca el Sistema Nacional, la cual estará incorporada a la Plataforma Nacional de Transparencia.
+La Comisión promoverá que los sujetos obligados cumplan con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley, de conformidad con la normatividad que establezca el Sistema Nacional. Asimismo, promoverá la publicación de la información de Datos abiertos y Accesibles.
 
-Así también, se promoverá la publicación de la información de Datos abiertos y Accesibles.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 52.
 
-La Plataforma Estatal Homologada de Transparencia estará conformada por, al menos, los siguientes sistemas:
-
-I. Sistema de solicitudes de acceso a la información;
-
-II. Sistema de gestión de medios de impugnación;
-
-III. Sistema de portales de obligaciones de transparencia; y
-
-IV. Sistema de comunicación entre la Comisión y los sujetos obligados.
+La publicación de la información de los sujetos obligados en los términos de la presente Ley, se llevará a cabo conforme a lo señalado en el Capítulo Único del Título Tercero de la Ley General de Transparencia y Acceso a la Información Pública.
 
 ## Título Cuarto. De la cultura de transparencia y apertura gubernamental
 
@@ -1167,9 +1177,11 @@ XII. Los programas y las acciones de coordinación con las dependencias competen
 
 XIII. Los lineamientos generales de la actuación y recomendaciones emitidas por el Consejo Consultivo;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 72.
 
-Además de lo señalado en el artículo 66 de la presente ley, la Comisión Estatal de Información Gubernamental deberá poner a disposición del público y actualizar la siguiente información:
+Además de lo señalado en el artículo 66 de la presente ley, la Comisión deberá poner a disposición del público y actualizar la siguiente información:
 
 I. La relación de observaciones y resoluciones emitidas y el seguimiento a cada una de ellas, incluyendo las respuestas entregadas por los sujetos obligados a los solicitantes en cumplimiento de las resoluciones;
 
@@ -1460,6 +1472,10 @@ V. Ejecución de la resolución.
 ###### Artículo 89.
 
 La Comisión deberá resolver sobre la admisión de la denuncia, dentro de los tres días hábiles siguientes a su recepción y deberá notificarla al sujeto obligado dentro de los tres días siguientes a su admisión.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Si el escrito de interposición de la denuncia no cumple con alguno de los requisitos establecidos en el artículo 86 de la presente Ley, la Comisión prevendrá al recurrente, por una sola ocasión y a través del medio que haya elegido para recibir notificaciones, con el objeto de que subsane las omisiones dentro de un plazo que no podrá exceder de cinco días hábiles, contados a partir del día siguiente de la notificación de la prevención, con el apercibimiento de que, de no cumplir, se desechará la denuncia.
 
 ###### Artículo 90.
 
@@ -1783,9 +1799,13 @@ La respuesta a la solicitud deberá ser notificada al interesado en el plazo má
 
 Dicho plazo podrá ampliarse hasta por diez días hábiles más, siempre y cuando existan razones fundadas y motivadas, las cuales deberán ser aprobadas por la Unidad de Transparencia, debiendo notificarse al solicitante, antes de su vencimiento.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 131.
 
-El acceso se dará en la modalidad de entrega elegido por el solicitante. Cuando la información no pueda entregarse, el sujeto obligado deberá realizarse en el formato que sea generada y resguardada la información de manera fundada y motivada.
+El acceso se dará en la modalidad de entrega y, en su caso, de envío elegidos por el solicitante. Cuando la información no pueda entregarse o enviarse en la modalidad elegida, el sujeto obligado deberá ofrecer otra u otras modalidades de entrega.
+
+En cualquier caso, se deberá fundar y motivar la necesidad de ofrecer otras modalidades.
 
 ###### Artículo 132.
 
@@ -1959,11 +1979,15 @@ II. Necesidad: La falta de un medio alternativo menos lesivo a la apertura de la
 
 III. Proporcionalidad: El equilibrio entre perjuicio y beneficio a favor del interés público, a fin de que la decisión tomada represente un beneficio mayor al perjuicio que podría causar a la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 148.
 
-Los Organismos garantes resolverán el recurso de revisión conforme a lo siguiente:
+La Comisión resolverá el recurso de revisión conforme a lo siguiente:
 
-I. Interpuesto el recurso de revisión, el Presidente del organismo garante lo turnará al Comisionado ponente que corresponda, quien deberá proceder a su análisis para que decrete su admisión o su desechamiento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Interpuesto el recurso de revisión, se turnará al Comisionado ponente que corresponda, en los términos que establezca el reglamento interior de la Comisión, quien deberá proceder a su análisis para que decrete su admisión o su desechamiento;
 
 II. Admitido el recurso de revisión, el Comisionado ponente deberá integrar un Expediente y ponerlo a disposición de las partes, para que, en un plazo máximo de siete días, manifiesten lo que a su derecho convenga y se requerirá al sujeto obligado a que rinda un informe justificado en el plazo máximo de diez días hábiles;
 
@@ -2065,6 +2089,14 @@ La presentación, sustanciación y resolución del recurso de inconformidad a qu
 
 Los sujetos obligados darán estricto cumplimiento a las resoluciones de la Comisión en el plazo de diez días hábiles y deberán informar a esta sobre su cumplimiento a través de la Unidad de Transparencia.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Excepcionalmente, considerando las circunstancias especiales del caso, los sujetos obligados podrán solicitar a la Comisión, de manera fundada y motivada, una ampliación del plazo para el cumplimiento de la resolución.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Dicha solicitud deberá presentarse, a más tardar, dentro de los primeros tres días del plazo otorgado para el cumplimiento, a efecto de que la Comisión resuelva sobre la procedencia de la misma dentro de los cinco días siguientes.
+
 ###### Artículo 158.
 
 Recibido el informe del cumplimiento, la Comisión dará vista al recurrente para que, dentro de los cinco días siguientes, manifieste lo que a su derecho convenga. Si dentro del plazo señalado el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por la Comisión, deberá expresar las causas específicas por las cuales así lo considera, hecho lo cual la Comisión dará vista al sujeto obligado para que en el plazo de tres días hábiles rinda el informe que corresponda.
@@ -2109,7 +2141,9 @@ Transcurrido el plazo, sin que se haya dado cumplimiento, se determinaran las sa
 
 Las medidas de apremio a que se refiere el presente Capítulo, deberán ser impuestas y ejecutadas por la Comisión, con el apoyo de los órganos internos de control.
 
-Las multas que fije la Comisión se harán efectivas ante la Secretaría de Planeación y Finanzas del Poder Ejecutivo.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las multas que fije la Comisión se harán efectivas por la Secretaría de Finanzas del Poder Ejecutivo del Estado.
 
 ### Capítulo Segundo. De las sanciones
 
@@ -2151,9 +2185,11 @@ Para determinar el monto, la autoridad que imponga la sanción deberá tomar en 
 
 Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 165.
 
-Las conductas a que se refiere el artículo anterior serán sancionadas por los órganos de control interno en términos de la Ley de Responsabilidades de los Servidores Públicos.
+Las conductas a que se refiere el artículo anterior serán sancionadas por los órganos de control interno en términos de la Ley de Responsabilidades Administrativas del Estado de Querétaro.
 
 ###### Artículo 166.
 
@@ -2189,9 +2225,11 @@ Una vez analizadas las pruebas y demás elementos de convicción, la Comisión r
 
 Cuando haya causa justificada por acuerdo indelegable del Pleno de la Comisión, podrá ampliar por una sola vez y hasta por un periodo igual el plazo de resolución.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 171.
 
-La Comisión aplicará de manera supletoria la Ley de Procedimientos Administrativos del Estado de Querétaro y la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro para desahogar el procedimiento sancionatorio previsto en esta Ley.
+Se aplicará de manera supletoria en todo lo que no se oponga a la presente Ley, la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 ###### Artículo 172.
 
@@ -2318,3 +2356,87 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
