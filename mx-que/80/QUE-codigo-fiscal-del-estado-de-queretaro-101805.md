@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-101805"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-21"
-last_updated: "2019-12-22"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "QUE"
 ---
 # CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE ELTEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -67,7 +67,9 @@ V. La Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétar
 
 VI. Las demás leyes que contengan disposiciones de carácter hacendario.
 
-La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Poder Ejecutivo del Estado por conducto de la Secretaría de Planeación y Finanzas y demás autoridades administrativas que prevengan las leyes.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Poder Ejecutivo del Estado por conducto de la Secretaría de Finanzas y demás autoridades administrativas que prevengan las leyes.
 
 ###### Artículo 3.
 
@@ -103,7 +105,9 @@ Son autoridades fiscales del Estado:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. El Secretario de Finanzas;
 
 III. El Procurador Fiscal;
 
@@ -115,13 +119,17 @@ VI. Los titulares de las dependencias encargadas de las finanzas públicas de lo
 
 VII. El Director de Ingresos o el titular de la unidad administrativa encargada de la recaudación de los ingresos, así como los funcionarios que mediante acuerdo autorice el titular de la dependencia encargada de las finanzas públicas municipales; y
 
-VIII. Las demás que la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y el Reglamento Interior de la Secretaría de Planeación y Finanzas señalen.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Las demás que la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y el Reglamento Interior de la Secretaría de Finanzas señalen.
 
 Las autoridades señaladas en este artículo, se considerarán autoridades fiscales estatales o municipales en el ejercicio de las facultades que se establezcan en los convenios que celebren el Estado y los Municipios, y sólo procederán los recursos y medios de defensa que establecen las leyes fiscales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-La administración y recaudación de las contribuciones que establezca la Ley de Ingresos será competencia de la Secretaría de Planeación y Finanzas, sus dependencias y órganos auxiliares.
+La administración y recaudación de las contribuciones que establezca la Ley de Ingresos será competencia de la Secretaría de Finanzas, sus dependencias y órganos auxiliares.
 
 Para lograr un mejor y más exacto cumplimiento de las disposiciones de carácter fiscal se considerará como auxiliares de las dependencias receptoras a todas las autoridades del Estado, ya sean judiciales o administrativas.
 
@@ -481,7 +489,9 @@ La determinación de los créditos fiscales y de las bases para su liquidación,
 
 Las autoridades fiscales tendrán las funciones que en relación con las diversas materias tributarias determinen las leyes y reglamentos.
 
-La recaudación proveniente de todos los ingresos del Estado, aun cuando se destinen a un fin específico, se hará por la Secretaría de Planeación y Finanzas, a través de la Dirección de Ingresos o por las autoridades que dicha dependencia determine expresamente.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La recaudación proveniente de todos los ingresos del Estado, aun y cuando se destinen a un fin específico, se hará por la Secretaría de Finanzas, a través de la Dirección de Ingresos o por las autoridades que dicha dependencia determine expresamente.
 
 ###### Artículo 40.
 
@@ -551,9 +561,9 @@ En el caso de aprovechamientos, los recargos se calcularán de conformidad con l
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la autoridad recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El Secretario de Planeación y Finanzas, podrá reducir hasta en un cincuenta por ciento el importe de los recargos que se hubiesen generado a cargo de los contribuyentes por la falta del pago oportuno de sus contribuciones.
+El Secretario de Finanzas, podrá reducir hasta en un cincuenta por ciento el importe de los recargos que se hubiesen generado a cargo de los contribuyentes por la falta de pago oportuno de sus contribuciones.
 
 ###### Artículo 45.
 
@@ -605,15 +615,19 @@ Se consideran insolventes los deudores o los responsables solidarios cuando no t
 
 Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
 
-La Secretaría de Planeación y Finanzas dará a conocer las reglas de carácter general para la aplicación de este artículo.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría de Finanzas dará a conocer las reglas de carácter general para la aplicación de este artículo.
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 #### Sección Cuarta. Otros Medios de Extinción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 50.
 
-El titular del Poder Ejecutivo del Estado, por sí o a través de la Secretaría de Planeación y Finanzas, mediante resoluciones de carácter general podrá:
+El titular del Poder Ejecutivo del Estado, por sí o a través de la Secretaría de Finanzas, mediante resoluciones de carácter general podrá:
 
 I. Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias;
 
@@ -769,7 +783,9 @@ XIV. Las demás que dispongan las leyes de la materia.
 
 Las personas que ejerzan patria potestad, tutela, desempeñen el cargo de albacea, así como sus legítimos representantes, sea cual fuere el nombre con que se les designe, efectúen actividades en el Estado de contribuyentes domiciliados fuera de él, deberán cumplir con las obligaciones, señaladas en el presente artículo, que correspondan a sus representados.
 
-Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión, escisión o de liquidación de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el registro de contribuyentes de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación, en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Planeación y Finanzas, dentro del mes siguiente a la autorización de la escritura.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se hagan constar actas constitutivas, de fusión, escisión o de liquidación de personas morales que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el registro de contribuyentes de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación, en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Finanzas, dentro del mes siguiente a la autorización de la escritura.
 
 Las personas inscritas en el registro a que se refiere la fracción I de este artículo, deberán conservar la documentación que compruebe el cumplimiento de las disposiciones fiscales.
 
@@ -779,7 +795,9 @@ Tratándose de establecimientos, sucursales, locales, puestos fijos o semifijos,
 
 La solicitud o los avisos a que se refiere este artículo que se presenten en forma extemporánea surtirán sus efectos a partir de la fecha en que sean presentados. Tratándose del aviso de cambio de domicilio fiscal, éste no surtirá efectos cuando en el nuevo domicilio manifestado por el contribuyente no se le localice o cuando dicho domicilio no exista.
 
-La Secretaría de Planeación y Finanzas llevará registros de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que dicha dependencia obtenga por cualquier otro medio.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría de Finanzas llevará registros de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que dicha dependencia obtenga por cualquier otro medio.
 
 ###### Artículo 56.
 
@@ -809,11 +827,13 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Para los efectos de este artículo, una vez que las autoridades fiscales hayan iniciado el ejercicio de sus facultades de comprobación no tendrán efectos las declaraciones complementarias de ejercicios anteriores que presenten los contribuyentes revisados cuando éstas tengan alguna repercusión en el ejercicio que se esté revisando.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 57.
 
-Cuando las solicitudes relacionadas con el cumplimiento de obligaciones fiscales formales, así como los avisos que en los términos de las disposiciones fiscales estén obligados a presentar los contribuyentes, se presenten con errores, omisiones o empleando de manera equivocada las formas oficiales aprobadas por la Secretaría de Planeación y Finanzas, los contribuyentes podrán rectificarlos presentando nuevamente el aviso respectivo dentro de los diez días hábiles siguientes a aquel en que se presentó.
+Cuando las solicitudes relacionadas con el cumplimiento de obligaciones fiscales formales, así como los avisos que en términos de las disposiciones fiscales estén obligados a presentar los contribuyentes, se presenten con errores, omisiones o empleando de manera equivocada las formas oficiales aprobadas por la Secretaría de Finanzas, los contribuyentes podrán rectificarlos presentando nuevamente el aviso respectivo dentro de los diez días hábiles siguientes a aquel en que se presentó.
 
-La Secretaría de Planeación y Finanzas dará a conocer mediante publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, las formas aprobadas para tales efectos.
+La Secretaría de Finanzas dará a conocer mediante publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, las formas aprobadas para tales efectos.
 
 ###### Artículo 58.
 
@@ -1869,7 +1889,9 @@ Si el infractor paga las contribuciones omitidas junto con sus accesorios, despu
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos del segundo y tercer párrafos de este artículo, aplicarán el porcentaje que corresponda en los términos del primer párrafo de este artículo sobre el remanente no pagado de las contribuciones.
 
-El pago de las multas en los términos del segundo y tercer párrafos de este artículo, se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El pago de las multas en los términos del segundo y tercer párrafos de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Finanzas.
 
 También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones indebidos o en cantidad mayor de la que corresponda. En estos casos, las multas se calcularán sobre el monto del beneficio obtenido, lo anterior, sin perjuicio de lo dispuesto en el primer párrafo del artículo 40 de este Código.
 
@@ -1925,13 +1947,15 @@ II. De un 60% hasta un 100% del monto de las contribuciones omitidas o del benef
 
 ### Capítulo Tercero. De los Delitos Fiscales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 106.
 
-Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que la Secretaría de Planeación y Finanzas declare que el fisco del Estado, ha sufrido o pudo sufrir perjuicios y formule querella tratándose de los delitos tipificados en los artículos 117, 118, 122, 123 y 126 de este Código. En los demás casos, bastará la denuncia de los hechos ante el Ministerio Público.
+Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que la Secretaría de Finanzas o la equivalente en los Municipios, declare que el fisco del Estado o Municipal según corresponda, ha sufrido o pudo sufrir perjuicios y formule querella tratándose de los delitos tipificados en los artículos 117, 118, 122, 123 y 126 de este Código. En los demás casos, bastará la denuncia de los hechos ante la Fiscalía General del Estado.
 
-Los procesos por los delitos fiscales a que se refiere el párrafo anterior, serán sobreseídos discrecionalmente en los casos en que la Secretaría de Planeación y Finanzas lo solicite por conducto del Procurador General de Justicia, antes de que el Ministerio Público formule conclusiones.
+Los procesos por los delitos fiscales a que se refiere el párrafo anterior serán sobreseídos discrecionalmente en los casos en que la Secretaría de Finanzas o la equivalente en los Municipios lo solicite por conducto del Fiscal General del Estado, antes de que la Fiscalía formule conclusiones.
 
-Sólo podrá pedirse el sobreseimiento si los procesados pagan las contribuciones omitidas por el hecho imputado, con las sanciones y los recargos respectivos, o bien, cuando a juicio de la propia Secretaría ha quedado garantizado el interés fiscal.
+Sólo podrá pedirse el sobreseimiento si los procesados pagan las contribuciones omitidas por el hecho imputado, con las sanciones y los recargos respectivos, o bien, cuando a juicio de la propia Secretaría de Finanzas o de la equivalente en los Municipios, ha quedado garantizado el interés fiscal
 
 ###### Artículo 107.
 
@@ -1945,11 +1969,13 @@ En los delitos fiscales, la autoridad judicial no impondrá sanción pecuniaria,
 
 En todo lo no previsto en el presente Capítulo serán aplicables las reglas señaladas en la legislación penal para el Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 110.
 
-La acción penal que nazca de los delitos fiscales perseguibles por querella de la Secretaría de Planeación y Finanzas, prescribirá en tres años contados a partir del día en que dicha Secretaría tenga conocimiento del delito y del presunto responsable del mismo. A falta de dicho conocimiento, en cinco años contados a partir de la fecha en que se cometió el delito.
+La acción penal que nazca de los delitos fiscales perseguibles por querella de la Secretaría de Finanzas o de la dependencia municipal competente, prescribirá en tres años contados a partir del día en que dicha Secretaría o la dependencia municipal competente, tengan conocimiento del delito y del presunto responsable del mismo. A falta de dicho conocimiento en cinco años contados a partir de la fecha en que se cometió el delito.
 
-Si el delito fiscal fuere de tracto sucesivo prescribirá en tres años a partir del último acto conocido por la Secretaría de Planeación y Finanzas.
+Si el delito fiscal fuere de tracto sucesivo prescribirá en tres años a partir del último acto conocido por la Secretaría de Finanzas o de la autoridad municipal competente.
 
 ###### Artículo 111.
 
@@ -2005,9 +2031,13 @@ Se impondrá de tres meses a seis años de prisión, a los funcionarios o emplea
 
 Se impondrá de tres a doce años de prisión a quien:
 
-I. Grabe o manufacture sin autorización de la Secretaría de Planeación y Finanzas matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II. Imprima, grabe o troquele sin autorización de la Secretaría de Planeación y Finanzas, placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
+I. Grabe o manufacture sin autorización de la Secretaría de Finanzas matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. Imprima, grabe o troquele sin autorización de la Secretaría de Finanzas, placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
 
 III. Altere placas, tarjetas, comprobantes que acrediten el pago de contribuciones, así como cualquier otro documento u objeto que se utilice como medio de control fiscal; o
 
@@ -2019,15 +2049,19 @@ Esta sanción se aplicará aún cuando el infractor no se haya propuesto obtener
 
 Se impondrá de seis meses a tres años de prisión a quien cometa el delito de uso de placas, tarjetones o medios de control fiscal falsificados a:
 
-I. El particular, funcionario o empleado público que, a sabiendas de que fueron impresos o grabados sin autorización de la Secretaría de Planeación y Finanzas, los posea, venda, ponga en circulación o, en su caso, los utilice para ostentar el pago de alguna contribución;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. El particular o empleado público que, a sabiendas de que fueron impresos o grabados sin autorización de la Secretaría de Finanzas, los posea, venda, ponga en circulación o, en su caso, los utilice para ostentar el pago de alguna contribución;
 
 II. El particular o empleado público que los posea, venda, ponga en circulación o los utilice para ostentar el pago de alguna contribución fiscal, estando alteradas sus características a sabiendas de esta circunstancia; o
 
 III. Quien venda, ponga en circulación o en alguna otra forma comercie con dicho objeto si son manufacturados con fragmentos o recortes de otros.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 120.
 
-Para la comprobación de los delitos previstos en los artículos 116, 122 y 123 de este Código, se deberá recabar en la averiguación previa, el dictamen de los peritos designados por la Secretaría de Planeación y Finanzas.
+Para la comprobación de los delitos previstos en los artículos 116, 122 y 123 de este Código, se debe recabar en la carpeta de investigación, el dictamen de los peritos designados por la Secretaría de Finanzas o de la autoridad municipal competente.
 
 ###### Artículo 121.
 
@@ -2233,7 +2267,9 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Los contribuyentes podrán garantizar el interés fiscal, en alguna de las formas siguientes:
 
-I. Depósito de dinero ante la Secretaría de Planeación y Finanzas del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Depósito de dinero ante la Secretaría de Finanzas o de la autoridad municipal competente;
 
 II. Hipoteca o prenda;
 
@@ -2305,7 +2341,9 @@ Las garantías constituidas para asegurar el interés fiscal, a que se refieren 
 
 Si la garantía consiste en depósito de dinero ante las autoridades fiscales, una vez que el crédito fiscal quede firme, éstas aplicarán el monto de la misma al pago del crédito fiscal.
 
-Tratándose de la garantía señalada en la fracción III del artículo 137, ésta se hará a favor de la Secretaría de Planeación y Finanzas, y al hacerse exigible se aplicará el procedimiento administrativo de ejecución con la modalidad siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Tratándose de la garantía señalada en la fracción III del artículo 137, ésta se hará a favor de la Secretaría de Finanzas o de la autoridad municipal competente, y al hacerse exigible se aplicará el procedimiento administrativo de ejecución con la modalidad siguiente:
 
 a) La afianzadora designará un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran. Se notificará por estrados cuando no se haga alguno de los señalamientos mencionados.
 
@@ -2347,7 +2385,9 @@ c) El embargo en la vía administrativa se sujetará a los trámites y requisito
 
 Para los efectos de los artículos 137, fracción IV y 141, inciso c) de este Código, el embargo en la vía administrativa se sujetará a las siguientes reglas:
 
-I. Se practicará a solicitud del contribuyente, quien deberá presentar los documentos y cumplir con los requisitos que la Secretaría de Planeación y Finanzas establezca mediante reglas de carácter general;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Se practicará a solicitud del contribuyente, quien deberá presentar los documentos y cumplir con los requisitos que la Secretaría de Finanzas establezca mediante reglas de carácter general;
 
 II. El contribuyente señalará los bienes de su propiedad sobre los que deba trabarse el embargo, debiendo ser suficientes para garantizar el interés fiscal y cumplir los requisitos y porcentajes que establecen los incisos a) y b) del artículo 141 de este Código. No serán susceptibles de embargo los bienes a que se refiere el artículo 172, fracción II, inciso c) de este Código;
 
@@ -2859,7 +2899,9 @@ La resolución dictada tendrá el carácter de provisional y deberá ser sometid
 
 Cuando los bienes señalados para la traba estuvieren ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará no obstante la diligencia. Dichos bienes se entregarán al depositario por la oficina ejecutora o por el ejecutor y se dará aviso a la autoridad correspondiente para que él o los interesados puedan demostrar su derecho de prelación en el cobro.
 
-Si los bienes señalados para la ejecución hubieran sido ya embargados por parte de autoridades fiscales municipales, se practicará la diligencia, entregándose los bienes al depositario que designe la autoridad estatal. En caso de inconformidad, la controversia será resuelta por el Tribunal Superior de Justicia del Estado. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Si los bienes señalados para la ejecución hubieran sido ya embargados por parte de las autoridades fiscales municipales, se practicará la diligencia, entregándose los bienes al depositario que designe la autoridad estatal. En caso de inconformidad, la controversia será resuelta por el Tribunal Superior de Justicia del Estado. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas.
 
 ###### Artículo 176.
 
@@ -3009,9 +3051,11 @@ En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente p
 
 La autoridad exactora podrá enajenar a plazo los bienes embargados en los casos y condiciones que establezca este Código. En este supuesto quedará liberado de la obligación de pago el embargado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 196.
 
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria expedido por la Secretaría de Planeación y Finanzas, en las poblaciones donde no haya alguna de esas dependencias, el depósito se hará de contado en la propia oficina ejecutora.
+Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria expedido por la Secretaría de Finanzas, en las poblaciones donde no haya alguna de esas dependencias, el depósito se hará de contado en la propia oficina ejecutora.
 
 El importe de los depósitos que se constituyan, de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores o las cantidades depositadas en la propia oficina, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
@@ -3882,3 +3926,87 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en (sic) ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
