@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-bebidas-alcoholicas-del-estado-de-queretaro-65032"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2020-01-17"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -47,7 +49,9 @@ LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO
 
 La presente Ley es de orden público, de interés social y de observancia general en el Estado de Querétaro.
 
-Corresponde su aplicación al Poder Ejecutivo del Estado, por conducto de las Secretarías de Gobierno y de Planeación y Finanzas, así como a los municipios en su esfera competencial. También coadyuvarán en ello, las Secretarías de Seguridad Ciudadana, de Educación Pública, la de Salud, el organismo descentralizado servicios de salud del Estado de Querétaro y las áreas encargadas de Seguridad Pública y Tránsito en los Municipios del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Corresponde su aplicación al Poder Ejecutivo del Estado, por conducto de las Secretarías de Gobierno y de Finanzas, así como a los municipios en su esfera competencial. También coadyuvarán en ello, las Secretarías de Seguridad Ciudadana, de Educación Pública, la de Salud, el organismo descentralizado Servicios de Salud del Estado de Querétaro y las áreas encargadas de Seguridad Pública y Tránsito en los Municipios del Estado.
 
 Será de aplicación supletoria a esta Ley, lo dispuesto en el Código Fiscal del Estado de Querétaro, cuando no sea contrario a la naturaleza de la presente.
 
@@ -137,9 +141,11 @@ VI. Hacer del conocimiento de los municipios y, de considerarlo necesario, a las
 
 VII. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 7.
 
-Es competencia y obligación de la Secretaría de Planeación y Finanzas:
+Es competencia y obligación de la Secretaría de Finanzas:
 
 I. Expedir y ejecutar órdenes de inspección y verificación a los establecimientos y lugares previstos en este ordenamiento;
 
@@ -189,7 +195,9 @@ III. Coordinar con las autoridades sanitarias federales, la programación y ejec
 
 IV. Las demás que deriven de las disposiciones de la Ley de Salud del Estado de Querétaro y demás disposiciones legales aplicables.
 
-La Secretaría de Salud, Servicios de Salud del Estado de Querétaro y la Dirección de Fomento y Regularización Sanitaria, deberán remitir a la Secretaría de Gobierno y a la Secretaría de Planeación y Fianzas, dentro de los diez días siguientes a la fecha en que tenga conocimiento de las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones, que se realicen en los establecimientos y lugares previstos en la presente Ley, en el ejercicio de sus atribuciones, un informe, acompañado de copia del dictamen que emita.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría de Salud, Servicios de Salud del Estado de Querétaro y la Dirección de Fomento y Regularización Sanitaria, deberán remitir a la Secretaría de Gobierno y a la Secretaría de Finanzas dentro de los diez días siguientes a la fecha en que tenga conocimiento de las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones, que se realicen en los establecimientos y lugares previstos en la presente Ley, en el ejercicio de sus atribuciones, un informe, acompañado de copia del dictamen que emita.
 
 ###### Artículo 11.
 
@@ -569,9 +577,11 @@ Cuando el producto asegurado sea de fácil descomposición, la autoridad procede
 
 ### Capítulo Octavo. Inspección y Verificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 36.
 
-La Secretaría de Gobierno, la Secretaría de Planeación y Finanzas y la dependencia municipal que determine el ayuntamiento respectivo, son autoridades para inspeccionar, verificar y comprobar el exacto cumplimiento de las disposiciones de esta Ley, por lo que están facultadas para realizar los actos y diligencias necesarias, en los términos previstos en la misma.
+La Secretaría de Gobierno, la Secretaría de Finanzas y la dependencia municipal que determine el ayuntamiento respectivo, son autoridades para inspeccionar, verificar y comprobar el exacto cumplimiento de las disposiciones de esta Ley, por lo que están facultadas para realizar los actos y diligencias necesarias, en los términos previstos en la misma.
 
 Las Secretarías de Seguridad Ciudadana y de Salud, el organismo descentralizado Servicios de Salud del Estado de Querétaro y las unidades municipales de Protección Civil, coadyuvarán con las autoridades señaladas en el párrafo anterior, efectuando inspecciones o verificaciones en el ámbito de su respectiva competencia, las que podrán realizarse en forma coordinada.
 
@@ -579,9 +589,13 @@ Las Secretarías de Seguridad Ciudadana y de Salud, el organismo descentralizado
 
 Están facultados para expedir las órdenes de inspección o verificación previstas en la presente Ley, en el ámbito de sus respectivas competencias:
 
-I. De la Secretaría de Planeación y Finanzas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-a. El Secretario de Planeación y Finanzas.
+I. De la Secretaría de Finanzas:
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a. El Secretario de Finanzas.
 
 b. El Director de Ingresos.
 
@@ -693,9 +707,11 @@ La clausura inmediata del establecimiento, se llevará a cabo mediante la coloca
 
 En la misma acta, se hará del conocimiento del interesado que cuenta un plazo de 5 días hábiles siguientes a la fecha en que se hubiere llevado a cabo la inspección, para presentar las pruebas y alegatos tendientes a desvirtuar lo ahí asentado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 44.
 
-El Secretario de Gobierno, el Secretario de Planeación y Finanzas, el Director de Gobierno de la Secretaría de Gobierno o el Director de Ingresos de la Secretaría de Planeación y Finanzas, podrán emitir orden de clausura inmediata, cuando el informe y dictamen aportados por la Secretaría de Salud o por los Servicios de Salud del Estado de Querétaro, concluya que el establecimiento inspeccionado o verificado no cuenta con las medidas de salubridad e higiene que exigen las leyes de la materia, o bien, cuando el dictamen remitido por el área competente de la Secretaría de Seguridad Ciudadana o por la Unidad Municipal de Protección Civil, establezca que aquél no satisface las normas aplicables en la materia.
+El Secretario de Gobierno, el Secretario de Finanzas, el Director de Gobierno de la Secretaría de Gobierno o el Director de Ingresos de la Secretaría de Finanzas, podrán emitir orden de clausura inmediata, cuando el informe y dictamen aportados por la Secretaría de Salud o por los Servicios de Salud del Estado de Querétaro, concluya que el establecimiento inspeccionado o verificado no cuenta con las medidas de salubridad e higiene que exigen las leyes de la materia, o bien, cuando el dictamen remitido por el área competente de la Secretaría de Seguridad Ciudadana o por la Unidad Municipal de Protección Civil, establezca que aquél no satisface las normas aplicables en la materia.
 
 La Secretaría de Seguridad Ciudadana o la Unidad Municipal de Protección Civil, podrán emitir orden de clausura inmediata, cuando, con base en sus dictámenes, observen o determinen que el establecimiento se encuentra en el supuesto de la fracción II del artículo anterior.
 
@@ -1254,3 +1270,87 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. La Secretaría de Salud contará con un plazo de 6 meses, contados a partir de la entrada en vigor de la presente Ley, para emitir la normatividad y lineamientos que correspondan según lo dispuesto por los artículos 100 y 136 de la Ley de Salud del Estado de Querétaro, para el cumplimiento de la obligación por parte de los establecimientos previstos en el artículo 12, fracción III, Tipo I y Tipo II, de la Ley sobre Bebidas Alcohólicas del Estado de Querétaro.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en (sic) ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
