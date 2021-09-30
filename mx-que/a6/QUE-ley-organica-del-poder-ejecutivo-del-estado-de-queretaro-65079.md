@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2021-04-02"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "QUE"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
+[NOTA 3: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERETARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -47,31 +49,45 @@ LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Único. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-Esta Ley tiene por objeto regular la organización y funcionamiento de la administración pública central del Estado.
+La presente Ley tiene por objeto regular la organización y funcionamiento de la administración pública centralizada del Poder Ejecutivo del Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+La administración pública centralizada se integra por el Gobernador del Estado y las dependencias que conforman el Poder Ejecutivo del Estado, previstas en la presente Ley.
 
-Forman la administración pública central del Estado de Querétaro, el Gobernador y las dependencias del Poder Ejecutivo de que trata esta Ley.
+El Poder Ejecutivo del Estado cuenta con personalidad jurídica y patrimonio propio. Dispondrá de los recursos humanos, financieros y materiales para el eficiente y correcto del (sic) desempeño de sus atribuciones.
+
+Los bienes del Poder Ejecutivo del Estado son inembargables e imprescriptibles.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-El ejercicio del Poder Ejecutivo del Estado, corresponde al Gobernador, quien tendrá las atribuciones, facultades, funciones y obligaciones que le señalan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro, esta Ley y las demás disposiciones legales aplicables.
+El ejercicio del Poder Ejecutivo del Estado, corresponde al Gobernador, quien tendrá las atribuciones, facultades, funciones y obligaciones que le señalan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Querétaro, esta Ley y las demás disposiciones legales aplicables.
+
+La representación legal del Poder Ejecutivo del Estado recae en el Gobernador.
 
 El Gobernador, en su carácter de titular del Poder Ejecutivo, podrá ser representado por el Secretario de Gobierno, ante cualquier autoridad federal, estatal y municipal.
+
+El Gobernador podrá delegar la representación legal del Poder Ejecutivo del Estado, a los servidores públicos o personas que designe, a través de acuerdo administrativo o poder otorgado ante Notario.
 
 ###### Artículo 3.
 
 Para el despacho de los asuntos que competan al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las dependencias y organismos que señale la presente Ley, y las demás disposiciones relativas.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El Gobernador podrá constituir comisiones intersecretariales para el despacho de los asuntos de la administración pública, a las cuales pueden integrarse las entidades paraestatales.
+
 ###### Artículo 4.
 
 El Gobernador del Estado podrá contar, además, con las unidades administrativas necesarias para realizar programas prioritarios; atender los aspectos de comunicación social, coordinar los planes y programas tendientes a procurar el desarrollo justo, armónico y equilibrado del Estado; y el apoyo técnico necesario que requiera. Dichas unidades serán denominadas órganos adscritos; podrán depender directamente del Gobernador o, por acuerdo, quedar atribuidas a una dependencia del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-La Oficina de la Gubernatura es la dependencia que brinda servicios de apoyo directo a los requerimientos del titular del Poder Ejecutivo; y será coordinada por un Jefe de la Oficina, teniendo a su cargo la coordinación de los órganos adscritos siguientes:
+La Jefatura de Gabinete es la dependencia que brinda servicios de apoyo directo a los requerimientos del titular del Poder Ejecutivo; y será coordinada por un Jefe de Gabinete, teniendo a su cargo la coordinación de los órganos adscritos siguientes:
 
 I. Secretaría Particular;
 
@@ -79,29 +95,49 @@ II. Secretaría Privada;
 
 III. Secretaría Técnica;
 
-IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Comisionado General de Entidades Paraestatales;
 
 V. Coordinación de Asesores;
 
 VI. Coordinación de Relaciones Públicas;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Unidad de Comunicación Social y Atención Ciudadana;
+VII. Unidad de Comunicación Social;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Consejería Jurídica; y
+VIII. Consejería Jurídica;
 
-IX. Las demás a las que se les atribuya tal carácter en esta Ley, los reglamentos o acuerdos administrativos que correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
+IX. Asesor en Políticas Públicas; y
 
-A dicha Oficina le corresponderá el despacho de los asuntos previstos en el Capítulo Décimo Sexto de esta Ley.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+X. Las demás a las que se les atribuya tal carácter en esta Ley, los reglamentos o acuerdos administrativos que correspondan.
 
-La Unidad de Comunicación Social y Atención Ciudadana, fungirá como la Secretaría Administradora del Poder Ejecutivo y sus Entidades, para efectos de lo dispuesto en la Ley General de Comunicación Social, debiendo cumplir con las obligaciones que con ese carácter le impone dicho ordenamiento legal. Asimismo, le corresponderá difundir la información y presentar los informes a que se refiere el Título IV de la Ley General en la materia.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+A dicha Jefatura le corresponderá el despacho de los asuntos previstos en el Capítulo Décimo Sexto de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Unidad de Comunicación Social, fungirá como la Secretaría Administradora del Poder Ejecutivo y sus Entidades, para efectos de lo dispuesto en la Ley General de Comunicación Social, debiendo cumplir con las obligaciones que con ese carácter le impone dicho ordenamiento legal. Asimismo, le corresponderá difundir la información y presentar los informes a que se refiere el Título IV de la Ley General en la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Unidad de Comunicación Social tendrá la facultad de designar y remover a los titulares de las unidades administrativas de comunicación social de las dependencias y entidades.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las unidades administrativas de comunicación social dependerán funcionalmente de la Unidad de Comunicación Social, las cuales se podrán organizar, agrupar e integrar por sectores de la administración pública.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las unidades administrativas de comunicación social dependerán presupuestalmente de la dependencia o entidad a la que se encuentren adscritas.
 
 ###### Artículo 5.
 
@@ -167,11 +203,11 @@ Las dependencias están obligadas a coordinar entre sí sus actividades y a prop
 
 Los titulares de las dependencias a que se refiere esta Ley, podrán delegar, mediante acuerdos administrativos, en sus subalternos cualesquiera de sus facultades, salvo aquellas que las leyes y reglamentos dispongan que deban ser ejercidas directamente por ellos.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 17.
 
-Como titular de cada dependencia habrá un Secretario, salvo el caso de la Oficialía Mayor cuyo titular se denominará Oficial Mayor y de la Oficina de la Gubernatura cuyo titular se denominará Jefe de la Oficina de la Gubernatura, quienes, para el despacho de los asuntos de su competencia, se auxiliarán por los subsecretarios, directores generales, directores, coordinadores, subdirectores, jefes de departamento y por los demás servidores públicos que se establezcan en el Reglamento Interior respectivo y otras disposiciones legales aplicables
+Como titular de cada dependencia habrá un Secretario, salvo el caso de la Oficialía Mayor cuyo titular se denominará Oficial Mayor y de la Jefatura de Gabinete cuyo titular se denominará Jefe de Gabinete, quienes, para el despacho de los asuntos de su competencia, se auxiliarán por los subsecretarios, directores generales, directores, coordinadores, subdirectores, jefes de departamento y por los demás servidores públicos que se establezcan en el Reglamento Interior respectivo y otras disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -185,7 +221,9 @@ Para el estudio, planeación, despacho y ejecución de los asuntos de la adminis
 
 I. La Secretaría de Gobierno;
 
-II. La Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. La Secretaría de Finanzas;
 
 III. La Secretaría de la Contraloría;
 
@@ -205,7 +243,9 @@ X. La Secretaría de Salud;
 
 XI. La Oficialía Mayor;
 
-XII. (DEROGADA, P.O. 28 DE OCTUBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Secretaría de Planeación y Participación Ciudadana;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -219,9 +259,9 @@ XIV. La Secretaría de Juventud;
 
 XV. La Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XVI. La Oficina de la Gubernatura; y
+XVI. Jefatura de Gabinete; y
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -427,13 +467,15 @@ LVII. En el ámbito de su competencia, impulsar los esfuerzos de vinculación, o
 
 LVIII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
 
-### Capítulo Tercero. De la Secretaría de Planeación y Finanzas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
+### Capítulo Tercero. De la Secretaría de Finanzas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-La Secretaría de Planeación y Finanzas es la dependencia encargada de la administración financiera y tributaria de la hacienda pública del Estado y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Finanzas es la dependencia encargada de la administración financiera y tributaria de la hacienda pública del Estado y le corresponde el despacho de los siguientes asuntos:
 
 I. Elaborar y proponer al Gobernador del Estado los proyectos de ley, reglamentos y demás disposiciones de carácter general que se requieren para el manejo de los asuntos financieros y tributarios del Estado;
 
@@ -473,7 +515,9 @@ XI. Ejercer las facultades que en materia de deuda pública le confieran las dis
 
 XII. Dar cumplimiento a las autorizaciones de pago que realicen los ejecutores de gasto a que se refiere la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, de conformidad con lo establecido en la misma, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables;
 
-XIII. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos que procedan;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Informar al Gobernador del Estado la cancelación de créditos fiscales en la cuenta pública, así como el otorgamiento de subsidios fiscales en los casos que procedan;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -495,7 +539,9 @@ XIX. Llevar el sistema de programación del gasto público, de acuerdo con los o
 
 XX. Proyectar, calcular y supervisar los egresos del Poder Ejecutivo del Estado;
 
-XXI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXI. Establecer los lineamientos del Presupuesto Basado en Resultados conforme al Plan Estatal de Desarrollo, debiendo verificar la asignación, integración, programación, presupuestación, ejercicio y control de programas del presupuesto de egresos;
 
 XXII. Elaborar y presentar la cuenta pública;
 
@@ -507,29 +553,35 @@ XXIII. Dar seguimiento financiero y administrativo, a la operación de las entid
 
 XXIV. Llevar la contabilidad gubernamental del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XXV. Celebrar, con la representación del titular del Poder Ejecutivo del Estado, convenios de carácter fiscal con la Federación y los municipios de la entidad;
+XXV. Celebrar en representación del Poder Ejecutivo del Estado, convenios de carácter fiscal con la Federación y los municipios de la entidad y todos aquellos relacionados con la competencia de la Secretaría de Finanzas;
 
-XXVI. Celebrar los instrumentos necesarios, en relación con la planeación y la administración financiera y tributaria;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+XXVI. Celebrar los instrumentos necesarios, en relación con la planeación y administración financiera y tributaria, así como de tecnologías de la información;
 
-XXVII. Elaborar, con la participación de las dependencias y organismos del Poder Ejecutivo del Estado, el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XXVIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
+XXVII. Participar en la elaboración del Plan Estatal de Desarrollo;
 
-XXIX. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+XXVIII. Aprobar y asignar el recurso para las obras y acciones que impacten en la planeación de desarrollo;
 
-XXX. Estudiar y formular los proyectos de leyes, decretos, reglamentos y demás disposiciones relativas en materia de planeación, programación y evaluación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXIX. Evaluar el ejercicio de los recursos públicos asignados a los programas derivados de las estrategias y acciones del Plan Estatal de Desarrollo a través de indicadores de desempeño;
+
+XXX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 XXXI. Establecer y llevar los sistemas de control geográfico y de catastro;
 
-XXXII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XXXIII. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de sus planes y programas de desarrollo;
+XXXII. Coordinar la construcción, revisión y modificación, según sea el caso, de los indicadores estratégicos y de gestión, a fin de que estén conforme al Presupuesto de Egresos y el Plan Estatal de Desarrollo;
+
+XXXIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -555,89 +607,113 @@ XXXIX. Nombrar a los titulares de las Unidades Administrativas y Adscritas, de l
 
 XL. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XLI. Expedir certificaciones de los documentos que obren en los archivos de las unidades administrativas y órganos desconcentrados de la misma, a través de sus titulares, y
+XLI. Expedir certificaciones de los documentos que obren en los archivos de las unidades administrativas y órganos desconcentrados de la misma;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XLII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
+XLII. Emitir opinión técnica financiera respecto a las contraprestaciones que se deban cubrir en las concesiones, de conformidad con las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XLIII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
 
 ### Capítulo Cuarto. De la Secretaría de la Contraloría
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-A la Secretaría de la Contraloría le corresponde el despacho de los siguientes asuntos:
+La Secretaría de la Contraloría es el órgano interno de control del Poder Ejecutivo del Estado, a la cual le corresponde el despacho de los siguientes asuntos:
 
-I. Organizar y coordinar el Sistema de Control Interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público y su congruencia con el presupuesto de egresos;
+I. Implementar el Sistema de Rendición de Cuentas basado en la prevención, control, fiscalización y evaluación del ejercicio de los recursos públicos, así como en la integridad de la conducta de los servidores públicos; generando y regulando los medios informáticos, electrónicos y de comunicación que faciliten su ejercicio;
 
-II. Expedir las normas que regulen los instrumentos y procedimientos de control interno del Poder Ejecutivo del Estado y Entidades, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por los Comités Coordinadores del Sistema Nacional Anticorrupción y del Sistema Estatal Anticorrupción;
+II. Vigilar la correcta aplicación de los recursos públicos, conforme a los principios de legalidad, lealtad, imparcialidad, eficiencia, eficacia, honradez y transparencia;
 
-III. Vigilar el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades;
+III. Vigilar el cumplimiento, por parte de las dependencias del Poder Ejecutivo y sus Entidades, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio;
 
-IV. Coordinar y supervisar el Sistema de Control Interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las Dependencias del Poder Ejecutivo y sus Entidades, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+IV. Expedir y verificar el cumplimiento de las normas que regulen mecanismos de control interno del Poder Ejecutivo del Estado y sus Entidades; lo anterior sin perjuicio de las bases y principios que al respecto emitan los Comités Coordinadores del Sistema Nacional Anticorrupción y del Sistema Estatal Anticorrupción, para lo cual podrá requerir la expedición de normas complementarias para el ejercicio del control administrativo;
 
-V. Vigilar el cumplimiento, por parte de las dependencias del Poder Ejecutivo y sus Entidades, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio;
+V. Asesorar a los órganos internos de control de las Dependencias y Entidades del Poder Ejecutivo;
 
-VI. Realizar por sí, o a solicitud de otras Secretarías o de la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las Dependencias del Poder Ejecutivo y sus Entidades, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+VI. Realizar por sí, o en sustitución o en apoyo de los órganos internos de control, o a solicitud de otras Secretarías o el Comisionado General de Entidades Paraestatales, auditorías, revisiones y evaluaciones a las Dependencias del Poder Ejecutivo y sus Entidades, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
-VII. Fiscalizar directamente o a través de los órganos internos de control, pero que las dependencias del Poder Ejecutivo y sus Entidades cumplan con las normas y disposiciones legales;
+VII. Revisar la aplicación de recursos públicos y el desarrollo administrativo integral en las Dependencias del Poder Ejecutivo del Estado y sus Entidades, emitiendo normas que promuevan su aplicación con criterios de eficacia, legalidad, eficiencia y buen manejo de los mismos; así como realizar por sí, o a través de terceros las revisiones, investigaciones, estudios y análisis necesarios sobre estas materias;
 
-VIII. Designar y remover a los auditores externos de las Entidades, así como normar y controlar su desempeño;
+VIII. Implementar programas estratégicos y operativos que contribuyan a sus fines;
 
-IX. Participar, por conducto de su Titular, como integrante del Comité Coordinador del Sistema Estatal Anticorrupción de Querétaro;
+IX. Establecer mecanismos de prevención para la detección de faltas administrativas y violaciones a los principios que rigen la gestión pública de las Dependencias (sic) Poder Ejecutivo y sus Entidades;
 
-X. Designar y remover, para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamentales (sic), a los comisarios públicos de los órganos de vigilancia de las Entidades, así como normar y controlar su desempeño;
+X. Promover la participación ciudadana en la prevención, control de la gestión pública, transparencia, gobierno abierto y combate a la corrupción;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MAYO DE 2018)</small>
+XI. Emitir el Código de Ética y las disposiciones que propicien valores, principios y reglas de integridad de los servidores públicos del Poder Ejecutivo del Estado y sus Entidades.
 
-XI. Designar y remover a los titulares de los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades, quienes dependerán funcional y normativamente de la Secretaría de la Contraloría, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales y Estatales.
+Para tal efecto, la Secretaría de la Contraloría emitirá los lineamientos que permitan coordinar los comités que para tal efecto se establezcan en materia de ética, control interno y administración de riesgos;
 
-Los titulares de los órganos internos de control de las dependencias del Poder Ejecutivo y sus Entidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+XII. Conducir y aplicar la política de control interno, prevención, vigilancia, inspección y revisión de contrataciones públicas en materia de adquisiciones, enajenaciones, arrendamientos y contrataciones de servicios, así como de obra pública del Poder Ejecutivo del Estado y sus Entidades;
 
-Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y demás que resulten aplicables, así como por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción, Sistema Estatal Anticorrupción de Querétaro y la Secretaría de la Contraloría del Poder Ejecutivo respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las Dependencias del Poder Ejecutivo y sus Entidades, y presentación, en su caso, de informes por parte de dichos órganos.
+XIII. Participar, por conducto de su titular, como integrante del Comité Coordinador del Sistema Estatal Anticorrupción de Querétaro;
 
-Las unidades encargadas de la función de auditoría de la Secretaría de la Contraloría y los órganos internos de control del Poder Ejecutivo del Estado y sus Entidades se sujetarán, en su ejercicio, a las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
+XIV. Colaborar e implementar en el marco de los Sistemas en materia de Transparencia, Fiscalización y Anticorrupción, las bases, políticas, recomendaciones, acciones, normas, lineamientos específicos, manuales y principios de coordinación necesarios que éstos acuerden en la consecución de sus fines;
 
-Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción y del Sistema Estatal Anticorrupción de Querétaro, los titulares de los órganos internos de control integrarán los comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
+XV. Informar periódicamente al Comité Coordinador de los Sistemas Nacional y Estatal Anticorrupción, sobre el resultado de la evaluación respecto de las Dependencias del Poder Ejecutivo y sus Entidades, en los términos de las disposiciones legales y promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas;
 
-En los casos en que no exista Órgano Interno de Control en alguna Entidad Paraestatal, tendrá la facultad de conocer, atender y dar seguimiento de los asuntos el Órgano Interno de Control de la Dependencia coordinadora de sector correspondiente.
+XVI. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la mejora de la gestión pública, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Nacional Anticorrupción o del Sistema Estatal Anticorrupción;
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+XVII. Conocer e investigar las conductas de los servidores públicos de las Dependencias del Poder Ejecutivo y sus Entidades, así como de particulares, que puedan constituir faltas administrativas conforme a la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables;
 
-Los Titulares de los Órganos Internos de Control, podrán expedir certificaciones de los expedientes, documentos o bases de datos que lleven, y que obren en sus archivos o tengan acceso en ejercicio de sus funciones.
+XVIII. Substanciar los procedimientos de responsabilidad administrativa, conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que cuenten con las áreas competentes dentro de las Dependencias del Poder Ejecutivo y sus Entidades;
 
-XII. Colaborar, en el marco de los Sistemas Nacional y Estatal Anticorrupción, así como en el Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+XIX. Imponer las sanciones que correspondan en los casos que no sean de la competencia de los Tribunales de Justicia Administrativa Federal o Estatal y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante el Tribunal competente, conforme a la Ley General de Responsabilidades Administrativas;
 
-XIII. Implementar las acciones que acuerden los Sistemas Nacional y Estatal Anticorrupción, en términos de las disposiciones aplicables;
+XX. Presentar en asuntos de su competencia, las denuncias ante la Fiscalía correspondiente;
 
-XIV. Informar periódicamente al Comité Coordinador de los Sistemas Nacional y Estatal Anticorrupción, sobre el resultado de la evaluación respecto de la gestión de las Dependencias del Poder Ejecutivo y sus Entidades, en los términos de las disposiciones legales y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
-
-XV. Mantener actualizado en el sistema de evolución patrimonial, la información correspondiente a las declaraciones patrimoniales, de intereses y fiscales, conforme a la Ley General de Responsabilidades Administrativas que deban presentar los servidores públicos de las Dependencias del Poder Ejecutivo y sus Entidades, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
-
-XVI. Conocer e investigar las conductas de los servidores públicos de las Dependencias del Poder Ejecutivo y sus Entidades que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de las Dependencias del Poder Ejecutivo y sus Entidades; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia de los Tribunales de Justicia Administrativa Federal o Estatal y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante el Tribunal competente; así como presentar las denuncias correspondientes ante la Fiscalía Especializada Federal o Estatal;
-
-XVII. Establecer mecanismos internos para las Dependencias del Poder Ejecutivo y sus Entidades que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
-
-XVIII. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción en las Dependencias del Poder Ejecutivo y sus Entidades;
-
-XIX. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la mejora de la gestión pública, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Nacional Anticorrupción o del Sistema Estatal Anticorrupción;
-
-XX. Emitir el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado y sus Entidades, así como las Reglas de Integridad para el ejercicio de la función pública;
-
-XXI. Nombrar y remover a los titulares de las Direcciones y Unidades Administrativas de la Secretaría;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+XXI. Conocer, tramitar y resolver los recursos administrativos que conforme a las disposiciones aplicables le correspondan;
 
 XXII. Intervenir en toda clase de juicios, investigaciones o procedimientos ante los Tribunales Federales y Locales que le competan;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+XXIII. Designar y remover a los titulares de los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades, quienes dependerán funcional y normativamente de la Secretaría de la Contraloría.
 
-XXIII. Administrar el Sistema Público a que se refiere la Ley General de Comunicación Social, mediante el cual se registra y da seguimiento a las erogaciones que realicen las dependencias del Poder Ejecutivo y sus Entidades, así como emitir los lineamientos y demás disposiciones de carácter general relativas al Sistema referido; y
+La Secretaría de la Contraloría emitirá las normas que regulen la organización, funcionamiento y actuación de los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades, con el objeto de apoyar la función directiva, promover los sistemas de control interno, la mejora de la gestión, competencia, facultades y atención en los procedimientos de responsabilidad administrativa.
 
-XXIV. Las demás que le encomienden expresamente las leyes y reglamentos.
+En los casos en que no exista Órgano Interno de Control o autoridades competentes para conocer en términos de la Ley General de Responsabilidades Administrativas, en las Dependencias del Poder Ejecutivo y sus Entidades, la Secretaría de la Contraloría tendrá la facultad de conocer, atender, dar seguimiento y en su caso resolver los asuntos.
+
+La Secretaría de la Contraloría podrá atraer de oficio los asuntos que hubieren sido integrados o iniciados por los Órganos Internos de Control de las Dependencias del Poder Ejecutivo y sus Entidades, para su investigación, substanciación y resolución.
+
+Los Titulares de los Órganos Internos de Control podrán expedir certificaciones de los expedientes, documentos o bases de datos que lleven, y que obren en sus archivos o tengan acceso en ejercicio de sus funciones.
+
+XXIV. Mantener actualizado el sistema de evolución patrimonial con la información correspondiente a las declaraciones patrimoniales, de intereses y fiscales, conforme a la Ley General de Responsabilidades Administrativas que deban presentar los servidores públicos de las Dependencias del Poder Ejecutivo y sus Entidades, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables;
+
+XXV. Registrar las sanciones administrativas que hayan sido impuestas a servidores públicos y particulares por parte de cualquier órgano interno de control;
+
+XXVI. Coadyuvar en la integración de información de la Plataforma Digital Nacional a que se refiere la Ley General del Sistema Nacional Anticorrupción, en los términos que fije dicha norma y las demás disposiciones aplicables que se emitan para tal efecto;
+
+XXVII. Administrar el Sistema Público a que se refiere la Ley General de Comunicación Social en las dependencias del Poder Ejecutivo y sus Entidades, así como emitir los lineamientos y demás disposiciones de carácter general relativas al Sistema referido;
+
+XXVIII. Elaborar y proponer al Gobernador del Estado los proyectos de ley, reglamentos y demás disposiciones de carácter general relacionados con el ejercicio de sus atribuciones;
+
+XXIX. Celebrar con la Federación, entidades federativas y otros municipios; así como con asociaciones y particulares contratos, convenios y acuerdos relacionados con las funciones de la Secretaría de la Contraloría;
+
+XXX. Tener a su cargo la Unidad de Transparencia del Poder Ejecutivo del Estado, coordinando el cumplimiento de las obligaciones en esta materia, así como las relativas al acceso a la información, protección de datos y datos abiertos;
+
+XXXI. Participar en los procesos de entrega recepción de los servidores públicos en términos de las disposiciones aplicables;
+
+XXXII. Realizar funciones de vigilancia en las entidades paraestatales por conducto de los Comisarios que para tal efecto designe;
+
+XXXIII. Designar representante en los órganos de gobierno de las entidades paraestatales;
+
+XXXIV. Nombrar y remover al personal adscrito a las Direcciones y Unidades Administrativas de la Secretaría;
+
+XXXV. Designar y remover a los auditores externos de las Entidades, así como normar y controlar su desempeño;
+
+XXXVI. Expedir, a través de sus Direcciones o Unidades Administrativas correspondientes, certificaciones de los expedientes, documentos o bases de datos que obren en sus archivos o tengan acceso en ejercicio de sus funciones;
+
+XXXVII. Emplear en los actos que realice la Secretaría de la Contraloría los medios electrónicos, ópticos o cualquier otra tecnología que confirme el vínculo entre un firmante y datos de creación de una firma electrónica;
+
+XXXVIII. Realizar, por sí, o a través del personal adscrito que se designe, las notificaciones y diligencias que se ordenen, contando para tal efecto con fe pública en su práctica y desahogo; y
+
+XXXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ### Capítulo Quinto. De la Secretaría de Desarrollo Urbano y Obras Públicas
 
@@ -663,9 +739,17 @@ VIII. Participar de manera coordinada con la Secretaría de Desarrollo Sustentab
 
 IX. Supervisar los proyectos o trabajos de conservación de las obras públicas del Estado;
 
-X. Ejercer la facultad económico-coactiva conforme a las leyes aplicables; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XI. Las demás facultades y atribuciones que señalen las leyes y reglamentos aplicables en el Estado.
+X. Ejercer la facultad económico-coactiva conforme a las leyes aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Vigilar el cumplimiento de las obligaciones y condiciones establecidas en las concesiones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Las demás facultades y atribuciones que señalen las leyes y reglamentos aplicables en el Estado.
 
 ### Capítulo Sexto. De la Secretaría de Desarrollo Sustentable
 
@@ -1049,17 +1133,23 @@ I. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones
 
 II. Seleccionar, contratar, capacitar, controlar y dirigir las relaciones laborales con el personal;
 
-III. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Tramitar los nombramientos, remociones, renuncias, licencias, así como substanciar el procedimiento y resolver las solicitudes de pensiones y jubilaciones de los trabajadores de la administración pública centralizada, emitiendo el dictamen correspondiente, de conformidad con las disposiciones legales aplicables;
 
 IV. Mantener al corriente el escalafón de los trabajadores;
 
 V. Adquirir los bienes y proporcionar los servicios que se requieran para el funcionamiento del Poder Ejecutivo del Estado;
 
-VI. Proveer oportunamente a las dependencias de la administración pública del Estado, los elementos y materiales necesarios para el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Proveer oportunamente al Gobernador y a las dependencias de la administración pública centralizada, los elementos y materiales necesarios para el desarrollo de sus funciones;
 
 VII. Levantar y mantener actualizado el inventario general de los bienes muebles e inmuebles propiedad del Poder Ejecutivo del Estado;
 
-VIII. Administrar y asegurar la posesión, propiedad, conservación y mantenimiento del patrimonio del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Administrar y asegurar la posesión, propiedad, conservación y mantenimiento del patrimonio del Poder Ejecutivo del Estado de Querétaro;
 
 IX. Establecer, por acuerdo del Gobernador del Estado, las normas para la recepción y entrega administrativa de las dependencias, que incluirá la formulación de inventarios;
 
@@ -1069,17 +1159,21 @@ XI. Coordinar y supervisar, con las dependencias interesadas, la emisión de pub
 
 XII. Organizar, dirigir y controlar la intendencia del Poder Ejecutivo del Estado;
 
-XIII. Organizar y controlar la Oficialía del (sic) Partes del Poder Ejecutivo del Estado;
+XIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 XIV. Elaborar y proponer programas de mejoramiento administrativo, en coordinación con las demás dependencias del Poder Ejecutivo del Estado, que permitan revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa de los programas de gobierno;
 
 XV. Autorizar la creación de las nuevas unidades administrativas que requieran las dependencias del Poder Ejecutivo, de conformidad con la disponibilidad presupuestaria del Estado;
 
-XVI. Elaborar, con el concurso de las demás dependencias del Poder Ejecutivo del Estado y entidades paraestatales, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus Reglamentos Interiores;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Elaborar, con el concurso de las demás dependencias del Poder Ejecutivo del Estado de Querétaro, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus Reglamentos Interiores;
 
 XVII. Administrar la imprenta del Poder Ejecutivo del Estado;
 
-XVIII. Programar y desarrollar actividades recreativas y de integración familiar para los trabajadores del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Programar y desarrollar actividades recreativas y de integración familiar para los trabajadores del Poder Ejecutivo del Estado de Querétaro;
 
 XIX. Coordinar funcionalmente las áreas de apoyo administrativo del Poder Ejecutivo del Estado;
 
@@ -1087,9 +1181,9 @@ XIX. Coordinar funcionalmente las áreas de apoyo administrativo del Poder Ejecu
 
 XX. Ejercer la facultad económica-coactiva conforme a las leyes aplicables;
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XXI. Representar legalmente y llevar a cabo la defensa de los intereses del Estado en los procedimientos contenciosos en materia laboral en que sea parte, independiente de la intervención que por disposición de otros ordenamientos corresponda a otras dependencias, entidades, organismos o áreas; y
+XXI. Representar legalmente y llevar a cabo la defensa de los intereses del Poder Ejecutivo del Estado de Querétaro, en los procedimientos contenciosos en materia laboral en que sea parte, independiente de la intervención que por disposición de otros ordenamientos corresponda a otras dependencias, entidades, organismos o áreas; y
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -1263,31 +1357,49 @@ XV. Participar y coordinar en el ámbito de su competencia, las acciones de coop
 
 XVI. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
 
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-### Capítulo Décimo Sexto. De la Oficina de la Gubernatura
+### Capítulo Décimo Sexto. De la Jefatura de Gabinete
 
-(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 36.
 
-La Oficina de la Gubernatura es la dependencia que coordinará a los órganos adscritos previstos en el artículo 4 de esta Ley, y tendrá por atribuciones las siguientes:
+La Jefatura de Gabinete es la dependencia que coordinará a los órganos adscritos previstos en el artículo 4 de esta Ley, y tendrá por atribuciones las siguientes:
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 I. Ejercer la coordinación general del gabinete, entendido como el conjunto de las dependencias que forman la administración pública central;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 II. Dar seguimiento y facilitar la ejecución de las instrucciones de coordinación y colaboración que dicte el Gobernador del Estado, en las materias que corresponda, así como a las políticas y programas transversales e intersectoriales en los que participen dos o más dependencias;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 III. Proponer la integración de comisiones intersecretariales u otras formas de organización administrativa que faciliten el trabajo coordinado del gabinete;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 IV. Convocar a sesiones de trabajo del gabinete, por instrucción del Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 V. Coadyuvar en la conducción de la política gubernamental con otras entidades u organismos estatales, federales o municipales;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 VI. Proponer, ejecutar y dar seguimiento a un sistema de evaluación de indicadores de gestión, a nivel de gabinete, con el apoyo de la Secretaría de la Contraloría;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Tener a su cargo la política de relaciones públicas y protocolo del Poder Ejecutivo del Estado;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 VIII. Coordinar los servicios de asesoría del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 IX. Brindar el servicio de consejería jurídica para el Gobernador;
 
@@ -1295,13 +1407,25 @@ IX. Brindar el servicio de consejería jurídica para el Gobernador;
 
 X. Coordinar las actividades de comunicación social y atención ciudadana, así como ejercer la función de vocería en los temas específicos que el Gobernador del Estado determine;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 XI. Atender los asuntos internacionales que indique el titular del Poder Ejecutivo del Estado, con pleno respeto de las atribuciones que correspondan a las autoridades federales en la materia;
 
-XII. Fungir como responsable de las oficinas de representación del Estado fuera del territorio de la Entidad; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Las demás que el Gobernador del Estado determine, dentro del marco de sus atribuciones constitucionales y legales.
+XII. Fungir como responsable de las oficinas de representación del Estado fuera del territorio de la Entidad;
 
-El funcionamiento de la Oficina de la Gubernatura y de los órganos adscritos a que se refiere el presente artículo, será regulado por la presente Ley, el Reglamento Interior y los acuerdos administrativos que expida el titular del Poder Ejecutivo del Estado, los que tendrán el carácter de obligatorio para toda la administración pública central.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Organizar y controlar la Oficialía de Partes del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Las demás que el Gobernador del Estado determine, dentro del marco de sus atribuciones constitucionales y legales.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El funcionamiento de la Jefatura de Gabinete y de los órganos adscritos a que se refiere el presente artículo, será regulado por la presente Ley, el Reglamento Interior y los acuerdos administrativos que expida el titular del Poder Ejecutivo del Estado, los que tendrán el carácter de obligatorio para toda la administración pública central.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1346,6 +1470,46 @@ XIII. Emitir los lineamientos del uso de los espacios en los recintos administra
 XIV. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables, y
 
 XV. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo Décimo Octavo. De la Secretaría de Planeación y Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 38.
+
+La Secretaría de Planeación y Participación Ciudadana tendrá las atribuciones siguientes:
+
+I. Elaborar, con la participación de las dependencias y organismos del Poder Ejecutivo del Estado, el Plan Estatal de Desarrollo y las proyecciones a largo plazo; así como coordinar y coadyuvar con las dependencias y organismos del Poder ejecutivo en la elaboración de sus programas;
+
+II. Estudiar y formular los proyectos de leyes, decretos, reglamentos y demás disposiciones relativas en materia de planeación, programación y evaluación;
+
+III. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de sus planes y programas de desarrollo;
+
+IV. Informar a la Jefatura de Gabinete el seguimiento de las políticas públicas de las dependencias, conforme a los objetivos establecidos en el Plan Estatal de Desarrollo, en los programas y demás instrumentos jurídicos;
+
+V. Diseñar y proponer en coordinación con las dependencias y entidades, la creación, modificación o extinción de las políticas públicas estatales;
+
+VI. Integrar la información referente a los avances en el cumplimiento de los objetivos planteados en el Plan Estatal de Desarrollo, en los programas y planes anuales, así como de los proyectos prioritarios;
+
+VII. Evaluar el impacto social de las políticas públicas;
+
+VIII. Integrar los informes anuales del Gobernador del Estado;
+
+IX. Integrar la estadística estatal;
+
+X. Promover la vinculación de los ciudadanos con los ejercicios de planeación en el Estado;
+
+XI. Compilar, sistematizar, analizar y procesar las propuestas ciudadanas en la construcción del Plan Estatal de Desarrollo, en las proyecciones a largo plazo, en los programas y en el diseño de políticas públicas;
+
+XII. Diseñar, ejecutar y evaluar las políticas públicas en materia de Mejora Regulatoria;
+
+XIII. Coordinar con la Jefatura de Gabinete, el sistema de indicadores de gestión de las dependencias;
+
+XIV. Suscribir convenios con instituciones públicas y privadas para la consecución de sus fines; y
+
+XV. Las demás establecidas en otras disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -2346,3 +2510,87 @@ Artículo Quinto. Hasta en tanto entre en funciones el Centro de Conciliación L
 Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes de la entrada en vigor del Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
 
 Artículo Sexto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
