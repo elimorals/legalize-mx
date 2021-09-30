@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2021-06-30"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -869,11 +869,11 @@ Los diputados propietarios no podrán ser electos para el periodo inmediato, ni 
 
 Los diputados podrán ser electos hasta por cuatro periodos consecutivos, siempre y cuando sean postulados por el mismo partido político o coalición que los postuló, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 36.
 
-Los diputados tendrán fuero constitucional durante su ejercicio legal y por las aportaciones que expresen jamás podrán ser reconvenidos. La Junta de Coordinación y Concertación Política del Congreso velará por el respeto a la inviolabilidad del recinto parlamentario.
+Los diputados no podrán ser reconvenidos por lo que expresen. La Junta de Coordinación y Concertación Política del Congreso velará por el respeto a la inviolabilidad del recinto parlamentario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -2755,9 +2755,7 @@ Durante el ejercicio de su encargo, el Auditor de Fiscalización Superior no pod
 
 Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representes de elección popular, a los funcionarios y empleados de los poderes Judicial y Legislativo, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como en los órganos públicos autónomos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones; así como aquellas personas que tengan a su cargo o se les transfiere el manejo o administración de los recursos públicos. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
-
-Los diputados, el Gobernador del Estado, los Magistrados y el Presidente de la Comisión Estatal de los Derechos Humanos, tienen fuero a partir de que hayan rendido protesta y se encuentren en funciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2773,11 +2771,11 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos y particulares, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 109.
 
-El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del artículo 107, los titulares de las Secretarías del Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, los comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, así como contra los consejeros electorales del Consejo Electoral del Instituto Tlaxcalteca de Elecciones y el Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los miembros de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
+El juicio político procede contra los diputados, el Gobernador del Estado, los magistrados del Tribunal Superior de Justicia, los magistrados del Tribunal de Justicia Administrativa del Estado, los magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los titulares de las Secretarías del Poder Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, los comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, así como contra los consejeros electorales del Consejo General del Instituto Tlaxcalteca de Elecciones y el Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los integrantes de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2787,9 +2785,7 @@ I. El juicio político sólo podrá iniciarse en el tiempo que el servidor públ
 
 II. No procede juicio político por la mera expresión de ideas, ni por las recomendaciones que emita el Presidente de la Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
-
-III. Podrán tramitarse conjuntamente el juicio político y el de declaratoria de procedencia de causa y desafuero;
+III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2797,43 +2793,37 @@ IV. A través del juicio político se impondrán las sanciones de destitución d
 
 V. (DEROGADA, P.O. 18 DE JULIO DE 2017)
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VI. El Congreso será el órgano responsable de substanciar los procedimientos de juicio político y en su caso, el de procedencia de causa y desafuero, a través de la comisión instructora, la cual presentará la acusación con sus pruebas al pleno y éste resolverá en definitiva respecto del juicio de procedencia y desafuero. Las declaraciones y resoluciones que dicte el Congreso son inatacables;
+VI. El Congreso será el órgano responsable de substanciar los procedimientos de juicio político, a través de la comisión instructora, la cual presentará la acusación con sus pruebas al pleno y éste resolverá en definitiva. Las declaraciones y resoluciones que dicte el Congreso serán inatacables;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Si dentro de la sustanciación del juicio político se demostrare la probable comisión de un delito por parte del inculpado, en la resolución que declare la existencia de responsabilidad política, se podrá realizar la declaratoria de procedencia de causa y desafuero, en cuyo caso, se dictarán las medidas conducentes para el aseguramiento del inculpado;
+VII. Si dentro de la sustanciación del juicio político se demostrare la probable comisión de un delito por parte del enjuiciado, en la resolución que declare la existencia de responsabilidad política, se ordenará dar vista a las autoridades competentes y se dictarán las medidas conducentes para el aseguramiento del servidor público;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. El Congreso dictará las declaratorias y resoluciones de juicio político y de procedencia de causa y desafuero, en sesión en que se encuentren, cuando menos, las dos terceras partes de sus integrantes y por votación calificada. El Tribunal Superior de Justicia, en juicio político, es el órgano de sentencia cuando los responsables sean miembros del Consejo o el titular del Poder Ejecutivo; y el Congreso, cuando el responsable fuere un magistrado o un juez del Poder Judicial del Estado o el titular de un órgano público autónomo, y
+VIII. El Congreso dictará las resoluciones de juicio político en sesión en que se encuentren, cuando menos, las dos terceras partes de sus integrantes y por votación calificada. El Tribunal Superior de Justicia, en juicio político, será el órgano de sentencia cuando los responsables sean integrantes del Congreso o el titular del Poder Ejecutivo; y el Congreso, cuando el responsable fuere un Magistrado o un Juez del Poder Judicial del Estado o el titular de un órgano público autónomo, y
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IX. Toda persona podrá formular denuncia ante el Congreso del Estado respecto de las conductas a que se refiere este artículo para la iniciación de juicio político; tan pronto como llegue a conocimiento del Congreso, una denuncia de juicio político en contra de los servidores públicos a que se refieren los artículos 107 y 109 de esta Constitución, antes de emplazar al denunciado se formará una comisión especial de diputados que se encargue de investigar y, en su caso, de presentar medios de prueba que acrediten plena responsabilidad política del servidor público enjuiciado. La ley determinará el procedimiento a seguir en estos casos.
+IX. Toda persona podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este artículo para la iniciación de juicio político; tan pronto como llegue a conocimiento del Congreso, una denuncia de juicio político en contra de los servidores públicos referidos en el párrafo primero de este artículo, y antes de emplazar al denunciado, se formará una comisión especial de diputados que se encargue de investigar y, en su caso, de presentar medios de prueba que acrediten plena responsabilidad política del servidor público enjuiciado. La ley determinará el procedimiento a seguir en estos casos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 110.
 
-Los servidores públicos y los particulares serán responsables por los delitos en que incurran, los que serán perseguidos y sancionados en términos de la legislación penal. Al Gobernador del Estado, sólo podrá iniciarse juicio de procedencia de causa y desafuero por delitos graves del orden común.
+Los servidores públicos y los particulares serán responsables por los delitos en que incurran, los que serán perseguidos y sancionados en términos de la legislación penal.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 Las Leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las Leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Previa al ejercicio de la acción penal, en contra de los servidores públicos que tienen fuero, es necesaria la declaratoria del Congreso, que califique la procedencia de causa y desafuero de dicho servidor.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
-
-Si la resolución del Congreso fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya terminado el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
-
-Si el Congreso declara que ha lugar a proceder penalmente en contra de un servidor público, mediante el juicio a que hace referencia el Artículo anterior, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2883,13 +2873,9 @@ ARTICULO 113 BIS.- (DEROGADO, P.O. 18 DE MAYO DE 2001)
 
 Pronunciada una sentencia condenatoria con motivo de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
-
 ###### ARTICULO 115.
 
-Los diputados, el Gobernador del Estado, los magistrados y el presidente de la Comisión Estatal de Derechos Humanos, tienen fuero en materia penal a partir de que hayan rendido protesta y se encuentren en funciones. Los consejeros electorales solo tendrán fuero durante el tiempo que dure el proceso electoral estatal.
-
-En los juicios distintos a los del orden penal, no existe fuero. Sin embargo, quienes gozan de él no podrán ser privados de su libertad como medida de apremio, corrección disciplinaria ni sanción administrativa.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -4026,5 +4012,21 @@ El Tribunal de Justicia Administrativa del Estado de Tlaxcala conservará los re
 Se faculta a la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tlaxcala, para dotar de los recursos económicos que se requieran para la implementación de este Decreto.
 
 ###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 148.- SE REFORMAN EL ARTÍCULO 36, EL PÁRRAFO ÚNICO Y LAS FRACCIONES VI, VII, VIII Y IX DEL ARTÍCULO 109 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 110; SE DEROGAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 107, LA FRACCIÓN III DEL ARTÍCULO 109, LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 110 Y EL ARTÍCULO 115, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado; sin embargo, no será aplicable a los diputados, al Gobernador del Estado, a los Magistrados, al Presidente de la Comisión Estatal de los Derechos Humanos, ni a los Consejeros integrantes del Consejo General del Instituto Tlaxcalteca de Elecciones, que se encuentren en ejercicio de sus funciones, o cuyo nombramiento esté vigente, al momento de la aprobación de este Decreto por el Congreso del Estado, específicamente por el tiempo para el que, en la actualidad, hayan sido electos o nombrados.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
