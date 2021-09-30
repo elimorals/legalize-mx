@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-la-comision-estatal-de-infraestructura-de-7561"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2016-05-30"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE INFRAESTRUCTURA DE QUERETARO -- ANTES LEY QUE CREA LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY QUE CREA LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1985.
 
@@ -45,11 +47,13 @@ LEY QUE CREA LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO
 
 Esta Ley es de orden público e interés social y tiene por objeto regular la organización y el funcionamiento de la Comisión Estatal de Infraestructura de Querétaro.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTICULO 2.
+###### ARTÍCULO 2.
 
-Se crea el Organismo Público Descentralizado del Estado de Querétaro denominado "Comisión Estatal de Infraestructura de Querétaro", con personalidad jurídica y patrimonio propio, que depende del Poder Ejecutivo y tendrá a su cargo las funciones y facultades que esta Ley dispone.
+Se crea el Organismo Público Descentralizado del Estado de Querétaro denominado “Comisión Estatal de Infraestructura de Querétaro”, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Santiago de Querétaro, Qro.
+
+Para los efectos de esta Ley, se entenderá por Comisión, a la Comisión Estatal de Infraestructura de Querétaro; y Consejo, al Consejo Directivo de la Comisión Estatal de Infraestructura de Querétaro.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2016)</small>
 
@@ -59,11 +63,11 @@ Se crea el Organismo Público Descentralizado del Estado de Querétaro denominad
 
 ### CAPITULO I. DE LAS ATRIBUCIONES, RECURSOS Y ÓRGANOS DE LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 3.
 
-El objeto de la Comisión Estatal de Infraestructura de Querétaro es fungir como un organismo con capacidad normativa, de consultoría, realización y ejecución de infraestructura física del Estado de Querétaro, en términos de esta Ley, su reglamento y demás disposiciones aplicables, y desempeñarse como una instancia asesora en esas materias; estará encargada de ejecutar, dirigir, supervisar y controlar las obras civiles asignadas al organismo; de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio público, relacionado con éste, o en los términos de los convenios de coordinación y/o colaboración que celebre con el sector público, privado, académico o social, teniendo las siguientes atribuciones:
+El objeto de la Comisión es realizar la construcción y conservación de las carreteras, caminos y vialidades del Estado de Querétaro, ejecutar la infraestructura física de las obras públicas a su cargo e intervenir en el ámbito de su competencia en materia pluvial, con capacidad normativa; en términos de esta Ley, su reglamento y demás disposiciones aplicables. Teniendo para tal efecto, las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
@@ -73,135 +77,177 @@ I.- Administrar e invertir los recursos de la Comisión de acuerdo a lo señalad
 
 II.- Realizar toda clase de actos jurídicos necesarios para cumplir con sus finalidades;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III.- Adquirir bienes muebles e inmuebles para los fines que le son propios;
+III.- Adquirir bienes muebles e inmuebles para el cumplimiento de su objeto;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- Establecer y Organizar a sus dependencias y expedir sus reglamentos interiores;
+IV.- Establecer y organizar a sus unidades administrativas y expedir las disposiciones legales para su funcionamiento;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-V.- Elaborar los proyectos y programas de inversión en las materias de su competencia;
+V.- Elaborar los planes, programas y proyectos para el cumplimiento de su objeto;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VI.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con integrantes u organizaciones del sector público, social, académico y privado, las acciones necesarias para cumplir con los objetivos fijados por este Ley;
+VI.- Ejecutar, dirigir, supervisar y controlar las obras públicas a cargo de la Comisión, en apego a la normatividad aplicable y a los proyectos, programas y contratos respectivos;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VII.- Otorgar y promover la asistencia técnica a los ayuntamientos en la obra pública, que les permitan elevar la calidad de vida de su población;
+VII.- Ejecutar los programas aprobados, conservar y mantener en condiciones de transitabilidad las carreteras estatales, alimentadoras, urbanas y libramientos, caminos rurales, aeropistas y puentes del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VIII.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con integrantes u organizaciones del sector público, social, académico y privado, las acciones necesarias para cumplir con los objetivos fijados por esta Ley;
+VIII.- Colaborar con las autoridades Federales, Estatales y Municipales en materia pluvial conforme lo determinen las disposiciones legales o administrativas correspondientes;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IX.- Ejecutar, dirigir, supervisar y controlar las obras civiles asignadas al organismo, en apego a la normatividad aplicable y a los proyectos, programas y contratos respectivos; y
+IX.- Otorgar y promover asistencia técnica en materia de obra pública a las Dependencias, Entidades y Organismos Autónomos del Gobierno Estatal y Municipal;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-X.- Las demás que establezca la presente Ley, sus reglamentos y cualquier otra disposición aplicable.
+X.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con integrantes u organizaciones del sector público, social, académico y privado, las acciones necesarias para cumplir con los objetivos fijados por esta Ley;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Convenir con las Dependencias, Entidades y Organismos Autónomos del Gobierno Estatal y Municipal los apoyos Institucionales, que conforme a la capacidad operativa de la Comisión lo permita;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Regular el uso y aprovechamiento del derecho de vía de la red carretera estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIII.- Validar estudios y proyectos en materia pluvial, tales como, estudios hidrológicos, obras de mitigación, captación y/o conducción pluvial de jurisdicción Estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIV.- Recaudar el importe resultante de los trámites y servicios que brinde la Comisión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XV.- Las demás que establezca la presente Ley, sus reglamentos y cualquier otra disposición aplicable.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 4.
 
-El patrimonio de la Comisión Estatal de Infraestructura de Querétaro, estará constituido por los bienes muebles e inmuebles y recursos de su propiedad, así como por los que lleguen a aportar el Gobierno Federal, el Gobierno del Estado, los recursos municipales y los de los particulares que se le entreguen conforme a los programas aprobados y por los que por otros medios la Comisión se haga llegar.
+El patrimonio de la Comisión Estatal de Infraestructura de Querétaro, estará constituido por los bienes muebles e inmuebles y recursos de su propiedad, así como por los que lleguen a aportar el Gobierno Federal, el Gobierno del Estado, los recursos municipales y los de los particulares que se le entreguen conforme a los programas aprobados y las demás que se obtengan por cualquier título legal.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 5.
 
-La relación entre la Comisión y sus trabajadores se regirá por lo dispuesto en la Ley de los Trabajadores al Servicio del Estado de Querétaro.
+La relación entre la Comisión y sus trabajadores se regirá por lo dispuesto en la Ley de los Trabajadores del Estado de Querétaro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 6.
 
-Son órganos de la Comisión Estatal de Infraestructura de Querétaro:
+Son órganos de la Comisión:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+I.- Un órgano de gobierno que será el Consejo Directivo;
 
-I.- El Consejo de Administración.
+II.- Un órgano ejecutivo que será el Coordinador General;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+III.- Un órgano Interno de Control; y
 
-II.- El Comisario.
+IV.- Las demás unidades administrativas que establezca su reglamento interior y los manuales correspondientes.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III.- El Coordinador General.
+### CAPITULO II. DEL CONSEJO DIRECTIVO
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
-
-### CAPITULO II. DEL CONSEJO DE ADMINISTRACION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 7.
 
-El órgano superior de la Comisión Estatal de Infraestructura de Querétaro es el Consejo de Administración y se constituye por:
+El Consejo es el órgano superior de la Comisión y se integra por:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+I.- Un Presidente, que será el C. Gobernador del Estado o el Comisionado General de Entidades Paraestatales;
 
-I.- Un Presidente, que será el C. Gobernador del Estado o la persona que él designe;
+II.- Un Secretario, que será el Coordinador General de la Comisión o la persona que éste designe;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+III.- Vocales:
 
-II.- Un Secretario, que será la persona que designe el C. Gobernador del Estado;
+a) El Secretario de Desarrollo Urbano y Obras Públicas;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+b) El Secretario de Finanzas;
 
-III.- Vocales: que serán los titulares de las Dependencias Estatales de Planeación y Finanzas, Desarrollo Sustentable, de Desarrollo Agropecuario; así como el Director del Centro de la Secretaría de Comunicaciones y Transportes; y
+c) El Secretario de Desarrollo Agropecuario;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+d) El Secretario de la Contraloría; y
 
-IV.- Vocales: los titulares de las Dependencias Federales, Estatales y Municipales, que el mismo Consejo de Administración considere prudente que participen y formen parte del mismo, eventual o permanentemente.
+e) El Director del Centro de la Secretaria de Comunicaciones y Transportes.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+Los miembros del Consejo participarán con voz y voto en el desahogo de las sesiones del Consejo.
 
-Todos los miembros del Consejo tendrán un suplente con las mismas facultades del titular.
+Los Vocales podrán nombrar un suplente que actuará en su ausencia con las mismas atribuciones.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 7 BIS.- El Consejo sesionará válidamente con la asistencia de su Presidente, del Secretario y de la mitad más uno de sus integrantes.
+
+Las sesiones podrán ser ordinarias y extraordinarias.
+
+Las sesiones ordinarias se celebrarán dos veces al año y serán convocadas con cinco días naturales de anticipación.
+
+Las sesiones extraordinarias se celebrarán cuantas veces sean necesarias y serán convocadas con dos días hábiles de anticipación.
+
+La convocatoria deberá contener el orden del día y la documentación necesaria para conocer los asuntos que serán objeto de la sesión.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 8.
 
-El Consejo de Administración tiene las facultades y atribuciones siguientes:
+El Consejo tendrá las atribuciones siguientes:
 
-I.- Formular y aprobar el Reglamento Interior y los manuales administrativos y operativos de la Comisión;
+I.- Aprobar el orden del día de las sesiones del Consejo;
 
-II.- Planear y evaluar las actividades de la Comisión;
+II.- Aprobar el calendario de sesiones ordinarias del Consejo;
 
-III.- Analizar y en su caso, aprobar el presupuesto de ingresos y egresos, así como el programa de actividades que elabore el Coordinador General;
+III.- Aprobar los programas y presupuestos de la Comisión;
 
-IV.- Revisar y en su caso, aprobar los estados financieros, los balances ordinarios y extraordinarios y los informes generales y especiales que le presente el Coordinador General;
+IV.- Aprobar los proyectos de reglamentos y manuales administrativos de la Comisión, así como las modificaciones que resulten necesarias a los mismos;
 
-V.- Recibir los informes, dictámenes, auditorias y sugerencias, que para mejorar el funcionamiento de la Comisión, proponga y rinda el Comisario; y
+V.- Aprobar la estructura orgánica, salarial y ocupacional conforme a las disposiciones aplicables;
 
-VI.- Los demás que confiere esta Ley y sus disposiciones reglamentarias.
+VI.- Analizar y aprobar los informes del Coordinador General, conforme a las disposiciones aplicables;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+VII.- Nombrar y remover a los servidores públicos de la Comisión, que ocupen cargos con las dos jerarquías administrativas inferiores en términos de las disposiciones jurídicas aplicables;
+
+VIII.- Recibir los informes, dictámenes, auditorías y sugerencias que rinda el Órgano Interno de Control o el Comisario; y
+
+IX.- Las demás que resulten aplicables conforme a las disposiciones legales correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 9.
 
-El Presidente del Consejo de Administración tendrá las siguientes facultades:
+El Presidente del Consejo tendrá las siguientes facultades:
 
-I.- Presidir las sesiones del Consejo de Administración, teniendo voto de calidad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I.- Presidir las sesiones del Consejo, teniendo voto de calidad;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 II.- Vigilar el cumplimiento de los acuerdos del Consejo;
 
-III.- Convocar a sesiones ordinarias o extraordinarias;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Convocar a sesiones ordinarias o extraordinarias, por conducto del Secretario;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 IV.- Autorizar el orden del día a que se sujetarán las sesiones;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-V.- Representar a la Comisión Estatal de Infraestructura de Querétaro, ante toda clase de autoridades, Dependencias, Organismos o particulares, por lo que se le conceden todos los poderes para pleitos y cobranzas, actos de administración y de riguroso dominio, con la limitante que para ejercer estos últimos, requerirá autorización del Consejo si se tratare de persona distinta al Gobernador del Estado, por lo que estará dotado de las más amplias facultades generales y especiales que la Ley otorga a un apoderado general, aun las que requieran de cláusula especial, inclusive podrá delegar o sustituir dicha representación; y
+V.- Las demás atribuciones que le confiere esta Ley y sus disposiciones reglamentarias.
 
-VI.- Las demás atribuciones que le confiere esta Ley y sus disposiciones reglamentarias.
+VI.- (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
 
@@ -213,11 +259,17 @@ I.- Realizar y proponer el orden del día al Presidente;
 
 II.- Elaborar y someter a la consideración del Consejo, el proyecto de calendario de sesiones del Consejo;
 
-III.- Dar seguimiento a los acuerdos del Consejo y del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- Convocar a sesiones ordinarias o extraordinarias cuando así lo disponga el calendario o el Presidente del Consejo;
+III.- Dar seguimiento a los acuerdos del Consejo y del Gobernador o del Comisionado General de Entidades Paraestatales;
 
-V.- Someter a la consideración del Consejo de Administración el Reglamento Interior y los Manuales Administrativos y Operativos de la Comisión;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Convocar a sesiones ordinarias o extraordinarias;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V.- Someter a la consideración del Consejo el Reglamento Interior y los Manuales Administrativos y Operativos de la Comisión;
 
 VI.- Certificar las actas del Consejo y dar fe de su contenido;
 
@@ -225,41 +277,23 @@ VII.- Ordenar y clasificar los programas, estudios e investigaciones que se pres
 
 VIII.- Las demás que le confiera éste y otros ordenamientos aplicables, así como las que disponga el Consejo.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ### CAPITULO III. DEL COMISARIO
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
-
 ###### ARTÍCULO 11.
 
-El Comisario es el órgano de vigilancia, y desempeñará el cargo el titular de la Secretaría de la Contraloría o la persona que él designe, quien tendrá las siguientes facultades:
-
-I.- Vigilar que las inversiones se hagan de acuerdo a las disposiciones de esta Ley, a sus Reglamentos y a los Acuerdos del Consejo;
-
-II.- Practicar por sí o por la persona que designe, la auditoría a los balances contables y comprobar avalúos de los bienes propiedad de la Comisión y de los planes o programas que sean presentados al Consejo de Administración;
-
-III.- Sugerir al Consejo de Administración las medidas que juzgue conveniente para mejorar el funcionamiento de la Comisión;
-
-IV.- Presentar al Consejo de Administración, un dictamen sobre el informe de actividades y los estados financieros presentados por el Coordinador General, para cuyo efecto, éstas le serán dadas a conocer con la debida oportunidad;
-
-V.- Vigilar que se cumpla con las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos;
-
-VI.- En casos graves y bajo su responsabilidad, citar a sesión extraordinaria del Consejo de Administración;
-
-VII.- Asistir con voz pero sin voto, a las sesiones del Consejo de Administración; y
-
-VIII.- Las demás que le confiera esta Ley, sus Reglamentos o el mismo Consejo de Administración.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 1992)</small>
 
 ### CAPITULO IV. DEL COORDINADOR GENERAL
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 12.
 
-El Coordinador General será nombrado por el Gobernador del Estado.
+El Coordinador General será nombrado por el Gobernador del Estado o el Comisionado General de Entidades Paraestatales.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
 
@@ -267,43 +301,91 @@ El Coordinador General será nombrado por el Gobernador del Estado.
 
 El Coordinador General tiene las siguientes funciones:
 
-I.- Ejecutar los acuerdos del propio Consejo de Administración;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+I.- Ejecutar los acuerdos del Consejo;
 
-II.- Representar a la Comisión Estatal de Infraestructura de Querétaro ante toda clase de autoridades, organismos, dependencias o particulares y tendrá los poderes de representación legal con facultades de Apoderado General para actos de administración, pleitos y cobranzas exclusivamente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III.- Elaborar y presentar al Consejo de Administración anualmente, para su análisis, y en su caso, aprobación, los planes y programas de trabajo de la Comisión, así como el presupuesto de ingresos y egresos para el siguiente período;
+II.- Representar legalmente a la Comisión ante toda clase de autoridades, organismos, dependencias o particulares y tendrá los poderes de representación legal con facultades de Apoderado General para actos de administración, pleitos y cobranzas exclusivamente;
 
-IV.- Presentar anualmente al Consejo de Administración el informe de actividades de la Coordinación General;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Elaborar y presentar al Consejo, para su análisis, y en su caso, aprobación, los planes y programas de trabajo de la Comisión, así como el presupuesto de ingresos y egresos para el siguiente período;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV.- Presentar periódicamente al Consejo, el informe de actividades de la Comisión;
 
 V.- Presentar para su revisión y aprobación, los estados financieros, balances ordinarios y extraordinarios de la Comisión;
 
-VI.- Proponer al Consejo de Administración el nombramiento del personal de la Comisión, que mencione el Reglamento Interior;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI.- Proponer al Consejo el nombramiento del personal de la Comisión, que mencione el Reglamento Interior;
 
 VII.- Nombrar y remover a los demás funcionarios y trabajadores de la Comisión;
 
-VIII.- Asistir a las reuniones del Consejo de Administración; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IX.- Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
+VIII.- Otorgar, sustituir o revocar poderes generales y especiales, incluyendo los que requieran autorización o cláusula especial;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTICULO 14.
+IX.- Formular querellas y otorgar perdón;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+X.- Requerir a las Dependencias o Entidades, la información necesaria para el cumplimiento del objeto de la Comisión;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XI.- Celebrar y suscribir toda clase de actos y documentos inherentes al objeto, funciones y defensa legal de la Comisión;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XII.- Emitir en el ámbito administrativo los documentos o los lineamientos, que resulten necesarios para el buen desempeño de las funciones de la Comisión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIII.- Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las atribuciones previstas en las fracciones II, VI y VIII son indelegables, las demás podrán ser delegadas al servidor público que el reglamento de esta Ley o las disposiciones administrativas de la Comisión que se indique.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO V. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 14.
+
+Al Órgano Interno de Control le corresponde promover, evaluar y fortalecer el buen funcionamiento del control interno de la Comisión, conforme a las disposiciones legales en materia de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables. Tendrá las atribuciones siguientes:
+
+I.- Realizar la investigación, substanciación y calificación de las faltas administrativas, en los términos de las disposiciones aplicables;
+
+II.- Resolver los procedimientos de responsabilidad administrativa, en los términos de las disposiciones aplicables;
+
+III.- Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por los Sistemas Estatal y Nacional Anticorrupción;
+
+IV.- Presentar denuncias por hechos que las leyes señalen como delitos ante las instancias competentes; y
+
+V.- Las demás que establezcan otras disposiciones aplicables.
+
+El órgano Interno de Control, se integrará conforme lo determinen las disposiciones legales vigentes.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 15.
 
 La Comisión Estatal de Infraestructura de Querétaro, deberá de elaborar sus programas, planes y proyectos, sujetándose a la política, estrategias, prioridades y metas establecidas en la Ley de Planeación del Estado de Querétaro y los Programas de Desarrollo Estatal.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTICULO 15.
+###### ARTÍCULO 16.
 
-La Comisión Estatal de Infraestructura de Querétaro podrá convenir con las dependencias y entidades del Gobierno Federal, Estatal y Municipal y con los organismos del sector público, social y privado, la construcción, ampliación y mantenimiento de obras y vías de comunicación de jurisdicción Estatal.
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
-
-###### ARTICULO 16.
-
-Todas las obras que realice la Comisión Estatal de Infraestructura de Querétaro deberán sujetarse a lo dispuesto por la Ley de Obras Públicas, la demás Legislación de la materia y sus reglamentos.
+Todas las obras públicas que realice la Comisión deberán sujetarse a lo dispuesto en la Legislación de la materia y sus reglamentos.
 
 T R A N S I T O R I O S
 
@@ -394,3 +476,87 @@ Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del in
 Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
 
 Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión· de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
