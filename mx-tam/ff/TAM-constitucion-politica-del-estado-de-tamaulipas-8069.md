@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2021-09-21"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -921,11 +921,11 @@ Los Diputados propietarios, desde el día de su elección y los suplentes en eje
 
 Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 33.
 
-Los Diputados Propietarios desde el día de su elección y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la Comisión de Delitos, previa declaración de procedencia del Congreso, en los términos del Artículo 152 de esta Constitución.
+Los Diputados Propietarios y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la comisión de delitos, previa declaración de procedencia del Congreso, en los términos del artículo 152 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
@@ -1349,17 +1349,13 @@ LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en 
 
 LV. Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-LVI. Para expedir leyes en materia de impartición de justicia administrativa, así como instituir el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y establecer su organización, funcionamiento, procedimiento y, en su caso, recursos contra sus resoluciones. El Tribunal tendrá a su cargo dirimir controversias que se susciten entre la administración pública estatal o municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales, por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+LVI. Para expedir leyes en materia de impartición de justicia administrativa, así como instituir el Tribunal de Justicia Administrativa;
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El Tribunal se integrará por tres salas unitarias de competencia mixta para conocer de las materias fiscal, contencioso-administrativa y para sancionar las faltas graves en que incurran los servidores públicos estatales y municipales por hechos de corrupción en los términos que dispongan las leyes. Cada sala se integrará por un magistrado. Los Magistrados del Tribunal de Justicia Administrativa durarán en su encargo ocho años improrrogables.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
-
-Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley;
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -2645,7 +2641,9 @@ La Fiscalía General contará, al menos, con las fiscalías especializadas en ma
 
 Para ser Fiscal General de Justicia se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos al día de la designación; contar con título profesional de licenciado en derecho con antigüedad mínima de diez años; gozar de buena reputación, y no haber sido condenado por delito doloso.
 
-El Fiscal General durará en su encargo siete años, sin posibilidad de reelección, y será designado y removido conforme al siguiente procedimiento:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El Fiscal General durará en su encargo siete años y será designado y removido conforme al siguiente procedimiento:
 
 I. A partir de la ausencia definitiva del Fiscal General, el Congreso del Estado contará con diez días para integrar una lista paritaria de al menos seis candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al titular del Ejecutivo.
 
@@ -2657,7 +2655,9 @@ III. El Congreso, con base en la terna y previa comparecencia de las personas pr
 
 En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I. Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
 
-IV. El Fiscal General podrá ser removido por el titular del Ejecutivo únicamente por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. El Fiscal General podrá ser removido por el titular del Ejecutivo únicamente por las causas graves que establezca la ley. La remoción deberá ser aprobada dentro del plazo de diez días por el voto de al menos dos terceras partes de los miembros del Congreso del Estado. En caso de negativa o vencido el plazo, el Fiscal General permanecerá en el cargo y no podrá ser removido por los mismos hechos que originaron el procedimiento.
 
 V. En los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
 
@@ -2665,7 +2665,9 @@ VI. Los demás integrantes del Ministerio Público serán nombrados y removidos 
 
 VII. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
-El nombramiento de los fiscales especializados a los que se refiere esta Constitución, con excepción del Fiscal Especializado en Combate a la Corrupción, se llevará a cabo a propuesta del Fiscal General y por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Solamente podrán ser removidos por las causas graves que establezca la ley.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El nombramiento de los fiscales especializados a los que se refiere esta Constitución, con excepción del Fiscal Especializado en Combate a la Corrupción, se llevará a cabo a propuesta del Fiscal General y por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Solamente podrán ser removidos por las causas graves que establezca la ley y con el mismo procedimiento para remover al Fiscal General.
 
 El Fiscal General presentará anualmente al Congreso del Estado y al Ejecutivo, un informe de actividades.
 
@@ -3148,6 +3150,22 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 No se requerirá declaración de procedencia del Congreso cuando alguno de los servidores públicos a que hace referencia el Artículo 152 cometa un delito durante el tiempo que se encuentre separado de su encargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados del Artículo 152, se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Art. 153 Bis.
+
+El Tribunal de Justicia Administrativa del Estado, será un órgano dotado de plena jurisdicción y autonomía para dictar sus fallos, así como para establecer su organización, funcionamiento, procedimiento y, en su caso, recursos contra sus resoluciones.
+
+El Tribunal contará con personalidad jurídica y patrimonio propios. Además, para garantizar su independencia presupuestal, contará anualmente con un presupuesto aprobado por el Congreso del Estado, cuya asignación no podrá ser menor al autorizado para el año fiscal inmediato anterior, mismo que se ejercerá con autonomía, conforme a la Ley de Gasto Público y las disposiciones legales aplicables, bajo los principios de legalidad, certeza, independencia, honestidad, responsabilidad y transparencia.
+
+Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
+
+El Tribunal tendrá a su cargo dirimir controversias que se susciten entre la administración pública estatal o municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales, por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+
+El Tribunal se integrará por tres salas unitarias de competencia mixta para conocer de las materias fiscal, contencioso-administrativa y para sancionar las faltas administrativas graves en que incurran los servidores públicos estatales y municipales por hechos de corrupción en los términos que dispongan las leyes. Cada sala se integrará por un magistrado. Los Magistrados del Tribunal de Justicia Administrativa durarán en su encargo ocho años.
+
+Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
@@ -5314,6 +5332,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-814 MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN LVI DEL ARTÍCULO 58; SE ADICIONA UN ARTÍCULO 153 BIS; Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DE LA FRACCIÓN LVI DEL ARTÍCULO 58 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-813 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 33; Y 125, PÁRRAFOS SÉPTIMO, FRACCIÓN IV, Y OCTAVO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO NOVENO.
 
