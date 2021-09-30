@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2021-09-09"
+last_updated: "2021-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -155,9 +155,9 @@ V.- Promover el conocimiento y la preservación del idioma oficial - el español
 
 VI.- Infundir el conocimiento y la práctica de la democracia como forma de convivencia que permite a todas las personas participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VII.- Promover los valores de respeto a la vida, la dignidad de las personas, la justicia, la libertad, la igualdad, la observancia de la Ley y el conocimiento y respeto de los derechos humanos; asimismo, difundir en las escuelas el contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
+VII.- Promover, sensibilizar, difundir, capacitar, educar y fomentar la protección de los valores y actitudes de respeto a la vida, la dignidad de las personas, la justicia, la libertad, la igualdad, la observancia de la ley y el conocimiento, respeto y defensa de los derechos humanos; asimismo, el estudio y análisis en los centros educativos del contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas, entre la población estudiantil de los diferentes niveles educativos.
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -353,13 +353,17 @@ XV.- Impulsar el desarrollo de la enseñanza tecnológica, creando al efecto las
 
 XVI.- Apoyar, gestionar y aportar los medios y recursos necesarios para el desarrollo de la investigación científica y tecnológica de los niveles educativos;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XVII.- Generar información estadística relativa a la educación, desglosada según los motivos de discriminación prohibidos; y
+XVII.- Generar información estadística relativa a la educación, desglosada según los motivos de discriminación prohibidos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII.- Procurar proporcionar productos adecuados para la gestión menstrual, tales como, toallas sanitarias desechables y de tela, tampones, copas menstruales o cualquier otro bien destinado a la gestión menstrual; y
 
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVIII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen.
+XIX.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen.
 
 #### SECCION SEGUNDA. ATRIBUCIONES DE LA SECRETARIA
 
@@ -403,9 +407,9 @@ XIV.- Fomentar las actividades de educación física, de cuidado al medio ambien
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XVI.- Establecer, en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y atendiendo a sus respectivos ámbitos de competencia, protocolos para la detección y seguimiento de los casos de violencia física, emocional, psicológica o sexual contra niñas, niños y adolescentes, y las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo, para el fomento de la realización de estudios clínicos, buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, en la familia y estudiantes del Sistema Estatal de educación;
+XVI.- Establecer, en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y atendiendo a sus respectivos ámbitos de competencia, protocolos para la detección y seguimiento de los casos de violencia física, emocional, psicológica o sexual contra niñas, niños y adolescentes, y las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo, para el fomento de la educación menstrual y realización de estudios clínicos, buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, en la familia y estudiantes del Sistema Estatal de educación;
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
@@ -1505,9 +1509,9 @@ XV.- Capacitarán a los docentes y demás autoridades escolares sobre la forma d
 
 XVI.- Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XVII.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria, y
+XVII.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -1521,9 +1525,13 @@ El Estado y los Municipios también llevarán a cabo programas asistenciales, ay
 
 Además de las actividades enumeradas en este artículo, la Autoridad Educativa aplicará los programas compensatorios implementados de manera conjunta con la Autoridad Educativa Federal, a través de los recursos específicos que para tal efecto designe esta última, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se concierten las proporciones de financiamiento y las acciones específicas que las autoridades educativas deban realizar para reducir y superar dichos rezagos.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas de conformidad a los lineamientos que para tal efecto expida el Instituto, evaluarán en los ámbitos de sus competencias los resultados de calidad educativa de los programas compensatorios antes mencionados.
+El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas de conformidad a los lineamientos que para tal efecto expida el Instituto, evaluarán en los ámbitos de sus competencias los resultados de calidad educativa de los programas compensatorios antes mencionados; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIX.- Desde una perspectiva de género, se procurará facilitar de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes, en las escuelas públicas pertenecientes al sistema educativo estatal.
 
 ###### ARTICULO 79.
 
@@ -2392,3 +2400,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La aplicación de la reforma del presente decreto, se sujetará a la disponibilidad presupuestal correspondiente.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-834 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8º, FRACCIÓN VII DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-849 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 11, FRACCIÓN XVII; 12, FRACCIÓN XVI; Y 78, FRACCIONES XVII Y XVIII PÁRRAFO CUARTO; Y SE ADICIONAN LA FRACCIÓN XVIII, RECORRIÉNDOSE LA ACTUAL XVIII PARA SER XIX AL ARTÍCULO 11; Y LA FRACCIÓN XIX AL ARTÍCULO 78, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
