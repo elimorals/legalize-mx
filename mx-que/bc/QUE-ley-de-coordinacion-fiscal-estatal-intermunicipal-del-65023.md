@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-65023"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2019-04-19"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE COORDINACION FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -103,7 +105,9 @@ En los productos de la federación relacionados con bienes o bosques que las ley
 
 Las participaciones que correspondan a los municipios, se calcularán por cada ejercicio fiscal y serán entregadas mensualmente por el Estado, dentro de los cinco días siguientes a la fecha en que éste las reciba.
 
-A más tardar, dentro de los siete meses siguientes al cierre de cada ejercicio fiscal, el Estado, por conducto de la Secretaría de Planeación y Finanzas del Estado, comprobará el ingreso total que por participaciones hubiere obtenido de la federación en el ejercicio de que se trate, disminuirá las cantidades que hubiere entregado provisionalmente a los municipios y formulará de inmediato las liquidaciones que procedan.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+A más tardar, dentro de los siete meses siguientes al cierre de cada ejercicio fiscal, el Estado, por conducto de la Secretaría de Finanzas, comprobará el ingreso total que por participaciones hubiere obtenido de la federación en el ejercicio de que se trate, disminuirá las cantidades que hubiere entregado provisionalmente a los municipios y formulará de inmediato las liquidaciones que procedan.
 
 El retraso en la entrega de las participaciones a que se refiere el presente artículo, dará lugar al pago de intereses a la tasa de recargos que establezca el Congreso de la Unión para los casos de pago a plazos de contribuciones.
 
@@ -115,13 +119,17 @@ La compensación entre el derecho de los municipios a recibir participaciones y 
 
 El Estado podrá realizar pagos por cuenta del municipio, con cargo a sus participaciones municipales, cuando así lo solicite el ayuntamiento que corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-El Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas del Estado, pondrá a disposición de los municipios que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus factores de participaciones, así como el monto de las mismas.
+El Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, pondrá a disposición de los municipios que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus factores de participaciones, así como el monto de las mismas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-El Gobernador del Estado, a través de la Secretaría de Planeación y Finanzas del Estado, deberá proporcionar, por escrito, a cada uno de los municipios del Estado, dentro del mes de noviembre de cada año, el monto anual estimado de sus participaciones para el año siguiente.
+El Gobernador del Estado, a través de la Secretaría de Finanzas, deberá proporcionar, por escrito, a cada uno de los municipios del Estado, dentro del mes de noviembre de cada año, el monto anual estimado de sus participaciones para el año siguiente.
 
 ###### Artículo 12.
 
@@ -171,9 +179,11 @@ El Sistema de Colaboración Administrativa Estatal Intermunicipal, se crea deriv
 
 El Sistema de Colaboración Administrativa Estatal Intermunicipal deberá ser aprobado por la Legislatura del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-Los Convenios que celebren el Gobernador del Estado, por conducto de la Secretaría de Planeación y Finanzas del Estado y los municipios, a través de quienes autoricen sus ayuntamientos, podrán incluir la coordinación en materia de administración de ingresos estatales y municipales, en sus funciones de registro estatal y municipal de causantes, recaudación, imposición y condonación de multas, fiscalización y administración, que serán ejercidas por las autoridades fiscales estatales o municipales, según lo convenido.
+Los Convenios que celebren el Gobernador del Estado, por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado y los municipios, a través de quienes autoricen sus ayuntamientos, podrán incluir la coordinación en materia de administración de ingresos estatales y municipales, en sus funciones de registro estatal y municipal de causantes, recaudación, imposición y condonación de multas, fiscalización y administración, que serán ejercidas por las autoridades fiscales estatales o municipales, según lo convenido.
 
 El Gobernador del Estado ordenará la publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, del convenio celebrado con cada municipio.
 
@@ -185,9 +195,11 @@ En los convenios a que se refiere el artículo anterior, se establecerán los in
 
 Las autoridades fiscales estatales o municipales, en el ejercicio de las facultades que se les confieran, a través de los convenios que se celebren, serán consideradas como autoridades de origen según la materia del acto que realicen, procediendo las reglas y medios de defensa que establezcan las leyes respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-La recaudación de los ingresos estatales por parte de las autoridades fiscales municipales o de ingresos municipales por parte de las autoridades fiscales estatales, se concentrará mensualmente en forma directa a la Secretaría de Planeación y Finanzas del Estado o a las tesorerías municipales, según corresponda o en los términos de los convenios que para tal efecto se suscriban.
+La recaudación de los ingresos estatales por parte de las autoridades fiscales municipales o de ingresos municipales por parte de las autoridades fiscales estatales, se concentrará mensualmente en forma directa a la Secretaría de Finanzas del Poder Ejecutivo del Estado o a las tesorerías municipales, según corresponda o en los términos de los convenios que para tal efecto se suscriban.
 
 Se podrá establecer, si existe acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
 
@@ -195,9 +207,11 @@ La falta de entero en los plazos establecidos dará lugar a que se causen, a car
 
 ### Capítulo Cuarto. De los organismos de colaboración administrativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 18.
 
-El Gobernador del Estado por sí o por conducto de la Secretaría de Planeación y Finanzas del Estado y los municipios, a través de sus órganos hacendarios, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Colaboración Administrativa Estatal Intermunicipal, a través de:
+El Gobernador del Estado por sí o por conducto de la Secretaría de Finanzas y los municipios, a través de sus órganos hacendarios, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Colaboración Administrativa Estatal Intermunicipal, a través de:
 
 I. La Convención Fiscal de las Tesorerías Municipales del Estado;
 
@@ -205,9 +219,11 @@ II. La Comisión Permanente de Tesoreros Municipales; y
 
 III. La Comisión de Capacitación y Asesoría Fiscal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 19.
 
-La Convención Fiscal de las Tesorerías Municipales del Estado se integrará por el titular de la Secretaría de Planeación y Finanzas del Estado o su representante y por los tesoreros de los municipios del Estado.
+La Convención Fiscal de las Tesorerías Municipales del Estado se integrará por el titular de la Secretaría de Finanzas o su representante y por los tesoreros de los municipios del Estado.
 
 ###### Artículo 20.
 
@@ -215,9 +231,11 @@ La Convención Fiscal de las Tesorerías Municipales del Estado, se llevará a c
 
 La Comisión Permanente de Tesoreros Municipales hará las convocatorias correspondientes, indicando los asuntos que habrán de atenderse en la convención.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-La Convención será presidida conjuntamente por el titular de la Secretaría de Planeación y Finanzas y por el tesorero municipal que elija la Convención, de entre sus miembros.
+La Convención será presidida conjuntamente por el titular de la Secretaría de Finanzas y por el tesorero municipal que elija la Convención, de entre sus miembros.
 
 ###### Artículo 22.
 
@@ -227,7 +245,9 @@ I. Aprobar los reglamentos de funcionamiento de la propia Convención Fiscal, de
 
 II. Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los municipios, para el sostenimiento de los órganos citados en la fracción anterior;
 
-III. Proponer al Gobernador del Estado, por conducto de la Secretaría de Planeación y Finanzas del Estado, las medidas que estime convenientes para actualizar o mejorar el Sistema de Colaboración Administrativa Estatal Intermunicipal; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Proponer al Gobernador del Estado, por conducto de la Secretaría de Finanzas, las medidas que estime convenientes para actualizar o mejorar el Sistema de Colaboración Administrativa Estatal Intermunicipal; y
 
 IV. Evaluar los planes y programas de los organismos de la colaboración administrativa entre el Estado y sus municipios, y aprobarlos cuando proceda.
 
@@ -237,19 +257,25 @@ En las reuniones de la Convención Fiscal de las Tesorerías Municipales del Est
 
 I. El informe de la Comisión Permanente de Tesoreros Municipales, respecto de la distribución, liquidación de pagos provisionales y diferencias de participaciones derivadas de ingresos federales y estatales del año precedente;
 
-II. El informe de la Secretaría de Planeación y Finanzas del Estado, respecto del comportamiento de los impuestos municipales que por convenio administre y de las perspectivas de su desarrollo para el año siguiente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. El informe de la Secretaría de Finanzas, respecto del comportamiento de los impuestos municipales que por convenio administre y de las perspectivas de su desarrollo para el año siguiente;
 
 III. Los proyectos de leyes de ingresos para el año siguiente, enviados por los ayuntamientos para su estudio a la Convención Fiscal de las Tesorerías Municipales del Estado;
 
 IV. Los proyectos de reformas, adiciones o derogaciones de la Ley de Hacienda de los Municipios del Estado de Querétaro y demás disposiciones normativas aplicables, formulados por los Ayuntamientos o por el Gobernador del Estado; y
 
-V. El informe de la Secretaría de Planeación y Finanzas del Estado, respecto del comportamiento y perspectivas del financiamiento a los municipios y de las acciones a su cargo.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. El informe de la Secretaría de Finanzas, respecto del comportamiento y perspectivas del financiamiento a los municipios y de las acciones a su cargo.
 
 ###### Artículo 24.
 
 La Comisión Permanente de Tesoreros Municipales se integrará de la siguiente forma:
 
-I. Por el titular de la Secretaría de Planeación y Finanzas del Estado o la persona que éste designe, en su caso; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Por el titular de la Secretaría de Finanzas o la persona que éste designe, en su caso; y
 
 II. Por los municipios del Estado de Querétaro, quienes estarán representados por los seis tesoreros municipales que al efecto elijan, en la convención.
 
@@ -277,13 +303,17 @@ La elección a que se refiere este artículo, se realizará por votación secret
 
 Los representantes de los municipios, miembros de la Comisión Permanente de Tesoreros Municipales durarán en su encargo un año, pero continuarán en funciones aún después de terminado su periodo, en tanto no sean elegidos los que deban sustituirlos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 27.
 
-La Comisión Permanente de Tesoreros Municipales será presidida conjuntamente por el titular de la Secretaría de Planeación y Finanzas del Estado y por el tesorero municipal que elijan de entre sus miembros los representantes de los municipios integrantes de la Comisión.
+La Comisión Permanente de Tesoreros Municipales será presidida conjuntamente por el titular de la Secretaría de Finanzas y por el tesorero municipal que elijan de entre sus miembros los representantes de los municipios integrantes de la Comisión.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-La Comisión Permanente de Tesoreros Municipales se reunirá de manera ordinaria en el mes de noviembre de cada año, previo a la Convención Fiscal de las Tesorerías Municipales del Estado y, de forma extraordinaria, cuando así lo considere necesario, debiendo ser convocada con cinco días hábiles de anticipación por el titular de la Secretaría de Planeación y Finanzas del Estado o por lo menos por tres de los miembros de dicha Comisión, señalándose en la convocatoria respectiva, los asuntos que habrán de tratarse.
+La Comisión Permanente de Tesoreros Municipales se reunirá de manera ordinaria en el mes de noviembre de cada año, previo a la Convención Fiscal de las Tesorerías Municipales del Estado y, de forma extraordinaria, cuando así lo considere necesario, debiendo ser convocada con cinco días hábiles de anticipación por el titular de la Secretaría de Finanzas o por lo menos por tres de los miembros de dicha Comisión, señalándose en la convocatoria respectiva, los asuntos que habrán de tratarse.
 
 Artículo 29 Serán facultades de la Comisión Permanente de Tesoreros Municipales:
 
@@ -303,7 +333,9 @@ VI. Las demás que se le encomienden.
 
 La Comisión de Capacitación y Asesoría Fiscal, estará integrada por:
 
-I. Un Coordinador de la misma, que será nombrado por el titular de la Secretaría de Planeación y Finanzas del Estado, quien la presidirá, debiendo contar para el desempeño de sus encargos, con el personal especializado que requiera; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Un Coordinador de la misma, que será nombrado por el titular de la Secretaría de Finanzas, quien la presidirá, debiendo contar para el desempeño de sus encargos, con el personal especializado que requiera; y
 
 II. Un Consejo Directivo, fungiendo como tal la Comisión Permanente de Tesoreros Municipales del Estado.
 
@@ -624,3 +656,87 @@ Artículo Primero. La presente Ley entrará en vigor a partir de su publicación
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, para realizar las adecuaciones presupuestales que resulten necesarias a fin de dar cumplimiento a lo dispuesto en esta Ley, así como para efectuar los ajustes que se requieran a efecto de que la distribución del Fondo de Fomento Municipal y las participaciones federales correspondientes a 2019 entre los municipios del Estado, se realice con arreglo a lo previsto en la presente Ley.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
