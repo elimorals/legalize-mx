@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2021-09-06"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1330,6 +1330,10 @@ La prescripción producirá sus efectos aunque no la alegue como excepción el i
 > <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 Cuando se trate de los delitos contenidos en los artículos 208, fracciones I y II, 210, 211, 308, 308 Bis, 309, 310, 311, 313, 314 y 315 de este código, si el sujeto pasivo es una persona menor de edad o no tuviere la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En el delito de feminicidio, la acción penal para su persecución es imprescriptible.
 
 ### CAPÍTULO VII. PRESCRIPCIÓN DE LA ACCIÓN PENAL
 
@@ -5638,3 +5642,11 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Artículo segundo. La fiscalía contará con 120 días partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado para poner en funcionamiento el Registro de Deudores Alimentarios Morosos de Yucatán.
 
 Artículo tercero. Se derogan las disposiciones emitidas con anterioridad que se opongan al presente decreto.
+
+D.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 416/2021 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE IMPRESCRIPTIBILIDAD DEL DELITO DE FEMINICIDIO”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
