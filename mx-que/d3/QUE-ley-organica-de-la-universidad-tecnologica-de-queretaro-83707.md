@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-universidad-tecnologica-de-queretaro-83707"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-11"
-last_updated: "2011-11-11"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 11 de noviembre de 2011.
 
@@ -127,11 +129,15 @@ También contará con las unidades académicas que se establezcan en el Estado p
 
 El Consejo Directivo será el órgano de gobierno y autoridad máxima de la Universidad y se integrará de la siguiente forma:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. El Gobernador del Estado o el titular de la Secretaría de Educación, quien lo presidirá;
 
 II. El Rector de la Universidad, quien fungirá como Secretario Técnico del Consejo y solo tendrá derecho a voz;
 
-III. Los titulares de las Secretarías de Educación, Planeación y Finanzas y de la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Los titulares de las Secretarías de Educación, Finanzas y de la Contraloría del Estado;
 
 IV. Tres representantes designados por el titular de la Secretaría de Educación Pública Federal;
 
@@ -183,7 +189,9 @@ V. Expedir y autorizar la estructura básica de la universidad y las modificacio
 
 VI. Designar y remover a los miembros del Patronato de la Universidad referidos en la fracción II del artículo 26 de la presente Ley;
 
-VII. Proponer al titular del Poder Ejecutivo del Estado de Querétaro, mediante una terna, el nombramiento del Rector;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Proponer al titular del Poder Ejecutivo del Estado de Querétaro, o al Secretario de Educación del Poder Ejecutivo, mediante una terna, el nombramiento del Rector;
 
 VIII. Conocer y aprobar, en su caso, los informes que presente el Rector;
 
@@ -205,11 +213,13 @@ XV. Las demás facultades y obligaciones que le señalen otras leyes y disposici
 
 La Rectoría tendrá a su cargo la administración y dirección de la Universidad; el Rector será su representante legal y contará con las facultades establecidas en esta Ley, las demás disposiciones legales aplicables y los ordenamientos que emita el Consejo Directivo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 13.
 
-El Rector será designado y removido por el titular del Poder Ejecutivo del Estado de Querétaro, con base en la terna que proponga el Consejo Directivo. Durará en su cargo cuatro años, pudiendo ser ratificado una sola vez, por un período igual.
+El Rector será designado y removido por el titular del Poder Ejecutivo del Estado de Querétaro, o el Secretario de Educación del Poder Ejecutivo, con base en la terna que proponga el Consejo Directivo. Durará en su cargo cuatro años, pudiendo ser ratificado una sola vez, por un período igual.
 
-En las ausencias temporales, será sustituido por quien designe el Consejo Directivo; en las ausencias definitivas, por quien designe el titular del Poder Ejecutivo del Estado de Querétaro, en los términos que anteceden.
+En las ausencias temporales, será sustituido por quien designe el Consejo Directivo; en las ausencias definitivas, por quien designe el titular del Poder Ejecutivo del Estado de Querétaro, o el Secretario de Educación del Poder Ejecutivo.
 
 ###### Artículo 14.
 
@@ -434,3 +444,89 @@ Dr. Fernando De la Isla Herrera
 Secretario de Educación
 
 Rúbrica
+
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión· de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
