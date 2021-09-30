@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2020-06-29"
+last_updated: "2021-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR -- ANTES LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 30 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -3786,3 +3786,23 @@ B.O. 29 DE JUNIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación y se enviará para su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se abrogan todas las disposiciones de carácter secundario que se opongan al presente decreto.
+
+B.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2768 SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su aprobación debiendo ser publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abrogan el o los ordenamientos jurídicos que hayan estado vigentes hasta antes de la entrada en vigor del presente decreto y que hayan tenido por objeto organizar la estructura y funcionamiento interno del Poder Legislativo del Estado de Baja California Sur.
+
+TERCERO.- Se derogan todas aquellas disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente decreto.
+
+CUARTO.- El número de comisiones permanentes que se encuentren funcionando al momento de la entrada en vigor del presente decreto, así como la integración de cada una de ellas, se tendrán por constituidas y reconocidas por la ley orgánica contenida en este decreto.
+
+Para efectos de lo dispuesto en el párrafo anterior, la integración de las comisiones permanentes que se reconoce es aquella que deriva de la aprobación hecha por el Pleno del Congreso del Estado en la sesión pública ordinaria del día martes 04 de septiembre de 2018, así como los correspondientes cambios de integración en algunas de ellas, que se efectuaron en la sesión privada extraordinaria de fecha 06 de marzo de 2020.
+
+QUINTO.- La Junta de Gobierno y Coordinación Política continuará siendo presidida hasta el término de esta legislatura por la fracción parlamentaria que actualmente cuenta con mayor número de integrantes.
+
+SEXTO.- Los funcionarios de las diversas áreas y dependencias del Poder Legislativo que hayan sido ratificados por el Pleno en el presente periodo ordinario de sesiones, se tendrán por reconocidos automáticamente por la ley orgánica contenida en este decreto, razón por la cual continuarán en el ejercicio de sus encargos.
+
+SÉPTIMO.- Los asuntos que se encuentren pendientes de dictamen o de resolución por las diversas comisiones permanentes, continuarán tramitándose ahora bajo las reglas de esta ley orgánica, pero en todo caso no se interrumpirá para su dictaminación el computo de los días que hayan transcurrido desde que fueron turnadas a la o las comisiones respectivas hasta el momento de la entrada en vigor de este decreto.
