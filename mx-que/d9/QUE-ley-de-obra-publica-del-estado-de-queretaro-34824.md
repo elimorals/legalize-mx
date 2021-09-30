@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2021-05-28"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "QUE"
 
 [NOTA: DE CONFORMIDAD CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -143,19 +145,19 @@ VII.- Todos aquellos de naturaleza análoga.
 
 La inversión en obra pública se sujetará a lo previsto en la normatividad que regula al gasto público, al ejercicio de los presupuestos de egresos del Estado y los Municipios, así como en lo previsto en la ley de la materia y demás disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 4.
 
-La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, a través de las dependencias competentes en las materias de planeación y finanzas, desarrollo urbano y obras públicas y contraloría, y a los municipios, en el ámbito de la competencia que les corresponda, sin perjuicio de la intervención que competa a otras dependencias estatales o municipales.
+La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, a través de las dependencias competentes en las materias de finanzas pública (sic), desarrollo urbano y obras públicas, contraloría, y a los municipios, en el ámbito de la competencia que les corresponda, sin perjuicio de la intervención que competa a otras dependencias estatales o municipales.
 
-REFORMADO, P.O. 10 DE OCTUBRE DE 2018)
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas del Poder Ejecutivo le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora. En el caso de entidades y municipios, a la dependencia o unidad encargada de las finanzas públicas le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
+Para la aplicación de la presente Ley, a la Secretaría de Finanzas del Poder Ejecutivo le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora. En el caso de entidades y municipios, a la dependencia o unidad encargada de las finanzas públicas le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Las Secretarías de Desarrollo Urbano y Obras Públicas, de Planeación y Finanzas y de la Contraloría, conjuntamente y, en su caso, con los Municipios, expedirán las disposiciones administrativas necesarias que para la aplicación de la presente Ley deberán observarse en la contratación, ejecución y supervisión de la obra pública.
+Las Secretarías de Desarrollo Urbano y Obras Públicas, de Finanzas y de la Contraloría, conjuntamente y, en su caso, con los Municipios, expedirán las disposiciones administrativas necesarias que para la aplicación de la presente Ley deberán observarse en la contratación, ejecución y supervisión de la obra pública.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -183,9 +185,11 @@ Corresponde a las dependencias, entidades y Municipios ejecutar la obra pública
 
 Cuando por las condiciones especiales de la obra pública se requiera la intervención de dos o más dependencias, entidades o Municipios, quedarán a cargo de cada una de ellas, la responsabilidad sobre la adecuada ejecución de la parte de la obra que le corresponda, sin perjuicio de la responsabilidad que, en razón de sus atribuciones, tenga la dependencia encargada de la planeación y programación de aquella. Previamente a la ejecución de la obra a que se refiere este artículo, se deberán suscribir, los términos y las condiciones para la coordinación de las acciones de las dependencias, entidades o los Municipios que intervengan así como los convenios correspondientes.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 9.
 
-El Ejecutivo del Estado a través de las Secretarías de la Contraloría, de Desarrollo Urbano y Obras Públicas, Planeación y Finanzas y de Desarrollo Sustentable, así como los Municipios, de acuerdo a sus atribuciones, dictarán las disposiciones conforme a las cuales, las dependencias, entidades y Municipios vigilarán las acciones relacionadas con la obra pública y comprobarán sus resultados.
+El Ejecutivo del Estado a través de las Secretarías de la Contraloría, de Desarrollo Urbano y Obras Públicas, Finanzas y de Desarrollo Sustentable, así como los Municipios, de acuerdo a sus atribuciones, dictarán las disposiciones conforme a las cuales, las dependencias, entidades y Municipios vigilarán las acciones relacionadas con la obra pública y comprobarán sus resultados.
 
 ###### ARTÍCULO 10.
 
@@ -261,11 +265,11 @@ IX.- Las demás previsiones que deberán tomarse en consideración según la nat
 
 X.- Los programas de obra pública indicarán las fechas previstas para la iniciación y terminación de todas sus fases, considerando todas las acciones previas a su ejecución.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 16.
 
-Las dependencias y las entidades remitirán sus programas de obra pública a la Secretaría de Planeación y Finanzas en las fechas establecidas por esta y en estricto apego a lo estipulado en la Ley para el Manejo de los Recursos Públicos, para que en su caso puedan ser consideradas en el presupuesto de egresos del estado.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+Las dependencias y las entidades remitirán sus programas de obra pública a la Secretaría de Finanzas en las fechas establecidas por ésta y en estricto apego a lo estipulado en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, para que en su caso puedan ser consideradas en el presupuesto de egresos del estado.
 
 ###### ARTÍCULO 17.
 
@@ -299,11 +303,11 @@ La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo hará 
 
 Asimismo, implementará herramientas y el uso de tecnologías de la información, con la finalidad de crear una plataforma digital que compile los datos relativos al padrón, que permita su consulta de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
 
-Sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, las personas con registro vigente en el padrón.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+Solo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, las personas con registro vigente en el padrón que corresponda.
 
-Aquellas personas físicas o morales que estén registradas en el Padrón de Contratistas de obra pública del Estado de Querétaro, podrán celebrar contratos de obra pública y servicios relacionados con ésta, ya sea con el Estado o los municipios, independientemente del origen de los recursos con los que habrá de ejecutarse la obra o servicio.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 La clasificación por especialidad requerida, a que se refiere el primer párrafo de este artículo, deberá ser considerada en la convocatoria y en la contratación de la obra pública.
 
@@ -401,9 +405,9 @@ En lo que se refiere a los incisos c), d) y e), se les convocará dependiendo de
 
 En el caso de los concursos de obra pública bajo la modalidad de invitación restringida a cuando menos tres contratistas, los participantes deberán ser previamente propuestos por el Comité de Selección de Contratistas, de acuerdo al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-1. Para poder participar como candidato en el Comité de Selección para los concursos bajo esta modalidad, los interesados deberán estar inscritos en el Padrón de Contratistas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o del municipio correspondiente. Los registros deberán ser vigentes. Independientemente de que el municipio de que se trate cuente con padrón de contratistas, bastará con que el candidato esté inscrito en el Padrón de Contratistas de obra pública del Estado de Querétaro.
+1. Para poder participar como candidato en el Comité de Selección para los concursos bajo esta modalidad, los interesados deberán estar inscritos en el Padrón de Contratistas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o del municipio correspondiente. Los registros deberán ser vigentes. Independientemente de que el municipio de que se trate cuente con padrón de contratistas.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
@@ -961,9 +965,9 @@ Los anticipos se entregarán dentro de los plazos que se fijen en la normativida
 
 La aceptación, calificación, custodia, sustitución, cancelación y requerimiento de pago de las garantías, se realizará por los Poderes del Estado, Entidades, Dependencias o Municipios contratantes.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Las garantías otorgadas a favor de la Secretaría de Planeación y Finanzas del Poder Ejecutivo, en términos del artículo 49 fracción III de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se harán efectivas por el Poder, entidad o dependencia correspondiente, en coordinación con dicha Secretaría, por lo que ve a la suscripción de los documentos necesarios para ese efecto.
+Las garantías otorgadas a favor de la Secretaría de Finanzas del Poder Ejecutivo, en términos del artículo 49 fracción III de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se harán efectivas por el Poder, entidad o dependencia correspondiente, en coordinación con dicha Secretaría, por lo que ve a la suscripción de los documentos necesarios para ese efecto.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -983,11 +987,151 @@ Previo a la suscripción del contrato modificatorio o a la ampliación correspon
 
 Los ajustes o incrementos de los precios unitarios contratados, serán sobre la base de lo estipulado en esta ley; dichos ajustes no se considerarán en el monto de la modificación o ampliación del contrato original.
 
-### CAPÍTULO I. DE LA EJECUCIÓN Y SUPERVISIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII. DE LAS CONCESIONES
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 BIS.- El Comité de Concesiones podrá otorgar concesiones para construir, operar, explotar, conservar y mantener una obra, bienes de dominio público o servicios relacionados con las mismas.
+
+Las concesiones otorgadas en términos del párrafo anterior, tendrán una vigencia máxima de 30 años, pudiéndose prorrogar considerando la naturaleza de la misma, previa justificación a cargo del Comité de Concesiones.
+
+Las concesiones y sus prórrogas o modificaciones, las emitirá el Comité de Concesiones previa opinión favorable.
+
+El procedimiento de otorgamiento de concesiones se sujetará a las modalidades establecidas en los lineamientos autorizados, la presente Ley y demás disposiciones aplicables.
+
+Las personas que participen en el procedimiento instaurado para el otorgamiento de concesiones, deberán integrarse al Padrón de Contratistas de Obra Pública del Estado de Querétaro.
+
+La Secretaría de Desarrollo Urbano y Obras Públicas podrá coordinarse y celebrar convenios con las dependencias y entidades del Poder Ejecutivo, así como con los Municipios y demás autoridades federales, para ejecutar las atribuciones previstas en el primer párrafo de este numeral y gestionar las autorizaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 TER.- El concesionario podrá recurrir al financiamiento privado para ejecutar las obras objeto de la concesión, previa autorización del Comité de Concesiones.
+
+Los concesionarios podrán solicitar al Comité de Concesiones, la autorización para ejecutar la aportación de las concesiones a empresas de participación estatal y a fideicomisos públicos, o de operación y mantenimiento o de garantía de financiamiento.
+
+La Secretaría de Desarrollo Urbano y Obras Públicas podrá exigir el cumplimiento de las obligaciones previstas en el título de concesión.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 QUÁTER.- La Secretaría de Desarrollo Urbano y Obras Públicas podrá realizar visitas de verificación a los concesionarios, a efecto de constatar el cumplimiento de las condiciones y obligaciones previstas en el título de concesión, así como el avance de la ejecución de la obra concesionada.
+
+El concesionario deberá otorgar las facilidades para la ejecución de las visitas de verificación, proporcionando la información y documentación que le sea solicitada para acreditar el cumplimiento de los términos del título de concesión.
+
+Las visitas de verificación podrán realizarse en el lugar en el que se desarrolle la obra concesionada y en el domicilio manifestado por el concesionario para el cumplimiento de las condiciones y obligaciones establecidas en el título de concesión.
+
+En la ejecución de las visitas de verificación y la emisión de las resoluciones de los procedimientos ejecutados, serán aplicables supletoriamente las disposiciones previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 QUINQUIES.- Los títulos de concesión deberán contener los requisitos siguientes:
+
+I. Nombre o denominación de la persona a favor de la cual se expide la concesión;
+
+II. Duración de la concesión;
+
+III. Identificación de la obra, bienes de dominio público o servicios relacionados con las mismas;
+
+IV. Términos, condiciones, prohibiciones y obligaciones a las que estará sujeta la concesión;
+
+V. Causas particulares de revocación de la concesión;
+
+VI. Los seguros que deberán ser contratados por el concesionario;
+
+VII. El importe que el concesionario debe cubrir como contraprestación por la concesión recibida; y
+
+VIII. La precisión de los alcances de la garantía que deberá otorgarse por el concesionario.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 SEXIES.- Las concesiones se extinguen por las causas siguientes:
+
+I. Conclusión de su vigencia;
+
+II. Revocación de la concesión por el incumplimiento a las condiciones y obligaciones establecidas en el título de concesión; y
+
+III. Las previstas en el título de concesión.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 SEPTIES.- Las personas interesadas en la obtención de una concesión podrán plantear su manifestación de interés sobre proyectos de obra que no hayan sido considerados previamente en el Programa Anual de Obra del Poder Ejecutivo del Estado, sin que dicha manifestación sea vinculante para el Comité de Concesiones.
+
+La manifestación de interés deberá presentarse ante la Secretaría de Desarrollo Urbano y Obras Públicas, acompañando las constancias que sustenten la viabilidad del proyecto.
+
+La integración del expediente será a cargo de la Secretaría de Desarrollo Urbano y Obras Públicas y posteriormente se someterá a análisis y determinación de procedencia del Comité de Concesiones.
+
+En el supuesto de que la manifestación de interés no resulte viable, se informará al promovente, sin que la respuesta pueda ser constitutiva de derechos.
+
+El Comité de Concesiones podrá solicitar información adicional relacionada con la manifestación de interés, sin que la emisión de la solicitud constituya opinión favorable.
+
+No procederá medio de defensa alguno en contra de la resolución dictada con motivo de la solicitud de concesiones a que se refiere el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 OCTIES.- El Comité de Concesiones se integrará por un representante de las siguientes dependencias:
+
+I. La Secretaría de Desarrollo Urbano y Obras Públicas;
+
+II. La Secretaría de Finanzas;
+
+III. La Secretaría de Gobierno;
+
+IV. La Secretaría de Planeación y Participación Ciudadana;
+
+V. La Secretaría de la Contraloría;
+
+VI. Una Secretaría Técnica, cuya designación se hará por el titular de la Secretaría de Desarrollo Urbano y Obras Públicas; y
+
+VII. Las demás dependencias y entidades que se consideren necesarias de acuerdo al ámbito de su competencia y la naturaleza de la concesión.
+
+Cada uno de los representantes que integren el Comité de Concesiones podrá designar un suplente, que tendrá derecho a voz y voto.
+
+La Secretaría de la Contraloría participará en las sesiones del Comité de Concesiones, con voz y sin voto, pudiendo nombrar un suplente para tal efecto.
+
+El Comité de Concesiones podrá invitar con voz, pero sin voto a académicos, especialistas y expertos en la materia, atendiendo a la naturaleza de la concesión.
+
+La participación de los integrantes del Comité de Concesiones se realizará conforme a su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 NONIES.- El Comité de Concesiones tendrá las siguientes atribuciones:
+
+I. Evaluar la viabilidad de la emisión del título de concesión;
+
+II. Fijar los términos y condiciones de las concesiones;
+
+III. Establecer los procedimientos para dirimir las controversias derivadas de las concesiones;
+
+IV. Resolver la procedencia del otorgamiento de las concesiones;
+
+V. Otorgar las concesiones para construir, operar, explotar, conservar, mantener una obra, bienes de dominio público o servicios relacionados con las mismas;
+
+VI. Autorizar los lineamientos generales para el otorgamiento de las concesiones;
+
+VII. Solicitar la opinión técnica de las dependencias, entidades y demás entes públicos, conforme al ámbito de competencia y la naturaleza de las concesiones;
+
+VIII. Revocar las concesiones otorgadas en los supuestos previstos en el título de concesión y en la presente Ley;
+
+IX. Establecer el importe que el concesionario debe cubrir como contraprestación por la concesión recibida; y
+
+X. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 DECIES.- La suscripción del título de concesión será a cargo del titular de la Secretaría de Desarrollo Urbano y Obras Públicas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 UNDECIES.- La Secretaría de Desarrollo Urbano y Obras Públicas estará facultada para elaborar y someter a consideración del Comité de Concesiones los lineamientos generales para el funcionamiento del propio Comité, así como para el otorgamiento de concesiones y los relacionados
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 DUODECIES.- El estudio y evaluación de la viabilidad de las concesiones será emitido por el Comité de Concesiones de manera previa a la emisión del proceso de licitación.
 
 ## TÍTULO IV. DE LA EJECUCIÓN, SUPERVISIÓN Y CONTROL DE LA OBRA PÚBLICA
 
-### CAPITULO II. DEL CONTROL DE LA OBRA PÚBLICA
+### CAPÍTULO I. DE LA EJECUCIÓN Y SUPERVISIÓN
 
 ###### ARTÍCULO 57.
 
@@ -999,7 +1143,7 @@ Las dependencias, las entidades y los municipios ejecutantes estarán obligados,
 
 En el momento del inicio, el representante de la contratista en la obra y el supervisor de la contratante, abrirán la bitácora correspondiente quienes serán los autorizados para hacer las anotaciones respectivas, además de aquellas personas que la contratante así lo designe.
 
-### CAPÍTULO III. DE LA TERMINACIÓN Y RECEPCIÓN DE LOS TRABAJOS
+### CAPITULO II. DEL CONTROL DE LA OBRA PÚBLICA
 
 ###### ARTÍCULO 58.
 
@@ -1079,7 +1223,7 @@ En caso de incumplimiento en los pagos de las estimaciones y de los ajustes de c
 
 Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrarlos, adicionados con los intereses correspondientes, conforme a una tasa que será igual a la establecida por la Ley de Ingresos de la Federación para los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días calendario desde la fecha de recepción y pago hasta la fecha en que las cantidades se pongan a disposición de la dependencia, entidad o municipio.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DE LA TERMINACIÓN Y RECEPCIÓN DE LOS TRABAJOS
 
 ###### ARTÍCULO 66.
 
@@ -1120,8 +1264,6 @@ La contratante u organismo operador al que se le consigne la responsabilidad de 
 ## TÍTULO V. DE LA OBRA POR ADMINISTRACIÓN DIRECTA Y DE LAS EXCEPCIONES
 
 ### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 71.
 
@@ -1167,7 +1309,7 @@ El incumplimiento a lo previsto en esta ley será motivo de responsabilidad en l
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 73.
 
@@ -1188,6 +1330,8 @@ El órgano interno de control podrá verificar en cualquier tiempo que las obras
 ## TÍTULO VII. DE LAS INFRACCIONES Y LAS SANCIONES
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 75.
 
@@ -1248,6 +1392,8 @@ Las responsabilidades a que se refiere la presente ley serán independientes de 
 Cuando se haya incurrido en infracción por causas de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir, no se impondrán sanciones. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
 
 ## TÍTULO VIII. DEL RECURSO DE REVOCACIÓN
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 81.
 
@@ -1976,3 +2122,87 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Lo previsto en el artículo 20 relativo a la plataforma digital se realizará atendiendo a la suficiencia presupuestal con que se cuente.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
