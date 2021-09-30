@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-mejora-regulatoria-del-estado-de-queretaro-130760"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-03"
-last_updated: "2018-10-03"
+last_updated: "2021-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 3 de octubre de 2018.
 
@@ -149,17 +151,33 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Titular de la Secretaría de la Contraloría;
 
-III. El Titular de la Secretaría de Gobierno;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IV. El Titular de la Secretaría de Desarrollo Sustentable;
+III. El Titular de la Secretaría de Planeación y Participación Ciudadana;
 
-V. El Jefe de la Oficina de la Gubernatura;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Dos presidentes municipales designados por el Presidente del Consejo; y
+IV. El Titular de la Secretaría de Gobierno;
 
-VII. El Comisionado de Mejora Regulatoria, quien fungirá como Secretario Ejecutivo del Consejo Local.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Los dos presidentes municipales durarán en su representación ante el Consejo Local dos años, y su respectiva presidencia municipal no podrá ser designada nuevamente en dicho cargo sino hasta que los restantes municipios del Estado hayan ocupado tal representación.
+V. El Titular de la Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. El Titular de la Jefatura de Gabinete;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Dos presidentes municipales designados por el Presidente del Consejo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. El Comisionado de Mejora Regulatoria, quien fungirá como Secretario Ejecutivo del Consejo Local.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Los dos presidentes municipales durarán dos años en su representación ante el Consejo Local, pudiendo prorrogarse por un periodo igual.
 
 Cada integrante titular podrá nombrar a un suplente que solamente podrá ser de nivel jerárquico inmediato inferior o equivalente.
 
@@ -231,9 +249,11 @@ La Estrategia Nacional de Mejora Regulatoria que emita el Consejo Nacional será
 
 ### Capítulo IV. De la Comisión Estatal de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 16.
 
-La Comisión Estatal es un órgano desconcentrado de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro, con autonomía técnica y operativa, la cual tiene como objetivo promover la mejora de las Regulaciones y la simplificación de Trámites y Servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+La Comisión Estatal es un órgano desconcentrado de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Querétaro, con autonomía técnica y operativa, la cual tiene como objetivo promover la mejora de las Regulaciones y la simplificación de Trámites y Servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
 
 ###### Artículo 17.
 
@@ -269,9 +289,11 @@ XIV. Supervisar que los Sujetos Obligados de la Administración Pública Estatal
 
 XV. Las demás facultades que establezcan esta Ley, la Ley General y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 18.
 
-La Comisión Estatal estará presidida por un Comisionado, quien será designado por el Titular del Poder Ejecutivo, a propuesta del Secretario de la Contraloría.
+La Comisión Estatal estará presidida por un Comisionado, quien será designado por el Titular del Poder Ejecutivo, a propuesta del Secretario de Planeación y Participación Ciudadana.
 
 El Comisionado deberá contar con título profesional en materias afines al objeto de la Comisión Estatal, tener al menos treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales del sector empresarial, de servicio público o académicas relacionadas con el objeto de la Comisión Estatal.
 
@@ -453,11 +475,11 @@ La finalidad del Análisis de Impacto Regulatorio es garantizar que las Regulaci
 
 Las Autoridades de Mejora Regulatoria y Sujetos Obligados, para el Análisis de Impacto Regulatorio, estarán a lo dispuesto en el Capítulo III del Título Tercero de la Ley General y a los lineamientos Generales que emita el Consejo Nacional de Mejora Regulatoria.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 38.
 
-La Secretaría de Gobierno del Poder Ejecutivo únicamente publicará en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" las Regulaciones que expidan los Sujetos Obligados cuando éstos acrediten contar con una resolución definitiva de la Autoridad de Mejora Regulatoria respectiva. La versión que publiquen los Sujetos Obligados deberá coincidir íntegramente con la contenida en la resolución antes señalada, salvo en el caso de las disposiciones que emite el Titular del Ejecutivo u homólogo en el ámbito de los municipios, en cuyo caso la Oficina de la Gubernatura u homólogo en el ámbito de los municipios, resolverán el contenido definitivo.
-
-La Secretaría de Gobierno del Poder Ejecutivo, u homólogo en el ámbito de los municipios, publicará en el medio de difusión que corresponda, dentro de los siete primeros días de cada mes, la lista que le proporcionen las Autoridades de Mejora Regulatoria de los títulos de las Regulaciones y los documentos a que se refiere el artículo 73 de la Ley General.
+La Secretaría de Gobierno del Poder Ejecutivo únicamente publicará en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” las Regulaciones que expidan los Sujetos Obligados cuando éstos acrediten contar con una resolución definitiva de la Autoridad de Mejora Regulatoria respectiva. La versión que publiquen los Sujetos Obligados deberá coincidir íntegramente con la contenida en la resolución antes señalada, salvo en el caso de las disposiciones que emite el Titular del Ejecutivo u homólogo en el ámbito de los municipios, en cuyo caso la Jefatura de Gabinete u homólogo en el ámbito de los municipios, resolverán el contenido definitivo.
 
 ###### Artículo 39.
 
@@ -568,3 +590,89 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
