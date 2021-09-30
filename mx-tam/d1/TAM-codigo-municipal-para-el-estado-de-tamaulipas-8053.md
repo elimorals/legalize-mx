@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2021-09-08"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -734,6 +734,10 @@ XIV.- Expedir u otorgar autorizaciones, permisos y licencias que avalen o emitan
 Para los casos a que se refiere la Fracción III, los Ayuntamientos gozarán de entera libertad para la toma de decisiones relativas a la afectación del patrimonio inmobiliario municipal. Para tales efectos se observará lo siguiente:
 
 a).- Con el acuerdo de la mayoría de los miembros de los Ayuntamientos, éstos podrán realizar compras, adquisiciones mediante arrendamientos financieros, aceptación de herencias, legados y donaciones, siempre que no sean onerosas, y la celebración de contratos de comodato, cuando participen como comodatarios.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las donaciones que apruebe el Ayuntamiento, con relación a los terrenos considerados como área de equipamiento, deberán ser exclusivamente para la prestación de servicios de interés público, conforme a lo señalado en el artículo 156, fracción II, de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Tamaulipas.
 
 b).- Se requerirá el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para la celebración de los actos jurídicos siguientes:
 
@@ -2165,9 +2169,11 @@ Los notarios públicos no autorizarán ni el Instituto Registral y Catastral de 
 
 La aplicación y recaudación del impuesto sobre el aumento de valor y mejoría de la propiedad, se hará con apego a las disposiciones del Código Fiscal vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 138.
 
-En lo no previsto para este impuesto, serán de aplicación supletoria la Ley de Desarrollo Urbano y las demás que existan sobre la materia. No se causará el impuesto sobre la Plusvalía y Mejoría de la Propiedad Particular, cuando las obras respectivas se realicen bajo el sistema de pago de Derechos de Cooperación.
+En lo no previsto para este impuesto, serán de aplicación supletoria la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Tamaulipas y las demás que existan sobre la materia. No se causará el impuesto sobre la Plusvalía y Mejoría de la Propiedad Particular, cuando las obras respectivas se realicen bajo el sistema de pago de Derechos de Cooperación.
 
 ### CAPITULO VI. DE LOS APROVECHAMIENTOS Y LOS INGRESOS COMPARTIDOS
 
@@ -6480,6 +6486,14 @@ Los Ayuntamientos deberán expedir el reglamento a que se hace referencia, o bie
 P.O. 8 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-635 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVI, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XVI DEL ARTÍCULO 64 Y SE REFORMA EL ARTÍCULO 64 TER DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-831 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 138, Y SE ADICIONA UN PÁRRAFO SEGUNDO, AL INCISO A), DE LA FRACCIÓN XIV, DEL ARTÍCULO 51 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
