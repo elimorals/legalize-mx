@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-109860
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-18"
-last_updated: "2016-07-08"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL, PREVENCION Y MITIGACION DE DESASTRES PARA EL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, PREVENCIÓN Y MITIGACIÓN DE DESASTRES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley Publicada en el Sumario del Periódico Oficial del Estado de Querétaro el viernes 18 de septiembre de 2015.
 
@@ -38,6 +40,86 @@ CONSIDERANDO...
 Por lo expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro expide la siguiente:
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, PREVENCIÓN Y MITIGACIÓN DE DESASTRES PARA EL ESTADO DE QUERÉTARO
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión· de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
 
 ### Capítulo Primero. Disposiciones generales
 
@@ -279,7 +361,9 @@ V. El titular de la Zona Militar con sede en el Estado;
 
 VI. Los titulares de las siguientes dependencias y organismos del Poder Ejecutivo del Estado:
 
-a) Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) Secretaría de Finanzas.
 
 b) Secretaría de Desarrollo Agropecuario.
 
@@ -295,7 +379,9 @@ g) Secretaría de Desarrollo Urbano y Obras Públicas.
 
 h) Oficialía Mayor.
 
-i) Comisión Estatal de Caminos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+i) Comisión Estatal de Infraestructura.
 
 j) Sistema Estatal para el Desarrollo Integral de la Familia.
 
@@ -307,7 +393,9 @@ m) Secretaría de la Contraloría.
 
 n) Secretaría de Desarrollo Social.
 
-o) Procuraduría General de Justicia.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+o) Fiscalía General del Estado.
 
 p) Servicios de Salud del Estado de Querétaro.
 
@@ -459,7 +547,9 @@ XX. Establecer las medidas de seguridad necesarias e imponer las sanciones corre
 
 XXI. Formular el diagnóstico y realizar la evaluación inicial de las situaciones de emergencia provocadas por una calamidad y presentar de inmediato la misma al Presidente y al Secretario Ejecutivo del Consejo Estatal;
 
-XXII. Formular y presentar a la Secretaría de Gobierno, el proyecto de presupuesto de la Coordinación, para que lo presente ante la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado y se considere en el correspondiente Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXII. Formular y presentar a la Secretaría de Gobierno, el proyecto de presupuesto de la Coordinación, para que lo presente ante la Secretaría de Finanzas del Poder Ejecutivo del Estado y se considere en el correspondiente Presupuesto de Egresos del Estado;
 
 XXIII. Integrar y actualizar el Registro de los grupos voluntarios, asesores, capacitadores, consultores y peritos en materia de protección civil, para que puedan actuar en el Estado;
 
@@ -2042,3 +2132,7 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Todas las referencias hechas a VSMGZ (Veces el Salario Mínimo General Diario Vigente en la Zona) en la Ley del Sistema Estatal de Protección Civil, Prevención y Mitigación de Desastres para el Estado de Querétaro, se entenderán referidas al valor del factor de cálculo, en adelante VFC, previsto en la Ley del Factor de Cálculo del Estado de Querétaro, en relación con el artículo 5 de la Ley de Hacienda del Estado de Querétaro.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
