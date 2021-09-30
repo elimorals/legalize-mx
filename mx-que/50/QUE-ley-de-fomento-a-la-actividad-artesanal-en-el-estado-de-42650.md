@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fomento-a-la-actividad-artesanal-en-el-estado-de-42650"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-17"
-last_updated: "2020-01-17"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL EN EL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL EN EL ESTADO DE QUERETARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 17 de diciembre de 2004.
 
@@ -89,7 +91,9 @@ Se considera como patrimonio cultural de Querétaro a las artesanías originaria
 
 Se crea La Casa Queretana de las Artesanías, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, con el objeto de difundir la cultura y tradiciones queretanas, mejorar las condiciones de vida de sus artesanos y fomentar su creatividad.
 
-La Casa estará sectorizada a la Secretaría de Desarrollo Sustentable del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Casa estará sectorizada a la Secretaría de Desarrollo Social del Poder Ejecutivo del Estado.
 
 ###### Artículo 8.
 
@@ -155,17 +159,23 @@ IV. Las Áreas Administrativas que apruebe el Consejo General.
 
 El Consejo General será el máximo órgano de gobierno de la Casa y estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el Gobernador del Estado o la persona que designe para que lo substituya;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Un Presidente, que será el Gobernador o el Comisionado General de Entidades Paraestatales;
 
 II. Siete consejeros, que serán los titulares de las siguientes dependencias, quienes en su caso podrán designar a una persona que los substituya, con todas las facultades que les corresponda:
 
-a. Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a. Secretaría de Desarrollo Social
 
 b. Secretaría de Turismo;
 
 c. Secretaría de Educación;
 
-d. Secretaría de Planeación y Finanzas;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+d. Secretaría de Finanzas;
 
 e. Secretaría del Trabajo;
 
@@ -215,7 +225,7 @@ IX. Aplicar los recursos presupuestales que le sean asignados para la actividad 
 
 X. Designar a los integrantes de las diferentes comisiones que permitan facilitar los trabajos administrativos y operativos de la Casa, a propuesta del Director General;
 
-XI. Designar y remover, en su caso, al Director General;
+XI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 XII. Invitar a las sesiones del Consejo General, con voz y sin derecho a voto, a los funcionarios públicos federales, estatales y municipales, así como a los ciudadanos que se considere necesario para cumplir sus objetivos; y
 
@@ -259,9 +269,11 @@ La Casa contará con un Órgano de Vigilancia, que tendrá todas las facultades 
 
 Este órgano, contará con un titular denominado Titular del Órgano de Vigilancia, quien será designado en los términos del artículo 63 de la Ley de Entidades Paraestatales del Estado de Querétaro y contará con el personal que requiera para cumplir con su función, conforme a lo establecido en el Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-El Director General tendrá a su cargo las atribuciones siguientes:
+El Director General será designado y removido por el Gobernador del Estado o por el Comisionado General de Entidades Paraestatales, y tendrá a su cargo las atribuciones siguientes:
 
 I. Ejecutar y hacer cumplir los acuerdos aprobados por el Consejo General, dictando para ello las medidas y acciones necesarias;
 
@@ -383,13 +395,17 @@ Para el cumplimiento del objeto de esta Ley, se considerarán como ramas de la p
 
 La planeación del desarrollo artesanal del Estado de Querétaro estará orientada al mejoramiento económico y social de los artesanos y sus familias.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-Es responsabilidad de la Secretaría de Desarrollo Sustentable y de la Casa, que los mecanismos que se adopten para la planeación del desarrollo artesanal del Estado, aseguren la participación democrática, activa y responsable de los propios artesanos.
+Es responsabilidad de la Secretaría de Desarrollo Social y de la Casa, que los mecanismos que se adopten para la planeación del desarrollo artesanal del Estado aseguren la participación democrática, activa y responsable de los propios artesanos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
-La Secretaría de Desarrollo Sustentable gestionará que se integre la actividad artesanal, las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del Estado de Querétaro, en el Plan Estatal de Desarrollo y demás instrumentos previstos en la Ley de Planeación del Estado de Querétaro.
+La Secretaría de Desarrollo Social gestionará que se integren la actividad artesanal, las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del Estado de Querétaro, en el Plan Estatal de Desarrollo y demás instrumentos previstos en la Ley de Planeación del Estado de Querétaro.
 
 ### Capítulo II. De la capacitación
 
@@ -556,3 +572,87 @@ P.O. 17 DE ENERO DE 2020.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 7; LA FRACCIÓN I Y LOS RUBROS A Y D DE LA FRACCIÓN II DEL ARTÍCULO 12, EL PRIMER PÁRRAFO DEL ARTÍCULO 23, ASÍ COMO LOS ARTÍCULOS 37 Y 38; Y SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 16, TODOS DE LA LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL EN EL ESTADO DE QUERÉTARO”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
