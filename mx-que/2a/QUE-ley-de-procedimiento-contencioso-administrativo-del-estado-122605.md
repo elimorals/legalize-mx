@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-procedimiento-contencioso-administrativo-del-estado-1226
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2017-07-17"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada al Número 46 del Periódico Oficial del Estado de Querétaro, el lunes 17 de julio de 2017.
 
@@ -41,29 +43,43 @@ LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden e interés público. Tiene por objeto regular la impartición de la justicia fiscal y administrativa en el Estado de Querétaro a través del Tribunal de Justicia Administrativa del Estado de Querétaro, así como juzgar la legalidad de los actos fiscales y administrativos de las dependencias y entidades de la administración pública centralizada y paraestatal del Estado de Querétaro y de sus municipios.
+La presente Ley es de orden e interés público y tiene por objeto:
+
+I. Regular la impartición de la justicia fiscal y administrativa, relacionada con los actos de las dependencias y entidades de la administración pública del Estado de Querétaro y de sus municipios, ya sea centralizada, paraestatal o paramunicipal; y
+
+II. Regular la impartición de justicia relacionada con los actos, procedimientos y resoluciones definitivas, en materia de responsabilidades administrativas de los servidores públicos y de particulares vinculados con faltas graves, competencia del Tribunal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de la presente Ley se entenderá por:
 
-I. Archivo electrónico: la información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
+I. Archivo electrónico: la información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada en medios electrónicos, ópticos o de cualquier otra tecnología, que forma parte del Expediente Electrónico;
 
-II. Boletín Jurisdiccional: el medio de comunicación oficial electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos Estatales que se tramitan ante el mismo;
+II. Autoridad: en singular o plural, las dependencias, entidades, unidades administrativas o Servidores públicos de los Entes públicos;
 
-III. Aviso electrónico: el mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional;
+III. Aviso electrónico: el mensaje enviado a la dirección de correo electrónico de las partes, en términos del artículo 70 de esta Ley, comunicando que se realizará una notificación por Boletín Jurisdiccional;
 
-IV. Dirección de correo electrónico: el sistema de comunicación a través de redes informáticas, señalado por las partes en el juicio contencioso administrativo estatal;
+IV. Boletín Jurisdiccional: el medio de comunicación oficial electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios que se tramitan ante el mismo, en términos del artículo 70 de esta Ley;
 
-V. Dirección de correo electrónico institucional: el sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos;
+V. Dirección de correo electrónico: el sistema de comunicación a través de redes informáticas, señalado por las partes en el juicio contencioso administrativo estatal;
 
-VI. Documento electrónico o digital: todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del expediente;
+VI. Dirección de correo electrónico institucional: el sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los Servidores públicos;
 
-VII. Tribunal: el Tribunal de Justicia Administrativa del Estado de Querétaro; y
+VII. Documento electrónico o digital: todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del expediente;
 
-VIII. Ley Orgánica: la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro.
+VIII. Ente público o Entes públicos: los Poderes del Estado y sus dependencias, entidades o unidades administrativas; los órganos constitucionales autónomos; los municipios y sus dependencias, entidades o unidades administrativas; los tribunales administrativos con autonomía constitucional y sus órganos y unidades administrativas; así como cualquier otro ente sobre el que tenga control cualquiera de los poderes, municipios, órganos y tribunales citados;
+
+IX. Ley Orgánica: la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro;
+
+X. Servidores públicos: los que así defina la Constitución Política del Estado Libre y Soberano de Querétaro; y
+
+XI. Tribunal: el Tribunal de Justicia Administrativa del Estado de Querétaro.
 
 ###### Artículo 3.
 
@@ -79,7 +95,9 @@ El juicio contencioso administrativo estatal, procede contra las resoluciones ad
 
 Asimismo, procede dicho juicio contra los actos administrativos, decretos y acuerdos de carácter general, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta en unión del primer acto de aplicación.
 
-Las autoridades de la Administración Pública Centralizada y Paraestatal del Estado de Querétaro y de sus municipios, tendrán acción para controvertir una resolución administrativa favorable a un particular cuando estime que es contraria a la Ley.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Autoridad de los Entes públicos tendrá acción para controvertir una resolución administrativa favorable a un particular cuando estime que es contraria a la Ley.
 
 ###### Artículo 5.
 
@@ -103,23 +121,27 @@ III. El tercero que tenga un derecho incompatible con la pretensión del demanda
 
 Toda promoción deberá contener la firma autógrafa de quien la formule y sin este requisito se tendrá por no presentada. Cuando el promovente en el juicio contencioso administrativo no sepa o no pueda estampar su firma autógrafa, estampará en el documento su huella y en el mismo documento otra persona firmará a su ruego.
 
-Cuando la resolución afecte a dos o más personas, la demanda deberá ir firmada por cada una de ellas; en el mismo documento designarán a un representante común que elegirán de entre las mismas, si no lo designaren, al admitir la demanda se nombrará con tal carácter a cualquiera de los interesados.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Cuando la resolución afecte a dos o más personas, se estará a lo dispuesto en el tercer párrafo del artículo 18 de esta Ley.
 
 ###### Artículo 7.
 
 Ante el Tribunal no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar en la fecha de la presentación de la demanda o de la contestación, en su caso.
 
-La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal, sin perjuicio de lo que disponga la legislación de profesiones. La representación de los menores de edad será ejercida por quien tenga la patria potestad. Tratándose de otros incapaces, de la sucesión y del ausente, la representación se acreditará con la resolución judicial respectiva.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-La representación de las autoridades corresponderá a las unidades administrativas encargadas de su defensa jurídica, según lo disponga el Poder Ejecutivo Estatal en su reglamento o decreto respectivo y, en su caso, conforme lo disponga la Ley de la Administración Pública Paraestatal del Estado de Querétaro, o de conformidad con la disposición jurídica aplicable. Tratándose de autoridades municipales, conforme lo establezcan las disposiciones aplicables.
+La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante el secretario de acuerdos del Tribunal, que conozca del asunto de que se trate, sin perjuicio de lo que disponga la legislación de profesiones. La representación de los menores de edad será ejercida por quien tenga la patria potestad. Tratándose de otros incapaces, de la sucesión y del ausente, la representación se acreditará con la resolución judicial respectiva.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La representación de los Entes públicos corresponderá a las dependencias, entidades, unidades administrativas o Servidores públicos, que determinen las disposiciones aplicables.
 
 Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines. Con independencia de lo anterior, las partes podrán autorizar a cualquier persona con capacidad legal para oír notificaciones e imponerse de los autos, quien no gozará de las demás facultades a que se refiere este párrafo.
 
 ###### Artículo 8.
 
-En los juicios que se tramiten ante el Tribunal, no habrá lugar a condenación en costas.
-
-Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+En los juicios que se tramiten ante el Tribunal, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
 
 Únicamente habrá lugar a condena en costas a favor de la autoridad demandada, cuando se controviertan resoluciones con propósitos notoriamente dilatorios.
 
@@ -133,11 +155,15 @@ II. Sea contraria a una jurisprudencia de la Suprema Corte de Justicia de la Nac
 
 III. Se anule con fundamento en la fracción V, del artículo 57 de esta Ley.
 
-La condenación en costas o la indemnización establecidas en los párrafos segundo y cuarto de este artículo se reclamará a través del incidente respectivo, el que se tramitará conforme lo previsto por el cuarto párrafo del artículo 44 de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La condenación en costas establecida en el párrafo segundo de este artículo se reclamará a través del incidente respectivo, el que se tramitará conforme a lo previsto por el cuarto párrafo del artículo 44 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 9.
 
-Los miembros del Tribunal incurren en responsabilidad si:
+Los miembros del Tribunal, además de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Querétaro, incurren en responsabilidad si:
 
 I. Expresan su juicio respecto de los asuntos que estén conociendo, fuera de las oportunidades en que esta Ley lo admite;
 
@@ -147,11 +173,23 @@ III. Informan el estado procesal que guarda el juicio a personas que no estén a
 
 IV. Dan a conocer información confidencial o comercial reservada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-Las partes, representantes legales, autorizados, delegados, testigos, peritos y cualquier otra persona, tienen el deber de conducirse con probidad y respeto hacia sus contrapartes y funcionarios del Tribunal en todos los escritos, promociones, oficios, comparecencias o diligencias en que intervengan; en caso contrario, los Magistrados o Jueces Administrativos que conozcan del juicio, previo apercibimiento, podrán imponer a la persona que haya firmado la promoción o incurrido en la falta en la diligencia o comparecencia, una multa entre cien y mil quinientas veces la unidad de medida y actualización, al momento en que se incurrió en la falta. De igual manera, podrá imponerse una multa, con esos parámetros, a quien interponga demandas, recursos o promociones notoriamente frívolas e improcedentes.
+Las partes, representantes legales, autorizados, delegados, testigos, peritos y cualquier otra persona, tienen el deber de conducirse con probidad y respeto hacia sus contrapartes y funcionarios del Tribunal en todos los escritos, promociones, oficios, comparecencias o diligencias en que intervengan; en caso contrario, los Magistrados o Jueces Administrativos que conozcan del juicio, previo apercibimiento, podrán imponer a la persona que haya firmado la promoción o incurrido en la falta en la diligencia o comparecencia, una multa entre cien y mil quinientas veces la unidad de medida y actualización vigente al momento de su imposición.
 
 Los Magistrados o Jueces Administrativos podrán habilitar los días y horas inhábiles cuando hubiere causa urgente que lo exija, fundando y motivando de manera suficiente, precisa y clara tal determinación, notificándolo oportunamente a las partes. Si una diligencia se inició en día y hora hábiles, podrá llevarse a cabo hasta su conclusión en horas inhábiles, sin interrupción y sin necesidad de habilitación expresa.
+
+Queda prohibida la habilitación que produzca o pueda producir el efecto de otorgar un nuevo plazo o se amplíe el que ya existe, para interponer medios de impugnación.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 10 Bis.
+
+Los Magistrados o Jueces Administrativos podrán habilitar los días y horas inhábiles, para la realización de diligencias, cuando hubiere causa urgente que lo exija, fundando y motivando de manera suficiente, precisa y clara tal determinación, notificándolo oportunamente a las partes.
+
+Si una diligencia se inició en día y hora hábiles, podrá llevarse a cabo hasta su conclusión en horas inhábiles, sin interrupción y sin necesidad de habilitación expresa.
 
 Queda prohibida la habilitación que produzca o pueda producir el efecto de otorgar un nuevo plazo o se amplíe el que ya existe, para interponer medios de impugnación.
 
@@ -247,23 +285,29 @@ VI. Figuren como parte en un juicio similar, pendiente de resolución; y
 
 VII. Estén en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
 
-Los peritos del Tribunal y los designados por las partes estarán impedidos para dictaminar en los casos a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que se refiere este artículo.
 
 ###### Artículo 15.
 
 Los Magistrados y Jueces Administrativos del Tribunal tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 16.
 
-Manifestada por un Magistrado o Juez Administrativo la causa de impedimento, se turnará el asunto al Pleno de la Sala Superior del Tribunal, a fin de que la califique y, de resultar fundada, se procederá en los términos de la Ley Orgánica.
+Manifestada por un Magistrado o Juez Administrativo la causa de impedimento, se turnará el asunto al Pleno de la Sala Superior del Tribunal, a fin de que la califique y, de resultar fundada, emita resolución en la que determine los términos en que habrá de cubrirse la ausencia del Magistrado o Juez Administrativo impedido, en los términos de la Ley Orgánica.
 
 ## Título Segundo. De la Substanciación y Resolución del Juicio
 
 ### Capítulo Primero. De la demanda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-El demandante podrá presentar su demanda por escrito ante el Juzgado Administrativo del Tribunal competente que corresponda a su domicilio, dentro del plazo que corresponda, el cual comenzará a correr a partir del día siguiente a la fecha en que surta efectos la notificación del acto impugnado, siendo estos plazos los siguientes:
+El demandante presentará su demanda por escrito ante el Juzgado Administrativo del Tribunal competente que corresponda a su domicilio, dentro del plazo que corresponda, el cual comenzará a correr a partir del día siguiente a la fecha en que surta efectos la notificación del acto impugnado, siendo estos plazos los siguientes:
 
 I. De treinta días siguientes a aquél en el que se dé alguno de los supuestos siguientes:
 
@@ -275,7 +319,9 @@ II. De treinta días siguientes a aquél en el que surta efectos la notificació
 
 III. De cinco años cuando las autoridades demanden la modificación o nulidad de una resolución favorable a un particular, los que se contarán a partir del día siguiente a la fecha en que éste se haya emitido, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
 
-Las autoridades señaladas en el párrafo anterior, podrán presentar su demanda por escrito ante el Juzgado Administrativo competente que corresponda a su domicilio oficial de las unidades administrativas, que hayan emitido el acto que se pretenda modificar o anular a favor de los particulares.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las Autoridades, presentarán su demanda por escrito ante el Juzgado Administrativo competente que corresponda a su domicilio oficial de las unidades administrativas, que hayan emitido el acto que se pretenda modificar o anular a favor de los particulares.
 
 Cuando el demandante tenga su domicilio fuera de la población donde esté la sede de los Juzgados Administrativos o de la Sala Especializada del Tribunal, la demanda podrá enviarse a través de Correos de México, correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el demandante, el cual deberá en este caso señalar un domicilio para oír y recibir notificaciones ubicado dentro del territorio del Estado. En este supuesto, conocerá del juicio el Juzgado Administrativo con jurisdicción en el domicilio señalado.
 
@@ -283,7 +329,13 @@ Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se 
 
 En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, el plazo para interponer el juicio contencioso administrativo estatal se suspenderá hasta por un año. La suspensión cesará tan pronto como se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
 
-Tratándose de asuntos de la competencia de la Sala Especializada la demanda se presentará en la Oficialía de Partes de ésta última, de conformidad con lo que mediante acuerdo determine la Sala Superior, en los mismos plazos previstos por este artículo.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Tratándose de asuntos de la competencia de la Sala Especializada la demanda se presentará en la Oficialía de Partes del Juzgado cuyo titular funja como Presidente de la misma, en los términos de la Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Para los efectos del primer párrafo del presente artículo, el domicilio que se considerará para determinar la competencia del Juzgado Administrativo correspondiente, será el particular, o, tratándose de asuntos de carácter fiscal el domicilio fiscal del demandante. El Juzgado que reciba una demanda que no le competa conocer conforme al presente párrafo, deberá remitirla al Juez competente para su trámite y resolución.
 
 ###### Artículo 18.
 
@@ -695,7 +747,9 @@ Los peritos deberán rendir su propio dictamen autónomo e independiente y expon
 
 II. Los Magistrados o los Jueces Administrativos cuando a su juicio deban presidir la diligencia y lo permita la naturaleza de ésta, señalará (sic) lugar, día y hora para el desahogo de la prueba pericial, pudiendo pedir a los peritos todas las aclaraciones que estime conducentes, y exigirles la práctica de nuevas diligencias;
 
-III. En los acuerdos por los que se discierna del cargo a cada perito, los Magistrados o los Jueces Administrativos que conozcan del juicio concederán un plazo mínimo de quince días para que rinda y ratifique su dictamen, con el apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos dentro del plazo concedido;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. En los acuerdos por los que se discierna del cargo a cada perito, los Magistrados o los Jueces Administrativos que conozcan del juicio concederán un plazo mínimo de quince días para que rinda y ratifique su dictamen, con el apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos y ratificados ante el Órgano Jurisdiccional que conozca del asunto, dentro del plazo concedido;
 
 IV. Por una sola vez y por causa que lo justifique, comunicada al instructor antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la ampliación del plazo para rendir el dictamen o la sustitución de su perito, señalando en este caso, el nombre y domicilio de la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto; y
 
@@ -771,9 +825,11 @@ d) En el caso de que se haya ejercido la facultad de atracción por parte del Pl
 
 ### Capítulo Octavo. De la sentencia
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 54.
 
-La sentencia se pronunciará por el Tribunal dentro de los cuarenta y cinco días siguientes a aquél en que haya quedado cerrada la instrucción en el juicio. Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en el artículo 13 de esta Ley, no será necesario que se hubiese cerrado la instrucción.
+La sentencia se pronunciará por el Tribunal dentro del plazo de noventa días siguientes a aquél en que haya quedado cerrada la instrucción en el juicio. Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en el artículo 13 de esta Ley, no será necesario que se hubiese cerrado la instrucción.
 
 ###### Artículo 55.
 
@@ -833,7 +889,9 @@ La sentencia definitiva podrá:
 
 I. Reconocer la validez de la resolución impugnada;
 
-II. Declarar la nulidad de la resolución impugnada;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. Declarar la nulidad de la resolución impugnada, entre otros casos, cuando la misma se encuentre indebida o insuficientemente fundada y motivada; y
 
 III. Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 57, de esta Ley, el Tribunal declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, cuando corresponda a la pretensión deducida, también podrá indicar los términos conforme a los cuales deberá dictar su resolución la autoridad administrativa.
 
@@ -849,9 +907,13 @@ b) Otorgar o restituir al actor en el goce de los derechos afectados.
 
 c) Declarar la nulidad del acto o resolución administrativa de carácter general, caso en que cesarán los efectos de los actos de ejecución que afectan al demandante, inclusive el primer acto de aplicación que hubiese impugnado. La declaración de nulidad no tendrá otros efectos para el demandante, salvo lo previsto por las leyes de la materia de que se trate.
 
-d) Reconocer la existencia de un derecho subjetivo y condenar al ente público estatal o municipal al pago de una indemnización por los daños y perjuicios causados por sus servidores públicos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Si la sentencia obliga a la autoridad a realizar un determinado acto o reponer un procedimiento deberá cumplirse en un plazo de cuatro meses, contados a partir de que la sentencia quede firme, de igual forma, dentro de éste último plazo deberá emitirse la resolución definitiva, aún cuando, tratándose de asuntos fiscales, hayan transcurrido los plazos señalados en los artículos 74 y 93, del Código Fiscal del Estado de Querétaro.
+d) Reconocer la existencia de un derecho subjetivo y condenar al Ente público estatal o municipal al pago de una indemnización por los daños y perjuicios causados por sus servidores públicos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Si la sentencia obliga a la Autoridad a realizar un determinado acto o reponer un procedimiento deberá cumplirse dentro del plazo de un mes, contados a partir de que la sentencia quede firme. De igual forma, dentro del mismo plazo deberá emitirse la resolución definitiva, aun cuando, tratándose de asuntos fiscales, hayan transcurrido los plazos señalados en los artículos 74 y 93, del Código Fiscal del Estado de Querétaro.
 
 Si el cumplimiento de la sentencia entraña el ejercicio o el goce de un derecho por parte del demandante, transcurrido el plazo señalado en el párrafo anterior sin que la autoridad hubiere cumplido con la sentencia, el beneficiario del fallo tendrá derecho a una indemnización que los Magistrados o los Jueces Administrativos que conozcan del juicio determinarán, atendiendo el tiempo transcurrido hasta el total cumplimiento del fallo y los perjuicios que la omisión hubiere ocasionado, sin menoscabo de lo establecido en el artículo 64, de esta Ley. El ejercicio de dicho derecho se tramitará vía incidental.
 
@@ -899,9 +961,13 @@ a) Tratándose de la incompetencia, la autoridad competente podrá iniciar el pr
 
 b) Si tiene su causa en un vicio de forma de la resolución impugnada, ésta se puede reponer subsanando el vicio que produjo la nulidad; en el caso de nulidad por vicios del procedimiento, éste se puede reanudar reponiendo el acto viciado y a partir del mismo.
 
-En ambos casos, la autoridad demandada cuenta con un plazo de cuatro meses para reponer el procedimiento o dictar una nueva resolución definitiva, aún cuando hayan transcurrido los plazos señalados en los artículos 74 y 93, del Código Fiscal del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-En el caso previsto en el párrafo anterior, cuando sea necesario realizar un acto de autoridad en el extranjero o solicitar información a terceros para corroborar datos relacionados con las operaciones efectuadas con los contribuyentes, en el plazo de cuatro meses no se contará el tiempo transcurrido entre la petición de la información o de la realización del acto correspondiente y aquél en el que se proporcione dicha información o se realice el acto. Igualmente, cuando en la reposición del procedimiento se presente alguno de los supuestos a que se refiere el artículo 74, del Código Fiscal del Estado de Querétaro, tampoco se contará dentro del plazo de cuatro meses el periodo por el que se suspende el plazo para concluir las visitas domiciliarias o las revisiones de gabinete, previsto en dicho artículo, según corresponda.
+En ambos casos, la Autoridad demandada cuenta con un plazo de un mes para reponer el procedimiento o dictar una nueva resolución definitiva, aun cuando hayan transcurrido los plazos señalados en los artículos 74 y 93, del Código Fiscal del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En el caso previsto en el párrafo anterior, cuando sea necesario realizar un acto de autoridad en el extranjero o solicitar información a terceros para corroborar datos relacionados con las operaciones efectuadas con los contribuyentes, en el plazo de un mes no se contará el tiempo transcurrido entre la petición de la información o de la realización del acto correspondiente y aquél en el que se proporcione dicha información o se realice el acto. Igualmente, cuando en la reposición del procedimiento se presente alguno de los supuestos a que se refiere el artículo 74, del Código Fiscal del Estado de Querétaro, tampoco se contará dentro del plazo de un mes el periodo por el que se suspende el plazo para concluir las visitas domiciliarias o las revisiones de gabinete, previsto en dicho artículo, según corresponda.
 
 Si la autoridad tiene facultades discrecionales para iniciar el procedimiento o para dictar una nueva resolución en relación con dicho procedimiento, podrá abstenerse de reponerlo, siempre que no afecte al particular que obtuvo la nulidad de la resolución impugnada.
 
@@ -1013,33 +1079,23 @@ El Pleno de la Sala Superior del Tribunal podrá ejercer de oficio la facultad d
 
 ### Capítulo Segundo. De la Revisión
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 69.
 
-El recurso de revisión procede en contra de las resoluciones o sentencias definitivas que dicten los Jueces Administrativos, así como las que se señalan a continuación:
+La Sala Superior del Tribunal conocerá del recurso de revisión que se interponga en contra de las siguientes actuaciones dictadas por los Jueces Administrativos o la Sala Especializada, según sea el caso:
 
-I. Las que decreten o nieguen el sobreseimiento; y
+I. Resoluciones o sentencias definitivas que, al momento de su emisión, exceda de trescientas veces el valor de la Unidad de Medida y Actualización;
 
-II. Las que dicten en términos del artículo 8, de esta Ley.
+II. Resoluciones o sentencias definitivas que, no se ubiquen en el supuesto de la fracción anterior, pero que sean de importancia y trascendencia, debiendo el recurrente razonar esa circunstancia;
 
-También procede en contra de las resoluciones definitivas que dicte la Sala Especializada de conformidad con lo previsto en las disposiciones legales aplicables.
-
-El recurso de revisión podrá ser promovido por el demandante, o por la autoridad demandada a través de la unidad administrativa encargada de su defensa jurídica interponiendo éste ante la Sala Superior del Tribunal por conducto del Juzgado Administrativo o Sala Especializada que haya dictado el proveído o la sentencia motivo del recurso, mediante escrito dentro de los quince días siguientes a aquél en que surta sus efectos la notificación respectiva.
-
-El tercero podrá interponer recurso de revisión en los mismos términos del presente artículo en el caso de que se haya dictado sentencia definitiva de nulidad.
-
-Para la interposición del recurso de revisión, las resoluciones que pretendan impugnarse, deberán actualizar alguno de los supuestos siguientes:
-
-I. Sea de cuantía que exceda de trescientas veces la Unidad de Medida y Actualización, al momento de la emisión de la resolución o sentencia;
-
-II. Sea de importancia y trascendencia cuando la cuantía sea inferior a la señalada en la fracción primera, o de cuantía indeterminada, debiendo el recurrente razonar esa circunstancia para efectos de la admisión del recurso;
-
-III. Sea una resolución dictada por la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro o sus unidades administrativas o por las dependencias encargadas de las finanzas públicas de los Municipios del Estado de Querétaro o por alguna de las autoridades fiscales adscritas a ésta, siempre que el asunto se refiera a:
+III. Resoluciones o sentencias definitivas que resuelvan sobre actos administrativos, procedimientos y resoluciones definitivas dictadas por la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro o sus unidades administrativas o por las dependencias encargadas de las finanzas públicas de los Municipios del Estado de Querétaro o por alguna de las autoridades fiscales adscritas a ésta, siempre que el asunto se refiera a:
 
 a) Interpretación de leyes o reglamentos en forma tácita o expresa.
 
 b) La determinación del alcance de los elementos esenciales de las contribuciones.
 
-c) Competencia de la autoridad que haya dictado u ordenado la resolución impugnada o tramitado el procedimiento del que deriva o al ejercicio de las facultades de comprobación.
+c) Competencia de la Autoridad que haya dictado u ordenado la resolución impugnada o tramitado el procedimiento del que deriva o al ejercicio de las facultades de comprobación.
 
 d) Violaciones procesales durante el juicio que afecten las defensas del recurrente y trasciendan al sentido del fallo.
 
@@ -1047,33 +1103,73 @@ e) Violaciones cometidas en las propias resoluciones o sentencias.
 
 f) Las que afecten el interés fiscal de la Hacienda Pública Estatal o Municipal;
 
-IV. Sea una resolución dictada en materia de responsabilidades administrativas de servidores públicos estatales y municipales.
+IV. Sentencias definitivas dictadas por la Sala Especializada en los juicios que se promuevan en contra de las resoluciones definitivas que impongan sanciones a los Servidores públicos estatales y municipales, siempre que el recurso sea interpuesto por la Secretaría de la Contraloría, los órganos internos de control de los entes públicos o la Entidad Superior de Fiscalización;
 
-V. Que en la sentencia se haya declarado la nulidad, con motivo de la inaplicación de una norma general, en ejercicio del control difuso de la constitucionalidad y de la convencionalidad realizado por los Juzgados Administrativos.
+V. Sentencias definitivas dictadas por los Jueces Administrativos que, en ejercicio del control difuso de la constitucionalidad y de la convencionalidad, declaren la nulidad, con motivo de la inaplicación de una norma general;
 
-Con el escrito de expresión de agravios, el recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes que hubiesen intervenido en el juicio contencioso administrativo estatal, a las que se les deberá emplazar para que, dentro del término de quince días, comparezcan ante el Juzgado Administrativo o la Sala Especializada que conozca del asunto a defender sus derechos, una vez hecho lo anterior con manifestaciones o sin ellas se remitirá el expediente respectivo a la Sala Superior del Tribunal para su resolución.
+VI. Resoluciones que decreten o nieguen el sobreseimiento; y
+
+VII. Resoluciones o sentencias definitivas que se dicten en términos del artículo 8, de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 69 Bis.
+
+El recurso de revisión podrá ser promovido por el demandante, o por la Autoridad demandada a través de la unidad administrativa encargada de su defensa jurídica interponiendo éste ante la Sala Superior del Tribunal por conducto del Juzgado Administrativo o Sala Especializada que haya dictado el proveído o la sentencia motivo del recurso, mediante escrito dentro de los quince días siguientes a aquél en que surta sus efectos la notificación respectiva.
+
+El tercero podrá interponer recurso de revisión en los mismos términos del presente artículo en el caso de que se haya dictado sentencia definitiva de nulidad.
+
+Con el escrito de expresión de agravios, el recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes que hubiesen intervenido en el juicio contencioso administrativo, a las que se les deberá emplazar para que, dentro del término de quince días, comparezcan ante el Juzgado Administrativo o la Sala Especializada que conozca del asunto a defender sus derechos, una vez hecho lo anterior con manifestaciones o sin ellas se remitirá el expediente respectivo a la Sala Superior del Tribunal para su resolución.
 
 En todos los casos a que se refiere este artículo, la parte que obtuvo resolución favorable a sus intereses puede adherirse a la revisión interpuesta por el recurrente, dentro del plazo de quince días contados a partir de la fecha en la que se le notifique la admisión del recurso, expresando los agravios correspondientes; en este caso la adhesión al recurso sigue la suerte procesal de éste.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 69 Ter.
+
+En el trámite y resolución del recurso de revisión se observarán, en lo conducente, las disposiciones contenidas en el Título Segundo de la presente Ley.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+## Título Tercero Bis. De los Recursos en materia de Responsabilidades Administrativas
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo Primero. De la Apelación
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 69 Quáter.
+
+El trámite y resolución del recurso de apelación establecido en el artículo 15 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro, se llevará a cabo conforme a las reglas establecidas en el Capítulo Segundo del Título Tercero de la presente Ley.
+
+El recurso de apelación se promoverá mediante escrito ante la Sala Especializada del Tribunal, dentro del plazo establecido en el artículo 215 de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo Segundo. De la Revisión
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 69 Quinquies.
+
+El trámite y resolución del recurso de revisión establecido en el artículo 15 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro, se llevará a cabo conforme a las reglas establecidas en el Capítulo Segundo del Título Tercero de la presente Ley.
 
 ## Título Cuarto. De las disposiciones finales
 
 ### Capítulo Primero. De las notificaciones
 
-### Capitulo Segundo. Del cómputo de los plazos
-
-## Título Quinto. De la Jurisprudencia
-
-### Capítulo Único
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 70.
 
-Las notificaciones personales se efectuarán, a más tardar al tercer día siguiente del en que se dicten las resoluciones o acuerdos respectivos.
+Las notificaciones a los particulares y a las Autoridades en el juicio deberán realizarse por medio del Boletín Jurisdiccional, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Jurisdiccional.
 
-La lista de acuerdos se publicará diariamente antes de las nueve horas, en lugar visible de los estrados de la Sala Superior o Especializada o de los Juzgados Administrativos respectivamente, la cual contendrá la fecha, número de expediente, nombre de las partes y un extracto del acuerdo que se publica. Adicionalmente, se podrá visualizar con los mismos requisitos en la página electrónica oficial del Tribunal, pero en este caso, su carácter será meramente informativo, careciendo de efectos legales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-A toda notificación de sentencia se anexará, inexcusablemente, un ejemplar, en original de la misma, para instrucción de las partes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Las notificaciones que no sean personales a los particulares y a las autoridades en el juicio deberán realizarse por medio del Boletín Jurisdiccional, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Jurisdiccional.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 Las notificaciones electrónicas a las partes se entenderán realizadas con la sola publicación en el Boletín Jurisdiccional, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
 
@@ -1093,33 +1189,33 @@ El Pleno de la Sala Superior del Tribunal mediante lineamientos, establecerá el
 
 En las notificaciones, las fechas y las cantidades se escribirán con letra y número. No se emplearán abreviaturas, ni se enmendarán las frases equivocadas, únicamente se les impondrá una línea delgada que permita su lectura, salvándose al final, con toda precisión, el error cometido.
 
-###### Artículo 72.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Las notificaciones se harán de la siguiente forma:
+###### Artículo 72.
 
 Las notificaciones únicamente deberán realizarse personalmente, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
 
-a) La que corra traslado de la demanda, de la sentencia, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 17, fracción III de esta Ley; y
+I. La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 17, fracción III de esta Ley; y
 
-b) La que mande citar al testigo que no pueda ser presentado por la parte oferente.
+II. La que mande citar al testigo que no pueda ser presentado por la parte oferente.
 
 En los demás casos, las notificaciones deberán realizarse por medio del Boletín Jurisdiccional.
 
-Para efectos de los supuestos anteriores, una vez que las partes y el testigo se apersonen en el juicio, y el perito haya comparecido para aceptar y protestar el cargo, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del último párrafo del artículo 18 de la presente Ley.
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se apersonen en el juicio, y el perito haya comparecido para aceptar y protestar el cargo, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del último párrafo del artículo 18 de la presente Ley.
 
-El Magistrado Instructor o el Juez Administrativo que conozca del juicio podrán, excepcionalmente, ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberá fundar y motivar esa determinación en el acuerdo respectivo.
+El Magistrado o el Juez Administrativo que conozca del juicio podrán, excepcionalmente, ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberá fundar y motivar esa determinación en el acuerdo respectivo.
 
-Si los representantes de la autoridad estuvieran presentes en el Tribunal, independientemente de lo anterior, podrán ser notificados de manera personal, situación en la que ya no será necesario girar los oficios de notificación respectivos, correo certificado o el boletín jurisdiccional.
+Si las partes o sus representantes estuvieran presentes en el Tribunal, independientemente de lo anterior, podrán ser notificados de manera personal, situación en la que ya no será necesario girar los oficios de notificación respectivos, correo certificado o el boletín jurisdiccional.
 
-El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses de recibo del correo certificado se agregarán como constancia al expediente.
+El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses de recibo del correo certificado se agregarán como constancia dentro del expediente.
 
-Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa equivalente de una a tres veces la unidad de medida y actualización, elevada al mes, sin que dicha sanción pueda exceder del 30 por ciento de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa equivalente de una a tres veces el valor mensual de la Unidad de Medida y Actualización sin que dicha sanción pueda exceder del 30 por ciento de su salario. En caso de reincidencia, será destituido, sin responsabilidad para el Estado.
 
-El Tribunal llevará en archivo especial de las publicaciones atrasadas del Boletín Jurisdiccional y hará la certificación que corresponda, a través de los servidores públicos competentes.
+El Tribunal pondrá a disposición de los interesados, la consulta electrónica de las publicaciones atrasadas del Boletín Jurisdiccional.
 
-La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
+La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
 
-Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
+Una notificación omitida o irregular se entenderá legalmente hecha, a partir de la fecha en que el interesado se haga sabedor de su contenido.
 
 ###### Artículo 73.
 
@@ -1169,6 +1265,8 @@ Cuando esta Ley no señale plazo para la práctica de alguna actuación o para e
 
 Transcurridos los plazos fijados a las partes, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse y no se hizo, sin necesidad de que se acuse rebeldía.
 
+### Capitulo Segundo. Del cómputo de los plazos
+
 ###### Artículo 81.
 
 El cómputo de los plazos se sujetará a las siguientes reglas:
@@ -1190,6 +1288,10 @@ Las actuaciones y notificaciones serán nulas cuando les falte alguna formalidad
 ###### Artículo 83.
 
 La nulidad de una actuación deberá reclamarse en la actuación siguiente en que intervenga la parte que la promueva, de lo contrario, quedará convalidada de pleno derecho.
+
+## Título Quinto. De la Jurisprudencia
+
+### Capítulo Único
 
 ###### Artículo 84.
 
@@ -1268,3 +1370,89 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
