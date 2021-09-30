@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2021-08-04"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 4 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 30 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -441,9 +441,11 @@ En el caso de las ausencias de las y los demás integrantes del Ayuntamiento, se
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 42.
 
-De conformidad con lo dispuesto en el artículo 48 fracción V de la Ley, corresponde a la Presidenta o el Presidente Municipal proponer al Ayuntamiento los nombramientos de la Secretaria o el Secretario General, la Tesorera o el Tesorero y la Contralora o el Contralor Ciudadano, respectivamente.
+De conformidad con lo dispuesto en los artículos 48 fracción V y 67 ter de la Ley, corresponde a la Presidenta o el Presidente Municipal proponer al Ayuntamiento los nombramientos de la Secretaria o el Secretario General, la Tesorera o el Tesorero y la Contralora o el Contralor Ciudadano, respectivamente.
 
 Asimismo, de acuerdo con lo previsto en este Capítulo, también corresponde a la Presidenta o el Presidente Municipal proponer al Ayuntamiento el nombramiento de las y los jueces cívicos municipales.
 
@@ -451,21 +453,29 @@ Asimismo, de acuerdo con lo previsto en este Capítulo, también corresponde a l
 
 Para los nombramientos de las personas con cargos públicos indicados en este apartado, cada propuesta debe contener la información con la que se acredite la capacidad profesional y cumplimiento de los requisitos exigidos para el cargo respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 44.
 
-La designación de la Contralora o el Contralor Ciudadano se efectúa conforme a lo siguiente:
+La designación de la Contralora o el Contralor Ciudadano se efectúa de acuerdo a lo señalado en los artículos 48 fracción VI y 67 ter de la Ley, y conforme a lo siguiente:
 
 I. La Presidenta o el Presidente Municipal, en coordinación con el Consejo Municipal de Participación Ciudadana, debe emitir convocatoria pública para recibir propuestas de la sociedad en general de aspirantes para ocupar el cargo de Contralora o Contralor Ciudadano, especificando plazos y bases del proceso de registro, evaluación y designación. Pudiendo invitar un organismo externo como vigilante del proceso;
 
 II. Las propuestas se deben presentar en la forma y plazos establecidos en la convocatoria;
 
-III. El Consejo Municipal de Participación Ciudadana, debe verificar los requisitos de elegibilidad, aplicar la evaluación en los términos previstos en la convocatoria, con la participación del organismo externo que se hubiese invitado y remitir a la Presidenta o el Presidente Municipal la lista de las personas que hubiesen cumplido con los requisitos, así como el resultado de las evaluaciones de cada una, sus expedientes y en su caso, la opinión técnica del organismo externo participante;
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Hecho lo anterior, la Presidenta o el Presidente Municipal debe presentar iniciativa al Ayuntamiento para su consideración y designación de la Contralora o el Contralor Ciudadano;
+III. El Consejo Municipal de Participación Ciudadana, debe verificar los requisitos de elegibilidad, aplicar la evaluación en los términos previstos en la convocatoria, con la participación del organismo externo que se hubiese invitado, en su caso, y remitir a la Presidenta o el Presidente Municipal la lista de las personas que hubiesen cumplido con los requisitos, así como el resultado de las evaluaciones de cada una, sus expedientes y la opinión técnica del organismo externo participante, en caso de existir;
+
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Hecho lo anterior, la Presidenta o el Presidente Municipal debe presentar al Ayuntamiento iniciativa que contenga una terna de personas que reúnan los requisitos, tomada de la lista que le fue remitida conforme a la fracción III;
 
 V. Para ser electo como Contralora o Contralor Ciudadano se requiere mayoría calificada de quienes integran el Ayuntamiento; y
 
-VI. Si ninguna persona obtiene la votación requerida, en segunda ronda el Ayuntamiento debe elegir por mayoría absoluta entre las dos que hubiesen obtenido mayor número de votos.
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Si ninguna de las personas obtiene la votación requerida o el Ayuntamiento rechaza las propuestas, se procederá conforme a la Ley.
 
 ###### Artículo 45.
 
@@ -487,7 +497,9 @@ Los cargos de las servidoras públicas o los servidores públicos encargados de 
 
 Para ocupar los cargos de Secretaria o Secretario General y de Tesorera o Tesorero se requiere cumplir con los requisitos previstos en los artículos 62 y 65 de la Ley, correspondientemente.
 
-Para ser designado como Contralora o Contralor Ciudadano, se deben reunir los requisitos establecidos en este y en el Capítulo IV del presente Título.
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Para ser designado como Contralora o Contralor Ciudadano, se deben reunir los requisitos establecidos en el artículo 67 quáter de la Ley y en el Capítulo IV del presente Título.
 
 En tanto el Ayuntamiento realiza la designación de las servidoras públicas o los servidores públicos antes mencionados, continúan al frente de dichos cargos quienes estuviesen fungiendo como titulares de los mismos.
 
@@ -535,23 +547,27 @@ Lo preceptuado en este artículo se aplica a las servidoras públicas y los serv
 
 ### Capítulo IV. Contraloría Ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 51.
 
-Para ocupar el cargo de Contralora o Contralor Ciudadano se deben reunir los siguientes requisitos:
+Para ocupar el cargo de Contralora o Contralor Ciudadano, además de lo señalado en el artículo 67 quáter de la Ley, se deben reunir los siguientes requisitos:
 
-I. Ser mexicana o mexicano, en pleno ejercicio de sus derechos y mayor de treinta y cinco años;
+I. (DEROGADA, G.M. 30 DE SEPTIEMBRE DE 2021)
 
-II. Tener reconocida solvencia moral, un modo honesto de vivir y la capacidad acreditable necesaria para desempeñar el cargo;
+II. (DEROGADA, G.M. 30 DE SEPTIEMBRE DE 2021)
 
-III. Poseer título profesional y cédula estatal en las áreas económico administrativas o en derecho, con un mínimo de cinco años de antigüedad;
+III. (DEROGADA, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 IV. Tener cuando menos cinco años de experiencia en el área de auditoría, fiscalización o financiera administrativa;
 
 V. Obtener una calificación mínima de ochenta puntos sobre cien mediante evaluación aplicada en términos de la convocatoria respectiva;
 
-VI. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de alguna persona integrante del Ayuntamiento, o tener algún conflicto de interés;
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VII. No haber tenido condena por delito doloso;
+VI. No tener algún conflicto de interés;
+
+VII. (DEROGADA, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 VIII. No haber tenido inhabilitación para ocupar un cargo en el servicio público;
 
@@ -561,13 +577,17 @@ X. No haber sido titular de secretarías de despacho del Ejecutivo, Fiscal Gener
 
 XI. No haber sido secretaria o secretario de Estado del Gobierno Federal, Procuradora o Procurador General de la República, senadora o senador, diputada o diputado federal, a menos que se separe de su cargo tres años antes al día en que tenga verificativo su designación;
 
-XII. No haber sido precandidata o precandidato, candidata o candidato a cargo de elección popular en los cinco años anteriores a su designación; y
+XII. (DEROGADA, G.M. 30 DE SEPTIEMBRE DE 2021)
 
-XIII. No haber sido integrante de la dirigencia nacional, estatal o municipal de un partido o agrupación política, durante los últimos cinco años.
+XIII. (DEROGADA, G.M. 30 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 52.
 
-La Contralora o el Contralor Ciudadano dura en su cargo tres años, pudiendo designársele nuevamente por el Ayuntamiento por un periodo inmediato siguiente, mediante el procedimiento establecido en este Capítulo.
+La Contralora o Contralor Ciudadano dura en su encargo hasta el término de la administración por la que fue nombrado, con derecho a ratificación por un periodo más, para lo cual la Presidenta o el Presidente Municipal debe presentar al Ayuntamiento iniciativa en la primera sesión que se celebre.
+
+Para el caso de un nuevo nombramiento se debe agotar el procedimiento establecido en este Título.
 
 ## Título Cuarto. Sesiones del Ayuntamiento
 
@@ -2431,6 +2451,10 @@ XVIII. Iniciar, tramitar y desahogar el procedimiento de responsabilidad patrimo
 
 XIX. Representar legalmente al Ayuntamiento y a las dependencias municipales en cualquier tipo de controversias o litigios.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XX. Designar como asesores jurídicos en las carpetas de investigación que se tramiten ante la Fiscalía Especializada en Combate a la Corrupción y en los juicios penales correspondientes, a las y los abogados del Órgano Interno de Control que su titular determine.
+
 Para la atención de los asuntos de su competencia, cuenta con las áreas de lo Jurídico Consultivo, de lo Jurídico Contencioso, de lo Jurídico Laboral, y de lo Jurídico de la Comisaría de la Policía de Guadalajara.
 
 Subsección I
@@ -3689,7 +3713,9 @@ IX. Establecer recomendaciones y observaciones de carácter normativo en el dise
 
 Para el desarrollo de sus funciones la Dirección de Finanzas cuenta con las áreas de Control Presupuestal, y Presupuesto y Deuda.
 
-#### Sección Tercera. Dirección Substanciadora
+#### Sección Tercera. Dirección de Substanciación y Resolución
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 202.
 
@@ -3829,7 +3855,9 @@ XVII. Diseñar, proponer, promover y evaluar las políticas públicas de combate
 
 XVIII. Establecer los mecanismos internos en coordinación con la administración pública municipal, para prevenir actos u omisiones que pudieran constituirse como faltas administrativas, teniendo a su encargo el diseño a promoción, ejecución y evaluación de políticas públicas de combate a la corrupción.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Auditoría, Responsabilidades, Substanciadora y Resolutora.
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Auditoría; Responsabilidades; y Substanciación y Resolución.
 
 #### Sección Primera. Atribuciones comunes
 
@@ -3891,19 +3919,35 @@ XII. Emitir el acuerdo de conclusión y archivo del expediente, en caso de no en
 
 XIII. Fungir como autoridad investigadora.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
 #### Sección Tercera. Coordinación General de Comunicación Institucional
 
 ###### Artículo 208.
 
-La Dirección Substanciadora tiene las siguientes atribuciones:
+La Dirección de Substanciación y Resolución tiene las siguientes atribuciones:
 
 I. Recibir el Informe de presunta responsabilidad administrativa, por parte de la Autoridad Investigadora, para iniciar el procedimiento de responsabilidad administrativa y desahogarlo en los términos previstos en la normatividad aplicable;
 
 II. Prevenir a la autoridad investigadora para que subsane omisiones en el Informe de presunta responsabilidad administrativa, en los términos previstos en la normatividad aplicable;
 
-III. Remitir las actuaciones a la Unidad Resolutora una vez transcurrido el periodo de alegatos; y
+III. (DEROGADA, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 IV. Remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. Declarar de oficio cerrada la instrucción, dictar la resolución respectiva y citar a las partes para oírla y notificarla;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Acordar sobre la prevención, admisión o desechamiento del recurso de revocación en caso de que se promueva en contra de la resolución del procedimiento de responsabilidad administrativa, dentro de los términos y plazos establecidos en la normativa aplicable a la materia de responsabilidad administrativa; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Solicitar la colaboración de las dependencias y entidades de la administración pública municipal y de otras autoridades, para realizar las notificaciones que resulten necesarias.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 #### Sección Cuarta. Coordinación General de Construcción de Comunidad
 
@@ -3911,15 +3955,11 @@ IV. Remitir los procedimientos sobre faltas administrativas graves al Tribunal d
 
 ###### Artículo 209.
 
-La Unidad Resolutora, dentro del procedimiento de responsabilidad administrativa tiene las siguientes atribuciones:
-
-I. Recibir las actuaciones de la Dirección Sustanciadora y continuar con el procedimiento de responsabilidad administrativa, previstos en la normatividad aplicable;
-
-II. Declarar de oficio cerrada la instrucción, dictar la resolución respectiva y citar a las partes para oírla y notificarla; y
-
-III. Acordar sobre la prevención, admisión o desechamiento del recurso de revocación en caso de que se promueva en contra de la resolución del procedimiento de responsabilidad administrativa, dentro de los términos y plazos establecidos en la normativa aplicable a la materia de responsabilidad administrativa.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 #### Sección Sexta. Coordinación General de Gestión Integral de la Ciudad
+
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 210.
 
@@ -4173,7 +4213,9 @@ II. Elaborar y aplicar la estrategia de reingeniería integral de los recursos h
 
 III. Diagnosticar y ejecutar los ajustes necesarios de plazas a la plantilla de personal acorde al plan de gobierno;
 
-IV. Seleccionar a las personas que se desempeñarán como servidoras públicas y servidores públicos municipales en colaboración con las dependencias, así como capacitarlos en los términos de la normatividad aplicable;
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Seleccionar a las personas que se desempeñarán como servidoras públicas y servidores públicos municipales en colaboración con las dependencias, así como capacitarlos en los términos de la normatividad aplicable; debiendo recibir un curso de inducción como requisito para su contratación, en el que se aborden al menos los temas relativos al ámbito institucional, transparencia, responsabilidades de los servidores públicos e integridad en el servicio público.
 
 V. Recibir y realizar los movimientos de personal a propuesta de las y los titulares de las dependencias, cualquiera que sea su naturaleza, conforme a la normatividad aplicable;
 
@@ -4891,11 +4933,11 @@ Esta dirección cuenta con las áreas de Capacitación, Ciudades Hermanas Nacion
 
 La Coordinación General de Gestión Integral de la Ciudad es la instancia integradora de las áreas destinadas al ordenamiento, la gestión del territorio del Municipio, y la movilidad con criterios de sustentabilidad; responsable de disponer de los elementos de política ambiental y cambio climático como herramientas y referentes para el desarrollo y la transformación del mismo en entornos apropiados para vivir con calidad; encargada de la distribución de la inversión pública en todas las demarcaciones de este, dando prioridad a las que permitan reducir brechas sociales, eliminar los privilegios y fomentar la integración de las personas desvinculadas del desarrollo social y económico; e integrar la infraestructura y los servicios de la Ciudad. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
+Además, lleva a cabo el trámite administrativo del mecanismo de Transferencia de Derechos de Desarrollo Urbano, a solicitud del Comité Interinstitucional de la Transferencia de Derechos de Desarrollo Urbano.
+
 Para la atención de los asuntos de su competencia, cuenta con las áreas de Proyectos del Espacio Público, de Ordenamiento del Territorio, de Obras Públicas, de Movilidad y Transporte, Medio Ambiente y la de Resiliencia.
 
 Asimismo, para la consecución de sus fines debe coordinarse con las demás instancias de gobierno y de la sociedad.
-
-> <small>(REFORMADO, G.M. 26 DE JULIO DE 2021)</small>
 
 Los organismos públicos descentralizados municipales denominados, Zoológico de Guadalajara e Instituto Municipal de la Vivienda de Guadalajara se encuentran sectorizados a la Coordinación General de Gestión Integral de la Ciudad.
 
@@ -5257,9 +5299,17 @@ XV. Emitir opiniones técnicas y sin carácter vinculante, sobre planeación del
 
 XVI. Organizar, desarrollar y promover actividades de investigación en materia de desarrollo y planeación urbana, para lo cual puede coordinarse con las instituciones de educación superior que operen en el Estado;
 
-XVII. Realizar los estudios y opiniones técnicas necesarias para dictaminar la procedencia de los trámites de regularización de predios y asentamientos urbanos; e
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XVIII. Integrar y resguardar los expedientes de los procedimientos de regularización y titulación de predios y asentamientos urbanos.
+XVII. Realizar los estudios y opiniones técnicas necesarias para dictaminar la procedencia de los trámites de regularización de predios y asentamientos urbanos;
+
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Integrar y resguardar los expedientes de los procedimientos de regularización y titulación de predios y asentamientos urbanos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Expedir los Dictámenes de Transferencia de Derechos de Desarrollo Urbano, tanto para predios generadores, como para predios receptores, con la certificación de transferencia de derechos de desarrollo urbano, las normas de control de la urbanización y la edificación del predio receptor, asentando el potencial máximo a que puede acceder aplicando la transferencia de derechos.
 
 Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración de Ordenamiento Territorial, y la de Planeación del Desarrollo Urbano; así como con el área técnica de apoyo a la Comisión Municipal de Regularización de Predios Urbanos.
 
@@ -6426,3 +6476,29 @@ Tercero. Se instruye a la Dirección de Justicia Cívica Municipal, a través de
 Cuarto. Si (sic) instruye a la Dirección de Justicia Cívica Municipal a efecto de que gestione la celebración de los convenios citados en la reforma al artículo 18 del Reglamento de Justicia Cívica del Municipio de Guadalajara.
 
 Quinto. Una vez publicadas las presentes disposiciones, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor el día posterior a su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se otorga el plazo de hasta 60 sesenta días hábiles contados a partir de la aprobación del presente ordenamiento para la actualización de los manuales de organización y procedimientos correspondientes, los instrumentos de planeación que resulten necesarios; así como para realizar las adecuaciones administrativas pertinentes.
+
+Cuarto. Los procedimientos administrativos iniciados al amparo de las disposiciones que por el presente ordenamiento quedan derogadas deberán resolverse en los términos de las nuevas disposiciones contenidas en este ordenamiento hasta su conclusión.
+
+Quinto. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto de él, al Congreso del Estado, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese el presente ordenamiento, en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se instruye a la Coordinación General de Gestión Integral de la Ciudad, en esta única ocasión presente en el mes de octubre del año 2021, el Programa Anual con reglas de operación de Intervención para predios generadores, en el que, los que ejercieron transferencias se consideren prioridad, reglas de operación que deberán prever, los procesos, procedimientos, criterios administrativos, técnicos y financieros para la correcta y eficaz gestión de la transferencia de derechos de desarrollo urbano.
+
+Cuarto. Una vez publicado el presente ordenamiento, remítase una copia de él al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
