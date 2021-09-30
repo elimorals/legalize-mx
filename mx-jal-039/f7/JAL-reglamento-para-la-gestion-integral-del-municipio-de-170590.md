@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2021-06-17"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 30 DE SEPTIEMBRE DE 2021.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -75,7 +75,9 @@ II. Acción Urbanística Menor: Los cambios de uso, las fusiones y subdivisiones
 
 III. Alineamiento: Es la traza sobre el terreno que señala el límite de una propiedad particular o una vía pública;
 
-IV. Altura Máxima: La altura máxima permitida para una edificación, expresada en alguna de las siguientes formas: En metros lineales a partir del nivel de la vía pública o en niveles de construcción, sin incluir sótanos;
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Altura Máxima: La altura máxima permitida para una edificación, expresada en alguna de las siguientes formas: En metros lineales a partir del nivel de la vía pública o en niveles de construcción, sin incluir sótanos o cuando se localicen mantos freáticos que imposibilite la construcción de los mismos, conforme a los (sic) dispuesto en los artículos 50 fracción III y 183 fracción VIII del presente reglamento, no se tomara en cuenta para determinar la altura máxima, la superficie de construcción destinada a cajones de estacionamiento sobre el nivel de la banqueta.
 
 > <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -113,9 +115,9 @@ XII. Coeficiente de Ocupación del Suelo: El factor que, multiplicado por el ár
 
 XII Bis. Incremento en el Coeficiente de Ocupación del Suelo: Es el incremento al factor que, multiplicado por el área total de un Predio, determina la máxima superficie de desplante edificable;
 
-> <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XIII. Coeficiente de Utilización del Suelo: El factor que, multiplicado por el área total de un lote o predio, determina la superficie edificable dentro del mismo. La superficie edificada bajo rasante, como sótanos, no computarán como CUS, siempre que no se utilicen para espacios habitables;
+XIII. Coeficiente de Utilización del Suelo: El factor que, multiplicado por el área total de un lote o predio, determina la superficie edificable dentro del mismo. La superficie edificada bajo rasante, como sótanos, no computarán como CUS, siempre que no se utilicen para espacios habitables, así mismo en los casos establecidos en los artículos 50 fracción III y 183 fracción VIII, del presente reglamento la superficie edificada sobre rasante que se destine a cajones de estacionamiento, tampoco computará como CUS.
 
 > <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1137,9 +1139,9 @@ I. La altura máxima de las edificaciones será la señalada en las Normas de Co
 
 II. Para el caso de techos inclinados, la altura de estos forma parte de la altura total de la edificación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III. Si las condiciones del lote imposibilitan la edificación de sótanos de estacionamiento bajo rasante, se podrán edificar sobre la rasante de la banqueta sin que computen como CUS o ICUS, siempre que la altura de la losa de la primera planta del estacionamiento no sobresalga en más de 1.8 metros;
+III. Si las condiciones del lote imposibilitan la edificación de sótanos de estacionamiento bajo rasante, se podrán edificar sobre la rasante de la banqueta sin que computen como CUS o ICUS, siempre que la altura de la losa de la primera planta del estacionamiento no sobresalga en más de 1.8 metros, tratándose de predios que se encuentren en el Distrito Urbano 1 Centro Metropolitano, Subdistrito 5 Centro Histórico, del Plan Parcial de Desarrollo Urbano vigente y que por la existencia de mantos freáticos en el predio a edificar la Dirección de Medio Ambiente mediante dictamen que autorice la construcción de cajones de estacionamiento sobre nivel de banqueta, dicha superficie no computará como CUS o ICUS.
 
 > <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1819,19 +1821,23 @@ II. El valor que tendría dicha área de cesión, será el que se destine a obra
 
 ### CAPÍTULO VIII. Transferencia de Derechos de Desarrollo Urbano
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 97.
 
-La Transferencia de Derechos de Desarrollo Urbano, permite ceder los derechos excedentes o totales de potencial edificable, expresados en metros cuadrados, que le corresponden a un Predio, en favor de otro, con base en las disposiciones establecidas en los instrumentos de planeación urbana municipal, y aplica únicamente entre predios generadores y receptores de Derechos de Desarrollo Urbano.
-
-Los predios que se encuentren fuera de la delimitación de áreas generadoras y receptoras no podrán acceder al mecanismo de Transferencia. Únicamente podrán acceder al Incremento de Coeficiente de Utilización del Suelo, ICUS, establecido en los Planes Parciales de Desarrollo Urbano.
+La Transferencia de Derechos de Desarrollo Urbano, permite ceder total o parcialmente los derechos excedentes de potencial edificable expresados en metros cuadrados, que le corresponden a un predio, en favor de otro, con base en las disposiciones establecidas en los instrumentos de planeación urbana municipal y el presente reglamento.
 
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
+Los predios que se encuentren fuera de la delimitación de áreas generadoras y receptoras no podrán acceder al mecanismo de Transferencia. Únicamente podrán acceder al Incremento de Coeficiente de Utilización del Suelo, ICUS, establecido en los Planes Parciales de Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 98.
 
-Los predios generadores de Transferencia de Derechos de Desarrollo Urbano, serán los siguientes:
+Los predios materia de Transferencia de Derechos de Desarrollo Urbano, serán los siguientes:
+
+> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 I. Las fincas que en los inventarios estatales o municipales de patrimonio cultural edificado se encuentran clasificadas como:
 
@@ -1847,75 +1853,145 @@ e) Inmueble de Valor Artístico Ambiental, siempre que se determine imposibilida
 
 Estos solo podrán emitir derechos de desarrollo sobre el potencial computado como la resta de la superficie edificable del CUS e ICUS, menos la superficie que no puede ser aprovechable por la restricción normativa del patrimonio edificado.
 
-II. En el caso de los predios en áreas clasificadas como no urbanizables (NU), el propietario podrá transferir 100% del CUS básico y el ICUS, contenido las normas establecidas en el Plan Parcial de Desarrollo Urbano.
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Los predios generadores que agoten los derechos de desarrollo transferibles asignados por el Plan Parcial de Desarrollo Urbano, quedarán inhabilitados para transferir.
+II. Los predios identificados como generadores y receptores en el Plan Parcial de Desarrollo Urbano; y
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. En el caso de los predios en áreas clasificadas como no urbanizables (NU), el propietario podrá transferir 100% del CUS básico y el ICUS, contenido (sic) las normas establecidas en el Plan Parcial de Desarrollo Urbano.
+
+> <small>(ADICIONADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Una vez que la finca generadora agote los derechos de desarrollo transferibles asignados en el Plan Parcial de Desarrollo Urbano vigente, quedará inhabilitada para transferir, a excepción de que el citado instrumento sea objeto de actualización y se le asigne un mayor número de potencial de desarrollo, en ese caso, el predio tendrá derecho de transferir nuevamente, con respecto al diferencial de lo transferido y lo asignado en el Plan Parcial de Desarrollo Urbano vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 99.
 
-Los predios receptores de transferencia de derechos de desarrollo podrán incrementar la superficie edificable establecida en los Planes Parciales, deben cumplir con las Normas de Control de la Urbanización y Edificación, la compatibilidad de usos de su respectiva zona y las normas urbanísticas generales. Los predios receptores, se identificaran con la clave RTD en los Instrumentos Planeación Urbana.
+Los predios receptores son los así identificados en los Instrumentos de Planeación Urbana y aquellos identificados como generadores, que por las características, beneficio e impacto directo que puedan aportar a la zona en la que se localizan sean susceptibles de serlo, previo dictamen de procedencia emitido por la Dirección.
 
-Éstos podrán recibir un potencial edificable equivalente a 25% mayor que el resultado de sumar el CUS e ICUS señalados en las Normas de Control de la Urbanización y la Edificación de la zona en donde se ubique el predio receptor.
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Los predios receptores de transferencia de derechos de desarrollo urbano podrán incrementar la superficie edificable establecida en los Planes Parciales, hasta por un equivalente a 25% mayor que el resultado de sumar el CUS e ICUS señalados en las Normas de Control de la Urbanización y la Edificación de la zona en donde se ubique el predio receptor.
+
+> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 El Plan Rector del PIUE podrá establecer un porcentaje de la recepción de derechos mayor para los predios receptores que se encuentren dentro de los PIUE, el cual no podrá ser en ningún caso mayor al 50%.
 
+> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+
 El propietario del Predio receptor podrá adquirir Derechos de Desarrollo Urbano aun cuando haya sido autorizado el Incremento de Coeficiente de Utilización del Suelo, ICUS, en los términos establecidos en la Ley de Ingresos para el Municipio de Guadalajara.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 100.
 
-La Transferencia de Derechos de Desarrollo Urbano es promovida por el solicitante receptor, cuyo predio sea susceptible de realizar tal acción; y estará controlada por la Dirección en coadyuvancia con la Dirección de Innovación Gubernamental, mediante la utilización de las plataformas digitales para el Sistema de Transferencia de Derechos de Desarrollo Urbano, los procedimientos, la participación de dependencias y la creación del Fondo del Sistema de Transferencia de Derechos de Desarrollo Urbano para tal fin.
+El Comité Interinstitucional de la Transferencia de Derechos de Desarrollo Urbano, es el órgano encargado de promover y administrar los recursos económicos que se generen a favor el Programa y estará integrado de la siguiente manera:
+
+I. La Presidenta o el Presidente que es la Presidenta o Presidente Municipal, quien puede asignar suplencias en caso de ausencia a las sesiones que se celebren;
+
+II. La Secretaria o el Secretario Técnico que será designado por la Presidenta o el Presidente del Comité Interinstitucional;
+
+III. La Regidora o el Regidor que preside la Comisión Edilicia de Planeación del Desarrollo Urbano Sustentable y Obras Públicas;
+
+IV. La o el Titular de la Coordinación General de Gestión Integral de la Ciudad;
+
+V. Una persona representante de la Secretaría General;
+
+VI. Una persona representante del Órgano Interno de Control Municipal;
+
+VII. Una persona representante de la Tesorería; y
+
+VIII. La Directora o el Director de Catastro.
+
+El Comité Interinstitucional de la Transferencia de Derechos de Desarrollo Urbano tendrá las siguientes funciones:
+
+I. Fungir como intermediario entre los interesados, propietarios de predios generadores y receptores en los procesos de Transferencia de Derechos de Desarrollo Urbano y administrar los recursos económicos que se generen a su favor;
+
+II. Genera, administra y mantiene publicado en medios electrónicos un listado que:
+
+a) Identifica por domicilio a los predios generadores, que se organizará iniciando con aquellos que hubieran manifestado por escrito su aceptación para participar en el mecanismo; y
+
+b) Registra las transferencias de derechos de desarrollo urbano realizadas;
+
+III. Promueve permanentemente el mecanismo de transferencias, así como el trámite administrativo a través de la Coordinación General de Gestión Integral de la Ciudad;
+
+IV. Debe aprobar en el mes de agosto de cada ejercicio fiscal, un Programa Anual con reglas de operación de intervención para predios generadores, en el que, los que ejercieron transferencias se consideren prioridad, reglas de operación que deberán prever, los procesos, procedimientos, criterios administrativos, técnicos y financieros para la correcta y eficaz gestión de la transferencia de derechos de desarrollo urbano; y
+
+IV (SIC). Debe informar al Pleno del Ayuntamiento el Programa Anual de Intervención y el listado de transferencias ejercidas anualmente, en el mes de septiembre de cada año.
+
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 101.
 
 La Transferencia de Derechos de Desarrollo Urbano se realiza mediante el siguiente procedimiento:
 
-I. El solicitante receptor deberá realizar el trámite en la Ventanilla de Dictaminación de la Dirección de Ordenamiento del Territorio, mediante la solicitud de Dictamen de Trazo, Usos y Destinos Específicos, donde deberá indicar los metros cuadrados adicionales a lo que el CUS establece;
+I. Los interesados deberán solicitar en la Dirección el Dictamen de Trazo, Usos y Destinos Específicos; y
 
-II. Acreditación de la propiedad del Predio receptor de la Transferencia, mediante escritura pública inscrita en el Registro Público de la Propiedad y del Comercio, o carta notarial que compruebe su proceso de inscripción;
+II. Solicitar en la Dirección el Dictamen Técnico de Transferencia de Derechos de Desarrollo Urbano, tanto para predios generadores, como para predios receptores.
 
-III. Presentar anteproyecto de edificación mediante planos con planta, alzados y secciones, escala 1:100 y en formato digital, con cuadro de áreas por nivel; y
+Para el Dictamen Técnico de Transferencia de Derechos de Desarrollo Urbano para predios generadores, se requiere:
 
-IV. La Dirección evaluará técnicamente la solicitud, emitiendo Dictamen de Trazo, Usos y Destinos Específicos con la Certificación de Transferencia de Derechos de Desarrollo Urbano. En caso de ser procedente, registrará dicha Transferencia en su Sistema de Transferencia de Derechos de Desarrollo Urbano, a fin de cuantificar los metros cuadrados de construcción cedidos y lo remanente del área generadora. Tendrá un plazo de 30 días hábiles para la emisión del Dictamen de Trazo, Usos y Destinos Específicos con la Certificación de Transferencia de Derechos de Desarrollo Urbano.
+a) Solicitud debidamente firmada por el interesado legal donde se manifieste:
+
+aa. Superficie del lote de acuerdo con escrituras;
+
+aaa. Superficie construida actual;
+
+b) Copia simple del Dictamen de Trazo, Usos y Destinos Específicos donde se certifique que el predio es Generador;
+
+c) Copia simple de la identificación oficial del interesado legal. En el caso de personas morales, deberá de acreditar con los documentos correspondientes;
+
+El dictamen certificará la superficie de construcción máxima a transferir, que se calculará con base en la superficie edificable del CUS más ICUS considerando altura límite, menos la superficie de construcción de la finca.
+
+Para el Dictamen Técnico de Transferencia de Derechos de Desarrollo Urbano para predios receptores, se requiere:
+
+a) Solicitud debidamente firmada por el interesado legal donde se manifieste:
+
+aa. Superficie del lote de acuerdo con escrituras;
+
+b) Copia simple del Dictamen de Trazo, Usos y Destinos Específicos donde se certifique que el predio es Receptor; y
+
+c) Copia simple de la identificación oficial del interesado legal. En el caso de personas morales, deberá de acreditar con los documentos correspondientes.
+
+El dictamen certificará la superficie de construcción máxima a recibir, que se calculará con base en la superficie edificable del CUS más ICUS considerando altura límite, más los porcentajes máximos correspondientes, de acuerdo con la normativa aplicable.
+
+III. Acreditar la propiedad de los predios receptor y generador, mediante escritura pública inscrita en el Registro Público de la Propiedad y del Comercio, o carta notarial que compruebe su proceso de inscripción;
+
+IV. Presentar convenio ratificado ante Notario Público en el que el titular del predio generador acepte transferir los Derechos de Desarrollo Urbano, estableciendo las formas de pago, porcentajes y aplicaciones de los recursos, la responsabilidad de realización de los proyectos de conservación y gestión de los trámites de vistos buenos o licencias correspondientes;
+
+V. Presentar carta de aceptación firmada por el titular del predio generador, en la que manifiesta su conformidad con el mecanismo de distribución de recursos económicos generados por la Transferencia de Derechos de Desarrollo Urbano; y
+
+VI. La Dirección evaluará la solicitud y, en su caso, emitirá los Dictámenes de Trazo, Usos y Destinos Específicos, Dictamen Técnico de Transferencia de Derechos de Desarrollo Urbano para predios generadores y predios receptores, con la Certificación de Transferencia de Derechos de Desarrollo Urbano, las normas de control de la urbanización y la edificación del predio receptor, asentando el potencial máximo a que puede acceder aplicando la transferencia de derechos.
+
+Tratándose de predios generadores que soliciten ser receptores, la Dirección analizará las características, beneficio e impacto directo que puedan aportar a la zona en la que se localizan y podrá emitir el dictamen correspondiente.
+
+Una vez concluido el presente procedimiento los solicitantes deberán continuar su trámite ante el Comité Interinstitucional del Programa de Transferencia de Derechos de Desarrollo, a través de la Coordinación General de Gestión Integral de la Ciudad.
+
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 102.
 
-El mecanismo de recaudación de la Transferencia de Derechos de Desarrollo Urbano se calcula con base en la Ley de Ingresos para el Municipio de Guadalajara, así como para el ejercicio fiscal vigente mediante el siguiente procedimiento.
+Para ejercer los derechos de Transferencia de Derechos de Desarrollo Urbano, se deberá cubrir el importe que señale la Ley de Ingresos para el Municipio de Guadalajara para el ejercicio fiscal vigente.
 
-El potencial transferible de los Derechos de Desarrollo para un Predio receptor, será igual al diferencial existente entre la superficie máxima de construcción, y la superficie construida del estado actual, multiplicada por el Coeficiente de Ocupación del Suelo, COS, establecido para el Área Urbana correspondiente en el Plan Parcial de Desarrollo Urbano, y el resultado se expresará en metros cuadrados que se agregan a la superficie máxima de construcción.
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 103.
 
-La Dirección, en conjunto con la Dirección de Catastro y la Tesorería Municipal deberán implementar el Sistema de Transferencia de Derechos de Desarrollo Urbano, previsto en el artículo 5, fracción LXXV del Código; una base de datos que será alimentada desde las atribuciones previstas para cada una de estas dependencias, para la cuantificación de metros cuadrados transferibles y recibidos, incluido en cada área delimitada como generadora o receptora de Transferencia de Derechos de Desarrollo Urbano. Este Sistema deberá contar con una ficha técnica para cada Predio con clave catastral vinculada, y estará publicado en una plataforma de sitio Web para consulta pública y transparente de la información contenida en dicho sistema.
+Los recursos captados por la Transferencia de Derechos de Desarrollo Urbano se distribuirán conforme lo siguiente:
+
+I. Si cuenta con proyecto autorizado por la Coordinación General de Gestión Integral de la Ciudad, para desarrollo de vivienda en el mismo predio, hasta un 80% de la cantidad resultante aplicable a pago de licencias, derechos y demás contribuciones con cargo al municipio, si hubiese diferencia se le pagará al propietario del predio generador, el 20% restante se administrará por el Comité Interinstitucional de la Transferencia de Derechos, conforme lo establezca el Programa Anual con Reglas de Operación que emita el Comité Interinstitucional, a través de la Coordinación General de Gestión Integral de la Ciudad; y
+
+II. Si no cuenta con proyecto autorizado por la Coordinación General de Gestión Integral de la Ciudad, para desarrollo de vivienda, el propietario del predio generador recibirá hasta un 50% de la cantidad resultante, el 50% restante se administrará por el Comité Interinstitucional de la Transferencia de Derechos conforme lo establezca el Programa Anual con Reglas de Operación que emita el Comité Interinstitucional, a través de la Coordinación General de Gestión Integral de la Ciudad.
 
 ###### Artículo 104.
 
-Los predios registrados en el Sistema de Transferencia de Derechos de Desarrollo Urbano deberán cumplir los siguientes requisitos para acceder a la recepción de Derechos de Desarrollo Urbano:
-
-I. Para los predios incluidos en áreas generadoras de Transferencia de Derechos de Desarrollo Urbano:
-
-a) Boleta de Impuesto Predial pagado en el año del ejercicio fiscal vigente;
-
-b) Escritura del Predio inscrita en el Registro Público de la Propiedad y del Comercio; y
-
-c) En caso de ser finca patrimonial, la ficha técnica emitida por la Dirección de Ordenamiento del Territorio y la opinión de la Secretaría de Cultura del Estado de Jalisco.
-
-II. Para los predios incluidos en áreas receptoras de Transferencia de Derechos de Desarrollo Urbano:
-
-a) Boleta de Impuesto Predial pagado en el año del ejercicio fiscal vigente;
-
-b) Escritura del Predio inscrita en el Registro Público de la Propiedad y del Comercio; y
-
-c) En caso de que el Predio tenga una edificación existente, presentar plano arquitectónico con vistas en planta, alzado y secciones, con el objeto de proporcionar elementos para el análisis de coeficientes de la edificación.
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 105.
 
-La Dirección deberá administrar el Inventario y Catálogo del Patrimonio Cultural Urbano Arquitectónico y de los predios de Valor Natural Ambiental del Municipio, instrumento que almacenará la información relativa al estado de conservación de la finca, su valor artístico, su planta física, el potencial de desarrollo de cada Predio respecto a las Normas de Control a la Urbanización y Edificación establecidas para la Zonificación Secundaria en los Planes Parciales, así como su historial de Transferencia de Derechos de Desarrollo Urbano, mismo con la que podrá emitirse la ficha técnica para la obtención del ingreso al Sistema de Registro de Transferencia de Derechos de Desarrollo Urbano.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 106.
 
@@ -1923,53 +1999,39 @@ La Dirección deberá administrar el Inventario y Catálogo del Patrimonio Cultu
 
 ###### Artículo 107.
 
-El mecanismo de recaudación de la Transferencia de Derechos de Desarrollo Urbano se calcula con base en la Ley de Ingresos para el Municipio de Guadalajara, para el ejercicio fiscal vigente.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 108.
 
-Deberá crearse el Fondo del Sistema de Transferencia de Derechos de Desarrollo Urbano, que captará los recursos por la administración de la Transferencia, a través de la Tesorería Municipal, previo convenio. Estos recursos serán ejercidos por la Dirección de Obras Públicas, en favor de la restauración y conservación continua de las fincas patrimoniales de las cuales procederán los ingresos relativos a la generación de Derechos de Desarrollo Urbano, así como en favor de las Áreas Naturales Protegidas por decreto para su restauración y conservación continua. Las transacciones por este concepto, estarán relacionados y publicados en un informe semestral, siendo junio y diciembre los meses para esta declaración, a través en el sitio Web del Ayuntamiento de Guadalajara.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 109.
 
-Los recursos recaudados por el ejercicio del mecanismo de Transferencia de Derechos de Desarrollo Urbano, deberán ser ingresados por conducto de la Hacienda Municipal, en los términos de la Ley de Hacienda Municipal del Estado de Jalisco y de la Ley de Ingresos vigente para el Municipio. La Tesorería Municipal en la iniciativa de Presupuesto de Egresos de cada año, establecerá que los recursos recaudados se asignarán estrictamente a las áreas generadoras de Trasferencia de Derechos de Desarrollo Urbano, bajo los siguientes fondos:
-
-I. Fondo de Renovación Urbana: Para áreas urbanas identificadas en los Planes Parciales de Desarrollo Urbano y PIUE, para el mejoramiento y reposición de infraestructura hidrosanitaria, de alumbrado público, así como la mejora de la imagen urbana de dichas áreas, deberán emplearse estos recursos en los proyectos planteados para la administración;
-
-II. Fondo para Conservación y Ampliación de Espacios Públicos: Para Áreas Naturales Protegidas por decreto, parques y plazas públicas, así como instalaciones deportivas, deberán emplearse estos recursos en los proyectos planteados para la administración;
-
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
-
-III. Fondo para la Conservación del Patrimonio Cultural Arquitectónico: Los recursos serán para la conservación y restauración de las fincas que han generado la Transferencia de Derechos de Desarrollo Urbano, y su instrumentación estará a cargo de la Dirección de Obras Públicas, dando prioridad a los elementos del patrimonio edificado identificados como monumentos históricos, monumentos artísticos, bienes inmuebles de valor artístico relevante, así como los que son de valor histórico o artístico ambiental, debiendo emplearse estos recursos en las fincas que han cedido sus derechos; y
-
-IV. Fondo para el Equipamiento en Materia de Protección Civil: Los recursos se destinarán para la compra y mantenimiento de equipo para garantizar la seguridad de la población en caso de cualquier contingencia.
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 110.
 
-El apoyo económico proveniente del fondo, para la conservación del patrimonio cultural arquitectónico, será entregado al propietario o representante legal del Predio que generó los Derechos de Desarrollo Urbano, debidamente inscrito en el Inventario y Catálogo del Patrimonio Cultural Arquitectónico del Municipio de Guadalajara, o en los inventarios de competencia estatal y federal; y deberá ser aplicado por la Dirección de Obras Públicas a las Obras de Restauración y Conservación de las Fincas Generadoras de Derechos de Desarrollo Urbano.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 111.
 
-La Dirección emitirá, mediante el Dictamen de Trazo, Usos y Destinos Específicos, la certificación de la Transferencia de Derechos de Desarrollo Urbano, y el propietario o promotor deberá acreditar la inscripción al Sistema de Transferencia de Derechos de Desarrollo Urbano, así como las claves catastrales de los predios contenidos en las respectivas áreas generadoras y receptoras de Transferencia de Derechos de Desarrollo Urbano.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 112.
 
-La Dirección solicitará los requisitos técnicos que procedan, para la emisión del Dictamen de Trazo, Usos y Destinos Específicos con la certificación de la Transferencia de Derechos de Desarrollo Urbano.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 113.
 
-La Dirección deberá solicitar los estudios de impacto urbano o dictámenes técnicos de las dependencias competentes requeridos para acreditar la Transferencia de Derechos de Desarrollo Urbano: Ambiental, de Movilidad, Infraestructural y de Imagen Urbana, y los que apliquen según la particularidad de la ubicación del Predio y el tipo de proyecto.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 114.
 
-El Predio que sea acreedor a la recepción de Transferencia de Derechos de Desarrollo Urbano, se sujetará al otorgamiento de áreas de cesión en apego al Capítulo 7 del Título Segundo de este Reglamento.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 115.
 
-El promotor o propietario deberá ingresar el proyecto de edificación a la Dirección de Obras Públicas, sujetándose a los lineamientos establecidos en el Dictamen de Trazo, Usos y Destinos Específicos con la Certificación de Transferencia de Derechos de Desarrollo Urbano, para la revisión de dicho proyecto con los Derechos de Desarrollo Urbano aplicados.
+(DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
 ### CAPÍTULO IX. Polígonos de Intervención Urbana Especial
 
@@ -3257,7 +3319,9 @@ VI. Ampliación de establecimientos comerciales y de servicios que rebasen los 3
 
 VII. Construcción, ampliación y/o remodelación de obras de infraestructura urbana municipal o estatal a partir de 3000 metros cuadrados de construcción; y
 
-VIII. Las edificaciones de cualquier uso que cuenten con más de dos sótanos.
+> <small>(REFORMADA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Las edificaciones de cualquier uso que cuenten con más de dos sótanos o que dentro del predio a edificar se localicen mantos freáticos y se solicite la autorización para la construcción de cajones de estacionamiento sobre rasante, sin que dicha superficie se compute para el cálculo del CUS e ICUS.
 
 ###### Artículo 184.
 
@@ -5654,3 +5718,25 @@ Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publi
 Tercero. Las solicitudes y trámites para la obtención de la licencia de estación de servicio o gasolinera, presentados previo a la entrada en vigor de las presentes reformas, serán resueltos conforme a la normatividad vigente al momento de su presentación.
 
 Cuarto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VI y VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE ”REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese el presente ordenamiento, en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se instruye a la Coordinación General de Gestión Integral de la Ciudad, en esta única ocasión presente en el mes de octubre del año 2021, el Programa Anual con reglas de operación de Intervención para predios generadores, en el que, los que ejercieron transferencias se consideren prioridad, reglas de operación que deberán prever, los procesos, procedimientos, criterios administrativos, técnicos y financieros para la correcta y eficaz gestión de la transferencia de derechos de desarrollo urbano.
+
+Cuarto. Una vez publicado el presente ordenamiento, remítase una copia de él al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
