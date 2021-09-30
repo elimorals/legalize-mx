@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2020-02-21"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -407,9 +407,13 @@ XCV. Patrimonio Histórico Cultural: Los bienes inmuebles catalogados por el INA
 
 XCVI. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XCVII. Plano de Zonificación: Carta del territorio municipal en la que se establecen las zonas y corredores de uso y destino de suelo, sobre las que norma el presente Código;
+XCVI-A. Plano de Usos por Corredor del Municipio: Carta del territorio municipal donde se establecen los usos de suelo por corredor, Se entiende por corredores a las áreas en forma longitudinal, en las que se asignan usos y destinos a los predios y lotes que colindan con ejes metropolitanos, vías primarias o secundarias, que estructuran la conectividad y la movilidad sustentable, privilegiando la jerarquía de la movilidad y la accesibilidad universal.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XCVII. Plano de Zonificación: Carta del territorio municipal en la que se establecen las zonas de usos y destinos de suelo, sobre las que norma el presente Código.
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -489,6 +493,10 @@ CXXI. Sistema Vial Terciario: El conjunto de vías locales y calles cerradas;
 
 CXXI-A Tabla 1: La identificada como Tabla de Compatibilidades, Condicionamientos Sujetos a la Clasificación de la Vialidad, Condicionamientos para las Zonas y Restricciones de los Grupos de Usos.
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+CXXI-B. Tabla 2: La identificada como Tabla denominada tabla de compatibilidades de destinos y zonas;
+
 CXXII. Traza: Estructura vial básica y geométrica de los centros de población o parte de ella, consistente en la delimitación de manzanas o predios;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
@@ -541,9 +549,11 @@ Estas zonas se presentan al oriente y poniente, las cuales deberán respetar los
 
 CXXXVI. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 3.
 
-Las atribuciones, obligaciones y funciones que en el presente Código se encuentren consignadas para el Ayuntamiento, deberán ser estudiadas, analizadas y dictaminadas previamente por la Comisión de Desarrollo Urbano, y por la Comisión del Instituto Municipal de Planeación en tratándose de las declaratorias de usos, destinos y reservas territoriales.
+Las atribuciones, obligaciones y funciones que en el presente Código se encuentren consignadas para el Ayuntamiento, deberán ser estudiadas, analizadas y dictaminadas previamente por la Comisión de Desarrollo Urbano, y por la Comisión del Instituto Municipal de Planeación en asignaciones de usos, destinos y reservas territoriales.
 
 Para el caso de reformas, adiciones y derogaciones al presente Código, o bien a iniciativas de reforma a alguna Ley en materia de Desarrollo Urbano, corresponderá a las Comisiones del H. Ayuntamiento de Gobierno, Régimen Interior y Seguridad Pública y a la de Desarrollo Urbano, su estudio análisis y dictaminación respectiva, ello de conformidad con el Reglamento Interior del H. Ayuntamiento.
 
@@ -1197,6 +1207,10 @@ g) PL. Parque lineal; y,
 
 h) PM. Parque metropolitano.
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+i) Infraestructura para antenas de telecomunicaciones.
+
 Los diferentes usos y destinos del suelo se agrupan de acuerdo a la intensidad de los mismos, los cuales estarán sujetos a compatibilidad dentro de las zonas marcadas por el Plano de Zonificación Municipal, hecha excepción de los destinos a que se refieren los incisos d), e), f), g) y h) de la fracción II del presente artículo.
 
 ###### Artículo 20.
@@ -1593,9 +1607,13 @@ En el caso de que las actividades o usos a desarrollar dentro de un inmueble req
 
 Los usos de suelo a desarrollarse en lotes o predios que requieran la MIV, son los señalados en el artículo 309 del Código Territorial, y los clasificados como:
 
-I. Habitacional de Alta Densidad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II. Comercios, Servicios e Industria de Alta Intensidad; y,
+I. Habitacional de Densidad Alta;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. Comercios, Servicios e Industria de Intensidad Alta; y,
 
 III. Servicios Carreteros, Actividades de Riesgo.
 
@@ -1661,7 +1679,9 @@ i) H7 Habitacional de densidad alta; y,
 
 j) H8 Habitacional de densidad alta con usos mixtos de comercio y servicio de intensidad media e industria ligera y mediana.
 
-Tratándose de nuevos desarrollos la Dirección, a petición del desarrollador podrá clasificar para las zonas habitacionales una sub-clasificación exclusivamente de Uso Habitacional, que se identificará con el sufijo - F; de dicha sub-clasificación, la Dirección deberá informar al IMPLAN dentro de un término de 10 días hábiles.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Tratándose de nuevos desarrollos, la Dirección, a petición del desarrollador podrá clasificar para las zonas habitacionales una sub-clasificación exclusivamente de Uso Habitacional, que se identificará con el sufijo - E; siempre y cuando en el proyecto de diseño urbano se considere una zona de servicios o de comercio dentro del desarrollo con frente al sistema vial primario. De dicha sub-clasificación, la Dirección deberá informar al IMPLAN dentro de un término de 10 días hábiles.
 
 Para los casos no previstos en el párrafo anterior, el Ayuntamiento podrá autorizar la misma sub-clasificación, previo análisis del IMPLAN y a petición del Comité de Colonos registrado en la Dirección General de Desarrollo Social.
 
@@ -1695,7 +1715,27 @@ d) I4 Industria de alto riesgo.
 
 V. Zona agrícola (A);
 
-VI. Zona forestal (F);
+VI. Zona forestal (F):
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) Forestal de restauración con usos mixtos (Fi);
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+b) Forestal de aprovechamiento con usos mixtos (F2);
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+c) Forestal del conservación y aprovechamiento restringido (F3-A);
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+d) Forestal de aprovechamiento restringido (F3-B); y,
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+e) Forestal de conservación (F4).
 
 VII. Zona pecuaria (P);
 
@@ -1729,9 +1769,15 @@ i) JP Jardín público; y
 
 j) AV Área verde
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+k) IAT Infraestructura para antenas de telecomunicaciones.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 55.
 
-Los tipos de zonas a que se refiere el artículo anterior, se localizan dentro del POTE y en el Plano de Zonificación del Municipio.
+Los tipos de zonas a que se refiere el artículo anterior, se identifican y se localizan dentro del POTE y Plano de Zonificación del Municipio, donde también se señalan sus condicionantes y limitantes.
 
 ###### Artículo 56.
 
@@ -1747,11 +1793,17 @@ II. Establecer los usos predominantes, compatibles, condicionados e incompatible
 
 Las Compatibilidades de los Grupos de Uso dentro de las Zonas y corredores serán los marcados en la Tabla 1 del presente Código y en el Manual Técnico de Usos de (sic) suelo.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 57-A.
 
-Las Compatibilidades de los usos y destinos de las Zonas forestales serán las marcadas en la Tabla 1 del presente Código y en el Manual Técnico de Usos de (sic) suelo.
+Las Compatibilidades de los usos y destinos de las Zonas forestales: forestal de restauración con usos mixtos (Fi), forestal de aprovechamiento con usos mixtos (F2), forestal del conservación y aprovechamiento restringido (F3-A), forestal de aprovechamiento restringido (F3-13), forestal de conservación (F4) serán las marcadas en las Tablas i y 2 del Anexo Único del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, denominado Manual Técnico de Usos del Suelo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 57-B.
+
+Las Compatibilidades de los destinos serán las marcadas en la Tabla 2 del Anexo Único del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, denominado Manual Técnico de Usos del Suelo.
 
 ###### Artículo 58.
 
@@ -1925,9 +1977,9 @@ Artículo 63 B.- La Dirección podrá autorizar un COS mayor mediante el cumplim
 
 Tratándose de los cajones de estacionamiento, los particulares deberán cumplir con lo dispuesto en la norma técnica NTM-LEON-DU-02-2018, relativa al Requerimiento de Cajones de Estacionamiento.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Excepcionalmente, cuando por la naturaleza del proyecto resulte materialmente imposible el cumplimiento de los requerimientos señalados en la norma técnica antes referida, deberán de exponer tal situación por escrito a la Dirección, expresando las causas que debidamente justificadas respalden la imposibilidad de dicho cumplimiento así como las medidas propuestas para el uso de los cajones de estacionamiento.
+Excepcionalmente, cuando por la naturaleza del proyecto resulte materialmente imposible el cumplimiento de los requerimientos señalados en la norma técnica antes referida, deberán de exponer tal situación por escrito a la Dirección, expresando las causas que debidamente justificadas respalden la imposibilidad de dicho cumplimiento, así como las medidas propuestas para el uso de los cajones de estacionamiento. Esta excepción no es aplicable a los usos de suelo señalados en el artículo 25 y 27 del Anexo único del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, denominado Manual Técnico de Usos del Suelo.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1999,9 +2051,9 @@ I. La densidad máxima será de 50 hab/Ha;
 
 II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y,
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III. Los usos compatibles con la Zona Agrícola (A), son aquellos que se localizan en la Tabla 1 del presente Código.
+III. Los usos y destinos compatibles con la Zona Agrícola (A), son aquellos que se localizan en la Tabla 1 del Anexo Único del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, denominado Manual Técnico de Usos del Suelo.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -2019,9 +2071,9 @@ I. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 II. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III. Los usos compatibles con la zona de (sic) Forestal (F), son aquellos que se localizan en la Tabla 1 del presente Código;
+III. Los usos y destinos compatibles con la zona de (sic) Forestal (F), son aquellos que se localizan en la Tabla 1 del Anexo único del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, denominado Manual Técnico de Usos del Suelo;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -2059,11 +2111,11 @@ Para los usos sujetos a normas especiales en las Zonas Forestales (F) y para el 
 
 Una vez concluido el análisis preliminar o, en su caso, recibidos los estudios adicionales, la Dirección podrá solicitar al IMPLAN una opinión técnica respecto al uso de suelo y los posibles efectos e impactos que el nuevo proyecto, desarrollo o instalación, se prevé producirán en el entorno.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 76-C.
 
-Recibida la opinión del IMPLAN, la factibilidad de servicios por parte del SAPAL y concluido el análisis respectivo, la Dirección deberá de someter a aprobación del Ayuntamiento, por conducto de la comisión respectiva, la autorización para otorgar el permiso de uso del suelo. Una vez aprobada la autorización la Dirección deberá emitir el permiso correspondiente.
+Recibida la opinión del IMPLAN, el dictamen técnico de factibilidad por parte del SAPAL y concluido el análisis respectivo, la Dirección deberá de someter a aprobación del Ayuntamiento, por conducto de la comisión respectiva, la autorización para que la Dirección emita el permiso de uso de suelo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -2107,11 +2159,9 @@ Las Zonas de Reserva para el Crecimiento (ZRC) y las Zonas de Consolidación Urb
 
 Los desarrollos inmobiliarios en esta zona, en el resolutivo correspondiente deberá establecerse que el promovente aporte un porcentaje del 3% del valor de la urbanización a favor del fideicomiso ambiental que se cree e incorporar garantías ambientales, a favor del mismo fideicomiso con fin de promover los costos de conservación de la zona. En caso de un desarrollo de vivienda de interés social, el porcentaje será del 1%.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+###### ARTÍCULO 84.
 
-###### Artículo 84.
-
-En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio correspondiente para determinar la compatibilidad, quien lo turnará al H. Ayuntamiento para análisis y en su caso la aprobación de la asignación de uso de suelo.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -2189,11 +2239,11 @@ El uso y destino de suelo en predios con una superficie a ocupar de hasta 2000 M
 
 Para este caso en concreto no requerirá asignación de uso de suelo.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 96.
 
-La localización de los corredores y carreteras se determinará en el Plano de Corredores de Usos y Destinos del Municipio.
+La localización de los corredores y carreteras se determinará en el Plano de Usos por Corredor del Municipio.
 
 ###### Artículo 97.
 
@@ -2237,11 +2287,11 @@ Las zonas del Municipio consideradas áreas naturales protegidas Municipales, qu
 
 El Área Natural Protegida Sierra de Lobos, deberá de sujetarse a las disposiciones jurídicas aplicables, y al Programa de Manejo que para tal efecto emita la autoridad competente.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 100-C.
 
-En el polígono de protección de instalaciones penitenciarias o de seguridad nacional, se podrán establecer usos y destinos del suelo señalados en la Tabla 1 del presente Código, siempre y cuando cumplan con los requisitos que señala la autoridad competente en materia de seguridad.
+En el polígono de protección de instalaciones penitenciarias o de seguridad nacional, se podrán establecer usos y destinos del suelo señalados en la Tabla 1 y 2 del Anexo Único del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, denominado Manual Técnico de Usos del Suelo, siempre y cuando cumplan con los requisitos que señala la autoridad competente en materia de seguridad.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
@@ -2615,7 +2665,9 @@ Así mismo los usos de suelo en los inmuebles ubicados dentro de la zona de patr
 
 Si el inmueble sobre el cual se está solicitando el uso de suelo se encuentra dentro de una Zona de Reserva para el Crecimiento (ZRC), una Zona de Consolidación Urbana (ZCU), o una Zona Agrícola (A), el interesado ingresará al IMPLAN la documental para la asignación de uso de suelo, cubriendo los requisitos siguientes:
 
-I. Solicitud para la asignación de uso de suelo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Solicitud para la asignación de uso de suelo, y copia del INE del solicitante;
 
 II. Poder Notarial del representante legal del promovente, en su caso;
 
@@ -2625,13 +2677,17 @@ IV. Plano a escala legible en las que se identifique plenamente los inmuebles a 
 
 V. Constancia de Factibilidad donde se señalen los alineamientos, modalidades, limitaciones y restricciones que presenta el inmueble con base en el POTE;
 
-VI. Anteproyecto Arquitectónico o de lotificación, tratándose de Desarrollos Habitacionales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+VI. Anteproyecto Arquitectónico para los usos de suelos comerciales, industriales y de servicios y destinos. Tratándose de fraccionamientos o desarrollos en condominio se deberá de señalar únicamente el número de viviendas o lotes respectivamente;
 
-VII. Cuando la superficie solicitada en la asignación de uso de suelo sea menor a la que establece la escritura de propiedad, deberá de presentar división del predio por la superficie a asignar; y,
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. Garantizar a través de contrato de compraventa o contrato de promesa de compraventa, el acceso para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial.
+VII. Cuando la superficie solicitada en la asignación de uso de suelo sea menor a la que establece la escritura de propiedad y la superficie restante se encuentre pendiente de asignación de uso de suelo, deberá de presentar división del predio por la superficie a asignar; y,
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. En solicitudes de fraccionamientos y desarrollos en condominio se deberá de garantizar a través de contrato de compraventa o contrato de promesa de compraventa, el acceso para conectarlos con la red de comunicación vial de algún centro de población.
 
 Para el supuesto de accesos en propiedad social que se garanticen con contrato de promesa de compraventa, éste deberá contener el compromiso de agotar el procedimiento legal para adquirir la pequeña propiedad y su transmisión al desarrollador o fraccionador.
 
@@ -2641,17 +2697,17 @@ Para el supuesto de accesos en propiedad social que se garanticen con contrato d
 
 Recibida toda la documentación, el IMPLAN procederá a realizar un análisis preliminar, en el caso de que, por la naturaleza del proyecto, se requiera de información adicional a la presentada con la solicitud, podrá requerir a los particulares la realización de estudios adicionales, notificándole en un término no mayor a diez días siguientes a la recepción de los documentos.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 128-E.
 
-Una vez concluido el análisis preliminar o, en su caso, recibidos los estudios adicionales, el IMPLAN solicitará al SAPAL la factibilidad de servicios para el inmueble sobre el cual se analiza la asignación de uso de suelo correspondiente.
+Una vez concluido el análisis preliminar o, en su caso, recibidos los estudios adicionales, el IMPLAN solicitará al SAPAL el dictamen técnico de factibilidad para el inmueble sobre el cual se analiza la asignación de uso de suelo correspondiente.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 128-F.
 
-Culminado el análisis respectivo y recibida la factibilidad de servicios por parte del SAPAL, el IMPLAN procederá a someter el proyecto de resolución a consideración del H. Ayuntamiento, por medio de la comisión correspondiente. Aprobado el proyecto, el IMPLAN notificará al solicitante y a la Dirección el contenido de la resolución para los trámites correspondientes.
+Culminado el análisis respectivo y recibido el dictamen técnico de factibilidad por parte del SAPAL, el IMPLAN procederá a someter la asignación de uso de suelo a consideración del H. Ayuntamiento, por medio de la comisión correspondiente. Aprobada la asignación de uso de suelo, el IMPLAN la notificará al solicitante y a la Dirección.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3075,9 +3131,25 @@ V. El sistema vial primario estará integrado por las siguientes clasificaciones
 
 a) Ejes metropolitanos. Se extenderán en el sentido oriente-poniente, que soporten las demandas de comunicación vial en la ciudad con secciones promedio de 60 - 80 metros, donde deberán integrarse de manera armónica la movilidad motorizada y no - motorizada, a fin de conformar una red de movilidad integral;
 
-b) Vías primarias. Se extenderá a través de vías norte-sur, con la finalidad de dar alimentación a los ejes metropolitanos, con una sección de 40 metros, donde de igual manera integrarán la movilidad motorizada y no - motorizada; y,
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-c) Vías interbarrio. La estructura vial interbarrio, permitirá la conexión de un barrio a otro en la ciudad; se plantean con sección de 20-30 metros, de igual manera integrarán la movilidad motorizada y no - motorizada.
+b) Vías primarias. Se extenderán con la finalidad de dar alimentación a los ejes metropolitanos con una sección de 30 - 40 metros, donde de igual manera integrarán la movilidad motorizada y no - motorizada; y,
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+c) Vías interbarrio. La estructura vial interbarrio, permitirá la conexión de un barrio o colonia a otros en la ciudad, así como la conexión con vialidades del sistema vial primario.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Dentro del polígono de densificación, establecido en el POTE, delimitado por los bulevares José María Morelos, Delta, Timoteo Lozano, Miguel de Cervantes Poniente y San Juan Bosco, las Vías interbarrio deberán tener una sección mínima de 16 metros, con dos cuerpos uno por sentido, cada uno de ellos con dos carriles y banquetas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Además, las vialidades deberán estar urbanizadas para poder ser clasificadas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En el polígono de consolidación urbana, las zonas no desarrolladas y en las zonas de reserva para el crecimiento establecidas en el POTE, la estructura vial interbarrio, tendrá una sección de 20 - 30 metros con banquetas, dos cuerpos, camellón, integrando la movilidad no - motorizada y motorizada.
 
 VI. El sistema vial secundario estará integrado por vías colectoras.
 
@@ -3335,9 +3407,9 @@ Sobre las guarniciones de las áreas de donación en favor del Municipio, se deb
 
 El desarrollador deberá plantar en el área del proyecto, un árbol por cada uno de los lotes, unidades, locales o viviendas que integren el proyecto de diseño urbano, además de los que se determinen en la autorización en materia de evaluación del impacto ambiental respectiva (sic).
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-La plantación de los árboles deberá efectuarse con las especies, y conforme a los términos, condiciones y especificaciones establecidos en la normativa municipal en materia de medio ambiente, así como en los programas y las normas técnicas en la materia que se expidan para tal efecto.
+La plantación de los árboles deberá efectuarse con las especies, y conforme a los términos, condiciones y especificaciones que determine la Dirección General en materia de medio ambiente, evitando que se coloquen junto al alumbrado público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -3579,15 +3651,15 @@ VI. Las demás que determinen otras disposiciones legales.
 
 #### SECCIÓN CUARTA. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 189.
 
-Se consideran fraccionamientos habitacionales de tipo campestres, aquellos que se ubiquen fuera de los centros de población delimitados en el POTE, cuyos lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco veces la Unidad de Medida y Actualización Diaria, elevada esta cantidad al año.
+Se consideran fraccionamientos habitacionales de tipo campestres los señalados en el POTE y ubicados fuera del centro de población destinados a uso habitacional unifamiliar cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco veces la Unidad de Medida y Actualización Diaria, elevada esta cantidad al año.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Este tipo de fraccionamientos deberán estar ubicados dentro de la zona de crecimiento de la ciudad, señalada en el POTE y sus lotes tendrán como mínimo un frente de 20 metros, con una superficie no menor de 800 metros cuadrados; y cumplir con las obras de urbanización señaladas en el presente ordenamiento.
+Sus lotes tendrán como mínimo un frente de 20 metros, con una superficie no menor de 800 metros cuadrados; y deberán cumplir con las obras de urbanización señaladas en el presente ordenamiento.
 
 Este tipo de fraccionamientos contarán además con lo siguiente:
 
@@ -3851,9 +3923,11 @@ Los desarrollos en condominio de tipo horizontal de uso habitacional, no podrán
 
 Asimismo, en este tipo de desarrollos no se permitirán unidades de propiedad privativa que tengan un frente y superficie menor a lo establecido en el lote tipo de la zona, de conformidad con las superficies establecidas en el Código Territorial.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 204.
 
-En los desarrollos en condominio de uso habitacional, se podrán construir andadores que sirvan de enlace entre las edificaciones.
+En los desarrollos en condominio de uso habitacional, se podrán construir andadores que sirvan de enlace entre las edificaciones, evitando que queden puntos que no tengan visibilidad de las viviendas, así como que se coloquen obstáculos de tipo visual que impidan la vigilancia natural.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -8813,7 +8887,7 @@ ANEXOS
 
 > <small>[N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70; P.O. 6 DE MAYO DE 2014, PÁGINA 149; P.O. 16 DE ENERO DE 2015, PÁGINAS 94 A LA 95; DEROGADA, P.O. 9 DE ABRIL DE 2018, PÁGINA 7.]</small>
 
-> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-02-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA AL REQUERIMIENTO DE CAJONES DE ESTACIONAMIENTO EN EL MUNICIPIO, P.O. 9 DE ABRIL DE 2018, PÁGINAS 287 A 296.]</small>
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-02-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA AL REQUERIMIENTO DE CAJONES DE ESTACIONAMIENTO EN EL MUNICIPIO, P.O. 9 DE ABRIL DE 2018, PÁGINAS 287 A 296; P.O. 30 DE SEPTIEMBRE DE 2021, PÁGINA 31.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 54 A LA 55; P.O. 25 DE ENERO DE 2013, PÁGINA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 149 A LA 150; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 145 Y 146; ELIMINADA POR TRANSITORIO ARTÍCULO CUARTO, P.O. 9 DE ABRIL DE 2018, PÁGINA 347.]</small>
 
@@ -8823,9 +8897,13 @@ ANEXOS
 
 > <small>[N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87; P.O. 6 DE MAYO DE 2014, PÁGINAS 155 A LA 156; P.O. 16 DE ENERO DE 2015, PÁGINA 95; DEROGADA, P.O. 9 DE ABRIL DE 2018, PÁGINA 8.]</small>
 
-> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-04-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA A LAS ESPECIFICACIONES TÉCNICAS DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO, P.O. 9 DE ABRIL DE 2018, PÁGINAS 317 A 347.]</small>
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-04-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA A LAS ESPECIFICACIONES TÉCNICAS DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO, P.O. 9 DE ABRIL DE 2018, PÁGINAS 317 A 347; P.O. 30 DE SEPTIEMBRE DE 2021, PÁGINA 31.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS DEL ANEXO ÚNICO DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO DENOMINADO "MANUAL TÉCNICO DE USOS DEL SUELO", PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO, NÚMERO 125, SEGUNDA PARTE, DE FECHA 6 DE AGOSTO DEL AÑO 2010, REFORMAS PUBLICADAS EN EL P.O. 9 DE ABRIL DE 2018, PÁGINAS 53 A 62.]</small>
+> <small>[N. DE E. VÉASE REFORMAS DEL ANEXO ÚNICO DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO DENOMINADO "MANUAL TÉCNICO DE USOS DEL SUELO", PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO, NÚMERO 125, SEGUNDA PARTE, DE FECHA 6 DE AGOSTO DEL AÑO 2010, REFORMAS PUBLICADAS EN EL P.O. 9 DE ABRIL DE 2018, PÁGINAS 53 A 62; P.O. 30 DE SEPTIEMBRE DE 2021, PÁGINAS 15 A LA 30.]</small>
+
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-05-2021 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO RELATIVA A LAS ESPECIFICACIONES TÉCNICAS DE DISEÑO DE SISMO Y VIENTO, EN EL P.O. 30 DE SEPTIEMBRE DE 2021, PÁGINAS 32 A LA 151.]</small>
+
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-06-2021, COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA A LAS ESPECIFICACIONES TÉCNICAS DE DISEÑO ESTRUCTURAL, EN EL P.O. 30 DE SEPTIEMBRE DE 2021, PÁGINAS 152 A LA 165.]</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -9102,3 +9180,15 @@ PRIMERO: Las presentes reformas, adiciones y derogaciones entrarán en vigor al 
 SEGUNDO: Todos los procedimientos y demás asuntos relacionados con las materias a que refiere este ordenamiento, iniciados con anterioridad a la entrada en vigencia al presente acuerdo, deben tramitarse y resolverse conforme a las disposiciones vigentes en ese momento.
 
 TERCERO: Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes reformas, adiciones y derogaciones al presente ordenamiento.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE LEÓN, GUANAJUATO POR MEDIO DEL CUAL SE APRUEBAN DIVERSAS REFORMAS, ADICIONES Y DEROGACIONES AL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, A SU ANEXO ÚNICO DENOMINADO MANUAL TÉCNICO DE USOS DEL SUELO ASÍ COMO A LAS NORMAS TÉCNICAS MUNICIPALES NTM-LEONDU- 02-2018 Y NTM-LEON-DU-04-2018 Y LA EXPEDICIÓN DE LAS NORMAS TÉCNICAS MUNICIPALES COMPLEMENTARIAS AL CITADO CÓDIGO: NTM-LEON-DU-05-2021 RELATIVA LAS ESPECIFICACIONES TÉCNICAS DE DISEÑO DE SISMO Y VIENTO Y NTM-LEONDU-06-2021 RELATIVA LAS ESPECIFICACIONES TÉCNICAS DE DISEÑO ESTRUCTURAL".]
+
+PRIMERO: Las presentes reformas, adiciones, derogaciones y normas técnicas municipales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO: Todos los procedimientos y demás asuntos relacionados con las materias a que refiere este ordenamiento, iniciados con anterioridad a la entrada en vigencia al presente acuerdo, deben tramitarse y resolverse conforme a las disposiciones vigentes en ese momento.
+
+TERCERO: Los centros de rehabilitación de adicciones que a la entrada en vigor del presente reglamento acrediten que ya se encontraban funcionando y no cuenten con permiso de uso de suelo dispondrán del plazo de un año para adecuar sus instalaciones y dar cumplimiento a lo establecido en esta norma.
+
+CUARTO: Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes reformas, adiciones y derogaciones al presente ordenamiento.
