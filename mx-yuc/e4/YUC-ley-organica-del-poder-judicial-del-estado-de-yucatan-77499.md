@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2019-04-22"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -95,13 +95,21 @@ En materia penal y de justicia para adolescentes, son hábiles las veinticuatro 
 
 ### CAPÍTULO II. De las Garantías de la función judicial
 
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 Principios que rigen la función judicial
 
 ###### Artículo 7.
 
-Los tribunales del Poder Judicial del Estado impartirán justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad, seguridad jurídica, exhaustividad y congruencia.
+Los tribunales del Poder Judicial del Estado impartirán justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad, seguridad jurídica, exhaustividad, congruencia e igualdad de género.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Igualdad de género
+
+###### Artículo 7 Bis.
+
+Los juzgadores incorporarán la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, con el objeto de garantizar a las mujeres y hombres el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y sin discriminación de ningún tipo.
 
 Independencia
 
@@ -903,17 +911,17 @@ Su jurisdicción será determinada por el Pleno del Consejo de la Judicatura.
 
 Cuando en el mismo departamento judicial existan dos o más juzgados de la misma materia o especialidad, se les identificará con el número ordinal que corresponda a la secuencia de su respectiva creación.
 
-En el sistema de justicia penal acusatorio y oral, la jurisdicción de primera instancia en materia penal estará a cargo de los jueces de control y de los tribunales de juicio oral, en los términos de la legislación procesal. Los jueces de control resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. En ese sentido, deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes, acorde con la legislación procesal aplicable.
+En el sistema de justicia penal acusatorio y oral, la jurisdicción de primera instancia en materia penal estará a cargo de los jueces de control, de los tribunales de juicio oral y de los jueces de ejecución de sentencia, en los términos de la legislación procesal. Los jueces de control resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. En ese sentido, deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes, acorde con la legislación procesal aplicable.
 
-En el sistema de justicia penal acusatorio y oral, los Tribunales de Juicio Oral en materia penal se conformarán por tres jueces, conocerán de los juicios orales de índole criminal y no podrán ejercer simultáneamente, la función de jueces de control. A los jueces del tribunal de juicio oral corresponderá conocer de la etapa de juicio oral, en términos de ley, sin perjuicio de otras atribuciones que les confiera la legislación aplicable.
+En el sistema de justicia penal acusatorio y oral, el tribunal de enjuiciamiento en materia penal se conformará de un juez, que conocerá de los juicios orales de índole criminal y no podrá ejercer simultáneamente, la función de juez de control. Al juez del tribunal de juicio oral corresponderá conocer de la etapa de juicio oral, en términos de ley, sin perjuicio de otras atribuciones que les confiera la legislación aplicable.
 
-> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+Excepcionalmente, el tribunal de juicio oral se conformará por tres jueces tratándose de los delitos de trata de menores, tráfico de menores, trata de personas, desaparición forzada de personas, secuestro, violación, homicidio doloso y feminicidio.
+
+El tribunal de juicio oral también podrá conformarse por tres jueces cuando se justifique por el cúmulo de hechos controvertidos, la cantidad de pruebas ofrecidas o por la complejidad del asunto a resolver. En estos supuestos, el juez al que hubiera sido turnado el asunto para conocer en la etapa de juicio, solicitará al tribunal de juicio oral al que pertenezca, conocer el caso de manera colegiada. Dicho tribunal resolverá de plano la solicitud y su determinación será inatacable.
 
 Asimismo, en este sistema podrán conformarse, para la ágil atención de los procedimientos penales, centros de justicia penal, los cuales estarán integrados por los jueces y tribunales que determine el Consejo de la Judicatura, de conformidad con el presupuesto del Poder Judicial del Estado.
 
-> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
-
-En materia de justicia para adolescentes, existirán, en términos de la legislación procesal penal, jueces de control y jueces de los tribunales de juicio oral especializados, quienes tendrán, en sus respectivos ámbitos de competencia, las facultades y obligaciones establecidas en los dos párrafos anteriores de este artículo, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y en las demás disposiciones legales y normativas aplicables.
+En materia de justicia para adolescentes, existirán, en términos de la legislación procesal penal, jueces de control, jueces de los tribunales de juicio oral y jueces de ejecución de sentencia especializados, quienes tendrán, en sus respectivos ámbitos de competencia, las facultades y obligaciones establecidas en los dos párrafos anteriores de este artículo, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y en las demás disposiciones legales y normativas aplicables.
 
 Número de juzgados
 
@@ -1099,7 +1107,7 @@ III.- Aprobar las propuestas que formulen las autoridades penitenciarias o las s
 
 IV.- Revisar a petición de parte o de oficio y, en su caso, modificar las medidas disciplinarias y de control que imponga la autoridad administrativa del Centro de Reinserción Social a los internos;
 
-V.- Inspeccionar los Centros de Reinserción Social, por lo menos una vez cada dos meses, con el fin de constatar el respeto de los derechos fundamentales y penitenciarios de los internos y ordenar las medidas correctivas que estime convenientes;
+V.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2021)
 
 VI.- Establecer las condiciones en que se deban cumplir las penas y/o las medidas de seguridad; así como ejercer el control sobre las sanciones disciplinarias o imponerlas si se desatienden, y sobre la forma como se cumplen las medidas de seguridad impuestas a los inimputables. Si lo estima conveniente podrá ordenar las verificaciones de rigor acudiendo a colaboraciones oficiales o privadas, y
 
@@ -1126,6 +1134,8 @@ La competencia y adscripción de los jueces de ejecución de sentencia se determ
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ### CAPÍTULO I. De los juzgados de primera instancia del Estado
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 Competencia en razón de materia
 
@@ -1163,7 +1173,9 @@ I.- Haber cumplido veinticinco años de edad, como mínimo;
 
 II.- Poseer el día del nombramiento, título de abogado o licenciado en derecho, legalmente expedido, cuando se trate de Municipios con más de diez mil habitantes. Tratándose de Municipios de hasta diez mil habitantes, el requisito será haber concluido la educación media superior;
 
-III.- Poseer conocimientos necesarios para desempeñar el cargo en los términos de (sic) Reglamento de Carrera Judicial;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III.- Poseer conocimientos necesarios para desempeñar el cargo.
 
 IV.- No haber sido condenado por delito doloso;
 
@@ -1173,7 +1185,7 @@ VI.- Cumplir con el curso de capacitación y posteriormente, aprobar el examen c
 
 VII.- Carecer de antecedentes penales.
 
-Para su nombramiento se deberá atender, en lo conducente, a lo que establezca el Reglamento de Carrera Judicial.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 Protesta
 
@@ -1205,7 +1217,9 @@ VI.- Entregar anualmente al Archivo General del Poder Judicial, dentro de la pri
 
 VII.- Hacer formal entrega a quien lo suceda en el cargo, mediante acta circunstanciada, de los asuntos en trámite y de los terminados que no hubiere enviado al Archivo General del Poder Judicial, en su caso, y
 
-VIII.- Capacitarse en los términos que determine el Reglamento de Carrera Judicial, así como diligenciar los asuntos que les encomienden las leyes.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII.- Capacitarse de manera constante en las materias de su competencia y diligenciar los asuntos que les encomienden las leyes.
 
 Los jueces de paz deberán abstenerse de admitir o conocer asuntos en materia penal, y en su caso, si fuere necesario, turnarán al Ministerio Público aquellos de esa naturaleza que le sean presentados.
 
@@ -1245,11 +1259,11 @@ El Consejo de la Judicatura tendrá su sede en la ciudad de Mérida, Yucatán, y
 
 Integración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 107.
 
-El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, una será el Presidenta o Presidente del Tribunal Superior de Justicia, quien también lo presidirá y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de las y los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por la o el titular del Poder Ejecutivo.
+El Consejo de la Judicatura se integrará por cinco personas, de las cuales, una será Presidenta o Presidente del Tribunal Superior de Justicia, quien también lo presidirá y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de las y los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por la o el titular del Poder Ejecutivo. No podrá haber más de tres miembros del mismo género.
 
 Los miembros de la carrera judicial que sean designados Consejeros de la Judicatura por el Pleno del Tribunal Superior de Justicia, serán comisionados por todo el tiempo que dure el encargo y al término del mismo serán reincorporados a sus funciones jurisdiccionales, o en un cargo que no implique la pérdida de la categoría anterior a la de Consejero.
 
@@ -1355,9 +1369,9 @@ X.- Integrar y remitir, por conducto del Presidente, la cuenta pública del ejer
 
 XI.- Tomar, en sesión, el Compromiso Constitucional a los Jueces, por conducto de su Presidente, previo a la toma de posesión del cargo;
 
-> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XII.- Designar, adscribir, ratificar y remover a los jueces de primera instancia y jueces de paz, en términos de lo previsto en el artículo 72 de la Constitución Política del Estado;
+XII.- Designar, adscribir, ratificar y remover a los jueces de primera instancia y jueces de paz, en términos de lo previsto en el artículo 72 de la Constitución Política del Estado. El Consejo de la Judicatura vigilará la implementación de procedimientos que garanticen la paridad de género en la designación de los jueces de primera instancia y los jueces de paz.
 
 XIII.- Designar, adscribir, ratificar y remover a los servidores públicos del Poder Judicial del Estado, con excepción de los adscritos al Tribunal Superior de Justicia;
 
@@ -1393,9 +1407,15 @@ XXVIII.- Recibir y resolver las quejas que se formulen en contra de facilitadore
 
 XXIX.- Recibir el informe mensual del Centro Estatal de Solución de Controversias que concentre las actividades realizadas por éste, así como los resultados estadísticos correspondientes, en términos de la legislación aplicable;
 
-XXX.- Captar, validar, resguardar, explorar, explotar y difundir la información estadística, en el ámbito de su competencia, relativa a la actividad jurisdiccional y administrativa, a través del área de planeación, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XXXI.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
+XXX.- Captar, validar, resguardar, explorar, explotar y difundir la información estadística, en el ámbito de su competencia, relativa a la actividad jurisdiccional y administrativa, a través del área de planeación;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXXI.- Incorporar la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones, y vigilar que las áreas y órganos jurisdiccionales y administrativos a su cargo también incorporen la perspectiva de género en el ámbito de sus respectivas competencias, y
+
+XXXII.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. Del Pleno del Consejo de la Judicatura
 
@@ -2095,15 +2115,21 @@ Cuando por recusación o excusa de algún Magistrado de las Salas, se resuelva q
 
 En caso que el impedimento recaiga en algún Magistrado de la Sala Especializada en Justicia para Adolescentes, conocerá del asunto un Juez Especializado que no esté impedido.
 
-Suplencia de jueces
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Sustitución de jueces
 
 ###### Artículo 169.
 
-Cuando por excusa o recusación un juez de primera instancia deje de conocer algún asunto, una vez admitido, será turnado a otro juez no impedido del mismo ramo y departamento, siguiendo de manera sucesiva el orden numérico progresivo de los juzgados y, agotados los jueces del mismo ramo, pasará al juez que determine el Pleno del Consejo.
+Cuando por excusa o recusación un juez de primera instancia deje de conocer algún asunto, será sustituido por otro juez de la misma materia no impedido, de acuerdo al sistema de gestión de asuntos de las oficialías de partes y áreas de correspondencia de los órganos jurisdiccionales del Consejo de la Judicatura, con base en el principio de equidad en la distribución de cargas de trabajo entre los órganos jurisdiccionales.
 
-En los Departamento Judiciales donde no hubiere dos o más jueces del mismo ramo, pero los hubiere de distinto ramo, el asunto pasará recíprocamente al del otro ramo, en el orden de su numeración, en su caso.
+Al momento de suscitarse una excusa o resolverse procedente una recusación, el sistema de gestión de asuntos de las oficialías de partes y áreas de correspondencia de los órganos jurisdiccionales del Consejo de la Judicatura determinará cuál es el juez que siga en número de asuntos en conocimiento, al que corresponderá sustituir al impedido de acuerdo a los siguientes criterios:
 
-Impedidos todos los jueces de un mismo Departamento Judicial o existiendo un solo juzgado en dicho Departamento, el asunto pasará del juez impedido al que determine el Pleno del Consejo, considerando la menor distancia entre ambos juzgados.
+I.- El asunto se turnará preferentemente a un juez de la misma materia y departamento o distrito judicial del juez impedido.
+
+II.- Impedidos todos los jueces de un mismo departamento o distrito judicial o existiendo un solo juzgado en dicho departamento o distrito, el asunto se turnará al conocimiento de un juez de la misma materia del departamento o distrito judicial más próximo, considerando la menor distancia entre ambos juzgados.
+
+Cuando no sea posible asignar la suplencia de acuerdo a los criterios establecidos en este artículo, el Pleno del Consejo de la Judicatura determinará qué juez deberá sustituir al impedido.
 
 ## TÍTULO DÉCIMO. DEL HABER POR RETIRO
 
@@ -2159,39 +2185,15 @@ Para efectos de la carrera judicial se tendrá en consideración el perfil ideal
 
 La exigencia de conocimiento y de capacitación permanente tiene como fundamento el derecho de los ciudadanos de obtener un servicio de calidad en la administración de justicia, para ello, todo funcionario o empleado del Poder Judicial del Estado ejercerá su cargo procurando que la justicia se imparta en condiciones de eficiencia, calidad, accesibilidad y transparencia, con prudencia y respeto a la dignidad de la persona.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 Categorías
 
 ###### Artículo 176.
 
-La Carrera Judicial estará integrada por las categorías siguientes:
+La Carrera Judicial estará integrada por las categorías de juez de primera instancia, secretario general de acuerdos, secretario de acuerdos de sala, secretario de acuerdos, administrador de juzgado, secretario de estudio y cuenta, coordinador de causa, coordinador de sala, secretario auxiliar, facilitador o mediador, actuario, notificador, oficial de juzgado, oficial de mediación, técnico judicial, encargado de actas, asistente legal y las demás que establezca el Reglamento de Carrera Judicial.
 
-I.- Juez de Primera Instancia;
-
-II.- (DEROGADA, D.O. 11 DE SEPTIEMBRE DE 2012)
-
-III.- Secretario General de Acuerdos;
-
-IV.- Secretario de Acuerdos de Sala;
-
-V.- Secretario de Acuerdos;
-
-VI.- Secretario de Estudio y Cuenta;
-
-VII.- Juez de Paz;
-
-VIII.- Secretario Auxiliar;
-
-IX.- Actuario;
-
-X.- Técnico judicial;
-
-> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-XI.- Facilitador o mediador, y
-
-XII.- (DEROGADA, D.O. 11 DE SEPTIEMBRE DE 2012)
-
-El Reglamento de Carrera Judicial determinará las categorías de la carrera judicial que surjan con motivo del nuevo sistema penal.
+Las categorías de carrera judicial tendrán las funciones establecidas en esta ley y en las disposiciones normativas que emitan los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2568,3 +2570,15 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente al de
 Derogación expresa
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 417/2021 POR EL QUE SE MODIFICA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación tácita
+
+Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
