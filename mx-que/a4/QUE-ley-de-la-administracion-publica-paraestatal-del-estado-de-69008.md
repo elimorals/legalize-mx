@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-administracion-publica-paraestatal-del-estado-de-6900
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2019-12-22"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "QUE"
 ---
 # LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL DEL ESTADO DE QUERETARO
 
-[NOTA 1: DE CONFORMIDAD CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. DE CONFORMIDAD CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -79,19 +79,27 @@ V. Los fideicomisos públicos que se constituyan, teniendo como propósito auxil
 
 Las instituciones de educación a las que la ley otorgue autonomía, se regirán por sus leyes específicas y la presente se les aplicará de manera supletoria.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
 El Gobernador del Estado agrupará a las entidades paraestatales en sectores definidos, considerando el objeto de cada una de ellas, en relación con la esfera de competencia que las leyes atribuyen a las dependencias del Poder Ejecutivo del Estado.
 
-La intervención que conforme a las leyes corresponde al Poder Ejecutivo del Estado en la operación de las entidades paraestatales, se realizará a través de la dependencia que corresponda, según el agrupamiento que por sectores haya realizado aquél, la cual fungirá como coordinadora del sector respectivo.
+El Gobernador del Estado designará un Comisionado General de Entidades Paraestatales, encargado de la supervisión, vigilancia y seguimiento de las acciones ejecutadas en cumplimiento al objeto de las entidades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+El Comisionado General de Entidades Paraestatales estará adscrito a la Jefatura de Gabinete del Poder Ejecutivo.
+
+El nombramiento del Comisionado General de Entidades Paraestatales deberá inscribirse en el Registro Público de Entidades Paraestatales.
+
+La intervención que conforme a las leyes corresponde al Poder Ejecutivo en la operación de las entidades paraestatales se realizará a través del Comisionado General de Entidades Paraestatales, auxiliándose de las distintas dependencias que conforman los sectores definidos temáticamente, atendiendo a su competencia material.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 6.
 
-Corresponde a los coordinadores de sector, participar en los órganos de gobierno de sus entidades paraestatales sectorizadas, y cumplir con las demás obligaciones que le establezcan las disposiciones legales.
+Salvo disposición legal en contrario, el Comisionado General de Entidades Paraestatales será Presidente en las sesiones del órgano de gobierno de las entidades paraestatales.
 
-Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las mismas.
+Las entidades paraestatales podrán agruparse en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las mismas.
 
 ###### Artículo 7.
 
@@ -103,9 +111,11 @@ Los representantes de las dependencias y de las entidades paraestatales, en las 
 
 Los órganos de dirección de las entidades paraestatales, deberán enviar, con una antelación no menor de cinco días naturales, a dichos miembros, el orden del día acompañado de la información y documentación correspondientes, que les permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-Las entidades paraestatales deberán proporcionar la información y datos que les soliciten o requieran los órganos adscritos al Poder Ejecutivo del Estado y las dependencias de éste, a través de la coordinadora de sector.
+Las entidades paraestatales deberán proporcionar la información que le soliciten o requieran el Comisionado General de Entidades Paraestatales, los órganos adscritos al Poder Ejecutivo y las dependencias de éste.
 
 ###### Artículo 9.
 
@@ -209,7 +219,9 @@ La administración de los organismos descentralizados estará a cargo de un órg
 
 Además de los titulares de las dependencias y entidades del sector correspondiente, el órgano de gobierno podrá estar integrado por representantes de la sociedad civil.
 
-El órgano de gobierno será presidido por el Gobernador del Estado, la persona que éste determine o por el titular de la coordinadora de sector.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El órgano de gobierno será presidido por el Gobernador del Estado o por el Comisionado General de Entidades Paraestatales, salvo disposición legal en contrario.
 
 El cargo de miembro del órgano de gobierno será honorífico y estrictamente personal; no podrá desempeñarse por medio de representantes, a menos que se nombren suplentes con el carácter de permanentes para cuando, por causa de fuerza mayor, el titular no pueda acudir a las sesiones.
 
@@ -231,9 +243,11 @@ El órgano de gobierno se reunirá con la periodicidad que se señale en la ley 
 
 El órgano de gobierno sesionará válidamente con la asistencia del presidente y de por lo menos la mitad más uno de sus miembros, siempre que la mayoría de los asistentes sean representantes del Estado. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el presidente voto de calidad en caso de igualdad de votos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-El director general será designado y removido por el Gobernador del Estado o, a indicación de éste, por el coordinador del sector o por el órgano de gobierno, atendiendo a lo que señale la ley respectiva.
+El director general será designado y removido por el Gobernador del Estado o, a indicación de éste, por el Comisionado General de Entidades Paraestatales o por el órgano de gobierno, atendiendo a la legislación aplicable.
 
 ###### Artículo 22.
 
@@ -271,11 +285,11 @@ Los directores generales ejercerán las facultades bajo su más estricta respons
 
 Para acreditar la personalidad y facultades de los miembros del órgano de gobierno, del director general y de los apoderados generales de los organismos descentralizados, bastará con exhibir copia certificada de la inscripción de su nombramiento o mandato en el Registro Público de Entidades Paraestatales del Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la dependencia coordinadora del sector que corresponda, propondrá al Gobernador del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, el Comisionado General de Entidades Paraestatales, propondrá al Gobernador del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### Artículo 26.
 
@@ -323,27 +337,35 @@ Para la constitución de empresas de participación estatal mayoritaria, deberá
 
 Cumplidos los requisitos, se protocolizará ante notario público el acta constitutiva correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-Cuando alguna empresa de participación estatal no cumpla con su objeto o ya no resulte conveniente conservarla como entidad paraestatal, desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas del Estado y la dependencia coordinadora del sector que corresponda, previa opinión de esta última, propondrán al Poder Ejecutivo, el acuerdo respectivo, que deberá ser publicado en el Periódico Oficial del Gobierno del Gobierno (sic) del Estado "La Sombra de Arteaga", para la enajenación de la participación estatal o, en su caso, su disolución y liquidación.
+Cuando alguna empresa de participación estatal no cumpla con su objeto o ya no resulte conveniente conservarla como entidad paraestatal, desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Finanzas del Poder Ejecutivo del Estado y el Comisionado General de Entidades Paraestatales, propondrán al Poder Ejecutivo, el acuerdo respectivo, que deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, para la enajenación de la participación estatal o, en su caso, su disolución y liquidación.
 
-La enajenación de los títulos representativos del capital del Estado, se llevará a cabo por la Secretaría de Planeación y Finanzas del Estado, en ejercicio de las facultades señaladas en la Ley Orgánica del Poder Ejecutivo del Estado.
+La enajenación de los títulos representativos del capital del Estado, se llevará a cabo por la Secretaría de Finanzas del Poder Ejecutivo del Estado, en ejercicio de las facultades señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 34.
 
-El Gobernador del Estado, por conducto de la dependencia coordinadora de sector, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal.
+El Gobernador del Estado, por conducto del Comisionado General de Entidades Paraestatales, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal.
 
 ###### Artículo 35.
 
 Los consejos de administración o sus equivalentes, de las empresas de participación estatal mayoritaria, se integrarán de acuerdo a los estatutos y, en lo que no se opongan, a esta Ley.
 
-Los integrantes del órgano de gobierno que representen la participación del Estado, serán designados por el Gobernador del Estado o por la coordinadora de sector. Deberán constituir, en todo tiempo, más de la mitad de los miembros del consejo; serán servidores públicos o particulares de reconocido prestigio profesional, con experiencia respecto a las actividades propias de la empresa de que se trate. Estos últimos ocuparán el cargo de manera honorífica.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Los integrantes del órgano de gobierno que representen la participación del Estado serán designados por el Gobernador del Estado o por el Comisionado General de Entidades Paraestatales. Deberán constituir, en todo tiempo, más de la mitad de los miembros del consejo, serán servidores públicos o particulares de reconocido prestigio profesional, con experiencia respecto a las actividades propias de la empresa de que se trate. Estos últimos ocuparán el cargo de manera honorífica.
 
 ###### Artículo 36.
 
 El consejo de administración o su equivalente se reunirá con la periodicidad que se señale en los estatutos de la empresa, debiendo sesionar cuando menos dos veces al año.
 
-El propio consejo o su equivalente, será presidido por el Gobernador del Estado o por el titular de la coordinadora de sector, deberá sesionar válidamente con la asistencia del presidente y de por lo menos la mitad más uno de sus miembros; siempre que la mayoría de los asistentes sean representantes de la participación del Estado. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el presidente voto de calidad para el caso de empate.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El propio consejo o su equivalente, será presidido por el Gobernador del Estado o por el Comisionado General de Entidades Paraestatales, deberá sesionar válidamente con la asistencia del presidente y de por lo menos la mitad más uno de sus miembros; siempre que la mayoría de los asistentes sean representantes de la participación del Estado. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el presidente el voto de calidad para el caso de empate.
 
 ###### Artículo 37.
 
@@ -361,7 +383,9 @@ La designación, competencia, facultades, operación y responsabilidades de los 
 
 La fusión, disolución y liquidación de las empresas de participación estatal mayoritaria, se dará a través de un acuerdo del Gobernador del Estado, que deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; dichas acciones se efectuarán conforme a los lineamientos establecidos en los estatutos de la empresa y legislación correspondiente.
 
-La dependencia coordinadora del sector y las Secretarías de Planeación y Finanzas y de la Contraloría del Estado, en lo que no se oponga a la regulación específica de la empresa y en el ámbito de sus respectivas competencias, intervendrán a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución y liquidación, debiendo cuidar en todo tiempo la adecuada protección de los intereses públicos, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El Comisionado General de Entidades Paraestatales, las Secretarías de Finanzas y de la Contraloría del Estado, en lo que no se oponga a la regulación específica de la empresa y en el ámbito de sus respectivas competencias, intervendrán a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución y liquidación, debiendo cuidar en todo tiempo la adecuada protección de los intereses públicos, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
 
 ### Capítulo Tercero. De los organismos auxiliares de la función pública
 
@@ -401,9 +425,11 @@ Asimismo, serán consideradas como tal, cuando dichas sociedades o asociaciones 
 
 ### Capítulo Primero. Del desarrollo y operación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 43.
 
-Los objetivos de las entidades paraestatales se ajustarán a los programas sectoriales que formule la coordinadora de sector y en todo caso contemplarán:
+Los objetivos de las entidades paraestatales se ajustarán a los programas sectoriales que formule el Comisionado General de Entidades Paraestatales y en todo caso contemplarán:
 
 I. La referencia concreta a su objetivo esencial y a las actividades conexas para lograrlo;
 
@@ -431,33 +457,45 @@ La programación institucional de la entidad paraestatal deberá contener la fij
 
 Los presupuestos de las entidades en particular, se formularán a partir de sus programas anuales, los que deberán contener la descripción detallada de objetivos y metas, unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 47.
 
-En la formulación de sus presupuestos, las entidades paraestatales se sujetarán a los lineamientos generales que en materia de gasto establezca la Secretaría de Planeación y Finanzas del Estado, así como a los lineamientos específicos que defina la coordinadora de sector.
+En la formulación de sus presupuestos, las entidades paraestatales se sujetarán a los lineamientos generales que en materia de gasto establezca la Secretaría de Finanzas del Poder Ejecutivo del Estado, así como a los lineamientos específicos que defina el Comisionado General de Entidades Paraestatales.
 
 En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos, con el objeto de contar con la previsión del gasto a plazos mayores a un año.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 48.
 
-Para la celebración de cualquier clase de convenio o contrato que comprometa recursos del Estado, por parte de una entidad, deberá contarse con la autorización expresa de la Secretaría de Planeación y Finanzas, de la Secretaría de la Contraloría y de la Oficialía Mayor del Poder Ejecutivo del Estado.
+Para la celebración de cualquier clase de convenio o contrato que comprometa recursos del Estado, por parte de una entidad, deberá contarse con la autorización expresa de la Secretaría de Finanzas, de la Secretaría de la Contraloría y de la Oficialía Mayor del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 49.
 
-La entidad paraestatal manejará y erogará sus recursos propios, por medio de sus órganos. Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Planeación y Finanzas del Estado, en los términos que se fijen en el Presupuesto de Egresos, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+La entidad paraestatal manejará y erogará sus recursos propios, por medio de sus órganos. Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría (sic) Finanzas del Poder Ejecutivo del Estado, en los términos que se fijen en el Presupuesto de Egresos, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 50.
 
-Los programas financieros de la entidad paraestatal se deberán formular conforme a los lineamientos generales que establezca la Secretaría de Planeación y Finanzas del Estado y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios, y de los suministradores de los bienes de producción. Dichos programas contendrán los criterios para su ejecución en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+Los programas financieros de la entidad paraestatal se deberán formular conforme a los lineamientos generales que establezca la Secretaría de Finanzas del Poder Ejecutivo del Estado y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios, y de los suministradores de los bienes de producción. Dichos programas contendrán los criterios para su ejecución en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-El Director General o equivalente de la entidad paraestatal, someterá el programa financiero para su autorización al órgano de gobierno; una vez aprobado por éste, se remitirá a la Secretaría de Planeación y Finanzas del Estado, para su inclusión en el proyecto de Presupuesto de Egresos que cada año se envía a la Legislatura del Estado.
+El Director General o equivalente de la entidad paraestatal, someterá el programa financiero para su autorización al órgano de gobierno; una vez aprobado por éste, se remitirá a la Secretaría de Finanzas del Poder Ejecutivo del Estado, para su inclusión en el proyecto de Presupuesto de Egresos que cada año se envía a la Legislatura del Estado.
 
 ###### Artículo 52.
 
 El órgano de gobierno, a propuesta de su presidente o a falta de ésta, por cuando menos de la tercera parte del total de sus miembros, podrá constituir comités técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal de la entidad paraestatal, atender problemas de administración y organización de los procesos productivos, para la selección y aplicación de los adelantos tecnológicos y uso de los demás instrumentos que permitan elevar la eficiencia.
 
-Los coordinadores de sector promoverán el establecimiento de comités mixtos de productividad en las entidades paraestatales donde se requiera, con la participación de representantes de los trabajadores y de la administración de la entidad, que analizarán medidas relativas a la organización de los procesos productivos, de selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El Comisionado General de Entidades Paraestatales promoverá el establecimiento de comités mixtos de productividad en las entidades paraestatales donde se requiera, con la participación de representantes de los trabajadores y de la administración de la entidad, que analizarán medidas relativas a la organización de los procesos productivos, de selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
 
 ###### Artículo 53.
 
@@ -499,25 +537,35 @@ VIII. Aprobar, previa verificación de la disponibilidad de recursos presupuesta
 
 La facultad de aprobación en materia de la estructura orgánica de las entidades, a que se refiere el párrafo anterior, únicamente podrá ejercerse en todo aquello que no esté previsto por el instrumento de creación del organismo de que se trate.
 
-IX. Aprobar los proyectos de reglamentos de la entidad que deberán ser turnados por conducto del coordinador de sector al Secretario de Gobierno del Estado para su trámite;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-X. Aprobar manuales administrativos de la entidad que deberán ser turnados por conducto del coordinador de sector al Oficial Mayor del Poder Ejecutivo del Estado para su conocimiento y divulgación;
+IX. Aprobar los proyectos de reglamentos de la entidad que deberán ser turnados por conducto del Comisionado General de Entidades Paraestatales al Secretario de Gobierno del Estado para su trámite;
 
-XI. Proponer al coordinador de sector, los convenios de fusión con otras entidades;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+X. Aprobar manuales administrativos de la entidad que deberán ser turnados por conducto del Comisionado General de Entidades Paraestatales al Oficial Mayor del Poder Ejecutivo del Estado para su conocimiento y divulgación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XI. Proponer al Comisionado General de Entidades Paraestatales, los convenios de fusión con otras entidades;
 
 XII. Autorizar la creación de comités de apoyo;
 
 XIII. Nombrar y remover, a propuesta del director general, en todo aquello que no contravenga a la ley, reglamento, decreto o acuerdo de creación, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y aprobar la fijación de sueldos y prestaciones, así como el concederles licencias;
 
-XIV. Aprobar la constitución de reservas y aplicación de las utilidades en espera del destino que determine el Gobernador del Estado, a través de la Secretaría de Planeación y Finanzas del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Aprobar la constitución de reservas y aplicación de las utilidades en espera del destino que determine el Gobernador del Estado, a través de la Secretaría de Finanzas del Poder Ejecutivo del Estado;
 
 XV. Analizar y aprobar, en su caso, los informes periódicos que rinda el director general con la intervención que corresponda a los comisarios;
 
-XVI. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que se hagan y verificar que los mismos se apliquen conforme a los fines señalados por la coordinadora del sector correspondiente; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+XVI. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que se hagan y verificar que los mismos se apliquen conforme a los fines señalados por el Comisionado General de Entidades Paraestatales; y
 
-XVII. Aprobar la cancelación total o parcial de adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, cuando así lo determinen las leyes o cuando expresamente lo acuerde el órgano de gobierno, informando a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, por conducto de la coordinadora de sector.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Aprobar la cancelación total o parcial de adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, cuando así lo determinen las leyes o cuando expresamente lo acuerde el órgano de gobierno, informando a la Secretaría de Finanzas del Poder Ejecutivo del Estado, por conducto del Comisionado General de Entidades Paraestatales.
 
 ###### Artículo 55.
 
@@ -561,19 +609,35 @@ Los Comisarios Públicos evaluarán el desempeño general y por funciones del or
 
 Para el cumplimiento de las funciones citadas el Órgano de Gobierno, el Director General, el Órgano Interno de Control y demás servidores públicos deberán proporcionar la información que soliciten los Comisarios Públicos.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 57.
 
-Los órganos internos de control serán parte integrante de la estructura de las entidades paraestatales. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría, de acuerdo a las bases siguientes:
+Los órganos internos de control serán parte integrante de la estructura de las entidades paraestatales. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad, dependiendo funcional y normativamente de la Secretaría de la Contraloría, quien designará y removerá a los titulares, emitiendo las bases o lineamientos para regular su funcionamiento, de acuerdo a las bases y atribuciones siguientes:
 
-I. Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas;
+I. Recibir denuncias, practicar investigaciones y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas;
 
-II. Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales, representando al titular de la Secretaría de la Contraloría;
+II. Realizar la defensa jurídica de las resoluciones que emitan en su esfera administrativa y ante los Tribunales Federales y Estatales;
 
-III. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía, y
+III. Ejecutar sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía;
 
-IV. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al Director General, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+IV. Examinar y evaluar los sistemas, mecanismos y procedimientos de control; a través de revisiones y auditorías, vigilando el manejo y aplicación de los recursos públicos (sic) se efectúe conforme a las disposiciones aplicables; presentando al Director General, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados;
+
+V. Tendrán como función apoyar dentro de las Entidades, la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos;
+
+VI. Ejercer función de auditoría, rigiéndose por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y demás que resulten aplicables, así como por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción, Sistema Estatal Anticorrupción de Querétaro y la Secretaría de la Contraloría respecto de dichos asuntos;
+
+VII. Observar y promover en su función las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema o emita la Secretaría de la Contraloría;
+
+VIII. Realizar, por sí, o a través del personal adscrito que se designe, las notificaciones y diligencias que se ordenen, contando para tal efecto con fe pública en su práctica y desahogo; y
+
+IX. Expedir certificaciones de los expedientes, documentos o bases de datos que lleven, y que obren en sus archivos o tengan acceso en ejercicio de sus funciones.
+
+Los Órganos Internos de Control se regirán por las normas que regulen la organización, funcionamiento y actuación que emita la Secretaría de la Contraloría con el objeto de apoyar la función directiva, promover los sistemas de control interno, la mejora de la gestión, competencia, facultades y atención en los procedimientos de responsabilidad administrativa.
+
+En los casos en que no exista Órgano Interno de Control o autoridades competentes para conocer en términos de la Ley General de Responsabilidades Administrativas, la Secretaría de la Contraloría tendrá la facultad de conocer, atender, dar seguimiento y en su caso resolver los asuntos.
+
+La Secretaría de la Contraloría podrá atraer de oficio los asuntos que hubieren sido integrados o iniciados por los Órganos Internos de Control de las Entidades, para su investigación, substanciación y resolución.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -597,9 +661,11 @@ III. Los demás servidores públicos del organismo responderán dentro del ámbi
 
 Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, contarán con órganos internos de control, los cuales proporcionarán la información que les sea solicitada por los Comisarios Públicos que designe la Secretaría de la Contraloría en los términos de Ley.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 61.
 
-La coordinadora de sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o consejos de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
+El Comisionado General de Entidades Paraestatales, mediante su participación en los órganos de gobierno o consejos de administración de las paraestatales, podrá recomendar medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -607,9 +673,11 @@ La coordinadora de sector, a través de su titular o representante, mediante su 
 
 La Secretaría de la Contraloría podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades de los servidores públicos, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 63.
 
-En aquellos casos en los que el órgano de gobierno, consejo de administración o el director general no dieren cumplimiento a las obligaciones legales que les atribuye este ordenamiento, el Gobernador del Estado por conducto de las dependencias competentes, así como de la coordinadora de sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
+En aquellos casos en los que el órgano de gobierno, consejo de administración o el director general no dieren cumplimiento a las obligaciones legales que les atribuye este ordenamiento, el Gobernador del Estado, por conducto de las dependencias competentes, así como por el Comisionado General de Entidades Paraestatales, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
 ###### Artículo 64.
 
@@ -1440,3 +1508,87 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
