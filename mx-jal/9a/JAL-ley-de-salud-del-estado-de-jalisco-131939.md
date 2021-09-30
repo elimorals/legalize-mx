@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2021-06-08"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -3061,7 +3061,9 @@ Disposición de Órganos. Regulación
 
 Disposición de Órganos. Glosario
 
-Para efectos de este Capítulo se entiende por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Para efectos de este Capítulo se entiende por
 
 I. Muerte o pérdida de la vida: Ocurre cuando se presentan la muerte encefálica y el paro cardiaco irreversible.
 
@@ -3083,13 +3085,15 @@ b) Se presentan los siguientes signos de muerte encefálica:
 
 3. Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos;
 
-II. Registro Estatal de Trasplantes: órgano administrativo del Consejo Estatal de Trasplantes de Órganos y Tejidos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III. Comité Interno de Coordinación para la Donación de Órganos y Tejidos: será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en el (sic) materia. Este comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará los órganos, tejidos o células, de conformidad con lo que establece la presente ley y demás disposiciones jurídicas aplicables.
+II. Registro Estatal de Trasplantes: el Registro Estatal de Trasplantes a cargo de la Secretaria de Salud:
+
+III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 IV. Comité Interno de Trasplantes: órgano interdisciplinario integrado con personal de la salud especializado, de cada establecimiento de salud autorizado para realizar trasplantes;
 
-V. Consejo de Trasplantes: el Consejo Estatal de Trasplantes de Órganos y Tejidos; y
+V. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 VI. Consentimiento para la donación de órganos: documento a través del cual se manifiesta la voluntad de donación en los términos de la Ley General de Salud, el reglamento de la materia y el Código Civil del Estado de Jalisco.
 
@@ -3139,25 +3143,39 @@ III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coor
 
 IV. Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos y auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 225.
 
-Disposición de Órganos. Manual de Procedimientos Técnicos-Administrativos.
+Disposición de Órganos, Manual de Procedimientos Técnicos-Administrativos
 
-1. El proceso de obtención de órganos y tejidos de donantes que hayan perdido la vida, será documentado a través de un manual de procedimientos técnico-administrativos, el cual deberá coincidir con la normatividad actual y deberá dejar a salvo las técnicas médicas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-2. Dicho instrumento podrá ser adoptado por los establecimientos que realicen procesos de donación y de trasplantes mediante convenio con el Consejo de Trasplantes.
+1. El proceso de obtención de órganos y tejidos de donantes que hayan perdido la vida, será documentado a través de un manual de procedimientos técnico-administrativo expedido por el Secretario de Salud, el cual deberá coincidir con la normatividad actual y deberá dejar a salvo las técnicas médicas.
 
-3. Para la aprobación y modificaciones al manual de procedimientos técnico-administrativos se requerirá el voto de por lo menos las dos terceras partes del Comité Técnico al cual se integrará un representante de la Fiscalía General del Estado y uno del Instituto Jalisciense de Ciencias Forenses.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+2. Dicho instrumento podrá ser adoptado por los establecimientos que realicen procesos de donación y de trasplantes mediante convenio con la Secretaria de Salud.
+
+3. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 226.
 
-Disposición de Órganos. Autoridades Intervinientes.
+Disposición de Órganos. Autoridades intervinientes.
 
-1. En el proceso de donación de órganos y tejidos intervendrá la Secretaría de Salud, a través del Consejo de Trasplantes y los establecimientos de salud autorizados para obtener órganos y tejidos y realizar trasplantes.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-2. Si la causa de la muerte del donante está relacionada con un hecho presuntamente constitutivo de delito, intervendrán además de los anteriores, la Fiscalía General del Estado y el Instituto Jalisciense de Ciencias Forenses.
+1. En el proceso de donación de órganos y tejidos intervendrá la Secretaria de Salud, y los establecimientos de salud autorizados para obtener órganos y tejidos y realizar trasplantes.
 
-3. Para efectos del párrafo anterior los establecimientos autorizados para tramitar una donación, notificarán al Ministerio Público y al Consejo de Trasplantes de la Existencia de un potencial donante. El Ministerio Público realizará las siguientes acciones:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+2. Si la causa de la muerte del donante está relacionada con un hecho presuntamente constitutivo de delito, intervendrán además de los anteriores, la Fiscalía del Estado y el Instituto Jalisciense de Ciencias Forenses.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+3. Para efectos del párrafo anterior, los establecimientos autorizados para tramitar una donación notificarán al Ministerio Público y a la Secretaria de Salud de la existencia de un potencial donante. El Ministerio Público realizara las siguientes acciones:
 
 I. Solicitar al médico adscrito al servicio médico forense, que valore el diagnóstico de la muerte encefálica, así como la dictaminación de que la extracción de los órganos y tejidos no alterarán el resultado de la necropsia;
 
@@ -3167,121 +3185,59 @@ III. Recabar el consentimiento de los disponentes secundarios en los términos d
 
 IV. En caso de que el posible donador cuente con algún documento que acredite la calidad de donador, el agente del Ministerio Público deberá asentar en el acta ministerial la descripción de dicho documento; e
 
-V. Informar al Fiscal General del Estado de las circunstancias del proceso de donación, para que aquél manifieste su anuencia o inconformidad para la donación. El ministerio público notificará a la institución hospitalaria la decisión del Fiscal General del Estado.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-#### SECCIÓN PRIMERA. CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS
+V. Informar al Fiscal del Estado de las circunstancias del proceso de donación, para que aquel manifieste su anuencia o inconformidad para la donación. El Ministerio Público notificará a la institución hospitalaria la decisión del Fiscal del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### SECCIÓN PRIMERA. DE LOS TRASPLANTES DE ÓRGANOS Y TEJIDOS
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 227.
 
-Consejo de Trasplantes. Naturaleza Jurídica.
+Trasplantes de órganos y tejidos
 
-1. El Consejo Estatal de Trasplantes de Órganos y Tejidos es el organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, que tiene a su cargo apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas en materia de la disposición de órganos y tejidos, de seres humanos con fines terapéuticos.
-
-###### Artículo 228.
-
-Consejo de Trasplantes. Integración.
-
-1. El Consejo Estatal de Trasplantes de Órganos y Tejidos se integrará en forma permanente por:
-
-I. El Gobernador del Estado, quien será el Presidente Honorario;
-
-II. El Secretario de Salud del Estado, quien fungirá como Presidente Ejecutivo;
-
-III. El Comisionado para la Protección contra Riesgos Sanitarios de Jalisco, quien fungirá como Coordinador General; y
-
-IV. Los siguientes participantes en calidad de vocales, quienes también tendrán derecho a voz y voto:
-
-a) El Fiscal General del Estado;
-
-b) El Secretario de Educación del Estado;
-
-c) Los rectores de las Universidades en el Estado que expidan título de médico cirujano y partero o su equivalente;
-
-d) El Delegado Estatal del Instituto Mexicano del Seguro Social;
-
-e) El Delegado Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado;
-
-f) El Director General del Organismo Público Descentralizado Hospital Civil de Guadalajara;
-
-g) El Director General del Instituto Jalisciense de Ciencias Forenses;
-
-h) El Presidente del Colegio de Notarios del Estado;
-
-i) El Presidente de la Asociación Médica de Jalisco, A. C.; y
-
-j) El Presidente de la Asociación de Hospitales Particulares de Jalisco, A. C.
-
-2. El Presidente Ejecutivo designará al Secretario Técnico del (sic) El Consejo de Trasplantes de Órganos y Tejidos, quien tendrá las responsabilidades que le señale su Reglamento Interior y coordinará los trabajos del Comité Técnico de Trasplantes.
-
-###### Artículo 229.
-
-Consejo de Trasplantes. Sesiones.
-
-1. El Consejo de Trasplantes de Órganos y Tejidos sesionará conforme lo establezca su Reglamento Interior.
-
-2. El Presidente Ejecutivo podrá ser suplido en las sesiones por el Coordinador General.
-
-3. Cada vocal propietario designará al suplente que lo sustituirá durante sus faltas temporales.
-
-###### Artículo 230.
-
-Consejo de Trasplantes. Atribuciones.
-
-1. El Consejo de Trasplantes de Órganos y Tejidos tendrá las atribuciones siguientes:
+1. La Secretaria de Salud tiene a su cargo apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, para tal efecto cuenta con las siguientes atribuciones:
 
 I. Diseñar, instrumentar, operar y dirigir el Sistema Estatal de Trasplante;
 
 II. Elaborar y aplicar el Programa Estatal de Trasplante;
 
-III. Mantener comunicación y coordinación con el Centro Nacional de Trasplantes, a efecto de emprender acciones de complementación y colaboración con las acciones del Registro Nacional de Trasplantes;
+III. Coordinarse con el Centro Nacional de Trasplantes a efecto de emprender acciones de complementación y colaboración con las acciones del Registro nacional de Trasplantes;
 
-IV. Proporcionar información y colaborar con las acciones del Registro Nacional de Trasplantes;
+IV. Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
 
-V. Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
+V. Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como con los Consejos de Trasplantes de otras entidades federativas;
 
-VI. Fomentar y sistematizar el estudio y la investigación, en el trasplante de órganos y tejidos de seres humanos con fines terapéuticos, mediante la instauración de premios, concursos, becas y reconocimientos; así como propiciar programas de capacitación para el personal médico y de enfermería en trasplante;
+VI. Coadyuvar para evitar los delitos en materia de donación y trasplantes de órganos; y
 
-VII. Revisar permanentemente la legislación y la reglamentación, en la materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, a efecto de presentar ante las instancias competentes, observaciones y propuestas;
+VII. Las demás que se establezcan en la presente ley, el Reglamento Interno de la Secretaria y otras disposiciones legales aplicables.
 
-XVIII. (SIC) Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos así como con los Consejos de Trasplantes de otras entidades federativas;
+###### Artículo 228.
 
-IX. Promover y coordinar la participación de los sectores social, público y privado en acciones de apoyo en la materia, para lo cual impulsará la integración de miembros al patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y públicas, en calidad de vocales invitados con derecho a voz pero sin voto, a participar en las sesiones del Consejo de Trasplantes;
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-X. Presentar por conducto del Presidente Ejecutivo, un informe anual de actividades que incluya las estadísticas de donación y trasplante de órganos y tejidos;
+###### Artículo 229.
 
-XI. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de trasplante, así como estudios e investigaciones en la materia en calidad de posgrados o especialidades;
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-XII. Implementar un sistema de información con respecto al Programa Estatal de Trasplantes, que permita tanto la toma de decisiones como la evaluación de la atención médica relacionada con los trasplantes;
+###### Artículo 230.
 
-XIII. Operar y diseñar el sistema logístico e informático del Registro Estatal de Trasplantes a su cargo;
-
-XIV. Coadyuvar para evitar los delitos en materia de donación y trasplantes de órganos;
-
-XV. Aprobar sus normas, lineamientos y políticas internas; y
-
-XVI. Las demás que le otorgue la presente Ley y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 231.
 
-Consejo de Trasplantes. Comité Técnico.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-1. El Consejo de Trasplantes de Órganos y Tejidos contará con la colaboración de un Comité Técnico que integrarán profesionales peritos en la materia de trasplantes, que designarán las instituciones de salud señaladas en el artículo 228 de esta Ley.
-
-2. El Comité Técnico coadyuvará para la mejor realización del Programa Estatal de Trasplante, aprobará y mantendrá actualizado el manual de procedimientos técnico-administrativos, contará con las funciones que le señale el Reglamento Interior del Consejo de Trasplantes de Órganos y Tejidos, procurará el intercambio de experiencias entre las instituciones de salud que realicen trasplantes.
-
-3. El Secretario Técnico cuidará que se respeten las políticas que establezcan las autoridades nacionales y estatales respecto a la asignación de órganos y tejidos provenientes de personas que perdieron la vida.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 232.
 
-Consejo de Trasplantes. Asignación y Distribución de Órganos y Tejidos.
+Asignación y distribución de órganos y tejidos.
 
-1. La asignación y distribución de órganos y tejidos deberá apegarse a las disposiciones de la Ley General de Salud, del Reglamento de la Ley General de Salud en Materia de Trasplantes, de esta Ley y del Reglamento Estatal de Asignación y Distribución de Órganos y Tejidos.
-
-2. Los Comités Internos de Trasplantes deberán emitir por escrito, dictamen justificatorio de la asignación de órganos y tejidos, coherente con los datos que consten en el expediente clínico.
-
-3. El Comité Interno de Trasplantes estará obligado a proporcionar información amplia y suficiente sobre los motivos y fundamentos de la asignación excepcional de órganos, de acuerdo al Registro de Trasplantes cuando ésta le sea requerida por la autoridad competente, por el receptor postergado, su cónyuge, concubina, concubinario o familiares directos dentro del segundo grado.
-
-4. El reglamento y sus modificaciones serán aprobados por el Gobernador del Estado a propuesta del Consejo de Trasplantes de Órganos y Tejidos.
+1. La asignación y distribución de órganos y tejidos deberá apegarse a las disposiciones de la Ley General de Salud, del Reglamento de la Ley General de Salud en materia de Trasplantes, así como a lo dispuesto en la normatividad estatal de la materia.
 
 ###### Artículo 233.
 
@@ -3291,49 +3247,65 @@ Consejo de Trasplantes. Transparencia.
 
 ###### Artículo 234.
 
-Consejo de Trasplantes. Comisiones.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-1. El Consejo de Trasplantes de Órganos y Tejidos, para un mejor cumplimiento de sus objetivos, a través de su órgano máximo, podrá determinar la integración y trabajo de comisiones permanentes o transitorias, las cuales se regirán por lo establecido en el Reglamento Interior del propio Consejo de Trasplantes de Órganos y Tejidos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 235.
 
-Consejo de Trasplante. Registro Estatal de Trasplantes.
+Registro Estatal de Trasplantes.
 
-1. El Consejo Estatal de Trasplantes de Órganos y Tejidos deberá contar con un Registro Estatal de Trasplantes que integre la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano o tejido cadavérico, a través de un control que contenga los datos de los donadores debidamente relacionados con los de los trasplantados. Dicha información es confidencial.
+1. La Secretaria de Salud deberá contar con un Registro Estatal de Trasplantes que integre la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano o tejido cadavérico, a través de un control que contenga los datos de los donadores debidamente relacionados con los de los trasplantados. Dicha información es confidencial.
 
-2. El Consejo de Trasplantes vigilará la correcta aplicación del Reglamento Estatal de Asignaciones y Distribución de Órganos y Tejidos.
+2. La Secretaria de Salud, en el Registro Estatal integrará y mantendrá actualizada la siguiente información:
+
+I. Datos de los pacientes en espera de algún órgano o tejido;
+
+II. Datos de los donantes, correlacionados con los datos respectivos de los pacientes trasplantados;
+
+III. Datos de los pacientes que recibieron órganos o tejidos, provenientes tanto de donantes que hayan perdido la vida como de donantes vivos;
+
+IV. Las donaciones y numero de órganos obtenidos dentro del estado de Jalisco y de los que provengan de otras entidades federativas;
+
+V. Los datos relacionados con la identificación completa respecto del destino final de los órganos extraídos que no fueron utilizados para trasplante;
+
+VI. La relación de donaciones de aquellos casos en que se requirió la intervención del Ministerio Público o de médicos legistas;
+
+VII. Los datos relativos a la sobrevida de los pacientes trasplantados; y
+
+VIII. Las demás que determine (sic) las disposiciones legales aplicables.
+
+3. Para efectos del párrafo que antecede, la Secretaria de Salud, podrá:
+
+I. Compartir correspondientemente su información con el Registro Nacional de Trasplantes; y
+
+II. Requerir la información necesaria con el responsable de trasplante de órganos o tejidos de cada hospital autorizado.
 
 #### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 236.
 
-Consejo de Trasplantes. Participación Social.
+Participación Social en la Realización de Trasplantes.
 
 1. Es de interés público el promover la participación y colaboración de la sociedad y de sus diversos sectores para apoyar las labores de las instituciones de salud debidamente acreditadas que realicen trasplantes de órganos y tejidos de seres humanos con fines terapéuticos.
 
 ###### Artículo 237.
 
-Consejo de Trasplantes. Patronato.
-
-1. El Patronato para la Donación y el Trasplante de Órganos y Tejidos tiene por objeto coordinar la participación y colaboración de la sociedad y de sus diversos sectores.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 238.
 
-Consejo de Trasplantes. Presidencia del Patronato.
-
-1. El Patronato para la Donación y el Trasplante de Órganos y Tejidos será presidido por el Secretario Técnico del Consejo Estatal de Trasplantes de Órganos y Tejidos y su mesa directiva se conformará de acuerdo con el instrumento público que le dé formalidad.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 239.
 
-Consejo de Trasplantes. Patronato y Participación Comunitaria.
-
-1. El Patronato para la Donación y el Trasplante de Órganos y Tejidos procurará la participación de la comunidad para apoyar con recursos financieros y materiales las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las instituciones de salud que participen en el sistema y en el programa estatal de trasplante.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 240.
 
-Consejo de Trasplantes. Patronato Aplicación de Recursos.
-
-1. El Patronato para la Donación y Trasplante de Órganos y Tejidos, definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por su gestión, escuchando las opiniones del Consejo de Trasplantes.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
@@ -4676,3 +4648,37 @@ P.O. 8 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28396/LXII/21 QUE REFORMA EL ARTÍCULO 149 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28455/LXII/21 QUE DEROGA LAS FRACCIONES III Y V DEL ARTÍCULO 220, ASÍ COMO LOS ARTÍCULOS 228, 229, 230, 231, 234, 237, 238, 239 Y 240; Y REFORMA LOS ARTÍCULOS 225, 226, 227, 232, 233, 235 Y 236 DE LA LEY DE SALUD DEL ESTADO DE JALISCO Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS”.]
+
+Primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Las funciones del organismo público descentralizado denominado Consejo Estatal de Trasplantes de Órganos y Tejidos, serán asumidas por la Secretaria de Salud.
+
+Los asuntos en trámite ante el Consejo que se extingue, pasarán a la dependencia señalada en el párrafo anterior, de conformidad con el presente decreto o en los términos que establezca el Gobernador del estado.
+
+El Poder Ejecutivo, a través de las Secretarias de Salud, de Administración y de la Hacienda Pública del estado de Jalisco, según corresponda, adoptará las medidas jurídicas, administrativas, financieras, presupuestales y operativas necesarias para que los servicios y funciones de (sic) organismo que se extingue se presten en forma ininterrumpida.
+
+Tercero. Se autoriza al Poder Ejecutivo del estado para que, a través de la Secretaria de Administración, realice la liquidación del organismo público descentralizado denominado Consejo Estatal de Trasplantes de Órganos y Tejidos, facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaria de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Consejo Estatal de Trasplantes de Órganos y Tejidos, sin perjuicio de que adopte las medidas jurídicas, administrativas, financieras y operativas para que los servicios y funciones se presten en forma ininterrumpida.
+
+Cuarto. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del estado o con dependencias o entidades de la Administración Pública Federal y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidas por la Secretaria de Salud.
+
+Quinto. Los bienes muebles e inmuebles que formen parte del patrimonio del organismo público descentralizado que se extingue, pasaran a formar parte del patrimonio del Gobierno del Estado.
+
+Los recursos económicos y materiales, así como los derechos, valores y fondos del organismo público descentralizado denominado Consejo Estatal de Trasplantes de Órganos y Tejidos que subsistan después de concluido el procedimiento de liquidación, formarán parte del patrimonio de Gobierno del Estado.
+
+Sexto. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO TRANSITORIO del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1º de enero al 31 de diciembre del año 2021.
+
+Séptimo. Las relaciones laborales que tenga el Consejo Estatal de Trasplantes de Órganos y Tejidos con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la Ley para los Servidores Públicos del estado de Jalisco y sus Municipios.
+
+Octavo. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaria de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el organismo público descentralizado denominado Consejo Estatal de Trasplantes de Órganos y Tejidos.
+
+Noveno. La Contraloría del Estado deberá realizar una auditoría al organismo público descentralizado denominado Consejo Estatal de Trasplantes de Órganos y Tejidos y en caso de encontrar alguna responsabilidad, deberá ejercer las acciones correspondientes ante las autoridades competentes.
+
+Décimo. Se autoriza al Titular del Ejecutivo para efectuar las modificaciones reglamentarias necesarias en un término de 120 días naturales contados a partir del inicio de vigencia del presente decreto.
+
+Décimo Primero. El Titular del Ejecutivo del estado deberá garantizar el respeto a los derechos adquiridos por parte de los trabajadores del consejo que se extingue y publicitar, paso a paso, el proceso de extinción y liquidación del mismo.
