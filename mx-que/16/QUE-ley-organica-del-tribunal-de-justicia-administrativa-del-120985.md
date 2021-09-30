@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-de-justicia-administrativa-del-120985
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-04-18"
-last_updated: "2018-09-12"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERETARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el martes 18 de abril de 2017.
 
@@ -145,7 +147,9 @@ II. Los Juzgados Administrativos; y
 
 III. La Sala Especializada.
 
-Adicionalmente contará con una Oficialía Mayor, la Defensoría de Oficio, un Órgano Interno de Control y las demás unidades administrativas que determine el Pleno, conforme a lo dispuesto por esta Ley y conforme a la disponibilidad presupuestal existente.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Adicionalmente contará con una Oficialía Mayor, la Defensoría de Oficio, un Órgano Interno de Control y las demás unidades administrativas que se determinen en términos de esta Ley o del Reglamento Interior, conforme a la disponibilidad presupuestal existente.
 
 La organización, funcionamiento y atribuciones de las unidades administrativas a que se refiere el párrafo anterior, se establecerán en el Reglamento Interior.
 
@@ -163,13 +167,29 @@ Las sesiones ordinarias del Pleno se celebrarán en los términos que fije el Re
 
 Las sesiones del Pleno serán públicas, excepto cuando la Ley así lo señale.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-Los debates serán dirigidos por el Presidente del Tribunal, para la validez de las sesiones se requerirá la presencia de los tres Magistrados y sus resoluciones se tomarán por unanimidad o mayoría de votos. Los Magistrados únicamente podrán abstenerse de votar cuando tengan impedimento legal.
+Los debates de las sesiones del Pleno serán dirigidos por el Presidente del Tribunal. Para la validez de los acuerdos tomados en las sesiones se requerirá la presencia de los tres Magistrados, salvo en el caso de que alguno de ellos sea suplido en los términos de la presente Ley y el Reglamento Interior, y sus resoluciones se tomarán por unanimidad o mayoría de votos. Los Magistrados únicamente podrán abstenerse de votar cuando tengan impedimento legal.
 
-En caso de ausencia, el Presidente del Tribunal será suplido por el Magistrado Propietario con mayor antigüedad como Magistrado; en caso de que los otros dos Magistrados tengan la misma antigüedad, será suplido por el Magistrado que siga en orden alfabético de su primer apellido; a su vez, éste último será suplido por el Juez Administrativo de mayor antigüedad en el cargo, o en su defecto, por el Juez Administrativo que siga en orden alfabético de su primer apellido.
+Siempre que un Magistrado disienta de la mayoría, podrá formular un voto particular, el cual se insertará y engrosará al final de la sentencia respectiva si fuere presentado dentro de los cinco días hábiles siguientes a la fecha de la sesión. Si transcurrido el plazo señalado en el párrafo anterior no se formula voto particular, se asentará razón en autos y se continuará con el trámite que corresponda.
+
+Si no fuera aprobado el proyecto, pero el Magistrado ponente acepta las adiciones o reformas propuestas en la sesión, procederá a redactar la resolución con base en los términos de la discusión. Si el voto de la mayoría de los Magistrados fuera en sentido distinto al del proyecto, uno de ellos redactará la resolución correspondiente.
+
+En los casos a que se refiere el párrafo anterior, el plazo para redactar la resolución será de cinco días hábiles. Las resoluciones emitidas por el Pleno deberán ser firmadas por los tres Magistrados y por el Secretario de Acuerdos de la Sala Superior.
 
 El Secretario de Acuerdos del Magistrado que funja como Presidente del Tribunal, hará las veces de Secretario de Acuerdos de la Sala Superior.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 9 Bis.
+
+En el caso de faltas temporales del Presidente del Tribunal, será suplido por el Magistrado Propietario con mayor antigüedad como Magistrado.
+
+En caso de que los otros dos Magistrados tengan la misma antigüedad, será suplido por el Magistrado que siga en orden alfabético de su primer apellido.
+
+Ante la falta temporal o definitiva, de cualquiera de los otros dos Magistrados que integran la Sala Superior, el Magistrado ausente será suplido por el Juez Administrativo de mayor antigüedad en el cargo; o, en su defecto, por el Juez Administrativo que siga en orden alfabético de su primer apellido.
 
 ###### Artículo 10.
 
@@ -183,23 +203,27 @@ III. Aprobar y expedir el Reglamento Interior y sus reformas;
 
 IV. Emitir los acuerdos que estime necesarios para el buen funcionamiento del Tribunal;
 
-V. Nombrar al Oficial Mayor a propuesta del Presidente del Tribunal, así como elegir a quien deba proponerse ante la Legislatura para ocupar el cargo de titular del Órgano Interno de Control;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Nombrar a los Oficiales de Partes, que se requieran para el funcionamiento del Tribunal y de sus órganos.
+V. Aprobar la designación y remoción del Oficial Mayor; asimismo, a quien deba proponerse ante la Legislatura, para ocupar el cargo de titular del Órgano Interno de Control. El Presidente hará las propuestas correspondientes para cada caso;
 
-VII. Dirimir los conflictos que surjan entre los órganos o unidades administrativas del Tribunal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Conocer los informes que, respecto a la proyección, el cálculo, el ejercicio, la supervisión de los egresos y el avance presupuestal, realice la Oficialía Mayor, de acuerdo con la convocatoria que al efecto determine el Presidente;
+
+VII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 VIII. Conocer y resolver en sesión privada sobre las excusas, recusaciones y excitativas de justicia de los Magistrados y Jueces Administrativos;
 
-IX. Nombrar a los Jueces Administrativos y determinar su adscripción, así como determinar la del demás personal del Tribunal, atendiendo a las necesidades del servicio y dar curso a las renuncias que presenten;
+IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-X. Conceder licencias al personal del Tribunal en términos de las disposiciones aplicables;
+X. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-XI. Dirigir la buena marcha del Tribunal dictando las medidas necesarias para el despacho pronto y expedito de los asuntos administrativos del Tribunal y aplicar las sanciones que correspondan;
+XI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-XII. Determinar las sanciones correspondientes a los Magistrados del Tribunal, en aplicación de la Ley de Responsabilidades Administrativas del Estado de Querétaro;
+XII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-XIII. Establecer las bases y emitir las convocatorias para cubrir las plazas vacantes del Tribunal, con excepción de las de los Magistrados;
+XIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 XIV. Resolver los juicios con características especiales, en términos de las disposiciones aplicables;
 
@@ -215,7 +239,9 @@ XVI. Los demás que establezcan como parte de su competencia esta Ley, el Reglam
 
 El Presidente del Tribunal será electo por el Pleno en la última sesión del año en que concluya el periodo del Presidente en funciones y durará en su encargo tres años; podrá reelegirse para el periodo inmediato siguiente por una ocasión y puede ser elegido de nueva cuenta en periodos posteriores, con excepción al inmediato siguiente de la reelección que corresponda.
 
-En caso de falta definitiva del Presidente del Tribunal, el Pleno elegirá al nuevo Presidente para concluir el periodo del Presidente ausente. El Magistrado designado no estará impedido para ser electo en el periodo inmediato siguiente.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de falta definitiva del Presidente del Tribunal, el Magistrado Propietario con mayor antigüedad, como Magistrado, convocará a sesión del Pleno para elegir al nuevo Presidente para concluir el periodo del Presidente ausente, contemplando al efecto lo establecido en el artículo 9 Bis de la presente Ley, en materia de suplencias. El Magistrado elegido como Presidente no estará impedido para ser electo en el periodo inmediato siguiente.
 
 ###### Artículo 12.
 
@@ -225,7 +251,9 @@ I. Representar legalmente al Tribunal, en toda clase de actos jurídicos y cerem
 
 II. Participar en el Sistema Estatal Anticorrupción, en los términos que señalen las disposiciones aplicables;
 
-III. Despachar la correspondencia del Tribunal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Dirimir los conflictos que surjan entre los órganos o unidades administrativas del Tribunal;
 
 IV. Convocar a sesiones del Pleno, dirigir sus debates y conservar el orden en éstas;
 
@@ -237,15 +265,43 @@ VII. Rendir los informes justificados en los amparos que se promuevan en contra 
 
 VIII. Rendir ante la Legislatura, mediante comparecencia en el mes de abril de cada año, un informe en el que se dé cuenta sobre la marcha del Tribunal;
 
-IX. Promover entre los servidores públicos jurisdiccionales, asociaciones profesionales e instituciones de educación superior, el estudio e investigación del derecho administrativo y fiscal, evaluar la justicia administrativa y proponer medidas para mejorarla;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Convocar a congresos y seminarios a Magistrados y servidores públicos de la carrera jurisdiccional del Tribunal, así como a asociaciones profesionales representativas e instituciones de educación superior, a fin de promover el estudio del derecho fiscal y administrativo, evaluar la impartición de justicia fiscal y administrativa y proponer las medidas pertinentes para mejorarla;
 
 X. Rendir un informe anual a la Legislatura del Estado en materia de responsabilidades administrativas, tomando en consideración las directrices que establezca el Comité Coordinador del Sistema Estatal Anticorrupción de Querétaro;
 
-XI. Impulsar el servicio profesional de carrera en el Tribunal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Compilar, editar y distribuir el material que el Tribunal determine para su divulgación para el mejor conocimiento de los temas de índole fiscal y administrativa; y
+XI. Impulsar el sistema profesional de carrera jurisdiccional en el Tribunal;
 
-XIII. Las demás que le encomiende el Pleno y las que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Dirigir la compilación, edición y distribución del material que el Tribunal determine para su divulgación, que permita un mejor conocimiento de los temas de índole fiscal, administrativa y de responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Nombrar a los Jueces Administrativos y determinar su adscripción atendiendo a las necesidades del servicio;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIV. Proponer al Pleno, a quien deba fungir como Oficial Mayor;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XV. Nombrar al personal del Tribunal, atendiendo a las necesidades del servicio;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVI. Conceder licencias al personal del Tribunal en términos de las disposiciones, aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Dirigir la buena marcha del Tribunal dictando las medidas necesarias para el despacho pronto y expedito de los asuntos administrativos del Tribunal y aplicar las sanciones que correspondan; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA ANTES FRACCIÓN XIII], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVIII. Las demás que se acuerden por el Pleno y las que establezcan las disposiciones legales aplicables.
 
 ### Capítulo Cuarto. De las Secciones
 
@@ -277,7 +333,11 @@ V. Las demás que sean de su competencia conforme a las disposiciones aplicables
 
 Son facultades de la Cuarta Sección de la Sala Superior las siguientes:
 
-I. Resolver los recursos de apelación y revisión que se promuevan en contra de las resoluciones que emita la Sala Especializada, en términos de la Ley de Responsabilidades Administrativas del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Resolver los recursos de apelación y revisión que se promuevan en contra de las resoluciones que emita la Sala Especializada.
+
+De conformidad con lo establecido en la Ley de Responsabilidades Administrativas del Estado de Querétaro y en la Ley General de Responsabilidades Administrativas, el trámite y resolución del recurso de apelación a que se refiere la presente fracción se llevará a cabo conforme a las reglas que para el recurso de revisión prevé la Ley de Procedimiento Contencioso Administrativo del Estado de Querétaro;
 
 II. Dar seguimiento y proveer la ejecución de las resoluciones que emita; y
 
@@ -303,7 +363,7 @@ En ambos casos el plazo para redactar la resolución será de cinco días hábil
 
 Compete al Presidente de la Cuarta Sección:
 
-I. Atender la correspondencia de la Sección, autorizándola con su firma;
+I. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 II. Convocar a sesiones, dirigir los debates y conservar el orden en las sesiones;
 
@@ -313,7 +373,7 @@ IV. Rendir los informes previos y justificados cuando los actos reclamados en lo
 
 V. Tramitar los incidentes, recursos, aclaraciones de sentencias, así como la queja, cuando se trate de juicios que se ventilen ante la Cuarta Sección;
 
-VI. Dictar los acuerdos y providencias de trámite necesarios cuando a juicio de la Cuarta Sección se beneficie la rapidez del proceso;
+VI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 VII. Imponer las medidas de apremio para hacer cumplir las determinaciones de la Sección; y
 
@@ -335,7 +395,7 @@ Si el demandante es una autoridad que promueve la nulidad de una resolución fav
 
 ###### Artículo 20.
 
-Los Juzgados Administrativos conocerán de los juicios que se promuevan en contra de las resoluciones definitivas, actos administrativos y procedimientos, a que se refiere el artículo 4 de esta Ley, con excepción de la prevista en la fracción XII de dicho precepto, que será de (sic) conocimiento de la Sala Especializada.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ###### Artículo 21.
 
@@ -385,9 +445,11 @@ XIX. Las demás que establezcan las disposiciones aplicables.
 
 ### Capítulo Sexto. De la Sala Especializada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-La Sala Especializada se integrará por tres Jueces Administrativos de los que compongan el Tribunal en términos del artículo 17 de esta Ley y tendrá jurisdicción en el (sic) todo el territorio del Estado de Querétaro para conocer:
+La Sala Especializada se integrará por tres Jueces Administrativos de los que compongan el Tribunal en términos del artículo 6 de esta Ley y tendrá jurisdicción en el (sic) todo el territorio del Estado de Querétaro para conocer:
 
 I. Los procedimientos y resoluciones a que se refiere el artículo 5 de esta Ley, con las siguientes facultades:
 
@@ -397,7 +459,9 @@ b) Imponer sanciones que correspondan a los servidores públicos y particulares,
 
 c) Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador y el desvío de recursos obtenidos de manera ilegal queden sin materia.
 
-II. Los juicios que se promuevan en contra de los procedimientos, resoluciones definitivas o actos administrativos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. Los juicios que se promuevan en contra de los procedimientos, resoluciones definitivas o actos administrativos a que se refiere la fracción XI del artículo 4 de esta Ley, conforme a lo siguiente:
 
 a) Las resoluciones definitivas que impongan sanciones a los servidores públicos por faltas administrativas no graves en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
 
@@ -447,13 +511,19 @@ Los asuntos cuyo despacho competa a la Sala Especializada, serán asignados por 
 
 Para la validez de las sesiones de la Sala Especializada, será indispensable la presencia de los tres Jueces Administrativos que la integran y para resolver bastará mayoría de votos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-El Presidente de la Sala Especializada, será designado por los Jueces Administrativos que la integren, en la primera sesión de cada ejercicio, durará en su cargo un año y no podrá ser reelecto para el periodo inmediato siguiente.
+El Presidente de la Sala Especializada, será designado por Acuerdo del Presidente del Tribunal y durará en su cargo el término que este último señale.
 
 En el caso de faltas temporales, el Presidente será suplido por los Jueces Administrativos de la Sala Especializada en el orden alfabético de sus apellidos.
 
-Si la falta es definitiva, la Sala Especializada designará nuevo Presidente para concluir el periodo del Juez faltante. El Juez Administrativo designado para concluir el periodo no estará impedido para ser electo Presidente en el periodo inmediato siguiente.
+Si la falta es definitiva, el Pleno designará nuevo Presidente para concluir el periodo del ausente. El Juez Administrativo designado para concluir el periodo no estará impedido para ser designado Presidente en el periodo inmediato siguiente.
+
+Las faltas temporales y definitivas de Jueces integrantes de la Sala Especializada, serán cubiertas provisionalmente por el Secretario de Acuerdos del Juez ausente, con mayor antigüedad o, en su defecto, por el Secretario de Acuerdos del Juez ausente que siga en orden alfabético de su primer apellido. En el caso de faltas definitivas la suplencia durará hasta en tanto se designe un nuevo Juez.
+
+En el caso de faltas temporales por excusa o impedimento, tratándose de Juez Instructor, el Pleno, en el acuerdo que emita respecto a su calificación y procedencia, ordenará la reasignación del expediente a Juzgado diverso al Juez que se excusa.
 
 ### Capítulo Séptimo. Integración de los Juzgados Administrativos
 
@@ -463,9 +533,13 @@ Los Juzgados Administrativos se integrarán, de conformidad con la disponibilida
 
 I. Un Juez;
 
-II. Los Secretarios de Acuerdos, Secretarios Proyectistas, Actuarios y Mecanógrafos que determine el Pleno, en atención al volumen de asuntos que se ventilen en el Juzgado; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-III. El personal administrativo que se requiera y que autorice el Pleno.
+II. Los Secretarios de Acuerdos, Secretarios Proyectistas, Actuarios y Mecanógrafos que determine el Presidente, en atención al volumen de asuntos que se ventilen en el Juzgado; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. El personal administrativo que se requiera y que autorice el Presidente.
 
 ###### Artículo 28.
 
@@ -477,9 +551,13 @@ El Secretario de Acuerdos del Juez Administrativo que funja como Presidente de l
 
 ### Capítulo Primero. De la Oficialía Mayor
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-La Oficialía Mayor del Tribunal estará encargada de dirigir y coordinar las acciones necesarias para proporcionar los recursos humanos, financieros, materiales y servicios generales que el Tribunal requiera para el desempeño de sus funciones.
+La Oficialía Mayor del Tribunal es la Unidad Administrativa responsable de proporcionar los recursos humanos, financieros, materiales y servicios generales que el Tribunal requiera para el desempeño de sus funciones.
+
+Asimismo, la Oficialía Mayor, para efectos de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, se considera ejecutor de gasto, por lo que será la responsable directa e inmediata del cumplimiento de las bases establecidas en dicha Ley y demás disposiciones jurídicas relacionadas con los fondos públicos federales y estatales, así como de la información a la que tenga acceso. De igual manera, la Oficialía Mayor, al tener a su cargo fondos públicos, tiene la responsabilidad de realizar las acciones que correspondan con la finalidad de acreditar y demostrar el origen, destino, aplicación, erogación, registro, documentación comprobatoria y rendición de cuentas, conforme a las disposiciones federales, la normatividad específica de acuerdo al tipo de fondos públicos de que se trate, así como con los Lineamientos, autorizaciones o instrucciones que al efecto emita la Secretaría de Finanzas en el ámbito de su competencia.
 
 ### Capítulo Segundo. De la Defensoría de Oficio
 
@@ -569,21 +647,25 @@ Son causas de retiro forzoso de los Magistrados padecer incapacidad física o me
 
 Cuando los Magistrados estén por concluir el periodo para el que hayan sido nombrados, el titular de la Oficialía Mayor así lo hará saber al Presidente del Tribunal, con tres meses de anticipación, quien notificará esta circunstancia al titular del Poder Ejecutivo del Estado para efectos de la propuesta para la designación de los nuevos Magistrados.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 39.
 
-Las faltas temporales y definitivas de Magistrados ocurridas durante el periodo para el cual hayan sido nombrados, serán suplidas por el Secretario de Acuerdos del Tribunal de mayor antigüedad o en su defecto, por el Secretario de Acuerdos que siga en orden alfabético de su primer apellido.
+Las faltas temporales y definitivas de Magistrados ocurridas durante el periodo para el cual hayan sido nombrados, serán suplidas por el Secretario de Acuerdos de mayor antigüedad o, en su defecto, por el Secretario de Acuerdos que siga en orden alfabético de su primer apellido de la Sección a la cual se encuentre adscrito el Magistrado que corresponda.
 
-Tratándose de faltas definitivas, estas se comunicarán de inmediato al titular del Poder Ejecutivo del Estado a través del Presidente del Tribunal para que se proceda a la designación de nuevo Magistrado.
+Tratándose de faltas definitivas, éstas se comunicarán de inmediato al titular del Poder Ejecutivo del Estado a través del Presidente del Tribunal para que se proceda a la designación de nuevo Magistrado.
 
-El Reglamento Interior establecerá las normas para el turno y reasignación de expedientes en los casos de faltas temporales, excusas o recusaciones de los Magistrados.
+El Pleno establecerá las normas para el turno y reasignación de expedientes en los casos de faltas temporales, excusas o recusaciones de los Magistrados.
 
 ### Capítulo Tercero. De los demás servidores públicos del Tribunal
 
 #### Sección Primera. De los Jueces Administrativos
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 40.
 
-Los Jueces Administrativos se elegirán por el Pleno, de conformidad a la convocatoria que al efecto se expida y podrán ser removidos por dicho órgano cuando incurran en alguna responsabilidad que afecte el buen desempeño de sus labores.
+Los Jueces Administrativos se nombrarán por el Presidente, de conformidad a la convocatoria que al efecto se expida y podrán ser removidos cuando incurran en alguna responsabilidad que afecte el buen desempeño de sus labores.
 
 ###### Artículo 41.
 
@@ -623,9 +705,11 @@ IV. Haber satisfecho los requisitos que se establezcan en la convocatoria respec
 
 Corresponde a los Secretarios de Acuerdos de la Secciones Primera, Segunda y Tercera:
 
-I. Acordar con el Magistrado adscrito a la Sección lo relativo a las sesiones de la misma y apoyarlo en las tareas que le encomiende;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II. Dar cuenta en las sesiones de la Sección de los asuntos que se sometan a su consideración;
+I. Acordar con el Magistrado adscrito a la Sección los asuntos asignados a la misma y apoyarlo en las tareas que le encomiende;
+
+II. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 III. Autorizar las resoluciones de la Sección correspondiente, en unión del Magistrado de la Sección;
 
@@ -653,7 +737,9 @@ V. Llevar el turno de los Magistrados que deban formular ponencias, estudios o p
 
 VI. Dirigir los archivos de la Sección;
 
-VII. Dar fe y expedir certificados de las constancias contenidas en los expedientes que obran en la Sección; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Dar fe y expedir certificados de las constancias contenidas en los expedientes que obran en la Presidencia de la Sección; y
 
 VIII. Las demás que le encomiende el Presidente de la Sección y las que le correspondan conforme a las disposiciones jurídicas aplicables.
 
@@ -671,9 +757,11 @@ IV. Dar fe y expedir certificados de las constancias que obren en los expediente
 
 V. Las demás que les encomiende el Juez Administrativo y las que les correspondan conforme a las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 47.
 
-Corresponde a quien funja como Secretario de Acuerdos de la Sala Especializada:
+Corresponde a quien funja como Secretario de Acuerdos del Juez Instructor de la Sala Especializada:
 
 I. Proyectar los autos y las resoluciones que les indique el Juez Administrativo que funja como Instructor;
 
@@ -681,13 +769,19 @@ II. Autorizar con su firma las actuaciones del Juez Administrativo que funja com
 
 III. Practicar las diligencias que les encomiende el Juez Administrativo que funja como Instructor;
 
-IV. Dar fe y expedir certificaciones de las constancias que obren en los expedientes de la Sala Especializada;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Dar fe y expedir certificaciones de las constancias que obren en los expedientes del Juzgado cuyo titular funja como Instructor de la Sala Especializada;
 
 V. Dar cuenta al Juez Administrativo que funja como Instructor, de los escritos, oficios y promociones relacionados con los asuntos a su cargo, a más tardar el día siguiente de su recepción y de forma inmediata de aquellos que no admitan dilación en su trámite;
 
-VI. Cuidar los libros, expedientes, documentos, muebles y demás objetos que se encuentren en la Sala Especializada, bajo su responsabilidad. El mismo cuidado deberán observar tratándose de títulos, valores, fianzas, certificados de depósito y numerario exhibidos por las partes que deban guardarse en el secreto del Juzgado correspondiente. El numerario lo remitirá a la Sala Superior, para su guarda, llevando para tal efecto un libro en el que se asiente la fecha en la que se hagan los depósitos, nombre del depositante y beneficiario, el importe de ellos y la fecha de devolución a sus propietarios quienes deberán firmar el libro como constancia de recibo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Remitir al Archivo General del Tribunal los expedientes concluidos por sentencia definitiva;
+VI. Cuidar los libros, expedientes, documentos, muebles y demás objetos que se encuentren en el Juzgado correspondiente, bajo su responsabilidad. El mismo cuidado deberán observar tratándose de títulos, valores, fianzas, certificados de depósito y numerario exhibidos por las partes que deban guardarse en el secreto del Juzgado correspondiente. El numerario lo remitirá a la Sala Superior, para su guarda, llevando para tal efecto un libro en el que se asiente la fecha en la que se hagan los depósitos, nombre del depositante y beneficiario, el importe de ellos y la fecha de devolución a sus propietarios quienes deberán firmar el libro como constancia de recibo;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Remitir al Archivo General del Tribunal los expedientes concluidos por sentencia firme;
 
 VIII. Compilar, sistematizar y difundir las tesis que emita la Sala Superior.
 
@@ -705,9 +799,11 @@ II. Suplir las faltas del Secretario de Acuerdos, y
 
 III. Efectuar las diligencias que les encomiende el Magistrado o Juez Administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 49.
 
-Además de lo señalado en el artículo anterior, corresponde a los Secretarios Proyectistas, cuando actúen en auxilio de la Sala Especializada:
+Además de lo señalado en el artículo anterior, corresponde a los Secretarios Proyectistas, cuando actúen en auxilio del Juez Instructor de la Sala Especializada:
 
 I. Elaborar el proyecto de acuerdo de radicación de las acciones de responsabilidad remitidas por las autoridades competentes en términos de la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
@@ -936,3 +1032,87 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. El Presidente del Tribunal de Justicia Administrativa del Estado de Querétaro en funciones, podrá reelegirse en términos de lo dispuesto por el artículo 11 de la presente Ley:
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma.
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
