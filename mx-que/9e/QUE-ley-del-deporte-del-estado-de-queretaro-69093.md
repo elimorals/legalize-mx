@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2018-03-28"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DEL DEPORTE DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -279,7 +281,9 @@ IV. Las demás unidades administrativas que establezca su Reglamento Interior.
 
 La Junta Directiva estará integrada por:
 
-I. Un Presidente, cuyo titular será el Gobernador del Estado o el servidor público que éste determine, en adelante el Presidente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Un Presidente, cuyo titular será el Gobernador del Estado o el titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro;
 
 II. Un Secretario Técnico que será el Director General del INDEREQ;
 
@@ -385,7 +389,9 @@ XI. Aprobar la concertación de préstamos para el funcionamiento del INDEREQ, o
 
 XII. Expedir de acuerdo con las disposiciones legales aplicables, las bases generales conforme a las cuales, cuando sea necesario, el Director General pueda disponer de activos fijos de la entidad, que no correspondan a las operaciones propias del objeto del INDEREQ o cuando dejen de ser de utilidad para el mismo;
 
-XIII. Aprobar la constitución de reservas y la aplicación de las utilidades, en espera del destino que determine el Gobernador del Estado, a través de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XIII. Aprobar la constitución de reservas y la aplicación de las utilidades, en espera del destino que determine el Gobernador del Estado, a través de la Secretaría de Finanzas del Poder Ejecutivo del Estado;
 
 XIV. Aprobar de conformidad con las disposiciones que, en materia de gasto, emitan las autoridades correspondientes, el tabulador de sueldos aplicable a los trabajadores del INDEREQ, y concederles licencias;
 
@@ -393,39 +399,69 @@ XV. Aprobar la integración de comités de trabajo que se estimen pertinentes, p
 
 XVI. Las demás que le confieran esta Ley y otros ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 13 Nonies.
 
-El Director General será designado y removido libremente por el Gobernador del Estado y tendrá las siguientes atribuciones:
+El Director General será designado y removido libremente por el Gobernador del Estado o por el Secretario de Educación del Poder Ejecutivo del Estado de Querétaro y tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 I. Ejecutar los acuerdos aprobados por la Junta Directiva;
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 II. Ejercer la representación legal, administración y conducción del INDEREQ, de conformidad con los ordenamientos aplicables;
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 III. Velar por la buena marcha del INDEREQ y promover las medidas administrativas, contables, organizacionales, financieras y demás que correspondan, con sujeción a los ordenamientos aplicables;
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 IV. Vigilar el cumplimiento de los ordenamientos legales, reglamentarios y administrativos para la organización, funcionamiento y aplicación de recursos del INDEREQ;
 
-V. Formular el proyecto de presupuesto anual del INDEREQ y someterlo a la aprobación de la Junta Directiva, enviarlo a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, para que se considere en el presupuesto de egresos del Estado, que el Gobernador del Estado propone a la Legislatura;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. Formular el proyecto de presupuesto anual del INDEREQ y someterlo a la aprobación de la Junta Directiva, enviarlo a la Secretaría de Finanzas del Poder Ejecutivo del Estado, para que se considere en el presupuesto de egresos del Estado, que el Gobernador del Estado propone a la Legislatura;
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 VI. Elaborar anualmente los programas necesarios para la operatividad del INDEREQ y someterlos a la aprobación de la Junta Directiva;
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 VII. Ejercer el presupuesto y ejecutar los programas aprobados por la Junta Directiva, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 VIII. Delegar cualquiera de sus atribuciones en los servidores públicos de nivel jerárquico inmediato inferior con que cuente el INDEREQ, con excepción de aquellas que, por su propia naturaleza, por disposición legal o por acuerdo de la Junta Directiva, sean indelegables;
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 IX. Designar y remover a los servidores públicos del INDEREQ, cuyo nombramiento o remoción no corresponda efectuar a la Junta Directiva;
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 X. Elaborar los proyectos de reglamentos del INDEREQ, que resulten necesarios para el cumplimiento de su objeto, y proponerlos a la Junta Directiva;
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 XI. Elaborar los manuales de organización y procedimientos que resulten necesarios para el cumplimiento de su objeto, y presentarlos a la Junta Directiva, para su aprobación, conforme a los ordenamientos aplicables;
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 XII. Conceder licencias al personal del INDEREQ, de conformidad con la legislación aplicable;
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 XIII. Proporcionar la información y documentación que le solicite el Órgano Interno de Control del propio organismo y otras instancias fiscalizadoras;
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 XIV. Proporcionar la información, los datos o la cooperación técnica que le sean requeridas por otras dependencias o entidades de la Administración Pública federal, estatal o municipal, con sujeción a los ordenamientos aplicables, y
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 XV. Las demás que señalen la presente Ley, otros ordenamientos aplicables y aquellas que le encomiende la Junta Directiva.
 
@@ -896,3 +932,87 @@ P.O. 28 DE MARZO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
