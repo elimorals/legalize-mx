@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2021-09-09"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -95,11 +95,9 @@ III. Acceso Controlado en Vialidad: Es la condición de la vialidad con jerarqu�
 
 IV. Aprovechamiento: Es el uso del suelo, destino del suelo, giro, clasificación o actividad en específico a que se dedica o puede dedicarse un lote, predio, edificación o parte de ella;
 
-(NOTA: EL 4 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO B Y IX, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 141/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE AGOSTO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-V. Área de Cesión: Es la superficie de terreno que los fraccionadores deben donar al Ayuntamiento a título gratuito para destinarse a áreas verdes y equipamiento urbano, que será INALIENABLE, INTRANSMISIBLE, imprescriptible e inembargable, con excepción de lo dispuesto por esta Ley;
+V. Área de cesión: Es la superficie de terreno que los fraccionadores deben donar al Ayuntamiento a título gratuito para destinarse a áreas verdes y equipamiento urbano, que será imprescriptible e inembargable, con excepción de lo dispuesto por esta ley;
 
 VI. Área de Restricción: Es la superficie de terreno sujeta a las afectaciones por derechos de vía federales o estatales, establecidos por las normas aplicables en esta materia, incluyendo las áreas naturales protegidas;
 
@@ -2077,11 +2075,11 @@ Son obligaciones del fraccionador las siguientes:
 
 I. Ceder a título gratuito al municipio las superficies de terreno determinadas como vías públicas en el proyecto del fraccionamiento;
 
-(NOTA: EL 4 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO B Y IX, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 141/2019, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE AGOSTO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+II. Ceder a favor del municipio dentro del fraccionamiento de su diseño unifamiliar conteniendo para una vivienda por lote como destino para área pública, el trece por ciento calculado sobre el área vendible para el caso de proyectar en su diseño vialidades terciarias de 15.50 metros; en el supuesto de proyectar vialidades terciarias de 13.50 metros, el área de donación correspondiente será del quince por ciento calculado sobre el área vendible.
 
-II. Ceder a favor del municipio dentro del fraccionamiento de su diseño unifamiliar conteniendo para una vivienda por lote como destino para área pública, el trece por ciento calculado sobre el área vendible para el caso de proyectar en su diseño vialidades terciarias de 15.50 metros; en el supuesto de proyectar vialidades terciarias de 13.50 metros, el área de donación correspondiente será del quince por ciento calculado sobre el área vendible. Esta área será INALIENABLE, inembargable, imprescriptible E INTRANSMISIBLE. El sesenta por ciento del suelo cedido deberá destinarse para áreas verdes que serán utilizadas como parques, jardines, plazas públicas u otros usos relativos al esparcimiento; el cuarenta por ciento restante deberá destinarse para el equipamiento urbano de interés público, como el relacionado con servicios de educación, salud, deporte, cultura y seguridad pública, entre otros. COMO EXCEPCIÓN A LO ANTES CITADO EN ESTA MISMA FRACCIÓN, CUANDO SE TRATE DE ORGANISMOS O INSTITUCIONES PÚBLICAS DEL ESTADO, CUYOS FINES ESTÉN RELACIONADOS CON LOS USOS A QUE SE REFIERE ESTA FRACCIÓN, SE PODRÁ TRANSMITIR LA PROPIEDAD DE LAS SUPERFICIES DE EQUIPAMIENTO QUE SE AUTORICEN POR EL AYUNTAMIENTO, Y QUE EN TODO CASO SE JUSTIFIQUEN COMO ESTRICTAMENTE NECESARIAS PARA SU FUNCIONAMIENTO;
+Esta área será inembargable e imprescriptible. El sesenta por ciento del suelo cedido deberá destinarse para áreas verdes que serán utilizadas como parques, jardines, plazas públicas u otros usos relativos al esparcimiento; el cuarenta por ciento restante, deberá destinarse para el equipamiento urbano de interés público, como el relacionado con servicios de educación, salud, deporte, cultura y seguridad pública, entre otros.
 
 III. Para el caso del fraccionamiento de tipo multifamiliar vertical u horizontal, y mixto, el cual contendrá en su diseño vialidades terciarias de 15.50 metros, se calcula el área de cesión o uso común en función de los 22.00 metros cuadrados por vivienda potencial, y observando para su distribución de áreas verdes y de equipamiento urbano la condición indicada en la fracción II de este artículo.
 
@@ -3656,3 +3654,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los efectos legales del presente Decreto aplicarán para las personas que ya se encuentren en el supuesto legal a que este se refiere al inicio de su vigencia.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-832 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, FRACCIÓN V, Y 156, FRACCIÓN II, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
