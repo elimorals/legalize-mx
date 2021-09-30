@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2021-07-06"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -2340,6 +2340,14 @@ En caso de controversia sobre a quién corresponde el ejercicio de la patria pot
 Para asignar la patria potestad el juez debe tomar en cuenta las circunstancias del caso y la opinión de la niña, niño o adolescente que esté en condiciones de expresarla, así como la de cualquier miembro de la familia que el juez estime conveniente escuchar.
 
 Tratándose de hijos o hijas monoparentales, cuando el progenitor muera o pierda la patria potestad, ésta se ejercerá en forma automática y definitiva por los abuelos que correspondan, sin necesidad de declaración judicial.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de feminicidio u homicidio entre quienes compartan la Patria Potestad de un menor de edad, el juez también considerará la asignación de esta, en preferencia a los familiares de la víctima, en el siguiente orden:
+
+a) abuelos por parte de la víctima
+
+b) a los hermanos de la víctima.
 
 Irrenunciabilidad de la patria potestad
 
@@ -7654,3 +7662,11 @@ Artículo primero. Este decreto entrará en vigor el (sic) día siguiente al de 
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 415/2021 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN MATERIA DE ASIGNACIÓN PREFERENTE DE LA PATRIA POTESTAD DE MENORES EN CASO DE HOMICIDIO O FEMINICIDIO ENTRE QUIENES LA COMPARTAN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
