@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2021-09-23"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -51,9 +51,9 @@ CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
 ###### ARTICULO 1.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Las disposiciones de este Código son de orden público e interés social y son obligatorias en el ámbito territorial del Estado. Sus normas emanan de los principios dispuestos en los artículos 4, párrafo cuarto, 27, párrafo tercero y 73, fracción XXIX, inciso g, de la Constitución Política de los Estados Unidos Mexicanos, y tienen por objeto regular las materias señaladas a continuación:
+Las disposiciones de este Código son de orden público e interés social y son obligatorias en el ámbito territorial del Estado. Sus normas emanan de los principios dispuestos en los artículos 4o, párrafo quinto, 27, párrafo tercero y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos, y tienen por objeto regular las materias señaladas a continuación:
 
 I. La protección ambiental;
 
@@ -301,9 +301,9 @@ XLIII. Recurso natural: El elemento natural susceptible de ser aprovechado en be
 
 XLIV. Relleno sanitario: La instalación que cuenta con sitios y condiciones para el depósito permanente de los residuos sólidos urbanos y de manejo especial, con el propósito de prevenir o al menos, reducir la liberación de contaminantes al ambiente, la formación de lixiviados en suelos, la generación de procesos de combustión no controlada, la emisión de malos olores, la proliferación de fauna nociva y demás problemas sanitarios y ambientales;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XLV. Residuo: El material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento de bienes o cosas, cuya calidad no permita usarlo nuevamente en el proceso que lo generó y cuyo propietario o poseedor desecha. Puede encontrarse en estado sólido, semisólido, líquido o gaseoso, contenido en recipientes o depósitos, ser susceptible de valorización económica, al tiempo de sujetarse a tratamiento o disposición final conforme a lo dispuesto en este Código y demás ordenamientos aplicables;
+XLV. Residuo: El material o producto cuya persona propietaria o poseedora desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final, conforme a lo dispuesto en este Código y demás ordenamientos que de él deriven;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -711,27 +711,49 @@ III. La información correspondiente a los registros, programas y acciones que s
 
 ###### ARTICULO 30.
 
-1. La información proporcionada en la Cédula de Operación Anual deberá actualizarse durante el primer cuatrimestre de cada año, respecto de la emisión y transferencia de contaminantes ocurridos durante el año anterior.
+1. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 2. La Cédula de Operación Anual deberá llenarse conforme a los siguientes lineamientos, los cuales serán obligatorios de acuerdo a la empresa o actividad de que se trate:
 
-#### Sección Primera. Información Técnica General, que comprende la operación y funcionamiento, materias primas e insumos, productos y consumo energético del establecimiento.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Primera.- Datos de Registro, que comprenden los datos generales del establecimiento e Información Técnica General, que comprende la operación y funcionamiento, materias primas e insumos, productos y consumo energético del establecimiento.
 
 #### Sección Segunda. Contaminación Atmosférica, que describe la generación de contaminantes, parámetros normados y las emisiones anuales del establecimiento.
 
-#### Sección Tercera. Aprovechamiento de Agua y Descarga de Aguas Residuales, que describe el aprovechamiento de agua, datos generales de descarga y las características de las descargas de aguas residuales del establecimiento;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+#### Sección Tercera.- Registro de Transferencias de Contaminantes en el Agua, que describe el aprovechamiento de agua, datos generales de descarga y las características de las descargas de aguas residuales del establecimiento.
 
-#### Sección Cuarta. Generación, Tratamiento y Transferencia de Residuos, que se refiere a la generación de residuos, almacenamiento de los mismos dentro del establecimiento y transferencia y el tratamiento de dicho tipo de residuos;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Sección Quinta. Emisión y Transferencia Anual de los Contaminantes o grupos de contaminantes, que describe el uso e identificación de esas sustancias dentro del establecimiento, cantidad anual consumida, almacenada, producida o emitida a cualquier otro medio y los derivados de accidentes, contingencias o emisiones fugitivas.
+#### Sección Cuarta.- Registro de Residuos Sólidos Urbanos y de Manejo Especial, que se refiere a la generación, manejo, reciclaje, transferencia, almacenamiento, transporte y disposición de residuos sólidos urbanos y de manejo especial.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-#### Sección Sexta. Generación de Emisión de Ruido o Vibraciones.
+Sección Quinta.- Emisión y Transferencia de Contaminantes que describe el uso, producción y/o comercialización dentro del establecimiento, cantidad anual consumida, almacenada, producida o emitida a cualquier otro medio, transferida fuera del establecimiento y de los derivados de accidentes y contingencias de las sustancias listadas en la Norma Oficial Mexicana y/o Norma Ambiental Estatal que se emitan para tal efecto.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Sexta.- Registro de emisión de ruido y vibraciones, que describe los niveles detectados, fuente emisora, y tipo de medición de ruido y vibraciones del establecimiento.
 
 3. La información anterior será para efectos de control en el cumplimiento de las disposiciones aplicables y para fines estadísticos, independientemente de la competencia municipal, estatal o federal que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 30 BIS.
+
+1. La información proporcionada en la Cédula de Operación Anual deberá reportarse con las emisiones y transferencias de contaminantes ocurridas durante el año inmediato anterior. El reporte se presentará cada año, en los periodos que se establecen a continuación:
+
+I. Los establecimientos de personas físicas o morales que comiencen con un número, símbolo, o con las letras "A", "B", "C", "D" y "E", deberán presentar su reporte en el mes de febrero;
+
+II. Los establecimientos de personas físicas o morales que comiencen con las letras "F", "G", "H", "I", "J", "K", "L", "M", "N", "Ñ" y "O", deberán presentar su reporte en el mes de marzo; y
+
+III. Los establecimientos de personas físicas o morales que comiencen con las letras "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y" y "Z", deberán presentar su reporte en el mes de abril.
+
+2. Sin perjuicio de lo anterior, se podrá presentar el reporte en el mes de enero sin tomar en cuenta el carácter con el que comience su razón social.
+
+3. En caso de exhibir la información proporcionada a través de la Cédula de Operación Anual fuera de los periodos de recepción establecidos en el párrafo anterior y se encuentren dentro del año que le corresponde su reporte, se considerará como presentado en forma extemporánea; en el caso de no ser presentada dentro del año que le corresponda su reporte, se haya desechado o declarado caducidad, se considerará como que no se ha presentado reporte en el periodo anual correspondiente.
 
 ###### ARTICULO 31.
 
@@ -919,15 +941,45 @@ II Bis. Constancia de No Adeudo Fiscal: Documento que consta que no se tiene ade
 
 III. Cuerpo receptor: la corriente o depósito natural de agua, presas, cauces, zonas marinas o bienes estatales donde se descargan aguas residuales, así como los terrenos en donde se infiltran dichas aguas, cuando puedan contaminar los suelos, subsuelo o acuíferos;
 
-IV. Descarga de aguas residuales: la acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-V. Emisión: la descarga directa o indirecta a la atmósfera de olores, partículas sólidas, vapores, gases y cualquiera de sus combinaciones y, en general, toda sustancia que no sea agua en su forma no combinada;
+IV. Descarga de aguas residuales: la acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor, fosa séptica, alcantarillado y/o drenaje municipal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. Emisión: la liberación al ambiente de toda sustancia, en cualquiera de sus estados físicos o cualquier tipo de energía, proveniente de una fuente;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Bis. Emisión canalizada o conducida: la emisión que esté conducida por un ducto o chimenea que permita la salida a la atmósfera de gases provenientes de un proceso;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Ter. Emisión fugitiva: las emisiones de gases no controladas generadas en los procesos productivos de los establecimientos comerciales, de servicio o industriales y que no están conducidos a la atmósfera;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Quáter. Establecimiento de servicios: la instalación cuya actividad principal está dedicada a la venta de un valor intangible, como lo es la consultoría legal, médica o financiera, a su vez, también se incluyen las actividades de arrendamiento de bienes o productos para que la persona consumidora obtenga sus beneficios, sin que este se convierta en propietaria de dichos activos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Quinquies. Establecimiento industrial: la instalación cuya actividad económica principal está dedicada a la producción o manufactura de materiales, sustancias o productos que han sufrido una transformación;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Sexies. Establecimiento mercantil o comercial: la instalación cuya actividad principal está dedicada a la compra y/o venta de bienes o distribuidores o el consumidor final;
 
 VI. Estudio de daño ambiental: el análisis de la relación causal entre hechos, naturales o no, actos u omisiones, y el impacto negativo al medio ambiente, que define sus cualidades, cuantificación y medidas de compensación y, en el caso de que ésta no sea posible, la reparación del daño ambiental causado;
 
 VII. Estudio de riesgo: el análisis de los riesgos inherentes a las acciones previstas para el desarrollo de la obra o actividad y los efectos potenciales al medio ambiente, así como las medidas de seguridad tendientes a evitar, minimizar o controlar estas afectaciones en caso de accidente;
 
-VIII. Fuente fija de contaminación atmosférica: todo medio operativo estable que genere o puede generar emisiones contaminantes a la atmósfera;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII Bis. Evaluación de daños ambientales: el procedimiento científico y técnico a través del cual las autoridades estatales y organismos autorizados identifican las alteraciones o efectos negativos que hayan modificado el medio ambiente, sus recursos y el equilibrio de los ecosistemas, con el objeto de determinar las acciones correctivas, de compensación y de restauración a que la obra o actividad se sujeta, a fin de evitar o reducir al mínimo sus consecuencias negativas en el medio ambiente;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Fuente fija de contaminación atmosférica: la instalación establecida en un sólo lugar, que genere o pueda generar emisiones contaminantes a la atmósfera;
 
 IX. Fuente móvil de contaminación atmosférica: todo medio operativo móvil que genere o puede generar emisiones contaminantes a la atmósfera;
 
@@ -1047,7 +1099,9 @@ II. Formular, conducir y evaluar la política ambiental municipal y el Programa 
 
 III. Aplicar los instrumentos de política ambiental previstos en las leyes locales en la materia y preservar y restaurar el equilibrio ecológico y la protección al medio ambiente en ámbitos de competencia municipal, en las materias que no estén expresamente atribuidas a la Federación o al Estado;
 
-IV. Formular y expedir los programas de ordenamiento ecológico local del territorio en los términos previstos en el presente Libro, así como controlar y vigilar el uso y cambio de uso del suelo, establecidos en dichos programas, atendiendo lo dispuesto por la Ley para el Desarrollo Urbano del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Formular y expedir los programas de ordenamiento ecológico local del territorio en los términos previstos en el presente Libro, así como controlar y vigilar el uso y cambio de uso del suelo, establecidos en dichos programas, atendiendo lo dispuesto por la legislación estatal vigente en la materia;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -1201,7 +1255,9 @@ III. Los diversos instrumentos que se expidan para ordenar y regular el desarrol
 
 ###### ARTICULO 54.
 
-1. En las áreas declaradas por el Ejecutivo Estatal o los Ayuntamientos como espacios dedicados a la conservación natural en los términos de la Ley para el Desarrollo Urbano del Estado de Tamaulipas, la urbanización será restringida y sólo se autorizarán aquellas construcciones y obras que aseguren servicios de beneficio social o de uso común.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+1. En las áreas declaradas por el Ejecutivo Estatal o los Ayuntamientos como espacios dedicados a la conservación natural en los términos de la legislación estatal vigente en la materia, la urbanización será restringida y sólo se autorizarán aquellas construcciones y obras que aseguren servicios de beneficio social o de uso común.
 
 2. Para la regulación ambiental de los asentamientos humanos y del uso y cambio de uso del suelo, las dependencias y entidades de la administración pública estatal y municipales deberán considerar los siguientes criterios:
 
@@ -1213,13 +1269,17 @@ III. La previsión de las tendencias de crecimiento de los asentamientos humanos
 
 IV. El fortalecimiento de las previsiones de carácter ambiental para proteger y elevar la calidad de vida, mediante:
 
-a) El respeto a los espacios geográficos que sean considerados como áreas verdes de acuerdo con la Ley para el Desarrollo Urbano del Estado; y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) El respeto a los espacios geográficos que sean considerados como áreas verdes de acuerdo con la legislación estatal vigente en la materia; y
 
 b) La previsión de zonas intermedias de salvaguarda dentro del predio donde se pretendan realizar obras o actividades que por sus características o riesgos así lo requieran.
 
 ###### ARTICULO 55.
 
-1. La construcción de la vivienda que autoriza el Ayuntamiento dentro de las zonas de expansión de los asentamientos humanos, deberá considerar las áreas verdes requeridas para la convivencia social, en los términos establecidos por la Ley para el Desarrollo Urbano del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+1. La construcción de la vivienda que autoriza el Ayuntamiento dentro de las zonas de expansión de los asentamientos humanos, deberá considerar las áreas verdes requeridas para la convivencia social, en los términos establecidos por la legislación estatal vigente en la materia.
 
 2. El Estado y el Municipio, conforme a sus respectivas competencias, promoverán mediante concertación e inducción con los sectores social y privado:
 
@@ -1265,11 +1325,19 @@ V. Explotación, extracción, procesamiento y beneficio de minerales o substanci
 
 VI. Estaciones de servicio, carburación, almacenamiento, transferencia o cualquier otra obra o actividad cuya materia sean los productos derivados del petróleo o combustibles fósiles, siempre que se encuentren por debajo de los volúmenes y cantidades establecidas como competencia de la Federación;
 
-VII. Instalaciones de tratamiento, recuperación y disposición final de residuos sólidos urbanos, así como de residuos de manejo especial;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Instalaciones destinadas al aprovechamiento, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial;
 
 VIII. Instalaciones de tratamiento de aguas residuales de procedencia municipal;
 
-IX. Las instalaciones destinadas al reciclaje de residuos sólidos urbanos y de manejo especial, incluidos los que se dediquen a la compra y venta de partes usadas de vehículos automotores;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Las instalaciones destinadas al reciclaje de residuos sólidos urbanos y de manejo especial;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IX Bis. Instalaciones que se dediquen a la compra y venta de partes usadas de vehículos automotores;
 
 X. Zonas comerciales;
 
@@ -1287,7 +1355,9 @@ XVI. Cambios de uso de suelo, de manera previa al otorgamiento de su autorizaci�
 
 XVII. Las demás que, aun cuando sean distintas a las anteriores, puedan causar impactos ambientales significativos de carácter adverso y que por razón de la obra, actividad o aprovechamiento de que se trate, no sean de regulación federal.
 
-2. Para el caso de la fracción XV y XVI del párrafo 1 de este artículo, en lo que corresponda se deberá atender lo dispuesto por la Ley para el Desarrollo Urbano del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+2. Para el caso de las fracciones XV y XVI del párrafo 1 de este artículo, en lo que corresponda se deberá atender lo dispuesto por la legislación estatal vigente en la materia.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -1364,6 +1434,16 @@ III. Medidas de Mitigación;
 IV. Medidas de Compensación; y
 
 V. La protesta de decir verdad, respecto a los datos manifestados, a las medidas propuestas y a que en su contenido se integran las mejores técnicas y metodologías existentes.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 60 BIS.
+
+1. En los supuestos establecidos en el artículo 270 de este Código, cuando el promovente solicite la evaluación de la manifestación de impacto ambiental de forma voluntaria o con motivo de un procedimiento administrativo iniciado de oficio por la Secretaría, deberá de presentar adicionalmente un estudio de daño ambiental.
+
+2. Cuando el promovente se encuentre en los supuestos del artículo 270 de este Código, y desee continuar con la obra y/o actividad que diera lugar al procedimiento por daño ambiental, y sea requisito previo la obtención de la autorización en materia de impacto ambiental a que se refiere el presente Capítulo y su reglamento, será necesario de forma inexcusable que presente fianza para garantizar el cumplimiento de lo establecido en el dictamen por daño ambiental que resulte.
+
+3. La presentación del estudio por daño ambiental de forma conexa a la manifestación de impacto ambiental en términos de este artículo, no presupone la autorización de esta última.
 
 ###### ARTICULO 61.
 
@@ -1625,9 +1705,9 @@ Corresponde a la Secretaría:
 
 I. Promover la racional explotación de los recursos minerales o sustancias no reservadas a la Federación, para efectos de la preservación del equilibrio ecológico; y
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II. Otorgar concesiones a particulares para la explotación y aprovechamiento de los recursos minerales o sustancias no reservadas a la Federación y de las que se encuentren en dos o más Municipios, observando lo dispuesto en el presente Libro.
+II. Otorgar concesiones a particulares para la explotación y aprovechamiento de los recursos minerales o sustancias no reservadas a la Federación, observando lo dispuesto en el presente Libro.
 
 ###### ARTICULO 77.
 
@@ -1673,7 +1753,9 @@ II. Mantener en buenas condiciones de seguridad, estabilidad e higiene el predio
 
 III. Dar aviso a la Secretaría de la conclusión de sus actividades, dentro de los tres días hábiles siguientes a la terminación de los trabajos;
 
-IV. Pagar los derechos correspondientes, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Pagar al Estado los derechos correspondientes, conforme a lo establecido en la Ley de Hacienda para el Estado de Tamaulipas;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -2161,6 +2243,10 @@ II. Almacenamiento: La retención temporal de los residuos en lugares propicios 
 
 III. Aprovechamiento de residuos: El conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundarios o de energía;
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III Bis. Centro de Manejo Integral de Residuos: La instalación cuyo objetivo es realizar la separación aprovechamiento, co-procesamiento, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial, propiciando la disminución de las cantidades de residuos enviadas a disposición final, contemplando la implementación de la mejor tecnología, infraestructura disponible y la aplicación de mejores prácticas, conforme a la normatividad aplicable;
+
 IV. Composteo: El proceso de descomposición aerobia de la materia orgánica mediante la acción de microorganismos específicos, que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos;
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
@@ -2177,11 +2263,15 @@ VIII. Estación de transferencia: La instalación en la cual se almacenan residu
 
 IX. Evaluación del riesgo por residuos: El proceso metodológico para determinar la posibilidad de que se produzcan efectos adversos como consecuencia de la exposición de los seres vivos y los recursos naturales a las sustancias contenidas en los residuos regulados por el presente Libro;
 
-X. Gran generador: La persona física o moral que al año genere una cantidad igual o mayor a diez toneladas en peso bruto de residuos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+X. Gran generador: La persona física o moral que al año genere una cantidad igual o superior a diez toneladas en peso bruto de residuos o su equivalente en otra unidad de medida;
 
 XI. Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización y eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XII. Microgenerador de residuos peligrosos: Es la persona física y moral que genera al año, una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos o su equivalente en otra unidad de medida;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Microgenerador: Establecimiento industrial, comercial y de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
 
 > <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -2215,9 +2305,25 @@ XXIV. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación 
 
 XXV. Transportación de Residuos: La acción de trasladar los residuos para su correcta valorización o, en su caso, disposición final;
 
-XXVI. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual cambian las características de los residuos y se reduce su volumen o, de ser el caso, su peligrosidad, sin poner en peligro la salud de las personas y utilizándose métodos que produzcan el menor impacto al medio ambiente; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XXVII. Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+XXVI. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual cambian las características de los residuos y se reduce su volumen o, de ser el caso, su peligrosidad, sin poner en peligro la salud de las personas y utilizándose métodos que produzcan el menor impacto al medio ambiente;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII. Barrido: actividad de recolección manual o mecánica de residuos sólidos depositados en la vía pública;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXIX. Co-procesamiento: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXX. Disposición final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos.
 
 ## TITULO SEGUNDO. FACULTADES Y COORDINACION DE LAS AUTORIDADES
 
@@ -2495,9 +2601,11 @@ El Ejecutivo del Estado, por conducto de la Secretaría, publicará en el Perió
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 133.
 
-Los residuos de manejo especial deberán ser manejados conforme a lo dispuesto por este Código, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales, el Reglamento de este Libro y demás disposiciones aplicables. Para su manejo se observarán los principios establecidos en este Código.
+Los residuos sólidos urbanos y de manejo especial deberán ser manejados conforme a lo dispuesto por este Código, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales, el Reglamento de este Libro y demás disposiciones aplicables. Para su manejo se observarán los principios establecidos en este Código.
 
 ###### ARTICULO 134.
 
@@ -2592,6 +2700,10 @@ Los residuos sólidos urbanos podrán subclasificarse en orgánicos e inorgánic
 3. Está prohibido el abandono o manejo incontrolado de los residuos y toda mezcla que dificulte su manejo integral. La responsabilidad inherente para el generador de los residuos subsiste aún cuando el generador transfiera los residuos a prestadores autorizados de servicio de manejo o a los Ayuntamientos o los depositen en los contenedores o sitios autorizados para tal efecto por las autoridades competentes.
 
 4. Los residuos sólidos urbanos y de manejo especial que sean generados en el Estado, deberán ser manejados conforme a lo dispuesto en el presente Libro y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+5. Cualquier persona física o moral que lleva a cabo la disposición final de residuos sólidos urbanos y residuos de manejo especial, deberá considerar las especificaciones, características y condiciones mínimas de un Centro de Manejo Integral de Residuos, para su instalación y operación, contemplando la normatividad aplicable vigente.
 
 ###### ARTICULO 139.
 
@@ -2733,7 +2845,9 @@ IV. Contar con personal capacitado y continuamente actualizado;
 
 V. Otorgar garantías para asegurar que al cierre de las operaciones de sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud de las personas, los recursos naturales, el medio ambiente y los ecosistemas; y
 
-VI. Obtener una autorización en materia de impacto ambiental, en caso de que sea necesario en términos de las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Obtener autorización en materia de impacto ambiental.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -2875,7 +2989,9 @@ Los residuos que hayan sido seleccionados para su reciclaje y que por sus caract
 
 1. Los lineamientos sobre las características apropiadas de los residuos para la producción de composta o criterios para cada tipo de composta, se fijarán en las Normas Ambientales Estatales que al efecto se expidan.
 
-2. La composta que no pueda ser aprovechada deberá ser enviada a los rellenos sanitarios para su disposición final.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+2. La composta que no pueda ser aprovechada deberá ser enviada a sitios de disposición final de residuos autorizados por la Secretaría.
 
 ###### ARTICULO 164.
 
@@ -4183,7 +4299,13 @@ DEL PROCEDIMIENTO POR DAÑO AMBIENTAL.
 
 1. Sin demérito de las responsabilidades penales, civiles y administrativas que procedan, quienes infrinjan daños ambientales causados en el territorio estatal, por acción u omisión, serán sujetos al procedimiento de cuantificación y compensación por daño ambiental.
 
-2. En lo aplicable, el procedimiento por daño ambiental se tramitará conforme a las disposiciones del Título Primero de éste Libro.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+2. El procedimiento por daño ambiental tiene como objeto la restauración del medio ambiente y, en su defecto, el resarcimiento económico por el daño ocasionado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+3. Cuando el procedimiento por daño ambiental sea promovido por el responsable, sin que exista por parte de la Secretaría instaurado un procedimiento de inspección y vigilancia, en lo conducente, se tramitará conforme a las disposiciones del Título Primero de este Libro.
 
 ###### ARTICULO 270.
 
@@ -4207,17 +4329,19 @@ V. El que contamine o deteriore el ambiente o afecte los recursos naturales o la
 
 VI. El que por acción u omisión genere un daño ambiental.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTICULO 271.
+###### ARTÍCULO 271.
 
-El procedimiento por daño ambiental podrá ser iniciado por la Secretaría, la cual ordenará las medidas de seguridad, correctivas o de urgente aplicación que procedan.
+1. Cuando la Secretaría con motivo de sus facultades de inspección y vigilancia, advierta la actualización de alguno de los supuestos del artículo 270 de este Código, seguirá el procedimiento administrativo establecido en el Capítulo Único del Título Segundo del Libro Séptimo, y dentro del acuerdo de emplazamiento, le requerirá al particular para que dentro de los quince días hábiles siguientes presente un estudio de daño ambiental, exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la Secretaría o los Ayuntamientos, cuando les corresponda.
+
+2. Dentro del acuerdo de emplazamiento, la Secretaría ordenará las medidas correctivas o de urgente aplicación que procedan.
 
 ###### ARTICULO 272.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-1. Sin demérito de las facultades de la Secretaría, los responsables de las obras o actividades referidas en el artículo 270, podrán solicitar voluntariamente de la Secretaría la evaluación de un estudio de daños ambientales bajo los lineamientos que para tal efecto formule la propia Secretaría.
+1. Conforme a lo dispuesto en el artículo 271 de este Código, los responsables de las obras o actividades referidas en el artículo 270 del presente Código, deberán someter a consideración de la Secretaría la evaluación de un estudio de daños ambientales bajo los lineamientos que para tal efecto formule la propia Secretaría.
 
 2. El estudio deberá contener, por lo menos:
 
@@ -4229,17 +4353,23 @@ III. Análisis, en su caso, del riesgo; y
 
 IV. Propuesta de medios de mitigación y compensación a los impactos identificados.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+3. Cuando la evaluación del estudio de daños ambientales se presente dentro del plazo otorgado en el acuerdo de emplazamiento efectuado con motivo de un procedimiento de inspección y vigilancia, el dictamen que se emita en términos del artículo 275 del presente Código, se deberá de tomar en consideración al momento de emitir la resolución definitiva en el procedimiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 273.
 
-En cualquier momento del procedimiento de evaluación del daño ambiental, la Secretaría podrá suspender las obras o actividades iniciadas, cuando el impacto adverso ocasionado haya atentado, atente o pueda ocasionar afectaciones contra la salud de las personas, o riesgo para el equilibrio ecológico, los ecosistemas o los recursos que lo integran, y los bienes y propiedades pertenecientes a los particulares.
+1. Durante el desarrollo de la visita de inspección y vigilancia o en cualquier momento dentro del procedimiento, la Secretaría podrá imponer las medidas de seguridad que correspondan, en términos del artículo 294 del presente Código. La Secretaría podrá ordenar el levantamiento de la medida de seguridad, cuando se cumpla con lo dispuesto en el primer párrafo del artículo 274 de este Código.
+
+2. Sin perjuicio de lo anterior, en cualquier momento del procedimiento de evaluación del daño ambiental, la Secretaría podrá suspender las obras o actividades iniciadas, cuando el impacto adverso ocasionado haya atentado, atente o pueda ocasionar afectaciones contra la salud de las personas, o riesgo para el equilibrio ecológico, los ecosistemas o los recursos que lo integran, y los bienes y propiedades pertenecientes a los particulares.
 
 ###### ARTICULO 274.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-1. La recepción del estudio para la evaluación por daño ambiental a cargo de la Secretaría no presupone la autorización de la obra o actividad causante del daño; sin embargo, el interesado podrá solicitar autorización para continuar con la misma durante el procedimiento de su evaluación, para lo cual deberá garantizar fehacientemente, a juicio de la Secretaría, la reparación del probable daño ambiental causado o que pudiere causar y las sanciones por las violaciones al Código en las que hubiere incurrido.
+1. La recepción del estudio para la evaluación por daño ambiental a cargo de la Secretaría no presupone la autorización de la obra o actividad causante del daño; sin embargo, el interesado podrá solicitar autorización para continuar con la misma durante el procedimiento de su evaluación, para lo cual deberá de tramitar de forma conjunta, cuando proceda, la autorización en materia de impacto ambiental en términos del artículo 60 Bis de este Código y garantizar fehacientemente, a juicio de la Secretaría, la reparación del probable daño ambiental causado o que pudiere causar.
 
 2. La solicitud referida en el párrafo anterior deberá presentarse bajo protesta de decir verdad, conteniendo la descripción de los actos y omisiones que causaron el procedimiento.
 
@@ -4267,25 +4397,47 @@ VI. La actuación en áreas naturales protegidas.
 
 1. Una vez recibido el estudio por daño ambiental, la Secretaría, lo evaluará y, considerando la gravedad del daño ambiental, el lucro obtenido por el responsable, los beneficios o perjuicios al desarrollo sustentable regional que pudiera generar la obra o actividad de que se trate, el impacto al ambiente ocurrido previamente a la causal del procedimiento y la reincidencia del responsable, podrá:
 
-I. Autorizar la obra o actividad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II. Autorizar la obra o actividad de manera condicionada; y
+I. Dictaminar favorablemente y en sus términos;
 
-III. Negar definitivamente la autorización para la obra o actividad.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-2. Así mismo, el dictamen contendrá los montos, conceptos, condiciones y alcances técnicos de la reparación del daño ambiental causado.
+II. Dictaminar de manera condicionada; o
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Dictaminar de manera negativa.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+2. El dictamen deberá contener los montos, conceptos, condiciones y alcances técnicos de la reparación del daño ambiental causado.
 
 3. En todo caso, se aplicará la garantía presentada por el particular para la autorización provisional de la continuación de la obra o actividad.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+4. El dictamen por daño ambiental, no presupone la autorización en materia de impacto ambiental, riesgo o informe preventivo, por lo que el particular que deseé continuar con las actividades de que se trate, estará obligado a continuar con el trámite de la autorización en materia ambiental que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+5. La presentación del estudio de daño ambiental, con motivo del requerimiento efectuado en el acuerdo de emplazamiento dentro un procedimiento de inspección y vigilancia, no suspende el procedimiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 276.
 
-En los casos en que la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos, conforme a lo previsto en el Código Penal para el Estado, deberá formular y presentar la denuncia ante la autoridad competente de procuración de justicia.
+1. El dictamen emitido por la Secretaría en términos del artículo 275 de este Código, es independiente de las sanciones a que se haga acreedor el responsable, no obstante, la presentación del estudio de daño ambiental será considerada como atenuante al momento de imponer las sanciones que correspondan.
+
+2. En los casos en que la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos, conforme a lo previsto en el Código Penal para el Estado de Tamaulipas, deberá formular y presentar la denuncia ante la autoridad competente de procuración de justicia.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 277.
 
-En los casos de personas morales responsables de daños ambientales o contra la gestión ambiental, sus representantes serán subsidiaria y solidariamente responsables, de conformidad a las disposiciones legales correspondientes.
+1. Se considera responsable al que conforme a la legislación aplicable tenga la calidad de propietario, poseedor o análogo, del área en que se desarrollen los supuestos a que se refiere el artículo 270 de este Código, de igual manera, se consideran corresponsables a los propietarios de bienes muebles directamente relacionados, salvo prueba en contrario.
+
+2. En los casos de personas morales responsables de daños ambientales o contra la gestión ambiental, sus representantes serán subsidiaria y solidariamente responsables, de conformidad con las disposiciones legales correspondientes.
 
 # LIBRO SEPTIMO. DE LOS PROCEDIMIENTOS ESPECIALES Y LAS SANCIONES
 
@@ -4351,9 +4503,53 @@ La Secretaría, a más tardar dentro de los quince días hábiles siguientes a l
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### ARTICULO 284.
 
-Las disposiciones de este Libro se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y sus sanciones, según corresponda, cuando se trate de asuntos regulados por el presente Código.
+Las disposiciones de este Libro se aplicarán en la realización de requerimientos administrativos ambientales, actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y sus sanciones, según corresponda, cuando se trate de asuntos regulados por el presente Código, reglamentos y demás disposiciones que del mismo deriven.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 284 BIS.
+
+1. El requerimiento administrativo ambiental será formulado para verificar el cumplimiento de obligaciones formales por parte de las personas físicas o morales que cuenten con permisos, concesiones, autorizaciones o análogas, que deban ser presentadas periódicamente, o por única ocasión, ante la Secretaría.
+
+2. Se consideran obligaciones formales, entre otras, las siguientes:
+
+I. Cédulas de Operación Anual; altas, bajas y modificaciones;
+
+II. Planes de Manejo;
+
+III. Avisos de inicio, suspensión y conclusión de proyectos con autorización de impacto ambiental;
+
+IV. Documentación comprobatoria de condicionantes;
+
+V. Bitácoras; en el caso de aprovechamientos realizados al amparo de concesiones;
+
+VI. Cumplimiento de condicionantes; en los términos que se establezcan en el permiso, autorización, concesión o análogo, según se trate. En este supuesto, la sanción que, en su caso corresponda, se aplicará por cada una de las condicionantes incumplidas;
+
+VII. Estudios, tramites, autorizaciones de otras autoridades, y cualquier requisito establecido en las autorizaciones, concesiones, permisos o análogos, según se trate;
+
+VIII. Informes de cumplimiento de medidas correctivas o de urgente aplicación, con su documentación comprobatoria; y
+
+IX. Las que deriven de este Código y sus reglamentos, así como de los actos de autoridad emitidos por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 284 TER.
+
+1. El requerimiento administrativo ambiental es procedente cuando los obligados en la presentación de trámites ambientales, informes, documentación comprobatoria y demás obligaciones de carácter formal en términos del artículo 284 Bis sean omisos en presentarlos y se seguirá conforme al siguiente procedimiento:
+
+I. El procedimiento se inicia con un acuerdo de requerimiento al obligado para que en un término de quince días hábiles cumpla con la obligación formal omitida.
+
+En caso de que el requisito o trámite requiera la substanciación de un procedimiento administrativo ante autoridad diversa, bastará con la presentación del acuse de recibido del escrito o solicitud con la que se ha iniciado el trámite correspondiente para dar por cumplido el requerimiento;
+
+II. El acuerdo será notificado de manera personal en el domicilio del obligado o aquel que conste en el registro de la Secretaría, aplicando las reglas para las notificaciones establecidas por el artículo 290 Bis del presente Código;
+
+III. En caso de incumplimiento al requerimiento una vez transcurrido el plazo otorgado, sin mayor trámite se impondrá al obligado una de las sanciones establecidas por el artículo 304 del presente Código.
+
+2. En caso de que el infractor dé cumplimiento dentro del plazo otorgado, será considerado como atenuante al momento de imponer la sanción.
 
 ###### ARTICULO 285.
 
@@ -4425,17 +4621,69 @@ La autoridad competente podrá solicitar el auxilio de la fuerza pública para e
 
 4. Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere, en caso de que el interesado no haya hecho uso del derecho que le concede el párrafo anterior dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 BIS.
+
+1. Las notificaciones de los actos administrativos dictados con motivo de la aplicación de este Código, se realizarán:
+
+I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las unidades administrativas competentes de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
+
+II. Por lista, colocada en los estrados de la unidad administrativa competente, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente Título, o cuando no hubiera señalado domicilio en la población donde se encuentre ubicada la sede de la autoridad ordenadora;
+
+III. Por edicto, toda notificación cuando se desconozca el domicilio del interesado o, en su caso, cuando la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
+
+Tratándose de actos distintos a los señalados en la fracción I de este artículo, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro similar o en las oficinas de las unidades administrativas de la Secretaría, si se presentan las personas que han de recibirlas a más tardar dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por lista, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse, el cual se fijará en lugar visible de las oficinas de las unidades administrativas de la Secretaría.
+
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren (sic) a las oficinas de las unidades administrativas de la Secretaría, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se darán por hechas, y surtirán sus efectos el día hábil siguiente al de la fijación de la lista.
+
+De toda notificación por lista se agregará, al expediente, un tanto de aquel, asentándose la razón correspondiente; y
+
+IV. Por instructivo, solamente en el caso señalado en el tercer párrafo del artículo 290 Ter del presente Código.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 TER.
+
+1. Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la sede de las unidades administrativas de la Secretaría, o bien, personalmente en el recinto oficial de éstas, cuando comparezcan voluntariamente a recibirlas en los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+2. Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo, o con el vecino más inmediato.
+
+3. Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o, en su caso, de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+4. De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 QUATER.
+
+Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Periódico Oficial del Estado y en uno de los periódicos diarios de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 QUINQUIES.
+
+1. Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que se haya surtido efectos la notificación.
+
+2. Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
+
+3. En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Estado y en uno de los periódicos diarios de mayor circulación en el Estado.
+
+4. Las notificaciones por lista surtirán sus efectos al día hábil siguiente al de la fijación del mismo.
+
 ###### ARTICULO 291.
 
 1. En la resolución administrativa correspondiente se señalarán o, en su caso, adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
 
 2. Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora haber dado cumplimiento a los términos del requerimiento respectivo. En los casos en que el infractor cumpla con las medidas ordenadas por la autoridad, o subsane las irregularidades que motivaron la imposición de la sanción, la autoridad podrá modificar o revocar la sanción impuesta. Para ello, el infractor no deberá ser reincidente.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 292.
 
-Cuando así proceda, la Secretaría o los Ayuntamientos, en su caso, harán del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
+1. Los hechos que se conozcan con motivo del ejercicio de las facultades de vigilancia e inspección previstas en este Código, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder la Secretaría o los Ayuntamientos, en su caso, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría o los Ayuntamientos, según sea el caso.
+
+2. Cuando así proceda, la Secretaría o los Ayuntamientos, en su caso, harán del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
 ## TITULO TERCERO
 
@@ -4451,9 +4699,9 @@ Cuando así proceda, la Secretaría o los Ayuntamientos, en su caso, harán del 
 
 ###### ARTICULO 294.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-1. Cuando la Secretaría o los Ayuntamientos, en caso de su competencia, estimen que existe riesgo inminente de desequilibrio ecológico, de daño o deterioro graves a los elementos y recursos naturales; casos de contaminación con repercusiones peligrosas para la salud de las personas, los ecosistemas o sus componentes, podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
+1. Cuando la Secretaría o los Ayuntamientos, en el ámbito de su competencia, estimen que existe riesgo inminente de desequilibrio ecológico, de daño o deterioro graves a los elementos y recursos naturales, o se realicen obras o actividades sin contar con la autorización de impacto ambiental o riesgo debiendo sujetarse a la obtención previa de ésta, casos de contaminación con repercusiones peligrosas para la salud de las personas, los ecosistemas o sus componentes, podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
 
 I. La clausura temporal parcial o total, de las fuentes contaminantes, de las instalaciones en que se manejen o almacenen productos o subproductos de sustancias contaminantes, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el presente artículo;
 
@@ -4509,9 +4757,7 @@ Cuando proceda como sanción la clausura temporal o definitiva, total o parcial,
 
 ###### ARTICULO 299.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-1. Las infracciones a las disposiciones de este Código que no cuenten con una sanción en específico, serán resueltas mediante la amonestación y en caso de reincidencia, se aplicará multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+1. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 2. Los Ayuntamientos regularán las sanciones administrativas por violaciones a los reglamentos que expidan en esta materia.
 
@@ -4539,7 +4785,9 @@ V. Existan obligaciones incumplidas en materia de impacto ambiental; y
 
 VI. Cualquier otra que señale la legislación aplicable.
 
-3. La amonestación escrita, la multa y el arresto administrativo podrán ser conmutados por trabajo comunitario en actividades de conservación de la vida silvestre y su hábitat natural.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+3. La multa y el arresto administrativo podrán ser conmutados por trabajo comunitario en actividades de conservación de la vida silvestre y su hábitat natural.
 
 ###### ARTICULO 301.
 
@@ -4571,73 +4819,53 @@ DE LAS SANCIONES POR ACTOS EN CONTRA DEL MEDIO AMBIENTE.
 
 ###### ARTICULO 304.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-1. Las violaciones a los preceptos de este Código, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+1. Las violaciones a los preceptos de este Código, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de su competencia, de la siguiente forma:
 
-I. Amonestación a quien;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-a) No presente información solicitada por autoridad competente en materia ambiental; y
+I. Multa por el equivalente de treinta a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
 
-b) Incumpla con la presentación en tiempo y forma de la cédula de operación anual.
+Para efectos de esta fracción, se consideran infracciones administrativas, entre otras, las siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+a) No presentar información solicitada por autoridad competente en materia ambiental;
 
-II. Multa equivalente de diez a cien veces el valor diario de la Unidad de Medida y Actualización a quien:
+b) Incumplir con la presentación en tiempo y forma de la cédula de operación anual;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+c) Incumplir con las medidas de ahorro de agua potable;
 
-a) Incumpla las medidas de ahorro de agua potable;
+d) No presentar la cédula de operación anual en los términos solicitados por la Secretaría o los Ayuntamientos, cuando les corresponda;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+e) Trasplantar un árbol público o afectar negativamente áreas verdes o jardineras públicas, incluyendo las localizadas en banquetas y camellones, sin la autorización previa de la autoridad competente;
 
-b) Habiendo sido amonestado haga caso omiso a las disposiciones establecidas por el Estado o los Ayuntamientos;
+f) Rebasar los límites permisibles de ruido, vibraciones, energía térmica y lumínica, vapores, gases u olores;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+g) No respetar los límites o disposiciones establecidos por autoridad competente, en materia de emisiones a la atmósfera por fuente fija;
 
-c) No cumpla con las disposiciones establecidas en materia de emisiones a la atmósfera generadas por fuente móvil; o
+h) Operar sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+i) Construir una obra nueva, ampliar una existente o realizar nuevas actividades industriales, comerciales o de servicios, que puedan ocasionar un daño al medio ambiente, sin contar con resolutivo en materia de impacto ambiental;
 
-d) Trasplante un árbol público o afecte negativamente áreas verdes o jardineras públicas, incluyendo las localizadas en banquetas y camellones, sin la autorización previa de la autoridad competente.
+j) Obstruir la labor del personal autorizado al realizar la inspección ambiental fundamentada por orden escrita;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2018)</small>
+k) Conducirse con falsedad en los informes preventivos, manifestaciones de impacto ambiental, estudios de riesgo o estudios de daños ambientales;
 
-III. Multa equivalente del 1.5% al 2.0% del Presupuesto de Egresos correspondiente, a los ayuntamientos que incumplan con lo dispuesto en el párrafo tercero del artículo 158 del Código Municipal para el Estado de Tamaulipas. Esta multa aplicará también en sus términos para los Organismos Operadores Municipales responsables de prestar servicios públicos de agua, drenaje, alcantarillado, tratamiento y disposición del agua.
+l) No aplicar las medidas de urgente aplicación en tiempo y forma, impuestas como resultado del procedimiento de inspección ambiental;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2018)</small>
+m) Realizar obras o actividades que dañen gravemente el medio ambiente o que pongan en peligro la salud de las personas;
 
-Asimismo, multa equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización a quien:
+n) No reparar cuando se realicen obras o actividades afectadas de exploración, explotación o manejo de minerales o cualquier depósito del subsuelo, los daños ecológicos causados al suelo, subsuelo y estructuras geomorfológicas;
 
-a) Rebase los límites permisibles de ruido, vibraciones, energía térmica, y lumínica, vapores, gases u olores;
+o) No cumplir con los términos y condicionantes establecidas en el resolutivo de impacto ambiental, autorización, permiso, concesión o análogos emitidos por la Secretaría o el Ayuntamiento, según se trate. En este caso, se sancionará individualmente por cada término y condicionante incumplido;
 
-b) No respete los límites o disposiciones establecidos por autoridad competente, en materia de emisiones a la atmósfera por fuente fija;
+p) No cumplir con las obligaciones formales a que hace referencia el artículo 284 Bis de este Código; y
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+q) Incumplir lo establecido en este Código, sus reglamentos y demás disposiciones que del mismo deriven.
 
-c) Posterior a la amonestación, no presente la cédula de operación anual en los términos solicitados por la Secretaría o los Ayuntamientos, cuando les corresponda;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-d) Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales;
-
-e) Construya una obra nueva, amplíe una existente o realice nuevas actividades industriales, comerciales o de servicios, que puedan ocasionar un daño al medio ambiente, sin contar con resolutivo en materia de impacto ambiental o haga caso omiso a las condicionantes establecidas en dicha disposición;
-
-f) Obstruya la labor del personal autorizado al realizar la inspección ambiental fundamentada por orden escrita; o
-
-g) Se conduzca con falsedad en los informes preventivos, manifestaciones de impacto ambiental, estudios de riesgo o estudios de daños ambientales.
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-IV. Multa equivalente de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización a quien no aplique las medidas de urgente aplicación en tiempo y forma, impuestas como resultado de procedimiento de inspección ambiental;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-V. Multa equivalente de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización a quien:
-
-a) Realice obras o actividades que dañen gravemente el medio ambiente o que pongan en peligro la salud de las personas; o
-
-b) Se abstenga de reparar cuando se realicen obras o actividades afectadas de exploración, explotación o manejo de minerales o cualquier depósito del subsuelo, los daños ecológicos causados al suelo, subsuelo y estructuras geomorfológicas.
-
-VI. Clausura temporal o definitiva, parcial o total, cuando:
+II. Clausura temporal o definitiva, parcial o total, cuando:
 
 a) El infractor hubiere incumplido dentro de los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
 
@@ -4645,15 +4873,33 @@ b) En casos de reincidencia cuando las infracciones generen efectos adversos al 
 
 c) En casos de incumplimiento en tres o más ocasiones, a alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad.
 
-VII. Arresto administrativo hasta por treinta y seis horas, en los siguientes casos:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Arresto administrativo hasta por treinta y seis horas, en los siguientes casos:
 
 a) Cuando derivado de dos o más visitas de inspección en el transcurso de un año, el propietario, poseedor o responsable del establecimiento hubiere incumplido con las medidas técnicas y de seguridad que la autoridad respectiva haya decretado, y que con tal omisión se causara o hubiese causado grave deterioro ambiental con repercusiones graves para la salud de las personas o los ecosistemas; o
 
 b) Cuando habiéndose decretado como medida de seguridad una suspensión temporal parcial o total en los casos previstos por el presente Código, el propietario, poseedor o responsable del establecimiento no hubiese acatado tal medida, inclusive para el caso de rompimiento de sellos de clausura, sin perjuicio de la denuncia en su caso ante el Ministerio Público por el delito o delitos que resulten o pudiesen resultar.
 
-VIII. La revocación del permiso, licencia o autorización que en el ámbito de su competencia hubieren otorgado, cuando así lo amerite la naturaleza y gravedad de la infracción; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IX. La reparación del daño ambiental, bajo los términos que la autoridad ambiental competente establezca para su cumplimiento.
+IV. La revocación del permiso, licencia o autorización que en el ámbito de su competencia hubieren otorgado, cuando así lo amerite la naturaleza y gravedad de la infracción; y
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. El decomiso de los instrumentos, productos o subproductos directamente relacionados con infracciones relativas a lo dispuesto en el presente Código, cuando:
+
+a) El emplazado y directamente responsable, no presente el estudio de daño ambiental requerido en términos de lo dispuesto en el artículo 271 del presente Código. En este supuesto, en caso de haberse impuesto como medida de seguridad el aseguramiento, éstos se constituirán como bienes decomisados para hacer efectiva esta disposición, quedando sin materia el aseguramiento.
+
+b) Cuando los instrumentos, productos o subproductos, provengan de actividades ilícitas en términos del artículo 270, fracción II de este Código.
+
+VI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+VII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+VIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 2. A su vez, la autoridad ambiental competente podrá solicitar a quien los hubiere otorgado, la suspensión, revocación, o cancelación de la concesión, permiso, licencia y, en general, de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios o para el aprovechamiento de recursos naturales que haya dado lugar a la sanción impuesta en términos de este artículo.
 
@@ -4661,57 +4907,109 @@ IX. La reparación del daño ambiental, bajo los términos que la autoridad ambi
 
 4. En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder el doble del máximo permitido, así como la clausura definitiva. Son reincidentes las personas declaradas infractoras por haber incurrido en igual acto u omisión en un lapso no mayor de cinco años.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 304 BIS.
+
+1. Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
+
+2. En el caso de decomiso, se requerirá al depositario la entrega o puesta a disposición de los bienes ante la Secretaría o Ayuntamiento, según se trate, quien una vez que cause estado la resolución que ordena el decomiso, procederá en términos del artículo 304 Ter.
+
+3. En los casos en que se imponga como sanción la clausura temporal, la Secretaría deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 304 TER.
+
+1. La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
+
+I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa;
+
+II. Remate en subasta pública cuando el valor de lo decomisado exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción;
+
+III. Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas, o
+
+IV. Destrucción cuando las condiciones del bien lo justifiquen.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 304 QUATER.
+
+1. Para efectos de lo previsto en las fracciones I y II del artículo anterior, únicamente serán procedentes dichos supuestos, cuando los bienes decomisados sean susceptibles de apropiación, conforme a las disposiciones jurídicas aplicables.
+
+2. En la determinación del valor de los bienes sujetos a remate o venta, la Secretaría considerará el precio que respecto de dichos bienes corra en el mercado, al momento de realizar la operación.
+
+3. En ningún caso, los responsables de la infracción que hubiera dado lugar al decomiso podrán participar ni beneficiarse de los actos señalados en el artículo 304 Ter de este Código, mediante los cuales se lleve a cabo la enajenación de los bienes decomisados.
+
 ### CAPITULO III
 
 DE LAS SANCIONES POR EL MANEJO DE RESIDUOS.
 
 ###### ARTICULO 305.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Las violaciones a los preceptos del Libro Tercero del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+Las violaciones a los preceptos del Libro Tercero del presente ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
 
-I. Multa equivalente de 20 a 100 días de salario mínimo vigente en la capital del Estado a quien, deposite, incentive, abandone, derrame o queme residuos sólidos urbanos en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predio de propiedad privada y cuerpos o corrientes de agua de competencia estatal;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II. Multa equivalente de 100 a 500 días de salario mínimo vigente en la capital del Estado a quien:
+I. Multa por el equivalente de 20 a 50 mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción.
 
-a) No respete los límites o disposiciones establecidos por autoridad competente, en materia de descargas de aguas residuales o que como consecuencia de su acción se perjudiquen las redes de drenaje y alcantarillado o cuerpos receptores de los Municipios; o
+Para efectos de esta fracción, se consideran infracciones administrativas, entre otras, las siguientes:
 
-b) Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales.
+a) Depositar, incentivar, abandonar, derramar o quemar residuos sólidos urbanos en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predios de propiedad privada y cuerpos o corrientes de agua de competencia estatal;
 
-III. Multa equivalente de 1,000 a 5,000 días de salario mínimo vigente en la capital del Estado a quien:
+b) Rebasar los límites o disposiciones establecidos por autoridad competente, en materia de descargas de aguas residuales o que como consecuencia de su acción se perjudiquen las redes de drenaje y alcantarillado o cuerpos receptores de los Municipios;
 
-a) Genere, maneje o disponga residuos de manejo especial sin previa autorización;
+c) Operar sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales;
 
-b) Deposite, incentive, abandone, derrame o queme residuos de manejo especial en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predio de propiedad privada y cuerpos o corrientes de agua de competencia estatal; o
+d) Generar, manejar o disponer residuos de manejo especial sin previa autorización;
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+e) Depositar, incentivar, abandonar, derramar o quemar residuos de manejo especial en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predios de propiedad privada y cuerpos o corrientes de agua de competencia estatal;
 
-c) Autorice el uso para la disposición de residuos de manejo especial o sólidos urbanos sin la autorización de la Secretaría.
+f) Autorizar el uso para la disposición de residuos de manejo especial o sólidos urbanos sin la autorización de la Secretaría;
+
+g) Desarrollar cualquiera de las etapas de manejo de residuos de manejo especial y/o sólidos urbanos, sin contar con la autorización de la Secretaría o el Ayuntamiento, según corresponda;
+
+h) Incumplir con los términos y condicionantes establecidos en las autorizaciones otorgadas para desarrollar cualquiera de las etapas de manejo de residuos de manejo especial y/o sólidos urbanos, según corresponda. En este caso, se sancionará individualmente cada incumplimiento; e
+
+i) Incumplir con lo dispuesto en el Libro Tercero de este ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven.
+
+II. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS POR ACTOS EN CONTRA DE LAS AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 306.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Las violaciones a los preceptos del Libro Cuarto del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+Las violaciones a los preceptos del Libro Cuarto del presente ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-I. Multa equivalente de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización a quien, realice obras o actividades de explotación o aprovechamiento de recursos, que no estén autorizadas, en áreas naturales protegidas de competencia estatal; y
+I. Multa por el equivalente de 30 a 50 mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+Se consideran infracciones administrativas, entre otras, las siguientes:
 
-II. Multa equivalente de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización a quien, ocasione, como consecuencia de su acción, un daño sobre cualquier área natural protegida de competencia estatal.
+a) Realizar obras o actividades de explotación o aprovechamiento de recursos, que no estén autorizadas, en áreas naturales protegidas de competencia estatal;
+
+b) Ocasionar, por acción u omisión, un daño sobre cualquier área natural protegida de competencia estatal;
+
+c) Realizar obras y/o actividades, dentro de áreas naturales protegidas de competencia estatal, sin contar con el dictamen de conveniencia emitido por la Secretaría; y
+
+d) Todas aquellas que deriven de la aplicación de este Código, sus reglamentos y demás disposiciones que del mismo deriven.
+
+II. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
 
 ### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS POR ACTOS EN CONTRA DE LA VIDA SILVESTRE
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 307.
 
-Las violaciones a los preceptos del Libro Quinto del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, conforme a lo que se establezca en los Convenios de Colaboración y Coordinación que estos celebren con la Federación, referentes a la materia de protección a la Vida Silvestre.
+Las violaciones a los preceptos del Libro Quinto del presente ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, conforme a lo que se establezca en los Convenios de Colaboración y Coordinación que estos celebren con la Federación, referentes a la materia de protección a la Vida Silvestre.
 
 # LIBRO OCTAVO. DE LOS MEDIOS DE IMPUGNACION
 
@@ -4857,21 +5155,29 @@ V. En los demás casos en que por disposición legal haya impedimento para emiti
 
 3. Dicha resolución se notificará al interesado, personalmente o por correo certificado.
 
-### CAPITULO II. DEL JUICIO DE NULIDAD ANTE EL TRIBUNAL FISCAL DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO II. DEL JUICIO DE NULIDAD ANTE EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 318.
 
-Contra el acuerdo o la resolución del recurso de revisión que ponga fin al mismo, emitidos por la autoridad administrativa correspondiente, el interesado podrá interponer el juicio de nulidad ante el Tribunal Fiscal del Estado.
+Contra el acuerdo o la resolución del recurso de revisión que ponga fin al mismo, emitidos por la autoridad administrativa correspondiente, el interesado podrá interponer el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado.
 
 ###### ARTICULO 319.
 
-1. El juicio de nulidad se interpondrá dentro de los quince días siguientes aquél en el cual surta efectos la notificación de la resolución impugnada.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-2. El recurrente presentará la demanda de juicio de nulidad ante la autoridad que le haya notificado la resolución, teniendo esta la obligación de remitirlo al Tribunal Fiscal del Estado en un plazo no mayor de tres días hábiles siguientes al de su presentación. En estos casos se tendrá como fecha de presentación del escrito respectivo la del día en que se haga a la autoridad que efectuó la notificación.
+1. El juicio de nulidad se interpondrá ante el Tribunal de Justicia Administrativa del Estado, dentro de los plazos y en los términos establecidos en la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
+
+2. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 320.
 
-Para la tramitación del juicio de nulidad se estará a lo dispuesto por el Código Fiscal del Estado, en lo relativo al mismo.
+Para la tramitación del juicio de nulidad se estará a lo dispuesto en la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
 
 ## TRANSITORIOS
 
@@ -5026,3 +5332,31 @@ P.O. 23 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-830 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular de la Secretaría de Desarrollo Urbano y Medio Ambiente, dentro de los 60 días hábiles siguientes, a partir de la entrada en vigor del presente Decreto, deberá presentar al Ejecutivo del Estado, las modificaciones a los reglamentos que correspondan, para ajustarlos a lo dispuesto en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se armoniza la normatividad reglamentaria que se ve modificada por la entrada en vigor del presente Decreto conforme a lo dispuesto en el artículo anterior, en lo conducente, se estará a lo dispuesto en los reglamentos respectivos, en tanto no se oponga al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El titular de la Secretaría de Desarrollo Urbano y Medio Ambiente, dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, deberá emitir la Norma Ambiental Estatal para Centros de Manejo Integral de Residuos.
+
+###### ARTÍCULO QUINTO.
+
+Los municipios y/o quienes operen sitios de disposición final de residuos sólidos urbanos y/o de manejo especial, contarán con un plazo de cinco años a partir de la emisión de la Norma Ambiental Estatal para Centros de Manejo Integral de Residuos, para realizar las adecuaciones técnicas y presupuestales necesarias para cumplir con lo señalado en el numeral 5 del artículo 138 del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan aquellas disposiciones que se opongan al presente Decreto.
