@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2021-07-14"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -229,7 +229,9 @@ d).- Recibir el apoyo de las autoridades del Estado, en lo relativo al ejercicio
 
 e).- Contar con servicios de asistencia, asesoría jurídica y representación legal, cuando en circunstancias especiales lo requiera.
 
-III.- A la salud y alimentación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III.- A la protección de la salud y la alimentación:
 
 a).- Tener acceso a los satisfactores necesarios, para su atención integral;
 
@@ -956,3 +958,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-835 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5, FRACCIÓN III DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
