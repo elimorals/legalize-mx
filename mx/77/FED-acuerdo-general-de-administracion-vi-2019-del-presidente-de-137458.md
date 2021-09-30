@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vi-2019-del-presidente-de-137
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-08-08"
-last_updated: "2019-08-08"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-07-11"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN VI/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE 2019, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LAS PLAZAS, INGRESOS, NOMBRAMIENTOS, LICENCIAS, COMISIONES, READSCRIPCIONES, SUSPENSIÓN Y TERMINACIÓN DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS Y QUE REGULA LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2021.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de agosto de 2019.
 
@@ -403,7 +403,9 @@ A partir de la fecha de notificación del ganador del concurso escalafonario, se
 
 Los nombramientos interinos se otorgarán por la sustitución temporal del titular de una plaza, en los casos siguientes:
 
-I. Licencias por maternidad, prejubilatorias y comisión sindical, hasta por el tiempo señalado en la licencia;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO X/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Licencias por maternidad, paternidad, adopción, prejubilatorias y comisión sindical, hasta por el tiempo señalado en la licencia;
 
 II. Licencias por enfermedad emitidas por el ISSSTE, de 30 días o más; y
 
@@ -500,6 +502,20 @@ IX. Asuntos personales graves y/o urgentes; y
 X. Las que determinen, en su caso, el Presidente o el Comité de Gobierno.
 
 Las licencias médicas por enfermedad y por maternidad, serán expedidas por el ISSSTE, o en su caso, ésta última por Servicios Médicos, por el tiempo consignado en ellas en términos de la normativa aplicable.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO X/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 29 Bis.
+
+La licencia por paternidad comprenderá noventa días consecutivos.
+
+Los servidores públicos podrán solicitarla a partir del nacimiento de la hija o del hijo, o dentro de los nueve meses siguientes a la fecha del mismo.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO X/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 29 Ter.
+
+Las personas servidoras públicas a quienes se conceda la adopción de un infante disfrutarán de una licencia con goce de sueldo por noventa días consecutivos. En este supuesto también se incluirá a los progenitores por gestación subrogada.
 
 ###### ARTÍCULO 30.
 
@@ -772,3 +788,19 @@ Así lo acordó y firma el señor Ministro Arturo Zaldívar Lelo de Larrea, Pres
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Director General de Asuntos Jurídicos, Juan Sebastián Francisco de Asís Mijares Ortega.- Rúbrica.
 
 EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 9, FRACCIÓN X, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia del “ACUERDO GENERAL DE ADMINISTRACIÓN VI/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE 2019, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LAS PLAZAS, INGRESOS, NOMBRAMIENTOS, LICENCIAS, COMISIONES, READSCRIPCIONES, SUSPENSIÓN Y TERMINACIÓN DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS Y QUE REGULA LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS.”, constante de cincuenta y nueve fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General. Ciudad de México, once de julio de dos mil diecinueve.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO X/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIDÓS DE SEPTIEMBRE DE DOS MIL VEINTIUNO, EN MATERIA DE OTORGAMIENTO DE LICENCIAS DE PATERNIDAD Y ADOPCIÓN EN FAVOR DE LAS PERSONAS SERVIDORAS PÚBLICAS DE ESTE ALTO TRIBUNAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN VI/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE 2019”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el primero de octubre de dos mil veintiuno.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración VI/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de once de julio de 2019, por el que se establecen las normas relativas a las plazas, ingresos, nombramientos, licencias, comisiones, readscripciones, suspensión y terminación del nombramiento de los servidores públicos y que regula la administración de los recursos humanos de este Alto Tribunal, salvo los de sus Salas, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. Se autoriza a la persona titular de la Oficialía Mayor de la Suprema Corte de Justicia de la Nación, a expedir o reformar la normativa, en el ámbito de sus atribuciones, que sea necesaria para dar cumplimiento a lo dispuesto en el presente Acuerdo General de Administración.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
