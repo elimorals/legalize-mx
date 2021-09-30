@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2019-11-22"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "QUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -431,11 +433,11 @@ En materia de movilidad urbana no motorizada los Municipios diseñarán e instru
 
 ### Capítulo Quinto. Del Instituto Queretano del Transporte
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 21.
 
-Se crea el Instituto Queretano del Transporte, como organismo descentralizado, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Santiago de Querétaro, Qro., sectorizado a la Secretaría de Gobierno, cuyo objeto es diseñar, coordinar, ejecutar, vigilar y evaluar las políticas públicas, programas y acciones generales y particulares relativas a la prestación de los servicios público y especializado de transporte en el Estado de Querétaro, de conformidad con los principios y objetivos que establece esta Ley.
+Se crea el Instituto Queretano del Transporte, como organismo descentralizado, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Santiago de Querétaro, Qro., cuyo objeto es diseñar, coordinar, ejecutar, vigilar y evaluar las políticas públicas, programas y acciones generales y particulares relativas a la prestación de los servicios público y especializado de transporte en el Estado de Querétaro, de conformidad con los principios y objetivos que establece esta Ley.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -567,11 +569,15 @@ El Consejo será la autoridad superior del Instituto y estará integrado por:
 
 I. Consejeros propietarios:
 
-a) Un Presidente, que será el titular del Poder Ejecutivo del Estado; en ausencia de éste, fungirá con dicho carácter el Secretario de Gobierno;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) Un Presidente, que será el titular del Poder Ejecutivo del Estado o el Comisionado General de Entidades Paraestatales;
 
 b) El Secretario de Gobierno;
 
-c) El Secretario de Planeación y Finanzas;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+c) El Secretario de Finanzas;
 
 d) El Secretario de la Contraloría;
 
@@ -599,7 +605,7 @@ II. Un Secretario, que será el Director General del Instituto, quién participa
 
 Los consejeros propietarios nombrarán un suplente que actuará en su ausencia.
 
-Cuando el Secretario de Gobierno funja como Presidente, su suplente se integrará al Consejo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -701,19 +707,29 @@ VII. Certificar los documentos del Consejo; y
 
 VIII. Las demás que le encomiende el Consejo.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 27 Sexies.
 
-El Director General tendrá las siguientes facultades:
+El Director General será nombrado y removido por el Gobernador del Estado o el Comisionado General de Entidades Paraestatales, y tendrá las siguientes facultades:
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
 
 I. Ejercer la representación, administración y conducción del Instituto, de conformidad con las disposiciones legales aplicables;
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+
 II. Velar por la buena marcha del Instituto y promover las medidas administrativas, contables, organizacionales, financieras y demás que correspondan, con sujeción a las disposiciones legales aplicables;
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
 
 III. Designar y remover a los servidores públicos del Instituto, cuyo nombramiento o remoción no corresponda efectuar al Consejo;
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+
 IV. Delegar cualquiera de sus atribuciones en otros servidores públicos del Instituto con nivel de Director o equivalente, con excepción de aquellas que por su propia naturaleza, por disposición legal o por acuerdo del Consejo sean indelegables;
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
 
 V. Elaborar los manuales de organización y procedimientos, así como las propuestas de reforma a dichos manuales y presentarlos al Consejo, para su aprobación;
 
@@ -721,9 +737,15 @@ V. Elaborar los manuales de organización y procedimientos, así como las propue
 
 VI. Operar un registro de los principales indicadores y estadísticas en materia de servicios de transporte público y especializado que permita integrar una base de datos confiable que propicie y haga eficaz la toma de decisiones del Instituto;
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+
 VII. Conceder licencias al personal del Instituto, de conformidad con la legislación aplicable;
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+
 VIII. Ejercer el presupuesto y ejecutar los programas aprobados por el Consejo, de conformidad con las normas jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
 
 IX. Proporcionar la información que le solicite el Órgano Interno de Control del Instituto;
 
@@ -2885,11 +2907,11 @@ V. Póliza de seguro, fideicomisos, fondos o mutualidades internas, vigentes dur
 
 VI. Los demás que establezcan las normas reglamentarias de la presente ley.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 190.
 
-Para la obtención de la tarjeta de circulación de un vehículo destinado a los servicios de transporte público y especializado, en cualquiera de sus modalidades, así como para realizar cualquier modificación o la baja en el padrón de vehículos de la Dirección de Ingresos de la Secretaría de Planeación y Finanzas, se requerirá el visto bueno del Instituto, en el que se describan las características de los vehículos, así como la modalidad de servicio y el número económico que ampare la operación del mismo.
+Para la obtención de la tarjeta de circulación de un vehículo destinado a los servicios de transporte público y especializado, en cualquiera de sus modalidades, así como para realizar cualquier modificación o la baja en el padrón de vehículos de la Dirección de Ingresos de la Secretaría de Finanzas, se requerirá el visto bueno del Instituto, en el que se describan las características de los vehículos, así como la modalidad de servicio y el número económico que ampare la operación del mismo.
 
 ## Título Octavo. De las Quejas, Sanciones y Recursos
 
@@ -3920,3 +3942,87 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
