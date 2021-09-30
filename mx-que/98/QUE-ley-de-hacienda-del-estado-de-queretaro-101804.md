@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2020-12-21"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "QUE"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -51,9 +53,11 @@ LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
 La presente Ley es de observancia general. Tiene por objeto regular la Hacienda Pública del Estado de Querétaro y la totalidad de sus ingresos por cualquier concepto, contenidos en la presente Ley y en la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponderá al Poder Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas adscrita al mismo, en lo sucesivo la Secretaría de Planeación y Finanzas, y en lo conducente a los Poderes Legislativo y Judicial, por conducto de sus dependencias encargadas de las finanzas.
+La aplicación de la presente Ley corresponderá al Poder Ejecutivo por conducto de la Secretaría de Finanzas, y en lo conducente a los Poderes Legislativo y Judicial, por conducto de sus dependencias encargadas de las finanzas.
 
 ###### Artículo 3.
 
@@ -73,13 +77,15 @@ Para los efectos de esta Ley, las siglas UMA se entenderán como el número de v
 
 Es ingreso, aquel recurso financiero o material que perciba el Estado por cualquiera de los conceptos contenidos en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 7.
 
-Los obligados a presentar avisos, declaraciones, realizar pagos o aquellos que soliciten trámites o servicios, podrán realizarlos en las Administraciones Regionales, Oficinas Recaudadoras o a través de medios electrónicos que al efecto establezca la Secretaría de Planeación y Finanzas.
+Los obligados a presentar avisos, declaraciones, realizar pagos o aquellos que soliciten trámites o servicios, podrán realizarlos en las Administraciones Regionales, Oficinas Recaudadoras o a través de medios electrónicos que al efecto establezca la Secretaría de Finanzas.
 
-Quien haga el pago de contribuciones deberá obtener la forma oficial, el recibo oficial o la forma valorada que determine para tal efecto la Secretaría de Planeación y Finanzas o los comprobantes que las disposiciones respectivas establezcan.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Quien haga el pago de contribuciones deberá obtener la forma oficial, el recibo oficial o la forma valorada que determine para tal efecto la Secretaría de Finanzas o los comprobantes que las disposiciones respectivas establezcan.
 
 Para la determinación y pago de las contribuciones y sus accesorios, las cantidades correspondientes se ajustarán al múltiplo de cincuenta centavos más próximo, inferior o superior, según corresponda.
 
@@ -145,7 +151,9 @@ Los bienes de dominio público son inalienables, imprescriptibles e inembargable
 
 La Hacienda Pública del Estado se integrará, además, con los recursos que de cada ejercicio resulten de economías o recursos no ejercidos, así como con los bienes que se hayan adquirido.
 
-El Poder Ejecutivo Estatal, con apoyo de la Secretaría de Planeación y Finanzas y la Oficialía Mayor, llevará un registro de los bienes que conforman la Hacienda Pública del Estado, el cual deberá estar bajo su custodia.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El Poder Ejecutivo Estatal, con apoyo de la Secretaría de Finanzas y la Oficialía Mayor, llevará un registro de los bienes que conforman la Hacienda Pública del Estado, el cual deberá estar bajo su custodia.
 
 ## Título Tercero. De los Impuestos
 
@@ -359,9 +367,11 @@ Para los efectos de este impuesto, se considera que el propietario, por cualquie
 
 Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año calendario, durante los tres primeros meses, ante las oficinas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-El impuesto se pagará en las oficinas en las que la Secretaría de Planeación y Finanzas autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas de la mencionada Secretaría, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Querétaro.
+El impuesto se pagará en las oficinas en las que la Secretaría de Finanzas autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas de la mencionada Secretaría, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Querétaro.
 
 Los contribuyentes del impuesto a que se refiere este Capítulo, no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos al registro estatal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
@@ -471,7 +481,9 @@ VIII. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotra
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate.
 
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Planeación y Finanzas que se encuentran comprendidos en dichos supuestos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Finanzas que se encuentren comprendidos en dichos supuestos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -545,7 +557,9 @@ En el caso de vehículos nuevos o importados, el impuesto deberá calcularse y e
 
 Para los efectos del cómputo del plazo a que se refiere el párrafo anterior, salvo prueba en contrario, se presumirá que la fecha de adquisición o la fecha de importación es la asentada en la factura o pedimento de importación que corresponda.
 
-Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, dentro los 15 días hábiles siguientes a la fecha en que se hubiere importado el vehículo, ante las oficinas de la Secretaría de Planeación y Finanzas. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 20 de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, dentro de los 15 días hábiles siguientes a la fecha en que se hubiere importado el vehículo, ante las oficinas de la Secretaría de Finanzas. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 20 de esta Ley.
 
 Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
 
@@ -687,7 +701,9 @@ Tratándose de automóviles y motocicletas eléctricos, así como de aquellos el
 
 Para los efectos de lo dispuesto en los artículos 28, 31, 33 y 35 de esta Ley, los montos de las cantidades que en los mismos se señalan, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor, desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 40 del Código Fiscal del Estado de Querétaro.
 
-La Secretaría de Planeación y Finanzas, realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización, así como las cantidades actualizadas en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+La Secretaría de Finanzas realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización, así como las cantidades actualizadas en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 ###### Artículo 38.
 
@@ -909,7 +925,9 @@ La recaudación y control del impuesto, se regulará por las siguientes disposic
 
 I. Del empadronamiento:
 
-a) Los contribuyentes de este impuesto están obligados a empadronarse ante la Dirección de Ingresos, dependiente de la Secretaría de Planeación y Finanzas, dentro de los 10 días siguientes a la fecha de inicio de operaciones, mediante aviso que será presentado en las formas o medios electrónicos que establezca dicha dependencia.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) Los contribuyentes de este impuesto están obligados a empadronarse ante la Dirección de Ingresos, dependiente de la Secretaría de Finanzas, dentro de los 10 días siguientes a la fecha de inicio de operaciones, mediante aviso que será presentado en las formas o medios electrónicos que establezca dicha dependencia.
 
 b) Cuando una misma persona, física o moral, sea propietaria o poseedora de varios establecimientos que deban ser empadronados de acuerdo con lo dispuesto en este Capítulo, presentará por separado, un aviso de empadronamiento para cada uno de dichos establecimientos.
 
@@ -1071,9 +1089,11 @@ La tasa aplicable para el cálculo del impuesto sobre diversiones y espectáculo
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 59.
 
-En los casos de espectáculos públicos que no sean eventuales y de la explotación de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas, la Secretaría de Planeación y Finanzas podrá estimar el ingreso gravable del contribuyente y determinar cuotas fijas para el pago del impuesto respectivo.
+En los casos de espectáculos públicos que no sean eventuales y de la explotación de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas, la Secretaría de Finanzas podrá estimar el ingreso gravable del contribuyente y determinar cuotas fijas para el pago del impuesto respectivo.
 
 Forma de Pago
 
@@ -1081,11 +1101,15 @@ Forma de Pago
 
 De las declaraciones y pago del impuesto:
 
-I. El pago del impuesto deberá efectuarse por los obligados mediante declaración, a más tardar el día veintidós del mes siguiente a aquel al que corresponda el impuesto, excepto en el caso de aquellos espectáculos de carácter eventual, caso en el que el cobro del impuesto se realizará en el lugar en que se efectúe el evento, por personal designado de la Secretaría de Planeación y Finanzas para este efecto. Se consideran eventuales aquellos espectáculos que se ofrezcan al público por un tiempo menor de veinte días;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. El pago del impuesto deberá efectuarse por los obligados mediante declaración, a más tardar el día veintidós del mes siguiente a aquel al que corresponda el impuesto, excepto en el caso de aquellos espectáculos de carácter eventual, caso en el que el cobro del impuesto se realizará en lugar en que se efectúe el evento, por personal designado de la Secretaría de Finanzas para este efecto. Se consideran eventuales aquellos espectáculos que se ofrezcan al público por un tiempo menor de veinte días;
 
 II. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
-III. Las declaraciones se presentarán en las formas oficialmente aprobadas por la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Las declaraciones se presentarán en las formas oficialmente aprobadas por la Secretaría de Finanzas;
 
 IV. Los contribuyentes que no hayan obtenido ingresos, presentarán sus declaraciones expresando las causas de ello, dentro del plazo establecido en la fracción I de este artículo; y
 
@@ -1103,11 +1127,13 @@ I. Firmar todos los documentos previstos por este Capítulo, bajo protesta de de
 
 II. Llevar un registro analítico y pormenorizado de las operaciones y actividades por las que cause este impuesto, incluyendo el correspondiente a los premios que pague o entregue con motivo del uso de los aparatos a los que se refiere el artículo 55 de esta Ley; así como los libros de contabilidad, los registros y demás documentos exigidos por la legislación estatal;
 
-III. Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los contribuyentes de este impuesto, deberán auxiliar a la Secretaría de Planeación y Finanzas y a sus dependencias, suministrándole los informes y datos que soliciten en relación con la aplicación de este impuesto.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+III. Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los contribuyentes de este Impuesto, deberán auxiliar a la Secretaría de Finanzas y a sus dependencias, suministrándole los informes y datos que soliciten en relación con la aplicación de este impuesto;
 
-IV. Los contribuyentes a que se refiere el artículo 55 de esta Ley, que exploten aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas y que con motivo de dicha actividad paguen o entreguen premios, deberán proporcionar mensualmente a las autoridades fiscales la información correspondiente a la cantidad, valor y características de los premios entregados y a los datos de identificación y registro federal de contribuyentes de las personas que los hayan recibido, así como aquella relativa a las cantidades devueltas a los usuarios de dichos aparatos y la correspondiente al monto del impuesto retenido de conformidad con el cuarto párrafo, de la fracción II del artículo 68 de esta Ley. Dicha información se presentará a más tardar el día veintidós del mes inmediato posterior al que corresponda la citada información, a través de los formatos que establezca la Secretaría de Planeación y Finanzas, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Los contribuyentes a que se refiere el artículo 55 de esta Ley, que exploten aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas y que con motivo de dicha actividad paguen o entreguen premios, deberán proporcionar mensualmente a las autoridades fiscales la información correspondiente a la cantidad, valor y características de los premios entregados y a los datos de identificación y el registro federal de contribuyentes de las personas que lo hayan recibido, así como aquella relativa a las cantidades devueltas a los usuarios de dichos aparatos y la correspondiente al monto del impuesto retenido de conformidad con el cuarto párrafo, de la fracción II del artículo 68 de esta Ley. Dicha información se presentará a más tardar el día veintidós del mes inmediato posterior al que corresponda la citada información, a través de los formatos que establezca la Secretaría de Finanzas.
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1227,7 +1253,9 @@ Tratándose de sorteos en los que los participantes obtengan dicha calidad, incl
 
 Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados, también se calculará sobre dicha cantidad.
 
-En el caso de la fracción III de este artículo, cuando no sea posible fijar el valor del bien o los bienes entregados como premio, el sujeto del impuesto deberá entregar, dentro de los 5 días hábiles siguientes a la fecha de causación del impuesto, un peritaje rendido por perito valuador registrado ante las Secretarías de Gobierno y de Planeación y Finanzas, del Poder Ejecutivo del Estado. En este supuesto, el valor determinado por el perito será considerado como base para el cálculo del impuesto.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En el caso de la fracción III de este artículo, cuando no sea posible fijar el valor del bien o los bienes entregados como premio, el sujeto del impuesto deberá entregar, dentro de los 5 días hábiles siguientes a la fecha de causación del impuesto, un peritaje rendido por perito valuador registrado ante las Secretarías de Gobierno y de Finanzas, del Poder Ejecutivo del Estado, en este supuesto el valor determinado por el perito será considerado como base para el cálculo del impuesto.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1261,7 +1289,9 @@ Lo anterior, no será aplicable en el caso de organizadores accidentales, quiene
 
 II. Cuando el impuesto se cause con motivo de la obtención de premios que perciban las personas físicas y morales, derivados de loterías, rifas, sorteos, concursos y juegos con apuestas, que se celebren o que surtan sus efectos dentro del territorio del Estado, el organizador de los mismos deberá retener el monto del impuesto causado y enterarlo mediante declaración de pago, a más tardar el día 22 del mes siguiente a la fecha de su causación.
 
-En este supuesto el retenedor, deberá proporcionar al interesado, constancia de retención del impuesto en los formatos que al efecto establezca la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En este supuesto el retenedor, deberá proporcionar al interesado, constancia de retención del impuesto en los formatos que al efecto establezca la Secretaría de Finanzas.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1275,7 +1305,9 @@ Tratándose del impuesto por la obtención de premios derivados del uso de los a
 
 Los propietarios o poseedores de los aparatos mencionados en el párrafo anterior, serán responsables solidarios respecto del impuesto que debió retenerse, cuando quien realice la explotación de los mismos no la efectúe.
 
-Las declaraciones de pago se presentarán en las formas oficiales aprobadas y en las oficinas autorizadas, por la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las declaraciones de pago se presentarán en las formas oficiales aprobadas y en las oficinas autorizadas, por la Secretaría de Finanzas.
 
 > <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -1291,7 +1323,9 @@ Además de las obligaciones previstas en otros ordenamientos fiscales de caráct
 
 I. Tratándose de organizadores habituales, estos deberán:
 
-a) Empadronarse, para los efectos del presente impuesto, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal del Estado que corresponda a su domicilio, mediante aviso que será presentado en las formas o medios electrónicos que apruebe la Secretaría de Planeación y Finanzas. El aviso deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) Empadronarse, para los efectos del presente impuesto, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal del Estado que corresponda a su domicilio, mediante aviso que será presentado en las formas o medios electrónicos que apruebe la Secretaría de Finanzas. El aviso deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado.
 
 Las personas morales estarán obligadas además a entregar a dichas autoridades una copia certificada del acta o documento constitutivo y del permiso que otorguen las autoridades federales competentes en materia de juegos y sorteos, en el mismo plazo a que se refiere este inciso.
 
@@ -1299,9 +1333,9 @@ b) Presentar dentro de los diez días hábiles siguientes a aquél en que se act
 
 c) Precisar en las declaraciones de pago que presenten, el monto del impuesto que hubieren retenido durante el mes de que se trate y en su caso, el que corresponda por su propia actividad, por el mismo periodo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-d) Proporcionar mensualmente a las autoridades fiscales la información correspondiente a la cantidad, valor y características de los premios pagados o entregados, a los datos de identificación y registro federal de contribuyentes de las personas que los hayan recibido y al monto del impuesto retenido de conformidad con el primer párrafo de la fracción II del artículo 68 de esta Ley, así como aquella relativa a las cantidades devueltas a los participantes. Dicha información se presentará a más tardar el día veintidós del mes inmediato posterior al que corresponda la citada información, a través de los formatos que establezca la Secretaría de Planeación y Finanzas.
+d) Proporcionar mensualmente a las autoridades fiscales la información correspondiente a la cantidad, valor, características de los premios pagados o entregados, a los datos de identificación y registro federal de contribuyentes de las personas que los hayan recibido y al monto del impuesto retenido de conformidad con el primer párrafo de la fracción II del artículo 68 de esta Ley, así como aquella relativa a las cantidades devueltas a los participantes. Dicha información se presentará a más tardar el día veintidós del mes inmediato posterior al que corresponda la citada información, a través de los formatos que establezca la Secretaría de Finanzas.
 
 e) Manifestar ante la autoridad fiscal competente cualquier modificación de las bases para la celebración de las actividades a que se refiere este Capítulo, dentro de los 5 días hábiles siguientes a que esto ocurra.
 
@@ -1397,13 +1431,17 @@ Obligaciones
 
 Los sujetos a que se refiere el artículo 71, tendrán las siguientes obligaciones:
 
-I. Empadronarse, para los efectos del presente impuesto, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal del Estado que corresponda a su domicilio, mediante aviso que será presentado en las formas que apruebe la Secretaría de Planeación y Finanzas. El aviso deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Empadronarse, para los efectos del presente impuesto, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal del Estado que corresponda a su domicilio, mediante aviso que será presentado en las formas o medios electrónicos que apruebe la Secretaría de Finanzas. El aviso deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado;
 
 II. Presentar un aviso, dentro de los diez días siguientes al en que ocurra, cuando se abra o cierre un local, establecimiento, agencia o sucursal dentro de los cuales se presten servicios personales;
 
 III. Llevar un registro pormenorizado, por cada local, establecimiento, agencia o sucursal, de las erogaciones que efectúe por concepto de remuneraciones al trabajo personal, separando debidamente las que formen parte de la base de las que están excluidas, de conformidad con lo que dispone el artículo 72 de esta Ley;
 
-IV. Pagar el impuesto determinado a su cargo o el retenido, mediante declaración que deberá presentar ante la Secretaría de Planeación y Finanzas, a más tardar el día veintidós del mes siguiente al periodo al que corresponda el impuesto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Pagar el impuesto determinado a su cargo o el retenido, mediante declaración que deberá presentar ante la Secretaría de Finanzas, a más tardar el día veintidós del mes siguiente al periodo al que corresponda el impuesto;
 
 V. Presentar anualmente una declaración informativa a más tardar en el mes de febrero de cada año, con los datos sobre el monto de las erogaciones que se señalan en el artículo 72 de esta Ley, efectuadas en el año inmediato anterior. Esta declaración deberá presentarse en todos los casos incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto; y
 
@@ -1475,13 +1513,17 @@ La Federación, la Ciudad de México, los Estados, los Municipios, los organismo
 
 El impuesto a que hace referencia este Capítulo no se considera violatorio de precios o tarifas, incluyendo los oficiales.
 
-El impuesto se calculará mensualmente y se pagará a más tardar el día veintidós del mes siguiente a aquél al que corresponda el pago, a través del formato que para tales efectos establezca la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+El impuesto se calculará mensualmente y se pagará a más tardar el día veintidós del mes siguiente a aquél al que corresponda el pago, a través del formato que para tales efectos establezca la Secretaría de Finanzas.
 
 Los pagos mensuales tendrán el carácter de definitivos.
 
 El pago mensual será el que resulte de aplicar la tasa del 4.5% sobre el valor a que se refiere el artículo 76 de este ordenamiento.
 
-Si un contribuyente tuviera varios establecimientos, locales o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que correspondan a dichos establecimientos, ante las oficinas autorizadas por la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Si un contribuyente tuviera varios establecimientos, locales o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que correspondan a dichos establecimientos, ante las oficinas autorizadas por la Secretaría de Finanzas.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -1511,13 +1553,17 @@ Obligaciones de los contribuyentes
 
 Los contribuyentes a que se refiere este Capítulo tienen, además de las obligaciones señaladas en los otros artículos del mismo y en las demás disposiciones fiscales, las siguientes:
 
-I. Empadronarse para los efectos de este impuesto dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la Dirección de Ingresos dependiente de la Secretaría de Planeación y Finanzas, mediante aviso que será presentado en las formas o medios electrónicos que para tal efecto autorice dicha dependencia.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Empadronarse para los efectos de este impuesto dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la Dirección de Ingresos dependiente de la Secretaría de Finanzas, mediante aviso que será presentado en las formas o medios electrónicos que para tal efecto autorice dicha dependencia.
 
 II. Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el artículo 74 de esta Ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
 
 III. Expedir comprobantes que reúnan los requisitos establecidos en el Código Fiscal del Estado de Querétaro, sin que se traslade en forma expresa y por separado del impuesto establecido en este Capítulo.
 
-IV. Pagar el impuesto determinado a su cargo, mediante declaración que será presentada ante la oficina que para tales efectos autorice la Secretaría de Planeación y Finanzas, a más tardar el día veintidós del mes siguiente a aquel a que corresponda el impuesto.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Pagar el impuesto determinado a su cargo, mediante declaración que será presentada ante la oficina que para tales efectos autorice la Secretaría de Finanzas, a más tardar el día veintidós del mes siguiente a aquel que corresponda el impuesto.
 
 ###### Artículo 81.
 
@@ -3529,11 +3575,11 @@ I. Por búsqueda en archivos, 1.25 UMA; y
 
 II. Por certificación de copias de documentos de archivo por cada hoja 0.125 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 155.
 
-Corresponde a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, administrar y controlar el Padrón Vehicular Estatal relativo a los vehículos que sean dados de alta en su jurisdicción territorial; para tales efectos dicha autoridad realizará los trámites relativos a las altas, bajas y cambios que procedan en el Padrón. En consecuencia, será dicha autoridad la que lleve a cabo los actos de verificación y comprobación para mantener actualizado dicho Padrón.
+Corresponde a la Secretaría de Finanzas del Poder Ejecutivo, administrar y controlar el Padrón Vehicular Estatal relativo a los vehículos que sean dados de alta en su jurisdicción territorial; para tales efectos dicha autoridad realizará los trámites relativos a las altas, bajas y cambios que procedan en el Padrón. En consecuencia, será dicha autoridad la que lleve a cabo los actos de verificación y comprobación para mantener actualizado dicho Padrón.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -3559,7 +3605,9 @@ d) Actualización de datos.
 
 El plazo para realizar o manifestar los actos antes señalados, será de 15 días contados a partir del momento en que se dé la situación o hecho generador de los mismos.
 
-En caso de vehículos del servicio público del transporte, las concesiones y permisos respectivos deberán estar aprobados por la autoridad competente, previamente a que la Secretaría de Planeación y Finanzas efectúe el registro o modificación de los datos de los vehículos asociados a dichas concesiones y permisos en el Padrón Vehicular Estatal; debiendo constar tal situación en los expedientes administrativos que al respecto se integren.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de vehículos del servicio público del transporte, las concesiones y permisos respectivos deberán estar aprobados por la autoridad competente, previamente a que la Secretaría de Finanzas efectúe el registro o modificación de los datos de los vehículos asociados a dichas concesiones y permisos en el Padrón Vehicular Estatal; debiendo constar tal situación en los expedientes administrativos que al respecto se integren.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -3631,9 +3679,9 @@ V. Por la reposición de la tarjeta de circulación se pagará 1.875 UMA. Para e
 
 VI. Por el trámite relativo al aviso a otras entidades federativas sobre el alta de vehículos provenientes de otras entidades en el Padrón Vehicular Estatal, se pagarán 2.5 UMA.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El refrendo anual o la expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación, realizada con motivo del alta o registro en el Padrón Vehicular Estatal, a que se refieren las fracciones I y II de este artículo, deberá realizarse junto con el pago del impuesto sobre tenencia o uso de vehículos, cumpliendo para ello con los requisitos que al efecto determine la Secretaría de Planeación y Finanzas.
+El refrendo anual o la expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación, realizada con motivo del alta o registro en el Padrón Vehicular Estatal, a que se refieren las fracciones I y II de este artículo, deberá realizarse junto con el pago del impuesto sobre tenencia o uso de vehículos, cumpliendo para ello con los requisitos que al efecto determine la Secretaría de Finanzas.
 
 La emisión de una nueva tarjeta de circulación derivada de la actualización de datos que realice el contribuyente no causará derechos, sólo se requerirá presentar la tarjeta vigente a la fecha y estar al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular.
 
@@ -5276,3 +5324,87 @@ XV. Las personas adultas mayores, los jubilados o pensionados y las personas con
 XVI. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
