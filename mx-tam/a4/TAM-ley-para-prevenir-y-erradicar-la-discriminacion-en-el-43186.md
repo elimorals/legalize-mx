@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2021-07-14"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -393,6 +393,24 @@ i) Disfrutar de los distintos derechos y prerrogativas contenidos en las leyes, 
 
 j) Acceder en forma preferente al disfrute de los beneficios de los programas sociales del Gobierno del Estado, sin demérito de los derechos de otras personas en condiciones de vulnerabilidad social.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### Artículo 15 Bis.
+
+Los organismos públicos estatales o municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas a favor de la igualdad de oportunidades para los hombres que sean padres solos:
+
+I. Dar atención, asistencia, información, educación y asesoría en la salud, de forma completa, actualizada, personalizada y libre de estereotipos, prejuicios o estigmas, incluyendo como objeto de dichos beneficios a los padres solos de niñas, niños y adolescentes.
+
+II. Dar atención preferente en materia de vivienda y en la asignación de propiedades inmuebles en los programas de desarrollo social, a padres solos de niñas, niños y adolescentes, fomentando programas que les aciliten (sic) la inscripción de inmuebles en el Registro Público de la Propiedad Inmueble y del Comercio;
+
+III. Implementar programas de apoyo económico a padres solos de niñas, niños y adolescentes, que habiten en el Estado de Tamaulipas.
+
+IV. Implementar los lineamientos, acciones, medidas y mecanismos que contiene la Ley para la Igualdad de Género en Tamaulipas, con el objeto de eliminar todas las formas de discriminación hacia los padres solos de niñas, niños y adolescentes;
+
+V. Otorgar apoyos y capacitación para el empleo, y para la atención de sus hijas e hijos y;
+
+VI. Otorgar a los padres solos de niñas, niños y adolescentes, el acceso a todos los programas y beneficios sociales que se otorgan a las mujeres que se encuentran en esa misma condición.
+
 ###### Artículo 16.
 
 Los órganos públicos estatales o municipales y las autoridades, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades de las niñas y los niños:
@@ -616,3 +634,15 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIV-833 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 15 BIS A LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento a lo dispuesto en el presente decreto, el Titular del Poder Ejecutivo del Estado contará con un plazo que no excederá de 30 días hábiles posteriores a la entrada en vigor del presente decreto para, de ser el caso, armonizar el contenido reglamentario de la presente Ley.
