@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-8570
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-27"
-last_updated: "2014-05-09"
+last_updated: "2021-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE DONACION Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS HUMANAS DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de enero de 2012.
 
@@ -209,7 +211,9 @@ XV. Concertar acciones con las dependencias y organismos que correspondan, para 
 
 XVI. Proponer la celebración de acuerdos interinstitucionales e intergubernamentales en materia de trasplantes;
 
-XVII. Aprobar anualmente su programa financiero y remitirlo a la Secretaría de Planeación y Finanzas para su inclusión en la Ley de Ingresos y el Decreto de Presupuesto de Egresos, que cada año se envía a la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XVII. Aprobar anualmente su programa financiero y remitirlo a la Secretaría de Finanzas del Poder Ejecutivo del Estado para su inclusión en la Ley de Ingresos y el Decreto de Presupuesto de Egresos, que cada año se envía a la Legislatura del Estado;
 
 XVIII. Colaborar activamente con las autoridades competentes, en la prevención del tráfico ilegal de órganos, tejidos y células humanas;
 
@@ -255,7 +259,9 @@ La organización interna y funcionamiento del Centro, se determinará en el Regl
 
 El Consejo General es el órgano de gobierno del Centro y se integra por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. El Gobernador o el Secretario de Salud del Poder Ejecutivo del Estado, quien lo presidirá;
 
 II. El Director General, quien fungirá como Secretario Técnico;
 
@@ -265,7 +271,9 @@ IV. Los Consejeros, siguientes:
 
 a) El Coordinador General de Servicios de Salud en el Estado de Querétaro.
 
-b) El Procurador General de Justicia del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+b) El Fiscal General del Estado de Querétaro;
 
 c) El Delegado en Querétaro del Instituto Mexicano del Seguro Social (IMSS).
 
@@ -277,7 +285,9 @@ f) El Director de la Facultad de Medicina de la Universidad Autónoma de Querét
 
 g) El Presidente del Colegio Médico de Querétaro, A.C.
 
-h) Un representante de la Secretaría de Planeación y Finanzas del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+h) Un representante de la Secretaría de Finanzas del Poder Ejecutivo del Estado.
 
 i) Un representante de la Secretaría de la Contraloría del Estado.
 
@@ -303,7 +313,9 @@ I. Vigilar el adecuado funcionamiento del Centro;
 
 II. Aprobar los informes de actividades y financieros que rinda el Director General;
 
-III. Aprobar anualmente su programa financiero y remitirlo a la Secretaría de Planeación y Finanzas para su inclusión en el proyecto de Presupuesto de Egresos y de Ingresos, respectivamente, que cada año se envía a la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Aprobar anualmente su programa financiero y remitirlo a la Secretaría de Finanzas del Poder Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto de Egresos y de Ingresos, respectivamente, que cada año se envía a la Legislatura del Estado;
 
 IV. Aprobar los proyectos de programas, planes y acciones en materia de donación y trasplantes, elaborados por la Dirección General;
 
@@ -319,9 +331,11 @@ Para sesionar válidamente, se requerirá la asistencia del Presidente y de al m
 
 Las decisiones se tomarán por el voto de la mayoría de los miembros presentes, teniendo el Presidente el voto de calidad en caso de empate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-El Director General del Centro será designado y removido libremente por el titular del Poder Ejecutivo del Estado de Querétaro, a propuesta del titular de la Secretaría. Para acceder al cargo se requiere:
+El Director General del Centro será designado y removido libremente por el Gobernador, a propuesta del titular de la Secretaría de Salud del Poder Ejecutivo del Estado de Querétaro, o por el titular de ésta última por instrucciones del Gobernador. Para acceder al cargo se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -349,7 +363,9 @@ III. Cuando deje de cumplir con los requisitos previstos en el artículo que ant
 
 IV. Por cumplir el periodo para el que fue designado; y
 
-V. Cuando así lo determine el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. Cuando así lo determine el Gobernador o el Secretario de Salud del Poder Ejecutivo del Estado de Querétaro.
 
 ###### Artículo 16.
 
@@ -1154,3 +1170,87 @@ P.O. 9 DE MAYO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMAN LA FRACCIÓN XVII DEL ARTÍCULO 8; LA FRACCIÓN I Y LOS INCISOS B) Y H) DE LA FRACCIÓN IV DEL ARTÍCULO 11 Y LA FRACCIÓN III DEL ARTÍCULO 12, EL PRIMER PÁRRAFO DEL ARTÍCULO 14 Y LA FRACCIÓN V DEL ARTÍCULO 15 TODOS DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS DEL ESTADO DE QUERÉTARO”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley; se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
