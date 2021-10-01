@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2021-09-30"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 1 DE OCTUBRE DE 2021.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1121,7 +1121,9 @@ Las regidoras y los regidores pueden presidir máximo dos comisiones permanentes
 
 Cuando por licencia se requiera llamar al suplente de cualquier regidora o regidor, al momento que la Presidenta o el Presidente Municipal tome la protesta respectiva, este debe proponer al Ayuntamiento su integración a las comisiones edilicias correspondientes, de conformidad con lo previsto en el presente Libro.
 
-La Presidenta o el Presidente Municipal puede presidir y formar parte de las comisiones edilicias que se integren, con excepción de la Comisión Edilicia de Hacienda Pública.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+La Presidenta o el Presidente Municipal puede presidir y formar parte de las comisiones edilicias que se integren, con excepción de la Comisión que tenga atribuciones en materia de la Hacienda Pública.
 
 Cada Comisión Edilicia debe contar con una Secretaria o un Secretario Técnico, nombrado cuando esta se instale por la Presidenta o el Presidente de la comisión respectiva.
 
@@ -1147,11 +1149,15 @@ I. Asuntos de la Niñez;
 
 II. Asuntos y Coordinación Metropolitana;
 
-III. Centro, Barrios Tradicionales y Monumentos;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-IV. Cultura;
+III. Centro y Barrios Tradicionales;
 
-V. Deportes y Atención a la Juventud;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IV. Cultura, Espectáculos y Festividades Públicas;
+
+V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 VI. Derechos Humanos e Igualdad de Género;
 
@@ -1159,11 +1165,13 @@ VII. Desarrollo Social, Humano y Participación Ciudadana;
 
 VIII. Educación, Innovación, Ciencia y Tecnología;
 
-IX. Espectáculos Públicos y Festividades Cívicas;
+IX. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 X. Gobernación, Reglamentos y Vigilancia;
 
-XI. Hacienda Pública;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XI. Hacienda Pública y Patrimonio Municipal;
 
 XII. Justicia;
 
@@ -1171,17 +1179,21 @@ XIII. Medio Ambiente;
 
 XIV. Mercados y Centrales de Abasto;
 
-XV. Obras Públicas;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-XVI. Patrimonio Municipal;
+XV. Obras Públicas, Planeación del Desarrollo Urbano y Movilidad;
 
-XVII. Planeación del Desarrollo Urbano Sustentable;
+XVI. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
+
+XVII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XVIII. Promoción del Desarrollo Económico y del Turismo;
 
 XIX. Protección Civil;
 
-XX. Salud, Prevención y Combate a las Adicciones;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XX. Salud, Deportes y Atención a la Juventud;
 
 XXI. Seguridad Ciudadana y Prevención Social;
 
@@ -1259,13 +1271,19 @@ f) Trabajar en conjunto con los consejos ciudadanos representantes del Municipio
 
 g) Participar en el proceso de selección de consejeras y consejeros ciudadanos ante los diversos organismos de coordinación metropolitana.
 
-III. Centro, Barrios Tradicionales y Monumentos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-a) Proponer y dictaminar en conjunto con las Comisiones Edilicias de Servicios Públicos Municipales y de Obras Públicas, lo correspondiente a la instalación y mejoramiento del alumbrado público y ornamental en todo el Centro Histórico y en particular, plazas públicas, parques y jardines; y
+III. Centro y Barrios Tradicionales:
+
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+a) Proponer y dictaminar en conjunto con las Comisiones Edilicias de Servicios Públicos Municipales y de Obras Públicas, Planeación del Desarrollo Urbano y Movilidad, lo correspondiente a la instalación y mejoramiento del alumbrado público y ornamental en todo el Centro Histórico y en particular, plazas públicas, parques y jardines; y
 
 b) Proponer acciones concretas en asuntos y temas relativos al repoblamiento de la zona centro de la ciudad.
 
-IV. Cultura:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IV. Cultura, Espectáculos y Festividades Públicas:
 
 a) Procurar la coordinación con otras instancias, para la promoción cultural;
 
@@ -1285,23 +1303,43 @@ h) Promover la formación de grupos artísticos y artesanales;
 
 i) Impulsar por conducto de las dependencias vinculadas con el desarrollo económico y el empleo, la adquisición de materias primas de otros Municipios para diversificar las alternativas de producción artesanal en el Municipio;
 
-j) Preservar e impulsar la constitución de cooperativas de artistas, artesanas y artesanos; y
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-k) Procurar la protección, preservación, desarrollo y difusión de las lenguas, culturas y tradiciones de la población indígena residente en el Municipio.
+j) Preservar e impulsar la constitución de cooperativas de artistas, artesanas y artesanos;
 
-V. Deportes y Atención a la Juventud:
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-a) Impulsar y planificar la práctica del deporte en el Municipio;
+k) Procurar la protección, preservación, desarrollo y difusión de las lenguas, culturas y tradiciones de la población indígena residente en el Municipio;
 
-b) Fomentar y proponer el rescate, mejoramiento y construcción de unidades y centros deportivos municipales;
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-c) Propiciar la conservación, sistemas de operación y eficiente y eficaz administración de las unidades y centros deportivos municipales;
+l Promover la evaluación de las labores de las inspectoras y los inspectores municipales destinados a la revisión del funcionamiento de los espectáculos públicos;
 
-d) Proponer la coordinación y el establecimiento de relaciones de carácter deportivo;
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-e) Propiciar que la dependencia u organismo municipal respectivo gestione la promoción, organización, patrocinio y coordinación de eventos deportivos, en barrios y colonias del Municipio, otorgando estímulos honoríficos o económicos a los participantes;
+m) Vigilar la organización de las actividades cívicas del Municipio;
 
-f) Fomentar la relación y coordinación entre los distintos sectores y órganos de gobierno, para el fortalecimiento de los programas de la juventud; y g) Impulsar la coordinación entre la administración pública, involucrada en la ejecución de los programas de juventud.
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+n) Verificar la constitución de los comités pro festividades cívicas del Municipio y vigilar que se llame a participar a los diversos sectores de la población en las mismas;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+ñ) Proponer al Ayuntamiento el calendario anual de celebraciones y festividades cívicas; y observar que la dependencia municipal correspondiente elabore y ejecute el calendario y programa respectivo;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+o) Asistir con la Presidenta o el Presidente Municipal al desarrollo de las actividades cívicas y representarlo en los casos que este determine;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+p) Recibir la información de los gastos erogados en el ramo de festividades cívicas y eventos protocolarios en el Municipio; y
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+q) Planear y promover espectáculos y festividades que tiendan a la elevación del nivel cívico de la población.
+
+V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 VI. Derechos Humanos e Igualdad de Género:
 
@@ -1329,9 +1367,21 @@ d) Promover el análisis de la operación y evaluar el impacto de los programas 
 
 e) Analizar con las dependencias municipales relacionadas con proyectos y programas afines a la naturaleza de la comisión, las estrategias de coordinación necesarias para que sus programas impacten eficazmente los indicadores de desarrollo humano;
 
-f) Proponer lineamientos generales que promuevan la participación ciudadana en el Municipio; y
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-g) Analizar con las dependencias municipales relacionadas con proyectos y programas de participación ciudadana, las estrategias de coordinación necesarias para fomentar la participación en el Municipio.
+f) Proponer lineamientos generales que promuevan la participación ciudadana en el Municipio;
+
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+g) Analizar con las dependencias municipales relacionadas con proyectos y programas de participación ciudadana, las estrategias de coordinación necesarias para fomentar la participación en el Municipio;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+h) Promover la constitución de asociaciones de vecinos, en los lugares donde no existan y vigilar que la instancia administrativa competente, gestione y promueva dicha organización vecinal, así como que todas las asociaciones de vecinos formadas en el Municipio, cumplan con los requisitos para ser reconocidas por acuerdo del Ayuntamiento; y
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+i) Someter a consideración del Ayuntamiento la autorización y revocación del reconocimiento de las organizaciones vecinales, una vez que la dependencia municipal competente dé cuenta de alguna causal de revocación.
 
 VIII. Educación, Innovación, Ciencia y Tecnología:
 
@@ -1361,21 +1411,7 @@ d) Estudiar la pertinencia de que el Municipio organice una feria anual de cienc
 
 e) Promover la creación y consolidación de museos municipales de vanguardia en materia de ciencia, tecnología e industria.
 
-IX. Espectáculos Públicos y Festividades Cívicas:
-
-a) Promover la evaluación de las labores de las inspectoras y los inspectores municipales destinados a la revisión del funcionamiento de los espectáculos públicos;
-
-b) Vigilar la organización de las actividades cívicas del Municipio;
-
-c) Verificar la constitución de los comités pro festividades cívicas del Municipio y vigilar que se llame a participar a los diversos sectores de la población en las mismas;
-
-d) Proponer al Ayuntamiento el calendario anual de celebraciones y festividades cívicas; y observar que la dependencia municipal correspondiente elabore y ejecute el calendario y programa respectivo;
-
-e) Asistir con la Presidenta o el Presidente Municipal al desarrollo de las actividades cívicas y representarlo en los casos que este determine;
-
-f) Recibir la información de los gastos erogados en el ramo de festividades cívicas y eventos protocolarios en el Municipio; y
-
-g) Planear y promover espectáculos y festividades que tiendan a la elevación del nivel cívico de la población.
+IX. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 X. Gobernación, Reglamentos y Vigilancia:
 
@@ -1399,9 +1435,17 @@ i) Estudiar y dictaminar las iniciativas relativas a la inspección y vigilancia
 
 j) Evaluar los trabajos de las dependencias municipales con atribuciones en materia de inspección y vigilancia.
 
-XI. Hacienda Pública:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-a) Vigilar en conjunto con la Comisión Edilicia de Patrimonio Municipal, que los convenios municipales con repercusiones económicas o presupuestales se realicen en los términos más convenientes para el Municipio;
+XI. Hacienda Pública y Patrimonio Municipal:
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+1. En materia de Hacienda Pública:
+
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+a) Vigilar que los convenios municipales con repercusiones económicas o presupuestales se realicen en los términos más convenientes para el Municipio;
 
 b) Proponer las acciones tendientes a garantizar que los recursos económicos bajo resguardo del Ayuntamiento y la Administración Pública se manejen con eficiencia y eficacia, y en apego a lo dispuesto en la normatividad aplicable;
 
@@ -1416,6 +1460,30 @@ f) Promover políticas y lineamientos generales tendientes al equilibrio de las 
 g) Evaluar la actividad hacendaria municipal y el desempeño financiero de las haciendas municipales, mediante la presentación de informes y propuestas para el ejercicio y aprovechamiento de los ingresos y egresos del Municipio; y
 
 h) Vigilar el cumplimiento y la exacta aplicación de las partidas del presupuesto de egresos, destinadas a sueldos y prestaciones de ley, evitando la incorporación en este de estímulos económicos por fin de administración para las regidoras y los regidores, y titulares de las dependencias municipales.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+2. En materia de Patrimonio Municipal:
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+a) Proponer que los convenios municipales con repercusiones económicas o presupuestales se realicen en los términos más convenientes para el Municipio;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+b) Proponer acciones para la conservación y mejora de los bienes de propiedad municipal y para la valorización de su patrimonio histórico;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+c) Proponer sistemas para el eficiente y eficaz uso, resguardo y control e inventario de los bienes del Municipio;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+d) Velar por la veracidad, objetividad y permanente actualización del inventario de bienes municipales; y
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+e) Proponer los lineamientos, políticas y estrategias para garantizar la conservación íntegra de los bienes de propiedad municipal.
 
 XII. Justicia:
 
@@ -1457,33 +1525,75 @@ d) Proponer políticas tendientes a la creación, mantenimiento y mejoramiento d
 
 e) Proponer y dictaminar los horarios para el ejercicio del comercio en la vía pública.
 
-XV. Obras Públicas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-a) Proponer acciones tendientes a mejorar los criterios para la ejecución de la obra pública y su supervisión.
+XV. Obras Públicas, Planeación del Desarrollo Urbano y Movilidad:
 
-XVI. Patrimonio Municipal:
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-a) Proponer en conjunto con la Comisión Edilicia de Hacienda Pública, que los convenios municipales con repercusiones económicas o presupuestales se realicen en los términos más convenientes para el Municipio;
+a) Proponer acciones tendientes a mejorar los criterios para la ejecución de la obra pública y su supervisión;
 
-b) Proponer acciones para la conservación y mejora de los bienes de propiedad municipal y para la valorización de su patrimonio histórico;
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-c) Proponer sistemas para el eficiente y eficaz uso, resguardo y control e inventario de los bienes del Municipio;
+b) Conocer, analizar, estudiar y dictaminar las iniciativas concernientes al Plan Municipal de Desarrollo y Gobernanza;
 
-d) Velar por la veracidad, objetividad y permanente actualización del inventario de bienes municipales, y
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-e) Proponer los lineamientos, políticas y estrategias para garantizar la conservación íntegra de los bienes de propiedad municipal.
+c) Conocer, analizar, estudiar y dictaminar el Programa Municipal de Desarrollo, sus planes y sus programas en materia de desarrollo urbano, ordenamientos territorial y ecológico;
 
-XVII. Planeación del Desarrollo Urbano Sustentable:
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-a) Conocer, analizar, estudiar y dictaminar las iniciativas concernientes al Plan Municipal de Desarrollo y Gobernanza;
+d) Observar la actividad social y económica del Municipio, para orientar su política de desarrollo urbano, teniendo en cuenta el principio de sustentabilidad del desarrollo de la ciudad sin comprometer el patrimonio social, cultural y natural de las futuras generaciones;
 
-b) Conocer, analizar, estudiar y dictaminar el Programa Municipal de Desarrollo, sus planes y sus programas en materia de desarrollo urbano, ordenamientos territorial y ecológico;
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-c) Observar la actividad social y económica del Municipio, para orientar su política de desarrollo urbano, teniendo en cuenta el principio de sustentabilidad del desarrollo de la ciudad sin comprometer el patrimonio social, cultural y natural de las futuras generaciones;
+e) Promover políticas públicas y programas para apoyar el acceso a una vivienda asequible, asistida y equitativa en un entorno ordenado y sostenible;
 
-d) Promover políticas públicas y programas para apoyar el acceso a una vivienda asequible, asistida y equitativa en un entorno ordenado y sostenible; y
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-e) Vigilar el cumplimiento y aplicación de la normatividad vigente por parte de las dependencias, organismos y entidades públicas municipales, en materia de desarrollo territorial, planeación, licencias de construcción, obra pública y de funcionamiento de giros.
+f) Vigilar el cumplimiento y aplicación de la normatividad vigente por parte de las dependencias, organismos y entidades públicas municipales, en materia de desarrollo territorial, planeación, licencias de construcción, obra pública y de funcionamiento de giros;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+g) Proponer, analizar, estudiar y dictaminar las iniciativas relativas a eficientar y allegar el servicio de transporte público a todo el Municipio de Guadalajara;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+h) Proponer al Ayuntamiento las disposiciones normativas municipales en materia de tránsito;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+i) El estudio, planificación y proposición ante el Ayuntamiento en Pleno o ante la Presidencia Municipal, en su caso, de los acuerdos, medidas o acciones que sean convenientes emprender por parte de la Administración Pública Municipal, tendientes a establecer o a incrementar la eficiencia del servicio de tránsito en el Municipio;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+j) Participar en las diferentes campañas de educación vial para conductores de vehículos o para peatones, especialmente en lo concerniente al Municipio;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+k) Proponer la realización de campañas coordinadamente con la ciudadanía y los medios de comunicación social, tendientes a una mejor conservación, mantenimiento y perfeccionamiento del estado de las vías públicas y en general de tránsito, dentro de la jurisdicción municipal;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+l) Proponer o dictaminar las propuestas, directrices o políticas municipales relativas a estacionamientos públicos, así como en la temática general de zonas, lugares, horarios y sistemas de estacionamientos en la vía pública;
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.M. 1 DE OCTUBRE DE 2021)</small>
+
+m) Analizar y proponer lo relativo al transporte público de pasajeros, que sean operados bajo permisos, concesiones, contratos de subrogación, u otra modalidad análoga expedida por el Ejecutivo del Gobierno del Estado, cuando se trate de:
+
+1. Rutas de acceso, así como de paso de vehículos del servicio público de transporte de pasajeros;
+
+2. Establecimiento y modificación de rutas de transporte público de pasajeros;
+
+3. Establecimiento y modificaciones de terminales de ascenso y descenso de pasajeros del transporte público;
+
+4. Modificaciones a los sentidos de las vialidades municipales que mantengan flujo de transporte público de pasajeros; y
+
+5. Los proyectos existentes en Secretarías Estatales u Organismos, relativos a las vialidades que integran el Municipio de Guadalajara.
+
+XVI. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
+
+XVII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XVIII. Promoción del Desarrollo Económico y del Turismo:
 
@@ -1511,17 +1621,57 @@ e) Coadyuvar en la creación y actualización del Atlas de Riesgo Municipal; y
 
 f) Designar de entre sus miembros una persona representante para integrarse al Consejo Municipal de Protección Civil.
 
-XX. Salud, Prevención y Combate a las Adicciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XX. Salud, Deportes y Atención a la Juventud:
 
 a) Realizar los estudios necesarios para determinar la situación que en materia de salubridad e higiene opera en el Municipio;
 
-b) Investigar los niveles de consumo de sustancias adictivas en la población municipal y proponer acciones tendientes a disminuirlos;
+b) (DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-c) Proponer programas sociales tendientes a la prevención de adicciones;
+c) (DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-d) Proponer y orientar la política pública que deba emprender el Municipio en la materia; y
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-e) Proponer programas sociales en materia de deporte, cultura, trabajo y educación que de manera integral reinserten a la población víctima de violencia o con adicción a sustancias nocivas.
+d) Proponer y orientar la política pública que deba emprender el Municipio en la materia;
+
+e) (DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+f) Vigilar que las dependencias municipales competentes, coadyuven en el fortalecimiento del Sistema Estatal de Salud, en materias de atención médica que se ministre por la Administración Pública Municipal, a la vigilancia de las condiciones higiénicas, de salubridad o sanitarias de los establecimientos y actividades que se desarrollen en el Municipio, colaborando con las autoridades estatales en materia de salud pública y la aplicación de las diferentes leyes federales, estatales y municipales sobre la materia mencionada;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+g) Proponer, dictaminar y apoyar los programas y campañas que se implementen, tendientes a la higienización en el Municipio, a la prevención y combate de las enfermedades epidémicas y endémicas, a la prevención, control y erradicación, en su caso, del alcoholismo y la drogadicción en el Municipio;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+h) Impulsar y planificar la práctica del deporte en el Municipio;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+i) Fomentar y proponer el rescate, mejoramiento y construcción de unidades y centros deportivos municipales;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+j) Propiciar la conservación, sistemas de operación y eficiente y eficaz administración de las unidades y centros deportivos municipales;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+k) Proponer la coordinación y el establecimiento de relaciones de carácter deportivo;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+l) Propiciar que la dependencia u organismo municipal respectivo gestione la promoción, organización, patrocinio y coordinación de eventos deportivos, en barrios y colonias del Municipio, otorgando estímulos honoríficos o económicos a los participantes;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+m) Fomentar la relación y coordinación entre los distintos sectores y órganos de gobierno, para el fortalecimiento de los programas de la juventud; y
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+n) Impulsar la coordinación entre la administración pública, involucrada en la ejecución de los programas de juventud.
 
 XXI. Seguridad Ciudadana y Prevención Social:
 
@@ -1797,37 +1947,25 @@ De las publicaciones realizadas en la Gaceta Municipal y en sus suplementos, deb
 
 ### Capítulo I. Disposiciones Comunes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 17 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 129.
 
-Tanto Presidencia Municipal, como Sindicatura, Secretaría General, Contraloría Ciudadana y cada Coordinación General, cuentan con una Dirección de Evaluación y Seguimiento, una Dirección de Enlace Administrativo y con el área de notificadores, con las atribuciones siguientes:
+Tanto Presidencia Municipal, como Jefatura de Gabinete, Sindicatura, Secretaría General, Contraloría Ciudadana, Tesorería, y cada Coordinación General, cuentan con una Jefatura de Enlace Administrativo, una Jefatura de Enlace Jurídico, ésta última con excepción de la Sindicatura, y con el área de notificadores.
 
-I. Dirección de Evaluación y Seguimiento:
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-a) Coordinar la planeación de los proyectos y programas estratégicos de la dependencia y sus áreas; así como elaborar los propios;
+Adicionalmente, todas las Coordinaciones Generales, por la naturaleza de sus funciones, contarán con una jefatura de enlace de comunicación.
 
-b) Gestionar y dirigir la vinculación interinstitucional entre la dependencia y la administración pública;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-c) Revisar y dar seguimiento a los acuerdos tomados por la o el titular de la dependencia e informarle sobre el avance de los asuntos de su competencia;
+Dichos enlaces contarán con las atribuciones siguientes:
 
-d) Supervisar el cumplimiento de las metas de la dependencia y sus áreas;
+I. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-e) Planear y coordinar la ejecución de programas de trabajo orientados a la mejora continua de la dependencia y sus áreas;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-f) Dirigir la planeación y ejecución de los eventos de la dependencia y sus áreas;
-
-g) Dar seguimiento a los informes e indicadores de las áreas de la dependencia;
-
-h) Informar a la o el titular de la dependencia los avances de sus actividades y los resultados de los análisis estadísticos que permitan medir la capacidad de respuesta de la misma;
-
-i) Coadyuvar en la implementación y operación del Sistema Municipal de Evaluación del Desempeño, de conformidad con lo dispuesto en la normatividad aplicable;
-
-j) Elaborar los informes y análisis estadísticos de la dependencia y sus áreas, y generar los indicadores para evaluar su operación; y
-
-k) Informar a la o el titular de la dependencia los avances de sus actividades y los resultados de sus análisis estadísticos.
-
-II. Dirección de Enlace Administrativo:
+II. Jefatura de Enlace Administrativo:
 
 a) Coadyuvar con la o el titular de la dependencia a la que pertenece en la integración administrativa y operativa de las áreas que la conforman;
 
@@ -1837,13 +1975,57 @@ c) Gestionar y administrar los recursos financieros, humanos, informáticos y ma
 
 d) Ejercer y controlar el presupuesto de la dependencia y sus áreas;
 
-e) Enviar a la Sindicatura las notificaciones que le sean realizadas por las autoridades jurisdiccionales, a cualquiera de las áreas de la dependencia a la que está adscrita dicha Dirección; y
+e) (DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-f) Coadyuvar en la implementación y operación del Presupuesto basado en Resultados, de conformidad con lo dispuesto en la normatividad aplicable.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 17 DE JUNIO DE 2020)</small>
+f) Coadyuvar en la implementación y operación del Presupuesto basado en Resultados, de conformidad con lo dispuesto en la normatividad aplicable;
 
-Presidencia Municipal, Coordinación General de Servicios Públicos Municipales y la Coordinación General de Gestión Integral de la Ciudad cuentan con el área de inspectores.
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+g) Dar seguimiento a los informes e indicadores de las áreas de la dependencia;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+h) Informar a la o el titular de la dependencia los avances de sus actividades y los resultados de los análisis estadísticos que permitan medir la capacidad de respuesta de la misma;
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+i) Coadyuvar en la implementación y operación del Sistema Municipal de Evaluación del Desempeño, de conformidad con lo dispuesto en la normatividad aplicable; y
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+j) Elaborar los informes y análisis estadísticos de la dependencia y sus áreas, y generar los indicadores para evaluar su operación.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.M. 1 DE OCTUBRE DE 2021)</small>
+
+III. Jefatura de Enlace Jurídico:
+
+a) Acatar los lineamientos dictados por la Sindicatura y por la Consejería Jurídica para la atención de los asuntos propios de las áreas en que se encuentra adscrita en materia jurídica;
+
+b) Asesorar, coordinar y supervisar, las acciones jurídicas necesarias, conjuntamente con la Sindicatura, en las dependencias que se encuentra adscrita;
+
+c) Gestionar y remitir a la Sindicatura o a Consejería Jurídica la documentación e información solicitada, para la defensa de los intereses jurídicos del Municipio;
+
+d) Proponer y en su caso rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando señale como autoridades responsables a las dependencias que se encuentran adscritas a la Jefatura;
+
+e) Informar a la Sindicatura las notificaciones que le sean realizadas por las autoridades jurisdiccionales, a cualquiera de las áreas de la dependencia a la que está adscrita dicha Jefatura; y
+
+f) Emitir opiniones técnicas y jurídicas que puedan incidir en la actualización de las disposiciones reglamentarias relacionadas con las actividades de la dependencia y que contribuyan de manera positiva en el municipio.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IV. Jefatura de Enlace de Comunicación:
+
+a) Acatar los lineamientos dictados por la Coordinación General de Análisis Estratégico y Comunicación para la atención de los asuntos propios de las áreas en que se encuentra adscrita en materia de comunicación;
+
+b) Coordinar y ejecutar las acciones comunicacionales necesarias, conjuntamente con la Coordinación General de Análisis Estratégico y Comunicación, en las dependencias que se encuentra adscrita;
+
+c) Proporcionar a la Coordinación General de Análisis Estratégico y Comunicación la documentación e información solicitada, para ejecutar los lineamientos y estrategias establecidos en materia de comunicación;
+
+d) Atender y gestionar, en su caso, las redes sociales específicas con las que cuenten las dependencias adscritas a su coordinación, incluyendo la interacción digital y siguiendo las directrices y lineamientos establecidos por la Coordinación General de Análisis Estratégico y Comunicación; e
+
+e) Informar a la Coordinación General de Análisis Estratégico y Comunicación sobre los comentarios y peticiones registrados en las redes sociales específicas adscritas a la coordinación en la que se encuentra.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE MAYO DE 2021)</small>
 
@@ -1887,55 +2069,49 @@ XII. Las demás previstas en la normatividad aplicable.
 
 Para la atención de los asuntos de su competencia, la Presidencia Municipal cuenta con los siguientes órganos:
 
-I. Jefatura de Gabinete;
+I. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-II. Gerencia Municipal;
+II. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-III. Coordinación de Asesoría;
+III. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-IV. Dirección de Inclusión y Atención a Personas con Discapacidad;
+IV. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-V. Dirección de Relaciones Públicas;
+V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-VI. Dirección de Relaciones Internacionales y Atención a Personas Migrantes;
+VI. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 VII. Dirección de Transparencia y Buenas Prácticas;
 
-VIII. Dirección General de Planeación y Evaluación del Desempeño;
+VIII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-IX. Oficina de Presidencia;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-X. Secretaría Privada; y
+IX. Secretaría Particular;
 
-XI. Consejería Legal.
+X. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
+
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XI. Consejería Jurídica;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XII. Coordinación de Proyectos Estratégicos; y
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XIII. Superintendencia del Centro Histórico.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRAN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 #### Sección Primera. Jefatura de Gabinete
 
 ###### Artículo 132.
 
-La Jefatura de Gabinete tiene por objeto coordinar las actividades de la Presidencia Municipal, así como apoyar y coordinar las actividades de la Presidenta o el Presidente Municipal con motivo del ejercicio de sus funciones y cuenta con las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Planear y coordinar el desarrollo de la agenda pública de los gabinetes, los cuales son el sistema en el que se agrupan los diferentes titulares de los órganos de gobierno municipal para desahogar la agenda pública del Municipio;
-
-II. Coordinar la formulación de proyectos, planes y programas de trabajo de las y los titulares de las Coordinaciones Generales, así como proponer acciones de mejora continua para la administración pública;
-
-III. Por instrucción de la Presidenta o el Presidente Municipal coordinar y convocar las reuniones de gabinete, presidiéndolas cuando así se lo instruya, o en su ausencia;
-
-IV. Fomentar y mantener los vínculos institucionales con los tres órdenes de gobierno;
-
-V. Coordinar los trabajos de la Presidenta o el Presidente Municipal con las diferentes instancias de los tres órdenes de gobierno;
-
-VI. Coordinar las actividades administrativas propias del Municipio y aquellas relacionadas con asuntos metropolitanos;
-
-VII. (DEROGADA, G.M. 28 DE ABRIL DE 2021)
-
-VIII. Atender, llevar el control y turnar la correspondencia presentada ante oficialía de partes de Presidencia Municipal y Jefatura de Gabinete.
-
-> <small>(REFORMADO, G.M. 28 DE ABRIL DE 2021)</small>
-
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Gestión de Coordinación Metropolitana y de Administración, Evaluación y Seguimiento.
-
-El área de Administración, Evaluación y Seguimiento cuenta con las atribuciones contenidas en el artículo 129.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección I
 
@@ -1943,25 +2119,7 @@ Dirección de Gestión de Coordinación Metropolitana
 
 ###### Artículo 133.
 
-Son atribuciones de la Dirección de Gestión de Coordinación Metropolitana:
-
-I. Gestionar y articular los asuntos relacionados con los temas metropolitanos que atañen al Municipio;
-
-II. Aportar a la agenda metropolitana y generar insumos para que el Ayuntamiento tenga una presencia activa y efectiva;
-
-III. Apoyar para que, en ausencia de la Presidenta o el Presidente Municipal, el Ayuntamiento tenga a las y los representantes que correspondan en las sesiones de trabajo convocadas por las instancias de Coordinación Metropolitana;
-
-IV. Gestionar y articular los asuntos relacionados con los temas administrativos, jurídicos y financieros de las instancias de Coordinación Metropolitana para facilitar la toma de decisiones sobre el tema;
-
-V. Trabajar en conjunto en las diversas mesas y talleres organizados por las instancias de Coordinación Metropolitana;
-
-VI. Mantener comunicación e intercambio de información con las instancias de Coordinación Metropolitana;
-
-VII. Gestionar y dar seguimiento a la implementación de los acuerdos derivados de las instancias de Coordinación Metropolitana, con los Municipios integrantes del Área Metropolitana de Guadalajara;
-
-VIII. Ser enlace de las y los Consejeros Ciudadanos Metropolitanos con la administración pública municipal; e
-
-IX. Impulsar y promover la capacitación de los asuntos y coordinación metropolitana en la administración pública municipal.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 28 DE ABRIL DE 2021)</small>
 
@@ -1973,29 +2131,15 @@ Dirección de Inspección y Vigilancia
 
 (DEROGADO, G.M. 28 DE ABRIL DE 2021)
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
 #### Sección Segunda. Gerencia Municipal
 
 ###### Artículo 135.
 
-La Gerencia Municipal, tiene a su cargo coordinar y establecer el vínculo entre las dependencias de gobierno y la población, mediante la gestión estratégica e integral de la infraestructura y los servicios públicos que realiza y presta el Gobierno Municipal, orientándolos a brindar resultados de calidad a las demandas de la población.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-Cuenta con las siguientes atribuciones:
-
-I. Propiciar el desarrollo de la gestión municipal con la finalidad de hacerla eficiente y eficaz;
-
-II. Coordinar con las y los particulares, y con las autoridades competentes la ejecución de acciones en materia de obras y servicios que propicien la recuperación, protección y conservación de la infraestructura y equipamiento del Centro Histórico;
-
-III. Elaborar y ejecutar las acciones para la planeación y programación de políticas públicas municipales, tendientes a mejorar, conservar y rescatar la infraestructura y equipamiento del Centro Histórico, en coordinación con las demás dependencias;
-
-IV. Promover, propiciar y desarrollar la organización y coordinación entre las dependencias municipales, con la población, a través de las diversas áreas que integran la Dirección de Gestión de Zonas;
-
-V. Favorecer la capacidad de respuesta conjunta e integral a los problemas de la ciudad; e
-
-VI. Impulsar la gestión de la ciudad, mediante acciones colectivas y comunitarias.
-
-La Gerencia Municipal se debe coordinar con las y los demás integrantes de la Oficina de la Presidencia.
-
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Atención Ciudadana, Gestión de Zonas, Gestión del Centro Histórico y la de Socialización de Proyectos.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección I
 
@@ -2003,29 +2147,9 @@ Dirección de Atención Ciudadana
 
 ###### Artículo 136.
 
-La Dirección de Atención Ciudadana está encargada de recibir, administrar, canalizar y dar seguimiento a las solicitudes, demandas y peticiones de la población a través de los canales de comunicación oficiales.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-Cuenta con las siguientes atribuciones:
-
-I. Diseñar acciones y estrategias de contacto ciudadano, sencillas, accesibles y funcionales, acordes al programa de gobierno;
-
-II. Recibir, realizar el diagnóstico, canalizar, dar seguimiento y respuesta a las demandas de la población, a través de los programas de contacto ciudadano, mediante los sistemas con que cuente el Municipio;
-
-III. Establecer canales de comunicación con quienes representan las dependencias municipales a fin de canalizar y dar respuesta a las peticiones, quejas, sugerencias y denuncias ciudadanas;
-
-IV. Llevar el registro de la información de cada queja, denuncia, petición o sugerencia que reciba de la población;
-
-V. Proponer mejoras a los sistemas y programas de atención ciudadana que aumenten la eficiencia en la atención a las peticiones, quejas, sugerencias y denuncias presentadas por las y los ciudadanos;
-
-VI. Generar mecanismos de información a la población para que colabore y se integre en los diversos programas que emprenda el Municipio;
-
-VII. Promover la participación de la ciudadanía mediante la socialización de los asuntos públicos impulsados desde las entidades gubernamentales y de las actividades del Municipio, relacionadas al mejoramiento del espacio público de su fraccionamiento, colonia, condominio o unidad habitacional para el desarrollo integral de sus habitantes, a través de la gestión participativa;
-
-VIII. Canalizar a las y los vecinos con las entidades gubernamentales encargadas de la mediación y solución de los conflictos que se susciten entre los particulares de acuerdo a la normatividad aplicable;
-
-IX. Fomentar entre el funcionariado y las servidoras públicas y los servidores públicos municipales la participación ciudadana y gobernanza en la planeación, ejecución, implementación, medición y evaluación en los programas y políticas públicas; y
-
-X. Diseñar y planear, en coordinación con la dependencia competente en materia de proyectos del espacio público, y de manera conjunta y participativa con las y los vecinos, e instituciones de enseñanza, las acciones de rehabilitación y equipamiento de espacios públicos.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección II
 
@@ -2033,21 +2157,9 @@ Dirección de Gestión de Zonas
 
 ###### Artículo 137.
 
-La Dirección de Gestión de Zonas tiene por objeto fungir como enlace, organizador colectivo y gestor directo entre el Gobierno Municipal y la población, así como implementar las estrategias necesarias para acercar las tareas del Gobierno Municipal a las zonas gerenciales en que se divida el Municipio.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-Cuenta con las siguientes atribuciones:
-
-I. Propiciar el desarrollo de la gestión municipal respecto de las zonas gerenciales, con la finalidad de mejorar la capacidad de respuesta global e integral de la administración del Municipio;
-
-II. Proponer a la Gerenta o Gerente Municipal la división del territorio municipal por zonas gerenciales, para que este lo someta a validación de la Presidenta o el Presidente Municipal;
-
-III. Colaborar en la formulación de proyectos, planes y programas de trabajo, respecto de las zonas gerenciales;
-
-IV. Diseñar y operar acciones y estrategias de contacto ciudadano en las zonas gerenciales;
-
-V. Realizar acciones integrales, coordinando y focalizando los servicios públicos para atender y satisfacer las necesidades de las zonas gerenciales; y
-
-VI. Coordinarse con las dependencias municipales para el desempeño de sus atribuciones en las zonas gerenciales del Municipio.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección III
 
@@ -2055,19 +2167,9 @@ Dirección de Gestión del Centro Histórico
 
 ###### Artículo 138.
 
-La Dirección de Gestión del Centro Histórico tiene por objeto fungir como enlace entre el Gobierno Municipal y la población que reside o cuya actividad económica se encuentra dentro del polígono que delimita el Centro Histórico, con la finalidad de aumentar la atención a las necesidades de la zona.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-Tiene las siguientes atribuciones:
-
-I. Propiciar la mejora de la capacidad de organización, atención y respuesta por parte del Gobierno Municipal respecto a la infraestructura, equipamiento urbano y servicios públicos en el Centro Histórico;
-
-II. Colaborar en la formulación de proyectos, planes y programas de trabajo que son materia de su competencia;
-
-III. Establecer contacto con la población que reside o cuya actividad económica se encuentra dentro del polígono que delimita el Centro Histórico para impulsar las actividades de la Gerencia Municipal;
-
-IV. Realizar acciones integrales que faciliten la gestión focalizada de los servicios públicos para atender y satisfacer las necesidades y demandas de la población ubicada en el Centro Histórico; y
-
-V. Coordinarse con el Patronato del Centro Histórico, Barrios y Zonas Tradicionales de la Ciudad de Guadalajara y las dependencias municipales para el desempeño de sus atribuciones en dicho polígono.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección IV
 
@@ -2075,107 +2177,39 @@ Dirección de Socialización de Proyectos
 
 ###### Artículo 139.
 
-La Dirección de Socialización de Proyectos es la encargada de generar condiciones que faciliten los trabajos y obras con impacto social del Gobierno Municipal y tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Realizar la planeación operativa y estratégica para la socialización de los beneficios y posibles afectaciones por las acciones e intervenciones territoriales que realice el Gobierno de Guadalajara;
-
-II. Socializar la información dirigida a la población, respecto de las obras, eventos y programas del Gobierno Municipal;
-
-III. Distribuir el mensaje informativo y calendario de trabajos a las vecinas y vecinos de las zonas a intervenir, según los planes y programas municipales;
-
-IV. Colaborar con la Coordinación Municipal de Protección Civil en la difusión de información a la población de medidas preventivas y de seguridad para prevenir y disminuir afectaciones en situaciones de emergencia;
-
-V. Realizar censo y registro de las ciudadanas y ciudadanos atendidos, lista de necesidades de infraestructura, obras o servicios, así como la percepción de las acciones realizadas por el Gobierno de Guadalajara; y
-
-VI. Atender las inquietudes de las ciudadanas y ciudadanos de las zonas beneficiadas o afectadas por la implementación de programas o proyectos.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 #### Sección Tercera. Coordinación de Asesoría
 
 ###### Artículo 140.
 
-La Coordinación de Asesoría está encargada de entregar a la Presidencia Municipal información en temas relacionados con la administración pública municipal y su ejercicio.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-Tiene las siguientes atribuciones:
-
-I. Coordinar las actividades de asesoría a la Presidencia Municipal;
-
-II. Realizar análisis de los temas de coyuntura social de importancia para las decisiones del Gobierno Municipal;
-
-III. Diseñar, dar seguimiento y evaluar el mensaje político y gubernamental de la Presidencia Municipal;
-
-IV. Generar investigación y análisis de los temas de interés público y de políticas públicas requeridas por la Presidencia Municipal;
-
-V. Recabar información, indicadores y estadísticas generadas por las dependencias de la administración pública municipal y realizar análisis de las mismas;
-
-VI. Generar material de apoyo y contenidos para las actividades de la Presidencia Municipal cuando esta lo requiera; y
-
-VII. Coadyuvar con las dependencias de la administración pública municipal, en el análisis de información cuando estas lo soliciten.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 #### Sección Cuarta. Dirección de Inclusión y Atención a Personas con Discapacidad
 
 ###### Artículo 141.
 
-La Dirección de Inclusión y Atención a Personas con Discapacidad tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Promover el respeto a los derechos humanos de las personas que se encuentran en el Municipio, en coordinación con la Dirección de lo Jurídico de Derechos Humanos y demás instancias que conforman la administración pública municipal;
-
-II. Coordinarse con las dependencias municipales correspondientes para incluir el enfoque de derechos humanos en la planeación municipal del desarrollo y el presupuesto de egresos municipal;
-
-III. Diseñar, promover y ejecutar acciones y políticas con diferentes sectores públicos y sociales, con el propósito de prevenir, atender, sancionar y erradicar la discriminación;
-
-IV. Proponer los instrumentos y diagnósticos estadísticos, normativos y reglamentarios en materia de inclusión;
-
-V. Capacitar, coordinar y acompañar las redes de institucionalización de la inclusión en las instituciones municipales;
-
-VI. Apoyar en la conformación y funcionamiento de consejos, institutos, comités u órganos en materia de inclusión;
-
-VII. Vincular, apoyar y gestionar la participación ciudadana y de los organismos de la sociedad civil en la elaboración y evaluación de políticas de inclusión;
-
-VIII. Fomentar la capacitación, asesoría y asistencia técnica a las entidades municipales, sobre inclusión; y
-
-IX. Coadyuvar e impulsar la armonización de los diversos programas en materia de inclusión.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 #### Sección Quinta. Dirección de Relaciones Públicas
 
 ###### Artículo 142.
 
-La Dirección de Relaciones Públicas tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Participar en la organización de eventos del Gobierno Municipal;
-
-II. Dar seguimiento a las representaciones que la Presidencia Municipal le confiera;
-
-III. Verificar que se ejecute el protocolo de eventos para la entrega de premios y reconocimientos otorgados por el Ayuntamiento o la Presidencia Municipal;
-
-IV. Establecer las bases y lineamientos para el desarrollo de los actos protocolarios dentro de los eventos que realicen las áreas del Gobierno Municipal;
-
-V. Apoyar y coordinar acciones con la participación de los diversos sectores, en los eventos municipales que tengan como propósito la presencia del Gobierno Estatal o Federal;
-
-VI. Colaborar con los tres niveles de gobierno y con la iniciativa privada, en materia de relaciones públicas donde exista la presencia de la Presidenta o el Presidente Municipal;
-
-VII. Coordinar con los enlaces de relaciones públicas de las dependencias municipales para la elaboración de programas y ejecución de eventos; y
-
-VIII. Establecer los mecanismos para el uso de los recintos oficiales de la Presidencia Municipal.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 #### Sección Sexta. Dirección de Relaciones Internacionales y Atención al Migrante
 
 ###### Artículo 143.
 
-Son atribuciones de la Dirección de Relaciones Internacionales y Atención al Migrante:
-
-I. Diseñar, gestionar e implementar proyectos de vinculación internacional estratégicos orientados a fortalecer las líneas de acción establecidas como prioridad en el Plan Municipal de Desarrollo y Gobernanza;
-
-II. Proponer a la Presidenta o el Presidente Municipal, las políticas públicas en materia de relaciones internacionales y atención al migrante, procurando la activación de las relaciones de amistad con otras ciudades del mundo, mediante la implementación de proyectos de cooperación específicos;
-
-III. Diseñar, organizar y conducir estrategias de acción con la participación de los diversos sectores, para la ejecución de los programas municipales que tengan como propósito la atención e inclusión de personas migrantes, de conformidad con la normatividad aplicable;
-
-IV. Coadyuvar con los gobiernos federal y estatal, y con la iniciativa privada en materia de relaciones internacionales y atención al migrante;
-
-V. Implementar programas de capacitación a servidoras y servidores públicos en materia de relaciones internacionales y atención al migrante; y
-
-VI. Coordinar las oficinas municipales de enlace con la Secretaría de Relaciones Exteriores para la recepción documentos para el trámite de pasaporte mexicano.
-
-Esta dirección cuenta con el área de Coordinación de Oficinas Municipales de Enlace con la Secretaría de Relaciones Exteriores.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 #### Sección Séptima. Dirección de Transparencia y Buenas Prácticas
 
@@ -2201,31 +2235,17 @@ VIII. Supervisar y asesorar para el cumplimiento en materia de transparencia del
 
 IX. Asesorar a las personas que reciban recursos públicos municipales, en materia de transparencia, acceso a la información, protección de datos personales y mejores prácticas.
 
-Para la atención de los asuntos de su competencia cuenta con las áreas de Acceso a la Información, Mejores Prácticas, Cultura de la Transparencia y Protección de Datos Personales.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 #### Sección Octava. Dirección General de Planeación y Evaluación del Desempeño
 
 ###### Artículo 145.
 
-La Dirección General de Planeación y Evaluación del Desempeño tiene por objeto coordinar la planeación municipal y la generación de información estratégica, así como el análisis y seguimiento de programas.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-Tiene las siguientes atribuciones:
-
-I. Coordinar la planeación y evaluación de la administración pública municipal.
-
-II. Coordinar y concentrar información, indicadores y estadísticas generadas por todas las dependencias de la administración pública municipal;
-
-III. Proponer la evaluación de los organismos públicos descentralizados municipales, previa autorización de la Presidencia Municipal;
-
-IV. Coordinar el Sistema Municipal de Evaluación del Desempeño, así como las estrategias de monitoreo, seguimiento y evaluación de resultados en el desarrollo del Municipio, en los términos de la legislación aplicable;
-
-V. Coadyuvar con el Instituto Municipal de las Mujeres en Guadalajara, para la armonización de las políticas públicas municipales, los sistemas y dependencias de la administración pública municipal con perspectiva de igualdad de género y para una vida libre de violencia para las mujeres, en su diseño, implementación, seguimiento y evaluación; a través de la normatividad aplicable en los sistemas correspondientes;
-
-VI. Coordinar la generación de la información para la elaboración del informe anual de actividades; y
-
-VII. Fungir como unidad enlace de planeación y gobernanza de acuerdo con lo establecido en la ley estatal en materia de planeación participativa.
-
-Para la atención de los asuntos de su competencia cuenta con las áreas de Evaluación Institucional y la de Planeación Institucional.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección I
 
@@ -2233,19 +2253,9 @@ Dirección de Planeación Institucional
 
 ###### Artículo 146.
 
-Son atribuciones de la Dirección de Planeación Institucional:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Coordinar la elaboración del Plan Municipal de Desarrollo y Gobernanza del Municipio, los Planes Institucionales, así como los programas presupuestarios que de estos se deriven;
-
-II. Establecer modelos de planeación que propicien el desarrollo del Municipio en congruencia con el Plan Municipal de Desarrollo y Gobernanza y con los programas presupuestarios, programas transversales, planes institucionales y proyectos derivados del mismo y que repercutan en una mejora de la calidad de vida de la población;
-
-III. Establecer los lineamientos para la elaboración de las matrices de indicadores para resultados;
-
-IV. Coordinar la elaboración de las matrices de indicadores para resultados de las políticas, programas y proyectos que forman parte del Sistema Municipal de Evaluación del Desempeño de la administración pública municipal;
-
-V. Coordinar los procesos de monitoreo de las matrices de indicadores de resultados, así como de los programas y políticas que forman parte del Sistema Municipal de Evaluación del Desempeño; y
-
-VI. Proponer la información estadística para la elaboración del informe anual de actividades sobre el estado que guarda la administración pública municipal.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección II
 
@@ -2253,63 +2263,863 @@ Dirección de Evaluación Institucional
 
 ###### Artículo 147.
 
-Son atribuciones de la Dirección de Evaluación Institucional:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Administrar el sistema de evaluación, seguimiento e información de políticas, programas y proyectos a fin de monitorear y evaluar los avances sobre el cumplimiento de los objetivos del Programa Municipal de Desarrollo y Gobernanza y de los planes y programas que de él se derivan y que forman parte del Sistema Municipal de Evaluación del Desempeño;
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-II. Coordinar, integrar y supervisar el Programa Anual de Evaluación del Municipio, así como las metodologías e indicadores del desarrollo, en los términos previstos en la normatividad aplicable;
+#### Sección Novena. Secretaría Particular
 
-III. Elaborar los mecanismos y las herramientas para evaluar los programas presupuestarios que forman parte del Sistema Municipal de Evaluación del Desempeño de la administración pública municipal;
-
-IV. Definir los requisitos y los criterios de calidad que deben cumplir los organismos evaluadores externos, además de elaborar en coordinación con las áreas específicas, los términos de referencia, para las evaluaciones;
-
-V. Realizar las acciones de evaluación y control de gestión de desempeño y resultados, en congruencia con el modelo de planeación; y
-
-VI. Elaborar las metodologías y los procedimientos para atender los aspectos susceptibles de mejora, así como elaborar, supervisar y monitorear las agendas de mejoras derivadas de la evaluación de las políticas, programas y proyectos públicos que forman parte del Sistema Municipal de Evaluación del Desempeño.
-
-#### Sección Novena. Oficina de Presidencia
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 148.
 
-La Oficina de Presidencia es la encargada de dar seguimiento a los programas, proyectos y demás responsabilidades de la Presidencia Municipal.
+La Secretaría Particular tiene por objeto apoyar y coordinar las actividades de la Presidenta o el Presidente Municipal con motivo del ejercicio de sus funciones, así como llevar el control y la administración de la oficialía de partes.
 
-Tiene las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-I. Llevar el control de la agenda oficial de la Presidencia Municipal;
+Tiene a su cargo las atribuciones siguientes:
+
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+I. Llevar el registro y control de la agenda oficial de la Presidencia Municipal;
 
 II. Apoyar a la Presidencia Municipal en las tareas administrativas propias del despacho;
 
-III. Brindar atención a las personas que acuden a las giras y a la Presidencia Municipal; y
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-IV. Elaborar periódicamente informes y estadísticas de los asuntos atendidos o resueltos.
+III. Brindar atención a las personas que acuden a las giras y a la Presidencia Municipal;
 
-#### Sección Décima. Secretaría Privada
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-###### Artículo 149.
+IV. Elaborar periódicamente informes y estadísticas de los asuntos atendidos o resueltos;
 
-La Secretaría Privada de la Presidencia Municipal cuenta con las siguientes atribuciones:
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+V. Llevar el control y administración de Oficialía de Partes de la Presidencia Municipal; y
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VI. Atender la correspondencia oficial y el turno de asuntos, previo acuerdo, con la Presidenta o el Presidente Municipal.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+La Secretaría Particular, cuenta con las áreas de Relaciones Públicas, Seguridad y Secretario Privado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección I
+
+Dirección de Relaciones Públicas
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 148 Bis.
+
+La Dirección de Relaciones Públicas tiene las siguientes atribuciones:
+
+I. Participar en la organización de eventos del Gobierno Municipal;
+
+II. Dar seguimiento a las representaciones que la Presidencia Municipal le confiera;
+
+III. Verificar que se ejecute el protocolo de eventos para la entrega de premios y reconocimientos otorgados por el Ayuntamiento o la Presidencia Municipal;
+
+IV. Establecer las bases y lineamientos para el desarrollo de los actos protocolarios dentro de los eventos que realicen las áreas del Gobierno Municipal;
+
+V. Apoyar y coordinar acciones con la participación de los diversos sectores, en los eventos municipales que tengan como propósito la presencia del Gobierno Estatal o Federal;
+
+VI. Colaborar con los tres niveles de gobierno y con la iniciativa privada, en materia de relaciones públicas donde exista la presencia de la Presidenta o el Presidente Municipal;
+
+VII. Coordinar con los enlaces de relaciones públicas de las dependencias municipales para la elaboración de programas y ejecución de eventos; y
+
+VIII. Establecer los mecanismos para el uso de los recintos oficiales de la Presidencia Municipal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección II
+
+Seguridad
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 148 Ter.
+
+El área de Seguridad tiene las siguientes atribuciones y obligaciones:
+
+I. Desempeñar los servicios de protección, custodia, vigilancia y seguridad de la Presidenta o el Presidente Municipal por la protección (sic) integridad de la Presidenta o el Presidente Municipal;
+
+II. Coordinar las actividades de los elementos asignados para los servicios de protección, custodia, vigilancia y seguridad de la Presidenta o el Presidente Municipal;
+
+III. Conducirse con pleno respeto a los derechos humanos y dignidad del ciudadano;
+
+IV. Ejecutar el protocolo de auxilio médico inmediato a la Presidenta o el Presidente Municipal, de resultar con lesiones; y
+
+V. Acatar los lineamientos dictados por las instancias o dependencias competentes en materia de seguridad.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección III
+
+Secretario Privado
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 148 Cuater. El Secretario Privado de la Presidencia Municipal cuenta con las siguientes atribuciones:
 
 I. Auxiliar a la Presidenta o el Presidente Municipal en el seguimiento de los asuntos de su agenda privada;
 
 II. Coordinar y vigilar toda acción de apoyo logístico, relativas a la programación y supervisión de las giras de la Presidenta o el Presidente Municipal; y
 
-III. Canalizar a las instancias correspondientes las peticiones planteadas a la Presidenta o el Presidente Municipal durante sus giras.
+III. Canalizar a las instancias correspondientes las peticiones planteadas.
 
-#### Sección Décima Primera. Dirección de Consejería Legal
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Décima. Secretaría Privada
+
+###### Artículo 149.
+
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Décima Primera. Consejería Jurídica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 150.
 
-Son atribuciones de la Dirección de Consejería Legal:
+Son atribuciones de la Consejería Jurídica:
 
 I. Asesorar jurídicamente a la Presidenta o al Presidente Municipal en asuntos de su competencia;
 
-II. Dar seguimiento a los procesos jurídicos donde la Presidenta o el Presidente Municipal esté involucrado; y
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-III. Analizar y realizar proyecciones jurídicas encomendadas por la Presidenta o el Presidente Municipal.
+II. Dar seguimiento por conducto de la Dirección Jurídica de Seguimiento a los procesos jurídicos donde la Presidenta o el Presidente Municipal esté involucrado;
 
-#### Sección Primera. Dirección General Jurídica
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Segunda. Dirección de Derechos Humanos
+III. Analizar y realizar proyecciones jurídicas encomendadas por la Presidenta o el Presidente Municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IV. Atender y tramitar a través de la Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara los asuntos de carácter litigioso en que la Comisaría sea parte; así como, la asesoría y, en su caso, defensa de las servidoras y los servidores de la Comisaría en cualquier juicio interpuesto en contra de estos en ejercicio de sus funciones;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+V. Tramitar jurídicamente a través de la Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara los asuntos de las corporaciones policíacas relacionados con faltas a los ordenamientos internos y demás normatividad aplicable;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VI. Reducir o condonar, previo acuerdo de la Presidenta o el Presidente Municipal, las multas impuestas por contravención a la normatividad municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VII. Calificar las infracciones administrativas que no sean competencia de los jueces cívicos municipales;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VIII. Instruir y coordinar a través de la Dirección de Inspección y Vigilancia, la inspección y vigilancia permanente y organizada del cumplimiento de las leyes, normas y reglamentos de aplicación municipal, adoptando para ello las medidas normativas, administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IX. Integrar, substanciar y resolver los recursos de revisión en materia de desarrollo urbano de conformidad a lo establecido en la normatividad aplicable, a través de la Dirección de Recursos de Revisión; y
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+X. Colaborar con la Sindicatura en la coordinación de las oficinas de enlace jurídico de las dependencias municipales.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con la Consejería Adjunta, las áreas Jurídica de Seguimiento, Inspección y Vigilancia, Recursos de Revisión, Justicia Cívica Municipal, Jurídico de Comisaría de la Policía de Guadalajara, y de Asuntos Internos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección I
+
+Consejería Adjunta
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Bis.
+
+La Consejería Adjunta, tendrá las siguientes atribuciones:
+
+I. Analizar y realizar proyecciones jurídicas encomendadas por la Presidenta o el Presidente Municipal;
+
+II. Asesorar y brindar apoyo técnico jurídico a la Sindicatura, en la procuración y defensa de los intereses y derechos del Municipio; y
+
+III. Coadyuvar con la Consejería Jurídica en el despacho de los asuntos propios de su competencia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección II
+
+Dirección Jurídica de Seguimiento
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Ter.
+
+La Dirección Jurídica de Seguimiento cuenta con las siguientes atribuciones:
+
+I. Dar seguimiento a los procesos jurídicos donde la Presidenta o el Presidente Municipal esté involucrado;
+
+II. Revisar los asuntos jurídicos y documentos que le remitan a la Presidenta o el Presidente Municipal; y
+
+III. Suscribir en representación de la Presidenta o el Presidente Municipal toda clase de contratos o convenios, previo acuerdo de la Presidenta o el Presidente Municipal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección III
+
+Dirección de Inspección y Vigilancia
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Quater.
+
+Son atribuciones de la Dirección de Inspección y Vigilancia:
+
+I. Supervisar el cumplimiento de la normatividad y adoptar para ello las medidas administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad con respeto a los derechos humanos;
+
+II. Aplicar en el ejercicio de sus funciones la norma para inspeccionar y supervisar todo giro, licencia, permiso o concesión, en los casos de giros catalogados como tipo A, la inspección se realizará solamente mediante reporte previo;
+
+III. Supervisar que las personas cumplan con las obligaciones establecidas en los contratos de concesión o convenios de gestión en materia de aseo público, celebrados con el municipio, así como las relativas al manejo de residuos urbanos;
+
+IV. Supervisar que se cumpla la legislación, reglamentación y normatividad ambiental vigente en materia de tratamiento, recolección, traslado, uso y disposición final de los residuos sólidos urbanos, impacto ambiental, arbolado urbano, ruido, descargas de aguas residuales, emisiones a la atmósfera, en la esfera de la competencia municipal;
+
+V. Ordenar y practicar visitas domiciliarias para comprobar el cumplimiento de las obligaciones administrativas a cargo de las personas, de conformidad con lo previsto en la normatividad aplicable;
+
+VI. Ordenar y practicar en coordinación con las dependencias competentes la revisión o visitas de inspecciones para evitar la reventa de boletos en espectáculos públicos, eventos deportivos y exhibición de películas y, en su caso, practicar el aseguramiento en cumplimiento de la normatividad aplicable;
+
+VII. Ordenar y practicar la revisión en las vías públicas y lotes baldíos, para verificar el cumplimiento de la normatividad aplicable;
+
+VIII. Supervisar y verificar en coordinación con las dependencias competentes, los controles de calidad empleados en la edificación y urbanización de cualquier tipo de construcción y su apego a los proyectos autorizados;
+
+IX. Definir y establecer las estrategias y compromisos que permitan la atención y cumplimiento eficiente de la normatividad vigente y de los objetivos previstos en materia de inspección y vigilancia en el Plan y Programa de Gobierno en coordinación con las dependencias competentes;
+
+X. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos que sean necesarios para agilizar los trámites que realice la población y se lleven a cabo en la dirección;
+
+XI. Coadyuvar con la Sindicatura en el diseño de los formatos de órdenes de visita y actas de inspección que empleen en sus actuaciones los inspectores municipales y utilizar solo aquellos autorizados por la Sindicatura;
+
+XII. Coordinar y supervisar las labores de las personas operativas y administrativas a su cargo;
+
+XIII. Informar y proporcionar los datos y documentos en copias certificadas respecto a las edificaciones o construcciones ejecutadas en contra de la normatividad aplicable, que sean detectadas en la visita de inspección y vigilancia, para que con ello la Sindicatura, a través de su Dirección General Jurídica, inicie el procedimiento de demolición correspondiente, de conformidad a las disposiciones de la materia;
+
+XIV. Supervisar el proceso de construcciones, edificaciones y urbanizaciones en ejecución a fin de garantizar el apego a los proyectos que se les hubiere autorizado; en coordinación con las dependencias competentes;
+
+XV. Ordenar y practicar el aseguramiento precautorio de bienes y mercancías a comerciantes ambulantes, a efecto de garantizar el pago de las sanciones que se les impongan por infringir las disposiciones aplicables;
+
+XVI. Ordenar y practicar las inspecciones, aseguramientos y decomisos derivados de convenios de coordinación celebrados por el Ayuntamiento con las autoridades federales y estatales en materia de salud pública e higiene;
+
+XVII. Ordenar y practicar la clausura de giros en los términos previstos en la normatividad aplicable;
+
+XVIII. Ordenar y practicar el aseguramiento de máquinas de videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos de habilidad y destreza, juegos mecánicos y en general aquellos que incumplan con la normatividad municipal;
+
+XIX. Crear en coordinación con la dependencia competente un sistema de registro de giros de particulares que desarrollen actividades reguladas por los ordenamientos municipales, en los que se les determinen obligaciones a su cargo, y mantenerlo actualizado, a fin de que su verificación y control sean más eficientes;
+
+XX. Comunicar los resultados de las inspecciones, según sea el caso, a la Consejería Jurídica de Presidencia, a la Sindicatura y a la Tesorería;
+
+XXI. Notificar a las personas físicas y jurídicas el resultado de la visita por actos u omisiones que les sean imputables por infringir las disposiciones aplicables;
+
+XXII. Dar vista a la autoridad competente de los actos que puedan constituir infracciones administrativas o delitos;
+
+XXIII. Solicitar el auxilio de la fuerza pública para el desempeño de sus atribuciones;
+
+XXIV. Verificar el cumplimiento de las disposiciones normativas aplicables al funcionamiento de los rastros municipales;
+
+XXV. Ordenar y practicar el aseguramiento precautorio de animales, atendiendo a lo dispuesto por la normatividad aplicable;
+
+XXVI. Ordenar y en su caso, llevar a cabo el retiro de anuncios espectaculares establecidos que contravengan disposiciones legales;
+
+XXVII. Establecer, implementar y operar una política permanente de verificación ambiental, actuando en colaboración con las dependencias y entidades públicas competentes;
+
+XXVIII. Llevar a cabo el desalojo de locatarios de mercados municipales o centrales de abastos, ordenado por autoridad administrativa o judicial; y en los casos que así proceda, asegurar precautoriamente los bienes y mercancías hasta en tanto se garantice el pago de las sanciones impuestas por infringir las disposiciones aplicables; y
+
+XXIX. Rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando se señalen como autoridades responsables a la Dirección de Inspección y Vigilancia o a sus direcciones dependientes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección IV
+
+Dirección de Recursos de Revisión de Usos de Suelo
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Quinquies.
+
+La Dirección de Recursos de Revisión de Usos de Suelo, cuenta con las siguientes atribuciones:
+
+I. Recibir, integrar, substanciar y resolver los recursos de revisión en materia de desarrollo urbano de conformidad a lo establecido en la normatividad aplicable;
+
+II. Emitir, en caso de considerarlo procedente, el acuerdo de admisión a trámite del recurso de revisión, así como admitir las pruebas ofertadas por la persona recurrente;
+
+III. Correr traslado a la Dirección de Ordenamiento del Territorio del municipio como autoridad responsable para la emisión de su informe y ofrecimiento de pruebas;
+
+IV. Solicitar las opiniones técnicas a las dependencias competentes para emitir su resolución;
+
+V. Emitir las resoluciones, las cuales deberán ser validadas por el Ayuntamiento para su eficacia, para tal efecto se seguirá el siguiente procedimiento:
+
+a) Se remitirá el expediente y el proyecto de resolución a la Consejería Jurídica para que por su conducto se envié a la Secretaría General con una anticipación mínima de setenta y dos horas anteriores a la celebración de la sesión del Ayuntamiento en que se deba conocer del asunto; y
+
+b) Una vez recibidas las constancias a que se refiere el inciso anterior el Secretario General, a más tardar cuarenta y ocho horas anteriores a la celebración de la sesión en que se deba de conocer del asunto, lo hará del conocimiento de la misma mediante una copia a cada uno de los miembros del Ayuntamiento.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección V
+
+Dirección de Justicia Cívica Municipal
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Sexies.
+
+La Dirección de Justicia Cívica Municipal tiene las siguientes atribuciones:
+
+I. Coordinar las acciones en materia de prevención social de la violencia cultura de la paz y mecanismos alternos de solución de conflictos;
+
+II. Supervisar y vigilar el funcionamiento de los juzgados cívicos municipales, prevención social y la violencia, y centros de mediación; y derivado de las irregularidades que detecte mediante las actas entregadas por la Unidad de Visitaduría, remitirlas a las instancias competentes para el inicio de los procedimientos de responsabilidad que resulten;
+
+III. Establecer las bases y lineamientos en materia de prevención social de la violencia y la delincuencia, con la participación ciudadana en el marco de los Sistemas Nacional y Estatal de Seguridad Pública;
+
+IV. Elaborar y aplicar los programas propedéuticos y exámenes destinados a las y los aspirantes a ingresar a los juzgados cívicos municipales y centros de mediación; así como, los de actualización y profesionalización, en coordinación con las dependencias competentes;
+
+V. Evaluar el desempeño del personal que labora en los juzgados cívicos municipales, centros de mediación, prevención social y visitaduría;
+
+VI. Diseñar y publicar en coordinación con las dependencias competentes, la convocatoria para que las y los aspirantes a jueces cívicos municipales, presenten el examen correspondiente en el caso de plazas vacantes. La que debe señalar los requisitos a cubrir en cada caso, día, hora y lugar, así como ser publicada en un periódico de difusión local, en la Gaceta Municipal y en el portal de internet oficial;
+
+VII. Recibir para su guarda y custodia los documentos que le remitan los juzgados cívicos municipales;
+
+VIII. Corregir las calificaciones irregulares de infracciones y la aplicación indebida de sanciones impuestas por las y los jueces cívicos municipales en los términos previstos por el presente Código;
+
+IX. Diseñar, preparar y llevar a cabo jornadas de justicia itinerante, determinando la ubicación, periodicidad y desarrollo de estas, conforme al presupuesto asignado, infraestructura, recursos humanos y materiales;
+
+X. Integrar un sistema de información para la verificación de los antecedentes de los infractores y determinación de las sanciones;
+
+XI. Proponer a la Presidenta o el Presidente Municipal, previo acuerdo con la Consejera o Consejero Jurídico de Presidencia, el número de juzgados cívicos y centros de mediación que deben funcionar; y
+
+XII. Realizar la supervisión de la información inscrita en el Registro Nacional de Detenciones por las unidades a su cargo.
+
+La Dirección de Justicia Cívica Municipal, cuenta con las Unidades del Centro de Mediación Municipal, Juzgados Cívicos Municipales, Prevención Social de la Violencia, y Visitaduría.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Septies.
+
+Para ocupar los cargos de Directora o Director de Justicia Cívica Municipal o de titular de alguna de las áreas indicadas en el último párrafo del artículo anterior, se requiere:
+
+I. Encontrarse en pleno ejercicio de sus derechos;
+
+II. Ser licenciada o licenciado en derecho, con cédula profesional y por lo menos un año de experiencia profesional; con excepción de la o el titular de la Unidad de Prevención Social de la Violencia, quien deberá contar con licenciatura en derecho o carrera afín;
+
+III. No haber sido condenada o condenado por delito intencional; y
+
+IV. Aprobar los exámenes correspondientes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsubsección I
+
+Unidad del Centro de Mediación Municipal
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Octies.
+
+En la Unidad del Centro de Mediación Municipal están las y los facilitadores, con las siguientes atribuciones:
+
+I. Conducir los procedimientos de mediación o conciliación en forma gratuita, imparcial, transparente, flexible y confidencial;
+
+II. Propiciar la comunicación y comprensión entre las partes;
+
+III. Cuidar que las partes participen en el procedimiento de manera libre y voluntaria, exentas de coacción o de influencia alguna;
+
+IV. Evitar demoras o gastos innecesarios en la sustanciación del procedimiento;
+
+V. Asegurarse de que los convenios entre las partes estén apegados a la legalidad; y
+
+VI. Remitir a la Unidad de Juzgados Cívicos Municipales aquellos asuntos donde no se hubiese llegado a la resolución del conflicto.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Novies. Para ser facilitadora o facilitador se deben reunir los siguientes requisitos:
+
+I. Ser mexicana o mexicano en pleno ejercicio de sus derechos;
+
+II. Tener cuando menos veinticinco años de edad;
+
+III. Tener licenciatura y cédula profesional;
+
+IV. Acreditar por lo menos un año de ejercicio profesional;
+
+V. No haber sido condenada o condenado por delito intencional;
+
+VI. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+
+VII. Contar con la certificación prevista en la normatividad aplicable
+
+VIII. Acreditar los exámenes respectivos; y
+
+IX. Completar los cursos correspondientes.
+
+Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica y revalidar la certificación indicada en la fracción VII del presente artículo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsubsección II
+
+Unidad de Juzgados Cívicos Municipales
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150 Decies.
+
+Los juzgados cívicos municipales funcionan las veinticuatro horas, todos los días del año, en turnos sucesivos alternando su personal.
+
+En cada juzgado cívico municipal debe haber, por turno, el siguiente personal:
+
+I. Una o un juez cívico municipal;
+
+II. Una secretaria o secretario;
+
+III. Una o un médico;
+
+IV. Las y los custodios y analistas que se requieran;
+
+V. Una defensora o defensor de oficio;
+
+VI. Una o un psicólogo; y
+
+VII. Una licenciada o licenciado en trabajo social.
+
+En los casos que se requiera, la jueza o juez cívico municipal, puede solicitar la intervención de una facilitadora o facilitador, adscrito a la Unidad del Centro de Mediación Municipal.
+
+Cuando se trate de menores probables infractores, se solicita la presencia de una o un agente de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+El personal señalado en la fracción V, por la naturaleza de sus funciones, depende directamente de la persona titular de la Dirección de Justicia Cívica Municipal. El contemplado en la fracción VI, se encuentra adscrito a la Unidad de Prevención Social de la Violencia.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Undecies. Para ser una o un juez cívico municipal, adicionalmente a los requisitos establecidos en el artículo 57 de la Ley, deberá reunir los siguientes:
+
+I. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+
+II. Acreditar los exámenes respectivos; y
+
+III. Completar los cursos correspondientes.
+
+Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Duodecies. Para ser secretaria o secretario de juzgado se deben reunir los siguientes requisitos:
+
+I. Encontrarse en pleno ejercicio de sus derechos;
+
+II. Tener cuando menos veinticinco años de edad;
+
+III. Ser licenciada o licenciado en derecho, con cédula profesional;
+
+IV. No haber sido condenada o condenado por delito intencional; y
+
+V. Aprobar los exámenes correspondientes.
+
+Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Terdecies. Para ser integrante de la defensoría de oficio se requiere:
+
+I. Encontrarse en pleno ejercicio de sus derechos;
+
+II. Tener cuando menos veinticinco años de edad;
+
+III. Ser licenciada o licenciado en derecho, con cédula profesional y por lo menos un año de experiencia profesional;
+
+IV. No haber sido condenada o condenado por delito intencional; y
+
+V. Aprobar los exámenes correspondientes.
+
+Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Quaterdecies. Para ser una o un médico de juzgado se requiere:
+
+I. Encontrarse en pleno ejercicio de sus derechos;
+
+II. Tener cuando menos veinticinco años de edad;
+
+III. Ser médico cirujano y partero, con cédula profesional;
+
+IV. Acreditar por lo menos dos años de ejercicio profesional;
+
+V. No haber sido condenada o condenado por delito intencional; y
+
+VI. Aprobar los exámenes correspondientes.
+
+Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Quindecies. La o el juez cívico municipal, además de las atribuciones previstas en el artículo 58 de la Ley, tiene las siguientes:
+
+I. Desarrollar el procedimiento para la determinación de la responsabilidad de la persona probable infractora o infractor, tomando en consideración el examen médico y los estudios socio conductual, socio económico y psicosocial, practicados a esta;
+
+II. Conmutar a la infractora o infractor la multa o arresto de acuerdo a las condiciones socioeconómicas del mismo y a la gravedad de la infracción;
+
+III. Determinar la no imposición de la sanción, cuando sea la primera infracción cometida y de las circunstancias de su ejecución no se advierta temibilidad, ni riesgo alguno para la población, y siempre y cuando medie el acta circunstanciada en la que se observen dichas condiciones;
+
+IV. Solicitar por escrito a las autoridades competentes, el retiro de objetos abandonados en la vía pública;
+
+V. Dirigir al personal que integra el juzgado;
+
+VI. Realizar la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información del Registro Nacional de Detenciones;
+
+VII. Informar a la Directora o Director de Justicia Cívica Municipal sobre los asuntos tratados y las resoluciones dictadas;
+
+VIII. Solicitar el auxilio de las fuerzas policiales, en los términos de la normatividad aplicable;
+
+IX. Prestar auxilio al Ministerio Público y a las autoridades judiciales cuando así se lo requieran;
+
+X. Verificar que se respeten la dignidad y los derechos humanos de las personas;
+
+XI. Dejar en libertad a la presunta o presunto infractor cuando no resulte procedente su detención, mediante la elaboración del acta circunstanciada correspondiente;
+
+XII. Habilitar al personal para suplir las ausencias temporales de la secretaria o secretario del juzgado;
+
+XIII. Autorizar la devolución de los objetos y valores propiedad de las y los probables infractores o motivo de la controversia;
+
+XIV. Solicitar a las servidoras públicas y los servidores públicos la información y documentos necesarios para la resolución de los asuntos a su cargo; y
+
+XV. Coadyuvar, valorar y en su caso emitir las órdenes de protección en casos de violencia de género contra las mujeres.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Sexdecies. Para conservar el orden en el juzgado durante el procedimiento, la o el juez cívico municipal puede imponer las siguientes correcciones disciplinarias:
+
+I. Amonestación;
+
+II. Multa por el equivalente de uno a treinta veces el valor diario de la Unidad de Medida y Actualización. Tratándose. de personas jornaleras, obreras, trabajadoras o trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto en la normatividad aplicable; y
+
+III. Arresto hasta por veinticuatro horas.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Septendecies. La secretaria o secretario del juzgado cívico municipal tiene las siguientes atribuciones:
+
+I. Suplir las ausencias de la o el juez cívico municipal no mayores a dos meses, quedando habilitado para actuar como titular de conformidad con lo ordenado en el artículo 59 de la Ley;
+
+II. Expedir las constancias sobre hechos resueltos que solicite la persona denunciante, la infractora o infractor o quien tenga interés legítimo;
+
+III. Describir detalladamente, resguardar y devolver los objetos de las y los presuntos infractores, previa orden de la o el juez y mediante la expedición del recibo respectivo. No pudiendo devolver objetos que por su naturaleza sean peligrosos, en cuyo caso, deberá remitirlos al lugar que determine la o el juez cívico municipal, pudiendo ser reclamados ante este cuando proceda;
+
+IV. Llevar el control de la correspondencia, archivos y registros del juzgado;
+
+V. Auxiliar a la o el juez cívico municipal en el ejercicio de sus funciones; y
+
+VI. Remitir a las infractoras o infractores detenidos, a los lugares destinados al cumplimiento de arrestos.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Octodecies. La defensora o defensor de oficio, con relación a la probable persona infractora, tiene las siguientes atribuciones:
+
+I. Representarle y asesorarle;
+
+II. Vigilar que le sean respetados sus derechos humanos;
+
+III. Supervisar que el procedimiento a que quede sujeto, se apegue a derecho;
+
+IV. Orientar a sus familiares;
+
+V. Dar seguimiento a las quejas y recursos presentados por esta o este.
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Novodecies. La o el médico del juzgado cívico municipal tiene las siguientes atribuciones:
+
+I. Examinar y en su caso auscultar a las personas detenidas, a fin de determinar su aparente estado de salud;
+
+II. Emitir los dictámenes de su competencia;
+
+III. Prestar la atención médica de emergencia; y
+
+IV. Llevar una relación de certificaciones médicas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsubsección III
+
+Unidad de Prevención Social de la Violencia
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Vicies. A la Unidad de Prevención Social de la Violencia le corresponde:
+
+Por lo que se refiere a la Prevención Social de la Violencia:
+
+I. Establecer programas, estrategias y acciones, orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como a combatir las distintas causas y factores que la generan, contribuyendo al objeto y fines de la seguridad ciudadana, tendientes a coadyuvar en el mejoramiento de la calidad de vida de las personas;
+
+II. Incluir la prevención en los ámbitos social, comunitario, situacional, y psicosocial;
+
+III. Incrementar la corresponsabilidad de la población y actores sociales en la prevención social, mediante su participación y desarrollo de competencias;
+
+IV. Reducir la vulnerabilidad ante la violencia en el territorio municipal;
+
+V. Generar entornos que favorezcan la convivencia y seguridad de la población;
+
+VI. Aplicar los programas educativos de prevención de faltas administrativas;
+
+VII. Participar en el diseño, implementación y evaluación de los procesos de prevención social; y
+
+VIII. Elaborar el Catálogo de Alternativas de las Medidas para la Mejor Convivencia Cotidiana.
+
+En cuanto a la infractora o infractor:
+
+I. Elaborar los estudios socio conductual, socio económico y psicosocial, previo a la audiencia con la Jueza o el Juez Cívico Municipal;
+
+II. Implementar cursos, talleres o el tratamiento necesario para que se logre en la o el infractor el cumplimiento de la medida impuesta, su reintegración a la sociedad y la no reincidencia;
+
+III. Realizar preferentemente a través del área de trabajo social o de quien sea designado, el seguimiento y supervisión de la infractora o infractor durante el cumplimiento de la medida impuesta a este, así como el monitoreo después de haberla cumplido, invitándole a participar en los cursos y talleres vigentes;
+
+IV. Remitir a la Unidad de Juzgados Cívicos Municipales las constancias que acrediten el cumplimiento de la resolución emitida por la Jueza o el Juez que dictó la sanción; y
+
+V. Actualizar el Registro Nacional de Detenciones, señalando fecha y hora de salida de la persona infractora.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsubsección IV
+
+Unidad de Visitaduría
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Unvicies. A la Unidad de Visitaduría le corresponde supervisar que el funcionamiento de las unidades que integran la Dirección de Justicia Cívica Municipal se apegue a la normatividad aplicable. Actividad que realiza a través de las y los visitadores municipales, quienes cuentan con las siguientes atribuciones:
+
+I. Tomar conocimiento de las quejas sobre demoras, excesos o deficiencias en el despacho de los asuntos que son competencia de las Unidades que integran la Dirección de Justicia Cívica Municipal;
+
+II. Practicar visitas periódicas a las unidades para verificar su funcionamiento;
+
+III. Comprobar el registro de asistencia del personal adscrito al área visitada;
+
+IV. Verificar que los objetos y valores relacionados, y bajo resguardo, se encuentren asegurados y en sitio seguro;
+
+V. Revisar la integración y actualización de los libros de gobierno;
+
+VI. Verificar que el entero de las multas impuestas se realice en los términos de la normatividad aplicable y conforme al procedimiento respectivo;
+
+VII. Verificar que los asuntos a cargo de las facilitadoras o facilitadores sociales se encuentren atendidos e integrados conforme a derecho;
+
+VIII. Hacer constar el número de personas detenidas por faltas administrativas y remitidas a la Unidad de Prevención Social de la Violencia, así como las y los menores canalizados a las instituciones competentes;
+
+IX. Examinar los expedientes integrados con motivo de las audiencias, las faltas administrativas y los acuerdos dictados y cumplidos, la calificación de las faltas administrativas y las resoluciones, de acuerdo a lo establecido en la normatividad aplicable;
+
+X. Revisar los acuerdos de mediación o conciliación, los convenios celebrados, así como las resoluciones y los procedimientos respectivos;
+
+XI. Verificar que los asuntos referentes a niñas, niños y adolescentes se hubiesen derivado a las instancias competentes, a través de la Unidad de Prevención Social de la Violencia, con la intervención de la o el agente de protección del menor;
+
+XII. Constatar que se hubiesen respetado los derechos humanos de las y los presuntos infractores; y
+
+XIII. Elaborar por triplicado acta circunstanciada de toda visita, una para la persona titular del área visitada, otra para la Directora o Director de Justicia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección VI (SIC)
+
+Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Duovicies. La Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara, tiene a su cargo el trámite de los asuntos de carácter litigioso en que la Comisaría sea parte. Cuyas atribuciones están previstas en su normatividad específica.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección VII
+
+Dirección de Asuntos Internos
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Tervicies. La Dirección de Asuntos Internos conocerá, investigará y sustanciará los procedimientos en contra de los elementos operativos de la Comisaría de la Policía de Guadalajara. Cuyas atribuciones están previstas en su normatividad específica.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Décima Segunda. Coordinación de Proyectos Estratégicos
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Quatervicies. La Coordinación de Proyectos Estratégicos es la encargada de impulsar los proyectos estratégicos que derive del Programa Municipal de Desarrollo o los que determine la Presidenta o el Presidente Municipal, y tiene las siguientes atribuciones:
+
+I. Impulsar los proyectos económicos estratégicos que se deriven del Programa Municipal de Desarrollo o en su caso, los que determine la Presidenta o el Presidente Municipal, así como coordinarse con la Administración pública para lograr su estructuración, financiamiento y desarrollo;
+
+II. Promover e impulsar, previa autorización del Ayuntamiento, la participación de la iniciativa privada local, nacional, así como la participación de la población y gobierno, con el objeto de procurar la autogestión de los proyectos estratégicos municipales;
+
+III. Planear, proyectar, promover, operar y administrar los proyectos estratégicos municipales; y
+
+IV. Proponer a la Presidenta o el Presidente Municipal, o al Ayuntamiento la constitución y suscripción de fideicomisos, sociedades mercantiles y demás instrumentos financieros específicos para el desarrollo de los proyectos económicos estratégicos para el Municipio.
+
+Se encuentra sectorizado a la Coordinación el Organismo Público Descentralizado denominado Consejo Social de Cooperación para el Desarrollo Urbano.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Décima Tercera. Superintendencia del Centro Histórico
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Quinvicies. La Superintendencia del Centro Histórico, tiene por objeto promover el desarrollo urbano, económico y social así como la mejora del medio ambiente, del espacio público, el orden, la seguridad y el incentivo a las actividades comerciales, culturales y deportivas dentro del Polígono de Intervención Urbana Especial Centro Histórico, mediante las atribuciones específicas conferidas a las dependencias a su cargo.
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Orden y Gobernanza; Desarrollo Urbano, Económico y Proyectos Estratégicos, así como Servicios Públicos del Centro Histórico.
+
+Para la consecución de sus fines, ésta Superintendencia del Centro Histórico deberá mantener vínculos de operación y comunicación con las demás instancias de Gobierno y de la Sociedad.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección I
+
+Dirección de Orden y Gobernanza
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Sexvicies. Son atribuciones de la Dirección de Orden y Gobernanza:
+
+I. Propiciar la mejora de la capacidad de organización, atención y respuesta por parte del Gobierno Municipal, respecto a la infraestructura, equipamiento urbano, ordenamiento en la movilidad y del comercio en el centro histórico;
+
+II. Elaborar y ejecutar las acciones para la planeación y programación de políticas públicas tendientes a mejorar, conservar y rescatar la infraestructura y equipamiento del centro histórico, en colaboración con la ciudadanía;
+
+III. Coadyuvar para que se lleven a cabo las acciones necesarias para el cumplimiento de la normatividad y adoptar para ello las medidas administrativas, técnicas y tecnológicas que permitan aplicar la norma en todo momento para inspeccionar y supervisar todo giro, licencia, permiso o concesión que se ubique dentro del Polígono de Intervención Urbana Especial Centro Histórico;
+
+IV. Solicitar al área correspondiente el aseguramiento precautorio de bienes y mercancías a comerciantes ambulantes, así como la clausura de giros, para efecto de garantizar el pago de las sanciones que se les impongan por infringir la normatividad aplicable, dentro del polígono de su competencia;
+
+V. Realizar la planeación operativa y estratégica para la socialización de los beneficios y posibles afectaciones, respecto de las obras, eventos, programas y actividades de gobierno que realice el Gobierno de Guadalajara;
+
+VI. Realizar censo y registro ciudadanos, lista de necesidades de infraestructura, obras o servicios así como la percepción de las acciones realizadas por el Gobierno de Guadalajara;
+
+VII. Coadyuvar en la promoción y difusión de los pilares de la participación ciudadana y gobernanza como lo son la organización de la ciudadanía, capacitación, socialización, vinculación y deliberación entre las y los vecinos y/o la población cuya actividad económica se encuentre dentro del Polígono de Intervención Urbana Especial Centro Histórico, para la toma de decisiones en los asuntos públicos y en el diseño de las políticas públicas que incidan en su ámbito territorial;
+
+VIII. Difundir los contenidos, materiales impresos y digitales, estadísticas, numeralias, infografías, mapas, planos y ubicaciones digitales para la difusión de la cultura de la participación ciudadana y la gobernanza en el centro histórico, como eje rector;
+
+IX. Coadyuvar en la planeación y regulación de la gestión integral del estacionamiento, a través de acciones cómo la reducción de incentivos al uso del automóvil, la regulación de cajones en la vía pública con cobro, la asignación de espacios para ascensos y descensos, cargas y descargas, motopuertos, ciclopuertos y cajones para personas con movilidad reducida, dentro del ámbito territorial de su competencia;
+
+X. Proponer a la Presidenta o al Presidente Municipal la suscripción de convenios con estacionamientos privados que den atención al público para que puedan desarrollar programas que beneficien la movilidad del centro histórico;
+
+XI. Solicitar la sanción de conductas que infrinjan la normatividad correspondiente en materia de movilidad dentro de su ámbito de competencia territorial;
+
+XII. Coadyuvar con las demás autoridades, para que la vía pública se encuentre sin obstáculos que impidan el libre tránsito de personas y vehículos, así como el estacionamiento de éstos últimos;
+
+XIII. Coadyuvar con las autoridades correspondientes para garantizar la seguridad y bienestar de las y los turistas en su tránsito y estadía dentro del Polígono de Intervención Urbana Especial Centro Histórico;
+
+XIV. Colaborar en la formulación de proyectos, planes y programas de trabajo que son materia de su competencia;
+
+XV. Establecer contacto con la población que reside o cuya actividad económica se encuentra dentro del Polígono de Intervención Urbana Especial Centro Histórico, para impulsar las actividades de la Superintendencia del Centro Histórico;
+
+XVI. Coordinar la aplicación de estrategias para construir la relación y comunicación del Gobierno Municipal con la población que reside o cuya actividad económica se encuentre dentro Polígono de Intervención Urbana Especial Centro Histórico;
+
+XVII. Atender con oportunidad y apegado a los derechos humanos, a las personas que se encuentren en situación de calle dentro de su ámbito territorial, para efecto de darles la atención necesaria y/o en su defecto proceder conforme lo marca la normatividad, en caso de que así aplique, en coordinación con las autoridades competentes en la materia;
+
+XVIII. Coordinarse en materia de seguridad y prevención del delito con la Comisaría Municipal, para efecto de garantizar a la ciudadanía mejores condiciones para residir o llevar a cabo actividades económicas en el ámbito territorial de su competencia; y
+
+XIX. Coordinarse con las diversas dependencias municipales, estatales y federales para el desempeño de sus atribuciones.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección II
+
+Dirección de Desarrollo Urbano, Económico y Proyectos Estratégicos
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Septvicies. Son atribuciones de la Dirección de Desarrollo Urbano, Económico y Proyectos Estratégicos:
+
+I. Propiciar las mejoras necesarias que requiera el entorno urbano y económico dentro del polígono que delimita el centro histórico;
+
+II. Proponer que se ofrezca a la población que reside o cuya actividad económica se encuentra dentro del Polígono de Intervención Urbana Especial Centro Histórico, los siguientes apoyos: la operación de una ventanilla empresarial, incentivos fiscales, estudios de mercado vocacionamiento y censos que permitan un mayor desarrollo urbano y económico;
+
+III. Colaborar en la revisión de los proyectos de las obras que se pretendan realizar por particulares dentro del Polígono de Intervención Urbana Especial Centro Histórico y proponer los lineamientos técnicos y cualitativos que habrán de regular las construcciones que se realicen dentro del Polígono de Intervención Urbana Especial Centro Histórico;
+
+IV. Proponer la ejecución de obras que realcen el aspecto artístico de los edificios y monumentos arquitectónicos que se ubican dentro del Polígono de Intervención Urbana Especial del Centro Histórico;
+
+V. Proponer lineamientos generales, recomendaciones y opiniones en el desarrollo de los proyectos urbanos de ingeniería y en general en materia de espacio público, en coordinación con las dependencias competentes y de conformidad a la normatividad aplicable;
+
+VI. Llevar a cabo la investigación de campo de los proyectos arquitectónicos y constructivos así como de uso y destino de los bienes inmuebles que se ubican dentro del polígono del centro histórico, para proponer la elaboración de propuestas y proyectos del equipamiento y mobiliario urbano;
+
+VII. Promover en coordinación con las autoridades competentes y la ciudadanía, la conservación de los bienes históricos, arqueológicos y artísticos que se ubiquen dentro del ámbito territorial de su competencia;
+
+VIII. Proponer programas para incrementar la inversión productiva, la generación de nuevas empresas y el fomento al empleo;
+
+IX. Proponer mecanismos para optimizar los trámites que realicen los residentes y/o la población cuya actividad económica se encuentre dentro del Polígono de Intervención Urbana Especial Centro Histórico, ante las diversas dependencias municipales;
+
+X. Proponer una política de incentivos para crear puestos de trabajo de calidad en beneficio de las empresas y la población que reside o tiene su actividad económica dentro del Polígono de Intervención Urbana Especial Centro Histórico;
+
+XI. Coadyuvar en la vinculación con los organismos empresariales que permitan la colaboración en conjunto, en beneficio del desarrollo económico del Centro Histórico de Guadalajara;
+
+XII. Proponer a la Presidenta o el Presidente Municipal, o al Ayuntamiento a través de la persona titular de la Superintendencia del Centro Histórico, la constitución y suscripción de fideicomisos, sociedades mercantiles y demás instrumentos financieros específicos para el desarrollo de los proyectos económicos estratégicos que sean favorables;
+
+XIII. Coadyuvar en la promoción cultural, deportiva y turísticamente al polígono que delimita el centro histórico;
+
+XIV. Desarrollar los eventos tradicionales que dan realce al centro histórico para su mejor difusión entre ciudadanos y visitantes;
+
+XV. Coadyuvar en las actividades artísticas y culturales que se realicen en Centro Histórico de Guadalajara;
+
+XVI. Proponer proyectos, programas y mecanismos, que impulsen y fomenten el desarrollo de las actividades culturales y artísticas;
+
+XVII. Coadyuvar en la promoción del uso de bienes públicos y fincas de valor patrimonial a cargo de creadores y productores locales, para el impulso de las artes y la cultura, dentro de su ámbito de competencia territorial y en coordinación con las dependencias competentes;
+
+XVIII. Coadyuvar en la preservación del patrimonio cultural y artístico del Centro Histórico de Guadalajara;
+
+XIX. Coadyuvar en la difusión del patrimonio y tradiciones culturales y artísticas del Centro Histórico de Guadalajara;
+
+XX. Proponer, implementar, dirigir y ejecutar programas que permitan promover al Centro Histórico de Guadalajara como destino turístico, realizando la publicidad respectiva y coadyuvar con los tres niveles de gobierno, fideicomisos en materia de turismo y la iniciativa privada;
+
+XXI. Proponer y coadyuvar con todas aquellas celebraciones tradicionales, folclóricas y artesanales que sirvan de atracción al turismo;
+
+XXII. Proponer al o la titular de la Superintendencia del Centro Histórico, las políticas públicas que estime convenientes en materia de promoción turística que sean favorables;
+
+XXIII. Colaborar en la formulación de proyectos, planes y programas de trabajo que son materia de su competencia; y
+
+XXIV. Coordinarse con las diversas dependencias municipales, estatales y federales para el desempeño de sus atribuciones en el polígono del centro histórico.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección III
+
+Dirección de Servicios Públicos del Centro Histórico
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 150 Octovicies. Son atribuciones de la Dirección de Servicios Públicos del Centro Histórico:
+
+I. Realizar acciones integrales que faciliten la gestión focalizada de los servicios públicos, para atender y satisfacer las necesidades y demandas de la población ubicada en el centro histórico;
+
+II. Propiciar las condiciones necesarias de atención en los servicios públicos a los residentes y/o personas cuya actividad económica se encuentra dentro del polígono que delimita el centro histórico;
+
+III. Coadyuvar en la evaluación ambiental estratégica, incluido el impacto ambiental, de obras o actividades de competencia de cualquiera de los tres órdenes de gobierno, cuándo las mismas se realicen en el territorio de su competencia;
+
+IV. Proponer y Coadyuvar con las dependencias, en la implementación de los programas de poda, trasplante y derribo de árboles, así como su restitución, cuando así proceda;
+
+V. Coadyuvar en la supervisión del funcionamiento y la eficiente calidad de la prestación del servicio público de alumbrado, en el ámbito territorial de su competencia;
+
+VI. Coadyuvar en la supervisión del funcionamiento y la eficiente calidad de la prestación del servicio de aseo público, en el ámbito territorial de su competencia;
+
+VII. Disponer lo necesario para que los espacios públicos del Centro Histórico de Guadalajara se conserven en estado de limpieza y saneamiento;
+
+VIII. Proponer los mecanismos mediante los cuales se otorgue a particulares el servicio de aseo contratado y verificar su cumplimiento;
+
+IX. Proponer un plan parar garantizar los operativos de limpieza en días conmemorativos y demás eventos de concentración masiva dentro del ámbito territorial de su competencia;
+
+X. Proponer y Coadyuvar con la rehabilitación y el equipamiento del mantenimiento urbano en centro histórico, en los términos del Programa de Gobierno Municipal;
+
+XI. Coadyuvar con el fondeo y pintura de bardas, postes, machuelos, glorietas y plazas, así como el retiro de propaganda existente en el mobiliario urbano e inmuebles que se ubiquen en el ámbito territorial de su competencia, así como dar mantenimiento general de los mismos;
+
+XII. Proponer y Coadyuvar en la ejecución de campañas encaminadas a sanear espacios públicos abiertos, fuentes, glorietas, monumentos, áreas privadas y públicas y espacios susceptibles de albergar agua estancada y demás sustancias o materiales que sean considerados insalubres hacia la población o que puedan propiciar la propagación de enfermedades, ya sea de manera directa o por agentes alternos;
+
+XIII. Solicitar las reparaciones menores en las banquetas conforme al modelo de políticas públicas de funcionalidad de imagen urbana y gestión ambiental;
+
+XIV. Proponer y solicitar la poda y derribo de árboles en los camellones, jardines, glorietas, banquetas, previa dictaminación técnica; así como elaborar y ejecutar el plan de mantenimiento y conservación de las áreas verdes del centro histórico de Guadalajara, en coordinación con las dependencias competentes;
+
+XV. Proponer al o la titular de la Superintendencia del Centro Histórico la revisión técnica de las solicitudes presentadas por particulares que pretenden obtener las concesiones de servicios públicos, en el polígono del centro histórico, para efecto de considerar e implementar consideraciones técnicas;
+
+XVI. Colaborar en la formulación de proyectos, planos y programas de trabajo que son materia de su competencia; y
+
+XVII. Coordinarse con las diversas dependencias municipales, estatales y federales para el desempeño de sus atribuciones.
 
 ### Capítulo III. Dependencias de Seguridad Pública
 
@@ -2319,11 +3129,11 @@ Para atender la función de seguridad pública en el Municipio, la Presidencia M
 
 ### Capítulo IV. Sindicatura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 152.
 
-Al frente de la Sindicatura está la Síndica o el Síndico, en quien recae la representación y defensa jurídica del Ayuntamiento y de las dependencias que integran la administración pública centralizada.
-
-Cuenta con las siguientes atribuciones:
+Al frente de la Sindicatura está la Síndica o el Síndico, en quien recae la representación y defensa jurídica del Ayuntamiento y de las dependencias que integran la administración pública centralizada. Cuenta con las siguientes atribuciones:
 
 I. Representar legalmente al Municipio en cualquier tipo de controversias o litigios, inclusive allanarse y transigir en los mismos cuando sea la parte demandada, sin perjuicio de la facultad que tiene el Ayuntamiento para designar apoderados o procuradores especiales para tal efecto;
 
@@ -2377,7 +3187,7 @@ XXIII. Indicar a la Dirección General Jurídica, promover las acciones correspo
 
 XXIV. Indicar a la Dirección General Jurídica, llevar a cabo las acciones en la tramitación de las denuncias y querellas penales, de los incidentes de devolución y de otorgamiento del perdón, así como para la defensa de los intereses municipales;
 
-XXV. Indicar a la Dirección General Jurídica llevar a cabo la atención y trámite de los asuntos de carácter litigioso en que la Comisaría sea parte; así como, la asesoría y, en su caso, defensa de las servidoras y los servidores de la Comisaría en cualquier juicio interpuesto en contra de estos en ejercicio de sus funciones;
+XXV. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XXVI. Notificar los acuerdos de trámite, resoluciones, oficios y determinaciones emitidas en los asuntos de su competencia, así como aquellos actos o resoluciones que le sean encomendados;
 
@@ -2385,11 +3195,13 @@ XXVII. Requerir y recibir de las dependencias municipales la documentación e in
 
 XXVIII. Mantener la relación jurídica y establecer los canales de comunicación formal con los Sindicatos del Gobierno Municipal;
 
-XXIX. Tramitar jurídicamente los asuntos de las corporaciones policíacas relacionados con faltas a los ordenamientos internos y demás normatividad aplicable;
+XXX (SIC). (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XXX. Proporcionar asesoría jurídica a la Presidenta o Presidente Municipal y, a las regidoras y los regidores para que ajusten su actividad al marco de legalidad;
 
-XXXI. Coordinar a las oficinas de enlace administrativo y áreas jurídicas de las dependencias municipales, para la atención de los asuntos jurídicos de su competencia;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXXI. Coordinar a las oficinas de enlace jurídico de las dependencias municipales, para la atención de los asuntos jurídicos de su competencia;
 
 XXXII. Integrar y operar el Programa Jurídico en las plataformas digitales;
 
@@ -2403,9 +3215,11 @@ XXXVI. Acordar, tramitar, desahogar el procedimiento administrativo a fin de det
 
 XXXVII. Promover a nombre de la Presidenta o el Presidente Municipal, la Tesorera o el Tesorero, la Secretaria o el Secretario General, las regidoras o los regidores o del Ayuntamiento, cualquier medio de defensa jurisdiccional o judicial incluido el Juicio de Amparo y desistirse de ellos, en su caso. Atender requerimientos y formular en general todas las promociones que a dichos juicios se refieran, así como apersonarse, interponer los recursos que procedan, con la facultad de actuar y designar en su nombre a las personas que fungirán como delegado o autorizado en dichos procedimientos legales.
 
-Para el cumplimiento de sus atribuciones, la Sindicatura cuenta con la Dirección General Jurídica y con la Dirección de Derechos Humanos.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Primera. Dirección de Archivo Municipal
+Para el cumplimiento de sus atribuciones, la Sindicatura cuenta con la Dirección General Jurídica.
+
+#### Sección Primera. Dirección General Jurídica
 
 ###### Artículo 153.
 
@@ -2417,7 +3231,7 @@ I. Atender las instrucciones de la Síndica o el Síndico para la defensa de los
 
 II. Formular denuncias y querellas ante el Ministerio Público y actuar como coadyuvante en la acreditación de delitos y pago de reparación del daño, en beneficio de los intereses del Municipio;
 
-III. Llevar a cabo apoyada por sus direcciones dependientes, la atención y trámite de los asuntos de carácter litigioso en que la Comisaría sea parte; así como, la asesoría y en su caso, defensa de las servidoras y servidores de la Comisaría en cualquier juicio interpuesto en contra de estos en ejercicio de sus funciones;
+III. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 IV. Autorizar apoyada por sus direcciones dependientes, previa indicación de la Síndica o el Síndico, mediante acuerdo fundado y motivado, de conformidad al procedimiento respectivo y normatividad aplicable, el retiro de sellos de clausura a quien por sus actividades irregulares u omisiones haya sido objeto de dicha medida de seguridad;
 
@@ -2455,7 +3269,9 @@ XIX. Representar legalmente al Ayuntamiento y a las dependencias municipales en 
 
 XX. Designar como asesores jurídicos en las carpetas de investigación que se tramiten ante la Fiscalía Especializada en Combate a la Corrupción y en los juicios penales correspondientes, a las y los abogados del Órgano Interno de Control que su titular determine.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de lo Jurídico Consultivo, de lo Jurídico Contencioso, de lo Jurídico Laboral, y de lo Jurídico de la Comisaría de la Policía de Guadalajara.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de lo Jurídico Consultivo, de lo Jurídico Contencioso, de lo Jurídico Laboral, y de Derechos Humanos.
 
 Subsección I
 
@@ -2557,15 +3373,17 @@ XIV. Coadyuvar jurídicamente con las dependencias municipales que lo requieran;
 
 XV. Actuar con las facultades de apoderado especial que en materia laboral le confiera el Ayuntamiento en defensa de los intereses del Municipio.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
 Subsección IV
 
 Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara
 
 ###### Artículo 157.
 
-La Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara, tiene a su cargo el trámite de los asuntos de carácter litigioso en que la Comisaría sea parte. Cuyas atribuciones están previstas en su normatividad específica.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-#### Sección Segunda. Dirección de Enlace con el Ayuntamiento
+#### Sección Segunda. Dirección de Derechos Humanos
 
 ###### Artículo 158.
 
@@ -2611,7 +3429,7 @@ V. Auxiliar a las y los integrantes del Ayuntamiento en los asuntos de carácter
 
 VI. Apoyar a las comisiones edilicias y, a las regidoras y los regidores con asesoría jurídica y técnica, para la elaboración de iniciativas y dictámenes, así como demás asuntos de su competencia;
 
-VII. Suscribir en conjunto con la Presidenta o el Presidente Municipal, la Secretaria o el Secretario General, la Tesorera o el Tesorero y la Síndica o el Síndico, los convenios aprobados por el Ayuntamiento;
+VI (SIC). (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 VIII. Expedir certificaciones sobre la autenticidad de las firmas de las servidoras públicas y los servidores públicos municipales, así como de los documentos municipales que obran en los archivos de la Administración pública y de la información contenida en las plataformas digitales municipales;
 
@@ -2619,13 +3437,11 @@ IX. Expedir certificados de residencia y de derechos civiles y políticos;
 
 X. Autorizar el uso temporal de espacios públicos, hasta por treinta días siempre y cuando no sea competencia del Ayuntamiento su aprobación, se adjunte a la solicitud la documentación expedida por la autoridad competente que demuestre su factibilidad y el evento a realizar no tenga fines de lucro;
 
-XI. Reducir hasta en un cincuenta por ciento o condonar, previo acuerdo de la Presidenta o el Presidente Municipal, las multas impuestas por contravención a la normatividad municipal;
+XI. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-XII. Calificar las infracciones administrativas que no sean competencia de los jueces cívicos municipales; y
+XII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 28 DE ABRIL DE 2021)</small>
-
-XIII. Instruir y coordinar a través de la Dirección de Inspección y Vigilancia, la inspección y vigilancia permanente y organizada del cumplimiento de las leyes, normas y reglamentos de aplicación municipal, adoptando para ello las medidas normativas, administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad; y
+XIII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADA, G.M. 28 DE ABRIL DE 2021)</small>
 
@@ -2635,7 +3451,7 @@ XIV. Llevar a cabo la legalización de firmas de las traductoras y traductores q
 
 Para el cumplimiento de sus atribuciones, la Secretaría General cuenta con las dependencias indicadas en las siguientes secciones:
 
-#### Sección Tercera. Dirección de Integración y Dictaminación
+#### Sección Primera. Dirección de Archivo Municipal
 
 ###### Artículo 160.
 
@@ -2725,9 +3541,7 @@ II. Informar a la Comisión Edilicia de Patrimonio Municipal el resultado de la 
 
 III. Coordinar el proceso de depuración documental informando a la Comisión Edilicia de Patrimonio Municipal del resultado de este.
 
-#### Sección Cuarta. Dirección de Justicia Cívica Municipal
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
+#### Sección Segunda. Dirección de Enlace con el Ayuntamiento
 
 ###### Artículo 165.
 
@@ -2751,7 +3565,7 @@ VIII. Elaborar la estadística de asistencia de las regidoras y los regidores a 
 
 Para la atención de los asuntos de su competencia, cuenta con las áreas de Seguimiento de Resoluciones del Ayuntamiento; Actas de Ayuntamiento; Logística de Sesiones del Pleno: y Gaceta Municipal de Guadalajara.
 
-#### Sección Quinta. Coordinación Municipal de Protección Civil
+#### Sección Tercera. Dirección de Integración y Dictaminación
 
 ###### Artículo 166.
 
@@ -2809,59 +3623,19 @@ Transparencia
 
 El Área de Transparencia tiene a su cargo la atención y trámite de los asuntos en materia de transparencia, competencia de la Secretaría General; así como coordinar la atención y trámite de aquellos por parte de las dependencias que la integran.
 
-#### Sección Sexta. Dirección del Registro Civil
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Cuarta. Dirección de Justicia Cívica Municipal
 
 ###### Artículo 170.
 
-La Dirección de Justicia Cívica Municipal tiene las siguientes atribuciones:
-
-I. Coordinar las acciones en materia de prevención social de la violencia, cultura de la paz y mecanismos alternos de solución de conflictos;
-
-II. Supervisar y vigilar el funcionamiento de los juzgados cívicos municipales, prevención social y la violencia, y centros de mediación; y derivado de las irregularidades que detecte mediante las actas entregadas por la Unidad de Visitaduría, remitirlas a las instancias competentes para el inicio de los procedimientos de responsabilidad que resulten;
-
-III. Establecer las bases y lineamientos en materia de prevención social de la violencia y la delincuencia, con la participación ciudadana en el marco de los Sistemas Nacional y Estatal de Seguridad Pública;
-
-IV. Elaborar y aplicar los programas propedéuticos y exámenes destinados a las y los aspirantes a ingresar a los juzgados cívicos municipales y centros de mediación; así como, los de actualización y profesionalización, en coordinación con las dependencias competentes;
-
-V. Evaluar el desempeño del personal que labora en los juzgados cívicos municipales, centros de mediación, prevención social y visitaduría;
-
-VI. Diseñar y publicar en coordinación con las dependencias competentes, la convocatoria para que las y los aspirantes a jueces cívicos municipales, presenten el examen correspondiente en el caso de plazas vacantes. La que debe señalar los requisitos a cubrir en cada caso, día, hora y lugar, así como ser publicada en un periódico de difusión local, en la Gaceta Municipal y en el portal de internet oficial;
-
-VII. Recibir para su guarda y custodia los documentos que le remitan los juzgados cívicos municipales;
-
-VIII. Corregir las calificaciones irregulares de infracciones y la aplicación indebida de sanciones impuestas por las y los jueces cívicos municipales en los términos previstos por el presente Código;
-
-IX. Diseñar, preparar y llevar a cabo jornadas de justicia itinerante, determinando la ubicación, periodicidad y desarrollo de estas, conforme al presupuesto asignado, infraestructura, recursos humanos y materiales;
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-X. Integrar un sistema de información para la verificación de los antecedentes de los infractores y determinación de las sanciones;
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-XI. Proponer a la Presidenta o el Presidente Municipal, previo acuerdo con la Secretaria o el Secretario General, el número de juzgados cívicos y centros de mediación que deben funcionar; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
-
-XII. Realizar la supervisión de la información inscrita en el Registro Nacional de Detenciones por las unidades a su cargo.
-
-La Dirección de Justicia Cívica Municipal, cuenta con las Unidades del Centro de Mediación Municipal, Juzgados Cívicos Municipales, Prevención Social de la Violencia, y Visitaduría.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 171.
 
-Para ocupar los cargos de Directora o Director de Justicia Cívica Municipal o de titular de alguna de las áreas indicadas en el último párrafo del artículo anterior, se requiere:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Encontrarse en pleno ejercicio de sus derechos;
-
-II. Tener cuando menos treinta años de edad;
-
-III. Ser licenciada o licenciado en derecho, con cédula profesional y por lo menos un año de experiencia profesional; con excepción de la o el titular de la Unidad de Prevención Social de la Violencia, quien deberá contar con licenciatura en derecho o carrera afín;
-
-IV. No haber sido condenada o condenado por delito intencional;
-
-V. Acreditar las evaluaciones de control de confianza que establece la normatividad aplicable para los miembros de instituciones de procuración de justicia y seguridad pública; y
-
-VI. Aprobar los exámenes correspondientes.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección Primera
 
@@ -2869,333 +3643,77 @@ Unidad del Centro de Mediación Municipal
 
 ###### Artículo 172.
 
-En la Unidad del Centro de Mediación Municipal están las y los facilitadores, con las siguientes atribuciones:
-
-I. Conducir los procedimientos de mediación o conciliación en forma gratuita, imparcial, transparente, flexible y confidencial;
-
-II. Propiciar la comunicación y comprensión entre las partes;
-
-III. Cuidar que las partes participen en el procedimiento de manera libre y voluntaria, exentas de coacción o de influencia alguna;
-
-IV. Evitar demoras o gastos innecesarios en la sustanciación del procedimiento;
-
-V. Asegurarse de que los convenios entre las partes estén apegados a la legalidad; y
-
-VI. Remitir a la Unidad de Juzgados Cívicos Municipales aquellos asuntos donde no se hubiese llegado a la resolución del conflicto.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)E
 
 ###### Artículo 173.
 
-Para ser facilitadora o facilitador se deben reunir los siguientes requisitos:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Ser mexicana o mexicano en pleno ejercicio de sus derechos;
-
-II. Tener cuando menos veinticinco años de edad;
-
-III. Tener licenciatura y cédula profesional;
-
-IV. Acreditar por lo menos un año de ejercicio profesional;
-
-V. No haber sido condenada o condenado por delito intencional;
-
-VI. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
-
-VII. Contar con la certificación prevista en la normatividad aplicable
-
-VIII. Acreditar los exámenes respectivos; y
-
-IX. Completar los cursos correspondientes.
-
-Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica y revalidar la certificación indicada en la fracción VII del presente artículo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección Segunda
 
 Unidad de Juzgados Cívicos Municipales
 
-> <small>(REFORMADO, G.M. 4 DE AGOSTO DE 2021)</small>
-
 ###### Artículo 174.
 
-Los juzgados cívicos municipales funcionan las veinticuatro horas, todos los días del año, en turnos sucesivos alternando su personal.
-
-En cada juzgado cívico municipal debe haber, por turno, el siguiente personal:
-
-I. Una o un juez cívico municipal;
-
-II. Una secretaria o secretario;
-
-III. Una o un médico;
-
-IV. Las y los custodios y analistas que se requieran;
-
-V. Una defensora o defensor de oficio;
-
-VI. Una o un psicológo; y
-
-VII. Una licenciada o licenciado en trabajo social.
-
-En los casos que se requiera, la jueza o juez cívico municipal, puede solicitar la intervención de una facilitadora o facilitador, adscrito a la Unidad del Centro de Mediación Municipal.
-
-Cuando se trate de menores probables infractores, se solicita la presencia de una o un agente de la Procuraduría de Niñas, Niños y Adolescentes.
-
-El personal señalado en la fracción V, por la naturaleza de sus funciones, depende directamente de la persona titular de la Dirección de Justicia Cívica Municipal. El contemplado en la fracción VI, se encuentra adscrito a la Unidad de Prevención Social de la Violencia.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 175.
 
-Para ser una o un juez cívico municipal, adicionalmente a los requisitos establecidos en el artículo 57 de la Ley, deberá reunir los siguientes:
-
-I. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
-
-II. Acreditar las evaluaciones de control de confianza que establece la normatividad aplicable para los miembros de instituciones de procuración de justicia y seguridad pública;
-
-III. Acreditar los exámenes respectivos; y
-
-IV. Completar los cursos correspondientes.
-
-Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 176.
 
-Para ser secretaria o secretario de juzgado se deben reunir los siguientes requisitos:
-
-I. Encontrarse en pleno ejercicio de sus derechos;
-
-II. Tener cuando menos veinticinco años de edad;
-
-III. Ser licenciada o licenciado en derecho, con cédula profesional;
-
-IV. No haber sido condenada o condenado por delito intencional; y
-
-V. Aprobar los exámenes correspondientes.
-
-Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 177.
 
-Para ser integrante de la defensoría de oficio se requiere:
-
-I. Encontrarse en pleno ejercicio de sus derechos;
-
-II. Tener cuando menos veinticinco años de edad;
-
-III. Ser licenciada o licenciado en derecho, con cédula profesional y por lo menos un año de experiencia profesional;
-
-IV. No haber sido condenada o condenado por delito intencional; y
-
-V. Aprobar los exámenes correspondientes.
-
-Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 178.
 
-Para ser una o un médico de juzgado se requiere:
-
-I. Encontrarse en pleno ejercicio de sus derechos;
-
-II. Tener cuando menos veinticinco años de edad;
-
-III. Ser médico cirujano y partero, con cédula profesional;
-
-IV. Acreditar por lo menos dos años de ejercicio profesional;
-
-V. No haber sido condenada o condenado por delito intencional; y
-
-VI. Aprobar los exámenes correspondientes.
-
-Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 179.
 
-La o el juez cívico municipal, además de las atribuciones previstas en el artículo 58 de la Ley, tiene las siguientes:
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-I. Desarrollar el procedimiento para la determinación de la responsabilidad de la persona probable infractora o infractor, tomando en consideración el examen médico y los estudios socio conductal, socio económico y psicosocial, practicados a esta;
-
-II. Conmutar a la infractora o infractor la multa o arresto de acuerdo a las condiciones socioeconómicas del mismo y a la gravedad de la infracción;
-
-III. Determinar la no imposición de la sanción, cuando sea la primera infracción cometida y de las circunstancias de su ejecución no se advierta temibilidad, ni riesgo alguno para la población, y siempre y cuando medie el acta circunstanciada en la que se observen dichas condiciones;
-
-IV. Solicitar por escrito a las autoridades competentes, el retiro de objetos abandonados en la vía pública;
-
-V. Dirigir al personal que integra el juzgado;
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-VI. Realizar la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información del Registro Nacional de Detenciones;
-
-VII. (DEROGADA, G.M. 4 DE AGOSTO DE 2021)
-
-VIII. Informar a la Directora o Director de Justicia Cívica Municipal sobre los asuntos tratados y las resoluciones dictadas;
-
-IX. Solicitar el auxilio de las fuerzas policiales, en los términos de la normatividad aplicable;
-
-X. Prestar auxilio al Ministerio Público y a las autoridades judiciales cuando así se lo requieran;
-
-XI. Verificar que se respeten la dignidad y los derechos humanos de las personas;
-
-XII. Dejar en libertad a la presunta o presunto infractor cuando no resulte procedente su detención, mediante la elaboración del acta circunstanciada correspondiente;
-
-XIII. Habilitar al personal para suplir las ausencias temporales de la secretaria o secretario del juzgado;
-
-XIV. Autorizar la devolución de los objetos y valores propiedad de las y los probables infractores o motivo de la controversia;
-
-XV. Solicitar a las servidoras públicas y los servidores públicos la información y documentos necesarios para la resolución de los asuntos a su cargo; y
-
-XVI. Coadyuvar, valorar y en su caso emitir las órdenes de protección en casos de violencia de género contra las mujeres.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 180.
 
-Para conservar el orden en el juzgado durante el procedimiento, la o el juez cívico municipal puede imponer las siguientes correcciones disciplinarias:
-
-I. Amonestación;
-
-II. Multa por el equivalente de uno a treinta veces el valor diario de la Unidad de Medida y Actualización. Tratándose de personas jornaleras, obreras, trabajadoras o trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto en la normatividad aplicable; y
-
-III. Arresto hasta por veinticuatro horas.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 181.
 
-La secretaria o secretario del juzgado cívico municipal tiene las siguientes atribuciones:
-
-I. Suplir las ausencias de la o el juez cívico municipal no mayores a dos meses, quedando habilitado para actuar como titular de conformidad con lo ordenado en el artículo 59 de la Ley;
-
-II. Expedir las constancias sobre hechos resueltos que solicite la persona denunciante, la infractora o infractor o quien tenga interés legítimo;
-
-III. Describir detalladamente, resguardar y devolver los objetos de las y los presuntos infractores, previa orden de la o el juez y mediante la expedición del recibo respectivo. No pudiendo devolver objetos que por su naturaleza sean peligrosos, en cuyo caso, deberá remitirlos al lugar que determine la o el juez cívico municipal, pudiendo ser reclamados ante este cuando proceda;
-
-IV. Llevar el control de la correspondencia, archivos y registros del juzgado;
-
-V. Auxiliar a la o el juez cívico municipal en el ejercicio de sus funciones; y
-
-VI. Remitir a las infractoras o infractores detenidos, a los lugares destinados al cumplimiento de arrestos.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 182.
 
-La defensora o defensor de oficio, con relación a la probable persona infractora, tiene las siguientes atribuciones:
-
-I. Representarle y asesorarle;
-
-II. Vigilar que le sean respetados sus derechos humanos;
-
-III. Supervisar que el procedimiento a que quede sujeto, se apegue a derecho;
-
-IV. Orientar a sus familiares;
-
-V. Dar seguimiento a las quejas y recursos presentados por esta o este.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 183.
 
-La o el médico del juzgado cívico municipal tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Examinar y en su caso auscultar a las personas detenidas, a fin de determinar su aparente estado de salud;
-
-II. Emitir los dictámenes de su competencia;
-
-III. Prestar la atención médica de emergencia; y
-
-IV. Llevar una relación de certificaciones médicas.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección Tercera
 
 Unidad de Prevención Social de la Violencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
-
 ###### Artículo 184.
 
-A la Unidad de Prevención Social de la Violencia le corresponde:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 4 DE AGOSTO DE 2021)</small>
-
-Por lo que se refiere a la Prevención Social de la Violencia:
-
-I. Establecer programas, estrategias y acciones, orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como a combatir las distintas causas y factores que la generan, contribuyendo al objeto y fines de la seguridad ciudadana, tendientes a coadyuvar en el mejoramiento de la calidad de vida de las personas;
-
-II. Incluir la prevención en los ámbitos social, comunitario, situacional, y psicosocial;
-
-III. Incrementar la corresponsabilidad de la población y actores sociales en la prevención social, mediante su participación y desarrollo de competencias;
-
-IV. Reducir la vulnerabilidad ante la violencia en el territorio municipal;
-
-V. Generar entornos que favorezcan la convivencia y seguridad de la población;
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-VI. Aplicar los programas educativos de prevención de faltas administrativas;
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-VII. Participar en el diseño, implementación y evaluación de los procesos de prevención social; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
-
-VIII. Elaborar el Catálogo de Alternativas de las Medidas para la Mejor Convivencia Cotidiana.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 4 DE AGOSTO DE 2021)</small>
-
-En cuanto a la infractora o infractor:
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-I. Elaborar los estudios socio conductual, socio económico y psicosocial, previo a la audiencia con la Jueza o el Juez Cívico Municipal;
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-II. Implementar cursos, talleres o el tratamiento necesario para que se logre en la o el infractor el cumplimiento de la medida impuesta, su reintegración a la sociedad y la no reincidencia;
-
-III. Realizar preferentemente a través del área de trabajo social o de quien sea designado, el seguimiento y supervisión de la infractora o infractor durante el cumplimiento de la medida impuesta a este, así como el monitoreo después de haberla cumplido, invitándole a participar en los cursos y talleres vigentes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
-
-IV. Remitir a la Unidad de Juzgados Cívicos Municipales las constancias que acrediten el cumplimiento de la resolución emitida por la Jueza o el Juez que dictó la sanción; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
-
-V. Actualizar el Registro Nacional de Detenciones, señalando fecha y hora de salida de la persona infractora.
-
-Subsección Cuarta
+(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE Subsección Cuarta
 
 Unidad de Visitaduría
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
-
 ###### Artículo 185.
 
-A la Unidad de Visitaduría le corresponde supervisar que el funcionamiento de las unidades que integran la Dirección de Justicia Cívica Municipal se apegue a la normatividad aplicable. Actividad que realiza a través de las y los visitadores municipales, quienes cuentan con las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-I. Tomar conocimiento de las quejas sobre demoras, excesos o deficiencias en el despacho de los asuntos que son competencia de las Unidades que integran la Dirección de Justicia Cívica Municipal;
-
-II. Practicar visitas periódicas a las unidades para verificar su funcionamiento;
-
-III. Comprobar el registro de asistencia del personal adscrito al área visitada;
-
-IV. Verificar que los objetos y valores relacionados, y bajo resguardo, se encuentren asegurados y en sitio seguro;
-
-V. Revisar la integración y actualización de los libros de gobierno;
-
-VI. Verificar que el entero de las multas impuestas se realice en los términos de la normatividad aplicable y conforme al procedimiento respectivo;
-
-VII. Verificar que los asuntos a cargo de las facilitadoras o facilitadores sociales se encuentren atendidos e integrados conforme a derecho;
-
-VIII. Hacer constar el número de personas detenidas por faltas administrativas y remitidas a la Unidad de Prevención Social de la Violencia, así como las y los menores canalizados a las instituciones competentes;
-
-> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
-
-IX. Examinar los expedientes integrados con motivo de las audiencias, las faltas administrativas y los acuerdos dictados y cumplidos, la calificación de las faltas administrativas y las resoluciones, de acuerdo a lo establecido en la normatividad aplicable;
-
-X. Revisar los acuerdos de mediación o conciliación, los convenios celebrados, así como las resoluciones y los procedimientos respectivos;
-
-XI. Verificar que los asuntos referentes a niñas, niños y adolescentes se hubiesen derivado a las instancias competentes, a través de la Unidad de Prevención Social de la Violencia, con la intervención de la o el agente de protección del menor;
-
-XII. Constatar que se hubiesen respetado los derechos humanos de las y los presuntos infractores; y
-
-XIII. Elaborar por triplicado acta circunstanciada de toda visita, una para la persona titular del área visitada, otra para la Directora o Director de Justicia Cívica Municipal y la tercera para resguardo de la propia Unidad de Visitaduría.
-
-#### Sección Séptima. Unidad de Sala Edilicia
+#### Sección Quinta. Coordinación Municipal de Protección Civil
 
 ###### Artículo 186.
 
@@ -3371,7 +3889,7 @@ VI. Implementar las acciones de prevención en la celebración de eventos masivo
 
 VII. Vigilar la seguridad e integridad del personal de la Coordinación Municipal de Protección Civil durante la atención de siniestros.
 
-#### Sección Octava. Junta Municipal de Reclutamiento
+#### Sección Sexta. Dirección del Registro Civil
 
 ###### Artículo 193.
 
@@ -3395,71 +3913,7 @@ VII. Asignar a las y los oficiales del Registro Civil la oficialía para el dese
 
 La titularidad de las oficialías del Registro Civil del Municipio está a cargo de las servidoras públicas y los servidores públicos denominados oficiales del Registro Civil, quienes tienen fe pública en el desempeño de las labores propias de su cargo.
 
-#### Sección Novena. Dirección de Inspección y Vigilancia
-
-> <small>(ADICIONADO, G.M. 28 DE ABRIL DE 2021)</small>
-
-Artículo 196 bis. Son atribuciones de la Dirección de Inspección y Vigilancia:
-
-I. Supervisar el cumplimiento de la normatividad y adoptar para ello las medidas administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad con respeto a los derechos humanos;
-
-II. Aplicar en el ejercicio de sus funciones la norma para inspeccionar y supervisar todo giro, licencia, permiso o concesión;
-
-III. Supervisar que las personas cumplan con las obligaciones establecidas en los contratos de concesión o convenios de gestión en materia de aseo público, celebrados con el municipio, así como las relativas al manejo de residuos urbanos;
-
-IV. Supervisar que se cumpla la legislación, reglamentación y normatividad ambiental vigente en materia de tratamiento, recolección, traslado, uso y disposición final de los residuos sólidos urbanos, impacto ambiental, arbolado urbano, ruido, descargas de aguas residuales, emisiones a la atmósfera, en la esfera de la competencia municipal;
-
-V. Ordenar y practicar visitas domiciliarias para comprobar el cumplimiento de las obligaciones administrativas a cargo de las personas, de conformidad con lo previsto en la normatividad aplicable;
-
-VI. Ordenar y practicar en coordinación con las dependencias competentes la revisión o visitas de inspecciones para evitar la reventa de boletos en espectáculos públicos, eventos deportivos y exhibición de películas y, en su caso, practicar el aseguramiento en cumplimiento de la normatividad aplicable;
-
-VII. Ordenar y practicar la revisión en las vías públicas y lotes baldíos, para verificar el cumplimiento de la normatividad aplicable;
-
-VIII. Supervisar y verificar en coordinación con las dependencias competentes, los controles de calidad empleados en la edificación y urbanización de cualquier tipo de construcción y su apego a los proyectos autorizados;
-
-IX. Definir y establecer las estrategias y compromisos que permitan la atención y cumplimiento eficiente de la normatividad vigente y de los objetivos previstos en materia de inspección y vigilancia en el Plan y Programa de Gobierno en coordinación con las dependencias competentes;
-
-X. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos que sean necesarios para agilizar los trámites que realice la población y se lleven a cabo en la dirección;
-
-XI. Coadyuvar con la Sindicatura en el diseño de los formatos de órdenes de visita y actas de inspección que empleen en sus actuaciones los inspectores municipales y utilizar solo aquellos autorizados por la Sindicatura;
-
-XII. Coordinar y supervisar las labores de las personas operativas y administrativas a su cargo;
-
-XIII. Informar y proporcionar los datos y documentos en copias certificadas respecto a las edificaciones o construcciones ejecutadas en contra de la normatividad aplicable, que sean detectadas en la visita de inspección y vigilancia, para que con ello la Sindicatura, a través de su Dirección General Jurídica, inicie el procedimiento de demolición correspondiente, de conformidad a las disposiciones de la materia;
-
-XIV. Supervisar el proceso de construcciones, edificaciones y urbanizaciones en ejecución a fin de garantizar el apego a los proyectos que se les hubiere autorizado; en coordinación con las dependencias competentes;
-
-XV. Ordenar y practicar el aseguramiento precautorio de bienes y mercancías a comerciantes ambulantes, a efecto de garantizar el pago de las sanciones que se les impongan por infringir las disposiciones aplicables;
-
-XVI. Ordenar y practicar las inspecciones, aseguramientos y decomisos derivados de convenios de coordinación celebrados por el Ayuntamiento con las autoridades federales y estatales en materia de salud pública e higiene;
-
-XVII. Ordenar y practicar la clausura de giros en los términos previstos en la normatividad aplicable;
-
-XVIII. Ordenar y practicar el aseguramiento de máquinas de videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos de habilidad y destreza, juegos mecánicos y en general aquellos que incumplan con la normatividad municipal;
-
-XIX. Crear en coordinación con la dependencia competente un sistema de registro de giros de particulares que desarrollen actividades reguladas por los ordenamientos municipales, en los que se les determinen obligaciones a su cargo, y mantenerlo actualizado, a fin de que su verificación y control sean más eficientes;
-
-XX. Comunicar los resultados de las inspecciones, según sea el caso, a la Secretaria General, a la Sindicatura y a la Tesorería;
-
-XXI. Notificar a las personas físicas y jurídicas el resultado de la visita por actos u omisiones que les sean imputables por infringir las disposiciones aplicables;
-
-XXII. Dar vista a la autoridad competente de los actos que puedan constituir infracciones administrativas o delitos;
-
-XXIII. Solicitar el auxilio de la fuerza pública para el desempeño de sus atribuciones;
-
-XXIV. Verificar el cumplimiento de las disposiciones normativas aplicables al funcionamiento de los rastros municipales;
-
-XXV. Ordenar y practicar el aseguramiento precautorio de animales, atendiendo a lo dispuesto por la normatividad aplicable;
-
-XXVI. Ordenar y en su caso, llevar a cabo el retiro de anuncios espectaculares establecidos que contravengan disposiciones legales;
-
-XXVII. Establecer, implementar y operar una política permanente de verificación ambiental, actuando en colaboración con las dependencias y entidades públicas competentes;
-
-XXVIII. Llevar a cabo el desalojo de locatarios de mercados municipales o centrales de abastos, ordenado por autoridad administrativa o judicial; y en los casos que así proceda, asegurar precautoriamente los bienes y mercancías hasta en tanto se garantice el pago de las sanciones impuestas por infringir las disposiciones aplicables; y
-
-XXIX. Rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando se señalen como autoridades responsables a la Dirección de Inspección y Vigilancia o a sus direcciones dependientes.
-
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Inspección a Reglamentos y Espectáculos; de Inspección a Mercados y Comercio en la Vía Pública; y de Inspección Sanitaria, Medio Ambiente y Construcción.
+#### Sección Séptima. Unidad de Sala Edilicia
 
 ###### Artículo 195.
 
@@ -3473,7 +3927,7 @@ III. Auxiliar a las y los ediles en el ejercicio de sus funciones, conforme lo d
 
 IV. Elaborar la estadística de asistencia de las regidoras y los regidores a las sesiones de las comisiones edilicias y enviarla a las dependencias competentes para su publicación.
 
-#### Sección Primera. Dirección de Catastro
+#### Sección Octava. Junta Municipal de Reclutamiento
 
 ###### Artículo 196.
 
@@ -3483,15 +3937,103 @@ I. Coadyuvar con la Secretaría de la Defensa Nacional en el cumplimiento de las
 
 II. Impartir y promover la educación cívica en el ámbito de su competencia.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 28 DE ABRIL DE 2021)</small>
+(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE Sección Novena
 
-#### Sección Segunda. Dirección de Contabilidad
+Dirección de Inspección y Vigilancia
 
-#### Sección Tercera. Dirección de Egresos
+Artículo 196 bis. (DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-#### Sección Cuarta. Dirección de Finanzas
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Quinta. Dirección de Ingresos
+#### Sección Décima. Dirección de Asuntos Políticos
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 196 Ter.
+
+La Dirección de Asuntos Políticos cuenta con las siguientes atribuciones:
+
+I. Coadyuvar en la conducción de las relaciones con las asociaciones y grupos políticos, con la administración pública municipal;
+
+II. Coordinar reuniones periódicas del Titular de la Secretaría General con las y los titulares de las asociaciones o grupos políticos y llevar el seguimiento de los acuerdos;
+
+III. Registrar y clasificar las peticiones, cuando se deriven de las asociaciones y grupos políticos, así como llevar el seguimiento y evaluación de su atención;
+
+IV. Participar en la búsqueda de soluciones a conflictos de carácter político; y
+
+V. Generar comunicación e intercambio de información con las diferentes instancias y dependencias del Gobierno del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Décima Primera. Dirección de Asuntos Religiosos
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Décima Primera (SIC). Dirección de Asuntos Religiosos (SIC)
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 196 Quater.
+
+La Dirección de Asuntos Religiosos tendrá las siguientes atribuciones:
+
+I. Promover los programas y acciones para la libertad de creencias religiosas y de culto;
+
+II. II (SIC). Brindar atención dentro del ámbito de su competencia, a las diferentes asociaciones religiosas;
+
+III. Intervenir en auxilio o coordinación con las autoridades federales y estatales, en los términos de las leyes respectivas, para atender a las asociaciones religiosas;
+
+IV. Brindar orientación sobre los trámites de competencia municipal en relación a las actividades de cultos públicos;
+
+V. Proponer convenios para realizar acciones que fortalezcan la promoción de la libertad de creencias religiosas y de culto; así como, la cultura de la tolerancia religiosa en el Municipio;
+
+VI. Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia de culto público, iglesias, agrupaciones y asociaciones religiosas, en coordinación con las dependencias de la administración pública federal y estatal correspondiente;
+
+VII. Coadyuvar con las asociaciones religiosas sin distinción de credos, apoyándoles con asesoría legal en sus trámites ante las dependencias federales y estatales competentes en la materia;
+
+VIII. Proponer la suscripción de convenios de colaboración con las diferentes asociaciones religiosas, en materia de participación en programas institucionales de asistencia social; y
+
+IX. Representar al Ayuntamiento cuando así se le instruya, ante las asociaciones religiosas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Décima Segunda. Dirección de Participación Ciudadana y Gobernanza
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 196 Quinquies.
+
+Son atribuciones de la Dirección de Participación Ciudadana y Gobernanza, además de las previstas en la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco, las siguientes:
+
+I. Realizar las funciones ejecutivas, con la autorización de la Presidencia Municipal o de la Secretaría General, y en coordinación con las y los titulares de la Administración pública, para la promoción y el desarrollo de los mecanismos mediante la implementación de los programas y políticas públicas para la participación ciudadana y la gobernanza, la construcción de comunidad, la reconstrucción del tejido social, el desarrollo humano, la elaboración de reglamentos, la gobernanza en el Municipio y las demás establecidas en la normatividad aplicable;
+
+II. Coordinar las relaciones del Municipio con los Organismos Sociales, las Organizaciones Vecinales, las Organizaciones de la Sociedad Civil, las Organizaciones no gubernamentales, Organismos Empresariales, Consejos Ciudadanos, colectivos y demás formas organizativas que existan en el Municipio, cumpliendo con las disposiciones normativas en materia de participación ciudadana;
+
+III. Colaborar y apoyar a la Presidencia Municipal en la gestión de recursos económicos, materiales y de políticas públicas por parte de las autoridades federales, estatales, municipales y de las y los particulares, así como destinar los programas de apoyo a la población que lo necesite para su desarrollo, esto atendiendo a los programas de su competencia;
+
+IV. Promover y difundir los pilares de la participación ciudadana y gobernanza como lo son la organización de la ciudadanía, capacitación, socialización, vinculación y deliberación entre las y los vecinos del Municipio para la toma de decisiones en los asuntos públicos y en el diseño de las políticas públicas del Gobierno Municipal que afecten a su núcleo de población;
+
+V. Intervenir en la constitución y renovación de los organismos sociales y las organizaciones vecinales que se integren de acuerdo a la normatividad aplicable;
+
+VI. Asistir como testigos, previa invitación de las y los vecinos, a las asambleas y demás reuniones vecinales, procurando la formalización de los acuerdos tomados en ellas, sin interferir en sus determinaciones;
+
+VII. Generar y proporcionar asesoría a los organismos sociales y las organizaciones vecinales cuando así lo soliciten, en lo concerniente a su constitución, ejecución, reglamentación interna y administración, así como efectuar las revisiones que señala la normatividad aplicable;
+
+VIII. Diseñar y fomentar los mecanismos para el desarrollo del gobierno compartido, participativo, interdependiente, relacional, horizontal, por redes, en asociación público-privado o gubernamental-social, con diversos actores económicos y sociales;
+
+IX. Recibir y tramitar las solicitudes de reconocimiento e inscripción en el Registro Municipal de Organismos y Asociaciones Vinculados con los Procesos Ciudadanos de los organismos sociales y organizaciones vecinales susceptibles de reconocimiento, así como su actualización y mantenimiento en los términos de la normatividad aplicable;
+
+X. Diseñar y fomentar los mecanismos para el desarrollo del gobierno compartido, participativo, interdependiente, relacional, horizontal, por redes, en asociación público privado o gubernamental social, con diversos actores económicos y sociales;
+
+XI. Realizar la conformación de mesas de trabajo para la planeación de las políticas públicas del Municipio y la definición de las y los líderes en los núcleos de población de acuerdo a la normatividad aplicable;
+
+XII. Publicar y difundir las convocatorias que emita la Presidenta y Presidente Municipal con relación a los organismos sociales, las organizaciones vecinales, las organizaciones de la sociedad civil, las organizaciones no gubernamentales, colectivos y demás formas organizativas que existan en el Municipio;
+
+XIII. Ejecutar las comisiones que le sean encomendadas por el Consejo Municipal de Participación Ciudadana y valorar las que emitan los consejos ciudadanos de otras materias relacionadas con la participación ciudadana y gobernanza;
+
+XIV. Diseñar y generar contenidos, materiales impresos y digitales, estadísticas, numeralias, infografías, mapas, planos y aplicaciones digitales para la difusión de la cultura de la participación ciudadana y la gobernanza del Municipio como eje rector; y
+
+XV. Promover, por conducto del Colegio de Notarios del Estado de Jalisco, la prestación de los servicios de constitución y formalización de organizaciones vecinales, sin costo para los interesados. Lo anterior, cuando los vecinos no tengan la capacidad económica para sufragar los gastos correspondientes.
 
 ### Capítulo VI. Tesorería
 
@@ -3597,15 +4139,17 @@ XLVII. Efectuar el pago de las remuneraciones a las que tengan derecho las servi
 
 XLVIII. Realizar las aclaraciones pertinentes en caso de que se haya asentado algún dato erróneamente.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración, Evaluación y Seguimiento; Catastro, Contabilidad, Egresos, Finanzas, Ingresos, Nómina, y Política Fiscal y Mejora Hacendaria.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-El área de Administración, Evaluación y Seguimiento cuenta con las atribuciones contenidas en el artículo 129.
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración de Tesorería, Catastro, Contabilidad, Egresos, Finanzas, Ingresos, Nómina y Política Fiscal y Mejora Hacendaria.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 17 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-Para el desarrollo de sus funciones la Dirección de Administración, Evaluación y Seguimiento contará con las áreas de Transparencia, Evaluación y Organización y Métodos y Seguimiento.
+El área de Administración de Tesorería, cuenta con las atribuciones contenidas en el artículo 129.
 
-#### Sección Sexta. Dirección de Nómina
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Primera. Dirección de Catastro
 
 ###### Artículo 198.
 
@@ -3633,9 +4177,9 @@ X. Practicar visitas para la verificación y valuación de los bienes inmuebles 
 
 XI. Someter a consideración de la Tesorera o el Tesorero las directrices, normas, criterios técnicos y administrativos, rindiendo informes mensuales sobre trabajos realizados.
 
-Para el desarrollo de sus funciones, la Dirección de Catastro cuenta con las áreas de Atención al Público, Cartografía y Dictaminación, Certificaciones Catastrales, Coordinación y Apoyo, Trámite y Registro, y de Valuación y Estudios Técnicos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Séptima. Dirección de Política Fiscal y Mejora Hacendaria
+#### Sección Segunda. Dirección de Contabilidad
 
 ###### Artículo 199.
 
@@ -3657,9 +4201,9 @@ VII. Fungir como enlace entre los entes fiscalizadores respecto de las auditorí
 
 VIII. Solicitar a las áreas auditadas de la Administración pública el estado que guarda el proceso para solventar y atender las observaciones o recomendaciones que se les hubiesen efectuado.
 
-Para el desarrollo de sus funciones, la Dirección de Contabilidad cuenta con las Áreas de Atención a Entes Fiscalizadores y Cuenta Pública.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Primera. Dirección de Auditoría
+#### Sección Tercera. Dirección de Egresos
 
 ###### Artículo 200.
 
@@ -3685,9 +4229,9 @@ IX. Monitorear los depósitos realizados en las cuentas bancarias receptoras der
 
 X. Proveer de fondos revolventes para su gasto directo a las dependencias ejecutoras y tramitar sus reembolsos conforme al presupuesto de egresos, así como solicitar su devolución al término de cada ejercicio.
 
-Para el desarrollo de sus funciones, la Dirección de Egresos cuenta con las áreas de Caja General, Soporte de Gasto Operativo, y Soporte de Gasto de Obra Pública.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Segunda. Dirección de Responsabilidades
+#### Sección Cuarta. Dirección de Finanzas
 
 ###### Artículo 201.
 
@@ -3695,7 +4239,9 @@ Son atribuciones de la Dirección de Finanzas:
 
 I. Establecer las políticas, procedimientos y mecanismos necesarios para el manejo y control del presupuesto de egresos del Municipio;
 
-II. Elaborar el proyecto de presupuesto de egresos tomando en consideración las matrices de indicadores para resultados definidas por la Dirección General de Planeación y Evaluación del Desempeño, en coordinación con las instancias de la administración pública, considerando la estimación de los ingresos del siguiente ejercicio fiscal de que se trate, en su caso, el presupuesto participativo, contemplando se destine un porcentaje de la recaudación del impuesto predial anual para infraestructura y equipamiento, y en estricto apego a los principios de transparencia y austeridad;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+II. Elaborar el proyecto de presupuesto de egresos tomando en consideración las matrices de indicadores para resultados definidas por la Dirección de Planeación Institucional, en coordinación con las instancias de la administración pública, considerando la estimación de los ingresos del siguiente ejercicio fiscal de que se trate, en su caso, el presupuesto participativo, contemplando se destine un porcentaje de la recaudación del impuesto predial anual para infraestructura y equipamiento, y en estricto apego a los principios de transparencia y austeridad;
 
 III. Preparar las modificaciones del Presupuesto de Egresos;
 
@@ -3711,11 +4257,9 @@ VIII. Registrar la deuda pública, arrendamientos financieros y asociaciones pú
 
 IX. Establecer recomendaciones y observaciones de carácter normativo en el diseño de políticas a desarrollar en materia de gasto público, acordes a los planes y programas establecidos en el Programa de Gobierno Municipal.
 
-Para el desarrollo de sus funciones la Dirección de Finanzas cuenta con las áreas de Control Presupuestal, y Presupuesto y Deuda.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Tercera. Dirección de Substanciación y Resolución
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+#### Sección Quinta. Dirección de Ingresos
 
 ###### Artículo 202.
 
@@ -3765,9 +4309,9 @@ XXI. Recibir las garantías que se otorguen para suspender el procedimiento admi
 
 XXII. Realizar las aclaraciones pertinentes en los recibos oficiales en caso de que se haya asentado algún dato erróneamente;
 
-Para el desarrollo de sus funciones la Dirección de Ingresos cuenta con las áreas de Análisis y Evaluación del Ingreso, Recaudación Central, y Recaudación en Vía Pública.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Cuarta. Unidad Resolutora
+#### Sección Sexta. Dirección de Nómina
 
 ###### Artículo 203.
 
@@ -3781,9 +4325,9 @@ III. Tramitar, aplicar y emitir la nómina de los pagos autorizados por concepto
 
 IV. Efectuar los cálculos totales de impuestos, deducciones y beneficios, y canalizarlos a la Dirección de Egresos para que esta realice los pagos a las instituciones correspondientes.
 
-Para el desarrollo de sus funciones la Dirección de Nómina cuenta con las áreas de Cálculo Fiscal y Pagos Especiales y Remuneraciones y Pagos a Terceros.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Quinta. Obligaciones de las Entidades que Integran la Administración Paramunicipal y de Particulares que Manejan Fondos o Valores Municipales
+#### Sección Séptima. Dirección de Política Fiscal y Mejora Hacendaria
 
 ###### Artículo 204.
 
@@ -3809,7 +4353,7 @@ IX. Dar seguimiento al procedimiento administrativo de ejecución a través del 
 
 X. Atender toda clase de requerimientos, así como dar seguimiento al cumplimiento de resoluciones emitidas por las autoridades jurisdiccionales y en general atender los asuntos jurídicos internos de la Tesorería.
 
-Para el desarrollo de sus funciones la Dirección de Política Fiscal y Mejora Hacendaria cuenta con las áreas de Ejecución Fiscal, Juicios de Amparo y Juicios de Nulidad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ### Capítulo VII. Contraloría Ciudadana
 
@@ -3859,7 +4403,7 @@ XVIII. Establecer los mecanismos internos en coordinación con la administració
 
 Para la atención de los asuntos de su competencia, cuenta con las áreas de Auditoría; Responsabilidades; y Substanciación y Resolución.
 
-#### Sección Primera. Atribuciones comunes
+#### Sección Primera. Dirección de Auditoría
 
 ###### Artículo 206.
 
@@ -3887,7 +4431,7 @@ X. Coordinar y supervisar los trabajos de las y los auditores externos en la Adm
 
 XI. Revisar la contabilidad, así como los estados financieros de la administración pública y fiscalizar los subsidios otorgados a las entidades y a las personas que manejen fondos o valores del Municipio.
 
-#### Sección Segunda. Coordinación General de Administración e Innovación Gubernamental
+#### Sección Segunda. Dirección de Responsabilidades
 
 ###### Artículo 207.
 
@@ -3921,7 +4465,9 @@ XIII. Fungir como autoridad investigadora.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-#### Sección Tercera. Coordinación General de Comunicación Institucional
+#### Sección Tercera. Dirección de Substanciación y Resolución
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 208.
 
@@ -3949,17 +4495,17 @@ VII. Solicitar la colaboración de las dependencias y entidades de la administra
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
-#### Sección Cuarta. Coordinación General de Construcción de Comunidad
+#### Sección Cuarta. Unidad Resolutora
 
-#### Sección Quinta. Coordinación General de Desarrollo Económico y Combate a la Desigualdad
+#### Sección Quinta. Obligaciones de las Entidades que Integran la Administración Paramunicipal y de Particulares que Manejan Fondos o Valores Municipales
 
 ###### Artículo 209.
 
 (DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
-#### Sección Sexta. Coordinación General de Gestión Integral de la Ciudad
+#### Sección Primera. Dirección de Evaluación y Seguimiento
 
-> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 210.
 
@@ -3973,29 +4519,253 @@ III. Verificar y en su caso, adecuar sus sistemas de contabilidad, control y aud
 
 IV. Enviar con cinco días de anticipación cuando menos, a la Contralora o Contralor Ciudadano, el orden del día y la documentación de los asuntos a tratar en las sesiones.
 
-### Capítulo VIII. Coordinaciones Generales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Séptima. Coordinación General de Servicios Públicos Municipales
+### Capítulo VIII. Jefatura de Gabinete
 
-#### Sección Primera. Estructura
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Segunda. Denominación, Objeto y Domicilio Legal
+###### Artículo 210 Bis.
 
-#### Sección Tercera. Órgano de Gobierno
+La Jefatura de Gabinete tiene por objeto coordinar las actividades de la Presidencia Municipal, así como apoyar y coordinar las actividades de la Presidenta o el Presidente Municipal con motivo del ejercicio de sus funciones y cuenta con las siguientes atribuciones:
 
-#### Sección Cuarta. Atribuciones
+I. Propiciar el desarrollo de la gestión municipal con la finalidad de hacerla eficiente y eficaz;
 
-#### Sección Quinta. Patrimonio
+II. Planear y coordinar el desarrollo de la agenda pública del gabinete, el cual es el sistema en el que se agrupan los diferentes titulares de los órganos de gobierno municipal para desahogar la agenda pública del Municipio;
 
-#### Sección Sexta. Presupuesto
+III. Coordinar la formulación de proyectos, planes y programas de trabajo de las y los titulares de las Coordinaciones Generales, así como proponer acciones de mejora continua para la administración pública;
 
-### Capítulo IX. Órganos Desconcentrados
+IV. Por instrucción de la Presidenta o el Presidente Municipal coordinar y convocar las reuniones de gabinete, presidiéndolas cuando así se lo instruya, o en su ausencia;
 
-#### Sección Séptima. Servidoras y Servidores Públicos
+V. Fomentar y mantener los vínculos institucionales con los tres órdenes de gobierno;
+
+VI. Coordinar los trabajos de la Presidenta o el Presidente Municipal con las diferentes instancias de los tres órdenes de gobierno;
+
+VII. Participar en la planeación y evaluación de la administración municipal;
+
+VIII. Vigilar la elaboración, revisión y actualización del Plan Municipal de Desarrollo;
+
+IX. Coordinar las actividades administrativas propias del Municipio y aquellas relacionadas con asuntos metropolitanos;
+
+X. Proponer la evaluación de los organismos públicos descentralizados municipales al Ayuntamiento, previa autorización del Presidente;
+
+XI. Proponer al Presidente Municipal el nombramiento y remoción de los Coordinadores Generales y Directores;
+
+XII. Rendir los informes inherentes a sus funciones que le sean requeridos por el Presidente Municipal;
+
+XIII. Atender, llevar el control y turnar la correspondencia presentada ante oficialía de partes de Jefatura de Gabinete;
+
+XIV. Dar mantenimiento al sistema homologado de recepción, canalización y término de solicitudes de servicio;
+
+XV. Asegurarse de que en todo momento se mantengan activos los canales de recepción de solicitudes de servicio para los ciudadanos; y
+
+XVI. Orientar y concientizar a la ciudadanía sobre la importancia de generar solicitudes de servicios sobre asuntos que sean responsabilidad del Municipio.
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Evaluación y Seguimiento, Planeación Institucional, Atención Ciudadana, Gestión de Coordinación Metropolitana, de Creación y Revisión de Contenidos, de Mejora Regulatoria, y de Servicios Médicos Municipales.
+
+Se encuentra sectorizado a la Jefatura de Gabinete el Organismo Público Descentralizado de la Administración Pública Municipal denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Segunda. Dirección de Planeación Institucional
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 210 Ter.
+
+La Dirección de Evaluación y Seguimiento tiene las siguientes atribuciones:
+
+I. Administrar el sistema de evaluación, seguimiento e información de políticas, programas y proyectos a fin de monitorear y evaluar los avances sobre el cumplimiento de los objetivos del Programa Municipal de Desarrollo y Gobernanza y de los planes y programas que de él se derivan y que forman parte del Sistema Municipal de Evaluación del Desempeño;
+
+II. Coordinar, integrar y supervisar el Programa Anual de Evaluación del Municipio, así como las metodologías e indicadores del desarrollo, en los términos previstos en la normatividad aplicable;
+
+III. Elaborar los mecanismos y las herramientas para evaluar los programas presupuestarios que forman parte del Sistema Municipal de Evaluación del Desempeño de la administración pública municipal;
+
+IV. Definir los requisitos y los criterios de calidad que deben cumplir los organismos evaluadores externos, además de elaborar en coordinación con las áreas específicas, los términos de referencia, para las evaluaciones;
+
+V. Realizar las acciones de evaluación y control de gestión de desempeño y resultados, en congruencia con el modelo de planeación;
+
+VI. Elaborar las metodologías y los procedimientos para atender los aspectos susceptibles de mejora, así como elaborar, supervisar y monitorear las agendas de mejoras derivadas de la evaluación de las políticas, programas y proyectos públicos que forman parte del Sistema Municipal de Evaluación del Desempeño;
+
+VII. Proponer la evaluación de los organismos públicos descentralizados municipales, previa autorización de la Presidencia Municipal; y
+
+VIII. Coordinar el Sistema Municipal de Evaluación del Desempeño, así como las estrategias de monitoreo, seguimiento y evaluación de resultados en el desarrollo del Municipio, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Tercera. Dirección de Atención Ciudadana
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 210 Quater.
+
+Son atribuciones de la Dirección de Planeación Institucional:
+
+I. Coordinar la planeación de la administración pública municipal;
+
+II. Coordinar la elaboración del Plan Municipal de Desarrollo y Gobernanza del Municipio, los Planes Institucionales, así como los programas presupuestarios que de estos se deriven;
+
+III. Establecer modelos de planeación que propicien el desarrollo del Municipio en congruencia con el Plan Municipal de Desarrollo y Gobernanza y con los programas presupuestarios, programas transversales, planes institucionales y proyectos derivados del mismo y que repercutan en una mejora de la calidad de vida de la población;
+
+IV. Establecer los lineamientos para la elaboración de las matrices de indicadores para resultados;
+
+V. Coordinar la elaboración de las matrices de indicadores para resultados de las políticas, programas y proyectos que forman parte del Sistema Municipal de Evaluación del Desempeño de la administración pública municipal;
+
+VI. Coordinar los procesos de monitoreo de las matrices de indicadores de resultados, así como de los programas y políticas que forman parte del Sistema Municipal de Evaluación del Desempeño;
+
+VII. Proponer la información estadística para la elaboración del informe anual de actividades sobre el estado que guarda la administración pública municipal;
+
+VIII. Coordinar y concentrar información, indicadores y estadísticas generadas por todas las dependencias de la administración pública municipal; y
+
+IX. Fungir como unidad enlace de planeación y gobernanza de acuerdo con lo establecido en la ley estatal en materia de planeación participativa.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Cuarta. Dirección de Gestión de Coordinación Metropolitana
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 210 Quinquies.
+
+La Dirección de Atención Ciudadana está encargada de recibir, administrar, canalizar y dar seguimiento a las solicitudes, demandas y peticiones de la población a través de los canales de comunicación oficiales. Cuenta con las siguientes atribuciones:
+
+I. Diseñar acciones y estrategias de contacto ciudadano, sencillas, accesibles y funcionales, acordes al programa de gobierno;
+
+II. Recibir, realizar el diagnóstico, canalizar, dar seguimiento y respuesta a las demandas de la población, a través de los programas de contacto ciudadano, mediante los sistemas con que cuente el Municipio;
+
+III. Establecer canales de comunicación con quienes representan las dependencias municipales a fin de canalizar y dar respuesta a las peticiones, quejas, sugerencias y denuncias ciudadanas;
+
+IV. Llevar el registro de la información de cada queja, denuncia, petición o sugerencia que reciba de la población;
+
+V. Proponer mejoras a los sistemas y programas de atención ciudadana que aumenten la eficiencia en la atención a las peticiones, quejas, sugerencias y denuncias presentadas por las y los ciudadanos;
+
+VI. Generar mecanismos de información a la población para que colabore y se integre en los diversos programas que emprenda el Municipio;
+
+VII. Promover la participación de la ciudadanía mediante la socialización de los asuntos públicos impulsados desde las entidades gubernamentales y de las actividades del Municipio, relacionadas al mejoramiento del espacio público de su fraccionamiento, colonia, condominio o unidad habitacional para el desarrollo integral de sus habitantes, a través de la gestión participativa;
+
+VIII. Canalizar a las y los vecinos con las entidades gubernamentales encargadas de la mediación y solución de los conflictos que se susciten entre los particulares de acuerdo a la normatividad aplicable;
+
+IX. Fomentar entre el funcionariado y las servidoras públicas y los servidores públicos municipales la participación ciudadana y gobernanza en la planeación, ejecución, implementación, medición y evaluación en los programas y políticas públicas; y
+
+X. Diseñar y planear, en coordinación con la dependencia competente en materia de proyectos del espacio público, y de manera conjunta y participativa con las y los vecinos, e instituciones de enseñanza, las acciones de rehabilitación y equipamiento de espacios públicos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Quinta. Dirección de Creación y Revisión de Contenidos
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 210 Sexies.
+
+Son atribuciones de la Dirección de Gestión de Coordinación Metropolitana:
+
+I. Gestionar y articular los asuntos relacionados con los temas metropolitanos que atañen al Municipio;
+
+II. Aportar a la agenda metropolitana y generar insumos para que el Ayuntamiento tenga una presencia activa y efectiva;
+
+III. Apoyar para que, en ausencia de la Presidenta o el Presidente Municipal, el Ayuntamiento tenga a las y los representantes que correspondan en las sesiones de trabajo convocadas por las instancias de Coordinación Metropolitana;
+
+IV. Gestionar y articular los asuntos relacionados con los temas administrativos, jurídicos y financieros de las instancias de Coordinación Metropolitana para facilitar la toma de decisiones sobre el tema;
+
+V. Trabajar en conjunto en las diversas mesas y talleres organizados por las instancias de Coordinación Metropolitana;
+
+VI. Mantener comunicación e intercambio de información con las instancias de Coordinación Metropolitana;
+
+VII. Gestionar y dar seguimiento a la implementación de los acuerdos derivados de las instancias de Coordinación Metropolitana, con los Municipios integrantes del Área Metropolitana de Guadalajara;
+
+VIII. Ser enlace de las y los Consejeros Ciudadanos Metropolitanos con la administración pública municipal; e
+
+IX. Impulsar y promover la capacitación de los asuntos y coordinación metropolitana en la administración pública municipal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Sexta. Dirección de Servicios Médicos Municipales
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 210 Septies.
+
+La Dirección de Creación y Revisión de Contenidos cuenta con las siguientes atribuciones:
+
+I. Diseñar estrategias, contenidos y procesos de trabajo a las áreas de la administración pública municipal que lo requieran;
+
+II. Liderar los procesos de investigación de los proyectos estratégicos del municipio;
+
+III. Diseñar y coordinar el proceso de generación de contenidos desde la ideación hasta la creación, la distribución, el análisis y el mantenimiento;
+
+IV. Diseñar y coordinar el proceso de revisión y aprobación de contenidos; y
+
+V. Monitorear y medir regularmente los contenidos, y proponer recomendaciones para mejorar el rendimiento.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Séptima. Unidad de Mejora Regulatoria
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 210 Novies. La Unidad de Mejora Regulatoria cuenta con las siguientes atribuciones:
+
+I. Proponer, gestionar y dirigir programas de Mejora Regulatoria en el Municipio; así como promover mecanismos de simplificación administrativa, y mejora de procesos, implementación de la mejora continua, aseguramiento de la calidad y que las actividades estén armonizadas con su marco regulatorio;
+
+II. Diseñar, implementar y promover las herramientas de mejora regulatoria que sean necesarias para hacer eficientes los trámites que se llevan a cabo en la administración Pública;
+
+III. Proponer programas de innovación gubernamental;
+
+IV. Coordinar las acciones de mejora regulatoria en la administración pública, la interacción con las autoridades federales y estatales, y con organismos de la sociedad civil;
+
+V. Promover el análisis de impacto regulatorio como una política pública que garantice mayores beneficios a la población, contra los costos de implementación;
+
+VI. Proponer los planes y programas regulatorios para el interior de la administración municipal;
+
+VII. Proponer al Ayuntamiento y en su caso aplicar los programas, planes de trabajo y los proyectos que tengan por objeto encausar la Mejora Regulatoria, para crear un entorno altamente favorable y competitivo para impulsar las actividades económicas;
+
+VIII. Obtener y mantener el liderazgo en Jalisco en la competitividad municipal y la Mejora Regulatoria;
+
+IX. Promover, en coordinación con otras dependencias, la instalación de ventanillas únicas de gestión y orientación en lugares estratégicos del Municipio; y
+
+X. Promover la celebración de convenios de coordinación con los tres órdenes de gobierno, tendientes a lograr un desarrollo organizacional y administrativo acorde a los requerimientos del Municipio.
+
+> <small>(REFORMADO EN SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VIII] G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 210 Octies.
+
+La Dirección de Servicios Médicos Municipales, tiene las siguientes atribuciones:
+
+I. Participar en la construcción del modelo metropolitano, con énfasis en la educación para la salud, la prevención y el autocuidado, con las dependencias competentes;
+
+II. Ser eje rector en la colaboración, coordinación y operación con las dependencias correspondientes para planear, asesorar y dirigir los programas que se instrumenten en el Municipio en materia de salud;
+
+III. Mejorar la cobertura de servicio prehospitalario y urgencias médicas quirúrgicas;
+
+IV. Colaborar en la promoción de programas de activación física y servicios de salud en lugares públicos, para impulsar la medicina preventiva y estilos de vida sana, en coordinación con las dependencias competentes;
+
+V. Operar un sistema sanitario de atención, con vinculación y coordinación funcional de todas las instituciones del sector salud que actúan en el Municipio;
+
+VI. Proponer las acciones de mejora del sistema de salud, basado en las necesidades de la ciudadanía;
+
+VII. Implementar los protocolos de intervención específica para los padecimientos de alta prevalencia;
+
+VIII. Colaborar en coordinación con las dependencias competentes en la implementación de medidas para el saneamiento y preservación de los entornos habitacionales, escolares y laborales, favoreciendo en la generación de entornos saludables para las personas;
+
+IX. Autorizar, apoyar y evaluar el desarrollo y cumplimiento de los programas de enseñanza, educación continua y adiestramiento en el servicio de salud;
+
+X. Coadyuvar y asesorar a las dependencias y entidades de la administración pública municipal para que las oficinas y edificios públicos del Municipio obtengan la certificación como entornos favorables a la salud, así como para que conserven dicha certificación; y
+
+XI. Asesorar y colaborar, en coordinación con la dependencia municipal de Protección Civil, a la Administración pública en la implementación y operación de sus respectivas Comisiones de Seguridad e Higiene.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Primera. Atribuciones comunes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+### Capítulo IX. Coordinaciones Generales
+
+#### Sección Segunda. Coordinación General de Administración e Innovación Gubernamental
 
 ###### Artículo 211.
 
-Las Coordinaciones Generales de Administración e Innovación Gubernamental, Comunicación Institucional, Construcción de Comunidad, Desarrollo Económico y Combate a la Desigualdad, Gestión Integral de la Ciudad, y la de Servicios Públicos Municipales, tienen las atribuciones comunes siguientes:
+Las Coordinaciones Generales de Administración e Innovación Gubernamental, Análisis Estratégico y Comunicación, Construcción de Comunidad, Desarrollo Económico, Combate a la Desigualdad, Gestión Integral de la Ciudad, y la de Servicios Públicos Municipales, tienen las atribuciones comunes siguientes:
 
 I. Coordinar los trabajos de las dependencias a su cargo, estableciendo las directrices para la ejecución de los mismos y para la prestación de las funciones y servicios públicos a su cargo y verificar su cumplimiento;
 
@@ -4023,13 +4793,17 @@ XII. Diseñar, implementar y promover con calidad y eficiencia los mecanismos de
 
 XIII. Ejercer por sí mismo o a través de las direcciones adscritas a su Coordinación, las atribuciones conferidas a las mismas.
 
-#### Sección Octava. Órgano Interno de Control
+#### Sección Tercera. Coordinación General de Análisis Estratégico y Comunicación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 212.
 
 La Coordinación General de Administración e Innovación Gubernamental, tiene como objetivo impulsar el desarrollo de la administración pública municipal mediante las diversas metodologías y modelos de gestión para la innovación y mejora de sistemas, optimización de recursos y procesos que permitan un eficiente desempeño. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración, Adquisiciones, Innovación Gubernamental, Patrimonio y Recursos Humanos.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración, Adquisiciones, Innovación Gubernamental, Patrimonio, Recursos Humanos, y Funcional de Gestión Plena.
 
 Subsección I
 
@@ -4069,11 +4843,27 @@ XIV. Contar con un sistema de control para el manejo de insumos y almacenes;
 
 XV. Programar y ejecutar el mantenimiento preventivo y correctivo de los vehículos, maquinaria y equipos en posesión y, o propiedad municipal;
 
-XVI. Programar y prestar los servicios generales, de limpieza y administrativos a las dependencias; y
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-XVII. Administrar, controlar y asegurar la conservación y mantenimiento de los bienes de patrimonio municipal y fijar las bases generales para el control administrativo y mantenimiento de los mismos.
+XVI. Programar y prestar los servicios generales, de limpieza y administrativos (sic) las dependencias;
 
-Para la atención de sus asuntos, cuenta con las áreas de Control y Análisis del Gasto Administrativo, de Recursos Materiales, de Servicios Generales, y la del Taller Municipal.
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XVII. Administrar, controlar y asegurar la conservación y mantenimiento de los bienes de patrimonio municipal y fijar las bases generales para el control administrativo y mantenimiento de los mismos;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XVIII. Elaborar un programa de conservación y mantenimiento de edificios, de acuerdo a su suficiencia presupuestal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XIX. Realizar periódicamente auditorías técnicas a las instalaciones eléctricas e hidráulicas de los edificios municipales, para determinar su capacidad disponible y la requerida para el funcionamiento de las dependencias y servicios que en ellos se encuentren, a fin de programar de esta forma las acciones de conservación y mantenimiento que requieran; y
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XX. Prevenir y en su caso, realizar las acciones necesarias para la erradicación de plagas de insectos y roedores, a fin de contar con espacios de trabajo limpios y salubres.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección II
 
@@ -4105,7 +4895,7 @@ X. Elaborar y mantener actualizado el Registro de Proveedores, integrando el exp
 
 XI. Generar y mantener vínculos con las cámaras y cúpulas correspondientes, así como las dependencias del Gobierno Municipal, para fomentar el desarrollo de Proveedores, apoyando a las pequeñas y medianas empresas locales.
 
-Para la atención de sus asuntos, cuenta con las áreas Administrativa y de Compras.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección III
 
@@ -4151,7 +4941,7 @@ XVII. Normar e impulsar el desarrollo administrativo y organizacional de las dep
 
 XVIII. Coordinar la elaboración y actualización de manuales de organización de las dependencias municipales, y promover entre estas el cumplimiento de los mismos.
 
-Para la atención de sus asuntos, cuenta con las áreas de Apoyo Administrativo, Desarrollo y Proceso de Aclaración, Programación Geográfica, Proyectos y Unidad de Infraestructura.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección IV
 
@@ -4197,7 +4987,7 @@ XVII. Proporcionar a las dependencias municipales los informes que le soliciten 
 
 XVIII. Rendir las opiniones que se le requieran respecto de la conveniencia o no de declarar la desincorporación al servicio público de un bien de propiedad municipal, así como sobre el uso o goce de los mismos.
 
-Para la atención de sus asuntos, cuenta con las áreas de Bienes Inmuebles, Bienes Muebles y Vehículos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección V
 
@@ -4243,13 +5033,39 @@ XVI. Autorizar el pago correspondiente vía nómina a personal de la Comisaría 
 
 XVII. Resguardar los contratos, convenios, condiciones generales de trabajo, acuerdos y cualquier otro documento formal y oficial en el que se confieran o establezcan derechos y obligaciones tanto al personal como al Ayuntamiento.
 
-Para la atención de sus asuntos, cuenta con las áreas de Administración de Nóminas, Administración y Control de Personal, y Desempeño y Capacitación.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Novena. Extinción o Fusión
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección VI
+
+Unidad Funcional de Gestión Plena
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 217 Bis.
+
+Son atribuciones de la Unidad Funcional de Gestión Plena:
+
+I. Implementar acciones y estrategias que contribuyan a eficientar los espacios y recursos de las Unidades Administrativas que se localizan en el municipio;
+
+II. Coordinar la operatividad y funcionamiento de las Unidades Administrativas;
+
+III. Informar a la Coordinación General de Administración e Innovación Gubernamental sobre la disponibilidad de espacios en las Unidades Administrativas para que se proceda a su adecuada distribución entre las dependencias municipales que los requieran;
+
+IV. Emitir los lineamientos de observancia general y obligatoria que regirán las dinámicas de convivencia, prestación de servicios y atención ciudadana de la administración pública municipal en todas las Unidades Administrativas;
+
+V. Solicitar a la Dirección de Administración las adecuaciones y reparaciones necesarias para el funcionamiento adecuado y eficiente de los espacios que integran las Unidades Administrativas; y
+
+VI. Emitir en coordinación con la Dirección de Patrimonio opiniones sobre la pertinencia o no para suscribir contratos o convenios con dependencias, instituciones u organismos externos a la administración pública municipal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Cuarta. Coordinación General de Construcción de Comunidad
 
 ###### Artículo 218.
 
-La Coordinación General de Comunicación Institucional tiene por objeto establecer los lineamientos y estrategias para comunicar las acciones del Gobierno Municipal. Cuenta con las siguientes atribuciones:
+La Coordinación General de Análisis Estratégico y Comunicación tiene por objeto establecer, diseñar y ejecutar los lineamientos y estrategias para comunicar a través de las diversas herramientas y medios a su alcance las acciones, proyectos y prioridades del Gobierno Municipal. Cuenta con las siguientes atribuciones:
 
 I. Apoyar a la Presidencia Municipal en la definición de la agenda de gobierno, en el ámbito de su competencia;
 
@@ -4259,7 +5075,9 @@ III. Definir la política en materia de comunicación que deben seguir las depen
 
 IV. Dirigir las acciones de comunicación interna y externa del Gobierno Municipal;
 
-V. Establecer los lineamientos de coordinación con los enlaces de comunicación de las dependencias municipales;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VI (SIC). Establecer los lineamientos de coordinación con los enlaces de comunicación de las dependencias municipales y proporcionarles los recursos materiales y humanos para poder ejecutar dichas acciones en sus respectivas coordinaciones;
 
 VI. Establecer las bases y lineamientos de la relación de las dependencias con los medios de comunicación, libres de estereotipos sexistas;
 
@@ -4293,23 +5111,65 @@ XX. Realizar un monitoreo diario de los medios de comunicación locales, naciona
 
 XXI. Generar y mantener un registro de la información periodística relacionada con el Gobierno Municipal y sus funcionarias y funcionarios públicos;
 
-XXII. Proveer a otras dependencias del Gobierno Municipal de una síntesis diaria de la información difundida por medios de comunicación locales y nacionales; y
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-XXIII. Canalizar los reportes que realiza la población a través de medios de comunicación y redes sociales, relacionados con los servicios que presta el Gobierno Municipal.
+XXII. Proveer a otras dependencias del Gobierno Municipal de una síntesis diaria de la información difundida por medios de comunicación locales y nacionales;
 
-Para la atención de los asuntos de su competencia cuenta con las áreas de Atención a Medios, Canalización de Reportes, Contenidos Digitales, Diseño, Fotografía y Video, Información y Contenidos Estratégicos, Monitoreo y Síntesis, y de Redes Sociales.
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXIII. Canalizar los reportes que realiza la población a través de medios de comunicación y redes sociales, relacionados con los servicios que presta el Gobierno Municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXIV. Coordinar las actividades de asesoría a la Presidencia Municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXV. Realizar análisis de los temas de coyuntura social de importancia para las decisiones del Gobierno Municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXVI. Diseñar, dar seguimiento y evaluar el mensaje político y gubernamental de la Presidencia Municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXVII. Generar investigación y análisis de los temas de interés público y de políticas públicas requeridas por la Presidencia Municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXVIII. Recabar información, indicadores y estadísticas generadas por las dependencias de la administración pública municipal y realizar análisis de las mismas, así como coordinar, con base en la información proporcionada por las áreas responsables, la redacción final y edición del informe de gobierno de la Presidenta o Presidente Municipal;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXIX. Generar material de apoyo y contenidos para las actividades de la Presidencia Municipal cuando ésta lo requiera; y
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XXX. Coadyuvar con las dependencias de la administración pública municipal, en el análisis de información cuando estas lo soliciten.
+
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Para la atención de los asuntos de su competencia cuenta con las áreas de Medios y Coberturas, Creatividad, Análisis Estratégico y Comunicación Institucional.
 
 Asimismo, para la consecución de sus fines, debe coordinarse con las demás instancias de gobierno y de la sociedad.
+
+#### Sección Quinta. Coordinación General de Desarrollo Económico
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 219.
 
 La Coordinación General de Construcción de Comunidad, es la instancia integradora de las áreas destinadas al diseño y ejecución de estrategias para la formación ciudadana, la construcción de comunidades y el fortalecimiento del tejido social; encargada de fomentar la participación de la población en el diseño y gestión de la ciudad. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Cultura, Educación, Integración, Participación Ciudadana, Protección Animal, Servicios Médicos Municipales y la de Prevención y Combate a las Adicciones.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Cultura, Educación, Protección Animal, Centros Colmena, Capacitación y Oferta Educativa, y de Apoyo a la Niñez.
 
 Asimismo, para la consecución de sus fines, debe coordinarse con las demás instancias de gobierno y de la sociedad.
 
-Los Organismos Públicos Descentralizados denominados Consejo Municipal del Deporte de Guadalajara y el Consejo Social de Cooperación para el Desarrollo Urbano de Guadalajara; así como el Consejo Consultivo para la Prevención y el Combate de las Adicciones en Guadalajara se encuentran sectorizados a esta Coordinación.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Los Organismos Públicos Descentralizados denominados Consejo Municipal del Deporte de Guadalajara y el Zoológico de Guadalajara; se encuentran sectorizados a esta Coordinación.
 
 Subsección I
 
@@ -4361,7 +5221,7 @@ XX. Coadyuvar en la preservación del patrimonio cultural y artístico del Munic
 
 XXI. Promover la difusión del patrimonio y tradiciones culturales y artísticas del Municipio.
 
-Para la atención de sus asuntos, cuenta con las áreas de Bibliotecas, de Museos, Centros Culturales y Galerías, de Vinculación, Planeación y Difusión, y de Operaciones.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección II
 
@@ -4391,9 +5251,13 @@ IX. Elaborar y aplicar proyectos para apoyar la ampliación de los servicios edu
 
 X. Desarrollar e implementar estrategias de comunicación masiva, inmediata y permanente sobre valores cívicos, a través de campañas interactivas y lúdicas que hagan propicia la participación de la niñez y la juventud; y
 
-XI. Administrar los centros de educación popular, las academias municipales, el bachillerato tecnológico en enfermería y optometría y demás bienes inmuebles asignados para el cumplimiento de sus atribuciones.
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-La Dirección de Educación Municipal, para el cumplimiento de sus atribuciones, cuenta con las áreas de Capacitación y Actualización Docente, Fomento Educativo, Infraestructura Escolar, Proyectos Especiales y Servicios Educativos Municipales.
+XI. Administrar los centros de educación popular, el bachillerato tecnológico en enfermería y optometría y demás bienes inmuebles asignados para el cumplimiento de sus atribuciones.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección III
 
@@ -4401,45 +5265,7 @@ Dirección de Participación Ciudadana y Gobernanza
 
 ###### Artículo 222.
 
-Son atribuciones de la Dirección de Participación Ciudadana y Gobernanza, además de las previstas en la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco, las siguientes:
-
-I. Realizar las funciones ejecutivas, con la autorización de la Presidencia Municipal o de la Secretaría General, y en coordinación con las y los titulares de la Administración pública, para la promoción y el desarrollo de los mecanismos mediante la implementación de los programas y políticas públicas para la participación ciudadana y la gobernanza, la construcción de comunidad, la reconstrucción del tejido social, el desarrollo humano, la elaboración de reglamentos, la gobernanza en el Municipio y las demás establecidas en la normatividad aplicable;
-
-II. Coordinar las relaciones del Municipio con los Organismos Sociales, las Organizaciones Vecinales, las Organizaciones de la Sociedad Civil, las Organizaciones no gubernamentales, Organismos Empresariales, Consejos Ciudadanos, colectivos y demás formas organizativas que existan en el Municipio, cumpliendo con las disposiciones normativas en materia de participación ciudadana;
-
-III. Colaborar y apoyar a la Presidencia Municipal en la gestión de recursos económicos, materiales y de políticas públicas por parte de las autoridades federales, estatales, municipales y de las y los particulares, así como destinar los programas de apoyo a la población que lo necesite para su desarrollo, esto atendiendo a los programas de su competencia;
-
-IV. Promover y difundir los pilares de la participación ciudadana y gobernanza como lo son la organización de la ciudadanía, capacitación, socialización, vinculación y deliberación entre las y los vecinos del Municipio para la toma de decisiones en los asuntos públicos y en el diseño de las políticas públicas del Gobierno Municipal que afecten a su núcleo de población;
-
-V. Intervenir en la constitución y renovación de los organismos sociales y las organizaciones vecinales que se integren de acuerdo a la normatividad aplicable;
-
-VI. Asistir como testigos, previa invitación de las y los vecinos, a las asambleas y demás reuniones vecinales, procurando la formalización de los acuerdos tomados en ellas, sin interferir en sus determinaciones;
-
-VII. Generar y proporcionar asesoría a los organismos sociales y las organizaciones vecinales cuando así lo soliciten, en lo concerniente a su constitución, ejecución, reglamentación interna y administración, así como efectuar las revisiones que señala la normatividad aplicable;
-
-VIII. Diseñar y fomentar los mecanismos para el desarrollo del gobierno compartido, participativo, interdependiente, relacional, horizontal, por redes, en asociación público–privado o gubernamental–social, con diversos actores económicos y sociales;
-
-IX. Recibir y tramitar las solicitudes de reconocimiento e inscripción en el Registro Municipal de Organismos y Asociaciones Vinculados con los Procesos Ciudadanos de los organismos sociales y organizaciones vecinales susceptibles de reconocimiento, así como su actualización y mantenimiento en los términos de la normatividad aplicable;
-
-X. Diseñar y fomentar los mecanismos para el desarrollo del gobierno compartido, participativo, interdependiente, relacional, horizontal, por redes, en asociación público privado o gubernamental social, con diversos actores económicos y sociales;
-
-XI. Realizar la conformación de mesas de trabajo para la planeación de las políticas públicas del Municipio y la definición de las y los líderes en los núcleos de población de acuerdo a la normatividad aplicable;
-
-XII. Publicar y difundir las convocatorias que emita la Presidenta o el Presidente Municipal con relación a los organismos sociales, las organizaciones vecinales, las organizaciones de la sociedad civil, las organizaciones no gubernamentales, colectivos y demás formas organizativas que existan en el Municipio;
-
-> <small>(REFORMADA, G.M. 7 DE OCTUBRE DE 2020)</small>
-
-XIII. Ejecutar las comisiones que le sean encomendadas por el Consejo Municipal de Participación Ciudadana y valorar las que emitan los consejos ciudadanos de otras materias relacionadas con la participación ciudadana y gobernanza;
-
-> <small>(REFORMADA, G.M. 7 DE OCTUBRE DE 2020)</small>
-
-XIV. Diseñar y generar contenidos, materiales impresos y digitales, estadísticas, numeralias, infografías, mapas, planos y aplicaciones digitales para la difusión de la cultura de la Participación Ciudadana y la Gobernanza del Municipio como eje rector; y
-
-> <small>(ADICIONADA, G.M. 7 DE OCTUBRE DE 2020)</small>
-
-XV. Promover, por conducto del Colegio de Notarios del Estado de Jalisco, la prestación de los servicios de constitución y formalización de organizaciones vecinales, sin costo para los interesados. Lo anterior, cuando los vecinos no tengan la capacidad económica para sufragar los gastos correspondientes.
-
-Para la atención de sus asuntos, cuenta con las áreas de Capacitación, Difusión y Comunicación Ciudadana, Innovación, Metodología y Estadística Ciudadana, Organización Ciudadana, y Vinculación con Consejos Consultivos, Asociaciones Vecinales y Organizaciones de la Sociedad Civil.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 Subsección IV
 
@@ -4483,7 +5309,9 @@ XVI. Pronunciarse sobre la eficacia de los medios de identificación que se impl
 
 XVII. Apoyar en la elaboración de los manuales de procedimientos necesarios para el mejor desempeño de las áreas que tengan relación con el tema de protección animal.
 
-La Dirección de Protección Animal, para el cumplimiento de sus atribuciones cuenta con las áreas de Control Animal, Integración Animal, y Protección Animal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección V
 
@@ -4491,31 +5319,9 @@ Dirección de Servicios Médicos Municipales
 
 ###### Artículo 224.
 
-La Dirección de Servicios Médicos Municipales, tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Participar en la construcción del modelo metropolitano, con énfasis en la educación para la salud, la prevención y el autocuidado, con las dependencias competentes;
-
-II. Ser eje rector en la colaboración, coordinación y operación con las dependencias correspondientes para planear, asesorar y dirigir los programas que se instrumenten en el Municipio en materia de salud;
-
-III. Mejorar la cobertura de servicio prehospitalario y urgencias médicas quirúrgicas;
-
-IV. Colaborar en la promoción de programas de activación física y servicios de salud en lugares públicos, para impulsar la medicina preventiva y estilos de vida sana, en coordinación con las dependencias competentes;
-
-V. Operar un sistema sanitario de atención, con vinculación y coordinación funcional de todas las instituciones del sector salud que actúan en el Municipio;
-
-VI. Proponer las acciones de mejora del sistema de salud, basado en las necesidades de la ciudadanía;
-
-VII. Implementar los protocolos de intervención específica para los padecimientos de alta prevalencia;
-
-VIII. Colaborar en coordinación con las dependencias competentes en la implementación de medidas para el saneamiento y preservación de los entornos habitacionales, escolares y laborales, favoreciendo en la generación de entornos saludables para las personas;
-
-IX. Autorizar, apoyar y evaluar el desarrollo y cumplimiento de los programas de enseñanza, educación continua y adiestramiento en el servicio de salud;
-
-X. Coadyuvar y asesorar a las dependencias y entidades de la administración pública municipal para que las oficinas y edificios públicos del Municipio obtengan la certificación como entornos favorables a la salud, así como para que conserven dicha certificación; y
-
-XI. Asesorar y colaborar, en coordinación con la dependencia municipal de Protección Civil, a la Administración pública en la implementación y operación de sus respectivas Comisiones de Seguridad e Higiene.
-
-La Dirección de Servicios Médicos Municipales, para el cumplimiento de sus atribuciones cuenta con las áreas de Atención Pre hospitalaria, Atención de Urgencias Médicas, Servicios Administrativos, y Planeación, Innovación y Evaluación.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección VI
 
@@ -4523,41 +5329,117 @@ Dirección de Prevención y Combate a las Adicciones
 
 ###### Artículo 225.
 
-La Dirección de Prevención y Combate a las Adicciones, tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Planear, dirigir y controlar los programas que se instrumenten en el Municipio en materia de prevención y combate a las adicciones;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-II. Impulsar, motivar y coordinar la participación del Consejo Consultivo de Prevención y Combate a las Adicciones, así como a la ciudadanía en materia educativa de prevención y combate a las adicciones;
+Subsección VII
 
-III. Fomentar y generar las acciones preventivas, la detección temprana de las y los consumidores y su atención oportuna en centros escolares o diversos lugares estratégicos;
+Dirección de Centros Colmena
 
-IV. Promover planes, programas y acciones de reinserción social de personas en situación de adicción al ámbito social, laboral, cultural y educativo;
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-V. Promover y coordinar la participación de instituciones educativas, sociales, culturales y deportivas en la ejecución de programas para prevenir las adicciones;
+###### Artículo 225 Bis.
 
-VI. Ejecutar planes, programas y acciones para disminuir los riesgos asociados con el consumo de sustancias adictivas, con enfoque de derechos humanos, igualdad y paridad de género;
+La Dirección de Centros Colmena tiene las siguientes atribuciones:
 
-VII. Realizar estudios colaborativos con otras áreas, que tengan por objeto identificar el consumo temprano del tabaco, alcohol, fármacos y otras sustancias adictivas, la aparición de nuevas conductas adictivas y formular programas y estrategias para su erradicación;
+I. Diseñar y desarrollar políticas públicas y estrategias orientadas al fortalecimiento del tejido social y el desarrollo comunitario;
 
-VIII. Difundir en el Municipio hábitos de salud entre la población, así como las consecuencias del consumo de tabaco, alcohol, otras sustancias y conductas adictivas, a fin de prevenir las adicciones;
+II. Gestionar la operación, desarrollo y consolidación de la red de Centros Colmena;
 
-IX. Elaborar programas para la derivación y reinserción de personas con problemas de adicción, así como la realización de campañas encaminadas a la sensibilización y concientización de la población, y de las funcionarias y funcionarios públicos sobre las formas de expresión hacia las y los consumidores y la percepción de los mismos;
+III. Promover el arte, cultura y deporte en la red de Centros Colmena;
 
-X. Promover la participación de instituciones y organizaciones de los sectores público, social y privado en la reinserción social de personas adictas que fueron rehabilitadas;
+IV. Impulsar la Red de Centros Agroecológicos y el cuidado del medio ambiente en los Centros Colmena;
 
-XI. Proponer e implementar modelos de tratamiento, rehabilitación y reinserción social en materia de adicciones;
+V. Brindar servicios de asesoría legal, atención médica y psicológica en la red de Centros Colmena;
 
-XII. Impulsar la aplicación de mecanismos de coordinación y cooperación con los comités de otros Municipios para su coordinación relacionados con la prevención y atención de adicciones, así como con las dependencias y organismos del sector salud y las unidades de la red nacional de tratamiento, en la aplicación de programas y proyectos en materia de tratamiento, rehabilitación y reinserción social de personas con problemas de adicción; y
+VI. Desarrollar programas de educación y tecnología en la red de Centros Colmena;
 
-XIII. Colaborar en el diseño y aplicación de políticas que fomenten la prevención y el combate contra las adicciones, en coordinación con las dependencias correspondientes.
+VII. Promover y fomentar que la población se apropie de los espacios públicos como estrategia de cohesión social.
+
+VIII. Coordinar, diseñar y planear de manera conjunta y participativa con los vecinos, sociedad civil e instituciones de enseñanza, el diseño y planeación de las acciones de rehabilitación y equipamiento de espacios públicos;
+
+IX. Promover la participación ciudadana y el mejoramiento de la vida comunitaria;
+
+X. Implementar actividades recreativas en los núcleos de población, que fomentan el sentido de comunidad y las relaciones interpersonales; y
+
+XI. Sensibilizar a la población de la importancia de llevar a cabo actividades recreativas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección VIII
+
+Dirección de Capacitación y Oferta Educativa
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 225 Ter.
+
+La Dirección de Capacitación y Oferta Educativa tiene las siguientes atribuciones:
+
+I. Potencializar las capacidades productivas, personales y comunitarias de la ciudadanía (sic) Guadalajara a través de programas y proyectos de capacitación y formación que generen igualdad de oportunidades;
+
+II. Desarrollar e implementar programas y proyectos para disminuir el rezago educativo a través de estrategias de innovación;
+
+III. Desarrollar e implementar programas y proyectos de capacitación que promuevan el autoempleo y la elaboración de productos para el autoconsumo;
+
+IV. Desarrollar e implementar programas y proyectos de capacitación que impulsen el desarrollo de habilidades personales y profesionales en la ciudadanía de Guadalajara y en las servidoras y servidores públicos del municipio de Guadalajara;
+
+V. Promover la capacitación, actualización y profesionalización para el desarrollo de la ciudadanía de Guadalajara y de las servidoras y servidores públicos del municipio;
+
+VI. Promover la vinculación y coordinar acuerdos y/o convenios con instituciones académicas u organismos que promuevan la capacitación y mejora educativa de la ciudadanía y las servidoras y los servidores del municipio de Guadalajara;
+
+VII. Celebrar, a través de la coordinación, convenios de colaboración y coparticipación con aquellos organismos e instituciones cuyos objetivos coincidan con los de la dirección;
+
+VIII. Llevar el control administrativo, educativo y operativo de las academias municipales logrando incrementar el número de beneficiarios así como la calidad de sus servicios;
+
+IX. Fomentar modelos de cooperación y vinculación con los sectores productivos del Municipio que permitan acceder a oportunidades de empleo a los beneficiarios de las Academias Municipales; y
+
+X. Administrar las academias municipales y demás bienes inmuebles asignados para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección IX
+
+Dirección de Apoyo a la Niñez
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 225 Quater.
+
+La Dirección de Apoyo a la Niñez tiene las siguientes atribuciones:
+
+I. Diseñar y coordinar la ejecución de políticas públicas transversales con un enfoque de derechos de la niñez;
+
+II. Coordinar los trabajos del Sistema Municipal de Protección Integral de Niñas Niños y Adolescentes;
+
+III. Promover el conocimiento, respeto y la apropiación de los derechos de las niñas, niños y adolescentes en los diferentes sectores sociales;
+
+IV. Realizar trabajos (sic) coordinación con otros municipios del Área Metropolitana de Guadalajara y del Estado, para la promoción de derechos de la infancia;
+
+V. Evaluar el impacto de los programas y proyectos municipales con un enfoque de derechos de la infancia;
+
+VI. Impulsar proyectos y programas que mejoren las condiciones de los entornos recreativos y educativos de las niñas, niños y adolescentes en el municipio;
+
+VII. Impulsar que los espacios públicos del municipio cuenten con las condiciones necesarias que estimulen su uso y disfrute por parte niñas, niños y adolescentes; y
+
+VIII. Promover que los programas y proyectos municipales incorporen el principio de igualdad sustantiva entre niñas y niños.
+
+> <small>(REFORMADA DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Sexta. Coordinación General de Combate a la Desigualdad
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 226.
 
-La Coordinación General de Desarrollo Económico y Combate a la Desigualdad, tiene por objeto impulsar el desarrollo de oportunidades para todas las personas que deseen acceder a un empleo digno o emprender un negocio; así como, fomentar el desarrollo y la ejecución de programas sociales estratégicos que impulsen el progreso social responsable e incluyente, para garantizar un crecimiento equitativo y sustentable para la población municipal. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
+La Coordinación General de Desarrollo Económico, tiene por objeto impulsar el desarrollo de oportunidades para todas las personas que deseen acceder a un empleo digno o emprender un negocio, para garantizar un crecimiento equitativo y sustentable para la población municipal. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-Para el despacho de los asuntos de su competencia, cuenta con las áreas de Programas Comunitarios, Emprendimiento, Gestión de Programas Estatales y Federales, Padrón y Licencias, Programas Sociales Municipales, Promoción a la Inversión y al Empleo, Proyectos Económicos Estratégicos, Proyectos Especiales, y la de Turismo.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-Se encuentran sectorizados a la Coordinación los Organismos Públicos Descentralizados denominados Sistema para el Desarrollo Integral de la Familia de Guadalajara, Patronato del Centro Histórico, Barrios y Zonas Tradicionales de Guadalajara, Instituto Municipal de Atención a la Juventud de Guadalajara, Instituto Municipal de las Mujeres de Guadalajara, así como el Consejo Consultivo de las Organizaciones de la Sociedad Civil para el Desarrollo Humano en el Municipio de Guadalajara.
+Para el despacho de los asuntos de su competencia, cuenta con las áreas de Emprendimiento, Padrón y Licencias, Promoción a la Inversión y al Empleo, Turismo, Relaciones Internacionales y Atención al Migrante, Mercados, Tianguis y Comercio en Espacios Abiertos, y Corresponsabilidad Social.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección I
 
@@ -4595,7 +5477,9 @@ XIII. Organizar eventos y exposiciones que ayuden a que las emprendedoras y los 
 
 XIV. Celebrar convenios de colaboración que fomenten el desarrollo económico de las micro, pequeñas y medianas empresas a través de financiamientos compartidos.
 
-La Dirección de Emprendimiento, para el cumplimiento de sus atribuciones cuenta con las áreas de Apoyo a Mujeres, Juventud y Personas Adultas Mayores, y de Atención a la Ciudadanía Emprendedora.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección II
 
@@ -4603,51 +5487,7 @@ Dirección de Gestión de Programas Estatales y Federales
 
 ###### Artículo 228.
 
-Son atribuciones de la Dirección de Gestión de Programas Estatales y Federales:
-
-I. Gestionar ante las entidades internacionales y autoridades nacionales competentes, los programas sociales dirigidos a personas de escasos recursos, víctimas de violencia de género, integrantes de los pueblos y comunidades indígenas, y zonas vulnerables del Municipio;
-
-II. Realizar acciones coordinadas con entidades internacionales, la Federación y el Estado, encaminadas a registrar, dar seguimiento y acercar a las ciudadanas y los ciudadanos los programas sociales;
-
-III. Proponer las políticas, criterios y lineamientos generales para el cumplimiento de los objetivos de los programas y acciones para el desarrollo social;
-
-IV. Diseñar mecanismos de incorporación y participación social que fomenten la consolidación del tejido social;
-
-V. Establecer los lineamientos, para la elaboración y la actualización de los padrones de personas beneficiarias de los programas sociales; así como para la recolección de información socioeconómica, desagregada por sexo, identificación de hogares, información social, regional, estadística y geo referenciada;
-
-VI. Establecer mecanismos y acciones para desarrollar modelos de cohesión e inclusión social comunitaria, orientados a fortalecer las estrategias de desarrollo social y la disminución de las brechas de desigualdad entre mujeres y hombres;
-
-VII. Diseñar sistemas de identificación y articulación de los programas de desarrollo social a cargo de la administración pública;
-
-VIII. Diseñar mecanismos de capacitación libre de estereotipos sexistas, que promuevan el desarrollo social comunitario integral;
-
-IX. Dar a conocer las disposiciones normativas y presupuestarias a quienes operan los programas;
-
-X. Dar a conocer a la o el superior jerárquico las políticas, estrategias, programas, proyectos y acciones destinadas a vincular y articular la participación de la comunidad y de las demás instancias involucradas;
-
-XI. Analizar los programas sociales de los tres órdenes de gobierno con la finalidad de promover la formulación de procesos de participación social de la población más desprotegida, en los programas a cargo del Municipio y establecer mecanismos que permitan homologar los métodos, elementos y características de participación social;
-
-XII. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos para agilizar los trámites administrativos de la Dirección;
-
-XIII. Proponer a la o el superior jerárquico, normas, guías y lineamientos en materia de formas de asociación orientadas al desarrollo comunitario en áreas marginadas;
-
-XIV. Impulsar entre la población en condiciones de vulnerabilidad, mecanismos colectivos que fortalezcan la participación social en el diseño, ejecución y evaluación de las políticas públicas en materia de desarrollo social y programas sociales a cargo de la Dirección;
-
-XV. Impulsar acciones de capacitación, dirigidas al fortalecimiento en materia de desarrollo social;
-
-XVI. Establecer, vigilar y coordinar la distribución de los recursos federales, estatales y municipales entre las direcciones involucradas en la ejecución de los mismos dirigidos al desarrollo social, así como evaluar el ejercicio de los mismos;
-
-XVII. Proponer a la o el superior jerárquico, la política para coordinar la contratación, operación y supervisión del monitoreo y evaluación de los programas sociales;
-
-XVIII. Llevar a cabo la supervisión de las acciones en materia de desarrollo social derivadas de la aplicación de los recursos;
-
-XIX. Promover la participación de las personas beneficiarias de los programas sociales, en la formulación de propuestas de planeación y ejecución de los mismos;
-
-XX. Promover acciones preventivas ante el deterioro del entorno comunitario y de sus procesos económico y social; y
-
-XXI. Coordinar con la Dirección de Participación Ciudadana y la Contraloría Ciudadana, el diseño, implementación y capacitación de las y los ciudadanos interesados en integrar las contralorías sociales de los programas a cargo de la Coordinación General de Desarrollo Económico y Combate a la Desigualdad, de acuerdo a las legislaciones aplicables en materia de Desarrollo Social.
-
-La Dirección de Gestión de Programas Estatales y Federales, para el cumplimiento de sus atribuciones cuenta con las áreas de Gestión de Programas Federales, Gestión de Programas Estatales, y de Vinculación Interinstitucional.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 Subsección III
 
@@ -4687,7 +5527,9 @@ XIV. Revocar autorizaciones de licencias o trámites para la obtención de las m
 
 XV. Implementar programas de regularización, para aquellas actividades comerciales, industriales o de prestación de servicios que no cuenten con licencias de giro y se encuentren en funciones o que contando con licencia operen un giro distinto al autorizado en la misma.
 
-Esta Dirección cuenta con las áreas de Asuntos Jurídicos, Control y Gestión de Trámites, Espectáculos, Giros Restringidos, Imagen Urbana, Supervisión, Transparencia, y Ventanilla de Atención Empresarial.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección IV
 
@@ -4695,33 +5537,9 @@ Dirección de Programas Comunitarios
 
 ###### Artículo 230.
 
-Son atribuciones de la Dirección de Programas Comunitarios:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Implementar programas sociales que brinden atención a estancias infantiles y comedores comunitarios;
-
-II. Proponer a su superior jerárquico, normas, guías y lineamientos en materia de formas de asociación orientadas al desarrollo comunitario en áreas marginadas;
-
-III. Establecer los lineamientos para la recolección de información socioeconómica, identificación de hogares, información social, regional, estadística y georreferenciada, desagregada por sexo;
-
-IV. Diseñar sistemas de identificación y articulación de los programas de desarrollo comunitario a cargo de la administración pública;
-
-V. Capacitar y asesorar a las operadoras y los operadores de los programas de participación comunitario (sic), cuando así lo requiera;
-
-VI. Dar a conocer las disposiciones normativas y presupuestarias a las operadoras y los operadores de programas;
-
-VII. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos que sean necesarios para agilizar los trámites administrativos de la dirección;
-
-VIII. Recibir, canalizar y dar seguimiento a las demandas de la población relativas a los servicios públicos que presta el Municipio y, en su caso, canalizar las que corresponden a otras instancias gubernamentales;
-
-IX. Promover la comunicación y la colaboración con las distintas instituciones educativas a fin de intercambiar información sobre programas que puedan aplicarse en beneficio de la comunidad del Municipio;
-
-X. Impulsar acciones de capacitación, dirigidas al fortalecimiento en materia de desarrollo comunitario;
-
-XI. Promover un sistema eficaz de captación de necesidades de la población y efectuar las acciones necesarias para brindar mayores beneficios a la comunidad; y
-
-XII. Administrar los centros de bienestar comunitario, estancias infantiles y demás bienes inmuebles asignados para el cumplimiento de sus atribuciones, de acuerdo a sus reglas de operación y reglamentos internos.
-
-Esta Dirección cuenta con las áreas de Apoyos a Madres y Padres que Trabajan, Apoyo para los Programas de Estancias Infantiles Municipales, y los Centros de Bienestar Comunitarios.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección V
 
@@ -4729,45 +5547,7 @@ Dirección de Programas Sociales Municipales
 
 ###### Artículo 231.
 
-Son atribuciones de la Dirección de Programas Sociales Municipales:
-
-I. Implementar y formular los lineamientos generales para el diseño de los programas sociales estratégicos del Municipio;
-
-II. Proponer las políticas, criterios y lineamientos generales para el cumplimiento de los objetivos de los programas sociales municipales estratégicos y acciones del Municipio;
-
-III. Diseñar mecanismos de incorporación y participación social que fomenten la consolidación del tejido social;
-
-IV. Implementar programas sociales municipales que contribuyan a combatir la brecha de desigualdad socioeconómica de las mujeres, la discriminación, marginación, falta de oportunidades para los niños, niñas, adolescentes, juventud, mujeres y personas adultas mayores que habitan en el Municipio;
-
-V. Implementar programas sociales municipales que contribuyan a mejorar las condiciones de vida de quienes tienen o atienden personas con alguna discapacidad, siempre y cuando dicha atención y cuidado provoca rezago socioeconómico y no permita al cuidador tener un empleo o realizar actividad productiva;
-
-VI. Establecer los lineamientos para la elaboración y actualización de los padrones de personas beneficiarias de los programas sociales, así como para la recolección de información socioeconómica, desagregada por sexo, con identificación de hogares, información social, regional, estadística y geo referenciada;
-
-VII. Capacitar y asesorar a las operadoras y los operadores de los programas de participación social, cuando así lo requiera;
-
-VIII. Establecer mecanismos y acciones para desarrollar modelos de cohesión e inclusión social comunitaria, orientados a fortalecer las estrategias de desarrollo social;
-
-IX. Establecer estrategias para diagnosticar, revisar y determinar la política de cohesión e inclusión social que articule esfuerzos en la ejecución de los programas sociales del Municipio y que contribuyan a la disminución de la brecha de desigualdad entre mujeres y hombres;
-
-X. Diseñar sistemas de identificación y articulación de los programas de desarrollo social a cargo de la Administración pública;
-
-XI. Dar a conocer las disposiciones normativas y presupuestarias a las operadoras y los operadores de los programas a su cargo;
-
-XII. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos para agilizar los trámites administrativos de la Dirección;
-
-XIII. Establecer los criterios para la distribución de los recursos de desarrollo social y evaluar el ejercicio de los recursos;
-
-XIV. Proponer a la o el superior jerárquico, la política para coordinar la contratación, operación y supervisión del monitoreo y evaluación de los programas sociales;
-
-XV. Promover la participación de las y los beneficiarios de los programas sociales, en la formulación de propuestas de planeación y ejecución de los mismos;
-
-XVI. Establecer y fomentar vínculos sociales e institucionales en el ámbito de su competencia;
-
-XVII. Diseñar e implementar los mecanismos para la participación de las y los beneficiarios de los programas sociales, en actividades que abonen al desarrollo comunitario y de construcción del tejido social; y
-
-XVIII. Establecer, vigilar y coordinar la distribución de los recursos federales, estatales y municipales entre las áreas de la Dirección involucradas en la ejecución de estos recursos dirigidos al desarrollo social, así como evaluar el ejercicio de los mismos.
-
-Esta Dirección cuenta con las áreas de Apoyo Social a Cuidadores de Personas con Discapacidad, Apoyo Social a Niños, Niñas y Adolescentes, Apoyo Social a Mujeres, Apoyo Social y Becas a la Juventud, y Apoyo Social a Personas Adultas Mayores.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 Subsección VI
 
@@ -4793,7 +5573,9 @@ VII. Diseñar, implementar, promover y supervisar la Ventanilla Empresarial, con
 
 VIII. Realizar la vinculación con los organismos empresariales que permitan la colaboración en conjunto, en beneficio del desarrollo económico del Municipio.
 
-La Dirección cuenta con el apoyo de las áreas de Fomento al Empleo, Ventanilla Empresarial, y Vinculación Empresarial.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección VII
 
@@ -4801,15 +5583,9 @@ Dirección de Proyectos Económicos Estratégicos
 
 ###### Artículo 233.
 
-Son atribuciones de la Dirección de Proyectos Económicos Estratégicos:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Impulsar los proyectos económicos estratégicos que se deriven del Programa Municipal de Desarrollo o en su caso, los que determine la Presidenta o el Presidente Municipal, así como coordinarse con la Administración pública para lograr su estructuración, financiamiento y desarrollo;
-
-II. Promover e impulsar, previa autorización del Ayuntamiento, la participación de la iniciativa privada local, nacional, así como la participación de la población y gobierno, con el objeto de procurar la autogestión de los proyectos estratégicos municipales;
-
-III. Planear, proyectar, promover, operar y administrar los proyectos estratégicos municipales; y
-
-IV. Proponer a la Presidenta o el Presidente Municipal, o al Ayuntamiento a través de la Coordinación General de Desarrollo Económico y Combate a la Desigualdad, la constitución y suscripción de fideicomisos, sociedades mercantiles y demás instrumentos financieros específicos para el desarrollo de los proyectos económicos estratégicos para el Municipio.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección VIII
 
@@ -4817,67 +5593,7 @@ Dirección de Proyectos Especiales
 
 ###### Artículo 234.
 
-Son atribuciones de la Dirección de Proyectos Especiales:
-
-I. Proponer, gestionar y dirigir programas de Mejora Regulatoria en el Municipio; así como promover mecanismos de simplificación administrativa, y mejora de procesos, implementación de la mejora continua, aseguramiento de la calidad y que las actividades estén armonizadas con su marco regulatorio;
-
-II. Diseñar, implementar y promover las herramientas de mejora regulatoria que sean necesarias para hacer eficientes los trámites que se llevan a cabo en la administración Pública;
-
-III. Proponer programas de innovación gubernamental;
-
-IV. Identificar los factores de competitividad de la ciudad y su expresión en las cadenas productivas con mayor potencial de crecimiento económico;
-
-V. Hacer efectivas las políticas de promoción y fomento de las actividades productivas en el Municipio, dentro de un marco jurídico que otorgue seguridad a la inversión y que impulse el desarrollo económico integral y sostenido en el Municipio, y en su caso someter a consideración del Ayuntamiento las propuestas del otorgamiento de estímulos a la inversión privada;
-
-VI. Coordinar las acciones de mejora regulatoria en la administración pública, la interacción con las autoridades federales y estatales, y con organismos de la sociedad civil;
-
-VII. Promover el análisis de impacto regulatorio como una política pública que garantice mayores beneficios a la población, contra los costos de implementación;
-
-VIII. Proponer:
-
-a) Los lineamientos básicos de la política económica que coadyuven en la definición de estrategias y programas específicos de fomento, alineados y orientados a fortalecer la posición competitiva del Municipio;
-
-b) Las bases que aseguren la congruencia de las políticas municipales de fomento y desarrollo con los instrumentos vigentes en los demás órdenes en la materia;
-
-c) Los instrumentos que aseguren la congruencia de las políticas de fomento a la competitividad y desarrollo económico, con las políticas hacendarias y financieras del Municipio; y
-
-d) Los planes y programas regulatorios para el interior de la administración municipal.
-
-IX. Proponer al Ayuntamiento y en su caso aplicar los programas, planes de trabajo y los proyectos que tengan por objeto:
-
-a) El desarrollo económico equilibrado, armónico y sustentable del Municipio, a través de la atracción de Proyectos de Inversión y el fortalecimiento de las inversiones existentes;
-
-b) Proponer un marco jurídico que aliente y consolide la inversión;
-
-c) La generación de nuevas fuentes de empleo formales y la conservación de los existentes;
-
-d) Fomentar el desarrollo de infraestructura, servicios y demás condiciones necesarias que propicien la atracción, retención y expansión de proyectos de inversión al Municipio;
-
-e) Promover las actividades productivas que generen mayor valor agregado en los productos y servicios de las empresas;
-
-f) La reactivación económica de las zonas propicias con menor nivel de desarrollo económico, de conformidad con el programa de Desarrollo Urbano del Centro Poblacional del Municipio, mediante estímulos a empresas que realicen inversión nueva en esas zonas;
-
-g) Propiciar la cultura emprendedora y las oportunidades de desarrollo productivo con potencial en el Municipio;
-
-h) Encausar la Mejora Regulatoria, para crear un entorno altamente favorable y competitivo para impulsar las actividades económicas;
-
-i) Incluir la participación de las empresas en eventos nacionales e internacionales que permitan difundir las oportunidades de negocio e inversión que ofrece el Municipio;
-
-j) El uso de tecnologías de información y de comunicación para incrementar las oportunidades de negocio de las empresas;
-
-k) La coordinación de acciones entre la administración pública municipal y el sector privado, para impulsar el desarrollo empresarial en sus diversas manifestaciones; y
-
-l) La utilización de tecnología limpia que incluya equipos, dispositivos, mecanismos, técnicas o sistemas que, aplicados a una fuente o proceso generador de contaminantes, reduzcan, minimicen o eliminen, su grado de peligrosidad y contaminación, con otras tecnologías usuales.
-
-X. Posicionar la mejora de la competitividad como una actividad prioritaria para el desarrollo del Municipio;
-
-XI. Obtener y mantener el liderazgo en Jalisco en la competitividad municipal y la Mejora Regulatoria;
-
-XII. Diseñar y perfeccionar continuamente las estrategias para la mejora de competitividad; y
-
-XIII. Establecer instrumentos pertinentes para el aseguramiento de la mejora continua de la competitividad, incluida la constitución y administración de fondos dedicados a la dotación y mejora de infraestructura, la creación y equipamiento de los centros de mejora productiva y el apoyo directo a proyectos estratégicos para el aumento de la competitividad.
-
-Esta Dirección para el ejercicio de sus atribuciones cuenta con las Áreas de Agenda de Competitividad Municipal, Mejora Regulatoria, y la de Programas de Innovación y Desarrollo.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 Subsección IX
 
@@ -4927,19 +5643,301 @@ XIX. Generar, promover e implementar acciones y programas que promuevan la cultu
 
 XX. Gestionar, promover y dar seguimiento a los Hermanamientos y convenios de colaboración con las Ciudades Hermanas Nacionales.
 
-Esta dirección cuenta con las áreas de Capacitación, Ciudades Hermanas Nacionales, Congresos y Convenciones, Eventos Especiales, y Promoción Turística.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección X
+
+Dirección de Relaciones Internacionales y Atención al Migrante
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 235 Bis.
+
+Son atribuciones de la Dirección de Relaciones Internacionales y Atención al Migrante:
+
+I. Diseñar, gestionar e implementar proyectos de vinculación internacional estratégicos orientados a fortalecer las líneas de acción establecidas como prioridad en el Plan Municipal de Desarrollo y Gobernanza;
+
+II. Proponer a la Presidenta o el Presidente Municipal, las políticas públicas en materia de relaciones internacionales y atención al migrante, procurando la activación de las relaciones de amistad con otras ciudades del mundo, mediante la implementación de proyectos de cooperación específicos;
+
+III. Diseñar, organizar y conducir estrategias de acción con la participación de los diversos sectores, para la ejecución de los programas municipales que tengan como propósito la atención e inclusión de personas migrantes, de conformidad con la normatividad aplicable;
+
+IV. Coadyuvar con los gobiernos federal y estatal, y con la iniciativa privada en materia de relaciones internacionales y atención al migrante;
+
+V. Implementar programas de capacitación a servidoras y servidores públicos en materia de relaciones internacionales y atención al migrante; y
+
+VI. Coordinar las oficinas municipales de enlace con la Secretaría de Relaciones Exteriores para la recepción documentos para el trámite de pasaporte mexicano.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección XI
+
+Dirección de Mercados
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 235 Ter.
+
+Son atribuciones de la Dirección de Mercados:
+
+I. Definir, generar y evaluar los Programas de Crecimiento y Promoción Económica de los mercados municipales;
+
+II. Vigilar el cumplimiento de las obligaciones de las administradoras y los administradores de los mercados municipales y en su caso la integración de los comités;
+
+III. Elaborar y gestionar la implementación del Programa Anual de Rescate y Adecuación de los Mercados Municipales, así como su mantenimiento, acorde al Programa de Gobierno Municipal, en coordinación con las dependencias competentes;
+
+IV. Expedir el documento de identificación mediante el cual acreditan los derechos las personas que ejerzan actividades de comercio en los mercados del Municipio;
+
+V. Elaborar y actualizar en coordinación con la Tesorería el padrón de las locatarias y los locatarios y el catálogo de giros y servicios de los mercados del Municipio y de las concesiones otorgadas por el Ayuntamiento;
+
+VI. Coordinar sus actividades con la Tesorería, para el procesamiento del registro del Padrón de Contribuyentes; y coordinarse con la Dirección de Inspección y Vigilancia para efecto de que en los mercados se cumplan con la normatividad aplicable; y
+
+VII. Establecer en coordinación con la dependencia municipal de Protección Civil, los protocolos y las políticas en materia de prevención de siniestros, catástrofes y de contratación de póliza de seguros para estos casos, y los de responsabilidad civil.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección XII
+
+Dirección de Tianguis y Comercio en Espacios Abiertos
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 235 Quater.
+
+Son atribuciones de la Dirección de Tianguis y Comercio en Espacios Abiertos:
+
+I. Definir y establecer las estrategias que regulen los tianguis y espacios abiertos acorde al Programa de Gobierno Municipal y la normatividad aplicable;
+
+II. Asignar a particulares el uso de sitios públicos para ejercer el comercio de manera provisional en los tianguis y espacios abiertos del Municipio, con base en las directrices que le marquen las dependencias competentes de conformidad a la normatividad aplicable;
+
+III. Expedir permisos municipales correspondientes a tianguis y comercio en espacios abiertos de conformidad a la normatividad aplicable;
+
+IV. Regular y expedir permisos municipales correspondientes a las ferias o eventos masivos que se desarrollen en la vía pública para promociones comerciales o eventos especiales;
+
+V. Expedir el documento de identificación mediante el cual acreditan la asignación de los espacios a las personas que ejercen actividades de comercio en los tianguis y comercio en espacios abiertos;
+
+VI. Elaborar y actualizar el padrón de los espacios físicos y el catálogo de los giros comerciales y de prestación de servicios de los tianguis y comercios en espacios abiertos;
+
+VII. Designar al personal responsable de coordinar el funcionamiento de los tianguis y comercio en espacios abiertos;
+
+VIII. Coordinar sus actividades con·la Tesorería y con la Dirección de Inspección y Vigilancia, para el procesamiento del registro del Padrón de Contribuyentes;
+
+IX. Crear un programa de integración del comercio informal a la economía formal, usando los espacios disponibles en los mercados municipales y la conversión al modelo de comercio compatible con los planes de ordenamiento municipales;
+
+X. Establecer un programa operativo para el desarrollo del comercio en días conmemorativos y demás eventos de concentración masiva en la vía pública; y
+
+XI. Diseñar e implementar en conjunto con otras dependencias del Municipio soluciones en materia de fisonomía de los corredores de comercio de la ciudad.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección XIII
+
+Dirección de Corresponsabilidad Social
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 235 Qinquies. Son atribuciones de la Dirección de Corresponsabilidad Social:
+
+I. Implementar políticas públicas y estrategias de operación que contribuyan a mejorar la prestación de servicios públicos municipales, en coordinación con las diversas áreas que integran la coordinación;
+
+II. Proponer las acciones, obras y servicios públicos requeridos por la comunidad;
+
+III. En vinculación con la Gerencia Municipal, implementar y ejecutar campañas encaminadas a sanear espacios públicos abiertos, fuentes, glorietas, monumentos y áreas públicas;
+
+IV. Colaborar en el enlace, coordinación, aplicación y supervisión de los proyectos que realice y en los que participe la Coordinación vinculados al tema de la corresponsabilidad social; y
+
+V. Coadyuvar con las dependencias que forman parte de la administración pública municipal en la prestación de los servicios públicos y ampliar su capacidad de respuesta.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Séptima. Coordinación General de Gestión Integral de la Ciudad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 235 Sexies.
+
+La Coordinación General de Combate a la Desigualdad, tiene por objeto fomentar el desarrollo y la ejecución de programas sociales que impulsen el progreso social responsable e incluyente, para garantizar un crecimiento equitativo y sustentable para la población municipal. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
+
+Para el despacho de los asuntos de su competencia, cuenta con las áreas de Programas Sociales Municipales, Juventudes, de Inclusión y Atención a Personas con Discapacidad, del Programa Guadalajara Presente, y de Enlace de Programas.
+
+Se encuentra sectorizado a la Coordinación el Organismo Público Descentralizado denominado Instituto Municipal de las Mujeres de Guadalajara.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección I
+
+Dirección de Programas Sociales Municipales
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 235 Septies.
+
+Son atribuciones de la Dirección de Programas Sociales Municipales:
+
+I. Implementar y formular los lineamientos generales para el diseño de los programas sociales del Municipio;
+
+II. Proponer las políticas, criterios y lineamientos generales para el cumplimiento de los objetivos de los programas sociales municipales y acciones del Municipio;
+
+III. Diseñar mecanismos de incorporación y participación social que fomenten la consolidación del tejido social;
+
+IV. Implementar programas sociales que brinden atención a estancias infantiles y comedores comunitarios, así como aquellos que contribuyan a combatir la discriminación, marginación, falta de oportunidades para la juventud, mujeres y personas adultas mayores que habitan en el Municipio;
+
+V. Implementar programas sociales municipales que contribuyan a mejorar las condiciones de vida de quienes tienen o atienden personas con alguna discapacidad, siempre y cuando dicha atención y cuidado provoca rezago socioeconómico y no permita al cuidador tener un empleo o realizar actividad productiva;
+
+VI. Establecer los lineamientos para la elaboración y actualización de los padrones de personas beneficiarias de los programas sociales, así como para la recolección de información socioeconómica, desagregada por sexo, con identificación de hogares, información social, regional, estadística y geo referenciada;
+
+VII. Proponer a su superior jerárquico, normas, guías y lineamientos en materia de formas de asociación orientadas al desarrollo comunitario en áreas marginadas;
+
+VIII. Impulsar acciones de capacitación, dirigidas al fortalecimiento en materia de desarrollo comunitario;
+
+IX. Promover un sistema eficaz de captación de necesidades de la población y efectuar las acciones necesarias para brindar mayores beneficios a la comunidad;
+
+X. Administrar los centros de bienestar comunitario, estancias infantiles y demás bienes inmuebles asignados para el cumplimiento de sus atribuciones, de acuerdo a sus reglas de operación y reglamentos internos;
+
+XI. Capacitar y asesorar a las operadoras y los operadores de los programas de participación social, cuando así lo requiera;
+
+XII. Establecer mecanismos y acciones para desarrollar modelos de cohesión e inclusión social comunitaria, orientados a fortalecer las estrategias de desarrollo social;
+
+XIII. Establecer estrategias para diagnosticar, revisar y determinar la política de cohesión e inclusión social que articule esfuerzos en la ejecución de los programas sociales del Municipio y que contribuyan a la disminución de la brecha de desigualdad entre mujeres y hombres;
+
+XIV. Diseñar sistemas de identificación y articulación de los programas de desarrollo social a cargo de la Administración pública;
+
+XV. Dar a conocer las disposiciones normativas y presupuestarias a las operadoras y los operadores de los programas a su cargo;
+
+XVI. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos para agilizar los trámites administrativos de la Dirección;
+
+XVII. Establecer los criterios para la distribución de los recursos de desarrollo social y evaluar el ejercicio de los recursos;
+
+XVIII. Proponer a la o el superior jerárquico, la política para coordinar la contratación, operación y supervisión del monitoreo y evaluación de los programas sociales;
+
+XIX. Promover la participación de las y los beneficiarios de los programas sociales, en la formulación de propuestas de planeación y ejecución de los mismos;
+
+XX. Impulsar entre la población en condiciones de vulnerabilidad, mecanismos colectivos que fortalezcan la participación social en el diseño, ejecución y evaluación de las políticas públicas en materia de desarrollo social y programas sociales a cargo de la Dirección; y
+
+XXI. Establecer, vigilar y coordinar la distribución de los recursos federales, estatales y municipales entre las áreas de la Dirección involucradas en la ejecución de estos recursos dirigidos al desarrollo social, así como evaluar el ejercicio de los mismos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección II
+
+Dirección de Juventudes
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 235 Octies.
+
+Son atribuciones de la Dirección de Juventudes:
+
+I. Promover los valores universales en el seno de la sociedad, dentro del marco de respeto de las diferencias culturales, raciales, socioeconómicas, religiosas, políticas o de cualquier índole para así colaborar en el desarrollo integral de los jóvenes del municipio de Guadalajara;
+
+II. Analizar y proponer las políticas públicas en materia de atención a la juventud que permitan incorporar plenamente a los jóvenes al desarrollo del municipio de Guadalajara;
+
+III. Coordinarse y proponer acuerdos, contratos y convenios con el Instituto Mexicano de la Juventud, así como demás organismos gubernamentales federales, estatales, internacionales y municipales, para la planeación y ejecución de los programas que involucren a los jóvenes del municipio;
+
+IV. Proponer a la Presidenta Municipal o al Presidente Municipal o a las regidoras o regidores iniciativas de ordenamiento municipal, con el fin de lograr soluciones a los problemas de la juventud;
+
+V. Proponer la suscripción de contratos y convenios o cualquier otro documento con la iniciativa privada, para la planeación y ejecución de los programas que involucren a los jóvenes del municipio;
+
+VI. Programar, dirigir, conducir y coordinar, las estrategias, programas, proyectos y acciones para el desarrollo integral y para mejorar el nivel de vida de la juventud de Guadalajara; y
+
+VII. Promover coordinadamente con las dependencias y entidades de la administración pública municipal, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y derechos, evitando duplicidades en la aplicación de recursos y en el desarrollo de los distintos programas y planes del gobierno municipal de Guadalajara.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección III
+
+Dirección de Inclusión y Atención a Personas con Discapacidad
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 235 Novies. La Dirección de Inclusión y Atención a Personas con Discapacidad tiene las siguientes atribuciones:
+
+I. Promover el respeto a los derechos humanos de las personas que se encuentran en el Municipio, en coordinación con la Dirección de Derechos Humanos y demás instancias que conforman la administración pública municipal;
+
+II. Coordinarse con las dependencias municipales correspondientes para incluir el enfoque de derechos humanos en la planeación municipal del desarrollo y el presupuesto de egresos municipal;
+
+III. Diseñar, promover y ejecutar acciones y políticas con diferentes sectores públicos y sociales, con el propósito de prevenir, atender, sancionar y erradicar la discriminación;
+
+IV. Proponer los instrumentos y diagnósticos estadísticos, normativos y reglamentarios en materia de inclusión;
+
+V. Capacitar, coordinar y acompañar las redes de institucionalización de la inclusión en las instituciones municipales;
+
+VI. Apoyar en la conformación y funcionamiento de consejos, institutos, comités u órganos en materia de inclusión;
+
+VII. Vincular, apoyar y gestionar la participación ciudadana y de los organismos de la sociedad civil en la elaboración y evaluación de políticas de inclusión;
+
+VIII. Fomentar la capacitación, asesoría y asistencia técnica a las entidades municipales, sobre inclusión; y
+
+IX. Coadyuvar e impulsar la armonización de los diversos programas en materia de inclusión.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección IV
+
+Dirección del Programa Guadalajara Presente
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 235 Decies.
+
+La Dirección del Programa Guadalajara Presente cuenta con las siguientes atribuciones:
+
+I. Implementar programas municipales que contribuyan a combatir la deserción escolar, el rezago educativo, así como la falta de oportunidades para los niños, niñas y adolescentes;
+
+II. Proponer las políticas, criterios y lineamientos generales para el cumplimiento de los objetivos del programa a su cargo y acciones del Municipio;
+
+III. Establecer los lineamientos para la recolección de información socioeconómica, desagregada por sexo, con identificación de hogares, información social, regional, estadística y geo referenciada;
+
+IV. Capacitar y asesorar a las operadoras y los operadores del programa, cuando así lo requieran;
+
+V. Dar a conocer las disposiciones normativas y presupuestarias a las operadoras y los operadores del programa a su cargo;
+
+VI. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos para agilizar los trámites administrativos de la Dirección;
+
+VII. Establecer los criterios para la distribución de los recursos de desarrollo social y evaluar el ejercicio de los recursos; y
+
+VIII. Proponer a la o el superior jerárquico, la política para coordinar la contratación, operación y supervisión del monitoreo y evaluación del programa a su cargo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Subsección V
+
+Unidad de Enlace de Programas
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Artículo 235 Undecies. La Unidad de Enlace de Programas cuenta con las siguientes atribuciones:
+
+I. Establecer y fomentar vínculos sociales e institucionales en el ámbito de su competencia;
+
+II. Diseñar e implementar los mecanismos para la participación de las y los beneficiarios de los programas sociales, en actividades que abonen al desarrollo comunitario y de construcción del tejido social;
+
+III. Realizar acciones coordinadas con entidades internacionales, la Federación y el Estado, encaminadas a registrar, dar seguimiento y acercar a las ciudadanas y los ciudadanos los programas sociales; y
+
+IV. Analizar los programas sociales de los tres órdenes de gobierno con la finalidad de promover la formulación de procesos de participación social de la población más desprotegida, en los programas a cargo del Municipio y establecer mecanismos que permitan homologar los métodos, elementos y características de participación social.
+
+> <small>(REFORMADA EN SU NÚMERACIÓN [N. DE E. ANTES SECCIÓN SEXTA], G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Octava. Coordinación General de Servicios Públicos Municipales
+
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 236.
 
-La Coordinación General de Gestión Integral de la Ciudad es la instancia integradora de las áreas destinadas al ordenamiento, la gestión del territorio del Municipio, y la movilidad con criterios de sustentabilidad; responsable de disponer de los elementos de política ambiental y cambio climático como herramientas y referentes para el desarrollo y la transformación del mismo en entornos apropiados para vivir con calidad; encargada de la distribución de la inversión pública en todas las demarcaciones de este, dando prioridad a las que permitan reducir brechas sociales, eliminar los privilegios y fomentar la integración de las personas desvinculadas del desarrollo social y económico; e integrar la infraestructura y los servicios de la Ciudad. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
+La Coordinación General de Gestión Integral de la Ciudad es la instancia integradora de las áreas destinadas al ordenamiento, la gestión del territorio del Municipio, construcción y la movilidad con criterios de sustentabilidad; responsable de disponer de los elementos de política ambiental y cambio climático como herramientas y referentes para el desarrollo y la transformación del mismo en entornos apropiados para vivir con calidad; encargada de la distribución de la inversión pública en todas las demarcaciones de este, dando prioridad a las que permitan reducir brechas sociales, eliminar los privilegios y fomentar la integración de las personas desvinculadas del desarrollo social y económico; e integrar la infraestructura y los servicios de la Ciudad. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
 Además, lleva a cabo el trámite administrativo del mecanismo de Transferencia de Derechos de Desarrollo Urbano, a solicitud del Comité Interinstitucional de la Transferencia de Derechos de Desarrollo Urbano.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Proyectos del Espacio Público, de Ordenamiento del Territorio, de Obras Públicas, de Movilidad y Transporte, Medio Ambiente y la de Resiliencia.
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Ordenamiento del Territorio, de Obras Públicas, de Movilidad y Transporte, Medio Ambiente, y de Licencias de Construcción.
+
+> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 Asimismo, para la consecución de sus fines debe coordinarse con las demás instancias de gobierno y de la sociedad.
 
-Los organismos públicos descentralizados municipales denominados, Zoológico de Guadalajara e Instituto Municipal de la Vivienda de Guadalajara se encuentran sectorizados a la Coordinación General de Gestión Integral de la Ciudad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección I
 
@@ -5023,7 +6021,7 @@ XXXVI. Supervisar en coordinación con las dependencias competentes, que las per
 
 XXXVII. Determinar los protocolos de manejo del arbolado urbano en el Municipio;
 
-XXXVIII. Elaborar e implementar en coordinación con las dependencias competentes, los programas de poda, trasplante y derribo de árboles, así como su restitución;
+XXXVIII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XXXIX. Preparar e implementar en coordinación con las dependencias competentes, los programas de forestación, reforestación y sustitución de especies en las áreas verdes;
 
@@ -5031,13 +6029,15 @@ XL. Actualizar en coordinación con las dependencias competentes, el inventario 
 
 XLI. Difundir entre la población, información respecto de las medidas para el cuidado de áreas verdes;
 
-XLII. Garantizar que la producción de plantas de ornato y árboles en los viveros municipales considere preferentemente la propagación de plantas nativas de la región con potencial ornamental y que las que sean introducidas estén plenamente adaptadas a la misma, además de que no provoquen la diseminación de plagas y enfermedades;
+XLII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XLIII. Llevar a cabo la producción y desarrollo de plantas ornamentales y árboles requeridos para el abasto del Municipio, impulsando el establecimiento de micro viveros en todos los barrios y colonias, emprendiendo la producción masiva en escala metropolitana;
 
 XLIV. Establecer mecanismos de sanidad vegetal, para controlar y evitar la diseminación de plagas, enfermedades y plantas parásitas, que pongan en riesgo las áreas verdes y los recursos forestales del Municipio;
 
-XLV. Analizar y determinar la factibilidad de las solicitudes de poda, trasplante o derribo de árboles, emitiendo el dictamen técnico respectivo; encargándose de su realización cuando así se determine o supervisando en su caso la ejecución de aquellas que se autoricen a terceros;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLV. Analizar y determinar la factibilidad de las solicitudes de poda, trasplante o derribo de árboles, emitiendo el dictamen técnico respectivo;
 
 XLVI. Crear, fomentar, rehabilitar y conservar las áreas verdes, en coordinación con las dependencias competentes;
 
@@ -5163,7 +6163,7 @@ XLVIII. Efectuar los estudios, diseño y dictaminación de nuevos modelos de ges
 
 XLIX. Analizar y expedir los dictámenes técnicos referentes a las solicitudes de licencias o permisos de anuncios y su refrendo, en el ámbito de sus atribuciones conforme a los términos de la normatividad aplicable.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Movilidad No Motorizada y Accesibilidad Universal, Gestión del Estacionamiento, y Gestión del Transporte y Tránsito.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección III
 
@@ -5191,7 +6191,7 @@ VIII. Coadyuvar con las dependencias competentes en el desarrollo de las accione
 
 IX. Participar en la supervisión técnica de los proyectos, en el cumplimiento de las normas aplicables en materia de edificación, urbanización e infraestructura en el Municipio y en su caso la validación técnica respectiva en coordinación con las dependencias competentes;
 
-X. Revisar los proyectos de las obras que se pretendan realizar por particulares y emitir lineamientos técnicos y cualitativos que habrán de regular las construcciones que realicen;
+IX (SIC). (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XI. Realizar las gestiones y promover la suscripción de convenios para la liberación de los permisos y tenencia de la tierra;
 
@@ -5199,13 +6199,15 @@ XII. Efectuar el análisis de la calidad de los materiales de construcción, que
 
 XIII. Realizar los trámites para la autorización de los proyectos de obra pública, ante las instancias competentes;
 
-XIV. Atender a la población para el trámite de expedición de alineamientos, números oficiales, licencias, permisos y autorizaciones para la construcción, ampliación, demolición, movimiento de tierras y cualquier otro similar a realizarse en (sic) dentro de la jurisdicción territorial, previa solicitud de estos;
+XIV. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-XV. Emitir los certificados de habitabilidad a aquellas construcciones que hayan sido ejecutadas de acuerdo con el proyecto autorizado y que por este concepto no tengan impedimento para ser utilizadas con los fines solicitados;
+XV. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-XVI. Controlar y mantener actualizado el registro de las directoras y los directores responsables y padrón de contratistas en materia de construcción debidamente autorizados que ejercen en el Municipio;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-XVII. Supervisar la ejecución de las urbanizaciones, emitir dictámenes técnicos para la autorización y recepción de fraccionamientos;
+XVI. Controlar y mantener actualizado el padrón de contratistas;
+
+XVII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XVIII. Verificar el control de calidad y aseguramiento de las obras;
 
@@ -5215,11 +6217,11 @@ XX. Coordinarse con los tres órdenes de gobierno en la programación y contrata
 
 XXI. Supervisar la ejecución de las obras en la vía pública y su recepción;
 
-XXII. Llevar un control del alineamiento y número oficial de los predios, asignar los que corresponden; y efectuar recorridos periódicos en el Municipio para verificar el orden numérico y hacer las correcciones necesarias, actuando coordinadamente con los demás municipios del Área Metropolitana de Guadalajara;
+XXII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-XXIII. Coadyuvar con las dependencias competentes, en los programas de regularización de fraccionamientos y el ordenamiento del territorio;
+XXIII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-XXIV. Proponer las soluciones técnicas en el ramo de la construcción para la atención de las demandas de la población;
+XXIV. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XXV. Dar apoyo técnico a las dependencias competentes en la atención de las contingencias que se presenten y emitir las recomendaciones correspondientes a la población, particularmente para la atención de las que en materia de inundaciones, explosiones y sismos se pudiesen presentar;
 
@@ -5227,7 +6229,7 @@ XXVI. Llevar a cabo las obras de pavimentación en vías públicas, en coordinac
 
 XXVII. Coadyuvar técnicamente con las dependencias competentes, en las soluciones para el abastecimiento, potabilización, distribución y saneamiento del agua en el Municipio; así como, en los proyectos de manejo pluvial, logrando el aprovechamiento y absorción de las aguas pluviales para el enriquecimiento de los mantos freáticos;
 
-XXVIII. Participar en coordinación con las dependencias competentes, en la creación, gestión y actualización de un archivo cartográfico y base de datos de información geográfica;
+XXVIII. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 XXIX. Implementar y operar una red de comunicación y de seguimiento con entidades susceptibles de financiar proyectos municipales a cualquier nivel, que impliquen la construcción y operación de infraestructura urbana estratégica;
 
@@ -5253,11 +6255,63 @@ XXXIX. Preparar los manuales de organización y de procedimientos de la direcci�
 
 XL. Analizar y expedir los dictámenes técnicos referentes a las solicitudes de licencias o permisos de anuncios y su refrendo, en el ámbito de sus atribuciones conforme a los términos de la normatividad aplicable;
 
-XLI. Resolver, de conformidad con la normatividad aplicable y el dictamen correspondiente, los trámites administrativos relativos a las solicitudes de subdivisiones, re lotificaciones, régimen de condominio y regularización de predios enclavados en el Municipio; y
+XLI. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-XLII. Diseñar, planear y ejecutar acciones y programas que contribuyan a integrar una estrategia capaz de generar condiciones de seguridad, resistencia, adaptación y recuperación del Municipio ante los riesgos propios de una ciudad.
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración de Proyectos y de Gestión de Recursos, de Construcción y Supervisión de Obra, de Licencias y Permisos de Construcción, de Presupuesto y Contratación de Obra Pública, así como la de Resiliencia.
+XLII. Diseñar, planear y ejecutar acciones y programas que contribuyan a integrar una estrategia capaz de generar condiciones de seguridad, resistencia, adaptación y recuperación del Municipio ante los riesgos propios de una ciudad;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLIII. Diseñar, gestionar y transformar la ciudad en un modelo multipolar de desarrollo, con comunidades vitales, compactas, integradas, vinculadas, seguras y funcionales;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLIV. Crear y diseñar los espacios públicos municipales en coordinación con las demás dependencias competentes;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLV. Elaborar las políticas generales relativas a los programas de intervención de la ciudad en materia de espacio público, en coordinación con las dependencias competentes;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLVI. Crear y diseñar los proyectos arquitectónicos para el espacio público y los que emprenda o determine el gobierno del Municipio;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLVII. Emitir los lineamientos generales, recomendaciones y opiniones para el uso del espacio público, de conformidad a la normatividad aplicable;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLVIII. Opinar en materia de espacio público, a efecto de que la Dirección de Ordenamiento del Territorio, incorpore dicha perspectiva en la formulación de los programas y demás instrumentos de planeación del desarrollo urbano, así como en sus modificaciones;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XLIX. Planear, diseñar y supervisar las obras públicas que correspondan al desarrollo y equipamiento urbano del espacio público, que conforme al Programa de Gobierno Municipal y demás normatividad aplicable están a su cargo, en coordinación con las dependencias competentes;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+L. Coadyuvar en la elaboración de las políticas para la creación, uso y aprovechamiento de los centros y espacios culturales, que forman parte del espacio público, en coordinación con las dependencias competentes;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+LI. Establecer lineamientos técnicos en materia de mobiliario urbano;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+LII. Participar en la formulación de proyectos y planeación de obras de movilidad y transporte, en materia de espacio público, en coordinación con la Dirección de Movilidad y Transporte;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+LIII. Coordinarse con la Dirección de Movilidad y Transporte para la integración, aplicación y supervisión de criterios de accesibilidad universal para el espacio público, así como, para todas aquellas obras y proyectos de intervención urbana;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+LIV. Actualizar, desarrollar, definir y aplicar los instrumentos para la gestión y evaluación de políticas de resiliencia de acuerdo a las innovaciones y tendencias de la materia, en apego a la normatividad aplicable; y
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+LV. Difundir entre la población, información respecto de las medidas en materia de resiliencia.
 
 Subsección IV
 
@@ -5311,7 +6365,9 @@ XVIII. Integrar y resguardar los expedientes de los procedimientos de regulariza
 
 XIX. Expedir los Dictámenes de Transferencia de Derechos de Desarrollo Urbano, tanto para predios generadores, como para predios receptores, con la certificación de transferencia de derechos de desarrollo urbano, las normas de control de la urbanización y la edificación del predio receptor, asentando el potencial máximo a que puede acceder aplicando la transferencia de derechos.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración de Ordenamiento Territorial, y la de Planeación del Desarrollo Urbano; así como con el área técnica de apoyo a la Comisión Municipal de Regularización de Predios Urbanos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección V
 
@@ -5319,45 +6375,9 @@ La Dirección de Proyectos del Espacio Público
 
 ###### Artículo 241.
 
-La Dirección de Proyectos del Espacio Público, tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Diseñar, gestionar y transformar la ciudad en un modelo multipolar de desarrollo, con comunidades vitales, compactas, integradas, vinculadas, seguras y funcionales;
-
-II. Crear y diseñar los espacios públicos municipales en coordinación con las demás dependencias competentes;
-
-III. Elaborar las políticas generales relativas a los programas de intervención de la ciudad en materia de espacio público, en coordinación con las dependencias competentes;
-
-IV. Crear y diseñar los proyectos arquitectónicos para el espacio público y los que emprenda o determine el gobierno del Municipio;
-
-V. Emitir los lineamientos generales, recomendaciones y opiniones en el desarrollo de los proyectos urbanos de ingeniería y en general en materia de espacio público, de conformidad a la normatividad aplicable;
-
-VI. Emitir los lineamientos generales, recomendaciones y opiniones para el uso del espacio público, de conformidad a la normatividad aplicable;
-
-VII. Proponer a la o el titular de la Dirección de Ordenamiento del Territorio las políticas en materia de espacio público y, en su caso, colaborar con las dependencias competentes para la ejecución y evaluación de las mismas;
-
-VIII. Opinar en materia de espacio público, a efecto de que la Dirección de Ordenamiento del Territorio, incorpore dicha perspectiva en la formulación de los programas y demás instrumentos de planeación del desarrollo urbano, así como en sus modificaciones;
-
-IX. Llevar a cabo la investigación de campo de los proyectos arquitectónicos y constructivos, así como de uso y destino de los bienes inmuebles municipales para la elaboración de propuestas y proyectos del equipamiento y mobiliario urbano;
-
-X. Planear, diseñar y supervisar las obras públicas que correspondan al desarrollo y equipamiento urbano del espacio público, que conforme al Programa de Gobierno Municipal y demás normatividad aplicable están a su cargo, en coordinación con las dependencias competentes;
-
-XI. Promover en coordinación con las autoridades competentes la conservación de los bienes históricos, arqueológicos y artísticos ubicados en el espacio público del Municipio;
-
-XII. Coadyuvar en la elaboración de las políticas para la creación, uso y aprovechamiento de los centros y espacios culturales, que forman parte del espacio público, en coordinación con las dependencias competentes;
-
-XIII. Establecer lineamientos técnicos en materia de mobiliario urbano;
-
-XIV. Participar en la formulación de proyectos y planeación de obras de movilidad y transporte, en materia de espacio público, en coordinación con la Dirección de Movilidad y Transporte;
-
-XV. Coadyuvar en la proyección, promoción y apoyo al desarrollo de la infraestructura turística de la ciudad y estimular la participación de los sectores social y privado;
-
-XVI. Integrar la red de espacios públicos;
-
-XVII. Coordinarse con la Dirección de Movilidad y Transporte para la integración, aplicación y supervisión de criterios de accesibilidad universal para el espacio público, así como, para todas aquellas obras y proyectos de intervención urbana; y
-
-XVIII. Analizar y expedir los dictámenes técnicos referentes a las solicitudes de licencias o permisos de anuncios y su refrendo, en el ámbito de sus atribuciones conforme a los términos de la normatividad aplicable.
-
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración de Proyectos, Diseño Creativo, y la de Diseño y Gestión Social del Espacio Público.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección VI
 
@@ -5365,45 +6385,67 @@ Dirección de Resiliencia
 
 ###### Artículo 242.
 
-La Dirección de Resiliencia tiene las siguientes atribuciones:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Diseñar, planear y ejecutar acciones y programas que contribuyan a integrar una estrategia capaz de generar condiciones de seguridad, resistencia, adaptación y recuperación del Municipio ante los riesgos propios de una ciudad;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-II. Emitir los protocolos de medidas de seguridad y atención a emergencias para edificaciones, remodelaciones y demoliciones;
+Subsección VII
 
-III. Emitir los protocolos de medidas de seguridad a los que deban ajustarse para su funcionamiento los giros de actividades comerciales, industriales y de prestación de servicios que se instalen o estén instaladas en el Municipio;
+Dirección de Licencias de Construcción
 
-IV. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y demoliciones previamente avalados por un Director o Directora Responsable de Obra, con registro municipal vigente, y que cumplan con los estudios y requerimientos técnicos aplicables en materia de seguridad estructural;
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-V. Actualizar, difundir y administrar la información del Atlas de Riegos Municipal;
+###### Artículo 242 Bis.
 
-VI. Actualizar, desarrollar, definir y aplicar los instrumentos para la gestión y evaluación de políticas de resiliencia de acuerdo a las innovaciones y tendencias de la materia, en apego a la normatividad aplicable;
+La Dirección de Licencias de Construcción tiene las siguientes atribuciones:
 
-VII. Efectuar la investigación y recopilación de datos de competencia municipal, en materia de resiliencia;
+I. Dar cumplimiento a la normatividad en materia de edificación, construcción en general y ordenamiento territorial y urbano;
 
-VIII. Notificar a la Dirección de Protección Civil de los protocolos y vistos buenos por ella emitidos, para que se realicen las visitas de verificación técnicas y de vigilancia durante todas las etapas de los proyectos de obras o actividades de su competencia;
+II. Revisar los proyectos de las obras que se pretendan realizar por particulares y emitir lineamientos técnicos y cualitativos que habrán de regular las construcciones que realicen;
 
-IX. Dar seguimiento al cumplimiento de los protocolos y vistos buenos por ella emitidos, a través de las visitas de verificación técnicas y de vigilancia durante todas las etapas de los proyectos de obras o actividades de su competencia;
+III. Atender a la población para el trámite de expedición de alineamientos, números oficiales, licencias, permisos y autorizaciones para la construcción, ampliación, demolición, movimiento de tierras y cualquier otro similar a realizarse en (sic) dentro de la jurisdicción territorial, previa solicitud de estos;
 
-X. Formular, publicar y poner a disposición del público las guías para la elaboración de los protocolos de medidas de seguridad y atención a emergencias;
+IV. Emitir los certificados de habitabilidad a aquellas construcciones que hayan sido ejecutadas de acuerdo con el proyecto autorizado y que por este concepto no tengan impedimento para ser utilizadas con los fines solicitados;
 
-XI. Emitir las recomendaciones a que haya lugar y en su caso dar parte a las instancias competentes;
+V. Controlar y mantener actualizado el registro de las directoras y los directores responsables de obra o proyecto, y peritos corresponsables debidamente autorizados que ejercen en el Municipio, así como imponer las sanciones que correspondan;
 
-XII. Promover la suscripción de convenios con la sociedad o el sector público en la materia de su competencia;
+VI. Supervisar la ejecución de las urbanizaciones, emitir dictámenes técnicos para la autorización y recepción de fraccionamientos;
 
-XIII. Establecer y mantener actualizado el registro de las o los directores responsables de obra o proyecto, y peritos corresponsables, así como imponer las sanciones que correspondan;
+VII. Llevar un control del alineamiento y número oficial de los predios, asignar los que corresponden; y efectuar recorridos periódicos en el Municipio para verificar el orden numérico y hacer las correcciones necesarias, actuando coordinadamente con los demás municipios del Área Metropolitana de Guadalajara;
 
-XIV. Solicitar la opinión técnica a otras dependencias, organizaciones sociales y empresariales expertas en la materia, que sirvan de apoyo en la generación de políticas en materia de resiliencia; y
+VIII. Coadyuvar con las dependencias competentes, en los programas de regularización de fraccionamientos y el ordenamiento del territorio;
 
-XV. Difundir entre la población, información respecto de las medidas en materia de resiliencia.
+IX. Proponer las soluciones técnicas en el ramo de la construcción para la atención de las demandas de la población;
 
-Para la atención de los asuntos de su competencia, la Dirección de Resiliencia cuenta con las áreas de Dictaminación, de Evaluación y Seguimiento de Riesgos, y de Planeación.
+X. Participar en coordinación con las dependencias competentes, en la creación, gestión y actualización de un archivo cartográfico y base de datos de información geográfica;
+
+XI. Planear, coordinar y evaluar las actividades de las áreas y personal a su cargo, de conformidad con la normatividad aplicable;
+
+XII. Proponer a la coordinación general, la designación, promoción o remoción del personal a su cargo;
+
+XIII. Atender en audiencia a la población, en los asuntos de su competencia;
+
+XIV. Proponer medidas tendientes a optimizar el funcionamiento de la dirección;
+
+XV. Participar en la integración del informe anual de trabajo de la coordinación general;
+
+XVI. Preparar los manuales de organización y de procedimientos de la dirección y sus áreas en coordinación con las dependencias competentes, enviarlos para su registro y aplicarlos;
+
+XVII. Resolver, de conformidad con la normatividad aplicable y el dictamen correspondiente, los trámites administrativos relativos a las solicitudes de subdivisiones, re lotificaciones, régimen de condominio y regularización de predios enclavados en el Municipio;
+
+XVIII. Emitir los protocolos de medidas de seguridad y atención a emergencias para edificaciones, remodelaciones y demoliciones; y
+
+XIX. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y demoliciones previamente avalados por un Director o Directora Responsable de Obra, con registro municipal vigente, y que cumplan con los estudios y requerimientos técnicos aplicables en materia de seguridad estructural.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN SÉPTIMA], G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Primera. Estructura
 
 ###### Artículo 243.
 
-La Coordinación General de Servicios Públicos Municipales, tiene por objeto promover el desarrollo de la prestación de los servicios públicos del Municipio, a través de la coordinación, supervisión y auxilio en la ejecución de las políticas diseñadas por las Direcciones y Unidades dependientes de ella. Mediante las atribuciones específicas conferidas a las dependencias a su cargo. De la misma forma, coadyuva con la Gerencia Municipal en la planeación y desarrollo de la agenda institucional de administración y Gobierno Municipal.
+La Coordinación General de Servicios Públicos Municipales, tiene por objeto promover el desarrollo de la prestación de los servicios públicos del Municipio, a través de la coordinación, supervisión y auxilio en la ejecución de las políticas diseñadas por las Direcciones y Unidades dependientes de ella. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-Para el despacho de los asuntos de su competencia, la Coordinación cuenta con las Direcciones de Alumbrado Público, Aseo Público, Cementerios, Corresponsabilidad Social, Mantenimiento Urbano, Mercados, Parques y Jardines, Pavimentos, Proyectos y Concesiones, Rastro Municipal, y la de Tianguis y Comercio en Espacios Abiertos.
+Para el despacho de los asuntos de su competencia, la Coordinación cuenta con las Direcciones de Alumbrado Público, Aseo Público, Cementerios, Mantenimiento Urbano, Parques y Jardines, Pavimentos, Proyectos y Concesiones, Rastro Municipal y, de Control y Calidad.
 
 Subsección I
 
@@ -5431,7 +6473,7 @@ VIII. Planear, programar y ejecutar y proyectos para la gestión integral del se
 
 IX. Vincular el diagnóstico del estado que guardan las calles de la ciudad, para la implementación del programa de mantenimiento, reparación, sustitución de las luminarias, en un modelo de funcionalidad, imagen urbana, gestión ambiental y riqueza cultural de la ciudad, garantizando la calidad del servicio.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, Operativa y de Supervisión, y Técnica y de Control.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección II
 
@@ -5463,7 +6505,7 @@ X. Regular los mecanismos mediante los cuales se otorgue a particulares el servi
 
 XI. Diseñar e implementar un plan para garantizar los operativos de limpieza en días conmemorativos y demás eventos de concentración masiva en la vía pública.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, de Aseo Contratado, de Aseo Urbano, y de Supervisión a Concesiones.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección III
 
@@ -5509,7 +6551,9 @@ XII. En coordinación con el Registro Civil, cumplir las disposiciones normativa
 
 XIII. Establecer un programa operativo para el desarrollo de las festividades que se celebran en los cementerios, en coordinación con las dependencias competentes.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, de Registro y Control, y Operativa y de Vigilancia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección IV
 
@@ -5517,19 +6561,7 @@ Dirección de Corresponsabilidad Social
 
 ###### Artículo 247.
 
-Son atribuciones de la Dirección de Corresponsabilidad Social:
-
-I. Implementar políticas públicas y estrategias de operación que contribuyan a mejorar la prestación de servicios públicos municipales, en coordinación con las diversas áreas que integran la coordinación;
-
-II. Proponer las acciones, obras y servicios públicos requeridos por la comunidad;
-
-III. En vinculación con la Gerencia Municipal, implementar y ejecutar campañas encaminadas a sanear espacios públicos abiertos, fuentes, glorietas, monumentos y áreas públicas;
-
-IV. Colaborar en el enlace, coordinación, aplicación y supervisión de los proyectos que realice y en los que participe la Coordinación vinculados al tema de la corresponsabilidad social; y
-
-V. Coadyuvar con las dependencias que forman parte de la administración pública municipal en la prestación de los servicios públicos y ampliar su capacidad de respuesta.
-
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa y Operativa.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 Subsección V
 
@@ -5557,7 +6589,9 @@ VIII. Recolectar animales muertos depositados en lotes baldíos o en vía públi
 
 IX. Elaborar y ejecutar reparaciones menores en las banquetas conforme al modelo de políticas públicas de funcionalidad de imagen urbana, de gestión ambiental y de riqueza cultural de la ciudad.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, de Atención Ciudadana, del Centro Histórico, de Plazas Públicas y Fuentes, y de Saneamiento y Mobiliario Urbano.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección VI
 
@@ -5565,33 +6599,75 @@ Dirección de Mercados
 
 ###### Artículo 249.
 
-Son atribuciones de la Dirección de Mercados:
-
-I. Definir, generar y evaluar los Programas de Crecimiento y Promoción Económica de los mercados municipales;
-
-II. Vigilar el cumplimiento de las obligaciones de las administradoras y los administradores de los mercados municipales y en su caso la integración de los comités;
-
-III. Elaborar y gestionar la implementación del Programa Anual de Rescate y Adecuación de los Mercados Municipales, así como su mantenimiento, acorde al Programa de Gobierno Municipal, en coordinación con las dependencias competentes;
-
-IV. Expedir el documento de identificación mediante el cual acreditan los derechos las personas que ejerzan actividades de comercio en los mercados del Municipio;
-
-V. Elaborar y actualizar en coordinación con la Tesorería el padrón de las locatarias y los locatarios y el catálogo de giros y servicios de los mercados del Municipio y de las concesiones otorgadas por el Ayuntamiento;
-
-VI. Coordinar sus actividades con la Tesorería, para el procesamiento del registro del Padrón de Contribuyentes; y coordinarse con la Dirección de Inspección y Vigilancia para efecto de que en los mercados se cumplan (sic) con la normatividad aplicable; y
-
-VII. Establecer en coordinación con la dependencia municipal de Protección Civil, los protocolos y las políticas en materia de prevención de siniestros, catástrofes y de contratación de póliza de seguros para estos casos, y los de responsabilidad civil.
-
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, de Mantenimiento, Multi trámites, y de Supervisión.
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
 Subsección VII
 
 Dirección de Parques y Jardines
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 250.
 
-Son atribuciones de la Dirección de Parques y Jardines, analizar, determinar, ejecutar, vigilar y supervisar la poda y derribo de árboles en los camellones, jardines, glorietas y banquetas municipales, previa dictaminación técnica emitida por esta Dirección; así como elaborar y ejecutar el plan de mantenimiento y conservación de las áreas verdes del Municipio, en coordinación con las dependencias competentes.
+Son atribuciones de la Dirección de Parques y Jardines:
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, de Control, Operativa, y Técnica.
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+I. Analizar, determinar, ejecutar, vigilar y supervisar la poda y derribo de árboles en los camellones, jardines, glorietas y banquetas municipales, previo dictamen técnico emitido por esta Dirección;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+II. Elaborar y ejecutar el plan de mantenimiento y conservación de las áreas verdes del Municipio, en coordinación con las dependencias competentes;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+III. Determinar en coordinación con las dependencias competentes los protocolos de manejo del arbolado urbano en el Municipio;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IV. Elaborar e implementar en coordinación con las dependencias competentes, los programas de poda, trasplante y derribo de árboles, así como su restitución;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+V. Planear e implementar en coordinación con las dependencias competentes, los programas de forestación, reforestación y sustitución de especies en las áreas verdes;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VI. Mantener actualizado en coordinación con las dependencias competentes, el inventario de árboles con valor patrimonial;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VII. Llevar a cabo la producción y desarrollo de plantas de ornato y árboles en los viveros municipales (sic) considere preferentemente la propagación de plantas nativas de la región;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+VIII. Establecer mecanismos de sanidad vegetal, para controlar y evitar la diseminación de plagas, enfermedades y plantas parásitas, que pongan en riesgo las áreas verdes y los recursos forestales del Municipio;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IX. Analizar y determinar la factibilidad de las solicitudes de poda, trasplante o derribo de árboles, emitiendo el dictamen técnico respectivo; encargándose de su realización cuando así se determine o supervisando en su caso la ejecución de aquellas que se autoricen a terceros;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+X. Crear, fomentar, rehabilitar y conservar las áreas verdes, en coordinación con las dependencias competentes;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XI. Colaborar con las dependencias competentes en la elaboración y actualización del plan de manejo de las áreas verdes y los recursos forestales;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XII. Realizar la recolección y aprovechamiento de los residuos forestales que se generan a partir de las actividades realizadas por la Dirección;
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XIII. Colaborar con las dependencias competentes en la elaboración y actualización del inventario de áreas verdes y del arbolado municipal; y
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+XIV. Coadyuvar con las dependencias que forman parte de la administración pública municipal en la supervisión y contratación de servicios de mantenimiento de áreas verdes y manejo de arbolado para con eso tener mayor capacidad de respuesta.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección VIII
 
@@ -5601,13 +6677,21 @@ Dirección de Pavimentos
 
 Son atribuciones de la Dirección de Pavimentos:
 
-I. Ejecutar, vigilar y supervisar la renovación de la carpeta de vialidades en el territorio municipal, así como la custodia y el manejo de los insumos;
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-II. Coadyuvar con las dependencias competentes, en la supervisión y contratación de obras de pavimentación a ejecutarse por particulares en espacios públicos; y
+I. Ejecutar, vigilar y supervisar el mantenimiento de vialidades en el territorio municipal, así como la custodia y el manejo de los insumos;
 
-III. Atender las solicitudes de renovación de la carpeta que le solicite la Presidenta o el Presidente Municipal o, las Coordinadoras o los Coordinadores Generales de Servicios Públicos Municipales y de Construcción de Comunidad.
+> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración y Control, Operativa y Técnica.
+II. Coadyuvar con las dependencias que forman parte de la administración pública municipal, en la supervisión y contratación de servicios de mantenimiento de pavimentos para con esto tener una mayor capacidad de respuesta; y
+
+III. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
+
+> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+IV. Elaborar y ejecutar con eficiencia los Programas Anuales de Mantenimiento Preventivo, Correctivo y de Mejora de los pavimentos del municipio.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección IX
 
@@ -5635,11 +6719,13 @@ VIII. Atender y canalizar a la Contraloría Ciudadana, las quejas que presenten 
 
 IX. Revisar, y en su caso, decomisar los animales que presenten alteraciones, así como aquellos que a juicio del personal médico veterinario puedan ser perjudiciales para la salud pública.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, de Control, de Mantenimiento, Operativa y de Vigilancia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 Subsección X
 
-Dirección de Proyectos y Concesiones
+Unidad de Proyectos y Concesiones
 
 ###### Artículo 253.
 
@@ -5665,39 +6751,45 @@ IX. Participar como enlace de la Coordinación General de Servicios Públicos Mu
 
 X. Fungir como enlace de la Coordinación General de Servicios Públicos Municipales, con las diversas dependencias de gobierno tanto del ámbito local como estatal, para la mejora de la prestación de los servicios públicos municipales.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
 Subsección XI
 
 Dirección de Tianguis y Comercio en Espacios Abiertos
 
 ###### Artículo 254.
 
-Son atribuciones de la Dirección de Tianguis y Comercio en Espacios Abiertos:
+(DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
-I. Definir y establecer las estrategias que regulen los tianguis y espacios abiertos acorde al Programa de Gobierno Municipal y la normatividad aplicable;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-II. Asignar a particulares el uso de sitios públicos para ejercer el comercio de manera provisional en los tianguis y espacios abiertos del Municipio, con base en las directrices que le marquen las dependencias competentes de conformidad a la normatividad aplicable;
+Subsección XII
 
-III. Expedir permisos municipales correspondientes a tianguis y comercio en espacios abiertos de conformidad a la normatividad aplicable;
+Dirección de Control y Calidad
 
-IV. Regular y expedir permisos municipales correspondientes a las ferias o eventos masivos que se desarrollen en la vía pública para promociones comerciales o eventos especiales;
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-V. Expedir el documento de identificación mediante el cual acreditan la asignación de los espacios a las personas que ejercen actividades de comercio en los tianguis y comercio en espacios abiertos;
+###### Artículo 254 Bis.
 
-VI. Elaborar y actualizar el padrón de los espacios físicos y el catálogo de los giros comerciales y de prestación de servicios de los tianguis y comercios en espacios abiertos;
+Son atribuciones de la Dirección de Control y Calidad:
 
-VII. Designar al personal responsable de coordinar el funcionamiento de los tianguis y comercio en espacios abiertos;
+I. Recibir solicitudes en materia de servicios públicos de la ciudadanía mediante sus distintos canales de comunicación y derivarlos a las dependencias, de acuerdo a su competencia, para su pronta atención y respuesta;
 
-VIII. Coordinar sus actividades con la Tesorería y con la Dirección de Inspección y Vigilancia, para el procesamiento del registro del Padrón de Contribuyentes;
+II. Atender, monitorear y dar seguimiento a los reportes y/o peticiones recibidos a fin de lograr que los ciudadanos obtengan la debida atención a sus necesidades;
 
-IX. Crear un programa de integración del comercio informal a la economía formal, usando los espacios disponibles en los mercados municipales y la conversión al modelo de comercio compatible con los planes de ordenamiento municipales;
+III. Diseñar acciones que faciliten la gestión y ejecución de los servicios públicos, de manera que se puedan satisfacer las necesidades de la población;
 
-X. Establecer un programa operativo para el desarrollo del comercio en días conmemorativos y demás eventos de concentración masiva en la vía pública; y
+IV. Ordenar análisis estadísticos que permitan medir la capacidad de respuesta de las diferentes áreas de la administración pública municipal con relación a la prestación de los servicios públicos municipales, así como generar los indicadores para evaluar su operación;
 
-XI. Diseñar e implementar en conjunto con otras dependencias del Municipio soluciones en materia de fisonomía de los corredores de comercio de la ciudad.
+V. Coadyuvar con las dependencias que forman parte de la administración pública municipal en la prestación de los servicios públicos y ampliar su capacidad de respuesta;
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas Administrativa, de Atención Ciudadana, de Diseño, Proyectos y Planeación, de Permisos, y de Tianguis.
+VI. Definir, dirigir y supervisar la correcta aplicación de las políticas de calidad de la administración pública municipal;
 
-### Capítulo I. Disposiciones Comunes a las Entidades Paramunicipales
+VII. Desarrollar una cultura de calidad en el servicio, basada en principios éticos y sociales, así como la promoción e implementación de la mejora continua en trámites y servicios, métodos y procesos; y
+
+VIII. Promover al interior de las dependencias de la administración pública municipal los principios de gestión de calidad y optimización de procesos para la disminución de los trámites y tiempos de respuesta de atención al ciudadano, asegurando una estructura organizacional acorde con ello.
+
+### Capítulo IX. Órganos Desconcentrados
 
 ###### Artículo 255.
 
@@ -5715,7 +6807,7 @@ La delegación de facultades técnicas y de gestión que el Ayuntamiento otorgue
 
 ## Título Segundo. Administración Paramunicipal
 
-### Capítulo II. Organismos Públicos Descentralizados
+### Capítulo I. Disposiciones Comunes a las Entidades Paramunicipales
 
 ###### Artículo 257.
 
@@ -5773,7 +6865,9 @@ III. Verificar y en su caso, organizar sus sistemas de contabilidad, control y a
 
 IV. Enviar a las y los integrantes del Consejo Directivo, cuando menos con tres días hábiles de anticipación el orden del día y la documentación de los asuntos a tratar en las sesiones.
 
-### Capítulo III. Empresas de Participación Municipal Mayoritaria
+### Capítulo II. Organismos Públicos Descentralizados
+
+#### Sección Segunda. Denominación, Objeto y Domicilio Legal
 
 ###### Artículo 264.
 
@@ -5799,6 +6893,8 @@ IX. Servidoras Públicas y Servidores Públicos; y
 
 X. Forma de extinción o fusión.
 
+#### Sección Tercera. Órgano de Gobierno
+
 ###### Artículo 265.
 
 Son Organismos Públicos Descentralizados de la Administración Pública Municipal:
@@ -5807,13 +6903,13 @@ I. Consejo Municipal del Deporte;
 
 II. Consejo Social de Cooperación para el Desarrollo Urbano;
 
-III. Instituto Municipal de Atención a la Juventud;
+III. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 IV. Instituto Municipal de las Mujeres;
 
-V. Instituto Municipal de la Vivienda;
+V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-VI. Patronato del Centro Histórico, Barrios y Zonas Tradicionales;
+VI. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 VII. (DEROGADA, G.M. 26 DE JULIO DE 2021)
 
@@ -5831,13 +6927,13 @@ I. El Organismo Público Descentralizado de la Administración Pública Municipa
 
 II. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Consejo Social de Cooperación para el Desarrollo Urbano de Guadalajara, tiene por objeto participar en la ejecución de las acciones urbanísticas previstas en este ordenamiento, en favor del interés colectivo del Municipio de Guadalajara y al cual se le reconoce el carácter de Consejo Municipal de Desarrollo Urbano, como organismo auxiliar en la gestión del desarrollo urbano de conformidad a lo establecido en el Código Urbano para el Estado de Jalisco y demás normatividad aplicable; y promover la participación ciudadana y vecinal en la gestión del desarrollo urbano, mediante la ejecución de obras por colaboración o por concertación, en los términos dispuestos en la normatividad aplicable.
 
-III. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Instituto Municipal de Atención a la Juventud de Guadalajara, tiene por objeto la proyección, instrumentación y ejecución de políticas, programas, y acciones para el desarrollo integral y para mejorar el nivel de vida de la juventud de Guadalajara.
+III. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 IV. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Instituto Municipal de las Mujeres de Guadalajara, tiene por objeto ser la instancia rectora de carácter especializada para consolidar las políticas públicas municipales transversales como planes, programas, proyectos y acciones con enfoque integrado de género, para el logro de la igualdad sustantiva entre mujeres y hombres; así como de la prevención, atención, sanción y erradicación de las violencias contra las mujeres; promoviendo el ejercicio de los derechos humanos de las mujeres, en el marco de la gobernanza; auxiliándose de un Consejo Consultivo Ciudadano que analiza, participa y propone a este Instituto, así como a los Sistemas Municipales para la Igualdad Sustantiva entre Mujeres y Hombres, y para Prevenir, Atender, Sancionar y Erradicar la Violencia Contra las Mujeres sobre políticas públicas transversales y en la planeación y presupuestación municipal respecto a los recursos para la ejecución de programas en materia de derechos humanos de las mujeres.
 
-V. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Instituto Municipal de la Vivienda de Guadalajara, tiene por objeto realizar, promover y ejecutar programas tendientes a que las y los habitantes del Municipio puedan construir, adquirir, remodelar o ampliar sus viviendas.
+V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-VI. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Patronato del Centro Histórico, Barrios y Zonas Tradicionales de Guadalajara, tiene por objeto la conservación, rescate y promoción del Centro Histórico, los barrios y las zonas tradicionales de la ciudad, mediante el desarrollo, planeación, gestión, proyección, instrumentación y ejecución de acciones, planes y programas derivados del Programa Municipal de Desarrollo; así como de las políticas municipales aplicables, además de la obtención de recursos del sector público, privado y social para ser aplicados en sus polígonos de acción.
+VI. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
 VII. (DEROGADA, G.M. 26 DE JULIO DE 2021)
 
@@ -5848,6 +6944,8 @@ IX. El Organismo Público Descentralizado de la Administración Pública Municip
 ###### Artículo 267.
 
 Tienen su domicilio legal en la Ciudad de Guadalajara.
+
+#### Sección Cuarta. Atribuciones
 
 ###### Artículo 268.
 
@@ -5940,6 +7038,8 @@ I. Se hubiese convocado a sesión ordinaria con al menos tres días hábiles de 
 II. Se cuente con la presencia de la Presidenta o el Presidente y de la Secretaria Técnica o Secretario Técnico; y
 
 III. Exista quórum legal para sesionar, es decir que se cuente con la asistencia de por lo menos la mitad más uno de las consejeras y consejeros con derecho a voto.
+
+#### Sección Quinta. Patrimonio
 
 ###### Artículo 278.
 
@@ -6065,6 +7165,8 @@ XXII. Establecer los sistemas de control necesarios y tomar las acciones corresp
 
 XXIII. Proponer al Consejo Directivo al profesionista que satisfaga el perfil requerido para asumir la titularidad del área administrativa del organismo.
 
+#### Sección Sexta. Presupuesto
+
 ###### Artículo 283.
 
 Su patrimonio se constituye con los bienes de su propiedad, derechos, aprovechamientos, productos, recursos económicos y aportaciones que le son transmitidos y los demás que obtenga para la consecución de su objeto y con sujeción a lo dispuesto en la normatividad aplicable. El cual manejan libremente.
@@ -6072,6 +7174,8 @@ Su patrimonio se constituye con los bienes de su propiedad, derechos, aprovecham
 ###### Artículo 284.
 
 Cuando ya no requieran para su operación determinados bienes de propiedad municipal, deben solicitar su desincorporación y baja del inventario de bienes patrimoniales, en los términos de la normatividad aplicable.
+
+#### Sección Séptima. Servidoras y Servidores Públicos
 
 ###### Artículo 285.
 
@@ -6103,6 +7207,8 @@ Por lo que respecta a la percepción de subsidios y trasferencias, los reciben d
 
 Sus programas financieros deben sujetarse a lo dispuesto en este Código y en la demás normatividad aplicable.
 
+#### Sección Octava. Órgano Interno de Control
+
 ###### Artículo 288.
 
 Los organismos cuentan con el personal directivo, administrativo, operativo y técnico necesario para el cumplimiento de sus objetivos, sujetando las relaciones laborales respectivas entre la entidad y sus servidoras y servidores públicos a lo dispuesto en la normatividad aplicable.
@@ -6110,6 +7216,8 @@ Los organismos cuentan con el personal directivo, administrativo, operativo y t�
 ###### Artículo 289.
 
 Los cargos del personal directivo, administrativo, operativo y técnico necesarios para el funcionamiento del organismo son remunerados y por lo tanto, los recursos para el pago de salarios deben preverse en el presupuesto de egresos ordinario del mismo.
+
+#### Sección Novena. Extinción o Fusión
 
 ###### Artículo 290.
 
@@ -6141,7 +7249,7 @@ La entrega formal del patrimonio del organismo al Ayuntamiento, no exime de resp
 
 En cualquier caso, determinada la disolución del organismo, el patrimonio constituido a favor de éste, pasará de manera íntegra a formar parte del patrimonio de propiedad municipal sujeto al régimen de dominio público e integrado bajo dicho concepto al Registro Patrimonial de Bienes Municipales.
 
-### Capítulo IV. Fideicomisos Públicos
+### Capítulo III. Empresas de Participación Municipal Mayoritaria
 
 ###### Artículo 294.
 
@@ -6214,6 +7322,8 @@ La enajenación de títulos representativos del capital social, propiedad del Ay
 ###### Artículo 305.
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectúa conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y la legislación correspondiente.
+
+### Capítulo IV. Fideicomisos Públicos
 
 ###### Artículo 306.
 
@@ -6502,3 +7612,51 @@ Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicació
 Tercero. Se instruye a la Coordinación General de Gestión Integral de la Ciudad, en esta única ocasión presente en el mes de octubre del año 2021, el Programa Anual con reglas de operación de Intervención para predios generadores, en el que, los que ejercieron transferencias se consideren prioridad, reglas de operación que deberán prever, los procesos, procedimientos, criterios administrativos, técnicos y financieros para la correcta y eficaz gestión de la transferencia de derechos de desarrollo urbano.
 
 Cuarto. Una vez publicado el presente ordenamiento, remítase una copia de él al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 1 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y ABROGACIÓN DE DIVERSOS ORDENAMIENTOS MUNICIPALES”.]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara en términos de lo dispuesto en el artículo 42 fracciones IV y V de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Segundo. Este ordenamiento entrará en vigor el día de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Los asuntos que hubieren sido turnados a las Comisiones Colegiadas del Ayuntamiento que se fusionan, serán returnados en el nuevo periodo del Gobierno Municipal de Guadalajara, Jalisco, 2021-2024 en los términos previstos en la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 1 DE OCTUBRE DE 2021, PAGINAS 71 Y 72.]</small>
+
+Cuarto. Los puntos de ordenamiento Quinto, Sexto, Séptimo, Octavo, Noveno y Décimo, entrarán en vigor cuando se emita la declaratoria de extinción de los Organismos Públicos Descentralizados de la Administración Pública Municipal denominados "Instituto Municipal de Atención a la Juventud", "Instituto Municipal de la Vivienda" y "Patronato del Centro Histórico, Barrios y Zonas Tradicionales", por el Ayuntamiento.
+
+Quinto. El personal adscrito al Organismo Público Descentralizado de la Administración Pública Municipal denominado "Instituto Municipal de Atención a la Juventud" será adscrito a la Dirección de Juventudes adscrita a la Coordinación General de Combate a la Desigualdad, conservando los derechos laborales adquiridos previos a la extinción del organismo en comento.
+
+De igual forma, los asuntos en trámite ante el organismo que se extingue, pasarán a la Dirección de Juventudes. Asimismo, las facultades, derechos y obligaciones establecidos a cargo del "Instituto Municipal de Atención a la Juventud", o de sus titulares, en contratos, convenios o acuerdos celebrados con dependencias o entidades de la administración pública municipal, estatal o federal, así como con cualquier persona física o jurídica se entenderán trasferidos a la Dirección de Juventudes.
+
+Sexto. El personal adscrito al Organismo Público Descentralizado de la Administración Pública Municipal denominado "Instituto Municipal de la Vivienda" será adscrito a la Coordinación General de Gestión Integral de la Ciudad, conservando los derechos laborales adquiridos previos a la extinción del organismo en comento.
+
+De la misma manera, los asuntos en trámite ante el organismo que se extingue, pasarán a la Coordinación General de Gestión Integral de la Ciudad. Asimismo, las facultades, derechos y obligaciones establecidos a cargo del "Instituto Municipal de la Vivienda", o de sus titulares, en contratos, convenios o acuerdos celebrados con dependencias o entidades de la administración pública municipal, estatal o federal, así como con cualquier persona física o jurídica se entenderán trasferidos a la Coordinación General de Gestión Integral de la Ciudad.
+
+Séptimo. El personal adscrito al Organismo Público Descentralizado de la Administración Pública Municipal denominado "Patronato del Centro Histórico, Barrios y Zonas Tradicionales" será adscrito a la Superintendencia del Centro Histórico, conservando los derechos laborales adquiridos previos a la extinción del organismo en comento.
+
+De igual forma, los asuntos en trámite ante el organismo que se extingue, pasarán a la Superintendencia del Centro Histórico. Asimismo, las facultades, derechos y obligaciones establecidos a cargo "Patronato del Centro Histórico, Barrios y Zonas Tradicionales", o de sus titulares, en contratos, convenios o acuerdos celebrados con dependencias o entidades de la administración pública municipal, estatal o federal, así como con cualquier persona física o jurídica se entenderán trasferidos a la Superintendencia del Centro Histórico.
+
+Octavo. Se derogan las disposiciones municipales que se opongan al presente Código.
+
+Noveno. Las referencias o menciones contenidas en otros reglamentos y en cualquier disposición municipal, respecto de las dependencias y entidades cuyos artículos y funciones se modifican por virtud de las reformas que se aprueban al Código de Gobierno Municipal de Guadalajara, se entenderán referidas a las que respectivamente se indican en el mismo.
+
+Décimo. Cualquier dependencia administrativa que por la emisión de estas reformas se readscriba a otra dependencia, pasando a formar parte de la estructura organizacional de otra diversa, sus recursos humanos y materiales, así como los documentos, archivo y, en general todos los bienes muebles que la dependencia se encuentre utilizando y estén bajo su resguardo para la atención de los asuntos a su cargo, salvo que el Presidente Municipal disponga lo contrario, serán transferidos a la dependencia que de acuerdo a las reformas aprobadas al Código de Gobierno Municipal de Guadalajara, asuma la responsabilidad y las funciones correspondientes en los términos de este ordenamiento, sin que por ésta o cualquier otra causa puedan modificarse o resultar afectados los derechos que los servidores públicos han adquirido en virtud de su relación laboral con el Municipio.
+
+Décimo Primero. Se instruye a las dependencias y entidades municipales de Guadalajara para que en un plazo no mayor a 90 noventa días naturales a partir del siguiente al de la publicación de este Código, efectúen las modificaciones administrativas y reglamentarias correspondientes a fin de armonizarlas con lo dispuesto a las reformas que se aprueban.
+
+Décimo Segundo. Se instruye a las dependencias y entidades municipales de Guadalajara para que, en un plazo no mayor a 45 cuarenta y cinco días hábiles contados a partir de la publicación del presente ordenamiento, actualicen la documentación y formatos respectivos mediante los cuales ejercen sus atribuciones. Dicha documentación y formatos deberán ser utilizados a partir de la entrada en vigor del presente ordenamiento.
+
+Décimo Tercero. Los recursos de revisión en materia de desarrollo que se encuentren en trámite y pendiente de resolución por parte del Comité Dictaminador de los Recursos de Revisión en materia de Desarrollo Urbano, a partir de la entrada de vigor del presente ordenamiento, serán integrados, substanciados y resueltos por la Dirección de Recursos de Revisión de Usos de Suelo, adscrita a la Consejería Jurídica.
+
+Décimo Cuarto. Los convenios y demás instrumentos jurídicos celebrados entre el Ayuntamiento y otras instancias antes de la entrada en vigor de este ordenamiento, continuarán surtiendo sus efectos hasta la fecha de su terminación.
+
+Décimo Quinto. Se faculta a las y los ciudadanos Presidente Municipal, Secretario General y Síndica, todos de este Ayuntamiento, a suscribir la documentación necesaria para el cumplimiento del presente ordenamiento.
+
+Décimo Sexto. Notifíquese el presente ordenamiento a los titulares de la Tesorería Municipal, de la Coordinación General de Combate a la Desigualdad, de la Coordinación de Desarrollo Económico, de la Coordinación General de Gestión Integral de la Ciudad, de la Superintendencia del Centro Histórico y a la Contraloría Ciudadana, para su cocimiento y efectos conducentes.
+
+Décimo Séptimo. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal de Guadalajara.
+
+Décimo Octavo. Se adjunta como Anexo Único al presente ordenamiento, el organigrama que deriva de la nueva estructura administrativa autorizada.
