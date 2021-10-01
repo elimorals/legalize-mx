@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-09-15"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -124,11 +124,11 @@ E) Comisión para la Reconstrucción de la Ciudad de México, a la que quedan ad
 
 Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5); la Agencia Digital de Innovación Pública de la Ciudad de México; y la Junta de Asistencia Privada.
 
-> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 7°.
 
-Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
+Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico Operativo y los Órganos Desconcentrados siguientes:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 18 DE MARZO DE 2020)</small>
 
@@ -174,31 +174,25 @@ C) Subsecretaría de Gobierno, a la que quedan adscritas:
 
 2.4. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Sur.
 
-D) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
+D) (DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
-1. Dirección General de Atención Especializada para Adolescentes;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE OCTUBRE DE 2021)</small>
 
-2. Dirección Ejecutiva de Asuntos Jurídicos y Derechos Humanos;
-
-3. Dirección Ejecutiva de Prevención y Reinserción Social;
-
-4. Dirección Ejecutiva de Trabajo Penitenciario;
-
-5. Dirección Ejecutiva de Seguridad Penitenciaria;
-
-6. Dirección Ejecutiva de Agentes de Seguridad Procesal; y
-
-7. Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad;
-
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-E) Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales;
+E) Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
 
 1. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 2. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 3. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2021)</small>
+
+4. Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales; y
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2021)</small>
+
+5. Dirección Ejecutiva de Asuntos Agrarios.
 
 F) La Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, a la que queda adscrita:
 
@@ -208,15 +202,15 @@ F) La Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Púb
 
 G) Dirección General del Instituto de Reinserción Social, a la que queda adscrita:
 
-1. Dirección Ejecutiva de Programas de Reinserción.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+1. Dirección Ejecutiva de Programas de Reinserción; y
 
-H) Dirección Ejecutiva de Análisis Informativo; y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+H) Dirección Ejecutiva de Análisis Informativo.
 
-I) Dirección Ejecutiva de Asuntos Agrarios.
+I) (DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
@@ -1286,103 +1280,45 @@ XXIII. Las demás que le atribuyan expresamente las leyes, reglamentos y normas 
 
 ###### Artículo 24.
 
-La Subsecretaría de Sistema Penitenciario tendrá las siguientes atribuciones:
-
-I. Organizar la operación y administración de los Centros Penitenciarios de Reinserción Social para procesados y sentenciados; así como el centro de sanciones administrativas y reintegración social para arrestados;
-
-II. Normar, coordinar, operar, administrar y supervisar el Sistema Penitenciario y de Reinserción Social de la Ciudad de México;
-
-III. Emitir, difundir, coordinar, operar y supervisar la normatividad sobre la reinserción social en los Centros Penitenciarios de la Ciudad de México, casa de medio camino y del centro de sanciones administrativas y reintegración social;
-
-IV. Determinar y coordinar el funcionamiento de los sistemas de seguridad en los Centros Penitenciarios;
-
-V. Coordinarse con las áreas homologas de los gobiernos de las Entidades Federativas en materia de prevención de la delincuencia, de conformidad con las disposiciones jurídicas aplicables;
-
-VI. Proponer convenios que deba celebrar la Ciudad de México con instituciones académicas y otras especializadas en materia de capacitación, adiestramiento y profesionalización penitenciaria;
-
-VII. Promover y coordinar acciones con las instituciones que apoyen las tareas de prevención de conductas delictivas;
-
-VIII. Coordinar la orientación técnica y aprobar los proyectos para la construcción y remodelación de instalaciones de reinserción social;
-
-IX. Vigilar que la producción y comercialización de artículos en las unidades industriales o de trabajo se destinen a capacitar y proporcionar a las personas privadas de la libertad los estímulos y apoyos a su economía;
-
-X. Coordinar que en la prestación de servicios de atención médica y psicológica a las personas privadas de la libertad se cumplan las reglas de higiene general y personal;
-
-XI. Establecer los criterios de selección, formación, capacitación, evaluación y promoción del personal que preste sus servicios en las instituciones de reinserción social;
-
-XII. Promover investigaciones científicas relacionadas con conductas delictivas para la determinación de zonas criminógenas, con el fin de proponer medidas de prevención social necesarias;
-
-XIII. Coordinar la emisión de antecedentes penales y constancias de los mismos, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
-
-XIV. Dar cumplimiento a la normativa para que toda persona privada de la libertad en los Centros Penitenciarios participe en las actividades laborales, educativas, deportivas, culturales y terapéuticas necesarias para restaurar su estabilidad psicológica, moral y anímica y, para que se practiquen con oportunidad estudios que determinen su esfuerzo, la evolución de su plan de actividades y relaciones con familiares y seres queridos, para lograr su reinserción social;
-
-XV. Emitir los dispositivos normativos para la remisión de información de las personas procesadas a las autoridades respectivas que los requieran;
-
-XVI. Establecer la coordinación necesaria con las autoridades de los gobiernos, federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le corresponden conforme a este Reglamento y a otras disposiciones legales;
-
-XVII. Emitir los procedimientos para vigilar que los traslados autorizados por el Juez de Ejecución de personas procesadas y sentenciadas, nacionales o extranjeras, se sujeten a lo establecido en la Legislación Nacional y en los Tratados o Convenios Internacionales;
-
-XVIII. Dictar las normas y procedimientos a fin de evitar fenómenos de corrupción al interior de los Centros Penitenciarios;
-
-XIX. Vigilar que las personas privadas de la libertad estén en condiciones psicológicas, materiales y de seguridad que les permitan contar con elementos mínimos para su defensa;
-
-XX. Establecer los lineamientos de seguridad personal de las personas procesadas y sentenciadas y vigilar su aplicación;
-
-XXI. Vigilar que se dé cumplimiento a los derechos humanos de las personas procesadas y sentenciadas y emitir los procedimientos para responder a las recomendaciones de los organismos especializados;
-
-XXII. Establecer los criterios para la profesionalización, capacitación, seguridad y eficiencia del personal técnico;
-
-XXIII. Crear, organizar y administrar el registro de información penitenciaria y proporcionar la información a las autoridades que corresponda de conformidad a la Ley Nacional de Ejecución Penal y la Ley General del Sistema Nacional de Seguridad Pública;
-
-XXIV. Desarrollar los criterios e indicadores estadísticos necesarios para evaluar en forma permanente el movimiento de población penitenciaria y los factores criminológicos que inciden en el fenómeno delictivo de la Ciudad de México;
-
-XXV. Supervisar y evaluar los controles y registros estadísticos que emiten los Centros Penitenciarios, acerca de las actividades técnicas operativas, grupos vulnerables y acciones de diagnóstico, para definir las principales características de la población interna;
-
-XXVI. Diseñar y supervisar las acciones que correspondan a la Administración Pública de la Ciudad de México para cuidar que las personas adolescentes a quienes se les atribuya un hecho tipificado como delito en las leyes penales aplicables a la Ciudad de México reciban un trato justo y humano y, en consecuencia se erradiquen el maltrato, la incomunicación, la coacción psicológica, o cualquier otra acción que atente contra su dignidad o su integridad física o mental;
-
-XXVII. Participar en los procedimientos que tiendan a desarrollar o proponer medidas de orientación y protección para las personas adolescentes a quienes se les atribuya un hecho tipificado como delito en las leyes penales aplicables a la Ciudad de México;
-
-XXVIII. Vigilar el cumplimiento de las disposiciones y procedimientos que correspondan al tratamiento de las personas adolescentes a quienes se les atribuya un hecho tipificado como delito en las leyes penales y el respeto a sus derechos fundamentales;
-
-XXIX. Proponer convenios que deba celebrar la Ciudad de México y suscribir los mismos con Entidades Federativas, instituciones públicas y privadas; además de organizaciones de sociedad civil que coadyuven al cumplimiento de los ejes rectores de la reinserción social;
-
-XXX. Coordinar la emisión de informes de ingresos anteriores a prisión, solicitados por las autoridades judiciales y administrativas legalmente facultadas para ello;
-
-XXXI. Coordinarse con el juez de ejecución para la remisión de información técnica jurídica de las personas privadas de la libertad sentenciadas;
-
-XXXII. Solicitar al juez de ejecución la autorización para el traslado de las personas privadas de la libertad sentenciadas a los diferentes Centros Penitenciarios de la Ciudad de México, excepto en los casos previstos en el artículo 52 de la Ley Nacional de Ejecución Penal;
-
-XXXIII. Solicitar a las autoridades administrativas federales o locales, previa autorización del juez de ejecución el traslado de personas sentenciadas para cumplir su sentencia del fuero común en Centros Penitenciarios de su jurisdicción, de conformidad al artículo 18 Constitucional, excepto por medidas de seguridad de los Centros Penitenciarios y de la persona sentenciada;
-
-XXXIV. Solicitar al juez de la causa las sentencias o copias certificadas para mantener debidamente actualizado el expediente jurídico de la persona privada de la libertad;
-
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
-
-XXXV. Dar seguimiento a la persona privada de la libertad una vez que obtenga uno de los beneficios preliberacionales y sanciones no privativas de la libertad contemplados en la Ley Nacional de Ejecución Penal, los sustitutivos penales, así como a los beneficiados con el programa de reclusión domiciliaria a través de monitoreo electrónico a distancia;
-
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
-
-XXXVI. Comunicar de manera oportuna al juez de ejecución el incumplimiento de las obligaciones contraídas con motivo de los beneficios preliberacionales y sanciones no privativas de la libertad y reclusión domiciliaria; y
-
-> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2021)</small>
-
-XXXVII. En materia del Registro Público de Personas Agresoras Sexuales de la Ciudad de México:
-
-a) Organizar, administrar, actualizar y resguardar la información contenida en el Registro en términos de las leyes aplicables, lineamientos y protocolos para la recepción, procesamiento, consulta y resguardo de la información que se expidan para tal efecto.
-
-b) Realizar y elaborar estudios, investigaciones y estadísticas con los datos contenidos en el Registro, respetando la información de datos personales conforme a la normativa aplicable para la elaboración de políticas públicas;
-
-c) Recibir de los órganos jurisdiccionales la información de las personas con sentencia ejecutoriada, para registro de los mismos;
-
-d) Adoptar las medidas adecuadas para la protección de los datos personales contenidos en el Registro, de conformidad con la normativa aplicable;
-
-e) Proporcionar información sobre los agresores sexuales a las autoridades competentes, de conformidad con la normativa aplicable; y
-
-f) Vigilar el uso correcto de la información contenida y, en su caso, sancionar o dar vista a la autoridad competente respecto del uso indebido de la información.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 25.
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 25 Bis.
+
+La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental tendrá las siguientes atribuciones:
+
+I. Acordar con la persona titular de la Secretaría de Gobierno el despacho de los asuntos que guarden relación con los Gobiernos de las Entidades Federativas y los Municipios que colindan con la Ciudad de México, en los asuntos que correspondan a su ámbito de competencia;
+
+II. Acordar con la persona titular de la Secretaría de Gobierno el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad;
+
+III. Mantener informada a la persona titular de la Secretaría de Gobierno sobre el cumplimiento de los convenios suscritos por el Gobierno de la Ciudad de México con gobiernos de las Entidades Federativas que colindan con la Ciudad;
+
+IV. Participar en el diseño e instrumentación de la planeación metropolitana, en coordinación con las Unidades Administrativas competentes de la Administración Pública de la Ciudad;
+
+V. Participar en las actividades materia de límites territoriales en términos de las disposiciones jurídicas y administrativas aplicables, así como coadyuvar en los trabajos de amojonamiento y señalización de límites de la Ciudad con las Entidades Federativas colindantes;
+
+VI. Representar a la Administración Pública de la Ciudad ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los convenios y demás instrumentos jurídicos;
+
+VII. Proponer a la persona titular de la Jefatura de Gobierno, en coordinación con las personas titulares de las Dependencias, Alcaldías, Federación, Estados y Municipios de que se trate, previa opinión de la persona titular de la Secretaría de Gobierno, la suscripción de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación vigente sobre coordinación metropolitana;
+
+VIII. Promover y coordinar las relaciones institucionales de las Alcaldías limítrofes con los Municipios de la Zona Metropolitana del Valle de México;
+
+IX. Promover las relaciones de colaboración entre las Alcaldías y los Municipios limítrofes con la Ciudad, de conformidad con las normas aplicables;
+
+X. Promover la realización de estudios y proyectos técnicos que propicien formas eficientes de coordinación metropolitana con los distintos órdenes de gobierno que inciden en la Ciudad;
+
+XI. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
+
+XII. Apoyar las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
+
+XIII. Instrumentar la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia de la Ciudad, así como fomentar y propiciar la coordinación interinstitucional y la que corresponda en el Consejo Nacional de Población; y
+
+XIV. Las demás que se deriven de otras disposiciones legales aplicables y las que le asigne la persona titular de la Secretaría de Gobierno.
 
 ###### Artículo 26.
 
@@ -2940,307 +2876,99 @@ VIII. Las demás que se deriven de otras disposiciones legales y las que le asig
 
 ###### Artículo 58.
 
-Corresponde a la Dirección General de Atención Especializada para Adolescentes:
-
-I. Ejecutar las medidas de sanción privativas y no privativas de libertad, así como supervisar las medidas en internamiento preventivo que imponga el órgano jurisdiccional a las personas adolescentes o adultas jóvenes a quienes se les atribuya un hecho que la ley señale como delito;
-
-II. Supervisar la organización, administración, funcionamiento y operación de los Centros Especializados de Atención para Adolescentes a quienes se les atribuya un hecho que la ley de la materia señale como delito;
-
-III. Elaborar y proponer los proyectos de programas y ordenamientos jurídicos y normativos en materia de justicia penal para personas adolescentes;
-
-IV. Elaborar los planes, programas de intervención, que tengan como base el trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción social de las personas adolescentes en conflicto con la ley penal, a la sociedad y su núcleo familiar;
-
-V. Supervisar y vigilar el cumplimiento de las normas y procedimientos a fin de prevenir los hechos tipificados como delitos al interior de los Centros Especializados de Atención para Adolescentes;
-
-VI. Determinar en qué Centros Especializados de Atención para Adolescentes cumplirán las personas sujetas a la Ley Nacional del Sistema Integral de Justica Penal para Adolescentes, las medidas de sanción impuestas por el órgano jurisdiccional;
-
-VII. Elaborar, supervisar y vigilar los Planes Individualizados de Actividades en los términos de la medida cautelar de internamiento preventivo impuesta por el órgano jurisdiccional, así como los Planes Individualizados de Ejecución, en etapa de ejecución de la medida sancionadora, los cuales son aprobados por el juez de ejecución, mismos que contempla la ley de la materia;
-
-VIII. Celebrar convenios o colaboraciones con instituciones y organismos públicos, privados así como asociaciones civiles, con la finalidad de garantizar que las personas adolescentes o adultas jóvenes cumplan con la medida impuesta por el órgano jurisdiccional;
-
-IX. Solicitar y proponer al juez de ejecución el beneficio denominado Libertad Anticipada, de acuerdo a lo establecido en la Ley Nacional de Ejecución Penal;
-
-X. Participar en las acciones y actividades que desarrollen los miembros del Sistema Integral de Justicia Penal para Adolescentes que contempla ley de la materia;
-
-XI. Promover, respetar, proteger y garantizar los derechos humanos de las personas adolescentes o adultas jóvenes que se encuentran a disposición de la autoridad administrativa en los Centros Especializados de Atención para Adolescentes; y
-
-XII. Las demás facultades previstas en este Reglamento y en otros ordenamientos aplicables, así como las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que se le adscriban.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2021)</small>
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 59.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos y de Derechos Humanos:
-
-I. Proponer los criterios generales y las normas que regulen los Centros Penitenciarios;
-
-II. Revisar, opinar y supervisar que los convenios que se celebren entre la Subsecretaría de Sistema Penitenciario y la Administración Pública de la Ciudad de México, la Federación, los Gobiernos de los Estados o la sociedad civil cumplan con las disposiciones normativas vigentes en la Ciudad de México;
-
-III. Representar jurídicamente a la Secretaría de Gobierno, así como coordinar la elaboración de denuncias, ante las autoridades que correspondan por hechos posiblemente constitutivos de delito, que se cometan dentro de las instalaciones o Centros que conforman el Sistema Penitenciario;
-
-IV. Coordinar con los Directores de los Centros Penitenciarios la integración de los expedientes jurídicos de las personas privadas de la libertad para conocer su situación jurídica, determinar la fecha probable de su libertad, o saber si se encuentra en tiempo de obtener los beneficios de libertad anticipada que otorga la normativa correspondiente;
-
-VI (SIC). Verificar la debida integración de los informes previos y justificados solicitados por la Autoridad Judicial que conoce de los juicios de amparo;
-
-VII. Verificar jurídicamente la procedencia de los traslados de las personas privadas de la libertad a los diferentes Centros que integran el Sistema Penitenciario de la Ciudad de México, de los correspondientes a las Entidades Federativas o a Centros Penitenciarios Federales;
-
-VIII. Coordinar y supervisar el funcionamiento de los Módulos de Información Jurídica, del Sistema Integral de Información Penitenciaria (SIIP);
-
-IX. Mantener coordinación permanente con las distintas Unidades Administrativas que integran y colaboran con la Subsecretaría de Sistema Penitenciario para obtener la información necesaria a fin de atender las quejas, denuncias interpuestas por familiares, defensores, visitantes o de las personas privadas de la libertad en los Centros Penitenciarios, así como las recomendaciones emitidas por los organismos protectores de los derechos humanos;
-
-X. Establecer bases de colaboración con el Instituto de Capacitación Penitenciaria con el objeto de que el personal de la Subsecretaría de Sistema Penitenciario participe en los cursos de capacitación que permitan el estudio, enseñanza y divulgación del marco normativo en materia penal, penitenciaria y de los derechos humanos;
-
-XI. Atender y gestionar ante las instituciones competentes los requerimientos que realicen los organismos de derechos humanos, dando respuesta dentro de los términos correspondientes;
-
-XII. Proporcionar asesoría jurídica a las personas privadas de la libertad y familiares que lo requieran;
-
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
-
-XIII. Dirigir y coordinar al personal adscrito a esta Dirección Ejecutiva que labora en los Centros Penitenciarios, a fin de garantizar el estricto cumplimiento de las disposiciones administrativas y legales vigentes;
-
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
-
-XIV. Presentar ante el órgano interno de control la denuncia de las personas servidoras públicas del Sistema Penitenciario de quienes se presuma la comisión de una probable responsabilidad administrativa; y
-
-> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2021)</small>
-
-XV. Coordinar la operación y funcionamiento del Registro de Personas Agresoras Sexuales de la Ciudad de México, de conformidad con la normativa aplicable.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 60.
 
-Corresponde a la Dirección Ejecutiva de Prevención y Reinserción Social:
-
-I. Vigilar que se cumplan las políticas y estrategias generales del proceso de evaluación y de diagnóstico en materia de reinserción social de la población penitenciaria procesada y sentenciada en la Ciudad de México;
-
-II. Supervisar las acciones de tratamiento, programas y técnicas tendientes a operar los ejes de la reinserción social de la población interna;
-
-III. Promover y supervisar las acciones de tratamiento básico en materia de alfabetización, educación elemental, intermedia y superior para la población interna;
-
-IV. Evaluar y autorizar el apoyo de organizaciones no gubernamentales, asociaciones civiles y Dependencias que colaboran con la población interna en procesos de asistencia social, educación para la salud, de autoayuda, para la orientación religiosa, de cultura y recreación;
-
-V. Promover y supervisar la operación de actividades deportivas, culturales y recreativas en los diferentes Centros Penitenciarios de la Ciudad de México, considerando las necesidades e intereses de la población interna y en forma congruente con los propósitos de la reinserción social;
-
-VI. Registrar, difundir, evaluar y regular los acuerdos de los Consejos Técnicos de los Centros Penitenciarios, de conformidad a las normas jurídicas vigentes ante las Direcciones de los Centros Penitenciarios;
-
-VII. Supervisar el cumplimiento de los indicadores técnicos que están determinados por la Ley Nacional de Ejecución Penal, en los procesos de análisis y presentación de casos para la obtención de posibles beneficios penitenciarios; y
-
-VIII. Determinar los elementos necesarios para la conformación del expediente técnico de cada persona privada de la libertad durante las fases de diagnóstico, ubicación e intervención institucional para su operación en cada una de las Instituciones Penitenciarias de la Ciudad de México.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 61.
 
-Corresponde a la Dirección Ejecutiva de Trabajo Penitenciario:
-
-I. Elaborar los lineamientos para que las actividades encaminadas a la organización, planeación, producción, desarrollo, supervisión, fomento, promoción y comercialización de los talleres industriales, talleres de autoconsumo, servicios y productos elaborados por las personas privadas de la libertad de acuerdo a los objetivos y metas que establezca la Administración Pública de la Ciudad de México;
-
-II. Elaborar, suscribir, modificar y extinguir los convenios de colaboración, en los términos de la normatividad aplicable, con otras Instituciones Públicas y Privadas, Dependencias, Empresas, Asociaciones y Organismos, a fin de promover, incentivar y diversificar el impulso y crecimiento en la industria, área de servicios, talleres de autoconsumo y autogenerados del Sistema Penitenciario;
-
-III. Supervisar que se realice la remuneración oportuna a las personas privadas de la libertad por su actividad productiva en los términos establecidos en la Ley Nacional de Ejecución Penal y autorizar el pago por unidad de obra;
-
-IV. Dar seguimiento al pago de la contraprestación por el uso de las instalaciones por parte de los socios industriales u organismos capacitadores en los Centros Penitenciarios y autorizar el pago en especie en favor de los intereses institucionales;
-
-V. Coordinar con el área administrativa correspondiente que la remuneración de las personas privadas de las libertad (sic) se realice de conformidad a lo establecido en la Ley Nacional de Ejecución Penal;
-
-VI. Coordinar las acciones necesarias que permitan el establecimiento de actividades productivas en los talleres industriales con cada una de las Direcciones de los diferentes Centros Penitenciarios;
-
-VII. Regular y supervisar la implementación de las medidas necesarias de seguridad e higiene en cada uno de los talleres industriales;
-
-VIII. Coordinar y autorizar las acciones necesarias para la adecuada utilización de los espacios destinados de las naves industriales con cada una de la Direcciones de los diferentes Centros Penitenciarios;
-
-IX. Establecer y autorizar lineamientos de producción y comercialización de productos, bienes y servicios en los talleres industriales bajo el esquema de autogenerados;
-
-X. Elaborar e implementar los lineamientos necesarios para el mantenimiento preventivo y correctivo de la maquinaria de los talleres de autoconsumo y autogenerados;
-
-XI. Supervisar la adecuada utilización y conservación de la materia prima de los talleres de autoconsumo;
-
-XII. Supervisar que los productos, bienes y servicios elaborados en los talleres industriales bajo el esquema de autogenerados cumplan con controles de calidad;
-
-XIII. Solicitar al área administrativa la compra de materia prima, insumos, productos, materiales y equipos necesarios para las actividades de los talleres de autogenerados o de autoconsumo solicitados mediante órdenes de trabajo;
-
-XIV. Fomentar el autoconsumo de los productos, bienes o servicios realizados por las personas privadas de la libertad, como proveedores de la Administración Pública local mediante actividades de trabajo penitenciario;
-
-XV. Participar en el diseño del Programa Anual de Adquisiciones del ejercicio correspondiente;
-
-XVI. Coordinar y promover los productos elaborados por las personas privadas de la libertad de los Centros Penitenciarios en eventos, ferias, exposiciones y muestras;
-
-XVII. Supervisar que la producción industrial, artesanal y de servicios, se lleve a cabo de conformidad a lo establecido por la Ley Nacional de Ejecución Penal, la Ley de Centros Penitenciarios de la Ciudad de México, del Reglamento de los Centros Penitenciarios de la Ciudad de México y demás ordenamientos aplicables;
-
-XVIII. Elaborar, suscribir, modificar y extinguir los convenios o bases de colaboración en materia de capacitación para el trabajo penitenciario con instituciones gubernamentales y de la sociedad civil;
-
-XIX. Promover y supervisar las actividades de capacitación para el trabajo enfocadas al desarrollo y certificación de habilidades y competencias laborales de las personas privadas de su libertad en el ámbito productivo, y
-
-XX. Coordinar la elaboración de programas e informes en materia de trabajo penitenciario.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 62.
 
-Corresponde a la Dirección Ejecutiva de Seguridad Penitenciaria:
-
-I. Ejercer el mando directo del Cuerpo de Técnicos en Seguridad, con apego a las disposiciones legales vigentes;
-
-II. Dirigir el trabajo de inteligencia, investigación y clasificación de la información, relacionada con la seguridad de cada Centro Penitenciario;
-
-III. Evaluar el funcionamiento de los elementos técnicos, electrónicos y humanos que intervienen en la captura, análisis y presentación de informes diarios sobre la seguridad institucional;
-
-IV. Informar oportunamente a las autoridades superiores, sobre asuntos relevantes que vulneren o pongan en riesgo a la seguridad de los Centros Penitenciarios;
-
-V. Supervisar diariamente la presentación y envío a la superioridad de los reportes y partes de novedades del estado que guarda la seguridad en cada Centro Penitenciario;
-
-VI. Autorizar cualquier cambio de adscripción y vigilar el cumplimiento del programa de rotación periódica, del personal de seguridad de las diferentes instalaciones que conforman la Subsecretaría de Sistema Penitenciario;
-
-VII. Aplicar medidas que permitan orden y disciplina, en los Centros Penitenciarios;
-
-VIII. Supervisar el cumplimiento del uso de gafete de Identificación por el personal de Seguridad, aplicando las medidas disciplinarias, previstas por el incumplimiento de esta obligación;
-
-IX. Imponer u ordenar la imposición de sanciones al personal de seguridad, que se hagan acreedores a ellas, así como girar instrucciones para presentar ante el órgano o autoridad competente, los casos que por su gravedad así lo requieran;
-
-X. Solicitar mediante oficio a la superioridad el traslado de las personas privadas de la libertad que pongan en riesgo la seguridad institucional de los Centros Penitenciarios.
-
-XI. Establecer un sistema permanente de supervisión para que el personal se conduzca con respeto a los derechos humanos;
-
-XII. Coordinar la instalación de dispositivos, mecanismos y operativos de seguridad que se implementen en los Centros Penitenciarios y evaluar sus resultados;
-
-XIII. Establecer la coordinación interinstitucional con las Dependencias de la Ciudad de México y las autoridades federales para el diseño y ejecución de operativos conjuntos, así como para solicitar apoyo en casos de emergencia;
-
-XIV. Compartir información con las autoridades competentes, para prevenir, combatir e investigar la comisión de delitos en el sistema penitenciario; y
-
-XV. Participar en el diseño de los sistemas y procesos de evaluación, al que deba sujetarse el personal de seguridad, en coordinación con las autoridades competentes de conformidad a la normatividad vigente.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 63.
 
-Corresponde a la Dirección Ejecutiva de Agentes de Seguridad Procesal:
-
-I. Coordinar los traslados de personas privadas de la libertad, imputadas o sentenciadas que se encuentren en prisión hacia los lugares en que se ubiquen las sedes judiciales, así como la guarda y custodia en los trayectos y en las salas de oralidad penal en la Ciudad de México;
-
-II. Coordinar la distribución y actuación de los agentes de seguridad procesal, en las salas de audiencia en materia penal, cumpliendo con las medidas de seguridad, medidas especiales o los mecanismos necesarios que se sean necesarios (sic) o bien, las medidas que en su momento determine la autoridad jurisdiccional;
-
-III. Proponer los protocolos de actuación para el traslado, guarda y custodia de las personas privadas de la libertad imputadas o sentenciadas y seguridad en salas de audiencia en materia penal;
-
-IV. Colaborar en el marco de su competencia, con las instituciones de Procuración de Justicia, Seguridad Pública, Sistema Penitenciario y demás autoridades federales y locales, en los casos que así se requiera de conformidad con lo previsto en la normatividad aplicable;
-
-V. Implementar mecanismos de control para garantizar que los agentes de seguridad procesal cumplan con las órdenes e instrucciones que se reciban de las autoridades judiciales en materia penal de la Ciudad de México, en el desarrollo de las audiencias en dicha materia;
-
-VI. Coordinar con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo competentes de la Secretaría de Gobierno, los procesos de ingreso y capacitación de los agentes de seguridad procesal;
-
-VII. Dar seguimiento a las denuncias que se presenten en contra de los agentes de seguridad procesal con motivo del ejercicio de sus atribuciones; y
-
-VIII. Las demás que instruya la persona titular de la Secretaría de Gobierno, de la Subsecretaría de Sistema Penitenciario y las que se confieran en otros instrumentos jurídicos o administrativos.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 ###### Artículo 64.
 
-Corresponde a la Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad:
-
-I. Implementar mecanismos de vigilancia, control y seguimiento de las personas sentenciadas en libertad respecto de las obligaciones impuestas por la o el Juez de Ejecución;
-
-II. Dar seguimiento a las medidas de tratamiento a inimputables impuestas por la o el Juez de Ejecución;
-
-III. Apoyar a (sic) la canalización a instituciones especiales de tratamiento, a la familia o a la autoridad sanitaria a inimputables;
-
-IV. Participar en la elaboración, seguimiento y cumplimiento de los convenios de coordinación que se celebren con los gobiernos extranjeros, federal y de las Entidades Federativas en materia de supervisión y seguimiento de la suspensión condicional de la pena, los sustitutivos penales, beneficios penitenciarios y preliberacionales;
-
-V. Establecer la coordinación necesaria con las autoridades de los gobiernos federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le correspondan conforme a este Reglamento y a otras disposiciones legales;
-
-VI. Dar seguimiento a las personas sentenciadas y beneficiadas con el beneficio de reclusión domiciliaria a través de monitoreo electrónico a distancia;
-
-VII. Comunicar de manera oportuna a la o el Juez de Ejecución el incumplimiento de las obligaciones contraídas con motivo de los beneficios preliberacionales y sanciones no privativas de la libertad;
-
-VIII. Comunicar a la o el Juez de Ejecución la reincidencia o muerte de las personas sentenciadas en libertad, a fin de que determine lo que conforme a derecho proceda;
-
-IX. Compartir y proporcionar información a las autoridades judiciales y administrativas del fuero federal y común de conformidad a sus atribuciones legales en el ámbito de suspensión condicional de la pena, los sustitutivos penales, beneficios penitenciarios y preliberacionales;
-
-X. Vigilar que en el cumplimiento de la pena impuesta a las personas sentenciadas en libertad se cumpla con absoluto respeto a los derechos humanos;
-
-XI. Ejercer la defensa de la Subsecretaría de Sistema Penitenciario en los juicios de amparo directo e indirecto relativos al seguimiento de las condiciones u obligaciones impuestas para dar cumplimiento a (sic) suspensión condicional de la pena, los sustitutivos penales, beneficios penitenciarios y preliberacionales o medidas de seguridad;
-
-XII. Supervisar, controlar y evaluar la operación y funcionamiento de la Institución Abierta Casa de Medio Camino, a fin de proporcionar a las personas sentenciadas a quienes se les otorgue por la o el Juez de Ejecución el beneficio penitenciario de Tratamiento Preliberacional, atención en adicciones, educación, cultura, deporte y capacitación para el trabajo, para que al obtener su libertad tengan mayores elementos para su reinserción social;
-
-XIII. Vigilar y supervisar el diseño y aplicación del programa de tratamiento individualizado de las personas sentenciadas beneficiadas con el Tratamiento Preliberacional para que éste se organice e instrumente con pleno respeto a sus derechos humanos y que contemple la participación en las disciplinas de psicología, trabajo social, criminología, adicciones y deporte;
-
-XIV. Instrumentar el cumplimiento de las disposiciones del Juez de Ejecución que ordene que la persona sentenciada deba participar para su reinserción social en salidas grupales al exterior, en actividades culturales y recreativas que le permitan un acercamiento progresivo a la sociedad actual, impulsando para ello la participación de la sociedad civil e instituciones gubernamentales;
-
-XV. Crear un módulo en el Sistema de Información Penitenciaria que permita llevar el seguimiento y control de las personas sentenciadas en libertad; y
-
-XVI. Conformar el Archivo de Expedientes de Personas Sentenciadas en Libertad de conformidad a lo establecido en las disposiciones legales de la materia y a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
 
 Artículo 64 BIS.- Corresponde a la Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales:
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-I. Acordar con la persona Titular de la Secretaría de Gobierno, el despacho de los asuntos que guarden relación con las Alcaldías, los Gobiernos de las Entidades Federativas y sus poderes legislativos, los Municipios que colindan con la Ciudad de México, y el Congreso de la Ciudad en los asuntos que correspondan a su ámbito de competencia;
+I. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental en el despacho de los asuntos que guarden relación con los Gobiernos de las Entidades Federativas y sus poderes legislativos, así como los Municipios que colindan con la Ciudad, en los asuntos que correspondan a su ámbito de competencia;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-II. Acordar con la persona Titular de la Secretaría de Gobierno el despacho de los asuntos en materia de coordinación y planeación metropolitana, en lo referente a las comisiones metropolitanas y a los diversos mecanismos de coordinación con gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad, asimismo, colaborar en la organización de reuniones de la persona Titular de la Jefatura de Gobierno con las personas Titulares de los gobiernos antes referidos;
+II. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental en el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-III. Mantener informada a la persona Titular de la Secretaría de Gobierno del cumplimiento de los convenios suscritos por la persona Titular de la Jefatura de Gobierno con gobiernos de las Entidades Federativas que colindan con la Ciudad;
+III. Dar seguimiento a los convenios suscritos entre el Gobierno de la Ciudad y los gobiernos de las Entidades Federativas que colindan con la Ciudad;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-IV. Participar en el diseño e instrumentación de la planeación metropolitana; así como participar en la elaboración del Programa General de Desarrollo de la Ciudad de México, de los Programas y planes de las Alcaldías y de todos aquellos que contribuyan al desarrollo integral de la Ciudad como Unidad Metropolitana, en coordinación con las Unidades Administrativas competentes de la Administración Pública de la Ciudad;
+IV. Apoyar en el diseño e instrumentación de los mecanismos de planeación metropolitana de la Ciudad;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-V. Participar en las actividades materia de límites, en términos de lo dispuesto por las disposiciones jurídicas y administrativas aplicables y coadyuvar en los trabajos de amojonamiento y señalización de límites de la Ciudad con las Entidades Federativas colindantes;
+V. Coordinar los trabajos técnicos y coadyuvar en las actividades en materia de límites territoriales, en términos de las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+VI. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
 
-VI. Representar, por instrucciones de la persona Titular de la Secretaría de Gobierno, a la Administración Pública de la Ciudad, ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los respectivos convenios de creación;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+VII. Coordinar la elaboración y revisión de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación aplicable sobre coordinación metropolitana;
 
-VII. Someter a consideración de la persona titular de la Secretaría de Gobierno la suscripción de convenios por parte de la Jefatura de Gobierno para la constitución, integración y funcionamiento de comisiones metropolitanas, en las materias de asentamientos humanos, protección al ambiente, preservación y restauración del equilibrio ecológico, transporte y vialidad, agua potable y drenaje, recolección, tratamiento y disposición de desechos sólidos, seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad con la participación que corresponda a la Federación y a los Estados y Municipios que colindan con la Ciudad;
+VIII. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+IX. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
 
-VIII. Promover la difusión de convenios que, en materia de coordinación metropolitana, suscriba la persona Titular de la Jefatura de Gobierno;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-IX. Promover, en acuerdo con la persona titular de la Secretaría de Gobierno, las relaciones institucionales de las Alcaldías limítrofes con los Municipios de la zona metropolitana;
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-X. Promover las relaciones de colaboración, y asistir como testigo de calidad en la suscripción de convenios, entre las Alcaldías y los Municipios limítrofes, de conformidad con las normas aplicables;
+X. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
 
 XI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-XII. Proponer a la persona titular de la Secretaría de Gobierno la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
+XII. Coadyuvar en la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
 
 XIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 XIV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-XV. Apoyar, cuando así lo solicite la persona titular de la Secretaría de Gobierno, en las tareas del Consejo de Población de la Ciudad de México en términos de las disposiciones aplicables a la materia;
+XV. Asistir a la persona titular de la Subsecretaría en las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+XVI. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
 
-XVI. Proponer a la persona titular de la Secretaría de Gobierno, los estudios y proyectos relativos al enlace institucional, con el propósito de priorizar la realización de programas y acciones que permitan mejorar las condiciones de vida de los grupos de atención prioritaria;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+XVII. Coadyuvar con la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, en el establecimiento de vínculos de cooperación con las personas representantes y las autoridades de los gobiernos de los Estados y Municipios limítrofes con la Ciudad;
 
-XVII. Coadyuvar con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad para establecer vínculos de cooperación con las personas representantes y las autoridades de los gobiernos de los Estados, a solicitud de la persona Titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+XVIII. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental en el establecimiento de enlaces institucionales entre las diferentes autoridades de la Administración Pública de la Ciudad y los organismos empresariales, asociaciones religiosas y organizaciones sociales para fortalecer las relaciones con la Administración Pública de la Ciudad; y
 
-XVIII. Coadyuvar con la persona titular de la Secretaría de Gobierno en el establecimiento de enlaces institucionales entre las diferentes autoridades de la Administración Pública de la Ciudad y los organismos empresariales, asociaciones religiosas y organizaciones sociales para fortalecer las relaciones con la Administración Pública de la Ciudad;
+XIX. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+XX. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
 
-XIX. Coordinarse con las diversas Dependencias y Órganos Desconcentrados para el seguimiento de los asuntos de su competencia, cuando así lo solicite la persona titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XX. Coadyuvar con la persona titular de la Secretaría de Gobierno en la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia de la Ciudad; así como en el fomento a la coordinación interinstitucional y, a la que corresponda en el Consejo Nacional de Población; y
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-XXI. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la persona Titular de la Secretaría de Gobierno.
+XXI. Las demás que se deriven de otras disposiciones legales aplicables y las que le sean conferidas por sus superiores jerárquicos.
 
 ###### Artículo 65.
 
@@ -3454,7 +3182,9 @@ XIII. Elaborar estudios para realizar el diagnóstico de las necesidades de orga
 
 XIV. Analizar la problemática a la que se enfrenten los grupos y núcleos agrarios de la Ciudad de México y emitir opinión sobre alternativas de solución; y
 
-XV. Las demás que le atribuyan otras disposiciones legales y administrativas, así como aquellas que le asigne la persona titular de la Secretaría de Gobierno.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
+
+XV. Las demás que le atribuyan otras disposiciones legales y administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
 
 #### SECCIÓN VII. DE LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA
 
@@ -15291,3 +15021,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debid
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 TERCERO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a la Unidad Administrativa que mediante el presente Decreto cambia de denominación, se entenderán hechas a aquella que la sustituya.
+
+G.O. 1 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación; con excepción a la derogación del inciso D) de la fracción I del artículo 7°, así como de los artículos 24, 58, 59, 60, 61, 62, 63 y 64 relativos a la adscripción de la Subsecretaría de Sistema Penitenciario, que será aplicable a partir de la publicación de las reformas al Reglamento Interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México, conforme a los supuestos previstos en los presentes artículos transitorios.
+
+TERCERO.- En tanto se formalice material, financiera y administrativamente la transferencia de los recursos humanos, materiales, técnicos, tecnológicos, financieros y presupuestales de la Subsecretaría de Sistema Penitenciario, de la Secretaría de Gobierno a la Secretaría de Seguridad Ciudadana, todas de la Ciudad de México, las normas de este Reglamento y los ordenamientos legales aplicables a la Subsecretaría de Sistema Penitenciario que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán aplicándose hasta que inicie la vigencia de aquellos que los sustituyan.
+
+CUARTO.- Conforme a lo señalado en el artículo CUARTO Transitorio del Decreto por el que se modifica el primer párrafo del artículo 26 y se derogan las fracciones XII, XIII y XIV de dicho numeral de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México. Se modifica la fracción XXVII del artículo 3º y se adicionan las fracciones XXVII Bis, XXVII Ter, XXVII Quáter y XXVII Quinquies a dicho numeral, de la Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México. Se modifica la fracción XIV del artículo 18 y se adicionan las fracciones XIV BIS y XIV Ter a dicho numeral; se adiciona un párrafo al artículo 55, se derogan los artículos 20 y 54, y se modifica el artículo 119, de la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México. Se derogan las fracciones I, III y IV del artículo 15 Bis y se adicionan al artículo 25 las fracciones IV Bis, IV Ter, IV Quáter, VI Bis y VI Ter de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México. Se abroga la Ley de Centros de Reclusión para el Distrito Federal y se expide la Ley de Centros Penitenciarios de la Ciudad de México, publicado el 02 de septiembre de 2021 en la Gaceta Oficial de la Ciudad de México no. 675 bis, desde su entrada en vigor, la Subsecretaría del Sistema Penitenciario queda adscrita orgánicamente a la Secretaría de Seguridad Ciudadana de la Ciudad de México, salvo las previsiones señaladas en el presente ordenamiento y demás disposiciones aplicables.
+
+QUINTO.- Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
+
+SEXTO.- Las referencias hechas en este Reglamento, así como en otros ordenamientos, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
