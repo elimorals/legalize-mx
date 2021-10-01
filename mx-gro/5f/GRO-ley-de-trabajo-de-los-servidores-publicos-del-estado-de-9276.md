@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2021-08-24"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -277,45 +277,39 @@ Cuando por circunstancias especiales deban aumentarse las horas de jornada máxi
 
 Para efecto de lo anterior, se requerirá autorización por escrito del titular de las dependencias o entidades de la administración pública estatal, de la que dependa el trabajador, con el visto bueno del Director General de Administración y Desarrollo de Personal de la Secretaría de Finanzas y Administración en el que se especifiquen los días de la semana y horas máximas a laborar.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 23.
 
 Por cada cinco días de trabajo, disfrutará de dos días de descanso con goce de sueldo íntegro.
 
 Son días de descanso obligatorio:
 
-- 1o. de enero.
+I. El 1° de enero;
 
-- 5 de febrero.
+II. El primer lunes de febrero en conmemoración del 5 de febrero;
 
-- El día en que el Gobernador rinda su Informe de Gobierno ante el Congreso del Estado, de conformidad con lo dispuesto en la Constitución Política del Estado.
+III. El tercer lunes de marzo en conmemoración del 21 de marzo;
 
-- 21 de marzo.
+IV. El 1° de mayo;
 
-- El 1o. de abril de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal.
+V. El 16 de septiembre;
 
-- 1o. de mayo.
+VI. El 30 de agosto;
 
-- 5 de mayo.
+VII. El día en que el Gobernador rinda su Informe de Gobierno ante el Congreso del Estado, de conformidad con lo dispuesto en la Constitución Política del Estado;
 
-- 30 de agosto.
+VIII. El 15 de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal;
 
-- 1o. de septiembre.
+IX. El 27 de octubre en conmemoración de la erección del Estado de Guerrero;
 
-- 16 de septiembre.
+X. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
-- 12 de octubre.
+XI. El 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
 
-- 27 de octubre.
+XII. El 25 de diciembre; y
 
-- 2 de noviembre.
-
-- 20 de noviembre.
-
-- El 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
-
-- 25 de diciembre.
-
-Los que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias para efectuar la jornada electoral.
+XIII. El que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 ###### ARTICULO 24.
 
@@ -1420,3 +1414,13 @@ SEGUNDO.- Se derogan todas las disposiciones que contraríen este Decreto.
 TERCERO.- Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
 CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 1 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 841 POR EL QUE SE ADICIONA EL ARTÍCULO 22 BIS DE LA LEY NÚMERO 51 DEL ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO Y SE REFORMA EL ARTÍCULO 23 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase éste decreto al Gobernador Constitucional del Estado libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado y en la página WEB del Honorable Congreso del Estado, en las redes sociales y difúndase a través de los medios de comunicación.
