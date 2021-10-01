@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-207-de-transparencia-y-acceso-a-la-informacion-11455
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2016-05-06"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2021.
 
 Ley publicada en el No. 37 Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 6 de mayo de 2016.
 
@@ -33,9 +33,13 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
 
-A N T E C E D E N T E S:…
+[...]
+
+A N T E C E D E N T E S:
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -643,7 +647,9 @@ V. Promover y difundir el ejercicio del derecho de acceso a la información;
 
 VI. Promover la cultura de la transparencia en el sistema educativo;
 
-VII. Capacitar a los servidores públicos y brindar apoyo técnico a los sujetos obligados en materia de transparencia, acceso a la información y protección de datos personales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2021)</small>
+
+VII. Organizar seminarios, cursos, talleres y demás actividades que promuevan el conocimiento, la capacitación, la profesionalización, la especialización y actualización continua y de manera permanente, de servidoras o servidores públicos y población en general sobre los derechos y obligaciones contempladas en la presente Ley y su Reglamento;
 
 VIII. Establecer políticas de transparencia proactiva atendiendo a las condiciones económicas, sociales y culturales;
 
@@ -896,6 +902,10 @@ Los sujetos obligados podrán instalar las Unidades de Transparencia que estimen
 Para el caso que algún integrante del sujeto obligado reciba una solicitud de información, de inmediato deberá turnarla a su Unidad de Transparencia, para su trámite conforme a esta Ley.
 
 Dicha área deberá estar plenamente identificada y ser de fácil acceso para que cualquier persona pueda realizar una solicitud de acceso a la información pública y deberá contar con las condiciones mínimas de operación que aseguren el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2021)</small>
+
+Los sujetos obligados coadyuvarán con el Instituto para capacitar, profesionalizar, especializar y actualizar de forma continua y de manera permanente a su personal en materia del derecho de acceso a la información pública, transparencia, gobierno abierto, rendición de cuentas y protección de datos personales, a través de cursos, seminarios, talleres y todas las formas de enseñanza que se consideren pertinentes.
 
 ###### Artículo 53.
 
@@ -1491,7 +1501,9 @@ Además de lo señalado en el artículo 81 de la presente Ley, el Poder Judicial
 
 I. Las listas de acuerdos, las sentencias con los respectivos votos particulares si los hubiera;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Los acuerdos administrativos del Consejo de la Judicatura del Estado;
 
@@ -2984,3 +2996,27 @@ EL SECRETARIO DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 858 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NUMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Licenciado Héctor Antonio Astudillo Flores, Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 1 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 859 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 84 FRACCIÓN II DE LA LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
