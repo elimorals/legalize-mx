@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2021-08-24"
+last_updated: "2021-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -214,6 +214,40 @@ Para los efectos del párrafo anterior, se requerirá autorización por escrito 
 ###### ARTICULO 22.
 
 Por cada 5 días de trabajo disfrutará el trabajador de dos días de descanso con goce de salario íntegro.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 22 BIS. Son días de descanso obligatorio:
+
+I. El 1° de enero;
+
+II. El primer lunes de febrero en conmemoración del 5 de febrero;
+
+III. El tercer lunes de marzo en conmemoración del 21 de marzo;
+
+IV. El 1° de mayo;
+
+V. El 16 de septiembre;
+
+VI. El 30 de agosto;
+
+VII. El día en que el Gobernador rinda su Informe de Gobierno ante el Congreso del Estado, de conformidad con lo dispuesto en la Constitución Política del Estado.
+
+VIII. El día en que el Presidente Municipal rinda su Informe de Gobierno ante Cabildo;
+
+IX. El 15 de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal;
+
+X. El día en que el Presidente Municipal inicie funciones;
+
+XI. El 27 de octubre en conmemoración de la erección (sic) del Estado de Guerrero;
+
+XII. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
+
+XIII. El 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
+
+XIV. El 25 de diciembre; y
+
+XV. El que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 ###### ARTICULO 23.
 
@@ -1020,3 +1054,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 1 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 841 POR EL QUE SE ADICIONA EL ARTÍCULO 22 BIS DE LA LEY NÚMERO 51 DEL ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO Y SE REFORMA EL ARTÍCULO 23 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase éste decreto al Gobernador Constitucional del Estado libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado y en la página WEB del Honorable Congreso del Estado, en las redes sociales y difúndase a través de los medios de comunicación.
