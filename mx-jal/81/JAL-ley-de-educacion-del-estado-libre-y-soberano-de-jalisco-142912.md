@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2021-05-15"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -339,7 +339,9 @@ VII. Administrar los fondos provenientes del Ejecutivo Federal para la educació
 
 VIII. Respetar los derechos laborales, prestacionales, asistenciales y profesionales de los trabajadores de la educación;
 
-IX. Promover, coordinar, impulsar, ejecutar y evaluar un programa anual de capacitación, orientación y formación dirigido a los padres de familia o tutores en los centros de educación básica, incluyendo la indígena y educación especial. Estableciendo en cada institución educativa o zona escolar, la Escuela para Padres, de acuerdo a lineamientos correspondientes, que favorezca la enseñanza respecto al valor de la igualdad y solidaridad entre hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros, para lo cual se aprovechará la infraestructura física escolar instalada, en horarios y días que no se presten los servicios educativos ordinarios;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+IX. Promover, coordinar, impulsar, ejecutar y evaluar un programa anual de capacitación, orientación y formación dirigido a los padres de familia o tutores en los centros de educación básica, incluyendo la indígena y educación especial. Estableciendo en cada institución educativa o zona escolar, la Escuela para Padres, de acuerdo a los lineamientos correspondientes, debiendo propiciar a través de programas, la participación corresponsable de las familias en el proceso educativo de sus hijas, hijos o pupilos, favoreciendo la articulación con la comunidad educativa, bajo el criterio integral, de aprendizaje para la vida, la cultura de paz, la no violencia familiar y de género, la promoción de la igualdad y la no discriminación, así como propiciar la interacción armónica dentro de los planteles educativos, entre educadores, educandos y padres de familia; para lo cual se aprovechará la infraestructura física escolar instalada, en horarios y días que no se presten los servicios educativos ordinarios;
 
 X. Difundir los derechos de las niñas, los niños y adolescentes, así como los mecanismos y canales de prevención y denuncia de abusos en su integridad física y mental, entre el alumnado de las escuelas de educación básica obligatoria en el estado, de conformidad con lo establecido en la Ley de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Jalisco;
 
@@ -1171,7 +1173,9 @@ Medidas para preservar la integridad física, psicológica y social del educando
 
 En la impartición de educación para menores de dieciocho años, la autoridad educativa estatal en coordinación con otras áreas de gobierno, tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
 
-Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato infantil, violencia en cualquiera de sus formas, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral, así como identificar cualquier situación que ponga en riesgo a los educandos y canalizándolos conforme a los protocolos correspondientes, que la propia Secretaría emita.
 
 En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
@@ -1893,13 +1897,17 @@ I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la e
 
 II. Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
 
-III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-IV. Informar a las autoridades educativas, los cambios que se presenten en la conducta y actitud de los educandos, para que se apliquen los estudios correspondientes, con el fin de determinar las posibles causas;
+III. Procurar participar de manera continua en los distintos programas y talleres en la formación que ofrezcan las instituciones educativas a través de las Escuelas para Padres de Familia;
 
-V. Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años; y
+IV. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
 
-VI. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria.
+V. Informar a las autoridades educativas, los cambios que se presenten en la conducta y actitud de los educandos, para que se apliquen los estudios correspondientes, con el fin de determinar las posibles causas;
+
+VI. Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años; y
+
+VII. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria.
 
 En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
@@ -2402,3 +2410,9 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28371/LXII/21 QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 112 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28444/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 81 Y ADICIONA LA FRACCIÓN III RECORRIÉNDOSE DE MANERA SUCESIVA LA FRACCIÓN IV A LA VII DEL ARTÍCULO 126 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco"
