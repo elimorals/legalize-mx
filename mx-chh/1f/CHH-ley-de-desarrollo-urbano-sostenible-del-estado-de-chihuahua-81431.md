@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2020-02-19"
+last_updated: "2021-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 2 DE OCTUBRE DE 2021; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 30 DÍAS NATURALES SIGUIENTES DE LA FECHA DE SU PUBLICACIÓN.]</small>
+
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -3978,3 +3980,59 @@ P.O. 19 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/1048/2021 XIII P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días naturales siguientes de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 39, de fecha 14 de mayo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias que se realicen en otros ordenamientos jurídicos del Estado a la Ley de Desarrollo Urbano Sostenible que se abroga, se entenderán hechas a la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los municipios contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto, para realizar las acciones y adecuaciones necesarias a sus disposiciones reglamentarias que permitan la correcta aplicación de esta Ley, en el ámbito de su competencia.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones administrativas expedidas en la materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las licencias, permisos y autorizaciones expedidas con anterioridad a la entrada en vigor de esta Ley, seguirán vigentes en los términos que fueron otorgadas. Las que se encuentren en trámite, continuarán el proceso de autorización de las etapas subsecuentes, según lo previsto en la ley vigente al inicio de la etapa o trámite que corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+En un plazo no mayor a seis meses contados a partir de la entrada en vigor de este Decreto, el Estado y los municipios deberán instalar o ratificar los órganos colegiados a que se refiere este ordenamiento.
+
+###### ARTÍCULO NOVENO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial de competencia estatal, deberán formularse o adecuarse y estar publicados, conforme a lo previsto en este ordenamiento, en un plazo no mayor a un año contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial de competencia municipal, deberán formularse o adecuarse y estar publicados, conforme a lo previsto en este ordenamiento, en un plazo no mayor a dos años contados a partir de la entrada en vigor del presente Decreto.
+
+El Estado, a través de la Secretaría de Desarrollo Urbano y Ecología, deberá apoyar y asesorar técnicamente a los municipios en la elaboración de los planes y programas de desarrollo urbano y ordenamiento territorial de su competencia.
+
+###### ARTÍCULO UNDÉCIMO.
+
+El Estado y los municipios deberán realizar las acciones conducentes para que en el ejercicio presupuestal del año 2022, se asignen los recursos necesarios para llevar a cabo la formulación y actualización de los planes y programas de desarrollo urbano y ordenamiento territorial correspondientes.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial que se encuentren vigentes a la fecha de entrada en vigor de esta Ley, continuarán en su vigencia y surtirán todos sus efectos legales hasta en tanto no se actualicen, según lo dispuesto por los artículos transitorios anteriores.
+
+ARTÍCULO DECIMOTERCERO.- El artículo 233 de la presente Ley entrará en vigor en un plazo de dos años contados a partir de la entrada en vigor del presente Decreto.
