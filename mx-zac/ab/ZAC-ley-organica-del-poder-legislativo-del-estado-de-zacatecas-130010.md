@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2021-07-07"
+last_updated: "2021-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -1285,7 +1285,9 @@ XVIII. Acordar y dar trámite a las solicitudes de los diputados;
 
 XIX. Verificar, en el diario de debates, la fidelidad de los dictámenes y acuerdos aprobados;
 
-XX. Coordinar sus labores con las que realice la Secretaría General y los órganos técnicos de apoyo, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+XX. Coordinar sus labores con las que realicen los órganos técnicos de apoyo, y
 
 XXI. Las demás que establezca esta Ley, su Reglamento General y demás disposiciones o acuerdos que emita la Legislatura.
 
@@ -1323,7 +1325,9 @@ XI. Asentar y firmar en todos los expedientes los trámites que dieren a las res
 
 XII. Llevar un registro en que se asienten, por orden cronológico y textualmente, las leyes y decretos o acuerdos que expida la Legislatura;
 
-XIII. Coordinar sus labores con las que realice la Secretaría General y los órganos técnicos de apoyo;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+XIII. Coordinar sus labores con las que realicen los órganos técnicos de apoyo;
 
 XIV. Verificar la elaboración del diario de los debates;
 
@@ -2311,7 +2315,7 @@ Al término de su gestión, deberán presentar al Pleno el informe correspondien
 
 Para la ejecución y el desarrollo de las funciones legislativas y la atención eficiente de las necesidades técnicas, administrativas, materiales y financieras, la Legislatura contará con las unidades administrativas siguientes:
 
-I. Secretaría General;
+I. (DEROGADA, P.O. 2 DE OCTUBRE DE 2021)
 
 II. Dirección de Apoyo Parlamentario;
 
@@ -2319,13 +2323,15 @@ III. Dirección de Procesos Legislativos y Asuntos Jurídicos, y
 
 IV. Dirección de Administración y Finanzas.
 
-La Secretaría General, la Dirección de Apoyo Parlamentario, la Dirección de Procesos Legislativos y Asuntos Jurídicos y la Dirección de Administración y Finanzas, son las unidades administrativas que se encargan de la ejecución de las tareas que permiten el desarrollo de las funciones legislativas, administrativas y financieras de la Legislatura del Estado; serán unidades dependientes de los órganos de gobierno.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+La Dirección de Apoyo Parlamentario, la Dirección de Procesos Legislativos y Asuntos Jurídicos y la Dirección de Administración y Finanzas, así como la Coordinación de Comunicación Social, y el área de Transparencia, son las unidades administrativas que se encargan de la ejecución de las tareas que permiten el desarrollo de las funciones legislativas, administrativas y financieras de la Legislatura del Estado; serán unidades dependientes de los órganos de gobierno.
 
 ###### Artículo 167.
 
 Las unidades administrativas ejercerán las atribuciones siguientes:
 
-I. La Secretaría General, es el ámbito de coordinación y supervisión de los servicios de la Legislatura del Estado. La prestación de dichos servicios queda a cargo de la Dirección de Apoyo Parlamentario, la Dirección de Procesos Legislativos y Asuntos Jurídicos y la Dirección de Administración y Finanzas;
+I. (DEROGADA, P.O. 2 DE OCTUBRE DE 2021)
 
 II. La Dirección de Apoyo Parlamentario, apoyará las funciones relativas al protocolo, conducción de sesiones, levantamiento de actas y compilación del diario de los debates;
 
@@ -2337,37 +2343,37 @@ IV. La Dirección de Administración y Finanzas, apoyará las funciones relativa
 
 ###### Artículo 168.
 
-La Secretaría General, además, tendrá a su cargo, como órganos de apoyo a la actividad legislativa, la coordinación de las siguientes unidades:
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2021)
 
-I. (DEROGADA, P.O. 2 DE ENERO DE 2021)
-
-II. La Coordinación de Comunicación Social;
-
-III. La Unidad de Archivo General del Poder Legislativo;
-
-IV. La Unidad Centralizada de Información Digitalizada, y
-
-V. La Unidad de Transparencia.
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2021)</small>
-
-VI. Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 169.
 
 La Dirección de Apoyo Parlamentario, se integrará por:
 
-I. La Subdirección de Protocolo y Sesiones, y
+I. La Subdirección de Protocolo y Sesiones;
 
-II. La Subdirección del Diario de los Debates.
+II. La Subdirección del Diario de los Debates;
+
+III. El Sistema de Información Legislativa; y
+
+IV. Coordinadamente con la Dirección de Procesos Legislativos y Asuntos Jurídicos, la Unidad de Archivo General del Poder Legislativo.
 
 ###### Artículo 170.
 
 La Dirección de Procesos Legislativos y Asuntos Jurídicos, se integrará por:
 
-I. La Subdirección de Procesos Legislativos, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-II. La Subdirección de Asuntos Jurídicos.
+I. La Subdirección de Procesos Legislativos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+II. La Subdirección de Asuntos Jurídicos, y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+III. La Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género.
 
 ###### Artículo 171.
 
@@ -2375,9 +2381,17 @@ La Dirección de Administración y Finanzas, se integrará por:
 
 I. La Subdirección de Recursos Financieros y Control Presupuestal;
 
-II. La Subdirección de Recursos Humanos, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-III. La Subdirección de Recursos Materiales y Servicios.
+II. La Subdirección de Recursos Humanos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+III. La Subdirección de Recursos Materiales y Servicios, y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+IV. Coordinadamente con la Dirección de Apoyo Parlamentario, la Unidad Centralizada de Información Digitalizada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
 
@@ -2724,3 +2738,17 @@ P.O. 7 DE JULIO DE 2021.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DE SU REGLAMENTO GENERAL”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Los manuales de organización y procedimientos, así como la demás normatividad interna, deberán adecuarse al contenido del presente Decreto dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+Dichos ordenamientos de igual forma establecerán, los mecanismos de coordinación de las actividades asignadas a las áreas administrativas a que se refiere el presente instrumento legislativo.
+
+Artículo cuarto. Dentro del término de quince días deberá reasignarse el personal que actualmente labora en la Secretaría General de la Legislatura.
