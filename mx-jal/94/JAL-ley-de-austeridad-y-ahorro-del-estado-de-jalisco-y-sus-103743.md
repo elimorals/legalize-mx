@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-austeridad-y-ahorro-del-estado-de-jalisco-y-sus-103743"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-22"
-last_updated: "2021-04-15"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 22 de noviembre de 2014.
 
@@ -65,15 +65,11 @@ Los sujetos obligados que reciban recursos públicos estatales, deberán remitir
 
 En el caso de los ayuntamientos, y en apego a su autonomía, se deberán elaborar estos informes de austeridad para ser considerados en el presupuesto de egresos de cada municipio, en los términos de esta Ley y su reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 4.
 
-En la elaboración de los Presupuestos de Egresos, y en los términos de la legislación aplicable, la Secretaría (sic) la Hacienda Pública, así como los municipios, podrán preferentemente dirigir los recursos obtenidos a partir de las políticas y lineamientos de austeridad y ahorro, al Capítulo de Inversión Pública.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-Por ninguna razón podrán destinarse los ahorros generados hacia los capítulos correspondientes al gasto operativo como son servicios personales, materiales y suministros, servicios generales, transferencias, subsidios y subvenciones, bienes muebles e inmuebles, inversiones financieras y deuda pública, con excepción de los capítulos anteriores correspondientes a las áreas de seguridad pública, salud y educación.
+En la elaboración de los Presupuestos de Egresos, y en los términos de la legislación aplicable, la Secretaría (sic) la Hacienda Pública, así como los municipios, deberán dirigir los recursos obtenidos a partir de las políticas y lineamientos de austeridad y ahorro, al Capítulo de Inversión Pública.
 
 ###### Artículo 5.
 
@@ -147,9 +143,15 @@ Las adquisiciones sólo podrán autorizarse si el precio es igual o menor al pre
 
 En materia de adquisiciones, deberá publicarse mensualmente en las páginas de transparencia y acceso a la información pública de todos los sujetos obligados, el número de contratos y convenios que se hayan formalizado, mencionando los alcances y objetivos de los mismos, la temporalidad, el monto asignado, así como las empresas y personas proveedoras.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2021)</small>
+
+En el caso de las adquisiciones de manera directa se deberá publicar un registro en los mismos términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 19.
 
-Las áreas administrativas de los sujetos obligados, llevarán a cabo un análisis del catálogo de bienes, a efecto de que únicamente se adquieran y suministren los bienes indispensables para la operación de cada área, de acuerdo a la identificación de patrones de consumo. Para ello, las áreas de adquisiciones deberán realizar un programa anual de compras que permita adquirir suministros en mayores cantidades, de forma oportuna y a menor costo.
+Las áreas administrativas de los sujetos obligados, llevarán a cabo un análisis del catálogo de bienes, a efecto de que únicamente se adquieran y suministren los bienes indispensables para la operación de cada área, de acuerdo a la identificación de patrones de consumo. Para ello, las áreas de adquisiciones deberán realizar un programa anual de compras que permita adquirir suministros en mayores cantidades, de forma oportuna y a menor costo a más tardar el primer bimestre de cada año.
 
 ###### Artículo 20.
 
@@ -233,9 +235,13 @@ Los servidores públicos o elementos operativos que realicen gastos por concepto
 
 ### CAPÍTULO V. Denuncias, sanciones e incentivos
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 34.
 
 Toda persona podrá denunciar ante la autoridad correspondiente, cualquier hecho, acto u omisión que contravenga las disposiciones de la presente Ley. Las autoridades conocedoras de las denuncias deberán turnarlas a las instancias competentes por la naturaleza de que se traten. La autoridad competente está obligada a realizar la investigación, instaurar el procedimiento y, en su caso, sancionar al servidor público o elemento operativo denunciado.
+
+La denuncia podrá realizarse de manera anónima sin menoscabo de que la autoridad lleve a cabo lo señalado en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
 
@@ -258,6 +264,14 @@ En el caso de los municipios se estará a lo dispuesto en sus disposiciones regl
 Los sujetos obligados que cumplan con lo dispuesto en esta ley y apliquen lineamientos y políticas de austeridad y ahorro exitosas, podrán ser beneficiados con programas de capacitación, becas y otros estímulos que definan (sic) la Secretaría de la Hacienda Pública.
 
 En el caso de los municipios se estará a lo dispuesto en sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 38.
+
+El Órgano Interno de Control correspondiente o, en su caso, la Contraloría del Estado, estarán facultados para vigilar el cumplimiento de lo señalado por esta Ley durante la gestión gubernamental de los entes públicos.
+
+En caso de advertir omisiones, infracciones o actos de corrupción que contravengan (sic) la presente Ley, deberá presentar las denuncias correspondientes, ante la o las autoridades competentes.
 
 T R A N S I T O R I O S
 
@@ -346,3 +360,11 @@ P.O. 15 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28370/LXII/21 QUE MODIFICA EL ARTÍCULO 24 DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28441/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 4, 18, 19 Y 34 Y SE ADICIONO EL ARTÍCULO 38 DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XVIII AL ARTÍCULO 48, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y EL NUMERAL 2 AL ARTÍCULO 54 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+PRIMERO: El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se otorga un plazo máximo de 120 días para que los entes públicos municipales, armonicen los reglamentos correspondientes.
