@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2021-08-28"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2773,9 +2773,11 @@ De considerar justificada la oposición, sin necesidad de atender a los demás r
 
 En caso de que la oposición no resulte justificada, se verificarán los demás requisitos previstos en la Ley y, de ser satisfechos, se procederá a otorgar la autorización solicitada por la mayoría calificada de vecinos.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 85.
 
-Cada Municipio podrá contar con un Consejo de Planeación Urbana Municipal, que se integrará con representantes de los sectores público, social y privado de la comunidad y servirá de auxiliar al Municipio en la planeación urbana. En los Municipios de más de setenta y cinco mil habitantes será obligatoria la existencia de este Consejo.
+Cada Municipio podrá contar con un Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, que se integrará con representantes de los sectores público, social y privado de la comunidad y servirá de auxiliar al Municipio en la planeación urbana. En los Municipios de más de cincuenta mil habitantes será obligatoria la existencia de este Consejo.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -2785,29 +2787,49 @@ La directiva del Consejo se integrará por una persona titular de la Presidencia
 
 La persona titular de la Presidencia tendrá voto de calidad; la persona titular de la Secretaría será la encargada de citar a las sesiones, levantar y autorizar, en unión de la persona titular de la Presidencia, en el libro destinado para el efecto, las actas de aquéllas y hacerse cargo de la correspondencia y el archivo.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 87.
 
-La persona titular de la Presidencia Municipal convocará a los grupos organizados de la comunidad para que integren el Consejo de Planeación Urbana Municipal, pudiendo estar integrado, si los hubiere en el Municipio, por:
+La persona titular de la Presidencia Municipal convocará a los grupos organizados de la comunidad para que integren el Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, pudiendo estar integrado, si los hubiere en el Municipio, por:
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 a) La o el representante del Gobierno del Estado;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 b) La o el representante del Gobierno Federal;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 c) Dos representaciones de la Administración Municipal;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 d) Dos Regidurías;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 e) La o el representante de la Cámara Nacional de la Industria de la Transformación;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 f) La o el representante del Centro Empresarial de Chihuahua;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 g) La o el representante de la Cámara Nacional de Comercio;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 h) La o el representante de la Cámara Nacional de la Industria de la Construcción;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 i) La o el representante de la Cámara de Propietarios de Bienes Raíces; y
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 j) Quienes el propio Consejo determine.
 
@@ -2829,9 +2851,11 @@ Las sesiones del Consejo se verificarán en el lugar que designe la persona titu
 
 El Consejo funcionará en Pleno y con la asistencia de más de la mitad de sus integrantes. Los acuerdos se tomarán por mayoría de votos de los presentes y tendrán carácter meramente consultivo no vinculante para el Municipio, pero la autoridad municipal de que se trate deberá razonar la negativa a las proposiciones que el Consejo formule.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 91.
 
-El Consejo de Planeación Urbana Municipal, queda facultado para:
+El Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, queda facultado para:
 
 I.- Participar en la formulación de los planes municipales de desarrollo urbano y los planes directores urbanos;
 
@@ -5626,3 +5650,59 @@ P.O. 28 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto por el artículo 180, sexto párrafo, cuya entrada en vigor será el día diez de septiembre del año dos mil veintiuno.
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/1048/2021 XIII P.E.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días naturales siguientes de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 39, de fecha 14 de mayo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias que se realicen en otros ordenamientos jurídicos del Estado a la Ley de Desarrollo Urbano Sostenible que se abroga, se entenderán hechas a la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los municipios contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto, para realizar las acciones y adecuaciones necesarias a sus disposiciones reglamentarias que permitan la correcta aplicación de esta Ley, en el ámbito de su competencia.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones administrativas expedidas en la materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las licencias, permisos y autorizaciones expedidas con anterioridad a la entrada en vigor de esta Ley, seguirán vigentes en los términos que fueron otorgadas. Las que se encuentren en trámite, continuarán el proceso de autorización de las etapas subsecuentes, según lo previsto en la ley vigente al inicio de la etapa o trámite que corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+En un plazo no mayor a seis meses contados a partir de la entrada en vigor de este Decreto, el Estado y los municipios deberán instalar o ratificar los órganos colegiados a que se refiere este ordenamiento.
+
+###### ARTÍCULO NOVENO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial de competencia estatal, deberán formularse o adecuarse y estar publicados, conforme a lo previsto en este ordenamiento, en un plazo no mayor a un año contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial de competencia municipal, deberán formularse o adecuarse y estar publicados, conforme a lo previsto en este ordenamiento, en un plazo no mayor a dos años contados a partir de la entrada en vigor del presente Decreto.
+
+El Estado, a través de la Secretaría de Desarrollo Urbano y Ecología, deberá apoyar y asesorar técnicamente a los municipios en la elaboración de los planes y programas de desarrollo urbano y ordenamiento territorial de su competencia.
+
+###### ARTÍCULO UNDÉCIMO.
+
+El Estado y los municipios deberán realizar las acciones conducentes para que en el ejercicio presupuestal del año 2022, se asignen los recursos necesarios para llevar a cabo la formulación y actualización de los planes y programas de desarrollo urbano y ordenamiento territorial correspondientes.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial que se encuentren vigentes a la fecha de entrada en vigor de esta Ley, continuarán en su vigencia y surtirán todos sus efectos legales hasta en tanto no se actualicen, según lo dispuesto por los artículos transitorios anteriores.
+
+ARTÍCULO DECIMOTERCERO.- El artículo 233 de la presente Ley entrará en vigor en un plazo de dos años contados a partir de la entrada en vigor del presente Decreto.
