@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2020-04-02"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -213,11 +213,17 @@ VI. Ley Orgánica de la Fiscalía General del Estado de Jalisco;
 
 VII. Ley Orgánica de la Procuraduría Social;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-VIII. La Jurisprudencia, los principios generales del Derecho, los usos y costumbres aplicables, y
+VIII. La Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios;
 
-IX. El acuerdo voluntario entre los participantes.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+IX. La Jurisprudencia, los principios generales del Derecho, los usos y costumbres aplicables; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2021)</small>
+
+X. El acuerdo voluntario entre los participantes.
 
 ###### Artículo 9.
 
@@ -741,15 +747,23 @@ El procedimiento en materia de medios de justicia alternativa es autónomo aunqu
 
 El procedimiento podrá iniciarse a petición de parte interesada, de su representante legal, a propuesta del Ministerio Público o por remisión de autoridad judicial, subsistiendo la permanencia en los métodos alternos conforme a la voluntad de las partes en términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 44.
 
-El interesado elevará ante el Centro o sede regional su petición verbal o escrita, debiendo expresar los antecedentes de la controversia que se pretenda resolver, el nombre y domicilio de la parte complementaria, terceros interesados, en su caso, y la declaración de someterse voluntariamente a resolver su asunto a través de alguno de los medios de justicia alternativa.
+El interesado elevará ante el Centro o sede regional su petición verbal, escrita o a través de medios electrónicos, debiendo expresar los antecedentes de la controversia que se pretenda resolver, el nombre, domicilio, teléfono y correo electrónico de la parte complementaria, terceros interesados, en su caso, y la declaración de someterse voluntariamente a resolver su asunto a través de alguno de los medios de justicia alternativa, manifestación de aceptación de que el procedimiento sea tramitado a través de la modalidad de medios electrónicos que para tal efecto el Instituto habilite y que cuenta con los requerimientos tecnológicos necesarios para llevar a cabo el procedimiento a través de dicha modalidad.
 
 La remisión planteada por autoridad judicial sólo podrá realizarse respecto de los procesos o juicios que se encuentren bajo su jurisdicción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 45.
 
-El procedimiento se desarrollará mediante sesiones orales, comunes o individuales, y por su confidencialidad no se levantará constancia de su contenido, ni menos aún de las aseveraciones que los participantes exponen, con excepción del acuerdo inicial y el convenio que ponga fin al conflicto o parte de este, que se asentará por escrito.
+El procedimiento se desarrollará mediante sesiones orales comunes o individuales, presenciales, por medios electrónicos o mixtas, y por su confidencialidad no se levantará constancia de su contenido, menos aún de las aseveraciones que los participantes exponen. Queda prohibido grabar o guardar respaldo del audio o del video.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2021)</small>
+
+Lo anterior, con excepción del acuerdo inicial, pacto de confidencialidad, y la lectura del convenio que ponga fin al conflicto o parte de este, que se asentará por escrito.
 
 Las declaraciones y manifestaciones que se realicen con motivo del procedimiento alternativo carecerán de valor probatorio, y no podrán emplearse en un procedimiento judicial.
 
@@ -769,9 +783,11 @@ El prestador del servicio está obligado a dar por terminado un procedimiento de
 
 #### SECCIÓN SEGUNDA. ETAPA PRELIMINAR
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 49.
 
-Una vez estudiada la solicitud de servicios de alguno de los medios de justicia alternativa, se determinará la viabilidad del más adecuado para la solución de la situación planteada, de ser procedente, se le notificará por escrito esta determinación al solicitante y, en su caso, se invitará a los demás interesados a la entrevista inicial.
+Una vez estudiada la solicitud de servicios de alguno de los medios de justicia alternativa, se determinará la viabilidad del más adecuado para la solución de la situación planteada, de ser procedente, se le notificará por escrito, correo electrónico o por medios electrónicos, esta determinación al solicitante y, en su caso, se invitará a los demás interesados a la entrevista inicial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
@@ -791,9 +807,9 @@ II. Número de asunto e invitación girada;
 
 III. Lugar y fecha de expedición;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-IV. Indicación del día, hora y lugar de celebración de la entrevista inicial;
+IV. Indicación del día, hora y lugar de celebración de la entrevista inicial, o datos para acceder a su desahogo electrónico;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -811,9 +827,13 @@ VII. Nombre del prestador con el que deberá tener contacto el invitado a la ent
 
 VIII. Nombre y firma del director del Centro o sede regional.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 51.
 
-La entrega de la invitación se podrá hacer por cualquier persona o medio cuando ello facilite la aceptación de la parte complementaria a acudir a la entrevista inicial.
+La entrega de la invitación se podrá hacer por cualquier persona o medio, incluyendo los electrónicos, cuando ello facilite la aceptación de la parte complementaria a acudir a la entrevista inicial y su deseo de participar a través de la modalidad de medios electrónicos.
+
+Cuando la parte complementaria no cuente con los requerimientos tecnológicos necesarios, pero sea su deseo participar a través de la modalidad de medios electrónicos, se le invitará a una sesión presencial, conforme lo dispone la presente Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -885,9 +905,11 @@ Cuando las partes acepten participar en el procedimiento, se les hará saber que
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 59.
 
-Inmediatamente después de que hubiere acuerdo de las partes y la conformidad del prestador respecto al procedimiento, se podrá desahogar la sesión de conocimiento del conflicto o en su caso se señalará hora y fecha para el desahogo de la misma.
+Inmediatamente después de que hubiere acuerdo de las partes y la conformidad del prestador respecto al procedimiento, se podrá desahogar la sesión de conocimiento del conflicto o en su caso se señalará hora y fecha para el desahogo de la misma. El desahogo de la sesión de conocimiento del conflicto podrá realizarse de manera presencial, por medios electrónicos o una combinación de ambas (sic).
 
 La sesión de conocimiento del conflicto se llevará a cabo conforme a las siguientes disposiciones:
 
@@ -929,9 +951,11 @@ II.- Señalar hora, lugar y fecha de su celebración;
 
 III.- Señalar los generales de las partes, así como el documento oficial con el que se identifiquen;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2021)</small>
 
-IV.- Contener la firma de quienes lo suscriben, del prestador de servicio y sanción del Instituto.
+IV.- Contener la firma electrónica avanzada y/o autógrafa de quienes lo suscriben, del prestador de servicio y sanción del Instituto.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 El convenio se levantará por escrito, entregándose un ejemplar a cada una de las partes, y conservándose otro en los archivos de la entidad a la que pertenezca el prestador del servicio y otro tanto ante el Instituto que lo sancionó;
 
@@ -939,11 +963,21 @@ V.- Especificar el contenido del acuerdo en forma clara y precisa, detallando la
 
 VI.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 El convenio se levantará por escrito, entregándose un ejemplar a cada una de las partes, y conservándose otro en los archivos de la entidad a la que pertenezca el prestador del servicio y otro tanto ante el juez que lo validó.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2021)</small>
+
+En caso de que las partes lleguen a un convenio a través de la modalidad de medios electrónicos se fijará fecha y hora para llevar a cabo la lectura del convenio, a través de la modalidad electrónica, debiéndose enviar la propuesta de convenio cuando menos con 48 horas de anticipación de la fecha programada, para que se presenten observaciones y correcciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2021)</small>
+
+El día y hora fijado para la lectura del convenio se dará lectura al mismo y se enviará en formato electrónico, dándose lectura, en caso de que las partes estén de acuerdo y no existan observaciones expresaran verbalmente su aceptación y sometimiento a las cláusulas y condiciones, levantándose constancia, en caso de existir más correcciones se fijará una nueva fecha.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2021)</small>
+
+En caso de ser procedente se firmará electrónicamente con firma electrónica o el medio que se habilite para tal efecto.
 
 ###### Artículo 64.
 
@@ -1019,8 +1053,6 @@ Para la ejecución forzosa del convenio sancionado, se deberá acudir al Juez de
 
 El procedimiento de métodos alternos se tendrá por concluido en los siguientes casos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
 I. Cumplimiento del convenio final del método alternativo;
@@ -1031,17 +1063,13 @@ III. Por resolución motivada del prestador del servicio cuando alguno de los pa
 
 IV. Por resolución motivada del prestador del servicio cuando tenga conocimiento de un hecho o acto ilícito que derive del conflicto que se pretende someter al método alternativo o del acuerdo que pudiera celebrarse;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
 V. Por decisión de alguna de las partes de no continuar con el procedimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
-
-VI. Por la inasistencia de la parte complementaria al Instituto o centro de mediación, sin causa justificada, por dos ocasiones previa notificación correspondiente;
+VI. Por la inasistencia de la parte complementaria al Instituto o centro de mediación o al desahogo por medios electrónicos, sin causa justificada, por dos ocasiones previa notificación correspondiente;
 
 VII. Cuando las partes hubieren aceptado participar en el procedimiento y alguno de ellos, o su representante, incurriere en desatención a tres citaciones sin causa justificada;
 
@@ -1388,3 +1416,11 @@ P.O. 2 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27807/LXII/20 QUE REFORMA EL ARTÍCULO 53 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28440/LXII/21 DEL CONGRESO DEL ESTADO QUE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 8, Y SE REFORMAN LOS ARTÍCULOS 44, 45, 49, 50, 51, 59, LA FRACCIÓN IV DEL 63 Y 76 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Instituto de Justicia Alternativa deberá realizar las adecuaciones presupuestales necesarias a efecto de que se encuentre en total operación la reforma implementada en un plazo no mayor a 180 días después de la entrada en vigor del presente decreto.
