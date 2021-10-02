@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2021-05-15"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -543,7 +543,9 @@ Los ayuntamientos de los municipios integrados al sistema estatal promoverán la
 
 I. Coadyuvar en la integración del Registro Estatal de Cultura Física y el Deporte, con el fin de mantener actualizada la información del mismo;
 
-II. Coadyuvar, organizar y coordinar las actividades de cultura física y deporte;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+II. Coadyuvar, organizar y coordinar las actividades de cultura física y deporte, para lo cual deberán fomentar la activación física y la práctica de algún deporte a través de las páginas web, las redes sociales oficiales, plataformas digitales o cualquier otro medio electrónico que este bajo la responsabilidad de cada ayuntamiento;
 
 III. Promover la creación y apoyar a los organismos locales que desarrollen actividades de cultura física y deporte y que estén incorporados al sistema estatal;
 
@@ -1134,3 +1136,11 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28372/LXII/21 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 16 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28443/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 47 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los ayuntamientos dispondrán de un plazo de 60 días naturales para adecuar sus reglamentos y dar así cumplimiento al presente decreto.
