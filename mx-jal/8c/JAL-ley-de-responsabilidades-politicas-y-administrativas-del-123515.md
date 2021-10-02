@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2021-09-09"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -553,23 +553,27 @@ XVI. Respetar y hacer respetar el derecho a la formulación de quejas y denuncia
 
 XVII. Responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa;
 
-XVIII. Rendir cuentas sobre el ejercicio de sus funciones, en términos de las normas aplicables;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+XVIII. Observar, respetar y aplicar las reglas para el ahorro, gasto eficiente, racional y honesto de los recursos públicos, señalados en la Ley de Austeridad y Ahorro del Estado de Jalisco.
+
+XIX. Rendir cuentas sobre el ejercicio de sus funciones, en términos de las normas aplicables;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-XIX. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
+XX. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XX. Observar el código de ética que emitan los respectivos órganos internos de control;
+XXI. Observar el código de ética que emitan los respectivos órganos internos de control;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XXI. Cometer actos y omisiones en el ejercicio de su encargo, considerados como tipos o modalidades de violencia en razón de género, previstas en las leyes aplicables; y
+XXII. Cometer actos y omisiones en el ejercicio de su encargo, considerados como tipos o modalidades de violencia en razón de género, previstas en las leyes aplicables; y
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XXII. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, independientemente del nivel jerárquico en que se encuentre la persona responsable, como quien lo resienta.
+XXIII. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, independientemente del nivel jerárquico en que se encuentre la persona responsable, como quien lo resienta.
 
 ###### Artículo 49.
 
@@ -833,6 +837,10 @@ En el caso de los entes constitucionalmente autónomos, se presentará ante el C
 
 1. Los órganos internos de control conocerán de los procedimientos de responsabilidad administrativa por faltas administrativas no graves y resolverán los recursos de revocación en los términos de la Ley General de Responsabilidades Administrativas.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+2. De igual manera estarán facultados para vigilar y, en su caso, sancionar a los servidores públicos que no cumplan con las disposiciones señaladas en la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 55.
@@ -1038,3 +1046,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28441/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 4, 18, 19 Y 34 Y SE ADICIONA EL ARTÍCULO 38 DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XVIII AL ARTÍCULO 48, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y EL NUMERAL 2 AL ARTÍCULO 54 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
+
+PRIMERO: El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO: Se otorga un plazo máximo de 120 días para que los entes públicos municipales, armonicen los reglamentos correspondientes.
