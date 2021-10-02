@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2021-09-09"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -85,7 +85,9 @@ IV. Eficacia: el fin último de la coordinación y asociación municipal es el m
 
 4. Área Metropolitana Interestatal: es el centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios pertenecientes al Estado de Jalisco y a una o más entidades federativas, reconocida como zona metropolitana administrativamente por los procedimientos y leyes aplicables.
 
-5. Banco de Proyectos Metropolitanos: es el mecanismo que administra el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda que identifica, evalúa, prioriza y programa los proyectos con impacto metropolitano en relación a su capacidad para atender las prioridades metropolitanas y que pueden ser objeto de las fuentes de financiamiento de las acciones metropolitanas, contemplando, entre otros, el fondo metropolitano.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+5. Banco de Proyectos Metropolitano: es el mecanismo que administra el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda que identifica, evalúa, prioriza y programa los proyectos con impacto metropolitano en relación a su capacidad para atender las prioridades metropolitanas y que pueden ser objeto de las fuentes de financiamiento de las acciones metropolitanas, contemplando, entre otros, el fondo metropolitano.
 
 6. Desarrollo metropolitano urbano: es el proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en un Área Metropolitana, que, por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones; busca garantizar el mejoramiento de la calidad de vida de la población, preservar el ambiente, así como la conservación y reproducción de los recursos naturales.
 
@@ -577,7 +579,9 @@ II. La regulación de la organización y funcionamiento de dichas instancias, de
 
 Aprobación y publicación del estatuto orgánico.
 
-1. El estatuto orgánico para la constitución de un área o región metropolitana y sus reformas deberán ser aprobados por la Junta de Coordinación Metropolitana de manera unánime.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+1. El estatuto orgánico para la constitución de un área o región metropolitana y sus reformas deberán ser validados por la Junta de Coordinación Metropolitana y aprobados por los Plenos de los municipios correspondientes.
 
 2. En el supuesto de un área o región metropolitana de reciente creación, los municipios que la integran deberán instalar una Comisión temporal por la gobernanza metropolitana, que elaborará el proyecto del estatuto orgánico de las instancias de coordinación respectivas. Previa aprobación de los presidentes municipales y el Gobernador, el proyecto deberá ser turnado a los plenos de los ayuntamientos para su aprobación respectiva en cada uno de ellos.
 
@@ -773,9 +777,9 @@ Funcionamiento de la Junta.
 
 1. La Junta requiere la asistencia de más de la mitad de sus integrantes para sesionar válidamente. Las sesiones son públicas, salvo aquellas que por excepción se celebren con carácter de reservadas, previo acuerdo de la Junta que determine y justifique que el interés público sujeto a deliberación atiende a un valor preponderante sobre el interés público de acceso y disponibilidad inmediata. La Junta debe sesionar cuando menos una vez al mes.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-2. Los Acuerdos de la Junta se tomarán por unanimidad de sus integrantes. Cuando lo anterior no se logre en la primera votación, el asunto en cuestión deberá ser turnado para discusión en la sesión inmediata posterior, en la cual bastará para su aprobación mayoría calificada.
+2. Los Acuerdos de la Junta se tomarán por unanimidad de sus integrantes presentes en la sesión que corresponda. Cuando lo anterior no se logre en la primera votación, el asunto en cuestión deberá ser turnado para discusión en la sesión inmediata posterior, en la cual bastará para su aprobación mayoría calificada.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2019)</small>
 
@@ -803,7 +807,9 @@ IV. No haber sido condenado por delito doloso, y
 
 V. Los demás requisitos que señale el estatuto orgánico.
 
-3. El director es designado por la Junta, de entre las propuestas que presenten sus integrantes, dura en su cargo cuatro años y puede ser reelecto hasta por dos periodos subsecuentes más.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
+3. El director será designado por el voto unánime de los presidentes de los municipios del Área Metropolitana y el Gobierno del Estado en sesión de la Junta, de entre las propuestas que presenten éstos; durará en su cargo cuatro años y podrá ser reelecto hasta por dos periodos subsecuentes más.
 
 4. El director es suplido en sus ausencias temporales por el servidor público del nivel jerárquico inmediato inferior que determine el estatuto orgánico.
 
@@ -1352,3 +1358,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28447/LXII/21 QUE REFORMA LOS ARTÍCULOS 3, 25, 29 Y 30 DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
