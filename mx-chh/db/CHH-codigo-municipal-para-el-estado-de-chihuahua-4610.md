@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2021-08-28"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,43 @@ state: "CHH"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-REGLAMENTO INTERNO DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE NAYARIT
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL
+CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 28 de abril de 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
-Con fundamento en el artículo 48 de la Ley Orgánica del Poder Ejecutivo y en uso de la facultad que el artículo décimo primero fracción IX, del Decreto 8173, que crea el Organismo descentralizado denominado Instituto de Capacitación para el Trabajo del Estado de Nayarit, la Junta de Gobierno tiene a bien expedir su:
+Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
-REGLAMENTO INTERNO DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE NAYARIT
+EL CIUDADANO CONTADOR PUBLICO FRANCISCO JAVIER BARRIO TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
+
+DECRETO:
+
+DECRETO NO. 850/95 XVIII P.E.
+
+LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DÉCIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
+
+DECRETA:
+
+Unico.- Se expide el Código Municipal para el Estado de Chihuahua para quedar en los siguientes términos:
+
+CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
 # LIBRO PRIMERO. DE LA ORGANIZACION MUNICIPAL
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-### CAPITULO I. DE LA PERSONALIDAD, OBJETO Y FACULTADES
+### CAPITULO UNICO
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
-El objeto de este Reglamento es la organización y funcionamiento del Instituto de Capacitación para el Trabajo del Estado de Nayarit, asimismo, determina las facultades y obligaciones de sus funcionarios, la competencia de sus Unidades Administrativas de conformidad con el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit, la Ley General de Educación, la Ley de Educación para el Estado de Nayarit, el Decreto Legislativo número 8 173 que crea a el Instituto, el Convenio de Coordinación celebrado por el Gobierno del Estado de Nayarit la Secretaría de Educación Pública, y demás ordenamientos legales y administrativos, aplicables a su competencia.
+###### ARTICULO 1.
+
+Este Código, contiene las normas a que se sujetará la organización interior del ayuntamiento y el funcionamiento de la administración pública municipal en el Estado de Chihuahua, reglamentando las disposiciones relativas a los Municipios, contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 1 Bis.
 
@@ -61,37 +79,33 @@ VII. Establecer los procedimientos de impugnación de actos del Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
-###### ARTICULO 2°.
+###### ARTICULO 2.
 
-Para los efectos de este reglamento se entenderá por:
+La actividad del gobierno municipal, se regirá también:
 
-I. LA SEP: La Secretaría de Educación Pública Federal.
+I.- Por las normas de carácter federal o local que deleguen funciones a los órganos municipales o les atribuyan la calidad de auxiliares en la ejecución de dichas disposiciones;
 
-II. El INSTITUTO: El Instituto de Capacitación para el Trabajo del Estado de Nayarit.
+II.- Por las leyes de carácter estatal, diversas a este Código que regulen materias propias de la competencia municipal;
 
-III. LA SEDECO.- La Secretaria de Desarrollo Económico.
+III.- Por los convenios que, con apego a los preceptos legales, celebre el Gobierno del Estado con las dependencias de la Administración Federal y con los Ayuntamientos; y
 
-IV. LA JUNTA: La Junta Directiva de El Instituto.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
-V. EL DIRECTOR: El Director General de El Instituto.
+IV.- Por los reglamentos, acuerdos y circulares y demás disposiciones de carácter general en las materias de su competencia, dictados con apoyo y dentro de las limitaciones de las normas que regulan la organización, competencia y funcionamiento de la administración municipal.
 
-VI. LOS DIRECTIVOS: Los Directores de Área.
+###### ARTICULO 3.
 
-VII. LOS DIRECTORES: Los Directores de los Planteles.
+Los Municipios tendrán derecho, a determinar la forma particular de su organización administrativa y de formular su reglamento orgánico, el que deberá ser sometido al Ayuntamiento para su aprobación, en base a la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y el presente Código.
 
-VIII. EL PATRONATO: El Patronato del Instituto de Capacitación para el Trabajo del Estado de Nayarit;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
-IX.- LOS CONSEJOS: Los Consejos Técnico Consultivos de los Planteles.
+El Ayuntamiento es la autoridad competente para interpretar la legislación municipal y dictar las disposiciones generales o particulares que se requieran para su eficaz cumplimiento.
 
-X. LOS ACADEMICOS: El Personal Académico de el Instituto.
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XI. LOS ADMINISTRATIVOS: El Personal Administrativo de el Instituto.
+Esta interpretación debe preservar la perspectiva de derechos humanos, de género, e interculturalidad, así como los principios constitucionales y aquellos establecidos en el presente Código.
 
-XII. EL DECRETO: Decreto de creación. No. 8173 del Instituto de Capacitación para el Trabajo del Estado de Nayarit.
-
-###### ARTICULO 3°.
-
-EL INSTITUTO es un organismo público descentralizado del Poder Ejecutivo del Estado de Nayarit, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Tepic, Nayarit.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 3 Bis.
 
@@ -117,165 +131,347 @@ V. Ley para Prevenir y Eliminar la Discriminación en el Estado de Chihuahua; y
 
 VI. Las demás disposiciones en materia de derechos humanos de las mujeres.
 
-###### ARTICULO 4°.
+###### ARTICULO 4.
 
-EL INSTITUTO contará con personal académico y administrativo y su desempeño laboral se sujetará a la disposición que dicte la autoridad competente de conformidad con la Ley Federal del Trabajo.
+Sin menoscabo de la libertad municipal, los municipios deberán coordinarse dentro de lo posible, en la programación y funcionamiento de los servicios que presten en la comunidad y en la realización de las obras públicas, a la acción de las administraciones federal y estatal como actitud básica para el fortalecimiento del federalismo.
 
-###### ARTICULO 5°.
+###### ARTICULO 5.
 
-Son atribuciones de EL INSTITUTO las siguientes:
+En el Estado de Chihuahua, no habrá autoridad intermedia entre los Ayuntamientos y los Poderes del Estado.
 
-I. Impartir capacitación para y en el trabajo en las áreas industrial, agropecuaria, comercial y de servicios, en sus planteles o en coordinación con otras instancias, ya sean públicas o privadas;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
-II. Observar las disposiciones académicas correspondientes a la capacitación formal para yen el trabajo que establece LA SEP, por conducto de la Subsecretaría de Educación Pública e Investigación Tecnológicas "SEIT" y de la Dirección General de Centros de Formación para el Trabajo;
+###### ARTÍCULO 6.
 
-III. Elaborar el programa educativo en base a las políticas que para el logro de los objetivos y prioridades de la planeación estatal establezca el Ejecutivo del Estado;
+Con el fin de permitir la participación de la ciudadanía en el quehacer municipal, se establecen los instrumentos: Iniciativa Ciudadana, Plebiscito, Referéndum y Revocación de Mandato.
 
-IV. Expedirá constancias y diplomas para acreditar y certificar conocimientos, independientemente de la forma en que se hayan adquirido, y a quienes hayan acreditado plenamente uno o mas cursos de los que corresponden a las especialidades que imparte EL INSTITUTO, conforme a la normatividad vigente emitida por LA SEP, a través de la Dirección General de Centros de Formación para el Trabajo;
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-V. En los cursos especiales de capacitación o actualización que imparta EL INSTITUTO al personal DIRECTIVO, ADMINISTRATIVO, ó ACADÉMICO, se les otorgarán los diplomas o constancias a quienes lo acrediten;
+Quienes promuevan la Iniciativa Ciudadana, tendrán el derecho de nombrar a quien les represente para que participe con voz en las sesiones del Ayuntamiento que tengan por objeto analizar la misma. Dichas sesiones deberán realizarse a más tardar dentro de los tres meses siguientes a la presentación de la iniciativa.
 
-VI. Ejercer el presupuesto que el Gobierno Estatal destine para la operación y apoyo financiero de EL INSTITUTO, a efecto de impulsar y consolidar los programas de capacitación para y en el trabajo en la Entidad, así como las aportaciones que para el mismo objeto efectúen el Gobierno Federal, los Ayuntamientos, los sectores social y privado, y demás ingresos que obtenga por cualquier otro concepto;
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-VII. Celebrar convenios, contratos y acuerdos con los sectores productivos de bienes y servicios Público, social o privado, así como con otras instituciones nacionales e internacionales de capacitación para el trabajo;
+Para la erección o supresión de los Municipios deberá someterse a plebiscito.
 
-VIII. Elaborar todas aquellas disposiciones legales y reglamentarias para el logro de sus fines;
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
 
-IX. Crear un órgano de vinculación entre El INSTITUTO y cada una de las unidades dependientes de este, con el sector productivo de bienes y servicios, que le permita realizar sus actividades de capacitación, en sus propias instalaciones, en los espacios que dicho sector destine o en las respectivas empresas, de manera indistinta y previo acuerdo entre las partes; y
+###### ARTICULO 7.
 
-X. Las que señale el Ejecutivo del Estado, a través de LA SEDECO y sus ordenamientos, así como las disposiciones federales aplicables para el logro de su objetivo.
-
-###### ARTICULO 6°.
-
-Son Órganos de Gobierno de EL INSTITUTO:
-
-I. LA JUNTA DIRECTIVA; y
-
-II. EL DIRECTOR GENERAL.
-
-###### ARTICULO 7°.
-
-Son órganos consultivos y de apoyo al financiamiento de EL INSTITUTO: EL PATRONATO y LOS CONSEJOS.
+La organización, desarrollo y procedimientos de las anteriores figuras, se llevarán de conformidad a lo que establezca la ley de la materia.
 
 ## TITULO SEGUNDO. ORGANIZACION POLITICA MUNICIPAL
 
-### CAPITULO II. DE LOS ORGANOS DE GOBIERNO Y DE LAS AUTORIDADES DE EL INSTITUTO
+### CAPITULO I. DE LA DIVISION TERRITORIAL
 
-###### ARTICULO 8°.
+###### ARTICULO 8.
 
-LA JUNTA es el órgano rector de EL INSTITUTO, responsable de fijar las políticas, programas, objetivos y metas del organismo, de conformidad con el artículo 5° de EL DECRETO.
+El Estado de Chihuahua se divide en sesenta y siete Municipios con personalidad jurídica y patrimonio propios, los cuales son la base de su organización territorial, política y administrativa.
 
-De acuerdo con el artículo 6° de EL DECRETO, LA JUNTA se integra por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
-I. El Gobernador Constitucional del Estado, quien la presidirá, o bien la persona que se sirva designar en su caso.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que será auxiliado en sus funciones:
 
-II. Un Representante del Gobierno del Estado, nombrado por el Titular del Ejecutivo Estatal.
+I.- En las secciones municipales, por las juntas municipales; y
 
-III. Dos Representantes del Gobierno Federal, designados por LA SEP.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV. Un Representante del Gobierno Municipal, designado por el Ayuntamiento donde se ubiquen las unidades de capacitación autorizadas;
+II.- En las demás poblaciones, por la Comisaría de Policía.
 
-V. Tres Representantes del Sector Productivo, que participen en el financiamiento de EL INSTITUTO mediante un PATRONATO constituido para apoyar la operación del mismo, estos representantes serán designados por el propio PATRONATO de conformidad con sus estatutos. Por cada representante se designará un suplente, quién deberá ser acreditado debidamente ante LA JUNTA y asistirá en ausencia del titular, a las sesiones ordinarias y extraordinarias del mismo.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTICULO 9°.
+###### ARTICULO 9.
 
-De conformidad con lo señalado en el artículo 7º de EL DECRETO, asistirán a las sesiones de LA JUNTA con voz pero sin voto:
-
-I. EL DIRECTOR,
-
-II. El Comisario que al efecto designe la Contraloría del Gobierno del Estado; y
-
-III. El Secretario que será designado por LA JUNTA a propuesta del Presidente.
+Son elegibles para el cargo de integrantes de un Ayuntamiento, de Junta Municipal y Comisarías de Policía, la ciudadanía que reúna los requisitos que exige para tales cargos la Constitución Política del Estado de Chihuahua.
 
 ###### ARTICULO 10.
 
-Las sesiones se considerarán válidas cuando se cuente con mas del cincuenta por ciento de los integrantes de LA JUNTA.
+Las autoridades Municipales actuarán dentro de la esfera de competencia que les concedan los ordenamientos jurídicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 11.
 
-LA JUNTA tiene las siguientes atribuciones:
+El Estado se divide en los siguientes municipios:
 
-I. Establecer las políticas generales para el desarrollo de las actividades de EL INSTITUTO;
+I.- AHUMADA, con cabecera en la ciudad denominada Miguel Ahumada y la sección municipal de Carrizal;
 
-II. Estudiar, y en su caso aprobar y/o modificar los proyectos de planes y programas de estudio, para que sean autorizados por LA SEP;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1996)</small>
 
-III. Aprobar, supervisar y evaluar los programas de EL INSTITUTO;
+II.- ALDAMA, con cabecera en la Ciudad denominada Juan Aldama y las Secciones Municipales de El Pueblito, Maclovio Herrera, Placer de Guadalupe, San Diego de Alcalá y La Mesa;
 
-IV. Examinar y aprobar el anteproyecto del presupuesto anual de egresos de EL INSTITUTO y la estimación de ingresos correspondientes;
+III.- ALLENDE, con cabecera en el pueblo denominado Valle de Ignacio Allende, y las secciones municipales del Pueblito de Allende, Talamantes y Colonia Búfalo;
 
-V. Examinar, discutir y en su caso aprobar los informes trimestrales y anuales de actividades que le presente EL DIRECTOR;
+IV.- AQUILES SERDAN, con cabecera en el pueblo denominado Santa Eulalia, y la sección municipal de Santo Domingo;
 
-VI. Nombrar a LOS DIRECTORES, de una terna propuesta por el DIRECTOR;
+(REFORMADA, P.O. 20 DE JULIO DE 2002)(REPUBLICADA, P.O. 31 DE JULIO DE 2002)
 
-VII. Remover a LOS DIRECTORES, a propuesta de EL DIRECTOR o a propuesta de la mayoría de sus miembros;
+V.- ASCENSION, con cabecera en el pueblo del mismo nombre y la sección municipal de Puerto Palomas de Villa;
 
-VIII. Aceptar o no, las donaciones o legados y demás aportaciones que se otorguen a favor de EL INSTITUTO;
+VI.- BACHINIVA, con cabecera en el pueblo del mismo nombre y la sección municipal de El Porvenir;
 
-IX. Aprobar el Reglamento Interno, el Manual General de Organización así como los demás instrumentos normativos que rigen a EL INSTITUTO, y modificar los mismos cuando esto proceda.
+VII.- BALLEZA, con cabecera en el pueblo denominado Mariano Balleza, y las Secciones Municipales de Baquiriachi, Cristóbal Colón, General Carlos Pacheco, San Juan y El Vergel;
 
-X. Ejercer las demás funciones que en su calidad de órgano de gobierno de EL INSTITUTO le otorguen otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-###### ARTICULO 12.
+VIII.- BATOPILAS DE MANUEL GÓMEZ MORÍN, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerro Colorado, Polanco, Yoquivo y San Ignacio;
 
-LA JUNTA, nombrará a propuesta de su Presidente al Secretario de Actas, quien tendrá las siguientes facultades y obligaciones:
+IX.- BOCOYNA, con cabecera en el pueblo del mismo nombre y las secciones municipales de Ciénega de Guacayvo, Creel, San Juanito y Sisoguichi;
 
-I. Preparar la relación de asuntos a tratar en cada sesión;
+X.- BUENAVENTURA, con cabecera en el pueblo de San Buenaventura y las secciones municipales de Flores Magón, El Progreso y Ejido Benito Juárez;
 
-II. Distribuir a sus integrantes las convocatorias a sesiones de trabajo ordinarias y extraordinarias, señalándoles fecha, lugar y hora de su realización y entregándoles el orden del día;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-III. Registrar la asistencia del Quórum en las sesiones, levantar el acta respectiva y recabar las firmas de sus asistentes,
+XI.- CAMARGO, con cabecera en la Ciudad denominada Santa Rosalía de Camargo, y la sección municipal de "La Perla";
 
-IV. Dar lectura al acta de la sesión anterior y someterla a la consideración de LA JUNTA para su aprobación y/o modificación; y
+XII.- CARICHI, con cabecera en el pueblo del mismo nombre y la Sección Municipal de Ciénega de Ojos Azules;
 
-V. Llevar el registro y seguimiento de los acuerdos de LA JUNTA.
+XIII.- CASAS GRANDES, con cabecera en el pueblo del mismo nombre;
+
+XIV.- CORONADO, con cabecera en el pueblo denominado José Esteban Coronado.
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2000)</small>
+
+XV.- COYAME DEL SOTOL, con cabecera en el pueblo denominado Santiago de Coyame y las Secciones Municipales de Cuchillo Parado y El Carrizo;
+
+XVI.- CUAUHTEMOC, con cabecera en la ciudad del mismo nombre y las Secciones Municipales de Colonia Anahuac, Colonia Obregón y Lázaro Cárdenas;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1998)</small>
+
+XVII.- CUSIHUIRIACHI, con cabecera en el pueblo del mismo nombre, y las Secciones Municipales de Cerro Prieto, Coyachi y San Juan Bautista;
+
+XVIII.- CHIHUAHUA, con cabecera en la capital del Estado y las Secciones Municipales de Ciénega de Ortiz, Colonia Soto, El Charco, Guadalupe y El Sauz;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2018)</small>
+
+XIX.- CHÍNIPAS, con cabecera en el pueblo de Chínipas de Almada y las secciones municipales de Guadalupe Victoria, Ignacio Valenzuela Lagarda, Norogachi, Milpillas y Palmarejo;
+
+XX.- DELICIAS, con cabecera en la ciudad del mismo nombre.
+
+> <small>(F. DE E., P.O. 8 DE SEPTIEMBRE DE 1999)</small>
+
+XXI.- DR. BELISARIO DOMINGUEZ, con cabecera en el pueblo denominado San Lorenzo, y las secciones municipales de Santa María de Cuevas, Santa Rosalía de Cuevas, Tutuaca y Ciénega de Loya;
+
+XXII.- EL TULE, con cabecera en el pueblo del mismo nombre y la sección municipal de Baqueteros;
+
+XXIII.- GALEANA, con cabecera en el pueblo denominado Hermenegildo Galeana;
+
+XXIV.- GOMEZ FARIAS, con cabecera en el pueblo denominado Valentín Gómez Farías; y la sección municipal de Peña Blanca;
+
+XXV.- GRAN MORELOS, con cabecera en el pueblo denominado San Nicolás de Carretas y las secciones municipales de la Paz, Santa Cruz de Mayo y Laborcita de San Javier;
+
+XXVI.- GUADALUPE, con cabecera en el pueblo del mismo nombre y las (sic) sección municipal de Vado de Cedillos;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+
+XXVII.- GUADALUPE Y CALVO, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana, Atascaderos, Turuachi, Barbechitos y Rancho de Enmedio.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2020)</small>
+
+XXVIII.- GUACHOCHI, con cabecera en la Ciudad del mismo nombre y las secciones municipales de Tónachi, Rocheachi, Norogachi, Basiguare, La Ciénega y Samachique;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+XXIX.- GUAZAPARES, con cabecera en el pueblo de Témoris y las Secciones Municipales de Guazapares, Monterde, Tepochique y Corarayvo.
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XXX. GUERRERO, con cabecera en la ciudad denominada Ciudad Guerrero y las Secciones Municipales de Arisiachi, Basúchil, Guadalupe, Jesús Lugo, La Junta, Miñaca, Pascual Orozco, Pachera, Pahuírachi, Pedernales, Calera, Pichachí, Rancho Colorado, Ranchos de Santiago, San José de Baquiachi, Santo Tomás, San Pablo de la Sierra, Temechi, Tomochi y Estación Terrero.
+
+XXXI.- HIDALGO DEL PARRAL; con cabecera en la ciudad del mismo nombre y las (sic) sección municipal de Villa Escobedo;
+
+XXXII.- HUEJOTITAN; con cabecera en el pueblo del mismo nombre y las (sic) sección municipal de Pichague;
+
+XXXIII.- IGNACIO ZARAGOZA; con cabecera en el pueblo del mismo nombre y la sección municipal de Allende;
+
+XXXIV.- JANOS; con cabecera en el pueblo del mismo nombre;
+
+XXXV.- JIMÉNEZ; con cabecera en la ciudad denominada José Mariano Jimenez, y la sección municipal de Escalón;
+
+XXXVI.- JUAREZ; con cabecera en la ciudad del mismo nombre y la sección municipal de Samalayuca;
+
+XXXVII.- JULIMES; con cabecera en el pueblo del mismo nombre;
+
+XXXVIII.- LA CRUZ; con cabecera del pueblo del mismo nombre;
+
+XXXIX.- LOPEZ; con cabecera en el pueblo denominado Octaviano López;
+
+XL.- MADERA; con cabecera en la ciudad del mismo nombre y las secciones municipales de Dolores, Nicolás Bravo, Chuhuichupa, las Varas y el Largo;
+
+XLI.- MAGUARICHI; con cabecera en el pueblo del mismo nombre;
+
+XLII.- MANUEL BENAVIDES; con cabecera en el pueblo del mismo nombre;
+
+XLIII.- MATACHI; con cabecera en el pueblo del mismo nombre y la sección municipal de Tejolocachi;
+
+XLIV.- MATAMOROS; con cabecera en el pueblo denominado Mariano Matamoros;
+
+XLV.- MEOQUI; con cabecera en la ciudad denominada Pedro Meoqui y las secciones municipales de Guadalupe Victoria y Lázaro Cárdenas;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XLVI.- MORELOS, con cabecera en el pueblo del mismo nombre y la sección municipal de El tablón;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2003)</small>
+
+XLVII.- MORIS, con cabecera en el pueblo del mismo nombre y las secciones municipales de "Bermúdez" y de "El Pilar";
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1997)</small>
+
+XLVIII.- NAMIQUIPA; con cabecera en el pueblo del mismo nombre y las secciones municipales de Cruces, Santa Ana, El Terrero, Santa Clara y Benito Juárez;
+
+XLIX.- NONOAVA; con cabecera en el pueblo del mismo nombre;
+
+L.- NUEVO CASAS GRANDES; con cabecera en la ciudad del mismo nombre;
+
+LI.- OCAMPO; con cabecera en el pueblo denominado Melchor Ocampo y las secciones municipales de Agua Caliente, Basaseachi, Cajurichi, Candameña, Pinos Altos, Yoquivo y Huajumar;
+
+LII.- OJINAGA; con cabecera en la ciudad denominada Manuel Ojinaga y las secciones municipales de El Mulato, Potrero del Llano, San Antonio del Bravo, San Juan y Vado de Piedra;
+
+LIII.- PRAXEDIS G. GUERRERO; con cabecera en el pueblo del mismo nombre y la sección municipal de El Porvenir,
+
+LIV.- RIVA PALACIO; con cabecera en el pueblo de San Andrés y la sección municipal de Sainapuchi;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2002)</small>
+
+LV.- ROSALES, con cabecera en el pueblo de Santa Cruz de Rosales y las secciones municipales de San Pedro de Conchos y Barranco Blanco;
+
+LVI.- ROSARIO; con cabecera en el pueblo denominado Valle del Rosario y las secciones municipales de Juan Mendoza, San Javier, San Nicolás del Cañón y Valle de Olivos;
+
+LVII.- SAN FRANCISCO DE BORJA; con cabecera en el pueblo del mismo nombre y la sección municipal de Santa Ana;
+
+LVIII.- SAN FRANCISCO DE CONCHOS; con cabecera en el pueblo del mismo nombre y la sección municipal de Boquilla de Babisas;
+
+LIX.- SAN FRANCISCO DEL ORO; con cabecera en el pueblo del mismo nombre;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2006)</small>
+
+LX.- Santa Bárbara; con cabecera del mismo nombre;
+
+LXI.- SANTA ISABEL; con cabecera en el pueblo del mismo nombre;
+
+LXII.- SATEVO; con cabecera en el pueblo denominado San Francisco Javier de Satevó y las secciones municipales de Babonoyaba, La Joya, San Antonio de los Chacón y San José del Sitio;
+
+LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones municipales de Naica y las Varas;
+
+(REFORMADA, P.O. 28 DE FEBRERO DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+
+LXIV.- TEMÓSACHIC, con cabecera en el pueblo del mismo nombre y sus Secciones Municipales de Babícora de Conoachic, Cocomórachic, Tosanachic, Tutuaca, Yepachic y Yepómera;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
+
+LXV.- URIQUE, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo, Corareachi y Guapalayna;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2013)</small>
+
+LXVI.- URUACHI, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Batopilillas, El Rebaje y Rocoroyvo.
+
+LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secciones municipales de El Velduque y San Felipe;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 6 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 12.
+
+Las municipalidades, secciones municipales y comisarías de policía, comprenderán las haciendas, rancherías, ejidos, congregaciones y demás centros de población que se encuentren enclavados dentro de sus respectivos límites, sancionados por la tradición y la costumbre.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Los conflictos relativos a límites territoriales que se susciten entre dos o más municipios, podrán arreglarse por ellos de común acuerdo, y ser ratificados por el Congreso del Estado, en base al procedimiento establecido en la Ley de Límites Intermunicipales del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+En caso de que los municipios no lleguen a un acuerdo, podrán seguir el procedimiento ante el Poder Judicial del Estado, de conformidad con lo establecido en la Ley de Límites Intermunicipales del Estado de Chihuahua.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 13.
 
-EL DIRECTOR será designado por el Gobernador Constitucional del Estado, conforme a EL DECRETO y será el responsable del buen funcionamiento de EL INSTITUTO.
+El Congreso del Estado podrá, por el voto de los dos tercios de las y los diputados presentes, previa consulta mediante plebiscito al electorado residente en los municipios de que se trate, erigir nuevos Municipios dentro de los límites de los ya existentes y suprimir aquellos que no reúnan las condiciones legales, siendo necesario para ambos casos:
 
-### CAPITULO III. DE LA JUNTA DIRECTIVA
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Que lo solicite, cuando menos, uno de los Ayuntamientos de los municipios involucrados; el diez por ciento del electorado residente en éstos, debidamente identificado o la tercera parte de las y los integrantes del Congreso;
+
+II.- Que la región que pretenda erigirse en Municipio, cuente con una población no menor de veinte mil habitantes, lo que se acreditará con el censo respectivo;
+
+III.- Que la referida región, cuente con los recursos económicos suficientes, para cubrir, a criterio del propio Congreso, la organización y funcionamiento de la administración del Municipio;
+
+IV.- Que los Ayuntamientos de cuyo territorio se trate, expresen al Congreso del Estado su opinión, debidamente fundada sobre la conveniencia o inconveniencias en la creación del nuevo municipio, debiendo hacerlo por escrito dentro de los sesenta días siguientes a la fecha en que se les comunique la solicitud;
+
+V.- Que el Ejecutivo del Estado, rinda asimismo, un informe al Congreso sobre dicho asunto, dentro de los sesenta días siguientes a la fecha en que le sea solicitado; y
+
+VI.- Que a criterio del Congreso del Estado, no afecte la subsistencia del, o los Municipios de cuyo territorio se trate.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Cuando la solicitud sea presentada por el diez por ciento del electorado residente en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de las y los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, la o el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa ciudadana.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
+
+ARTICULO 13 BIS.- Los centros de población de los municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. Los Ayuntamientos determinarán la categoría correspondiente, según satisfagan las características, condiciones y requisitos que deberán reunir los centros de población atendiendo a las siguientes:
+
+BASES:
+
+I.- Estas disposiciones tienen por objeto la promoción del desarrollo urbano y rural, a través del crecimiento ordenado y armónico de las distintas regiones que integran el Estado de Chihuahua.
+
+II.- Se entenderá por categorías de centros de población a la clasificación otorgada por el Ayuntamiento respectivo, en base a la estructura de los servicios públicos que prestan, el grado de concentración demográfica y su importancia estratégica.
+
+III.- Las categorías de los centros de población de los municipios se clasifican en:
+
+A) Ciudad.- A los centros de población ubicados en superficies definidas, dotados de estructura urbana para la prestación de los servicios públicos que mejoren el nivel de vida de la comunidad.
+
+Para el efecto del inciso anterior, se deberá contar con la infraestructura necesaria para el desarrollo de la industria, del comercio, del turismo y cualquier otra actividad que permita el desarrollo sostenido de los centros de población.
+
+Para efectos de determinar un centro de población con la categoría de ciudad, deberá cumplir con los siguientes requisitos:
+
+a) Tener una concentración mayor a ocho mil habitantes.
+
+b) Contar con infraestructura urbana.
+
+c) Plano Urbano.
+
+d) Tener equipamiento urbano para los servicios públicos como: agua potable, alcantarillado, alumbrado público, mercados, panteones, rastros, parques, seguridad pública y tránsito, de comunicación como: telégrafos, teléfonos, correo, transporte de carga, línea de pasaje; hospitales, reclusorios para los remitidos por faltas administrativas, instituciones bancarias, hoteles, restaurantes, centros educativos de enseñanza básica, media superior y superior, bibliotecas, centros culturales y recreativos.
+
+B) Poblado.- A la concentración de menos de ocho mil habitantes y hasta dos mil cuatrocientos noventa y nueve habitantes; que cuente con una estructura básica en servicios que permita el desarrollo socio-económico de su población. Se requerirán los siguientes servicios: agua potable y alcantarillado, alumbrado público, servicios de limpia y recolección de basura, relleno sanitario, mercado, panteón, parque, unidad deportiva y recreativa, seguridad pública, servicios médicos y centros de educación básica y media superior.
+
+C) Comunidad.- Al centro de población que tenga una concentración menor a dos mil cuatrocientos noventa y nueve y hasta cuatrocientos noventa y nueve habitantes y se requieren los siguientes servicios: agua potable, alumbrado público, panteón, unidad deportiva y centros de educación primaria.
+
+D) Ranchería.- Al centro de población que tenga una concentración menor de cuatrocientos noventa y nueve y hasta noventa y nueve habitantes y los servicios de: agua potable, alcantarillado, energía eléctrica, camino vecinal y escuela primaria.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV. Para el mejoramiento integral del Estado, deberá plantearse el desarrollo urbano y definir las características necesarias de los centros de población, con la identificación y desarrollo de la mano de obra, el mercado y las materias primas, necesarias para mejorar las condiciones de vida de la población.
+
+V.- Los centros de población que hayan cumplido con los requisitos señalados para cada categoría política, podrán ostentar oficialmente la que les corresponda, solicitando previamente declaración que al respecto deberá hacer el Ayuntamiento de cada municipio del Estado.
+
+VI.- El Ayuntamiento deberá someter la solicitud efectuada en sesión de Cabildo; de ser procedente, deberá publicarse la declaratoria en el Periódico Oficial de (sic) Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII. La población podrá expresar el deseo de elevar su categoría política al Ayuntamiento a que pertenezca, debiendo contar con la aprobación de por lo menos, el diez por ciento del electorado residente en la misma, acreditará además que cuenta con los requisitos para su determinación a la categoría solicitada.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII. La persona titular de la Presidencia Municipal, o cualquier integrante del Ayuntamiento deberán someter a la solicitud en sesión de Cabildo y de ser procedente, se declarará la nueva categoría política.
+
+IX.- La declaratoria que proceda, se deberá publicar en el Periódico Oficial del Estado y se darás (sic) a conocer a los solicitantes en una sesión solemne de Cabildo.
+
+### CAPITULO II. DE LA POBLACION
 
 ###### ARTICULO 14.
 
-Para ser DIRECTOR se requiere:
+Son habitantes del Municipio, las personas que temporal o permanentemente residan en él.
 
-I. Ser ciudadano mexicano;
-
-II. Tener 30 años cumplidos y no ser mayor de 70;
-
-III. Poseer como mínimo, título de técnico profesional y no menos de cinco años de experiencia profesional acreditable en la industria, el comercio y/o servicios;
-
-IV. Ser persona de amplia solvencia moral y de reconocido prestigio profesional; y
-
-V. No ser miembro de LA JUNTA mientras dure su gestión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 15.
 
-Son atribuciones de EL DIRECTOR las siguientes:
+Son vecinas o vecinos del Municipio, quienes:
 
-I. Dirigir técnica y administrativamente a EL INSTITUTO;
+I.- Residan habitualmente en su territorio durante dos años o más; y
 
-II. Representar jurídicamente a El INSTITUTO y actuar como mandatario general para pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial conforme a la ley, pudiendo sustituir este mandato en uno o más apoderados;
+II.- Residan habitualmente en su territorio un año, si en el transcurso del mismo, contraen matrimonio con persona chihuahuense, adquieren bienes raíces o ejercen alguna profesión, arte, oficio o industria.
 
-III. Celebrar los actos, convenios, contratos o actos jurídicos y de administración necesarios para el funcionamiento de EL INSTITUTO;
-
-IV. Suscribir, previa aprobación de LA JUNTA, convenios con la Federación, Municipios y los sectores social y privado;
-
-V. Ejecutar los acuerdos de LA JUNTA e informar a ésta de su cumplimiento;
-
-VI. Presentar a LA JUNTA el programa anual de inversiones de El INSTITUTO, el anteproyecto de presupuesto anual de egresos y el correspondiente programa anual de actividades;
-
-VII. Proponer a LA JUNTA el calendario escolar de EL INSTITUTO, de conformidad con lo dispuesto por la Ley General de Educación y demás ordenamientos aplicables;
-
-VIII. Rendir a LA JUNTA los informes trimestrales y anuales de actividades de EL INSTITUTO, independientemente de los que requiera el Gobierno del Estado de Nayarit;
-
-IX. Elaborar y proponer a LA JUNTA los proyectos de Reglamento Interno, el Manual General de Organización de EL INSTITUTO, y demás instrumentos normativos, así como las modificaciones a los mismos.
-
-X. Proponer una terna a LA JUNTA para la designación de LOS DIRECTORES, dependientes de EL INSTITUTO, así como su remoción;
-
-XI. Designar y remover al demás personal de EL INSTITUTO, previa autorización de LA JUNTA; y
-
-XII. Realizar las demás funciones que se requieran para el cumplimiento del objetivo de EL INSTITUTO, así como las que le encomienden otras disposiciones legales o reglamentarias aplicables.
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 15 Bis.
 
@@ -301,119 +497,151 @@ VIII. Las demás que determine esta Ley, los bandos y reglamentos municipales y 
 
 ###### ARTICULO 16.
 
-Para el debido cumplimiento a que se refiere el artículo 15 de El DECRETO, la Dirección General contará con cuatro áreas específicas al frente de las cuales habrá un Director como responsable, y serán las siguientes:
+La calidad de vecina o vecino de un Municipio se pierde por:
 
-I. Área de Planeación y Evaluación;
+I.- Ausencia legal, resuelta por autoridad judicial;
 
-II. Área Técnica-Académica;
+II.- Manifestación expresa de residir en otro lugar; y
 
-III. Área de Vinculación;
+III.- Ausencia por más de un año del territorio municipal.
 
-IV. Área Administrativa.
-
-LOS DIRECTIVOS, se auxiliarán de LOS DIRECTORES, Jefes de Departamento, Jefes de Oficina y demás personal que se requiera cuyas funciones se precisan en el Manual de Organización de EL INSTITUTO.
+La vecindad no se perderá por ausencia en el desempeño de un cargo público o comisión que no sean permanentes.
 
 ## TITULO TERCERO. REGIMEN GUBERNAMENTAL
 
-### CAPITULO IV. DE EL DIRECTOR GENERAL
+### CAPITULO I. DE LA INTEGRACION E INSTALACION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 17.
 
-Son atribuciones genéricas de LOS DIRECTIVOS las siguientes:
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Electoral y el presente Código. En su integración se introducirá el principio de representación proporcional en los términos de las disposiciones citadas.
 
-I. Auxiliar a EL DIRECTOR en el área de su competencia;
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2001)</small>
 
-II. Acordar con EL DIRECTOR, los asuntos inherentes a su cargo, e informar oportunamente el resultado;
+La competencia que la Constitución Federal, la Estatal y el presente Código, le otorgan al Gobierno Municipal, se ejercerá por el Ayuntamiento en forma exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-III. Elaborar los informes que le sean solicitados por EL DIRECTOR;
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
-IV. Coadyuvar en la elaboración de los informes trimestrales y anuales, y la ejecución del programa de trabajo de EL INSTITUTO;
+Los ayuntamientos residirán en las cabeceras municipales y se integrarán:
 
-V. Coadyuvar con los demás DIRECTIVOS para obtener el mejor desarrollo de las actividades de EL INSTITUTO;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI. Representar a EL DIRECTOR en las comisiones que le encomiende y mantenerlo informado;
+I. Los Municipios de Chihuahua y Juárez con la persona titular de la Presidencia Municipal, Sindicatura y once titulares de las Regidurías electas por el principio de mayoría relativa;
 
-VII. Proponer a EL DIRECTOR, los nombramientos del personal, conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos relacionados con su área;
+II. Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoquí, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por la persona titular de la Presidencia Municipal, Sindicatura y nueve personas titulares de las Regidurías electas por el principio de mayoría relativa;
 
-IX. Realizar las demás atribuciones que les encomiende EL DIRECTOR en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III. Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachiochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa Bárbara, Urique e Ignacio Zaragoza por la persona titular de la Presidencia Municipal, Sindicatura y siete personas titulares de Regidurías electas por el principio de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV. Los restantes por la persona titular de la Presidencia Municipal, Sindicatura y cinco personas titulares de Regidurías electas por el principio de mayoría relativa;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+En relación a las personas titulares de las Regidurías electas según el principio de representación proporcional, se estará a lo establecido en la Constitución Política del Estado y en la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
+Respecto al gobierno de las secciones y demás poblaciones de un municipio, se estará a lo dispuesto en el ordenamiento Constitucional citado.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Por cada persona titular de la Presidencia Municipal, Sindicatura, Regiduría o Comisarías, habrá una persona suplente para sustituirlo en sus impedimentos o faltas.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2005)</small>
+
+En aquellos municipios con población indígena, las autoridades de sus pueblos y comunidades elegirán un representante ante el ayuntamiento respectivo, con derecho a voz, lo que harán de conformidad con sus tradiciones y normas internas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 18.
 
-Corresponden al DIRECTOR del Área de Planeación y Evaluación las atribuciones siguientes:
+Cada Ayuntamiento se instalará el día 10 de septiembre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, se elegirán de acuerdo al procedimiento establecido en la Ley Electoral del Estado de Chihuahua. La persona titular de la Presidencia Municipal, otorgará protesta en los siguientes términos:
 
-I. Programar y evaluar el desarrollo integral de EL INSTITUTO;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-II. Elaborar en coordinación con el Director del Área Administrativa el proyecto de presupuesto de egresos relativo a el ejercicio fiscal de EL INSTITUTO, para presentarlo a consideración de EL DIRECTOR.
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Presidente Municipal, que el pueblo de este Municipio, me ha conferido".
 
-III. Establecer los mecanismos de control y evaluación en los planes de desarrollo y programas de trabajo de EL INSTITUTO previa aprobación de EL DIRECTOR;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV. Programar y evaluar la obra pública y equipamiento de EL INSTITUTO.
+La persona titular de la Sindicatura, otorgará protesta en los siguientes términos:
 
-V. Proporcionar a LA SEP, a través de la Dirección General de Centros de Formación para el Trabajo, lo relativo a la evaluación institucional, e información estadística de la demanda de capacitación atendida en las unidades de capacitación.
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Síndico, que el pueblo de este Municipio, me ha conferido".
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+La persona titular de la Presidencia Municipal tomará la protesta a las personas titulares de las Regidurías, a las y los integrantes de las Juntas Municipales y a la Comisaría de Policía, de la manera siguiente:
+
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo que el pueblo de este municipio os ha conferido?".
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+La persona titular de la Presidencia Municipal los amonestará en los siguientes términos:
+
+"Si así no lo hiciereis, que la Nación, el Estado y el Municipio os lo demanden".
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+La persona titular de la Presidencia Municipal expondrá a las vecinas o vecinos del Municipio su programa de gobierno.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+En las Juntas Municipales y Comisarías de Policía, la protesta se tomará por la persona titular de la Presidencia Municipal o su representante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 19.
 
-Corresponden al Director del Área Técnica Académica las atribuciones siguientes:
+Es obligación del Ayuntamiento celebrar una sesión solemne en el periodo que comprende del día dos al nueve de septiembre de cada año, en la cual la persona titular de la Presidencia Municipal deberá rendir informe detallado de su gestión administrativa.
 
-I. Planear, programar y proyectar las modalidades y prácticas de capacitación de EL INSTITUTO;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II. Establecerla correcta aplicación de los sistemas de control escolar;
+Dentro de la misma sesión y rendido el informe por la persona titular de la Presidencia Municipal, una persona titular de la Regiduría representante de cada uno de los Partidos Políticos que conforman el Ayuntamiento, podrá plantear su posición política en torno al mismo.
 
-III. Supervisar, verificar y aprobar los contenidos programáticos de la capacitación que se desarrolla en EL INSTITUTO; de acuerdo con la normatividad vigente;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2009)</small>
 
-IV. Elaborar y actualizar permanentemente en forma integral, los procesos de planeación y práctica en la enseñanza aprendizaje de EL INSTITUTO;
+Una vez recibido el Informe, el Ayuntamiento acordará la integración de una comisión especial que refleje la pluralidad política de este órgano, a fin de que dentro del término de cuarenta y cinco días emita una opinión al respecto. Así mismo, esta Comisión Especial tendrá a su cargo el análisis del Plan Municipal de Desarrollo, así como el seguimiento en forma semestral, presentando sus conclusiones al Cabildo, quien podrá acordar, a petición de la Comisión, que se remitan a los presentadores del informe las observaciones que estime pertinentes, las que, en ningún caso, serán vinculantes.
 
-V. Establecer los planes de estudio, prácticas y programas para la formación y superación de LOS ACADÉMICOS de EL INSTITUTO;
+### CAPITULO II. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
-VI. Elaborar y proponer a EL DIRECTOR los controles relativos a los planes de estudio y programas de capacitación para EL INSTITUTO;
-
-VII. Proporcionar a LA SEP, a través de la Coordinación Estatal de Centros de Formación para el Trabajo, la información estadística del servicio educativo que le soliciten.
-
-### CAPITULO V. DE LOS DIRECTIVOS, Y SUS ATRIBUCIONES
-
-GENERICAS Y ESPECIFICAS
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 20.
 
-Corresponden al Director del Área de Vinculación las atribuciones siguientes:
+La persona titular de la Presidencia Municipal o quien le sustituya legalmente, será del Ayuntamiento y tendrá voto de calidad.
 
-I. Difundir las actividades de EL INSTITUTO Y su oferta educativa a través de los medios de comunicación idóneos;
-
-II. Elaborar, programar y actualizar los mecanismos de difusión vinculados con los cursos de capacitación que imparte EL INSTITUTO, previa consideración de EL DIRECTOR;
-
-III. Establecer las negociaciones con los sectores productivo de bienes y servicios, social, público y privado, para la celebración de convenios relacionados con los cursos y especialidades que imparte El INSTITUTO;
-
-IV. Establecer y actualizar los mecanismos de vinculación de los Planteles para el desarrollo de las actividades con los sectores productivo de bienes y servicios, social, público y privado en forma permanente;
-
-V. Elaborar y promover los programas de seguimiento a egresados de EL INSTITUTO, que a través de la Bolsa de Trabajo ingresaran al mercado laboral;
-
-VI. Coadyuvar con EL DIRECTOR en la instalación y operación de los Órganos Consultivos y de apoyo al financiamiento de EL INSTITUTO.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 21.
 
-Corresponden al Director del Área Administrativa las atribuciones siguientes:
+Las sesiones de los Ayuntamientos serán presididas por la persona titular de la Presidencia Municipal o quien le sustituya legalmente y se celebrarán en la sala de cabildo o, cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
 
-I. Administrar, organizar, programar, supervisar y controlar los recursos humanos, materiales y financieros de conformidad con la norma establecida por las instancias de Gobierno, que interactúan con El INSTITUTO;
-
-II. Elaborar y Someter a la aprobación de EL DIRECTOR, las necesidades de recursos humanos, financieros y materiales de EL INSTITUTO;
-
-III. Elaborar en coordinación con el Director del Área de Planeación y Evaluación, el proyecto de presupuesto de egresos, relativo al ejercicio fiscal de EL INSTITUTO, para presentarlo a consideración de EL DIRECTOR;
-
-IV. Establecer y actualizar los mecanismos de control administrativo en los recursos, planes y programas de EL INSTITUTO, previa aprobación de EL DIRECTOR;
-
-V. Coadyuvar con EL DIRECTOR en la selección del personal;
-
-VI. Supervisar la administración y aplicación los recursos que logren los órganos consultivos y de apoyo al financiamiento en los programas de EL INSTITUTO;
-
-VII. Establecer y supervisar la actualización en los controles de inventarios de los bienes muebles e inmuebles de El INSTITUTO
-
-VIII. Programar las adquisiciones de bienes materiales de EL INSTITUTO, de conformidad con la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit y su Reglamento
+El recinto del Ayuntamiento es inviolable. Toda fuerza pública, está impedida para tener acceso al mismo, salvo con el permiso de la persona titular de la Presidencia Municipal, en cuyo caso estará a cargo de ésta.
 
 ###### ARTICULO 22.
 
-De acuerdo al artículo 13 fracción X de EL DECRETO, LOS DIRECTORES, serán nombrados y removidos por LA JUNTA, a propuesta de EL DIRECTOR.
+El Ayuntamiento como órgano deliberante, deberá resolver los asuntos de su competencia colegiadamente y al efecto, celebrará sesiones públicas ordinarias o extraordinarias; previo acuerdo de la mayoría de sus integrantes, las sesiones podrán ser privadas cuando así se justifique.
+
+Las sesiones ordinarias se celebrarán periódicamente en las fechas y lugar que para tal efecto se establezcan en la primera sesión de Cabildo de cada nueva gestión. Habrá por lo menos, dos sesiones ordinarias cada mes.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Se celebrarán sesiones extraordinarias cuando sean necesarias, a juicio de la persona titular de la Presidencia Municipal o a petición de la mayoría de las y los integrantes del Ayuntamiento, debiéndose citar para ello a sus integrantes, ajustándose en cada caso, al Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Para que las sesiones del Ayuntamiento sean válidas, se requiere que se constituya el quórum por lo menos con la asistencia de más de la mitad de sus integrantes. Los acuerdos de los Ayuntamientos se tomarán por mayoría de votos de los presentes, exceptuándose el caso de los reglamentos, para cuya aprobación será necesaria la votación de más de la mitad del número de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+El Ayuntamiento, así como las Comisiones a que se refiere el artículo 31 de este Código, podrán reunirse de manera excepcional, en sesión de acceso remoto o virtual, ante declaraciones de emergencia sanitaria emitidas por las autoridades competentes, que impida la presencia física a las y los integrantes del Ayuntamiento al edificio que ocupe la presidencia municipal u otro alterno. Los municipios emitirán los acuerdos necesarios que establezcan los procesos y mecanismos para que se desarrollen de manera eficaz y segura dichas sesiones, reuniones, discusiones y votaciones.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 22 Bis.
 
@@ -421,97 +649,607 @@ El Ayuntamiento, como órgano deliberante, en la primera sesión ordinaria del m
 
 ###### ARTICULO 23.
 
-Son atribuciones de LOS DIRECTORES:
+Los Ayuntamientos tendrán su residencia oficial en las cabeceras de los Municipios que representen y no podrán cambiarla a otro lugar sin la previa autorización del Congreso del Estado, quien calificará los motivos que exprese el respectivo Ayuntamiento.
 
-I. Representar al plantel o designar a un subalterno en los actos que se realicen dentro o fuera del establecimiento, relacionados con las actividades de los plateles;
-
-II. Dirigir las actividades académicas, culturales y administrativas del plantel, así como signar la documentación oficial que avala la aprobación en los cursos que imparte EL INSTITUTO;
-
-III. Representar a EL DIRECTOR, en los actos relacionados con EL INSTITUTO, cuando éste lo designe;
-
-IV. Informar con la periodicidad que acuerde EL DIRECTOR, el desarrollo de las actividades del plantel;
-
-V. Cumplir y hacer cumplir la normatividad vigente en los planes de estudios y programas de trabajo, así como las directrices y acuerdos que emanen de las autoridades superiores de EL INSTITUTO, relacionadas con su dirección y actividades del plantel;
-
-VI. Evaluar el desempeño del personal en el cumplimiento de los deberes con EL INSTITUTO;
-
-VII. Supervisar la labor de los instructores, para que la programación educativa, las técnicas de enseñanza y la condición del aprendizaje, operen con la debida eficiencia y calidad;
-
-VIII. Adoptar e implementar oportunamente, las medidas preventivas, fitosanitarias para evitar algún daño físico a la población de capacitados así como al personal;
-
-IX. Formar parte del LOS CONSEJOS; y
-
-X. Las demás que le confiara este reglamento y las que disponga EL DIRECTOR.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 24.
 
-Para apoyo al financiamiento de EL INSTITUTO, se creará un PATRONATO de acuerdo al artículo 20 de EL DECRETO, el cual señala que éste tendrá como finalidad apoyar a EL INSTITUTO en la obtención de recursos financieros adicionales, para la óptima realización de sus funciones y se regirá por sus estatutos.
+Cada sesión, se iniciará con la lectura del acta que contenga el o los acuerdos tomados en la sesión anterior, salvo dispensa, aprobada por la mayoría de las y los integrantes presentes. Después de la lectura, se procederá a suscribir el acta por quienes intervinieron en la misma y quisieron hacerlo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 25.
 
-EL INSTITUTO, para crear, mantener y fomentar la expansión de los servicios de formación para y en el trabajo, promoverá la celebración de acuerdos de concertación de acciones con los sectores productivos, público, social y privado que signifiquen apoyos técnicos y de financiamiento para el cumplimiento de su objeto social.
+Las actas de las sesiones del Ayuntamiento, se consignarán en un libro, que deberá llevar y resguardar la persona titular de la Secretaría de la misma.
+
+Cuando el acuerdo de los Ayuntamientos se refiera a normas de carácter general tales como bandos, reglamentos o iniciativas de leyes, se hará constar íntegramente en el libro de actas. En los demás casos, además del extracto, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro de actas.
 
 ###### ARTICULO 26.
 
-Cada plantel de EL INSTITUTO contará con un CONSEJO de apoyo externo, de conformidad con el artículo 21 de EL DECRETO.
+En todo el Estado, se dará entera fé y crédito a los actos y despachos de las autoridades municipales en asuntos de su competencia.
 
 ###### ARTICULO 27.
 
-EL CONSEJO se integrará con el número de miembros necesarios para su promoción, mantenimiento y conservación. Sus atribuciones serán:
+Para lo no previsto, en este ordenamiento sobre el funcionamiento de los Ayuntamientos, se estará a las disposiciones de sus respectivos bandos y reglamentos y a falta de éstos, a lo que resuelva el Ayuntamiento.
 
-I. Proponer al EL INSTITUTO planes y programas académicos conforme a las necesidades de los sectores productivos o de la sociedad;
-
-II. Proponer al EL INSTITUTO la apertura de nuevas áreas de capacitación, así como la supresión temporal o definitiva de las mismas; y
-
-III. Sugerir mecanismos que permitan la participación en los planteles de la comunidad y los sectores productivos, para su mejor servicio y calidad académica.
-
-### CAPITULO VI. DE LOS DIRECTORES
+### CAPITULO III. FACULTADES Y OBLIGACIONES DE LOS AYUNTAMIENTOS
 
 ###### ARTICULO 28.
 
-LOS CONSEJOS estarán integrados por:
+Son facultades y obligaciones de los Ayuntamientos:
 
-I. Un Presidente
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II. Un Secretario Técnico
+I.- Aprobar de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones con perspectiva de derechos humanos, de género e interculturalidad, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y social, bajo los principios de igualdad sustantiva y no discriminación;
 
-III. Un Vocal por cada organización del Sector Productivo de Bienes y Servicios, un representante de cada Plantel, los representantes de las Autoridades Federales, Estatales, Municipales, así como los funcionarios de EL INSTITUTO, y todas aquellas personas físicas o morales que determinen apoyar directamente o a través de aportaciones en numerario o en especie, y se regirá de conformidad con sus Estatutos.
+Los reglamentos aprobados por los Ayuntamientos deberán publicarse en el Periódico Oficial del Estado o en la Gaceta Municipal, en los casos en que el Ayuntamiento correspondiente cuente con una.
 
-### CAPITULO VII. DEL PATRONATO Y LOS CONSEJOS TÉCNICO
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-CONSULTIVOS
+II.- Iniciar leyes y decretos con perspectiva de derechos humanos, de género e interculturalidad ante el Congreso del Estado en asuntos de la competencia del gobierno municipal y nombrar representante para que intervenga en la discusión de la iniciativa;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Vigilar que los actos de las autoridades municipales, observen los requisitos de legalidad y seguridad jurídica, así como el respeto a los derechos humanos; que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2010)</small>
+
+IV.- Crear organismos descentralizados, fideicomisos y empresas de participación municipal.
+
+En la creación de estos organismos descentralizados, fideicomisos y empresas de participación municipal, podrán participar dos o más ayuntamientos, constituyendo organismos intermunicipales, celebrando el convenio de coordinación respectivo, con la aprobación de dos terceras partes de los integrantes del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+V.- Asignar a cada persona titular de las Regidurías, los ramos que considere convenientes para su mejor atención;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Nombrar a quien sustituya a la persona titular de la Presidencia, de entre sus integrantes, en caso de falta definitiva de la o el propietario y de la persona suplente;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Conceder licencia a la persona titular de la Presidencia Municipal para separarse de su cargo;
+
+VIII.- Proponer al Congreso del Estado, cuando sea necesario, el establecimiento de nuevas secciones municipales o la supresión de las existentes;
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+A la solicitud deberá anexarse copia certificada del acta de la Sesión de cabildo en que se haya aprobado solicitar la creación o supresión, según el caso, de la sección municipal y que contenga las razones que motiven la solicitud. Además, deberán acompañarse los documentos, acreditando:
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+a) Que la solicitud de creación o supresión de una sección fue publicitada entre la población involucrada, por los medios de comunicación acordes a la región y sus costumbres, debiendo contar con la aprobación de, por lo menos, el diez por ciento del electorado residente en la misma, debidamente identificado. En el documento que acredite la consulta deben constar los siguientes datos: Nombre completo, dirección, firma, número y folio de la credencial para votar con fotografía expedida por el Instituto Nacional Electoral. Además, deberá acreditarse que las Juntas Municipales involucradas en la creación o supresión de la sección municipal, se encuentran conformes con dicha acción;
+
+b) Nombres de las comunidades que conformarán la nueva sección, sus datos poblacionales, las vías de comunicación con que cuentan las mismas y las distancias entre éstas y la cabecera municipal o, en su caso, la cabecera seccional a la que pertenecen;
+
+c) Los servicios municipales que prestará la nueva sección municipal o los que se transferirán a otra y, en su caso, las obras que se pretenden realizar a partir de la creación, o bien, las que se suspenderán en caso de supresión de una sección municipal.
+
+IX.- En caso de conflictos con otros Ayuntamientos, realizar todas las gestiones para solucionar la controversia y en caso de desacuerdo, ocurrir para la resolución del asunto a la instancia competente;
+
+X.- Arreglar entre sí, los límites de sus respectivos Municipios y someter los convenios que se celebren a la aprobación del Congreso, como requisito necesario para su validez.
+
+Asimismo, resolver las cuestiones de competencia territorial que se presenten entre los diferentes poblados que los integran y crear o suprimir comisarías de policía;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Conceder a sus integrantes licencia para separarse de su cargo por causa debidamente justificada;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Aprobar, en su caso, el anteproyecto de Ley de Ingresos, que a su consideración presente la persona titular de la Presidencia Municipal y remitirlo al Congreso del Estado antes del día 30 de noviembre del año del ejercicio;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2015)</small>
+
+XIII.- Aprobar el Presupuesto de Egresos de acuerdo con los ingresos que hubiere autorizado el Congreso, aplicando, en su caso, lo dispuesto por la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+
+En la formulación de dicho documento, los Ayuntamientos habrán de tomar en cuenta, en lo conducente, las propuestas efectuadas por las secciones municipales, en los términos del Artículo 40, fracción V de este Código, y deberá remitirse al Ejecutivo del Estado, a fin de que lo publique, a más tardar, el día 31 de diciembre en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2015)</small>
+
+Los presupuestos sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Aprobar las partidas plurianuales en los Presupuestos de Egresos que corresponda, para cubrir el pago de las obligaciones derivadas de los Proyectos de Asociación Público Privada.
+
+XIV.- Vigilar que se dé publicidad mensualmente, por cualquiera de los medios de que se disponga, del movimiento de ingresos y egresos del mes correspondiente;
+
+XV.- Rendir los informes, por conducto de su Presidente, a que obligue la Constitución Política del Estado u otras disposiciones legales;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XVI.- Autorizar, en su caso, los empréstitos, gravámenes o enajenaciones de los bienes municipales y en general las deudas, que puedan pagarse dentro del período administrativo o fuera de él cuando medie aprobación de cuando menos las dos terceras partes del Ayuntamiento;
+
+XVII.- Autorizar la celebración de contratos de obras o servicios públicos municipales o el otorgamiento de concesiones, en los términos de este Código, sus reglamentos y demás disposiciones aplicables;
+
+XVIII.- Vigilar, el mantenimiento y conservación del patrimonio municipal;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+XIX.- Dictar las disposiciones generales o particulares que tiendan a la conservación de los bienes y monumentos artísticos, arquitectónicos e históricos, ubicados en el Municipio, así como de los documentos históricos o cualquier material testimonial de un hecho jurídico o socialmente trascendente, que tengan un valor relevante en el orden artístico, cultural o histórico y cuyo cuidado y conservación no corresponda a otra autoridad;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2020)</small>
+
+XX.- Aprobar, por al menos las dos terceras partes de los integrantes del Ayuntamiento y previo cumplimiento del procedimiento a que se refiere el artículo 22 de la Ley de Bienes del Estado de Chihuahua, la incorporación, desincorporación o cambio de destino de un bien sujeto al régimen de dominio público municipal, exponiendo en el acta de Cabildo correspondiente, las razones que justifiquen dicho acto y que invariablemente, deben referirse al beneficio que el Municipio obtiene con dicha disposición y que se verificó que la medida no causa perjuicio a la comunidad.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2003)</small>
+
+Cuando la desincorporación del régimen de dominio público tenga como finalidad la enajenación del bien, el producto de su enajenación no podrá destinarse al pago de gasto corriente;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XXI.- Aprobar por las dos terceras partes de los integrantes del Ayuntamiento, la celebración de actos o convenios por un término que exceda a la gestión del propio ayuntamiento;
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Autorizar, en los términos del párrafo anterior, los Proyectos de Asociación Público Privada.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Afectar, previa la aprobación del Congreso, los ingresos y derechos que de conformidad con la legislación pueda disponer para tal fin, para que en su caso sean fuente o garantía de pago de los Proyectos de Asociación Público Privada.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Autorizar a la persona titular de la Presidencia Municipal para enajenar a título oneroso o gratuito bienes muebles del dominio privado municipal, cuyo valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate;
+
+XXIII.- Solicitar al Congreso del Estado, la dotación y ampliación del fundo legal de las poblaciones, con los terrenos que se requieran para su creación y desarrollo;
+
+XXIV.- En materia de bebidas alcohólicas ejercer las funciones que le confiere la Ley de la materia;
+
+XXV.- Concurrir con los gobiernos Estatal y Federal en:
+
+a) El proceso de planeación del desarrollo Estatal y Nacional, de acuerdo con lo que establezcan las leyes;
+
+b) El desarrollo de programas de vivienda y urbanismo;
+
+c) La previsión de necesidades de tierra para vivienda y desarrollo urbano;
+
+d) La ejecución de programas de regularización de tenencia del suelo urbano;
+
+e) La aplicación de normas y programas que se establezcan para la preservación y restauración del equilibrio ecológico y protección al ambiente;
+
+f) La ejecución de programas de abasto;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+g) Las acciones en materia de igualdad sustantiva, no discriminación y para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+h) En general, coordinarse conforme a las leyes, para la ejecución y operación de obras y la prestación de servicios públicos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXVI. Aprobar y ordenar la publicación en el Periódico Oficial del Estado, el Plan Municipal de Desarrollo con Perspectiva de Derechos Humanos, de Género, e interculturalidad, correspondiente a su periodo constitucional de gobierno y derivar de éste, los programas anuales para la ejecución de obras y la prestación de los servicios de su competencia;
+
+XXVII.- Reglamentar en materia de construcción, a efecto de que todas las construcciones públicas y privadas de uso público, cumplan con las especificaciones orientadas al uso adecuado por parte de personas con discapacidad física;
+
+XXVIII.- Vigilar, los reclusorios municipales, para comprobar que en los mismos se respetan las garantías individuales de los detenidos y se reúnan las condiciones de seguridad, higiene, moralidad, trabajo y enseñanza a fin de que pueda lograrse su readaptación al medio social;
+
+XXIX.- Dictar las medidas necesarias, para organizar el catastro municipal;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXX. Establecer los órganos y sistemas para identificar, investigar y determinar las responsabilidades y sanciones de sus propios servidores públicos, derivadas del incumplimiento a las obligaciones establecidas en la Ley de Responsabilidades que resulte aplicable, previa instrucción del procedimiento disciplinario por la persona titular de la Presidencia Municipal, quien impondrá dichas sanciones, conforme al reglamento respectivo;
+
+XXXI.- Resolver los recursos interpuestos, en contra de los actos dictados por las autoridades municipales;
+
+XXXII.- Formular el reglamento interior del Municipio;
+
+XXXIII.- Otorgar reconocimiento público, al mérito de personas físicas o morales por acciones o conductas valiosas o relevantes, realizadas en beneficio de la comunidad;
+
+XXXIV.- Expedir reglamentos para administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana;
+
+XXXV.- En general, promover en la esfera administrativa, todo aquello que fuere necesario, para el mejor desempeño de las funciones que este Código y otras disposiciones legales les señalen;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+XXXVI.- Los Ayuntamientos podrán solicitar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de la competencia del compareciente;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2018)</small>
+
+XXXVII.- Implementar, en coordinación con las dependencias federales y estatales competentes, un Sistema de Profesionalización y Capacitación del Servicio Público Municipal, mediante modelos de formación continua de los servidores públicos municipales y de certificación de competencias laborales para los titulares de las diversas dependencias municipales a las que se refiere el último párrafo del artículo 60 de este Código; dicha certificación deberá ser expedida por instituciones reconocidas en el Sistema Nacional de Competencias, en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+En los municipios en los que exista la figura de Administración de la Ciudad, será la persona titular de la misma, la responsable del Sistema de Profesionalización y Capacitación del Servicio Público Municipal, así como del cumplimiento de lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2001)</small>
+
+XXXVIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XXXIX.- Celebrar convenios para la administración y custodia de zonas federales;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2008)</small>
+
+XLI.- Impulsar la creación de instancias municipales que sean las encargadas de instrumentar y dar seguimiento a las políticas, acciones, planes y programas que incorporen la transversalidad de la perspectiva de género, conforme a la Ley de Desarrollo Social y Humano para el Estado de Chihuahua;
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLII.- Aprobar, mediante votación por cédula, por el voto de las dos terceras partes, a propuesta en terna de la persona titular de la Presidencia Municipal, a la o el titular de la Dirección de Seguridad Pública Municipal o su equivalente. Dicha aprobación se hará dentro de los cinco días hábiles siguientes a aquél en que reciba la propuesta de la persona titular de la Presidencia Municipal, tomando en cuenta los requisitos de elegibilidad señalados en los artículos 61 y 61 bis del presente ordenamiento y, en su caso, los antecedentes que tenga en el Registro Nacional de Personal de Seguridad Pública, quedando necesariamente designado en ese momento, sin poderse suspender ni prorrogar el término señalado, debiendo, en caso de encontrarse en receso, citar a sesión extraordinaria, para tales efectos.
+
+De no alcanzarse los votos necesarios para ninguno de los candidatos, se repetirá la votación por cédula, pero solo con los dos que tuvieran mayor número de votos, y será electo el que obtenga cuando menos la votación de las dos terceras partes.
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+El ayuntamiento, mediante votación por cédula, también podrá determinar directamente en la sesión en la que deba resolver dicha aprobación, que el ejercicio de la atribución de designar a la persona titular de la Dirección de Seguridad Pública o su equivalente, quede a cargo del Congreso del Estado; en este caso, remitirá las constancias de la Sesión de Cabildo en la que se acordó turnar a la Legislatura Local la propuesta en terna de la persona titular de la Presidencia Municipal junto con los expedientes de cada candidatura, a fin de que el Pleno del Congreso realice la aprobación a la brevedad.
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Durante el tiempo que dure el procedimiento de designación de la persona titular de la Dirección de Seguridad Pública o su equivalente, la persona titular de la Presidencia Municipal designará libre y directamente a quien deba encargarse del mencionado despacho.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+XLIII.- Como una medida preventiva del delito de robo, ejercer las funciones de inspección, verificación, vigilancia y registro de todas aquellas empresas o establecimientos dedicados a la comercialización, acumulación, almacenamiento, fundición o transformación de productos metálicos o derivados de una aleación metálica, así como de aquellos que tengan por objeto principal la celebración de contratos de mutuo con interés y garantía prendaria.
+
+Los establecimientos dedicados a las actividades relacionadas con productos metálicos o derivados de una aleación metálica, independientemente de los requisitos que se señalen dentro de los reglamentos que para tal efecto expidan los Ayuntamientos, deberán contar con un registro de proveedores, que contenga entre otros los datos de la empresa que realiza las actividades objeto del control señalado en esta fracción, como son: nombre comercial, domicilio del establecimiento, nombre del propietario o propietarios y, en su caso, nombre del representante legal y su domicilio; así mismo, el registro de proveedores contendrá la identidad de los proveedores, fecha, clase y cantidad de los metales adquiridos.
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2013)</small>
+
+XLIV.- Fomentar la lactancia materna, procurando adecuar un espacio para que las madres que laboran en los Ayuntamientos, la proporcionen a sus hijos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
+
+XLV.- Designar a la persona que ocupará la titularidad de la Administración de la Ciudad de entre una terna generada por una Comisión Seleccionadora, mediante la aprobación de por lo menos las dos terceras partes de quienes integran el Ayuntamiento, de conformidad al procedimiento que para efecto de la presente fracción señalen los reglamentos particulares de los municipios.
+
+El voto para la designación a que alude esta fracción en ningún momento podrá realizarse a través de cédula.
+
+La Comisión Seleccionadora será constituida por el Ayuntamiento, se integrará por no más cinco ni menos de tres ciudadanas o ciudadanos, su cargo será honorífico, no podrán tener interés alguno con el Ayuntamiento y no podrán ser propuestos a una candidatura al cargo de titular de la Administración de la Ciudad por un periodo de seis años contados a partir de la disolución de dicha Comisión.
+
+En la conformación de la Comisión prevalecerá la paridad. El Ayuntamiento convocará, preferentemente, a las instituciones de educación media superior y superior; al sector empresarial; así como a organizaciones de la sociedad civil del municipio, para proponer candidatos a fin de integrar la Comisión.
+
+Los plazos, requisitos y procedimientos para la conformación de la Comisión se estarán a lo dispuesto en el reglamento respectivo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLVI.- Implementar la política municipal para la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLVII.- Implementar, formular y aplicar la política municipal orientada a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLVIII.- Participar con las autoridades estatales en la conformación y consolidación de los Sistemas Estatales en materia de igualdad sustantiva, así como del derecho de las mujeres a una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLIX.- Promover la creación de refugios para la atención de mujeres en situación de violencia y centros municipales de atención para agresores, de acuerdo con su capacidad presupuestal y financiera;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+L.- Elaborar programas de sensibilización y proyectos culturales que promuevan la igualdad sustantiva y no discriminación;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+LI.- Promover la participación de organismos públicos, privados y de la sociedad civil en acciones para la igualdad sustantiva y no discriminación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ENERO DE 2020)</small>
+
+LII.- Promover entre la ciudadanía la solución pacífica de los conflictos derivados del orden municipal, mediante la concientización y sensibilización de acciones tendientes a la construcción de paz, como parte de la política de prevención del delito y justicia cívica.
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2020)</small>
+
+LIII.- Generar personal capacitado en materia de mecanismos alternativos para la solución de conflictos, suscitados entre quienes integran la comunidad, con motivo de las faltas cometidas a los respectivos Bandos de Policía y Gobierno, así como la capacitación de los cuerpos de seguridad pública municipal con enfoque de proximidad y la aplicación de herramientas pacificadoras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2020)</small>
+
+LIV.- Las demás que le confieren las leyes y sus reglamentos.
+
+### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 29.
 
-LOS ACADÉMICOS de EL INSTITUTO desarrollarán sus actividades bajo el principio de libertad de cátedra e investigación, que deberá adecuarse a los planes y programas de estudio, garantizando la estructuración de aprendizaje, que sean acordes con los requerimientos de la industria y los servicios de cada región o localidad, del área de influencia de los centros de formación para el trabajo, y que sean aprobados por los órganos de gobierno de EL INSTITUTO y formará parte activa de las academias de docentes donde se desempeñe, y las convocadas por LOS DIRECTORES.
+La o el Presidente Municipal tendrá las siguientes facultades y obligaciones:
 
-### CAPITULO VIII. DEL PERSONAL ACADEMICO
+I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntamiento a sesiones extraordinarias;
 
-###### ARTICULO 30.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-Integraran el personal académico los instructores de capacitación y los técnicos de apoyo, contratados por EL INSTITUTO bajo el régimen de honorarios, cuya permanencia deberá ser por tiempo determinado. LOS ACADÉMICOS serán integrados mediante exámenes de selección o por procedimientos igualmente idóneos para comprobar la capacidad de los candidatos.
+II.- Nombrar y remover libremente al funcionariado y personas empleadas de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación de la persona titular de la Dirección de Seguridad Pública Municipal o su equivalente; y someter a conocimiento del Ayuntamiento la suspensión o destitución, del empleo, cargo o comisión o inhabilitación temporal para desempeñarlos en el servicio público, que haya decidido la autoridad competente, en caso de haber incurrido en alguna falta que así lo amerite, en los términos de la Ley General de Responsabilidades Administrativas.
+
+III.- Informar oportunamente al Ayuntamiento, acerca de la ejecución de los acuerdos aprobados;
+
+IV.- Dar publicidad a los reglamentos y demás disposiciones de carácter general aprobados por el Ayuntamiento;
+
+V.- Resolver los conflictos de competencia entre las dependencias municipales;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Designar con la aprobación del Ayuntamiento, a las y los integrantes de los Consejos de Administración, Juntas Directivas u órganos equivalentes, a quienes ocupen la Presidencia, Dirección o Gerencia y Comisarías de los organismos descentralizados y empresas de participación municipal; en los casos de la designación de los Consejos de Administración, a quienes ocupen la Presidencia, Dirección o Gerencia de los organismos operadores municipales del agua, se atenderá a lo dispuesto por la Ley del Agua del Estado de Chihuahua;
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Tomar la protesta legal, al funcionariado municipal que conforme a la ley deban otorgarla ante él, en los siguientes términos:
+
+"¿protesta usted desempeñar con eficiencia, lealtad y patriotismo, el cargo de . . . que en este acto le confiero, cumpliendo para ello todas las disposiciones legales que nos rigen, si así no lo hiciera, que el estado y el municipio os lo demanden";
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Conceder licencias por causa justificada y con goce de sueldo por una vez al año, al funcionariado y personas empleadas al servicio del municipio, hasta por diez días hábiles y sin goce de sueldo, por una vez al año, hasta por sesenta días, pudiendo el mismo servidor gozar de las dos licencias;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Con respeto de la garantía de audiencia, imponer a las y los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
+
+X.- Sin perjuicio de lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, mandar en jefe, a los cuerpos de seguridad pública municipal y solicitar del Ejecutivo Estatal, el auxilio de las fuerzas públicas a su cargo, para hacer cumplir las resoluciones de las autoridades municipales.
+
+Asimismo, en caso necesario, por el conducto indicado solicitar el auxilio de la fuerza pública federal;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2020)</small>
+
+XI.- Practicar visitas a las secciones municipales y comisarías, cuando lo estime conveniente, o lo requieran las necesidades de las mismas; así como promover auditorías cuando se trate del manejo de los recursos públicos.
+
+XII.- Representar al Municipio, con todas las facultades de un apoderado general; nombrar asesores y delegados y otorgar poderes generales y especiales para pleitos y cobranzas;
+
+XIII.- Formular y someter a la aprobación del Ayuntamiento el anteproyecto de ley de ingresos y el proyecto de presupuesto de egresos;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+
+XIV.- Administrar, por conducto de las dependencias competentes, la Hacienda Pública Municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por los Títulos Quinto y Sexto, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, así como la Ley de Asociaciones Público Privadas del Estado de Chihuahua.
+
+XV.- Vigilar la recaudación de los ingresos municipales y que la inversión de dichos fondos se aplique con apego al presupuesto de egresos;
+
+XVI.- Ejercer el presupuesto de egresos por conducto de la dependencia correspondiente y en tal virtud, autorizar y enviar las órdenes de pago a la Tesorería Municipal, que sean conforme a dicho presupuesto; asimismo ejercer el gasto de recursos provenientes de convenios de coordinación que celebre con el Estado y la Federación;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XVII.- Con la aprobación del Ayuntamiento, celebrar convenios de coordinación con la Federación y el Estado en la realización de programas de inversión pública;
+
+XVIII.- Celebrar convenios de coordinación, con aprobación del Ayuntamiento, para la recaudación, administración y cobro de créditos fiscales federales y estatales o adherirse a los celebrados por el Estado;
+
+XIX.- Vigilar, que no se alteren el orden y la tranquilidad públicos, se cumplan las leyes, los reglamentos y demás disposiciones de la autoridad municipal;
+
+XX.- Imponer las sanciones, que correspondan por infracciones a las leyes, reglamentos y demás disposiciones legales;
+
+XXI.- Celebrar a nombre del Municipio, en ejercicio de las facultades que la ley le confiere, o en ejecución de los acuerdos del Ayuntamiento o del Congreso, los actos y contratos necesarios para el desempeño de los negocios administrativos y la eficaz prestación de los servicios públicos municipales;
+
+XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de las obras públicas de su competencia, siempre y cuando la (sic) mismas sean de utilidad social;
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+En los casos de Proyectos de Asociación Público Privada, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Asociaciones Público Privadas del Estado de Chihuahua.
+
+XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XXIV.- Determinar, en cumplimiento de las disposiciones legales, reglamentarias y/o acuerdo del ayuntamiento, los servicios públicos que sean de la competencia municipal y vigilar la prestación de los mismos;
+
+XXV.- Otorgar y revalidar los permisos, licencias o autorizaciones que les competan conforme a las leyes y sus reglamentos;
+
+XXVI.- Autorizar, en cumplimiento de las disposiciones legales, reglamentarias y acuerdos de los Ayuntamientos, horarios y precios para el acceso a las diversiones y los espectáculos públicos, su celebración y vigilar su desarrollo;
+
+XXVII.- Declarar administrativamente la nulidad, caducidad o rescisión de contratos, permisos o licencias y concesiones administrativos; así como hacer efectivo el derecho de reversión de los terrenos municipales, cuando los adquirentes incumplan la obligación de construir dentro del plazo y por el valor indicados en el título municipal;
+
+XXVIII.- Solicitar al Ejecutivo del Estado, la expropiación de bienes por causa de utilidad pública, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio;
+
+XXIX.- Enviar al Ejecutivo del Estado, los proyectos y programas municipales que requieran la coordinación con los de carácter estatal;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXX.- Proporcionar informes, cuando sea requerido para ello, al Ejecutivo del Estado y al Congreso del Estado, sobre cualquiera de los ramos de la Administración Municipal;
+
+XXXI.- Llevar a cabo, por conducto de la dependencia correspondiente, la construcción, mantenimiento, control y vigilancia, de locales destinados a prestar al público el servicio de estacionamiento de vehículos;
+
+XXXII.- Resolver los recursos, que de acuerdo con éste y otros ordenamientos sean de su competencia;
+
+XXXIII.- Cumplir las disposiciones contenidas en las leyes y reglamentos, así como lo pactado en convenios celebrados por el Municipio con las autoridades federales y estatales;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXXIV.- Recabar de las y los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código;
+
+XXXV.- Elaborar la tarifa de valores para la enajenación de terrenos municipales, por conducto de la dependencia correspondiente, en base a los lineamientos contemplados en la ley de catastro;
+
+XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los registros y autorizaciones de los peritos valuadores, de conformidad con el reglamento que se expida; y
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXXVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2005)</small>
+
+Las suplentes de los presidentes municipales, también deberán cumplir con esta actividad.
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXXVIII.- Constituir el Tribunal de Arbitraje Municipal en los términos que ordena el artículo 78 del presente ordenamiento.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXXIX.- Implementar la política municipal en materia de igualdad entre mujeres y hombres, así como la política orientada a erradicar la violencia contra las mujeres, niñas, niños y adolescentes, en concordancia con la política nacional y local correspondiente, en coordinación con el Instituto o Instancia Municipal de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XL.- Apoyar a todas las autoridades del Municipio en la transversalización de la perspectiva de género, así como en las políticas municipales para la igualdad y erradicación de la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLI.- Otorgar todas las facilidades para capacitar, con perspectiva de género, al personal del Municipio, en especial a las personas que asisten a las víctimas de violencia, y a las personas generadoras de violencia;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLII.- Generar las acciones necesarias para el cumplimiento de los Programa Municipales;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLIII.- Establecer mecanismos para Coadyuvar con el Gobierno Estatal en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLIV.- Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la ejecución de los programas de igualdad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 2020)</small>
+
+XLV.- Proponer al Ayuntamiento, la celebración de instrumentos jurídicos para la coordinación y asociación dentro de los ramos de competencia municipal, en los términos previstos en los artículos 138 de la Constitución Política del Estado de Chihuahua y 180 del presente Código.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE AGOSTO DE 2020)</small>
+
+XLVI.- Las demás que le confieren las leyes y reglamentos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
+
+### CAPITULO V. DE LAS PRERROGATIVAS DE LOS REGIDORES Y DEL SINDICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 30.
+
+Las personas titulares de las Regidurías y la Sindicatura tienen facultades de inspección y vigilancia, en los ramos a su cargo, por lo que no podrán dar órdenes a las y los funcionarios, personas empleadas municipales y público en general. Las personas titulares de las Regidurías sólo podrán ejercitar funciones ejecutivas cuando actúen como cuerpo colegiado en las sesiones del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Para el desempeño de sus funciones, la persona titular de la Sindicatura contará con un cuerpo de personas colaboradoras cuyo número será determinado conforme al presupuesto que anualmente le sea asignado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PARTE FINAL DEL SEGUNDO PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Para todos los efectos legales, se entiende que la persona titular de la Sindicatura es superior jerárquica de las personas colaboradoras y que estas son personas empleadas municipales.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+En todo caso, las y los servidores públicos encargados de auxiliar a la persona titular de la Sindicatura en materias técnicas o científicas, deberán acreditar los siguientes requisitos.
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Tener grado de Licenciatura o autorización para ejercer como práctico, en los términos del artículo 64 de la Ley de Profesiones para el Estado.
+
+III.- Gozar de buena reputación;
+
+IV.- No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, salvo que se trate de delitos contra la propiedad u otro tipo que lastime seriamente la buena fama en concepto público; en cuyo caso, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 31.
 
-Para el cumplimiento de sus objetivos EL INSTITUTO cantará con el personal administrativo de conformidad con el artículo 23 inciso b, de EL DECRETO.
+El día de su instalación, el Ayuntamiento determinará el número de comisiones necesarias para el cumplimiento de sus funciones, así como las y los integrantes de las mismas. Cada Comisión se integrará, por lo menos, por dos integrantes, conforme al Reglamento Interior, reflejarán la composición plural del Ayuntamiento, y serán permanentes. El Ayuntamiento podrá crear comisiones especiales para conocer de un asunto determinado, mismas que serán transitorias.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Las personas titulares de las Regidurías podrán formar parte de una o varias comisiones conforme al reglamento que se expida.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MAYO DE 2021)</small>
+
+Las Comisiones serán:
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2021)</small>
+
+I.- De Gobernación.
+
+II.- De Hacienda;
+
+III.- De Obras y Servicios Públicos;
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2021)</small>
+
+IV.- De Seguridad Pública.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
+
+V.- De Educación y Cultura.
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2021)</small>
+
+VI.- De Igualdad de Género.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2021)</small>
+
+VII.- De Desarrollo Rural.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MAYO DE 2021)</small>
+
+VIII. Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del municipio.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 32.
 
-Se consideran trabajadores de confianza de EL INSTITUTO, EL DIRECTOR, LOS DIRECTIVOS, LOS DIRECTORES, los Jefes de Área en los Planteles y los que realicen actividades de asesoramiento, supervisión, inspección, vigilancia o que manejen o tengan a su cuidado fondos y valores,
+Cuando alguna de las personas titulares de las Regidurías de un Ayuntamiento, sin aviso y causa justificada, falte a cualquier sesión podrá ser sancionado con una multa, que se le impondrá de acuerdo con el Reglamento Interior; si la falta ocurre por tres sesiones consecutivas o cinco en un año, la persona titular de la Presidencia lo exhortará mediante oficio a que concurra y si no se logra su asistencia; el Ayuntamiento lo declarará cesante y llamará al suplente para que cubra la vacante, por todo el tiempo que falte para cumplir el período.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 33.
 
-Los trabajadores de EL INSTITUTO, quedarán incorporados al régimen de seguridad del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Son facultades y obligaciones de las personas titulares de las Regidurías:
+
+I.- Asistir con puntualidad a las sesiones;
+
+II.- Tomar parte en las discusiones con voz y voto;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Suplir a la persona titular de la Presidencia Municipal en la forma que este Código previene
+
+IV.- Formar parte de las comisiones, para las que fueren designados por el Ayuntamiento;
+
+V.- Vigilar el ramo de la administración municipal que le sea encomendado por el Ayuntamiento; asimismo, solicitar informes a los diversos titulares de la administración municipal.
+
+Para el cumplimiento de lo anterior, los titulares de la administración, están obligados a proporcionar todos los datos e informes que se les pidieren en un término no mayor de veinte días hábiles;
+
+VI.- Informar al Ayuntamiento sobre cualquier deficiencia que notare en los diferentes ramos de la administración municipal y proponer las medidas convenientes para enmendarlas;
+
+VII.- Proponer al Ayuntamiento, iniciativas de reglamentos y de iniciativa de ley, al Congreso del Estado en asuntos municipales;
+
+VIII.- No podrán ser reconvenidos por las opiniones que manifiesten, en el desempeño de su cargo, disfrutarán de las dietas, que acuerde el Ayuntamiento y contarán con los apoyos que les corresponda, conforme al reglamento interior, para realizar las gestorías de auxilio a los habitantes del Municipio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2003)</small>
+
+IX.- Una vez que reciba de la Asamblea Municipal la constancia de mayoría y antes de tomar posesión del cargo, asistir a los cursos de Profesionalización, Capacitación y Formación que instrumente el Ayuntamiento respectivo, tendientes a proporcionar conocimiento y habilidades inherentes al cargo para el que fueron electos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+X.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral les haga entrega de las constancias que los acredite como tales y antes de tomar posesión de su cargo;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Solicitar a la persona titular de la Secretaría del Ayuntamiento, por acuerdo de la mayoría de las y los regidores, se convoque a sesiones ordinarias, cuando la persona titular de la Presidencia Municipal no lo haga sin causa justificada;
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Elaborar y rendir un informe anual sobre las actividades desempeñadas relativas a su encargo, el cual deberá ser presentado, en forma escrita, ante el Cabildo, a más tardar en su tercera sesión ordinaria posterior a la del informe de la persona titular a la Presidencia Municipal;
+
+Tratándose del último año de su encargo, dicho informe deberá ser presentado en la última sesión ordinaria del Ayuntamiento, previa a la solemne a que se refiere el artículo 19 de este Código.
+
+Los informes deberán publicarse en el sitio de internet del Ayuntamiento, al día siguiente de su presentación.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2012)</small>
+
+XIII.- Las demás que les otorguen otras disposiciones aplicables a la materia.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Si no comparece la persona titular de la Presidencia Municipal, presidirá la sesión la o el regidor que determine la mayoría.
 
 ###### ARTICULO 34.
 
-Serán trabajadores administrativos temporales o por honorarios los que, por tiempo determinado, realicen alguna actividad distinta a las que describen en el articulo 26 de EL DECRETO y 32 de éste Reglamento, y no ocupen una plaza de base dentro del Instituto.
+La Comisión de Gobernación tendrá intervención en todas aquellas cuestiones que se refieran al cumplimiento de las leyes federales o del Estado de aplicación en el Municipio. En especial, intervendrá en la elaboración de las disposiciones municipales de carácter general y en la vigilancia de los reclusorios municipales y agentes de la autoridad cuyo cometido sea la conservación del orden, seguridad y moralidad públicos.
 
 ###### ARTICULO 35.
 
-El Patrimonio de EL INSTITUTO, se constituirá y extinguirá en los términos de los artículos 18 y 19 de EL DECRETO.
+La Comisión de Hacienda tendrá intervención, en todas las cuestiones relativas a la materia patrimonial y financiera municipal y de manera especial, a través de su Presidente:
 
-Por lo que toca a los ingresos propios que EL INSTITUTO obtenga por concepto de cuotas de alumnos, donaciones, derechos y servicios que presten, estos serán integrados al patrimonio de El INSTITUTO, y no podrán ser contabilizados como aportaciones ni de LA SEP, ni de el Gobierno del Estado.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Autorizar en unión de las personas titulares de la Presidencia Municipal, Sindicatura y Tesorería, el movimiento mensual de ingresos y egresos, y el balance anual que debe practicar la Tesorería Municipal;
+
+II.- Intervendrá en todos los actos, contratos, remates y enajenaciones que se refieran al patrimonio municipal.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+La autorización que expida la persona titular de la Sindicatura, de acuerdo a la fracción primera, no limita de ninguna forma el ejercicio de sus atribuciones, ni exime de responsabilidad a los encargados de dichos actos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 35 Bis.
 
@@ -519,25 +1257,135 @@ La persona titular de la Presidencia Municipal propondrá al cabildo la integrac
 
 ###### ARTICULO 36.
 
-los bienes que integran el patrimonio de El INSTITUTO, son inalienables, inembargables e imprescriptibles.
+La Comisión de Obras Públicas y Servicios Públicos intervendrá en las cuestiones relativas a la construcción y mantenimiento de obras públicas, aseo, alineamiento de calles y predios, alumbrado público, nomenclatura de calles, pavimentación, mejoramiento ambiental, ornato de calles, plazas, caminos, edificios, monumentos y demás lugares públicos municipales; asimismo, vigilará que la prestación de los servicios públicos municipales se realice eficazmente y que los concesionarios cumplan con las obligaciones pactadas en los contratos de concesión.
 
-En caso de que alguno de los bienes mencionados deje de ser útil para los servicios que preste EL INSTITUTO, LA JUNTA hará la declaratoria respectiva, de conformidad con la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit y su Reglamento.
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO IX. DEL PERSONAL ADMINISTRATIVO
+La Comisión deberá impulsar que las personas concesionarias respeten la igualdad sustantiva y no discriminación en la prestación de los servicios públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 36 A.- Las personas titulares de las Sindicaturas Municipales tendrán a su cargo la vigilancia del patrimonio municipal.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+En el Presupuesto de Egresos de cada municipio deberán preverse recursos suficientes para que la persona titular de la Sindicatura pueda cumplir con eficacia las funciones que le corresponden.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+La persona titular de la Sindicatura deberá practicar revisiones a los documentos que habrán de conformar la cuenta pública. Cada tres meses deberá presentar al Ayuntamiento un informe de las revisiones efectuadas. La falta de cumplimiento de este precepto será causa de responsabilidad.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Para efectos del párrafo anterior, las y los titulares de la Administración Municipal a que se les requiera información, deberán de proporcionarla en un plazo máximo de cuatro días hábiles, contados a partir de la fecha de recibida la solicitud. En caso de no tener respuesta, la persona titular de la Sindicatura deberá de levantar acta circunstanciada, la cual formará parte del informe, para que el Ayuntamiento determine las responsabilidades.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+Las revisiones que practique la sindicatura contendrán el análisis de las partidas de ingresos y egresos, y en los casos que así lo considere hará una revisión legal, física, numérica o contable del gasto público municipal pudiéndose extender al examen de la exactitud y justificación de los cobros y pagos hechos, cuidando que todas las cantidades estén debidamente comprobadas conforme a precios y tarifas autorizadas o de mercado según proceda.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Si al hacer la revisión encontrare irregularidades de cualquier tipo, la persona titular de la Sindicatura solicitará por escrito al titular de la dependencia que corresponda, que en un plazo de diez días hábiles, rinda ante ella, las aclaraciones pertinentes y los archivos que las sustentan; si no le son remitidas o no fueren suficientes para aclarar las irregularidades, la persona titular de la Sindicatura rendirá inmediatamente al Ayuntamiento un informe detallado para que ésta determine las responsabilidades administrativas, civiles o penales que correspondan.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+En los casos no previstos con respecto al Síndico le serán aplicables, en lo conducente, las disposiciones relativas a los regidores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 36 B.- La persona titular de la Sindicatura tendrá las siguientes facultades y obligaciones:
+
+I.- Asistir a las sesiones del Ayuntamiento y participar en las discusiones con voz, pero sin voto;
+
+II.- Revisar y firmar los cortes de caja de la tesorería municipal;
+
+III.- Revisar que el ejercicio del gasto se realice llenando todos los requisitos legales y conforme al presupuesto respectivo;
+
+IV.- Vigilar que las multas que impongan las autoridades municipales o cualquier otro ingreso sea enterado a la tesorería, previo certificado de ingresos;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+
+V. Asistir a las visitas de inspección que realicen la Auditoría Superior del Estado o de la Federación, o la Contraloría del Estado, e informar de los resultados obtenidos al Ayuntamiento;
+
+VI.- Vigilar que oportunamente se remita al Congreso la cuenta pública municipal;
+
+VII.- Vigilar la formulación del inventario general de los bienes muebles e inmuebles propiedad del municipio;
+
+VIII.- Vigilar el régimen de propiedad de los bienes inmuebles municipales;
+
+IX.- Participar en los remates públicos en los que tenga interés el municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones previstos en las leyes respectivas, como observador;
+
+X.- Verificar que los funcionarios públicos y empleados del municipio cumplan con la formulación de su declaración patrimonial;
+
+XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidados y cobrados;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Asociarse a cualquier comisión encomendada a las personas titulares de las Regidurías cuando la importancia de la misma y los intereses del Municipio así lo ameriten;
+
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+XIV.- Nombrar y remover libremente a sus colaboradores, previo informe que proporcione al Ayuntamiento. La opinión de este en ningún caso será vinculante;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+XV.- Solicitar datos, informes y documentación en general a fin de hacer las compulsas necesarias con las empresas o entidades, privadas o públicas, participantes en las actividades que se revisan;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral le haga entrega de la constancia que lo acredite como tal y antes de tomar posesión de su cargo;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+XVIII.- Las demás que establezcan las leyes y reglamentos.
+
+### CAPITULO VI. DE LAS JUNTAS MUNICIPALES Y LAS COMISARIAS DE POLICIA
 
 ###### ARTICULO 37.
 
-Las autoridades, LOS ADMINISTRATIVOS, LOS ACADÉMICOS y demás personal de EL INSTITUTO, son responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, y las demás disposiciones normativas aplicables.
+Son autoridades municipales auxiliares:
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Las Juntas Municipales, que se integran por la persona titular de la Presidencia Seccional y dos Regidurías.
+
+En las secciones municipales con más de cuatro mil habitantes existirá un regidor más, que será el primero de la lista de la planilla que hubiere alcanzado el segundo lugar, siempre que su porcentaje sea por lo menos el cincuenta por ciento de la votación alcanzada por la planilla ganadora.
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+II.- Las Comisarías de Policía.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 38.
 
-En las ausencias de El DIRECTOR menores de quince días, lo suplirá el subalterno que este designe.
+La persona titular de la Presidencia Seccional o quien le sustituya legalmente, lo será de la Junta Municipal y tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 39.
 
-Las suplencias de el personal de EL INSTITUTO, serán de conformidad con las disposiciones de EL DIRECTOR.
+La Junta Municipal funcionará, con la asistencia de la mayoría de sus integrantes.
 
-T R A N S I T O R I O S
+Las sesiones de las juntas municipales, tendrán el carácter de públicas y podrán ser ordinarias o extraordinarias y sus acuerdos se tomarán por mayoría de votos de los presentes, teniendo cada uno de éstos iguales derechos.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Las sesiones ordinarias, se celebrarán mensualmente y en la primera, después de instalada la junta, se designará el día del mes, en que deberá llevarse a efecto; las extraordinarias cuando lo solicite la persona titular de la Presidencia Seccional o una de las Regidurías. Para lo anterior, deberá convocarse previamente, por medio de oficio, con acuse de recibo y notificarse con un mínimo de veinticuatro horas, antes de la celebración de la sesión. En las extraordinarias, sólo podrán tratarse los asuntos indicados en la convocatoria.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+El resultado de las sesiones de las Juntas Municipales, se hará constar por la persona titular de la Secretaría de la misma en un libro de actas, en el cual quedarán anotados, en forma extractada, los asuntos tratados y el resultado de la votación.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 39 Bis.
 
@@ -697,7 +1545,9 @@ La persona titular de la Presidencia Municipal o su representante tomarán la pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2016)</small>
 
-### CAPITULO X. DEL PATRIMONIO
+### CAPITULO I
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 45.
 
@@ -827,11 +1677,39 @@ Las normas que contengan los bandos, reglamentos y otras disposiciones municipal
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2016)</small>
 
-### CAPITULO XI. DE LAS RESPONSABILIDADES
+### CAPITULO II. DE LAS GACETAS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+ARTICULO 50 BIS.- La Gaceta Municipal es el medio de difusión impreso, de carácter permanente, interés público y con efectos vinculatorios, dependiente de los Ayuntamientos, cuya función consiste en publicar los reglamentos, acuerdos, bandos de policía y gobierno, circulares, órdenes y demás actos expedidos por la autoridad municipal, a fin de que sean publicitados y observados debidamente.
+
+Solamente los municipios que tengan una densidad poblacional mayor a los cuarenta mil habitantes, podrán optar por la creación de una Gaceta Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+ARTICULO 50 TER.- Todo lo relativo a la organización, archivo, difusión, publicación y proceso gráfico, estará a cargo de la Secretaría del Ayuntamiento.
+
+Por ningún motivo podrán editarse las Gacetas Municipales en las fechas en las que se emite el Periódico Oficial del Estado.
+
+Las Gacetas Municipales deberán contener, en su identidad gráfica, los elementos siguientes:
+
+I.- El título de “Gaceta Municipal del H. Ayuntamiento de”, seguido del nombre del municipio que corresponda.
+
+II.- El Escudo Municipal correspondiente.
+
+III.- La mención del H. Ayuntamiento como responsable de su publicación, así como las fechas en que se publica.
+
+IV.- El lugar, fecha y número de publicación.
+
+V.- Sumario o índice del contenido.
+
+En el portal de Internet del Municipio, deberá publicarse una versión digital de la Gaceta Municipal. En caso de discrepancia entre el contenido publicado en el portal de Internet propiedad del Municipio y la versión impresa, prevalecerá esta última.
+
+En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente firmado y plenamente comprobada su procedencia y autenticidad.
 
 ## TITULO QUINTO. DE LA DECLARACIÓN DE DESAPARICIÓN DE AYUNTAMIENTOS Y DE LA SUSPENSIÓN DEFINITIVA DE SUS INTEGRANTES
 
-### CAPITULO XII. DE LAS SUPLENCIAS
+### CAPITULO I. DE LA DECLARACION DE DESAPARICION DE AYUNTAMIENTOS
 
 ###### ARTICULO 51.
 
@@ -1895,9 +2773,11 @@ De considerar justificada la oposición, sin necesidad de atender a los demás r
 
 En caso de que la oposición no resulte justificada, se verificarán los demás requisitos previstos en la Ley y, de ser satisfechos, se procederá a otorgar la autorización solicitada por la mayoría calificada de vecinos.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 85.
 
-Cada Municipio podrá contar con un Consejo de Planeación Urbana Municipal, que se integrará con representantes de los sectores público, social y privado de la comunidad y servirá de auxiliar al Municipio en la planeación urbana. En los Municipios de más de setenta y cinco mil habitantes será obligatoria la existencia de este Consejo.
+Cada Municipio podrá contar con un Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, que se integrará con representantes de los sectores público, social y privado de la comunidad y servirá de auxiliar al Municipio en la planeación urbana. En los Municipios de más de cincuenta mil habitantes será obligatoria la existencia de este Consejo.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -1907,29 +2787,49 @@ La directiva del Consejo se integrará por una persona titular de la Presidencia
 
 La persona titular de la Presidencia tendrá voto de calidad; la persona titular de la Secretaría será la encargada de citar a las sesiones, levantar y autorizar, en unión de la persona titular de la Presidencia, en el libro destinado para el efecto, las actas de aquéllas y hacerse cargo de la correspondencia y el archivo.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 87.
 
-La persona titular de la Presidencia Municipal convocará a los grupos organizados de la comunidad para que integren el Consejo de Planeación Urbana Municipal, pudiendo estar integrado, si los hubiere en el Municipio, por:
+La persona titular de la Presidencia Municipal convocará a los grupos organizados de la comunidad para que integren el Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, pudiendo estar integrado, si los hubiere en el Municipio, por:
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 a) La o el representante del Gobierno del Estado;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 b) La o el representante del Gobierno Federal;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 c) Dos representaciones de la Administración Municipal;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 d) Dos Regidurías;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 e) La o el representante de la Cámara Nacional de la Industria de la Transformación;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 f) La o el representante del Centro Empresarial de Chihuahua;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 g) La o el representante de la Cámara Nacional de Comercio;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 h) La o el representante de la Cámara Nacional de la Industria de la Construcción;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 i) La o el representante de la Cámara de Propietarios de Bienes Raíces; y
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 j) Quienes el propio Consejo determine.
 
@@ -1951,9 +2851,11 @@ Las sesiones del Consejo se verificarán en el lugar que designe la persona titu
 
 El Consejo funcionará en Pleno y con la asistencia de más de la mitad de sus integrantes. Los acuerdos se tomarán por mayoría de votos de los presentes y tendrán carácter meramente consultivo no vinculante para el Municipio, pero la autoridad municipal de que se trate deberá razonar la negativa a las proposiciones que el Consejo formule.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 91.
 
-El Consejo de Planeación Urbana Municipal, queda facultado para:
+El Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, queda facultado para:
 
 I.- Participar en la formulación de los planes municipales de desarrollo urbano y los planes directores urbanos;
 
@@ -1983,9 +2885,7 @@ XII.- Realizar las demás atribuciones que le fijen las leyes y sus reglamentos.
 
 ### CAPITULO UNICO. DE LA DECLARACION PATRIMONIAL
 
-> <small>[N. DE E. QUE EL PRESENTE ARTÍCULO FUE REFORMADO MEDIANTE DECRETO Nº LXVI/RFCOD/0976/2021 II P.O., PUBLICADO EL 27 DE FEBRERO DE 2021, QUE A LA LETRA ESTABLECE “ARTÍCULO 92. ... I. a VII. … VIII. La persona titular de la Administración de la Ciudad. IX. Aquellos que en el Municipio o entidades descentralizadas manejen, recauden, vigilen o administren fondos y/o recursos, ya sea por función o comisión.” PARA CONSULTAR EL CONTENIDO COMPLETO DEL ARTÍCULO, VÉASE EL TEXTO ANTERIOR AL DECRETO LXVI/RFCOD/0969/2021 X P.E.PUBLICADO EN EL 27 DE FEBRERO DE 2021]</small>
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 92.
 
@@ -2911,59 +3811,41 @@ Son objeto de éste derecho, los servicios que preste el Departamento de Bombero
 
 La prestación de los servicios públicos constituye la atribución primordial de los Municipios. La administración municipal reglamentará y vigilará la organización y funcionamiento de los servicios públicos que le corresponden.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 180.
 
 Las funciones y servicios públicos municipales, son los siguientes:
 
-I.- Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;
+I. Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+II. Agua potable y saneamiento, alcantarillado sanitario, tratamiento y disposición de sus aguas residuales; para la prestación de estos servicios se estará a lo establecido y estipulado en la Ley del Agua del Estado de Chihuahua, en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
-II.- Agua potable y saneamiento, alcantarillado sanitario, tratamiento y disposición de sus aguas residuales; para la prestación de estos servicios se estará a lo establecido y estipulado en la Ley del Agua del Estado de Chihuahua, en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
+III. Pavimentación y nomenclaturas de calles;
 
-III.- Pavimentación y nomenclaturas de calles;
+IV. Limpia, recolección, almacenamiento, traslado, tratamiento y disposición final de residuos de su competencia;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2012)</small>
+V. Alumbrado público;
 
-IV.- Limpia, recolección, almacenamiento, traslado, tratamiento y disposición final de residuos de su competencia;
+VI. Rastros, mercados y centrales de abasto;
 
-V.- Alumbrado público;
+VII. Calles, parques, jardines y su equipamiento;
 
-VI.- Rastros, mercados y centrales de abasto;
+VIII. Panteones; autorización para construcción ejecutadas (sic) por particulares, su planificación y modificación;
 
-VII.- Calles, parques, jardines y su equipamiento;
+IX. Alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales; y
 
-VIII.- Panteones; autorización para construcción ejecutadas por particulares, su planificación y modificación;
-
-IX.- Alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2021)</small>
-
-X.- De bomberos.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2021)</small>
-
-XI.- Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
+X. Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios del Estado observarán lo dispuesto por las leyes federales y estatales.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
-
-Los municipios, a fin de lograr una mejor prestación de servicios públicos, y previo acuerdo entre sus ayuntamientos, podrán dentro de los ramos de competencia municipal, coordinarse y asociarse para el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
-
-En los municipios que se cuente con la figura de Administración de la Ciudad, la persona que ocupe su titularidad será responsable de la evaluación y supervisión de lo dispuesto por este artículo de conformidad a los reglamentos particulares de cada Municipio, con excepción de lo previsto en su fracción I.
-
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+Los municipios, a fin de lograr una mejor prestación de servicios públicos, y previo acuerdo entre sus ayuntamientos, podrán dentro de los ramos de competencia municipal, coordinarse y asociarse para el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
 Para efectos de la fracción I, del presente artículo, en relación con el artículo 40 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, los municipios implementarán progresivamente los Módulos de Atención a la Violencia Familiar y de Género en sus demarcaciones territoriales, asignando para tal fin los recursos necesarios; para ello, el Consejo Estatal de Seguridad Pública, con la participación del Instituto Chihuahuense de las Mujeres, determinará los municipios en que se habrán de instalar los Módulos de Atención a la Violencia Familiar y de Género, de conformidad con la propuesta debidamente sustentada en índices y estadísticas que presente el Instituto Chihuahuense de las Mujeres.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
-
 Para atender la violencia contra las mujeres, los Módulos podrán regionalizarse de tal manera que estos atiendan a dos o más municipios, en cuyo caso los municipios involucrados deberán convenir sobre la operación de los mismos. Los municipios donde ya operen los Centros de Justicia para las Mujeres impulsarán la instalación de áreas para atender y canalizar a dichos Centros a las personas que se estime sean víctimas de violencia familiar y de género.
+
+En los municipios que se cuente con la figura de Administración de la Ciudad, la persona que ocupe su titularidad será responsable de la evaluación y supervisión de lo dispuesto por este artículo de conformidad a los reglamentos particulares de cada Municipio, con excepción de lo previsto en su fracción I.
 
 ###### ARTICULO 181.
 
@@ -3347,15 +4229,11 @@ P.O. 29 DE NOVIEMBRE DE 1997.
 
 ###### ARTICULO PRIMERO.
 
-El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Lo no previsto en este Reglamento será competencia de LA JUNTA de EL INSTITUTO.
-
-DADO en la Décima Sesión Ordinaria por su H. Junta Directiva, en Tepic, Capital del Estado de Nayarit, a los veintinueve días del mes de Julio del año 2003, en la Sala de Usos Múltiples del Plantel Tepic, del "ICATEN".
-
-Presidente ING. ERNESTO NAVARRO GONZALEZ, SECRETARIO DE DESARROLLO ECONOMICO.- Rúbrica.- REPRESENTANTE DE LA SEP DEL GOBIERNO FEDERAL ING. JUAN MANUEL TORRES LÓPEZ, COORDINADOR DE ORGANISMOS DESCENTRALIZADOS DE LA SEP.- Rúbrica.- REPRESENTANTE DE LA SEP DEL GOBIERNO FEDERAL LIC. JOSE MARIA TEJEDA VAZQUEZ, REPRESENTANTE DE LA SEP EN EL ESTADO.- Rúbrica- REPRESENTANTE DEL C. PRESIDENTE MUNICIPAL DE SAN BLAS NAYARIT SR. ADAN MENDOZA PLACITO. REGIDOR DE OBRAS PÚBLICAS DEL AYUNTAMIENTO.- Rúbrica. POR LA CONTRALORÍA DEL GOBIERNO DEL ESTADO DE NAYARIT C.P. EFRAÍN JIMÉNEZ BERNAL. COMISARIO.- Rúbrica- SECRETARIO DE ACTAS C.P. JOSÉ LUIS DELFÍN MENDOZA. DIRECTOR ADMINISTRATIVO DEL INSTITUTO.
+Los comités de Vecinos integrados a la fecha de la entrada en vigor de la presente disposición, deberán ser válidos de conformidad con el Reglamento Interior de los Municipios.
 
 ###### ARTICULO TERCERO.
 
@@ -4764,3 +5642,67 @@ Los municipios del Estado, deberán armonizar sus reglamentos de conformidad con
 ###### ARTÍCULO CUARTO.
 
 Los municipios del Estado, deberán realizar previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/1036/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 92 Y 180 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto por el artículo 180, sexto párrafo, cuya entrada en vigor será el día diez de septiembre del año dos mil veintiuno.
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/1048/2021 XIII P.E.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días naturales siguientes de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 39, de fecha 14 de mayo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias que se realicen en otros ordenamientos jurídicos del Estado a la Ley de Desarrollo Urbano Sostenible que se abroga, se entenderán hechas a la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los municipios contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto, para realizar las acciones y adecuaciones necesarias a sus disposiciones reglamentarias que permitan la correcta aplicación de esta Ley, en el ámbito de su competencia.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones administrativas expedidas en la materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las licencias, permisos y autorizaciones expedidas con anterioridad a la entrada en vigor de esta Ley, seguirán vigentes en los términos que fueron otorgadas. Las que se encuentren en trámite, continuarán el proceso de autorización de las etapas subsecuentes, según lo previsto en la ley vigente al inicio de la etapa o trámite que corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+En un plazo no mayor a seis meses contados a partir de la entrada en vigor de este Decreto, el Estado y los municipios deberán instalar o ratificar los órganos colegiados a que se refiere este ordenamiento.
+
+###### ARTÍCULO NOVENO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial de competencia estatal, deberán formularse o adecuarse y estar publicados, conforme a lo previsto en este ordenamiento, en un plazo no mayor a un año contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial de competencia municipal, deberán formularse o adecuarse y estar publicados, conforme a lo previsto en este ordenamiento, en un plazo no mayor a dos años contados a partir de la entrada en vigor del presente Decreto.
+
+El Estado, a través de la Secretaría de Desarrollo Urbano y Ecología, deberá apoyar y asesorar técnicamente a los municipios en la elaboración de los planes y programas de desarrollo urbano y ordenamiento territorial de su competencia.
+
+###### ARTÍCULO UNDÉCIMO.
+
+El Estado y los municipios deberán realizar las acciones conducentes para que en el ejercicio presupuestal del año 2022, se asignen los recursos necesarios para llevar a cabo la formulación y actualización de los planes y programas de desarrollo urbano y ordenamiento territorial correspondientes.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Los planes y programas de desarrollo urbano y ordenamiento territorial que se encuentren vigentes a la fecha de entrada en vigor de esta Ley, continuarán en su vigencia y surtirán todos sus efectos legales hasta en tanto no se actualicen, según lo dispuesto por los artículos transitorios anteriores.
+
+ARTÍCULO DECIMOTERCERO.- El artículo 233 de la presente Ley entrará en vigor en un plazo de dos años contados a partir de la entrada en vigor del presente Decreto.
