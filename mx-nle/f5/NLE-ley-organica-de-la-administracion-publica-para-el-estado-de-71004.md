@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2020-06-08"
+last_updated: "2021-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -1624,3 +1626,55 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El personal y los recursos materiales que estaban asignados a la Coordinación Ejecutiva de la Administración Pública del Estado, se transferirán a la Dependencia que asuma, en su caso, la o las funciones de ésta, conforme a los reglamentos interiores que expedirá el Ejecutivo del Estado.
 
 TERCERO.- Cuando en otras Leyes, Reglamentos y Acuerdos del Ejecutivo se haga mención del Jefe de la Oficina Ejecutiva del Gobernador, se entenderá al o la Titular de la Oficina Ejecutiva.
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 006. SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día 4 de octubre de 2021.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Nuevo León, publicada en el Periódico Oficial del Estado, en fecha 02 de Octubre de 2009.
+
+TERCERO.- Las facultades con que cuentan las unidades administrativas de las dependencias y entidades que por virtud del presente Decreto se modifican, continuarán vigentes en términos de los reglamentos interiores que las rigen, hasta en tanto sean publicadas las modificaciones a los mismos.
+
+CUARTO.- El Ejecutivo del Estado, en un plazo que no exceda de 120 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir los Reglamentos interiores de las entidades materia de la reforma.
+
+QUINTO.- Las referencias, atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos o instrumentos contenidos en otras leyes, reglamentos y en general en cualquier disposición que hagan mención a las Secretarías que con motivo del Presente Decreto se modifican, se entenderán hechas de la siguiente manera:
+
+a) Secretaría de Economía y Trabajo, por lo que hace a las facultades de Economía, a la Secretaría de Economía;
+
+b) Secretaría de Economía y Trabajo, por lo que hace a las facultades de Trabajo, a la Secretaría de Trabajo;
+
+c) Secretaría de Desarrollo Social a la Secretaría de igualdad e inclusión;
+
+d) Secretaría de Desarrollo Sustentable, por lo que hace a las facultades de medio ambiente, a la Secretaría de Medio Ambiente;
+
+e) Secretaría de Desarrollo Agropecuario, a la Secretaría de Desarrollo Regional y Agropecuario;
+
+f) Secretaría de Desarrollo Sustentable, por lo que hace a las facultades de movilidad, transporte y desarrollo urbano, así como la Secretaría de infraestructura, a la Secretaría de Movilidad y Planeación Urbana.
+
+SEXTO.- Las referencias, atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos o instrumentos contenidos en otras leyes, reglamentos y en general en cualquier disposición que hagan mención a las Secretarías que con motivo del Presente Decreto se modifican, se entenderán hechas de la siguiente manera:
+
+a) Secretaría de Economía y Trabajo, por lo que hace a las facultades de Economía, a la Secretaría de Economía;
+
+b) Secretaría de Economía y Trabajo, por lo que hace a las facultades de Trabajo, a la Secretaría de Trabajo;
+
+c) Secretaría de Desarrollo Social a la Secretaría de igualdad e inclusión;
+
+d) Secretaría de Desarrollo Sustentable, por lo que hace a las facultades de medio ambiente, a la Secretaría de Medio Ambiente;
+
+e) Secretaría de Desarrollo Agropecuario, a la Secretaría de Desarrollo Regional;
+
+f) Secretaría de Desarrollo Sustentable, por lo que hace a las facultades de movilidad, transporte y desarrollo urbano, así como la Secretaría de infraestructura, a la Secretaría de Movilidad.
+
+SEPTIMO.- La Secretaría de Trabajo coordinara y dará seguimiento a la transición de la función jurisdiccional de los organismos en materia laboral a Tribunales Laborales dependientes del Poder Judicial.
+
+OCTAVO.- La Secretaría del Trabajo será la responsable de Vigilar la prestación del servicio público a cargo del Centro de Conciliación Laboral del Estado, de la Junta Local de Conciliación y Arbitraje, del Tribunal de Arbitraje en el Estado de Nuevo León, en términos de las disposiciones legales aplicables, hasta en tanto no se materialice la transición de dichas dependencias al Poder Judicial.
+
+NOVENO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una unidad administrativa o dependencia, a otra, se respetarán, conforme a la ley.
+
+DECIMO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas y demás aplicables.
+
+DECIMO PRIMERO.- Para una mayor información a las y los gobernados y para facilitar la atención y continuidad de los asuntos que éstos hayan promovido ante la Administración pública del Estado, las dependencias y entidades difundirán ante la ciudadanía los cambios de denominación, ubicación y funciones básicas de las nuevas dependencias o entidades aludidas.
+
+DÉCIMO SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
