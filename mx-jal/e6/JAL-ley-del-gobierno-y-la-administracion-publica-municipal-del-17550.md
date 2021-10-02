@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2021-09-18"
+last_updated: "2021-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1587,7 +1587,7 @@ En cada uno de los municipios debe haber un Tesorero o Encargado de la Hacienda 
 
 El Tesorero o Encargado de la Hacienda Municipal debe reunir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE OCTUBRE DE 2021)</small>
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, y mayor de veintiún años;
 
@@ -3416,5 +3416,11 @@ SEGUNDO. Para la siguiente administración municipal la fracción III del artíc
 P.O. 18 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28445/LXII/21 QUE REFORMA EL ARTÍCULO 65 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28445/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 65 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
