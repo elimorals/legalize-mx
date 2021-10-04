@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2021-09-17"
+last_updated: "2021-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -865,7 +865,9 @@ XIX. De Seguridad Pública;
 
 XX. De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
 
-XXI. De Equidad, Género y Familia;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2021)</small>
+
+XXI. De Igualdad de Género y Familia;
 
 XXII. De Protocolo y Régimen Orgánico Interior;
 
@@ -2656,3 +2658,11 @@ P.O. 17 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
 
 SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa”.
+
+P.O. 4 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 690 DEL H. CONGRESO DEL ESTADO.- POR EL QUE REFORMA LA FRACCIÓN XXI, DEL ARTÍCULO 67, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
