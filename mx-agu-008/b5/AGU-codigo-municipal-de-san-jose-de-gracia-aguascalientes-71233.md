@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2021-05-03"
+last_updated: "2021-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -12787,9 +12787,11 @@ En caso de que la multa impuesta no fuere cubierta por el infractor en el plazo 
 
 Cuando una falta se ejecute con la intervención de dos o más personas, y no constare la forma en que dichas personas actuaron, pero si su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este capítulo; pero el juez calificador, podrá duplicar la sanción pecuniaria si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer en común la falta.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 1373.
 
-Las faltas de policía y buen Gobierno, se sancionarán con amonestación, multa o arresto hasta por 36 horas.
+Las faltas de policía y buen Gobierno, sé sancionarán con amonestación, multa, arresto hasta por 36 horas o trabajo en favor de la comunidad.
 
 ###### ARTÍCULO 1374.
 
@@ -12842,6 +12844,34 @@ De once a quince días de salario mínimo: Veinticuatro horas de arresto.
 De dieciséis a veinte días de salario mínimo: Treinta horas de arresto.
 
 Más de veinte días de salario mínimo: Treinta y seis horas de arresto.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 1382 BIS.- Para los efectos de conmutar la multa impuesta por horas de arresto se estará a lo dispuesto en el siguiente tabulador:
+
+Tres días de salario mínimo: Cuatro horas de trabajo comunitario.
+
+Cuatro días de salario mínimo: Seis horas de trabajo comunitario.
+
+Cinco días de salario mínimo: Ocho horas de trabajo comunitario.
+
+De seis a ocho días de Doce horas de trabajo comunitario.
+
+salario mínimo:
+
+De nueve a diez días de Catorce horas de trabajo comunitario.
+
+salario mínimo:
+
+De once a quince días de Dieciséis horas de trabajo comunitario.
+
+salario mínimo:
+
+Más de veinte días de Dieciocho horas de trabajo comunitario.
+
+salario mínimo:
+
+Para efecto del presente artículo, la jornada máxima de trabajo comunitario será de ocho horas al día. El Juez Calificador indicará al infractor el inicio y término y tipo de trabajo comunitario. Se entiende por trabajo comunitario, el desarrollo de actividades físicas no remuneradas impuestas como sanción administrativa en favor del Municipio.
 
 ###### ARTÍCULO 1383.
 
@@ -13740,6 +13770,14 @@ SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que so
 P.O. 3 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGUASCALIENTES”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 4 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA DEL ARTÍCULO 1373 Y LA ADICIÓN DEL ARTICULO 1382 BIS DEL PROPIO CÓDIGO MUNICIPAL".]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
