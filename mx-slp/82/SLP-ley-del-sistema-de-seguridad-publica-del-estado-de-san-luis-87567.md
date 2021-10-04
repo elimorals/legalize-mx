@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2021-02-27"
+last_updated: "2021-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -259,15 +259,17 @@ II. (DEROGADA, P.O. 25 DE JUNIO DE 2020)
 
 III. Contar con título profesional de nivel licenciatura debidamente registrado, o formación equivalente acorde a la función;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2021)</small>
 
-IV. Acreditar especialmente, capacidad, probidad, y experiencia en las áreas afines a su función, y
+IV. Acreditar especialmente, capacidad, probidad, y experiencia mínima de cinco años, en las áreas afines a su función;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2021)</small>
 
-V. Gozar de buena reputación, y no haber sido condenado por delito alguno.
+V. Gozar de buena reputación, y no haber sido condenado por delito alguno, y
 
-VI. (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE OCTUBRE DE 2021)</small>
+
+VI. Contar con exámenes de control y confianza acreditados satisfactoriamente, conforme a las disposiciones reglamentarias de dicho examen, así como sus actualizaciones.
 
 ###### ARTICULO 14.
 
@@ -701,9 +703,17 @@ II. (DEROGADA, P.O. 25 DE JUNIO DE 2020)
 
 III. Contar por lo menos con título y cédula profesional de nivel Licenciatura debidamente registrados;
 
-IV. Tener reconocida capacidad y probidad, así como contar con cinco años de experiencia en las áreas correspondientes a su función, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2021)</small>
 
-V. No haber sido sentenciado por delito doloso, o inhabilitado como servidor público.
+IV. Tener reconocida capacidad y probidad, así como contar con cinco años de experiencia en las áreas correspondientes a su función;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2021)</small>
+
+V. No haber sido sentenciado por delito doloso, o inhabilitado como servidor público, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2021)</small>
+
+VI. Contar con exámenes de control y confianza acreditados satisfactoriamente, conforme a las disposiciones reglamentarias de dicho examen, así como sus actualizaciones.
 
 ###### ARTICULO 46.
 
@@ -2912,5 +2922,13 @@ P.O. 27 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1119.- SE REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XVI Y ADICIONA AL MISMO ARTÍCULO 57 UNA FRACCIÓN, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0004.- SE REFORMA LOS ARTÍCULOS 13 EN SUS FRACCIONES IV, V Y VI Y 45 EN SUS FRACCIONES IV Y V; Y ADICIONA AL ARTÍCULO 45 LA FRACCIÓN VI, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
