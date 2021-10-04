@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2021-08-02"
+last_updated: "2021-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -72,6 +72,20 @@ Toda persona tiene derecho al reconocimiento de su personalidad jurídica. Ningu
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MARZO DE 2021)</small>
 
 Toda persona tiene los deberes y las obligaciones correlativas a los derechos que esta Constitución y demás leyes les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el pleno desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)</small>
+
+Artículo 2o A.- El Estado de Aguascalientes reconoce y comparte la composición pluricultural, pluriétnica y plurilingüe de la Nación Mexicana. En tal tenor, esta Constitución asume a plenitud todos los derechos, prerrogativas y obligaciones de los pueblos y comunidades indígenas, así como las obligaciones de las instituciones públicas establecidas en la Constitución Federal y Tratados Internaciones (sic) celebrados por el Ejecutivo de la Unión con aprobación del Senado.
+
+Las comunidades indígenas procedentes de otros Estados de la República y que residan temporal o permanentemente dentro del territorio del Estado de Aguascalientes quedan protegidos por los derechos señalados en esta Constitución y la ley local respectiva.
+
+La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y leyes de la materia.
+
+El Poder Ejecutivo, el Poder Judicial, el Poder Legislativo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, tienen a su cargo la salvaguarda de los derechos colectivos aquí señalados, a fin de asegurar su respeto y aplicación de la ley a favor de los pueblos y comunidades indígenas que se encuentren en el Estado de Aguascalientes.
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación, en los términos del Artículo 2o de la Constitución Federal. Lo cual será efectivo, una vez que su permanencia en el Estado sea reconocida como tal por el Instituto Nacional de Pueblos Indígenas o la autoridad federal competente.
+
+Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos, en los términos del artículo segundo constitucional y la ley de la materia.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
@@ -3482,3 +3496,9 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
+
+P.O. 4 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 591.- SE ADICIONA UN ARTÍCULO 2o A A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES”.]</small>
