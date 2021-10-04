@@ -4,7 +4,7 @@ identifier: "FED-declaratoria-de-inicio-de-funciones-de-la-implementacion-de-144
 country: "mx"
 rank: "otro"
 publication_date: "2020-11-13"
-last_updated: "2020-11-13"
+last_updated: "2021-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144973&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,86 +19,60 @@ issue_date: "2020-10-20"
 ---
 # DECLARATORIA DE INICIO DE FUNCIONES DE LA IMPLEMENTACION DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL
 
-DECLARATORIA DE INICIO DE FUNCIONES DE LA PRIMERA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE TENDRÁ VERIFICATIVO A PARTIR DEL 18 DE NOVIEMBRE DE 2020
+DECLARATORIA DEL INICIO DE FUNCIONES DE LA SEGUNDA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE INICIARÁ A PARTIR DEL 3 DE NOVIEMBRE DE 2021
 
 TEXTO ORIGINAL.
 
-Declaratoria publicada en el Diario Oficial de la Federación, el viernes 13 de noviembre de 2020.
+Declaratoria publicada en el Diario Oficial de la Federación, el lunes 4 de octubre de 2021.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Cámara de Senadores.- Ciudad de México.
 
-EL SENADO DE LA REPÚBLICA, EN CUMPLIMIENTO A LO QUE DISPONE EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019, EMITE LA SIGUIENTE:
+EL SENADO DE LA REPÚBLICA, EN CUMPLIMIENTO A LO QUE DISPONE EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN, EL 1 DE MAYO DE 2019, EMITE LA SIGUIENTE:
 
 DECLARATORIA
 
-EL SENADO DE LA REPÚBLICA DECLARA EL INICIO DE FUNCIONES DE LA PRIMERA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE TENDRÁ VERIFICATIVO A PARTIR DEL 18 DE NOVIEMBRE DE 2020, EN LOS SIGUIENTES CIRCUITOS JUDICIALES, ENTIDADES DE LA REPÚBLICA Y SEDES:
+EL SENADO DE LA REPÚBLICA DECLARA EL INICIO DE FUNCIONES DE LA SEGUNDA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE INICIARÁ A PARTIR DEL 3 DE NOVIEMBRE DE 2021, EN LOS SIGUIENTES CIRCUITOS JUDICIALES, ENTIDADES DE LA REPÚBLICA Y SEDES:
 
-Circuito Judicial Entidad federativa Sede
+Circuito Judicial conforme al Entidad Federativa Sede
 
-Vigésimo Tercer Circuito Zacatecas Zacatecas
+Acuerdo General 3/2013
 
-Vigésimo Quinto Circuito Durango, con excepción de los Durango
+Trigésimo Circuito Aguascalientes Aguascalientes
 
-municipios de General Simón
+Decimoquinto Circuito Baja California, con Ensenada
 
-Bolívar, Gómez Palacio, Lerdo,
+excepción del municipio Tijuana
 
-Mapimí, Nazas, San Juan de
+de San Luis Río Colorado
 
-Guadalupe, San Luis del Cordero,
+del Estado de Sonora.
 
-San Pedro del Gallo y Tlahualilo,
+Vigésimo Sexto Circuito Baja California Sur La Paz
 
-de dicha entidad federativa
+Trigésimo Segundo Circuito Colima Colima
 
-Trigésimo Primer Circuito Campeche Campeche y
+Decimosexto Circuito Guanajuato Guanajuato
 
-Ciudad del Carmen
+Vigésimo Primer Circuito Guerrero Acapulco
 
-Vigésimo Circuito Chiapas Tuxtla Gutiérrez
+Decimoctavo Circuito Morelos Cuernavaca
 
-Noveno Circuito San Luis Potosí San Luis Potosí
+Decimotercer Circuito Oaxaca Oaxaca
 
-Vigésimo Noveno Circuito Hidalgo Pachuca
+Sexto Circuito Puebla Puebla
 
-Segundo Circuito Estado de México Toluca y Naucalpan
+Vigésimo Segundo Circuito Querétaro Querétaro
 
-Décimo Circuito Tabasco, con excepción Villahermosa
+Vigésimo Séptimo Circuito Quintana Roo Cancún
 
-de los municipios de
+Vigésimo Octavo Circuito Tlaxcala Tlaxcala
 
-Acayucan, Agua Dulce,
+Séptimo Circuito Veracruz Coatzacoalcos
 
-Coatzacoalcos, Cosoleacaque,
+Décimo Circuito Veracruz
 
-Chinameca, Hidalgotitlán,
-
-Ixhuatlán del Sureste, Jáltipan,
-
-Jesús Carranza, Las Choapas,
-
-Mecayapan, Minatitlán, Moloacán,
-
-Nanchital de Lázaro Cárdenas
-
-del Río, Oluta, Oteapan,
-
-Pajapan, San Juan Evangelista,
-
-Sayula de Alemán, Soconusco,
-
-Soteapan, Tatahuicapan de Juárez,
-
-Texistepec, Uxpanapa y Zaragoza,
-
-del Estado de Veracruz
-
-Primer Circuito Ciudad de México, Ciudad de México
-
-Tribunales laborales de
-
-asuntos colectivos
+Xalapa
 
 Se remite al Diario Oficial de la Federación, para su Publicación.
 
-Ciudad de México, a 20 de octubre de 2020.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Rúbrica.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbrica.
+Ciudad de México, a 28 de septiembre de 2021.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Rúbrica.- Sen. Verónica Delgadillo García, Secretaria.- Rúbrica.
