@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-al-ejercicio-del-periodismo-del-estado-de-945
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-25"
-last_updated: "2016-10-25"
+last_updated: "2021-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE PROTECCION AL EJERCICIO DEL PERIODISMO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA PROTECCIÓN AL EJERCICIO DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 4 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY DE PROTECCIÓN AL EJERCICIO DEL PERIODISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021 (DEROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 25 de mayo de 2013.
 
@@ -236,3 +238,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Ejecutivo del Estado publicará las adecuaciones al Reglamento Interior del Comité Estatal de Protección al Periodismo, relativas a las (sic) modificación contenida en el artículo 17 de la Ley de Protección al Ejercicio del Periodismo del Estado de San Luis Potosí, en un máximo de treinta días naturales a partir de la vigencia del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones legales que se oponga a este Decreto.
+
+P.O. 4 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0003.- SE EXPIDE LA LEY PARA LA PROTECCIÓN AL EJERCICIO DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de la presente Ley, se abroga la Ley de Protección al Ejercicio del Periodismo del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el veinticinco de mayo de dos mil trece, con el Decreto Legislativo número 145.
+
+TERCERO. Con la entrada en vigor de este Decreto, se disuelve el Comité Estatal de Protección al Periodismo, por lo que deberá instalarse el Mecanismo Estatal, dentro de los treinta días siguientes.
+
+CUARTO. Dentro de los cuarenta y cinco días siguientes a la entrada en vigor de la Ley, las personas titulares de la Secretaría General de Gobierno; de la Fiscalía General del Estado; de la Secretaría de Seguridad Pública; y de la Comisión Estatal de Atención a Víctimas, deberán seleccionar a las personas servidoras públicas que integrarán la Unidad Estatal.
+
+QUINTO. El Titular del Ejecutivo Local, expedirá el Reglamento Interior del Mecanismo Estatal de Protección a Personas Defensoras de Derechos Humanos y Periodistas, dentro de los noventa días siguientes a la publicación de la Ley.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
