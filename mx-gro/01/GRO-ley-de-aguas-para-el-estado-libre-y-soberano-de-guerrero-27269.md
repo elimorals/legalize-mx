@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-aguas-para-el-estado-libre-y-soberano-de-guerrero-27269"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-03"
-last_updated: "2016-08-12"
+last_updated: "2021-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 574
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de enero de 2003.
 
@@ -1677,9 +1677,13 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Ser mayor de treinta años de edad;
 
-III.- Contar con un título y cédula profesional afín a la materia;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
 
-IV.- Tener experiencia técnica y administrativa en materia de aguas de cuando menos tres años, anteriores a la fecha de su nombramiento; y
+III.- Poseer al día de su designación, con antigüedad mínima de cinco años, título y cédula profesional de nivel licenciatura en Administración, Derecho, Contaduría, Ingeniería u otra área afín a la gestión pública o materia de aguas;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
+
+IV.- Tener experiencia verificable de al menos tres años en administración pública, control y manejo de recursos públicos, gestión pública, así como en materia de aguas, en cualquier orden de gobierno federal, estatal o municipal;
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión;
 
@@ -3092,3 +3096,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 5 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 856 POR EL QUE SE REFORMA LAS FRACCIONES II, III Y IV DEL ARTÍCULO 54 DE LA LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 574”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese al Titular del Poder Ejecutivo, para su conocimiento y efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
