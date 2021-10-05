@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2021-05-04"
+last_updated: "2021-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -757,41 +757,15 @@ IV. Promover las condiciones pedagógicas, administrativas, de recursos didácti
 
 ###### Artículo 70.
 
-La educación media superior comprende los niveles de bachillerato, de profesional técnico bachiller y los equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes. Se implementará a través de un sistema que establezca un marco curricular común a nivel nacional, de forma que garantice el reconocimiento de estudios entre las opciones que ofrece este tipo educativo.
-
-En educación media superior, se ofrece una formación en la que el aprendizaje involucre un proceso de reflexión, búsqueda de información y apropiación del conocimiento, en múltiples espacios de desarrollo.
+(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY ESTATAL DE EDUCACIÓN EN EL NIVEL MEDIO SUPERIOR Y LA FORMACIÓN PARA EL TRABAJO DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 5 DE OCTUBRE DE 2021)
 
 ###### Artículo 71.
 
-Los niveles de bachillerato, profesional técnico bachiller y los demás equivalentes a éste, se ofrecen a quienes han concluido estudios de educación básica.
-
-Las autoridades educativas podrán ofrecer, entre otros, los siguientes servicios educativos:
-
-I. Bachillerato General;
-
-II. Bachillerato Tecnológico;
-
-III. Bachillerato Intercultural;
-
-IV. Bachillerato Artístico;
-
-V. Profesional técnico bachiller;
-
-VI. Telebachillerato comunitario;
-
-VII. Educación media superior a distancia; y,
-
-VIII. Tecnólogo.
-
-Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por el Servicio Nacional de Bachillerato en Línea y aquellos que operen con base en la certificación por evaluaciones parciales.
-
-La autoridad educativa federal determinará los demás servicios con los que se preste este tipo educativo.
+(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY ESTATAL DE EDUCACIÓN EN EL NIVEL MEDIO SUPERIOR Y LA FORMACIÓN PARA EL TRABAJO DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 5 DE OCTUBRE DE 2021)
 
 ###### Artículo 72.
 
-Las autoridades educativas, en el ámbito de sus competencias, establecerán, de manera progresiva, políticas para garantizar la inclusión, permanencia y continuidad en este tipo educativo, poniendo énfasis en los jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso a éste, así como disminuir la deserción y abandono escolar, considerando el otorgamiento de apoyos económicos.
-
-De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
+(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY ESTATAL DE EDUCACIÓN EN EL NIVEL MEDIO SUPERIOR Y LA FORMACIÓN PARA EL TRABAJO DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 5 DE OCTUBRE DE 2021)
 
 ### CAPÍTULO V. DEL FOMENTO DE LA INVESTIGACIÓN, LA CIENCIA, LAS HUMANIDADES, LA TECNOLOGÍA Y LA INNOVACIÓN
 
@@ -2430,3 +2404,15 @@ P.O. 4 DE MAYO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
 
 SEGUNDO. La obligación que refiere el artículo 29 fracción XVI, será de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, priorizando de manera equitativa en las comunidades indígenas y las comunidades de alta y muy alta marginación, debiendo tener la cobertura total antes del año 2026.
+
+P.O. 5 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 585 POR EL QUE "SE EXPIDE LA LEY ESTATAL DE EDUCACIÓN EN EL NIVEL MEDIO SUPERIOR Y LA FORMACIÓN PARA EL TRABAJO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Se derogan los artículos 70, 71, 72 que son la parte correspondiente a educación media superior de la Ley de Educación del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Educación en el Estado formulará la propuesta del Reglamento Interno del Consejo de Participación Ciudadana de la Educación Media Superior del Estado de Michoacán, el cual contendrá los (sic) normas generales y específicas relacionadas con la estructura, representaciones de los sectores, atribuciones, facultades, responsabilidades y funciones de las instancias colegiadas y unipersonales de dicho Consejo. El CPCEMyCT aprobará en su caso, dicho Reglamento en una sesión plenaria convocada por la Secretaría de Educación en el Estado a los 60 días de aprobada la presente Ley.
+
+TERCERO. Las instituciones de educación media superior, los subsistemas y el gobierno del Estado establecerán y presupuestarán de forma progresiva cada año, los recursos necesarios para cumplir con los fines, políticas sociales y acciones establecidos en la presente Ley.
+
+CUARTO. La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
