@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-817-para-las-personas-con-discapacidad-del-84760"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-20"
-last_updated: "2014-12-26"
+last_updated: "2021-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 2011.
 
@@ -757,11 +757,15 @@ El Instituto del Deporte en Guerrero en coordinación con el Consejo Estatal y l
 
 ### CAPÍTULO XII. De la Rehabilitación Laboral
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 65.
 
 Con fundamento en la legislación laboral vigente, en la Convención Interamericana y en el Convenio 159, las personas con discapacidad tendrán derecho al empleo y la capacitación, en términos de igualdad, equidad y remuneración que les otorguen la certeza a su desarrollo personal y social. Para tales efectos, el Consejo Estatal en coordinación con la Subsecretaría del Trabajo y Previsión Social, realizará las siguientes acciones:
 
-I. Promover el establecimiento de políticas, en materia de trabajo encaminadas a la integración laboral de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
+
+I. Promover el establecimiento de políticas, en materia de trabajo encaminadas a la integración laboral de las personas con discapacidad, incluyendo la elaboración de un padrón de habilidades y competencias laborales para facilitar el acceso al empleo formal;
 
 II. Fomentar con el apoyo del Consejo Estatal la firma de convenios y acuerdos de cooperación e información sobre generación de empleo, capacitación, adiestramiento y financiamiento para las personas con discapacidad, ante otras instancias de gobierno y organizaciones de la sociedad civil;
 
@@ -775,15 +779,23 @@ IV. Celebrar convenios de colaboración con los Ayuntamientos y con organismos e
 
 V. Realizar cciones (sic) permanentes orientadas a la incorporación de personas con discapacidad a las fuentes ordinarias de trabajo, o en su caso, su incorporación a fuentes de trabajo o talleres protegidos, en condiciones salubres, dignas y de mínimo riesgo a su seguridad;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2021)</small>
+
+V Bis. Realizar acciones específicas orientadas a la incorporación de personas con discapacidad a las fuentes ordinarias de trabajo, para personas que pudieran encontrarse en alguna condición latente de discriminación adicional conforme a la Ley para Prevenir, Combatir y Eliminar la discriminación en el Estado de Guerrero, así calificada por el Consejo Estatal para Prevenir la Discriminación;. (sic)
+
 VI. Capacitar en materia de discapacidad, a los sectores empresarial y comercial;
 
-VII. Promover la incorporación de las personas con discapacidad en igualdad de circunstancias, conocimiento y experiencia, en las instancias de la asministración (sic) pública estatal y municipal, hasta alcanzar por lo menos el 5% de la planta laboral;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
+
+VII. Promover la incorporación de las personas con discapacidad en igualdad de circunstancias, conocimiento y experiencia, en las instancias de la administración pública estatal y municipal, hasta alcanzar por lo menos el 8% de la planta laboral;
 
 VIII. Establecer en coordinación con la Secretaría y las Secretarías de Finanzas y Administración, de Desarrollo Social y de Desarrollo Económico, así como con la colaboración de las Secretarías Federales de Desarrollo Social, del Trabajo y Previsión Social, de Desarrollo Social y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, mecanismos de financiamiento, subsidio o inversión, para la ejecución de proyectos productivos y sociales propuestos por las organizaciones civiles para las personas con discapacidad; la coordinación de proyectos productivos viables y acordes a su discapacidad, que una vez ejecutados, les permitan satisfacer sus necesidades mínimas de bienestar, así como la creación y desarrollo de una bolsa de trabajo de acuerdo a su tipo de discapacidad;
 
 IX. Vigilar y sancionar en su caso, que las condiciones en que las personas con discapacidad desempeñen su trabajo, no sean discriminatorias, se otorguen en igualdad de oportunidades y equidad, bajo condiciones salubres, dignas y de mínimo riesgo a su seguridad;
 
-X. Gestionar el otorgamiento de incentivos fiscales y subsidios a las personas físicas o morales, que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
+
+X. Gestionar el otorgamiento de incentivos fiscales y subsidios a las personas físicas o morales, que contraten personas con discapacidad, considerando beneficios fiscales adicionales a los contribuyentes que contraten a personas con discapacidad que cuenten además con una condición de discriminación latente, conforme a la fracción V Bis anterior, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo; y
 
 XI. Las demás que le confieran esta ley y otros ordenamientos legales sobre la materia.
 
@@ -1126,3 +1138,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 5 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 857 QUE REFORMA Y ADICIONA EL ARTÍCULO 65, DE LA LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO, EN MATERIA DE PROMOCIÓN DE EMPLEO PARA PERSONAS CON DISCAPACIDAD”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y para su publicación en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
