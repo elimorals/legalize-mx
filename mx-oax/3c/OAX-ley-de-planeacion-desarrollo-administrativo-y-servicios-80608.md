@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-planeacion-desarrollo-administrativo-y-servicios-80608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-02"
-last_updated: "2020-02-29"
+last_updated: "2021-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 2 de abril de 2011.
 
@@ -453,6 +453,10 @@ El Plan Municipal de Desarrollo deberá ser elaborado, aprobado por mayoría cal
 
 La formulación, ejecución, control y evaluación del Plan Municipal de Desarrollo, estará a cargo del propio Ayuntamiento, que podrá auxiliarse de los órganos, dependencias o servidores públicos que determine el mismo, conforme a la Ley Estatal de Planeación; para este efecto podrá solicitar cuando lo considere necesario la asesoría del Gobierno del Estado y de las Dependencias del Sistema Estatal y Nacional de Planeación.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2021)</small>
+
+Las o los Presidentes Municipales entrantes, cuya elección no esté controvertida en los Tribunales o que haya superado las impugnaciones presentadas, podrán elaborar el Plan de Desarrollo Municipal previo a la toma de posesión del cargo, ajustándose a los lineamientos legalmente establecidos, para lo cual deberán ratificar todo lo actuado una vez instalado el Ayuntamiento respectivo.
+
 ###### ARTÍCULO 46.
 
 El Plan Municipal de Desarrollo tendrá los siguientes objetivos:
@@ -794,3 +798,13 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1202.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2689.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 43; EL PÁRRAFO PRIMERO DE LA FRACCIÓN VI DEL ARTÍCULO 95, EL PÁRRAFO PRIMERO DEL ARTÍCULO 123, EL PÁRRAFO PRIMERO Y LA FRACCIÓN IV DEL ARTÍCULO 169, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 170; SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 71 RECORRIÉNDOSE LA SUBSECUENTE, Y LA FRACCIÓN XIV AL ARTÍCULO 73 RECORRIÉNDOSE LA SUBSECUENTE, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
