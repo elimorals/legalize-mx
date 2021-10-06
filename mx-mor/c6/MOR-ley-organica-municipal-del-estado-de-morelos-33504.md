@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2020-09-11"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -905,11 +905,11 @@ En el último año de la gestión administrativa del Ayuntamiento, el informe se
 
 Para lo no previsto en la presente Ley sobre el funcionamiento de los Ayuntamientos, se estará a lo que dispongan su Bando de Policía y Gobierno y sus Reglamentos Municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 38.
 
-Los Ayuntamientos tienen a su cargo el gobierno de sus respectivos municipios, por lo cual están facultados para:
+Los AYUNTAMIENTOS tienen a su cargo el gobierno de sus respectivos municipios, por lo cual están facultados para:
 
 I. Ejercer el derecho de iniciar Leyes y decretos ante el Congreso, en los términos de la fracción IV del Artículo 42 de la Constitución Política local;
 
@@ -925,11 +925,13 @@ V. Formular y aprobar la iniciativa de Ley de Ingresos del Municipio, que se rem
 
 VI. Revisar y aprobar, en su caso, la cuenta pública anual correspondiente al ejercicio anterior, que presente el Tesorero, remitiéndola a la Legislatura local, dentro del término que establezca la Constitución Política del Estado, con copia del acta de la sesión de Cabildo en donde haya sido aprobada;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
-VII.- Aprobar el Presupuesto de Egresos, del Municipio, con base en los ingresos disponibles, mismo que contendrá la información que refiere el artículo 20, de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+VII.- Aprobar el Presupuesto de Egresos, del municipio, con base en los ingresos disponibles, mismo que contendrá la información que refiere el artículo 20, de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
 
-Indistintamente, dicho Presupuesto además de contemplar los recursos financieros para el pago de la plantilla de personal autorizada, y de la nómina de pensionistas, deberá integrar un estimado de los trabajadores y de elementos de seguridad pública, por pensionarse en el respectivo año fiscal.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Indistintamente, dicho presupuesto además de contemplar los recursos financieros para el pago de la plantilla de personal autorizada, y de la nómina de pensionistas, deberá integrar un estimado de los trabajadores y de elementos de seguridad pública, por pensionarse en el respectivo año fiscal. En este rubro se deberá incluir al personal en activo y pensionistas adscritos a los organismos públicos descentralizados municipales.
 
 VIII. Aprobar previamente la celebración de todo tipo de convenios con el Poder Ejecutivo del Gobierno del Estado de Morelos, con sus organismos auxiliares, o con el Poder Ejecutivo Federal y sus entidades, a que aluden los Artículos 115 Fracción III y 116 Fracción VII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1079,19 +1081,17 @@ LXII. Crear los comités, comisiones y consejos de carácter consultivo que se c
 
 LXIII. Los Ayuntamientos integrarán la cuenta pública en términos de lo que establece el artículo 42 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos. La cuenta pública podrá ser difundida en el Periódico Oficial o la Gaceta Municipal, atendiendo a la disponibilidad de recursos municipales. Por lo que hace a las remuneraciones y los tabuladores de sueldo autorizados, así como sus adecuaciones, éstos también cumplirán con el principio de publicidad;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-LXIV. Otorgar mediante acuerdo de la mayoría del Ayuntamiento, los beneficios de la seguridad social de sus trabajadores, y de los elementos de Seguridad Pública en lo referente a pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez, así como a los beneficiarios del servidor público por muerte, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Morelos, en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
+LXIV. Otorgar mediante acuerdo de la mayoría del ayuntamiento, los beneficios de la seguridad social de sus trabajadores, de los trabajadores adscritos a los organismos públicos descentralizados municipales, y de los elementos de Seguridad Pública en lo referente a pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez, así como a los beneficiarios del servidor público por muerte, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Morelos, en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-LXV. Expedir a los trabajadores, a los elementos de seguridad pública o a los beneficiarios de ambos, copia certificada del Acuerdo mediante el cual el Ayuntamiento aprueba y otorga el beneficio de la pensión o jubilación demandada, asimismo, efectuar la autorización y registro de dicho documento.
+LXV. Expedir a los trabajadores adscritos al ayuntamiento, a los organismos públicos descentralizados municipales, a los elementos de seguridad pública, así como a sus beneficiarios, copia certificada del acuerdo de Cabildo mediante el cual el ayuntamiento aprueba y otorga el beneficio de la pensión o jubilación demandada, asimismo, efectuar la autorización y registro de dicho documento.
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-LXVI. Los Ayuntamientos, al otorgar los citados beneficios de seguridad social a sus trabajadores, a los elementos de seguridad pública, así como a los beneficiarios de ambos, invariablemente deberán cumplir con los procedimientos legales descritos en la normatividad de la materia, para que en un plazo no mayor de treinta días hábiles, contados a partir de la fecha en que se tenga por recibida y convalidada la documentación requerida para su tramitación, resuelvan y emitan los correspondientes acuerdos de pensión. Para tal fin, los Ayuntamientos deberán contar con los recursos humanos, técnicos, procedimentales y administrativos necesarios.
-
-La autoridad municipal, en el cumplimiento de los beneficios de la seguridad social, en todo momento guiará sus trabajos, atendiendo a los principios de transparencia y eficacia administrativa.
+LXVI. Los ayuntamientos, al otorgar los citados beneficios de seguridad social a sus trabajadores, a los trabajadores adscritos a los organismos públicos descentralizados municipales, a los elementos de seguridad pública, así como a sus beneficiarios, invariablemente deberán cumplir con los procedimientos legales descritos en la normatividad de la materia, para que en un plazo no mayor de treinta días hábiles, contados a partir de la fecha en que se tenga por recibida y convalidada la documentación requerida para su tramitación, resuelvan y emitan los correspondientes acuerdos de pensión. Para tal fin, los ayuntamientos deberán contar con los recursos humanos, técnicos, procedimentales y administrativos necesarios.
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
@@ -1243,35 +1243,49 @@ XXXII. Delegar en sus subalternos, dependencias o áreas administrativas del Ayu
 
 XXXIII. Enviar la terna para la designación del Juez de Paz a la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XXXIV.- Cumplir y hacer cumplir en el ámbito de su competencia, el otorgamiento de los beneficios de seguridad social a los trabajadores municipales, a los elementos de seguridad pública o a los deudos de ambos, respecto de pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez y muerte, conforme lo establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
+XXXIV.- Cumplir y hacer cumplir en el ámbito de su competencia, el otorgamiento de los beneficios de seguridad social a los trabajadores municipales, a los trabajadores adscritos a los organismos públicos descentralizados municipales, a los elementos de seguridad pública, asi como a sus deudos, respecto de pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez y muerte, conforme lo establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XXXV.- En ejercicio de sus atribuciones y mediante el área de Recursos Humanos del Ayuntamiento, elaborar los Padrones de Servidores Públicos Municipales, a saber:
+XXXV.- En ejercicio de sus atribuciones y mediante el área de recursos humanos del ayuntamiento, elaborar los padrones de servidores públicos municipales, a saber:
 
-1).- De trabajadores, y de elementos de seguridad pública en activo;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-2).- De extrabajadores, y de ex elementos de seguridad pública;
+1).- De trabajadores municipales y de los organismos públicos descentralizados municipales, así como de los elementos de seguridad pública en activo;
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+2).- De extrabajadores municipales y de los organismos públicos descentralizados municipales, así como de los ex elementos de seguridad pública;
+
+> <small>(REFORMADO [ [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
 3).- De pensionados; y
 
+> <small>(REFORMADO [ [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
+
 4).- De beneficiaros, por concepto de muerte del trabajador o pensionista.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE ENERO DE 2014)</small>
 
 Asimismo, con base en los artículos 55, de la Ley del Servicio Civil del Estado de Morelos; y 14, de la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública, mediante el área que para los efectos determine, efectuar los actos de revisión, análisis, diligencias, investigación y reconocimiento de procedencia necesarios, con la finalidad de garantizar el derecho constitucional al beneficio de jubilaciones y/o pensiones de sus trabajadores.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE ENERO DE 2014)</small>
+
 Con fundamento en lo establecido en el artículo Décimo Transitorio, de la Ley del Sistema de Seguridad Pública del Estado de Morelos; y lo dispuesto en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública, se observarán los mismos procedimientos respecto a la documentación y análisis jurídico y de información de los elementos integrantes de las Corporaciones Policiacas Municipales.
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XXXVI.- Garantizar el cabal cumplimiento al derecho de petición, contemplado en el artículo 8, de la Constitución Política de los Estados Unidos Mexicanos, al efectuar, mediante el área de Recursos Humanos del Ayuntamiento, la entrega al trabajador, al elemento de seguridad pública o a los deudos de ambos, de la documentación referente a la carta de certificación del último salario percibido y a la constancia de servicios prestados por el trabajador en las diferentes Administraciones Municipales.
+XXXVI.- Garantizar el cabal cumplimiento al derecho de petición, contemplado en el artículo 8, de la Constitución Política de los Estados Unidos Mexicanos, al efectuar, mediante el área de recursos humanos del ayuntamiento y la del organismo público descentralizado correspondiente, la entrega al trabajador, al elemento de seguridad pública o a los deudos de ambos, de la documentación referente a la carta de certificación del último salario percibido y a la constancia de servicios prestados por el trabajador en las diferentes Administraciones municipales.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2014)</small>
 
 Para el caso de que el Congreso del Estado u otro Ayuntamiento, solicite información referente a la antigüedad de algún extrabajador, o de algún ex elemento de seguridad pública, con la finalidad de convalidar la antigüedad en el servicio público para el Ayuntamiento al cual se le pide la información, sin que por este motivo le corresponda la resolución o emisión del acuerdo de la pensión por no ser el último o actual patrón, el Ayuntamiento proporcionará a los citados órdenes de Gobierno, copias certificadas de las documentales que fehacientemente acrediten los periodos de servicio que hubieran prestado para el Ayuntamiento.
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XXXVII.- Garantizar en tiempo y forma, el cumplimiento de los Acuerdos de Cabildo, mediante los cuales otorga a sus trabajadores, a los elementos de seguridad pública, o a los deudos de ambos, el beneficio de pensiones y/o jubilaciones, de acuerdo al procedimiento y los plazos que para tales efectos establece la Ley del Servicio Civil del Estado de Morelos; la Ley de Prestaciones de Seguridad social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública; las Bases Generales y Procedimientos para la Expedición de Pensiones y su respectivo Reglamento Interno de Pensiones;
+XXXVII.- Garantizar en tiempo y forma, el cumplimiento de los acuerdos de Cabildo, mediante los cuales otorga a sus trabajadores, a los trabajadores adscritos a los organismos públicos descentralizados municipales, a los elementos de seguridad pública, así como a sus deudos, el beneficio de pensiones y/o jubilaciones, de acuerdo al procedimiento y los plazos que para tales efectos establece la Ley del Servicio Civil del Estado de Morelos; la Ley de Prestaciones de Seguridad social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública; las Bases Generales y Procedimientos para la Expedición de Pensiones y su respectivo Reglamento Interno de Pensiones;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
@@ -1453,7 +1467,7 @@ Los Planes de Desarrollo Municipal, en Municipios que cuenten con población ind
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
-Así mismo, los Planes de Desarrollo Municipal, en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
+Así mismo, los Planes de Desarrollo Municipal en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
 
 ###### Artículo 52.
 
@@ -1563,7 +1577,7 @@ El Reglamento Interior del Ayuntamiento señalará el procedimiento de iniciativ
 
 ###### Artículo 63.
 
-El Presidente Municipal, el Síndico, los Regidores podrán presentar proyectos de bandos de policía y de gobierno, reglamento interior y reglamentos al Cabildo para su análisis, discusión y aprobación en su caso.
+El Presidente Municipal, el Síndico, los Regidores podrán presentar proyectos de bandos de policía y de gobierno interior, reglamento Interior y reglamentos al Cabildo para su análisis, discusión y aprobación en su caso.
 
 Esta misma facultad podrá ser ejercida por los ciudadanos del Municipio, siempre y cuando cumplan con lo dispuesto en el artículo 19 bis, fracción III, de la Constitución del Estado.
 
@@ -1699,11 +1713,11 @@ k).- Un Cronista Municipal podrá ser removido del Concejo cuando incurra en vio
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 75.
 
-Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento; una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de Seguridad Pública, así como de los beneficiarios de todos estos, asimismo, garantizará el control, y resguardo del archivo documental laboral y del padrón de servidores públicos y pensionistas; materiales y técnicos del municipio, una dependencia encargada de la prestación de Servicios Públicos Municipales, una dependencia encargada de la protección ambiental y desarrollo sustentable, una dependencia encargada de la ejecución de la administración de obras públicas, de atención de asuntos migratorios y religiosos, otra de seguridad pública, tránsito municipal, un Concejo de cronistas municipal, un área de información pública y protección de datos personales, una Dirección de la Instancia de la mujer y cuando menos una Oficialía del Registro Civil y una Contraloría Municipal.
+Cada municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una secretaría del ayuntamiento, una tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos éstos, asimismo, garantizará el control y resguardo del archivo documental laboral y del padrón de servidores públicos tanto del ayuntamiento como de los organismos públicos descentralizados municipales, así como de los pensionistas; materiales y técnicos del municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios, otra de la seguridad pública y tránsito municipal, un cronista municipal, una Dirección de la Instancia Municipal de la Mujer cuando menos una Oficialia del Registro Civil y una Contraloría Municipal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -1879,13 +1893,51 @@ XXVI.- Las demás que le asignen esta Ley, la de Hacienda Municipal, el Código 
 
 Los Tesoreros serán responsables de las erogaciones que efectúen y que no estén comprendidas en los presupuestos aprobados y de las que no haya autorizado el Ayuntamiento.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+### CAPÍTULO II BIS. DE LA RESPONSABILIDAD DE LOS ASUNTOS JURÍDICOS
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 83 Bis.
+
+El municipio contará con una dependencia encargada de los asuntos jurídicos, constituido como órgano jurídico especializado, cuya función es la defensa del ayuntamiento en los procesos jurídicos en los que éste sea parte, llevando a cabo sus actividades en forma programada y con base en los principios de integridad, honestidad, congruencia, eficacia, productividad y pertinencia;
+
+El titular de dicho órgano dependerá en forma directa de la Presidencia y Sindicatura Municipal. Para ser encargado de la dependencia de asuntos jurídicos se requiere:
+
+(NOTA: EL 20 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I. Tener la ciudadanía mexicana POR NACIMIENTO, en pleno ejercicio de sus derechos políticos y civiles.
+
+II. Tener cuando menos veinticinco años cumplidos el día de la designación;
+
+III. Contar con título y cédula profesional que lo acredite como profesionista afín al cargo, y con una experiencia comprobable de dos años dentro de la dependencia de asuntos jurídicos de cualquier ayuntamiento;
+
+(NOTA: EL 20 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+IV. Gozar de buena reputación y no haber sido condenado por delito QUE AMERITE PENA CORPORAL DE MÁS DE UN AÑO DE PRISIÓN; PERO SI SE TRATARE de robo, fraude, falsificación, abuso de confianza y OTRO QUE LASTIME SERIAMENTE LA BUENA FAMA EN EL CONCEPTO PÚBLICO, INHABILITARÁ PARA EL CARGO, CUALQUIERA QUE HAYA SIDO LA PENA; y,
+
+V. Residir en el municipio el día de la designación.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 83 Ter.
+
+Para el buen desempeño de sus funciones la dependencia encargada de los asuntos jurídicos tendrá las siguientes atribuciones:
+
+I. Expedir, previa autorización de la Presidencia o Sindicatura, las certificaciones que se soliciten en relación a los asuntos jurídicos en los que intervengan;
+
+II. Llevar a cabo actividades de prevención en coordinación de las dependencias y órganos del ayuntamiento, tendientes a evitar posibles conflictos jurídicos para el municipio;
+
+III. Brindar atención integral a procedimientos y procesos jurídicos en materia de amparo, laboral, burocrática, administrativa, civil, mercantil, penal, constitucional y demás áreas jurídicas en las que el municipio sea parte;
+
+IV. Asesorar, analizar, actualizar y emitir, de acuerdo con los ordenamientos internos, opinión jurídica sobre el Bando de Policía y Gobierno, reglamentos, instrumentos jurídicos o cualquier otro documento que le sean requeridos por el Presidente, Síndico, Cabildo, Secretaría Municipal, Tesorería o los órganos y dependencias del Municipio, y
+
+V. Las demás que de manera específica establezca la Ley Orgánica Municipal, el Bando de Policía y Gobierno del Municipio, o los que sus reglamentos le confieran.
+
 ### CAPÍTULO III. DEL CONTRALOR
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-### CAPÍTULO III BIS. DIRECCION ADMINISTRATIVA DE LA INSTANCIA MUNICIPAL DE LA MUJER
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
 
 ###### Artículo 84.
 
@@ -1911,9 +1963,11 @@ V. Contar con experiencia mínima comprobable de dos años en órganos de contro
 
 VI. Tener como mínimo veinticinco años de edad, cumplidos al día de la designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 86.
 
-Son atribuciones del Contralor Municipal:
+Son atribuciones del contralor municipal;
 
 I. Realizar actos de inspección, supervisión o fiscalización, evaluación y control de los recursos humanos, materiales y financieros que por cualquier título legal tenga en administración, ejerza, detente o posea el Ayuntamiento por conducto de sus dependencias, sus órganos desconcentrados o descentralizados y demás organismos auxiliares del sector paramunicipal, sean de origen federal, estatal o del propio Municipio, así como realizar la evaluación de los planes y programas municipales;
 
@@ -1957,33 +2011,51 @@ X. Vigilar el exacto cumplimiento de las disposiciones legales y reglamentarias 
 
 XI. Desarrollar los sistemas de control interno del Ayuntamiento y vigilar su exacto cumplimiento; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XII. En ejercicio de sus atribuciones establecidas en las fracciones I y II, del artículo 86 de esta Ley, concomitantemente con el área de Recursos Humanos del Ayuntamiento, y dependiendo del caso con los servidores públicos y/o sus representantes, efectuará los actos de revisión, análisis e investigación documental, de la antigüedad de los servidores públicos para garantizar las prestaciones y beneficios en materia de prestaciones de seguridad social; asimismo, verificará que el área de Recursos Humanos efectúe la entrega al servidor público o solicitante de la documentación referente a carta de certificación del último salario percibido y la constancia de servicios prestados para el Ayuntamiento.
+XII. En ejercicio de sus atribuciones establecidas en las fracciones I y II, del artículo 86 de esta Ley, concomitantemente con el área de recursos humanos del ayuntamiento y del comisario del organismo público descentralizado municipal correspondiente en su caso, y dependiendo del caso con los servidores públicos y/o sus representantes, efectuará los actos de revisión, análisis e investigación documental, de la antigüedad de los servidores públicos para garantizar las prestaciones y beneficios en materia de prestaciones de seguridad social; asimismo, en coordinación con el Comisario del organismo público descentralizado municipal en su caso, verificará que el área de recursos humanos correspondiente efectúe la entrega al servidor público o solicitante de la documentación referente a carta de certificación del último salario percibido y la constancia de servicios prestados para el ayuntamiento u organismo público descentralizado municipal.
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XIII. Supervisar la elaboración por parte del área de Recursos Humanos, de los padrones de Servidores Públicos Municipales, a saber.
+XIII. Supervisar la elaboración por parte del área de recursos humanos, de los padrones de servidores públicos municipales, a saber.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
 1).- De trabajadores en activo y de elementos de seguridad pública;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
+
 2).- De extrabajadores y de elementos de seguridad pública;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
 3).- De pensionados; y
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
+
 4).- De beneficiaros, por concepto de muerte del trabajador o pensionista.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
 Los padrones en comento, deberán contener nombre completo de los servidores públicos, de los extrabajadores o de sus beneficiarios, fecha de ingreso, fecha de egreso, o fecha en la cual se emitió la pensión, así como el monto de ésta.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2021)</small>
+
 Similar procedimiento se efectuará respecto de los elementos de las Instituciones de Seguridad Pública Municipales.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+En coordinación con el comisario correspondiente, verificar de igual manera la elaboración de los citados padrones de los servidores públicos adscritos a los organismos públicos descentralizados municipales.
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
 XIV. Supervisar que las áreas administrativas del Ayuntamiento, den cabal cumplimiento a todo tipo de Acuerdos, Bandos, Reglamentos Internos, Administrativos, y demás ordenamientos que el Cabildo expida;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2021)</small>
 
 XV. Supervisar que el área de recursos humanos del ayuntamiento, y en su caso, en coordinación con el comisario del organismo público descentralizado municipal correspondiente, allegue a sus trabajadores, a los elementos de seguridad pública, así como a sus deudos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones,"efectuar la autorización y registro de dicho documento; y
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2014)</small>
 
 a) Sustituir el término "así como de su legal protocolización", "efectuar la autorización y registro de dicho documento".
 
@@ -2021,7 +2093,7 @@ V. Alterar constancias o cualquier otro tipo de documentos e información o dest
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-VI. Hacer del conocimiento público o privado el resultado de las auditorias internas que pongan en peligro la estabilidad del municipio.
+VI. Hacer del conocimiento público o privado el resultado de las auditorías internas que pongan en peligro la estabilidad del municipio.
 
 La destitución también procederá cuando se advierta la comisión de irregularidades en el desempeño de este servidor público, que aún no siendo graves, sean continuas y quebranten los mismos principios señalados en el primer párrafo de este artículo.
 
@@ -2041,7 +2113,9 @@ La Secretaría de la Contraloría podrá realizar actos de inspección y vigilan
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MAYO DE 2011)</small>
 
-### CAPÍTULO IV. DE LA OFICIALÍA DEL REGISTRO CIVIL
+### CAPÍTULO III BIS. DIRECCION ADMINISTRATIVA DE LA INSTANCIA MUNICIPAL DE LA MUJER
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
 
 ###### Artículo 89 Bis.
 
@@ -2107,7 +2181,7 @@ X. Celebrar convenios de cooperación, coordinación y concertación en la mater
 
 XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
 
-### CAPÍTULO V. DE LA JUSTICIA DE PAZ MUNICIPAL
+### CAPÍTULO IV. DE LA OFICIALÍA DEL REGISTRO CIVIL
 
 ###### Artículo 90.
 
@@ -2145,9 +2219,9 @@ VII. Dar por escrito el aviso a que se refiere el artículo 425, del Código Fam
 
 VIII. Llevar a cabo el procedimiento de Divorcio Administrativo de acuerdo con lo que contempla el artículo 174 del Código Familiar para el Estado Libre y Soberano de Morelos, el artículo 503 del Código Procesal Familiar para el Estado Libre y Soberano de Morelos, y el artículo 25 del Reglamento del Registro Civil del Estado de Morelos y demás ordenamientos jurídicos aplicables.
 
-Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije en el Presupuesto de Egresos del respectivo Municipio.
+Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije, en el Presupuesto de Egresos del respectivo Municipio.
 
-### CAPÍTULO VI. DE LA JUSTICIA CÍVICA
+### CAPÍTULO V. DE LA JUSTICIA DE PAZ MUNICIPAL
 
 ###### Artículo 93.
 
@@ -2159,7 +2233,7 @@ La justicia de paz en los Municipios estará a cargo de los jueces que señale l
 
 Los jueces de paz municipales estarán subordinados al Poder Judicial del Estado; tendrán la competencia, jurisdicción, obligaciones y atribuciones que les otorga la Ley Orgánica del Poder Judicial y que les señalen las demás Leyes y reglamentos aplicables; serán nombrados por la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, a propuesta en terna del Ayuntamiento respectivo y durarán en su cargo coincidiendo con el periodo constitucional del Ayuntamiento al que corresponda el Municipio de su jurisdicción; juzgados que dependerán económicamente del Ayuntamiento respectivo, además del apoyo que disponga el Poder Judicial.
 
-### CAPÍTULO VII. DE LAS AUTORIDADES AUXILIARES
+### CAPÍTULO VI. DE LA JUSTICIA CÍVICA
 
 ###### Artículo 95.
 
@@ -2191,7 +2265,7 @@ Cada delegación o ayudantía municipal contará con elementos del cuerpo de seg
 
 En los Municipios que no correspondan con las cabeceras de los distritos judiciales del Estado, los Alcaldes dependerán, exclusivamente en lo administrativo, del Presidente Municipal, y tendrán a su cargo la custodia de los detenidos, el cuidado de su alimentación y disciplina, la limpieza e higiene de los establecimientos penitenciarios y el proporcionar ocupación diaria remunerada en los centros especializados para ejecución de medidas privativas de libertad para adolescentes.
 
-### CAPÍTULO VIII. DE LA COMPETENCIA DE LAS AUTORIDADES AUXILIARES
+### CAPÍTULO VII. DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 100.
 
@@ -2233,9 +2307,7 @@ En el presupuesto anual de egresos de cada Municipio se determinará una partida
 
 Para el caso de los ayudantes municipales, la partida a que se refiere el párrafo anterior deberá ser suficiente para cubrir, por lo menos, los gastos de administración que por motivo de su actividad generen, LA CUAL NO PODRÁ SER MENOR A NOVENTA SALARIOS MÍNIMOS VIGENTES, POR CADA AYUDANTÍA O DELEGACIÓN QUE SE TENGA EN EL MUNICIPIO DE MANERA MENSUAL.
 
-### CAPÍTULO IX. DE LA ELECCIÓN Y DESIGNACIÓN DE LAS AUTORIDADES AUXILIARES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+### CAPÍTULO VIII. DE LA COMPETENCIA DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 102.
 
@@ -2269,7 +2341,9 @@ X. Todas aquellas que esta Ley, los bandos, reglamentos y el propio Ayuntamiento
 
 Las autoridades auxiliares podrán asesorarse en las dependencias y entidades correspondientes de la administración pública municipal, para la atención de los asuntos de su competencia.
 
-### CAPÍTULO X. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+### CAPÍTULO IX. DE LA ELECCIÓN Y DESIGNACIÓN DE LAS AUTORIDADES AUXILIARES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 104.
 
@@ -2335,7 +2409,7 @@ Los ayudantes municipales sólo podrán ser removidos mediante acuerdo del Cabil
 
 Acordada la remoción, se dará posesión del cargo al suplente y, en caso de no existir éste o tener algún impedimento previa auscultación de la comunidad, el Cabildo nombrará al sustituto, quien concluirá el período.
 
-### CAPÍTULO I. DEL PATRIMONIO MUNICIPAL
+### CAPÍTULO X. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
 ###### Artículo 108.
 
@@ -2371,7 +2445,7 @@ X. Las demás que señalen los Reglamentos.
 
 ## TÍTULO SEXTO (SIC). DEL PATRIMONIO Y LA HACIENDA MUNICIPAL
 
-### CAPÍTULO II. DE LA HACIENDA MUNICIPAL
+### CAPÍTULO I. DEL PATRIMONIO MUNICIPAL
 
 ###### Artículo 111.
 
@@ -2383,7 +2457,7 @@ Los bienes inmuebles de dominio privado de los Municipios son imprescriptibles y
 
 Los bienes muebles de dominio privado de los Municipios son inembargables; la adquisición por prescripción de estos bienes se sujetará a los mismos requisitos que para los bienes muebles de dominio privado del Estado establece la Ley General de Bienes.
 
-### CAPÍTULO III. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTO Y PRESTACIÓN DE SERVICIOS
+### CAPÍTULO II. DE LA HACIENDA MUNICIPAL
 
 ###### Artículo 112.
 
@@ -2467,7 +2541,7 @@ La inspección de la hacienda pública municipal compete al Ayuntamiento por con
 
 La Secretaría de la Contraloría tendrá la intervención en términos de la presente Ley.
 
-### CAPÍTULO I. DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO III. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTO Y PRESTACIÓN DE SERVICIOS
 
 ###### Artículo 119.
 
@@ -2543,7 +2617,7 @@ Los Ayuntamientos adquirirán preferentemente los inmuebles que circunden a los 
 
 ## TÍTULO SÉPTIMO. DE LAS OBRAS Y SERVICIOS MUNICIPALES
 
-### CAPÍTULO II. OBRAS PÚBLICAS MUNICIPALES
+### CAPÍTULO I. DE LOS SERVICIOS PÚBLICOS
 
 ###### Artículo 123.
 
@@ -2583,7 +2657,7 @@ XIV. Las demás que la Legislatura Local determine según las condiciones territ
 
 Cuando los servicios públicos sean prestados directamente por el Ayuntamiento corresponderá al Presidente Municipal la vigilancia y supervisión de los mismos.
 
-### CAPÍTULO III. DE LA SEGURIDAD PÚBLICA
+### CAPÍTULO II. OBRAS PÚBLICAS MUNICIPALES
 
 ###### Artículo 125.
 
@@ -2669,7 +2743,7 @@ Los convenios que celebren los Ayuntamientos para la ejecución de obras públic
 
 Los Ayuntamientos podrán contratar obras públicas y servicios relacionados con las mismas, mediante los procedimientos y reglas que señale la legislación estatal sobre la materia.
 
-### CAPÍTULO IV. PROTECCIÓN CIVIL
+### CAPÍTULO III. DE LA SEGURIDAD PÚBLICA
 
 ###### Artículo 132.
 
@@ -2699,13 +2773,17 @@ VI. Auxiliar en los programas de salud, dotación de servicios públicos municip
 
 VII. Efectuar programas que tiendan a prevenir el delito y las faltas administrativas, así como colaborar y participar coordinadamente con las autoridades competentes en la implementación y ejecución de programas estatales en materia de seguridad pública;
 
-VIII. (DEROGADA, P.O. 22 DE ABRIL DE 2015)
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VIII. Efectuar programas de capacitación y concientización de la cultura vial, así como la promoción del uso adecuado de señalamientos viales, con la finalidad de disminuir el índice de accidentes, en coordinación y colaboración con las autoridades educativas, principalmente, y las demás que se consideren para su implementación;
+
+IX. (DEROGADA, P.O. 22 DE ABRIL DE 2015)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-IX.- Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres y la familia en el marco de la política integral con perspectiva de género, y
+X. Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres y la familia en el marco de la política integral con perspectiva de género, y
 
-X.- Los demás que establezcan las Leyes y sus reglamentos.
+XI. Los demás que establezcan las Leyes y sus reglamentos.
 
 ###### Artículo 134.
 
@@ -2719,15 +2797,15 @@ Los Titulares de Seguridad Pública y agentes de Policía serán nombrados y rem
 
 Para ser Titular de Seguridad Pública se requiere cumplir con los requisitos que establece la legislación local aplicable.
 
-### CAPÍTULO V. DE LAS CONCESIONES
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+### CAPÍTULO IV. PROTECCIÓN CIVIL
 
 ###### Artículo 137.
 
 Los Ayuntamientos en sus respectivas jurisdicciones, conforme a lo que establece la Ley de Protección Civil para el Estado de Morelos, constituirán el Consejo Municipal de Protección Civil, con las funciones que la propia Ley de la materia determina.
 
-### CAPÍTULO I. DE LOS CONVENIOS Y LA COORDINACIÓN
+### CAPÍTULO V. DE LAS CONCESIONES
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 138.
 
@@ -2961,7 +3039,7 @@ Cuando la concesión termine por causa imputable al concesionario, no serán ree
 
 ## TÍTULO OCTAVO. DE LOS CONVENIOS, COORDINACIÓN Y ASOCIACIÓN MUNICIPAL
 
-### CAPÍTULO II. DE LA ASOCIACIÓN MUNICIPAL
+### CAPÍTULO I. DE LOS CONVENIOS Y LA COORDINACIÓN
 
 ###### Artículo 162.
 
@@ -3001,7 +3079,7 @@ VII.- Todo aquello que sea necesario para salvaguardar los intereses del Municip
 
 Los convenios que se celebren con Municipios de otra u otras entidades requerirán la autorización de la Legislatura Local y del Congreso o Congresos locales de las mismas, y serán suscritos por el Ejecutivo del Estado. Deberá publicarse en el Periódico Oficial la fecha de entrada en vigor del convenio.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LA ASOCIACIÓN MUNICIPAL
 
 ###### Artículo 166.
 
@@ -3029,9 +3107,7 @@ Los Ayuntamientos tendrán la participación que señala la Constitución Polít
 
 ## TÍTULO NOVENO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO I. DE LAS LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 168.
 
@@ -3059,7 +3135,9 @@ VI.- Los servidores públicos que desempeñen funciones en las administraciones 
 
 ## TÍTULO DÉCIMO. DE LA SUPLENCIA Y RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
-### CAPÍTULO II. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO I. DE LAS LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 171.
 
@@ -3111,7 +3189,7 @@ Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determ
 
 Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 174.
 
@@ -3137,7 +3215,7 @@ Los miembros de los Ayuntamientos, secretarios, directores, subdirectores o jefe
 
 DE LA DECLARACIÓN DE DESAPARICIÓN Y SUSPENSIÓN DEFINITIVA DE LOS AYUNTAMIENTOS, DE LA SUSPENSIÓN DEFINITIVA DE UNO DE SUS MIEMBROS Y DE LA REVOCACIÓN DEL MANDATO
 
-### CAPÍTULO II. DEL PROCEDIMIENTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 178.
 
@@ -3183,7 +3261,7 @@ Cuando alguno de los integrantes del Ayuntamiento no reúna los requisitos de el
 
 Decretada la revocación, se procederá en los términos del último párrafo del Artículo anterior.
 
-### CAPÍTULO ÚNICO. DEL CONCEJO MUNICIPAL
+### CAPÍTULO II. DEL PROCEDIMIENTO
 
 ###### Artículo 183.
 
@@ -3203,7 +3281,7 @@ En caso de que los interesados no asistan a la audiencia a que se refiere el Art
 
 ## TÍTULO DÉCIMO SEGUNDO
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO ANTE EL CONGRESO DEL ESTADO
+### CAPÍTULO ÚNICO. DEL CONCEJO MUNICIPAL
 
 ###### Artículo 185.
 
@@ -3250,6 +3328,8 @@ III. En el momento de su instalación, el Concejo Municipal elegirá de entre su
 IV. Al día siguiente de su instalación, el Concejo Municipal celebrará la primera sesión ordinaria de Cabildo en los términos señalados en esta Ley.
 
 ## TÍTULO DÉCIMO TERCERO. DE LAS CONTROVERSIAS MUNICIPALES
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO ANTE EL CONGRESO DEL ESTADO
 
 ###### Artículo 192.
 
@@ -3949,7 +4029,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado libre y Soberano de Morelos.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 ###### ARTICULO TERCERO.
 
@@ -4307,28 +4387,46 @@ TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan a lo disp
 
 CUARTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
 
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS TRES QUE REFORMA LOS ARTÍCULOS 38, FRACCIONES VII SEGUNDO PÁRRAFO, LXIV, LXV Y LXVI; 41, FRACCIONES XXXIV, XXXV, XXXVI Y XXXVII; 75; 86, FRACCIONES XII Y XV; Y ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN XIII DEL ARTÍCULO 86 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los articulos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
 ###### ARTÍCULO CUARTO.
 
-(sic) Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
+Publiquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
 
-P.O. 21 DE DICIEMBRE DE 2005.
+P.O. 6 DE OCTUBRE DE 2021.
 
-PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS CUATRO POR EL QUE SE ADICIONA LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, PARA REGULAR LA DEPENDENCIA ENCARGADA DE ASUNTOS JURÍDICOS MUNICIPALES”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+PRIMERA.- Aprobado que sea el presente decreto, entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”.
 
-P.O. 2 DE AGOSTO DE 2006.
+SEGUNDA.- Remítase el presente decreto al gobernador constitucional del estado, para su sanción y publicación de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+TERCERA.- A partir de la entrada en vigor del presente (sic), se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+CUARTA.- Publíquese en la gaceta legislativa del Congreso del Estado de Morelos.
 
-TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+P.O. 6 DE OCTUBRE DE 2021.
 
-P.O. 16 DE JULIO DE 2008.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS CINCO.- QUE ADICIONA LA FRACCIÓN VIII, RECORRIÉNDOSE LAS SUBSECUENTES, DEL ARTÍCULO 133 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
 
-Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobación.
 
-P.O. 5 DE NOVIEMBRE DE 2008.
+TERCERO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+CUARTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
