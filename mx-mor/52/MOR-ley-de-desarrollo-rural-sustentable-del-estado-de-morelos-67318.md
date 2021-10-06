@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2019-12-25"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -913,9 +913,47 @@ Los agricultores del estado de Morelos, realizarán prácticas agroecológicas c
 
 Artículo 66 QUINTUS.- Los apicultores promoverán con el apoyo de la Secretaría y el Consejo Estatal, la organización formal y el desarrollo organizacional, que les permitan hacer frente a su problemática en común.
 
-### CAPÍTULO IV. DE LA CULTURA Y PRODUCCIÓN TRADICIONAL EN EL DESARROLLO RURAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-### CAPÍTULO V. DE LA SUSTENTABILIDAD
+### CAPÍTULO III TER. LA PROTECCIÓN DE LAS ABEJAS
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Artículo 66 SEXIES.- La protección y conservación de las abejas, debe ser prioritaria en el estado de Morelos, por los beneficios que otorgan a la conservación de la biodiversidad y los servicios ambientales a través de la polinización tanto en plantas de la vegetación natural como la cultivada.
+
+La secretaría se coordinará con autoridades federales, estatales y municipales para la prevención y el control de actividades de las personas que dañen a las abejas y a la apicultura, sujetándose a las normas, lineamientos y procedimientos que se establezcan a nivel federal.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Artículo 66 SEPTIES.- La Secretaría de Desarrollo Agropecuario, deberá firmar con asociaciones apícolas o instituciones educativas convenios de colaboración para elaborar un plan de capacitación para las áreas municipales de protección civil y las de ecología y protección al medio ambiente, con la finalidad de instruirlos para el cuidado, preservación y retiro de enjambres de abejas, así como la importancia de salvaguardarlas. Además de realizar campañas de concientización ciudadana acerca del cuidado y preservación de las abejas.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Artículo 66 OCTIES.- Las Secretarias de Desarrollo Agropecuario, de Medio Ambiente y Recursos Naturales y las autoridades municipales, en el ámbito de su competencia, promoverán campañas de concientización ciudadana acerca del cuidado y preservación de las abejas, en las que se fomenten conductas de respeto por parte del ser humano hacia ellas.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Artículo 66 NONIES.- La Secretaría de Desarrollo Agropecuario en coordinación con las Comisiones Legislativas de Desarrollo Agropecuario y Medio Ambiente, Recursos Naturales y Agua, así como las autoridades municipales, para conmemorar el día mundial de las abejas, que se celebra el 20 de mayo, se implementará en el estado el 20 de mayo de cada año como el “DÍA ESTATAL DE LAS ABEJAS” y para ello se organizara un concurso estatal, así como programas de actividades sociales y culturales, con la amplia participación de la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Artículo 66 DECIES.- Para la conservación y protección de las abejas, los ayuntamientos, deberán:
+
+a) Atender las denuncias sobre riesgos relacionados con la presencia de abejas;
+
+b) Fomentar la participación de asociaciones civiles protectoras del medio ambiente, en la instrumentación de acciones de protección y preservación de las abejas;
+
+c) Contemplar en sus ordenamientos municipales, las acciones para la protección, cuidado y conservación de las abejas;
+
+d) Celebrar convenios con el estado para capacitar a los cuerpos de protección civil y bomberos en el manejo y protección de enjambres.
+
+En la atención de denuncias por riesgo de colmenas, las autoridades municipales en la medida de lo posible, deberá de preservar la integridad del enjambre y llevarlo a su habitad o entregarlo a los apicultores.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Artículo 66 UNDECIES.- La captura y destrucción de los enjambres se realizará exclusivamente por personal autorizado por las autoridades correspondientes, ajustando su labor en todo momento a las normas oficiales que para tal efecto se establezcan.
+
+### CAPÍTULO IV. DE LA CULTURA Y PRODUCCIÓN TRADICIONAL EN EL DESARROLLO RURAL
 
 ###### Artículo 67.
 
@@ -949,9 +987,7 @@ Los proyectos específicos que se concertarán con las comunidades rurales para 
 
 Las Instituciones de enseñanza e investigación deberán incorporar a sus programas, el apoyo para sistematizar el conocimiento tradicional y acelerar la adecuación y transferencia de tecnología apropiada.
 
-### CAPÍTULO VI. DE LA SANIDAD E INOCUIDAD AGROPECUARIA, APÍCOLA Y ACUÍCOLA
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
+### CAPÍTULO V. DE LA SUSTENTABILIDAD
 
 ###### Artículo 71.
 
@@ -983,7 +1019,9 @@ La Secretaría, con la participación del Consejo Estatal, dependencias y entida
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2019)</small>
 
-### CAPÍTULO VII. EL FINANCIAMIENTO PARA EL DESARROLLO RURAL SUSTENTABLE
+### CAPÍTULO VI. DE LA SANIDAD E INOCUIDAD AGROPECUARIA, APÍCOLA Y ACUÍCOLA
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
 ###### Artículo 77.
 
@@ -1057,7 +1095,7 @@ Los gobiernos Estatal y Municipal, fomentarán el uso racional de los recursos n
 
 Se fomentará y fortalecerá en coadyuvancia con las autoridades competentes, la participación organizada de los productores en la planeación, operación y evaluación de programas y acciones, encaminadas a erradicar plagas y enfermedades agropecuarias, forestales, apícolas y acuícolas.
 
-### CAPÍTULO VIII. DE LA INVESTIGACIÓN Y LA TRANSFERENCIA TECNOLÓGICA
+### CAPÍTULO VII. EL FINANCIAMIENTO PARA EL DESARROLLO RURAL SUSTENTABLE
 
 ###### Artículo 83.
 
@@ -1169,7 +1207,7 @@ Para asegurar mayores recursos financieros al campo, el Sistema Estatal de Finan
 
 De las recuperaciones de los apoyos financieros otorgados por la Dirección General de Financiamiento Rural al sector, se canalizarán al fideicomiso o instrumento financiero requerido, con el objeto de estimular su capitalización y respaldar nuevas operaciones crediticias, que impulsen el desarrollo en beneficio de los productores y organizaciones del sector social en el medio rural.
 
-### CAPÍTULO IX. DE LA COMERCIALIZACIÓN DE BIENES Y SERVICIOS DEL SECTOR RURAL
+### CAPÍTULO VIII. DE LA INVESTIGACIÓN Y LA TRANSFERENCIA TECNOLÓGICA
 
 ###### Artículo 94.
 
@@ -1215,7 +1253,7 @@ Se fortalecerá la cobertura estatal de la infraestructura tecnológica para inv
 
 Se establecerá una amplia vinculación con instituciones educativas establecidas y/o relacionadas con el medio rural, mismas que serán miembros permanentes del Sistema Estatal de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, en el despliegue de acciones a través de una red de prestadores de servicios profesionales acreditados por el propio Sistema Estatal de Formación, Capacitación y Asesoría Técnica Rural Integral.
 
-### CAPÍTULO X. DE LA FORMACIÓN, CAPACITACIÓN Y ASESORÍA TÉCNICA
+### CAPÍTULO IX. DE LA COMERCIALIZACIÓN DE BIENES Y SERVICIOS DEL SECTOR RURAL
 
 ###### Artículo 100.
 
@@ -1267,7 +1305,7 @@ Se establecerán y fortalecerán las políticas de abasto interno, como una form
 
 Los bienes y servicios del medio rural, producidos por pequeños productores organizados, serán fortalecidos con el apoyo a la comercialización por parte del Estado, a través de contratos de compraventa directa para el abasto al sector gubernamental, privilegiando su autorización, con observancia de la Ley de Adquisiciones y la normatividad aplicable a la Prestación de Servicios Relacionados con Bienes Muebles e Inmuebles del Estado de Morelos.
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN PRODUCTIVA RURAL
+### CAPÍTULO X. DE LA FORMACIÓN, CAPACITACIÓN Y ASESORÍA TÉCNICA
 
 ###### Artículo 106.
 
@@ -1373,9 +1411,7 @@ VII. Las demás materias que impulsen el desarrollo rural integral sustentable.
 
 ## TÍTULO CUARTO. DE LA ORGANIZACIÓN PRODUCTIVA, EL DESARROLLO SOCIAL, EL DERECHO CIUDADANO DE DENUNCIA Y LA CONTRALORÍA SOCIAL
 
-### CAPÍTULO II. DEL DESARROLLO SOCIAL
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO I. DE LA ORGANIZACIÓN PRODUCTIVA RURAL
 
 ###### Artículo 113.
 
@@ -1413,7 +1449,9 @@ III. A efecto de establecer una adecuada coordinación para la constitución de 
 
 IV. Con el propósito de mantener el dinamismo de estas formas de representación, la Secretaría, conjuntamente con la dependencia federal que corresponda normativamente y en coordinación con los gobiernos municipales, revisarán cada dos años su representatividad.
 
-### CAPÍTULO III. DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS
+### CAPÍTULO II. DEL DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 117.
 
@@ -1435,7 +1473,7 @@ La Secretaría concertará con las instituciones que inciden en el medio rural, 
 
 Para ejercer una plena federalización y un sistema municipalista, con apoyo en la presente Ley, la Ley de Planeación del Estado y la Ley Orgánica Municipal, corresponde a los Ayuntamientos considerar en su Plan Municipal de Desarrollo un capítulo relativo al Desarrollo Rural Municipal, podrán sustentarse los programas de desarrollo rural integral y sustentable de cada uno de los núcleos de población rural existentes en su territorio.
 
-### CAPÍTULO IV. DE LA DENUNCIA POPULAR
+### CAPÍTULO III. DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS
 
 ###### Artículo 122.
 
@@ -1461,7 +1499,7 @@ El Consejo Estatal propondrá mecanismos para la reversión de la cultura migrat
 
 Bajo el principio de equidad y para disminuir las asimetrías, la Secretaría, coordinará esfuerzos y acciones específicas para defensa y dignificación de la vida de los trabajadores y jornaleros agrícolas, en especial, para evitar la explotación de mujeres y niños, mediante la concurrencia de diversas dependencias, acciones, instrumentos y recursos que inciden en el sector rural.
 
-### CAPÍTULO V. DE LA CONTRALORÍA SOCIAL
+### CAPÍTULO IV. DE LA DENUNCIA POPULAR
 
 ###### Artículo 128.
 
@@ -1494,6 +1532,8 @@ XI. Se cometa en contravención a lo dispuesto en la presente Ley y demás orden
 A toda persona que presente queja o denuncia, a petición de parte, tendrá la orientación requerida, con el objeto de coadyuvar en la defensa de los intereses de los productores rurales y en general de los habitantes del medio rural, ante las autoridades que corresponda.
 
 El denunciante o quejoso deberá aportar todos los elementos de prueba con que cuente para sustentar su denuncia y se tramitará conforme al procedimiento establecido por la legislación correspondiente; es supletorio el Código Procesal Civil para el Estado Libre y Soberano de Morelos.
+
+### CAPÍTULO V. DE LA CONTRALORÍA SOCIAL
 
 ###### Artículo 130.
 
@@ -1650,3 +1690,11 @@ PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder E
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS DOCE POR EL QUE SE ADICIONA UN CAPÍTULO III TER, DENOMINADO “LA PROTECCIÓN DE LAS ABEJAS” Y LOS ARTÍCULOS 66 SEXIES, 66 SEPTIES, 66 OCTIES, 66 NONIES, 66 DECIES Y 66 UNDECIES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial “Tierra y Libertad” órgano oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
