@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2020-09-11"
+last_updated: "2021-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -131,9 +131,11 @@ IV. Todas las demás acciones que tiendan a cumplir los fines de la presente Ley
 
 ### CAPÍTULO IV. Definición de Términos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 4°.
 
-Para los efectos de ésta Ley se definen los siguientes términos:
+Para los efectos de ésta ley se definen los siguientes términos:
 
 I. Agenda 21: Documento resultado de la Conferencia de las Naciones Unidas sobre Medio Ambiente y Desarrollo, celebrada en 1992 en Río de Janeiro, que constituye un acuerdo entre los diversos países sobre las políticas a implementar para alcanzar el desarrollo sustentable en el próximo siglo.
 
@@ -262,6 +264,10 @@ LV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.
 LVI. Tratamiento de Agua Residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
 
 LVII. Verificación: Medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria; y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+LVII. Bis. Centro de verificación vehicular: Establecimiento concesionado a un particular por el Ejecutivo estatal, a través de la secretaría, que cumple con las especificaciones de equipamiento, infraestructura, imagen y de procedimientos, establecidas en el programa de verificación vehicular obligatoria.
 
 LVIII. Vocación Natural: Características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
@@ -1789,19 +1795,41 @@ IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes 
 
 ### CAPITULO II BIS. De los centros de verificación
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-ARTÍCULO 126 BIS. La Secretaría otorgará, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de su competencia, y previa convocatoria pública y posterior solicitud, autorizaciones a los interesados que cumplan los requisitos correspondientes.
+ARTÍCULO 126 BIS. Se requiere de concesión para establecer, equipar, operar y explotar un centro de verificación vehicular. Las concesiones se otorgarán por el plazo que se señale en el título de concesión, atendiendo al cumplimiento de las obligaciones de la concesión respectiva.
 
-Para tal efecto, la Secretaría publicará las convocatorias en el Periódico Oficial, en las cuales se determinarán los elementos materiales y humanos y demás condiciones que deberán reunir los centros de verificación para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número y ubicación de las instalaciones de los verificadores ambientales.
+La secretaría otorgará, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de su competencia, y previa convocatoria pública y posterior solicitud, concesiones a los interesados que cumplan los requisitos correspondientes, efectuando una distribución adecuada de los verificentros en los municipios, en proporción al parque vehicular existente, sin que se confiera exclusividad respecto de los derechos de explotación.
 
-Los interesados en obtener autorización para establecer, equipar y operar centros de verificación vehicular obligatoria con reconocimiento oficial, deberán presentar solicitud ante la Secretaría, reuniendo los requisitos que se establezcan en el Reglamento correspondiente de la presente Ley.
+La secretaría procurará que los verificentros concesionados se instalen en los principales núcleos de población y su distribución permita a todos los habitantes del estado tener acceso oportuno a los mismos.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+Para tal efecto, la secretaría publicará las convocatorias en el Periódico Oficial, en las cuales se determinarán los elementos materiales y humanos y demás condiciones que deberán reunir los centros de verificación para obtener la concesión, las normas y procedimientos de verificación que se deberán observar, así como el número y ubicación de las instalaciones de los verificadores ambientales.
 
-ARTÍCULO 126 TER. Quienes realicen verificaciones de vehículos automotores y entreguen los documentos que acrediten su aprobación sin contar con la autorización correspondiente, serán sancionados en los términos de esta Ley y las demás disposiciones jurídicas aplicables.
+Los interesados en obtener concesión para establecer, equipar y operar centros de verificación vehicular obligatoria con reconocimiento oficial, deberán presentar solicitud ante la secretaría, reuniendo los requisitos que se establezcan en el reglamento correspondiente de la presente ley y en la convocatoria correspondiente.
 
-Será revocada la autorización a los centros de verificación vehicular que presten el servicio de verificación a un vehículo, realizando pruebas trampeadas con la finalidad de modificar los resultados para lograr la aprobación de emisiones de algún vehículo, como son:
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 126 TER. Quienes realicen verificaciones de vehículos automotores y entreguen los documentos que acrediten su aprobación sin contar con la concesión correspondiente, serán sancionados en los términos de esta ley y las demás disposiciones jurídicas aplicables.
+
+Las concesiones para operar centros de verificación se extinguen:
+
+I. Por caducidad;
+
+II. Por cancelación;
+
+III. Por revocación;
+
+IV. Renuncia del titular de la concesión;
+
+V. Pérdida de la nacionalidad mexicana en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos; y
+
+VI. Por extinción, liquidación, quiebra o concurso de las personas morales titulares.
+
+A. Procede la cancelación de la concesión.
+
+I. Pretender transmitir los derechos derivados de la concesión, sin que se cumplan los extremos previstos en la ley.
+
+B. Será revocada la concesión a los centros de verificación vehicular que presten el servicio de verificación a un vehículo, realizando pruebas trampeadas con la finalidad de modificar los resultados para lograr la aprobación de emisiones de algún vehículo, como son:
 
 I. Alterar el equipo o la toma de la muestra;
 
@@ -1811,7 +1839,7 @@ III. Capturar la información de identidad de un vehículo que no corresponda al
 
 IV. Usar cualquier dispositivo o sistema no autorizado; y
 
-V. Las demás que se establezcan en el Reglamento correspondiente de la presente Ley.
+V. Las demás que se establezcan en el reglamento correspondiente de la presente ley.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -1823,19 +1851,31 @@ II. Fianza que garantice el buen uso, posesión, manejo, extravío, destrucción
 
 III. Seguro que ampare las constancias de verificación vehicular que se utilicen en el Programa de Verificación Vehicular vigente, contra los riesgos de incendio, inundación, robo con violencia o asalto y terremoto, considerando el valor unitario, por un monto total y cantidad que se considere conveniente por la Secretaría, conforme se establezca en el Reglamento correspondiente de la presente Ley. La vigencia de este seguro deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-ARTÍCULO 126 QUINTUS. La autorización a que se refiere este Capítulo tendrá la vigencia que se indique en la convocatoria, la que podrá darse por terminada cuando:
+ARTÍCULO 126 QUINTUS. La concesión a que se refiere este capítulo tendrá la vigencia que se indique en la convocatoria, la que podrá darse por terminada cuando:
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
 I. La Secretaría modifique las condiciones conforme a las que deberá prestarse el servicio;
 
-II. Concluya el término de la autorización;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-III. Proceda la revocación de la autorización en los términos de la presente Ley; y
+II. Concluya el término de la concesión;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III. Proceda la revocación de la concesión en los términos de la presente ley; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
 IV. Las demás causas que se establezcan en el Reglamento correspondiente de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
 Para efectos de lo dispuesto en la fracción I, la Secretaría publicará en el Periódico Oficial "Tierra y Libertad" y en un diario de circulación estatal, las nuevas condiciones que se deberán cumplir, con la anticipación que se establezca en el Reglamento correspondiente de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
 
 Cuando los incumplimientos que se detecten en los centros de verificación sean atribuibles a los proveedores de maquinaria, equipos y servicios, estos serán responsables en términos de lo dispuesto por esta Ley.
 
@@ -1879,19 +1919,31 @@ XVII. Las demás que se establezcan en el Reglamento correspondiente de la prese
 
 Cuando los centros de verificación vehicular incumplan con alguna de las normas establecidas en la presente Ley; la Secretaría podrá iniciar el procedimiento administrativo con base en la documentación e información que proporcionen o con la que disponga la Secretaría.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-ARTÍCULO 126 SEPTIMUS.- Por cada verificación vehicular que realicen los prestadores de servicios autorizados, expedirán a los interesados una constancia con los resultados, la cual contendrá la siguiente información:
+ARTÍCULO 126 SEPTIMUS. Por cada verificación vehicular que realicen los prestadores de servicios concesionados, expedirán a los interesados una constancia con los resultados, la cual contendrá la siguiente información:
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
 I. Fecha de la verificación vehicular y número de folio de la constancia;
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
 II. Identificación del prestador de servicios autorizado y de quien efectuó la verificación vehicular;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
 III. Indicación de las normas oficiales o técnicas ecológicas locales aplicadas en la verificación vehicular;
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
 IV. Determinación del resultado de la verificación vehicular;
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
 V. Marca, submarca, año-modelo, número de placas de circulación y de serie; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
 VI. Las demás que señalen las normas oficiales, el Reglamento correspondiente de la presente Ley, el programa de verificación, la convocatoria, la autorización y circulares respectivas.
 
@@ -3074,3 +3126,15 @@ SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERA.- En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al siguiente Decreto.
 
 CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS TREINTA Y SEIS.- POR EL QUE SE REFORMAN EL ARTÍCULO 126 BIS, EL ARTÍCULO 126 TER, PRIMER PÁRRAFO, Y LAS FRACCIONES II Y III DEL ARTÍCULO 126 QUINTUS, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 126 SEPTIMUS, Y SE ADICIONA LA FRACCIÓN LVII BIS, AL ARTÍCULO 4, TODOS DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS, CON LA FINALIDAD DE REGULARIZAR EL FUNCIONAMIENTO DE LOS CENTROS DE VERIFICACIÓN VEHICULAR”.]
+
+PRIMERO.- Aprobado que sea el presente decreto, túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado de Morelos, por conducto del secretario de Desarrollo Sustentable, podrá otorgar directamente concesión a aquellos particulares que actualmente cuentan con una autorización, siempre y cuando no se encuentren suspendidos, revocados y/o sujetos a algún procedimiento administrativo o judicial que impida la prestación del servicio, por el plazo que actualmente cuenta su autorización, servicios públicos estatales de verificación de emisiones contaminantes de la atmósfera provocada por vehículos automotores que circulan en el estado de Morelos.
+
+CUARTO.- En caso de duda sobre la aplicación del presente decreto será la Consejería Jurídica del Ejecutivo estatal la facultada para resolver en términos de lo previsto por el artículo 36, fracción X de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
