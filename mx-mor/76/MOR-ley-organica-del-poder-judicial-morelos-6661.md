@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2021-09-09"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -77,9 +77,9 @@ La facultad a que se refiere el artículo anterior se ejerce por:
 
 I.- El Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-II.- La Junta de Administración, Vigilancia y Disciplina del Poder Judicial:
+II.- La Junta de Administración, Vigilancia y Disciplina;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
@@ -95,9 +95,11 @@ VII.- Los Arbitros;
 
 VIII.- Los demás servidores públicos en los términos que establezcan esta Ley, los Códigos de Procedimientos y demás leyes relativas.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 4.
 
-El Tribunal Superior de Justicia, el Consejo de la Judicatura Estatal y los juzgados mencionados en el artículo anterior tendrán la competencia que les determine esta ley, y en su defecto las leyes de los fueros común y federal y demás ordenamientos legales aplicables.
+El Tribunal Superior de Justicia, la Junta de Administración, Vigilancia y Disciplina y los juzgados mencionados en el artículo anterior tendrán la competencia que les determine esta ley, y en su defecto las leyes de los fueros común y federal y demás ordenamientoslegales (sic) aplicables.
 
 ###### ARTICULO 5.
 
@@ -123,21 +125,21 @@ VI.- Proporcionar a las autoridades competentes los datos e informes que éstos 
 
 VII.- Las demás que los ordenamientos legales les impongan.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 6.
 
-Son días y horas hábiles para el despacho en el Tribunal Superior de Justicia, Junta de Administración, Vigilancia y Disciplina del Poder Judicial: Juzgados de Primera Instancia, Menores y de Paz, de lunes a viernes, de las ocho a las quince horas, salvo los días en que oficialmente se suspendan las labores. Quedan exceptuados los asuntos de carácter penal y los casos en que por disposición de la ley o a juicio del Pleno del Tribunal o de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, en su caso, fuere necesario laborar en días y horas diversos.
-
-Así mismo, por cuanto a la materia laboral se estará a lo dispuesto por los artículos 715 y 716; de la Ley Federal del Trabajo; así como lo establecido en el ordinal 928, fracción III, del mismo ordenamiento federal, en este último caso, la Junta de Administración, Vigilancia y Disciplina del Poder Judicial determinará el personal que cubrirá las guardias permanentes.
+Son días y horas hábiles para el despacho en el Tribunal Superior de Justicia, la Junta de Administración, Vigilancia y Disciplina, Juzgados de Primera Instancia, Menores y de Paz, de lunes a viernes, de las ocho a las quince horas, salvo los días en que oficialmente se suspendan las labores. Quedan exceptuados los asuntos de carácter penal y los casos en que por disposición de la ley o a juicio del pleno del tribunal o de la Junta, en su caso, fuere necesario laborar en días y horas diversas.
 
 ###### ARTICULO 7.
 
 Los Magistrados del Tribunal Superior de Justicia serán designados en los términos que señala la Constitución Política del Estado Libre y Soberano de Morelos.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 8.
 
-Los Jueces serán nombrados por el Consejo de la Judicatura Estatal, ante el cual rendirán la protesta de ley.
+Los Jueces serán nombrados por la Junta de Administración, Vigilancia y Disciplina, ante la cual rendirán la protesta establecida en la Constitución del Estado.
 
 ###### ARTICULO 9.
 
@@ -147,17 +149,21 @@ Los demás servidores públicos de la administración de justicia, para poder ej
 
 Si quien deba rendir la protesta no comparece para tal efecto ante la autoridad respectiva, dentro del término de tres días hábiles contados a partir de la fecha de notificación de su nombramiento, éste se tendrá por no hecho y se procederá a hacer nueva designación.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 11.
 
-Los Magistrados, Consejeros de la Judicatura Estatal, Jueces, Secretario General de Acuerdos, Secretarios de Acuerdos, Oficial Mayor, Actuarios, y demás funcionarios del Poder Judicial del Estado, están impedidos para desempeñar otro empleo o encomienda de la federación, del Estado y sus municipios, del Distrito Federal y otras entidades federativas, o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia. El incumplimiento de esta disposición es causa de responsabilidad en los términos de la ley respectiva. Quedan exceptuados de esta disposición los cargos docentes y las labores que desempeñen los miembros del Consejo de la Judicatura al momento de su designación.
+Los magistrados, integrantes de la Junta de Administración, Vigilancia y Disciplina, Jueces, secretario general de Acuerdos, magistrado Visitador General, secretarios de Acuerdos, oficial mayor, actuarios, y demás funcionarios del Poder Judicial del Estado, están impedidos para desempeñar otro empleo o encomienda de la federación, del estado y sus municipios, de la Ciudad de México y otras entidades federativas, o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia. El incumplimiento de esta disposición es causa de responsabilidad en los términos de la ley respectiva. Quedan exceptuados de esta disposición los cargos docentes y las labores que desempeñen los miembros de la Junta de Administración, Vigilancia y Disciplina al momento de su designación.
 
 ###### ARTICULO 12.
 
 Todos los servidores públicos encargados de la administración de justicia están impedidos para el ejercicio de la abogacía, a excepción de la defensa en causa propia, de su cónyuge o de sus familiares hasta el cuarto grado, inclusive, y no podrán desempeñar cualquier otro cargo, empleo o comisión oficiales que sean remunerados o incompatibles con sus funciones.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 13.
 
-Ningún nombramiento para servidor público de la administración de justicia o auxiliar de esta, o Consejero de la Judicatura Estatal, podrá recaer en ascendientes, descendientes, cónyuges o colaterales dentro del cuarto grado por consanguinidad, segundo por afinidad o en personas con parentesco civil de los servidores públicos que hagan la designación.
+Ningún nombramiento para servidor público de la administración de justicia o auxiliar de esta, o de la Junta de Administración, Vigilancia y Disciplina, podrá recaer en ascendientes, descendientes, cónyuges o colaterales dentro del cuarto grado por consanguinidad, segundo por afinidad o en personas con parentesco civil de los servidores públicos que hagan la designación.
 
 ## TITULO SEGUNDO. DE LA DIVISION TERRITORIAL JURISDICCIONAL
 
@@ -185,9 +191,11 @@ III.- Tercer Circuito, que comprende los actuales distritos judiciales, quinto, 
 
 No obstante lo dispuesto en los artículos anteriores, el Pleno del Tribunal Superior de Justicia podrá crear otros circuitos y distritos judiciales para modificar la división judicial del territorio del Estado, y podrá ampliar o modificar la competencia territorial de los órganos jurisdiccionales de primera y segunda instancia, cuando así se requiera para brindar un mejor servicio en la administración de justicia y a fin de evitar causa de impedimento de los Tribunales Orales.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 17.
 
-En cada circuito habrá el número de salas de circuito que fueren necesarias en materia civil, penal o mixta, a juicio del Pleno del Tribunal Superior de Justicia, oyendo el parecer del Consejo de la Judicatura Estatal por cuanto a la factibilidad presupuestal de su creación.
+En cada circuito habrá el número de salas de circuito que fueren necesarias en materia civil, penal o mixta, a juicio del Pleno del Tribunal Superior de Justicia, debiendo ponderar las observaciones de la Junta de Administración, Vigilancia y Disciplina por cuanto a la factibilidad presupuestal de su creación y operatividad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
@@ -195,9 +203,9 @@ En cada circuito habrá el número de salas de circuito que fueren necesarias en
 
 En cada distrito judicial y en cada demarcación habrá el número de juzgados de primera instancia que fueren necesarios, en materia civil, familiar, mercantil, laboral, penal o mixta, así como juzgados menores; todos ellos que serán denominados conforme al número progresivo que les asigne la Junta de Administración, Vigilancia y Disciplina del Poder Judicial; y tendrán su residencia en la cabecera distrital o demarcacional o en el lugar que la propia Junta determine, sin modificar su jurisdicción.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-La Junta de Administración, Disciplina y Vigilancia del Poder Judicial podrá acordar, dentro de las posibilidades presupuestales, la conformación de juzgados, integrados cada uno de ellos por los jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma unitaria o colegiada de conformidad con lo dispuesto por la Ley. En estos casos, la misma Junta designará a uno de los jueces como coordinador.
+La Junta de Administración, Disciplina y Vigilancia podrá acordar, dentro de las posibilidades presupuestales, la conformación de juzgados, integrados cada uno de ellos por los jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma unitaria o colegiada de conformidad con lo dispuesto por la ley. En estos casos la Junta designará a uno de los Jueces como coordinador, debiendo comunicar esta situación al pleno del Tribunal Superior de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -207,39 +215,39 @@ Tratándose del sistema penal acusatorio y adversarial, los juzgados podrán int
 
 ### CAPITULO PRIMERO. DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 19.
 
-El Tribunal Superior de Justicia tendrá su residencia en la Capital del Estado y estará integrado por los Magistrados Numerarios que se requieran para la integración de las Salas que lo conformen, quienes serán nombrados, durarán en su encargo y adquirirán inamovilidad en los términos previstos en la Constitución Política del Estado Libre y Soberano de Morelos.
+El Tribunal Superior de Justicia tendrá su residencia en la Capital del Estado y estará integrado por los magistrados que se requieran para la integración de las Salas que lo conformen, quienes serán nombrados, durarán en su encargo y adquirirán inamovilidad en los términos previstos en la Constitución Política del Estado Libre y Soberano de Morelos.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 20.
 
-Habrá también por los (sic) menos tres Magistrados Supernumerarios que serán igualmente nombrados en los términos previstos en el ordenamiento constitucional a que se refiere el artículo anterior. No adquirirán inamovilidad sino cuando se les nombre Magistrados Numerarios y satisfagan los requisitos señalados en la mencionada Constitución.
+Habrá también por los menos tres Magistrados que serán igualmente nombrados en los términos previstos en el ordenamiento constitucional a que se refiere el artículo anterior. No adquirirán inamovilidad sino cuando se les nombre magistrados y satisfagan los requisitos señalados en la mencionada Constitución.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 21.
 
-Los Magistrados Supernumerarios cubrirán, en el orden que el Pleno determine, las ausencias temporales hasta por treinta días de los Magistrados Numerarios, y en el mismo orden los sustituirán en el conocimiento de determinados negocios, por excusa o recusación de éstos. Adicionalmente constituirán la Sala o Salas Auxiliares cuando el Pleno así lo determine, en los términos de la fracción VI, del artículo 29 de esta ley.
+Los magistrados cubrirán, en el orden que el pleno determine, las ausencias temporales hasta por treinta días de los magistrados y en el mismo orden los sustituirán en el conocimiento de determinados negocios, por excusa o recusación de éstos. Adicionalmente constituirán la sala o salas auxiliares cuando el pleno así lo determine, en los términos de la fracción VI, del artículo 29 de esta ley.
 
 ###### ARTICULO 22.
 
 Los Magistrados que integran el Tribunal Superior de Justicia deberán residir en el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 23.
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia, ejercerán sus funciones en Pleno o en Salas, según lo determine esta Ley; podrán ser cambiados de adscripción de Sala cuando así lo aprueben, por lo menos, las dos terceras partes de los Magistrados Numerarios integrantes del propio Tribunal.
+Los magistrados del Tribunal Superior de Justicia, ejercerán sus funciones en pleno o en salas, según lo determine esta ley; podrán ser cambiados de adscripción de sala cuando así lo aprueben, por lo menos, las dos terceras partes de los magistrados integrantes del propio tribunal.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
-
-Los Magistrados Interinos, cubrirán las ausencias temporales superiores a treinta días y ausencias definitivas de los Magistrados Numerarios, en este último caso, hasta en tanto haga la designación correspondiente el Congreso del Estado de Morelos, y entre en funciones el profesionista designado como Magistrado Numerario.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
-
-Durante su ejercicio, los Magistrados Interinos integrarán la Sala correspondiente a quien suplan, además tendrán voz y voto en el Pleno y tendrá las mismas consideraciones y prerrogativas que un Magistrado Numerario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 24.
 
-El Presidente del Tribunal Superior de Justicia será uno de los Magistrados Numerarios, no integrará Sala durante el tiempo que desempeñe el cargo y será substituido por el Magistrado de número que designe el Pleno.
+El presidente del Tribunal Superior de Justicia, no integrará Sala durante el tiempo que desempeñe el cargo y será substituido por el magistrado de número que designe el Pleno.
 
 > <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
 
@@ -253,9 +261,11 @@ Para ser Magistrado del Tribunal Superior de Justicia se requiere cumplir con la
 
 Para ser Magistrado de la Sala Especializada en Justicia Penal para Adolescentes, además se deberá acreditar especialización en dicha materia.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 26.
 
-Los Magistrados del Tribunal Superior de Justicia se retirarán forzosamente del cargo al cumplir setenta años de edad, sin perjuicio de lo dispuesto por la Ley del Servicio Civil del Estado de Morelos.
+Los magistrados del Tribunal Superior de Justicia se retirarán forzosamente del cargo al cumplir setenta años de edad, como lo determina la Constitución Política del Estado Libre y Soberano de Morelos.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -309,7 +319,9 @@ Los acuerdos del Pleno serán tomados por mayoría de votos, salvo que la ley de
 
 Corresponde al Pleno del Tribunal:
 
-I.- Iniciar ante el Congreso del Estado las Leyes y Decretos que tiendan a mejorar la organización de los Tribunales, la Legislación Civil y Penal, los Procedimientos Judiciales y en general, los ordenamientos relacionados con la mejor administración de justicia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+I.- Iniciar ante el Congreso del Estado las leyes y decretos que tiendan a mejorar la organización de los tribunales, la legislación sustantiva civil o penal y en general, los ordenamientos relacionados con la mejor administración de justicia;
 
 II.- Conocer de los juicios que se instruyan a los funcionarios mencionados en el artículo 134 de la Constitución Política Local a quienes el Congreso hubiere declarado que ha lugar a formación de causa, conforme al procedimiento señalado en el artículo 136 de la Constitución del Estado;
 
@@ -337,9 +349,9 @@ XII.- Determinar la distribución de las cargas de trabajo entre las distintas S
 
 XIII.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XIV.- Nombrar, remover y cambiar de adscripción al Secretario General de Acuerdos, a los Secretarios de Acuerdos de la (sic) Salas, a los Secretarios de Amparos, Actuarios, Secretarios de estudio y cuenta, y oficiales judiciales adscritos a las áreas antes citadas, todos ellos del Tribunal;
+XIV.- Nombrar, remover y cambiar de adscripción al secretario General de Acuerdos, oficial mayor, a los secretarios de Acuerdos de la (sic) Salas, a los secretarios de Amparos, Actuarios, secretarios de estudio y cuenta, y oficiales judiciales adscritos a las áreas antes citadas, todos ellosdel (sic) tribunal;
 
 XV.- Elegir cada dos años al Presidente del Tribunal Superior de Justicia;
 
@@ -357,17 +369,19 @@ XXI.- Intervenir en los asuntos relativos a los juicios de amparo promovidos en 
 
 XXII.- Nombrar al personal supernumerario que las necesidades de la administración requieran, en el ámbito de su competencia;
 
-XXIII.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021)
+XXIII.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021) (REPUBLICADA SU DEROGACIÓN, P.O. 6 DE OCTUBRE DE 2021)
 
 XXIV.- En la esfera de su competencia, tomar todas las decisiones que tiendan a la correcta y adecuada aplicación de la presente ley, así como resolver cualquier situación no prevista por ella;
 
 XXV.- Expedir su propio reglamento; y
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XXVI.- Conocer de las excusas, recusaciones y conflictos de competencia de los jueces o Tribunales Laborales, y
+XXVI.- Observar que se cumpla el principio de paridad de género en los nombramientos y designaciones respectivas al interior del Poder Judicial.
 
-XXVII.- Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+XXVII.- Las demás que le confieran la Constitución de la Republica, la Constitución del Estado y las leyes.
 
 ###### ARTICULO 30.
 
@@ -617,11 +631,17 @@ Para ser funcionario del Tribunal Superior de Justicia se requiere:
 
 I.- Ser Mexicano por Nacimiento;
 
-II.- Tener título profesional de abogado o licenciado en derecho con experiencia mínima de tres años; se exceptúa de este requisito al Oficial Mayor;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+II.- Tener título profesional de licenciado en derecho con experiencia mínima de tres años; el oficial mayor, deberá ser licenciado en Administración o licenciado en Derecho;
 
 III.- No ser menor de veinticinco años a la fecha de su designación; y
 
 IV.- Ser de reconocida honorabilidad y no haber sido sentenciado por delito intencional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Con excepción a lo antes expuesto en este artículo, el Secretario General de Acuerdos y el Oficial Mayor, deberán contar con título y cédula profesional con expedición mínima de cinco años y contar cuando menos con veintiocho años cumplidos a la fecha de su designación.
 
 ###### ARTICULO 49.
 
@@ -719,13 +739,17 @@ Los Secretarios de Estudio y Cuenta tendrán a su cargo el estudio de los asunto
 
 ### CAPITULO SEXTO. DEL PERSONAL DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 55.
 
-El personal del Poder Judicial está integrado por todos los trabajadores que conforme a la presente ley colaboran con dicho carácter en la administración de justicia. El Tribunal Superior de Justicia, el Consejo de la Judicatura Estatal, los Juzgados y demás oficinas administrativas que dependan de ellos contarán con el personal necesario para el cumplimiento de sus funciones y dependerán del Tribunal Superior de Justicia o del Consejo de la Judicatura Estatal, según corresponda.
+El personal del Poder Judicial está integrado por todos los trabajadores que conforme a la presente ley colaboran con dicho carácter en la administración de justicia. El Tribunal Superior de Justicia, la Junta de Administración, Vigilancia y Disciplina, los Juzgados y demás oficinas administrativas que dependan de ellos contarán con el personal necesario para el cumplimiento de sus funciones y dependerán del Tribunal Superior de Justicia o de la Junta de Administración, Vigilancia y Disciplina, según corresponda.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 56.
 
-El Consejo de la Judicatura Estatal hará los nombramientos de los empleados dependientes del Tribunal y de los juzgados, con excepción de los mencionados en la fracción XIV del artículo 29 de esta ley.
+La Junta de Administración, Vigilancia y Disciplina hará los nombramientos de los empleados y funcionarios dependientes de los juzgados y áreas administrativas a su encomienda.
 
 ###### ARTICULO 57.
 
@@ -771,17 +795,33 @@ VIII.- Intendentes del tribunal; y,
 
 IX.- Oficiales de intendencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 59.
 
-Los nombramientos que expida el Pleno del Tribunal Superior de Justicia o el Consejo de la Judicatura Estatal, según el caso, tendrán el carácter de definitivos, interinos o supernumerarios. Son definitivos los nombramientos que se otorguen para cubrir una plaza vacante en forma permanente; interinos, para cubrir una plaza vacante en virtud de una ausencia temporal, y supernumerarios, para atender trabajos extraordinarios o para una obra o por tiempo determinado.
+Los nombramientos que expida el Pleno del Tribunal Superior de Justicia ola (sic) Junta de Administración, Vigilancia y Disciplina, según el caso, tendrán el carácter de definitivos e interinos. Son definitivos los nombramientos que se otorguen para cubrir una plaza vacante en forma permanente; interinos, para cubrir una plaza vacante en virtud de una ausencia temporal.
 
-Los Secretarios de acuerdos que sean nombrados interinamente Jueces, al término de su encargo serán restituidos al puesto que desempeñaban con anterioridad a su nombramiento.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Los secretarios de acuerdos que sean nombrados interinamente Jueces, al término de su encargo serán restituidos al puesto que desempeñaban con anterioridad a su nombramiento.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Los juzgados deberán contar con jueces definitivos y ningún interinato podrá ser mayor a tres meses.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 60.
 
-Las vacantes definitivas del personal serán cubiertas mediante convocatoria de aspirantes, al efecto el Tribunal o el Consejo de la Judicatura Estatal, después de convocar, seleccionará a quienes reúnan los mayores conocimientos y mejores antecedentes.
+Las vacantes definitivas del personal serán cubiertas mediante convocatoria de aspirantes, al efecto el Tribunal Superior de Justicia o la Junta de Administración, Vigilancia y Disciplina, después de convocar, seleccionará a quienes reúnan los mayores conocimientos y mejores antecedentes.
 
-En la selección se dará preferencia al escalafón, y en caso de que ninguno reúna los requisitos anteriores, el Tribunal o el Consejo de la Judicatura Estatal, convocará a personas ajenas a la administración de justicia, eligiéndose, previo examen, al más competente, cuyos antecedentes garanticen su buena conducta y honorabilidad.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+En la selección se dará preferencia al escalafón, y en caso de que ninguno reúna los requisitos anteriores, el Tribunal o la Junta, convocará a personas ajenas a la administración de justicia, eligiéndose, previo examen, al más competente, cuyos antecedentes garanticen su buena conducta y honorabilidad.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+No podrá ser considerado en el escalafón o en la convocatoria, aquella persona que cuente con sanciones administrativas firmes de suspensión, inhabilitación o destitución del cargo.
 
 ###### ARTICULO 61.
 
@@ -795,11 +835,15 @@ Son auxiliares de la administración de justicia:
 
 I.- Los Ayuntamientos;
 
-II.- El Director de Prevención y Readaptación Social y demás servidores públicos designados por esa dirección;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+II.- El coordinador estatal de Reinserción Social y demás servidores públicos designados por esa institución;
 
 III.- Los miembros de las corporaciones policíacas Estatales y municipales, cualquiera que sea su denominación;
 
-IV.- El Director del Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IV.- El director general del Instituto de Servicios Registrales y Catastrales;
 
 V.- El Director y los Oficiales del Registro Civil;
 
@@ -827,15 +871,17 @@ XV.- Las demás personas, físicas o jurídicas, a quienes las leyes encomienden
 
 ### CAPITULO PRIMERO. DE LOS JUECES EN GENERAL
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 63.
 
-Los Jueces ejercerán sus funciones previa la protesta legal que otorgarán ante el Consejo de la Judicatura Estatal. Durarán en su encargo el tiempo que señala la Constitución Política del Estado.
+Los jueces ejercerán sus funciones previas (sic) la protesta legal que otorgarán ante la Junta de Administración, Vigilancia y Disciplina.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 64.
 
-Los Jueces residirán dentro del territorio del Estado, y los de paz, preferentemente en el municipio correspondiente. Los de primera instancia y menores podrán ser cambiados de adscripción por decisión del Consejo de la Judicatura Estatal de acuerdo con las necesidades del servicio, conforme a los criterios generales fijados previamente por dicho órgano para tal efecto.
+Los jueces residirán dentro del territorio del estado, y los de paz preferentemente en el municipio correspondiente. Los de primera instancia y menores podrán ser cambiados de adscripción por acuerdo de la Junta de Administración, Vigilancia y Disciplina debido a las necesidades del servicio, conforme a los criterios generales fijados previamente por dicho órgano para tal efecto.
 
 ###### ARTICULO 65.
 
@@ -843,25 +889,25 @@ Para ser Juez de primera instancia o menor se requiere:
 
 I.- Ser mexicano por nacimiento, en Pleno goce de sus derechos civiles y políticos;
 
-II.- Tener veinticinco años de edad cumplidos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-III.- Tener título y cédula profesionales de abogado o licenciado en derecho, expedidos conforme a la ley y registrados en el Tribunal Superior de Justicia;
+II.- Tener como mínimo veintiocho años de edad cumplidos;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IV.- Haber obtenido la licenciatura en derecho con un promedio mínimo de ocho, o en su caso, obtener dicha calificación en los estudios de maestría o doctorado en derecho;
+III.- Tener título y cédula profesionales de licenciado en derecho, expedidos conforme a la ley;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+IV.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2021)
 
-V.- Tener tres años de práctica forense o continuidad de servicios dentro de la carrera judicial por ese término y sustentar y aprobar los concursos de mérito y exámenes de oposición, que el Consejo de la Judicatura Estatal determine;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+V.- Tener cinco años de práctica forense o continuidad de servicios dentro de la carrera judicial por ese término y sustentar y aprobar los concursos de mérito y exámenes de oposición, que la Junta de Administración, Vigilancia y Disciplina determine;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
 VI.- No haber sido condenado en sentencia firme por delito grave intencional ni en juicio de responsabilidad administrativa;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
-
-VII.- No tener enfermedad o impedimento físico que lo incapacite para el ejercicio de su cargo;
+VII.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -871,17 +917,15 @@ VIII.- Ser de honradez y probidad notorios; y,
 
 IX.- No ser ministro de culto religioso alguno.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 66.
 
-La plantilla del personal de los juzgados será la siguiente: un juez, uno o más secretarios, uno o más actuarios y el número de empleados auxiliares que determine la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
+La planta de personal de los juzgados será la siguiente: un juez, uno o más secretarios, uno o más actuarios y el número de empleados auxiliares que determine la Junta de Administración, Vigilancia y Disciplina.
 
-Los juzgados que funcionen conforme al sistema procesal penal acusatorio y adversarial, tendrán los funcionarios y el personal administrativo auxiliar necesarios para su buen funcionamiento, que determine la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
+Los juzgados que funcionen conforme al sistema procesal penal acusatorio y adversarial, tendrán los funcionarios y el personal administrativo auxiliar que determine la Junta de Administración, Vigilancia y Disciplina, necesarios para su buen funcionamiento.
 
-La Junta de Administración, Vigilancia y Disciplina del Poder Judicial podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de parte y otras áreas para varios juzgados de un mismo distrito o circuito judicial.
-
-Los Tribunales Laborales, se conformarán e integrarán por un juez especializado en materia laboral por uno o más secretarios, funcionariosy empleados conforme a las disposiciones que para ese efecto emita la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, en términos de lo dispuesto por la Ley Federal del Trabajo.
+La Junta de Administración, Vigilancia y Disciplina, podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de parte y otras áreas para varios juzgados de un mismo distrito o circuito judicial.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -901,7 +945,9 @@ Cuando un juez de la materia penal utilice los medios indicados en el primer pá
 
 Las autoridades judiciales de la materia penal podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación, Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
 
-El Consejo de la Judicatura dictará los lineamientos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios; para garantizar su seguridad y conservación; así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+La Junta de Administración, Vigilancia y Disciplina dictará los lineamientos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios; para garantizar su seguridad y conservación; así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -1127,13 +1173,17 @@ I.- Cumplir y hacer cumplir sin demora y con estricto apego a la ley, los acuerd
 
 II.- En los primeros cinco días de cada mes, remitir al Tribunal Superior de Justicia informe relacionado con la entrada y salida de los asuntos de su competencia y, además, rendir oportunamente los datos de estadística;
 
-III.- Remitir oportunamente al Archivo Judicial General, por conducto de la Presidencia del Consejo, los expedientes que lo ameriten y ordene la ley;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IV.- Los Jueces Mixtos de Primera Instancia y los del ramo penal, deberán visitar mensualmente los centros preventivos y de readaptación social ubicados dentro de su jurisdicción, informando necesariamente del resultado de tales visitas a la Presidencia del Tribunal;
+III.- Remitir oportunamente al archivo judicial general, por conducto de la presidencia de la Junta de Administración, Vigilancia y Disciplina, los expedientes que lo ameriten y ordene la ley;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-V.- Informar anualmente al tribunal superior de los delitos mas frecuentes en su distrito;
+IV.- Los jueces mixtos de primera instancia y los del ramo penal, deberán visitar mensualmente los centros preventivos y de reinserción social ubicados dentro de su jurisdicción, informando necesariamente del resultado de tales visitas a la presidencia de la Junta de Administración, Vigilancia y Disciplina;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+V.- Informar anualmente al pleno del Tribunal Superior de los delitos más frecuentes en su distrito;
 
 VI.- Informar al Pleno del Tribunal Superior de Justicia sobre las deficiencias que adviertan para la aplicación de la ley y poner oportunamente a los sentenciados a disposición del Ejecutivo del Estado;
 
@@ -1141,17 +1191,23 @@ VI.- Informar al Pleno del Tribunal Superior de Justicia sobre las deficiencias 
 
 VII.- Cumplir con los programas de actualización que determine la Escuela Judicial;
 
-VIII.- Proponer al Consejo de la Judicatura Estatal, quien decidirá, al personal que deba trabajar a sus órdenes, con sujeción a lo dispuesto sobre la materia en esta ley, y tomarle la protesta respectiva;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VIII.- Proponer a la Junta de Administración, Vigilancia y Disciplina, quien decidirá, al personal que deba trabajar a sus órdenes, con sujeción a lo dispuesto sobre la materia en esta ley, y tomarle la protesta respectiva;
 
 IX.- Corregir las faltas de menor gravedad del personal a sus órdenes;
 
-X.- Cuidar el estricto respeto a las garantías constitucionales en su jurisdicción y la moralidad de sus subalternos; en su caso, hacerlo del conocimiento del Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+X.- Cuidar el estricto respeto a las garantías constitucionales en su jurisdicción y la moralidad de sus subalternos; en su caso, hacerlo del conocimiento de la Junta de Administración, Vigilanciay (sic) Disciplina;
 
 XI.- Calificar las excusas y recusaciones con causa de sus Secretarios y Actuarios;
 
-XII.- Conceder licencias a los empleados a sus órdenes, hasta por cinco días, dando aviso inmediatamente de ello al Presidente del Consejo de la Judicatura Estatal;
+XII.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2021)
 
-XIII.- Llevar los libros de gobierno y demás que ordenen las disposiciones legales relativas o el Consejo de la Judicatura Estatal; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+XIII.- Llevar los libros de gobierno y demás que ordenen las disposiciones legales relativas o la Junta de Administración, Vigilancia y Disciplina; y
 
 XIV.- Las demás que les imponga la ley.
 
@@ -1189,13 +1245,17 @@ Dentro del límite de su competencia los Jueces Menores tendrán las mismas atri
 
 ### CAPITULO CUARTO. DE LOS JUECES DE PAZ
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 77.
 
-Los Jueces de Paz municipales serán nombrados por el Consejo de la Judicatura Estatal a propuesta en terna del ayuntamiento correspondiente, y durarán en su encargo tres años, coincidiendo con el período constitucional de los ayuntamientos, los Jueces de Paz podrán ser ratificados en sus cargos, mediante el mismo procedimiento.
+Los jueces de Paz municipales serán nombrados por la Junta de Administración, Vigilancia y Disciplina a propuesta en terna del ayuntamiento correspondiente, y durarán en su encargo tres años, coincidiendo con el período constitucional de los ayuntamientos, los Jueces de Paz podrán ser ratificados en sus cargos, mediante el mismo procedimiento.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 78.
 
-El Consejo de la Judicatura Estatal nombrará en cada Municipio un Juez de Paz propietario y un suplente, quien tendrá la jurisdicción y competencia que le otorga la presente ley y las demás aplicables. Para tal efecto los ayuntamientos, dentro de los cinco primeros días de su ejercicio constitucional, remitirán la terna respectiva al Consejo de la Judicatura Estatal.
+La Junta de Administración, Vigilancia y Disciplina nombrará en cada municipio un juez de Paz, quien tendrá la jurisdicción y competencia que le otorga la presente ley y las demás aplicables. Para tal efecto los ayuntamientos, dentro de los cinco primeros días de su ejercicio constitucional, remitirán la terna respectiva a la Junta de Administración, Vigilancia y Disciplina.
 
 ###### ARTICULO 79.
 
@@ -1203,21 +1263,31 @@ Para ser Juez de Paz se requiere:
 
 I.- Ser mexicano por nacimiento en pleno ejercicio de sus derechos y preferentemente morelense;
 
-II.- Tener por lo menos veintitrés años a la fecha de su designación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+II.- Tener por lo menos veinticinco años a la fecha de su designación;
 
 III.- Gozar de buena conducta y no haber sido sentenciado por delito intencional;
 
-IV.- Ser, por lo menos, pasante de la carrera de derecho; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IV.- Contar con título y cédula profesional de licenciado en derecho; y
 
 V.- Tener domicilio en el municipio de la jurisdicción, de preferencia.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 80.
 
-Los Jueces de Paz rendirán la protesta de ley ante el Juez Menor de la demarcación correspondiente, y cuando haya más de uno, ante cualquiera de ellos.
+Los jueces de Paz rendirán la protesta de ley ante la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
+
+El salario y las prestaciones laborales quedaran a cargo del ayuntamiento que lo propuso.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 81.
 
-Las faltas temporales de los Jueces de Paz serán cubiertas por el suplente respectivo, quien actuará con testigos de asistencia cuando no haya Secretario. Las absolutas se cubrirán por el suplente y el ayuntamiento correspondiente remitirá nueva terna para que el Consejo de la Judicatura Estatal nombre otro suplente.
+En caso de renuncia del juez de Paz, deberá presentarla en el ayuntamiento donde estaba adscrito para que este a la vez la envíe junto a la terna correspondiente a la Junta de Administración, Vigilancia y Disciplina para que se designe y nombre al profesionista que habrá de terminar el periodo que resta de la administración municipal.
 
 ###### ARTICULO 82.
 
@@ -1247,21 +1317,27 @@ IV- Los demás asuntos que les corresponda conforme a la ley.
 
 Los Jueces de Paz serán considerados como auxiliares de los tribunales de la Federación y del Estado, y practicarán las diligencias que unos y otros les encomienden.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 85.
 
-Para el ejercicio de sus funciones, los Jueces de Paz tendrán cuando menos un Secretario de Acuerdos, mayor de edad, que deberá reunir los demás requisitos que para ser Juez de Paz; contarán además con el personal administrativo que fuere necesario. Los Secretarios y los Actuarios se nombrarán por el Consejo de la Judicatura Estatal, a propuesta del Juez de Paz, y el personal administrativo por el ayuntamiento correspondiente, el que pagará los sueldos de quienes trabajen en el Juzgado de Paz de su jurisdicción.
+Para el ejercicio de sus funciones, los jueces de Paz tendrán cuando menos un secretario de Acuerdos, que deberá reunir los mismos requisitos que para ser juez de Paz; contarán además con el personal administrativo que fuere necesario. Los secretarios y los Actuarios se nombrarán por la Junta de Administración, Vigilancia y Disciplina, a propuesta del juezde (sic) Paz, y el personal administrativo por el ayuntamiento correspondiente, el que pagará los sueldos de quienes trabajen en el juzgado de paz de su jurisdicción.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 86.
 
-A falta de Secretario, el Juez actuará con testigos de asistencia nombrados por él, quienes deberán llenar los mismos requisitos que los Secretarios.
+A falta de secretario, el Juez actuará con testigos de asistencia nombrados por él, debiendo ser mayores de edad.
 
 ###### ARTICULO 87.
 
 En los Juzgados de Paz, a falta de Actuario, el Secretario realizará las notificaciones y diligencias correspondientes.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 88.
 
-Las licencias de los Jueces de Paz serán concedidas por cualquiera de los Jueces menores de la demarcación correspondiente, cuando no excedan de cinco días, dando cuenta de ellas al Consejo de la Judicatura Estatal. En los casos en que las licencias sean por un período mayor, deberán ser autorizadas por el Consejo de la Judicatura Estatal.
+Las licencias de los jueces de Paz serán concedidas por cualquiera de los jueces menores de la demarcación correspondiente, cuando no excedan de cinco días, dando cuenta de ellas a la Junta de Administración, Vigilancia y Disciplina. En los casos en que las licencias sean por un período mayor, deberán ser autorizadas por la Junta de Administración, Vigilancia y Disciplina.
 
 ###### ARTICULO 89.
 
@@ -1271,35 +1347,43 @@ I.- En general, las mismas que esta ley establece para los Jueces Menores, dentr
 
 II.- Practicar las diligencias que les sean encomendadas, de acuerdo con lo previsto en la ley;
 
-III.- Visitar los reclusorios municipales, e informar del resultado al juez menor de la demarcación correspondiente;
+III.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2021)
 
-IV.- Informar mensualmente, dentro de los primeros tres días de cada mes, al juzgado menor de la demarcación correspondiente, de todos los asuntos que se ventilen en su juzgado, enviando copia del mismo al Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IV.- Informar mensualmente, dentro de los primeros tres días de cada mes, al juzgado menorde (sic) la demarcación correspondiente, de todos los asuntos que se ventilen en su juzgado, enviando copia del mismo a la Junta de Administración, Vigilancia y Disciplina;
 
 V.- Diligenciar, dentro de las cuarenta y ocho horas siguientes a su recibo, todo despacho, requisitoria u orden que reciban de las autoridades judiciales superiores del estado o federales; y
 
-VI.- Excusarse en los casos en que tenga impedimento de acuerdo con las leyes aplicables, en cuyo caso conocerá del asunto el Juez de Paz suplente.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VI.- Excusarse en los casos en que tenga impedimento de acuerdo con las leyes aplicables, remitiendo la excusa al juez Menor de su demarcación para que determine sobre la excusa planteada, en caso de ser procedente, el juez Menor determinará al juez de Paz de su demarcación que será competente para conocer del asunto.
 
 ###### ARTICULO 90.
 
 Los Jueces de Paz tendrán como superior administrativo inmediato al Juez Menor de la demarcación correspondiente, a quien deberán consultar en todos los asuntos de carácter técnico o administrativo en lo que fuere necesario para el mejor funcionamiento de sus respectivos juzgados.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 91.
 
-Los Jueces de Paz desempeñarán sus funciones dentro de los límites territoriales del municipio para el cual fueron designados.
+Los jueces de paz desempeñarán sus funciones dentro de los límites territoriales del municipio para el cual fueron designados, con excepción de los asuntos que le fueron declinados por excusa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPITULO QUINTO. DE LOS SECRETARIOS DE ACUERDOS, DE LOS ACTUARIOS Y DE LOS ADMINISTRADORES
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 92.
 
-Los Secretarios y Actuarios de los juzgados, deberán satisfacer los siguientes requisitos: Ser mexicano en pleno ejercicio de sus derechos civiles; mayores de edad; no haber sido declarados penalmente responsables, mediante sentencia ejecutoria, por delito intencional que amerite pena privativa de libertad, ni en procedimiento de responsabilidad administrativa; no tener impedimento físico o enfermedad que los incapacite para el desempeño de su cargo; ser de honradez notoria, y poseer título de abogado o licenciado en derecho, o ser pasante de derecho debidamente acreditado. En este último caso deberá titularse en un plazo máximo de dos años después de concluidos sus estudios.
+Los secretarios y actuarios de los juzgados, deberán satisfacer los siguientes requisitos: Ser mexicano en Pleno ejercicio de sus derechos civiles; contar mínimo con veinticinco años de edad; no haber sido declarados penalmente responsables, mediante sentencia ejecutoria, por delito intencional que amerite pena privativa de libertad, ni en procedimiento de responsabilidad administrativa; no tener impedimento físico o enfermedad que los incapacite para el desempeño de su cargo; ser de honradez notoria, y poseer título de abogado o licenciado en derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 93.
 
-Los secretarios de acuerdos o secretarios instructores de los juzgados serán nombrados por la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, y tendrán las siguientes atribuciones:
+Los secretarios de acuerdos de los juzgados serán nombrados por la Junta de Administración, Vigilancia y Disciplina, y tendrán las siguientes atribuciones y deberes:
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1329,7 +1413,9 @@ IX.- Entregar oportunamente los expedientes de notificaciones personales o pendi
 
 X.- Hacer, en ausencia del Actuario, las notificaciones personales que procedan a las partes, dentro del término de ley, cuando éstas concurran al Juzgado;
 
-XI.- Mostrar los expediente (sic) a las partes, cuando éstas lo soliciten, especialmente cuando se haya publicado resolución en el boletín judicial y esté corriendo un término;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+XI.- Mostrar los expedientes a las partes, cuando éstas lo soliciten, especialmente cuando se haya publicado resolución en el boletín judicial y esté corriendo un término;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1385,9 +1471,9 @@ VII.- Entregar y recibir bajo riguroso inventario los bienes y valores a que se 
 
 VIII.- Distribuir los asuntos entre los jueces por turno riguroso, y;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IX.- Las demás que determine la ley o la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
+IX.- Las demás que determine la ley, la Junta de Administración, Vigilancia y Disciplina o el Pleno del Tribunal Superior de Justicia.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -1395,11 +1481,19 @@ IX.- Las demás que determine la ley o la Junta de Administración, Vigilancia y
 
 Para ser administrador de oficina se requiere:
 
-I.- Ser mayor de veinticinco años;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-II.- Ser profesionista titulado, con amplia experiencia en administración;
+I.- Ser mayor de treinta años;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+II.- Poseer título y cédula profesional de licenciado en administración o en derecho, con cinco años de experiencia profesional; y
 
 III.- No haber sido condenado por delito doloso en los últimos seis años.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+La designación será realizada por la Junta de Administración, Vigilancia y Disciplina.
 
 ## TITULO QUINTO. DEL JURADO POPULAR Y DE LOS ARBITROS
 
@@ -1433,9 +1527,11 @@ VII.- No ser ministro de algún culto religioso; y
 
 VIII.- No ser funcionario o empleado Federal, Estatal o Municipal.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 98.
 
-Son causas justificadas para pedir exclusión en lista de jurados, las mismas que se establecen en el artículo 457 del Código de Procedimientos Penales.
+Son causas justificadas para pedir exclusión en lista de jurados, las mismas que se establecen (sic) la legislación procesal penal en vigor.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
@@ -1505,23 +1601,37 @@ Cuando las Salas del Tribunal Superior de Justicia sustenten tesis contradictori
 
 Previamente a la integración de la jurisprudencia, el Pleno o las Salas, según el caso, podrán aprobar el texto o rubro de las tesis aisladas que sustenten criterios del órgano jurisdiccional correspondiente, ordenando su publicación en el Boletín Judicial, como precedente para la formación de la jurisprudencia.
 
-## TITULO SEPTIMO. DEL CONSEJO DE LA JUDICATURA ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-### CAPITULO PRIMERO. DE LA INTEGRACION Y FACULTADES DEL CONSEJO
+## TITULO SEPTIMO. DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+### CAPITULO PRIMERO. DE LA INTEGRACIÓN Y FACULTADES DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 113.
 
-El Consejo de la Judicatura Estatal será la máxima autoridad del Poder Judicial en todos los asuntos que sean de su exclusiva competencia; se constituye por los Consejeros que, en número de cinco, determina el artículo 92 de la Constitución Política del Estado Libre y Soberano de Morelos.
+La Junta de Administración, Vigilancia y Disciplina será la máxima autoridad del Poder Judicial en todos los asuntos que sean de su exclusiva competencia; se constituye por los funcionarios que determina el Artículo 92-A de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 114.
 
-La designación de los Consejeros se hará en los siguientes términos:
+La designación de los integrantes de la Junta de Administración, Vigilancia y Disciplina se hará en los siguientes términos:
 
-I.- El Presidente del Consejo, que lo será el Presidente del Tribunal Superior de Justicia por el sólo hecho de su elección como tal por el Pleno de dicho Tribunal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-II.- El Magistrado Numerario que elija el Pleno del Tribunal;
+I.- El Presidente será el magistrado que presida al Tribunal Superior de Justicia por el sólo hecho de su elección como tal por el Pleno de dicho Tribunal;
 
-III.- El representante del Ejecutivo del Estado, mediante nombramiento directo del titular del propio poder ejecutivo, quien podrá revocarlo o substituirlo en cualquier tiempo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+II.- El Magistrado que elija el pleno del Tribunal.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III.- El juez de Primera Instancia con nombramiento definitivo que elija el pleno del Tribunal.
 
 IV.- El Juez de Primera Instancia mediante insaculación; y
 
@@ -1529,25 +1639,35 @@ IV.- El Juez de Primera Instancia mediante insaculación; y
 
 V.- El representante del Poder Legislativo del Estado, designado por del (sic) órgano político del Congreso.
 
-Dicha representación no podrá recaer en ningún docente que tenga el carácter de funcionario del Poder Judicial, así como en aquellos que presten sus servicios en cualquiera de los otros dos poderes de la administración pública Estatal.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-En todo momento este funcionario estará impedido para patrocinar o prestar asesoría en asuntos contenciosos de cualquier naturaleza, salvo las excepciones que la ley adjetiva del Código Civil para el Estado de Morelos establece, en el caso de los juzgadores.
+Ningún integrante de la Junta de Administración, Vigilancia y Disciplina podrá patrocinar o prestar asesoría en asuntos contenciosos de cualquier naturaleza, salvo las excepciones previstas por las leyes del estado de Morelos, en el caso de los juzgadores.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+En la designación de los integrantes de la Junta de Administración, Vigilancia y Disciplina, se observará el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 115.
 
-Las sesiones y deliberaciones del Consejo tendrán validez con la asistencia de por lo menos tres Consejeros, se celebrarán bajo la dirección de su Presidente o, en su defecto, el Magistrado que lo supla interinamente como Presidente del Tribunal.
+Las sesiones y deliberaciones de la Junta de Administración, Vigilancia y Disciplina tendrán validez con la asistencia de por lo menos dos de sus integrantes y siempre se celebrarán bajo la dirección de su presidente.
 
-Las decisiones del Consejo serán inatacables.
+Las decisiones de la Junta de Administración, Vigilancia y Disciplina serán inatacables.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 116.
 
-Los acuerdos del Consejo se tomarán por mayoría simple. En caso de empate será decisivo el voto del Presidente del Consejo.
+Los acuerdos de la Junta de Administración, Vigilancia y Disciplina se tomarán por mayoría simple. En caso de empate será decisivo el voto del Presidente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 117.
 
-Corresponde al Consejo de la Judicatura Estatal:
+Corresponde de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial:
 
-I.- Presentar a consideración del Congreso terna para la designación de Magistrados del Tribunal Superior de Justicia;
+I.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2021)
 
 II.- Someter a la aprobación del Congreso o de la Diputación Permanente en su caso, las solicitudes de licencias por más de 30 días de los Magistrados del Tribunal Superior de Justicia, así como las renuncias de los propios Magistrados;
 
@@ -1561,7 +1681,9 @@ En igualdad de circunstancias, se preferirá a los Jueces Menores para el cargo 
 
 VI.- Designar a los Jueces de Paz Municipales de entre la terna propuesta por el ayuntamiento correspondiente;
 
-VII.- Adscribir, cambiar de adscripción, sancionar y destituir a los Jueces, cualquiera que sea su denominación, por el voto de la mayoría simple del total de los miembros del Consejo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VII.- Adscribir, cambiar de adscripción, sancionar y destituir a los Jueces, cualquiera que sea su denominación, por el voto de la mayoría simple del total de sus miembros;
 
 VIII.- Expedir su reglamento interior y los acuerdos generales para el adecuado ejercicio de sus funciones, ordenando la publicación de los mismos en el Periódico Oficial del Estado para efectos de su obligatoriedad;
 
@@ -1589,9 +1711,13 @@ XVIII.- Promover la elevación del acervo jurídico de Jueces, Secretarios, Actu
 
 XIX.- Conceder estímulos y recompensas a los funcionarios y empleados del Poder Judicial;
 
-XX.- Conceder licencia, por el término legal, al Presidente del Consejo, Consejeros, Jueces y demás personal con excepción de los señalados en la fracción XIV del artículo 29;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XXI.- Intervenir en los asuntos relativos a los juicios de amparo promovidos en contra de resoluciones dictadas por el propio Consejo;
+XX.- Conceder licencia, por el término legal, a los integrantes de la Junta de Administración, Vigilancia y Disciplina, los funcionarios a su encomienda, a los jueces y personal adscrito a los juzgados y demás personal, con excepción de los señalados en la fracción XIV del artículo 29;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+XXI.- Intervenir en los asuntos relativos a los juicios de amparo promovidos en contra de resoluciones dictadas por la Junta de Administración, Vigilancia y Disciplina;
 
 XXII.- Nombrar al personal supernumerario que las necesidades de la administración de justicia requieran, en el ámbito de su competencia;
 
@@ -1611,37 +1737,55 @@ XXVI.- Ordenar la práctica de visitas a los juzgados cuando lo estime pertinent
 
 XXVII.- Las demás que le confieran las leyes.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 118.
 
-El Consejo de la Judicatura Estatal sesionará ordinariamente por lo menos un día a la semana y tendrá cuantas sesiones extraordinarias se requieran, previa convocatoria del Presidente y en caso de omisión, a instancia de cualquiera de sus miembros.
+La Junta de Administración, Vigilancia y Disciplina sesionará ordinariamente por lo menos una vez a la semana y tendrá cuantas sesiones extraordinarias se requieran, previa convocatoria del Presidente y en caso de omisión, a instancia de cualquiera de sus miembros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 119.
 
-Son atribuciones del Presidente del Consejo de la Judicatura Estatal:
+Son atribuciones del Presidente de la Junta de Administración, Vigilancia y Disciplina:
 
 I.- Convocar y presidir las sesiones ordinarias y extraordinarias del Consejo;
 
-II.- Ejecutar los acuerdos del Consejo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-III.- Suscribir con el Secretario General del Consejo la correspondencia, circulares, acuerdos y actas de sesiones del Consejo;
+II.- Ejecutar los acuerdos emitidos por la Junta de Administración, Vigilancia y Disciplina;
 
-IV.- Disponer el trámite de los asuntos competencia del Consejo, para su resolución por éste;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III.- Suscribir con el Secretario General de Acuerdos de la Junta de Administración, Vigilancia y Disciplina la correspondencia, circulares, acuerdos y actas de sesiones de la Junta de Administración, Vigilancia y Disciplina;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IV.- Disponer (sic) el trámite de los asuntos de la competencia de la Junta de Administración, Vigilancia y Disciplina, para su resolución por éste;
 
 V.- Atender y controlar el funcionamiento administrativo del Poder Judicial y el buen desempeño de las labores de funcionarios y empleados, adoptando para ello los acuerdos y medidas que fueren necesarios;
 
-VI.- Recibir las quejas administrativas, de palabra o por escrito, que presenten los funcionarios o empleados del Tribunal y de los juzgados en relación con sus labores, y las de los litigantes por demora o faltas cometidas en la administración de justicia. Cuando las faltas fueren menores podrá dictar las medidas pertinentes y necesarias para su corrección y cuando fueren graves, dará cuenta al Consejo de la Judicatura Estatal quien determinará lo que corresponda;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VI.- Recibir las quejas administrativas, de palabra o por escrito, que presenten los funcionarios o empleados del Tribunal y de los juzgados en relación con sus labores, y las de los litigantes por demora o faltas cometidas en la administración de justicia. Cuando las faltas fueren menores podrá dictar las medidas pertinentes y necesarias para su corrección y cuando fueren graves, dará cuenta a la Junta de Administración, Vigilancia y Disciplina, la cual determinará lo que corresponda;
 
 VII.- Desechar de plano las quejas y demás promociones notoriamente improcedentes;
 
-VIII.- Proponer al Consejo, en el ámbito de la competencia de éste, las medidas que juzgue conducentes para la mejor administración de justicia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IX.- Informar al Consejo acerca de las medidas o medios administrativos adoptados, respecto de los asuntos competencia del propio Consejo;
+VIII.- Proponer a la Junta de Administración, Vigilancia y Disciplina, en el ámbito de la competencia de ésta, las medidas que considere conducentes para la mejor administración de justicia;
 
-X.- Nombrar, con carácter provisional y en casos urgentes, a los funcionarios y empleados del Poder Judicial, sometiendo tales nombramientos al Consejo en los casos y competencia de éste, para su ratificación o rectificación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+IX.- Informar acerca de las medidas o medios administrativos adoptados, respecto de los asuntos competencia de la Junta de Administración, Vigilancia y Disciplina;
 
-XI.- Formular y someter a la consideración del Consejo de la Judicatura Estatal el presupuesto anual del Poder Judicial; así como respetar las partidas y sus denominaciones ya establecidas en las erogaciones presupuestares;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+X.- Nombrar, con carácter provisional y en casos urgentes, a los funcionarios y empleados del Poder Judicial, sometiendo tales nombramientos a los integrantes de la Junta de Administración, Vigilancia y Disciplina en los casos y competencia de ésta, para su ratificación o rectificación;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+XI.- Formular y someter a la consideración de la Junta de Administración, Vigilancia y Disciplina el proyecto de presupuesto anual del Poder Judicial; así como respetar las partidas y sus denominaciones ya establecidas en las erogaciones presupuestales;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
 
@@ -1651,9 +1795,9 @@ XII.- Remitir al Poder Legislativo, por conducto del Jefe del Ejecutivo, el proy
 
 XIII.- Presentar ante el Congreso del Estado un informe trimestral de las Cuentas Públicas, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas; y
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XIV.- Poner en conocimiento del Pleno o del Consejo de la Judicatura Estatal, según corresponda, la ausencia absoluta de los Jueces, de los Secretarios y demás empleados, así como las licencias que por más de cinco días soliciten;
+XIV.- Poner en conocimiento de la Junta de Administración, Vigilancia y Disciplina, la ausencia absoluta de los jueces, de los secretarios y demás empleados, así como las licencias que por más de cinco días soliciten;
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -1663,23 +1807,37 @@ XV.- Llamar a su presencia a los Jueces o administradores, según corresponda, p
 
 XVI.- Los demás que le confieran las leyes.
 
-### CAPITULO SEGUNDO. DE LOS FUNCIONARIOS DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+### CAPITULO SEGUNDO. DE LOS FUNCIONARIOS DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 120.
 
-Para el ejercicio de sus atribuciones, el Consejo de la Judicatura Estatal contará con los siguientes funcionarios:
+Para el ejercicio de sus atribuciones, la Junta de Administración, Vigilancia y Disciplina contará con los siguientes funcionarios:
 
 I.- Un Magistrado Visitador General;
 
-II.- Los Jueces Auxiliares del Magistrado Visitador General que el Consejo de la Judicatura Estatal determine;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-III.- Un Secretario General; y
+II.- Los jueces auxiliares;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III.- Un secretario general de Acuerdos; y
 
 IV.- Un Director General de Administración.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 121.
 
-Para ser funcionario del Consejo de la Judicatura Estatal, se requiere satisfacer los mismos requisitos que los que señala el artículo 48 para los funcionarios del Tribunal Superior de Justicia; se exceptúa el requisito de título profesional de abogado o licenciado en derecho, al director General de Administración.
+Para ser funcionario de la Junta de Administración, Vigilancia y Disciplina, se requiere satisfacer los mismos requisitos que los que señala el artículo 48 para los funcionarios del Tribunal Superior de Justicia; se exceptúa el requisito de título profesional de abogado o licenciado en derecho, al director general de Administración, quien podrá tener título en licenciado en Administración o Contaduría.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+El magistrado visitador general y los jueces visitadores no deberán contar con sanción administrativa antes de que asuman la encomienda.
 
 ###### ARTICULO 122.
 
@@ -1693,7 +1851,9 @@ III.- Verificar la existencia de valores depositados;
 
 IV.- Examinar los expedientes en trámite paralizados por cualquier motivo;
 
-V.- Recibir las quejas de los funcionarios, empleados del Poder Judicial, de los procesados, defensores, Agentes del Ministerio Público y litigantes en general, dando de inmediato cuenta al Consejo de la Judicatura Estatal, por conducto de su Presidente;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+V.- Recibir las quejas de los funcionarios, empleados del Poder Judicial, de los procesados, defensores, agentes del ministerio público y litigantes en general, dando de inmediato cuenta a la Junta de Administración, Vigilancia y Disciplina, por conducto de su Presidente;
 
 VI.- Examinar la organización de los archivos y proponer las medidas pertinentes para su conservación y fácil manejo;
 
@@ -1701,21 +1861,31 @@ VII.- Visitar reclusorios y comprobar el estado de los mismos, la condición de 
 
 VIII.- Revisar el libro o tarjetas de asistencia personal;
 
-IX.- Adoptar la medidas necesarias para que el público pueda presentar sus peticiones y quejas;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IX.- Adoptar las medidas necesarias para que las partes en algún asunto judicial y el público, puedan presentar sus peticiones y quejas.
 
 X.- Vigilar para que en el área administrativa no se incurra por la autoridad judicial en violación a los derechos humanos;
 
-XI.- Comunicar a los Magistrados y Jueces las irregularidades y deficiencias que notare en el área de los derechos humanos con la finalidad de que sean corregidas e informar del resultado al Presidente, al Pleno o al Consejo, según corresponda; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XII.- Las demás que expresamente le señalen la presente ley, el reglamento interior del Tribunal y demás leyes relativas, así como el Pleno del Tribunal o su Presidente, o el Consejo de la Judicatura, según corresponda.
+XI.- Comunicar a los magistrados y jueces las irregularidades y deficiencias que notare en el área de los derechos humanos con la finalidad de que sean corregidas e informar del resultado al presidente, al pleno o la Junta de Administración, Vigilancia y Disciplina, según corresponda; y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+XII.- Las demás que expresamente le señalen la presente ley, el Reglamento de la Junta de Administración, Vigilancia y Disciplina y demás leyes relativas, así como la Junta de Administración, Vigilancia y Disciplina.
 
 ###### ARTICULO 123.
 
 Los Jueces Auxiliares del Magistrado Visitador General, tendrán las siguientes atribuciones:
 
-I.- Prestar auxilio al Magistrado Visitador General, así como a los Magistrados comisionados para ello, en las visitas o inspecciones que éstos realicen en los juzgados a su cargo, tomando nota de todas aquellas circunstancias que deban obrar en el acta de la visita o que deban ponerse en conocimiento del Consejo, según las instrucciones que reciban del Magistrado Visitador;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-II.- Practicar las investigaciones, revisiones, diligencias y encomiendas que les asignen el Consejo de la Judicatura Estatal, el Presidente del mismo, o los Magistrados, los visitadores o el Magistrado Visitador General;
+I.- Prestar auxilio al magistrado visitador general, así como a los magistrados comisionados para ello, en las visitas o inspecciones que éstos realicen en los juzgados a su cargo, tomandonota (sic) de todas aquellas circunstancias que deban obrar en el acta de la visita o que deban ponerse en conocimiento de la Junta de Administración, Vigilancia y Disciplina, según las instrucciones que reciban del magistrado visitador;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+II.- Practicar las investigaciones, revisiones, diligencias y encomiendas que les sean asignadas por la Junta de Administración, Vigilancia y Disciplina, el Presidente de la misma o el Magistrado Visitador General;
 
 III.- Rendir los dictámenes correspondientes respecto a las investigaciones, revisiones y encomiendas a que alude la fracción anterior;
 
@@ -1727,45 +1897,69 @@ V.- Las demás que señalen las leyes.
 
 Los Jueces Auxiliares contarán con el personal de apoyo necesario para el cumplimiento de su función.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 125.
 
-Son obligaciones del Secretario General de Acuerdos del Consejo de la Judicatura Estatal:
+Son obligaciones del secretario general de Acuerdos de la Junta de Administración, Vigilancia y Disciplina:
 
-I.- Asistir al acuerdo del Consejo con voz informativa;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-II.- Levantar las actas de las sesiones plenarias, firmándolas con los integrantes del Consejo;
+I.- Asistir al acuerdo de la Junta de Administración, Vigilancia y Disciplina con voz informativa;
 
-III.- Atender y cumplimentar los acuerdos e instrucciones que reciba del Consejo o del Presidente del mismo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IV.- Dar cuenta diariamente al Presidente del Consejo, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su exhibición, con los escritos, promociones y avisos presentados por los interesados, así como con los oficios y demás documentos que se reciban;
+II.- Levantar las actas de las sesiones plenarias, firmándolas con los integrantes de la Junta de Administración, Vigilancia y Disciplina;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III.- Atender y cumplimentar los acuerdos e instrucciones que reciba de la Junta de Administración, Vigilancia y Disciplina o del presidente de la misma;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IV.- Dar cuenta diariamente al presidente de la Junta de Administración, Vigilancia y Disciplina, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su exhibición, con los escritos, promociones y avisos presentados por los interesados, así como con los oficios y demás documentos que se reciban;
 
 V.- Recabar los datos para el informe anual del Presidente, en el área administrativa;
 
-VI.- Dar fe de los actos del Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-VII.- Expedir las certificaciones del Consejo en materia de su competencia;
+VI.- Dar fe de los actos de la Junta de Administración, Vigilancia y Disciplina;
 
-VIII.- Expedir las certificaciones que el propio Consejo o la ley le encomienden;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VII.- Expedir las certificaciones de la Junta de Administración, Vigilancia y Disciplina en materia de su competencia;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VIII.- Expedir las certificaciones que la Junta de Administración, Vigilancia y Disciplina o la ley le encomienden;
 
 IX.- Dar fe de los acuerdos del Presidente en los asuntos de trámite; y
 
-X.- Las demás que determinen las leyes, el reglamento interior, el Consejo o el Presidente del mismo.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-Las faltas temporales del Secretario General del Consejo serán cubiertas por el Secretario General de Acuerdos del Tribunal.
+X.- Las demás que determinen las leyes, el reglamento interior, la Junta de Administración, Vigilancia y Disciplina o el Presidente de la misma.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Las faltas temporales del Secretario General de Acuerdos de la Junta de Administración, Vigilancia y Disciplina serán cubiertas por el Secretario General de Acuerdos del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 126.
 
-La Dirección General de Administración dependerá del Consejo de la Judicatura Estatal, bajo la responsabilidad exclusiva del Presidente; se integrará por un director general, las unidades administrativas y el personal que a juicio del Consejo y a propuesta del Presidente se requiera.
+La Dirección General de Administración dependerá de la Junta de Administración, Vigilancia y Disciplina, bajo la responsabilidad exclusiva del Presidente; se integrará por un director general, las unidades administrativas y el personal que a juicio de la Junta de Administración, Vigilancia y Disciplina y a propuesta del Presidente se requiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 127.
 
-Son atribuciones de la Dirección General de Administración, previo acuerdo con el Presidente del Consejo de la Judicatura Estatal:
+Son atribuciones de la Dirección General de Administración, previo acuerdo con el presidente de la Junta de Administración, Vigilancia y Disciplina:
 
 I.- Proponer e instrumentar las políticas para la administración de los recursos financieros, administrativos y humanos del Poder Judicial, tomando en cuenta los convenios celebrados con el Ejecutivo, así como las disposiciones aplicables sobre la materia;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-II.- Definir, organizar, coordinar y administrar la elaboración del presupuesto así como su erogación, de acuerdo a las disposiciones establecidas sobre la materia y la autorización del Consejo y el Presidente del mismo;
+II.- Definir, organizar, coordinar y administrar la elaboración del presupuesto así como su erogación, de acuerdo a las disposiciones establecidas sobre la materia y la autorización (sic) la Junta de Administración, Vigilancia y Disciplina y el Presidente de la misma;
 
 III.- Coordinar con el Gobierno del Estado la adjudicación de los recursos económicos, apegándose a los convenios, lineamientos y demás disposiciones sobre la materia;
 
@@ -1773,19 +1967,27 @@ IV.- Proponer e instrumentar las políticas para el cálculo, la proyección y a
 
 V.- Proponer e instrumentar las políticas del sistema de contabilidad del Poder Judicial;
 
-VI.- Proponer al Consejo de la Judicatura Estatal, por conducto de su Presidente, los proyectos de ley, reglamentos y demás disposiciones jurídicas en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VI.- Proponer a la Junta de Administración, Vigilancia y Disciplina, por conducto de su Presidente, los proyectos de reglamentos y demás disposiciones jurídicas en el ámbito de su competencia;
 
 VII.- Organizar, coordinar y vigilar el cumplimiento de las disposiciones jurídicas y administrativas en el funcionamiento de las unidades administrativas a su cargo; y
 
-VIII.- Las demás que señalen las disposiciones jurídicas o le sean delegadas por el Consejo de la Judicatura Estatal o por su Presidente.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-## TITULO OCTAVO. DE LAS DEPENDENCIAS DEL CONSEJO
+VIII.- Las demás que señalen las disposiciones jurídicas o le sean delegadas por la Junta de Administración, Vigilancia y Disciplina o por su presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+## TITULO OCTAVO. DE LAS DEPENDENCIAS DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA
 
 ### CAPITULO PRIMERO. DEL ARCHIVO JUDICIAL GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 128.
 
-El Consejo de la Judicatura Estatal, tendrá bajo su dependencia el Archivo Judicial General. El Presidente del Consejo tomará las medidas que estime convenientes para el arreglo, conservación y desempeño eficiente del servicio, dando cuenta al Consejo sobre las medidas adoptadas.
+La Junta de Administración, Vigilancia y Disciplina, tendrá bajo su dependencia el Archivo Judicial General. El Presidente de la misma tomará las medidas que estime convenientes para el arreglo, conservación y desempeño eficiente del servicio, dando cuenta (sic) la Junta de Administración, Vigilancia y Disciplina sobre las medidas adoptadas.
 
 La oficina quedará a cargo de un jefe, el cual contará con el personal necesario a juicio del Consejo; el jefe deberá tener conocimientos reconocidos en la materia.
 
@@ -1793,73 +1995,87 @@ La oficina quedará a cargo de un jefe, el cual contará con el personal necesar
 
 Se depositarán en el Archivo Judicial General:
 
-I.- Todos los expedientes concluidos por los Tribunales del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+I.- Todos los expedientes concluidos por los Tribunales o juzgados del Poder Judicial del Estado;
 
 II.- Los expedientes en los que, aún cuando no estén concluidos, se haya dejado de actuar por cualquier motivo durante dos años, excepto en materia penal;
 
-III.- Los libros de gobierno de los tribunales de los que no se requiera su permanencia en los mismos, actas de Plenos, actas de Sesiones del Consejo de la Judicatura Estatal, y copia de los informes de la Presidencia del Tribunal Superior de Justicia y del Consejo; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III.- Los libros de gobierno de los tribunales o juzgados de los que no se requiera su permanencia en los mismos, actas de Plenos, actas de Sesiones de la Junta de Administración, Vigilancia y Disciplina, y copia de los informes de la Presidencia del Tribunal Superior de Justicia y de la Junta de Administración, Vigilancia y Disciplina; y
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
 IV.- Los demás documentos y registros que las leyes determinen.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 130.
 
-Los Tribunales, al remitir los expedientes al archivo, para su resguardo llevarán una relación en la cual harán constar, en forma de inventario, los que contenga cada remisión; el jefe del archivo pondrá al calce de este inventario una constancia de recibo, informando de inmediato por escrito al Presidente del Consejo.
+Los tribunales o juzgados, al remitir los expedientes al Archivo Judicial General, para su resguardo llevarán una relación en la cual harán constar, en forma de inventario, los que contenga cada remisión; el jefe del archivo pondrá al calce de este inventario una constancia de recibo, informando de inmediato por escrito a la Secretaría General de Acuerdos de la Junta de Administración, Vigilancia y Disciplina.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 131.
 
-Con los expedientes, registros y documentos recibidos en el archivo, se formarán índices y serán colocados en el lugar que les corresponda, procurando que no sufran deterioro.
+Con los expedientes, registros y documentos recibidos en el Archivo Judicial General, se formarán índices y serán colocados en el lugar que les corresponda, procurando que no sufran deterioro.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 132.
 
-Por ningún motivo se extraerá expediente o registro alguno del archivo judicial, a no ser a petición de la autoridad que lo haya remitido o de cualquiera otra competente, insertando en el oficio relativo la determinación que motiva el pedimento. La salida de éste será autorizada por el Presidente del Consejo y la orden se colocará en el lugar que ocupe el expediente solicitado.
+Por ningún motivo se extraerá expediente o registro alguno del Archivo Judicial General, a no ser a petición de la autoridad que lo haya remitido o de cualquiera otra competente, insertando en el oficio relativo la determinación que motiva el pedimento. La salida de éste será autorizada por la Secretaría General de Acuerdos de la Junta de Administración, Vigilancia y Disciplina y la orden se colocará en el lugar que ocupe el expediente solicitado.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 133.
 
-La vista, examen o expedición de copias de libros, registros, documentos o expedientes del archivo, serán autorizados por el Secretario General de Acuerdos del Tribunal y podrán permitirse a los interesados o a sus procuradores, en presencia del encargado de dicha oficina y dentro de ella, según la autorización; en su caso, las copias que se expidan serán certificadas por el referido funcionario.
+La vista, examen o expedición de copias de libros, registros, documentos o expedientes del archivo, serán autorizados por el secretario general de Acuerdos de la Junta de Administración, Vigilancia y Disciplina y podrán permitirse a los interesados o a sus procuradores, en presencia del encargado de dicha oficina y dentro de ella, según la autorización; en su caso, las copias que se expidan serán certificadas por el referido funcionario.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 134.
 
-No se permitirá por ningún motivo a los empleados del archivo que extraigan del mismo documento, registros o expedientes; la infracción de esta disposición ameritará sanción administrativa, sin perjuicio de la denuncia penal respectiva.
+No se permitirá por ningún motivo a los empleados del Archivo Judicial General que extraigan del mismo documento, registros o expedientes; la infracción de esta disposición ameritará sanción administrativa, sin perjuicio de la denuncia penal respectiva.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 135.
 
-La falta de remisión al archivo de los expedientes o registros que lo ameriten o su remisión indebida, será sancionada por el Consejo de la Judicatura Estatal.
+La falta de remisión al Archivo Judicial General de los expedientes o registros que lo ameriten o su remisión indebida, será sancionada por la Junta de Administración, Vigilancia y Disciplina.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 136.
 
-Cualquier defecto, irregularidad o infracción que el jefe del archivo advierta en los expedientes, registros y documentos que se remitan para su depósito, lo comunicará por escrito, inmediatamente al Presidente del Consejo de la Judicatura Estatal, para que ordene lo conducente.
+Cualquier defecto, irregularidad o infracción que el jefe del Archivo Judicial General advierta en los expedientes, registros y documentos que se remitan para su depósito, lo comunicará por escrito inmediatamente al secretario general del (sic) Acuerdos de la Junta de Administración, Vigilancia y Disciplina, para que ordene lo conducente.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 137.
 
-El reglamento respectivo fijará las atribuciones de los empleados del archivo judicial y determinará la forma y términos de las anotaciones, índices y libros que en la misma oficina deban llevarse. El Presidente del Consejo podrá acordar en todo caso las medidas que considere convenientes para su mejor funcionamiento.
+El reglamento respectivo fijará las atribuciones de los empleados del Archivo Judicial General y determinará la forma y términos de las anotaciones, índices y libros que en la misma oficina deban llevarse.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 138.
 
-Solamente a los Magistrados y Jueces les será permitido consultar expedientes fuera de la oficina del archivo, previo recibo y por un período máximo de veinte días.
+Solamente a los Magistrados y Jueces les será permitido consultar expedientes fuera de la oficina del Archivo Judicial General, previa autorización del Secretario General de Acuerdos de la Junta de Administración, Vigilancia y Disciplina, por un período máximo de veinte días naturales.
 
 ### CAPITULO SEGUNDO. DE LA BIBLIOTECA
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 139.
 
-La biblioteca del Poder Judicial dependerá de la Presidencia del Consejo de la Judicatura Estatal.
+La Biblioteca del Poder Judicial dependerá de la Junta de Administración, Vigilancia y Disciplina.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 140.
 
-La biblioteca estará al servicio del Tribunal, del Consejo de la Judicatura Estatal, de los Juzgados y del público en general, pero sólo los Magistrados, Consejeros, Jueces y Secretario de la administración de justicia podrán solicitar libros en préstamo, de acuerdo con el sistema de control que se establezca.
+La Biblioteca estará al servicio del Tribunal, de la Junta de Administración, Vigilancia y Disciplina, de los Juzgados y del público en general, pero sólo los funcionarios de la administración de justicia podrán solicitar libros en préstamo, de acuerdo con el sistema de control que se establezca.
 
 ###### ARTICULO 141.
 
@@ -1871,39 +2087,55 @@ Corresponde al encargado de la biblioteca:
 
 I.- Formar inventario de todos los libros y documentos de la biblioteca;
 
-II.- Ordenar las obras conforme al sistema de clasificación que apruebe el Presidente del Consejo, formando catálogo y fichero de clasificación de ellas;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-III.- Formar cada semestre listas de obras nuevas para su adquisición o para empastar, listas que entregará al Presidente del Consejo con el presupuesto de costo correspondiente;
+II.- Ordenar las obras conforme al sistema de clasificación que apruebe la Junta de Administración, Vigilancia y Disciplina, formando catálogo y fichero de clasificación de ellas;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III.- Formar cada semestre listas de obras nuevas para su adquisición o para empastar, listas que entregara a la Junta de Administración, Vigilancia y Disciplina con el presupuesto de costo correspondiente;
 
 IV.- Conservar en buen estado los libros, documentos y revistas, así como el mobiliario y equipo de la biblioteca;
 
-V.- Controlar el funcionamiento de la biblioteca, facilitando libros, documentos y revistas a los Magistrados, Consejeros, funcionarios del Tribunal y Jueces, previo recibo y por término que no exceda de veinte días;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+V.- Controlar el funcionamiento de la biblioteca, facilitando libros, documentos y revistas a los funcionarios del Poder Judicial, previo recibo y por término que no exceda de veinte días naturales;
 
 VI.- Llevar la estadística de asistencia de lectores;
 
 VII.- Promover la actualización y modernización de la biblioteca; y
 
-VIII.- Las demás que prescriban las leyes y reglamentos relativos y aquellas que se deriven de las instrucciones del Presidente del Consejo.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VIII.- Las demás que prescriban las leyes y reglamentos relativos y aquellas que se deriven de las instrucciones de la Junta de Administración, Vigilancia y Disciplina.
 
 ### CAPITULO TERCERO. DEL BOLETIN JUDICIAL
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 143.
 
-El Boletín Judicial es el órgano encargado de publicar la relación de las resoluciones dictadas por los tribunales, con efectos de notificación en términos de lo dispuesto por los Códigos Procesales Civil y Penal, así como la jurisprudencia del Tribunal y demás determinaciones. Estará a cargo del jefe de la oficina quien será el responsable de su publicación oportuna y adecuada. La infracción a ésta disposición será sancionada a juicio del Consejo de la Judicatura Estatal.
+El Boletín Judicial es el órgano encargado de publicar los edictos, la relación de las resoluciones dictadas por los tribunales, con efectos de notificación en términos de lo dispuesto por los Códigos Procésales Civil y Penal, así como la jurisprudencia del Tribunal y demás determinaciones. Estará a cargo del jefe de la oficina quien será el responsable de su publicación oportuna y adecuada. La infracción a esta disposición será sancionada a juicio de la Junta de Administración, Vigilancia y Disciplina.
 
 ###### ARTICULO 144.
 
 El Boletín Judicial circulará diariamente en todos los distritos judiciales, a excepción de los días inhábiles. En todos los tribunales del Estado habrá el número de ejemplares necesarios para consulta del público.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Asimismo, y para efectos de difusión del Boletín Judicial, se deberá publicar en el portal de internet del Poder Judicial del Estado de Morelos.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPITULO CUARTO. DE LA ESCUELA JUDICIAL
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 145.
 
-La Presidencia del Consejo de la Judicatura Estatal tendrá bajo su dependencia a la Escuela Judicial, cuyas funciones serán las de adiestrar el personal que deba prestar sus servicios en el Poder Judicial, mejorar la capacidad del que esté laborando y especializar a los servidores públicos en las distintas ramas de la administración de justicia.
+La Presidencia de la Junta de Administración, Vigilancia y Disciplina tendrá bajo su dependencia a la Escuela Judicial, cuyas funciones serán las de adiestrar y preparar al personal que deba prestar sus servicios en el Poder Judicial, mejorar la capacidad del que esté laborando y especializar a los servidores públicos en las distintas ramas de la administración de justicia.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 La composición y funcionamiento del Instituto se regirá por el Reglamento Interior del Consejo.
 
@@ -1913,11 +2145,11 @@ La composición y funcionamiento del Instituto se regirá por el Reglamento Inte
 
 En la Escuela Judicial se publicará una revista jurídica periódica, la que tendrá como finalidad ser órgano de difusión jurídica, legislativa, académica y jurisprudencial.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 147.
 
-La Escuela Judicial tomará las medidas necesarias y vigilará que la revista tenga la difusión debida y oportuna entre las autoridades, instituciones y público en general a los que interese su contenido.
+La Escuela Judicial tomará las medidas necesarias y vigilará que la revista tenga la difusión debida y oportuna entre las autoridades, instituciones y público en general a los que interese su contenido, debiendo publicarse en el portal de internet del Poder Judicial del Estado de Morelos.
 
 ### CAPITULO QUINTO. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
@@ -1947,29 +2179,41 @@ La Escuela Judicial tomará las medidas necesarias y vigilará que la revista te
 
 ### CAPITULO SEXTO. DEL CENTRO DE COMPUTACION E INFORMATICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 154.
 
-El Centro de Cómputo e Informática del Poder Judicial estará a cargo de un jefe con conocimiento técnico especializado; tendrá los auxiliares necesarios y dependerá del Consejo de la Judicatura Estatal con las funciones siguientes:
+El Centro de Cómputo e Informática del Poder Judicial estará a cargo de un jefe con conocimiento técnico especializado; tendrá los auxiliares necesarios y dependerá de la Junta de Administración, Vigilancia y Disciplina, y tendrá las funciones siguientes:
 
 I.- La captura de datos procedentes de los Juzgados de primera instancia y de las Salas del Tribunal Superior de Justicia, relativos a los diversos juicios o procedimientos que ante ellos se radiquen, con el fin de efectuar un seguimiento de los mismos por medio del sistema de computación;
 
 II.- Mantener y conservar actualizados los registros estadísticos de los juicios o procedimientos por materia, por Juzgado, por Sala o bien por su naturaleza específica;
 
-III.- La computarización de las actividades del Tribunal y el Consejo de la Judicatura Estatal en áreas de administración, contabilidad, recursos humanos, materiales y otras que se requieran;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IV.- El registro computarizado e informática de todas aquéllas actividades de apoyo al servicio de la administración de justicia, que se determine por el Consejo de la Judicatura Estatal o la presidencia del mismo; y
+III.- La computarización de las actividades del Tribunal y de la Junta de Administración, Vigilancia y Disciplina en áreas de administración, contabilidad, recursos humanos, materiales y otras que se requieran;
 
-V.- La información sobre el contenido del centro de cómputo e informática sólo podrá proporcionarse a Magistrados Consejeros y Jueces. El Presidente del Consejo de la Judicatura Estatal podrá autorizar la información a otros interesados, previa solicitud por escrito de éstos con indicación expresa de los puntos materia del informe y justificación de su interés legítimo.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IV.- El registro computarizado e informática de todas aquéllas actividades de apoyo al servicio de la administración de justicia, que se determine por la Junta de Administración, Vigilancia y Disciplina; y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+V.- La información sobre el contenido del Centro de Cómputo e Informática sólo podrá proporcionarse a Magistrados y Jueces. El presidente de la Junta de Administración, Vigilancia y Disciplina podrá autorizar la información a otros interesados, previa solicitud por escrito de éstos con indicación expresa de los puntos materia del informe y justificación de su interés legítimo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 155.
 
-Para una mejor eficiencia del servicio de computación e informática, el Presidente del Consejo de la Judicatura Estatal autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de cómputo e informática, tanto en la Capital del Estado como en los distritos judiciales, de acuerdo con las posibilidades presupuestales, determinando, en su caso, la zonificación que técnicamente sea conveniente para las necesidades del servicio y volumen de trabajo.
+Para una mejor eficiencia del servicio de computación e informática, la Junta de Administración, Vigilancia y Disciplina autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de cómputo e informática, tanto en las áreas del Tribunal Superior de Justicia como en los distritos judiciales, de acuerdo con las posibilidades presupuestales, determinando, en su caso, la zonificación que técnicamente sea conveniente para las necesidades del servicio y volumen de trabajo.
 
 ### CAPITULO SEPTIMO. DE LA DIRECCION DE LA CONTRALORIA INTERNA
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 156.
 
-La Dirección de la Contraloría Interna del Poder Judicial, dependerá del Consejo de la Judicatura Estatal y se integrará por un Director, así como del personal de apoyo que a juicio del Consejo y a propuesta del Presidente se requiera para la atención de sus funciones.
+La Dirección de la Contraloría Interna del Poder Judicial, dependerá de la Junta de Administración, Vigilancia y Disciplina y se integrará por un director, así como del personal de apoyo que se requiera para la atención de sus funciones.
 
 ###### ARTICULO 157.
 
@@ -1979,13 +2223,19 @@ I.- Planear, organizar y coordinar los sistemas de prevención, vigilancia, cont
 
 II.- Vigilar el cumplimiento de las normas emitidas en materia de prevención, fiscalización, control y evaluación de las dependencias y organismos auxiliares del Poder Judicial;
 
-III.- Servir de órgano de consulta y realizar las auditorías que a juicio del Consejo de la Judicatura Estatal y del Presidente se requieran en las dependencias y organismos auxiliares del Poder Judicial, informando de los resultados, observaciones y recomendaciones al Presidente, para que en caso necesario se establezca el seguimiento y la aplicación de dichas observaciones y recomendaciones;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III.- Servir de órgano de consulta y realizar las auditorias que a juicio de la Junta de Administración, Vigilancia y Disciplina o del Presidente se requieran en las dependencias y organismos auxiliares del Poder Judicial, informando de los resultados, observaciones y recomendaciones al Presidente, para que en caso necesario se establezca el seguimiento y la aplicación de dichas observaciones y recomendaciones;
 
 IV.- Inspeccionar y supervisar que se cumplan con las normas y disposiciones en materia de recaudación, manejo, custodia y administración de los recursos económicos propios y asignados; los sistemas de registro de la contabilidad, contratación y pago de personal; contratación y pago de servicios, obra pública, compras, arrendamientos, conservación, usos, destino, afectación, enajenación y bajas de bienes muebles e inmuebles, almacenes y demás recursos materiales y activos propiedad o bajo el cuidado del Poder Judicial;
 
-V.- Ser enlace con la Contraloría General del Estado, para la recepción y registro de las declaraciones patrimoniales de los servidores públicos del Poder Judicial; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-VI.- Las demás que señalen las disposiciones jurídicas o le sean delegadas por el Consejo de la Judicatura Estatal o por el Presidente.
+V.- Ser enlace con la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos, para la recepción y registro de las declaraciones patrimoniales de los servidores públicos del Poder Judicial; y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VI.- Las demás que señalen las disposiciones jurídicas o le sean encomendadas por la Junta de Administración, Vigilancia y Disciplina o por su Presidente.
 
 ### CAPITULO OCTAVO. DE LA INTENDENCIA
 
@@ -1993,19 +2243,49 @@ VI.- Las demás que señalen las disposiciones jurídicas o le sean delegadas po
 
 El servicio de intendencia dependerá de la Dirección de Recursos Materiales y Servicios y tendrá a su cargo el mantenimiento, limpieza y vigilancia de los muebles e inmuebles en las áreas en los que se encuentren adscritos.
 
-### CAPITULO UNICO. ESTMULOS (SIC) Y RECOMPENSAS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-### CAPITULO UNICO. DE LAS VACACIONES, LICENCIAS Y PERMISOS
+### CAPITULO NOVENO. DEL DEPARTAMENTO DE ORIENTACIÓN FAMILIAR
 
-### CAPITULO PRIMERO. GENERALIDADES
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 158 BIS.- El Departamento de Orientación Familiar es un órgano administrativo que depende de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, y tendrá las facultades y responsabilidades que le determine su reglamento.
+
+La Junta de Administración, Vigilancia y Disciplina nombrará al Director así como a los funcionarios y empleados del Departamento de Orientación Familiar.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+### CAPITULO DECIMO. DEL CENTRO MORELENSE DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 158 TER.- El Centro Morelense de Mecanismos Alternativos para la Solución de Controversias es un órgano administrativo dependiente de la Junta de Administración, Vigilancia y Disciplina, y tiene como objetivo primordial desarrollar mecanismos alternativos para solucionar conflictos (MASC).
+
+La Junta de Administración, Vigilancia y Disciplina del Poder Judicial nombrará al Director así como a los funcionarios y empleados del Centro Morelense de Mecanismos Alternativos para la Solución de Controversias, asimismo, emitirá su reglamento interior para establecer las responsabilidades y funciones del mismo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+### CAPITULO DECIMO PRIMERO. DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 158 QUATER.- La Unidad de Igualdad de Género y Derechos Humanos, estará encargada de manera permanente de difundir y realizar las tareas relacionadas con la perspectiva de género y el enfoque de igualdad sustantiva, por lo que, deberá cuidar que dichos temas se incorporen al diseño, programación, presupuestación, ejecución y evaluación para lograr una mayor eficiencia y efectividad de las políticas públicas en el Poder Judicial del Estado, con la finalidad de eliminar toda clase de discriminación, en razón de su sexo o género, tanto en el interior del mismo, como en los procesos y las resoluciones judiciales.
+
+La Unidad de Igualdad de Género y Derechos Humanos será un ente administrativo dependiente de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos, contará con los recursos humanos, materiales y financieros que resulten necesarios para su óptima operación y se integrará como mínimo de una Dirección, quien será titular de la Unidad, contando con el apoyo administrativo suficiente y eficaz para el cumplimiento de su objetivo.
+
+La Junta de Administración, Vigilancia y Disciplina del Poder Judicial nombrará al titular de la Dirección así como a los demás funcionarios y empleados de esta dependencia, asimismo, emitirá si (sic) reglamento interior para establecer sus responsabilidades y funciones.
 
 ## TITULO NOVENO
 
-### CAPITULO SEGUNDO. DE LAS AUSENCIAS TEMPORALES Y ACCIDENTALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+### CAPITULO UNICO. ESTIMULOS Y RECOMPENSAS
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 159.
 
-El Consejo de la Judicatura Estatal estimulará y recompensará a los empleados y funcionarios del Poder Judicial que se distingan por la eficiencia en el ejercicio de su trabajo, espíritu de servicio, asistencia y puntualidad, además de lo que establece la Ley del Servicio Civil del Estado.
+La Junta de Administración, Vigilancia y Disciplina estimulará y recompensará a los empleados y funcionarios del Poder Judicial que se distingan por la eficiencia en el ejercicio de su trabajo, espíritu de servicio, asistencia y puntualidad, además de lo que establece la Ley del Servicio Civil del Estado de Morelos.
 
 ###### ARTICULO 160.
 
@@ -2035,15 +2315,19 @@ V.- Participación en programas de arrendamiento y venta de casas, en la medida 
 
 ## TITULO DECIMO
 
-### CAPITULO TERCERO. DE LAS AUSENCIAS ABSOLUTAS
+### CAPITULO UNICO. DE LAS VACACIONES, LICENCIAS Y PERMISOS
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 162.
 
-Los funcionarios y empleados del Poder Judicial gozarán cada año de dos períodos de vacaciones con goce de sueldo, de quince días cada uno, las que disfrutarán en las fechas que acuerde el Consejo de la Judicatura Estatal. El disfrute de cada período de vacaciones se concede después de seis meses de servicio ininterrumpido, sin perjuicio de lo que disponga la Ley del Servicio Civil del Estado de Morelos.
+Los funcionarios y empleados del Poder Judicial gozarán cada año de dos períodos de vacaciones con goce de sueldo, de quince días cada uno, las que disfrutarán en las fechas que acuerde la Junta de Administración, Vigilancia y Disciplina. El disfrute de cada período de vacaciones se concede después de seis meses de servicio ininterrumpido, sin perjuicio de lo que disponga la Ley del Servicio Civil del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 163.
 
-No se concederán licencias por término mayor de tres meses. Dicho término será prorrogable por una sola vez, salvo que se trate de casos graves que justifiquen la solicitud a juicio del Pleno del Tribunal Superior de Justicia o del Consejo de la Judicatura Estatal, en su caso, con propuesta del Presidente.
+No se concederán licencias por término mayor de tres meses. Dicho término será prorrogable por una sola vez, salvo que se trate de casos graves que justifiquen la solicitud a juicio del pleno del Tribunal Superior de Justicia o de la Junta de Administración, Vigilancia y Disciplina, en su caso, con propuesta del presidente.
 
 ###### ARTICULO 164.
 
@@ -2069,7 +2353,7 @@ Las ausencias de los servidores públicos judiciales serán suplidas en los tér
 
 Cuando los Jueces, Secretario, Actuarios y demás empleados auxiliares del Poder Judicial, faltaren a sus labores por mas de tres días en un período de treinta sin causa justificada, previa audiencia serán cesados en su empleo y se declarará vacante en su caso el cargo, para los efectos de los nuevos nombramientos.
 
-### CAPITULO SEGUNDO. DE LAS FALTAS OFICIALES
+### CAPITULO SEGUNDO. DE LAS AUSENCIAS TEMPORALES Y ACCIDENTALES
 
 ###### ARTICULO 169.
 
@@ -2089,9 +2373,11 @@ En los casos de recusación, excusa o impedimento de los Jueces conocerá del as
 
 Tratándose de un Juzgado integrado por varios jueces, el asunto pasará a conocimiento de otro de ellos, conforme a la distribución interna que se haya dispuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 171.
 
-Las faltas accidentales o temporales de los Jueces que no excedan de tres meses, serán suplidas dentro del juzgado en que ocurran, por el funcionario que designe el Consejo de la Judicatura Estatal. En tanto se haga la designación actuará como encargado del despacho, el primer secretario de acuerdos, quien sólo podrá dictar resoluciones de trámite; en los casos de juzgados mixtos, el primer secretario del ramo civil.
+Las faltas accidentales o temporales de los Jueces que no excedan de tres meses, serán suplidas dentro del juzgado en que ocurran, por el funcionario que designe la Junta de Administración, Vigilancia y Disciplina. En tanto se haga la designación actuará como encargado del despacho el primer secretario de acuerdos, quien sólo podrá dictar resoluciones de trámite; en los casos de juzgados mixtos, el primer secretario de acuerdos del ramo civil.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -2105,29 +2391,39 @@ Las ausencias accidentales o temporales del Secretario General de Acuerdos del T
 
 Las ausencias accidentales o temporales de los Secretario de Acuerdos y Actuarios de las Salas del Tribunal, serán cubiertas por el servidor público que designe el Pleno del Tribunal, a propuesta de la Sala respectiva.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 174.
 
-Las faltas temporales o accidentales de los Secretarios de Acuerdos de los juzgados, serán cubiertas por el servidor público que designe el Consejo de la Judicatura Estatal.
+Las faltas temporales o accidentales de los secretarios de Acuerdos de los juzgados, serán cubiertas por el servidor público que designe la Junta de Administración, Vigilancia y Disciplina.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 175.
 
-Las faltas accidentales o temporales de los servidores públicos judiciales, serán cubiertas por la persona que designe el Presidente del Consejo cuando no excedan de quince días, o por el servidor público que designe el Consejo de la Judicatura Estatal cuando sea por más de quince días.
+Las faltas accidentales o temporales de los servidores públicos judiciales, serán cubiertas por la persona que designe el presidente de la Junta de Administración, Vigilancia y Disciplina cuando no excedan de quince días, o por el servidor público que designe la Junta de Administración, Vigilancia y Disciplina cuando sea por más de quince días.
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPITULO TERCERO. DE LAS AUSENCIAS ABSOLUTAS
 
 ###### ARTICULO 176.
 
 Las ausencias absolutas de los Magistrados del Tribunal Superior de Justicia se suplirán perentoriamente en la misma forma establecida para las ausencias temporales o accidentales, en tanto sean cubiertas por el nombramiento que se haga en los términos de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 177.
 
-Las ausencias absolutas de los Jueces serán cubiertas por nombramientos del Consejo de la Judicatura Estatal y, entre tanto hace estos, procederá en la forma establecida para las ausencias temporales o accidentales.
+Las ausencias absolutas de los Jueces serán cubiertas por nombramientos de la Junta de Administración, Vigilancia y Disciplina y, entre tanto hace estos, procederá en la forma establecida para las ausencias temporales o accidentales.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 178.
 
-Las ausencias absolutas de los Secretarios del Tribunal y de los juzgados, así como las de los demás servidores públicos del Poder Judicial, serán cubiertas por nuevos nombramientos hechos por el Pleno o por el Consejo, según corresponda; y, entre tanto se hacen, se suplirán en la forma prevista para las ausencias temporales.
+Las ausencias absolutas de los secretarios del tribunal y de los juzgados, así como las de los demás servidores públicos del Poder Judicial, serán cubiertas por nuevos nombramientos hechos por el pleno o por la Junta de Administración, Vigilancia y Disciplina, según corresponda; y, entre tanto se hacen, se suplirán en la forma prevista para las ausencias temporales.
 
 ## TITULO DECIMO SEGUNDO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPITULO PRIMERO. GENERALIDADES
 
 ###### ARTICULO 179.
 
@@ -2144,6 +2440,8 @@ Los Magistrados del Tribunal Superior de Justicia, Jueces y servidores públicos
 ###### ARTICULO 182.
 
 La responsabilidad de los Jueces y servidores públicos judiciales se regirá por las disposiciones de esta ley.
+
+### CAPITULO SEGUNDO. DE LAS FALTAS OFICIALES
 
 ###### ARTICULO 183.
 
@@ -2171,9 +2469,9 @@ VIII.- Decretar un embargo, o ampliación de él, sin que se reúnan los requisi
 
 IX.- Dejar de concurrir o abandonar, sin causa justificada, sus labores oficiales;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-X.- No respetar los mecanismos establecidos por el Consejo de la Judicatura del Estado para la designación de auxiliares de la administración de justicia;
+X.- No respetar los mecanismos establecidos por la Junta de Administración, Vigilancia y Disciplina para la designación de auxiliares de la administración de justicia;
 
 XI.- Dedicar a los servidores de la administración de justicia de su dependencia, al desempeño de labores ajenas a las funciones oficiales;
 
@@ -2191,9 +2489,9 @@ XIV.- Tener una notoria ineptitud o descuido en el desempeño de las funciones o
 
 XV.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-XVI.- Desobeceder (sic) injustificadamente las circulares y ordenes expedidas por el Tribunal Superior de Justicia y Consejo de la Judicatura Estatal;
+XVI.- Desobedecer injustificadamente las circulares y ordenes expedidas por el Tribunal Superior de Justicia y de la Junta de Administración, Vigilancia y Disciplina;
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -2207,9 +2505,7 @@ XVIII.- Asignar a los servidores públicos a su cargo, labores ajenas a sus func
 
 XIX.- Abstenerse de revisar de oficio las actuaciones de sus secretarios, ejecutores y notificadores en los casos que ordena la ley;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
-
-XX.- Las establecidas en el artículo 27 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, en lo que no sean contrarias a la naturaleza de la función jurisdiccional; y
+XX.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -2219,7 +2515,9 @@ XXI.- Las demás que determinen otras leyes u ordenamientos aplicables.
 
 Se considerán como faltas de los Magistrados, las que tienen ese carácter, conforme a las fracciones I, XII y XIII, del artículo anterior.
 
-Se consideran como faltas de los miembros del Consejo de la Judicatura Estatal, las que señalan las fracciones XII y XIII, del artículo anterior.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Se consideran como faltas de los miembros de la Junta de Administración, Vigilancia y Disciplina, las que señalan las fracciones XII y XIII, del artículo anterior.
 
 ###### ARTICULO 185.
 
@@ -2287,9 +2585,11 @@ VI.- Incumplir con las atribuciones establecidas en el artículo 94 de la presen
 
 VII.- Las demás establecidas en otras leyes u ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 188.
 
-Son faltas de los demás servidores públicos del Tribunal Superior de Justicia, abstenerse de:
+Son faltas de los demás servidores públicos del Tribunal Superior de Justicia y de la Junta de Administración, Vigilancia y Disciplina, abstenerse de:
 
 I.- Concurrir en las horas reglamentarias, al desempeño de sus labores, así como a las señaladas para asistir a actos oficiales del Poder Judicial;
 
@@ -2304,6 +2604,8 @@ V.- Remitir al archivo, al terminar el año, los expedientes cuya remisión sea 
 VI.- Turnar inmediatamente las promociones a quien corresponda; y
 
 VII.- Las demás establecidas por la ley.
+
+### CAPITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTICULO 189.
 
@@ -2335,9 +2637,13 @@ A).- Se iniciará el expediente con la denuncia a la que deberán acompañarse, 
 
 B).- Si se trata de Jueces, se les solicitará informe por escrito con la documentación probatoria respectiva, mismo que deberá rendirse dentro de los cinco días siguientes. Tratándose de cualquier otro servidor público se citará a una audiencia que se celebrará, dentro del mismo término, con la comparecencia personal del interesado; en ella se le oirá y se le recibirán las justificaciones respectivas. En uno y otro caso, se correrá traslado al interesado con copia de la denuncia.
 
-C).- El Presidente del Consejo de la Judicatura Estatal o el Magistrado Visitador General gozarán de libertad para la práctica de cualquier diligencia probatoria que consideren necesaria y que no sea contraria al derecho o a la moral, para el esclarecimiento de los hechos.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-D).- Concluido el término señalado en el inciso b), y de no existir diligencias probatorias adicionales, o habiendo concluido la práctica de éstas, el Magistrado Visitador General, en su caso, formulará su dictamen de responsabilidad o irresponsabilidad administrativa, así como la propuesta de sanción, dentro de un plazo de diez días. Con lo anterior se dará cuenta al Consejo, a efecto de que éste proceda, en su caso, en los términos de lo dispuesto por el artículo 26 de esta ley, sin perjuicio de que ordene la repetición o ampliación de pruebas.
+C).- El presidente de la Junta de Administración, Vigilancia y Disciplina o el magistrado Visitador General gozarán de libertad para la práctica de cualquier diligencia probatoria que consideren necesaria y que no sea contraria al derecho o a la moral, para el esclarecimiento de los hechos.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+D).- Concluido el término señalado en el inciso b), y de no existir diligencias probatorias adicionales, o habiendo concluido la práctica de éstas, el magistrado visitador general, en su caso, formulará su dictamen de responsabilidad o irresponsabilidad administrativa, así como la propuesta de sanción, dentro de un plazo de diez días. Con lo anterior se dará cuenta a la Junta de Administración, Vigilancia y Disciplina, a efecto de que ésta proceda, en su caso, a la emisión de la resolución definitiva, o en su caso, sin perjuicio de que ordene la repetición de audiencias que se hayan desarrollado de forma irregular o para ampliación de pruebas.
 
 CAPITULO (SIC)
 
@@ -2361,9 +2667,9 @@ V.- Destitución del cargo, y en su caso, consignación ante la autoridad compet
 
 VI.- Inhabilitación temporal de uno a cinco años para desempeñar empleos, cargos o comisiones en el servicio público.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-La suspensión por más de cinco días, la destitución del cargo, la consignación ante la autoridad competente y la inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público solo podrán decretarse por el Consejo de la Judicatura Estatal.
+La suspensión por más de cinco días, la destitución del cargo, la consignación ante la autoridad competente y la inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público solo podrán decretarse por la Junta de Administración, Vigilancia y Disciplina.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -2413,11 +2719,17 @@ VI.- La reincidencia en la comisión de faltas; y
 
 VII.- En su caso, el monto del beneficio, daño o perjuicio económico causado, así como la gravedad de la interrupción o suspensión del servicio a su cargo.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-###### ARTICULO 195 Ter.
+ARTICULO 195 TER.- Las sanciones previstas en las fracciones I a IV del artículo 194 de esta ley prescribirán en seis meses y las demás en un año; los plazos anteriores se contarán a partir de que se haya efectuado la falta correspondiente. En ambos casos las actuaciones realizadas por la Visitaduría, por la Junta de Administración, Vigilancia y Disciplina o el Tribunal Superior de Justicia encaminadas al esclarecimiento de los hechos denunciados, interrumpirán los plazos de la prescripción.
 
-Las sanciones previstas en las fracciones I a IV del artículo 194 de esta ley prescribirán en seis meses y las demás en un año; los plazos anteriores se contarán a partir de la presentación de la denuncia que corresponda. En ambos casos las actuaciones realizadas por la Visitaduría o por el Consejo de la Judicatura Estatal, encaminadas al esclarecimiento de los hechos denunciados, interrumpirán los plazos de la prescripción.
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+La caducidad de la instancia es de orden público, irrenunciable, y no puede ser materia de convenio entre las partes, operará de pleno derecho una vez transcurridos ciento ochenta días naturales desde la fecha en que se interpuso la queja o denuncia, o se haya iniciado el procedimiento de responsabilidad sin haberse practicado notificación alguna al probableresponsable(sic).
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Tanto lo (sic) caducidad como la prescripción serán analizadas de oficio como de previo y especial pronunciamiento.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -2425,9 +2737,11 @@ Las sanciones previstas en las fracciones I a IV del artículo 194 de esta ley p
 
 En todo lo no previsto por este ordenamiento se aplicarán en lo conducente, las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 196.
 
-Las sanciones que imponga el Pleno del Tribunal o el Consejo de la Judicatura Estatal son inimpugnables. Las que impongan los Jueces serán recurribles en reconsideración, dentro de los tres días siguientes a aquél en que se notifique al interesado la imposición de la sanción.
+Las sanciones que impongan el Pleno del Tribunal o la Junta de Administración, Vigilancia y Disciplina son inimpugnable (sic). Las que impongan los Jueces serán recurribles en reconsideración, dentro de los tres días siguientes a aquél en que se notifique al interesado la imposición de la sanción.
 
 ###### ARTICULO 197.
 
@@ -2435,7 +2749,9 @@ El recurso de reconsideración a que alude el artículo anterior, se interpondr�
 
 Con el escrito que se interponga el recurso y los documentos que a él se acompañan, se correrá traslado al juez sancionador, quien dentro de los tres días siguientes rendirá informe por escrito, con la documentación probatoria respectiva.
 
-Si así lo estima necesario, el Pleno del Tribunal o el Consejo de la Judicatura Estatal, según corresponda, mandarán abrir una dilación probatoria de diez días y dentro de los tres días siguientes al informe del juez sancionador o de la conclusión de la dilación probatoria, en su caso, dictará la resolución que corresponda, misma que será inatacable.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Si así lo estima necesario, el pleno del Tribunal o la Junta de Administración, Vigilancia y Disciplina, según corresponda, mandarán abrir una dilación probatoria de diez días y dentro de los tres días siguientes al informe del juez sancionador o de la conclusión de la dilación probatoria, en su caso, dictará la resolución que corresponda, misma que será inatacable.
 
 ## TRANSITORIOS
 
@@ -2644,3 +2960,17 @@ SEGUNDA.- El presente decreto iniciará su vigencia al día siguiente de su publ
 TERCERA.- Se derogan todas aquellas disposiciones de igual o menor jerarquía jurídica que se oponga al presente decreto.
 
 CUARTA.- El Tribunal Superior de Justicia del Estado de Morelos o la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos, deberá continuar con todas las acciones o adecuaciones administrativas necesarias para culminar, antes de la vigencia de este decreto, la implementación del nuevo Sistema de Justicia laboral.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS SIETE POR EL CUAL SE REFORMAN, MODIFICAN, ADICIONAN Y DEROGAN DIVERSOS CAPÍTULOS, ARTÍCULOS Y FRACCIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL, QUEENTRÓ (SIC) EN VIGOR EL 13 DE ABRIL DEL AÑO 1995, MISMA QUE SE PUBLICÓ EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD”, NÚMERO 3739, SECCIÓN SEGUNDA”.]
+
+PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- La Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos, deberá publicar en el Boletín Judicial el presente decreto para efectos de divulgaciónal (sic) interior del Poder Judicial del Estado de Morelos, así como para los abogados litigantes y los justiciables.
+
+CUARTA.- Se derogan todas aquellas disposiciones de igual o menor jerarquía jurídica que se oponga al presente decreto.
+
+QUINTA.- El Tribunal Superior de Justicia y la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos, a la entrada en vigor del presente decreto, tendrán un plazo de sesenta días naturales para realizar las adecuaciones y armonizaciones a su normatividad interna con relación a este decreto, así como para dar cumplimiento al principio de paridad de género en la integración de la Junta de Administración y Vigilancia.
