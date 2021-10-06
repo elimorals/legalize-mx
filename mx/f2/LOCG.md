@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2019-05-08"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -618,181 +618,105 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 
 2. La Cámara de Diputados contará con las comisiones ordinarias y especiales que requiera para el cumplimiento de sus funciones.
 
-> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 6 DE OCTUBRE DE 2021)</small>
 
 Las comisiones ordinarias serán:
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
 I.- Asuntos Frontera Norte;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
 II.- Asuntos Frontera Sur;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
 III.- Asuntos Migratorios;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
 IV.- Atención a Grupos Vulnerables;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+V.- Bienestar;
 
-V.- Ciencia, Tecnología e Innovación;
+VI.- Cambio Climático y Sostenibilidad;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+VII.- Ciencia, Tecnología e Innovación;
 
-VI.- Comunicaciones y Transportes;
+VIII.- Comunicaciones y Transportes;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+IX.- Cultura y Cinematografía;
 
-VII.- Cultura y Cinematografía;
+X.- Defensa Nacional;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XI.- Deporte;
 
-VIII.- Defensa Nacional;
+XII.- Derechos de la Niñez y Adolescencia;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XIII.- Derechos Humanos;
 
-IX.- Deporte;
+XIV.- Desarrollo Urbano y Ordenamiento Territorial;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XV.- Desarrollo y Conservación Rural, Agrícola Autosuficiencia Alimentaria;
 
-X.- Derechos de la Niñez y Adolescencia;
+XVI.- Diversidad;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XVII.- Economía, Comercio y Competitividad;
 
-XI.- Derechos Humanos;
+XVIII.- Economía Social y Fomento del Cooperativismo;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XIX.- Educación;
 
-XII.- Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad;
+XX.- Energía;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXI.- Federalismo y Desarrollo Municipal;
 
-XIII.- Desarrollo Social;
+XXII.- Ganadería;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXIII.- Gobernación y Población;
 
-XIV.- Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria;
+XXIV.- Hacienda y Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXV.- Igualdad de Género;
 
-XV.- Economía, Comercio y Competitividad;
+XXVI.- Infraestructura;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXVII.- Justicia;
 
-XVI.- Economía Social y Fomento del Cooperativismo;
+XXVIII.- Juventud;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXIX.- Marina;
 
-XVII.- Educación;
+XXX.- Medio Ambiente y Recursos Naturales;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXXI.- Movilidad;
 
-XVIII.- Energía;
+XXXII.- Pesca;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXXIII.- Presupuesto y Cuenta Pública;
 
-XIX.- Federalismo y Desarrollo Municipal;
+XXXIV.- Protección Civil y Prevención de Desastres;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXXV.- Pueblos Indígenas y Afromexicanos;
 
-XX.- Ganadería;
+XXXVI.- Puntos Constitucionales;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXXVII.- Radio y Televisión;
 
-XXI.- Gobernación y Población;
+XXXVIII.- Recursos Hidráulicos, Agua Potable y Saneamiento;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XXXIX.- Reforma Política-Electoral;
 
-XXII.- Hacienda y Crédito Público;
+XL.- Relaciones Exteriores;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XLI.- Salud;
 
-XXIII.- Igualdad de Género;
+XLII.- Seguridad Ciudadana;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XLIII.- Seguridad Social;
 
-XXIV.- Infraestructura;
+XLIV.- Trabajo y Previsión Social;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XLV.- Transparencia y Anticorrupción;
 
-XXV.- Justicia;
+XLVI.- Turismo;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+XLVII.- Vivienda, y
 
-XXVI.- Juventud y Diversidad Sexual;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXVII.- Marina;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXVIII.- Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXIX.- Pesca;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXX.- Presupuesto y Cuenta Pública;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXI.- Protección Civil y Prevención de Desastres;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXII.- Pueblos Indígenas;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXIII.- Puntos Constitucionales;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXIV.- Radio y Televisión;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXV.- Recursos Hidráulicos, Agua Potable y Saneamiento;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXVI.- Relaciones Exteriores;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXVII.- Salud;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXVIII.- Seguridad Pública;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XXXIX.- Seguridad Social;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XL.- Trabajo y Previsión Social;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XLI.- Transparencia y Anticorrupción;
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XLII.- Turismo, y
-
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
-
-XLIII.- Vivienda.
+XLVIII.- Zonas Metropolitanas.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2017)</small>
 
@@ -2847,3 +2771,11 @@ D.O.F. 8 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 104 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Mesa Directiva de la Cámara de Diputados resolverá el turno de los asuntos que han sido presentados y turnados durante la LXV Legislatura en la Cámara de Diputados hasta antes de la entrada en vigor del presente Decreto, conforme a sus atribuciones, publicando en la Gaceta Parlamentaria el turno que corresponda atendiendo el contenido y la materia de las nuevas denominaciones de las comisiones ordinarias.
