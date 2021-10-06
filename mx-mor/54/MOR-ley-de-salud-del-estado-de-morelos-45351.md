@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2021-06-16"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -1079,9 +1079,15 @@ II.- Desarrollo de programas de comunicación educativa dirigidos a la comunidad
 
 III.- Salvaguardar la dignidad del adulto y del adulto mayor, y, en la medida de lo posible, garantizar una vida de calidad a través de los cuidados y atenciones médicas geriátricas;
 
-IV.- Apoyo y fomento de la investigación en materia de enfermedades crónico-degenerativas; y
+REFORMADA, P.O. 6 DE OCTUBRE DE 2021)
 
-V.- Las demás que coadyuven a la salud del adulto y del adulto mayor.
+IV.- Apoyo y fomento de la investigación en materia de enfermedades crónicodegenerativas;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+V.- Implementación de programas deportivos para la preservación de la salud de los adultos mayores, y
+
+VI.- Las demás que coadyuven a la salud del adulto y del adulto mayor.
 
 ###### Artículo 82.
 
@@ -4786,3 +4792,13 @@ PRIMERO.- Aprobado que sea el presente Decreto, remítase al titular del Poder E
 SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERO.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el secretario de Salud, el organismo público descentralizado denominado “Servicios de Salud de Morelos”, los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de noventa días, deberán actualizar sus disposiciones, lineamientos y/o Reglamentos Internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS TREINTA Y OCHO POR EL QUE SE REFORMA EL ARTÍCULO 81 DE LA LEY DE SALUD DEL ESTADO DE MORELOS, EN MATERIA DE PROGRAMAS DEPORTIVOS PARA ADULTOS MAYORES".]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
