@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2020-10-22"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -728,6 +728,10 @@ Para efectos del proceso legislativo, son días y horas hábiles todos los del a
 ###### ARTÍCULO 74.
 
 Se entenderá por sesión, a la reunión plenaria de los diputados legalmente convocados, con la asistencia del quórum legal celebrada en el salón de sesiones del recinto legislativo del Congreso o en el lugar así declarado por éste, en los casos previstos en la Constitución, en la Ley y en este Reglamento. El Congreso sesionará por lo menos una vez cada quince días, salvo en aquellos casos determinados por la Conferencia.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Las sesiones de pleno ordinarias, extraordinarias y solemnes serán transmitidas y difundidas en tiempo real en Lenguaje de Señas Mexicanas. Las o los intérpretes deberán contar con la especialidad y/o certificación en la Lengua de Señas Mexicanas.
 
 ###### ARTÍCULO 75.
 
@@ -2252,3 +2256,17 @@ SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación po
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
 
 CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS TREINTA Y CUATRO.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 74 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Aprobado el presente decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia a partir de la aprobación por el pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+CUARTA. Se instruye al o la titular de la Secretaría de Administración y Finanzas del Congreso del Estado de Morelos, que realice todos los actos administrativos conducentes para la contratación del personal especializado y/o certificado en el Lenguaje de Señas Mexicanas.
+
+QUINTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
