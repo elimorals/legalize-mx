@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-forestal-sustentable-del-estado-de-morelos-57
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2017-03-01"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -888,6 +888,10 @@ V. Utilización del uso del fuego en terreno forestal o preferentemente forestal
 VI. Aplicación del tratamiento o manejo fitosanitario forestal.
 
 Respecto a la fracción primera será necesario recabar la opinión favorable del o los ayuntamientos que correspondan el suelo forestal, previo al otorgamiento de la autorización respectiva.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+Así como tampoco, será procedente otorgar autorización de cambio de uso del suelo en terreno incendiado sin que hayan pasado 20 años y que se acredite a la Secretaria de Desarrollo Sustentable de Morelos, que la vegetación forestal afectada se ha regenerado, mediante los mecanismos que para tal efecto se establezcan en el Reglamento de la Ley General de Desarrollo Sustentable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
@@ -2358,3 +2362,11 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS ONCE POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 48 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS".]
+
+PRIMERA. - Remitase el presente decreto al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad" Órgano Oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. - El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad". Órgano de difusión de (sic) Gobierno del Estado de Morelos.
