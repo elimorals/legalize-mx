@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2021-06-16"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -356,6 +356,18 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 
 Para efectos del párrafo anterior, la Procuraduría de Protección, deberán otorgar acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, Capítulo Único de esta Ley, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 23 Bis.
+
+Las y los niños menores de tres años que nazcan o permanezcan junto a su madre biológica, cuando ella se encuentre privada de su libertad cumpliendo con una condena en un centro penitenciario femenil estatal se les deberá garantizar el derecho a la identidad a través del registro de su nacimiento y la expedición del acta del registro civil correspondiente, lo cual se realizará en términos de la Ley General de Ejecución Penal, el Código Familiar para el Estado Libre y Soberano de Morelos y demás normativa aplicable.
+
+Así mismo, en términos de los dispuesto en los artículos 10, fracciones VI y IV, y 36, tercer párrafo de la citada Ley Nacional de Ejecución Penal, el Estado les reconocerá como titulares de derechos, proporcionando las condiciones de vida que garanticen su sano desarrollo, atendiendo el interés superior de la niñez, de conformidad con lo señalado en la propia Ley Nacional y demás normativa aplicable. De conformidad con lo dispuesto en la Ley Nacional de ejecución Penal, y conforme al ámbito de sus respectivas competencias, la autoridad penitenciaria adoptará las acciones tendientes a proporcionar las condiciones de vida que garanticen el sano desarrollo de las niñas y los niños.
+
+El estado garantizara a las madres en reclusión la obtención de información periódica del estado de salud de sus hijos, con base en un expediente clínico, que también se compartirá con la persona o institución que se haga cargo del menor a partir de su egreso del centro penitenciario, respetando en todo caso la legislación en materia de salud y de protección de datos personales.
+
+En su caso las niñas y los niños cuya madre biológica se encuentre privada de su libertad cumpliendo con una condena en un centro penitenciario femenil estatal se les garantizará el acceso a la información de los programas sociales estatales que proporcionen las condiciones de vida que garanticen su sano desarrollo de conformidad con la normatividad aplicable.
 
 ###### Artículo 24.
 
@@ -1736,3 +1748,15 @@ P.O. 16 DE JUNIO DE 2021.
 PRIMERO.- Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO DIECISÉIS POR EL QUE SE ADICIONA EL ARTÍCULO 23 BIS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor para el ejercicio fiscal 2022, siempre y cuando cuente con la suficiencia presupuestaria necesaria para su operatividad.
+
+TERCERA. Publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
