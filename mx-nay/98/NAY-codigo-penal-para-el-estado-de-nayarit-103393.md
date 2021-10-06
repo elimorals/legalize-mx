@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2021-06-07"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2175,6 +2175,8 @@ V. Cualquier autoridad que conozca un hecho de tortura, está obligado a denunci
 
 ### CAPÍTULO V. COHECHO
 
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 246.
 
 Comete el delito de coalición de Servidores Públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
@@ -2187,15 +2189,55 @@ A los que cometan el delito de coalición, se les impondrá prisión de tres mes
 
 ###### ARTÍCULO 247.
 
-Comete el delito de cohecho:
+Cometen delito de cohecho:
 
-I. El servidor público que por sí o por interpósita persona solicite o reciba indebidamente dinero o cualquier otra dádiva o acepte una promesa de hacer algo ilícito o dejar de hacer algo lícito relacionado con sus funciones; y
+I. La o el servidor público que por sí, o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva o beneficio, o acepte una promesa de hacer algo ilícito o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
 
-II. El que dé u ofrezca dinero o cualquier otra dádiva a la persona encargada de un servicio público del estado, municipal o descentralizado o de participación estatal, o algún servidor público que preste sus servicios en los poderes Ejecutivo, Legislativo y Judicial, para que haga un acto ilícito u omita uno lícito relacionado con sus funciones.
+II. La persona que dé u ofrezca dinero o cualquier otra dádiva a la persona encargada de un servicio público del estado, municipal o descentralizado o de participación estatal, o a alguna persona servidora pública que preste sus servicios en los poderes Ejecutivo, Legislativo, Judicial, Ayuntamientos u órganos constitucionales autónomos, para que haga un acto ilícito u omita uno lícito relacionado con sus funciones;
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+III. El legislador que, en ejercicio de sus funciones o atribuciones, solicite, gestione, exija u obtenga para sí o para una o un tercero, una comisión, dádiva o contraprestación, en dinero o en especie distinta a la que le corresponde por el ejercicio de su encargo para aprobar:
 
-Al que cometa el delito de cohecho se le sancionará con tres meses a cinco años de prisión y multa de quince a sesenta días; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
+a) El presupuesto de egresos o leyes de ingresos que en el ámbito de su competencia le corresponde conocer;
+
+b) La asignación de recursos a favor de un ente público, o la contratación de financiamientos u obligaciones, en términos de la legislación en materia de disciplina financiera y de deuda pública aplicable;
+
+c) El otorgamiento de contratos de obra pública, arrendamientos o de servicios a favor de determinadas personas físicas o morales; o
+
+d) Los contratos de prestación de servicios Estatales o Municipales que conforme a la Ley corresponda.
+
+IV. El Presidente o Presidenta Municipal, Sindico o Síndica o Regidor o Regidora que, en el ejercicio de sus funciones o atribuciones, solicite, gestione, exija u obtenga para sí o para una o un tercero, una comisión, dádiva o contraprestación en dinero o en especie distinta a la que le corresponde por el ejercicio de su encargo para aprobar:
+
+a) El presupuesto de egresos;
+
+b) El proyecto de la ley de ingresos;
+
+c) La contratación de financiamientos u obligaciones, en términos de la legislación en materia de disciplina financiera y de deuda pública aplicable;
+
+d) La desafectación de bienes inmuebles; o
+
+e) La celebración de convenios, contratos o concesiones en términos de la Ley, obras, arrendamientos o la prestación de servicios públicos, así como la adjudicación de una licitación pública, por invitación o directa, de bienes o servicios.
+
+V. Las y los titulares de las Secretarías, Dependencias o Entidades del Gobierno del Estado o cualquier servidora o servidor público que corresponda a este; o la o el titular de un organismo público descentralizado que, en el ejercicio de sus funciones o atribuciones, exija u obtenga para sí o para una o un tercero, una comisión, dádiva o contraprestación en dinero o en especie distinta a la que le corresponde por el ejercicio de su encargo para aprobar o efectuar:
+
+a) La adjudicación de obra pública o de servicios a favor de determinadas personas físicas o morales;
+
+b) Adjudicación de una licitación pública, por invitación o directa, de compras o servicios;
+
+c) Un gasto que no esté previsto en el presupuesto o contrario a la ley; o
+
+d) Firmar los convenios de colaboración que se efectúen relacionados con su área, con las secretarías de la administración pública federal o diversas entidades públicas o privadas.
+
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de la dádiva, de los bienes, promesa o prestación no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de uno a tres años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando la cantidad o el valor de la dádiva, de los bienes, promesas o prestación exceda de quinientas hasta diez mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres a seis años de prisión y multa de cien a setecientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando la cantidad o el valor de la dádiva, de los bienes, promesa o prestación exceda de diez mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cuatro a nueve años de prisión y multa de cien a setecientas veces el valor diario de la Unidad de Medida y Actualización.
+
+A la o el servidor público que resulte responsable del delito de cohecho se le impondrá además la destitución e inhabilitación para desempeñar empleo, cargo o comisión pública, de uno hasta siete años.
+
+En ningún caso se devolverá a las o los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado, en términos del procedimiento respectivo.
 
 ### CAPÍTULO VII. CONCUSIÓN
 
@@ -4534,5 +4576,11 @@ P.O. 7 DE JUNIO DE 2021.
 P.O. 7 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 306 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 247 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITO DE COHECHO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
