@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-aranceles-para-los-abogados-del-estado-de-sinaloa-7015"
 country: "mx"
 rank: "ley"
 publication_date: "1977-10-31"
-last_updated: "1977-10-31"
+last_updated: "2021-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 6 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 31 de octubre de 1977.
 
@@ -302,3 +304,15 @@ LIC. MARCO A. ARROYO CAMBERO
 El Secretario de Finanzas del Estado
 
 C.P. ROBERTO WONG LEAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley de Aranceles para los Abogados del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 130, de fecha 31 de octubre de 1977.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
