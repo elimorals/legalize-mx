@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2020-12-23"
+last_updated: "2021-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -801,9 +801,19 @@ g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo 
 
 h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, a los Directores y Titular de la Unidad General Administrativa de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, así como a los Encargados de Despacho del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social;
+IV. Designar a los siguientes servidores públicos:
+
+a) Al secretario técnico de la propia Junta Política y de Gobierno;
+
+b) Al coordinador del área de Comunicación Social del Congreso del Estado;
+
+c) A los auditores especiales y directores generales de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, por un periodo de cuatro años y a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública, en términos de lo dispuesto por la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos.
+
+La remoción de los servidores públicos a que se refiere el presente inciso se realizará por la Junta Política y de Gobierno, previa acreditación de responsabilidad administrativa por sentencia que cause ejecutoria emitida por el Tribunal de Justicia Administrativa, por las causas previstas y aplicables por el artículo 78 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y
+
+d) A los encargados de despacho de los auditores especiales y directores generales de la Entidad Superior de Auditoria y Fiscalización, así como al titular del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social del Congreso del Estado de Morelos;
 
 V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
@@ -985,9 +995,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 19. Fortalecimiento Municipal, Desarrollo Regional y Pueblos Indígenas;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-20. Tránsito, Transporte y Vías de Comunicación;
+20. Movilidad, Tránsito, Transporte y Vías de Comunicación;
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1063,9 +1073,9 @@ II. Conocer y dictaminar sobre el Presupuesto de Egresos del Gobierno del Estado
 
 III. Conocer y dictaminar sobre las iniciativas de la Ley de Ingresos del Gobierno del Estado y de los Municipios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-IV. Proponer a la Junta Política y de Gobierno para su designación, mediante el procedimiento que para tal efecto apruebe la Junta Política y de Gobierno, al Titular de la Entidad Superior de Auditoría y Fiscalización;
+IV. Proponer a la Junta Política y de Gobierno para su designación de conformidad con la Constitución Política del Estado Libre y Soberano de Morelos, a los auditores especiales y a los directores generales de la Entidad Superior de Auditoría y Fiscalización.
 
 V. Solicitar de la Entidad Superior de Auditoría y Fiscalización, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
 
@@ -1423,23 +1433,53 @@ VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de ot
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2018)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 80.
 
-Corresponde a la Comisión de Tránsito, Transporte y Vías de Comunicación;
+Corresponde a la Comisión de Movilidad, Tránsito, Transporte y Vías de Comunicación;
 
-I. Conocer y dictaminar sobre las iniciativas en materia de tránsito, transporte, vialidad y vías de comunicación en el Estado;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-II. Promover las iniciativas o acciones para consolidar la estructura del transporte público de pasajeros y de carga;
+I. Conocer y dictaminar sobre las iniciativas en materia de movilidad, tránsito, transporte, vialidad y vías de comunicación en el estado;
 
-III. Emitir opinión sobre los programas de expansión y mejoramiento del transporte público implementados por el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+II. Promover las iniciativas o acciones para consolidar los sistemas de movilidad, del transporte público de pasajeros y de carga;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+III. Emitir opinión sobre los programas de expansión y mejoramiento de los sistemas de movilidad o transporte público implementados por el ejecutivo del estado;
 
 IV. Recibir la propuesta de los prestadores del servicio del transporte público para la actualización del marco jurídico que regula esta actividad;
 
-V. Opinar sobre los convenios que celebren las autoridades federales, del Estado, sus municipios o de otras entidades federativas, en materia de sistemas de tránsito, control de vehículos, de conductores y de transportes, cuando se trate de servicios en que tenga interés el Estado y coadyuve a la solución de conflictos en la materia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
-VI. Emitir opinión y en su caso impulsar ante el pleno acuerdos para fijar posturas en relación a las tarifas por el servicio público de transporte concesionado; y
+V. Opinar sobre los convenios que celebren las autoridades federales, del Estado, sus municipios o de otras entidades federativas, en materia de sistemas de tránsito, movilidad, control de vehículos, de conductores y de transportes, cuando se trate de servicios en que tenga interés el estado y coadyuve a la solución de conflictos en la materia;
 
-VII. Conocer de los demás asuntos que le sean turnados.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VI. Emitir opinión y en su caso impulsar ante el pleno acuerdos para fijar posturas en relación a las tarifas por el servicio público de transporte concesionado y de movilidad;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VII. Presentar iniciativas y dictaminarlas para garantizar el derecho humano a la movilidad, favoreciendo el mejor desplazamiento de bienes y de personas, integrando a las personas con discapacidad temporal o permanente y/o aquellas que se encuentren en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+VIII. Propiciar que las leyes contemplen que todas las personas, incluidas las que tengan una discapacidad temporal o permanente y/o aquellas que estén en situación de vulnerabilidad tengan derecho a disfrutar de una movilidad eficiente, sustentable y segura;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+IX. Realizar foros de cultura de movilidad sustentable;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+
+X. Constituir observatorios ciudadanos de movilidad y transporte para el estudio y generación de propuestas legislativas que mejoren la movilidad y el transporte en el estado de Morelos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE OCTUBRE DE 2021)</small>
+
+XI. Conocer de los demás asuntos que le sean turnados.
 
 ###### Artículo 81.
 
@@ -3086,3 +3126,27 @@ SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación po
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
 
 CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS DIEZ POR EL QUE SE REFORMAN LOS ARTÍCULOS 50 EN SU FRACCIÓN IV Y 61 EN SU FRACCIÓN IV, AMBOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente decreto se remitirá al gobernador constitucional del estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia a partir de la aprobación por el pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA. Se instruye a la Secretaría de Servicios Legislativos y Parlamentarios le dé cumplimiento en los términos establecidos.
+
+P.O. 6 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS TREINTA Y TRES.- POR EL QUE SE REFORMA EL NUMERAL 20 DEL ARTÍCULO 59, PRIMER PÁRRAFO, Y LAS FRACCIONES I, II, III, V Y VI DEL ARTÍCULO 80; SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X Y XI AL ARTÍCULO 80, RECORRIÉNDOSE EN SU ORDEN ACTUAL LA FRACCIÓN VII PARA PASAR A SER LA FRACCIÓN XI; TODOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia a partir de la aprobación por el pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “copia certificada”, los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
