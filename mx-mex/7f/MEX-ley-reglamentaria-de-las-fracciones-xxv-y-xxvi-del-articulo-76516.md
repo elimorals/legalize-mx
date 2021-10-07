@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-de-las-fracciones-xxv-y-xxvi-del-articulo-765
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2020-09-29"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 3 de septiembre de 2010.
 
@@ -43,37 +43,77 @@ LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCI
 
 ### CAPÍTULO ÚNICO. DEL OBJETO
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria de las fracciones XXV y XXVI del artículo 61 de la Constitución Política del Estado Libre y Soberano de México; sus disposiciones son de orden público y tienen por objeto regular los requisitos y el procedimiento para la creación o supresión de municipios; la fijación de límites municipales y la resolución de las diferencias que se produzcan en esta materia; y establecer las atribuciones y organización de la Comisión de Límites Estatal.
+La presente Ley es reglamentaria de las fracciones XXV y XXVI del artículo 61 de la Constitución Política del Estado Libre y Soberano de México; sus disposiciones son de orden público y tienen por objeto regular los requisitos y los procedimientos para la creación o supresión de municipios, la fijación de límites municipales y la resolución de las diferencias que se produzcan en esta materia; y establecer las atribuciones y organización de la Comisión de Límites Estatal.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-La Legislatura del Estado y el Poder Ejecutivo del Estado, en el ámbito de su competencia, serán autoridades para la aplicación de esta Ley.
+La Legislatura del Estado de México y el Poder Ejecutivo del Estado, en el ámbito de su competencia, serán autoridades para la aplicación de esta Ley.
 
 ###### Artículo 3.
 
 Para los efectos de esta ley, se entiende por:
 
-I. Legislatura, a la H. Legislatura del Estado de México;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE OCTUBRE DE 2021)</small>
 
-II. Ejecutivo, al Poder Ejecutivo del Estado de México;
+I. Actor: el o los municipios que soliciten la intervención de la Legislatura en materia de límites territoriales;
 
-III. Comisión Estatal, a la Comisión de Límites del Gobierno del Estado de México;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-IV. Comisión Legislativa, a la Comisión que designe el pleno de la Legislatura para el conocimiento y dictaminación de un asunto en materia de límites territoriales;
+II. Comisión Estatal: a la Comisión de Límites del Gobierno del Estado de México;
 
-V. Comisión Municipal, a la Comisión que integren los municipios que sean parte en la fijación de sus límites territoriales;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-VI. IGECEM, al Instituto de Geografía, Estadística y Catastral del Estado de México; y
+III. Comisión Legislativa: a la Comisión Legislativa de Límites Territoriales del Estado de México y sus Municipios;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-VII. Dirección, a la Dirección de Legalización y del Periódico Oficial “Gaceta del Gobierno” de la Consejería Jurídica del Ejecutivo Estatal.
+IV. Comisión de Límites Municipal: a la Comisión que integren los Ayuntamientos que sean parte en la fijación de sus límites territoriales;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE OCTUBRE DE 2021)</small>
 
-VIII. Departamento, al Departamento de Límites de la Dirección de Legalización y del Periódico Oficial “Gaceta del Gobierno”.
+V. Coordenadas UTM: Universal Transverse Mercator, proyección cilíndrica conforme en la que el cilindro es secante al elipsoide y el eje del cilindro está sobre el ecuador. Esta proyección divide a la Tierra en 60 husos de 6 grados sexagesimales de longitud cada uno, numerados a partir del antimeridiano de Greenwich de Oeste a Este. Las coordenadas se miden en metros referidas a un meridiano central con respecto de X, mientras que las coordenadas Y, desde el ecuador hacia el Norte y hacia el Sur;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+VI. Demandado: el o los municipios señalados como contraparte del diferendo limítrofe;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+VII. Días hábiles: los que señale el calendario oficial de la Legislatura;
+
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+VIII. Dirección General: a la Dirección General de Legalización y del Periódico Oficial “Gaceta del Gobierno” de la Secretaría de Justicia y Derechos Humanos del Ejecutivo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+IX. Ejecutivo: al Poder Ejecutivo del Estado de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+X. IGECEM: al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+XI. Legislatura: a la H. Legislatura del Estado de México;
+
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+XII. Peticionario: a la ciudadanía, que en lo individual o colectivamente, soliciten a la Legislatura su intervención para la creación de un municipio;
+
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+XIII. Subdirección: a la Subdirección de Límites de la Dirección General de Legalización y del Periódico Oficial “Gaceta del Gobierno”, y
+
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+XIV. Tercero interesado: el o los municipios que, en un procedimiento de creación o supresión y diferendos limítrofes municipales, se vea afectado en su territorio.
 
 ###### Artículo 4.
 
@@ -85,17 +125,27 @@ II. Cuando en los Decretos existentes, no se haya precisado la delimitación ter
 
 III. Cuando exista discrepancia entre dos o más municipios sobre la interpretación de un Decreto que fije los límites municipales.
 
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+IV. Cuando así lo convengan los municipios para el reconocimiento de sus límites territoriales.
+
 ###### Artículo 5.
 
 Tratándose de los municipios que colindan con otra entidad federativa, el límite se entiende como el que se reconoce en términos de los convenios o resoluciones existentes, de acuerdo a lo que establecen los artículos 45 y 46 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 6.
 
-En la substanciación de los procedimientos que establece esta ley, los municipios serán representados por el Presidente Municipal y el Síndico del Ayuntamiento correspondiente, sin que puedan delegar esta representación.
+En la substanciación de los procedimientos que establece esta ley, los municipios serán representados por las personas titulares de la Presidencia Municipal y la Sindicatura del Ayuntamiento correspondiente, sin que puedan delegar esta representación.
+
+Los procedimientos para la creación o supresión y fijación o precisión de los límites municipales se regirán bajo los principios de sencillez, celeridad, colaboración, publicidad, gratuidad y buena fe.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 7.
 
-En lo no previsto en la presente Ley, se aplicará supletoriamente la Ley Orgánica del Poder Legislativo y su Reglamento.
+En lo no previsto en la presente Ley, se aplicará supletoriamente la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México y su Reglamento.
 
 ## TÍTULO SEGUNDO. DE LA CREACIÓN Y SUPRESIÓN DE LOS MUNICIPIOS
 
@@ -107,17 +157,23 @@ La Legislatura del Estado podrá otorgar la categoría de municipio a los centro
 
 I. Que medie solicitud por escrito;
 
-II. Tener un censo de población mayor de 40,000 habitantes, o menor de este número, cuando los centros de población compartan un pasado histórico y cultural común, o tengan una demarcación territorial que conforme una unidad geográfica continua, o que por otras causas políticas, sociales, económicas o administrativas, ya no respondan a las necesidades de asociación en vecindad con el municipio al que pertenecen;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+II. Tener un censo de población mayor de sesenta mil habitantes, o menor de este número, cuando los centros de población compartan un pasado histórico y cultural común, o tengan una demarcación territorial que conforme una unidad geográfica continua, o que por otras causas políticas, sociales, económicas o administrativas, ya no respondan a las necesidades de asociación en vecindad con el municipio al que pertenecen;
 
 III. Disponer de los recursos económicos suficientes para cubrir las erogaciones que requiera la administración pública municipal;
 
-IV. Que el centro de población señalado como cabecera municipal cuente con los inmuebles e instalaciones necesarios para el funcionamiento de los servicios públicos municipales, señalados en la Ley Orgánica Municipal; y
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+IV. Que el centro de población señalado como cabecera municipal cuente con los inmuebles e instalaciones necesarios para el funcionamiento de los servicios públicos municipales, señalados en la Ley Orgánica Municipal del Estado de México, y
 
 V. Que los centros de población que lo integren, cuando sean varios, estén debidamente comunicados.
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-La solicitud de creación de un municipio deberá ser dirigida a la Legislatura por el Gobernador o por los representantes del o los poblados interesados, directamente o a través del Titular del Ejecutivo.
+La solicitud de creación de un municipio deberá ser dirigida a la Legislatura por la persona titular del Ejecutivo o por los representantes del o los poblados peticionarios.
 
 ###### Artículo 10.
 
@@ -131,27 +187,61 @@ III. Nombres, categorías políticas, censos de población, agropecuarios, comer
 
 IV. Monto aproximado de los ingresos y egresos que pueda tener la hacienda pública municipal.
 
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+V. Que no exista procedimiento de Diferendo Limítrofe Intermunicipal.
+
+> <small>(ADICIONADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+Dicha documentación deberá ser emitida por la autoridad competente, con la finalidad de tener certeza en la revisión y valoración de los elementos para su determinación.
+
+> <small>(ADICIONADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 10 Bis.
+
+La Comisión Legislativa una vez que haya recibido por parte de la Legislatura, el turno de la solicitud de creación de un municipio, deberá notificar a los terceros interesados para que manifiesten lo que a su derecho convenga, debiendo para tal efecto, otorgar la garantía de audiencia correspondiente, la cual se desarrollará de la manera siguiente:
+
+I. La Presidencia de la Comisión Legislativa exhortará a los peticionarios a conservar la naturaleza del territorio mexiquense, y al municipio a dar cumplimiento a las obligaciones y atribuciones que de la ley emanan, para satisfacer las necesidades de la ciudadanía;
+
+II. La ciudadanía peticionaria, a través de quien los represente, expresarán su planteamiento;
+
+III. El o los terceros interesados citados expresarán su punto de vista y sus argumentos, y
+
+IV. La Comisión Legislativa requerirá a los peticionarios y a los terceros interesados para que, en un plazo de treinta días hábiles posteriores a la audiencia, remitan todas las pruebas que consideren son suficientes para acreditar sus manifestaciones.
+
+Una vez satisfechos los requisitos anteriores, la Comisión Legislativa podrá solicitar a la Comisión Estatal, emita la opinión técnica correspondiente.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 11.
 
-La Legislatura del Estado podrá solicitar al Gobernador, a las autoridades municipales o a los ciudadanos requirentes, los datos adicionales que estime necesarios para resolver sobre la creación del municipio; pudiendo oír a estos sobre la conveniencia o inconveniencia sobre la erección del nuevo municipio.
+La Comisión Legislativa podrá solicitar en cualquier momento al Ejecutivo, a los terceros interesados, a las personas peticionarias, o a cualquier ente público o privado, los datos adicionales que estime necesarios para resolver sobre la creación del municipio; pudiendo oír a estos sobre la conveniencia o inconveniencia sobre la erección del nuevo municipio.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-En la creación de municipios, se evitará que los centros de población afectados quebranten su unidad social, cultural o geográfica, se reduzca a menos de 40,000 los habitantes del o los municipios afectados o se disminuyan los ingresos de éstos en forma tal que sean insuficientes para cubrir las erogaciones de su administración pública.
+En la creación de municipios, se evitará que los centros de población afectados quebranten su unidad social, cultural o geográfica, se reduzca a menos de sesenta mil los habitantes del o los municipios afectados o se disminuyan los ingresos de éstos en forma tal que sean insuficientes para cubrir las erogaciones de su administración pública.
+
+Los municipios cuya actividad o patrimonio se vea afectado por la creación de un municipio deberán manifestar lo conducente en materia de transferencia de los recursos y servicios municipales correspondientes.
 
 ###### Artículo 13.
 
 Cumplidos los requisitos a que se refieren los artículos anteriores, la Legislatura procederá a decretar la creación del municipio, señalar su cabecera municipal y dar a éstos el nombre correspondiente.
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-El ayuntamiento provisional del nuevo municipio será designado por la Legislatura a propuesta en terna del Gobernador, el cual actuará hasta la fecha en que deba entrar en funciones el que resulte designado en las elecciones que se realicen conforme a los plazos y términos señalados por las disposiciones electorales respectivas.
+El ayuntamiento provisional del nuevo municipio será designado por la Legislatura a propuesta en terna de la persona titular del Ejecutivo, el cual actuará hasta la fecha en que deba entrar en funciones el que resulte designado en las elecciones que se realicen conforme a los plazos y términos señalados por las disposiciones electorales respectivas.
 
 ### CAPÍTULO SEGUNDO. DE LA SUPRESIÓN DE MUNICIPIOS
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 15.
 
-El Gobernador o el ayuntamiento correspondiente, podrán solicitar a la Legislatura la supresión de un municipio, cuando exista incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes.
+La persona titular del Ejecutivo o el ayuntamiento correspondiente, podrán solicitar a la Legislatura la supresión de un municipio, cuando exista incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes.
 
 ###### Artículo 16.
 
@@ -161,9 +251,11 @@ Al acordarse la supresión de un municipio, la Legislatura determinará a cual o
 
 ### CAPÍTULO PRIMERO. DE LA NATURALEZA Y CONFORMACIÓN DE LA COMISIÓN DE LÍMITES DEL GOBIERNO DEL ESTADO DE MÉXICO
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-La Comisión Estatal es un órgano técnico y de consulta del Poder Ejecutivo en materia de conservación y demarcación de los límites del Estado y sus municipios.
+La Comisión Estatal es un órgano técnico y de consulta para el Poder Legislativo, Poder Ejecutivo y los municipios en materia de conservación y demarcación de los límites del Estado y sus municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
 
@@ -171,41 +263,51 @@ La Comisión Estatal es un órgano técnico y de consulta del Poder Ejecutivo en
 
 La Comisión Estatal estará integrada por:
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-I. Un Presidente que será el Secretario de Justicia y Derechos Humanos;
+I. La persona titular de la Secretaría de Justicia y Derechos Humanos, quien la presidirá;
 
 II. (DEROGADA, G.G. 29 DE AGOSTO DE 2017)
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-III. Un Secretario Técnico que será el Titular de la Dirección.
+III. La persona titular de la Dirección General, que fungirá como Secretaría Técnica;
 
 IV. Vocales:
 
-a) El Director General de Planeación Urbana;
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-b) El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
+a) La persona Titular de la Dirección General de Planeación Urbana;
 
-c) El Director General Jurídico y Consultivo;
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+b) La persona Titular de la Dirección General del IGECEM;
 
-d) El Director del Archivo Histórico del Estado de México.
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+c) La persona Titular de la Dirección General Jurídica y Consultiva;
 
-e) El Jefe del Departamento de Límites.
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+d) La persona Titular de la Dirección del Archivo Histórico del Estado de México, y
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+e) La persona Titular de la Subdirección de Límites.
 
 V. (DEROGADA, G.G. 29 DE AGOSTO DE 2017)
 
 VI. (DEROGADA, G.G. 29 DE AGOSTO DE 2017)
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE OCTUBRE DE 2021)</small>
 
-Los cargos de los integrantes de la Comisión Estatal serán de carácter honorífico y tendrán derecho a voz y voto. Las determinaciones de la Comisión Estatal se tomarán por unanimidad o mayoría de votos.
+Contará con una persona invitada permanente, como representante de la Legislatura, quien preferentemente será la persona que presida la Comisión Legislativa.
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+Los cargos de quienes integran la Comisión Estatal serán de carácter honorífico y tendrán derecho a voz y voto, excepto quien represente a la Legislatura, quien sólo tendrá derecho a voz. Las determinaciones de la Comisión Estatal se tomarán por unanimidad o mayoría de votos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 7 DE OCTUBRE DE 2021)</small>
 
 Los integrantes podrán designar un suplente para que los represente con excepción del Secretario Técnico.
 
@@ -215,17 +317,25 @@ Los integrantes podrán designar un suplente para que los represente con excepci
 
 Para el cumplimiento de su objetivo, la Comisión Estatal tendrá las atribuciones siguientes:
 
-I. Emitir opinión técnica sobre la extensión y límites del Estado y de sus Municipios a solicitud expresa de la Legislatura o del titular del Poder Ejecutivo;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-II. Proponer al Ejecutivo del Estado alternativas de solución, a los problemas que se susciten en materia de límites entre sus municipios y el Estado con otras entidades federativas;
+I. Emitir opinión técnica sobre la extensión y límites del Estado y de sus Municipios a solicitud expresa de la Legislatura o de la persona titular del Ejecutivo;
 
-III. Promover la celebración de convenios amistosos para resolver los problemas de límites entre sus municipios y el Estado con otras entidades federativas, a fin de que el Poder Legislativo cuente con argumentos para dictaminar sobre los mismos;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-IV. Asesorar al Ejecutivo del Estado y a los municipios en la elaboración de convenios en materia de límites que celebren sus municipios o con otras entidades;
+II. Proponer al Ejecutivo alternativas de solución, a los problemas que se susciten en materia de límites entre sus municipios y el Estado con otras entidades federativas;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-V. Elaborar los planos topográficos con las ubicaciones del cuadro de construcción que contendrá las coordenadas respectivas a la línea limítrofe municipal con el apoyo del IGECEM.
+III. Promover la celebración de convenios amistosos para resolver los problemas de límites entre sus municipios y el Estado con otras entidades federativas, a fin de que la Legislatura cuente con argumentos para dictaminar sobre los mismos;
+
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+IV. Asesorar al Ejecutivo y a los municipios en la elaboración de convenios en materia de límites que celebren entre municipios o con otras entidades;
+
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+V. Elaborar los planos topográficos con las ubicaciones del cuadro de construcción que contendrá las coordenadas respectivas a la línea limítrofe municipal con el apoyo del IGECEM;
 
 VI. Expedir su Reglamento Interior y realizar las modificaciones al mismo cuando sea necesario;
 
@@ -239,7 +349,9 @@ X. Concentrar, conservar, acrecentar y actualizar la información en materia de 
 
 XI. Emitir dictámenes técnicos en materia de diferendos limítrofes entre los municipios del Estado;
 
-XII. Crear grupos de trabajo para el estudio en asuntos relacionados con diferendos limítrofes, que faciliten las resoluciones del Legislativo;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+XII. Crear grupos de trabajo para el estudio en asuntos relacionados con diferendos limítrofes, que faciliten las resoluciones de la Legislatura;
 
 XIII. Participar en las acciones tendientes para la integración de la Comisión que represente al Estado ante otras Entidades, conjuntamente con la Comisión Legislativa:
 
@@ -247,13 +359,23 @@ XIV. Desahogar las consultas que le sean formuladas;
 
 XV. Vigilar el cabal cumplimiento de los decretos emitidos por la Legislatura en materia de límites;
 
-XVI. Emitir opinión respecto de la ubicación de los señalamientos físicos de los límites municipales y estatales que realicen las autoridades; y
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-XVII. Las demás que le sean necesarias para el cumplimiento de su objetivo.
+XVI. Emitir opinión respecto de la ubicación de los señalamientos físicos de los límites municipales y estatales que realicen las autoridades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+XVII. Emitir opiniones técnicas para la creación de municipios, una vez cumplidos los requisitos previstos en los artículos 10 y 10 Bis de la presente Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+XVIII. Las demás que le sean necesarias para el cumplimiento de su objetivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 20.
 
-El Presidente de la Comisión Estatal tendrá las siguientes atribuciones:
+La persona que presida la Comisión Estatal tendrá las siguientes atribuciones:
 
 I. Representar a la Comisión;
 
@@ -261,27 +383,35 @@ II. Presidir las sesiones; y
 
 III. Someter a la Comisión Estatal los asuntos que se presenten y las demás que sean necesarias para el objetivo de la comisión.
 
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+IV. Garantizar que las solicitudes cuyo propósito sean cumplir con el objeto de la presente ley, se presenten ante la Legislatura.
+
 ###### Artículo 21.
 
 (DEROGADO, G.G. 29 DE AGOSTO DE 2017)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-El Secretario Técnico de la Comisión Estatal tendrá las siguientes atribuciones:
+La o el Secretario Técnico de la Comisión Estatal tendrá las siguientes atribuciones:
 
 I. Realizar los trámites necesarios para la celebración de las sesiones de la comisión y formular el orden del día y las convocatorias;
 
 II. Recabar la información correspondiente de cada sesión;
 
-III. Llevar el registro de los integrantes asistentes a la sesión;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-IV. Elaborar las actas de las sesiones y recabar las firmas de los asistentes;
+III. Llevar el registro de las personas que asisten a la sesión;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-V. Dar seguimiento a los acuerdos y medidas adoptadas por la Comisión Estatal.
+IV. Elaborar las actas de las sesiones y recabar las firmas de quienes asisten;
+
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+V. Dar seguimiento a los acuerdos y medidas adoptadas por la Comisión Estatal;
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
@@ -291,13 +421,13 @@ VI. Informar a la Comisión Estatal sobre los trámites que se hayan dado a los 
 
 VII. Llevar la correspondencia y archivo de la Comisión Estatal.
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-VIII. Auxiliar al Presidente en el cumplimiento de sus funciones.
+VIII. Auxiliar a la persona que presida la Comisión Estatal en el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-IX. Ordenar y clasificar la información materia de límites del Estado y sus municipios y proporcionar a los integrantes de la Comisión Estatal los datos que requieran.
+IX. Ordenar y clasificar la información en materia de límites del Estado y sus municipios y proporcionar a quienes integran la Comisión Estatal los datos que requieran;
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
@@ -307,13 +437,13 @@ X. Informar a la Comisión Estatal sobre los trámites que se hayan dado a los a
 
 XI. Elaborar los proyectos de límites y expedición de información pertinente para la elaboración de los decretos respectivos de los municipios que hayan firmado convenios amistosos, acatando las disposiciones de la Comisión Estatal.
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-XII. Asesorar técnicamente a la Comisión Estatal respecto de la demarcación y conservación de los límites del Estado.
+XII. Asesorar técnicamente a la Comisión Estatal y a los municipios, respecto de la demarcación y conservación de los límites del Estado;
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-XIII. Representar a la Comisión Estatal por delegación expresa del Presidente.
+XIII. Representar a la Comisión Estatal por delegación expresa de la o el Presidente;
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
@@ -323,17 +453,19 @@ XIV. Evaluar, ejecutar y dar seguimiento a los planes, programas y acuerdos de l
 
 XV. Preservar y mantener actualizada la información en materia de límites territoriales del Estado y sus municipios.
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-XVI. Proponer a la Comisión Estatal la integración de grupos de trabajo y las demás que sean necesarias para el cumplimiento de sus funciones.
+XVI. Proponer a la Comisión Estatal la integración de grupos de trabajo y las demás que sean necesarias para el cumplimiento de sus funciones, y
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-XVII. Las demás que le encomiende el Presidente.
+XVII. Las demás que le encomiende la o el Presidente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-Los Vocales tendrán las atribuciones siguientes:
+Las y los Vocales tendrán las atribuciones siguientes:
 
 I. Asistir a las sesiones de la comisión;
 
@@ -347,15 +479,17 @@ V. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 ### CAPÍTULO TERCERO. DE LAS SESIONES DE LA COMISIÓN
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 24.
 
-La Comisión Estatal se reunirá en sesiones ordinarias bimestralmente y en extraordinarias en cualquier tiempo por acuerdo del Presidente.
+La Comisión Estatal se reunirá en sesiones ordinarias bimestralmente y en extraordinarias en cualquier tiempo por acuerdo de la persona que presida.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-Para que la Comisión Estatal pueda sesionar, será necesaria la presencia del Presidente o de quien legalmente lo sustituya y de la mitad más uno de sus miembros cuando menos.
+Para que la Comisión Estatal pueda sesionar, será necesaria la presencia de la o el Presidente o de quien legalmente lo sustituya y de la mitad más uno de quienes integran cuando menos.
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
@@ -367,11 +501,13 @@ La Comisión Estatal tomará sus acuerdos por consenso y tendrá su domicilio en
 
 La Comisión Estatal contará con un Órgano de Consultoría Permanente integrado por:
 
-I. Los Subsecretarios Regionales de Gobernación de la Subsecretaría General de Gobierno; y
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+I. Las personas titulares de las Subsecretarías de Gobierno de la Subsecretaría General de Gobierno, y
 
-II. El Secretario de Desarrollo Urbano y Obra.
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+II. La persona titular de la Secretaría de Desarrollo Urbano y Obra.
 
 ###### Artículo 28.
 
@@ -385,9 +521,11 @@ Las dependencias y organismos auxiliares de la Administración Pública del Esta
 
 Los municipios del Estado con el apoyo técnico de la Comisión Estatal podrán arreglar entre si, por convenios amistosos, sus respectivos límites, sometiéndolos a la Legislatura para su aprobación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 30.
 
-El procedimiento que regula la presente ley para celebrar convenios de reconocimiento de límites territoriales intermunicipales, se regirá por los principios de sencillez, celeridad, colaboración, publicidad, gratuidad y de buena fe:
+El procedimiento para celebrar convenios de reconocimiento de límites territoriales intermunicipales, deberá cumplir con los principios aplicables en la presente ley, y obedecerá a lo siguiente:
 
 I. Sus trámites serán sencillos, evitando formulismos innecesarios;
 
@@ -413,39 +551,53 @@ VI. Los representantes de los municipios involucrados se conducirán con honrade
 
 Los municipios que soliciten apoyo técnico a la Comisión Estatal para la celebración de un convenio de reconocimiento de límites territoriales, deberán cumplir con los siguientes requisitos:
 
-I. La solicitud deberá ser formulada por el presidente municipal y síndico, y dirigida al Gobernador, en la cual se solicite la intervención de la Comisión para la precisión de sus límites, previo acuerdo de cabildo;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 7 DE OCTUBRE DE 2021)</small>
 
-II. Los cabildos de los ayuntamientos solicitantes deberán tener integrada su Comisión de Límites Municipal, que los representará en los trabajos técnicos y de campo, la cual se conformará de la siguiente manera:
+I. Los cabildos de los ayuntamientos solicitantes deberán tener integrada su Comisión de Límites Municipal, que los representará en los trabajos técnicos y de campo, la cual se conformará de la siguiente manera:
 
-a) Un Presidente, que será el síndico, y para el caso de haber más de uno será el segundo;
+a) Una o un Presidente, que será el titular de la sindicatura, y para el caso de haber más de uno será el segundo;
 
-b) Dos regidores designados por el cabildo;
+b) Dos personas titulares de las regidurías designados por el cabildo;
 
-c) El director de desarrollo urbano municipal;
+c) La persona titular de la dirección de desarrollo urbano municipal, y
 
-d) Los vocales que nombre el cabildo.
+d) Las vocalías que nombre el cabildo.
 
-III. Las Comisiones Municipales, deberán estar debidamente acreditadas, ante la Comisión Estatal, por medio del acuerdo de cabildo respectivo, y sus integrantes deberán asistir a todas las reuniones de trabajo y recorridos de campo a las que sean convocados por ésta.
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+II. Las Comisiones de Límites Municipales, deberán estar debidamente acreditadas, ante la Comisión Estatal, por medio del acuerdo de cabildo respectivo, y quienes la integran deberán asistir a todas las reuniones de trabajo y recorridos de campo a las que sean convocadas por ésta, y
+
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+III. La solicitud deberá ser formulada por las personas titulares de la presidencia municipal y sindicatura, y dirigida a la persona titular del Ejecutivo, en la cual se solicite la intervención de la Comisión Estatal para la precisión de sus límites, previo acuerdo de cabildo.
 
 ###### Artículo 32.
 
 El procedimiento para la celebración de convenios amistosos de reconocimiento de límites territoriales intermunicipales, en los cuales los municipios soliciten la intervención de la Comisión Estatal, se desarrollará de la siguiente manera:
 
-I. La Comisión Estatal efectuará reuniones de trabajo para revisar con las Comisiones Municipales y el Departamento de Límites, las líneas marcadas en la cartografía reconocida por el Gobierno del Estado;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+I. La Comisión Estatal efectuará reuniones de trabajo para revisar con las Comisiones de Límites Municipales y la Subdirección de Límites, las líneas marcadas en la cartografía reconocida por el Ejecutivo;
 
 II. Se programarán recorridos de campo para el levantamiento del plano topográfico respectivo;
 
-III. La Comisión Estatal con el auxilio del IGECEM, elaborara el plano topográfico con los datos obtenidos en los recorridos, así como el proyecto de convenio amistoso;
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+III. La Comisión Estatal con el auxilio del IGECEM, elaborará el plano topográfico con los datos obtenidos en los recorridos, así como el proyecto de convenio amistoso;
 
 IV. Las Comisiones Municipales revisarán conjuntamente el plano topográfico y el proyecto de convenio amistoso, y en su caso deberán emitir su aprobación a los mismos;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-V. Una vez validados el plano topográfico y el proyecto de convenio, la Comisión Estatal, los remitirá a los municipios para que en un plazo no mayor de 30 días hábiles sean aprobados por los cabildos correspondientes.
+V. Una vez validados el plano topográfico y el proyecto de convenio, la Comisión Estatal, los remitirá a los municipios para que en un plazo no mayor de treinta días hábiles sean aprobados por los cabildos correspondientes;
 
-VI. Emitidos los acuerdos de cabildo, por los cuales se aprueban el plano topográfico y el proyecto de convenio amistoso, así como la autorización para que el Presidente Municipal, el Sindico y el Secretario del Ayuntamiento firmen el convenio amistoso, se señalará día y hora para tal efecto; y
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-VII. La Comisión Estatal turnará el plano topográfico y el convenio amistoso al titular del Poder Ejecutivo, para que por su conducto sean remitos mediante la iniciativa correspondiente para su análisis y dictamen a la Legislatura.
+VI. Emitidos los acuerdos de cabildo, por los cuales se aprueban el plano topográfico y el proyecto de convenio amistoso, así como la autorización para que las personas titulares de la Presidencia Municipal, la Sindicatura y la Secretaría del Ayuntamiento firmen el convenio amistoso, se señalará día y hora para tal efecto, y
+
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+VII. La Comisión Estatal turnará el plano topográfico y el convenio amistoso a la persona titular del Ejecutivo, para que por su conducto sean remitos mediante la iniciativa correspondiente para su análisis y dictamen de la Legislatura.
 
 ###### Artículo 33.
 
@@ -469,27 +621,27 @@ VIII. Nombre, cargo, firma y sello de las autoridades que lo suscriben.
 
 El plano topográfico deberá señalar el cuadro de construcción del polígono definido en coordenadas UTM (Universal Transversa de Mercator).
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 34.
 
-Para el caso de haber transcurrido el plazo señalado en la fracción V del artículo 32 de esta ley, sin que alguno de los municipios se pronuncie al respecto, el titular del Ejecutivo podrá someter a la Legislatura el convenio amistoso o diferendo para que ésta lo resuelva en definitiva, con apoyo en los estudios técnicos realizados.
+Para el caso de haber transcurrido el plazo señalado en la fracción V del artículo 32 de esta ley, sin que alguno de los municipios se pronuncie al respecto, la persona titular del Ejecutivo podrá someter a la Legislatura el convenio amistoso o diferendo para que ésta lo resuelva en definitiva, con apoyo en los estudios técnicos realizados.
 
 ###### Artículo 35.
 
 Tratándose de la solicitud de los municipios de solucionar un diferendo limítrofe ante la Comisión Estatal, se estará a lo siguiente:
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-I. Los representantes de los municipios involucrados entregarán al Presidente de la Comisión Estatal, la información documental, histórica y geográfica que a su juicio sustenten su dicho.
+I. Las personas que representan a los municipios involucrados entregarán a quien presida la Comisión Estatal, la información documental, histórica y geográfica que a su juicio sustenten su dicho;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-II. El Presidente de la Comisión Estatal convocará un grupo de trabajo para analizar la documentación presentada y elaborar el dictamen técnico correspondiente.
+II. Quien presida la Comisión Estatal convocará un grupo de trabajo para analizar la documentación presentada y elaborar el dictamen técnico correspondiente;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2021)</small>
 
-III. El Presidente de la Comisión Estatal someterá a la consideración de la misma el dictamen elaborado por el grupo de trabajo.
+III. Quien presida la Comisión Estatal someterá a la consideración de la misma el dictamen elaborado por el grupo de trabajo;
 
 IV. La Comisión Estatal hará del conocimiento de las partes involucradas el dictamen técnico aprobado por la misma; y
 
@@ -515,91 +667,127 @@ Los convenios aprobados por la Legislatura en los que se fijen los límites de l
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA SOLUCIÓN DE DIFERENDOS LIMÍTROFES INTERMUNICIPALES
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 40.
 
-Las diferencias que se susciten sobre límites municipales serán resueltas por el Poder Legislativo del Estado, con el apoyo de la Comisión Estatal de conformidad con las disposiciones de esta ley.
+Las diferencias que se susciten sobre límites municipales serán resueltas por la Legislatura, con el apoyo de la Comisión Estatal de conformidad con las disposiciones de esta Ley.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 41.
 
-El procedimiento para la solución de diferendos limítrofes intermunicipales, podrá ser iniciado por el o los municipios interesados o por la propia Legislatura a través de alguno de sus diputados.
+El o los actores, o bien, la Legislatura por conducto de uno o más Diputadas y/o Diputados, podrán iniciar el procedimiento para la solución de diferendos limítrofes intermunicipales.
+
+Cuando la solicitud sea suscrita por más de una o un diputado deberá designar expresamente a un representante común para que comparezca ante la Comisión Legislativa a exponer sus planteamientos.
+
+En caso de que la solicitud haya sido presentada por una o uno de los Diputados de la Legislatura, la Comisión Legislativa notificará a los municipios involucrados citándolos a comparecer al igual que al Diputado presentante, para que manifiesten sus planteamientos en relación con el inicio del procedimiento.
+
+Una vez hechas las manifestaciones de los municipios involucrados como las del Diputado presentante, el municipio interesado deberá ratificar, ampliar en términos del artículo 42 de la presente Ley o en su caso desistir la solicitud presentada por el Diputado.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 42.
 
-La solicitud en la que uno o más municipios demanden la intervención de la Legislatura para la solución de un diferendo limítrofe, deberá dirigirse al Presidente de la Legislatura y contener los siguientes requisitos:
+La solicitud en la que uno o más municipios demanden la intervención de la Legislatura para la solución de un diferendo limítrofe, deberá dirigirse a la persona que presida la Legislatura y contener los siguientes requisitos:
 
-I. Deberá estar formulada por el presidente municipal y síndico del o los municipios solicitantes, señalando el domicilio del Ayuntamiento;
+I. Deberá estar formulada por las personas titulares de la presidencia municipal y sindicatura del o los municipios solicitantes, señalando el domicilio del Ayuntamiento;
 
-II. El nombre de los profesionales que se encuentren facultados para representar al municipio en el desarrollo del procedimiento;
+II. El nombre del personal profesional que se encuentren facultados (sic) para representar al municipio en el desarrollo del procedimiento;
 
-III. El acuerdo de cabildo en el cual se autorice al Presidente Municipal solicitar la intervención de la Legislatura para la solución del diferendo;
+III. El acuerdo de cabildo en el cual se autorice a la persona titular de la presidencia municipal y/o a la Sindicatura a solicitar la intervención de la Legislatura para la solución del diferendo;
 
-IV. El nombre del municipio o municipios respecto de los cuales se solicite la solución del diferendo limítrofe; y
+IV. El nombre y domicilio legal del demandado o los demandados respecto de los cuales se solicite la solución del diferendo limítrofe, y
 
-V. Una exposición de motivos en la que se precise de manera clara los planteamientos y disposiciones en que funden su pretensión.
+V. Una exposición de motivos en la que se precise de manera clara y cronológica, los planteamientos y disposiciones en que funden su pretensión, los puntos o líneas materia del conflicto y el plano topográfico en el que señale el polígono del diferendo limítrofe, con coordenadas UTM.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+La solicitud, contestación o las actuaciones que se realicen, deberán presentarse por escrito acompañadas de dos copias y sus anexos; así como en formato digital, para el traslado correspondiente.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 43.
 
-Una vez recibida la solicitud el Presidente de la Legislatura, la turnará a la Comisión Legislativa quien la radicará a través de un acuerdo, señalando día y hora dentro de los treinta días hábiles siguientes para una audiencia en la que comparezcan los municipios involucrados a exponer sus argumentos respecto del diferendo.
+Una vez recibida la solicitud, la persona que preside la Legislatura, la turnará a la brevedad a la Comisión Legislativa quien observará que cumpla con los requisitos de conformidad con las disposiciones de esta Ley.
+
+Si la solicitud fuere obscura o irregular, la Comisión Legislativa deberá prevenir al municipio actor, una sola vez, para que dentro del término de diez días hábiles la aclare, corrija o complete, apercibiéndole que, de no hacerlo, no se dará curso al procedimiento.
+
+Si la solicitud no cumple con los requisitos de conformidad con las disposiciones de esta Ley, dicha solicitud será desechada, notificándole al municipio actor, dejando a salvo sus derechos.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 44.
 
-La Comisión Legislativa notificará por oficio a los municipios involucrados en el domicilio de sus Ayuntamientos; el auto de radicación y la fecha de la audiencia, corriéndoles traslado a los municipios respecto de los cuales se solicite la solución del diferendo, con copias de la solicitud presentada por el municipio o municipios promoventes.
+La Comisión Legislativa radicará la solicitud de diferendo a través de un acuerdo, mismo que será notificado por oficio a los municipios involucrados en el domicilio de sus Ayuntamientos dentro de los diez días hábiles siguientes, corriéndoles traslado a los municipios demandados respecto de los cuales se solicite la solución del diferendo, con copias de la solicitud presentada por el municipio o municipios promoventes, para que presenten su contestación hasta antes de celebrarse la audiencia.
+
+El acuerdo de radicación señalará día y hora dentro de los treinta días hábiles siguientes, para la celebración de una audiencia en la que comparezcan los municipios involucrados a efecto de exponer sus argumentos respecto del diferendo.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 45.
 
-La audiencia ante la Comisión Legislativa se desarrollará de la manera siguiente manera (sic):
+La audiencia ante la Comisión Legislativa se desarrollará de la siguiente manera:
 
-I. El Presidente de la Comisión Legislativa exhortará a los municipios a que lleguen a un acuerdo amistoso;
+I. La presidencia de la Comisión Legislativa exhortará a los municipios a que lleguen a un acuerdo amistoso;
 
-II. El municipio o municipios promoventes expresarán sus planteamientos en relación al motivo del diferendo limítrofe;
+En caso de llegar a un convenio amistoso o si en cualquier momento del procedimiento los municipios involucrados manifestarán su intención de celebrar un convenio amistoso, se someterán a lo establecido en el Título Cuarto, Capítulo Primero de la presente Ley;
 
-III. El municipio o municipios citados expresarán sus puntos de vista y sus argumentos en relación al hecho; y
+II. En caso de no llegar a un convenio amistoso, se dará continuidad al procedimiento de diferendos limítrofes; el actor expresará con claridad y precisión, sus planteamientos en relación al motivo del diferendo limítrofe;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+III. El municipio o municipios demandados expresarán de manera clara y precisa sus puntos de vista y sus argumentos en relación al diferendo limítrofe, y
 
-IV. La Comisión Legislativa requerirá a los municipios involucrados para que en un plazo de 30 días hábiles posteriores a la audiencia remitan, todas las pruebas que consideren son suficientes para acreditar sus manifestaciones. Fuera de este término no será admitida probanza alguna.
+IV. La Comisión Legislativa requerirá a los municipios involucrados para que en un plazo de treinta días hábiles posteriores a la audiencia remitan, todas las pruebas que consideren son suficientes para acreditar sus manifestaciones. Fuera de este término no será admitida probanza alguna.
 
 ###### Artículo 46.
 
 En el desahogo del procedimiento se admitirán toda clase de pruebas excepto la confesional, las que no tengan relación directa con el asunto, las que resulten inútiles para la decisión del caso y aquellas que sean contrarias a derecho.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 47.
 
-Transcurrido el término establecido por la fracción IV del artículo 45 de esta Ley, la Comisión Legislativa admitirá las pruebas dando vista con las mismas a los municipios interesados y ordenará su desahogo dentro del término de 60 días hábiles, dentro de los cuales deberán realizarse todas las diligencias necesarias.
+Transcurrido el término establecido por la fracción IV del artículo 45 de esta Ley, la Comisión Legislativa admitirá las pruebas dando vista con las mismas a los municipios interesados y ordenará su desahogo dentro del término de sesenta días hábiles, dentro de los cuales deberán realizarse todas las diligencias necesarias.
+
+Si al concluir el plazo señalado no hubiese sido posible desahogar las pruebas ofrecidas oportunamente, la Comisión Legislativa podrá ampliarlo hasta por un plazo igual al establecido en el párrafo anterior, en la medida que resulte estrictamente necesario.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 48.
 
-Una vez recibidas las pruebas de los municipios, la Comisión Legislativa podrá solicitar a la Comisión Estatal, emita un dictamen técnico en relación al diferendo.
+Una vez recibidas las pruebas de los municipios, la Comisión Legislativa solicitará a la Comisión Estatal, emita un dictamen técnico en relación al diferendo, anexando copia de todo lo actuado durante el procedimiento.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 49.
 
-En cualquier etapa del procedimiento la Comisión Legislativa podrá requerir a los municipios involucrados, los informes o aclaraciones que determine necesarios, así como decretar el desahogo de las diligencias probatorias para auxiliar a esclarecer el asunto.
+En cualquier etapa del procedimiento la Comisión Legislativa podrá requerir al actor y/o el demandado, los informes o aclaraciones que determine necesarios, un dictamen técnico en agrimensura y topografía, así como decretar el desahogo de las diligencias probatorias para auxiliar a esclarecer el asunto.
 
 ###### Artículo 50.
 
 La Comisión Legislativa podrá solicitar los informes necesarios y estudios técnicos que estime pertinentes, a cualquier autoridad o institución, para allegarse de elementos que le permitan esclarecer el asunto.
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 51.
 
-Para favorecer el desarrollo del procedimiento, la Comisión Legislativa podrá solicitar, a través del Gobernador el apoyo e intervención de cualquiera de las dependencias del Ejecutivo Estatal.
+Para favorecer el desarrollo del procedimiento, la Comisión Legislativa podrá solicitar el apoyo e intervención de cualquiera de las dependencias de los Poderes del Estado.
 
 ###### Artículo 52.
 
 La Comisión Legislativa podrá establecer un proceso metodológico que al interior de la misma permita el fácil análisis de la documentación, pruebas y soportes que presenten las partes interesadas.
 
+> <small>(ADICIONADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+La Presidencia y la Secretaría de la Comisión Legislativa, por sí, podrá emitir los acuerdos correspondientes derivados del desahogo de las diligencias del procedimiento limítrofe, para auxiliar a la celeridad del asunto.
+
 ## TÍTULO QUINTO. DE LA RESOLUCIÓN Y FIJACIÓN DE LOS LÍMITES INTERMUNICIPALES
 
 ### CAPÍTULO PRIMERO. DEL DICTAMEN DE LA COMISION LEGISLATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 53.
 
-Una vez concluido el periodo de desahogo de pruebas, dentro de los siguientes treinta días hábiles, la comisión legislativa se reunirá para analizar y valorar las manifestaciones y las probanzas ofrecidas por los municipios y en su caso las diligencias ordenadas por la misma procediendo a elaborar el dictamen correspondiente, el cual deberá contener:
+Una vez concluido el periodo de desahogo de pruebas, dentro de los siguientes sesenta días hábiles, la Comisión Legislativa se reunirá para analizar y valorar las manifestaciones y las probanzas ofrecidas por los municipios y en su caso las diligencias ordenadas por la misma procediendo a elaborar el dictamen correspondiente, el cual deberá contener:
 
 I. El nombre de los municipios involucrados;
 
@@ -611,9 +799,11 @@ IV. Los fundamentos y motivos que sustenten el dictamen; y
 
 V. El plano topográfico en el que se señalará el cuadro de construcción del polígono definido en coordenadas UTM (Universal Transversa de Mercator).
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 54.
 
-Una vez aprobado el dictamen por parte de la comisión, será turnado al Presidente de la Legislatura para que este lo presente ante el pleno en la primera sesión del inicio del periodo siguiente para su discusión y en su caso aprobación.
+Una vez aprobado el dictamen por parte de la Comisión Legislativa, será turnado a la persona que preside la Legislatura para que se presente ante el pleno en la primera sesión del inicio del periodo siguiente para su discusión y en su caso aprobación.
 
 ### CAPÍTULO SEGUNDO. DEL DECRETO LEGISLATIVO
 
@@ -651,15 +841,17 @@ Las resoluciones de la Legislatura, por las que se ponga fin a los diferendos de
 
 A partir de la aprobación del decreto que resuelva los diferendos limítrofes, todas las autoridades están obligadas a realizar las adecuaciones necesarias en el ámbito de sus atribuciones, que permitan el cabal cumplimiento del decreto.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 59.
 
-Los municipios involucrados en un término que no deberá exceder de 90 días hábiles a partir de la publicación del Decreto, realizarán trabajos conjuntos de amojonamiento y señalización sobre la línea limítrofe aportando cada uno el 50% de los gastos generados, informando a las comisiones Estatal y Legislativa.
+Los municipios involucrados en un término que no deberá exceder de noventa días hábiles a partir de la publicación del Decreto, realizarán trabajos conjuntos de amojonamiento y señalización sobre la línea limítrofe aportando cada uno el cincuenta por ciento de los gastos generados, informando a las Comisiones Estatal y Legislativa.
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 60.
 
-Los municipios con el objeto de preservar los límites intermunicipales tendrán un derecho de vía de 4 metros para cada lado a lo largo de toda la franja que una los territorios de cada municipio.
+Los municipios con el objeto de preservar los límites intermunicipales tendrán un derecho de vía de cuatro metros para cada lado a lo largo de toda la franja que una los territorios de cada municipio.
 
 T R A N S I T O R I O S
 
@@ -854,3 +1046,15 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Poder Ejecutivo del Estado, deberá realizar las actualizaciones al Reglamento Interior de la Comisión de Límites del Gobierno del Estado de México, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Los procedimientos de diferendos limítrofes iniciados previo a la entrada en vigor del presente Decreto se desarrollarán y concluirán conforme a la legislación vigente al momento de su inicio.
