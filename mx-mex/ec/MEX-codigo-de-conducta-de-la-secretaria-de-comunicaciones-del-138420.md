@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-secretaria-de-comunicaciones-del-13842
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-17"
-last_updated: "2019-09-17"
+last_updated: "2021-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE COMUNICACIONES DEL GOBIERNO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE MOVILIDAD DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 7 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 17 de septiembre de 2019.
 
@@ -850,3 +852,17 @@ LIC. LUIS GILBERTO LIMÓN CHÁVEZ
 SECRETARIO DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE MOVILIDAD DEL ESTADO DE MÉXICO
+
+PRIMERO.- Publíquese el presente Acuerdo en et Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Las Unidades Administrativas de la Secretaría de Movilidad del Gobierno del Estado de México, adoptarán las medidas necesarias para el cumplimiento del presente Acuerdo.
+
+CUARTO.- Se abroga el Código de Conducta de la entonces Secretaría de Comunicaciones del Gobierno del Estado de México y el Código de Conducta y Reglas de Integridad de la entonces Secretaría de Movilidad del Gobierno del Estado de México, publicados en el Periódico Oficial "Gaceta del Gobierno” del Estado de México el 17 de septiembre de 2019 y el 12 de diciembre de 2019, respectivamente, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
