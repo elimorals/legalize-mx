@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-06-22"
-last_updated: "2021-06-22"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número 96 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 22 de junio de 2021.
 
@@ -539,7 +539,9 @@ DÉCIMO PRIMERO. De conformidad con la capacidad presupuestal y recursos humanos
 
 El Consejo de la Judicatura deberá realizar las acciones necesarias para contar con asistentes jurídicos capacitados con antelación a la entrada en operaciones de los Tribunales Laborales.
 
-DÉCIMO SEGUNDO. la Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Quintana Roo a más tardar el treinta de septiembre de dos mil veintiuno, previa solicitud que al efecto emita el Consejo de la Judicatura, por conducto de su Presidente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2021)</small>
+
+DÉCIMO SEGUNDO. La Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Quintana Roo, cuando lo determine el Consejo de Coordinación para la implementación de la Reforma al Sistema de Justicia Laboral, previa solicitud que al efecto emita el Consejo de la Judicatura, por conducto de su Presidente.
 
 La Declaratoria deberá publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -564,3 +566,11 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS CATORCE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL VEINTIUNO.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 147 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 125, EXPEDIDO POR LA XVI LEGISLATURA DEL ESTADO Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, DE FECHA 22 DE JUNIO DE 2021”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
