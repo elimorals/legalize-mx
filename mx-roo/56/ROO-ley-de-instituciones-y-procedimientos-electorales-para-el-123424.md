@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2021-07-11"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -3597,9 +3597,11 @@ XIII. Designar a las jefaturas de unidad y al personal jurídico, previo cumplim
 
 XIV. Las demás que sean necesarias para su correcto funcionamiento.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 222.
 
-En la primera sesión que se celebre en el mes de diciembre del año que corresponda, los Magistrados Electorales elegirán a uno de ellos como Presidente del Tribunal Electoral por un periodo de dos años, la presidencia será rotativa.
+En la primera sesión que se celebre en el mes de diciembre del año que corresponda, las Magistradas y los Magistrados Electorales elegirán a la persona que fungirá como titular de la Presidencia del Tribunal Electoral por un periodo de tres años. La Presidencia será rotativa.
 
 ###### Artículo 223.
 
@@ -4675,7 +4677,9 @@ Las quejas motivadas por la propaganda político electoral de los partidos polí
 
 Las campañas electorales iniciarán a partir del día siguiente al de la sesión en que se apruebe el registro de candidaturas para la elección respectiva.
 
-Las campañas electorales para la elección de Gobernador en el año que corresponda, tendrán una duración de noventa días. Las campañas electorales para la elección de Diputados y miembros de los Ayuntamientos, tendrá (sic) una duración de cuarenta y cinco días. En ambos casos, las campañas deberán concluir tres días antes de la celebración de la jornada electoral.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2021)</small>
+
+Las campañas electorales para la elección a la gubernatura en el año que corresponda, tendrán una duración de sesenta días. Las campañas electorales para la elección de Diputados y miembros de los Ayuntamientos, tendrán una duración de cuarenta y cinco días. En ambos casos, las campañas deberán concluir tres días antes de la celebración de la jornada electoral.
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes estatales, como de los municipios, y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia, conforme a las normas aplicables en la materia. Asimismo, dichos servidores públicos deberán abstenerse de utilizar nombre, imágenes, voces o símbolos que impliquen una promoción personalizada de servidores públicos con las excepciones previstas en el presente artículo.
 
@@ -6826,3 +6830,19 @@ P.O. 11 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 126 POR EL QUE SE ADICIONA UN ARTÍCULO UNDÉCIMO TRANSITORIO AL DECRETO NÚMERO 097 POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, PUBLICADO EL 22 DE SEPTIEMBRE DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 150 POR EL QUE SE REFORMA EL ARTÍCULO 222 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El periodo de duración de tres años, será aplicable a partir de la Presidencia a elegirse en el mes de diciembre del año 2021.
+
+TERCERO. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 151 POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL NUMERAL 6 DE LA FRACCIÓN III Y EL PÁRRAFO QUINTO DE LA FRACCIÓN V, Y SE DEROGA EL PÁRRAFO TERCERO DEL NUMERAL 6 DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 293 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
