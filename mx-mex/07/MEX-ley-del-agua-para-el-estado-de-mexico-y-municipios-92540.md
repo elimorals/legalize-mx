@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2021-09-06"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -1035,7 +1035,9 @@ El funcionamiento del consejo directivo se establecerá en el instrumento juríd
 
 El director general del organismo operador será designado por el Presidente Municipal con el acuerdo del cabildo, y tendrá las atribuciones que le confiera el Reglamento de la presente Ley, además de las que determine cada municipio.
 
-Para ocupar el cargo de director general, se requerirá experiencia mínima de tres años en la administración de estos servicios.
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+Para ocupar el cargo de Director General, se requerirá experiencia mínima de tres años en servicios de agua o infraestructura hidráulica; o bien, contar con experiencia comprobada técnica, administrativa, de gestión, dictaminación, de investigación, en la prestación de los servicios públicos o cualquier otra, relacionada con la materia.
 
 ###### Artículo 39.
 
@@ -3006,5 +3008,13 @@ G.G. 6 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 327.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO AL ARTÍCULO 39, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 80, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES Y SUS FRACCIONES, AMBOS DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 38 DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
