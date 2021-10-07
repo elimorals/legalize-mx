@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2021-07-11"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -959,15 +959,11 @@ Aquellos partidos nacionales con registro local que no hubiesen obtenido al meno
 
 La Ley fijara los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos.
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(DEROGADO PÁRRAFO TERCERO, P.O. 7 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2021)</small>
 
-LA LEY TAMBIÉN ESTABLECERÁ LAS REGLAS Y LÍMITES A QUE SE SUJETARÁ EL FINANCIAMIENTO DE LAS ACTIVIDADES DE LOS CIUDADANOS QUE OBTENGAN SU REGISTRO COMO CANDIDATOS INDEPENDIENTES DENTRO DE UN PROCESO ELECTORAL, ASÍ COMO LOS PROCEDIMIENTOS PARA EL CONTROL Y VIGILANCIA DE TODOS LOS RECURSOS CON LOS QUE CUENTEN, INCLUYENDO AQUELLOS QUE HUBIESEN UTILIZADO PARA FINANCIAR LAS ACTIVIDADES TENDENTES A OBTENER DICHO REGISTRO.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
-
-Los partidos políticos y los candidatos independientes observarán las disposiciones que se establezcan para las precampañas y campañas electorales; en todo caso la duración de las campañas será de noventa días para la elección de Gobernador, cuarenta y cinco días para la elección de miembros de los Ayuntamientos y cuarenta y cinco días para la elección de Diputados a la Legislatura. Las precampañas no podrán durar más de las dos terceras partes del tiempo previsto para las campañas.
+Los partidos políticos y las candidaturas independientes observarán las disposiciones que se establezcan para las precampañas y campañas electorales; en todo caso la duración de las campañas será de sesenta días para la elección a la gubernatura, cuarenta y cinco días para la elección de miembros de los Ayuntamientos y cuarenta y cinco días para la elección de Diputados a la Legislatura. Las precampañas no podrán durar más de las dos terceras partes del tiempo previsto para las campañas.
 
 La Ley establecerá las sanciones en caso de incumplimiento de los supuestos previstos en la presente base.
 
@@ -989,11 +985,9 @@ La Ley deberá estipular las causales de nulidad de las elecciones de Gobernador
 
 Formarán parte del sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes cuando se exceda el gasto de campaña en un cinco por ciento del monto total autorizado; se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; se reciba o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
-(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
-
-Dichas violaciones deberán acreditarse de manera objetiva, material, SISTEMÁTICA Y GENERALIZADA. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y segundo lugar sea menor al cinco por ciento.
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y segundo lugar sea menor al cinco por ciento.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -5528,3 +5522,9 @@ P.O. 11 DE JULIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. El Poder Ejecutivo y los Ayuntamientos del Estado, deberán realizar las adecuaciones correspondientes, en el ámbito de sus respectivas competencias, a las disposiciones reglamentarias que resulten conducentes en los términos del presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 151 POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL NUMERAL 6 DE LA FRACCIÓN III Y EL PÁRRAFO QUINTO DE LA FRACCIÓN V, Y SE DEROGA EL PÁRRAFO TERCERO DEL NUMERAL 6 DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 293 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
