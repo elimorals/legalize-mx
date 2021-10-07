@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-de-defensoria-publica-del-estado-de-98703"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-22"
-last_updated: "2021-06-22"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 22 de noviembre de 2013.
 
@@ -1119,10 +1119,18 @@ DÉCIMO PRIMERO. De conformidad con la capacidad presupuestal y recursos humanos
 
 El Consejo de la Judicatura deberá realizar las acciones necesarias para contar con asistentes jurídicos capacitados con antelación a la entrada en operaciones de los Tribunales Laborales.
 
-DÉCIMO SEGUNDO. La Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Quintana Roo a más tardar el treinta de septiembre de dos mil veintiuno, previa solicitud que al efecto emita el Consejo de la Judicatura, por conducto de su Presidente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2021)</small>
+
+DÉCIMO SEGUNDO. La Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Quintana Roo, cuando lo determine el Consejo de Coordinación para la implementación de la Reforma al Sistema de Justicia Laboral, previa solicitud que al efecto emita el Consejo de la Judicatura, por conducto de su Presidente.
 
 La Declaratoria deberá publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
 DÉCIMO TERCERO. El Poder Ejecutivo y el Poder Legislativo del Estado de Quintana Roo, realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente Decreto.
 
 DÉCIMO CUARTO. Se derogan las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 147 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 125, EXPEDIDO POR LA XVI LEGISLATURA DEL ESTADO Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, DE FECHA DE 22 DE JUNIO DE 2021".]
+
+ÚNIO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
