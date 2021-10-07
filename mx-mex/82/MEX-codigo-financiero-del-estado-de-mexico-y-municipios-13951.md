@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2021-02-19"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,13 @@ state: "MEX"
 
 [NOTA 2: PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2021, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 3 DE FEBRERO DE 2021 Y CONTIENE LA REFERENCIA A LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 19 DE FEBRERO DE 2021.]
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2021, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 3 DE FEBRERO DE 2021.]
+
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1593,7 +1597,11 @@ I. Inscribirse en los registros fiscales en un plazo que no excederá de quince 
 
 Tratándose del Impuesto sobre Tenencia o Uso de Vehículos, inscribir el vehículo en el padrón vehicular de la entidad, dentro de los quince días siguientes contados a partir de la fecha de adquisición o de su importación definitiva tratándose de vehículos usados, así como realizar todos aquellos trámites de control vehicular que modifiquen y actualicen el registro del vehículo, conforme a los procedimientos y requisitos que establezca la Secretaría.
 
-> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE OCTUBRE DE 2021)</small>
+
+En el caso del Impuesto sobre Tenencia o Uso de Vehículos de motocicletas, motonetas, trimotos y cuadrimotos, inscribir el vehículo en el padrón vehicular de la entidad dentro de los tres días siguientes contados a partir de la fecha de adquisición o de su importación definitiva tratándose de motocicletas usadas y previo a la entrega que hagan las empresas fabricantes, ensambladoras o importadoras de automóviles e inclusive los distribuidores autorizados y comerciantes en el ramo, consignatarios y/o comisionistas a los propietarios, tenedores, usuarios, adquirientes, enajenantes; así como realizar todos aquellos trámites de control vehicular que modifiquen y actualicen el registro de la motocicleta, motoneta, trimoto y cuadrimoto, conforme a los procedimientos y requisitos que establezca la Secretaría.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 7 DE OCTUBRE DE 2021)</small>
 
 Tratándose de vehículos recuperados previamente dados de baja, informar y en su caso registrar nuevamente el vehículo en un plazo que no exceda de quince días, contados a partir de la entrega del mismo.
 
@@ -3505,6 +3513,10 @@ De reacción $5,654
 
 Las personas físicas y jurídicas colectivas, que habitualmente se dediquen a la enajenación de vehículos nuevos, están obligadas a presentar ante la autoridad fiscal competente, declaración trimestral de las enajenaciones de vehículos realizadas en el periodo, dentro de los primeros 15 días siguientes al vencimiento del trimestre que se reporta, que deberá contener como mínimo el nombre, registro federal de contribuyentes y domicilio del adquirente, así como el número de serie y clave vehicular, conforme a las reglas de carácter general que emita la Secretaría y que habrán de publicarse en el Periódico Oficial.
 
+> <small>(ADICIONADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+Tratándose de la enajenación de motocicletas, motonetas, trimotos y cuadrimotos, además de la información señalada en el párrafo anterior, deberá contener datos sobre el registro que se haga en el Padrón Vehicular de la Entidad, como nomenclatura de placas de circulación y folio de la tarjeta de circulación.
+
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 61.
@@ -3596,6 +3608,10 @@ De más de 6 $658
 ###### Artículo 64.
 
 El impuesto debe pagarse dentro de los quince días siguientes a la fecha de adquisición del vehículo, junto con los derechos por el último cambio de propietario.
+
+> <small>(ADICIONADO, G.G. 7 DE OCTUBRE DE 2021)</small>
+
+Tratándose de motocicletas, motonetas, trimotos y cuadrimotos, el impuesto debe pagarse dentro de los tres días siguientes contados a partir de la fecha de adquisición.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -4005,7 +4021,7 @@ Con relación a aquellos derechos que se calculen con base en límites mínimos 
 
 La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización realizada en el mismo periodo de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de este Código.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 197.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2017, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 21 DE DICIEMBRE DE 2016, PÁGINA 4.]</small>
 
 (ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013) (REPUBLICADO, G.G. 22 DE DICIEMBRE DE 2015)
 
@@ -4020,8 +4036,6 @@ El factor de actualización a que se refiere el primer párrafo de este artícul
 Con relación a aquellos derechos que se calculen con base en límites mínimos y máximos, los montos mínimos y máximos se actualizarán de conformidad con lo establecido en el primer párrafo de este artículo.
 
 La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización realizada en el mismo periodo de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de éste Código.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 197.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -4477,7 +4491,7 @@ B). Para vehículos particulares de carga comercial. $703
 
 C). Para remolques. $350
 
-D). Para motocicleta, motoneta, trimoto y cuadrimoto. $176
+D) (DEROGADO, G.G. 7 DE OCTUBRE DE 2021)
 
 VI. Por la expedición del permiso para transportar carga en vehículo particular, por quince días y hasta por una ocasión en el ejercicio fiscal de que se trate. $201
 
@@ -4889,7 +4903,9 @@ I. Por la supervisión de las obras de urbanización, infraestructura y equipami
 
 En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
 
-(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
 
 > <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -5155,7 +5171,7 @@ En caso de que la Comisión Nacional del Agua considere que existe alguna difere
 
 Por los servicios de auditoría técnica requeridos, que se practiquen a los trabajos que realicen los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, se pagarán derechos a razón del 2% sobre el importe total de cada una de las estimaciones de trabajo.
 
-Los estudios técnicos que con motivo de la auditoría técnica sean necesarios practicar, a efecto de soportar y sustentar dicha auditoría, correrán a cargo del solicitante.
+Los estudios técnicos que con motivo de la auditoria técnica sean necesarios practicar, a efecto de soportar y sustentar dicha auditoria, correrán a cargo del solicitante.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -8234,8 +8250,6 @@ CONCEPTO TARIFA
 Taller autorizado en el Programa Integral de Reducción
 
 de Emisiones Contaminantes (PIREC). $4,979
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 226.]</small>
 
 > <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -19252,3 +19266,13 @@ Cuarto.- El presente complemento al Acuerdo entrará en vigor al día siguiente 
 > <small>(F. DE E., G.G. 19 DE FEBRERO DE 2021)</small>
 
 Quinto.- Los valores de las viviendas contenidos en el presente complemento al Acuerdo, estarán vigentes durante el ejercicio fiscal 2021.
+
+G.G. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 333.- POR EL QUE SE REFORMAN Y ADICIONAN EL PÁRRAFO TERCERO DE LA FRACCIÓN I DEL ARTÍCULO 47, SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 47, UN SEGUNDO PÁRRAFO AL ARTÍCULO 60 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 64, Y SE DEROGA EL INCISO D) DE LA FACCIÓN V DEL ARTÍCULO 77, TODOS DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Gobierno del Estado de México deberá adecuar la reglamentación correspondiente de conformidad con el presente Decreto, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
