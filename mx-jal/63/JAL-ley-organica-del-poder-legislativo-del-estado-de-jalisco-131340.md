@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-09-09"
+last_updated: "2021-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -755,6 +755,8 @@ III. Dejar de asistir sin causa justificada tres veces consecutivas, a las sesio
 
 ###### Artículo 47.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2021)</small>
+
 1. La Junta de Coordinación Política tiene las atribuciones siguientes:
 
 I. Impulsar la conformación de consensos a fin de agilizar el trabajo legislativo y acuerdos que entrañen una posición política del Congreso del Estado;
@@ -777,9 +779,17 @@ VIII. Designar al Secretario Técnico de la Junta;
 
 IX. Conocer y resolver, en acuerdo con la Comisión de Administración y Planeación Legislativa, sobre las solicitudes de exención de registro de asistencia del personal que labora en el Congreso del Estado;
 
-X. Integrar la Agenda Legislativa y presentarla a la Asamblea para su aprobación; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2021)</small>
 
-XI. Las demás que señalen esta ley y las disposiciones reglamentarias.
+X. Integrar la Agenda Legislativa y presentarla a la Asamblea para su aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2021)</small>
+
+XI. Aprobar las actas pendientes de la Junta de Coordinación Política anterior; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2021)</small>
+
+XII. Las demás que señalen esta ley y las disposiciones reglamentarias.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -1297,11 +1307,13 @@ IV. En caso de que falten comisiones por seleccionar, se inicia otra ronda en el
 
 4. Para remover temporal o definitivamente de las comisiones a algún diputado o diputada, se requiere que lo solicite el Grupo Parlamentario quien lo propuso y que lo apruebe la Asamblea por mayoría absoluta, y debe designarse de la misma forma, al diputado o diputada que ocupará esa posición.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 73.
 
 1. Todas las comisiones, posterior a su integración, deben instalarse formalmente, en un acto presidido por el Presidente del Congreso o algún miembro de la Mesa Directiva, dentro los primeros 30 días a partir de la aprobación de su integración.
+
+2. Durante el acto de instalación se debe dar lectura, discutir y aprobar las actas pendientes de la comisión saliente.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3908,3 +3920,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 7 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28463/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 47 Y 73 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
