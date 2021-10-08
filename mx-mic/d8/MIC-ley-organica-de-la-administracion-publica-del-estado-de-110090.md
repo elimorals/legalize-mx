@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2021-01-26"
+last_updated: "2021-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -1787,10 +1787,74 @@ La Secretaría de Finanzas y Administración del Gobierno del Estado deberá hac
 
 El Ejecutivo del Estado contará con un término de 180 días naturales para la emisión del Reglamento previsto en la presente Ley.
 
-###### ARTICULO PRIMERO.
+P.O. 8 DE OCTUBRE DE 2021.
 
-EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 02 POR EL QUE “SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO PRIMERO.
 
-SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+Remítase el presente Decreto al Gobernador del Estado para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 29 de septiembre de 2015.
+
+###### ARTÍCULO CUARTO.
+
+La Junta Local de Conciliación y Arbitraje, seguirá funcionando, como tribunal administrativo con plena autonomía jurisdiccional, que imparte la justicia laboral en los términos de la competencia que le atribuye el artículo 123, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables, hasta en tanto se creen los tribunales laborales dependientes del Poder Judicial del Estado.
+
+Las juntas especiales que la integran seguirán gozando de autonomía para dictar sus resoluciones, sin perjuicio de las atribuciones que corresponden por ley al Pleno y al Presidente de la Junta Local de Conciliación y Arbitraje, hasta en tanto se creen los tribunales laborales dependientes del Poder Judicial del Estado.
+
+En lo administrativo, la Secretaría de Gobierno seguirá atendiendo las cuestiones relativas a los recursos financieros, materiales y humanos que requiera la Junta Local de Conciliación y Arbitraje y el Tribunal de Conciliación y Arbitraje, hasta en tanto se creen los tribunales laborales dependientes del Poder Judicial del Estado.
+
+El nombramiento y remoción del Presidente de la Junta Local de Conciliación y Arbitraje y de los Presidentes de las Juntas Especiales, así como del Presidente del Tribunal de Conciliación y Arbitraje, seguirán correspondiendo libremente al Gobernador del Estado, hasta en tanto se creen los tribunales laborales dependientes del Poder Judicial del Estado.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, desaparece para dar lugar a la Secretaría del Medio Ambiente y a la Secretaría de Desarrollo Urbano y Movilidad, por lo que todos sus recursos humanos, materiales y financieros se transferirán a las mencionadas Secretarías, de acuerdo a su materia, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo, a partir del primero de enero 2022.
+
+A partir de la entrada en vigor del presente Decreto las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, referidas a la competencia de Medio Ambiente, se entenderán referidas a la Secretaría del Medio Ambiente y las menciones referidas a la competencia de Desarrollo Urbano, Planeación del Ordenamiento Territorial, Zonas Conurbadas o Metropolitanas y Transporte Público, se entenderán referidas a la Secretaría de Desarrollo Urbano y Movilidad.
+
+El Congreso del Estado realizará las adecuaciones a los marcos normativos correspondientes, con el fin de armonizarlos con lo establecido en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Desarrollo Rural y Agroalimentario, se transforma en la Secretaría de Agricultura y Desarrollo Rural, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Secretaría de Desarrollo Rural y Agroalimentario, se entenderán referidas a la Secretaría de Agricultura y Desarrollo Rural.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Despacho del Gobernador asume la Oficina del Gobernador, la Consejería Jurídica, la Coordinación General de Comunicación Social, la Secretaría Técnica del Gobernador, la Coordinación General del Gabinete y la Coordinación de Operación Estratégica y Gestión Gubernamental, por lo que los recursos humanos, materiales y financieros de dichas oficinas, se transferirán al Despacho del Gobernador, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobernador del Estado cuenta con ciento cincuenta días, contados a partir de la entrada del presente Decreto para que emita la Reglamentación Interna de las dependencias y entidades de la Administración Pública Centralizada, incluyendo lo considerado en los artículos 2 y 4 del presente ordenamiento, en materia de Derecho a la Buena Administración y de la obligación de las autoridades, dependencias y entidades de la Administración Pública Estatal de promover, respetar, proteger y garantizar el cumplimiento de los Derechos Humanos, respectivamente. En tanto, las dependencias y entidades de la Administración Pública Estatal, seguirán aplicando la reglamentación vigente, siempre y cuando no se contraponga a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Las transferencias que por motivo de esta Ley deba realizar el Ejecutivo del Estado de una dependencia o entidad de la Administración Pública Estatal a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a las estructuras organizacionales, programáticas y financieras, a los calendarios financieros y de metas.
+
+###### ARTÍCULO DÉCIMO.
+
+Los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, los demás que la dependencia o entidad haya utilizado para los asuntos a su cargo, pasarán a formar parte de la nueva dependencia o entidad, conforme lo previsto en este Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los asuntos que, con motivo de esta Ley, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que los venían despachando.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Gobernador del Estado, por conducto de la Secretaría de Gobierno, la Secretaría de Finanzas y Administración y la Secretaría de Contraloría, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y transferencias de recursos humanos, materiales y financieros, así como activos patrimoniales, en un plazo no mayor de ciento cincuenta días, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las menciones contenidas en otras leyes, decretos, reglamentos y en general en cualquier disposición respecto de las dependencias, coordinaciones y entidades de la Administración Pública Estatal, cuyas funciones se modifican por virtud de esta Ley, se entenderán referidas a las dependencias que respectivamente asuman tales funciones.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Congreso del Estado tendrá un plazo máximo de 120 días hábiles, para emitir la legislación reglamentaria contemplada en la presente Ley.
