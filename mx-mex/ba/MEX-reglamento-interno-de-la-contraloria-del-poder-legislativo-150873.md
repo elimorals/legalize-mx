@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-contraloria-del-poder-legislativo-1508
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-08-27"
-last_updated: "2021-08-27"
+last_updated: "2021-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA CONTRALORIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERNO DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 8 DE OCTUBRE DE 2021.]</small>
 
 Reglamento publicado en el número 38, Sección Segunda de la Gaceta de Gobierno del Estado de México, el viernes 27 de agosto de 2021.
 
@@ -405,9 +405,11 @@ XIV. Las demás que les confieran otras disposiciones legales o le encomiende el
 
 Las Autoridades Investigadoras "A”, "B'', "C", y "D'', son las unidades administrativas adscritas a la Dirección de Responsabilidades Administrativas encargadas de la investigación por faltas administrativas derivadas de la Ley de la materia, respecto de los diputados, los servidores públicos adscritos al Poder Legislativo y los de elección popular municipal, en los términos establecidos en ley de la materia.
 
+> <small>(F. DE E., G.G. 8 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 13.
 
-A la Subdirección de Investigación "A", con sede en la Ciudad de Toluca, México, le corresponderá conocer de los asuntos relacionados con los diputados, los servidores públicos adscritos al Poder Legislativo y de los servidores públicos de elección popular municipal de Acambay, Aculco, Almoloya de Alquísiras, Almoloya de Juárez, Almoloya del Río, Atizapán, Atlacomulco, Calimaya, Capulhuac, Chapa de Mota, Chapultepec, Coatepec de Harinas, El Oro, Ixtapan de la Sal, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilan, Otzolotepec, Polotitlán, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, Soyaniquilpan de Juárez, Sultepec, Temascalcingo, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Timilpan, Toluca, Tonatico, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacualpan, Zinacantepec, Zumpahuacán, Amanalco, Amatepec, Donato Guerra, Ixtapan del Oro, Luvianos, Otzoloapan, San Simón Guerrero, Santo Tomás, Tejupilco, Temascaltepec, Tlatlaya, Valle de Bravo y Zacazonapan; así como de la instrumentación de expedientes de programas preventivos y de verificación de cumplimiento a los ayuntamientos de la entidad, que les corresponda por turno radicarse con número de expediente impar.
+A la Autoridad Investigadora "A", con sede en la Ciudad de Toluca, México, le corresponderá conocer de los asuntos relacionados con los diputados, los servidores públicos adscritos al Poder Legislativo y de los servidores públicos de elección popular municipal de Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Atizapán, Atlacomulco, Calimaya, Capulhuac, Chapa de Mota, Chapultepec, Coatepec de Harinas, El Oro, Ixtapan de la Sal, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilan, Otzolotepec, Polotitlán, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, Soyaniquilpan de Juárez, Sultepec, Temascalcingo, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Timilpan, Toluca, Tonatico, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacualpan, Zinacantepec, Zumpahuacán, Amanalco, Amatepec, Donato Guerra, Ixtapan del Oro, Luvianos, Otzoloapan, San Simón Guerrero, Santo Tomás, Tejupilco, Temascaltepec, Tlatlaya, Valle de Bravo y Zacazonapan; así como de la instrumentación de expedientes de programas preventivos y de verificación de cumplimiento a los ayuntamientos de la entidad, que les corresponda por turno radicarse con número de expediente impar.
 
 ###### Artículo 14.
 
@@ -627,9 +629,11 @@ XXIV. Las demás que en el ámbito de su competencia le otorguen otras disposici
 
 #### SECCIÓN SEGUNDA. DE LA AUTORIDAD INVESTIGADORA
 
+> <small>(F. DE E., G.G. 8 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 25.
 
-La Autoridad Investigadora, es la unidad administrativa adscrita a la Dirección de Situación Patrimonial, encargada de la investigación por faltas administrativas por el incumplimiento de las obligaciones en la presentación de las declaraciones de Conflicto de situación patrimonial, de intereses y, en su caso, de la constancia de presentación de la declaración fiscal; por Evolución Patrimonial, así como por conflicto de interés, respecto de los diputados, los servidores públicos adscritos al Poder Legislativo y los de elección popular municipal, en los términos establecidos en la ley de la materia.
+La Autoridad Investigadora, es la unidad administrativa adscrita a la Dirección de Situación Patrimonial, encargada de la investigación por faltas administrativas por el incumplimiento de las obligaciones en la presentación de las declaraciones de situación patrimonial, de intereses y, en su caso, de la constancia de presentación de la declaración fiscal; por Evolución Patrimonial, así como por conflicto de interés, respecto de los diputados, los servidores públicos adscritos al Poder Legislativo y los de elección popular municipal, en los términos establecidos en la ley de la materia.
 
 ###### Artículo 26.
 
@@ -1111,7 +1115,9 @@ III. Ejecutar, registrar y controlar el presupuesto autorizado por la Contralor�
 
 IV. Supervisar las acciones relativas al mantenimiento y conservación de los inmuebles asignados a la Contraloría y sus unidades administrativas, así como de los bienes muebles y equipo asignados;
 
-V. Realizar levantamientos de inventarios físicos de los bienes muebles asignados a la Contraloría, e informar a la Dirección de Situación Patrimonial y de Conflicto de Interés;
+> <small>(F. DE E., G.G. 8 DE OCTUBRE DE 2021)</small>
+
+V. Realizar levantamientos de inventarios físicos de los bienes muebles asignados a la Contraloría.
 
 VI. Gestionar los movimientos de altas, bajas y cambios de mobiliario a petición del resguardatario o por necesidades (sic) la Contraloría;
 
