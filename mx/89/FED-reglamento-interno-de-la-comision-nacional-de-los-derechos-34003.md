@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2021-03-18"
+last_updated: "2021-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-08-12"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE OCTUBRE DE 2021 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -53,7 +55,9 @@ Que atendiendo a los razonamientos anteriores, la Comisión Nacional de los Dere
 
 (Objeto del Reglamento y naturaleza jurídica de la Comisión Nacional)
 
-El presente ordenamiento reglamenta la Ley de la Comisión Nacional de los Derechos Humanos y regula su estructura, facultades y funcionamiento como un organismo público del Estado mexicano con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, cuyo objeto esencial es la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos en el orden jurídico mexicano.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+El presente ordenamiento reglamenta la Ley de la Comisión Nacional de los Derechos Humanos y regula su estructura, facultades y funcionamiento como un organismo público del Estado mexicano con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, cuyo objeto esencial es proteger, observar, promover, estudiar, divulgar los derechos humanos, así como la prevención e investigación de las violaciones a los derechos humanos.
 
 La Comisión Nacional de los Derechos Humanos es también un órgano de la sociedad y defensor de ésta.
 
@@ -71,7 +75,19 @@ III. Organismos locales: los organismos de protección de los derechos humanos d
 
 IV. Gaceta: órgano oficial de difusión de la Comisión Nacional de los Derechos Humanos;
 
-V. Organizaciones no gubernamentales legalmente constituidas: las personas morales dedicadas a la promoción, defensa y difusión de los derechos humanos. Dentro de esas organizaciones se comprenden los organismos de colaboración y participación ciudadana o vecinal, que se constituyan conforme a la legislación de la materia;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+V. Organizaciones no gubernamentales legalmente constituidas: las personas morales dedicadas a la promoción, defensa, difusión de los derechos humanos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Dentro de esas organizaciones se comprenden los organismos de colaboración y participación ciudadana o vecinal, que se constituyan conforme a la legislación de la materia Tratándose de Organismos a los que refieren las fracciones I. y II. del artículo 22 de la Ley, para seguir las políticas generales en materia de derechos humanos y para la promoción y el fortalecimiento de éstos, se deberá entender por:
+
+a. Organizaciones no gubernamentales internacionales: A las Organizaciones Privadas que no forman parte de la esfera gubernamental de ningún Estado, cuyo fin fundamental es el promover, proteger, proveer defesa en materia de derechos humanos, en el ámbito internacional.
+
+b. Organismos Extranjeros: Aquellas instituciones públicas internacionales tanto universales como regionales de promoción y protección de los derechos humanos; Instituciones Nacionales de Promoción y Protección de los Derechos Humanos y las Oficinas del Ombudsman de otros países.
+
+c. Organismos públicos, sociales o privados nacionales: A las instituciones públicas, tanto gubernamentales como autónomas; instituciones académicas y sociales públicas o privadas, que atiendan, defiendan, promuevan, protejan, los derechos humanos.
 
 VI. Actos u omisiones de autoridad administrativa: los que provengan de servidores públicos que desempeñen empleo, cargo o comisión en instituciones, dependencias u organismos de la administración pública federal centralizada o paraestatal, en tanto que tales actos u omisiones puedan considerarse en ejercicio del empleo, cargo o comisión que desempeñen;
 
@@ -92,6 +108,94 @@ d. Resoluciones análogas a las jurisdiccionales en materia administrativa: las 
 > <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2011)</small>
 
 X. Asuntos laborales: Los actos u omisiones atribuibles a servidores públicos relacionados con el desarrollo de procedimientos sustanciados ante las autoridades del ámbito laboral.
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XI. Acta circunstanciada: Al documento elaborado por el personal de la Comisión Nacional en el que se describen hechos o actuaciones relacionados con el desempeño de sus funciones, especificando las circunstancias de tiempo, modo, y lugar;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XII. Bloque de Constitucionalidad: Se considera como normas constitucionales en materia de derechos humanos, no son sólo aquellas que aparecen expresamente en el cuerpo de la Constitución Política de los Estados Unidos Mexicanos, sino también a aquellos principios y valores que la propia Constitución remite, como son los estándares internacionales, en este sentido, el bloque de constitucionalidad está conformado por los derechos humanos contenidos en la Constitución, en los tratados internacionales en materia de derechos humanos de los que el Estado mexicano sea parte y en los criterios de las sentencias de la Corte Interamericana de Derechos Humanos;
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XIII. Características Peculiares: Es una de las causales de conclusión del seguimiento de los puntos recomendatorios o recomendaciones aceptadas por la autoridad, con base en las pruebas de cumplimiento recabadas en el seguimiento, por encontrarse en los supuestos siguientes:
+
+a. Hechos futuros o inciertos;
+
+b. Que las pretensiones planteadas por la víctima y/o agraviado, a la autoridad durante el seguimiento de la recomendación, rebasen el contenido de los puntos recomendatorios y
+
+c. Que de las pruebas de cumplimiento presentadas por la autoridad, aparezca una imposibilidad jurídica y material para dar cumplimiento a la recomendación.
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XIV. Caso urgente: A los hechos que impliquen una violación a los derechos humanos en las cuales se encuentre en riesgo la vida de una persona, su integridad física o psicológica y que debido a su naturaleza o condición deban ser atendidos de manera inmediata;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XV. Enfoque Basado en Derechos Humanos: Herramienta epistemológica, jurídica y metodológica basada en el marco normativo de derechos humanos para orientar la acción de promoción y protección de los derechos humanos identificando los factores que llevan a la violación de los mismos y generando prácticas efectivas para su eficaz respeto y garantía;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XVI. Enfoque de Inclusión: Herramienta epistemológica, jurídica y metodológica para identificar las exigencias específicas de derechos humanos a partir de las situaciones y condiciones específicas de desigualdad y violación a los derechos humanos de las personas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XVII. Enfoque de Interseccionalidad: Herramienta epistemológica, jurídica y metodológica para reconocer la multiplicidad de factores por los que una persona puede sufrir discriminación y los efectos que dicha violación a sus derechos humanos tiene en su proyecto de vida, el acceso a oportunidades, su acceso a la igualdad ante la ley. Esta categoría posibilita la identificación de los engranajes de exclusión para entender la negación del respeto y garantía de los derechos humanos;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XVIII. Enfoque LGBTTTIQ+: Herramienta epistemológica, jurídica y metodológica para identificar las exigencias específicas de derechos humanos al identificar los factores de exclusión y negación del acceso a los derechos humanos de la población LGBTTTIQ+;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XIX. Persona agraviada: A la persona que ha sufrido una presunta violación a sus derechos humanos;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XX. Persona quejosa: A la persona titular de derechos, con capacidad de ejercer, promover y exigir la investigación de la violación de sus derechos humanos, a efecto de que se determine la responsabilidad de la o las personas servidoras públicas involucradas, mediante la presentación de una queja en la Comisión Nacional por presuntas violaciones a derechos humanos, ya sea a su persona o a nombre de otra;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXI. Persona recurrente: A la persona que presenta un recurso de queja o de impugnación ante la Comisión Nacional de los Derechos Humanos, conforme a lo señalado en la Ley y en este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXII. Principio de Indivisibilidad: Aquel que deben observar todas las autoridades del País y los organismos públicos de derechos humanos en todas sus actuaciones, que los derechos humanos tienen como origen común la dignidad e integridad de la persona, por lo que deben apreciarse sin distinguirlos en orden de importancia o como prerrogativas separadas, prescindibles o excluyentes unas de otras. No es procedente relegar algunos para conceder prioridad a otros ni puede existir jerarquía entre ellos. Todos los derechos humanos deben ser objeto de protección sin distinción alguna, por lo que debe darse igual atención y urgente consideración a la aplicación, promoción y protección de los derechos civiles, políticos, económicos, sociales, culturales y ambientales;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXIII. Principio de Interdependencia: Aquel que deben observar las autoridades del País y los organismos públicos de derechos humanos en todas sus actuaciones, que todos los derechos humanos están interrelacionados. Esto significa, que unos derechos tienen efectos sobre otros, lo que implica que la transgresión de uno de ellos impacta en el ejercicio y disfrute de otros derechos humanos. Es por ello que, para la realización y disfrute pleno de un derecho humano, sea necesaria la realización de otros, relacionados con el mismo. Los derechos humanos deben interpretarse, tomarse y observarse en su conjunto y no como elementos aislados; esto es, en su aplicación deben complementarse, potenciarse y reforzarse recíprocamente;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXIV. Principio de Progresividad: Aquel que deben observar todas las autoridades del País y los organismos públicos de derechos humanos en todas sus actuaciones, que el Estado tiene la obligación de adoptar las medidas necesarias para avanzar hacia la plena efectividad de los derechos humanos, lo que no puede entenderse en el sentido de que el poder público no tenga la obligación inmediata de empeñarse por lograr la realización íntegra de tales derechos, sino que debe asumirse como el deber jurídico de ir avanzando gradual y constantemente hacia su más completa realización, en función de sus recursos materiales; y también debe ser entendido como la prohibición de retroceder en esta materia. De esta manera, a medida que mejore el nivel de desarrollo del país, el Estado debe fortalecer su capacidad para garantizar y satisfacer de mejor forma los derechos civiles, políticos, económicos, sociales, culturales y ambientales;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXV. Principio Pro persona: Aquel que deben observar todas las autoridades del País y los organismos públicos de derechos humanos en todas sus actuaciones, que toda autoridad, al aplicar normas relativas a derechos humanos conforme a la Constitución Política de los Estados Unidos Mexicanos y a los tratados internacionales de la materia en los que el Estado mexicano sea parte, deberán aplicar aquellas que favorezcan en todo tiempo a las personas con la protección más amplia. En caso de que exista una diferencia entre el alcance o la protección reconocida en las normas de estas distintas fuentes, deberá aplicarse aquella que represente una mayor protección para la persona o que implique una menor restricción al ejercicio o disfrute de sus derechos fundamentales;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXVI. Principio de Universalidad: Aquel que deben observar todas las autoridades del País y los organismos públicos de derechos humanos en todas sus actuaciones, que los derechos humanos pertenecen a todas las personas sin distinción alguna de edad, nacionalidad, lugar de residencia, origen nacional o étnico, color, sexo, religión, lengua, discapacidades, condición social, condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, historia personal, o cualquier otra condición o situación personal o familiar. Asimismo, son exigibles en cualquier contexto político, jurídico, cultural, social, económico y en todo tiempo y lugar;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXVII. Queja: La manifestación o denuncia ante la Comisión Nacional, efectuada por cualquier persona, ya sea por sí misma o a nombre de otra, por la que se materializa la exigibilidad de la investigación de violaciones a sus derechos humanos o los de otra persona, siempre y cuando fuesen imputadas a autoridades y personas en el servicio público de carácter federal, con excepción de las del Poder Judicial de la Federación, o que se trate de asuntos relativos a actos y resoluciones de organismos y autoridades electorales y de resoluciones de carácter jurisdiccional, con el fin de que, tratándose de presuntas violaciones a derechos humanos, se inicie con el procedimiento establecido en la ley y en el presente Reglamento, para que se investigue sobre los hechos y, se determine, en su caso, la responsabilidad de las autoridades respectivas, en aras de hacer efectiva la protección de los Derechos Humanos.
+
+Por lo que la queja representa el derecho de acción de la persona quejosa y/o agraviada para exigir con ello, el conocimiento de las violaciones a los Derechos Humanos cometidos en su perjuicio y la investigación de los mismos, a efecto de que se determine la responsabilidad de la o las personas servidores públicos involucradas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXVIII. Reparación Integral del daño: Abarca la acreditación de daños en la esfera tanto material como inmaterial de la persona o grupos de personas víctimas de la violación a sus derechos humanos, así como el otorgamiento de medidas tales como: la investigación de los hechos, la restitución de derechos, bienes y libertades, la rehabilitación física, psicológica y social, la satisfacción mediante actos en beneficio de las víctimas, la garantía de no repetición y la indemnización compensatoria por daño material e inmaterial;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXIX. Víctima: A la persona física que directa o indirectamente ha sufrido una violación a sus derechos humanos establecidos en el bloque de constitucionalidad y que sea declarada con tal carácter por la Comisión Nacional al emitir una recomendación o por acuerdo expreso durante la tramitación de una queja;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXX. Violación de derechos humanos: A la acción u omisión que afecte los derechos humanos reconocidos en el bloque de constitucionalidad, llevado a cabo por un servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas, o bien, éste sea instigado o autorizado, explícita o implícitamente por un servidor público, o que actúe con aquiescencia o colaboración de un servidor público.
 
 La competencia de la comisión no comprende la facultad para conocer de los conflictos suscitados entre uno o varios patrones y uno o más trabajadores o uno o más sindicatos, ni entre sindicatos y/o trabajadores, incluso cuando el patrón sea una autoridad o dependencia federal, estatal o municipal.
 
@@ -123,7 +227,13 @@ En aquellos casos en los que se reciba un citatorio para comparecer ante alguna 
 
 (Principios de actuación del personal)
 
-El personal de la Comisión Nacional prestará sus servicios inspirado, primordialmente, en los principios de inmediatez, concentración, eficiencia y profesionalismo que conforman la existencia y los propósitos de la institución. En consecuencia, deberá procurar, en toda circunstancia, la protección y restitución de los derechos humanos de los quejosos y agraviados; participar en las acciones de promoción de los derechos humanos, y hacer del conocimiento y someter a la resolución de los superiores jerárquicos toda iniciativa que contribuya a la mejor realización de los objetivos de la Comisión Nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+El personal de la Comisión Nacional prestará sus servicios en cumplimiento a los principios de dignidad, buena fe, complementariedad, debida diligencia, enfoque diferencial y especializado, enfoque transformador, gratuidad, igualdad y no discriminación, integralidad, indivisibilidad e interdependencia, interés superior de la niñez, máxima protección, inmediatez, no criminalización, victimización secundaria, participación conjunta, progresividad y no regresividad, publicidad, rendición de cuentas, transparencia y trato preferente, ética pública, concentración, eficiencia y profesionalismo que conforman la existencia y los propósitos de la institución.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+En consecuencia, deberá garantizar en toda circunstancia, la protección y restitución de los derechos humanos de las personas quejosas y personas agraviadas; participar en las acciones de promoción de los derechos humanos, y hacer del conocimiento y someter a la resolución de los superiores jerárquicos toda iniciativa que contribuya a la mejor realización de los objetivos de la Comisión Nacional.
 
 ###### Artículo 7o.
 
@@ -138,6 +248,116 @@ En caso de que algún servidor público hiciere uso indebido de la credencial, s
 (Organo oficial de difusión)
 
 La Comisión Nacional contará con un órgano oficial de difusión denominado Gaceta de la Comisión Nacional de los Derechos Humanos. Su periodicidad será mensual y en ella se publicarán las recomendaciones, así como los documentos de no responsabilidad, informes especiales y materiales varios que, por su importancia, deban darse a conocer.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Bis.
+
+(La Secretaría Administradora)
+
+La Dirección General de Difusión de los Derechos Humanos, como Secretaría Administradora de la Comisión Nacional de los Derechos Humanos, será la encargada de prestar asistencia técnica y evaluación para la integración de las Estrategias, Programas y las Campañas de Comunicación Social de los Órganos y Unidades Administrativas de la Comisión Nacional de los Derechos Humanos, a fin de que se lleven a cabo bajo los principios a los que hace referencia la Ley General de Comunicación Social.
+
+La Secretaría Administradora será la encargada de la planeación y evaluación del Programa Anual de Comunicación Social que integre las acciones de los Órganos y Unidades Administrativas de la Comisión Nacional, a fin de que se lleven a cabo bajo los principios a los que hace referencia la Ley General de Comunicación Social.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Ter.
+
+La Secretaría Administradora deberá elaborar una Estrategia anual de Comunicación Social, integrando en ella las necesidades de los Órganos y Unidades Administrativas, para efectos de la difusión de mensajes sobre programas y actividades de la Comisión Nacional.
+
+La Estrategia Anual deberá contener:
+
+I. Misión y Visión de la Comisión Nacional de los Derechos Humanos;
+
+II. Objetivo u objetivos institucionales y objetivo de la Estrategia Anual de Comunicación Social;
+
+III. Metas y estrategias institucionales, establecidas en el Plan Estratégico Institucional, en su caso;
+
+IV. Programa o programas institucionales, de ser aplicable;
+
+V. Objetivo estratégico o transversal, según corresponda, alineado y vinculado al Plan Estratégico Institucional, y
+
+VI. Temas específicos derivados de los objetivos estratégicos que abordarán en las Campañas del Programa Anual de Comunicación Social.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Quater.
+
+Para el ejercicio de sus recursos, la Secretaría Administradora deberá elaborar el Programa Anual de Comunicación Social.
+
+El Programa Anual de Comunicación Social deberá comprender el conjunto de Campañas de Comunicación Social a difundirse en el ejercicio fiscal respectivo, mismas que estarán encaminadas al cumplimiento del objetivo u objetivos del Órgano o Unidad Administrativa que, en su caso, requiera de servicios de comunicación social, y que podrán incluir:
+
+I. Mensajes sobre programas y actividades de la Comisión Nacional;
+
+II. Acciones o logros de la Comisión Nacional, y
+
+III. Mensajes tendientes a promover el conocimiento y el ejercicio de los derechos humanos, y a estimular acciones de la ciudadanía para acceder al servicio público que otorga la Comisión Nacional.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Quinquies.
+
+Los Órganos y Unidades Administrativas, deberán formular sus propuestas para su integración en la Estrategia y Programa Anual de Comunicación Social correspondiente, y enviarlas a la Secretaría Administradora, previo registro en el Sistema de Información de Normatividad de Comunicación u homólogo, en la primera quincena de enero de cada año, primero de manera electrónica, y posteriormente, con plazos establecidos para la entrega documental con firmas autógrafas.
+
+La Secretaría Administradora emitirá las observaciones pertinentes o, en su caso, autorizará las Estrategias y Programas Anuales que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Sexies.
+
+La Secretaría Administradora elaborará el Programa Anual de Comunicación Social de la Comisión Nacional de los Derechos Humanos, considerando la prioridad temática y cronología de la difusión de las campañas a efecto de dar cumplimiento con la Estrategia Anual de Comunicación Social. Las campañas deben ser acordes al objetivo de comunicación que persigue la Comisión Nacional, con la difusión de las mismas.
+
+En la ejecución de sus Programas Anuales de Comunicación Social, se deberán atender los siguientes criterios:
+
+I. Que las Campañas de Comunicación Social tengan relación directa con las atribuciones y facultades de la Comisión Nacional;
+
+II. Que los recursos a utilizar sean proporcionales a los objetivos de la campaña;
+
+III. Que las herramientas y medios utilizados para la difusión de la campaña sean seleccionados de manera efectiva a fin de que la hagan llegar al público al que vaya dirigida;
+
+IV. Que haya objetivos claros y precisos para comunicar;
+
+V. Que se establezcan metas de resultados y procedimientos de evaluación de las campañas;
+
+VI. Utilizar, en primera instancia, los tiempos oficiales conforme a las disposiciones legales y administrativas aplicables, y
+
+VII. Que tengan un carácter institucional y fines informativos, educativos o de orientación social.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Septies.
+
+Los Órganos y Unidades Administrativas, remitirán sus propuestas para incorporar a las Estrategias, Programas Anuales y respectivas Campañas de Comunicación Social a la Dirección General de Difusión de los Derechos Humanos, observando los Lineamientos que para tal efecto elabore ésta y atendiendo aquellos que en materia presupuestal establezca la Coordinación General de Administración y Finanzas.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Octies.
+
+La Secretaría Administradora deberá tener registro de las campañas que cada Órgano y Unidad Administrativa prevé realizar, las vigencias generales, y el presupuesto otorgado.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Nonies.
+
+Una vez autorizada la Estrategia y el Programa Anual de Comunicación Social conforme al artículo 8 Quinquies y de acuerdo a las vigencias establecidas en el mismo, la Secretaría Administradora de la Comisión Nacional dará cuenta del cumplimiento de cada campaña registrada en el Programa.
+
+La Secretaría Administradora deberá establecer los Lineamientos que contemplen los tiempos del procedimiento de autorización para llevar a cabo la planeación de las campañas.
+
+Cada solicitud de campaña registrada deberá contener, por lo menos:
+
+I. Los Medios de Comunicación a utilizar;
+
+II. Los recursos a erogar, y
+
+III. Los requisitos adicionales que establezcan la Coordinación General de Difusión de los Derechos Humanos y la Coordinación General de Administración y Finanzas de conformidad con las disposiciones que para tal efecto emitan en el marco de sus respectivas competencias.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 8 Decies.
+
+Los Órganos y Unidades Administrativas podrán solicitar a la Dirección General de Difusión de los Derechos Humanos el difundir a través de Medios de Comunicación, Mensajes extraordinarios que comprendan información relevante para atender una situación de carácter emergente o coyuntural y que, por no ser previsible, no estén incluidos en su propuesta para el Programa Anual de Comunicación Social.
+
+El registro de los Mensajes Extraordinarios debe solicitarse a la Secretaría Administradora, justificando las razones de su emisión. Una vez autorizado el Mensaje Extraordinario, la Secretaría Administradora debe integrar dicho mensaje en el Programa Anual de Comunicación Social.
 
 ## TITULO II. FACULTADES DE LA COMISION NACIONAL
 
@@ -241,6 +461,10 @@ V. La Secretaría Técnica del Consejo Consultivo.
 
 La Presidencia es el órgano ejecutivo de la Comisión Nacional. Está a cargo de un presidente, al cual le corresponde ejercer, de acuerdo con lo establecido en la Ley, las funciones directivas de la Comisión Nacional y su representación legal.
 
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La Presidencia tendrá adscrita la Unidad de Transparencia, que ejercerá las funciones en materia de transparencia, acceso a la información y protección de datos personales, en términos de las disposiciones en la materia.
+
 ###### Artículo 19.
 
 (Organos sustantivos)
@@ -269,35 +493,41 @@ Durante las ausencias temporales del presidente de la Comisión Nacional, sus fu
 
 Para el despacho de los asuntos que directamente corresponden a la Presidencia de la Comisión Nacional, ésta contará con el apoyo de las unidades administrativas siguientes:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-I. Oficialía Mayor;
+I. Coordinación General de Administración y Finanzas
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 II. Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos;
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-III. Dirección General de Comunicación;
+III. Dirección General de Difusión de los Derechos Humanos
 
 > <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 IV. Dirección General de Quejas y Orientación;
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-V. Dirección General de Planeación y Análisis;
+V. Dirección General de Planeación y Estrategia Institucional
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 VI. Centro Nacional de Derechos Humanos; y
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-VII. Las demás que se establezcan en los correspondientes acuerdos administrativos.
+VII. Coordinación General de Especialidades Científicas y Técnicas; y
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 26 DE JUNIO DE 2017)</small>
+(REUBICADA [N. DE E. ANTES FRACCIÓN VII], D.O.F. 8 DE OCTUBRE DE 2021)
+
+VIII. Las demás que se establezcan en los correspondientes acuerdos administrativos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La persona titular de la Presidencia de la Comisión Nacional contará, además, con el apoyo de la Unidad de Protección y Defensa, la Unidad de Promoción y Divulgación, la Secretaría Particular y el Enlace Administrativo.
 
 Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al presidente de la Comisión Nacional nombrar y remover libremente a todo el personal, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, así como en el Estatuto del Servicio Civil de Carrera de la misma Comisión Nacional.
 
@@ -309,15 +539,15 @@ Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y
 
 Sin perjuicio de lo anterior, las personas titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y las personas titulares de las Unidades Administrativas a que hace referencia el artículo 21 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, dando el correspondiente aviso a la persona titular de la Presidencia de la Comisión Nacional. En todo caso, la persona titular de la Dirección General de Recursos Humanos tendrá la facultad de remover al personal de la Comisión Nacional, con excepción de aquellos cuya designación haya correspondido a la persona titular de la Presidencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-(De la Oficialía Mayor)
+(De la Coordinación General de Administración y Finanzas)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-La Oficialía Mayor tendrá las siguientes atribuciones, las cuales se ejercerán por sí misma o a través de las áreas previstas en su manual de organización:
+La Coordinación General de Administración y Finanzas tendrá las siguientes atribuciones, las cuales se ejercerán por sí misma o a través de las áreas previstas en su manual de organización.
 
 I. Ejercer, por acuerdo del presidente de la Comisión Nacional, la representación legal de la Comisión Nacional exclusivamente en el ámbito administrativo institucional;
 
@@ -331,13 +561,13 @@ IV. Proponer al presidente de la Comisión Nacional la formulación y actualizac
 
 IV Bis. Autorizar la actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Nacional;
 
-> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-V. Elaborar, desarrollar e implantar el Manual de Organización General de la Comisión Nacional, así como revisar los aspectos formales de los proyectos de manuales de los órganos y unidades administrativas de la Comisión;
+V. Elaborar, desarrollar e implantar, con la aprobación de la persona titular de la presidencia de la Comisión Nacional, el Manual de Organización General de la Comisión Nacional, así como revisar los aspectos formales de los proyectos de manuales de los órganos y unidades administrativas de la Comisión;
 
-> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-V. Bis. Elaborar, desarrollar e implantar los manuales e instructivos de procedimientos y servicios administrativos;
+V. Bis. Elaborar, desarrollar e implantar, con la aprobación de la persona titular de la presidencia de la Comisión Nacional, los manuales e instructivos de procedimientos y servicios administrativos;
 
 VI. Elaborar, desarrollar y ejecutar el Programa General de Capacitación de la Comisión Nacional;
 
@@ -345,21 +575,33 @@ VII. Elaborar y presentar al presidente de la Comisión Nacional el Proyecto de 
 
 VIII. Realizar el proceso de concertación de los elementos y la estructura programática y del Proyecto de Programa-Presupuesto de la Comisión Nacional, así como los informes financieros y contables, los que someterá a la consideración del titular de la Comisión Nacional, de conformidad con los lineamientos establecidos al efecto;
 
-IX. Coordinar el ejercicio del gasto conforme a los lineamientos generales y específicos establecidos en la materia y ejecutar el gasto conforme al presupuesto autorizado;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+IX. Coordinar, con la aprobación de la persona titular de la presidencia de la Comisión Nacional, el ejercicio del gasto conforme a los lineamientos generales y específicos establecidos en la materia y ejecutar el gasto conforme al presupuesto autorizado;
 
 X. Elaborar la cuenta pública que, en su caso, se presentará a las distintas autoridades competentes que así lo requieran;
 
 XI. Cumplir con las obligaciones fiscales y con el seguimiento de las metas presupuestales de todas las unidades responsables de la Comisión Nacional;
 
-XII. Formular y ejecutar los programas anuales de obra pública, adquisiciones, mantenimiento y conservación de bienes muebles e inmuebles de la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XII. Formular y ejecutar, con la aprobación de la persona titular de la presidencia de la Comisión Nacional, los programas anuales de obra pública, adquisiciones, mantenimiento y conservación de bienes muebles e inmuebles de la Comisión Nacional;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 XIII. Realizar las adquisiciones de bienes y servicios de acuerdo con los preceptos legales aplicables, así como custodiar y administrar los bienes de la Comisión Nacional;
 
-XIV. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus atribuciones, así como los demás documentos que impliquen actos de administración, conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-XV. Conducir las relaciones laborales de la Comisión Nacional conforme a la normatividad establecida al efecto;
+XIV. Suscribir, con la aprobación de la persona titular de la presidencia de la Comisión Nacional, los contratos, convenios y acuerdos relativos al ejercicio de sus atribuciones, así como los demás documentos que impliquen actos de administración, conforme a las disposiciones legales aplicables;
 
-XVI. Establecer las políticas de contratación y desarrollo laboral, así como supervisar su cumplimiento e implementar el servicio civil de carrera;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XV. Conducir las relaciones laborales de la Comisión Nacional conforme a la normatividad establecida al efecto y contando con la asesoría de la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos;
+
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XVI. Establecer, con la aprobación de la persona titular de la presidencia de la Comisión Nacional, las políticas de contratación y desarrollo laboral, así como supervisar su cumplimiento e implementar el servicio civil de carrera;
 
 > <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -383,15 +625,15 @@ XIX. Proponer al Presidente de la Comisión Nacional el establecimiento de norma
 
 XX. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-(Estructura de la Oficialía Mayor)
+(Estructura de la Coordinación General de Administración y Finanzas)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-Para el ejercicio de sus atribuciones la Oficialía Mayor contará con las siguientes Direcciones Generales y Unidad:
+Para el ejercicio de sus atribuciones la Coordinación General de Administración y Finanzas contará con las siguientes Direcciones Generales y Unidad:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -405,13 +647,17 @@ II. Recursos Humanos;
 
 III. Tecnologías de Información y Comunicaciones;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-IV. Recursos Materiales y Servicios Generales; y
+IV. Recursos Materiales y Servicios Generales;
 
-> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-V. Unidad de Igualdad de Género.
+V. Unidad Técnica para la Igualdad de Género; y
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+VI. Unidad de Enlace Administrativo.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -419,13 +665,13 @@ Además, contará con el personal profesional, técnico y administrativo autoriz
 
 La persona que ocupe la titularidad de la Dirección General de Finanzas podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, VII, VIII, IX, X, XI y XIV, de este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-La persona que ocupe la titularidad de la Dirección General de Recursos Humanos podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, IV, IV Bis, V, VI, XIV, XV y XVI, de este Reglamento.
+La persona que ocupe la titularidad de la Dirección General de Recursos Humanos podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, IV, IV Bis, V, V Bis, VI, XIV, XV y XVI, de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-La persona que ocupe la titularidad de la Dirección General de Tecnologías de Información y Comunicaciones, podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, V Bis, XIV, XVIII y XVIII Bis de este Reglamento.
+La persona que ocupe la titularidad de la Dirección General de Tecnologías de Información y Comunicaciones, podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, XIV, XVIII y XVIII Bis de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -435,41 +681,55 @@ La persona que ocupe la titularidad de la Dirección General de Recursos Materia
 
 El ejercicio de las atribuciones conferidas a los Directores Generales podrá realizarse sin perjuicio del ejercicio directo que realice el Oficial Mayor.
 
-> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 24.
 
-(De la Dirección General de Comunicación).
+(De la Dirección General de Difusión de los Derechos Humanos)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-La Dirección General de Comunicación tendrá las siguientes atribuciones:
+La Dirección General de Difusión de los Derechos Humanos tendrá las siguientes atribuciones:
 
-I. Proponer las políticas de comunicación social al presidente de la Comisión Nacional y, en su caso, diseñarlas, para la divulgación de la Comisión Nacional y sus relaciones con los medios de información o comunicación;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+I. Proponer las políticas de difusión y comunicación social a la persona titular de la Presidencia de la Comisión Nacional y, en su caso, diseñarlas, a fin de que se comuniquen los derechos humanos y sus garantías, así como las actividades y los programas de la Comisión Nacional, y sus relaciones con los medios de información o comunicación;
 
 II. Elaborar materiales audiovisuales para dar a conocer a la sociedad las funciones y actividades de la Comisión Nacional;
 
 III. Coordinar las conferencias de prensa y comunicados del presidente y demás servidores públicos de la Comisión Nacional, y
 
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+III. Bis. Fungir como Secretaría Administradora en términos de la Ley General de Comunicación Social.
+
 IV. Las demás que le confieran las disposiciones legales o reglamentarias, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
-> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-(Estructura de la Dirección General de Comunicación)
+(Estructura de la Dirección General de Difusión de los Derechos Humanos)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-Para el ejercicio de sus atribuciones, la Dirección General de Comunicación contará con las siguientes áreas:
+Para el ejercicio de sus atribuciones, la Dirección General de Difusión de los Derechos Humanos contará con las siguientes áreas:
 
-I. Comunicación Social;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-II. Contenidos;
+I. Difusión de los Derechos Humanos;
 
-III. Información, y
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-IV. Operación y Servicios de Apoyo.
+II. Información Institucional;
+
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+III. Contenidos, y
+
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+IV. Monitoreo, síntesis y análisis de la información.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -499,7 +759,9 @@ IV. Turnar a las visitadurías generales, inmediatamente después de que se haya
 
 V. Asignar el número de expediente de los asuntos recibidos por la Comisión Nacional de los Derechos Humanos y registrarlos en el sistema automatizado para la gestión documental y administración de archivos;
 
-VI. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+VI. Realizar, en su caso, la remisión correspondiente que derive de la orientación a que se refiere la fracción I. de este artículo.
 
 > <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
@@ -563,13 +825,15 @@ IV. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-(De la Dirección General de Planeación y Análisis)
+(De la Dirección General de Planeación y Estrategia Institucional)
 
-La Dirección General de Planeación y Análisis tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La Dirección General de Planeación y Estrategia Institucional tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -579,17 +843,15 @@ I. Elaborar el proyecto del informe anual de actividades y del programa anual de
 
 II. Sistematizar información y evaluar la congruencia de proyectos y programas propuestos por los órganos y unidades administrativas de la Comisión Nacional, respecto al cumplimiento en las metas y avances programados, considerando la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-III. Presentar al Presidente de la Comisión Nacional las propuestas de reformas a documentos normativos o a prácticas administrativas que redunden en una mejor protección de los derechos humanos;
+III. Presentar a la persona titular de la Presidencia de la Comisión Nacional las propuestas de reformas a documentos normativos internos, sobre prácticas administrativas, que redunden en el más óptimo cumplimiento de su misión constitucional;
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 IV. Realizar investigaciones, estudios y análisis de información cualitativa y cuantitativa para la generación de diagnósticos e informes que aporten elementos para la integración de proyectos y diseño de estrategias que contribuyan a una cultura de prevención y protección de los derechos humanos;
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
-
-V. Presentar al Presidente de la Comisión Nacional propuestas de políticas públicas de promoción, difusión, protección y defensa de los derechos humanos que incidan en los tres niveles de gobierno;
+V. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -603,29 +865,57 @@ VII. Realizar los análisis sobre temas de interés en materia de derechos human
 
 VIII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-###### Artículo 29.
+Artículo. 29.- (Estructura de la Dirección General de Planeación y Estrategia Institucional)
 
-(Estructura de la Dirección General de Planeación y Análisis)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-Para el ejercicio de sus atribuciones, la Dirección General de Planeación y Análisis contará con las siguientes áreas:
+Para el ejercicio de sus atribuciones, la Dirección General de Planeación y Estrategia Institucional contará con las siguientes áreas:
 
-I. Planeación,
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+I. Planeación Estratégica;
 
-II. Diseño de Estrategias y Políticas Públicas, y
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+II. Gestión e Innovación Institucional, y
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 III. Centro de Análisis de Información Geoespacial.
 
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2009)</small>
+
 Además contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 30.
 
-(DEROGADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)
+(De la Coordinación General de Especialidades Científicas y Técnicas)
+
+La Coordinación General de Especialidades Científicas y Técnicas, tendrá las siguientes atribuciones:
+
+I. Auxiliar a las Visitadurías Generales en la obtención de los indicios y pruebas, a fin de coadyuvar en el cumplimiento de sus funciones constitucionales en materia de atención a quejas;
+
+II. Establecer los mecanismos de atención y procedimientos de registro, de las solicitudes de apoyo técnico en las diferentes especialidades, formuladas por las Visitadurías Generales, así como de los programas de supervisión y seguimiento de la atención a tales solicitudes;
+
+III. Brindar asesoría técnica a los Órganos y a las Unidades Administrativas de la Comisión Nacional que lo requieran, en el ámbito de su competencia;
+
+IV. Diseñar y establecer los requisitos mínimos de los documentos e informes que en el ejercicio de sus facultades elabore, así como emitir, en coordinación con las unidades competentes, guías y manuales técnicos que deban observarse en la intervención de apoyo en especialidades técnicas y científicas y para la formulación de los documentos y opiniones que emita como resultado de su intervención, dentro del marco de la autonomía técnica de los servicios que brinde, velando porque se cumplan con las formalidades y requisitos que establecen las normas científicas y técnicas aplicables;
+
+V. Garantizar el cumplimiento de la metodología requerida y las normas vigentes en la emisión de los documentos y opiniones que emita;
+
+VI. Proponer la habilitación de peritos cuando la Coordinación no cuente con especialistas en una determinada disciplina, ciencia o arte, cuando se requiera o en casos urgentes;
+
+VII. Proponer la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias, conocimientos y avances tecnológicos;
+
+VIII. Elaborar, desarrollar e implantar la normatividad en materia de intervención en especialidades científicas o técnicas; y
+
+IX. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne la persona titular de la Presidencia de la Comisión Nacional.
+
+Para el cumplimiento de sus atribuciones, contará con el personal de estructura, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 ###### Artículo 31.
 
@@ -647,7 +937,9 @@ I. Solicitar y requerir información y documentación a las diversas autoridades
 
 II. Recibir la información y documentación referida en la fracción anterior, evaluando y determinado el estado de cumplimiento de las recomendaciones;
 
-III. Proporcionar el apoyo y la asesoría jurídica necesarios a las unidades administrativas de la Comisión Nacional para el ejercicio de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+III. Garantizar la defensa de los intereses de la Comisión Nacional y proporcionar el apoyo y la asesoría jurídica necesarios a las unidades administrativas para el ejercicio de sus atribuciones;
 
 IV. Promover las demandas y representar a la Comisión Nacional en toda clase de procedimientos judiciales, contencioso administrativos y laborales, así como en los procedimientos especiales de jurisdicción voluntaria;
 
@@ -657,21 +949,33 @@ VI. Ejercer, ante los tribunales competentes, las acciones que correspondan a la
 
 VII. Formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Comisión Nacional, de acuerdo con los requerimientos de las áreas respectivas, así como los instrumentos jurídicos de cualquier naturaleza relativos a los derechos y obligaciones patrimoniales de la Comisión Nacional;
 
-VIII. Elaborar los estudios, propuestas y proyectos de acciones de inconstitucionalidad para ser sometidos a la aprobación del Presidente; en su caso, dar el seguimiento que corresponda a las acciones promovidas ante la Suprema Corte de Justicia de la Nación;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-IX. Proponer proyectos normativos que resulten relevantes en relación con los derechos humanos y recomendar mejoras o correcciones a la normatividad existente cuando lo considere conveniente;
+VIII. Elaborar los estudios, propuestas, proyectos de acciones de inconstitucionalidad y de controversias constitucionales para ser sometidos a la aprobación de la Presidencia; en su caso, dar el seguimiento que corresponda a las acciones y controversias promovidas ante la Suprema Corte de Justicia de la Nación;
 
-X. Verificar que la normatividad nacional existente en materia de derechos humanos cumple con las normas internacionales en la materia;
+IX. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
+
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+X. Verificar que las iniciativas de ley y dictámenes legislativos de las Cámaras del Congreso de la Unión que impactan en materia de derechos humanos, cumplan con el bloque de constitucionalidad;
 
 XI. Validar la elaboración de normatividad que propongan las Unidades Responsables de la Comisión Nacional; y
 
-XII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Nacional.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XII. Enviar la información del expediente respectivo a la Comisión Ejecutiva de Atención a Víctimas, para que las víctimas puedan acceder de manera más rápida, a la reparación integral del daño; y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES RACCIÓN XII], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XIII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne la persona titular de la Presidencia de la Comisión Nacional.
 
 Para el cumplimiento de sus atribuciones la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos contará con un titular y el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 La Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos contará cuando menos con las siguientes áreas:
 
-a). Unidad de Seguimiento de Recomendaciones;
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+a). De Seguimiento de Recomendaciones;
 
 b). De lo Contencioso;
 
@@ -679,13 +983,23 @@ c). De lo Consultivo; y
 
 d). De Normatividad.
 
-La persona quien ocupe la Unidad de Seguimiento de Recomendaciones podrá ejercer las atribuciones señaladas en las fracciones I, II y V.
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-La persona quien ocupe la titularidad del área de lo Contencioso podrá ejercer las atribuciones señaladas en las fracciones IV, VI y VIII.
+e). De Acciones de Inconstitucionalidad.
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La persona quien ocupe la titularidad del área de Seguimiento de Recomendaciones podrá ejercer las atribuciones señaladas en las fracciones I, II, V y XIII.
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La persona quien ocupe la titularidad del área de lo Contencioso podrá ejercer las atribuciones señaladas en las fracciones IV y VI.
 
 La persona quien ocupe la titularidad del área de lo Consultivo podrá ejercer las atribuciones señaladas en las fracciones III, V y VII.
 
-La persona quien ocupe la titularidad del área de Normatividad podrá ejercer las atribuciones señaladas en las fracciones IX, X y XI.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La persona quien ocupe la titularidad del área de Acciones de Inconstitucionalidad podrá ejercer las atribuciones señaladas en la fracción VIII.
 
 El ejercicio de las atribuciones conferidas a los titulares de la Unidad y de las áreas podrá realizarse sin perjuicio del ejercicio directo que realice el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos.
 
@@ -695,11 +1009,17 @@ El ejercicio de las atribuciones conferidas a los titulares de la Unidad y de la
 
 El Centro Nacional de Derechos Humanos tendrá las siguientes atribuciones:
 
-I. Elaborar investigación académica e interdisciplinaria especializada en materia de derechos humanos;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-II. Promover el intercambio académico con instituciones nacionales e internacionales;
+I. Realizar investigación académica e interdisciplinaria especializada en materia de derechos humanos;
 
-III. Contribuir a la formación de investigadores en materia de derechos humanos;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+II. Promover el intercambio académico con instituciones nacionales e internacionales para la formación de profesionales de la investigación en materia de derechos humanos;
+
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+III. Contribuir a la formación de personal para la enseñanza en materia de derechos humanos; así como promover la educación en derechos humanos para la población en general, a efecto de sensibilizar en su respeto y en el ejercicio pleno de su cumplimiento.
 
 IV. Dirigir, impulsar e incrementar el acervo de la Biblioteca de la Comisión Nacional, así como apoyar, a través de los servicios bibliotecarios con los que cuenta, a los órganos y unidades administrativas de la Comisión Nacional, investigadores, especialistas y público en general, y
 
@@ -715,15 +1035,17 @@ VI. Programar, previo dictamen y coordinar la edición de las publicaciones que 
 
 VII. Supervisar las actividades de distribución y comercialización de las publicaciones;
 
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-VIII. Colaborar con la Dirección General de la Planeación y Análisis en la elaboración del informe anual de actividades, y
+VIII. Colaborar con la Dirección General de la Planeación y Estrategia Institucional en la elaboración del informe anual de actividades, y
 
 > <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 IX. Organizar e impartir programas de formación académica en el campo de los derechos humanos, ya sea por sí mismo o en colaboración con instituciones nacionales o extranjeras, y
 
-X. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+X. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne la persona titular de la presidencia de la Comisión Nacional.
 
 > <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
@@ -731,11 +1053,15 @@ X. Las demás que le confieran las disposiciones legales, así como aquellas que
 
 (Estructura del Centro Nacional de Derechos Humanos)
 
-Para el ejercicio de sus atribuciones, el Centro Nacional de Derechos Humanos contará con un titular y las siguientes áreas:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Para el ejercicio de sus atribuciones, el Centro Nacional de Derechos Humanos contará con una persona titular y las siguientes áreas:
 
 I. Secretaría Académica;
 
-II. Publicaciones;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+II. Procesos Editoriales;
 
 III. Editorial;
 
@@ -787,7 +1113,9 @@ V. Participar, conforme a las disposiciones vigentes, en los Comités y Subcomit
 
 VI. Proponer las mejoras que permitan la simplificación administrativa de los procedimientos establecidos en los órganos y las unidades administrativas de la Comisión Nacional, como resultado del desarrollo de sus funciones;
 
-VII. Implantar el Sistema de Control Interno y de Gestión de Riesgos de la Comisión Nacional, así como proponer las normas, lineamientos, mecanismos y acciones en la materia;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+VII. Fiscalizar, vigilar y dar seguimiento a las políticas de Austeridad que establecen las normas en materia de austeridad de la Comisión Nacional de los Derechos Humanos, así como proponer las normas, lineamientos, mecanismos y acciones en materia de control interno.
 
 VIII. Presentar ante la Fiscalía Especializada en Combate a la Corrupción, las denuncias por hechos u omisiones que pudieran ser constitutivos de delito;
 
@@ -803,7 +1131,9 @@ XIII. Recibir, tramitar y resolver las inconformidades, procedimientos y recurso
 
 XIV. Ejercer, ante los tribunales competentes, las acciones que le correspondan, así como hacer valer toda clase de derechos, excepciones y defensas en cualquier procedimiento;
 
-XV. Recibir, registrar y custodiar las declaraciones de situación patrimonial, declaraciones de intereses y constancias de presentación de la declaración fiscal que presenten las personas servidoras públicas de la Comisión Nacional; inscribir y mantener actualizada la información correspondiente del Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, de todas las personas servidoras públicas de la Comisión Nacional, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XV. Administrar el Sistema de Declaraciones Patrimoniales CNDH, y verificar la presentación a través del medio electrónico las declaraciones de situación patrimonial, declaraciones de intereses y constancias de presentación de la declaración fiscal que presenten las personas servidoras públicas de la Comisión Nacional; inscribir y mantener actualizada la información correspondiente del Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, de todas las personas servidoras públicas de la Comisión Nacional, de conformidad con las disposiciones legales aplicables.
 
 XVI. Llevar a cabo la verificación aleatoria de las declaraciones patrimoniales que obren en el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, así como de la evolución del patrimonio de las personas servidoras públicas; en su caso, expedir la certificación correspondiente;
 
@@ -821,7 +1151,9 @@ XXII. Investigar, en el ámbito de su competencia, los actos u omisiones que imp
 
 XXIII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
 
-XXIV. Implantar y vigilar el cumplimiento de las normas complementarias en materia de control interno;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XXIV. Vigilar el cumplimiento de las normas complementarias en materia de control interno;
 
 XXV. Vigilar el cumplimiento de las normas y políticas en materia de patrimonio inmobiliario;
 
@@ -857,7 +1189,11 @@ XL. Proponer a la Comisión Nacional los mecanismos de orientación y cursos de 
 
 XLI. Celebrar convenios de colaboración en las materias que le competen, y
 
-XLII. Las demás que le confieran otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+XLII. Certificar los documentos necesarios que emita conforme a sus atribuciones;
+
+XLIII. Las demás que le confieren otros ordenamientos legales.
 
 > <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
@@ -875,6 +1211,8 @@ Para el ejercicio de sus atribuciones, el Órgano Interno de Control contará co
 
 I. Quejas, Denuncias y Notificaciones;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
 II. Responsabilidades, Situación Patrimonial y Defensa Jurídica;
 
 III. Control y Auditorías, y
@@ -883,13 +1221,21 @@ IV. Evaluación de la Gestión.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de egresos de la Comisión Nacional.
 
-La persona quien ocupe la titularidad del Área de Quejas, Denuncias y Notificaciones, podrá ejercer las atribuciones señaladas en las fracciones I, IX, XIV, XX, XXXV, XXXVIII, XXXIX y XLII.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-La persona quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica, podrá ejercer las atribuciones señaladas en las fracciones I, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXXV, XXXVIII, XXXIX y XLII.
+La persona quien ocupe la titularidad del Área de Quejas, Denuncias y Notificaciones, podrá ejercer las atribuciones señaladas en las fracciones I, IX, XIV, XX, XXXV, XXXVIII, XXXIX, XLII y XLIII;
 
-La persona quien ocupe la titularidad del Área de Control y Auditorías, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXXV, XXXVIII, XXXIX y XLII.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-La persona quien ocupe la titularidad del Área de Evaluación de la Gestión, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX y XLII.
+La persona quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica, podrá ejercer las atribuciones señaladas en las fracciones I, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXXV, XXXVIII, XXXIX, XLII y XLIII;
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La persona quien ocupe la titularidad del Área de Control y Auditorías, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXXV, XXXVIII, XXXIX y XLIII;
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La persona quien ocupe la titularidad del Área de Evaluación de la Gestión, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX, XLII y XLIII.
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
@@ -997,9 +1343,9 @@ III. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias q
 
 B. En cuanto al área operativa de la Comisión:
 
-I. Dirigir, promover y consolidar la relación con las organizaciones de la sociedad civil en México, a través del desarrollo de acciones de reflexión, análisis y participación con organizaciones sociales para la implementación de una agenda de derechos humanos del país tendiente al fortalecimiento, divulgación y promoción de los derechos humanos;
+I. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
-II. Fortalecer, promover e impulsar procesos de colaboración con la sociedad civil, mediante el desarrollo de diversas acciones y programas de difusión, promoción y divulgación de los derechos humanos con organizaciones de todo el país y con los Poderes de la Unión;
+II. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
 III. Diseñar y desarrollar los programas de educación, capacitación y promoción en materia de derechos humanos para personal del servicio público y la sociedad en general;
 
@@ -1009,13 +1355,15 @@ V. Establecer la vinculación con los distintos sectores usuarios de los servici
 
 VI. Promover, fortalecer e impulsar las relaciones interinstitucionales de la Comisión Nacional con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos;
 
-VII. Proponer a la persona titular de la Presidencia de la Comisión Nacional proyectos que fortalezcan las actividades sustantivas en el marco de la vinculación interinstitucional;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+VII. Proponer a la persona titular de la Presidencia de la Comisión Nacional proyectos que fortalezcan las actividades sustantivas con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos en el marco de la vinculación interinstitucional;
 
 VIII. Proponer a la persona titular de la Presidencia de la Comisión Nacional la celebración de instrumentos de colaboración con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos en el marco de la vinculación interinstitucional;
 
-IX. Fortalecer la cooperación y colaboración de la Comisión Nacional con los organismos públicos de derechos humanos locales, a fin de unificar criterios y realizar acciones conjuntas que intensifiquen la lucha por la protección, defensa, observancia, promoción, estudio y divulgación de los derechos humanos;
+IX. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
-X. Brindar la asistencia que corresponda en eventos nacionales en los que esté presente y/o en los que participe la persona titular de la Presidencia de la Comisión Nacional de los Derechos Humanos; y
+X. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
 XI. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne la persona titular de la Presidencia de la Comisión Nacional o el Consejo Consultivo.
 
@@ -1025,29 +1373,23 @@ XI. Las demás que le confieran las disposiciones legales, así como aquellas qu
 
 Para el ejercicio de sus atribuciones, la Secretaría Técnica del Consejo Consultivo contará con un titular y las siguientes áreas:
 
-> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
-
-I. Enlace y Fortalecimiento de la Sociedad Civil;
+I. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
 II. Educación en Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-III. Vinculación Interinstitucional;
+III. Vinculación Interinstitucional, y
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+IV. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
-IV. Vinculación con Organismos Públicos de Derechos Humanos, y
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+V. Atención al Consejo Consultivo y Control Operativo.
 
-V. Atención al Consejo Consultivo y Control Operativo, y
-
-> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
-
-VI. De Asistencia y Logística.
+VI. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -1117,13 +1459,15 @@ Con independencia del desarrollo del Programa de Quejas, las visitadurías gener
 
 La observancia del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres, estará a cargo de un programa especial, el cual, para el ejercicio de sus atribuciones, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 60.
 
-(Oficinas Foráneas)
+(Oficinas Foráneas).
 
-La Comisión Nacional podrá contar con oficinas foráneas en las entidades de la República, las cuales se establecerán por acuerdo del presidente de la Comisión Nacional aprobado por el Consejo Consultivo.
+La Comisión Nacional podrá contar con oficinas foráneas en las entidades de la República, las cuales se establecerán por acuerdo de la persona titular de la Presidencia de la Comisión Nacional.
 
-Las oficinas foráneas dependerán de alguna de las visitadurías generales y tendrán competencia para conocer de todos aquellos asuntos que por acuerdo determine el presidente de la Comisión Nacional.
+Las oficinas foráneas dependerán de la Presidencia de la Comisión Nacional de los Derechos Humanos y tendrán competencia para conocer de todos aquellos asuntos que por acuerdo determine la persona titular de la presidencia.
 
 ###### Artículo 61.
 
@@ -1357,15 +1701,15 @@ El Presidente de la Comisión Nacional podrá delegar a los Visitadores Generale
 
 Los Visitadores Generales y el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, acordarán por escrito con el Presidente de la Comisión Nacional, la interposición de las denuncias penales correspondientes. Los visitadores adjuntos o el personal autorizado, recabarán acuerdo escrito del Visitador General o del Coordinador General para interponer las denuncias y, en su caso, para realizar y dar seguimiento a las actuaciones y diligencias en las averiguaciones previas, procedimientos penales y administrativos.
 
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 64.
 
-(Visitadores adjuntos)
+(Visitadores adjuntos).
 
-Tendrán el carácter de visitadores adjuntos los miembros del personal profesional que laboren en las visitadurías generales o en la Dirección General de Quejas y Orientación, que reciban el nombramiento específico y estén encargados de la atención de los asuntos que son de la competencia de la Comisión Nacional y de su consecuente investigación, incluidos los peritos en medicina, medicina forense, criminología y otros que resulten necesarios para el trabajo de la Comisión Nacional.
+Tendrán el carácter de visitadores adjuntos los miembros del personal profesional que laboren en las Visitadurías Generales, en la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, en la Unidad de Protección y Defensa; en las Oficinas Foráneas, en la Coordinación General de Especialidades Científicas y Técnicas y en la Secretaría Ejecutiva que reciban el nombramiento específico y estén encargados de la atención de los asuntos que son de la competencia de la Comisión Nacional y de su consecuente investigación y seguimiento, incluidos los especialistas en medicina, medicina forense, criminología y otros que resulten necesarios para el trabajo de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
-
-Los Directores Generales, los Coordinadores de Oficinas Foráneas, los Directores de Área, los Subdirectores de Área o sus equivalentes, los coordinadores de programas especiales, los coordinadores de procedimientos internos adscritos a las Visitadurías Generales, así como el Director General de Quejas, Orientación y Transparencia, el titular de la Secretaría Técnica de la Presidencia y el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, serán considerados como Visitadores Adjuntos para los efectos del artículo 16 de la Ley.
+Los Directores Generales, los Coordinadores de Oficinas Foráneas, los Directores y Subdirectores de Área o sus equivalentes adscritos a las Visitadurías Generales, los coordinadores de programas especiales, los coordinadores de procedimientos internos adscritos a las Visitadurías Generales, así como las personas titulares de la de la Secretaría Ejecutiva, Dirección General de Quejas y Orientación y de la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, serán considerados como Visitadores Adjuntos para los efectos del artículo 16 de la Ley.
 
 ###### Artículo 65.
 
@@ -1437,7 +1781,25 @@ El titular de la Secretaría Ejecutiva será designado por el presidente de la C
 
 (Estructura de la Secretaría Ejecutiva)
 
-La Secretaría Ejecutiva tendrá las facultades y obligaciones señaladas en el artículo 22 de la Ley y para su ejercicio contará con un titular y la estructura administrativa, además del personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+La Secretaría Ejecutiva tendrá las facultades y obligaciones señaladas en el artículo 22 de la Ley, así como aquellas que le confieren las demás disposiciones legales y las que le asigne la persona titular de la Presidencia de la Comisión Nacional.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Auxiliará a la Presidencia en la coordinación y seguimiento de las acciones de cada uno de los programas a cargo de la Institución, y presentará a la persona titular de la Presidencia propuestas de políticas públicas encaminadas a la protección y defensa y a la promoción y difusión de los derechos humanos; Asimismo, estudios en materia de progresividad de los derechos humanos realizados a las políticas públicas, presupuesto público, prácticas administrativas en el país, que a juicio de la Comisión Nacional, avancen o incidan en la realización de dicha progresividad, en el Estado mexicano.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Por lo que hace a la promoción y fortalecimiento de las relaciones con los organismos públicos, sociales o privados nacionales en materia de derechos humanos a que se refiere la fracción II del artículo 22 de la Ley, la Secretaría Ejecutiva tendrá las siguientes atribuciones:
+
+I. Dirigir, promover y consolidar la relación con organizaciones de la sociedad civil nacionales, a través del desarrollo de diversas acciones y programas de promoción y divulgación de los derechos humanos;
+
+II. Fortalecer la cooperación y colaboración de la Comisión Nacional con los organismos públicos de derechos humanos locales, a fin de unificar criterios y realizar acciones conjuntas que intensifiquen la lucha por la protección, defensa, observancia, promoción, estudio y divulgación de los derechos humanos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Para su ejercicio contará con un titular y con la estructura administrativa, además del personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 ###### Artículo 71.
 
@@ -1445,11 +1807,15 @@ La Secretaría Ejecutiva tendrá las facultades y obligaciones señaladas en el 
 
 Las consultas que la Secretaría de Relaciones Exteriores formule a la Comisión Nacional sobre el estado de un expediente de queja determinado, serán atendidas por la Secretaría Ejecutiva, así como las comunicaciones que se reciban del extranjero.
 
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 72.
 
-(Relación con organismos extranjeros)
+(Relación con organismos extranjeros).
 
-Para los efectos de lo dispuesto en el artículo 22 fracción II, de la Ley, la Secretaría Ejecutiva elaborará un boletín mensual denominado Carta de Novedades y su correspondiente versión en inglés, el cual será distribuido entre organismos públicos, sociales o privados, nacionales e internacionales, en materia de derechos humanos. Asimismo, dará seguimiento, impulsará la cooperación y colaborará con instituciones extranjeras multinacionales y regionales de promoción y protección de los derechos humanos en temas de su estricta competencia.
+Para los efectos de lo dispuesto en el artículo 22 fracción II, de la Ley, la Secretaría Ejecutiva impulsará la cooperación y colaborará con instituciones extranjeras multinacionales y regionales de promoción y protección de los derechos humanos en temas de su estricta competencia.
+
+Promoverá el cumplimiento de las recomendaciones, resoluciones y compromisos internacionales por parte del Estado mexicano, en materia de derechos humanos, sistematizándolos para darles el debido seguimiento, a fin de mantener un diagnóstico sobre la situación de los derechos humanos en el país. Y elaborará un boletín mensual denominado Carta de Novedades, y su correspondiente versión en inglés, el cual será distribuido entre organismos públicos, sociales o privados, nacionales e internacionales, en materia de derechos humanos.
 
 ### CAPITULO VII. DE LAS EXCUSAS E IMPEDIMENTOS
 
@@ -1543,6 +1909,76 @@ El número de folio se marcará en la esquina superior derecha de la hoja. Para 
 
 Las evidencias en soporte electrónico, magnético, electromagnético o de cualquier otra índole se acompañarán al expediente en sobre cerrado que deberá ser foliado en los términos antes previstos, salvo que por seguridad deban mantenerse separados del expediente. En ese supuesto, el visitador adjunto deberá levantar el acta circunstanciada correspondiente y adjuntarla al expediente.
 
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 79 Bis.
+
+(De las Notificaciones).
+
+En términos del artículo 4º de la Ley de la Comisión Nacional de los Derechos Humanos, a efecto de cumplir con los principios de inmediatez, concentración y rapidez, las notificaciones que efectúe la Comisión Nacional, podrán realizarse de manera personal, por oficio, correo certificado con acuse de recibo, servicio de mensajería, telegrama, fax, vía medios de comunicación electrónica o cualquier otro medio similar que agilice la comunicación.
+
+Todas las notificaciones surtirán sus efectos el mismo día en que se realicen.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 79 Ter.
+
+(De las notificaciones a la persona quejosa o agraviada).
+
+Se notificarán personalmente a la persona quejosa o agraviada:
+
+I. La remisión de la queja a otra autoridad;
+
+II. El requerimiento de información y documentación adicional o aclaración de la queja; y
+
+III. El acuerdo que deseche o tenga por no presentada una queja o recurso de inconformidad.
+
+Las notificaciones personales podrán realizarse por cualquier otro medio de los señalados en el artículo anterior, siempre y cuando la persona quejosa o agraviada manifieste por escrito su consentimiento e indique la vía como se realizará ésta.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 79 Quáter.
+
+(De las notificaciones personales) La notificación personal se entenderá con la persona a quien esté dirigida, su representante legal o las personas autorizadas para ese efecto; a falta de éstos, se dejará citatorio con la persona que se encuentre en el domicilio de la persona destinataria, para que ésta espere a una hora fija al día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en lugar visible.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia, y de negarse ésta a recibirla o, en su caso, de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en lugar visible. Actuaciones que deberán quedar sustentadas mediante acta circunstanciada.
+
+De las diligencias en que conste la notificación, se levantará acta circunstanciada en la que se hará constar la forma cómo se cercioró del domicilio, la personalidad de quien la recibió, fecha y hora en que efectuó la notificación y el acto que se notificó.
+
+Las notificaciones personales podrán practicarse en las oficinas de la Comisión Nacional, cuando acuda la persona quejosa o agraviada. Dichas notificaciones serán válidas aun cuando no se hubieren efectuado en el domicilio respectivo, para lo cual deberá levantarse el acta circunstanciada correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 79 Quinquies.
+
+(De las notificaciones por correo certificado con acuse de recibo) Se notificarán por correo certificado con acuse de recibo a la persona quejosa o agraviada:
+
+I. Los resultados obtenidos de la tramitación del expediente de queja;
+
+II. Las Recomendaciones; y
+
+III. El acuerdo de conclusión del seguimiento de la recomendación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 79 Sexies.
+
+(De las notificaciones a las autoridades o personas en el servicio público) Se notificarán por oficio a las autoridades o personas en el servicio público:
+
+I. Los acuerdos de trámite para que comparezcan;
+
+II. Las recomendaciones;
+
+III. El acuerdo de remisión, atracción, o en su caso, de conclusión de la queja; y
+
+IV. El acuerdo de no responsabilidad.
+
+Las notificaciones por oficio se harán conforme a lo siguiente:
+
+1. Si el domicilio de la oficina principal de la autoridad o persona en el servicio público se encuentra en el lugar en donde la Comisión Nacional tenga oficinas, se hará la entrega, recabando la constancia de recibo correspondiente; en caso de negativa de recibir el documento se levantará un acta circunstanciada de tal hecho y se tendrá por hecha la notificación.
+
+2. Si el domicilio de la autoridad o persona en el servicio público se encuentra fuera del lugar en donde la Comisión Nacional tenga oficinas, se enviará el oficio por correo certificado con acuse de recibo, integrándose las constancias en el expediente correspondiente.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE AGOSTO DE 2013)</small>
 
 ### CAPÍTULO II. De la presentación de la queja y del escrito de queja
@@ -1619,7 +2055,9 @@ De igual manera, todo escrito que se reciba después de que el expediente hubier
 
 La aplicación de las disposiciones del párrafo final del artículo 25 de la Ley, se sujetará a las normas siguientes:
 
-I. Las organizaciones no gubernamentales podrán presentar quejas y ejercer la representación de los quejosos que así lo autoricen ante la Comisión Nacional. En el caso de que se acuda ante la Comisión Nacional a nombre o en representación de una organización no gubernamental será necesario acreditar la constitución legal, la personalidad jurídica y facultades de quienes se ostenten como su o sus representantes. La Comisión Nacional contará con un registro de organizaciones no gubernamentales en el cual se incluirán los nombres de las personas autorizadas para promover en representación de dicha organización no gubernamental;
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+I. Las organizaciones no gubernamentales podrán presentar quejas y ejercer la representación de los quejosos que así lo autoricen, mediante escrito, ante la Comisión Nacional. En el caso de que se acuda ante la Comisión Nacional a nombre o en representación de una organización no gubernamental será necesario acreditar, además de lo anterior, la constitución legal, la personalidad jurídica y facultades de quienes se ostenten como su o sus representantes. La Comisión Nacional contará con un registro de organizaciones no gubernamentales en el cual se incluirán los nombres de las personas autorizadas para promover en representación de dicha organización no gubernamental;
 
 II. Cuando al escrito de queja se adjunten copias de los estatutos de una organización no gubernamental se analizará su contenido para determinar lo relativo a la representación legal. En caso de duda, se podrá solicitar a los comparecientes la documentación respectiva y la autorización para realizar su registro, sin que ello obste para que el expediente de queja continúe su tramitación. Si dentro del plazo que se le señale, no se acreditan las circunstancias anteriores, la queja sólo podrá ser admitida a título personal por quien o quienes la hayan suscrito, siempre y cuando su contenido se hubiere ratificado. Del mismo modo, el escrito de queja de cualquier organización no constituida legalmente, se entenderá promovido sólo por la o las personas que lo hayan suscrito o marcado su huella;
 
@@ -1684,6 +2122,12 @@ Una vez que el escrito de queja haya sido recibido, la Dirección General de Que
 (Asignación y propuesta de calificación del escrito de queja)
 
 Inmediatamente que sea recibido el escrito de queja en la visitaduría general correspondiente, la coordinación de procedimientos internos de la misma lo turnará a la dirección de área respectiva en un plazo máximo de tres días hábiles; el director de área hará saber al director general de visitaduría la propuesta de calificación que proceda y el visitador adjunto tendrá a su cargo el trámite del escrito.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 95 Bis.
+
+Personal del Programa de Atención a Víctimas de Violaciones a Derechos Humanos (PROVÍCTIMA), desde el momento de presentación de la queja, en los casos en que se requiera, realizará el acompañamiento a las víctimas y sus familiares; es decir, que las 24 horas del día, en todas las Oficialías de Partes de la Institución se habilitarán espacios para que personal del programa atienda los requerimientos de las víctimas.
 
 ###### Artículo 96.
 
@@ -1793,6 +2237,14 @@ En los casos en que un quejoso solicite expresamente la reapertura de un expedie
 
 En todo caso, la determinación correspondiente se hará del conocimiento del quejoso y de la autoridad señalada como responsable, si a ésta se le pidieron informes durante la integración del expediente de queja.
 
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 108 Bis.
+
+En casos de violaciones graves a derechos humanos, la persona titular de la Presidencia, así como las y los visitadores generales, podrán revisar las recomendaciones que no hayan sido acordes con los estándares de protección a los derechos humanos reconocidos en el orden jurídico mexicano, por no haberse investigado todos los hechos motivos de la queja que dio origen a la recomendación o por haberse allegado de nuevos datos, con posterioridad a la emisión de la recomendación.
+
+Cuando producto de la revisión, se determine fundadamente que existieron otras violaciones a los derechos humanos que no fueron consideradas en la recomendación, se deberá emitir una nueva.
+
 ###### Artículo 109.
 
 (Entrega de constancias de los expedientes de queja)
@@ -1815,9 +2267,9 @@ De recibirse escrito de inconformidad del quejoso sobre la forma de concluir el 
 
 (Fe pública)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-El Presidente de la Comisión Nacional, los Visitadores Generales, los Visitadores Adjuntos, el Secretario Técnico del Consejo Consultivo, el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y las personas titulares de las áreas a su cargo, tendrán fe pública en el desempeño de sus funciones.
+La persona titular de la Presidencia de la Comisión Nacional, las y los Visitadores Generales, las y los Visitadores Adjuntos, la persona titular de la Secretaría Ejecutiva, la persona titular de la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y las personas titulares de las áreas a su cargo, tendrán fe pública en el desempeño de sus funciones.
 
 Se entenderá por fe pública la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos servidores públicos, sin perjuicio del valor probatorio que en definitiva se les atribuya de conformidad con las normas del artículo 41 de la Ley.
 
@@ -1857,31 +2309,49 @@ En caso de que transcurridos quince días de que el superior jerárquico de la a
 
 Para documentar debidamente las evidencias en un expediente de queja instaurado por presuntas violaciones a derechos humanos, la Comisión Nacional podrá recabar por sí, solicitar la rendición y desahogar todas aquellas evidencias que resulten indispensables para lograr el esclarecimiento de los hechos materia de la presunta violación a derechos humanos.
 
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 116.
 
 (Medidas precautorias o cautelares)
 
-Para los efectos del artículo 40 de la Ley, se entienden por medidas precautorias o cautelares todas aquellas acciones o abstenciones que el visitador general solicite a las autoridades competentes para que, sin sujeción a mayores formalidades, se conserve o restituya a una persona en el goce de sus derechos humanos.
+Se entiende por medidas precautorias o cautelares aquellas acciones o abstenciones de carácter preventivo que la Comisión Nacional solicite a las autoridades competentes, sin sujeción a mayores formalidades, para garantizar la protección oportuna o restitución de los derechos humanos de las personas, cuando deban ser atendidos de manera inmediata, eficaz y sin dilación alguna, y que de violentarse o no restituirse de manera inmediata, se sufran daños irreparables o graves para la persona agraviada.
+
+Para efectos del primer párrafo del artículo 40 de la Ley, se entenderá por medidas cautelares aquellas acciones tendientes a garantizar la seguridad de las personas, y por medidas precautorias las tendientes a garantizar la reparación del daño de la persona agraviada.
+
+Para efectos del segundo párrafo del artículo 40 de la Ley, las medidas requeridas por la Comisión Nacional tendrán un doble carácter, de conservación y restitutorias. Serán de conservación cuando se requiera preservar determinada situación jurídica, derechos humanos o estado de cosas; y serán restitutorias cuando se requiera rehabilitar los derechos humanos violentados.
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 117.
 
 (Requerimiento de medidas precautorias o cautelares)
 
-El visitador general podrá requerir a las autoridades para que adopten medidas precautorias o cautelares ante las noticias de la violación reclamada, cuando ésta se considere grave y sin necesidad de que estén comprobados los hechos u omisiones atribuidos a la autoridad o servidores públicos presuntamente responsables, constituyendo razón suficiente que, de ser ciertos los mismos, resulte difícil o imposible la reparación del daño causado o la restitución al agraviado en el goce de sus derechos humanos.
+La Comisión Nacional podrá requerir a las autoridades que adopten las medidas precautorias o cautelares necesarias cuando derivado de una queja se desprenda alguna situación que pudiera ocasionar daños graves, de difícil o imposible reparación. La Comisión Nacional a través de las personas titulares de las Visitadurías Generales y de la Dirección General de Quejas y Orientación y en ausencia de sus respectivos titulares, mediante la persona titular de la Dirección General de la Visitaduría correspondiente, podrá requerir a las autoridades pertinentes, en cualquier etapa del procedimiento, que adopten las medidas precautorias o cautelares necesarias.
 
-Las medidas precautorias o cautelares solicitadas se notificarán a los titulares de las áreas o a quienes los sustituyan en sus funciones, mediante la utilización de cualquier medio de comunicación escrito o electrónico. Las autoridades o servidores públicos a quienes se haya solicitado una medida precautoria o cautelar contarán con un plazo máximo de tres días para notificar a la Comisión Nacional si dicha medida ha sido aceptada. En caso de que la solicitud se realice por vía telefónica, se estará a lo dispuesto en el artículo 105 de este Reglamento.
+Las medidas precautorias o cautelares solicitadas se notificarán a las autoridades responsables por cualquier medio de comunicación escrito o electrónico; en iguales términos se notificará a la persona agraviada. Las autoridades a quienes se haya solicitado las medidas precautorias o cautelares contarán con un plazo máximo de veinticuatro horas para notificar a la Comisión Nacional su aceptación, en caso contrario, deberán fundamentar su negativa.
 
-Cuando los hechos fueren ciertos y la autoridad a la que se notifique el requerimiento de la Comisión Nacional para que decrete una medida cautelar o precautoria los niegue o no adopte la medida requerida, se hará constar en la recomendación que se emita, una vez realizadas las investigaciones para que se hagan efectivas las responsabilidades del caso. Cuando los hechos violatorios no resulten ciertos, las medidas solicitadas quedarán sin efecto.
+Cuando las autoridades responsables, habiendo aceptado las medidas, no las adopten, esto se hará constar en el oficio de conclusión de medidas y en la recomendación que, en su caso, se emita una vez realizadas las investigaciones para determinar si hubo violaciones a derechos humanos.
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 118.
 
 (Duración de las medidas precautorias o cautelares)
 
-Las medidas precautorias o cautelares se solicitarán, cuando la naturaleza del caso lo amerite, por un plazo de treinta días, el cual podrá ser prorrogado por el tiempo que resulte necesario; en este caso se notificará tres días antes de que culmine el plazo anterior a la autoridad a la que se hubieren solicitado las medidas precautorias o cautelares sobre la solicitud de prórroga y los motivos de la misma.
+Las medidas precautorias o cautelares se solicitarán por un plazo de treinta días, el cual podrá ser prorrogado por el mismo periodo, cuantas veces se requiera; en este caso se notificará tres días antes de que culmine el plazo anterior a la autoridad a la que se hubieren solicitado las medidas precautorias o cautelares sobre la solicitud de prórroga y los motivos de la misma.
 
-La autoridad a la que se le solicite una prórroga de las medidas cautelares o precautorias deberá formular su respuesta dentro de los tres días siguientes; en caso contrario, se entenderá su respuesta en sentido negativo.
+La modificación o ampliación de las medidas deberá tomar en cuenta los hechos del caso, el surgimiento de nuevas personas beneficiarias, la información aportada por las autoridades responsables y el consentimiento de las personas beneficiarias.
 
-Durante el lapso en que se estén ejecutando las medidas precautorias, la Comisión Nacional deberá integrar el expediente de queja y, de ser posible, concluir su estudio y realizar el pronunciamiento de fondo que corresponda.
+Las medidas precautorias o cautelares mantendrán su vigencia por el tiempo que resulte necesario, éste puede ser, hasta que la Comisión Nacional notifique a las partes el oficio de conclusión de medidas o posterior a la emisión de la Recomendación correspondiente.
+
+Cuando los hechos violatorios no resulten ciertos, las medidas solicitadas quedarán sin efecto inmediatamente.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Artículo 118 bis.- (Del registro y seguimiento de las medidas precautorias o cautelares)
+
+Las medidas precautorias o cautelares que sean requeridas por esta Comisión Nacional a las diversas autoridades deberán ser registradas en el Sistema Automatizado para la gestión documental y administración de archivos, cuyo seguimiento corresponde a la Dirección General de Quejas y Orientación con el apoyo necesario de las Visitadurías Generales correspondientes.
 
 ### CAPITULO V. DE LA CONCILIACION
 
@@ -1979,11 +2449,15 @@ Los expedientes de queja serán formalmente concluidos mediante acuerdo que esta
 
 Concluida la investigación y reunidos los elementos de convicción necesarios para probar la existencia de violaciones a derechos humanos, el visitador adjunto lo hará del conocimiento de su superior inmediato a fin de que se inicie la elaboración del proyecto de recomendación correspondiente. Lo anterior, sin menoscabo de lo previsto en los artículos 119 y 120 del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 129.
 
 (Elaboración del proyecto de recomendación)
 
-La elaboración del proyecto de recomendación será realizada por el visitador adjunto de acuerdo con los lineamientos que dicte el visitador general, el director general de visitaduría o los respectivos directores de área. El visitador adjunto tendrá la obligación de consultar los precedentes que sobre casos análogos o similares haya resuelto la Comisión Nacional.
+La elaboración del proyecto de recomendación será realizada por la persona visitadora adjunta de acuerdo con los lineamientos que dicten las personas titulares de las visitadurías generales, de las direcciones generales de visitaduría o de las direcciones de área.
+
+La persona visitadora adjunta tendrá la obligación de atender a los más altos estándares de protección de derechos humanos, observando el parámetro de control de regularidad constitucional, analizando de forma particular y exhaustiva cada una de las presuntas violaciones a los derechos humanos que se adviertan del expediente, bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 ###### Artículo 130.
 
@@ -2001,7 +2475,9 @@ El presidente de la Comisión Nacional estudiará todos los proyectos de recomen
 
 (Contenido de las recomendaciones)
 
-Los textos de las recomendaciones contendrán los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Los textos de las recomendaciones contendrán al menos, los siguientes elementos:
 
 I. Descripción de los hechos violatorios de derechos humanos;
 
@@ -2009,11 +2485,25 @@ II. Enumeración de las evidencias que demuestran la violación a derechos human
 
 III. Descripción de la situación jurídica generada por la violación a derechos humanos y del contexto en el que los hechos se presentaron;
 
-IV. Observaciones, análisis de evidencias, razonamientos lógico-jurídicos y de equidad en los que se soporte la convicción sobre la violación de derechos humanos reclamada, y
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
-V. Recomendaciones específicas, entendidas como las acciones solicitadas a la autoridad para que repare la violación a derechos humanos y, en su caso, instruya el procedimiento que permita sancionar a los responsables.
+IV. Observaciones, razonamiento lógico-jurídicos y de equidad en los que se soporte la convicción sobre la violación de derechos humanos reclamada, a partir de un enfoque de derechos humanos que, de acuerdo con los hechos relevantes del caso, incluya las categorías de género, interseccionalidad, etaria, indígena, territorial, étnica y LGBTTTIQ+;
 
-Cuando del contenido de la recomendación se desprenda la solicitud de inicio de procedimientos administrativos, se remitirá copia a los órganos internos de control correspondientes y se les solicitará, en colaboración, la determinación e informe respecto del procedimiento correspondiente.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+V. Análisis de las pruebas que acrediten las violaciones a derechos humanos;
+
+> <small>(ADICIONADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+VI. Emplear un lenguaje incluyente y no sexista, sencillo que permita a las víctimas y a la ciudadanía comprender su contenido.
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+En los casos en los cuales las víctimas de la violación a los derechos humanos sean niñas, niños, adolescentes, personas mayores y/o personas que por su discapacidad no puedan acceder al contenido de la misma en forma tradicional, se deberá emitir una versión de lectura fácil.
+
+> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+En los casos en los cuales las víctimas de la violación a los derechos humanos sean personas indígenas, se deberá emitir una versión en su lengua o dialecto.
 
 ###### Artículo 133.
 
@@ -2101,7 +2591,9 @@ La Comisión Nacional también podrá emitir recomendaciones generales a las div
 
 Las recomendaciones generales contendrán en su texto los siguientes elementos: 1. Antecedentes; 2. Situación y fundamentación jurídica; 3. Observaciones, y 4. Recomendaciones.
 
-Las recomendaciones generales no requieren aceptación por parte de las autoridades a quienes vayan dirigidas. Se publicarán en la Gaceta y en el Diario Oficial de la Federación. El registro de las recomendaciones generales se realizará de forma separada, y la verificación del cumplimiento se hará mediante la realización de estudios generales.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+
+Las recomendaciones generales no requieren aceptación por parte de las autoridades a quienes vayan dirigidas. Se publicarán en la Gaceta y en el Diario Oficial de la Federación. El registro de las recomendaciones generales se realizará de forma separada, y la verificación del cumplimiento se hará mediante la realización de estudios generales, donde conste el alcance de su cumplimiento.
 
 ### CAPITULO VIII. DE LOS DOCUMENTOS DE NO RESPONSABILIDAD
 
@@ -2636,3 +3128,13 @@ PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión 
 SEGUNDO. El presente Acuerdo entrará en vigor a la firma del presente acuerdo y surtirá sus efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO. La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en la Gaceta y en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
+
+Primero. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+Segundo. Entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. El Manual de Organización General de la Comisión Nacional de los Derechos Humanos, que refleje las modificaciones realizadas al Reglamento Interno, será expedido dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
