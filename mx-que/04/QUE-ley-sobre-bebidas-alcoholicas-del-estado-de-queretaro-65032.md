@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-bebidas-alcoholicas-del-estado-de-queretaro-65032"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2021-09-30"
+last_updated: "2021-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1187 +21,941 @@ state: "QUE"
 ---
 # LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO
 
-LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
-Ley publicada en la Décima Tercera Sección del Número 33 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 27 de diciembre de 2021.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
 
-ALFREDO RAMÍREZ BEDOLLA, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+LIC. FRANCISCO GARRIDO PATRÓN,
 
-DECRETO
+Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA
+LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 17 FRACCIÓN II Y 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, Y
 
-NÚMERO 120
+CONSIDERANDO:
 
-APARTADO PRIMERO. Se expide la Ley de Hacienda del Estado de Michoacán de Ocampo para quedar como sigue:
+.
 
-## TÍTULO PRIMERO. DE LA HACIENDA PÚBLICA DEL ESTADO
+Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
-### CAPÍTULO ÚNICO. DIPOSICIONES GENERALES
+LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO
 
-###### ARTÍCULO 1.
+### Capítulo Primero. Disposiciones Generales
 
-La Hacienda Pública del Estado de Michoacán de Ocampo, para los efectos de esta Ley, se constituye con los ingresos que perciba el Gobierno del Estado de Michoacán de Ocampo en cada ejercicio fiscal, por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, ingresos por venta de bienes, participaciones e incentivos en ingresos federales, aportaciones federales, transferencias federales y municipales por convenio, financiamientos, apoyos extraordinarios de la Federación, o ingresos extraordinarios percibidos por las dependencias bajo cualquier concepto y cualesquiera otros que anualmente se establezcan como ingreso, para cubrir los gastos públicos generados por el ejercicio de la función pública a su cargo.
+###### Artículo 1.
 
-Asimismo, constituye la hacienda pública del Estado los bienes muebles, incluyendo cuentas bancarias e inmuebles adjudicados e inventariados a nombre de éste, necesarios para el ejercicio de la función pública.
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de Querétaro.
 
-El Estado se considerará de acreditada solvencia y no estará obligado por tanto a constituir depósitos o fianzas legales, ni aun tratándose de juicios administrativos y judiciales. Los bienes que conforman la hacienda pública del Estado, afectos a la prestación de sus servicios serán inembargables.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTÍCULO 2.
+Corresponde su aplicación al Poder Ejecutivo del Estado, por conducto de las Secretarías de Gobierno y de Finanzas, así como a los municipios en su esfera competencial. También coadyuvarán en ello, las Secretarías de Seguridad Ciudadana, de Educación Pública, la de Salud, el organismo descentralizado Servicios de Salud del Estado de Querétaro y las áreas encargadas de Seguridad Pública y Tránsito en los Municipios del Estado.
 
-Las contribuciones y demás conceptos de ingreso que se regulan por este ordenamiento, deberán estar contenidas como un ingreso en la Ley anual de Ingresos del Estado correspondiente o por Ley posterior a ella para sustentar su cobro y se materialice su recaudación. Los montos de las contribuciones y demás conceptos referidos, incluyéndose cualquier otro concepto de ingreso extraordinario, son los que proporcionan las entidades del Poder Ejecutivo del Estado, para la estimación de los Ingresos del ejercicio fiscal correspondiente.
+Será de aplicación supletoria a esta Ley, lo dispuesto en el Código Fiscal del Estado de Querétaro, cuando no sea contrario a la naturaleza de la presente.
 
-Solo podrá destinarse un ingreso a un fin específico, fiscal o extra fiscal, cuando así lo disponga expresamente esta Ley, la Ley de Ingresos del Estado, o el Presupuesto de Egresos.
+###### Artículo 2.
 
-Para los efectos de esta Ley, en los aspectos relativos a procedimientos, infracciones, sanciones, delitos, medios de defensa y facultades de las autoridades fiscales, se aplicará lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
+Son objeto de regulación de esta Ley, todas aquellas actividades que se desarrollen en el Estado de Querétaro, relacionadas con el almacenaje, venta y porteo de bebidas alcohólicas que realicen personas físicas o morales, su consumo y el funcionamiento de los establecimientos y lugares donde se expendan o almacenen.
 
-Las disposiciones fiscales que establezcan cargas a las personas, incluidas las asociaciones en participación, las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a las personas, incluidas las asociaciones en participación las normas que se refieren al sujeto, objeto, base, tasa o tarifa de las contribuciones.
+###### Artículo 3.
 
-Las demás disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. El Código Fiscal del Estado de Michoacán de Ocampo, se aplicará de manera supletoria y a falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
+Se consideran bebidas alcohólicas, aquellas que contengan alcohol etílico en una proporción de dos por ciento y hasta cincuenta y cinco por ciento de su volumen. Las que contengan una proporción mayor de alcohol etílico a la última mencionada, no podrán ser consideradas, ni comercializadas como bebidas alcohólicas.
 
-## TÍTULO SEGUNDO. DE LOS IMPUESTOS
+Para fines de esta Ley, las bebidas, por su contenido alcohólico, se clasifican en:
 
-###### ARTÍCULO 3.
+a. De contenido alcohólico bajo, con una graduación alcohólica de dos por ciento hasta seis por ciento de su volumen.
 
-Es objeto del Impuesto sobre Loterías, Rifas, Sorteos y Concursos, la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+b. De contenido alcohólico medio, con una graduación alcohólica de seis punto uno por ciento y hasta veinte por ciento de su volumen.
 
-Para los efectos de este Impuesto, no se considera como premio el reintegro correspondiente al billete que permitió participar en loterías.
+c. De contenido alcohólico alto, con una graduación alcohólica de veinte punto uno por ciento y hasta cincuenta y cinco de su volumen.
 
-#### SECCIÓN II. DEL SUJETO
+No se considera bebida alcohólica el alcohol no potable o aquel cuyo consumo se haga por métodos distintos a la ingestión directa.
 
-###### ARTÍCULO 4.
+###### Artículo 4.
 
-Son sujetos de este Impuesto las personas físicas o morales que obtengan ingresos derivados de premios por loterías, rifas, sorteos y concursos cuyo billete, boleto, contraseña o cualquier comprobante que permita participar en los eventos, le haya sido pagado dentro del territorio del Estado.
+Para los efectos de la presente, se entenderá por:
 
-#### SECCIÓN III. DE LA BASE, TASA Y PAGO DEL IMPUESTO
+a. Almacenaje: Actividad dirigida a conservar bebidas alcohólicas en forma transitoria, con carácter de mercancía.
 
-###### ARTÍCULO 5.
+b. Clandestinaje: Al almacenaje, venta o porteo de bebidas alcohólicas, sin contar con la licencia o permiso correspondiente vigente, o bien, que teniéndolos no correspondan al domicilio del establecimiento o lugar señalado en dicho documento.
 
-El Impuesto a que se refiere este Capítulo, se determinará aplicando la tasa del 6% al monto total del ingreso por los premios obtenidos correspondientes a cada boleto o billete entero, sin deducción alguna; que será retenido al momento de la entrega de los premios de que se trate, por los organismos descentralizados a que se refiere el artículo 3 de esta Ley, quienes lo enterarán a la Secretaría de Finanzas y Administración, dentro de los primeros quince días hábiles del mes siguiente, a aquel en que se hayan cobrado.
+c. Consumo: La ingestión de bebidas alcohólicas en los establecimientos y lugares autorizados o no, en los términos de la presente Ley.
 
-Para efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados de la Administración Pública Federal formularán y proporcionarán a la Secretaría de Finanzas y Administración, liquidaciones mensuales en las que se señalen los datos relativos a la identificación de los premios pagados e impuesto retenido en el territorio del Estado.
+d. Establecimiento o local: Lugar en el que se distribuyan, enajenen o se expendan bebidas alcohólicas.
 
-De los ingresos derivados de este Impuesto que obtenga el Estado, participarán los municipios con un 80%, distribuyéndoseles lo que a cada uno corresponda, conforme a lo dispuesto por la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo.
+e. Giro: Característica comercial del local o establecimiento para el que se expida la licencia.
 
-### CAPÍTULO I. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
+f. Interés Social: Valoración atribuida a los fines que persigue la sociedad, respecto a la toma de decisiones de la autoridad, con la finalidad de mantener salvaguardado el derecho social por encima de los derechos particulares.
 
-#### SECCIÓN I. DEL OBJETO
+g. Ley: La Ley sobre Bebidas Alcohólicas del Estado de Querétaro.
 
-###### ARTÍCULO 6.
+h. Licencia: Documento expedido por la Secretaría de Gobierno que permite, hasta por el término de un año, el almacenaje, venta, consumo o porteo de bebidas alcohólicas, a personas físicas o morales, en los establecimientos y lugares que ésta regula, sujeto a refrendo anual y para un domicilio y giro específico. Las licencias terminarán su vigencia en el último día del mes de julio de cada año.
 
-Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados, cuyo año modelo corresponda al de aplicación de la Ley de Ingresos del Estado al momento de realizar la enajenación y al del año posterior siguiente, así como a los nueve años modelo anteriores al de aplicación de dicha Ley, que se realicen entre personas físicas en el territorio del Estado de Michoacán de Ocampo. Asimismo, están obligadas a retener y enterar este impuesto, las personas jurídicas colectivas que reciban en consignación vehículos automotores usados y los enajenen.
+i. Orden Público: Conjunto de principios de orden superior, políticos, económicos y morales, obligatorios e irrenunciables, que persiguen la armonía social.
 
-Se exceptúa de lo dispuesto en este artículo, la enajenación de vehículos de motor usados por la que se cause el Impuesto al Valor Agregado, así como las compras de vehículos efectuadas por empresas cuyo giro sea compraventa de vehículos automotores siempre que hayan sido adquiridos a personas físicas que no realicen actividades empresariales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-###### ARTÍCULO 7.
+j. Permiso: Documento expedido por la Secretaría de Gobierno, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase cerrado, abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta Ley o a otros ordenamientos aplicables o porque así lo requiera el interés público.
 
-Para los efectos del Impuesto a que se refiere este Capítulo, se considera enajenación de vehículos:
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
-I. Toda transmisión de la propiedad sobre vehículos de motor, aún en la que el enajenante se reserve el dominio;
+Se podrán otorgar los permisos provisionales necesarios en su caso, hasta la conclusión del trámite de expedición de licencia correspondiente y de conformidad con las disposiciones normativas aplicables.
 
-II. La donación y la sucesión;
+k. Porteo: La acción de trasladar, en el territorio estatal, bebidas alcohólicas de un lugar a otro para distribuirlas con fines comerciales.
 
-III. La aportación a una sociedad o asociación;
+l. Refrendo: Acto administrativo emitido por la Secretaría de Gobierno, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año.
 
-IV. La dación en pago; y,
+m. Reglamento: El que expida el Poder Ejecutivo del Estado de Querétaro, para proveer la aplicación y observancia de esta Ley en la circunscripción territorial y conforme al ámbito de competencia que le corresponda.
 
-V. La permuta.
+n. Reglamento Municipal: El que expidan los municipios del Estado de Querétaro, para proveer la aplicación y observancia de la presente Ley en la circunscripción territorial que les corresponda.
 
-En las permutas se considerará que se efectúan dos enajenaciones.
+o. Regularización de Licencia: Modificaciones efectuadas por la Secretaría de Gobierno a las licencias otorgadas, previa solicitud del interesado, una vez cubiertos los requisitos procedentes que señale la presente Ley y demás disposiciones aplicables.
 
-Cuando se trate de permuta de dos o más vehículos, se considera que se realiza doble o triple enajenación, según corresponda.
+p. Revocación: Acto administrativo público, debidamente fundado y motivado de manera suficiente, clara y precisa, que declara extinguidos los derechos que se desprenden de las licencias, cuando así lo exija el interés público o cuando se contravenga la presente Ley.
 
-En este caso, deberán de entregar la constancia de retención correspondiente a la persona física o jurídica colectiva que adquiera el vehículo dentro de los quince días hábiles siguientes a la fecha en que se realice la enajenación, en la que se indicarán los datos del propietario anterior, el valor de la operación, el monto del impuesto retenido y los datos de identificación del vehículo.
+q. Venta: Comercialización de bebidas alcohólicas.
 
-###### ARTÍCULO 8.
+###### Artículo 5.
 
-Para los efectos del Impuesto a que se refiere este Capítulo, se considera, salvo prueba en contrario, que la enajenación se efectuó en el Estado de Michoacán de Ocampo, cuando al realizar las funciones y actividades de registro y control de vehículos a que se refiere el título de esta Ley relativo a los Derechos, se compruebe al menos alguno de los supuestos siguientes:
+En el Estado de Querétaro, sólo se podrá almacenar y vender bebidas alcohólicas en los establecimientos y lugares autorizados, de conformidad con las disposiciones de esta Ley. El porteo de las bebidas alcohólicas, requiere autorización en los términos establecidos en la presente. Su consumo quedará restringido en los casos a que la misma se refiere.
 
-I. Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo de que se trate;
+### Capítulo Segundo. Competencia de las autoridades
 
-II. Que el endoso a que se refiere la fracción anterior, no contenga lugar de operación;
+###### Artículo 6.
 
-III. Que al vehículo de que se trate se le hayan asignado placas del Estado de Michoacán de Ocampo, aun cuando el endoso haya sido fechado en otra Entidad Federativa; y,
+Es competencia de la Secretaría de Gobierno:
 
-IV. Que la documentación comprobatoria de pago de otros impuestos o derechos a que esté afecto el propietario del vehículo de que se trate, haya sido expedida por autoridades estatales.
+I. Expedir las licencias y permisos en materia de alcoholes correspondientes, en términos de lo dispuesto en este ordenamiento;
 
-#### SECCIÓN II. DE LOS RESPONSABLES SOLIDARIOS
+II. Otorgar el refrendo de las licencias en materia de alcoholes que expida en los términos de la presente Ley;
 
-###### ARTÍCULO 9.
+III. Llevar a cabo el procedimiento de suspensión de los derechos y renovación de las licencias y permisos que haya expedido en los términos de la presente Ley, de conformidad con lo previsto en el Capítulo Décimo de la misma;
 
-Son responsables solidarios del pago del Impuesto a que se refiere este Capítulo:
+IV. Verificar, en relación con las licencias y permisos para el almacenaje, venta, porteo y consumo de bebidas alcohólicas, la vigencia de las mismas y el exacto cumplimiento de las obligaciones de quienes son titulares y el cumplimiento de requisitos por quienes las soliciten;
 
-I. El adquirente, tanto por el endoso a su favor, como por los anteriores, si no comprueba el pago de este Impuesto, mediante la exhibición de los recibos oficiales correspondientes; y,
+V. Establecer el número de licencias o permisos que se podrán autorizar como máximo en una localidad o zona geográfica, conforme a las disposiciones reglamentarias;
 
-II. Los servidores públicos que autoricen cualquier trámite de registro y control de vehículos a que se refiere el título de esta Ley relativo a los Derechos, sin haberse cerciorado del pago correspondiente.
+VI. Hacer del conocimiento de los municipios y, de considerarlo necesario, a las dependencias competentes, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen; y
 
-#### SECCIÓN III. DE LA BASE Y DE LA TASA
+VII. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El Impuesto a que se refiere este Capítulo se calculará y pagará aplicando la tasa del 2.5% sobre el importe que resulte de aplicar al importe total consignado en la factura original que ampare la propiedad del vehículo de que se trate, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado, los factores que se señalan en la tabla siguiente:
+###### Artículo 7.
 
-Año de antigüedad respecto al de aplicación Factor de
+Es competencia y obligación de la Secretaría de Finanzas:
 
-de la Ley de Ingresos del Estado aplicación
+I. Expedir y ejecutar órdenes de inspección y verificación a los establecimientos y lugares previstos en este ordenamiento;
 
-Mismo año a que corresponda la Ley y año posterior siguiente 0.800
+II. Determinar e imponer las multas por infracciones que se conozcan con motivo de los actos de inspección y verificación, realizados por personal autorizado adscrito a esa Secretaría, salvo en los casos señalados en las fracciones XX y XXI del artículo 46 de este ordenamiento;
 
-1° año anterior al de aplicación de la Ley 0.750
+III. Hacer del conocimiento de la Secretaría de Gobierno, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen;
 
-2°° (sic) año anterior al de aplicación de la Ley 0.700
+IV. Efectuar el cobro coactivo de las multas que impongan las autoridades estatales y que deriven de infracciones a la presente Ley; y
 
-3° año anterior al de aplicación de la Ley 0.650
+V. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
 
-4° año anterior al de aplicación de la Ley 0.600
+###### Artículo 8.
 
-5° año anterior al de aplicación de la Ley 0.550
+Es competencia de los municipios del Estado:
 
-6° año anterior al de aplicación de la Ley 0.500
+I. Expedir los dictámenes de factibilidad;
 
-7° año anterior al de aplicación de la Ley 0.450
+II. Establecer los días y horarios de funcionamiento de los establecimientos que regula esta ley;
 
-8° año anterior al de aplicación de la Ley 0.400
+III. Expedir y ejecutar órdenes de inspección y verificación de los establecimientos y lugares a que se refiere esta Ley; con excepción de las relativas a materia de salud, cuyo ejercicio compete a las autoridades sanitarias estatales;
 
-9° año anterior al de aplicación de la Ley 0.350
+IV. Determinar e imponer las sanciones a que se refiere la fracción I del artículo 47 del presente ordenamiento, por infracciones que se conozcan con motivo de los actos de inspección o verificación realizados por personal municipal autorizado;
 
-#### SECCIÓN IV. DE LAS OBLIGACIONES Y DEL PAGO
+V. Proceder a la clausura inmediata cuando de inspección o verificación se observe que el establecimiento o lugar inspeccionado o verificado no cuente con las condiciones y medidas que prevé el presente ordenamiento y las disposiciones legales aplicables;
 
-###### ARTÍCULO 11.
+VI. Hacer del conocimiento de la Secretaría de Gobierno, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen;
 
-Los sujetos del Impuesto a que se refiere este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del artículo 9 de esta Ley, efectuarán el pago correspondiente dentro de los quince días hábiles siguientes a la fecha de cesión de los derechos, conforme al documento que ampare la propiedad del vehículo objeto de la enajenación, del cual exhibirán el original y proporcionarán las copias que requiera la Secretaría de Finanzas y Administración, al realizarse el trámite de registro y control de vehículos conforme a lo dispuesto en el título de esta Ley relativo a los Derechos.
+VII. Efectuar el cobro coactivo de las multas que impongan las autoridades municipales y que deriven de infracciones a la presente Ley; y
 
-Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante la Secretaría de Finanzas y Administración, al realizarse el trámite a que se refiere el párrafo anterior.
+VIII. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO II. DEL IMPUESTO SOBRE ENAJENACIÓN DE VEHÍCULOS DE MOTOR USADOS
+###### Artículo 9.
 
-#### SECCIÓN I. DEL OBJETO Y DEL SUJETO
+En esta materia, la Secretaría de Educación del Estado deberá implementar campañas de orientación y prevención de adicciones, en sus programas educativos anuales.
 
-###### ARTÍCULO 12.
+###### Artículo 10.
 
-Los servidores públicos de la Secretaría de Finanzas y Administración, no tramitarán ninguna solicitud de alta, baja o cambio de propietario de vehículos, por los cuales no se hubiese pagado el impuesto causado conforme a las disposiciones de este Capítulo.
+Es competencia y obligación de las autoridades sanitarias estatales:
 
-###### ARTÍCULO 13.
+I. Ejercer el control y regulación sanitaria de los establecimientos que produzcan, expendan o suministren bebidas alcohólicas en el Estado;
 
-Están obligados al pago del Impuesto sobre Servicios de Hospedaje, las personas físicas o morales que a cambio de una contraprestación en dinero, presten dentro del territorio del Estado de Michoacán de Ocampo, los servicios turísticos de alojamiento o albergue en hoteles, moteles, posadas, mesones, hosterías, campamentos, villas, cabañas, bungalows, casas de huéspedes, haciendas o en cualquier otro establecimiento destinado a dar hospedaje, independientemente de su denominación, aun y cuando los mismos se oferten, anuncien, contraten, reserven o se concreten, mediante aplicaciones, plataformas o contenidos en formato digital a través de Internet u otra red, sean o no automatizados, pudiendo o no requerir una intervención humana.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-#### SECCIÓN II. DE LA BASE Y DE LA TASA
+II. Vigilar que en los establecimientos que expendan bebidas alcohólicas, éstas ostenten las etiquetas correspondientes que garanticen la calidad sanitaria; así como que el agua natural purificada no embotellada que otorguen de forma gratuita en caso de ser establecimientos TIPO I y II, sea de calidad sanitaria apta para el consumo humano;
 
-### CAPÍTULO III. DEL IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
+III. Coordinar con las autoridades sanitarias federales, la programación y ejecución de programas contra el alcoholismo; y
 
-#### SECCIÓN I. DEL OBJETO Y SUJETO
+IV. Las demás que deriven de las disposiciones de la Ley de Salud del Estado de Querétaro y demás disposiciones legales aplicables.
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El Impuesto sobre Servicios de Hospedaje se calculará aplicando la tasa del 3% al importe de la contraprestación que se obtenga por los servicios a que se refiere el artículo anterior.
+La Secretaría de Salud, Servicios de Salud del Estado de Querétaro y la Dirección de Fomento y Regularización Sanitaria, deberán remitir a la Secretaría de Gobierno y a la Secretaría de Finanzas dentro de los diez días siguientes a la fecha en que tenga conocimiento de las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones, que se realicen en los establecimientos y lugares previstos en la presente Ley, en el ejercicio de sus atribuciones, un informe, acompañado de copia del dictamen que emita.
 
-Los contribuyentes trasladarán este impuesto, en forma expresa y por separado, en los comprobantes que expidan a favor de las personas que reciban el servicio. Este comprobante deberá ser el mismo en que conste la translación expresa y por separado del Impuesto al Valor Agregado, conforme a lo dispuesto por el artículo 1° de la ley que regula dicho impuesto, como comprobante de las actividades por las que el mismo se causa y que por lo tanto deberán cumplir los mismos requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
+###### Artículo 11.
 
-Se entenderá por traslado del impuesto, el cobro que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en esta Ley.
+Es obligación y competencia de la Secretaría de Seguridad Ciudadana:
 
-Para los efectos de este impuesto, no forma parte de las contraprestaciones que se obtengan por servicios de hospedaje, las contraprestaciones que se obtengan por servicios de alimentación y demás servicios relacionados.
+I. Expedir y ejecutar órdenes de inspección o verificación para determinar si los establecimientos y lugares en donde se almacenen, vendan o consuman bebidas alcohólicas reúnen o no las condiciones y medidas de seguridad que establece la Ley de la materia y las disposiciones previstas en las Normas Oficiales Mexicanas correspondientes;
 
-En ningún caso se considerará que el Impuesto al Valor Agregado forma parte de la base de este impuesto.
+II. Proceder a la Clausura inmediata cuando de la inspección o verificación se observe que el establecimiento o lugar inspeccionado o verificado, no cuente con las condiciones y medidas de seguridad necesarias;
 
-#### SECCIÓN III. DE LAS OBLIGACIONES Y DEL PAGO
+III. Remitir a la Secretaría de Gobierno, el dictamen de la inspección o verificación que realice, de acuerdo con lo previsto en la fracción I de este artículo, dentro de los diez días siguientes a la fecha en que se lleve a cabo; y
 
-###### ARTÍCULO 15.
+IV. Las demás que le confieren la presente Ley, la ley en la materia y otras disposiciones aplicables.
 
-El impuesto que regula este Capítulo se calculará por ejercicios fiscales, que coincidirán con el año de calendario. Cuando se inicien actividades con posterioridad al 1o de enero, el ejercicio fiscal será irregular, iniciándose el día en que comiencen las actividades según el aviso de inscripción en el Registro Estatal de Contribuyentes y terminará el 31 de diciembre del año de que se trate.
+La Secretaría de Seguridad Ciudadana, se coordinará con las Unidades de Protección Civil y demás autoridades municipales para la vigilancia y aplicación de la presente Ley.
 
-Los sujetos del impuesto deberán efectuar pagos provisionales mensuales en la oficina recaudadora que corresponda a su domicilio, a través de medios electrónicos en los sitios de internet o en la sucursal que elijan de las instituciones bancarias que en su caso, se autoricen por la Secretaría de Finanzas y Administración, por cada uno de los establecimientos en los que se preste el servicio objeto de este impuesto, mediante declaración que deberá presentarse a más tardar el 17 del mes siguiente, a aquel al que el impuesto corresponda.
+### Capítulo Tercero. Establecimientos y lugares regulados
 
-Para efectos de la determinación del monto de los pagos provisionales, se deberá considerar también como base, el importe de los anticipos que en su caso, se reciban por reservaciones de los servicios objeto de este impuesto, dentro del mes en que estos hechos ocurran y el saldo en el mes en que se presten los servicios contratados.
+###### Artículo 12.
 
-El Impuesto del ejercicio, deducidos los pagos provisionales se pagaran mediante declaración anual que se presentará en las oficinas señaladas en el segundo párrafo de este Artículo, a más tardar el 31 de marzo del año siguiente a aquel en que se cause el Impuesto.
+La Secretaría de Gobierno podrá expedir las distintas clases de licencias y permisos correspondientes a los establecimientos y lugares regulados por esta Ley, que señale la Ley de Hacienda del Estado de Querétaro de acuerdo a los elementos y clasificación siguiente:
 
-Cuando los días 17 y 31, a que se refieren los párrafos anteriores, sea un día inhábil o las oficinas de la autoridad se encuentren cerradas, el plazo se prorrogará, conforme al «calendario de pago» que se establece en la fracción II del artículo 47 de esta Ley.
+I. Zona: de acuerdo a la ubicación del establecimiento en:
 
-###### ARTÍCULO 16.
+a. Urbana. Tratándose de poblaciones con más de dos mil quinientos habitantes.
 
-Procederá el acreditamiento de este impuesto, en declaraciones provisionales o del ejercicio, únicamente cuando se realicen cancelaciones de servicios comprometidos por los que se hayan recibido anticipos u otorgado descuentos o bonificaciones, siempre que previamente se haya pagado el impuesto.
+b. Rural. Tratándose de poblaciones con menos de dos mil quinientos habitantes.
 
-El acreditamiento a que se refiere el párrafo anterior, podrá efectuarse siempre y cuando se compruebe la devolución de los anticipos, la realización de los descuentos o bonificaciones mediante las notas de crédito que en cada caso se expidan y se realizará en la declaración provisional o del ejercicio que se presente por el mes o ejercicio en que se efectúan las devoluciones de anticipos, descuentos o bonificaciones.
+II. Autorización: De acuerdo a la bebida alcohólica permitida para su almacenaje, venta, porteo y consumo, podrán ser:
 
-###### ARTÍCULO 17.
+a. Pulque: considerando como tal la bebida alcohólica fermentada de maguey.
 
-Los obligados al pago de este impuesto, además de las obligaciones señaladas en otros artículos de este Capítulo, tienen
+b. Cerveza: considerando como tal la bebida de contenido alcohólico medio, fermentada de granos de cebada y sus similares.
 
-las siguientes:
+c. Licor artesanal: considerando como tal la bebida alcohólica normalmente dulce, con sabor a frutas, hierbas, crema o especias, preparado de manera artesanal.
 
-I. Inscribirse en la oficina recaudadora que corresponda a su domicilio, dentro de los treinta días hábiles siguientes a la fecha de iniciación de las actividades objeto de este impuesto, proporcionando copia de inscripción en el Registro Federal de Contribuyentes, presentada ante la Secretaría de Hacienda y Crédito Público, en que conste la información relacionada con su identidad, domicilio, nombre comercial y ubicación de cada establecimiento y en general sobre los demás datos que permitan su identificación precisa, para los efectos de este impuesto, debiendo presentar asimismo, copia de la cédula de identificación fiscal que le haya sido expedida; así como copia del acta constitutiva donde conste el nombre del representante legal de la persona moral. En caso de no estar especificado en dicha acta, anexar copia del poder notarial expedido al representante legal, así como copia fotostática legible del documento donde conste el Número de Registro Patronal, expedido por el Instituto Mexicano del Seguro Social;
+d. Vino de Mesa: considerando como tal la bebida generosa cuyo proceso de preparación es mediante la fermentación de uva, de graduación alcohólica de contenido medio.
 
-II. Presentar ante las mismas oficinas a que se refiere la fracción anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Federal de Contribuyentes. Para efectos de lo dispuesto en esta fracción, se aplicarán supletoriamente las disposiciones que regulan esta materia, establecidas en el Código Fiscal de la Federación y su Reglamento;
+e. Vino: considerando como tal el resto de las bebidas alcohólicas independientemente de cualquiera que sea su proceso de preparación o su graduación alcohólica.
 
-III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos que se señalen en el documento respectivo; y,
+III. Tipo y giro: del establecimiento serán:
 
-IV. Registrar en la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, cada operación de prestación de servicios por la que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso.
+TIPO I. Establecimientos autorizados en los que la venta de bebidas alcohólicas se realiza en envase abierto o al copeo, para consumirse dentro del mismo local o donde se oferten, y que pueden ser:
 
-###### ARTÍCULO 18.
+1. Cantina: Establecimiento con acceso únicamente para personas mayores de edad, en el que se venden bebidas alcohólicas.
 
-No se pagará el impuesto por la prestación de los servicios siguientes:
+2. Cervecería: Establecimiento con acceso únicamente para personas mayores de edad, dedicado exclusivamente a la venta de cerveza al menudeo, de cualquier tipo y forma de envase.
 
-I. Hospedaje para estudiantes en domicilios familiares;
+3. Pulquería: El establecimiento con acceso únicamente para personas mayores de edad, dedicado exclusivamente a la venta de pulque al menudeo, ya sea de barril o envasado.
 
-II. Alojamiento en hospitales, clínicas, asilos, conventos e internados; y,
+4. Club social y similares: Aquellos centros de reunión que se sostengan con la cooperación de sus socios, sean de uso exclusivo de los mismos y realicen actividades recreativas, culturales y deportivas, en donde pueden venderse bebidas alcohólicas.
 
-III. Albergue a personas damnificadas por desastres naturales.
+5. Discoteca: Establecimiento con acceso únicamente para personas mayores de edad, que cuenta con pista para bailar y ofrece música continua, grabada o en vivo, en donde pueden venderse bebidas alcohólicas.
 
-###### ARTÍCULO 19.
+6. Bar: Establecimiento con acceso únicamente para personas mayores de edad, en donde se venden preponderantemente bebidas alcohólicas, salvo que la actividad que se realice en el mismo esté prevista en la presente Ley como un giro específico.
 
-De los recursos que se obtengan de la recaudación del impuesto sobre servicios de hospedaje, se destinará el equivalente al cien por ciento de lo recaudado, para la realización de acciones de fomento y promoción de la actividad turística del Estado, los que se aplicarán a través de un único fideicomiso creado para ese fin, en el que participarán los prestadores de servicios objeto de este impuesto, a través de los dirigentes de la organización empresarial que legalmente los agrupe.
+7. Centro nocturno: Establecimiento con acceso únicamente para personas mayores de edad, en donde se presentan espectáculos o variedades, cuenta con pista de baile, música en vivo o grabada, y se venden bebidas alcohólicas.
 
-###### ARTÍCULO 20.
+8. Salón de Eventos: Establecimiento en el cual se realizan eventos de carácter privado, cuyo aforo y características correspondan a las que determine la Dirección de Gobierno y donde pueden consumirse bebidas alcohólicas.
 
-Se encuentran obligadas al pago del impuesto a la venta final de bebidas con contenido alcohólico, las personas físicas y morales que realicen en el territorio del Estado de Michoacán de Ocampo la venta final de bebidas con contenido alcohólico, con excepción de la cerveza, el aguamiel y productos derivados de su fermentación al ser estos, campos exclusivos a gravar por la Federación.
+9. Salón de Fiestas: Establecimiento en el cual se realizan eventos sociales o familiares cuyo aforo y características correspondan a las que determine la Dirección de Gobierno y donde, de manera eventual, pueden consumirse bebidas alcohólicas.
 
-###### ARTÍCULO 21.
+10. Hotel o Motel: Establecimiento que ofrece hospedaje con servicios complementarios de venta de bebidas alcohólicas en su bar, restaurante o servicio a cuarto.
 
-Para efectos del presente impuesto, se entenderá como venta final, la enajenación que se efectúa en el territorio del Estado de Michoacán de Ocampo, cuando en este mismo territorio, se realice la entrega material de los bienes objeto de este Capítulo, por parte del importador, productor, envasador o distribuidor, según sea el caso, para su posterior venta al público en general o consumo.
+11. Billar: Establecimiento dedicado al esparcimiento mediante la renta de mesas de billar, con acceso exclusivo para personas mayores de edad, en la que se venden bebidas alcohólicas.
 
-Asimismo, se considerará venta final, el faltante de inventario o el consumo propio de las bebidas con contenido alcohólico objeto del
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2012)</small>
 
-presente gravamen.
+11 bis. Centro de juegos: Establecimiento con acceso únicamente para personas mayores de edad, donde se practiquen apuestas remotas y juegos de sorteos de números y vendan bebidas alcohólicas, y cuenten con música en vivo o grabada.
 
-Para los efectos de este artículo, se entenderá como bebidas con contenido alcohólico, aquellas que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
+Las licencias para este tipo de lugares, se otorgarán siempre y cuando el permisionario cuente con la autorización vigente expedida por la Secretaría de Gobernación para establecer centros de apuestas remotas y salas de sorteos de números, con apego a la legislación federal aplicable.
 
-### CAPÍTULO IV. DEL IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+TIPO II. Establecimientos autorizados en los que se venden bebidas alcohólicas en envase abierto o al copeo, y que únicamente pueden consumirse acompañadas con alimentos dentro del mismo local o donde se oferten éstos, y que pueden ser:
 
-###### ARTÍCULO 22.
+12. Restaurante: Establecimiento dedicado a la preparación y venta de alimentos en el que pueden consumirse bebidas alcohólicas, por lo cual deberá contar con instalaciones de cocina.
 
-El impuesto se determinará aplicando la tasa del 4.5% sobre el precio de la venta final de las bebidas con contenido alcohólico, sin incluir los impuestos al valor agregado, ni especial sobre producción y servicios.
+13. Fonda, Cenaduría, Lonchería, Ostionería, Marisquería y Taquería: Establecimientos en los que de forma accesoria a la venta de alimentos preparados se vende cerveza.
 
-En el precio de la venta final no deberá trasladarse o señalarse en forma expresa y por separado, a las personas que adquieran las bebidas, por lo que el traslado del impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo los oficiales.
+14. Café Cantante; Establecimiento en el que se realizan actividades de carácter artístico y cultural, con venta de café o alimentos y en forma accesoria bebidas alcohólicas.
 
-###### ARTÍCULO 23.
+15. Centro Turístico y Balneario: Aquellos lugares que por sus características, a juicio de la autoridad, constituyen sitios de descanso o de atracción turística, en donde pueden venderse bebidas alcohólicas.
 
-El impuesto se causará en el momento en que el enajenante perciba efectivamente el importe correspondiente al precio de venta final de las bebidas con contenido alcohólico objeto del presente Capítulo, igualmente, cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
+16. Venta en día específico: Para la venta de cerveza o pulque en fin de semana o hasta dos días específicos con consumo de alimentos tradicionales.
 
-###### ARTÍCULO 24.
+TIPO III. Establecimientos autorizados en los que se expenden bebidas alcohólicas en envase cerrado, con prohibición de consumirse en el interior del mismo establecimiento o donde se oferten y que pueden ser:
 
-El impuesto materia del presente Capítulo se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda su causación. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos, el cual será enterado por el enajenante mediante declaración en la forma oficial aprobada por la Secretaría de Finanzas y Administración.
+17. Depósito de Cerveza: Establecimiento en donde se vende exclusivamente cerveza.
 
-La Secretaría de Finanzas y Administración podrá acordar con la Secretaría de Hacienda y Crédito Público, que el impuesto materia del presente Capítulo, se pague en las mismas declaraciones del Impuesto sobre la Renta.
+18. Vinatería: Establecimiento cuya actividad preponderante es la venta de bebidas alcohólicas.
 
-Este impuesto no será acreditable contra otros impuestos locales o federales.
+19. Bodega: Establecimiento en donde se almacenan bebidas alcohólicas, para su venta y distribución al mayoreo.
 
-###### ARTÍCULO 25.
+20. Tienda de Autoservicio, de conveniencia y similares: Establecimiento que como sucursal de cadena comercial vende al público bebidas alcohólicas en envase cerrado, como actividad complementaria, por lo que la inversión en producto para tal propósito deberá representar como máximo el veinticinco por ciento de la inversión en mercancía que oferta el establecimiento.
 
-No se causará este impuesto por la venta de bebidas alcohólicas cuando éstas se realicen al público en general, en botellas abiertas o por copeo, para su consumo en el mismo lugar o establecimiento en el que se enajenen.
+21. Abarrotes y similares: Establecimiento que vende al público bebidas alcohólicas en envase cerrado, como actividad complementaria a su actividad comercial, por lo que la inversión en producto para tal propósito deberá representar como máximo el veinte por ciento de la inversión en mercancía que oferta el establecimiento.
 
-###### ARTÍCULO 26.
+22. Miscelánea y similares: Establecimiento comercial de venta de abarrotes que vende al público cerveza en envase cerrado como actividad complementaria a su actividad comercial, por lo que la inversión en producto para tal propósito deberá representar como máximo el veinte por ciento de la inversión en mercancía que oferta el establecimiento;
 
-Los contribuyentes de este impuesto, además de las obligaciones establecidas en esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
+23. Venta de excedentes: Para la venta de excedentes de pulque de producción doméstica, cuyo propósito original es el autoconsumo y hasta sesenta plantas en producción.
 
-I. Registrarse ante la Secretaría de Finanzas y Administración, mediante aviso que será presentado en las formas o medios electrónicos, que para tal efecto autorice dicha dependencia;
+TIPO IV. Permiso para realizar la venta, consumo o degustación de bebidas alcohólicas con las condiciones que se señalan para cada giro con vigencia limitada o por evento:
 
-II. Llevar un registro pormenorizado de las ventas a que se refiere el artículo 20 de esta Ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto; y,
+24. Eventos y festividades: En lugares públicos o privados, cobrando o no cuotas de admisión, en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales o se realicen eventos especiales en los que de manera temporal se realiza la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, en envase de cartón, plástico o cualquier otro material blando o ligero y bajo las condiciones que al efecto señale la Secretaría de Gobierno del Poder Ejecutivo del Estado;
 
-III. Expedir comprobante por cada una de las operaciones, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.
+25. Degustación: En establecimientos comerciales que de manera eventual ofrecen para degustación productos con contenido alcohólico para promoción de los mismos;
 
-###### ARTÍCULO 27.
+26. Provisional: Establecimientos comerciales que cuentan con trámite vigente para la obtención de licencia y de manera provisional venden bebidas alcohólicas; y
 
-Los municipios y demás autoridades vinculadas con el impuesto tendrán la obligación de proporcionar a la Secretaría de Finanzas y Administración, de forma trimestral la información con la que cuenten sobre los establecimientos que realicen actividades relacionadas con este impuesto, a fin de mantener actualizado el padrón correspondiente y ejercer las facultades con que cuenta la autoridad fiscal.
+27. Banquetes: Para la venta en eventos contratados para otorgar el servicio de banquete, en diversos salones o lugares adecuados para ello, no se considera este giro cuando la venta se haga al copeo.
 
-###### ARTÍCULO 28.
+###### Artículo 13.
 
-Los Municipios recibirán el 20% por ciento de la recaudación que se realice en el Estado, en términos del artículo 10-C de la Ley de Coordinación Fiscal.
+Los propietarios y encargados de los establecimientos autorizados para el almacenaje, venta, consumo y porteo de bebidas alcohólicas, estarán obligados a lo siguiente:
 
-###### ARTÍCULO 29.
+I. Tratándose de establecimientos del Tipo III, proporcionar a la Secretaría de Gobierno, cada vez que ésta lo solicite, una copia de sus declaraciones de pago de impuestos, de clientes y de proveedores que presente antes las autoridades hacendarias federales y estatales;
 
-Están obligados al pago del impuesto a las erogaciones en juegos con apuestas, las personas que realicen erogaciones dentro del territorio del Estado de Michoacán de Ocampo, para participar en juegos con apuestas.
+II. Tratándose de establecimientos del Tipo I, ofertar y promocionar el consumo de alimentos preparados al interior de los mismos, debiendo para ello incluir alimentos de precio igual o menor al de las bebidas alcohólicas ofertadas al precio más bajo. Para los efectos de ésta ley, no se consideran alimentos los siguientes: frituras, frutos secos y similares en cualquier presentación, aunque estos sean preparados dentro del mismo establecimiento;
 
-Se considera objeto de este impuesto, las erogaciones en dinero o en especie que se realicen para participar en juegos de apuesta, siendo estos los siguientes:
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-I. Aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar;
+III. Abstenerse de proporcionar a sus clientes recipientes de cualquier clase o material que les facilite a éstos la transportación de bebidas alcohólicas hacía el exterior de dichos establecimientos;
 
-II. Aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-III. Los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos;
+IV. Tratándose de establecimientos del Tipo III no exceder el porcentaje máximo señalado de la inversión en bebidas alcohólicas en relación a la mercancía que oferta el establecimiento; y
 
-IV. Aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas; y,
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
 
-V. Aquellas que se entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos.
+V. Tratándose de establecimientos del Tipo I y II, proporcionar de manera obligatoria y gratuita, agua natural purificada no embotellada para su consumo individual, a los clientes que así lo soliciten dentro de su consumo, la cual será una sola vez y hasta por una cantidad máxima de 400 mililitros, conforme a los lineamientos expedidos por la autoridad sanitaria correspondiente.
 
-Lo señalado en las citadas fracciones, es con independencia del nombre con el que se les designe.
+### Capítulo Cuarto. Del funcionamiento
 
-Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+###### Artículo 14.
 
-#### SECCIÓN II. DE LA BASE Y LA TASA
+Las personas físicas y morales que se dediquen a las actividades mencionadas en la presente Ley, se sujetarán, respecto de los establecimientos y lugares regulados por la misma, a los horarios y ubicaciones que establezcan los reglamentos municipales y demás ordenamientos aplicables, así como, a las limitaciones que determinen las autoridades competentes.
 
-### CAPÍTULO V. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS
+Los propietarios de los establecimientos regulados en la Ley, deberán además, remitir a la Secretaría de Gobierno, una lista que contenga los datos del personal de seguridad que labora con ellos, incluyendo copia de las credenciales de elector.
 
-#### SECCIÓN I. DEL SUJETO Y OBJETO
+###### Artículo 15.
 
-###### ARTÍCULO 30.
+Los establecimientos y lugares regulados por esta Ley, tendrán entrada exclusivamente por la vía pública, sin que exista comunicación interior con habitaciones y otros lugares ajenos a aquéllos, los cuales deberán reunir las condiciones de construcción, seguridad, higiene y mobiliario que prevengan los ordenamientos respectivos y las disposiciones sanitarias, así como las establecidas en las normas oficiales mexicanas vigentes.
 
-El impuesto se calculará aplicando la tasa del 10% a la base del impuesto, constituida ésta por el monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sea que los pagos se realicen en efectivo, en especie, o por cualquier otro medio que permita participar en los mismos.
+En los bares, cantinas, cervecerías, pulquerías y centros nocturnos, deberán instalarse puertas, mamparas, biombos o cortinas que impidan la visibilidad del exterior hacia el interior del local.
 
-Las erogaciones a que se refiere el párrafo anterior, incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 29, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+###### Artículo 16.
 
-#### SECCIÓN III. DEL MOMENTO DE CAUSACIÓN Y ÉPOCA DE PAGO
+Queda prohibida la venta o suministro de bebidas alcohólicas a menores de edad.
 
-###### ARTÍCULO 31.
+No deberá permitirse la entrada a personas menores de dieciocho años a cantinas, cervecerías, pulquerías, discotecas, bares y centros nocturnos.
 
-El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento, los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
+La autoridad competente, durante el desarrollo de la inspección o verificación de esos establecimientos, podrán exigir a su propietario o encargado que demuestre la mayoría de edad de las personas que se encuentren en el interior del mismo.
 
-###### ARTÍCULO 32.
+###### Artículo 17.
 
-El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos, recaudará este impuesto, al momento de recibir el pago o contraprestación correspondiente, y deberá presentar la declaración respectiva en los formatos que para tal efecto apruebe la Secretaría de Finanzas y Administración, para ser enterado ante las Administraciones y Receptorías de Rentas, así como en las instituciones bancarias y demás oficinas que en su caso, se autorice por la misma Secretaría, a más tardar el día 17 del mes calendario siguiente al de la fecha de su recaudación o el día hábil siguiente si cayera en día inhábil.
+Se prohíbe la venta de bebidas alcohólicas a los miembros uniformados de las corporaciones policiales o militares y a las personas que porten cualquier clase de arma o se encuentren en notorio estado de ebriedad o bajo la influencia de cualquier droga o enervante.
 
-Cuando el pago o contraprestación a favor del operador del establecimiento, se realice en especie, el contribuyente deberá proveer de recursos en efectivo al mismo operador para que éste pueda recaudar el impuesto.
+###### Artículo 18.
 
-La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 34 de esta Ley.
+Se prohíbe la venta o consumo de bebidas alcohólicas, cuando éstas se lleven a cabo:
 
-### CAPÍTULO VI. DEL IMPUESTO A LOS PREMIOS GENERADOS EN JUEGOS CON APUESTAS
+I. En la vía pública, parques y plazas públicas. Podrán exceptuarse los casos de festividades tradicionales, eventos cívicos o culturales, de conformidad con lo previsto en esta Ley y los permisos y disposiciones que emita la Secretaría de Gobierno;
 
-#### SECCIÓN I. DEL SUJETO, OBJETO Y BASE
+II. En los centros de trabajo de naturaleza distinta a los descritos en esta Ley, y en las instituciones educativas;
 
-###### ARTÍCULO 33.
+III. En instalaciones deportivas ó educativas, públicas ó privadas de cualquier nivel, salvo los casos debidamente autorizados;
 
-Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 32, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
+IV. En cualquier evento donde predominen menores de edad;
 
-###### ARTÍCULO 34.
+V. En las sedes gubernamentales;
 
-Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas
+VI. En centros hospitalarios, de concentración de elementos militares y de corporaciones policiales y de seguridad, de bomberos, penitenciarias, correctivos y cualquier otro similar;
 
-quienes reciban los pagos del contribuyente:
+VII. En campos de tiro, cines, teatros y lugares para espectáculos o eventos públicos distintos a los señalados en el artículo 12 de esta Ley, salvo los casos debidamente autorizados;
 
-I. Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 28;
+VIII. Farmacias, así como en aquellos establecimientos con venta de medicinas y productos afines al giro, cuando su inversión u oferta de productos del giro farmacéutico sea de al menos el cincuenta por ciento;
 
-II. Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 29 de esta Ley;
+IX. En vehículos de motor; y
 
-III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto; y,
+X. En los días y horarios en los que se celebre algún acontecimiento o festividad cívica de interés nacional o local, por determinación de las leyes o de la autoridad competente.
 
-IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este Capítulo.
+###### Artículo 19.
 
-#### SECCIÓN IV. DE LAS OBLIGACIONES
+En los establecimientos y lugares que regula esta Ley, se prohíbe realizar promociones de bebidas alcohólicas en envase abierto o al copeo sin costo alguno o cuando impliquen ofertas o descuentos, salvo los casos previstos en la presente Ley y debidamente autorizados.
 
-###### ARTÍCULO 35.
+Para efectos de esta Ley, se entenderá por barra libre la promoción, independientemente del nombre con que se les denomine, en la que por el pago de una cantidad se da el derecho a consumir en forma ilimitada bebidas alcohólicas por tiempo determinado o indeterminado.
 
-Quienes efectúen las retenciones del impuesto a que se refiere este Capítulo, tendrán las siguientes obligaciones:
+Igualmente, quedan prohibidos los concursos que induzcan al consumo de bebidas alcohólicas.
 
-I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 15 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto;
+###### Artículo 20.
 
-II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Estatal de Contribuyentes.
+Está prohibida la venta, el consumo y anunciar bebidas alcohólicas en cualquier lugar o espacio exterior, en un radio de cien metros respecto de una escuela o institución educativa de cualquier índole, centros o unidades deportivas.
 
-Para efectos de lo dispuesto en esta fracción, se aplicarán supletoriamente las disposiciones que regulan esta materia, establecidas en el Código Fiscal de la Federación y su Reglamento, así como el Código Fiscal del Estado;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
-III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos que se señalen en el documento respectivo;
+###### Artículo 21.
 
-IV. Registrar y conservar la documentación relacionada con las constancias, comprobantes fiscales y las retenciones de este impuesto así como la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, por cada operación por la que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso; y,
+La Secretaría de Gobierno, conjuntamente con los municipios del Estado, las cámaras y organizaciones de comerciantes, los propietarios de los establecimientos que regula esta Ley, ciudadanos interesados y demás autoridades competentes, promoverán la implementación de programas de prevención de consumo de bebidas alcohólicas, de comisión de delitos y de accidentes automovilísticos que puedan ocasionarse por este motivo; así como de programas que fomenten el consumo de agua natural purificada no embotellada dentro de los establecimientos.
 
-V. Proporcionar, a las personas a quienes les efectúen pagos por los conceptos a que se refiere este Capítulo, comprobante fiscal en el que conste el monto de la operación, y el impuesto retenido que fue enterado.
+### Capítulo Quinto. Licencias, Permisos y Preautorizaciones
 
-### CAPÍTULO VII. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIÓN AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCIÓN Y DEPENDENCIA DE UN PATRÓN
+###### Artículo 22.
 
-#### SECCIÓN I. DEL OBJETO Y DEL SUJETO
+El Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá expedir, de conformidad a la presente Ley, las licencias, permisos y refrendos para el almacenaje, venta y consumo de bebidas alcohólicas, en los establecimientos y lugares que regula, así como para el porteo de las mismas.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+Las licencias, permisos y refrendos a que se refiere este ordenamiento, son actos administrativos subordinados al orden público y al interés social; se otorgarán a favor del solicitante, tendrán carácter de intransferibles e inembargables y sólo podrán ser objeto de cesión a título gratuito y con el pago de los derechos correspondientes, mediante autorización expresa otorgada por la Secretaría de Gobierno, en los términos que establece el presente ordenamiento.
 
-###### ARTÍCULO 36.
+###### Artículo 23.
 
-Son sujetos del impuesto a los premios generados en juegos con apuestas, las personas físicas o morales que obtengan ingresos procedentes de un premio dentro del territorio del Estado de Michoacán de Ocampo, derivado de la participación en juegos con apuestas a que se refiere el artículo 29 de la presente Ley y diverso al regulado por los artículos 3, 4 y 5 del presente ordenamiento.
+Asimismo, el Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá otorgar preautorización de licencia en todos sus tipos, con base en el proyecto de inversión que deberá presentar el solicitante, la cual permitirá el almacenaje, venta o consumo de bebidas alcohólicas de acuerdo a los tipos, giros y clases de licencias, a partir de la fecha que se señale como de inicio de actividades y hasta en tanto sea otorgada la licencia definitiva, bajo las condiciones señaladas en la presente Ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+La preautorización de licencia será sustituida por la correspondiente licencia nueva, cuando se de el exacto cumplimiento del proyecto que dio base a la solicitud y fuera autorizado al efecto, así como de la adecuación de la negociación a las disposiciones legales que le resulten aplicables y al pago de los derechos correspondientes a la licencia nueva. La verificación, pago, comprobación, acreditación y cumplimiento de las condicionantes señaladas en el párrafo que antecede, se podrán realizar a partir de la fecha que en la solicitud se señale como fecha de inicio de actividades.
 
-Es objeto de este impuesto, la obtención de premios en los términos del párrafo anterior.
+Siempre y cuando cuente con licencia municipal de funcionamiento, el solicitante podrá hacer uso de la preautorización hasta por noventa días naturales a partir de la fecha señalada para el inicio de actividades en la correspondiente solicitud, para el almacenaje, venta o consumo de bebidas alcohólicas.
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE DICIEMBRE DE 2022)</small>
+Acreditado el exacto cumplimiento del proyecto, entregados los requisitos faltantes de los que precedan, de conformidad con lo establecido en esta Ley, así como realizado el pago de los derechos correspondientes, se otorgará la nueva licencia.
 
-Es base de este Impuesto el valor del premio, el cual se constituye con el valor en dinero o en especie que resulte de restar al monto del recurso obtenido en los juegos a los que se refiere este artículo, la erogación total realizada para la obtención del premio, incluyendo el impuesto pagado por concepto de erogaciones en juegos con apuestas:
+En caso de que hubiere transcurrido el plazo de noventa días, sin que se haya otorgado la licencia definitiva por causas atribuibles al solicitante o el resultado de la verificación sea negativo, por incumplimiento parcial o total del proyecto, se negará de plano la licencia nueva y deberá suspenderse de inmediato el almacenaje, venta o consumo de bebidas alcohólicas.
 
-I. Tratándose de premios en efectivo, el monto total del ingreso por los premios obtenidos.
+###### Artículo 24.
 
-II. Tratándose de premios en especie, el valor con que se promocione cada uno de los premios o en su defecto:
+Las licencias y permisos no podrán amparar más de una negociación, aunque ésta se encuentre en igual domicilio o ubicación, pero sí se podrá otorgar más de una licencia en el mismo domicilio, aún cuando se trate del mismo licenciatario.
 
-a) El valor de la facturación de compra tratándose de bienes muebles; y
+###### Artículo 25.
 
-b) El valor comercial vigente en el momento de su entrega tratándose de bienes inmuebles.
+Los interesados en obtener licencia o permiso para el almacenaje, venta, porteo o consumo de bebidas alcohólicas a los que se refiere esta Ley, deberán presentar solicitud por escrito, en los formatos que al efecto emita la Secretaría de Gobierno, con los siguientes datos y documentos:
 
-#### SECCIÓN II. DE LA TASA
+I. Del solicitante:
 
-###### ARTÍCULO 37.
+a. Nombre o razón social.
 
-El impuesto se calculará aplicando la tasa del 20%, al monto total nominal del ingreso obtenido como premio.
+b. Identificación.
 
-#### SECCIÓN III. DEL MOMENTO DE CAUSACIÓN Y ÉPOCA DE PAGO
+c. En su caso, nombre y acreditación de su representante legal.
 
-###### ARTÍCULO 38.
+d. Copia de la cédula del Registro Federal de Contribuyentes.
 
-El impuesto se causará en el momento en que el sujeto obligado reciba el premio correspondiente del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos o del responsable de entregar el premio, sea cualquiera el nombre con el que se le conozca, y serán quienes entreguen el premio, el responsable de recaudar el impuesto a que se refiere el presente Capítulo, reteniendo de dicho premio, el monto correspondiente al impuesto, y deberá presentar la declaración respectiva en los formatos que para tal efecto apruebe la Secretaría de Finanzas y Administración, para ser enterado ante las Administraciones y Receptorías de Rentas, así como en las instituciones bancarias y demás oficinas que en su caso, se autorice por la misma Secretaría, a más tardar el día 17 del mes calendario siguiente al de la fecha de su recaudación o el día hábil siguiente si cayera en día inhábil.
+e. Domicilio.
 
-Cuando el premio se pague en especie, el contribuyente deberá proveer de recursos en efectivo al retenedor para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al retenedor de la responsabilidad solidaria prevista en el artículo 40 de esta Ley.
+f. Nacionalidad en caso de tratarse de extranjero, así como autorización de la Secretaría de Gobernación del Poder Ejecutivo Federal, en los términos de la Ley General de Población
 
-###### ARTÍCULO 39.
+II. Del establecimiento:
 
-Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, o los que entreguen el premio correspondiente, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 36 de este ordenamiento, están obligados a expedir comprobantes por cada contraprestación que cobren, conforme a los formatos que para tal efecto prevea la autoridad.
+a. Denominación.
 
-#### SECCIÓN IV. DE LA RESPONSABILIDAD SOLIDARIA Y LAS OBLIGACIONES DE RETENEDORES
+b. Domicilio.
 
-###### ARTÍCULO 40.
+c. Tipo y giros que se pretendan realizar. En caso de giros con consumo de alimentos, se acompañará el menú.
 
-Serán responsables solidarios del impuesto, el establecimiento en el que realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos o, en su caso, el responsable de entregar el premio, sea cualquiera el nombre con el que se le conozca.
+d. Croquis donde se indique en forma clara y precisa la ubicación del lugar donde se pretende llevar a cabo las actividades que ampare la licencia solicitada.
 
-###### ARTÍCULO 41.
+e. Capital invertido o a invertir en infraestructura y mobiliario en el establecimiento.
 
-Quienes entreguen los premios a que se refiere este Capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
+f. Fotografías del mismo.
 
-I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto;
+g. Comprobante de que se encuentra al corriente en el pago de los impuestos inmobiliarios y derechos por servicios públicos relacionados con el inmueble en donde se ubique el establecimiento o, en su caso, el contrato de arrendamiento o comodato.
 
-II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal domicilio (sic), suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Estatal de Contribuyentes.
+III. Constancias o dictámenes de la autoridad competente que acrediten:
 
-Para efectos de lo dispuesto en esta fracción, se aplicarán supletoriamente las disposiciones que regulan esta materia, establecidas en el Código Fiscal de la Federación y su Reglamento, así como el Código Fiscal del Estado;
+a. Licencia municipal de funcionamiento vigente.
 
-III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos que se señalen en el documento respectivo; y,
+b. Uso de suelo emitido por autoridad estatal o municipal, que permita la actividad comercial y el giro que se pretende.
 
-IV. Registrar y conservar la documentación relacionada con las constancias, comprobantes fiscales y las retenciones de este impuesto, así como la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, por cada premio obtenido por la que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso.
+c. Factibilidad de giro emitida por la autoridad responsable del desarrollo urbano del municipio correspondiente, que acredite que las condiciones y ubicación del establecimiento y la actividad a realizar, cumplen con las disposiciones reglamentarias municipales aplicables.
 
-###### ARTÍCULO 42.
+IV. Para el caso de licencias de porteo:
 
-Se encuentran obligadas al pago del impuesto sobre erogaciones por remuneración al trabajo personal, prestado bajo la dirección y dependencia de un patrón, las personas físicas y morales, así como las asociaciones en participación, que en el Estado de Michoacán de Ocampo realicen erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado.
+a. Del solicitante, los señalados en la fracción I del presente artículo.
 
-###### ARTÍCULO 43.
+b. Los datos del proveedor, bodega, almacén o establecimiento del cual se hará el porteo.
 
-Quedan comprendidos entre los obligados a que se refiere el artículo 42 de esta Ley, las personas físicas y morales, incluidas las asociaciones en participación, que realicen el pago de las remuneraciones afectas a este Impuesto en la Entidad, aun cuando para efectos distintos tengan su domicilio en otra Entidad Federativa.
+c. Del vehículo porteador, factura, tarjeta de circulación, póliza de seguro que ampare daños a terceros y fotografías del mismo.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+d. El tipo de autorización que pretende realizar.
 
-La Federación, el Estado, los Municipios, sus entidades paraestatales, paramunicipales, y los organismos autónomos, están obligados al pago de este impuesto.
+e. Zonas geográficas en donde se llevará a cabo el porteo.
 
-###### ARTÍCULO 44.
+V. Para el caso de permisos:
 
-Para los efectos de este impuesto, se considerará remuneración al trabajo personal subordinado, los sueldos y salarios, así como todas las prestaciones en dinero o en especie, con independencia de la designación que se le otorgue, que deriven de un trabajo personal prestado bajo la dirección y dependencia de un patrón.
+a. Del solicitante, los señalados en la fracción I del presente artículo.
 
-No se consideran como parte de la remuneración al trabajo personal subordinado, las prestaciones siguientes:
+b. Los demás que señale la autoridad en virtud de las características o condiciones en las que se llevará a cabo la actividad de venta solicitada.
 
-I. Los instrumentos de trabajo tales como herramientas, ropa y otros similares;
+VI. Para preautorización de licencia, además de los establecidos en la fracción I, en la fracción II incisos c) y e), en la fracción III incisos b) y c) del presente artículo, los requisitos que la autoridad señale para cada caso.
 
-II. El ahorro, cuando se integre por depósito semanal, quincenal o mensual, por cantidades iguales que aporten trabajador y patrón o cuando se constituya en forma diversa a la señalada, aun cuando el trabajador pueda retirarlo más de dos veces al año;
+La Secretaría de Gobierno podrá solicitar a las áreas competentes, opiniones técnicas respecto del establecimiento donde funcionaría la licencia solicitada, señalando el cumplimiento o incumplimiento de las normas y condiciones sanitarias y de seguridad exigibles.
 
-III. Las cantidades otorgadas por el patrón para fines sociales de carácter sindical;
+###### Artículo 26.
 
-IV. Las aportaciones que el patrón pague a sus trabajadores por concepto de cuotas de seguro de retiro, cesantía en edad avanzada y vejez, adicionales a las establecidas en las disposiciones de seguridad social que le sean aplicables;
+Satisfechos los requisitos del artículo anterior, el Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, tomando en consideración el orden público y el interés social, podrá otorgar, en los casos que corresponda, la licencia, permiso o refrendo respectivo, debiendo el interesado cubrir el pago de los derechos correspondientes en los términos establecidos en las leyes de la materia.
 
-V. Las participaciones en las utilidades de la empresa;
+La determinación de otorgamiento o no de la licencia, permiso o refrendo respectivo, se hará del conocimiento del interesado, en el término de treinta días hábiles, contados a partir del día siguiente de la recepción de la solicitud respectiva. Transcurrido el plazo señalado, sin que exista determinación por parte de la Secretaría de Gobierno, se entenderá rechazada la solicitud.
 
-VI. La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores, entendiéndose que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el 20% del valor diario de la Unidad de Medida y Actualización;
+###### Artículo 27.
 
-VII. Las despensas en especie o en dinero, siempre y cuando su importe no rebase el 40% del valor diario de la Unidad de Medida y Actualización;
+No se otorgará licencia, permiso o refrendo por la venta de bebidas alcohólicas o en su caso, se podrá revocar la que se hubiere otorgado, en los casos siguientes:
 
-VIII. Los premios por asistencia y puntualidad siempre que el importe por cada uno de estos conceptos no rebase el 10% del salario;
+I. Que los establecimientos, en donde funcionará la licencia, no cuenten con autorización de funcionamiento vigente;
 
-IX. Las cantidades aportadas para fines sociales, considerándose como tales las entregas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro;
+II. Que la ubicación del establecimiento no permita la venta de bebidas alcohólicas, de conformidad con el reglamento municipal correspondiente;
 
-X. Las remuneraciones por tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
+III. Que el establecimiento no cuente con las medidas sanitarias que señalen las autoridades de salud en el Estado;
 
-XI. El pago de becas para trabajadores o para sus hijos, seguro de vida y seguro de gastos médicos, cuando en este último caso se contrate de manera general y sea distinto al de las instituciones de seguridad social;
+IV. Que el establecimiento no cuente con las medidas de protección civil que señalen las autoridades competentes para ello;
 
-XII. Los viáticos y gastos de representación efectivamente erogados por cuenta del patrón y que hayan sido debidamente comprobados en los mismos términos que, para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
+V. Que el solicitante haya sido sancionado reiteradamente por incumplimiento a las obligaciones que se señalan en la presente Ley;
 
-XIII. Las aportaciones a cargo del patrón al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Dirección de Pensiones Civiles del Estado y al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM);
+VI. Que el establecimiento lleve a cabo la venta de bebidas alcohólicas, sin la autorización correspondiente;
 
-XIV. Las pensiones y jubilaciones en caso de invalidez, vejez, cesantía en edad avanzada y muerte; y,
+VII. Que la zona donde se ubicará el establecimiento, no cuente con uso de suelo para actividades comerciales;
 
-XV. Las vacaciones.
+VIII. Que el número de autorizaciones previamente otorgadas en la zona, sea suficiente para atender la demanda de venta de bebidas alcohólicas;
 
-Tampoco formarán parte de las remuneraciones afectas al pago de este Impuesto, las prestaciones que se paguen a los trabajadores, como consecuencia de terminación de la relación laboral, así como las indemnizaciones por incapacidad física.
+IX. Que en la zona, en donde se ubicará el establecimiento, se presenten de manera grave y reiterada la incidencia de los conflictos, actividades delictivas o violaciones administrativas, aparejadas al consumo de alcohol;
 
-#### SECCIÓN II. DE LA BASE Y DE LA TASA
+X. Que se considere que el impacto de la autorización de una licencia puede ser nocivo para la comunidad del lugar donde se ubique el establecimiento;
 
-###### ARTÍCULO 45.
+XI. Que el establecimiento donde se pretende operar la licencia o permiso, se encuentre en alguno de los supuestos previstos en el artículo 19 de la presente Ley;
 
-El Impuesto a que se refiere este Capítulo, se determinará, aplicando la tasa del 3% sobre el monto total de las erogaciones realizadas por conceptos de remuneraciones al trabajo personal subordinado.
+XII. Que el otorgamiento de la licencia o permiso, se oponga al orden público y al interés social;
 
-### CAPÍTULO VII (SIC). ACCESORIOS DE IMPUESTOS
+XIII. Que no se lleve a cabo el refrendo de la licencia dentro de los treinta días posteriores al vencimiento del plazo legal para tal efecto y en su caso, en el tiempo que la autoridad competente establezca al respecto;
 
-###### ARTÍCULO 46.
+XIV. Que las opiniones técnicas de las autoridades de salud o de protección civil sean negativas;
 
-El Secretario de Finanzas y Administración, estará facultado para emitir disposiciones administrativas de carácter general, conforme al presente Capítulo, con el objeto de facilitar el cumplimiento de las obligaciones establecidas en el mismo.
+XV. Que se exceda el número de licencias o permisos, señalados para la población o zona donde se ubique el establecimiento donde operaran las mismas;
 
-#### SECCIÓN III. OBLIGACIONES Y EL PAGO
+XVI. Que se pretenda la acreditación de requisitos mediante documentos falsos o apócrifos; y
 
-###### ARTÍCULO 47.
+XVII. Los demás casos que señale esta Ley o su Reglamento.
 
-El impuesto que regula este Capítulo se calculará por ejercicios fiscales, que coincidirán con el año calendario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Cuando los sujetos de este impuesto inicien actividades con posterioridad al 1 de enero, en dicho año el ejercicio fiscal será irregular, debiendo iniciarse el día en que comiencen las actividades y terminarse el 31 de diciembre del año que se trate.
+###### Artículo 28.
 
-El impuesto se causará en el momento en que se realicen las erogaciones por el trabajo personal prestado bajo la dirección y dependencia de un patrón, y su pago será de la siguiente manera:
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2015)
 
-I. Se harán pagos provisionales mensuales a más tardar el 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente, o a través de los medios electrónicos en los sitios de internet o en las sucursales de las instituciones autorizadas por la Secretaría de Finanzas y Administración; y,
+###### Artículo 29.
 
-II. El impuesto correspondiente al ejercicio fiscal de que se trate deducidos los pagos provisionales, se pagará mediante declaración anual que se presentará en las oficinas señaladas en la fracción I anterior, deberá efectuarse mediante declaración anual, a más tardar el 31 de marzo del año siguiente a aquel en que se cause el impuesto.
+El refrendo de las licencias a que se refiere esta Ley, se realizará en forma anual en los términos de las leyes fiscales correspondientes.
 
-Cuando los días 17 y 31, a que se refieren las fracciones I y II anteriores, sean un día inhábil o las oficinas de la autoridad se encuentren cerradas; el plazo se prorrogará al día hábil siguiente.
+Sólo se otorgará si el interesado:
 
-Sin embargo, el plazo para los pagos se amplía desde uno hasta cinco días hábiles adicionales de acuerdo con el sexto dígito numérico del
+a. Presenta la licencia de funcionamiento vigente;
 
-Registro Federal de Contribuyentes y conforme al siguiente:
+b. Acredita estar al corriente en el cumplimiento de sus obligaciones fiscales;
 
-CALENDARIO DE PAGO
+c. Presenta copia de la declaración informativa anual del impuesto especial sobre producción y servicios, correspondiente al ejercicio inmediato anterior a aquel en el cual se presenta la solicitud.
 
-Sexto dígito numérico del RFC Fecha límite de pago
+d. Póliza de seguro del vehículo para el caso de porteo.
 
-1 y 2 Día 17 y 31 o día hábil siguiente, más un día hábil.
+### Capítulo Sexto. Del porteo
 
-3 y 4 Día 17 y 31 o día hábil siguiente, más dos días hábil (sic).
+###### Artículo 30.
 
-5 y 6 Día 17 y 31 o día hábil siguiente, más tres días hábil (sic).
+El porteo de bebidas alcohólicas en el territorio del Estado de Querétaro, sólo se llevará a cabo por las personas físicas o morales que cuenten con la licencia respectiva.
 
-7 y 8 Día 17 y 31 o día hábil siguiente, más cuatro días hábil (sic).
+###### Artículo 31.
 
-9 y 0 Día 17 y 31 o día hábil siguiente, más cinco días hábil (sic).
+Los porteadores tendrán la obligación de llevar consigo la licencia correspondiente y comprobar la procedencia de la mercancía mediante documento idóneo en términos de lo establecido en las disposiciones legales aplicables.
 
-La falta de pago en el plazo establecido, causará recargos en los términos del Código Fiscal del Estado de Michoacán de Ocampo.
+###### Artículo 32.
 
-###### ARTÍCULO 48.
+Se prohíbe a los portadores vender bebidas alcohólicas a los establecimientos y lugares que no cuentan con la licencia o permiso para su expendio, así como en lugares y horarios distintos a los indicadores en la licencia respectiva.
 
-El contribuyente que con posterioridad a la fecha de presentación de alguna declaración mensual, compruebe que realizó algún pago indebido en exceso, respecto del impuesto causado, podrá optar por solicitar la devolución de la cantidad pagada indebidamente o compensar el monto a su favor contra el importe que deba enterar en el mes siguiente.
+### Capítulo Séptimo. Del clandestinaje
 
-###### ARTÍCULO 49.
+###### Artículo 33.
 
-Cuando los sujetos de este impuesto tengan dentro del territorio del Estado, más de un establecimiento u oficina, podrán presentar las declaraciones mensuales y del ejercicio, a que se refiere el artículo 47 de esta Ley, por todos los establecimientos u oficinas, en el domicilio que le corresponda al establecimiento u oficina principal de que se trate. Debiendo anexar una relación, en la que se especifiquen los datos correspondientes a cada uno de los establecimientos filiales que forman parte del establecimiento principal.
+Se entiende por clandestinaje, el almacenaje, venta o porteo de bebidas alcohólicas, sin contar con la licencia o permiso correspondiente vigente, o bien, que teniéndolos, no correspondan al domicilio del establecimiento o lugar señalado en dicho documento.
 
-###### ARTÍCULO 50.
+###### Artículo 34.
 
-Los obligados al pago de este impuesto, además de las obligaciones señaladas en otros artículos de este Capítulo, tendrán
+En el supuesto del artículo anterior, la autoridad que realice la inspección o verificación podrá proceder de inmediato a asegurar en forma cautelar el producto, especificando en forma detallada en el acta respectiva los bienes asegurados, entregando copia de la misma al interesado.
 
-las siguientes:
+###### Artículo 35.
 
-I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste la información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto.
+Cuando el producto asegurado sea de fácil descomposición, la autoridad procederá a su destrucción, levantando acta circunstanciada en presencia de dos testigos, sin que ello implique responsabilidad alguna para la autoridad correspondiente.
 
-Asimismo, deberán presentar copia de la cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público, así como copia del acta constitutiva donde conste el nombre del representante legal de la persona moral. En caso de no estar especificado en dicha acta, anexar copia del poder notarial expedido al representante legal, así como copia fotostática legible del documento donde conste el Número de Registro Patronal, expedido por el Instituto Mexicano del Seguro Social;
+### Capítulo Octavo. Inspección y Verificación
 
-II. Presentar ante la misma oficina a la que se refiere la fracción anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, de domicilio o ubicación de establecimientos u oficinas, de suspensión o reanudación de actividades, de apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Federal de Contribuyentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Para los efectos de lo dispuesto en este artículo se aplicarán supletoriamente las disposiciones que regulan la materia del Registro Federal de Contribuyentes, establecidas en el Código Fiscal de la Federación y su Reglamento; y,
+###### Artículo 36.
 
-III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos de lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
+La Secretaría de Gobierno, la Secretaría de Finanzas y la dependencia municipal que determine el ayuntamiento respectivo, son autoridades para inspeccionar, verificar y comprobar el exacto cumplimiento de las disposiciones de esta Ley, por lo que están facultadas para realizar los actos y diligencias necesarias, en los términos previstos en la misma.
 
-###### ARTÍCULO 51.
+Las Secretarías de Seguridad Ciudadana y de Salud, el organismo descentralizado Servicios de Salud del Estado de Querétaro y las unidades municipales de Protección Civil, coadyuvarán con las autoridades señaladas en el párrafo anterior, efectuando inspecciones o verificaciones en el ámbito de su respectiva competencia, las que podrán realizarse en forma coordinada.
 
-La recaudación que se obtenga de la aplicación de este impuesto, se destinará a fomentar el desarrollo económico del Estado, a generar condiciones para la creación de más empleos y acciones en materia de seguridad pública de acuerdo con el Titular del Poder Ejecutivo del Estado, con las organizaciones productivas del Estado y a ser utilizada en su caso, como fuente de pago y/o garantía de deuda pública del Estado y/o de los Fideicomisos establecidos en el artículo 21 de la Ley de Deuda Pública del Estado de Michoacán de Ocampo y sus Municipios, previa autorización del Congreso del Estado.
+###### Artículo 37.
 
-El Ejecutivo del Estado al presentar la Cuenta Pública de la Hacienda Estatal, informará al Congreso del Estado respecto del monto obtenido por la recaudación de este impuesto, así como de su aplicación.
+Están facultados para expedir las órdenes de inspección o verificación previstas en la presente Ley, en el ámbito de sus respectivas competencias:
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Tratándose de las contribuciones por concepto de impuestos a que se refiere el presente Título, que no hayan sido cubiertas en la fecha o dentro del plazo fijado por este mismo Capítulo, se causarán accesorios en términos de lo previsto por el Código Fiscal del Estado de Michoacán de Ocampo, además de recargos de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
+I. De la Secretaría de Finanzas:
 
-###### ARTÍCULO 53.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Tratándose de los impuestos a que se refiere el presente título, que no hayan sido cubiertos en la fecha o dentro del plazo fijado por esta Ley, y la Ley de Ingresos del Estado para el ejercicio fiscal respectivo, se causarán multas, actualización, indemnización y recargos, asociados a los impuestos, mientras que los recargos se determinarán de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
+a. El Secretario de Finanzas.
 
-## TÍTULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
+b. El Director de Ingresos.
 
-###### ARTÍCULO 54.
+c. El Jefe del Departamento de Notificación, Cobranza e Inspección Fiscal de la Dirección de Ingresos.
 
-Las contribuciones de mejoras que se establezcan a cargo de las personas físicas y morales que se beneficien de manera directa con alguna obra o servicio público, que sean destinadas a cubrir los gastos que requiera la propia obra o servicio de que se trate, se regularán a través del acuerdo que se suscriba para tal efecto. Las obras o servicios públicos que por su costo financiero requieran de lineamientos específicos, éstos se establecerán por parte de las dependencias y entidades estatales correspondientes, en el acuerdo o decreto administrativo correspondiente.
+II. El Secretario de Salud;
 
-De los acuerdos o decretos señalados en el párrafo anterior, deberá proporcionarse copia a la Secretaría de Finanzas y Administración dentro de los 15 días hábiles siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las contribuciones concertadas.
+III. El Director de Fomento y Regulación Sanitaria de SESEQ;
 
-## TÍTULO CUARTO. DE LOS DERECHOS
+IV. El Secretario de Seguridad Ciudadana, directamente o por conducto del personal, en los términos de la ley y del Reglamento Interior.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+V. De la Secretaría de Gobierno:
 
-###### ARTÍCULO 55.
+a. El Secretario de Gobierno.
 
-Los derechos se pagarán por las personas físicas o morales, por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados, siempre y cuando se trate de contraprestaciones que no se encuentren previstas en esta Ley. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+b. El Subsecretario de Gobierno.
 
-Los derechos por la prestación de servicios que establece esta Ley deberán estar relacionados con el costo total del servicio, incluso el financiero, salvo que el establecimiento del monto del derecho tenga un carácter racionalizador del servicio, o persigan fines extrafiscales.
+c. El Director de Gobierno.
 
-Las obligaciones y supuestos denominados en Unidad de Medida y Actualización (UMA) se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación expresado en las citadas unidades, por el valor de dicha unidad a la fecha correspondiente.
+VI. De los municipios:
 
-Cuando de conformidad con la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y otras disposiciones, los servicios que presta una dependencia de la Administración pública centralizada o un organismo descentralizado o autónomo son proporcionados por otra dependencia u organismo descentralizado o autónomo, se entenderá que las disposiciones señaladas en esta Ley para aquéllos, se aplicarán a éstos, así como cuando cambien de nombre los registros o padrones que conforman el servicio o la Ley que lo establece, se seguirán pagando los derechos correspondientes conforme a los preceptos que los establecen.
+a. El Secretario del Ayuntamiento o, en su caso, el Secretario de Gobierno o el funcionario municipal competente, de acuerdo a los reglamentos municipales.
 
-###### ARTÍCULO 56.
+b. El titular de la dependencia encargada de las finanzas públicas municipales.
 
-Los derechos que se establecen en esta Ley se pagarán en el monto, forma, lugar y época de pago que en cada capítulo se señale en la Ley de Ingresos del Estado, para el ejercicio fiscal respectivo.
+c. El titular de la Unidad Municipal de Protección Civil.
 
-Cuando en el capítulo respectivo de Derechos de la Ley de Ingresos del Estado para el ejercicio fiscal respectivo no se establezca la forma, lugar y época de pago, se aplicarán las disposiciones previstas en esta Ley.
+###### Artículo 38.
 
-### CAPÍTULO ÚNICO. APORTACIONES DE PARTICULARES
+Para la realización de las visitas domiciliarias que tengan por objeto inspeccionar, vigilar, verificar y comprobar el cumplimiento de las disposiciones de esta Ley, además de los días hábiles, se podrá, fundada y motivadamente, habilitar las veinticuatro horas de todos los días del año.
 
-###### ARTÍCULO 57.
+###### Artículo 39.
 
-Las personas físicas y morales pagarán los derechos que se establecen en esta Ley, en la oficina recaudadora que corresponda al domicilio del contribuyente; a través de los medios electrónicos en los sitios de Internet; en las tiendas de conveniencia o sucursales de las instituciones financieras autorizadas por la Secretaría de Finanzas y Administración, conforme a los requisitos y procedimientos que ésta establezca, debiéndoseles expedir los recibos oficiales correspondientes.
+La orden de visita domiciliaria que para los efectos del artículo anterior se expida, deberá cumplir con los siguientes requisitos:
 
-El pago de los derechos deberá hacerse por el contribuyente previo a la prestación de los servicios o previo al uso, goce, explotación o aprovechamiento de bienes de dominio público del Estado, salvo los casos en que expresamente se señale que sea posterior.
+I. Constar por escrito.
 
-Cuando no se compruebe que el pago de derechos se ha efectuado previamente a la prestación del servicio o del uso, goce o aprovechamiento de bienes de dominio público del Estado y se trate de derechos que deban pagarse por anticipado, el servicio, uso, goce o aprovechamiento de bienes de dominio público del Estado no se proporcionará.
+II. Ostentar la firma autógrafa del funcionario competente.
 
-Cuando no se presente el recibo de pago o una vez recibido el mismo se observe que el pago del derecho de que se trate no se efectuó por la totalidad de la cuota que corresponda, el encargado de la prestación de los servicios públicos o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público del Estado, procederá como sigue:
+III. Señalar la autoridad que lo emite.
 
-I. Requerirá al contribuyente para que en un plazo no mayor a 10 días hábiles presente copia del recibo o, en su caso, efectúe la aclaración correspondiente;
+IV. Señalar lugar y fecha de emisión.
 
-II. Una vez transcurrido el plazo a que se refiere la fracción anterior, si el contribuyente no hubiere presentado la declaración o aclaración correspondiente o de haberla presentado subsistan las diferencias, sin perjuicio de otros procedimientos de aclaración que se señalen en esta Ley, el encargado de la prestación de los servicios públicos o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público del Estado, procederá a determinar los adeudos en el pago de los derechos y remitirá dicha determinación a la Dirección de Recaudación de la Secretaría de Finanzas y Administración, a fin de que éste último realice la notificación del adeudo y, en su caso, el requerimiento de pago correspondiente; y,
+V. Estar fundado, motivado y señalar el objeto que persiga.
 
-III. Deberá suspender el servicio o interrumpir el uso, goce, explotación o aprovechamiento del bien de que se trate.
+VI. El lugar o lugares donde debe efectuarse la inspección.
 
-Al servidor público encargado de la prestación de los servicios o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público del Estado que incumpla con lo dispuesto en este artículo se le impondrán las sanciones que correspondan de acuerdo con la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+VII. El nombre de la persona o personas que deban efectuar la inspección. Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
 
-Los servidores públicos encargados de la prestación de los servicios, así como de la Administración de los bienes del dominio público del Estado que regula esta Ley, serán responsables de la vigilancia del pago y, en su caso, del cobro y entero de los derechos previstos en la misma.
+VIII. Nombre del propietario del lugar y/o establecimiento y/o poseedor o tenedor del medio de transporte, sujeto de inspección.
 
-La omisión total o parcial en el cobro y entero de los derechos, afectará el ingreso del ente encargado de la prestación de los servicios públicos o de la Administración del uso, goce, explotación o aprovechamiento de los bienes de dominio público del Estado, en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
+Tratándose de visitas domiciliarias en materia de clandestinaje, bastará que en las órdenes de inspección se señalen los datos que permitan la identificación del visitado.
 
-Cuando los derechos a que se refiere esta Ley, se incrementen en cantidades equivalentes a gastos y viáticos, en ningún caso el personal oficial que preste el servicio podrá cobrarlos directamente de los particulares.
+###### Artículo 40.
 
-Cuando el contribuyente realice el pago de los derechos y por causas imputables al mismo, la autoridad no pueda realizar la prestación del servicio u otorgar el uso o aprovechamiento de bienes del dominio público del Estado durante el mes inmediato posterior a dicho pago, el contribuyente pagará la diferencia que resulte a su cargo derivado de los incrementos de los derechos que haya en dicho período, salvo en aquellos casos en que la Ley de Ingresos del Estado establezca otro período.
+Los propietarios, responsables, encargados o a quien se encuentre al frente de los lugares, establecimientos, bodegas, talleres, oficinas, sucursales, locales, instalaciones, y fábricas señalados en la orden de verificación, están obligados a permitir el acceso y dar facilidades e informes a los visitadores en el desarrollo de su labor.
 
-###### ARTÍCULO 58.
+###### Artículo 41.
 
-La Federación, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones o estén exentos de ellas, deberán pagar los derechos que establece esta Ley con las excepciones que en la misma se señalan.
+Las inspecciones a que se refiere este Capítulo, se realizarán conforme a lo siguiente:
 
-###### ARTÍCULO 59.
+I. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de inspección al propietario, a su representante legal, al encargado o a quien se encuentre al frente del establecimiento y/o lugar y/o transporte visitado, indistintamente, y con dicha persona se entenderá la inspección.
 
-No se cubrirán los pagos de servicios por la expedición de documentos o copias certificadas de los mismos que sean solicitados por la Federación, Estados y Municipios de asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular, así como por la expedición de copias certificadas para la substanciación del juicio de amparo, no se pagarán derechos.
+II. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
 
-Asimismo, tampoco se cubrirá el derecho correspondiente cuando las copias simples o certificadas se soliciten por las dependencias del Gobierno del Estado, a los tribunales estatales, cuando las mismas se encuentren vinculadas con el ejercicio de sus funciones respecto de la defensa de los intereses del Estado.
+III. En toda inspección, se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los inspectores, en los términos de esta Ley o, en su caso, las irregularidades detectadas durante la inspección.
 
-###### ARTÍCULO 60.
+En dicha acta deberá, además hacerse constar:
 
-Cuando por causas no imputables a los solicitantes de alguno de los servicios a que se refiere la presente Ley, fuere necesario reponer o modificar algún registro, documento o trámite, no se les cobrará los derechos correspondientes a la reposición o modificación, siempre y cuando lo soliciten dentro de los 25 días hábiles posteriores a la fecha de expedición del servicio.
+a. La hora, día, mes y año en que inicie y concluya la diligencia, número y fecha de expedición de la orden de inspección que la motive;
 
-###### ARTÍCULO 61.
+b. Nombre y cargo de la persona con la que se entendió la diligencia, así como una descripción del documento mediante el cual se identificó;
 
-Las dependencias y entidades del Poder Ejecutivo del Estado deberán informar a la Secretaría de Finanzas y Administración a los diez días hábiles posteriores a cada trimestre del ejercicio fiscal vigente, los montos de los ingresos por concepto de derechos o cualquier otro concepto, que se haya estimado, respecto de los percibidos, así como la justificación de la variación existente entre ambos.
+c. Los datos generales de las personas que fungieron como testigos;
 
-###### ARTÍCULO 62.
+d. Las manifestaciones vertidas por el visitado, si quisiera hacerlas;
 
-Se consideran servicios periódicos por los que se deben pagar derechos, los servicios de control vehicular, tanto para vehículos de servicio particular como público, por los conceptos que se relacionan a continuación:
+e. Descripción de los documentos que se pongan a la vista del inspector durante el desarrollo de la diligencia.
 
-I. Por expedición de placas de circulación, incluyendo tarjeta de circulación para vehículos automotores;
+f. El visitador deberá asentar en el acta las circunstancias que observó durante el recorrido físico del establecimiento o lugar visitado.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+IV. El acta deberá ser firmada por la persona con quien se entendió la diligencia y por los testigos que en ella intervinieron. Quien no sepa firmar estampará su huella digital
 
-II. Por refrendo anual de circulación;
+Si al cierre del acta de inspección, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la inspección.
 
-III. Por renovación o refrendo anual de concesiones de servicio público.
+V. En la misma acta, se hará del conocimiento del interesado que cuenta un plazo de 5 días hábiles siguientes a la fecha en que se hubiere llevado a cabo la inspección, para presentar las pruebas y alegatos tendientes a desvirtuar lo ahí asentado.
 
-La expedición de permisos provisionales para circular sin placas, procederá únicamente tratándose de vehículos, que tengan que ser trasladados de la localidad donde se adquieran, a la localidad donde el adquirente realice el trámite de obtención de placas, en función de su domicilio.
+VI. El acta se levantará por duplicado.
 
-Los permisos a que se refiere el párrafo inmediato anterior sólo podrán expedirse hasta por un máximo de 2 meses, y sólo se podrán adquirir a través de las administraciones y receptorías de rentas y por las concesionarias que vendan carros nuevos.
+Tratándose de inspecciones realizadas por autoridades municipales, se podrá aplicar el reglamento municipal que corresponda, en lo que no contravenga a la presente Ley.
 
-Queda estrictamente prohibido la venta de permisos de otras entidades dentro del Estado de Michoacán de Ocampo, y a quien se encuentre realizando la enajenación o trasmisión bajo cualquier título, se le sancionará con multa de 5000 Unidades de Medida y Actualización
+###### Artículo 42.
 
-###### ARTÍCULO 63.
+Transcurrido el plazo a que se refiere la fracción V del artículo anterior, la autoridad competente dictará la resolución que proceda.
 
-Los servicios a que se refieren las fracciones I, II y III del artículo anterior, se prestarán por la Secretaría de Finanzas y Administración, en los siguientes plazos:
+###### Artículo 43.
 
-I. La expedición original de placas de circulación para los vehículos, dentro de los quince días hábiles siguientes a la fecha de adquisición del vehículo.
+El visitador que lleve a cabo la diligencia, podrá proceder a la clausura inmediata del establecimiento o lugar inspeccionado, sin que resulte obligatorio dar cumplimiento a lo dispuesto en el artículo anterior cuando durante la inspección o verificación se detecte que:
 
-Tratándose de vehículos de servicio público, en la misma fecha en que se expida la concesión; y,
+I. El establecimiento o lugar inspeccionado no cuente con la licencia o permiso correspondiente vigente para almacenar o vender bebidas alcohólicas;
 
-II. El holograma de circulación de carácter anual, se cubrirá dentro de los primeros cuatro meses del año calendario de que se trate;
+II. No cumpla con lo dispuesto en las normas legales aplicables;
 
-En los ejercicios fiscales en que, por disposición de la autoridad competente, se realice canje general de placas, el trámite se realizará en los mismos plazos a que se refieren la fracción anterior, o en su caso, cuando así lo disponga la Ley de Ingresos del Estado, para el Ejercicio Fiscal respectivo.
+III. Se lleva a cabo la venta de bebidas alcohólicas distintas a la clasificación autorizada o en forma diversa a la que permita el giro de la licencia o permiso correspondiente; y
 
-Con la finalidad de tener actualizado el «Registro Estatal Vehicular», las personas físicas y morales tenedoras o usuarias de vehículos que cambien su lugar de residencia, ya sea en el interior del Estado, o que se cambien de otra entidad federativa al Estado de Michoacán de Ocampo, deberán presentar aviso de cambio de domicilio, en los primeros treinta días hábiles, posteriores a dicho cambio.
+IV. Se lleva a cabo la venta o suministro de bebidas alcohólicas en cualquier forma y presentación a menores de edad.
 
-###### ARTÍCULO 64.
+La clausura inmediata del establecimiento, se llevará a cabo mediante la colocación de sellos que impidan el acceso al interior del establecimiento o lugar correspondiente, asentando en el acta dicha circunstancia y el sustento legal aplicable.
 
-Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 62 de esta Ley, se realizarán por la autoridad competente, dentro de los mismos plazos a que se refiere la fracción II del artículo anterior. Asimismo, se realizarán por la autoridad los trámites relativos a la expedición por primera vez de las concesiones de servicio público.
+En la misma acta, se hará del conocimiento del interesado que cuenta un plazo de 5 días hábiles siguientes a la fecha en que se hubiere llevado a cabo la inspección, para presentar las pruebas y alegatos tendientes a desvirtuar lo ahí asentado.
 
-Simultáneamente con la prestación de servicios de expedición y renovación de concesiones a que se refiere el párrafo anterior, la Secretaría de Finanzas y Administración realizará el cobro de los derechos correspondientes, conforme a las cuotas que prevé la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-###### ARTÍCULO 65.
+###### Artículo 44.
 
-Por cada cambio de vehículos de servicio público se pagará el costo de la tarjeta de control de servicios, de la tarjeta de circulación y de la calcomanía, establecido en la Ley de Ingresos del Estado, para el ejercicio fiscal de que se trate.
+El Secretario de Gobierno, el Secretario de Finanzas, el Director de Gobierno de la Secretaría de Gobierno o el Director de Ingresos de la Secretaría de Finanzas, podrán emitir orden de clausura inmediata, cuando el informe y dictamen aportados por la Secretaría de Salud o por los Servicios de Salud del Estado de Querétaro, concluya que el establecimiento inspeccionado o verificado no cuenta con las medidas de salubridad e higiene que exigen las leyes de la materia, o bien, cuando el dictamen remitido por el área competente de la Secretaría de Seguridad Ciudadana o por la Unidad Municipal de Protección Civil, establezca que aquél no satisface las normas aplicables en la materia.
 
-La prestación de este servicio se hará dentro del plazo de dos meses a partir de la fecha de la cancelación del registro autorizado.
+La Secretaría de Seguridad Ciudadana o la Unidad Municipal de Protección Civil, podrán emitir orden de clausura inmediata, cuando, con base en sus dictámenes, observen o determinen que el establecimiento se encuentra en el supuesto de la fracción II del artículo anterior.
 
-La revalidación de concesiones deberá realizarse de acuerdo con el calendario oficial que señale la Comisión Coordinadora del Transporte Público de Michoacán de Ocampo.
+###### Artículo 45.
 
-###### ARTÍCULO 66.
+De todo procedimiento administrativo realizado con motivo de la aplicación de la presente Ley, la autoridad que lo lleve a cabo, deberá informar de ello a la Secretaría de Gobierno, cinco días después de que haya quedado firme la resolución emitida.
 
-Los derechos por los servicios periódicos que preste el Gobierno del Estado, que no sean pagados dentro de los plazos a que se refiere la presente Ley o la Ley de Ingresos del Estado, para el ejercicio fiscal respectivo, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate, además de multas y demás accesorios que se generen conforme al Código Fiscal del Estado de Michoacán de Ocampo.
+### Capítulo Noveno. Infracciones y Sanciones
 
-La Secretaría de Finanzas y Administración, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado de Michoacán de Ocampo, cuando éstas no se cumplan dentro de los plazos establecidos.
+###### Artículo 46.
 
-La autoridad de tránsito municipal y en su caso, por virtud de los convenios que se celebren, la autoridad de tránsito del Estado podrá retirar de la circulación a los vehículos que hayan sido embargados a sus propietarios, previa designación de la autoridad que corresponda, como depositaria de los mismos.
+Se consideran infracciones a la presente Ley, las siguientes:
 
-###### ARTÍCULO 67.
+I. Almacenar o vender bebidas alcohólicas en los establecimientos y lugares que no cuenten con la licencia o permiso correspondiente vigente;
 
-La Secretaría de Finanzas y Administración, simultáneamente a la recaudación de los «Derechos por Servicios de Transporte Público», llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el «Registro Estatal Vehicular» para su integración a la «Red Nacional del Sistema Automatizado del Registro Público Vehicular» mediante la realización de las siguientes actividades:
+II. Portear bebidas alcohólicas sin la licencia o autorización vigente;
 
-I. Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a las reglas generales que expida la Secretaría de Hacienda y Crédito Público;
+III. Tener licencia sin el refrendo correspondiente;
 
-II. Realizar actos de verificación y comprobación para mantener actualizado el «Registro Estatal Vehicular», conforme a los lineamientos y normatividad correspondientes;
+IV. Dejar de llevar consigo la cédula de empadronamiento respectiva o bien el registro de cada vehículo;
 
-III. Recibir y en su caso requerir los avisos, manifestaciones y demás documentos, que, conforme a las diversas disposiciones legales aplicables, deban presentarse;
+V. Vender o suministrar al público bebidas alcohólicas fuera del establecimiento o lugar autorizado para tal efecto;
 
-IV. Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público, o cualquier otra dependencia o entidad federal, mediante la normatividad correspondiente;
+VI. Vender o suministrar bebidas alcohólicas a miembros uniformados de las corporaciones policiales y militares;
 
-V. Proporcionar a la Secretaría de Hacienda y Crédito Público, así como a cualquier dependencia o entidad estatal o federal, de conformidad con la normatividad correspondiente, la información actualizada de los registros efectuados en el «Registro Estatal Vehicular», en la forma y términos de la normatividad respectiva; y,
+VII. Vender o suministrar bebidas alcohólicas a personas que porten armas;
 
-VI. Independientemente de que la Secretaría de Hacienda y Crédito Público, así como cualquier dependencia o entidad estatal o federal no lo establezca en la normativa correspondiente, los propietarios de vehículos solicitarán la baja de las placas anteriores y dotación de nuevas, dentro de los quince días hábiles siguientes a la fecha de presentación de la denuncia ante la autoridad competente, por la pérdida de una o ambas placas, por robo o destrucción total del vehículo; por cambio de servicio y por restricción de circulación en otra Entidad Federativa.
+VIII. Vender o suministrar bebidas alcohólicas a personas que se encuentren en notorio estado de ebriedad o bajo la influencia de alguna droga o enervante;
 
-Para la dotación de placas a los vehículos a que se refieren los supuestos enunciados en el párrafo que antecede, la documentación que se solicite como requisito por la autoridad fiscal estatal, será únicamente para efectos de inscripción de los vehículos, en el «Registro Estatal Vehicular», sin que dicho registro implique el reconocimiento de la autenticidad de los documentos, siendo responsabilidad de los particulares, demostrar la misma, cuando así se requiera por parte de las autoridades competentes.
+IX. Vender o suministrar, dentro de los establecimientos o lugares autorizados, bebidas alcohólicas en los días y horarios en que exista prohibición expresa en las leyes o por mandato de la autoridad competente;
 
-Lo referido en el párrafo anterior, también será aplicable tratándose del documento denominado comúnmente «carta factura».
+X. Vender o suministrar bebidas alcohólicas distintas a la clasificación autorizada o en forma diversa a la que permita el giro de la licencia o permiso correspondiente;
 
-### CAPÍTULO II. DE LAS EXENCIONES
+XI. Vender o suministrar bebidas alcohólicas en cualquier forma y presentación a menores de edad;
 
-###### ARTÍCULO 68.
+XII. Tener el establecimiento vista del exterior al interior, en el caso de bares, cantinas, cervecerías, pulquerías y centros nocturnos;
 
-No se pagarán derechos por los servicios que se presten a Dependencias del Poder Ejecutivo del Estado, a sus Organismos Descentralizados cuando se trate de:
+XIII. Tener el establecimiento acceso por lugares distintos a la vía pública o comunicación con habitaciones o lugares ajenos al mismo;
 
-I. Los derechos por la prestación de servicios públicos, por los conceptos referidos a continuación:
+XIV. Permitir el acceso a menores de edad a los establecimientos en los que está prohibido su ingreso;
 
-Por expedición de placas de circulación, incluyendo tarjeta de circulación para vehículos automotores;
+XV. Abstenerse o negarse el propietario, su representante o encargado del establecimiento, a mostrar al personal autorizado por la autoridad competente la licencia o permiso correspondiente, cuando le sea requerido;
 
-Por reposición de placas, en caso de pérdida y/o robo a vehículos oficiales registrados en el Sistema Estatal Vehicular destinados a servicios social;
+XVI. Obstaculizar o no permitir que se lleve a cabo la inspección o verificación ordenada por la autoridad competente, aun cuando dicha conducta la realice persona distinta al titular de la licencia o permiso correspondiente. En este caso, quien obstaculice la verificación será puesto a disposición de las autoridades correspondientes;
 
-Por requerir la baja por robo, destrucción y/o subasta de vehículos oficiales registrados en el Sistema Estatal Vehicular destinados a servicios social;
+XVII. Vender o suministrar bebidas alcohólicas fuera del horario autorizado;
 
-Por holograma de circulación o refrendo anual de calcomanía de circulación; siempre y cuando sean utilizados para la prestación de
+XVIII. Permitir a menores de dieciocho años de edad atender los establecimientos que tengan como fin exclusivo o preponderante la venta y consumo de bebidas alcohólicas;
 
-servicios públicos de:
+XIX. Distribuir el porteador que cuente con licencia o autorización, bebidas alcohólicas en lugares y horarios diferentes a los indicados en aquéllos;
 
-A) Rescate;
+XX. Dejar de cumplir con las medidas de seguridad, así como las normas oficiales mexicanas u otras aplicables en materia de protección civil, que deban observarse en los establecimientos regulados por esta Ley;
 
-B) Patrullas;
+XXI. Dejar de cumplir con las medidas de salubridad e higiene que deben observarse en los establecimientos regulados por esta Ley;
 
-C) Transportes de limpia del municipio, cuyo servicio no esté concesionado a particulares;
+XXII. Omitir llevar a cabo el refrendo de la licencia en el tiempo y forma establecidos por las disposiciones legales aplicables;
 
-D) Pipas de agua;
+XXIII. Permitir el acceso de personas a los establecimientos, en cantidad superior a la indicada en el dictamen respectivo;
 
-E) Servicios funerarios;
+XXIV. Vender o suministrar bebidas alcohólicas, a través de la denominada barra libre;
 
-F) Las ambulancias dependientes de cualquiera de esas entidades, de organismos descentralizados de ellas, que presten servicios de seguridad social o de instituciones de beneficencia autorizadas por las leyes de la materia; y,
+XXV. Por sí o por interpósita persona, vender o distribuir bebidas alcohólicas en envase cerrado con fines comerciales al mayoreo, a establecimientos o lugares que no tengan licencia o permiso vigentes;
 
-G) Los destinados a cuerpos de bomberos.
+XXVI. Proveer de recipientes de cualquier tipo o material a los clientes de un establecimiento o lugar autorizado a la venta de bebidas alcohólicas para consumo dentro del mismo, con la finalidad de que lleven hacia el exterior las bebidas alcohólicas que les han sido suministradas;
 
-La exención anterior, aplicará también a los vehículos de la Federación y de los Municipios.
+XXVII. Anunciar bebidas alcohólicas en cualquier lugar o espacio exterior, dentro de un radio de cien metros respecto de una escuela o institución educativa de cualquier índole, centros o unidades deportivos;
 
-H). Los vehículos oficiales registrados en el sistema estatal vehicular destinados a servicio social.
+XXVIII. Dejar de proporcionar, el propietario, su representante o encargado de bodega o almacén de cerveza, vinos y licores, a la autoridad competente, copia de la declaración de clientes y proveedores que presenten a la Secretaría de Hacienda y Crédito Público;
 
-II. Tampoco se pagarán derechos por los servicios del Registro Civil siguientes:
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-A) Registro de nacimiento de menores de un año, cuando se hagan en las propias oficinas;
+XXIX. Abstenerse de ofertar y promover el consumo de alimentos preparados al interior de los establecimientos, con precio igual o menor al que presente la bebida alcohólica ofertada al precio más bajo;
 
-B) Por reconocimiento de hijos ante el oficial del registro civil, después de registrado el nacimiento;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-C) Por inscripción de actas de defunción;
+XXX. Portear bebidas alcohólicas sin cumplir con las obligaciones previstas en esta Ley; y
 
-D) Por expedición de certificados, copias certificadas o constancias de reconocimiento de hijos ante el oficial del registro civil y de defunción;
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
 
-E) Por autorización de actas de matrimonio celebrados en forma colectiva; y,
+XXXI. Negarse a proporcionar de manera gratuita agua natural purificada, como lo establece la fracción V, del artículo 13 de este ordenamiento.
 
-F) Registro de nacimiento y reconocimiento de hijos con motivo de la celebración de matrimonios en forma colectiva.
+###### Artículo 47.
 
-III. La expedición de copias certificadas, o certificaciones a solicitud de:
+Las autoridades competentes podrán imponer a los infractores, una o más de las siguientes sanciones, atendiendo a la gravedad de la infracción:
 
-A) Los núcleos de población, para asuntos ejidales o comunales;
+I. Multa, cuya base será el número de veces de salario mínimo general diario vigente en la zona, en adelante expresado como VSMGDVZ;
 
-B) Los alumnos, respecto de estudios de cualquier grado;
+II. Suspensión de la licencia, por treinta días;
 
-C) Los trabajadores de alguna entidad pública, para acreditar sus servicios o su buena conducta;
+III. Suspensión de la licencia, por sesenta días;
 
-D) Los servidores públicos fiscales del Poder Ejecutivo del Estado, para acreditar la solvencia de sus fiadores;
+IV. Revocación de licencia o permiso; o
 
-E) Los acusados, para que surtan sus efectos en los procesos penales que se les instruyan; y,
+V. Clausura definitiva.
 
-F) Los obreros, para asuntos laborales.
+###### Artículo 48.
 
-### CAPÍTULO III. ACCESORIOS DE DERECHOS
+Se aplicará multa de:
 
-###### ARTÍCULO 69.
+I. 100 a 200 VSMGZ, por incurrir en cualquiera de las prohibiciones previstas en los artículos 18, 19 y 20 de esta Ley.
 
-De conformidad con lo previsto por el Código Fiscal del Estado de Michoacán de Ocampo y por la Ley de Ingresos del Estado de Michoacán de Ocampo para el ejercicio que corresponda, la falta de pago oportuno de Derechos, genera accesorios, recargos, multas o sanciones, gastos de ejecución e indemnizaciones, entre otros, asociados a los derechos, mismos que se liquidarán y pagarán conforme a lo establecido por dichos ordenamientos.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-## TÍTULO QUINTO. INGRESOS POR CONTRAPRESTACIONES POR LOS SERVICIOS QUE PRESTE EL ESTADO EN SUS FUNCIONES DE DERECHO PRIVADO
+II. 100 a 250 VSMGZ, por infringir cualquiera de las disposiciones señaladas en las fracciones IV, VIII, XIII, XXII, XXVI, XXVII, XXVIII, XXIX, XXX y XXXI del artículo 46.
 
-### CAPÍTULO ÚNICO. PRODUCTOS
+III. 251 a 300 VSMGZ, por cada infracción a lo dispuesto en las fracciones II, V, XII, XV y XVII del artículo 46.
 
-###### ARTÍCULO 70.
+IV. 301 a 350 VSMGZ, por cada infracción a lo dispuesto en las fracciones I, III, VI, VII, IX, X, XI, XIV, XVI, XVIII, XIX, XX, XXI, XXIII, XXIV y XXV del artículo 46.
 
-Los productos son las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado del Estado, como son, entre otros:
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
-I. Rendimiento o intereses de capital y valores del Estado;
+Las multas que impongan las autoridades competentes, serán determinadas conforme a lo dispuesto en esta Ley; su cobro lo efectuará la autoridad fiscal que corresponda calculadas bajo la Unidad de Medida y Actualización (UMA) en los términos del Código Fiscal del Estado de Querétaro.
 
-II. Venta de publicaciones del Periódico Oficial del Estado;
+Se impondrán al infractor tantas sanciones como infracciones haya cometido.
 
-III. Venta de publicaciones oficiales, leyes y reglamentos que edite el Poder Ejecutivo del Estado, conforme al costo señalado por la por la Dependencia respectiva;
+Al imponer sanciones pecuniarias, superiores al mínimo establecido en esta Ley, la autoridad que emita la resolución deberá valorar la gravedad de la infracción, considerando el daño producido o que pueda producirse, las condiciones, si existe reincidencia, el beneficio obtenido como resultado de la infracción, las demás circunstancias que hubiesen concurrido, las pruebas aportadas, los dictámenes que correspondan y los alegatos formulados, en su caso.
 
-IV. Suministro de calcomanías u hologramas y certificados para verificación vehicular de emisiones contaminantes; y,
+Cuando la autoridad competente detecte que el titular de la licencia o permiso de que se trate, ha incurrido en alguna causa para la suspensión o revocación de los mismos, remitirá el expediente respectivo a la Secretaría de Gobierno, quien, en su caso, iniciará el procedimiento correspondiente.
 
-V. Otros Productos, como resultado de establecimientos y empresas del Estado, venta de impresos y papel especial; y los demás que señalen las disposiciones aplicables.
+###### Artículo 49.
 
-## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS
+Se aplicará suspensión de los derechos derivados de licencias o permisos, de:
 
-### CAPÍTULO I. APROVECHAMIENTOS
+I. Treinta días, por incumplimiento a las obligaciones señaladas en los artículos 12 y 13, así como en los casos de reincidencia en cualquiera de las infracciones previstas en el artículo 46.
 
-###### ARTÍCULO 71.
+II. Sesenta días, cuando con motivo de la inspección o verificación realizada por la autoridad competente se detecte que se han cometido dos o más infracciones de las señaladas en el artículo 46.
 
-Son los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal, multas e indemnizaciones no fiscales, reintegros, donativos y otros, así como por uso o enajenación de bienes muebles, inmuebles e intangibles, por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia, como son entre otros:
+###### Artículo 50.
 
-I. Por Venta de Bases de Licitación:
+Se revocará la licencia o permiso, cuando:
 
-A) Bases de invitación restringida; y,
+I. Con motivo de la inspección o verificación realizada por la autoridad competente, se detecte que el infractor haya reincidido en una o más infracciones u obligaciones señaladas en esta Ley
 
-B) Bases de Licitación Pública.
+Se entiende por reincidencia, la segunda o posteriores veces que se sancione al infractor por la comisión de una conducta establecida en el mismo artículo y fracción de esta Ley
 
-II. Multas: Multas por infracciones a leyes, reglamentos y demás disposiciones normativas de carácter Estatal;
+II. Su titular ceda o arriende la licencia o permiso o los derechos derivados de los mismos o cambie el domicilio del establecimiento, sin la autorización de la Secretaría de Gobierno;
 
-III. Reintegros de Recursos Financieros no devengados por Dependencias y Entidades paraestatales de la Administración Pública Estatal;
+III. Su titular constituya o permita que se constituya un gravamen sobre la licencia o permiso;
 
-IV. Donaciones de cualquier naturaleza, distintas a las que se establezcan en las disposiciones de Desarrollo Urbano del Estado;
+IV. Los establecimientos regulados por esta Ley, no cumplan con los requisitos de seguridad y salubridad que deben reunir, de conformidad con la ley de la materia y demás disposiciones legales aplicables;
 
-V. Indemnizaciones por cheques no pagados por las instituciones bancarias, en los términos de lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo, y otras indemnizaciones a favor del Erario Estatal, independientemente de su origen;
+V. Se vendan o suministren bebidas alcohólicas fuera de las presentaciones y especificaciones que establece la legislación sanitaria vigente o en contra de la forma que permita el giro correspondiente;
 
-VI. Recuperación de los costos por la realización de los procedimientos de adjudicación de contratos para la adquisición de bienes o servicios, o ejecución de obras públicas, ya sea por licitación pública o por invitación restringida, de conformidad con las leyes y demás disposiciones aplicables en cada materia, como sigue:
+VI. Se opere con licencia o permiso suspendidos; y
 
-A) Conforme al monto que determine el Comité de Adquisiciones del Poder Ejecutivo, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva, para la adquisición de bienes o servicios; y,
+VII. Se incurra en el incumplimiento de la obligación establecida en la fracción IV del artículo 13 y de los supuestos del artículo 27.
 
-B) Conforme al monto que determine la dependencia o entidad de que se trate, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la ejecución de obra pública.
+###### Artículo 51.
 
-Independientemente de la Dependencia, o Entidad de la Administración pública que realice la adjudicación de contratos a que se refieren los incisos anteriores, el importe que se cobre a los proveedores de bienes y servicios y contratistas de obra, deberá enterarse en la caja de la Secretaría de Finanzas y Administración;
+Se procederá a la clausura definitiva del establecimiento, cuando la resolución emitida dentro del procedimiento administrativo relativo a suspensión de derechos o revocación de licencias y permisos, se determine la suspensión o la revocación de los mismos.
 
-VII. Cuotas de Recuperación de los Centros de Comercialización y Abasto Popular;
+Se entiende por clausura, como medida cautelar, el acto administrativo, realizado por la autoridad competente, a través del cual se suspenden las actividades dentro de un establecimiento en el que se almacenen, vendan o consuman bebidas alcohólicas, al actualizarse cualquiera de los supuestos establecidos en el artículo 11 fracción II, 43 y 44 de la presente Ley o como consecuencia de la imposición de alguna de las sanciones previstas en sus artículos 48 fracciones II, III y IV y 49 fracciones I y II.
 
-VIII. Incentivos por Administración de contribuciones municipales coordinadas, en los términos de los convenios respectivos;
+Para el caso de que se ordene la clausura mediante resolución, como consecuencia de la suspensión de los derechos o revocación de la licencia o permiso correspondiente, el personal que designe la autoridad emisora de dicho acto administrativo procederá en los términos del Código Fiscal del Estado de Querétaro y de la presente Ley; procediendo además a colocar sellos de papel engomado, mismos que se pegarán en todos los accesos al establecimiento en forma tal que impidan totalmente la entrada al mismo.
 
-IX. Ingresos provenientes de lo dispuesto por la Ley de Extinción de Dominio del Estado de Michoacán de Ocampo;
+###### Artículo 52.
 
-X. Herencias vacantes, inmuebles mostrencos y legados en favor del Estado;
+La reincidencia en la comisión de las infracciones previstas en esta Ley será evaluada por la Secretaría de Gobierno, pudiendo ésta negar el refrendo correspondiente de la licencia o permiso, mediante resolución debidamente fundada y motivada.
 
-XI. Herencias derivadas de juicios sucesorios, distintas de bienes inmuebles que deriven de juicios de la misma naturaleza, que se incorporen directamente al patrimonio del Estado;
+Se entiende por reincidencia, la comisión de una misma infracción por dos o más ocasiones en un período de 365 días naturales.
 
-XII. Fianzas que se hagan efectivas a favor del Gobierno del Estado, distintas a las que se otorguen en garantía de créditos fiscales;
+###### Artículo 53.
 
-XIII. Reintegros por responsabilidades de servidores públicos, de conformidad con la Ley de la Materia;
+El levantamiento de clausura será ordenado por la autoridad que la decretó, una vez que se haya efectuado el pago de las multas respectivas y corregido las situaciones que originaron la clausura correspondiente.
 
-XIV. Tesoros ocultos, en un equivalente al 15 por ciento del valor de los bienes, determinado por perito especializado en la materia;
+###### Artículo 54.
 
-XV. Recuperación de Patrimonio Fideicomitido por Liquidación de Fideicomisos;
+La autoridad que haya ordenado la clausura, designará al personal que habrá de llevar a cabo el rompimiento de los sellos que se hayan colocado, debiendo levantarse al efecto acta circunstanciada por triplicado ante dos testigos designados por el titular de la licencia o, en su defecto, por la autoridad encargada de efectuar la diligencia, entregándose un ejemplar al titular de la licencia, remitiéndose uno o más a la Secretaría de Gobierno y el original quedará en poder de la autoridad que ordene el acto. En dicha acta se hará constar la corrección de las circunstancias que originaron la clausura y se asentarán las nuevas condiciones del establecimiento.
 
-XVI. Recuperación de Primas de Seguro por Siniestros de vehículos terrestres y aéreos;
+###### Artículo 55.
 
-XVII. Recuperación de Primas de Seguro por Siniestros Catastróficos (Secretaría de Agricultura y Desarrollo Rural);
+Las obligaciones fiscales derivadas de lo dispuesto en este capítulo, se determinarán y liquidarán conforme a las disposiciones del Código Fiscal del Estado de Querétaro.
 
-XVIII. Arrendamiento y explotación de Bienes Muebles e Inmuebles;
+Las garantías constituidas para asegurar el interés fiscal, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-XIX. Enajenación de Bienes Muebles e Inmuebles;
+###### Artículo 56.
 
-XX. Los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, cubrirán un cinco al millar sobre el importe de cada una de las estimaciones de trabajo, para los servicios de vigilancia, inspección y control necesarios para su ejecución. De conformidad con lo dispuesto por el Artículo 43 de la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado de Michoacán de Ocampo y sus Municipios, y al Acuerdo de Coordinación que celebran la Secretaría de la Función Pública y el Estado de Michoacán de Ocampo, cuyo objeto es la realización de un programa de coordinación especial denominado Fortalecimiento del Sistema Estatal de Control y Evaluación de la Gestión Pública, y Colaboración en materia de Transparencia y Combate a la Corrupción, publicado en el Diario Oficial de la Federación el 1 de noviembre del año 2012.
+Cuando con motivo de la aplicación de la presente Ley, de las inspecciones y verificaciones que se realicen de acuerdo con la misma, se conozca por cualquier persona o autoridad la posible comisión de algún delito, lo hará del inmediato conocimiento del Ministerio Público.
 
-La Secretaría de Finanzas y Administración, y en su caso, las Entidades Paraestatales y organismos autónomos, al cubrir cada una de las estimaciones o pagos, retendrán el importe correspondiente a la aplicación del derecho a que se refiere esta fracción.
+### Capítulo Décimo. Revocación de Licencias y Permisos
 
-Las dependencias u organismos públicos federales, estatales o municipales que suscriban convenios o contratos con alguna de las dependencias o entidades paraestatales de la Administración Pública del Estado, por los actos a que se refiere el primer párrafo de esta Fracción, estarán obligados a realizar el pago de los Derechos por los servicios a que se refiere la misma;
+###### Artículo 57.
 
-XXI. Otros Aprovechamientos:
+La Secretaría de Gobierno es la autoridad competente para imponer las sanciones previstas en el artículo 49 de la presente Ley, así como para substanciar el procedimiento administrativo que previamente deberá desahogarse de la siguiente forma:
 
-A) Comité de Adquisiciones del Poder Ejecutivo del Estado
+I. Se hará saber al titular de la licencia o permiso correspondiente el inicio del procedimiento, debiendo notificarle la infracción o infracciones que se le atribuyan, así como los medios por los cuales la autoridad tuvo conocimiento de la comisión de las mismas;
 
-1. Por inscripción en el Registro de Padrón de Proveedores o ampliación de claves de suministro, para personas físicas o morales residentes en el Estado.
+II. Se concederá al titular de la licencia o permiso, un plazo de diez días hábiles para que por escrito ofrezca y exhiba las pruebas, defensas y alegatos que estime pertinentes para desvirtuar las infracciones que se le atribuyan; y
 
-2. Por inscripción en el Registro de Padrón de Proveedores o ampliación de claves de suministro, para personas físicas o morales residentes en el exterior del Estado.
+III. Presentadas las pruebas y desahogadas las que así lo ameriten o transcurrido el plazo fijado en la fracción anterior, la Secretaría de Gobierno emitirá la resolución correspondiente, misma que deberá notificar de manera personal al interesado, en un plazo no mayor de tres meses, contados a partir de la fecha en que inició el procedimiento de revocación.
 
-3. Inscripción en el Registro de Padrón de Proveedores (exceptuando la acreditación de antigüedad.
+###### Artículo 58.
 
-4. Por actualización de Constancia en el Registro de Padrón de Proveedores, para personas físicas o morales residentes en el Estado.
+El escrito a que se refiere la fracción II del artículo anterior, deberá interponerse ante la propia autoridad que emita el acto y satisfacer los siguientes requisitos:
 
-5. Por actualización de Constancia en el Registro de Padrón de Proveedores, para personas físicas o morales residentes en el exterior del Estado.
+I. El nombre del titular de la licencia o permiso y de su representante legal, en su caso. Quien promueva a nombre de otra persona, deberá acreditar su personalidad con los documentos idóneos;
 
-6. Por la emisión o reposición de la Tarjeta de Registro de Proveedor.
+II. Domicilio para oír y recibir notificaciones en la ciudad donde la Secretaría de Gobierno tenga su domicilio;
 
-7. Copia simple.
+III. El acto que se impugna;
 
-8. Copia Certificada.
+IV. La fecha en que tuvo conocimiento del acto impugnado;
 
-9. Cuota por Adjudicación Directa.
+V. Las defensas y alegatos que estime pertinentes;
 
-10. Ampliación de Claves de Suministro para personas físicas o morales residentes en el Estado de Michoacán
+VI. Ofrecer las pruebas que a su derecho convengan, relacionándolas con los hechos controvertidos; y
 
-11. Ampliación de Claves de Suministro para personas físicas o morales residentes en el exterior del Estado de Michoacán de Ocampo.
+VII. Ostentar la firma autógrafa del titular de la licencia o permiso.
 
-B) Servicios para tramitar el Pasaporte ante la Secretaría de Relaciones Exteriores:
+Cuando no se cumpla con alguno de los requisitos anteriores, la autoridad prevendrá al titular de la licencia o permiso para que en un plazo no mayor de tres días hábiles los indique, aclare o complete; en caso de incumplimiento, se tendrá por no presentado.
 
-I. Por los servicios y documentos necesarios para tramitar el Pasaporte en oficinas estatales que funcionan como enlace de la Secretaría de Relaciones Exteriores. (No incluye fotografías).
+###### Artículo 59.
 
-C) Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el Artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas de difícil aprovechamiento, la Secretaría de Finanzas y Administración, recaudará su equivalente en moneda nacional, conforme a los valores que se determinen.
+Cuando las pruebas documentales no obren en poder del titular de la licencia o permiso, o si éste no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad requiera su remisión cuando esto sea legalmente posible.
 
-Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración por conducto de las autoridades catastrales, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el Capítulo Sexto del Título Primero de la Ley de Catastro del Estado de Michoacán de Ocampo; y,
+###### Artículo 60.
 
-XXII. Otros no especificados.
+Serán admisibles toda clase de pruebas, excepto la testimonial y la confesional de autoridades.
 
-###### ARTÍCULO 72.
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución correspondiente.
 
-Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo a la naturaleza y origen del crédito por medio del procedimiento de ejecución o por la vía judicial.
+Harán prueba plena, la confesión expresa del titular de la licencia o permiso, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, pero si en estos últimos se contiene declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
-### CAPÍTULO II. ACCESORIOS DE APROVECHAMIENTOS
+Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
-###### ARTÍCULO 73.
+Si por relación de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
-Tratándose de aprovechamientos a que se refiere el presente Título, que no hayan sido cubiertos en la fecha o dentro del plazo fijado por la normatividad correspondiente, se causarán multas, actualización, indemnización y recargos, asociados a los aprovechamientos, mientras que los recargos se determinarán de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
+###### Artículo 61.
 
-Los aprovechamientos derivados de multas por infracciones a disposiciones administrativas sólo se actualizarán, sin generar los demás accesorios, señalados en el párrafo anterior.
+La resolución que se emita se fundará en derecho y examinará todos y cada uno de los argumentos hechos valer por el titular de la licencia o permiso, dentro del plazo concedido al efecto, teniendo la autoridad la facultad de invocar hechos notorios.
 
-## TÍTULO SÉPTIMO. INGRESOS POR VENTA DE BENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS
+En la resolución correspondiente, la Secretaría de Gobierno podrá:
 
-###### ARTÍCULO 74.
+I. Suspender los derechos derivados de la licencia, de acuerdo a lo dispuesto por las fracciones I y II del artículo 49 de este ordenamiento;
 
-Son los ingresos propios obtenidos por las Instituciones Públicas de Seguridad Social, las Empresas Productivas del Estado, las entidades de la Administración pública paraestatal, los poderes legislativo y judicial, y los órganos autónomos estatales, por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
+II. Revocar la licencia o permiso de que se trate;
 
-### CAPÍTULO I. INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
+III. Ordenar la clausura del establecimiento; y
 
-###### ARTÍCULO 75.
+IV. Declarar subsistentes los derechos del titular de la licencia o permiso de que se trate.
 
-Son los ingresos obtenidos por las entidades paraestatales y Fideicomisos no empresariales y no financieros por sus actividades de producción, comercialización o prestación de servicios, como son, entre otros: la venta de energía eléctrica.
+###### Artículo 62.
 
-### CAPÍTULO II. OTROS INGRESOS
-
-###### ARTÍCULO 76.
-
-Son los ingresos propios obtenidos por los poderes Legislativo y Judicial, los órganos Autónomos y las entidades de la Administración pública paraestatal por sus diversas no inherentes a su operación que generan recursos y que no sean ingresos por venta de bienes o prestación de servicios, tales como donativos, entre otros.
-
-## TÍTULO OCTAVO. PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL Y FONDOS DISTINTOS DE APORTACIONES
-
-###### ARTÍCULO 77.
-
-Son los recursos que recibe el Estado y los Municipios por concepto de participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal y fondos distintos de aportaciones.
-
-### CAPÍTULO I. PARTICIPACIONES
-
-###### ARTÍCULO 78.
-
-Son los ingresos que recibe el Estado que se derivan de la adhesión al Sistema Nacional de Coordinación Fiscal, así como las que correspondan a sistemas estatales de coordinación fiscal, determinados por las leyes correspondientes, como son los siguientes:
-
-I. Fondo General;
-
-II. Fondo de Fomento Municipal;
-
-III. ISR Participable;
-
-IV. Fondo de Compensación en la Exención del Impuesto sobre Automóviles Nuevos;
-
-V. Impuesto Especial sobre Producción y Servicios;
-
-VI. Incentivo por la Administración del Impuesto sobre Automóviles Nuevos;
-
-VII. Fondo de Fiscalización y Recaudación;
-
-VIII. Fondo de Compensación, derivado del Impuesto Especial sobre Producción y Servicios a la Venta Final de Gasolinas y Diésel;
-
-IX. Impuesto Especial sobre Producción y Servicios a la Venta Final de Gasolinas y Diésel; y,
-
-X. Derechos de Peaje Puente La Piedad (Capuce).
-
-### CAPÍTULO II. APORTACIONES
-
-###### ARTÍCULO 79.
-
-Son los ingresos que recibe el Estado y Municipios previstos en la Ley de Coordinación Fiscal, cuyo gasto está condicionado a la consecución y cumplimiento de los objetivos que para cada tipo de aportación que establece la legislación en la materia, como son los siguientes:
-
-I. Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo:
-
-A) Servicios Personales.
-
-B) Otros de Gasto Corriente.
-
-C) Gastos de Operación;
-
-II. Para los Servicios de Salud;
-
-III. Para la Infraestructura Social Estatal;
-
-IV. De Aportaciones Múltiples:
-
-A) Para Alimentación y Asistencia Social;
-
-B) De Aportaciones Múltiples para Infraestructura Educativa Básica;
-
-C) De Aportaciones Múltiples para Infraestructura Educativa Media Superior; y,
-
-D) De Aportaciones Múltiples para Infraestructura Educativa Superior;
-
-V. Para Educación:
-
-A) Tecnológica; y,
-
-B) De Adultos;
-
-VI. Para la Seguridad Pública de los Estados;
-
-VII. Para el Fortalecimiento de las Entidades Federativas; y,
-
-VIII. Aportaciones para municipios:
-
-A) Para la Infraestructura Social Municipal y las Demarcaciones Territoriales de la Ciudad de México; y,
-
-B) Para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales de la Ciudad de México.
-
-### CAPÍTULO III. CONVENIOS
-
-###### ARTÍCULO 80.
-
-Son los ingresos que recibe el Estado derivados de convenios de coordinación, colaboración, reasignación o descentralización según corresponda, los cuales se acuerdan entre la Federación y el Estado, como son entre otros los de:
-
-I. Educación;
-
-II. Salud;
-
-III. Materia Hidráulica;
-
-IV. Desarrollo Urbano;
-
-V. Grupos vulnerables; y,
-
-VI. Impartición y procuración de justicia.
-
-### CAPÍTULO IV. INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
-
-###### ARTÍCULO 81.
-
-Son los ingresos que recibe el Estado, derivados del ejercicio de facultades delegadas por la Federación mediante la celebración de convenios de colaboración administrativa en materia fiscal; que comprenden las funciones de recaudación, fiscalización y Administración de ingresos federales y por las que a cambio reciben incentivos económicos que implican la retribución de su colaboración, como son entre otros, los siguientes:
-
-I. Incentivos por la Administración del Impuesto Sobre la Renta de Contribuyentes Intermedios;
-
-II. Incentivos por la Administración del Impuesto Sobre la Renta por Enajenación de Bienes Inmuebles;
-
-III. Incentivos por la Administración de Multas Federales no Fiscales y Multas Federales Fiscales;
-
-IV. Incentivos por la Administración de Derechos por el Otorgamiento de Concesiones, para el Uso o Goce de la Zona Federal Marítimo Terrestre;
-
-V. Incentivos provenientes del Régimen de Incorporación Fiscal;
-
-VI. Incentivos por el Fondo de Compensación de Repecos y Régimen de Intermedios;
-
-VII. Incentivos por la Administración del Impuesto Sobre la Renta, Impuesto al Valor Agregado, e Impuesto Especial sobre Producción y Servicios de Pequeños Contribuyentes;
-
-VIII. Por actos de Fiscalización Concurrente a Contribuyentes de Impuesto al Valor Agregado;
-
-IX. Por Actos de Fiscalización Concurrente a Contribuyentes de Impuesto Sobre la Renta;
-
-X. Incentivos por Actos de Fiscalización Concurrente a Contribuyentes del Impuesto Especial Sobre Producción y Servicios;
-
-XI. Incentivos por Vigilancia del Cumplimiento de Obligaciones Fiscales del Impuesto al Valor Agregado;
-
-XII. Incentivos por Vigilancia del Cumplimiento de Obligaciones Fiscales del Impuesto sobre la Renta;
-
-XIII. Incentivos por Vigilancia del Cumplimiento de Obligaciones Fiscales del Impuesto Especial sobre Producción y Servicios; y,
-
-XIV. Por Actos de Fiscalización del cumplimiento de las obligaciones fiscales y aduaneras, derivadas de la introducción de mercancías y vehículos de procedencia extranjera.
-
-### CAPÍTULO V. FONDOS DISTINTOS DE APORTACIONES
-
-###### ARTÍCULO 82.
-
-Son los ingresos que recibe el Estado, derivados de fondos distintos de aportaciones y previstos en disposiciones específicas, tales como:
-
-Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, y Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros (Fondo Minero), entre otros.
-
-## TÍTULO NOVENO. TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES Y PENSIONES Y JUBILACIONES
-
-###### ARTÍCULO 83.
-
-Son los recursos que reciben en forma directa o indirecta los entes públicos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
-
-## TÍTULO DÉCIMO. INGRESOS DERIVADOS DE FINANCIAMIENTOS
-
-### CAPÍTULO ÚNICO. FINANCIAMIENTO INTERNO
-
-###### ARTÍCULO 84.
-
-Se consideran ingresos derivados de financiamientos, los siguientes:
-
-I. Los de corto plazo, de conformidad con lo dispuesto por la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
-
-II. Los de largo plazo, de conformidad con los dispuesto por la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como el decreto Legislativo por el que se constituya el correspondiente empréstito; y,
-
-III. En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente.
-
-T R A N S I T O R I O S
-
-PRIMERO. El presente Decreto entrará en vigor el día 1° primero de enero del año 2022 dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Se abroga la Ley de Hacienda del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 31 de diciembre de 2018.
-
-Los procedimientos que hasta antes de la entrada en vigor del presente Decreto se encuentren en trámite de una causa por la vía procesal, se sujetarán a las disposiciones señaladas por la Ley de Hacienda del Estado de Michoacán de Ocampo, vigente al 31 de diciembre del año 2021.
-
-TERCERO. Respecto a la Ley de Ingresos contenida en el Apartado Tercero del presente Decreto:
-
-a) Los ingresos de origen federal que percibirá el Gobierno del Estado, referidos en el artículo 1° codificación numeral 8.1, 8.2, 8.3, 8.4 y 8.5, podrán modificarse conforme a lo siguiente:
-
-I. Los montos de Participaciones en Ingresos Federales referidos en el numeral 8.1, estarán sujetos a lo que se publique en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022;
-
-II. Los montos de los Fondos de Aportaciones Federales referidos en el numeral 8.2, estarán sujetos a lo que señale el Decreto de Presupuesto de Egresos de la Federación para el Año 2022;
-
-III. Los montos de los Convenios de Reasignación de Recursos, referidos en el numeral 8.3, se sujetarán a los importes que efectivamente se acuerde por las partes y se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal sujetos por a los montos previstos para tal efecto. Dichos montos fueron determinados de conformidad con lo dispuesto por el Artículo 5° de la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios;
-
-IV. Los montos de los Incentivos derivados de la Colaboración Fiscal, referidos en el numeral 8.4, se sujetarán a los importes que efectivamente se determinen y recauden;
-
-V. Los montos de los Fondos Distintos de Aportaciones, referidos en el numeral 8.5, se sujetarán a los importes que efectivamente se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal.
-
-Al conocerse los montos referidos, la Secretaría de Finanzas y Administración los incorporará en el trimestre fiscal respectivo, que formará parte de la Cuenta Pública de la Hacienda Estatal, para el Ejercicio Fiscal del Año 2022.
-
-b) Con respecto a los ingresos, de ser necesario, el Titular del Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, podrá emitir disposiciones administrativas de carácter general, las cuales tendrán como propósito facilitar y simplificar el cumplimiento de las obligaciones establecidas en la presente Ley;
-
-c) Cuando algún gravamen no se encuentre previsto en esta ley, pero se establezca en alguna ley, acuerdo, o reglamento estatal respectivamente, éste se causará, liquidará y pagará conforme a lo señalado por estos últimos. Asimismo, cuando en alguna ley, acuerdo o reglamento se establezca alguno de los ingresos previstos en esta ley, y además los primeros señalen otros ingresos no considerados en esta última, se podrán aplicar con las cuotas relativas a los servicios con los que guarden mayor semejanza;
-
-d) El 35 por ciento de honorarios referidos en esta ley, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su Dirección de Contabilidad;
-
-e) Por lo que corresponde a las tres primeras columnas (lado izquierdo) del Artículo 1° de esta Ley, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado;
-
-f) Con motivo del Canje General de placas que se llevará a cabo durante el ejercicio fiscal del año 2022, se hace del conocimiento a los propietarios de los vehículos de servicio público, particular y de motocicletas, que el plazo para llevar a cabo dicho canje, y todos aquellos pagos relacionados con la posesión de su vehículo de servicio público, particular y motocicleta, será de seis meses, a partir del 1° de enero hasta el 30 de junio del año 2022.
-
-El plazo referido en el párrafo inmediato anterior, tratándose de vehículos de transporte público, considera también todos aquellos derechos señalados en el Artículo 19 de esta Ley, relativos a los Derechos por Servicios de Transporte Público;
-
-g) A partir del primero de enero del 2022 y hasta el treinta y uno de enero del mismo año, el Titular del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración, aplicará un descuento del 30 treinta por ciento al pago de derechos por canje general de placas, incluyendo tarjeta de circulación. Durante el mes de febrero, el descuento en la misma materia será del 20 veinte por ciento, y durante el mes de marzo el 10 por ciento, todos del año 2022.
-
-Se condonan los derechos que se causen por la expedición de permisos de circulación, para vehículos del servicio particular, público y motocicletas, en el supuesto de que al hacer el pago referido en el párrafo anterior, la Secretaría de Finanzas y Administración carezca de láminas con las cuales se pueda concretar la prestación de dicho servicio;
-
-h) Los propietarios y poseedores de vehículos extranjeros que se encuentren circulando en el estado, en los términos del segundo párrafo del artículo 42 de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo, pagarán por única ocasión, los derechos por inscripción al Registro Único de Vehículos Extranjeros ante la Secretaría de Finanzas y Administración y serán por la cuota equivalente al derecho por concepto de holograma de circulación; y,
-
-i) Durante el mes de enero de 2022, adicional al descuento establecido en el inciso g) en materia de reemplacamiento y tarjeta de circulación, se hará un descuento en la misma materia: del 10% a los autos cuyo valor sea menor a los 100 mil pesos y mayor a 80 mil pesos; del 20% a los autos cuyo valor se (sic) menor a 80 mil pesos y mayor a 60 mil pesos; del 30% a los autos cuyo valor sea menor a 60 mil pesos y mayor a 50 mil pesos; y del 50 % a los autos con valor menor a 50 mil pesos; todos tomando como referencia el precio correspondiente a cada auto contenido en el libro azul del mes de diciembre de 2021. En caso de que el automóvil de que se trate no se encuentre en dicho libro, se tomará como referencia el auto de la misma marca más similar en tipo y más cercano al año o modelo.
-
-CUARTO. Se implementará el Programa «Ponte a Mano» del período comprendido del quince de enero al quince de marzo de 2022 en materia de Derechos de Control Vehicular, que consiste en la condonación de todos los derechos en materia de refrendo, placas de circulación vehicular y tarjeta de circulación, incluyendo sus accesorios, desde que se haya generado la obligación de pago y hasta el 2021, tanto a particulares como a concesionarios del servicio público siempre y cuando se dé cumplimiento a lo siguiente:
-
-1. Se pague dentro del período comprendido del quince de enero al quince de marzo de 2022, el derecho por concepto de placas, refrendo o ambos, según sea el caso.
-
-2. Se solicite la condonación por parte del particular.
-
-3. En caso de que en ejercicio de las facultades de comprobación en esta materia, las autoridades fiscales determinen créditos fiscales que se hubieren causado hasta el ejercicio fiscal de 2021, el contribuyente, podrán (sic) incorporarse a los beneficios referidos en el párrafo que antecede.
-
-4. Tratándose de créditos fiscales sobre la materia del presente programa, que hubiesen sido impugnados por algún medio de defensa, al momento de solicitar la condonación a que se refiere el numeral 2, el contribuyente deberá acompañar copia sellada del desistimiento correspondiente. Asimismo, en el supuesto de que se impugne el pago de los derechos correspondientes al ejercicio fiscal 2022, quedará sin efectos la condonación, y la autoridad podrá hacerlos exigibles a través del ejercicio de sus facultades.
-
-5. En el caso de que las autoridades fiscales hayan iniciado procedimiento administrativo de ejecución, con motivo de los créditos fiscales generados por concepto de los derechos a que se refiere el presente programa, este se suspenderá desde el momento de presentación de solicitud de condonación. Durante todo el periodo que dure la suspensión a que se refiere este párrafo, se interrumpirá el término para que se consuma la prescripción a que se refiere el artículo 127 del Código Fiscal del Estado de Michoacán de Ocampo, relacionado con los créditos fiscales correspondientes.
-
-6. En ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
-
-7. La solicitud de condonación a que se refiere el presente programa, no constituirá instancia y las resoluciones que dicte la autoridad fiscal al respecto, no podrán ser impugnadas por los medios de defensa.
-
-8. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del presente programa de condonación, en su caso.
-
-Previo al cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, durante todo el Ejercicio Fiscal 2022, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista, mismas que se podrán expedir de manera digital.
-
-El monto del derecho a pagar por las citadas licencias será de $2,000.00 (Dos mil pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia durante todo el Ejercicio Fiscal 2022.
-
-QUINTO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo para su conocimiento, con los respectivos anexos.
-
-SEXTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. La Secretaría de Finanzas y Administración del Gobierno del Estado realizará las adecuaciones administrativas necesarias para dar cumplimiento al presente Decreto, incluidos los anexos que acompañan a esta Ley de Ingresos, conforme a las modificaciones realizadas por este Congreso del Estado.
-
-El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno y del Secretario de Finanzas, de conformidad con lo dispuesto por la primera parte del artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
-
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
-
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO en Morelia, Michoacán de Ocampo, a los 23 veintitrés días del mes de diciembre de 2021 dos mil veintiuno.
-
-ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA.- DIP. ADRIANA HERNÁNDEZ ÍÑIGUEZ.- PRIMER SECRETARIA.- DIP. LAURA IVONNE PANTOJAABASCAL (SIC).- SEGUNDA SECRETARIA.- DIP. ERÉNDIRA ISAURO HERNÁNDEZ.- TERCER SECRETARIO.- DIP. BALTAZAR GAONA GARCÍA. (Firmados).
-
-En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 27 veintisiete días del mes de diciembre del año 2021 dos mil veintiuno.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.- L.A.E. LUIS NAVARRO GARCÍA. (Firmados).
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 22 DE DICIEMBRE DE 2022.
+El procedimiento administrativo a que se refiere este capítulo, se substanciará y resolverá conforme a lo dispuesto por la presente Ley; a falta de disposición expresa, se estará a lo dispuesto por el Código Fiscal del Estado de Querétaro, en lo que resulte aplicable.
 
 ## TRANSITORIOS
 
@@ -1387,65 +1141,119 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 
 P.O. 17 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 324.- APARTADO PRIMERO.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 36, EL ARTÍCULO 42 Y LA FRACCIÓN II DEL ARTÍCULO 62; Y, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 36 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 43, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO.- APARTADO SEGUNDO.- SE REFORMA EL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 8° Y SE ADICIONA UN ARTÍCULO 12 BIS A LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- APARTADO TERCERO.- SE REFORMAN LOS ARTÍCULOS 17 FRACCIÓN IV, 23 PRIMER PÁRRAFO, 26 FRACCIÓN III, 36, 59 FRACCIONES II Y III, 60 FRACCIONES I Y II, Y 113; SE ADICIONAN LOS ARTÍCULOS 25-A, UNA FRACCIÓN IV AL ARTÍCULO 59, UNA FRACCIÓN III AL ARTÍCULO 60; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- APARTADO CUARTO.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 11 BIS Y EL PÁRRAFO QUINTO DEL ARTÍCULO 16; Y, SE ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO AL ARTÍCULO 16; Y, UN PÁRRAFO TERCERO AL ARTÍCULO 17, TODOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- APARTADO QUINTO.- SE REFORMAN LAS FRACCIONES XL Y XLI DEL ARTÍCULO 25; SE ADICIONAN LAS FRACCIONES XLII AL ARTÍCULO 25; XVI BIS Y XVI TER AL ARTÍCULO 30, TODAS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- APARTADO SEXTO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 53 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- APARTADO SÉPTIMO.- SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2023".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO, LEY DE HACIENDA DEL ESTADO DE QUERÉTARO Y EXPIDE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO”.]
 
-PRIMERO. El presente Decreto entrará en vigor el día 1º de enero de 2023, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2016.
 
-SEGUNDO. Los Ingresos de Origen Federal que percibirá el Gobierno del Estado, referidos en el artículo 1º codificación numeral 8.1, 8.2, 8.3, 8.4 y 8.5 de la Ley de Ingresos contenida en el presente Decreto, podrán modificarse conforme a lo siguiente:
+Artículo Segundo. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2016, serán las siguientes:
 
-I. Los montos de Participaciones en Ingresos Federales referidos en el numeral 8.1, estarán sujetos a lo que se publique en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2023;
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
 
-II. Los montos de los Fondos de Aportaciones Federales referidos en el numeral 8.2, estarán sujetos a lo que señale el Decreto de Presupuesto de Egresos de la Federación para el Año 2023;
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente;
 
-III. Los montos de los Convenios de Reasignación de Recursos, referidos en el numeral 8.3, se sujetarán a los importes que efectivamente se acuerde por las partes y se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal sujetos por a (sic) los montos previstos para tal efecto. Dichos montos fueron determinados de conformidad con lo dispuesto por el artículo 5° de la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios;
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos, y
 
-IV. Los montos de los Incentivos derivados de la Colaboración Fiscal, referidos en el numeral 8.4, se sujetarán a los importes que efectivamente se determinen y recauden;
+c) La expedición de certificados de no propiedad;
 
-V. Los montos de los Fondos Distintos de Aportaciones, referidos en el numeral 8.5, se sujetarán a los importes que efectivamente se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal.
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
 
-Al conocerse los montos referidos en este artículo, la Secretaría de Finanzas y Administración los incorporará en el trimestre fiscal respectivo, que formará parte de la Cuenta Pública de la Hacienda Estatal, para el Ejercicio Fiscal del Año 2023.
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
 
-TERCERO. Con respecto a los ingresos establecidos en el presente Decreto, de ser necesario, el Titular del Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, podrá emitir disposiciones administrativas de carácter general, las cuales tendrán como propósito facilitar y simplificar el cumplimiento de las obligaciones establecidas en el mismo.
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular, y
 
-CUARTO. Cuando algún gravamen no se encuentre previsto en la Ley de Ingresos contenida en el presente Decreto, pero se establezca en alguna ley, acuerdo, o reglamento estatal respectivamente, éste se causará, liquidará y pagará conforme a lo señalado por estos últimos. Asimismo, cuando en alguna ley, acuerdo o reglamento se establezca alguno de los ingresos previstos en la Ley de Ingresos contenida en el presente Decreto, y además los primeros señalen otros ingresos no considerados en esta última, se podrán aplicar con las cuotas relativas a los servicios con los que guarden mayor semejanza.
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate;
 
-QUINTO. El 35 por ciento de honorarios referidos en la Ley de Ingresos contenida en el presente Decreto, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su Dirección de Contabilidad.
+Se causará un derecho a razón de 5 VFC por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
 
-SEXTO. Por lo que corresponde a las tres primeras columnas (lado izquierdo) del artículo 1° de la Ley de Ingresos contenida en el presente Decreto, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el 1 Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado.
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
 
-SÉPTIMO. Se implementará el Programa "Apoyo de Escrituración Social" por parte del Gobierno del Estado a través del Instituto Registral y Catastral del Estado de Michoacán de Ocampo durante todo el Ejercicio Fiscal 2023, en materia de Derechos por Servicios de la Dirección del Registro Público de la Propiedad y Derechos por Servicios de Catastro, que consiste en otorgar un estímulo fiscal del 100% de los Derechos que estén obligados a pagar los contribuyentes en materia de inscripción de documentos de propiedad, certificado de libertad de gravamen, desglose de predios, valuación, revisión de aviso y/o cancelación (traslado de dominio) y certificados catastrales siempre y cuando se dé cumplimiento a lo siguiente:
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
 
-I. Tengan como objetivo la Regularización de Asentamientos Humanos a través de la Secretaría de Desarrollo Urbano y Movilidad del Estado de Michoacán, el Registro Agrario Nacional y el Instituto Nacional del Suelo Sustentable;
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios, y
 
-II. Se hayan cubierto en especie o en pago las Áreas de donación a las que están obligados los interesados al momento de fraccionar;
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
 
-III. Los beneficiarios no cuenten con vivienda propia;
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
 
-IV. La familia que ocupe un predio no sea propietaria de otro inmueble o tenga posesión de terrenos en otros asentamientos irregulares y no sea beneficiada por la regulación de más de un lote, cuya superficie no podrá exceder de la extensión determinada por la reglamentación y los programas de desarrollo urbano;
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial;
 
-V. Se encuentren dentro de los municipios de alta y muy alta marginación;
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
 
-VI. En ningún caso el estímulo fiscal a que se refiere este artículo dará lugar a devolución, compensación, acreditación o saldo a favor alguno;
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos, y
 
-VII. La solicitud del estímulo fiscal a que se refiere el presente programa no constituirá instancia y las resoluciones que dicte la autoridad fiscal al respecto, no podrán ser impugnadas por los medios de defensa;
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
 
-VIII. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del programa de estímulo fiscal; y,
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 VFC;
 
-IX. Los demás que considere necesarios el Instituto Registral y Catastral del Estado de Michoacán de Ocampo.
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
 
-OCTAVO. Previo al cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, durante todo el Ejercicio Fiscal 2023, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista, mismas que se podrán expedir de manera digital. El monto del derecho a pagar por las citadas licencias será de $2,500.00 (Dos mil quinientos pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia durante todo el Ejercicio Fiscal 2023.
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
 
-NOVENO. Para efecto de lo señalado en la Ley de Ingresos contenida en el presente Decreto, cuando esta haga mención del refrendo anual de circulación, la Secretaría de Finanzas y Administración, de acuerdo a las disposiciones legales aplicables, emitirá las reglas de carácter general que correspondan.
+MES DE PAGO DESCUENTO
 
-DÉCIMO. Las facultades de coordinación de recaudación de ingresos, reservadas a la Subsecretaría de Ingresos a través de las oficinas recaudadoras del Estado, serán transferidas al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, cuando se constituya como un órgano desconcentrado de la Secretaría de Finanzas y Administración, una vez que entre en vigor la Ley del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
+Enero 10%
 
-DÉCIMO PRIMERO. Los Organismos Públicos Descentralizados que perciban ingresos por venta de bienes y prestación de servicios, deberán reportarlos al Sistema de Control de Ingresos de Entidades Paraestatales de la Secretaría de Finanzas y Administración, a más tardar el día 5 del mes siguiente al que se trate, atendiendo al Acuerdo de Austeridad, Ordenamiento y Transparencia del Gasto Público de la Administración Pública del Estado de Michoacán de Ocampo, Período 2021-2027 y sus Lineamientos, con la finalidad de contar con los elementos que permitan la trazabilidad ingreso-gasto de dichos Organismos.
+Febrero 8%
 
-DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo, con los respectivos anexos.
+Marzo 5%
 
-DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+VIII. Las autoridades fiscales podrán cancelar créditos fiscales en sus registros por incosteabilidad en el cobro.
 
-DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2015, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del impuesto predial;
+
+X. Los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.50 VFC al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria, que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 135 de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+30% En los paquetes familiares (por lo menos tres
+
+personas en las diferentes disciplinas, previa
+
+entrega de una copia del acta de nacimiento
+
+de cada familiar).
+
+Para adultos mayores.
+
+XII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa Apoyo Tenencia, podrán determinar el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, considerando una reducción del veinticinco por ciento respecto de las cuotas, tasas y tarifas establecidas en dicho ordenamiento para efectos de su cálculo.
+
+XIII. Por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.50 VFC a los derechos que se señalan en las fracciones referidas de dicho precepto.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XIV. Por la prestación de los servicios previstos en la fracción I del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 VFC.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía; y
+
+XV. Las calcomanías de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014 y 2015, continuarán vigentes hasta el 31 de marzo de 2017.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2016, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
+
+Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal.
+
+XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución.
+
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir (sic) 1° de enero del 2015.
+
+XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cálculo del Estado de Querétaro, será de $72.50 (setenta y dos pesos 50/100 M.N.).
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”
+
+P.O. 17 DE AGOSTO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 4 DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO”.]
 
@@ -1462,3 +1270,91 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. La Secretaría de Salud contará con un plazo de 6 meses, contados a partir de la entrada en vigor de la presente Ley, para emitir la normatividad y lineamientos que correspondan según lo dispuesto por los artículos 100 y 136 de la Ley de Salud del Estado de Querétaro, para el cumplimiento de la obligación por parte de los establecimientos previstos en el artículo 12, fracción III, Tipo I y Tipo II, de la Ley sobre Bebidas Alcohólicas del Estado de Querétaro.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO NOVENO.
+
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2021)</small>
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos humanos, materiales y financieros con que cuenta la Coordinación de Atención Ciudadana de la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
+
+> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2021)</small>
+
+Los trabajadores de (sic) Coordinación de Atención Ciudadana de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
+
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
+
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en (sic) ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
+
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
+
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
