@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-08-28"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3398,6 +3398,10 @@ Desobediencia y resistencia de particulares.
 177.- Al que, sin causa legítima, rehusare prestar un servicio de interés público al que la Ley lo obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de quince días a un año de prisión y multa de cien a quinientos pesos.
 
 178.- El que sin excusa legal se negare a comparecer ante la autoridad a dar su declaración, cuando legalmente se le exija, no será considerado como infractor en el caso del artículo anterior, sino cuando insista en su desobediencia después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso para que comparezca a declarar.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+Al que desobedezca, no acate, incumpla o infrinja una orden de protección o medida de protección decretada por alguna autoridad ante actos de violencia contra las mujeres, se impondrá una pena de dos a cinco años de prisión, y multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
 179.- Se aplicará de uno a dos años de prisión y multa de cien a dos mil pesos: al que, empleando la fuerza, el amago, o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 
@@ -7548,3 +7552,11 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2657.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 178 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
