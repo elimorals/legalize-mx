@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2020-10-31"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -1681,6 +1681,16 @@ La Secretaría constituirá un Fideicomiso para el manejo de los recursos obteni
 
 La Secretaría y las autoridades municipales, en los términos que señalen los reglamentos correspondientes de esta Ley, deberán integrar los inventarios de emisiones atmosféricas provenientes de fuentes fijas y móviles, de descargas de aguas residuales en los sistemas de drenaje y alcantarillado y de residuos sólidos urbanos e industriales no peligrosos, a fin de vigilar sistemáticamente el cumplimiento de esta Ley, de las disposiciones municipales, las normas y reglamentos ambientales. Creará un sistema de información de las autorizaciones, licencias, permisos, sanciones, medidas de prevención, remediación y contingencia que en la materia deberán otorgarse.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 128 Bis.
+
+En el Estado de Oaxaca está prohibido el uso, distribución, adquisición, donación, regalo o suministro de agroquímicos y plaguicidas peligrosos, productos químicos perturbadores endócrinos, compuestos orgánicos persistentes y otros químicos riesgosos para la salud y el medio ambiente.
+
+La Secretaría emitirá un listado en el que detallará cuáles son los productos prohibidos, que deberá incluir como mínimo el glifosato y los agroquímicos que lo contengan; los enumerados en los anexos A y B del Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes; el anexo III del Convenio de Rotterdam sobre el Procedimiento de Consentimiento Fundamentado Previo Aplicable a Ciertos Plaguicidas y Productos Químicos Peligrosos Objeto de Comercio Internacional, y el Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono.
+
+El listado del párrafo anterior deberá ser actualizado como mínimo cada año.
+
 ###### Artículo 129.
 
 Quienes realicen actividades contaminantes deberán asumir las medidas que se establezcan para minimizar la emisión de contaminantes y habrán de proporcionar toda la información que les sea requerida por las autoridades competentes a fin de dar cumplimiento con lo señalado en el artículo anterior
@@ -3132,3 +3142,19 @@ P.O. 31 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2700.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 128 BIS A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. - La Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca, contara con (sic) periodo de 90 días naturales posteriores a la publicación de este Decreto para emitir el listado previsto en el párrafo tercero del artículo 128 Bis de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
+
+CUARTO. - Los establecimientos comerciales y mercantiles dispondrán de un lapso de 180 días naturales posteriores a la publicación del listado a que se refiere el Artículo Segundo Transitorio del presente Decreto para terminar su inventario de los productos prohibidos; así como para elaborar el plan de sustitución de los mismos.
+
+QUINTO. - La Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca a la entrada en vigor de este Decreto, deberá de promover mediante campañas de difusión las prohibiciones a las que se refiere el artículo 128 Bis de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, principalmente entre distribuidores y usuarios de químicos y agroquímicos.
+
+SEXTO. - Se derogan todas las disposiciones de igual o menor jerarquía que se opongan el (sic) presente Decreto.
