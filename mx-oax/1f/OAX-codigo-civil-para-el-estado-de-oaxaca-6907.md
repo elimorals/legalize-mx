@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2021-08-07"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -568,6 +568,10 @@ VIII. El nombre, edad, ocupación, domicilio y nacionalidad de los padres;
 IX. El nombre, domicilio y nacionalidad de los abuelos paternos y maternos y de los testigos;
 
 X. El nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta de los padres que haga la presentación, en su caso, y el grado de parentesco del registrado con esta última, y aquellos datos precisados en disposiciones legales o convenios expresos firmados sobre el particular por el Ejecutivo Estatal y otras dependencias oficiales.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+XI. La especificación de pertenecer a un pueblo indígena o afromexicano, si fuese la voluntad de la madre, el padre o de la persona que presente a la niña o niño ante la Oficialía del Registro Civil, para su registro.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
 
@@ -17022,3 +17026,15 @@ P.O. 7 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se deroga (sic) todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2690.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 68 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se establece un plazo de ciento ochenta días naturales, a partir de la entrada en vigor de la presente reforma, para que la Consejería Jurídica del Gobierno del Estado, coordine, organice y supervise el ejercicio y funcionamiento de la Dirección del Registro Civil, en cuanto a la aplicación de la presente reforma.
+
+CUARTO.- Se establece un plazo ciento ochenta días naturales a partir de la entrada en vigor de la presente reforma, para que la Dirección del Registro Civil, realice las adecuaciones y reformas correspondientes a su Reglamento Interno, relacionadas con la presente reforma.
