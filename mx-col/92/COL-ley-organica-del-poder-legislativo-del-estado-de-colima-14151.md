@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2021-02-20"
+last_updated: "2021-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 9 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -1976,3 +1976,27 @@ P.O. 20 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 418.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO Y SE REFORMAN, MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DE SU REGLAMENTO”.]
 
 ÚNICO. El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 503.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ COMO EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+
+PRIMERO. La presente Ley entrará en vigor el día de su aprobación por este Poder Legislativo, y se publicará en el Periódico Oficial "El Estado de Colima", con excepción de lo previsto en los artículos transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Legislativo del Estado de Colima publicada en el Periódico Oficial "El Estado de Colima" el día 30 de enero de 1999, con sus consecuentes adiciones y reformas, y se derogan en lo conducente las demás disposiciones legales y reglamentarias que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Las disposiciones jurídicas que prevé esta Ley concernientes a la Junta de Gobierno y Coordinación Política y a las Comisiones Legislativas entrarán en vigor el día 1° de octubre del año 2021, teniendo aplicación para la LX Legislatura y subsecuentes, por lo que la Comisión de Gobierno Interno y Acuerdos Parlamentarios, y las Comisiones Legislativas que conforman la LIX Legislatura conservarán su integración, funciones y prerrogativas hasta la conclusión de la misma, en los términos que prevé la ley abrogada por el artículo transitorio anterior.
+
+La Comisión de Gobierno Interno y Acuerdos Parlamentarios y las Comisiones Legislativas continuarán conociendo y solventando los procedimientos y funciones que les correspondan, en tanto entran en vigor las disposiciones jurídicas previstas por el párrafo anterior.
+
+CUARTO. Los Grupos Parlamentarios que conforman la LIX Legislatura conservarán su integración, funciones y prerrogativas hasta la conclusión de la misma, en los términos que prevé la ley abrogada por el artículo transitorio segundo anterior.
+
+QUINTO. En el caso de que la presente Ley establezca una denominación nueva o diferente respecto de las Comisiones Legislativas, órganos de apoyo a la función legislativa, o direcciones del Congreso cuyas atribuciones estén conferidas bajo una denominación distinta en otras leyes, reglamentos y en general en cualquier disposición jurídica vigente a la entrada en vigor de este Decreto, dichas atribuciones se entenderán asignadas a la Comisión, órgano de apoyo a la función legislativa o dirección del Congreso que le competan tales funciones en términos del presente Decreto.
+
+SEXTO. Las referencias, funciones y atribuciones que otras leyes, reglamentos y en general cualquier disposición jurídica vigente a la entrada en vigor de este Decreto, hagan y otorguen a la Comisión de Gobierno Interno y Acuerdos Parlamentarios y a la Oficialía Mayor se tendrán por hechas y otorgadas a la Junta de Gobierno y Coordinación Política y a la Secretaría General que respectivamente las sustituyen en términos del presente Decreto.
+
+SÉPTIMO. Las referencias, funciones y atribuciones que la Ley de Fiscalización Superior y Rendición de Cuentas hace y otorga a la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos se tendrán hechas y otorgadas a la Comisión de Hacienda, Fiscalización y Cuenta Pública; que la sustituye en esas funciones y atribuciones en virtud de la entrada en vigor del presente Decreto.
+
+La Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos continuará solventando los procesos de revisión y fiscalización de Cuentas Públicas que se encuentren en desarrollo a la entrada en vigor del presente Decreto, hasta en tanto se constituya la Comisión de Hacienda, Fiscalización y Cuenta Pública.
+
+OCTAVO. En un término no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, deberá llevarse a cabo la revisión y en su caso adecuación respectiva a la reglamentación, reglas de operación y demás normas de carácter general que existan al interior del Poder Legislativo, con la finalidad de que las mismas guarden relación y congruencia con la presente Ley y su Reglamento. En tanto ello sucede, los mismos continuarán vigentes en lo que no se opongan al presente decreto.
