@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2020-05-30"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -914,6 +914,10 @@ II. Evitar su aislamiento, permitiendo en todo momento la visita de sus familiar
 III. Garantizar la confidencialidad de los datos de los pacientes; y
 
 IV. Contar con personal necesario, capacitado y especializado para proporcionar de manera eficiente atención integral de las personas con algún trastorno mental de acuerdo con la enfermedad específica que padezcan y el grado de avance que contengan.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+V. Abstenerse de diagnosticar sobre la base exclusiva de la orientación sexual o identidad de género.
 
 ###### Artículo 62.
 
@@ -2262,3 +2266,11 @@ P.O. 30 DE MAYO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Las disposiciones establecidas en el Capítulo VIII denominado “DE LA MASTECTOMÍA”, que se integra por los artículos 62 Bis 14, 62 Bis 15, y 62 Bis 16, correspondiente al Título Segundo de la Ley de Salud del Estado de Colima, que requieran de presupuesto para su instrumentación y desarrollo, se sujetarán a la disponibilidad presupuestaria del Gobierno del Estado, debiéndose prever para el ejercicio fiscal 2021 una partida presupuestal para ello.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 504.- POR EL QUE SE ADICIONA EL CAPÍTULO QUINTO TER, DENOMINADO IDENTIDAD SEXUAL, INTEGRADO POR EL ARTÍCULO 179 TER, AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; ADEMÁS SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 17, DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 61, DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
