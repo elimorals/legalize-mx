@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-09-18"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -295,9 +295,17 @@ II. El establecimiento, mejoramiento y uso adecuado de las áreas de tránsito p
 
 III. La señalización vial y nomenclatura;
 
-IV. La infraestructura de movilidad, servicios y demás elementos inherentes o incorporados a la misma; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2021)</small>
 
-V. La infraestructura y equipamiento auxiliar de los servicios públicos de transporte de pasajeros y de carga que promueva la eficiencia en la prestación del servicio.
+IV. La infraestructura de movilidad, servicios y demás elementos inherentes o incorporados a la misma;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+V. La infraestructura y equipamiento auxiliar de los servicios públicos de transporte de pasajeros y de carga que promueva la eficiencia en la prestación del servicio; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+VI. Garantizar el acceso a mujeres, adolescentes, niñas y niños a un transporte de calidad, seguro, accesible y eficiente, fomentando acciones para eliminar la violencia basada por razones de género y el acoso sexual.
 
 ### CAPÍTULO II. DE LA PLANEACIÓN DE LA MOVILIDAD
 
@@ -1817,6 +1825,10 @@ La Secretaría en coordinación con la autoridad municipal, en su caso, autoriza
 
 La Secretaría otorgará los permisos para la circulación de unidades que presten servicios de carrozas fúnebres y ambulancias.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+Tratándose del servicio especial de ambulancias, la Secretaría conformará un padrón de los vehículos el cual se integrará en el Registro Estatal; corresponderá a la Secretaría de Salud la vigilancia para que la prestación del servicio se lleve a cabo con niveles homogéneos de calidad y seguridad en beneficio de la población en general.
+
 ###### Artículo 147.
 
 El interesado deberá solicitar por escrito a la Secretaría el otorgamiento del permiso, para lo cual deberá cumplir con los requisitos que el Reglamento y las normas técnicas establezcan.
@@ -3154,3 +3166,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de la fecha de
 SEGUNDO.- La Secretaría deberá emitir la norma técnica que regule esta adición dentro de los 60 días hábiles posteriores a la publicación del presente Decreto, en el Periódico Oficial del Gobierno del Estado de Oaxaca, y los concesionarios contarán hasta con el término de seis meses contados partir de la publicación de la norma técnica, para implementar en sus unidades de motor los contenedores para basura.
 
 TERCERO.- La Secretaría, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable, deberá implementar capacitaciones a los concesionarios y/o choferes del transporte público, para el manejo final de los residuos sólidos.
+
+P.O.9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2686.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 5; Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 5 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2687.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 146 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
