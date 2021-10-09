@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2021-08-28"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -215,17 +215,21 @@ XV. Derecho a un traductor. Para efecto de expresar sus necesidades y contar con
 
 XVI. A la protección de la unidad familiar; toda persona, en situación de migración, tienen derecho a la unidad y/o reunión familiar, más aún en tratándose de niñas, niños y adolescentes en movilidad por contextos de vulnerabilidad.
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+XVII. A que la Administración Pública Estatal a través del Instituto de Capacitación y Productividad para el Trabajo, valide los conocimientos obtenidos en el extranjero; y
+
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVII. Defender la unidad Familiar, promover la no separación de las familias por motivos de migración o por su condición de refugiado, salvo los casos en los que se acredite fehacientemente ser necesaria para garantizar el interés superior de la niñez y la adolescencia.
+XVIII. Defender la unidad Familiar, promover la no separación de las familias por motivos de migración o por su condición de refugiado, salvo los casos en los que se acredite fehacientemente ser necesaria para garantizar el interés superior de la niñez y la adolescencia.
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVIII. A no ser separados en virtud de su condición migratoria, y en su defecto, a ser reunificados de ser posible de forma inmediata, y así respetar sus derechos a la unidad familiar; y
+XIX. A no ser separados en virtud de su condición migratoria, y en su defecto, a ser reunificados de ser posible de forma inmediata, y así respetar sus derechos a la unidad familiar; y
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XIX. Las demás que le reconozcan y le confieran las normas aplicables.
+XX. Las demás que le reconozcan y le confieran las normas aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y PARTICULARES
 
@@ -347,9 +351,17 @@ XIV. Brindar asistencia en situaciones excepcionales y en los procesos de retorn
 
 XV. Brindar apoyo a las y los migrantes a través de programas y acciones que incentiven el retorno voluntario y la reunificación familiar en los lugares de origen.
 
-XVI. Promocionar la inversión nacional y la contribución del sector privado para proveer de los productos y servicios, así como el apoyo para generar pequeñas y medianas empresas de migrantes y de sus familias, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2021)</small>
 
-XVII. Fomentar la inversión de los migrantes oaxaqueños y sus familias en proyectos y programas de generación de empleos, crecimiento económico y desarrollo social y de infraestructura en sus comunidades de origen del estado de Oaxaca.
+XVI. Promocionar la inversión nacional y la contribución del sector privado para proveer de los productos y servicios, así como el apoyo para generar pequeñas y medianas empresas de migrantes y de sus familias;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+XVII. Fomentar la inversión de los migrantes oaxaqueños y sus familias en proyectos y programas de generación de empleos, crecimiento económico y desarrollo social y de infraestructura en sus comunidades de origen del Estado de Oaxaca; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+XVIII. Validar los conocimientos que los migrantes oaxaqueños hayan obtenido en el extranjero y que no cuenten con documento oficial que lo avale, a través de un certificado y constancia que lo acredite.
 
 #### SECCIÓN SEGUNDA
 
@@ -940,3 +952,11 @@ P.O. 28 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2615.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XVII Y XVIII, Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 8, DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estadode (sic) Oaxaca. publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estadode (sic) Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2704.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 8, DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
