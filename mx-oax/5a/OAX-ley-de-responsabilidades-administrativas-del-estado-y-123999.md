@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2021-04-29"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -49,9 +49,11 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
 ### Capítulo I. Objeto, ámbito de aplicación y sujetos de la Ley
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia obligatoria en el Estado de Oaxaca, y tiene por objeto establecer las responsabilidades administrativas de los Servidores Públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los procedimientos para su aplicación.
+La presente Ley es de orden público y de observancia general y obligatoria para el Estado y Municipios de Oaxaca, y tiene por objeto establecer las responsabilidades administrativas de los Servidores Públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones y violaciones a las leyes en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los procedimientos para su aplicación.
 
 ###### Artículo 2.
 
@@ -66,6 +68,10 @@ III. Establecer las sanciones por la comisión de faltas de particulares, así c
 IV. Determinar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas, y
 
 V. Crear las bases para que todo Ente público establezca políticas eficaces de ética pública y responsabilidad en el servicio público.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+VI. Diseñar y establecer mecanismos institucionales para que todo ente, y servidor público del Estado y los Municipios, obtengan capacitación desde la perspectiva de género, el reconocimiento a la interculturalidad y el respeto pleno de los derechos de las niñas, los niños y adolescentes.
 
 Todo lo no previsto en la presente Ley, se sujetará a lo establecido en la Ley General de Responsabilidades Administrativas.
 
@@ -148,6 +154,10 @@ III. Los particulares vinculados con faltas administrativas graves.
 ###### Artículo 5.
 
 Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+Asimismo, tiene la obligación de ejercer sus funciones, facultades y atribuciones jurídicas, dentro de la perspectiva de género, la interculturalidad y el respeto pleno a los derechos de las niñas, niños y adolescentes, en el marco de los acuerdos, convenios y tratados internacionales, regionales, así como por lo expresado en nuestra Constitución, las leyes generales y estatales en la materia.
 
 ###### Artículo 6.
 
@@ -499,6 +509,12 @@ Sanciones por las Faltas administrativas no graves, las Faltas Administrativas g
 
 Las Faltas administrativas no graves, las Faltas administrativas graves y las de Particulares, serán sancionadas en los términos previstos en los Capítulos I, II, III y IV del Título Cuarto del Libro Primero de la Ley General.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 51 Bis.
+
+Las sanciones que se impongan a las servidoras o servidores públicos por la comisión de faltas administrativas graves relacionadas con cualquier tipo de violencia en razón de género contra las mujeres, deberán ser acompañadas por procesos psicoeducativos con miras a erradicar la violencia en contra de las mujeres, por lo que la persona deberá ser canalizada al Centro de Reeducación para Hombres que Ejercen Violencia Contra las Mujeres.
+
 ###### Artículo 52.
 
 Las sanciones económicas que se impongan por la comisión de faltas administrativas graves y faltas de particulares, tendrán el carácter de créditos fiscales, serán ejecutadas por la Secretaría de Finanzas del Poder Ejecutivo del Estado de Oaxaca o la Dependencia encargada de las Finanzas públicas de los Municipios, según corresponda, en términos de las disposiciones Fiscales aplicables.
@@ -674,3 +690,11 @@ P.O. 29 DE ABRIL DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2656.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1; Y SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 2, UN SEGUNDO PÁRRAFO AL ARTÍCULO 5, Y EL ARTÍCULO 51 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
