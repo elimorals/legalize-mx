@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2021-04-17"
+last_updated: "2021-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA -- ANTES REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -3742,3 +3742,49 @@ P.O. 17 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 442.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".]
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 503.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ COMO EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su aprobación por este Poder Legislativo, y se publicará en el Periódico Oficial “El Estado de Colima”, con excepción de lo previsto en los artículos transitorios siguientes.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Colima publicada (sic) en el Periódico Oficial “El Estado de Colima” el día 19 de junio de 2004, con sus consecuentes adiciones y reformas, y se derogan en lo conducente las demás disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Las disposiciones jurídicas que prevé este Reglamento concernientes a la Junta de Gobierno y Coordinación Política y a las Comisiones Legislativas entrarán en vigor el día 1° de octubre del año 2021, teniendo aplicación para la LX Legislatura y subsecuentes, por lo que la Comisión de Gobierno Interno y Acuerdos Parlamentarios, y las Comisiones Legislativas que conforman la actual LIX Legislatura conservarán su integración, funciones y prerrogativas hasta la conclusión de la misma, en los términos que prevé el Reglamento abrogado por el artículo transitorio anterior.
+
+La Comisión de Gobierno Interno y Acuerdos Parlamentarios y las Comisiones Legislativas continuarán conociendo y solventando los procedimientos y funciones que les correspondan, en tanto entran en vigor las disposiciones jurídicas previstas por el párrafo anterior.
+
+CUARTO. Los Grupos Parlamentarios que conforman la actual LIX Legislatura conservarán su integración, funciones y prerrogativas hasta la conclusión de la misma, en los términos que prevé el Reglamento abrogado por el artículo transitorio segundo anterior.
+
+QUINTO. En el caso de que el presente Reglamento establezca una denominación nueva o diferente respecto de las Comisiones Legislativas, órganos de apoyo a la función legislativa, o direcciones del Congreso cuyas atribuciones estén conferidas bajo una denominación distinta en otras leyes, reglamentos y en general en cualquier disposición jurídica vigente a la entrada en vigor de este Decreto, dichas atribuciones se entenderán asignadas a la Comisión, órgano de apoyo a la función legislativa o dirección del Congreso que le competan tales funciones en términos del presente Decreto.
+
+SEXTO. Las referencias, funciones y atribuciones que otras leyes, reglamentos y en general cualquier disposición jurídica vigente a la expedición de este Reglamento, hagan y otorguen a la Comisión de Gobierno Interno y Acuerdos Parlamentarios y a la Oficialía Mayor se tendrán por hechas y otorgadas a la Junta de Gobierno Interno y Coordinación Política y a la Secretaría General que respectivamente las sustituyen en términos del presente Decreto.
+
+SÉPTIMO. Las referencias, funciones y atribuciones que la Ley de Fiscalización Superior y Rendición de Cuentas hace y otorga a la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos se tendrán hechas y otorgadas a la Comisión de Hacienda, Fiscalización y Cuenta Pública que la sustituye en esas funciones y atribuciones en virtud de la entrada en vigor del presente Decreto.
+
+La Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos continuará solventando los procesos de revisión y fiscalización de Cuentas Públicas que se encuentren en desarrollo a la entrada en vigor del presente Decreto, hasta en tanto se constituya la Comisión de Hacienda, Fiscalización y Cuenta Pública.
+
+OCTAVO. En tanto entra en funciones el Instituto de Profesionalización e Investigaciones Parlamentarias, continuará en funciones la Dirección de Servicios Documentarios, que en esta etapa transitoria continuará ejerciendo las facultades y obligaciones siguientes:
+
+I. Custodiar, organizar y clasificar el material documentario del archivo histórico, administrativo y de la biblioteca legislativa;
+
+II. Apoyar, en materia de información y documentación histórico-legislativa, a los Diputados, grupos parlamentarios y comisiones;
+
+III. Proporcionar servicios de consulta al público en general;
+
+IV. Proporcionar a la Dirección de Procesos Legislativos, en los términos que requiera, la información necesaria para el cumplimiento de sus obligaciones con los Diputados;
+
+V. Crear y mantener actualizado un Programa de Sistema de Información, que permita establecer una base de datos para el control de la estadística y archivo de los decretos emitidos por el Pleno en cada Legislatura, para que pueda ser útil a la labor parlamentaria.
+
+El programa deberá contener mínimo 3 vértices:
+
+1. Por número de Decreto;
+
+2. Por nominación de modificaciones, adiciones o derogaciones; y
+
+3. Por descripción general del contenido; y
+
+VI. Las demás que le señalen este ordenamiento, el Pleno, la Mesa Directiva o la Junta de Gobierno.
+
+Para ser titular de la Dirección de Servicios Documentarios se requiere cumplir con los requisitos señalados en el párrafo segundo del artículo 91 de la Ley; tratándose de la fracción IV, deberá contar con Licenciatura en el Área de Ciencias Sociales o afines al cargo y atribuciones.
