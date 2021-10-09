@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2020-05-02"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
@@ -427,7 +427,9 @@ X. Impedir su participación en asociaciones civiles, políticas o de cualquier 
 
 XI. Realizar actos que limiten sus derechos de propiedad, de sucesión, administración o disposición de bienes muebles e inmuebles, tanto en régimen de propiedad privada como ejidal o comunal;
 
-XII. Obligar a un tratamiento médico o psiquiátrico;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+XII. Obligar a un tratamiento médico o psiquiátrico, así como promover, impartir, aplicar o financiar cualquier tipo de tratamiento, terapia, servicio o práctica, con el objetivo de obstaculizar, restringir, impedir, menoscabar, anular o modificar la orientación sexual o identidad de género de una persona.
 
 XIII. Promover la violencia en su contra en los centros de detención o reclusión;
 
@@ -1268,3 +1270,11 @@ P.O. 2 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 272 POR EL QUE SE APRUEBAN REFORMAS Y ADICIONES AL ARTÍCULO 223 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, ASIMISMO, SE APRUEBAN ADICIONES AL ARTÍCULO 15 DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 504.- POR EL QUE SE ADICIONA EL CAPÍTULO QUINTO TER, DENOMINADO IDENTIDAD SEXUAL, INTEGRADO POR EL ARTÍCULO 179 TER, AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; ADEMÁS SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 17, DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 61, DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
