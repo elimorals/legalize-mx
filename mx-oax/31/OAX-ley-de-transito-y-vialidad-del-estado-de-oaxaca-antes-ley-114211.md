@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2021-08-24"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -751,9 +751,11 @@ IX. Carros de tracción animal, y;
 
 X. Demás considerados por las normas aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-Los vehículos que circulen en las calles, carreteras y vías de comunicación del Estado, deberán contar con los equipos, sistemas, dispositivos y accesorios de seguridad que determinen la Ley, sus Reglamentos y demás disposiciones normativas aplicables, con la finalidad de dar seguridad a las personas que circulan por las vías públicas.
+Los vehículos que circulen en las calles, carreteras y vías de comunicación del Estado, deberán contar con los equipos, sistemas, dispositivos y accesorios de seguridad que determinen la Ley, sus Reglamentos y demás disposiciones normativas aplicables, con la finalidad de dar seguridad a las personas que circulan por las vías públicas. Así mismo podrán contar con cámaras de video.
 
 ###### Artículo 38.
 
@@ -820,6 +822,24 @@ El uso indebido de sirenas y torretas será sancionado para los efectos de este 
 ###### Artículo 47.
 
 Queda prohibido utilizar teléfonos celulares mientras se conduce, excepto que sea utilizado con el equipo adicional conocido como “manos libres” o con la función de altavoz, de modo que el conductor no distraiga la atención al circular.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 47 Bis.
+
+Queda prohibido fumar en los vehículos particulares, si en su interior viajan niños, niñas, adolescentes o mujeres embarazadas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 47 Ter.
+
+Queda prohibido fumar en los vehículos destinados al servicio público de pasajeros mientras se brinda dicho servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 47 Quáter.
+
+Queda prohibido para las personas que conducen vehículos privados o destinados al servicio público de pasajeros, arrojar residuos de cualquier forma y volumen en la vía pública de comunicación local.
 
 ###### Artículo 48.
 
@@ -1586,3 +1606,23 @@ P.O. 24 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2685.- MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 47 BIS, EL ARTÍCULO 47 TER Y EL ARTÍCULO 47 QUÁTER TODOS DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca, que permita la plena ejecución del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2701.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca, que permita la plena ejecución del presente Decreto.
