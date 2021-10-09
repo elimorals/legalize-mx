@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-09-25"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -517,9 +517,9 @@ El Estado de Oaxaca y los Municipios, garantizarán la cobertura universal del a
 
 El agua es un bien público, social y cultural. Es inalienable, inembargable, irrenunciable y esencial para la vida. La gestión del agua será pública y sin fines de lucro.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2021)</small>
 
-El Estado de Oaxaca y los Municipios garantizarán que los desfavorecidos y marginados, en particular las mujeres, tengan un acceso equitativo al agua y a los sistemas de gestión del agua, incluidas las técnicas sostenibles de recogida del agua de lluvia y de irrigación.
+El Estado de Oaxaca y los Municipios garantizarán que los desfavorecidos y marginados, en particular las mujeres, tengan un acceso equitativo al agua y a los sistemas de gestión del agua, incluidas las técnicas sostenibles de recogida del agua de lluvia y de irrigación. Esta Constitución reconoce el derecho de los pueblos y las comunidades indígenas y afromexicanas de operar sus propios sistemas comunitarios de agua y saneamiento, a través de sus propias instituciones y formas de gobierno; por lo que el Estado podrá otorgar los recursos necesarios para garantizar la operación de dichos sistemas.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -658,6 +658,10 @@ Se reconoce a las lenguas indígenas de los pueblos, comunidades indígenas y af
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
 Se reconoce a los protocolos bioculturales en sus modalidades de comunitario, micro regional, regional y estatal como elementos que contienen el derecho consuetudinario, recuperación de la memoria histórica, reconocimiento del patrimonio biocultural, natural y cultural, así como herramientas jurídicas que permitirán fortalecer el ejercicio pleno y efectivo de los derechos bioculturales de las comunidades indígenas, locales y el pueblo afromexicano de Oaxaca, así como las bases para relaciones constructivas y respetuosas entre dichas comunidades y actores externos, siempre y cuando estas no contravengan a la legislación estatal, nacional o internacional de la que el Estado Mexicano forma parte.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+Se reconoce a la contraloría comunitaria, consejo de vigilancia o mecanismo legitimado de los pueblos y comunidades indígenas y afromexicanas del estado de Oaxaca, como entes de consulta y revisión del ejercicio de recursos públicos en sus localidades y municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -3467,7 +3471,9 @@ Si el Congreso no hace la designación en los plazos que se establecen (sic) los
 
 Por lo que se refiere a la remoción, el Fiscal General del Estado de Oaxaca dejará de ejercer su cargo por renuncia, o podrá ser removido por el Ejecutivo por causales de responsabilidad en los casos previstos en esta Constitución y la Ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General del Estado de Oaxaca será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
 
-Las ausencias del Fiscal General del Estado de Oaxaca serán suplidas en los términos que determine la Ley, el Fiscal General del Estado de Oaxaca podrá crear las fiscalías que se requieran para el adecuado funcionamiento de la Institución, asimismo podrá nombrar y remover a los servidores públicos y Agentes del Ministerio Público; y contará al menos con una fiscalía especializada en delitos electorales y otra (sic) materia de combate a la corrupción, quienes serán nombrados por el Congreso del Estado, conforme al procedimiento establecido en ésta Constitución para la elección del Fiscal General del Estado de Oaxaca y quienes deberán cumplir con los mismo (sic) requisitos de elegibilidad establecidos para éste.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+Las ausencias del Fiscal General del Estado de Oaxaca, serán suplidas en los términos que determine la Ley. El Fiscal General del Estado de Oaxaca, podrá crear las fiscalías que se requieran para el adecuado funcionamiento de la institución, así mismo podrá nombrar y remover a los servidores públicos y Agentes del Ministerio Público; y contará con una Fiscalía Especializada en Delitos Electorales, una Fiscalía Especializada en materia de Combate a la Corrupción y una Fiscalía Especializada en Materia de Personas Desaparecidas, quienes serán nombrados por el Congreso del Estado, conforme al procedimiento establecido en esta Constitución para la elección del Fiscal General del Estado de Oaxaca y quienes deberán cumplir con los mismos requisitos de elegibilidad establecidos para este.
 
 La Ley determinará los requisitos que deben cubrir los Agentes del Ministerio Público y demás servidores públicos que integran la estructura de la Fiscalía General del Estado de Oaxaca.
 
@@ -3731,6 +3737,10 @@ Los procedimientos para la aplicación de las sanciones mencionadas en las fracc
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+La indemnización por error judicial constituye un derecho humano de los particulares que debe ser exigible a las autoridades conforme al procedimiento que la ley establezca.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 117.
@@ -3802,6 +3812,10 @@ Los órganos internos de control de los poderes, organismos autónomos y municip
 Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos internos de control de los poderes, organismos autónomos, así como del Órgano Superior de Fiscalización del Estado de Oaxaca, de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Oaxaca, en materia de combate a la corrupción en los términos que fije la ley.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+A la contraloría comunitaria indígena o afromexicana, consejo de vigilancia o mecanismo legitimado en cada municipio regido bajo sistemas normativos internos, se les reconocerá su rendición de cuentas social hacia la comunidad, sus instrumentos de combate a la corrupción, medios de transparencia, sanciones y acciones de fiscalización, serán entes de consulta y verificación para los Órganos Internos de Control y el Comité de Participación Ciudadana en el Combate a la Corrupción.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 145], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -4005,7 +4019,9 @@ Ningún pago podrá hacerse que no esté comprendido en el presupuesto respectiv
 
 Los recursos económicos de que disponga el Gobierno Estatal y los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes o por administración directa en los términos de la ley respectiva.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes o por administración directa en los términos de la ley respectiva. En el ejercicio de estos recursos públicos, los ejecutores de gasto, de manera preferente, deberán destinar y contratar a empresas locales debidamente constituidas, que cuenten con capacidad de respuesta inmediata, recursos técnicos y financieros suficientes, atendiendo a los principios señalados por el párrafo segundo de este artículo, en caso contrario deberán de tomar en consideración a las empresas foráneas.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
 
@@ -6000,3 +6016,53 @@ P.O. 25 DE SEPTIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2663.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Honorable Congreso del Estado de Oaxaca, deberá realizar las modificaciones legales en la legislación secundaria que tengan por objeto armonizar lo dispuesto en el presente Decreto, en el plazo de 180 días hábiles contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2668.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16 Y UN PÁRRAFO QUINTO AL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DE (SIC) ESTADO LIBRE Y SOBERADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Congreso del Estado de Oaxaca realizará las adecuaciones a las disposiciones jurídicas en la legislación estatal de la materia que tengan por objeto armonizar lo dispuesto en el presente Decreto, en el plazo de los 90 días hábiles contados a partir de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2674.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO NOVENO DEL APARTADO D INTITULADO DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA, DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- A partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, se procederá a la designación de la persona titular de la Fiscalía Especializada en Materia de Personas Desaparecidas, conforme al procedimiento establecido en el Apartado D del Artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca y para los efectos correspondientes.
+
+CUARTO.- La Fiscalía General del Estado de Oaxaca, deberá realizar las adecuaciones legales correspondientes que tengan por objeto garantizar el funcionamiento de la Fiscalía Especializada en Materia de Personas Desaparecidas, a través de la asignación de los recursos humanos, presupuestarios y materiales a que haya lugar en la legislación de la materia, en el plazo de 60 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2676.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TRIGÉSIMO QUINTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. - Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2679.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
