@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2021-08-14"
+last_updated: "2021-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2255,9 +2255,9 @@ Los actos de gobierno de las autoridades municipales podrán ser sometidos a ple
 
 Artículo 97
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2021)</small>
 
-Los gobiernos del Estado y los municipios impartirán la educación de tipo básico, comprendiendo los niveles de preescolar, primaria y secundaria, así como la educación media superior, en coordinación con el Gobierno Federal y de conformidad con lo dispuesto por la Constitución Federal, la presente Constitución y las leyes y los reglamentos relativos a la materia. La educación preescolar, la primaria, la secundaria y la media superior son obligatorias. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
+Los gobiernos del Estado y los municipios impartirán la educación de tipo básico, comprendiendo los niveles de educación inicial, preescolar, primaria y secundaria, así como la educación media superior y superior, en coordinación con el Gobierno Federal y de conformidad con lo dispuesto por la Constitución Federal, la presente Constitución y las leyes y los reglamentos relativos a la materia. La educación inicial, preescolar, la primaria, la secundaria y la media superior son obligatorias. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
@@ -2281,7 +2281,9 @@ Artículo 98
 
 Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en los planteles particulares.
 
-En el caso de la educación primaria, secundaria y normal, los particulares deberán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2021)</small>
+
+En el caso de la educación inicial, preescolar, primaria, secundaria y normal, los particulares deberán:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
@@ -2289,11 +2291,11 @@ I. Impartir la educación con apego a los mismos fines y criterios, así como cu
 
 II. Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2021)</small>
 
 Artículo 99
 
-Además de impartir educación básica, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial, especial y superior necesaria para el desarrollo del Estado y la Nación; asimismo, apoyará la investigación científica y alentará el fortalecimiento y la difusión de nuestra cultura.
+Además de impartir educación básica, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial, especial y superior necesaria para el desarrollo del Estado y la Nación. Asimismo, apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, además alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -3842,6 +3844,14 @@ P.O. 14 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 481.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 67 Y 71, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial “El Estado de Colima.”
+
+P.O. 9 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 508.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 97, SEGUNDO PÁRRAFO DEL ARTÍCULO 98 Y ARTÍCULO 99, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Gobernador del Estado preverá de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia. En tanto se transita hacia la universalidad de la educación inicial, el Estado dará prioridad a la prestación de servicios de educación inicial, a niñas y niños indígenas o en condiciones de vulnerabilidad y en riesgo de exclusión, considerando las condiciones socioeconómicas de sus madres y padres de familia o tutores.
 
 ###### ARTÍCULO ÚNICO.
 
