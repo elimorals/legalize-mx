@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-10-23"
+last_updated: "2021-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Quinta de la Gaceta Oficial del Estado de México, el miércoles 4 de mayo de 2016.
 
@@ -609,7 +609,11 @@ XLV. Rendir informe anual de actividades a través de su presidente ante el Plen
 
 XLVI. Expedir los lineamientos que regulen el servicio profesional en materia de transparencia, acceso a la información pública y protección de datos personales; y
 
-XLVII. Las demás que les confieran esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2021)</small>
+
+XLVII. Proponer Iniciativas de Ley y Decreto sobre los asuntos de su competencia a cualquiera de los facultados para iniciar leyes, por la Constitución del Estado, y
+
+XLVIII. Las demás que les confieran esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 37.
 
@@ -2902,3 +2906,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2.- POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE ADICIONA UNA FRACCIÓN XLVII Y SE RECORRE LA SUBSECUENTE AL ARTÍCULO 36 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
