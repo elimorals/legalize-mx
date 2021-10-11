@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja-109130"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-27"
-last_updated: "2017-12-31"
+last_updated: "2021-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE PROTECCION, SALVAGUARDA Y EXPLOTACION DE LA ABEJA PARA EL ESTADO DE HIDALGO (ANTES: LEY APICOLA PARA EL ESTADO DE HIDALGO)
 
-LEY APÍCOLA PARA EL ESTADO DE HIDALGO
+LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de julio de 2015.
 
@@ -45,17 +45,25 @@ POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
 DECRETO
 
-QUE CONTIENE LA LEY APÍCOLA PARA EL ESTADO DE HIDALGO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+QUE CONTIENE LA LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO
 
 ### CAPÍTULO I. DE LOS OBJETIVOS DE ESTA LEY
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 1.
 
-Esta Ley tiene como principales objetivos la protección, reglamentación y desarrollo tecnológico de las explotaciones apícolas en el Estado; así como la organización de los productores, la cría, explotación y mejoramiento genético de las abejas, la industrialización de sus productos y subproductos.
+Esta ley tiene como principal objetivo, la protección reglamentación y desarrollo tecnológico de las explotaciones apícolas del estado, la organización de las y los productores, así como el fomento, mejoramiento, sanidad, vigilancia, protección y el estímulo a la producción comercialización e industrialización de la miel y otros productos de la apicultura.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 2.
 
-Se declara de utilidad pública e interés social todas las acciones encaminadas a incrementar la producción y la productividad apícola, organización, mejoramiento, aprovechamiento de los productos y subproductos apícolas, y la protección sanitaria de las abejas.
+Se declara de utilidad pública, todas las acciones encaminadas a incrementar la producción y la productividad apícola, el aprovechamiento de productos y subproductos apícolas, proteger la salud de las abejas y el patrimonio del apicultor, así como el buen desarrollo y reproducción de las abejas.
+
+Adicional a lo anterior, se busca fortalecer la educación y concientización de la sociedad sobre el respeto, cuidado, protección y conservación de las abejas.
 
 ###### ARTÍCULO 3.
 
@@ -63,53 +71,81 @@ Quedan sujetos a la presente Ley:
 
 I. Todas las personas físicas o morales que se dediquen directa o indirectamente a la cría, mejoramiento, explotación, movilización, investigación y comercialización de las abejas y sus productos; así como aquellas que efectúen funciones de industrialización, empaque, almacenamiento, comercialización y transporte de sus productos y subproductos, además de las dedicadas al servicio de polinización.
 
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+I Bis. Las personas físicas o morales que, de manera voluntaria o incidental, estén en contacto con las abejas y con su hábitat, ya sea en un ámbito silvestre, colmena, en criaderos o santuarios.
+
 II. Las áreas en las zonas consideradas como adecuadas para el crecimiento y desarrollo de la apicultura en el Estado, que determine el Comité Técnico Estatal Apícola.
 
 III. Los convenios celebrados entre los titulares del Poder Ejecutivo, Dependencias Estatales, Paraestatales y Productores; así como con estados vecinos, Federación u Organismos Internacionales.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 4.
 
 Para la aplicación de esta Ley, la terminología empleada se define de la siguiente manera:
 
-Apicultura: Conjunto de actividades concerniente a la cría, sanidad, y explotación racional de las abejas;
+Abejas: Insectos himenópteros de la familia de los apidae, del género apis y de la especie mellifera que produce miel y cera;
 
-Apicultor: Es toda persona física o moral que se dedique por lo menos a una de las actividades con las abejas, como son: la cría, manejo, explotación, producción, servicio de polinización y mejoramiento de las abejas, sus productos y subproductos;
+Abeja Africana: Especie exógena cuyas características, hábitos de defensa, de almacenamiento y de emigración son diferentes a las razas europeas; Abeja Africanizada: Es el producto de la cruza de la abeja africana y la europea;
+
+Abeja Africanizada: Es el producto de la cruza de la abeja africana y la europea; (sic)
+
+Abeja Reina: Hembra sexualmente desarrollada cuya función principal es depositar huevos fértiles en las celdas del panal y regir la vida de la colonia;
 
 Apiario: Es el conjunto de colmenas pobladas e instaladas en un lugar determinado;
 
-Colmena: Grupo o colonia de abejas enmarcadas en una caja de madera que en su interior aloja cuadros o bastidores con cera estampada y se utiliza para que las abejas se multipliquen, construyan sus panales, produzcan y almacenen la miel, cera, polen, jalea real y propóleos;
+Apicultor: Es toda persona física o moral que se dedique por lo menos a una de las actividades con las abejas, como son: la cría, manejo, explotación, producción, servicio de polinización y mejoramiento de las abejas, sus productos y subproductos;
 
-Marcación de Colmenas: Identificación o marcación de las cajas de madera en que se alojan las abejas, a base de un fierro candente previamente registrado ante la autoridad competente
-
-Abeja Reina: Hembra sexualmente desarrollada cuya función principal es depositar huevos fértiles en las celdas del panal y regir la vida de la colonia; Abeja Africana: Especie exógena cuyas características, hábitos de defensa, de almacenamiento y de emigración son diferentes a las razas europeas;
-
-Abeja Africanizada: Es el producto de la cruza de la abeja africana y la europea;
-
-Miel: Es el producto final resultante de la recolección del néctar de las flores, al ser transportado, modificado y almacenado en las celdas de los panales por las abejas;
-
-Enjambre: Conjunto de abejas compuestas por reina y obreras, que por proceso natural tienden a dividirse de la colmena madre, pueden estar en proceso de vuelo o conglomeradas
-
-Ruta y Zona Apícola: Las carreteras, los caminos, veredas, zonas ó lugares susceptibles de explotación apícola y sitios permitidos como acceso a los apiarios;
-
-Espacio Límite: Radio de acción para que las abejas de un apiario aprovechen los recursos de la flora melífera;
-
-Flora Melífera. Todo tipo o especie de plantas productoras de néctar, polen o resinas llamadas propóleos que las abejas recolectan para su transformación en la colmena.
-
-Polen: Partícula pequeña proveniente de los estambres de las flores, que hacen las funciones de fecundación vegetal en las plantas con flores y que es recolectado, distribuido o almacenado por las abejas;
-
-Jalea Real: Sustancia segregada por las abejas obreras jóvenes, por medio de las glándulas hipofaríngeas;
-
-Movilización: Transportación de colmenas pobladas, abejas reina, núcleos de abejas y material apícola, cuando se traslada a otra región dentro de la entidad o fuera de ella;
-
-Médico Veterinario Oficial: Persona acreditada para el ejercicio de esta profesión con registro oficial de la SAGARPA para realizar actividades en materia zoosanitaria;
+Apicultura: Conjunto de actividades concerniente a la cría, sanidad, y explotación racional de las abejas;
 
 Certificado Zoosanitario: Documento Oficial expedido por personal de la SAGARPA o por un profesionista aprobado y que avala la sanidad de las colmenas;
 
+Colmena: Grupo o colonia de abejas enmarcadas en una caja de madera que en su interior aloja cuadros o bastidores con cera estampada y se utiliza para que las abejas se multipliquen, construyan sus panales, produzcan y almacenen la miel, cera, polen, jalea real y propóleos;
+
 Comité Estatal para el Fomento y Protección Pecuaria: Organismo auxiliar de Sanidad Animal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, integrado por productores pecuarios que cuentan con autorización y registro oficial y llevan a cabo la operación de campañas y programas de sanidad en el Estado de Hidalgo;
 
-Organización de Apicultores: A las organizaciones de apicultores y el Comité Estatal Sistema Producto Apícola.
+COPRISEH: Comisión para la Protección contra Riesgos Sanitarios del Estado de Hidalgo;
 
-SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+Enjambre: Conjunto de abejas compuestas por reina y obreras, que por proceso natural tienden a dividirse de la colmena madre, para establecerse en cualquier otro lugar, pueden estar en proceso de vuelo o conglomeradas;
+
+Espacio Límite: Radio de acción para que las abejas de un apiario aprovechen los recursos de la flora melífera;
+
+Flora Melífera: Todo tipo o especie de plantas productoras de néctar, polen o resinas llamadas propóleos que las abejas recolectan para su transformación en la colmena;
+
+Inspectores: Personal capacitado y especializado en materia apícola, certificados y avalados por la Dirección General de Desarrollo Rural de la Secretaría de Desarrollo Agropecuario del Estado de Hidalgo;
+
+Jalea Real: Sustancia segregada por las abejas obreras jóvenes, por medio de las glándulas hipofaríngeas;
+
+Marcación de Colmenas: Identificación o marcación de las cajas de madera en que se alojan las abejas, a base de un fierro candente previamente registrado ante la autoridad competente;
+
+Médico Veterinario Oficial: Persona acreditada para el ejercicio de esta profesión con registro oficial de la SAGARPA para realizar actividades en materia zoosanitaria;
+
+Miel: Es el producto final resultante de la recolección del néctar de las flores, al ser transportado, modificado y almacenado en las celdas de los panales por las abejas;
+
+Movilización: Transportación de colmenas pobladas, abejas reina, núcleos de abejas y material apícola, cuando se traslada a otra región dentro de la entidad o fuera de ella;
+
+Organización de Apicultores: A las organizaciones de apicultores y el Comité Estatal Sistema Producto Apícola;
+
+Panal: Conjunto de celdillas prismáticas hexagonales de cera, colocadas en series paralelas, que las abejas forman dentro de la colmena para depositar la miel;
+
+Polen: Partícula pequeña proveniente de los estambres de las flores, que hacen las funciones de fecundación vegetal en las plantas con flores y que es recolectado, distribuido o almacenado por las abejas;
+
+Producción apícola: Es la actividad económica basada en la obtención de bienes y satisfactores a partir de las abejas, como son: miel, panal, polen, cera, propóleos, núcleos, reinas, etcétera;
+
+Ruta y Zona Apícola: Las carreteras, los caminos, veredas, zonas ó lugares susceptibles de explotación apícola y sitios permitidos como acceso a los apiarios;
+
+Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+
+SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+SEDAGROH: Secretaría de Desarrollo Agropecuario del Estado de Hidalgo;
+
+Zonas consideradas como adecuadas: Son los espacios geográficos destinados para la debida y correcta cría, sanidad, y explotación racional de las abejas;
+
+Zonas Santuario: Son los espacios geográficos públicos o privados destinados, eminentemente en condiciones naturales, para la protección, reproducción y desarrollo de las abejas, en las que no existirá intervención humana, más que para garantizar que el animal cumpla con los objetivos de su ciclo vital; y
+
+Zona libre: Área geográfica determinada en la que se operan medidas de mejoramiento genético, de captura, aprovechamiento o eliminación de enjambres, tendientes a disminuir la incidencia o prevalencia de la abeja;
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES
 
@@ -135,7 +171,21 @@ VIII. Los inspectores zoosanitarios
 
 IX. La Dirección de Seguridad Pública y Vialidad;
 
-X. Las Direcciones o Comandancias de las Policías Municipales.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+X. Los Municipios;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+XI. Secretaría del Medio Ambiente y Recursos Naturales;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+XII. Subsecretaría de Protección Civil y Gestión de Riesgos Hidalgo; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+XIII. Comisión para la Protección contra Riesgos Sanitarios del Estado de Hidalgo.
 
 ###### ARTÍCULO 6.
 
@@ -155,15 +205,31 @@ VI. El Comité Estatal de Fomento y Protección Pecuaria de Hidalgo y
 
 VII. El Comité de Protección Civil.
 
-### CAPÍTULO III. DE LAS FUNCIONES DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE OCTUBRE DE 2021)</small>
 
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS APICULTORES
+### CAPÍTULO II BIS. DE LOS MUNICIPIOS
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 6 BIS.- Los municipios en el Estado tendrán las siguientes funciones:
+
+I. Promover y vigilar la actividad apícola municipal en congruencia con los criterios y normas que, en su caso, hubiere emitido la Federación y el Estado;
+
+II. Concertar acciones con la Federación, el Estado y otros municipios en materia de esta Ley;
+
+III. Fomentar con el sector social y privado el desarrollo de la apicultura en el Estado; y
+
+IV. Las demás que se deriven de la presente ley, de las leyes vigentes o de la normatividad aplicable.
+
+### CAPÍTULO III. DE LAS FUNCIONES DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
 
 ###### ARTÍCULO 7.
 
 La Secretaría de Desarrollo Agropecuario, tendrá las siguientes funciones:
 
-I. Proteger, planear, fomentar, estimular y coordinar conjuntamente a través de Convenios con los tres niveles de gobierno en la realización de programas estatales que tiendan al mejoramiento cualitativo y cuantitativo de la apicultura en el Estado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+I. Proteger, planear, fomentar, estimular y coordinar conjuntamente a través de Convenios con los tres niveles de gobierno en la realización de programas estatales que tiendan al mejoramiento cualitativo y cuantitativo de la apicultura en el Estado, atendiendo principalmente el objeto de esta ley en cada convenio que se celebre.
 
 II. Coordinarse con el Gobierno Federal para la aplicación de normas federales en la materia y dictar conjuntamente las disposiciones necesarias para el control de plagas y enfermedades de las abejas y el control de la abeja africana;
 
@@ -185,15 +251,25 @@ X. Intervenir como autoridad conciliatoria en la solución de conflictos que se 
 
 XI. Dirigir, coordinar y evaluar las actividades de los inspectores zoosanitarios
 
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+XI BIS. Asimismo, promoverá el cambio de colmenas rústicas a modernas;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+XI TER. Registrar, vigilar, dirigir, coordinar y supervisar el debido funcionamiento de las Zonas Santuario con que cuente el Estado; y
+
 XII. Las demás que se deriven de las leyes vigentes o que en sus términos, le sean asignadas por el Ejecutivo del Estado.
 
-### CAPÍTULO V. DE LA MARCA Y PROPIEDAD DE LAS COLMENAS
+### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS APICULTORES
 
 ###### ARTÍCULO 8.
 
 Todas y todos los apicultores podrán:
 
-I. Disfrutar de los apoyos para el fomento de las actividades apícolas, que los tres niveles de gobierno concedan a los apicultores organizados;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+I. Disfrutar de los apoyos para el fomento de las actividades apícolas, que los tres niveles de gobierno concedan a los apicultores organizados, así como apoyos para la creación de zonas santuario.
 
 II. Formar parte de la organización de apicultores del municipio donde se encuentre ubicada su explotación;
 
@@ -239,15 +315,19 @@ X. Sujetarse a la guía de tránsito y certificado zoosanitario y otros document
 
 XI. Notificar a la Secretaría de Desarrollo Agropecuario sobre toda sospecha de enfermedades de las abejas, a fin de que se tomen las medidas correspondientes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2021)</small>
 
-XII. Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africanizada; y
+XII. Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africanizada;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2021)</small>
 
-XIII. Cumplir con los requerimientos normativos para la óptima calidad de sus productos, los cuales serán estipulados por los organismos correspondientes y con injerencia en el tema, y con ello, tener acceso a los derechos que establece el artículo 8 fracciones VI y VII de la presente Ley.
+XIII. Cumplir con los requerimientos normativos para la óptima calidad de sus productos, los cuales serán estipulados por los organismos correspondientes y con injerencia en el tema, y con ello, tener acceso a los derechos que establece el artículo 8 fracciones VI y VII de la presente Ley; y
 
-### CAPÍTULO VI. DE LA INSTALACIÓN DE LOS APIARIOS
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+XIV. Fomentar acciones encaminadas a la preservación, desarrollo y reproducción de las abejas.
+
+### CAPÍTULO V. DE LA MARCA Y PROPIEDAD DE LAS COLMENAS
 
 ###### ARTÍCULO 10.
 
@@ -291,7 +371,7 @@ Cuando un apicultor venda colmenas o material apícola marcado, el nuevo dueño 
 
 Las colmenas remarcadas o alteradas en sus marcas, se considerarán robadas y el poseedor si no justifica la propiedad o posesión de las mismas se hará acreedor a las sanciones que establezcan las disposiciones legales en la materia.
 
-### CAPÍTULO VII. DE LA MOVILIZACIÓN DE COLMENAS Y SUS PRODUCTOS
+### CAPÍTULO VI. DE LA INSTALACIÓN DE LOS APIARIOS
 
 ###### ARTÍCULO 20.
 
@@ -357,7 +437,7 @@ II. En caso de no tener efecto el requerimiento señalado en la fracción anteri
 
 Los apicultores no serán responsables de los daños que las abejas causen a personas ó animales, siempre y cuando la ubicación e instalación de los apiarios cumplan con las disposiciones establecidas en los artículos 22, 23 y 26 de esta Ley.
 
-### CAPÍTULO VIII. DE LA TÉCNICA Y PROTECCIÓN APÍCOLA
+### CAPÍTULO VII. DE LA MOVILIZACIÓN DE COLMENAS Y SUS PRODUCTOS
 
 ###### ARTÍCULO 30.
 
@@ -401,13 +481,23 @@ Como medida de protección a la apicultura en la Entidad, contra enfermedades y 
 
 La Secretaría de Desarrollo Agropecuario podrá hacer visitas de inspección a los apiarios, notificando al apicultor las fechas de visita.
 
-### CAPÍTULO IX. DE LAS ORGANIZACIONES APÍCOLAS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE OCTUBRE DE 2021)</small>
 
-### CAPÍTULO X. DEL CONTROL DE LA ABEJA AFRICANIZADA
+### CAPÍTULO VII BIS. DE LA INSPECCIÓN APÍCOLA
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 32 BIS.- La Dirección General de Desarrollo Rural del Estado de Hidalgo, en coordinación con el Comité Estatal para el Fomento y Protección Pecuaria, estarán a cargo de la inspección de apiarios, determinación de sus productos derivados y los centros de acopio y beneficio.
+
+Para efectos de lo establecido en este artículo, se estará a los procesos y procedimientos establecidos en la normatividad aplicable.
+
+### CAPÍTULO VIII. DE LA TÉCNICA Y PROTECCIÓN APÍCOLA
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-Para efectos de la presente Ley, se declara de interés público la protección, conservación y fomento de la flora melífera, así como la alta calidad genética de reproducción de abejas reina.
+Para efectos de la presente Ley, se declara de interés público la protección, conservación, preservación, salvaguarda, desarrollo, reproducción de la abeja, la alta calidad genética de abejas reina y el fomento de la flora melífera.
 
 ###### ARTÍCULO 34.
 
@@ -425,7 +515,21 @@ Todas las Dependencias del sector pecuario, coordinadas por la Secretaría de De
 
 Cuando un agricultor, ganadero o dueño de bosque, tenga necesidad de emplear productos que puedan ser tóxicos para las abejas, están obligados a comunicarlo a los apicultores y a la Organización correspondiente cuando menos con quince días de anticipación, en caso de emergencia lo harán de inmediato.
 
-### CAPÍTULO XI. DE LAS SANCIONES Y AMONESTACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+### CAPÍTULO VIII BIS. DE LAS ZONAS SANTUARIO
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 37 BIS.- En un ejercicio de coordinación, y tomando en cuenta las facultades de cada uno, la Secretaría de Desarrollo Agropecuario, la SAGARPA, el Fira, la Secretaría de Desarrollo Económico del Gobierno del Estado, el Comité Estatal para el Fomento y Protección Pecuario, Comité Estatal Sistema Producto Apícola, las Organizaciones Apícolas y los Productores Apícolas, coadyuvaran para la creación de zonas santuario.
+
+La Secretaría de Desarrollo Agropecuario del Estado emitirá la normatividad para la regulación de las Zonas Santuario.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 37 TER.- Las autoridades competentes podrán celebrar convenios y acuerdos con instituciones educativas y organizaciones que garanticen o que cuenten con los recursos necesarios para asegurar la protección y supervivencia de las abejas.
+
+### CAPÍTULO IX. DE LAS ORGANIZACIONES APÍCOLAS
 
 ###### ARTÍCULO 38.
 
@@ -439,7 +543,9 @@ Las Organizaciones Apícolas se constituirán y regirán por las leyes respectiv
 
 Las Organizaciones Apícolas tendrán las siguientes finalidades:
 
-I. Gestionar y promover planes, programas. acciones y apoyos tendientes al mejoramiento de la producción apícola y de la economía de los apicultores;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+I. Gestionar y promover planes, programas, acciones y apoyos tendientes al mejoramiento de la producción apícola y de la economía de los apicultores; así como gestionar la incentivación de zonas santuario;
 
 II. Promover y fomentar entre sus agremiados la implementación de sistemas, métodos, técnicas y transferencias tecnológicas adecuadas para el desarrollo y explotación apícolas;
 
@@ -501,6 +607,28 @@ X. Convertirse en colaboradores e inspectores de la aplicación de las normas, p
 
 XI. Promover todo tipo de gestiones, para lograr apoyos, subsidios y créditos, que tengan como finalidad el control de enfermedades, abeja africanizada, mejorar la producción y la calidad genética de los apiarios.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+### CAPÍTULO IX BIS. DE LA CULTURA DE CUIDADO Y PROTECCIÓN DE LAS ABEJAS
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 42 BIS.- Las autoridades competentes que enuncia esta ley, promoverán en el ámbito de sus facultades la cultura del debido cuidado de las abejas, de acuerdo a la importancia que tiene la abeja en el desarrollo de la flora y de la vida humana.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 42 TER.- La Secretaría de Desarrollo Agropecuario del Estado, La Secretaría de Medio Ambiente y Recursos Naturales y los Municipios, en el ámbito de sus competencias, promoverán y difundirán programas, así como, campañas de concientización entre los habitantes de Hidalgo, sobre la importancia de las abejas en el medio ambiente.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 42 QUATER.- La Secretaría de Educación Pública en Hidalgo, promoverá acciones entre la comunidad educativa, con estrategias claras para la sensibilización sobre la trascendencia que tiene la abeja para la preservación de la biodiversidad en el estado.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 42 QUINQUIE.- La Secretaría de Desarrollo Agropecuario promoverá, ante las instituciones de educación superior, los modelos de investigación cuyo fin último sea la preservación, protección y proliferación de las abejas y los productos derivados de ella, así como de los espacios destinados a la proliferación y desarrollo natural de las abejas.
+
+### CAPÍTULO X. DEL CONTROL DE LA ABEJA AFRICANIZADA
+
 ###### ARTÍCULO 43.
 
 Se declara de utilidad pública e interés social y por consiguiente obligatorio, la protección de la apicultura contra los efectos adversos de la abeja africanizada, y se obliga a toda persona física o moral a cumplir con las disposiciones que se establezcan en la materia a fin de proteger la apicultura en la entidad.
@@ -533,9 +661,27 @@ Es obligatorio el cambio de abejas reinas mejoradas, en todas y cada unas (sic) 
 
 Toda sospecha de la presencia de enfermedades en una colmena, deberá reportarse a la SAGARPA, al Comité Estatal para el Fomento y Protección Pecuaria, a la Secretaría de Desarrollo Agropecuario y a los Organismos oficiales y privados que cooperan con el programa de Sanidad Apícola.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+### CAPÍTULO X BIS. DE LA DENUNCIA POR RIESGO
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 50 BIS.- Los habitantes dentro de la demarcación del Estado de Hidalgo, podrán a (sic) dar aviso a través de los medios de emergencias ya establecidos por parte de la Secretaría de Seguridad Pública, de la existencia de un grupo de abejas o un enjambre que invadan un espacio cerrado o siempre y cuando ponga en riesgo la integridad física de una persona o una colectividad.
+
+Una vez que la Secretaría de Seguridad Publica tenga conocimiento de la existencia de lo anterior, dará parte a la subsecretaría de Protección Civil y Gestión de Riesgos de Hidalgo o a la autoridad municipal, para que a través de protocolos y lineamientos de atención realicen la actuación correspondiente para la retiración, movilización y reubicación del panal o abejas.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 50 TER.- La SEMARNATH, SEDAGRO Y COPRISEH, podrán revisar las colmenas previo aviso dado al propietario, cuando se presuma el peligro de plagas y enfermedades que puedan dañar a la apicultura de una región determinada, en caso de oposición por parte del apicultor, las autoridades tomarán las medidas que consideren necesarias a fin de hacer la revisión correspondiente.
+
+### CAPÍTULO XI. DE LAS SANCIONES Y AMONESTACIONES
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 51.
 
-El apoderamiento sin consentimiento de colmenas, material apícola o la destrucción de éstas será sancionado conforme a lo dispuesto por el Código Penal del Estado.
+El apoderamiento sin consentimiento de colmenas, material apícola, zonas santuario o la destrucción de éstas será sancionado conforme a lo dispuesto por el Código Penal del Estado.
 
 ###### ARTÍCULO 52.
 
@@ -561,15 +707,19 @@ IV. El carácter intencional de la infracción; y
 
 V. La reincidencia;
 
-Las faltas se castigarán según su gravedad, con multas de diez a quinientos días de salario mínimo general vigente en el Estado y el pago de los daños causados.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
+Las faltas se castigarán según su gravedad, con multas de diez a quinientas veces el valor diario de la unidad de medida y actualización vigente en el Estado y el pago de los daños causados.
 
 ###### ARTÍCULO 54.
 
 Se sancionará con amonestación, el incumplimiento de los artículos 9 fracciones II, VI, VII, VIII, IX, y 50 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 55.
 
-Se sancionará con multa de veinte a ochocientos días de salario mínimo general vigente en el Estado, al momento de cometer la infracción, a quienes:
+Se sancionará con multa de veinte a ochocientas veces el valor diario de la unidad de medida y actualización vigente, al momento de cometer la infracción, a quienes:
 
 I. Reincidan en incumplimiento de los supuestos previstos en el artículo anterior;
 
@@ -583,9 +733,11 @@ V. Incumplan los artículos 10, 13, 15, 17, 26, 30 y 49 de esta Ley; y
 
 VI. Incumplan las observaciones para la conservación de la flora natural que dicte la Secretaría del Medio Ambiente y Recursos Naturales Hidalgo (sic) del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 56.
 
-Se impondrá multa por el equivalente de diez a mil días de salario mínimo general vigente en el Estado, independientemente de la responsabilidad penal en que pudieran incurrir, a quienes:
+Se impondrá multa por el equivalente de diez a mil veces el valor diario de la unidad de medida y actualización vigente en el Estado, independientemente de la responsabilidad penal en que pudieran incurrir, a quienes:
 
 I. Reincidan en incumplimiento de los supuestos previstos en las fracciones II, III, IV y V del artículo anterior;
 
@@ -650,3 +802,11 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 414 POR EL QUE SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 8, Y LA FRACCIÓN XIII AL ARTÍCULO 9 DE LA LEY APÍCOLA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 783 POR EL QUE SE REFORMAN, ADICIONAN Y ACTUALIZA LA DENOMINACIÓN DE LA LEY APÍCOLA PARA EL ESTADO DE HIDALGO, POR EL DE LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. - El Ejecutivo del Estado a través de la Secretaría de Desarrollo Agropecuario, deberá emitir o adecuar la normatividad que derive de la presente Ley.
