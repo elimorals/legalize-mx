@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-09-13"
+last_updated: "2021-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -151,9 +151,9 @@ II. SEGUNDO CIRCUITO:
 
 2. Ocho Tribunales Unitarios: cinco con sede en Toluca, dos con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
 
-> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 12/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 16/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
-3. Treinta y un Juzgados de Distrito en el Estado de México; cuatro de Procesos Penales Federales, nueve especializados en materia de Amparo y Juicios Federales y uno en Materia Mercantil Federal, todos con residencia en Toluca; doce Juzgados de Distrito Mixtos y uno en materia Mercantil Federal, todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
+3. Treinta y dos Juzgados de Distrito en el Estado de México; cuatro de Procesos Penales Federales, nueve especializados en materia de Amparo y Juicios Federales y uno en Materia Mercantil Federal, todos con residencia en Toluca; doce Juzgados de Distrito Mixtos y uno en materia Mercantil Federal, todos con sede en Naucalpan de Juárez; y cinco con sede en Nezahualcóyotl.
 
 III. TERCER CIRCUITO:
 
@@ -575,13 +575,13 @@ X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, 
 
 XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
-XII. DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+XII. DÉCIMO SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
-En los tribunales unitarios con residencia en Mazatlán, su jurisdicción será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado Octavo de Distrito del Centro Auxiliar de la Quita (sic) Región, con residencia en Mazatlán, Sinaloa, en cuanto al Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías.
+En los tribunales unitarios con residencia en Mazatlán, su jurisdicción será igual a la establecida para los juzgados de distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en los Mochis y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
 
 El tribunal unitario con residencia en Culiacán, tendrá la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
 
@@ -773,7 +773,9 @@ Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Culiacán, e
 
 Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
 
-Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+
+Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio, así como en el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
 
 > <small>(DEROGADO CUARTO PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
@@ -925,9 +927,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y un juzgado de Distrito Auxiliar.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
-5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de Distrito Auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
+5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y cinco juzgados de Distrito Auxiliares, con residencia en Culiacán, Sinaloa.
 
 6. (DEROGADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)
 
@@ -8418,3 +8420,35 @@ TERCERO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección
 CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionan con el cumplimiento de este Acuerdo.
 
 QUINTO. La Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Penal en el Estado de Nuevo León, fijará en lugar visible un aviso que contenga el origen y destino de los asuntos del órgano jurisdiccional que concluye funciones para consulta de los interesados.
+
+D.O.F. 13 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 16/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO DECIMOSÉPTIMO DE DISTRITO EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y LA RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Juzgado Decimoséptimo de Distrito en el Estado de México, con residencia en Nezahualcóyotl de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Decimoséptimo de Distrito en el Estado de México, con residencia en Nezahualcóyotl.
+
+D.O.F. 13 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 17/2021, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO OCTAVO DE DISTRITO DEL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN MAZATLÁN, SINALOA; Y QUE REFORMA DIVERSAS DISPOSICIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+TERCERO. Se abroga el Acuerdo General 8/2013 del Pleno del Consejo de la Judicatura Federal, por el que se modifican los diversos 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República; 3/2013, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, y 52/2008 por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán.
+
+CUARTO. Se abroga el Acuerdo General 15/2010 del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
+
+QUINTO. Se abroga el Acuerdo General 4/2012 del Pleno del Consejo de la Judicatura Federal, que reforma al diverso Acuerdo General 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
+
+SEXTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección General de Gestión Judicial y la Dirección General de Tecnologías de la Información y Coordinación de Administración Regional llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+SÉPTIMO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionan con el cumplimiento de este Acuerdo.
+
+OCTAVO. La Oficina de Correspondencia Común que presta servicio a los Juzgados de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, fijará en lugar visible un aviso que contenga el origen y destino de los asuntos del órgano que concluye funciones, para consulta de los interesados.
