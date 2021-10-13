@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-para-la-transparencia-acceso-619
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-07-15"
-last_updated: "2015-11-10"
+last_updated: "2021-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-15"
 
 ACUERDO GENERAL DE LA COMISIÓN PARA LA TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL Y PROTECCIÓN DE DATOS PERSONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL NUEVE DE JULIO DE DOS MIL OCHO, RELATIVO A LOS ÓRGANOS Y PROCEDIMIENTOS PARA TUTELAR EN EL ÁMBITO DE ESTE TRIBUNAL LOS DERECHOS DE ACCESO A LA INFORMACIÓN, A LA PRIVACIDAD Y A LA PROTECCIÓN DE DATOS PERSONALES GARANTIZADOS EN EL ARTÍCULO 6o. CONSTITUCIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2021.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de julio de 2008.
 
@@ -1711,229 +1711,141 @@ La información y el análisis estadísticos relativo a la actividad jurisdiccio
 
 Informática deberá brindar el soporte tecnológico e informático que se requiera para apoyar la generación de información estadística.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+
 ## TITULO NOVENO. DE LA ORGANIZACION, CATALOGACION, CLASIFICACION Y CONSERVACION DE LOS ARCHIVOS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 193.
 
-La organización, catalogación, clasificación y conservación de los archivos es una labor permanente de observancia obligatoria para todos los servidores públicos de esta Suprema Corte.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 194.
 
-Con el objeto de desarrollar esta labor los titulares de los órganos de la Suprema Corte deberán designar mediante escrito dirigido al Comité por lo menos a una persona para coordinar la realización de las actividades correspondientes.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 195.
 
-Los tipos de archivo son:
-
-I. Archivo judicial: Conjunto organizado de expedientes, en cualquier soporte, que son producidos por los órganos jurisdiccionales federales; y,
-
-II. Archivo administrativo: Conjunto organizado de documentos, en cualquier soporte, que son producidos por los órganos de la Suprema Corte, en el ejercicio de sus funciones o actividades.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 196.
 
-Para determinar la etapa de un archivo se considerará lo siguiente:
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
-I. Archivo histórico: Conjunto organizado de documentos que tengan cincuenta o más años, bien sea administrativo o jurisdiccional, a partir de la fecha en que se ordenó su archivo;
-
-II. Archivo medio: Aquellos expedientes judiciales concluidos que tengan más de cinco y menos de cincuenta años respecto a la fecha en que se ordenó su archivo. Tratándose de archivo administrativo se consideran aquellos documentos que cumplan de dos a cincuenta años a partir de la fecha en que se ordenó su archivo;
-
-III. Archivo reciente: Los expedientes judiciales concluidos que tengan hasta cinco años, a partir de la fecha en que se ordenó su archivo. Tratándose de archivo administrativo se consideran aquellos documentos que tengan hasta dos años, a partir de la fecha en que se ordenó su archivo; y,
-
-IV. Archivo de Trámite: La documentación de uso cotidiano y necesario para el ejercicio de las atribuciones de un órgano jurisdiccional u órgano de la Suprema Corte, de la cual no se ha ordenado su archivo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION
 
 ###### Artículo 197.
 
-La organización de los archivos es el conjunto de actividades encaminadas a la agrupación y ordenación de los documentos impresos o electrónicos, previamente clasificados por su naturaleza reservada o confidencial y, en su caso, remitidos a su destinatario, bajo los rubros que determine cada órgano de la Suprema Corte, de conformidad con los criterios que para el efecto emita el Comité a propuesta del Centro de Documentación.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 198.
 
-La organización deberá asegurar la disponibilidad, localización expedita, integridad y conservación de los documentos de archivo que se resguardan en la Suprema Corte.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
-No serán objeto de organización, catalogación, clasificación ni conservación los documentos electrónicos que sean transmitidos por los correos electrónicos asignados como prestación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 ### CAPITULO TERCERO. DE LA CATALOGACION Y CLASIFICACION
 
 ###### Artículo 199.
 
-Una vez generado un documento impreso o electrónico deberá elaborarse su catalogación, entendiendo por ésta el procedimiento para registrar, identificar y ordenar los documentos en categorías, de conformidad con los esquemas y métodos previamente establecidos por el Comité a propuesta del Centro de Documentación.
-
-Los documentos impresos se considerarán generados una vez que sean suscritos por el responsable de su elaboración y recibidos una vez que ingresen a las oficinas del órgano destinatario y se turnen al servidor público responsable de su atención.
-
-En el caso de los documentos electrónicos que no cuenten con soporte impreso, el órgano que los tenga bajo resguardo deberá contar con el inventario respectivo, conforme a los criterios que establezca el Comité a propuesta de Informática.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 200.
 
-Los titulares de los órganos de la Suprema Corte deberán asegurarse de que se elaboren los instrumentos de consulta y control que propicien la localización expedita de sus archivos, por lo que deberán contar al menos con:
-
-I. El cuadro general de clasificación archivística;
-
-II. Los inventarios documentales;
-
-III. La guía simple; y,
-
-IV. Cualquier control o registro que permita establecer los valores documentales, los plazos de conservación, la vigencia documental y el destino final.
-
-Se entenderá por cuadro general de clasificación archivística, el instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada órgano de la Suprema Corte.
-
-Los inventarios documentales son instrumentos de consulta que describen las series y expedientes de un archivo permitiendo su localización.
-
-La guía simple es el esquema general de descripción de las series documentales de los archivos de los órganos de la Suprema Corte, que indica sus características fundamentales conforme al cuadro general de clasificación archivística y sus datos generales.
-
-El Centro de Documentación propondrá al Comité los formatos necesarios para elaborar los instrumentos de consulta y control a los que se refiere este artículo, los que una vez aprobados serán remitidos a los órganos de la estructura administrativa de la Suprema Corte, los que contarán con la asesoría técnica y capacitación que proporcione el Centro de Documentación para su correcta elaboración.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 201.
 
-La clasificación archivística es el proceso de identificación y agrupación de expedientes homogéneos con base en la estructura funcional de los órganos de la Suprema Corte.
-
-Todos los órganos de la Suprema Corte deberán realizar la clasificación de sus documentos, una vez que se ordene su archivo y por ende adquieran el carácter de archivo reciente.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 202.
 
-La Unidad de Enlace, en coordinación con el Centro de Documentación y con Informática, desarrollarán una herramienta informática que permita al público en general conocer de manera actualizada la siguiente información:
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
-I. El cuadro general de clasificación archivística;
-
-II. El catálogo de disposición documental;
-
-III. La guía simple de archivos;
-
-IV. La relación de la información clasificada como reservada o confidencial a nivel de serie documental; y
-
-V. Los inventarios de bajas de documentos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 ### CAPITULO CUARTO. DE LA CONSERVACION
 
 ###### Artículo 203.
 
-Se entiende por conservación de archivos el conjunto de medidas y procedimientos destinados a garantizar la preservación de la documentación, así como prevenir cualquier tipo de alteración material que ponga en riesgo la integridad de la información.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 204.
 
-Los titulares de los órganos de la Suprema Corte deberán conservar en buen estado sus archivos, para lo cual los ubicarán en espacio aislado donde se prohíba cualquier conducta que ponga en riesgo su integridad material.
-
-Los servidores públicos que infrinjan esta disposición incurrirán en la falta administrativa prevista en los artículos 131, fracción XI, de la Ley Orgánica del Poder Judicial de la Federación y 8, fracción XXIV, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
-
-Los documentos electrónicos que carezcan de soporte impreso deberán conservarse conforme a los lineamientos que apruebe el Comité a propuesta de Informática.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 205.
 
-En el caso de archivos administrados por el Centro de Documentación deberán adoptarse las medidas y procedimientos técnicos que garanticen la conservación de la información y la seguridad de sus soportes, entre otros:
-
-I. Contar con espacios diseñados y destinados exclusivamente a la recepción, organización y resguardo temporal o definitivo de los documentos; y
-
-II. Contar con sistemas de control ambiental y de seguridad para conservar los documentos.
-
-Tratándose de los archivos que se encuentran resguardados en las Casas de la Cultura Jurídica será responsabilidad de su titular adoptar las medidas y procedimientos antes referidos.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 206.
 
-Los órganos de la Suprema Corte realizarán programas de respaldo y migración de los documentos electrónicos que tengan bajo su resguardo, con apoyo de Informática.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 207.
 
-Tratándose de información reservada, no podrá determinarse su destino final, es decir, su baja documental o su conservación permanente por contar con valores históricos, hasta su desclasificación.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
-A partir de la desclasificación de información reservada, ésta no será susceptible de baja documental, hasta en tanto no transcurra un plazo igual a aquél en que estuvo reservada, a efecto de garantizar el derecho de acceso a la información.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 ### CAPITULO QUINTO. DE LA TRANSFERENCIA DOCUMENTAL
 
 ###### Artículo 208.
 
-Los titulares de los órganos de la Suprema Corte podrán transferir anualmente a los depósitos del Centro de Documentación, los archivos medios e históricos.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 209.
 
-La temporalidad para llevar a cabo las transferencias del archivo administrativo generado por los órganos de la Suprema Corte se verificará de la siguiente manera:
-
-I. El archivo reciente será conservado por los órganos de la Suprema Corte responsables de su generación; y,
-
-II. El archivo medio e histórico, podrá transferirse anualmente al Centro de Documentación, para su debido resguardo y conservación.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 210.
 
-Los documentos transferidos quedarán a disposición del órgano de la Suprema Corte correspondiente.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 211.
 
-Los órganos de la Suprema Corte, para la transferencia de los archivos, deberán acompañar en soporte impreso y formato electrónico:
-
-I. Acta de transferencia; y,
-
-II. Relación de los documentos en la que se precisarán los datos para la plena identificación y control.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 212.
 
-El acta de transferencia deberá contener:
-
-I. Lugar: ubicación de las oficinas en las que se realicen las diligencias relativas a la transferencia;
-
-II. Fecha: el día, mes y año en que se realice la transferencia;
-
-III. Hora de inicio y de cierre del acta;
-
-IV. Nombre del responsable de los órganos de la Suprema Corte: el(los) nombre(s) del(los) servidor(es) público(s) designado(s) como responsable(s) de las diligencias relativas a la transferencia;
-
-V. Nombre del responsable del archivo: nombre(s) del(los) servidor(es) público(s) designado(s) responsable(s) de las diligencias relativas a la transferencia por parte del Centro de Documentación;
-
-VI. Cargo del servidor público designado responsable de las diligencias relativas a la transferencia;
-
-VII. Ubicación del acervo: lugar donde quedará resguardado el archivo administrativo de cada órgano de la Suprema Corte en el Centro Archivístico Judicial;
-
-VIII. Número total de cajas: archivo administrativo contenido en cajas que comprenden la transferencia; y,
-
-IX. Estado de conservación: mención de las condiciones físicas en las que se encuentra el archivo depositado.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 213.
 
-Los titulares de los órganos de la Suprema Corte deberán anexar a las relaciones de transferencia los datos de identificación, de conformidad con el cuadro de clasificación correspondiente, tales como:
-
-I. Fondo: el nombre oficial de la institución responsable de los documentos producidos;
-
-II. Organo de la Suprema Corte: el nombre del órgano responsable del archivo;
-
-III. Sección documental: el nombre del órgano que produce el archivo en ejercicio de sus funciones;
-
-IV. Series documentales: todos y cada uno de los testimonios documentales continuados de actividades repetitivas desarrolladas por el respectivo órgano de la Suprema Corte en virtud de una función;
-
-V. Periodo: las fechas extremas de cada serie documental que se describe;
-
-VI. Longitud: la medida que comprenden todas las cajas transferidas;
-
-VII. Soporte: medio en el cual se contiene y remite la información, esto es, formato impreso o electrónico; y,
-
-VIII. Expedientes: aquellos constituidos por uno o varios documentos de un mismo asunto, actividad o trámite de un órgano de la Suprema Corte.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 214.
 
-Los órganos de la Suprema Corte deberán solicitar mediante oficio al Centro de Documentación la transferencia de su archivo administrativo, en el que especificarán el número de cajas que ingresarán al Centro Archivístico Judicial y la longitud de éstas.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 215.
 
-El Centro de Documentación indicará al órgano depositante la fecha de traslado y la persona que acompañará al representante que designe para el depósito, con base en el cronograma de trabajo que remita a cada órgano.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 216.
 
-Para efectos de la transferencia, el acervo se remitirá al Archivo Central en cajas identificadas en sus cuatro costados mediante el rótulo de remisión, en el que se indicará el órgano de la Suprema Corte y el número consecutivo asignado, seguido del año a que corresponden los documentos que se remiten.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 217.
 
-Cada caja deberá acompañarse del inventario de su contenido para ser ingresada al Centro Archivístico Judicial por un representante del área depositante.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 218.
 
-El Archivo Central llevará a cabo el cotejo del contenido de los documentos en las oficinas de los órganos de la Suprema Corte, de manera conjunta con el personal que dichas unidades designen, cotejando las relaciones respectivas, así como el estado en que las recibe.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 219.
 
-Los órganos de la Suprema Corte deberán abstenerse de remitir objetos y/o materiales que no correspondan a documentos integrantes de su archivo administrativo, en la inteligencia de que no serán recibidos por el Centro de Documentación.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ###### Artículo 220.
 
-En caso de que durante la transferencia del archivo administrativo los órganos de la Suprema Corte no cumplan con los requisitos antes referidos, el Archivo Central se abstendrá de recibirlo.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE OCTUBRE DE 2021)
 
 ## TITULO DECIMO
 
@@ -2018,3 +1930,25 @@ SEGUNDO.- Se derogan, del Acuerdo General de la Comisión para la Transparencia,
 • Del Capítulo Cuarto “De los Procedimientos Seguidos ante la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales”, el apartado “Incidente de cumplimiento (sic)” sólo lo referente al Comité de Acceso a la Información y de Protección de Datos Personales, dejando a salvo la posibilidad de esa figura para el Comité Especializado de Ministros de la Suprema Corte de Justicia de la Nación.
 
 TERCERO.- Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, y en medios electrónicos de Consulta Física en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública. CÚMPLASE.
+
+D.O.F. 13 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CINCO DE OCTUBRE DE DOS MIL VEINTIUNO, MEDIANTE EL CUAL SE REGULA LA ORGANIZACIÓN, CONSERVACIÓN, ADMINISTRACIÓN Y PRESERVACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS DE ESTE ALTO TRIBUNAL".]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan el "Acuerdo General de Administración VIII/2006, del veintisiete de noviembre de dos mil seis, del Comité de Archivo, Biblioteca e Informática, por el que se establecen los Lineamientos para la transferencia de archivos administrativos de los órganos de la Suprema Corte de Justicia de la Nación a la Dirección General del Centro de Documentación y Análisis, Archivos y Compilación de Leyes, para su resguardo y conservación"; los "Lineamientos generales para la organización de los archivos administrativos, definición de los esquemas y métodos para su catalogación y establecimiento de los formatos para elaborar los instrumentos de control y consulta", y los "Lineamientos de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, relativos a la destrucción de copias simples de documentos bajo resguardo de los órganos de la Suprema Corte de Justicia de la Nación".
+
+TERCERO. Se deroga el Título Noveno relativo a la organización, catalogación, clasificación y conservación de los archivos del "Acuerdo General de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales de la Suprema Corte de Justicia de la Nación, del nueve de julio de dos mil ocho, relativo a los órganos y procedimientos para tutelar en el ámbito de este tribunal los derechos de acceso a la información, a la privacidad y a la protección de datos personales garantizados en el artículo 6o. constitucional".
+
+CUARTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes, en coordinación con los órganos y áreas de la Suprema Corte de Justicia de la Nación, elaborará dentro de los noventa días naturales siguientes a la entrada en vigor de este Acuerdo General de Administración, un plan de trabajo para la regularización de aquellos expedientes que se encuentren en el archivo de concentración y que no han sido organizados y valorados.
+
+Conforme a las disposiciones jurídicas aplicables, los plazos de conservación, así como parámetros de utilidad y consulta, los órganos y áreas tramitarán, si así corresponde, la baja de la documentación anterior al primero de agosto de 2010, para lo cual elaborarán un inventario con los elementos suficientes que permitan conocer su contenido y determinar su disposición documental.
+
+QUINTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes dentro de los noventa días naturales siguientes a la entrada en vigor de este Acuerdo General de Administración deberá, en el ámbito de su competencia, emitir la normativa secundaria, entre la que se encuentra la guía práctica para la conformación de expedientes administrativos y la guía para el tratamiento de documentación siniestrada, así como elaborar los formatos necesarios para la implementación del presente Acuerdo General de Administración. Hasta que dicha normativa y formatos sean emitidos, se seguirán aplicando los que no se opongan al presente Acuerdo General de Administración.
+
+SEXTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes, en coordinación con la Dirección General Tecnologías de la Información, implementará el Sistema de Gestión Documental Institucional dentro de los doce meses siguientes a la entrada en vigor del presente Acuerdo General de Administración.
+
+SÉPTIMO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes entregará a la Dirección General de Tecnologías de la Información, a más tardar en sesenta días naturales posteriores a la entrada en vigor del presente Acuerdo General de Administración, un inventario de las herramientas tecnológicas que operen los órganos o áreas. Una vez hecho lo anterior, la Dirección General de Tecnologías de la Información llevará a cabo un análisis de dichas herramientas, para determinar si la información contenida en las mismas es viable que sea migrada al Sistema de Gestión Documental Institucional.
+
+OCTAVO. Publíquese este Acuerdo General de Administración en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
