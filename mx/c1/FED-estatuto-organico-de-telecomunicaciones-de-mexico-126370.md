@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-telecomunicaciones-de-mexico-126370"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-02-14"
-last_updated: "2021-09-01"
+last_updated: "2021-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,6 +22,8 @@ issue_date: "2018-01-19"
 ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE OCTUBRE DE 2021.]</small>
 
 Estatuto publicado en la Primera Sección al Número 10 del Diario Oficial de la Federación, el miércoles 14 de febrero de 2018.
 
@@ -455,41 +457,41 @@ XV. Elaborar las ofertas de referencia y sus modificaciones, a fin de someterlas
 
 XVI. Establecer estrategias que aseguren la comercialización de los servicios de la Red Troncal Mayorista, en apego a la normatividad aplicable;
 
-XVII. Definir y coordinar la metodología para la elaboración de estudios de mercado que se realicen internamente o a través de terceros, y
+(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XVIII. Realizar aquellas funciones que sean afines a las que anteceden y las que encomiende expresamente el Director General.
+XVII. Definir y coordinar la metodología para la elaboración de estudios de mercado que se realicen internamente o a través de terceros;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XIX. Solicitar información a la administración pública federal, tanto centralizada como paraestatal, así como del Gobierno de la Ciudad de México y de las Entidades Federativas, relativa a la ubicación, disposición y terminación, tanto de ductos, como de cables de fibra óptica instalada o por instalar;
+XVIII. Coordinar con las Dependencias y Entidades de la Administración Pública Federal, así como con los Gobiernos Estatales y Municipales, la entrega y actualización de la información relativa a la ubicación, disposición y terminación, tanto de ductos, como de cables de fibra óptica instalada o por instalar, para concentrar el inventario de rutas de fibra óptica y sus componentes;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XX. Instrumentar las acciones necesarias para llevar a cabo un inventario nacional sistematizado de toda la información proporcionada por las autoridades señaladas en la fracción que antecede, y
+XIX. Administrar el inventario de rutas de fibra óptica y sus componentes; así como supervisar y emitir opiniones sobre el estado que guardan y las necesidades de las redes de telecomunicaciones y de los servicios de conectividad terrestres, para crear una robusta red troncal a nivel nacional;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XXI. Elaborar en lo concerniente a proyectar, especificar, instalar, supervisar, diagnosticar y revisar la adecuación de redes de telecomunicaciones terrestres, incluyendo la promoción de los servicios de conectividad en todos los aspectos y de forma amplia.
+XX. Coordinar con las Dependencias y Entidades de la Administración Pública Federal, así como con los Gobiernos Estatales y Municipales y con empresas privadas, la compra, transportación, instalación, señalización, conexión e interconexión de redes de telecomunicaciones y de los servicios de conectividad terrestres;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XXII. Realizar todas las acciones necesarias de manera enunciativa mas no limitativa de revisión, supervisión, diagnóstico, instalación, operación y mantenimiento enfocados a todos los componentes de las redes de telecomunicaciones terrestres que incluyen: el cableado de fibra óptica, cobre, los dispositivos de soporte terreno para fortalecer y hacer crecer una robusta Red Troncal que permita realizar un inventario de infraestructura de fibra óptica y sus componentes.
+XXI. Diseñar el Proyecto de Telecomunicaciones Terrestres, primordialmente de fibra óptica y sus componentes y supervisar su implementación por parte de Dependencias y Entidades de la Administración Pública Federal, así como de los Gobiernos Estatales y Municipales y de empresas privadas;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XXIII. Adquirir, transportar e instalar los equipos necesarios por cuenta propia o de terceros para administrar, proporcionar, recibir señal y conectividad, incluyendo los servicios de última milla, en lo relativo a la red de fibra óptica que esté a cargo de cualquier dependencia de la administración pública federal, tanto centralizada como paraestatal, así como del Gobierno de la Ciudad de México y de las Entidades Federativas y Gobiernos Municipales.
+XXII. Asesorar a Dependencias y Entidades de la Administración Pública Federal, así como a los Gobiernos Estatales y Municipales y empresas privadas, sobre redes de telecomunicaciones y servicios de conectividad terrestres;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XXIV. Transportar e instalar los equipos necesarios para, de manera enunciativa más no limitativa, administrar, proporcionar, recibir señales y conectividad, así como realizar sin limitación alguna Ingeniería de Proyecto de Telecomunicaciones terrestres, que incluya el desarrollo de especificaciones, procedimientos para realizar instalaciones, supervisión, diagnóstico, revisión, adecuación de redes de telecomunicaciones, primordialmente de fibra óptica y los componentes de la Red Troncal.
+XXIII. Participar en representación de Telecomunicaciones de México en los Organismos y Foros Nacionales e Internacionales, en materia de telecomunicaciones terrestres;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XXV. Participar en representación de Telecomunicaciones de México en los Organismos y Foros Nacionales e Internacionales, en materia de telecomunicaciones, cualquiera que sea su denominación, en el ámbito de su competencia, y
+XXIV. Promover la elaboración y aplicación de normas en materia de telecomunicaciones terrestres en el ámbito de su competencia, y
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2021) (F. DE E., D.O.F. 13 DE OCTUBRE DE 2021)
 
-XXVI. Promover la elaboración y aplicación de Normas en materia de Telecomunicaciones en el ámbito de su competencia.
+XXV. Realizar aquellas funciones que sean afines a las que anteceden y las que encomiende expresamente el Director General.
 
 ARTÍCULO 26 Corresponde a la Dirección de la Red de Sucursales:
 
@@ -806,3 +808,9 @@ D.O.F. 1 DE SEPTIEMBRE DE 2021.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las atribuciones y facultades otorgadas a la Dirección de la Red Troncal, quedarán sujetas a la disponibilidad presupuestal y/o a los remanentes que se generen por la ejecución de las actividades a desarrollar.
+
+D.O.F. 13 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ACUERDO QUE ADICIONA LAS FRACCIONES DE LA XIX A LA XXVI DEL ARTÍCULO 25 DEL ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO, PUBLICADO EL 1 DE SEPTIEMBRE DE 2021”.]
+
+ÚNICO.- La presente nota aclaratoria entrará en vigor al día hábil siguiente de su publicación.
