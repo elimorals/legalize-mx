@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2012-del-pleno-del-consejo-de-la-86201"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-22"
-last_updated: "2012-02-22"
+last_updated: "2021-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86201&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-02-14"
 ---
 # ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REFORMA AL DIVERSO ACUERDO GENERAL 15/2010, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO DE DISTRITO DEL COMPLEJO PENITENCIARIO ISLAS MARIAS Y AUXILIAR EN TODA LA REPUBLICA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 4/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA AL DIVERSO ACUERDO GENERAL 15/2010, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO DE DISTRITO DEL COMPLEJO PENITENCIARIO ISLAS MARÍAS Y AUXILIAR EN TODA LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de febrero de 2012.
 
@@ -124,3 +126,25 @@ SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 4/2012, del Pleno del Consejo de la Judicatura Federal, que reforma al diverso Acuerdo General 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinticinco de enero de dos mil doce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a catorce de febrero de dos mil doce.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO OCTAVO DE DISTRITO DEL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN MAZATLÁN, SINALOA; Y QUE REFORMA DIVERSAS DISPOSICIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+TERCERO. Se abroga el Acuerdo General 8/2013 del Pleno del Consejo de la Judicatura Federal, por el que se modifican los diversos 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República; 3/2013, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, y 52/2008 por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán.
+
+CUARTO. Se abroga el Acuerdo General 15/2010 del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
+
+QUINTO. Se abroga el Acuerdo General 4/2012 del Pleno del Consejo de la Judicatura Federal, que reforma al diverso Acuerdo General 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
+
+SEXTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección General de Gestión Judicial y la Dirección General de Tecnologías de la Información y Coordinación de Administración Regional llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+SÉPTIMO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionan con el cumplimiento de este Acuerdo.
+
+OCTAVO. La Oficina de Correspondencia Común que presta servicio a los Juzgados de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, fijará en lugar visible un aviso que contenga el origen y destino de los asuntos del órgano que concluye funciones, para consulta de los interesados.
