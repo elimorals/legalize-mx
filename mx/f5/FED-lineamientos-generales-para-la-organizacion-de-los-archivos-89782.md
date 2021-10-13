@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-generales-para-la-organizacion-de-los-archivos-897
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-05-13"
-last_updated: "2010-05-13"
+last_updated: "2021-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-03-23"
 ---
 # LINEAMIENTOS GENERALES PARA LA ORGANIZACION DE LOS ARCHIVOS ADMINISTRATIVOS, DEFINICION DE LOS ESQUEMAS Y METODOS PARA SU CATALOGACION Y ESTABLECIMIENTO DE LOS FORMATOS PARA ELABORAR LOS INSTRUMENTOS DE CONTROL Y CONSULTA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021, PUBLICADO EN EL D.O.F. DE 13 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS GENERALES PARA LA ORGANIZACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS, DEFINICIÓN DE LOS ESQUEMAS Y MÉTODOS PARA SU CATALOGACIÓN Y ESTABLECIMIENTO DE LOS FORMATOS PARA ELABORAR LOS INSTRUMENTOS DE CONTROL Y CONSULTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2021 (ABROGADO).
 
 Lineamientos publicados en el Semanario Judicial de la Federación y su Gaceta, Tomo XXXI, Mayo de 2010, páginas de la 2167 a la 2246.
 
@@ -386,3 +388,27 @@ LUIS MARÍA AGUILAR MORALES
 LA QUE SUSCRIBE, DIRECTORA GENERAL DEL CENTRO DE DOCUMENTACIÓN Y ANÁLISIS, ARCHIVOS Y COMPILACIÓN DE LEYES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EJERCICIO DE LA ATRIBUCIÓN CONFERIDA EN EL ARTÍCULO 162, FRACCIÓN XII, DEL REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA QUE LA PRESENTE COPIA CONSTANTE DE SETENTA FOJAS ÚTILES, CONCUERDA FIEL Y EXACTAMENTE CON LA ORIGINAL QUE OBRA EN LOS LINEAMIENTOS GENERALES PARA LA ORGANIZACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS, DEFINICIÓN DE LOS ESQUEMAS Y MÉTODOS PARA SU CATALOGACIÓN Y ESTABLECIMIENTO DE LOS FORMATOS PARA ELABORAR LOS INSTRUMENTOS DE CONTROL Y CONSULTA, APROBADOS POR EL COMITÉ DE ARCHIVO, BIBLIOTECA E INFORMÁTICA Y LA COMISIÓN PARA LA TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL Y PROTECCIÓN DE DATOS PERSONALES.- MÉXICO DISTRITO FEDERAL A TRECE DE MAYO DE DOS MIL DIEZ.
 
 LIC. DIANA CASTAÑEDA PONCE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XI/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CINCO DE OCTUBRE DE DOS MIL VEINTIUNO, MEDIANTE EL CUAL SE REGULA LA ORGANIZACIÓN, CONSERVACIÓN, ADMINISTRACIÓN Y PRESERVACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan el “Acuerdo General de Administración VIII/2006, del veintisiete de noviembre de dos mil seis, del Comité de Archivo, Biblioteca e Informática, por el que se establecen los Lineamientos para la transferencia de archivos administrativos de los órganos de la Suprema Corte de Justicia de la Nación a la Dirección General del Centro de Documentación y Análisis, Archivos y Compilación de Leyes, para su resguardo y conservación”; los “Lineamientos generales para la organización de los archivos administrativos, definición de los esquemas y métodos para su catalogación y establecimiento de los formatos para elaborar los instrumentos de control y consulta”, y los “Lineamientos de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, relativos a la destrucción de copias simples de documentos bajo resguardo de los órganos de la Suprema Corte de Justicia de la Nación”.
+
+TERCERO. Se deroga el Título Noveno relativo a la organización, catalogación, clasificación y conservación de los archivos del “Acuerdo General de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales de la Suprema Corte de Justicia de la Nación, del nueve de julio de dos mil ocho, relativo a los órganos y procedimientos para tutelar en el ámbito de este tribunal los derechos de acceso a la información, a la privacidad y a la protección de datos personales garantizados en el artículo 6o. constitucional”.
+
+CUARTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes, en coordinación con los órganos y áreas de la Suprema Corte de Justicia de la Nación, elaborará dentro de los noventa días naturales siguientes a la entrada en vigor de este Acuerdo General de Administración, un plan de trabajo para la regularización de aquellos expedientes que se encuentren en el archivo de concentración y que no han sido organizados y valorados.
+
+Conforme a las disposiciones jurídicas aplicables, los plazos de conservación, así como parámetros de utilidad y consulta, los órganos y áreas tramitarán, si así corresponde, la baja de la documentación anterior al primero de agosto de 2010, para lo cual elaborarán un inventario con los elementos suficientes que permitan conocer su contenido y determinar su disposición documental.
+
+QUINTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes dentro de los noventa días naturales siguientes a la entrada en vigor de este Acuerdo General de Administración deberá, en el ámbito de su competencia, emitir la normativa secundaria, entre la que se encuentra la guía práctica para la conformación de expedientes administrativos y la guía para el tratamiento de documentación siniestrada, así como elaborar los formatos necesarios para la implementación del presente Acuerdo General de Administración. Hasta que dicha normativa y formatos sean emitidos, se seguirán aplicando los que no se opongan al presente Acuerdo General de Administración.
+
+SEXTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes, en coordinación con la Dirección General Tecnologías de la Información, implementará el Sistema de Gestión Documental Institucional dentro de los doce meses siguientes a la entrada en vigor del presente Acuerdo General de Administración.
+
+SÉPTIMO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes entregará a la Dirección General de Tecnologías de la Información, a más tardar en sesenta días naturales posteriores a la entrada en vigor del presente Acuerdo General de Administración, un inventario de las herramientas tecnológicas que operen los órganos o áreas. Una vez hecho lo anterior, la Dirección General de Tecnologías de la Información llevará a cabo un análisis de dichas herramientas, para determinar si la información contenida en las mismas es viable que sea migrada al Sistema de Gestión Documental Institucional.
+
+OCTAVO. Publíquese este Acuerdo General de Administración en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
