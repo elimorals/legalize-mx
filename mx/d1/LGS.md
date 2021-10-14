@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2021-06-01"
+last_updated: "2021-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2021.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -5424,6 +5424,10 @@ No podrán atribuirse a los productos cosméticos acciones propias de los medica
 
 Los fabricantes, importadores y comercializadores de productos cosméticos deberán contar con los estudios de seguridad, eficacia y todos los demás que se establezcan en diversos ordenamientos y normas aplicables, entregándolos a la Secretaría, en caso de que los requiera.
 
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2021)</small>
+
+Los estudios a los que se refiere el párrafo anterior no podrán incluir pruebas cosméticas en animales de ingredientes cosméticos, de productos cosméticos finalizados ni de sus ingredientes o la mezcla de ellos, en términos del artículo 271 Bis de esta Ley.
+
 Los responsables de la publicidad de productos cosméticos deberán presentar aviso a la Secretaría para publicitar sus productos; el aviso se dará por marca de producto en base a los requisitos establecidos en el Reglamento y deberán al menos contener la siguiente información:
 
 Nombre y domicilio del fabricante, nombre y domicilio del importador y distribuidor, marca, nombre y Registro Federal de Contribuyentes del responsable del producto y de la publicidad.
@@ -5434,6 +5438,26 @@ Nombre y domicilio del fabricante, nombre y domicilio del importador y distribui
 
 Los productos para adelgazar o engrosar partes del cuerpo o variar las proporciones del mismo; así como aquellos destinados a los fines a que se refiere el artículo 269 de esta Ley; que contengan hormonas, vitaminas y, en general, substancias con acción terapéutica que se les atribuya esta acción, serán considerados medicamentos y deberán sujetarse a lo previsto en el Capítulo IV de este Título.
 
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 271 Bis.
+
+No podrán fabricarse, importarse ni comercializarse productos cosméticos en los siguientes supuestos:
+
+a) Cuando en su formulación final medien o hayan mediado pruebas en animales, y
+
+b) Cuando contengan ingredientes o combinaciones de éstos que sean o hayan sido objeto de pruebas en animales.
+
+Lo dispuesto en el párrafo anterior podrá exceptuarse cuando:
+
+I. Un ingrediente deba someterse a pruebas de seguridad, y no existan los métodos alternativos validados por la comunidad científica internacional o alguna disposición sanitaria relativa y aplicable. En ningún caso se podrán realizar pruebas adicionales posteriores;
+
+II. Los datos de seguridad generados a través de pruebas en animales para un ingrediente se hayan realizado para otro fin diferente al cosmético;
+
+III. La seguridad del ingrediente sea ampliamente reconocida por el uso histórico del mismo, no serán necesarias pruebas adicionales, pudiendo ser usada en cambio la información generada previamente como soporte, y
+
+IV. Sea necesario atender un requisito regulatorio establecido por otro país, para fines de exportación.
+
 ###### ARTICULO 272.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere este Capítulo, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
@@ -5441,6 +5465,10 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas internacionales que determine la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2021)</small>
+
+Asimismo, para garantizar el derecho a la información del consumidor, el etiquetado de todos los productos cosméticos comercializados podrá señalar que en su fabricación no se han llevado a cabo pruebas en animales, en términos de la normatividad aplicable. No se podrá presumir de dicha condición en los casos a los que se refieren las excepciones establecidas en el artículo 271 Bis de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -7566,11 +7594,15 @@ Los productos perecederos asegurados que se descompongan en poder de la autorida
 
 Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS INCISOS], D.O.F. 14 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 414 Bis.
 
-Será procedente la acción de aseguramiento prevista en el artículo 414 como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos cosméticos que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
+Será procedente la acción de aseguramiento prevista en el artículo 414 de esta Ley como medida de seguridad, para el caso de que se comercialicen:
+
+a) Remedios herbolarios, suplementos alimenticios o productos cosméticos que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales, y
+
+b) Los productos cosméticos a los que se refiere el artículo 271 Bis de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
@@ -7636,11 +7668,11 @@ Se sancionará con multa de dos mil hasta seis mil veces la Unidad de Medida y A
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 421 Bis.
 
-Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
+Se sancionará con multa equivalente a quince mil hasta veinte mil veces el valor de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 271 Bis, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -7678,9 +7710,17 @@ IV.- Cuando por la peligrosidad de las actividades que se realicen o por la natu
 
 V.- Cuando en el establecimiento se vendan o suministren estupefacientes sin cumplir con los requisitos que señalen esta Ley y sus reglamentos;
 
-VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2021)</small>
 
-VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud;
+VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2021)</small>
+
+VI Bis.- Cuando en un establecimiento se practiquen pruebas cosméticas en animales con el propósito de fabricar o comercializar productos cosméticos, en términos del artículo 271 Bis de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2021)</small>
+
+VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones sanitarias, constituyendo un peligro grave para la salud, y
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -8039,6 +8079,12 @@ Para los efectos del presente artículo, se entenderá por medicamento, fármaco
 Al profesional, técnico o auxiliar de las disciplinas para la salud y, en general, a toda persona relacionada con la práctica médica que realice actos de investigación clínica en seres humanos, sin sujetarse a lo previsto en el Título Quinto de esta Ley, se le impondrá prisión de uno a ocho años, suspensión en el ejercicio profesional de uno a tres años y multa por el equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
 
 Si la conducta se lleva a cabo con menores, incapaces, ancianos, sujetos privados de la libertad o, en general, con personas que por cualquier circunstancia no pudieran resistirse, la pena que fija el párrafo anterior se aumentará hasta en un tanto más.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 465 Bis.
+
+A quien contrate, autorice, conduzca, participe o desarrolle pruebas cosméticas en animales se le aplicará pena de dos a siete años de prisión y multa equivalente de doscientas a dos mil veces el valor de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 466.
 
@@ -9395,3 +9441,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La Secretaría de Salud contará con 365 días contados a partir de la publicación del presente Decreto, para efecto de publicar la Norma Oficial Mexicana, relativa al tamiz neonatal para la detección de cardiopatías congénitas graves o críticas.
 
 Tercero. La aplicación del presente Decreto estará sujeta a la disponibilidad presupuestaria, que para tal efecto la Secretaría de Salud determine.
+
+D.O.F. 14 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Poder Ejecutivo Federal, a través de las instancias competentes, contará con 180 días, contados a partir de su publicación en el Diario Oficial de la Federación, para expedir las disposiciones jurídicas necesarias para la aplicación del presente Decreto.
+
+Tercero. La Secretaría de Salud, en términos de lo que establece la Ley de Infraestructura de la Calidad, deberá adecuar las normas oficiales mexicanas relacionadas con las disposiciones establecidas por este Decreto.
+
+Cuarto. A partir de la publicación del presente Decreto, la Secretaría de Salud, en atención a su disponibilidad presupuestaria, incentivará y dará facilidades para la investigación nacional dirigida a desarrollar modelos alternativos al uso de pruebas en animales, validadas por la comunidad científica internacional.
+
+Quinto. A partir de la publicación de las disposiciones jurídicas a que se refiere el artículo segundo transitorio del presente Decreto, los fabricantes contarán con dos años para sustituir las pruebas cosméticas en animales por métodos alternativos para evaluar la seguridad y eficacia de los productos cosméticos.
+
+Sexto. Las disposiciones a las que se refiere el presente Decreto no se aplicarán a los productos e ingredientes probados y disponibles para la venta, en el momento de la publicación de este Decreto.
