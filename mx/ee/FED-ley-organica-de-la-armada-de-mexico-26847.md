@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-26847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2017-05-19"
+last_updated: "2021-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LOAM"
 ---
 # LEY ORGANICA DE LA ARMADA DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO, PUBLICADA EN EL D.O.F. DE 14 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
-ÚLTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2021 (ABROGADA).
 
-Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1409,3 +1411,17 @@ D.O.F. 19 DE MAYO DE 2017.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor de este Decreto.
+
+D.O.F. 14 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor de la presente Ley, se abroga la Ley Orgánica de la Armada de México, publicada el 30 de diciembre de 2002 en el Diario Oficial de la Federación, y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Tercero. Las erogaciones que generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, con movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Cuarto. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en el mismo, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Quinto. Las autoridades competentes deberán emitir las disposiciones reglamentarias y normativas necesarias, o sus modificaciones, para dar cumplimiento a lo previsto en la presente Ley, dentro de los 180 días siguientes a su entrada en vigor.
