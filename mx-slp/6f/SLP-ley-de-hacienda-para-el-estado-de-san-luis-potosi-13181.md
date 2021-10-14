@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2021-08-05"
+last_updated: "2021-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1509,19 +1509,17 @@ De conformidad con los convenios celebrados con la Federación, en materia de co
 
 La expedición de licencias o permisos para conducir vehículos, causará los siguientes derechos, expresados en UMA vigente:
 
-I. Licencias:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE OCTUBRE DE 2021)</small>
 
-a. Automovilista
+I. Licencias requeridas por personas con residencia acreditada en el Estado:
 
-Con vigencia de un año 6.35
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2021)</small>
 
-Por cada año subsecuente, hasta cuatro años 3.51
+a. Automovilista 0.0
 
-b. Chofer de Servicio Particular
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2021)</small>
 
-Vigencia un año 6.85
-
-Por cada año subsecuente, hasta cuatro años 4.02
+b. Chofer de servicio particular 0.0
 
 c. Chofer de Servicio Público
 
@@ -1543,7 +1541,31 @@ por el primer año 9.37
 
 Por cada año subsecuente, hasta cuatro años 6.54
 
-d. Conductor de motocicleta o motoneta
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2021)</small>
+
+d. Conductor de motocicleta o motoneta 0.0
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2021)</small>
+
+La vigencia de las licencias para conducir vehículos otorgadas a los automovilistas, choferes del servicio particular y conductores de motocicletas y motonetas con residencia acreditada en el Estado, será de carácter permanente conforme a los lineamientos que emita la Secretaría de Finanzas.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 14 DE OCTUBRE DE 2021)</small>
+
+I. BIS. Licencias requeridas por personas que no residen en el Estado:
+
+a. Automovilista:
+
+Con vigencia de un año 6.35
+
+Por cada año subsecuente, hasta cuatro años 3.51
+
+b. Chofer de servicio particular:
+
+Vigencia un año 6.85
+
+Por cada año subsecuente, hasta cuatro años 4.02
+
+c. Conductor de motocicleta o motoneta:
 
 Con vigencia de un año 5.34
 
@@ -1557,9 +1579,17 @@ A personas menores de dieciocho años 7.53
 
 III. Por la expedición de permisos para manejar, con vigencia de seis meses, a personas menores de dieciocho años pero mayores de dieciséis, se pagarán 6.35; y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2021)</small>
 
-IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar 2 veces el valor de la UMA vigente, por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
+IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar 12 veces el valor de la UMA vigente, y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2021)</small>
+
+V. Se exentará del pago de la reposición de la licencia permanente en los siguientes casos:
+
+a) La persona que acredite el robo de la misma con la denuncia ratificada correspondiente ante la Fiscalía General del Estado, y
+
+b) La pérdida ocasionada por desastres naturales, éstos siempre y cuando hayan sido emitidos por la autoridad mediante la declaratoria de desastres naturales correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -3498,5 +3528,13 @@ P.O. 5 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1221.- SE ADICIONA EL ARTÍCULO 19 DUODECIES, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0007.- SE REFORMA EL ARTÍCULO 66 EN SUS FRACCIONES, I LAS LETRAS A, B Y D Y IV; Y ADICIONA AL ARTÍCULO 66 EN SU FRACCIÓN I PÁRRAFO ÚLTIMO, LA FRACCIÓN I BIS Y LA FRACCIÓN V DE LA LEY DE HACIENDA PARA EL ESTADO SAN LUIS POTOSÍ; Y SE DEROGA EL ARTÍCULO 12, DE LA LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL 2021".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
