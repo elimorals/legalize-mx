@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ingresos-del-estado-de-san-luis-potosi-para-el-145753"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-18"
-last_updated: "2020-12-18"
+last_updated: "2021-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 18 de diciembre de 2020.
 
@@ -615,7 +615,7 @@ Para el ejercicio fiscal 2021 se concederá un subsidio equivalente al 50% (cinc
 
 ###### ARTÍCULO 12.
 
-Para el ejercicio fiscal 2021 se concederá un subsidio equivalente al 50% (cincuenta por ciento) de los derechos por la obtención o renovación de licencia de conducir, establecidos en el artículo 66 de la Ley de Hacienda para el Estado de San Luis Potosí, a las personas de 60 años o más de edad.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 13.
 
@@ -658,3 +658,13 @@ Alejandro Leal Tovías
 (Rúbrica)
 
 > <small>[N. DE E. VÉASE ANEXO ÚNICO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 18 A LA 222.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0007.- SE REFORMA EL ARTÍCULO 66 EN SUS FRACCIONES, I LAS LETRAS A, B Y D Y IV; Y ADICIONA AL ARTÍCULO 66 EN SU FRACCIÓN I PÁRRAFO ÚLTIMO, LA FRACCIÓN I BIS Y LA FRACCIÓN V DE LA LEY DE HACIENDA PARA EL ESTADO SAN LUIS POTOSÍ; Y SE DEROGA EL ARTÍCULO 12, DE LA LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL 2021”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
