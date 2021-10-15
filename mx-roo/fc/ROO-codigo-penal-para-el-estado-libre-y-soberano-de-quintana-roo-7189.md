@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2021-09-27"
+last_updated: "2021-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -735,7 +735,7 @@ La pena de prisión produce la suspensión de los derechos políticos y los de t
 
 ### CAPITULO XI. PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL O DE RESIDIR EN ELLA
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 41.
 
@@ -753,7 +753,7 @@ Si el delito por el que se impone la publicación de sentencia fue cometido a tr
 
 ###### ARTICULO 43.
 
-El Juez tomando en cuenta las circunstancias del delito y las propias del delincuente, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella. Esta prohibición no excederá de cinco años, salvo cuando se trate de sentenciados por feminicidio, homicidio doloso, lesiones calificadas, violencia familiar y violación, en cuyo caso el juez podrá ampliar la prohibición hasta diez años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
+El Juez, tomando en cuenta las circunstancias del delito, y las propias del imputado, podrá disponer que éste, no vaya a una circunscripción territorial determinada, o que no resida en ella. Esta prohibición, no excederá de cinco años, salvo cuando se trate de sentenciados por feminicidio, homicidio doloso, lesiones calificadas, extorsión, violencia familiar y violación, en cuyo caso, el juez, podrá ampliar la prohibición hasta diez años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
 
 ### CAPITULO XIII. TRATAMIENTO E INTERNAMIENTO O EN LIBERTAD DE IMPUTABLES (SIC) O DE SUJETOS CON IMPUTABILIDAD DISMINUIDA
 
@@ -1519,11 +1519,25 @@ II.- Cuando se ejecuten por retribución dada o prometida;
 
 III.- Cuando se causan dolosamente por inundación, incendio, minas, bombas o explosivos;
 
-IV.- Cuando se produzcan por evenenamiento (sic), asfixia, estupefacientes o cualquier otra sustancia nociva a la salud, o
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+IV.- Cuando se produzcan por envenenamiento, asfixia, estupefacientes o cualquier otra sustancia nociva a la salud;
 
-V.- Cuando se dé tormento a la víctima o al ofendido o se obre con ensañamiento o crueldad por motivos depravados.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+V.- Cuando se dé tormento a la víctima o al ofendido o se obre con ensañamiento o crueldad por motivos depravados, o
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+VI.- Cuando, siendo sujeto pasivo de la conducta de lesiones dolosas una mujer, la lesión que se le infringió sea:
+
+a) Degradante o infamante;
+
+b) Por mutilación,
+
+c) Causada con sustancias corrosivas, o
+
+d) Haya sido en los órganos sexuales de la víctima.
 
 ###### ARTICULO 107.
 
@@ -2171,6 +2185,22 @@ V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
 
 Si en los actos mencionados llegara a participar algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, así como también tenga la guarda de vehículos en lugares destinados para su depósito, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el periodo igual a la pena de prisión impuesta.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 146
+
+QUATER. Las penas previstas para el delito de robo contenidas en el presente Capítulo, aumentarán hasta en una mitad, cuando se actualice alguno de los siguientes supuestos:
+
+I. El sujeto pasivo del delito tenga la calidad de turista.
+
+II. El sujeto pasivo del delito tenga la calidad de prestador de servicios turísticos y el delito se lleve a cabo sobre bienes necesarios para la prestación de esos servicios.
+
+III. El sujeto pasivo del delito tenga la calidad de prestador de servicios turísticos y el delito se lleve a cabo durante el desempeño de sus servicios.
+
+IV. El sujeto pasivo del delito tenga la calidad de trabajador turístico, y se encuentre desempeñando sus labores.
+
+Para efectos de lo dispuesto en las fracciones anteriores, se entenderá que el sujeto pasivo del delito tiene la calidad de turista, prestador de servicios turísticos o trabajador turístico, cuando reúna las características que para ser considerado así, señala la Ley de Turismo del Estado de Quintana Roo.
+
 ### CAPITULO V. FRAUDE
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
@@ -2323,7 +2353,7 @@ VIII. Comercialice o fabrique dispositivos falsos de identificación oficial de 
 
 ### CAPITULO VII. EXTORSION
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 150.
 
@@ -2411,23 +2441,29 @@ Al que por cualquier razón tuviera a su cargo la administración o el cuidado d
 
 ###### ARTICULO 156.
 
-A quien con ánimo de lucro para sí o para otro, obligare a otra persona, con violencia moral o intimidación, a realizar, omitir, o tolerar un acto o negocio jurídico en perjuicio de su patrimonio o del de un tercero, se le impondrá de doce a dieciocho años de prisión y de ochocientos a mil días multa.
+A quien, con ánimo de obtener para si o para otro un lucro, beneficio, ventaja, o perjuicio en contra de tercero, por cualquier medio obligue a otra persona, con intimidación o engaño, a dar, tolerar, realizar u omitir algo, así como a efectuar, tolerar, permitir u omitir un acto o negocio jurídico de cualquier especie, en su perjuicio o de un tercero, se le impondrá una sanción de quince a veinticinco años de prisión, y de mil a mil quinientos días multa.
 
-Se impondrá prisión de quince a veinte años y multa de ochocientos a mil doscientos días, a quien para obtener un beneficio para sí o para interpósita persona, obligue a otro mediante la violencia moral o la intimidación a dar, hacer, dejar de hacer o tolerar algo en su perjuicio o en el de un tercero.
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad más, cuando se actualice cualquiera de las siguientes hipótesis:
 
-Cuando el sujeto activo del delito sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o readaptación social, o tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares, la pena será de dieciséis a veinticuatro años de prisión y multa de mil a mil doscientos días.
+I. Intervengan dos o más personas;
 
-Cuando en la comisión del delito se configuren los siguientes supuestos, la pena de prisión será de veinte a veinticinco años y la multa de mil a mil quinientos días multa:
+II. Se emplee violencia física;
 
-I. Intervenga una o más personas armadas, portando instrumentos peligrosos;
+III. Se cometa en contra de una persona menor de edad, persona mayor de sesenta años de edad o persona con alguna discapacidad;
 
-II. Se emplee violencia física, en la víctima o de un tercero;
+IV. Cuando el sujeto activo del delito se encuentre privado de su libertad bajo cualquier circunstancia en un Centro de Reclusión Estatal o Federal a disposición de cualquier autoridad;
 
-III. Se cometa en contra de un menor de edad, persona mayor de sesenta años de edad o persona con alguna discapacidad; o
+V. Cuando el sujeto activo del delito se ostente como integrante de alguna institución policial o de seguridad pública o privada;
 
-IV. Cuando el sujeto activo se encuentre privado de su libertad bajo cualquier circunstancia en un Centro de Reclusión Estatal o Federal a disposición de cualquier autoridad.
+VI. Cuando el sujeto activo del delito se ostente como servidor público, en cualquier ámbito de gobierno;
 
-Cuando en la comisión del delito se utilice la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica, la pena será de veintidós a veintiocho años de prisión y la multa de mil doscientos a mil quinientos días multa.
+VII. Cuando el sujeto activo del delito tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares;
+
+VIII. Cuando el sujeto activo del delito se ostente, por cualquier medio, como integrante de una asociación delictuosa o grupo criminal, real o ficticio, o
+
+IX. Participen servidores públicos o trabajadores de instituciones privadas que tengan acceso a bancos de datos personales y que los utilicen o los sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades.
+
+En caso de ser servidor público, se hará la destitución del empleo, cargo o comisión, así como la inhabilitación de diez a quince años para desempeñar cualquier cargo como servidor público.
 
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
@@ -4860,3 +4896,27 @@ P.O. 27 DE SEPTIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 127 POR EL QUE SE ADICIONA UN ARTÍCULO 146-QUÁTER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+Primero. El presente Decreto comenzará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 128 POR EL QUE SE REFORMAN LOS ARTÍCULOS 43 Y 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 135, POR EL QUE SE REFORMAN LAS FRACCIONES IV Y V, Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 106 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
