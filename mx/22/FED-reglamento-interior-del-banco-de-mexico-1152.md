@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2021-03-31"
+last_updated: "2021-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -85,9 +85,7 @@ El miembro de la Junta de Gobierno que desee abstenerse de firmar algún acta, p
 
 Asimismo, se deberá conservar en un apéndice del acta respectiva un ejemplar de cada uno de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>[N. DE E. DE CONFORMIDAD CON LA MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO PUBLICADO EN EL D.O.F. DE 14 DE JUNIO DE 2019, SE MODIFICÓ DE FORMA SUSTANCIAL LAS UNIDADES DEL PRESENTE ARTÍCULO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES], 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES, D.O.F. 15 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 4o.
 
@@ -105,11 +103,7 @@ Dirección General de Estabilidad Financiera
 
 Dirección General de Investigación Económica
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2019)</small>
-
 Dirección General de Operaciones de Banca Central
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
 
 Dirección General de Sistemas de Pagos e Infraestructuras de Mercados
 
@@ -129,6 +123,8 @@ Dirección de Análisis Macroeconómico
 
 Dirección de Análisis sobre Precios, Economía Regional e Información
 
+Dirección de Análisis y Políticas de Riesgos Ambientales y Sociales
+
 Dirección de Apoyo a las Operaciones
 
 Dirección de Asuntos Internacionales
@@ -142,8 +138,6 @@ Dirección de Contabilidad, Planeación y Presupuesto
 Dirección de Control Interno
 
 Dirección de Desarrollo de Sistemas
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
 
 Dirección de Desarrollo e Innovación de Sistemas de Pagos e Infraestructuras de Mercados
 
@@ -167,15 +161,11 @@ Dirección de Intermediarios Financieros de Fomento
 
 Dirección de Medición Económica
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
-
 Dirección de Operación y Continuidad de Sistemas de Pagos e Infraestructuras de Mercados
 
 Dirección de Operaciones Internacionales
 
 Dirección de Operaciones Nacionales
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
 
 Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados
 
@@ -343,9 +333,9 @@ La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, 
 
 El Acuerdo de Adscripción de las unidades administrativas deberá ser suscrito por el Gobernador o, en sus ausencias, por el Director General de Administración.
 
-> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO,D.O.F. 15 DE OCTUBRE DE 2021)</small>
 
-Para los efectos del presente Reglamento, se entenderá por entidad financiera o intermediario financiero: a las instituciones de crédito, instituciones de seguros, instituciones de fianzas, casas de bolsa, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, casas de cambio, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, sociedades financieras de objeto múltiple, almacenes generales de depósito, uniones de crédito, instituciones de financiamiento colectivo, instituciones de fondos de pago electrónico, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, fideicomisos de fomento económico, entidades financieras de desarrollo, así como otras personas y fideicomisos respecto de los cuales el Banco ejerza facultades de regulación, de requerimientos de información, de supervisión o de sanción, incluidas las sociedades de información crediticia, las empresas que presten de manera profesional el servicio de transferencias de fondos, las cámaras de compensación y los administradores de sistemas de pagos, en términos de las leyes respectivas.
+Para los efectos del presente Reglamento, se entenderá por entidad financiera o intermediario financiero: a las instituciones de crédito, instituciones de seguros, instituciones de fianzas, casas de bolsa, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, casas de cambio, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, sociedades financieras de objeto múltiple, almacenes generales de depósito, uniones de crédito, instituciones de financiamiento colectivo, instituciones de fondos de pago electrónico, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público y aquellos que se organicen y operen como cámaras de compensación de contratos derivados, fideicomisos de fomento económico, entidades financieras de desarrollo, así como otras personas y fideicomisos respecto de los cuales el Banco ejerza facultades de regulación, de requerimientos de información, de supervisión o de sanción, incluidas las sociedades de información crediticia, las empresas que presten de manera profesional el servicio de transferencias de fondos, las instituciones para el depósito de valores, las contrapartes centrales de valores, las cámaras de compensación y los administradores de sistemas de pagos, en términos de las leyes respectivas.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -369,13 +359,15 @@ Cada Unidad Administrativa contará con personal que lleve a cabo funciones de c
 
 BIS.- Corresponderá a los titulares de la Dirección General de Asuntos del Sistema Financiero o de la Dirección de Regulación y Supervisión designar y remover a los inspectores del Banco. Tratándose de personal adscrito a otras Direcciones Generales o Direcciones que cuenten con facultades de supervisión en términos de este Reglamento, la designación o remoción respectiva la harán a solicitud del titular de la Dirección General o Dirección de que se trate.
 
-Los inspectores designados en términos del párrafo anterior tendrán facultades para realizar cualquiera de los actos de inspección que conforme a la Ley, el presente Reglamento y las Reglas respectivas correspondan al Banco, sin perjuicio de las atribuciones de las unidades administrativas a las que se encuentren adscritos. Asimismo, podrán practicar todos los actos que se encuentren relacionados con el ejercicio de dicha facultad, incluyendo las notificaciones respectivas.
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+Los inspectores designados en términos del párrafo anterior tendrán facultades para realizar cualquiera de los actos de inspección que, conforme a la Ley y demás legislación y normativa que regulan a las respectivas entidades o intermediarios financieros, así como el presente Reglamento y las Reglas respectivas, correspondan al Banco, sin perjuicio de las atribuciones de las Unidades Administrativas a las que se encuentren adscritos. Asimismo, podrán practicar todos los actos que se encuentren relacionados con el ejercicio de dicha facultad, incluyendo las notificaciones respectivas.
 
 Los inspectores se identificarán presentando conjuntamente copia del acuse de la orden de visita de inspección en la que conste su designación y la credencial que para tal efecto expida en su favor el Banco de México.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2021)</small>
 
-Las órdenes de visita de inspección deberán ser suscritas por un funcionario de la Dirección de Regulación y Supervisión conjuntamente con un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central.
+Las órdenes de visita de inspección deberán ser suscritas por un funcionario de la Dirección de Regulación y Supervisión conjuntamente con un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central. Como excepción a lo anterior, tratándose de visitas de inspección a las instituciones de fondos de pago electrónico, con el fin de verificar el cumplimiento de los requisitos establecidos en la normativa correspondiente, dentro del ámbito de competencia del Banco, para que dichas instituciones puedan dar inicio a sus operaciones conforme a las respectivas autorizaciones que hayan obtenido para organizarse y operar con tal carácter, las órdenes de visita respectivas deberán ser suscritas por la persona titular de la Dirección General de Sistemas de Pagos e Infraestructuras de Mercados o por una persona con cargo de funcionario de la Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados o de la Gerencia de Supervisión de Sistemas de Pagos e Infraestructuras de Mercados, conjuntamente con una persona con cargo de funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central.
 
 La supervisión de entidades e intermediarios financieros, así como todos los actos relacionados con la autorización y supervisión de los programas de autocorrección, se ajustarán a las reglas que se emitan para tal efecto.
 
@@ -435,6 +427,10 @@ Corresponderá a la Gerencia de Supervisión de Sistemas de Pagos e Infraestruct
 
 I. Dar seguimiento al buen funcionamiento de los Sistemas de Pagos e Infraestructuras de Mercados administrados por el Banco.
 
+> <small>(ADICIONADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+I Bis. Practicar, de conformidad con las disposiciones legales y reglamentarias aplicables y con la intervención de las autoridades competentes que proceda conforme a dichas disposiciones, visitas de inspección a las instituciones de fondos de pago electrónico, con el fin de verificar el cumplimiento de los requisitos establecidos en la normativa correspondiente, en la materia indicada en la fracción II del presente artículo, dentro el ámbito de competencia del Banco, para que dichas instituciones puedan dar inicio a sus operaciones conforme a las respectivas autorizaciones que hayan obtenido para organizarse y operar con tal carácter, así como coordinar la participación de la Dirección de Regulación y Supervisión en la práctica de dichas visitas de inspección.
+
 > <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
 
 II. Supervisar el cumplimiento de las disposiciones, autorizaciones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos e Infraestructuras de Mercados, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que, conforme a este artículo, sean de la competencia de la Dirección General de Sistemas de Pagos e Infraestructuras de Mercados, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en esas materias. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
@@ -447,9 +443,9 @@ IV. Participar en la imposición de sanciones a las entidades e intermediarios f
 
 V. Cumplir con una labor de vigilancia sobre el cumplimiento en las infraestructuras de los mercados financieros de los principios para las infraestructuras financieras publicados por el Banco de Pagos Internacionales.
 
-> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2021)</small>
 
-Para efectos del presente artículo, así como de los artículos 17, 20, 20 Ter, y 20 Quáter de este Reglamento, sin perjuicio de los términos utilizados en otros ordenamientos, se entenderá por Sistemas de Pagos e Infraestructuras de Mercados a: i) los sistemas administrados por las instituciones para el depósito de valores, por las contrapartes centrales y por los repositorios centrales de información sobre productos financieros; ii) los Sistemas de Pagos e Infraestructuras de Mercados administrados por el Banco, las cámaras de compensación o por alguna otra institución, y iii) los medios de disposición emitidos por las entidades e intermediarios financieros.
+Para efectos del presente artículo, así como de los artículos 17, 20, 20 Ter, y 20 Quáter de este Reglamento, sin perjuicio de los términos utilizados en otros ordenamientos, se entenderá por Sistemas de Pagos e Infraestructuras de Mercados a: i) los sistemas administrados por las instituciones para el depósito de valores, por las contrapartes centrales de valores, por las cámaras de compensación de contratos derivados y por los repositorios centrales de información sobre productos financieros; ii) los sistemas de pagos e infraestructuras de mercados administrados por el Banco, las cámaras de compensación o por alguna otra institución, y iii) los medios de disposición emitidos por las entidades e intermediarios financieros y los servicios de transferencias de fondos a través de dichas entidades e intermediarios.
 
 > <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
@@ -548,6 +544,26 @@ Como excepción a lo dispuesto en el primer párrafo de los artículos 8 y 66 de
 ARTICULO 15 BIS 4.- La Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo tendrá las funciones encomendadas al Banco de México como fiduciario, previstas en la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, en el contrato constitutivo de ese fideicomiso y en las demás disposiciones aplicables.
 
 A esta Coordinación estará adscrita la Subcoordinación de Operaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 15 Ter.
+
+La Dirección de Análisis y Políticas de Riesgos Ambientales y Sociales tendrá las atribuciones siguientes:
+
+I. Intervenir, en representación del Banco de México y con la participación de las respectivas unidades administrativas competentes, en la coordinación con autoridades competentes y partes interesadas, para la elaboración y promoción de normatividad, políticas públicas e investigaciones que favorezcan el desarrollo sostenible por las actividades y servicios realizados en el sistema financiero.
+
+II. Coordinar, con las respectivas unidades administrativas competentes, la integración de criterios sobre sostenibilidad en las funciones del Banco que correspondan.
+
+III. Desarrollar, con la participación de las unidades administrativas competentes, métricas relevantes para evaluar y monitorear los riesgos físicos y de transición y las oportunidades que se derivan de la transición a una economía baja en carbono y amigable con el medio ambiente, así como los desafíos al sistema financiero relacionados con factores ambientales y sociales.
+
+IV. Colaborar con las unidades administrativas competentes en el análisis, propuestas e instrumentación de prácticas y criterios aplicables a las entidades e intermediarios financieros con el fin de contribuir al desarrollo sostenible.
+
+V. Analizar, desarrollar y promover, con la participación de las unidades administrativas competentes, esquemas, prácticas y criterios para el manejo de la administración de créditos y activos en el sistema financiero, bajo estándares de sostenibilidad, así como impulsar el reconocimiento de que la sostenibilidad es un factor crítico en la infraestructura a largo plazo.
+
+VI. Colaborar con las unidades administrativas competentes en el análisis, desarrollo, promoción y divulgación de mejores prácticas y aspectos de educación financiera especializada en materia de desarrollo sostenible, con la participación que corresponda de instituciones nacionales e internacionales y expertos en finanzas sostenibles.
+
+VII. Auxiliar al Gobernador en el desempeño de las demás funciones que este le encomiende y que no estén conferidas a las unidades administrativas conforme al presente Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -1075,7 +1091,13 @@ II. Diseñar y elaborar, en coordinación con la Dirección de Operación y Cont
 
 III. Establecer, en coordinación con la Dirección de Operación y Continuidad de Sistemas de Pagos e Infraestructuras de Mercados, políticas para procurar la continuidad operativa de los Sistemas de Pagos e Infraestructuras de los Mercados Financieros.
 
-IV. Participar en la emisión de disposiciones, autorizaciones, opiniones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que, conforme a este Reglamento, sean competencia de la Dirección General de Sistemas de Pagos e Infraestructuras de Mercados.
+> <small>(REFORMADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+IV. Participar en la emisión de disposiciones, autorizaciones, opiniones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos e Infraestructuras de Mercado, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que, conforme a este Reglamento, sean competencia de la Dirección General de Sistemas de Pagos e Infraestructuras de Mercados.
+
+> <small>(ADICIONADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+IV Bis. Participar, de conformidad con las disposiciones legales y reglamentarias aplicables y con la intervención de las autoridades competentes que proceda conforme a dichas disposiciones, en la revisión de la información que presenten las instituciones de fondos de pago electrónico para acreditar ante la autoridad de que se trate el cumplimiento de los requisitos establecidos en la normativa correspondiente, en la materia indicada en la fracción IV del presente artículo, dentro el ámbito de competencia del Banco, para que dichas instituciones puedan dar inicio a sus operaciones a partir de las respectivas autorizaciones que hayan obtenido para organizarse y operar con tal carácter.
 
 V. Diseñar e implementar los programas de ajuste de cumplimiento forzoso tendientes a eliminar irregularidades en los Sistemas de Pagos e Infraestructuras de los Mercados, en términos de la Ley de Sistemas de Pagos.
 
@@ -1197,7 +1219,9 @@ IX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulació
 
 ARTICULO 25 BIS 1.- La Dirección de Regulación y Supervisión tendrá las atribuciones siguientes:
 
-I. Dar seguimiento y evaluar la regulación y supervisión del sistema financiero, de tal forma que pueda proponer modificaciones a ambas;
+> <small>(REFORMADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+I. Dar seguimiento y evaluar la regulación y supervisión del sistema financiero, de tal forma que pueda proponer modificaciones a ambas, así como la adopción de las mejores prácticas de mercado en el sistema financiero, incluidas las relacionadas con el desarrollo sostenible;
 
 II. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
@@ -1205,11 +1229,17 @@ III. Apoyar a los miembros de la Junta que participen, en representación del Ba
 
 IV. Participar en el diseño y elaboración de las disposiciones para el sistema financiero que expida el Banco;
 
-V. Participar en la atención de solicitudes de autorizaciones, consultas y opiniones que requieran los intermediarios y otras autoridades financieras;
+> <small>(REFORMADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+V. Participar en la atención de solicitudes de autorizaciones, consultas y opiniones que requieran las entidades e intermediarios y otras autoridades financieras;
 
 > <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
 
 VI. Supervisar, sin perjuicio de aquellas otras atribuciones conferidas a las Unidades Administrativas indicadas en este Reglamento, el cumplimiento de las disposiciones expedidas por el Banco aplicables a las entidades o intermediarios financieros, así como la veracidad de la información de carácter financiero que dichas entidades e intermediarios remitan de forma sistemática al Banco. La atribución de supervisión comprenderá las de inspección y vigilancia;
+
+> <small>(ADICIONADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+VI Bis. Revisar y dar seguimiento a las prácticas de las entidades e intermediarios financieros en materia de finanzas sostenibles, que incluyan, entre otros aspectos, los de tipo ambiental, social y de gobernanza;
 
 > <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
 
@@ -1217,9 +1247,13 @@ VII. Dar seguimiento a las operaciones que hayan realizado las entidades e inter
 
 VII Bis. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019)
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
 
-VIII. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
+VIII. Participar en la imposición de sanciones a las entidades e intermediarios financieros objeto de las atribuciones de supervisión conferidas conforme al presente artículo por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo;
+
+> <small>(ADICIONADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+
+VIII Bis. Participar, de conformidad con las disposiciones legales y reglamentarias aplicables y con la intervención de las autoridades competentes que proceda conforme a dichas disposiciones, en las visitas de inspección a las instituciones de fondos de pago electrónico, con el fin de verificar el cumplimiento de los requisitos establecidos en la normativa correspondiente, en la materia indicada en la fracción VI del presente artículo, dentro del ámbito de competencia del Banco, para que dichas instituciones puedan dar inicio a sus operaciones a partir de las respectivas autorizaciones que hayan obtenido para organizarse y operar con tal carácter;
 
 IX. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
@@ -1233,9 +1267,9 @@ XI. Coordinar con las Unidades Administrativas responsables de las operaciones, 
 
 XII. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 15 DE OCTUBRE DE 2021)</small>
 
-XIII. Coordinar la inspección que, en el ámbito de sus competencias, realicen las demás Unidades Administrativas. La atribución de coordinación comprenderá, de manera enunciativa más no limitativa, la planeación de las visitas y de su ejecución ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros y a otras autoridades;
+XIII. Coordinar la inspección que, en el ámbito de sus competencias, corresponda realizar a las demás Unidades Administrativas. La atribución de coordinación a que se refiere esta fracción comprenderá, de manera enunciativa mas no limitativa, con el acuerdo de las Unidades Administrativas competentes, la planeación de las visitas y de su ejecución, ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros respectivos y a otras autoridades competentes.
 
 XIV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019)
 
@@ -2015,7 +2049,7 @@ XIII. Suscribir con los demás sujetos obligados, de conformidad con las disposi
 
 XIV. Recibir y dar respuesta a los requerimientos, observaciones, recomendaciones y criterios que realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables en la materia.
 
-XV. Recibir las denuncias sobre el presunto incumplimiento a las obligaciones de transparencia o en materia de protección de datos personales a que se refiere la normatividad aplicable y remitirlas al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables.
+XV. (DEROGADA, D.O.F. 15 DE OCTUBRE DE 2021)
 
 XVI. Realizar todos los actos necesarios para dar cumplimiento a las resoluciones que emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y emitir el informe correspondiente en términos de las disposiciones en la materia.
 
@@ -3218,3 +3252,15 @@ D.O.F. 31 DE MARZO DE 2021.
 PRIMERO. La presente modificación al Reglamento Interior del Banco de México entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia del artículo modificado, conservarán todo su valor y fuerza legales.
+
+D.O.F. 15 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido, cambiado de denominación o de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Unidades Administrativas que las sustituyan o cuenten con las atribuciones respectivas.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+Las presentes modificaciones al Reglamento Interior del Banco de México fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del 22 de septiembre de 2021.
