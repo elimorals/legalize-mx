@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-vivienda-del-estado-de-13702
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-06-12"
-last_updated: "2019-06-25"
+last_updated: "2021-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE OCTUBRE DE 2021.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el martes 12 de junio de 2012.
 
@@ -109,7 +109,9 @@ IV. Dirección Técnica;
 
 V. Dirección de Planeación Territorial, y
 
-VI. (DEROGADA, D.O. 25 DE JUNIO DE 2019)
+> <small>(ADICIONADA, D.O. 15 DE OCTUBRE DE 2021)</small>
+
+VI. Dirección de Gestión Estratégica.
 
 A cargo de cada una de estas áreas habrá un Director, quien se auxiliara del personal necesario para la ejecución de sus funciones, de acuerdo a la capacidad presupuestal, y a la estructura administrativa aprobada por la Junta de Gobierno.
 
@@ -421,49 +423,67 @@ VIII. Fomentar la investigación de nuevas técnicas de construcción que permit
 
 IX. Fomentar la creación de unidades de producción de materiales e insumos necesarios para la construcción de vivienda, así como sistemas de distribución que reduzcan los costos de la misma en beneficio de la población.
 
+> <small>(REFORMADO, D.O. 15 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 17.
 
 Son facultades y obligaciones del Director de Planeación Territorial:
 
-I. Proponer al Director General, de conformidad con la normatividad aplicable, la constitución de reservas territoriales para desarrollos habitacionales, industriales, turísticos, comerciales y cualquier otro que sea afín; para que éste a su vez, lo somenta (sic) a la aprobación de la Junta de Gobierno;
+I. Proponer al Director General, de conformidad con la normativa aplicable, la constitución de reservas territoriales para desarrollos habitacionales, industriales, turísticos, comerciales y cualquier otro que sea afín, para que este a su vez lo someta a la aprobación de la Junta de Gobierno;
 
 II. Proponer y desarrollar programas y acciones que faciliten la expropiación, adquisición y constitución de reservas territoriales para usos habitacionales;
 
-III. Desarrollar e implementar, de conformidad con la Ley de Vivienda del Estado de Yucatán, el Plan Estatal de Desarrollo, el Programa Estatal de Vivienda y las directrices del Director General, un proceso de planeación estratégica que permita optimizar los esfuerzos del Instituto, en la consecución de su objeto y que provea las bases para la continuidad a largo plazo, de los planes y proyectos del mismo;
+III. Desarrollar e implementar, de conformidad con la Ley de Vivienda del Estado de Yucatán, el Plan Estatal de Desarrollo, el Programa Estatal de Vivienda y las directrices que emita el Director General, un proceso de planeación estratégica que permita optimizar los esfuerzos del Instituto en la consecución de su objeto y que provea las bases para la continuidad a largo plazo de sus planes y proyectos;
 
-IV. Coordinar la implementación y dar seguimiento al Plan Estratégico del Instituto, y
+IV. Coordinar la implementación del Plan Estratégico del Instituto y darle seguimiento;
 
-V. Proproponer (sic) al Director General las acciones preventivas y correctivas que correspondan como resultado de la implementación del Plan Estratégico de (sic) Instituto.
+V. Proponer al Director General las acciones preventivas y correctivas que correspondan como resultado de la implementación del Plan Estratégico del Instituto;
+
+VI. Elaborar, en coordinación con las demás unidades administrativas del Instituto, el proyecto del Plan Estratégico del Instituto, con base en las directrices y lineamientos establecidos por el Director General;
+
+VII. Integrar una cartera de proyectos estratégicos mediante la identificación, selección, jerarquización, evaluación y gestión de las iniciativas de inversión o los proyectos existentes para el estado;
+
+VIII. Coordinar la elaboración del Programa Estatal de Vivienda, dar seguimiento a las estrategias y acciones contenidas en él, y verificar, en coordinación con los titulares de las direcciones del Instituto, el cumplimiento de las políticas y los objetivos propuestos en materia de vivienda;
+
+IX. Investigar y fomentar el uso de tecnologías aplicadas a la construcción que permitan proteger el medioambiente y maximizar el aprovechamiento de las características bioclimáticas del entorno, para mejorar las condiciones de habitabilidad, confort y eficiencia de las viviendas;
+
+X. Promover e implementar la investigación y el desarrollo de materiales, insumos, modelos arquitectónicos y procedimientos de edificación que contribuyan a reducir los costos de construcción y a elevar la calidad de la vivienda, y
+
+XI. Diseñar e integrar un banco de información y consulta que contenga los costos y las tendencias económicas de los insumos y materiales requeridos para la construcción de viviendas y de infraestructura de servicios.
 
 ###### Artículo 18.
 
-Para el ejercicio y desempeño de sus facultades, la Dirección de Planeación Territorial contará con una Subdirección de Planeación Urbana, cuyo Titular que (sic) tendrá las siguientes facultades y obligaciones:
+(DEROGADO, D.O. 15 DE OCTUBRE DE 2021)
 
-I. Elaborar en coordinación con las direcciones y unidades del Instituto, el proyecto de Plan Estratégico del Instituto conforme a las directrices y lineamientos establecidos por el Director General;
-
-II. Coordinar la implementación y dar seguimiento al Plan Estratégico del Instituto;
-
-III. Integrar una cartera de proyectos estratégicos mediante la identificación, selección, jerarquización, evaluación y gestión de las iniciativas de inversión o proyectos existentes para el Estado;
-
-IV. Coordinar la elaboración del Programa Estatal de Vivienda y dar seguimiento a las estrategias y acciones contenidas en dicho programa cumpliendo con las políticas y objetivos propuestos en materia de vivienda en coordinación con los titulares de las direcciones del Instituto;
-
-V. Investigar y fomentar el uso de tecnologías en la construcción, que permitan la protección del medio ambiente y maximizar el aprovechamiento de las características bioclimáticas del entorno que mejoren las condiciones de habitabilidad, de confort y de eficiencia de las viviendas;
-
-VI. Promover e implementar la investigación y desarrollo de materiales, insumos, modelos arquitectónicos y procedimientos de edificación que contribuyan a la reducción de los costos de construcción y a elevar la calidad de la vivienda, y
-
-VII. Diseñar e integrar un banco de información y consulta que contemple el costo y las tendencias de los insumos y materiales requeridos para la construcción de vivienda y de infraestructura de servicios.
+> <small>(ADICIONADO, D.O. 15 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-(DEROGADO, D.O. 25 DE JUNIO DE 2019)
+Son facultades y obligaciones del Director de Gestión Estratégica:
+
+I. Gestionar las solicitudes de atención ciudadana que reciba el Instituto en sus diferentes direcciones, ya sea por vía escrita o electrónica, así como las acciones de seguimiento correspondientes;
+
+II. Gestionar la atención ciudadana canalizada por otras dependencias o entidades de los tres órdenes de gobierno;
+
+III. Brindar asesoría a las personas que lo soliciten sobre los diversos trámites y servicios que ofrezca el Instituto;
+
+IV. Establecer un esquema de prioridades de atención conforme a las necesidades de la población de escasos recursos o en situación de riesgo o de vulnerabilidad;
+
+V. Realizar las labores de sensibilización necesarias para el cumplimiento de los objetivos del Instituto;
+
+VI. Coadyuvar con la Dirección Jurídica y de Regularización de Suelo en las labores de atención ciudadana y sensibilización que se relacionen con el procedimiento de regularización de la tenencia de la tierra, y
+
+VII. Colaborar en la resolución de controversias entre particulares, siempre que se trate de personas establecidas en predios pertenecientes a la reserva del Instituto que se encuentren en procedimiento de regularización.
 
 ### CAPÍTULO VI. De la suplencia de los servidores públicos del Instituto
 
+> <small>(REFORMADO, D.O. 15 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 20.
 
-Durante las ausencias no mayores a treinta días del Director General, el despacho de los asuntos administrativos correspondientes al Instituto estarán a cargo del Director de Área que éste mismo designe.
+Durante las ausencias no mayores a treinta días del Director General, el despacho de los asuntos administrativos correspondientes al Instituto estará a cargo del Director de Área que este mismo designe.
 
-Cuando las ausencias sean mayores a treinta días deberán estar justificadas con licencia o permiso otorgado por la Junta de Gobierno, en terminos de las disposiciones aplicables.
+Cuando las ausencias sean mayores a treinta días deberán estar justificadas con licencia o permiso otorgado por la Junta de Gobierno, en términos de las disposiciones aplicables.
 
 ###### Artículo 21.
 
@@ -498,3 +518,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general del Instituto de Vivienda del Estado de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
+
+D.O. 15 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IVEY 3/2021 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Vivienda del Estado de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales las modificaciones efectuadas por este acuerdo al Estatuto orgánico del Instituto de Vivienda del Estado de Yucatán.
