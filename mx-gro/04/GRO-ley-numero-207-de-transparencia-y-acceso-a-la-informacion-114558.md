@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-207-de-transparencia-y-acceso-a-la-informacion-11455
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2021-10-01"
+last_updated: "2021-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2021.
 
 Ley publicada en el No. 37 Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 6 de mayo de 2016.
 
@@ -1057,21 +1057,29 @@ El Congreso del Estado a propuesta de la Junta de Coordinación Política, organ
 
 El Consejo Consultivo será presidido por el Consejero electo por la mayoría de sus integrantes y durará en su encargo un periodo de dos años, siempre que su nombramiento le permita concluir a cabalidad el nuevo periodo.
 
-###### Artículo 61.
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
 
 El Consejo Consultivo funcionará en sesiones ordinarias y extraordinarias, y tomará sus decisiones por mayoría de votos.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
 Las sesiones ordinarias se realizarán, cuando menos, una cada dos meses.
 
-Las sesiones extraordinarias podrán convocarse cuando existan asuntos de importancia o que deban resolverse de inmediato por el Presidente del Consejo, y mediante convocatoria que formulen por lo menos dos de los Consejeros.
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
 
-El Instituto establecerá los supuestos para ausencias temporales y definitivas de los Consejeros en las disposiciones que para el efecto emita.
+Las sesiones extraordinarias podrán convocarse cuando existan asuntos de importancia o que deban resolverse de inmediato por la Presidencia del Consejo, y mediante convocatoria que formulen por lo menos dos de las personas Consejeras.
 
-En caso de ausencia definitiva de cualquier integrante del Consejo, el Presidente del Instituto notificará inmediatamente al Congreso para la nueva designación que será por un periodo completo.
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
 
-### Capítulo I. Promoción de la transparencia y el derecho de acceso a la información
+El Instituto establecerá los supuestos para ausencias temporales y definitivas de las personas Consejeras en las disposiciones que para el efecto emita.
 
-###### Artículo 62.
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+En caso de ausencia definitiva de cualquier integrante del Consejo, la Presidencia del Instituto notificará inmediatamente al Congreso para la nueva designación que será por un periodo completo.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 61.
 
 El Consejo Consultivo contará con las facultades siguientes:
 
@@ -1089,9 +1097,123 @@ VI. Opinar sobre la adopción de criterios generales en materia sustantiva, y
 
 VII. Analizar y proponer la ejecución de programas, proyectos y acciones relacionadas con la materia de transparencia y acceso a la información y su accesibilidad.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+### Capítulo VI. Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 62.
+
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidoras o servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Guerrero; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 62 Bis.
+
+Para ser Titular del Órgano Interno de Control se deberán cubrir los requisitos siguientes:
+
+I. Ser ciudadano mexicano residente en el Estado de Guerrero en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Tener por lo menos treinta y cinco años cumplidos el día de la designación;
+
+(NOTA: EL 26 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 175/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. Gozar de buena reputación Y NO HABER SIDO CONDENADO POR DELITO DOLOSO QUE AMERITE PENA DE PRISIÓN;
+
+IV. No haber sido Secretario de Estado, Fiscal General del Estado, Oficial Mayor de un ente público, Diputado Local, Gobernador del Estado, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
+
+V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos;
+
+VI. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+
+(NOTA: EL 26 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 175/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VII. CONTAR CON RECONOCIDA SOLVENCIA MORAL;
+
+VIII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos (sic) que haya prestado sus servicios al Instituto o haber fungido como consultor o auditor externo del Instituto en lo individual durante ese periodo, y
+
+IX. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 62 Ter.
+
+El nombramiento y rendición de cuentas de la persona titular del Órgano Interno de Control se regirá conforme a lo siguiente:
+
+I. La persona titular del Órgano Interno de Control será designado con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, en vigor;
+
+II. La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, en vigor, y
+
+III. Tendrá un nivel jerárquico igual al de un Director General o su equivalente y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado a que se refieren los artículos 150, 151, 152, 153 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 62 Quater.
+
+La persona titular del Órgano Interno de Control en el desempeño de su cargo, se sujetará a los principios previstos en la Ley de Responsabilidades Administrativas para el Estado de Guerrero, en vigor.
+
+El Órgano Interno de Control tendrá las atribuciones siguientes:
+
+I. Las que contempla la Ley de Responsabilidades Administrativas para el Estado de Guerrero, en vigor;
+
+II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar al Pleno del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
+
+IV. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el mismo;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XII. Intervenir en los actos de entrega-recepción de las servidoras o los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que éste forme parte;
+
+XIV. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVI. Formular su anteproyecto de presupuesto;
+
+XVII. Presentar al Pleno del Instituto los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera la persona Comisionada Presidente;
+
+XVIII. Presentar al Pleno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+La persona titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades del Instituto, del cual marcará copia al Congreso del Estado.
+
+La persona titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos y privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 62 Quinquies.
+
+La persona titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, en vigor; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de las demás servidoras o servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por la persona Titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, en vigor.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 62 Sexies.
+
+El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todas las servidoras o servidores públicos del Instituto, de conformidad con la Ley del Sistema Estatal Anticorrupción de Guerrero, y la Ley de Responsabilidades Administrativas para el Estado de Guerrero, en vigor.
+
 ## Título Tercero. Cultura de transparencia y apertura gubernamental
 
-### Capítulo II. Transparencia proactiva
+### Capítulo I. Promoción de la transparencia y el derecho de acceso a la información
 
 ###### Artículo 63.
 
@@ -1161,7 +1283,7 @@ III. Facilitar el ejercicio del derecho de acceso a la información a las person
 
 IV. Procurar la accesibilidad de la información.
 
-### Capítulo III. Gobierno abierto
+### Capítulo II. Transparencia proactiva
 
 ###### Artículo 67.
 
@@ -1177,7 +1299,7 @@ La efectividad de la política de la transparencia proactiva, se evaluará confo
 
 La información que se publique, como resultado de las políticas de transparencia, deberá permitir la generación de conocimiento público útil, para disminuir asimetrías de la información, mejorar los accesos a trámites y servicios, optimizar la toma de decisiones de autoridades o ciudadanos y deberá tener un objeto claro enfocado en las necesidades de los sectores de la sociedad determinados o determinables.
 
-### Capítulo I. Disposiciones generales
+### Capítulo III. Gobierno abierto
 
 ###### Artículo 70.
 
@@ -1193,7 +1315,7 @@ Los sujetos obligados procurarán establecer canales de comunicación con las pe
 
 ## Título Cuarto. Obligaciones de transparencia
 
-### Capítulo II. Obligaciones de transparencia comunes
+### Capítulo I. Disposiciones generales
 
 ###### Artículo 73.
 
@@ -1247,7 +1369,7 @@ La información publicada por los sujetos obligados, en términos del presente c
 
 Las obligaciones de transparencia se actualizarán por lo menos cada tres meses en los medios electrónicos, y deberá indicar la fecha de actualización por cada rubro de información. La información publicada por los sujetos obligados en términos del presente ordenamiento no constituye propaganda gubernamental, por lo que deberá mantenerse accesible, incluso dentro de los procesos electorales.
 
-### Capítulo III. Obligaciones de transparencia específicas de los sujetos obligados
+### Capítulo II. Obligaciones de transparencia comunes
 
 ###### Artículo 81.
 
@@ -1439,7 +1561,7 @@ XLVIII. Cualquier otra información que sea de utilidad o se considere relevante
 
 Los sujetos obligados deberán informar al Instituto y verificar que se publiquen en la Plataforma Nacional, cuáles son los rubros que son aplicables a sus páginas de Internet, con el objeto de que éstos verifiquen y aprueben, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado.
 
-### Capítulo IV. Obligaciones específicas de las personas físicas o morales que reciben y ejercen recursos públicos o ejercen actos de autoridad
+### Capítulo III. Obligaciones de transparencia específicas de los sujetos obligados
 
 ###### Artículo 82.
 
@@ -1841,7 +1963,7 @@ Por lo que se refiere a los documentos que obran en el Expediente de registro de
 
 Los sujetos obligados que asignen recursos públicos a los sindicatos, deberán habilitar un espacio en sus páginas de Internet para que éstos cumplan con sus obligaciones de transparencia y dispongan de la infraestructura tecnológica para el uso y acceso a la Plataforma Nacional. En todo momento el sindicato será el responsable de la publicación, actualización y accesibilidad de la información.
 
-### Capítulo V. Verificación de las obligaciones de transparencia
+### Capítulo IV. Obligaciones específicas de las personas físicas o morales que reciben y ejercen recursos públicos o ejercen actos de autoridad
 
 ###### Artículo 94.
 
@@ -1891,7 +2013,7 @@ III. Plantilla de personal y tipo de seguridad social que se le ofrece; y
 
 IV. Relación de cursos o programas de actualización o capacitación que se realicen y los que se ofrezca al personal.
 
-### Capítulo VI. Denuncia por incumplimiento a las obligaciones de transparencia
+### Capítulo V. Verificación de las obligaciones de transparencia
 
 ###### Artículo 98.
 
@@ -1927,7 +2049,7 @@ Cuando el Instituto considere que existe un incumplimiento total o parcial de la
 
 En caso de que el Instituto considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días, se informará al Pleno para que, en su caso, imponga las medidas de apremio o sanciones, conforme a lo establecido por esta Ley.
 
-### Capítulo I. Información reservada
+### Capítulo VI. Denuncia por incumplimiento a las obligaciones de transparencia
 
 ###### Artículo 103.
 
@@ -2015,7 +2137,7 @@ En caso de que el Instituto considere que subsiste el incumplimiento total o par
 
 ## Título Quinto. Información clasificada
 
-### Capítulo II. Información confidencial
+### Capítulo I. Información reservada
 
 ###### Artículo 114.
 
@@ -2161,7 +2283,7 @@ Cada área del sujeto obligado elaborará un índice de los expedientes clasific
 
 En ningún caso el índice será considerado como información reservada.
 
-### Capítulo I. Procedimiento
+### Capítulo II. Información confidencial
 
 ###### Artículo 129.
 
@@ -2221,7 +2343,7 @@ Durante el procedimiento de sustanciación del recurso de revisión, deberá res
 
 ## Título Sexto. Procedimientos de acceso a la información pública
 
-### Capítulo II. Cuotas de acceso
+### Capítulo I. Procedimiento
 
 ###### Artículo 138.
 
@@ -2375,7 +2497,7 @@ La resolución del Comité de Transparencia donde confirme la inexistencia será
 
 Las personas físicas y morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, serán responsables del cumplimiento de los plazos y términos para otorgar acceso a la información.
 
-### Capítulo I. Recurso de revisión ante el instituto
+### Capítulo II. Cuotas de acceso
 
 ###### Artículo 160.
 
@@ -2401,7 +2523,7 @@ Tratándose de la reproducción en medios magnéticos, si el interesado aporta e
 
 ## Título Séptimo. Procedimientos de impugnación en materia de acceso a la información pública
 
-### Capítulo II. Recurso de inconformidad ante el organismo garante nacional
+### Capítulo I. Recurso de revisión ante el instituto
 
 ###### Artículo 161.
 
@@ -2607,7 +2729,7 @@ Las resoluciones del Instituto serán públicas.
 
 Los solicitantes podrán presentar ante la autoridad competente, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Guerrero, queja o denuncia por violaciones a las disposiciones contenidas en esta Ley.
 
-### Capítulo III. Atracción de los recursos de revisión
+### Capítulo II. Recurso de inconformidad ante el organismo garante nacional
 
 ###### Artículo 184.
 
@@ -2623,7 +2745,7 @@ II. Confirmen la inexistencia o negativa de información.
 
 Se entenderá como negativa de acceso a la información la falta de resolución del Instituto dentro del plazo previsto para ello.
 
-### Capítulo IV. Cumplimiento de las resoluciones
+### Capítulo III. Atracción de los recursos de revisión
 
 ###### Artículo 186.
 
@@ -2659,7 +2781,7 @@ La resolución del organismo garante nacional será definitiva e inatacable para
 
 En todo momento, los particulares podrán impugnar las resoluciones del organismo garante nacional ante el Poder Judicial de la Federación.
 
-### Capítulo I. Medidas de apremio
+### Capítulo IV. Cumplimiento de las resoluciones
 
 ###### Artículo 192.
 
@@ -2695,7 +2817,7 @@ El Instituto deberá considerar los criterios orientadores que emita el Organism
 
 ## Título Octavo. Medidas de apremio y sanciones
 
-### Capítulo II. Sanciones
+### Capítulo I. Medidas de apremio
 
 ###### Artículo 197.
 
@@ -2762,6 +2884,8 @@ Las multas impuestas como sanciones administrativas de acuerdo con esta ley, ser
 ###### Artículo 207.
 
 En contra de la imposición de multas derivadas de la ejecución de medidas de apremio, procede el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, y es independiente del procedimiento sancionador que en su caso se implemente al infractor.
+
+### Capítulo II. Sanciones
 
 ###### Artículo 208.
 
@@ -3020,3 +3144,19 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 860 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. El presente órgano de gobierno que la Constitución Política del Estado Libre y Soberano de Guerrero le otorga autonomía y que ejerce recurso público del Presupuesto de Egresos del Estado, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+TERCERO. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a la Contraloría, se entenderán asignados al Órgano Interno de Control a que se refiere el presente Decreto.
+
+CUARTO. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y trámites legales correspondientes.
+
+SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
