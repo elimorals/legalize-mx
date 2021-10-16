@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-municipal-del-estado-de-oaxaca-108199"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-05-09"
-last_updated: "2019-09-07"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Código publicado en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de mayo de 2015.
 
@@ -83,7 +83,9 @@ VII. Síndico.- Al Representante Jurídico del Municipio;
 
 VIII. Tesorería.- Al Órgano de recaudación de los Ingresos Municipales, y
 
-IX. Tribunal.- Al Tribunal de lo Contencioso Administrativo del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+IX. Tribunal.- Tribunal de Justicia Administrativa del Estado de Oaxaca;
 
 ###### Artículo 3.
 
@@ -2816,3 +2818,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2756.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 2 DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
