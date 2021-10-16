@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2020-02-19"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -76,6 +76,22 @@ V. Establecer las bases para un desarrollo social y humano integral, garantizand
 VI. Garantizar la inclusión social y determinar las bases para la promoción y participación social y para su vinculación con los programas, estrategias y recursos gubernamentales para el desarrollo social, y
 
 VII. Asegurar la transparencia y rendición de cuentas en la ejecución de los programas y aplicación de los recursos para el desarrollo social a través de mecanismos de supervisión, verificación, control y acceso a la información pública.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VIII. Establecer las bases y los mecanismos para el diseño, la planeación, ejecución, monitoreo, evaluación y seguimiento de las políticas públicas en materia de desarrollo social del Estado y municipios, garantizando en todo momento la participación social, el desarrollo sustentable, y vigencia de los derechos sociales;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+IX. Impulsar la participación ciudadana estableciendo mecanismos para que la sociedad civil sea corresponsable, en el cumplimiento de los objetivos de la política estatal y municipal en materia de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+X. Impulsar el desarrollo social desde las localidades y colonias, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario, y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XI. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con equidad y justicia social.
 
 ###### Artículo 3.
 
@@ -1151,11 +1167,17 @@ III. Acceso a los servicios de salud;
 
 IV. Acceso a la seguridad social;
 
-V. Calidad y espacios de la vivienda;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-VI. Acceso a los servicios básicos en la vivienda;
+V. Calidad y espacios de la vivienda digna y decorosa;
 
-VII. Acceso a la alimentación, y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VI. Acceso a los servicios básicos en la vivienda digna y decorosa;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VII. Acceso a la alimentación nutritiva y de calidad;
 
 VIII. Grado de cohesión social.
 
@@ -1280,3 +1302,11 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. En tanto se reforma la Ley Orgánica del Municipio del Estado de Zacatecas, para constituir los órganos de control interno de los municipios, conocerán de dichas denuncias, en el ámbito de su competencia, las Contralorías Municipales a que se refiere el artículo 104 del citado ordenamiento.
 
 Artículo tercero. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 702.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2 Y 83 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan las disposiciones que contravengan este Decreto.
