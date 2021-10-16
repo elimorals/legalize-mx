@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-corporacion-oaxaquena-de-radio-y-television-en-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2019-11-02"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 9 de octubre de 2015.
 
@@ -95,9 +95,15 @@ IV. Adquirir, arrendar, enajenar y mantener el equipo para la elaboración, prod
 
 V. Establecer los talleres de mantenimiento y reparación de equipo que se utilice en la prestación de servicio, así como, adquirir las refacciones y partes requeridas;
 
-VI. Ejercitar todas las actividades técnicas y administrativas necesarias para el cumplimiento de sus objetivos, así como, para realizar todos los actos, contratos, convenios y operaciones conexos, accesorios o accidentales que sean necesarios o convenientes para la realización de sus finalidades, en los términos de las legislaciones de la materia, y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-VII. Implementar las acciones necesarias para el cumplimiento de los principios señalados en la presente Ley.
+VI. Ejercitar todas las actividades técnicas y administrativas necesarias para el cumplimiento de sus objetivos, así como, para realizar todos los actos, contratos, convenios y operaciones conexos, accesorios o accidentales que sean necesarios o convenientes para la realización de sus finalidades, en los términos de las legislaciones de la materia;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VII. Transmitir producciones cinematográficas que contribuyan al fortalecimiento educativo y a la promoción de la diversidad cultural de las oaxaqueñas y oaxaqueños, e
+
+VIII. Implementar las acciones necesarias para el cumplimiento de los principios señalados en la presente Ley.
 
 ### CAPÍTULO III. DE LOS EJES RECTORES DE LA CORTV
 
@@ -426,3 +432,11 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2702.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 6 DE LA LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
