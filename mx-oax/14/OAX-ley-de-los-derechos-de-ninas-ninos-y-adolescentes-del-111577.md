@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2021-08-07"
+last_updated: "2021-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -929,6 +929,10 @@ XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de n
 
 XXII. Garantizar que los centros educativos tengan áreas de esparcimiento dignos y seguros para el desarrollo de actividades escolares, recreativas y deportivas de niñas, niños y adolescentes, así como procurar el mantenimiento y reparación de los mismos.
 
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XXIII. Coadyuvar con las Autoridades Educativas del Estado, en garantizar el acceso gratuito de productos de gestión menstrual a las niñas y adolescentes, en las escuelas públicas pertenecientes al Sistema Educativo Estatal, priorizando a las estudiantes que enfrenten condiciones económicas y sociales que les impidan acceder a estos.
+
 ###### Artículo 49.
 
 La educación, además de lo dispuesto en las disposiciones jurídicas aplicables, tendrá los siguientes fines:
@@ -947,9 +951,9 @@ VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de pro
 
 VII. Emprender, en cooperación con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-VIII. Impartir a las niñas, niños y adolescentes una educación sexual integral desde un enfoque de derechos humanos, donde se aborden temas de autocuidado, autoexploración, relaciones sanas, reproducción humana, planificación familiar, paternidad y maternidad responsables; así como de prevención de enfermedades de transmisión sexual, de embarazos en niñas y adolescentes y de violencia de género, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+VIII. Impartir a las niñas, niños y adolescentes una educación sexual integral desde un enfoque de derechos humanos, y su ejercicio responsable, donde se aborden temas de autocuidado, autoexploración, relaciones sanas, educación menstrual, reproducción humana, planificación familiar, paternidad y maternidad responsables, así como de prevención de enfermedades de transmisión sexual, de embarazos en niñas y adolescentes y de violencia de género, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
@@ -2304,3 +2308,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo contará con un plazo de 90 días para emitir los lineamientos para determinar e integrar la información del registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
 
 TERCERO. El Poder Ejecutivo deberá asignar una partida presupuestal en el Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal correspondiente para la creación y operación del registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2709.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 49; Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 48, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado, a través de la Secretaría de Finanzas, deberán disponer de los recursos necesarios para el cumplimiento del presente.
+
+CUARTO.- Las autoridades Educativas del Estado a partir de la entrada en vigor del presente Decreto deberán realizar las acciones necesarias antes (sic) las dependencias correspondientes para dar cumplimiento al presente Decreto.
