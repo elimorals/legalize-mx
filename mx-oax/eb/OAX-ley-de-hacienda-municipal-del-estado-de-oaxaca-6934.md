@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2021-05-22"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -1143,13 +1143,13 @@ Para el establecimiento y recaudación, de estos derechos se estará a lo dispue
 
 ARTICULO 94 BIS A.- Los contratistas que celebren contratos de obra pública con los municipios, pagarán para su inscripción en el padrón de contratistas, el costo conforme a lo previsto en la Ley de Ingresos del ejercicio fiscal del Municipio que corresponde.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-ARTICULO 94 BIS B.- Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con municipios y organismos paramunicipales, pagarán sobre el importe de cada una de las estimaciones de trabajo el equivalente al 5 % al millar que corresponda.
+ARTICULO 94 BIS B.- Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con municipios y organismos paramunicipales, pagarán un derecho del cinco al millar sobre el importe de cada una de las estimaciones del trabajo a liquidar.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-ARTICULO 94 BIS C.- Los retenedores de los ingresos que por este derecho se recauden, deberán enterarlos en la Tesorería o Dirección de Ingresos según sea el caso dentro de los cinco días hábiles siguientes a aquél en que se retengan.
+ARTICULO 94 BIS C.- Los retenedores de los ingresos que por este derecho se recauden, deberán enterarlos a la Secretaría de Finanzas o a la Tesorería Municipal, según sea el caso, dentro de los cinco días hábiles siguientes a aquél en que se retengan.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1782,3 +1782,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2724.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 94 BIS B Y EL ARTÍCULO 94 BIS C DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
