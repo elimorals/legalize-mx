@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2019-10-22"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -391,7 +391,9 @@ XVIII. Operar, administrar y aplicar los recursos federales a su cargo conforme 
 
 XIX. Supervisar, sin violentar la autonomía municipal, las construcciones, equipamiento, adecuación y mejora de los espacios públicos en materia de cultura física y deporte;
 
-XX. Formular programas y planes para promover la cultura física y deporte entre las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XX. Formular el Programa Estatal de Cultura Física y Deporte y Plan de Desarrollo Integral del Deporte; en lo específico, deberá considerar lo correspondiente a las y los atletas medallistas paralímpicos, paramundialistas y parapanamericanos del Estado de Oaxaca.
 
 XXI. Promover la capacitación y especialización en materia de cultura física y deporte en el Estado;
 
@@ -575,9 +577,15 @@ XI. Autorizar la creación interna de comisiones, comités o grupos de trabajo;
 
 XII. Aprobar trimestralmente los informes financieros y estados financieros;
 
-XIII. Autorizar la publicación del Reglamento Interno, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado, así como, la publicación de los manuales administrativos, previa revisión y validación de la Secretaría de Administración, y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-XIV. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones legales aplicables.
+XIII. Autorizar la publicación del Reglamento Interno, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado, así como, la publicación de los manuales administrativos, previa revisión y validación de la Secretaría de Administración.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XIV. Emitir el acuerdo y convocatoria para otorgar las becas vitalicias a las y los atletas de origen Oaxaqueño con discapacidad que hayan obtenido u obtenga (sic) una o más medallas en juegos paralímpicos, paramundialistas y parapanamericanos del deporte adaptado; el cual contendrá los requisitos establecidos en el artículo 183, 184, 185 fracción IV y 186 de la presente Ley, para otorgar dicho benefició.
+
+XV. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones legales aplicables.
 
 ###### Artículo 28.
 
@@ -1419,7 +1427,9 @@ III. Los proyectos y acciones específicas, en virtud de los cuales se instrumen
 
 IV. El diseño de políticas que aseguren la efectiva participación de los sectores social y privado en la actividad deportiva del Estado, incluyendo estrategias para impulsar el desarrollo de los organismos deportivos estatales;
 
-V. La creación, ampliación y mantenimiento de la infraestructura deportiva estatal y municipal;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+V. La creación, ampliación y mantenimiento de la infraestructura deportiva estatal y municipal. En específico deberá garantizarse la construcción, ampliación, equipamiento y mantenimiento de centros de alto rendimiento para el deporte adaptado en las diferentes disciplinas. En la construcción de dichos centros deberá considerarse la opinión técnica de especialistas en la materia, apegado a lo establecido en las Normas para la Accesibilidad de las Personas con Discapacidad.
 
 VI. Acciones de financiamiento para el desarrollo de la cultura física y el deporte;
 
@@ -1545,9 +1555,15 @@ Se declara de interés público y utilidad social, la construcción, remodelaci�
 
 Para este fin, el Estado y los Municipios en coordinación con la federación, promoverán la participación de los sectores social y privado asegurando la inclusión de políticas públicas para su protección en los instrumentos para la planeación del desarrollo estatal y municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 124.
 
-La planificación y construcción de instalaciones de cultura física y el deporte financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes o actividades que se proyecta desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto se expida en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los usuarios. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
+La planificación y construcción de instalaciones de cultura física, recreación y el deporte financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes o actividades que se proyecta desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto se expida en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los usuarios. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Así mismo en la planificación y construcción de instalaciones de cultura física, recreación y el deporte a que hace alusión el párrafo anterior de este artículo, deberá garantizarse la construcción, ampliación, equipamiento y mantenimiento de centros de alto rendimiento para el deporte adaptado en las diferentes disciplinas. En la construcción de dichos centros deberá considerarse la opinión técnica de especialistas en la materia, apegado a lo establecido en las Normas para la Accesibilidad de las Personas con Discapacidad.
 
 ###### Artículo 125.
 
@@ -1824,6 +1840,10 @@ Las actividades deportivas de orden profesional quedarán excluidas del SIEDE.
 ###### Artículo 178.
 
 El Instituto, los Organismos Municipales y los sectores, social y privado, promoverán y gestionarán en sus respectivos ámbitos de competencia con perspectiva de género y bajo el principio de igualdad de oportunidades entre hombres y mujeres, apoyos, estímulos, premios y reconocimientos a deportistas, organizaciones deportivas, árbitros, técnicos, instructores, entrenadores, guías, investigadores en ciencias aplicadas al deporte, profesores y estudiantes de educación física y promotores comunitarios que destaquen en el desarrollo e impulso del deporte y la cultura física en el Estado, previo cumplimiento de los requisitos que para tal efecto se establecen en términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Se incluirán becas vitalicias para las y los atletas de origen Oaxaqueño con discapacidad en las diferentes disciplinas del deporte adaptado, conforme a lo establecido en el artículo 27 fracción XIV de la Ley de Cultura Física y Deporte para el Estado de Oaxaca.
 
 ###### Artículo 179.
 
@@ -2272,3 +2292,19 @@ DÉCIMO TERCERO. En tanto se expiden las disposiciones reglamentarias de esta Le
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 18 de septiembre de 2019.- Dip. César Enrique Morales Niño, Presidente.- Dip. Yarith Tannos Cruz, Secretaria.- Dip. Arsenio Lorenzo Mejía García, Secretario.- Dip. Griselda Sosa Vásquez, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 23 de septiembre de 2019. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2691.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 22; LA FRACCIÓN XIII DEL ARTÍCULO 27, LA FRACCIÓN V DEL ARTÍCULO 109, EL PÁRRAFO PRIMERO DEL ARTÍCULO 124; Y SE ADICIONA LA FRACCIÓN XIV RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 27, EL PÁRRAFO SEGUNDO AL ARTÍCULO 124 Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 178 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- En el Presupuesto de Egresos del Estado de Oaxaca, deberá considerarse la partida destinada a cubrir en cada ejercicio anual, el pago de becas vitalicias que se otorguen a las y los atletas de origen Oaxaqueño con discapacidad que hayan obtenido u obtengan una o más medallas en juegos paralímpicos, paramundialistas y parapanamericanos del deporte adaptado.
+
+Para los efectos de lo establecido en el artículo 178 párrafo segundo de este Decreto, el Ejecutivo del Estado y el Congreso del Estado, en el ámbito de sus respectivas competencias proveerán la inclusión en el Presupuesto de Egresos de cada ejercicio fiscal, una partida presupuestal.
+
+Dichas becas se establecerán con base en lo estipulado en las Reglas de Operación del Programa Sistema Mexicano del Deporte de Alto Rendimiento, en el punto 4.- Lineamientos Generales 4.3.1. Tipo de apoyos, 4.3.2 Monto del Apoyo, en lo que establece a la Beca económica para deportistas ganadores de medallas, la cual no podrá ser menor a dichas cantidades y tendrá su incremento conforme lo establezcan las Reglas de Operación del Programa Sistema Mexicano del Deporte de Alto Rendimiento, dichos apoyos para su otorgamiento se regirán por lo establecido en el punto 4.4 párrafo segundo y estos estarán bajo los criterios de selección establecidos en el punto 4.4.1.1, inciso b) de dichas Reglas de Operación.
+
+TERCERO.- En el ejercicio del presupuesto a que hace referencia el transitorio Segundo de este Decreto, el Instituto y las dependencias involucradas en el fomento a la cultura física, recreación y deporte, deberán garantizar los derechos de las y los atletas con discapacidad, en las diferentes disciplinas del deporte adaptado siempre y cuando reúnan los requisitos establecidos en el punto 4.4.1 inciso b) de las Reglas de Operación del Programa Sistema Mexicano del Deporte de Alto Rendimiento
