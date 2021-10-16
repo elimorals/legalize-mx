@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-10-09"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -531,9 +531,11 @@ El Estado y los municipios establecerán en sus respectivos presupuestos, planes
 
 En el Presupuesto de Egresos para el Estado de Oaxaca, de cada ejercicio fiscal, se establecerá un fondo que coadyuve en la instalación de infraestructura para la bicicleta.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 27.
 
-Los cursos de capacitación en materia de seguridad y educación vial se impartirán a aquellos interesados en obtener o renovar una licencia de conducir, los contenidos de los cursos de capacitación serán los que establezca el Reglamento. También son obligatorios para los concesionarios, operadores y conductores del servicio público y especial de transporte, mismos que se deben tomar por lo menos una vez cada 12 meses.
+Los cursos de capacitación en materia de seguridad y educación vial y cultura de movilidad, se impartirán a cualquier persona interesada. Sin embargo, serán obligatorios para todos aquellos interesados en obtener una licencia de conducir, los contenidos de los cursos de capacitación deberán estar contenidos en el Reglamento. También son obligatorios para los concesionarios, operadores y conductores del servicio público y especial de transporte, mismos que se deben tomar por lo menos una vez cada 12 meses.
 
 ###### Artículo 28.
 
@@ -3178,6 +3180,14 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 9 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2687.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 146 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2764.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 27 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
