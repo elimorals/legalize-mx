@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-10-09"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -427,9 +427,9 @@ El régimen matrimonial se establece bajo la igualdad de derechos derivados de e
 
 El patrimonio familiar es inalienable, imprescriptible e inembargable.
 
-(REFORMADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La Ley posibilitará la investigación de la paternidad.
+Las niñas, los niños y adolescentes nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La Ley posibilitará la investigación de la paternidad.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PROCESO LEGISLATIVO DEL DECRETO NO. 651 PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2019, LA MODIFICACIÓN CORRESPONDE AL PRESENTE PÁRRAFO]</small>
 
@@ -437,9 +437,9 @@ Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a
 
 Es derecho correlativo a la calidad de padres la determinación libre, voluntaria, responsable, informada, acerca de tener hijos de forma segura; además del número y espaciamiento de los mismos y su educación; así como, recibir servicios integrales en materia de salud reproductiva. Las autoridades deberán adoptar medidas para garantizar la atención ginecológica y obstétrica conforme a las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-El Estado otorgará y promoverá facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+El Estado otorgará y promoverá facilidades a los particulares para que coadyuven al cumplimiento de los derechos de las niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -465,9 +465,9 @@ A los jóvenes de entre quince y veintinueve años, el Estado garantizará su in
 
 Asimismo, promoverá la organización de las mujeres para sus actividades productivas.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-Es obligación del hombre y de la mujer asumir su paternidad o maternidad responsable con todos y cada uno de los hijos que procreen.
+Es obligación del hombre y de la mujer asumir su paternidad o maternidad responsable con todos y cada uno de los hijos que procreen. Las mujeres y hombres trabajadores gozarán de la licencia de maternidad o paternidad obligatoria por el nacimiento de sus hijos, hijas o por la adopción de un infante, conforme a lo dispuesto en la Ley Federal del Trabajo, con goce de sueldo.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -483,7 +483,9 @@ a).- A conocer a sus padres y ser respetado en su integridad física y psíquica
 
 b).- A qué se le proporcione alimentación, a la educación básica, media superior y a la especial, en los casos que se requiera, procurando que ésta sea bilingüe en los pueblos y comunidades indígenas, a efecto de preservar la lengua materna de su localidad.
 
-c).- A que se le proteja con medidas de seguridad o que garantice, en su caso, su readaptación social;
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+c).- A que se le proteja con las medidas de seguridad o que se garantice, en su caso, su reinserción y la reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
 
 d).- A no ser explotado en el trabajo;
 
@@ -693,9 +695,9 @@ Los reglamentos para la portación de armas se sujetarán a la Ley Federal.
 
 No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos de la República podrán hacerlo para tomar parte en los asuntos políticos del país. Ninguna reunión armada tiene derecho de deliberar.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-Toda persona es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria. Nadie podrá utilizar actos públicos de expresión de esta libertad con fines políticos, de proselitismo electoral o de propaganda política o electoral.
+Toda persona tiene derecho a la libertad de convicciones éticas, de conciencia y de profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos de culto respectivo, siempre que no constituyan un delito o falta penados por la Ley. Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de estos se sujeta a la Ley reglamentaria. Nadie podrá utilizar actos públicos de expresión de esta libertad con fines políticos, de proselitismo electoral o de propaganda política o electoral.
 
 Los ministros de los cultos nunca podrán, en una reunión pública o privada constituida en junta, ni en actos del culto o de propaganda religiosa, hacer crítica de las leyes fundamentales del país, de las autoridades, en particular, o en general, del Gobierno.
 
@@ -798,6 +800,10 @@ c) La formulación de políticas públicas tendientes a prevenir la comisión de
 d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
 
 e) Los fondos de ayuda aportado por la Federación al Estado y Municipios deberá (sic) ser destinados exclusivamente a estos fines.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, que en el momento de la separación señalen para permanecer en las Instituciones. Respecto a la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio, así como lo concerniente a la reinstalación, restitución o indemnización que corresponda a su cargo, se estará conforme a lo establecido en el párrafo segundo de la fracción XIII del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2021)</small>
 
@@ -2061,7 +2067,7 @@ La Legislatura no podrá dejar de señalar la retribución que corresponda a un 
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2020)</small>
 
-En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 138 de esta Constitución y demás disposiciones legales aplicables, quedando obligados todos los ejecutores del gasto púbico (sic) a entregar cualquier información que les solicite el Congreso del Estado o la Comisión Permanente de Presupuesto y Programación, relativa a las remuneraciones por servicios personales, los tabuladores de sueldos y salarios y toda información que generen o tengan a su cargo referente a las adscripciones, percepciones, deducciones y retenciones del personal contratado en todas las modalidades de pago.
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 138 de esta Constitución y demás disposiciones legales aplicables, quedando obligados todos los ejecutores del gasto púbico a entregar cualquier información que les solicite el Congreso del Estado o la Comisión Permanente de Presupuesto y Programación, relativa a las remuneraciones por servicios personales, los tabuladores de sueldos y salarios y toda información que generen o tengan a su cargo referente a las adscripciones, percepciones, deducciones y retenciones del personal contratado en todas las modalidades de pago.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2831,7 +2837,7 @@ Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas
 
 ###### ARTICULO 100.
 
-La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidoras o servidores públicos, garantizando en todo momento el principio de paridad entre mujeres y hombres; y, si esto no fuere posible, atendiendo a que el número de nombramientos a expedir sea impar, será lo más cercano al equilibro (sic) numérico en todos los casos.
+La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidoras o servidores públicos, garantizando en todo momento el principio de paridad entre mujeres y hombres; y, si esto no fuere posible, atendiendo a que el número de nombramientos a expedir sea impar, será lo más cercano al equilibro numérico en todos los casos.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
@@ -3081,7 +3087,7 @@ El cargo de Jueza o Juez de Primera Instancia es renunciable, por causa justific
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2021)</small>
 
-ARTICULO 111 BIS. El Poder Judicial contará con juzgados en materia laboral ubicados en los principales centros de población del territorio oaxaqueños (sic); serán los encargados de impartir justicia cuando existan controversias derivadas de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+ARTICULO 111 BIS. El Poder Judicial contará con juzgados en materia laboral ubicados en los principales centros de población del territorio oaxaqueños; serán los encargados de impartir justicia cuando existan controversias derivadas de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
 Para ser Juez de lo laboral, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial; este cargo es renunciable, por causa justificada, que calificará el Tribunal Superior de Justicia, ante quien se presentará la renuncia.
 
@@ -3385,7 +3391,7 @@ C. EL ÓRGANO GARANTE DE ACCESO A LA INFORMACIÓN PÚBLICA, TRANSPARENCIA, PROTE
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
+El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -4101,9 +4107,9 @@ IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro,
 
 V.- Las remuneraciones por servicios personales y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo como en especie.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos servidores, ya sea por concepto de gastos de representación, sobresueldo, o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba. Para tal efecto las autoridades legalmente facultadas iniciarán los procedimientos de acuerdo a sus facultades y darán intervención a otras para que se sancionen tales conductas y se reintegre a la hacienda pública que corresponda el monto de lo defraudado.
+Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos servidores, ya sea por concepto de gastos de representación, sobresueldo, o cualquier otro, se considera como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba. El mismo tratamiento se dará a toda ministración de dinero que sin estar presupuestada legalmente por concepto de derechos laborales adquiridos, se otorgue a ex servidore (sic) públicos que hayan desempeñado el cargo como titulares de las instancias señaladas en el primer párrafo de este artículo.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 162], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -5405,7 +5411,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente hábil de su p
 
 P.O. 4 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 633.- MEDIANTE EL CUAL SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO; Y EL PROCEDIMIENTO LEGISLATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES; Y EN EJERCICIO DE LAS FACULTADES CONSTITUCIONALES Y LEGALES, CON QUE ESTÁ INVESTIDA LA COMISIÓN DE ESTUDIOS CONSTITUCIONALES DEL HONORABLE CONGRESO DEL ESTADO, UNA VEZ QUE RECEPCIONE EN LA COMISIÓN LA INICIATIVA A LA REFORMA A LA CONSTITUCIÓN DEL ESTADO MATERIA DEL PRESENTE, DEBERÁ REALIZARSE EL TRÁMITE LEGISLATIVO OBSERVANDO EL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 633.- MEDIANTE EL CUAL SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO; Y EL PROCEDIMIENTO LEGILATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES; Y EN EJERCICIO DE LAS FACULTADES CONSTITUCIONALES Y LEGALES, CON QUE ESTÁ INVESTIDA LA COMISIÓN DE ESTUDIOS CONSTITUCIONALES DEL HONORABLE CONGRESO DEL ESTADO, UNA VEZ QUE RECEPCIONE EN LA COMISIÓN LA INICIATIVA A LA REFORMA A LA CONSTITUCIÓN DEL ESTADO MATERIA DEL PRESENTE, DEBERÁ REALIZARSE EL TRÁMITE LEGISLATIVO OBSERVANDO EL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación.
 
@@ -5415,7 +5421,7 @@ TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzga
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSITUTICIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5711,7 +5717,7 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno E
 
 P.O. 13 DE FEBRERO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERAN DE OAXACA",]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -6066,3 +6072,59 @@ P.O. 9 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2711.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO VIGÉSIMO SEXTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2713.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. - Quedan derogadas todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2712.- MEDIANTE EL CUAL SE REFORMA EL INCISO C DEL PÁRRAFO VIGÉSIMO OCTAVO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2739.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS DECIMOSÉPTIMO Y DECIMONOVENO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2743.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2744.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Quedan derogadas todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto en el presente Decreto.
