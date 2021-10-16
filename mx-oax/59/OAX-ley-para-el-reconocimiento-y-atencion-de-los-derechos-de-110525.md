@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2021-10-09"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -347,6 +347,10 @@ XIII. Impulsar la participación de los migrantes al desarrollo social y económ
 
 XIV. Brindar asistencia en situaciones excepcionales y en los procesos de retorno o repatriación voluntaria o forzosa de personas, especialmente de menores en condiciones de orfandad o indigencia y, en general, de personas en estado de vulnerabilidad, así como, de migrantes fallecidos;
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Instrumentar el programa estatal de empleo temporal para migrantes retornados por causas de pandemia, como el COVID 19;
+
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
 XV. Brindar apoyo a las y los migrantes a través de programas y acciones que incentiven el retorno voluntario y la reunificación familiar en los lugares de origen.
@@ -391,7 +395,9 @@ VII. Promover entre los migrantes nacionales la valoración y el respeto a la di
 
 VIII. Garantizar el acceso a los servicios de educación, salud pública y, en general, a los servicios que garanticen la vida, la dignidad humana, el desarrollo económico social;
 
-IX. Asistir a la población objetivo en situaciones excepcionales y en condiciones de emergencia o vulnerabilidad para garantizar la protección a sus derechos humanos;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+IX. Asistir y atender a la población objetivo en situaciones excepcionales y en condiciones de emergencia o vulnerabilidad para garantizar la protección a sus derechos humanos, de manera excepcional a migrantes retornados por causa de pandemia;
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -435,7 +441,11 @@ VIII. Emitir el Acuerdo constitutivo de la Comisión;
 
 IX. Expedir el Reglamento de la presente Ley; y
 
-X. Las demás que le señalen expresamente la normatividad aplicable.
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+X. Diseñar e instrumentar programas de empleo temporal dirigidos a aquellos municipios que presentan una fuerte intensidad de migrantes retornados, y prueben que perdieron su empleo por causas de la pandemia.
+
+XI. Las demás que le señalen expresamente la normatividad aplicable.
 
 ### CAPÍTULO II. DEL INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE
 
@@ -462,6 +472,10 @@ El Diagnóstico contará con los datos que aporten las dependencias y entidades 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
 VI. Elaborar y publicitar la lista de los Municipios con perfil migratorio, con alta y muy alta intensidad migratoria y el estatus sobre los resultados de los programas gubernamentales de atención, protección, defensa y procuración de derechos y apoyo a los migrantes y sus familias.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+En forma coordinada con los Ayuntamientos elaborar una estadística básica sobre los migrantes retornados por causa de la pandemia para su respectiva atención.
 
 VII. Celebrar acuerdos, convenios y programas con las dependencias del Ejecutivo Federal, de los gobiernos de otras entidades federativas y municipios; y con los sectores social y privado y con las organizaciones civiles, acordes con el Programa, en el marco de los preceptos de esta Ley y de los ordenamientos locales y federales en la materia; en todos los casos fungirá como órgano de consulta en la suscripción de los instrumentos jurídicos;
 
@@ -568,6 +582,10 @@ VIII. Coordinarse con otros ayuntamientos de municipios fronterizos de su demarc
 > <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
 IX. Por medio de la Comisión y Enlace Municipal coadyuvar con los otros niveles de gobierno para generar mecanismos financieros para apoyar a los migrantes y sus familias en su cohesión, reunificación familiar y retorno.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IX], P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Deberán coadyuvar con el Instituto para la estadística de migrantes retornados por causa de pérdida de empleo por la pandemia, así mismo, para la atención de estos harán lo conducente con el Ejecutivo del Estado en caso que aplique el Programa estatal de empleo temporal a migrantes retornados por causas de pandemia, como el COVID 19.
 
 ### CAPÍTULO V. DE LA COMISIÓN INTERINSTITUCIONAL DE PROTECCIÓN Y APOYO A LOS MIGRANTES Y SUS FAMILIAS
 
@@ -960,3 +978,11 @@ P.O. 9 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2705.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 22; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIV DEL ARTÍCULO 21, LA FRACCIÓN X RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 23, UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 24 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 29 DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
