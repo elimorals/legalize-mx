@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-10-05"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -525,7 +525,13 @@ XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los progr
 
 Los programas de obras públicas a que hace referencia la presente ley, tratándose de instalaciones públicas e infraestructura urbana deberán asegurar la accesibilidad, evacuación, y libre tránsito, para todas las personas con discapacidad, para ello deberán cumplir con las normas de diseño y de señalización que contengan, asimismo, se deberá de proponer las adecuaciones tanto a las instalaciones públicas como infraestructura urbana existente, a efecto de que cubran las necesidades de las personas con discapacidad.
 
-XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano y los mecanismos que se requieran para la adecuada conducción del mismo, la creación de zonas territoriales, de reserva ecológica y los de alta productividad agrícola, previo dictamen de la autoridad competente;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, así como los planes en materia de movilidad y seguridad vial y los mecanismos que se requieran para la adecuada conducción del mismo, la creación de zonas territoriales, de reserva ecológica y los de alta productividad agrícola, previo dictamen de la autoridad competente;
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Los planes de movilidad y seguridad vial deberán garantizar la infraestructura y equipamiento que permitan a las y los habitantes ejercer su derecho a la movilidad de forma asequible y en condiciones de seguridad vial, accesibilidad, fluidez, eficiencia, sostenibilidad, calidad, suficiencia, claridad, inclusión, salud, modernidad e igualdad, priorizando el desplazamiento de las y los peatones, conductores de vehículos no motorizados y personas con discapacidad.
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2020)</small>
 
@@ -1416,6 +1422,10 @@ VIII.- Informar a la población en sesión pública y solemne que deberá celebr
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
 IX.- Proponer al Ayuntamiento los proyectos de Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a los presupuestos realizados por las comisiones, de conformidad con la fracción VII del artículo 55 de esta Ley y 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca;
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+En la elaboración del Presupuesto de Egresos, los ayuntamientos deberán cumplir con lo dispuesto en el artículo 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, estableciendo el monto pormenorizado de los recursos que serán asignados a las agencias municipales y de policía.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -4348,3 +4358,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2714.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2717.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVI DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
