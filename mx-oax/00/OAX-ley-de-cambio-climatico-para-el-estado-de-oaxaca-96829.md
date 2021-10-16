@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2018-11-10"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -80,6 +80,14 @@ X.- Instrumentar mecanismos de convergencia de esfuerzos y concertación entre e
 XI.- Normar la participación de la sociedad en materia de adaptación y mitigación ante el Cambio Climático; y
 
 XII.- Generar una estrategia para el fortalecimiento de capacidades estatales para diseñar e implementar las políticas y actividades contenidas en la presente Ley, considerando el principio de responsabilidades comunes pero diferenciadas.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XIII.- Promover mecanismos para la protección, conservación y uso racional de humedales, reforzar y promover políticas y planes estatales, así como el principio del manejo intregrado de ecosistemas.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XIV.- Impulsar la investigación, el intercambio de información, capacitación y educación ambiental en materia de humedales, así como, incorporar a la cultura la protección, conservación y el uso racional de humedales de acuerdo a los lineamientos, leyes y normas nacionales, y de acuerdo a las convenciones internacionales.
 
 ###### Artículo 3.
 
@@ -1088,3 +1096,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1641.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
 
 [LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2762.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XIII Y XIV AL ARTÍCULO 2 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
