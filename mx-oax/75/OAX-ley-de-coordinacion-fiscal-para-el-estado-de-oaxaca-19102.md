@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2020-12-26"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -603,7 +603,9 @@ I.- Los recursos a distribuirse se asignarán en proporción directa al número 
 
 II.- De conformidad a la capacidad recaudatoria de cada una de ellas, del ejercicio inmediato anterior.
 
-La comprobación del ejercicio de los recursos, se hará ante el órgano de fiscalización del H. Congreso del Estado, a través de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+La comprobación del ejercicio de los recursos, se hará ante el Órgano Superior de Fiscalización del Estado de Oaxaca, a través de los Ayuntamientos, la omisión en la entrega de los montos a que hace referencia el presente artículo, será sancionada en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; así como demás leyes aplicables.
 
 ### CAPITULO TERCERO. DE LA COLABORACIÓN ADMINISTRATIVA ENTRE LOS MUNICIPIOS Y EL ESTADO
 
@@ -1014,3 +1016,11 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 TERCERO. Respecto al artículo 6E que regula la participación que efectivamente reciba el Estado del Impuesto Sobre la Renta que se cause por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, tendrá vigencia hasta la conclusión en los términos de lo establecido en el Acuerdo por el que se modifica el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por Conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Oaxaca, suscrito el 02 de abril de 2020, y publicado en el Diario Oficial de la Federación el 08 de mayo de 2020, y darán lugar a las participaciones que correspondan en los términos establecidos en dicho instrumento.
 
 CUARTO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2714.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
