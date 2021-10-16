@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-carreteras-y-puentes-para-el-estado-de-oaxaca-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-14"
-last_updated: "2007-04-14"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMINOS, CARRETERAS Y PUENTES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 14 de abril de 2007.
 
@@ -331,7 +331,9 @@ C.A.O resolverá administrativamente las controversias que se originen en relaci
 
 A.O tendrá a su cargo la inspección, verificación y vigilancia de las carreteras y puentes, en lo relativo a su estado físico, así como de los servicios que en ellos se presten y que se relacionen con el tránsito.
 
-Para los efectos del presente artículo, C.A.O podrá comisionar a servidores públicos, para que realicen las inspecciones o diligencias y levanten el acta correspondiente sujetándose a los requisitos que se señalan en la ley de Justicia Administrativa del Estado, C.A.O podrá autorizar a terceros para que lleven a cabo verificaciones de acuerdo con las normas para contratar servicios.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Para los efectos del presente artículo, C.A.O podrá comisionar a servidores públicos, para que realicen las inspecciones o diligencias y levanten el acta correspondiente sujetándose a los requisitos que se señalan en la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca, C.A.O podrá autorizar a terceros para que lleven a cabo verificaciones de acuerdo con las normas para contratar servicios.
 
 ###### Artículo 31.- C.
 
@@ -375,17 +377,27 @@ El visitado contará con un término de diez días hábiles, a fin de que presen
 
 Las infracciones a lo dispuesto en esta Ley, serán sancionadas por C.A.O de acuerdo con lo siguiente:
 
-I. Aplicar tarifas superiores a las autorizadas, con multa de 250 a 500 salarios mínimos;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-II. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías estatales de comunicación terrestres, con multa de 200 a 400 salarios mínimos;
+I. Aplicar tarifas superiores a las autorizadas, con multa de 250 a 500 veces la Unidad de Medida y Actualización;
 
-III. Colocar intencionalmente objetos o señales con ánimo de ocasionar daño a vehículos en circulación, con multa de 500 a 1000 salarios mínimos;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-IV. Cualquier otra infracción a lo previsto en la presente Ley o a los ordenamientos que de ella se deriven, con multa de hasta 500 días de salario mínimo.
+II. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías estatales de comunicación terrestres, con multa de 200 a 400 veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+III. Colocar intencionalmente objetos o señales con ánimo de ocasionar daño a vehículos en circulación, con multa de 500 a 1000 veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+IV. Cualquier otra infracción a lo previsto en la presente Ley o a los ordenamientos que de ella se deriven, con multa de hasta 500 veces la Unidad de Medida y Actualización.
 
 En caso de reincidencia, C.A.O podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 
-Para los efectos del presente Capítulo, se entiende por salario mínimo, el salario mínimo general vigente en el Estado al momento de cometerse la infracción.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Para los efectos del presente Capítulo, se entiende por Unidad de Medida y Actualización, el valor diario de la Unidad de Medida y Actualización vigente en el Estado al momento de cometerse la infracción.
 
 Los ingresos derivados por concepto de multas que se impongan en términos del presente Artículo, se destinarán a C.A.O para cubrir gastos de operación e inversión en tecnología y programas vinculados al transito en las vías estatales de comunicación.
 
@@ -419,9 +431,11 @@ Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de l
 
 ### CAPITULO VII. DE LA SUPLETORIEDAD
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 40.
 
-Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones, C.A.O se ajustara a lo que dispone la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones, C.A.O se ajustará a lo que dispone la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### Artículo 41.
 
@@ -476,3 +490,13 @@ Oaxaca de Juárez, Oax., a 3 de abril del 2007.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. TEOFILO MANUEL GARCÍA CORPUS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2761.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30, LAS FRACCIONES I, II, III, IV Y EL TERCER PÁRRAFO DEL ARTÍCULO 34, Y EL ARTÍCULO 40 DE LA LEY DE CAMINOS, CARRETERAS Y PUENTES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
