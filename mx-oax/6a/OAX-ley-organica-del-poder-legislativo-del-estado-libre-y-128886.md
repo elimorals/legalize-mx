@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2021-09-18"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -87,7 +87,9 @@ XIV. Diputado: Las Diputadas y a los Diputados del Honorable Congreso del Estado
 
 XV. Gaceta Parlamentaria: La publicación a través de la cual se difunden el orden del dia, las actividades, comunicaciones, documentos o acuerdos relacionados con el Congreso y la actividad legislativa.
 
-XVI. Grupo Parlamentario: Forma de organización que adoptan los Diputados con igual filiación partidista, estableciendo el mínimo de dos integrantes para ser constituido, con objeto de coadyuvar al mejor desarrollo del proceso legislativo, y contribuir a orientar y estimular la formación de criterios comunes en las deliberaciones en que participen sus integrantes.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XVI. Grupo Parlamentario: Forma de organización que adoptan los Diputados con igual filiación partidista, estableciendo el mínimo de tres integrantes para ser constituido, con objeto de coadyuvar al mejor desarrollo del proceso legislativo, y contribuir a orientar y estimular la formación de criterios comunes en las deliberaciones en que participen sus integrantes.
 
 XVII. Iniciativa preferente: La que presenta el Titular del Poder Ejecutivo del Estado en términos de lo dispuesto por el artículo 51, párrafo segundo de la Constitución Local.
 
@@ -1053,11 +1055,13 @@ El Reglamento regulará el funcionamiento de las comisiones, pudiendo ampliar su
 
 Los Grupos Parlamentarios propiciarán la definición de criterios comunes en las discusiones y deliberaciones de sus miembros, a fin de garantizar la pluralidad y el consenso de las acciones legislativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 80.
 
-Se podrá constituir un solo Grupo Parlamentario por cada instituto político representado en el Congreso, y será requisito indispensable que lo integren cuando menos dos Diputados de la misma filiación.
+Se podrá constituir un solo Grupo Parlamentario por cada instituto político representado en el Congreso, y será requisito indispensable que lo integren cuando menos tres Diputados de la misma filiación.
 
-Por lo que hace a los Diputados Independientes, estos podrán constituirse como Grupo Parlamentario, debiendo cumplir para tal efecto, lo dispuesto por esta Ley y su Reglamento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 Los Grupos Parlamentarios se tendrán por constituidos cuando presenten por escrito a la Presidencia de la Mesa Directiva, el acta en la que conste la decisión de sus miembros de constituirse como tal, con especificación del nombre del mismo, lista de los integrantes y el nombre del coordinador que haya sido electo.
 
@@ -1598,5 +1602,13 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2655.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 103 Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I AL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2703.- MEDIANTE EL CUAL SE R!;FORMA LA FRACCIÓN XVI DEL ARTÍCULO 3, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 80; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 80, AMBOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 3 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor a partir del día 13 de noviembre del 2021.
 
 SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
