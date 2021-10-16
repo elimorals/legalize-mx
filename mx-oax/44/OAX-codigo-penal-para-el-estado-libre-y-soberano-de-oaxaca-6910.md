@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-10-09"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,27 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR PARA EL AÑO DOS MIL DIECISIETE, SE ESTABLECE QUE "PARA EFECTUAR EL PAGO DE LAS CANTIDADES QUE RESULTEN DE LA ACTUALIZACIÓN, PARA LAS FRACCIONES DEL PESO, EL MONTO SE AJUSTARÁ PARA QUE LAS MULTAS QUE CONTENGAN CANTIDADES QUE INCLUYAN DE 1 HASTA 50 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA ANTERIOR Y LAS QUE CONTENGAN CANTIDADES DE 51 A 99 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA SUPERIOR."]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
 
-ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2016.
 
-QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
+Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
-LA QUINCUAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
-DECRETA:
+CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
+
+D E C R E T O
+
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
+
+LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
 # LIBRO PRIMERO.
 
@@ -81,107 +87,13 @@ Del hecho típico.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-### CAPITULO I.
+### Capítulo I. Disposiciones Generales
 
-Del delito.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+### Capítulo II. De las autoridades
 
-6o.- El delito puede ser realizado por acción o por omisión.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si:
-
-I. Es garante del bien jurídico;
-
-II. De acuerdo con las circunstancias podía evitarlo, y
-
-III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
-
-Es garante del bien jurídico el que:
-
-a) Aceptó efectivamente su custodia;
-
-b) Voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza;
-
-c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico; o,
-
-d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-8o.- Los delitos pueden ser dolosa o culposamente realizados.
-
-I. Actúa con dolo la persona que al momento de la realización del hecho se representa el resultado típico y quiere o acepta su realización.
-
-II. Actúa culposamente quien al momento de la realización del hecho típico infringe un deber objetivo de cuidado que, bajo las circunstancias concretas del hecho, podía y debía haber observado.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-9o.- El delito es:
-
-I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
-
-II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo; y
-
-III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas y tratándose de bienes jurídicos, disponibles del mismo sujeto pasivo se viola el mismo precepto legal.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
-
-10.- Los delitos pueden ser consumados o de tentativa:
-
-I.- Existe consumación cuando el agente con su acción u omisión, lesiona el bien jurídico; y
-
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1998)</small>
-
-II. Existe tentativa, cuando la resolución de cometer un delito se exterioriza realizando en parte o totalmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo si por causas ajenas al agente, no hay consumación pero si puesta en peligro del bien jurídico.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-### CAPITULO II.
-
-De la autoría y participación.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-11.- Son autores o partícipes del delito:
-
-I.- Los que acuerden o preparen su realización;
-
-II.- Los que lo realicen por sí;
-
-III.- Los que lo realicen conjuntamente;
-
-IV.- Los que lo lleven a cabo sirviéndose de otro;
-
-V.- Los que determinen dolosamente a otro a cometerlo;
-
-VI.- Los que dolosamente presten ayuda o auxilien a otro para su comisión; y
-
-VII.- Los que con posterioridad a su ejecución, auxilien al delincuente, en cumplimiento a una promesa anterior al delito.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-12.- Si varios sujetos toman parte en la realización de un delito determinado y alguno de ellos comete otro delito, sin previo acuerdo con los otros, todos serán considerados autores de la comisión del nuevo delito en cualesquiera de las hipótesis siguientes:
-
-a).- Que el nuevo delito hubiese servido de medio adecuado para cometer el principal;
-
-b).- Que el nuevo delito fuere una consecuencia necesaria o natural del realizado o de los medios concertados;
-
-c).- Que los participes supieran previamente que se iba a cometer un nuevo delito; o
-
-d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubieren hecho cuanto estaba de su parte para impedirlo.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-13.- Cuando sin acuerdo previo, varios sujetos intervengan en la comisión de un delito y no se pueda precisar el resultado que cada quien produjo, a todos se les aplicará la sanción prevista en el artículo 60.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 19.
 
@@ -243,9 +155,11 @@ IV. Los ingresos que perciba por los servicios que proporcione en los términos 
 
 V. Los demás bienes que adquiera por cualquier otro título legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 24.
 
-La Procuraduría tiene las siguientes atribuciones:
+La procuraduría tiene las siguientes atribuciones:
 
 I. Promover y proteger los derechos del consumidor, así como aplicar las medidas necesarias para propiciar la equidad y seguridad jurídica en las relaciones entre proveedores y consumidores;
 
@@ -275,7 +189,11 @@ IX. Promover nuevos o mejores sistemas y mecanismos que faciliten a los consumid
 
 (ADICIONADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
 
-IX bis. Promover en coordinación con la Secretaría la formulación, difusión y uso de códigos de ética, por parte de proveedores, que incorporen los principios previstos por esta Ley respecto de las transacciones que celebren con consumidores a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología;
+IX BIS. Promover en coordinación con la Secretaría la formulación, difusión y uso de códigos de ética, por parte de proveedores, que incorporen los principios previstos por esta Ley respecto de las transacciones que celebren con consumidores a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología;
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+IX TER. Promover la coordinación entre las autoridades federales, estatales y municipales que corresponda, a fin de asegurar la protección efectiva al consumidor en contra de la información o publicidad engañosa o abusiva;
 
 X. Actuar como perito y consultor en materia de calidad de bienes y servicios y elaborar estudios relativos;
 
@@ -295,7 +213,7 @@ XIV. Vigilar y verificar el cumplimiento de las disposiciones contenidas en esta
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XIV bis. Verificar que las pesas, medidas y los instrumentos de medición que se utilicen en transacciones comerciales, industriales o de servicios sean adecuados y, en su caso, realizar el ajuste de los instrumentos de medición en términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización;
+XIV BIS. Verificar que las pesas, medidas y los instrumentos de medición que se utilicen en transacciones comerciales, industriales o de servicios sean adecuados y, en su caso, realizar el ajuste de los instrumentos de medición en términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización;
 
 XV. Registrar los contratos de adhesión que lo requieran, cuando cumplan la normatividad aplicable, y organizar y llevar el Registro Público de contratos de adhesión;
 
@@ -321,19 +239,23 @@ XX. Requerir a los proveedores o a las autoridades competentes a que tomen medid
 
 > <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XX bis. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia la denuncia que corresponda;
+XX BIS. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia la denuncia que corresponda;
 
 > <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
+XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+XXIII.- Publicar, a través de cualquier medio, los productos y servicios que con motivo de sus verificaciones y los demás procedimientos previstos por la Ley sean detectados como riesgosos o en incumplimiento a las disposiciones jurídicas aplicables, y
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XXIII. Las demás que le confieran esta ley y otros ordenamientos.
+XXIV.- Las demás que le confieran esta ley y otros ordenamientos.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -343,17 +265,13 @@ La Procuraduría, para el desempeño de las funciones que le atribuye la ley, po
 
 I. Apercibimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
+II. Multa de $244.36 a $24,436.82.
 
-II. Multa de $198.87 a $19,887.70;
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
-
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $7,955.08, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $9,774.73, y
 
 IV. El auxilio de la fuerza pública.
 
@@ -381,7 +299,7 @@ Las medidas precautorias se dictarán conforme a los criterios que al efecto exp
 
 Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
@@ -435,7 +353,7 @@ El Procurador Federal del Consumidor será designado por el Presidente de la Rep
 
 Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
 
@@ -451,83 +369,33 @@ El personal de la Procuraduría estará incorporado al régimen de la Ley del In
 
 Para la elaboración de sus planes y programas de trabajo, la Procuraduría llevará a cabo consultas con representantes de los sectores público, social y privado; con instituciones nacionales de educación superior, así como con organizaciones de consumidores. Asimismo, asesorará a la Secretaría en cuestiones relacionadas con las políticas de protección al consumidor y opinará sobre los proyectos de normas oficiales mexicanas y sobre cualquiera otra medida regulatoria que pueda afectar los derechos de los consumidores.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-### CAPITULO III.
+### Capítulo III. De la información y publicidad
 
-De las causas de exclusión del delito.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-14.- El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
-
-Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos que integran la descripción legal del delito, así como el error de tipo.
-
-Son causas de justificación: el consentimiento del titular del bien jurídico, la legítima defensa, el estado de necesidad, el ejercicio de un derecho y el cumplimiento de un deber.
-
-Son causas de inculpabilidad: el error de prohibición, el estado de necesidad disculpante, la inimputabilidad y la inexigibilidad de otra conducta.
-
-A. Causas de atipicidad:
-
-I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo o por caso fortuito;
-
-II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
-
-III. Error de tipo: Es aquel que recae sobre alguno de los elementos que integran la descripción legal del delito de que se trate. Para tales efectos, será causa de atipicidad el error de tipo invencible. De igual forma cuando se trate de error vencible y el delito no admita la comisión culposa.
-
-B. Causas de justificación:
-
-I. Consentimiento. Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
-
-a) Que se trate de un bien jurídico disponible;
-
-b) Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien; y,
-
-c) Que el consentimiento sea expreso o tácito y no medie algún vicio.
-
-Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
-
-II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa, racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
-
-Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
-
-También se presumirá legítima defensa cuando se trate de impedir o se impida la comisión de un delito a bordo de vehículos destinados al transporte público o privado; así mismo, cuando se produzca un daño en contra de quien esté obstaculizando un camino o carretera con el objeto de cometer un delito; y en general cuando se actúe contra quién se encuentre en algún lugar y en circunstancias tales que revelen la probabilidad de una agresión;
-
-III. Estado de necesidad: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
-
-C. Causas de inculpabilidad:
-
-I. Error de prohibición: Se realice la acción u omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
-
-II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación.
-
-Cuando la capacidad a que se refiere el párrafo anterior se encuentre disminuida, se estará a lo dispuesto en este código.
-
-IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-15.- Al que se exceda en los casos de legítima defensa, estado de necesidad, cumplimiento de un deber o ejercicio de un derecho, a que se refiere el artículo anterior, se le impondrá la pena del delito culposo.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-16.- Las causas de exclusión del delito se harán valer de oficio cuando se actualice alguna de ellas.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 32.
 
-La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
+La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables, claros y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
 
-Para los efectos de esta ley, se entiende por información o publicidad engañosa o abusiva aquella que refiere características o información relacionadas con algún bien, producto o servicio que pudiendo o no ser verdaderas, inducen a error o confusión por la forma inexacta, falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenta.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-La información o publicidad que compare productos o servicios, sean de una misma marca o de distinta, no podrá ser engañosa o abusiva en términos de lo dispuesto en el párrafo anterior. La Procuraduría podrá emitir lineamientos para la verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor.
+Para los efectos de esta ley, se entiende por información o publicidad engañosa o abusiva aquella que refiere características o información relacionadas con algún bien, producto o servicio que pudiendo o no ser verdaderas, inducen a error o confusión al consumidor por la forma inexacta, falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenta.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+La información o publicidad que compare productos o servicios, sean de una misma marca o de distinta, no podrá ser engañosa o abusiva en términos de lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+La Procuraduría podrá emitir lineamientos para el análisis y verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor, considerando el contexto temporal en que se difunde, el momento en que se transmite respecto de otros contenidos difundidos en el mismo medio y las circunstancias económicas o especiales del mercado.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
+
+En el análisis y verificación de la información o publicidad, la Procuraduría comprobará que la misma sea veraz, comprobable, clara y apegada a esta Ley y a las demás disposiciones aplicables.
 
 ###### ARTICULO 33.
 
@@ -619,71 +487,7 @@ De las penas y medidas de seguridad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-### CAPITULO I.
-
-Universo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-17.- Las penas y medidas de seguridad son las siguientes:
-
-I.- Prisión;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-II.- Semilibertad;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-III.- Confinamiento y prohibición de concurrencia o residencia;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-IV.- Multa;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-V.- Reparación del daño;
-
-(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
-
-VI.- Decomiso de instrumentos, objetos y productos del delito, decomiso por valor equivalente o destrucción de cosas peligrosas o nocivas;
-
-VII.- Suspensión de derechos;
-
-VIII.- Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejercicio de profesiones y actividades técnicas;
-
-IX.- Suspensión o disolución de sociedades;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-X.- Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas;
-
-XI.- Apercibimiento;
-
-XII.- Caución de no ofender;
-
-XIII.- Publicación especial de sentencia;
-
-XIV.- Sujeción a la vigilancia de la Policía;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
-
-XV.- Tratamiento de inimputables, en internamiento o en libertad;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
-
-XVI.- Trabajo en favor de la comunidad;
-
-XVII.- (DEROGADA, P.O. 30 DE MAYO DE 2012)
-
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2000)</small>
-
-XVIII.- Prohibición de abandonar una demarcación geográfica sin autorización judicial.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Las penas y medidas de seguridad no trascienden de la persona y bienes del sujeto activo, salvo lo dispuesto en los artículos 32, 33 y 44 de este código.
+### Capítulo IV. De las promociones y ofertas
 
 ###### ARTICULO 46.
 
@@ -699,7 +503,7 @@ IV. Bienes o servicios con el incentivo de participar en sorteos, concursos y ot
 
 Por "oferta", "barata", "descuento", "remate" o cualquier otra expresión similar se entiende el ofrecimiento al público de productos o servicios de la misma calidad a precios rebajados o inferiores a los normales del establecimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 47.
 
@@ -729,23 +533,7 @@ No se podrán realizar promociones en las que se anuncie un valor monetario para
 
 Si el autor de la promoción u oferta no cumple su ofrecimiento, el consumidor podrá optar por exigir el cumplimiento, aceptar otro bien o servicio equivalente o la rescisión del contrato y, en todo caso, tendrá derecho al pago de la diferencia económica entre el precio al que se ofrezca el bien o servicio objeto de la promoción u oferta y su precio normal, sin perjuicio de la bonificación o compensación a que se refiere el artículo 92 TER de esta ley.
 
-### CAPITULO II.
-
-Prisión.
-
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
-
-18.- La prisión por un solo delito, podrá ser de tres días a ciento cinco años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2020)</small>
-
-19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos del Código Penal Federal; Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+### Capítulo V. De las ventas a domicilio, mediatas o indirectas
 
 ###### ARTICULO 51.
 
@@ -787,27 +575,13 @@ Los proveedores deberán mantener registros e informar al consumidor todo lo nec
 
 El contrato se perfeccionará a los cinco días hábiles contados a partir de la entrega del bien o de la firma del contrato, lo último que suceda. Durante ese lapso, el consumidor tendrá la facultad de revocar su consentimiento sin responsabilidad alguna. La revocación deberá hacerse mediante aviso o mediante entrega del bien en forma personal, por correo registrado, o por otro medio fehaciente. La revocación hecha conforme a este artículo deja sin efecto la operación, debiendo el proveedor reintegrar al consumidor el precio pagado. En este caso, los costos de flete y seguro correrán a cargo del consumidor. Tratándose de servicios, lo anterior no será aplicable si la fecha de prestación del servicio se encuentra a diez días hábiles o menos de la fecha de la orden de compra.
 
-### CAPITULO III.
-
-Semilibertad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-20.- La semilibertad consiste en la privación de la libertad alternada con tratamiento en libertad. Se aplicará y cumplirá, según las circunstancias del caso, de modo siguiente:
-
-I.- Externación durante la semana de trabajo o educativa y reclusión de fin semana;
-
-II.- Salida de fin de semana, con reclusión durante el resto de la semana, y
-
-III.- Salida diurna, con reclusión nocturna; o salida nocturna y reclusión diurna.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+### Capítulo VI. De los servicios
 
 ###### ARTICULO 57.
 
 En todo establecimiento de prestación de servicios, deberá exhibirse a la vista del público la tarifa de los principales servicios ofrecidos, con caracteres claramente legibles. Las tarifas de los demás, en todo caso, deberán estar disponibles al público.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 58.
 
@@ -927,7 +701,7 @@ La Procuraduría podrá sancionar a los especialistas o auditores externos que n
 
 La prestación del servicio de tiempo compartido, independientemente del nombre o de la forma que se dé al acto jurídico correspondiente, consiste en poner a disposición de una persona o grupo de personas, el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, en una unidad variable dentro de una clase determinada, por períodos previamente convenidos, mediante el pago de alguna cantidad, sin que, en el caso de inmuebles, se transmita el dominio de éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 65.
 
@@ -935,37 +709,119 @@ La venta o preventa de un servicio de tiempo compartido sólo podrá iniciarse c
 
 I. Nombre y domicilio del proveedor;
 
-II. Lugar donde se prestará el servicio;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+II. Lugar e inmueble donde se prestará el servicio, exhibiendo copia certificada de la afectación del inmueble o parte del mismo ante notario público mediante el acto jurídico de una declaración unilateral de la voluntad o fideicomiso en el que se destine el inmueble al servicio de tiempo compartido por el número de años que se está ofreciendo el servicio, debiendo obtener el registro definitivo en el Registro Público de la Propiedad, para con ello registrarse en la Procuraduría Federal del Consumidor; dejando a salvo los derechos de propiedad del proveedor una vez concluida la afectación;
 
 III. Determinación clara de los derechos de uso y goce de bienes que tendrán los compradores, incluyendo períodos de uso y goce;
 
 IV. El costo de los gastos de mantenimiento para el primer año y la manera en que se determinarán los cambios en este costo en períodos subsecuentes;
 
-V. Las opciones de intercambio con otros prestadores del servicio y si existen costos adicionales para realizar tales intercambios; y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-VI. Descripción de las fianzas y garantías que se otorgarán en favor del consumidor.
+V. Las opciones de intercambio con otros prestadores del servicio y si existen costos adicionales para realizar tales intercambios;
 
-> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-ARTICULO 65 BIS.- Los proveedores personas físicas o sociedades mercantiles no regulados por leyes financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán registrar su contrato de adhesión ante la Procuraduría.
+VI. Descripción de las fianzas y garantías que se otorgarán en favor del consumidor, y
 
-Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas por las leyes vigentes a las instituciones del sistema financiero nacional.
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-Los proveedores deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos. Además deberán informar, el monto de la tasa de interés anualizada que se cobra sobre los saldos insolutos; dicha información deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
+VII. En lo relativo a los servicios de tiempo compartido a prestarse en el extranjero éstos podrán ser comercializados en la República Mexicana únicamente cuando las personas físicas o morales que ofrezcan y/o presten y/o comercialicen los servicios sean sujetos de comercio, en México, de conformidad con las leyes aplicables, y que se hayan constituido en lo general, así como en lo especial en materia de tiempo compartido o club vacacional, de conformidad con las leyes de su país de origen; en caso de ser omisas, las personas referidas en el párrafo anterior deberán acreditar fehacientemente que su representada es el dueño del inmueble y su autorización a ser destinado a la comercialización de tiempo compartido.
 
-Los proveedores deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, la cual incluirá aspectos operativos tales como las características de la información que se debe proporcionar al consumidor, y los elementos de información que debe contener el contrato de adhesión que se utilice para formalizar las operaciones. Asimismo, deberá contener o permitir obtener para los principales servicios ofrecidos, la suma de todos los costos asociados a la operación.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
 
-### CAPITULO IV.
+ARTICULO 65 BIS.- Para efectos de lo dispuesto en la presente ley, serán casas de empeño los proveedores personas físicas o sociedades mercantiles no reguladas por leyes y autoridades financieras que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria.
 
-Confinamiento y prohibición de concurrencia o residencia.
+Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas y reguladas por las leyes vigentes a las instituciones del sistema financiero nacional.
 
-21.- El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Juez hará la designación del lugar y fijará el tiempo que durará la pena, conciliando la exigencia de la tranquilidad pública con la salud y las necesidades del condenado.
+La Procuraduría establecerá un registro público en el que se deberán inscribir las casas de empeño y los formatos de los contratos de adhesión que celebren con sus clientes.
 
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+Para organizarse y operar se requiere la inscripción en el Registro de Casas de Empeño, que compete otorgar a la Procuraduría. Por su naturaleza, los derechos derivados de la inscripción son intransmisibles.
 
-22.- La prohibición de ir a determinado lugar o de residir en él se extenderá únicamente a aquellos lugares en los que el infractor haya cometido el delito o en donde residieren el ofendido o sus familiares. El Juez fijará el tiempo que debe durar la medida, teniendo en cuenta las prevenciones del artículo anterior en cuanto sean aplicables.
+La operación de una casa de empeño sin la inscripción en el Registro de Casas de Empeño se considerará como infracción particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 1.- Para obtener de la Procuraduría el registro para operar como casa de empeño se requiere, además de la documentación e información que la Procuraduría establezca mediante disposiciones de carácter general, los siguientes requisitos:
+
+I. Presentar solicitud por escrito dirigida a la Procuraduría con los siguientes datos:
+
+a) Nombre, denominación o razón social de la casa de empeño y, en su caso, del representante legal;
+
+b) Registro Federal de Contribuyentes;
+
+c) Domicilio del establecimiento matriz o de las oficinas en las que se asiente la administración de la casa de empeño;
+
+d) En su caso, domicilio de las sucursales en las que se prestará el servicio de casa de empeño;
+
+e) Domicilio para oír y recibir notificaciones;
+
+f) Fecha y lugar de la solicitud;
+
+II. Presentar documento con el que se acredite la personalidad jurídica del promovente. Tratándose de personas morales, se deberán presentar los documentos con los que se acredite su constitución y la personalidad jurídica de su representante; y
+
+III. Acompañar copia del formato de contrato de adhesión que se utilizará para las operaciones de mutuo con interés y garantía prendaria, el cual deberá cumplir, además de los requisitos que establece la presente ley, los que en su caso se encuentren establecidos por alguna norma oficial mexicana.
+
+No podrán ser socios, accionistas, administradores, directivos o representantes de las casas de empeño quienes hayan sido condenados por delitos patrimoniales, financieros o de delincuencia organizada. La violación a esta disposición se considerará como infracción particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis y con la cancelación definitiva del registro.
+
+La Procuraduría expedirá el resto de las disposiciones de carácter general que sean necesarias para la operación del registro, procurando su agilidad y economía, y considerará también las causales de suspensión y cancelación del mismo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 2.- Una vez cumplidos los requisitos establecidos en el artículo anterior, la Procuraduría inscribirá al solicitante en el registro público y emitirá la constancia que ampare dicho registro indicando un número único de identificación.
+
+La Procuraduría, dentro del plazo de noventa días naturales contados a partir de la recepción de la solicitud, deberá resolver sobre la inscripción en el registro y emitir la constancia correspondiente. Transcurrido dicho plazo, se entenderá que la resolución es en sentido negativo al solicitante.
+
+La Procuraduría deberá publicar cada año en el Diario Oficial de la Federación y de forma permanente en su sitio de Internet la lista de los proveedores inscritos en el registro.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 3.- Las casas de empeño deberán informar a la Procuraduría de cualquier cambio o modificación en la información solicitada en el artículo 65 Bis 1 de la presente ley mediante la presentación de un aviso dentro de los treinta días naturales siguientes a la fecha en que se realizó el cambio.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 4.- Las casas de empeño deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos.
+
+Además, deberán informar el costo diario totalizado, así como el costo mensual totalizado, que se deberán expresar en tasas de interés porcentual sobre el monto prestado, los cuales, para fines informativos y de comparación, incorporaran la totalidad de los costos y gastos inherentes al contrato de mutuo durante ese periodo.
+
+La información a la que se refiere el presente artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable y permitir su fácil comprensión y comparación por parte de los consumidores.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 5.- Las casas de empeño deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, misma que determinará, entre otros, los elementos de información que se incluirán en el contrato de adhesión que se utilizará para formalizar las operaciones; las características de la información que se proporcionará al consumidor, y la metodología para determinar la información relativa a la totalidad de los costos asociados a la operación a que se refiere el artículo 65 Bis 4 de la presente ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 6.- Las casas de empeño deberán establecer procedimientos que le garanticen al pignorante la restitución de la prenda. En caso de que el bien sobre el que se constituyó la prenda haya sido robado, extraviado o sufra algún daño o deterioro, el pignorante podrá optar por la entrega del valor del bien conforme al avalúo o la entrega de un bien del mismo tipo, valor y calidad.
+
+Tratándose de metales preciosos, el valor de reposición del bien no podrá ser inferior al valor real que tenga el metal en el mercado al momento de la reposición.
+
+La infracción a este artículo se considerará particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
+ARTICULO 65 BIS 7.- La Procuraduría podrá celebrar convenios de colaboración o concertación con las asociaciones, cámaras, confederaciones u organismos de representación de las casas de empeño, con el objeto de coadyuvar en el cumplimiento de las disposiciones contenidas en la presente ley y las normas oficiales mexicanas aplicables.
+
+Las Casas de Empeño deberán hacer del conocimiento de la procuraduría estatal que corresponda, mediante un reporte mensual, los siguientes actos o hechos que estén relacionados con las operaciones que realizan, de acuerdo con lo que se establece a continuación:
+
+I. Los casos en que un cliente haya empeñado tres o más artículos iguales o de naturaleza similar en una o más sucursales o unidades de negocio de una misma casa de empeño.
+
+II. Cuando racionalmente se pueda estimar que existe un comportamiento atípico del pignorante que permite suponer que los bienes prendarios son objetos provenientes de hechos ilícitos.
+
+Para efectos de los supuestos contemplados en este artículo, las casas de empeño deberán proporcionar a la procuraduría estatal que corresponda los siguientes datos del cliente involucrado:
+
+I. Nombre;
+
+II. Domicilio;
+
+III. Copia de la identificación oficial contra la cual se cotejo la firma del contrato respectivo; y
+
+IV. Tipo de bien o bienes empeñados y el importe de los montos empeñados.
+
+En los casos en que se presuma la comisión de un delito, a solicitud del Ministerio Público las prendas empeñadas podrán quedar en calidad de depósito en la casa de empeño sin que se pueda disponer de ellas de forma alguna, hasta en tanto no se concluya la averiguación previa. Si concluida ésta el Ministerio Público determina que existen elementos para ejercer la acción penal, la custodia de las prendas quedará sujeta a lo que en su oportunidad dicte la autoridad competente. En caso de determinar que no existen elementos para ejercer la acción penal, el Ministerio Público competente notificará a la casa de empeño para liberar el mencionado depósito.
+
+### Capítulo VII. De las operaciones a crédito
 
 ###### ARTICULO 66.
 
@@ -1013,55 +869,9 @@ En los casos de operaciones en que el precio deba cubrirse en exhibiciones peri�
 
 Cualquier cargo que se prevea hacer por motivo de la expedición de un crédito al consumidor, deberá especificarse previamente a la firma del contrato o consumación de la venta, renta u operación correspondiente, desglosándose la diferencia y conservando el consumidor el derecho a realizar la operación de contado de no convenir a sus intereses los términos del crédito.
 
-### CAPITULO V.
+### Capítulo VIII. De las operaciones con inmuebles
 
-Multa.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-23.- La multa consiste en el pago de una cantidad de dinero al Estado y se aplicará al Fondo para la Administración de Justicia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-24.- La multa se fijará por días multa y no podrá exceder de mil quinientos veces el valor de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-El día multa equivale al valor de Unidad de Medida y Actualización vigente y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Cuando la ley establezca multa en pesos, se hará la conversión de ésta tomando en cuenta el máximo de la multa fijada por la Ley, con las correspondientes que a continuación se indican: cuando el máximo no sea superior a quinientos pesos, de uno a tres días multa; si excede de esta cantidad pero no de diez mil pesos, entre cuatro y veinte días multa; si es superior a diez mil pesos pero no pasa de cincuenta mil pesos, de veintiuno a doscientos días multa; y si excede de cincuenta mil pesos entre doscientos uno a quinientos días multa.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Cuando en la ejecución de un delito intervienen varias personas, los tribunales fijaran la multa para cada uno de los activos, según su participación y sus condiciones económicas.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-25.- La obligación de pagar el importe de la multa, es preferente se cubrirá primero que cualquier otra de las obligaciones contraídas con posterioridad al delito, excepto el pago de la reparación del daño.
-
-Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente, por prestación de trabajo a favor de la comunidad.
-
-Cada jornada de trabajo saldará un día de multa. Cuando no sea posible o conveniente la sustitución de la multa por la prestación del servicio, la autoridad judicial podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa sustituidos.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-26.- Dentro del plazo señalado para el cumplimiento voluntario, el sentenciado podrá solicitar al Juez que le conceda pagar la multa en parcialidades, pudiendo dicha autoridad fijar plazos de la manera siguiente:
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-I.- Si el monto no excede de cien veces el valor de la Unidad de Medida y Actualización vigente, se podrá conceder un plazo hasta de un mes y pagarse por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en una sola exhibición; y
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-II.- Si el monto excede de cien veces el valor de la Unidad de Medida y Actualización vigente, se podrá conceder un plazo hasta de seis meses, y pagarse por terceras partes, si se da la condición expresada en la fracción anterior.
-
-Si el sentenciado se negare, sin causa justificada, a cubrir el importe de la multa, el Estado lo exigirá mediante el procedimiento económico coactivo.
-
-Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el producto de su trabajo, durante y con motivo del cumplimiento de la pena privativa de libertad que se hubiere impuesto, al recobrar su libertad seguirá sujeto a la obligación de pagar la parte que le falta.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 73.
 
@@ -1141,9 +951,11 @@ XIV. En el caso de operaciones de compraventa, deberán señalarse los términos
 
 XV. Las demás que se exijan conforme a la presente ley para el caso de los contratos de adhesión.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ENERO DE 2012)</small>
 
-ARTICULO 73 QUÁTER.- Todo bien inmueble cuya transacción esté regulada por esta Ley, deberá ofrecerse al consumidor con la garantía correspondiente, la cual no podrá ser inferior a un año contado a partir de la entrega real del bien. En el tiempo en que dure la garantía el proveedor tendrá la obligación de realizar, sin costo alguno para el consumidor, cualquier acto tendiente a la reparación de los defectos o fallas presentados por el bien objeto del contrato.
+ARTICULO 73 QUÁTER.- Todo bien inmueble cuya transacción esté regulada por esta Ley, deberá ofrecerse al consumidor con la garantía correspondiente, la cual no podrá ser inferior a cinco años para cuestiones estructurales y tres años para impermeabilización; para los demás elementos la garantía mínima será de un año. Todos los plazos serán contados a partir de la entrega real del bien. En el tiempo en que dure la garantía el proveedor tendrá la obligación de realizar, sin costo alguno para el consumidor, cualquier acto tendiente a la reparación de los defectos o fallas presentados por el bien objeto del contrato.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
 El tiempo que duren las reparaciones efectuadas al inmueble al amparo de la garantía no es computable dentro del plazo de la misma; una vez que el inmueble haya sido reparado se iniciará la garantía respecto de las reparaciones realizadas, así como con relación a las piezas o bienes que hubieren sido repuestos y continuará respecto al resto del inmueble.
 
@@ -1175,201 +987,31 @@ En los contratos de adhesión relacionados con inmuebles se estipulará la infor
 
 La Procuraduría podrá promover ante la autoridad judicial, cuando vea amenazado el interés jurídico de los consumidores, el aseguramiento de los bienes a que se refiere este capítulo, en aquellas operaciones que considere de difícil o imposible cumplimiento, mientras subsista la causa de la acción.
 
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-### CAPITULO VI.
+### Capítulo VIII bis. De los derechos de los consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología
 
-Reparación del daño.
+(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2021)</small>
+ARTICULO 76 BIS.- Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:
 
-27.- La reparación del daño debe ser oportuna, plena, diferenciada, transformadora, integral, adecuada, eficaz, efectiva, expedita, justa, proporcional a la gravedad del daño causado y a la afectación sufrida, como consecuencia de un delito o de las violaciones de derechos humanos que han sufrido, comprenderá cuando menos:
+I. El proveedor utilizará la información proporcionada por el consumidor en forma confidencial, por lo que no podrá difundirla o transmitirla a otros proveedores ajenos a la transacción, salvo autorización expresa del propio consumidor o por requerimiento de autoridad competente;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+II. El proveedor utilizará alguno de los elementos técnicos disponibles para brindar seguridad y confidencialidad a la información proporcionada por el consumidor e informará a éste, previamente a la celebración de la transacción, de las características generales de dichos elementos;
 
-I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
+III. El proveedor deberá proporcionar al consumidor, antes de celebrar la transacción, su domicilio físico, números telefónicos y demás medios a los que pueda acudir el propio consumidor para presentarle sus reclamaciones o solicitarle aclaraciones;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+IV. El proveedor evitará las prácticas comerciales engañosas respecto de las características de los productos, por lo que deberá cumplir con las disposiciones relativas a la información y publicidad de los bienes y servicios que ofrezca, señaladas en esta Ley y demás disposiciones que se deriven de ella;
 
-II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales, y
 
-III. El resarcimiento de los perjuicios ocasionados o el lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones cause incapacidad temporal o permanente para trabajar en oficio, arte o profesión;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
 
-IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente;
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
-
-V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias,
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
-
-VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-VIII. La reparación del daño sufrido en la integridad física de la víctima;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-IX. Los daños patrimoniales generados como consecuencia de delitos o violaciones a derechos humanos;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-X. El pago de los gastos y costas judiciales del asesor jurídico cuando éste sea privado; y
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XI. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione el trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en un municipio o lugar distinto al del enjuiciamiento o donde recibe la atención.
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
-
-Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
-
-28. El monto de la reparación del daño, será fijado por los jueces de acuerdo con las pruebas que obran en el proceso y la afectación causada a la víctima u ofendido del delito, salvo lo dispuesto en el artículo 29.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o parcial, permanente o temporal, el monto de la reparación se determinará atendiendo a lo dispuesto en la Ley Federal del Trabajo, computado sobre el salario o ingresos que percibiera la víctima al momento de su fallecimiento o de producirse la incapacidad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-La indemnización a que se refiere el párrafo anterior, no puede ser inferior al monto señalado en el artículo siguiente.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2021)</small>
-
-I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo. Esta disposición también se aplicará aun cuando la víctima u ofendido fuere menor de edad, persona con alguna discapacidad o pertenezca a un grupo en situación de vulnerabilidad.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE JUNIO DE 2021)</small>
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
-
-II.- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
-
-Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
-
-III.- En caso de que las lesiones no dejaren secuelas, el monto será el número de salarios correspondientes a los días que el pasivo tardó en sanar.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-30.- Tienen derecho a recibir el monto de la reparación del daño:
-
-a).- El sujeto pasivo;
-
-b).- En caso de muerte o incapacidad del pasivo: el cónyuge y los hijos; a falta de éstos, los ascendientes, a menos que se pruebe que no dependían económicamente de la víctima; a falta de cónyuge, la persona con quien la víctima vivió como si fuera su cónyuge, durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio; a falta de todos los anteriores, los parientes colaterales hasta el sexto grado, que resultaren afectados directa e inmediatamente;
-
-c).- Si los beneficiarios no se apersonaren o no acreditaren estar en los supuestos mencionados, el monto corresponderá al Estado de Oaxaca y se aplicará al Fondo para la Administración de Justicia, quedando a salvo el derecho de los beneficiarios a reclamar el pago de dicho monto.
-
-Si el beneficiario renuncia a la reparación del daño, el importe se aplicará al Fondo para la Administración de Justicia.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-31.- El autor de un delito está obligado reparar los daños que, con su comisión, haya causado.
-
-Si hubiere varios activos, la obligación de la reparación del daño es solidaria.
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
-
-Para obtener el pago de la reparación del daño material y moral, no será necesario acreditar la capacidad económica del obligado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
-
-32.- Independientemente de lo previsto en el artículo anterior, están obligados a reparar los daños:
-
-I.- Las personas físicas o morales por los delitos que cometan con motivo y en el desempeño de su servicio los que estén bajo su dirección y dependencia económica;
-
-II.- Las sociedades o agrupaciones por los delitos de sus socios o gerentes directores, cuando, conforme a la ley, sean responsables de las obligaciones que los segundos contraigan. Se exceptúa de esta regla a la sociedad conyugal, en la que en caso de delito, cada cónyuge, responderá con sus bienes propios por el daño causado; y
-
-III.- El Estado, subsidiariamente, por los delitos cometidos por los servidores públicos con motivo y en ejercicio de sus funciones.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-33.- Para hacer efectiva de un tercero la reparación del daño, a petición del ofendido o del Ministerio Público, paralelamente al proceso y en sección especial, se abrirá el incidente previsto en los artículos 343 a 347 del Código de Procedimientos Penales, corriendo el traslado respectivo al tercero obligado.
-
-Cuando se sobresea en el proceso penal o se dicte sentencia absolutoria, el juez penal seguirá conociendo en lo relativo a la reparación del daño, hasta dictar sentencia, si existe título jurídico civil que justifique el resarcimiento.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-34.- En los delitos culposos, los objetos de uso lícitos con que se comete el delito, sean de propiedad del activo o de un tercero, se asegurarán de oficio para garantizar el pago de la reparación del daño. Se levantará el aseguramiento si los propietarios otorgan fianza suficiente para garantizar dicho pago.
-
-Para los efectos de este artículo, los terceros propietarios de vehículos y otros objetos de uso lícito, serán solidariamente responsables con el agente del delito por los daños causados.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-35.- El pago de la reparación del daño, se hará ante el tribunal de origen dentro del plazo razonable que se le haya fijado; sí no lo hiciere, el Estado lo exigirá mediante el procedimiento económico coactivo.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
-
-La obligación de pagar la reparación de los daños es preferente con respecto al de la multa y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad a la comisión del delito, a excepción de las relacionadas con los alimentos y los salarios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
-
-36.- La reparación del daño, cuando deba ser hecha por el sujeto activo, se exigirá por el Ministerio Público en todo proceso penal. El incumplimiento de esta obligación ministerial, se hará constar en la sentencia y el juez lo comunicará al Fiscal General del Estado, quien sancionará al Agente del Ministerio Público infractor, con una multa de treinta a sesenta días multa; sin perjuicio de otras acciones que puedan ejercerse en su contra.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Hecha la solicitud de condena de la reparación del daño por el Ministerio Público, el juez resolverá lo conducente. Si el Juez no resuelve sobre dicha solicitud, será sancionado por el Tribunal de alzada en los términos del párrafo anterior.
-
-(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-### CAPITULO VII.
-
-Decomiso de instrumentos, objetos y productos del delito, decomiso por valor equivalente o destrucción de cosas peligrosas o nocivas.
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-37.- Los instrumentos del delito y cualquier otra cosa con que se cometa o intente cometer, así como las cosas que sean objeto o producto de él, cuando sean de uso prohibido, serán decomisados por el Estado.
-
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-Si pertenecen a terceras personas, sólo se decomisarán cuando hayan sido empleados con conocimiento de su dueño, para fines delictuosos. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación previa o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
-
-Los objetos de uso lícito a que se refiere este artículo se decomisarán al acusado solamente cuando éste fuera condenado.
-
-En los delitos culposos solamente se decomisarán los objetos que sean de uso prohibido.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-38.- La autoridad del conocimiento:
-
-I.- Respecto de las cosas decomisadas:
-
-a).- Si son de uso prohibido, nocivas o peligrosas ordenará su destrucción, salvo que estime conveniente conservarlas para fines de docencia o investigación;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
-
-b).- Si las cosas no tienen las características señaladas en el inciso anterior, determinará su destino, según su utilidad, para beneficio de la procuración o administración de justicia según corresponda;
-
-II.- Respecto de objetos o valores no decomisados en la sentencia, ordenará su entrega a quien acredite tener derecho a ellos, pero si éste no comparece en un lapso de noventa días a partir de la notificación personal que se le haga, se enajenará en subasta pública. Hecha esta se le notificará personalmente que el producto de la venta queda a su disposición por el plazo de seis meses, apercibido que de no presentarse, el producto de la venta se destinará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
-
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
-
-III.- Respecto de bienes asegurados a disposición del ministerio público que, durante la averiguación previa no puedan conservarse, sean perecederos o el costo de su administración, mantenimiento o resguardo sea superior al valor del bien, se procederá a su venta inmediata en subasta pública en los términos y condiciones que se determinen por acuerdo del Fiscal General del Estado o del servidor en quien delegue dicha facultad conforme las disposiciones aplicables y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses contados a partir de la notificación que se le haga, transcurrido el cual, si no es recogido, se destinará al fondo para la procuración de justicia.
-
-Lo mismo se observará tratándose de objetos o valores a disposición de la autoridad judicial, con la circunstancia de que el producto de la venta se destinará al fondo para la administración de justicia.
-
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-38 Bis. El decomiso por valor equivalente; es el decomiso que recae sobre los bienes del inculpado cuyo valor sea equivalente al de los instrumentos, objetos o productos del delito, cuando éstos, después de ser identificados, se hayan perdido, consumido, extinguido, desaparecido, no sea posible localizarlos o recuperarlos, hayan sido transformados, alterados, modificados, convertidos o mezclados con otros bienes, constituyan garantías de créditos preferentes o se presente alguna circunstancia que impida que se declare el decomiso de los instrumentos, objetos y productos del delito.
-
-En el caso de que los bienes se hayan transformado, alterado, modificado o convertido en otros bienes con responsabilidad del propietario, sobre éstos se ejercitará el decomiso por valor equivalente. Cuando se hayan mezclado con bienes adquiridos lícitamente, estos podrán ser objeto del decomiso por valor equivalente hasta por el valor estimado del instrumento, objeto o producto del delito, en términos del segundo párrafo, fracción 11 del artículo 6 de la Constitución Política del Estado Libre y Soberano de Oaxaca, respetando el derecho de propiedad de terceros ajenos al proceso penal.
-
-El decomiso por valor equivalente se autorizara cuando sea responsabilidad del inculpado y que este haya tenido en todo momento la guarda y custodia de los bienes.
-
-En los casos que así se establezca, se podrá decretar el aseguramiento de bienes propiedad del o los inculpados, así como de aquellos respecto de los cuales se conduzca como dueño, sin perjuicio de respetar el derecho de propiedad de terceros ajenos al proceso penal.
+### Capítulo IX. De las garantías
 
 ###### ARTICULO 77.
 
@@ -1419,19 +1061,11 @@ El tiempo que duren las reparaciones efectuadas al amparo de la garantía no es 
 
 Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuera del plazo establecido por la garantía, deberá acreditar que compareció ante el proveedor dentro del (sic) dicho plazo.
 
-### CAPITULO VIII.
+### Capítulo X. De los contratos de adhesión
 
-Suspensión de Derechos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-39.- La suspensión de derechos es de dos clases:
-
-I.- La que por ministerio de ley resulte de una sanción como consecuencia necesaria de ésta; y
-
-II.- La que por sentencia formal se impone como sanción.
-
-En el primer caso, la suspensión comienza y concluye con la sanción de que es consecuencia. En el segundo, si la suspensión se impone con otra sanción privativa de libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia.
-
-40.- La pena de prisión produce la suspensión de los derechos políticos y los de tutela, curatela, ser apoderado, defensor, albacea, perito, depositario o interventor judicial síndico o interventor en concursos, árbitro, arbitrador o representante de ausente. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 85.
 
@@ -1519,17 +1153,7 @@ ARTICULO 90 BIS.- Cuando con posterioridad a su registro se aprecie que un contr
 
 En tales casos, la Procuraduría procederá conforme al procedimiento establecido en el artículo 123 de esta ley.
 
-### CAPITULO IX.
-
-Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejercicio de profesiones o actividades técnicas.
-
-41.- La suspensión de empleo o cargo se entiende siempre con privación de sueldo; y, si aquélla pasara de seis meses, perderá además el condenado su derecho a los ascensos que le correspondan durante su condena.
-
-42.- La destitución de un empleo o cargo priva al reo de lo que por desempeño del mismo debiera obtener, en cualquier sentido que fuere; y de alcanzar otro en el mismo ramo, durante un término que se fijará en la condena y que no pasará de diez años.
-
-43.- La suspensión en el ejercicio de profesiones o actividades técnicas se regirá, en cuanto sea aplicable, por las disposiciones del artículo que precede.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+### Capítulo XI. Del incumplimiento
 
 ###### ARTICULO 91.
 
@@ -1537,7 +1161,7 @@ Los pagos hechos en exceso del precio máximo determinado o, en su caso, estipul
 
 Los intereses se calcularán con base en el costo porcentual promedio de captación que determine el Banco de México, o cualquiera otra tasa que la sustituya oficialmente como indicador del costo de los recursos financieros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 92.
 
@@ -1597,23 +1221,9 @@ Los productos que hayan sido repuestos por los proveedores o distribuidores, deb
 
 En caso de que el producto en cuestión cuente con un documento que ampare la evaluación de la conformidad del mismo emitido por alguna de las personas acreditadas o aprobadas a que se refiere la Ley Federal sobre Metrología y Normalización, tales personas deberán cubrir al proveedor la bonificación o compensación que corresponda.
 
-### CAPITULO X.
+### Capítulo XII. De la vigilancia y verificación
 
-Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-44.- Cuando algún miembro o representante de una persona moral, de una sociedad, corporación o empresa de cualquier clase, con excepción de las Instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcionan, de modo que resulta cometido a nombre o bajo el amparo de la representación o a beneficio de ella, sin perjuicio de la responsabilidad individual en que hubieren incurrido los autores de los delitos cometidos, los tribunales, según lo estimen procedente, previo el procedimiento correspondiente con presencia del representante legal, decretarán:
-
-I.- La intervención de las funciones que realizan los órganos de representación de la persona jurídica colectiva, con las atribuciones que la ley confiere al interventor. La intervención será de un mes a dos años;
-
-II.- La sustitución de los administradores de la persona colectiva, encargando su función a un administrador designado por el Juez durante un período máximo de dos años. Para hacer la designación, el juez podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito. Cuando concluya el período previsto para la administración sustituta, la designación de los nuevos administradores, se hará en la forma ordinaria prevista por las normas aplicables a estos actos;
-
-III.- La privación temporal del ejercicio de aquellas operaciones que hubieren tenido relación directa con el delito cometido. Estas operaciones serán especificadas, con toda precisión, en la sentencia. Si se trata de operaciones lícitas, la prohibición no excederá de dos años; y
-
-IV.- La disolución y liquidación de la persona jurídica colectiva, la cual no podrá constituirse nuevamente por las mismas personas, sea que éstas intervengan directamente, sea que lo hagan por conducto de terceros. El Juez designará a quien deba hacerse cargo de la disolución y liquidación que se llevarán adelante en la forma prevista por la legislación aplicable a estas operaciones.
-
-Al imponer las sanciones mencionadas, el Juez tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros, frente a la persona jurídica colectiva y aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica colectiva sancionada.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 96.
 
@@ -1659,7 +1269,7 @@ V. En caso de tratarse de análisis o pruebas no destructivas, las muestras ser�
 
 ARTICULO 97 QUATER.- Si durante el procedimiento de verificación se detecta alguno de los supuestos previstos en el artículo 25 BIS de esta ley, se aplicarán, en su caso, las medidas precautorias que correspondan, asentándose dicha circunstancia en el acta respectiva. Lo anterior, sin perjuicio de iniciar el procedimiento previsto por el artículo 123 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 98.
 
@@ -1683,53 +1293,37 @@ El informe a que se refiere el párrafo anterior, podrá ordenarse como uno de l
 
 ARTICULO 98 TER.- La Procuraduría podrá ordenar el aseguramiento de bienes o productos que se comercialicen fuera de establecimiento comercial cuando no cumplan con las disposiciones aplicables, conforme al procedimiento que al efecto se establezca y que se publique en el Diario Oficial de la Federación, y lo hará del conocimiento de las autoridades competentes a fin de que adopten las medidas que procedan.
 
-### CAPITULO XI.
+### Capítulo XIII. Procedimientos
 
-Amonestación.
-
-45.- La amonestación consiste: en la advertencia que el Juez sentenciador dirige al infractor, haciéndole ver las consecuencias del delito que cometió, excitándolo a la enmienda y conminándolo con que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, a juicio del Juez que deba hacerla.
-
-### CAPITULO XII.
-
-Apercibimiento y caución de no ofender.
-
-46.- El apercibimiento consiste en la conminación que el Juez hace a una persona, cuando se teme con fundamento que está en disposición de cometer un delito, ya sea por actitud o por amenazas, de que en caso de cometer lo que se propone u otro semejante, será considerada como reincidente.
-
-47.- Cuando el Juez estime que no es suficiente el apercibimiento, exigirá además, al infractor caución de no ofender. La caución podrá consistir en fianza que otorgue el propio infractor o en la que otorgue un tercero; el monto o duración de la garantía serán fijados por el Juez, teniendo en cuenta la importancia del bien jurídico amenazado y la probable duración del peligro. Si el infractor no otorgare la caución dentro de un mes contado desde que cause ejecutoria la sentencia, se aplicará en vez de esta medida, prisión de tres días a tres años, lo que se deberá especificar en la propia sentencia, precisando el tiempo que debe durar dicha prisión.
+### Capítulo XIV. Sanciones
 
 ###### ARTICULO 125.
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $198.87 a $636,406.58.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $244.36 a $781,978.53.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
+(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $397.76 a $1'272,813.16.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $488.74 a $1´563,957.06.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
-
-(REFORMADO, D.O.F. 29 DE ENERO DE 2009) (ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
+(REFORMADO, D.O.F. 16 DE ENERO DE 2013) (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $596.63 a $2'333,490.80.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de $702.07 a $2'745,903.07.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
+(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
+ARTICULO 128 BIS. En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $146,620.98 a $4´105,387.31.
 
-ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $119,326.23 a $3'341,134.55.
+Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1747,13 +1341,17 @@ IV. Aquellas conductas que se cometan aprovechando la escasez, lejanía o dificu
 
 V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la Secretaría o por cualquiera otra autoridad competente;
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+VI. Cuando la información o publicidad relacionada con algún bien, producto o servicio que pudiendo o no ser verdadera, induzcan a error o confusión al consumidor por la forma falsa, exagerada, parcial, artificiosa o tendenciosa en que se presente;
+
 > <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-VI. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley, y
+VII. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley, y
 
 > <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-VII. Aquellas que vulneren los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+VIII. Aquellas que vulneren los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1811,17 +1409,15 @@ IV. La condición económica del infractor.
 
 Asimismo, la Procuraduría deberá considerar los hechos generales de la infracción a fin de tener los elementos que le permitan expresar pormenorizadamente los motivos que tenga para determinar el monto de la multa en una cuantía específica.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 133.
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
-
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $6'682,269.10.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $8´210,774.61.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -1831,19 +1427,9 @@ La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la 
 
 La autoridad no podrá ejercer la facultad referida en el párrafo anterior, una vez que las multas hayan sido remitidas a la autoridad fiscal competente para su cobro y tampoco cuando se trate de sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
 
-### CAPITULO XIII.
+### Capítulo XV. Recursos administrativos
 
-Publicación especial de sentencia.
-
-48.- La publicación especial de sentencia consiste en la inserción total o parcial de ella, en uno o dos periódicos que circulen en la localidad. El Juez sentenciador escogerá los periódicos y resolverá la forma en que debe hacerse la publicación.
-
-La publicación de la sentencia se hará a costa del delincuente, del ofendido si éste lo solicitare o del Estado si el Tribunal lo estima necesario.
-
-49.- El Juez podrá, a petición y a costa del ofendido, ordenar la publicación de la sentencia en Entidad diferente.
-
-50.- La publicación de sentencia se ordenará igualmente a título de reparación y a petición del interesado, cuando éste fuere absuelto, el hecho imputado no constituyere delito, o él no lo hubiere cometido.
-
-51.- Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 135.
 
@@ -1899,7 +1485,7 @@ México, D.F., a 18 de diciembre de 1992.- Dip. Salvador Abascal Carranza, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 21 DE JULIO DE 1993.
 
@@ -1947,7 +1533,7 @@ Los nuevos proveedores de bienes o servicios deberán cumplir con lo establecido
 
 D.O.F. 23 DE MAYO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1991,7 +1577,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 D.O.F. 24 DE DICIEMBRE DE 2002.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -2029,7 +1615,7 @@ El incumplimiento a las obligaciones de presentar la información o a realizar l
 
 D.O.F. 21 DE DICIEMBRE DE 2004.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2005.
 
@@ -2039,7 +1625,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2005.
 
 D.O.F. 22 DE DICIEMBRE DE 2005.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2006.
 
@@ -2059,7 +1645,7 @@ Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor
 
 D.O.F. 19 DE DICIEMBRE DE 2006.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2007.
 
@@ -2069,7 +1655,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2007.
 
 D.O.F. 21 DE DICIEMBRE DE 2007.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2008.
 
@@ -2079,7 +1665,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008.
 
 D.O.F. 17 DE DICIEMBRE DE 2008.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2009.
 
@@ -2097,7 +1683,7 @@ D.O.F. 10 DE JUNIO DE 2009.
 
 D.O.F. 21 DE DICIEMBRE DE 2009.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2010.
 
@@ -2121,7 +1707,7 @@ D.O.F. 30 DE NOVIEMBRE DE 2010.
 
 D.O.F. 21 DE DICIEMBRE DE 2010.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2011.
 
@@ -2150,6 +1736,74 @@ CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones 
 QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
 
 SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2012.
+
+## TRANSITORIO
+
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2012.
+
+D.O.F. 18 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría contará con un periodo de tres meses a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para emitir la Norma Oficial Mexicana, ajustada al cumplimiento del mismo.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 31 DE DICIEMBRE DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2013.
+
+D.O.F. 16 DE ENERO DE 2013.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las casas de empeño contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+Tercero. La Procuraduría Federal del Consumidor deberá ejecutar un programa de verificación de establecimientos y lugares en los que se ofertan al público contratos de mutuo con interés y garantía prendaria.
+
+D.O.F. 5 DE NOVIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2014.
+
+D.O.F. 4 DE JUNIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2015.
+
+D.O.F. 28 DE AGOSTO DE 2015.
+
+ÚNICO.- El presente Acuerdo entrará en al día siguiente de su publicación.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2016.
+
+D.O.F. 13 DE MAYO DE 2016.
 
 ### CAPITULO XIV.
 
@@ -2657,15 +2311,9 @@ IV.- Al que voluntariamente sirva un empleo o cargo subalterno o comisión, en l
 
 145.- Cuando ya declarada la guerra entre México y otra Nación, o rotas las hostilidades, se inicie o fomente en el Estado una rebelión local, se aumentarán hasta en una tercera parte de su duración las penas establecidas en este capítulo sin que puedan exceder de cuarenta años de prisión.
 
-#### SECCION PRIMERA.
+#### Sección Primera. Disposiciones Comunes
 
-Muerte del sujeto activo.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-99.- La muerte del sujeto activo extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad a excepción de la reparación del daño y del decomiso de los instrumentos del delito.
-
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO II], P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 99.
 
@@ -2707,11 +2355,9 @@ f) Que la representación y gestión se realiza de manera gratuita, y
 
 g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
-
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $397,754.11.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $488,736.58.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -2781,7 +2427,7 @@ Tratándose de actos distintos a los señalados con anterioridad, las notificaci
 
 La documentación que sea remitida por una unidad administrativa de la Procuraduría vía electrónica, fax o por cualquier otro medio idóneo a otra unidad de la misma para efectos de su notificación, tendrá plena validez siempre que la unidad receptora hubiere confirmado la clave de identificación del servidor público que remite la documentación y que ésta se conserve íntegra, inalterada y accesible para su consulta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 105.
 
@@ -2853,15 +2499,7 @@ Los convenios aprobados y los reconocimientos de los proveedores y consumidores 
 
 Aún cuando no medie reclamación, la Procuraduría estará facultada para aprobar los convenios propuestos por el consumidor y el proveedor, previa ratificación.
 
-#### SECCION SEGUNDA.
-
-Amnistía.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-100.- La amnistía extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad, excepto la reparación del daño y el decomiso de los instrumentos del delito, en los términos de la ley que la otorgue; si no se expresaren, se entenderá que la acción persecutoria y la potestad para aplicar penas y medidas de seguridad se extinguen con todos sus efectos, con relación a todos los sujetos activos.
-
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO III], P.O. 7 DE MAYO DE 2015)</small>
+#### Sección Segunda. Procedimiento conciliatorio
 
 ###### ARTICULO 111.
 
@@ -2955,7 +2593,7 @@ Los acuerdos de trámite que emita el conciliador no admitirán recurso alguno.
 
 Los convenios celebrados por las partes serán aprobados por la Procuraduría cuando no vayan en contra de la ley, y el acuerdo que los apruebe no admitirá recurso alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 116.
 
@@ -2963,33 +2601,17 @@ En caso de no haber conciliación, el conciliador exhortará a las partes para q
 
 En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas partes.
 
-#### SECCION TERCERA.
+#### Sección Tercera. Procedimiento arbitral
 
-Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-101.- El perdón del ofendido o del legitimado para otorgarlo, extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público, si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
-
-Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por algún otro acto equivalente a la querella, siendo suficiente para la extinción de la acción penal la manifestación de quien está autorizado para ello de que el interés afectado ha sido satisfecho.
-
-Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al sujeto activo del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorgue.
-
-El perdón sólo beneficia al inculpado en cuyo favor se otorga a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses ó derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
-
-El perdón del ofendido y del legitimado para otorgarlo también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se trate de los delitos mencionados en los párrafos primero y segundo.
-
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO IV], P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 117.
 
 La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
-
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $397,754.11
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $488,736.58.
 
 ###### ARTICULO 118.
 
@@ -3015,65 +2637,9 @@ El laudo arbitral emitido por la Procuraduría o por el árbitro designado por l
 
 Las resoluciones que se dicten durante el procedimiento arbitral admitirán como único recurso el de revocación, que deberá resolverse por el árbitro designado en un plazo no mayor de tres días. El laudo arbitral sólo estará sujeto a aclaración dentro de los dos días siguientes a la fecha de su notificación.
 
-#### SECCION CUARTA.
+#### Sección Cuarta. Procedimientos por infracciones a la ley
 
-Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indulto.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código Nacional de Procedimientos Penales, según sea el caso y se estará a lo dispuesto en el artículo 50 de este Código.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-103.- El indulto es supresión de la prisión impuesta en sentencia irrevocable.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-104. El indulto es estrictamente personal y cada caso se tramitará ante el Ejecutivo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
-
-105.- Cuando la conducta observada por el sentenciado refleje un alto grado de reinserción social y su liberación no represente un riesgo para la tranquilidad y seguridad públicas, el Ejecutivo podrá otorgar el indulto, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-I.- En los delitos políticos, según su prudencia y discreción; y
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
-
-II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva reinserción social.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
-
-También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciocho años.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
-
-No se podrá otorgar el indulto en favor del sentenciado por los delitos de abuso o violencia sexual contra menores, feminicidio, violación, violación equiparada, trata de personas, homicidio doloso, feminicidio, secuestro, desaparición forzada, delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho, delitos graves que determine la ley en contra del libre desarrollo de la personalidad, y de la salud, y no se trate de delitos imprescriptibles.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-106.- El indulto en ningún caso extinguirá la obligación de reparar el daño causado.
-
-107.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-108.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-109.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-110.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-111.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-112.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-113.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-114.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-115.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO V], P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 123.
 
@@ -6569,313 +6135,81 @@ El conocimiento de la actividad delictiva y la existencia de la misma se acredit
 
 ###### ARTICULO 1o.
 
-Este Código comenzará a regir a los noventa días de su publicación en el Periódico Oficial del Estado.
+La presente ley es de orden público e interés social y de observancia en toda la República. Sus disposiciones son irrenunciables y contra su observancia no podrán alegarse costumbres, usos, prácticas, convenios o estipulaciones en contrario.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+El objeto de esta ley es promover y proteger los derechos y cultura del consumidor y procurar la equidad, certeza y seguridad jurídica en las relaciones entre proveedores y consumidores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+Son principios básicos en las relaciones de consumo:
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. La protección de la vida, salud y seguridad del consumidor contra los riesgos provocados por productos, prácticas en el abastecimiento de productos y servicios considerados peligrosos o nocivos;
+
+II. La educación y divulgación sobre el consumo adecuado de los productos y servicios, que garanticen la libertad para escoger y la equidad en las contrataciones;
+
+III. La información adecuada y clara sobre los diferentes productos y servicios, con especificación correcta de cantidad, características, composición, calidad y precio, así como sobre los riesgos que representen;
+
+IV. La efectiva prevención y reparación de daños patrimoniales y morales, individuales o colectivos;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+V. El acceso a los órganos administrativos con vistas a la prevención de daños patrimoniales y morales, individuales o colectivos, garantizando la protección jurídica, económica, administrativa y técnica a los consumidores;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+VI. El otorgamiento de información y de facilidades a los consumidores para la defensa de sus derechos;
+
+VII. La protección contra la publicidad engañosa y abusiva, métodos comerciales coercitivos y desleales, así como contra prácticas y cláusulas abusivas o impuestas en el abastecimiento de productos y servicios;
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados;
+
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+XI. La libertad de constituir grupos u otras organizaciones de consumidores que, sin contravenir las disposiciones de esta ley, sean garantes de los derechos del consumidor.
+
+Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
 ###### ARTICULO 2o.
 
-Desde esa misma fecha queda derogado el Código Penal de 18 de Diciembre de 1943, así como todas las Leyes que se opongan a la presente; pero este Código deberá continuar aplicándose por los hechos ejecutados durante su vigencia, a menos que los acusados manifiesten su voluntad de acogerse al nuevo Ordenamiento.
+Para los efectos de esta ley, se entiende por:
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. Consumidor: la persona física o moral que adquiere, realiza o disfruta como destinatario final bienes, productos o servicios. Se entiende también por consumidor a la persona física o moral que adquiera, almacene, utilice o consuma bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, únicamente para los casos a que se refieren los artículos 99 y 117 de esta ley.
+
+Tratándose de personas morales que adquieran bienes o servicios para integrarlos en procesos de producción o de servicios a terceros, sólo podrán ejercer las acciones a que se refieren los referidos preceptos cuando estén acreditadas como microempresas o microindustrias en términos de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, respectivamente y conforme a los requisitos que se establezcan en el Reglamento de esta ley.
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+II. Proveedor: la persona física o moral en términos del Código Civil Federal, que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+III. Secretaría: la Secretaría de Economía, y
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IV. Procuraduría: la Procuraduría Federal del Consumidor.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 3o.
 
-Quedan vigentes las disposiciones de carácter penal contenidas en Leyes especiales en todo lo que no esté previsto en este Código.
-
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
-
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Oaxaca de Juárez, a 22 de octubre de 1979.
-
-PROFR. DAVID MAYREN RODRIGUEZ,
-
-Diputado Presidente.- Rúbrica.
-
-MARIA ELENA ALCALA DE RUEDA,
-
-Diputada Secretaria.- Rúbrica.
-
-LIC. CELESTINO CHAVEZ GUTIERREZ,
-
-Diputado Secretario.- Rúbrica.
-
-Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Oaxaca de Juárez, Oax., a 3 de Diciembre de 1979.
-
-GRAL. DE BGDA. D.E.M. ELISEO JIMENEZ RUIZ.- EL SECRETARIO GENERAL DEL DESPACHO.- LIC. ALBERTO CANSECO RUIZ.- Rúbricas.
-
-Y lo comunico a usted para su conocimiento y fines consiguientes.
-
-SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 3 de Diciembre de 1979.- EL SECRETARIO GENERAL DEL DESPACHO.- LIC. ALBERTO CANSECO RUIZ.- Rúbricas.
-
-Al C.........
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 30 DE OCTUBRE DE 1982.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE NOVIEMBRE DE 1982.
-
-PRIMERO.- Quedan derogadas todas las disposiciones del Código Penal de fecha 22 de octubre de 1979 que se opongan a las adiciones y reformas del presente decreto.
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 5 DE ENERO DE 1985.
-
-UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE DICIEMBRE DE 1987.
-
-PRIMERO: Este decreto deroga todas las disposiciones que se le opongan.
-
-SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 2 DE JULIO DE 1988.
-
-PRIMERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
-
-SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE AGOSTO DE 1994.
-
-ÚNICO.- Las presentes reformas, adiciones y derogaciones al Código Penal y Código de Procedimientos Penales del Estado Libre y Soberano de Oaxaca, entrarán en vigor el día cuatro de septiembre de mil novecientos noventa y cuatro previa su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 3 DE JUNIO DE 1995.
-
-PRIMERO. El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Los reos que se encuentren comprendidos en las hipótesis del artículo 97 del Código Penal, podrán solicitar al juez que pronunció la sentencia irrevocable, la concesión del beneficio de la condena condicional, y el juez, oyendo al Ministerio Público, resolverá lo que en derecho proceda.
-
-P.O. 15 DE JULIO DE 1995.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 30 DE SEPTIEMBRE DE 1995.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 19 DE ABRIL DE 1997.
-
-UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE OCTUBRE DE 1997.
-
-PRIMERO.- El presente Decreto entrara en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se Derogan las disposiciones que se opongan a la aplicación del presente Decreto.
-
-P.O. 7 DE FEBRERO DE 1998.
-
-PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
-
-P.O. 3 DE OCTUBRE DE 1998.
-
-PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
-
-TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
-
-P.O. 28 DE NOVIEMBRE DE 1998.
-
-DECRETO NÚM. 332, SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado; a excepción de lo dispuesto en la Fracción II del artículo 357 BIS, del Código Penal del Estado, que entrará en vigor noventa días después de su publicación.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
-
-TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente Decreto.
-
-P.O. 28 DE NOVIEMBRE DE 1998.
-
-DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL.
-
-PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el periódico oficial.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
-
-TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
-
-P.O. 26 DE FEBRERO DE 2000.
-
-UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
-
-P.O. 23 DE SEPTIEMBRE DE 2000.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 15 DE SEPTIEMBRE DE 2001.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
-
-P.O. 1 DE ABRIL DE 2002.
-
-UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 20 DE DICIEMBRE DE 2003.
-
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-Segundo.- Se derogan todas las disposiciones que se opongan a este decreto.
-
-Tercero.- La Exposición de Motivos se publicará en el Periódico Oficial junto con el Decreto.
-
-P.O. 12 DE ABRIL DE 2004.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 12 DE JUNIO DE 2004.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 18 DE MARZO DE 2006.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE SEPTIEMBRE DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor el día doce de septiembre del año dos mil seis. Publíquese en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Los adolescentes que no hayan cumplido los 18 años, a quienes se impute la comisión de conductas ilícitas, serán remitidos al Consejo de Tutela para Menores Infractores, para ser sujetos al sistema previsto por la Ley de Tutela Pública para Menores Infractores, hasta en tanto entra en vigor la Ley de Justicia para Adolescentes del Estado de Oaxaca.
-
-P.O. 16 DE AGOSTO DE 2008.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 21 DE NOVIEMBRE DE 2008.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE ABRIL DE 2009.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 14 DE SEPTIEMBRE DE 2009.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 23 DE ENERO DE 2010.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 6 DE FEBRERO DE 2010.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 2 DE OCTUBRE DE 2010.
-
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 7 DE ABRIL DE 2011.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 16 DE JUNIO DE 2011.
-
-PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Cuando el Código de Procedimientos Penales para el Estado de Oaxaca se refiera al reo, se entenderá que se trata del sentenciado.
-
-TERCERO.- Las personas que hubieren sido sentenciadas con antelación a la entrada en vigor del presente decreto, que se encuentren privadas de su libertad en centros de reinserción social, así como aquellas que estén restringidas de su libertad bajo alguna medida de seguridad, o que estén gozando del beneficio de la libertad anticipada, tratamiento preliberacional o semilibertad concedida en sentencia quedarán a disposición de la autoridad judicial para efectos de la ejecución técnica de la sentencia.
-
-CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades sobre ejecución, modificación y duración de las penas impuestas por la autoridad judicial, que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca, otorga a la Dirección de Reinserción Social, serán ejercidas por los Jueces de Ejecución de Sanciones.
-
-QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
-
-SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
-
-P.O. 23 DE SEPTIEMBRE DE 2011.
-
-DECRETO NÚM. 633 POR EL QUE SE REFORMAN LOS ARTÍCULOS 119, 122, 123, 217 BIS-E, 383 Y 406 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
-
-PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 23 DE SEPTIEMBRE DE 2011.
-
-DECRETO NÚM. 643 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO ÚNICO PARA DENOMINARSE CAPÍTULO I Y SE ADICIONA UN CAPÍTULO II, INTEGRADO CON LOS ARTÍCULOS 407, 408, 409 Y 410 AL TÍTULO VIGÉSIMO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 30 DE MAYO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 22 DE JUNIO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado.
-
-SEGUNDO.- La Comisión se integrará en un plazo de 60 días contados a partir de la entrada en vigor de la presente Ley. La Comisión expedirá el Reglamento de la Ley en un término de 180 días hábiles posteriores a su instalación.
-
-TERCERO.- La Comisión presentará el Programa en el plazo de un año, contado a partir de la entrada en vigor de la presente ley.
-
-CUARTO.- La Presente Ley deroga los delitos objetos de la misma del Código Penal para el Estado Libre y Soberano de Oaxaca.
-
-P.O. 29 DE JUNIO DE 2012.
-
-PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 4 DE OCTUBRE DE 2012.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
-
-TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
-
-P.O. 23 DE NOVIEMBRE DE 2012.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 9 DE DICIEMBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
-
-P.O. 20 DE DICIEMBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
-
-P.O. 18 DE ABRIL DE 2015.
-
-ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 7 DE MAYO DE 2015.
-
-PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y entrará en vigor en la forma y términos señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
-
-SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
-
-TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
-
-P.O. 19 DE MAYO DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 31 DE AGOSTO DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE OCTUBRE DE 2015.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO.- Remítase para su publicación correspondiente en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 26 DE OCTUBRE DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 30 DE ENERO DE 2016.
+A falta de competencia específica de determinada dependencia de la administración pública federal, corresponde a la Secretaría de Economía expedir las normas oficiales mexicanas previstas por la ley y a la Procuraduría vigilar se cumpla con lo dispuesto en la propia ley y sancionar su incumplimiento.
 
 ###### ARTICULO 4o.
 
@@ -6901,7 +6235,7 @@ Estarán obligados al cumplimiento de esta ley los proveedores y los consumidore
 
 Todo proveedor está obligado a informar y respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiera ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a persona alguna.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2010)</small>
 
@@ -6917,7 +6251,7 @@ La Procuraduría verificará que se respeten los precios máximos establecidos e
 
 Los proveedores están obligados a respetar el precio máximo y las tarifas establecidas conforme al párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ARTICULO 8 BIS.- La Procuraduría deberá fomentar permanentemente una cultura de consumo responsable e inteligente, entendido como aquel que implica un consumo consciente, informado, crítico, saludable, sustentable, solidario y activo, a fin de que los consumidores estén en la posibilidad de realizar una buena toma de decisiones, suficientemente informada, respecto del consumo de bienes y servicios, los efectos de sus actos de consumo, y los derechos que los asisten.
 
@@ -6951,13 +6285,15 @@ El consumidor que al adquirir un bien haya entregado una cantidad como depósito
 
 Sin perjuicio de lo dispuesto por la legislación fiscal, el proveedor, tiene obligación de entregar al consumidor factura, recibo o comprobante, en el que consten los datos específicos de la compraventa, servicio prestado u operación realizada.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
 La Procuraduría verificará a través de visitas, requerimientos de información o documentación, monitoreos, o por cualquier otro medio el cumplimiento de esta ley. Para efectos de lo dispuesto en este precepto, los proveedores, sus representantes o sus empleados están obligados a permitir al personal acreditado de la Procuraduría el acceso al lugar o lugares objeto de la verificación.
 
-Las autoridades, proveedores y consumidores están obligados a proporcionar a la Procuraduría, en un término no mayor de quince días, la información o documentación necesaria que les sea requerida para el cumplimiento de sus atribuciones, así como para sustanciar los procedimientos a que se refiere esta ley, excepto cuando se demuestre que la información requerida sea de estricto uso interno o no tenga relación con el procedimiento de que se trate. Dicho plazo podrá ser ampliado por una sola vez.
+Las autoridades, proveedores y consumidores están obligados a proporcionar a la Procuraduría, en un término no mayor de quince días, la información o documentación necesaria que les sea requerida para el cumplimiento de sus atribuciones, así como para sustanciar los procedimientos a que se refiere esta ley. Dicho plazo podrá ser ampliado por una sola vez.
+
+La Procuraduría considerará como información reservada, confidencial o comercial reservada aquella que establezca la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ###### ARTICULO 14.
 
@@ -6997,17 +6333,15 @@ La Procuraduría podrá llevar, en su caso, un registro público de consumidores
 
 ARTICULO 18 BIS.- Queda prohibido a los proveedores y a las empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios y a sus clientes, utilizar la información relativa a los consumidores con fines diferentes a los mercadotécnicos o publicitarios, así como enviar publicidad a los consumidores que expresamente les hubieren manifestado su voluntad de no recibirla o que estén inscritos en el registro a que se refiere el artículo anterior. Los proveedores que sean objeto de publicidad son corresponsables del manejo de la información de consumidores cuando dicha publicidad la envíen a través de terceros.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1372.- MEDIANTE EL CUAL SE MODIFICAN, REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 23 BIS A, INCISO C PÁRRAFO 32 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE MEDIACIÓN DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 32 DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
 
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-P.O. 26 DE MARZO DE 2016.
+D.O.F. 28 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1853.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 401 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR PARA EL AÑO DOS MIL DIECISIETE”.]
 
-UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 3 DE OCTUBRE DE 2016.
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2025.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 209 Y SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 241 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
