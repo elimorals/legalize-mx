@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2021-08-28"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -3211,9 +3211,9 @@ IV. Otras, en los términos del artículo 20 de la Constitución Federal.
 
 La Secretaría, impulsará las acciones necesarias para que el Estado y los Municipios, establezcan conjuntamente un servicio de asistencia telefónica para responder y orientar a la población en caso de emergencias, para que reciba los reportes sobre faltas y delitos de que tenga conocimiento y para la localización de personas y bienes.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-El servicio de asistencia telefónica operará de acuerdo con las bases previstas en los convenios de coordinación o en los Programas de Seguridad Pública bajo los números de emergencia y de denuncia anónima, que funcionarán de conformidad con el reglamento que al efecto se expida. Asimismo, también se establecerá un número de asistencia por vía de telefonía móvil gratuito.
+El servicio de asistencia telefónica operara de acuerdo con las bases previstas en los convenios de coordinación o en los Programas de Seguridad Pública bajo los números de emergencia y de denuncia anónima, que funcionaran de conformidad con el reglamento que al efecto se expida. Este servicio de asistencia telefónica también deberá brindar la atención en las lenguas indígenas del estado y al menos una lengua extranjera.
 
 ###### Artículo 189.
 
@@ -3458,3 +3458,11 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2726.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 188 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
