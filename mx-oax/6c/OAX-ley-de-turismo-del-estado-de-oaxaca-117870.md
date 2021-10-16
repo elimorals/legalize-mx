@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-09-18"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -273,11 +273,17 @@ XXIII. Implementar y mantener actualizado el Catálogo Turístico Estatal;
 
 XXIV. Dar aviso y en su caso, denunciar ante la Comisión Federal de Competencia, cuando en el Estado se presuma que se estén ejerciendo prácticas monopólicas por parte de los prestadores de servicios turísticos; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-XXV. Implementar campañas de difusión, así como promover acciones coordinadas con las autoridades competentes, tendientes a evitar el desperdicio de alimentos en los establecimientos hoteleros, restauranteros, y;
+XXV. Implementar campañas de difusión, así como promover acciones coordinadas con las autoridades competentes, tendientes a evitar el desperdicio de alimentos en los establecimientos hoteleros, restauranteros;
 
-XXVI. Las demás previstas en éste y otros ordenamientos.
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XXVI. Coadyuvar a la aplicación de los instrumentos de política ambiental y de cambio climático, en materia turística, y;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XXVII. Las demás previstas en esta Ley y otros ordenamientos.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -1114,6 +1120,14 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 18 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2650.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTICULO 9 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2776.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 7; Y SE ADICIONA LA FRACCIÓN XXVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
