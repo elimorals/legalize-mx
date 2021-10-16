@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "2020-12-19"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANO -- ANTES LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS-- DEL ESTADO DE OAXACA
 
-LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE OAXACA
+LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -51,7 +51,9 @@ Las disposiciones de la presente Ley regirán supletoriamente en materia de dere
 
 El Estado de Oaxaca tiene una composición étnica-plural sustentada en la presencia mayoritaria de sus pueblos y comunidades indígenas cuyas raíces culturales e históricas se entrelazan con las que constituyen la civilización mesoamericana; hablan una lengua propia; han ocupado sus territorios en forma continua y permanente; en ellos han construido sus culturas específicas, que es lo que los identifica internamente y los diferencia del resto de la población del Estado. Dichos pueblos y comunidades tienen existencia previa a la formación del estado de Oaxaca y fueron la base para la conformación política y territorial del mismo, por lo tanto tienen los derechos sociales que la presente Ley les reconoce.
 
-Esta Ley reconoce a los siguientes pueblos indígenas: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, Ixcatecos, Mazatecos, Mixes, Mixtecos, Nahuatls, Triquis, Zapotecos y Zoques, así como a las comunidades indígenas que conforman aquéllos pueblos y sus reagrupamientos étnicos, lingüísticos y culturales como es el caso de los Tacuates.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Esta Ley reconoce a los siguientes pueblos indígenas: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, Ixcatecos, Mazatecos, Mixes, Mixtecos, Nahuatls, Tacuates, Triquis, Zapotecos y Zoques, así como a las comunidades indígenas que conforman aquellos pueblos y sus reagrupamientos étnicos, lingüísticos y culturales.
 
 Las comunidades afroamericanas y los indígenas pertenecientes a cualquier otro pueblo procedentes de otro estado de la república y que residan temporal o permanente dentro del territorio del estado de Oaxaca, podrán acogerse a esta ley.
 
@@ -195,9 +197,11 @@ Los pueblos y comunidades indígenas tienen derecho al respeto pleno de la propi
 
 Los pueblos y comunidades indígenas, en los términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y de la Ley Estatal de Educación, tienen el derecho a revitalizar, utilizar, desarrollar y transmitir a las generaciones futuras por medio de la educación formal e informal sus historias, lenguas, tecnologías, tradiciones orales, filosofías, sistemas de escritura y literatura, así como a utilizar su toponimia propia en la designación de los nombres de sus comunidades, lugares y personas en sus propias lenguas y todo aquello que forme parte de su cultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-El Estado, por conducto de sus instancias educativas, garantizará que las niñas y los niños indígenas tengan acceso a la educación básica formal bilingüe e intercultural. Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas, en los términos del artículo 3º de la constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y de la Ley Estatal de Educación, tendrán derecho a establecer y participar en los sistemas educativos, para la implementación de la enseñanza en sus propias lenguas dentro del marco legal vigente.
+El Estado, por conducto de sus instancias educativas, garantizará que las niñas y los niños indígenas tengan acceso a la educación básica formal bilingüe e intercultural. Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas o quienes ejerzan la patria potestad, en los términos del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y de la Ley Estatal de Educación, tendrán derecho a establecer y participar en los sistemas educativos, para la implementación de programas y acciones que permitan la conservación, fortalecimiento, enseñanza y rescate de las lenguas indígenas del Estado, en coordinación con las instancias competentes y, dentro del marco legal vigente.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
 
@@ -538,3 +542,19 @@ P.O. 19 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1783.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 71 A LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XXIII Y XXIV Y SE ADICIONAN LAS FRACCIONES XXV Y XXVI, RECORRIÉNDOSE LA SUBSECUENTE, AL APARTADO A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2733.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 24 DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2734.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2° DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
