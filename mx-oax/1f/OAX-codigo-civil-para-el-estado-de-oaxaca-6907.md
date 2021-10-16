@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2021-10-09"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -837,7 +837,9 @@ Al escrito a que se refiere el Artículo anterior se acompañarán:
 
 I. Copia Certificada del Acta de Nacimiento o de algún documento expedido por Autoridad competente por el que se acredite la mayoría de edad e identidad, de cada uno de los pretendientes;
 
-II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2021)</small>
+
+II. Certificado de estar o no inscrito en el Registro de Deudores Alimentarios morosos;
 
 III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -1235,7 +1237,9 @@ I. Solicitud debidamente requisitada;
 
 II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
 
-III. Original y copia fotostática de su identificación oficial, y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+III. Original y copia fotostática de su identificación oficial, excepto cuando se trate de menores de edad, en cuyo caso se deberá presentar la identificación del padre, la madre o persona que tenga la custodia legal y;
 
 IV. Comprobante de domicilio.
 
@@ -1255,15 +1259,29 @@ Además de lo señalado en el artículo anterior, para el levantamiento del acta
 
 I. Ser de nacionalidad mexicana;
 
-II. Tener al menos dieciocho años de edad cumplidos.
+(NOTA: EL 15 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 174/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-III. Acudir ante la Oficialía del Registro Civil del Estado, para la comparecencia que al efecto corresponda.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+II. TENER AL MENOS DOCE AÑOS DE EDAD CUMPLIDOS;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+III. Acudir ante la Oficialía del Registro Civil del Estado, para la comparecencia que al efecto corresponda, tratándose de personas menores de edad, estas deberán ir acompañadas del padre y/o la madre o en su caso de la persona que tenga la custodia legal;
 
 IV. Manifestar el nombre completo y los datos registrales asentados en el acta primigenia;
 
 V. El nombre solicitado sin apellidos y, en su caso, el género solicitado.
 
 La autoridad llevará a cabo la revisión y cotejo de los documentos a que se refiere este artículo, en caso de estar cubiertos todos los requisitos señalados, tendrá verificativo una comparecencia de la persona solicitante ante el personal del Registro Civil correspondiente, en el cual manifieste, bajo protesta de decir verdad, que es su convicción personal cambiar su nombre o percibirse con un género diferente al que aparece en (sic) acta de nacimiento primigenia, por lo que solicita el levantamiento de una nueva acta de nacimiento con los cambios propuestos.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Tratándose de personas menores de edad, el Registro Civil con el apoyo de la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes de Oaxaca, deberá recabar su consentimiento en el que exteriorice su deseo y conozca los alcances del trámite.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Cuando por cualquier causa se niegue o sea imposible obtener el consentimiento del padre, la madre o la persona que tenga la custodia legal de la persona menor de edad, ésta podrá acudir ante la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes de Oaxaca, la cual deberá prestarle asistencia legal para recurrir a la vía jurisdiccional.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -2705,37 +2723,65 @@ Cuando alguna persona muera por motivo del desempeño de funciones o empleos pú
 
 ### CAPÍTULO III. Del registro de deudores alimentarios morosos
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-Artículo 336 Bis I.- Quien incumpla total o parcialmente, con la obligación alimentaria ordenada por mandato judicial o establecida mediante convenio judicial, por un período de dos meses o haya dejado de cubrir cuatro pensiones sucesivas dentro de un período de dos años, se constituirá en deudor alimentarios (sic) moroso. El Juez de lo Familiar ordenará su inscripción en el Registro de Deudores Alimentarios Morosos.
+Artículo 336 Bis I.- Quien incumpla total o parcialmente, con la obligación alimentaria ordenada provisional o definitivamente por la autoridad judicial o establecida mediante convenio judicial, por un período de treinta días naturales se constituirá en deudor alimentario moroso. El juez o jueza ordenará su inscripción en el Registro de Deudores Alimentarios Morosos remitiendo dentro de los tres días copia certificada del auto o sentencia para tal efecto.
 
-El deudor alimentario moroso que acredite ante el Juez de conocimiento, que se encuentra al corriente del pago de alimentos a que se refiere el párrafo anterior, podrá solicitar la cancelación de la inscripción correspondiente.
+El deudor alimentario moroso que acredite ante la autoridad judicial de conocimiento, que se encuentra al corriente del pago de alimentos a que se refiere el párrafo anterior, podrá previo pago de derechos al estado, solicitar la cancelación de la inscripción correspondiente.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-Artículo 336 Bis II.- En el Registro de deudores alimentarios morosos se inscriben a las personas que el Juez de lo Familiar determina en términos del artículo anterior. Serán objeto de registro los empleadores que incumplan una orden de descuento para alimentos ordenada por el órgano jurisdiccional.
+Artículo 336 Bis II.- La Dirección del Registro Civil del Estado de Oaxaca, a través de la Unidad Administrativa tendrá a su cargo la creación y manejo del registro de deudores alimentarios morosos; y estará facultado para expedir un certificado que informe si una persona se encuentra inscrita o no en el Registro de Deudores Alimentarios Morosos.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+La Unidad del Registro de Deudores Alimentarios Morosos hará público en la plataforma digital o en el portal electrónico oficial del Registro Civil, el nombre de las personas deudoras alimentarias morosas que se encuentren inscritas en éste.
 
-Artículo 336 Bis III.- La unidad de registro de deudores alimentarios morosos, es un área administrativa del Registro Civil, quien tendrá a su cargo la creación y manejo del registro de deudores alimentarios morosos.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-Es facultad del Registro Civil la expedición del certificado a que refiere el artículo 336 Bis V de este Código.
+Artículo 336 Bis III.- La jueza o juez ordenará al Instituto de la Función Registral del Estado de Oaxaca que haga la anotación marginal en los bienes propiedad de la persona deudora alimentaria morosa, el Instituto informará sobre la procedencia de la anotación.
+
+La anotación marginal a la que hace referencia el párrafo anterior, quedará exenta de pago de derechos al estado.
+
+La Dirección del Registro Civil deberá celebrar convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información de las personas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos.
+
+También deberá celebrar convenios con las entidades públicas y los municipios para que brinde información de aquellas personas físicas proveedoras de servicios y las morales representadas o asociadas por personas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos en términos de la ley de la materia.
+
+La jueza o juez deberá dar vista al Ministerio Público y a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público de las personas deudoras alimentarias morosas, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 Artículo 336 Bis IV.- El Registro de Deudores Alimentarios Morosos contendrá:
 
-I. Nombre y Clave Única del Registro de Población del deudor alimentario;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2021)</small>
 
-II. Nombre del acreedor o acreedores alimentarios;
+I. Nombre completo del deudor alimentario;
 
-III. Datos del acta que acredite el vínculo entre el deudor y acreedor alimentario, en su caso;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-IV. Monto de la pensión decretada o convenida, en su caso, número de pagos incumplidos y monto del adeudo alimentario;
+II. La Clave única de registro de población del deudor alimentario;
 
-V. Órgano jurisdiccional que ordenó el registro;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-VI. Datos del expediente jurisdiccional de la que deriva su inscripción.
+III. Nombre del acreedor o de los acreedores alimentarios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2021)</small>
+
+IV. Datos del acta que acredite el vínculo entre el deudor y acreedor alimentario, en su caso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2021)</small>
+
+V. Monto de la pensión decretada o convenida, en su caso, número de pagos incumplidos y monto del adeudo alimentario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VI. Número de pagos incumplidos y monto del adeudo alimentario;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VII. Órgano Jurisdiccional que ordenó el registro;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VIII. Datos del expediente jurisdiccional de la que deriva su inscripción.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
@@ -2747,23 +2793,37 @@ II. Número de acreedores alimentarios;
 
 III. Monto de la pensión alimenticia decretada o convenida;
 
-IV. Órgano jurisdiccional que ordenó el registro;
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-V. Datos del expediente jurisdiccional de la que deriva su inscripción.
+IV. Número de pagos incumplidos y monto del adeudo alimentario;
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+V. Órgano jurisdiccional que ordenó el registro;
 
-Artículo 336 Bis VI.- Una vez que haya sido liquidado el monto de las pensiones adeudadas, el Juez de conocimiento podrá ordenar a petición de parte interesada, la cancelación tanto de la inscripción en el registro de deudores alimentarios como la inscripción del Instituto de la Función Registral, la cual se tramitará de manera incidental.
+VI. Datos del expediente jurisdiccional de la que deriva su inscripción.
 
-La cancelación de la inscripción del registro de deudor alimentario procederá cuando haya cesado la obligación alimentaria.
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+La expedición del certificado a favor de personas acreedores (sic) alimentarias quedará exenta del pago de los derechos estatales.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Artículo 336 Bis VI.- La cancelación a la inscripción en el Registro de Deudores Alimentarios Morosos procede cuando el deudor demuestre ante la autoridad judicial que ha cumplido con su obligación alimentaria y que la misma se encuentra garantizada; para la cual la jueza o juez ordenará su cancelación, misma que se tramitará de manera incidental.
+
+Procederá también la cancelación de la inscripción del registro de deudor alimentario cuando haya cesado la obligación alimentaria.
+
+Hecha la cancelación se hará de (sic) conocimiento del Instituto de la Función Registral para que realice la anotación correspondiente.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 Artículo 336 Bis VII.- La inscripción en el Registro de Deudores Alimentarios Morosos tendrá los efectos siguientes:
 
-I. Inscribir en el Instituto de la Función Registral la cantidad adeudada en los bienes del deudor alimentario.
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-II. Garantizar la preferencia en el pago de deudas alimentarias.
+I. Constituirá prueba plena en los delitos que atentan contra la obligación alimentaria.
+
+II. Inscribir en el Instituto de la Función Registral la cantidad adeudada en los bienes del deudor alimentario.
+
+III. Garantizar la preferencia en el pago de deudas alimentarias.
 
 Queda exento el pago de derechos de inscripción a que refiere este artículo en el Instituto de la Función Registral.
 
@@ -3351,13 +3411,17 @@ II. Que el o los adoptantes tienen medios económicos bastantes para proveer a l
 
 III. Que el adoptante sea persona de buenas costumbres;
 
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+IV. Certificado de no estar inscrita en el Registro de Deudores Alimentarios Morosos;
+
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
-IV. La carta de idoneidad emitida por el Sistema para el Desarrollo Integral de la Familia;
+V. La carta de idoneidad emitida por el Sistema para el Desarrollo Integral de la Familia;
 
-V. Deberá justificar que la adopción sea benéfica para los menores o incapacitados que tratan de adoptarse;
+VI. Deberá justificar que la adopción sea benéfica para los menores o incapacitados que tratan de adoptarse;
 
-VI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2010)
+VII. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2010)
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
@@ -12569,6 +12633,10 @@ I. Si el donatario comete algún delito contra la persona, la honra o los bienes
 
 II. Si el donatario rehusa socorrer, según el valor de la donación, al donante que ha venido a pobreza.
 
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+III. Si el donante fuera adulto mayor, y quienes tuvieran la obligación de otorgar alimentos no lo hicieran.
+
 ###### Artículo 2246.
 
 Es aplicable a la revocación por ingratitud, de las donaciones, lo dispuesto en los artículos 2236 al 2239.
@@ -17038,3 +17106,31 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 TERCERO.- Se establece un plazo de ciento ochenta días naturales, a partir de la entrada en vigor de la presente reforma, para que la Consejería Jurídica del Gobierno del Estado, coordine, organice y supervise el ejercicio y funcionamiento de la Dirección del Registro Civil, en cuanto a la aplicación de la presente reforma.
 
 CUARTO.- Se establece un plazo ciento ochenta días naturales a partir de la entrada en vigor de la presente reforma, para que la Dirección del Registro Civil, realice las adecuaciones y reformas correspondientes a su Reglamento Interno, relacionadas con la presente reforma.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2706.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 100, EL ARTÍCULO 336 BIS I, EL ARTÍCULO 336 BIS II, EL ARTÍCULO 336 BIS III, EL ARTÍCULO 336 BIS IV Y EL ARTÍCULO 336 BIS VI; Y SE ADICIONA LA FRACCIÓN IV RECORRIÉNDOSE LAS SUBSECUENTES Y EL SEGUNDO PÁRRAFO AL ARTÍCULO 336 BIS V, LA FRACCIÓN I RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 336 BIS VII Y LA FRACCIÓN IV RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 411 BIS TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- El Congreso del Estado dentro del plazo de treinta días naturales a la entrada en vigor del presente Decreto realizará las modificaciones a la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca, en términos del presente Decreto.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2727.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 137 TER, LAS FRACCIONES II Y III DEL ARTÍCULO 137 QUÁTER; Y SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 137 QUÁTER DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2730.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 2245 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
