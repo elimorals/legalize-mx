@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2021-05-22"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -87,7 +87,9 @@ IV.- Contraloría: La Secretaría de la Contraloría y Transparencia Gubernament
 
 V.- COPLADE: Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
-VI.- Organo de Control Interno: Contralores internos en los gobiernos municipales;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VI.- Órganos Internos de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -213,9 +215,11 @@ La Contraloría llevará el control de todos los procesos de las obras públicas
 
 La Contraloría podrá celebrar convenios con los diferentes Ayuntamientos, que lleguen a contratar obra para que pueda llevar a cabo las funciones de control, en sus especies: vigilancia, supervisión, verificación y evaluación, conforme a lo establecido por el artículo precedente.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por los Órganos de Control Interno Municipal, cuando las obras públicas se realicen por los Ayuntamientos con sus propios recursos.
+Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por los Órganos Internos de Control Municipal, cuando las obras públicas se realicen por los Ayuntamientos con sus propios recursos.
 
 ###### Artículo 15.
 
@@ -529,7 +533,9 @@ III.- La junta de aclaraciones podrá celebrarse en la misma fecha de la visita 
 
 IV.- La recepción de propuestas técnicas y económicas deberá efectuarse en un plazo máximo de diez días naturales posteriores a la fecha de la celebración de la junta de aclaraciones.
 
-La Contraloría, y en su caso el Organo de Control Interno, vigilará y supervisará el estricto cumplimiento del procedimiento citado.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+La Contraloría, y en su caso el Órgano Interno de Control, vigilará y supervisará el estricto cumplimiento del procedimiento citado.
 
 Los titulares de las Dependencias, Entidades y el Presidente Municipal, según el caso, podrán ampliar hasta cuarenta días naturales, entre la fecha de publicación de la convocatoria hasta la presentación de proposiciones y apertura técnica, o reducir a un mínimo de diez días naturales, contados apartir (sic) de la fecha de la publicación, los plazos señalados en el presente artículo por causas debidamente justificadas y al efecto emitirán un acuerdo en el que se funde y motive su determinación.
 
@@ -559,9 +565,11 @@ IX.- La información sobre los porcentajes a otorgar por concepto de anticipos; 
 
 X.- Los criterios generales conforme a los cuales se adjudicará el contrato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 31.
 
-La convocatoria y las bases para las licitaciones públicas, se elaborarán por las Dependencias, Entidades o Ayuntamientos convocantes, enviándolas para su revisión a la Contraloría conforme a lo dispuesto por el artículo 33 de la presente Ley, en el caso de los Ayuntamientos, estos las realizarán por conducto de su Órgano de Control Interno o equivalente, pudiendo solicitar asesoría a la Contraloría para tal efecto; poniendo dichas bases a disposición de los interesados en estricta conformidad con las fechas señaladas al respecto en las propias convocatorias, conteniendo como mínimo:
+La convocatoria y las bases para las licitaciones públicas, se elaborarán por las Dependencias, Entidades o Ayuntamientos convocantes, enviándolas para su revisión a la Contraloría conforme a lo dispuesto por el artículo 33 de la presente Ley, en el caso de los Ayuntamientos, estos las realizarán por conducto de su Órgano Interno de Control o equivalente, pudiendo solicitar asesoría a la Contraloría para tal efecto; poniendo dichas bases a disposición de los interesados en estricta conformidad con las fechas señaladas al respecto en las propias convocatorias, conteniendo como mínimo:
 
 I.- Nombre y denominación de la convocante;
 
@@ -641,9 +649,11 @@ XI.- Las que por sí o a través de empresas que formen parte del mismo grupo em
 
 XII.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-Las convocatorias y bases de la licitación deberán ser puestas a disposición de la Contraloría y de Órgano de Control Interno, respectivamente; con un mínimo de cinco días hábiles de anticipación a la publicación de la convocatoria, para que éstos hagan las observaciones que consideren pertinentes. Será motivo de responsabilidad el silencio de la Contraloría y de los Órganos de Control Interno.
+Las convocatorias y bases de la licitación deberán ser puestas a disposición de la Contraloría y del Órgano Interno de Control, respectivamente; con un mínimo de cinco días hábiles de anticipación a la publicación de la convocatoria, para que éstos hagan las observaciones que consideren pertinentes. Será motivo de responsabilidad el silencio de la Contraloría y de los Órganos Internos de Control.
 
 ###### Artículo 34.
 
@@ -749,7 +759,9 @@ En el dictamen se señalará quien es el contratista cuya oferta presenta las me
 
 En la junta pública en la que se de a conocer el fallo de la licitación, se levantará el acta correspondiente, la cual será firmada por los asistentes, entregándoseles copia de la misma. La omisión de firma de los contratistas no invalidará el contenido y efectos del acta. Si a quien se le haya adjudicado el contrato no esta presente, se le notificará el fallo correspondiente en un plazo no mayor de tres días hábiles.
 
-Se podrá optar por comunicar el fallo a los participantes, mediante escrito con acuse de recibo o bien colocar un anuncio en la tabla de avisos de la convocante, siempre que así se hubiere señalado en las bases correspondientes. En ambos casos se comunicará el resultado por escrito a la Contraloría, o al Órgano de Control Interno respectivamente; en un plazo no mayor a cinco días posteriores a la emisión del fallo.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Se podrá optar por comunicar el fallo a los participantes, mediante escrito con acuse de recibo o bien colocar un anuncio en la tabla de avisos de la convocante, siempre que así se hubiere señalado en las bases correspondientes. En ambos casos se comunicará el resultado por escrito a la Contraloría, o al Órgano Interno de Control respectivamente; en un plazo no mayor a cinco días posteriores a la emisión del fallo.
 
 Contra la resolución que contenga el fallo, no procederá recurso alguno, pero los participantes podrán inconformarse en los términos del artículo 87 de esta Ley.
 
@@ -795,7 +807,9 @@ II.- Los interesados que acepten participar lo manifestarán por escrito y queda
 
 III.- Los plazos para la presentación de las propuestas, se fijarán para cada operación de manera discrecional por la Dependencia, Entidad o Ayuntamiento convocante, atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos a ejecutarse;
 
-IV.- La apertura de los sobres podrá llevarse a cabo sin la presencia de los participantes, sin embargo deberá invitarse a un representante de la Contraloría o del Órgano de Control Interno del Ayuntamiento en dicho acto;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+IV.- La apertura de los sobres podrá llevarse a cabo sin la presencia de los participantes, sin embargo, deberá invitarse a un representante de la Contraloría o del Órgano Interno de Control del Ayuntamiento en dicho acto;
 
 V.- Obligatoriamente la convocante deberá elaborar el cuadro de análisis comparativo de las propuestas y verificará que estas cumplan con los requisitos exigidos en la respectiva invitación, desechando aquellas que no cumplan con los mismos. De la misma forma elaborará un dictamen de las proposiciones, el cual contendrá los razonamientos técnicos, económicos y legales que sustenten el fallo correspondiente; dicho fallo será notificado de manera personal a los participantes;
 
@@ -991,9 +1005,9 @@ II.- En caso de rescisión del contrato por causas imputables al contratista, la
 
 III.- Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá suspender la obra. En este supuesto, si opta por la terminación anticipada del contrato, deberá presentar su solicitud a la Dependencia, Entidad o Ayuntamiento, quien resolverá dentro de los veinte días naturales siguientes a la recepción de la misma; en caso de negativa será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-En los casos de las fracciones anteriores los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano de Control Interno y del OSFE.
+En los casos de las fracciones anteriores, los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano Interno de Control y del OSFE.
 
 ## TITULO QUINTO. DE LA EJECUCION DE LA OBRA
 
@@ -1045,9 +1059,11 @@ IV.- Prever la asesoría de especialistas en las partes de la obra que lo requie
 
 ### CAPITULO I. DE LA ENTREGA Y RECEPCION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 64.
 
-El contratista comunicará a la Dependencia, Entidad o Ayuntamiento, la terminación de los trabajos que fueron materia del contrato y que tenía encomendados, estas verificarán que los mismos estén debidamente concluidos dentro de los veinte días siguientes al de la comunicación, salvo que al efecto fuese señalado un plazo diferente; dichos trabajos deberán ser recibidos por los contratantes y al efecto se deberá informar a la Contraloría o al Órgano de Control Interno con diez días de anticipación el lugar, la fecha y hora, en que se efectuará la recepción de los trabajos.
+El contratista comunicará a la Dependencia, Entidad o Ayuntamiento, la terminación de los trabajos que fueron materia del contrato y que tenía encomendados, estas verificarán que los mismos estén debidamente concluidos dentro de los veinte días siguientes al de la comunicación, salvo que al efecto fuese señalado un plazo diferente; dichos trabajos deberán ser recibidos por los contratantes y al efecto se deberá informar a la Contraloría o al Órgano Interno de Control con diez días de anticipación el lugar, la fecha y hora, en que se efectuará la recepción de los trabajos.
 
 La entrega y recepción de la obra no exime al contratista de la responsabilidad por defectos o vicios ocultos que tenga la misma, en los términos de las leyes respectivas, por lo que en el momento de celebrarse la entrega se deberá exhibir fianza que garantice los vicios ocultos de la obra, la cual tendrá una vigencia de doce meses.
 
@@ -1089,9 +1105,11 @@ I.- Se trate de servicios profesionales de investigación, consultoría, asesor�
 
 II.- Se haya revisado que en los archivos de las Dependencias, Entidades o Ayuntamientos afines, no se encuentre ningún proyecto adecuado sobre la materia; de existir alguno se abstendrán de contratar estudios o proyectos, salvo que estos se consideren incompletos o deficientes, en cuyo caso se podrá hacer la contratación tomando en cuenta lo que aporten los ya realizados para todos sus efectos.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 69.
 
-El acuerdo de adjudicación a que se refiere el artículo anterior, deberá contener en lo conducente los requisitos establecidos en el Título Cuarto, Capítulo Primero de esta Ley, de dicho acuerdo quedará un ejemplar para el titular de la Dependencia, para el Órgano de Gobierno en el caso de las Entidades y para el cabildo en el caso de los Ayuntamientos, debiéndose remitir un ejemplar a la Contraloría y al Órgano de Control Interno dentro de los cinco días hábiles siguientes a su expedición, para los efectos legales a que haya lugar.
+El acuerdo de adjudicación a que se refiere el artículo anterior, deberá contener en lo conducente los requisitos establecidos en el Título Cuarto, Capítulo Primero de esta Ley, de dicho acuerdo quedará un ejemplar para el titular de la Dependencia, para el Órgano de Gobierno en el caso de las Entidades y para el cabildo en el caso de los Ayuntamientos, debiéndose remitir un ejemplar a la Contraloría y al Órgano Interno de Control dentro de los cinco días hábiles siguientes a su expedición, para los efectos legales a que haya lugar.
 
 ###### Artículo 70.
 
@@ -1107,11 +1125,11 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo 68 
 
 Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la Secretaría, a la Contraloría y al OSFE según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 72.
 
-La Secretaría, la Contraloría y el Órgano de Control Interno, en el ámbito de sus respectivas competencias podrán realizar las visitas, inspecciones y verificaciones, que estimen pertinentes a las obras publicas que estén realizando las Dependencias, Entidades y Ayuntamiento; así como solicitar a los servidores públicos de la misma y a los contratistas, en su caso, todos los datos e informes relacionados con las obras en mención, con el fin de constatar que estas se realicen conforme a lo establecido en esta Ley, otras disposiciones aplicables y convenios celebrados, así como con los programas y presupuestos autorizados.
+La Secretaría, la Contraloría y el Órgano Interno de Control, en el ámbito de sus respectivas competencias podrán realizar las visitas, inspecciones y verificaciones, que estimen pertinentes a las obras publicas que estén realizando las Dependencias, Entidades y Ayuntamiento; así como solicitar a los servidores públicos de la misma y a los contratistas, en su caso, todos los datos e informes relacionados con las obras en mención, con el fin de constatar que estas se realicen conforme a lo establecido en esta Ley, otras disposiciones aplicables y convenios celebrados, así como con los programas y presupuestos autorizados.
 
 Para realizar las verificaciones aludidas, la instancia competente deberá expedir orden por escrito, en la que acredite al personal que las llevarán a cabo, especificando la obra de que se trate.
 
@@ -1125,9 +1143,11 @@ Para efectos del artículo anterior, las Dependencias, Entidades o los Ayuntamie
 
 Las Dependencias, Entidades o Ayuntamientos ejecutores, tendrán la obligación de supervisar y vigilar todo el proceso constructivo de la obra pública a su cargo. Para tal efecto, cuando existan dudas sobre la interpretación o aplicación de las normas de supervisión y control, procederán a solicitar a la Secretaría o a la Contraloría la consulta correspondiente a efecto de que éstas de inmediato emitan su criterio de interpretación y aplicación de dichas normas.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 75.
 
-Las Dependencias, Entidades y Ayuntamientos contratantes, así como los contratistas, tienen la obligación de proporcionar a la Contraloría o al Órgano de Control Interno según corresponda, toda aquella documentación generada con motivo de la contratación y ejecución de las obras públicas a su cargo, a fin de que se lleve a cabo la fiscalización correspondiente.
+Las Dependencias, Entidades y Ayuntamientos contratantes, así como los contratistas, tienen la obligación de proporcionar a la Contraloría o al Órgano Interno de Control según corresponda, toda aquella documentación generada con motivo de la contratación y ejecución de las obras públicas a su cargo, a fin de que se lleve a cabo la fiscalización correspondiente.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -1205,11 +1225,11 @@ V.- La resolución emitida deberá ser notificada de manera personal al infracto
 
 Ese mismo procedimiento se deberá observar para la rescisión de los contratos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 84.
 
-Cuando la Secretaría, la Contraloría o el Órgano de Control Interno, tengan conocimiento de que alguna Dependencia, Entidad o Ayuntamiento, no se ajusta a las disposiciones de esta ley, procederán en el ámbito de su respectiva competencia de la manera siguiente:
+Cuando la Secretaría, la Contraloría o el Órgano Interno de Control, tengan conocimiento de que alguna Dependencia, Entidad o Ayuntamiento, no se ajusta a las disposiciones de esta ley, procederán en el ámbito de su respectiva competencia de la manera siguiente:
 
 I.- Comunicarán, por escrito a la Dependencia, Entidad o al Ayuntamiento ejecutor de la obra pública, la existencia de la infracción, precisando en que consiste ésta y solicitando las aclaraciones pertinentes, hecho lo cual si procede, indicará al infractor las medidas que se deberán tomar para corregir tal situación, señalando un plazo prudente para su cumplimiento;
 
@@ -1237,7 +1257,9 @@ Los contratistas que se encuentren en los supuestos de las fracciones VI, VII, V
 
 Las personas interesadas podrán inconformarse por escrito ante la Contraloría o ante el OSFE, por los actos que contravengan las disposiciones contenidas en esta Ley, dentro de los diez días hábiles siguientes a aquel en que estos ocurran o se notifiquen al inconforme del acto impugnado.
 
-Lo anterior sin perjuicio de que las personas interesadas previamente manifiesten a las Delegaciones de la Contraloría o a los Órganos de Control Interno según corresponda, las irregularidades que a su juicio se hayan cometido en el procedimiento de contratación, a fin de que dichas irregularidades se corrijan.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Lo anterior sin perjuicio de que las personas interesadas previamente manifiesten a los Órganos Internos de Control según correspondan, las irregularidades que a su juicio se hayan cometido en el procedimiento de contratación, a fin de que dichas irregularidades se corrijan.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -1590,3 +1612,11 @@ P.O. 22 DE MAYO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los Ayuntamientos contarán con 60 días después de que entre en vigor el presente Decreto, para actualizar su norma respectiva.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2758.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 3, ARTÍCULO 14, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 29, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL ARTÍCULO 33, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 40, LA FRACCIÓN IV DEL ARTÍCULO 44, EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 59, PRIMER PÁRRAFO DEL ARTÍCULO 64, EL ARTÍCULO 69, EL PRIMER PÁRRAFO DEL ARTÍCULO 72; EL PRIMER PÁRRAFO DEL ARTÍCULO 75, EL ARTÍCULO 84, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 87 DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
