@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2020-01-18"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -85,7 +85,9 @@ XI. Software Libre y de Código Abierto.
 
 La presente Ley tiene los siguientes objetivos específicos:
 
-I. Establecer los principios y criterios que el Estado aplicará para impulsar y fortalecer las actividades científicas y tecnológicas que realicen personas o instituciones públicas, privadas o sociales;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+I. Establecer los principios y criterios que el Estado aplicará para impulsar y fortalecer las actividades científicas y tecnológicas que realicen personas, pueblos y comunidades indígenas o instituciones públicas, privadas o sociales;
 
 II. Determinar los instrumentos mediante los cuales el Gobierno del Estado apoyará la investigación científica y tecnológica;
 
@@ -95,9 +97,13 @@ III. Establecer el Programa de Ciencia, Tecnología e Innovación para el Estado
 
 IV. Crear el Fondo Estatal de Ciencia y Tecnología;
 
-V. Establecer los mecanismos para vincular la investigación científica y tecnológica con la educación en el Estado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-VI. Estimular y reconocer la actividad científica y tecnológica; y
+V. Establecer los mecanismos para vincular la investigación científica y tecnológica; así como los conocimientos comunitarios con la educación en el Estado;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+VI. Estimular y reconocer la actividad científica y tecnológica, así como los conocimientos comunitarios;
 
 VII. Generar mecanismos de vinculación entre los sectores productivos y sociales con la actividad científica y tecnológica de las instituciones de educación superior y centros de investigación, públicos y privados.
 
@@ -167,9 +173,17 @@ XVI. Los incentivos que se otorguen deberán reconocer los logros sobresalientes
 
 XVII. La conservación, consolidación, actualización y crecimiento de la infraestructura de investigación y desarrollo existente, deberá estar orientada a facilitar el quehacer científico y tecnológico, así como la creación de nuevos centros de investigación científica, desarrollo e innovación tecnológica, cuando éstos sean necesarios;
 
-XVIII. La creación y fortalecimiento de espacios destinados a fomentar, difundir y divulgar la actividad científica y tecnológica, estarán orientados, preferentemente, a promover una cultura científica entre la niñez y la juventud; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-XIX. Toda opinión, propuesta o sugerencia que emita la sociedad durante los procesos de consulta en materia de políticas y programas de investigación científica, desarrollo e innovación tecnológica, serán sistematizadas, evaluadas y consideradas en lo pertinente.
+XVIII. La creación y fortalecimiento de espacios destinados a fomentar, difundir y divulgar la actividad científica y tecnológica, estarán orientados, preferentemente, a promover una cultura científica entre la niñez y la juventud;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XIX. Toda opinión, propuesta o sugerencia que emita la sociedad durante los procesos de consulta en materia de políticas y programas de investigación científica, desarrollo e innovación tecnológica, serán sistematizadas, evaluadas y consideradas en lo pertinente, y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XX. El reconocimiento, inclusión, promoción, fomento y apoyo de los conocimientos comunitarios, como parte de la (sic) políticas e instrumentos de ciencia y tecnología en el Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2017)</small>
 
@@ -249,7 +263,9 @@ El Consejo Oaxaqueño de Ciencia, Tecnología e Innovación tendrá las funcione
 
 I. Elaborar y ejecutar el Programa de Ciencia, Tecnología e Innovación para el Estado de Oaxaca;
 
-II. Impulsar y fomentar el desarrollo científico y tecnológico en el Estado, tomando en cuenta los criterios que establece esta Ley;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+II. Impulsar y fomentar el desarrollo científico y tecnológico; así como los conocimientos comunitarios en el Estado, tomando en cuenta los criterios que establece esta Ley;
 
 III. Promover la realización de los programas de investigación científica y tecnológica, vinculados a los objetivos de desarrollo económico y social en el Estado;
 
@@ -261,9 +277,9 @@ V. Promover la capacitación, especialización y actualización de conocimientos
 
 VI. Promover y gestionar el otorgamiento de becas para estudios de educación superior en áreas científicas y tecnológicas en el país y en el extranjero;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-VII. Promover, crear y otorgar reconocimientos y estímulos de investigación, a personas físicas y morales que se distingan por su excelente desempeño sobresaliente en la materia, así como, aquellas que contribuyan al rescate y a la protección del medio ambiente;
+VII. Promover, crear y otorgar reconocimientos y estímulos de investigación, a personas físicas, morales o pueblos y comunidades indígenas que se distingan por su excelente desempeño sobresaliente en la materia, así como aquellas que contribuyan al rescate y a la protección del medio ambiente;
 
 VIII. Fomentar y fortalecer la investigación científica y tecnológica, promoviendo acciones concertadas entre los sectores público y privado, instituciones de educación superior y centros de investigación;
 
@@ -567,7 +583,9 @@ d) Vinculación de la ciencia y tecnología con otros ámbitos;
 
 e) Promoción en su caso, de programas y proyectos con enfoque y recursos binacionales e internacionales, que estimulen las actividades y productividad científicas en Oaxaca; y
 
-f) Difusión del conocimiento científico y tecnológico;
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+f) Difusión del conocimiento científico y tecnológico, así como los conocimientos comunitarios;
 
 IV. Las áreas y líneas de investigación científica y tecnológica que se consideren prioritarias;
 
@@ -773,7 +791,9 @@ La incidencia de la ciencia, tecnología e innovación en el desarrollo sociocul
 
 El Gobierno del Estado promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles de la educación, principalmente en la educación básica.
 
-Los municipios del Estado, en el ámbito de sus competencias, podrán establecer en sus Planes Municipales de Desarrollo, las políticas, estrategias y programas para el fomento, divulgación y difusión de la investigación científica la ciencia y el desarrollo tecnológico.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Los municipios del Estado, en el ámbito de sus competencias, podrán establecer en sus Planes Municipales de Desarrollo, las políticas, estrategias para el fomento, divulgación y difusión de la investigación científica la ciencia y el desarrollo tecnológico, así como los conocimientos comunitarios.
 
 Así también, de acuerdo a la suficiencia presupuestal correspondiente, fijarán los recursos necesarios para la realización de las actividades para el cumplimiento de esta Ley.
 
@@ -942,3 +962,13 @@ P.O. 18 DE ENERO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2710.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I, V Y VI DEL ARTÍCULO 3, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 5, LAS FRACCIONES II Y VII DEL ARTÍCULO 8; EL INCISO F) DE LA FRACCIÓN III DEL ARTÍCULO 28, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47; Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 5 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
