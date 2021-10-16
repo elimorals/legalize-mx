@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2021-08-28"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -87,7 +89,9 @@ XIV. Diputado: Las Diputadas y a los Diputados del Honorable Congreso del Estado
 
 XV. Gaceta Parlamentaria: La publicación a través de la cual se difunden el orden del día, las actividades, comunicaciones, documentos o acuerdos relacionados con el Congreso y la actividad legislativa.
 
-XVI. Grupo Parlamentario: Forma de organización que adoptan los Diputados con igual filiación partidista, estableciendo el mínimo de dos integrantes para ser constituido, con objeto de coadyuvar al mejor desarrollo del proceso legislativo, y contribuir a orientar y estimular la formación de criterios comunes en las deliberaciones en que participen sus integrantes.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+XVI. Grupo Parlamentario: Forma de organización que adoptan los Diputados con igual filiación partidista, estableciendo el mínimo de tres integrantes para ser constituido, con objeto de coadyuvar al mejor desarrollo del proceso legislativo, y contribuir a orientar y estimular la formación de criterios comunes en las deliberaciones en que participen sus integrantes.
 
 XVII. Iniciativa preferente: La que presenta el Titular del Poder Ejecutivo del Estado en términos de lo dispuesto por el artículo 51, párrafo segundo de la Constitución Local.
 
@@ -2976,5 +2980,13 @@ P.O. 28 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2613. MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2703.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 3, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 80; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 80, AMBOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 3 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor a partir del día 13 de noviembre del 2021.
 
 SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
