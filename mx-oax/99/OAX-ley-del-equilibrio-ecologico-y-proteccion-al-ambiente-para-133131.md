@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2021-10-09"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -2665,6 +2665,10 @@ V. La información correspondiente a las declaraciones, registros, programas y a
 
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas y de trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, que se realicen en el Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+La Secretaría en coordinación con la Secretaría de Salud en el Estado, tendrán la obligación de difundir y hacer del conocimiento público a través de los medios de comunicación social que correspondan y con apoyo de los municipios en su caso, reportes de la información ambiental del Estado; así como de los riesgos a la salud y las recomendaciones a la sociedad civil en general, a fin de que se tomen medidas y cuidados adecuados necesarios para salvaguardar la salud.
+
 El Registro Estatal de Áreas Naturales Protegidas a que se refiere el artículo 79 de esta Ley formará parte del Sistema Estatal de Información Ambiental y de Recursos Naturales.
 
 ###### Artículo 218.
@@ -3158,3 +3162,11 @@ CUARTO. - Los establecimientos comerciales y mercantiles dispondrán de un lapso
 QUINTO. - La Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca a la entrada en vigor de este Decreto, deberá de promover mediante campañas de difusión las prohibiciones a las que se refiere el artículo 128 Bis de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, principalmente entre distribuidores y usuarios de químicos y agroquímicos.
 
 SEXTO. - Se derogan todas las disposiciones de igual o menor jerarquía que se opongan el (sic) presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2725.- MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO CUARTO, RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 217 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
