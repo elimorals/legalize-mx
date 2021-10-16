@@ -4,7 +4,7 @@ identifier: "OAX-ley-reglamentaria-del-apartado-b-del-articulo-106-de-la-96001"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2013-09-06"
+last_updated: "2021-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY REGLAMENTARIA DEL APARTADO B DEL ARTÍCULO 106 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
 
 Ley Reglamentaria publicada en el Extra del Periódico Oficial de Oaxaca, el viernes 6 de septiembre de 2013.
 
@@ -99,7 +99,9 @@ En su caso, las partes podrán hacer uso del fax o del correo electrónico, tant
 
 Para hacer cumplir sus determinaciones, la Sala podrá emplear cualquiera de los siguientes medios de apremio que considere más eficaz:
 
-I.- Multa de cien a doscientos días de salario mínimo, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+I.- Multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, que se duplicará en caso de reincidencia;
 
 II.- El auxilio de la fuerza pública; y
 
@@ -107,7 +109,9 @@ III.- El arresto hasta por treinta y seis horas.
 
 Si el caso exige mayor sanción, se dará vista al Ministerio Público para el ejercicio de la acción penal correspondiente.
 
-Las multas previstas en esta Ley se impondrán a razón de días de salario mínimo, sirviendo como base para calcularlos, el mínimo general vigente en el Estado de Oaxaca, al momento de realizarse la conducta sancionada.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+Las multas previstas en esta Ley se impondrán en razón del valor diario de la Unidad de Medida y Actualización vigente, al momento de realizarse la conducta sancionada.
 
 ###### ARTÍCULO 8.
 
@@ -115,7 +119,9 @@ Para mantener el orden y disciplina en los actos del proceso, la Sala podrá apl
 
 I.- El apercibimiento;
 
-II.- La multa, de cincuenta a cien días de salarios mínimos vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+
+II.- La multa, de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 III.- La expulsión de la sala de audiencia, mediante el uso de la fuerza pública; y
 
@@ -549,9 +555,11 @@ El recurso de reclamación deberá interponerse en un plazo de cinco días y en 
 
 El recurso de reclamación se promoverá ante el Presidente de la Sala, quien a través del Secretario de Acuerdos, correrá traslado a las partes para que dentro del plazo de cinco días aleguen lo que a su derecho convenga. Transcurrido este último plazo, el Presidente de la Sala turnará los autos a otro Magistrado, a fin de que elabore el proyecto de resolución que deba someterse al Pleno de la Sala.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 76.
 
-Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, una multa de cincuenta a cien días de salario mínimo general vigente en el Estado.
+Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, una multa de cincuenta a cien el valor diario de la Unidad de Medida y Actualización vigente.
 
 #### SECCIÓN II. DE LA QUEJA
 
@@ -1266,3 +1274,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 02 de septiembre del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2737.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL PRIMER PÁRRAFO Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 7, LA FRACCIÓN II DEL ARTÍCULO 8, Y EL ARTÍCULO 76 DE LA LEY REGLAMENTARIA DEL APARTADO B DEL ARTÍCULO 106 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
