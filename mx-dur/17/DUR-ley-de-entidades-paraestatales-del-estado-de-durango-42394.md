@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-entidades-paraestatales-del-estado-de-durango-42394"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2015-07-02"
+last_updated: "2021-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -345,9 +345,17 @@ X. Establecer los mecanismos de evaluación relativos a la eficiencia y la efica
 
 XI. Proporcionar la información y dar acceso a la documentación que le soliciten la Secretaría de Finanzas y de Administración, la de Contraloría, o el Auditor Externo para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite;
 
-XII. Ejecutar los acuerdos que dicte el Órgano de Gobierno; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2021)</small>
 
-XIII. Las demás que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales aplicables.
+XII. Ejecutar los acuerdos que dicte el Órgano de Gobierno;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2021)</small>
+
+XIII. Expedir y certificar las copias de documentos y constancias que existan en los archivos del organismo a su cargo, únicamente para efectos de fiscalización; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIII] , P.O. 17 DE OCTUBRE DE 2021)
+
+XIV. Las demás que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales aplicables.
 
 ###### Artículo 28.
 
@@ -896,3 +904,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 003. QUE CONTIENE ADICIONES Y REFORMAS A LA LEY DE ENTIDADES PARAESTATALES ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
