@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2021-05-28"
+last_updated: "2021-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -3637,7 +3637,9 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto el varón como a la mujer, salvo disposición expresa en contrario.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2021)</small>
+
+El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia, el Estado emitirá las leyes necesarias para garantizar su protección, así como los servicios apropiados para su integración, bienestar y desarrollo social, cultural, y económico atendiendo a lo establecido en la Constitución y Tratados Internacionales. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto el (sic) varón como a la mujer, salvo disposición expresa en contrario.
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y esparcimiento de sus hijos.
 
@@ -3732,6 +3734,10 @@ Todas las personas tienen el derecho a la paz. El Estado y los Municipios desarr
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
 
 La educación en sus diferentes niveles deberá fomentar la práctica del deporte.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2021)</small>
+
+El Estado promoverá el desarrollo integral de las personas jóvenes a través de políticas públicas con un enfoque multidisciplinario que propicie su inclusión en el ámbito político, social, económico y cultural en el Estado. La Ley en la materia establecerá los mecanismos para su cumplimiento.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
@@ -5524,3 +5530,17 @@ P.O. 28 DE MAYO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Congreso deberá realizar las modificaciones a los ordenamientos correspondientes para garantizar el derecho al fomento a la práctica del deporte en el sistema educativo en términos de lo dispuesto por el presente Decreto en un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del mismo.
+
+P.O. 18 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 011. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3°, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado deberá expedir la Ley a la que hace referencia el presente Decreto dentro de los 180 días siguientes a la expedición de la Ley General en materia de Personas Jóvenes a la que hace referencia el Decreto, por el que se declaran reformados los artículos 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Juventud, publicado en fecha 24 de diciembre del año 2020.
+
+P.O. 18 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 012. SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
