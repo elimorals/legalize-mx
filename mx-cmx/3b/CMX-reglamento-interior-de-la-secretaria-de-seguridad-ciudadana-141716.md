@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-141
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-02-25"
-last_updated: "2020-02-25"
+last_updated: "2021-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141716&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-02-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2021.
 
 Reglamento publicado en el Número 290 de la Gaceta Oficial de la Ciudad de México, el martes 25 de febrero de 2020.
 
@@ -42,7 +42,19 @@ Para los efectos de este Reglamento se entenderá por:
 
 I. Ciudad: a la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+I Bis. Centros Penitenciarios: conjunto de establecimientos penitenciarios preventivos, de ejecución de sanciones penales, de reinserción psicosocial, Instituciones Abiertas Casas de Medio Camino y Centros de Sanciones Administrativas de la Ciudad de México;
+
 II. Ley: la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+II Bis. Ley General: Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+II Ter. Ley Nacional: Ley Nacional de Ejecución Penal;
 
 III. Ley Orgánica: la Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
@@ -54,13 +66,19 @@ VI. Reglamento: el presente Reglamento;
 
 VII. Secretaría: la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+VII Bis. Sistema Penitenciario: conjunto de normas jurídicas e instituciones del Estado que tiene por objeto la supervisión de la prisión preventiva y la ejecución de sanciones penales, así como de las medidas de seguridad derivadas de una sentencia. Está organizado sobre la base del respeto de los derechos humanos, trabajo, capacitación para el mismo, educación, salud y deporte, como medios para lograr la reinserción de la persona sentenciada a la sociedad, así como procurar los medios para que no vuelva a delinquir;
+
 VIII. Unidades Administrativas: la Oficina de la Secretaría; las Subsecretarías; la Oficialía Mayor; las Coordinaciones Generales; así como las Direcciones Generales y Ejecutivas que les sean adscritas.
 
 IX. Unidades Administrativas de Apoyo Técnico Operativo: las Unidades que asisten técnica y operativamente a las Unidades Administrativas y que preparan los elementos necesarios para la emisión o ejecución de los actos administrativos en el ámbito de las funciones operativas de los diversos cuerpos de policía bajo el mando de la Secretaría.
 
 X. Unidades de Apoyo Técnico Operativo Policial: las Direcciones de Área, Subdirecciones, Jefaturas de Unidad Departamental y las demás en el ámbito de funciones operativas que se prevean en el Manual Administrativo de la Secretaría y demás disposiciones aplicables.
 
-XI. Unidades Administrativas Policiales: las Coordinaciones Generales, Direcciones Generales Regionales y Direcciones Ejecutivas Policiales dotadas de atribuciones de decisión y ejecución en el ámbito de las funciones operativas de los diversos cuerpos de policía bajo el mando de la Secretaría.
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XI. Unidades Administrativas Policiales: las Coordinaciones Generales, Direcciones Generales Regionales, Direcciones Generales y Direcciones Ejecutivas Policiales dotadas de atribuciones de decisión y ejecución en el ámbito de las funciones operativas de los diversos cuerpos de policía bajo el mando de la Secretaría.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN DE LA SECRETARÍA
 
@@ -80,7 +98,9 @@ c) Dirección General de Asuntos Internos.
 
 d) Dirección Ejecutiva de Comunicación Social.
 
-d (sic)) Dirección Ejecutiva de la Unidad de Transparencia.
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+e) Dirección Ejecutiva de la Unidad de Transparencia.
 
 II. Unidades Administrativas Policiales:
 
@@ -184,6 +204,10 @@ b) Dirección General de Participación Ciudadana.
 
 c) Dirección General de Prevención del Delito.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+c) Bis Dirección General de la Brigada de Vigilancia Animal.
+
 d) Dirección Ejecutiva de Salud y Bienestar Social.
 
 II. Unidades Administrativas Policiales:
@@ -232,11 +256,35 @@ j) Dirección Ejecutiva de Enlace Institucional.
 
 k) Dirección Ejecutiva de Servicios Aéreos.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+6 Bis. Subsecretaría del Sistema Penitenciario:
+
+I. Unidades Administrativas:
+
+a) Dirección General de Inteligencia Criminal y Penitenciaria.
+
+b) Dirección General de Atención Especializada para Adolescentes del Sistema Penitenciario.
+
+c) Dirección Ejecutiva de Prevención y Reinserción Social del Sistema Penitenciario.
+
+d) Dirección Ejecutiva de Seguridad Penitenciaria del Sistema Penitenciario.
+
+e) Dirección Ejecutiva de Seguridad Penitenciaria del Sistema Penitenciario.
+
+f) Dirección Ejecutiva de Agentes de Seguridad Procesal del Sistema Penitenciario.
+
+g) Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad del Sistema Penitenciario.
+
 7. Oficialía Mayor:
 
 I. Unidades Administrativas:
 
 a) Dirección Ejecutiva de Rendición de Cuentas.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+a) Bis. Dirección Ejecutiva de Administración y Finanzas del Sistema Penitenciario
 
 b) Dirección General de Desarrollo Organizacional y Administrativo.
 
@@ -276,6 +324,10 @@ Son atribuciones de la persona Titular de la Secretaría:
 
 I. La representación, trámite y resolución de los asuntos competencia de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+I Bis. Garantizar el funcionamiento, operación y administración del Sistema Penitenciario;
+
 II. Ejercer el mando directo, operativo y funcional de las policías adscritas a la Secretaría en los términos de las disposiciones aplicables;
 
 III. Expedir los acuerdos, circulares, instructivos y bases, conducentes para el buen despacho de las funciones de la Secretaría;
@@ -293,6 +345,10 @@ VIII. Establecer las políticas de manejo de la información relacionada con la 
 IX. Aprobar el programa de profesionalización policial;
 
 X. Vigilar que se dé cumplimiento a las disposiciones del Servicio Profesional de Carrera Policial;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+X Bis. Vigilar que se dé cumplimiento a las disposiciones del Servicio Profesional de Carrera Policial, así como del Servicio Profesional de Carrera de las y los integrantes del Sistema Penitenciario;
 
 XI. Autorizar los programas administrativos y operativos, así como los sistemas y procedimientos de control y evaluación de la actuación policial que se implementen en las Unidades Administrativas y en las Unidades Administrativas Policiales;
 
@@ -364,6 +420,10 @@ XI. Recibir en acuerdo ordinario a los titulares de las unidades administrativas
 
 XII. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como aquellos que le sean señalados por delegación o le correspondan por suplencia;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XII Bis. En el ámbito de su competencia, emitir Circulares para la implantación de los programas y proyectos a su cargo;
+
 XIII. Coordinar sus actividades con las demás áreas de la Secretaría;
 
 XIV. Proporcionar información, datos o cooperación técnica que le sea requerida por otras autoridades federales, locales o por otras unidades de la propia Secretaría;
@@ -378,7 +438,9 @@ XVIII. Proponer acciones orientadas a la prevención y control de ilícitos en a
 
 XIX. Supervisar en el ámbito de su competencia que se cumplan los requisitos y procedimientos establecidos por el Sistema de Carrera Policial;
 
-XX. Solicitar la intervención a la Dirección General de Asuntos Internos, Centro de Evaluación y Control de Confianza, y Comisión de Honor y Justicia, para la realización de investigaciones, evaluaciones y procedimientos administrativos disciplinarios respecto de los policías señalados por contravenir normas jurídicas, administrativas o penales, y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XX. Solicitar la intervención de las Direcciones Generales de Asuntos Internos, del Centro de Evaluación y Control de Confianza, y de la Comisión de Honor y Justicia, para la realización de investigaciones, evaluaciones y sustanciación de procedimientos administrativos disciplinarios respecto de policías que hayan cometido faltas previstas en la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México y demás disposiciones aplicables; y
 
 XXI. Las demás que le atribuya la normatividad vigente.
 
@@ -486,11 +548,19 @@ V. Asistir, participar y colaborar con el Consejo Ciudadano para la Seguridad Ci
 
 VI. Promover el intercambio de experiencias, colaboración y apoyo con entidades federativas e Instituciones nacionales e internacionales de carácter público, social o privado, respecto de la participación ciudadana, los derechos humanos y la prevención del delito, en materia de seguridad ciudadana;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+VI Bis. Asistir, participar y colaborar como enlace institucional con el área encargada de conducir la acción internacional del Gobierno de la Ciudad de México, para coordinar las acciones de carácter internacional en las que participe la Secretaría;
+
 VII. Establecer programas de coordinación con los sectores público, social y privado, así como con la comunidad, con el objeto de destacar la importancia de la participación ciudadana en la denuncia para la preservación de la seguridad ciudadana en todos los ámbitos, así como el combate a la impunidad y la corrupción;
 
 VIII. Diseñar y establecer directrices para la implementación de programas de educación vial;
 
 IX. Establecer líneas de acción para el funcionamiento de las áreas de atención ciudadana que le estén adscritas;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBTRE DE 2021)</small>
+
+IX Bis. Diseñar e implementar estrategias, de manera coordinada con las instancias competentes de los tres órdenes de gobierno y con la iniciativa privada para la protección y atención integral de las personas turistas, en materia de seguridad, así como para la generación de acciones de vinculación interinstitucional con prestadores de servicios turísticos de la Ciudad;
 
 X. Promover una cultura de respeto a los Derechos Humanos al interior de la Secretaría, así como atender las recomendaciones de las Comisiones de Derechos Humanos, Nacional y de la Ciudad de México;
 
@@ -499,6 +569,10 @@ XI. Establecer estrategias que promuevan la vinculación de la Secretaría con o
 XII. Coordinar los programas de servicios de auxilio a la población en casos de siniestros, emergencias y desastres;
 
 XIII. Establecer los mecanismos de vinculación para la atención de emergencias médicas en diversas instituciones en materia de salud, y de los servicios de auxilio a la población en caso de siniestros, emergencias y desastres;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIII Bis. Diseñar, desarrollar y ejecutar acciones, en el ámbito de competencia de la Secretaría, tendientes a garantizar la protección y rescate de animales en situación de riesgo, el fomento a una cultura de respeto a la fauna silvestre y doméstica, así como la tenencia responsable de animales de compañía;
 
 XIV. Coordinar y vigilar que se otorguen los servicios de carácter cultural, social y deportivo, así como los servicios médicos y asistenciales, y
 
@@ -510,7 +584,13 @@ Son atribuciones de la Subsecretaría de Desarrollo Institucional:
 
 I. Establecer las bases para la organización, funcionamiento y desarrollo del Servicio Profesional de Carrera Policial;
 
-II. Diseñar los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de la Policía de la Ciudad de México;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+II. Diseñar los documentos normativos para el reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento y conclusión del servicio en la policía, así como vigilar su cumplimiento;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+II Bis. Colaborar en el establecimiento de las bases para la organización, funcionamiento y desarrollo del Servicio Profesional de Carrera de las y los integrantes del Sistema Penitenciario;
 
 III. Proponer a la persona titular de la Secretaría, acciones para la profesionalización permanente de los integrantes de la Policía;
 
@@ -534,7 +614,13 @@ XII. Coordinar acciones interinstitucionales en materia de seguridad ciudadana c
 
 XIII. Contribuir al fortalecimiento de las relaciones de colaboración entre la Secretaría y las instituciones académicas nacionales e internacionales;
 
-XIV. Coordinar proyectos de colaboración interinstitucional, cooperación nacional e internacional sobre la actuación policial con los distintos órdenes de gobierno, y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIV. Coordinar proyectos de colaboración interinstitucional, cooperación nacional e internacional sobre la actuación policial con los distintos órdenes de gobierno,
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIV Bis. Resolver los Recursos de Inconformidad, derivado de actos y resoluciones administrativas emitidos por las Unidades Administrativas que tiene adscritas, y
 
 XV. Las demás que le atribuya la normatividad vigente.
 
@@ -561,6 +647,14 @@ VIII. Dirigir el Registro de Equipos y Sistemas Tecnológicos para la Seguridad 
 IX. Establecer criterios y políticas para el uso de equipos e instrumentos técnicos especializados para la investigación de delitos;
 
 X. Contribuir al fortalecimiento de la operación policial mediante procesos de análisis estadístico y georreferenciación de información criminológica;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+X Bis. Coadyuvar en la administración de los sistemas de los Centros Penitenciarios;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+X Ter. Administrar y supervisar el correcto funcionamiento de los sistemas de información estadística, penitenciaria y de análisis necesarios para el desempeño de las funciones de la Secretaría;
 
 XI. Administrar los sistemas de información estadística y de análisis necesarios para el desempeño de las funciones de la Secretaría;
 
@@ -610,6 +704,110 @@ XXXIII. Coordinar con las áreas competentes las operaciones aeronáuticas de la
 
 XXXIV. Las demás que le atribuya la normatividad vigente.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 15 Bis.
+
+Son atribuciones de la Subsecretaría del Sistema Penitenciario:
+
+I. Organizar la operación y administración de los Centros Penitenciarios;
+
+II. Coordinar, operar y supervisar el correcto funcionamiento del Sistema Penitenciario de la Ciudad de México;
+
+III. Proponer, difundir y supervisar la normativa sobre la reinserción social en los Centros Penitenciarios;
+
+IV. Determinar y coordinar el funcionamiento de los sistemas de seguridad de los Centros Penitenciarios;
+
+V. Coordinarse con autoridades homólogas de otras entidades federativas para el intercambio de información en materia de reinserción social, seguridad y prevención de delitos al interior de los Centros Penitenciarios, de conformidad con las disposiciones jurídicas aplicables;
+
+VI. Establecer la coordinación necesaria con las autoridades de los gobiernos federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le correspondan conforme a este Reglamento y a otras disposiciones legales;
+
+VII. Establecer la coordinación interinstitucional con las áreas competente de la Administración Pública local y autoridades federales para el diseño y ejecución de operativos conjuntos, así como para solicitar apoyo en casos de emergencia;
+
+VIII. Proponer a la Universidad de la Policía de la Ciudad de México, los convenios que deba celebrar el Gobierno de la Ciudad de México con instituciones académicas y otras especializadas en materia de capacitación, adiestramiento y profesionalización penitenciaria;
+
+IX. Coordinar acciones conjuntas con otras Instituciones y Unidades Administrativas de la Secretaría, en apoyo a las tareas de prevención e investigación de conductas delictivas al interior de los de los Centros Penitenciarios;
+
+X. Proponer a la Oficialía Mayor de la Secretaría, los proyectos para el equipamiento, construcción, rehabilitación o remodelación de la infraestructura del Sistema Penitenciario;
+
+XI. Supervisar que la producción y comercialización de productos se destinen a capacitar y proporcionar a las personas privadas de la libertad los estímulos y apoyos a su economía;
+
+XII. Coordinar que en la prestación de servicios de atención médica y psicológica a las personas privadas de la libertad se cumplan las reglas de higiene general y personal;
+
+XIII. Proponer a la Subsecretaría de Desarrollo Institucional, los criterios de selección, formación, capacitación, evaluación y promoción del personal que preste sus servicios en los Centros Penitenciarios;
+
+XIV. Colaborar con la Subsecretaría de Inteligencia e Investigación Policial, a través de la Dirección General de Inteligencia Criminal y Penitenciaria, en el intercambio de información que permita la prevención de delitos que se planifiquen u organicen desde el interior de los Centros Penitenciarios;
+
+XV. Coordinar la emisión de antecedentes penales y constancias de los mismos, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
+
+XVI. Supervisar el cumplimiento del diseño y evolución del plan de actividades para la reinserción social de la Personas Privadas de la Libertad;
+
+XVII. Proponer las normas, procedimientos y mecanismos para la remisión de información de las personas privadas de su libertad en los Centros Penitenciarios, a las autoridades competentes que la requieran;
+
+XVIII. Establecer la coordinación necesaria con las autoridades de los gobiernos, federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le corresponden conforme a este Reglamento y a otras disposiciones legales;
+
+XIX. Proponer los procedimientos para vigilar que los traslados autorizados por el Juez de Ejecución de personas procesadas y sentenciadas, nacionales o extranjeras, se sujeten a lo establecido en la Legislación Nacional y en los Tratados o Convenios Internacionales, así como vigilar su cumplimiento;
+
+XX. Proponer las normas, procedimientos y mecanismos a fin de detectar, evitar y erradicar fenómenos de corrupción al interior de los Centros Penitenciarios;
+
+XXI. Vigilar que las personas privadas de la libertad estén en condiciones psicológicas, materiales y de seguridad que les permitan contar con elementos mínimos para su reinserción;
+
+XXII. Proponer los lineamientos de seguridad personal de las personas procesadas y sentenciadas, así como vigilar su aplicación;
+
+XXIII. Vigilar, en el ámbito de sus atribuciones, que se respeten y garanticen los derechos humanos de las personas procesadas y sentenciadas;
+
+XXIV. Proponer criterios para la profesionalización, capacitación, seguridad y eficiencia del personal técnico;
+
+XXV. Organizar y administrar el registro de información penitenciaria y proporcionar la información a las autoridades que corresponda de conformidad a la Ley Nacional y la Ley General;
+
+XXVI. Desarrollar los criterios e indicadores estadísticos necesarios para evaluar en forma permanente el movimiento de población penitenciaria y los factores criminológicos que inciden en el fenómeno delictivo de la Ciudad de México;
+
+XXVII. Supervisar y evaluar los controles y registros estadísticos que emiten los Centros Penitenciarios, acerca de las actividades técnicas operativas, grupos de atención prioritaria y acciones de diagnóstico, para definir las principales características de la población interna;
+
+XXVIII. Diseñar y supervisar las acciones que correspondan a la Administración Pública de la Ciudad de México, para cuidar que las personas adolescentes a quienes se les atribuya un hecho tipificado como delito, reciban un trato justo y humano y, en consecuencia, prohibir el maltrato, la incomunicación, la coacción psicológica, o cualquier otra acción que atente contra su dignidad o su integridad física o mental;
+
+XXIX. Participar en los procedimientos para el diseño de los planes individualizados de las personas adolescentes a quienes se les atribuya un hecho tipificado como delito en las leyes penales aplicables a la Ciudad de México;
+
+XXX. Vigilar el cumplimiento de las disposiciones y procedimientos que correspondan a la atención especializada de las personas adolescentes a quienes se les atribuya un hecho tipificado como delito en las leyes penales y el respeto a sus derechos humanos;
+
+XXXI. Proponer convenios que deba celebrar la Ciudad de México con Entidades Federativas, instituciones públicas y privadas, además de organizaciones de la sociedad civil que coadyuven al cumplimiento de los ejes rectores de la reinserción social;
+
+XXXII. Coordinar la emisión de informes de ingresos anteriores a Centros Penitenciarios, solicitados por las autoridades judiciales y administrativas legalmente facultadas para ello;
+
+XXXIII. Coordinarse con la autoridad jurisdiccional para la remisión de información técnica jurídica de las personas procesadas o sentenciadas;
+
+XXXIV. Solicitar al juez de ejecución la autorización para el traslado de las personas sentenciadas, a los diferentes Centros Penitenciarios de la Ciudad de México, excepto en los casos previstos en el artículo 52 de la Ley Nacional;
+
+XXXV. Solicitar a las autoridades administrativas federales o locales, previa autorización del juez de ejecución, el traslado de personas sentenciadas para cumplir su sentencia del fuero común en Centros Penitenciarios de su jurisdicción;
+
+XXXVI. Solicitar al juez de la causa las sentencias o copias certificadas para mantener debidamente actualizado el expediente jurídico de la persona privada de la libertad;
+
+XXXVII. Dar seguimiento a la persona sentenciada, una vez que obtenga uno de los beneficios preliberacionales y sanciones no privativas de la libertad contemplados en la Ley Nacional, los sustitutivos penales, así como a los beneficiados con el programa de reclusión domiciliaria a través de monitoreo electrónico a distancia;
+
+XXXVIII. Comunicar de manera oportuna al juez de ejecución el incumplimiento de las obligaciones contraídas con motivo de los beneficios preliberacionales y sanciones no privativas de la libertad y reclusión domiciliaria;
+
+XXXIX. Coordinar, dirigir y supervisar las tareas de recopilación, análisis, registro y aprovechamiento de la información relacionada con la seguridad al interior de los Centros Penitenciarios de la Ciudad de México; así como el desarrollo de las técnicas de operaciones encubiertas, reclutamiento y manejo de fuentes humanas;
+
+XL. Coordinar la operación de los Módulos de Información Jurídica, del Sistema Integral de Información Penitenciaria, otorgando los permisos de acceso que se requieran por parte de las Unidades Administrativas de la Secretaría que en el ejercicio de sus funciones así lo soliciten;
+
+XLI. Coordinar la operación y actualización del Registro Público de Personas Agresoras Sexuales de la Ciudad de México, otorgando el acceso de la información reservada a las autoridades que lo requieran en el ejercicio de sus funciones así lo soliciten,
+
+XLII. En materia del Registro Público de Personas Agresoras Sexuales de la Ciudad de México:
+
+a) Organizar, administrar, actualizar y resguardar la información reservada contenida en el Registro Público, en términos de las leyes aplicables, lineamientos y protocolos para la recepción, procesamiento y resguardo de la información;
+
+b) Realizar y elaborar estudios, investigaciones y estadísticas con los datos contenidos en el Registro Público, respetando la información reservada conforme a la normativa aplicable, para la elaboración de políticas públicas;
+
+c) Recibir de los órganos jurisdiccionales la información de las personas con sentencia ejecutoriada, para el registro de los mismos;
+
+d) Adoptar las medidas adecuadas para la protección de los datos reservados contenidos en el Registro, de conformidad con la normativa aplicable;
+
+e) Proporcionar la información pública sobre los agresores sexuales a las mujeres, niñas, niños, adolescentes y población en general que así lo solicite, así como a las autoridades competentes, de conformidad con la normativa aplicable, y
+
+f) Vigilar el uso correcto de la información contenida y, en su caso, dar vista a la autoridad competente respecto de conductas relacionadas con el uso indebido de la información reservada del Registro.
+
+XLIII. Las demás que le atribuya la normatividad aplicable.
+
 ###### Artículo 16.
 
 Son atribuciones de la Oficialía Mayor:
@@ -637,6 +835,10 @@ X. Establecer las políticas para el control del parque vehicular y equipo de tr
 XI. Promover los servicios de obra, mantenimiento y conservación de bienes muebles e inmuebles de la Secretaría;
 
 XII. Suscribir los convenios, contratos y acuerdos para sustentar actos de administración;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XII Bis. Coordinar las acciones en materia de recursos humanos, financieros y materiales, así como de mantenimiento, desarrollo organizacional y rendición de cuentas del Sistema Penitenciario;
 
 XIII. Establecer las acciones de mejoramiento administrativo en las áreas que integran la Secretaría;
 
@@ -704,9 +906,11 @@ XXV. Cumplimentar los recursos administrativos que se interpongan en contra de r
 
 XXVI.- Las demás que le atribuya la normatividad vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 18.
 
-Son atribuciones de las Coordinaciones Generales, Direcciones Generales y Direcciones Ejecutivas, consideradas como Unidades Administrativas Policiales, además de las señaladas en el artículo que antecede:
+Son atribuciones de las Coordinaciones Generales, Direcciones Generales Regionales, Direcciones Generales y Direcciones Ejecutivas, consideradas como Unidades Administrativas Policiales, además de las señaladas en el artículo que antecede:
 
 I. Diseñar y someter a consideración de su superior jerárquico, los programas a desarrollar en el combate a la inseguridad y preservación del orden y la paz públicos;
 
@@ -726,7 +930,9 @@ VIII. Proponer al superior inmediato la entrega de reconocimientos y ascensos a 
 
 IX. Aplicar correctivos disciplinarios a los elementos de las unidades, agrupamientos y servicios a su cargo, en los términos de las disposiciones aplicables;
 
-X. Proporcionar a las Direcciones Generales de Asuntos Internos, de Asuntos Jurídicos, del Centro de Evaluación y Control de Confianza, y a la Comisión de Honor y Justicia la información necesaria para la instrumentación de los procedimientos a cargo de dichas unidades;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+X. Proporcionar a las Direcciones Generales de Asuntos Internos, de Asuntos Jurídicos, del Centro de Evaluación y Control de Confianza, y de la Comisión de Honor y Justicia, la información necesaria para la instrumentación de los procedimientos a cargo de dichas Unidades;
 
 XI. Asegurar que el personal operativo adscrito a las áreas a su cargo cumpla con los programas de evaluación, actualización y profesionalización del Sistema de Carrera Policial, y
 
@@ -748,6 +954,10 @@ IV. Formular dictámenes, opiniones e informes, en el ámbito de su competencia,
 
 V. Atender y dar seguimiento a las peticiones y planteamientos que realicen los órganos legislativos y demás instituciones públicas que involucren la seguridad y protección de los ciudadanos en las demarcaciones territoriales de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+V Bis. Recopilar, analizar e integrar, con el apoyo y colaboración de las Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría, la información que se requiera para las comparecencias de la persona titular de la Secretaría ante el Congreso de la Ciudad de México, así como para la elaboración de los informes que deba rendir a ese órgano legislativo;
+
 VI. Asesorar técnicamente en asuntos de su competencia a los servidores públicos de la Institución;
 
 VII. Coordinar sus actividades con otras Unidades de la Secretaría;
@@ -766,11 +976,17 @@ I. Elaborar los estudios y análisis del marco jurídico de la Secretaría, a fi
 
 II. Establecer los criterios jurídicos a seguir en los diversos asuntos y controversias legales en los que intervenga la Secretaría;
 
-III. Analizar y sancionar jurídicamente, previo a su suscripción, los contratos y convenios en que participe la Secretaría, así como realizar el registro correspondiente;
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+II. Bis. Coordinar la función jurídica de la Secretaría;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+III. Revisar jurídicamente, previo a su suscripción, las atribuciones de las personas servidoras públicas que fungen como parte en los contratos y convenios en que participe la Secretaría, así como realizar el registro correspondiente de los mismos;
 
 IV. Emitir opinión jurídica en los asuntos en que la misma sea solicitada por los titulares de Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría;
 
-V. Recopilar, analizar e integrar la información que se requiera para las comparecencias ante los órganos legislativos correspondientes, así como para los informes prioritarios que deba rendir la persona titular de la Secretaría;
+V. (DEROGADA, G.O. 18 DE OCTUBRE DE 2021)
 
 VI. Intervenir en los juicios de amparo en que tengan el carácter de autoridad responsable la persona titular de la Secretaría u otros servidores públicos o Unidades Administrativas de la misma, elaborando y presentando los informes previos y justificados e interponiendo los recursos legales necesarios, hasta la resolución;
 
@@ -780,19 +996,47 @@ VIII. Coordinar las acciones para el cumplimiento de los acuerdos y resoluciones
 
 IX. Conocer, sustanciar y resolver el procedimiento del recurso de revisión previsto en la Ley;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+IX Bis. Conocer, sustanciar y resolver el procedimiento del recurso de revisión interpuesto por los integrantes del Sistema Penitenciario, con motivo de las resoluciones emitidas por el Consejo de Honor y Justicia;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+IX Ter. Ejercer las facultades que les sean delegadas por el titular de la Secretaría, así como suscribir los documentos inherentes al ejercicio de las mismas;
+
 X. Asesorar, asistir y, en su caso, defender jurídicamente de manera gratuita a los integrantes de las policías adscritas a la Secretaría, involucrados en asuntos penales por hechos cometidos en el cumplimiento de su deber, así como en aquellos supuestos, que estén previstos en la ley;
 
-XI. Presentar ante el Ministerio Público las denuncias respectivas por hechos que las leyes señalen como delitos cometidos en contra de la Secretaría;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XI. Presentar ante el Ministerio Público las denuncias respectivas por hechos con apariencia de delitos cometidos en contra de la Secretaría, así como al órgano interno de control cuando se presuma que se incurrió en una responsabilidad administrativa,
 
 XII. Ejecutar y llevar un registro de las órdenes de arresto dictadas por las autoridades jurisdiccionales y administrativas;
 
-XIII. Defender jurídicamente a la Secretaría, a su titular, así como a las personas titulares de las Subsecretarías, la Oficialía Mayor, Dirección General de la Comisión de Honor y Justicia, así como a los integrantes de la Comisión de Honor y Justicia, en los procedimientos de toda índole;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-XIV. Representar jurídicamente a las personas servidoras públicas señaladas en la fracción que antecede, aún en su calidad de personas físicas cuando con motivo del ejercicio de sus funciones, los órganos jurisdiccionales, administrativos o del trabajo, les dicten medidas de apremio, en los juicios en que intervengan, siempre y cuando continúen laborando en la Secretaría;
+XIII. Representar a la Secretaría, a su titular, así como a las personas titulares de las Subsecretarías, Oficial Mayor, Coordinaciones Generales, Direcciones Generales Regionales, Direcciones Generales y Ejecutivas, integrantes de la Comisión de Honor y Justicia, así como a cualquier servidor público de la Secretaría, siempre y cuando continúen laborando en la misma, en los juicios o procedimientos en los que por ejercicio de sus funciones se encuentren involucrados;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIV. Defender jurídicamente a las personas servidoras públicas señaladas en la fracción que antecede, cuando con motivo del ejercicio de sus atribuciones y funciones, los órganos jurisdiccionales, administrativos o del trabajo, les impongan medidas de apremio, en los juicios en que intervengan;
 
 XV. Suplir a la persona titular de la Secretaría y suscribir en ausencia del mismo, los documentos necesarios, en los casos a que se refieren las fracciones VII y XIV de este artículo, así como en los asuntos que sean de su competencia;
 
-XVI. Autorizar ante autoridades administrativas y judiciales a servidores públicos de la Secretaría y de la Policía, para consultar expedientes, oír y recibir notificaciones y documentos, en términos de la legislación aplicable, y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XVI. Autorizar, ante autoridades administrativas y judiciales, a servidores públicos de la Secretaría, para consultar expedientes, oír y recibir notificaciones y documentos, en términos de la legislación aplicable;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XVI Bis. Coordinar con las Direcciones de los Centros Penitenciarios, la integración de los expedientes jurídicos de las personas procesadas y sentenciadas para conocer su situación jurídica, determinar la fecha probable para obtener su libertad, o saber si se encuentra en tiempo de obtener los beneficios de libertad anticipada establecidos en la Ley Nacional de Ejecución Penal;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XVI Ter. Verificar con las Direcciones de los Centros de Reclusión, la viabilidad jurídica de los traslados de las personas sentenciadas, a los diferentes Centros que integran el Sistema Penitenciario de la Ciudad de México, o de los correspondientes a las Entidades Federativas, o a Centros Penitenciarios Federales;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XVI Quater. Proporcionar información a los familiares respecto de la situación jurídica de las personas privadas de la libertad en los Centros Penitenciarios;
 
 XVII. Las demás que le atribuya la normatividad vigente.
 
@@ -852,7 +1096,9 @@ XXV. Dar la intervención al Ministerio Público Federal o Local, según corresp
 
 XXVI. Solicitar a la Dirección General de Asuntos Jurídicos la presentación de denuncias o querellas, ante el Ministerio Público Federal o Local, según corresponda, en contra de servidores públicos de la Secretaría, que en su calidad de servidores públicos hayan cometido hechos que la ley señale como delito, como resultado de las investigaciones que al respecto realice;
 
-XXVII. Proponer a la Comisión de Honor y Justicia la suspensión temporal de carácter preventivo, cuando se cuente de manera indiciaria, con elementos y evidencia probatoria que el personal Policial, haya cometido una falta grave a los principios constitucionales de actuación policial o en contra de la continuidad en el desempeño del servicio, y represente un peligro o riesgo para el debido funcionamiento de su área de adscripción o el de las Unidades Administrativas de Apoyo Técnico Operativo, Unidades Administrativas de Apoyo Técnico Operativo Policial;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XXVII. Solicitar a la Comisión de Honor y Justicia la suspensión temporal de carácter preventivo, cuando se cuente de manera indiciaria, con elementos y evidencia probatoria que el personal policial, realizó actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general;
 
 XXVIII. Brindar la colaboración, apoyo y auxilio a las autoridades ministeriales y judiciales federales o locales en la ejecución de órdenes de presentación, aprehensión o reaprehensión del personal Policial de la Secretaría requerido;
 
@@ -1218,6 +1464,10 @@ IV. Fungir como enlace institucional con los Organismos Constitucionales Autóno
 
 V. Facilitar la presentación de quejas y denuncias por violaciones a los derechos humanos, imputables a servidores públicos de la Secretaría, así como proponer alternativas de solución y realizar el seguimiento del procedimiento que corresponda hasta su conclusión;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+V Bis. Mantener coordinación permanente con las distintas Unidades Administrativas que integran y colaboran con la Subsecretaría de Sistema Penitenciario, para obtener la información necesaria a fin de atender las quejas interpuestas por familiares, defensores, visitantes o de las personas privadas de la libertad en los Centros Penitenciarios;
+
 VI. Establecer un sistema de registro y clasificación de quejas, conciliaciones y recomendaciones por violaciones a derechos humanos en los que estén involucrados servidores públicos de la Secretaría, así como informar a las áreas que, en el ámbito de su competencia, soliciten la información correspondiente para ascensos, condecoraciones, estímulos y recompensas;
 
 VII. Atender los requerimientos y solicitudes de la Comisión Nacional de Derechos Humanos, de la Comisión de Derechos Humanos de la Ciudad de México y de Organismos Defensores de Derechos Humanos;
@@ -1280,6 +1530,24 @@ IX. Elaborar estudios y diagnósticos sobre los factores de riesgo social, para 
 
 X. Las demás que le atribuya la normatividad vigente.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 38 Bis.
+
+Son atribuciones de la Dirección General de la Brigada de Vigilancia Animal:
+
+I. Generar una cultura de tenencia responsable y cívica de protección, responsabilidad y respeto digno de los animales;
+
+II. Responder a situaciones de peligro por agresión animal;
+
+III. Brindar protección a los animales que se encuentren en maltrato u otra situación que ponga en riesgo su vida;
+
+IV. Coadyuvar con asociaciones civiles en la protección y canalización de animales a centros de atención, refugios y albergues de animales;
+
+V. Remitir ante la autoridad competente a los infractores que celebren y promuevan peleas de perros o cualquier otra situación que ponga en riesgo el bienestar animal, y
+
+VI. Las demás que le atribuya la normatividad vigente.
+
 ###### Artículo 39.
 
 Son atribuciones de la Dirección Ejecutiva de Salud y Bienestar Social:
@@ -1287,6 +1555,10 @@ Son atribuciones de la Dirección Ejecutiva de Salud y Bienestar Social:
 I. Garantizar los servicios médicos y de apoyo técnico médico de primer nivel al personal de la Secretaría;
 
 II. Vigilar el funcionamiento de las áreas y consultorios destinados a la atención de salud del personal de la Secretaría que se encuentren a su cargo; así como del personal que asigne a dichas áreas con la finalidad de mantener la continuidad del servicio;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+II. Bis. Establecer, en coordinación con la Unidad Administrativa competente, los Lineamientos para la operación de los Centros de Desarrollo Infantil adscritos a la Secretaría, de conformidad con el marco normativo establecido por las instancias competentes;
 
 III. Dirigir la instrumentación de campañas de salud que contribuyan a la prevención y conservación de la salud del personal de la Secretaría;
 
@@ -1354,13 +1626,19 @@ XIII. Participar en los programas de evaluación del desempeño y evaluación de
 
 XIV. Diseñar, implantar y actualizar el Kardex policial para el desarrollo del servicio profesional de carrera policial, y
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIV Bis. Coordinar los procedimientos para la promoción y el otorgamiento de condecoraciones, reconocimientos, estímulos y recompensas al personal policial y,
+
 XV. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 42.
 
 Son atribuciones de la Dirección General del Centro de Evaluación y Control de Confianza:
 
-I. Dirigir, coordinar y aplicar los procesos de evaluación de control de confianza, de ingreso, permanencia, promoción y reingreso a aspirantes a la Secretaria, así como a personal en activo y aquellos pertenecientes a otras instituciones de seguridad que así lo soliciten, para comprobar el cumplimiento de los perfiles de puesto correspondientes, a fin de descartar que existan factores de riesgo que puedan interferir en las funciones a desempeñar;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+I. Dirigir, coordinar y aplicar los procesos de evaluación de control de confianza, en las modalidades que en la materia se determine o autorice el Centro Nacional de Certificación y Acreditación, para los procedimientos de ingreso, permanencia, promoción y reingreso de aspirantes a la Secretaría, así como a personal en activo y aquellos pertenecientes a otras instituciones de seguridad que así lo soliciten;
 
 II. Expedir el Certificado Único Policial de conformidad con los requisitos establecidos por la normatividad aplicable, así como los certificados requeridos para la revalidación o inclusión de la Licencia Oficial Colectiva para la portación de Armas de Fuego;
 
@@ -1368,33 +1646,57 @@ III. Emitir los resultados integrales, únicos y definitivos derivados de la apl
 
 IV. Comunicar a la persona titular de la Secretaría, personas titulares de las Subsecretarías, Oficialía Mayor, Coordinaciones Generales y Direcciones Generales, así como a las autoridades que resulten competentes, el resultado integral, único y definitivo que se obtengan de los procesos de evaluación aplicados;
 
-V. Administrar una base de datos que contenga la información referente a los procesos de evaluación aplicados en los procedimientos de ingreso, permanencia, promoción, reingreso o para la revalidación, inclusión o exclusión de la Licencia Oficial Colectiva para la Portación de Armas de Fuego, la cual deberá conformarse para su resguardo y tratamiento, de conformidad con las disposiciones aplicables en materia de transparencia y datos personales;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+V. Administrar los sistemas informáticos autorizados, que contengan la información referente a los procesos de evaluación aplicados en los procedimientos de ingreso, permanencia, promoción, reingreso y para la revalidación, inclusión o exclusión de la Licencia Oficial Colectiva para la Portación de Armas de Fuego;
 
 VI. Colaborar con el Órgano Interno de Control, la Comisión de Honor y Justicia, Unidad de Asuntos Internos, así como con las Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría, en los casos que sea procedente;
 
-VII. Dar a conocer la información pertinente sobre observaciones o recomendaciones a los titulares de las Unidades Administrativas y Administrativas Policiales competentes, con base en el resultado integral, a fin de realizar las acciones pertinentes;
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+VI Bis. Dar cumplimiento a los requerimientos y resoluciones del Recurso de Revisión que emita la Dirección General de Asuntos Jurídicos;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+VII. Dar a conocer la información pertinente sobre observaciones o recomendaciones a los titulares de las Unidades Administrativas y Unidades Administrativas Policiales competentes, con base en el resultado integral, único y definitivo, a fin de realizar las acciones pertinentes;
 
 VIII. Realizar consultas, búsquedas y requerimientos de antecedentes e información de los evaluados, ante instancias públicas y privadas, nacionales, internacionales o extranjeras, cuando se estime necesario para la debida integración de los procesos de evaluación de control de confianza;
 
-IX. Verificar que en los procesos de evaluación se tome en cuenta la información y los antecedentes del personal policial;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+IX. Verificar que en los procesos de evaluación se tome en cuenta la información y los antecedentes del evaluado;
 
 X. Colaborar con la Unidad Especializada de Género de la Secretaría de Seguridad Ciudadana, a efecto de apoyar y en su caso, evaluar a la persona víctima de violencia de género como al probable agresor para la emisión del dictamen correspondiente;
 
-XI. Administrar los sistemas informáticos utilizados, para conservar las restricciones de acceso y tratamiento confidencial de la información que determinan las disposiciones normativas en materia de transparencia y de protección de datos personales en posesión de sujetos obligados que resulten aplicables;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XI. Operar tecnologías de la información y comunicación, a efecto de eficientar los procesos de evaluación de control de confianza, con las medidas de acceso y tratamiento confidencial que determinan las disposiciones normativas en materia de transparencia y de protección de datos personales en posesión de sujetos obligados que resulten aplicables;
 
 XII. Participar en coordinación con las Unidades Administrativas, Unidades Administrativas Policiales y Unidades de Apoyo Técnico Operativo de la Secretaría, para la conformación de políticas y programas institucionales tendientes a la profesionalización del personal Policial, así como para su inclusión en dichos programas;
 
-XIII. Recomendar la intervención de las áreas u órganos competentes para conocer y resolver sobre las conductas realizadas que constituyan faltas a los principios de actuación policial, cuando se detecten factores de riesgo, con base en el resultado integral obtenido de la práctica del proceso de evaluación de control de confianza;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-XIV. Establecer los procedimientos para la emisión del resultado integral obtenido en los procesos de evaluación aplicados, determinando su vigencia sin que exceda de tres años; sin perjuicio de poder efectuar evaluaciones durante dicho periodo a los servidores públicos en los casos en los que el superior jerárquico lo considere pertinente;
+XIII. Recomendar la intervención de las Unidades Administrativas, Unidades Administrativas Policiales u órganos competentes para conocer y resolver sobre las conductas realizadas que constituyan faltas a los principios de actuación policial, cuando se detecten factores de riesgo, con base en el resultado integral, único y definitivo obtenido de la práctica del proceso de evaluación de control de confianza;
 
-XV. Establecer los requisitos, lineamientos, estándares y criterios que deben reunir los procesos de evaluación requeridos para el ingreso o permanencia del personal de las empresas de seguridad privada;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-XVI. Certificar y acreditar los procesos de evaluación requeridos en las empresas de Seguridad Privada;
+XIV. Establecer los procedimientos para la emisión del resultado integral único y definitivo obtenido en los procesos de evaluación aplicados, determinando su vigencia sin que exceda de tres años; sin perjuicio de poder efectuar evaluaciones durante dicho periodo a los servidores públicos en los casos en los que el superior jerárquico lo considere pertinente;
 
-XVII. Verificar periódicamente que las instancias evaluadoras apliquen los procesos de evaluación, conforme a los requisitos, lineamientos, estándares y criterios establecidos por la Dirección General del Centro de Evaluación y Control de Confianza;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-XVIII. Atender el comunicado que la empresa de seguridad privada emita a la Dirección General del Centro de Evaluación y Control de Confianza, cuando durante el proceso de evaluación sean detectados factores de riesgo o se presuma la participación en conductas contrarias al servicio por parte del personal que preste el servicio de seguridad privada, a efecto de que el Centro de Evaluación y Control de Confianza aplique las evaluaciones pertinentes;
+XV. Establecer los requisitos, lineamientos, estándares y criterios que deben reunir los procesos de evaluación requeridos para el ingreso o permanencia del personal de las empresas y corporaciones de seguridad privada;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XVI. Certificar y acreditar los procesos de evaluación requeridos en las empresas y corporaciones de seguridad privada;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XVII. Verificar periódicamente que las empresas y corporaciones de seguridad privada apliquen los procesos de evaluación, conforme a los requisitos, lineamientos, estándares y criterios establecidos por la Dirección General del Centro de Evaluación y Control de Confianza;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XVIII. Atender el comunicado de las empresas y corporaciones de seguridad privada, o bien, de la Dirección General de Seguridad Privada y Colaboración Interinstitucional, cuando durante el proceso de evaluación sean detectados factores de riesgo o se presuma la participación en conductas contrarias al servicio por parte del personal que preste el servicio de seguridad privada, a efecto de que aplique las evaluaciones pertinentes;
 
 XIX. Informar a la Dirección General de Seguridad Privada y Colaboración Interinstitucional, el resultado del proceso de evaluación aplicado al personal de seguridad privada para la actualización del estatus en el Registro de Personal de Seguridad correspondiente, cuando el Centro de Evaluación y Control de Confianza aplique las evaluaciones respectivas, y
 
@@ -1410,29 +1712,51 @@ II. Coordinar, supervisar y suscribir en auxilio de la Comisión de Honor y Just
 
 III. Registrar las actas que se elaboren en contra del personal Policial, así como las recomendaciones y opiniones remitidas por las autoridades competentes de la Secretaría, para integrar el expediente respectivo;
 
-IV. Informar y, en su caso, restituir a las áreas que remitan actas por inasistencia, recomendaciones y opiniones para el inicio del procedimiento de responsabilidad, cuando en las mismas se detecten deficiencias o inconsistencias, a fin de que sean subsanadas;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-V. Elaborar y suscribir en auxilio de la Comisión de Honor y Justicia los acuerdos de radicación que se emitan para el inicio del procedimiento administrativo disciplinario;
+IV. Informar y, en su caso, restituir a las áreas que remitan actas por inasistencias injustificadas, recomendaciones y opiniones para fundar y motivar el inicio del procedimiento administrativo de responsabilidad, cuando en las mismas se detecten deficiencias o inconsistencias, a fin de que sean subsanadas;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+V. Elaborar y suscribir en auxilio de la Comisión de Honor y Justicia los acuerdos de radicación que se emitan para el inicio del procedimiento administrativo disciplinario, así como de los Recursos de Rectificación que se interpongan en contra de los correctivos disciplinarios;
 
 VI. Suscribir los acuerdos de recepción de expediente y de documentos que deban integrarse al expediente del procedimiento administrativo disciplinario correspondiente;
 
 VII. Instruir la diligencia de notificación desde el inicio de procedimiento administrativo disciplinario y hasta la resolución que emita la Comisión de Honor y Justicia, de conformidad con la normatividad aplicable;
 
-VIII. Suscribir la Cédula de Notificación de las actuaciones necesarias para la substanciación del procedimiento administrativo disciplinario, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-IX. Suscribir todos los acuerdos que resulten necesarios durante la tramitación del procedimiento administrativo disciplinario;
+VIII. Suscribir la Cédula de Notificación de inicio de procedimiento y de las actuaciones necesarias para la substanciación del procedimiento administrativo disciplinario, de conformidad con la normatividad aplicable;
 
-X. Supervisar la elaboración de los acuerdos de suspensión temporal de carácter preventivo y someterlos a la aprobación de la Comisión de Honor y Justicia;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-XI. Supervisar la elaboración de los acuerdos de improcedencia del procedimiento administrativo disciplinario y someterlos a la aprobación de la Comisión de Honor y Justicia;
+IX. Suscribir todos los acuerdos y oficios que resulten necesarios durante la tramitación del procedimiento administrativo disciplinario; así como los oficios mediante los cuales se dé atención a las solicitudes realizadas por los policías pertenecientes o que hayan pertenecido a la Secretaría;
 
-XII. Formular los proyectos de resolución y programar su presentación ante la Comisión de Honor y Justicia, para su discusión y en su caso, aprobación en la sesión correspondiente;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-XIII. Suscribir la Cédula de Notificación de las resoluciones del procedimiento administrativo disciplinario y acordar la notificación por estrados en los casos de imposibilidad material para realizar notificaciones personales;
+X. Supervisar la elaboración de los acuerdos de suspensión temporal de carácter preventivo, programar mediante la sesión correspondiente, su presentación ante la Comisión de Honor y Justicia, para su discusión y en su caso, aprobación;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XI. Proponer los acuerdos de improcedencia del inicio del procedimiento administrativo disciplinario y someterlos a la aprobación de la Comisión de Honor y Justicia;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XII. Formular los proyectos de resolución y programar su presentación ante la Comisión de Honor y Justicia, así como de los Recursos de Rectificación interpuestos en contra de los correctivos disciplinarios, para su discusión y en su caso, aprobación en la sesión correspondiente;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIII. Suscribir las Cédulas de Notificación, de inicio y de las respectivas resoluciones, del procedimiento administrativo disciplinario, y así como acordar la notificación por estrados en los casos de imposibilidad material para realizar notificaciones personales;
 
 XIV. Colaborar en la determinación de los lineamientos y directrices para el otorgamiento de condecoraciones, estímulos y recompensas al personal policial;
 
-XV. Informar a las autoridades administrativas de la Secretaría sobre las resoluciones emitidas por la Comisión de Honor y Justicia, y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XV. Informar a las autoridades administrativas de la Secretaría sobre las resoluciones emitidas por la Comisión de Honor y Justicia, así como, las emitidas por la Dirección General de Asuntos Jurídicos en los Recursos de Revisión;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XV Bis. Supervisar y requerir la información necesaria de las actuaciones del Consejo de Honor y Justicia del Sistema Penitenciario, y
 
 XVI. Las demás que le atribuya la normatividad aplicable.
 
@@ -1456,6 +1780,10 @@ VII. Asegurar la atención y desahogo de los requerimientos de diversas autorida
 
 VIII. Establecer los medios de información, consulta y difusión sobre las personas físicas o morales autorizadas para prestar servicios de seguridad privada en la Ciudad;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+VIII. Bis. Establecer los mecanismos para que los trámites de solicitud de permisos, autorizaciones, licencias, constancias, certificaciones, y demás instrumentos que requieran inscripción en el Registro de la Seguridad Privada, se realicen de forma electrónica;
+
 IX. Supervisar el sistema de recepción de quejas y denuncias relativas a empresas de seguridad privada y su personal;
 
 X. Mantener la colaboración interinstitucional con organismos públicos de los tres órdenes de gobierno, organizaciones privadas y sociales, que contribuya en la mejora continua de la seguridad privada;
@@ -1478,7 +1806,9 @@ I. Ejercer la representación legal de la Universidad de la Policía de la Ciuda
 
 II. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública;
 
-III. Elaborar y poner a Subsecretaría de Desarrollo Institucional los lineamientos del Programa de Profesionalización;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+III. Elaborar y someter a consideración de la Subsecretaría de Desarrollo Institucional el Programa de Profesionalización;
 
 IV. Capacitar en materia de investigación científica y técnica a la Policía de la Ciudad de México;
 
@@ -1492,7 +1822,9 @@ VIII. Promover y prestar servicios educativos a la Policía de la Ciudad de Méx
 
 IX. Aplicar las estrategias para la profesionalización de los aspirantes e integrantes de la Policía de la Ciudad de México;
 
-X. Proponer y aplicar los contenidos de los planes y programas para la formación de la Policía de la Ciudad de México;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+X. Proponer y aplicar los contenidos de los planes y programas para la formación inicial, actualización, especialización y alta dirección de las personas integrantes de la Policía de la Ciudad de México;
 
 XI. Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
 
@@ -1500,7 +1832,9 @@ XII. Revalidar equivalencias de estudios de la Profesionalización;
 
 XIII. Establecer el esquema de certificación de competencias policiales para los integrantes de la Policía de la Ciudad de México, así como de otras instituciones de seguridad, de carácter público o privado, de conformidad con los instrumentos jurídicos que al efecto se suscriban;
 
-XIV. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIV. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes, así como vigilar su aplicación;
 
 XV. Realizar, en coordinación con la Dirección General de Carrera Policial, los estudios para detectar las necesidades de capacitación de la Policía de la Ciudad de México y proponer los cursos correspondientes;
 
@@ -1518,7 +1852,13 @@ XXI. Emitir disposiciones de operación interna y de disciplina, planes y progra
 
 XXII. Supervisar que los estudiantes de la Universidad de la Policía de la Ciudad de México, observen las disposiciones contenidas en los manuales y normatividad aplicable;
 
-XXIII. Observar las Reglas para el Establecimiento de la Carrera Policial de la Policía del Distrito Federal y las disposiciones emitidas por la Comisión Técnica de Selección y Promoción, así como de la Comisión Técnica de Profesionalización, y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XXIII. Observar el Reglamento del Servicio Profesional de Carrera de la Policía de Proximidad de la Ciudad de México, así como las disposiciones emitidas por la Comisión Técnica de Selección y Promoción, y la Comisión Técnica de Profesionalización;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XXIII Bis. Colaborar en los procesos de formación, actualización y especialización de las personas integrantes del Sistema Penitenciario, que contribuyan a la implementación del Servicio Profesional de Carrera, de conformidad con el Programa Rector de Profesionalización, y
 
 XXIV. Las demás que le atribuya la normatividad vigente.
 
@@ -1595,6 +1935,10 @@ X. Solicitar, la baja de información, sitios o páginas electrónicas que repre
 XI. Promover la cultura de la prevención de los delitos en los que se utilizan medios electrónicos para su comisión, así como la difusión del marco legal que sanciona los mismos;
 
 XII. Generar alertas preventivas en relación a los modos de operación de personas y grupos que utilizan los medios electrónicos u otras plataformas tecnológicas para la cometer hechos probablemente constitutivos de delitos;
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XII. Bis. Diseñar, dirigir y aplicar la metodología y estrategias de investigación de campo, conforme a sus atribuciones, así como recabar las evidencias necesarias para la identificación, ubicación y en su caso detención de personas y organizaciones delictivas que se dediquen a la comisión de delitos;
 
 XIII. Elaborar proyectos y estudios relacionados con la adquisición de equipo táctico, de acuerdo a las necesidades de la Secretaría;
 
@@ -1932,13 +2276,239 @@ VIII. Establecer mecanismos de coordinación y comunicación en materia de segur
 
 IX. Las demás que le atribuya la normatividad vigente.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 56 Bis.
+
+Son atribuciones de la Dirección General de Inteligencia Criminal y Penitenciaria:
+
+I. Recabar, clasificar, procesar, analizar y explotar información, para generar inteligencia al interior de los Centros Penitenciarios de la Ciudad de México, dirigida a la prevención de delitos;
+
+II. Dirigir el trabajo de inteligencia, investigación y clasificación de la información, relacionada con la seguridad de cada Centro Penitenciario;
+
+III. Implementar estrategias, operaciones y técnicas especiales para la detección y mitigación de factores de riesgo a la seguridad ciudadana, con motivo de actos que se planifiquen, organicen o que sean cometidos al interior de los Centros Penitenciarios;
+
+IV. Planear, supervisar y ejecutar operaciones encubiertas, de conformidad con las disposiciones aplicables;
+
+V. Reclutar y manejar fuentes humanas, con el objetivo de recabar información que permita identificar actividades delictivas, así como desarticular a las organizaciones, grupos o células delincuenciales que operan en el interior y al exterior de los Centros Penitenciarios;
+
+VI. Analizar la información que reciba sobre hechos con apariencia de delito, para en su caso, hacerla del conocimiento del Ministerio Público;
+
+VII. Proponer acciones con autoridades homólogas de otras entidades federativas, para el intercambio de información en materia de reinserción social, seguridad y prevención de delitos en los Centros Penitenciarios, de conformidad con las disposiciones aplicables;
+
+VIII. Recopilar e intercambiar información con autoridades federales y locales, con el propósito de detectar y generar alertas respecto de actos y operaciones de organizaciones, grupos o células delictivas que pongan en riesgo o amenacen la estabilidad y funcionamiento del Sistema Penitenciario;
+
+IX. Proponer los lineamientos para el reclutamiento, selección, manejo y evaluación de las fuentes humanas, así como para la ejecución de operaciones encubiertas;
+
+X. Proponer acciones conjuntas con otras Instituciones y Unidades Administrativas de la Secretaría, que apoyen las tareas de prevención e investigación de conductas delictivas al interior de los de los Centros Penitenciarios, y
+
+XI. Las demás que le atribuya la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 56 Ter.
+
+Son atribuciones de la Dirección General de Atención Especializada para Adolescentes del Sistema Penitenciario:
+
+I. Ejecutar las medidas de sanción privativas y no privativas de libertad, así como supervisar las medidas en internamiento preventivo que imponga el órgano jurisdiccional a las personas adolescentes y adultas jóvenes a quienes se les atribuya un hecho que la ley señale como delito;
+
+II. Supervisar la organización, administración, funcionamiento y operación de los Centros Especializados de Atención para Adolescentes;
+
+III. Proponer los proyectos de programas y ordenamientos jurídicos y normativos en materia de justicia penal para personas adolescentes y adultas jóvenes;
+
+IV. Elaborar los planes, programas de intervención, que tengan como base el trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción social a la sociedad y su núcleo familiar de las personas adolescentes y adultas jóvenes;
+
+V. Supervisar y vigilar el cumplimiento de las normas y procedimientos a fin de prevenir los hechos tipificados como delitos al interior de los Centros Especializados de Atención para Adolescentes;
+
+VI. Determinar en cuál de los Centros Especializados de Atención para Adolescentes cumplirán las personas sujetas a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, las medidas de sanción impuestas por el órgano jurisdiccional especializado;
+
+VII. Supervisar y vigilar la elaboración de los Planes Individualizados de Actividades en los términos de la medida cautelar de internamiento preventivo impuesta por el órgano jurisdiccional, así como los Planes Individualizados de Ejecución, los cuales son aprobados por el juez de ejecución especializado, mismos que contempla la ley de la materia;
+
+VIII. Proponer la celebración de convenios y/o acuerdos de colaboración con instituciones y organismos públicos, privados, así como asociaciones civiles, con la finalidad de garantizar que las personas adolescentes o adultas jóvenes cumplan con la medida impuesta por el órgano jurisdiccional;
+
+IX. Solicitar y proponer al juez de ejecución el beneficio denominado libertad anticipada, de acuerdo a lo establecido en la Ley Nacional de Ejecución Penal;
+
+X. Participar en las acciones y actividades que desarrollen los miembros del Sistema Integral de Justicia Penal para Adolescentes que contempla la ley de la materia;
+
+XI. Promover, respetar, proteger y garantizar los derechos humanos de las personas adolescentes o adultas jóvenes que se encuentran a disposición de la autoridad administrativa en los Centros Especializados de Atención para Adolescentes, y
+
+XII. Las demás que le atribuya la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 56 Quater.
+
+Son atribuciones de la Dirección Ejecutiva de Prevención y Reinserción Social del Sistema Penitenciario:
+
+I. Vigilar que se cumplan las políticas y estrategias generales del proceso de diagnóstico y evaluación en materia de reinserción social de la población penitenciaria procesada y sentenciada en la Ciudad de México;
+
+II. Supervisar las acciones de tratamiento, programas y técnicas tendientes a operar los ejes de la reinserción social de las personas privadas de su libertad;
+
+III. Promover y supervisar las acciones de tratamiento en materia de alfabetización, educación básica, media, media superior y superior dirigida a las personas privadas de la libertad;
+
+IV. Valorar y autorizar la participación y apoyo de organizaciones no gubernamentales, asociaciones civiles y dependencias que brinden a las personas privadas de la libertad actividades de asistencia social, religiosa, autoayuda, educación para la salud, de cultura y recreación;
+
+V. Promover y supervisar la operación de actividades deportivas, culturales y recreativas en los diferentes Centros Penitenciarios de la Ciudad de México, considerando las necesidades e intereses de las personas privadas de la libertad y en forma congruente con los propósitos de la reinserción social;
+
+VI. Registrar y supervisar que los acuerdos de los Comités Técnicos de los Centros Penitenciarios, se realicen de conformidad a los Manuales específicos;
+
+VII. Supervisar el cumplimiento de los indicadores técnicos que están determinados por la Ley Nacional, en los procesos de análisis y presentación de casos para la obtención de posibles beneficios penitenciarios, y
+
+VIII. Determinar los elementos necesarios para la conformación del expediente técnico de cada persona privada de la libertad durante las fases de diagnóstico, ubicación y determinación del tratamiento para su operación en cada una de las Instituciones Penitenciarias de la Ciudad de México, y
+
+IX. Las demás que le atribuya la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 56 Quinquies.
+
+Son atribuciones de la Dirección Ejecutiva de Trabajo Penitenciario:
+
+I. Proponer los lineamientos para que las actividades encaminadas a la organización, planeación, producción, desarrollo, supervisión, fomento y promoción de los talleres industriales, talleres de autoconsumo, servicios y productos elaborados por las personas privadas de la libertad de acuerdo a los objetivos y metas que establezca la Administración Pública de la Ciudad de México;
+
+II. Proponer la suscripción, modificación o extinción de los convenios de colaboración, en los términos de la normatividad aplicable, con otras Instituciones Públicas y Privadas, Dependencias, Empresas, Asociaciones y Organismos, a fin de promover, incentivar y diversificar el impulso y crecimiento en la industria, área de servicios, talleres de autoconsumo y autogenerados del Sistema Penitenciario;
+
+III. Supervisar que se realice la remuneración oportuna a las personas privadas de la libertad por su actividad productiva en los términos establecidos en la Ley Nacional;
+
+IV. Dar seguimiento al pago de la contraprestación por el uso de las instalaciones por parte de los socios industriales u organismos capacitadores en los Centros Penitenciarios;
+
+V. Coordinar con el área administrativa correspondiente que la remuneración de las personas privadas de la libertad se realice de conformidad a lo establecido en la Ley Nacional;
+
+VI. Coordinar las acciones necesarias que permitan el establecimiento de actividades productivas en los talleres industriales con cada una de las Direcciones de los diferentes Centros Penitenciarios;
+
+VII. Requerir al área administrativa correspondiente la implementación de las medidas necesarias de seguridad e higiene en cada uno de los talleres industriales, autoconsumo y autogenerado;
+
+VIII. Coordinar y autorizar con cada una de la Direcciones de los diferentes Centros Penitenciarios, las acciones necesarias para la adecuada utilización de los espacios de las naves industriales;
+
+IX. Establecer lineamientos de producción de bienes y servicios en los talleres industriales bajo el esquema de autogenerados, en coordinación con el área administrativa correspondiente;
+
+X. Proponer los lineamientos necesarios para el mantenimiento preventivo y correctivo de la maquinaria de los talleres de autoconsumo y autogenerados;
+
+XI. Supervisar la adecuada utilización y conservación de la materia prima de los talleres de autoconsumo;
+
+XII. Supervisar que los productos, bienes y servicios elaborados en los talleres industriales bajo el esquema de autogenerados cumplan con controles de calidad;
+
+XIII. Solicitar al área administrativa correspondiente la compra de materia prima, insumos, productos, materiales y equipos necesarios para las actividades de los talleres de autogenerados o de autoconsumo solicitados mediante órdenes de trabajo;
+
+XIV. Fomentar el autoconsumo de los productos, bienes o servicios realizados por las personas privadas de la libertad, como proveedores de la Administración Pública de la Ciudad mediante actividades de trabajo penitenciario;
+
+XV. Participar en el diseño del Programa Anual de Adquisiciones del ejercicio correspondiente;
+
+XVI. Coordinar y promover los productos elaborados por las personas privadas de la libertad de los Centros Penitenciarios en eventos, ferias, exposiciones y muestras;
+
+XVII. Supervisar que la producción de autoconsumo, industrial y de servicios, se lleve a cabo de conformidad a lo establecido por la Ley Nacional de, la Ley de Centros Penitenciarios de la Ciudad de México, del Reglamento de los Centros Penitenciarios de la Ciudad de México y demás ordenamientos aplicables;
+
+XVIII. Proponer la suscripción, modificación o extinción de los convenios o bases de colaboración en materia de capacitación para el trabajo penitenciario con instituciones gubernamentales y de la sociedad civil;
+
+XIX. Promover y supervisar las actividades de capacitación para el trabajo enfocadas al desarrollo y certificación de habilidades y competencias laborales de las personas privadas de su libertad en el ámbito productivo;
+
+XX. Coordinar la elaboración de programas e informes en materia de trabajo penitenciario;
+
+XXI. Coordinar la elaboración y difusión de los Lineamientos de operación de la Acción Institucional Actividades de Pública Utilidad y Trabajo Penitenciario para la Ciudad de México, para la realización de las actividades establecidas y ejecutar su implementación en coordinación con cada una de la Direcciones de los diferentes Centros Penitenciarios y las con otras instituciones públicas y privadas, dependencias, empresas, asociaciones y organismos;
+
+XXII. Dar seguimiento a las actividades de difusión de los productos elaborados por las personas privadas de su libertad a través de la marca institucional de productos penitenciarios, y
+
+XXIII. Las demás que le atribuya la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 56 Sexies.
+
+Son atribuciones de la Dirección Ejecutiva de Seguridad Penitenciaria:
+
+I. Ejercer el mando directo del Cuerpo de Técnicos en Seguridad, con apego a las disposiciones legales vigentes;
+
+II. Evaluar el funcionamiento de los elementos técnicos, electrónicos y humanos que intervienen en la captura, análisis y presentación de informes diarios sobre la seguridad institucional;
+
+III. Informar oportunamente a las autoridades superiores, sobre asuntos relevantes que vulneren o pongan en riesgo a la seguridad de los Centros Penitenciarios;
+
+IV. Supervisar diariamente la presentación y envío a la superioridad de los reportes y partes de novedades del estado que guarda la seguridad en cada Centro Penitenciario;
+
+V. Coordinarse con la Universidad de la Policía de la Ciudad de México, con el objeto de que el personal de la Subsecretaría del Sistema Penitenciario participe en los cursos de capacitación que permitan el estudio, enseñanza y divulgación del marco normativo en materia penal, penitenciaria y de Derechos Humanos;
+
+VI. Autorizar cualquier cambio de adscripción y vigilar el cumplimiento del programa de rotación periódica del personal de seguridad de las diferentes instalaciones que conforman la Subsecretaría de Sistema Penitenciario;
+
+VII. Aplicar medidas que permitan orden y disciplina en los Centros Penitenciarios;
+
+VIII. Supervisar el cumplimiento del uso de gafete de Identificación por el personal de Seguridad, aplicando las medidas disciplinarias, previstas por el incumplimiento de esta obligación;
+
+IX. Imponer u ordenar la imposición de sanciones al personal de seguridad, que se hagan acreedores a ellas, así como girar instrucciones para presentar ante el órgano o autoridad competente, los casos que por su gravedad así lo requieran;
+
+X. Solicitar por escrito a la superioridad el traslado de las personas privadas de la libertad que pongan en riesgo la seguridad institucional de los Centros Penitenciarios, expresando las razones o motivos que lo justifiquen;
+
+XI. Establecer un sistema permanente de supervisión para que el personal se conduzca con respeto a los derechos humanos;
+
+XII. Gestionar, en coordinación con la Subsecretaría de Inteligencia e Investigación Policial, la instalación de dispositivos, mecanismos y operativos de seguridad que se implementen en los Centros Penitenciarios y evaluar sus resultados;
+
+XIII. Compartir información con las autoridades competentes, para prevenir, combatir e investigar la comisión de delitos en el sistema penitenciario, y
+
+XIV. Las demás que le atribuya la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 56 Septies.
+
+Son atribuciones de la Dirección Ejecutiva de Agentes de Seguridad Procesal:
+
+I. Coordinar los traslados de las personas privadas de la libertad en los Centros Penitenciarios, hacia los lugares en que se ubiquen las sedes judiciales, así como establecer las medidas de seguridad y custodia durante los trayectos y en las salas de oralidad penal en la Ciudad de México;
+
+II. Coordinar la distribución y actuación de los agentes de seguridad procesal en las salas de audiencia en materia penal, cumpliendo con las medidas de seguridad, medidas especiales o los mecanismos necesarios o bien, las medidas que en su momento determine la autoridad jurisdiccional;
+
+III. Proponer a la Dirección General de Carrera Policial, los protocolos de actuación para el traslado, guarda y custodia de las personas imputadas o sentenciadas privadas de la libertad, así como la seguridad en las salas de audiencia en materia penal;
+
+IV. Colaborar en el marco de su competencia, con las instituciones de Procuración de Justicia, Seguridad Pública, Sistema Penitenciario y demás autoridades federales y locales, en los casos que así se requiera de conformidad con lo previsto en la normatividad aplicable;
+
+V. Implementar mecanismos de control para garantizar que los agentes de seguridad procesal cumplan con las órdenes e instrucciones que se reciban de las autoridades judiciales en materia penal de la Ciudad de México, en el desarrollo de las audiencias en dicha materia;
+
+VI. Dar seguimiento a las denuncias que se presenten en contra de los agentes de seguridad procesal con motivo del ejercicio de sus atribuciones, y
+
+VII. Las demás que le atribuya la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 56 Octies.
+
+Son atribuciones de la Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad del Sistema Penitenciario:
+
+I. Implementar mecanismos de vigilancia, control y seguimiento de las personas sentenciadas en libertad, respecto de las obligaciones impuestas por la o el Juez de Ejecución;
+
+II. Dar seguimiento a las medidas de tratamiento a inimputables impuestas por la o el Juez de Ejecución;
+
+III. Apoyar a la canalización a instituciones especializadas de tratamiento, a inimputables y a la familia o a la autoridad sanitaria a inimputables;
+
+IV. Participar en la elaboración, seguimiento y cumplimiento de los convenios de coordinación que se celebren con los gobiernos extranjeros, federal y de las Entidades Federativas, en materia de supervisión y seguimiento de la suspensión condicional de la pena, los sustitutivos penales y beneficios penitenciarios;
+
+V. Dar seguimiento a las personas sentenciadas a las que les fue otorgado el beneficio de reclusión domiciliaria a través de monitoreo electrónico a distancia;
+
+VI. Comunicar de manera oportuna a la o el Juez de Ejecución sobre el incumplimiento de las obligaciones contraídas con motivo de los beneficios preliberacionales y sanciones no privativas de la libertad;
+
+VII. Comunicar a la o el Juez de Ejecución la reincidencia o muerte de las personas sentenciadas que se encuentran en libertad, a fin de que determine lo que conforme a derecho proceda;
+
+VIII. Compartir y proporcionar información a las autoridades judiciales y administrativas del fuero federal y común, de conformidad a sus atribuciones legales, respecto de la suspensión condicional de la pena, los sustitutivos penales, beneficios penitenciarios y preliberacionales;
+
+IX. Vigilar que en el cumplimiento de la pena impuesta a las personas sentenciadas, y que se encuentran en libertad, se cumpla con absoluto respeto a los Derechos Humanos;
+
+X. Supervisar, controlar y evaluar la operación y funcionamiento de la Institución Abierta Casa de Medio Camino, a fin de proporcionar a las personas sentenciadas a quienes se les otorgue por la o el Juez de Ejecución el beneficio penitenciario de Tratamiento Preliberacional, atención en adicciones, educación, cultura, deporte y capacitación para el trabajo, para que al obtener su libertad tengan mayores elementos para su reinserción social;
+
+XI. Vigilar y supervisar el diseño y aplicación del programa de tratamiento individualizado de las personas sentenciadas beneficiadas con el Tratamiento Preliberacional para que éste se organice e instrumente con pleno respeto a sus derechos humanos y que contemple la participación en las disciplinas de psicología, trabajo social, criminología, adicciones y deporte;
+
+XII. Instrumentar el cumplimiento de las disposiciones del Juez de Ejecución que ordene que la persona sentenciada deba participar para su reinserción social en salidas grupales al exterior, en actividades culturales y recreativas que le permitan un acercamiento progresivo a la sociedad actual, impulsando para ello la participación de la sociedad civil e instituciones gubernamentales;
+
+XIII. Proponer la creación o modificación de módulos en el Sistema de Información Penitenciaria que permitan llevar el seguimiento y control de las personas sentenciadas en libertad;
+
+XIV. Conformar el Archivo de Expedientes de Personas Sentenciadas en Libertad de conformidad a lo establecido en las disposiciones legales de la materia y a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, y
+
+XV. Las demás que le atribuya la normatividad vigente.
+
 ###### Artículo 57.
 
 Son atribuciones de la Dirección Ejecutiva de Rendición de Cuentas:
 
 I. Representar a la Secretaría en lo relativo a la rendición de cuentas;
 
-II. Promover la participación de los servidores públicos en materia de rendición de cuentas;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+II. Contribuir en la participación de los servidores públicos en materia de rendición de cuentas;
 
 III. Dirigir la formulación y presentación de informes referidos a rendición de cuentas requeridos por instancias superiores;
 
@@ -1949,6 +2519,56 @@ V. Dirigir el trámite de atención a las auditorías, revisiones y verificacion
 VI. Difundir a las áreas de la Secretaría las acciones que se establezcan derivadas de los procesos de auditoría, revisiones y verificaciones que realicen los Órganos Fiscalizadores; y
 
 VII. Las demás que le atribuya la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 57 Bis.
+
+Son atribuciones de la Dirección Ejecutiva de Administración y Finanzas del Sistema Penitenciario:
+
+I. Coadyuvar en la programación y participar en la administración de los recursos humanos y materiales, así como en los recursos financieros destinados a los gastos por servicios personales y materiales del Sistema Penitenciario, conforme a las políticas, lineamientos, criterios y normas aplicables en la materia;
+
+II. Auxiliar en los actos necesarios para el cierre del ejercicio anual, de conformidad con los plazos legales y criterios emitidos por la autoridad competente;
+
+III. Coordinar la integración de los datos que se requieran para presentar sus informes trimestrales de avance programático presupuestal y la información para la elaboración de la Cuenta Pública;
+
+IV. Participar en el registro de las erogaciones realizadas;
+
+V. Vigilar la administración y disposición de los recursos autogenerados que sean captados a través de la producción de bienes y servicios en los talleres industriales del Sistema Penitenciario,
+
+VI. Coadyuvar en la coordinación, integración y tramitación de los programas que consignen inversión, así como dar seguimiento a su ejecución;
+
+VII. Elaborar el registro sobre el control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales, bajo el régimen de honorarios o cualquier otra forma de contratación en el Sistema Penitenciario;
+
+VIII. Participar en la formulación, instrumentación y evaluación del programa anual de Modernización Administrativa;
+
+IX. Elaborar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas del Sistema Penitenciario, así como supervisar su aplicación; y coordinar la recepción, guarda, suministro y control de los bienes muebles del Sistema Penitenciario, y la asignación y baja de los mismos;
+
+X. Instrumentar, de conformidad con la normatividad aplicable, los procesos de licitaciones públicas para la adquisición de bienes, arrendamiento de bienes inmuebles y contratación de servicios en el Sistema Penitenciario que establezca la Ley de Adquisiciones, así como sus procedimientos de excepción;
+
+XI. Coadyuvar para la adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, que realiza el Sistema Penitenciario, observando al efecto las disposiciones jurídicas y administrativas aplicables;
+
+XII. Aplicar al interior del Sistema Penitenciario las políticas, normas, sistemas, procedimientos y programas en materia de administración y desarrollo del personal, de organización, de sistemas administrativos, servicios generales, de la información que se genere en el ámbito de su competencia, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XIII. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la actuación de las diversas comisiones que se establezcan al interior del Sistema Penitenciario;
+
+XIV. Realizar las acciones que permitan instrumentar al interior del Sistema Penitenciario el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
+
+XV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los demás actos jurídicos de carácter administrativo o de cualquier otra índole que se requiera, dentro del ámbito de su competencia, para el buen desempeño del Sistema Penitenciario;
+
+XVI. Participar en la supervisión de la ejecución de obras de mantenimiento, remodelación y reparación de los bienes que requiera el Sistema Penitenciario, así como opinar sobre la contratación de los servicios generales, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+
+XVII. Opinar sobre la contratación conforme a la normatividad en materia de adquisiciones y de obras públicas, para la adecuada operación del Sistema Penitenciario;
+
+XVIII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requiera el Sistema Penitenciario;
+
+XIX. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
+
+XX. Elaborar el programa interno de protección civil de los inmuebles del patrimonio inmobiliario que ocupan el Sistema Penitenciario;
+
+XXI. Atender, tramitar y autorizar las solicitudes de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales encomendadas al Sistema Penitenciario, en el marco de la normatividad aplicable en la materia, y
+
+XXII. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 58.
 
@@ -1966,9 +2586,15 @@ V. Coordinar la elaboración y actualización del Manual Administrativo en sus a
 
 VI. Elaborar en coordinación con las Unidades Administrativas de la Secretaría, los documentos jurídico-administrativos a los que deban sujetarse para su buen funcionamiento;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+VI. Bis. Coordinar con las Unidades Administrativas adscritas a la Oficialía Mayor, los asuntos en materia jurídico-administrativa que le sean encomendados;
+
 VII. Inducir y conducir un proceso de cambio ordenado de la organización, enfocado en la planeación estratégica;
 
-VIII. Diseñar e implementar herramientas administrativas que permitan y faciliten el desarrollo de los procesos sustantivos de las Unidades Administrativas, así como su seguimiento en apego a los manuales, Procedimientos Administrativos, Lineamientos y demás instrumentos jurídicos y administrativos aplicables a la Secretaría;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+VIII. Elaborar en coordinación con la Dirección General de Administración de Personal y la Dirección General del Centro de Evaluación y Control de Confianza, los perfiles de puestos de plazas de estructura, cada vez que se emita un dictamen de estructura orgánica, así como someterlos a consideración de las Unidades Administrativas y Unidades Administrativas Policiales respectivas;
 
 IX. Diseñar e implementar sistemas administrativos orientados a mejorar y facilitar la operación de los procesos y actividades que desarrollan las Unidades Administrativas adscritas a la Oficialía Mayor;
 
@@ -1994,7 +2620,7 @@ VI. Dirigir la integración del anteproyecto de presupuesto anual de servicios p
 
 VII. Coordinar y supervisar la entrega de estímulos y recompensas en los términos previstos por la ley de la materia y las Condiciones Generales de Trabajo del personal de la Secretaría;
 
-VIII. Establecer los Lineamientos para la operación de los Centros de Desarrollo Infantil adscritos a la Secretaría, de conformidad con el marco normativo establecido por las instancias competentes;
+VIII. (DEROGADA, G.O. 18 DE OCTUBRE DE 2021)
 
 IX. Coadyuvar en la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia, así como por Autoridades Jurisdiccionales, respecto de personal al servicio de la Secretaría;
 
@@ -2050,29 +2676,51 @@ Son atribuciones de la Dirección General de Finanzas:
 
 I. Coordinar la integración del Anteproyecto de Presupuesto de Egresos y del Programa Operativo Anual de la Secretaría, así como acordar su gestión ante la Secretaría de Administración y Finanzas, previo visto bueno del superior jerárquico;
 
-II. Informar a las Unidades Administrativas que integran la Secretaría el presupuesto autorizado anualmente a ésta por el Congreso de la Ciudad de México, así como los lineamientos para ejercerlos;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-III. Establecer mecanismos para el seguimiento de la evolución del ejercicio del presupuesto autorizado a la Secretaría e integrar los informes requeridos en la materia;
+II. Informar a las Unidades Administrativas correspondientes, la normatividad, políticas y criterios generales emitidos para ejercer el presupuesto autorizado anualmente a la Secretaría;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+III. Establecer controles auxiliares relacionados con el presupuesto autorizado, modificado, comprometido, devengado y ejercido de la Secretaría;
 
 IV. Coordinar la elaboración y gestión de las adecuaciones presupuestales necesarias para modificar el presupuesto asignado a la Secretaría, en atención a la operación de las Unidades Administrativas de la misma;
 
-V. Organizar los trabajos para la elaboración de los controles auxiliares sobre el presupuesto autorizado, modificado, comprometido, devengado y ejercido;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-VI. Establecer los criterios de análisis de la documentación que radican las unidades administrativas de la Secretaría sobre el ejercicio del gasto;
+V. Ordenar la realización de informes en materia presupuestal;
 
-VII. Establecer los Lineamientos para la captación de información programático-presupuestal de la Secretaría, para efectos de la integración de la Cuenta Pública y de los informes de avance trimestral que la normatividad señale y someter dichos informes a la consideración del superior jerárquico;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-VIII. Proponer ante la instancia correspondiente, los procedimientos para la integración y seguimiento de los reportes de ingresos y egresos derivados de la captación de los ingresos de aplicación automática, en apego a las disposiciones que emita para su manejo la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México;
+VI. Establecer criterios para el análisis de la documentación soporte sobre el ejercicio del gasto que radique en las Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría;
 
-IX. Asegurar la guarda y custodia de los documentos que obran en los archivos de la Dirección de Tesorería, que soportan el compromiso, devengo y ejercicio del gasto registrado en el Sistema informático de planeación de recursos gubernamentales, con cargo al presupuesto autorizado a la Secretaría, así como el resguardo de los documentos financieros comprobatorios generados en la operación de la Dirección General;
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-X. Proponer el establecimiento de procedimientos para la instrumentación de los registros auxiliares sobre el ejercicio del gasto que se observe durante el transcurso del ejercicio presupuestal, así como generar la información para la integración de los informes que en términos de la normatividad se deben difundir;
+VII. Establecer Lineamientos para la captación de información programático-presupuestal de la Secretaría, para efectos de la integración de la Cuenta Pública y de los informes de avance trimestral que la normatividad señale y someterlos a consideración del superior jerárquico;
 
-XI. Emitir Lineamientos en materia programático-presupuestal para establecer los requisitos a cumplir por parte de las Unidades Administrativas de la Secretaría, (sic)
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
-XII. Coordinar el trámite de pago de los capítulos servicios personales, materiales y suministros, servicios generales, transferencias, asignaciones, subsidios y otras ayudas, bienes muebles, inmuebles e intangibles e inversión pública, ante la Secretaría de Administración y Finanzas, mediante el Sistema de Planeación de Recursos Gubernamentales, así como en lo relativo a honorarios asimilables a salarios el pago lo realizará la Dirección de Tesorería;
+VIII. Coordinar las acciones para la integración y seguimiento de los reportes de ingresos y egresos derivados de la captación de los ingresos de aplicación automática;
 
-XIII. Gestionar y suscribir aquellos documentos inherentes a la contratación y pago de servicios profesionales bajo el régimen de honorarios, llevando el registro y control de los formatos y demás documentación que con tal motivo deban rendirse y/o tramitarse, ante otras unidades administrativas de la misma Secretaría o Dependencias de la Administración Pública de la Ciudad de México, y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+IX. Ordenar la guarda y custodia de los documentos que soportan el compromiso, devengo y ejercicio del gasto registrado en el Sistema de Planeación de Recursos Gubernamentales administrado por la Secretaría de Administración y Finanzas, con cargo al presupuesto autorizado a la Dependencia;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+X. Instruir el otorgamiento de las suficiencias presupuestales, en atención a las solicitudes de las Unidades Administrativas de la Secretaría;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XI. Emitir Lineamientos para la captación de información necesaria para el seguimiento de los programas presupuestarios asignados a la Secretaría;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XII. Coordinar el registro para el trámite de pago de los compromisos devengados por la Dependencia en el Sistema de Planeación de Recursos Gubernamentales administrado por la Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+
+XIII. Gestionar y suscribir los documentos inherentes a la contratación y pago de servicios profesionales bajo el régimen de honorarios asimilados a salarios, y realizar el registro y control de la documentación que con tal motivo deba rendirse o tramitarse ante diversas instancias de la Administración Pública de la Ciudad de México, y
 
 XIV. Las demás que le atribuya la normatividad vigente.
 
@@ -2209,3 +2857,19 @@ DÉCIMO.- Las Unidades Administrativas que por virtud de este Reglamento se modi
 DÉCIMO PRIMERO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Reglamento hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 Dado en la Residencia Oficial de la Jefa de Gobierno de la Ciudad de México, a los 21 días del mes de febrero de dos mil veinte.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO. Las disposiciones relativas a la substanciación de los recursos que podrán interponer los integrantes del Sistema Penitenciario, con motivo de las resoluciones emitidas por el Consejo de Honor y Justicia, se establecerán en los Reglamentos que para tal efecto emita la persona titular de la Jefatura de Gobierno, en un término no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente ordenamiento.
+
+CUARTO. Los asuntos que, con la entrada en vigor del presente Decreto, se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen atribuciones, serán atendidos y resueltos por aquellas que son transferidas, hasta en tanto se actualice la estructura orgánica y los Manuales de la Secretaría.
+
+QUINTO. Las referencias hechas en otros ordenamientos, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
