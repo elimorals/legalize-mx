@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-08-30"
+last_updated: "2021-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -671,9 +671,31 @@ Si a la hora señalada para el inicio de la sesión no existe quórum legal, se 
 
 Los casos suscitados durante las sesiones y que no estén previstos en el presente Código, serán resueltos por quien presida, y con la aprobación de la mayoría simple del Cabildo.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 27.
 
-Son Sesiones Ordinarias Abiertas las que se celebrarán en los meses de marzo y agosto, de cada año, con los requisitos y términos del artículo anterior; además se publicará en los periódicos de mayor circulación la invitación a la ciudadanía a fin de que participe activamente en la Sesión, dado que la misma se constituye como audiencia pública ante el Cabildo.
+Son Sesiones Ordinarias Abiertas, son (sic) aquellas que se celebran en los meses de febrero, mayo, agosto y noviembre de cada año, con los requisitos y términos del artículo anterior; además se publicará quince días naturales previos a la celebración de cada Sesión, en los periódicos de mayor circulación, en la página oficial y en las cuentas oficiales de las redes sociales o a través de los medios electrónicos con los que cuenta el Municipio de Aguascalientes así como en los estrados de las Dependencias y Entidades municipales, la invitación y convocatoria a la ciudadanía con el fin de promover e incentivar la participación ciudadana en el Municipio de Aguascalientes.
+
+Las Sesiones Ordinarias Abiertas, previo acuerdo del H. Ayuntamiento y de conformidad con lo dispuesto por el artículo 39 del presente Código, podrán tener el carácter de itinerantes al tener como recinto oficial cualquier punto ubicado dentro del territorio del Municipio.
+
+La Secretaría del H. Ayuntamiento y Dirección General de Gobierno al día siguiente de la publicación de la invitación y convocatoria, y hasta cinco días hábiles previos a la celebración de la Sesión Ordinaria Abierta, habilitará la recepción e inscripción de las solicitudes de la ciudadanía interesada en participar dentro de la Sesión; las cuales deberán cumplir con los siguientes requisitos:
+
+I. Nombre completo, identificación oficial, domicilio vigente dentro del territorio municipal, clave de elector, correo electrónico y firma; en los casos en los que haya varios solicitantes, los datos antes señalados del representante común;
+
+II. Señalamiento de si la solicitud es para la discusión, presentación de idea, propuesta, iniciativa, demanda, petición o gestión;
+
+III. Especificar de manera detallada el tema situación o problemática de la solicitud, estrictamente de competencia municipal, acompañado de una narración clara y concisa de los motivos de la misma; y
+
+IV. En caso de ser posible y considerarse oportuno, la documentación que dé soporte y funde la solicitud.
+
+En todos los casos, el H. Ayuntamiento determinará el número de aquellas solicitudes de participación ciudadana registradas e inscritas para cada Sesión Ordinaria Abierta. Aquellas solicitudes que cumplan con los requisitos anteriormente mencionados; el H. Ayuntamiento, por conducto de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno notificará a las ciudadanas y ciudadanos, el día, la hora y el lugar en la que se llevará a cabo la Sesión Ordinaria Abierta, atendiendo al orden de prelación de presentación de la solicitud.
+
+La ciudadanía, en el día y hora señalada para tal efecto, dispondrá de cinco minutos en la cual expondrá su solicitud o petición en la Sesión y de manera ordenada, respetuosa y responsable, participara con derecho a voz pero sin voto, con el fin de mantenerse informado y de discutir asuntos de interés que son competencia y atribución exclusiva del Municipio conforme a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, dado que la misma se constituye como audiencia pública ante el Cabildo.
+
+Se requerirá la asistencia a las Sesiones Ordinarias Abiertas, de las y los titulares de las Dependencias y Entidades de la Administración Pública Municipal que tengan relación con los temas de las peticiones o solicitudes de participación ciudadana registradas, a efecto de que se atiendan y en caso oportuno se dé trámite correspondiente a las mismas.
+
+Las Dependencias y Entidades municipales, en el ámbito de sus competencias, deberán remitir a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno un informe detallado en el cual se dé a conocer el estado en que se encuentra el trámite y resolución que guardan cada una de las solicitudes y peticiones dadas a conocer en la Sesión Ordinaria Abierta; dichos informes serán incluidos en el orden del día de la siguiente Sesión Ordinaria.
 
 ###### ARTÍCULO 28.
 
@@ -977,7 +999,9 @@ I. Gobernación.
 
 II. Hacienda.
 
-III. Seguridad Pública.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2021)</small>
+
+III. Seguridad Pública y Protección Civil.
 
 IV. Comisión de Desarrollo Social.
 
@@ -24188,3 +24212,19 @@ P.O. 30 DE AGOSTO DE 2021.
 PRIMERO: La presente REFORMA MEDIANTE EL (SIC) CUAL SE DEROGAN LOS ARTÍCULOS 292 AL 409 EXCEPTUANDO LOS ARTÍCULOS 342 BIS, 342 TER, 342 QUATER, 342 QUINQUIES, 342 SEXIES, 342 SEPTIES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES Y MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO: Todos los trámites que se hubiesen iniciado bajo la vigencia de los ordenamientos legales señalados en el TRANSITORIO PRIMERO, se deberán de concluir con los procedimientos previstos en los mismos.
+
+P.O. 18 DE OCTUBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA AL ARTÍCULO 27 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+PRIMERO: La presente reforma al artículo 27 del Código Municipal de Aguascalientes, iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: La Sesión Ordinaria Abierta correspondiente al mes de noviembre del año 2021, deberá ser aprobada por el H. Ayuntamiento Constitucional del Municipio de Aguascalientes en su Sesión Ordinaria del mes de octubre del año en curso y tendrá el carácter de itinerante.
+
+P.O. 18 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA REFORMA AL ARTÍCULO 82 APARTADO A) INCISO III DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO: La presente reforma al artículo 82 apartado A) inciso III del Código Municipal de Aguascalientes, iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior COMISIÓN PERMANENTE DE SEGURIDAD PÚBLICA, se entenderán hechas o conferidas al actual COMISIÓN PERMANENTE DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL.
