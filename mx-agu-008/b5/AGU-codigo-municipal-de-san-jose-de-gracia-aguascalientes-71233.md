@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2021-10-04"
+last_updated: "2021-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2021.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -4285,11 +4285,11 @@ Se entiende por servicio público de limpia la recolección, manejo, tratamiento
 
 ###### ARTÍCULO 407.
 
-La organización del servicio público de limpia estará a cargo del Municipio, a través de la Dirección de Servicios Públicos o del departamento o unidad administrativa que designe esta última.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 408.
 
-Todo lo relativo a la limpia, recolección y disposición final de residuos se realizará en apego a lo dispuesto en el Reglamento de Limpia del Municipio de San José de Gracia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ### CAPÍTULO IV. De los Mercados y Tianguis
 
@@ -5189,243 +5189,121 @@ III. Arresto hasta por 36 horas.
 
 ###### ARTÍCULO 527.
 
-Las áreas verdes públicas municipales representan sitios de esparcimiento, recreación, imagen urbana y equilibrio ecológico y están comprendidas en las siguientes:
-
-I. Los Parques Urbanos y Rurales;
-
-II. Los Jardines, Plazas y Fuentes Públicas;
-
-III. Camellones, Triángulos y Glorietas; y,
-
-IV. Banquetas y Andadores Arbolados.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 528.
 
-La Dirección de Servicios Públicos en coordinación con la Dirección de Obras Públicas del Municipio, son las instancias encargadas de construir, contratar o concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas. Lo anterior comprende la selección de especies, su propagación, plantación, riego, poda, fertilización, control de plagas y demás actividades necesarias para el buen desarrollo de las especies vegetales de dichas áreas verdes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 529.
 
-Las acciones de derribo y remoción de vegetación, así como la disposición de dichos residuos, una vez autorizadas por el Municipio, serán responsabilidad del interesado, a quien sólo se le dará asesoría al respecto.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 530.
 
-La adecuada forestación de banquetas, camellones y aquellas áreas de donación que el Municipio determine en el proceso de autorización de Fraccionamientos de nueva creación, deberá ser por cuenta del fraccionador y se apegará a lo siguiente:
-
-I. Utilizar sólo especies adecuadas según el Manual que emita el Municipio de San José de Gracia, a través del área encargada;
-
-II. La planta utilizada deberá cumplir las características en cuanto a tamaño, salud y estado físico, que marque el mencionado Manual; y,
-
-III. Las dimensiones y distancia entre las cepas, la preparación de las mismas, y la tierra a utilizar deberá ser según lo marca dicho Manual de Forestación y Manejo de Áreas Verdes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 531.
 
-El derribo, poda, extracción o remoción de vegetación de un área verde pública sólo podrá efectuarse en los siguientes casos, previa autorización de la Dirección de Servicios Públicos:
-
-I. Cuando se ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
-
-II. Cuando se hubiere comprobado que el vegetal está muerto o en caso de enfermedad o plaga severa y con riesgos de contagio;
-
-III. Cuando la imagen urbana se vea afectada significativamente; y,
-
-IV. Cuando se compruebe que es de utilidad pública.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 532.
 
-Para efectos de la autorización a que se refiere el Artículo anterior, los interesados deberán presentar solicitud por escrito, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Servicios Públicos, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 533.
 
-Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra u otras especies vegetales propias para el área en cuestión o en su caso en donde determine la propia Dirección.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 534.
 
-No se permitirá plantar árboles o arbustos en banquetas menores de 80 centímetros de ancho, ni en camellones menores de 50 centímetros de ancho, a excepción de pastos. Tampoco se permitirá la plantación de especies que por la raíz que desarrollen puedan dañar las redes de conducción de agua potable y alcantarillado, o de banquetas y guarniciones.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 535.
 
-Tratándose de una misma vialidad, con la finalidad de facilitar el mantenimiento y que las especies mantengan una altura uniforme, sin afectar los cableados aéreos en dicha calle, siempre se deberá plantar como máximo tres diferentes especies o variedades de plantas y en un estado de desarrollo similar, en ambas aceras.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 536.
 
-En el camellón de las Avenidas sólo deberá plantarse de una a tres especies, preferentemente perennifolias y que demanden poco mantenimiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 537.
 
-La distancia entre los árboles no deberá ser menor que la anchura de sus copas en estado de madurez, excepto en el caso de setos o cortinas rompevientos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 538.
 
-La Dirección de Servicios Públicos autorizará y supervisará el derribo y desrame de árboles en espacios públicos y en predios urbanos de propiedad particular, condicionando la autorización a la reposición del doble de la cobertura vegetal perdida.
-
-La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en las normas de la materia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 539.
 
-Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tomando como base las reportadas en el (sic) las normas aplicables y los manuales que al efecto se expidan.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 540.
 
-Toda persona que solicite un árbol para el frente de su propiedad será responsable de su cuidado y mantenimiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 541.
 
-Para la autorización de funcionamiento de viveros, centros reproductores y comercializadoras de plantas, se exigirá la autorización de la Secretaría del Medio Ambiente y Recursos Naturales.
-
-En caso de comercializar otras especies deberá comprobar su adaptación a las características ambientales del Municipio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 542.
 
-Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 # LIBRO QUINTO. MEDIO AMBIENTE Y RECURSOS NATURALES
 
 ###### ARTÍCULO 543.
 
-Siendo uno de los fines primordiales del Municipio el lograr el bienestar de sus habitantes, éste velará por la preservación del medio que los rodea, mediante la protección de la ecología y el mejoramiento del medio ambiente del Municipio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 544.
 
-Las disposiciones del presente apartado son de orden público e interés social y regulan la conservación, protección, restauración, preservación y regeneración del ambiente, así como el control, corrección y prevención de los procesos de deterioro ambiental.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 545.
 
-El H. Ayuntamiento con base a lo establecido por la ley de Protección Ambiental para el Estado de Aguascalientes, goza de las siguientes atribuciones:
-
-I. Aplicar la Política estatal ecológica y formular los criterios ecológicos particulares que deberán observarse en la aplicación e instrumentación de dicha política;
-
-II. Promover el ordenamiento ecológico, en forma congruente con la Federación y el Gobierno del Estado;
-
-III. Vigilar el ordenamiento ecológico municipal, en asentamientos urbanos y áreas rurales, en congruencia con la programación de desarrollo urbano del Estado; con los planes de desarrollo agropecuario y forestal y demás instrumentos jurídicos aplicables;
-
-IV. Llevar a cabo las acciones necesarias para preservar y restaurar el equilibrio ecológico, así como para proteger y mejorar el ambiente en relación con bienes y zonas de competencia municipal, promoviendo en ello la participación social;
-
-V. La salvaguarda de jardines, parques y zonas sujetas a conservación ecológica, lo cual comprende su creación, regulación, administración y vigilancia;
-
-VI. Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población, en relación con efectos derivados de los servicios públicos municipales;
-
-VII. Fijar y aplicar medidas de prevención y control de emergencias ecológicas y contingencias ambientales, por si o en forma coordinada con el Gobierno Estatal y/o Federal;
-
-VIII. Celebrar convenios con el Ejecutivo del Estado, con la Federación, o con Municipios, que tendrán por objeto tomar medidas para contrarrestar los efectos nocivos de la contaminación, preservar los ecosistemas, así como adquirir equipos y maquinaria necesarios para la atención a problemas ecológico-ambientales;
-
-IX. Fijar medidas de vigilancia, prevención y control de la contaminación de la atmósfera, generada en zonas o por fuentes sujetas a competencia municipal;
-
-X. Prevenir y controlar la contaminación de las aguas que tenga asignadas o concesionadas para utilizarse en la prestación de servicios públicos; y aquéllas que descarguen en las redes de alcantarillado de los centros de población;
-
-XI. La reglamentación del manejo y disposición final de los residuos sólidos que no sean peligrosos, conforme a la Ley general que rige la materia, así como de sus disposiciones reglamentarias;
-
-XII. El establecimiento de las medidas necesarias para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, energía lumínica, descargas a redes de drenaje y olores perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes emisoras de jurisdicción estatal o federal;
-
-XIII. La reglamentación, como facultad concurrente con el Estado, de las actividades riesgosas, cuando debido a sus efectos colaterales se afecten ecosistemas o el ambiente de circunscripción municipal; salvo el caso de actividades consideradas “altamente riesgosas”, cuya regulación explícita corresponde a la Federación, de acuerdo con la Ley General de la materia;
-
-XIV. Evaluar el impacto ambiental en materias que caen dentro de la competencia municipal, que implican la realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos o en las Normas Oficiales Mexicanas emitidas por la Federación;
-
-XV. Aplicar las Normas Oficiales Mexicanas en la materia;
-
-XVI. Ordenar el decomiso de materiales o sustancias contaminantes; la clausura temporal, parcial o total de las fuentes contaminantes correspondientes, cuando exista riesgo de desequilibrio ecológico o casos de contaminación con repercusiones para los servicios públicos, los ecosistemas o sus componentes, o de la salud pública; y,
-
-XVII. Promover el uso eficiente de la energía para asegurar el suministro de la misma, proteger a la población, fomentar la competitividad de la economía municipal y reducir el impacto ambiental negativo del uso y consumo de los energéticos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 546.
 
-Se considera de competencia exclusiva de la Federación, según lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la regulación de los materiales o residuos peligrosos, por lo que el Municipio participará como auxiliar en todas la instancias competentes para el cumplimiento de lo dispuesto en la legislación vigente en los términos de los acuerdos que para tal efecto se celebren. Así mismo el Municipio proporcionará las facilidades administrativas e información u orientación necesarias para que las actividades comerciales que se realizan en mercados y vías públicas así como en otros establecimientos comerciales e industriales manejen y confinen sus desechos según lo dispuesto por las leyes y ordenamientos en la materia.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 547.
 
-En términos de lo señalado en los artículos anteriores, el H. Ayuntamiento nombrará el área encargada de vigilar la preservación ecológica dentro del territorio municipal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 548.
 
-Para la protección ecológica y regulación de la contaminación en la atmósfera, el Municipio deberá:
-
-I. Requerir a las personas que realicen actividades que contaminen la atmósfera, para que se sujeten a las medidas correspondientes para la reducción de emisiones atmosféricas contaminantes;
-
-II. Sancionar, o en su caso, dar aviso a las autoridades estatales y federales, en los ámbitos de su competencia, sobre la existencia de actividades contaminantes;
-
-III. En coordinación con la unidad municipal de protección civil, tomará las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente; y,
-
-IV. Se prohíbe y será materia de sanción el realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, sin autorización previa y por escrito de la autoridad competente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 549.
 
-Corresponde al H. Ayuntamiento, a través del organismo operador municipal de los Servicios de Agua Potable y Saneamiento, en coordinación con el área de ecología, en cuanto a la prevención y control de la contaminación y al uso racional del agua, lo siguiente:
-
-I. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente;
-
-II. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal;
-
-III. Prevenir y controlar la contaminación que los servicios públicos municipales pudieran generar, para evitar que se afecte la calidad del agua;
-
-IV. Llevar y actualizar el registro de descargas de agua residuales en los sistemas de drenaje y alcantarillado que administre;
-
-V. Colaborar con el Estado y la Federación en el control de la calidad de las descargas que hayan obtenido;
-
-VI. Denunciar a la autoridad competente a quien realice descargas o vertimientos de aguas encontradas en el Municipio con materiales radioactivos u otros que excedan su competencia; y,
-
-VII. Promover el rehúso de aguas residuales tratadas en la industria, la agricultura y el riego de áreas verdes, cumpliendo con la normatividad ambiental.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 550.
 
-En cuanto a la protección del suelo y el manejo de los residuos sólidos municipales, corresponde al H. Ayuntamiento:
-
-I. Vigilar que se dé el manejo adecuado a los residuos sólidos que se generen por la prestación de Servicios Públicos Municipales;
-
-II. Vigilar que el servicio municipal de limpia realice la recolección, acopio, reciclaje y disposición final de los residuos sólidos municipales con apego a la normatividad ambiental vigente y sin que represente riesgos para el ambiente y la salud;
-
-III. Celebrar acuerdos de coordinación con los municipios colindantes para enviar o recibir residuos sólidos no peligrosos para su disposición final;
-
-IV. Realizar las denuncias que correspondan por fuentes generadoras de residuos sólidos peligrosos en el territorio municipal;
-
-V. Llevar un inventario de los sitios autorizados de disposición final de residuos sólidos no peligrosos y de las fuentes generadoras que incluirán un registro de las cantidades que se producen, sus componentes y las características de los sistemas y sitios de manejo, transporte, almacenamiento, alojamiento, recuperación, tratamiento y disposición final;
-
-VI. Fomentar el desarrollo de infraestructura de apoyo para acopio y reciclaje de residuos sólidos municipales; y,
-
-VII. Fomentar a través de programas de educación ambiental la disminución en la generación de basura y residuos y cambio en patrones de consumo y producción.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 551.
 
-Queda prohibido producir emisiones de energía térmica, sonora, lumínica y radiaciones ionizantes electromagnéticas; así como vibraciones y olores perjudiciales al ambiente o a la salud, o que afecten la flora y/o la fauna, los bienes y ecosistemas, cuando se contravengan las Normas Oficiales vigentes y las disposiciones legales correspondientes.
-
-Toda persona que realice alguna actividad relacionada con las emisiones descritas en el párrafo anterior, deberá instalar los dispositivos y métodos de aislamiento necesarios a fin de no ser perjudiciales para la población y el sistema ecológico del Municipio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 552.
 
-Las áreas naturales del territorio municipal serán materia de protección, susceptibles de quedar bajo la rectoría del H. Ayuntamiento, en los términos de este Código, de la Ley General de Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección Ambiental para el Estado de Aguascalientes, y demás Leyes aplicables en la materia, para los propósitos y con los efectos y modalidades que se precisen en la declaratoria correspondiente, imponiéndoles las limitaciones que determinen las mismas, bajo la denominación de Áreas Naturales Protegidas.
-
-Los programas de manejo integral de las áreas naturales protegidas de competencia municipal serán elaborados por el Municipio, por si o a través de terceros; y la declaratoria de área natural protegida será expedida por el ejecutivo estatal a iniciativa del H. Ayuntamiento.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 553.
 
-Para la protección de la flora y fauna silvestre y acuática existente en el Municipio, el H. Ayuntamiento podrá celebrar, con la intervención que corresponda al Gobierno del Estado, acuerdos con la Federación para:
-
-I. Apoyar a la Procuraduría Federal de Protección al Ambiente para hacer cumplir el establecimiento, modificación y/o levantamiento de las vedas de flora y fauna silvestre y acuática dentro del territorio municipal;
-
-II. Apoyar al Instituto Nacional de Ecología y a la Secretaría de Medio Ambiente Recursos Naturales y Pesca en la vigilancia y control del aprovechamiento de recursos naturales en áreas que sean el hábitat de especies de flora y fauna silvestre y acuática, especialmente en las endémicas, amenazadas o en peligro de extinción existentes en el Municipio;
-
-III. Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales, en el control de la caza, venta, explotación y aprovechamiento de especies de flora y fauna silvestre y acuática existentes en el Municipio;
-
-IV. Denunciar ante la Procuraduría Federal de Protección al Ambiente, el Instituto Nacional de Ecología o la Secretaria de Medio Ambiente y Recursos Naturales, la caza, captura, compra o tráfico ilegal de especies de flora y fauna silvestre y acuática existente en el Municipio; y,
-
-V. Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la elaboración y/o actualización del inventario de las especies de flora y fauna silvestre y acuática existente en el Municipio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 554.
 
-Corresponde al H. Ayuntamiento a través del área encargada de Ecología, el fomento e impulso a los planes, proyectos y programas de educación ambiental no formal e informal entre todos los sectores de la sociedad y en todas las comunidades del territorio municipal, asimismo y en coordinación con el Estado y Federación se promoverá la educación ambiental formal, ambas con el fin de:
-
-I. Que la población del Municipio conozca y comprenda los principales problemas ambientales de su comunidad, sus orígenes y consecuencias, así como las formas y medios por los que se pueden prevenir y controlar;
-
-II. Concientizar a los habitantes del Municipio para que a través de un cambio de actitud coadyuven a la conservación, protección y mejoramiento del ambiente, así como a denunciar a todas aquellas personas físicas o morales, públicas o privadas que atenten contra el medio ambiente;
-
-III. Fomentar e inculcar en la población las actitudes básicas que conllevan a la disminución de generación de basura y el ahorro del agua, impulsando en todo momento la participación ciudadana en materia de regulación de la contaminación;
-
-IV. Fomentar en coordinación con la Federación y con el Estado, el respeto, conocimiento y protección de la flora y fauna urbana y silvestre existente en el Municipio;
-
-V. Promover la creación de una cultura orientada al empleo racional de los recursos energéticos para impulsar el desarrollo sostenible del Municipio, buscando un equilibrio entre la conservación del ambiente y el desarrollo económico; y,
-
-VI. Elaborar el programa Municipal de Educación Ambiental, el cual funcionará como base de las acciones que se deban realizar en el Municipio en materia de educación ambiental.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 555.
 
-Toda persona, física o moral, deberá denunciar ante la autoridad municipal en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daño al ambiente, a los recursos naturales, o contravenga las disposiciones del presente Código y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2020)</small>
 
@@ -5435,15 +5313,13 @@ Toda persona, física o moral, deberá denunciar ante la autoridad municipal en 
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
-
 ###### ARTÍCULO 556.
 
-Las disposiciones del presente Libro tiene (sic) por objeto reglamentar la función de seguridad pública y movilidad en el Municipio de San José de Gracia, así como establecer las bases de coordinación entre la Federación, el Estado y el Municipio en estas materias.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 557.
 
-La Seguridad Pública es la función a cargo de la Federación, el Estado y sus Municipios que tiene como fines prevenir el delito, salvaguardar la integridad y derechos de las personas, así como preservar el orden público y la paz social.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, P.O. 18 DE OCTUBRE DE 2021)
 
 ###### ARTÍCULO 558.
 
@@ -13782,3 +13658,19 @@ P.O. 4 DE OCTUBRE DE 2021.
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 18 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+En todo lo no previsto por el presente reglamento, se estará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Constitución Política del Estado Libre y Soberano de Aguascalientes, la Ley Estatal de Protección al Ambiente, la Ley de Protección a los animales del estado de Aguascalientes y demás disposiciones jurídicas aplicables.
+
+###### ARTICULO SEGUNDO.
+
+El presente reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan los artículos 407,408 y del 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545 hasta el 557 del Código Municipal de San José de Gracia y todas las disposiciones, reglamentos o acuerdos administrativos que contravengan lo dispuesto por el presente Reglamento.
