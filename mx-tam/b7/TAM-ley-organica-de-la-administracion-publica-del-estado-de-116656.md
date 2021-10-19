@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2021-09-21"
+last_updated: "2021-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -355,9 +355,15 @@ XXXII. Calificar jurídicamente, previo a su otorgamiento, suspensión, cancelac
 
 XXXIII. Dar trámite a las atribuciones del Poder Ejecutivo en materia de otorgamiento y cancelación de permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales, zonas urbanas y demás guías de jurisdicción estatal en términos de las leyes aplicables;
 
-XXXIV. Organizar, dirigir y administrar el servicio para la atención a las víctimas de violencia; así como de todo aquello que lacere a la sociedad; y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, o con el sector privado; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2021)</small>
 
-XXXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXXIV. Organizar, dirigir y administrar el servicio para la atención a las víctimas de violencia; así como de todo aquello que lacere a la sociedad; y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, o con el sector privado;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2021)</small>
+
+XXXV. Organizar y vigilar el funcionamiento de la Comisión Estatal de Búsqueda de Personas; y
+
+XXXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección III. De la Secretaría de Finanzas
 
@@ -1874,3 +1880,43 @@ Derivado del cambio en la atribución relativa a la coordinación del Sistema de
 ###### ARTÍCULO TERCERO.
 
 La disposición relativa al resguardo y cuidado de la documentación comprobatoria del gasto por parte de las dependencias ejecutoras del mismo, a que hace referencia el segundo párrafo del artículo 56 del presente Decreto, entrará en vigor a partir del 1° de enero de 2022, ello con la finalidad de que se determinen las medidas necesarias para su implementación por parte de la Secretaría, la Contraloría Gubernamental y las dependencias y entidades involucradas.
+
+P.O. 19 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-796 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado de Tamaulipas y la Secretaría General de Gobierno, deberán realizar las acciones jurídicas necesarias en la normatividad aplicable, a fin de armonizarla a lo establecido en el mismo.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría General de Gobierno, Contraloría Gubernamental, Secretaría de Finanzas y a la Secretaría de Administración, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos, materiales y financieros que estaban adscritos a la Comisión Estatal de Búsqueda de Personas Organo Desconcentrado de la Fiscalía General de Justicia del Estado, se transferirán a la Secretaría General de Gobierno para que ésta, a su vez, los asigne conforme a la naturaleza de sus funciones a las unidades administrativas del órgano desconcentrado creado mediante el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no se emita la normatividad indispensable para el funcionamiento de la Comisión Estatal de Búsqueda de Personas, se seguirán aplicando las disposiciones legales y administrativas vigentes de la Fiscalía General de Justicia del Estado al momento de la entrada en vigor del presente Decreto, en lo que no se opongan a la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, sustanciados por la Fiscalía General de Justicia del Estado o su Órgano Interno de Control serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO OCTAVO.
+
+El Titular de la Comisión Estatal de Búsqueda de Personas designado mediante Decreto LXIV-154, publicado en el Periódico Oficial del Estado Número 129 de fecha 27 de octubre de 2020, continuará en su cargo hasta concluir el periodo para el cual fue designado.
+
+###### ARTÍCULO NOVENO.
+
+Las personas integrantes del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de Personas designadas mediante Decreto LXIII-797, publicado en el Periódico Oficial del Estado Número 55 de fecha 7 de mayo de 2019, continuarán en su cargo hasta concluir el periodo para el cual fueron designados.
