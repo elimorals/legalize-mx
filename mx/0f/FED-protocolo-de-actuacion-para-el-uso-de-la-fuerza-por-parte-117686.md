@@ -4,7 +4,7 @@ identifier: "FED-protocolo-de-actuacion-para-el-uso-de-la-fuerza-por-parte-11768
 country: "mx"
 rank: "otro"
 publication_date: "2016-12-12"
-last_updated: "2016-12-12"
+last_updated: "2021-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117686&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-11-08"
 ---
 # PROTOCOLO DE ACTUACION PARA EL USO DE LA FUERZA POR PARTE DE LOS INTEGRANTES DEL SERVICIO DE PROTECCION FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL PROTOCOLO DE ACTUACIÓN PARA EL USO DE LA FUERZA POR PARTE DE LOS INTEGRANTES DEL SERVICIO DE PROTECCIÓN FEDERAL, PUBLICADO EN EL D.O.F. DE 19 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 PROTOCOLO DE ACTUACIÓN PARA EL USO DE LA FUERZA POR PARTE DE LOS INTEGRANTES DEL SERVICIO DE PROTECCIÓN FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2021 (DEROGADO).
 
 Protocolo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de diciembre de 2016.
 
@@ -288,3 +290,19 @@ Segundo.- Publíquese el presente Protocolo en el Diario Oficial de la Federaci�
 Tercero.- Los titulares de las unidades administrativas de la Institución deberán difundir el presente protocolo entre los Integrantes adscritos a sus respectivas unidades administrativas y vigilar su correcta observancia y aplicación.
 
 Dado en la Ciudad de México, a los ocho días del mes de noviembre de dos mil dieciséis.- El Comisionado del Servicio de Protección Federal, Alfonso Ramón Bagur.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “PROTOCOLO DE ACTUACIÓN PARA EL USO DE LA FUERZA POR PARTE DE LOS INTEGRANTES DEL SERVICIO DE PROTECCIÓN FEDERAL”.]
+
+Primero.- El presente protocolo entrará en vigor el día de su publicación.
+
+Segundo.- Publíquese el presente Protocolo en el Diario Oficial de la Federación.
+
+Tercero.- Se deroga el “Protocolo de actuación para el uso de la fuerza por parte de los integrantes del Servicio de Protección Federal de fecha 12 de diciembre de 2016”.
+
+Cuarto.- La Dirección General de Profesionalización en coordinación con la Dirección General de Servicios de Seguridad, tendrán un plazo de 60 días, para presentar los Manuales de Técnicas y Tácticas Policiales para los integrantes del servicio de Protección Federal, a la publicación del presente protocolo.
+
+Quinto.- Los titulares de las unidades administrativas de la Institución deberán difundir el presente protocolo entre los Integrantes adscritos a sus respectivas unidades administrativas y vigilar su correcta observancia y aplicación.
