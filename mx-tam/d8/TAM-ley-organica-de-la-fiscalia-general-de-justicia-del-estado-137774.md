@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2021-09-23"
+last_updated: "2021-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -251,7 +251,7 @@ Para la más eficaz atención y eficiente despacho de los asuntos de su competen
 
 La Fiscalía General contará para el desempeño de sus funciones cuando menos con los siguientes órganos desconcentrados:
 
-a) Comisión Estatal de Búsqueda de Personas; y
+a) (DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
 
@@ -1839,161 +1839,49 @@ El Presupuesto de Egresos de la Fiscalía General se deberá elaborar conforme a
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2021)</small>
 
 ### CAPÍTULO I. DE LA COMISIÓN ESTATAL DE BÚSQUEDA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 84.
 
-La Comisión Estatal de Búsqueda de Personas, es el órgano desconcentrado de la Fiscalía General, que determina, ejecuta y da seguimiento a las acciones de búsqueda de personas desaparecidas y no localizadas de conformidad con lo dispuesto en esta Ley y la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
-
-Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión Estatal de Búsqueda de Personas para el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 85.
 
-La Comisión Estatal de Búsqueda de Personas estará a cargo de una persona titular designada por el Congreso del Estado, previa consulta pública a los colectivos de víctimas, personas expertas, así como organizaciones de la sociedad civil especializadas en la materia y durará en el cargo cuatro años a partir de su designación.
-
-En caso de que se genere la vacante de la persona titular de la Comisión Estatal, el Fiscal General en un plazo no mayor a diez días hábiles informará al Congreso del Estado, a efecto de que dé inicio al trámite correspondiente en un término no mayor a treinta días hábiles a partir de su conocimiento. La persona designada cubrirá la vacante generada y durará en el cargo a partir de la fecha de su designación, hasta concluir el periodo de la vacante.
-
-En tanto se designe titular de la Comisión Estatal, ocupará el cargo la persona designada conforme al régimen de suplencias establecido en el Título Segundo, Capítulo VI de esta Ley.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 86.
 
-Para ser titular de la Comisión Estatal de Búsqueda de Personas, se requiere:
-
-I. Ser ciudadana o ciudadano mexicano;
-
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
-
-III. Contar con título profesional;
-
-IV. No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, dentro de los dos años previos a su nombramiento;
-
-V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, por lo menos en los dos años previos a su nombramiento; y
-
-VI. Contar con conocimientos y experiencia en derechos humanos y búsqueda de personas, y preferentemente con conocimientos en ciencias forenses o investigación criminal.
-
-En la designación de la persona titular de la Comisión Estatal de Búsqueda de Personas, debe garantizarse el respeto a los principios que prevé la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
-
-La persona titular de la Comisión Estatal de Búsqueda de Personas no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 87.
 
-La Comisión Estatal de Búsqueda de Personas, tendrá las siguientes atribuciones:
-
-I. Dirigir, planear, dar seguimiento y evaluar las actividades de las distintas áreas de la Comisión Estatal de Búsqueda de Personas, conforme al Programa Nacional de Búsqueda y a los programas regionales de búsqueda;
-
-II. Gestionar la coordinación con las dependencias y entidades de la administración pública estatal, municipal y organismos autónomos para la ejecución de los programas y acciones de la Comisión Estatal de Búsqueda de Personas;
-
-III. Fungir como representante de la Comisión Estatal de Búsqueda de Personas ante el Sistema Nacional de Búsqueda de Personas;
-
-IV. Integrar los informes que corresponda enviar a la Comisión Nacional de Búsqueda de Personas, sobre el cumplimiento de las políticas y estrategias para la búsqueda y localización de personas desaparecidas o no localizadas;
-
-V. Emitir alertas de acción inmediata para búsqueda y localización de personas;
-
-VI. Atender en su caso y dar seguimiento a las recomendaciones de organismos de derechos humanos, de la Comisión Nacional de Búsqueda de Personas y del Consejo Estatal Ciudadano, en los temas relacionados con las atribuciones de la Comisión Estatal de Búsqueda de Personas;
-
-VII. Determinar y en su caso, ejecutar las acciones necesarias a efecto de garantizar la búsqueda y localización de personas en el territorio estatal;
-
-VIII. Canalizar a los familiares ante la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, para que, de ser el caso, realicen la denuncia correspondiente;
-
-IX. Solicitar a la Comisión Ejecutiva de Atención a Víctimas, que implementen los mecanismos necesarios para que se cubran los gastos de ayuda cuando lo requieran los familiares de las personas desaparecidas por la presunta comisión de los delitos materia de la Ley General en la materia;
-
-X. Promover la comunicación, participación y evaluación con la sociedad civil y los familiares para que coadyuven con los objetivos, fines y trabajos de la Comisión Estatal de Búsqueda de Personas, en los términos de las disposiciones jurídicas aplicables;
-
-XI. Requerir información a las autoridades estatales, así como integrar grupos de trabajo para proponer acciones específicas de búsqueda de personas y colaborar con la Comisión Nacional de Búsqueda de Personas, en el análisis del fenómeno de desaparición a nivel nacional, brindando información sobre el problema a nivel regional;
-
-XII. Suministrar y actualizar la información del Registro Estatal que formará parte del Registro Nacional, por medio del sistema único de información tecnológica e informática del Sistema Nacional de Búsqueda de Personas, en los términos de las disposiciones legales aplicables; y
-
-XIII. Las demás que le confiera el Reglamento, otras disposiciones aplicables de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas o le encomiende la persona titular de la Fiscalía General.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 88.
 
-La Comisión Estatal de Búsqueda de Personas, para realizar sus actividades, deberá contar como mínimo con:
-
-I. Grupo especializado de búsqueda, cuya regulación y funciones se encuentran en el artículo 66, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
-
-II. Área de Análisis de Contexto, la cual desempeñará, además de las funciones que la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere el Reglamento;
-
-III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere el Reglamento; y
-
-IV. La estructura administrativa y el personal necesarios para el cumplimiento de sus funciones.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 89.
 
-El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, es un órgano ciudadano de consulta en materia de búsqueda de personas, designado por el Congreso del Estado previa consulta pública con las organizaciones de familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de víctimas y expertos en la materia previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 90.
 
-El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, estará integrado por:
-
-I. Tres familiares que representen a los familiares de las personas desaparecidas o no localizadas;
-
-II. Tres especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se procurará que uno de los especialistas siempre sea en materia forense; y
-
-III. Tres representantes de organizaciones de la sociedad civil de derechos humanos que cuenten con experiencia en el tema de desaparición y búsqueda de personas.
-
-Para el cumplimiento de las funciones establecidas en el artículo 92 de la presente Ley, el Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas nombrará de entre sus integrantes, una persona quien estará a cargo de la Presidencia, la cual se rotará anualmente, atendiendo a la antigüedad que tengan en el Consejo.
-
-Las y los integrantes del Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, durarán en el cargo tres años improrrogables y no deberán desempeñar ningún cargo como servidor público. Asimismo, ejercerán su función en forma honorífica, y no recibirán emolumento o contraprestación económica alguna por su desempeño.
-
-En caso de que se genere la vacante de alguno de sus integrantes, la persona titular de la Comisión Estatal de Búsqueda de Personas, dará aviso al Fiscal General en un plazo no mayor a diez días hábiles, quien a su vez informará al Congreso del Estado a efecto de que dé inicio al trámite correspondiente en un término no mayor a treinta días hábiles a partir de su conocimiento. La persona designada cubrirá la vacante generada y durará en el cargo a partir de la fecha de su designación, hasta concluir el periodo de la vacante.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 91.
 
-El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, sesionará de manera ordinaria semestralmente y en forma extraordinaria a convocatoria de su Presidente.
-
-Para sesionar válidamente se requerirá un quórum de la mayoría de sus integrantes; sus decisiones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá el voto de calidad.
-
-La persona titular de la Comisión Estatal de Búsqueda de Personas, podrá asistir a las reuniones del Consejo con voz, pero sin voto.
-
-Las decisiones que el Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas adopte son públicas, en apego a la legislación de transparencia y protección de datos personales.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 92.
 
-El Consejo Ciudadano tiene las funciones siguientes:
-
-I. Solicitar información relacionada a los procedimientos de búsqueda y localización a la Comisión Estatal;
-
-II. Proponer a la Comisión Estatal, y en su caso, acompañar las acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
-
-III. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión Estatal;
-
-IV. Contribuir, de acuerdo a lo establecido en el presente Decreto, a la participación directa de los familiares en el ejercicio de sus atribuciones;
-
-V. Dar vista a la Comisión Estatal, o de ser necesario a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas;
-
-VI. Dar seguimiento y emitir recomendaciones sobre la integración y operación de la Comisión Estatal la implementación del Programa Nacional de Búsqueda de Personas Desaparecidas;
-
-VII. Elaborar, aprobar y modificar la guía de procedimientos del Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión Estatal; y
-
-VIII. Las demás que señalen sus Reglas de Funcionamiento.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 ###### Artículo 93.
 
-El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, se auxiliará con una Secretaría Técnica, que estará a cargo del área administrativa que para tal efecto designe el titular de la Comisión Estatal de Búsqueda de Personas, quien podrá participar únicamente con derecho a voz, de conformidad con lo dispuesto por el Reglamento.
-
-Las opiniones y recomendaciones emitidas por el Consejo Ciudadano, no son vinculantes. La Comisión Estatal de Búsqueda de Personas y las áreas a las que vayan dirigidas las recomendaciones deberán fundar y motivar las razones por las cuales se acepta o rechaza la recomendación.
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -2248,3 +2136,43 @@ P.O. 23 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-796 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado de Tamaulipas y la Secretaría General de Gobierno, deberán realizar las acciones jurídicas necesarias en la normatividad aplicable, a fin de armonizarla a lo establecido en el mismo.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría General de Gobierno, Contraloría Gubernamental, Secretaría de Finanzas y a la Secretaría de Administración, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos, materiales y financieros que estaban adscritos a la Comisión Estatal de Búsqueda de Personas Organo Desconcentrado de la Fiscalía General de Justicia del Estado, se transferirán a la Secretaría General de Gobierno para que ésta, a su vez, los asigne conforme a la naturaleza de sus funciones a las unidades administrativas del órgano desconcentrado creado mediante el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no se emita la normatividad indispensable para el funcionamiento de la Comisión Estatal de Búsqueda de Personas, se seguirán aplicando las disposiciones legales y administrativas vigentes de la Fiscalía General de Justicia del Estado al momento de la entrada en vigor del presente Decreto, en lo que no se opongan a la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, sustanciados por la Fiscalía General de Justicia del Estado o su Órgano Interno de Control serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO OCTAVO.
+
+El Titular de la Comisión Estatal de Búsqueda de Personas designado mediante Decreto LXIV-154, publicado en el Periódico Oficial del Estado Número 129 de fecha 27 de octubre de 2020, continuará en su cargo hasta concluir el periodo para el cual fue designado.
+
+###### ARTÍCULO NOVENO.
+
+Las personas integrantes del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de Personas designadas mediante Decreto LXIII- 797, publicado en el Periódico Oficial del Estado Número 55 de fecha 7 de mayo de 2019, continuarán en su cargo hasta concluir el periodo para el cual fueron designados.
