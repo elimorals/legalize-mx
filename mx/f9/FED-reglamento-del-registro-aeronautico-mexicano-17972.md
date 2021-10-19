@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-aeronautico-mexicano-17972"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-28"
-last_updated: "2000-11-28"
+last_updated: "2021-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-22"
 
 REGLAMENTO DEL REGISTRO AERONAUTICO MEXICANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 28 de noviembre de 2000.
 
@@ -47,6 +47,10 @@ En adición a las definiciones establecidas en las leyes de Aviación Civil y de
 
 I. Director: el Director del Registro Aeronáutico Mexicano;
 
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2021)</small>
+
+I Bis. Folios: Son los documentos físicos o electrónicos, que contendrán los datos de identificación, así como los asientos de los actos jurídicos o de los hechos jurídicos o el de ambos, que se inscriban en el Registro, observando las formalidades que establecen las Leyes y el presente Reglamento;
+
 II. Leyes: las Leyes de Aviación Civil y de Aeropuertos;
 
 III. Registro: el Registro Aeronáutico Mexicano;
@@ -57,11 +61,13 @@ V. Tratados: los definidos como tales en la fracción I del artículo 2 de la Le
 
 ## Título Segundo. De la Organización del Registro
 
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
+
 ## Título Tercero. De las Inscripciones en el Registro
 
 ###### ARTÍCULO 4.
 
-El Registro estará a cargo de la Dirección General de Aeronáutica Civil de la Secretaría, cuyo Director General delegará sus funciones en materia de Registro a un Director, quien para el cumplimiento de sus funciones contará con una oficina central en el Distrito Federal.
+El Registro estará a cargo de la Agencia Federal de Aviación Civil de la Secretaría, la cual se auxiliará de una Dirección que, para el cumplimiento de sus funciones, tendrá su domicilio en la Ciudad de México.
 
 ###### ARTÍCULO 5.
 
@@ -109,7 +115,9 @@ h) Ordenar, bajo su estricta vigilancia y supervisión, que se hagan los asiento
 
 i) Realizar los avisos de expedición y cancelación de matrículas, de abandono de aeronaves y los demás contenidos en los Tratados en los que México sea parte, y
 
-j) Las demás que le señalen el Director General de Aeronáutica Civil, de conformidad con el Reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
+
+j) Las demás que le señale el Director General de la Agencia Federal de Aviación Civil, de conformidad con el Reglamento y otros ordenamientos aplicables, y
 
 II. Corresponde a los registradores:
 
@@ -141,35 +149,41 @@ I. De aviación, y
 
 II. De Aeródromos Civiles.
 
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 11.
 
-Los documentos en que consten los actos objeto de registro se inscribirán en los folios siguientes de la Sección de Aviación:
+En los Folios que conforman la Sección de Aviación se inscribirán los documentos en que consten los actos objeto de registro siguientes:
 
-I. En el de Aviación, los relativos a la adquisición, transmisión, modificación, gravamen o extinción de la propiedad, posesión y los demás derechos reales sobre las aeronaves civiles mexicanas y sus motores, así como de arrendamiento de aeronaves y motores mexicanos y extranjeros;
+I. Los relativos a la adquisición, transmisión, modificación, gravamen o extinción de la propiedad de aeronaves civiles mexicanas y de sus motores, así como la posesión y los demás derechos reales sobre éstos. También los relativos al arrendamiento de aeronaves y motores mexicanos y extranjeros;
 
-II. En el de Certificados, los certificados de matrícula y de aeronavegabilidad;
+II. Los relativos a la adquisición, transmisión, modificación, gravamen o extinción de la propiedad de aeronaves civiles pilotadas a distancia, así como la posesión y los demás derechos reales sobre estas aeronaves;
 
-III. En de Resoluciones, las resoluciones o acuerdos emitidos por la autoridad aeronáutica o por cualquier otra autoridad competente, relacionada con las aeronaves;
+III. Los certificados de matrícula y de aeronavegabilidad;
 
-IV. En el de Concesiones y Permisos, los relativos a las concesiones y permisos en materia de servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen, y
+IV. Las resoluciones o acuerdos emitidos por la autoridad aeronáutica o por cualquier otra autoridad competente, relacionada con las aeronaves;
 
-V. En el de Seguros, las pólizas de seguro que deben contratar los concesionarios y permisionarios conforme a la Ley de Aviación Civil, así como sus endosos.
+V. Los relativos a las concesiones y permisos en materia de servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen, y
+
+VI. Las pólizas de seguro que deben contratar los concesionarios y permisionarios conforme a la Ley de Aviación Civil, así como sus endosos.
+
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 12.
 
-Los documentos en que consten los actos objeto de registro se inscribirán en los folios siguientes de la Sección de Aeródromos Civiles:
+En los Folios que conforman la Sección de Aeródromos Civiles se inscribirán los documentos en que consten los actos objeto de registro siguientes:
 
-I. En el de Aeropuertos, los relativos a la adquisición, transmisión, cesión, modificación, gravamen o extinción de la propiedad y los demás derechos reales sobre los aeródromos civiles;
+I. Los relativos a la adquisición, transmisión, cesión, modificación, gravamen o extinción de la propiedad y los demás derechos reales sobre los aeródromos civiles;
 
-II. En el de Concesiones y Permisos, los relativos a las concesiones y permisos en materia de aeropuertos y de aeródromos civiles, así como los actos y resoluciones legales que los modifiquen o terminen;
+II. Los relativos a las concesiones y permisos en materia de aeropuertos y de aeródromos civiles, así como los actos y resoluciones legales que los modifiquen o terminen;
 
-III. En el de Resoluciones, las resoluciones de la autoridad aeronáutica o de cualquier otra autoridad competente, relacionadas con los aeropuertos y aeródromos civiles;
+III. Las resoluciones de la autoridad aeronáutica o de cualquier otra autoridad competente, relacionadas con los aeropuertos y aeródromos civiles;
 
-IV. En el de Ayudas, los relativos a las ayudas a la navegación aérea, sea cual fuere su naturaleza, incluyendo las visuales y las electrónicas;
+IV. Los relativos a las ayudas a la navegación aérea, sea cual fuere su naturaleza, incluyendo las visuales y las electrónicas;
 
-V. En el de Contratos, los relativos a los contratos que autorice la Secretaría para la prestación de los servicios aeroportuarios y complementarios, así como sus modificaciones, y
+V. Los relativos a los contratos que autorice la Secretaría para la prestación de los servicios aeroportuarios y complementarios, así como sus modificaciones, y
 
-VI. En el de Seguros, las pólizas de seguro que deben contratar los concesionarios y permisionarios conforme a la Ley de Aeropuertos, así como sus endosos.
+VI. Las pólizas de seguro que deben contratar los concesionarios y permisionarios conforme a la Ley de Aeropuertos, así como sus endosos.
 
 ###### ARTÍCULO 13.
 
@@ -305,9 +319,21 @@ En ningún caso la rectificación perjudicará los derechos adquiridos por terce
 
 La cancelación procede por petición de las personas interesadas, por orden de autoridad competente o de oficio, y se hará constar en el folio correspondiente, con indicación de la causa que la motivó.
 
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 30.
 
-La cancelación de registros procederá de oficio cuando la revocación que emita la Secretaría sea definitiva y cuando la Secretaría declare la destrucción, pérdida o abandono de una aeronave, insertándose en la inscripción la declaratoria que lo ordene, publicada en el Diario Oficial de la Federación.
+Los registros de los certificados de matrícula y de aeronavegabilidad serán cancelados de oficio cuando la Agencia Federal de Aviación Civil:
+
+I. Resuelva en definitiva la revocación de estos certificados;
+
+II. Resuelva en definitiva que la aeronave no cumple con las condiciones de aeronavegabilidad;
+
+III. Haya realizado la declaratoria de la destrucción de la aeronave;
+
+IV. Haya realizado la declaratoria de la pérdida de la aeronave, o
+
+V. Haya realizado la declaratoria de abandono de la aeronave.
 
 ###### ARTÍCULO 31.
 
@@ -376,3 +402,13 @@ TERCERO.- Los certificados de matrícula otorgados con anterioridad a la publica
 CUARTO.- Las anotaciones e inscripciones vigentes que consten en libros que actualmente lleven las distintas secciones del Registro Aeronáutico Mexicano seguirán siendo válidas, y dichos libros constituirán el archivo del Registro Aeronáutico Mexicano; las anotaciones e inscripciones referidas se irán incorporando al sistema de registro previsto en este Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de noviembre de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL REGISTRO AERONÁUTICO MEXICANO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Comunicaciones y Transportes, para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni subsecuentes.
