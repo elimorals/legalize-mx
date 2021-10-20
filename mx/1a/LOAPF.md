@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2021-01-11"
+last_updated: "2021-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -406,9 +406,9 @@ Secretaría de Economía;
 
 Secretaría de Agricultura y Desarrollo Rural;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2021)</small>
 
-Secretaría de Comunicaciones y Transportes;
+Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -696,9 +696,9 @@ XII Ter. Coordinar la implementación de las acciones necesarias con las demás 
 
 XIII.- Intervenir en la administración de la justicia militar;
 
-> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2021)</small>
 
-XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
+XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Infraestructura, Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -1184,9 +1184,9 @@ XXXII.- Establecer los mecanismos necesarios para implementar la coordinación y
 
 XXXIII.- Participar con la Secretaría de Hacienda y Crédito Público en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2021)</small>
 
-XXXIV.- Elaborar y aplicar, en coordinación con las Secretarías de Agricultura y Desarrollo Rural; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Bienestar; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Desarrollo Agrario, Territorial y Urbano, y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático;
+XXXIV.- Elaborar y aplicar, en coordinación con las Secretarías de Agricultura y Desarrollo Rural; de Salud; de Infraestructura, Comunicaciones y Transportes; de Economía; de Turismo; de Bienestar; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Desarrollo Agrario, Territorial y Urbano, y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1608,11 +1608,11 @@ XXIII.- Contribuir a la seguridad alimentaria, garantizando el abasto de product
 
 XXIV.- Los demás que expresamente le atribuyan las leyes y reglamentos.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 36.
 
-A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura, Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -1628,25 +1628,41 @@ II.- Regular, inspeccionar y vigilar los servicios públicos de correos y telég
 
 III.- (DEROGADA, D.O.F. 14 DE JULIO DE 2014)
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 IV.- Otorgar concesiones y permisos para establecer y operar servicios aéreos en el territorio nacional, fomentar, regular y vigilar su funcionamiento y operación, así como negociar convenios para la prestación de servicios aéreos internacionales;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 V.- Regular y vigilar la administración de los aeropuertos nacionales, conceder permisos para la construcción de aeropuertos particulares y vigilar su operación;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 VI.- Administrar la operación de los servicios de control de tránsito, así como de información y seguridad de la navegación aérea;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 VII.- Construir las vías férreas, patios y terminales de carácter federal para el establecimiento y explotación de ferrocarriles, y la vigilancia técnica de su funcionamiento y operación;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 VIII.- Regular y vigilar la administración del sistema ferroviario;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 IX.- Otorgar concesiones y permisos para la explotación de servicios de autotransportes en las carreteras federales y vigilar técnicamente su funcionamiento y operación, así como el cumplimiento de las disposiciones legales respectivas;
 
 X.- (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 XII.- Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes aéreos y terrestres, y las tarifas para el cobro de los mismos, así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes aéreos y terrestres;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
 
@@ -1666,11 +1682,19 @@ XIX.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
 XX.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 XXI.- Construir y conservar los caminos y puentes federales, incluso los internacionales; así como las estaciones y centrales de autotransporte federal;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 XXII.- Construir y conservar caminos y puentes, en cooperación con los gobiernos de las entidades federativas, con los municipios y los particulares;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 XXIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Estados y las autoridades municipales, en la construcción y conservación de obras de ese género;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 XXIV.- Otorgar concesiones o permisos para construir las obras que le corresponda ejecutar;
 
@@ -1678,7 +1702,11 @@ XXIV.- Otorgar concesiones o permisos para construir las obras que le correspond
 
 XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del desarrollo urbano, en los derechos de vía de las vías federales de comunicación;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y transportes, y
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
@@ -1910,9 +1938,9 @@ XXXI.-Conducir, en el ámbito de su competencia, las relaciones del Poder Ejecut
 
 XXXII.- Establecer mecanismos para conocer las mejores prácticas educativas a nivel internacional;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2021)</small>
 
-XXXIII.- Fortalecer, con el apoyo de la Secretaría de Comunicaciones y Transportes, el acceso a la información digital en los espacios escolares, así como la conectividad en éstos a redes de telecomunicaciones, y
+XXXIII.- Fortalecer, con el apoyo de la Secretaría de Infraestructura, Comunicaciones y Transportes, el acceso a la información digital en los espacios escolares, así como la conectividad en éstos a redes de telecomunicaciones, y
 
 XXXIV.- Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -3645,3 +3673,11 @@ D.O.F. 11 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Todas las referencias que hagan mención a la Secretaría de Comunicaciones y Transportes contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Secretaría de Infraestructura, Comunicaciones y Transportes.
