@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-apoyo-alimentario-para-personas-con-discapacidad-113421"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2016-03-09"
+last_updated: "2021-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE APOYO ALIMENTARIO PARA PERSONAS CON DISCAPACIDAD PERMANENTE TOTAL Y EN POBREZA EXTREMA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de marzo de 2016.
 
@@ -75,13 +75,19 @@ III. Secretaría: Secretaría de Desarrollo Social;
 
 IV. Constancia: Documento expedido por la Secretaría de Salud o Dependencia, en el que se plasme el tipo y grado de discapacidad;
 
-V. Comisiones: Las Comisiones de Atención a Grupos Vulnerables y Personas con Discapacidad y de Desarrollo Social del Congreso del Estado de Morelos;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
 
-VI. Beneficiario: Aquella persona con alguna de las discapacidades contenidas en la presente Ley, que reúnan los requisitos previstos en el artículo 9;
+V. Comisiones: La Comisión de Atención a Grupos Vulnerables, Migrantes y Personas con Discapacidad y la Comisión de Planeación para el Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos, del Poder Legislativo del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
+
+VI. Beneficiario: Aquella persona con alguna de las discapacidades contenidas en la presente Ley, que reúnan los requisitos previstos en el artículo 8;
 
 VII. Programa: El Programa de Apoyo Alimentario para las Personas con Discapacidad;
 
-VIII. Apoyo: Despensa integrada por productos alimenticios de la canasta básica, equivalente a $200.00 (Doscientos pesos 00/100 M.N), que deberán aumentar anualmente conforme lo haga el INPC;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
+
+VIII. Despensa integrada por productos alimenticios de la canasta básica, equivalente a 5 Unidades de Medida y Actualización (UMA), otorgándose en forma bimestral;
 
 IX. Dependencia: El Instituto Mexicano del Seguro Social o el Instituto de Seguridad Social de los Trabajadores al Servicio del Estado;
 
@@ -89,7 +95,7 @@ X. Secretaría de Salud: La Secretaría de Salud del Estado de Morelos;
 
 XI. Padrón: Al listado de personas discapacitadas que reciban el Apoyo;
 
-XII. INPC: Índice Nacional de Precios al Consumidor, que publica anualmente el Banco de México.
+XII. (DEROGADA, P.O. 20 DE OCTUBRE DE 2021)P
 
 ###### Artículo 6.
 
@@ -183,17 +189,25 @@ Síndrome de Wildervanck
 
 La Secretaría será la instancia responsable del otorgamiento del Apoyo a los Beneficiarios del Programa, para lo cual deberá garantizar los principios previstos en el artículo 4 de ésta Ley.
 
+> <small>(REFORMADO PRIMER PÁRARFO, P.O. 20 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-Para ser Beneficiario del Programa, se deberán reunir los requisitos siguientes:
+Para ser beneficiario del programa, se deberán reunir los requisitos siguientes:
 
-I. Acreditar mediante Constancia expedida por alguna Dependencia ola (sic) Secretaría de Salud, una de las discapacidades previstas en el artículo 6 de ésta Ley.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
 
-II. No contar con el apoyo de otras instituciones públicas o privadas;
+I. Acreditar mediante constancia expedida por alguna dependencia o la Secretaría de Salud, una de las discapacidades previstas en el artículo 6 de esta ley;
 
-III. No ser beneficiarias de otro programa federal o estatal;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
 
-IV. Acreditar la residencia mediante constancia expedida por los Municipios del Estado de Morelos;
+II. No contar con el apoyo de otras instituciones públicas o privadas que excedan de 30 Unidades de Medida y Actualización mensuales; y,
+
+III. (DEROGADA, P.O. 20 DE OCTUBRE DE 2021)
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
+
+IV. Acreditar la residencia mediante constancia expedida por los municipios del estado de Morelos.
 
 ###### Artículo 9.
 
@@ -201,9 +215,11 @@ En caso de que el Beneficiario sea menor de edad o esté impedido para realizar 
 
 Si la persona que representa al Beneficiario, recibe a su vez recursos de un programa social federal o estatal, no será impedimento para el otorgamiento del Apoyo.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-A partir del 1 de octubre, y hasta el 30 de noviembre de cada ejercicio fiscal, los Beneficiarios del Programa, deberán presentar ante la Secretaría los requisitos previstos en las fracciones II, III y IV del artículo 9.
+A partir del 1 de octubre, y hasta el 30 de noviembre de cada ejercicio fiscal, los beneficiarios del programa, deberán presentar ante la secretaría los requisitos previstos en las fracciones II y IV del artículo 8 de la presente ley.
 
 ### CAPÍTULO III. DE LAS ACCIONES DE LOS PODERES EJECUTIVO Y LEGISLATIVO
 
@@ -245,9 +261,11 @@ Queda prohibido utilizar los recursos asignados al Programa, para cualquier fin 
 
 Los servidores públicos deberán abstenerse de usar el Apoyo, con fines partidistas o de promoción de la imagen de algún candidato o funcionario público.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 20.
 
-El desvío de los recursos o cualquier irregularidad derivada de la operación del Programa, será sancionado en los términos de lo dispuesto por el Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos, la Ley de Auditoría y Fiscalización Superior del Estado de Morelos o demás normativa aplicable, según corresponda.
+El desvío de los recursos o cualquier irregularidad derivada de la operación del programa, será sancionado en los términos de lo dispuesto por la legislación electoral aplicable al caso, la Ley Estatal de Responsabilidades de los Servidores Públicos, la Ley de Responsabilidades Administrativas para el Estado de Morelos, la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos y demás normativa aplicable, según corresponda.
 
 ###### Artículo 21.
 
@@ -261,11 +279,13 @@ Serán causas de cancelación del Apoyo las siguientes:
 
 I. La muerte del Beneficiario;
 
-II. No refrendar en los términos del artículo 11 de la presente Ley;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
+
+II.- No refrendar en los términos del artículo 10 de la presente ley; y,
 
 III. Dejar de residir en el Estado de Morelos; y
 
-IV. Acceder a otro programa social de carácter federal o local.
+IV.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2021)
 
 ###### Artículo 23.
 
@@ -281,9 +301,11 @@ Los servidores públicos responsables de la operación del Programa que no cumpl
 
 Los servidores públicos deberán abstenerse de condicionar o negar el otorgamiento del Apoyo a los Beneficiarios, así como emplearlo con fines partidistas o personales.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-La Secretaría debe tomar las medidas necesarias para la protección de los datos personales de los beneficiarios del Apoyo que prevé esta Ley, en apego a la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos, su Reglamento y demás normativa aplicable.
+La secretaría debe tomar las medidas necesarias para la protección de los datos personales de los beneficiarios del apoyo que prevé esta ley, en apego a la Ley de Transparencia y Accesos a la Información Pública del Estado de Morelos, su Reglamento y demás normativa aplicable.
 
 ## TRANSITORIOS
 
@@ -316,3 +338,17 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS TREINTA Y SIETE.- POR EL QUE SE REFORMAN, MODIFICAN Y DEROGAN DIVERSOS ARTÍCULOS Y FRACCIONES DE LA LEY DE APOYO ALIMENTARIO PARA PERSONAS CON DISCAPACIDAD PERMANENTE TOTAL Y EN POBREZA EXTREMA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. El Poder Ejecutivo del Estado, adecuara sus reglamentos en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquicos que se opongan a la presente reforma.
