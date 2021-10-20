@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-de-evaluacion-del-desarrollo-1371
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-07-08"
-last_updated: "2019-10-07"
+last_updated: "2021-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-07-04"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO DE EVALUACION DEL DESARROLLO SOCIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 20 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 2021 (ABROGADO).
 
 Estatuto publicado en el Número 129 de la Gaceta Oficial de la Ciudad de México, el lunes 8 de julio de 2019.
 
@@ -793,3 +795,23 @@ G.O. 7 DE OCTUBRE DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
 
 SEGUNDO.- El presente Aviso surtirá efectos a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DE LA CIUDAD DE MÉXICO”, INFORMACIÓN OBTENIDA DE: https://www.evalua.cdmx.gob.mx/storage/app/media/2021/DG/estatuto-orgainico-evalua.pdf]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Portal de Internet del Consejo de Evaluación para su difusión y observancia.
+
+SEGUNDO. El presente Estatuto surtirá efectos a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Estatuto del Consejo de Evaluación del Desarrollo Social de la Ciudad de México publicado en la Gaceta Oficial de la Ciudad de México el 08 de julio de 2019, toda vez que se actualizó el supuesto del artículo décimo octavo transitorio de la Constitución Política de la Ciudad de México.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Estatuto.
+
+QUINTO. Los procedimientos en trámite que tenga el Consejo de Evaluación del Desarrollo Social de la Ciudad de México ante la Secretaría de Administración y Finanzas de la Ciudad de México, así como ante otros organismos e instituciones públicas, iniciados con anterioridad a la entrada en vigor del presente Estatura (sic) Orgánico, serán tramitados y resueltos conforme al Estatuto Orgánico del Consejo de Evaluación del Desarrollo Social de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 08 de julio de 2019.
+
+SEXTO. El Consejo de Evaluación deberá diseñar, aprobar y publicar su Manual de Organización y Procedimientos conforme a las disposiciones jurídicas y administrativas aplicables.
+
+SEPTIMO. El seguimiento a las recomendaciones emitidas antes de la entrada en vigor del presente estatuto se desarrollará de acuerdo a las disposiciones establecidas en el Estatuto Orgánico del Consejo de Evaluación del Desarrollo Social de la Ciudad de México publicado en la Gaceta Oficial de la Ciudad de México el 08 de julio de 2019.
+
+OCTAVO. En la primera integración del Consejo, el Congreso elegirá a tres personas consejeras para un periodo de cuatro años y a dos para un periodo de dos años. Todas las personas consejeras designadas en la primera integración del Consejo podrán presentar su candidatura a la reelección por un periodo de cuatro años adicionales, de acuerdo con las disposiciones aplicables.
