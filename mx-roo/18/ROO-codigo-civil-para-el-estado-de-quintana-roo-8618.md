@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2020-11-30"
+last_updated: "2021-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2021.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -15153,11 +15153,21 @@ II.- Los jueces, magistrados, agentes del Ministerio Público y demás funcionar
 
 III.- Los empleados de la Hacienda Pública, en cualquiera causa en que puedan intervenir de oficio, dentro de los límites de sus respectivos distritos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 2842.
 
-El mandato judicial será otorgado en cualquiera de las formas establecidas para el mandato ordinario, o en escrito presentado y ratificado por el otorgante ante el Juez de los autos. Si el Juez no conoce al otorgante, exigirá testigos de identificación.
+El mandato judicial será otorgado en cualquiera de las formas establecidas para el mandato ordinario, o en escrito presentado y ratificado por el otorgante ante el Juez de los autos.
 
 La substitución del mandato judicial se hará en la misma forma que su otorgamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2021)</small>
+
+El mandato podrá ser ratificado por el otorgante en cualquier tiempo o al inicio de alguna de las audiencias que se susciten con motivo del procedimiento incoado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2021)</small>
+
+En caso de que el otorgante no cuente con identificación oficial que acredite su personalidad, deberá ratificar su mandato mediante la asistencia de dos testigos.
 
 ###### Artículo 2843.
 
@@ -17652,3 +17662,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo del Estado, contará con noventa días hábiles para efectuar las modificaciones necesarias al Reglamento del Registro Civil para el Estado Libre y Soberano de Quintana Roo.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 129 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO, Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 2842 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
