@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2021-01-18"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -830,9 +830,9 @@ II. Fomentar la incorporación de información confiable y suficiente sobre las 
 
 III. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán procurar que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 2021)</small>
 
-IV. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
+IV. Promover una mayor equidad social, con perspectiva intercultural y de género, en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -4103,3 +4103,9 @@ Segundo. La Secretaría de Medio Ambiente y Recursos Naturales dentro de los doc
 Tercero. Las erogaciones con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado de las dependencias y entidades de la Administración Pública Federal involucradas para el presente ejercicio fiscal y los subsecuentes.
 
 Asimismo, las Entidades Federativas, los municipios y las demarcaciones territoriales de la Ciudad de México darán cumplimiento al presente Decreto con cargo a sus respectivos presupuestos.
+
+D.O.F. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 21 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
