@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2020-12-17"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 17 DE DICIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -48,6 +46,10 @@ El ejercicio del Poder Legislativo del Estado se deposita en una asamblea de rep
 ###### ARTÍCULO 3.
 
 En el ejercicio de sus atribuciones y ámbito de competencia, el Congreso del Estado, pugnará por el establecimiento de un orden social justo, a través de la expedición de leyes, decretos y acuerdos que sean de su competencia legal o de orden constitucional.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+En el ejercicio de sus atribuciones, el Congreso del Estado, observará su funcionamiento en un marco democrático de parlamento abierto, con perspectiva de género, y todo aquello que permita pugnar por el establecimiento de un orden social justo, desde el diseño de proyectos legislativos y de sus resultados, a través de la expedición de leyes, decretos y acuerdos viables, eficientes y eficaces, que sean de su competencia legal o de orden institucional; así mismo, deberá implementar mecanismos que garanticen la transparencia y acceso a la información, la rendición de cuentas, la participación ciudadana, la ética y probidad y el uso de las tecnologías de la información y comunicación, así como la evaluación de la práctica legislativa.
 
 ###### ARTÍCULO 4.
 
@@ -111,11 +113,91 @@ Ninguna autoridad podrá ejecutar mandamiento judicial o administrativo sobre lo
 
 El Presidente del Congreso del Estado podrá solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de los diputados, el funcionamiento del Congreso del Estado y la inviolabilidad, integridad y respeto de su recinto oficial.
 
-### CAPÍTULO I. DE LA INSTALACIÓN DE LA LEGISLATURA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+### CAPÍTULO III. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 11 BIS.- El Congreso del Estado, a través de la figura de parlamento abierto, que se entiende como una nueva forma de interacción entre la ciudadanía y el Poder Legislativo, promoverá la participación e inclusión, la transparencia y el acceso a la información, la rendición de cuentas, la ética y la probidad parlamentaria. Los diputados en el ejercicio de sus funciones observarán y atenderán los principios de parlamento abierto con la finalidad de fomentar la participación ciudadana.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 11 BIS 1.- Se considerarán y entenderán para este Congreso del Estado, como principios de parlamento abierto, al menos los siguientes:
+
+I.- Derecho a la Información. Garantizar el derecho de acceso a la información sobre la que se produce, posee y resguarda, mediante mecanismos, sistemas, marcos normativos, procedimientos, plataformas, que permitan su acceso de manera simple, sencilla, oportuna, sin necesidad de justificar la solicitud.
+
+II.- Participación Ciudadana y Rendición de Cuentas. Promover la participación de las personas interesadas en la integración y toma de decisiones en las actividades legislativas; utilizando mecanismos y herramientas que facilitan la supervisión de sus tareas por parte de la población, así como las acciones de control realizadas por sus contralorías internas y los demás organismos legalmente constituidos para ello.
+
+III.- Información parlamentaria. Publicar y difundir de manera proactiva la mayor cantidad de información relevante para las personas, utilizando formatos sencillos, mecanismos de búsqueda simples y bases de datos en línea con actualización periódica, sobre: análisis, deliberación, votación, agenda parlamentaria, informes de asuntos en comisiones, órganos de gobierno y de las sesiones plenarias, así como de los informes recibidos de actores externos a este Congreso del Estado.
+
+IV.- Información presupuestal y administrativa. Publicar y divulgar información oportuna, detallada sobre la gestión, administración y gasto del presupuesto asignado al Congreso del Estado, así como a los organismos que lo integran: comisiones legislativas, personal de apoyo, grupos parlamentarios y representantes populares en lo individual.
+
+V.- Información sobre legisladores y servidores públicos. Requerir, resguardar y publicar información detallada sobre los representantes populares y los servidores públicos que lo integran, incluidas la declaración patrimonial y el registro de intereses de los representantes.
+
+VI.- Información histórica. Presentar la información de la actividad legislativa que conforma un archivo histórico, accesible y abierto, en un lugar que se mantenga constante en el tiempo con una URL permanente y con hiperenlaces de referencia de los procesos legislativos.
+
+VII.- Datos abiertos y no propietario. Presentar la información con característica de datos abiertos, interactivos e históricos, utilizando software libre y código abierto y facilitando la descarga masiva de información en formatos de datos abiertos.
+
+VIII.- Accesibilidad y difusión. Asegurar que las instalaciones, las sesiones y reuniones sean accesibles y abiertas al público, promoviendo la transmisión en tiempo real de los procedimientos parlamentarios por canales de comunicación abiertos.
+
+IX.- Conflictos de interés. Regular, ordenar y transparentar las acciones de cabildeo, estableciendo mecanismos para evitar conflictos de intereses y asegurando la conducta ética de los representantes.
+
+X.- Legislar a favor del gobierno abierto. Aprobar leyes y normas que favorecen políticas de gobierno abierto en otros poderes y órdenes de gobierno, asegurándose de que en todas las funciones de la vida parlamentaria se incorporen estos principios.
+
+El Congreso del Estado aprobará el Plan de Acciones de Parlamento Abierto, en los cuales se establecerán las bases para su debida implementación y funcionamiento.
+
+A efecto de garantizar el derecho de acceso a la información pública, así como también, a la protección de datos personales de los sujetos obligados a los que hace referencia esta ley; toda información accesible y publicable que se generé por este poder, deberá estar sujeta a la normatividad aplicable.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 11 BIS 2.- El Congreso del Estado contará con un apartado en su página de internet, donde publicará y mantendrá actualizada la información relacionada con la implementación del parlamento abierto, disponible para la ciudadanía en general.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 11 BIS 3.- Para la implementación del parlamento abierto, aunado a lo que establezcan sus Lineamientos, el Congreso del Estado, observará por lo menos lo siguiente:
+
+A) En materia de Transparencia y Acceso a la información:
+
+I.- Incluir el listado actualizado de sus integrantes y sus datos de contactos; sus comisiones y programas de trabajo; las actas, versiones estenográficas, registro de asistencia y, en su caso, justificantes de ausencias, formas de votación y calendario de sesiones.
+
+II.- Publicar en archivos digitales los documentos en versión pública de las iniciativas, así como sus resoluciones y/o dictámenes, y cualquier otro tipo de documentación que se genere con motivo de su discusión.
+
+B) En materia de Participación Ciudadana y Rendición de Cuentas:
+
+I.- Promover la realización de audiencias, conferencias, consultas abiertas a la ciudadanía, foros, seminarios, talleres, entre otros, donde, con la finalidad de enriquecer los temas de debate, se sometan a consulta de la ciudadanía las iniciativas y proposiciones que se presenten al Congreso del Estado, procurando su realización a través del uso de las tecnologías de la información y de la comunicación, como un esquema y vía de interacción mucho más rápida y oportuna que le permita al ciudadano formar parte en la toma de decisiones.
+
+II.- Habilitar en la página de internet del Congreso del Estado, un apartado para dar espacio y voz a los agentes sociales, entendiéndose éstos como los ciudadanos, las instituciones, grupos, colectivos, asociaciones y organizaciones que directa o indirectamente sean relacionados con una iniciativa en específico, para que éstos hagan llegar sus comentarios, opiniones y observaciones, posibilitando y facilitando con ello, la participación, debiendo en su caso, fomentar la comparecencia directa de los mismos, ante las propias comisiones dictaminadoras.
+
+III.- Hacer público los gastos ejercidos, así como las contrataciones de asesorías, consultorías o de estudios que se realicen en las Comisiones, para el ejercicio de la dictaminación de las iniciativas.
+
+C) En materia de Ética y Probidad:
+
+I.- Hacer públicas las declaraciones de conflicto de interés de los diputados, así como de las excusas que en su caso se presenten para participar en los procesos legislativos.
+
+II.- Hacer públicas las reuniones celebradas con cabilderos, así como en su caso, entregar una copia de cualquier documento recibido por parte de representantes de grupos de interés.
+
+III.- Expedir el Código de Conducta que regirá el actuar de las y los diputados con motivo del ejercicio de sus funciones dentro y fuera del recinto legislativo.
+
+D) En materia de Uso de las Tecnologías de la Información y Comunicación:
+
+I.- Se deberá de hacer uso eficiente y eficaz de las tecnologías de la información y comunicación, en los sistemas informáticos que para tal efecto utilice el Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 11 BIS 4.- El Congreso del Estado, conformará un Comité Técnico Asesor del Parlamento Abierto, el cual será honorífico y estará conformado por 7 integrantes y contribuirá al desarrollo, fortalecimiento y seguimiento de la implementación de la figura del parlamento abierto en el Estado.
+
+Para la conformación de dicho Comité, se deberá lanzar convocatoria pública, elaborada por la Comisión que designe el Pleno del Congreso, dirigida a personas que no integren la legislatura y sus cuerpos de trabajo, como académicos, organizaciones de la sociedad civil, organismos nacionales e internacionales y/o de la actividad privada.
+
+La Secretaría Técnica del Comité recaerá en el comisionado o comisionada designado por el propio Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+El Centro de Investigaciones Parlamentarias del Estado de Sonora, la Unidad de Transparencia y la Dirección General Jurídica del Congreso del Estado, serán las áreas técnicas ejecutoras de los trabajos para la implementación del parlamento abierto.
+
+El Comité Técnico Asesor emitirá opiniones y recomendaciones sobre la implementación de la figura del parlamento abierto a la Presidencia de la Mesa Directiva y coadyuvará en la elaboración del Plan de Acciones de Parlamento Abierto.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA
 
-### CAPÍTULO II. DE LA ENTREGA-RECEPCIÓN ADMINISTRATIVA
+### CAPÍTULO I. DE LA INSTALACIÓN DE LA LEGISLATURA
 
 ###### ARTÍCULO 12.
 
@@ -169,7 +251,7 @@ VII.- Los diputados que no hubieren asistido a la sesión, deberán rendir prote
 
 El Presidente y Secretario de la Mesa Directiva comunicarán inmediatamente la ley que declara su instalación a las autoridades correspondientes para los efectos legales a que haya lugar.
 
-### CAPÍTULO I. DEL CÓDIGO DE CONDUCTA
+### CAPÍTULO II. DE LA ENTREGA-RECEPCIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 18.
 
@@ -227,7 +309,7 @@ El informe a que se hace referencia en el presente artículo deberá ser publica
 
 ## TÍTULO TERCERO. DE LOS DIPUTADOS
 
-### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS DIPUTADOS
+### CAPÍTULO I. DEL CÓDIGO DE CONDUCTA
 
 ###### ARTÍCULO 24.
 
@@ -241,9 +323,7 @@ El Código de Conducta fomentará el diálogo, el consenso y la inclusión de id
 
 La Comisión de Régimen Interno y Concertación Política propondrá al pleno del Congreso del Estado los lineamientos que integrarán el Código de Conducta, pudiendo consultar previamente a la ciudadanía.
 
-### CAPÍTULO III. DE LAS LICENCIAS Y RENUNCIAS DE LOS DIPUTADOS
-
-> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS DIPUTADOS
 
 ###### ARTÍCULO 27.
 
@@ -339,7 +419,9 @@ Durante el ejercicio del cargo legislativo, los diputados pueden ejercer activid
 
 Los diputados no recibirán ninguna retribución extraordinaria por su asistencia a las sesiones o por desempeño en comisiones o cualquier otro órgano del Congreso del Estado.
 
-### CAPÍTULO IV. DE LA DISCIPLINA PARLAMENTARIA
+### CAPÍTULO III. DE LAS LICENCIAS Y RENUNCIAS DE LOS DIPUTADOS
+
+> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
@@ -359,7 +441,7 @@ No se concederán licencias con goce de dietas, salvo tratándose de licencias p
 
 Para los efectos del artículo 38 de la presente Ley, la renuncia se entenderá como la separación definitiva que realice una persona que ostente el cargo de diputado al mismo.
 
-### CAPÍTULO ÚNICO. DE LA MESA DIRECTIVA
+### CAPÍTULO IV. DE LA DISCIPLINA PARLAMENTARIA
 
 ###### ARTÍCULO 41.
 
@@ -483,7 +565,7 @@ Si un diputado cometiera un delito en el recinto oficial, durante una sesión de
 
 ## TÍTULO CUARTO. DE LA ORGANIZACIÓN DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO ÚNICO. DE LA DIPUTACIÓN PERMANENTE
+### CAPÍTULO ÚNICO. DE LA MESA DIRECTIVA
 
 #### SECCIÓN PRIMERA. DE LA INTEGRACIÓN
 
@@ -637,7 +719,7 @@ El Secretario Suplente sustituirá indistintamente en todas sus funciones al Sec
 
 ## TÍTULO QUINTO. DE LA DIPUTACIÓN PERMANENTE
 
-### CAPÍTULO I. DE LAS COMISIONES
+### CAPÍTULO ÚNICO. DE LA DIPUTACIÓN PERMANENTE
 
 ###### ARTÍCULO 72.
 
@@ -687,7 +769,7 @@ En la primera sesión del periodo ordinario de sesiones, el Presidente de la Dip
 
 ## TÍTULO SEXTO. DE LAS COMISIONES
 
-### CAPÍTULO II. DE LA COMISIÓN DE RÉGIMEN INTERNO Y CONCERTACIÓN POLÍTICA
+### CAPÍTULO I. DE LAS COMISIONES
 
 ###### ARTÍCULO 82.
 
@@ -879,23 +961,35 @@ Las comisiones de dictamen legislativo tienen las siguientes atribuciones:
 
 I.- Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne el pleno del Congreso del Estado;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 21 DE OCTUBRE DE 2021)</small>
 
-II.- Elaborar su programa de trabajo, de acuerdo a la agenda legislativa del Congreso del Estado, considerando la vinculación con organizaciones de la sociedad civil;
+II.- Crear y administrar un micrositio mediante el cual se difunda el trabajo legislativo de la Comisión.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+El citado micrositio deberá publicar, como mínimo, la siguiente información:
 
-III.- Elaborar y enviar su informe anual de actividades a la Comisión de Régimen Interno y Concertación Política, dentro del mes de septiembre de cada año;
+a) El expediente legislativo de cada asunto que le haya sido turnado para su dictaminación.
+
+a) (SIC) El expediente legislativo de cada asunto que le haya sido turnado para su dictaminación.
+
+b) Un calendario que muestre a la ciudadanía el plazo que tiene cada expediente para su dictaminación, así como el estatus de cada asunto turnado a la Comisión.
+
+c) Un espacio mediante el cual la ciudadanía, corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás personas interesadas, puedan formular observaciones o retroalimentaciones a los asuntos que le hayan sido turnados para su dictaminación, las cuales no serán vinculantes para la toma de decisiones de la Comisión; y
+
+d) La demás información que la Comisión de Régimen Interno y Concertación Política determine en el Reglamento de la presente ley, a efecto de transparentar el trabajo que realiza la Comisión de dictamen legislativo, así como, garantizar la coparticipación ciudadanía en la toma de decisiones.
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+III.- Elaborar el programa de trabajo de la Comisión, de acuerdo a la agenda legislativa del Congreso del Estado y de todos aquellos asuntos que le hayan sido turnados para su determinación, considerando la vinculación con organizaciones de la sociedad civil;
 
 IV.- Presentar al pleno del Congreso del Estado los dictámenes e informes y demás documentos relativos a los asuntos que les son turnados o remitidos;
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
 
-V.- Invitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, a los titulares de las distintas dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones;
+V.- Invitar por conducto de la presidenta o presidente de la comisión de dictamen legislativo correspondiente, a los titulares de las dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
 
-VI.- Solicitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del Presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes;
+VI.- Solicitar por conducto de la presidenta o presidente de la comisión de dictamen legislativo correspondiente, cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes;
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -905,15 +999,17 @@ VII.- Emitir su opinión ante la Comisión de Fiscalización, en el ámbito de s
 
 VIII.- Integrar a solicitud de la mayoría de los integrantes de la comisión de dictamen legislativo, un consejo técnico consultivo con los perfiles más adecuados, para asesorar de forma honoraria en las temáticas que se le soliciten; y
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
 
-IX.- Realizar a través del presidente o presidenta de la comisión de dictamen legislativo, mesas de trabajo con corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás que lo soliciten, debiendo para ello, generar una minuta de los acuerdos tratados e informar a los demás miembros de la comisión en caso de que no se encuentren presentes.
+IX.- Realizar a través del presidente o presidenta de la comisión de dictamen legislativo y previo a la elaboración del dictamen respectivo, mesas de trabajo con los ciudadanos, corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás agentes sociales debiendo para ello, generar una minuta de los acuerdos tratados e informar a los demás miembros de la comisión en caso de que no se encuentren presentes.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ARTÍCULO 94 BIS I.- Las corporaciones, organizaciones, asociaciones civiles, así como cualquier ciudadano que resida en el Estado de Sonora, podrá presentar ponencias por escrito, sobre las iniciativas de ley, decretos y demás asuntos de interés público que se discutan en las comisiones de dictamen legislativo, sin que estas tengan un efecto vinculante en el proceso.
 
-Las ponencias por escrito podrán publicarse en la página oficial del Congreso de Sonora.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+Las ponencias por escrito deberán publicarse en la página oficial del Congreso de Sonora en el micrositio de las comisiones.
 
 En caso de que dicha ponencia resulte de suma importancia para un proceso de dictamen, el ponente podrá ser citado por el presidente o presidenta de la comisión para exponer su ponencia de forma presencial.
 
@@ -949,7 +1045,9 @@ I.- El nombre de la comisión o comisiones que lo suscriban y el asunto sobre el
 
 II.- Antecedentes del asunto planteado;
 
-III.- Consideraciones que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa o asunto;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+III.- Consideraciones que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa o asunto, incluyendo las preguntas, observaciones o comentarios realizados por los agentes sociales involucrados en las iniciativas, así como sus respuestas;
 
 IV.- Puntos resolutivos;
 
@@ -979,7 +1077,7 @@ Para el caso de las reuniones de las comisiones en forma unida, se entenderá qu
 
 Cuando un diputado suplente sea llamado para cubrir la ausencia del titular, formará parte de las comisiones en las que se desempeñaba el propietario a quien suple en su ausencia, sin necesidad de declaratoria alguna, excepto las comisiones de Régimen Interno y Concertación Política y la de Administración, para las cuales se requerirá declaratoria expresa del pleno del Congreso del Estado.
 
-### CAPÍTULO III. DE LA COMISIÓN DE ADMINISTRACIÓN
+### CAPÍTULO II. DE LA COMISIÓN DE RÉGIMEN INTERNO Y CONCERTACIÓN POLÍTICA
 
 ###### ARTÍCULO 103.
 
@@ -1055,11 +1153,7 @@ XVI.- Las demás que le confiera esta Ley, el pleno del Congreso del Estado y la
 
 La Comisión de Régimen Interno y Concertación Política dispondrá del personal y equipo necesarios para el cumplimiento de sus atribuciones, así como de los recursos económicos en los términos que señale el presupuesto de egresos del Congreso del Estado.
 
-### CAPÍTULO I. DE LAS SESIONES
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2016)</small>
+### CAPÍTULO III. DE LA COMISIÓN DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 111.
 
@@ -1109,9 +1203,9 @@ a) La organización interna y procedimientos del órgano a su cargo; y
 
 b) Los programas de actividades del órgano a su cargo;
 
-> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
 
-XI.- Autorizar a los titulares de las dependencias del Congreso del Estado, a proporcionar a los diputados que lo soliciten, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias de este Poder Legislativo; y
+XI.- Publicar y mantener actualizada la documental oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Poder Legislativo; dicha publicación se realizará en el micrositio del Parlamento Abierto dentro del Portal Oficial del Congreso del Estado; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 14 DE MARZO DE 2019)</small>
 
@@ -1123,7 +1217,11 @@ Las atribuciones previstas en este artículo son indelegables.
 
 ## TÍTULO SÉPTIMO. DEL PROCESO LEGISLATIVO
 
-### CAPÍTULO II. DE LAS INICIATIVAS
+### CAPÍTULO I. DE LAS SESIONES
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 115.
 
@@ -1195,7 +1293,7 @@ Durante las sesiones, los asuntos a tratar serán únicamente los aprobados en e
 
 Sólo por resolución de las dos terceras partes del pleno del Congreso del Estado, a propuesta de la Mesa Directiva o de la Comisión de Régimen Interno y Concertación Política, se podrá incluir algún asunto no contenido en el orden del día.
 
-### CAPÍTULO III. DE LAS DISCUSIONES
+### CAPÍTULO II. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 124.
 
@@ -1243,7 +1341,7 @@ En el caso de urgencia notoria calificada por las dos terceras partes, cuando me
 
 Cuando el Gobernador del Estado, usando la facultad que le concede el artículo 60 de la Constitución Política del Estado, devuelva un proyecto con observaciones, éste deberá ser discutido nuevamente por el Congreso del Estado. Si fuere confirmado por las dos terceras partes de los diputados presentes, el proyecto tendrá el carácter de ley, de decreto o de acuerdo, según el caso, y volverá al Ejecutivo para su publicación.
 
-### CAPÍTULO IV. DE LAS VOTACIONES
+### CAPÍTULO III. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 133.
 
@@ -1367,8 +1465,6 @@ ARTÍCULO 138 BIS.- Los dictámenes con proyectos de ley que consten de más de 
 
 Si lo propone algún diputado y se aprueba por el Pleno, podrá votarse por separado cada uno de los artículos o fracciones del artículo o de la sección que esté a debate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 139.
@@ -1463,17 +1559,7 @@ III.- Por falta de quórum; y
 
 IV.- Por moción suspensiva que presente alguno o algunos de los diputados y que la apruebe el pleno del Congreso del Estado.
 
-### CAPÍTULO IV BIS. DEL CUMPLIMIENTO Y SEGUIMIENTO A LOS PUNTOS DE ACUERDO APROBADOS POR EL CONGRESO DEL ESTADO
-
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
-
-ARTÍCULO 155 BIS.- Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los servidores públicos del Gobierno del Estado o de los Ayuntamientos, según corresponda, quienes contarán con un plazo de quince días hábiles, contado a partir del día siguiente en que se le notifique el contenido del resolutivo respectivo, para emitir una respuesta por escrito, fundada y motivada, dirigida al Congreso del Estado.
-
-La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto, emitirá la respuesta expresando las razones de su postura, caso en el cual, deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos, mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
-
-Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado o el Órgano de Control y Evaluación Gubernamental del ayuntamiento, según corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso, informando de todos estos actos al Pleno del Congreso del Estado de Sonora, en forma previa a la culminación de su encargo. El incumplimiento de los deberes impuestos al Presidente de la Mesa Directiva deberá ser sancionado, previo procedimiento que al efecto desahogue la Contraloría Interna del Congreso del Estado, por el Pleno del Poder Legislativo.
-
-Tratándose de acuerdos dirigidos a organismos autónomos, las disposiciones previstas en este capítulo les aplicarán en lo que resulte legalmente aplicable.
+### CAPÍTULO IV. DE LAS VOTACIONES
 
 ###### ARTÍCULO 147.
 
@@ -1519,9 +1605,19 @@ En las votaciones que deben resolver las dos terceras partes de los votos que in
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPÍTULO V. DE LA GACETA PARLAMENTARIA
+### CAPÍTULO IV BIS. DEL CUMPLIMIENTO Y SEGUIMIENTO A LOS PUNTOS DE ACUERDO APROBADOS POR EL CONGRESO DEL ESTADO
 
-### CAPÍTULO ÚNICO. DE LOS GRUPOS PARLAMENTARIOS
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 155 BIS.- Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los servidores públicos del Gobierno del Estado o de los Ayuntamientos, según corresponda, quienes contarán con un plazo de quince días hábiles, contado a partir del día siguiente en que se le notifique el contenido del resolutivo respectivo, para emitir una respuesta por escrito, fundada y motivada, dirigida al Congreso del Estado.
+
+La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto, emitirá la respuesta expresando las razones de su postura, caso en el cual, deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos, mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
+
+Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado o el Órgano de Control y Evaluación Gubernamental del ayuntamiento, según corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso, informando de todos estos actos al Pleno del Congreso del Estado de Sonora, en forma previa a la culminación de su encargo. El incumplimiento de los deberes impuestos al Presidente de la Mesa Directiva deberá ser sancionado, previo procedimiento que al efecto desahogue la Contraloría Interna del Congreso del Estado, por el Pleno del Poder Legislativo.
+
+Tratándose de acuerdos dirigidos a organismos autónomos, las disposiciones previstas en este capítulo les aplicarán en lo que resulte legalmente aplicable.
+
+### CAPÍTULO V. DE LA GACETA PARLAMENTARIA
 
 ###### ARTÍCULO 156.
 
@@ -1573,7 +1669,7 @@ La lectura a la correspondencia y comunicaciones que requieran el desahogo de tr
 
 ## TÍTULO OCTAVO. DE LOS GRUPOS PARLAMENTARIOS
 
-### CAPÍTULO ÚNICO. DE LA AGENDA LEGISLATIVA COMÚN
+### CAPÍTULO ÚNICO. DE LOS GRUPOS PARLAMENTARIOS
 
 ###### ARTÍCULO 161.
 
@@ -1617,13 +1713,17 @@ La falta del informe correspondiente, dentro de los quince días hábiles siguie
 
 ## TÍTULO NOVENO. DE LA AGENDA LEGISLATIVA COMÚN
 
-### CAPÍTULO ÚNICO. EVALUACIÓN DEL DESEMPEÑO LEGISLATIVO
+### CAPÍTULO ÚNICO. DE LA AGENDA LEGISLATIVA COMÚN
 
 ###### ARTÍCULO 170.
 
 La Agenda Legislativa Común del Poder Legislativo será acordada dentro de los treinta días hábiles posteriores al inicio de cada legislatura y podrá actualizarse cada dos periodos ordinarios de sesiones, dentro de los treinta días hábiles posteriores al inicio del año de ejercicio.
 
 La Agenda Legislativa Común se elaborará sin perjuicio del derecho contenido en el artículo 53 de la Constitución Política del Estado y demás asuntos que se acuerden tratar por el pleno del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
+En la elaboración de la Agenda Legislativa Común, se deberá de incluir la agenda ciudadana que se genere con motivo de la participación de la ciudadanía, a través de los mecanismos para la implementación del Parlamento Abierto en el Congreso del Estado.
 
 ###### ARTÍCULO 171.
 
@@ -1639,7 +1739,7 @@ IV.- El calendario para la discusión y, en su caso, aprobación de las iniciati
 
 ## TÍTULO DÉCIMO. DE LA EVALUACIÓN DEL DESEMPEÑO Y LA TRANSPARENCIA LEGISLATIVA
 
-### CAPÍTULO ÚNICO. DEL CEREMONIAL
+### CAPÍTULO ÚNICO. EVALUACIÓN DEL DESEMPEÑO LEGISLATIVO
 
 ###### ARTÍCULO 172.
 
@@ -1661,9 +1761,7 @@ El Comité Ciudadano evaluará anualmente al Congreso del Estado en los término
 
 ## TÍTULO DÉCIMO PRIMERO. DEL CEREMONIAL
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN INTERNA
-
-> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2015)</small>
+### CAPÍTULO ÚNICO. DEL CEREMONIAL
 
 ###### ARTÍCULO 176.
 
@@ -1703,7 +1801,9 @@ De la misma manera, deberá entonarse el Himno Nacional al inicio de aquellas se
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA ORGANIZACIÓN ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN
+### CAPÍTULO I. DE LA ORGANIZACIÓN INTERNA
+
+> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 183.
 
@@ -1733,7 +1833,7 @@ Queda prohibido acordar la entrega de numerario o bienes en especie a diputados 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 11 DE MAYO DE 2017)</small>
 
-### CAPÍTULO III
+### CAPÍTULO II. DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN
 
 ###### ARTÍCULO 187.
 
@@ -1741,13 +1841,13 @@ Queda prohibido acordar la entrega de numerario o bienes en especie a diputados 
 
 > <small>(DEROGADA SU DENOMINACIÓN, B.O. 1 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO IV. DE LA OFICIALÍA MAYOR
+### CAPÍTULO III
 
 ###### ARTÍCULO 188.
 
 (DEROGADO, B.O. 1 DE OCTUBRE DE 2015)
 
-### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
+### CAPÍTULO IV. DE LA OFICIALÍA MAYOR
 
 ###### ARTÍCULO 189.
 
@@ -1993,6 +2093,36 @@ XVI.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que se as
 
 XVII.- Las demás que les señale el Oficial Mayor o que le confieran otras disposiciones legales.
 
+### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
+
+###### ARTÍCULO 194.
+
+La Contraloría interna, será responsable del control y evaluación del desarrollo administrativo y financiero del Congreso del Estado, cuyo titular será designado por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
+
+###### ARTÍCULO 195.
+
+La Contraloría Interna, será un órgano funcionalmente autónomo y dependerá directamente del pleno del Congreso del Estado, bajo la supervisión de la Comisión de Régimen Interno y Concertación Política, teniendo las siguientes atribuciones:
+
+I.- Proponer y aplicar las normas y criterios en materia de control y evaluación que deban observar las dependencias del Congreso del Estado;
+
+II.- Establecer y operar un sistema de quejas, denuncias o sugerencias relacionadas con las funciones del Congreso del Estado;
+
+III.- Instaurar procedimientos administrativos y proponer a la Comisión de Régimen Interno y Concertación Política las sanciones en los términos de la reglamentación interna a los funcionarios de las dependencias del Congreso del Estado;
+
+IV.- Apoyar en los asuntos de su competencia a las comisiones legislativas; y
+
+V.- Las demás que expresamente le confiera esta ley, el pleno del Congreso del Estado y demás disposiciones legales.
+
+###### ARTÍCULO 196.
+
+Para desempeñar el cargo de Contralor Interno se requieren los mismos requisitos que para ser Oficial Mayor del Congreso del Estado.
+
+###### ARTÍCULO 197.
+
+La Contraloría Interna contará con las áreas, unidades y personal necesario para su funcionamiento, conforme a lo establecido en el presupuesto de egresos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MAYO DE 2017)</small>
+
 ### CAPÍTULO VI. DEL CENTRO DE INVESTIGACIONES PARLAMENTARIAS DEL ESTADO DE SONORA
 
 > <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
@@ -2047,41 +2177,9 @@ Para ser nombrado Director General y Subdirector del Centro se requiere ser mexi
 
 ARTÍCULO 197 BIS 2.- Para el ejercicio de las atribuciones establecidas en este artículo, el Centro contará con la estructura administrativa necesaria para el desempeño de sus funciones, la cual deberá ser aprobada y nombrada por la Comisión de Régimen Interno y Concertación Política del Congreso del Estado. El personal del Centro deberá contar con un perfil profesional relacionado de manera preferencial con los ámbitos académicos y de la investigación.
 
-###### ARTÍCULO 194.
-
-La Contraloría interna, será responsable del control y evaluación del desarrollo administrativo y financiero del Congreso del Estado, cuyo titular será designado por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
-
-###### ARTÍCULO 195.
-
-La Contraloría Interna, será un órgano funcionalmente autónomo y dependerá directamente del pleno del Congreso del Estado, bajo la supervisión de la Comisión de Régimen Interno y Concertación Política, teniendo las siguientes atribuciones:
-
-I.- Proponer y aplicar las normas y criterios en materia de control y evaluación que deban observar las dependencias del Congreso del Estado;
-
-II.- Establecer y operar un sistema de quejas, denuncias o sugerencias relacionadas con las funciones del Congreso del Estado;
-
-III.- Instaurar procedimientos administrativos y proponer a la Comisión de Régimen Interno y Concertación Política las sanciones en los términos de la reglamentación interna a los funcionarios de las dependencias del Congreso del Estado;
-
-IV.- Apoyar en los asuntos de su competencia a las comisiones legislativas; y
-
-V.- Las demás que expresamente le confiera esta ley, el pleno del Congreso del Estado y demás disposiciones legales.
-
-###### ARTÍCULO 196.
-
-Para desempeñar el cargo de Contralor Interno se requieren los mismos requisitos que para ser Oficial Mayor del Congreso del Estado.
-
-###### ARTÍCULO 197.
-
-La Contraloría Interna contará con las áreas, unidades y personal necesario para su funcionamiento, conforme a lo establecido en el presupuesto de egresos.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MAYO DE 2017)</small>
-
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA
-
 ## TÍTULO DÉCIMO TERCERO. DEL SERVICIO CIVIL DE CARRERA
 
-### CAPÍTULO ÚNICO. DEL PARLAMENTO DE LAS MUJERES DEL ESTADO DE SONORA
-
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA
 
 ###### ARTÍCULO 198.
 
@@ -2101,9 +2199,9 @@ El pleno del Congreso del Estado será la instancia competente para determinar y
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE JULIO DE 2015)</small>
 
-### CAPÍTULO ÚNICO. DEL PARLAMENTO JUVENIL DEL ESTADO DE SONORA
+### CAPÍTULO ÚNICO. DEL PARLAMENTO DE LAS MUJERES DEL ESTADO DE SONORA
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 201.
 
@@ -2127,9 +2225,9 @@ El Congreso del Estado de Sonora asegurará y reservará los recursos presupuest
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
 
-### CAPÍTULO I. UNIDAD TÉCNICA PARA LA IGUALDAD DE GÉNERO
+### CAPÍTULO ÚNICO. DEL PARLAMENTO JUVENIL DEL ESTADO DE SONORA
 
-> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 204.
 
@@ -2241,7 +2339,9 @@ En la sesión del Parlamento Juvenil del Estado se elegirá por mayoría absolut
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO III. SANCIÓN PARA LA TENTATIVA
+### CAPÍTULO I. UNIDAD TÉCNICA PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 210.
 
@@ -2841,11 +2941,17 @@ El Congreso del Estado, a través de las instancias correspondientes deberá de 
 
 La Comisión de Régimen Interno y Concertación Política deberá proponer al Pleno del Congreso del Estado una partida presupuestal suficiente para que inicie sus funciones de (sic) la Unidad Técnica para la Igualdad de Género.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIOINES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE CIBERVIOLENCIA O VIOLENCIA A LA INTIMIDAD SEXUAL, ASÍ COMO EN SU MODALIDAD DE DEEPFAKE”.]
+B.O. 21 DE OCTUBRE DE 2021.
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 05 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 14 DE SEPTIEMBRE DE 2022.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, deberá de emitir la convocatoria pública para conformar el Comité Técnico Asesor del Parlamento Abierto.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ABIGEATO".]
 
