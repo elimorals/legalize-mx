@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2021-04-06"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -291,9 +291,21 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 
 IV. La implementación de políticas públicas de prevención de la violencia por acoso sexual en espacios públicos o de acceso público;
 
-V. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de acoso sexual en espacios públicos o de acceso público, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2021)</small>
 
-VI. La expedición de la normatividad administrativa, así como los protocolos especializados para prevenir, atender y denunciar el acoso sexual en espacios públicos o de acceso público, con enfoque en derechos humanos y perspectiva de género.
+V. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de acoso sexual en espacios públicos o de acceso público;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+VI. La expedición de la normatividad administrativa, así como los protocolos especializados para prevenir, atender y denunciar el acoso sexual en espacios públicos o de acceso público, con enfoque en derechos humanos y perspectiva de género, y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+VII. Los Ayuntamientos del Estado, en el ámbito de su competencia, no podrán autorizar la colocación de anuncios publicitarios con contenidos de cualquier tipo de violencia, de estereotipos sexistas, degradantes o discriminatorios contra las mujeres, niñas y adolescentes.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 21 DE OCTUBRE DE 2021.]</small>
+
+Se entiende por estereotipos sexistas, degradantes o discriminatorios los que reproducen roles de género, posicionan a las mujeres, niñas y adolescentes en una relación de subordinación con los hombres y hacen énfasis en comparaciones estéticas y en la hipersexualización del género femenino, además de lo establecido en la presente Ley y en los Tratados Internacionales en materia de protección de los derechos humanos de las mujeres.
 
 Los protocolos a que refiere la fracción VI deberán publicarse en el Periódico Oficial del Estado de Quintana Roo y deberán actualizarse cada tres años.
 
@@ -1606,3 +1618,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. En un término de 180 días naturales, el Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias deberán expedir y publicar la normatividad administrativa los protocolos especializados para prevenir, atender y denunciar el hostigamiento, acoso sexual y el acoso sexual en espacios públicos o de acceso público, con enfoque en derechos humanos y perspectiva de género, acordes con el protocolo publicado en el Diario Oficial de la Federación en fecha 3 de enero de 2020.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136: POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Ayuntamientos deberán emitir las disposiciones reglamentarias para dar cumplimiento a lo establecido en el presente decreto, en un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del mismo.
