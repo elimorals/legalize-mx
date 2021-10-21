@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2020-12-18"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -970,6 +970,14 @@ IV. Enajenar, gravar, arrendar o dar posesión por cualquier concepto, bienes de
 V. Fijar sueldos a los miembros del Ayuntamiento o a los servidores públicos municipales, con base en porcentaje sobre los ingresos. Asimismo, rehusar el cumplimiento de las obligaciones que impongan las Leyes Fiscales o autorizar erogaciones sin respaldo presupuestario;
 
 VI. Conceder empleos en la Administración Pública Municipal, a los propios miembros de los Ayuntamientos, a sus cónyuges, parientes consanguíneos en la línea recta y parientes en línea colateral hasta el cuarto grado o parientes por afinidad.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+VII. Autorizar la colocación de anuncios publicitarios con contenido de cualquier tipo de violencia, de estereotipos sexistas, degradantes o discriminatorios contra las mujeres, niñas y adolescentes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+Se entiende por estereotipos sexistas, degradantes o discriminatorios los que reproducen roles de género, posicionan a las mujeres, niñas y adolescentes en una relación de subordinación con los hombres y hacen énfasis en comparaciones estéticas y en la hipersexualización del género femenino, además de lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y en los Tratados Internacionales en materia de protección de los derechos humanos de las mujeres.
 
 ## Título Sexto. De las Comisiones
 
@@ -3456,3 +3464,11 @@ P.O. 18 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 136 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Ayuntamientos deberán emitir las disposiciones reglamentarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del mismo.
