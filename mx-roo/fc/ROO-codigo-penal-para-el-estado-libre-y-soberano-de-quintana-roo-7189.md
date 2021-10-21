@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2021-10-15"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1295,7 +1295,9 @@ III. Que a la víctima se le hayan infligido lesiones o mutilaciones infamantes 
 
 IV. Que existan antecedentes o datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso u hostigamiento sexual, o lesiones del sujeto activo en contra de la víctima;
 
-V. Que el cuerpo de la víctima sea expuesto o exhibido en un lugar público;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+V. Que el cuerpo o partes del cuerpo de la víctima, hayan sido expuestos, arrojados, depositados o exhibidos en un lugar público o cualquier espacio de libre concurrencia;
 
 VI. Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
 
@@ -1501,7 +1503,9 @@ Para los efectos de este Código, riña es la contienda de obra o la agresión f
 
 Se entiende que el homicidio y las lesiones son calificados:
 
-I.- Cuando se cometen con premeditación alevosía, ventaja o traición;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE OCTUBRE DE 2021)</small>
+
+I.- Cuando se cometen con premeditación alevosía, ventaja, traición u odio;
 
 Hay premeditación, cuando el agente ha reflexionado sobre la comisión del delito de homicidio o de lesiones que pretenda cometer.
 
@@ -1514,6 +1518,10 @@ Hay alevosía cuando se sorprende intencionalmente a alguien de improviso emplea
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Hay traición cuando se viola la fe o la seguridad que expresamente le había prometido a la víctima u ofendido o la tácita que esta debía esperar en razón de parentesco, gratitud amistad, o cualquiera otra circunstancia que inspire confianza.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+Hay odio cuando el agente lo comete motivado por la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; la nacionalidad o lugar de origen; el color o cualquier otra característica genética; lengua; religión; edad; opiniones; discapacidad; condiciones de salud; características sexuales; apariencia física; orientación sexual; identidad de género; expresión de género; estado civil; ocupación o actividad de la víctima.
 
 II.- Cuando se ejecuten por retribución dada o prometida;
 
@@ -4920,3 +4928,21 @@ P.O. 15 DE OCTUBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 134 POR EL QUE SE REFORMA LA FRACCIÓN I Y SE ADICIONA UN PÁRRAFO SEXTO A LA FRACCIÓN I DEL ARTÍCULO 106 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+P.O. 21 DE OCTUBRE DE 2021.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Fiscalía General del Estado de Quintana Roo, deberá crear un protocolo de actuación e investigación que permita una adecuada protección de las víctimas de los delitos con motivo de odio, en un plazo no mayor a ciento ochenta días a partir de la publicación del presente Decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 138 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 89-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
