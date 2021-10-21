@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2018-06-14"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -59,9 +59,11 @@ Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres qu
 
 La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos y, en su caso, por las Leyes aplicables de las Entidades Federativas, que regulen esta materia.
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley de la Comisión Nacional de los Derechos Humanos, la Ley del Instituto Nacional de las Mujeres, los instrumentos internacionales ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley de la Comisión Nacional de los Derechos Humanos, la Ley del Instituto Nacional de las Mujeres, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley General de los Derechos de Niñas, Niños y Adolescentes, los instrumentos internacionales ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 5.
 
@@ -686,5 +688,11 @@ D.O.F. 23 DE ABRIL DE 2018.
 D.O.F. 14 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
