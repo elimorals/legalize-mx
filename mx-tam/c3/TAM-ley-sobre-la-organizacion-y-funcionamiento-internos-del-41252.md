@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-09-30"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -175,7 +175,9 @@ c) La votación se efectuará mediante cédula y será electa la propuesta que o
 
 3. Depositadas las cédulas de votación en la urna que se colocará en el presidium, se hará el escrutinio y el diputado que conduce la sesión dará a conocer el resultado y hará la declaratoria de quienes hayan resultado electos para integrar la Mesa Directiva. En consecuencia, invitará al Presidente y a los Secretarios electos a que pasen a ocupar sus respectivos lugares en el propio presidium.
 
-4. Una vez electa la Mesa Directiva, el Presidente del Congreso hará la siguiente declaratoria: "La (aquí el número ordinal que corresponda) Legislatura del Congreso del Estado Libre y Soberano de Tamaulipas, se declara legítimamente constituida, legalmente instalada y en aptitud de ejercer las funciones que le señalan la Constitución y las leyes".
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+4. Una vez electa la Mesa Directiva, el Presidente del Congreso hará la siguiente declaratoria: "La Legislatura (aquí el número cardinal que corresponda) del Congreso del Estado Libre y Soberano de Tamaulipas, se declara legítimamente constituida, legalmente instalada y en aptitud de ejercer las funciones que le señalan la Constitución y las leyes".
 
 ###### ARTICULO 13.
 
@@ -2157,13 +2159,15 @@ DE LA FORMA Y EXPEDICION DE LEYES, DECRETOS Y ACUERDOS
 
 3. Para la reforma, derogación o abrogación de las leyes, decretos o acuerdos, se seguirá el mismo procedimiento utilizado para su expedición.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 119.
 
 1. Las resoluciones del Poder Legislativo se expedirán en el Recinto del Congreso en la fecha de su aprobación y seguirán la forma siguiente:
 
-"La (número ordinal que corresponda) Legislatura del Congreso del Estado Libre y Soberano de Tamaulipas, con fundamento en lo dispuesto por (artículos constitucionales y legales aplicables) expide el Decreto o Acuerdo" (número cardinal progresivo que corresponda y que se inicia con cada Legislatura), epígrafe y luego el texto de la Ley, Decreto o Acuerdo.
+"La Legislatura (número cardinal que corresponda) del Congreso del Estado Libre y Soberano de Tamaulipas, con fundamento en lo dispuesto por (artículos constitucionales y legales aplicables) expide el Decreto o Acuerdo" (número cardinal progresivo que corresponda y que se inicia con cada Legislatura), epígrafe y luego el texto de la Ley, Decreto o Acuerdo.
 
-2. En la enumeración de los decretos y acuerdos se inscribirá previamente el número ordinal de la Legislatura que corresponda, de tal suerte que puedan identificarse conforme a la que los expide.
+2. En la enumeración de los decretos y acuerdos se inscribirá previamente el número cardinal de la Legislatura que corresponda, de tal suerte que puedan identificarse conforme a la que los expide.
 
 APARTADO F
 
@@ -2667,7 +2671,9 @@ Cuando a invitación expresa de la Legislatura, el Gobernador del Estado, el Pre
 
 ###### ARTICULO 156.
 
-1. En la primera sesión de cada período ordinario, el presidente de la Mesa Directiva del Congreso, hará la declaratoria de apertura en los siguientes términos: "El Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, abre hoy el (aquí el número de ordinal del período que corresponda) período ordinario de sesiones, correspondiente al (primer, segundo o tercer) año de ejercicio de la (aquí el número ordinal que corresponda) Legislatura".
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+1. En la primera sesión de cada período ordinario, el presidente de la Mesa Directiva del Congreso, hará la declaratoria de apertura en los siguientes términos: "El Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, abre hoy el (aquí el número de ordinal del período que corresponda) período ordinario de sesiones, correspondiente al (primer, segundo o tercer) año de ejercicio de la Legislatura (aquí el número cardinal que corresponda)".
 
 2. Al realizarse la declaratoria aludida en el párrafo anterior, todos los asistentes a la sesión deberán estar de pie.
 
@@ -2681,9 +2687,11 @@ Cuando a invitación expresa de la Legislatura, el Gobernador del Estado, el Pre
 
 3. Una vez aprobada la minuta, el Presidente de la Mesa Directiva dispondrá se participe la clausura del periodo al titular del Poder Ejecutivo, al Supremo Tribunal de Justicia, a los Ayuntamientos del Estado, a los Poderes Federales, a las Legislaturas de los Estados y al Congreso (sic) la Ciudad de México.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
 4. Acto continuo, puestos de pie todos los presentes, el presidente de la Mesa Directiva hará la Declaratoria siguiente:
 
-"Siendo las (horas) del (fecha) la (número ordinal) Legislatura del Congreso del Estado Libre y Soberano de Tamaulipas, clausura su (número ordinal del período) correspondiente al (primer segundo o tercer del año) de su ejercicio constitucional".
+"Siendo las (horas) del (fecha) la Legislatura (número cardinal) del Congreso del Estado Libre y Soberano de Tamaulipas, clausura su (número ordinal del período) correspondiente al (primer segundo o tercer del año) de su ejercicio constitucional".
 
 5. El Presidente de la Mesa Directiva dispondrá la expedición del Decreto correspondiente.
 
@@ -3504,3 +3512,11 @@ P.O. 30 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición.
+
+P.O. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-5 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 12, PÁRRAFO 4; 119; 156, PÁRRAFO 1; Y 157, PÁRRAFO 4, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
