@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2020-12-21"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -795,7 +795,7 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. ATENCION MATERNO-INFANTIL
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 56.
 
@@ -805,9 +805,13 @@ La atención materno-infantil tiene carácter prioritario, motivará al cumplimi
 
 I. La atención integral de la mujer durante el embarazo, el parto y el puerperio;
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, y
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna y atención prenatal;
 
-III. La promoción de la integración y del bienestar familiar.
+III. La prevención y detección de las condiciones y enfermedades hereditarias y congénitas, incluyendo aquellas consideradas como raras y en su caso atención integral, que incluya la aplicación de la prueba del tamiz neonatal metabólico ampliado y su salud visual, además del seguimiento y acceso a los tratamientos;
+
+IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados, y
+
+V. La promoción de la integración y del bienestar familiar.
 
 ###### ARTICULO 57.
 
@@ -3840,3 +3844,13 @@ PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes de
 SEGUNDO. La Secretaría de Salud contará con un plazo de noventa días hábiles siguientes a la entrada en vigor de la ley para convocar e instalar el Consejo Estatal de Salud Mental. Este Consejo tendrá noventa días hábiles siguientes a la entrada en vigor de la ley para emitir el Reglamento de esta ley y las modificaciones reglamentarias que correspondan.
 
 TERCERO. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada en el Presupuesto de Egresos para el ejercicio anual vigente, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 137 POR EL QUE SE REFORMA EL ARTÍCULO 56 DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La XVI Legislatura del Estado deberá hacer la asignación presupuestal correspondiente para que la implementación de lo establecido en el presente Decreto se lleve acabo (sic) a mas tardar el 1 de junio de 2022.
