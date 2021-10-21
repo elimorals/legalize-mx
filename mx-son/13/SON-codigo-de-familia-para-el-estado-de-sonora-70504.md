@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2021-05-14"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -51,9 +51,11 @@ Las disposiciones del derecho de familia son de carácter público y de interés
 
 A falta de disposición específica de este código, se aplicarán supletoriamente las normas del código civil.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 2.
 
-La familia es una institución de carácter social, constituida por la unión matrimonial o concubinaria de un hombre y una mujer, o por vínculos de parentesco en los tipos, líneas y grados que reconoce la ley.
+La familia es el elemento natural y fundamental de la sociedad constituida por la unión matrimonial o concubinaria de dos personas y tiene derecho a la protección de la sociedad y del Estado. También existe por vínculos de parentesco en los tipos, líneas y grados que reconoce la ley.
 
 ###### Artículo 3.
 
@@ -117,11 +119,11 @@ Los derechos y obligaciones derivados de los estados de familia son irrenunciabl
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-(REFORMADO, B.O. 1 DE MARZO DE 2011) (F. DE E., B.O. 31 DE MARZO DE 2011)
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-El matrimonio es la unión legítima de un hombre y una mujer, con el propósito expreso de integrar una familia, el respeto recíproco y la protección mutua, así como la eventual perpetuación de la especie. Cualquier disposición contraria a estos fines, acordada por los cónyuges, se tendrá por no puesta.
+El matrimonio es una institución de carácter público e interés social. Es la unión legitima de dos personas, con el propósito expreso de integrar una familia, el respeto reciproco y la protección mutua. Cualquier disposición contraria a estos fines, acordada por los cónyuges, se tendrá por no puesta.
 
 ###### Artículo 12.
 
@@ -251,17 +253,19 @@ No estará obligado a contribuir económicamente el cónyuge que se encuentre im
 
 Cuando ambos cónyuges trabajen y cooperen al sostenimiento de la familia, entonces las labores domésticas, así como la protección y educación de los hijos, constituirán una responsabilidad compartida, en los términos que fijen de común acuerdo.
 
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 29.
 
-El hombre y la mujer mayores de edad, tienen capacidad para administrar y disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge o concubino, pero cuando la casa que sirva de habitación a la familia sea bien propio de uno de ellos, no podrá ser enajenada ni gravada sin autorización de ambos.
+Los cónyuges mayores de edad, tienen capacidad para administrar y disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge o concubino, pero cuando la casa que sirva de habitación a la familia sea bien propio de uno de ellos, no podrá ser enajenada ni gravada sin autorización de ambos.
+
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 2011)</small>
 
 A fin garantizar este aspecto del derecho de alimentos, es necesario que el cónyuge o concubino interesado, tramite por vía judicial o notarial, una jurisdicción voluntaria para acreditar que habitan la casa y registren la resolución o testimonio notarial en la oficina del Instituto Registral y Catastral del Estado de Sonora que corresponda, caso en el cual será necesaria la autorización del otro cónyuge o concubino, para vender o gravar dicho inmueble. En ausencia de dicha inscripción, el propietario podrá disponer libremente del mismo.
 
 ###### Artículo 30.
 
-El marido y la mujer menores de edad, tendrán la libre administración de sus bienes, pero necesitarán autorización judicial para enajenarlos o gravarlos y un tutor para sus negocios judiciales.
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2021)
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -269,9 +273,11 @@ El marido y la mujer menores de edad, tendrán la libre administración de sus b
 
 Los cónyuges pueden celebrar entre sí cualquier contrato, pero los de compra-venta, dación en pago, permuta y donación, sólo serán válidos cuando el matrimonio esté sujeto al régimen de separación de bienes o cuando se trate de bienes propios de cada cónyuge, cualquiera que sea el régimen patrimonial del matrimonio.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-El marido y la mujer podrán, durante el matrimonio, ejercitar las acciones que tengan el uno contra el otro. En caso de no hacerlo, la prescripción no correrá entre ellos mientras dure el vínculo.
+Los cónyuges podrán, durante el matrimonio, ejercitar las acciones que tengan el uno contra el otro. En caso de no hacerlo, la prescripción no correrá entre ellos mientras dure el vínculo.
 
 ## TITULO TERCERO. DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES
 
@@ -637,9 +643,11 @@ Los bienes que los cónyuges adquieran en común por donación, herencia, legado
 
 No obstante el régimen de separación pactado por los cónyuges, cuando uno de ellos no adquiera bienes por haberse dedicado exclusivamente al cuidado del hogar o de los hijos, tendrá derecho a exigir del otro que divida por mitad los beneficios netos obtenidos durante el período en que se produjo la imposibilidad para trabajar, siempre que el reclamante no posea bienes suficientes para cubrir sus necesidades.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 94.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes, por ausencia o impedimento del otro, no originado por enfermedad, se encarga temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado obtenido.
+Los cónyuges no podrán cobrarse retribución u honorario alguno por los servicios personales que se prestaren, o por los consejos y asistencia que se dieren; pero si uno de los consortes, por ausencia o impedimento del otro, no originado por enfermedad, se encarga temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado obtenido.
 
 ###### Artículo 95.
 
@@ -693,7 +701,7 @@ Es también inexistente el acto cuando se demuestra la simulación absoluta del 
 
 ###### Artículo 102.
 
-Es jurídicamente imposible el matrimonio contraído entre sujetos del mismo sexo.
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2021)
 
 ###### Artículo 103.
 
@@ -739,17 +747,9 @@ III.- Que haya subsistido al tiempo de celebrarse el matrimonio.
 
 La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
-
 ###### Artículo 108.
 
-La edad menor a dieciséis años en la mujer y en el hombre dejará de ser causa de nulidad:
-
-I.- Cuando haya habido hijos; y
-
-> <small>(REFORMADA, B.O. 1 DE MARZO DE 2011)</small>
-
-II.- Cuando no habiendo descendencia, ambos cónyuges hubieren llegado a los dieciocho años, sin que el Ministerio Público hubiese intentado la nulidad.
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2021)
 
 ###### Artículo 109.
 
@@ -1341,11 +1341,11 @@ Independientemente de quién ejerza la patria potestad o la custodia, los parien
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 191.
 
-El concubinato es la unión voluntaria de un hombre y una mujer, libres de impedimentos matrimoniales por vínculo no disuelto o por parentesco, con el propósito tácito de integrar una familia, el respeto recíproco y la mutua protección, así como la eventual perpetuación de la especie.
+El concubinato es la unión voluntaria de dos personas, libres de impedimentos matrimoniales por vínculo no disuelto o por parentesco, con el propósito tácito de integrar una familia, el respeto recíproco y la mutua protección.
 
 ###### Artículo 192.
 
@@ -1429,9 +1429,11 @@ La Ley reconoce que el parentesco puede ser consanguíneo, por afinidad y volunt
 
 El parentesco por consanguinidad es el que existe entre personas que descienden genéticamente de un mismo progenitor.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 205.
 
-El parentesco por afinidad es el que se produce por el matrimonio, entre el varón y los parientes de la mujer y entre ésta y los parientes del varón, y sólo afecta la capacidad para contraer matrimonio con los ascendientes o descendientes del cónyuge, una vez disuelto el vínculo.
+El parentesco por afinidad es el que se produce por el matrimonio, entre los parientes de un cónyuge con el otro, y sólo afecta la capacidad para contraer matrimonio con los ascendientes o descendientes del cónyuge, una vez disuelto el vínculo.
 
 ###### Artículo 206.
 
@@ -2549,9 +2551,11 @@ La tutela legítima es una función protectora que se prolonga hasta que el meno
 
 Ante varios parientes del mismo grado, el Juez elegirá al que le parezca más apto para el cargo, prefiriéndose al alimentista, pero si el menor hubiere cumplido dieciséis años, deberá ser oído antes de la designación.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 365.
 
-El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido, sin que sea necesario discernir el cargo.
+En el caso de dos personas que se encuentran unidas en matrimonio, será el cónyuge el tutor legítimo y forzoso, sin que sea necesario discernir el cargo.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -4082,3 +4086,15 @@ B.O. 14 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 03, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
