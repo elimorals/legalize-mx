@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2019-09-13"
+last_updated: "2021-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de junio de 2001.
 
@@ -2351,6 +2351,14 @@ En la construcción de obras o instalaciones que generen los contaminantes seña
 
 Para los efectos de la emisión de contaminación visual, la Secretaría y los Municipios, conforme a su respectiva competencia, procederán a emitir y vigilar el cumplimiento de las disposiciones que regulen las obras o actividades para la colocación de anuncios publicitarios, con el objeto de crear una imagen agradable de los centros de población y evitar así la contaminación visual.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+Bajo ninguna circunstancia se autorizará la colocación de anuncios publicitarios con contenidos de cualquier tipo de violencia, de estereotipos sexistas, degradantes o discriminatorios contra las mujeres, niñas y adolescentes; para lo cual los Ayuntamientos, en el ámbito de su competencia deberán regular rigurosamente los términos de dicha prohibición.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+
+Se entiende por estereotipos sexistas, degradantes o discriminatorios los que reproducen roles de género, posicionan a las mujeres, niñas y adolescentes en una relación de subordinación con los hombres y hacen énfasis en comparaciones estéticas y en la hipersexualización del género femenino, además de lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y en los Tratados Internacionales en materia de protección de los derechos humanos de las mujeres.
+
 ###### Artículo 166.
 
 Queda prohibida la instalación, fijación o colocación de anuncios publicitarios en elementos que conformen el entorno natural, tales como accidentes orográficos, barrancas, y árboles, así como en parques urbanos y monumentos históricos.
@@ -3472,3 +3480,11 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Ayuntamientos deberán emitir las disposiciones reglamentarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del mismo.
