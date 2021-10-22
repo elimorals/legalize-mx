@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2020-09-08"
+last_updated: "2021-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -102,6 +102,10 @@ XVII. Instituto: Al Instituto de Formación Profesional e Investigación Jurídi
 XVIII. Servicio Profesional: Al Servicio Profesional de Carrera de la Fiscalía General del Estado de Quintana Roo; y
 
 XIX. Órgano Interno de Control: Al Órgano Interno de Control de la Fiscalía General del Estado de Quintana Roo.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+XX. U.M.A.: Valor diario de la Unidad de Medida y Actualización que para tal efecto publique el Instituto Nacional de Estadística y Geografía cada año.
 
 ###### Artículo 6.
 
@@ -481,11 +485,21 @@ XXXI. Expedir el Reglamento Interior de la Fiscalía Especializada en Combate a 
 
 XXXII. Podrá crear comisiones especiales, de carácter temporal, que gozarán de autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos y delitos que debido a su contexto, a juicio del fiscal, amerite su creación, incluyendo aquellos sobre feminicidios, violencia sexual, violencia política contra las mujeres en razón de género, trata de personas, o que impliquen violaciones a derechos humanos, en especial de los pueblos y las comunidades indígenas, de las niñas, niños, adolescentes y personas migrantes.
 
-Las Comisiones Especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición. Serán integradas, de manera multidisciplinaria, por personas expertas de reconocida experiencia, tanto nacionales o internacionales en las materias que se requieran, organismos internacionales, organismos de la sociedad civil, universidades públicas y privadas y colectivos de víctimas, y
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+Las Comisiones Especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición. Serán integradas, de manera multidisciplinaria, por personas expertas de reconocida experiencia, tanto nacionales o internacionales en las materias que se requieran, organismos internacionales, organismos de la sociedad civil, universidades públicas y privadas y colectivos de víctimas;
 
-XXXIII. Las demás que le confieran el Reglamento Interior y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2021)</small>
+
+XXXIII. Instaurar y presidir el Comité de Supervisión de la Administración de los Bienes Asegurados, Abandonados y Decomisados, de acuerdo a la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+XXXIV. Fungir como integrante del Comité de Autorización de Escoltas para Servidores Públicos; así como concurrir a las sesiones del Comité de Autorización de Escoltas para ExServidores Públicos, de conformidad con lo dispuesto en la Ley aplicable, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2021)</small>
+
+XXXV. Las demás que le confieran el Reglamento Interior y las disposiciones legales aplicables.
 
 ###### Artículo 17.
 
@@ -515,7 +529,13 @@ b. Ejercer las facultades que le confiere la Ley por cuanto hace a la Conferenci
 
 c. Participar en los demás Órganos del Sistema Nacional y en el Consejo Estatal de Seguridad Pública;
 
-IX. Las demás, que con este carácter, le confieran otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2021)</small>
+
+IX. Podrá crear las unidades administrativas que resulten necesarias para la realización de las funciones en materia de procuración de justicia, así como las Fiscalías Especializadas para la investigación y persecución de ilícitos específicos que, por su trascendencia, interés y características sociales así lo ameriten, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2021)</small>
+
+X. Las demás, que con este carácter, le confieran otras disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -538,6 +558,10 @@ V. Informe sobre el ejercicio y la administración de los fondos que competan, i
 VI. La información relevante en cuanto a casos de especial trascendencia para la sociedad quintanarroense, señalando resultados obtenidos. Lo anterior será informado de manera que no cause perjuicio a las investigaciones o a las funciones del Ministerio Público, y
 
 VII. Las estadísticas de los programas desarrollados y demás datos que se considere (sic) convenientes, a fin de demostrar el adecuado ejercicio de las funciones de la Fiscalía General y del Fiscal General.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+Asimismo deberá comparecer ante la Comisión o Comisiones que correspondan, cuando se estudie, discuta o se investigue un negocio relativo a sus funciones, así como para realizar aportaciones en temas de interés y relevancia en el Estado.
 
 ###### Artículo 19.
 
@@ -679,9 +703,9 @@ XXI. Emitir guías y manuales técnicos, en conjunto con la Dirección General d
 
 XXII. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos de su competencia;
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-XXIII. ORDENAR EL ASEGURAMIENTO DE BIENES PROPIEDAD DEL IMPUTADO, ASÍ COMO DE AQUELLOS RESPECTO DE LOS CUALES SE CONDUZCAN COMO DUEÑOS, O DUEÑOS BENEFICIARIOS O BENEFICIARIO CONTROLADOR, CUYO VALOR EQUIVALGA AL PRODUCTO, LOS INSTRUMENTOS U OBJETOS DEL HECHO DELICTIVO CUANDO ÉSTOS HAYAN DESAPARECIDO O NO SE LOCALICEN POR CAUSA ATRIBUIBLE AL IMPUTADO;
+XXIII. Ejercer las facultades que, en materia de aseguramiento de bienes, se deriven del Código Nacional de Procedimientos Penales;
 
 XXIV. Solicitar a la Vice Fiscalía competente, la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquéllos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
 
@@ -805,9 +829,17 @@ IX. En Secuestros;
 
 X. En delitos en contra de la Libertad Sexual y el Libre Desarrollo de la Personalidad;
 
-XI. En delitos Electorales, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-XII. En delitos contra los Migrantes.
+XI. En delitos Electorales;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+XII. En delitos contra los Migrantes, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+XIII. En delito de Feminicidio.
 
 La Fiscalía Especializada en delitos de Trata de Personas, se encargará de la investigación y persecución de los delitos en materia de Trata de personas y para la protección y asistencia a las víctimas de estos delitos.
 
@@ -837,7 +869,9 @@ En materia de delitos contra la Mujer y por Razones de Género, la Fiscalía Esp
 
 a. Conocer de las denuncias y querellas que se presenten, por hechos que pudieran ser constitutivos de los delitos de su competencia de conformidad con el Código Penal y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-b. Recibir y atender toda denuncia o querella que tenga relación con hechos posiblemente constitutivos de los delitos de su especialidad como delitos contra las mujeres por razón de género, discriminación por razones de género, feminicidio y feminicidio en grado de tentativa, delitos de homicidio doloso cuando la víctima sea mujer, homicidio o lesiones contra la población lésbico-gay y bisexual.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+b. Recibir y atender toda denuncia o querella que tenga relación con hechos posiblemente constitutivos de los delitos de su especialidad como delitos contra las mujeres por razón de género, discriminación por razones de género, delitos de homicidio doloso cuando la víctima sea mujer, homicidio o lesiones contra la población lésbico-gay y bisexual.
 
 c. Dirigir la investigación de los delitos que conozca, practicando y ordenando para ello todas las diligencias que resulten necesarias para su comprobación y la identificación de quien lo cometió o participó en su comisión, en los términos del Código Penal y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y demás disposiciones legales aplicables;
 
@@ -866,6 +900,10 @@ m. Proteger la identidad de la víctima y la de su familia;
 n. Determinar la orden o medida de protección necesaria de acuerdo con los protocolos y legislación aplicables y canalizar a la víctima en forma inmediata para su atención médica psicológica y jurídica.
 
 Las Fiscalías Especializadas, conocerán de los asuntos que se establezcan en el Reglamento Interior, en la normatividad aplicable y la que establezca el Fiscal General.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+La Fiscalía Especializada para la Investigación y Persecución del Delito de Feminicidio, se encargará de la investigación y persecución de los hechos que la ley señala como delito de Feminicidio y su tentativa.
 
 ###### Artículo 28.
 
@@ -1029,9 +1067,9 @@ III. Practicar las diligencias necesarias para la integración de las carpetas d
 
 IV. Tratar con respeto y dignidad a todas las personas que comparezcan, quedando estrictamente prohibido cualquier acto discriminatorio, en razón de estado civil, procedencia étnica, idioma, ideología, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud, género, sexo, edad, condición social o económica, religión, orientación sexual, raza y cualquier otro que atente contra la dignidad humana y que anule o menoscabe los derechos y libertades de las personas, debiendo llevar a cabo su actuación de acuerdo con los principios de legalidad, certeza, honradez, lealtad, objetividad, imparcialidad, profesionalismo, transparencia, eficacia y eficiencia, que rigen en el Servicio Profesional, así como a tratarlas con calidad y calidez, y con el debido respeto a los derechos humanos;
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-V. ORDENAR EL ASEGURAMIENTO DE BIENES PROPIEDAD DEL IMPUTADO, ASÍ COMO DE AQUELLOS RESPECTO DE LOS CUALES SE CONDUZCAN COMO DUEÑOS, O DUEÑOS BENEFICIARIOS O BENEFICIARIO CONTROLADOR, CUYO VALOR EQUIVALGA AL PRODUCTO, LOS INSTRUMENTOS U OBJETOS DEL HECHO DELICTIVO CUANDO ÉSTOS HAYAN DESAPARECIDO O NO SE LOCALICEN POR CAUSA ATRIBUIBLE AL IMPUTADO;
+V. Ejercer las facultades que, en materia de aseguramiento de bienes, se deriven del Código Nacional de Procedimientos Penales;
 
 VI. Remitir al área correspondiente los expedientes necesarios para solicitar la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
 
@@ -1633,9 +1671,11 @@ X. Instruir a los Fiscales a su cargo, y al personal Ministerial adscrito, para 
 
 XI. Las demás que le confieran las disposiciones legales aplicables, el Reglamento Interior y las que les encomiende el Fiscal General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 61.
 
-Para el debido funcionamiento de las Vice Fiscalías y Direcciones Generales, tendrán adscritas Fiscalías, Direcciones, Órganos y Áreas administrativas que sean necesarias a juicio del Fiscal General y si la partida presupuestal lo permite.
+Para el debido funcionamiento de las Vice Fiscalías y Direcciones Generales, tendrán adscritas Fiscalías, Direcciones, Órganos y Áreas administrativas que sean necesarias a juicio del Fiscal General.
 
 El Reglamento Interior de la Fiscalía General, determinará la estructura, organización y atribuciones de las áreas que se indican en el párrafo anterior.
 
@@ -1901,9 +1941,9 @@ Las ausencias definitivas de las personas servidoras públicas, cuyo nombramient
 
 Los requisitos para ser Vice Fiscal son:
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Estar en pleno goce de sus derechos civiles y políticos;
 
@@ -1915,9 +1955,9 @@ V. Contar con título y cédula de Licenciatura en Derecho y tener por lo menos 
 
 VI. Acreditar cuando menos tres años de experiencia en la materia del cargo a desempeñar;
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-VII. No estar suspendido, NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO; NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA FEDERAL O LOCAL, en los términos de las normas aplicables;
+VII. No estar suspendido o inhabilitado por resolución firme como servidor público al momento de la designación;
 
 VIII. No haber sido condenado por delito doloso;
 
@@ -1931,9 +1971,9 @@ XI. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produ
 
 Los requisitos para ser Director General, Coordinador General o Titular de los Centros y de las Fiscalías Especializadas son:
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Estar en pleno goce de sus derechos civiles y políticos;
 
@@ -1943,9 +1983,9 @@ IV. Tener edad mínima de treinta años;
 
 V. Contar con título y cédula profesional relativos a la Licenciatura afín al área que estará a su cargo, con por lo menos tres años de ejercicio profesional;
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-VI. No estar suspendido, NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO; NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA FEDERAL O LOCAL, en los términos de las normas aplicables;
+VI. No estar suspendido o inhabilitado por resolución firme como servidor público al momento de la designación;
 
 VII. No haber sido condenado por delito doloso;
 
@@ -2033,9 +2073,9 @@ VI. Aprobar la evaluación del desempeño académico;
 
 VII. Ser de notoria buena conducta y no haber sido condenado por delito doloso;
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VIII DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-VIII. No estar suspendido NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO, NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA FEDERAL O LOCAL, en los términos de las normas aplicables;
+VIII. No estar suspendido o inhabilitado por resolución firme como servidor público durante el proceso de selección o designación;
 
 IX. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
 
@@ -2071,9 +2111,9 @@ Son requisitos para ser elemento de la Policía de Investigación perteneciente 
 
 A. De Ingreso:
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN I DEL APARTADO A DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO, en pleno ejercicio de sus derechos políticos y civiles, SIN TENER OTRA NACIONALIDAD;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Ser de notoria buena conducta y no haber sido condenado por delito doloso;
 
@@ -2093,9 +2133,9 @@ IX. No padecer alcoholismo;
 
 X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XI DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-XI. No estar suspendido o inhabilitado, NI HABER SIDO DESTITUIDO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO, NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA FEDERAL O LOCAL, en los términos de las normas aplicables;
+XI. No estar suspendido o inhabilitado por resolución firme como servidor público durante el proceso de selección o designación;
 
 XII. Cumplir con los deberes establecidos en la presente ley y demás disposiciones aplicables, y
 
@@ -2131,9 +2171,9 @@ Son requisitos para ser Perito perteneciente al Servicio Profesional de Carrera:
 
 A. De Ingreso:
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO y en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Acreditar que se ha concluido por lo menos los estudios correspondientes a la licenciatura;
 
@@ -2147,9 +2187,9 @@ VI. Presentar y aprobar el proceso de evaluación de control de confianza y de c
 
 VII. Ser de notoria buena conducta y no haber sido condenado por delito doloso;
 
-(NOTA: EL 21 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VIII DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-VIII. No estar suspendido, NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO, NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA FEDERAL O LOCAL, en los términos de las normas aplicables;
+VIII. No estar suspendido o inhabilitado por resolución firme como servidor público durante el proceso de selección o designación;
 
 IX. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
 
@@ -2603,9 +2643,47 @@ V. Rendimientos por servicios prestados, inversiones o su valuación;
 
 VI. Arrendamientos;
 
-VII. Extinción de dominio, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-VIII. Otros ingresos que dispongan los ordenamientos aplicables.
+VII. Extinción de dominio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2021)</small>
+
+VIII. Por los servicios que se enlistan a continuación se cobrará lo siguiente:
+
+1. Expedición de antecedentes registrales 2.44
+
+2. Copias autenticadas 1.73
+
+3. Acta certificada de extravío de documentos oficiales 10.00
+
+4. Examen de antidoping 6.00
+
+5. Por la expedición de copias simples de foja tamaño carta:
+
+a) Por la primer foja 0.178
+
+b) Por cada foja excedente 0.06
+
+6. Por la expedición de copias simples de foja tamaño oficio:
+
+a) Por la primer foja 0.24
+
+b) Por cada foja excedente 0.07
+
+7. Bases de licitación 35.51
+
+8. Por los servicios de profesionalización al sector externo:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE OCTUBRE DE 2021, PÁGINA 14.]</small>
+
+Para la prestación de servicios de profesionalización del sector externo, la Fiscalía General del Estado, en el ámbito de su competencia, podrá llevar a cabo la celebración de convenios de coordinación o de colaboración.
+
+Se exentará del pago de los servicios de profesionalización del sector externo a las Instituciones Públicas de Educación Superior del Estado de Quintana Roo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2021)</small>
+
+IX. Otros ingresos que dispongan los ordenamientos aplicables.
 
 ###### Artículo 117.
 
@@ -2774,3 +2852,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el caso de los asuntos que se encuentren en trámite y/o pendientes de resolución, seguirán sustanciándose en términos de la legislación aplicable al momento de su inicio.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 142 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 143 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 116, Y SE ADICIONAN LA FRACCIÓN XX AL ARTÍCULO 5 Y LA FRACCIÓN IX AL ARTÍCULO 116, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
