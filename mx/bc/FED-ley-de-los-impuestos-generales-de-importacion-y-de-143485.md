@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-143485"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-01"
-last_updated: "2021-07-16"
+last_updated: "2021-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -60439,5 +60439,9 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 22 DE FEBRERO DE 2021.
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]</small>
 
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 16 DE JULIO DE 2021.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 22 DE OCTUBRE DE 2021.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]</small>
