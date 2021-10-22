@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-bibliotecas-del-estado-de-quintana-roo-78126"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-13"
-last_updated: "2021-07-16"
+last_updated: "2021-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE BIBLIOTECAS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE BIBLIOTECAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 13 de diciembre de 2010.
 
@@ -69,7 +71,9 @@ VIII.- La elaboración y publicación de la bibliografía estatal.
 
 Para los efectos de la presente Ley, se entiende por:
 
-I.- Acervo: Es la recopilación y clasificación de un conjunto de colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales y, en general, cualquier otro medio que contenga información afín.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+I.- Acervo: Es la recopilación y clasificación de un conjunto de colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales, digitales y, en general, cualquier otro medio que contenga información afín.
 
 II.- Bebeteca: Espacio destinado al acervo e instalaciones adecuadas para menores de 0 a 6 años de edad y sus padres.
 
@@ -108,6 +112,10 @@ XIV.- Usuario: Persona beneficiaria de los servicios de la biblioteca
 ###### Artículo 3.
 
 Las bibliotecas públicas tendrán como finalidad, ofrecer los servicios de consulta de libros y otros servicios culturales complementarios que permitan a la población adquirir, transmitir, acrecentar y conservar en forma libre el conocimiento en todas las ramas del saber. Asimismo, brindar acceso al conocimiento, a la información y al trabajo intelectual, a través de una serie de recursos y servicios a disposición de todos los miembros de la comunidad en igualdad de condiciones, sin distinciones de raza, nacionalidad, edad, sexo, religión, idioma, discapacidad, condición económica y laboral y nivel de escolaridad.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+El Estado y los Municipios diseñarán programas permanentes que fomenten el hábito de la lectura entre la población, incluyendo material bibliográfico en lengua maya.
 
 ###### Artículo 4.
 
@@ -216,6 +224,10 @@ III. Participar en la operación de la Red Estatal;
 IV. Reparar los acervos impresos y digitales dañados;
 
 V. Asegurar de modo integral y conservar en buen estado las instalaciones, el equipo y acervo bibliográfico;
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+Todo el acervo que contenga información que se refiera a la historia y cultura del Estado y los Municipios y, de manera general la información que sea única, invariablemente será resguardada en medios electrónicos y digitales que deberán ser actualizados conforme al avance que a su vez tenga la tecnología.
 
 VI. Nombrar, adscribir y remunerar al personal destinado a la operación de sus bibliotecas públicas;
 
@@ -526,3 +538,13 @@ La Secretaria de Finanzas y Planeación, deberá presentar un informe a la Legis
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 22 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 146 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2, Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 3 Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN V DEL ARTÍCULO 16, TODOS DE LA LEY DE BIBLIOTECAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de enero del año dos mil veintidós.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado deberá considerar una partida para el cumplimiento del presente Decreto en el Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal 2022.
