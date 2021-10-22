@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-109860
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-18"
-last_updated: "2021-10-08"
+last_updated: "2021-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, PREVENCIÓN Y MITIGACIÓN DE DESASTRES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
 
 Ley Publicada en el Sumario del Periódico Oficial del Estado de Querétaro el viernes 18 de septiembre de 2015.
 
@@ -1583,7 +1581,9 @@ I. La participación individual y colectiva de la población en los programas en
 
 II. La coordinación con el Sistema Educativo Estatal, para su fomento y la incorporación de contenidos temáticos de protección civil en los planes de estudios de los diversos niveles educativos;
 
-III. La inclusión de la materia de primeros auxilios y prevención de accidentes en todos los niveles educativos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+III. La inclusión de programas y talleres en materia de primeros auxilios y prevención de accidentes en todos los niveles educativos;
 
 IV. La promoción del desarrollo de investigaciones y estudios académicos para la formación de especialistas en nivel superior, acerca de las temáticas de protección civil;
 
@@ -2115,8 +2115,6 @@ Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, p
 
 Los recursos humanos, materiales y financieros con que cuenta la Coordinación de Atención Ciudadana de la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
 
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2021)</small>
-
 Los trabajadores de Coordinación de Atención Ciudadana de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
 
 ###### ARTÍCULO DÉCIMO CUARTO.
@@ -2140,3 +2138,11 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 22 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 114, FRACCIÓN III, DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, PREVENCIÓN Y MITIGACIÓN DE DESASTRES PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
