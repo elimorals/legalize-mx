@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2021-05-21"
+last_updated: "2021-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE OCTUBRE DE 2021.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1095,9 +1095,17 @@ IV. El Centro Especializado en la Aplicación de Medidas para Adolescentes, que 
 
 V. El Instituto de Desarrollo Regional y Municipal, que deberá coordinarse con la Subsecretaría de Gobierno y Desarrollo Político;
 
-VI. La Representación del Gobierno del Estado de Yucatán en la Ciudad de México, que deberá coordinarse con el Secretario General de Gobierno, y
+> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
 
-VII. La Junta Local de Conciliación y Arbitraje.
+VI. La Representación del Gobierno del Estado de Yucatán en la Ciudad de México, que deberá coordinarse con el Secretario General de Gobierno;
+
+> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+VII. La Junta Local de Conciliación y Arbitraje, y
+
+> <small>(ADICIONADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+VIII. El Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -1250,6 +1258,30 @@ El Centro Especializado en la Aplicación de Medidas para Adolescentes tendrá l
 ###### Artículo 44 Bis.
 
 (DEROGADO, D.O. 20 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 44 Ter.
+
+El Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género tendrá las atribuciones que le confieren la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 44 Quater.
+
+Al Titular del Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género le corresponde el despacho de los siguientes asuntos:
+
+I. Representar al Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género, para los efectos legales que correspondan, y coordinar su funcionamiento;
+
+II. Coordinar el desarrollo de las acciones necesarias para el cumplimiento del objeto del Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género, en términos del artículo 62 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán;
+
+III. Coordinar la adecuada prestación de los servicios especializados a que se refiere el artículo 66 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán;
+
+IV. Coordinar las actividades de la Red Interinstitucional de Atención a Hombres que Ejercen Violencia de Género;
+
+V. Diseñar e implementar programas, acciones, metodologías y modelos de reeducación con perspectiva de género dirigidos a hombres que ejercen violencia contra las mujeres, y
+
+VI. Promover la celebración de convenios de colaboración con instituciones de los sectores público, privado y social en materias afines al objeto del Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género.
 
 ###### Artículo 45.
 
@@ -1845,13 +1877,19 @@ XXII. Administrar los recursos financieros de la Administración Pública Centra
 
 XXIII. Formular y proponer al Secretario, los lineamientos que deberán observar las dependencias y entidades en la inversión de recursos líquidos disponibles, de conformidad con la legislación aplicable;
 
-XXIV. Dictaminar y proponer el otorgamiento de aval del Estado, así como afectar las participaciones, para garantizar el cumplimiento de las obligaciones contraídas por la Administración Pública del Estado, los ayuntamientos y entidades paramunicipales, de conformidad a la legislación de la materia, y
+> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+XXIV. Dictaminar y proponer el otorgamiento de aval del estado, así como afectar las participaciones para garantizar el cumplimiento de las obligaciones contraídas por la Administración Pública del Estado, los ayuntamientos y entidades paramunicipales, de conformidad con la legislación de la materia;
 
-XXV. Colaborar con la Secretaría Técnica de Planeación y Evaluación en la gestión de recursos financieros provenientes de la federación o de instituciones de los sectores privado o social, y
+> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
 
-XXVI. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento y otras disposiciones legales aplicables.
+XXV. Colaborar con la Secretaría Técnica de Planeación y Evaluación en la gestión de recursos financieros provenientes de la federación o de instituciones de los sectores privado o social;
+
+> <small>(ADICIONADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+XXVI. Coordinar el manejo del padrón de proveedores de bienes y servicios del Poder Ejecutivo, de conformidad con las disposiciones legales y normativas aplicables, y
+
+XXVII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE JULIO DE 2017)</small>
 
@@ -1949,11 +1987,15 @@ XVII. Gestionar los contratos y convenios financieros en el ámbito de su compet
 
 XVIII. Coordinar, en el ámbito de su competencia, a las dependencias, entidades y organismos autónomos del estado, ejecutores de recursos federales para que den cumplimiento de las obligaciones en materia de rendición de cuentas e información del ejercicio y resultados de los recursos federales transferidos al estado de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
-> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
 
-XIX. Elaborar y someter a la aprobación del Secretario, el procedimiento y los lineamientos para la administración, aplicación y control del gasto público, y
+XIX. Elaborar y someter a la aprobación del Secretario el procedimiento y los lineamientos para la administración, aplicación y control del gasto público;
 
-XX. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+XX. Administrar, actualizar y difundir el padrón de proveedores de bienes y servicios del Poder Ejecutivo, de conformidad con las disposiciones legales y normativas aplicables, y
+
+XXI. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2299,7 +2341,7 @@ III. Dar seguimiento al adecuado funcionamiento, mantenimiento y actualización 
 
 IV. Vigilar la adecuada capacitación y asesoría a las Dependencias y Entidades de la Administración Pública del estado sobre el funcionamiento del sistema de compras;
 
-V. Coordinar el manejo del padrón de proveedores de bienes y servicios del Poder Ejecutivo, de conformidad con las disposiciones legales y normativas aplicables;
+V. (DEROGADA, D.O. 22 DE OCTUBRE DE 2021)
 
 VI. Coadyuvar en los procesos de contratación que celebren en materia de adquisición, arrendamiento de bienes muebles y prestación de servicios las Dependencias y Entidades de la Administración Pública del estado, de conformidad (sic) las disposiciones legales y normativas aplicables;
 
@@ -2319,7 +2361,7 @@ II. Dar seguimiento al adecuado funcionamiento del sistema de compras que utiliz
 
 III. Proporcionar asesoría y capacitación a las Dependencias y Entidades de la Administración Pública del estado sobre el funcionamiento del sistema de compras;
 
-IV. Administrar, actualizar y difundir el padrón de proveedores de bienes y servicios del Poder Ejecutivo, de conformidad con las disposiciones legales y normativas aplicables, y
+IV. (DEROGADA, D.O. 22 DE OCTUBRE DE 2021)
 
 V. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría de Administración y Finanzas, este Reglamento, y otras disposiciones legales aplicables.
 
@@ -13225,31 +13267,33 @@ El Director Jurídico tendrá las facultades y obligaciones contenidas en el art
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de las Mujeres
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, D.O. 22 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 596.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría de las Mujeres contará con la siguiente estructura:
 
-I. Subsecretaría para el Acceso a los Derechos de las Mujeres:
+I. Subsecretaría para el Acceso a los Derechos de las Mujeres.
 
-a) Dirección de Políticas Interculturales para Atención y Prevención de Violencia en Municipios, y
+a) Dirección de Atención a la Violencia en Municipios.
 
-b) Dirección de Autonomía y Empoderamiento de las Mujeres.
+b) Dirección de Prevención.
 
-II. Subsecretaría de Planeación:
+II. Subsecretaría de Planeación.
 
-a) Dirección de Planeación con Enfoque de Género; y
+a) Dirección de Planeación con Enfoque de Género.
 
 b) Dirección de Políticas para la Igualdad entre Mujeres y Hombres.
 
-III. Dirección de Seguimiento a la Alerta de Género;
+III. Dirección General de Gobierno y Políticas Públicas.
 
-IV. Dirección de Difusión para la Igualdad y una Vida Libre de Violencia;
+a) Dirección de Difusión para la Igualdad y una Vida Libre de Violencia.
 
-V. Dirección de Administración y Finanzas, y
+b) Dirección de Autonomía y Empoderamiento de las Mujeres.
 
-VI. Dirección de Asuntos Jurídicos.
+c) Dirección de Asuntos Jurídicos.
+
+IV. Dirección de Administración y Finanzas.
 
 > <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -13277,251 +13321,379 @@ IX. Procurar la implementación de estrategias para el cumplimiento y seguimient
 
 X. Las demás que establezcan las disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 598.
 
-El Subsecretario para el Acceso a los Derechos de las Mujeres tendrá las siguientes facultades y obligaciones:
+La persona titular de la Subsecretaría para el Acceso a los Derechos de las Mujeres tendrá las siguientes facultades y obligaciones:
 
-I. Generar los mecanismos que impulsen el desarrollo integral y ejercicio pleno de los derechos humanos de las mujeres;
+> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+I. Promover la creación de centros de atención a la violencia contra las mujeres, con pleno respeto a la autonomía y las facultades de los municipios;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
 
 II. Promover en los ayuntamientos la creación y correcta operación de las instancias de las mujeres, en términos de lo dispuesto por la Ley de Gobierno de los Municipios del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
 III. Proponer a la Secretaria las políticas públicas, programas, estrategias y acciones con enfoque intercultural y perspectiva de género que garanticen a las mujeres el acceso a sus derechos;
 
-IV. Colaborar con las asociaciones, organizaciones académicas y de la sociedad civil para llevar a cabo estrategias y mecanismos para que las mujeres accedan a sus derechos;
+> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+IV. Promover la participación de las personas jóvenes en las acciones que se implementen en materia de prevención del embarazo en adolescentes;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
 
 V. Promover con diferentes actores sociales el intercambio de experiencias en la ejecución de políticas públicas, estrategias y acciones dirigidas a que las mujeres accedan a sus derechos;
 
-VI. Proponer políticas públicas que promuevan el desarrollo, autonomía y empoderamiento de las mujeres en el estado, y
+VI. (DEROGADA, D.O. 22 DE OCTUBRE DE 2021)
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
 
 VII. Las demás que establezcan las disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, D.O. 22 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 599.
 
-El Director de Políticas Interculturales para Atención y Prevención de Violencia en Municipios tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Atención a la Violencia en Municipios tendrá las siguientes facultades y obligaciones:
 
-I. Colaborar con los ayuntamientos, en un marco de respeto a su autonomía, en el diseño y aplicación de las políticas para el debido cumplimiento de las obligaciones en materia de igualdad entre mujeres y hombres; y de violencia de género;
+I. Colaborar con los ayuntamientos, en un marco de respeto a su autonomía, en el diseño y la aplicación de las políticas para el debido cumplimiento de las obligaciones en materia de violencia de género;
 
-II. Promover en los municipios la creación de políticas públicas para la atención y prevención de la violencia contra las mujeres;
+II. Promover en los municipios la creación de políticas públicas para la atención de la violencia contra las mujeres;
 
-III. Apoyar a los ayuntamientos, cuando estos así lo soliciten, para incorporar la perspectiva de género en el diseño e implementación de sus planes de desarrollo y programas;
+III. Apoyar a los ayuntamientos, cuando estos así lo soliciten, para incorporar la perspectiva de género en el diseño e implementación de sus planes de desarrollo y programas en materia de atención a la violencia contra las mujeres;
 
-IV. Promover en los municipios la incorporación de modelos para la atención y prevención de la violencia contra las mujeres, incorporando los aspectos propios de identidad cultural;
+IV. Promover en los municipios la incorporación de modelos para la atención de la violencia contra las mujeres, incorporando los aspectos propios de identidad cultural;
 
-V. Promover alianzas y vínculos entre los ayuntamientos y las instituciones públicas, organizaciones civiles, sectores educativos y académicos para llevar a cabo estrategias y mecanismos para la atención y prevención de la violencia contra las mujeres;
+V. Promover alianzas y vínculos entre los ayuntamientos y las instituciones públicas, organizaciones civiles y sectores educativos y académicos, para llevar a cabo estrategias y mecanismos para la atención de la violencia contra las mujeres;
 
-VI. Promover en los municipios estrategias para el seguimiento de los casos de violencia ejercidos contra las mujeres, y
+VI. Promover en los municipios estrategias para el seguimiento de los casos de violencia contra las mujeres, y
 
 VII. Las demás que establezcan las disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, D.O. 22 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 600.
 
-El Director de Autonomía y Empoderamiento de las Mujeres tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Prevención tendrá las siguientes facultades y obligaciones:
+
+I. Promover la implementación de acciones que favorezcan cambios culturales sobre las creencias, estereotipos y conductas que naturalizan prácticas de discriminación y violencia contra las mujeres, incorporando las perspectivas de género, educación para la paz, derechos humanos, interculturalidad y habilidades para la vida;
+
+II. Fomentar la participación comunitaria en la construcción de una cultura de la denuncia social sobre actos que atenten contra los derechos humanos, dignidad e integridad de las mujeres;
+
+III. Promover los mecanismos de acceso disponibles para el ejercicio de los derechos humanos de las mujeres, con énfasis en el derecho a una vida libre de violencia y la no discriminación;
+
+IV. Impulsar acciones que faciliten la detección de los tipos y las modalidades de la violencia contra las mujeres; que fomenten la corresponsabilidad en el hogar, en el cuidado de otras personas y en las relaciones afectivas; y que favorezcan la construcción de comunidades seguras e incluyentes para las mujeres en su diversidad;
+
+V. Establecer alianzas y vínculos con ayuntamientos, instituciones públicas y privadas, organizaciones civiles, así como sectores educativos y académicos, para implementar estrategias y mecanismos que favorezcan la construcción de una cultura de paz, la prevención de la violencia contra las mujeres y la prevención del embarazo en adolescentes;
+
+VI. Propiciar en los municipios la implementación de políticas públicas, estrategias y acciones en materia de construcción de cultura de paz, prevención de la violencia contra las mujeres y prevención del embarazo en adolescentes, incorporando las perspectivas de género, derechos humanos, interculturalidad y habilidades para la vida, y
+
+VII. Las demás que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 601.
+
+La persona titular de la Subsecretaría de Planeación tendrá las siguientes facultades y obligaciones:
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+I. Promover y fortalecer los mecanismos para la transversalidad e institucionalización de la perspectiva de género;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+II. Sistematizar y dar seguimiento a los programas presupuestarios de la secretaría;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+III. Coordinar y supervisar el diseño, operación y evaluación de los sistemas institucionales de información en materia de violencia y género;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+IV. Generar y concentrar la información para los trabajos en materia de los consejos, sistemas y comités institucionales relacionados a los temas de igualdad entre mujeres y hombres así como de prevención, atención, sanción y erradicación de la violencia contra las mujeres, en los que participe la Secretaría;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+V. Evaluar de manera periódica los informes de ejecución relativos a los asuntos en materia de igualdad de género, prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VI. Apoyar a la Secretaria en la generación de información y presentación de propuestas que resulten pertinentes para que el presupuesto de egresos del estado, cuente con perspectiva de género;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VII. Coordinar, proponer y difundir la generación de análisis, diagnósticos e investigaciones con perspectiva de género en materia de igualdad entre mujeres y hombres y de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VIII. Planear, coordinar, supervisar y evaluar, en conjunto con las unidades administrativas, la estrategia integral, relacionada con la capacitación y sensibilización en materia de género, violencia, derechos humanos e interculturalidad;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+IX. Proponer, diseñar e implementar conjuntamente con las Dependencias y Entidades estatales, acciones coordinadas dirigidas a mejorar la condición social de las mujeres, así como aquellas diseñadas para la erradicación de todas las formas de discriminación y violencia contra las mujeres, y
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+X. Las demás que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 602.
+
+La persona titular de la Dirección de Planeación con Enfoque de Género tendrá las siguientes facultades y obligaciones:
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+I. Consolidar conjuntamente con las instancias competentes, la implementación de un sistema de información y estadística que genere indicadores para el diseño, seguimiento y evaluación de las condiciones sociales, políticas, económicas, laborales, civiles, familiares y culturales de las mujeres en los distintos ámbitos de la sociedad;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+II. Coordinar y supervisar el diseño, implementación, operación, georreferenciación y evaluación de los sistemas de información en materia de género, violencia y derechos de las mujeres en el estado;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+III. Sistematizar y resguardar la información que sea entregada por los centros municipales de atención a la violencia contra las mujeres, en los centros de desarrollo para las mujeres y otras instancias públicas que realicen funciones importantes para la implementación de políticas de género;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+IV. Diseñar y promover políticas públicas con perspectiva de género y enfoque de derechos humanos, que contribuyan a la eliminación de las diversas formas de discriminación y violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+V. Elaborar proyectos sobre metodologías, protocolos de actuación y evaluación de sus programas con las instancias públicas involucradas en la atención a la violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VI. Proponer estrategias para la incorporación de la perspectiva de género en la evaluación de los programas de las Dependencias y Entidades de la Administración Pública estatal;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VII. Aumentar el acervo y promover la calidad de las investigaciones, diagnósticos e informaciones bibliográficas, en materia de género y de prevención, atención, sanción y erradicación de la violencia contra las mujeres dentro del Centro de Información, Documentación y Estudios Especializados sobre la Mujer y Relaciones de Género ¨Felipa Poot¨;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VIII. Realizar y coordinar investigaciones, diagnósticos y análisis con perspectiva de género en materia de igualdad entre mujeres y hombres así como de prevención, atención, sanción y erradicación de la violencia contras las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+IX. Establecer vínculos con instituciones públicas, académicas y asociaciones civiles para la realización de investigaciones y generación de conocimiento que contribuyan al diseño y seguimiento de programas y acciones dirigidas a mejorar las condiciones sociales, políticas, económicas y culturales de las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+X. Planear, verificar e integrar los informes de los proyectos desarrollados por la secretaría con subsidios federales e internacionales;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+XI. Desarrollar proyectos con perspectiva de género, enfoque de derechos humanos e interculturalidad ante instancias públicas, organismos gubernamentales y no gubernamentales nacionales e internacionales con el propósito de buscar financiamientos para su implementación;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+XII. Coadyuvar en la gestión de los acuerdos de colaboración, convenios de concertación, cooperación y coordinación con organismos gubernamentales, no gubernamentales, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres en materia de igualdad y violencia;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+XIII. Coordinar los procesos de evaluación interna y externa a los programas de la secretaría y dar seguimiento a los aspectos susceptibles de mejora que de ellas se desprendan;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+XIV. Consolidar toda la información de las áreas que integran la Secretaría para la elaboración de los informes anuales de gobierno y los informes de gestión;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+XV. Brindar asesoría constante en la generación e integración de los informes mensuales de las direcciones, en relación a las acciones emprendidas y resultados obtenidos, de acuerdo con los objetivos establecidos en el plan estatal de desarrollo;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+XVI. Mantener actualizada y resguardar la base de datos estadísticos de cada área, y
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+XVII. Las demás que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 603.
+
+La persona titular de la Dirección de Políticas para la Igualdad entre Mujeres y Hombres tendrá las siguientes facultades y obligaciones:
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+I. Promover las estrategias, contenidos y mecanismos de capacitación y formación al personal del servicio público para integrar la perspectiva de género y de derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+II. Generar proyectos de políticas públicas y programas para apoyar al subsecretario de Planeación en la promoción y fortalecimiento de la institucionalización de la perspectiva de género;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+III. Diseñar y promover programas permanentes de formación, para la profesionalización con perspectiva de género así como la certificación de competencias del servicio público;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+IV. Promover la incorporación de políticas de igualdad de género, igualdad laboral y no discriminación en el sector público, privado y social;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+V. Promover acciones afirmativas para impulsar la participación política de las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VI. Instrumentar y gestionar la contención emocional del personal que atiende casos de violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VII. Dar seguimiento a los temas relevantes en materia de igualdad de género que se generen en el ámbito nacional e internacional, así como participar, de acuerdo con el marco jurídico aplicable, en su construcción;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VIII. Realizar propuestas de estrategias para el cumplimiento y seguimiento de los tratados internacionales en materia de igualdad entre mujeres y hombres, equidad de género y prevención de la violencia contra las mujeres de los que el Estado mexicano forme parte;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+IX. Diseñar o colaborar con el diseño de las políticas interinstitucionales que se fueran a generar o replicar, con base en las relaciones interinstitucionales de la Secretaría con los poderes Legislativo y Judicial del estado, así como con los organismos constitucionales autónomos, y
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+X. Las demás que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 604.
+
+La persona titular de la Dirección General de Gobierno y Políticas Públicas tendrá las siguientes facultades y obligaciones:
+
+I. Generar los mecanismos que impulsen el desarrollo integral y ejercicio pleno de los derechos humanos de las mujeres;
+
+II. Colaborar con las asociaciones, organizaciones académicas y organizaciones de la sociedad civil que formen parte de órganos colegiados en la promoción de estrategias y mecanismos para que las mujeres accedan a sus derechos;
+
+III. Promover y orientar, en coordinación con otras autoridades, las políticas públicas en materia de derechos de las mujeres;
+
+IV. Realizar acciones de gobierno para la implementación de estrategias que consoliden las políticas públicas a favor de las mujeres en el estado, en su caso, de manera coordinada con otras instancias de las mujeres estatales o municipales;
+
+V. Dar seguimiento a las evaluaciones de los programas de la Secretaría de las Mujeres;
+
+VI. Establecer vínculos con instituciones académicas, privadas o de la sociedad civil para llevar a cabo acciones de capacitación;
+
+VII. Proponer políticas públicas que promuevan el desarrollo, autonomía y empoderamiento de las mujeres en el estado;
+
+VIII. Promover la creación de centros de desarrollo de las mujeres, con pleno respeto a la autonomía y las atribuciones de los municipios;
+
+IX. Asesorar en materia de coordinación política a favor de las mujeres a las dependencias y entidades que conformen los órganos de gobierno en los que intervenga la Secretaría de las Mujeres; y
+
+X. Las demás que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 605.
+
+La persona titular de la Dirección de Difusión para la Igualdad y una Vida Libre de Violencia tendrá las siguientes facultades y obligaciones:
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+I. Fomentar estrategias e instrumentos de difusión para una educación y cultura con perspectiva de género, enfoque de derechos humanos e interculturalidad;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+II. Elaborar campañas de amplio alcance y pertinencia lingüística, para potencializar el acceso de las mujeres a sus derechos, así como la prevención de una vida libre de violencia;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+III. Establecer estrategias de comunicación derivadas de los informes que se deriven de los procedimientos realizados en el estado, con motivo de la declaratoria de la alerta de la violencia de género, incluyendo en sus estados preventivos o preliminares;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+IV. Implementar estrategias de difusión para fortalecer los programas de igualdad entre mujeres y hombres y de acceso a una vida libre de violencia, incluyendo los de agrupaciones civiles, no gubernamentales;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+V. Realizar permanentemente campañas sobre estrategias de seguridad para las mujeres y los mecanismos de atención con los que cuentan, para prevenir los feminicidios y cualquier tipo de violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VI. Implementar mecanismos electrónicos de difusión para que las mujeres puedan acceder eficazmente a los protocolos, modelos de atención y prevención, manuales, investigaciones y servicios especializados de atención a la violencia contra las mujeres, y
+
+> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+
+VII. Las demás que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 605 Bis.
+
+La persona titular de la Dirección de Autonomía y Empoderamiento de las Mujeres tendrá las siguientes facultades y obligaciones:
 
 I. Diseñar políticas públicas para promover la participación, el liderazgo y el desarrollo económico de las mujeres en el estado;
 
-II. Promover alianzas y vínculos con empresas, instituciones públicas, organizaciones civiles, sectores educativos y académicos para favorecer la autonomía y empoderamiento de las mujeres en los ámbitos social, económico, político y comunitario;
+II. Promover alianzas y vínculos con empresas, instituciones públicas, organizaciones civiles, así como sectores educativos y académicos, para favorecer la autonomía y el empoderamiento de las mujeres en los ámbitos social, económico, político y comunitario;
 
 III. Promover la asistencia técnica y capacitación para fortalecer el desarrollo, la autonomía y el empoderamiento de las mujeres, tanto en el ámbito público como en el privado;
 
 IV. Impulsar acciones con enfoque intercultural para reducir la brecha de desigualdad de las mujeres indígenas del estado;
 
-V. Generar oportunidades de participación en actividades productivas y económicas, a través del desarrollo de capacidades, formación profesional y rescate de saberes de las mujeres con mayor grado de marginación del estado;
+V. Generar oportunidades de participación en actividades productivas y económicas a favor de las mujeres, a través del desarrollo de capacidades, formación profesional y rescate de saberes de las mujeres con mayor grado de marginación en el estado;
 
 VI. Promover el establecimiento de medidas y políticas públicas que contribuyan a la generación de un balance entre la vida laboral, personal y familiar de las mujeres en el estado, y
 
 VII. Las demás que establezcan las disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 601.
-
-El Subsecretario de Planeación tendrá las siguientes facultades y obligaciones:
-
-I. Promover y fortalecer los mecanismos para la transversalidad e institucionalización de la perspectiva de género;
-
-II. Sistematizar y dar seguimiento a los programas presupuestarios de la secretaría;
-
-III. Coordinar y supervisar el diseño, operación y evaluación de los sistemas institucionales de información en materia de violencia y género;
-
-IV. Generar y concentrar la información para los trabajos en materia de los consejos, sistemas y comités institucionales relacionados a los temas de igualdad entre mujeres y hombres así como de prevención, atención, sanción y erradicación de la violencia contra las mujeres, en los que participe la Secretaría;
-
-V. Evaluar de manera periódica los informes de ejecución relativos a los asuntos en materia de igualdad de género, prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VI. Apoyar a la Secretaria en la generación de información y presentación de propuestas que resulten pertinentes para que el presupuesto de egresos del estado, cuente con perspectiva de género;
-
-VII. Coordinar, proponer y difundir la generación de análisis, diagnósticos e investigaciones con perspectiva de género en materia de igualdad entre mujeres y hombres y de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VIII. Planear, coordinar, supervisar y evaluar, en conjunto con las unidades administrativas, la estrategia integral, relacionada con la capacitación y sensibilización en materia de género, violencia, derechos humanos e interculturalidad;
-
-IX. Proponer, diseñar e implementar conjuntamente con las Dependencias y Entidades estatales, acciones coordinadas dirigidas a mejorar la condición social de las mujeres, así como aquellas diseñadas para la erradicación de todas las formas de discriminación y violencia contra las mujeres, y
-
-X. Las demás que establezcan las disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 602.
-
-El Director de Planeación con Enfoque de Género tendrá las siguientes facultades y obligaciones:
-
-I. Consolidar conjuntamente con las instancias competentes, la implementación de un sistema de información y estadística que genere indicadores para el diseño, seguimiento y evaluación de las condiciones sociales, políticas, económicas, laborales, civiles, familiares y culturales de las mujeres en los distintos ámbitos de la sociedad;
-
-II. Coordinar y supervisar el diseño, implementación, operación, georreferenciación y evaluación de los sistemas de información en materia de género, violencia y derechos de las mujeres en el estado;
-
-III. Sistematizar y resguardar la información que sea entregada por los centros municipales de atención a la violencia contra las mujeres, en los centros de desarrollo para las mujeres y otras instancias públicas que realicen funciones importantes para la implementación de políticas de género;
-
-IV. Diseñar y promover políticas públicas con perspectiva de género y enfoque de derechos humanos, que contribuyan a la eliminación de las diversas formas de discriminación y violencia contra las mujeres;
-
-V. Elaborar proyectos sobre metodologías, protocolos de actuación y evaluación de sus programas con las instancias públicas involucradas en la atención a la violencia contra las mujeres;
-
-VI. Proponer estrategias para la incorporación de la perspectiva de género en la evaluación de los programas de las Dependencias y Entidades de la Administración Pública estatal;
-
-VII. Aumentar el acervo y promover la calidad de las investigaciones, diagnósticos e informaciones bibliográficas, en materia de género y de prevención, atención, sanción y erradicación de la violencia contra las mujeres dentro del Centro de Información, Documentación y Estudios Especializados sobre la Mujer y Relaciones de Género ¨Felipa Poot¨;
-
-VIII. Realizar y coordinar investigaciones, diagnósticos y análisis con perspectiva de género en materia de igualdad entre mujeres y hombres así como de prevención, atención, sanción y erradicación de la violencia contras las mujeres;
-
-IX. Establecer vínculos con instituciones públicas, académicas y asociaciones civiles para la realización de investigaciones y generación de conocimiento que contribuyan al diseño y seguimiento de programas y acciones dirigidas a mejorar las condiciones sociales, políticas, económicas y culturales de las mujeres;
-
-X. Planear, verificar e integrar los informes de los proyectos desarrollados por la secretaría con subsidios federales e internacionales;
-
-XI. Desarrollar proyectos con perspectiva de género, enfoque de derechos humanos e interculturalidad ante instancias públicas, organismos gubernamentales y no gubernamentales nacionales e internacionales con el propósito de buscar financiamientos para su implementación;
-
-XII. Coadyuvar en la gestión de los acuerdos de colaboración, convenios de concertación, cooperación y coordinación con organismos gubernamentales, no gubernamentales, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres en materia de igualdad y violencia;
-
-XIII. Coordinar los procesos de evaluación interna y externa a los programas de la secretaría y dar seguimiento a los aspectos susceptibles de mejora que de ellas se desprendan;
-
-XIV. Consolidar toda la información de las áreas que integran la Secretaría para la elaboración de los informes anuales de gobierno y los informes de gestión;
-
-XV. Brindar asesoría constante en la generación e integración de los informes mensuales de las direcciones, en relación a las acciones emprendidas y resultados obtenidos, de acuerdo con los objetivos establecidos en el plan estatal de desarrollo;
-
-XVI. Mantener actualizada y resguardar la base de datos estadísticos de cada área, y
-
-XVII. Las demás que establezcan las disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 603.
-
-El Director de Políticas para la Igualdad entre Mujeres y Hombres tendrá las siguientes facultades y obligaciones:
-
-I. Promover las estrategias, contenidos y mecanismos de capacitación y formación al personal del servicio público para integrar la perspectiva de género y de derechos humanos de las mujeres;
-
-II. Generar proyectos de políticas públicas y programas para apoyar al subsecretario de Planeación en la promoción y fortalecimiento de la institucionalización de la perspectiva de género;
-
-III. Diseñar y promover programas permanentes de formación, para la profesionalización con perspectiva de género así como la certificación de competencias del servicio público;
-
-IV. Promover la incorporación de políticas de igualdad de género, igualdad laboral y no discriminación en el sector público, privado y social;
-
-V. Promover acciones afirmativas para impulsar la participación política de las mujeres;
-
-VI. Instrumentar y gestionar la contención emocional del personal que atiende casos de violencia contra las mujeres;
-
-VII. Dar seguimiento a los temas relevantes en materia de igualdad de género que se generen en el ámbito nacional e internacional, así como participar, de acuerdo con el marco jurídico aplicable, en su construcción;
-
-VIII. Realizar propuestas de estrategias para el cumplimiento y seguimiento de los tratados internacionales en materia de igualdad entre mujeres y hombres, equidad de género y prevención de la violencia contra las mujeres de los que el Estado mexicano forme parte;
-
-IX. Diseñar o colaborar con el diseño de las políticas interinstitucionales que se fueran a generar o replicar, con base en las relaciones interinstitucionales de la Secretaría con los poderes Legislativo y Judicial del estado, así como con los organismos constitucionales autónomos, y
-
-X. Las demás que establezcan las disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 604.
-
-El Director de Seguimiento a la Alerta de Género tendrá las siguientes facultades y obligaciones:
-
-I. Dar seguimiento a las políticas, programas, acciones y demás productos que se generen a partir de los procedimientos realizados en el estado con motivo de la declaratoria de la alerta de la violencia de género, incluyendo en sus estados preventivos o preliminares;
-
-II. Coordinar y vincular acciones con la comisión de seguimiento de la declaratoria de la alerta de violencia de género contra las mujeres en Yucatán;
-
-III. Monitorear y coadyuvar a la implementación de las acciones derivadas de los informes y conclusiones de los grupos de trabajo, así como de las recomendaciones realizadas por la comisión de seguimiento, con relación a la alerta de violencia de género contra las mujeres en el estado;
-
-IV. Realizar análisis de las acciones implementadas, a fin de emitir informes derivadas (sic) de las conclusiones formuladas por los grupos de trabajo conformados en relación a la alerta de violencia de género contra las mujeres en el estado;
-
-V. Emitir recomendaciones a través de la comisión de seguimiento de la alerta de violencia de género contra las mujeres en Yucatán, a fin de dar cumplimiento a las conclusiones formuladas por los grupos de trabajo en el estado;
-
-VI. Concentrar y sistematizar la información generada de la realización de las acciones derivadas de las conclusiones de los grupos de trabajo y por la comisión de seguimiento con relación a la alerta de violencia de género contra las mujeres en el estado;
-
-VII. Facilitar y difundir información relacionada con las declaratorias de alerta de violencia de género contra las mujeres en el estado, incluyendo en sus fases preliminares, y
-
-VIII. Las demás que establezcan las disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 605.
-
-El Director de Difusión para la Igualdad y una Vida Libre de Violencia tendrá las siguientes facultades y obligaciones:
-
-I. Fomentar estrategias e instrumentos de difusión para una educación y cultura con perspectiva de género, enfoque de derechos humanos e interculturalidad;
-
-II. Elaborar campañas de amplio alcance y pertinencia lingüística, para potencializar el acceso de las mujeres a sus derechos, así como la prevención de una vida libre de violencia;
-
-III. Establecer estrategias de comunicación derivadas de los informes que se deriven de los procedimientos realizados en el estado, con motivo de la declaratoria de la alerta de la violencia de género, incluyendo en sus estados preventivos o preliminares;
-
-IV. Implementar estrategias de difusión para fortalecer los programas de igualdad entre mujeres y hombres y de acceso a una vida libre de violencia, incluyendo los de agrupaciones civiles, no gubernamentales;
-
-V. Realizar permanentemente campañas sobre estrategias de seguridad para las mujeres y los mecanismos de atención con los que cuentan, para prevenir los feminicidios y cualquier tipo de violencia contra las mujeres;
-
-VI. Implementar mecanismos electrónicos de difusión para que las mujeres puedan acceder eficazmente a los protocolos, modelos de atención y prevención, manuales, investigaciones y servicios especializados de atención a la violencia contra las mujeres, y
-
-VII. Las demás que establezcan las disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, D.O. 22 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 606.
 
-El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección de Asuntos Jurídicos tendrá las siguientes facultades y obligaciones:
 
-I. Elaborar el proyecto de presupuesto anual de la secretaría y llevar estricto control y vigilancia en su aplicación;
+I. Asesorar y despachar los asuntos de índole jurídica en materia de derechos humanos de las mujeres, incluyendo los mecanismos y políticas al respecto;
 
-II. Realizar los trámites necesarios para el pago de bienes adquiridos y los servicios que se contraten y afecten el presupuesto de conformidad con la normativa aplicable;
+II. Promover ante la Consejería Jurídica las modificaciones al orden jurídico estatal en materia de igualdad de género y acceso de las mujeres a una vida libre de violencia;
 
-III. Llevar la contabilidad, elaborar los estados financieros y hacer los reportes que señalen las leyes, reglamentos y demás disposiciones aplicables;
-
-IV. Controlar y supervisar la administración de fondos necesarios para la operación y administración de la Secretaría;
-
-V. Coordinar el mantenimiento preventivo de los vehículos oficiales, tener al día sus tenencias y seguros, así como llevar el control del inventario de los bienes muebles e inmuebles que estén asignados a esta Secretaría;
-
-VI. Coordinar los procesos para la adquisición de bienes y servicios, de conformidad con las disposiciones legales aplicables;
-
-VII. Coordinar la revisión y la elaboración de los contratos con los proveedores para la adquisición de bienes y prestación de servicios;
-
-VIII. Proporcionar, conforme al presupuesto, los recursos materiales que requieran las unidades administrativas de la Secretaría;
-
-IX. Aplicar los programas relativos a la administración de personal;
-
-X. Coordinar las convocatorias de las licitaciones para la adquisición de bienes y servicios para la secretaría de conformidad con las disposiciones legales aplicables;
-
-XI. Coordinar los procesos para la distribución y entrega de vales y tarjetas electrónicas de combustible;
-
-XII. Integrar los programas presupuestarios de la Secretaría y darle seguimiento a los que correspondan a cada unidad administrativa, y
-
-XIII. Las demás que establezcan las disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 607.
-
-El Director de Asuntos Jurídicos tendrá las siguientes facultades y obligaciones:
-
-I. Asesorar y despachar los asuntos de índole jurídica en materia de derechos humanos de las mujeres incluyendo los mecanismos y políticas al respecto;
-
-II. Promover ante la Consejería las modificaciones al orden jurídico estatal en materia de igualdad de género y acceso de las mujeres a una vida libre de violencia;
-
-III. Coordinar la compilación del orden jurídico relacionado con los avances de los derechos de las mujeres mediante estrategias con enfoque de género;
+III. Coordinar la compilación del orden jurídico relacionado con los avances de los derechos de las mujeres, mediante estrategias con enfoque de género;
 
 IV. Proponer y coordinar la realización de actos cívicos que promuevan y reconozcan los derechos de las mujeres;
 
 V. Coordinar el dictamen jurídico de los convenios derivados de los proyectos financiados a la secretaría;
 
-VI. Establecer vínculos de colaboración con las áreas jurídicas de las instancias de las mujeres de otras entidades federativas, y
+VI. Establecer vínculos de colaboración con las áreas jurídicas de las instancias de las mujeres de otras entidades federativas;
 
-VII. Las establecidas en el artículo 15 de este reglamento y en las demás disposiciones legales y normativas aplicables.
+VII. Fortalecer la vinculación de acciones estratégicas aplicables a los municipios y al seguimiento a la alerta de género, y
+
+VIII. Las establecidas en el artículo 15 de este reglamento y en las demás disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 607.
+
+La persona titular de la Dirección de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
+
+I. Elaborar el proyecto de presupuesto anual de la Secretaría de las Mujeres y llevar estricto control y vigilancia en su aplicación;
+
+II. Realizar los trámites necesarios para el pago de bienes adquiridos y los servicios que se contraten y afecten el presupuesto de la Secretaría de las Mujeres, de conformidad con la normativa aplicable;
+
+III. Llevar la contabilidad, elaborar los estados financieros y hacer los reportes que señalen las leyes, los reglamentos y las demás disposiciones aplicables;
+
+IV. Controlar y supervisar la administración de fondos necesarios para la operación y administración de la Secretaría de las Mujeres;
+
+V. Coordinar el mantenimiento preventivo de los vehículos oficiales, tener al día sus tenencias y seguros, así como llevar el control del inventario de los bienes muebles e inmuebles que estén asignados a la Secretaría de las Mujeres;
+
+VI. Coordinar los procesos para la adquisición de bienes y servicios, de conformidad con las disposiciones legales aplicables;
+
+VII. Coordinar la revisión y la elaboración de los contratos con los proveedores para la adquisición de bienes y prestación de servicios;
+
+VIII. Proporcionar, conforme al presupuesto, los recursos materiales que requieran las unidades administrativas de la Secretaría de las Mujeres;
+
+IX. Aplicar los programas relativos a la administración de personal;
+
+X. Coordinar las convocatorias de las licitaciones para la adquisición de bienes y servicios para la Secretaría de las Mujeres, de conformidad con las disposiciones legales aplicables;
+
+XI. Coordinar los procesos para la distribución y entrega de vales y tarjetas electrónicas de combustible;
+
+XII. Coordinar y supervisar el funcionamiento y desarrollo de las tecnologías de la información y comunicación de la Secretaría de las Mujeres, para garantizar el intercambio eficiente de información entre sus unidades administrativas;
+
+XIII. Integrar los programas presupuestarios de la Secretaría de las Mujeres y darle seguimiento a los que correspondan a cada unidad administrativa, y
+
+XIV. Las demás que establezcan las disposiciones legales y normativas aplicables.
 
 # LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -14740,6 +14912,20 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 D.O. 21 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 366/2021 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE CONSOLIDACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales necesarias para formalizar las modificaciones orgánicas efectuadas en las dependencias de la Administración Pública estatal como resultado de este decreto.
+
+Por su parte, estas dependencias contarán con un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto, para iniciar ante las autoridades competentes los trámites administrativos que sean necesarios para formalizar las modificaciones orgánicas efectuadas en virtud de este decreto.
+
+D.O. 22 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 421/2021 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE CONSOLIDACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
 
 Primero. Entrada en vigor
 
