@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2021-10-20"
+last_updated: "2021-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4577,11 +4577,17 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 ### CAPITULO OCTAVO. Del concubinato
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 825 Bis.
+
+El concubinato es la unión de dos personas con derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este Capítulo.
+
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-Artículo 825 BIS.- La concubina y el concubinario tienen derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio; han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
-
 No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo en común.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
 
@@ -4591,9 +4597,13 @@ Artículo 825 TER.- Regirán al concubinato todos los derechos y obligaciones in
 
 El concubinato genera entre los concubinos derechos alimentarios y sucesorios, independientemente de los demás derechos y obligaciones reconocidos en este código o en otras leyes.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-Artículo 825 QUÁTER.- Al cesar la convivencia, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien tenga medios propios de supervivencia, o viva en concubinato o contraiga matrimonio.
+###### Artículo 825 Quáter.
+
+Al cesar el concubinato, quien carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien tenga medios propios de supervivencia, o viva en concubinato o contraiga matrimonio.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la cesación del concubinato.
 
@@ -4621,11 +4631,15 @@ Afinidad es el parentesco que se contrae por el matrimonio, entre el varón y lo
 
 Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colateral; pero subsiste en la línea recta, en todos los casos en que esta ley se refiere a tal parentesco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 829.
 
-Se asimila al parentesco por afinidad el que se contrae entre el varón y los parientes de la mujer y entre ésta y los parientes de aquél, en los casos siguientes:
+Se asimila al parentesco por afinidad el que se contrae entre los concubinos y los parientes de aquél, en los casos siguientes:
 
-I.- Cuando entre el varón y la mujer hay la posesión de estado de casados sin serlo y no exista ningún impedimento para contraer matrimonio;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+I. Cuando entre los concubinos hay la posesión de estado de casados sin serlo y no exista ningún impedimento para contraer matrimonio;
 
 II.- Cuando la unión sexual sea accidental, no exista entre ellos impedimento para el matrimonio y por virtud de ella tenga la mujer un hijo; y
 
@@ -17670,3 +17684,11 @@ P.O. 20 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2021.
+
+[TRANSITORIOS DEL “DECRETO NÚMERO 145 POR El QUE SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 825 BIS, El PÁRRAFO PRIMERO DEL ARTÍCULO 825 QUÁTER Y El PÁRRAFO PRIMERO ASÍ COMO LA FRACCIÓN I DEL ARTÍCULO 829, TODOS DEL CÓDIGO CIVIL PARA El ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
