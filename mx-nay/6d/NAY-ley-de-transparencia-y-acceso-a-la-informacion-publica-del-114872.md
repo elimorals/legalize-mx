@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2017-02-11"
+last_updated: "2021-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el martes 3 de mayo de 2016.
 
@@ -657,7 +657,9 @@ El Poder Judicial del Estado, deberá poner a disposición del público y actual
 
 I. Los criterios jurisdiccionales que generen;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2620,3 +2622,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. A partir de la entrada en vigor del presente decreto el Congreso del Estado iniciará el procedimiento respectivo para la designación del titular del Órgano Interno de Control.
 
 TERCERO. Se deberán realizar las adecuaciones presupuestarias a efecto de lograr el debido funcionamiento del Órgano Interno de Control creado en el presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 37 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Poder Judicial del Estado de Nayarit, contará con un plazo de 180 días para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas, a partir de la entrada en vigor del presente Decreto.
