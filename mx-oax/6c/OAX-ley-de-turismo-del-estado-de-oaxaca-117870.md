@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-10-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -135,7 +135,9 @@ XVI. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
 
 XVII. Trabajadores Turísticos: Aquella persona física que presta sus servicios en materia turística de manera subordinada y por el cual devenga un salario o percibe una remuneración económica;
 
-XVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley de Migración.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -795,15 +797,19 @@ IV. Pagar el precio de los servicios utilizados en el momento de la presentació
 
 ### CAPÍTULO PRIMERO. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 57.
 
-Corresponde a la Secretaría promover la competitividad de la actividad turística en el Estado, y en coordinación con las dependencias y entidades competentes de la Administración Pública del Estado, fomentar:
+Corresponde a la Secretaria promover la competitividad de la actividad turística en el Estado, en coordinación con las dependencias y entidades competentes de la Administración Pública del Estado y Municipal, con prestadores de servicios turísticos y los sectores social y privado, fomentar:
 
 I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
 
 II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad;
 
-III. La capacitación permanente de los prestadores de servicios turísticos y su personal;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+III. La capacitación permanente de los prestadores de servicios turísticos y su personal, en las áreas de accesibilidad e inclusión, tanto en infraestructura, como en la atención de las personas con discapacidad y adultos mayores, para darles un tratamiento adecuado;
 
 IV. La modernización de las empresas turísticas;
 
@@ -1128,6 +1134,22 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 16 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2776.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 7; Y SE ADICIONA LA FRACCIÓN XXVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2774.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 57, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2775.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 4, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
