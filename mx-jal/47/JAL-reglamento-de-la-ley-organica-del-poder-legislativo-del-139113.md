@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2021-07-29"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -167,7 +167,9 @@ V. Esté en cumplimiento de labores inherentes a su encargo como diputado o dipu
 
 VI. Esté imposibilitado para asistir por caso fortuito o fuerza mayor.
 
-2. En los supuestos antes mencionados se dispone de cinco días hábiles, a partir del día de la sesión, para enviar a la Asamblea la solicitud de justificación correspondiente, so pena de considerarse como falta injustificada.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+2. En los supuestos antes mencionados se dispone de tres días hábiles, a partir del día de la sesión, para enviar a la Asamblea la solicitud de justificación correspondiente, so pena de considerarse como falta injustificada.
 
 3. Las faltas que ocurran por supuestos diferentes a los previstos en las fracciones I a la V, del párrafo primero, deben ser justificadas con el documento correspondiente.
 
@@ -4512,3 +4514,9 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28422/LXII/21 QUE REFORMA LOS ARTÍCULOS 67 Y 68; Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 202 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial de "El Estado de Jalisco".
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 28485/LXII/21 QUE REFORMA EL ARTÍCULO 10 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
