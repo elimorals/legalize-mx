@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-participacion-ciudadana-del-estado-de-chihuahua-129262"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-23"
-last_updated: "2018-09-05"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 23 de junio de 2018.
 
@@ -793,6 +791,10 @@ V. Recuperación de espacios públicos.
 
 VI. Medio ambiente.
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+VII. Seguridad sanitaria y servicios de salud.
+
 ###### Artículo 77.
 
 En el proceso del presupuesto participativo, el Ayuntamiento deberá realizar lo siguiente:
@@ -900,3 +902,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de junio del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1060/2021 XIV P.E., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 76, UNA FRACCIÓN VII, DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
