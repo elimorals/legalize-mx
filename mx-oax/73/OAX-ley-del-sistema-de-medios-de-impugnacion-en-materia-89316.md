@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-de-medios-de-impugnacion-en-materia-89316"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2021-03-27"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto de 2012.
 
@@ -57,7 +57,9 @@ Artículo 1
 
 Artículo 2
 
-1. Para la resolución de los medios de impugnación previstos en esta Ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal. A falta de disposición expresa, se aplicará la jurisprudencia emitida por el Tribunal del Poder Judicial de la Federación y los principios generales del derecho.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+1. Para la resolución de los medios de impugnación previstos en esta Ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal. A falta de disposición expresa, se aplicará la jurisprudencia emitida por el Tribunal del Poder Judicial de la Federación, la Jurisprudencia emitida por la Suprema Corte de Justicia de la Nación y los principios generales del derecho.
 
 2. La conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos, deberá ser considerada por las autoridades electorales competentes, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
 
@@ -1838,3 +1840,11 @@ P.O. 27 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2367.- MEDIANTE EL CUAL SE ADICIONA EL NUMERAL 3 AL ARTÍCULO 7, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2791.- MEDIANTE EL CUAL SE REFORMA EL NUMERAL 1 DEL ARTÍCULO 2 DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
