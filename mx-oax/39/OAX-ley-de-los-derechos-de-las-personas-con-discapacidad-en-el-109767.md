@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2020-10-10"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -51,91 +51,83 @@ Su objeto es reconocer y establecer las condiciones en las que el Estado deberá
 
 De manera enunciativa y no limitativa, esta Ley reconoce los derechos humanos de las personas con discapacidad y dispone el establecimiento de las políticas públicas necesarias para garantizar su ejercicio.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 2.
 
 Para efectos de esta Ley, se entenderá por:
 
-Accesibilidad: Son medios y medidas pertinentes por las cuales se materializa un derecho para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, al transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales, sin discriminación alguna.
+I.- Accesibilidad: Son medios y medidas pertinentes por las cuales se materializa un derecho para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, al transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales, sin discriminación alguna.
 
-Acciones Afirmativas: Medidas de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a garantizar el pleno ejercicio de los derechos de las personas con discapacidad en igualdad de circunstancias que las demás personas.
+II.- Acciones Afirmativas: Medidas de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a garantizar el pleno ejercicio de los derechos de las personas con discapacidad en igualdad de circunstancias que las demás personas.
 
-Ajustes razonables: Son modificaciones y adaptaciones necesarias y adecuadas que no imponen una carga desproporcionada o indebida, cuando se requieren según cada caso particular, para garantizar a las personas con discapacidad el goce o ejercicio de todos los derechos humanos, en igualdad de condiciones con las demás personas.
+III.- Ajustes razonables: Son modificaciones y adaptaciones necesarias y adecuadas que no imponen una carga desproporcionada o indebida, cuando se requieren según cada caso particular, para garantizar a las personas con discapacidad el goce o ejercicio de todos los derechos humanos, en igualdad de condiciones con las demás personas.
 
-Asistencia Social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de las personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación.
+IV.- Asistencia Social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de las personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación.
 
-Autonomía: Es la libertad de las personas con discapacidad de tomar decisiones propias para el pleno ejercicio de sus derechos; implica elegir su vida y llevar a cabo las actividades que permitan su desarrollo e inclusión social.
+V.- Autonomía: Es la libertad de las personas con discapacidad de tomar decisiones propias para el pleno ejercicio de sus derechos; implica elegir su vida y llevar a cabo las actividades que permitan su desarrollo e inclusión social.
 
-Ayudas Técnicas: Cualquier dispositivo y/o materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad.
+VI.- Ayudas Técnicas: Cualquier dispositivo y/o materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad.
 
-Comunicación: Se entenderá el lenguaje escrito, oral, Lengua de Señas Mexicana, visualización de textos, sistema Braille, comunicación táctil, macrotipos, dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso.
+VII.- Comunicación: Se entenderá el lenguaje escrito, oral, Lengua de Señas Mexicana, visualización de textos, sistema Braille, comunicación táctil, macrotipos, dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso.
 
-Convención: Convención sobre los Derechos de las Personas con Discapacidad.
+VIII.- Convención: Convención sobre los Derechos de las Personas con Discapacidad.
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+IX.- Discapacidad Física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura.
 
-Discapacidad Física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura.
+X.- Discapacidad intelectual o Psicosocial: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad.
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+XI.- Discapacidad Mental: A la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social.
 
-Discapacidad intelectual o Psicosocial: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad.
+XII.- Discapacidad Psicomotriz o Psicomotora: Es la condición de vida que afecta el control y movimiento del cuerpo, generando alteraciones en el desplazamiento, equilibrio, manipulación, habla y respiración de las personas que la padecen, limitando su desarrollo personal y social.
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+XIII.- Discapacidad Sensorial: Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos.
 
-Discapacidad Mental: A la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social.
+XIV.- Discriminación por motivos de discapacidad: Es cualquier distinción, exclusión o restricción que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, de las personas con discapacidad en igualdad de condiciones, de los derechos humanos y libertades fundamentales. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables.
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+XV.- Discriminación Múltiple: Es la situación de desigualdad específica en la que se encuentran personas con discapacidad que, al ser discriminadas por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos.
 
-Discapacidad Psicomotriz o Psicomotora: Es la condición de vida que afecta el control y movimiento del cuerpo, generando alteraciones en el desplazamiento, equilibrio, manipulación, habla y respiración de las personas que la padecen, limitando su desarrollo personal y social.
+XVI.- Diseño Universal: Es el diseño de productos, entorno, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. Este no excluye los apoyos técnicos para grupos particulares de personas con discapacidad, cuando sean necesarios.
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+XVII.- Educación Inclusiva: Es un modelo educativo considerado como un proceso de transformación progresiva que toma en cuenta y responde, en igualdad de oportunidades, a las diversas necesidades de las personas, contextos y ambientes donde se desenvuelven y fomenta la cohesión social.
 
-Discapacidad Sensorial: Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos.
+XVIII.- Educación significativa: Se refiere a la posibilidad de establecer vínculos sustantivos y no arbitrarios entre el nuevo contenido y los conocimientos previos. Así pues, aprender significativamente supone la posibilidad de atribuir significado a lo que se debe aprender a partir de lo que ya se conoce. Este proceso desemboca en la realización de aprendizajes que pueden ser efectivamente integrados en la estructura cognitiva de la persona que aprende, con lo que se asegura su memorización comprensiva y su funcionalidad.
 
-Discriminación por motivos de discapacidad: Es cualquier distinción, exclusión o restricción que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, de las personas con discapacidad en igualdad de condiciones, de los derechos humanos y libertades fundamentales. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables.
+XIX.- Enfoque diferencial: Es un método de análisis y una guía para la acción, que emplea una lectura de la realidad para hacer visibles y eliminar las formas de discriminación contra aquellos grupos o personas consideradas diferentes por una mayoría o por un grupo hegemónico.
 
-Discriminación Múltiple: Es la situación de desigualdad específica en la que se encuentran personas con discapacidad que al ser discriminadas por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos.
+XX.- Estenografía Proyectada: Es la técnica de transcripción de un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales.
 
-Diseño Universal: Es el diseño de productos, entorno, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. Este no excluye los apoyos técnicos para grupos particulares de personas con discapacidad, cuando sean necesarios.
+XXI.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración.
 
-Educación Inclusiva: Es un modelo educativo considerado como un proceso de transformación progresiva que toma en cuenta y responde, en igualdad de oportunidades, a las diversas necesidades de las personas, contextos y ambientes donde se desenvuelven y fomenta la cohesión social
+XXII.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, convivencia y participación, en igualdad con el resto de la población.
 
-Educación significativa: Se refiere a la posibilidad de establecer vínculos sustantivos y no arbitrarios entre el nuevo contenido y los conocimientos previos. Así pues, aprender significativamente supone la posibilidad de atribuir significado a lo que se debe aprender a partir de lo que ya se conoce. Este proceso desemboca en la realización de aprendizajes que pueden ser efectivamente integrados en la estructura cognitiva de la persona que aprende, con lo que se asegura su memorización comprensiva y su funcionalidad.
+XXIII.- Inclusión: Es un enfoque que responde positivamente a la diversidad de las personas y a las diferencias individuales, entendiendo que la diversidad es una oportunidad para el enriquecimiento de la sociedad, a través de la participación activa en la vida familiar, en la educación, en el trabajo, en la cultura y en general, en todos los procesos y espacios sociales.
 
-Enfoque diferencial: Es un método de análisis y una guía para la acción, que emplea una lectura de la realidad para hacer visibles y eliminar las formas de discriminación contra aquellos grupos o personas consideradas diferentes por una mayoría o por un grupo hegemónico.
+XXIV.- Inclusión plena: Es la participación libre y sin discriminación de las personas con discapacidad en las distintas esferas que conforman su vida en los ámbitos social, económico, político, cultural y de infraestructura y servicios.
 
-Estenografía Proyectada: Es la técnica de transcripción de un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales
+XXV.- Justicia social: Es un principio fundamental para la convivencia pacífica y próspera que se concreta cuando se eliminan las barreras que enfrentan las personas en desventaja social para hacer realizables sus derechos humanos, a través de un empleo digno, la protección y diálogo social entre otros.
 
-Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración.
+XXVI.- Lengua de Señas Mexicana: Consiste en una serie de signos articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, tiene su propia gramática y vocabulario.
 
-Igualdad de Oportunidades: Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, convivencia y participación, en igualdad con el resto de la población.
+XXVII.- Ley: Ley de los Derechos de las Personas con Discapacidad en el Estado de Oaxaca.
 
-Inclusión: Es un enfoque que responde positivamente a la diversidad de las personas y a las diferencias individuales, entendiendo que la diversidad es una oportunidad para el enriquecimiento de la sociedad, a través de la participación activa en la vida familiar, en la educación, en el trabajo, en la cultura y en general, en todos los procesos y espacios sociales.
+XXVIII.- Organizaciones: Todos aquellos grupos sociales constituidos legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e inclusión social.
 
-Inclusión plena: Es la participación libre y sin discriminación de las personas con discapacidad en las distintas esferas que conforman su vida en los ámbitos social, económico, político, cultural y de infraestructura y servicios.
+XXIX.- Participación: Es el derecho de las personas a ser escuchadas y tomadas en cuenta para la toma de decisiones y acciones que puedan llegar a impactar en su vida y en sus derechos.
 
-Justicia social: Es un principio fundamental para la convivencia pacífica y próspera que se concreta cuando se eliminan las barreras que enfrentan las personas en desventaja social para hacer realizables sus derechos humanos, a través de un empleo digno, la protección y diálogo social entre otros.
+XXX.- Personas con discapacidad: Son aquellas que presentan alguna deficiencia física, mental, intelectual o sensorial, o un trastorno de talla o de peso congénito o adquirido, de forma temporal o permanente que, al interactuar con diversas barreras, estas puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas.
 
-Lengua de Señas Mexicana: Consiste en una serie de signos articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, tiene su propia gramática y vocabulario.
+XXXI.- Perro guía o animal de servicio: Son aquellos que han sido adiestrados para el acompañamiento, conducción y auxilio de personas con discapacidad.
 
-Ley: Ley de los Derechos de las Personas con Discapacidad en el Estado de Oaxaca.
+XXXII.- Pluriculturalidad e interculturalidad: Es la interlocución entre personas basada en el diálogo, la escucha y la posibilidad de que cada parte tome lo que pueda ser tomado de la otra, respetando sus particularidades e individualidades. Se trata de un enfoque para la concertación, no la imposición; por tanto la interculturalidad implica un intercambio para construir algo nuevo.
 
-Organizaciones: Todos aquellos grupos sociales constituidos legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e inclusión social.
+XXXIII.- Política Pública: Todos aquellos planes, programas, estrategias, medidas y acciones que la autoridad desarrolle para garantizar los derechos establecidos en la presente Ley a nivel estatal y municipal.
 
-Participación: Es el derecho de las personas a ser escuchadas y tomadas en cuenta para la toma de decisiones y acciones que puedan llegar a impactar en su vida y en sus derechos.
+XXXIV.- Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de las personas con discapacidad de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
 
-Personas con discapacidad: Son aquellas que presentan alguna deficiencia física, mental, intelectual o sensorial a largo plazo, y que al interactuar con diversas barreras, estas puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas.
+XXXV.- Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil.
 
-Perro guía o animal de servicio: Son aquellos que han sido adiestrados para el acompañamiento, conducción y auxilio de personas con discapacidad.
-
-Pluriculturalidad e interculturalidad: Es la interlocución entre personas basada en el diálogo, la escucha y la posibilidad de que cada parte tome lo que pueda ser tomado de la otra, respetando sus particularidades e individualidades. Se trata de un enfoque para la concertación, no la imposición; por tanto la interculturalidad implica un intercambio para construir algo nuevo.
-
-Política Pública: Todos aquellos planes, programas, estrategias, medidas y acciones que la autoridad desarrolle para garantizar los derechos establecidos en la presente Ley a nivel estatal y municipal.
-
-Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de las personas con discapacidad de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
-
-Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil.
-
-Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXXVI.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ###### Artículo 3.
 
@@ -902,3 +894,11 @@ P.O. 10 DE OCTUBRE DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2755.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
