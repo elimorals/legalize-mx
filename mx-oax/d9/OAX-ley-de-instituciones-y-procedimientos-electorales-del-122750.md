@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-08-07"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -53,9 +53,9 @@ Las disposiciones de esta Ley son de orden e interés público y de observancia 
 
 I.- El ejercicio de los derechos y el cumplimiento de las obligaciones político-electorales de las ciudadanas y ciudadanos, en condiciones de igualdad;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-II.- La función estatal de organizar, desarrollar y vigilar los procesos electorales ordinarios o extraordinarios que se celebren para elegir al titular de la Gubernatura, diputadas y diputados al Congreso e integrantes de los ayuntamientos de los municipios del régimen de partidos políticos y candidaturas independientes;
+II.- La función estatal de organizar, desarrollar y vigilar los procesos electorales ordinarios o extraordinarios que se celebren para elegir al titular de la Gubernatura, diputadas y diputados al Congreso e integrantes de los ayuntamientos, de los municipios, del régimen de partidos políticos y candidaturas independientes;
 
 III.- El reconocimiento, la salvaguarda y la garantía de las instituciones y prácticas democráticas de los municipios que electoralmente se rigen por sus sistemas normativos indígenas;
 
@@ -87,15 +87,15 @@ V.- Ayuntamientos: Los órganos de gobierno de los municipios que conforman el E
 
 VI.- Candidata o candidato: La ciudadana o ciudadano que es postulado por un partido político, coalición o candidatura común, para ocupar un cargo de elección popular;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE OCTUBRE DE 2021)</small>
 
 VII.- Candidata o candidato independiente: La ciudadana o ciudadano que, sin el respaldo de un partido político, obtenga el porcentaje de apoyo ciudadano y mediante acuerdo que dicte la autoridad electoral, le otorgue el registro correspondiente, habiendo cumplido los requisitos de la presente Ley;
 
 VIII.- Candidatura común: Cuando dos o más partidos políticos registran al mismo candidato, formula o planilla de candidatos en la elección.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-IX.- Ciudadanas o ciudadanos del Estado de Oaxaca: Las mujeres y hombres considerados como tales, en términos de la Constitución Política del Estado Libre y Soberano de Oaxaca y esta Ley;
+IX.- Ciudadanas o ciudadanos del Estado de Oaxaca: Las mujeres y hombres considerados como tales, en términos de la Constitución Política del Estado Libre y Soberano de Oaxaca y de esta Ley;
 
 X.- Congreso: El Honorable Congreso del Estado Libre y Soberano de Oaxaca;
 
@@ -104,6 +104,10 @@ XI.- Consejo General: El Consejo General del Instituto Estatal Electoral y de Pa
 XII.- Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
 XIII.- Constitución Local: La Constitución Política del Estado Libre y Soberano de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XIII BIS.- Diputación Migrante o Binacional. La Diputada o el Diputado electo por la ciudadanía tanto residente en el estado de Oaxaca, como aquella originaria de Oaxaca residente en el extranjero por el principio de representación proporcional en los términos de esta Ley.
 
 XIV.- Estado: El Estado Libre y Soberano de Oaxaca;
 
@@ -157,9 +161,9 @@ XXX.- Tribunal: El Tribunal Electoral del Estado de Oaxaca;
 
 XXXI.- Usurpación de identidad de género: el acto mediante el cual un ciudadano o persona se autoadscribe de manera mendaz a género diverso al propio, con el fin de beneficiarse de las acciones afirmativas para cumplir con el requisito de paridad de género y alternancia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2021)</small>
 
-XXXII.- La violencia política contra las mujeres en razón de género: Es toda acción u omisión, realizada por sí o por interpósita (sic), incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el reconocimiento o ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas funciones o cargos públicos del mismo tipo.
+XXXII.- La violencia política contra las mujeres en razón de género: Es toda acción u omisión, realizada por sí o por interpósita persona, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el reconocimiento o ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
@@ -181,17 +185,17 @@ XXXIV.- Votación estatal válida emitida: La que resulte de deducir de la votac
 
 XXXV.- Votación total emitida: La suma de todos los votos depositados en la urna, en tratándose de la votación de diputados y diputadas plurinominales se incluirán los votos emitidos en las casillas especiales;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-XXXVI.- Votación Valida Emitida: La que resulte de deducir de la suma de todos los votos depositados en las urnas los votos nulos y los correspondientes a candidatos no registrados, y
+XXXVI.- Votación Válida Emitida: La que resulte de deducir de la suma de todos los votos depositados en las urnas, los votos nulos y los correspondientes a candidatos no registrados;
 
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-XXXVII.- Voto nulo: Es una boleta electoral que fue utilizada y al que la mesa directiva de casilla y la autoridad electoral le atribuye tal carácter, por no cumplir con las características que esta Ley establece, en el escrutinio y cómputo, y lo asienta en el acta respectiva.
+XXXVII.- Voto nulo: Es una boleta electoral que fue utilizada y al que la mesa directiva de casilla y la autoridad electoral le atribuye tal carácter, por no cumplir con las características que esta Ley establece, en el escrutinio y cómputo, y lo asienta en el acta respectiva, e
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-XXXVIII.- Interculturalidad: Implica tomar en cuenta las distintas visiones, perspectivas e intereses que se vean involucrados en el proceso de consulta, a fin de generar las condiciones necesarias que hagan posible que los proyectos o leyes con expresiones culturales e intereses diversos, se vuelvan compartidos y benéficos para las partes.
+XXXVIII.- Interculturalidad: Implica tomar en cuenta las distintas visiones, perspectivas e intereses de las personas, pueblos y comunidades indígenas, sin imponer arbitrariamente una visión determinada del mundo que atente contra la igualdad entre las culturas y la diversidad étnica, a fin de generar las condiciones necesarias que hagan posible que los proyectos o leyes con expresiones culturales e intereses diversos, se vuelvan compartidos y benéficos para las partes.
 
 Artículo 3
 
@@ -403,6 +407,10 @@ VI.- Integrar las mesas directivas de casillas en los términos de esta Ley y de
 
 2.- Para el cumplimiento de la obligación de desempeñar las funciones electorales para las que sean requeridas las ciudadanas y los ciudadanos, las y los patrones están obligados a otorgar el permiso correspondiente a sus trabajadoras y trabajadores, sin deducción en su salario, en los términos de la legislación laboral.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+3. La ciudadanía originaria de Oaxaca residente en el extranjero deberá contar con credencial de elector actualizada con el domicilio correspondiente.
+
 ### CAPÍTULO TERCERO. DERECHOS Y OBLIGACIONES EN LOS SISTEMAS NORMATIVOS INDÍGENAS
 
 Artículo 15
@@ -497,6 +505,10 @@ VI.- No estar sancionada o sancionado por violencia política contra las mujeres
 
 VII.- No estar sentenciada o sentenciado por los delitos de violencia política contra las mujeres en razón de género, de violencia familiar y por delitos que atenten contra la obligación alimentaria, en los términos del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+VIII.- Para el caso de la Diputación Migrante o Binacional no podrán postularse personas que desempeñen cargos diplomáticos o desempeñen labores en sedes diplomáticas o consulares sino hasta después de transcurridos dos años de haberse separado de su cargo.
+
 2.- A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral.
 
 ### CAPÍTULO SEGUNDO. DE LOS SISTEMAS ELECTORALES
@@ -509,9 +521,9 @@ El ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina
 
 Artículo 23
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-1.- El Poder Legislativo se ejerce por el Congreso y estará integrado por 25 diputadas o diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputadas o diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal, observando en ambos casos el principio de paridad y alternancia de género.
+1.- El Poder Legislativo se ejerce por el Congreso y estará integrado por 25 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputados que serán electos según el principio de representación proporcional en el que se incluirá el diputado migrante o binacional mediante el sistema de lista votada en una sola circunscripción plurinominal, observando en ambos casos el principio de paridad y alternancia de género.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
@@ -679,6 +691,10 @@ X.- Ser garante de los principios rectores de igualdad, certeza, legalidad, inde
 
 XI.- Impulsar la participación de las mujeres, así como garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral, en los términos señalados en la Constitución Local y esta Ley.
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XII.- Promover el ejercicio de los derechos político-electorales y la participación de la ciudadanía oaxaqueña residente en el extranjero.
+
 Artículo 32
 
 Corresponde al Instituto Estatal, ejercer funciones en las siguientes materias:
@@ -727,13 +743,17 @@ XIX.- Garantizar el cumplimiento del principio de paridad de género, así como 
 
 XX.- Llevar a cabo el proceso de consulta previa, libre e informada cuando el Instituto Estatal pretenda emitir medidas administrativos (sic) o acuerdos que sean susceptibles de afectar los derechos de los pueblos y comunidades indígenas y afromexicanas;
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XXI. Establecer programas de vinculación, comunicación, difusión y educación cívica para la ciudadanía oaxaqueña residente en el extranjero.
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2020)</small>
 
-XXI.- Reconocer y dar validez a los procesos electorales que se desarrollen bajo el régimen de sistemas normativos indígenas, en atención al principio de la libre autodeterminación de los pueblos y comunidades indígenas, para que estos se desarrollen con apego a los derechos humanos garantizando la paridad entre mujeres y hombres, de conformidad con lo dispuesto en los artículos 16 y 25 de la Constitución Local; y
+XXII.- Reconocer y dar validez a los procesos electorales que se desarrollen bajo el régimen de sistemas normativos indígenas, en atención al principio de la libre autodeterminación de los pueblos y comunidades indígenas, para que estos se desarrollen con apego a los derechos humanos garantizando la paridad entre mujeres y hombres, de conformidad con lo dispuesto en los artículos 16 y 25 de la Constitución Local; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MAYO DE 2020)</small>
 
-XXII.- Las demás que determine la Ley General y aquellas no reservadas al INE, que se establezcan en la presente Ley.
+XXIII.- Las demás que determine la Ley General y aquellas no reservadas al INE, que se establezcan en la presente Ley.
 
 Artículo 33
 
@@ -869,7 +889,9 @@ III.- Aprobar y expedir los reglamentos internos y lineamientos necesarios para 
 
 IV.- Vigilar y supervisar la oportuna integración, instalación y adecuado funcionamiento de los órganos centrales, distritales y municipales del Instituto Estatal;
 
-V.- Designar al Secretario Ejecutivo a propuesta del consejero presidente por la mayoría de sus integrantes;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+V.- Designar a la persona titular de la Secretaría Ejecutiva a propuesta de la Presidencia del Consejo General por la mayoría de sus integrantes;
 
 VI.- Designar a propuesta del consejero presidente por la mayoría de sus integrantes a los Directores Ejecutivos y Titulares de las Unidades Técnicas; y en caso de ser necesario removerlos;
 
@@ -995,7 +1017,15 @@ LXIV.- Convocar a las sesiones del Consejo General por acuerdo de la mayoría ca
 
 LXV.- Aprobar y expedir los reglamentos internos y lineamientos para garantizar el cumplimiento de la paridad de género, así como el respeto a los derechos políticos de las mujeres; y
 
-LXVI.- Las demás que establezca la Ley General, esta Ley, aquellas no reservadas al INE, y las que por razón de competencia puedan corresponderle.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+LXVI.- Aprobar programas de atención y vinculación con la ciudadanía oaxaqueña residente en el extranjero para promover el ejercicio de los derechos político-electorales.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+LXVII.- Convenir con el INE los términos y procedimientos para que los ciudadanos oaxaqueños residentes en el extranjero, puedan votar para la elección de Gobernador y Diputada o Diputado migrante o Binacional, sujetándose a lo establecido en las normas aplicables;
+
+LXVIII.- Las demás que establezca la Ley General, esta Ley, aquellas no reservadas al INE, y las que por razón de competencia puedan corresponderle.
 
 #### SECCIÓN SEGUNDA. DE LA PRESIDENCIA DEL CONSEJO GENERAL
 
@@ -1133,6 +1163,10 @@ V.- De Sistemas Normativos Indígenas; e
 
 VI.- Igualdad de Género y no Discriminación.
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+VII.- Atención de las personas residentes en el extranjero originarias del estado de Oaxaca.
+
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 3.- Todas las comisiones se integrarán con un máximo de tres consejeras o consejeros electorales bajo el principio de paridad de género, con voz y voto; podrán participar en ellas, con voz, pero sin voto, las y los representantes de los partidos políticos, excepto cuándo se trate de la comisión de Quejas y Denuncias y de Sistemas Normativos Indígenas y cuando se discutan temas relacionados con el Servicio Profesional Electoral Nacional.
@@ -1161,21 +1195,25 @@ VI.- Igualdad de Género y no Discriminación.
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA EJECUTIVA
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 Artículo 43
 
-1.- El Secretario Ejecutivo del Instituto Estatal lo es también del Consejo General; coordina la Junta General, conduce la administración y supervisa el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto Estatal.
+1.- La Secretaria o Secretario Ejecutivo del Instituto Estatal lo es también del Consejo General; coordina la Junta General, conduce la administración y supervisa el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto Estatal.
 
-2.- El Secretario Ejecutivo y del Consejo General deberá reunir los mismos requisitos que se exigen para ser Consejero Electoral, con excepción de lo dispuesto en el inciso k) del párrafo 2 del artículo 100 de la Ley General de la materia.
+2.- La Secretaria o Secretario Ejecutivo y del Consejo General deberá reunir los mismos requisitos que se exigen para ser Consejero Electoral, con excepción de lo dispuesto en el inciso k) del párrafo 2 del artículo 100 de la Ley General de la materia.
 
-3.- El Secretario Ejecutivo durará en el cargo tres años con derecho a ser ratificado por un periodo adicional. Tomará protesta el día que determine el Consejo General.
+3.- La persona titular de la Secretaría Ejecutiva, será designada por las y los integrantes del Consejo General, durará en el cargo tres años con derecho a ratificación por un periodo adicional. Tomará protesta el día que determine el Consejo General.
 
-4.- El Secretario Ejecutivo podrá ser removido por el voto de las dos terceras partes de los integrantes del Consejo General, por violación a los principios rectores de la función electoral que generen una grave afectación al Instituto Estatal.
+4.- La persona titular de la Secretaría Ejecutiva podrá ser removida por el voto de las dos terceras partes de las y los integrantes del Consejo General, por violación a los principios rectores de la función electoral que generen una grave afectación al Instituto Estatal.
 
-5.- La Secretaria Ejecutiva, para el desarrollo de sus funciones, contara con las unidades y coordinaciones de carácter administrativo, técnico y jurídico que sean necesarias de acuerdo con la disponibilidad del Instituto.
+5.- La Secretaría Ejecutiva, para el desarrollo de sus funciones, contará con las unidades y coordinaciones de carácter administrativo, técnico y jurídico que sean necesarias de acuerdo con la disponibilidad del Instituto.
 
 Artículo 44
 
-Son atribuciones del Secretario Ejecutivo las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Son atribuciones de la Secretaría Ejecutiva las siguientes:
 
 I.- Representar legalmente al Instituto Estatal;
 
@@ -1367,9 +1405,17 @@ XII.- Coordinar la capacitación a los funcionarios de los consejos distritales 
 
 XIII.- Llevar la estadística de las elecciones estatales, así como de los procesos de participación ciudadana; y
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XIV.- Elaborar y proponer a la Comisión de Atención de las personas residentes en el extranjero originarias del estado de Oaxaca, los programas para fomentar y ejercer los derechos de Participación Ciudadana de las y los residentes en el extranjero, haciendo uso de las tecnologías de la información.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XV.- Elaborar y proponer a la Comisión de Atención de las personas residentes en el extranjero originarias del estado de Oaxaca, los anteproyectos del Programa de Organización y Geoestadística Electoral, así como los estudios, materiales y documentación relacionados con la ciudadanía residente en el extranjero. Además de coordinar la logística y la operatividad para el cómputo de los resultados electorales; según corresponda.
+
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XIV.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidencia o Secretaría Ejecutiva.
+XVI.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidencia o Secretaría Ejecutiva.
 
 Artículo 50
 
@@ -1425,7 +1471,11 @@ XX.- Llevar el registro pormenorizado de los candidatos a cargos de elección po
 
 XXI.- Presentar al Consejo General, a través de la Secretaría Ejecutiva, su programa anual de actividades, y
 
-XXII.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidente o el Secretario Ejecutivo.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XXII. Todas las relativas a la organización, registro, representación y participación política de la ciudadanía residente en el extranjero.
+
+XXIII.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidente o el Secretario Ejecutivo.
 
 Artículo 51
 
@@ -1463,9 +1513,13 @@ XI.- Promover la participación de las ciudadanas y ciudadanos oaxaqueños en lo
 
 XII.- Llevar la estadística de los procesos de participación ciudadana, e integrar y actualizar la estadística del acceso de las mujeres a cargos públicos en el Estado; y
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XIII. Elaborar, organizar y proponer a la Comisión de Atención de las personas residentes en el extranjero originarias del estado de Oaxaca las actividades, estrategias, instrumentos y materiales de educación cívica, construcción de la ciudadanía y promoción del voto, cultura democrática y derechos político electorales, haciendo uso de las tecnologías de la información.
+
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XIII.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidencia o la Secretaría Ejecutiva.
+XIV.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidencia o la Secretaría Ejecutiva.
 
 Artículo 52
 
@@ -1569,7 +1623,9 @@ VI.- No estar inhabilitado para ejercer cargos públicos en cualquier instituci�
 
 VII.- No desempeñar cargo de servidor público con mando medio o superior federal, estatal o municipal ni de los poderes legislativo y judicial federal o estatal, a menos que se separe del cargo un año antes al día de la designación. y
 
-VIII.- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+VIII.- No haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
@@ -1936,6 +1992,10 @@ II.- Servicios de Informática y Documentación;
 III.- Comunicación Social; y
 
 IV.- Transparencia y Acceso a la Información.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+V.- Atención de las personas residentes en el extranjero originarias del estado de Oaxaca.
 
 2.- Las atribuciones de las Unidades Técnicas serán determinadas en la normatividad interna del Instituto Estatal, así como las relaciones, actividades de colaboración y apoyo que deban brindar. Cada unidad tendrá la categoría y personal en relación con sus atribuciones, las cuales serán determinadas por el Secretario Ejecutivo de acuerdo con las necesidades del servicio y la disponibilidad presupuestaria.
 
@@ -2857,6 +2917,10 @@ III.- No ser, ni haber sido candidato al puesto de elección popular en los tres
 
 IV.- Asistir a los cursos de capacitación, preparación o información que impartan el INE y el Instituto Estatal.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+En el caso de la ciudadanía residente en el extranjero el Instituto Estatal dispondrá de herramientas de educación a distancia para la capacitación correspondiente.
+
 7.- Los observadores electorales se abstendrán de:
 
 I.- Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones, e interferir en el desarrollo de las mismas;
@@ -3241,7 +3305,9 @@ II.- Uso de la cartografía electoral, así como los demás documentos necesario
 
 III.- La ubicación de las casillas y la designación de los funcionarios de sus mesas directivas;
 
-IV.- Garantizar el voto de los ciudadanos oaxaqueños residentes en el extranjero en la elección para Gobernador;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+IV.- Garantizar el voto de la ciudadanía oaxaqueña residente en el extranjero en la elección para Gobernador y Diputación Migrante o Binacional.
 
 V.- Para proveer los materiales necesarios para el desarrollo de los Mecanismos de participación ciudadana;
 
@@ -3381,7 +3447,15 @@ El total de candidaturas registradas por ambos principios deberá guardar una re
 
 Las listas de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista
 
-En las sustituciones de candidatas o candidatos que se realicen tanto en el principio de mayoría relativa como de representación proporcional deberá ser considerando la paridad y alternancia de tal manera que deberá ser del mismo género que la fórmula original tenía
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Todos los partidos políticos integrarán en su lista de representación proporcional, al menos a una candidata o candidato migrante o Binacional, según corresponda la alternancia de género. La posición en la lista deberá garantizarse dentro del primer 30% de la lista.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+La candidata o candidato acreditará su condición de migrante mediante credencial para votar emitida en el extranjero antes del inicio del proceso electoral, o a través de su inscripción al Listado de Electores Residentes en el Extranjero que elabora el Instituto Nacional Electoral antes del inicio de las precampañas.
+
+En las sustituciones de candidatas o candidatos que se realicen tanto en el principio de mayoría relativa como de representación proporcional deberá ser considerando la paridad y alternancia de tal manera que deberá ser del mismo género que la fórmula original tenía.
 
 Los partidos políticos deberán verificar que en las convocatorias para sus respectivos procesos internos se utilice lenguaje incluyente que expresamente se dirija a las ciudadanas y a los ciudadanos, a fin de garantizar los principios de paridad y alternancia en la integración de candidaturas a diputaciones y planillas de concejales. El Instituto Estatal corroborará que los partidos políticos cumplan con el párrafo anterior.
 
@@ -3389,7 +3463,7 @@ En el caso de los municipios que se rigen por partidos políticos, se garantizar
 
 Cada uno de los municipios en el régimen de partidos políticos será gobernado por un Ayuntamiento de elección popular directa, integrado por una presidencia municipal y el número de sindicaturas y regidurías que esta Ley y la Constitución Local determinen.
 
-En éstos ayuntamientos, las candidaturas propuestas por los partidos políticos, coaliciones o candidaturas independientes, se registrarán en planillas integradas por formulas con una o un propietario y una o un suplente que en todos los casos serán del mismo género
+En estos ayuntamientos, las candidaturas propuestas por los partidos políticos, coaliciones o candidaturas independientes, se registrarán en planillas integradas por formulas con una o un propietario y una o un suplente que en todos los casos serán del mismo género.
 
 Las planillas deberan garantizar la paridad desde su doble dimensión, vertical y horizontal.
 
@@ -3480,6 +3554,30 @@ e) Clave de la credencial para votar;
 f) Cargo para el que se les postule; y
 
 g) Los candidatos a diputados del Congreso del Estado y a concejales de los ayuntamientos por el sistema de partidos políticos, que sean postulados para un período consecutivo en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Local en materia de elección consecutiva.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 23 DE OCTUBRE DE 2021)</small>
+
+h) Para el efecto de la candidatura de la Diputación Migrante o Binacional deberá sujetarse a las siguientes reglas:
+
+I. La solicitud de registro de la candidatura deberá presentarse ante el Consejo General en las fechas que esta ley establece para la presentación de solicitudes de registro de la lista de candidatas y candidatos de representación proporcional;
+
+II. Deberá existir consentimiento escrito por parte de las personas postuladas. En su caso, la postulación de la candidatura que se promuevan bajo esta modalidad deberá incluir en la fórmula de propietario y suplente el mismo género;
+
+III. Los partidos políticos que postulen candidaturas comunes, conservarán cada uno de sus derechos, obligaciones y prerrogativas que le otorga esta Ley;
+
+IV.- La candidata o candidato acreditará su condición de migrante mediante credencial para votar emitida en el extranjero antes del inicio del proceso electoral, o a través de su inscripción al Listado de Electores Residentes en el Extranjero que elabora el Instituto Nacional Electoral antes del inicio de las precampañas;
+
+V.- Que demuestre al menos una de las siguientes acciones:
+
+a. Que demuestre haber realizado acciones de promoción de actividades comunitarias o culturales entre la comunidad migrante, por lo menos con dos años de anterioridad a la postulación;
+
+b. Que haya demostrado su vinculación con el desarrollo según sea el caso en inversiones productivas, proyectos comunitarios y/o participación en beneficio de la comunidad oaxaqueña establecida fuera del territorio nacional;
+
+c. Que haya impulsado y/o promovido la defensa de los derechos de los migrantes;
+
+VI. En caso de que un partido político no haya registrado las fórmulas de diputado migrante o binacional, el Instituto Electoral, lo requerirá para que, en un término de 48 horas, registre las fórmulas respectivas, caso contrario, se le sancionará con amonestación pública y con el no registro de su lista de representación proporcional.
+
+En caso de que un partido político no haya registrado las fórmulas de diputado migrante o binacional, el Instituto Electoral, lo requerirá para que, en un término de 48 horas, registre las fórmulas respectivas, caso contrario, se le sancionará con amonestación pública y con la reducción de hasta el 50% de las ministraciones del financiamiento público por actividades ordinarias que le corresponda por el periodo que señale la resolución.
 
 2.- La solicitud de registro de candidaturas deberá acompañarse de los siguientes documentos:
 
@@ -3590,6 +3688,10 @@ I.- Para la elección del año en que se elija Gobernador del Estado, el Consejo
 a) Para Gobernador del Estado el tope máximo de gastos de campaña será el equivalente al cincuenta por ciento del financiamiento público de campaña establecido para todos los partidos en el año de la elección para Gobernador.
 
 b) Para la elección de diputados locales, el tope máximo general de gastos de campaña será el equivalente al cuarenta por ciento del financiamiento público de campaña establecido para todos los partidos.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Lo anterior también será aplicable a las candidaturas de Diputación Migrante o Binacional.
 
 c) Para la elección de concejales municipales por el sistema de partidos políticos y candidatos independientes, el tope máximo general de gastos de campaña será el equivalente al cuarenta por ciento del financiamiento público de campaña establecido para todos los partidos.
 
@@ -4579,7 +4681,9 @@ Artículo 270
 
 Artículo 271
 
-1.- Los oaxaqueños que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernador del Estado.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+1.- Los oaxaqueños que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernador del Estado y para la Diputación Migrante o Binacional.
 
 2.- Para el ejercicio del voto los ciudadanos oaxaqueños que residan en el extranjero se atenderá a lo establecido en la Constitución Federal, la Constitución Local y la Ley General.
 
@@ -4941,9 +5045,9 @@ Artículo 297
 
 4.- Los partidos políticos locales que hubieran obtenido su registro con fecha posterior a la última elección, tendrán derecho al financiamiento público conforme a las reglas establecidas en la Ley General de Partidos Políticos.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-5.- Cada partido político deberá destinar hasta el tres por ciento del financiamiento anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+5.- Cada partido político deberá destinar hasta el tres por ciento del financiamiento anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, además de ello deberán contar con un Protocolo interno para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en la vida política.
 
 #### SECCIÓN CUARTA. DE LA FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
 
@@ -6154,3 +6258,41 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Para el cumplimiento de lo establecido en el numeral 5 del artículo 199, respecto al retiro de la propaganda electoral, esta entrará en vigor para el próximo proceso electoral.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2708.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El registro y asignación del diputado migrante o binacional establecidos en la presente Ley será aplicado a partir de la Elección de Diputados que se verificará en el año 2024.
+
+CUARTO.- El poder Legislativo contará con 90 días a partir de la publicación del Decreto correspondiente para modificar la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano del (sic) Oaxaca y el Reglamento Interior del mismo poder, a fin de garantizar las funciones y actividades de la o el Diputado Migrante o Binacional.
+
+QUINTO.- El Instituto Estatal Electoral y de Participación Ciudadana del Estado de Oaxaca elaborará a (sic) los lineamientos correspondientes a ala (sic) elección de la o el Diputado Migrante o binacional a partir del proceso electoral del año 2024.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2788.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 38, EL ARTÍCULO 43; EL PRIMER PÁRRAFO DEL ARTÍCULO 44 Y LA FRACCIÓN VIII DEL NUMERAL 1 DEL ARTÍCULO 54, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2792.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 1, LAS FRACCIONES VII Y IX DEL ARTÍCULO 2, Y EL NUMERAL 5 DEL ARTÍCULO 297, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2816.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXII, XXXVI, XXXVII Y XXXVIII DEL ARTÍCULO 2 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
