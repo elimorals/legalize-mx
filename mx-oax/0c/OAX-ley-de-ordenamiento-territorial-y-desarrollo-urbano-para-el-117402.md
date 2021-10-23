@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2021-09-18"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -1743,7 +1743,9 @@ X. La potestad administrativa que permita la celebración de convenios entre aut
 
 XI. La construcción y adecuación de la Infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, el libre tránsito y la accesibilidad universal requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta sobre las características técnicas de los proyectos;
 
-XII. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XII. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes, jardines verticales y huertos urbanos; y
 
 XIII. Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento.
 
@@ -2294,6 +2296,10 @@ Para tal efecto, promoverán los mecanismos presupuestales y financieros y las f
 ###### ARTÍCULO 131.
 
 La recreación, recuperación, mantenimiento y defensa del Espacio público para todo tipo de usos y para la movilidad será de alta prioridad para el Estado y los Municipios, por lo que se deberá privilegiar el diseño, adecuación, mantenimiento y protección de estos, teniendo en cuenta la evolución de la ciudad.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Las autoridades estatales y municipales, procurarán la instrumentación de mobiliario para el estacionamiento de bicicletas y otros vehículos impulsados por tracción humana en los edificios que ocupan y espacios públicos.
 
 Los espacios abiertos, andadores y plazas públicas fomentaran funciones de carácter cultural, ambiental, artístico, deportivo y recreativo, o las que determine el municipio de conformidad a los ordenamientos jurídicos vigentes en la materia y en coordinación con las autoridades competentes.
 
@@ -3452,3 +3458,19 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2759.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO Y SE RECORREN LOS SUBSECUENTES AL ARTÍCULO 131 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2760.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 88 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
