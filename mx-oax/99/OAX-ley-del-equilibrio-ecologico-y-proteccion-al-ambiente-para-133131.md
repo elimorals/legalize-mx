@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2021-10-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -308,6 +308,10 @@ XXXVI. Formular, conducir y evaluar la política estatal en materia de prevenci�
 XXXVII. Diseñar, formular y aplicar en coordinación con las autoridades competentes, la sustentabilidad de la política forestal estatal en concordancia con la política forestal nacional;
 
 XXXVIII. Expedir ordenamientos jurídicos conforme al ámbito de su competencia, en materia de cambio climático, residuos sólidos y de manejo especial, biodiversidad y desarrollo forestal;
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Asimismo, expedir la norma ambiental que establezca las condiciones y especificaciones técnicas para el manejo integral de grasas y aceites de origen animal y/o vegetales residuales en el territorio del Estado de Oaxaca.
 
 XXXIX. Diseñar e instrumentar en coordinación con las autoridades educativas, el Programa Estatal de Educación para el Desarrollo Sustentable que fomente la protección del ambiente y el desarrollo sustentable de la entidad;
 
@@ -3170,3 +3174,11 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2763.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXXVIII DEL ARTÍCULO 6 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
