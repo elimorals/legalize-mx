@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-10-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -81,9 +81,21 @@ a) La accesibilidad universal como el derecho de toda persona a la movilidad y a
 
 b) El respeto al medio ambiente a partir de políticas gubernamentales que incentiven el cambio del uso del transporte de combustión interna;
 
-c) El desarrollo económico, a partir del ordenamiento de las vías públicas de comunicación a fin de minimizar los costos y tiempos de traslado de personas y bienes; y
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-d) La perspectiva de género, a partir de políticas gubernamentales, que garanticen la seguridad e integridad física, sexual y la vida, de quienes utilicen el servicio del transporte público.
+c) Inclusión. Equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, independientemente del modo que utilicen para trasladarse, poniendo especial énfasis en grupos en desventaja por condición física, social, económica, género o edad;
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+d) Sustentabilidad: Solucionar los desplazamientos de personas y sus bienes, con los mínimos efectos negativos sobre la calidad de vida y el medio ambiente, al incentivar el uso de transporte público y no motorizado, así como impulsar el uso de tecnologías sustentables en los medios de transporte;
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+e) Resiliencia: Lograr que el Sistema de Movilidad tenga capacidad para soportar situaciones fortuitas o de fuerza mayor, con una recuperación de bajo costo para la sociedad y al medio ambiente;
+
+f) El desarrollo económico, a partir del ordenamiento de las vías públicas de comunicación a fin de minimizar los costos y tiempos de traslado de personas y bienes; y
+
+g) La perspectiva de género, a partir de políticas gubernamentales, que garanticen la seguridad e integridad física, sexual y la vida, de quienes utilicen el servicio del transporte público.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -203,7 +215,9 @@ XXIX. ESTACIONAMIENTO: Espacio físico o lugar utilizado para detener, custodiar
 
 XXX. ESTACIONAMIENTO EN VÍA PÚBLICA: Espacio físico establecido en la vialidad, para detener y desocupar los vehículos, cuando así lo disponga la autoridad se realizará el pago de una tarifa;
 
-XXXI. ESTACIONAMIENTO PRIVADO: Es aquel espacio físico para satisfacer las necesidades de individuos, instituciones o empresas para el resguardo de vehículos, siempre que el servicio sea gratuito.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XXXI. ESTACIONAMIENTO PRIVADO: Es aquel espacio físico para satisfacer las necesidades de individuos, instituciones y empresas, de sus clientes y visitantes, para el resguardo de vehículos, siempre que el servicio sea gratuito.
 
 XXXII. ESTACIONAMIENTO PÚBLICO: Espacio físico para satisfacer las necesidades del público en general para el resguardo mediante el pago de una tarifa.
 
@@ -489,6 +503,10 @@ Corresponde a la Secretaría, llevar el registro de estacionamientos públicos c
 
 Los datos que deberán presentar de forma mensual los Municipios para la actualización del registro se especificarán en el Reglamento de la Ley.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Los estacionamientos ubicados en las empresas identificadas como centros comerciales, plazas, supermercados y tiendas de autoservicio, o cualquier otra institución o persona física o moral, son considerados como estacionamientos privados de estos y su servicio debe ser gratuito en los términos de la presente ley, quedando prohibido por cualquier modalidad el cobro de tarifas o cuotas por el resguardo de vehículos dentro de estos, de no ser así serán procedentes las sanciones respectivas por contravenir el contenido de la Ley.
+
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 24 Ter.
@@ -744,6 +762,10 @@ El Reglamento de la Ley, regulará la operación, facultades y obligaciones del 
 > <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
 XLI. Emitir, sin perjuicio de las competencias de los Municipios, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos; así como la política integral de estacionamientos públicos en el Estado de Oaxaca, de conformidad a la presente Ley y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Tratándose de estacionamientos ubicados en las empresas identificadas como centros comerciales, plazas, supermercados y tiendas de autoservicio, o cualquier otra institución o persona física o moral, son considerados como estacionamientos privados de estos y su servicio debe ser gratuito, de conformidad con la Ley, y de acuerdo a lo establecido en el tercer párrafo del artículo 198 de la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca, exceptuando a aquellos cuya actividad sea exclusivamente brindar el servicio de estacionamiento público;
 
 > <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -1353,9 +1375,13 @@ Está prohibido prestar el servicio de transporte foráneo en vehículos tipo se
 
 En el otorgamiento de concesiones de transporte foráneo, tendrán preferencia los Municipios del Estado y comunidades agrarias con alto grado de marginación, debidamente inscritas en el Registro Agrario Nacional.
 
-El procedimiento para el otorgamiento de concesiones de transporte foráneo, a que se refiere este Artículo, deberá contar con la anuencia aprobada por el cabildo o de la asamblea general de pobladores, ejidatarios o comuneros, según el caso.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-Cuando los Municipios y las comunidades agrarias sean los titulares de las concesiones, los servicios serán administrados por un Comité que designe el Cabildo o la asamblea general, según se trate de Municipios que eligen a sus autoridades por el sistema de partidos políticos o por sistemas normativos internos.
+El procedimiento para el otorgamiento de concesiones de transporte foráneo, a que se refiere este artículo, deberá contar con la anuencia aprobada por el cabildo, la asamblea comunitaria o de la asamblea general de pobladores, ejidatarios o comuneros, según el caso.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Cuando los Municipios, las comunidades indígenas y las comunidades agrarias sean los titulares de las concesiones, los servicios serán administrados por un Comité que designe el Cabildo, la asamblea comunitaria o la asamblea general, según se trate de Municipios que eligen a sus autoridades por el sistema de partidos políticos o por sistemas normativos internos.
 
 ###### Artículo 91.
 
@@ -3192,3 +3218,27 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2765.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 4; Y SE ADICIONA EL CUARTO PÁRRAFO AL ARTÍCULO 24 BIS, Y EL SEGUNDO PÁRRAFO A LA FRACCIÓN XLI AL ARTÍCULO 37 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2819.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 90 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2820.- MEDIANTE EL CUAL SE ADICIONAN LOS INCISOS C), D) Y E) A LA FRACCIÓN I DEL ARTÍCULO 3, CORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
