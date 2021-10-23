@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2021-10-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -3555,6 +3555,10 @@ Artículo 429 Bis B.- A efecto de que el menor sea adecuadamente escuchado, debe
 
 Dicho asistente será designado por el Sistema Estatal para el Desarrollo Integral de la Familia o la Dirección de Servicios Periciales del Tribunal y tendrá la facultad de solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga la guardia y custodia del menor dar cumplimiento a sus requerimientos.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Si en la escucha, la niña, niño o adolescente manifestaré la negativa de convivir con uno de los progenitores, el órgano jurisdiccional suspenderá provisionalmente la convivencia y ordenará las medidas y el desahogo de pruebas que considere necesarias para asegurar la estabilidad y desarrollo integral del mismo, levantando dicha medida una vez asegurado que no exista una situación de riesgo o las condiciones sean favorables para la convivencia.
+
 ###### Artículo 430.
 
 En los casos previstos en los artículos 394 y 395 cuando por cualquier circunstancia deje de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
@@ -3563,17 +3567,21 @@ En los casos previstos en los artículos 394 y 395 cuando por cualquier circunst
 
 (DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 432.
 
-A falta del padre y de la madre ejercerán la patria potestad sobre los hijos, los demás parientes a que se refieren el artículo 428 de este ordenamiento.
+A falta del padre y de la madre ejercerán la patria potestad sobre los hijos e hijas, los parientes a que se refiere la fracción II del artículo 428 de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 433.
 
 A fin de llamar al ejercicio de la patria potestad a las personas a que se refiere el artículo 428, el Juez deberá evaluar las circunstancias concretas y decidir en función de lo que sea más conveniente para el menor de que se trate, atendiendo, tanto los aspectos afectivos, como los económicos. En todo caso se privilegiarán los primeros sobre los segundos y se oirá al menor.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Tratándose de casos que deriven de un procedimiento penal por el delito de feminicidio cometido por el padre contra la madre, el Juez o Jueza deberá otorgar la patria potestad de forma preferente a los abuelos maternos, debiendo asegurarse que dicha determinación cumpla con el principio de interés superior de la niñez.
 
 ###### Artículo 434.
 
@@ -3745,9 +3753,9 @@ I. Cuando el que la ejerce es condenado expresamente a la pérdida de ese derech
 
 II. Cuando por las costumbres depravadas de quienes la ejercen, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad, o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la Ley penal. Se entiende por maltrato todo acto u omisión dirigido a dominar, someter, controlar o agredir física, psicoemocional o sexualmente al hijo o hija sujeto a la patria potestad;
 
-III. Por la exposición que el que, o los que, ejerzan la patria potestad hicieren de los sujetos a ella, o porque los dejen abandonados por más de seis meses.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-La patria potestad se pierde o se suspende en los casos de divorcio según las prevenciones del artículo 295 de este código.
+III. Por la exposición que el que, o los que, ejerzan la patria potestad hicieren de los sujetos a ella, o porque los dejen abandonados por más de seis meses.
 
 IV. (DEROGADA, P.O. 13 DE ABRIL DE 2018)
 
@@ -3985,9 +3993,11 @@ Los hijos mayores de edad son tutores de su padre o madre viudos.
 
 Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el juez elegirá el que le parezca más apto.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 504.
 
-El padre, y por muerte o incapacidad de éste la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
+El padre y la madre son en derecho tutores de sus hijas e hijos solteros o viudos que no tengan hijos o hijas o que teniéndolos no puedan desempeñar la tutela. Cuando ambos padres vivan convendrán entre sí quien de ellos desempeñará la tutela y en caso de desacuerdo, la jueza o el juez elegirá al que le parezca más apto o apta para el cargo; si solamente vive el padre o la madre, el supérstite desempeñará las funciones de la tutela, salvo impedimento legal o físico.
 
 ###### Artículo 505.
 
@@ -17134,3 +17144,19 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2728.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 459 Y EL ARTÍCULO 504 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2729.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 432; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 429 BIS B, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 433 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
