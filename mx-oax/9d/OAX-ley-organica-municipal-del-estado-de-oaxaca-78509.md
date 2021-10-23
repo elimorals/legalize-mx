@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-10-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -488,6 +488,10 @@ I Bis.- Aprobar y publicar dentro de los 90 días siguientes a su toma de posesi
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 Si durante la gestión municipal fuera urgente y necesario hacer alguna modificación a los reglamentos, así lo determinará El Cabildo por la mayoría de sus integrantes, dando conocimiento de ello al Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+l Ter.- Establecer en su reglamento interno, sanciones administrativas severas para el hostigamiento y el acoso sexual, imponerlas y garantizar su cumplimiento.
 
 II.- Proponer ante la Legislatura del Estado, iniciativas de leyes, decretos y acuerdos en materia municipal;
 
@@ -1209,13 +1213,17 @@ VIII.- La inejecución de sentencia en materia electoral.
 
 IX.- La violencia política ejercida por razón de género, decretada por un órgano jurisdiccional.
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+X.- Incumplir con las obligaciones de establecer, imponer o garantizar el cumplimiento de las sanciones administrativas para el hostigamiento y el acoso sexual.
+
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-X.- Desacatar las medidas sanitarias o protocolos de salud pública, tratándose de emergencias sanitarias, epidemias, o cualquier crisis de salud.
+XI.- Desacatar las medidas sanitarias o protocolos de salud pública, tratándose de emergencias sanitarias, epidemias, o cualquier crisis de salud.
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XI.- El no tomar protesta de ley a los concejales electos bajo el principio de representación proporcional y asignarle su regiduría correspondiente, conforme a lo establecido en la Ley de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
+XII.- El no tomar protesta de ley a los concejales electos bajo el principio de representación proporcional y asignarle su regiduría correspondiente, conforme a lo establecido en la Ley de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
 
 ###### ARTÍCULO 62.
 
@@ -1577,7 +1585,9 @@ II.- Tendrán el carácter de mandatarios del Ayuntamiento y desempeñarán las 
 
 III.- Vigilar la correcta aplicación del presupuesto de egresos, revisar y firmar los cortes de caja o estados financieros de la tesorería y la documentación de la cuenta pública municipal;
 
-IV.- Practicar, a falta de Agente del Ministerio Público, las primeras diligencias de averiguación previa, remitiéndolas al Ministerio Público del distrito judicial que le corresponda;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+IV.- Preservar, el lugar de los hechos, o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios; por lo que deberá dar aviso de manera inmediata a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público conforme a las disposiciones previstas en el Código Nacional de Procedimientos Penales y en la legislación aplicable.
 
 V.- Auxiliar a las autoridades ministeriales en las diligencias que correspondan;
 
@@ -4374,3 +4384,19 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2748.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN I TER AL ARTÍCULO 43 Y LA FRACCIÓN X RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 61, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2749.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
