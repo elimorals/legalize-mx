@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-129365"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-12"
-last_updated: "2021-05-15"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en la Décima Octava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -374,6 +374,10 @@ Será sancionado con pena de 10 a 20 años de prisión y de un mil a veinte mil 
 ###### Artículo 26.
 
 Se impondrá pena de 20 a 40 años de prisión y de dos mil a veinte mil días multa, al padre, madre, tutor o persona que tiene autoridad sobre quien se ejerce la conducta que entregue o reciba de forma ilegal, ilícita, irregular o incluso mediante adopción, a una persona menor de dieciocho años con el fin de abusar o explotar de ella sexualmente o cualquiera de las formas de explotación a que se refiere el artículo 10 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+La pena prevista en et presente artículo se aumentará en la mitad del mínimo a la mitad del máximo cuando las conductas a la (sic) que refieren las fracciones I y II sean cometidas en contra de una persona menor de edad, aun cuando se haya obtenido el consentimiento de ésta.
 
 En todos los casos en que se acredite esta conducta se declarará nula la adopción.
 
@@ -883,6 +887,8 @@ A solicitud de la víctima, quien encabece dicha dependencia o instancia, deber�
 
 ### CAPÍTULO I. DE LA COMISIÓN INTERSECRETARIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 2731 PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2021, SE ADVIERTE LAS REFORMAS A LAS FRACCIONES XI Y XIII DEL ARTÍCULO 74, A SABER: “XI. La Secretaría de Pueblos Indígenas y Afromexicano de Oaxaca; XIII. La Secretaría de Bienestar del Estado de Oaxaca;” SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO Y DEL ARTÍCULO 75.]</small>
+
 ###### Artículo 74.
 
 El Gobernador del Estado, conforme al artículo 5 de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, creará la Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas, que tendrá por objeto:
@@ -1228,3 +1234,9 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2426.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 21 BIS A LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
