@@ -4,7 +4,7 @@ identifier: "OAX-ley-contra-los-vicios-del-alcoholismo-y-de-las-drogas-18504"
 country: "mx"
 rank: "ley"
 publication_date: "1922-07-06"
-last_updated: "1970-09-05"
+last_updated: "2021-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 2757, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 1970.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 6 de julio de 1922.
 
@@ -590,3 +592,17 @@ Los Presidentes Municipales en cuya jurisdicción se cultive Mariguana, proceder
 ###### Artículo 4o.
 
 Los propietarios de tabernas ya establecidas conforme a las disposiciones anteriores a ésta ley, presentarán la manifestación de que trata el artículo 25 dentro de los diez días siguientes a la promulgación de la propia ley y sin necesidad de nueva licencia municipal; pero cumplirán con lo dispuesto en el artículo 27 poniendo en lugar visible la licencia que obre en su poder.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+La Sexagésima Cuarta Legislatura Constitucional del Honorable Congreso del Estado de Oaxaca, con las facultades que le confiere el artículo 59 de la Constitución Política del Estado Libre y Soberano de Oaxaca. Abroga la Ley contra Vicios del Alcoholismo y de las Drogas Heroicas.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2757.- MEDIANTE EL CUAL SE ABROGA LA LEY CONTRA VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS”.]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
