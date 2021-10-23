@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-participacion-ciudadana-para-el-estado-de-oaxaca-89597"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2021-08-28"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto del 2012.
 
@@ -167,9 +167,11 @@ Todo servidor público estatal o municipal tiene, en el ámbito de sus respectiv
 
 Las autoridades municipales y estatales en base a la disposición presupuestal, están obligadas a promover entre los servidores públicos, cursos de formación y sensibilización para dar a conocer los mecanismos de participación ciudadana y la cultura de la participación ciudadana en general.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 11.
 
-Las autoridades municipales y estatales en base a la disposición presupuestal, promoverán entre los habitantes y ciudadanos de Oaxaca, a través de campañas informativas y formativas, programas para la formación y la cultura de la participación ciudadana en general, así como la difusión de los mecanismos de participación ciudadana que establece esta Ley.
+Las autoridades municipales y estatales con base a la disposición presupuestal, promoverán entre los habitantes y ciudadanos de Oaxaca, a través de campañas informativas y formativas, programas para la formación y la cultura de la participación ciudadana en general, así como la difusión de los mecanismos de participación ciudadana que establece esta Ley, pudiendo ser presenciales o virtuales con el uso de tecnologías y dispositivos digitales.
 
 ## TÍTULO SEGUNDO.
 
@@ -437,6 +439,10 @@ La audiencia pública, es el acto que se realiza para que los gobernados de mane
 
 Las autoridades administrativas estatales y municipales, en el ámbito de su competencia, deberán celebrar audiencia pública, por lo menos, una vez cada cuatro meses, durante el periodo de su gobierno.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+En las audiencias públicas darán prioridad a grupos sociales en condición de vulnerabilidad.
+
 ###### ARTÍCULO 38.
 
 La audiencia será presidida a nivel Estatal por el Gobernador del Estado o el Secretario de Despacho que aquél designe. A nivel municipal la audiencia será presidida por el Presidente Municipal. En ambos casos, quien presida la audiencia será asistido por los servidores públicos que considere necesarios.
@@ -455,9 +461,11 @@ La convocatoria a la audiencia deberá publicitarse por el Gobernador del Estado
 
 La convocatoria que emita el Gobernador del Estado deberá publicarse de manera inmediata, en el Periódico Oficial del Estado, así como, en el portal electrónico oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 42.
 
-La convocatoria que emita el Presidente Municipal deberá publicarse de manera inmediata por lo menos durante tres días, en los estrados de la oficina municipal y por los medios que se acostumbren o se consideren pertinentes, para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría Municipal. En los casos que sea factible, la convocatoria deberá de difundirse a través del portal electrónico oficial del municipio.
+La convocatoria que emita el Presidente Municipal deberá publicarse de manera inmediata por lo menos durante ocho días, en los estrados de la oficina municipal y por los medios que se acostumbren o se consideren pertinentes, para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría Municipal. En los casos que sea factible, la convocatoria deberá de difundirse a través del portal electrónico oficial del municipio.
 
 ###### ARTÍCULO 43.
 
@@ -531,9 +539,11 @@ La organización e implementación de todo lo conducente para la celebración de
 
 El incumplimiento de lo dispuesto en este capítulo será sancionado conforme a lo que dispongan esta Ley, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 53.
 
-El Ayuntamiento deberá emitir una convocatoria pública quince días naturales previos a la celebración del Cabildo en sesión abierta y deberá publicitarse de manera inmediata por lo menos durante tres días, en los estrados de la oficina municipal y por los medios que se acostumbren o se consideren pertinentes, para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría Municipal.
+El Ayuntamiento deberá emitir una convocatoria pública quince días naturales previos a la celebración del Cabildo en sesión abierta y deberá publicitarse de manera inmediata por lo menos durante cinco días, en los estrados de la oficina municipal y por los medios que se acostumbren o se consideren pertinentes, para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría Municipal.
 
 ###### ARTÍCULO 54.
 
@@ -886,3 +896,11 @@ P.O. 28 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2587.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 1 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2789.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 11, EL ARTÍCULO 42 Y EL ARTÍCULO 53; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
