@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-del-gobierno-del-85760"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-28"
-last_updated: "2020-09-05"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de enero de 2012.
 
@@ -123,9 +123,9 @@ I. Las aportaciones a cargo del Gobierno del Estado de Oaxaca, equivalentes al 1
 
 II. Las cuotas a cargo de los trabajadores, equivalentes al 9% de su sueldo base;
 
-III. Las cuotas de los jubilados, equivalentes al 9% de su pensión;
+III. (DEROGADA, P.O. 23 DE OCTUBRE DE 2021)
 
-IV. Las cuotas de los pensionados, equivalentes al 9% de su pensión;
+IV. (DEROGADA, P.O. 23 DE OCTUBRE DE 2021)
 
 V. Las aportaciones extraordinarias que para estos casos fije en sus Presupuestos el Gobierno del Estado de Oaxaca;
 
@@ -189,7 +189,7 @@ La edad, el parentesco y los demás requisitos que se exigen en esta Ley al Trab
 
 Por lo que hace a las cuotas de los trabajadores a que se refiere la fracción II del artículo 6 de esta Ley, las dependencias harán su entrega quincenal a la Oficina de Pensiones, debiéndose encargar de hacer los respectivos descuentos del nueve por ciento que corresponde a los trabajadores, en el momento de cubrirles sus remuneraciones.
 
-Por lo que respecta a los jubilados y pensionados, la Oficina de Pensiones descontará del monto de sus respectivas pensiones, las cuotas a las que se refieren las fracciones III y IV del artículo 6 de esta Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
 Asimismo, el Gobierno del Estado de Oaxaca hará su entrega quincenal a la Oficina de Pensiones del total de aportaciones a que se refiere el artículo 6 correspondiente a trabajadores, jubilados y pensionados.
 
@@ -361,7 +361,7 @@ b) Que el trabajador, jubilado o pensionado haya vivido con la concubina los cin
 
 IV. A falta de los deudos señalados, los ascendientes del trabajador, jubilado o pensionado, si existe la dependencia económica.
 
-Si el fallecimiento del trabajador, jubilado o pensionado ocurre como consecuencia de las causas señaladas en el Artículo 42 de esta Ley, no dará derecho a pensión.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
@@ -449,9 +449,11 @@ VI. La pensión que se conceda a los deudos del Jubilado será el 80% por ciento
 
 VII. Cuando fallezca un pensionado, los deudos percibirán el 80% de la pensión que recibía el pensionado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 52.
 
-La cuota diaria de las pensiones que se concedan a los trabajadores de confianza no podrá ser inferior a un salario mínimo vigente en la capital del Estado de Oaxaca, ni podrá exceder de tres punto cinco veces dicho salario mínimo. los límites señalados también serán aplicados a la suma de las pensiones que, si así corresponde, reciban los deudos de los trabajadores, jubilados o pensionados de confianza.
+La cuota diaria de las pensiones que se concedan a los trabajadores de confianza no podrá ser inferior a un salario mínimo vigente, ni podrá exceder del monto que por concepto de jubilación se le otorga a un trabajador de base. Los límites señalados también serán aplicados a la suma de las pensiones que, si así corresponde, reciban los deudos de los trabajadores, jubilados o pensionados de confianza.
 
 ###### ARTÍCULO 53.
 
@@ -463,7 +465,9 @@ Todas las pensiones se incrementarán por acuerdo del Consejo Directivo; dicho i
 
 Al monto resultante de la pensión señalada en el artículo anterior, se integrarán las prestaciones siguientes:
 
-I. Jubilados: tratándose solo de aquéllos que fueron trabajadores de base se integrarán la previsión social múltiple, despensa, vida cara, quinquenios, aguinaldo, estímulo del día del jubilado, día de las madres y canasta navideña.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2021)</small>
+
+I. Jubilados: tratándose solo de aquéllos que fueron trabajadores de base o confianza se integrarán la previsión social múltiple, despensa, vida cara, quinquenios, aguinaldo, estímulo del día del jubilado, día de las madres y canasta navideña.
 
 El aguinaldo para jubilados será equivalente a 70 días de la cuantía diaria; y
 
@@ -851,7 +855,7 @@ SEXTO. Las aportaciones a cargo del Gobierno del Estado de Oaxaca equivalentes a
 
 SÉPTIMO. El trabajador que haya causado baja e ingrese nuevamente, se le aplicarán las disposiciones previstas en los artículos cuarto y octavo transitorios siempre y cuando permanezcan sus aportaciones en el Fondo de Pensiones.
 
-OCTAVO. A partir de que los trabajadores incorporados antes de la vigencia de esta Ley adquieran el carácter de Jubilados o pensionados, contribuirán con una cuota equivalente al nueve por ciento de su pensión, importe que la Oficina de Pensiones retendrá, valiéndose del procedimiento señalado en el artículo 18 de esta Ley, debiéndose encargar de hacer los descuentos respectivos al momento de cubrirles sus numerales.
+OCTAVO. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2021)
 
 Por lo que respecta a las aportaciones del 18.5% que el Gobierno del Estado se obliga a realizar al Fondo de Pensiones, estas las enterará con apego a lo señalado en el artículo 18 de esta Ley.
 
@@ -940,3 +944,29 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1605.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 64 DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2770.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 52 Y LA FRACCIÓN I DEL ARTÍCULO 54 DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2772.- MEDIANTE EL CUAL SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 6, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 18 Y EL PÁRRAFO PRIMERO DEL OCTAVO TRANSITORIO DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2773.- MEDIANTE EL CUAL SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
