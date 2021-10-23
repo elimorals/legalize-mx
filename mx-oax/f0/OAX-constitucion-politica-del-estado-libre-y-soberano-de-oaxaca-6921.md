@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-10-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -116,6 +116,10 @@ El acceso a la ciencia y al adelanto tecnológico es un derecho común, así com
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 El Estado garantizará a los pueblos y comunidades indígenas y afromexicanas el derecho a la libertad de expresión y a recibir información pública de oficio.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+El Estado reconoce, promoverá e incentivará las prácticas de transparencia comunitaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -391,9 +395,9 @@ Las autoridades de los municipios y comunidades preservarán el tequio como expr
 
 En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud, este implicará la participación de todos los órganos de poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo, definirá la competencia del Estado y de los Municipios en materia de salubridad local. La Ley garantizará la extensión progresiva, cuantitativa y cualitativa de los servicios de Salud, con el objeto de garantizar la atención integral a la población oaxaqueña que no cuenta con seguridad social.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-En el Estado de Oaxaca se protege y garantiza el derecho a la vida. Todo ser humano desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales hasta su muerte natural. Los habitantes del Estado gozarán de todos los derechos y libertades consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forma parte, esta Constitución y las leyes que de ella emanen, sin distinción alguna de su origen, raza, color, sexo o preferencia sexual, edad, idioma, religión, opinión política, condición o actividad social.
+En el Estado de Oaxaca se protege y garantiza el derecho a la vida. La vida es un derecho inherente a toda persona, los habitantes del Estado gozaran de todos los derechos y libertades consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forma parte, esta Constitución y las leyes que de ella emanen, sin distinción alguna de su origen, raza, color, sexo, preferencia sexual, identidad de género, edad, idioma, religión, opinión política, condición o actividad social.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -570,6 +574,10 @@ c) Las bases para promover la conservación, así como prevenir y evitar maltrat
 d) Las medidas necesarias para atender el control de plagas y riesgos sanitarios, y;
 
 e) Las facilidades para quienes busquen dar albergue y resguardo a animales en estado de abandono y los que hayan sido objeto de maltrato.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Toda persona tiene derecho a la buena administración, a la adopción de medidas destinadas a la correcta organización de los bienes y servicios públicos, a recibir los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad, calidad, eficacia y eficiencia. El Estado garantizará su cumplimiento a través de la ley respectiva.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2575,13 +2583,21 @@ XXIX. Respetar y garantizar la implementación de los derechos de los pueblos y 
 
 Podrá realizar consultas a los pueblos y comunidades indígenas y afromexicanas, garantizando el principio de consentimiento libre, previo e informado, antes de adoptar medidas Administrativas y de otra índole, que les afecten o sean susceptibles de afectarles, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-Deberá prever y proveer los recursos que de manera transversal serán invertidos en los pueblos y comunidades indígenas del Estado de Oaxaca, y;
+Deberá prever y proveer los recursos que de manera trasversal serán invertidos en los pueblos y comunidades indígenas del Estado de Oaxaca;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-XXX. Establecer las medidas necesarias para preservar el medio ambiente y procurar el equilibrio ecológico.
+XXX. Establecer las medidas necesarias para preservar el medio ambiente y procurar el equilibrio ecológico;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XXXI. Elaborar, publicar y actualizar el Atlas Estatal de Riesgos de forma periódica en un termino máximo de cinco años, conforme a los criterios emitidos por la Federación; y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XXXII. Preservar la Guelaguetza como la principal festividad tradicional de los pueblos y comunidades del Estado de Oaxaca y como patrimonio cultural intangible de los pueblos y comunidades indígenas de Oaxaca; así como garantizar su protección, difusión y fomento, conforme a la legislación de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2653,11 +2669,11 @@ Se exceptúan de lo dispuesto en las fracciones XII y XIII, la comunicación de 
 
 Para el despacho de los asuntos que son a cargo del Poder Ejecutivo del Estado, habrá los secretarios y demás funcionarios que las necesidades de la Administración Pública demanden, en los términos de la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 83.
 
-La ley establecerá los requisitos para ser servidores públicos en el nivel de mandos medios y superiores del Poder Ejecutivo, bajo los principios de idoneidad, experiencia, honorabilidad, equidad de género, profesionalismo, independencia, imparcialidad, capacidad y no discriminación.
+La ley establecerá los requisitos para ser servidores públicos en el nivel de mandos medios y superiores del Poder Ejecutivo, bajo los principios de idoneidad, experiencia, honorabilidad, equidad de género, profesionalismo, independencia, imparcialidad, capacidad y no discriminación. Los mandos superiores deberán ser ciudadanos nativos o ciudadanas nativas del Estado de Oaxaca o con residencia efectiva y comprobable no menor de tres años inmediatamente anteriores al día de la designación.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -3321,13 +3337,13 @@ Para ser Alcalde se requiere haber cumplido dieciocho años antes del día de su
 
 Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgánica respectiva establecerá el número que deba haber en cada Municipio, las funciones y atribuciones que les correspondan.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-IX.- Cada ayuntamiento procurará contar con una Regiduría de Derechos Humanos encargada de la protección, defensa, promoción, estudio, divulgación y vigilancia de los derechos humanos. Asimismo, procurará contar con una Regiduría de Equidad y Género, que tendrá como objetivo promover la participación igualitaria de las mujeres en los ámbitos de la vida social, económica, política, cultural y familiar de la comunidad y la eliminación de todo acto discriminatorio que contravenga la igualdad de género.
+IX.- Cada Ayuntamiento procurará contar con una Regiduría de Derechos Humanos encargada de la protección, defensa, promoción, estudio, divulgación y vigilancia de los derechos humanos. Asimismo, deberá contar con una Regiduría de Igualdad de Género, que tendrá como objetivo promover la participación igualitaria de las mujeres en los ámbitos de la vida social, económica, política, cultural y familiar de la comunidad y la eliminación de todo acto discriminatorio que contravenga la igualdad de género, y los derechos humanos de las mujeres; y
 
-> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IX], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-Los Municipios, deberán crear un área específica de atención integral a la juventud, que se encargará de garantizar a las y los jóvenes, su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, orientación sexual, raza, circunstancia social o de salud, religión o cualquier otra.
+X.- Los Ayuntamientos del Estado deberán elaborar, publicar y actualizar sus respectivos Atlas Municipales de Riesgos, de forma periódica, en un término máximo de cinco años, conforme a los criterios emitidos por la Federación.
 
 > <small>(REFORMADO SU FORMATO, P.O. 16 DE ENERO DE 2018)</small>
 
@@ -3427,13 +3443,17 @@ V. Las resoluciones del Órgano Garante son vinculatorias, definitivas e inataca
 
 VI. Promover entre los servidores públicos y la población en general la cultura de la transparencia y el acceso a la información, y
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+VII. Preservar e incentivar las prácticas de transparencia comunitaria.
+
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-VII. Ser integrante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
+VIII. Ser integrante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-VIII. Las demás que señale; la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y Acceso a la Información Pública, esta Constitución Política y las leyes aplicables en la materia.
+IX. Las demás que señale; la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y Acceso a la Información Pública, esta Constitución Política y las leyes aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -3455,11 +3475,17 @@ El Ministerio Público se organizará en una Fiscalía General del Estado de Oax
 
 Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden común; y por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de estos hechos que las Leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas e intervendrá en todos los asuntos que la Ley determine y que se rige en el ejercicio de sus funciones por los principios de buena fe, autonomía, certeza, legalidad, objetividad y pluriculturalidad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
 
-El titular del Ministerio Público será el Fiscal General del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-Para ser Fiscal General del Estado de Oaxaca, se requiere: ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar, con antigüedad mínima de diez años con título profesional de licenciado en derecho; gozar de buena reputación; no haber sido condenado por delito doloso.
+La titularidad del Ministerio Público recae en la o el Fiscal General del Estado de Oaxaca.
 
-El Fiscal General del Estado de Oaxaca durará en su encargo siete años y será designado y removido conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Para ser Fiscal General del Estado de Oaxaca, se requiere: ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar con antigüedad mínima de diez años con título profesional de licenciatura en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+El cargo de Fiscal General del Estado de Oaxaca durará siete años, y cada periodo será desempeñado de manera alternada entre una mujer y un hombre. Su designación y remoción será conforme a lo siguiente:
 
 I.- A partir de la ausencia definitiva del Fiscal General del Estado de Oaxaca, el Congreso del Estado, contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los Diputados presentes, la cual enviará al Ejecutivo del Estado.
 
@@ -6128,3 +6154,83 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Quedan derogadas todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2671.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Congreso del Estado contará con un término de 160 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, para armonizar con las leyes secundarias.
+
+CUARTO.- Los Ayuntamientos de los Municipios deberán prever los recursos presupuestales para el funcionamiento y operación de la Regiduría de Igualdad de Género a que se refiere el presente Decreto, conforme a lo previsto en su respectivo Presupuesto de Egresos del ejercicio fiscal correspondiente y la legislación de la materia.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2673.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XXIX Y LA FRACCIÓN XXX DEL ARTÍCULO 80, LA FRACCIÓN IX DEL ARTÍCULO 113; Y SE ADICIONA LA FRACCIÓN XXXI AL ARTÍCULO 80, Y LA FRACCIÓN X AL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. - El Ejecutivo del y los Municipios tendrán un plazo máximo de trecientos (sic) sesenta y cinco días naturales contando a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, para elaborar o actualizar sus respectivos Atlas de Riesgos.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2677.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXX Y XXXI DEL ARTÍCULO 80; Y SE ADICIONA UNA FRACCIÓN XXXII AL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2742.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Honorables (sic) Congreso del Estado de Oaxaca deberá emitir la legislación secundaria a que se refiere el presente Decreto, en el plazo de los trescientos sesenta y cinco días hábiles contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2736.- MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO DÉCIMO SEGUNDO, RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 3; Y SE ADICIONA UNA FRACCIÓN VII , RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES DEL SEXTO PÁRRAFO DEL APARTADO C DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Honorable Congreso del Estado de Oaxaca, realizará las adecuaciones legales en la legislación estatal para armonizar su contenido con lo dispuesto en el presente Decreto, en el plazo de 90 días contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2745.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 83 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía, que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2747.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO, TODOS DEL APARTADO D DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+CUARTO.- El Honorable Congreso del Estado de Oaxaca deberá realizar las adecuaciones jurídicas en la legislación estatal que tengan por objeto armonizar lo dispuesto en el presente Decreto, en el plazo de los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2797.- MEDIANTE EL CUAL SE REFORMA EL OCTAVO (SIC) PÁRRAFO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
