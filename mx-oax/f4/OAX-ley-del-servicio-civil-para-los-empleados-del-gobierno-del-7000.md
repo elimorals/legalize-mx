@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2021-03-13"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -735,9 +735,11 @@ ARTICULO 68 TER.- Los padres o madres de menores diagnosticados con cualquier ti
 
 DE LAS PRESCRIPCIONES.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 69.
 
-Las acciones que nazcan de esta Ley, del nombramiento otorgado a favor de los empleados al servicio de los Poderes del Estado de Oaxaca y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, con excepción de los casos previstos en los artículos siguientes:
+Las acciones que nazcan de esta Ley, del nombramiento otorgado a favor de los empleados al servicio de los Poderes del Estado de Oaxaca y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, contado a partir del día siguiente a la fecha en que la obligación sea exigible, con excepción de los casos previstos en los artículos siguientes:
 
 ###### ARTICULO 70.
 
@@ -745,7 +747,9 @@ Prescribirán en un mes:
 
 I.- Las acciones para pedir la revocación de la aceptación de un nombramiento hecho por error, contando el término a partir del momento en que el error sea conocido.
 
-II.- Las acciones de los funcionarios para suspender a los empleados por causas justificadas y para disciplinar las faltas de éstos, contando el plazo desde el momento en que sean conocidas las faltas.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+II.- Las acciones de los funcionarios para suspender a los empleados por causas justificadas y para disciplinar las faltas de éstos, contando el plazo desde el día siguiente a la fecha en que se tenga conocimiento de la causa de suspensión o de la falta.
 
 III.- Las acciones de los empleados para volver a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
@@ -1122,3 +1126,11 @@ P.O. 13 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 2275.- MEDIANTE EL CUAL SE, ADICIONA EL ARTÍCULO 21 SEXIES A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2771.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 69 Y LA FRACCIÓN II DEL ARTÍCULO 70 DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
