@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2021-10-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -181,17 +181,23 @@ XI.- Centros de reunión y espectáculos;
 
 XII.- Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza o estéticas y otros similares;
 
-XIII.- Tintorerías, lavanderías y lavaderos públicos;
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-XIV.- Establecimiento (sic) para el hospedaje;
+XIII.- Establecimientos dedicados a la Cirugía Estética, Plástica y Reconstructiva;
 
-XV.- Transporte Estatal y Municipal;
+XIV.- Tintorerías, lavanderías y lavaderos públicos;
 
-XVI.- Gasolinerías;
+XV.- Establecimiento (sic) para el hospedaje;
 
-XVII.- Prevención y control de la rabia en animales y seres humanos; y,
+XVI.- Transporte Estatal y Municipal;
 
-XVIII.- Las demás materias que determine esta Ley y otras disposiciones legales aplicables.
+XVII.- Gasolinerías;
+
+XVIII.- Prevención y control de la rabia en animales y seres humanos; y,
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+XIX.- Las demás materias que determinen esta Ley y otras disposiciones legales aplicables.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -931,15 +937,19 @@ VIII.- Procedimientos que permitan la participación activa de la familia en la 
 
 IX.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2019)
 
-X.- Detección del cáncer cérvico-uterino y de mama, en todas las unidades de atención a población abierta.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+X.- Acciones para promover el establecimiento de Bancos de Leche Humana;
+
+X (SIC).- Detección del cáncer cérvico-uterino y de mama, en todas las unidades de atención a población abierta.
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2018)</small>
 
-XI. Establecer y promover acciones para la prevención y atención del cáncer de próstata y testicular.
+XI.- Establecer y promover acciones para la prevención y atención del cáncer de próstata y testicular.
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-XII. El fomento de la maternidad y paternidad responsables, especialmente en lo referente a la prevención de embarazos no planeados y no deseados.
+XII.- El fomento de la maternidad y paternidad responsables, especialmente en lo referente a la prevención de embarazos no planeados y no deseados.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1417,9 +1427,13 @@ IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parati
 
 V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos se coordinará con la Secretaría de Salud y con otras dependencias competentes en esta materia;
 
-VI.- Fiebre amarilla, dengue y otras enfermedades vírales transmitidas por artrópodos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishemaniasis, tripanosomiasis, oncocercosis;
+VI.- Fiebre amarilla, dengue y otras enfermedades transmitidas por vectores;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishemaniasis, tripanosomiasis, oncocercosis y demás enfermedades transmitidas por vectores;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -1540,6 +1554,34 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 ###### ARTICULO 120.
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+#### Sección Primera. De las Enfermedades Transmitidas por Vectores
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 120 Bis.
+
+La· Secretaría de Salud del Estado, en coordinación con las autoridades sanitarias federales, elaborará y ejecutará programas o campañas, permanentes o temporales, para el control o erradicación de aquellas enfermedades transmisibles por vectores en el Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 120·Ter.- En la prevención, control y erradicación de las enfermedades transmisibles por vectores en el Estado, la Secretaría de Salud del Estado en coordinación con la Secretaría de Salud del Gobierno Federal, los Municipios y las autoridades competentes de la Administración pública estatal y federal deberán realizar lo siguiente:
+
+I. Establecer programas de coordinación e intersectoriales para la prevención y el control de los vectores;
+
+II. Establecer en coordinación con la Secretaría de Medio Ambiente, Energías y Desarrollo Sostenibles, programas e insumos sostenibles para la prevención, y el control de los vectores;
+
+III. Establecer de (sic) programas y sistemas de información para la vigilancia entomológica; así como para la supervisión y evaluación del control de vectores, incluido el monitoreo y el manejo de la resistencia a los insecticidas, a fin de guiar los programas y las actividades de control de vectores;
+
+IV. Implementar esquemas, técnicas y herramientas sostenibles e innovadoras de control de vectores;
+
+V. Realizar, en coordinación con los Ayuntamientos y la sociedad en general, programas de limpieza y descacharrización para evitar la proliferación y surgimiento de vectores;
+
+VI. Coadyuvar en las acciones para realizar mejoras en el agua y saneamiento, y
+
+VII. Establecer programas permanentes de capacitación y profesionalización a los entomólogos, técnicos de entomología y trabajadores· de salud pública que lleven a cabo el control de vectores.
 
 ### CAPITULO UNICO
 
@@ -1935,7 +1977,7 @@ II.- Organizar campañas educativas tendientes a erradicar la violencia intrafam
 
 III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
@@ -2427,11 +2469,23 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse a la 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas oficiales que dicte la Secretaría de Salud del Estado.
 
-### CAPITULO XIV
+### CAPITULO XIII BIS. DE LOS ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA ESTETICA, PLASTICA Y RECONSTRUCTIVA
 
-TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+ARTICULO 229 BIS.- La cirugía plástica, estética y reconstructiva, relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, o con efectos antienvejecimiento, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por especialistas en cirugía plástica, estética y reconstructiva certificados de conformidad a la Ley General de Salud.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 229 TER.- Las sociedades, asociaciones, colegios o federaciones de especialistas dedicados a la cirugía plástica, estética y reconstructiva, deberán poner a disposición de la Secretaría de Salud del Estado un listado que contenga los nombres, y datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos certificados referido en este capítulo, y será del conocimiento público sus certificados o títulos de especialización vigentes, así como el o los procedimientos médico-quirúrgicos que lleven a cabo.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 229 QUATER.- El funcionamiento de los establecimientos señalados en este capítulo deberán apegarse a lo establecido en la Ley General de Salud y su reglamento, las Normas Oficiales Mexicanas que se encuentren vigentes y sean aplicables relativas a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, las normas técnicas correspondientes y lo que establezca esta ley. Corresponde a la autoridad sanitaria ejercer el control sanitario de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 229 QUINQUIES.- La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
 
 ###### ARTICULO 225.
 
@@ -2449,7 +2503,9 @@ La Secretaría de Salud del Estado, una vez terminada la edificación del centro
 
 El funcionamiento de los establecimientos a que se refiere el artículo 225 de esta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV
+
+TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2463,11 +2519,13 @@ Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2487,7 +2545,7 @@ III.- Lavadero público, el establecimiento al cual acuden los interesados para 
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2507,7 +2565,7 @@ La Secretaría de Salud del Estado realizará la verificación sanitaria que con
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar cumplimiento a lo establecido en el artículo anterior.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2521,7 +2579,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más municipios del Estado de Oaxaca no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales que para tal efecto se emitan.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2535,7 +2593,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad y de tipo sanitario que establezcan las disposiciones legales aplicables, así como los preceptos reglamentarios y las normas oficiales correspondientes.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2579,7 +2637,9 @@ El Sistema Estatal de Salud, mantendrá campañas de orientación a la població
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO PRIMERO
+### CAPITULO III. CERTIFICADOS
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 243.
 
@@ -2635,7 +2695,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación Fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
 ###### ARTICULO 251.
 
@@ -2709,7 +2769,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO TERCERO
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 259.
 
@@ -2735,7 +2795,7 @@ V. Los demás que determine la Ley General de Salud, esta Ley y demás disposici
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo, una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto sí se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
 
 El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
 
@@ -2785,7 +2845,7 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO CUARTO
+### CAPITULO TERCERO
 
 ###### ARTICULO 264.
 
@@ -2817,9 +2877,7 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+### CAPITULO CUARTO
 
 ###### ARTICULO 271.
 
@@ -2863,7 +2921,7 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2913,7 +2971,7 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2935,11 +2993,9 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(REFORMADA SU NUMERACION, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
-DE SEGURIDAD Y SANCIONES
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 295.
 
@@ -2957,7 +3013,7 @@ Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vig
 
 ###### ARTICULO 297.
 
-El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las mediadas de seguridad y las sanciones correspondientes en esos casos.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3059,7 +3115,9 @@ En el caso de que los productos recogidos en procedimientos de muestreo o verifi
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS
+
+DE SEGURIDAD Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3175,7 +3233,7 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3289,6 +3347,10 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004)</small>
 
+### CAPITULO V. PRESCRIPCION
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 331.
 
 Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte del Gobierno del Estado se sujetará a los siguientes criterios:
@@ -3335,7 +3397,7 @@ XI.- Buena fe.
 
 ###### ARTICULO 333.
 
-La Secretaría de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado y los municipios con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3718,3 +3780,31 @@ PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publica
 SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. - El Poder Ejecutivo contará con un plazo de 60 días naturales para emitir y publicar en el Periódico Oficial del Estado los Lineamientos a que refiere el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2767.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN X RECORRIÉNDOSE LAS SUBSECUENTES AL ARTICULO 63, DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2768.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 107; Y SE ADICIONA LA SECCIÓN PRIMERA DENOMINADA "DE LAS ENFERMEDADES TRANSMITIDAS POR VECTORES" AL CAPÍTULO II "ENFERMEDADES TRANSMISIBLES" DEL TÍTULO OCTAVO "PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES"; QUE CONTIENE LOS ARTÍCULOS 120 BIS Y 120 TER DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud deberán (sic) implementar los programas y estrategias necesarias para dar cumplimiento a lo establecido en el artículo 120 Ter de esta Ley.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2822.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XIII AL APARTADO B, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 4, Y SE ADICIONA EL CAPÍTULO XIII BIS AL TÍTULO DÉCIMO SEGUNDO COMPUESTO POR LOS ARTÍCULOS 229 BIS, 229 TER, 229 QUÁTER Y 229 QUINQUIES A LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
