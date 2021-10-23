@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2021-01-16"
+last_updated: "2021-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -975,11 +975,13 @@ III.- El parentesco de consanguinidad legítima o natural, sin limitación de gr
 
 IV.- El parentesco de afinidad en la línea recta, sin limitación alguna;
 
-V.- El adulterio habido entre las personas que pretenden contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2021)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+VII.- La fuerza o miedo grave.
 
 VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2007)
 
@@ -1249,9 +1251,7 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 230. La acción de nulidad que dimana del parentesco de afinidad en línea recta, puede ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
-231.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 144, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
-
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+231.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2021)
 
 232.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 
@@ -1867,7 +1867,9 @@ V.- Por confesión judicial directa y expresa.
 
 359.- La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+I.- En los casos de estupro o violación, cuando la época del delito coincida con la de la concepción;
 
 II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
 
@@ -13328,3 +13330,9 @@ P.O. 16 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor con efectos retroactivos el día veintinueve de octubre del año dos mil veinte, independientemente de su fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/1067/2021 XIV P.E., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
