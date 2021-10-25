@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2021-09-29"
+last_updated: "2021-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2021.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -4053,7 +4053,13 @@ XVIII. Servicios específicos de información, bases de datos, ponencias, asesor
 
 Las contrataciones a que se refiere este artículo, preferentemente se realizarán mediante el procedimiento de invitación a cuando menos tres proveedores o contratistas, salvo que ello no fuere posible o no resultare conveniente.
 
-Cuando de la investigación de mercado se determine la conveniencia de continuar con los prestadores de servicios y siempre que se mantengan los mismos precios o que el incremento pretendido guarde relación con el Índice Nacional de Precios al Consumidor, se les podrá recontratar hasta por dos ocasiones consecutivas sin procedimiento de adjudicación.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN DE PRESTADORES DE SERVICIOS, D.O.F. 25 DE OCTUBRE DE 2021)</small>
+
+Cuando de la investigación de mercado se determine la conveniencia de continuar con los prestadores de servicios y siempre que se mantengan los mismos precios o que el incremento pretendido guarde relación con el Índice Nacional de Precios al Consumidor, con la inflación específica del sector de que se trate, se les podrá recontratar hasta por dos ocasiones consecutivas sin procedimiento de adjudicación.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN DE PRESTADORES DE SERVICIOS, D.O.F. 25 DE OCTUBRE DE 2021)</small>
+
+En casos especiales, debidamente justificados, se podrá recontratar a los prestadores de servicios, aun cuando el incremento pretendido sea superior al índice señalado en el párrafo anterior, siempre y cuando se aseguren las mejores condiciones disponibles en el mercado para el Consejo.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 13 DE FEBRERO DE 2017)</small>
 
@@ -14008,3 +14014,11 @@ PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil vein
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. Las solicitudes de licencia que se encuentren en trámite a la entrada en vigor del presente Acuerdo serán atendidas hasta su conclusión de conformidad con las disposiciones con las que fueron iniciadas.
+
+D.O.F. 25 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN DE PRESTADORES DE SERVICIOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
