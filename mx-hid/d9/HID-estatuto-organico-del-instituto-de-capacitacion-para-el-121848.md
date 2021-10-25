@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-instituto-de-capacitacion-para-el-121848"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-06-05"
-last_updated: "2017-06-05"
+last_updated: "2021-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 25 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2021 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 5 de junio de 2017.
 
@@ -696,3 +698,19 @@ Lic. Aidée Skinfield Escamilla
 Directora General ICATHI.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Estatuto Orgánico, del Instituto de Capacitación para el Trabajo del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo con fecha 5 de junio de 2017, derogándose cualquier otra disposición que se oponga a lo previsto en el presente Estatuto Orgánico.
+
+TERCERO. A partir de la entrada en vigor de este Acuerdo, el Instituto deberá emitir sus manuales de organización y procedimientos en un plazo de 90 días hábiles.
+
+CUARTO. En tanto no entre en vigor el presente Acuerdo, se continuarán aplicando los documentos normativos vigentes.
+
+QUINTO. El presente Acuerdo deberá inscribirse en el Registro Público de Organismos Descentralizados en términos de lo que establezca la Secretaría de Finanzas Públicas, del Poder Ejecutivo del Estado de Hidalgo.
