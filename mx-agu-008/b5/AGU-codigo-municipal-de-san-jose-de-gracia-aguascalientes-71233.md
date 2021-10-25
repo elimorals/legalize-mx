@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2021-10-18"
+last_updated: "2021-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2021.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -1788,6 +1788,46 @@ XXVII. Coordinar el Departamento de Atención Ciudadana.
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE OCTUBRE DE 2019)</small>
 
 XXVIII. Las demás que señalen las leyes, el presente código, la reglamentación municipal o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 143 A.- Al frente de la Jefatura de Gabinete habrá un profesionista, que se denominará Jefe de Gabinete, servidor público que será nombrado por el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 143 B.- Para ser Jefe de Gabinete de San José de Gracia, se deberán reunir los siguientes requisitos:
+
+I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del Municipio de San José de Gracia;
+
+II. Contar con título de licenciatura debidamente registrado;
+
+III. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad técnica para desempeñar dicho cargo, a juicio del Presidente;
+
+IV. No estar inhabilitado para desempeñar cargo, empleo o comisión pública;
+
+V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y
+
+VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2021)</small>
+
+ARTÍCULO 143 C.- Corresponde al Jefe de Gabinete el ejercicio de las siguientes facultades:
+
+I. Colaborar con las dependencias de la Administración Pública Municipal, en la instrumentación, supervisión y control de los presupuestos de ingresos y egresos, en el ámbito de su competencia;
+
+II. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que sean señalados por delegación o le correspondan por suplencia;
+
+III. Proponer al Presidente el esquema de sectorización de la Administración Pública Municipal;
+
+IV. Conducir la política del Presidente en la coordinación de la Administración Pública Municipal;
+
+V. Administrar los recursos humanos, financieros y materiales asignados a la Jefatura de Gabinete, con sujeción a las políticas y normatividad que determine el Presidente;
+
+VI. Proponer al Presidente los proyectos de reglamentos, códigos, sus reformas y adiciones que resulten necesrios para el correcto funcionamiento de la Administración Pública Municipal;
+
+VII. Monitorear los avances en el cumplimiento de los objetivos prioritarios de la administración pública municipal; y
+
+VIII. Las demás que con (sic) le confieran otras disposiciones legales y reglamentarias o le otorgue el Presidente.
 
 ###### ARTÍCULO 144.
 
@@ -13674,3 +13714,11 @@ El presente reglamento entrara en vigor al día siguiente de su publicación en 
 ###### ARTICULO TERCERO.
 
 Se derogan los artículos 407,408 y del 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545 hasta el 557 del Código Municipal de San José de Gracia y todas las disposiciones, reglamentos o acuerdos administrativos que contravengan lo dispuesto por el presente Reglamento.
+
+P.O. 25 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA".]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
