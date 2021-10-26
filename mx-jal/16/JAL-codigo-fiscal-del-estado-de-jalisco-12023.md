@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2021-02-20"
+last_updated: "2021-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2021.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -1251,6 +1251,10 @@ Se consideran créditos fiscales, los que tenga derecho a percibir el Estado que
 
 La falta de pago de un crédito fiscal en la fecha o plazo establecido en las leyes fiscales respectivas, determinan que el crédito sea exigible.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2021)</small>
+
+Las autoridades que remitan créditos fiscales a la Secretaría de la Hacienda Pública del Gobierno del Estado de Jalisco para su cobro, deberán cumplir con los requisitos que mediante reglas de carácter general establezca dicha dependencia.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 68.
@@ -1485,21 +1489,17 @@ La solicitud de condonación de multas, que no tendrá el carácter de recurso, 
 
 #### SECCIÓN TERCERA. De las Cancelaciones
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 82.
 
-Procederá la cancelación de los créditos fiscales:
+La Secretaría de la Hacienda Pública podrá cancelar créditos fiscales por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
-I. Cuando los sujetos de crédito sean declarados insolventes, previa comprobación de esta circunstancia por la Secretaría de la Hacienda Pública y previo acuerdo de la misma debidamente fundado; y
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-II. Cuando su importe sea menor de tres veces el valor diario de la Unidad de Medida y Actualización, y no se paguen espontáneamente dentro de los noventa días siguientes a la fecha en que la oficina de recaudación fiscal haya exigido el pago.
-
-Si existen varios créditos fiscales menores a tres veces el valor diario de la Unidad de Medida y Actualización, a cargo de un solo deudor, se acumularán para los efectos de su cobro.
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
@@ -1533,23 +1533,25 @@ La Secretaría de la Hacienda Pública rectificará, en cualquier momento, de of
 
 Cuando la situación económica de los contribuyentes sea insuficiente para pagar en su totalidad, los impuestos, derechos, recargos y multas que adeuden, el Gobernador del Estado por conducto de la Secretaría de la Hacienda Pública, podrá celebrar convenio con aquellos, respecto del pago de dichos créditos fiscales, mismos que se suscribirán en los términos que fije el Gobernador, de acuerdo a la legislación común y del presente Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 88.
 
-Procederá la cancelación de los créditos fiscales por insolvencia cuando su importe sea menor de 100 veces el valor diario de la Unidad de Medida y Actualización y no se pague dentro de los noventa días siguientes a la fecha en que la Oficina de Recaudación Fiscal haya exigido el pago.
+Se extinguirán los créditos fiscales transcurridos cinco años contados a partir de que se haya realizado el registro como incobrables.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-Sólo se aplicará esta regla, cuando se trate de un solo crédito fiscal a cargo de un solo deudor. Si existieran varios créditos menores a 100 veces el valor diario de la Unidad de Medida y Actualización, a cargo de un solo deudor, procederá la acumulación de los mismos, para los efectos del cobro y por ellos, no se aplicará la insolvencia.
+Se consideran créditos incobrables, cuando exista imposibilidad práctica de cobro. Para estos efectos, existe imposibilidad práctica de cobro, cuando los deudores no tengan bienes embargables, cuando no se tengan datos suficientes de identificación del deudor o de ubicación de su posible domicilio, el deudor hubiera fallecido o desaparecido sin dejar bienes a su nombre o cuando por sentencia firme hubiera sido declarado en quiebra por falta de activo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 El Secretario de la Hacienda Pública podrá autorizar cancelaciones de créditos fiscales, por cantidades mayores de manera discrecional, tomando en cuenta las causas que lo justifiquen.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 89.
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro, o por insolvencia del sujeto pasivo, no libera a los responsables solidarios u objetivos de su obligación.
+La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro, por insolvencia del sujeto pasivo o por considerarse como incobrable, no libera a los responsables solidarios u objetivos de su obligación.
 
 #### SECCIÓN CUARTA. De la Prescripción
 
@@ -1601,9 +1603,9 @@ Los interesados podrán autorizar por escrito, en cada caso, a persona que en su
 
 Las notificaciones de los citatorios, requerimientos, emplazamientos, solicitudes de informes o documentos y las de acuerdos o resoluciones administrativas que puedan ser recurridas, se harán:
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2021)</small>
 
-I. Personalmente o por mensaje de datos con acuse de recibo en el buzón tributario.
+I. Personalmente, por correo certificado con acuse de recibo o por mensaje de datos, ambos con acuse de recibo físico o en el buzón tributario respectivamente.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
@@ -1631,7 +1633,9 @@ II. Por correo ordinario o por telegrama, cuando se trate de actos distintos se�
 
 III. Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión;
 
-IV. Por estrados, cuando la persona a quien deba notificarse, desocupe, desaparezca o no sea localizable en el domicilio que hubiere señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante y en los demás casos que señalan las leyes fiscales y éste Código; o
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2021)</small>
+
+IV. Por estrados, cuando la persona a quien deba notificarse, desocupe, desaparezca o no sea localizable en el domicilio que hubiere señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, así mismo si el contribuyente o su representante legal se oponen a la diligencia, debiendo levantar acta circunstanciada de dicha oposición y en los demás casos que señalan las leyes fiscales y éste Código; o
 
 V. Por instructivo, en los casos a que se refiere el artículo 96 de este Código.
 
@@ -1669,13 +1673,35 @@ Se entiende por documento digital todo mensaje de datos que contiene informació
 
 Las notificaciones personales se harán en el domicilio de la persona, a quien se deba notificar, y que haya señalado ante las autoridades fiscales, en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas del artículo 47 de este código. Dichas notificaciones podrán practicarse en las oficinas de las autoridades fiscales, si las personas a quienes deba notificarse se presentan, por cualquier circunstancia en ellas, o en el lugar en que se encuentren, previa identificación.
 
-Se entenderán con la persona que debe ser notificada o su representante legal; a falta de ambos, el notificador, cerciorado de que sea el domicilio fiscal, dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere, a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más próximo.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia, cerciorado nuevamente el notificador de lo establecido en el párrafo anterior y de negarse éste a recibirla se realizará por instructivo que se fijará en la puerta del domicilio.
+Las notificaciones se entenderán con la persona que debe ser notificada o su representante legal; a falta de ambos, el notificador, cerciorado de que sea el domicilio fiscal, dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere, a una hora fija del día hábil siguiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2021)</small>
+
+Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más próximo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2021)</small>
+
+Ante la negativa de terceros en el domicilio al momento de que sea necesario dejar citatorio, la cita se hará por instructivo fijándolo en el acceso principal del domicilio, levantando constancia.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se realizará con cualquier persona que se encuentre en el domicilio en que se realice la diligencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2021)</small>
+
+Si la persona que se encuentra en el domicilio se negare a recibir la diligencia o el domicilio se encontrare cerrado, la notificación se realizará por instructivo que se fijará en la puerta del domicilio.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE OCTUBRE DE 2021)</small>
 
 En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE OCTUBRE DE 2021)</small>
+
 De las diligencias en que conste la notificación o cita, el notificador levantará acta circunstanciada por escrito.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE OCTUBRE DE 2021)</small>
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán gastos de ejecución, a cargo de quien incurrió en el incumplimiento de la obligación.
 
@@ -2631,7 +2657,9 @@ Las autoridades fiscales procederán al remate de los bienes embargados:
 
 I. Al quedar firme la resolución confirmatoria del acto impugnado, recaído en los medios de defensa que se hubieren hecho valer; o
 
-II. A partir del día siguiente a aquél en que se hubiese fijado la base en los términos del artículos (sic) 161 de este Código.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2021)</small>
+
+II. A partir del día hábil siguiente a aquél en que se hubiese fijado la base en los términos del artículo 161 de este Código.
 
 ###### Artículo 158.
 
@@ -2655,41 +2683,45 @@ Sin embargo, las autoridades no fiscales mencionadas podrán embargar el remanen
 
 La base para el remate de los bienes embargados, será la que resulte del avalúo pericial.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2021)</small>
+
+Los avalúos que se practiquen para efectos fiscales tendrán vigencia de doce meses, contados a partir de la fecha en que se emitan, los cuales se podrán actualizar cuando la autoridad fiscal así lo determine.
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 161.
 
 Al practicarse el avalúo pericial, se observarán las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-I. La Dirección de Notificación y Ejecución Fiscal nombrará un perito y lo hará saber al interesado para que manifieste su conformidad o inconformidad, dentro de un término de tres días siguientes a la notificación;
+I. La Dirección de Notificación y Ejecución Fiscal nombrará un perito para la emisión del avalúo correspondiente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-II. Si transcurrido el término a que se refiere la fracción anterior el deudor no hace ninguna manifestación, el avalúo que practique el perito designado por la Dirección de Notificación y Ejecución Fiscal, será el que sirva de base para el remate, pero si dentro de este término expresa su inconformidad, podrá designar al perito que le corresponda.
+II. El avalúo debe notificarse al interesado de conformidad al artículo 94 de este Código, cuando el embargado o tercero interesado no manifieste en tiempo y forma no estar de acuerdo con el valor señalado como base para el remate de bienes, o haciéndolo no designe valuador o incluso habiéndolo designado éste no rinda su dictamen en el plazo señalado, se tendrá por aceptado el valor determinado conforme al primer párrafo de este artículo.
 
-Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal, o haciéndolo no designen perito valuador, se tendrá por aceptado el avalúo hecho conforme a la fracción que antecede; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+III. En caso de discrepancia de más del 10% del valor total del bien señalado en los avalúos practicados por los dos peritos, la Secretaría de la Hacienda Pública, dentro de un término de cinco días hábiles, posteriores a la fecha en que se actualice la discrepancia, hará el nombramiento de un perito tercero valuador.
 
-III. En caso de discrepancia de más del 10% en los avalúos practicados por los dos peritos, la Secretaría de la Hacienda Pública hará el nombramiento de un perito tercero valuador.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
-
-En todos los casos a que se refieren las fracciones que anteceden, los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles, diez días si son inmuebles y quince días cuando sean negociaciones, a partir de la fecha de su aceptación.
+En todos los casos a que se refieren las fracciones que anteceden, los peritos deberán rendir su dictamen en un plazo de cinco días hábiles si se trata de bienes muebles, diez días hábiles para bienes inmuebles y quince días hábiles cuando sean negociaciones, a partir de la fecha de su aceptación.
 
 ###### Artículo 162.
 
 Para proceder al remate de bienes inmuebles, derechos reales o posesorios y de negociaciones embargadas, se obtendrá del Registro Público de la Propiedad y del Comercio, y de las direcciones de catastro Estatal o Municipales, según el caso, un certificado a fin de acreditar que los bienes son propiedad o tiene derechos adquiridos sobre ellos el deudor y conocer en su caso los gravámenes registrados.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 163.
 
-El remate deberá ser convocado al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La convocatoria se hará cuando menos diez días antes a la fecha del remate.
+El remate o la enajenación fuera de remate deberá ser convocado al día hábil siguiente, en que surtió efectos la notificación del avalúo, para que tenga verificativo dentro de los veinte días hábiles siguientes. La convocatoria se hará cuando menos diez días antes a la fecha del remate.
 
-La convocatoria se publicará en el periódico oficial "El Estado de Jalisco" y la página electrónica de las autoridades fiscales, en los cuales se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+La convocatoria se publicará y permanecerá diez días hábiles antes del remate en los estrados de la Oficina ejecutora y/o en la página electrónica de las autoridades fiscales, en los cuales se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+
+La convocatoria podrá ser modificada durante los cinco días siguientes a la fecha de publicación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE FEBRERO DE 2019)</small>
 
@@ -2719,13 +2751,21 @@ Los acreedores que aparezcan en los certificados de gravámenes serán citados p
 
 Los acreedores citados, tendrán derecho a concurrir al remate y hacer las observaciones que estimen pertinentes, que serán resueltas por la Dirección de Notificación y Ejecución Fiscal en el acto de la diligencia.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 166.
 
-Mientras no se apruebe el remate, el deudor puede librarse de la ejecución haciendo el pago de las cantidades reclamadas, de los vencimientos ocurridos y de los gastos ya causados. Agregará además, un 5% por ciento sobre el importe de la postura, cuando el remate ya se haya fincado, para indemnizar al comprador.
+Mientras no se finque el remate, el deudor puede librarse de la ejecución haciendo el pago de las cantidades reclamadas, de los vencimientos ocurridos y de los gastos ya causados, o en su caso proponiendo un comprador que cubra en una sola exhibición el monto total del crédito.
+
+Cuando el contribuyente haya propuesto comprador, éste tiene de plazo para cubrir la totalidad del crédito fiscal, hasta antes de que finque el remate, se enajenen fuera de remate o se adjudiquen a favor del fisco; de lo contrario se continuará con el procedimiento administrativo de ejecución.
+
+En el supuesto de que el comprador propuesto por el contribuyente, haya cubierto el crédito fiscal, se liberarán los bienes embargados para que el contribuyente formalice con el comprador las operaciones que estimen procedentes.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 167.
 
-Es postura legal la que cubra el 80% por ciento del valor señalado como base para el remate.
+Es postura legal la que cubra dos terceras partes del valor señalado como base para el remate.
 
 ###### Artículo 168.
 
@@ -2761,19 +2801,21 @@ El recaudador fincará el remate en favor de quien hubiere hecho la mejor postur
 
 Si en la última postura se ofrece igual suma por dos o más licitantes, se designará por suerte la que deberá aceptarse.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 172.
 
-Si los bienes rematados exceden en su valor doscientas veces el valor diario de la Unidad de Medida y Actualización, la Dirección de Notificación y Ejecución Fiscal, dentro de un plazo de tres días, enviará el expediente a la Dirección General de Ingresos, para que previa revisión, apruebe el remate y si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la dirección ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiese constituido.
+La subasta podrá ser cancelada con motivo del pago del adeudo fiscal, por resolución favorable de autoridad competente, por venta fuera de remate, así como por cualquier otra causa prevista en la legislación aplicable, haciendo del conocimiento de los postores participante dicha situación para reintegrar el depósito dentro de los tres días siguientes a su notificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 173.
 
-Fincado y aprobado el remate, se aplicará el depósito constituido y el postor, dentro de los diez días siguientes a la fecha del remate, enterará en la caja de la Oficina de Recaudación Fiscal el saldo de la cantidad de contado ofrecida en su postura o mejoras y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudando en los términos de esta ley.
+Fincado y aprobado el remate, se aplicará el depósito constituido y el postor, dentro de los diez días hábiles siguientes a la fecha del remate, enterará en la caja de la Oficina de Recaudación Fiscal el saldo de la cantidad de contado ofrecida en su postura o mejoras y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudando en los términos de esta ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-Hecho el pago a que se refiere el párrafo anterior y cuando proceda, designado el Notario por el postor, se citará al deudor para que, dentro del plazo de tres días, otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el Director de Notificación y Ejecución Fiscal lo hará en su rebeldía.
+Hecho el pago a que se refiere el párrafo anterior y cuando proceda, designado el Notario por el postor, se citará al deudor para que, dentro del plazo de tres días hábiles, otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el Director de Notificación y Ejecución Fiscal lo hará en su rebeldía.
 
 En la misma escritura se otorgará por el adquirente garantía hipotecaria o prendaria, respecto a la parte del precio que quedare adeudando.
 
@@ -2801,6 +2843,18 @@ Si el adquirente lo solicita, se le dará a conocer como dueño del inmueble, a 
 
 Si el remate fuere de bienes muebles, la Secretaría de la Hacienda Pública otorgará la factura correspondiente una vez satisfecho el precio.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 176
+
+Bis.- En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate, por existir impedimento debidamente acreditado, aquél podrá, en un plazo de seis meses contados a partir de la fecha de emisión del acta fincamiento de remate, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes.
+
+La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco estatal y se estará a lo dispuesto en el artículo 183-A de este Código.
+
+En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, ésta podrá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos.
+
 ###### Artículo 177.
 
 Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes de las oficinas ejecutoras y personal de las mismas y a las personas que hubieren intervenido, por parte del fisco del Estado en los procedimientos de ejecución. El remate efectuado en contravención a este precepto, será nulo y los infractores serán castigados de acuerdo con lo que establece este código.
@@ -2825,9 +2879,9 @@ Si hubiere otros acreedores, los derechos de la hacienda del Estado se determina
 
 El fisco del Estado tendrá preferencia para adjudicarse, en cualquier almoneda, los bienes ofrecidos en remate:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2021)</small>
 
-I. A falta de postores;
+I. A falta de postores; por la base de la postura legal que habría de servir para la almoneda siguiente;
 
 II. A falta de pujas, por la base de la postura legal o no mejorada;
 
@@ -2839,33 +2893,97 @@ IV. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 La adjudicación regulada en este artículo, sólo será válida si es aprobada por la Secretaría de la Hacienda Pública.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 181.
 
-Cuando no hubiera postores o no se hubieran presentado posturas legales, la autoridad ejecutora se adjudicará el bien. En este caso el valor de la adjudicación será el 60% del valor de avalúo.
+Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los diez días siguientes, se lleve a cabo la segunda almoneda, cuya convocatoria se hará en los términos de esta ley, con la salvedad de que se fijará y permanecerá en los estrados de la Oficina Ejecutora y/o en la página electrónica de las autoridades fiscales por un lapso de cinco días hábiles antes del remate.
 
-Los bienes que se adjudiquen a favor de la autoridad fiscal, podrán ser donados para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas para recibir donativos deducibles del impuesto sobre la renta.
+La base para el remate en la segunda almoneda, se determinará deduciendo un 20% por ciento de la señalada para la primera.
 
-La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta de adjudicación correspondiente.
+Si no se finca el remate en la segunda almoneda, se convocará a una tercera, conforme a las reglas previstas en este Código.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+La base para el remate en la tercera almoneda, será fijada deduciendo un 20% por ciento a la base de la segunda.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 182.
 
-Las oficinas ejecutoras podrán vender fuera de remate, cuando se trate de objetos de fácil descomposición o deterioro, o de materias inflamables o semovientes, o cuando después de celebrada una almoneda en la que no se hubieran presentado postores, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la almoneda.
+Las oficinas ejecutoras podrán enajenar fuera de remate, cuando:
 
-También procederá la venta fuera de remate, cuando el embargado proponga comprador, antes del día en que se finque el remate, se enajenen o adjudiquen los bienes a favor del fisco, siempre que lo que se pague de contado, cubra el valor que se haya señalado a los bienes embargados.
+I. Se trate de objetos de fácil descomposición o deterioro, o de materias inflamables o semovientes.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+II. Cuando después de celebradas cualquiera de las almonedas no se hubieran presentado postores, se presente con posterioridad un comprador que satisfaga de contado el precio íntegro que no sea inferior a la base de la última almoneda convocada.
+
+III. Cuando el embargado proponga comprador, antes del día en que se finque el remate, se enajenen o adjudiquen los bienes a favor del fisco, siempre que lo que se pague de contado, cubra el valor que se haya señalado a los bienes embargados.
+
+IV. Cuando se trate de vehículos automotores que sus condiciones legales y/o físicas o mecánicas les impidan circular y deban ser compactados, de conformidad con lo establecido en el artículo 182-A del presente Código.
+
+V. Bienes muebles cuyo costo de recuperación valor sea equivalente o superior al 75% de su valor.
+
+VI. Cuando se trate de bienes que hubieren causado abandono a favor del fisco estatal.
+
+VII. Cuando se trate de vehículos y artículos varios que por su naturaleza ilícita o administrativa no se tenga la necesidad de someterse a Procedimientos administrativos de Ejecución, como a continuación se describe y deban ser compactados, de conformidad con lo establecido en el artículo 182-A del presente Código:
+
+a) Vehículos y artículos varios que cuenten con alteraciones en sus números de identificación o sin números de identificación.
+
+b) Vehículos y artículos varios por sus características físicas y mecánicas se identifiquen como en condición C2 o C3 (Reparación Mayor), Pts (Partes) o Ch (Chatarra).
+
+c) Vehículos y artículos varios extranjeros sin placas de circulación, que portan placas de circulación de otros Estados o de otro País que sean de modelo de fabricación anterior al año 2010 y/o que haya ingresado de forma ilegal al país.
+
+d) Vehículos y artículos varios que no cumplan con los requerimientos establecidos por las Autoridades en el ámbito de Ecología para continuar circulando de forma normal en el Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 182-A.
+
+Tratándose de vehículos automotores cuyo estatus legal y/o físico y mecánico impliquen que los mismos ya no son aptos para circular y por lo tanto deban ser compactados, la autoridad responsable de su guarda y custodia notificará a la Hacienda Pública el estatus de dichos bienes para que esta proceda a su venta fuera de remate.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 183.
 
-Las cantidades excedentes después de haber hecho la aplicación del producto del remate, o venta fuera de subasta o adjudicación de los bienes sujetos a embargo, se entregará a quien fue embargado, salvo que medie orden escrita de autoridad competente o que el propio embargado acepte, también por escrito, que se haga entrega parcial o total del saldo a un tercero.
+Las cantidades excedentes después de haber hecho la aplicación del producto del remate, o venta fuera de subasta o adjudicación de los bienes sujetos a embargo, en caso de que el contribuyente deudor tuviera más créditos fiscales firmes pendientes de cobro en diverso Procedimiento Administrativo de Ejecución se aplicará a estos.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+Posteriormente se deberá notificar al deudor la aplicación del producto del remate o adjudicación, señalando en su caso el monto del excedente.
+
+De no contar con más créditos firmes, el excedente se entregará a quien fue embargado.
 
 En caso de conflicto, el remanente permanecerá en depósito en la Secretaría de la Hacienda Pública, en tanto resuelven los tribunales competentes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 183-A.
+
+Causarán abandono en favor del fisco estatal los bienes embargados, en depósito o en poder de la autoridad fiscal, en los siguientes casos:
+
+I. Cuando habiendo sido enajenados o adjudicados los bienes muebles al adquirente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución y/o sentencia favorable que ordene la devolución de los bienes embargados antes de que se hubieran rematado, enajenado o adjudicado y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
+
+III. Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de haberse practicado el embargo, y respecto de los cuales no se hubiere interpuesto ningún medio de defensa. La autoridad fiscal requerirá al contribuyente embargado para que se presente en la oficina recaudadora a realizar el pago del crédito fiscal y accesorios legales que se hubieren generado, en un plazo de 5 días contados a partir del día siguiente a aquél en que surtió efectos la notificación realizada para tal efecto, apercibido de que, en caso de no presentarse a pagar, los bienes muebles causarán abandono a favor del fisco del Estado de Jalisco.
+
+IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad fiscal y los propietarios de los mismos no los hayan retirado dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se haga de su conocimiento tal extremo.
+
+El monto pagado por la adquisición de los bienes rematados causará abandono a favor del Fisco Estatal, cuando se actualice el supuesto contenido en el artículo 176-Bis de este Código.
+
+Cuando los bienes o posturas hubieran causado abandono a favor del Fisco Estatal, las autoridades fiscales notificarán de conformidad a lo establecido en el artículo 94 de este Código, a los propietarios de los mismo (sic) u oferentes.
+
+En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará por estrados de conformidad con lo establecido en el presente Código.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 183-B.
+
+Los plazos de abandono a que se refiere el artículo 183-A de este Código se interrumpirán en los siguientes casos:
+
+I. Por la interposición del recurso administrativo o la presentación de la demanda en el juicio que proceda.
+
+El recurso o la demanda sólo interrumpirán los plazos aludidos, cuando la resolución definitiva que recaiga a los mismos no confirme la que se impugnó; y
+
+II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
 ### CAPITULO IV. De las Tercerías
 
@@ -3382,6 +3500,14 @@ P.O. 20 DE FEBRERO DE 2021.
 PRIMERO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a la aplicación y cumplimiento del presente decreto.
+
+P.O. 26 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28495/LXII/21 QUE MODIFICAN (SIC) LOS ARTÍCULOS 67, 82, 88, 89, 94, 96, 157, 160, 161, 163, 166, 167, 172, 173, 173 BIS, 180, 181, 182, Y ADICIONA LOS ARTÍCULOS 182A, 183A Y 183B DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, será aplicable lo dispuesto en los artículos 182 fracción IV y VII para aquellos vehículos que ya se encuentren en guarda y custodia y hayan sido dictaminados no aptos para circulación en términos del diverso 182-A.
 
 ###### ARTICULO PRIMERO
 
