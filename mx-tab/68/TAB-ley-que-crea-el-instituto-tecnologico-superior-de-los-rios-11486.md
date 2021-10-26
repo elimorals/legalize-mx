@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-tecnologico-superior-de-los-rios-1148
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-23"
-last_updated: "2019-05-04"
+last_updated: "2021-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS RÍOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 23 de noviembre de 1996.
 
@@ -409,11 +409,11 @@ I. Poseer título a nivel licenciatura; y
 
 II. Contar con experiencia docente o profesional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, el Reglamento Interior de Trabajo, las disposiciones que expida la Junta Directiva y demás ordenamientos jurídicos aplicables.
+Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por lo establecido en la Ley de los Trabajadores al Servicio del Estado de Tabasco, el Reglamento Interior de Trabajo, las disposiciones que expida la Junta Directiva y demás ordenamientos jurídicos aplicables.
 
 Todos los servidores públicos de base y de confianza del Instituto gozarán de la seguridad social que otorga la Ley del Instituto de Seguridad Social del Estado de Tabasco (ISSET), quedando incorporados a dicho régimen.
 
@@ -476,3 +476,31 @@ Se derogan todas las disposiciones que se opongan al contenido del presente Decr
 ###### ARTÍCULO TERCERO.
 
 Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
+
+P.O. 26 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 006.- POR MEDIO DEL CUAL SE REFORMAN DIVERSAS, DISPOSICIONES DEL DECRETO QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE MACUSPANA; DE LA LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS RÍOS; Y DEL DECRETO POR EL QUE SE CREA EL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los derechos individuales y colectivos de los trabajadores, que hayan sido adquiridos con anterioridad a la entrada en vigor del Decreto 083 publicado el 4 de mayo de 2019, suplemento D, edición número 7999 del Periódico Oficial del Estado de Tabasco, se mantienen vigentes, por lo que deberán respetarse y garantizarse.
+
+###### ARTÍCULO CUARTO.
+
+Los trabajadores al servicio de los organismos públicos descentralizados a que se refiere el presente Decreto, continuarán afiliados al mismo instituto de seguridad social al que se encontraban antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los trabajadores que inicien sus relaciones laborales a partir de la entrada en vigor del presente Decreto, con los organismos públicos descentralizados a que se refiere el mismo Decreto deberán ser afiliados al Instituto de Seguridad Social del Estado de Tabasco y les serán aplicables las disposiciones reformadas.
+
+###### ARTÍCULO SEXTO.
+
+Los juicios laborales que se encuentren en trámite y se hayan iniciado previo a la entrada en vigor del Decreto 083 publicado el 4 de mayo de 2019, suplemento D, edición número 7999 del Periódico Oficial del Estado de Tabasco, deberán concluirse de conformidad con las leyes en materia laboral que les sean aplicables.
