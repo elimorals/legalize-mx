@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-movilidad-y-desarrollo-13584
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-25"
-last_updated: "2020-10-12"
+last_updated: "2021-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE OCTUBRE DE 2021.
 
 Estatuto publicado en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el jueves 25 de abril de 2019.
 
@@ -106,6 +106,10 @@ h) Dirección de Procesos de Transporte.
 > <small>(ADICIONADO, D.O. 12 DE OCTUBRE DE 2020)</small>
 
 i) Dirección de Movilidad.
+
+> <small>(ADICIONADO, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+j) Dirección del Sistema Metropolitano de Movilidad Amable y Sostenible.
 
 ### Capítulo III. Funcionamiento del instituto
 
@@ -371,7 +375,7 @@ XIV. Elaborar estudios y proyecciones financieras orientados a apoyar el desarro
 
 XV. Supervisar y evaluar el ejercicio de los recursos financieros del instituto, estableciendo las bases de coordinación, los mecanismos de control y de seguimiento adecuados.
 
-XVI. Asistir y vigilar por sí o través (sic) de un representante, el correcto desarrollo del procedimiento de licitaciones que competan a su área y que convoque el instituto.
+XVI. (DEROGADA, D.O. 26 DE OCTUBRE DE 2021)
 
 XVII. Generar y difundir la información contable y presupuestaria que establezcan los organismos oficiales en materia de transparencia y vigilancia del ejercicio de los recursos públicos.
 
@@ -389,7 +393,35 @@ XXIII. Vigilar el cumplimiento de la normativa aplicable en materia de recursos 
 
 XXIV. Supervisar que los procedimientos de adquisiciones, arrendamientos y contratación de los diversos servicios se ajusten estrictamente a la normatividad legal vigente.
 
-XXV. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XXV. Suscribir convenios y contratos en materia de obra pública y adquisiciones, arrendamientos y servicios relacionados con bienes muebles, así como los demás actos de administración que establezcan las disposiciones jurídicas aplicables y que requiera el instituto.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XXVI. Gestionar ante las autoridades competentes la adquisición de recursos humanos, financieros, materiales y tecnológicos para el instituto, así como, en su caso, la reorientación de los recursos presupuestarios no erogados por este durante el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XXVII. Integrar el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles del instituto.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XXVIII. Dirigir y verificar el adecuado desarrollo de los procedimientos que, en materia de obra pública, adquisiciones, arrendamientos y servicios deba llevar a cabo el instituto.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XXIX. Realizar la contratación del personal que requiera el instituto y observar las obligaciones obrero-patronales que le correspondan.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XXX. Coordinar el servicio social y las prácticas profesionales que se realicen en el instituto.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XXXI. Administrar y operar de manera adecuada y transparente el fideicomiso que se constituya para el funcionamiento del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXXII. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 28.
 
@@ -421,7 +453,27 @@ XI. Aplicar las sanciones impuestas por la autoridad competente por infracciones
 
 XII. Proponer y vigilar el cumplimiento de las medidas que sean necesarias para la observancia de este estatuto.
 
-XIII. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XIII. Rendir y suscribir los informes previo y justificado, así como las promociones y los recursos que deban interponerse en los juicios de amparo promovidos en contra del instituto o de cualquiera de los servidores públicos de este, cuando sean señalados como autoridad responsable.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XIV. Contestar las demandas interpuestas en contra de las resoluciones o los actos del instituto, por conducto de cualquiera de sus unidades administrativas, y ejercitar las acciones y defensas que correspondan en los juicios que se tramiten ante los tribunales competentes.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XV. Interponer los recursos que correspondan en los procesos legales en los que intervenga el instituto.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XVI. Recibir y realizar el trámite inherente a las notificaciones y los documentos adjuntos, de cesiones, enajenaciones o transferencia de concesiones o permisos, entre otros, relacionados con el servicio de transporte.
+
+> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+XVII. Ejecutar las órdenes de inspección que emita el director general.
+
+XVIII. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 29.
 
@@ -679,6 +731,76 @@ XIII. Las demás que le confiera el Director General o establezcan este estatuto
 
 En el ejercicio de sus facultades y obligaciones, el director de Movilidad deberá sujetarse a las instrucciones e indicaciones que emita el director de Movilidad, Desarrollo Urbano Sustentable y Territorial.
 
+> <small>(ADICIONADO, D.O. 26 DE OCTUBRE DE 2021)</small>
+
+Artículo 31 sexies. Facultades y obligaciones del director del Sistema Metropolitano de Movilidad Amable y Sostenible
+
+El director del Sistema Metropolitano de Movilidad Amable y Sostenible tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar la ejecución de acciones, planes y programas para el cumplimiento del objeto y de los objetivos del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+II. Dirigir el desarrollo de las actividades técnicas, administrativas y de control del Sistema Metropolitano de Movilidad Amable y Sostenible, así como dictar las instrucciones para dicho fin.
+
+III. Establecer mecanismos para el seguimiento, evaluación y control de los programas, proyectos, obras y acciones que se lleven a cabo para el cumplimiento del objeto y de los objetivos del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+IV. Coordinarse con las demás dependencias y entidades de la Administración Pública estatal para el cumplimiento de los objetivos del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+V. Proyectar y ejecutar, en términos de la legislación aplicable, todas las obras necesarias para la implementación, conservación y vigilancia de la infraestructura, de la tecnología y de los servicios relacionados con el Sistema Metropolitano de Movilidad Amable y Sostenible, así como supervisar su ejecución, por sí o a través de terceros, ya sean particulares o dependencias o entidades de la Administración Pública estatal.
+
+VI. Vigilar y controlar, permanentemente, los recorridos que realicen los vehículos afectos a la prestación del servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible, así como supervisar su correcta operación, condiciones y mantenimiento.
+
+VII. Diseñar e implementar, previa autorización del director general, sistemas de pago electrónico con los cuales se simplifique el acceso al servicio y se propicie la integración multimodal del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+VIII. Vigilar la correcta aplicación de las tarifas a los usuarios y las formas de pago del servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible, por parte de los prestadores de los servicios de transporte respectivos.
+
+IX. Proponer al director general la ubicación o, en su caso, reubicación de los sitios o terminales para la prestación del servicio público de transporte, así como las delimitaciones territoriales del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+X. Diseñar, implementar, operar y administrar, previa autorización del director general, la ubicación de los centros de trasferencia modal del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XI. Proponer al director general que se otorgue a terceros, mediante el instrumento legal adecuado, el funcionamiento los centros de transferencia modal que formen parte del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XII. Determinar la ubicación, comercializar, administrar y supervisar los espacios publicitarios que formen parte del Sistema Metropolitano de Movilidad Amable y Sostenible, ya sea en los centros de transferencia modal o en cualquier otro espacio de dicho sistema.
+
+XIII. Elaborar las propuestas de precios por el uso de los espacios publicitarios que formen parte del Sistema Metropolitano de Movilidad Amable y Sostenible, y de los centros de transferencia modal de dicho sistema, así como por cualquier otro bien o servicio que produzca o preste el instituto a través del referido sistema, para su posterior aprobación por la junta de gobierno.
+
+XIV. Vigilar que la prestación del servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible cumpla con la Ley de Transporte del Estado de Yucatán, su reglamento y las demás disposiciones jurídicas aplicables.
+
+XV. Presentar al director general los acuerdos o programas de operación correspondientes al funcionamiento y operatividad del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XVI. Disponer de sus capacidades técnicas y administrativas para la adecuada operación del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XVII. Realizar las acciones legales, administrativas y de operación necesarias para incentivar, cuando corresponda, la participación de prestadores de servicios en el Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XVIII. Determinar, en términos de las disposiciones jurídicas aplicables, los exámenes médicos a los que deberán sujetarse los operadores del Sistema Metropolitano de Movilidad Amable y Sostenible, así como la forma en que estos deberán ser acreditados.
+
+XIX. Determinar y vigilar la periodicidad, los contenidos teóricos y prácticos, así como los procedimientos de acreditación de la capacitación y actualización de las personas que laboren en el Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XX. Integrar y mantener actualizado el padrón de concesiones y permisos del Sistema Metropolitano de Movilidad Amable y Sostenible, así como el registro de vehículos que formen parte de este.
+
+XXI. Conocer sobre las quejas e inconformidades que se presenten con motivo de la prestación del servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible, y turnarlas a la unidad administrativa correspondiente, para su atención.
+
+XXII. Aplicar las sanciones por infracciones a las disposiciones de la Ley de Transporte del Estado de Yucatán, su reglamento y las demás disposiciones jurídicas aplicables, relacionadas con el Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXIII. Practicar u ordenar las visitas de inspección que se deban realizar para verificar sistemáticamente la operación de las concesiones y permisos, así como el debido cumplimiento de las disposiciones establecidas en la Ley de Transporte del Estado de Yucatán, su reglamento y las demás disposiciones jurídicas aplicables, relacionadas con el Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXIV. Diseñar e instrumentar programas de seguridad en materia de transporte dentro del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXV. Vigilar que los prestadores del servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible cumplan con el perfil y demás requisitos que establezcan la Ley de Transporte del Estado de Yucatán, su reglamento y las demás disposiciones legales aplicables.
+
+XXVI. Realizar los estudios que sean necesarios para evaluar las condiciones y el funcionamiento del servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXVII. Proponer al director general y, en su caso, implementar políticas, estrategias y acciones para mejorar la organización y el funcionamiento del servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXVIII. Determinar, en coordinación con el director general, el número de vehículos que podrán prestar el servicio de transporte que corresponda al Sistema Metropolitano de Movilidad Amable y Sostenible, de conformidad con la demanda presente.
+
+XXIX. Solicitar, fundada y motivadamente, a autoridades, concesionarios o permisionarios la información necesaria para el adecuado ejercicio de sus facultades y obligaciones, y proporcionar la que le corresponda, de conformidad con las obligaciones de confidencialidad y protección de datos personales de las partes involucradas en el Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXX. Vigilar el cumplimiento de los acuerdos relacionados con el Sistema Metropolitano de Movilidad Amable y Sostenible, y verificar que los planes y acciones que deriven de este se vinculen con los objetivos de la planeación nacional, del plan estatal de desarrollo vigente y de los demás instrumentos de planeación aplicables.
+
+XXXI. Las demás que le confieran el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+En el ejercicio de sus facultades y obligaciones, el director del Sistema Metropolitano de Movilidad Amable y Sostenible deberá sujetarse a las instrucciones e indicaciones que emita el director general.
+
 ###### Artículo 32.
 
 Consejo Consultivo de Movilidad y Desarrollo Urbano Territorial
@@ -760,6 +882,18 @@ El Director General del Instituto de Movilidad y Desarrollo Urbano Territorial, 
 D.O. 12 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO IMDUT 04/2020 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Movilidad y Desarrollo Urbano Territorial, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales las modificaciones efectuadas por este acuerdo al Estatuto orgánico del Instituto de Movilidad y Desarrollo Urbano Territorial.
+
+D.O. 26 DE OCTUBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS “POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL”.]</small>
 
 Primero. Entrada en vigor
 
