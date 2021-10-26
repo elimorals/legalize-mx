@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-103935"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-01"
-last_updated: "2015-05-12"
+last_updated: "2021-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -947,15 +947,17 @@ El Estado y los Municipios podrán otorgar estímulos y recompensas a los elemen
 
 El Estado y los Municipios, a través de las Comisiones de Honor y Justicia correspondiente, podrán imponer a los elementos de las instituciones de seguridad pública que incumplan las obligaciones previstas en los artículos 61 y 62 de la presente Ley, las sanciones y correcciones disciplinarias que para tal efecto se encuentran señaladas en el Título Séptimo, Capítulo Segundo, de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 72.
 
-Las autoridades competentes del Estado dictarán medidas para la protección del Gobernador del Estado, Secretario de Gobierno, Secretario de Seguridad Pública, Fiscal General del Estado, así como de aquellos servidores públicos estatales que en razón de sus funciones de seguridad pública así lo requieran.
+Las autoridades competentes del Estado, de así requerirse, dictarán medidas para la protección de la Gobernadora o el Gobernador del Estado, de las personas titulares de la Secretaría de Gobierno, de la Secretaría de Protección y Seguridad Ciudadana, de la Fiscalía General del Estado, así como de aquellas o aquellos servidores públicos estatales que, en razón de sus funciones de seguridad pública, así lo requieran. Estas medidas se brindarán sólo durante el tiempo de su encargo.
 
-Las autoridades de seguridad pública de los Municipios procederán conforme a lo señalado en el párrafo anterior para brindar la protección necesaria, de así requerirse, al Presidente Municipal, Director de Seguridad Pública Municipal, así como a aquellos servidores públicos estatales que en razón de sus funciones de seguridad pública así lo requieran.
+Las autoridades de seguridad pública de los Municipios procederán conforme a lo señalado en el párrafo anterior para brindar la protección necesaria, de así requerirse, a la Presidenta o al Presidente Municipal, a la persona titular de la Dirección de Seguridad Pública Municipal, así como auxiliar, cuando así se les requiera, a las autoridades estatales para brindarle protección a las autoridades señaladas en el párrafo anterior.
 
-Una vez concluido su encargo, tendrán la misma protección por un término igual al que duraron en el mismo, sin perjuicio de que al término del plazo éste pueda ser prorrogado, de existir, a juicio de la autoridad competente, circunstancias particulares que así lo justifiquen.
+No se podrán asignar medidas de protección, de cualquier tipo, a ex servidoras y servidores públicos estatales y/o municipales, así como la asignación de bienes que formen parte del patrimonio estatal y/o municipal y cuyos costos sean cubiertos con presupuesto estatal y/o municipal. Se exceptúa de esta disposición a las y los servidores públicos que, por causa justificada o por situaciones de riesgo, requieran las medidas de protección al concluir su encargo, las cuales, en todo caso, serán valoradas y autorizadas por las autoridades competentes.
 
-Las medidas podrán comprender, además de la protección física de los servidores públicos, la de su cónyuge y de su familia en línea ascendente hasta el primer grado y en línea descendente hasta el segundo grado.
+Bajo ninguna circunstancia se permitirá que los recursos humanos y materiales destinados a la protección, sean utilizados para atender asuntos personales o de cualquier índole, salvo lo relacionado con la función de seguridad.
 
 #### SECCIÓN PRIMERA. DE LA POLICÍA DE INVESTIGACIÓN CRIMINAL Y DE LA POLÍCÍA FACULTADA
 
@@ -2752,3 +2754,23 @@ P.O. 12 DE MAYO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+P.O. 26 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 6 POR EL QUE “SE REFORMA EL ARTÍCULO 72 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor de noventa días naturales a la entrada en vigor del presente Decreto, los recursos humanos y materiales que fueron asignados a ex Gobernadoras o Gobernadores y a ex titulares de la Administración Pública Estatal, así como a las y los demás servidores públicos que con motivo de su encargo gocen de las medidas de protección, deberán reintegrarse a la Secretaría correspondiente.
+
+Las medidas de protección que actualmente se brinden a la o el cónyuge, así como familiares en línea ascendente hasta el primer grado y en línea descendente hasta el segundo grado de las personas a las que se hace referencia en el párrafo que antecede, se les retirarán en un plazo no mayor a treinta días naturales.
+
+TERCERO.- La Secretaría de Finanzas del Poder Ejecutivo Estatal deberá considerar las previsiones presupuestales y financieras que resulten necesarias para la debida implementación del presente Decreto.
+
+Asimismo, la Secretaría de Finanzas, en coordinación con las Secretarías competentes, analizarán la reorientación de los recursos humanos, económicos y materiales en áreas prioritarias de seguridad o en cualquier otra que potencie el desarrollo del Estado.
+
+CUARTO.- Los HH. Ayuntamientos deberán tomar todas las medidas necesarias para el debido cumplimiento del presente Decreto. Asimismo, deberán retirar, en un plazo no mayor a noventa días naturales, todos los recursos humanos y materiales que hayan sido asignados a ex Presidentas o Presidentes Municipales, o ex servidoras o servidores públicos municipales que, por razón de su encargo, cuenten con medidas de protección.
+
+QUINTO.- Las referencias hechas a la persona titular de la Secretaría de Gobierno y la persona titular de la Secretaría de Protección y Seguridad Ciudadana en el presente Decreto, se entenderán hechas a la o el Secretario General de Gobierno y a la o el Secretario de Seguridad Pública, respectivamente, hasta en tanto entre en vigor la nueva Ley Orgánica de la Administración Pública del Estado de Campeche.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
