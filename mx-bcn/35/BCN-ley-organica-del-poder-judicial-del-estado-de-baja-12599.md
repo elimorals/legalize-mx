@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2019-12-13"
+last_updated: "2021-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-(NOTA 1: EL 15 DE NOVIEMBRE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 35/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 03 POR EL QUE SE REFORMÓ LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA PARA CREAR UN ARTÍCULO 294, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRECE DE DICIEMBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[NOTA 2. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -45,13 +43,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 1.
 
-Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales, de extinción de dominio, familiares y de justicia para adolescentes, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
+Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales, laborales, de extinción de dominio, familiares y de justicia para adolescentes, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -89,11 +85,9 @@ VII.- Por los Jueces de Primera Instancia Especializados para Adolescentes.
 
 VIII.- Por los Jueces de Paz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
-
-IX.- Por los Jurados Populares,
+IX.- Por los Jueces en materia Laboral.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -135,19 +129,17 @@ IV.- Los Juzgados de Primera Instancia del Ramo Penal;
 
 V.- El Juzgado de Primera Instancia en materia de extinción de dominio;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
 
-VI.- Los Juzgados de Primera Instancia Especializados para Adolescentes, y
+VI.- Los Juzgados de Primera Instancia Especializados para Adolescentes;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
 VII.- Los Juzgados de Paz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
-
-VIII.- Tribunal de Justicia Electoral, actuando en Pleno o en Salas.
+VIII.- Los Tribunales en materia Laboral.
 
 Los órganos del Poder Judicial del Estado, funcionarán de modo permanente e ininterrumpido durante cada año de actividades. El Consejo de la Judicatura dictará las medidas correspondientes para la organización permanente de las actividades de los juzgados de conformidad con el Título Decimoprimero de esta Ley.
 
@@ -201,15 +193,23 @@ IV.- El de Tecate, con la comprensión política administrativa del Municipio de
 
 V.- El de Playas de Rosarito, con la comprensión política administrativa del Municipio de ese nombre.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2021)</small>
 
-VI.- Los Partidos Judiciales que determine el Consejo de la Judicatura del Estado, para la mejor administración de justicia, conforme al presupuesto de egresos respectivo.
+VI.- El de San Quintín, con la comprensión política administrativa del Municipio de ese nombre.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2021)</small>
+
+VII.- El de San Felipe, con la comprensión política administrativa del Municipio de ese nombre.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2021)</small>
+
+VIII.- Los Partidos Judiciales que determine el Consejo de la Judicatura del Estado, para la mejor administración de justicia, conforme al presupuesto de egresos respectivo.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 6.
 
-Las cabeceras de los partidos judiciales del Estado, serán, respectivamente, las ciudades de Mexicali, Tijuana, Ensenada, Tecate y Playas de Rosarito.
+Las cabeceras de los partidos judiciales del Estado, serán, respectivamente, las ciudades de Mexicali, Tijuana, Ensenada, Tecate, Playas de Rosarito, San Quintín y San Felipe.
 
 ## TITULO TERCERO. DE LAS DESIGNACIONES, CONDICIONES Y PROHIBICIONES PARA EJERCER FUNCIONES JUDICIALES
 
@@ -661,11 +661,15 @@ Para el desempeño de los asuntos que tiene encomendados cada Sala, tendrá seis
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 52.
 
-Son Jueces de Unica Instancia, para los efectos que prescribe la Constitución General de la República y demás leyes secundarias.
+Son Jueces de Única Instancia, para los efectos que prescribe la Constitución General de la República y demás leyes secundarias:
 
-Los jueces de Paz, en las resoluciones dictadas en materia Civil o Penal, en contra de los cuales no procede ningún recurso ordinario.
+I.- Los Jueces de Paz, en las resoluciones dictadas en materia Civil o Penal, en contra de los cuales no procede ningún recurso ordinario, y
+
+II.- Los Jueces en materia laboral, en contra de cuyas resoluciones y sentencias no procede recurso o medio de defensa ordinario alguno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -747,9 +751,11 @@ ARTICULO 57 BIS.- En el Partido Judicial de Playas de Rosarito, habrá cuando me
 
 Cuando en un Partido Judicial haya dos o más Juzgados de la misma categoría y ramo, estarán numerados progresivamente y recibirán los asuntos de su competencia de acuerdo con el procedimiento que autorice el Pleno del Consejo de la Judicatura del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
 ###### ARTICULO 59.
 
-Los Jueces de Primera Instancia y Jueces de Paz deberán residir en el partido judicial que les corresponda durante su encargo.
+Los Jueces de Primera Instancia, Jueces en materia Laboral y Jueces de Paz deberán residir en el partido judicial que les corresponda durante su encargo.
 
 ###### ARTICULO 60.
 
@@ -833,11 +839,11 @@ El incumplimiento de esta disposición ameritará la suspensión temporal o defi
 
 Para el mejor desempeño de sus labores, cada uno de los Juzgados de los diversos Partidos Judiciales en los que se divide el Estado, contarán con un Juez, el número de Secretarios de Acuerdos, Actuarios y el personal que determine el Pleno del Consejo de la Judicatura del Estado de acuerdo con el presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 69.
 
-Los jueces de lo Civil, de lo Familiar, de lo Penal, Mixtos de Primera Instancia, Especializados para Adolescentes o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que por ley, sean de su competencia.
+Los jueces de lo Civil, de lo Familiar, de lo Penal, de lo Laboral, Mixtos de Primera Instancia, Especializados para Adolescentes o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que, por ley sean de su competencia.
 
 ###### ARTICULO 70.
 
@@ -1305,6 +1311,52 @@ III.- De la diligenciación de los exhortos, rogatorias, suplicatorias, requisit
 
 IV.- De las demás diligencias, acuerdos, y actividades que les encomiende la Ley de Extinción de Dominio para el Estado y demás legislación vigente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+### CAPITULO IX. DE LA ORGANIZACION DE LOS TRIBUNALES EN MATERIA LABORAL
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 90 SEPTIES.- En cada municipio del Estado habrá al menos un Tribunal en materia Laboral.
+
+Los Jueces en Materia Laboral, tendrán las siguientes atribuciones y obligaciones:
+
+I. Resolver en única instancia, las diferencias o los conflictos entre trabajadores y patrones, cuya competencia no corresponda al ámbito federal;
+
+II. Substanciar todo proceso, procedimiento o vía bajo su competencia en materia laboral en términos de lo previsto por la Ley Federal del Trabajo;
+
+III. Dictar sus sentencias y resoluciones observando los principios de legalidad, imparcialidad, transparencia, autonomía e independencia; y,
+
+IV. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+Para la designación y duración en el cargo de los jueces laborales, se observará lo dispuesto en el artículo 62 de la Constitución Política del Estado Libre y Soberano de Baja California, y demás disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 90 OCTIES.- Los Tribunales Laborales contarán con los Jueces, Secretarios Instructores, Actuarios y auxiliares administrativos que sean necesarios para la prestación del servicio y de conformidad con la disponibilidad presupuestal.
+
+Los Secretarios Instructores, así como los Actuarios, tendrán el conjunto de facultades y obligaciones que por disposición de esta Ley, tiene el personal jurisdiccional de la misma categoría, así como las que señale la Ley Federal del Trabajo.
+
+Para ser designado Secretario Instructor, deberá cumplirse con los mismos requisitos que establece esta Ley para Secretarios de Acuerdos y lo que establezca la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+ARTICULO 90 NONIES.- El primer Secretario de Acuerdos, además de las atribuciones que determina el artículo anterior, tendrá las siguientes:
+
+I. Substituir al juez en sus faltas temporales, en los términos de esta Ley.
+
+II. Distribuir diaria y equitativamente entre él y los demás Secretarios de Acuerdos que hubiere, por riguroso turno, los asuntos que se inicien en el juzgado de que dependen, donde no exista oficialía de partes común.
+
+III. Tener a su cargo, bajo su responsabilidad, los libros pertenecientes a la oficina designando de entre los empleados subalternos de la misma, al que deba llevarlos.
+
+IV. Conservar en su poder el sello del juzgado.
+
+V. Cuidar y vigilar que el archivo se lleve apropiadamente.
+
+VI. Ejercer por sí mismo o por conducto de los empleados subalternos, la vigilancia que sea necesaria en la oficina, para conservación, y guarda de los expedientes.
+
+VII. Los demás que le confieren las leyes y los reglamentos.
+
 ### CAPITULO I. DE LOS MAGISTRADOS
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
@@ -1313,11 +1365,9 @@ IV.- De las demás diligencias, acuerdos, y actividades que les encomiende la Le
 
 ### CAPITULO I. DE LA SUBSTITUCION EN CASOS DE RECUSACION Y EXCUSAS
 
-### CAPITULO I. DE LAS CAUSAS Y SU PROCEDENCIA
-
 ## TITULO SEXTO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO I. DE SUS PERIODOS
+### CAPITULO I. DE LAS CAUSAS Y SU PROCEDENCIA
 
 ###### ARTICULO 91.
 
@@ -1343,7 +1393,7 @@ Las faltas temporales del Magistrado de la Sala Unitaria Especializada en Justic
 
 En el caso de las faltas absolutas del Magistrado de la Sala Unitaria, se estará a lo dispuesto en el párrafo anterior hasta en tanto el Congreso del Estado realice el nuevo nombramiento, de conformidad a lo señalado en la Constitución Política del Estado.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DE SUS PERIODOS
 
 ###### ARTICULO 94.
 
@@ -1383,7 +1433,7 @@ Las faltas absolutas de los Jueces, Secretarios y demás servidores públicos de
 
 ## TITULO SEPTIMO. DE LOS IMPEDIMENTOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DEL JUICIO POLITICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 101.
 
@@ -1397,13 +1447,11 @@ Cuando el Tribunal en Pleno, advierta que las recusaciones o excusas se hubiesen
 
 En los casos en que los Consejeros de la Judicatura estuvieren impedidos para conocer de un asunto, será sustituido por el Consejero que para tal efecto designe el Congreso del Estado o el que corresponda como consejero suplente insaculado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 102.
 
-Si un Juez de lo Civil, de extinción de dominio, de lo Penal o Mixto de Primera Instancia, deja de conocer por impedimento, recusación o excusa, conocerá el asunto el que le sigue en número, si lo hubiera de igual categoría o ramo dentro del mismo partido judicial y en caso de que estos también tuvieran impedimento o en aquel partido no hubiere otro Juez, conocerá el que sigue en razón de la distancia, según la forma indicada.
+Si un Juez de lo Civil, de Extinción de Dominio, de lo Penal, en materia Laboral, o Mixto de Primera Instancia, deja de conocer por impedimento, recusación o excusa, conocerá el asunto el que le sigue en número, si lo hubiera de igual categoría o ramo dentro del mismo partido judicial y en caso de que estos también tuvieran impedimento o en aquel partido no hubiere otro Juez, conocerá el que sigue en razón de la distancia, según la forma indicada.
 
 Si un Juez de lo Familiar, o el que conozca de los asuntos de lo familiar deja de conocer por impedimento recusación o excusa, conocerá del asunto el Juez de Primera Instancia de lo familiar que siga en número del mismo partido Judicial si lo hubiere, si no, conocerá del asunto el Juez de Primera Instancia Civil del mismo Partido Judicial; si hubiere varios, conocerán por turno, y si estos también tuvieren impedimento o en aquel Partido no hubiere otro Juez de Primera Instancia Civil, conocerá el Juez de lo Familiar que siga en razón de la distancia según la forma indicada.
 
@@ -1419,7 +1467,7 @@ En los casos de impedimento por recusación o excusas de los jueces de Paz, cono
 
 ## TITULO OCTAVO. DE LAS LICENCIAS DE LOS SERVIDORES PUBLICOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+### CAPITULO II. DEL JUICIO POLITICO
 
 ###### ARTICULO 104.
 
@@ -1461,7 +1509,7 @@ En caso de que los servidores de la Administración de Justicia dejaren de asist
 
 ## TITULO NOVENO. DE LAS VACACIONES
 
-### CAPITULO IV. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
+### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
 
 ###### ARTICULO 111.
 
@@ -1481,7 +1529,7 @@ Fuera de los períodos de vacaciones y de los días de asueto que señala el cal
 
 ## TITULO DECIMO. DE LAS RESPONSABILIDAD (SIC) DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO V. DE LAS SANCIONES Y SU APLICACION
+### CAPITULO IV. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
 
 ###### ARTICULO 115.
 
@@ -1501,9 +1549,7 @@ Los procedimientos para la aplicación de las sanciones mencionadas serán autó
 
 Todo ciudadano o persona moral, por conducto de sus órganos de representación, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia por escrito y debidamente firmada y ratificada ante quien corresponda, respecto de las conductas a que se refiere el artículo anterior.
 
-### CAPITULO I. DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
-
-SU INTEGRACION Y FUNCIONAMIENTO
+### CAPITULO V. DE LAS SANCIONES Y SU APLICACION
 
 ###### ARTICULO 118.
 
@@ -1517,7 +1563,9 @@ Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio
 
 El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeña su cargo y dentro del año siguiente al en que se separe, por cualquier causa, del ejercicio de sus funciones.
 
-### CAPITULO II. DE LAS UNIDADES DE APOYO
+### CAPITULO I. DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
+
+SU INTEGRACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 121.
 
@@ -1527,7 +1575,7 @@ Para proceder penalmente contra los Magistrados del Tribunal Superior de Justici
 
 La responsabilidad derivada de delitos cometidos por los Magistrados, Jueces y Consejeros de la Judicatura durante el tiempo de su encargo será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal, los cuales nunca podrán ser inferiores a tres años. No correrá término alguno de prescripción en tanto el Magistrado o Consejero de la Judicatura se encuentre en el desempeño de su cargo.
 
-### CAPITULO III. DE SUS ATRIBUCIONES
+### CAPITULO II. DE LAS UNIDADES DE APOYO
 
 ###### ARTICULO 123.
 
@@ -1685,7 +1733,7 @@ XVII.- Recibir de las partes de un juicio o sus abogados, dinero por concepto de
 
 XVIII.- Todo incumplimiento de los deberes propios del cargo.
 
-### CAPITULO IV. DE SU PRESIDENTE
+### CAPITULO III. DE SUS ATRIBUCIONES
 
 ###### ARTICULO 132.
 
@@ -1787,7 +1835,9 @@ Contra el presunto autor de alguna de las faltas previstas en el capítulo IV de
 
 Las quejas anónimas, o aquéllas que no sean ratificadas, no producirán efecto alguno.
 
-Cuando las quejas se promuevan respecto a los Titulares de los Juzgados de Primera Instancia, Mixtos o de Paz, de un Partido Judicial distinto al de la residencia del Consejo de la Judicatura, se presentarán directamente ante éste o la Oficialía de Partes y la ratificación correspondiente, deberá hacerla ante el Juez que en número de orden le suceda o bien el que designe el propio Consejo de la Judicatura o por medio de la autoridad que al efecto señalare.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+Cuando las quejas se promuevan respecto a los Titulares de los Juzgados de Primera Instancia, en materia Laboral, Mixtos o de Paz, de un Partido Judicial distinto al de la residencia del Consejo de la Judicatura, se presentarán directamente ante éste o la Oficialía de Partes y la ratificación correspondiente, deberá hacerla ante el Juez que en número de orden le suceda o bien el que designe el propio Consejo de la Judicatura o por medio de la autoridad que al efecto señalare.
 
 En los casos en que al estarse llevando a cabo una visita de inspección por medio del Consejero o la autoridad que se ha designado, se presentara una queja, se ratificará ante la presencia del servidor público que la reciba.
 
@@ -1861,7 +1911,7 @@ TITULO DECIMOPRIMERO
 
 DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO
 
-### CAPITULO V. DEL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA
+### CAPITULO IV. DE SU PRESIDENTE
 
 ###### ARTICULO 155.
 
@@ -1927,9 +1977,7 @@ Las resoluciones del Pleno del Consejo de la Judicatura del Estado, se tomarán 
 
 El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será substituido por el Magistrado que el Pleno del Tribunal Superior de Justicia designe, absteniéndose de intervenir el Presidente impedido. Asumirá la presidencia del Consejo de la Judicatura con motivo de impedimento o excusa, el Consejero que por turno le corresponda, quien en su caso empate, tendrá voto de calidad.
 
-### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+### CAPITULO V. DEL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA
 
 ###### ARTICULO 164.
 
@@ -1947,7 +1995,9 @@ Para el mejor desempeño de las funciones asignadas a las unidades administrativ
 
 Los titulares de las unidades administrativas deberán tener título profesional expedido en alguna materia afín a las atribuciones conferidas, experiencia mínima de tres años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-### CAPITULO VII. DEL INSTITUTO DE LA JUDICATURA
+### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 168.
 
@@ -2079,7 +2129,7 @@ El Pleno del Consejo de la Judicatura, contará con los Servidores Públicos y p
 
 El Consejo de la Judicatura residirá en la capital del Estado de Baja California.
 
-### CAPITULO VIII. DEL ARCHIVO JUDICIAL
+### CAPITULO VII. DEL INSTITUTO DE LA JUDICATURA
 
 ###### ARTICULO 172.
 
@@ -2101,7 +2151,7 @@ VI.- Firmar las resoluciones y acuerdos del Pleno del Consejo de la Judicatura d
 
 VII.- Las demás que determine esta ley y los correspondientes reglamentos y acuerdos generales.
 
-### CAPITULO IX. DEL BOLETIN JUDICIAL
+### CAPITULO VIII. DEL ARCHIVO JUDICIAL
 
 ###### ARTICULO 173.
 
@@ -2129,7 +2179,7 @@ IX.- Las demás que le asignen las leyes y reglamentos.
 
 El Secretario General del Consejo de la Judicatura deberá reunir los requisitos que señala el artículo 24 de esta ley.
 
-### CAPITULO X. DE LAS VISITAS DE INSPECCION Y EVALUACION
+### CAPITULO IX. DEL BOLETIN JUDICIAL
 
 ###### ARTICULO 175.
 
@@ -2149,9 +2199,7 @@ VI.- El Centro Estatal de Justicia Alternativa, y
 
 VII.- El Administrador Judicial.
 
-### CAPITULO XI. DE LA CONTRALORIA DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
+### CAPITULO X. DE LAS VISITAS DE INSPECCION Y EVALUACION
 
 ###### ARTICULO 176.
 
@@ -2193,7 +2241,9 @@ El Instituto de la Judicatura llevará acabo cursos de preparación para los ex�
 
 El Instituto de la Judicatura, contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPITULO XII. DE LA OFICIALIA DE PARTES
+### CAPITULO XI. DE LA CONTRALORIA DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 182.
 
@@ -2237,6 +2287,22 @@ III.- Realizar la microfilmación o captación por duplicado a efecto de que uno
 
 IV.- Relacionar al anverso y al reverso de los documentos, cuando la microfilmación o captación no se haga con equipo que capte simultáneamente las dos caras de dichos documentos y estos contengan anotaciones al reverso. Se destruirán las constancias procesales y documentos originales que hayan sido captados conforme a lo dispuesto anteriormente.
 
+### CAPITULO XII. DE LA OFICIALIA DE PARTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 187.
+
+En la Ciudad de Mexicali, se editará el "Boletín Judicial" que será el órgano oficial de difusión del Poder Judicial del Estado; tendrá por objeto publicar las listas de Acuerdos dictados en materia civil y de lo familiar por los correspondientes Juzgados del Estado, por el Tribunal Superior de Justicia y del Consejo de la Judicatura así como los Edictos y Avisos Judiciales a que se refiere el Capítulo V del Título Segundo, del Código de Procedimientos Civiles.
+
+###### ARTICULO 188.
+
+El Boletín Judicial se publicará diariamente con excepción de sábados, domingos, días de fiestas nacionales, o cuando por cualquier otra causa se suspendan las labores en el Tribunal Superior de Justicia.
+
+###### ARTICULO 189.
+
+La edición y publicación del Boletín Judicial estará a cargo del Tribunal Superior de Justicia y su administración corresponderá al Consejo de la Judicatura.
+
 ### CAPITULO XIII. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
@@ -2253,7 +2319,13 @@ II.- Substanciar procedimientos de mediación y conciliación que pongan fin a l
 
 III.- Promover la mediación y la conciliación como alternativas de prevención y solución de controversias, y
 
-IV.- Las demás que establezcan los ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2021)</small>
+
+IV.- Instrumentar y substanciar procedimientos de conciliación respecto de controversias que se encuentren planteadas ante los Tribunales Laborales del Poder Judicial del Estado, siempre y cuando, siendo viables de resolverse en dicha vía alterna, así lo soliciten las partes.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2021)</small>
+
+V.- Las demás que establezcan los ordenamientos legales.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
@@ -2269,17 +2341,49 @@ ARTICULO 197 BIS-1. - El Centro Estatal de Justicia Alternativa estará a cargo 
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
 
-###### ARTICULO 187.
+###### ARTICULO 190.
 
-En la Ciudad de Mexicali, se editará el "Boletín Judicial" que será el órgano oficial de difusión del Poder Judicial del Estado; tendrá por objeto publicar las listas de Acuerdos dictados en materia civil y de lo familiar por los correspondientes Juzgados del Estado, por el Tribunal Superior de Justicia y del Consejo de la Judicatura así como los Edictos y Avisos Judiciales a que se refiere el Capítulo V del Título Segundo, del Código de Procedimientos Civiles.
+El Consejo de la Judicatura del Estado es competente para inspeccionar el funcionamiento del tribunal, sus Salas, y juzgados para supervisar las conductas de los integrantes de estos órganos, a fin de que la administración de justicia sea pronta, expedita y conforme a la ley.
 
-###### ARTICULO 188.
+###### ARTICULO 191.
 
-El Boletín Judicial se publicará diariamente con excepción de sábados, domingos, días de fiestas nacionales, o cuando por cualquier otra causa se suspendan las labores en el Tribunal Superior de Justicia.
+Las funciones que en ésta ley confiere al Consejo de la Judicatura serán ejercitadas por si o por los visitadores que designe.
 
-###### ARTICULO 189.
+Los visitadores deberán satisfacer los siguientes requisitos: ser mayor de treinta y cinco años, gozar de buena reputación, no tener condena por delito con pena privativa de libertad mayor de un año, título de licenciado en derecho, legalmente expedido y práctica profesional de cuando menos diez años; su designación se hará por el propio consejo.
 
-La edición y publicación del Boletín Judicial estará a cargo del Tribunal Superior de Justicia y su administración corresponderá al Consejo de la Judicatura.
+El Consejo de la Judicatura del Estado establecerá mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitados para efectos de lo que se dispone en esta ley en materia de responsabilidad.
+
+###### ARTICULO 192.
+
+Las visitas a los órganos y unidades del Poder Judicial se efectuarán por lo menos cada seis meses de conformidad con las disposiciones generales que emita el Consejo de la Judicatura del Estado.
+
+El Consejo de la Judicatura deberá informar con la debida oportunidad al titular del órgano jurisdiccional, de la visita de inspección que vayan a practicar a fin de que proceda a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de cinco días, para el efecto de que las personas interesadas puedan manifestar sus quejas o denuncias.
+
+###### ARTICULO 193.
+
+Los visitadores tomando en cuenta las particularidades de cada órgano realizarán, además de lo que específicamente determine el Consejo de la Judicatura del Estado, lo siguiente:
+
+I.- Pedir la lista del personal para comprobar su asistencia.
+
+II.- Verificar que los valores estén debidamente guardados, ya sea en la caja de seguridad del órgano visitado, o en la unidad o institución que el Consejo de la Judicatura hubiere señalado.
+
+III.- Comprobarán si se encuentra (sic) debidamente asegurados los instrumentos y objetos de delito.
+
+IV.- Revisarán los libros de Gobierno a fin de determinar si se encuentran en orden y contiene (sic) los datos requeridos.
+
+V.- Harán constar el número de asuntos penales y civiles que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita y determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal.
+
+VI.- Examinarán los expedientes formados con motivos de las causas penales y civiles que se estime conveniente a fin de verificar que se lleven con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y si se han observado los términos Constitucionales.
+
+Cuando el visitador advierta que en un proceso se vence el término para dictar sentencia, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva.
+
+VII.- De toda visita de inspección deberá levantarse acta circunstanciada en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta, quisieran realizar los propios titulares o servidores del órgano y la firma del juez o magistrado que corresponda y la del visitador.
+
+El acta levantada por el visitador será entregada al Titular del Organo Visitado y al Consejo de la Judicatura, a fin de que determine lo que corresponda.
+
+###### ARTICULO 194.
+
+El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularidades que se realicen o se estén realizando en un órgano del Poder Judicial y que a juicio del propio Consejo amerite inmediata inspección, podrá llevarla a cabo por sí o por el visitador que designe sin que previamente se hubiese dado el aviso a que se refiere el artículo 209 de esta ley.
 
 ### CAPITULO XIV. DE LA ADMINISTRACIÓN JUDICIAL
 
@@ -2367,70 +2471,6 @@ ARTICULO 197 BIS-5.- El administrador judicial será considerado para efectos la
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTICULO 190.
-
-El Consejo de la Judicatura del Estado es competente para inspeccionar el funcionamiento del tribunal, sus Salas, y juzgados para supervisar las conductas de los integrantes de estos órganos, a fin de que la administración de justicia sea pronta, expedita y conforme a la ley.
-
-###### ARTICULO 191.
-
-Las funciones que en ésta ley confiere al Consejo de la Judicatura serán ejercitadas por si o por los visitadores que designe.
-
-Los visitadores deberán satisfacer los siguientes requisitos: ser mayor de treinta y cinco años, gozar de buena reputación, no tener condena por delito con pena privativa de libertad mayor de un año, título de licenciado en derecho, legalmente expedido y práctica profesional de cuando menos diez años; su designación se hará por el propio consejo.
-
-El Consejo de la Judicatura del Estado establecerá mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitados para efectos de lo que se dispone en esta ley en materia de responsabilidad.
-
-###### ARTICULO 192.
-
-Las visitas a los órganos y unidades del Poder Judicial se efectuarán por lo menos cada seis meses de conformidad con las disposiciones generales que emita el Consejo de la Judicatura del Estado.
-
-El Consejo de la Judicatura deberá informar con la debida oportunidad al titular del órgano jurisdiccional, de la visita de inspección que vayan a practicar a fin de que proceda a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de cinco días, para el efecto de que las personas interesadas puedan manifestar sus quejas o denuncias.
-
-###### ARTICULO 193.
-
-Los visitadores tomando en cuenta las particularidades de cada órgano realizarán, además de lo que específicamente determine el Consejo de la Judicatura del Estado, lo siguiente:
-
-I.- Pedir la lista del personal para comprobar su asistencia.
-
-II.- Verificar que los valores estén debidamente guardados, ya sea en la caja de seguridad del órgano visitado, o en la unidad o institución que el Consejo de la Judicatura hubiere señalado.
-
-III.- Comprobarán si se encuentra (sic) debidamente asegurados los instrumentos y objetos de delito.
-
-IV.- Revisarán los libros de Gobierno a fin de determinar si se encuentran en orden y contiene (sic) los datos requeridos.
-
-V.- Harán constar el número de asuntos penales y civiles que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita y determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal.
-
-VI.- Examinarán los expedientes formados con motivos de las causas penales y civiles que se estime conveniente a fin de verificar que se lleven con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y si se han observado los términos Constitucionales.
-
-Cuando el visitador advierta que en un proceso se vence el término para dictar sentencia, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva.
-
-VII.- De toda visita de inspección deberá levantarse acta circunstanciada en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta, quisieran realizar los propios titulares o servidores del órgano y la firma del juez o magistrado que corresponda y la del visitador.
-
-El acta levantada por el visitador será entregada al Titular del Organo Visitado y al Consejo de la Judicatura, a fin de que determine lo que corresponda.
-
-###### ARTICULO 194.
-
-El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularidades que se realicen o se estén realizando en un órgano del Poder Judicial y que a juicio del propio Consejo amerite inmediata inspección, podrá llevarla a cabo por sí o por el visitador que designe sin que previamente se hubiese dado el aviso a que se refiere el artículo 209 de esta ley.
-
-### CAPITULO XIV (SIC). DE LOS CENTROS E INSTALACIONES DE CONVIVENCIA FAMILIAR SUPERVISADA
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
-
-ARTICULO 197 TER.- Los Centros de Convivencia Familiar Supervisada son órganos administrativos del Poder Judicial del Estado de Baja California, con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno filial en aquellos casos que, a juicio de los titulares de los Juzgados de lo Familiar, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
-
-Los servicios de los Centros de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones ó en aquellas que se designen para tales efectos.
-
-Los Centros de Convivencia Familiar Supervisada propios del Poder Judicial serán administrados y vigilados por el Consejo de la Judicatura de Baja California, el cual expedirá las bases para su organización y funcionamiento, incluyendo aquellos que por diversas asociaciones o patronatos presten sus instalaciones para tales efectos.
-
-Los Centros de Convivencia Familiar Supervisada contarán con un Titular y el personal necesario para el cumplimiento de sus funciones, ya sea propio del Poder Judicial o aquellos que éste acreditaré para tales efectos. Deberá igualmente, contar con Secretarios Auxiliares que sean necesarios para dar fe de actos.
-
-Para ser Titular del Centro de Convivencia Familiar Supervisada se deberán reunir los requisitos señalados por las fracciones I, III, IV y V del artículo 65 de esta Ley, además deberá poseer título con antigüedad de cinco años a nivel de licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
-
-TITULO DECIMOSEGUNDO
-
-DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
-
 ###### ARTICULO 195.
 
 La Contraloría es el órgano dependiente y auxiliar del Consejo de la Judicatura, en cuanto a practicar auditorías y la aplicación de las disposiciones relativas al Registro Patrimonial y Responsabilidades Administrativas de los Servidores Públicos del Poder Judicial y como tal tendrá las siguientes atribuciones:
@@ -2467,17 +2507,37 @@ III.- Durante el mes de mayo de cada año deberá presentarse la declaración de
 
 Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
 
-### CAPITULO I. DE LAS DESIGNACIONES
+### CAPITULO XIV (SIC). DE LOS CENTROS E INSTALACIONES DE CONVIVENCIA FAMILIAR SUPERVISADA
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+
+ARTICULO 197 TER.- Los Centros de Convivencia Familiar Supervisada son órganos administrativos del Poder Judicial del Estado de Baja California, con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno filial en aquellos casos que, a juicio de los titulares de los Juzgados de lo Familiar, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
+
+Los servicios de los Centros de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones ó en aquellas que se designen para tales efectos.
+
+Los Centros de Convivencia Familiar Supervisada propios del Poder Judicial serán administrados y vigilados por el Consejo de la Judicatura de Baja California, el cual expedirá las bases para su organización y funcionamiento, incluyendo aquellos que por diversas asociaciones o patronatos presten sus instalaciones para tales efectos.
+
+Los Centros de Convivencia Familiar Supervisada contarán con un Titular y el personal necesario para el cumplimiento de sus funciones, ya sea propio del Poder Judicial o aquellos que éste acreditaré para tales efectos. Deberá igualmente, contar con Secretarios Auxiliares que sean necesarios para dar fe de actos.
+
+Para ser Titular del Centro de Convivencia Familiar Supervisada se deberán reunir los requisitos señalados por las fracciones I, III, IV y V del artículo 65 de esta Ley, además deberá poseer título con antigüedad de cinco años a nivel de licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
+
+TITULO DECIMOSEGUNDO
+
+DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 197.
 
-Las Oficialías de Partes para el Tribunal Superior de Justicia y para los Juzgados de Primera Instancia se establecerán por acuerdo del Pleno de la Judicatura del Estado, según las necesidades de cada partido judicial.
+Las Oficialías de Partes para el Tribunal Superior de Justicia y para los Juzgados de Primera Instancia y Juzgados en materia Laboral, se establecerán por acuerdo del Pleno de la Judicatura del Estado, según las necesidades de cada partido judicial.
 
 Tendrán las siguientes atribuciones:
 
 I.- Recibir el escrito por el cual se inicia un procedimiento, mismo que deberá turnar al Juzgado que corresponda, para que se avoque a su conocimiento.
 
-II.- Recibir los escritos posteriores al inicial, si se presentaren fuera de las horas de labores del Tribunal Superior de Justicia, juzgados de primera instancia y de Paz donde la hubiere, mismos que deberán turnarse a quienes se dirijan.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+II.- Recibir los escritos posteriores al inicial, si se presentaren fuera de las horas de labores del Tribunal Superior de Justicia, Juzgados de Primera Instancia, en materia Laboral y de Paz donde los hubiere, mismos que deberán turnarse a quienes se dirijan.
 
 III.- Fuera de la capital del Estado recibir promociones que deben presentarse al Tribunal Superior de Justicia o al Consejo de la Judicatura turnándolos dentro de dos días hábiles siguientes a su presentación.
 
@@ -2486,6 +2546,8 @@ IV.- Las que para el mejor desempeño de la administración de justicia le seña
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+
+### CAPITULO I. DE LAS DESIGNACIONES
 
 ### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
 
@@ -2496,8 +2558,6 @@ IV.- Las que para el mejor desempeño de la administración de justicia le seña
 ### CAPITULO I. DEL SERVICIO MEDICO FORENSE
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2013)</small>
-
-### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
 ###### ARTICULO 198.
 
@@ -2517,7 +2577,9 @@ IV.- Secretario Auxiliar del Tribunal Superior de Justicia.
 
 V.- Secretario de Estudio y Cuenta adscrito a cada Magistrado que integre Sala.
 
-VI.- Secretario de Acuerdos.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+VI.- Secretario de Acuerdos y Secretario Instructor.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2529,7 +2591,7 @@ VII.- Actuarios y Notificadores del Poder Judicial del Estado.
 
 El Consejo de la Judicatura del Estado establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
 
-### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
+### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
 ###### ARTICULO 201.
 
@@ -2569,7 +2631,7 @@ III.- Un Magistrado del Tribunal Superior de Justicia que determine el Pleno del
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
+### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
 
 ###### ARTICULO 205.
 
@@ -2607,7 +2669,7 @@ TITULO DECIMOTERCERO
 
 DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO V. DE LOS NOTARIOS
+### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
 
 ###### ARTICULO 208.
 
@@ -2723,7 +2785,7 @@ V.- Calzar con su firma y nombre completo, los certificados y constancias que ex
 
 VI.- Las demás que les encomienden las leyes.
 
-### CAPITULO VI. DE LOS PERITOS
+### CAPITULO V. DE LOS NOTARIOS
 
 ###### ARTICULO 218.
 
@@ -2749,7 +2811,7 @@ IV.- Ser de notoria honradez y no haber sido condenado por delito intencional.
 
 V.- No encontrarse comprendido dentro de los casos previstos por el artículo 17 de esta ley.
 
-### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
+### CAPITULO VI. DE LOS PERITOS
 
 ###### ARTICULO 221.
 
@@ -2771,21 +2833,21 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
+### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
 
 ###### ARTICULO 225.
 
 Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designados por los jueces del Estado, deberán llenar todos los requisitos establecidos en este título para los síndicos e interventores, en aquello que sea compatible con su carácter y función, del mismo modo, los depositarios y en particular a todos aquellos que actúen en los juicios como auxiliares, por ese sólo hecho les serán aplicables las reglas establecidas especialmente en éste título y en todas las demás de la presente Ley en lo que fuere compatible para los efectos de su designación de sus atribuciones y responsabilidades.
 
-### CAPITULO II
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 226.
 
 En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
 
-### CAPITULO III
+### CAPITULO II
 
 ###### ARTICULO 227.
 
@@ -2829,7 +2891,7 @@ Los honorarios de los peritos designados por el juez, sin solicitud de ninguno d
 
 Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
 
-### CAPITULO IV
+### CAPITULO III
 
 ###### ARTICULO 237.
 
@@ -2867,7 +2929,7 @@ DEL TRIBUNAL ELECTRONICO
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
 ###### ARTICULO 244.
 
@@ -2897,7 +2959,7 @@ V.- Fungir como medio procesal e institucional entre las Autoridades jurisdiccio
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
 ###### ARTICULO 247.
 
@@ -2939,7 +3001,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO VII
+### CAPITULO VI
 
 ###### ARTICULO 252.
 
@@ -2951,7 +3013,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO VIII
+### CAPITULO VII
 
 ###### ARTICULO 254.
 
@@ -2971,7 +3033,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO IX
+### CAPITULO VIII
 
 ###### ARTICULO 258.
 
@@ -2979,7 +3041,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO X
+### CAPITULO IX
 
 ###### ARTICULO 259.
 
@@ -3003,7 +3065,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XI
+### CAPITULO X
 
 ###### ARTICULO 264.
 
@@ -3011,7 +3073,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XII
+### CAPITULO XI
 
 ###### ARTICULO 265.
 
@@ -3023,7 +3085,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XIII
+### CAPITULO XII
 
 ###### ARTICULO 267.
 
@@ -3051,7 +3113,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XIV
+### CAPITULO XIII
 
 ###### ARTICULO 273.
 
@@ -3063,7 +3125,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XV
+### CAPITULO XIV
 
 ###### ARTICULO 275.
 
@@ -3079,7 +3141,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO XVI
+### CAPITULO XV
 
 ###### ARTICULO 278.
 
@@ -3119,9 +3181,7 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPITULO UNICO. DEL HABER DE RETIRO
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+### CAPITULO XVI
 
 ###### ARTICULO 287.
 
@@ -3132,6 +3192,10 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPITULO UNICO. DEL HABER DE RETIRO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 289.
 
@@ -3694,3 +3758,19 @@ SEGUNDO.- El Consejo de la Judicatura, deberá expedir el Reglamento relativo al
 TERCERO.- La expedición de la Reglamentación deberá establecer el monto de las aportaciones que deberán hacer los Jueces del Poder Judicial del Estado al Fondo correspondiente sin excepción alguna y establecerá en su caso el mecanismo para compensar las aportaciones de los años en que no lo hubieren hecho.
 
 CUARTO.- El Consejo de la Judicatura del Poder Judicial del Estado deberá gestionar en su momento la viabilidad financiera ante la autoridad correspondiente sobre la base de que el Fondo para el pago del Haber de Retiro de los Jueces del Poder Judicial del Estado sea autofinanciable y no dependa del subsidio estatal ordinario que aporta el Poder Ejecutivo del Gobierno del Estado y no genere endeudamiento de ninguna especie.
+
+P.O. 27 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 21 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La operación del sistema de justicia laboral en el Estado de Baja California, se dará de conformidad con el Decreto publicado en el Diario Oficial de la Federación de fecha 1 de mayo de 2019, en el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva.
+
+TERCERO. La Implementación del Nuevo Sistema Laboral estará a cargo de la Comisión Interinstitucional Estatal para la Implementación del Sistema de Justicia Laboral, en los términos de las disposiciones legales aplicables.
+
+CUARTO. El Sistema de Justicia Laboral entrará en vigor conforme a la declaratoria que realice el Congreso del Estado, previa solicitud por parte de la Comisión Interinstitucional Estatal para la Implementación del Sistema de Justicia Laboral, y sea publicada en el Periódico Oficial del Estado de Baja California.
+
+Los Tribunales en Materia Laboral iniciarán sus labores a partir de la Declaratoria que emita el Congreso del Estado y una vez que se hayan realizado las modificaciones presupuestales respectivas.
+
+QUINTO. La implementación del Sistema de Justicia Laboral en el municipio de San Felipe, Baja California, será posterior al primero de enero de 2022, en atención al Decreto 246 emitido por esta Soberanía, debiendo mediar solicitud por parte de la Comisión Interinstitucional y declaratoria emitida el (sic) Congreso del Estado.
