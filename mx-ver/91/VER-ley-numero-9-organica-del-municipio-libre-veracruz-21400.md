@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2021-04-21"
+last_updated: "2021-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -497,9 +497,11 @@ XVI. Acordar el régimen de seguridad social de los servidores públicos municip
 
 XVII. Promover el desarrollo del personal estableciendo los términos y condiciones para crear el servicio civil de carrera;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2021)</small>
 
-XVIII. Capacitar a los servidores públicos de los diversos niveles y áreas de la administración pública municipal, a los Agentes y Subagentes Municipales, y Comisario Municipal, así como a los Jefes de Manzana, para el ejercicio de sus respectivas funciones, incorporándoles para ello conocimientos sobre el respeto de los derechos humanos, el interés superior de la niñez y la igualdad sustantiva;
+XVIII. Capacitar a las personas servidoras públicas de los diversos niveles y áreas de la administración pública municipal, Agentes y Subagentes Municipales, a las personas Comisarias Municipales y Jefas de Manzana, así como a todas aquellas que integran la Policía Municipal, para el ejercicio de sus respectivas funciones, incorporándoles para ello conocimientos sobre el respeto de los derechos humanos, el interés superior de la niñez y la igualdad sustantiva.
+
+En el caso de las personas que integran la Policía Municipal, la capacitación deberá ser permanente e integral, y se llevará a cabo en institutos y academias certificadas por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
 > <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2020)</small>
 
@@ -1011,7 +1013,9 @@ VII. Vigilar que no se permita el acceso de los menores de edad a los establecim
 
 VIII. Proponer al Ayuntamiento las medidas para hacer cumplir los reglamentos relativos que resguarden la paz, la tranquilidad y el orden público;
 
-IX. Promover la capacitación de los elementos de la policía municipal en lo referente al conocimiento de los derechos humanos y las garantías individuales;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2021)</small>
+
+IX. Promover la capacitación, formación y el desempeño de las personas que integran la Policía Municipal, fundadas en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, el imperio de la Ley, el mando superior y en todo lo conducente a la perspectiva de género.
 
 X. Procurar que los elementos de la policía municipal sepan leer y escribir y, en caso de analfabetismo, promover su asistencia a los cursos de educación básica para adultos;
 
@@ -2151,11 +2155,11 @@ Artículo 73 Sedecies. Las dependencias y entidades proporcionarán los informes
 
 #### SECCIÓN QUINTA. Del Jefe o Comandante de la Policía Municipal
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 73 Septies Decies.
 
-El Jefe o Comandante de la Policía Municipal, quien será nombrado conforme a lo dispuesto por la presente Ley, deberá reunir los requisitos establecidos en el artículo 68 de este ordenamiento, así como la correspondiente certificación legalmente expedida, previo cumplimiento de los procedimientos de evaluación de control de confianza, solicitados en la carrera policial y de profesionalización.
+La persona titular de la Policía Municipal, quien será nombrado conforme a lo dispuesto por la presente Ley, deberá acreditar el curso de formación inicial para policía preventivo y contar con la certificación correspondiente, previo cumplimiento de los procedimientos de evaluación de control de confianza, solicitados en la carrera policial y de profesionalización.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
@@ -4520,3 +4524,11 @@ G.O. 21 DE ABRIL DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 864 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
