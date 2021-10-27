@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-139002"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2021-08-13"
+last_updated: "2021-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -145,9 +145,11 @@ Los Titulares de las dependencias del Ejecutivo no podrán desempeñar otro pues
 
 Al tomar posesión de su cargo, los Titulares de las dependencias mencionadas en esta Ley, deberán levantar un inventario de los bienes recibidos y hacer una relación de los documentos respectivos, debiendo registrar este inventario en la Oficialía Mayor, quien ordenará la verificación del mismo, de conformidad con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 19.
 
-Las Juntas Locales de Conciliación y Arbitraje de Mexicali, Tijuana y Ensenada, así como el Tribunal de Arbitraje del Estado y el Centro de Conciliación Laboral del Estado, son Tribunales Administrativos con autonomía Jurisdiccional en el ámbito de su competencia, conforme a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los Reglamentos Interiores de la misma.
+El Tribunal de Arbitraje del Estado es un Tribunal Administrativo con autonomía Jurisdiccional en el ámbito de su competencia, y el Centro de Conciliación Laboral del Estado, es un organismo especializado descentralizado de la administración pública al que corresponde prestar el servicio público de conciliación para la resolución de las diferencias o conflictos entre trabajadores y patrones de competencia local, conforme a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones que resulten aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -925,11 +927,15 @@ V.- Propiciar la concertación en las discrepancias que se susciten entre grupos
 
 VI.- Participar en la firma de los contratos colectivos de las dependencias y entidades de la Administración Pública Estatal;
 
-VII.- Integrar el Registro Público de Contratos Colectivos, Asociaciones Obreras, Gremiales y Patronales;
+VII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2021)
 
-VIII.- Coordinar la integración, establecimiento y funcionamiento de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje del Estado, así como, de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley Federal del Trabajo;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
 
-IX.- Difundir, promover y fomentar el empleo para personas con discapacidad y lograr en un plano de igualdad de oportunidades su incorporación al mercado laboral, coordinándose con las instancias competentes;
+VIII.- Coordinar la integración, establecimiento y funcionamiento del Tribunal de Arbitraje del Estado, así como, de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley Federal del Trabajo;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+IX.- Difundir, promover y fomentar el empleo para personas con discapacidad y adultos mayores, para lograr en un plano de igualdad de oportunidades su incorporación al mercado laboral, coordinándose con las instancias competentes;
 
 X.- Organizar y operar el Servicio Estatal del Empleo, previo diagnóstico de la oferta y demanda de trabajo de la entidad;
 
@@ -937,7 +943,9 @@ XI.- Ejecutar los convenios y acuerdos que en materia de trabajo previa validaci
 
 XII.- Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
 
-XIII.- Dirigir, coordinar y operar, el Centro de Conciliación del Estado, así como proponer su reglamentación de operación;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2021)</small>
+
+XIII.- Coordinar la organización y funcionamiento del Centro de Conciliación Laboral del Estado;
 
 XIV.- Proponer de acuerdo a las facultades de la Secretaría al Comité de Planeación para el Desarrollo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación adiestramiento y certificación, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del estado y la mejoría de las personas que laboran en ella; y
 
@@ -1450,3 +1458,13 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los asuntos en trámite y el presupuesto asignado a la Secretaría de Inclusión Social e Igualdad de Género estarán a cargo de la Secretaría de Integración y Bienestar Social.
 
 TERCERO. La Secretaría de Inclusión Social e Igualdad de Género deberá transferir a la Secretaría de Integración y Bienestar Social los recursos materiales, financieros y humanos que tuviere asignados para el ejercicio de sus atribuciones, de conformidad con el presente Decreto, con pleno respeto a los derechos laborales adquiridos de los servidores públicos que prestan sus servicios en ambas dependencias estatales.
+
+P.O. 27 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 21 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las Juntas Locales de Conciliación y Arbitraje, continuarán en operación y funcionamiento, de conformidad con lo previsto por la reforma de 01 de mayo de 2019, por la que fueron modificadas diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, conciliación obligatoria, libertad sindical y negociación colectiva, hasta en tanto se culmine con la resolución de los asuntos que tengan en trámite.
+
+TERCERO. La presente reforma no afectará los derechos laborales adquiridos y demás prestaciones reconocidas a los trabajadores de base de las Juntas de Conciliación y Arbitraje de la Secretaría de Trabajo y Previsión Social.
