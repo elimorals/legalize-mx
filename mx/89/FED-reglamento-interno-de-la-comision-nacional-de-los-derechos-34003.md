@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2021-10-08"
+last_updated: "2021-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2003-08-12"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE OCTUBRE DE 2021 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE OCTUBRE DE 2021]</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -349,7 +349,9 @@ I. Los Medios de Comunicación a utilizar;
 
 II. Los recursos a erogar, y
 
-III. Los requisitos adicionales que establezcan la Coordinación General de Difusión de los Derechos Humanos y la Coordinación General de Administración y Finanzas de conformidad con las disposiciones que para tal efecto emitan en el marco de sus respectivas competencias.
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+
+III. Los requisitos adicionales que establezcan la Dirección General de Difusión de los Derechos Humanos y la Coordinación General de Administración y Finanzas de conformidad con las disposiciones que para tal efecto emitan en el marco de sus respectivas competencias.
 
 > <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
@@ -531,9 +533,9 @@ La persona titular de la Presidencia de la Comisión Nacional contará, además,
 
 Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al presidente de la Comisión Nacional nombrar y remover libremente a todo el personal, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, así como en el Estatuto del Servicio Civil de Carrera de la misma Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
-Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y remoción de los Visitadores Generales, del Secretario Ejecutivo, del Oficial Mayor, del Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y de los Directores Generales de sus respectivas áreas, así como la designación de los titulares de las Unidades Administrativas que apoyan el despacho de los asuntos que corresponden directamente a la Presidencia.
+Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y remoción de los Visitadores Generales, del Secretario Ejecutivo, del Coordinador General de Administración y Finanzas, del Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y de los Directores Generales de sus respectivas áreas, así como la designación de los titulares de las Unidades Administrativas que apoyan el despacho de los asuntos que corresponden directamente a la Presidencia.
 
 > <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
@@ -677,9 +679,9 @@ La persona que ocupe la titularidad de la Dirección General de Tecnologías de 
 
 La persona que ocupe la titularidad de la Dirección General de Recursos Materiales y Servicios Generales podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, XII, XIII, XIV, XVII y XIX, de este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
-El ejercicio de las atribuciones conferidas a los Directores Generales podrá realizarse sin perjuicio del ejercicio directo que realice el Oficial Mayor.
+El ejercicio de las atribuciones conferidas a los Directores Generales podrá realizarse sin perjuicio del ejercicio directo que realice la persona titular de la Coordinación General de Administración y Finanzas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
@@ -973,19 +975,25 @@ Para el cumplimiento de sus atribuciones la Coordinación General de Seguimiento
 
 La Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos contará cuando menos con las siguientes áreas:
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
-a). De Seguimiento de Recomendaciones;
+I) De Seguimiento de Recomendaciones;
 
-b). De lo Contencioso;
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
 
-c). De lo Consultivo; y
+II) De lo Contencioso;
 
-d). De Normatividad.
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+III) De lo Consultivo;
 
-e). De Acciones de Inconstitucionalidad.
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+
+IV) De Normatividad, y
+
+(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
+
+V) De Acciones de Inconstitucionalidad.
 
 > <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
@@ -1001,7 +1009,9 @@ La persona quien ocupe la titularidad del área de lo Consultivo podrá ejercer 
 
 La persona quien ocupe la titularidad del área de Acciones de Inconstitucionalidad podrá ejercer las atribuciones señaladas en la fracción VIII.
 
-El ejercicio de las atribuciones conferidas a los titulares de la Unidad y de las áreas podrá realizarse sin perjuicio del ejercicio directo que realice el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos.
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+
+El ejercicio de las atribuciones conferidas a los titulares de las áreas podrá realizarse sin perjuicio del ejercicio directo que realice el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos.
 
 ###### Artículo 34.
 
@@ -1195,11 +1205,11 @@ XLII. Certificar los documentos necesarios que emita conforme a sus atribuciones
 
 XLIII. Las demás que le confieren otros ordenamientos legales.
 
-> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+(REFORMADO, D.O.F. 26 DE JUNIO DE 2017) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
 ###### Artículo 39.
 
-(Estructura)
+(Estructura del Órgano Interno de Control)
 
 El Órgano Interno de Control, para el buen despacho de los asuntos que tiene encomendados, contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, conforme al marco jurídico que rige su actuación.
 
@@ -1207,7 +1217,9 @@ La persona titular del Órgano Interno de Control tendrá la facultad de nombrar
 
 En los acuerdos y lineamientos del Órgano Interno de Control señalarán las personas servidoras públicas del mismo que podrán suplir en ausencias temporales a la persona titular del Órgano Interno de Control en el ejercicio de sus atribuciones y/o funciones.
 
-Para el ejercicio de sus atribuciones, el Órgano Interno de Control contará con las siguientes áreas:
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+
+Para el ejercicio de sus atribuciones, el ejercicio de sus atribuciones, el Órgano Interno de Control contará con las siguientes áreas:
 
 I. Quejas, Denuncias y Notificaciones;
 
@@ -1215,7 +1227,9 @@ I. Quejas, Denuncias y Notificaciones;
 
 II. Responsabilidades, Situación Patrimonial y Defensa Jurídica;
 
-III. Control y Auditorías, y
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+
+II (SIC). Control y Auditorías, y
 
 IV. Evaluación de la Gestión.
 
@@ -1233,9 +1247,9 @@ La persona quien ocupe la titularidad del Área de Responsabilidades, Situación
 
 La persona quien ocupe la titularidad del Área de Control y Auditorías, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXXV, XXXVIII, XXXIX y XLIII;
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
-La persona quien ocupe la titularidad del Área de Evaluación de la Gestión, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX, XLII y XLIII.
+La persona quien ocupe la titularidad del Área del Evaluación de la Gestión podrá ejercer las atribuciones señaladas en las fracciones, I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX y XLIII.
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
@@ -1265,7 +1279,9 @@ En la última sesión de cada año, el presidente de la Comisión Nacional prese
 
 El proyecto de presupuesto de la Comisión Nacional para el ejercicio del año siguiente, también será presentado ante el Consejo Consultivo una vez que se tenga integrado, para que éste emita su opinión.
 
-De igual manera, el informe sobre el ejercicio programático-presupuestal se presentará en la tercera sesión de cada año, siempre y cuando hubiese concluido la cuenta pública. El presidente de la Comisión Nacional, solicitará a los miembros del Consejo Consultivo que el Oficial Mayor se incorpore a la sesión, rinda la explicación relativa al presupuesto ejercido y realice la presentación del presupuesto autorizado para el ejercicio fiscal en curso.
+> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+
+De igual manera, el informe sobre el ejercicio programático-presupuestal se presentará en la tercera sesión de cada año, siempre y cuando hubiese concluido la cuenta pública. El presidente de la Comisión Nacional, solicitará a los miembros del Consejo Consultivo que el Coordinador General de Administración y Finanzas se incorpore a la sesión, rinda la explicación relativa al presupuesto ejercido y realice la presentación del presupuesto autorizado para el ejercicio fiscal en curso.
 
 ###### Artículo 43.
 
@@ -2515,9 +2531,13 @@ Una vez aprobada y suscrita la recomendación por el presidente de la Comisión 
 
 Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en la Gaceta, un boletín de prensa y en la página Web de la Comisión Nacional, así como mediante las acciones que la Dirección General de Comunicación acuerde con el Presidente de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
-La Dirección General de Quejas y Orientación remitirá a la Dirección General de Comunicación copia del oficio de notificación y del texto de la recomendación. Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el honor y buen nombre de las personas.
+Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en la Gaceta, un boletín de prensa y en la página Web de la Comisión Nacional, así como mediante las acciones que la Dirección General de Difusión de los Derechos Humanos acuerde con el Presidente de la Comisión Nacional.
+
+(REFORMADO, D.O.F. 18 DE MARZO DE 2021) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
+
+La Dirección General de Quejas y Orientación remitirá a la Dirección General de Difusión de los Derechos Humanos copia del oficio de notificación y del texto de la recomendación. Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el honor y buen nombre de las personas.
 
 ###### Artículo 134.
 
@@ -2551,9 +2571,9 @@ Se entiende que la autoridad o servidor público que haya aceptado una recomenda
 
 (Seguimiento de las recomendaciones)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
-El Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y el personal adscrito a la Unidad de Seguimiento de Recomendaciones, serán considerados como Visitadores Adjuntos para efectos del artículo 73 de la Ley, quienes darán seguimiento a las recomendaciones con el apoyo necesario de las Visitadurías Generales correspondientes y del personal que haya intervenido en su elaboración, y reportarán al Presidente de la Comisión Nacional el estado de las mismas de acuerdo con los siguientes supuestos:
+El Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y el personal adscrito al área de Seguimiento de Recomendaciones, serán considerados como Visitadores Adjuntos para efectos del artículo 73 de la Ley, quienes darán seguimiento a las recomendaciones con el apoyo necesario de las Visitadurías Generales correspondientes y del personal que haya intervenido en su elaboración, y reportarán al Presidente de la Comisión Nacional el estado de las mismas de acuerdo con los siguientes supuestos:
 
 I. Recomendaciones no aceptadas;
 
@@ -3138,3 +3158,9 @@ Primero. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión 
 Segundo. Entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Tercero. El Manual de Organización General de la Comisión Nacional de los Derechos Humanos, que refleje las modificaciones realizadas al Reglamento Interno, será expedido dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA "ACLARACIÓN AL ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, PUBLICADO EL 8 DE OCTUBRE DE 2021".]
+
+ÚNICO.- Publíquese el presente Acuerdo Aclaratorio en el Diario Oficial de la Federación.
