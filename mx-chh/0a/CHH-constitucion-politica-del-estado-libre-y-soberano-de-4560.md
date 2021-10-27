@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2020-12-16"
+last_updated: "2021-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2021.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -3295,9 +3295,9 @@ Cuando estuviere por agotarse alguna asignación en cualquier partida del presup
 
 El encargado de las finanzas del Estado y los demás funcionarios y empleados que manejen, recauden o administren fondos públicos, otorgarán garantía suficiente.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
-Asimismo, deberán acudir, dentro de los tres meses siguientes a su nombramiento o de haber tomado posesión del cargo público, a los cursos de capacitación, profesionalización y/o certificación que, en su caso, implemente la Auditoría Superior del Estado, a efecto de cumplir con las obligaciones inherentes a su cargo.
+Asimismo, deberán asistir a los cursos de capacitación, profesionalización y/o certificación que implementen las instituciones especializadas en la fiscalización de recursos públicos, a efecto de cumplir con las obligaciones inherentes a su cargo.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -5372,6 +5372,18 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 16 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXVI/RFCNT/0585/2019 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFCNT/1030/2021 XII P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 168, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
 
