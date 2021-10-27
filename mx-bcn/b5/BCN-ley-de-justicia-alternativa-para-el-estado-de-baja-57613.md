@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2020-01-10"
+last_updated: "2021-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -45,35 +47,57 @@ LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público e interés social, de observancia general en el Estado de Baja California, y tiene por objeto regular y fomentar el uso de los medios alternativos a la justicia ordinaria, para la prevención y solución de controversias entre personas físicas o morales, cuando estas recaigan sobre derechos de los que puedan disponer libremente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 2.
 
-Para efectos de esta ley, se entiende por:
+Para los efectos de esta Ley, se entiende por:
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 I.- Acuerdo: Acto voluntario donde la víctima, ofendido y el imputado, pactan una forma de poner término al conflicto penal sin necesidad de llegar a un juicio.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 II.- Centro: Al Centro Estatal de Justicia Alternativa, órgano auxiliar del Poder Judicial del Estado adscrito al Consejo de la Judicatura.
 
-III.- Convenio: Al acto voluntario que pone fin a una controversia en materia civil, familiar y mercantil, en forma total o parcial, y tiene respecto a los participantes la misma eficacia y autoridad que la cosa juzgada, previo su trámite respectivo conforme a lo dispuesto por esta Ley y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.0. 27 DE OCTUBRE DE 2021)</small>
+
+III.- Convenio: Al acto voluntario que pone fin a una controversia en materia civil, familiar, mercantil y laboral, en forma total o parcial, y tiene respecto a los participantes la misma eficacia y autoridad que la cosa juzgada, previo su trámite respectivo conforme a lo dispuesto por esta Ley y las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV.- Conciliación: Al procedimiento voluntario por el cual dos o más personas involucradas en una controversia, logran solucionarla, a través de la comunicación dirigida mediante recomendaciones o sugerencias de solución facilitadas por un tercero que interviene para tal efecto.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 V.- Controversia: A la situación que se genera cuando dos o más personas manifiestan posiciones objetiva o subjetivamente incompatibles respecto de relaciones o bienes de interés público o privado.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VI.- Especialista: A la persona capacitada y certificada para la aplicación ya sea de la mediación, conciliación o proceso restaurativo.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 VII.- Ley: A la Ley de Justicia Alternativa para el Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VIII.- Mediación: Al procedimiento voluntario por el cual dos o más personas involucradas en una controversia, asistidas por un tercero imparcial, conjuntamente participan en dirimirla y elaboran un convenio o acuerdo que le ponga fin, debido a la comunicación que este propicia.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 IX.- Medios Alternativos: A los procedimientos de mediación y conciliación, así como el proceso restaurativo, que permitirán a los particulares prevenir controversias o en su caso, lograr soluciones a las mismas, sin necesidad de intervención de los órganos jurisdiccionales, salvo para garantizar el respeto al convenio o acuerdo adoptado por los participantes, y para el cumplimiento forzoso del mismo en el caso del convenio.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 X.- Partes: A las personas físicas o morales con interés legítimo que participen en los procedimientos de medios alternativos.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 XI.- Proceso restaurativo: Al mecanismo cuyo propósito es la reparación y compensación para la víctima, el reconocimiento por parte del ofensor de la responsabilidad de sus acciones y del daño que ha causado y la manera de repararlo, así como la reincorporación de ambos a la comunidad, procurando obtener la rehabilitación del ofensor, previniendo su reincidencia y la satisfacción de las necesidades tanto de la víctima como del victimario.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 XII.- Reglamento: A las disposiciones reglamentarias que emitan el Poder Ejecutivo y el Consejo de la Judicatura, en el ámbito de sus respectivas competencias.
 
@@ -441,13 +465,11 @@ En caso de existir una suspensión del trámite a petición de alguna de las par
 
 ### CAPÍTULO QUINTO. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 22.
 
-El Centro es un órgano adscrito al Consejo de la Judicatura del Poder Judicial del Estado, y tiene a su cargo la prestación de los servicios de mediación y conciliación en materia civil, familiar y mercantil.
+El Centro es un órgano adscrito al Consejo de la Judicatura del Poder Judicial del Estado, y tiene a su cargo la prestación de los servicios de mediación y conciliación en materia civil, familiar, mercantil, así como en materia laboral respecto a controversias que estén siendo ventiladas en juicio ante los Juzgados Laborales del Poder Judicial del Estado, siempre y cuando así lo soliciten las partes.
 
 La residencia del Centro será la Ciudad de Mexicali, capital del Estado, y contará con dos oficinas regionales como mínimo en las cabeceras municipales que corresponden a Tijuana y Ensenada, sin perjuicio de que el Consejo de la Judicatura establezca otras sedes de acuerdo a las necesidades de los justiciables y el presupuesto asignado.
 
@@ -976,3 +998,9 @@ P.O. 10 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 24 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES XI, XII, XIII, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN XIV AL ARTÍCULO 26 DE LA LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 27 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 21 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
