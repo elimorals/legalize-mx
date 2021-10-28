@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-07-08"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -133,89 +133,83 @@ XIV.- La debida diligencia, y
 
 XV.- La no revictimización.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-I.- Consejo: El Consejo Estatal para la Atención de la Violencia Familiar;
+I.- Acciones afirmativas: Medidas especiales de carácter temporal, encaminadas a garantizar la igualdad sustantiva entre mujeres y hombres, así como entre niñas y niños, en todas las esferas de su vida económica, política, civil, social, educativa y cultural, eliminando todas las formas de discriminación en contra de mujeres y niñas, que menoscaban, restringen o anulan el ejercicio de sus derechos humanos;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+II.- Acceso a la justicia: Conjunto de medidas y acciones jurídicas que, en los diferentes ámbitos del derecho, deben realizar y aplicar las dependencias, instituciones y entidades del sector público para garantizar y hacer efectiva la exigibilidad de los derechos humanos de las mujeres y las niñas. Implica, además, la instrumentación de medidas y órdenes de protección, así como el acompañamiento, la representación y defensoría jurídica y, en su caso, la reparación integral del daño;
 
-II.- Derechos Humanos de las Mujeres: Aquellos derechos subjetivos que corresponden universalmente y de manera integrante, inalienable e indivisible a toda persona de sexo femenino contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer y demás instrumentos nacionales e internacionales en la materia de los cuales el Estado Mexicano sea parte;
+III.- Actualización y profesionalización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas concepciones en materia de igualdad sustantiva y derechos humanos de las mujeres. Tratándose de profesionalización se deberán proporcionar conocimientos específicos, construidos desde la perspectiva de género, el interés superior de la niñez y los derechos humanos, que deben articularse con la disciplina académica y técnica de las personas funcionarias, a fin de aplicarlos en todo su ejercicio profesional para asegurar la igualdad sustantiva entre mujeres y hombres, los derechos humanos de las mujeres, particularmente su derecho a una vida libre de violencia;
 
-II Bis.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
+IV.- Persona agresora: La persona que inflige cualquier tipo de violencia contra las mujeres y las niñas;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+V.- Atención: Es el conjunto de medidas, acciones y servicios especializados, integrales, gratuitos, basados en la perspectiva de género, el interés superior de la niñez y derechos humanos, proporcionados por las instancias gubernamentales y privadas; en favor de las mujeres incluyendo el acceso a los servicios sin discriminación de ningún tipo, incluyendo en su caso, a sus hijas e hijos. La finalidad de la atención es el fortalecimiento del ejercicio pleno de los derechos de las mujeres y las niñas, así como su empoderamiento, lo que implica el resarcimiento, participación, reparación y protección de sus derechos humanos;
 
-III.- Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
+VI.- Consejo: El Consejo Estatal para la Atención de la Violencia Familiar;
+
+VII.- Debida diligencia: La obligación de las personas servidoras públicas, las dependencias y entidades del gobierno, de realizar todas las actuaciones necesarias dentro de un plazo razonable, a través de una respuesta eficiente, eficaz, oportuna, responsable con perspectiva de género y derechos humanos, para la prevención, atención, investigación, sanción y reparación integral del daño a las mujeres víctimas de violencia.
+
+Tratándose de niñas, las obligaciones señaladas en el párrafo anterior se cumplirán con especial celeridad y de forma exhaustiva, libre de prácticas discriminatorias basadas en estereotipos de género, de conformidad con el interés superior de la niñez;
+
+VIII.- Derechos humanos de las mujeres: Aquellos derechos subjetivos que corresponden universalmente y de manera integrante, inalienable e indivisible a toda persona de sexo femenino contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer y demás instrumentos nacionales e internacionales en la materia de los cuales el Estado Mexicano sea parte;
+
+IX.- Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
 
 También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+X.- Empoderamiento de las mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-IV.- Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+XI.- Erradicación de la violencia contra las mujeres: Consiste en la eliminación de los diferentes tipos y modalidades de la violencia ejercida en contra de mujeres, los estereotipos, valores, actitudes y creencias misóginas y androcéntricas; con la finalidad de garantizar las condiciones para la vigencia y acceso al ejercicio pleno de los derechos humanos de las mujeres y las niñas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XII.- Igualdad formal: Reconocimiento ante la ley, las normas, las políticas públicas, acciones, programas, presupuestos y ante las estructuras de gobierno, de la condición igualitaria entre las mujeres y los hombres mediante la cual se asegura que todas las personas gocen de los mismos derechos;
 
-V.- Instituciones Públicas o Privadas: Las instituciones públicas o privadas encargadas de la atención a las mujeres víctimas por violencia, ya sean asociaciones, sociedades o agrupaciones legalmente constituidas que tengan ese objeto, así como realizar acciones de prevención, atención y erradicación de la violencia contra las mujeres;
+XIII.- Igualdad sustantiva: Condición a la que las mujeres tienen derecho y que el Estado, debe garantizar mediante el establecimiento de normas, leyes, políticas públicas, acciones, programas, presupuestos y las medidas necesarias de carácter estructural, social y cultural para lograr el acceso de las mujeres, de cualquier edad, al ejercicio de todos los derechos humanos y libertades; así como al acceso a oportunidades, bienes, servicios, recursos en todos los ámbitos de la vida, eliminando todas las formas de discriminación;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XIV.- Instituciones públicas o privadas: Las instituciones públicas o privadas encargadas de la atención a las mujeres víctimas por violencia, ya sean asociaciones, sociedades o agrupaciones legalmente constituidas que tengan ese objeto, así como realizar acciones de prevención, atención y erradicación de la violencia contra las mujeres;
 
-VI.- Ley: La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
+XV.- Ley: La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XVI.- Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-VII.- Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+XVII.- Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XVIII.- Modalidades de violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
-VIII.- Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+XIX.- Mujeres en condición de riesgo: Aquellas que por su origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; y cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XX.- Persona en condición de vulnerabilidad: Aquella que, por razón de su edad, género, estado físico o mental, o por circunstancias sociales, económicas, étnicas y culturales, encuentra especial dificultad para ejercitar con plenitud ante el sistema de justicia sus derechos humanos;
 
-IX.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+XXI.- Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquía de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XXII.- Políticas públicas con perspectiva de género: Conjunto de orientaciones y directrices dirigidas a asegurar los principios y derechos consagrados en la Ley, para abatir las desigualdades de género y garantizar el ejercicio pleno de los derechos humanos de las mujeres y las niñas; La incorporación de la perspectiva de género es una herramienta de apoyo fundamental para los procesos de toma de decisiones vinculados a la formulación y puesta en ejecución de las políticas públicas, para obtener los mejores resultados en términos de igualdad sustantiva;
 
-X.- Víctima: La mujer de cualquier edad a quien se le causa algún tipo de violencia;
+XXIII.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
 
-X Bis.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
+XXIV.- Prevención: Estrategias y acciones coordinadas y anticipadas para evitar las violencias contra las mujeres, su continuidad o incremento, así como las actitudes y los estereotipos existentes en la sociedad acerca de las mujeres; Tratándose de niñas, las estrategias y acciones de prevención velarán por el cumplimiento del interés superior de la niñez y atenderán los principios de autonomía progresiva en el ejercicio de los derechos y la libre personalidad;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+XXV.- Principio de no revictimización: Obligación del Estado, y las personas que ejerzan el servicio público, en los ámbitos de sus competencias, de tomar todas las medidas necesarias para evitar a la víctima la constante actualización de lo sucedido, u otra acción que pueda constituirse en una nueva experiencia traumática;
 
-XI.- Mujeres en condición de riesgo: Aquellas que por su origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; y/o cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
+XXVI.- Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XXVII.- Programa estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XII.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquía de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XXVIII.- Reparación integral del daño a las mujeres víctimas de violencia: Acciones que, de conformidad con el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Víctimas y demás ordenamientos jurídicos, deberán ser implementadas por las autoridades correspondientes, a favor de las mujeres víctimas de violencias, con una vocación transformadora; es decir, desde un enfoque no sólo restitutivo sino también correctivo, que combata las situaciones de discriminación en que viven las víctimas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XXIX.- Sistema estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-XIII.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
+XXX.- Sistema nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+XXXI.- Tipos de violencia: Son las formas y manifestaciones en que se presenta la violencia contra las mujeres;
 
-XIV.- Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+XXXII.- Víctima: La mujer de cualquier edad a quien se le causa algún tipo de violencia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XXXIII.- Víctima indirecta de la violencia de género: Familiares de la víctima y personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres; y
 
-XV.- Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XVI.- Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XVII.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XVIII.- Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XIX.- Violencia contra las Mujeres: Cualquier acción u omisión que, con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual, obstétrico o la muerte, en cualquier ámbito.
+XXXIV.- Violencia contra las mujeres: Cualquier acción u omisión que, con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual, obstétrico o la muerte, en cualquier ámbito.
 
 ###### ARTÍCULO 7.
 
@@ -1745,7 +1739,7 @@ Los agresores deberán asistir obligatoriamente a los programas de reeducación 
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
 ## TÍTULO V. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1753,7 +1747,13 @@ Los agresores deberán asistir obligatoriamente a los programas de reeducación 
 
 ###### ARTÍCULO 58.
 
-Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
+Las personas servidoras públicas del Estado de Puebla; serán responsables por todo acto u omisión que viole, infrinja, incumpla o contraríe las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+###### ARTÍCULO 59.
+
+La responsabilidad de las personas servidoras públicas; será sancionada por los órganos de control competentes de conformidad con la legislación aplicable, sin menoscabo de las acciones penales, civiles, administrativas o cualquier otra que se derive de su incumplimiento.
 
 ## TRANSITORIOS
 
@@ -1972,6 +1972,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 6 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 58 Y ADICIONA EL ARTÍCULO 59 DE LA LEY PARA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
