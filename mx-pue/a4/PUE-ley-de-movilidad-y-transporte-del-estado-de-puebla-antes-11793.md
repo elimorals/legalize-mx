@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2021-06-21"
+last_updated: "2021-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -2189,11 +2189,11 @@ V.- Las demás que emita y dé a conocer con oportunidad la Secretaría y que se
 
 ### CAPITULO UNICO. LAS CAMPAÑAS, PROGRAMAS, CURSOS DE EDUCACION Y PROTECCION ECOLOGICA
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 126.
 
-La Secretaría y Carreteras de Cuota-Puebla, en coordinación con las autoridades competentes, desarrollarán campañas, programas y cursos de seguridad, educación vial, sensibilización y atención a personas con discapacidad, destinados a difundir en los diferentes sectores de la población los conocimientos básicos necesarios en la materia, con el objeto de reducir el índice de accidentes, de tránsito, facilitar la circulación de los vehículos en los centros de población y en la infraestructura vial de la Entidad, racionalizar el comportamiento de los peatones, desarrollar y estimular el sentido de responsabilidad y profesionalismo de los conductores de los vehículos del servicio público de transporte y en general, crear las condiciones necesarias a fin de lograr el mayor bienestar de la población.
+La Secretaría y Carreteras de Cuota-Puebla, en coordinación con las autoridades competentes, desarrollarán campañas, programas y cursos de seguridad, educación vial, sensibilización, erradicación de violencia de género, igualdad sustantiva y atención a personas con discapacidad, destinados a difundir en los diferentes sectores de la población los conocimientos básicos necesarios en la materia, con el objeto de reducir el índice de accidentes, de tránsito, facilitar la circulación de los vehículos en los centros de población y en la infraestructura vial de la entidad, racionalizar el comportamiento de los peatones desarrollar y estimular el sentido de responsabilidad y profesionalismo de los conductores de los vehículos del servicio público de transporte y en general, crear las condiciones necesarias a fin de lograr el mayor bienestar de la población.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
 
@@ -2798,6 +2798,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 12 BIS DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 126 DE LA LEY DE MOVILIDAD Y TRASPORTE DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
