@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-10-25"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -1159,9 +1159,141 @@ VIII. Tribunal Laboral Federal de asuntos individuales en el Estado de San Luis 
 
 IX. Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
 
-X. Tribunal Laboral Federal de asuntos individuales en el Estado de Zacatecas, con sede en Zacatecas; y
+> <small>(REFORMADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
-XI. Tribunal Laboral Federal de asuntos colectivos, con sede en la Ciudad de México.
+X. Tribunal Laboral Federal de asuntos individuales en el Estado de Zacatecas, con sede en Zacatecas;
+
+> <small>(REFORMADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XI. Tribunal Laboral Federal de asuntos colectivos, con sede en la Ciudad de México;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XII. Tribunal Laboral Federal de asuntos individuales en el Estado de Aguascalientes, con sede en Aguascalientes;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XIII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Ensenada;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XIV. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XV. Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California Sur, con sede en La Paz;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XVI. Tribunal Laboral Federal de asuntos individuales en el Estado de Colima, con sede en Colima;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XVII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XVIII. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XIX. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XX. Tribunal Laboral Federal de asuntos individuales en el Estado de Guerrero, con sede en Acapulco;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXI. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Morelos, con sede en Cuernavaca;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXII. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Morelos, con sede en Cuernavaca;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXIII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Oaxaca, con sede en Oaxaca;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXIV. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Oaxaca, con sede en Oaxaca;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXV. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Puebla, con sede en Puebla;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXVI. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Puebla, con sede en Puebla;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXVII. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Puebla, con sede en Puebla;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXVIII. Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Puebla, con sede en Puebla;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXIX. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Querétaro, con sede en Querétaro;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXX. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Querétaro, con sede en Querétaro;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXI. Tribunal Laboral Federal de asuntos individuales en el Estado de Quintana Roo, con sede en Cancún;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Tlaxcala, con sede en Tlaxcala;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXIII. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Tlaxcala, con sede en Tlaxcala;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXIV. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Tlaxcala, con sede en Tlaxcala;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXV. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Coatzacoalcos;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXVI. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Coatzacoalcos;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXVII. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Boca del Río;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXVIII. Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Boca del Río;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XXXIX. Quinto Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Boca del Río;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XL. Sexto Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Xalapa;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XLI. Séptimo Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Xalapa;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XLII. Octavo Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Xalapa; y
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XLIII. Noveno Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, con sede en Xalapa.
 
 > <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -1177,9 +1309,33 @@ IV. El Tribunal Laboral Federal de asuntos individuales en el Estado de México 
 
 V. El Tribunal Laboral Federal de asuntos individuales en el Estado de México, con residencia en Naucalpan tendrá jurisdicción en los municipios de Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec de Morelos, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Tonanitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón, Zumpango, Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad;
 
-VI. El Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco tendrá jurisdicción únicamente en los municipios que comprenden a dicha entidad federativa; y
+> <small>(REFORMADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
-VII. El Tribunal Laboral Federal de asuntos colectivos con sede en la Ciudad de México tendrá jurisdicción para conocer de los conflictos colectivos federales que se susciten en los Estados de Campeche, Chiapas, Durango, México, Hidalgo, San Luis Potosí, Tabasco y Zacatecas, con excepción de aquellos que pertenezcan a los municipios del Estado de Durango a que se refiere la fracción III.
+VI. El Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco tendrá jurisdicción únicamente en los municipios que comprenden a dicha entidad federativa;
+
+> <small>(REFORMADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+VII. El Tribunal Laboral Federal de asuntos colectivos con sede en la Ciudad de México tendrá jurisdicción para conocer de los conflictos colectivos federales que se susciten en los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Colima, Durango, Guanajuato, Guerrero, Hidalgo, México, Morelos, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Tabasco, Tlaxcala, Veracruz y Zacatecas, con excepción de aquellos que pertenezcan a los municipios del Estado de Durango a que se refiere la fracción III.
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+VIII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Ensenada, tendrá jurisdicción en los Municipios de Ensenada y San Quintín;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+IX. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana, tendrá jurisdicción en los municipios de Tijuana, Tecate, Mexicali y Playas de Rosarito;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+X. El Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, así como el Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, ambos con sede en Coatzacoalcos, tendrán jurisdicción en los siguientes municipios: Acayucan, Agua Dulce, Catemaco, Chinameca, Coatzacoalcos, Cosoleacaque, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza;
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XI. El Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, el Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, así como el Quinto Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, todos con sede en Boca del Río, tendrán jurisdicción en los siguientes municipios: Acula, Alvarado, Amatitlán, Ángel R. Cabada, Boca del Río, Carlos A. Carrillo, Carrillo Puerto, Chacaltianguis, Cosamaloapan de Carpio, Cotaxtla, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Playa Vicente, Saltabarranca, San Andrés Tuxtla, San Juan Evangelista, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Úrsulo Galván y Veracruz; y
+
+> <small>(ADICIONADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+
+XII. El Sexto Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, el Séptimo Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, el Octavo Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz y el Noveno Tribunal Laboral Federal de asuntos individuales en el Estado de Veracruz, todos con sede en Xalapa, tendrán jurisdicción en los siguientes municipios: Acajete, Acatlán, Actopan, Acultzingo, Álamo de Temapache, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Amatlán de los Reyes, Apazapan, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinampa de Gorostiza, Chocamán, Chontla, Chumatlán, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzintla, Coetzala, Colipa, Comapa, Córdoba, Cosautlán de Carvajal, Coscomatepec, Coxquihui, Coyutla, Cuichapa, Cuitláhuac, El Higo, Emiliano Zapata, Espinal, Filomeno Mata, Fortín, Gutiérrez Zamora, Huatusco, Huayacocotla, Huiloapan de Cuauhtémoc, Ilamatlán, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Ixhuatlán del Café, Ixhuatlancillo, Ixtaczoquitlán, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, La Perla, Landero y Coss, Las Minas, Las Vigas de Ramírez, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Martínez de la Torre, Mecatlán, Miahuatlán, Misantla, Mixtla de Altamirano, Naolinco, Naranjal, Naranjos-Amatlán, Nautla, Nogales, Omealca, Orizaba, Ozuluama de Mascareñas, Pánuco, Papantla, Paso de Ovejas, Paso del Macho, Perote, Platón Sánchez, Poza Rica de Hidalgo, Pueblo Viejo, Puente Nacional, Rafael Delgado, Rafael Lucio, Río Blanco, San Andrés Tenejapan, San Rafael, Sochiapa, Soledad Atzompa, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tatatila, Tecolutla, Tehuipango, Tempoal, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tepetzintla, Tequila, Texcatepec, Texhuacán, Tezonapa, Tihuatlán, Tlachichilco, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tlaquilpa, Tlilapan, Tomatlán, Tonayán, Totutla, Tuxpan, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Xoxocotla, Yanga, Yecuatla, Zacualpan, Zentla, Zongolica, Zontecomatlán de López y Fuentes, y Zozocolco de Hidalgo.
 
 > <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 15/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE OCTUBRE DE 2021)</small>
 
@@ -8478,3 +8634,15 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Tercero de Distrito en Materia Administrativa Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y jurisdicción en toda la República Mexicana.
 
 QUINTO. El personal de la Dirección General de Servicios Generales apoyará, para el traslado de los asuntos que por turno corresponda conocer, al Juzgado Tercero de Distrito en Materia Administrativa Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y jurisdicción en toda la República Mexicana.
+
+D.O.F. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 3 de noviembre de 2021, con excepción del transitorio TERCERO, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
