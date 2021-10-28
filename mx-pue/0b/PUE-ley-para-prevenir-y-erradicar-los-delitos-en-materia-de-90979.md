@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-erradicar-los-delitos-en-materia-de-90979"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2019-12-06"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -63,9 +63,11 @@ V.- Fomentar la participación ciudadana en la prevención de las conductas de l
 
 VI.- Determinar disposiciones especiales para la instrumentación y operatividad de los procedimientos penales aplicables a los delitos de Trata de Personas incluidos derechos procedimentales a las víctimas de estos delitos.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán, aplicarán y darán publicidad a esta Ley, a los ordenamientos estatales relacionados con ella, a las acciones, políticas y programas sociales destinados al cumplimiento de los objetivos de esta Ley.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán, aplicarán y darán publicidad a esta Ley, a los ordenamientos estatales relacionados con ella, a las acciones, políticas y programas sociales destinados al cumplimiento de los objetivos de esta Ley, así como considerará la aplicación del marco convencional, la protección de los Derechos Humanos y de todos los instrumentos específicos en esta materia.
 
 ###### ARTÍCULO 3.
 
@@ -1028,3 +1030,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 2 DE LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
