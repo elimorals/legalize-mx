@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2020-11-17"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -683,11 +683,23 @@ Cuando se turne un asunto al órgano jurisdiccional y éste estime que es a otro
 
 En caso contrario, de no aceptar, devolverá el asunto al requirente, quien resolverá si insiste en no conocer del asunto por razón de turno, si no insiste, se limitará a comunicar su resolución al requerido. Si persiste en ello, sin suspender el trámite y únicamente con copia certificada de las constancias que acrediten lo argumentado; así como, la propuesta que se plantee, formulará consulta a la Comisión de Creación de Nuevos Órganos, la que resolverá de plano.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 46 Bis.
 
-En el caso de solicitudes para iniciar el procedimiento de ejecución de las sentencias emitidas por los tribunales laborales federales, así como de los convenios aprobados por el Centro Federal de Conciliación y Registro Laboral, el turno no será llevado a cabo por antecedentes y, consecuentemente, no se turnará al juez que en su caso emitió la resolución sino a cualquiera de manera aleatoria.
+En el caso de solicitudes para iniciar el procedimiento de ejecución, se observará lo siguiente:
+
+I. Tratándose de convenios aprobados por el Centro Federal de Conciliación y Registro Laboral que no hubieran sido cumplidos en sus términos:
+
+a) Cuando el Tribunal Laboral Federal, se integre por un Titular, corresponde a éste proveer lo conducente; y
+
+b) Cuando el Tribunal Laboral Federal se integre por más de un Titular, el turno se hará de forma aleatoria, conforme a lo dispuesto en el artículo 45 fracción I de este Acuerdo.
+
+La solicitud de inicio de procedimiento de ejecución constituirá un nuevo expediente al cual deberá asignarse un número consecutivo que corresponda para ese tipo de asuntos.
+
+II. Tratándose de sentencias dictadas por los Tribunales Laborales Federales, resoluciones dictadas en conflictos colectivos de naturaleza económica o laudos arbitrales, se tramitarán y resolverán ante el Juez que conoció de origen.
+
+La solicitud de inicio de procedimiento de ejecución se tramitará en el expediente de origen, sin necesidad de registrarla como un nuevo asunto.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -3754,3 +3766,15 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
+
+D.O.F. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 3 de noviembre de 2021, con excepción del transitorio TERCERO, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
