@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2020-04-02"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -201,9 +201,21 @@ XXXIII. Difundir sin consentimiento de la persona agraviada, información sobre 
 
 XXXIV. Estigmatizar y negar derechos a personas con VIH/SIDA;
 
-XXXV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
 
-XXXVI. En general cualquier otro acto u omisión discriminatorio en términos del artículo 4, fracción III de esta Ley.
+XXXV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XXXVI. Prohibir, impedir, agredir o restringir a una madre amamantar a su hija o hijo en espacios públicos;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XXXVII. Promover, incitar o ejercer violencia en cualquiera de sus tipos y modalidades, así como estigmatizar, negar o impedir el acceso a cualquier servicio a las personas que se desempeñan en los servicios de salud privados o públicos, sean éstas del personal médico o de enfermería, o efectúen profesiones similares y auxiliares a este sector, durante el tiempo que corresponda a una contingencia sanitaria, emergencia, epidemia o pandemia, declarada en términos de Ley por las autoridades competentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XXXVIII. En general cualquier otro acto u omisión discriminatorio en términos del artículo 4, fracción III de esta Ley.
 
 ### CAPÍTULO II. DE LA APLICACIÓN E INTERPRETACIÓN DE LA LEY
 
@@ -522,6 +534,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 6 BIS Y ADICIONA LAS FRACCIONES XXXVII Y XXXVIII AL 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
