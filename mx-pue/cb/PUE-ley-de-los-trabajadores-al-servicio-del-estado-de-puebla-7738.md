@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2019-07-16"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -413,6 +413,10 @@ Sólo podrá concederse licencia con goce de sueldo al Secretario General del Si
 
 VIII.- Hacer las deducciones en los salarios que solicite el Sindicato, siempre que se ajusten a los términos de esta Ley.
 
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+IX.- Impartir cursos de capacitación, talleres de sensibilización o seminarios de actualización de asistencia obligatoria sobre educación, valores y relaciones libres de violencia entre géneros, para alcanzar mayor equilibrio e igualdad entre mujeres y hombres.
+
 ### CAPITULO II.
 
 De las obligaciones de los trabajadores al servicio del Estado.
@@ -440,6 +444,10 @@ VII.- Cuidar los enseres que les sean proporcionados para su trabajo y evitar cu
 VIII.- Abstenerse de hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo.
 
 IX.- Asistir a los cursos que se impartan para mejorar su preparación y eficiencia.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+X.- Asistir y participar activamente en los cursos de capacitación, talleres de sensibilización o seminarios de actualización; que se impartan de forma obligatoria, sobre educación, valores y relaciones libres de violencia entre géneros, para alcanzar mayor equilibrio e igualdad entre mujeres y hombres.
 
 T I T U L O C U A R T O
 
@@ -1106,3 +1114,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, a través de la instancia competente, preverá el impacto presupuestal necesario para la implementación de la presente reforma.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 39 Y LA FRACCIÓN X AL 40 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
