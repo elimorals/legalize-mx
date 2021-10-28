@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2021-06-30"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -819,13 +819,19 @@ Los partidos políticos nacionales o locales, con acreditación o registro ante 
 
 En los Distritos Uninominales con mayor presencia indígena de acuerdo al Instituto Nacional Electoral y en los Municipios con población de mayoría indígena, los Partidos Políticos postularán al menos al cincuenta por ciento de sus Candidatos a Diputados y a Presidentes Municipales, y deberán cumplir con la paridad entre los géneros establecidos en la Constitución; asimismo, deberán cumplir con la obligación de fortalecer y hacer efectiva la capacitación y participación política de las mujeres.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+(NOTA: EL 21 DE FEBRERO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2021 Y SU ACUMULADA 177/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE FEBRERO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 32.
 
-Los partidos políticos recibirán, en forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales.
+Los partidos políticos nacionales y locales que mantengan su registro y alcancen el tres por ciento de la votación en la elección PARA DIPUTADOS inmediata anterior, recibirán financiamiento público local para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales.
 
-La ley fijará las reglas y criterios a que se sujetará la asignación y distribución del financiamiento público; el relativo a las actividades ordinarias deberá ser entregado en tiempo y forma en los primeros días de cada mes, mientras que el tendiente a la obtención del voto, antes del periodo de campaña que corresponda.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+El financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos locales se fijará anualmente en los términos establecidos por la Ley General de Partidos Políticos. El financiamiento público local para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos nacionales se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado de Chiapas, por el treinta y dos punto cinco por ciento del valor diario de la Unidad de Medida y Actualización. El relativo a las actividades ordinarias deberá ser entregado en tiempo y forma en los primeros días de cada mes, mientras que el tendiente a la obtención del voto, antes del periodo de campaña que corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Dicho financiamiento público formara parte del presupuesto del Instituto de Elecciones y Participación Ciudadana, más no de su patrimonio, por lo que éste no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten.
 
@@ -833,7 +839,11 @@ Dicho financiamiento público formara parte del presupuesto del Instituto de Ele
 
 Los partidos políticos deberán destinar por lo menos el seis por ciento de su financiamiento público ordinario anual a actividades de formación y capacitación para desarrollar el liderazgo político de las mujeres, y por lo menos el dos por ciento para desarrollar la participación política de los ciudadanos de los pueblos originarios.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 La fiscalización de las finanzas de los partidos políticos se realizará conforme a los principios de la Constitución Política de los Estados Unidos Mexicanos y a lo que determine la ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Los partidos políticos que pierdan su registro o acreditación, deberán reintegrar al erario estatal el excedente económico y los bienes muebles e inmuebles que hayan adquirido con recursos provenientes del financiamiento público estatal. La Ley establecerá los procedimientos de liquidación y devolución de los bienes.
 
@@ -2317,9 +2327,9 @@ El Tribunal Electoral del Estado de Chiapas es un organismo constitucional autó
 
 El Tribunal Electoral del Estado de Chiapas funcionará en Pleno, se integrará por tres Magistradas o Magistrados designados por el Senado de la República y sus emolumentos serán los previstos en el presupuesto de egresos del Estado, del ejercicio fiscal del año correspondiente.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
-Las y los Magistrados del Tribunal Electoral del Estado de Chiapas designarán de entre ellos, por mayoría de votos, a su Presidente. La Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
+Las y los Magistrados del Tribunal Electoral del Estado de Chiapas designarán de entre ellos, por mayoría de votos, al titular de la Presidencia. La designación de la Presidencia deberá ser rotatoria, atender el principio de alternancia paritaria de forma preferente y tendrá una duración de tres años, conforme al procedimiento y requisitos establecidos en la ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2337,9 +2347,9 @@ El Tribunal Electoral del Estado de Chiapas expedirá su reglamento interno y lo
 
 El Tribunal Electoral del Estado de Chiapas contará con una Contraloría General que tendrá a su cargo la fiscalización de las finanzas y recursos del Tribunal Electoral; su Titular será nombrado por el Pleno del propio Tribunal Electoral en la forma y términos que señale la ley, y mantendrá coordinación técnica con el Órgano de Fiscalización Superior del Congreso del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
-El Magistrado Presidente y los Magistrados Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
+Quien tenga la titularidad de la Presidencia y las Magistraturas Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4796,3 +4806,15 @@ P.O. 30 DE JUNIO DE 2021.
 Artículo Primero.- El presente Decreto surtirá efectos desde el día de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO.005 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 32; Y LOS PÁRRAFOS CUARTO Y NOVENO DEL ARTÍCULO 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero. El Congreso del Estado, dentro del plazo de 90 días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones normativas correspondientes a la Legislación Electoral, de conformidad con lo previsto en el presente Decreto.
+
+Artículo Cuarto. El Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado, en un plazo de 90 días siguientes a la entrada en vigor del presente Decreto, dictarán los acuerdos necesarios para hacer efectivas las disposiciones previstas en el presente Decreto, y deberán realizar las acciones necesarias para ajustar el mismo a cada una de sus normativas.
