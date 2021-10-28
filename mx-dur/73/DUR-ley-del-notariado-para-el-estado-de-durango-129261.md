@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-129261"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-12"
-last_updated: "2018-04-12"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de abril de 2018.
 
@@ -171,7 +171,9 @@ IX. Celebrar convenios con el Colegio para adecuar el arancel, cuando se trate d
 
 X. Autorizar temporalmente, para casos concretos, la ampliación de la demarcación notarial que tengan señalada para el desempeño de sus funciones los Notarios de la Entidad;
 
-XI. Autorizar cambios de adscripción de notarías cuando estuvieren vacantes; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XI. Los cambios de adscripción de notarios para ocupar las notarías que se declararan vacantes o en las de nueva creación.
 
 XII. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
@@ -213,11 +215,23 @@ II. Haber cumplido veintiocho años;
 
 III. Tener título de Licenciado en Derecho registrado en la Dirección General de Profesiones del Estado y con cinco años, mínimo, de ejercicio profesional; y cédula profesional expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
-IV. Haber realizado una práctica efectiva en una Notaría de la entidad, cuando menos por un período de dos años.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2021)</small>
 
-La práctica notarial se justificará con los avisos que lleve a cabo el Notario ante el titular del Poder Ejecutivo, el Secretario, la Dirección General y el Colegio, los cuales deberán entregarse en la fecha de inicio y a la terminación de la práctica del aspirante.
+IV. Haber realizado una práctica efectiva en una Notaría de la entidad y obtener la constancia emitida por el notario ante el que se realizó la práctica, en la que se haga constar que el postulante a aspirante a notario cuenta con la formación y experiencia necesaria en materia de derecho y función notarial; en este caso, el practicante deberá acreditar cuando menos dos años de práctica efectiva. Con esta constancia el notario titular llevará a cabo el aviso de terminación de la práctica del aspirante.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+La práctica notarial se justificará con el aviso de inicio y, en su caso, la constancia de terminación de práctica notarial que remita el Notario ante el Titular del Poder Ejecutivo, el Secretario, la Dirección General y el Colegio.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+Asimismo, la práctica notarial no podrá prestarse en una notaría cuyo titular tenga parentesco con el practicante hasta cuarto grado por consanguinidad y hasta un segundo grado por afinidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2021)</small>
 
 La interrupción de la práctica notarial por un período mayor de treinta días, sin causa justificada, dejará sin efecto el tiempo transcurrido desde el inicio de la práctica hasta la interrupción. El Notario deberá comunicar a la Dirección General esta circunstancia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2021)</small>
 
 Respecto del cumplimiento de la práctica, se estará a lo dispuesto en el Reglamento de esta Ley;
 
@@ -239,9 +253,11 @@ XII. Realizar el pago de derechos correspondiente ante la Secretaría de Finanza
 
 XIII. Ser aprobado en el examen que establece esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 11.
 
-Los requisitos señalados en el artículo anterior, se comprobarán, en la siguiente forma:
+Los requisitos señalados en el artículo anterior se comprobarán de la siguiente forma:
 
 I. Los que fijan las fracciones I y II, por los medios que establece el Código Civil del Estado;
 
@@ -251,7 +267,9 @@ III. La relativa al ejercicio profesional, mediante la constancia expedida por l
 
 IV. Los mencionados en la fracción IV con los avisos expedidos por el Notario, ante quien se realizó la práctica notarial, y con las constancias que de ellas emitan tanto el Consejo como la Dirección General, teniéndolos a la vista;
 
-V. Los de la fracción V, con certificados expedidos por la Secretaría de Salud del Estado;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+V. Los de la fracción V, con certificados expedidos por instituciones de salud pública en el Estado;
 
 VI. Los de la fracción VI, se acreditarán con constancia expedida por el Instituto Nacional Electoral;
 
@@ -297,7 +315,9 @@ Los requisitos señalados en el artículo anterior se comprobarán de la siguien
 
 I. El requisito que establece la fracción I, con la patente de aspirante debidamente registrada;
 
-II. Los de la fracción II, con certificado expedido por la Secretaría de Salud del Estado;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+II. Los de la fracción II, con certificado expedido por instituciones de salud pública en el Estado.
 
 III. Los de la fracción III, con constancia de residencia expedida por la Presidencia Municipal y acta de nacimiento;
 
@@ -343,9 +363,11 @@ VIII. Las demás señaladas en el reglamento.
 
 #### Sección Tercera. De los Exámenes para Aspirante, de los de Oposición y del Otorgamiento de las Patentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-Los exámenes para obtener la Patente de aspirante a Notario y la de Notario se desarrollarán en los términos previstos por esta Ley y el Reglamento correspondiente.
+Los exámenes para obtener la Patente de aspirantes a Notario y la de Notario se desarrollarán en los términos previstos por esta Ley, su Reglamento; y la Convocatoria que emita el Titular del Poder Ejecutivo.
 
 Los interesados deberán cubrir previamente los derechos que por concepto de examen fije la Ley de Hacienda del Estado.
 
@@ -369,15 +391,29 @@ b) Un secretario designado por el Consejo, y se encargará de levantar el acta c
 
 c) Tres Vocales, de los cuales uno será designado por el Consejo y los otros dos por el Ejecutivo.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-No podrán formar parte del Jurado los Notarios en cuyas notarías haya practicado el sustentante, ni los Notarios que sean parientes del sustentante hasta el cuarto grado de parentesco consanguíneo y de segundo grado de parentesco por afinidad. En tal caso el Notario deberá excusarse.
+No podrán formar parte del Jurado los notarios en cuyas notiarias (sic) haya practicado el sustentante, ni los notarios que sean parientes del sustentante hasta el cuarto grado de parentesco consanguíneo y de segundo grado de parentesco por afinidad. En tal caso el Notario deberá excusarse.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-El examen de aspirante y el de oposición, consistirán en dos pruebas una práctica y una teórica.
+El examen de aspirante y el de oposición consistirán en dos pruebas, una práctica y una teórica.
 
-La prueba teórica será video grabada para constancia.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+La prueba teórica será videograbada para constancia.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+Para la realización de exámenes se tomará en cuenta la cantidad de solicitantes, pudiendo realizarse evaluaciones de la prueba práctica en grupos o de manera colectiva, para la obtención de patente de aspirantes a notarios.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+El Titular del Poder Ejecutivo, a través de la Secretaría, podrá disponer de las medidas necesarias para que, cuando las circunstancias así lo ameriten, los exámenes se presenten a través de plataformas digitales que permitan realizar las pruebas de manera remota, por lo que se deberán establecer las medidas necesarias para garantizar la confidencialidad, ética y profesionalismo en la aplicación de los exámenes, considerando el número de notarios que conformaran el jurado, a fin de cumplir con los principios antes señalados.
 
 ###### Artículo 23.
 
@@ -453,9 +489,13 @@ Terminado el examen o transcurridas las cinco horas concedidas, el Secretario pr
 
 Para el ejercicio teórico, los miembros del Jurado interrogarán a cada sustentante sobre los puntos de derecho y la función notarial, hasta por dos horas consecutivas.
 
-Concluidos los exámenes a que se alude anteriormente, el Jurado, a puerta cerrada, evaluará los exámenes y los integrantes del Jurado emitirán por escrito la calificación que cada uno de ellos otorgue.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
-El Presidente del Jurado comunicará al sustentante el resultado.
+Concluidos los exámenes a que se alude anteriormente, el Jurado, a puerta cerrada y de manera inmediata e ininterrumpida, evaluará los exámenes y los integrantes del Jurado emitirán, en el mismo acto, por escrito la calificación que cada uno de ellos otorgue para que acto seguido se comunique de manera pública y personal al sustentante.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+Hecho lo anterior, el Presidente del Jurado, luego de concluir el procedimiento establecido en el párrafo anterior, comunicará al sustentante y a los presentes el resultado del examen.
 
 Si como resultado del examen de oposición el Jurado considera que ninguno de los sustentantes alcanzó la calificación mínima aprobatoria se declarará desierto el concurso y se expedirá nueva convocatoria en los términos de esta Ley y su Reglamento; si hubiere empate se realizará otra ronda de preguntas para cada uno en los términos del artículo 24 de esta misma Ley.
 
@@ -1455,15 +1495,19 @@ III. La protocolización de un documento acreditará la certeza de su existencia
 
 IV. Cuando haya diferencia entre las palabras y los guarismos, prevalecerán aquéllas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 161.
 
 Las escrituras y actas serán nulas:
 
-I. Si el Notario autorizante no está en el ejercicio de sus funciones al otorgarlas;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
 
-II. Si el Notario está impedido por Ley para intervenir en el acto jurídico o hecho de que se trate.
+I. Por sentencia judicial ejecutoriada;
 
-En estos casos será nulo el instrumento en lo referente al acto o hecho cuya autorización no le está permitida; pero tendrá validez respecto de los otros actos o hechos que contenga;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+II. Si el Notario autorizante no está en el ejercicio de sus funciones al otorgarlas;
 
 III. Si han sido redactadas en idioma distinto al español;
 
@@ -1590,6 +1634,22 @@ Los Notarios en cumplimiento de su responsabilidad social participarán en campa
 ###### Artículo 179.
 
 Los Notarios participarán en programas de apoyos a personas de escasos recursos, de fomento a la vivienda y regularización de la tenencia de la propiedad inmueble, y otorgamiento de testamentos. En estos casos las condiciones de su participación, así como los honorarios, se acordarán en los convenios de colaboración que suscriban las autoridades correspondientes y el Colegio.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+Artículo 179 BIS. En el mes de marzo de cada año se implementará una campaña de escrituración de vivienda de interés social y popular, la cual consistirá en la prestación del servicio notarial para tal fin, a un costo reducido a la población que lo solicite.
+
+Cada año se deberá suscribir un convenio de colaboración tripartita por parte del Colegio, el Gobierno Estatal y los Gobiernos Municipales para el desarrollo de dicha campaña de escrituración.
+
+En los convenios que se celebren deberá establecerse como mínimo lo siguiente:
+
+a) Cada trámite es personal, intransferible y único;
+
+b) El trámite se limita a casas y terrenos de interés social y vivienda popular, atendiendo a las definiciones contenidas en la Ley General de Desarrollo Urbano para el Estado de Durango;
+
+c) Para acceder al beneficio correspondiente, deberá cumplirse con los requisitos que prevea la legislación civil.
+
+Previo al inicio formal de la campaña de escrituración, el Congreso del Estado, las autoridades estatales y municipales, así como el Colegio deberán implementar un programa de socialización en el Estado acerca del objeto de este artículo.
 
 ### CAPÍTULO X. De la Tramitación del Procedimiento no Contencioso
 
@@ -2108,3 +2168,35 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 004.- QUE CONTIENE ADICIONES A LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con un plazo de 60 días para, en su caso, expedir la reglamentación necesaria para dar cumplimiento al objeto de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 579.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La publicación del presente decreto deja sin efecto aquellas disposiciones que contravengan su contenido.
+
+TERCERO. El Titular del Poder Ejecutivo, en un término de 90 días a partir de la publicación del presente decreto, deberá de instruir para realizar las adecuaciones a la norma reglamentaria para actualizar y adecuar los preceptos que han quedado sin efecto con la publicación del presente.
+
+CUARTO. La publicación del presente decreto no anula ningún procedimiento que para el cumplimiento de la práctica notarial se haya iniciado después del 12 de abril de 2018, y deja a salvo los derechos que los practicantes de los que se dio aviso de inicio a las autoridades notariales y al Colegio, posterior a la entrada en vigor de la Ley del Notariado para el Estado de Durango para que se les conceda la constancia conforme a la fracción IV, del artículo 10, así como el aviso de término de la práctica de acuerdo a lo que establece este decreto.
+
+Asimismo, en el caso de los profesionistas que cuenten con patente de aspirante a notario, previo a la entrada en vigor de esta reforma, mantendrán sus derechos a salvo para postularse a los exámenes para obtener la patente de notario, en igualdad de condiciones que aquellos profesionistas que obtengan la patente de aspirante a notario de manera posterior a la publicación del presente decreto.
