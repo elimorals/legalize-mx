@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-02-17"
+last_updated: "2021-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -665,7 +665,9 @@ XII. Administrar la disciplina escolar de modo compatible con la dignidad humana
 
 XIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XIV. Promover en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XIV. Promover en niñas, niños y adolescentes el respeto al medio ambiente, así como el cuidado de los animales;
 
 XV. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
@@ -1193,9 +1195,9 @@ V. Impartir en consonancia con la evolución de su desarrollo, dirección y orie
 
 VI. Asegurar un entorno afectivo, comprensivo y sin violencia, que incluya atención, orientación, reconocimiento y potenciación, con el fin de lograr el pleno, armonioso y libre desarrollo de su personalidad;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
 
-VII. Fomentar en niñas, niños y adolescentes el respeto a todas las personas y el cuidado al medio ambiente, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento responsable de los recursos para su desarrollo integral;
+VII. Fomentar en niñas, niños y adolescentes el respeto a todas las personas y los animales, el cuidado al medio ambiente, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento responsable de los recursos para su desarrollo integral;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
@@ -2126,6 +2128,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 49 Y ADICIONA LA FRACCIÓN X AL 49 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 48 Y LA FRACCIÓN VII DEL ARTÍCULO 98 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTE (SIC) DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
