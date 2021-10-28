@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2021-06-09"
+last_updated: "2021-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -1015,13 +1015,23 @@ XXII. Promover la capacitación de creadores y administradores de la cultura, de
 
 XXIII. Impulsar la promoción y difusión de los artistas y artesanos poblanos, en los ámbitos local, nacional e internacional;
 
-XXIV. Promover, impulsar y organizar el desarrollo del sector artesanal, en el ámbito de su competencia, y articularse con la Secretaría de Economía para estimular su comercialización;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XXIV. Promover, impulsar, fomentar y organizar la difusión, exposición, exhibición y el desarrollo del sector artesanal y, en especial, de las artesanías y productos artesanales, elaborados por los pueblos y comunidades indígenas de nuestra Entidad, en el ámbito de su competencia, y articularse con la Secretaría de Economía para estimular su comercialización y exportación;
 
 XXV. Estimular la creación y la difusión editorial y fortalecer, en conjunto con la Secretaría de Educación, acciones dirigidas al fomento y la promoción de la lectura;
 
-XXVI. Coadyuvar con la Secretaría de Gobernación y los municipios que lo soliciten, en el manejo y preservación de los archivos históricos, como parte del patrimonio cultural del estado, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
 
-XXVII. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el estado.
+XXVI. Coadyuvar con la Secretaría de Gobernación y los municipios que lo soliciten, en el manejo y preservación de los archivos históricos, como parte del patrimonio cultural del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XXVII. Gestionar ante el Instituto Mexicano de la Propiedad Industrial y el Instituto Nacional de los Pueblos Indígenas la protección, reconocimiento y conservación de los derechos de propiedad industrial de las artesanías y productos artesanales, que son elaborados y pertenecientes a los pueblos y comunidades indígenas de nuestro Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE OCTUBRE DE 2021)</small>
+
+XXVIII. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE TURISMO
 
@@ -2084,3 +2094,11 @@ P.O. 9 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXIV, XXVI Y XXVII, Y ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
