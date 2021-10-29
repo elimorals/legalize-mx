@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2020-del-pleno-del-consejo-de-la-143712"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-08-13"
+last_updated: "2021-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 21/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2021.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2020.
 
@@ -79,11 +79,11 @@ ACUERDO
 
 ### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 9/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 20/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante "PJF"), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 31 de octubre de 2021, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
+Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante "PJF"), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 16 de enero de 2022, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
 
 ###### Artículo 2.
 
@@ -511,9 +511,15 @@ VII. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal habili
 
 (1) Licenciado José Pascual Fajardo. 54 90 83 00 o red #307 ext. 1304. Cel. 999 370 3900
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 20/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
+
+La Comisión Especial podrá emitir lineamientos a fin de regular el acceso de personas a las audiencias que se lleven a cabo en los CJPF, con el propósito de controlar el aforo permitido.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 20/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-Audiencias sin público. Al igual que ocurre en otras materias, las audiencias penales se celebrarán sin público, hasta en tanto la Comisión Especial determine otra cosa, momento en el que se podrán permitir con la asistencia de hasta el 25% del aforo permitido. No obstante, las personas interesadas podrán acceder al registro de la audiencia inmediatamente después de su celebración, mediante su solicitud de transparencia.
+Audiencias sin público. Al igual que ocurre en otras materias, las audiencias penales se celebrarán sin público, hasta en tanto la Comisión Especial determine otra cosa, momento en el que se podrán permitir con la asistencia de hasta el 50% del aforo permitido. No obstante, las personas interesadas podrán acceder al registro de la audiencia inmediatamente después de su celebración, mediante su solicitud de transparencia.
 
 ###### Artículo 34.
 
@@ -690,3 +696,17 @@ CUARTO. Se instruye a la Dirección General de Protección Civil y Salud en el T
 QUINTO. A partir del 16 de agosto de 2021 a partir de las 8:01 a.m., el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de Distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
 
 SEXTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
+
+D.O.F. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 20/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 21/2020, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se mantiene el periodo de receso para la segunda quincena de diciembre de 2021, que comprende del 16 de diciembre de 2021 al 2 de enero de 2022.
+
+CUARTO. A partir del 1 de noviembre de 2021 el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de Distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
+
+QUINTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
