@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6761
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-11"
-last_updated: "2018-02-09"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 11 de marzo de 2009.
 
@@ -95,9 +95,11 @@ La igualdad entre mujeres y hombres implica la eliminación de toda forma de dis
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA Y LA COORDINACIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 7.
 
-El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, podrá suscribir convenios o acuerdos de coordinación con la participación del Instituto Sinaloense de la Mujer con el objeto de:
+El Ejecutivo del Estado, a través de la Secretaría de las Mujeres, podrá suscribir convenios o acuerdos de coordinación con el objeto de:
 
 I. Fortalecer sus funciones y atribuciones en materia de igualdad;
 
@@ -123,15 +125,17 @@ Para el seguimiento y evaluación de los resultados que se obtengan en la ejecuc
 
 ### CAPÍTULO SEGUNDO. DEL EJECUTIVO ESTATAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 10.
 
-Corresponde al Ejecutivo Estatal por conducto de la Secretaría General de Gobierno:
+Corresponde al Ejecutivo Estatal por conducto de la Secretaría de las Mujeres:
 
 I. Formular, conducir y evaluar la política estatal en materia de igualdad entre mujeres y hombres;
 
-II. Diseñar y aplicar los instrumentos de promoción y cumplimiento de la política estatal en materia de igualdad garantizada en esta Ley, mediante la coordinación y aplicación del principio de transversalidad, a través del Instituto Sinaloense de las Mujeres;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+II. Diseñar y aplicar los instrumentos de promoción y cumplimiento de la política estatal en materia de igualdad garantizada en esta Ley, mediante la coordinación y aplicación del principio de transversalidad;
 
 III. Promover en coordinación con las dependencias estatales y los municipios las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa, en apego a los principios que la ley señala;
 
@@ -143,13 +147,41 @@ V. Celebrar acuerdos nacionales de coordinación, cooperación y concertación e
 
 VI. Incorporar en la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-VII. Promover la coordinación entre las dependencias de la administración pública estatal en la aplicación de la presente Ley;
+VII. Promover la coordinación de las dependencias de la administración pública estatal para la aplicación de la presente Ley;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2021)</small>
 
-VIII. Las demás que esta Ley y otros ordenamientos aplicables, le confieren.
+VIII. Designar a la persona Titular de la Secretaría Ejecutiva del Sistema Estatal, quien deberá ser de quienes integran la estructura de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+IX. Fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, la participación equitativa entre mujeres y hombres en el ámbito social, económico, político, civil, cultural y familiar;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+X. Concertar acciones afirmativas en el sector público, social y privado a fin de garantizar el acceso a la igualdad de oportunidades;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XI. Suscribir los convenios necesarios para el cumplimiento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XII. Evaluar la aplicación de la presente ley en los ámbitos público y privado;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XIII. Coordinar los instrumentos de la política en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XIV. Promover sin distingo partidista la participación equilibrada entre mujeres y hombres en los cargos de elección popular; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -171,29 +203,13 @@ III. Diseñar, formular y aplicar campañas de concientización que promuevan lo
 
 IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ### CAPÍTULO CUARTO. DEL INSTITUTO SINALOENSE DE LAS MUJERES
 
 ###### Artículo 13.
 
-Corresponde al Instituto Sinaloense de las Mujeres:
-
-I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titular;
-
-II. Fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, la participación equitativa entre hombres y mujeres en el ámbito social, económico, político, civil, cultural y familiar;
-
-III. Concertar acciones afirmativas en el sector público, social y privado a fin de garantizar el acceso a la igualdad de opotunidades (sic);
-
-IV. Suscribir los convenios necesarios para el cumplimiento de la presente ley;
-
-V. Evaluar la aplicación de la presente ley en los ámbitos público y privado;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
-
-VI. Coordinar los instrumentos de la política en materia de igualdad entre mujeres y hombres;
-
-VII. Promover sin distingo partidistas la participación equilibrada entre mujeres y hombres en los cargos de elección popular; y
-
-VIII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
 ## TÍTULO III. DE LA POLÍTICA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -233,19 +249,23 @@ III. La Observancia en materia de Igualdad entre Mujeres y Hombres.
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-El Ejecutivo Estatal es el encargado de la aplicación del Sistema y el Programa, bajo la coordinación del Instituto Sinaloense de las Mujeres.
+El Ejecutivo Estatal es el encargado del funcionamiento del Sistema Estatal y elaboración del Programa Estatal, por conducto de la Secretaría.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-El Instituto Sinaloense de la Mujer, a través de su Junta Directiva, sin menoscabo de las atribuciones que le confiere la Ley especifica que lo rige, tendrá a su cargo la coordinación del Sistema, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+La Secretaría de las Mujeres tendrá a su cargo la coordinación del Sistema Estatal, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-A la Junta Directiva del Instituto Sinaloense de las Mujeres le corresponderá:
+A la Secretaría de las Mujeres, como coordinadora del Sistema, le corresponderá:
 
 I. Proponer los lineamientos para la Política Estatal en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo Estatal;
 
@@ -277,11 +297,11 @@ La Comisión Estatal de los Derechos Humanos estará a cargo de la observancia e
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la administración pública estatal entre sí, las autoridades de los municipios, las organizaciones de la sociedad civil organizada, instituciones académicas y de investigación, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-El Instituto Sinaloense de las Mujeres, se coordinará con las instancias federales para la integración y funcionamiento de los Sistemas Nacional y Estatal para la Igualdad entre Hombres y Mujeres.
+La Secretaría de las Mujeres, se coordinará con las instancias federales para la integración y funcionamiento de los Sistemas Nacional y Estatal para la Igualdad entre Hombres y Mujeres.
 
 ###### Artículo 23.
 
@@ -297,7 +317,9 @@ III. Promover el desarrollo de programas y servicios que fomenten la igualdad en
 
 El Sistema Estatal se conformará por las y los titulares de:
 
-I. El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+I. El Ejecutivo del Estado, a través de la Secretaría de las Mujeres, quien lo presidirá;
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2010)</small>
 
@@ -313,7 +335,9 @@ VI. La Secretaría de Educación Pública y Cultura;
 
 VII. La Secretaría de Salud;
 
-VIII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+VIII. Secretaría Ejecutiva;
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2010)</small>
 
@@ -331,13 +355,21 @@ XIV. Dos representantes de los medios de comunicación.
 
 De igual forma, el Sistema Estatal podrá invitar a sus reuniones a cualquier persona física o moral, pública o privada de reconocida trayectoria que se hayan destacado por su trabajo en la promoción y respeto de los derechos y la igualdad entre mujeres y hombres.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+La Secretaría de las Mujeres designará a la persona Titular de la Secretaría Ejecutiva, quien a su vez deberá ser integrante de su estructura interna.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 25.
 
-La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+La Secretaría de las Mujeres elaborará el proyecto de reglamento para el funcionamiento del Sistema Estatal y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 26.
 
-Los gobiernos municipales coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto o, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del Sistema Estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el Sistema Estatal.
+Los gobiernos municipales coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con la Secretaría de las Mujeres o, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del Sistema Estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el Sistema Estatal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
 
@@ -355,17 +387,21 @@ Lo anterior, con sujeción a las demás leyes y ordenamientos que resulten aplic
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto por el Instituto Sinaloense de las Mujeres y tomará en cuenta las necesidades del Estado y los Municipios, así como las particularidades de desigualdad generadas en ciertas regiones de la entidad. Este Programa deberá integrarse al Plan Estatal de Desarrollo así como a los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación del Estado.
+El Programa Estatal será propuesto por la Secretaría de las Mujeres y tomará en cuenta las necesidades del Estado y los Municipios, así como las particularidades de desigualdad generadas en ciertas regiones de la entidad; deberá ser coherente con el Plan Estatal de Desarrollo, así como con los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
 
 El programa que se elabore deberá ser con visión de mediano y largo alcance, indicará los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la Política Estatal de Igualdad en congruencia con los programas nacionales.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-El Instituto Sinaloense de la Mujer deberá revisar el Programa Estatal cada año, a fin de que se incluya en el informe anual que el Ejecutivo Estatal rinde al Congreso del Estado y la sociedad en general, sobre la situación que guarda la administración pública.
+La Secretaría de las Mujeres deberá revisar el Programa Estatal cada año, a fin de que se incluya en el informe anual que el Ejecutivo Estatal rinde al Congreso del Estado y la sociedad en general, sobre la situación que guarda la administración pública.
 
 ## TÍTULO IV. DE LOS OBJETIVOS Y ACCIONES DE LA POLÍTICA ESTATAL DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -616,3 +652,31 @@ P.O. 9 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 377 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 46 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 3 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
+
+CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del Instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+
+El patrimonio y presupuesto con que actualmente cuenta del (sic) Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
+
+La Secretaría de Administración y Finanzas de (sic) Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
+
+Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
+
+SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de (sic) Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
+
+OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
+
+NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
