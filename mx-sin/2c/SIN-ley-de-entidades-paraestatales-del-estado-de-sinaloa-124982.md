@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-entidades-paraestatales-del-estado-de-sinaloa-124982"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-22"
-last_updated: "2017-12-22"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
 Ley publicada en la Octava Sección al Número 161 del Periódico Oficial del Estado de Sinaloa, el viernes 22 de diciembre de 2017.
 
@@ -129,9 +129,11 @@ La intervención a que se refiere el presente artículo se realizará a través 
 
 Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las citadas entidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 9.
 
-La Secretaría de Administración y Finanzas será integrante de los órganos de gobierno y, en su caso, de los comités técnicos de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y a las disposiciones relativas en la materia.
+La Secretaría General de Gobierno y la Secretaría de Administración y Finanzas serán integrantes de los órganos de gobierno y, en su caso, de los comités técnicos de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y a las disposiciones relativas en la materia.
 
 Los representantes de las dependencias y de las entidades paraestatales, en las sesiones de los órganos de gobierno o de los comités técnicos en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités de acuerdo con las facultades que les otorga esta Ley y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
 
@@ -531,7 +533,9 @@ VIII. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Administr
 
 IX. Autorizar la creación de comités y subcomités de apoyo;
 
-X. Nombrar y remover, a propuesta del director general o su equivalente, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, de conformidad con el Presupuesto de Egresos del Estado, a las políticas y lineamientos en la materia establecidas por la Secretaría de Administración y Finanzas, así como a lo establecido en los estatutos de la entidad;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+X. Nombrar y remover, a propuesta del director general o su equivalente, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, de conformidad con el Presupuesto de Egresos del Estado, a las políticas y lineamientos en la materia establecidas por la Secretaría de Administración y Finanzas, así como a lo establecido en los estatutos de la entidad. Quedará exceptuado de lo anterior, el titular del área jurídica, o el servidor público de cualquier denominación que desempeñe funciones de asesoría o representación jurídica según la normativa interna, que será nombrado y removido libremente por el Secretario General de Gobierno;
 
 XI. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal a través de la Secretaría de Administración y Finanzas;
 
@@ -668,3 +672,19 @@ DIPUTADO SECRETARIO
 C. JESÚS ALFONSO IBARRA RAMOS
 
 DIPUTADO SECRETARIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 4 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y DE LA LEY DE ENTIDADES PARAESTATALES, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las derogaciones del Capítulo II Bis y sus artículos 23 Bis, 23 Bis A, 23 Bis B y 23 Bis C de la Ley Orgánica de la Administración Pública del Estado de Sinaloa, previstas en el presente Decreto, surtirán sus efectos a partir del día primero de noviembre del año dos mil veintiuno.
+
+TERCERO. Aquellas entidades paraestatales que no dispongan de un área de asesoría jurídica específica y que a juicio del Gobernador Constitucional del Estado requieran de una, en razón de su objeto, atribuciones o recursos públicos que ejercen, integrarán a su proyecto de presupuesto para el próximo ejercicio fiscal un área de Asuntos Jurídicos en su estructura orgánica.
+
+CUARTO. El nombramiento y remoción de los titulares de las áreas jurídicas de las entidades paraestatales, será atribución vigente del Secretario General de Gobierno, a partir de la entrada en vigor de este Decreto, aún y cuando el instrumento jurídico que les dio origen no haya sido adecuado a esta disposición. En lo subsecuente, se dictarán las disposiciones necesarias para armonizar dichos instrumentos jurídicos al contenido de esta reforma de Ley.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
