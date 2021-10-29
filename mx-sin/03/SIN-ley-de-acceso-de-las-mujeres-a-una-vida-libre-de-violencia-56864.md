@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2020-09-11"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -121,7 +121,9 @@ IV. CEPAVIF: Consejo Estatal para la Prevención y Atención de la Violencia Fam
 
 V. Organizaciones Sociales: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
 
-VI. Instituto: El Instituto Sinaloense de las Mujeres;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+VI. Secretaría: Secretaría de las Mujeres del Poder Ejecutivo del Estado de Sinaloa;
 
 VII. Programa Nacional: El Programa Nacional para Prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
@@ -417,6 +419,8 @@ XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRAS (SIC) LAS MUJERES
 
 ### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
@@ -431,7 +435,9 @@ Todas las medidas que lleve a cabo el Estado y los municipios deberán ser reali
 
 El Sistema Estatal se conformará por las y los titulares de:
 
-I. El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+I. El Ejecutivo del Estado, a través de la Secretaría, quien lo presidirá;
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -451,7 +457,9 @@ VI. (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
 VII. La Secretaría de Salud;
 
-VIII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+VIII. La Secretaría Ejecutiva;
 
 IX. DIF estatal;
 
@@ -481,7 +489,7 @@ La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglament
 
 ###### Artículo 28.
 
-La formulación del Programa Estatal será coordinada por la Secretaría de Gobierno. El Programa Estatal deberá ser congruente con el Plan Estatal de Desarrollo y el Programa Nacional de Desarrollo, así como, con el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y contendrá las acciones con perspectiva de género para:
+La formulación del Programa Estatal será coordinada por la Secretaría. El Programa Estatal deberá ser congruente con el Plan Estatal de Desarrollo y el Programa Nacional de Desarrollo, así como, con el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y contendrá las acciones con perspectiva de género para:
 
 I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
@@ -511,9 +519,11 @@ XIII. Promover la cultura de denuncia de la violencia contra las mujeres en el m
 
 XIV. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-La Secretaría General de Gobierno procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
+La Secretaría procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
 
 ### CAPÍTULO II. DEL PROTOCOLO ALBA
 
@@ -553,9 +563,13 @@ VI. Secretaría de Economía;
 
 VII. Secretaría de Educación Pública y Cultura;
 
-VIII. Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, a través del Centro de Justicia para Mujeres del Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-IX. Instituto Sinaloense de las Mujeres;
+VIII. Centro de Justicia para Mujeres del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+IX. La Secretaría;
 
 X. Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -653,9 +667,11 @@ XIII. Celebrar convenios de cooperación, coordinación y concertación con los 
 
 XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-El Ejecutivo del Estado a través de la Secretaría General de Gobierno tendrá a su cargo:
+El Ejecutivo del Estado, a través de la Secretaría tendrá a su cargo:
 
 I. El diseño de una política integral con visión transversal de perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
@@ -671,9 +687,47 @@ VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los de
 
 VII. Realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-VIII. Difundir a través de diversos medios de comunicación, los resultados del Sistema Estatal y del Programa Estatal a los que se refiere esta Ley; y,
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+VIII. Difundir a través de diversos medios de comunicación, los resultados del Sistema Estatal y del Programa Estatal a los que se refiere esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2021)</small>
+
+IX. Designar a la persona Titular de la Secretaría Ejecutiva del Sistema Estatal quien deberá ser uno de sus subalternos de la Secretaría de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+X. Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los Casos de Violencia Contra las Mujeres en el que se integran, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres, las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de las mismas, así como la información que generen las instituciones encargadas de promover en el Estado, los derechos humanos.
+
+Asimismo, en dicho Banco se deberán registrar las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias. Para tales efectos, la Fiscalía General del Estado deberá coadyuvar con la Secretaría con el objeto de compartir el número de solicitudes de órdenes de protección ante los órganos jurisdiccionales, su viabilidad y seguimiento;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XI. Proponer a las instancias encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XII. Promover una cultura de respeto a los derechos humanos de la mujer y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XIII. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XIV. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XV. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas y personal debidamente capacitado en la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XVI. Vigilar la aplicación de esta Ley; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XVII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -693,7 +747,9 @@ IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
 
 La Secretaría de Seguridad Pública, tendrá a su cargo:
 
-I. Diseñar con la Secretaría General de Gobierno la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+I. Diseñar con la Secretaría la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
 
 II. Informar periódicamente al Sistema Estatal sobre la ejecución de las acciones de su competencia contenidas en el Programa Estatal, con la finalidad de evaluar su eficacia;
 
@@ -815,31 +871,7 @@ XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 38.
 
-Sin menoscabo de las responsabilidades que le otorga el decreto de su creación, corresponde al Instituto Sinaloense de las Mujeres:
-
-I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titular;
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
-
-II. Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los Casos de Violencia Contra las Mujeres en el que se integran, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres, las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de las mismas, así como la información que generen las instituciones encargadas de promover en el Estado, los derechos humanos.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-Asimismo, en dicho Banco se deberán registrar las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias. Para tales efectos, la Fiscalía General del Estado deberá coadyuvar con el Instituto con el objeto de compartir el número de solicitudes de órdenes de protección ante los órganos jurisdiccionales, su viabilidad y seguimiento;
-
-III. Proponer a las instancias encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
-
-IV. Promover una cultura de respeto a los derechos humanos de la mujer y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
-
-V. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-VI. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
-
-VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas y personal debidamente capacitado en la materia;
-
-VIII. Vigilar la aplicación de esta Ley; y,
-
-IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
 ###### Artículo 39.
 
@@ -1219,11 +1251,11 @@ P.O. 26 DE JUNIO DE 2013.
 
 P.O. 21 DE MAYO DE 2014.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA".]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor a los sesenta días posteriores de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+El presente Decreto entrará en vigor a los sesenta días posteriores de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1296,3 +1328,31 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del presente Decreto la Fiscalía General del Estado, actualizará en lo que corresponda el Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en caso de Desaparición o no Localización de Niñas y Mujeres publicado en el Periódico Oficial "El Estado de Sinaloa" No.152 de fecha 16 de diciembre de 2019, considerando la integración del Grupo Técnico a que hace referencia dicho Protocolo.
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 3 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
+
+CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+
+El patrimonio y presupuesto con que actualmente cuenta del Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
+
+La Secretaría de Administración y Finanzas de Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
+
+Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
+
+SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
+
+OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
+
+NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
