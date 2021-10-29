@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-prevencion-y-atencion-de-la-violencia-familiar-1279
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-16"
-last_updated: "2018-04-16"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 16 de abril de 2018.
 
@@ -157,7 +157,9 @@ XII. Los Consejos Municipales de Prevención y Atención de la Violencia Familia
 
 XIII. Las organizaciones sociales que se destaquen por su trabajo y estudio en materia familiar; y
 
-XIV. El Instituto Sinaloense de las Mujeres.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XIV. La Secretaría de las Mujeres.
 
 ###### Artículo 7.
 
@@ -201,9 +203,11 @@ VI. Cualesquiera otra forma análoga que lesione o sea susceptibles de dañar la
 
 #### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 12.
 
-Se crea el Consejo Estatal para la Prevención y Atención de la Violencia Familiar, como órgano técnico de coordinación interinstitucional, consulta, evaluación y seguimiento de las tareas, acciones y programas que realicen los organismos facultados sobre la violencia familiar.
+Se crea el Consejo Estatal para la Prevención y Atención de la Violencia Familiar, dependiente de la Secretaría de las Mujeres, cuya función será la coordinación interinstitucional, consulta, evaluación y seguimiento de las tareas, acciones y programas que realicen los organismos facultados sobre la violencia familiar.
 
 En la integración del Consejo Estatal se procurará la perspectiva de género.
 
@@ -211,17 +215,25 @@ En la integración del Consejo Estatal se procurará la perspectiva de género.
 
 El Consejo Estatal estará integrado de la forma siguiente:
 
-I. Por el titular de la Secretaría General de Gobierno, quien la presidirá;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-II. Por el Secretario General Ejecutivo, quien fungirá como Secretario;
+I. Por la titular de la Secretaría de las Mujeres, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+II. La persona titular de la Secretaría General Ejecutiva, quien fungirá como Secretario;
 
 III. Los representantes de cada una de las instituciones señaladas en el artículo 6 de esta Ley, quienes fungirán como vocales; y
 
-IV. Por tres representantes de organizaciones civiles debidamente registradas que trabajen la temática de la violencia familiar, a propuesta de la Secretaría General de Gobierno, sujetas a la ratificación del propio Consejo Estatal.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+IV. Por tres representantes de organizaciones civiles debidamente registradas que trabajen la temática de la violencia familiar, a propuesta de la Secretaría de las Mujeres, sujetas a la ratificación del propio Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 14.
 
-El Consejo Estatal contará con una Secretaría General Ejecutiva, cuya titularidad dependerá de la Secretaría General de Gobierno, la persona designada tendrá a su cargo la operatividad de la aplicación de la presente Ley, y la organización interna y funciones administrativas del mismo.
+El Consejo Estatal contará con una Secretaría General Ejecutiva, cuya titularidad deberá ser designada por la Secretaría de las Mujeres de una persona integrante de la estructura de la dependencia. La persona designada tendrá a su cargo la operatividad de la aplicación de la presente Ley y la organización interna y funciones administrativas del Consejo.
 
 ###### Artículo 15.
 
@@ -407,9 +419,11 @@ Corresponde a los Jueces de Primera Instancia en materia Familiar o Mixtos, en s
 
 En toda diligencia en materia Familiar, que el representante judicial practique fuera del Juzgado, asentará en el acta respectiva las incidencias de violencia familiar que ocurran en su presencia, respecto de cualquiera de los que participen en ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 31.
 
-Corresponde a la Secretaría General de Gobierno:
+Corresponde a la Secretaría de las Mujeres:
 
 I. Encauzar a las instituciones oficiales integrantes del Consejo Estatal para la promoción de acciones y programas de prevención, atención, sanción y erradicación de la violencia familiar;
 
@@ -497,7 +511,9 @@ III. Recabar información sobre la incidencia de casos de violencia familiar y l
 
 IV. Llevar a la población los beneficios de esta Ley mediante promotoras y promotores comunitarios, debidamente capacitados; y
 
-V. Promover la creación y funcionamiento de refugios temporales, en coordinación con el Instituto Sinaloense de las Mujeres e instituciones afines, para las víctimas de violencia familiar y para sus hijas e hijos, con la infraestructura que permita ofrecer la atención integral a que hace referencia esta Ley.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+V. Promover la creación y funcionamiento de refugios temporales, en coordinación con la Secretaría de las Mujeres e instituciones afines, para las víctimas de violencia familiar y para sus hijas e hijos, con la infraestructura que permita ofrecer la atención integral a que hace referencia esta Ley.
 
 ###### Artículo 37.
 
@@ -515,9 +531,11 @@ V. Por conducto de la Dirección de Prevención y Reinserción Social promover l
 
 VI. Establecer los vínculos necesarios entre las instituciones para que las personas víctimas y agresoras de la violencia familiar sean incorporadas a los programas asistenciales que se requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 38.
 
-El Instituto Sinaloense de las Mujeres fomentará las condiciones que posibiliten la no discriminación y la prevención de la violencia de género, y el ejercicio pleno de los derechos de las mujeres, las niñas, niños y adolescentes.
+La Secretaría de las Mujeres fomentará las condiciones que posibiliten la atención, la no discriminación y la prevención de la violencia de género, y el ejercicio pleno de los derechos de las mujeres, las niñas, niños y adolescentes.
 
 Impulsará la transversalización de la perspectiva de género en las políticas públicas de prevención y atención a la violencia, y en las acciones de las distintas dependencias y entidades de la Administración Pública Estatal a partir de la ejecución de programas conjuntos con el Consejo Estatal.
 
@@ -794,3 +812,33 @@ ALFREDO ROMÁN MESSINA
 El Secretario de Seguridad Pública
 
 GENARO ROBLES CASILLAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 3 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
+
+CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del Instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+
+El patrimonio y presupuesto con que actualmente cuenta del (sic) Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
+
+La Secretaría de Administración y Finanzas de Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
+
+Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
+
+SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
+
+OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
+
+NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
