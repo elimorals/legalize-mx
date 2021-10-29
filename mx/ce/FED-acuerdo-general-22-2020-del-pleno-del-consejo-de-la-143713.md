@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-08-13"
+last_updated: "2021-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2020-07-28"
 ---
 # ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19]
 
-ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19.
+ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2021.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -65,11 +65,11 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 21/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 31 de octubre de 2021.
+Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 16 de enero de 2022.
 
 ###### Artículo 2.
 
@@ -543,7 +543,9 @@ Para la actuación ante órganos jurisdiccionales se requerirá, necesariamente,
 
 Suspensión de actividades en CENDIS y comedores. Se suspenden totalmente las labores de los Centros de Desarrollo Infantil y Estancia Infantil y de los comedores del Consejo durante la vigencia del presente Acuerdo.
 
-Atendiendo a los lineamientos que al efecto emitan las autoridades federales competentes en temas de educación y salubridad, la Comisión Especial podrá modificar lo antes dispuesto.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 21/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
+
+Atendiendo a las disposiciones que al efecto emitan las autoridades federales competentes en temas de educación y salubridad, la Comisión Especial podrá modificar lo antes dispuesto, y emitir los lineamientos para regular el acceso y aforo de personas en los CENDIS y comedores.
 
 ###### Artículo 41.
 
@@ -566,6 +568,10 @@ El segundo periodo vacacional del año 2020 se mantiene conforme a lo establecid
 ###### Artículo 42.
 
 Cancelación de eventos académicos presenciales. Se cancelan cursos, capacitaciones, foros, seminarios y demás actividades académicas que requieran la presencia física de sus participantes, pudiendo llevarse a cabo únicamente aquéllas que se realicen a distancia mediante el uso de herramientas tecnológicas.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 21/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
+
+Cuando existan condiciones adecuadas para la realización de estos eventos de manera presencial, la Comisión Especial podrá emitir los lineamientos que regulen la presencia física de los participantes y el aforo permitido.
 
 ###### Artículo 43.
 
@@ -684,5 +690,17 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 TERCERO. Las personas que se encuentren en los supuestos del artículo 2, fracciones IV., IV. Bis. y IV. Ter., indistintamente a las previsiones establecidas en dicha disposición, deberán responder el cuestionario que se habilitará a través de medios electrónicos, a fin de actualizar y acreditar las circunstancias de vulnerabilidad y de imposibilidad de dejar al cuidado de otra persona a sus hijas o hijos menores de 14 años de edad o con alguna discapacidad, conforme a la periodicidad, alcances y especificaciones emitidos por la Dirección General de Servicios al Personal de la Secretaría Ejecutiva de Administración.
 
 Las personas obligadas podrán plantear las dudas que tengan en relación con el cuestionario al correo electrónico censo_vulnerabilidad_2021_seadgsp@cjf.gob.mx
+
+CUARTO. Se instruye a la Dirección General de Protección Civil y Salud en el Trabajo, para que continúe implementando las medidas de ventilación, limpieza y desinfección de oficinas y espacios de trabajo, así como áreas comunes, de conformidad con la Guía Técnica para el Retorno Seguro a las Actividades en los Órganos Jurisdiccionales y Áreas Administrativas del Consejo de la Judicatura Federal.
+
+D.O.F. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 21/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se mantiene el periodo de receso para la segunda quincena de diciembre de 2021, que comprende del 16 de diciembre de 2021 al 2 de enero de 2022.
 
 CUARTO. Se instruye a la Dirección General de Protección Civil y Salud en el Trabajo, para que continúe implementando las medidas de ventilación, limpieza y desinfección de oficinas y espacios de trabajo, así como áreas comunes, de conformidad con la Guía Técnica para el Retorno Seguro a las Actividades en los Órganos Jurisdiccionales y Áreas Administrativas del Consejo de la Judicatura Federal.
