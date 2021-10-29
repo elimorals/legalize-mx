@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2021-02-23"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -119,6 +119,22 @@ XIII. La corresponsabilidad familiar; y
 
 XIV. La debida diligencia.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XV. El enfoque diferencial y especializado.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XVI. Igualdad de oportunidades, participación social y libertad de toma de decisiones,
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XVII. Independencia y autonomía
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+La elaboración y ejecución de las políticas, programas y acciones deberá realizarse bajo un análisis de interseccionalidad que permita exponer los diferentes tipos de discriminación y desventajas que se dan como consecuencia de la combinación de identidades.
+
 ###### Artículo 4.
 
 El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán los ordenamientos convenientes, y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en la materia, de los que el Estado Mexicano sea parte.
@@ -163,11 +179,15 @@ X. Debida diligencia: La obligación de las y los servidores públicos, las depe
 
 Tratándose de niñas, las obligaciones señaladas en el párrafo anterior, se cumplirán con especial celeridad y de forma exhaustiva, libre de prácticas discriminatorias basadas en estereotipos de género, de conformidad con el interés superior de la niñez;
 
-XI. Derechos Humanos de las Mujeres: Refiere a aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en la Constitución Política de los Estados Unidos Mexicanos y demás legislación federal, estatal, municipal y en los instrumentos internacionales de la materia, ratificados por el Estado Mexicano entre ellos, la Convención sobre la Eliminación de todos (sic) las Formas de Discriminación contra la Mujer, CEDAW por sus siglas en inglés, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, también llamada "Belem Do Pará" y demás instrumentos internacionales en la materia;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XI. Derechos Humanos de las Mujeres: Refiere a aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en la Constitución Política de los Estados Unidos Mexicanos y demás legislación federal, estatal, municipal y en los instrumentos internacionales de la materia, ratificados por el Estado Mexicano entre ellos, la Convención sobre la Eliminación de todos (sic) las Formas de Discriminación contra la Mujer, CEDAW por 5 sus siglas en inglés, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, también llamada “Belem Do Pará”, la Convención sobre los Derechos de las Personas con Discapacidad (CDPD), Convención interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad y demás instrumentos internacionales en la materia;
 
 XII. Discriminación contra las Mujeres: toda distinción, exclusión, restricción o preferencia que sufran las mujeres que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
 
-XIII. Empoderamiento de las mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XIII. Empoderamiento de las mujeres: es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
 XIV. Entidades Públicas: Incluye a todas las instituciones que conforman la Administración Pública centralizada y paraestatal del Gobierno del Estado y los municipios;
 
@@ -253,6 +273,38 @@ XLI. Violencia estructural contra las mujeres: Es toda acción u omisión, que m
 
 XLII. Se entenderá por aplicaciones, herramientas digitales o tecnológicas aquellas que sean diseñadas por las autoridades competentes para dispositivos móviles que permita a los ciudadanos acceder a la información para prevenir, combatir y eliminar la violencia de género y la no discriminación hacia las mujeres.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XLIII. Ajustes de procedimiento: las modificaciones y adaptaciones que sean necesarias, cuando se requieran en un caso particular, para garantizar que las mujeres puedan participar efectivamente en igualdad de condiciones con las demás, en todos los procedimientos administrativos o judiciales, incluidas las investigaciones, en los que estén involucradas.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XLIV. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XLV. Interculturalidad: En toda actividad relacionada con esta ley las personas servidoras públicas deberán considerar elementos de la diversidad cultural relacionadas (sic) con las costumbres, prácticas, normas y procedimientos de las personas, grupos o colectividades, de conformidad con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XLVI. Discriminación Interseccional: situación en la que varios motivos de discriminación interactúan al mismo tiempo de forma que son inseparables y tienen por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades. Entre los motivos de discriminación figuran la edad; la discapacidad; el origen étnico, indígena, nacional o social; la identidad o expresión de género; las opiniones; la condición de migrante, refugiado o solicitante de asilo; la religión; el sexo y la orientación sexual.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XLVII. Enfoque diferencial y especializado: Esta ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad y otros, en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XLVIII. Formatos accesibles: Son en ocasiones llamados formatos alternativos, son formas de presentar material impreso, escrito o visual, de tal manera que las personas que no puedan leer el material impreso puedan acceder a él. Como lo son las personas ciegas o con deficiencia visual, con discapacidad intelectual que afecte la comprensión de la lectura, personas con discapacidad motriz que impida el manejo del material.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XLIX. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+L. Diseño universal: el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El "diseño universal" no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten.
+
 Se refiere a conductas ejercidas por las personas, el Estado y la sociedad; así como la ejercida en comunidades, relaciones humanas, prácticas e instituciones sociales, que el Estado reproduce y tolera al no garantizar la igualdad sustantiva, al perpetuar formas jurídicas, judiciales, políticas, económicas y sociales androcéntricas y de jerarquía de género; así como al no dar garantías de seguridad a las mujeres durante todas las etapas de su vida.
 
 Se manifiesta en conductas asociadas con la exclusión, la subordinación, la discriminación, la marginación y la explotación, consustanciales a la dominación estructural de género masculina, afectando sus derechos.
@@ -265,7 +317,9 @@ I. Ser tratadas con respeto a su integridad y el ejercicio pleno de sus derechos
 
 II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas;
 
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+III. Recibir información veraz, suficiente y en formatos accesibles y con un diseño universal que les permita decidir sobre las opciones de atención;
 
 IV. Asistencia legal y necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
 
@@ -525,7 +579,9 @@ X. Adoptar medidas para que las autoridades encargadas de hacer cumplir la Ley, 
 
 XI. Adoptar todas las medidas apropiadas, especialmente en el sector educativo en coordinación con la familia, para modificar las pautas sociales y culturales de comportamiento del hombre y de la mujer y eliminar los prejuicios y las prácticas consuetudinarias o de otra índole basadas en la idea de la inferioridad o la superioridad de uno de los sexos y en la atribución de papeles estereotipados al hombre y a la mujer;
 
-XII. Promover la investigación, recoger datos y compilar estadísticas, especialmente en lo concerniente a la violencia en el hogar, relacionadas con la frecuencia de las distintas formas de violencia contra la mujer, y fomentar las investigaciones sobre las causas, la naturaleza, la gravedad y las consecuencias de esta violencia, así como sobre la eficacia de las medidas aplicadas para impedirla y reparar sus efectos; se deberán publicar esas estadísticas, así como las conclusiones de las investigaciones;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XII. Promover la investigación, recoger datos y compilar estadísticas con enfoque diferencial especialmente en lo concerniente a la violencia en el hogar, relacionadas con la frecuencia de las distintas formas de violencia contra la mujer, y fomentar las investigaciones sobre las causas, la naturaleza, la gravedad y las consecuencias de esta violencia, así como sobre la eficacia de las medidas aplicadas para impedirla y reparar sus efectos; se deberán publicar esas estadísticas, así como las conclusiones de las investigaciones;
 
 XIII. Adoptar medidas orientadas a eliminar la violencia contra las mujeres en situación de vulnerabilidad;
 
@@ -1249,9 +1305,9 @@ La Fiscalía General del Estado, además de las atribuciones previstas en los or
 
 I. Participar en la elaboración y ejecución del Programa Estatal, y en el diseño de nuevos modelos de erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-II. Capacitar de manera permanente y con perspectiva de género al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y sujetos activos, así como de lineamientos para la integración adecuada de carpetas de investigación;
+II. Capacitar de manera permanente y con perspectiva de género, de interseccionalidad e interculturalidad, al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y sujetos activos, así como de lineamientos para la integración adecuada de carpetas de investigación;
 
 III. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya un delito, asistencia, orientación jurídica y de cualquier otra índole, necesarias para su eficaz atención y protección;
 
@@ -1267,7 +1323,11 @@ VII. Brindar a las víctimas información objetiva que les permita reconocer su 
 
 VIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
-IX. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+IX. Implementar ajustes de procedimiento, en su caso, para recabar información y testimonios sobre mujeres que así lo requieran por su situación o condición personal, y
+
+X. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1433,11 +1493,13 @@ XVI. Exhortar a los medios de comunicación para que realicen jornadas de cero t
 
 XVII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncien;
 
-XVIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADA CON SUS NUMERALES, P.O. 6 DE DICIEMBRE DE 2019)</small>
+XVIII. Promover la cultura de denuncia de la violencia contra las mujeres en formatos accesibles y con un diseño universal., (sic) y
 
-XIX. Generar y actualizar en coordinación con las autoridades competentes, una aplicación para dispositivos móviles que permita a los ciudadanos acceder a la información para prevenir, combatir y eliminar la violencia de género y la no discriminación hacia las mujeres. Dicha aplicación deberá contener, al menos, información relacionada con:
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 29 DE OCTUBRE DE 2021)</small>
+
+XIX. Generar y actualizar en coordinación con las autoridades competentes, una aplicación para dispositivos móviles, considerando en su diseño las características necesarias de accesibilidad Web, que permita a los ciudadanos acceder a la información para prevenir combatir y eliminar la violencia de género y la no discriminación hacia las mujeres. Dicha aplicación deberá contener, al menos, información relacionada con:
 
 1. Derechos Humanos.
 
@@ -1709,9 +1771,11 @@ El servicio de atención telefónica a las víctimas tendrá cobertura en todo e
 
 #### SECCIÓN CUARTA. DE LOS REFUGIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 71.
 
-Los refugios, son espacios confidenciales, seguros y gratuitos que ofrecen servicios de seguridad y protección, así como de atención integral especializada para las mujeres, hijas e hijos de mujeres víctimas de violencia. Lo anterior con el fin de salvaguardar su integridad física y emocional, contribuyendo a superar la situación de violencia y facilitar su proceso de autonomía y empoderamiento.
+Los refugios, son espacios confidenciales, seguros, accesibles y gratuitos que ofrecen servicios de seguridad y protección, así como de atención integral especializada para las mujeres, hijas e hijos de mujeres víctimas de violencia, atendiendo a los principios de accesibilidad, interculturalidad y enfoque diferencial y especializado. Lo anterior con el fin de salvaguardar su integridad física y emocional, contribuyendo a superar la situación de violencia y facilitar su proceso de autonomía y empoderamiento.
 
 Los refugios deberán regularse y acatar en todo momento a la normatividad vigente sobre la materia y el Programa Estatal.
 
@@ -2534,3 +2598,9 @@ P.O. 23 DE FEBRERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 99.- SE REFORMAN LAS FRACCIONES XI Y XIII AL ARTÍCULO 6, LA FRACCIÓN III DEL ARTÍCULO 7, LA FRACCIÓN XII DEL ARTÍCULO 12, LA FRACCIÓN II DEL ARTÍCULO 50, LA FRACCIÓN XVIII Y XIX DEL ARTÍCULO 55 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 71; SE ADICIONAN LA FRACCIÓN XV, XVI Y XVII ASÍ COMO UN SEGUNDO PÁRRAFO AL ARTÍCULO 3, LAS FRACCIONES XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, Y L AL ARTÍCULO 6, LA FRACCIÓN IX DEL ARTÍCULO 50, RECORRIENDO LA ULTERIOR, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
