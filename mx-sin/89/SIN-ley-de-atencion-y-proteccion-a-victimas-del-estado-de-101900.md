@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-atencion-y-proteccion-a-victimas-del-estado-de-101900"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-30"
-last_updated: "2019-07-22"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2014.
 
@@ -1451,11 +1451,17 @@ e) El Secretario de Salud;
 
 f) El Secretario de Seguridad Pública;
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-g) El Secretario de Desarrollo Social; y
+g) El Secretario de Desarrollo Social;
 
-h) El Secretario de Educación Pública y Cultura.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+h) El Secretario de Educación Pública y Cultura; y
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+i) La Secretaria de las Mujeres.
 
 II. Poder Legislativo:
 
@@ -1475,7 +1481,7 @@ a) El Presidente de la Comisión Estatal de Derechos Humanos;
 
 b) El Presidente del Consejo Ciudadano de Seguridad Pública del Estado;
 
-c) La Presidenta del Instituto Sinaloense de las Mujeres; y
+c) (DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
 d) El Director del Sistema para el Desarrollo Integral de la Familia del Estado.
 
@@ -2638,3 +2644,33 @@ Los procedimientos iniciados por el delito de tortura antes de la entrada en vig
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 3 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
+
+CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del Instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+
+El patrimonio y presupuesto con que actualmente cuenta del Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
+
+La Secretaría de Administración y Finanzas de Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
+
+Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
+
+SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
+
+OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
+
+NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
