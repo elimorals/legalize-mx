@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-administracion-publica-del-estado-de-6405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-01-05"
-last_updated: "2020-09-11"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 5 de enero de 1981.
 
@@ -51,15 +51,11 @@ La estructura y organización del Poder Ejecutivo para el despacho de los negoci
 
 El Gobernador Constitucional del Estado, depositario del ejercicio del Poder Ejecutivo es el titular y autoridad máxima de la administración pública. Salvo los recursos que expresamente establezcan otras leyes, sus resoluciones serán definitivas e inapelables en la vía administrativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-###### ARTICULO 3.
+###### ARTICULO 3o.
 
-La Administración Pública estatal se integrará con las Secretarías, Consejería Jurídica y Entidades Administrativas cuyas denominaciones, estructuras y atribuciones se establecerán en los Reglamentos y demás disposiciones que expida el Gobernador Constitucional del Estado en ejercicio de sus facultades constitucionales y dentro de los límites de las que la presente Ley le otorga.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2000)</small>
-
-En atención a lo que prescribe el artículo 110 de la Constitución Política del Estado de Sinaloa, en la integración de la Administración Pública Estatal, deberá atenderse el principio de que no habrá ninguna autoridad intermedia entre los ayuntamientos y los Poderes del Estado.
+La Administración Pública estatal se integrará con las Secretarías y Entidades Administrativas cuyas denominaciones, estructuras y atribuciones se establecerán en los Reglamentos y demás disposiciones que expida el Gobernador Constitucional del Estado en ejercicio de sus facultades constitucionales y dentro de los límites de las que la presente Ley le otorga.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -95,11 +91,11 @@ Para los efectos de esta Ley, las Secretarías y Entidades Administrativas que i
 
 Para ser válidos los decretos, reglamentos y acuerdos del Gobernador Constitucional del Estado, deberán estar firmados por éste y por el Secretario Encargado del Ramo a que el asunto corresponda, y cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por los Titulares de las mismas.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 10.
 
-En los procedimientos jurisdiccionales, el Gobernador Constitucional del Estado podrá ser representado indistintamente, por la Consejería Jurídica o por la dependencia a que corresponda el asunto, según la distribución de competencias, por conducto de funcionario competente.
+La representación legal del Poder Ejecutivo Estatal será ejercida por la Secretaría General de Gobierno, o por la dependencia a que corresponda el asunto, según la distribución de competencias, por conducto de funcionario competente, en términos de lo establecido en el Reglamento Orgánico de la Administración Pública.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -125,7 +121,9 @@ El Gobernador Constitucional del Estado, expedirá los Reglamentos que establezc
 
 Las personas titulares de las Secretarías y Dependencias de la Administración Pública Estatal, serán designadas y removidas libremente por el Gobernador del Estado, observando el principio de paridad de género.
 
-Los Directores Generales, Directores, Jefes de Departamento y demás funcionarios, serán nombrados y removidos por los Secretarios y por los Titulares de las respectivas dependencias.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+Los Directores Generales, Directores, Jefes de Departamento y demás funcionarios, serán nombrados y removidos por los Secretarios y por los Titulares de las respectivas dependencias, salvo aquellos casos en los que las leyes u otras normas reglamentarias o administrativas dispongan un procedimiento específico distinto.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
 
@@ -161,6 +159,14 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 Para ser Secretario o Sub-Secretario se requerirá ser ciudadano mexicano en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado, tener 30 años cumplidos y no ser ministro de algún culto religioso. Cuando la Constitución exigiere mayores requisitos se estará, primeramente, a lo dispuesto en ella.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 22 Bis.
+
+El Poder Ejecutivo Estatal contará con una Secretaría encargada del ramo de la atención, promoción y fomento a la igualdad sustantiva entre mujeres y hombres y a la prevención y atención de la violencia contra las mujeres.
+
+La titularidad de dicha Secretaría deberá recaer en una mujer, quien deberá acreditar conocimientos y experiencia en materia de igualdad sustantiva entre mujeres y hombres y prevención de violencia contra las mujeres.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 23.
@@ -169,41 +175,19 @@ Cada Secretaría ejercerá las partidas presupuestales que les sean asignadas en
 
 Los titulares de las Secretarías serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la Secretaría a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ### CAPITULO II Bis. De la Consejería Jurídica
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
-
 ###### ARTICULO 23 Bis.
 
-La Consejería Jurídica será el órgano encargado de representar legalmente al Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+ARTICULO 23 Bis A.- (DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
-ARTICULO 23 Bis A.- Al frente de la Consejería Jurídica habrá un Consejero Jurídico que dependerá directamente del Ejecutivo, y será nombrado y removido libremente por éste, quien para el despacho de los asuntos de su competencia, se auxiliará por los Directores Generales, Jefes de Departamento y por los demás funcionarios que establezca el Reglamento Interior respectivo y otras disposiciones legales.
+ARTICULO 23 Bis B.- (DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
-
-ARTICULO 23 Bis B.- Para ser Consejero Jurídico se requerirá:
-
-(NOTA: EL 7 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 87/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. Ser ciudadano mexicano POR NACIMIENTO;
-
-II. Tener, cuando menos, treinta y cinco años cumplidos al día de su designación;
-
-III. Contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho;
-
-IV. Gozar de buena reputación; y
-
-V. No haber sido condenado por delito doloso.
-
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
-
-ARTICULO 23 Bis C.- La Consejería Jurídica ejercerá las partidas presupuestales que les sean asignadas en el Presupuesto de Egresos del Estado. El titular de la Consejería Jurídica será responsable de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen de conformidad con lo establecido en la Ley de Planeación y la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, será responsable de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
-
-El titular de la Consejería Jurídica será responsable de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la Consejería tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
+ARTICULO 23 Bis C.- (DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
 ### CAPITULO III. De las Entidades Administrativas
 
@@ -426,3 +410,45 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 3 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
+
+CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+
+El patrimonio y presupuesto con que actualmente cuenta del Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
+
+La Secretaría de Administración y Finanzas de Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
+
+Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
+
+SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
+
+OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
+
+NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+> <small>[N. DE E. TRASITORIOS DEL “DECRETO NÚMERO 4 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y DE LA LEY DE ENTIDADES PARAESTATALES, AMBAS DEL ESTADO DE SINALOA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las derogaciones del Capítulo II Bis y sus artículos 23 Bis, 23 Bis A, 23 Bis B y 23 Bis C de la Ley Orgánica de la Administración Pública del Estado de Sinaloa, previstas en el presente Decreto, surtirán sus efectos a partir del día primero de noviembre del año dos mil veintiuno.
+
+TERCERO. Aquellas entidades paraestatales que no dispongan de un área de asesoría jurídica específica y que a juicio del Gobernador Constitucional del Estado requieran de una, en razón de su objeto, atribuciones o recursos públicos que ejercen, integrarán a su proyecto de presupuesto para el próximo ejercicio fiscal un área de Asuntos Jurídicos en su estructura orgánica.
+
+CUARTO. El nombramiento y remoción de los titulares de las áreas jurídicas de las entidades paraestatales, será atribución vigente del Secretario General de Gobierno, a partir de la entrada en vigor de este Decreto, aún y cuando el instrumento jurídico que les dio origen no haya sido adecuado a esta disposición. En lo subsecuente, se dictarán las disposiciones necesarias para armonizar dichos instrumentos jurídicos al contenido de esta reforma de Ley.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
