@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-crfe14-02se-2021-de-la-comision-del-registro-149640
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-06-02"
-last_updated: "2021-06-02"
+last_updated: "2021-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-05-03"
 
 EXTRACTO DEL ACUERDO INE/CRFE14/02SE/2021 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PLAN DE TRABAJO DEL PROYECTO DE LA DISTRITACIÓN NACIONAL 2021-2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2021.
 
 Extracto publicado en el Número 2 del Diario Oficial de la Federación, el miércoles 2 de junio de 2021.
 
@@ -60,3 +60,51 @@ Anexo: https://repositoriodocumental.ine.mx/pdfjs-flipbook/web/viewer.html?file=
 DOF: www.dof.gob.mx/2021/INE/Acuerdo-INE-CRFE14-02SE-2021.pdf
 
 Ciudad de México, a 3 de mayo de 2021.- El Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE OCTUBRE DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “EXTRACTO DEL ACUERDO INE/CRFE40/04SE/2021 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL PLAN DE TRABAJO DEL PROYECTO DE LA DISTRITACIÓN NACIONAL 2021-2023, APROBADO MEDIANTE DIVERSO INE/CRFE14/02SE/2021”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+EXTRACTO DEL ACUERDO INE/CRFE40/04SE/2021 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL PLAN DE TRABAJO DEL PROYECTO DE LA DISTRITACIÓN NACIONAL 2021-2023, APROBADO MEDIANTE DIVERSO INE/CRFE14/02SE/2021
+
+ANTECEDENTES
+
+[...] 8. [...] El 26 de abril de 2021, la Comisión del Registro Federal de Electores (CRFE) del Consejo General del Instituto Nacional Electoral (INE) aprobó, mediante Acuerdo INE/CRFE14/02SE/2021, el Plan de Trabajo del Proyecto de la Distritación Nacional 2021-2023 (Plan), el cual fue informado a la Junta General Ejecutiva (JGE) el 28 de abril de 2021 y publicado en el Diario Oficial de la Federación (DOF) el 2 de junio de 2021.
+
+[...] 12. [...] El 20 de agosto de 2021, en la convocatoria a la cuarta sesión extraordinaria de esta CRFE, la Dirección Ejecutiva del Registro Federal de Electores (DERFE) presentó las propuestas de ajustes al Plan. [...]
+
+ACUERDOS
+
+PRIMERO. Se aprueban las modificaciones al Plan de Trabajo del Proyecto de la Distritación Nacional 2021-2023 (Plan), aprobado en el Acuerdo INE/CRFE14/02SE/2021, de conformidad con el Anexo que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Hágase del conocimiento de la JGE, la aprobación de este Acuerdo y su Anexo, para los efectos conducentes.
+
+TERCERO. Hágase del conocimiento de la Comisión Nacional de Vigilancia (CNV) lo aprobado por esta CRFE.
+
+CUARTO. El presente Acuerdo entrará en vigor el día de su aprobación por esta CRFE. [...]
+
+El presente Acuerdo fue aprobado en la cuarta sesión extraordinaria de la CRFE, celebrada el día 24 de agosto de 2021, por la votación unánime de la Consejera Electoral Carla Astrid Humphrey Jordan, el Consejero Electoral Ciro Murayama Rendón, el Consejero Electoral Jaime Rivera Velázquez, el Consejero Electoral José Roberto Ruiz Saldaña, y el Consejero Electoral Uuc-kib Espadas Ancona, Presidente de la Comisión.
+
+El Presidente de la Comisión del Registro Federal de Electores y Consejero Electoral, Dr. Uuc-kib Espadas Ancona.- Rúbrica.- El Secretario Técnico de la Comisión del Registro Federal de Electores y Director Ejecutivo del Registro Federal de Electores, Ing. René Miranda Jaimes.- Rúbrica.
+
+El Acuerdo y su Anexo que forma parte integral del mismo, pueden ser consultados en las siguientes direcciones electrónicas:
+
+Acuerdo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/123123/INE-CRFE40-04SE-2021.pdf
+
+Anexo 1:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/123123/crfe-4se-2021-08-24-p11-2-informe.pdf
+
+Anexo 2:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/123123/crfe-4se-2021-08-24-p11-3-informe.pdf
+
+DOF:
+
+www.dof.gob.mx/2021/INE/Acuerdo-INE-CRFE40-04SE-2021.pdf
+
+Ciudad de México, a 24 de agosto de 2021.- Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
