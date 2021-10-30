@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-denominado-bosque-962
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2020-10-03"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE LA PRIMAVERA" DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -216,6 +216,28 @@ Para el caso de los representantes a que se hace referencia en los incisos p) y 
 ###### Artículo 9.
 
 La Junta de Gobierno celebrará sesiones ordinarias en forma trimestral, y extraordinaria cuando las circunstancias del caso lo ameriten.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 Los mecanismos de la Convocatoria a las sesiones de la Junta de Gobierno se establecerán en el Reglamento Interno.
 
@@ -662,3 +684,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27947/LXII/20 QUE REFORMA EL ARTÍCULO 8 DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO BOSQUE LA PRIMAVERA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28479/LXII/21 QUE REFORMA EL ARTÍCULO 15 (SIC) DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE LA PRIMAVERA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".]
