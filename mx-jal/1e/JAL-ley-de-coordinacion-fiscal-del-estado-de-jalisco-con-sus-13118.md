@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2021-07-06"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -208,7 +208,7 @@ Los municipios podrán afectar los recursos provenientes del Fondo de Aportacion
 
 El retraso en la entrega de las participaciones dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6o. de la Ley de Coordinación Fiscal de la Federación.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 9.
 
@@ -222,35 +222,45 @@ El coeficiente se determinará conforme a las siguientes reglas:
 
 a) El 70% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, se distribuirá entra (sic) la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las carátulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismo (sic) conceptos, aplicando la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VI DEL P.O. DE 26 DE NOVIEMBRE DE 2020, PÁGINA 5.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VIII DEL P.O. DE 30 DE OCTUBRE DE 2021, PÁGINA 3.]</small>
 
 b) El 30% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, el cual se distribuirá entre el total de los municipios que celebren el convenio para la administración del impuesto predial con el Gobierno del Estado de Jalisco, que esté publicado en el periódico oficial El Estado de Jalisco y hubiesen sido aceptados por la Secretaría de Hacienda y Crédito Público e informados a la Secretaría de la Hacienda Pública del Estado.
 
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES IDÉNTICO AL CONTENIDO DEL TERCER PÁRRAFO DEL INCISO B, VÉASE PUBLICACIÓN OFICIAL DE FECHA 30 DE OCTUBRE DE 2021.]</small>
+
 La distribución del 30% del excedente se realizará conforme la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VI DEL P.O. DE 26 DE NOVIEMBRE DE 2020, PÁGINA 6.]</small>
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES IDÉNTICO AL CONTENIDO DEL SEGUNDO PÁRRAFO DEL INCISO B, VÉASE PUBLICACIÓN OFICIAL DE FECHA 30 DE OCTUBRE DE 2021.]</small>
+
+La distribución del 30% del excedente se realizará conforme la siguiente fórmula: (sic)
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VIII DEL P.O. DE 30 DE OCTUBRE DE 2021, PÁGINA 4.]</small>
 
 Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del Fondo de Fomento Municipal entre los Municipios del Estado serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-###### Artículo 9° Bis.
+###### Artículo 9. Bis.
 
 Los recursos a favor de los municipios a que se refiere la fracción VII del artículo 5 de esta ley, correspondiente a la recaudación del Impuesto Sobre la Renta relativo a ingresos por enajenación de inmuebles, en términos del artículo 126 de la Ley del Impuesto Sobre la Renta, se distribuirán entre los municipios del Estado, de la siguiente forma:
 
 El coeficiente se determinará conforme a las siguientes reglas:
 
-a) El 20% de la recaudación neta que perciba el Estado del gravamen federal referido en el artículo 126 de la Ley del Impuesto sobre la Renta, informada y determinada por la Secretaría de Hacienda y Crédito Público, se distribuirá entre la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las carátulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismo conceptos, aplicando la siguiente fórmula:
+a) El 20% de la recaudación neta que perciba el Estado del gravamen federal referido en el artículo 126 de la Ley del Impuesto sobre la Renta, informada y determinada por la Secretaría de Hacienda y Crédito Público, se distribuirá entre la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las carátulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismo (sic) conceptos, aplicando la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VI DEL P.O. DEL 26 DE NOVIEMBRE DE 2020, DE LA PÁGINA 6 A LA 7.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VIII DEL P.O. DE 30 DE OCTUBRE DE 2021, PÁGINAS DE LA 5 A LA 6.]</small>
 
 El 2% adicional a que refiere el párrafo segundo, de la fracción VII del Artículo 5 de esta legislación, se distribuirá atendiendo a la formula antes detallada, entre la totalidad de los municipios que celebren convenio de colaboración administrativa en materia de intercambio de información fiscal.
 
-Los municipios deberán tener vigente el convenio referido en el parrafo anterior a más tardar el 1° de Febrero del año en que se lleve a cabo el calculo para poder participar de ese excedente.
+Los municipios deberán tener vigente el convenio referido en el parrafo anterior a más tardar el 1° de Marzo del año en que se lleve a cabo el calculo para poder participar de ese excedente.
 
 El incumplimiento del convenio de mérito conlleva a la suspensión del pago del ingreso adicional, sin que haya obligación por parte de la Secretaría de la Hacienda Pública del Estado de efectuar posteriormente los pagos suspendidos por el supuesto antes señalado.
 
 Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del incentivo que se trata, serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
+
+El Poder Ejecutivo actualizará el coeficiente, cuando fuere necesario, en función de la desincorporación de los Municipios al Convenio de Colaboración Administrativa en Materia de Intercambio de Información Fiscal, con base en la información proporcionada por la Secretaría de Hacienda y Crédito Público.
+
+La actualización deberá ser notificada al Congreso del Estado y publicada en el periódico oficial "El Estado de Jalisco" dentro de los cinco días hábiles del mes inmediato posterior a que se realizó la desincorporación. Dicha publicación contendrá la actualización de los coeficientes y el listado de Municipios desincorporados.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -649,3 +659,13 @@ P.O. 6 DE JULIO DE 2021.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28483/LXII/21 QUE MODIFICA LOS ARTÍCULOS 9 Y 9 BIS AMBOS CORRESPONDIENTES A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+Primero. La modificación realizada al párrafo segundo del inciso b) de la fracción II correspondiente al artículo 9 de la Ley de Coordinación Fiscal del Estado de Jalisco con sus Municipios, respecto a los meses durante los cuales deberán celebrar los Municipios Convenio de Coordinación y Colaboración Administrativa en materia del Impuesto Predial, con el Gobierno del Estado de Jalisco entrará en vigor el día 1 de enero de 2022.
+
+Segundo. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, a actualizar el coeficiente correspondiente al Fondo de Fomento Municipal, en función de la incorporación o desincorporación de los Municipios al convenio de coordinación y colaboración administrativa en materia del impuesto predial, con base en la información proporcionada por la Secretaría de Hacienda y Crédito Público esto durante los ejercicios fiscales 2021 y 2022.
+
+Tercero. Con excepción de lo dispuesto en el artículo primero transitorio, el resto de las disposiciones contenidas en el presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
