@@ -4,7 +4,7 @@ identifier: "JAL-ley-agroalimentaria-del-estado-de-jalisco-140070"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-28"
-last_updated: "2021-04-27"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY AGROALIMENTARIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 2019.
 
@@ -75,9 +75,17 @@ VI. Crear un sistema oficial fitozoosanitario estatal que establezca, ejecute y 
 
 VII. Implementar los instrumentos, mecanismos y regulaciones necesarias para contar con un sistema promotor y clasificador de las calidades de los productos del sector agroalimentario;
 
-VIII. Implementar, inspeccionar, verificar y certificar los sistemas de reducción de riesgos de contaminación física, química y microbiológica en la producción primaria y manufactura; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-IX. Implantar la cultura de la sanidad en la sociedad del Estado de Jalisco.
+VIII. Implementar, inspeccionar, verificar y certificar los sistemas de reducción de riesgos de contaminación física, química y microbiológica en la producción primaria y manufactura;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+IX. Implantar la cultura de la sanidad en la sociedad del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+X. Fomentar el rescate y la donación de alimentos suficientes, nutritivos, inocuos y de calidad del sector agroalimentario a favor de la población más necesitada.
 
 ###### Artículo 3.
 
@@ -323,9 +331,55 @@ XLV. Coadyuvar y coordinar con la federación las estrategias, planes, programas
 
 XLVI. Organizar, operar y supervisar en los puertos aéreos, marítimos y terrestres la verificación, inspección y certificación de mercancías reguladas, así como de aquellas que sin estarlo puedan representar un riesgo fitozoosanitario, en términos de los convenios que se suscriban para efectos de la coordinación y coadyuvancia con la federación;
 
-XLVII. Proponer incentivos y deducciones fiscales sobre impuestos estatales a las personas productoras de alimentos que entreguen en especie; en función de lo que establezca la Ley de Hacienda del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-XLVIII. Las demás que expresamente le atribuyan esta, otras disposiciones legales aplicables o los acuerdos técnicos del ámbito internacional en materia de sanidad, inocuidad y calidad agroalimentaria, trazabilidad, bienestar animal y, responsabilidad social y ambiental.
+XLVII. Proponer incentivos y deducciones fiscales sobre impuestos estatales a las personas productoras de alimentos que entreguen en especie; en función de lo que establezca la Ley de Hacienda del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+XLVIII. Promover la donación de alimentos inocuos y de calidad en el sector agroalimentario para reducir la pérdida y desperdicio de alimentos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+XLIX. Fomentar la cultura de la donación y el aprovechamiento de alimentos a favor de la población más necesitada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+L. Realizar campañas de información en el sector agroalimentario, sobre los beneficios e incentivos por la donación de alimentos a través de instituciones o programas autorizados para el acopio y distribución de los mismos, con el objeto de evitar la pérdida y desperdicio de alimentos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LI. Orientar y facilitar información en el sector agroalimentario sobre la donación de alimentos y las instituciones autorizadas para distribuirlos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LII. Promover y gestionar facilidades para que los alimentos que se entreguen en donación en el sector agroalimentario, se recolecten y trasladen a los centros de acopio autorizados para su distribución;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LIII. Promover la organización y coordinación en el sector agroalimentario, con el objeto de evitar la pérdida de alimentos a través de la donación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LIV. Tener un registro de donadores del sector agroalimentario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LV. Coadyuvar con las autoridades e involucrados en el sector agroalimentario en el rescate de alimentos con el objeto de que sean donados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LVI. Promover ante el Consejo Jalisciense de Asistencia Social, la entrega de reconocimientos dentro del sector agroalimentario por la donación de alimentos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LVII. Proponer a la Secretaría del Sistema de Asistencia Social estrategias y puntos de recolección de alimentos que se ofrezcan en donación en el sector agroalimentario, que faciliten a las instituciones y programas de asistencia social el acopio y distribución de dichos alimentos; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLVIII], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+LVIII. Las demás que expresamente le atribuyan esta, otras disposiciones legales aplicables o los acuerdos técnicos del ámbito internacional en materia de sanidad, inocuidad y calidad agroalimentaria, trazabilidad, bienestar animal y, responsabilidad social y ambiental.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE OCTUBRE DE 2021)</small>
 
 Las medidas y procedimientos previstos en las fracciones XXV, XXIX y XXX, se aplicarán en los términos de la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
@@ -1455,27 +1509,135 @@ De igual forma, se instituye el Premio a la Promoción de la Cultura Agroaliment
 
 El procedimiento para la selección de los ganadores a los premios señalados en el artículo anterior y las demás previsiones, incluyendo lo relativo a las convocatorias, que sean necesarias para hacerlo efectivo, se establecerán en disposiciones reglamentarias.
 
-## Título Octavo. Disposiciones Complementarias
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-### Capítulo I. De los Medios Alternativos de Solución de Controversias
+## Título Octavo. De la Donación de Alimentos en el Sector Agroalimentario
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### Capítulo Primero (SIC). Del Derecho a la Alimentación
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 146.
 
-En caso de controversia, podrán aplicarse métodos alternos en todos los asuntos susceptibles de convenio o transacción, aplicándose para tal efecto las disposiciones establecidas en la Ley de Justicia Alternativa del Estado de Jalisco.
+El derecho a la alimentación nutritiva, suficiente y de calidad, es de orden público e interés social en todo el territorio del Estado de Jalisco.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 147.
+
+El Estado y los municipios en el ámbito de su competencia, promoverán acciones dentro del sector agroalimentario para la donación de alimentos a favor de la población más necesitada.
+
+Dichas autoridades deberán coordinarse para facilitar en el sector agroalimentario, toda la información necesaria sobre los beneficios de la donación altruista, de las instituciones y programas autorizados para el acopio y distribución de dichos alimentos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 148.
+
+A falta de disposición expresa en el presente Título, se aplicará supletoriamente el Código de Asistencia Social del Estado de Jalisco.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### Capítulo II. De la Donación de Alimentos en el Sector Agroalimentario
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 149.
+
+La donación de alimentos en el sector agroalimentario compete promoverla en su ámbito de competencia a todas las autoridades, y en el ámbito estatal y municipal a las siguientes:
+
+I. Al Gobierno del Estado de Jalisco, a través de la Agencia;
+
+II. A los ayuntamientos por conducto de las áreas que faculten sus reglamentos y disposiciones aplicables en su respectivo municipio.
+
+Ambos niveles de gobierno promoverán la participación de los sectores social y privado en la donación de alimentos provenientes del sector agroalimentario.
+
+Las instituciones públicas oficiales deberán realizar campañas de difusión sobre la donación de alimentos y publicar en su sitio web información sobre las instituciones y programas autorizados para su acopio y distribución.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 150.
+
+La Agencia y la Secretaría del Sistema de Asistencia Social mantendrán coordinación sobre la recolección de alimentos en el sector agroalimentario, a efecto de que su acopio se canalice a las instituciones y programas autorizados para la distribución a favor de la población más necesitada.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 151.
+
+El Gobierno del Estado y los ayuntamientos deberán monitorear en sus programas sobre el manejo de residuos, la pérdida y desperdicio de alimentos con la finalidad de promover acciones preventivas para su rescate y aprovechamiento mediante la donación.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 152.
+
+Las autoridades al promover la donación de alimentos deberán abstenerse de adoptar medidas que impidan, puedan impedir o limitar el acceso a una alimentación adecuada, incluyendo el establecimiento de normas que puedan considerarse discriminatorias.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 153.
+
+Los ayuntamientos del Estado de Jalisco, deberán promover dentro de sus respectivos municipios, la donación altruista de alimentos y realizar campañas de información sobre los beneficios por la donación de alimentos en el sector agroalimentario.
+
+El gobierno municipal conforme a su capacidad presupuestal, deberá promover acciones para apoyar la operación de las instituciones autorizadas para la donación de alimentos y la ampliación de su estructura institucional y física.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 154.
+
+La Agencia será el enlace entre el sector agroalimentario y las instituciones autorizadas para la donación de alimentos a favor de la población más necesitada.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 155.
+
+Los involucrados en el sector agroalimentario deberán facilitar información a la Agencia y a la autoridad municipal para el diseño de estrategias para el rescate, acopio y distribución oportuna de alimentos del sector agroalimentario que sean donados.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 156.
+
+Las instituciones y programas autorizados para la donación de alimentos deberán verificar que los alimentos que reciban del sector agroalimentario, cumplan con las condiciones de inocuidad y calidad.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+## Título Noveno. Disposiciones Complementarias
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### Capítulo I. De los Medios Alternativos de Solución de Controversias
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 157.
+
+En caso de controversia, podrán aplicarse métodos alternos en todos los asuntos susceptibles de convenio o transacción, aplicándose para tal efecto las disposiciones establecidas en la Ley de Justicia Alternativa del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### Capítulo II. Del Observador Ciudadano
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 158.
 
 La Agencia podrá autorizar la participación de observadores ciudadanos en los procesos y procedimientos derivados de esta Ley, cuando a petición de parte, cualquier persona u organización lo solicite.
 
 Esta expresión de transparencia gubernamental permitirá poner a análisis de los ciudadanos la actuación de la Agencia en materia de sanidad, inocuidad y calidad agroalimentaria, de forma que los resultados de esta acción permitirán conocer las necesidades, perspectivas y propuestas de mejora del sector involucrado, por lo que la Agencia estará obligada a tomar en cuenta dichas propuestas de mejora.
 
-###### Artículo 148.
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 159.
 
 Los observadores autorizados deberán cumplir con los requisitos y atender los procedimientos que establezcan la Agencia u otras autoridades competentes en los sitios e instalaciones en que se desarrollen las actividades materia de la autorización. Si como resultado de la observación ciudadana se identifica alguna irregularidad o desvío en los procesos, deberá denunciarse ante la Agencia.
 
-### Capítulo II. Del Observador Ciudadano
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-###### Artículo 149.
+### Capítulo III. De la Denuncia Ciudadana
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 160.
 
 Cualquier ciudadano que tenga conocimiento de hechos irregulares derivados del incumplimiento a esta Ley y sus disposiciones reglamentarias y técnicas, deberá hacerlo de conocimiento de la Agencia, bastando para ello que lo haga por escrito, por la vía electrónica o cualquier otro medio en que quede constancia de su recepción y que se señale lo siguiente:
 
@@ -1487,11 +1649,19 @@ III. Todos los elementos probatorios o de inferencia con que se cuenten sin que 
 
 La Agencia, dentro de los cinco días hábiles posteriores a la recepción de la denuncia, deberá acordar la radicación del expediente respectivo, el inicio del procedimiento y, en su caso, a solicitar mayor información al denunciante a efecto de que aclare o amplíe la información que permita el obtener resultados efectivos.
 
-###### Artículo 150.
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 161.
 
 La Agencia contará con un plazo máximo de sesenta días naturales para resolver sobre la investigación generada con motivo de la denuncia, con independencia del procedimiento que por la naturaleza de las irregularidades se derive.
 
-###### Artículo 151.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### Capítulo IV. De las Medidas Preventivas o de Seguridad
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 162.
 
 La Agencia, con la finalidad de proteger la sanidad, inocuidad y calidad agroalimentaria, corregir las irregularidades que se hubieran advertido, impedir que se continúen cometiendo, así como para evitar o controlar un riesgo, podrá implementar las medidas preventivas o de seguridad siguientes:
 
@@ -1513,7 +1683,13 @@ VIII. Establecer programas obligatorios de vacunaciones, desinfecciones y otras 
 
 IX. Las demás que sean necesarias para salvaguardar la seguridad agroalimentaria del Estado, siempre que justifiquen científicamente el riesgo presente o futuro que se esté evitando.
 
-###### Artículo 152.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### Capítulo V. De las Infracciones
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 163.
 
 Son infracciones administrativas:
 
@@ -1543,9 +1719,15 @@ XII. Ostentar sin autorización las contraseñas, distintivos, etiquetas, sellos
 
 XIII. Presentar información o documentación falsa o alterada, ante cualquier solicitud, trámite o servicio, a fin de obtener una autorización, permiso, concesión, esquemas de facilitación o autorregulación y, en general, para obtener un beneficio indebido; y
 
-XIV. Las demás transgresiones a lo establecido en esta Ley o sus disposiciones reglamentarias y técnicas.
+XVI (SIC). Las demás transgresiones a lo establecido en esta Ley o sus disposiciones reglamentarias y técnicas.
 
-###### Artículo 153.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### Capítulo VI. De las Sanciones
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 164.
 
 Las sanciones a las infracciones descritas en el capítulo anterior se aplicarán bajo la fórmula siguiente:
 
@@ -1555,7 +1737,9 @@ II. En el caso de infracciones previstas por las fracciones IV, VII, IX, XII y X
 
 III. En el caso de infracciones previstas por las fracciones I, II, V, VI y XI, corresponde una sanción económica consistente en multa de 10,001 a 50,000 Unidades de Medida y Actualización.
 
-###### Artículo 154.
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 165.
 
 Tomando en cuenta la clasificación prevista en este capítulo adicionalmente a las sanciones económicas descritas en el artículo que antecede, podrán imponerse a los infractores las siguientes sanciones:
 
@@ -1565,7 +1749,9 @@ II. Suspensión temporal de la concesión, autorización, registro, aprobación,
 
 III. Revocación o cancelación de la concesión, autorización, registro, aprobación, permiso, certificación o reconocimiento.
 
-###### Artículo 155.
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 166.
 
 Ante la evidencia de la comisión de alguna de las infracciones previstas en esta Ley, la Agencia substanciará el procedimiento correspondiente para determinar la existencia de infracciones y, en su caso, dictará la resolución sancionadora que proceda, considerando:
 
@@ -1581,19 +1767,25 @@ V. El beneficio directamente obtenido por el infractor; y
 
 VI. La evaluación de riesgo que pudieran afectar la sanidad agroalimentaria y la salud pública.
 
-###### Artículo 156.
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 167.
 
 Tratándose de las infracciones por la falsedad en las declaraciones de portación, transporte o contacto con mercancía regulada o prohibida en la vía turística, el personal facultado de la Agencia podrá determinar la sanción en el lugar de los hechos, debiendo notificar de manera inmediata al infractor, ajustándose a lo previsto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-### Capítulo III. De la Denuncia Ciudadana
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-###### Artículo 157.
+### Capítulo VII. De los Delitos
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 168.
 
 En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Agencia tenga conocimiento de actos u omisiones que pudieran constituir delitos, formulará ante la Fiscalía Estatal o la Fiscalía General de la República, según sea el caso, la denuncia de hechos correspondiente. La Agencia será coadyuvante del Ministerio Público, en los términos de la legislación penal aplicable.
 
-### Capítulo IV. De las Medidas Preventivas o de Seguridad
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-###### Artículo 158.
+###### Artículo 169.
 
 Se sancionará con prisión de uno a tres años y por el equivalente de trescientos a tres mil Unidades de Medida y Actualización a quien:
 
@@ -1622,16 +1814,6 @@ XI. Altere o destruya distintivos, etiquetas, certificados, sellos, marcas ofici
 XII. Reproduzca o imprima distintivos, etiquetas, certificados, sellos, marcas oficiales, logotipos, leyendas, inscripciones y flejes previstos por esta Ley y por las disposiciones reglamentarias y técnicas, sin estar autorizado por la Agencia o el SENASICA o cuando estando autorizado para ello, no se cuente con la orden de expedición correspondiente.
 
 La pena de prisión deberá aumentarse hasta tres años más y la pena económica hasta mil Unidades de Medida y Actualización, para el caso en el que las conductas referidas en el presente artículo afecten o causen un daño a la producción agroalimentaria nacional, al estatus sanitario de alguna zona o región del país o ponga en peligro la seguridad agroalimentaria del mismo.
-
-###### ARTÍCULO CUARTO.
-
-[…]
-
-### Capítulo V. De las Infracciones
-
-### Capítulo VI. De las Sanciones
-
-### Capítulo VII. De los Delitos
 
 ## TRANSITORIOS
 
@@ -1694,3 +1876,15 @@ P.O. 27 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28378/LXII/21 QUE ADICIONA SEGUNDO PÁRRAFO AL ARTÍCULO 14 Y RECORRIENDO EL ACTUAL PÁRRAFO SEGUNDO AL TERCERO EN SU ORDEN DE LA LEY AGROALIMENTARIA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY AGROALIMENTARIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor del presente decreto, deberá realizar las adecuaciones a los reglamentos, acuerdos y demás disposiciones de su competencia que sean necesarias para el cumplimiento del presente decreto.
+
+CUARTO. El Gobierno del Estado y los gobiernos municipales dentro del plazo de ciento veinte días posteriores a la entrada en vigor del presente decreto, deberán realizar las adecuaciones necesarias a sus programas sobre manejo de residuos con el objeto de monitorear y establecer acciones preventivas que reviertan la pérdida y desperdicio de alimentos procurando su aprovechamiento mediante la donación a favor de la población más necesitada.
