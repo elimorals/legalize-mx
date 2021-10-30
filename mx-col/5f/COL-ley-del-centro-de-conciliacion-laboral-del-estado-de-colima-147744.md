@@ -4,7 +4,7 @@ identifier: "COL-ley-del-centro-de-conciliacion-laboral-del-estado-de-colima-147
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-13"
-last_updated: "2021-02-13"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento Num. 3 al Número 14 del Periódico Oficial del Estado de Colima, el sábado 13 de febrero de 2021.
 
@@ -665,7 +665,9 @@ VIII. Todos los demás bienes o derechos que perciba en el ejercicio de sus atri
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, en los términos previstos por los transitorios siguientes.
 
-SEGUNDO. El Centro iniciará sus operaciones a partir del 01 de octubre de 2021, debiéndose instalar su Junta de Gobierno, por lo menos, seis meses antes del inicio de operaciones.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+SEGUNDO. El Centro iniciará sus operaciones a partir del 03 de noviembre de 2021, debiéndose instalar su Junta de Gobierno, por lo menos, seis meses antes del inicio de operaciones.
 
 TERCERO. La persona Titular de la Secretaría del Trabajo y Previsión Social, en su calidad de Presidente de la Junta de Gobierno, convocará a la primera sesión de dicho órgano, para proponer al Congreso del Estado a la persona que se considere idónea para ocupar el cargo de Director General del Centro de Conciliación, dentro de los 60 días naturales siguientes a la entrada en vigor de esta Ley.
 
@@ -716,3 +718,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO.
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2.- POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para los efectos del presente Decreto, se deroga (sic) todas aquellas disposiciones que contravengan al mismo.
