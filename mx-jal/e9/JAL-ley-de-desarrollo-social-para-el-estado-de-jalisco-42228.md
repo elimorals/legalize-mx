@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2021-07-29"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -285,9 +285,9 @@ X. El derecho al uso y aprovechamiento de las tecnologías de la comunicación y
 
 XI. El derecho a la cohesión social, la vida comunitaria y a vivir en un entorno de paz;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-XII. El derecho a la libre determinación de los pueblos y comunidades indígenas y afromexicanas, cualquiera que sea su autodenominación; y
+XII. El derecho a la libre determinación de los pueblos y comunidades indígenas y afromexicanas, cualquiera que sea su autodenominación.
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
@@ -655,11 +655,11 @@ Además de las obligaciones que señalan los artículos anteriores, el Gobierno 
 
 La publicidad e información relativa a los programas de desarrollo social federales, estatales o municipales deberán identificarse con el Escudo Nacional en los términos que señala la ley en la materia y tendrá la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos al desarrollo social".
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 30.
 
-Cuando en un municipio exista población indígena las autoridades municipales deberán difundir el contenido, las reglas de operación y los beneficios de los programas de desarrollo social que se estén implementando en el municipio, en la lengua materna o lenguas indígenas conforme a sus variantes lingüísticas, según el catálogo de lenguas nacionales expedido de conformidad a la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
+Cuando en un municipio exista población indígena y comunidades afromexicanas, las autoridades municipales deberán difundir el contenido, las reglas de operación y los beneficios de los programas de desarrollo social que se estén implementando en el municipio, en la lengua materna o lenguas indígenas conforme o sus variantes lingüísticas, según el catálogo de lenguas nacionales expedido de conformidad a la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
 
 ###### Artículo 31.
 
@@ -1376,5 +1376,11 @@ TERCERO. A partir de la aprobación de la ley, se establece el periodo de un añ
 P.O. 29 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28421/LXII/21 QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 24482/LXII/21 QUE MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7 Y EL ARTÍCULO 30 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
