@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-151624"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-10-09"
-last_updated: "2021-10-09"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MAYO DE 2022 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Reglamento publicado en la Edición Ordinaria del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -43,11 +41,11 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 ANTECEDENTES:
 
-[…]
+[...]
 
 CONSIDERANDOS
 
-[…]
+[...]
 
 Por lo antes expuesto, se expide el siguiente
 
@@ -55,7 +53,7 @@ DECRETO NO. 503
 
 PRIMERO.-
 
-[…]
+[...]
 
 SEGUNDO.- SE EXPIDE EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, EN LOS SIGUIENTES TÉRMINOS:
 
@@ -557,13 +555,17 @@ Para ser titular de la Secretaría Técnica se requiere:
 
 I. Ser ciudadano o ciudadana mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditarse, además, residencia en el Estado no menor de dos años;
 
-II. Tener mínimo treinta años de edad;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+II. Tener mínimo veinticinco años de edad;
 
 III. No haber sido dictada sentencia definitiva en su contra por delito que amerite prisión preventiva oficiosa; no haber sido declarado en concurso mercantil o suspensión de pagos; ni haber sido inhabilitado para desempeñar empleo, cargo o comisión en el servicio público federal, estatal o municipal, por resolución administrativa definitiva;
 
 IV. Disponer de título y/o cédula profesional, debidamente registrados, en áreas afines al cargo; y
 
-V. Acreditar experiencia profesional mínima de cinco años.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+V. Acreditar experiencia profesional mínima de tres años.
 
 ###### Artículo 50.
 
@@ -2418,3 +2420,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 6.- POR EL QUE SE REFORMA EL ARTÍCULO 91 FRACCIÓN II, 94 FRACCIÓN II Y 97 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EL ARTÍCULO 49 FRACCIÓN II DE SU REGLAMENTO.]
+
+ÚNICO.- El presente decreto entrará en vigor en el momento de su aprobación, por el Pleno del H. Congreso del Estado de Colima y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
