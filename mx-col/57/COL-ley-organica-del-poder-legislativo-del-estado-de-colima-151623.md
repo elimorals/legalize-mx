@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2021-10-09"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MAYO DE 2022 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -985,7 +983,9 @@ Para ser titular de la Secretaría General se requiere:
 
 I. Ser ciudadano o ciudadana mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditarse, además, residencia en el Estado no menor de dos años;
 
-II. Tener mínimo treinta años de edad;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+II. Tener mínimo veinticinco años de edad;
 
 (NOTA: EL 31 DE ENERO 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -993,7 +993,9 @@ III. No haber sido dictada sentencia definitiva en su contra por delito que amer
 
 IV. Disponer de título y/o cédula profesional, debidamente registrados, en áreas afines al cargo; y
 
-V. Acreditar experiencia profesional mínima de cinco años.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+V. Acreditar experiencia profesional mínima de tres años.
 
 ###### Artículo 92.
 
@@ -1013,7 +1015,9 @@ Para ser titular de la Contraloría Interna se requiere:
 
 I. Ser ciudadano o ciudadana mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditarse, además, residencia en el Estado no menor de dos años;
 
-II. Tener mínimo treinta años de edad;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+II. Tener mínimo veinticinco años de edad;
 
 (NOTA: EL 31 DE ENERO 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1021,7 +1025,9 @@ III. No haber sido dictada sentencia definitiva en su contra por delito que amer
 
 IV. Disponer de título y/o cédula profesional, debidamente registrados, en áreas afines al cargo; y
 
-V. Acreditar experiencia profesional mínima de cinco años.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+V. Acreditar documentalmente experiencia profesional mínima de tres años, en materia de manejo y fiscalización de recursos públicos y áreas afines.
 
 #### SECCIÓN CUARTA. DEL INSTITUTO DE PROFESIONALIZACIÓN E INVESTIGACIONES PARLAMENTARIAS
 
@@ -1057,7 +1063,9 @@ Para ser titular del Instituto se requiere:
 
 I. Ser ciudadano o ciudadana mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditarse, además, residencia en el Estado no menor de dos años;
 
-II. Tener mínimo treinta años de edad;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+II. Tener mínimo veinticinco años de edad;
 
 (NOTA: EL 31 DE ENERO 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1065,7 +1073,9 @@ III. No haber sido dictada sentencia definitiva en su contra por delito que amer
 
 IV. Disponer de título y/o cédula profesional, debidamente registrados, en áreas afines al cargo; y
 
-V. Acreditar experiencia profesional mínima de cinco años.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+V. Acreditar experiencia profesional mínima de tres años.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO Y PRÁCTICAS PARLAMENTARIAS
 
@@ -1452,3 +1462,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 6.- POR EL QUE SE REFORMA EL ARTÍCULO 91 FRACCIÓN II, 94 FRACCIÓN II Y 97 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EL ARTÍCULO 49 FRACCIÓN II DE SU REGLAMENTO”.]
+
+ÚNICO.- El presente decreto entrará en vigor en el momento de su aprobación, por el Pleno del H. Congreso del Estado de Colima y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
