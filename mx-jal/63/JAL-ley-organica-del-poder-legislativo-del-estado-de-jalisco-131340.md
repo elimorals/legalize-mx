@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-10-07"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1545,9 +1545,17 @@ II. La legislación en materia de protección de derechos humanos, apoyo a migra
 
 III. Los planes, programas, políticas y proyectos en las materias anteriores;
 
-IV. La elección del presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-V. La elección de los consejeros ciudadanos del Consejo para Prevenir y Eliminar la Discriminación en el Estado de Jalisco.
+IV. La elección del presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+V. La elección de los consejeros ciudadanos del Consejo para Prevenir y Eliminar la Discriminación en el Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VI. La elección de los integrantes del Consejo Estatal Ciudadano, órgano de consulta del Comité Coordinador, establecido por la Ley de Personas Desaparecidas del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3924,5 +3932,11 @@ TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Cons
 P.O. 7 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28463/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 47 Y 73 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 24484/LXII/21 (SIC) QUE MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 83 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
