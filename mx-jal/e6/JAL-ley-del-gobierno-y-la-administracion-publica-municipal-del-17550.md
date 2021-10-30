@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2021-10-02"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -2119,9 +2119,17 @@ III. Subsidiaria estatal: la celebrada a solicitud de uno o más municipios del 
 
 IV. Coordinada estatal: la celebrada a solicitud de uno o más municipios del estado con el Poder Ejecutivo del Estado, a través de convenios de coordinación y asociación aprobados por los ayuntamientos respectivos y el titular del Poder Ejecutivo, para que éste de manera directa o a través del organismo correspondiente, realice de manera coordinada con los propios municipios, la ejecución y operación de obras y la prestación de servicios públicos municipales;
 
-V. Metropolitana interna: la celebrada entre dos o más municipios del estado a través de convenios de coordinación aprobados por los ayuntamientos respectivos, previa declaración del Congreso del Estado, bajo las modalidades de área o región metropolitanas, en los términos de la ley de la materia, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-VI. Metropolitana interestatal: la celebrada entre uno o más municipios del estado con uno o más municipios de uno o más estados, todos colindantes entre sí y que compartan o tiendan a compartir un centro de población interestatal, a través de los instrumentos jurídicos que se establezcan en la ley federal de la materia, en los términos de la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+V. Metropolitana interna: la celebrada entre dos o más municipios del estado a través de convenios de coordinación aprobados por los ayuntamientos respectivos, previa declaración del Congreso del Estado, bajo las modalidades de área o región metropolitanas, en los términos de la ley de la materia;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VI. Metropolitana interestatal: la celebrada entre uno o más municipios del estado con uno o más municipios de uno o más estados, todos colindantes entre sí y que compartan o tiendan a compartir un centro de población interestatal, a través de los instrumentos jurídicos que se establezcan en la ley federal de la materia, en los términos de la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VII. Asociación Intermunicipal: la asociación conformada en términos de la Ley de Asociaciones Intermunicipales del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
@@ -2740,6 +2748,54 @@ Los ayuntamientos instituirán en su reglamentación y presupuesto al funcionari
 ###### Artículo 152.
 
 Los municipios, por conducto del Síndico, podrán invocar la instauración del procedimiento de lesividad ante la autoridad jurisdiccional competente, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, cuando se considere que éstas lesionan el interés público de la comunidad. La autoridad jurisdiccional correspondiente substanciará dicho procedimiento en la vía sumaria.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+## TÍTULO DUODÉCIMO. DEL FORTALECIMIENTO MUNICIPAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### CAPÍTULO ÚNICO. De las instancias intermunicipales
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 153.
+
+Los ayuntamientos de cada Municipio del Estado podrán coordinarse y asociarse entre sí según lo establecido en la Ley de Asociaciones Intermunicipales del Estado de Jalisco y en lo que corresponde a las asociaciones de municipios metropolitanos se debe observar lo contenido en la Ley de Coordinación Metropolitana del Estado de Jalisco para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; previo acuerdo entre sus ayuntamientos. En este caso y tratándose de la asociación de municipios de otro u otros Estados, deberán contar con previa autorización del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 154.
+
+Los convenios que se celebren entre Municipios y otras autoridades deberán contener, por lo menos, lo siguiente:
+
+I. Las declaraciones y cláusulas que se consideren convenientes, con apego a las disposiciones aplicables;
+
+II. Los instrumentos de cumplimiento del programa y sus fuentes de financiamiento;
+
+III. La forma en que se determinarán las tarifas por la prestación del servicio público, las cuales deberán destinarse exclusivamente a realizar todas aquellas acciones tendientes al mejoramiento, eficiencia, eficacia y ampliación del mismo;
+
+IV. La figura u organismo que se adopte para la prestación de los servicios públicos, así como su objeto, naturaleza, estructura administrativa y de gobierno;
+
+V. Los sistemas de información e indicadores de desempeño;
+
+VI. Los mecanismos de fiscalización, seguimiento, control y evaluación;
+
+VII. Sanciones por el incumplimiento de las obligaciones del convenio, cuando éstas se hayan acordado por las partes; y
+
+VIII. Medios no jurisdiccionales de resolución de conflictos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 155.
+
+Las asociaciones intermunicipales creadas de conformidad con la ley en la materia, se denominarán de acuerdo con el convenio respectivo y se integran como organismos públicos descentralizados intermunicipales a partir del acuerdo de creación que las formalice. Los convenios, contratos, actos jurídicos de asociación o coordinación celebrados entre diversos municipios, o de éstos con el Gobierno del Estado, para la prestación de servicios públicos o realización de obras, o de cualquier otra naturaleza deberán ser aprobados por el voto de cuando menos las dos terceras partes de los integrantes de los ayuntamientos respectivos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 156.
+
+Los convenios de coordinación y asociación intermunicipal se harán del conocimiento del Poder Ejecutivo del Estado, con el propósito de que sean considerados en los programas e instrumentos de planeación de carácter regional y estatal que emprenda éste.
 
 T R A N S I T O R I O S
 
@@ -3424,3 +3480,17 @@ P.O. 2 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28445/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 65 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28496/LXII/21 QUE CREA LA LEY DE ASOCIACIONES INTERMUNICIPALES DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Dentro de los noventa días posteriores a la entrada en vigor del presente decreto, el Poder Ejecutivo deberá, en el ámbito de sus competencias, adecuar o expedir los reglamentos o acuerdos correspondientes de conformidad con los principios que establece este ordenamiento.
+
+TERCERO. En los estatutos orgánicos de las asociaciones intermunicipales se deberá establecer la conformación y facultades de las coordinaciones y consejos de participación ciudadana.
+
+CUARTO. Las Asociaciones Intermunicipales, denominadas genéricamente como Juntas Intermunicipales o Asociaciones Intermunicipales, así como los Organismos Públicos Descentralizados que a la fecha de publicación de la presente Ley ya estuvieran constituidos tendrán un plazo de ciento cincuenta días para hacerlo del conocimiento de la Secretaría General de Gobierno y quedar incluidas en el Registro correspondiente.
+
+QUINTO. Dentro de los ciento ochenta días posteriores a la entrada en vigor del presente decreto, el titular del Poder Ejecutivo deberá convocar a la conformación de la Convención Estatal de Asociaciones Intermunicipales.
