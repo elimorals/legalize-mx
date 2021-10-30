@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-agencia-de-energia-del-estado-de-jalisco-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-26"
-last_updated: "2020-04-02"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección LIII del Periódico Oficial del Estado de Jalisco, el sábado 26 de noviembre de 2016.
 
@@ -286,6 +286,28 @@ Asimismo, los vocales tendrán derecho a voz y voto, a excepción del Secretario
 ###### Artículo 7.
 
 La Junta de Gobierno se reunirán en sesiones ordinarias por lo menos dos veces al año. Se podrá convocar a reuniones extraordinarias en razón de que exista algún asunto que así lo amerite, a juicio del Presidente de la Agencia, del Secretario Ejecutivo o cuando lo soliciten por escrito una tercera parte del total de sus integrantes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 8.
 
@@ -720,3 +742,9 @@ P.O. 2 DE ABRIL DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Se autoriza al titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública y de la Secretaría de Administración para realizar las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28480/LXII/21 QUE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 7 DE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
