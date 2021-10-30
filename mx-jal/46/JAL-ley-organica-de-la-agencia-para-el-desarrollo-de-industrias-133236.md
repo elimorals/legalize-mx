@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-agencia-para-el-desarrollo-de-industrias-133
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-02"
-last_updated: "2019-02-02"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA AGENCIA PARA EL DESARROLLO DE INDUSTRIAS CREATIVAS Y DIGITALES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 2 de febrero de 2019.
 
@@ -216,6 +216,28 @@ Todos los miembros de la Junta de Gobierno participarán con voz y voto, a excep
 Los cargos de los miembros de la Junta de Gobierno son honoríficos y no recibirán remuneración alguna por el desempeño de sus actividades.
 
 La Junta de Gobierno deberá sesionar por lo menos una vez al mes, requiere de la asistencia de más de la mitad de sus integrantes para sesionar válidamente y los acuerdos se tomarán por mayoría simple de votos; en caso de empate, el Presidente tendrá el voto de calidad.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 9.
 
@@ -430,3 +452,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28477/LXII/21 QUE ADICIONA UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 8 DE LA LEY ORGÁNICA PARA EL DESARROLLO DE INDUSTRIAS CREATIVAS Y DIGITALES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
