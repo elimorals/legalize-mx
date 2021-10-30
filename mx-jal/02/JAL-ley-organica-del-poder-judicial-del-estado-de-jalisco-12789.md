@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2021-07-29"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -357,9 +357,17 @@ III. Dirección de Comunicación Social y Difusión;
 
 IV. Departamento de Oficialía de Partes;
 
-V. Departamento de Archivo y Estadística; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-VI. Departamento de Auxiliares de la Administración de Justicia.
+V. Departamento de Archivo y Estadística;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VI. Departamento de Auxiliares de la Administración de Justicia; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VII. Unidad Concentradora de Notificaciones.
 
 Para su organización y funcionamiento, las dependencias a que se refiere el presente artículo, se sujetarán a lo que establezca el reglamento interno de cada tribunal.
 
@@ -713,9 +721,17 @@ III. Recibir, autorizar con su firma y, en su caso, remitir o turnar a la autori
 
 IV. Dar trámite a la correspondencia que envíe o reciba el Supremo Tribunal de Justicia del Estado;
 
-V. Elaborar el manual operativo de la Secretaria General del Tribunal a efecto de que se someta a consideración del Presidente para su aprobación, modificación o rechazo; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-VI. Las que el Pleno o la Presidencia le confieran y las demás que señale el reglamento.
+V. Elaborar el manual operativo de la Secretaria General del Tribunal a efecto de que se someta a consideración del Presidente para su aprobación, modificación o rechazo;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VI. Operar el Sistema de Registro Único de Cédulas Profesionales, así como llevar el registro de las mismas de forma digital y a través del sitio web oficial que habiliten para tal efecto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VII. Las que el Pleno o la Presidencia le confieran y las demás que señale el reglamento.
 
 ###### Artículo 31.
 
@@ -950,6 +966,10 @@ IV. Las demás que señale la ley y el reglamento.
 ###### Artículo 46.
 
 Los notificadores estarán obligados a practicar las notificaciones y citaciones con la debida oportunidad y con las formalidades prescritas por el procedimiento respectivo, sin dar preferencia a ninguna de las partes, devolviendo inmediatamente los expedientes al Secretario de Acuerdos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+Las notificaciones podrán realizarse a través de correo electrónico, medios electrónicos o por los medios que los avances tecnológicos permitan su control y registro. Se estará a lo dispuesto a los acuerdos que para tal efecto emita el Pleno del Consejo de la Judicatura y del Supremo Tribunal de Justicia del Estado de Jalisco, respectivamente.
 
 ###### Artículo 47.
 
@@ -1547,9 +1567,9 @@ XII. Custodiar el sello del juzgado;
 
 XIII. Organizar el archivo del juzgado;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-XIV. Llevar un registro diario de oficios y correspondencia diaria; de exhortos; de amparos; de entrega y recibo de expedientes al Archivo Judicial; de turno para sentencias; de registro de cédulas profesionales; así como de registro de valores; y
+XIV. Llevar un registro diario de oficios y correspondencia diaria; de exhortos; de amparos; de entrega y recibo de expedientes al Archivo Judicial; de turno para sentencias; así como de registro de valores; y
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1598,6 +1618,10 @@ En los juzgados especializados y mixtos fuera del Primer Distrito Judicial en lo
 ###### Artículo 115.
 
 Los notificadores deberán hacer las notificaciones y citaciones con la debida oportunidad, y con las formalidades prescritas por el procedimiento respectivo, sin dar preferencia a ninguna de las partes, devolviendo inmediatamente los expedientes al Secretario.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+Las notificaciones podrán realizarse a través de correo electrónico, medios electrónicos o por los medios que los avances tecnológicos permitan su control y registro. Se estará a lo dispuesto a los acuerdos que para tal efecto emita el Pleno del Consejo de la Judicatura y del Supremo Tribunal de Justicia del Estado de Jalisco, respectivamente.
 
 ### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
 
@@ -2175,13 +2199,17 @@ IX. Elaborar programas de trabajo administrativo, de conformidad con los acuerdo
 
 X. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y demás dependencias integrantes del Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-XI. Por acuerdo del Pleno, certificar los originales y copias de los documentos que obren en el archivo del Consejo de la Judicatura; y
+XI. Por acuerdo del Pleno, certificar los originales y copias de los documentos que obren en el archivo del Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-XII. Las demás que le sean conferidas por la presente ley, el reglamento interno del Consejo de la Judicatura y los acuerdos que el Pleno del mismo emita.
+XII. Operar el Sistema de Registro Único de Cédulas Profesionales, así como llevar el registro de las mismas de forma digital y a través del sitio web oficial que habiliten para tal efecto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE OCTUBRE DE 2021)</small>
+
+XIII. Las demás que le sean conferidas por la presente ley, el reglamento interno del Consejo de la Judicatura y los acuerdos que el Pleno del mismo emita.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
@@ -3301,8 +3329,6 @@ III. No haber sido sancionado por falta grave con motivo de un procedimiento de 
 
 La indemnización prevista en este capítulo será con cargo al presupuesto de egresos del Consejo de la Judicatura.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
-
 ###### Artículo 249.
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
@@ -3318,6 +3344,8 @@ La indemnización prevista en este capítulo será con cargo al presupuesto de e
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
 
 ### CAPÍTULO I. DEL BOLETÍN JUDICIAL
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 251.
 
@@ -3401,37 +3429,127 @@ Para los efectos del extracto de la publicación, se entiende que será un resum
 
 Están obligados a hacer públicos todos los actos judiciales en el Boletín Judicial los Juzgados de Primera Instancia, Especializados y Auxiliares, las Salas y el Pleno del Supremo Tribunal de Justicia y el Consejo de la Judicatura. Con excepción de los datos de carácter reservado conforme a lo dispuesto por (sic) ley de la materia.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA UNIDAD CONCENTRADORA DE NOTIFICACIONES
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 259.
 
-A petición del interesado, los juicios se promoverán, substanciarán y resolverán en línea, a través del Sistema Informático del Poder Judicial que deberá establecer los términos dispuestos en el presente título y las demás disposiciones que al efecto emita el Supremo Tribunal y el Consejo de la Judicatura, ambos del Estado de Jalisco; así como aquéllas aplicables establecidas en la presente Ley.
+El Supremo Tribunal de Justicia contará con una Unidad Concentradora de Notificaciones respectivamente, que tendrá a su cargo realizar las notificaciones y diligencias físicas que deban efectuarse fuera de los órganos jurisdiccionales y dentro de la competencia territorial que ejerzan estos.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+El Consejo de la Judicatura del Estado de Jalisco contará con dos sedes para la Unidad Concentradora de notificaciones, una en los Juzgados de Control, Juicio Oral y Ejecución Penal del Sistema Acusatorio y Oral del Primer Distrito Judicial, donde también serán integrados notificadores de los Juzgados Penales Tradicionales, quienes practicarán todas las notificaciones y diligencias físicas que deban efectuarse fuera de los órganos jurisdiccionales y dentro de la competencia territorial que ejerzan estos, tanto en materia tradicional penal como en el Acusatorio y Oral.
+
+La segunda sede de la Unidad Concentradora de Notificaciones se encontrará en Ciudad Judicial, que tendrá a su cargo realizar las notificaciones y diligencias físicas que deban efectuarse fuera de los órganos jurisdiccionales y dentro de la competencia territorial que ejerzan los Juzgados que se encuentren en Ciudad Judicial.
+
+En los Juzgados que se encuentren fuera del primer distrito o partido judicial, serán designadas las sedes por el Consejo de la Judicatura atendiendo la carga laboral, número de juzgados y ubicación geográfica de los mismos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 260.
 
-En el Sistema Informático del Poder Judicial, se integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas, anexos y documentos que presenten las partes, así como los oficios, acuerdos y resoluciones tanto interlocutorias como definitivas, así como cualquier otra actuación que derive de la substaciación del juicio, garantizando su seguridad, inalterabilidad, autenticidad, integridad, neutralidad tecnológica, conservación, confidencialidad y durabilidad, conforme a los lineamientos expedidos por el Supremo Tribunal y el Consejo de la Judicatura, ambos de la entidad y en cumplimiento a la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.
+Cada juzgado conservará únicamente un servidor público que desarrollará las funciones de notificación, ya sean electrónicas, por estrado, Boletín Judicial o según determine la Ley de la materia sobre la cual ejerzan competencia, y desahogará las diligencias urgentes que el Juez le encomiende.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 261.
 
-Para hacer uso del juicio en línea, se deberán obtener la clave de acceso y contraseña, mismas que se proporcionarán a través del Sistema Informático del Poder Judicial, previa obtención del registro y autorización correspondientes.
+Los secretarios de acuerdos, jefes de causa o notificadores adscritos a los Juzgados y Salas, deberán remitir los expedientes, carpetas administrativas o instructivos con las constancias necesarias a la Unidad Concentradora de Notificaciones para su diligenciación con la oportunidad debida.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 262.
 
-La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+Los notificadores que formen parte de la Unidad Concentradora de Notificaciones deberán ser cambiados periódicamente de área o zona geográfica para llevar a cabo las diligencias, por lo que se deberá establecer una agenda electrónica de notificaciones y diligencias judiciales.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 263.
+
+La organización y funcionamiento administrativo de las Unidades Concentradoras de Notificaciones será de conformidad con las disposiciones que emita para tal efecto el Supremo Tribunal de Justicia y el Consejo de la Judicatura.
+
+La Unidad Concentradora de Notificaciones estarán a cargo de un titular denominado Coordinador de Notificaciones, el cual deberá ser nombrado por el Pleno del Supremo Tribunal de Justicia y del Consejo de la Judicatura respectivamente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+### CAPÍTULO III. DEL SISTEMA ELECTRÓNICO DE REGISTRO ÚNICO DE CÉDULAS PROFESIONALES
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 264.
+
+El Sistema Electrónico de Registro Único de Cédulas Profesionales es el instrumento a través del cual se deberá realizar una base de datos del registro de las cédulas profesionales. Será de consulta general por todos los juzgados y salas del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 265.
+
+El Poder Judicial deberá implementar un Sistema Computarizado para llevar a cabo el registro de las cédulas profesionales.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 266.
+
+El Sistema de Registro Único de Cédulas Profesionales será digital y la solicitud deberá contener para su debido registro por lo menos, lo siguiente:
+
+I. Nombre completo del abogado o licenciado en derecho;
+
+II. Título de abogado o licenciado en derecho;
+
+III. Cédula Profesional Estatal o Federal, expedida por la autoridad competente; e
+
+IV. Identificación Oficial.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 267.
+
+La solicitud del registro podrá realizarse de forma presencial ante la Secretaría General de acuerdos del Supremo Tribunal de Justicia del Estado o del Consejo de la Judicatura, así como través del sitio web oficial del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 268.
+
+Una vez llenada la solicitud correspondiente, la autoridad deberá expedir un acuse de recibo al solicitante.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 269.
+
+El registro de la cédula profesional será válido en todos los juzgados y salas del Poder Judicial.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL JUICIO EN LÍNEA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 259], P.O. 30 DE OCTUBRE DE 2021)
+
+###### Artículo 270.
+
+A petición del interesado, los juicios se promoverán, substanciarán y resolverán en línea, a través del Sistema Informático del Poder Judicial que deberá establecer los términos dispuestos en el presente título y las demás disposiciones que al efecto emita el Supremo Tribunal y el Consejo de la Judicatura, ambos del Estado de Jalisco; así como aquéllas aplicables establecidas en la presente Ley.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 260], P.O. 30 DE OCTUBRE DE 2021)
+
+###### Artículo 271.
+
+En el Sistema Informático del Poder Judicial, se integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas, anexos y documentos que presenten las partes, así como los oficios, acuerdos y resoluciones tanto interlocutorias como definitivas, así como cualquier otra actuación que derive de la substanciación del juicio, garantizando su seguridad, inalterabilidad, autenticidad, integridad, neutralidad tecnológica, conservación, confidencialidad y durabilidad, conforme a los lineamientos expedidos por el Supremo Tribunal y el Consejo de la Judicatura, ambos de la entidad y en cumplimento a la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 261], P.O. 30 DE OCTUBRE DE 2021)
+
+###### Artículo 272.
+
+Para hacer uso del juicio en línea, se deberán obtener la clave de acceso y contraseña, mismas que se proporcionarán a través del Sistema Informático del Poder Judicial, previa obtención del registro y autorización correspondientes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 262], P.O. 30 DE OCTUBRE DE 2021)
+
+###### Artículo 273.
+
+La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
 
 ## TRANSITORIOS
 
@@ -3912,3 +4030,21 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28398/LXII/21 QUE REFORMA EL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 24487/LXII/21 QUE MEDIANTE EL CUAL SE MODIFICA EL ARTÍCULO 112 Y SE ADICIONA UNA FRACCIÓN A LOS ARTÍCULOS 16 Y 30, UN PÁRRAFO A LOS ARTÍCULOS 46 Y 115, UNA FRACCIÓN AL ARTÍCULO 158 Y UN CAPÍTULO SEGUNDO DENOMINADO “DE LA UNIDAD CONCENTRADORA DE NOTIFICACIONES” Y UN CAPÍTULO TERCERO DENOMINADO “SISTEMA ÚNICO DE REGISTRO DE CÉDULAS PROFESIONALES” AMBOS DENTRO DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DISPOSICIONES FINALES”, Y SE RECORREN LOS SUBSECUENTES DEL TÍTULO DÉCIMO SEGUNDO DENOMINADO “DEL JUICIO EN LÍNEA”, TODOS DE LA LE LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se autoriza al Titular del Poder Ejecutivo, por conducto de la Secretaria de la Hacienda Pública y en su caso de la Secretaria de Administración, así como al Presidente del Supremo Tribunal de Justicia, a efectuar las adecuaciones presupuestales y programáticas necesarias a fin de dar cumplimiento al presente decreto.
+
+Lo anterior con sustento en lo previsto por el artículo quinto transitorio del decreto que aprueba el presupuesto de egresos del Estado de Jalisco para el periodo comprendido del 1° de enero al 31 de diciembre de 2021.
+
+TERCERO. El Poder Judicial dentro de un plazo de 90 días posteriores a la entrada en vigor el presente decreto deberá de hacer las modificaciones al Reglamento de la Ley Orgánica del Poder Judicial del Estado de Jalisco y a su reglamento interno.
+
+CUARTO. El Poder Judicial dentro de un plazo que no exceda de 180 días posteriores a la entrada en vigor del presente decreto deberá de implementar el Registro Único de Cédulas Profesionales y las Unidades Concentradoras de Notificaciones.
+
+QUINTO. A la Unidad Concentradora de notificaciones se integrarán los notificadores actualmente adscritos a los juzgados, lo que acontecerá de igual manera respecto a los notificadores adscritos a las Salas del Supremo Tribunal de Justicia del Estado.
+
+SEXTO. La entrada en vigor del presente decreto no menoscabará o afectará la estabilidad laboral y demás condiciones de trabajo de las y los servidores públicos del Poder Judicial, por lo que se respetarán sus derechos laborales adquiridos, de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de una y otra emanen.
