@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2021-09-09"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -2449,9 +2449,13 @@ Adicionalmente, existirán los planes sectoriales metropolitanos que establecer�
 
 Las bases generales del procedimiento para la elaboración y aprobación de los programas y planes metropolitanos será el siguiente:
 
-I. El Instituto de Planeación y Gestión del Desarrollo que corresponda, procederá a elaborar los proyectos de Programas y Planes. Durante este proceso, el Instituto mantendrá una comunicación permanente con los municipios involucrados para garantizar que sus opiniones sean valoradas adecuadamente en el proceso de formulación, a través de la Mesas de Gestión Metropolitana;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-II. Una vez elaborado el proyecto, éste será entregado por el Instituto a la Junta de Coordinación Metropolitana para que se apruebe iniciar la etapa de consulta pública;
+I. El Instituto de Planeación y Gestión del Desarrollo que corresponda, procederá a elaborar los proyectos de Programas y Planes. Durante este proceso, el Instituto mantendrá una comunicación permanente con los municipios involucrados para garantizar que sus opiniones sean valoradas adecuadamente en el proceso de formulación, a través de las Mesas de Gestión Metropolitana que corresponda (sic);
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+II. Una vez elaborado el proyecto, éste será entregado por el Instituto a la Junta de Coordinación Metropolitana para que se apruebe iniciar la etapa de consulta pública, salvo cuando se trate del Atlas Metropolitano de Riesgos, que por su naturaleza y objeto no deberá someterse a consulta pública;
 
 III. El Consejo Consultivo de Desarrollo Metropolitano correspondiente, emitirá la convocatoria de la consulta pública con apoyo en las bases y metodología que para tal efecto defina el Instituto de Planeación y Gestión del Desarrollo correspondiente; señalando en la convocatoria un término no menor de cuarenta y cinco días naturales y no mayor de tres meses para recibir por escrito los comentarios, críticas y proposiciones concretas que consideren oportuno formular los miembros de la comunidad;
 
@@ -6552,3 +6556,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 24488/LXII/21 QUE MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 106 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
