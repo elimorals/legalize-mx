@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2021-10-09"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -865,11 +865,13 @@ Asimismo, el Congreso fiscalizará las acciones de los referidos entes públicos
 
 La revisión y fiscalización de la Cuenta Pública la realizará el Congreso del Estado con el auxilio del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, conforme lo establezca la ley respectiva. Si del examen que éste realice, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, y en general, existan irregularidades en el manejo, custodia y aplicación de los fondos y recursos públicos, se determinarán las responsabilidades y promoverán las sanciones que correspondan de acuerdo con esta Constitución y la ley. En el caso de la revisión sobre el cumplimiento de los objetivos contenidos en los planes y programas, dicho Órgano podrá emitir las recomendaciones que considere necesarias, en los términos de la ley.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-La Cuenta Pública del año anterior de los poderes Legislativo y Judicial, los órganos autónomos previstos en esta Constitución, los municipios y los entes públicos paraestatal o paramunicipales que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, deberá ser enviada al Congreso del Estado, debidamente aprobada por sus respectivos órganos de gobierno, a más tardar el último día de febrero del año siguiente al que corresponda la Cuenta Pública en los términos de la ley de la materia. El Poder Ejecutivo presentará la Cuenta Pública a que se refiere este párrafo, a más tardar el 30 de abril del año siguiente al que corresponda la Cuenta Pública. En este último caso, sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio del Congreso.
+La Cuenta Pública del año anterior de los poderes Ejecutivo, Legislativo y Judicial, los órganos autónomos previstos en esta Constitución, los municipios y los entes públicos paraestatal o paramunicipales que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, deberá ser enviada al Congreso del Estado, debidamente aprobada por sus respectivos órganos de gobierno, a más tardar el último día de abril del año siguiente al que corresponda la Cuenta Pública en los términos de la ley de la materia. La persona titular del Poder Ejecutivo del Estado podrá solicitar al Congreso del Estado, siempre que medie causa suficientemente justificada, la ampliación del plazo antes referido.
 
-El Congreso del Estado concluirá la revisión de las cuentas públicas a más tardar el 30 de noviembre del año de su presentación, debiendo emitir al efecto el decreto correspondiente, con base en el Informe del Resultado de la Cuenta Pública que le remita el Órgano Superior de Auditoría y Fiscalización Gubernamental, sin menoscabo de que continúe su curso legal el trámite de las observaciones, recomendaciones y acciones promovidas.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+El Congreso del Estado concluirá la revisión de las cuentas públicas a más tardar el último día del mes de abril del año siguiente al de la presentación de Cuenta Pública, debiendo emitir al efecto el Decreto correspondiente, con base en el Informe del Resultado de la Cuenta Pública que le remita el Órgano Superior de Auditoría y Fiscalización Gubernamental, sin menoscabo de que continúe su curso legal el trámite de las observaciones, recomendaciones y acciones promovidas.
 
 El Congreso evaluará el desempeño del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
@@ -2387,7 +2389,9 @@ Artículo 108
 
 Los recursos y fondos públicos que administren, custodien o ejerzan los poderes del Estado, los municipios, los órganos autónomos previstos por esta Constitución, los organismos descentralizados contemplados en las leyes, empresas de participación pública, fideicomisos públicos del Estado y municipios, así como a cargo de cualquier persona física o moral, pública o privada, se manejarán con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que están destinados.
 
-El ejercicio de dichos recursos será objeto de evaluación, control y fiscalización por parte del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado previsto por esta Constitución, con el propósito de que los recursos que se asignen en los respectivos presupuestos, se administren y ejerzan en los términos del párrafo anterior.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+El ejercicio de dichos recursos será objeto de revisión y fiscalización por parte del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado previsto por esta Constitución, con el propósito de que los recursos que se asignen en los respectivos presupuestos, se administren y ejerzan en los términos del párrafo anterior.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -2455,13 +2459,17 @@ Las observaciones y recomendaciones que, respectivamente, emita dicho Órgano, s
 
 III. Evaluar el manejo y ejercicio de los recursos económicos de que dispongan el Estado y los municipios de conformidad con las bases dispuestas en el artículo 134 de la Constitución Federal y en los términos que dispongan las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2021)</small>
 
-IV. Presentar al Congreso del Estado el Informe del resultado de la revisión de la Cuenta Pública a que se refiere el párrafo quinto del artículo 36 de esta Constitución, a más tardar el treinta de septiembre del año de la presentación de la Cuenta Pública en los términos de la ley de la materia, el cual tendrá carácter público;
+IV. Presentar al Congreso del Estado el Informe del resultado de la revisión de la Cuenta Pública a que se refiere el párrafo quinto del artículo 36 de esta Constitución, a más tardar el último día del mes de febrero del año siguiente al de la presentación de Cuenta Pública, en los términos de la ley de la materia, el cual tendrá carácter público;
 
 V. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales o municipales, y a los particulares; y
 
 VI. Rendir un informe anual pormenorizado al Congreso del Estado de las actividades realizadas en ejercicio de sus funciones de control, auditoría y fiscalización, en los términos que determine la ley de la materia.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2021)</small>
+
+VII. Solicitar al Congreso del Estado la suspensión de la revisión y fiscalización de las cuentas públicas y/o cualquier otro procedimiento de revisión y fiscalización que tenga a su cargo o que sea parte de sus atribuciones, por causas de fuerza mayor o imposibilidad material, en las formas que establezca la ley de la materia. El Congreso del Estado dispondrá de cinco días hábiles para pronunciarse sobre la suspensión.
 
 Sin perjuicio de lo previsto en la fracción II, en las situaciones que determine la ley, derivado de denuncias o indicios de irregularidades, el Órgano Superior de Auditoría y Fiscalización Gubernamental, previa autorización de su titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los términos y plazos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. El Órgano Superior de Auditoría y Fiscalización Gubernamental rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
@@ -3852,6 +3860,16 @@ P.O. 9 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Gobernador del Estado preverá de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia. En tanto se transita hacia la universalidad de la educación inicial, el Estado dará prioridad a la prestación de servicios de educación inicial, a niñas y niños indígenas o en condiciones de vulnerabilidad y en riesgo de exclusión, considerando las condiciones socioeconómicas de sus madres y padres de familia o tutores.
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 8.- POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 36, CUARTO Y QUINTO PÁRRAFOS, 108, SEGUNDO PÁRRAFO, Y 116, FRACCIÓN IV; ASÍ COMO, ADICIONAR LA FRACCIÓN VII AL ARTÍCULO 116, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Los plazos y disposiciones previstas en el presente Decreto, entrarán en vigor para las cuentas públicas de los años 2021 y siguientes.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, en términos de los transitorios anteriores, se derogan todas las disposiciones legales que contravengan o se opongan a lo dispuesto por el presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
