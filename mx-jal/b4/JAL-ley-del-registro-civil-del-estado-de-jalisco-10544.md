@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2021-07-29"
+last_updated: "2021-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -141,11 +141,11 @@ III. Promover acciones coordinadas de protección del patrimonio documental y de
 
 IV. Promover la digitalización de la información generada con motivo del ejercicio de sus funciones y atribuciones.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 8.
 
-Para ser Director General del Registro Civil se requiere tener la nacionalidad mexicana; poseer título de abogado o licenciado en derecho legalmente expedido e inscrito en la Dirección de Profesiones del Estado; una práctica profesional de cinco años cuando menos y no ser menor de treinta años de edad, ni mayor de sesenta y cinco, el día de su designación.
+Para ser Director General del Registro Civil se requiere tener la nacionalidad mexicana; poseer título de abogado o licenciado en derecho legalmente expedido e inscrito en la Dirección de Profesiones del Estado; y una práctica profesional de cinco años cuando menos.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
@@ -1812,5 +1812,11 @@ P.O. 3 DE OCTUBRE DE 2020.
 P.O. 29 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28419/LXII/21 QUE ADICIONA EL ARTÍCULO 47 BIS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 24486/LXII/21 QUE (SIC) MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8° DE LA LEY ORGÁNICA DE REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
