@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-para-el-correcto-funcionamiento-y-uso-de-150
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-07-22"
-last_updated: "2021-07-22"
+last_updated: "2021-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150411&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-07-09"
 ---
 # REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLIMPICA DE REMO Y CANOTAJE "VIRGILIO URIBE"
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL CUAL SE DAN A CONOCER LOS ENLACES DIGITALES, QUE CONTIENEN LOS REGLAMENTOS PARA EL USO Y FUNCIONAMIENTO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE” Y EL CENTRO DEPORTIVO “EL VIVERO”, PUBLICADO EN LA G.O. DE 1 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE "VIRGILIO URIBE"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 2021 (ABROGADO).
 
 Reglamento publicado en el No. 645 de la Gaceta Oficial de la Ciudad de México, el jueves 22 de julio de 2021.
 
@@ -317,3 +319,15 @@ En caso de incumplimiento de cualquiera de los puntos, el usuario se hará acree
 C. Roberto Victoria Arellanes
 
 Director de Infraestructura Deportiva
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DAN A CONOCER LOS ENLACES DIGITALES, QUE CONTIENEN LOS REGLAMENTOS PARA EL USO Y FUNCIONAMIENTO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE” Y EL CENTRO DEPORTIVO “EL VIVERO”.]
+
+PRIMERO.- Publíquese el presente aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente aviso entrara en vigor al día siguiente de su publicación.
+
+TERCERO.- Se abroga el Reglamento Interno para el correcto funcionamiento y uso de las instalaciones de la Pista Olímpica de Remo y Canotaje “Virgilio Uribe”, contenido en el enlace digital que fue publicado el día 22 de julio de 2021, en el número 645, de la Gaceta Oficial de la Ciudad de México.
