@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2021-06-07"
+last_updated: "2021-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -161,21 +161,25 @@ XXI. Sistema Estatal: Al Sistema Estatal de Prevención, Atención, Sanción y E
 
 XXII. Sistema Nacional: Al Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
-XXIII. Tipos de Violencia: Las formas en que pueden presentarse cualquiera de las modalidades de la violencia de género;
+XXIII. Tecnologías de la Información y la Comunicación: Serán aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
-XXIV. Tolerancia de la Violencia: La acción u omisión permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
+XXIV. Tipos de Violencia: Las formas en que pueden presentarse cualquiera de las modalidades de la violencia de género;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIV], P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
-XXV. Violencia de Género: Toda conducta, acción u omisión, en contra de la mujer, que de manera directa o indirecta, tanto en el ámbito público como en el privado, basada en una relación desigual de poder, afecte su vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial, como así también su seguridad personal, y
+XXV. Tolerancia de la Violencia: La acción u omisión permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXV], P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
-XXVI. Victimización: El impacto psicoemocional de cada tipo y modalidad de la violencia hacia las mujeres.
+XXVI. Violencia de Género: Toda conducta, acción u omisión, en contra de la mujer, que de manera directa o indirecta, tanto en el ámbito público como en el privado, basada en una relación desigual de poder, afecte su vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial, como así también su seguridad personal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVI, P.O. 1 DE NOVIEMBRE DE 2021)</small>
+
+XXVII. Victimización: El impacto psicoemocional de cada tipo y modalidad de la violencia hacia las mujeres.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -435,9 +439,35 @@ Se entenderá por medida razonable de seguridad, la que se toma, cuando se tenga
 
 VI. El adiestramiento para el debido manejo de evidencias de violencia familiar, tanto para los servidores públicos como para quien vive cualquiera de los tipos de victimización señalados.
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO VI. DE LOS TIPOS DE VIOLENCIA
+### CAPÍTULO IV BIS. DE LA VIOLENCIA DIGITAL
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+Violencia digital es toda acción dolosa realizada mediante el uso de Tecnologías de la Información y la Comunicación, por la que se, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia. Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Para efectos del presente Capítulo se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+La violencia digital será sancionada en la forma y términos que establezca el Código Penal para el Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 21 Ter.
+
+Tratándose de violencia digital, para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en este artículo, deberá celebrarse la audiencia en la que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas considerando la información disponible, así como la irreparabilidad del daño.
+
+### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
 ###### Artículo 22.
 
@@ -465,7 +495,7 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
-### CAPÍTULO I. DE LOS MODELOS Y EJES DE ACCIÓN
+### CAPÍTULO VI. DE LOS TIPOS DE VIOLENCIA
 
 ###### Artículo 23.
 
@@ -497,17 +527,21 @@ VII. Violencia Política.- En términos de lo dispuesto por la presente Ley, se 
 
 VIII. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente, su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, servicios de atención prenatal, así como a servicios obstétricos de emergencia;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
-IX. Violencia simbólica.- Es la expresión, emisión o difusión por cualquier medio, ya sea en el ámbito público o privado, de discursos, mensajes, patrones estereotipados, signos, valores icónicos e ideas que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad, y
+IX. Violencia simbólica.- Es la expresión, emisión o difusión por cualquier medio, ya sea en el ámbito público o privado, de discursos, mensajes, patrones estereotipados, signos, valores icónicos e ideas que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
-X. Violencia mediática.- Es la exposición a través de cualquier medio de comunicación de contenidos que de manera directa o indirecta promuevan estereotipos de género, así como la humillación, explotación, degradación, desigualdad, discriminación, o cualquier otra forma de violencia contra las mujeres.
+X. Violencia mediática.- Es la exposición a través de cualquier medio de comunicación de contenidos que de manera directa o indirecta promuevan estereotipos de género, así como la humillación, explotación, degradación, desigualdad, discriminación, o cualquier otra forma de violencia contra las mujeres, y
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2021)</small>
+
+XI. Violencia digital.- Es toda acción dolosa realizada mediante el uso de Tecnologías de la Información y la Comunicación, por la que se, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia. Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO II. DE LOS MODELOS DE ATENCIÓN
+### CAPÍTULO I. DE LOS MODELOS Y EJES DE ACCIÓN
 
 ###### Artículo 24.
 
@@ -555,7 +589,7 @@ V. Metas cualitativas y cuantitativas; y
 
 VI. Mecanismos de evaluación y medición.
 
-### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
+### CAPÍTULO II. DE LOS MODELOS DE ATENCIÓN
 
 ###### Artículo 28.
 
@@ -637,7 +671,7 @@ XII.- Los demás señalados en esta Ley y otras disposiciones legales.
 
 La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses, a menos de que persista su estado de riesgo o de indefensión, para tales efectos, el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
 
-### CAPÍTULO IV. DE LOS MODELOS DE SANCIÓN
+### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
 
 ###### Artículo 35.
 
@@ -659,7 +693,7 @@ V.- Realizar campañas de educación y capacitación orientadas a la comunidad p
 
 La identificación de los factores protectores por cada uno de los tipos de victimización, a partir del impacto que genera la violencia de género, se integrarán a los modelos preventivos de detección. Sin perjuicio de las estrategias de difusión y visibilización de la violencia de género y consecuencias individuales y colectivas.
 
-### CAPÍTULO V. DE LOS MODELOS DE ERRADICACIÓN
+### CAPÍTULO IV. DE LOS MODELOS DE SANCIÓN
 
 ###### Artículo 36.
 
@@ -673,9 +707,7 @@ III.- Procedimientos ágiles y expeditos que faciliten el acceso a la justicia; 
 
 IV.- El registro de los modelos ante la Secretaría Ejecutiva del Sistema.
 
-### CAPÍTULO I. DE LA ALERTA DE GÉNERO Y DEL AGRAVIO COMPARADO
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+### CAPÍTULO V. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### Artículo 37.
 
@@ -701,7 +733,9 @@ III.- La armonización normativa y judicial con perspectiva de género de éstas
 
 ## TÍTULO CUARTO. DE LOS MECANISMOS GARANTES
 
-### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO I. DE LA ALERTA DE GÉNERO Y DEL AGRAVIO COMPARADO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
@@ -755,7 +789,7 @@ El Agravio Comparado implica un trato desigual de las mujeres dentro del marco j
 
 La Mesa de Armonización Legislativa y Judicial a que hace alusión el artículo 40 de esta ley, será parte integral del Sistema Estatal, ante quién rendirá informe anual de las iniciativas de ley presentadas con motivo de la armonización normativa sistemática que se realice en materia de discriminación y violencia de género.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL
+### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
 
 ###### Artículo 43.
 
@@ -764,6 +798,10 @@ Las órdenes de protección son personalísimas e intransferibles, de urgente ap
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
 
 En materia de violencia política contra las mujeres en razón de género, el Tribunal Estatal Electoral de Nayarit y el Instituto Estatal Electoral de Nayarit, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2021)</small>
+
+En materia de violencia digital, se considerarán las medidas previstas en el artículo 21 Ter de la presente ley.
 
 ###### Artículo 44.
 
@@ -787,7 +825,7 @@ La intervención de la policía estatal y municipal en materia de violencia de g
 
 ## TÍTULO QUINTO. DEL SISTEMA ESTATAL, PROGRAMA ESTATAL Y PROTOCOLOS ESPECIALIZADOS EN MATERIA DE DISCRIMINACIÓN Y VIOLENCIA DE GÉNERO
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL
+### CAPÍTULO I. DEL SISTEMA ESTATAL
 
 ###### Artículo 48.
 
@@ -861,9 +899,7 @@ El Sistema Estatal será presidido por la Secretaría General de Gobierno, recay
 
 El Sistema Estatal tendrá las atribuciones que señale el Reglamento de la presente Ley.
 
-### CAPÍTULO III. DE LOS PROTOCOLOS ESPECIALIZADOS EN MATERIA DE DISCRIMINACIÓN Y VIOLENCIA DE GÉNERO
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+### CAPÍTULO II. DEL PROGRAMA ESTATAL
 
 ###### Artículo 52.
 
@@ -907,7 +943,9 @@ VIII.- La operación de las Dependencias, Entidades, Unidades de Administración
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO III. DE LOS PROTOCOLOS ESPECIALIZADOS EN MATERIA DE DISCRIMINACIÓN Y VIOLENCIA DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 53 Bis.
 
@@ -1001,7 +1039,7 @@ VI. Los demás que puedan favorecer la atención pronta, eficiente y eficaz a la
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO
 
@@ -1253,6 +1291,8 @@ V. Capacitar anualmente al personal a su cargo sobre la igualdad de oportunidade
 
 VI. Las demás previstas para el cumplimiento de esta Ley.
 
+### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
 ###### Artículo 62.
 
 Corresponde a los Municipios, las siguientes atribuciones:
@@ -1350,3 +1390,9 @@ P.O. 7 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES VII Y VIII Y ADICIONA LAS FRACCIONES IX Y X AL ARTÍCULO 23 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 1 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA DIGITAL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
