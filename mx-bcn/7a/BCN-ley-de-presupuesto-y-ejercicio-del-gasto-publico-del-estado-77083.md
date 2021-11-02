@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2021-05-07"
+last_updated: "2021-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -729,7 +729,9 @@ Para efectos de la resolución del Congreso del Estado se estará a lo dispuesto
 
 Tratándose de partidas de las consideradas de ampliación automática, deberá darse aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que las mismas se efectúen.
 
-Las solicitudes de modificaciones a las partidas presupuestales que se presenten para su autorización al Congreso del Estado o Ayuntamiento respectivo según corresponda, deberán ser presentadas antes del quince de octubre del ejercicio fiscal que se trate.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
+
+Las solicitudes de modificaciones a las partidas presupuestales que se presenten para su autorización al Congreso del Estado o Ayuntamiento respectivo según corresponda, deberán ser presentadas antes del quince de octubre del ejercicio fiscal que se trate. Tratándose del Poder Ejecutivo del Estado, cuando inicie su encargo constitucional, la administración entrante tendrá hasta el quince de noviembre del ejercicio de que se trate.
 
 ###### ARTÍCULO 51.
 
@@ -1466,3 +1468,11 @@ P.O. 7 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA CON PROYECTO DE DECRETO POR LA QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 28 POR EL QUE SE APRUEBA LA REFORMA AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 50 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
