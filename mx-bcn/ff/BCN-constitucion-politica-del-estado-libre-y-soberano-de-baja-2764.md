@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2021-09-17"
+last_updated: "2021-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -5435,9 +5435,9 @@ TERCERO.- La presente reforma, entrará en vigor al día siguiente de su publica
 
 CUARTO.- El Congreso del Estado, deberá expedir la Ley del Centro de Conciliación Laboral del Estado de Baja California; las reformas a la Ley Orgánica del Poder Judicial y las demás reformas que sean necesarias para la correcta implementación del Sistema de Justicia Laboral establecido por las reformas a la Constitución Política de los Estados Unidos Mexicanos, publicadas en el Diario Oficial de la Federación en fecha 24 de febrero de 2017 y las reformas a la Ley Federal del Trabajo publicadas en el Diario Oficial de la federación de fecha 1 de mayo del año 2019, dentro del término de los 240 días naturales siguientes a la entrada en vigor del presente Decreto.
 
-QUINTO.- El Centro de Conciliación Laboral entrará en funciones gradualmente por territorio, en las mismas fechas en que lo hagan los tribunales laborales; para tal efecto, corresponderá al Congreso del Estado, emitir las declaratorias correspondientes de entrada en funciones de dichos órganos, a propuesta de la Comisión Interinstitucional que se señala en el artículo octavo transitorio de este Decreto.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
-En todos los casos, entre la Declaratoria a que se hace referencia en el párrafo anterior y la entrada en funciones de los citados órganos, deberán mediar sesenta días naturales.
+QUINTO.- El Centro de Conciliación Laboral entrará en funciones gradualmente por territorio, en las mismas fechas en que lo hagan los tribunales laborales; para tal efecto, corresponderá al Congreso del Estado, emitir las declaratorias correspondientes de entrada en funciones de dichos órganos, a propuesta de la Comisión Interinstitucional.
 
 SEXTO.- Una vez que sea nombrado el titular del Centro de Conciliación Laboral del Estado de Baja California, corresponderá a este planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas actividades que sean necesarias para una correcta implementación del nuevo sistema de justicia laboral, así como coordinar las tareas entre las distintas instituciones involucradas con esa implementación.
 
@@ -5474,3 +5474,13 @@ PRIMERO. Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del 
 SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 30 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO QUINTO DEL DECRETO NÚMERO 167 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, EL 12 DE FEBRERO DE 2021”.]
+
+PRIMERO. Una vez aprobada la presente reforma, túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
+
+TERCERO. La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
