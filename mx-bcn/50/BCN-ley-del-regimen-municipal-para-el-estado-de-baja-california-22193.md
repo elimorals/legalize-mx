@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2021-02-19"
+last_updated: "2021-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -425,9 +425,11 @@ Los organismos descentralizados se crearán y funcionarán conforme al reglament
 
 Las empresas de participación municipal y fideicomisos se constituirán y funcionarán conforme al acto jurídico respectivo y de conformidad con las normas del derecho común aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 24.
 
-De la Municipalización de los Servicios Públicos.- Cuando la prestación de un servicio público de carácter municipal, por cualquier motivo se encuentre a cargo de un particular o de autoridad diversa a la municipal y su prestación sea irregular, deficiente o cause perjuicio a la comunidad, el ayuntamiento podrá municipalizarlo mediante acuerdo que para tal efecto adopte, de conformidad con el procedimiento que establezca en el reglamento de la materia.
+De la Asunción de Funciones y Servicios Públicos.- El Ayuntamiento mediante acuerdo de cabildo que adopte por mayoría calificada, podrá solicitar la municipalización de un servicio público cuando este sea prestado por particulares u autoridad diversa y el mismo sea irregular, deficiente o cause perjuicio a la comunidad, previo análisis técnico que acredite fehacientemente las capacidades financieras y operativas del Municipio para garantizar la prestación de dicho servicio de manera eficaz, eficiente y continua. Asimismo, se deberá contar cuando así se requiera, con la aprobación previa de acreedores en términos de las disposiciones legales aplicables o condiciones pactadas.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -1142,3 +1144,9 @@ P.O. 19 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 206 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 27 POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
