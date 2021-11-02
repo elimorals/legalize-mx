@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-10-21"
+last_updated: "2021-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -925,7 +925,7 @@ e) De Asuntos Patrimoniales y Municipales.
 
 DE LOS ASUNTOS QUE PASAN DE UNA LEGISLATURA A OTRA.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 53.
 
@@ -995,41 +995,29 @@ Para el desempeño de sus atribuciones, la Diputación Permanente aplicará en l
 
 ### CAPITULO SEPTIMO. DE LA ORGANIZACION TECNICA Y ADMINISTRATIVA
 
-#### SECCIÓN PRIMERA. DE LAS INICIATIVAS Y MINUTAS
+#### SECCIÓN PRIMERA. DE LA CADUCIDAD LEGISLATIVA
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
 ARTICULO 58 BIS.
 
-1. Las iniciativas cuyo plazo para ser dictaminadas y/o resueltas haya vencido y que no fueron procesadas durante la legislatura saliente, de conformidad con los artículos 89 y 184, quedarán bajo resguardo de la Unidad de Servicios Parlamentarios hasta el término del primer periodo Ordinario del Segundo año de ejercicio de la legislatura entrante.
+1. Los expedientes que tengan el carácter de iniciativa de Ley, de Decreto, de Punto de Acuerdo o de Acuerdo Económico y que no hayan sido dictaminados durante la Legislatura anterior a la que transcurre, serán dados de baja por caducidad del listado de asuntos pendientes, sin más trámite, por Acuerdo aprobado por la mayoría de los Diputados y Diputadas presentes en el Pleno Legislativo, ordenándose que las mismas sean remitidas al Archivo del Congreso del Estado Libre y Soberano de Tamaulipas.
 
-2. La Unidad de Servicios Parlamentarios al finalizar la legislatura saliente, publicará el listado respectivo en la Gaceta; así como, en un micrositio del Congreso del Estado.
+2. La relación de iniciativas que sean dadas de baja por caducidad, como lo dispone el párrafo anterior, serán publicadas en la Gaceta Parlamentaria del Congreso del Estado Libre y Soberano de Tamaulipas.
 
-3. La Diputada o Diputado electo para un periodo consecutivo que haya sido iniciante en la legislatura anterior; los Grupos Parlamentarios a través de su Coordinador o Coordinadora; o la Junta directiva de las comisiones ordinarias en ejercicio podrán solicitar a la Presidencia de la Mesa Directiva que se turne una o varias de las iniciativas que se encuentren en el listado antes referido. Estas iniciativas serán turnadas a las comisiones correspondientes y serán procesadas en términos de la presente ley.
+3. Quedan exceptuadas de la baja por caducidad: las minutas, denuncias de juicio político, así como las solicitudes de declaraciones de procedencia y cuentas públicas.
 
-4. Las iniciativas que no fuesen solicitadas para ser turnadas a la o las comisiones correspondientes durante el Primer Periodo Ordinario del Segundo Año de Ejercicio de la legislatura entrante, se tendrán por desechadas y se archivarán como asuntos total y definitivamente concluidos.
+ARTICULO 58 TER. (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2021)
 
-5. Las minutas cuyo plazo para ser dictaminadas y/o resueltas haya vencido, que no fueron procesadas durante la legislatura o que tengan una antigüedad mayor a dos legislaturas, se integrarán en un listado elaborado por la Mesa Directiva, que será hecho del conocimiento del Pleno y comunicado respecto a su desahogo en términos de la presente ley.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+#### SECCIÓN SEGUNDA. DE LAS MINUTAS
 
-ARTICULO 58 TER.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
-1. La Unidad de Servicios Parlamentarios al finalizar la legislatura, elaborará un listado con las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente, el cual será remitido a la Mesa Directiva de la legislatura entrante para su publicación en la Gaceta.
+ARTICULO 58 QUÁTER.
 
-2. Las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente, que sean recibidas por la legislatura entrante, serán turnadas a las comisiones correspondientes una vez que hayan sido instaladas, para efecto de que sean procesadas en los términos parlamentarios.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
-
-#### SECCIÓN SEGUNDA. DE LOS DICTÁMENES EN PODER DE LA MESA DIRECTIVA
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
-
-ARTICULO 58 QUATER.
-
-1. Los dictámenes de iniciativas, minutas y puntos de acuerdo que se encuentren en poder de la Mesa Directiva, serán devueltos a las Comisiones correspondientes en calidad de proyectos. Las Comisiones, deberán elaborar un acuerdo dentro del primer mes de sus trabajos a partir de su instalación, donde señalen, qué proyectos serán desechados y cuáles serán procesados para su nueva discusión.
-
-2. En caso de que un proyecto de dictamen corresponda a comisiones unidas, la Comisión que encabeza el turno será la encargada de realizar el acuerdo señalado en el párrafo anterior.
+Las Minutas que no hayan sido atendidas mediante el procedimiento legislativo correspondiente durante la Legislatura anterior a la que transcurre, se integrarán en un listado elaborado por la Mesa Directiva, mismo que será hecho del conocimiento del Pleno Legislativo para su resolución definitiva en ese mismo acto, debiéndose ordenar su publicación y comunicación en los términos de Ley correspondientes.
 
 ### CAPITULO PRIMERO. DE LOS DIPUTADOS Y EL COMPORTAMIENTO PARLAMENTARIO
 
@@ -1125,9 +1113,9 @@ h) De Apoyo Técnico, que comprende los de: registro y control de iniciativas y 
 
 i) De Actualización Legislativa, que comprende los de: edición, reproducción, sistematización y actualización de la Constitución Política del Estado, leyes, códigos y reglamentos estatales vigentes que se difunden en la página web oficial del Congreso, así como el registro y clasificación de la legislación abrogada;
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
-j) De Documentación, que comprende los de: recopilación, escaneo, reproducción y distribución, entre los Diputados, de los documentos inherentes al desarrollo de la sesión y su incorporación a la página web oficial del Congreso; así como proveer de documentación a los Auxiliares de Dictaminación; y
+j) De documentación, que comprende los de recopilación, escaneo reproducción y distribución, entre los diputados de los documentos inherentes al desarrollo de la sesión y su incorporación a la página web oficial del Congreso; proveer de documentación a los Auxiliares de Dictaminación: manejo y operación de la página web, el sistema interno para la publicación del contenido parlamentario, del equipo de audio y video, del circuito cerrado de televisión, así como el sistema electrónico de votaciones; y
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1181,9 +1169,9 @@ b) De Tesorería, que comprende los de: programación y presupuesto; control pre
 
 c) De Servicios Generales, que comprende los de: control del inventario de los bienes y su mantenimiento, así como los servicios que se consideren necesarios para el buen funcionamiento de los mismos;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
-d) De Informática, que comprende los de: servicios de tecnología de la información y comunicaciones, la planificación informática, el desarrollo de aplicaciones y mantenimiento de la página web del Congreso, la asesoría para la adquisición de bienes relacionados al departamento; la instalación y mantenimiento del equipo de audio y video, del circuito cerrado de televisión, de la configuración y mantenimiento de telefonía y redes, así como de diseño gráfico;
+d) De Informática, que comprende los de: servicios de tecnología de la información y comunicaciones, la planificación informática, el desarrollo de aplicaciones y de diseño gráfico, la asesoría para la adquisición de bienes relacionados al departamento; la instalación, mantenimiento y configuración de la página web del Congreso, del equipo de audio y video, del circuito cerrado de televisión, así como de telefonía y redes;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -3520,3 +3508,23 @@ P.O. 21 DE OCTUBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-6 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las iniciativas que concluyan su proceso Legislativo mediante caducidad legislativa, serán remitidas al Archivo del Congreso del Estado Libre y Soberano de Tamaulipas, para su resguardo.
+
+###### ARTÍCULO TERCERO.
+
+El listado de asuntos pendientes que fueren exceptuados del procedimiento de caducidad, se sujetará a las disposiciones, plazos y procedimientos constitucionales, legales y reglamentarios para emitir su Dictamen respectivo.
+
+###### ARTÍCULO CUARTO.
+
+La relación de iniciativas que se den por concluidas como lo dispone el articulo Segundo Transitorio, se publicarán en la Gaceta Parlamentaria del Congreso del Estado Libre y Soberano de Tamaulipas.
