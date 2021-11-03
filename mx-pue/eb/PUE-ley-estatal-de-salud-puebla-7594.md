@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2021-08-12"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -776,6 +776,10 @@ I. La atención de la mujer durante el embarazo, el parto y el puerperio.
 II. La atención del niño y la vigilancia de su crecimiento y desarrollo incluyendo la promoción de la vacunación oportuna, y nutrición adecuada y prevención de otras enfermedades que más le afecten.
 
 III. La promoción de la integración y del bienestar familiar.
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+IV.- La atención de la preeclampsia y la eclampsia, de forma preventiva, periódica, sistemática y clínica, mediante la aplicación de la prueba de control prenatal. En el caso de la detección de estas enfermedades, se deberá canalizar inmediatamente a la paciente a las instituciones de salud especializadas para su oportuna atención y tratamiento.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
@@ -3490,6 +3494,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 52, EL 57, LAS FRACCIONES III Y V DEL 60, LA FRACCIÓN IV DEL 71, EL 79, EL SEGUNDO PÁRRAFO DEL 80 Y ADICIONA LAS FRACCIONES V Y VI AL 71, Y UN TERCER PÁRRAFO AL 72, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 56 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
