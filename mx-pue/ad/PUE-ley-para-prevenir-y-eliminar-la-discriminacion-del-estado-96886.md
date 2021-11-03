@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2021-10-28"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -89,11 +89,9 @@ I Bis. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecua
 
 II. Comité: El Comité para Prevenir y Eliminar la Discriminación;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-III. Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas;
-
-También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
+III. Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos y las libertades de las personas, grupos y comunidades en situaciones de discriminación, la desigualdad sustantiva de oportunidades en las esferas social, cultural, educativa, institucional, política, laboral o cualquier otra índole, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional y que perpetúe las brechas de género en cualquier ámbito, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas; También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
 
 IV. Entes públicos: A los Poderes Públicos, las Dependencias y Entidades de la Administración Pública Estatal y Municipales, y a los organismos constitucionales o legalmente autónomos;
 
@@ -137,7 +135,9 @@ III. Prohibir la libre elección de empleo, o restringir las oportunidades de ac
 
 III Bis. Emitir convocatorias de vacantes laborales que atenten la dignidad humana o tengan por objeto menoscabar los derechos o libertades de las personas;
 
-IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales, así como toda acción u omisión que directa o indirectamente provoque o perpetúe las brechas de género salariales o de cualquier otro tipo;
 
 V. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional;
 
@@ -349,61 +349,69 @@ Con el fin de observar las disposiciones contenidas en la presente Ley, cada ent
 
 En el caso del Poder Ejecutivo Estatal, el Comité a que se refiere el artículo anterior estará integrado de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-I. Un Presidente Honorario, que será el Titular del Poder Ejecutivo del Estado de Puebla;
+I. Una Presidencia Honoraria, que ejercerá la persona titular del Poder Ejecutivo del Estado de Puebla;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-II. Un Presidente Ejecutivo, que será el Titular de la Secretaría General de Gobierno;
+II. Una Presidencia Ejecutiva, que ejercerá la persona titular de la Secretaría de Gobernación;
 
-III. Un Secretario Técnico, que será designado por los miembros del Comité, a propuesta del Presidente;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+III. Una Secretaría Técnica, designada por las personas miembros del Comité, a propuesta de la Presidencia Honoraria;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 IV. Nueve vocales que serán:
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-a) Titular de la Secretaría de Desarrollo Social.
+a) La persona titular de la Secretaría de Bienestar.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-b) Titular de la Secretaría de Educación Pública.
+b) La persona titular de la Secretaría de Educación.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-c) Titular de la Secretaría de Competitividad, Trabajo y Desarrollo Económico.
+c) La persona titular de la Secretaría de Trabajo.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-d) Titular de la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial.
+d) La persona titular de la Secretaría de Desarrollo Rural.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-e) Titular de la Secretaría de Salud.
+e) La persona titular de la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-f) Titular de la Fiscalía General del Estado.
+f) La persona titular de la Fiscalía General del Estado.
 
-g) La Directora General del Instituto Poblano de las Mujeres.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+g) La persona titular de la Secretaría de Igualdad Sustantiva.
 
-h) Titular del Sistema Estatal para el Desarrollo Integral de la Familia, e
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+h) La persona titular del Sistema Estatal para el Desarrollo Integral de la Familia; e
 
-i) Titular de la Coordinación General de Asuntos Internacionales y de Apoyo a Migrantes Poblanos.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+i) La persona titular de la Coordinación General de Asuntos Internacionales y de Apoyo a Migrantes Poblanos.
 
 V. Tres representantes de la sociedad civil, elegidos por el Congreso del Estado y para un periodo de hasta 3 años, de conformidad con las reglas siguientes:
 
 a) La Comisión de Derechos Humanos del Congreso del Estado emitirá convocatoria pública con el objeto de hacerse de propuestas ciudadanas para quienes fungirán como representantes de la sociedad civil.
 
-b) Vencido el plazo fijado por la convocatoria, la Comisión indicada en el inciso anterior, integrará una lista de al menos 9 ciudadanos candidatos a representantes de la sociedad civil.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-c) Agotado este procedimiento, el Congreso definirá a los representantes propietarios y a sus suplentes, por mayoría de los Diputados presentes en la sesión del pleno correspondiente. Las propuestas se votarán de forma individual y sucesiva.
+b) Vencido el plazo fijado por la convocatoria, la Comisión indicada en el inciso anterior, integrará una lista de al menos 9 ciudadanos y ciudadanas candidatas a representantes de la sociedad civil.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+c) Agotado este procedimiento, el Congreso definirá a las personas representantes propietarias y a sus suplentes, por mayoría de las Diputadas y Diputados presentes en la sesión del pleno correspondiente. Las propuestas se votarán de forma individual y sucesiva.
 
 El Comité podrá invitar a sus sesiones a aquellas instancias que estén involucradas en asuntos relacionados con la materia, así como a aquellas personas, organizaciones e instituciones, con actividades afines a su objeto, quienes tendrán derecho a voz pero no a voto.
 
@@ -542,6 +550,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 6 BIS Y ADICIONA LAS FRACCIONES XXXVII Y XXXVIII AL 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4, LA FRACCIÓN IV DEL 6 BIS, LAS FRACCIONES I, II Y III, LOS INCISOS A), B), C), D), E), F), G), H), E I) DE LA FRACCIÓN IV, LOS INCISOS B) Y C) DE LA FRACCIÓN V, DEL 18, TODOS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
