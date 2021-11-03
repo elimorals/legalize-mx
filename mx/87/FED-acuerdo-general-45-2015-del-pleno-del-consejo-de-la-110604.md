@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-45-2015-del-pleno-del-consejo-de-la-110604"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2021-03-26"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110604&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 45/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN CULIACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE NOVIEMBRE DE 2021.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
@@ -123,9 +123,11 @@ El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ej
 
 La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Sinaloa, con la totalidad de sus municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 25/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Carretera a Navolato 10321 Poniente, (km 9.5), Sindicatura de Aguaruto, código postal 80308, Culiacán, Sinaloa.
+El domicilio del Centro será el ubicado en Calle Circuito Interior No. 347 Sur, colonia Centro, Sindicatura de Aguaruto, código postal 80308, Culiacán, Sinaloa.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -209,11 +211,11 @@ Tratándose del Tribunal de Alzada del Centro, se habilita a los Tribunales Unit
 
 La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TRIGÉSIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 25/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-El personal del Centro junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito en el Centro.
+El personal del Centro junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 140 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos de la normatividad aplicable, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito en el Centro.
 
 El personal del Tribunal de Alzada del Centro disfrutará de los periodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
 
@@ -782,3 +784,15 @@ QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos n
 SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
+
+D.O.F. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 25/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES EN EL NUEVO DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN CULIACÁN; Y QUE REFORMA EL SIMILAR 45/2015 QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN CULIACÁN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, deberá colocar avisos en lugares visibles con relación al cambio de domicilio.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
