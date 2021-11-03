@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2021-06-09"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -39,7 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SO
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 56, 57 fracción I, 64, 67 y 84 párrafo segundo de la Constitución Política del Estado Libre y Soberano de Puebla; 134, 135, 136, 137 y 158 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 90, 93 fracción VII, y 120 fracciones II y VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente Minuta de:
 
@@ -471,9 +471,17 @@ XXXIX. Promover y ejecutar acciones para prevenir y mitigar el riesgo de los cen
 
 XL. Aplicar y promover las políticas y criterios técnicos de las legislaciones fiscales, que permitan contribuir al financiamiento del desarrollo urbano u ordenamiento territorial, desarrollo regional y desarrollo metropolitano en condiciones de equidad, así como la recuperación del incremento de valor de la propiedad inmobiliaria generado por la consolidación y el crecimiento urbano;
 
-XLI. Realizar, promover y concertar acciones e inversiones con los sectores social y privado, para el desarrollo regional, urbano y metropolitano, a efecto de lograr su conservación, mejoramiento y crecimiento, así como para la prestación y administración de los servicios públicos y la ejecución de obras de infraestructura y equipamiento urbano; atendiendo a los principios de la ley general, la presente ley y lo establecido en las leyes aplicables en la materia, y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-XLII. Las demás que le señale esta Ley, las disposiciones federales y estatales.
+XLI. Realizar, promover y concertar acciones e inversiones con los sectores social y privado, para el desarrollo regional, urbano y metropolitano, a efecto de lograr su conservación, mejoramiento y crecimiento, así como para la prestación y administración de los servicios públicos y la ejecución de obras de infraestructura y equipamiento urbano; atendiendo a los principios de la ley general, la presente ley y lo establecido en las leyes aplicables en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XLII. Fomentar la creación de espacios que contribuyan a la autosuficiencia, sustentabilidad y protección ambiental, a través de azoteas o techos verdes, jardines verticales, huertos urbanos, entre otros, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XLIII. Las demás que le señale esta Ley, las disposiciones federales y estatales.
 
 Las atribuciones que otorga esta Ley a los Ayuntamientos serán ejercidas por las secretarías, dependencias, entidades u oficinas correspondientes salvo las que deban ejercer directamente los Presidentes municipales o los Ayuntamientos en cabildo, por disposición expresa de la Ley General, esta Ley y su reglamento, y la Ley Orgánica Municipal.
 
@@ -2924,6 +2932,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 3, LA FRACCIÓN I DEL 4, LAS FRACCIONES III Y XV DEL 16, EL SEGUNDO PÁRRAFO DEL 115 Y EL 118 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA; ASIMISMO REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 4, Y LA FRACCIÓN I DEL 18, DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XLI Y XLII DEL ARTÍCULO 16 Y SE ADICIONA LA FRACCIÓN XLIII AL ARTÍCULO 16 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
