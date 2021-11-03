@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-10-28"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -215,6 +215,46 @@ XXXIV.- Violencia contra las mujeres: Cualquier acción u omisión que, con moti
 
 La aplicación de la presente Ley le corresponde a los Poderes Públicos del Estado y a los Municipios, en sus respectivos ámbitos de competencia.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 7 Bis.
+
+Las víctimas de violencia previstas en esta Ley, sin pe1juicio de los derechos establecidos en otras normas, tendrán los siguientes derechos:
+
+I.- Ser tratadas con respeto a su integridad y el ejercicio pleno de sus derechos;
+
+II.- Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas;
+
+III.- Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+
+IV.- Asesoría jurídica gratuita y expedita, necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
+
+V.- Recibir información, atención y acompañamiento médico y psicológico;
+
+VI.- Acciones de asistencia social que contribuya a su pleno desarrollo;
+
+VII.- Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, en las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios destinados para tal fin. Cuando se trate de víctimas de trata de personas, las mujeres recibirán atención integral con sus hijas e hijos en refugios especializados;
+
+VIII.- Recibir una valoración y educación libre de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+IX.- Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia;
+
+XI (SIC).- La víctima no será obligada a participar en mecanismos de conciliación con su agresor;
+
+XII.- Las mujeres indígenas o con discapacidad víctimas de violencia serán asistidas en todo tiempo por intérpretes y defensores sociales que tengan conocimiento de su lengua y cultura, en los casos que se requiera;
+
+XIII.- A la protección de su identidad y la de su familia;
+
+XIV.- Realizar la separación y alejar de manera inmediata del agresor con respecto a la víctima y víctimas indirectas, durante el confinamiento derivado de una pandemia, situación de emergencia o catástrofe, brindando la asistencia legal para denunciar la violencia, con el objeto de separar del hogar familiar al agresor o si fuera necesario canalizarla a las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios, reintegrándola a su hogar una vez que se haya garantizado la separación del agresor con la víctima;
+
+XV.- La reparación integral del daño;
+
+XVI.- La garantía de no victimización secundaria;
+
+XVII.- La integración plena a la vida democrática y productiva; y
+
+XVIII.- Las demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
+
 ### CAPÍTULO II. DEL PODER PÚBLICO
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
@@ -331,17 +371,21 @@ VIII.- Desarrollar programas para sensibilizar y capacitar a las personas que ej
 
 La violencia contra las mujeres en el ámbito laboral o docente, consiste en el ejercicio abusivo de cualquier facultad que sitúe a la mujer en un plano de subordinación, o bien, cualquier omisión en el cumplimiento de determinadas obligaciones suficiente, dolosa y motivada por razones de género, que menoscabe los derechos laborales de la mujer, que pueda dañar su salud e integridad física, psíquica, libertad o seguridad, así como su desarrollo profesional, académico o análogo, y que se ejerce por personas con quienes tiene un vínculo laboral, docente o análogo, independientemente de la relación jerárquica.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
-La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la víctima, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; el menoscabo de su salario y sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; discriminación ocupacional; exclusión para acceder a puestos directivos; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; la imposición de requisitos sexistas en la forma de vestir; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de regresar al trabajo después del embarazo y llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
+La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la víctima, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; el menoscabo de su salario y sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; discriminación ocupacional; exclusión para acceder a puestos directivos; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, la solicitud de certificados médicos de no embarazo para el ingreso, permanencia, promoción o ascenso en el empleo; así como el despido por este motivo o la coacción directa o indirecta para que renuncie, la discriminación o menoscabo de sus derechos con motivo de su estado de gravidez o embarazo, o por estar en periodo de lactancia; el impedimento de regresar al trabajo después del embarazo y llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 15.
 
 La violencia contra las mujeres en el ámbito docente, consiste en aquellas conductas lesivas, motivadas por razones de género, que pueden dañar la autoestima de las mujeres por motivos de discriminación en razón de su sexo, edad, condición social, académica, limitaciones y/o características físicas, así como la obstaculización en el ejercicio de los derechos que le corresponden como madre de familia, en términos de la Ley General de Educación, causadas por el personal con funciones de dirección, supervisión y docente, en todos los niveles educativos.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+Lo es también la estigmatización y sexismo al orientar a las alumnas a elegir y cursar carreras con base en estereotipos de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -1211,6 +1255,10 @@ VI.- Incorporar en los programas educativos, en todos los niveles de la instrucc
 
 VII.- Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+VII Bis.- Establecer como requisito de contratación a todo el personal, docente, administrativo y de intendencia, acreditar no contar con algún antecedente de violencia contra las mujeres;
+
 VIII.- Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
@@ -1735,15 +1783,81 @@ Los Centros de Reeducación para Agresores otorgarán una atención multidiscipl
 
 Los agresores deberán asistir obligatoriamente a los programas de reeducación integral, cuando así sea determinado por mandato de autoridad competente, de conformidad con el reglamento para su organización y funcionamiento, que al efecto se expida.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO VI. DE LA REPARACIÓN DEL DAÑO A LAS MUJERES VÍCTIMAS DE VIOLENCIA
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 57 Quinquies.
+
+Las mujeres víctimas de violencia, tendrán derecho a obtener la reparación del daño de conformidad con lo establecido en los artículos 20, apartado C, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos y 26 de la Ley General y demás ordenamientos jurídicos, con una vocación transformadora; es decir, desde un enfoque no sólo restitutivo sino también correctivo, que combata las situaciones de discriminación en que viven las víctimas. Estas acciones se expresan en:
+
+1) Medidas de rehabilitación: Son los tratamientos médico y psicológico gratuitos que requieren las víctimas, previo consentimiento informado y por el tiempo que sea necesario, incluida la provisión de medicamentos.
+
+2) Medidas de satisfacción: Son medidas tendientes a contribuir a la reparación individual y colectiva, la recuperación de la memoria de las víctimas, el restablecimiento de su dignidad, y la manifestación pública de mensajes de reprobación oficial a las violaciones de los derechos humanos de las mujeres y de compromiso con los esfuerzos tendientes a que no vuelva ocurrir.
+
+3) Indemnización compensatoria: Es aquella reparación del daño de carácter monetario que incluye los conceptos siguientes:
+
+a) Daño moral y psicológico: Por los sufrimientos y aflicciones causados a la víctima y sus familiares;
+
+b) Daño material: La pérdida o detrimento de los ingresos de las víctimas, los gastos efectuados con motivo de los hechos y las consecuencias de carácter económico;
+
+c) Daño al proyecto de vida: Por la afectación o impedimento de continuar con su proyecto de vida como consecuencia de la violencia que sufrieron, involucra la imposibilidad que tuvieron las víctimas de continuar con sus estudios o su trabajo, la frustración y angustia personales al ver truncadas sus expectativas de vida ante el menoscabo de las oportunidades personales y profesionales.
+
+4) Garantías de no repetición: Son las medidas generales, que evitan que hechos que motivaron la violación a los derechos humanos de las mujeres vuelvan a ocurrir, y
+
+5) Obligación de investigar, juzgar y sancionar con perspectiva de género a través de los medios legales disponibles y deberá estar orientada a la determinación de la verdad histórica y jurídica: Esta obligación deberá incluir la investigación y sanción de las y los funcionarios que obstaculizaron o que con su negligencia violaron los derechos humanos de las mujeres y las niñas.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 57 Sexies.
+
+Para procurar la reparación del daño a las mujeres víctimas de violencia, el Ministerio Público deberá:
+
+I.- Informar a la ofendida o víctima del delito, así como a sus derechohabientes, sobre el derecho que tiene a que se le repare el daño material y/o moral derivado de la comisión del ilícito, así como el procedimiento y alcance de la reparación del daño;
+
+II.- Solicitar al juez competente el embargo precautorio de los bienes del probable responsable, cuando se tenga el temor fundado de que el obligado a la reparación del daño oculte o enajene los bienes para hacer efectiva dicha reparación, y
+
+III.- Informar a la víctima sobre el derecho que tiene de acudir a la Comisión Estatal de los Derechos Humanos, cuando de los hechos que constituyen delito también se desprende la violación a sus derechos humanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII. DEL SEGUIMIENTO Y EVALUACIÓN
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 57 Septies.
+
+Los Titulares de las dependencias que integran el Sistema Estatal se reunirán de manera periódica con la finalidad de evaluar el cumplimiento de los objetivos esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 57 Octies.
+
+Con la finalidad de avanzar en el desarrollo de políticas públicas coordinadas, las dependencias del Sistema Estatal deberán conformarse en Comisiones, por materia, que serán los siguientes:
+
+I.- De prevención, que será coordinado por la persona Titular de la Secretaría de Gobernación;
+
+II.- De atención, que será coordinado por la persona Titular de la Secretaría de Igualdad Sustantiva, y
+
+III.- De acceso a la justicia, el cual será coordinado por la persona Titular de la Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 57 Nonies.
+
+El Reglamento de la presente Ley establecerá el funcionamiento de las Comisiones en cuanto al seguimiento y evaluación de los objetivos de la presente Ley.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
 ## TÍTULO V. DE LAS RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1992,3 +2106,13 @@ P.O. 28 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 14, Y ADICIONA LOS ARTÍCULOS 7 BIS, UN SEGUNDO PÁRRAFO AL 15, LA FRACCIÓN VII BIS AL 43, EL CAPÍTULO VI, Y LOS ARTÍCULOS 57 QUINQUIES, 57 SEXIES, EL CAPÍTULO VII, Y LOS ARTÍCULOS 57 SEPTIES, 57 OCTIES Y 57 NONIES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La persona Titular del Poder Ejecutivo, en un término no mayor a sesenta días naturales deberá realizar las adecuaciones al Reglamento de la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla, en materia del presente dictamen, a partir de la entrada en vigor del presente Decreto.
