@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-bienestar-animal-del-estado-de-puebla-127134"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2021-01-21"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Tercera Sección del Número 17 al Periódico Oficial del Estado de Puebla, el lunes 26 de febrero de 2018.
 
@@ -41,7 +41,7 @@ EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SO
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 64, 67 y 84 párrafo segundo de la Constitución Política del Estado Libre y Soberano de Puebla; 134, 135 y 136 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 93 fracción VII y 120 fracción VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -465,6 +465,10 @@ VIII. Comprar, vender y explotar animales en la vía pública;
 
 IX. Vender animales en establecimientos que carezcan de las autorizaciones, licencias o permisos exigidos por la ley;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+IX Bis. La venta de animales vivos a menores de dieciocho años de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor, por el menor, de la adecuada subsistencia, trato digno y respetuoso para el animal;
+
 X. Realizar la presentación de espectáculos públicos, que impliquen el uso de animales, a excepción de los señalados en el artículo 19 de la presente Ley;
 
 XI. Realizar presentaciones de circo con animales de cualquier especie;
@@ -483,9 +487,17 @@ XVII. El uso de animales vivos como blanco de ataque en el entrenamiento de anim
 
 XVIII. Transitar en lugares públicos con animales de compañía que no estén controlados por un collar y correa u otros medios que garanticen la seguridad de los transeúntes, sus bienes y otros animales;
 
-XIX. Realizar prácticas de vivisección y experimentación en animales con fines científicos o didácticos en los niveles de enseñanza básica, media y media superior. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos, y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-XX. Las demás que establezca la presente ley, su Reglamento y demás ordenamientos jurídicos aplicables.
+XIX. Realizar prácticas de vivisección y experimentación en animales con fines científicos o didácticos en los niveles de enseñanza básica, media y media superior. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XX. La venta de animales que implique la separación de la madre, si el producto se encuentre en periodo de lactancia, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XXI. Las demás que establezca la presente ley, su Reglamento y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -1134,6 +1146,22 @@ TERCERO. Los Ayuntamientos dentro los ciento ochenta días naturales a partir de
 P.O. 21 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XV, XVII, XXI, XXX, XXXVII Y XXXVIII DEL ARTÍCULO 3, EL ARTÍCULO 4, LAS FRACCIONES IV Y V DEL ARTÍCULO 7, LAS FRACCIONES III, VI Y VII DEL ARTÍCULO 8, EL PRIMER PÁRRAFO Y LAS FRACCIONES V, VI, VII Y VIII DEL ARTÍCULO 12, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 16, LA FRACCIÓN II DEL ARTÍCULO 17, Y ADICIONA LA FRACCIÓN XXXIX AL ARTÍCULO 3, LA FRACCIÓN VI AL ARTÍCULO 7, LA FRACCIÓN VIII AL ARTÍCULO 8, LA FRACCIÓN IX AL ARTÍCULO 12, LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 16, TODAS DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIX Y XX, Y ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 18 DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN IX BIS DEL ARTÍCULO 18 DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
