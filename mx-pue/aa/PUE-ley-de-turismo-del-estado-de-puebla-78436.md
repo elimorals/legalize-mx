@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2021-03-26"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XIV, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y XIV y 93 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -531,13 +533,25 @@ VII.- Turismo Social y de Naturaleza;
 
 VIII.- Turismo Accesible y de adultos mayores;
 
-IX.- Atención y facilitación de la actividad turística;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-X.- Capacitación a los prestadores de servicios turísticos;
+IX.- Turismo Virtual;
 
-XI.- Mecanismos de estímulo y financiamiento a la actividad turística; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-XII.- Mecanismos de coordinación y participación con los sectores público, social y privado para el impulso y fomento de la actividad turística.
+X.- Atención y facilitación de la actividad turística;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XI.- Capacitación a los prestadores de servicios turísticos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XII.- Mecanismos de estímulo y financiamiento a la actividad turística; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XIII.- Mecanismos de coordinación y participación con los sectores público, social y privado para el impulso y fomento de la actividad turística.
 
 ###### Artículo 30.
 
@@ -1215,7 +1229,9 @@ III.- Fomentar cursos de capacitación turística para el personal de los servic
 
 IV.- Participar coordinadamente con dependencias y entidades públicas y con los sectores social y privado en actividades de capacitación turística;
 
-V.- Capacitar a sus trabajadores y empleados en materia de accesibilidad, trato preferencial a personas con discapacidad y adultos mayores;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+V.- Capacitar a sus trabajadores y empleados en materia de accesibilidad, respeto a los Derechos Humanos, igualdad de género y, trato preferencial a personas con discapacidad y adultos mayores;
 
 VI.- Intervenir en programas de capacitación a guías de turistas; y
 
@@ -1350,3 +1366,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo Estatal deberá realizar las modificaciones al Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX, X, XI, XII, DEL ARTÍCULO 29 Y ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 29 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 92 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
