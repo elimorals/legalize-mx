@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-superior-del-estado-de-puebla-89749"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-29"
-last_updated: "2012-08-29"
+last_updated: "2021-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE EDUCACION SUPERIOR DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 3 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 29 de agosto de 2012.
 
@@ -744,3 +746,39 @@ QUINTO.- Los trámites pendientes de resolución, a la entrada en vigor de esta 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil doce.- Diputado Presidente.- MARIO GERARDO RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputado Secretario.- JORGE LUIS CORICHE AVILÉS.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de julio de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Educación Superior del Estado de Puebla publicada en el Periódico Oficial del Estado el 29 de agosto de 2012, se deroga cualquier disposición que se oponga al presente Decreto, y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto, salvo lo dispuesto por los transitorios Cuarto y Quinto.
+
+TERCERO. El Congreso del Estado de Puebla realizará en un plazo no mayor a quince meses siguientes a la entrada en vigor del presente Decreto, consultas de buena fe y de manera libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas y afromexicanas, así como una consulta con las mismas características a las personas con discapacidad sobre la totalidad de la presente Ley; hasta en tanto no se realicen las consultas, la aplicación e interpretación de las normas en su favor se hará en lo que más les favorezca.
+
+CUARTO. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en esta Ley, en un plazo no mayor a ciento ochenta días naturales siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a la presente Ley.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de esta Ley continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+QUINTO. Salvo por las instituciones que gocen de Autonomía, la expedición de títulos profesionales corresponde a la Secretaría hasta en tanto se emita la normativa específica que garantice certeza y seguridad jurídica para la autenticación de títulos que otorguen las Instituciones de Educación Superior, periodo que no deberá ser superior a dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. Con objeto de dar cumplimiento a las disposiciones establecidas en el presente Decreto, se estará a lo siguiente:
+
+I. Los mecanismos para dar cumplimiento progresivo a la obligatoriedad del Estado de ofrecer oportunidades de acceso a la Educación Superior a toda persona que cuente con el certificado de bachillerato o equivalente, se implementarán en función de la disponibilidad presupuestaria a partir del ciclo escolar 2023-2024, sin menoscabo de las acciones que se realicen con la entrada en vigor del presente Decreto;
+
+II. La gratuidad de la educación superior se implementará de manera progresiva en función de la suficiencia presupuestal a partir del ciclo escolar 2023-2024, sin menoscabo de las acciones que se realicen con la entrada en vigor del presente Decreto, y
+
+III. Los recursos para dar cumplimiento a lo establecido en los artículos 61 y 62 de esta Ley, se deberán prever en la Ley de Egresos del Estado de Puebla para el Ejercicio Fiscal 2023 y subsecuentes, los cuales deberán incrementarse cuando se presente una variación positiva de la estimación de los ingresos previstos en la iniciativa de Ley de Ingresos del Estado de Puebla.
+
+SÉPTIMO. El Padrón de Instituciones de Educación Superior al que se refiere el artículo 71 de esta Ley, deberá operar en términos de lo establecido por el artículo Noveno Transitorio del Decreto por el que se expide la Ley General de Educación Superior.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera gradual con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+NOVENO. Las acciones a las que se refiere el artículo 48 del presente Decreto, referentes a la importancia para que las instituciones de educación superior se constituyan como espacios libres de violencia de género y de discriminación hacia las mujeres deberán realizarse y reforzarse de manera progresiva y de acuerdo con la disponibilidad presupuestal de cada institución a partir de los ciento veinte días naturales siguientes a su entrada en vigor.
+
+DÉCIMO. El Gobierno del Estado de Puebla elaborará y publicará el Programa Estatal de Educación Superior a que se refiere la Ley General y esta Ley en un plazo no mayor a ciento ochenta días naturales posteriores a la publicación del presente Decreto.
+
+DÉCIMO PRIMERO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría determinará la naturaleza jurídica de las Unidades de la Universidad Pedagógica Nacional en el Estado de Puebla.
