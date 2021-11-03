@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-primer-empleo-del-estado-de-puebla-119013"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2021-01-08"
+last_updated: "2021-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de enero de 2017.
 
@@ -103,9 +103,11 @@ XVI. Trabajador de primer empleo.- Trabajador que no tenga registro previo de as
 
 La Secretaría expedirá los lineamientos generales para que los interesados que realicen su servicio social o prácticas profesionales puedan acceder a programas de fomento al primer empleo en el sector privado.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-Los programas o acciones emitidas por la Secretaría tendrán como finalidad contribuir a la formación integral a través del ejercicio de los conocimientos técnicos en la realidad profesional, desarrollando competencias para diagnosticar, planear, evaluar e intervenir en la solución de problemas o situaciones que el ámbito laboral demanda.
+Los programas o acciones emitidas por la Secretaría tendrán como finalidad contribuir a la formación integral a través del ejercicio de los conocimientos técnicos en la realidad profesional, desarrollando competencias y habilidades para diagnosticar, planear, evaluar e intervenir en la solución de problemas, toma de decisiones o situaciones que el ámbito laboral demanda.
 
 ###### ARTÍCULO 7.
 
@@ -181,6 +183,10 @@ h) Los demás que determinen esta Ley, el reglamento y otros ordenamientos aplic
 
 II. En el caso de las personas físicas, se deberá cumplir con los mismos requisitos, exceptuando el contemplado en el inciso a) de la fracción I de este artículo.
 
+> <small>(ADICIONADA. P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+III. Las personas físicas y morales, deberán contar con las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres que en ningún caso podrán ser inferiores a las fijadas por la legislación aplicable.
+
 ###### ARTÍCULO 16.
 
 Los interesados en inscribirse en el registro empresarial como empresas o patrones con interés de contratar a trabajadores de primer empleo, deberán presentar su solicitud de inscripción dentro del plazo que establezca el reglamento o leyes aplicables, adjuntando la documentación necesaria para acreditar que cuentan con los requisitos a que se refiere el artículo anterior.
@@ -220,6 +226,22 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 P.O. 8 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4 Y ADICIONA EL ARTÍCULO 8 BIS DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN III AL ARTÍCULO 15 DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 6 DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
