@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2021-11-03"
+last_updated: "2021-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1111,9 +1111,9 @@ Cuando exista reincidencia en el delito de imprudencia y tanto en uno como en el
 
 La sanción prevista en el artículo 83 del presente Código, se incrementará de tres días a dos años de prisión y multa de cincuenta a cien Unidades de Medida y Actualización, cuando se cometa el delito al conducir vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca un efecto similar
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-La presente disposición es aplicable salvo lo ordenado en los artículos 85 Bis y 86 del presente Código.
+La presente disposición es aplicable salvo lo ordenado en los artículos 85 Bis, 86 y 323 Bis del presente Código.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2018)</small>
 
@@ -1121,7 +1121,7 @@ La presente disposición es aplicable salvo lo ordenado en los artículos 85 Bis
 
 Cuando con el delito de imprudencia se cause homicidio o lesiones de las enumeradas en los artículos 307 y 308 fracciones IV y V de este Ordenamiento Legal, se sancionarán de dos a nueve años de prisión al que:
 
-I.- Al cometer el delito se hallaba en estado de embriaguez superior al primer grado o bajo el efecto de enervantes, estupefacientes o psicotrópicos o cualquier sustancia que produzca un efecto similar;
+I.- (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2021)
 
 II.- Lo cometa al invadir con un vehículo, el carril exclusivo para la circulación del Sistema de Transporte Público Masivo, alguna ciclovía o zona asignada al peatón;
 
@@ -1131,9 +1131,9 @@ IV.- Se dé a la fuga o abandone el lugar del accidente.
 
 Quedan exceptuados de lo dispuesto por la fracción II del presente artículo, en lo que respecta al uso del carril exclusivo para la circulación del Sistema de Transporte Público Masivo, los conductores de vehículos de emergencia.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-Además, dependiendo de los casos previstos en el presente artículo, se sancionará con la suspensión o cancelación definitiva de la licencia para conducir vehículos expedida por cualquier instancia. En el caso de homicidio culposo, en que se actualice lo enunciado en la fracción I del presente artículo, procederá siempre la cancelación definitiva de la licencia para conducir vehículos expedida por cualquier instancia. En los demás casos la duración de la suspensión podrá ser de uno a diez años.
+Además, dependiendo de los casos previstos en el presente artículo, se sancionará con la suspensión o cancelación definitiva de la licencia para conducir vehículos expedida por cualquier instancia. La duración de la suspensión podrá ser de uno a diez años.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -2101,11 +2101,15 @@ IV.- Cuando un sentenciado aporte pruebas ciertas, suficientemente valoradas por
 
 #### SECCION QUINTA.- USO INDEBIDO DE LOS SISTEMAS TELEFONICOS DE EMERGENCIA
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 186 Septies.
 
-Al que realice una llamada de emergencia o permita utilizar su teléfono, a sabiendas de que es una llamada o aviso falso de alerta con el único objeto de inducir al error y movilizar a los sistemas de emergencias y urgencias o su equivalente, se le impondrá de dos meses a dos años de prisión y multa de diez a cien Unidades de Medida y Actualización.
+A quien realice llamada; de aviso o alerta falsa a números de emergencia a través de cualquier medio de comunicación, como teléfono fijo, móvil, radio, botón de auxilio, redes sociales, aplicaciones de internet u otro medio electrónico, con el objeto de inducir al error y movilizar a los sistemas de emergencias y urgencias o su equivalente, se impondrán de seis meses a cuatro años de prisión y multa de veinte a doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Las mismas sanciones se aplicarán a quien permita utilizar medios propios, señalados en el párrafo anterior, a sabiendas de que se hará una llamada para dar un aviso de emergencia falsa.
+
+En caso de reincidencia, se incrementará la sanción hasta en una mitad; y si la llamada, aviso o alerta falsa es realizada por un adolescente, se sancionará de acuerdo a lo establecido en la Legislación aplicable.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2011)</small>
 
@@ -4305,6 +4309,14 @@ El homicidio y las lesiones son calificadas cuando se cometen con: Premeditació
 
 Para los efectos de los artículos 309 y 330 Bis, se considera que existen lesiones por razones de género cuando concurra alguna de las circunstancias previstas en el artículo 338 de este Código.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 323 Bis.
+
+El que al conducir vehículo de motor cause homicidio o lesiones de las enumeradas en los artículos 307 y 308 fracciones IV y V de este Ordenamiento Legal, hallándose en estado de embriaguez superior al primer grado o bajo el efecto de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca un efecto similar, se sancionará de tres a ocho años de prisión.
+
+Además, se cancelará definitivamente la licencia para conducir vehículos expedida por cualquier instancia.
+
 ###### Artículo 324.
 
 Hay premeditación cuando el reo cause intencionalmente una lesión o un homicidio, después de haber reflexionado sobre el delito que va a cometer.
@@ -5029,6 +5041,10 @@ XVI.- Cuando lo cometan los obreros, artesanos, aprendices o discípulos en la c
 
 XVII.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público;
 
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+XVII Bis.- Cuando se cometa respecto de teléfonos celulares;
+
 XVIII.- Si se realiza en contra de un establecimiento abierto al público, o en contra de las personas que lo custodian.
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
@@ -5038,6 +5054,10 @@ XIX.- Cuando se cometa el robo de una o más de las partes que conforman un veh�
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
 XX.- Cuando se cometa con violencia contra transeúntes;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+XX Bis.- Cuando se use como medio para su comisión una motocicleta;
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
 
@@ -5213,9 +5233,9 @@ IV.- Con prisión de tres a ocho años y multa de ciento cincuenta a cuatrocient
 
 Para la aplicación de las sanciones previstas en los artículos anteriores de esta sección, los jueces y tribunales tendrán en cuenta, además de las reglas generales consignadas en los artículos 72 a 75, la importancia del daño causado, en relación con las condiciones económicas del ofendido.
 
-#### SECCION QUINTA.- DESPOJO
+#### SECCIÓN CUARTA BIS.- FRAUDE FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 396.
 
@@ -5263,7 +5283,9 @@ Cuando el delito previsto en esta Sección, se cometa en perjuicio de cooperativ
 
 En el supuesto previsto en el artículo anterior, si el autor del delito repara el daño, antes de dictarse sentencia condenatoria, la sanción será de dos a cinco años de prisión y multa de treinta a trescientas Unidades de Medida y Actualización.
 
-#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
+#### SECCION QUINTA.- DESPOJO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 402.
 
@@ -5427,11 +5449,15 @@ Para efectos de este artículo se entenderá que existe captación de recursos d
 
 Cuando el delito previsto en esta sección, se cometa en perjuicio de cooperativas, sociedades o agrupaciones en que estén interesados obreros, campesinos o indígenas, la sanción será de cuatro a diez años de prisión y multa de cincuenta a trescientas Unidades de Medida y Actualización.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
+
+###### Artículo 407 Bis.
+
+A quien, en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, el concubinato o relaciones de hecho; oculte, transfiera o adquiera a nombre de terceros bienes, se le aplicará sanción de uno a cinco años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+
 #### SECCION SEPTIMA.- EXTORSIÓN
-
-#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 408.
 
@@ -5469,9 +5495,9 @@ Lo dispuesto en los dos artículos anteriores, se aplicará aun cuando la posesi
 
 (DEROGADO, P.O. 22 DE MAYO DE 2013)
 
-#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
+#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 412.
 
@@ -5559,15 +5585,15 @@ IV.- Cuando por imprudencia se ocasionare daño en propiedad ajena, que no sea m
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
 
-#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
+#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 415.
 
 (DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
-#### SECCION TERCERA.- DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
+#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
 
 ###### Artículo 416.
 
@@ -5577,7 +5603,9 @@ Los delitos de abuso de confianza y fraude se perseguirán a petición de parte 
 
 CAPITULO DECIMONOVENO.- DELITOS POR HECHOS DE CORRUPCION
 
-#### SECCION CUARTA.- COHECHO
+#### SECCION TERCERA.- DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 417.
 
@@ -5621,7 +5649,7 @@ IX.- A quien teniendo obligación por razones de empleo, cargo o comisión, de c
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
-#### SECCION QUINTA.- PECULADO
+#### SECCION CUARTA.- COHECHO
 
 ###### Artículo 419.
 
@@ -5717,7 +5745,7 @@ Al que cometa el delito de intimidación se le impondrá de uno a siete años de
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-#### SECCION SEXTA.- CONCUSION
+#### SECCION QUINTA.- PECULADO
 
 ###### Artículo 421.
 
@@ -5881,9 +5909,7 @@ A quien cometa los delitos previstos en las fracciones VI, IX, X, XIV, XV, XVI, 
 
 Las disposiciones anteriores se aplicarán en lo conducente a todos los servidores públicos, incluyendo a los de los Tribunales Administrativos o del Trabajo, y del Ministerio Público cuando en el ejercicio de sus encargos o comisiones, ejecuten los actos o incurran en las omisiones que expresan los artículos que preceden.
 
-#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+#### SECCION SEXTA.- CONCUSION
 
 ###### Artículo 426.
 
@@ -5925,7 +5951,7 @@ El delito de cohecho se sancionará con prisión de seis meses a nueve años y m
 
 Cuando el particular cometa el delito por exigencia del servidor público, la sanción será disminuida en un tercio, pero si denunció oportunamente el delito no recibirá ninguna sanción.
 
-#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
+#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -5959,9 +5985,9 @@ Al que comete el delito de peculado, se le impondrá de seis meses a doce años 
 
 La sanción de prisión se reducirá en una tercera parte si desde la fecha en que se decrete el auto de vinculación a proceso, se devolviere incondicionalmente lo distraído o los fondos utilizados indebidamente, con los intereses legales correspondientes.
 
-#### SECCION NOVENA.- COALICION
+#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 430.
 
@@ -5973,7 +5999,7 @@ Comete el delito de concusión el servidor público que, con el carácter de tal
 
 El delito de concusión se sancionará con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito y prisión de dos a seis años.
 
-#### SECCION DECIMA.- USO ILICITO DE ATRIBUCIONES Y FACULTADES
+#### SECCION NOVENA.- COALICION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -5993,9 +6019,9 @@ Al responsable del delito de enriquecimiento ilícito, se le impondrá de dos a 
 
 El servidor público que tenga una profesión cuyo ejercicio sea legalmente compatible con la función a su cargo, así como aquéllos que tengan reconocidas actividades comerciales, industriales, o de cualquier otra especie, que les proporcionen ingresos adicionales a los derivados de su remuneración en los cargos, comisiones o empleos oficiales, podrán prevalerse de esta circunstancia para acreditar la honesta procedencia de sus bienes.
 
-#### SECCION DECIMA PRIMERA.- EVASION DE PRESOS
+#### SECCION DECIMA.- USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 435.
 
@@ -6020,6 +6046,18 @@ b) Sin estar autorizado legalmente para intervenir en un negocio público, afirm
 Al que cometa el delito de tráfico de influencia se le impondrán de dos a seis años de prisión y multa de diez a cien días de (sic) valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+#### SECCION DECIMA PRIMERA.- EVASION DE PRESOS
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
+###### Artículo 436 Bis.
+
+Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley, reglamento u otras disposiciones de carácter general, para impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+
+Al que cometa el delito de coalición de servidores públicos se le impondrá de dos años a siete años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION DECIMA SEGUNDA.- REGLAS GENERALES
 
@@ -6060,16 +6098,6 @@ VI.- La necesidad de reparar los daños y perjuicios causados por la conducta il
 Artículo 436 Sedecies.- Se sancionará de seis meses a diez años de prisión y multa de treinta a ciento cincuenta días del valor diario de la Unidad de Medida y Actualización, vigente en el momento de la comisión del delito, al servidor público que en el desarrollo de sus funciones, teniendo conocimiento de un hecho de corrupción conforme las disposiciones de este capítulo, no lo denuncie a la autoridad competente, o no la haga cesar, si estuviera en sus atribuciones.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 436 Bis.
-
-Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley, reglamento u otras disposiciones de carácter general, para impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
-
-Al que cometa el delito de coalición de servidores públicos se le impondrá de dos años a siete años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-#### SECCION UNICA
 
 ###### Artículo 436 Ter.
 
@@ -6112,8 +6140,6 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrá 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION UNICA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 436 Quinquies.
 
@@ -6163,9 +6189,9 @@ Artículo 436 Terdecies.- Al prófugo no se le contará el tiempo que estuviere 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-#### SECCIÓN ÚNICA
+#### SECCION UNICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 437.
 
@@ -6204,6 +6230,10 @@ Cuando en la comisión de cualquier delito de este Capítulo participe quien ten
 ### CAPITULO VIGESIMO.- DELITOS ELECTORALES
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
+
+#### SECCIÓN ÚNICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 441.
 
@@ -7448,6 +7478,38 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LAS FRACCIONES XVII BIS Y XX BIS AL ARTÍCULO 380 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA SECCIÓN CUARTA BIS, AL CAPÍTULO DÉCIMO OCTAVO Y EL ARTÍCULO 407 BIS, AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 85 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 85 BIS, ADICIONA EL ARTÍCULO 323 BIS, Y DEROGA LA FRACCIÓN I DEL ARTÍCULO 85 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ MISMO REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 51, Y ADICIONA LA FRACCIÓN III AL 51 DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 186 SEPTIES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
