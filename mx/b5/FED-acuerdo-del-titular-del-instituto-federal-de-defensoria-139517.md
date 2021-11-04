@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-139517"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-11"
-last_updated: "2021-06-21"
+last_updated: "2021-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139517&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-11-29"
 ---
 # ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA [POR EL QUE SE ORDENA LA PUBLICACION DE LAS BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO JD/ORD/IV/27/09/2021.03, PUBLICADO EN EL D.O.F. DE 4 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2019.
 
@@ -2334,3 +2336,19 @@ SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización 
 ## TRANSITORIO
 
 ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del 26 de abril del 2021, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación con excepción de la modificación del artículo 35 consistente en la prohibición de realizar visitas carcelarias por coordinación a través de una o un defensor público distinto al que está formalmente designado para la representación de la persona usuaria que entrará en vigor a partir de 20222.
+
+D.O.F. 4 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]</small>
+
+PRIMERO. En cumplimiento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del 27 de septiembre del 2021, publíquese el presente acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del 27 de septiembre del 2021 estarán disponibles en los siguientes vínculos electrónicos: www.dof.gob.mx/2021/CJF/Acuerdo_JD_BasesGenerales_27sept21.pdf y https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdo_JD_ORD_IV_27_09_2021-03.pdf.
+
+## TRANSITORIO
+
+ÚNICO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del 27 de septiembre del 2021, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO PRIMERO DEL ACUERDO JD/ORD/IV/27/09/2021.03.]</small>
+
+PRIMERO. Se abrogan las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, publicadas en el Diario Oficial de la Federación el 11 de diciembre de 2019.
