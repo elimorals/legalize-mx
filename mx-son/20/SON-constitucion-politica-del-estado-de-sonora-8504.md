@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2019-12-27"
+last_updated: "2021-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE NOVIEMBRE DE 2021.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -153,6 +153,8 @@ III.- Toda persona, sin necesidad de acreditar interés alguno o justificar su u
 
 IV.- La inobservancia a las disposiciones en materia de acceso a la información pública por parte de los sujetos obligados, será sancionada en los términos que dispongan las leyes.
 
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+
 V.- El Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, es un organismo público autónomo, especializado, imparcial, colegiado e independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, que será responsable de garantizar el ejercicio de los derechos de acceso a la información pública y la protección de datos personales en posesión de los sujetos obligados en los términos de la legislación vigente.
 
 En su funcionamiento el organismo garante se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
@@ -161,39 +163,31 @@ El organismo garante tiene competencia para conocer de los asuntos relacionados 
 
 Las resoluciones del organismo serán vinculatorias, definitivas e inatacables para los sujetos obligados y contra ellas sólo procederán los mecanismos de impugnación expresamente señalados en la ley de la materia.
 
-> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
+El organismo garante estará conformado por tres comisionados que serán nombrados por las dos terceras partes de los Diputados presentes en la sesión correspondiente.
 
-El organismo garante estará conformado por tres comisionados que serán nombrados por las dos terceras partes de los Diputados presentes en la sesión correspondiente, a propuesta del titular del Poder Ejecutivo.
+Los comisionados durarán en su cargo siete años, serán sustituidos de manera escalonada para asegurar la autonomía del organismo, y en el proceso de su designación se procurará una amplia participación de la sociedad, máxima publicidad y se garantizará la igualdad de género. Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Sexto de la presente Constitución y serán sujetos de juicio político.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 13 DE AGOSTO DE 2018)</small>
-
-El Gobernador someterá a consideración del Congreso del Estado la integración del órgano garante, la cual, la votará dentro del improrrogable plazo de treinta días.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 13 DE AGOSTO DE 2018)</small>
-
-En caso de que el Congreso del Estado rechace la propuesta, el Ejecutivo del Estado someterá una nueva integración dentro de los 30 días siguientes, para que el Congreso del Estado lo vote en términos del párrafo anterior. En este supuesto, el plazo comenzará a correr al día siguiente de aquel en que el Ejecutivo del Estado haya presentado la nueva integración, hasta lograr la votación requerida.
-
-(NOTA: EL 28 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 74/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO OCTAVO DE LA FRACCIÓN V DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
-
-Los comisionados durarán en su cargo siete años, serán sustituidos de manera escalonada para asegurar la autonomía del organismo, y en el proceso de su designación se procurará una amplia participación de la sociedad, máxima publicidad y se garantizará la igualdad de género. Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Sexto de la presente Constitución y serán sujetos de juicio político. EN CASO DE QUE CONCLUYAN LOS PLAZOS SEÑALADOS Y NO SE HUBIERE DESIGNADO AL COMISIONADO RESPECTIVO, ÉSTE CONTINUARÁ EN EL CARGO HASTA EN TANTO SE REALICE LA DESIGNACIÓN CORRESPONDIENTE.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], B.O. 13 DE AGOSTO DE 2018)</small>
-
-El comisionado presidente ejecutará las decisiones del organismo garante y será su representante legal, será designado por el voto de la mayoría de los comisionados, durará en ese cargo un período de dos años que no será renovable.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], B.O. 13 DE AGOSTO DE 2018)</small>
+El comisionado presidente ejecutará las decisiones del organismo garante y será su representante legal.
 
 El organismo garante contará con facultades para imponer medidas de apremio a los sujetos obligados para asegurar el cumplimiento de sus decisiones, en los términos de lo que establezca la ley de la materia.
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-APARTADO B.- A efecto de asegurar la participación ciudadana para la conformación de la propuesta que haga el Poder Ejecutivo de los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales el Gobernador del Estado:
+APARTADO B.- En la designación de los comisionados del organismo garante, el Congreso del Estado deberá asegurar la participación ciudadana y su realización conforme al siguiente procedimiento:
 
-I.- Emitirá y difundirá en los medios de comunicación una convocatoria pública para que cualquier ciudadano que aspire al cargo de Comisionado, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma;
+I.- El Congreso del Estado emitirá y difundirá en los medios de comunicación una convocatoria pública para que cualquier ciudadano que aspire al cargo de comisionado, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma;
 
-II.- Una vez concluido el plazo para el registro, se hará público un listado en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en la convocatoria. De la misma manera, en la citada lista se establecerá y hará pública la posibilidad de que dentro de los cinco días naturales siguientes a la publicación de la lista cualquier persona interesada, con apoyo en pruebas suficientes, pueda presentar comentarios y objeciones a la candidatura de cualquiera de los aspirantes.
+II.- Concluido el plazo para el registro, la Mesa Directiva del Congreso del Estado, dentro de los cinco días naturales siguientes, hará público un listado de la misma manera en que se hizo pública la convocatoria, en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en la convocatoria. De la misma manera, en la citada lista se establecerá y hará pública la posibilidad de que, dentro de los cinco días naturales siguientes a la publicación de la lista, cualquier persona interesada, con apoyo en pruebas suficientes, pueda presentar comentarios y objeciones a la candidatura de cualquiera de los aspirantes;
+
+III.- Los aspirantes señalados en la lista a que se refiere la fracción anterior, dentro de los diez días siguientes a la fecha de vencimiento del plazo para la recepción de comentarios y objeciones serán convocados a comparecer en audiencia ante la comisión legislativa correspondiente;
+
+IV.- Concluido el período de comparecencias, la comisión correspondiente, tomando en consideración la opinión de la sociedad expresada en los términos de la fracción III que antecede, realizará la propuesta de designación de comisionados, especificando a la o el ciudadano que habrá de fungir como Presidente del Órgano Garante, mediante el dictamen correspondiente, y lo presentará al Pleno del Congreso del Estado para su discusión y, en su caso, aprobación; y
+
+V.- El dictamen que presente la comisión correspondiente se aprobará cuando obtenga el voto favorable de las dos terceras partes de los diputados presentes en la sesión convocada para tal efecto. En caso de que el dictamen no hubiera obtenido la votación requerida para su aprobación, la comisión deberá presentar otra propuesta a consideración del Pleno del Congreso del Estado hasta obtener la aprobación correspondiente.
+
+En todo caso, el dictamen que presente la comisión correspondiente en los términos antes señalados, deberá hacerse en los términos del Artículo 53 de esta Constitución
+
+El nombramiento podrá ser objetado por el Poder Ejecutivo en un plazo de diez días hábiles. Si el Poder Ejecutivo no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de comisionado la persona nombrada por la Legislatura.
 
 ## TITULO PRIMERO.
 
@@ -643,9 +637,11 @@ Poder Legislativo.
 
 Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de Representantes del pueblo, denominada "CONGRESO DEL ESTADO DE SONORA".
+El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de Representantes del Pueblo, denominada "CONGRESO DEL ESTADO DE SONORA", el cual actuará como Parlamento Abierto y se regirá por los principios de transparencia de la información, rendición de cuentas, evaluación del desempeño legislativo, participación ciudadana y uso de tecnologías de la información.
 
 #### SECCION II.
 
@@ -839,9 +835,7 @@ Los diputados suplentes de representación proporcional suplirán a sus propieta
 
 Los Diputados en funciones, durante el periodo de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación, de los otros Poderes del Estado o del Municipio, o cualquier otra responsabilidad pública, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
 
-> <small>(ADICIONADO, B.O. 13 DE AGOSTO DE 2018)</small>
-
-Las comisiones de dictamen legislativo de Gobernación y Puntos Constitucionales, las de Hacienda, la de Justicia y Derechos Humanos y la de Presupuestos y Asuntos Municipales y la de Fiscalización, deberán ser presididas en cada Legislatura por diputados integrantes de distintos grupos parlamentarios, por lo que un grupo parlamentario no podrá presidir más de una de dichas comisiones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
@@ -1021,19 +1015,23 @@ d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El infor
 
 e). Que la creación del nuevo municipio sea aprobada por las dos terceras partes de los miembros del Congreso.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+(NOTA: EL 27 DE NOVIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 201/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XIII. Previo referéndum vinculante en el o los municipios implicados, para suprimir aquellos Municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los Municipios desaparecidos.
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-Para que la supresión tenga efecto se oirá al Ayuntamiento o Ayuntamientos interesados y al Ejecutivo del Estado, pudiendo este último vetar la decisión, en los términos de esta Constitución.
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+XIII. PARA SUPRIMIR AQUELLOS MUNICIPIOS QUE CAREZCAN DE ELEMENTOS BASTANTES PARA PROVEER A SU EXISTENCIA POLÍTICA, SIEMPRE QUE LA SUPRESIÓN SEA APROBADA POR LAS DOS TERCERAS PARTES DE LOS MIEMBROS DEL CONGRESO. DECRETADA LA EXTINCIÓN SE DESIGNARÁ LA JURISDICCIÓN DENTRO DE LA CUAL QUEDARÁN COMPRENDIDOS LOS MUNICIPIOS DESAPARECIDOS.
+
+PARA QUE LA SUPRESIÓN TENGA EFECTO SE OIRÁ AL AYUNTAMIENTO O AYUNTAMIENTOS INTERESADOS Y AL EJECUTIVO DEL ESTADO.
 
 > <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
 XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la suspensión o desaparición de Ayuntamientos, o de suspensión de sus miembros o revocación de su mandato por alguna de las causales de gravedad que se contemplen en la Ley de la materia; así como para convocar a elecciones municipales extraordinarias e integrar y designar Concejos Municipales, cuando así proceda conforme a la normatividad correspondiente.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado. La determinación deberá ser sometida a consideración de los tres poderes, necesitando la aprobación expresa de cuando menos dos de ellos para su procedencia.
+XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
 XV. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
@@ -1043,9 +1041,9 @@ XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador
 
 XVII. Para constituirse en Colegio Electoral y elegir por dos terceras partes de los integrantes del Congreso al ciudadano que debe substituir al Gobernador en sus faltas absolutas, temporales o definitivas y en sus ausencias temporales cuando éstas excedan de noventa días. A fin de respetar la voluntad popular, el ciudadano que sea designado por el Congreso, en su carácter de Colegio Electoral, deberá ser a propuesta del grupo parlamentario del partido que postuló al Gobernador, salvo el caso de candidaturas independientes.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Justicia Administrativa, que sean hechos por el Ejecutivo. Vencido el período de su encargo, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Justicia Administrativa que se encuentran en funciones seguirán ostentando el cargo hasta en tanto el Congreso apruebe en forma tácita o expresa, el nuevo nombramiento realizado por el Ejecutivo.
+XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Justicia Administrativa, que sean propuestos por el Ejecutivo.
 
 > <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -1071,33 +1069,43 @@ XXI A. Para declarar si ha o no lugar a proceder penalmente contra los servidore
 
 XXI B. Para conocer y decidir sobre la resolución que dicte la Cámara de Senadores y la declaración de procedencia que emita la Cámara de Diputados del Congreso de la Unión, en los términos de los Artículos 110 y 111 de la Constitución General de la República.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-XXII. Para discutir, modificar, aprobar o rechazar, por el voto de las dos terceras partes de los integrantes de la Legislatura, la Ley de Ingresos y Presupuesto de Ingresos, así como el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo, en forma física y en formatos electrónicos de fácil manejo, incluyendo los anexos y tomos del proyecto del Presupuesto de Egresos.
+XXII. Para discutir, modificar, aprobar o rechazar por el voto de la mayoría de los integrantes de la Legislatura, la Ley de Ingresos y Presupuesto de Ingresos, así como el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo, en forma física y en formatos electrónicos de fácil manejo, incluyendo los anexos y tomos del proyecto del Presupuesto de Egresos.
+
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
 
 En el Presupuesto de Egresos el Congreso deberá aprobar las partidas necesarias para solventar obligaciones que se deriven de la contratación de obras o servicios prioritarios para el desarrollo estatal cuando dichas obligaciones comprendan dos o más ejercicios fiscales. Los gastos o pagos que deban cubrirse durante la vigencia de dicha contratación, deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
 
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+
 La contratación de las obras o servicios a que se refiere el párrafo anterior, se establecerá en términos de las leyes respectivas.
+
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
 
 Para este efecto el Ejecutivo del Estado deberá presentar, previamente al Congreso del Estado, la información técnica y financiera que corresponda a cada proyecto, cuya afectación presupuestal multianual deberá ser aprobada por el voto de las dos terceras partes de los integrantes del Poder Legislativo.
 
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+
 Todo proyecto de Ley o Decreto que sea sometido a votación del pleno del Congreso, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
+
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
 
 La aprobación y ejecución de nuevas Obligaciones Financieras derivadas de la legislación local, se realizará en el marco del principio de Balance Presupuestario Sostenible, por lo cual, se sujetará a la capacidad financiera del Estado.
 
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+
 Toda propuesta de aumento o creación de gasto del presupuesto de Egresos deberá acompañarse con la correspondiente fuente de ingresos distinta al financiamiento o compensarse con reducciones en previsiones de gasto.
+
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
 
 Los Organismos Autónomos reconocidos en la presente Constitución, salvo el caso (sic) Instituto Estatal Electoral y de Participación Ciudadana que deberá sujetarse a las previsiones contenidas en el artículo 22 de esta Constitución, no podrán recibir una cantidad menor a la establecida en el último Presupuesto de Egresos publicado en el Boletín Oficial del Gobierno del Estado de Sonora.
 
+> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+
 En caso de que el Congreso no apruebe en tiempo la Ley de Ingresos y Presupuesto de Ingresos o el Presupuesto de Egresos, continuarán en vigor la última Ley de Ingresos y Presupuesto de Ingresos y el último Presupuesto de Egresos que hayan sido publicados en el Boletín Oficial del Gobierno del Estado de Sonora, excepto el Instituto Estatal Electoral y de Participación Ciudadana cuyo presupuesto se regirá por las disposiciones legales aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 13 DE AGOSTO DE 2018)</small>
-
-XXIII. Cuando el Ejecutivo observe la Ley de Ingresos y Presupuesto de Ingresos o el decreto del Presupuesto de Egresos del Gobierno del Estado, dichos ordenamientos regresarán al Legislativo para el análisis, discusión y votación de lo (sic) fuere observado, en caso de que fueren confirmadas por una votación superior a aquélla con que se aprobó originalmente el proyecto tendrá carácter de Ley o de Decreto y volverá al Ejecutivo para su publicación.
-
-En caso de que lo observado no alcance una votación superior a aquélla con que se aprobó originalmente, continuará en vigor de modo definitivo el último de dichos ordenamientos publicados en el Boletín Oficial del Gobierno del Estado junto con sus disposiciones sobre administración, racionalidad, austeridad y disciplina presupuestal, con la particularidad de que si lo observado es parcial la reconducción presupuestal aplicará solamente a la parte que sea observada.
-
-Si durante el procedimiento previsto en esta fracción concluye el ejercicio fiscal anual, entrará en vigor la última Ley de Ingresos y Presupuesto de Ingresos y/o el Decreto del Presupuesto de Egresos publicado en el Boletín Oficial del Gobierno del Estado, hasta en tanto concluya el referido procedimiento, sin demerito de que, de no alcanzar la votación referida en el párrafo anterior, operará la reconducción presupuestal de manera definitiva.
+XXIII. (DEROGADA, B.O. 4 DE NOVIEMBRE DE 2021)
 
 (NOTA: EL 15 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 175/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1111,15 +1119,15 @@ XXIV. Para discutir, modificar, aprobar O NO APROBAR anualmente las Leyes de Ing
 
 XXIV Bis. Para legislar en materia de fiscalización superior y, en general, expedir las leyes que normen la gestión, control y evaluación de los Poderes del Estado, de los organismos constitucionalmente autónomos, de los ayuntamientos y de los entes públicos estatales y municipales;
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-XXIV-BIS A. Para legislar y establecer las responsabilidades administrativas de los servidores públicos, en términos de la Ley General de Responsabilidades Administrativas, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación; así como la organización y funcionamiento del Sistema Estatal Anticorrupción.
+XXIV-BIS A. Para legislar sobre las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación; así como la organización y funcionamiento del Sistema Estatal Anticorrupción.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-XXV. Para conocer el resultado de la revisión de las Cuentas Públicas del Estado del año anterior que deberá presentar el Ejecutivo y los Ayuntamientos. La revisión y fiscalización de las Cuentas Públicas será hecha por el Instituto Superior de Auditoría y Fiscalización y tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados en los programas, a cuya ejecución se hayan asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
+XXV. Para conocer, revisar y aprobar o reprobar el resultado de la revisión de las Cuentas Públicas del Estado del año anterior que deberá presentar el Ejecutivo y los Ayuntamientos. La revisión y fiscalización de las Cuentas Públicas será hecha por el Instituto Superior de Auditoría y Fiscalización y tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados en los programas, a cuya ejecución se hayan asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
-El Congreso realizará su labor fiscalizadora con base en el informe de resultados que le presente el órgano a que se refiere el artículo 67 de esta Constitución.
+El Congreso realizará su labor fiscalizadora con base en el informe de resultados que le presente el Instituto Superior de Auditoría y Fiscalización.
 
 XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1137,29 +1145,11 @@ XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servi
 
 XXX. (DEROGADA, B.O. 29 DE MARZO DE 2001)
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-XXXI. Para expedir la Ley que regulará su estructura y funcionamiento internos, así como los reglamentos de la misma.
+XXXI. Para expedir la Ley que regulará su estructura y funcionamiento internos, así como los reglamentos de la misma; privilegiando el servicio profesional de carrera del Poder Legislativo.
 
-Para garantizar el servicio profesional de carrera en el Poder Legislativo, el titular del Órgano de Control Interno y personal administrativo de nivel subdirector y superiores del Congreso del Estado, serán designados por las dos terceras partes del Congreso y removidos únicamente por las causas graves determinadas por el Tribunal de Justicia Administrativa.
-
-La Contraloría Interna contará con funciones para la instauración de procedimientos administrativos y proponer la instancia correspondiente las sanciones; para ello, podrá establecer un sistema de quejas y denuncias así como aplicar normas en materia de control y evaluación.
-
-El Congreso del Estado contará, al menos, con las unidades administrativas siguientes:
-
-a) La Oficialía Mayor, cuyas atribuciones serán, cuando menos, las siguientes: formular y proponer el anteproyecto de presupuesto de egresos del Congreso del Estado, realizar las adquisiciones, obras públicas, servicios y suministros del Congreso, así como vigilar, examinar y custodiar el ejercicio de los recursos públicos y la documentación que sirva como soporte de los mismos, incluyendo la firma y resguardo de los nombramientos de los servidores públicos del Congreso.
-
-b) Dirección General Administrativa, cuyas atribuciones serán, cuando menos, las siguientes: recopilar, agrupar y clasificar toda la información financiera, contable y de recursos humanos del Congreso del Estado, así como gestionar, tramitar, diligenciar y recibir los recursos financieros de la Secretaría de Hacienda a efecto de realizar los pagos de dietas y sueldos, mantenimiento, servicios, arrendamientos, suministros y adquisiciones, incluyendo la facultad de celebrar todos los actos jurídicos que sean necesarios. Asimismo será la encargada de realizar las transferencias de fondos y de establecer y operar los procedimientos para la recepción y control de los ingresos necesarios para la ejecución de programas y subprogramas a cargo del Congreso del Estado.
-
-c) Dirección General Jurídica, cuyas atribuciones serán, cuando menos, las siguientes: representar jurídicamente al Congreso del Estado, a la Diputación Permanente, comisiones y diputados, brindando asesoría jurídica y apoyo de manera presencial y en la redacción de todo tipo de documentos, así como a guardar, conservar y custodiar todos los expedientes que se formen con la tramitación de comunicaciones oficiales, leyes, decretos, acuerdos, documentos administrativos y judiciales, independientemente de su denominación.
-
-d) La Contraloría Interna cuyas atribuciones serán, cuando menos, las siguientes: instaurar, conocer y desahogar procedimientos administrativos y proponer a la instancia correspondiente las sanciones; para ello, podrá establecer un sistema de quejas y denuncias así como aplicar normas en materia de control y evaluación.
-
-e) La Dirección General del Centro de Investigaciones Parlamentarias del Estado de Sonora cuyas atribuciones serán, cuando menos, las siguientes: la investigación, estudio y análisis legislativo, colaborar en la elaboración de iniciativas y promover la vinculación del Congreso del Estado con el sector académico, público, privado y social.
-
-f) La Dirección General de Comunicación Social cuyas atribuciones serán, cuando menos, las siguientes: elaborar el programa anual de comunicación social, contemplando la difusión oportuna, objetiva y profesional de las actividades del Congreso y de sus integrantes, a efecto de mejorar la percepción social respecto a las tareas legislativas y la imagen profesional de los diputados.
-
-Las unidades administrativas señaladas en la presente fracción, no podrán variar sustancialmente. No se podrán crear unidades administrativas cuyas funciones o atribuciones dupliquen, suplan o sustituyan las referidas en los incisos a), b), c), d), e) y f) anteriores, independientemente de la denominación que se les atribuya.
+La ley y los reglamentos a que se refiere esta fracción no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1227,11 +1217,13 @@ XLIV. Para expedir las leyes concernientes a la administración y gobierno inter
 
 Diputación Permanente.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 65.
 
-El mismo día en que el Congreso deba cerrar sus sesiones, antes de entrar en receso nombrará por mayoría de votos y en escrutinio secreto, una Diputación Permanente compuesta de tres miembros propietarios y dos suplentes, que durará hasta el nuevo período ordinario de sesiones. El primero y segundo de los miembros propietarios nombrados serán Presidente y Vice-Presidente, respectivamente, de la Diputación y el otro Secretario. Los suplentes serán llamados a substituir indistintamente al propietario que falte.
+El mismo día en que el Congreso deba cerrar sus sesiones, antes de entrar en receso nombrará una Diputación Permanente en los términos que la Ley Orgánica del Poder Legislativo del Estado de Sonora establezca.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 La Diputación Permanente no podrá ejercer sus funciones sin la concurrencia de tres de sus miembros.
 
@@ -1331,9 +1323,9 @@ Para coordinar la entrega del informe de resultados y demás información que de
 
 F) Investigar los actos u omisiones relativos a irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, pudiendo, para este efecto, realizar todas las diligencias que resulten conducentes; incluyéndose visitas domiciliarias a particulares que hubiesen fungido como proveedores de bienes o servicios a la autoridad estatal o municipal, con el exclusivo propósito de compulsar las transacciones correspondientes y la documentación que las sustente, en los términos y con las formalidades previstas para los cateos.
 
-> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-G) Determinar y ejecutar las medidas conducentes a la recuperación de los daños y perjuicios que afecten al erario, cuando sea detectada esta situación en el ejercicio de sus atribuciones fiscalizadoras, sin perjuicio de promover las responsabilidades administrativas que resulten ante el órgano de control interno competente. Asimismo, derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada competente, en los términos de esta Constitución y la ley.
+G) Determinar y ejecutar las medidas conducentes a la recuperación de los daños y perjuicios que afecten al erario, fincando a los responsables las indemnizaciones correspondientes, cuando sea detectada esta situación en el ejercicio de sus atribuciones fiscalizadoras, sin perjuicio de promover las responsabilidades administrativas que resulten ante el órgano de control interno competente, Asimismo, derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada competente, en los términos de esta Constitución y la ley.
 
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1351,19 +1343,17 @@ El Comité Ciudadano de Evaluación del Desempeño Legislativo integrará una pr
 
 Si el Titular del Poder Ejecutivo no recibe la lista en el plazo de treinta días a partir de la ausencia definitiva del Auditor Mayor, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Auditor Mayor quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Auditor Mayor designado podrá formar parte de la terna.
 
-> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-El Auditor Mayor y los auditores adjuntos durarán en su encargo siete años y podrán ser nombrados, nuevamente, por una sola vez.
+El Auditor Mayor y los auditores adjuntos durarán en su encargo siete años.
 
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 La ley definirá formas alternativas de designación del Auditor Mayor y de los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización para la hipótesis de que, en un plazo breve, no se reúna la votación cameral requerida para dicho nombramiento. La falta de votos para el nombramiento referido nunca podrá ocasionar la permanencia en el encargo de quien haya ejercido la función en el periodo que concluye.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, PÁGINA 8.]</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
-
-El Instituto Superior de Auditoría y Fiscalización contará con un Órgano de Control Interno cuyo titular será designado por las dos terceras partes de los diputados presentes en la sesión del pleno del Congreso del Estado correspondiente, a propuesta de la Comisión de Régimen Interno y Concertación Política, por un término de 4 años, pudiendo ser ratificado para un periodo adicional. Si al concluir el primer periodo, el Congreso del Estado no ha realizado un nuevo nombramiento, se entenderá ratificado de manera tácita.
+El Instituto Superior de Auditoría y Fiscalización contará con un Órgano de Control Interno cuyo titular será designado por las dos terceras partes de los diputados presentes en la sesión del pleno del Congreso del Estado correspondiente, a propuesta de la Comisión de Régimen Interno y Concertación Política, por un término de 4 años.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, PÁGINA 8.]</small>
 
@@ -1381,63 +1371,13 @@ El Titular del Órgano de Control del Instituto Superior de Auditoría y Fiscali
 
 #### SECCION II.. Del Tribunal de Justicia Administrativa
 
-> <small>(ADICIONADO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-###### Artículo 67 Bis.
+Artículo 67 BIS. El Tribunal de Justicia Administrativa es un órgano dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Este Tribunal, tiene a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales y demás competencias que otorgue la ley.
 
-El Tribunal de Justicia Administrativa es un órgano dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Este Tribunal, tiene a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales y demás competencias que otorgue la ley.
+El Tribunal de Justicia Administrativa funcionará mediante una Sala Superior, la cual se compondrá de cinco Magistrados que serán nombrados por el titular del Poder Ejecutivo y ratificados mediante el voto de las dos terceras partes de los diputados presentes en la sesión que corresponda. Durarán en su encargo nueve años, pudiendo ser considerados para nuevos nombramientos.
 
-El pleno del Tribunal funcionará mediante una Sala Superior y contará con una Sala Especializada en materia de anticorrupción y responsabilidades administrativas.
-
-El Pleno de la Sala Superior del Tribunal se compondrá de cinco Magistrados que serán nombrados por el titular del Poder Ejecutivo y ratificados mediante el voto de las dos terceras partes de los diputados presentes en la sesión que corresponda. Durarán en su encargo nueve años, pudiendo ser considerados para nuevos nombramientos.
-
-La Sala Especializada se integrará con tres Magistrados que serán designados por el titular del Poder Ejecutivo y ratificados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Durarán en su encargo nueve años, pudiendo ser considerados para nuevos nombramientos.
-
-Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
-
-> <small>(ADICIONADO, B.O. 13 DE AGOSTO DE 2018)</small>
-
-Artículo 67 TER.- El Tribunal funcionará mediante una Sala Superior y una Sala Especializada en materia de anticorrupción y responsabilidades administrativas, las cuales contarán con autonomía técnica y de gestión para la resolución de los asuntos de su competencia y para la determinación de su estructura interna.
-
-La Sala Superior del Tribunal, será competente para conocer y resolver de los juicios y recursos siguientes:
-
-I.- Que se ventilen por las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa y fiscal que emitan las autoridades estatales, o sus organismos descentralizados y cuya actuación afecte la esfera jurídica de los particulares;
-
-II.- Que se presenten contra actos en materia administrativa o fiscal, que configuren negativa ficta de las autoridades del Estado, o de sus organismos descentralizados;
-
-III.- De lesividad, que son aquellos promovidos por la autoridad, para que sean nulificadas las resoluciones administrativas o fiscales favorables a los particulares, que causen una lesión a la Administración Pública Estatal o a sus organismos descentralizados por contravenir alguna disposición de los ordenamientos locales vigentes;
-
-IV.- Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas;
-
-V.- Que se refieran a la interpretación y cumplimiento de contratos de naturaleza administrativa en que sean parte el Estado, o sus organismos descentralizados;
-
-VI.- Que se promuevan en materia fiscal con el objeto de que se declare la configuración de la Positiva Ficta en que incurran las autoridades del Estado, o de sus organismos descentralizados, cuando esta figura legal se prevea en las leyes aplicables;
-
-VII.- Que se inicien en los términos de la fracción I de este apartado y que se dicten, ordenen, ejecuten o traten de ejecutar por personas o instituciones que funjan como autoridades administrativas o fiscales y cuya actuación afecte la esfera jurídica de los particulares; y
-
-VIII.- Que le señalen otras leyes y reglamentos.
-
-La Sala Especializada impondrá en los términos en los que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidades administrativas graves y a los particulares que incurran en actos vinculados con faltas administrativas graves, así mismo será competente en primera instancia para conocer de los juicios y recursos de carácter administrativo y fiscal cuando se trate de determinaciones emitidas por las autoridades municipales y sus organismos descentralizados.
-
-También será competente para conocer de los juicios en los que se demande la responsabilidad patrimonial de Estado, de los municipios y de sus organismos descentralizados y demás competencias que otorguen otras leyes.
-
-Así mismo la Sala Especializada en materia de anticorrupción y responsabilidades administrativas tendrá competencia para conocer y resolver de aquellos asuntos de remoción de servidores públicos por causas graves establecidas en esta Constitución de los Organismos Autónomos, conforme al procedimiento que garantice los principios de presunción de inocencia, debido proceso, tipicidad y respeto a los derechos humanos.
-
-Las únicas causas graves a las que se refiere esta Constitución para la remoción de los cargos públicos relacionados a los titulares de los Organismos Constitucionales Autónomos, el Poder Judicial y el Poder Legislativo, serán las siguientes:
-
-l.- Perder la ciudadanía mexicana, en los términos que establece el artículo 37 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II.- Adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses; o
-
-III.- Cometer violaciones graves sistemáticas a la Constitución Política de los Estados Unidos Mexicanos o a esta Constitución. Las violaciones a las que se refiere esta fracción deberán estar plenamente acreditadas.
-
-El procedimiento de remoción sólo podrá ser iniciado a petición del Congreso del Estado por votación de las dos terceras partes de sus miembros. La solicitud de inicio de dicho procedimiento no prejuzga sobre los hechos, ni tiene efectos vinculatorios. El Tribunal de Justicia Administrativa resolverá en plenitud de jurisdicción sobre el caso que se promueva y sus resoluciones serán definitivas e inatacables.
-
-Contra las determinaciones emitidas por la Sala Especializada serán procedentes los recursos de revisión y apelación previstos en los términos previstos en la ley de la materia correspondiente, cuando la ley así lo prevea.
-
-El Tribunal de Justicia Administrativa contará con una Comisión de Administración integrada por el Presidente de la Sala Superior y el Presidente de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas. El presupuesto será ejercido a través del personal que el presidente de la Sala Superior designe.
-
-Cada Sala del Tribunal elaborará un anteproyecto de presupuesto el cual será aprobado por la Comisión de Administración del Tribunal y una vez aprobado por el Pleno el proyecto del presupuesto anual de egresos, el presidente de la Sala Superior lo remitirá al Gobernador del Estado exclusivamente para los efectos previstos en el artículo 79, fracción VII, de esta Constitución, e igualmente deberá enviar una copia del mismo al Congreso del Estado. Las remuneraciones de magistrados y personal del Tribunal de Justicia Administrativa no podrán disminuirse durante el tiempo que dure su encargo.
+Artículo 67 TER. (DEROGADO, B.O. 4 DE NOVIEMBRE DE 2021)
 
 #### SECCION I.
 
@@ -1729,9 +1669,9 @@ I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fue
 
 II. Recomendar asuntos a las autoridades judiciales y a las autoridades del Tribunal de lo Contencioso Administrativo; contrariar en cualquier forma las resoluciones dictadas por éstas, y disponer de los reos durante los procesos.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-III. Oponerse a los Acuerdos del Congreso en que se le pidan informes sobre asuntos públicos.
+III. Oponerse y hacer observaciones a los acuerdos del Congreso en que se le pidan informes sobre asuntos públicos;
 
 IV. Impedir que las elecciones se verifiquen en los días señalados por la ley.
 
@@ -1767,9 +1707,7 @@ Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones qu
 
 Los Subsecretarios de Gobierno auxiliarán en sus funciones y suplirán en sus ausencias temporales al Secretario de Gobierno y tendrán las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(ADICIONADO, B.O. 13 DE AGOSTO DE 2018)</small>
-
-Las dependencias de la administración pública directa y las entidades creadas por decreto legal o del Ejecutivo, solamente podrán ser suprimidas o modificadas por iniciativa del propio Ejecutivo.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
 
@@ -1919,7 +1857,7 @@ IX. Rendir al Pleno del Poder Legislativo y al Titular del Poder Ejecutivo los i
 
 X. Las demás que le señalan las leyes, tanto federales como del Estado.
 
-> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 97.
 
@@ -1927,49 +1865,43 @@ El Ministerio Público del Estado de Sonora se organizará en una Fiscalía Gene
 
 Corresponde al Ministerio del Estado la persecución, de todos los delitos, y por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurando que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
-
-La Fiscalía General de Justicia del Estado contará, al menos, con las fiscalías especializadas en materia de delitos electorales y anticorrupción, las cuales tendrán autonomía técnica y de gestión en el ejercicio de sus atribuciones, cuyos titulares serán nombrados y removidos por el Fiscal General de Justicia del Estado.
+La Fiscalía General de Justicia del Estado contará, al menos, con las fiscalías especializadas en materia de delitos electorales y anticorrupción, las cuales tendrán autonomía técnica y de gestión en el ejercicio de sus atribuciones.
 
 Los fiscales especializados en materia de delitos electorales y anticorrupción, propondrán al Fiscal General de Justicia del Estado su organización interna, el cual autorizará lo conducente, de conformidad con la suficiencia presupuestal de dicha dependencia.
 
 Los fiscales especializados en materia de delitos electorales y anticorrupción, ejercerán la acción penal, previo acuerdo y autorización del Fiscal General de Justicia del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 13 DE ENERO DE 2017)</small>
-
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley y su respectiva reglamentación. La aplicación de los criterios de oportunidad deberá ser autorizada por el Fiscal General o por el servidor público en quien se delegue esta facultad.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE ENERO DE 2017)</small>
-
-El nombramiento y remoción de los fiscales especializados antes referidos realizados por el Fiscal General de Justicia del Estado, podrán ser objetados por el Congreso del Estado por el voto de las dos terceras partes de los miembros presentes en la sesión, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
-
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 98.
 
-El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
+El Fiscal General durará en su encargo nueve años. Los Fiscales Especializados durarán en su encargo cuatro años con posibilidad de ser ratificados por las dos terceras partes de los presentes en la sesión correspondiente del Congreso del Estado por un período más.
 
-I.- A partir de la ausencia definitiva del Fiscal General de Justicia del Estado, el Congreso del Estado contará con veinte días para integrar una lista de al menos cinco candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Comité Ciudadano de Seguridad Pública del Estado.
+El Fiscal y Fiscales Especializados serán designados y removidos conforme a lo siguiente:
+
+I.- A partir de la ausencia definitiva, el Congreso del Estado contará con veinte días para integrar una lista de al menos cinco candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Comité Ciudadano de Seguridad Pública del Estado.
 
 El Comité Ciudadano de Seguridad Pública del Estado, una vez recibida la lista referida en el párrafo anterior, contará con diez días para validar la lista de candidatos o en su caso, remitir sus observaciones al Congreso del Estado para que éste proceda a formular una nueva propuesta dentro del mismo plazo referido en el párrafo anterior, respecto de los candidatos que no hayan sido validados.
 
 Una vez que el Comité Ciudadano de Seguridad Pública del Estado valide la lista propuesta por el Congreso del Estado, la remitirá al titular del Poder Ejecutivo.
 
-Si el Ejecutivo no recibe la lista en el plazo de treinta días a partir de la ausencia definitiva del Fiscal General de Justicia del Estado, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+Si el Ejecutivo no recibe la lista en el plazo de treinta días a partir de la ausencia definitiva, enviará libremente al Congreso del Estado una terna y designará provisionalmente a quien habrá de ejercer las funciones correspondientes, hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el ciudadano designado podrá formar parte de la terna.
 
 II.- Una vez que el Ejecutivo reciba la lista validada por el Comité Ciudadano de Seguridad Pública del Estado, a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso del Estado.
 
-III.- El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General de Justicia del Estado con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+III.- El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará por el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
-En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar al Fiscal General de entre los candidatos validados por el Comité Ciudadano de Seguridad Pública del Estado de la lista que señala la fracción I.
+En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar de entre los candidatos validados por el Comité Ciudadano de Seguridad Pública del Estado de la lista que señala la fracción I.
 
-Si el Congreso del Estado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+Si el Congreso del Estado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
 
-IV.- El Fiscal General de Justicia del Estado podrá ser removido por el Ejecutivo Estatal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría simple de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción.
+IV.- El Fiscal General de Justicia del Estado y los Fiscales Especializados podrán ser removidos por el Ejecutivo Estatal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría simple de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción.
 
-V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General de Justicia del Estado.
+V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción según sea el caso.
 
-VI.- Las ausencias del Fiscal General de Justicia del Estado serán suplidas en los términos que determine la ley.
+VI.- Las ausencias del Fiscal General de Justicia del Estado y de los Fiscales Especializados serán suplidas en los términos que determiné la ley.
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
@@ -2131,15 +2063,13 @@ Los Magistrados del Supremo Tribunal de Justicia se distinguirán entre sí por 
 
 Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 116.
 
-El cargo de Magistrado del Supremo Tribunal de Justicia solamente es renunciable por causa grave calificada por el Pleno de (sic) Supremo Tribunal de Justicia. En estos casos, se deberá hacer la notificación correspondiente al Poder Ejecutivo para proceder en términos de esta Constitución.
+El cargo de Magistrado del Supremo Tribunal de Justicia solamente es renunciable por causa grave calificada por el Congreso del Estado.
 
-Las licencias de los Magistrados del Supremo Tribunal de Justicia podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia. Ninguna licencia podrá exceder del término de dos años.
-
-En los casos de jubilación, pensión, cesantía en edad avanzada o incapacidad, no se requerirá la aprobación referida en el primer párrafo, pero si se deberá realizar la notificación correspondiente al Poder Ejecutivo.
+Las licencias de los Magistrados del Supremo Tribunal de Justicia, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia; las que excedan de ese tiempo podrán concederse por la Legislatura local y, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de dos años.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2155,13 +2085,11 @@ Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine l
 
 > <small>[N. DE E., VÉASE LITERALIDAD DE LA PUBLICACIÓN DEL B.O. DE FECHA 13 DE AGOSTO DE 2018, PÁGINA 11]</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE AGOSTO DE 2018)</small>
+(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE AGOSTO DE 2018
 
-El Supremo Tribunal de Justicia, por conducto de su Presidente, deberá rendir al Congreso y al Gobernador del Estado, un informe anual por escrito, que le soliciten sobre el ramo judicial.
+El Supremo Tribunal de Justicia, por conducto de su Presidente, deberá rendir al Congreso y al Gobernador del Estado, los informes que le soliciten sobre el ramo judicial.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-La resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo del Poder Judicial del Estado de Sonora, cuyos integrantes serán designados conforme a las leyes respectivas. Antes de acudir al Juzgado Laboral competente, los trabajadores y patrones deberán agotar la etapa conciliatoria correspondiente.
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2625,39 +2553,11 @@ Los recursos que integran la Hacienda municipal serán ejercidos en forma direct
 
 Declaración de Desaparición de Ayuntamientos y Suspensión o Revocación del Mandato de sus Miembros.
 
-> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 140.
 
-El Congreso del Estado, por el voto de las dos terceras partes de sus miembros, puede suspender Ayuntamientos y declarar que éstos han desaparecido, así como suspender o revocar el mandato de alguno de sus miembros en lo individual, por causa grave de las establecidas en esta Constitución.
-
-Se puede revocar el mandato de alguno de los miembros o declarar la desaparición del ayuntamiento en los supuestos siguientes:
-
-I.- Cuando exista falta absoluta o de la mayoría de los integrantes de un Ayuntamiento.
-
-II.- Cuando se suscite entre los integrantes de un Ayuntamiento, o entre éste y la comunidad, conflicto que haga imposible el cumplimiento de los fines del mismo, o el ejercicio de sus funciones.
-
-III.- Por cualquier causa grave que impida el ejercicio de las funciones del Ayuntamiento conforme al orden constitucional federal o local, siempre que dicha causa no derive de la diferencia de criterios en el ejercicio de sus funciones o la libre manifestación de ideas.
-
-El Congreso del Estado procederá a decretar la suspensión de un Ayuntamiento cuando éste incurra en cualesquiera de las siguientes causas:
-
-I.- Por quebrantar los principios del régimen jurídico, político o administrativo interior del Estado.
-
-II.- Por actos u omisiones que lesionen la integridad del territorio del Estado o su soberanía, libertad e independencia interior.
-
-III.- Por actos u omisiones que transgredan las garantías individuales y sociales que consagran la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Sonora.
-
-IV.- Por ejercer atribuciones que las leyes no les confieran o rehusar obligaciones que la ley les impone.
-
-V.- Por permitir que los extranjeros se inmiscuyan en asuntos de política interna del Estado o de los municipios.
-
-VI.- Por violaciones a las normas jurídicas que rijan los procesos electorales.
-
-VII.- Por desacato a las instrucciones y mandatos que en uso de sus atribuciones y legalmente fundadas y motivadas les fueren giradas por los Supremos Poderes del Estado, en aras del interés general.
-
-VIII.- Por promover o adoptar forma de gobierno o bases de organización política distintas de las señaladas en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
-
-En el procedimiento que se substancie, los miembros del Ayuntamiento involucrados tendrán oportunidad suficiente para rendir pruebas y formular los alegatos que consideren convenientes. El Gobernador del Estado tendrá la participación que le asigne la Ley.
+La Ley de Gobierno y Administración Municipal establecerá las bases y señalará las causas para que el Congreso del Estado, por el voto de las dos terceras partes de sus miembros, pueda suspender Ayuntamientos, declarar que éstos han desaparecido, así como suspender o revocar el mandato de alguno de sus miembros en lo individual, por alguna causa grave prevista por la Ley. En el procedimiento que se substancie, los miembros del Ayuntamiento involucrados tendrán oportunidad suficiente para rendir pruebas y formular los alegatos que consideren convenientes. El Gobernador del Estado tendrá la participación que le asigne la Ley.
 
 > <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
@@ -2685,9 +2585,11 @@ Se reputará como servidor público para los efectos de este título y será res
 
 En los términos y condiciones que establezca la Ley respectiva los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, fiscal y de intereses.
 
-Las causas graves a las que se refiere esta Constitución para la remoción (sic) los cargos públicos relacionados a los titulares de los Organismos Constitucionales Autónomos, el Poder Judicial y el Poder Legislativo serán las previstas en la Ley General de Responsabilidades.
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-El procedimiento de remoción solo podrá ser iniciado a petición del Congreso del Estado por votación de dos terceras partes. La solicitud de inicio de dicho procedimiento no prejuzga sobre los hechos, ni tiene efectos vinculatorios. El Tribunal de Justicia Administrativa resolverá en plenitud de jurisdicción sobre el caso que se promueva y sus resoluciones serán definitivas e inatacables.
+Las causas graves a las que se refiere esta Constitución para la remoción los cargos públicos relacionados a los titulares de los Organismos Constitucionales Autónomos, el Poder Judicial y el Poder Legislativo serán las que determine la Ley Estatal de Responsabilidades Administrativas.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -2727,9 +2629,9 @@ II.- La comisión de delitos por parte de cualquier servidor público o particul
 
 III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
 
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-Las faltas administrativas graves serán investigadas y substanciadas por el Instituto Superior de Auditoría y Fiscalización y los órganos internos de control, según corresponda, y serán resueltas por la Sala Especializada del Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+Las faltas administrativas graves serán investigadas y substanciadas por el Instituto Superior de Auditoría y Fiscalización y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
 > <small>(REFORMADO, B.O. 22 DE MARZO DE 2018)</small>
 
@@ -2737,9 +2639,9 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
 
-> <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-IV.- La Sala Especializada del Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos, la sanción se ejecutará hasta que la resolución sea definitiva. La ley establecerá los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+IV.- El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos, la sanción se ejecutará hasta que la resolución sea definitiva. La ley establecerá los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
@@ -2959,15 +2861,13 @@ Artículo 162 C. (DEROGADO, B.O. 5 DE MAYO DE 1954)
 
 Reforma e inviolabilidad de esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 163.
 
-Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que hayan sido acordadas por las dos terceras partes de los miembros de un Congreso y aprobadas por las dos terceras partes de los Ayuntamientos del Estado.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que hayan sido acordadas por las dos terceras partes de los miembros de un Congreso y aprobadas por la mayoría del número total de los Ayuntamientos del Estado.
 
-> <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
-
-Los ayuntamientos deberán pronunciarse a favor o en contra de las adiciones o reformas a la Constitución dentro del término de 60 días a partir de que el Congreso se las notifique.
+Los ayuntamientos deberán pronunciarse a favor o en contra de las adiciones o reformas a la Constitución dentro del término de 45 días naturales a partir de que el Congreso se las notifique. En caso de no hacerlo, se entenderá como aprobación tácita.
 
 ###### Artículo 164.
 
@@ -2989,85 +2889,9 @@ Mecanismos de Control Constitucional Local.
 
 Mecanismos de Control Constitucional Local.
 
-> <small>(ADICIONADO, B.O. 13 DE AGOSTO DE 2018)</small>
-
 ###### Artículo 166.
 
-Los mecanismos de control constitucional local se erigen con instrumentos que brindarán un sistema de contrapesos entre los distintos poderes y órdenes de gobierno del Estado de Sonora, con lo cual se logará (sic) mantener el principio de supremacía constitucional.
-
-Los mecanismos de control constitucional local tienen por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 41, 99, 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
-
-El Pleno del Supremo Tribunal de Justicia, en su carácter de Tribunal Constitucional Local conocerá, en los términos que establezca la ley, de los medios de control siguientes:
-
-I. De las controversias constitucionales locales que se susciten entre:
-
-a. El Poder Ejecutivo y el Legislativo;
-
-b. El Poder Ejecutivo y uno o más Municipios del Estado;
-
-c. El Poder Legislativo y uno o más Municipios del Estado;
-
-d. El Poder Legislativo y una o más entidades paraestatales o paramunicipales del Estado;
-
-e. Un Municipio y otro u otros del Estado;
-
-f. Uno o más Municipios y una o más entidades paraestatales o paramunicipales del Estado;
-
-g. Una o más entidades paraestatales y otra u otras paramunicipales del Estado.
-
-h. Uno o más organismos públicos autónomos y otro u otros órganos del gobierno estatal y/o municipal.
-
-Las controversias constitucionales locales se sujetarán a lo siguiente:
-
-a. Podrán promoverse por cualquiera de las partes, según la controversia de que se trate. En las que el Ejecutivo sea parte, podrá estar representado por el titular de la Secretaría de la Consejería Jurídica.
-
-El Fiscal General del Estado, podrá promover en materia penal, así como las relacionadas con el ámbito de sus funciones.
-
-b. La controversia tendrá por objeto resolver sobre si el acto o los actos reclamados son conformes o contrarios a esta Constitución, y por vía de consecuencia declarar su validez o invalidez.
-
-c. Las resoluciones que pronuncie el Supremo Tribunal de Justicia, tendrán efectos de cosa juzgada únicamente respecto de las partes que intervinieron en la controversia. Sólo en los casos en que se forme jurisprudencia local tendrá efectos generales.
-
-d. La ley establecerá el procedimiento a que deberán sujetarse las partes para dirimir la controversia.
-
-(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2018 Y SU ACUMULADA 75/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL 11 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II. De las acciones de inconstitucionalidad local que tengan por objeto plantear la posible contradicción entre una norma o acuerdo de carácter general y esta Constitución, LAS QUE DEBERÁN RESOLVERSE CON BASE EN LO ESTABLECIDO EN EL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Las acciones de inconstitucionalidad se sujetarán a lo siguiente:
-
-A. Se podrán promover en forma abstracta por:
-
-a) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente.
-
-b) El equivalente al 35 por ciento de los integrantes del Poder Legislativo.
-
-c) El equivalente al 35 por ciento de los integrantes de los Ayuntamientos.
-
-d) El organismo público autónomo, por conducto de quien le represente legalmente.
-
-e) El Fiscal General del Estado, en materia penal, así como las relacionadas con el ámbito de sus funciones.
-
-f) Los partidos políticos nacionales y estatales con registro debidamente acreditado ante la autoridad electoral que corresponda, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el Congreso del Estado.
-
-B. Se ejercitarán dentro de los treinta días naturales siguientes a la fecha de publicación oficial de la norma, o en su defecto, que se haya hecho la notificación del acto que la motiva.
-
-C. Procederán contra:
-
-a) Las leyes, decretos o puntos de acuerdos que apruebe el Congreso del Estado o la Diputación Permanente.
-
-b) Los reglamentos, acuerdos, decretos y demás normas administrativas de carácter general expedidas por el poder Ejecutivo, organismos públicos autónomos y demás entidades públicas con facultad reglamentaria.
-
-c) Los bandos de policía y de gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, expedidas por los Ayuntamientos.
-
-d) Las normas de carácter general que expidan los organismos públicos autónomos.
-
-e) Las demás normas de carácter general, salvo las que dicte el Pleno del Supremo Tribunal de Justicia.
-
-f) La omisión normativa consistente en la falta de regulación legislativa o reglamentaria.
-
-D. Las resoluciones del Pleno del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas con efectos generales, siempre que fueren aprobadas por la mayoría absoluta de sus miembros y tendrá efectos de cosa juzgada en los términos que establezca la ley.
-
-La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerdos legislativos en materia electoral, es la prevista en este artículo, sin perjuicio del control difuso que ejercerá el Tribunal Estatal Electoral en los términos de esta Constitución.
+(DEROGADO, B.O. 4 DE NOVIEMBRE DE 2021)
 
 ## TRANSITORIOS
 
@@ -4328,3 +4152,71 @@ V.- No haber ocupado un cargo de elección popular cuando menos un año antes de
 VI.- No haber sido Secretario General Sindical; y
 
 VIII (SIC).- No haber sido Presidente de alguna Junta de Conciliación Laboral cuando menos un año antes de la designación.
+
+B.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 2, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado (sic) de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobado la presente Ley por cuando menos las dos terceras partes de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto a la designación de los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, por el Congreso del Estado contará con un plazo máximo de 15 días naturales, contados a partir de la entrada en vigor de la presente ley para publicar en los medios de comunicación impresos de mayor circulación en el Estado y en el Boletín Oficial del Estado de Sonora las bases y convocatoria para elegir a las y los ciudadanos que integrarán el referido Instituto.
+
+A efecto de garantizar la sustitución escalonada que señala la fracción V, apartado A del artículo 2 de la presente Ley, los integrantes del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, serán nombrados por única ocasión por los siguientes períodos:
+
+I. Presidente – 7 años;
+
+II. Comisionado – 5 años; y
+
+III. Comisionado – 3 años.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Órgano de Control Interno, Oficial Mayor y personal administrativo de nivel subdirector y superiores del Congreso del Estado deberán ser ratificados por las dos terceras partes de los integrantes de la Legislatura en la siguiente sesión ordinaria posterior a la entrada en vigor de la presente Ley. De no lograrse la ratificación por parte de los integrantes de la Legislatura por acuerdo de los integrantes de la Comisión de Régimen Interno y Concertación Política se designarán a los encargados de despacho.
+
+Posteriormente a la designación de los encargados de despacho; el Congreso del Estado en un plazo máximo de 15 días naturales deberá designar con el voto de las dos terceras partes de los integrantes de la Legislatura a los nuevos funcionarios.
+
+Dentro del plazo de 60 días naturales siguientes se emitirán las bases para la implementación del Servicio Profesional de Carrera en el Poder Legislativo del Estado, que deberá contener como requisitos, no haber sido condenado por sentencia firme por violencia política de género o pensión alimenticia.
+
+###### ARTÍCULO CUARTO.
+
+La Mesa Directiva del Congreso del Estado electa para el mes de septiembre del 2021 seguirá en funciones hasta que termine el primer periodo ordinario de sesiones de la LXIII Legislatura.
+
+El Congreso del Estado contará con un plazo no mayor a 15 días naturales para conformar e integrar las comisiones en los términos de su propia Ley Orgánica.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones relativas a la competencia que se le otorga al Tribunal de Justicia Administrativa para conocer de los procedimientos de responsabilidad iniciados con anterioridad a la entrada en vigor (sic) la presente Ley, en sustitución de la Sala Especializada Anticorrupción, entrarán en vigor el mismo día que la presente Ley. Dichos procedimientos serán distribuidos entre los órganos que conforman el Tribunal de Justicia Administrativa en los términos de su normatividad interna.
+
+Los Magistrados que, al momento de la entrada en vigor del presente ordenamiento, se encuentren en funciones en la Sala Especializada en Materia de Anticorrupción y de Responsabilidades Administrativa (sic), serán separados de sus cargos en la fecha de entrada en vigor de la presente Ley. El Estado sólo estará obligado a pagar la indemnización constitucional, sin que en ningún caso proceda su reincorporación al servicio.
+
+A partir de la entrada en vigor de la presente ley, todas las disposiciones que se refieran a la Sala Especializada en Materia Anticorrupción y de Responsabilidades Administrativas se entenderán referidas al Tribunal de Justicia Administrativa.
+
+Los recursos humanos, financieros, materiales, así como los bienes muebles e inmuebles y contratos celebrados por la Sala Especializada en Materia de Anticorrupción y de Responsabilidades Administrativas se transferirán al Tribunal de Justicia Administrativa del Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+Los Fiscales Especializados que se encuentren en funciones al momento de la entrada en vigor del presente ordenamiento, deberán ser ratificados por al menos dos terceras partes de la Legislatura en la siguiente sesión ordinaria posterior a la entrada en vigor de la presente Ley. De no lograrse la ratificación por parte de los integrantes de la Legislatura, se entenderá entonces la ausencia definitiva y se estará en lo dispuesto en el Artículo 98, fracción I de la Constitución del Estado Libre y Soberano de Sonora.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presenta (sic) Ley, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de un plazo de 120 días naturales, contados a partir de la entrada en vigor de esta Ley, el Congreso del Estado deberá realizar las adecuaciones que resulten pertinentes, entre otras, a las leyes en materia Municipal, de la Fiscalía, de Transparencia, de Justicia Administrativa, de Responsabilidades Administrativas y a la Ley Orgánica del Poder Legislativo, de tal manera que dichos ordenamientos sean congruentes con las disposiciones de esta reforma constitucional.
+
+B.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “LEY NÚMERO 3, QUE REFORMA EL ARTÍCULO 29 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en su caso de resultar aprobada la presente Ley por las dos terceras partes de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
