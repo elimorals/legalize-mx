@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2020-03-17"
+last_updated: "2021-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -941,71 +941,29 @@ Cuando proceda la separación, remoción o inhabilitación de (sic) servidor pú
 
 La cancelación del certificado deberá registrarse en los términos del Sistema Nacional de Seguridad Pública.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
 ### CAPÍTULO IX. DE LOS OFICIALES SUBALTERNOS
 
 ###### ARTÍCULO 34.
 
-La Fiscalía General del Estado podrá, en el desempeño de sus funciones, auxiliarse de Oficiales Subalternos que, previa autorización del Fiscal General, serán nombrados por el Presidente Municipal que corresponda. El Fiscal General los adscribirá a una Fiscalía, en razón del territorio del Municipio cuyo titular los nombre.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2021)
 
 ###### ARTÍCULO 35.
 
-Los Oficiales Subalternos durarán en su cargo un año improrrogable, al cabo del cual cesarán automáticamente sus funciones, salvo que previamente sean de nuevo autorizados y nombrados en los términos del artículo anterior.
-
-Los Municipios decidirán el número de Oficiales Subalternos que propongan y la retribución económica que, con cargo a su presupuesto, se les otorgará.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2021)
 
 ###### ARTÍCULO 36.
 
-Para ser nombrado Oficial Subalterno deberán cubrirse los requisitos siguientes:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
-
-II. No haber sido condenado por delito doloso;
-
-III. Gozar de buena fama en su lugar de residencia;
-
-IV. Tener como mínimo dos años de residencia en el Municipio para el cual sea propuesto;
-
-V. Acreditar haber cursado por lo menos la instrucción media superior;
-
-VI. Tener un modo honesto de vivir, no ser adicto a estupefacientes, enervantes, psicotrópicos o cualquier sustancia que produzca un efecto similar, ni tener el hábito del alcoholismo;
-
-VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en términos de las leyes aplicables; y
-
-VIII. Tener veinte años de edad cumplidos al día de su designación.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2021)
 
 ###### ARTÍCULO 37.
 
-Los Oficiales Subalternos tendrán a su cargo las obligaciones siguientes:
-
-I. Auxiliar al Fiscal correspondiente, en el despacho de las diligencias urgentes que éste no pueda desahogar en razón de las modalidades de tiempo, lugar y ocasión en que se realizó la conducta delictiva;
-
-II. Elaborar el acta correspondiente de aquellas conductas que lleguen a su conocimiento y puedan ser constitutivas de delito, y remitirla inmediatamente al Fiscal de su adscripción;
-
-III. Cumplir las instrucciones que le gire el Fiscal de su adscripción, para la práctica de aquellas diligencias urgentes, tendentes al aseguramiento del lugar de los hechos, de los indicios, instrumentos del delito y protección de las víctimas del mismo;
-
-IV. Respetar en el desempeño de sus funciones, bajo su más estricta responsabilidad, los derechos humanos de todas las personas;
-
-V. Expedir constancias de la denuncia por la pérdida o extravío de objetos o documentos, sin prejuzgar de la veracidad de los hechos asentados;
-
-VI. Rendir dentro de los 10 primeros días de cada mes, al Fiscal de su adscripción, un informe de las actividades realizadas y los asuntos en los que haya intervenido durante el mes anterior;
-
-VII. Rendir anualmente un informe de sus actividades, en los términos que establezca el Fiscal General del Estado; y
-
-VIII. Las demás que determine el Fiscal General del Estado.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2021)
 
 ###### ARTÍCULO 38.
 
-Queda estrictamente prohibido a los Oficiales Subalternos:
-
-I. Recibir detenidos o intervenir en cualquier diligencia relacionada con la privación de la libertad de una persona;
-
-II. Cobrar a los particulares por las actividades que realice o los servicios que preste;
-
-III. Expedir Constancias de No Antecedentes Penales o cualquier otra clase de certificaciones;
-
-IV. Realizar actos de autoridad; y
-
-V. Las demás que determine el Reglamento de esta Ley y las normas aplicables.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2021)
 
 ## TÍTULO CUARTO. DE LAS RESPONSABILIDADES Y OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
@@ -1882,3 +1840,13 @@ CUARTO. La Fiscalía General del Estado de Puebla deberá acordar lo conducente 
 QUINTO. Dentro del plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, el Fiscal General deberá emitir el Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Puebla y dentro del plazo de noventa días naturales a partir de la emisión de este último, el Reglamento Interior de la Fiscalía General del Estado de Puebla, los cuales deberán estar armonizados con el presente Decreto.
 
 SEXTO. El Órgano Interno de Control contará con un término de noventa días naturales a partir de la entrada en vigor del presente Decreto para emitir el nuevo Código de Ética.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA EL CAPÍTULO IX, DEL TÍTULO TERCERO Y LOS ARTÍCULOS 34, 35, 36, 37 Y 38 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Fiscal General del Estado, a partir de la entrada en vigor del presente Decreto, contará con un término de 90 días naturales, para que, en caso de que cuente con personas que desempeñen el cargo de oficial subalterno, les solicite que concluyan sus diligencias y funciones.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
