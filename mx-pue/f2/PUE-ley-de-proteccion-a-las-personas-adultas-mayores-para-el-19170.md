@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2020-10-23"
+last_updated: "2021-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -121,11 +121,17 @@ VII.- Promover y diseñar, de manera coordinada con la Secretaría de Turismo y 
 
 VIII.- Impulsar con los sectores público, social y privado políticas preferenciales para las personas adultas mayores, que comprendan precios especiales o gratuitos en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y transporte;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-IX.- Implementar de forma continua y permanente programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto a sus derechos humanos y dignificación hacia ellas, y
+IX.- Implementar de forma continua y permanente programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto a sus derechos humanos y dignificación hacia ellas;
 
-X.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+X.- Promover y gestionar, el otorgamiento de descuentos en trámites notariales extraordinarios para las personas adultas mayores que acrediten incapacidad económica; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA]], P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+XI.- Las demás que determine el presente ordenamiento legal, otras disposiciones aplicables y la persona titular del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -161,7 +167,9 @@ XII.- Informar oportunamente de las condonaciones y descuentos a que se refieren
 
 XIII.- Promover y gestionar apoyos en colaboración con dependencias o entidades de los tres órdenes de gobierno, a aquéllos que carezcan de los medios necesarios para subsistir, y
 
-XIV.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+XIV.- Las demás que determine el presente ordenamiento legal, otras disposiciones aplicables y las personas titulares del Poder Ejecutivo del Estado y del Municipio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -177,9 +185,9 @@ La presente Ley reconoce como derechos de las personas adultas mayores:
 
 I.- Tener acceso a toda la información gerontológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la adultez mayor;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-II.- Recibir orientación jurídica y social, por parte de los SMDIF, quienes en forma conjunta con otros organismos públicos y privados, implementarán programas de atención para las personas adultas mayores;
+II.- Recibir de manera oportuna orientación jurídica y social, por parte de los "SEDIF" o "SMDIF" quienes, en forma conjunta con otros organismos públicos y privados, implementarán programas de atención para las personas adultas mayores y proporcionarán la información adecuada para realizar los trámites de su jubilación;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
@@ -193,7 +201,9 @@ IV.- Residir dignamente en sus hogares y cerca de sus familiares hasta el últim
 
 V.- Gozar del respeto a sus derechos humanos y ser protegidos contra toda forma de explotación;
 
-VI.- Seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+VI.- Seguir siendo parte activa de la sociedad, recibiendo en condiciones de igualdad la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente, siempre y cuando otorguen su voluntad.
 
 VII.- Formar parte de las bolsas de trabajo de las instituciones oficiales y particulares;
 
@@ -205,9 +215,9 @@ X.- Participar en actividades cívicas y tradicionales, si así lo consideran co
 
 XI.- Disfrutar de asistencia social, de acuerdo con lo establecido en las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-XII.- Alcanzar los beneficios a la salud, para lograr el bienestar físico y mental, así como recibir orientación y capacitación para tener una nutrición adecuada y apropiada;
+XII.- Alcanzar los beneficios a la salud, para lograr el bienestar físico y mental, así como recibir orientación y capacitación para tener una nutrición e higiene adecuadas y apropiadas;
 
 XIII.- Obtener atención de calidad con componentes gerontológicos y geriátricos en los diversos niveles de atención a la salud;
 
@@ -493,9 +503,9 @@ Cualquier persona podrá hacer del conocimiento de las autoridades competentes, 
 
 La calidad de vida de las personas adultas mayores deberá ser garantizada en todo momento por su familia, la cual proporcionará los satisfactores de las necesidades básicas de cuidado, atención y desarrollo integral, teniendo además las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-I.- Evitar que se cometa cualquier acto de discriminación, abuso, explotación, tortura, aislamiento, prepotencia, perjuicio, daño, maltrato, agresión, trata de personas o violencia en contra de la persona adulta mayor;
+I.- Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, tortura, aislamiento, prepotencia, perjuicio, daño, maltrato, agresión, trata de personas, violencia o abandono, en contra de la persona adulta mayor;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -680,6 +690,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, IV Y V DEL ARTÍCULO 2 BIS Y ADICIONA LA FRACCIÓN VI AL 2 BIS DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX Y X DEL ARTÍCULO 3, LA FRACCIÓN XIV DEL ARTÍCULO 3 BIS, LAS FRACCIONES II, VI Y XII DEL 4, Y LA FRACCIÓN I DEL 33 Y ADICIONA LA FRACCIÓN XI AL 3 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
