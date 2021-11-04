@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2021-08-13"
+last_updated: "2021-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -823,13 +823,27 @@ A los particulares que cometan una conducta descrita como infracción a esta Ley
 
 (DEROGADO, P.O. 18 DE MAYO DE 2018)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 51.
 
-Para los efectos de esta Ley y su Reglamento, son sanciones las siguientes:
+Para efectos de esta Ley y su Reglamento, son sanciones las siguientes:
 
-I. Amonestación; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-II. Multa.
+I. Amonestación;
+
+(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021).
+
+II. Multa, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+III. Cancelación de la licencia en los supuestos previstos por las leyes.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. 4 DE NOVIEMBRE DE 2021]</small>
+
+La cancelación de la licencia podrá ser definitiva o por tiempo determinado.
 
 Para la imposición de las sanciones establecidas en el presente artículo, las autoridades viales deberán cumplir con las generalidades que establezca la presente Ley, así como el procedimiento que señale el Reglamento, el cual especificará las formalidades del mismo y los supuestos en que operará la retención de los vehículos. En caso de la imposición de una multa, las autoridades viales deberán determinar la misma en términos del tabulador que se establezca en el Reglamento.
 
@@ -968,6 +982,14 @@ TERCERO. La Secretaría de Movilidad y Transporte, se deberá coordinar con la S
 P.O. 13 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 9 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA; ASÍ MISMO REFORMA LAS FRACCIONES XII, XIII Y XXXVII DEL ARTÍCULO 4, LAS FRACCIONES VI Y VII DEL 7, LA FRACCIÓN IV DEL 5, EL 8, EL PRIMER PÁRRAFO DEL 9, LA FRACCIÓN VII DEL 18, LA FRACCIÓN IX DEL APARTADO B) DEL 18 BIS, Y LOS ARTÍCULOS 42, 44, 46 Y 55 DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 85 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 85 BIS, ADICIONA EL ARTÍCULO 323 BIS, Y DEROGA LA FRACCIÓN I DEL ARTÍCULO 85 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ MISMO REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 51, Y ADICIONA LA FRACCIÓN III AL 51 DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
