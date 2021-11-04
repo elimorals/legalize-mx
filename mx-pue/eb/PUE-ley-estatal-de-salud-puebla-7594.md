@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2021-11-03"
+last_updated: "2021-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -311,7 +311,9 @@ X. Coadyuvar con las dependencias federales competentes a la regulación y contr
 
 XI. Promover el establecimiento de un sistema estatal de información básica en materia de salud;
 
-XII. Apoyar la coordinación entre las instituciones de salud y las educativas estatales y federales para formar y capacitar recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+XII. Apoyar la coordinación entre las instituciones de salud y las educativas estatales y federales para diseñar, proponer desarrollar y aplicar acciones de prevención del suicidio, así como formar y capacitar recursos humanos para la salud;
 
 XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del sistema estatal de salud;
 
@@ -401,9 +403,17 @@ V. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad l
 
 VI. Vigilar, en la esfera de su competencia, el cumplimiento de ésta Ley y demás disposiciones legales aplicables, y;
 
-VII. Promover la creación de Comités de Bioética, cuya integración y funcionamiento se regirá por las disposiciones reglamentarias que se expidan
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-VIII. Las demás que establezca ésta Ley y otras disposiciones legales aplicables.
+VII. Promover la creación de Comités de Bioética, cuya integración y funcionamiento se regirá por las disposiciones reglamentarias que se expidan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Realizar campañas de educación en materia de salud sexual, reproductiva e higiene menstrual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+IX. Las demás que establezca ésta Ley y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -425,13 +435,17 @@ V. Coordinar con las autoridades educativas la implementación de un programa de
 
 VI. Emitir un listado de productos con bajo o nulo valor nutricional, así como aquéllos que causen daño directo e inmediato a la salud, manteniéndolo actualizado y difundirlo a través de las autoridades educativas de la Entidad, así como difundir los resultados que se alcancen entre los padres de familia;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-VII. Vigilar que los establecimientos destinados a la venta y consumo de alimentos y/o bebidas que cuenten con más de dos sucursales, publiquen en un lugar visible el listado, carta o menú, las calorías que contiene cada alimento o bebida; y
+VII. Vigilar que los establecimientos destinados a la venta y consumo de alimentos y/o bebidas que cuenten con más de dos sucursales, publiquen en un lugar visible el listado, carta o menú, las calorías que contiene cada alimento o bebida;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-VIII. Promover acciones en materia de control sanitario de los establecimientos y servicios establecidos en la fracción V del apartado B del artículo 4º de la presente Ley, incluyendo la capacitación.
+VIII. Promover acciones en materia de control sanitario de los establecimientos y servicios establecidos en la fracción V del apartado B del artículo 4º de la presente Ley, incluyendo la capacitación; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
+IX. Procurar suministrar de forma gratuita y permanente, métodos anticonceptivos y productos de higiene menstrual.
 
 ###### ARTICULO 13.
 
@@ -1501,9 +1515,9 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
-III. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucodental, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+III. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucodental, higiene menstrual, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2016)</small>
 
@@ -1825,9 +1839,11 @@ Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e
 
 En estos casos, las Instituciones de salud del Estado, deberán tomar las medidas inmediatas que sean necesarias para la protección de la salud de las niñas, niños y adolescentes y en los casos procedentes, dar intervención a las autoridades competentes. En el caso de personas adultas mayores víctimas de maltrato o abandono, se deberá reportar de inmediato al Sistema Estatal para el Desarrollo Integral de la Familia para que realice las acciones conducentes y se solicite a la familia un reporte de lo sucedido y en caso de ser procedente, se solicite la intervención de la Fiscalía General del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTICULO 166.
 
-El Gobierno del Estado y los Ayuntamientos promoverán la creación de establecimientos en los que se de atención a personas con padecimientos mentales, a niños desprotegidos y ancianos desamparados.
+El Gobierno del Estado y los Ayuntamientos deberán promover e incentivar la creación de establecimientos en los que se de atención a personas con padecimientos mentales, a niños desprotegidos, personas adultas mayores desamparadas y en abandono, así como centros de atención exclusivos para personas con discapacidad.
 
 ###### ARTICULO 167.
 
@@ -3502,6 +3518,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE NOVIEMBRE DE 2021
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 56 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 166 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII Y VIII DEL APARTADO B, LAS FRACCIONES VII Y VIII DEL APARTADO C DEL ARTÍCULO 12 Y LA FRACCIÓN III DEL 130, Y ADICIONA LA FRACCIÓN IX DEL APARTADO B Y LA FRACCIÓN IX DEL APARTADO C AL ARTÍCULO 12, TODOS DE LA LEY ESTATAL DE SALUD".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
