@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2021-10-28"
+last_updated: "2021-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 3 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -1637,11 +1637,13 @@ Cuando con posterioridad al registro del vehículo del Servicio Público de Tran
 
 ### CAPÍTULO V. LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS Y DE LAS EMPRESAS DE REDES DE TRANSPORTE
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 85.
 
-Los concesionarios, los permisionarios y las Empresas de Redes de Transporte tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento, o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sea eficiente, segura y con apego a las políticas de igualdad de género, no discriminación y respeto a los derechos humanos, con sujeción a las disposiciones de la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
+Las personas concesionarias y permisionarias y las Empresas de Redes de Transporte tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductoras y conductores la capacitación, adiestramiento, o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sea eficiente, segura y con apego a las políticas de igualdad de género, no discriminación y respeto a los derechos humanos de todas las personas, y en especial de las y los usuarios que pertenezcan a algún grupo vulnerable, con sujeción a las disposiciones de la presente Ley, su reglamento y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 También deberán realizar campañas informativas para prevenir la violencia de género, la discriminación o violación de derechos humanos.
 
@@ -2806,6 +2808,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 126 DE LA LEY DE MOVILIDAD Y TRASPORTE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 85 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
