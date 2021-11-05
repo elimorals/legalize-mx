@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2021-05-19"
+last_updated: "2021-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -125,9 +125,9 @@ I.- Promover el bienestar social y económico de los productores, de sus comunid
 
 II.- Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción integral del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-III.- Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria de la Entidad; contemplando a los productores y agentes intervinientes, así como a los pequeños productores en condiciones de pobreza;
+III. Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria de la Entidad; contemplando a los productores y agentes intervinientes, de manera prioritaria a los pequeños productores en condiciones de pobreza;
 
 IV.- Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable; y
 
@@ -1490,3 +1490,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado una vez a la entrada en vigor del presente Decreto, contará con ciento ochenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
