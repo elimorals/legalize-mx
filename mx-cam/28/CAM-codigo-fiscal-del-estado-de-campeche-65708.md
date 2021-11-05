@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2020-03-25"
+last_updated: "2021-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -781,7 +781,13 @@ XV. Los adquirentes de giros o negociaciones comerciales, industriales, agrícol
 
 XVI. Los representantes de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de presentación, o que no estén autorizados para girar los cheques a cargo del librado; y
 
-XVII. Las demás personas que señalen las leyes fiscales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+XVII. La persona física o moral que subcontrate servicios especializados o la ejecución de obras especializadas con un contratista que incumpla sus obligaciones fiscales, respecto de las contribuciones que se hubieran causado en relación con los trabajadores utilizados para dichas contrataciones, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVII], P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+XVIII. Las demás personas que señalen las leyes fiscales.
 
 En los casos de responsabilidad solidaria, los responsables quedan obligados a cubrir la totalidad de los créditos fiscales, por lo tanto, el fisco puede exigir de cualquiera de ellos simultánea o separadamente el cumplimiento de las obligaciones fiscales.
 
@@ -3472,3 +3478,11 @@ P.O. 25 DE MARZO DE 2020.
 Primero. El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 7 POR EL QUE “SE REFORMA LA FRACCIÓN XVII Y SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 40 DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
