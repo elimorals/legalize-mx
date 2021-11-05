@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2021-10-28"
+last_updated: "2021-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -1683,9 +1683,9 @@ LIII. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 A la Secretaría de Igualdad Sustantiva le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-I. Proponer al Gobernador políticas generales, programas, estrategias y acciones públicas, para construir una sociedad más justa y solidaria, disminuir la desigualdad entre mujeres y hombres así como las prácticas discriminatorias, en cualquiera de sus modalidades para aquellas personas susceptibles de sufrirlas, de conformidad con los tratados internacionales y la legislación nacional y estatal en estas materias; así como formular, orientar, conducir y evaluar de manera integral, las normas, políticas y lineamientos relativos, con una proyección de corto, mediano y largo plazo, en coordinación con las autoridades y entidades competentes de los tres niveles de gobierno, para lo cual deberá observar los objetivos y directivas establecidos en los ordenamientos y programas aplicables;
+I. Proponer a la persona titular del Poder Ejecutivo políticas generales, programas, estrategias y acciones públicas para construir una sociedad más justa y solidaria, disminuir la desigualdad entre mujeres y hombres, promover acciones y políticas para combatir prácticas discriminatorias, en cualquiera de sus modalidades que garanticen inclusión y respeto para aquellas personas susceptibles de sufrirlas, de conformidad con los tratados internacionales y la legislación nacional y estatal en estas materias; así como formular, orientar, conducir y evaluar de manera integral, las normas, políticas y lineamientos relativos, con una proyección de corto, mediano y largo plazo, en coordinación con las autoridades y entidades competentes de los tres niveles de gobierno, para lo cual deberá observar los objetivos y directivas establecidos en los ordenamientos y programas aplicables;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1717,9 +1717,9 @@ VIII. Promover e impulsar acciones afirmativas a través de procesos de transver
 
 IX. Vincularse con los sectores público, privado y social de la entidad, cuyo objeto esté relacionado con las atribuciones de la Secretaría, con la finalidad de establecer líneas de trabajo conjuntas en beneficio de la población, y en congruencia con los programas y normas aplicables;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-X. Desarrollar y articular con los sectores público, privado y social de la entidad, la operación de instrumentos, mecanismos, metodologías y estrategias, para la atención integral de las personas con independencia de la condición en que se encuentren, o que sean susceptibles de ser vulneradas mediante actos de violencia, discriminación, brechas de género o cualquier otro que atente contra sus derechos humanos, así como para la sensibilización de la población, con la finalidad de prevenir, atender, sancionar y erradicar la discriminación y la violencia en su contra, además de vigilar que se cumpla con los principios, tipos, modalidades y mecanismos que garanticen su acceso a una vida libre de violencia, o contribuyan al mejoramiento integral de su calidad de vida y el goce pleno del ejercicio de sus derechos;
+X. Desarrollar y articular con los sectores público, privado y social de la entidad, la operación de instrumentos, mecanismos, metodologías y estrategias, para la atención integral de las personas con independencia de la condición en que se encuentren, o que sean susceptibles de ser vulneradas mediante actos de violencia, intolerancia, exclusión, discriminación, brechas de género o cualquier otro que atente contra sus derechos humanos, así como para la sensibilización de la población, con la finalidad de prevenir, atender, sancionar y erradicar la discriminación y la violencia en su contra, además de vigilar que se cumpla con los principios, tipos, modalidades y mecanismos que garanticen su acceso a una vida libre de violencia, o contribuyan al mejoramiento integral de su calidad de vida y el goce pleno del ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1783,7 +1783,9 @@ XXVI. Gestionar información y estadísticas, con el fin de integrar y elaborar 
 
 XXVII. Promover y observar que la comunicación gubernamental, a través de cualquier medio, contenga un lenguaje incluyente, con perspectiva de género y libre de roles y estereotipos, con el que además se procure la utilización de lenguas indígenas y de señas, y
 
-XXVIII. Los demás que le atribuyen las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el estado.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+XXVIII. Los demás que le atribuyen las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
 
 ## TÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -2102,3 +2104,11 @@ P.O. 28 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, X Y XXVIII DEL ARTÍCULO 48 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
