@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2020-10-22"
+last_updated: "2021-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1209,7 +1209,9 @@ El Concejo Municipal tendrá las mismas facultades que el Ayuntamiento. Los miem
 
 (DEROGADO, P.O. 2 DE OCTUBRE DE 2020)
 
-#### SECCIÓN I. DE LOS PRINCIPIOS Y OBJETIVOS DE LA PLANEACIÓN
+#### SECCIÓN I. DEL SISTEMA Y DEL PROCESO DE PLANEACIÓN MUNICIPAL
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO, ANTES ARTÍCULO 102], P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1405,7 +1407,9 @@ e) La aplicación de las disposiciones jurídicas en materia de prevención y co
 
 f) Las bases para la administración y custodia de las zonas federales y estatales que por convenios sean delegadas al Municipio;
 
-g) La promoción de una cultura de la separación de la basura, e instrumentación de programas de recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos; y
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+g) La promoción de una cultura de la separación de la basura, e instrumentación de acciones y programas que garanticen la recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos; y
 
 h) La reglamentación aplicable respecto de la contaminación visual.
 
@@ -1537,7 +1541,9 @@ V.- Regulación de la satisfacción de urgencias colectivas y procuración del b
 
 VI.- Prevenciones para salvaguardar las garantías constitucionales y los derechos humanos a favor de los particulares, por la comisión de alguna falta o infracción a los reglamentos; y
 
-VII.- Protección y preservación del medio ambiente, así como promoción de una cultura de la separación de la basura, e instrumentación de programas de recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+VII.- Protección y preservación del medio ambiente, así como promoción de una cultura de la separación de la basura, e instrumentación de acciones y programas que garanticen la recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -1727,7 +1733,9 @@ XXXIX.- Procurar el entubamiento y limpieza de las aguas potables, así como la 
 
 XL.- Procurar la construcción y conservación de las fuentes y surtidores públicos de agua y que haya abundancia de este líquido tanto para el consumo de las personas como para abrevadero de los ganados;
 
-XLI.- Promover una cultura de la separación de la basura, y la instrumentación de programas de recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+XLI.- Promover una cultura de la separación de la basura, y la instrumentación de acciones y programas que garanticen la recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos;
 
 XLII.- Cuidar de la alineación de los edificios en las calles;
 
@@ -1957,85 +1965,173 @@ XVIII.- Las demás que les confieran las leyes.
 
 ### CAPÍTULO XI. DE LA PLANEACIÓN DEMOCRÁTICA DEL DESARROLLO MUNICIPAL
 
-#### SECCIÓN II. DEL CONSEJO DE PLANEACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+#### SECCIÓN II. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 101.
 
-Las actividades de la Administración Pública Municipal se encauzarán en función de la Planeación Democrática del Desarrollo Municipal, misma que se llevará a cabo conforme a las normas y principios fundamentales establecidos en la Ley y demás disposiciones vigentes en materia de planeación.
+La planeación municipal es obligatoria y debe llevarse a cabo como un medio para hacer más eficaz el desempeño de la responsabilidad de los Ayuntamientos, sus Dependencias y sus Entidades Administrativas, en relación con el desarrollo integral del Municipio, debiendo tender en todo momento a la consecución de los fines y objetivos políticos, sociales, culturales y económicos contenidos en las leyes vigentes, así como a servir a los altos intereses de la sociedad, con base en el principio de la participación democrática de la sociedad.
+
+Las actividades de planeación en la Administración Pública Municipal se encauzarán en función del Sistema Municipal de Planeación Democrática mismo que se regirá conforme a las normas y principios fundamentales establecidos en la Ley de Planeación para el Desarrollo del Estado de Puebla y demás disposiciones vigentes en materia de planeación.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 102.
 
-La planeación municipal es obligatoria y debe llevarse a cabo como un medio para hacer más eficaz el desempeño de la responsabilidad de los Ayuntamientos, sus dependencias y sus entidades administrativas, en relación con el desarrollo integral del Municipio, debiendo tender en todo momento a la consecución de los fines y objetivos políticos, sociales, culturales y económicos contenidos en las leyes vigentes, así como a servir a los altos intereses de la sociedad, con base en el principio de la participación democrática de la sociedad.
+El Sistema Municipal de Planeación Democrática es el conjunto de procedimientos y actividades mediante los cuales las Dependencias y Entidades de la Administración Pública Municipal, entre sí, y en colaboración con los sectores de la sociedad, toman decisiones para llevar a cabo en forma coordinada y concertada el proceso de planeación, a fin de garantizar el desarrollo integral y sostenible del Municipio.
 
-Conforme a lo anterior, los Ayuntamientos deben conducir el proceso de planeación municipal, fomentando la participación de los diversos sectores y grupos sociales, a través de los foros de consulta, órganos de participación ciudadana y demás mecanismos que para tal efecto prevean la Ley y los ordenamientos municipales.
+El Sistema Municipal de Planeación Democrática se vinculará con el Sistema Estatal de Planeación Democrática, a fin de contribuir al logro de los objetivos estatales y nacionales.
+
+Para efectos de esta Ley, las Personas Titulares de las Presidencias Municipales tienen las siguientes atribuciones:
+
+I. Vigilar la implementación del Sistema Municipal de Planeación Democrática en el ámbito de su competencia;
+
+II. Conducir el proceso de planeación en los Municipios tomando en consideración la participación social, de conformidad con lo dispuesto en la Ley de Planeación para el Desarrollo del Estado de Puebla;
+
+III. Instruir la elaboración del Plan Municipal de Desarrollo y someterlo a aprobación del Ayuntamiento;
+
+IV. Implementar el Sistema de Evaluación del Desempeño para atender el Plan Municipal de Desarrollo, y
+
+V. Las demás previstas en la Ley y demás disposiciones legales aplicables en (sic) materia.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 103.
 
-Los aspectos de la planeación en cada Municipio se llevarán a cabo mediante un Sistema Municipal de Planeación Democrática, cuya organización, funcionamiento y objeto se regirán por lo dispuesto en la Ley aplicable y los demás ordenamientos vigentes, al igual que las etapas y los productos del proceso de planeación.
+El proceso de planeación se refiere al diseño, elaboración y vinculación de las acciones y recursos necesarios para la operación del Plan Municipal de Desarrollo, que conduzca la actividad del Gobierno Municipal, según corresponda en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2009)</small>
+Conforme a lo anterior, los Ayuntamientos deben conducir el proceso de planeación municipal, fomentando la participación de los diversos sectores y grupos sociales, a través de los foros de consulta, órganos de participación ciudadana y demás mecanismos que para tal efecto prevean la Ley y los ordenamientos municipales.
+
+Son instrumentos del proceso de planeación el Plan Municipal de Desarrollo y los Programas que de él deriven.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 104.
 
-El Municipio contará con el Plan de Desarrollo Municipal, como instrumento para el desarrollo integral de la comunidad, en congruencia con los Planes Regional, Estatal y Nacional de Desarrollo, el cual contendrá como mínimo:
+El Municipio contará con el Plan Municipal de Desarrollo como Documento Rector para guiar el desarrollo integral y sostenible de la comunidad, en congruencia con los Planes Regional, Estatal y Nacional de Desarrollo.
 
-I.- Los objetivos generales, estrategias, metas y prioridades de desarrollo integral del Municipio;
+El Plan Municipal de Desarrollo es el documento que establece los principios básicos sobre los cuales se llevará a cabo la Planeación Municipal de Desarrollo, que servirá para orientar el funcionamiento de la Administración Pública Municipal y tendrá los siguientes objetivos:
 
-II.- Las previsiones sobre los recursos que serán asignados a tales fines;
+I. Atender las demandas prioritarias de la población;
 
-III.- Los instrumentos, responsables y plazos de su ejecución; y
+II. Propiciar el Desarrollo Sostenible del Municipio;
 
-IV.- Los lineamientos de política global, sectorial y de servicios municipales.
+III. Asegurar la participación de la sociedad en las acciones del Gobierno Municipal;
+
+IV. Vincular el Plan Municipal de Desarrollo con los Planes de Desarrollo Regional, Estatal y Federal;
+
+V. Aplicar de manera racional los recursos financieros, para el cumplimiento del Plan y los Programas que de él deriven;
+
+VI. Apoyar a las personas en situación de vulnerabilidad para su inclusión a las actividades productivas y culturales en los sectores público, privado y social, conforme al orden jurídico vigente, y
+
+VII. Prever las acciones necesarias para impulsar el desarrollo equitativo; económico, sostenible y social del Municipio.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 105.
 
-El Plan de Desarrollo Municipal establecerá los programas de la Administración Pública Municipal. Las previsiones del Plan se referirán al conjunto de las actividades económicas y sociales y regirán el contenido de los programas y subprogramas operativos anuales.
+El Plan Municipal de Desarrollo y los programas que de él deriven deberán contener lo siguiente:
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2019)</small>
+I. Estar alineados con el Plan Nacional de Desarrollo y al Plan Estatal de Desarrollo, así como a los documentos que de él deriven;
+
+II. Contribuir a los lineamientos de política global, entendiéndose estos como los Acuerdos y Tratados que a nivel internacional haya suscrito México;
+
+III. Contener una estructura lógica metodológica; con los objetivos generales, estrategias, metas y prioridades de desarrollo integral y sostenible del Municipio;
+
+IV. Considerar los elementos necesarios para su instrumentación y asignación de recursos, de acuerdo con los ordenamientos aplicables en materia de presupuesto;
+
+V. Incluir un planteamiento y diagnóstico general sobre la situación actual de los temas prioritarios;
+
+VI. Incluir mecanismos que permitan controlar, dar seguimiento y evaluar la atención de objetivos y el cumplimiento de las metas, así como generar indicadores de cumplimiento y publicar a través de medios electrónicos información relevante conforme a los principios de transparencia proactiva y máxima publicidad, de conformidad con los ordenamientos aplicables;
+
+VII. Determinar a las personas responsables de su instrumentación, control, seguimiento, y evaluación, tomando en cuenta que los programas y acciones que se diseñen e implementen, deberán generar la estadística y los indicadores que den cuenta de la situación de derechos humanos de las mujeres y de la reducción de las brechas de género, especialmente en materia de violencia contra las mujeres y empoderamiento económico, así como los enfoques de atención a pueblos indígenas, niñas, niños, adolescentes, jóvenes, personas con discapacidad, personas adultas mayores y grupos en situación de vulnerabilidad;
+
+VIII. Definir la coordinación interinstitucional, con otros órdenes de gobierno o con los sectores de la sociedad, dependiendo el caso, y
+
+IX. Establecer los lineamientos de política social, económica, cultural y sostenible de carácter global, sectorial y regional, según sea el caso.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 106.
 
-El Plan de Desarrollo Municipal deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal, y deberá publicarse en el Periódico Oficial del Estado. Las reformas o adiciones que el Ayuntamiento apruebe al mismo se realizarán en un plazo de 60 días, posterior a que se aprueben los planes estatal y federal. Su evaluación deberá realizarse por anualidad. Su vigencia será de tres años; sin embargo, se podrán hacer proyecciones que excedan de este periodo en programas que por su trascendencia y beneficio social así lo ameriten. Para este efecto, el Ayuntamiento podrá solicitar cuando lo considere necesario, la asesoría de los Sistemas Nacional y Estatal de Planeación.
+La estructura del Plan Municipal de Desarrollo, y los Programas que de él deriven contendrán lo siguiente:
+
+I. Ejes. Prioridades rectoras de la Planeación del Desarrollo del Municipio que incluyen objetivos, metas, estrategias, indicadores, líneas de acción y las personas responsables de su ejecución;
+
+II. Objetivos. Propósitos que se pretenden alcanzar en un plazo determinado y que expresan las aspiraciones y necesidades de la población, como condicionantes básicas que deben ser viables en su realización y su definición, ser consistentes y operativos, adecuados a (sic) aparato institucional, a las características socioeconómicas del Municipio y a la continuidad en el tiempo;
+
+III. Estrategias. Procedimientos que permiten señalar cómo se alcanzan los objetivos y cumplen las metas que se determinen;
+
+IV. Líneas de acción. Estructuración de acciones que se traducen en Políticas Públicas, Planes, Programas o Proyectos, que se realizan de acuerdo con los objetivos y con base en la estrategia definida;
+
+V. Indicadores. Expresión numérica a partir de variables cuantitativas o cualitativas, que permiten determinar la situación del Municipio sobre un tema en específico y que proporciona un medio sencillo y fiable para medir el cumplimiento de metas y objetivos establecidos, y
+
+VI. Metas. Nivel cuantificable del resultado que se pretende lograr, cuyo cumplimiento contribuye a alcanzar los objetivos fijados.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 107.
 
-El Plan de Desarrollo Municipal tendrá los objetivos siguientes:
+Las actividades necesarias para elaborar el Plan Municipal de Desarrollo y los programas que de él deriven, se deberán elaborar de acuerdo con las siguientes etapas:
 
-I.- Atender las demandas prioritarias de la población;
+I. Investigación: Se refiere a la actividad, que, a través de un enfoque multimodal integrado por elementos cuantitativos y cualitativos, permita efectuar un reconocimiento del entorno social, estudiar los fenómenos e interpretar la realidad, con el objeto de que ésta sea intervenida de manera positiva para beneficio de la sociedad; esta etapa estará a cargo de las Dependencias y Entidades de la Administración Pública Municipal, por lo que, para garantizar el desarrollo idóneo de la investigación, independientemente de las fuentes de información que se consideren, se deberá hacer uso del Sistema Estatal de Información;
 
-II.- Propiciar el desarrollo armónico del Municipio;
+II. Formulación: Se refiere a la actividad racional, instrumental y estructurada destinada a la integración de los instrumentos del proceso de planeación que contengan ejes, objetivos, estrategias, líneas de acción, indicadores y metas que atiendan la protección y garantía de los derechos humanos, y la promoción de los principios que rigen el Sistema Municipal de Planeación Democrática; esta etapa estará a cargo de la instancia que determinen los Ayuntamientos. Para el desarrollo de esta etapa se deberá hacer uso de metodologías como la del Marco Lógico;
 
-III.- Asegurar la participación de la sociedad en las acciones del Gobierno Municipal, en términos del artículo 102 de esta Ley;
+III. Instrumentación: Se refiere a la actividad dirigida a efectuar la ejecución de los instrumentos del proceso de planeación; esta etapa estará a cargo de las Dependencias y Entidades de la Administración Pública Municipal, y podrán coordinarse con el Estado y demás Municipios con el objeto de definir, instrumentar y ejecutar programas de desarrollo conjuntos. Para el desarrollo de esta etapa se deberá hacer uso del modelo metodológico del PbR;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2019)</small>
+IV. Control: Se refiere a las acciones dirigidas a detectar y corregir oportunamente desviaciones e insuficiencias en la instrumentación del Plan Municipal de Desarrollo y los Programas que de él deriven, a fin de prever un ejercicio eficiente de los recursos; esta etapa estará a cargo de la instancia que determine el Ayuntamiento, y podrá instaurar los procedimientos preventivos, correctivos y sancionadores que en su caso corresponda con sujeción a la normatividad aplicable;
 
-IV.- Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Regional, Estatal y Federal, en un plazo de 60 días, a partir de que estos últimos hayan sido aprobados.
+V. Seguimiento: Se refiere a las acciones destinadas a generar la información necesaria para conocer el avance de los objetivos, estrategias, líneas de acción, indicadores y metas del Plan Municipal de Desarrollo y los Programas que de él deriven; esta etapa estará a cargo de la instancia que determine el Ayuntamiento. El Seguimiento, además de lo anterior, podrá realizarse bajo el marco del Sistema de Evaluación del Desempeño;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+VI. Evaluación: Se refiere al análisis sistemático y objetivo del Plan Municipal de Desarrollo y los Programas que de él deriven, con el fin de determinar la pertinencia y el logro de sus objetivos y metas, así como retroalimentar las etapas de Formulación e Instrumentación; esta etapa estará a cargo de la instancia que determinen los Ayuntamientos, quienes podrán promover, en los términos que dispongan las leyes en la materia, la implementación de unidades de evaluación. La Evaluación debe realizarse en el marco del Sistema Municipal de Planeación Democrática y del Sistema de Evaluación del Desempeño, por lo que los Ayuntamientos deberán formular un Programa Anual de Evaluación que permita establecer los instrumentos del proceso de planeación y programas públicos que serán sujetos a seguimiento y evaluación, así como las actividades, las personas responsables, los calendarios de ejecución y las metodologías para su consecución, en congruencia con la normatividad aplicable.
 
-V.- Aplicar de manera racional los recursos financieros, para el cumplimiento del Plan y los programas;
+Las etapas del proceso de planeación se regirán conforme a lo establecido en la Ley de Planeación para el Desarrollo del Estado de Puebla y demás disposiciones vigentes en materia de planeación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-VI.- Apoyar a las personas con discapacidad para su inclusión a las actividades productivas y culturales en los sectores público, privado y social, conforme al orden jurídico vigente; y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-VII.- Prever las acciones necesarias para impulsar el desarrollo económico y social del Municipio.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 108.
 
-El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán obligatorios para las dependencias y entidades de la Administración Pública Municipal.
+El Plan Municipal de Desarrollo se sujetará a los siguientes términos:
+
+I. La integración del Plan Municipal de Desarrollo estará a cargo de la instancia que determine la Persona Titular de la Presidencia Municipal;
+
+II. La Persona Titular de la Presidencia Municipal presentará el Plan Municipal de Desarrollo al Ayuntamiento para su aprobación;
+
+III. El Plan Municipal de Desarrollo deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal;
+
+IV. El Plan Municipal de Desarrollo deberá publicarse en el Periódico Oficial del Estado y en los portales oficiales de la Administración Pública Municipal posterior a la fecha de aprobación;
+
+V. El Plan Municipal de Desarrollo podrá ser modificado o actualizado cuando se publique un nuevo Plan Nacional o Estatal de Desarrollo; se modifiquen Leyes Federales, Acuerdos o Tratados Internacionales suscritos por México; o la Persona Titular de la Presidencia Municipal lo considere necesario y se encuentre debidamente justificado;
+
+VI. Las modificaciones o actualizaciones deberán realizarse en un plazo que no exceda los 60 días hábiles contados a partir de lo previsto en la fracción debiendo ser sometido a aprobación y posteriormente publicado de acuerdo con las fracciones II y IV del presente artículo;
+
+VII. La vigencia del Plan Municipal de Desarrollo no podrá exceder del periodo constitucional que le corresponda; sin embargo, podrá incluir consideraciones y proyecciones de mediano plazo de acuerdo con las políticas estatales, regionales y sectoriales, o en su caso, de largo plazo de acuerdo con las políticas nacionales e internacionales;
+
+VIII. En tanto no se apruebe y publique el documento rector mencionado con antelación, la Administración Pública Municipal, se sujetará a lo contemplado en el Plan Municipal de Desarrollo inmediato anterior;
+
+IX. Su evaluación deberá realizarse por anualidad, y
+
+X. El Ayuntamiento podrá solicitar, cuando lo considere necesario, la asesoría de los Sistemas Nacional y Estatal de Planeación Democrática.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 109.
 
-Una vez publicados los productos del proceso de planeación e iniciada su vigencia, serán obligatorios para toda la Administración Pública Municipal, en sus respectivos ámbitos de competencia; por lo que las autoridades, dependencias, unidades, órganos desconcentrados y entidades que la conforman, deberán conducir sus actividades en forma programada y con base en las políticas, estrategias, prioridades, recursos, responsabilidades, restricciones y tiempos de ejecución que, para el logro de los objetivos y metas de la Planeación Democrática del Desarrollo Municipal, establezca el Plan a través de las instancias correspondientes.
+Una vez publicados los instrumentos del proceso de planeación e iniciada su vigencia, serán obligatorios para toda la Administración Pública Municipal, en sus respectivos ámbitos de competencia; por lo que las Autoridades, Dependencias, Unidades, Órganos Desconcentrados y Entidades que la conforman, deberán conducir sus actividades en forma programada y con base en los objetivos, estrategias, y líneas de acción, del desarrollo integral que lo conforman de una manera equitativa, incluyente, sustentable y sostenible, así como determinar los recursos, responsabilidades, restricciones y tiempos de ejecución que, para el logro de los objetivos y metas de la Planeación Democrática del Desarrollo Municipal, establezca el Plan a través de las instancias correspondientes.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 110.
 
-Los Presidentes Municipales, al rendir su informe anual sobre el estado general que guarda la Administración Pública Municipal, harán mención expresa de las decisiones adoptadas para la ejecución del respectivo Plan de Desarrollo Municipal y los programas derivados de éste, así como de las acciones y resultados de su ejecución, o de las reformas o adiciones que se hubieren realizado. Esta información deberá relacionarse, en lo conducente, con el contenido de la cuenta pública municipal, para permitir que las instancias competentes, analicen las mismas, con relación a los objetivos y prioridades de la planeación municipal.
+Las Personas Titulares de las Presidencias Municipales, al rendir su informe anual sobre el estado general que guarda la Administración Pública Municipal, harán mención expresa de las decisiones adoptadas para la ejecución del respectivo Plan Municipal de Desarrollo y los programas derivados de éste, así como de las acciones y resultados de su ejecución, o de las reformas o adiciones que se hubieren realizado. Esta información deberá relacionarse, en lo conducente, con el contenido de la cuenta pública municipal, para permitir que las instancias competentes, analicen las mismas, con relación a los objetivos y prioridades de la planeación municipal.
+
+Asimismo, se deberán presentar informes de los resultados que deriven de las acciones de seguimiento y evaluación establecidas en la evaluación anual de los instrumentos de planeación, lo cual permitirá identificar recomendaciones cuya implementación contribuya a mejorar el desempeño y retroalimentar los objetivos y metas del Plan Municipal de Desarrollo y los Programas que de él deriven.
+
+De igual forma deberán publicarse proactivamente, en medios oficiales, indicadores que permitan a la ciudadanía conocer el estado que guarda el cumplimiento de los objetivos y metas en materia de planeación, y en términos de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2019)</small>
 
@@ -2047,39 +2143,77 @@ Los titulares de las autoridades municipales, dependencias, órganos desconcentr
 
 A los servidores públicos municipales que en el ejercicio de sus funciones contravengan las disposiciones aplicables en materia de planeación o los objetivos y prioridades de los planes y programas de desarrollo, se les impondrán las medidas disciplinarias que prevea la reglamentación municipal, y si la gravedad de la infracción lo amerita, las instancias competentes podrán suspender o remover de sus cargos a los servidores públicos responsables, sin perjuicio de las sanciones de otra naturaleza que sean aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 113.
 
-Cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico, los planes y programas podrán ser reformados o adicionados a través del mismo procedimiento que se siguió para su aprobación.
+En el Sistema Municipal de Planeación Democrática tendrá lugar la participación y consulta de los sectores Social, Privado y Público, mediante mecanismos de participación, con el propósito de que expresen sus opiniones para la elaboración, actualización e instrumentación del Plan Municipal de Desarrollo y los programas que de él deriven.
+
+Para garantizar la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanos, el interés superior de niñas y niños, y una forma más efectiva del principio de igualdad e inclusión respecto de las personas con discapacidad, adolescentes, jóvenes, personas adultas mayores, mujeres y cualquier grupo en situación de vulnerabilidad, se deberán realizar consultas especializadas por medio del Comité de Planeación para el Desarrollo Municipal a fin de considerar sus opiniones o la de expertos en dichas materias, para incorporarlas en el proceso de planeación y en la definición de prioridades del Municipio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 #### SECCIÓN I. DE LA ORGANIZACIÓN
 
 ###### ARTÍCULO 114.
 
-Para la consecución y vigilancia del Plan de Desarrollo Municipal se creará el Consejo de Planeación Municipal, el cual deberá constituirse dentro de los sesenta días naturales siguientes a la fecha de instalación del Ayuntamiento.
+Para la instrumentación y seguimiento del Plan Municipal de Desarrollo se creará el Comité de Planeación para el Desarrollo Municipal, el cual deberá instalarse dentro de los sesenta días naturales siguientes a la fecha de toma de posesión del Ayuntamiento y deberá sesionar durante cada ejercicio fiscal, cuando menos trimestralmente en forma ordinaria y de manera extraordinaria cuando las necesidades del Municipio, así lo requiera.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 115.
 
-El Consejo de Planeación Municipal es un órgano de participación social y consulta, auxiliar del Ayuntamiento en las funciones relativas a la planeación, el cual contará con la intervención de los sectores público, social y privado.
+El Comité de Planeación para el Desarrollo Municipal es un Órgano de Participación Social y Consulta, auxiliar del Ayuntamiento en la planeación y programación del desarrollo municipal el cual contará con la intervención de los sectores público, social y privado.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 116.
 
-El Consejo de Planeación Municipal, se constituirá con:
+El Comité de Planeación para el Desarrollo Municipal, se integrará de la siguiente manera:
 
-I.- El Presidente Municipal;
+I. La Persona Titular de la Presidencia Municipal del Ayuntamiento, quien lo presidirá;
 
-II.- Un Secretario Técnico, que será designado por el Ayuntamiento de entre sus miembros a propuesta del Presidente Municipal;
+II. Las Personas Titulares de las Regidurías y Sindicatura del Municipio;
 
-III.- Los Consejeros que acuerde el Ayuntamiento, considerando las distintas áreas o materias de una planeación integral;
+III. La Persona Titular de la Secretaría General del Municipio quien fungirá como Secretaria o Secretario Técnico;
 
-IV.- Representación de los centros de población a que se refiere el artículo 9 de esta Ley;
+IV. Una persona representante del Comité de Planeación para el Desarrollo del Estado de Puebla, designada por su Coordinador General, quien fungirá como Asesora o Asesor Técnico en materia de planeación;
 
-V.- Un representante de cada Consejo de Participación Ciudadana; y
+V. Las Personas Titulares de las Dependencias de la Administración Pública Municipal que señale el Titular de la Presidencia Municipal;
 
-VI.- Por cada Consejero propietario se designará un suplente.
+VI. Las Personas Titulares de las Presidencias de las Juntas Auxiliares del Municipio;
+
+VII. Una persona representante por cada centro de población a que se refiere el artículo 9 de esta Ley;
+
+VIII. Las personas representantes del Sector Privado, Académico y de Organizaciones de la Sociedad Civil que actúen en el ámbito municipal o regional determinados por la Persona Titular de la Presidencia municipal y;
+
+IX. Las personas representantes de Dependencias Federales y Estatales competentes que determine la Persona Titular de la Presidencia municipal.
+
+Las personas integrantes del Comité de Planeación para el Desarrollo Municipal que refieren las fracciones I, II, VI y VII contarán con voz y voto, mientras que los demás integrantes contarán únicamente con voz.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 117.
 
-El Consejo de Planeación Municipal podrá constituir comités, atendiendo a los requerimientos específicos de cada región.
+El Comité de Planeación para el Desarrollo Municipal tendrá las siguientes atribuciones:
+
+I. Promover la participación de la sociedad en el proceso de planeación del desarrollo municipal;
+
+II. Apoyar en la elaboración, actualización, instrumentación y seguimiento del Plan Municipal de Desarrollo y los Programas que de él se deriven, asegurando su congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y los Programas que de él deriven;
+
+III. Participar en la identificación de prioridades y potencialidades del Municipio; así como en la definición de proyectos y/o acciones que contribuyan al desarrollo local y regional;
+
+IV. Integrar, presentar y aprobar la propuesta de obra municipal;
+
+V. Proponer la realización de obras para el bienestar social, el desarrollo productivo y el desarrollo sostenible del Municipio;
+
+VI. Participar en el seguimiento de las obras y acciones que se hubieren determinado ejecutar;
+
+VII. Promover la participación directa de las comunidades beneficiarias de las obras y acciones, mediante la aportación de mano de obra, recursos económicos o materiales de la región;
+
+VIII. Constituir Órganos o Instancias Auxiliares al Comité, atendiendo las necesidades específicas del Municipio y demás requerimientos a nivel Estatal y Federal, y
+
+IX. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ### CAPÍTULO XII. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -4292,5 +4426,21 @@ P.O. 22 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIII DEL ARTÍCULO 91 Y IV DEL ARTÍCULO 231, AMBOS DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LAS SECCIONES I Y II DEL CAPÍTULO XI, Y LOS ARTÍCULOS 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 113, 114, 115, 116 Y 117 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO G) DE LA FRACCIÓN XLV DEL ARTÍCULO 78, LA FRACCIÓN VII DEL ARTÍCULO 80 Y LA FRACCIÓN XLI DEL ARTÍCULO 91, TODOS DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
