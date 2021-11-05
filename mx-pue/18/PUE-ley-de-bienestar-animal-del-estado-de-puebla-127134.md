@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-bienestar-animal-del-estado-de-puebla-127134"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2021-11-03"
+last_updated: "2021-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Tercera Sección del Número 17 al Periódico Oficial del Estado de Puebla, el lunes 26 de febrero de 2018.
 
@@ -487,17 +487,17 @@ XVII. El uso de animales vivos como blanco de ataque en el entrenamiento de anim
 
 XVIII. Transitar en lugares públicos con animales de compañía que no estén controlados por un collar y correa u otros medios que garanticen la seguridad de los transeúntes, sus bienes y otros animales;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 XIX. Realizar prácticas de vivisección y experimentación en animales con fines científicos o didácticos en los niveles de enseñanza básica, media y media superior. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-XX. La venta de animales que implique la separación de la madre, si el producto se encuentre en periodo de lactancia, y
+XX. Llevar a cabo pruebas en animales con el propósito de comercializar o fabricar productos cosméticos, salvo los casos previstos en la Ley General de Salud; y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-XXI. Las demás que establezca la presente ley, su Reglamento y demás ordenamientos jurídicos aplicables.
+XXI. Las demás que establezca la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -1162,6 +1162,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN IX BIS DEL ARTÍCULO 18 DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIX Y XX, Y ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 18 DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
