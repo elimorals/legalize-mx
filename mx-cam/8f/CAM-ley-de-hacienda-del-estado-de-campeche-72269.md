@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2020-12-28"
+last_updated: "2021-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -269,21 +271,11 @@ También quedan comprendidos como sujetos de este impuesto, la Federación, el E
 
 De igual forma, quedan comprendidas como sujetos de este impuesto las empresas productivas del Estado de cualquier orden de gobierno.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 22.
 
-El contratante que aplique el régimen de subcontratación laboral, deberá de presentar, dentro de los 30 días siguientes a la celebración del contrato respectivo, el aviso de intermediario laboral ante el Servicio de Administración Fiscal del Estado de Campeche, para informar sobre la aplicación de dicho régimen, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Fiscal del Estado de Campeche. Dicho aviso, deberá contener el nombre, denominación o razón social, Registro Federal de Contribuyentes y domicilio fiscal del contratista, así como el número de empleados, el objeto del contrato, el monto de la obra o servicios contratados y la vigencia del contrato, el cual deberá ser ratificado por el contratista ante el Servicio de Administración Fiscal del Estado de Campeche dentro de los quince días posteriores a la presentación del aviso de intermediario laboral. Cuando se subcontraten servicios de personal para más de un establecimiento o sucursal, se deberá presentar el aviso correspondiente a cada uno de éstos, con la información señalada en este párrafo.
-
-En caso de que la información presentada por el contratante a través del aviso de intermediario laboral sufra alguna modificación, éste deberá de manifestarlo por escrito ante el Servicio de Administración Fiscal del Estado de Campeche, en un plazo no mayor a diez días contados a partir del día en que se generó la nueva información.
-
-El contrato que se celebre entre la persona física o moral que solicita se ejecute una obra o se presten servicios y un contratista, deberá constar por escrito. El contratante deberá cerciorarse al momento de celebrar el contrato que el contratista cuenta con la documentación y los elementos propios suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, incluyendo las fiscales.
-
-El contratista incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Servicio de Administración Fiscal del Estado de Campeche.
-
-La información prevista en este artículo deberá ser presentada en documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza que permitan su adecuada reproducción, conforme a las reglas generales que para tal efecto emita el Servicio de Administración Fiscal del Estado de Campeche.
-
-Para los efectos de este artículo, se entenderá por régimen de subcontratación laboral aquel por medio del cual un patrón denominado contratista ejecuta obras o presta servicios con sus trabajadores bajo su dependencia, a favor de un contratante, persona física o moral, la cual fija las tareas del contratista y lo supervisa en el desarrollo de los servicios o la ejecución de las obras contratadas. Este tipo de trabajo deberá de cumplir con lo previsto para tal efecto en la Ley Federal del Trabajo, así como con los demás requisitos y condiciones que se establezcan en otras disposiciones legales aplicables en la materia.
+Para efectos del Impuesto sobre Nóminas, la subcontratación de servicios especializados o la ejecución de obras especializadas, entendiéndose como tal, cuando una persona física o moral proporcione o ponga a disposición trabajadores propios en beneficio de otra, para la ejecución de obras especializadas o servicios especializados que no formen parte del objeto social ni de la actividad económica preponderante de la beneficiaria de los mismos; deberá de cumplir con lo previsto para tal efecto en la Ley Federal del Trabajo, así como con los demás requisitos y condiciones que se establezcan en otras disposiciones legales aplicables en la materia.
 
 #### SECCIÓN TERCERA. DE LA BASE
 
@@ -291,35 +283,15 @@ Para los efectos de este artículo, se entenderá por régimen de subcontrataci�
 
 Es base de este impuesto el monto total de las erogaciones efectuadas o pagos realizados en efectivo o en especie a que se refiere el artículo 20 de esta (sic) Capítulo.
 
-#### SECCIÓN CUARTA. DE LA TARIFA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+#### SECCIÓN CUARTA. DE LA TASA
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-El impuesto se causará en el momento en que se realicen los pagos o se efectúen las erogaciones que son objeto del mismo y se determinará aplicando a la base que resulte conforme al artículo anterior, la siguiente tarifa:
-
-LÍMITE LÍMITE CUOTA FIJA POR CIENTO
-
-INFERIOR $ SUPERIOR $ $ SOBRE EL
-
-EXCEDENTE
-
-DEL LÍMITE
-
-INFERIOR
-
-0.01 252,625 0.00 2.0 %
-
-252,626 525,752 5,052.50 2.2 %
-
-525,753 2,520,124 11,061.27 2.4 %
-
-2,520,125 5,207,421 58,926.18 2.6 %
-
-5,207,422 8,559,929 128,795.87 2.8 %
-
-8,559,930 EN ADELANTE 222,666.07 3.0 %
+El impuesto se causará en el momento en que se realicen los pagos o se efectúen las erogaciones que son objeto del mismo y se determinará aplicando a la base que resulte conforme al artículo anterior, la tasa del 3%.
 
 #### SECCIÓN QUINTA. DEL PAGO
 
@@ -399,9 +371,11 @@ Para que los conceptos mencionados en este artículo no se encuentren gravados p
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-Es objeto de este impuesto la prestación de servicios de hospedaje, siempre que dichos servicios sean prestados u otorgados dentro del Estado de Campeche, independientemente del lugar o el medio por el cual se realice el pago.
+Es objeto de este impuesto la prestación de servicios de hospedaje, siempre que dichos servicios sean prestados u otorgados dentro del Estado de Campeche, independientemente del lugar o el medio por el cual se realice el pago, incluidos aquellos que se contraten a través de intermediarios, promotores o facilitadores.
 
 Para los efectos de este impuesto se consideran servicios de hospedaje entre otros, los siguientes:
 
@@ -415,13 +389,33 @@ IV.- Los servicios de campamento a través de los que se otorga espacio para aca
 
 Para los efectos de este impuesto no se considerará la prestación de servicios de albergue o alojamiento prestados por hospitales, clínicas, asilos, internados, casas de beneficencia pública o asistencia social, conventos, seminarios e instituciones religiosas, siempre que se trate de servicios propios de su objeto o fin.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-En los supuestos previstos en las fracciones I, II y III de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Servicios de Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
+En los supuestos previstos en las fracciones I, II y III de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Servicios de Hospedaje, ésta deberá retener y enterar el pago del impuesto correspondiente a la autoridad fiscal, debiendo proporcionar la constancia de retención correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+Para los efectos de este impuesto se considerará como intermediarias, promotoras o facilitadoras, además, a las plataformas tecnológicas, aplicaciones informáticas y similares, a través de las cuales se contrate el servicio de hospedaje.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ARTÍCULO 29 BIS.- Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ellas lo correspondiente al impuesto señalado en este capítulo, deberán inscribirse al Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 33 de esta Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2021)</small>
+
+Asimismo, las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en la contratación de servicios de hospedaje, deberán proporcionar al Servicio de Administración Fiscal del Estado de Campeche a más tardar el día 20 del mes siguiente de que se trate, de conformidad con las reglas de carácter general que para tal efecto se emitan, la información respecto de las operaciones en las que hayan actuado como intermediarias, aun y cuando no hayan efectuado el cobro de la contraprestación y el impuesto sobre hospedaje correspondiente, teniendo que proporcionar la siguiente información de sus clientes:
+
+a) Nombre completo o razón social;
+
+b) Registro Estatal de Contribuyentes;
+
+c) Domicilio fiscal;
+
+d) Institución financiera y cuenta bancaria en la cual se reciben los depósitos de los pagos;
+
+e) Monto de las operaciones celebradas con su intermediación durante el período del que se trate; y
+
+f) Domicilio del inmueble, objeto de la prestación de servicios de hospedaje.
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
@@ -461,13 +455,13 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 El impuesto establecido en este capítulo se causará y se tendrá obligación de pagar en el momento en que se cobren o sean exigibles las contraprestaciones en favor de quien preste los servicios de hospedaje, el que ocurra primero.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche.
+El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche. La obligación de presentar declaración subsistirá aun cuando no hubiese cantidad a cargo.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-Asimismo, aquellas personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro de las contraprestaciones por los servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto sobre Servicios de Hospedaje, deberán presentar a más tardar el día veinte de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca el Servicio de Administración Fiscal, de conformidad con lo establecido en el párrafo segundo de este artículo.
+Asimismo, aquellas personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro de las contraprestaciones por los servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto sobre Servicios de Hospedaje, deberán presentar a más tardar el día veinte de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, y enterar el impuesto retenido, en las formas y medios que para tal efecto establezca el Servicio de Administración Fiscal, de conformidad con lo establecido en el párrafo segundo de este artículo.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -3704,3 +3698,11 @@ P.O. 28 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor el día 1 de enero del año 2021, previa publicación en el Periódico Oficial del Estado de Campeche.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 7 POR EL QUE "SE REFORMAN EL ARTÍCULO 22, LA DENOMINACIÓN DE LA SECCIÓN CUARTA "DE LAS TARIFAS", DEL CAPÍTULO III, DEL TÍTULO SEGUNDO PARA QUEDAR "DE LA TASA"; EL ARTÍCULO 24; LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 29; Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 33; Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 29 Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 29 BIS A LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO. - El presente decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO. - Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
