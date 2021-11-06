@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2021-09-09"
+last_updated: "2021-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -841,13 +841,19 @@ Es causal de responsabilidad administrativa en los términos de la ley de la mat
 
 Las sanciones que se apliquen de conformidad con el párrafo anterior son independientes de las que procedan en caso de configurarse responsabilidad política, penal o civil.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2021
 
-Art. 46 bis. Para efectos del artículo anterior, se conforma el Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, como un órgano auxiliar de las autoridades estatales y de participación ciudadana, no vinculativo, integrado por representantes de los sectores público y privado del Estado, el cual debe realizar estudios sobre los montos máximos de las percepciones anuales de los servidores públicos del Estado de Jalisco y sus Municipios y emitir recomendaciones sobre éstas.
+Art 46 bis. Para efectos del artículo anterior, se conforma el Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, como un órgano auxiliar de las autoridades estatales y de participación ciudadana, no vinculativo, integrado por representantes de los sectores público y privado del Estado, el cual debe realizar estudios sobre los montos máximos de las percepciones anuales de los servidores públicos del Estado de Jalisco y sus Municipios, así como de los contratos de prestación de servicios personales o profesionales del Comité de Participación Social, y emitir recomendaciones sobre éstas.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
 
 Estas recomendaciones deberán ser consideradas y analizadas por las autoridades, que de conformidad con la ley, gocen de autonomía presupuestaria, durante el proceso de aprobación de sus presupuestos de egresos respectivos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JULIO DE 2007)</small>
+
 El Comité Técnico de Transparencia y Valoración Salarial se integra por:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JULIO DE 2007)</small>
 
 I. Representantes del sector público, quienes contarán con voz, pero sin voto:
 
@@ -891,6 +897,8 @@ a) Un académico designado por el rector de las siguientes universidades: Univer
 
 b) Tres representantes de grupos sociales, por invitación del Gobernador del Estado, en los que esté debidamente representado el sector empresarial, las organizaciones del sector social y de asistencia social.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
+
 El Comité, a petición de cualquiera de sus miembros, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias, para el mejor cumplimiento de sus actividades.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
@@ -901,9 +909,15 @@ El Comité Técnico de Transparencia y Valoración Salarial sesionará, de maner
 
 Para que el Comité sesione válidamente se requiere contar con la mitad más uno de los miembros con derecho a voto y la persona representante del Poder Ejecutivo. Los acuerdos se tomarán por mayoría de votos y en caso de empate, el asunto se tratará en la sesión siguiente.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
+
 La Secretaría Técnica del Comité estará a cargo de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
+
 El cargo de integrante del Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, es honorífico y, por tanto, no remunerado y en el caso de los servidores públicos que participan en él, este encargo se entiende inherente a su función pública. Los particulares que participan en el Comité, carecen de la calidad de servidores públicos.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
 
 El Comité, bajo ninguna circunstancia puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus Municipios.
 
@@ -3170,3 +3184,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 6 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28497/LXII/21 QUE MODIFICA LA MINUTA DE DECRETO NÚMERO 28436/LXII/21 POR EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO Y SE REFORMAN LOS ARTÍCULOS 15, 35 Y SE ADICIONA UN 23 BIS DE LA PROPIA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, ARTÍCULO 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
