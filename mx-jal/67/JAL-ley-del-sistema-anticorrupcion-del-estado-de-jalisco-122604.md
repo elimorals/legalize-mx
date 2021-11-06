@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2021-09-09"
+last_updated: "2021-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -257,7 +257,23 @@ XI. Aquellas que prevean las reglas de funcionamiento y organización interna de
 
 1. El Comité de Participación Social estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción.
 
-2. Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves o hubiera sido condenado por algún delito grave o relacionado con hechos de corrupción.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2021)</small>
+
+2. Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada
+
+> <small>(REFORMADO CON SUS FRACCIONES [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2021)</small>
+
+3. Sólo podrán ser removidos por las siguientes causales:
+
+I. Por falta de probidad;
+
+II. Notoria negligencia o indebido desempeño de sus atribuciones;
+
+III. Cuando desempeñen un cargo, empleo o comisión incompatible, en términos de la Ley de Incompatibilidades para los Servidores Públicos Reglamentaria del Artículo 112 de la Constitución Política del Estado de Jalisco, o que generen un posible conflicto de interés;
+
+IV. Por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves; y
+
+V. Ser condenado por algún delito grave o relacionado con hechos de corrupción.
 
 ###### Artículo 16.
 
@@ -408,6 +424,32 @@ IV. Presentar en el mes de febrero, en lo individual, informe anual de actividad
 ###### Artículo 23.
 
 1. El Comité de Participación Social podrá solicitar al Comité Coordinador la emisión de exhortos públicos cuando algún hecho de corrupción requiera de aclaración pública. Los exhortos tendrán por objeto requerir a las autoridades competentes información sobre la atención al asunto de que se trate.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 23 Bis.
+
+1. El Congreso del Estado será el competente para conocer de la remoción de los integrantes del Comité de Participación Social.
+
+2. El procedimiento para la remoción de los integrantes del Comité de Participación Social se iniciará de oficio, por queja o denuncia presentada por cualquier persona o por el servidor público que tenga conocimiento de los hechos.
+
+3. Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la causal de remoción.
+
+4. Cuando el denunciante omita ofrecer pruebas al presentar el escrito de denuncia, se le prevendrá para que subsane la omisión en un plazo no mayor de tres días contados a partir del momento en que surta efecto la notificación de la prevención, con el apercibimiento que de no cumplir se tendrá por no presentada.
+
+5. Podrá ser por oficio cuando la Comisión de Vigilancia y Sistema Anticorrupción, de los informes que presenten los integrantes del Comité de Participación Social o cualquier otro elemento probatorio, detecte la actualización de una causal de remoción.
+
+6. La Comisión de Vigilancia y Sistema Anticorrupción, en caso de existir elementos, radicará el procedimiento y notificará al integrante del Comité de Participación Social el inicio del procedimiento y lo citará a la audiencia de pruebas y alegatos, corriéndole traslado;
+
+7. La audiencia de pruebas y alegatos se celebrará en un plazo no menor de diez ni mayor de quince días hábiles posteriores al emplazamiento, en la que se le otorgará derecho de audiencia y defensa, y podrá ofrecer las pruebas que estime convenientes, así como alegar lo que a su derecho convenga. Sólo serán admisibles pruebas documentales, las cuales se desahogarán por su propia naturaleza. La inasistencia del integrante del Comité de Participación Social a la audiencia, no impedirá la celebración de la misma;
+
+8. En la misma audiencia se estudiarán las pruebas ofertadas con la finalidad de admitirlas o desecharlas;
+
+9. Desahogada la audiencia, la Comisión de Vigilancia y Sistema Anticorrupción elaborará un informe con las conclusiones del asunto, el cual deberá remitir al Pleno del Congreso del Estado dentro de los cinco días hábiles siguientes a la terminación de la misma;
+
+10. Recibido el informe, el Pleno, por el voto de las dos terceras partes de sus integrantes, dictará la resolución dentro de los treinta días hábiles siguientes; y
+
+11. La resolución del procedimiento no admitirá recurso ni juicio alguno
 
 ### Capítulo IV. Secretaría Ejecutiva del Sistema Estatal Anticorrupción
 
@@ -565,9 +607,11 @@ X. No ser titular de alguna dependencia o entidad de la administración pública
 
 ###### Artículo 35.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2021)</small>
 
-1. Corresponde al Secretario Técnico ejercer la dirección de la Secretaría Ejecutiva, por lo que contará con las facultades previstas para los directores generales de los organismos públicos descentralizados en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, salvo aquellas que por disposición de esta Ley correspondan a otro órgano, así como los recursos suficientes para dotar de insumos administrativos al Comité Coordinador.
+1. Corresponde al Secretario Técnico ejercer la dirección de la Secretaría Ejecutiva, por lo que contará con las facultades previstas para los directores generales de los organismos públicos descentralizados en la de la (sic) Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, salvo aquellas que por disposición de esta Ley correspondan a otro órgano.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2021)</small>
 
 2. El Secretario Técnico adicionalmente tendrá las siguientes funciones:
 
@@ -591,13 +635,17 @@ IX. Realizar estudios especializados en materias relacionadas con la prevención
 
 X. Administrar las herramientas y tecnologías de la información y asegurar el acceso a las mismas de los miembros del Comité Coordinador y de la Comisión Ejecutiva;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2021)</small>
 
-XI. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicos y reflejen los avances o retrocesos en la política estatal anticorrupción; y
+XI. integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicas y reflejen los avances o retrocesos en la política estatal anticorrupción;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2021)</small>
 
-XII. Llevar a cabo diagnósticos para identificar los procesos más susceptibles de corrupción.
+XII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2021)</small>
+
+XIII. Recopilar y remitir al Congreso del Estado, a más tardar en el mes de marzo, los informes que le presenten el Comité de Participación Social y sus integrantes en lo individual.
 
 ### Capítulo V. Sistemas Municipales
 
@@ -796,3 +844,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su la Ley Orgánica del Poder Legislativo.
+
+P.O. 6 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28497/LXII/21 QUE MODIFICA LA MINUTA DE DECRETO NÚMERO 28436/LXII/21 POR EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO Y SE REFORMAN LOS ARTÍCULOS 15, 35 Y SE ADICIONA UN 23 BIS DE LA PROPIA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, ARTÍCULO 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
