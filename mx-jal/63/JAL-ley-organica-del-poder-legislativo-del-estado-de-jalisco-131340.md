@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-10-30"
+last_updated: "2021-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1847,13 +1847,17 @@ V. La solicitud de licencia o remoción del Auditor Superior;
 
 VI. La elección de los integrantes de la Comisión de Selección, del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2021)</small>
 
-VII. La elección de los titulares de los órganos internos de control previstos por el artículo 106, fracción IV de la Constitución Política del Estado de Jalisco; y
+VII. La elección de los titulares de los órganos internos de control previstos por el artículo 106, fracción IV de la Constitución Política del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2021)</small>
 
-VIII. Las solicitudes de prórroga para la presentación de las respectivas cuentas públicas que realicen al Congreso el Gobernador del Estado y los presidentes municipales, de conformidad con las reglas establecidas por la ley en la materia.
+VIII. Las solicitudes de prórroga para la presentación de las respectivas cuentas públicas que realicen al Congreso el Gobernador del Estado y los presidentes municipales, de conformidad con las reglas establecidas por la ley en la materia; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2021)</small>
+
+IX. Recibir, revisar los informes de los integrantes del Comité de Participación Social y, sustanciar el procedimiento de remoción previsto en la Ley del Sistema Anticorrupción del Estado de Jalisco.
 
 2. La Comisión de Vigilancia y Sistema Anticorrupción tiene además las atribuciones siguientes:
 
@@ -3940,3 +3944,9 @@ P.O. 30 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 24484/LXII/21 (SIC) QUE MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 83 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28497/LXII/21 QUE MODIFICA LA MINUTA DE DECRETO NÚMERO 28436/LXII/21 POR EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO Y SE REFORMAN LOS ARTÍCULOS 15, 35 Y SE ADICIONA UN 23 BIS DE LA PROPIA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, ARTÍCULO 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
