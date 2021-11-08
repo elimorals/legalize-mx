@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-derechos-cultura-y-desarrollo-de-los-pueblos-y-79100"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2020-01-15"
+last_updated: "2021-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "PUE"
 ---
 # LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE PUEBLA
 
-(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL CUARTO PÁRRAFO DEL ARTÍCULO 2, ASÍ COMO EL CAPÍTULO XII, SECCIÓN I Y LOS ARTÍCULOS DEL 81 AL 104 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL QUINCE DE ENERO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de enero de 2011.
 
@@ -575,7 +573,7 @@ El Instituto Poblano de los Pueblos Indígenas, en lo sucesivo el Instituto, es 
 
 El Instituto es la autoridad del Poder Ejecutivo del Estado en los asuntos relacionados con los pueblos indígenas y afromexicanos, que tiene como objeto definir, normar, diseñar, establecer, ejecutar, orientar, coordinar, promover, dar seguimiento y evaluar las políticas, programas, proyectos, estrategias y acciones públicas, para garantizar el ejercicio y la implementación de los derechos de los pueblos indígenas y afromexicanos, así como su desarrollo integral y sostenible y el fortalecimiento de sus culturas e identidades, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales de los que el país es parte, así como la Constitución Política del Estado Libre y Soberano de Puebla.
 
-(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTA SECCIÓN, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
 
@@ -707,7 +705,9 @@ XXXIX. Promover y adoptar las medidas, en conjunto con los pueblos indígenas y 
 
 XL. Promover, adoptar y garantizar las medidas correspondientes para mantener, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación a dicho patrimonio cultural, conocimientos tradicionales y expresiones culturales tradicionales;
 
-XLI. Emprender programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del estado, en coordinación con las instancias competentes; y promover las acciones afirmativas necesarias para que éstas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XLI. Emprender programas, proyectos y acciones para el rescate, conservación, enseñanza, fortalecimiento y revitalización de las lenguas indígenas del estado, en coordinación con las instancias competentes; y promover las acciones afirmativas necesarias para que éstas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos;
 
 XLII. Coordinar con las instancias correspondientes, el reconocimiento y la implementación de la educación indígena en todos sus tipos y niveles, así como participar en la elaboración de los planes y programas de estudio, y materiales didácticos específicos dirigidos a los pueblos indígenas, con la finalidad de fortalecer las culturas, historias, identidades, instituciones y formas de organización de dichos pueblos;
 
@@ -1124,3 +1124,11 @@ SÉPTIMO. Los integrantes de la Junta de Gobierno del Instituto, celebrarán ses
 OCTAVO. De conformidad con lo dispuesto por el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, cuando esta ley haga referencia a los Pueblos y Comunidades Indígenas, también se entenderán comprendidos los Pueblos y Comunidades afromexicanas.
 
 NOVENO. El Titular del Poder Ejecutivo expedirá el Reglamento Interior del Instituto Poblano de los Pueblos Indígenas aprobado por la Junta de Gobierno del Instituto, en un plazo no mayor a sesenta días hábiles contados a partir de la publicación del presente decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XLI DEL ARTÍCULO 85 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
