@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2021-11-04"
+last_updated: "2021-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3359,9 +3359,13 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 Comete el delito de abuso sexual quien, sin el propósito de llegar a la cópula:
 
-I. Ejecutare en una persona mayor de catorce años de edad o le hiciere ejecutar un acto erótico sexual, sin su consentimiento o la obligue a observarlo, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-II. Ejecutare en una persona o le hiciere ejecutar un acto erótico sexual, o la haga observarlo aun con su consentimiento, tratándose de menor de catorce años de edad o en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia.
+I. Ejecutare en una persona mayor de catorce años de edad o le hiciere ejecutar un acto erótico sexual, sin su consentimiento, mediante consentimiento viciado o la obligue a observarlo, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+II. Ejecutare en una persona o le hiciere ejecutar un acto erótico sexual, o la haga observarlo aun con consentimiento viciado, tratándose de menor de catorce años de edad o en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3369,11 +3373,23 @@ II. Ejecutare en una persona o le hiciere ejecutar un acto erótico sexual, o la
 
 Al responsable de un delito de abuso sexual se le impondrán:
 
-I.- Prisión de un mes a un año y multa de dos a veinte Unidades de Medida y Actualización, si el sujeto pasivo es mayor de catorce años y el delito se cometió sin su consentimiento;
+(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II.- Si el sujeto pasivo del delito fuere persona menor de catorce años o se encontrare en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia, estuviere privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, se presumirá la violencia y la sanción será de uno a cinco años de prisión y multa de veinte a doscientas Unidades de Medida y Actualización, se haya ejecutado el delito con o sin su consentimiento, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-III.- Cuando el sujeto pasivo sea mayor de catorce años y el delito se ejecute con violencia física o moral, se impondrán al responsable de seis meses a cuatro años de prisión y multa de diez a cien Unidades de Medida y Actualización, sanciones que se aumentarán hasta en otro tanto igual, si el delito fuere cometido con intervención de dos o más personas.
+I. Prisión de seis a diez años Y MULTA DE DOSCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, si el sujeto pasivo es mayor de catorce años y el delito se cometió sin su consentimiento o con su consentimiento viciado;
+
+(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+II. Si el sujeto pasivo del delito fuere persona menor de catorce años o se encontrare en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia, estuviere privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, se presumirá la violencia y la sanción será de seis a trece años de prisión Y MULTA DE QUINIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, se haya ejecutado el delito sin su consentimiento o con consentimiento viciado, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
+
+(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+III. Cuando el sujeto pasivo sea mayor de catorce años y el delito se ejecute con violencia física o moral, se impondrán al responsable de seis a trece años de prisión Y MULTA (SIC) QUINIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, sanciones que se aumentarán hasta en otro tanto igual, si el delito fuere cometido con intervención de dos o más personas.
 
 ###### Artículo 262.
 
@@ -3525,7 +3541,7 @@ En los casos previstos en las fracciones I y II, se impondrá al autor del delit
 
 #### SECCIÓN SÉPTIMA. DISPOSICIONES COMUNES A DELITOS SEXUALES
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 278.
 
@@ -3557,7 +3573,15 @@ Al responsable del delito de acoso sexual se le impondrá multa de cincuenta a t
 
 Cuando la víctima sea mujer, en el caso del delito de acoso sexual, se impondrá además de la sanción pecuniaria señalada para tal efecto, de un mes a un año de prisión.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+A quien cometa el delito de acoso sexual en espacios públicos comunitarios, de libre acceso o en instalaciones o vehículos destinados al transporte público o de pasajeros, asedie o acose a una persona con fines lascivos expresándose de manera verbal o física mediante la realización de actos o acciones de tipo erótico o lujuriosas como caricias, manoseos y tocamientos corporales obscenos, persecución o captación de imágenes o videos a una persona sin su consentimiento, afectando o perturbando su derecho a la integridad y libre tránsito, causándole intimidación, degradación, humillación y un ambiente ofensivo, se le impondrá una pena de seis a diez años de prisión y multa de doscientas a cuatrocientas Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
 Cuando la víctima sea mujer, en el caso del delito de hostigamiento sexual, la sanción que corresponda se aumentará desde una tercera parte de la mínima y hasta dos terceras partes de la máxima.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 Además, en ambos casos, se sujetará al agresor a un tratamiento integral para su reeducación y sensibilización conforme a las medidas establecidas en la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla.
 
@@ -3567,13 +3591,15 @@ Además, en ambos casos, se sujetará al agresor a un tratamiento integral para 
 
 Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 278 Sexies.
 
-Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable de tres a cinco años de prisión y multa de cien a quinientas Unidades de Medida y Actualización.
+Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable de seis a diez años de prisión y multa de cien a quinientas unidades de medida y actualización.
 
-Si el sujeto pasivo del delito de acoso sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable multa de cien a quinientas Unidades de Medida y Actualización.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+Si el sujeto pasivo del delito de acoso sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable de uno a tres años de prisión y multa de cien a quinientas unidades de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
@@ -3589,7 +3615,7 @@ En los supuestos a que se refiere el artículo anterior, los delitos se persegui
 
 ###### Artículo 278 Octies.
 
-Cualquier persona que tenga conocimiento de la comisión de alguno de los delitos sexuales siguientes: Corrupción de menores e incapaces o de personas que no puedan resistir contempladas en la fracción I del artículo 217, pornografía de menores e incapaces, ciberacoso, violación a la intimidad sexual, abuso sexual, estupro, hostigamiento y acoso sexual; cometido contra niñas, niños y adolescentes, así como el delito de violación, y no acuda a la autoridad competente para denunciar el hecho y evitar la continuación de la conducta será castigada de dos a siete años de prisión.
+Cualquier persona que tenga conocimiento de la comisión de alguno de los delitos sexuales siguientes: Corrupción y Pornografía de Menores e Incapaces o Personas que no Pudieren Resistir, contemplado en la fracción I del artículo 217, Pornografía de Menores e Incapaces, Ciberacoso, Violación a la Intimidad Sexual, Abuso Sexual, Estupro, Hostigamiento y Acoso Sexual, cometido contra niñas, niños y adolescentes, así como el delito de Violación, y no acuda a la autoridad competente para denunciar el hecho y evitar la continuación de la conducta será castigada de cuatro a catorce años de prisión.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE ABRIL DE 2019)</small>
 
@@ -6555,6 +6581,18 @@ A quien se apropie de un animal de compañía sin el consentimiento de su propie
 
 A quien por medio de un animal de compañía extorsione solicitando a cambio de su restitución un beneficio económico o en especie se le impondrá de uno a cuatro años de prisión y de doscientas a quinientas unidades de medida y actualización.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 474 Quater.
+
+Se impondrá de uno a cuatro años de prisión y de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización:
+
+I. Al que posea o tenga en propiedad un espacio para sacrificio o faenado de uno o más animales de abasto, de forma clandestina, además de imponerle la clausura del inmueble cuyo destino sea para el sacrificio o faenado;
+
+II. A quien realice el sacrificio o faenado de animales de abasto, sin realizar métodos de insensibilización que tenga como fin el consumo humano para comercialización.
+
+Se exceptúa de lo previsto en el presente artículo a quien realice la ganadería de autoconsumo.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO VIGÉSIMO QUINTO. DELITOS INFORMÁTICOS
@@ -7510,6 +7548,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 186 SEPTIES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 474 QUATER AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I Y II DEL ARTÍCULO 260, LAS FRACCIONES I, II Y III DEL 261, EL CUARTO Y QUINTO PÁRRAFOS DEL 278 QUATER, EL PRIMERO Y SEGUNDO PÁRRAFOS DEL 278 SEXIES Y EL 278 OCTIES, Y ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 278 QUATER, TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
