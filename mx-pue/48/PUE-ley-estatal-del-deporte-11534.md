@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2020-10-13"
+last_updated: "2021-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -143,15 +143,17 @@ XI.- Deporte Popular.
 
 Las actividades deportivas del orden profesional, no quedan comprendidas dentro del Sistema Estatal de Deporte, ni las actividades de promoción, organización, desarrollo o participación en materia deportiva que se realice con el ánimo de lucro.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 8.
 
-El Sistema Estatal del Deporte estará a cargo del Ejecutivo del Estado, quien ejercerá sus atribuciones a través de la Secretaría de Educación Pública del Estado, exceptuando aquéllas que sean conferidas expresamente por las leyes de la materia a otras Dependencias de la Administración Pública Federal, Estatal o Municipal.
+El Sistema Estatal del Deporte estará a cargo del Ejecutivo del Estado, quien ejercerá sus atribuciones a través de la Secretaría de Educación, exceptuando aquéllas que sean conferidas expresamente por las leyes de la materia a otras Dependencias de la Administración Pública Federal, Estatal o Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 9.
 
-El Gobernador del Estado dentro del Sistema Estatal del Deporte tendrá las facultades siguientes:
+La persona Titular del Poder Ejecutivo del Estado dentro del Sistema Estatal del Deporte tendrá las facultades siguientes:
 
 I.- Coordinar el Sistema Estatal del Deporte;
 
@@ -191,31 +193,35 @@ Es de interés social la construcción, remodelación, ampliación, adecuación,
 
 ### CAPITULO II. DEL CONSEJO ESTATAL DEL DEPORTE
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 12.
 
-El Consejo Estatal del Deporte, es un órgano de opinión en materia de activación física, cultura física y deporte; su función primordial consistirá en asesorar a las entidades y organismos de los sectores público, social y privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer a la Secretaría de Educación Pública del Estado, las políticas y acciones que deban ejecutarse, con el objeto de que la mayor parte de la población tenga acceso a los beneficios de dichas actividades.
+El Consejo Estatal del Deporte, es un órgano de opinión en materia de activación física, cultura física y deporte; su función primordial consistirá en asesorar a las entidades y organismos de los sectores público, social y privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer a la Secretaría de Educación, las políticas y acciones que deban ejecutarse, con el objeto de que la mayor parte de la población tenga acceso a los beneficios de dichas actividades.
 
 ###### ARTICULO 13.
 
 El Consejo Estatal del Deporte estará integrado por:
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-I.- Un Presidente, que será el Secretario de Educación Pública del Estado;
+I.- Una o un Presidente, que será la persona Titular de la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-II.- Un Secretario Técnico, que será designado por el Presidente;
+II.- Una o un Secretario Técnico, que será designado por la Presidencia;
 
-III.- El Director de Educación Física de cada sistema educativo; que tendrá el carácter de vocal; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-IV.- Un Consejero por cada asociación deportiva estatal debidamente constituida y acreditada ante el Registro Estatal del Deporte.
+III.- La o el Director de Educación Física de cada sistema educativo; que tendrá el carácter de vocal; y
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-Los integrantes del Consejo Estatal del Deporte, participarán en él de manera honorífica y por tanto no percibirán remuneración alguna.
+IV.- Una o un Consejero por cada asociación deportiva estatal debidamente constituida y acreditada ante el Registro Estatal del Deporte.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+Las y los integrantes del Consejo Estatal del Deporte, participarán en él de manera honorífica y por tanto no percibirán remuneración alguna.
 
 ###### ARTICULO 14.
 
@@ -225,7 +231,9 @@ Son facultades del Consejo Estatal del Deporte:
 
 I.- Servir como órgano asesor en materia del deporte, cultura física y activación física;
 
-II.- Proponer al Gobernador del Estado las políticas deportivas a implantarse en el Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+II.- Proponer a la persona Titular del Poder Ejecutivo del Estado las políticas deportivas a implantarse en el Estado;
 
 III.- Establecer el procedimiento para ingresar al Salón de Honor del Deportista Poblano;
 
@@ -243,35 +251,51 @@ VII.- Evaluar permanentemente la práctica del deporte, la cultura física y la 
 
 VIII.- Promover el otorgamiento de estímulo a las personas que destaquen en alguna actividad deportiva;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-IX.- Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el diseño universal, los ajustes razonables y el pleno reconocimiento a la equidad, igualdad e inclusión hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con discapacidad;
+IX.- Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte en todas sus manifestaciones y expresiones, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-X.- Promover la cultura de la paz en el deporte y las medidas necesarias a fin de prevenir y erradicar la violencia; Asimismo, implementar sanciones conforme a su competencia a quienes ejerzan violencia, sin perjuicio de las responsabilidades penales y civiles que resulten aplicables, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas; y
+X.- Promover la cultura de la paz en el deporte y las medidas necesarias a fin de prevenir y erradicar la violencia; Asimismo, implementar sanciones conforme a su competencia a quienes ejerzan violencia, sin perjuicio de las responsabilidades penales y civiles que resulten aplicables, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-XI.- Las demás que le otorgue esta Ley, su reglamento y demás normas reglamentarias y estatutarias, aplicables.
+XI.- Promover campañas para prevenir y combatir el uso de sustancias Prohibidas y Métodos no Reglamentarios en el Deporte;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XII.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XIII.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XIV.-Las demás que le otorgue esta Ley, su reglamento y demás normas, aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 15.
 
-El Consejo Estatal del Deporte funcionará en pleno y sesionará ordinariamente cuando menos dos veces al año y, extraordinariamente, las veces que sea necesario a convocatoria de su Presidente, sus acuerdos se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad.
+El Consejo Estatal del Deporte funcionará en pleno y sesionará ordinariamente cuando menos dos veces al año y, extraordinariamente, las veces que sea necesario a convocatoria de su Presidenta o Presidente, sus acuerdos se tomarán por mayoría de votos y en caso de empate la o el Presidente tendrá voto de calidad.
 
-El Presidente podrá invitar a las sesiones del pleno a otros funcionarios o especialistas en la materia, cuya participación se considere indispensable o valiosa para el desarrollo del Sistema Estatal del Deporte.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+La o el Presidente podrá invitar a las sesiones del pleno a otras y otros funcionarios o especialistas en la materia, cuya participación se considere indispensable o valiosa para el desarrollo del Sistema Estatal del Deporte.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 Las funciones y demás atribuciones del Consejo Estatal del Deporte, se establecerán en el Reglamento de la presente Ley.
 
 ### CAPITULO III. DEL PROGRAMA ESTATAL DEL DEPORTE
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 16.
 
-El Programa Estatal del Deporte es el conjunto de acciones y procedimientos tendientes a planificar el desarrollo del deporte en el Estado. Será formulado por el Gobernador del Estado, en coordinación con la Secretaría de Educación Pública del Estado y el Consejo Estatal del Deporte, siendo instrumento rector de todas las actividades no profesionales del Sistema Estatal del Deporte.
+El Programa Estatal del Deporte es el conjunto de acciones y procedimientos tendientes a planificar el desarrollo del deporte en el Estado. Será formulado por la persona Titular del Poder Ejecutivo del Estado, en coordinación con la Secretaría de Educación y el Consejo Estatal del Deporte, siendo instrumento rector de todas las actividades no profesionales del Sistema Estatal del Deporte.
 
 ###### ARTICULO 17.
 
@@ -313,11 +337,11 @@ XIII.- La creación del Salón de Honor del Deportista Poblano.
 
 ### CAPITULO IV. DEL REGISTRO DEL SISTEMA ESTATAL DEL DEPORTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 19.
 
-El Sistema Estatal del Deporte, por conducto de la Secretaría de Educación Pública del Estado, se encargará de la inscripción de los deportistas, órganos deportivos no profesionales, instalaciones para la práctica del deporte, eventos deportivos, y todas aquellas actividades relacionadas con el deporte en el Estado.
+El Sistema Estatal del Deporte, por conducto de la Secretaría de Educación, se encargará de la inscripción de los deportistas, órganos deportivos no profesionales, instalaciones para la práctica del deporte, eventos deportivos, y todas aquellas actividades relacionadas con el deporte en el Estado.
 
 Los deportistas profesionales deberán inscribirse en el Registro Estatal del Deporte, cuando participen en competencias eliminatorias y selectivas, tendientes a obtener la representación del Estado.
 
@@ -343,9 +367,9 @@ II.- Promover y organizar en sus comunidades, actividades físico-deportivas y r
 
 III.- Coordinarse con los Organismos Deportivos Municipales, en todas sus promociones de carácter no profesional en el área del deporte y atención a la Juventud;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-IV.- Facilitar la plena utilización de las instalaciones deportivas, pertenecientes al Municipio, en cuyo caso, la Secretaría de Educación Pública, previo convenio que celebre con el Ayuntamiento de que se trate, podrá verificar el desarrollo de las actividades deportivas que se practiquen en dichas instalaciones y coadyuvar en la programación del uso de las mismas; de tal manera, que en las instalaciones mencionadas, se presten servicios al mayor número de deportistas, aún fuera de los horarios normales de actividades;
+IV.- Facilitar la plena utilización de las instalaciones deportivas, pertenecientes al Municipio, en cuyo caso, la Secretaría de Educación, previo convenio que celebre con el Ayuntamiento de que se trate, podrá verificar el desarrollo de las actividades deportivas que se practiquen en dichas instalaciones y coadyuvar en la programación del uso de las mismas; de tal manera, que en las instalaciones mencionadas, se presten servicios al mayor número de deportistas, aún fuera de los horarios normales de actividades;
 
 V.- Llevar un registro de las instalaciones deportivas de su Municipio, así como su estado de mantenimiento y conservación;
 
@@ -383,11 +407,17 @@ Los Consejos Municipales del Deporte y Atención a la Juventud, tendrán como fu
 
 Los Consejos Municipales del Deporte y Atención a la Juventud, estarán integrados por:
 
-I.- El Director del Comité Municipal del Deporte y Atención a la Juventud, que será designado por el Presidente Municipal;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-II.- Un Consejero por cada liga deportiva, debidamente constituida y acreditada ante el Comité Municipal del Deporte y Atención a la Juventud; y
+I.- La o el Director del Comité Municipal del Deporte y Atención a la Juventud, que será designado por la o el Presidente Municipal;
 
-III.- Un representante de cada Sistema Educativo en el Municipio.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+II.- Una o un Consejero por cada liga deportiva, debidamente constituida y acreditada ante el Comité Municipal del Deporte y Atención a la Juventud; y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+III.- Una o un representante de cada Sistema Educativo en el Municipio.
 
 ###### ARTICULO 24.
 
@@ -423,11 +453,15 @@ I.- Adecuar los estatutos o reglamentos a efecto de establecer los derechos y ob
 
 II.- Prever en los mismos el órgano de arbitraje, en los casos en que lo señale el reglamento de esta Ley.
 
-### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL DEPORTISTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DE LA Y EL DEPORTISTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 27.
 
-Son derechos del deportista:
+Son derechos de la y el deportista:
 
 I.- Practicar el o los deportes de su elección;
 
@@ -437,7 +471,9 @@ III.- Utilizar las instalaciones deportivas públicas;
 
 IV.- Contar con los espacios adecuados para la práctica del deporte de su elección;
 
-V.- Recibir asistencia y entrenamiento deportivo, así como los servicios médicos adecuados en competencias oficiales;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+V.- Recibir asistencia y entrenamiento deportivo, así como los servicios médicos, psicológicos y de nutrición adecuados en competencias oficiales;
 
 VI.- Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales, emanados del Sistema Estatal del Deporte;
 
@@ -445,13 +481,15 @@ VII.- Desempeñar cargos directivos, siempre y cuando hayan sido elegidos en asa
 
 VIII.- Recibir toda clase de estímulos, becas, premios y reconocimientos;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-IX.- En caso de distinguirse como atletas de alto rendimiento, de acuerdo a los lineamientos que establezca la Comisión Nacional del Deporte, tendrán derecho a recibir servicios médicos, previo convenio que para tal efecto celebre la Secretaría de Educación Pública del Estado, con instituciones oficiales que presten seguridad médico-social.
+IX.- En caso de distinguirse como atletas de alto rendimiento, de acuerdo a los lineamientos que establezca la Comisión Nacional del Deporte, tendrán derecho a recibir servicios médicos, psicológicos y de nutrición, previo convenio que para tal efecto celebre la Secretaría de Educación, con instituciones oficiales que presten seguridad médico-social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 28.
 
-Son obligaciones del deportista:
+Son obligaciones de la y el deportista:
 
 I.- Ser un ejemplo para la niñez, la juventud y la sociedad;
 
@@ -481,9 +519,9 @@ a).- Dinero o en especie;
 
 b).- Becas académicas y/o económicas;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-A fin de concretar lo anterior, el Gobierno del Estado a través de la Secretaría de Educación Pública del Estado, celebrará convenios con instituciones públicas y privadas, con la finalidad de otorgar becas a atletas de alto rendimiento, así como conceder las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus requerimientos:
+A fin de concretar lo anterior, el Gobierno del Estado a través de la Secretaría de Educación, celebrará convenios con instituciones públicas y privadas, con la finalidad de otorgar becas a atletas de alto rendimiento, así como conceder las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus requerimientos;
 
 c).- Capacitación;
 
@@ -493,13 +531,15 @@ e).- Asistencia.
 
 Los estímulos se darán con base a los requisitos que para ello establezca el reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-Las personas físicas y jurídicas cuya actividad primordial sea la enseñanza, práctica o desarrollo de cualquier rama del deporte con fin lucrativo, deberán cumplir con los requerimientos técnicos oficiales, que al efecto establezcan las federaciones y los organismos internacionales, nacionales y la Secretaría de Educación Pública del Estado; así mismo, dichas personas deberán contar con el aval de la Asociación Deportiva respectiva y con la acreditación oficial del Sistema de Capacitación y Certificación de Entrenadores Deportivos.
+Las personas físicas y jurídicas cuya actividad primordial sea la enseñanza, práctica o desarrollo de cualquier rama del deporte con fin lucrativo, deberán cumplir con los requerimientos técnicos oficiales, que al efecto establezcan las federaciones y los organismos internacionales, nacionales y la Secretaría de Educación; así mismo, dichas personas deberán contar con el aval de la Asociación Deportiva respectiva, y con la acreditación oficial del Sistema de Capacitación y Certificación de Entrenadores Deportivos.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 30.
 
-El Gobernador del Estado, promoverá la constitución de un fondo estatal para el desarrollo del deporte, con la participación de los sectores público, social y privado.
+La persona Titular del Poder Ejecutivo del Estado, promoverá la constitución de un fondo estatal para el desarrollo del deporte, con la participación de los sectores público, social y privado.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2016)</small>
 
@@ -545,7 +585,9 @@ c).- Organismos deportivos municipales;
 
 d).- Instituciones educativas;
 
-e).- El deportista individual, cuya actividad deportiva esté amparada en esta Ley; y
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+e).- La o el deportista individual, cuya actividad deportiva esté amparada en esta Ley; y
 
 f).- Directivos, jueces, árbitros y organizadores de competencias deportivas que estén dentro del ámbito de aplicación de esta Ley.
 
@@ -569,7 +611,9 @@ b).- Suspensión temporal;
 
 c).- Destitución de su cargo.
 
-III.- Para el deportista:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+III.- Para la y el deportista:
 
 a).- Amonestación privada o pública;
 
@@ -627,23 +671,23 @@ Para impugnar la determinación que resuelva el Recurso de Inconformidad, proced
 
 Se declara de interés social, la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de instalaciones deportivas, el Gobierno del Estado a través de la instancia encargada del deporte, promoverá la participación de los sectores social y privado para el logro de los fines mencionados, de acuerdo a lo señalado en el Reglamento de la presente Ley.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 36.
 
-El Ejecutivo Estatal, a través de la Secretaría de Educación Pública del Estado, determinará los espacios destinados a la práctica deportiva y de recreación pública, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de este Ordenamiento y su Reglamento.
+La persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Educación, determinará los espacios destinados a la práctica deportiva y de recreación pública, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de este Ordenamiento y su Reglamento.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 37.
 
-Los responsables de las instalaciones deportivas inscritas en el Registro Estatal del Deporte, deberán, así mismo, registrar su calendario anual de actividades ante la Secretaría de Educación Pública del Estado.
+Los responsables de las instalaciones deportivas inscritas en el Registro Estatal del Deporte, deberán, así mismo, registrar su calendario anual de actividades ante la Secretaría de Educación.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado, a través de la Secretaría de Educación Pública de la Entidad, hará más eficiente el uso de las instalaciones deportivas del Estado, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de la presente Ley; programando su uso de tal manera, que presten servicio al mayor número de deportistas, aún fuera del horario normal de actividades.
+La persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Educación de la Entidad, hará más eficiente el uso de las instalaciones deportivas del Estado, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de la presente Ley; programando su uso de tal manera, que presten servicio al mayor número de deportistas, aún fuera del horario normal de actividades.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
 
@@ -657,25 +701,25 @@ En la construcción de instalaciones deportivas, deberá tomarse en cuenta las o
 
 En la reestructuración de las instalaciones deportivas ya existentes y en el acondicionamiento de las que se construyan, se deberá tomar en cuenta el deporte adaptado para personas con discapacidad y el deporte para adultos mayores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 41.
 
-Las instalaciones deportivas públicas ubicadas dentro del Estado, deberán inscribirse en el Registro Estatal del Deporte, el cual estará a cargo de la Secretaría de Educación Pública del Estado, en concordancia con el Registro Nacional del Deporte.
+Las instalaciones deportivas públicas ubicadas dentro del Estado, deberán inscribirse en el Registro Estatal del Deporte, el cual estará a cargo de la Secretaría de Educación, en concordancia con el Registro Nacional del Deporte.
 
 Las instalaciones deportivas de carácter público, deberán destinarse preferentemente a eventos deportivos; cuando sean utilizadas para fines diversos, se respetarán los programas y calendarios deportivos establecidos con anterioridad.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-De los ingresos derivados de las actividades señaladas en el párrafo anterior, se destinará un porcentaje al mejoramiento de las instalaciones deportivas; además el Ayuntamiento correspondiente, o la Secretaría de Educación Pública del Estado, fijará a los organizadores una fianza que garantice la reparación de los desperfectos que en su caso se causen, conforme a lo dispuesto en el Reglamento de la presente Ley.
+De los ingresos derivados de las actividades señaladas en el párrafo anterior, se destinará un porcentaje al mejoramiento de las instalaciones deportivas; además el Ayuntamiento correspondiente, o la Secretaría de Educación, fijará a los organizadores una fianza que garantice la reparación de los desperfectos que en su caso se causen, conforme a lo dispuesto en el Reglamento de la presente Ley.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 42.
 
-Los responsables de las instalaciones deportivas públicas deberán tramitar su registro ante la Secretaría de Educación Pública del Estado, misma que verificará que sean las adecuadas para la práctica del deporte, con la calidad, seguridad y requerimientos conforme a lo establecido por el Reglamento de esta Ley.
+Los responsables de las instalaciones deportivas públicas deberán tramitar su registro ante la Secretaría de Educación, misma que verificará que sean las adecuadas para la práctica del deporte, con la calidad, seguridad y requerimientos conforme a lo establecido por el Reglamento de esta Ley.
 
-La Secretaría de Educación Pública del Estado, previo convenio que celebre con el Ayuntamiento correspondiente, realizará visitas anuales y en su caso, procederá a la clausura de aquellas instalaciones deportivas que no cumplan con los requisitos establecidos.
+La Secretaría de Educación, previo convenio que celebre con el Ayuntamiento correspondiente, realizará visitas anuales y en su caso, procederá a la clausura de aquellas instalaciones deportivas que no cumplan con los requisitos establecidos.
 
 ## TRANSITORIOS
 
@@ -760,5 +804,13 @@ P.O. 13 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA LEY ESTATAL DE DEPORTE”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 8, EL PRIMER PÁRRAFO DEL 9, EL 12, LAS FRACCIONES I, II III, IV Y EL ÚLTIMO PÁRRAFO DEL 13, LAS FRACCIONES II, IX, X Y XI DEL 14, EL PRIMER Y SEGUNDO PÁRRAFOS DEL 15, EL 16, EL PRIMER PÁRRAFO DEL 19, LA FRACCIÓN IV DEL 21, LAS FRACCIONES I, II Y III DEL 23, EL CAPÍTULO II DEL TÍTULO III, EL PRIMER PÁRRAFO Y LAS FRACCIONES V Y IX DEL 27, EL PRIMER PÁRRAFO DEL 28, EL SEGUNDO Y ÚLTIMO PÁRRAFOS DEL 29, EL 30, EL INCISO E) DEL SEGUNDO PÁRRAFO DEL 31, LA FRACCIÓN III DEL 32, EL 36, EL 37, EL 38, EL PRIMER Y TERCER PÁRRAFOS DEL 41 Y EL 42; Y ADICIONA LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 14, TODOS DE LA LEY ESTATAL DEL DEPORTE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
