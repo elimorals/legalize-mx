@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-118373"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-01-09"
-last_updated: "2021-05-21"
+last_updated: "2021-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de enero de 2017.
 
@@ -1199,7 +1199,17 @@ XXXVII. Vigilar que se cumplan las disposiciones legales y administrativas relac
 
 XXXVIII. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados conforme a ley de la materia, y
 
-XXXIX. Las demás que expresamente le confiera esta ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XXXVIII. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados conforme a ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XXXIX. Establecer las bases y lineamientos para la promoción del Derecho de Petición en condiciones accesibles, especialmente a través de las plataformas digitales correspondientes, que pondrán a disposición de la ciudadanía a través de formatos para su ejercicio y mecanismos de atención y asesoría, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XL. Las demás que expresamente le confiera esta ley y demás disposiciones aplicables.
 
 ###### Artículo 97.
 
@@ -2634,3 +2644,11 @@ DÉCIMO SEGUNDO. El Consejo de la Judicatura deberá emitir los lineamientos adm
 DÉCIMO TERCERO. El Consejo de la Judicatura implementará un sistema de gestión que garantice el control y eficiencia de las Centrales de las personas ejecutoras y notificadoras en materia del trabajo.
 
 DÉCIMO CUARTO. La Legislatura Estatal promoverá en los presupuestos de egresos correspondientes los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de Puebla y para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXVIII Y XXXIX, Y ADICIONA LA FRACCIÓN XL AL ARTÍCULO 96 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
