@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-tribunal-de-justicia-administrativa-del-122685
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2021-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el martes 18 de julio de 2017.
 
@@ -517,9 +517,17 @@ XXII. Ordenar la depuración y baja de expedientes totalmente concluidos con tre
 
 XXIII. Recibir y atender las visitas de verificación ordenadas por la Auditoría Superior del Estado de Puebla y supervisar que se solventen las observaciones que formule, a través de la unidad administrativa correspondiente;
 
-XXIV. Supervisar la correcta operación y funcionamiento de las oficialías de partes comunes y de las Salas, según sea el caso y demás unidades administrativas del Tribunal, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-XXV. Las demás que establezca la presente Ley y las disposiciones aplicables.
+XXIV. Supervisar la correcta operación y funcionamiento de las oficialías de partes comunes y de las Salas, según sea el caso y demás unidades administrativas del Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XXV. Establecer las bases y lineamientos para la promoción del Derecho de Petición en condiciones accesibles, especialmente a través de las plataformas digitales correspondientes, que pondrán a disposición de la ciudadanía a través de formatos para su ejercicio y mecanismos de atención y asesoría, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XXVI. Las demás que establezca la presente Ley y las disposiciones aplicables.
 
 ###### ARTÍCULO 24.
 
@@ -894,3 +902,13 @@ SEXTO. Las erogaciones que se deriven de la aplicación de la presente Ley, esta
 El Gobernador, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de julio de dos mil diecisiete. Diputado Presidente. JOSÉ GERMÁN JIMÉNEZ GARCÍA. Rúbrica. Diputado Vicepresidente. MARCO ANTONIO RODRÍGUEZ ACOSTA. Rúbrica. Diputado Secretario. JOSÉ ÁNGEL RICARDO PÉREZ GARCÍA. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de julio de dos mil diecisiete. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de la Contraloría. C. JOSÉ VILLAGRANA ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXIV Y XXV, Y ADICIONA LA FRACCIÓN XXVI AL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
