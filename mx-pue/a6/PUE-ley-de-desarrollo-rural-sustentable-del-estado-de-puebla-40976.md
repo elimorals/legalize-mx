@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2021-11-05"
+last_updated: "2021-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -57,9 +57,9 @@ En el ámbito de competencia estatal, son sujetos de esta Ley los ejidos, las co
 
 Para los efectos de esta Ley, se entiende por:
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-I.- Actividades Agropecuarias.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura, acuacultura y apícultura;
+I.- Actividades Agropecuarias.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura incluye cultivos inocuos en tierra y sustratos inertes sin tierra, ganadería, silvicultura, acuacultura y apicultura;
 
 II.- Actividades Económicas de la Sociedad Rural.- Las actividades productivas, industriales, comerciales y de servicios agropecuarios;
 
@@ -109,13 +109,17 @@ XXIII.- Servicios Ambientales.- Los beneficios que obtiene la sociedad de los re
 
 XXIV.- Sistema-Producto.- El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios incluyendo el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-XXV.- Sustentabilidad.- Acción que integra criterios e indicadores de carácter ambiental, económico social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las futuras generaciones; y
+XXV.- Sustentabilidad.- Acción que integra criterios e indicadores de carácter ambiental, económico social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las futuras generaciones;
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-XXVI.- Inocuidad Alimentaria.- Principio que rige la producción alimentaria, que abarca desde la producción hasta la cosecha, el procesamiento, el almacenamiento, la distribución, hasta la preparación y el consumo de los alimentos, lo anterior para combatir el uso de agentes patógenos nocivos que alteran o afectan al medio ambiente, dirigido a procurar la sanidad de los alimentos priorizando la salud de quien los consuma.
+XXVI.- Inocuidad Alimentaria.- Principio que rige la producción alimentaria, que abarca desde la producción hasta la cosecha, el procesamiento, el almacenamiento, la distribución, hasta la preparación y el consumo de los alimentos, lo anterior para combatir el uso de agentes patógenos nocivos que alteran o afectan al medio ambiente, dirigido a procurar la sanidad de los alimentos priorizando la salud de quien los consuma, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+XXVII.- Técnica Hidropónica.- Es un sistema de cultivo, en el cual se logra el desarrollo de las plantas en medios acuosos sin la necesidad del suelo.
 
 ###### ARTÍCULO 5.
 
@@ -1494,6 +1498,14 @@ TERCERO. El Ejecutivo del Estado una vez a la entrada en vigor del presente Decr
 P.O. 5 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, XXV Y XXVI, Y ADICIONA LA FRACCIÓN XXVII DEL ARTÍCULO 4 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
