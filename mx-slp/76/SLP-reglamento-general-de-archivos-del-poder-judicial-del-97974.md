@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-general-de-archivos-del-poder-judicial-del-97974"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-12-10"
-last_updated: "2013-12-10"
+last_updated: "2021-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de diciembre de 2013.
 
@@ -549,19 +549,11 @@ Los documentos y expedientes electrónicos producidos por los servidores judicia
 
 Los órganos judiciales, deberán contar con sistemas de información cuyo uso es obligatorio, a menos de que no cuenten con la infraestructura tecnológica indispensable. Los titulares de dichos órganos deberán validar la información que se registre en los mencionados sistemas.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 36.
 
-Cada año, durante el mes de abril, Tecnologías de la Información, dependiente del Secretariado Ejecutivo de Administración, elaborará un diagnóstico que turnará, con el visto bueno del Secretariado Ejecutivo, a las Comisiones de Planeación, de Administración y Presupuesto, así como al Comité, donde se describa la situación de los sistemas de información en el Poder Judicial, debiendo detallar cuando menos, el estado en el que se encuentra cada uno de los órganos judiciales en cuanto al equipo, a los sistemas operativos que usa cada computadora y los sistemas de información en uso. Con base en este documento, la misma área del Consejo:
-
-I. Propondrá las adquisiciones, de hardware y software, que se deberán presupuestar para el ejercicio siguiente;
-
-II. Elaborará un programa de capacitación dirigido a servidores judiciales. Del mismo modo, deberá proponer un programa de capacitación al público usuario de los sistemas. Cuando sea necesario, se elaborarán también folletos que informen cuales son los servicios electrónicos que ofrece el Poder Judicial y expliquen como se usan. Si no hay recursos disponibles para ello, serán elaborados de manera digital y subidos al portal de transparencia.
-
-III. Propondrá la creación o modificación de sistemas de información; y
-
-IV. En general, hará saber al Pleno de cualquier necesidad de mejora.
-
-Una vez analizado por las comisiones mencionadas y el Comité, le harán observaciones y lo turnarán al Pleno quién determinará e instruirá lo conducente.
+A fin de garantizar y coadyuvar a la preservación de los archivos del Poder Judicial del Estado, el área de Tecnologías de la Información realizará un diagnóstico de los equipos de cómputo y los sistemas de información conforme lo establezca su manual de procedimientos o lineamientos operativos.
 
 ###### Artículo 37.
 
@@ -1008,3 +1000,13 @@ LIC. CARLOS ALEJANDRO PONCE RODRÍGUEZ
 SECRETARIO EJECUTIVO DE PLENO Y CARRERA JUDICIAL
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE DETERMINA REFORMAR EL ARTÍCULO 36 DEL REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO".]
+
+PRIMERO.- La presente reforma al Reglamento General de Archivos del Poder Judicial del Estado de San Luis Potosí, entrará en vigor a partir del día siguiente a su aprobación, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial de Gobierno del Estado "Plan de San Luis", así como en la página de internet del Poder Judicial del Estado.
