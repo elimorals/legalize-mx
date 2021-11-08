@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-integral-escolar-para-el-estado-libre-y-79854"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2021-03-01"
+last_updated: "2021-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
@@ -35,7 +35,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE y' SOBERANO DE PUEBLA
 
-CONSIDERANDO ..
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción l. 63 fracción II de la Constitución Política del Estado Libre y Soberano de Puebla; 69 fracción II, 70 y 71 de la Ley Orgánica del Poder del Legislativo del Estado Libre y Soberano de Puebla; y 93 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
 
@@ -55,9 +57,9 @@ II.- Crear y fortalecer vínculos permanentes entre las diferentes instancias qu
 
 III.- Otorgar atribuciones a los integrantes de la comunidad escolar para establecer, ejecutar y en su caso, vigilar las acciones, proyectos y programas en materia de seguridad escolar que permitan el seguimiento y evaluación constante de los mismos;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
-IV.- Prevenir la violencia, el hostigamiento y el acoso escolar en las instituciones educativas del Estado, así como otorgar apoyo asistencial a las víctimas;
+IV.- Prevenir la violencia, el hostigamiento y el acoso escolar en las instituciones educativas del Estado, en cualquiera de sus modalidades y opciones educativas, así como otorgar apoyo asistencial a las víctimas;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -74,6 +76,10 @@ VI.- Establecer un Programa de Seguridad Escolar Integral, que servirá de instr
 Para los efectos y la aplicación de esta Ley, se entenderá por:
 
 I.- Acoso escolar: El comportamiento negativo, repetitivo e intencional que llevan a cabo uno o más individuos contra una persona que tiene dificultades para defenderse; a la relación interpersonal caracterizada por el desequilibrio de poder o fuerza, que ocurre de manera repetida durante algún tiempo y no existe una provocación aparente por parte de la víctima, siempre que se dirija contra uno o más alumnos; entorpezca significativamente las oportunidades educativas o la participación en programas educativos de dichos alumnos; y perjudique la disposición de un alumno a participar o aprovechar los programas o actividades educativas del centro escolar, al hacerle sentir un temor razonable a sufrir alguna agresión física;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+I Bis.- Acoso Escolar Cibernético: Consiste en utilizar las tecnologías de la información y la comunicación, para acosar, amenazar, avergonzar, intimidar o criticar a otra persona, lo cual se produce entre niñas, niños y/o adolescentes.
 
 II.- Brigada: Grupo de personas seleccionadas de entre los integrantes de la comunidad escolar, que interactúan y se reúnen con la finalidad de tomar las medidas necesarias para velar por la seguridad escolar de la institución educativa a la que pertenecen;
 
@@ -607,7 +613,9 @@ V.- Establecer en sus reglamentos y disposiciones internas, los mecanismos adecu
 
 El acoso escolar será considerado como tal cuando:
 
-I.- Ocurra dentro de las instalaciones de una institución educativa;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
+I.- Ocurra dentro de las instalaciones de una institución educativa, o en cualquiera de sus modalidades y opciones educativas;
 
 II.- Se lleve a cabo durante el desenvolvimiento de un programa o actividad escolar auspiciada por una institución educativa;
 
@@ -619,13 +627,17 @@ IV.- Se utilicen programas informáticos que sean procesados mediante una comput
 
 ### CAPÍTULO II. DEL MANUAL DE CONVIVENCIA ESCOLAR
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 34.
 
-La Secretaría diseñará los lineamientos necesarios para prevenir la violencia, el hostigamiento y el acoso escolar, los cuales serán de observancia general en todas las instituciones del Sistema Educativo del Estado.
+La Secretaría diseñará los lineamientos necesarios para prevenir la violencia, el hostigamiento, el acoso escolar y el acoso escolar cibernético, los cuales serán de observancia general en todas las instituciones del Sistema Educativo del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
 Los lineamientos deberán estar contenidos en el Manual de Convivencia Escolar, que será difundido por la Secretaría en sitios electrónicos y en lugares visibles de las Instituciones Educativas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
 Cada institución educativa deberá proporcionar una copia impresa del Manual de Convivencia Escolar a los padres de familia y a cada profesor al momento de la matrícula.
 
@@ -908,3 +920,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Consejo Estatal de Seguridad Escolar, contará con 120 días naturales para adecuar el Programa de Seguridad Integral Escolar.
+
+P.O. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 1, LA FRACCIÓN I DEL 33, EL PRIMER PÁRRAFO DEL 34, Y ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 2, TODOS DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE CLASES EN LA MODALIDAD A DISTANCIA Y ACOSO ESCOLAR CIBERNÉTICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
