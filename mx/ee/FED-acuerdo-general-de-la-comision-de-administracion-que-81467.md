@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-que-81467"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-27"
-last_updated: "2011-05-27"
+last_updated: "2021-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-06-01"
 ---
 # ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION QUE CONTIENE LOS CRITERIOS PARA CONCEDER LICENCIAS DE MATERNIDAD Y PATERNIDAD AL PERSONAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN QUE CONTIENE LOS CRITERIOS PARA CONCEDER LICENCIAS DE MATERNIDAD Y PATERNIDAD AL PERSONAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 8 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION QUE CONTIENE LOS CRITERIOS PARA CONCEDER LICENCIAS DE MATERNIDAD Y PATERNIDAD AL PERSONAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE NOVIEMBRE DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 20011.
 
@@ -134,3 +136,21 @@ EL SUSCRITO, MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMIN
 CERTIFICA
 
 Que el presente documento en 9 fojas útiles, incluyendo la presente, corresponden al ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION QUE CONTIENE LOS CRITERIOS PARA CONCEDER LICENCIAS DE MATERNIDAD Y PATERNIDAD AL PERSONAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, aprobado por la Comisión de Administración mediante acuerdo 94/S4(21-IV- 2010), emitido en la Cuarta Sesión Ordinaria de 2010, que obra en los archivos de la Coordinación de Asuntos Jurídicos.- DOY FE.- México, Distrito Federal, 1 de junio de 2010.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN QUE CONTIENE LOS CRITERIOS PARA CONCEDER LICENCIAS DE MATERNIDAD Y PATERNIDAD AL PERSONAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su mayor difusión publíquese en la página de internet e intranet del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Se abroga Acuerdo General de la Comisión de Administración que contiene los criterios para conceder licencias de maternidad y paternidad al personal del Tribunal Electoral del Poder Judicial de la Federación, aprobado por la Comisión de Administración y publicado en el Diario Oficial de la Federación el 27 de mayo de 2011.
+
+CUARTO. Se instruye a la persona titular de la Secretaría Administrativa para que una vez que sea aprobado el presente Acuerdo General realice las gestiones conducentes a través de las áreas responsables, a fin de que se procedan a su exacta aplicación y observancia.
+
+QUINTO. Se delega en la persona titular de la Secretaría Administrativa la facultad para resolver las situaciones excepcionales relacionadas con este Acuerdo General, las cuales deberá informar oportunamente a la Comisión de Administración.
+
+SEXTO. Se instruye a las áreas responsables a fin de que actualicen la normatividad involucrada en la aplicación de este Acuerdo General.
