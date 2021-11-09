@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2021-09-21"
+last_updated: "2021-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1951,15 +1951,17 @@ Para efectos de la fracción IV del presente artículo, se considerará que se d
 
 Comete el delito a que se refiere este capítulo, el que favoreciere la evasión de quien se encuentre detenido, procesado o sentenciado.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTICULO 159.
 
-Al responsable del delito de Evasión de Presos se le impondrá sanción de seis meses a siete años de prisión; si la evasión se favoreciere por un servidor público con motivo del desempeño de su cargo, se sancionará además, con la destitución de su empleo.
+Al responsable del delito de Evasión de Presos se le impondrá sanción de dos a ocho años de prisión; si la evasión se favoreciere por un servidor público con motivo del desempeño de su cargo, se sancionará además, con la destitución de su empleo.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 160.
 
-Se aplicará sanción de cuatro a doce años de prisión a los particulares que favorezcan al mismo tiempo la evasión de varias personas privadas de libertad por la autoridad competente. Si los responsables fueren servidores públicos y en el ejercicio de su cargo favorecieren la evasión, se les aplicará además lo previsto en la segunda parte del artículo anterior y se les inhabilitará para obtener otro durante un período de ocho a doce años.
+Se aplicará sanción de seis a catorce años de prisión a los particulares que favorezcan al mismo tiempo la evasión de varias personas privadas de libertad por la autoridad competente. Si los responsables fueren servidores públicos y en el ejercicio de su cargo favorecieren la evasión, se les aplicará además lo previsto en la segunda parte del Artículo anterior y se les inhabilitará para obtener otro durante un período de ocho a doce años.
 
 ###### ARTICULO 161.
 
@@ -2719,6 +2721,10 @@ A los responsables de los delitos previstos en los artículos 209, fracciones I,
 
 A los infractores de las fracciones V, VI, VII y VIII del artículo 209, se les impondrá una sanción de tres a siete años de prisión y de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización y destitución en su caso, e inhabilitación de cuatro a siete años para desempeñar un empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública.
+
 ### CAPITULO III. ABUSO DE AUTORIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
@@ -3011,6 +3017,10 @@ III.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
 IV.- Cuando por cualquier circunstancia no sea posible determinar el monto de las operaciones que constituyan las conductas señaladas en el artículo que antecede, la sanción a imponer será de seis meses a tres años de prisión y multa de cuarenta a ochenta veces el valor diario de la Unidad de Medida y Actualización, destitución del empleo, cargo o comisión, e inhabilitación de uno a tres años para desempeñar otro de carácter público.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública.
+
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
 ###### ARTICULO 228.
@@ -3229,13 +3239,17 @@ XLIX.- A quien ejerciendo funciones de supervisor de libertad falsee informes o 
 
 L.- Se abstenga de iniciar una investigación de un hecho que la ley señale como delito, cuando sea puesto a su disposición un probable responsable o un imputado de delito doloso que sea perseguible de oficio;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
-LI.- Fabrique, altere o simule elementos, datos o medios de prueba para incriminar o exculpar a otro; y
+LI.- Fabrique, altere o simule elementos, datos o medios de prueba para incriminar o exculpar a otro;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
-LII.- Durante el trámite de una investigación o durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte datos, medios de prueba o se desahoguen éstos últimos, todos relativos a la comisión de un delito.
+LII.- Durante el trámite de una investigación o durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte datos, medios de prueba o se desahoguen éstos últimos, todos relativos a la comisión de un delito; y
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+LIII.- Fuera de los casos previstos en las leyes aplicables, proporcione a cualquier persona ajena a éstas, información a la que tenga acceso con motivo de sus funciones, protección o facilidades en el servicio confiado a su cargo; así como adiestramiento, capacitación o conocimientos policiales.
 
 ###### ARTICULO 233.
 
@@ -3245,13 +3259,17 @@ Al responsable en la comisión de los delitos previstos en el artículo anterior
 
 I.- A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XIV, XX, XXV, XXVI, XLV y XLVI se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
-II.- A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI y LII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+II.- A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI, LII y LIII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública.
 
 ###### ARTICULO 234.
 
@@ -3515,6 +3533,10 @@ De verificarse el perjuicio o los beneficios a que se refiere el primer párrafo
 
 Cuando en la comisión de este delito intervenga de forma directa o indirecta un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública.
+
 ###### ARTICULO 255.
 
 Comete el delito de falsedad en informes dados a una autoridad el que los rinda a ésta afirmando una falsedad o negando la verdad en todo o en parte.
@@ -3528,6 +3550,10 @@ Al responsable del delito a que se refieren los artículos anteriores de éste c
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 La sanción podrá ser hasta de quince años de prisión para el testigo falso a que se refiere la Fracción II del Artículo 254, que fuere examinado en un juicio penal y al sentenciado se le imponga una sanción de más de veinte años de prisión por habérsele dado valor probatorio a la declaración de aquél. Lo mismo se observará para las personas a que se refiere la fracción IV del citado artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -5635,6 +5661,10 @@ VI.- Al que habiéndose hecho cargo por casos de urgencia de la curación de alg
 
 A los responsables del delito de encubrimiento se les impondrá una sanción de tres meses a cuatro años de prisión y multa de seis a sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública.
+
 ###### ARTICULO 441.
 
 Las sanciones a que se refiere el artículo anterior se impondrán a la persona que adquiera o pignore la cosa robada sin cerciorarse de su legítima procedencia.
@@ -7030,3 +7060,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-810 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
