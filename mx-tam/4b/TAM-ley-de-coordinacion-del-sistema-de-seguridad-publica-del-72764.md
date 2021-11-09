@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2021-09-23"
+last_updated: "2021-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -425,7 +425,7 @@ I. Recibir un trato digno y decoroso por parte de sus superiores jerárquicos, i
 
 II. Contar permanentemente con oportunidades de formación y desarrollo para hacer un servicio civil de carrera, y reunir los atributos necesarios para cumplir en su actuación los principios constitucionales de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos;
 
-III. Participar en concursos de promoción y procesos de evaluación curricular para ascender a la jerarquía inmediata superior;
+III. (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
@@ -517,9 +517,15 @@ XXXIV. Participar en operativos de coordinación con otras corporaciones policia
 
 XXXV. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
 
-XXXVI. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en caso de flagrancia; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
-XXXVII. Las demás que establezcan las disposiciones legales aplicables.
+XXXVI. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en caso de flagrancia;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+XXXVII. Participar en concursos de promoción y procesos de evaluación curricular para ascender a la jerarquía inmediata superior; y
+
+XXXVIII. Las demás que establezcan las disposiciones legales aplicables.
 
 ### CAPITULO V. DE LAS ATRIBUCIONES
 
@@ -2386,6 +2392,18 @@ P.O. 23 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIV-810 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
