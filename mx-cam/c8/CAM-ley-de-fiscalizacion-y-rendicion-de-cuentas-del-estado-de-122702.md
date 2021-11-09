@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12270
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-13"
-last_updated: "2020-12-29"
+last_updated: "2021-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección al Número 0478 del Periódico Oficial del Estado de Campeche, el jueves 13 de julio de 2017.
 
@@ -157,9 +157,9 @@ Tratándose de los informes a que se refieren las fracciones XIX, XX y XXI, del 
 
 La fiscalización de la Cuenta Pública que realiza la Auditoría Superior del Estado se lleva a cabo de manera posterior al término de cada ejercicio fiscal, una vez que el programa anual de auditoría esté aprobado y publicado en su página de internet; tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
-Para la fiscalización superior y en las auditorías que se practiquen, la Auditoría Superior del Estado podrá solicitar información y/o documentación, de manera física o por medios electrónicos o digitales, mediante el uso de firma electrónica avanzada y un sistema para la fiscalización y práctica de auditorías por medios digitales o electrónicos que se establezca, entre otros, que serán obligatorios para los Entes Públicos.
+Para la fiscalización superior y en las auditorías que se practiquen, la Auditoría Superior del Estado podrá solicitar información y/o documentación, de manera física o por medio del Sistema Electrónico autorizado por la dependencia. El uso del referido sistema será obligatorio para las entidades fiscalizadas, salvo causa justificada a criterio de la Auditoría Superior.
 
 ###### Artículo 7.
 
@@ -204,6 +204,10 @@ III. Se aplicarán las multas previstas en este artículo a los terceros que hub
 IV. La reincidencia se sancionará con una multa hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
 
 V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. El Servicio de Administración Fiscal del Estado se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado de Campeche y de las demás disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Los montos de las multas impuestas por la Auditoría Superior del Estado formarán parte de sus recursos propios y solo podrán ser utilizados para fines de capacitación de los entes fiscalizables.
 
 VI. Para imponer la multa que corresponda, la Auditoría Superior del Estado debe citar y oír previamente al presunto infractor y tener en cuenta, en su caso, sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley; y
 
@@ -337,7 +341,9 @@ VIII. Requerir a los auditores externos copia de todos los informes y dictámene
 
 IX. Requerir a terceros que hubieran celebrado contratos de obra pública, contratos para explotación de bienes públicos o recibido en concesión o subcontratado obra pública, administración de bienes o prestación de servicios, o prestado servicios, bienes o proveedurías mediante cualquier título legal con las Entidades Fiscalizadas y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos a efecto de cumplir con la función de fiscalización;
 
-X. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior del Estado sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+X. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas, que a juicio de la Auditoría Superior del Estado sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
 a) Las Entidades Fiscalizadas;
 
@@ -402,6 +408,40 @@ XXVII. Solicitar la información financiera, incluyendo los registros contables,
 XXVIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de las Cuentas Públicas.
 
 La Auditoría Superior del Estado podrá ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique a la Entidad Fiscalizada, salvo disposición en contrario.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+Los procesos de fiscalización a que hace referencia esta Ley podrán ser realizados por la Auditoría Superior del Estado de manera presencial o por medios electrónicos a través de las herramientas tecnológicas y de conformidad con sus Reglas de carácter general.
+
+La Auditoría Superior del Estado contará con un Buzón Digital, a través del cual, de manera enunciativa más no limitativa realizará la notificación de solicitudes de información preliminar, órdenes de auditoría, e informes individuales que contengan acciones, previsiones o recomendaciones, así como, en su caso, cualquier acto que se emita, los cuales constarán en documentos digitales.
+
+Por su parte, las entidades fiscalizadas presentarán solicitudes o darán atención a requerimientos de información de la Auditoría Superior del Estado a través de documentos o archivos digitales certificados enviados a través del Buzón Digital o celebrarán los actos que se requieran dentro del proceso de fiscalización superior.
+
+Los procesos de fiscalización que se realicen a través de medios electrónicos mediante las herramientas tecnológicas constarán en expedientes electrónicos o digitales.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 21 Ter.
+
+Las disposiciones relativas a la auditoría presencial le serán aplicables en lo conducente a la auditoría realizada a través de medios digitales o electrónicos, sin perjuicio de que de manera particular se esté a lo siguiente:
+
+I. Previo al inicio de la auditoría por medios digitales la Auditoría Superior del Estado requerirá por escrito a la entidad fiscalizada, el nombre, cargo, registro federal de contribuyentes y correo o dirección electrónica del servidor público que fungirá como enlace o coordinador para la atención de la auditoría;
+
+II. Una vez recibida la información a que hace referencia la fracción anterior, la Auditoría Superior del Estado, enviará por única ocasión, al correo o dirección electrónica designada, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste;
+
+III. Los servidores públicos de la entidad fiscalizada que se encuentren autorizados para tal efecto harán uso del Buzón Digital para el desahogo de la auditoría por medios electrónicos o digitales, y deberán consultarlo a más tardar dentro de los dos días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por la Auditoría Superior de la Estado;
+
+IV. Para la recepción de las notificaciones electrónicas se implementará el uso de la firma electrónica avanzada y aquellas, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar el sello digital de tiempo emitido de conformidad con las disposiciones jurídicas aplicables, que refleja la fecha y hora en que el servidor público de la entidad fiscalizada se autenticó para abrir el documento a notificar o bien, se tuvo por notificado;
+
+V. Ante la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil siguiente, contado a partir del día en que fue enviado el referido aviso. Será responsabilidad de las entidades fiscalizadas mantener vigente la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría por medios electrónicos o digitales;
+
+VI. En los documentos electrónicos o digitales, la firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio, y
+
+VII. Cuando la Auditoría Superior del Estado por caso fortuito o fuerza mayor, se vea impedida para continuar con la auditoría por medios digitales o electrónicos, ésta se suspenderá hasta que la causa desaparezca, lo cual se deberá publicar en la página de Internet de la Auditoría Superior del Estado acompañada de la fundamentación y motivación correspondiente.
+
+En caso de que la auditoría pueda ser continuada por la vía presencial, ésta se cambiará de modalidad para cumplir con el mandato constitucional en tiempo y forma. En el mismo sentido, el cambio de una auditoría presencial a una digital podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación.
 
 ###### Artículo 22.
 
@@ -671,13 +711,17 @@ Las denuncias podrán presentarse al Congreso, a la Comisión o a la Auditoría 
 
 Las denuncias que se presenten deberán estar fundadas con documentos y evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos locales o de su desvío, en los supuestos establecidos en esta Ley.
 
-El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+El escrito de denuncia podrá presentarse de forma presencial o a través de medios electrónicos y deberá contar, como mínimo, con los siguientes elementos:
 
 I. El ejercicio en que se presentan los presuntos hechos irregulares, y
 
 II. Descripción de los presuntos hechos irregulares.
 
-Al escrito de denuncia deberán acompañarse los elementos de prueba, con los que se cuente, que se relacionen directamente con los hechos denunciados.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Al escrito de denuncia deberán acompañarse los elementos de prueba, con los que se cuente, que se relacionen directamente con los hechos denunciados. La Auditoría Superior del Estado deberá proteger en todo momento la identidad del denunciante.
 
 ###### Artículo 56.
 
@@ -694,6 +738,10 @@ IV. La comisión recurrente de irregularidades en el ejercicio de los recursos p
 V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio o hacienda pública.
 
 La Auditoría Superior del Estado informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+En el caso de las denuncias a través de medios electrónicos, la respuesta se realizará por el mismo medio de conformidad con las disposiciones aplicables.
 
 ###### Artículo 57.
 
@@ -999,9 +1047,11 @@ I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y polític
 
 II. Tener por lo menos treinta años cumplidos el día de la designación;
 
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
-IV. Haber residido en el Estado, durante los cinco años anteriores al día de la designación;
+III. Gozar de buena reputación y no haber sido condenado por delitos intencionales por hechos de corrupción o cometidos por servidores públicos, robo, fraude, falsificación, abuso de confianza o cualquier otro;
+
+IV. (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2021)
 
 V. No haber sido titular de alguna dependencia o entidad de la administración pública estatal o municipal, titular de algún organismo autónomo por disposición constitucional, senador, diputado federal o local, gobernador del Estado, magistrado del Tribunal Superior de Justicia del Estado, Presidente Municipal, dirigente de algún partido político, ni haber sido postulado para cargo de elección popular durante el año previo al día de su nombramiento;
 
@@ -1011,7 +1061,9 @@ VII. Contar el día de su designación, con título de antigüedad mínima de si
 
 VIII. No ser ministro de culto religioso;
 
-IX. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido de algún cargo del sector público; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+IX. No haber sido inhabilitado o removido para desempeñar un empleo, cargo o comisión en el servicio público por la comisión de faltas administrativas graves por autoridad jurisdiccional o política; y
 
 X. No haber administrado o ejercido recursos públicos correspondientes a las Cuentas Públicas del ejercicio fiscal en que se efectúe la designación o de las Cuentas Públicas que se encuentren en proceso de fiscalización por parte de la Auditoría Superior del Estado, ni estar sujeto a procedimiento de responsabilidad administrativa por parte de esta.
 
@@ -1037,6 +1089,10 @@ VII. Nombrar al personal de la Auditoría Superior del Estado, quienes no deber�
 
 VIII. Expedir aquellas normas y disposiciones que esta Ley le confiere a la Auditoría Superior del Estado, así como establecer los elementos que posibiliten la adecuada rendición de cuentas de las Entidades Fiscalizadas y la práctica idónea de las auditorías;
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+Asimismo, expedir las reglas de carácter general aplicables a los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
+
 IX. Representar a la Auditoría Superior del Estado ante el Sistema Nacional de Fiscalización y el Sistema Anticorrupción del Estado de Campeche;
 
 X. Ser el enlace entre la Auditoría Superior del Estado y las comisiones;
@@ -1060,6 +1116,10 @@ XVIII. Autorizar, previa denuncia, la revisión durante el ejercicio fiscal en c
 XIX. Concertar y celebrar, en los casos que estime necesario, convenios con las Entidades Fiscalizadas y la Auditoría Superior de la Federación, con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de su facultad fiscalizadora, la que podrá ejercer de manera directa; así como convenios de colaboración con los organismos nacionales e internacionales que agrupen a entidades de fiscalización superior homólogas o con éstas directamente, con el sector privado y con colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio de carácter nacional o internacional;
 
 XX. Celebrar convenios interinstitucionales con entidades de fiscalización superior de las entidades federativas para la mejor realización de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+XX. Bis. Celebrar convenios de colaboración con las autoridades federales para el Uso de la Firma Electrónica Avanzada y podrá orientar a los entes Fiscalizables, en especial a los Municipios, para la adaptación del respectivo sistema electrónico de fiscalización y de auditorías;
 
 XXI. Rendir informe al Congreso, a través de la Comisión, de la aplicación de su presupuesto aprobado, dentro de los treinta primeros días del mes siguiente al que corresponda su ejercicio;
 
@@ -2136,3 +2196,25 @@ La Auditoría Superior del Estado hará de conocimiento a los entes públicos co
 Quinto.- Las auditorías iniciadas de manera previa a la entrada en vigor de las disposiciones a que se refiere el presente decreto deberán ser concluidas en la modalidad y con apego a las disposiciones con base en las cuales se iniciaron.
 
 Sexto.- Se derogan las disposiciones jurídicas y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. DECRETO NUMERO 8 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6; LA FRACCIÓN X DEL ARTÍCULO 21; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 55; LAS FRACCIONES III Y IX DEL ARTÍCULO 86; SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN V DEL ARTÍCULO 10; LOS ARTÍCULOS 21 BIS Y 21 TER; UN PÁRRAFO TERCERO AL ARTÍCULO 56; UN PÁRRAFO SEGUNDO A LA FRACCIÓN VIII Y UNA FRACCIÓN XX BIS AL ARTÍCULO 87 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 86, TODOS DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CAMPECHE”.]</small>
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. La Auditoría Superior del Estado y los entes fiscalizables, contarán con un plazo de un año, a partir de la publicación del presente decreto, para implementar las adecuaciones tecnológicas necesarias para poner en funcionamiento el sistema electrónico de las dependencias.
+
+Tercero. El titular de la Auditoría Superior del Estado contará con el plazo de 90 días naturales a partir de la publicación del presente decreto, a efecto de expedir las reglas de carácter general para los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen.
+
+Cuarto. La Auditoría Superior del Estado, contará con un plazo no mayor a 90 días naturales a partir de la publicación del presente decreto, para establecer el Buzón Digital de la dependencia, así como los lineamientos respectivos que regulen su funcionamiento.
+
+Asimismo, deberá proporcionar las herramientas necesarias y programas de capacitación a los entes fiscalizables para la debida implementación y ejecución del sistema electrónico y el buzón digital para el desarrollo de las auditorías electrónicas.
+
+Quinto. Para el cumplimiento de este decreto la Auditoría Superior del Estado deberá realizar los ajustes y previsiones presupuestales necesarias para el funcionamiento eficaz de las medidas adoptadas, conforme a la normatividad en materia de austeridad.
+
+Sexto. Los procedimientos de fiscalización y revisión de la Auditoría Superior del Estado de Campeche que surjan con motivo del presente decreto, se aplicarán a partir de la revisión de las Cuentas Públicas del Ejercicio Fiscal 2021.
+
+Séptimo. En tanto no se dé cumplimiento a lo previsto en los Artículos Transitorios Segundo, Tercero y Cuarto de este decreto, los procedimientos iniciados con anterioridad y durante dicho periodo, continuarán su sustanciación conforme a la normatividad aplicable que hasta la fecha los regulan.
+
+Octavo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
