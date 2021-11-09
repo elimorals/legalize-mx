@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-servicios-y-almacenes-31688
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-04"
-last_updated: "2017-05-31"
+last_updated: "2021-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 9 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial de Estado de Nayarit, el miércoles 4 de Junio de 2003.
 
@@ -1254,3 +1254,45 @@ P.O. 31 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor el dieciocho de julio del dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT".]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, mediante Decreto Número 8484, el cuatro de junio de dos mil tres.
+
+TERCERO. Se crea el Organismo Público Descentralizado denominado Comité de Adquisiciones del Estado de Nayarit, con personalidad jurídica, patrimonio propio, no sectorizado, con domicilio en la ciudad de Tepic, Nayarit, el cual tendrá por objeto la coordinación, la operación y la validación de los procedimientos de las adquisiciones, arrendamientos y servicios dentro de las diferentes áreas de la administración pública centralizada y paraestatal del Gobierno del Estado de Nayarit en los términos que señala la presente Ley.
+
+CUARTO. La Junta de Gobierno del Comité de Adquisiciones del Estado de Nayarit, deberá ser instalada por su presidente dentro de los treinta días naturales posteriores a la entrada en vigor de la presente ley.
+
+QUINTO. La Junta de Gobierno aprobará y expedirá el estatuto orgánico del Comité de Adquisiciones del Estado de Nayarit en un plazo no mayor de treinta días hábiles contados a partir de la fecha de su instalación.
+
+SEXTO. El reglamento interior del organismo público descentralizado denominado Comité de Adquisiciones del Estado de Nayarit deberá expedirse en un término de treinta días hábiles, contados a partir de la Instalación de la Junta de Gobierno.
+
+SÉPTIMO. El Comité de Adquisiciones del Estado de Nayarit, se integrará con la estructura orgánica, recursos humanos, financieros y materiales que previamente autorice su Junta de Gobierno; facultando a la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit, para que en un plazo de sesenta días hábiles lleve a cabo las acciones necesarias presupuestarias para el cumplimiento de la presente ley.
+
+OCTAVO. En un plazo que no exceda a los sesenta días hábiles a partir de la entrada en vigor de la presente ley, el titular del Poder Ejecutivo deberá expedir el reglamento de la ley.
+
+En tanto se expide el reglamento, seguirá vigente el reglamento de la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit, en todo lo que no se oponga al presente ordenamiento.
+
+NOVENO. Los Entes Públicos contarán con un plazo de ciento veinte días naturales contados a partir del día siguiente en que entre en vigor la presente ley para realizar o promover las acciones y adecuaciones necesarias que permitan la correcta aplicación de esta ley.
+
+DÉCIMO. Los procedimientos de contratación y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+DÉCIMO PRIMERO. En tanto se expida la Ley de Bienes del Estado, las enajenaciones de bienes muebles e inmuebles propiedad del Estado se regularán por las siguientes disposiciones:
+
+A. Los bienes muebles, propiedad del Estado que ya no le resulten útiles, podrán ser enajenados a través de los procedimientos de remate respectivos por los Comités de Adquisiciones aplicando de manera supletoria el procedimiento que al efecto se establece en la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+B. Podrán enajenarse los bienes inmuebles que pertenezcan en pleno dominio al Gobierno del Estado, a través de remate, previa la aprobación de la enajenación que realice el Congreso del Estado a solicitud que al efecto realicen los titulares de los Poderes o de las Entidades de la Administración Pública Estatal.
+
+Tratándose de bienes inmuebles afectos a un servicio público esta autorización sólo procederá si se demuestra ampliamente que el bien ha dejado de ser útil para el servicio público al que está destinado y que no se necesita para ninguna otra función de orden público.
+
+DÉCIMO SEGUNDO. El sistema electrónico aplicable para el Poder Ejecutivo estatal deberá desarrollarse y operarse de manera ordinaria en un plazo no mayor a ciento ochenta días hábiles, contado a partir de la fecha de entrada en vigor de la presente ley.
+
+Los demás Entes Públicos, en la medida en que su disponibilidad presupuestaria lo permita, implementarán el sistema electrónico en los términos de la presente ley, pudiendo optar por la celebración del convenio de colaboración a que alude el presente ordenamiento.
+
+DÉCIMO TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
