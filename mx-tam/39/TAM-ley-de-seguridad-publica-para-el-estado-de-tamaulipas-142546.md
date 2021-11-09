@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2021-09-23"
+last_updated: "2021-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -1977,13 +1977,17 @@ La acumulación tiene por objeto que dos o más procedimientos se decidan en una
 
 ###### ARTÍCULO 143.
 
-1.- Las actuaciones del Consejo de la Secretaría se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos los sábados, domingos y aquellos que la ley señale como días de descanso. Son horas hábiles las comprendidas entre las ocho y las diecinueve horas.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
-2.- La presencia de personal de guardia en las instalaciones que ocupa el Consejo de la Secretaría no habilita los días ni las horas.
+1.- Para los efectos de las actuaciones y las audiencias de desahogo de pruebas del Consejo de la Secretaría, serán hábiles todas las horas y días del año que se encuentren dentro del procedimiento. Se registrará el lugar, la hora y la fecha en que se realicen. La omisión de estos datos no harán nulas las actuaciones, salvo que no pueda determinarse, de acuerdo con los datos del registro u otros conexos, la fecha en que se realizaron.
 
-3.- Si una diligencia se inició en día y hora hábiles, puede llevarse hasta su fin sin interrupción y sin necesidad de habilitación expresa.
+2.- (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2021)
 
-4.- Las notificaciones del Consejo de la Secretaría podrán ser realizadas en cualquier día y a cualquier hora, sin necesidad de previa habilitación. Se registrará el lugar, la hora y la fecha en que se cumplan. La omisión de estos datos no hará nulo el acto, salvo que no pueda determinarse, de acuerdo con los datos del registro u otros conexos, la fecha en que se realizó.
+3.- (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2021)
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+
+4.- Para los efectos de las notificaciones del Consejo de la Secretaría serán hábiles todas las horas y días del año que se encuentren dentro del procedimiento. Se registrará el lugar, la hora y la fecha en que se cumplan. La omisión de estos datos no hará nulo el acto, salvo que no pueda determinarse, de acuerdo con los datos del registro u otros conexos, la fecha en que se realizó.
 
 ###### ARTÍCULO 144.
 
@@ -2206,6 +2210,18 @@ P.O. 23 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-810 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
