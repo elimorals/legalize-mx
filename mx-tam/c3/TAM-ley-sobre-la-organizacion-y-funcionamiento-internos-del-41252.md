@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-11-02"
+last_updated: "2021-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -447,11 +447,11 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
 
-2. Será presidente de la Junta durante la Legislatura, el coordinador del grupo parlamentario que, por sí mismo, cuente con la mayoría absoluta de los integrantes del Congreso.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+2. Será Presidente de la Junta de Coordinación Política por la duración de la Legislatura, el Coordinador del Grupo Parlamentario del partido político que haya obtenido más votos en el Estado, en la elección correspondiente a la Legislatura en turno.
 
-3. En el caso de que ningún grupo parlamentario cuente con la mayoría absoluta de los miembros del Congreso, la responsabilidad de presidir la Junta durará un año legislativo y se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente del número de legisladores que los integren, siempre que dichos grupos cuenten con un mínimo de doce diputados. Si sólo dos grupos parlamentarios se hallan en esta hipótesis, durante el tercer año de ejercicio de la Legislatura les corresponderá la Presidencia de la Junta de Coordinación Política por sendos períodos de seis meses, pudiéndose seleccionar el periodo de desempeño por el grupo parlamentario con el mayor número de integrantes.
+3. (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2021)
 
 ###### ARTICULO 30.
 
@@ -833,7 +833,9 @@ g) Realizar las actividades que se deriven de la Constitución Política del Est
 
 2. La solicitud de la presencia requerida se formulará por acuerdo de la comisión al Presidente de la Junta de Coordinación Política, a fin de que éste realice la petición del caso al Poder o ente público de que se trate.
 
-3. Los servidores públicos que asistan a las reuniones de las comisiones para brindar información sobre las tareas a su cargo, están obligados a guardar a los legisladores las atenciones y consideraciones inherentes a la representación de que se encuentran investidos.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+
+3. Los servidores públicos que asistan a las reuniones de las comisiones para brindar información sobre las tareas a su cargo, están obligados a guardar a los legisladores las atenciones y consideraciones inherentes a la representación de que se encuentran investidos. Asimismo, lo harán bajo protesta de decir verdad.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -1105,13 +1107,11 @@ f) De Archivo, que comprende los de: formación, clasificación y custodia de ex
 
 g) (DEROGADO, P.O. 2 DE ABRIL DE 2019)
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
-h) De Apoyo Técnico, que comprende los de: registro y control de iniciativas y propuestas; estadística de las leyes, decretos y acuerdos expedidos por el Pleno Legislativo; elaboración de informes sobre el trabajo del Congreso; asesoría de técnica legislativa en la elaboración de documentos inherentes al proceso legislativo; y, auxiliar al titular de la Unidad de Servicios Parlamentarios en el ejercicio de sus atribuciones;
+h) De Apoyo Técnico y Actualización Legislativa, que comprende los de: registro y control de iniciativas y propuestas; estadística de las leyes, decretos y acuerdos expedidos por el Pleno Legislativo; elaboración de informes sobre el trabajo del Congreso; asesoría de técnica legislativa en la elaboración de documentos inherentes al proceso legislativo; edición, reproducción, sistematización y actualización de la Constitución Política del Estado, leyes, códigos y reglamentos estatales vigentes que se difunden en la página web oficial del Congreso, así como el registro y clasificación de la legislación abrogada; y auxiliar al titular de la Unidad de Servicios Parlamentarios en el ejercicio de sus atribuciones;
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
-
-i) De Actualización Legislativa, que comprende los de: edición, reproducción, sistematización y actualización de la Constitución Política del Estado, leyes, códigos y reglamentos estatales vigentes que se difunden en la página web oficial del Congreso, así como el registro y clasificación de la legislación abrogada;
+i) (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2021)
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
@@ -2267,7 +2267,9 @@ Para la formulación, presentación, discusión y votación de los dictámenes s
 
 3. A falta de propuesta específica de la Junta de Coordinación Política o si no se adopta una resolución específica al respecto, el procedimiento de comparecencia se sujetará a las siguientes reglas:
 
-a) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión dará la bienvenida al servidor público asistente y explicará de manera sucinta las razones que motivan la presencia de dicho funcionario;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+
+a) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión dará la bienvenida al servidor público asistente y explicará de manera sucinta las razones que motivan la presencia de dicho funcionario, el cual lo hará bajo protesta de decir verdad;
 
 b) El titular de la dependencia de la administración pública estatal hará uso de la palabra hasta por 20 minutos, si así lo desea, para presentar un informe relacionado con el motivo de su presencia en el Congreso;
 
@@ -3528,3 +3530,11 @@ El listado de asuntos pendientes que fueren exceptuados del procedimiento de cad
 ###### ARTÍCULO CUARTO.
 
 La relación de iniciativas que se den por concluidas como lo dispone el articulo Segundo Transitorio, se publicarán en la Gaceta Parlamentaria del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+P.O. 10 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-8 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
