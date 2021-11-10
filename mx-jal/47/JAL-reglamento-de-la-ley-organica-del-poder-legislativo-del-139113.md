@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2021-10-23"
+last_updated: "2021-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021)
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -1091,19 +1093,29 @@ III. Un formulario para que las personas dejen sus comentarios.
 
 2. Los proyectos de dictamen deben hacer referencia a los comentarios recibidos en el buzón, cuando se refieran objetivamente a la materia de la iniciativa y hagan propuestas técnicas sobre la parte normativa.
 
-### Capítulo VII. Comité de Ética
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+
+### Capítulo VII. Comité de Ética e Igualdad
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 69.
 
-1. El Comité de Ética del Congreso del Estado se integra por cinco diputados o diputadas, de acuerdo con los criterios para conformar la Mesa de Decanos. El primero en la lista de decanos funge como presidente y los siguientes cuatro como vocales.
+1. El Comité de Ética e Igualdad del Congreso del Estado se integra de forma paritaria, con una Diputada o Diputado de cada Grupo o Representación Parlamentaria.
 
-2. La Asamblea designa a los integrantes del Comité de Ética, a propuesta de la Junta, mediante acuerdo legislativo, de acuerdo con lo señalado en el párrafo anterior.
+2. La Asamblea designará a los integrantes del Comité de Ética e Igualdad, a propuesta de la Junta, mediante acuerdo legislativo, dentro de los doce días naturales siguientes a la instalación de la Legislatura, de acuerdo con lo señalado en el párrafo anterior.
 
-3. El Contralor del Congreso funge como Secretario Técnico del Comité de Ética, con derecho a voz.
+3. En la integración del Comité de Ética e Igualdad el Congreso del Estado, garantiza la participación en igualdad numérica entre mujeres y hombres. En caso de que las postulaciones por el número de grupos o representaciones parlamentarias resulten en número impar, la mayoría de integrantes deberá corresponder al género femenino.
+
+4. La Presidencia del Comité de Ética e Igualdad, será designada por la Junta.
+
+5. El Contralor del Congreso funge como Secretario Técnico del Comité de Ética e Igualdad, con derecho a voz.
 
 ###### Artículo 70.
 
-1 . El Comité de Ética tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+
+1. El Comité de Ética e Igualdad tiene las siguientes atribuciones:
 
 I. Fomentar y vigilar el cumplimiento del Código de Ética del Congreso del Estado;
 
@@ -4520,3 +4532,11 @@ P.O. 23 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 28485/LXII/21 QUE REFORMA EL ARTÍCULO 10 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28503/LXII/21 QUE REFORMA EL ARTÍCULO 112 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ASÍ COMO LOS ARTÍCULOS 69 Y 70 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. La titularidad del Órgano Interno de Control del Congreso del Estado, alineará el contenido del Código de Ética del Congreso del Estado de Jalisco con las presentes reformas, en un plazo no mayor a 30 días naturales, de conformidad con lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas.
