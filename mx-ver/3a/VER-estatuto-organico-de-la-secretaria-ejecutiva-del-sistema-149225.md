@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-149225
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-04-08"
-last_updated: "2021-04-20"
+last_updated: "2021-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 20 DE ABRIL DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 2021.
 
 Estatuto publicado en el Número Extraordinario Número 140 en la Gaceta Oficial del Estado de Veracruz, el jueves 8 de abril de 2021.
 
@@ -75,9 +73,11 @@ IX. Secretario Técnico: Servidor público a cargo de las funciones de direcció
 
 X. Sistema Estatal: Sistema Estatal Anticorrupción de Veracruz de Ignacio de la Llave.
 
+> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-Los días y horas hábiles para efecto de las actuaciones de la Secretaría Ejecutiva, se fijarán en el calendario anual de labores que suscriba el Secretario Técnico, el cual se publicará en la Gaceta Oficial del Estado.
+Los días y horas hábiles, para efecto de las actuaciones de la Secretaría Ejecutiva, se fijarán en el calendario anual de labores que suscriba el Secretario Técnico, previa aprobación del Órgano de Gobierno, el cual deberá ser publicado en la Gaceta Oficial del Estado.
 
 ## TÍTULO II
 
@@ -754,3 +754,11 @@ Mtro. Carlos Quiroz Sánchez
 Secretario Técnico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Veracruz de Ignacio de la Llave
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO 06/2021 POR EL QUE SE MODIFICA EL ARTÍCULO 5° DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE EN ATENCIÓN A LO INSTRUIDO EN EL ACUERDO ACUERDO (SIC) ACT-OG-2ª-EXT-SEA/14/07/2021.05, TOMADO EN LA SEGUNDA SESIÓN EXTRAORDINARIA DE FECHA CATORCE DE JULIO DEL AÑO EN CURSO".]
+
+Único. La modificación a que se refiere el presente acuerdo entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
