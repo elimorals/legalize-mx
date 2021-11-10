@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-11-06"
+last_updated: "2021-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -2039,11 +2039,11 @@ V. Se establezca plazo diverso para su dictamen en la agenda legislativa común 
 
 5. El comité de Adquisiciones de Bienes y Servicios de (sic) Congreso del Estado puede realizar sesiones a distancia, en los términos del Capítulo IV, del Título Séptimo de esta Ley. En el caso anterior el comité, junto con la coordinación de administración y finanzas, podrá realizar adquisiciones extraordinarias tomando en cuenta lo señalado en la fracción II del artículo 303 del Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 112.
 
-1. El Congreso de Jalisco contará con un comité de ética, su integración y atribuciones serán definidas en el reglamento.
+1. El Congreso de Jalisco contará con un Comité de Ética e Igualdad, su integración y atribuciones serán definidas en el reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3950,3 +3950,11 @@ P.O. 6 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28497/LXII/21 QUE MODIFICA LA MINUTA DE DECRETO NÚMERO 28436/LXII/21 POR EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO Y SE REFORMAN LOS ARTÍCULOS 15, 35 Y SE ADICIONA UN 23 BIS DE LA PROPIA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, ARTÍCULO 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28503/LXII/21 QUE REFORMA EL ARTÍCULO 112 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ASÍ COMO LOS ARTÍCULOS 69 Y 70 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. La titularidad del Órgano Interno de Control del Congreso del Estado, alineará el contenido del Código de Ética del Congreso del Estado de Jalisco con las presentes reformas, en un plazo no mayor a 30 días naturales, de conformidad con lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas.
