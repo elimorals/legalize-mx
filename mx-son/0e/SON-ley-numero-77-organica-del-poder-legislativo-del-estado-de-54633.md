@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2021-10-21"
+last_updated: "2021-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -65,9 +65,11 @@ Los diputados serán electos en su totalidad para un periodo de tres años, el c
 
 Esta ley, sus reformas y adiciones, así como los reglamentos que emanen de la misma, no podrán ser objeto de veto alguno, ni requerirán para su vigencia de la promulgación del Titular del Poder Ejecutivo. El Congreso del Estado ordenará su publicación en el Boletín Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 7.
 
-El Congreso del Estado formulará y aprobará su presupuesto anual de egresos y tendrá plena autonomía para su ejercicio, así como para organizarse administrativamente y, en su oportunidad, deberá remitir éste para su inclusión en el proyecto del presupuesto de egresos del Estado que anualmente presenta el Ejecutivo Estatal, con apego a la Constitución Política del Estado y demás normatividad aplicable.
+El Congreso del Estado formulará y aprobará su presupuesto anual de egresos apegado al principio de austeridad que permita su aplicación de una manera eficiente y transparente, y tendrá plena autonomía para su ejercicio, así como para organizarse administrativamente y, en su oportunidad, deberá remitir éste para su inclusión en el proyecto del presupuesto de egresos del Estado que anualmente presenta el Ejecutivo Estatal, con apego a la Constitución Política del Estado y demás normatividad aplicable.
 
 ### CAPÍTULO II. DE LA RESIDENCIA Y DEL RECINTO OFICIAL DEL CONGRESO DEL ESTADO
 
@@ -225,19 +227,21 @@ V.- Dar cumplimiento, en lo que corresponda, al procedimiento previsto para la i
 
 En la fecha de la junta previa establecida en el artículo anterior, la Comisión Instaladora entregará las credenciales de identificación y acceso a los diputados electos que integrarán la nueva legislatura, atendiendo a la constancia de mayoría y validez, de asignación o a la resolución firme del órgano jurisdiccional electoral correspondiente que haya recibido el Congreso del Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 16.
 
-A las cero horas del día 01 de septiembre del año de la elección, se llevará a cabo la junta preparatoria en el salón de sesiones del Congreso del Estado, previa a la instalación de la legislatura, con la presencia de la Comisión Instaladora y por lo menos la mayoría de los diputados electos, procediendo a instalar la nueva legislatura por el período constitucional que corresponda, debiéndose observar el siguiente procedimiento:
+A las cero horas del día 01 de septiembre del año de la elección, se llevará a cabo la junta preparatoria en el salón de sesiones del Congreso del Estado, previa a la instalación de la legislatura, con la presencia de la Comisión Instaladora y por lo menos la mayoría de los diputados electos, procediendo a instalar la nueva legislatura por el periodo constitucional que corresponda, debiéndose observar el siguiente procedimiento:
 
 I.- La Comisión Instaladora, por conducto del Primer Secretario, dará cuenta del ejercicio y cumplimiento de las atribuciones establecidas en el artículo 14 de esta ley, reservando la entrega de documentos electorales a la Mesa Directiva;
 
 II.- Seguidamente, se pasará lista de presentes a los diputados miembros de la nueva legislatura para, en su caso, previa su protesta constitucional ante la Comisión Instaladora, declarar debidamente instalada la legislatura con su número correspondiente. En el caso de inasistencias de diputados electos, éstos serán llamados en términos de la Constitución Política del Estado;
 
-III.- Acto continuo, el Presidente de la Comisión Instaladora pedirá a los diputados que, por mayoría absoluta de votos, elijan a la Mesa Directiva para el periodo correspondiente, misma que se integrará conforme a lo dispuesto en esta ley;
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+III.- Acto continuo, el presidente de la Comisión Instaladora solicitará al presidente de la Comisión de Régimen y Concertación política, que previo acuerdo de los integrantes de la Comisión, presente la propuesta para la conformación de la mesa directiva correspondiente al primer periodo ordinario del primer año de la Legislatura, para someterla a consideración del Pleno, la cual se integrará conforme a lo dispuesto en esta ley, por el voto de la mayoría de los diputados presentes en la sesión.
+
+La presidencia de la mesa directiva correspondiente al primer periodo ordinario del primer año de la Legislatura, recaerá en una o un integrante del grupo parlamentario con mayor representación al interior del Congreso;
 
 IV.- Electa la Mesa Directiva, el Presidente de la Comisión Instaladora invitará a los recién nombrados a tomar su lugar en el presidium. Antes de retirarse, hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder, así como los documentos relativos al proceso de entrega-recepción. Acto seguido, declarará concluidas las funciones de la Comisión Instaladora;
 
@@ -311,9 +315,11 @@ El informe a que se hace referencia en el presente artículo deberá ser publica
 
 ### CAPÍTULO I. DEL CÓDIGO DE CONDUCTA
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 24.
 
-El Congreso del Estado contará con un Código de Conducta que contendrá los lineamientos de conducta aplicables al ejercicio de la actividad de los diputados y de sus servidores públicos, tendientes a garantizar la transparencia, la eficiencia, la eficacia y la rendición de cuentas de los mismos.
+El Congreso del Estado, a efecto de garantizar la ética y la probidad en el ejercicio de las funciones parlamentarias de sus integrantes contará con un Código de Conducta, el cual tendrá por objeto implementar una cultura de ética, evitar los conflictos de interés, establecer una instancia de control y, garantizar la igualdad y no discriminación hacia el interior del Congreso.
 
 ###### ARTÍCULO 25.
 
@@ -373,9 +379,9 @@ XI.- Disponer del apoyo técnico profesional con que cuenta el Congreso del Esta
 
 XII.- Tener acceso a la información y documentación necesarias para el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, B.O. 14 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo de tres a quince días hábiles, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, previa autorización de la Comisión de Administración, así como de la documentación relacionada con el proceso legislativo en su conjunto;
+XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo de tres a quince días hábiles, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, así como de la documentación relacionada con el proceso legislativo en su conjunto;
 
 > <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
@@ -573,31 +579,43 @@ Si un diputado cometiera un delito en el recinto oficial, durante una sesión de
 
 La Mesa Directiva es el órgano de dirección del Congreso del Estado responsable, bajo la autoridad de su Presidente, de preservar la libertad de las deliberaciones, cuidar de la efectividad y cumplimiento del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta ley, así como los acuerdos y determinaciones que apruebe la legislatura.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 56.
 
-La Mesa Directiva se integrará con un Presidente, un Vicepresidente, dos Secretarios y un Secretario Suplente. Preferentemente reflejará la composición plural representada en el Congreso del Estado.
+La Mesa Directiva se integrará con una Presidencia, una Vicepresidencia, dos Secretarías y una Secretaría Suplente. Preferentemente reflejará la composición plural representada en el Congreso del Estado.
+
+Para el nombramiento de quienes integren la Mesa Directiva, se deberán observar los principios de paridad y alternancia de género.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 57.
 
-La Mesa Directiva será electa por mayoría del pleno del Congreso del Estado; tendrá una duración de acuerdo al mes correspondiente para el que fuera designada; y se comunicará a las autoridades correspondientes para los efectos legales a que haya lugar.
+La Mesa Directiva será electa por mayoría absoluta del Pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política, previo acuerdo de la misma; y se comunicará a las autoridades correspondientes para los efectos legales a que haya lugar.
 
-> <small>(REFORMADO, B.O. 24 DE SEPTIEMBRE DE 2014)</small>
+En el supuesto de que la propuesta no lograse la mayoría requerida en Pleno, la Comisión de Régimen Interno y Concertación Política realizará, en ese momento, otra propuesta privilegiando los consensos entre los diversos grupos parlamentarios hasta que se obtenga la mayoría requerida.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 58.
 
-La Mesa Directiva será electa por mayoría por el Pleno del Congreso del Estado mediante acuerdo del propio Pleno determinando la integración de la Mesa Directiva para varios meses, al inicio del periodo ordinario de sesiones. En este último caso, cualquier modificación al orden de asignación de la Presidencia acordado, requerirá del voto de las dos terceras partes de los diputados presentes en la sesión en que se resuelva la propuesta respectiva.
+La Mesa Directiva durará en su ejercicio un periodo ordinario.
 
-Los diputados electos para integrar la Mesa Directiva asumirán sus cargos en el primer día del mes correspondiente sin necesidad de declaratoria alguna. La integración de la Mesa Directiva del mes de septiembre, los diputados que hayan sido electos asumirán sus cargos el día 16 de dicho mes. Si algún grupo parlamentario decide modificar la asignación de alguno de sus miembros en la integración de la Mesa Directiva aprobada por el Pleno, bastará que lo informe por escrito, previamente al inicio del ejercicio de sus funciones y se dé cuenta con el mismo en sesión del Pleno sin que tal derecho pueda modificar la asignación realizada por los otros grupos parlamentarios.
+El primer periodo ordinario del primer año de cada legislatura será presidido por un integrante del grupo parlamentario con mayor representación en el Congreso. Las subsecuentes presidencias recaerán en los Grupos Parlamentarios que no la hayan ejercido.
+
+El Acuerdo para la rotación de la Mesa Directiva será propuesto por la Comisión de Régimen Interno y Concertación Política ante el Pleno del Congreso del Estado. En su conformación se privilegiará la paridad de género y la composición plural del Congreso.
+
+Los diputados electos para integrar la Mesa Directiva asumirán sus cargos en el primer día del periodo ordinario sin necesidad de declaratoria alguna.
 
 ###### ARTÍCULO 59.
 
 La conducción de las sesiones estará a cargo del Presidente y, al hacer uso de la voz como diputado o por ausencia de éste, actuará en su lugar el Vicepresidente de la Mesa Directiva.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 60.
 
-Los diputados electos como miembros de la Mesa Directiva para sesiones extraordinarias, desempeñarán sus respectivos cargos por la duración de las mismas, cuya elección se llevará a cabo con las formalidades que precisa el presente capítulo para las ordinarias; la declaratoria respectiva la formulará su Presidente.
-
-El Presidente de la Diputación Permanente no podrá formar parte de la Mesa Directiva para las sesiones extraordinarias.
+Los integrantes de la Mesa Directiva durante el desarrollo de las sesiones extraordinarias, llevarán a cabo su función con las formalidades que precisa el presente capítulo para las ordinarias; la declaratoria respectiva la formulará su Presidente.
 
 ###### ARTÍCULO 61.
 
@@ -659,13 +677,29 @@ XV.- Remitir al Ejecutivo del Estado el proyecto del presupuesto de egresos anua
 
 XVI.- Participar con voz en las sesiones de las comisiones de Administración y de Régimen Interno y Concertación Política;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-XVII.- Previa aprobación del Congreso, celebrar convenios de colaboración con instituciones públicas del ámbito municipal, estatal y federal, así como de concertación con instituciones del ámbito privado; y
+XVII.- Previa aprobación de la Comisión de Régimen Interno y Concertación Política, celebrar convenios de colaboración con instituciones públicas del ámbito municipal, estatal y federal, así como de concertación con instituciones del ámbito privado;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-XVIII.- Las demás que se encomienden en esta ley y las que le asigne el pleno del Congreso del Estado.
+XVIII.- Procurar la agenda legislativa conjunta con el Poder Ejecutivo en los términos del artículo 42 Constitucional;
+
+> <small>(ADICIONADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XIX.- Llevar el control y seguimiento de los puntos de acuerdo tomados en el Pleno o la Diputación Permanente, debiendo informar mensualmente el estado que guardan cada uno de ellos;
+
+> <small>(ADICIONADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XX.- Ejecutar las acciones contenidas en el artículo 155 Bis de la presente Ley e informar mensualmente de ellas al Pleno del Congreso;
+
+> <small>(ADICIONADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XXI.- Informar mensualmente a la Comisión de Régimen Interno y Concertación Política, todos los actos que haya realizado el mes anterior al informe, en representación del Congreso del Estado, incluyendo aquellos que haya delegado, debiendo proporcionar, en su caso, copia de los convenios que haya suscrito en ejercicio de la representación legal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XXII.- Las demás que se encomienden en esta ley y las que le asigne el Pleno del Congreso del Estado.
 
 ###### ARTÍCULO 67.
 
@@ -721,35 +755,41 @@ El Secretario Suplente sustituirá indistintamente en todas sus funciones al Sec
 
 ### CAPÍTULO ÚNICO. DE LA DIPUTACIÓN PERMANENTE
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 72.
 
-En la última sesión del periodo de sesiones ordinarias se nombrará, por mayoría de votos, una Diputación Permanente compuesta de tres miembros propietarios y dos suplentes, que durarán en funciones hasta el nuevo periodo ordinario de sesiones. El primero y segundo de los miembros propietarios nombrados serán Presidente y Vicepresidente, respectivamente, y el otro Secretario.
+La Diputación Permanente se integrará por una Presidencia, una Vicepresidencia, una Secretaría y dos suplencias.
 
-Los suplentes serán llamados a sustituir indistintamente al propietario que falte. La Diputación Permanente no podrá ejercer sus funciones sin la concurrencia de tres de sus miembros.
+La Mesa Directiva del periodo ordinario de sesiones inmediato anterior, será también la Mesa Directiva de la Diputación Permanente. Durante el periodo de sesiones extraordinarias, el integrante de la Mesa Directiva que desarrollaba funciones de Segundo Secretario durante el periodo ordinario anterior, será integrante suplente.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 73.
 
-Hecha la elección de la Diputación Permanente, los electos tomarán posesión a partir del inicio del periodo de sesiones extraordinarias, lo que se comunicará a las autoridades correspondientes para los efectos legales a que haya lugar.
+Una vez conformada la Diputación Permanente, sus integrantes tomarán posesión a partir del inicio del periodo de sesiones extraordinarias, lo que se comunicará a las autoridades correspondientes para los efectos legales a que haya lugar.
 
 ###### ARTÍCULO 74.
 
 Para el ejercicio de sus atribuciones, la Diputación Permanente se sujetará en lo que fuere conducente a los procedimientos establecidos para las sesiones del Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 75.
 
-La Diputación Permanente celebrará sus sesiones ordinariamente el día martes de cada semana o cuando lo solicite el Presidente o la mayoría de sus integrantes.
+La Diputación Permanente celebrará sus sesiones, ordinariamente, en el Salón de Sesiones del Pleno del Congreso y el día martes de cada semana o cuando y donde lo solicite el presidente, la mayoría de sus integrantes, o por acuerdo de la Comisión de Régimen Interno y Concertación Política.
 
-> <small>(REFORMADO, B.O. 18 DE ENERO DE 2016)</small>
-
-Las sesiones de la Diputación Permanente se realizarán en la sala de comisiones o, en su defecto, en lugares distintos a ésta, previo acuerdo de la Comisión de Régimen Interno y Concertación Política.
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 76.
 
-La Diputación Permanente convocará al pleno del Congreso del Estado a sesiones extraordinarias conforme a lo que establece la Constitución Política del Estado, debiendo publicarse la convocatoria correspondiente, cuando menos el día anterior a la fecha de la sesión, en el Boletín Oficial del Gobierno Estatal y en la Gaceta Parlamentaria y, opcionalmente, en medios de circulación estatal.
+La Diputación Permanente convocará al Pleno del Congreso del Estado a sesiones extraordinarias conforme a lo que establece la Constitución Política del Estado, debiendo publicarse la convocatoria correspondiente, cuando menos con dos días de anticipación a la fecha de la sesión en el Boletín Oficial del Gobierno Estatal y en la Gaceta Parlamentaria y, opcionalmente, en medios de circulación estatal.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 77.
 
-Cuando el Congreso del Estado sea convocado a sesiones extraordinarias por la Diputación Permanente, el pleno elegirá una Mesa Directiva para desahogar los asuntos a los que fue convocado, misma que concluirá sus funciones al momento de agotarlos o que se inicie un periodo ordinario. La Diputación Permanente seguirá en funciones despachando los asuntos de su competencia hasta en tanto termine el periodo de sesiones extraordinarias correspondiente.
+Cuando el Congreso del Estado sea convocado a sesiones extraordinarias por la Diputación Permanente, la Mesa Directiva desahogará los asuntos a los que fue convocada, asumiendo funciones de Segundo Secretario, el integrante que desarrollaba dichas funciones durante el periodo ordinario anterior.
 
 ###### ARTÍCULO 78.
 
@@ -759,9 +799,15 @@ En el acto que celebre el pleno del Congreso del Estado para inaugurar una sesi�
 
 El Presidente y Secretario de la Diputación Permanente tendrán, en lo conducente, todas las atribuciones administrativas y de representación que corresponden a la Presidencia y a la Secretaría de la Mesa Directiva, respectivamente.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 80.
 
-La Diputación Permanente, durante la primer quincena de ejercicio de sus funciones y en acuerdo con las comisiones de dictamen legislativo y especiales, en su caso, deberá emitir un calendario de trabajo para ser desahogado durante el periodo de sesiones extraordinarias, con el objeto de resolver sobre los asuntos pendientes, así como para iniciar o continuar cualquier otro trabajo propio de dichas comisiones.
+La Diputación Permanente, durante la primera quincena de ejercicio de sus funciones y en acuerdo con las comisiones de dictamen legislativo y especiales, en su caso, deberá presentar un calendario de trabajo a la Comisión de Régimen Interno y Concertación Política, para ser desahogado durante el periodo de sesiones extraordinarias con el objeto de resolver sobre los asuntos pendientes, así como para iniciar o continuar cualquier otro trabajo propio de dichas comisiones.
+
+El Calendario debe de ser aprobado por la Comisión de Régimen Interno y Concertación Política, la cual podrá realizar modificaciones al mismo para el mejor desahogo de los trabajos.
+
+Si el Calendario fue presentado conforme al presente artículo y la Comisión no ha resuelto en un plazo de cinco días naturales, se entenderá como aprobado en sus términos.
 
 ###### ARTÍCULO 81.
 
@@ -793,15 +839,17 @@ V.- Especiales; y
 
 VI.- Protocolarias.
 
-> <small>(REFORMADO, B.O. 13 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 84.
 
-El pleno del Congreso del Estado definirá, por el voto de la mayoría absoluta de sus miembros, dentro de los primeros quince días después de su instalación, las comisiones que se integrarán y los miembros que formarán parte de éstas; el primero de los cuales fungirá como Presidente y los demás tendrán el carácter de Secretarios.
+La Comisión de Régimen Interno y Concertación Política, enviará al Pleno del Congreso para su aprobación, la propuesta de las comisiones que se integrarán y los miembros que formarán parte de éstas.
 
-> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2019)</small>
+Las Comisiones estarán integradas hasta por siete diputadas y diputados, el primero de los cuales fungirá como presidente y los demás tendrán el carácter de secretarios.
 
-Una vez integradas las Comisiones, estas comenzarán a desarrollar sus labores en términos de lo dispuesto en la presente Ley.
+La propuesta se enviará dentro de los primeros quince días después de la instalación de la legislatura y tendrá que ser aprobada por el Pleno, con la mayoría absoluta de los presentes.
+
+En el supuesto de que la propuesta no lograse la mayoría requerida, la Comisión de Régimen Interno y Concertación Política tendrá que realizar otra propuesta privilegiando los consensos entre los diversos grupos parlamentarios hasta que se obtenga la mayoría requerida.
 
 ###### ARTÍCULO 85.
 
@@ -823,9 +871,9 @@ Las comisiones podrán ser convocadas a reunión por su presidente o por la mayo
 
 Las reuniones se celebrarán en horas que no coincidan con las de sesión del pleno del Congreso del Estado.
 
-> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-Las reuniones podrán celebrarse de manera no presencial (virtual), cuando sea imposible de llevarse de manera presencial, por una declaratoria de emergencia decretada por la autoridad competente ya sea del orden federal o estatal, en la que exista una condición de alto riesgo en la celebración de las mismas.
+Las reuniones podrán celebrarse de manera no presencial (virtual), cuando sea imposible de llevarse de manera presencial, por una declaratoria de emergencia decretada por la autoridad competente ya sea del orden federal o estatal, en la que exista una condición de alto riesgo en la celebración de las mismas, o mediante la aprobación de la Comisión de Régimen Interno y Concertación Política.
 
 > <small>(REFORMADO, B.O. 14 DE MARZO DE 2019)</small>
 
@@ -867,7 +915,7 @@ Las comisiones que designe el presidente del Congreso del Estado para dar cumpli
 
 El pleno del Congreso del Estado podrá acordar, por el voto de las dos terceras partes de sus integrantes, la constitución de comisiones especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, los diputados integrantes que la conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto, concluirán con sus funciones.
 
-> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 92.
 
@@ -875,79 +923,69 @@ La competencia de las comisiones de dictamen legislativo es la que se deriva de 
 
 I.- De Gobernación y Puntos Constitucionales;
 
-II.- Primera de Hacienda;
+II.- De Hacienda;
 
-III.- Segunda de Hacienda;
+III.- De Presupuestos y Asuntos Municipales;
 
-IV.- De Presupuestos y Asuntos Municipales;
+IV.- De Educación y Cultura;
 
-V.- De Educación y Cultura;
+V.- De Deporte;
 
-VI.- De Deporte;
+VI.- De Justicia y Derechos Humanos;
 
-VII.- De Justicia y Derechos Humanos;
+VII.- De Seguridad Ciudadana;
 
-VIII.- De Seguridad Pública;
+VIII.- De Fomento Agrícola y Ganadero;
 
-IX.- De Fomento Agrícola y Ganadero;
+IX.- De Pesca y Acuacultura;
 
-X.- De Pesca y Acuacultura;
+X.- De Asuntos del Trabajo;
 
-XI.- De Asuntos del Trabajo;
+XI.- De Obras y Servicios Públicos;
 
-XII.- De Obras y Servicios Públicos;
+XII.- De Bienestar Social;
 
-XIII.- De Desarrollo Social y Asistencia Pública;
+XIII.- De Asuntos Fronterizos;
 
-XIV.- De Asuntos Fronterizos;
+XIV.- De Fomento Económico y Turismo;
 
-XV.- De Fomento Económico y Turismo;
+XV.- De Energía, Medio Ambiente y Cambio Climático;
 
-XVI.- De Energía, Medio Ambiente y Cambio Climático;
+XVI.- De Salud;
 
-XVII.- De Salud;
+XVII.- De Comunicación y Enlace Social;
 
-XVIII.- De Comunicación y Enlace Social;
+XVIII.- Para la Igualdad de Género;
 
-> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2015)</small>
+XIX.- De Asuntos Indígenas;
 
-XIX.- Para la Igualdad de Género,
+XX.- De Atención a Grupos Vulnerables de la Sociedad;
 
-XX.- De Asuntos Indígenas;
+XXI.- De Innovación Ciencia y Tecnología;
 
-XXI.- De Atención a Grupos Vulnerables de la Sociedad;
+XXII.- De Parlamento Abierto y Procedencia Legislativa;
 
-XXII.- De Ciencia y Tecnología;
+XXIII.- Del Agua;
 
-XXIII.- De Examen Previo y Procedencia Legislativa;
+XXIV.- De Movilidad y Seguridad Vial;
 
-XXIV.- Del Agua;
+XXV.- De Minería;
 
-XXV.- De Transporte y Movilidad;
+XXVI.- De Vivienda;
 
-XXVI.- De Minería;
+XXVII.- De Protección Civil;
 
-XXVII.- De Vivienda;
+XXVIII.- De los Derechos de la Niñez, la Adolescencia y la Juventud;
 
-XXVIII.- De Protección Civil;
+XXIX.- Desarrollo Urbano;
 
-> <small>(REFORMADA, B.O. 22 DE OCTUBRE DE 2015)</small>
+XXX.- Transparencia;
 
-XXIX.- De los Derechos de la Niñez, la Adolescencia y la Juventud;
+XXXI.- Anticorrupción;
 
-XXX.- Desarrollo Urbano;
+XXXII.- Atención a migrantes;
 
-XXXI.- Transparencia;
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2019)</small>
-
-XXXII.- Anticorrupción;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE OCTUBRE DE 2019)</small>
-
-XXXIII.- Atención a migrantes; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE OCTUBRE DE 2019)</small>
+XXXIII.- Comisión de Desarrollo Productivo Regional; y
 
 XXXIV.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
 
@@ -955,13 +993,21 @@ XXXIV.- Especiales aprobadas por el pleno del Congreso del Estado con tal carác
 
 Además de las comisiones establecidas en el artículo anterior, el Congreso del Estado podrá designar otras, mediante acuerdo de las dos terceras partes de sus integrantes, las cuales tendrán las facultades y atribuciones que expresamente les señale el acuerdo del pleno que las establezca o las que deriven de su denominación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+A efecto de eficientar la labor legislativa que se lleva a cabo en el trabajo de Comisiones; estas contarán con el auxilio de un Secretario Técnico de Comisiones a propuesta de quien presida cada Comisión. Los Secretarios Técnicos de Comisión deberán ser apoyados por las diversas dependencias del Poder Legislativo. Las funciones y atribuciones de Secretario Técnico serán aquellas que se establezcan en los manuales de organización y procedimientos respectivos.
+
+> <small>(ADICIONADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 93 BIS.- En cada Comisión dictaminadora, la Dirección General Jurídica podrá comisionar personal a su cargo para que apoye las funciones de Secretario Técnico de Comisión, en las comisiones que lo soliciten.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 94.
 
 Las comisiones de dictamen legislativo tienen las siguientes atribuciones:
 
 I.- Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne el pleno del Congreso del Estado;
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 21 DE OCTUBRE DE 2021)</small>
 
 II.- Crear y administrar un micrositio mediante el cual se difunda el trabajo legislativo de la Comisión.
 
@@ -969,39 +1015,29 @@ El citado micrositio deberá publicar, como mínimo, la siguiente información:
 
 a) El expediente legislativo de cada asunto que le haya sido turnado para su dictaminación.
 
-a) (SIC) El expediente legislativo de cada asunto que le haya sido turnado para su dictaminación.
-
 b) Un calendario que muestre a la ciudadanía el plazo que tiene cada expediente para su dictaminación, así como el estatus de cada asunto turnado a la Comisión.
 
-c) Un espacio mediante el cual la ciudadanía, corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás personas interesadas, puedan formular observaciones o retroalimentaciones a los asuntos que le hayan sido turnados para su dictaminación, las cuales no serán vinculantes para la toma de decisiones de la Comisión; y
+c) Un espacio mediante el cual la ciudadanía, corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás personas interesadas, puedan formular observaciones o retroalimentaciones a los asuntos que le hayan sido turnados para su dictaminación, las cuáles no serán vinculantes para la toma de decisiones de la Comisión; y
 
-d) La demás información que la Comisión de Régimen Interno y Concertación Política determine en el Reglamento de la presente ley, a efecto de transparentar el trabajo que realiza la Comisión de dictamen legislativo, así como, garantizar la coparticipación ciudadanía en la toma de decisiones.
-
-> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
+d) La demás información que la Comisión de Régimen Interno y Concertación Política determine, a efecto de transparentar el trabajo que realiza la Comisión de dictamen legislativo, así como, garantizar la coparticipación ciudadana en la toma de decisiones.
 
 III.- Elaborar el programa de trabajo de la Comisión, de acuerdo a la agenda legislativa del Congreso del Estado y de todos aquellos asuntos que le hayan sido turnados para su determinación, considerando la vinculación con organizaciones de la sociedad civil;
 
-IV.- Presentar al pleno del Congreso del Estado los dictámenes e informes y demás documentos relativos a los asuntos que les son turnados o remitidos;
+IV.- Presentar ante el Pleno del Congreso del Estado los dictámenes con sus respectivos estudios de impacto presupuestal y demás documentos relativos a los asuntos que les son turnados o remitidos;
 
-> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
+V.- Invitar, por conducto de quien presida la Mesa Directiva o la Diputación Permanente, según sea el caso, a los titulares de las distintas dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones;
 
-V.- Invitar por conducto de la presidenta o presidente de la comisión de dictamen legislativo correspondiente, a los titulares de las dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones;
+VI.- Solicitar, por conducto de quien presida la Mesa Directiva o la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia, funcionario del Gobierno del Estado o Municipios, así como cualquier autoridad, para que, de acuerdo a la normatividad correspondiente, expida copias certificadas o entregue por escrito la información que para tal efecto se solicite para el mejor despacho de los asuntos que le hayan sido turnado.
 
-> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
-
-VI.- Solicitar por conducto de la presidenta o presidente de la comisión de dictamen legislativo correspondiente, cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo máximo de cinco días hábiles motivará que la comisión por conducto de la persona que preside el Congreso del Estado, lo haga del conocimiento a la persona titular del Poder Ejecutivo del Estado, al Ayuntamiento respectivo, así como al titular del ente público al cual se le hizo la solicitud;
 
 VII.- Emitir su opinión ante la Comisión de Fiscalización, en el ámbito de su competencia, sobre el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la Ley de Fiscalización;
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+VIII.- Crear a solicitud de la mayoría de quienes conforman la comisión de dictamen legislativo, un consejo técnico consultivo con los perfiles más adecuados, para asesorar de forma honoraria en las temáticas que se le soliciten;
 
-VIII.- Integrar a solicitud de la mayoría de los integrantes de la comisión de dictamen legislativo, un consejo técnico consultivo con los perfiles más adecuados, para asesorar de forma honoraria en las temáticas que se le soliciten; y
+IX.- Realizar a través del presidente o presidenta de la comisión de dictamen legislativo y previo a la elaboración del dictamen respectivo, mesas de trabajo con los ciudadanos, corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás agentes sociales debiendo para ello, generar una minuta de los acuerdos tratados e informar a los demás miembros de la comisión en caso de que no se encuentren presentes; y
 
-> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
-
-IX.- Realizar a través del presidente o presidenta de la comisión de dictamen legislativo y previo a la elaboración del dictamen respectivo, mesas de trabajo con los ciudadanos, corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás agentes sociales debiendo para ello, generar una minuta de los acuerdos tratados e informar a los demás miembros de la comisión en caso de que no se encuentren presentes.
+X.- Cada Comisión deberá contar con el auxilio de una o un Secretario Técnico de Comisión comisionado por la Dirección General Jurídica, el cual asistirá a quien la Presida y al resto de sus integrantes, en la planeación, ejecución, control y seguimiento de las actividades a desarrollar en las mismas.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1083,25 +1119,43 @@ Cuando un diputado suplente sea llamado para cubrir la ausencia del titular, for
 
 El gobierno interior del Congreso del Estado se ejercerá a través de una comisión de naturaleza plural denominada Comisión de Régimen Interno y Concertación Política, con el objeto de coordinar el ejercicio de las funciones legislativas y políticas que corresponden al Congreso del Estado. Esta comisión se reunirá al menos una vez por semana durante los periodos de sesiones ordinarias y cada dos semanas en los periodos de sesiones extraordinarias.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 104.
 
-La Comisión de Régimen Interno y Concertación Política estará estructurada por un Presidente y los demás tendrán carácter de Secretarios. Ésta ejercerá sus funciones a partir del acto de toma de protesta de los diputados sin necesidad de declaración alguna.
+La Comisión de Régimen Interno y Concertación Política estará estructurada por una Presidencia y las demás tendrán carácter de Secretarías. Ésta ejercerá sus funciones a partir del acto de toma de protesta de los diputados sin necesidad de declaración alguna.
+
+La Comisión para el ejercicio de sus funciones y buen desempeño contará con una Secretaría técnica. La persona que habrá de ejercer la titularidad de la Secretaría será designada por el voto de la mayoría de quienes integran dicha Comisión.
+
+Las funciones y atribuciones de la Secretaría técnica de la Comisión de Régimen Interno y Concertación Política se establecerán en el acuerdo respectivo de dicha comisión.
 
 ###### ARTÍCULO 105.
 
 Cada Grupo Parlamentario tendrá, dentro de la Comisión de Régimen Interno y Concertación Política, voto ponderado en relación directa al número de diputados que representan. El voto de cada grupo se expresará a través de su coordinador parlamentario, o de quien lo represente al grupo en la sesión.
 
+> <small>(ADICIONADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+Las representaciones parlamentarias reconocidas podrán participar en la Comisión de Régimen Interno y Concertación Política con derecho a voz pero sin voto.
+
 ###### ARTÍCULO 106.
 
 La Comisión de Régimen Interno y Concertación Política estará integrada por un máximo de dos diputados de cada Grupo Parlamentario, debiendo ser uno de éstos el coordinador del Grupo Parlamentario, y por el Presidente de la Mesa Directiva o de la Diputación Permanente, con derecho a voz.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 107.
 
-La Presidencia de la comisión será rotativa entre sus miembros por periodos de seis meses. La primera Presidencia será ocupada por un miembro del Grupo Parlamentario que tenga mayor número de diputados; en los subsecuentes periodos, atenderán al orden que se derive de la representación de cada Grupo Parlamentario o al acuerdo que al respecto adopte la comisión.
+La Presidencia de la Comisión tendrá una duración de un año legislativo.
+
+El Coordinador del Grupo Parlamentario con mayor representación al interior del Congreso fungirá como presidente del primer año. Los años subsecuentes se someterá a votación la Presidencia de la misma.
+
+Los Coordinadores que hayan ejercido la Presidencia, no podrán ser reelectos.
 
 ###### ARTÍCULO 108.
 
 El secretario del mismo Grupo Parlamentario al que pertenece el Presidente de la comisión será el encargado de suplir sus faltas.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 109.
 
@@ -1113,41 +1167,31 @@ II.- Proponer al pleno del Congreso del Estado la composición de las diferentes
 
 III.- Proponer al pleno del Congreso del Estado el proyecto de presupuesto de egresos del Poder Legislativo;
 
-IV.- Proponer al pleno del Congreso del Estado el nombramiento y remoción del Oficial Mayor, Contralor Interno, directores generales o sus equivalentes y subdirectores, con base en lo dispuesto por esta ley;
+IV.- Proponer al Pleno del Congreso del Estado la composición de la Mesa Directiva;
 
-V.- Establecer acuerdos para definir los márgenes de tiempo tolerables en relación con los retardos de los diputados a las sesiones del pleno del Congreso del Estado o Diputación Permanente y reuniones de comisiones;
+V.- Aprobar los manuales de organización y de procedimientos de las dependencias del Congreso del Estado;
 
-VI.- Proponer la agenda legislativa de los periodos de sesiones;
+VI.- Proponer al pleno del Congreso del Estado el nombramiento y remoción del Oficial Mayor, Titular del Órgano Interno de Control, directores generales y subdirectores o sus equivalentes, con base en lo dispuesto por esta ley;
 
-VII.- Acordar los asuntos a tratar en el orden del día de las sesiones, debiendo comunicarlo a la Mesa Directiva y al resto de los diputados antes del inicio de las mismas;
+VII.- Proponer la agenda legislativa de los periodos de sesiones;
 
-VIII.- Autorizar, a solicitud de la Comisión de Administración, la contratación de asesorías externas o de especialistas para el trabajo de las comisiones, atendiendo a la naturaleza del asunto de que se trate, a la conveniencia y oportunidad de la asesoría; así como la celebración de reuniones de comisiones fuera del recinto oficial o la celebración de congresos, seminarios y eventos similares, atendiendo a la disponibilidad presupuestaria;
+VIII.- Acordar los asuntos a tratar en el orden del día de las sesiones, debiendo comunicarlo a la Mesa Directiva y al resto de los diputados antes del inicio de las mismas;
 
-> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2015)</small>
+IX.- Autorizar, a solicitud de la Comisión de Administración, la contratación de asesorías externas o de especialistas para el trabajo de las comisiones, atendiendo a la naturaleza del asunto de que se trate, a la conveniencia y oportunidad de la asesoría; así como la celebración de reuniones de comisiones fuera del recinto oficial o la celebración de congresos, seminarios y eventos similares, atendiendo a la disponibilidad presupuestaria;
 
-IX.- Autorizar, a propuesta de la Comisión de Comunicación y Enlace Social, el programa anual de comunicación social del Congreso del Estado;
+X.- Recibir, modificar en caso de ser necesario y autorizar, el programa anual de comunicación social del Congreso del Estado, que estará bajo la supervisión de esta comisión;
 
-X.- Evaluar las funciones de las dependencias del Congreso del Estado;
+XI.- Evaluar las funciones de las dependencias del Congreso del Estado;
 
-XI.- Impulsar y realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas legislativas;
+XII.- Aprobar que las sesiones del Pleno del Congreso del Estado se celebren de manera no presencial (virtual);
 
-XII.- Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera, determinando las políticas generales para ello y proponiendo al pleno del Congreso del Estado los proyectos de los reglamentos respectivos;
+XIII.- Emitir los lineamientos que permitan el desarrollo de las sesiones del Pleno del Congreso del Estado no presenciales (virtuales), los cuales deberán apegarse a las disposiciones relativas al proceso legislativo establecidas en la Constitución Política del Estado de Sonora y en esta Ley;
 
-> <small>(REFORMADA, B.O. 7 DE MAYO DE 2020)</small>
+XIV.- Impulsar y realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas legislativas;
 
-XIII.- Aprobar los manuales de organización y de procedimientos de las dependencias del Congreso del Estado;
+XV.- Establecer acuerdos para definir los márgenes de tiempo tolerables en relación con los retardos de los diputados a las sesiones del Pleno del Congreso del Estado o Diputación Permanente y reuniones de comisiones; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 7 DE MAYO DE 2020)</small>
-
-XIV.- Aprobar que las sesiones del Pleno del Congreso del Estado se celebren de manera no presencial (virtual), cuando se haya realizado una declaratoria de emergencia decretada por autoridad competente ya sea del orden federal o estatal, en la que exista una condición de alto riesgo en la celebración de las sesiones presenciales;
-
-> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2020)</small>
-
-XV.- Emitir los lineamientos que permitan el desarrollo de las sesiones del Pleno del Congreso del Estado no presenciales (virtuales), los cuales deberán apegarse a las disposiciones relativas al proceso legislativo establecidas en la Constitución Política del Estado de Sonora y en esta Ley; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 7 DE MAYO DE 2020)</small>
-
-XVI.- Las demás que le confiera esta Ley, el pleno del Congreso del Estado y la Diputación Permanente.
+XVI.- Las demás que le confiera esta Ley, el Pleno del Congreso del Estado y la Diputación Permanente.
 
 ###### ARTÍCULO 110.
 
@@ -1167,15 +1211,21 @@ Cada Grupo Parlamentario tendrá, dentro de la Comisión de Administración, vot
 
 Esta comisión estará integrada por hasta dos diputados de cada Grupo Parlamentario acreditado en el Congreso del Estado. Todos los integrantes gozarán del derecho a voz y el voto ponderado será expresado por el diputado que al efecto señale cada Grupo Parlamentario. Los miembros de esta comisión no podrán formar parte de las comisiones de Régimen Interno y Concertación Política ni de la de Fiscalización.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 113.
 
-La presidencia de la comisión será rotativa entre los miembros integrantes de ésta por periodos de seis meses. La primera presidencia será ocupada por un miembro del Grupo Parlamentario que tenga el segundo mayor número de diputados; en los subsecuentes periodos, atenderán al orden que se derive de la representación de cada Grupo Parlamentario o al acuerdo que al respecto adopte la comisión. En ningún caso, las presidencias de las comisiones de Régimen Interno y Concertación Política y de Administración podrán coincidir en diputados del mismo Grupo Parlamentario.
+La Presidencia de la Comisión tendrá una duración de un año legislativo.
+
+El Grupo Parlamentario con mayor representación al interior del Congreso fungirá como presidente del primer año. Los años subsecuentes se someterá a votación la Presidencia de la misma.
 
 ###### ARTÍCULO 114.
 
 La Comisión de Administración tendrá las siguientes atribuciones:
 
-I.- Elaborar, junto con la Oficialía Mayor, el proyecto de presupuesto anual de egresos del Congreso del Estado para el ejercicio fiscal del año siguiente, sometiéndolo a la aprobación del pleno del Congreso del Estado por medio de la Comisión de Régimen Interno y Concertación Política;
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+I.- Elaborar el proyecto de presupuesto de egresos del Congreso del Estado para el ejercicio fiscal del año siguiente en coordinación con la Oficialía Mayor y con quien presida la Mesa Directiva, Comisión de Hacienda, Transparencia y Anticorrupción. El proyecto aprobado por la Comisión de Régimen Interno y Concertación Política, deberá darse a conocer al resto de las y los integrantes de la legislatura con siete días naturales previos al día de la sesión que sea sometido al Pleno del Congreso para su aprobación a propuesta de la Comisión de Régimen Interno y Concertación Política;
 
 > <small>(REFORMADA, B.O. 14 DE MARZO DE 2019)</small>
 
@@ -1185,11 +1235,15 @@ III.- Aprobar, previo acuerdo con la Comisión de Régimen Interno y Concertaci�
 
 IV.- Vigilar el correcto ejercicio del presupuesto aprobado, de conformidad con los programas y montos establecidos, para lo cual podrá aprobar la realización de auditorías a las dependencias del Congreso del Estado;
 
-V.- Aprobar las transferencias y ajustes presupuestales, previo análisis de la Comisión de Régimen Interno y Concertación Política, así como, en su caso, solicitar las ampliaciones presupuestales en los términos de la ley en la materia;
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+V.- Realizar las transferencias y ajustes presupuestales, previa autorización de la Comisión de Régimen Interno y Concertación Política, en los términos de la ley de la materia;
 
 VI.- Establecer los lineamientos generales conforme a los cuales las dependencias del Congreso deberán elaborar los manuales de organización y de procedimientos de las dependencias del Congreso del Estado;
 
-VII.- Proponer a la Comisión de Régimen Interno y Concertación Política los montos mínimos y máximos a incluirse en el presupuesto de egresos del Congreso del Estado, para adquisiciones y contratación de obra pública por adjudicación directa, invitación a cuando menos tres proveedores o licitación pública;
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+VII. Proponer a la Comisión de Régimen Interno y Concertación Política, los montos mínimos y máximos a incluirse en el presupuesto de egresos del Congreso del Estado, para adquisiciones y contratación de obra pública por licitación pública, con invitación a cuando menos tres proveedores;
 
 VIII.- Proponer a la Comisión de Régimen Interno y Concertación Política los lineamientos para licitaciones públicas, aplicando preferentemente la legislación local en la materia y contemplando mecanismos de participación ciudadana en la vigilancia y seguimiento de los procedimientos correspondientes;
 
@@ -1203,9 +1257,9 @@ a) La organización interna y procedimientos del órgano a su cargo; y
 
 b) Los programas de actividades del órgano a su cargo;
 
-> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-XI.- Publicar y mantener actualizada la documental oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Poder Legislativo; dicha publicación se realizará en el micrositio del Parlamento Abierto dentro del Portal Oficial del Congreso del Estado; y
+XI.- Publicar y mantener actualizada la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias de este Poder Legislativo; dicha publicación se realizara en el micrositio del Parlamento Abierto dentro del Portal Oficial del Congreso del Estado, y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 14 DE MARZO DE 2019)</small>
 
@@ -1219,8 +1273,6 @@ Las atribuciones previstas en este artículo son indelegables.
 
 ### CAPÍTULO I. DE LAS SESIONES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 115.
@@ -1229,7 +1281,9 @@ El Congreso del Estado tendrá cada año dos periodos constitucionales de sesion
 
 El primer periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el primer periodo de sesiones ordinarias o su prórroga y hasta el 31 de enero de cada año de ejercicio de la legislatura; a su vez, el segundo periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el segundo periodo de sesiones ordinarias o su prórroga y hasta el 31 de agosto de cada año de ejercicio de la legislatura.
 
-El Congreso del Estado podrá ser convocado a sesiones extraordinarias de conformidad a lo que establecen los artículos 43 y 66 de la Constitución Política del Estado para desahogar únicamente los asuntos para los que fue convocado.
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+El Congreso del Estado podrá ser convocado a sesiones extraordinarias de conformidad a lo que establecen los artículos 43, 44 y 66 de la Constitución Política del Estado para desahogar únicamente los asuntos para los que fue convocado y, de los que se califiquen urgentes por el voto de las dos terceras partes de los Diputados que concurran a la Sesión extraordinaria.
 
 > <small>(REFORMADO, B.O. 13 DE JUNIO DE 2019)</small>
 
@@ -1259,9 +1313,11 @@ En casos de suma gravedad y urgencia, el pleno del Congreso del Estado podrá de
 
 Durante las sesiones podrá haber recesos cuando el Presidente de la Mesa Directiva así lo considere oportuno. La duración del receso será determinada por el propio Presidente de la Mesa Directiva.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 121.
 
-La Comisión de Régimen Interno y Concertación Política será la encargada de elaborar el proyecto de orden del día de cada sesión ordinaria, debiendo hacerlo del conocimiento de los diputados a través de la Gaceta Parlamentaria, cuando menos el día anterior a aquél en que habrá de desahogarse. Sin perjuicio de lo anterior, la Presidencia del Congreso del Estado, en acuerdo con la Comisión de Régimen Interno y Concertación Política, podrá presentar un proyecto alternativo de orden del día para ser sometido a consideración del pleno del Congreso del Estado, justificando las razones del cambio del mismo.
+La Comisión de Régimen Interno y Concertación Política será la encargada de elaborar el proyecto de orden del día de cada sesión ordinaria, debiendo hacerlo del conocimiento de los diputados a través de la Gaceta Parlamentaria, cuando menos dos días previos al día en que habrá de desahogarse. Sin perjuicio de lo anterior, la Presidencia del Congreso del Estado, en acuerdo con la Comisión de Régimen Interno y Concertación Política, podrá presentar un proyecto alternativo de orden del día para ser sometido a consideración del Pleno del Congreso del Estado, justificando las razones del cambio de este.
 
 ###### ARTÍCULO 122.
 
@@ -1303,7 +1359,9 @@ I.- Las iniciativas presentadas por el Ejecutivo y por el Supremo Tribunal de Ju
 
 II.- Las iniciativas ciudadanas en los términos del artículo 53 de la Constitución Política del Estado y los acuerdos del Congreso de la Unión para los que se solicite la aprobación de esta legislatura, invariablemente se turnarán a comisión;
 
-III.- Las iniciativas de los diputados y de los ayuntamientos se presentarán por escrito y oportunamente se turnarán a comisión. A estas proposiciones les podrá ser dispensado el trámite de comisión y aún discutir y resolver desde luego el asunto de que se trate, siempre que el pleno del Congreso del Estado las declare como de urgente u obvia resolución y se hayan publicado en la Gaceta Parlamentaria cuando menos el día anterior al de la sesión de que se trate; y
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+III.- Las iniciativas de los diputados y de los ayuntamientos se presentarán por escrito y oportunamente se turnarán a comisión. A estas proposiciones les podrá ser dispensado el trámite de comisión y aún discutir y resolver desde luego el asunto de que se trate, siempre que el Pleno del Congreso del Estado las declare como de urgente u obvia resolución y se hayan publicado en la Gaceta Parlamentaria cuando menos, dos días naturales previos a la sesión de que se trate; y
 
 IV.- Las mociones de las legislaturas de los Estados de la República se remitirán oportunamente a comisión.
 
@@ -1315,7 +1373,9 @@ Toda iniciativa de particulares, corporaciones, autoridades o funcionarios que c
 
 Los dictámenes de las comisiones ya sean de ley, de decreto o de acuerdo se sujetarán a dos lecturas: la primera se les dará al darse cuenta de ellos al pleno del Congreso del Estado y, la segunda, en la sesión siguiente. Después de la segunda lectura, la Presidencia señalará la fecha para debates.
 
-Los dictámenes podrán ser objeto de dispensa de primera lectura sólo en el supuesto de que se hayan publicado en la Gaceta Parlamentaria, cuando menos, el día anterior al de la sesión de que se trate y previa aprobación de las dos terceras partes de los integrantes de la legislatura.
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+Los dictámenes podrán ser objeto de dispensa de primera lectura sólo en el supuesto de que se hayan publicado en la Gaceta Parlamentaria, cuando menos, dos días naturales previos la sesión de que se trate y previa aprobación de las dos terceras partes de los integrantes de la legislatura.
 
 ###### ARTÍCULO 127.
 
@@ -1465,6 +1525,8 @@ ARTÍCULO 138 BIS.- Los dictámenes con proyectos de ley que consten de más de 
 
 Si lo propone algún diputado y se aprueba por el Pleno, podrá votarse por separado cada uno de los artículos o fracciones del artículo o de la sección que esté a debate.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 139.
@@ -1561,6 +1623,8 @@ IV.- Por moción suspensiva que presente alguno o algunos de los diputados y que
 
 ### CAPÍTULO IV. DE LAS VOTACIONES
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 147.
 
 Habrá dos clases de votaciones, a saber:
@@ -1568,6 +1632,16 @@ Habrá dos clases de votaciones, a saber:
 I.- Nominal; y
 
 II.- Económica.
+
+El principio de máxima publicidad es el eje rector en las votaciones del Pleno del Congreso del Estado. Para tal efecto, el sentido de la votación será transmitido en tiempo real en un tablero electrónico.
+
+El Tablero electrónico debe de proyectar:
+
+I. Nombre del total de los integrantes de la Legislatura; y
+
+II.- El sentido del voto de la o el legislador o su ausencia.
+
+Durante la transmisión de las sesiones por medios electrónicos, se deberá visualizar el sentido de votación de las y los legisladores. Una vez que se proyecte el sentido de la votación del total de las y los legisladores, el Presidente deberá preguntar al Pleno si la votación proyectada es correcta, por si alguna o algún Diputado quiere aclarar el sentido de su voto con motivo de algún error humano o tecnológico.
 
 ###### ARTÍCULO 148.
 
@@ -1591,6 +1665,10 @@ Todas las votaciones se decidirán por mayoría absoluta de votos, es decir, por
 
 Mientras se verifica una votación ningún diputado podrá abandonar el salón de sesiones.
 
+> <small>(ADICIONADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+El resultado de las votaciones en lo general y en lo particular deberá de publicarse en el Portal de Internet del Congreso del Estado.
+
 ###### ARTÍCULO 153.
 
 Los empates en las votaciones se decidirán discutiendo de nuevo en la misma sesión y, si la votación resultare empatada por segunda vez, se repetirán el debate y la votación en la sesión siguiente; pero si a pesar de esto aún persistiere el empate, el asunto se reservará para volver a ser tratado en el próximo periodo de sesiones ordinarias, salvo disposición expresa en contrario.
@@ -1613,7 +1691,9 @@ ARTÍCULO 155 BIS.- Los acuerdos del Congreso del Estado tendrán carácter vinc
 
 La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto, emitirá la respuesta expresando las razones de su postura, caso en el cual, deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos, mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
 
-Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado o el Órgano de Control y Evaluación Gubernamental del ayuntamiento, según corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso, informando de todos estos actos al Pleno del Congreso del Estado de Sonora, en forma previa a la culminación de su encargo. El incumplimiento de los deberes impuestos al Presidente de la Mesa Directiva deberá ser sancionado, previo procedimiento que al efecto desahogue la Contraloría Interna del Congreso del Estado, por el Pleno del Poder Legislativo.
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la Ley Estatal de Responsabilidades, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado o el Órgano de Control y Evaluación Gubernamental del ayuntamiento, según corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso, informando de todos estos actos al Pleno del Congreso del Estado de Sonora, en forma previa a la culminación de su encargo. El incumplimiento de los deberes impuestos al Presidente de la Mesa Directiva deberá ser sancionado, previo procedimiento que al efecto desahogue el Órgano Interno de Control del Congreso del Estado, por el Pleno del Poder Legislativo.
 
 Tratándose de acuerdos dirigidos a organismos autónomos, las disposiciones previstas en este capítulo les aplicarán en lo que resulte legalmente aplicable.
 
@@ -1684,6 +1764,10 @@ Los diputados electos bajo el emblema de un mismo partido político podrán cons
 Los Grupos Parlamentarios se tendrán por constituidos cuando el Presidente de la Mesa Directiva dé a conocer al pleno del Congreso del Estado la decisión de sus miembros de integrar un Grupo Parlamentario, con especificación del nombre del grupo y la lista de sus integrantes, firmas autógrafas de éstos, así como el nombre del diputado coordinador del grupo y, desde ese momento, ejercerán las facultades, prerrogativas, atribuciones y obligaciones previstas en la presente ley.
 
 Asimismo, junto con el acta constitutiva, deberá anexarse el proyecto de agenda legislativa del Grupo Parlamentario para la integración de la agenda legislativa común del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+Las diputadas o diputados que decidan dejar de pertenecer a un grupo parlamentario e integrarse a otro, aun cuando no sean del mismo partido político que los postulo, podrán adherirse a este, siempre y cuando medie escrito de su renuncia al Coordinador o Coordinadora del Grupo Parlamentario al que dejará de pertenecer; presenten solicitud de adhesión al nuevo grupo parlamentario; se dé a conocer a la Mesa Directiva por el Coordinador o Coordinadora del grupo parlamentario al que se adhiere y, se cumpla con los requisitos señalados en los párrafos anteriores. Bastara que quien Presida la Mesa Directiva respectiva lo dé a conocer al Pleno del Congreso en la próxima Sesión, sin que medie otro tramite o autorización para tal efecto.
 
 ###### ARTÍCULO 164.
 
@@ -1813,17 +1897,19 @@ I.- Instituto Superior de Auditoría y Fiscalización;
 
 II.- Oficialía Mayor; y
 
-III.- Contraloría Interna.
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+III.- Órgano Interno de Control.
 
 ###### ARTÍCULO 184.
 
 La Oficialía Mayor tendrá bajo su dirección y supervisión las direcciones generales y sus unidades administrativas conforme a lo que se establece en la presente ley.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 185.
 
-Los titulares de la Oficialía Mayor, de las Direcciones Generales y de Contraloría Interna, así como los subdirectores de dichas dependencias serán nombrados y removidos por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
-
-> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+Los titulares de la Oficialía Mayor, Órgano Interno de Control, de las Direcciones Generales, así como los subdirectores o equivalentes de dichas dependencias serán nombrados y removidos por las dos terceras partes del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
 
 La designación de todos los titulares a que hace referencia el párrafo anterior se realizará con estricto apego al principio de paridad de género.
 
@@ -1881,7 +1967,9 @@ V.- Formular y poner a la disposición de las comisiones de Administración y de
 
 VI.- Vigilar que el presupuesto de egresos del Congreso del Estado se ejerza de acuerdo a los lineamientos, estructura, programas y calendarización aprobados;
 
-VII.- Informar mensualmente a las comisiones de Administración y de Régimen Interno y Concertación Política y a la Contraloría Interna del Congreso del Estado, la situación que guarda el ejercicio presupuestal en lo general, especificando las asignaciones y disposiciones por dependencias y programas;
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+VII.- Informar mensualmente a las comisiones de Administración y de Régimen Interno y Concertación Política, así como al Órgano Interno de Control del Congreso del Estado, la situación que guarda el ejercicio presupuestal en lo general, especificando las asignaciones y disposiciones por dependencias y programas;
 
 VIII.- Apoyar oportunamente a cada una de las dependencias que forman la estructura orgánica del Congreso del Estado, en materia presupuestal, administrativa o de infraestructura técnica, de acuerdo a sus necesidades o prioridades;
 
@@ -2093,15 +2181,21 @@ XVI.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que se as
 
 XVII.- Las demás que les señale el Oficial Mayor o que le confieran otras disposiciones legales.
 
-### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 194.
 
-La Contraloría interna, será responsable del control y evaluación del desarrollo administrativo y financiero del Congreso del Estado, cuyo titular será designado por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
+El Órgano Interno de Control, será responsable del control y evaluación del desarrollo administrativo y financiero del Congreso del Estado, cuyo titular será designado por el Pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 195.
 
-La Contraloría Interna, será un órgano funcionalmente autónomo y dependerá directamente del pleno del Congreso del Estado, bajo la supervisión de la Comisión de Régimen Interno y Concertación Política, teniendo las siguientes atribuciones:
+El Órgano Interno de Control, será un órgano funcionalmente autónomo y dependerá directamente del Pleno del Congreso del Estado, teniendo las siguientes atribuciones:
 
 I.- Proponer y aplicar las normas y criterios en materia de control y evaluación que deban observar las dependencias del Congreso del Estado;
 
@@ -2117,65 +2211,117 @@ V.- Las demás que expresamente le confiera esta ley, el pleno del Congreso del 
 
 Para desempeñar el cargo de Contralor Interno se requieren los mismos requisitos que para ser Oficial Mayor del Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 197.
 
-La Contraloría Interna contará con las áreas, unidades y personal necesario para su funcionamiento, conforme a lo establecido en el presupuesto de egresos.
+El Órgano Interno de Control contará con las áreas, unidades y personal necesario para su funcionamiento, conforme a lo establecido en el presupuesto de egresos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MAYO DE 2017)</small>
 
 ### CAPÍTULO VI. DEL CENTRO DE INVESTIGACIONES PARLAMENTARIAS DEL ESTADO DE SONORA
 
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-ARTÍCULO 197 BIS.- El Centro de Investigaciones Parlamentarias es un órgano técnico del Congreso del Estado, al cual le corresponde:
+ARTÍCULO 197 BIS- El Centro de Investigaciones Parlamentarias es un órgano técnico del Congreso del Estado; el cual tiene como finalidad, coadyuvar con las diferentes instancias internas del Congreso, a efecto de lograr una función legislativa de calidad, eficiente y eficaz; generar y en su caso desarrollar los mecanismos necesarios de capacitación y profesionalización del personal técnico que participa en las diferentes etapas del proceso legislativo al interior del Congreso; así como, realizar la evaluación de los resultados obtenidos por la implementación social de leyes o disposiciones legales aprobados por este Poder Legislativo; para tales efectos le corresponde realizar lo siguiente:
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 I.- Desarrollar programas de investigación de temas relacionados con la historia, funciones, evolución y prácticas parlamentarias y en materia de fiscalización de recursos públicos;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 II.- Apoyar a la Mesa Directiva, a la Diputación Permanente y a las comisiones en los eventos de consulta, foros y debate, para la sistematización de las propuestas o conclusiones que se obtengan;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 III.- Asistir a los diputados en la elaboración de iniciativas;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 IV.- En coordinación con la Dirección General Jurídica del Congreso del Estado, asistir a las comisiones en la elaboración de iniciativas, dictámenes, comunicaciones y demás documentación de análisis que soliciten;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 V.- Atender y dar curso a las solicitudes de los diputados en materia de investigaciones, estudios y análisis legislativo;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 VI.- Aportar a los Diputados investigaciones técnicas que contribuyan al mejoramiento de su trabajo legislativo;
 
-VII.- Recabar información documental de análisis, debate y legislación sobre los diversos temas de interés social, económico, político y cultural, que sirvan de apoyo para un adecuado desahogo del proceso legislativo;
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+VII.- Recabar información documental de análisis, debate y legislación sobre los diversos temas de interés social, económico, político y cultural, que sirvan de apoyo para la construcción de iniciativas, el adecuado desahogo del proceso legislativo de estas; así como, la debida evaluación de resultados de normas vigentes de interés general;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 VIII.- En coordinación con la Dirección General Jurídica del Congreso del Estado, prestar los servicios de corrección y estilo que se requieran en la elaboración de dictámenes e iniciativas de ley;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 IX.- Participar en los diversos grupos de trabajo que establezcan las comisiones, la Mesa Directiva, el pleno del Congreso del Estado o la Diputación Permanente, en el desarrollo de sus funciones;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 X.- Recopilar y clasificar la legislación y reglamentación histórica estatal con el objeto de realizar estudios sobre su génesis, evolución e impacto en la vida de la sociedad;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 XI.- Recopilar y clasificar la legislación federal y de otras entidades del país, incluyendo los Tratados Internacionales que México ha ratificado, con el propósito de analizar su relación con el orden jurídico del Estado;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 XII.- Efectuar estudios de derecho comparado en los temas relevantes del interés del Congreso del Estado;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 XIII.- Llevar el control de las adecuaciones que deban realizarse al marco normativo local en función de las reformas a la Constitución Política de los Estados Unidos Mexicanos que así lo ordenen;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 XIV.- Investigar el estado que guarda el orden jurídico estatal aplicando diversos criterios metodológicos y presentar propuestas que contribuyan a su actualización;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 XV.- Fomentar la celebración de convenios de colaboración e intercambio con organismos académicos, públicos, privados y sociales, locales, nacionales e internacionales;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
 XVI.- Instrumentar programas de profesionalización y formación de especialistas en áreas del conocimiento vinculadas con el quehacer parlamentario y la fiscalización de recursos públicos;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
 XVII.- Organizar, promover y participar en cursos, seminarios, congresos, diplomados, foros, coloquios, conferencias y mesas redondas;
 
-XVIII.- Impulsar programas editoriales y de difusión de las actividades del Congreso del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-XIX.- Coordinar los temas de capacitación del Congreso del Estado.
+XVIII.- Impulsar programas editoriales y de difusión de las actividades del Congreso del Estado de Sonora;
 
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-ARTÍCULO 197 BIS 1.- El Centro estará presidido por un Director General, quien será apoyado por un Subdirector, ambos designados por la Comisión de Régimen Interno y Concertación Política.
+XIX.- Coordinar los temas de capacitación del Congreso del Estado;
 
-Para ser nombrado Director General y Subdirector del Centro se requiere ser mexicano y contar con título profesional de Licenciado en Derecho con una antigüedad mínima de 7 años.
+> <small>(ADICIONADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+XX.- Llevar la estadística legislativa del Congreso del Estado;
 
-ARTÍCULO 197 BIS 2.- Para el ejercicio de las atribuciones establecidas en este artículo, el Centro contará con la estructura administrativa necesaria para el desempeño de sus funciones, la cual deberá ser aprobada y nombrada por la Comisión de Régimen Interno y Concertación Política del Congreso del Estado. El personal del Centro deberá contar con un perfil profesional relacionado de manera preferencial con los ámbitos académicos y de la investigación.
+> <small>(ADICIONADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XXI.- Dar seguimiento a los trámites legislativos del Congreso del Estado; y
+
+> <small>(ADICIONADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XXII.- Las demas que le señale la Comisión de Régimen Interno y Concertación Política.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 197 BIS 1.- El Centro estará presidido por una Directora o Director General, que contará con el personal necesario y capacitado, que para ello apruebe la Comisión de Régimen Interno y Concertación Política.
+
+Para que una persona sea nombrada Directora o Director General y subdirector o subdirectora del Centro se requiere ser mexicano y contar con título profesional, ser mayor de 30 años y preferentemente que tenga experiencia en Derecho parlamentario y técnica legislativa.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 197 BIS 2.- Para el ejercicio de las atribuciones establecidas en este artículo, el Centro contará con la estructura administrativa necesaria para el desempeño de sus funciones, la cual deberá ser aprobada y nombrada por la Comisión de Régimen Interno y Concertación Política del Congreso del Estado. El personal del Centro deberá contar con un perfil profesional relacionado de manera preferencial con los ámbitos legislativo, académico y de la investigación.
 
 ## TÍTULO DÉCIMO TERCERO. DEL SERVICIO CIVIL DE CARRERA
 
@@ -2953,11 +3099,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 El Congreso del Estado, dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, deberá de emitir la convocatoria pública para conformar el Comité Técnico Asesor del Parlamento Abierto.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ABIGEATO".]
+B.O. 11 DE NOVIEMBRE DE 2021.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 11, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 2 DE DICIEMBRE DE 2022.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- El Congreso del estado por conducto de la Comisión de Régimen Interno y Concertación Política, deberá expedir dentro del plazo de 120 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Código de Conducta del Congreso del Estado.
+
+TERCERO.- Se ratifica la integración de la Mesa Directiva que se encuentre en funciones a la fecha de entrada en vigor del presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ABUSO SEXUAL”.]
 
