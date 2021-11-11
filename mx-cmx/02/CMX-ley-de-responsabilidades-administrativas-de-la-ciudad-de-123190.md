@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidades-administrativas-de-la-ciudad-de-123190
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2020-11-18"
+last_updated: "2021-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123190&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-31"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -1916,6 +1916,10 @@ SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad 
 
 OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
 
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 18 y 21 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2021, las Alcaldías podrán comprometer recursos a más tardar el 30 de noviembre de 2021, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México. Los compromisos que se establezcan en el periodo señalado deberán estar efectivamente devengados al 31 de diciembre de 2021.
+
 G.O. 4 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO Y SE REFORMA EL ARTÍCULO 3, EN SU FRACCIÓN XIX DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO”.]
@@ -1949,3 +1953,13 @@ G.O. 18 DE NOVIEMBRE DE 2020.
 PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Ciudad de México.
+
+G.O. 11 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO NOVENO TRANSITORIO AL DECRETO POR EL QUE SE EXPIDE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 63-BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN CAPÍTULO XIV AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, UN ARTÍCULO 276-BIS Y UN ARTÍCULO 276-TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 482 TOMO II, DE FECHA 31 DE DICIEMBRE DE 2018”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su debida promulgación y publicación en la Gaceta Oficial de la Ciudad de México;
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México, y
+
+TERCERO. La Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México deberá realizar las modificaciones pertinentes a las disposiciones relacionadas con el cierre del ejercicio presupuestal 2021.
