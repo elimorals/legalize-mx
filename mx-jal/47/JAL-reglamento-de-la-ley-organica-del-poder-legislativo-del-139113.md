@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2021-11-10"
+last_updated: "2021-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.
-
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2021.
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -1367,25 +1365,29 @@ XI. Informar mensualmente al Secretario General y al Centro de sus actividades y
 
 XII. Las demás que establezcan otras disposiciones aplicables o que le confiera la Asamblea.
 
-### Capítulo IV. Coordinación de Procesos Legislativos y Asuntos Jurídicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+### Capítulo IV. Coordinación de Procesos Legislativos
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 76.
 
-1. La Coordinación de Procesos Legislativos y Asuntos Jurídicos se integra por:
+1. La Coordinación de Procesos Legislativos se integra por:
 
-I. El Coordinador de Procesos Legislativos y Asuntos Jurídicos;
+I. El Coordinador de Procesos Legislativos;
 
-II. La Jefatura de Procesos Legislativos; y
+II. La Jefatura de Planeación y Programación; y
 
-III. La Jefatura de Asuntos Jurídicos.
+III. La Jefatura de Asistencia Técnica de las Sesiones de la Asamblea.
 
-### Capítulo V. Coordinación de Comunicación Social y Atención Ciudadana
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-###### Artículo 77.
+Artículo 76 bis.
 
-1. La Coordinación de Procesos Legislativos y Asuntos Jurídicos tiene las siguientes atribuciones:
+1. La Coordinación de Procesos Legislativos tiene las siguientes atribuciones:
 
-I. Apoyar a la Mesa Directiva en la planeación, programación y asistencia técnica de las sesiones de la Asamblea;
+I. Apoyar a la Mesa Directiva en la planeación, programación y asistencia técnica de las sesiones de la Asamblea, por lo que hace al proceso legislativo;
 
 II. Proponer a la Mesa Directiva el proyecto de calendario de sesiones;
 
@@ -1439,23 +1441,47 @@ XXVI. Proveer el servicio de reproducción y grabación de audio para las sesion
 
 XXVII. Elaborar las certificaciones de los documentos relativos al proceso legislativo y en su caso, verificar el pago de los derechos correspondientes;
 
-XXVIII. Remitir al Centro, con riguroso control, los expedientes de los asuntos concluidos para su archivo;
+XXVIII. Remitir al Centro, con riguroso control, los expedientes de los asuntos concluidos para su archivo; y
 
-XXIX. Dar soporte jurídico a los asuntos legales en que sea parte el Congreso del Estado;
+XXIX. Las demás que establezca este Reglamento y otras disposiciones aplicables.
 
-XXX. Atender consultas y brindar asesoría jurídica a los órganos del Congreso del Estado, cuando así lo soliciten;
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-XXXI. Realizar las notificaciones correspondientes, en los procedimientos seguidos ante el Congreso del Estado, que no estén encomendadas a otros órganos del mismo;
+### Capítulo IV bis. Coordinación de Asuntos Jurídicos
 
-XXXII Dar seguimiento puntual a los asuntos jurisdiccionales en los que el Congreso del Estado o sus órganos sean parte;
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-XXXIII. Elaborar los proyectos y presentar ante las instancias correspondientes, las demandas, denuncias, contestaciones, quejas, informes y demás ocursos necesarios para la representación jurídica del Congreso del Estado o sus órganos, en los procedimientos jurisdiccionales que sean parte;
+###### Artículo 77.
 
-XXXIV. Fungir como órgano de control disciplinario del Congreso, para efectos de la responsabilidad laboral de los servidores públicos del mismo; y
+1. La Coordinación de Asuntos Jurídicos se integra por:
 
-XXXV. Las demás que establezca este Reglamento y otras disposiciones aplicables.
+I. El Coordinador de Asuntos Jurídicos;
 
-### Capítulo VI. Coordinación de Administración y Finanzas
+II. La Jefatura Jurídica Contenciosa; y
+
+III. La Jefatura Jurídica Consultiva.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+Artículo 77 bis.
+
+1. La Coordinación de Asuntos Jurídicos tiene las siguientes atribuciones:
+
+I. Dar soporte jurídico a los asuntos legales en que sea parte el Congreso del Estado;
+
+II. Atender consultas y brindar asesoría jurídica a los órganos del Congreso del Estado, cuando así lo soliciten;
+
+III. Realizar las notificaciones correspondientes, en los procedimientos seguidos ante el Congreso del Estado, que no estén encomendadas a otros órganos del mismo;
+
+IV. Dar seguimiento puntual a los asuntos jurisdiccionales en los que el Congreso del Estado o sus órganos sean parte;
+
+V. Elaborar los proyectos y presentar ante las instancias correspondientes, las demandas, denuncias, contestaciones, quejas, informes y demás ocursos necesarios para la representación jurídica del Congreso del Estado o sus órganos, en los procedimientos jurisdiccionales que sean parte;
+
+VI. Fungir como órgano de control disciplinario del Congreso, para efectos de la responsabilidad laboral de los servidores públicos del mismo; y
+
+VII. Las demás que establezca este Reglamento y otras disposiciones aplicables.
+
+### Capítulo V. Coordinación de Comunicación Social y Atención Ciudadana
 
 ###### Artículo 78.
 
@@ -1523,7 +1549,7 @@ XXV. Coordinar y actualizar el sistema interno de agenda de actividades, reserva
 
 XXVI. Las demás que establezca este Reglamento y otras disposiciones aplicables.
 
-### Capítulo VII. Coordinación de Servicios Generales
+### Capítulo VI. Coordinación de Administración y Finanzas
 
 ###### Artículo 80.
 
@@ -1597,7 +1623,7 @@ XXIII. Las demás que establezca este Reglamento y otras disposiciones aplicable
 
 3. El comprobante fiscal digital por internet es el mecanismo a través del cual los servidores públicos podrán verificar las remuneraciones y las deducciones aplicadas en su nómina, y funge como comprobante del pago realizado por el Congreso del Estado.
 
-### Capítulo VIII. Coordinación de Parlamento Abierto, Transparencia y Participación Ciudadana
+### Capítulo VII. Coordinación de Servicios Generales
 
 ###### Artículo 82.
 
@@ -1635,7 +1661,7 @@ X. Realizar labores de mantenimiento preventivo y correctivo en los equipos de c
 
 XI. Las demás que establezca este Reglamento y otras disposiciones aplicables.
 
-### Capítulo IX. Áreas Administrativas de la Secretaría General
+### Capítulo VIII. Coordinación de Parlamento Abierto, Transparencia y Participación Ciudadana
 
 ###### Artículo 84.
 
@@ -1671,7 +1697,7 @@ IX. Proponer a los órganos del Congreso del Estado la adopción de las mejores 
 
 X. Las demás que establezca este Reglamento y otras disposiciones aplicables.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo IX. Áreas Administrativas de la Secretaría General
 
 #### Sección Primera. Oficialía de Partes
 
@@ -1701,7 +1727,7 @@ X. Las demás que establezca este Reglamento y otras disposiciones aplicables.
 
 ## TÍTULO SÉPTIMO. ÓRGANOS TÉCNICOS DEL CONGRESO DEL ESTADO
 
-### Capítulo II. Centro de Investigaciones Legislativas
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 90.
 
@@ -1777,7 +1803,7 @@ IX. Proporcionar asesoría, en el ámbito de su competencia, a las áreas del Co
 
 X. Las demás que establezcan otras disposiciones aplicables.
 
-### Capítulo III. Sistema de Radio y Televisión
+### Capítulo II. Centro de Investigaciones Legislativas
 
 ###### Artículo 93.
 
@@ -1921,7 +1947,7 @@ XVII. Las demás que establezcan otras disposiciones aplicables.
 
 1. Las ausencias del titular del Centro son cubiertas por el titular del Área de Estudios Jurídicos, y en su ausencia, por el titular del Área de Biblioteca, Archivo y Editorial.
 
-### Capítulo IV. Contraloría del Congreso
+### Capítulo III. Sistema de Radio y Televisión
 
 #### Sección Primera. Disposiciones Generales
 
@@ -2207,7 +2233,7 @@ VII. Las demás que establezcan otras disposiciones aplicables.
 
 1. El Sistema debe resguardar de manera íntegra y profesional las grabaciones de los programas de radio y televisión, de acuerdo a sus posibilidades técnicas y presupuestales.
 
-### Capítulo V. Unidad de Vigilancia
+### Capítulo IV. Contraloría del Congreso
 
 ###### Artículo 123.
 
@@ -2455,7 +2481,7 @@ XVI. Las demás que establezcan otras disposiciones aplicables.
 
 2. Las ausencias de los jefes de áreas, menores de treinta días naturales, deben ser suplidas por el servidor público que designe el Contralor, en caso de ausencia mayor a treinta días naturales o ausencia definitiva debe procederse al nombramiento respectivo.
 
-### Capítulo VI. Órganos Técnicos Auxiliares y de Dictaminación
+### Capítulo V. Unidad de Vigilancia
 
 ###### Artículo 134.
 
@@ -2535,7 +2561,7 @@ XI. Recibir, en su caso requerir, inscribir en el sistema correspondiente y actu
 
 1. Las ausencias del titular de la Unidad son cubiertas por el personal que designe el Titular, en caso de ausencia mayor a treinta días naturales o ausencia definitiva debe procederse al nombramiento respectivo.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo VI. Órganos Técnicos Auxiliares y de Dictaminación
 
 ###### Artículo 139.
 
@@ -2579,7 +2605,7 @@ XVI. Las demás que establezca este Reglamento, otras disposiciones aplicables o
 
 ## TÍTULO OCTAVO. INSTRUMENTOS DE INFORMACIÓN LEGISLATIVA
 
-### Capítulo II. Sistema de Información Legislativa
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 140.
 
@@ -2621,7 +2647,7 @@ V. El calendario de sesiones solemnes del Congreso del Estado; y
 
 VI. La demás información oficial que autorice la Mesa Directiva.
 
-### Capítulo III. Sistema de Información de Procesos
+### Capítulo II. Sistema de Información Legislativa
 
 ###### Artículo 144.
 
@@ -2743,7 +2769,7 @@ XII. La demás información y documentos que señale el manual respectivo.
 
 2. Si existen documentos considerados como reservados o confidenciales en su totalidad por la legislación correspondiente, únicamente se hace pública una leyenda que funde y motive la causa, y los documentos originales quedan a disposición de los diputados y las diputadas para su revisión y consulta en la Coordinación de Procesos Legislativos y Asuntos Jurídicos.
 
-### Capítulo IV. Gaceta Parlamentaria
+### Capítulo III. Sistema de Información de Procesos
 
 ###### Artículo 149.
 
@@ -2787,7 +2813,7 @@ VII. El periódico oficial donde se publicó el decreto o acuerdo en su caso; y
 
 VIII. Las comunicaciones oficiales relativas al proceso legislativo del decreto o acuerdo.
 
-### Capítulo V. Diario de los Debates
+### Capítulo IV. Gaceta Parlamentaria
 
 ###### Artículo 154.
 
@@ -2837,7 +2863,7 @@ IV. El proyecto de orden del día propuesto, con los listados de los asuntos de 
 
 1. Cuando se modifique el lugar, día u hora de una sesión o evento, o cuando se cancele previamente a su inicio debe actualizarse la publicación de la Gaceta y agregarse una nota alusiva al cambio de situación.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo V. Diario de los Debates
 
 ###### Artículo 159.
 
@@ -2889,7 +2915,7 @@ XII. Anexos en versión digital del original no editable de las iniciativas, acu
 
 ## TÍTULO NOVENO. TÉCNICA LEGISLATIVA
 
-### Capítulo II. Sistemática Legislativa
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 162.
 
@@ -2923,7 +2949,7 @@ IV. Instrumental Legislativa.
 
 1. Para efectos de este título se entiende por Ley al conjunto de normas jurídicas generales, positivas, agrupadas como unidad temática, y organizadas sistemáticamente en una estructura legislativa.
 
-### Capítulo III. Lingüística Legislativa
+### Capítulo II. Sistemática Legislativa
 
 #### Sección Primera. Disposiciones Generales
 
@@ -3433,7 +3459,7 @@ III. Las normas que constituyen los pasos o etapas generales de un procedimiento
 
 6. En las remisiones externas generales puede utilizarse la referencia a la legislación en la materia específica, sin utilizar el nombre propio de la ley.
 
-### Capítulo IV. Dinámica Legislativa
+### Capítulo III. Lingüística Legislativa
 
 #### Sección Primera. Disposiciones Generales
 
@@ -3695,7 +3721,7 @@ II. Los enunciados normativos, para palabras en idiomas distintos al español.
 
 3. El subrayado y el testado no deben utilizarse en el texto normativo de las leyes, decretos o acuerdos legislativos.
 
-### Capítulo V. Instrumental Legislativa
+### Capítulo IV. Dinámica Legislativa
 
 ###### Artículo 231.
 
@@ -3815,7 +3841,7 @@ V. Las unidades normativas internas de otra que no sea modificada, no deben enun
 
 3. Cuando sólo sea un artículo transitorio se enuncia con la palabra "Único", con mayúsculas en negritas.
 
-### Capítulo I. Manuales
+### Capítulo V. Instrumental Legislativa
 
 #### Sección Primera. Disposiciones generales
 
@@ -4187,7 +4213,7 @@ II. El nombre, cargo y firma autógrafa de quienes la emiten.
 
 ## TÍTULO DÉCIMO. FUNCIONAMIENTO ADMINISTRATIVO
 
-### Capítulo II. Manejo de Recursos
+### Capítulo I. Manuales
 
 ###### Artículo 288.
 
@@ -4199,7 +4225,7 @@ II. El nombre, cargo y firma autógrafa de quienes la emiten.
 
 1. La Secretaría General emitirá los lineamientos para el diseño y elaboración de los manuales, especificando los elementos que deba de contener cada uno.
 
-### Capítulo III. Adquisiciones de Bienes, Servicios y Enajenaciones
+### Capítulo II. Manejo de Recursos
 
 ###### Artículo 290.
 
@@ -4215,7 +4241,7 @@ II. El nombre, cargo y firma autógrafa de quienes la emiten.
 
 3. La Comisión, mediante acuerdo interno, emite los lineamientos para la aprobación de los montos máximos y los procedimientos de restitución y comprobación de los fondos revolventes autorizados, dentro del primer semestre de la Legislatura.
 
-### Capítulo I. Palacio del Poder Legislativo
+### Capítulo III. Adquisiciones de Bienes, Servicios y Enajenaciones
 
 ###### Artículo 292.
 
@@ -4321,7 +4347,7 @@ III. Los integrantes del Comité deben firmar las propuestas de adquisiciones ap
 
 ## TÍTULO DÉCIMO PRIMERO. DISPOSICIONES COMPLEMENTARIAS
 
-### Capítulo II. Reconocimientos
+### Capítulo I. Palacio del Poder Legislativo
 
 #### Sección Primera. Salón de Sesiones
 
@@ -4372,6 +4398,8 @@ III. Los integrantes del Comité deben firmar las propuestas de adquisiciones ap
 1. La Secretaría General, a través de las coordinaciones correspondientes, debe brindar las facilidades necesarias y el apoyo básico necesario para la realización de los eventos en el patio central, los pasillos y los salones del Palacio del Poder Legislativo.
 
 2. La organización, logística y el costo de los eventos corren a cargo de quien los proponga y organice, salvo aquellos que provea la Secretaría General, a través de sus direcciones como parte de los bienes y servicios propios del Congreso del Estado, cuando se trate de eventos propios de los diputados, las diputadas o las comisiones.
+
+### Capítulo II. Reconocimientos
 
 ###### Artículo 315.
 
@@ -4540,3 +4568,23 @@ P.O. 10 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. La titularidad del Órgano Interno de Control del Congreso del Estado, alineará el contenido del Código de Ética del Congreso del Estado de Jalisco con las presentes reformas, en un plazo no mayor a 30 días naturales, de conformidad con lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas.
+
+P.O. 11 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28506/LXIII/21 QUE REFORMA LOS ARTÍCULOS 40, 54, 76, 77, 142 Y 143 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; REFORMA EL CAPÍTULO IV ASÍ COMO LOS ARTÍCULOS 76 Y 77, SE ADICIONAN LOS ARTÍCULOS 76 BIS Y 77 BIS, Y EL CAPÍTULO IV BIS, DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor a partir de su aprobación.
+
+###### ARTÍCULO TERCERO.
+
+Cuando la Ley Orgánica del Poder Legislativo del Estado de Jalisco y otras disposiciones mencionen a la Coordinación de Procesos Legislativos y Asuntos Jurídicos, se distribuirán según la naturaleza del acto y se remitirán a cada una de las nuevas coordinaciones previstas en este decreto de acuerdo a sus atribuciones.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye al Secretario General del Congreso del Estado y a las instancias correspondientes para que en el término de 30 días naturales para que se lleven a cabo las medidas administrativas, presupuestales, así como las adecuaciones conducentes a los manuales de organización y procedimientos y demás disposiciones necesarias para dar cumplimiento al presente decreto.
