@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-11-10"
+last_updated: "2021-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -639,7 +639,9 @@ VII. Someter a discusión los asuntos agendados en las sesiones, en el orden cro
 
 VIII. Someter a la consideración de la Asamblea, para su autorización, la justificación de la falta de asistencia de los diputados y las diputadas a las sesiones del Congreso del Estado;
 
-IX. Informar a la Coordinación de Procesos Legislativos y Asuntos Jurídicos de las asistencias e inasistencias de los diputados y las diputadas a las sesiones de la Asamblea, ya sean justificadas o injustificadas, para efectos de su registro;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+IX. Informar a la Coordinación de Procesos Legislativos de las asistencias e inasistencias de los diputados y las diputadas a las sesiones de la Asamblea, ya sean justificadas o injustificadas, para efectos de su registro;
 
 X. Conceder la palabra alternativamente a los diputados y las diputadas, en el orden en que se solicite, en los términos de esta ley;
 
@@ -915,11 +917,21 @@ IV. No haber sido condenado por delito intencional que amerite pena de privació
 
 1. Para el óptimo desempeño de las funciones del Congreso del Estado, la Secretaría General cuenta con distintas coordinaciones a su cargo, agrupadas en un área legislativa y una administrativa.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 I. Las coordinaciones del área legislativa son las siguientes:
 
-a) Procesos Legislativos y Asuntos Jurídicos, cuyas funciones son el apoyo en la planeación y programación legislativa, y brindar soporte jurídico en los asuntos legales de que sea parte el Congreso del Estado; y
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-b) Comunicación Social y Atención Ciudadana, cuyas funciones son apoyar la difusión de los trabajos de la Asamblea y sus comisiones y la atención a la ciudadanía; y
+a) Procesos Legislativos, cuyas funciones son el apoyo en la planeación y programación legislativa;
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+b) Asuntos Jurídicos, cuyas funciones serán el brindar soporte jurídico en los asuntos legales de que sea parte el Congreso del Estado; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+c) Comunicación Social y Atención Ciudadana, cuyas funciones son apoyar la difusión de los trabajos de la Asamblea y sus comisiones y la atención a la ciudadanía.
 
 II. Las coordinaciones del área administrativa son las siguientes:
 
@@ -1347,15 +1359,21 @@ VIII. Las demás que señale esta ley y su reglamento.
 
 2. Cuando los informes fijen la postura del Congreso del Estado respecto de determinado asunto o se pronuncien respecto del estado que guarda la administración pública estatal, para que los mismos tengan validez, deben de ser aprobados por la Asamblea.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
-
 ###### Artículo 76.
 
-1. Para el turno de los asuntos que determine la Asamblea, la Secretaría General, a través de la Coordinación de Procesos Legislativos y Asuntos Jurídicos, remite al Presidente de la comisión de que se trate, copia electrónica de los documentos y archivos electrónicos que obren en el expediente, a efecto de que ésta se encuentre en posibilidad de resolverlo; y debe conservar en su poder los originales, los cuales debe poner a disposición de las instancias de dictaminación para consulta, salvo los informes individuales, específicos y general de cuenta pública, los cuales son enviados en original al presidente de la Comisión de Vigilancia y Sistema Anticorrupción.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+1. Para el turno de los asuntos que determine la Asamblea, la Secretaría General, a través de la Coordinación de Procesos Legislativos, remite al Presidente de la comisión de que se trate, copia electrónica de los documentos y archivos electrónicos que obren en el expediente, a efecto de que ésta se encuentre en posibilidad de resolverlo; y debe conservar en su poder los originales, los cuales debe poner a disposición de las instancias de dictaminación para consulta, salvo los informes individuales, específicos y general de cuenta pública, los cuales son enviados en original al presidente de la Comisión de Vigilancia y Sistema Anticorrupción.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 2. Cuando el Presidente de la comisión reciba documentos originales debe firmar el recibo de ellos en el libro de registro que para tal efecto se establezca, y debe devolverlos cuando ya no se requieran para su estudio y dictamen, al dejar de presidir la comisión o al finalizar la Legislatura.
 
-3. La Coordinación de Procesos Legislativos y Asuntos Jurídicos, previa autorización de la Secretaría General, enviará al área de Biblioteca, Archivo y Editorial del Centro de Investigaciones Legislativas, los documentos originales de los asuntos concluidos.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+3. La Coordinación de Procesos Legislativos, previa autorización de la Secretaría General, enviará al área de Biblioteca, Archivo y Editorial del Centro de Investigaciones Legislativas, los documentos originales de los asuntos concluidos.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 4. Los documentos a que se refiere este artículo y que sean generados por el Poder Legislativo, deben remitirse en forma electrónica como documento abierto y editable.
 
@@ -1391,7 +1409,9 @@ XII. Representar jurídicamente a la comisión en los procedimientos donde sea s
 
 XIII. Suscribir las comunicaciones e informes oficiales que versen sobre los trabajos de la comisión;
 
-XIV. Presentar a la Coordinación de Procesos Legislativos y Asuntos Jurídicos, un informe semestral sobre reuniones de comisión y asistencias de los integrantes, a más tardar quince días anteriores al término del ejercicio de la Mesa Directiva en funciones;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XIV. Presentar a la Coordinación de Procesos Legislativos, un informe semestral sobre reuniones de comisión y asistencias de los integrantes, a más tardar quince días anteriores al término del ejercicio de la Mesa Directiva en funciones;
 
 XV. Presentar dentro del primer mes del año legislativo, o de la instalación de la comisión, el proyecto de plan anual de trabajo de la comisión para su aprobación, en su caso, congruente con la Agenda Legislativa;
 
@@ -1407,7 +1427,9 @@ XX. Designar y remover a los servidores públicos que integren el órgano técni
 
 XXI. Supervisar y coordinar el órgano técnico de su competencia;
 
-XXII. Informar a la Coordinación de Procesos Legislativos y Asuntos Jurídicos de las asistencias e inasistencias de los integrantes a las reuniones de comisión, ya sean justificadas o injustificadas, para efectos de su registro; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+XXII. Informar a la Coordinación de Procesos Legislativos de las asistencias e inasistencias de los integrantes a las reuniones de comisión, ya sean justificadas o injustificadas, para efectos de su registro; y
 
 XXIII. Las demás que señale esta ley, su reglamento y otras disposiciones aplicables.
 
@@ -2557,7 +2579,9 @@ II. Artículos que debe contener la ley, el decreto o acuerdo legislativo corres
 
 III. Disposiciones transitorias.
 
-2. Presentada la iniciativa, el autor hace entrega a la Coordinación de Procesos Legislativos y Asuntos Jurídicos, copia electrónica de su iniciativa en formato editable, la cual debe estar disponible para la formulación del proyecto de dictamen y para el público en general.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+2. Presentada la iniciativa, el autor hace entrega a la Coordinación de Procesos Legislativos, copia electrónica de su iniciativa en formato editable, la cual debe estar disponible para la formulación del proyecto de dictamen y para el público en general.
 
 3. En la presentación de iniciativas en tribuna, el Presidente da el uso de la palabra a cada diputado o diputada hasta por cinco minutos para iniciativas de ley o decreto, y hasta por tres minutos para iniciativas de acuerdo legislativo.
 
@@ -2567,9 +2591,9 @@ III. Disposiciones transitorias.
 
 1. Las comisiones, para proponer a la Asamblea se deseche una iniciativa, deben hacerlo mediante acuerdo legislativo que así lo declare.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2021)</small>
 
-2. Las iniciativas no dictaminadas durante la legislatura en que fueron presentadas, pasarán a la siguiente legislatura para que en un plazo improrrogable de 60 días naturales sean dictaminadas, transcurrido el plazo si no se elaboró el dictamen correspondiente, se entenderán desechadas de plano y se archivarán de oficio por parte de la Coordinación de Procesos Legislativos y Asuntos Jurídicos.
+2. Las iniciativas no dictaminadas durante la legislatura en que fueron presentadas, pasarán a la siguiente legislatura para que en un plazo improrrogable de 60 días naturales sean dictaminadas, transcurrido el plazo si no se elaboró el dictamen correspondiente, se entenderán desechadas de plano y se archivarán de oficio por parte de la Coordinación de Procesos Legislativos.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3958,3 +3982,23 @@ P.O. 10 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. La titularidad del Órgano Interno de Control del Congreso del Estado, alineará el contenido del Código de Ética del Congreso del Estado de Jalisco con las presentes reformas, en un plazo no mayor a 30 días naturales, de conformidad con lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas.
+
+P.O. 11 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28506/LXIII/21 QUE REFORMA LOS ARTÍCULOS 40, 54, 76, 77, 142 Y 143 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; REFORMA EL CAPÍTULO IV ASÍ COMO LOS ARTÍCULOS 76 Y 77, SE ADICIONAN LOS ARTÍCULOS 76 BIS Y 77 BIS, Y EL CAPÍTULO IV BIS, DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor a partir de su aprobación.
+
+###### ARTÍCULO TERCERO.
+
+Cuando la Ley Orgánica del Poder Legislativo del Estado de Jalisco y otras disposiciones mencionen a la Coordinación de Procesos Legislativos y Asuntos Jurídicos, se distribuirán según la naturaleza del acto y se remitirán a cada una de las nuevas coordinaciones previstas en este decreto de acuerdo a sus atribuciones.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye al Secretario General del Congreso del Estado y a las instancias correspondientes para que en el término de 30 días naturales para que se lleven a cabo las medidas administrativas, presupuestales, así como las adecuaciones conducentes a los manuales de organización y procedimientos y demás disposiciones necesarias para dar cumplimiento al presente decreto.
