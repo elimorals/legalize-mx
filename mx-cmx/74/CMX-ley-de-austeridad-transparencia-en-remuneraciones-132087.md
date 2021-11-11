@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-06-09"
+last_updated: "2021-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -1298,7 +1298,7 @@ Las unidades responsables del gasto que por cualquier motivo al término del eje
 
 De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 23 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], G.O. 23 DE ENERO DE 2020)</small>
 
 Una vez que el fondo alcance el valor equivalente al 0.50% del PIB de la Ciudad de México del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
 
@@ -2598,6 +2598,10 @@ SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad 
 
 OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
 
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2021)</small>
+
+NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 18 y 21 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2021, las Alcaldías podrán comprometer recursos a más tardar el 30 de noviembre de 2021, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México. Los compromisos que se establezcan en el periodo señalado deberán estar efectivamente devengados al 31 de diciembre de 2021.
+
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2° fracciones XVII y XVIII, 6°, 9° fracción I, 18 y 20 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE PROTECCIÓN CIVIL Y DE LA GESTIÓN INTEGRAL DE RIESGOS, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.-FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.
@@ -2723,3 +2727,13 @@ PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicaci�
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- La normatividad que derive de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, y que haga referencia a Órganos de Gobierno y Órganos Autónomos, se entenderán realizadas al Poder Legislativo, Poder Judicial y Organismos Autónomos, respectivamente y en términos del presente Decreto.
+
+G.O. 11 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO NOVENO TRANSITORIO AL DECRETO POR EL QUE SE EXPIDE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 63-BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN CAPÍTULO XIV AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, UN ARTÍCULO 276-BIS Y UN ARTÍCULO 276-TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 482 TOMO II, DE FECHA 31 DE DICIEMBRE DE 2018”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su debida promulgación y publicación en la Gaceta Oficial de la Ciudad de México;
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México, y
+
+TERCERO. La Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México deberá realizar las modificaciones pertinentes a las disposiciones relacionadas con el cierre del ejercicio presupuestal 2021.
