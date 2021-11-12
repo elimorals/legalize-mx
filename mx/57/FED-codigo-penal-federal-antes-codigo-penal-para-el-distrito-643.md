@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2021-06-01"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -8311,7 +8311,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
-Tercero. Las obligaciones derivadas de la reforma al artículo 28, fracción I, apartado B del Código Fiscal de la Federación, deberán cumplirse una vez que surtan efectos las autorizaciones que emita el Servicio de Administración Tributaria en términos de dicho precepto. Para tales efectos, el Servicio de Administración Tributaria dará a conocer en su página de Internet el momento en que surtan efectos las autorizaciones referidas. Las reglas de carácter general a que se refiere la citada disposición, deberán emitirse a más tardar 90 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+Tercero. (DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 Para efectos de la emisión de las reglas relativas a los controles volumétricos y los dictámenes emitidos por los laboratorios de prueba o ensayo a que se refiere el artículo 28, fracción I, apartado B, segundo párrafo del Código Fiscal de la Federación, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía.
 
@@ -8406,3 +8406,9 @@ D.O.F. 1 DE JUNIO DE 2021.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los Congresos de las entidades federativas en el ámbito de sus competencias, contarán con un plazo de 180 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas que correspondan.
+
+D.O.F. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS”.]
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
