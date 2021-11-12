@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2020-12-24"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 24 DE DICIEMBRE DE 2020.
 
@@ -548,25 +548,9 @@ Las autorizaciones previstas en este artículo, se podrán otorgar hasta por un 
 
 Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $190.00 por la prevalidación del pedimento para la importación temporal de cada remolque, semiremolque y portacontenedor, misma que amparará su legal estancia por el plazo que establece el artículo 106, fracción I de esta Ley. El aprovechamiento será destinado al Servicio de Administración Tributaria para mejorar la infraestructura aduanera del país.
 
-> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
-
 ###### Artículo 16-C.
 
-El Servicio de Administración Tributaria podrá otorgar autorización a personas morales para que presten servicios de medición de peso, volumen, o cualquier otro que resulte aplicable a la determinación de las características inherentes a la mercancía, que influya en el pago de las contribuciones aplicables, cuando para ello se requiera de equipos, sistemas o instrumentos especializados, así como para la acreditación de la correcta operación y funcionamiento de dichos equipos, sistemas o instrumentos especializados.
-
-Para efectos del párrafo anterior, las autorizaciones que se podrán otorgar serán las siguientes:
-
-I. Para la prestación del servicio de emisión del dictamen de medición de peso, volumen o de determinación de las características inherentes a la mercancía.
-
-II. Para la prestación del servicio de emisión de certificación de la correcta operación y funcionamiento de los equipos, sistemas o instrumentos especializados que se utilicen para la medición de peso, volumen o de determinación de las características inherentes a la mercancía.
-
-Para obtener alguna de las autorizaciones previstas en el párrafo anterior, el interesado deberá acreditar ser persona moral; contar con experiencia en la materia, con solvencia económica, con capacidad técnica, administrativa y financiera, así como con la de sus socios y accionistas; estar al corriente en el cumplimiento de sus obligaciones fiscales; efectuar el pago por el otorgamiento de la autorización correspondiente, y cumplir con los requisitos y obligaciones que establezca el Servicio de Administración Tributaria mediante reglas. En el caso de la autorización a que se refiere la fracción I, del párrafo anterior, los equipos, sistemas y/o instrumentos necesarios para emitir el dictamen descrito, deberán estar certificados por las personas a las que se refiere la fracción II del citado párrafo.
-
-En ningún caso podrá expedirse autorización a quien actúe con el carácter de importador, exportador, agente aduanal o agencia aduanal, ni podrá tener ambas autorizaciones de manera simultánea una misma persona.
-
-Las autorizaciones se podrán otorgar por un plazo de hasta diez años, las cuales podrán prorrogarse a solicitud del interesado hasta por un plazo igual, siempre que la solicitud se presente en los últimos tres meses previos al vencimiento de la autorización, se efectúe el pago por el otorgamiento de la autorización correspondiente y se sigan cumpliendo con los requisitos previstos para su otorgamiento, así como con las obligaciones derivadas de la misma.
-
-Las personas morales que obtengan las autorizaciones previstas en el segundo párrafo de este artículo, deberán cumplir con las obligaciones establecidas en esta Ley, mantener los medios de control que señale el Servicio de Administración Tributaria mediante reglas, contar con equipo de cómputo enlazado con el sistema electrónico aduanero de dicho órgano administrativo desconcentrado, así como con el de los importadores, los exportadores, los agentes aduanales y las agencias aduanales cuando el despacho aduanero se haga por su conducto, y llevar un registro simultáneo de sus operaciones.
+(DEROGADO POR ARTÍCULO NOVENO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 > <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
@@ -5666,9 +5650,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
-Tercero. Las obligaciones derivadas de la reforma al artículo 28, fracción I, apartado B del Código Fiscal de la Federación, deberán cumplirse una vez que surtan efectos las autorizaciones que emita el Servicio de Administración Tributaria en términos de dicho precepto. Para tales efectos, el Servicio de Administración Tributaria dará a conocer en su página de Internet el momento en que surtan efectos las autorizaciones referidas. Las reglas de carácter general a que se refiere la citada disposición, deberán emitirse a más tardar 90 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
-
-Para efectos de la emisión de las reglas relativas a los controles volumétricos y los dictámenes emitidos por los laboratorios de prueba o ensayo a que se refiere el artículo 28, fracción I, apartado B, segundo párrafo del Código Fiscal de la Federación, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía.
+Tercero. (DEROGADO POR ARTÍCULO DECIMOSEGUNDO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 Cuarto. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
 
@@ -5805,3 +5787,9 @@ Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria est
 D.O.F. 24 DE DICIEMBRE DE 2020.
 
 > <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS".]
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
