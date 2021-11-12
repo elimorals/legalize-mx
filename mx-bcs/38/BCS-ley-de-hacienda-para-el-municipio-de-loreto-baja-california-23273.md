@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2017-12-20"
+last_updated: "2021-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 12 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE NOVIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -3792,3 +3792,15 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 01 de enero de 2018
 SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las autoridades municipales a través de las dependencias de la administración pública municipal, deberán proveer lo necesario administrativamente para la regularización de las disposiciones contenidas en el presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2792 SE EXPIDE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR".]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda para el Municipio de Loreto, Baja California Sur que se expidió bajo el decreto número 1309, publicada en el Boletín Oficial del Gobierno del Estado, el cinco de noviembre del dos mil uno, así como sus subsecuentes reformas y modificaciones.
+
+Artículo Tercero.- A partir de la entrada en vigor del presente Decreto, las autoridades municipales a través de las dependencias de la administración pública municipal, deberán proveer lo necesario administrativamente para la regularización de las disposiciones contenidas en la presente Ley.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que contravengan a la presente Ley.
