@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2021-01-19"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LFISAN"
 ---
 # LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. 19 DE ENERO DE 2021.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. 19 DE ENERO DE 2021.]
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -60,15 +62,13 @@ II. Importen en definitiva al país automóviles, siempre que se trate de person
 
 Para los efectos de lo dispuesto en las fracciones anteriores, los automóviles importados por los que se cause el impuesto establecido en esta Ley, son los que corresponden al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-###### ARTICULO 2o.
+###### Artículo 2o.
 
-El impuesto para automóviles nuevos se calculará aplicando la tarifa o tasa establecida en el artículo 3o. de esta Ley, según corresponda, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador, distribuidores autorizados o comerciantes en el ramo de vehículos, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones.
+El impuesto para automóviles nuevos se calculará aplicando la tarifa o tasa establecida en el artículo 3o. de esta Ley, según corresponda, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador, distribuidores autorizados o comerciantes en el ramo de vehículos, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Tratándose de automóviles blindados, excepto camiones, la tarifa antes mencionada, se aplicará al precio de enajenación a que se refiere el párrafo anterior, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por estos vehículos, será menor al que tendría que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año y versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, en los términos antes mencionados, la tarifa establecida en el precepto citado en el párrafo anterior, multiplicando el resultado por el factor de 0.80.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -176,17 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. DE 19 DE ENERO DE 2021.]</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $272,471.43. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $150,000.00. En el precio mencionado no se considerará el impuesto al valor agregado.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. DE 19 DE ENERO DE 2021.]</small>
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
-
-Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $150,000.01 y hasta $190,000.00, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
+Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $272,471.44 y hasta $345,130.49, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
@@ -3093,3 +3089,15 @@ fracción II segundo párrafo: $272,471.44 y hasta $345,130.49
 C. Código de claves vehiculares
 
 > <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES DESDE LA PÁGINA 2 A LA 442 DEL D.O.F. 19 DE ENERO DE 2021.]</small>
+
+D.O.F. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS".]
+
+DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
+
+Artículo Sexto. Para los efectos del artículo 8o., fracción II, primer y segundo párrafos de la Ley Federal del Impuesto sobre Automóviles Nuevos, las cantidades vigentes para el ejercicio fiscal 2022, se actualizarán en el mes de enero de dicho ejercicio, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2020, hasta el mes de diciembre de 2021, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de 2022.
+
+## Transitorio
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
