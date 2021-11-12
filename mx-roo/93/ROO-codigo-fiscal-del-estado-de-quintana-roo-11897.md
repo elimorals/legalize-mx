@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-del-estado-de-quintana-roo-11897"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-01-13"
-last_updated: "2020-12-21"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el viernes 13 de enero 1995.
 
@@ -61,9 +61,9 @@ QUEDAN EXENTOS LOS EJIDOS Y LOS EJIDATARIOS SOBRE LA PROPIEDAD COMUNAL, PARCELAR
 
 LAS PERSONAS QUE DE CONFORMIDAD CON LA LEY NO ESTEN OBLIGADAS A PAGAR CONTRIBUCIONES, UNICAMENTE TENDRAN LAS OTRAS OBLIGACIONES QUE ESTABLEZCA EN FORMA EXPRESA LA PROPIA LEY.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-CUANDO EN ESTE CODIGO SE HAGA MENCION A PERSONA MORAL; SE ENTIENDEN COMPRENDIDAS, ENTRE OTRAS, LAS SOCIEDADES MERCANTILES, LOS ORGANISMOS DESCENTRALIZADOS QUE REALICEN PREPONDERANTEMENTE ACTIVIDADES EMPRESARIALES, LAS INSTITUCIONES DE CREDITO, Y LAS SOCIEDADES Y ASOCIACIONES CIVILES.
+CUANDO EN ESTE CODIGO SE HAGA MENCION A PERSONA MORAL, SE ENTIENDEN COMPRENDIDAS, ENTRE OTRAS, LAS SOCIEDADES MERCANTILES, LOS ORGANISMOS DESCENTRALIZADOS QUE REALICEN PREPONDERANTEMENTE ACTIVIDADES EMPRESARIALES, LAS INSTITUCIONES DE CREDITO, LAS SOCIEDADES, ASOCIACIONES CIVILES Y EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -5036,3 +5036,9 @@ PRIMERO. El presente decreto entrará en vigor a partir del día 1o. de enero de
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
 
 TERCERO. Las personas físicas, morales o unidades económicas que a la entrada en vigor del presente Decreto se encuentren prestando servicios de personal en el Estado bajo la figura de subcontratación, deberán solicitar su inscripción al Registro de Prestadores de Servicios de Personal a más tardar el 31 de enero del 2021.
+
+P.O. 12 DE NOVIEMBRE DE 2021
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 156, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 429 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SÉPTIMO DEL ARTICULO 1° DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
