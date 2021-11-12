@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2021-07-31"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
 ÚLTIMA MODIFICACIÓN MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2003.
 
@@ -198,19 +198,25 @@ I.- La enajenación de:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-a) Animales y vegetales que no estén industrializados, salvo el hule, perros, gatos y pequeñas especies, utilizadas como mascotas en el hogar.
+a).- Animales y vegetales que no estén industrializados, salvo el hule, perros, gatos y pequeñas especies, utilizadas como mascotas en el hogar.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Para estos efectos, se considera que la madera en trozo o descortezada no está industrializada.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-b).- Medicinas de patente y productos destinados a la alimentación a excepción de:
+b).- Medicinas de patente y productos destinados a la alimentación humana y animal, a excepción de:
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 1.- Bebidas distintas de la leche, inclusive cuando las mismas tengan la naturaleza de alimentos. Quedan comprendidos en este numeral los jugos, los néctares y los concentrados de frutas o de verduras, cualquiera que sea su presentación, densidad o el peso del contenido de estas materias.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 2.- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 3.- Caviar, salmón ahumado y angulas.
 
@@ -257,6 +263,10 @@ h).- Oro, joyería, orfebrería, piezas artísticas u ornamentales y lingotes, c
 i).- Libros, periódicos y revistas, que editen los propios contribuyentes. Para los efectos de esta Ley, se considera libro toda publicación, unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
 
 Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+j).- Toallas sanitarias, tampones y copas, para la gestión menstrual.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -346,9 +356,13 @@ El impuesto que se traslade por los servicios a que se refiere el artículo 15-D
 
 El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTICULO 4o.-A.
 
-(DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
+Para los efectos de esta Ley, se entiende por actos o actividades no objeto del impuesto, aquéllos que el contribuyente no realiza en territorio nacional conforme a lo establecido en los artículos 10, 16 y 21 de este ordenamiento, así como aquéllos diferentes a los establecidos en el artículo 1o. de esta Ley realizados en territorio nacional, cuando en los casos mencionados el contribuyente obtenga ingresos o contraprestaciones, para cuya obtención realiza gastos e inversiones en los que le fue trasladado el impuesto al valor agregado o el que hubiera pagado con motivo de la importación.
+
+Cuando en esta Ley se aluda al valor de los actos o actividades a que se refiere este artículo, dicho valor corresponderá al monto de los ingresos o contraprestaciones que obtenga el contribuyente por su realización en el mes de que se trate.
 
 ###### ARTICULO 4o.-B.
 
@@ -370,9 +384,9 @@ I. Que el impuesto al valor agregado corresponda a bienes, servicios o al uso o 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-II. Que el impuesto al valor agregado haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes fiscales a que se refiere la fracción III del artículo 32 de esta Ley;
+II. Que el impuesto al valor agregado haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes fiscales a que se refiere la fracción III del artículo 32 de esta Ley. Tratándose de importación de mercancías, el pedimento deberá estar a nombre del contribuyente y constar en éste el pago del impuesto al valor agregado correspondiente;
 
 > <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2021)</small>
 
@@ -388,17 +402,27 @@ V. Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea 
 
 a) Cuando el impuesto al valor agregado trasladado o pagado en la importación, corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, por la adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, dicho impuesto será acreditable en su totalidad;
 
-b) Cuando el impuesto al valor agregado trasladado o pagado en la importación, corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, por la adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que no se deba pagar el impuesto al valor agregado, dicho impuesto no será acreditable;
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-c) Cuando el contribuyente utilice indistintamente bienes diferentes a las inversiones a que se refiere el inciso d) de esta fracción, servicios o el uso o goce temporal de bienes, para realizar las actividades por las que se deba pagar el impuesto al valor agregado, para realizar actividades a las que conforme esta Ley les sea aplicable la tasa de 0% o para realizar las actividades por las que no se deba pagar el impuesto que establece esta Ley, el acreditamiento procederá únicamente en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o a las que se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate, y
+b) Cuando el impuesto al valor agregado trasladado o pagado en la importación corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, por la adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que no se deba pagar el impuesto al valor agregado, incluyendo aquéllas a que se refiere el artículo 4o.-A de esta Ley, dicho impuesto no será acreditable;
 
-d) Tratándose de las inversiones a que se refiere la Ley del Impuesto sobre la Renta, el impuesto al valor agregado que le haya sido trasladado al contribuyente en su adquisición o el pagado en su importación será acreditable considerando el destino habitual que dichas inversiones tengan para realizar las actividades por las que se deba o no pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0%, debiendo efectuar el ajuste que proceda cuando se altere el destino mencionado. Para tales efectos se procederá en la forma siguiente:
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+c) Cuando el contribuyente utilice indistintamente bienes diferentes a las inversiones a que se refiere el inciso d) de esta fracción, servicios o el uso o goce temporal de bienes, para realizar las actividades por las que se deba pagar el impuesto al valor agregado, para realizar actividades a las que conforme esta Ley les sea aplicable la tasa de 0%, para realizar las actividades por las que no se deba pagar el impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el acreditamiento procederá únicamente en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o a las que se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate, incluyendo los actos o actividades a que se refiere el artículo 4o.-A de esta Ley, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+d) Tratándose de las inversiones a que se refiere la Ley del Impuesto sobre la Renta, el impuesto al valor agregado que le haya sido trasladado al contribuyente en su adquisición o el pagado en su importación será acreditable considerando el destino habitual que dichas inversiones tengan para realizar las actividades por las que se deba o no pagar el impuesto establecido en esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, o a las que se les aplique la tasa de 0%, debiendo efectuar el ajuste que proceda cuando se altere el destino mencionado. Para tales efectos se procederá en la forma siguiente:
 
 1. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente esté obligado al pago del impuesto al valor agregado o a las que les sea aplicable la tasa de 0%, el impuesto al valor agregado que haya sido trasladado al contribuyente o el pagado en su importación, será acreditable en su totalidad en el mes de que se trate.
 
-2. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente no esté obligado al pago del impuesto que establece esta Ley, el impuesto al valor agregado que haya sido efectivamente trasladado al contribuyente o pagado en la importación no será acreditable.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-3. Cuando el contribuyente utilice las inversiones indistintamente para realizar tanto actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, así como a actividades por las que no esté obligado al pago del impuesto que establece esta Ley, el impuesto al valor agregado trasladado al contribuyente o el pagado en la importación, será acreditable en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate debiendo, en su caso, aplicar el ajuste a que se refiere el artículo 5o.-A de esta Ley.
+2. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente no esté obligado al pago del impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el impuesto al valor agregado que haya sido efectivamente trasladado al contribuyente o pagado en la importación no será acreditable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+3. Cuando el contribuyente utilice las inversiones indistintamente para realizar tanto actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, así como para actividades por las que no esté obligado al pago del impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el impuesto al valor agregado trasladado al contribuyente o el pagado en la importación, será acreditable en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas, incluyendo los actos o actividades a que se refiere el artículo 4o.-A de esta Ley, que el contribuyente realice en el mes de que se trate debiendo, en su caso, aplicar el ajuste a que se refiere el artículo 5o.-A de esta Ley.
 
 Los contribuyentes que efectúen el acreditamiento en los términos previstos en el párrafo anterior, deberán aplicarlo a todas las inversiones que adquieran o importen en un período de cuando menos sesenta meses contados a partir del mes en el que se haya realizado el acreditamiento de que se trate.
 
@@ -424,7 +448,9 @@ b) Solicitar la devolución del impuesto que corresponda en el mes siguiente a a
 
 La información a que se refiere este inciso deberá presentarse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
-Cuando se ejerza cualquiera de las opciones a que se refieren los incisos a) o b) de esta fracción, el contribuyente deberá calcular en el doceavo mes, contado a partir del mes inmediato posterior a aquél en el que el contribuyente inició actividades, la proporción en la que el valor de las actividades por las que se pagó el impuesto al valor agregado o a las que se aplicó la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente haya realizado en los doce meses anteriores a dicho mes y compararla contra la proporción aplicada para acreditar el impuesto que le fue trasladado o el pagado en la importación en los gastos e inversiones realizados en el periodo preoperativo, conforme a los incisos a) o b) de esta fracción, según se trate.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+Cuando se ejerza cualquiera de las opciones a que se refieren los incisos a) o b) de esta fracción, el contribuyente deberá calcular en el decimosegundo mes, contado a partir del mes inmediato posterior a aquél en el que el contribuyente inició actividades, la proporción en la que el valor de las actividades por las que se pagó el impuesto al valor agregado o a las que se aplicó la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente haya realizado en los doce meses anteriores a dicho mes y compararla contra la proporción aplicada para acreditar el impuesto que le fue trasladado o el pagado en la importación en los gastos e inversiones realizados en el periodo preoperativo, conforme a los incisos a) o b) de esta fracción, según se trate. Para identificar el mes en el que se deberá efectuar el ajuste a que se refiere el presente párrafo, los contribuyentes deberán informar a la autoridad el mes en el que inicien sus actividades, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 
 Cuando de la comparación a que se refiere el párrafo anterior, la proporción aplicada para acreditar el impuesto correspondiente a los gastos o inversiones realizados en el periodo preoperativo se modifique en más del 3%, se deberá ajustar dicho acreditamiento en la forma siguiente:
 
@@ -550,13 +576,11 @@ X. La enajenación de los certificados de participación inmobiliarios no amorti
 
 Las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, casas de bolsa, casas de cambio, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple que para los efectos del impuesto sobre la renta formen parte del sistema financiero y las sociedades para el depósito de valores, no deberán excluir los conceptos señalados en las fracciones IV, V, VI y IX que anteceden.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 5o.-D.
 
-El impuesto se calculará por cada mes de calendario, salvo los casos señalados en los artículos 5o.-E, 5o.-F y 33 de esta Ley.
+El impuesto se calculará por cada mes de calendario, salvo los casos señalados en los artículos 5o.-F y 33 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
@@ -570,23 +594,9 @@ El pago mensual será la diferencia entre el impuesto que corresponda al total d
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28 de este ordenamiento. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 5o.-E.
 
-Los contribuyentes que ejerzan la opción a que se refiere el artículo 111 de la Ley del Impuesto sobre la Renta, durante el periodo que permanezcan en el régimen previsto en dicho artículo, en lugar de presentar mensualmente la declaración a que se refiere el artículo 5o.-D de esta Ley, deberán calcular el impuesto al valor agregado de forma bimestral por los periodos comprendidos de enero y febrero; marzo y abril; mayo y junio; julio y agosto; septiembre y octubre, y noviembre y diciembre de cada año y efectuar el pago del impuesto a más tardar el día 17 del mes siguiente al bimestre que corresponda, mediante declaración que presentarán a través de los sistemas que disponga el Servicio de Administración Tributaria en su página de Internet, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 28 y 33 de esta Ley, según se trate. Los pagos bimestrales tendrán el carácter de definitivos.
-
-El pago bimestral será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el bimestre por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades correspondientes al mismo periodo por las que proceda el acreditamiento determinadas en los términos de esta Ley. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido en el bimestre de que se trate.
-
-Los contribuyentes a que se refiere el presente artículo que, en su caso, efectúen la retención a que se refiere el artículo 1o.-A de esta Ley, en lugar de enterar el impuesto retenido mensualmente mediante la declaración a que se refiere el penúltimo párrafo de dicho artículo, lo enterarán por los bimestres a que se refiere el primer párrafo de este artículo, conjuntamente con la declaración de pago prevista en el mismo o, en su defecto, a más tardar el día 17 del mes siguiente al bimestre que corresponda.
-
-Tratándose de contribuyentes que inicien actividades, en la declaración correspondiente al primer bimestre que presenten, deberán considerar únicamente los meses que hayan realizado actividades.
-
-Los contribuyentes a que se refiere este artículo, deberán cumplir la obligación prevista en la fracción III del artículo 112 de la Ley del Impuesto sobre la Renta, en lugar de llevar la contabilidad a que se refiere la fracción I del artículo 32 de esta Ley. Asimismo, podrán conservar y expedir comprobantes fiscales de conformidad con lo establecido en las fracciones II y IV del citado artículo 112.
-
-Asimismo, los contribuyentes a que se refiere el presente artículo, no estarán obligados a presentar las declaraciones informativas previstas en esta Ley, siempre que presenten la información de las operaciones con sus proveedores en el bimestre inmediato anterior, de conformidad con la fracción VIII del artículo 112 de la Ley del Impuesto sobre la Renta.
+(DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1026,7 +1036,9 @@ I. Inscribirse en el Registro Federal de Contribuyentes ante el Servicio de Admi
 
 II. Ofertar y cobrar, conjuntamente con el precio de sus servicios digitales, el impuesto al valor agregado correspondiente en forma expresa y por separado.
 
-III. Proporcionar al Servicio de Administración Tributaria la información sobre el número de servicios u operaciones realizadas en cada mes de calendario con los receptores ubicados en territorio nacional que reciban sus servicios, clasificadas por tipo de servicios u operaciones y su precio, así como el número de los receptores mencionados, y mantener los registros base de la información presentada. Dicha información se deberá presentar en forma trimestral por los periodos comprendidos de enero, febrero y marzo; abril, mayo y junio; julio, agosto y septiembre, y octubre, noviembre y diciembre, de cada año, mediante declaración electrónica a más tardar el día 17 del mes siguiente al que corresponda el trimestre.
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+III. Proporcionar al Servicio de Administración Tributaria la información sobre el número de servicios u operaciones realizadas en cada mes de calendario con los receptores ubicados en territorio nacional que reciban sus servicios, clasificadas por tipo de servicios u operaciones y su precio, así como el número de los receptores mencionados, y mantener los registros base de la información presentada. Dicha información se deberá presentar de manera mensual, mediante declaración electrónica, a más tardar el día 17 del mes inmediato siguiente al mes que corresponda la información.
 
 IV. Calcular en cada mes de calendario el impuesto al valor agregado correspondiente, aplicando la tasa del 16% a las contraprestaciones efectivamente cobradas en dicho mes y efectuar su pago mediante declaración electrónica que presentarán a más tardar el día 17 del mes siguiente de que se trate.
 
@@ -1072,7 +1084,9 @@ Cuando los servicios digitales a que se refiere el artículo 18-B de esta Ley se
 
 H BIS. El incumplimiento de las obligaciones a que se refieren las fracciones I, VI y VII del artículo 18-D de esta Ley por los residentes en el extranjero sin establecimiento en México que proporcionen los servicios digitales previstos en el artículo 18-B del presente ordenamiento a receptores ubicados en territorio nacional, dará lugar a que se bloquee temporalmente el acceso al servicio digital del prestador de los servicios digitales que incumplió con las obligaciones mencionadas, bloqueo que se realizará por conducto de los concesionarios de una red pública de telecomunicaciones en México, hasta el momento en que dicho residente cumpla con las obligaciones omitidas.
 
-La sanción a que se refiere el párrafo anterior, también se aplicará cuando el residente en el extranjero omita realizar el pago del impuesto o el entero de las retenciones que, en su caso, deba realizar, así como la presentación de las declaraciones de pago e informativas a que se refieren los artículos 18-D, fracción IV, y 18-J, fracciones II, inciso b) y III de esta Ley durante tres meses consecutivos o durante dos periodos trimestrales consecutivos, tratándose de la declaración informativa a que se refiere la fracción III del artículo 18-D citado.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+La sanción a que se refiere el párrafo anterior también se aplicará cuando el residente en el extranjero omita realizar el pago del impuesto o el entero de las retenciones que, en su caso, deba realizar, así como la presentación de las declaraciones de pago e informativas a que se refieren los artículos 18-D, fracciones III y IV y 18-J, fracciones II, inciso b) y III de esta Ley durante tres meses consecutivos.
 
 Adicionalmente, cuando se presenten los supuestos a que se refiere el párrafo anterior, se cancelará la inscripción en el Registro Federal de Contribuyentes a que se refiere el artículo 18-D, fracción I, de esta Ley y se dará de baja de la lista referida en dicha disposición, tanto en la página de Internet del Servicio de Administración Tributaria como en el Diario Oficial de la Federación.
 
@@ -1246,9 +1260,11 @@ IV.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
 V.- Libros, periódicos y revistas.
 
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTICULO 21.
 
-Para los efectos de esta Ley, se entiende que se concede el uso o goce temporal de un bien tangible en territorio nacional, cuando en éste se encuentre el bien en el momento de su entrega material a quien va a realizar su uso o goce.
+Para los efectos de esta Ley, se entiende que se concede el uso o goce temporal de un bien tangible en territorio nacional, cuando en éste se realiza su uso o goce, con independencia del lugar de su entrega material o de la celebración del acto jurídico que le dé origen.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -2730,10 +2746,8 @@ D.O.F. 31 DE JULIO DE 2021.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 847.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+D.O.F. 12 DE NOVIEMBRE DE 2021.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS”.]
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
-
-P.O. 21 DE NOVIEMBRE DE 2017.
+Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
