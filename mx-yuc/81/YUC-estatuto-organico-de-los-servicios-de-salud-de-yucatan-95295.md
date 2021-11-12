@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-los-servicios-de-salud-de-yucatan-95295"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-07-15"
-last_updated: "2016-12-22"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LOS "SERVICIOS DE SALUD DE YUCATÁN"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el lunes 15 de julio de 2013.
 
@@ -119,15 +119,21 @@ b) Dirección de Prevención y Protección de la Salud:
 
 c) Dirección de Protección contra Riesgos Sanitarios:
 
-d) Dirección de Administración y Finanzas;
+> <small>(REFORMADA, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+d) Dirección de Administración;
 
 e) (DEROGADO, D.O. 22 DE ABRIL DE 2016)
 
-f) Dirección de Nutrición;
+> <small>(ADICIONADA, D.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-g) Dirección de Asuntos Jurídicos, y
+f) Dirección de Finanzas;
 
-h) Dirección del Laboratorio Estatal de Salud Pública.
+g) Dirección de Nutrición;
+
+h) Dirección de Asuntos Jurídicos, y
+
+i) Dirección del Laboratorio Estatal de Salud Pública.
 
 Contraloría Interna del Organismo
 
@@ -567,11 +573,11 @@ VII. Centro Dermatológico;
 
 VIII. Hospital Psiquiátrico;
 
-IX. Centros Nueva Vida;
+IX. (DEROGADA, D.O. 12 DE NOVIEMBRE DE 2021)
 
-X. Centro Integral para la Atención de la Salud Mental;
+X. (DEROGADA, D.O. 12 DE NOVIEMBRE DE 2021)
 
-XI. Centros de Salud Urbanos;
+XI. (DEROGADA, D.O. 12 DE NOVIEMBRE DE 2021)
 
 XII. Coordinación Estatal de Caravanas de la Salud;
 
@@ -621,77 +627,89 @@ XV. Establecer la capacidad analítica en materia de diagnóstico de laboratorio
 
 XVI. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
 
-Unidades administrativas de la Dirección de Protección contra Riegos (sic) Sanitarios
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO SSY 14/2021 PUBLICADO EN EL D.O. 12 DE NOVIEMBRE DE 2021, PÁGINA 9]</small>
+
+> <small>(REFORMADO ACÁPITE, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Unidades administrativas de la Dirección de Protección contra Riesgos Sanitarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 31.
 
 La Dirección de Protección contra Riesgos Sanitarios, para el estudio, planeación y despacho de los asuntos que le competen, contará con las subdirecciones y las unidades administrativas técnicas siguientes:
 
-I. Subdirección de Control y Fomento Sanitario;
+> <small>(REFORMADA, D.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-II. Subdirección de Programas Institucionales;
+I. Subdirección de Control y Fomento Sanitario, y
 
-III. Centro Estatal de Transfusión Sanguínea, y
+> <small>(REFORMADA, D.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-IV. Coordinación Estatal de Sanidad Internacional.
+II. Subdirección de Programas Institucionales.
 
 De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas, que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema que autorice la Junta de Gobierno.
 
-#### SECCIÓN CUARTA. Dirección de Administración y Finanzas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-Atribuciones de la Dirección de Administración y Finanzas
+#### SECCIÓN CUARTA. Dirección de Administración
+
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Atribuciones de la Dirección de Administración
 
 ###### Artículo 32.
 
-El Director de Administración de la Secretaría de Salud ocupará el cargo de la Dirección de Administración y Finanzas del Organismo, misma que tendrá las atribuciones siguientes:
+El Director de Administración de la Secretaría de Salud ocupará el cargo de titular de la Dirección de Administración del Organismo, la cual tendrá las atribuciones siguientes:
 
-I. Aplicar las políticas, normas, sistemas y procedimientos para la administración integral de los recursos humanos, materiales, financieros, así como los bienes muebles e inmuebles que disponga el Organismo;
+I. Definir o establecer las políticas, normas, sistemas y procedimientos para la administración integral de los recursos humanos, materiales y de procesos internos del Organismo;
 
-II. Asesorar a las diferentes unidades administrativas en la administración y gestión de los recursos humanos, materiales y financieros;
+II. Asesorar a las diferentes unidades administrativas en la administración y gestión de los recursos humanos, materiales y de procesos internos;
 
-III. Colaborar con la Dirección de Planeación y Desarrollo en el proceso anual de programación y presupuestación, así como en el ejercicio y control presupuestal y contable del Organismo;
+III. Emitir, previo acuerdo del Director General, el dictamen administrativo respecto de las modificaciones a la estructura orgánica, ocupacional y plantillas del personal operativo del Organismo, en coordinación con la Dirección de Asuntos Jurídicos;
 
-IV. Emitir, previo acuerdo del Director General, el dictamen administrativo respecto de las modificaciones a la estructura orgánica, ocupacional y plantillas del personal operativo del Organismo, en coordinación con la Dirección de Asuntos Jurídicos;
+IV. Revisar los convenios, acuerdos, contratos y demás documentos que elabore la Dirección de Asuntos Jurídicos e impliquen actos de administración de Recursos Materiales y dominio, así como aquellos que afecten el presupuesto del Organismo;
 
-V. Revisar y visar los convenios, acuerdos, contratos y demás documentos que elabore la Dirección de Asuntos Jurídicos e impliquen actos de administración y dominio, así como aquellos que afecten el presupuesto del Organismo;
+V. Supervisar, en coordinación con la Dirección de Asuntos Jurídicos, las relaciones laborales del Organismo con sus trabajadores, de conformidad con los lineamientos que al efecto determine la Dirección General y las condiciones generales de trabajo vigentes;
 
-VI. Supervisar, en coordinación con la Dirección de Asuntos Jurídicos, las relaciones laborales del Organismo con sus trabajadores, de conformidad con los lineamientos que al efecto determine la Dirección General y las condiciones generales de trabajo vigentes;
+VI. Supervisar el cumplimiento de acuerdos en materia de higiene y seguridad en las unidades administrativas;
 
-VII. Supervisar el cumplimiento de acuerdos en materia de higiene y seguridad en las unidades administrativas;
+VII. Coordinar y supervisar la implementación del Sistema de Control Interno Institucional del Organismo;
 
-VIII. Verificar la compatibilidad de horarios de los trabajadores del Organismo que también laboren en otras dependencias;
+VIII. Establecer y supervisar los programas autorizados de adquisiciones, conservación, mantenimiento y renovación de bienes muebles del Organismo en coordinación con las unidades administrativas;
 
-IX. Establecer y supervisar los programas autorizados de adquisiciones, conservación, mantenimiento y renovación de bienes muebles del Organismo en coordinación con las unidades administrativas;
+IX. Proponer acciones de racionalización y optimización de los programas de adquisición, conservación y mantenimiento de bienes muebles del Organismo;
 
-X. Proponer acciones de racionalización y optimización de los programas de adquisición, conservación y mantenimiento de bienes muebles del Organismo;
+X. Coordinar los procesos de adquisición de bienes, arrendamientos y contratación de servicios del Organismo, de conformidad con las disposiciones legales y normativas aplicables;
 
-XI. Coordinar los procesos de adquisición de bienes, arrendamientos y contratación de servicios, de su competencia y aquellos que le asigne el Director General;
+XI. Promover ante la Dirección de Asuntos Jurídicos la regularización de bienes inmuebles propiedad del Organismo;
 
-XII. Promover ante la Dirección de Asuntos Jurídicos la regularización de bienes inmuebles propiedad del Organismo;
+XII. Establecer y mantener actualizado el inventario de los bienes muebles e inmuebles al servicio del Organismo;
 
-XIII. Establecer y coordinar el Programa de Seguridad y Vigilancia que requieran las unidades administrativas;
+XIII. Coordinar la operación de los almacenes del Organismo;
 
-XIV. Establecer y mantener actualizado el inventario de los bienes muebles e inmuebles al servicio del Organismo;
+XIV. Coordinar la elaboración y actualización de manuales de organización y procedimientos con las unidades administrativas e integrar el marco normativo del Organismo en conjunto con la Dirección de Asuntos Jurídicos;
 
-XV. Mantener actualizadas las plantillas de personal que labora en el Organismo;
+XV. Supervisar y coordinar el cumplimiento de las disposiciones normativas en materia de gestión documental y administración de archivos;
 
-XVI. Coordinar la operación de los almacenes del Organismo, y
+XVI. Coordinar los procedimientos de entrega-recepción de las unidades administrativas y respaldar la información en el sistema informático que determine la Secretaria de la Contraloría General, y
 
 XVII. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
 
-Unidades administrativas de la Dirección de Administración y Finanzas
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Unidades administrativas de la Dirección de Administración
 
 ###### Artículo 33.
 
-La Dirección de Administración y Finanzas, para el estudio, planeación y despacho de los asuntos que le competen, contará con las subdirecciones siguientes:
+La Dirección de Administración, para el estudio, planeación y despacho de los asuntos que le competen, contará con las subdirecciones siguientes:
 
 I. Subdirección de Recursos Humanos;
 
-II. Subdirección de Recursos Financieros, y
+II. Subdirección de Recursos Materiales, y
 
-III. Subdirección de Recursos Materiales.
+III. Subdirección de Procesos Internos.
 
-De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas, que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema autorizado por la Junta de Gobierno.
+De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema autorizado por la Junta de Gobierno.
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 22 DE ABRIL DE 2016)</small>
 
@@ -705,13 +723,51 @@ De igual forma, esta Dirección contará con los departamentos, oficinas y demá
 
 (DEROGADO, D.O. 22 DE ABRIL DE 2016)
 
-#### SECCIÓN QUINTA. Dirección de Nutrición
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+#### SECCIÓN QUINTA. Dirección de Finanzas
+
+> <small>(ADICIONADO, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Atribuciones de la Dirección de Finanzas
+
+Artículo 35 bis. El Director de Finanzas de la Secretaría de Salud ocupará el cargo de titular de la Dirección de Finanzas del Organismo, la cual tendrá las atribuciones siguientes:
+
+I. Aplicar las políticas, normas, sistemas y procedimientos para la administración integral de los recursos financieros que disponga el Organismo;
+
+II. Consolidar y mantener actualizados los registros contables; elaborar los estados financieros y demás informes internos y externos que se requieran; difundir las normas y procedimientos a que deba sujetarse la contabilidad presupuestaria de este Organismo y verificar su cumplimiento;
+
+III. Asesorar a las diferentes unidades administrativas en la administración y gestión de los recursos financieros del Organismo;
+
+IV. Aplicar, dar seguimiento y evaluar el ejercicio del presupuesto anual del Organismo;
+
+V. Administrar los recursos financieros del Organismo, conforme a las normas contables y lineamientos legales aplicables;
+
+VI. Colaborar con la Dirección de Planeación y Desarrollo en el proceso anual de programación y presupuestación, así como en el ejercicio y control presupuestal y contable del Organismo;
+
+VII. Revisar y visar los convenios, acuerdos, contratos y demás documentos que elabore la Dirección de Asuntos Jurídicos e impliquen actos Financieros, así como aquellos que afecten el presupuesto del Organismo;
+
+VIII. Elaborar, de acuerdo con las normas legales, el anteproyecto de presupuesto que corresponda al Organismo y autorizar el ejercicio del presupuesto asignado, y
+
+IX. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Unidades administrativas de la Dirección de Finanzas
+
+Artículo 35 ter. La Dirección de Finanzas, para el estudio, planeación y despacho de los asuntos que le competen, contará con las subdirecciones siguientes:
+
+I. Subdirección de Presupuestos;
+
+II. Subdirección de Contabilidad y Atención de Auditorías, y
+
+III. Subdirección de Recursos Financieros.
+
+De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema autorizado por la Junta de Gobierno.
+
+#### SECCIÓN SEXTA. Dirección de Nutrición
 
 Atribuciones de la Dirección de Nutrición
-
-#### SECCIÓN SEXTA. Dirección de Asuntos Jurídicos
-
-Atribuciones de la Dirección de Asuntos Jurídicos
 
 ###### Artículo 36.
 
@@ -749,9 +805,9 @@ La Dirección de Nutrición, para el estudio, planeación y despacho de los asun
 
 De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas, que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema que apruebe la Junta de Gobierno.
 
-#### SECCIÓN SÉPTIMA. Dirección del Laboratorio Estatal de Salud Pública
+#### SECCIÓN SÉPTIMA. Dirección de Asuntos Jurídicos
 
-Atribuciones de la Dirección del Laboratorio Estatal de Salud Pública
+Atribuciones de la Dirección de Asuntos Jurídicos
 
 ###### Artículo 38.
 
@@ -805,9 +861,9 @@ De igual forma, esta Dirección contará con los departamentos, oficinas y demá
 
 > <small>(REFORMADA SU NUMERACIÓN, D.O. 22 DE ABRIL DE 2016)</small>
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN OCTAVA. Dirección del Laboratorio Estatal de Salud Pública
 
-Unidades administrativas técnicas y médicas
+Atribuciones de la Dirección del Laboratorio Estatal de Salud Pública
 
 ###### Artículo 40.
 
@@ -933,9 +989,9 @@ XIII. Las demás que le confiera la Junta de Gobierno, el Director General, este
 
 ### CAPÍTULO ÚNICO. De las Unidades Médicas y Técnicas
 
-#### SECCIÓN SEGUNDA. Jurisdicciones Sanitarias
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
-Jurisdicciones Sanitarias
+Unidades administrativas técnicas y médicas
 
 ###### Artículo 45.
 
@@ -963,9 +1019,9 @@ III. Representar a la unidad administrativa correspondiente, con atribuciones pa
 
 IV. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
 
-#### SECCIÓN TERCERA. Centro Estatal de Transfusión Sanguínea
+#### SECCIÓN SEGUNDA. Jurisdicciones Sanitarias
 
-Atribuciones del Centro Estatal de Transfusión Sanguínea
+Jurisdicciones Sanitarias
 
 ###### Artículo 48.
 
@@ -1035,35 +1091,23 @@ XXVIII. Integrar y controlar el presupuesto anual de la jurisdicción, de confor
 
 XIX. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+#### SECCIÓN TERCERA. Centro Estatal de Transfusión Sanguínea
+
+###### Artículo 50.
+
+(DEROGADO, D.O. 12 DE NOVIEMBRE DE 2021)
+
 #### SECCIÓN CUARTA. Demás unidades administrativas
 
 Atribuciones de las demás unidades administrativas médicas y técnicas
 
-###### Artículo 50.
-
-El Centro Estatal de Transfusión Sanguínea tendrá las atribuciones siguientes:
-
-I. Definir y supervisar las políticas, procedimientos e instrumentos a que se sujetarán las autoridades sanitarias del Estado para el control sanitario de los actos de disposición y de internación y salida de sangre humana, sus componentes y células progenitoras hematopoyéticas, así como los establecimientos, servicios y actividades vinculados con dichos actos para su aplicación en el Estado;
-
-II. Coordinar, supervisar, evaluar y concentrar la información relativa a las unidades de sangre, componentes sanguíneos y células progenitoras hematopoyéticas recolectadas en el territorio del Estado, así como de los actos de disposición en la materia, en coordinación con los centros estatales de transfusión sanguínea;
-
-III. Llevar registros de los disponentes voluntarios de sangre, componentes sanguíneos y de células progenitoras hematopoyéticas y de aquéllos con grupos sanguíneos poco frecuentes;
-
-IV. Promover y supervisar las campañas de captación voluntaria de sangre del Sistema Nacional de Salud, así como establecer y aplicar procedimientos para facilitar, en todo el territorio estatal, la obtención de sangre, componentes sanguíneos y de células progenitoras hematopoyéticas con fines terapéuticos;
-
-V. Investigar y operar, en su caso, métodos y técnicas relativas a la captación, estudio, procesamiento, almacenamiento, distribución y aplicación de la sangre, componentes sanguíneos y células progenitoras hematopoyéticas;
-
-VI. Apoyar técnicamente al Sistema Estatal de Salud en la captación, fraccionamiento y distribución de la sangre, así como en la obtención de plasma excedente para la producción de derivados del plasma;
-
-VII. Actuar como laboratorio estatal de referencia para el estudio de problemas inmunohematológicos y de enfermedades transmisibles por transfusión, en programas de control de calidad externo del desempeño técnico de los bancos de sangre y de evaluación técnica de reactivos diagnósticos;
-
-VIII. Realizar cualquier acto de disposición de sangre, tales como captar, procesar y almacenar unidades de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, así como proveer de los mismos a los establecimientos de salud públicos o privados, llevando un registro de los establecimientos de salud que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos, y
-
-IX. Las demás que le confiera la Junta de Gobierno, este Estatuto y otras disposiciones legales y normativas aplicables. El Centro Estatal de Transfusión Sanguínea, para el desempeño de sus funciones se coordinará con la Dirección de Protección contra Riesgos Sanitarios.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-Los Hospitales integrantes de la Red Hospitalaria del Estado, el Centro Dermatológico, el Hospital Psiquiátrico, los Centros Nueva Vida y el Centro Integral para la Atención de la Salud Mental, según corresponda a la naturaleza de sus servicios, tendrán las atribuciones siguientes:
+Los Hospitales integrantes de la Red Hospitalaria del Estado, el Centro Dermatológico y el Hospital Psiquiátrico, según corresponda a la naturaleza de sus servicios, tendrán las atribuciones siguientes:
 
 I. Organizar y prestar los servicios de atención médica en la especialidad de Medicina Interna, Cirugía General, Gineco-Obstetricia, Pediatría y demás especialidades de apoyo, así como los servicios de urgencias, consulta externa y hospitalización;
 
@@ -1125,15 +1169,21 @@ II. El Director de Planeación y Desarrollo;
 
 III. El Director de Protección contra Riesgos Sanitarios;
 
-IV. El Director de Administración y Finanzas;
+> <small>(REFORMADA, D.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+IV. El Director de Administración;
 
 V. El Director de Asuntos Jurídicos;
 
 VI. (DEROGADA, D.O. 22 DE ABRIL DE 2016)
 
-VII. El Director de Nutrición, y
+> <small>(ADICIONADA, D.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-VIII. El Director del Laboratorio Estatal de Salud Pública.
+VII. El Director de Finanzas;
+
+VIII. El Director de Nutrición, y
+
+IX. El Director del Laboratorio Estatal de Salud Pública.
 
 En lo concerniente a asuntos de naturaleza jurídica, el Director General será suplido en forma directa por el Director de Asuntos Jurídicos.
 
@@ -1218,3 +1268,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general de los Servicios de Salud de Yucatán deberá realizar la inscripción de las modificaciones de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este acuerdo.
+
+D.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SSY 14/2021 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DE YUCATÁN.”]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general de los Servicios de Salud de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción de las modificaciones efectuadas por este acuerdo al Estatuto orgánico de los Servicios de Salud de Yucatán en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas.
