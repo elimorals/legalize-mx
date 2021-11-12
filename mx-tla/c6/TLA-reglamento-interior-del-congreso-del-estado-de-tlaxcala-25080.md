@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2021-08-30"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -1465,7 +1465,9 @@ IV. Concluir con proposiciones claras y sencillas que puedan sujetarse a votaci�
 
 Cuando los dictámenes se refieran a la proposición de una iniciativa de Ley, Decreto o Acuerdo, contendrá una exposición clara y precisa de los motivos de la misma y el texto íntegro de los Artículos propuestos y en su caso de los que se pretenda reformar o derogar.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Solo para el caso de los dictámenes derivados de las iniciativas con proyectos de leyes de ingresos de los municipios, podrá dispensarse la lectura de los mismos, siempre y cuando el dictamen se haya publicado en la gaceta parlamentaria por lo menos cuarenta y ocho horas de anticipación a la sesión que corresponda. La comisión competente deberá presentar ante el pleno una síntesis de cada uno de los dictámenes de las leyes de ingreso de los municipios y se procederá a su discusión y, en su caso, aprobación, en los términos que establece la Ley Orgánica del Poder Legislativo y el presente Reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
@@ -2458,3 +2460,15 @@ El presente Decreto entrará en vigor al momento de su aprobación por el Pleno 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 25.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 125 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día de su aprobación y deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
