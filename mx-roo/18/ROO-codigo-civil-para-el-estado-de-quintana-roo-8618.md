@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2021-10-22"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,21 @@ state: "ROO"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LAGOS DE MORENO
+CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015 (ABROGADA).
+Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
-Ley publicada en la sección segunda del Periódico Oficial, el 8 de septiembre de 2001.
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos. II Legislatura Constitucional.
 
-Al margen un sello que dice: Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+DECRETO NUMERO 97
 
-Lic. Francisco Javier Ramírez Acuña, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber; que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
+LA HONORABLE II LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-NÚMERO 19145.- EL CONGRESO DEL ESTADO DECRETA:
+DECRETA:
 
-SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO, INSTITUTO TECNOLOGICO SUPERIOR DE LAGOS DE MORENO, Y QUE CONTIENE SU LEY ORGANICA
-
-UNICO.- Se crea el Organismo Público Descentralizado del Poder Ejecutivo del Gobierno del Estado de Jalisco, dotado de personalidad jurídica y patrimonio propio denominado "Instituto Tecnológico Superior de Lagos de Moreno" y se expide su Ley Orgánica para quedar como sigue:
-
-Ley Orgánica del Instituto Tecnológico Superior de Lagos de Moreno
+CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
 ## TITULO PRELIMINAR. Disposiciones sobre la Ley en general
 
@@ -99,231 +95,121 @@ Sólo pueden renunciarse los derechos privados que no afecten directamente al in
 
 ###### Artículo 10.
 
-Los miembros de la Junta Directiva durarán en el encargo dos años, pudiendo en su caso ser ratificados por quién los designó hasta por un periodo igual.
-
-La renovación parcial o total de la Junta Directiva, se hará con arreglo a lo que disponga el Reglamento Interior del Instituto.
+Para que la renuncia surta efectos se requiere que no quede duda acerca de cuál es el derecho que se renuncia, y que se haga en términos claros y precisos.
 
 ###### Artículo 11.
 
-Las sesiones ordinarias y extraordinarias de la Junta Directiva se celebrarán conforme a los tiempos y formalidades que se establezcan en su Reglamento Interior, al igual que su funcionamiento.
-
-El representante del Titular del Ejecutivo del Gobierno del Estado tendrá voto de calidad en las sesiones.
+Cuando la renuncia se hace en las cláusulas de un contrato, deberá transcribirse literalmente en éstas el texto del precepto legal que consigne el derecho renunciado.
 
 ###### Artículo 12.
 
-La Junta Directiva del Instituto, tendrá las atribuciones siguientes:
-
-I. Dictar las políticas generales y lineamientos para el debido funcionamiento del Instituto;
-
-II. Examinar y, en su caso, aprobar el proyecto anual de ingresos y el correspondiente a egresos;
-
-III. Discutir y aprobar, en su caso, la cuenta anual de ingresos y egresos, e informar los resultados a las instancias correspondientes;
-
-IV. Designar al Auditor Externo que dictaminará anualmente los estados financieros del Instituto, sin menoscabo de la facultad del Congreso del Estado y de la Contraloría del Estado de auditar;
-
-V. Proponer mediante terna a la persona que habrá de ocupar el cargo de Director General del Instituto, ante el C. Gobernador Constitucional del Estado;
-
-VI. Autorizar en su caso, la estructura orgánica del Instituto, así como sus modificaciones;
-
-VII. Conocer y aprobar, en su caso, los informes que deberá presentar el Director General;
-
-VIII. Conocer, discutir y aprobar su reglamento interno, acuerdos y demás disposiciones que fijan el desarrollo del Instituto, presentados por el Director General;
-
-IX. Conocer, discutir y aprobar, en su caso, los proyectos académicos que se le presenten y los que surjan en su propio seno;
-
-X. Conocer, discutir y aprobar, en su caso, los temas particulares o regionales que a su juicio deban ser incorporados a los planes y programas de estudios y, proponer su incorporación a la Autoridad Educativa;
-
-XI. Proponer a la Autoridad Educativa, la creación de nuevas especialidades;
-
-XII. Evaluar a través de Comisiones Internas, los concursos de oposición para el ingreso y promoción del Personal Académico del Instituto y dar a conocer sus resultados;
-
-XIII. Integrar comisiones académicas y administrativas para que le auxilien en el estudio o trámite que expresamente se les encomiende;
-
-XIV. Fijar las reglas generales a las que se deberá sujetar el Instituto en la suscripción de acuerdos, convenios y contratos con dependencias o entidades de la administración pública federal, estatal o municipal, así como los organismos del sector público, social y privado nacional y extranjeros, para la ejecución de acciones en materia de política educativa;
-
-XV. Vigilar el exacto y fiel cumplimiento del Convenio que dio origen al Instituto e informar a las partes suscriptoras del cumplimiento o incumplimiento de alguna de las cláusulas de este instrumento. Al efecto, podrá convocar a las partes para que en forma conjunta se dé solución a los conflictos que surjan y solicitar a las autoridades competentes de la Federación y el Estado, el cumplimiento de las obligaciones que les resulten con motivo del convenio;
-
-XVI. Fijar las aportaciones en base a un criterio socioeconómico general del alumnado;
-
-XVII. Programar Becas para alumnos de escasos recursos previo estudio socioeconómico, de acuerdo a lo estipulado en su Reglamento Interior y en el Reglamento Nacional de Becas;
-
-XVIII. Las ausencias del Director, mayores de treinta días y menores de seis meses, la Junta Directiva propondrá a un sustituto, en base a los criterios establecidos en la presente Ley; y
-
-XIX. Las demás que les sean conferidas en este ordenamiento así como las disposiciones reglamentarias del Instituto.
+A ninguna ley o disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna.
 
 ###### Artículo 13.
 
-El Director General será el titular de la administración del Instituto y tendrá las atribuciones y funciones que le señale esta Ley Orgánica así como las demás que se señalen en el reglamento interno o en otras disposiciones legales aplicables.
+Los negocios jurídicos celebrados contra el tenor de las leyes prohibitivas o de interés público, o contra la moral y las buenas costumbres, serán nulos.
 
 ###### Artículo 14.
 
-El Director General será designado por el Gobernador del Estado, a partir de una terna propuesta por la Junta Directiva.
+Las sucesiones por causa de muerte de mexicano, sean o no quintanarroenses, que al ocurrir su defunción estén domiciliados en Quintana Roo, se regirán por este Código en lo que se refiere a la institución y substitución de herederos y legatarios, al derecho y orden de suceder, a la cuantía de las porciones hereditarias, a la validez intrínseca, ineficacia e inoficiosidad de los testamentos y en general a toda cuestión de fondo concerniente a tales sucesiones, sean testamentarias o legítimas.
 
 ###### Artículo 15.
 
-Para ser Director General y Subdirector se requiere:
-
-I. Ser de nacionalidad mexicana en pleno uso de su capacidad jurídica y de sus derechos civiles y políticos;
-
-II. Ser mayor de 30 años y menor de 70 años al momento de la designación;
-
-III. Poseer título universitario a nivel licenciatura;
-
-IV. Tener experiencia profesional en el medio académico y laboral mínima de cinco años anteriores a la designación;
-
-V. Ser persona de amplia solvencia moral y reconocido prestigio profesional; y
-
-VI. No ser miembro de la Junta Directiva, mientras dure su gestión.
+Los efectos de los negocios jurídicos celebrados en el extranjero que deban ser ejecutados en el territorio del Estado, se regirán por las leyes federales.
 
 ###### Artículo 16.
 
-El Director General y el Subdirector, durarán en su cargo cuatro años, pudiendo ser ratificados únicamente por un periodo más. Solo podrán ser removidos con causa justificada en los términos establecidos en su reglamento.
+Los efectos jurídicos de los negocios o contratos celebrados en cualquier parte de la República que deban ejecutarse en el Estado, se regirán por las disposiciones de este Código.
 
 ###### Artículo 17.
 
-El Director General tendrá las atribuciones siguientes:
-
-I. Conducir el funcionamiento del Instituto, vigilando el cumplimiento de su objeto, planes y programas académicos, administrativos y financieros, así como la correcta operación de las diversas áreas del Instituto;
-
-II. Aplicar las políticas generales del Instituto;
-
-III. Presentar a la Junta Directiva, para su aprobación, los proyectos del presupuesto anual de ingresos y de egresos;
-
-IV. Proponer a la Junta Directiva los proyectos de planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento del objeto del Instituto;
-
-V. Presentar a la Junta Directiva, para su aprobación, el proyecto de reglamento interno, acuerdos y demás disposiciones que fijan el desarrollo del Instituto;
-
-VI. Informar cada semestre a la Junta Directiva para su aprobación los estados financieros, el cumplimiento de los acuerdos tomados en sesiones anteriores y los avances de los programas de inversión, así como de las actividades desarrolladas por el Instituto;
-
-VII. Rendir a la Junta Directiva y a la Secretaria de Educación del Estado de Jalisco para su aprobación, un informe anual de actividades institucionales, en el que se acompañe un balance general contable y de los demás datos financieros que sean necesarios;
-
-VIII. Representar legalmente al Instituto, pudiendo sustituir o delegar esta representación en el Abogado General del Instituto o en uno o más apoderados para que la ejerzan individual o conjuntamente, conforme al artículo 2554 del Código Civil para el D.F., y sus correlativos en las Entidades Federativas, dichos apoderados tendrán facultades para acudir ante la autoridad laboral, fiscal, civil, administrativa y cualesquiera otra, realizando todos los actos procesales inherentes a cualquier conflicto o controversia que llegare a suscitarse de conformidad con los preceptos legales aplicables;
-
-IX. Celebrar, previa aprobación de la Junta Directiva, convenios, contratos y acuerdos con dependencias o entidades de la administración pública federal, estatal o municipal, organismos del sector social y privado nacional y extranjeros, así como con los sectores público, social y privado, para la ejecución de acciones en materia de política educativa;
-
-X. Conocer de las infracciones a las disposiciones legales del Instituto y aplicar, en el ámbito de su competencia, las sanciones correspondientes;
-
-XI. Asistir a las sesiones de la Junta Directiva, con voz pero sin voto;
-
-XII. Nombrar y remover a los funcionarios de las áreas académicas y administrativas del Instituto con base en la presente Ley, sus reglamentos y leyes aplicables, dando a conocer a la Junta Directiva tales nombramientos, remociones y renuncias de dicho personal según sea el caso, así como de los secretarios con los que en su caso cuente el Instituto;
-
-XIII. Hacer las designaciones del personal docente, siempre y cuando cubra el perfil adecuado, con carácter de interino, para el buen funcionamiento del Instituto; y
-
-XIV. Las demás que le otorgue la Junta Directiva, el Reglamento Interior del Instituto y los demás ordenamientos legales competentes.
+Los bienes inmuebles ubicados en el Estado de Quintana Roo y los muebles que se encuentren en él, se rigen por las disposiciones de este Código, aun cuando sus dueños estén domiciliados fuera de la Entidad.
 
 ###### Artículo 18.
 
-Las ausencias del Director, menores a 30 días, serán cubiertas por el Subdirector.
-
-> <small>(F. DE E., P.O. 8 DE NOVIEMBRE DE 2001)</small>
+Los negocios jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los mexicanos domiciliados fuera del Estado, quedan en libertad para sujetarse a las formas prescritas por este Código, cuando el negocio jurídico haya de ejecutarse en Quintana Roo.
 
 ###### Artículo 19.
 
-Para el despacho de los asuntos que competan al Director General, éste se auxiliará del Abogado General, de las direcciones, subdirecciones y jefaturas de departamento que estén previstas en el Reglamento del Instituto y que le permita el presupuesto de egresos, a las que delegará expresamente las funciones que corresponda.
+No puede un juzgador negarse a fallar bajo el pretexto de silencio, obscuridad o insuficiencia de la ley.
 
 ###### Artículo 20.
 
-El patrimonio del Instituto estará constituido por:
-
-I. Los ingresos que obtenga por los servicios que preste en el cumplimiento de su objeto, los cuales serán administrados por el Instituto contando con la previa aprobación de la Junta Directiva;
-
-II. Las aportaciones, subsidios y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal, así como los organismos del sector social o privado que coadyuven a su funcionamiento;
-
-III. Los legados y donaciones otorgados en su favor y los fideicomisos en que se le señale como fideicomisario;
-
-IV. Los derechos, bienes muebles e inmuebles que adquiera por cualquier título jurídico para el cumplimiento de su objeto; y
-
-V. Las utilidades, intereses, dividendos, rendimiento de sus bienes y demás ingresos que adquiera por cualquier título legal.
-
-> <small>(F. DE E., P.O. 26 DE AGOSTO DE 2004)</small>
-
-VI. Las aportaciones a que hace referencia el artículo 12 fracción XVI de esta Ley.
+Las controversias judiciales del orden civil deberán resolverse conforme a la letra de la ley y a su interpretación jurídica y a falta de ley se resolverán conforme a los principios generales de derecho.
 
 ###### Artículo 21.
 
-Los bienes propiedad del Instituto que se dediquen a su objeto público, serán inembargables e imprescriptibles y estarán exentos de toda clase de contribuciones, impuestos y derechos y gozarán de los privilegios del patrimonio del Estado.
-
-En ningún caso podrá constituirse gravamen sobre estos bienes mientras estén sujetos al servicio de la Institución.
+Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá en favor de la parte que cultural, económica o socialmente sea la más débil, y sólo cuando las partes se encuentren en iguales o similares circunstancias, se resolverá observándose la mayor igualdad posible entre los interesados.
 
 ###### Artículo 22.
 
-Corresponderá a la Junta Directiva, previa autorización del H. Congreso del Estado, emitir declaratoria de desincorporación de algún inmueble patrimonio del Instituto, cuando éste deje de estar sujeto a la prestación del servicio propio de su objeto, a fin de que sea inscrita su desincorporación en el Registro Público de la Propiedad correspondiente, caso en el cual el inmueble desincorporado afectado será considerado bien del dominio privado de la institución y sujeto a las disposiciones del Derecho común.
+La ignorancia de las leyes no excusa su cumplimiento y a nadie aprovecha; pero los jueces, teniendo en cuenta el notorio atraso intelectual de los interesados, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, oyendo en todo caso el parecer del Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban o, de ser posible, concederles un plazo para que la cumplan, instruyéndoles previamente sobre los deberes que dicha ley impone y que dejaron de cumplir, siempre que no se trate de leyes que afecten directamente al interés público.
 
 ###### Artículo 23.
 
-Para el cumplimiento de su objeto, el Instituto contará con el siguiente personal:
-
-I. Académico;
-
-II. Administrativo; y
-
-III. Técnico de apoyo.
+Es de orden público la protección legal y judicial de los económica (sic), social o culturalmente débiles frente a quienes se hallan en la situación contraria.
 
 ###### Artículo 24.
 
-Será personal académico el contratado por el Instituto para el desarrollo de sus funciones sustantivas de docencia, investigación, vinculación y difusión, en los términos de las disposiciones que al respecto se expidan y de los planes y programas académicos que se aprueben por la Autoridad Educativa.
-
-El personal administrativo será el contratado para desempeñar las tareas que no se encuentren contempladas al personal académico y técnico.
-
-El personal técnico de apoyo será el que se contrate para realizar actividades específicas que posibiliten, faciliten y complementen la realización de las labores académicas.
+Son nulos los negocios jurídicos en los que una de las partes, abusando de la extrema ignorancia de otra, de su notoria inexperiencia o de su aflictivo estado de necesidad, obtiene de ella ventajas o provechos notoriamente injustos.
 
 ###### Artículo 25.
 
-El ingreso del personal académico se realizará por concursos de oposición, que calificarán y darán a conocer las comisiones que al efecto establezca la Junta Directiva, las que operarán en el Instituto los concursos y estarán sujetos a los procedimientos y condiciones que para cada área del conocimiento humano señale la autoridad educativa.
-
-En todos los casos, el personal académico ingresará con tal carácter en el Instituto mediante la suscripción de un Contrato; cualquier conflicto que llegare a suscitarse se resolverá por las disposiciones de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+Son también nulos los actos o negocios jurídicos que se convienen abusando de las circunstancias personales, ignorancia, inexperiencia y aflicción mencionadas en el artículo anterior y que normalmente no se habrían celebrado de no existir ese abuso.
 
 ###### Artículo 26.
 
-El personal académico se ajustará a los términos que disponga el contrato o el nombramiento respectivo que suscriba con el Instituto.
+La nulidad establecida en los dos artículos anteriores está sometida a las siguientes reglas:
+
+a) es imprescriptible;
+
+b) compete solamente al perjudicado y a sus herederos;
+
+c) puede hacerse valer como acción o como excepción;
+
+d) no desaparece ni por convalidación ni por el cumplimiento voluntario;
+
+e) será tomada en consideración por los jueces o tribunales supliendo la deficiencia de demanda o contestación, en su caso, formuladas por la parte perjudicada;
+
+f) se presumirá el abuso salvo prueba en contrario, cuando la parte lesionada sea un indígena analfabeto, que no hable español;
+
+g) el demandado puede detener el curso de la acción de nulidad ofreciendo, un aumento equitativo de lo que él por su parte se ha obligado, o proponiendo, en su caso, una reducción, también equitativa, de la obligación del actor;
+
+h) el juez, oyendo el parecer del Ministerio Público, aprobará el convenio a que lleguen los interesados, si no lesiona los intereses del que fue perjudicado;
+
+i) en todos los casos, la desproporción de prestaciones deberá referirse al momento de la celebración del negocio perjudicial y no al del ejercicio de la acción.
 
 ###### Artículo 27.
 
-En los casos de las relaciones de prestación de servicios entre el Instituto y su personal académico denominado investigador, se regirán por las disposiciones del Código Civil para el Estado de Jalisco según lo establece el Titulo Décimo Capítulo Primero.
+Si mediante la nulidad no se obtiene la restitución de las prestaciones, el perjudicado podrá pedir, o bien la reducción equitativa de su obligación, o bien el aumento, también equitativo, de la obligación de la otra parte.
 
 ###### Artículo 28.
 
-El personal académico, técnico de apoyo, así como el administrativo será considerado de base.
+Habrá también lesión cuando alguien, sin mediar la suma ignorancia, la notoria inexperiencia o el aflictivo estado de necesidad de otro, obtiene de éste un lucro que sea evidentemente desproporcionado a lo que él por su parte se obliga; pero la acción prescribe en dos años a partir del día siguiente de la celebración del contrato.
 
 ###### Artículo 29.
 
-Será personal de confianza del Instituto, todo aquél que realice funciones de dirección, vigilancia y fiscalización, coordinación y supervisión, maneje fondos o valores y participe directamente en el control de las adquisiciones y por lo tanto podrán ser cesados, en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+Los habitantes del Estado de Quintana Roo tienen la obligación de ejercer sus actividades y de usar y disponer de sus bienes, no sólo en forma que no perjudique a la colectividad o a terceros, sino también de manera que redunde en beneficio social.
+
+También tiene la obligación de ejercer sus derechos y de usar y disponer de sus bienes cuando por el no ejercicio, uso o disposición, se cause un perjuicio general o se impida un beneficio colectivo.
 
 ###### Artículo 30.
 
-El personal de confianza y de base gozará de la seguridad social que instituye la Ley de Pensiones del Estado, sin perjuicio de que se brinde otro tipo de servicio médico y de seguridad.
+Cuando los particulares no cumplan lo dispuesto en el segundo párrafo del artículo anterior, los tribunales señalarán la manera y términos en que el Estado o terceros pueden ejercitar esos derechos y usar o disponer de esos bienes, el tiempo de ese ejercicio, uso o disposición y la indemnización que deben pagar el Estado o los individuos beneficiados con la función social de esos derechos al titular de los mismos.
 
 ###### Artículo 31.
 
-Serán alumnos del Instituto, quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso establecidos sean admitidos para cursar cualquiera de los programas académicos que se impartan, y tendrán los derechos y las obligaciones que esta Ley y las disposiciones reglamentarias determinen.
+Las leyes, reglamentos, u otras disposiciones de observancia general, se aplicarán de buena fe por las autoridades y los particulares las observarán y cumplirán también de buena fe.
 
 ###### Artículo 32.
 
-El Patronato del Instituto tendrá como finalidad apoyar al Instituto en la obtención de recursos financieros adicionales, para la óptima realización de sus funciones y se integrará por:
-
-I. El Director General del Instituto;
-
-II. Tres representantes del sector social, los cuales serán invitados por la Junta Directiva; y
-
-III. Tres representantes del sector productivo, los cuales serán invitados por la Junta Directiva.
-
-La Presidencia del Patronato recaerá en forma rotativa, cada seis meses, en alguno de su integrantes, iniciando por el Director General. Será honorífico el cargo de miembro del Patronato.
+El uso abusivo que hagan las autoridades de sus atribuciones legales y todo abuso que de su derecho realicen los particulares es causa de responsabilidad civil.
 
 ###### Artículo 33.
 
-Son atribuciones del Patronato:
+El derecho para reclamar los daños y perjuicios a que se refiere el artículo anterior, dura un año contado a partir del día en que el ofendido tenga conocimiento del hecho abusivo.
 
-I. Realizar acciones para obtener ingresos adicionales necesarios para el funcionamiento del Instituto;
-
-II. Administrar y acrecentar los recursos que gestione;
-
-III. Proponer la adquisición de los bienes indispensables para la realización de actividades del Instituto, con cargo a recursos adicionales;
-
-IV. Presentar a la Junta Directiva, dentro de los tres primeros meses siguientes a la conclusión de un ejercicio, los estados financieros dictaminados por el auditor externo designado para tal efecto por la Junta Directiva en base al artículo 12, fracción IV de la presente Ley;
-
-V. Apoyar las actividades del Instituto en materia de difusión y vinculación con el sector productivo; y
-
-VI. Ejercer las demás facultades que le confiere este Ordenamiento y las disposiciones reglamentarias del Instituto.
+> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
 # LIBRO PRIMERO. PARTE GENERAL
 
@@ -333,19 +219,11 @@ DE LOS HECHOS, ACTOS Y NEGOCIOS JURIDICOS
 
 ###### Artículo 34.
 
-Para ser miembro del Patronato se requiere:
-
-I. Ser ciudadano en pleno uso de sus derechos civiles y políticos, indistintamente de su nacionalidad;
-
-II. Tener experiencia y preparación académica, profesional o empresarial; y
-
-III. Gozar de buena reputación y prestigio profesional o académico.
+Supuesto jurídico es la hipótesis prevista por la ley, de cuya realización depende el nacimiento, la modificación, la transmisión o la extinción de derechos y obligaciones o de situaciones jurídicas concretas.
 
 ###### Artículo 35.
 
-Son Órganos Colegiados del Instituto; el Comité Académico y los Colegios de División y de Centros, así como las Unidades del Instituto.
-
-La integración, organización y funcionamiento de dichos órganos se establecerán en el reglamento interior del Instituto.
+Cuando el supuesto se realiza sin intervenir la voluntad del hombre ni en tal realización ni en la producción de sus consecuencias de derecho, el acontecimiento se llama hecho jurídico.
 
 ###### Artículo 36.
 
@@ -385,33 +263,7 @@ No se considerará imposible el hecho que no pueda ejecutarse por el obligado, p
 
 ## TITULO SEGUNDO. De los actos jurídicos nominados que generan obligaciones
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
-
-###### Artículo 1º.
-
-Se crea el Instituto Tecnológico Superior de Lagos de Moreno como un Organismo Público Descentralizado del Ejecutivo del Gobierno del Estado de Jalisco, dotado de personalidad jurídica y patrimonio propio.
-
-###### Artículo 2º.
-
-Para efectos de este Ordenamiento, se entenderá por:
-
-I. Instituto: el Instituto Tecnológico Superior de Lagos de Moreno;
-
-II. Autoridad Educativa: la Dirección General de Institutos Tecnológicos dependiente de la Subsecretaria de Educación e Investigación Tecnológica de la Secretaría de Educación Pública;
-
-III. Sistema: al conjunto de Institutos Tecnológicos Superiores Descentralizados del país, considerados en el Convenio Estado - Federación;
-
-IV. Junta Directiva: al órgano máximo de gobierno del Instituto; y
-
-V. Director General: al titular de la administración del Instituto.
-
-###### Artículo 3º.
-
-El Instituto tendrá su domicilio en el municipio de Lagos de Moreno, Jalisco.
-
-###### Artículo 4º.
-
-El Instituto forma parte de la Dirección General de Institutos Tecnológicos Superiores Descentralizados que coordina la Secretaría de Educación Pública y se adhiere al nivel, modelo, planes y programas de estudio que apruebe la autoridad educativa.
+### CAPITULO PRIMERO. De la gestión de los negocios ajenos
 
 ###### Artículo 44.
 
@@ -483,59 +335,7 @@ Las acciones derivadas de la gestión de negocios prescriben en un año, contado
 
 En cuanto a los alimentos a que se refiere el artículo 56, si el gestor los presta periódicamente, la prescripción de la acción que de ellos dimane se realizará de manera escalonada, según lo establece este Código para la prescripción de las prestaciones periódicas.
 
-### CAPITULO SEGUNDO. Del Objeto y atribuciones del "Instituto"
-
-###### Artículo 5º.
-
-El Instituto tendrá por objeto:
-
-I. Impartir educación superior tecnológica a nivel licenciatura, maestría y doctorado, así como cursos de actualización, especialización y superación académica en sus modalidades escolar y extraescolar; como también diplomados;
-
-II. Desarrollar e impulsar la investigación científica y tecnológica que contribuya al desarrollo regional, estatal y nacional;
-
-III. Formular y modificar, en su caso, sus planes y programas de estudio de investigación y de extensión, que garanticen una integra formación profesional, cultural, científica y tecnológica; y someterlos a la aprobación de las autoridades educativas correspondientes;
-
-IV. Prestar servicios de asesoría, elaboración de proyectos, desarrollo de prototipos y capacitación técnica a los sectores público, social y privado que lo soliciten;
-
-V. Desarrollar y promover actividades culturales y deportivas que contribuyan al desarrollo integral del educando;
-
-VI. Patrocinar y organizar congresos, asambleas, reuniones, concursos y otros eventos de carácter académico, cultural y deportivo;
-
-VII. Promover y editar obras que contribuyan al quehacer educativo y a la difusión de la cultura y del conocimiento científico y tecnológico;
-
-VIII. Capacitar y procurar la superación de su personal docente, técnico y administrativo;
-
-###### Artículo 6º.
-
-Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
-
-I. Crear la organización administrativa que le sea conveniente de conformidad con su reglamento interno y contratar los recursos humanos necesarios para su operación, de acuerdo a su presupuesto anual de egresos;
-
-II. Adoptar la organización académica establecida por la Autoridad Educativa y en su caso, proponer modificaciones a la misma;
-
-III. Planear y desarrollar sus programas de investigación;
-
-IV. Fijar en coordinación con la Autoridad Educativa, el calendario escolar del Sistema;
-
-V. Establecer los procedimientos y requisitos de acreditación y certificación de estudios, los que deberán ser congruentes con los adoptados por el Sistema;
-
-VI. Tramitar ante la Secretaría de Educación Pública la revalidación y reconocimientos de estudios equivalentes en relación con los tipos de educación que imparta, de conformidad con lo establecido por el Sistema, procurando facilitar el tránsito de los estudiantes inscritos en institutos de este tipo;
-
-VII. Reglamentar los procedimientos de selección e ingreso de los alumnos, así como su permanencia en el Instituto;
-
-VIII. Expedir títulos profesionales, grados académicos, constancias y certificados de estudio, así como otorgar diplomas;
-
-IX. Reglamentar los procedimientos de ingreso, permanencia y promoción del personal académico, atendiendo las recomendaciones que surjan en el seno del Sistema y aquellas que proponga la Autoridad Educativa;
-
-X. Elaborar conjuntamente con la Autoridad Educativa, los planes y programas de estudios que se impartirán en los grados académicos superiores que ofrezca el Instituto;
-
-XI. Administrar su patrimonio con sujeción al marco legal que le impone su carácter de Organismo Público Descentralizado; así mismo en caso de realizar obra pública se efectuará a través del Organismo Público competente para la construcción de infraestructura educativa;
-
-XII. Realizar convenios en concurrencia con la federación, para el intercambio académico y científico con organismos nacionales e internacionales;
-
-XIII. Organizar y desarrollar programas permanentes de servicio social para sus alumnos y pasantes; y
-
-XIV. Celebrar todos los actos jurídicos necesarios a fin de cumplir con su objeto y sus atribuciones.
+### CAPITULO SEGUNDO. Del enriquecimiento ilegítimo
 
 ###### Artículo 60.
 
@@ -565,11 +365,7 @@ No se considera como obligaciones nacidas de un enriquecimiento sin causa, las q
 
 Cuando por actos de una o varias personas se beneficiaren otra u otras, por aumentar el valor de sus propiedades o posesiones, y dicho beneficio sea consecuencia del que también obtengan la persona o personas que hayan realizado o mandado realizar tales actos, no habrá lugar a exigir indemnización alguna, no obstante las obras realizadas y consiguientes erogaciones hechas al respecto por estas últimas.
 
-### CAPITULO TERCERO. De los Órganos del "Instituto"
-
-###### Artículo 7º.
-
-El Instituto tendrá como Órgano máximo de Gobierno a la Junta Directiva y como Órgano de Administración al Director General.
+### CAPITULO TERCERO. Del pago de lo indebido
 
 ###### Artículo 67.
 
@@ -657,49 +453,9 @@ Lo que se hubiere entregado para la realización de un fin que sea ilícito, no 
 
 El que ha pagado para cumplir una deuda prescrita, un deber moral o cualquiera otra obligación natural, no tiene derecho de repetir.
 
-### CAPITULO CUARTO. Del Patrimonio
+### CAPITULO CUARTO. De los ilícitos civiles
 
-#### SECCION PRIMERA.. De la Junta Directiva
-
-###### Artículo 8º.
-
-La Junta Directiva, será el órgano máximo de gobierno del Instituto y se integrará por:
-
-I. Dos representantes del Gobierno del Estado que serán:
-
-a) El Secretario de Educación del Estado, quien la presidirá; y
-
-b) El Coordinador de Educación Media Superior y Tecnológica, quien suplirá al presidente en sus ausencias;
-
-II. Dos representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
-
-III. Un representante del Gobierno Municipal y un representante del Sector Social de la comunidad, ambos designados por el H. Ayuntamiento del Municipio de su ubicación;
-
-IV. Dos representantes del Sector Productivo de la región donde se ubique el Instituto, que participen en su financiamiento mediante un patronato constituido para apoyar la operación del mismo. Estos representantes serán designados por el Presidente del propio Patronato de conformidad con sus estatutos;
-
-Asimismo asistirán a las sesiones de la Junta Directiva, con voz pero sin voto:
-
-V. Un representante del alumnado y un representante del personal académico de la Institución, los cuales se designarán a través de lo que marque los lineamientos del reglamento interno;
-
-VI. Un comisario que será el representante de la Contraloría del Gobierno del Estado; y
-
-VII. Un Secretario que será designado por el órgano de gobierno a propuesta de su presidente;
-
-A falta de cualquiera de los representantes señalados en la fracción I del presente artículo, podrán designar un suplente, quien acudirá, con voz y voto.
-
-El cargo como miembro de la Junta de Gobierno será honorífico y por lo tanto no remunerado.
-
-###### Artículo 9º.
-
-Para ser miembro de la Junta Directiva se requiere:
-
-I. Ser ciudadano mexicano en pleno uso de sus derechos civiles y políticos;
-
-II. Tener experiencia y preparación académica, profesional o empresarial;
-
-III. Gozar de buena reputación, de amplia solvencia moral y contar con prestigio académico, profesional o empresarial; y
-
-IV. En el caso del alumno, deberá ser regular y tener promedio sobresaliente.
+#### SECCION PRIMERA. De la responsabilidad por hechos propios
 
 ###### Artículo 87.
 
@@ -721,7 +477,7 @@ Las personas que causen en común un daño son responsables solidariamente por l
 
 Cuando al ejercitar un derecho se cause daño a otro, hay obligación de indemnizarlo si se demuestra que el derecho sólo se ejerció para causar el daño, sin utilidad para el titular del derecho.
 
-#### SECCION SEGUNDA. Del Director General
+#### SECCION SEGUNDA. De la responsabilidad por hechos ajenos
 
 ###### Artículo 92.
 
@@ -827,7 +583,7 @@ IV.- Que el hecho resulte de caso fortuito o de fuerza mayor.
 
 Si el animal que hubiere causado el daño, fuere excitado, por un tercero, la responsabilidad es de éste y no del dueño del animal.
 
-### CAPÍTULO QUINTO. Del Personal del "Instituto"
+### CAPITULO QUINTO. De la responsabilidad objetiva o riesgo creado
 
 ###### Artículo 115.
 
@@ -869,7 +625,7 @@ VIII.- Por cualquiera (sic) causa producida, aun sin culpa o negligencia del pos
 
 No existirá la responsabilidad a que se refiere este capítulo, cuando el daño se cause por caso fortuito o fuerza mayor.
 
-### CAPITULO SEXTO. De los Alumnos
+### CAPITULO SEXTO. De la cuantificación del daño
 
 ###### Artículo 121.
 
@@ -953,7 +709,7 @@ La acción para exigir la responsabilidad civil, prescribe en dos años contados
 
 ## TITULO TERCERO. De los negocios jurídicos
 
-### CAPITULO SEPTIMO. De "El Patronato"
+### CAPITULO PRIMERO. Disposiciones preliminares
 
 ###### Artículo 135.
 
@@ -1039,7 +795,7 @@ La validez y el cumplimiento de los negocios jurídicos no pueden dejarse al arb
 
 Los negocios jurídicos que no estén especialmente reglamentados en este Código, se regirán por las reglas generales de aquéllos, por las estipulaciones de sus autores o de las partes en su caso, y, en lo que la ley, las partes o los autores fueren omisos, por las disposiciones del negocio jurídico con el que tengan más analogía, de los reglamentados en este ordenamiento.
 
-### CAPITULO OCTAVO. De los Organos Colegiados
+### CAPITULO SEGUNDO. De los elementos esenciales del negocio jurídico
 
 #### SECCION PRIMERA. De la voluntad
 
@@ -2378,6 +2134,10 @@ VI.- Las asociaciones civiles;
 VII.- Las fundaciones;
 
 VIII.- Las entidades de carácter privado a las que la ley atribuya o reconozca expresamente personalidad.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+IX.- El Régimen de Propiedad en Condominio.
 
 ###### Artículo 430.
 
@@ -4821,11 +4581,17 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 ### CAPITULO OCTAVO. Del concubinato
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 825 Bis.
+
+El concubinato es la unión de dos personas con derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este Capítulo.
+
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-Artículo 825 BIS.- La concubina y el concubinario tienen derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio; han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
-
 No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo en común.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
 
@@ -4835,9 +4601,13 @@ Artículo 825 TER.- Regirán al concubinato todos los derechos y obligaciones in
 
 El concubinato genera entre los concubinos derechos alimentarios y sucesorios, independientemente de los demás derechos y obligaciones reconocidos en este código o en otras leyes.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
 
-Artículo 825 QUÁTER.- Al cesar la convivencia, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien tenga medios propios de supervivencia, o viva en concubinato o contraiga matrimonio.
+###### Artículo 825 Quáter.
+
+Al cesar el concubinato, quien carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien tenga medios propios de supervivencia, o viva en concubinato o contraiga matrimonio.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la cesación del concubinato.
 
@@ -4865,11 +4635,15 @@ Afinidad es el parentesco que se contrae por el matrimonio, entre el varón y lo
 
 Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colateral; pero subsiste en la línea recta, en todos los casos en que esta ley se refiere a tal parentesco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
+
 ###### Artículo 829.
 
-Se asimila al parentesco por afinidad el que se contrae entre el varón y los parientes de la mujer y entre ésta y los parientes de aquél, en los casos siguientes:
+Se asimila al parentesco por afinidad el que se contrae entre los concubinos y los parientes de aquél, en los casos siguientes:
 
-I.- Cuando entre el varón y la mujer hay la posesión de estado de casados sin serlo y no exista ningún impedimento para contraer matrimonio;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2021)</small>
+
+I. Cuando entre los concubinos hay la posesión de estado de casados sin serlo y no exista ningún impedimento para contraer matrimonio;
 
 II.- Cuando la unión sexual sea accidental, no exista entre ellos impedimento para el matrimonio y por virtud de ella tenga la mujer un hijo; y
 
@@ -17553,149 +17327,49 @@ El funcionario o empleado que fuere condenado ejecutoriadamente por la reparaci�
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Del Estado de Jalisco".
+PRIMERO.- El presente Código Civil para el Estado Libre y Soberano de Quintana Roo entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- El Ejecutivo Estatal contará con un plazo no mayor de 30 días naturales para integrar la Junta Directiva del Instituto, el cual será contado a partir del día siguiente de la publicación del presente decreto en el periódico oficial del Estado.
+SEGUNDO.- Los efectos jurídicos pendientes de realizarse de hechos, actos y negocios jurídicos efectuados antes de la entrada en vigor de este ordenamiento, así como las consecuencias jurídicas también pendientes de realizarse, de situaciones jurídicas constituidas en la misma época, se regirán por las disposiciones del presente Cuerpo de Leyes.
 
-TERCERO.- La Junta Directiva contará con un plazo no mayor a treinta días posteriores a su integración, para presentar al Titular del Ejecutivo del Estado, la terna de entre los que nombrará al Director General; una vez nombrado el Director por el Ejecutivo del Estado, la Junta Directiva contará con un máximo de treinta días para designar al Subdirector de una terna propuesta por el Director.
+TERCERO.- Si en un caso dado la capacidad jurídica de las personas llegare a quedar afectada por las disposiciones de este ordenamiento, se tendrá en cuenta lo que sobre el particular dispone el artículo 12.
 
-CUARTO.- La Junta Directiva elaborará y presentará el Reglamento Interior del Instituto dentro de un plazo máximo de seis meses, contados a partir de que entre en vigor el presente ordenamiento y que se someterá a la consideración del Gobernador a través de la Secretaría General de Gobierno.
+CUARTO.- Se aplicarán las disposiciones de este Código a los plazos que estén corriendo para adquirir o perder un derecho, liberarse de obligaciones o introducir algún cambio de situación jurídica, pero el tiempo transcurrido antes de su entrada en vigor se computará aumentándolo o disminuyéndolo en la misma proporción en que se haya aumentado o disminuido el nuevo término fijado por la presente Ley.
 
-QUINTO.- El personal académico, administrativo y técnico de apoyo se regirá por las disposiciones del Código Civil para el Estado de Jalisco, hasta en tanto se le expida su nombramiento que corresponda a alguna plaza legalmente autorizada en los respectivos presupuestos de egresos aplicables, en un plazo que no será mayor a sesenta días, caso en el cual se regirán con base en las disposiciones que establece la Ley de los Servidores Públicos del Estado de Jalisco y sus Municipios.
+QUINTO.- A partir de la fecha en que el presente Código entre en vigor, los notarios y jueces deberán remitir al Registro Público de la Propiedad y del Comercio del Estado los libros del protocolo a que se refieren los artículos 3205 y 3206.
 
-Salón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 1º. de agosto de 2001
+SEXTO.- Se derogan todas las disposiciones que se opongan a este Código Civil.
 
-Diputado Presidente
+Dado en el Salón de Sesiones de la Honorable II Legislatura Constitucional del Estado, en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los treinta días del mes de septiembre de mil novecientos ochenta.
 
-Miguel Angel Monraz Ibarra
+Diputada Presidente:
 
-Diputado Secretario
+FARIDE CHELUJA PEREZ
 
-Juan Víctor Contreras Magallón
+(Rúbrica)
 
-Diputado Secretario
+Diputado Secretario:
 
-Ernesto Díaz Márquez
+GERMAN GARCIA PADILLA
 
-En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+(Rúbrica)
 
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 03 tres días del mes de Agosto de 2001 dos mil uno.
+Dado en la residencia del Poder Ejecutivo del Estado en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los ocho días del mes de octubre de mil novecientos ochenta.
 
 El Gobernador Constitucional del Estado
 
-Lic. Francisco Javier Ramírez Acuña
+LIC. JESUS MARTINEZ ROSS
 
-El Secretario general de Gobierno
+(Rúbrica)
 
-Héctor Pérez Plazola
+El Secretario de Gobierno
+
+LIC. JOSE IRABIEN MEDINA
+
+(Rúbrica)
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 12 DE NOVIEMBRE DE 2015.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
-SEGUNDO. Se fusionan los siguientes organismos públicos descentralizados:
-
-I. Instituto Tecnológico Superior de Arandas;
-
-II. Instituto Tecnológico Superior de Chapala;
-
-III. Instituto Tecnológico Superior de Cocula;
-
-IV. Instituto Tecnológico Superior de El Grullo;
-
-V. Instituto Tecnológico Superior de La Huerta;
-
-VI. Instituto Tecnológico Superior de Lagos de Moreno;
-
-VII. Instituto Tecnológico Superior de Mascota;
-
-VIII. Instituto Tecnológico Superior de Puerto Vallarta;
-
-IX. Instituto Tecnológico Superior de Tala;
-
-X. Instituto Tecnológico Superior de Tamazula de Gordiano;
-
-XI. Instituto Tecnológico Superior de Tequila;
-
-XII. Instituto Tecnológico Superior de Zapopan; y
-
-XIII. Instituto Tecnológico Superior de Zapotlanejo.
-
-TERCERO. Se abrogan las siguientes leyes:
-
-I. Ley Orgánica del Instituto Tecnológico Superior de Arandas;
-
-II. Ley Orgánica del Instituto Tecnológico Superior de Chapala;
-
-III. Ley Orgánica del Instituto Tecnológico Superior de Cocula;
-
-IV. Ley Orgánica del Instituto Tecnológico Superior de el Grullo, Jalisco;
-
-V. Ley Orgánica del Instituto Tecnológico Superior de la Huerta, Jalisco;
-
-VI. Ley Orgánica del Instituto Tecnológico Superior de Lagos de Moreno;
-
-VII. Ley Orgánica del Instituto Tecnológico Superior de Mascota;
-
-VIII. Ley Orgánica del Instituto Tecnológico Superior de Puerto Vallarta;
-
-IX. Ley Orgánica del Instituto Tecnológico Superior de Tala;
-
-X. Ley Orgánica del Instituto Tecnológico Superior de Tamazula de Gordiano, Jalisco;
-
-XI. Ley Orgánica del Instituto Tecnológico Superior de Tequila, Jalisco;
-
-XII. Ley Orgánica del Instituto Tecnológico Superior de Zapopan; y
-
-XIII. Ley Orgánica del Instituto Tecnológico Superior de Zapotlanejo, Jalisco.
-
-CUARTO. Sin perjuicio de la creación de nuevas Unidades Académicas, el Instituto Tecnológico Mario Molina creado mediante el presente Decreto, cuenta con las siguientes Unidades Académicas:
-
-I. Arandas;
-
-II. Cocula;
-
-III. Chapala;
-
-IV. El Grullo;
-
-V. La Huerta;
-
-VI. Lagos de Moreno;
-
-VII. Mascota;
-
-VIII. Puerto Vallarta;
-
-IX. Tala;
-
-X. Tamazula de Gordiano;
-
-XI. Tequila;
-
-XII. Zapopan; y
-
-XIII. Zapotlanejo.
-
-QUINTO. El organismo público descentralizado denominado Instituto Tecnológico Mario Molina se integra con la estructura orgánica, recursos humanos, financieros y materiales y demás equipo de trabajo de los organismos públicos descentralizados fusionados.
-
-SEXTO. Los recursos humanos, económicos y materiales, así como todo tipo de derechos, valores, fondos y obligaciones de los organismos públicos descentralizados fusionados en términos del artículo segundo transitorio de este Decreto, se transfieren al Instituto Tecnológico Mario Molina, facultando al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, lleve a cabo las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este Decreto.
-
-SÉPTIMO. En el proceso de instalación del Instituto Tecnológico Mario Molina a que se refiere este Decreto, serán respetados los derechos de los servidores públicos y trabajadores de los organismos públicos descentralizados fusionados.
-
-OCTAVO. El Instituto Tecnológico Mario Molina se subroga en todos los derechos y obligaciones de los organismos públicos descentralizados fusionados.
-
-NOVENO. Los procedimientos administrativos, recursos y demás asuntos en trámite o pendientes de resolver ante los organismos públicos descentralizados fusionados, continuarán normándose por las disposiciones vigentes al momento de su iniciación, y serán sustanciados y resueltos por el Instituto Tecnológico Mario Molina.
-
-DÉCIMO. Las atribuciones, facultades y funciones que las disposiciones jurídicas aplicables confieran a los organismos públicos descentralizados fusionados, serán ejercidos (sic) por el Instituto Tecnológico Mario Molina.
-
-DÉCIMO PRIMERO. La Junta de Gobierno del organismo público descentralizado denominado Instituto Tecnológico Mario Molina, deberá quedar instalada en un plazo no mayor de sesenta días hábiles, contados a partir de la entrada en vigor del presente ordenamiento jurídico.
-
-DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes hasta antes de la entrada en vigor de este Decreto, seguirán aplicándose en tanto no se opongan al mismo. La Junta de Gobierno del Instituto propondrá al Titular del Poder Ejecutivo del Estado, a través de la dependencia coordinadora de sector, el proyecto de Reglamento Interno del Instituto Tecnológico Mario Molina, dentro de un plazo máximo de seis meses contados a partir de la fecha en que entre en vigor el presente ordenamiento.
-
-DÉCIMO TERCERO. Las referencias que se hagan en otros ordenamientos legales a los organismos públicos descentralizados fusionados, se entenderán hechas al Instituto Tecnológico Mario Molina.
+P.O. 31 DE ENERO DE 1982.
 
 ###### ARTICULO PRIMERO.
 
@@ -18014,3 +17688,17 @@ P.O. 20 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2021.
+
+[TRANSITORIOS DEL “DECRETO NÚMERO 145 POR El QUE SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 825 BIS, El PÁRRAFO PRIMERO DEL ARTÍCULO 825 QUÁTER Y El PÁRRAFO PRIMERO ASÍ COMO LA FRACCIÓN I DEL ARTÍCULO 829, TODOS DEL CÓDIGO CIVIL PARA El ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 156 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 429 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 1° DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
