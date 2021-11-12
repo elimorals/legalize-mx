@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2021-09-14"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1527,31 +1527,55 @@ Si la persona a quien se instiga o ayuda al suicidio fuere menor de edad o no tu
 
 ### CAPITULO V. ABORTO
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 132.
 
-Concepto.- Para los efectos de este Código, aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
+Aborto es la interrupción del embarazo después de la décima segunda semana de gestación.
+
+Para los efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 133.
 
-Autoaborto y aborto consentido.- A la mujer que se procure el aborto o consienta en que otro la haga abortar, se le impondrá de uno a cinco años de prisión, igual pena se aplicará al que haga abortar a la mujer con consentimiento de ésta.
+Se impondrá de tres meses a un año de prisión o de 50 a 200 días de trabajo a favor de la comunidad, a la mujer que voluntariamente practique su aborto o consienta en que otro la haga abortar, después de las doce semanas de embarazo.
+
+En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
+
+Al que hiciere abortar a una mujer, con el consentimiento de ésta, se le impondrá de uno a tres años de prisión.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 134.
 
-Aborto sufrido.- Al que haga abortar a una mujer sin el consentimiento de ésta, se le aplicará de tres a ocho años de prisión, y si mediare violencia física o moral, de cuatro a diez años.
+Aborto forzado es la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada.
+
+Pare (sic) efectos de este artículo, al que hiciere abortar a una mujer por cualquier medio sin su consentimiento, se le impondrá de cinco a ocho años de prisión. Si mediare violencia física o moral, se impondrá de ocho a diez años de prisión.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 135.
 
-Pena adicional para el aborto causado por un médico o auxiliar.- Si el aborto lo provocare un médico, cirujano, partero, enfermero o practicante; se le impondrá de tres a diez años de prisión y además se le suspenderá de dos a cinco años en el ejercicio de su profesión.
+Si el aborto o aborto forzado lo causare una persona especialista de la salud, sea médico, cirujano, partero, enfermero, practicante o técnico de la salud, además de las sanciones que le corresponda conforme a este Capítulo, se le suspenderá en el ejercicio de su profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 136.
 
-Aborto no punible.- El aborto no será punible:
+Se consideran causas excluyentes de responsabilidad penal en el delito de aborto, las siguientes:
 
-I.- Aborto culposo.- Cuando sea resultado de una conducta culposa de la mujer embarazada;
+I. La libre voluntad de la mujer embarazada, siempre que esto ocurra en las primeras doce semanas de gestación.
 
-II.- Aborto cuando el embarazo es resultado de una violación o de una inseminación artificial.- Cuando el embarazo sea resultado de una violación o de una inseminación artificial practicada en contra de la voluntad de la embarazada, siempre que el aborto se practique dentro del término de los noventa días de la gestación y el hecho haya sido denunciado, caso en el cual bastará la comprobación de los hechos por parte del Ministerio Público para autorizar su práctica;
+II. Cuando el embarazo sea resultado de una violación o de una inseminación artificial realizada en contra de la voluntad de la mujer;
 
-III.- Aborto terapéutico.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, quien dará aviso de inmediato al Ministerio Público, y éste oirá el dictamen de un médico legista, siempre que ésto fuere posible y no sea peligrosa la demora.
+III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de afectación grave a su salud a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no coloque en riesgo a la mujer la demora;
+
+IV. Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada; o,
+
+V. Que sea resultado de una conducta culposa o involuntaria de la mujer embarazada.
+
+En los casos contemplados en las fracciones II, III y IV, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
 ### CAPITULO VI. LESIONES
 
@@ -6244,3 +6268,9 @@ P.O. 14 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 293 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 147; LA ADICIÓN DE UN ARTÍCULO 151 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial el (sic) Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 36 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA; Y LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
