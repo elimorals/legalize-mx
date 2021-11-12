@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2021-04-16"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -691,11 +691,15 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 #### SECCION IV. DE LA PLANIFICACION FAMILIAR
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 26.
 
-La planificación familiar tiene carácter prioritario; en sus actividades se debe incluir la información y orientación educativa para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número; los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+La atención a la salud sexual, reproductiva y de planificación familiar es prioritaria en Baja California. Los servicios que se presten en esta materia constituyen un medio eficaz para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad y con perspectiva de género.
+
+Deberá incluirse información objetiva, de calidad, veraz, oportuna, laica y libre de estereotipos, donde también se ofrezca orientación educativa a adolescentes y jóvenes.
+
+También, se ofrecerá la asistencia médica a la mujer que decida interrumpir su embarazo, en los términos de esta Ley y de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 27.
 
@@ -1205,11 +1209,35 @@ II.- Terapias físicas de recuperación, y
 
 III.- Terapias de recuperación psicológica.
 
-#### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+#### SECCIÓN XV. DE LA INTERRUPCIÓN LEGAL DEL EMBARAZO
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 50 NONIES.- Las instituciones públicas de salud del Estado deberán proceder a la interrupción del embarazo, en forma gratuita y en condiciones de calidad, privacidad, trato digno, confidencialidad, autonomía de la voluntad, en los supuestos permitidos en el Código Penal para el Estado de Baja California y en la NOM-046-SSA2-2005 cuando la mujer así lo solicite.
+
+Para ello, las instituciones de salud deberán proporcionar, servicios de consejería médica y social con información veraz, oportuna, libre de estereotipos y laica, sobre otras opciones con que cuentan las mujeres además de la interrupción legal del embarazo, tales como la adopción o los programas sociales de apoyo, así como las posibles consecuencias en su salud.
+
+El personal objetor de conciencia médica, tiene la obligación conducirse con respeto, trato digno y sin ningún tipo de discriminación hacia la mujer.
+
+Cuando la mujer decida practicarse la interrupción de su embarazo, la institución deberá efectuarla en un término no mayor a cinco días hábiles, contados a partir de que sea presentada la solicitud y satisfechos los requisitos establecidos en las disposiciones aplicables.
+
+Las instituciones de salud públicas atenderán las solicitudes de interrupción del embarazo a las mujeres que lo soliciten aun cuando estas cuenten con otro servicio de salud público o privado.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 50 DECIES.- El personal médico de salud a quien corresponda practicar la interrupción legal del embarazo y cuyas creencias religiosas o convicciones personales sean contrarias a dicho procedimiento, podrá ser objetor de conciencia y por tal razón, excusarse de intervenir en la interrupción del embarazo, teniendo la obligación de canalizar a la mujer para que sea atendida por personal médico no objetor, sin dilación alguna.
+
+No podrá invocarse la objeción de conciencia, cuando sea urgente la interrupción del embarazo para salvaguardar la salud o la vida de la mujer, así como tampoco en la atención sanitaria posterior al aborto.
+
+Las instituciones de salud, deberán disponer permanentemente de personal médico y de enfermería no objetor de conciencia que proporcionen a las mujeres los servicios sanitarios solicitados.
+
+El incumplimiento de las obligaciones establecidas en el presente capítulo, podrán dar lugar a responsabilidades de carácter civil, administrativa o penal, según corresponda.
 
 ### CAPITULO QUINTO. DE LOS RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-#### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+#### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
 ###### ARTÍCULO 51.
 
@@ -1257,7 +1285,7 @@ El número de registro deberá consignarse en los documentos y papelería utiliz
 
 La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
-#### SECCION III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DE PERSONAL
+#### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTÍCULO 57.
 
@@ -1285,7 +1313,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-#### SECCION I. DE LAS ENFERMEDADES TRANSMISIBLES
+#### SECCION III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DE PERSONAL
 
 ###### ARTÍCULO 62.
 
@@ -1387,7 +1415,7 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 ### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-#### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
+#### SECCION I. DE LAS ENFERMEDADES TRANSMISIBLES
 
 ###### ARTÍCULO 73.
 
@@ -1521,7 +1549,7 @@ El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Au
 
 Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
-#### SECCION III. DE LOS ACCIDENTES
+#### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTÍCULO 89.
 
@@ -1548,6 +1576,34 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 ###### ARTÍCULO 91.
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
+
+#### SECCION III. DE LOS ACCIDENTES
+
+###### ARTÍCULO 92.
+
+Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente previsibles.
+
+###### ARTÍCULO 93.
+
+La acción en materia de prevención y control de accidentes comprende:
+
+I.- El conocimiento de las causas más usuales que generan accidentes;
+
+II.- La adopción de medidas para prevenir accidentes;
+
+III.- El desarrollo de la investigación para la prevención de los mismos;
+
+IV.- El fomento dentro de los programas de educación para la salud, de orientación a la población para la prevención de accidentes;
+
+V.- La atención de los padecimientos que se produzcan como consecuencia de ellos; y
+
+VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO SEPTIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 #### SECCION I. DISPOSICIONES COMUNES
 
@@ -1592,32 +1648,6 @@ VII. Medios ordinarios. Los que son útiles para conservar la vida del enfermo e
 VIII. Muerte natural. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual; y
 
 IX. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir el sufrimiento físico y emocional producto de una enfermedad terminal, destinadas a mejorar la calidad de vida.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 92.
-
-Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente previsibles.
-
-###### ARTÍCULO 93.
-
-La acción en materia de prevención y control de accidentes comprende:
-
-I.- El conocimiento de las causas más usuales que generan accidentes;
-
-II.- La adopción de medidas para prevenir accidentes;
-
-III.- El desarrollo de la investigación para la prevención de los mismos;
-
-IV.- El fomento dentro de los programas de educación para la salud, de orientación a la población para la prevención de accidentes;
-
-V.- La atención de los padecimientos que se produzcan como consecuencia de ellos; y
-
-VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-### CAPITULO SEPTIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1781,10 +1811,6 @@ ARTÍCULO 93 BIS 22.- Las Autoridades Sanitarias comunicaran a las autoridades e
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
-
 ### CAPITULO OCTAVO. DE LA PREVENCIÓN Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
@@ -1843,7 +1869,9 @@ V.- Recabar cualquier otra información que se estime necesaria para la prevenci
 
 ### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
+#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1873,9 +1901,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 102.
 
@@ -1907,31 +1933,9 @@ A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términ
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
-
-I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
-
-II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ABRIL DE 2021)</small>
-
-La autoridad sanitaria en el ámbito de su competencia y conforme a su disponibilidad financiera, vigilará el cumplimiento y aplicación de estas medidas en sectores vulnerables especialmente en niñas y niños menores de 12 años, en las instituciones educativas de los niveles básicos y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
-
-ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
-
-I.- La detección y tratamiento de la ludopatía; y
-
-II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
-
-De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 105.
 
@@ -1961,6 +1965,32 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
+#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
+
+II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ABRIL DE 2021)</small>
+
+La autoridad sanitaria en el ámbito de su competencia y conforme a su disponibilidad financiera, vigilará el cumplimiento y aplicación de estas medidas en sectores vulnerables especialmente en niñas y niños menores de 12 años, en las instituciones educativas de los niveles básicos y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
+
+I.- La detección y tratamiento de la ludopatía; y
+
+II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
+
+De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
+
 #### SECCION V. DEL PROGRAMA DE PREVENCION, ATENCION Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISION SEXUAL
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
@@ -1985,13 +2015,11 @@ VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de V
 
 IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
 
+### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
+
 #### SECCION I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
-
-### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
-
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTÍCULO 107.
 
@@ -2013,9 +2041,7 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION III. DE LAS FUNERARIAS, PANTEONES Y CADAVERES
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTÍCULO 112.
 
@@ -2037,7 +2063,9 @@ La regulación y control de los establecimientos dedicados al expendio o suminis
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2018)</small>
 
-#### SECCION IV. DE LA LIMPIEZA PUBLICA
+#### SECCION III. DE LAS FUNERARIAS, PANTEONES Y CADAVERES
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 114.
 
@@ -2137,7 +2165,7 @@ Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntami
 
 El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
 
-#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
+#### SECCION IV. DE LA LIMPIEZA PUBLICA
 
 ###### ARTÍCULO 120.
 
@@ -2151,7 +2179,7 @@ La basura deberá ser manejada en su destino final como relleno sanitario o dest
 
 El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
 
-#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
+#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
 ###### ARTÍCULO 123.
 
@@ -2191,7 +2219,7 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo humano, están obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
-#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
+#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 ###### ARTÍCULO 132.
 
@@ -2219,7 +2247,7 @@ Para abrir los servicios al público, los establecimientos señalados en el art�
 
 La actividad de los establecimientos señalados en la presente sección está sujeta a lo dispuesto por esta Ley y la normatividad aplicable.
 
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTÍCULO 138.
 
@@ -2229,9 +2257,7 @@ Para los efectos de esta Ley, se entiende por centros de reunión, todas aquella
 
 La Autoridad Sanitaria competente una vez terminada la edificación del centro de reunión y antes de abrirse al público hará la inspección sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta Ley. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTÍCULO 140.
 
@@ -2244,6 +2270,34 @@ Para la construcción o acondicionamiento de este tipo de establecimientos se re
 La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2012)</small>
+
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 142.
+
+Se entiende por tratamientos del área de Medicina Estética, como aquellos actos que no sean quirúrgicos y que no requieren de anestesia general ni regional y que tienden a mejorar el aspecto y la condición de salud de los pacientes; los cuales se conforman por terapias médicas y cosméticas que mejoran la apariencia, la salud y la autoestima del paciente, enmarcándose en maniobras terapéuticas diferentes al campo invasivo quirúrgico propio de la cirugía plástica y estética, y de otras ramas de la medicina.
+
+###### ARTÍCULO 143.
+
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 144.
+
+Los procedimientos de embellecimiento físico del cuerpo humano son aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de substancias, preparados de uso externo, productos cosméticos de uso tópico, así como utensilios, herramientas, equipo y aparatología sin implicaciones médicas, en su caso, y que son destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en los que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médica.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+
+ARTÍCULO 144 BIS.- Los establecimientos en los que se lleven a cabo los procedimientos reseñados en el artículo anterior, tales como peluquerías, salones de belleza y masaje, estéticas, centro de arreglo estético de uñas de manos y pies, de tratamientos capilares, faciales y corporales de belleza al público y similares, que no requieran de intervención médica en cualquiera de sus prácticas sólo darán aviso de su funcionamiento a las autoridades sanitarias competentes en el estado y quedaran sujetas al reglamento correspondiente al municipio en el que se localicen.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+
+ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, tienen prohibido realizar en sus instalaciones cualquier tipo de tratamientos o procedimientos invasivos como implantaciones, infiltraciones de sustancias o empleo de aparatos relacionados con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara o del cuerpo humano que requieran de intervención médica.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 #### SECCIÓN IX BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
 
@@ -2283,35 +2337,7 @@ Esta información servirá de base para que la Secretaría de Salud del Estado i
 
 ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior, así como a lo previsto en el artículo 144 QUATER, dará lugar a que (sic) Secretaría de Salud del Estado aplique medidas de seguridad y/o sanciones a que refiere esta Ley.
 
-###### ARTÍCULO 142.
-
-Se entiende por tratamientos del área de Medicina Estética, como aquellos actos que no sean quirúrgicos y que no requieren de anestesia general ni regional y que tienden a mejorar el aspecto y la condición de salud de los pacientes; los cuales se conforman por terapias médicas y cosméticas que mejoran la apariencia, la salud y la autoestima del paciente, enmarcándose en maniobras terapéuticas diferentes al campo invasivo quirúrgico propio de la cirugía plástica y estética, y de otras ramas de la medicina.
-
-###### ARTÍCULO 143.
-
-(DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
-
-###### ARTÍCULO 144.
-
-Los procedimientos de embellecimiento físico del cuerpo humano son aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de substancias, preparados de uso externo, productos cosméticos de uso tópico, así como utensilios, herramientas, equipo y aparatología sin implicaciones médicas, en su caso, y que son destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en los que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médica.
-
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
-
-ARTÍCULO 144 BIS.- Los establecimientos en los que se lleven a cabo los procedimientos reseñados en el artículo anterior, tales como peluquerías, salones de belleza y masaje, estéticas, centro de arreglo estético de uñas de manos y pies, de tratamientos capilares, faciales y corporales de belleza al público y similares, que no requieran de intervención médica en cualquiera de sus prácticas sólo darán aviso de su funcionamiento a las autoridades sanitarias competentes en el estado y quedaran sujetas al reglamento correspondiente al municipio en el que se localicen.
-
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
-
-ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, tienen prohibido realizar en sus instalaciones cualquier tipo de tratamientos o procedimientos invasivos como implantaciones, infiltraciones de sustancias o empleo de aparatos relacionados con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara o del cuerpo humano que requieran de intervención médica.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2014)</small>
-
 #### SECCION X. DE LOS TRANSPORTES DE CARGA
-
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 145.
 
@@ -2323,35 +2349,9 @@ Los transportes de carga señalados en el artículo anterior que circulen por el
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-#### SECCION XII. DE LOS ESTABLECIMIENTOS DEDICADOS A REALIZAR TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
-
-ARTÍCULO 148 TER.- Los establecimientos donde se realicen tatuajes, micropigmentaciones y perforaciones, estarán obligados a contar con licencia sanitaria expedida por la autoridad competente de la materia, en términos de la presente Ley, además deberán contar con personal debidamente capacitado en la práctica y dominio de sus técnicas. En todo momento debe garantizarse condiciones de seguridad, higiene y asepsia.
-
-En ningún caso se podrá realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
-
-ARTÍCULO 148 TER 1.- Para efectos de esta Ley se entenderá por:
-
-I. Tatuaje: Procedimiento mediante el cual se graban dibujos, trazos, marcas o figuras en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otros instrumentos, a través de punzadas o picaduras previamente dispuestas.
-
-II. Micropigmentación: Procedimiento mediante el cual se depositan bajo la epidermis pigmentos en áreas específicas de la piel, mediante un instrumento manual o electromecánico.
-
-III. Perforación: Procedimiento mediante el cual se introduce algún objeto hipoalergénico en la piel o mucosas a través de una cánula, catéter o un instrumento punzo cortante.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
-
-ARTÍCULO 148 TER 2.- Sólo se realizarán tatuajes, micropigmentaciones o perforaciones a personas mayores de edad, que acrediten tal carácter con documento oficial, que no se encuentren bajo el influjo de drogas y/o alcohol y no padezcan enfermedades mentales o alguna enfermedad transmisible. Los menores de edad, para realizarse tatuajes, micropigmentaciones o perforaciones, deberán presentarse en compañía de alguno de sus padres o de su tutor, siendo necesario acreditar tal carácter.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
-
-ARTÍCULO 148 TER 3.- En los establecimientos en que se realizan tatuajes, micropigmentaciones y perforaciones, previo al inicio del procedimiento de que se trate, deberá ser mostrado al cliente el material esterilizado que será utilizado en el procedimiento que será realizado, además deberá de explicarse las medidas de higiene que deben de ser tomadas a efecto de realizar dicho procedimiento.
-
-Los responsables deberán contar con el material mínimo que prevé la Norma Oficial Mexicana y el Reglamento de Control Sanitario de Productos y Servicios.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 147.
 
@@ -2499,13 +2499,39 @@ IV.- Las demás que le establezca el Reglamento Interno.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE OCTUBRE DE 2020)</small>
 
+#### SECCION XII. DE LOS ESTABLECIMIENTOS DEDICADOS A REALIZAR TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER.- Los establecimientos donde se realicen tatuajes, micropigmentaciones y perforaciones, estarán obligados a contar con licencia sanitaria expedida por la autoridad competente de la materia, en términos de la presente Ley, además deberán contar con personal debidamente capacitado en la práctica y dominio de sus técnicas. En todo momento debe garantizarse condiciones de seguridad, higiene y asepsia.
+
+En ningún caso se podrá realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER 1.- Para efectos de esta Ley se entenderá por:
+
+I. Tatuaje: Procedimiento mediante el cual se graban dibujos, trazos, marcas o figuras en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otros instrumentos, a través de punzadas o picaduras previamente dispuestas.
+
+II. Micropigmentación: Procedimiento mediante el cual se depositan bajo la epidermis pigmentos en áreas específicas de la piel, mediante un instrumento manual o electromecánico.
+
+III. Perforación: Procedimiento mediante el cual se introduce algún objeto hipoalergénico en la piel o mucosas a través de una cánula, catéter o un instrumento punzo cortante.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER 2.- Sólo se realizarán tatuajes, micropigmentaciones o perforaciones a personas mayores de edad, que acrediten tal carácter con documento oficial, que no se encuentren bajo el influjo de drogas y/o alcohol y no padezcan enfermedades mentales o alguna enfermedad transmisible. Los menores de edad, para realizarse tatuajes, micropigmentaciones o perforaciones, deberán presentarse en compañía de alguno de sus padres o de su tutor, siendo necesario acreditar tal carácter.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER 3.- En los establecimientos en que se realizan tatuajes, micropigmentaciones y perforaciones, previo al inicio del procedimiento de que se trate, deberá ser mostrado al cliente el material esterilizado que será utilizado en el procedimiento que será realizado, además deberá de explicarse las medidas de higiene que deben de ser tomadas a efecto de realizar dicho procedimiento.
+
+Los responsables deberán contar con el material mínimo que prevé la Norma Oficial Mexicana y el Reglamento de Control Sanitario de Productos y Servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 #### SECCION I. DE LAS AUTORIZACIONES
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
-
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ### CAPITULO DECIMO PRIMERO. DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
@@ -2613,7 +2639,9 @@ El Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios ser�
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 151.
 
@@ -2696,6 +2724,8 @@ La construcción y equipamiento de los establecimientos dedicados a la prestaci�
 Requieren de tarjeta de control sanitario las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo condiciones que establezcan las disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 157.
 
@@ -3714,3 +3744,11 @@ P.O. 16 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 213 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 48 BIS DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LOS ARTÍCULOS 24 Y 106 BIS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE APRUEBA LA ADICIÓN DEL ARTÍCULO 72 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 36 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA; Y LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado, deberá expedir o realizar las modificaciones reglamentarias necesarias para la correcta implementación de este Decreto, en un término no mayor a 90 días naturales siguientes a su publicación en el Periódico Oficial del Estado.
