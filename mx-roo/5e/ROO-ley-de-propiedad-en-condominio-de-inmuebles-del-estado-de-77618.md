@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-propiedad-en-condominio-de-inmuebles-del-estado-de-77618
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-30"
-last_updated: "2019-09-13"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 2010.
 
@@ -49,83 +49,105 @@ Las disposiciones de esta ley son de orden público y tienen por objeto regular 
 
 Asimismo regula las relaciones entre los condóminos y entre éstos y su administración, estableciendo las bases para resolver las controversias que se susciten con motivo de tales relaciones, mediante la conciliación y el arbitraje, sin perjuicio de la competencia que corresponda a las autoridades judiciales o administrativas.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de esta ley se entiende por:
 
-ADMINISTRADOR.- Persona física o moral designado por la Asamblea para desempeñar la función de administración de un condominio.
+I. ADMINISTRADOR.- Persona física o moral designado por la Asamblea para desempeñar la función de administración de un condominio.
 
-ÁREAS Y BIENES COMUNES.- Son aquellos que pertenecen en forma proindivisa a los condóminos y su uso estará regulado por esta Ley, la escritura constitutiva y el reglamento, y cuyo uso, aprovechamiento y mantenimiento es responsabilidad de los condóminos y ocupantes.
+II. ÁREAS Y BIENES COMUNES.- Son aquellos que pertenecen en forma proindivisa a los condóminos y que su uso, aprovechamiento y mantenimiento es responsabilidad de los condóminos y ocupantes, con arreglo a lo establecido en la Ley, la Escritura Constitutiva, el Reglamento del condominio o por acuerdo de la Asamblea General y en el caso de las áreas verdes, por la legislación ambiental aplicable.
 
-ASAMBLEA.- Es el órgano supremo del condominio, conformada por la reunión de todos los Condóminos, celebrada de acuerdo a esta ley, previa convocatoria, se tratan, discute y resuelven, en su caso, asuntos de interés común respectos (sic) del condominio.
+III. ÁREA VERDE.- Porción de territorio ocupado por vegetación, dentro o fuera del desarrollo, destinado como lugar de esparcimiento y recreo de los condóminos y ocupantes, el cual pertenece proindiviso a los condominios.
 
-MAYORÍA SIMPLE.- El 50% más uno del total de votos o condóminos, según sea el caso.
+IV. ASAMBLEA.- Es la Asamblea General de Condóminos como órgano administrativo supremo que regirá la organización y funcionamiento social del Régimen de Propiedad en Condominio, en términos de la presente Ley.
 
-EXTINCIÓN VOLUNTARIA.- La desaparición del régimen de propiedad en condominio.
+V. CÓDIGO CIVIL.- El Código Civil para el Estado Libre y Soberano de Quintana Roo.
 
-LEY.- La Ley de Propiedad en Condominio de Inmuebles para el Estado de Quintana Roo.
+VI. COMITÉ DE VIGILANCIA.- Es el Órgano de control integrado por condóminos electos en Asamblea General, cuyo cometido entre otros, es vigilar, evaluar y dictaminar el puntual desempeño de las tareas del administrador, así como la ejecución de los acuerdos y decisiones tomados por la Asamblea General en torno a los asuntos comunes del condominio.
 
-CODIGO CIVIL.- El Código Civil para el Estado Libre y Soberano de Quintana Roo.
+VII. CONDOMINIO.- Es el grupo de lotes de terrenos, departamentos, viviendas, casas, locales o naves de un inmueble construido en forma horizontal, vertical o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél y a la vía pública y que pertenecen a distintos propietarios los que tendrán un derecho singular y exclusivo de propiedad sobre su Unidad de Propiedad Exclusiva y además un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para un adecuado uso y disfrute.
 
-REGLAMENTO.- Se refiere al reglamento del condominio en el que se específica las normas internas de convivencias en un condominio, en términos de los previsto por esta ley.
+VIII. CONDÓMINO.- Persona física o jurídico-colectiva, que tenga la propiedad o la titularidad de los derechos Fideicomitidos sobre uno o varias Unidades de Propiedad Exclusiva en un inmueble afecto al régimen de propiedad en Condominio y para los efectos de esta Ley, cuando haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario o fideicomisario de una Unidad de Propiedad Exclusiva.
 
-SANCIÓN: Pena o multa que está obligado a cubrir el condómino y/o ocupante del inmueble, por infringir esta Ley, el Código Civil para el Estado de Quintana Roo, escritura constitutiva, contrato de traslación de dominio, reglamento y otras legislaciones de aplicación en la materia.
+IX. CONDOMINIO MAESTRO.- Toda aquella agrupación de dos o más Condominios, ya sean horizontales, verticales o mixtos, construidos en un solo predio, siempre que cada uno de dichos Condominios conserve para si áreas de uso exclusivo, y a su vez existan áreas de uso común para todos los Condominios que integran el Condominio Maestro de referencia, como pueden ser vialidades internas, construcciones e instalaciones, entre otras y cuyas Áreas Comunes generales serán administradas, conservadas y mantenidas por todos los Condominios pertenecientes a dicho Condominio Maestro.
 
-UNIDAD DE PROPIEDAD EXCLUSIVA.- Son los diferentes lotes de terreno, departamentos, casas, locales, áreas o naves y los elementos anexos que le corresponda sobre el cual el condómino tiene un derecho de propiedad y de uso exclusivo.
+X. CUOTA EXTRAORDINARIA.- La cantidad monetaria acordada por la Asamblea General para sufragar los gastos imprevistos o extraordinarios.
 
-CONDOMINIO.- Se denominará Condominio al grupo de lotes de terrenos, departamentos, viviendas, casas, locales o naves de un inmueble construido en forma horizontal, vertical o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél y a la vía pública y que pertenecieran a distintos propietarios los que tendrán un derecho singular y exclusivo de propiedad sobre su Unidad de Propiedad Exclusiva y además un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para un adecuado uso y disfrute;
+XI. CUOTA ORDINARIA.- La cantidad monetaria acordada por la Asamblea General, para sufragar los gastos de administración, mantenimiento, operación y servicios no individualizados de uso común, la cual podrá ser fija o variable de acuerdo a lo que determine la Asamblea General.
 
-CONDÓMINO.- Se entiende por condómino a la persona física o jurídico-colectiva, que tenga la propiedad o la titularidad de los derechos Fideicomitidos sobre uno o varias Unidades de Propiedad Exclusiva en un inmueble afecto al régimen de propiedad en Condominio y para los efectos de esta Ley, cuando haya celebrado contrato en virtud del cual, de cumplirse en sus términos llegue a ser propietario o fideicomisario de una Unidad de Propiedad Exclusiva;
+XII. ESCRITURA CONSTITUTIVA.- Documento público, mediante el cual se constituye un inmueble bajo el Régimen de Propiedad en Condominio.
 
-CONDOMINIO MAESTRO.- Toda aquella agrupación de dos o más Condominios, ya sean horizontales, verticales o mixtos, construidos en un solo predio, siempre que cada uno de dichos Condominios conserve para sí áreas de uso exclusivo, y a su vez existan áreas de uso común para todos los Condominios que integran el Condominio Maestro de referencia, como pueden ser vialidades internas, construcciones e instalaciones, etc., y cuyas Áreas Comunes generales serán administradas, conservadas y mantenidas por todos los Condominios pertenecientes a dicho Condominio Maestro;
+XIII. EXTINCIÓN VOLUNTARIA.- La desaparición del Régimen de Propiedad en Condominio.
 
-SUB-CONDOMINIO.- Es aquel condominio horizontal, vertical o mixto que forma parte de un Condominio Maestro.
+XIV. FONDO DE RESERVA.- Constituye las reservas económicas o financieras del Condominio derivadas del pago de cuotas aportadas por los condóminos para cubrir gastos extraordinarios, de emergencia e imprevistos.
+
+XV. LEY.- La Ley de Propiedad en Condominio de Inmuebles para el Estado de Quintana Roo.
+
+XVI. MAYORÍA SIMPLE.- El 50% más uno del total de votos o condóminos, según sea el caso.
+
+XVII. OCUPANTE.- Es la persona que por acuerdo celebrado o autorización expresa de quien tenga la facultad de hacerlo, pueda hacer uso y disfrute de una unidad de propiedad exclusiva y adquiera derechos y obligaciones sobre las Áreas y Bienes de Uso Común, en los términos establecidos en la Ley y el Reglamento.
+
+XVIII. PROINDIVISO.- El porcentaje que representa la Unidad de Propiedad Privativa de cada Condómino en relación con el total del inmueble sometido al régimen de Condominio en los términos de la Escritura Constitutiva, que no está sujeto a la acción de división material de las partes, salvo en el caso de extinción. Los condóminos tendrán igualdad de circunstancias en cuanto a los derechos y obligaciones sobre las Áreas y Bienes de Uso Común.
+
+XIX. REGLAMENTO.- Es el instrumento legal que deberá formar parte de la escritura constitutiva del régimen de propiedad en condominio e inscribirse en el Registro Público de la Propiedad y del Comercio y regulará por lo menos lo establecido en el Capítulo I del Título IV de la presente Ley.
+
+XX. SANCIÓN.- Pena o multa que está obligado a cubrir el condómino y/o ocupante del inmueble, por infringir esta Ley, el Código Civil, escritura constitutiva, contrato de traslación de dominio, acuerdos de la Asamblea General de Condóminos, reglamento y otras legislaciones de aplicación en la materia.
+
+XXI. SUB-CONDOMINIO.- Es aquel condominio horizontal, vertical o mixto que forma parte de un Condominio Maestro.
+
+XXII. UNIDAD DE PROPIEDAD EXCLUSIVA.- Son los diferentes lotes de terreno, departamentos, casas, locales, áreas o naves y los elementos anexos que le corresponda sobre el cual el condómino tiene un derecho de propiedad y de uso exclusivo.
 
 ### CAPÍTULO II. De la Constitución, Modalidades y Extinción del Régimen de Propiedad Condominal
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 3.
 
-Los derechos y obligaciones de los condóminos se regirán por las disposiciones de la presente Ley, las del Código Civil para el Estado de Quintana Roo, las de otras leyes aplicables, así como por la escritura constitutiva del régimen, el contrato de traslación de dominio y por el reglamento del condominio de que se trate.
+Los derechos y obligaciones de los condóminos se regirán por la presente Ley, el Código Civil, la escritura constitutiva, el contrato de traslación de dominio, los acuerdos de la Asamblea y por el Reglamento del condominio de que se trate.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 4.
 
-La constitución del régimen de propiedad en condominio es el acto jurídico formal mediante el cual el propietario o propietarios de un inmueble, formalizan ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan, comparten y tienen acceso a las áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todos y cada uno, sin demérito de su propiedad exclusiva.
+La constitución del régimen de propiedad en condominio es el acto jurídico formal mediante el cual el propietario o propietarios de un inmueble, formalizan ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan, comparten y tienen acceso a las áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todos y cada uno, sin demérito de su propiedad exclusiva, contando con personalidad jurídica propia, aplicándose de manera supletoria el Código Civil y rigiéndose por lo establecido en la presente Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE AGOSTO DE 2018)</small>
+Sin perjuicio de lo anterior también se podrá constituir el Régimen de Propiedad en Condominio en las siguientes modalidades:
 
-Para su inscripción en el Registro Público de la Propiedad y el Comercio, previamente los propietarios deberán obtener una Constancia de Compatibilidad Territorial que en su caso expedirá el Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Territorial Urbano Sustentable en los términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo. Para ello, deberán presentar los siguientes documentos:
+a. Cuando los diferentes pisos, departamentos, viviendas, locales, áreas o naves de que conste un inmueble, o que hubieran sido construidos dentro de un inmueble con partes de uso común pertenezcan a distintos propietarios o siendo del mismo propietario, se les dé un uso diferente o privado a cada uno;
 
-I.- Original de solicitud suscrita por el representante legal o propietario dirigida a la autoridad competente;
+b. Cuando los diferentes pisos, departamentos, viviendas, locales, áreas o naves que se construyan dentro de un inmueble, y que cuente éste con elementos comunes e indivisibles, cuya propiedad privada se reserve en los términos del artículo anterior, se destinen a la enajenación de personas distintas;
 
-II.- Título de propiedad;
+c. Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, viviendas, locales, áreas o naves, y que entre otros le de un uso habitacional, de abasto, comercio o servicios, industrial o agroindustrial o mixtos, para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad privada indivisible;
 
-III.- Libertad de gravamen;
+d. Por disposición testamentaria, siempre que se ajuste a las normas de desarrollo urbano aplicables;
 
-IV.- Constancia de uso de suelo expedida por la autoridad municipal competente;
+e. Derivado de la partición de una copropiedad, cuando de la misma se generen dos o más unidades de propiedad exclusiva, que compartan áreas e instalaciones comunes.
 
-V.- Licencia de Construcción expedida por la autoridad municipal competente;
+Para su inscripción en el Registro Público de la Propiedad y el Comercio previamente, los propietarios deberán obtener la Constancia de Compatibilidad Territorial que en su caso expida la Secretaría de Desarrollo Territorial Urbano Sustentable en términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo. Para ello, deberán presentar los siguientes documentos:
 
-VI.- Documento de autorización del régimen de propiedad en condominio expedido por la autoridad municipal competente;
+I. Original de solicitud suscrita por el representante legal o propietario dirigida a la autoridad competente;
 
-VII.- Terminación de obra expedida por la autoridad municipal competente o en su caso, copia de la fianza que la garantice a nombre de la autoridad municipal competente;
+II. Título de propiedad;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+III. Libertad de gravamen;
 
-VIII.- Copia del recibo del pago de impuesto predial correspondiente;
+IV. Constancia de uso de suelo expedida por la autoridad municipal competente;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+V. Licencia de Construcción expedida por la autoridad municipal competente;
 
-IX.- Certificación de medidas y colindancias del inmueble expedida por la autoridad municipal correspondiente; y
+VI. Documento de autorización del régimen de propiedad en condominio expedido por la autoridad municipal competente;
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+VII. Terminación de obra expedida por la autoridad municipal competente o en su caso, copia de la fianza que la garantice a nombre de la autoridad municipal competente;
 
-X.- Cédula Catastral.
+VIII. Copia del recibo del pago de impuesto predial correspondiente;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+IX. Certificación de medidas y colindancias del inmueble expedida por la autoridad municipal correspondiente; y,
 
-Lo anterior, sin perjuicio de otros requisitos que a juicio de la Secretaría de Desarrollo Territorial Urbano Sustentable estime y señale necesarios.
+X. Cédula Catastral.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2018)</small>
+Sin perjuicio de otros requisitos que a juicio de la Secretaría de Desarrollo Territorial Urbano Sustentable estime y señale necesarios, los Ayuntamientos únicamente autorizarán el cambio a régimen condominal en edificaciones terminadas, siempre que cumplan con las normas relativas a la división del suelo, su uso, densidad e intensidad de aprovechamiento e imagen urbana, restricciones, acuerdos tomados en la Asamblea General y demás normatividad aplicable.
 
 Las unidades privativas en el caso de condominios que involucren viviendas, deberán respetar las superficies mínimas a que se refiere la Ley de Acciones Urbanísticas del Estado de Quintana Roo.
 
@@ -223,9 +245,15 @@ La escritura constitutiva del régimen de propiedad en condominio de inmuebles, 
 
 Cualquier modificación a la escritura constitutiva y su reglamento, se acordará en asamblea general extraordinaria, a la que deberá de asistir por lo menos el 75 por ciento del proindiviso del condominio y sus resoluciones se tomarán por mayoría de votos.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Cuando un solo condómino sea titular de más del 20% del proindiviso se aplicará lo previsto en el artículo 28, fracción VII de la presente Ley.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 12.
 
-En todo contrato de adquisición de los derechos de una unidad de propiedad exclusiva, se hará constar que se entregó al condómino una copia simple de la escritura constitutiva del condominio y copia del reglamento y así en forma sucesiva con los nuevos propietarios.
+En todo contrato de adquisición de los derechos de una unidad de propiedad exclusiva, se hará constar que la unidad o las unidades se encuentran al corriente en el pago de las cuotas de mantenimiento ordinarias y extraordinarias, del Fondo de Reserva y que se entregó al condómino una copia simple de la escritura constitutiva del condominio y del reglamento. Lo anterior aplicará en forma sucesiva con los nuevos propietarios.
 
 ###### ARTÍCULO 13.
 
@@ -325,13 +353,23 @@ VII.- Delimitar con cualquier tipo de material o pintar señalamientos de exclus
 
 Por ningún motivo se podrá hacer uso de los estacionamientos en las áreas de uso común, para fines distintos;
 
-VIII.- Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, salubridad o comodidad del condominio o de los condóminos. En todos los casos, los condóminos, sus arrendatarios o cesionarios, serán absolutamente responsables de las acciones de los animales que introduzcan al condominio que afecten la limpieza, salubridad y protección o que causen cualquier daño, molestia, plaga o enfermedades a otros condóminos y habitantes del mismo; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+VIII.- Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, salubridad o comodidad del condominio o de los condóminos. En todos los casos, los condóminos, sus arrendatarios o cesionarios, serán absolutamente responsables de las acciones de los animales que introduzcan al condominio que afecten la limpieza, salubridad y protección, o que causen cualquier daño, molestia, plaga o enfermedades a otros condóminos y habitantes del mismo;
 
 IX.- Realizar obras en la propiedad exclusiva que puedan poner en peligro la seguridad y estabilidad física del edificio ocasionando peligro o riesgo a los habitantes del condominio o que no permitan la conservación de zonas comunes o su flora, así como las que realicen los condóminos en áreas comunes que afecten la comodidad de tránsito del condominio; las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, y las que demeriten cualquier parte exclusiva de una unidad condominal.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
 La realización de obras podrán llevarse a cabo solamente si en Asamblea General existe acuerdo unánime de los condóminos, excepto en las áreas verdes, y en el último caso, además, se indemnizará al afectado a su plena satisfacción.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+X.- Cambiar el uso y destino que tenga la unidad de propiedad exclusiva o el desarrollo en parte o en su totalidad, a menos de que exista un acuerdo del 100% de los condóminos, y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+XI.- Dar en uso, por cualquier medio, la unidad de propiedad exclusiva a un mayor número de personas a las que está destinada la propiedad.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
@@ -397,61 +435,93 @@ Se podrán celebrar convenios con las autoridades competentes para establecer se
 
 ### CAPÍTULO I. De la Supremacía y Atribuciones de la Asamblea
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 28.
 
-El régimen de propiedad en condominio será administrado por la Asamblea General de Condóminos, quien deberá regirse por Escritura Pública que estipule la organización y funcionamiento social de la misma, y nombrará a un administrador para llevar a cabo dichas tareas.
+El régimen de propiedad en condominio será administrado por la Asamblea, quien deberá regirse por Escritura Pública que estipule la organización y funcionamiento social de la misma y nombrará a un administrador para llevar a cabo dichas tareas.
 
-La asamblea contará con un Presidente, un Secretario y cuando menos dos escrutadores designados por la misma.
+Serán reuniones ordinarias de la asamblea aquellas que se convoquen para tratar los asuntos a que se refiere el artículo 31 de esta Ley, con excepción de la fracción I, que deberá tratarse en reunión extraordinaria de la asamblea, la que también deberá resolver y acordar, en el caso de destrucción, ruina, vetustez, expropiación o afectación del condominio con arreglo a las disposiciones legales que fueren aplicables, lo relativo a la reconstrucción, demolición, división y enajenación de los bienes que integren el régimen de propiedad en condominio.
 
-Serán Asambleas ordinarias aquellas que se convoquen para tratar los asuntos a que se refiere el artículo 31 de esta Ley, con excepción de la fracción I, que deberá tratarse en asamblea extraordinaria, la que también deberá resolver y acordar, en el caso de destrucción, ruina, vetustez, expropiación o afectación del Condominio con arreglo a las disposiciones legales que fueren aplicables, lo relativo a la reconstrucción, demolición, división y aún enajenación de los bienes que integren el régimen de propiedad en Condominio.
+Serán de grupo, las reuniones de la Asamblea de un condominio maestro, en las cuales se traten asuntos relativos a las áreas comunes del condominio maestro, de un condominio que conste de diferentes partes y comprenda, entre otras, varias escaleras, patios, jardines, obras e instalaciones destinadas a servir únicamente a un condominio, cuyos gastos especiales estarán a cargo del grupo de los condóminos beneficiados, incluyendo los casos de las escaleras, ascensores, montacargas y otros elementos, aparatos o instalaciones de uso exclusivo del condominio correspondiente. En el reglamento del condominio deberán establecerse de acuerdo a los indivisos del condominio maestro y la relación entre los indivisos de los subcondominios normas especiales para el reparto de estos gastos, así como aquellos para regular juntas de administradores, cuando dicho condominio se haya organizado por secciones o grupos, o se trate de un condominio maestro.
 
-Serán de grupo las Asambleas de un Condominio Maestro, en las cuales se resolverán supuestos relativos a las áreas comunes del condominio maestro de un Condominio que conste de diferentes partes y comprenda, por ejemplo, varias escaleras, patios, jardines, obras e instalaciones destinadas a servir únicamente a un Condominio, cuyos gastos especiales serán a cargo del grupo de los Condóminos beneficiados, incluyendo los casos de las escaleras, ascensores, montacargas y otros elementos, aparatos o instalaciones de uso exclusivo del Condominio correspondiente. En el Reglamento del Condominio deberán establecerse de acuerdo a los indivisos del condominio maestro y la relación entre los indivisos de los subcondominios normas especiales para el reparto de estos gastos, así como aquellos para regular juntas de Administradores, cuando dicho Condominio se haya organizado por secciones o grupos, o se trate de un Condominio Maestro.
+Las reuniones de la Asamblea se regirán por lo siguiente:
 
-Las Asambleas se regirán por las siguientes disposiciones:
+I. Serán presididas por el condómino que designe la Asamblea, dos escrutadores pudiendo ser propietarios o terceros también designados por la Asamblea y un Secretario cuya función será desempeñada por el Administrador o a falta de éste por quien designe la Asamblea o bien disponga el Reglamento.
 
-I.- Se celebrarán obligatoriamente por lo menos una vez cada seis meses las ordinarias, y las extraordinarias y las de grupo, cuantas veces sean convocadas conforme a lo dispuesto por esta Ley, la Escritura Constitutiva y el Reglamento del Condominio;
+II. Para el desahogo de la reunión de la Asamblea se podrá contratar los servicios de un moderador o de un asesor a fin de desahogar la misma con orden, facilitando la interacción de los presentes y brindando asesoría para cumplir las formalidades de la misma, así como proporcionar los lineamientos legales respecto a los puntos que serán materia de discusión. El moderador o asesor deberá ser imparcial, objetivo y trabajará para el bien común de la Asamblea.
 
-a) (DEROGADO, P.O. 22 DE MARZO DE 2011)
+Sin perjuicio de lo anterior, el moderador o asesor de la reunión de la Asamblea podrá también colaborar en la redacción de la minuta de la reunión, pero nunca suplirá el carácter y función del Presidente y en su caso del Secretario.
 
-b) Las Asambleas extraordinarias, serán convocadas con la anticipación que las circunstancias lo exijan, quedando sujetas en lo demás a las disposiciones de esta Ley y el Reglamento interior del Condominio.
+III. Las reuniones ordinarias se celebrarán obligatoriamente por lo menos una vez cada seis meses y las extraordinarias cuantas veces sean convocadas con la anticipación que las circunstancias lo exijan, conforme a lo dispuesto por esta Ley, la Escritura Constitutiva y el Reglamento del Condominio.
 
-II.- El valor del voto de cada condómino será igual al porcentaje del indiviso que le corresponde y que figure en la Escritura Constitutiva y en el instrumento público correspondiente en que conste su propiedad;
+IV. Las reuniones de la Asamblea, ya sea ordinarias o extraordinarias, se desahogarán en el idioma español y en caso de ser requerido por los condóminos podrán ser asistidos por un traductor que facilite la comunicación y la toma de acuerdos en la misma.
 
-En los casos de elección, reelección o remoción del Administrador, de los integrantes de la administración o del Comité de Vigilancia, a cada Unidad de Propiedad Exclusiva habitacional corresponderá un sólo voto, inclusive aquellos de uso mixto que cuenten con Unidades para su uso habitacional o habitacional-turístico. Se exceptúan los Condominios por uso comercial, de oficinas, de almacenamiento, industrial y estacionamiento, en donde la votación será de acuerdo a lo dispuesto en el párrafo anterior.
+V. Las reuniones de la Asamblea, ya sea ordinarias o extraordinarias, podrán celebrase (sic) de manera presencial y/o a distancia mediante el uso de plataformas digitales.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+Los condóminos podrán optar libremente por la modalidad de su participación en las reuniones de la Asamblea, ya sea en las ordinarias o extraordinarias.
 
-III.- La votación será nominal y directa, pero el Reglamento del Condominio podrá facultar la representación mediante simple carta poder firmada ante dos testigos, sin que en ningún caso una sola persona pueda representar a más del 30% de los Condóminos, así como tampoco en ningún caso, el Administrador o los miembros del Comité (sic) Vigilancia, podrán representar a condómino alguno, lo que quedará debidamente especificado en el Reglamento del Condominio;
+Las reuniones de la Asamblea, ya sea ordinarias o extraordinarias, en su modalidad presencial se llevarán a cabo en el domicilio del condominio, salvo casos de fuerza mayor o bien por ser necesario y poder facilitar la participación de los interesados.
 
-IV.- Las resoluciones de la asamblea se tomaran por mayoría simple de votos de los presentes, excepto en los casos en que la presente Ley y el Reglamento del Condominio, sin contravenir a esta, prescriban una mayoría especial;
+En las reuniones de la Asamblea, ya sea ordinarias o extraordinarias, en su modalidad a distancia, se implementará el uso de cualquier plataforma digital que facilite y permita proyectar la imagen del condómino en tiempo real, así como hacer uso de la voz para efecto de poder emitir su votación sin la necesidad de un apoderado legal que participe físicamente en la reunión, sirviendo de prueba la grabación.
 
-V.- Los nombramientos del Administrador, del comité de administración, en su caso, y del Comité de Vigilancia, serán hasta por un año y sólo podrán ser reelectos hasta por dos veces consecutivas para el periodo inmediato, salvo que exista la unanimidad de los Condóminos en Condominios que no excedan de 20 Unidades de Propiedad Exclusiva. Se exceptúa de lo anterior los casos de administración externa;
+Las reuniones de la Asamblea en su modalidad a distancia se regirán por lo siguiente:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+a) El condómino deberá solicitar su registro de manera previa vía correo electrónico a la cuenta de la Administración del Condominio, a la que enviarán los requisitos que se requieran para poder participar.
 
-VI.- En los casos de que solo un condómino represente más del 50% del indiviso del Condominio y los Condóminos restantes no asistan a la asamblea, previa notificación de la convocatoria de acuerdo a esta Ley, la asamblea podrá celebrarse en los términos de los artículos 29 y 30;
+b) El condómino deberá acusar la recepción vía correo de un link y contraseña para acceder a la plataforma.
 
-VII.- Cuando un solo condómino represente más del 30% del indiviso del Condominio, se requerirá para que sean válidos los acuerdos cuando menos, la mitad de los votos que representen el restante de dicho indiviso. Cuando no se llegue a acuerdo válido, el condómino mayoritario o el grupo minoritario podrán recurrir a la mediación, o someter la discrepancia a resolución arbitral o judicial. Se exceptúan los casos de elección de Administrador o miembros de comités de administración y vigilancia, en donde se tomarán los acuerdos por simple mayoría de votos en la asamblea;
+c) El condómino deberá proyectar su imagen en tiempo real.
 
-VIII.- El secretario transcribirá el acta de la asamblea en el libro que para tal efecto haya autorizado la asamblea de Condóminos. Las actas, por su parte, serán autorizadas, y en este orden, por el propio secretario, el presidente de debates de la asamblea, los escrutadores y los miembros del comité de vigilancia en caso de que asistan, y en su caso por notario público;
+d) El condómino deberá solicitar el uso de la voz ya sea por medio del chat de la plataforma o levantando la mano según la plataforma que se utilice.
 
-IX.- El secretario tendrá siempre a la vista de los Condóminos, el libro de actas e informará por escrito a cada uno las resoluciones que adopte la asamblea.
+e) Los micrófonos deberán permanecer apagados durante todo el tiempo que dure la reunión de la Asamblea, a fin de mantener la conexión y la calidad del sonido.
 
-Sin perjuicio de las disposiciones aplicables a las Asambleas de Condóminos, éstos podrán acordar otros mecanismos y formas para tomar decisiones y acuerdos para la mejor administración de los Condominios.
+f) Se habilitará el micrófono únicamente cuando haga uso de la voz.
 
-Si el acuerdo se dicta para modificar la Escritura Constitutiva del Condominio y/o el Reglamento del mismo, el acta se protocolizará ante notario público para que proceda a su inscripción en el Registro Público de la Propiedad;
+g) No podrá atacar de nulidad o invalidez la reunión de la Asamblea en cuestión si por razones de conectividad se desconecte de la plataforma y se pierde la señal de forma intermitente o total.
 
-X.- Para los efectos de las votaciones en las Asambleas, podrán prever el voto electrónico y comunicaciones de Condóminos extranjeros o nacionales que no se encuentren en el lugar del Condominio, siempre que tal medio se someta en su interpretación y aplicación a los principios de neutralidad tecnológica, autonomía de la voluntad, compatibilidad internacional y equivalencia funcional del mensaje de datos en relación con la información documentada en medios no electrónicos y de la firma electrónica en relación con la firma autógrafa.
+h) Se solicitará la anuencia del condómino para que la reunión de la Asamblea y su participación sea grabada y se anexe la memoria digital al apéndice de la minuta que para tales efectos se levante.
 
-No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la razón de que esté contenida en un mensaje de datos.
+i) Las reuniones de la Asamblea serán celebradas en el horario establecido para tales efectos, de acuerdo a la zona geográfica en la que se ubica el condominio.
+
+j) Durante el desarrollo de las reuniones de la Asamblea se seguirán los lineamientos del técnico de la plataforma y moderador, quién será la persona que atenderá la participación de los condóminos conectados a la plataforma, y habilitará el micrófono conforme al turno que le corresponda entre los participantes presenciales y a distancia, para que hagan uso de la voz, así como verifique su votación y comunique la misma a los escrutadores designados.
+
+k) La lista de asistencia será firmada por el escrutador que designe la Asamblea previamente a revisar y constatar la participación del condominio mediante la proyección de su imagen.
+
+VI. El valor del voto de cada condómino, ya sea que su participación en la reunión de la Asamblea sea presencial o a distancia, será igual al porcentaje del indiviso que le corresponde y que figure en la Escritura Constitutiva y en el instrumento público correspondiente en que conste su propiedad.
+
+En los casos de elección, reelección o remoción del Administrador, de los integrantes de la administración o del Comité de Vigilancia, a cada unidad de propiedad exclusiva habitacional corresponderá un sólo voto, inclusive aquellos de uso mixto que cuenten con unidades para su uso habitacional o habitacional-turístico. Se exceptúan los condominios por uso comercial, de oficinas, de almacenamiento, industrial y estacionamiento, en donde la votación será de acuerdo con lo dispuesto en el párrafo anterior.
+
+VII. La votación será nominal y directa. El Reglamento del Condominio podrá facultar la representación mediante carta poder firmada ante dos testigos, o en el caso de personas morales que sean propietarias y sean representados en una reunión de la Asamblea deberán exhibir el testimonio o la copia certificada de un poder otorgado en escritura pública. En ningún caso una sola persona podrá representar a más del 20% de los condóminos, así como tampoco en ningún caso, el Administrador o los miembros del Comité de Vigilancia, podrán representar a condómino alguno, lo que quedará debidamente especificado en el Reglamento del Condominio.
+
+VIII. Las resoluciones de la Asamblea se tomarán por mayoría simple de votos de los presentes en la reunión celebrada, excepto en los casos en que la presente Ley, la Asamblea y el Reglamento del Condominio, sin contravenir a ésta, prescriban una mayoría especial.
+
+Cuando un sólo condómino represente el 20% o más del proindiviso, se requerirá, además, el voto a favor de la mayoría del porcentaje restante para que sean válidos los acuerdos.
+
+IX. Los nombramientos del Administrador, del Comité de Administración, en su caso, y del Comité de Vigilancia, serán hasta por un año y sólo podrán ser reelectos hasta por dos veces consecutivas para el periodo inmediato, salvo que exista la unanimidad de los condóminos en condominios que no excedan de 20 Unidades de Propiedad Exclusiva. Se exceptúa de lo anterior los casos de administración externa.
+
+X. En los casos de que solo un condómino represente más del 50% del indiviso del condominio y los condóminos restantes no asistan a la reunión de la Asamblea, previa notificación de la convocatoria de acuerdo con esta Ley, la reunión de la Asamblea podrá celebrarse en los términos de los artículos 29 y 30 de esta ley.
+
+XI. Cuando un solo condómino represente más del 20% del indiviso del Condominio, se requerirá para que sean válidos los acuerdos cuando menos, la mitad de los votos que representen el restante de dicho indiviso. Cuando no se llegue a acuerdo válido, el condómino mayoritario o el grupo minoritario podrán recurrir a la mediación, o someter la discrepancia a resolución arbitral o judicial. Se exceptúan las casos de elección de Administrador o miembros de comités de administración y vigilancia, en donde se tomarán los acuerdos por simple mayoría de votos en la Asamblea.
+
+XII. El secretario transcribirá el acta de la reunión de la Asamblea en el libro que para tal efecto haya autorizado la Asamblea. Las actas, por su parte, serán autorizadas, y en este orden, por el propio secretario, el presidente de debates de la asamblea, los escrutadores y los miembros del comité de vigilancia en caso de que asistan, y en su caso por notario público.
+
+Sin perjuicio de lo anterior, cuando la Asamblea o el Comité de Vigilancia o la Administración cuenten con la asistencia de un moderador o asesor para el desahogo de la reunión de la Asamblea y redacción de la minuta, tanto el Presidente de la Asamblea como el Secretario, cuidarán que la redacción de la minuta contenga los puntos de acuerdo tomados en la reunión de la Asamblea.
+
+XIII. El secretario tendrá siempre a la vista de los Condóminos, el libro de actas e informará por escrito a cada uno las resoluciones que adopte la Asamblea.
+
+Sin perjuicio de las disposiciones aplicables a las reuniones de la Asamblea, ésta podrá acordar otros mecanismos y formas para tomar decisiones y acuerdos para la mejor administración de los condominios.
+
+Si el acuerdo se dicta para modificar la Escritura Constitutiva del Condominio y/o el Reglamento del mismo, el acta se protocolizará ante notario público para que proceda a su inscripción en el Registro Público de la Propiedad y del Comercio, anexando a la misma la minuta que se levante, la lista de asistencia, la memoria de la grabación de la reunión de la Asamblea, la impresión del correo electrónico de su inscripción y la respuesta a dicho correo hecho por el Administrador y/o su personal.
+
+XIV. Para los efectos de las votaciones en las reuniones de la Asamblea, podrán prever el voto electrónico y comunicaciones de Condóminos extranjeros o nacionales que no se encuentren en el lugar del Condominio, siempre que tal medio se someta a los lineamientos establecidos para la celebración de las reuniones de la Asamblea en su modalidad a distancia.
 
 Para efectos de votos de los Condóminos y comunicaciones diversas que se contemplen en el acta constitutiva del régimen o en el Reglamento respectivo, podrán emplearse los medios electrónicos, ópticos o cualquier otra tecnología, incluyendo las videoconferencias.
 
-XI.- Cuando por la importancia del o los asuntos a tratar en la asamblea se considere necesario, el Administrador, el comité de vigilancia o cuando menos el 25% de los Condóminos, podrán solicitar la presencia de un notario público; y,
+XV. Cuando por la importancia del o los asuntos a tratar en la reunión de la Asamblea se considere necesario, el Administrador, el Comité de Vigilancia o cuando menos el 25% de los Condóminos, podrán solicitar la presencia de un notario público.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
-
-XII.- Los Condóminos o sus representantes, podrán asistir a las Asambleas, acompañados por abogados, contadores públicos y/o intérpretes traductores, pero solo uno de ellos podrá hacer uso de la voz ante la Asamblea, por lo que en el momento del pase de lista de asistencia, el condómino deberá hacer la designación respectiva.
+XVI. Los Condóminos o sus representantes, podrán asistir a las reuniones de la Asamblea ya sea de manera presencial o a distancia, acompañados por abogados, contadores públicos y/o intérpretes traductores, por lo que indistintamente la modalidad que se opte para la participación en la reunión de la Asamblea, solo uno de ellos podrá hacer uso de la voz ante la Asamblea, haciendo el condómino al momento del pase de lista, la designación respectiva.
 
 ###### ARTÍCULO 29.
 
@@ -467,9 +537,13 @@ En caso de tercera o ulterior convocatoria, la asamblea se declarará legalmente
 
 Las convocatorias para la celebración de Asambleas, deberán cumplir con los siguientes requisitos:
 
-I.- La Convocatoria deberá indicar el tipo de Asamblea de que se trate, lugar en donde se realizará dentro del Condominio, o en su caso el establecido por el Reglamento pero en ningún caso fuera del municipio en que se ubica el Condominio, así como la fecha y hora en que se celebrará, incluyendo el orden del día y quien convoca; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-II.- Entre la primera Convocatoria y la celebración de la Asamblea, deberá mediar el plazo mínimo que al efecto fije el Reglamento del Condominio o en su defecto, dicho plazo no será menor de quince días naturales. Entre la segunda convocatoria y la celebración de la asamblea respectiva, deberá mediar un plazo mínimo de 24 horas y entre la tercera o ulterior convocatoria, diez minutos de anticipación.
+I.- La convocatoria deberá indicar el tipo de reunión de la Asamblea de que se trate, la modalidad, los requisitos a cumplir por los participantes, el lugar en donde se realizará dentro del condominio, o en su caso el establecido por el Reglamento, pero en ningún caso fuera del municipio en que se ubica el condominio, así como la fecha y hora en que se celebrará, incluyendo el orden del día y quien convoca;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+II.- Entre la primera convocatoria y la celebración de la reunión de la Asamblea, deberá mediar el plazo mínimo que al efecto fije el Reglamento del Condominio o en su defecto, dicho plazo no será menor de quince días naturales. Entre la segunda convocatoria y la celebración de la reunión de la Asamblea respectiva, deberá mediar un plazo mínimo de 30 minutos y entre la tercera o ulterior convocatoria, diez minutos de anticipación.
 
 > <small>(DEROGADO, P.O. 22 DE MARZO DE 2011)</small>
 
@@ -503,7 +577,9 @@ IV.- Establecer y modificar las tasas moratorias a cargo de los Condóminos, en 
 
 V.- En los términos de las fracciones anteriores, nombrar y remover a los miembros del comité de vigilancia;
 
-VI.- Resolver sobre la clase y monto de la garantía que deba otorgar el Administrador respecto al fiel desempeño de su misión, y al manejo de los fondos a su cuidado, tanto para el mantenimiento y administración, cuanto al de reserva para reposición de implementos;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+VI.- Resolver sobre la clase y monto de la garantía que deba otorgar el Administrador respecto al fiel desempeño de su misión y al manejo de los fondos a su cuidado, tanto para el mantenimiento y administración como para el de reserva para reposición de implementos; pudiendo ser eximido el Administrador de exhibir fianza, si así lo aprueba la Asamblea por una mayoría simple;
 
 VII.- Examinar y, en su caso, aprobar los estados de cuenta que someta el Administrador a su consideración, así como el informe anual de actividades que rinda el comité de vigilancia;
 
@@ -517,13 +593,17 @@ XI.- Adoptar las medidas conducentes sobre los asuntos de interés común que no
 
 XII.- Las demás que le confieren la presente Ley, el Reglamento del Condominio, la Escritura Constitutiva, y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 32.
 
-La falta de pago por parte de los Condóminos de las cuotas para el fondo de mantenimiento y administración, y para el fondo de reserva, así como las cuotas extraordinarias, suspenderá su derecho a voto en tanto subsista la falta de pago.
+La falta de pago por parte de los condóminos de las cuotas para el fondo de mantenimiento y administración y para el fondo de reserva, así como las cuotas extraordinarias, intereses moratorios, gastos de abogado o el pago de alguna penalidad establecida a favor del condominio, suspenderá su derecho a voto en tanto subsista la falta de pago.
 
 Sin embargo, el condómino cuyo derecho de voto esté suspendido, su representante, o en su caso, el ocupante debidamente facultado, podrá asistir libremente a las Asambleas y emitir su opinión respecto de los asuntos que se ventilen en las mismas.
 
-En este supuesto, el indiviso que corresponda a la Unidad de Propiedad Exclusiva cuyo propietario u ocupante haya incumplido, no será considerado para los efectos de la instalación de la asamblea.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+En este supuesto, el indiviso que corresponda a la Unidad de Propiedad Exclusiva cuyo propietario u ocupante haya incumplido, no será considerado para los efectos de la instalación de la Asamblea, ni podrá tener derecho a voto.
 
 ### CAPÍTULO II. Del Nombramiento y Facultades de los Administradores
 
@@ -537,7 +617,9 @@ Para desempeñar el cargo de Administrador deberá acreditar experiencia en admi
 
 En el supuesto de que los Condóminos decidan llevar a cabo su auto administración, el Administrador será electo por la Asamblea de entre los propios Condóminos, durando en el cargo, el tiempo que la propia Asamblea determine, sin generar el desempeño de dicha función en ningún caso, derechos de carácter laboral.
 
-Cuando un condómino sea designado Administrador, miembro del comité de administración o del comité de vigilancia, deberá acreditar estar al corriente en el pago de sus cuotas de mantenimiento y administración y las del fondo de reserva, desde el inicio y durante la totalidad de su gestión.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Cuando un condómino sea designado Administrador, miembro del comité de administración o del comité de vigilancia, deberá acreditar estar al corriente de las cuotas ordinarias, el fondo de reserva, así como las cuotas extraordinarias, intereses moratorios, gastos de abogado o el pago de alguna penalidad establecida a favor del condominio, desde el inicio y durante la totalidad de su gestión.
 
 ###### ARTÍCULO 35.
 
@@ -567,7 +649,9 @@ VII.- Recaudar de los Condóminos lo que a cada uno corresponda aportar para el 
 
 VIII.- Efectuar los gastos de mantenimiento y administración del Condominio, con cargo al fondo correspondiente, en los términos del Reglamento del Condominio;
 
-IX.- Otorgar recibo a nombre del Condominio o del Administrador que reúna los requisitos que establece el artículo 29-A del Código Fiscal de la Federación, a cada uno de los Condóminos por las cuotas que aporten para el fondo de mantenimiento y administración, así como para el fondo de reserva u otro concepto; en estos recibos se expresarán, en su caso, los saldos en liquidación a cargo de cada condómino;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+IX.- Otorgar recibo a nombre del Condominio o del Administrador, a cada uno de los Condóminos, por las cuotas ordinarias, del fondo de mantenimiento y administración, del fondo de reserva, así como las cuotas extraordinarias, intereses moratorios, gastos de abogado o el pago de alguna penalidad establecida a favor del Condominio, en términos de la legislación aplicable. En estos recibos se expresarán, en su caso, los saldos en liquidación a cargo de cada condómino;
 
 X.- Entregar de manera mensual, bimestral o cuando así lo determine la Asamblea a cada condómino, recabando constancia de quien lo reciba, un estado de cuenta que muestre:
 
@@ -579,9 +663,13 @@ c) Saldo del fondo de mantenimiento y administración y fines para el que se des
 
 d) Saldo de las cuentas bancarias, de los recursos en inversiones, con mención de intereses, que obren en poder del Administrador;
 
-e) La información antes señalada deberá ser enviada vía de mensajes de datos electrónicos y comunicaciones de condóminos extranjeros y nacionales, siempre que tal medio se someta a su interpretación y aplicación a los principios de neutralidad tecnológica, autonomía de la voluntad, compatibilidad internacional y equivalencia funcional del mensaje de datos en relación con la información documentada en medios de comunicación no electrónicos que para tal efecto hayan señalado a la administración del condominio;
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-El condómino podrá formular hasta antes de ser aprobado en su caso por la Asamblea, las observaciones u objeciones que considere pertinentes, en relación a los documentos señalados en el punto que antecede. Transcurrido dicho plazo se considera que está de acuerdo con la misma, a reserva de la aprobación de la asamblea, en los términos de la fracción VII del artículo 31;
+e) La información respecto a las resoluciones legalmente acordadas en las reuniones de la Asamblea, así como de la ejecución de los acuerdos tomados en la misma;
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+f) Los condóminos tendrán un plazo de 30 días naturales posteriores a la celebración de la reunión de la Asamblea ya sea ordinaria o extraordinaria, para remitir por escrito sus observaciones y objeciones respecto de la información que les haya sido enviada ya sea de manera física o por datos electrónicos. Si transcurrido dicho plazo, el Administrador no recibiera escrito alguno, se entenderá totalmente consentida, a reserva de la aprobación de la asamblea en los términos de la fracción VII del artículo 31;
 
 XI.- Convocar a asamblea de conformidad con lo dispuesto por los artículos 29 y 30 de esta Ley;
 
@@ -593,7 +681,13 @@ XIV.- Inscribir la Escritura Constitutiva del régimen, así como las escrituras
 
 XV.- En relación con los bienes e intereses comunes del Condominio, el Administrador tendrá facultades generales para pleitos, cobranzas y actos de administración de bienes, incluyendo a aquellas que requieran cláusula especial conforme a la Ley, para articular y absolver posiciones, para formular denuncias y querellas, desistir y otorgar perdón y nombrar abogados con las facultades específicas que en cada caso se requieran.
 
-De manera mancomunada con el Presidente del Comité de Vigilancia, aperturar cuentas de cheques, librar cheques y cuando así lo acuerde la Asamblea, designar firmas autorizadas para el manejo de dichas cuentas;
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Sin perjuicio de lo anterior, el Administrador del Condominio previo consentimiento del Comité de Vigilancia otorgado por escrito, podrá delegar poderes para pleitos y cobranzas a favor de los abogados para atender algún litigio o situación en la que se requiera la intervención de los profesionales.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Asimismo, podrá de manera mancomunada con el Presidente del Comité de Vigilancia, aperturar cuentas de cheques y librar cheques y, cuando así lo acuerde la Asamblea, designar firmas autorizadas para el manejo de dichas cuentas.
 
 XVI.- Cumplir con lo establecido en la Ley de Protección Civil y en su Reglamento. Las medidas que adopte y las disposiciones que emita el Administrador dentro de sus funciones y con base en la ley y el Reglamento del Condominio, serán obligatorias para todos los Condóminos. La Asamblea, por la mayoría que fije el Reglamento del Condominio, podrá modificar o revocar dichas medidas y disposiciones del Administrador;
 
@@ -629,47 +723,99 @@ En la segunda Junta General de Administradores, que no podrá celebrarse en un l
 
 ### CAPÍTULO IV. Del Comité de Vigilancia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 40.
 
-El Comité de Vigilancia será electo por la asamblea y durarán en su encargo hasta un año con posibilidad de ser reelegidos, desempeñándose en forma honorífica, y sus miembros deberán acreditar estar al corriente en el pago de sus cuotas de mantenimiento y administración y las de reserva, desde el inicio y durante la totalidad de su gestión.
+El Comité de Vigilancia será conformado por cinco propietarios o por sus representantes legales debidamente acreditados mediante poder otorgado ante Notario Público, los cuales serán electos por la Asamblea y durarán en su encargo hasta un año con posibilidad de ser reelegidos, desempeñándose en forma honorífica.
 
-La elección del Comité de Vigilancia General del Condominio Maestro, se regulará en los mismos términos del párrafo anterior. Este tipo de organización para la administración condominal puede ser aplicado también a cualquier Condominio cuando así lo determine la Asamblea del Condominio respectivo.
+Para ser miembro del Comité de Vigilancia se deberá acreditar estar al corriente en el pago de sus cuotas de mantenimiento, fondo de reserva, intereses moratorios y cualquier otro concepto que se haya acordado contribuir, desde el inicio y durante la totalidad de su gestión. Los postulantes deberán ser personas que preferentemente residan en el Condominio o que permanezcan con mayor frecuencia en el inmueble y que no tengan un conflicto de intereses con el Condominio.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+Por lo anterior no podrán postularse ni ser miembros del Comité de Vigilancia:
 
-El Comité de Vigilancia, podrá constituirse por un presidente, un secretario y los vocales que estime determinar la Asamblea del Condominio. En este último caso, una minoría que represente por lo menos el 25% del número total de Condóminos tendrá derecho a designar a uno de los miembros del comité.
+a) Aquellas personas que presten servicios de manera directa o indirecta del Condominio.
 
-El Comité de Vigilancia tendrá las siguientes funciones y obligaciones;
+b) Un Condómino que detente el 30% del proindiviso.
 
-I.- Cerciorarse de que el Administrador cumpla con los acuerdos de la Asamblea de Condóminos respectiva;
+c) Cualquier otro impedimento que así establezca la Asamblea.
 
-II.- Supervisar que el Administrador lleve a cabo el cumplimiento de sus funciones;
+La elección del Comité de Vigilancia General del Condominio Maestro, se regulará en los mismos términos del párrafo anterior. Este tipo de organización para la administración condominal puede ser aplicado también a cualquier condominio cuando así lo determine la Asamblea del condominio respectivo.
 
-III.- Vigilar la contratación y terminación de servicios profesionales convenidos por el Administrador, cuando así lo hubiese acordado la Asamblea;
+El Comité de Vigilancia, podrá constituirse por un presidente, un secretario, un tesorero y dos vocales que estime determinar la Asamblea. En este último caso, una minoría que represente por lo menos el 25% del número total de Condóminos tendrá derecho a designar a uno de los miembros del comité.
 
-IV.- En su caso, dar su conformidad para la realización de las obras a que se refiere el artículo 26 fracción I;
+El Comité de Vigilancia, no tendrá voto de calidad para resolver las diferencias o controversias que se susciten en las reuniones de la Asamblea.
 
-V.- Verificar y dictaminar los estados de cuenta que debe rendir el Administrador ante la asamblea;
+Los integrantes del Comité de Vigilancia tendrán las siguientes funciones y obligaciones generales:
 
-VI.- Constatar y supervisar la inversión del fondo de reserva;
+El Presidente:
 
-VII.- Dar cuenta a la Asamblea de sus observaciones sobre la administración del Condominio;
+a) Convocar las reuniones de trabajo del Comité y la Administración.
 
-VIII.- Coadyuvar con el Administrador en observaciones a los Condóminos sobre el cumplimiento de sus obligaciones;
+b) Presidir las reuniones de la Asamblea en cualquiera de su modalidad.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+c) Coordinar los trabajos del Comité de Vigilancia.
 
-IX.- Convocar a Asamblea de Condóminos, cuando éstos lo hayan requerido al Administrador y él no lo haga dentro de los diez días siguientes a la petición;
+El Secretario:
 
-Asimismo, cuando a su juicio sea necesario informar a la Asamblea de irregularidades en que haya incurrido el Administrador, con notificación a éste para que comparezca a la asamblea relativa;
+a) Vigilar que el Condominio mantenga un archivo de todas las reuniones de la Asamblea, Contratos, y demás documentación relativas al mismo.
 
-X.- Solicitar la presencia de un representante del Ayuntamiento correspondiente o de un notario público en los casos previstos en esta Ley.
+b) Elaborar las minutas de las Juntas de Comité con la Administración.
 
-El Presidente del Comité de Vigilancia, de manera mancomunada con el Administrador, podrá aperturar cuentas de cheques, librar cheques y cuando así lo acuerde la Asamblea, designar firmas autorizadas para el manejo de dichas cuentas; y
+c) Presidir la Asamblea en caso de ausencia del Presidente de la Asamblea.
 
-XI.- Las demás que se deriven de esta Ley de la aplicación que otras impongan deberes a su cargo, así como de la Escritura Constitutiva y de Reglamento del Condominio.
+d) Revisar el contenido de las convocatorias y las minutas de las reuniones de la Asamblea.
+
+El Tesorero:
+
+a) Mantener actualizados los libros contables y declaraciones de impuestos del Condominio.
+
+b) Revisar los estados de cuenta del Condominio.
+
+c) Participar en las reuniones de trabajo con el contador que lleve el registro contable del Condominio.
+
+d) Verificar que se emitan los recibos de las cuotas de pago a favor del Condominio.
+
+e) Presidir la Asamblea en caso de ausencia del Presidente y del Secretario.
+
+Los vocales:
+
+a) Suplir la ausencia de alguno de los miembros del Comité de Vigilancia.
+
+b) Participar en las reuniones que convoque el Comité de Vigilancia.
+
+Sin perjuicio de lo anterior y de manera colegiada el Comité de Vigilancia deberá:
+
+I. Cerciorarse de que el Administrador cumpla con los acuerdos de la reunión de la Asamblea que corresponda;
+
+II. Supervisar el cumplimiento de las funciones del Administrador;
+
+III. Vigilar la contratación y terminación de servicios profesionales convenidos por el Administrador, cuando así lo hubiese acordado la Asamblea;
+
+IV. En su caso, dar su conformidad para la realización de las obras a que se refiere el artículo 26 fracción I;
+
+V. Verificar y dictaminar los estados de cuenta que debe rendir el Administrador ante la Asamblea;
+
+VI. Constatar y supervisar la inversión del fondo de reserva;
+
+VII. Dar cuenta a la Asamblea de sus observaciones sobre la administración del Condominio;
+
+VIII. Coadyuvar con el Administrador en observaciones a los Condóminos sobre el cumplimiento de sus obligaciones;
+
+IX. Convocar a reunión de la Asamblea, cuando los condóminos lo hayan requerido al Administrador y él no lo haga dentro de los diez días siguientes a la petición.
+
+Asimismo, cuando a su juicio sea necesario informar a la Asamblea de irregularidades en que haya incurrido el Administrador, con notificación a éste para que comparezca a la Asamblea relativa;
+
+X. Solicitar la presencia de un representante del Ayuntamiento correspondiente o de un Notario Público en los casos previstos en esta Ley.
+
+El Presidente del Comité de Vigilancia, de manera mancomunada con el Administrador, podrá aperturar cuentas de cheques, librar cheques y cuando así lo acuerde la Asamblea, designar firmas autorizadas para el manejo de dichas cuentas, y
+
+XI. Las demás que se deriven de esta Ley, de otras disposiciones que impongan deberes a su cargo, así como de la Escritura Constitutiva y del Reglamento del Condominio.
+
+El Presidente del Comité de Vigilancia deberá convocar a una junta cuando alguno de los miembros deje de cumplir con el pago de cuotas de mantenimiento, intereses, sanciones, fondos de reserva o cualquier otro concepto, o bien, se encuentre en alguno de los supuestos que la Ley establece para no ser miembro de dicho Comité, o haya vendido su propiedad. Asimismo, deberá tomar las medidas pertinentes y, en su caso, por mayoría de votos, revocar el cargo del miembro de dicho Comité, cuando deje de cumplir con los requisitos para ser miembro o por imposibilidad de continuar con el cargo, a fin de nombrar a otro miembro que realice dichas funciones.
+
+Cuando un miembro del Comité de Vigilancia, por alguna razón no pueda seguir realizando su función, por haber vendido su unidad o bien, por así convenir a sus intereses, lo deberá comunicar por escrito con treinta días de anticipación a los demás miembros del Comité para que éste realice las acciones conducentes.
+
+En caso que se presente la falta de tres miembros del Comité de Vigilancia, el Administrador del Condominio, en un término no mayor de treinta días naturales, convocará a una reunión de la Asamblea, a fin de nombrar o designar nuevos miembros.
 
 ## TÍTULO CUARTO. DE LAS OBLIGACIONES Y DERECHOS DERIVADOS DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -731,7 +877,9 @@ El Reglamento del Condominio y sus modificaciones deberán formar parte de la Es
 
 La contribución de los condóminos a la constitución del Fondo de Mantenimiento y Administración y el Fondo de Reserva, deberá efectuarse de la siguiente manera:
 
-I.- Las cuotas de mantenimiento a que se refiere el párrafo anterior no estarán sujetas a compensación, excepciones personales, ni a ningún otro supuesto que pueda excusar su pago;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+I.- Las cuotas de mantenimiento a que se refiere el párrafo anterior no estarán sujetas a compensación, excepciones personales, ni a ningún otro supuesto que pueda excusar su pago y serán imprescriptibles;
 
 II.- Dicho pago podrá dividirse en mensualidades, que habrán de cubrirse por adelantado, o como lo decida la Asamblea General. El monto de estos fondos se integrará en proporción al derecho de copropiedad que corresponda a cada condómino, en relación a lo establecido conforme el artículo 9, fracción VI de esta ley. Las primeras aportaciones para la constitución de ambos fondos, serán determinadas en el Reglamento del Condominio;
 
@@ -741,13 +889,15 @@ IV.- La Asamblea de Condóminos, en el caso de áreas de propiedad común, que s
 
 En el caso de las fracciones III y IV, la asamblea determinará anualmente el porcentaje de los frutos o utilidades obtenidas que deberán aplicarse a cada uno de los fondos del Condominio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 43.
 
-Las cuotas para gastos comunes que se generen a cargo de cada condómino y que no cubran oportunamente en las fechas y bajo las formalidades establecidas en Asamblea o en el Reglamento del Condominio de que se trate, causaran intereses al tipo que fije el mismo Reglamento o en su caso la Asamblea, y no serán capitalizables; independientemente de las sanciones a que se hagan acreedores los Condóminos por motivo de su incumplimiento en el pago.
+Las cuotas para gastos comunes que se generen a cargo de cada condómino y que no cubran oportunamente en las fechas y bajo las formalidades establecidas por la Asamblea o en el Reglamento del Condominio de que se trate, causaran intereses al tipo que fije el mismo Reglamento o en su caso la Asamblea, y no serán capitalizables; independientemente de las sanciones y gastos de abogados a que se hagan acreedores los Condóminos por motivo de su incumplimiento en el pago.
 
-Trae aparejada ejecución en la vía ejecutiva civil, el estado de cuenta que refleje los adeudos existentes, intereses moratorios y/o pena convencional que estipule el Reglamento del Condominio, si va suscrita por el Administrador y el presidente del comité de vigilancia, acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por notario público del acta de asamblea relativa y/o del Reglamento del Condominio en su caso, en que se hayan determinado las cuotas a cargo de los Condóminos para el fondo de mantenimiento y administración y para el fondo de reserva. Esta acción sólo podrá ejercerse cuando existan tres cuotas ordinarias o una extraordinaria pendientes de pago.
+Los pagos que realicen los Condóminos serán aplicados en forma cronológica, en el orden siguiente, pare cubrir las multas, intereses, sanciones, gastos de abogados y cuotas de mantenimiento ordinarias, cuotas extraordinarias y fondo de reserva.
+
+Trae aparejada ejecución en la vía ejecutiva civil, el estado de cuenta que refleje los adeudos existentes, intereses moratorios y/o pena convencional que estipule el Reglamento del Condominio, si va suscrita por el Administrador y el Presidente del Comité de Vigilancia, acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por Notario Público del acta de la reunión de la Asamblea relativa y/o del Reglamento del Condominio en su caso, en que se hayan determinado las cuotas a cargo de los condóminos para el fondo de mantenimiento y administración y para el fondo de reserva. Esta acción solo podrá ejercerse cuando existan tres cuotas ordinarias o una extraordinaria pendiente de pago.
 
 El Reglamento del Condominio podrá establecer que, cuando algún condómino incurra en mora, el Administrador distribuirá entre los restantes Condóminos el importe del adeudo causado y que se siga causando, en proporción al valor de sus propiedades, hasta la recuperación del adeudo, pudiendo preverse diversas penalizaciones para hacer exigible el pago. Al efectuarse la recuperación de dicho adeudo el Administrador reembolsará a los afectados por dicho cargo las cantidades que hubiesen aportado y los intereses en la parte proporcional que les corresponda.
 
@@ -763,9 +913,11 @@ El ejercicio de esta acción será resuelto en la asamblea extraordinaria de Con
 
 Si un ocupante no propietario incumple las obligaciones a su cargo o comete violaciones al Reglamento del Condominio, el Administrador formulará demanda contra éste y contra el condómino propietario, en los términos del artículo anterior.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 46.
 
-Cuando se celebre un contrato de compraventa en relación a una Unidad de Propiedad Exclusiva, el notario público que elabore la escritura respectiva deberá exigir a la parte vendedora una constancia de no adeudo, entre otros, del pago de las cuotas de mantenimiento y administración y el de reserva, debidamente firmada por el Administrador.
+Cuando se celebre un contrato de compraventa en relación a una Unidad de Propiedad Exclusiva, el notario público que elabore la escritura respectiva deberá exigir a la parte vendedora una constancia de no adeudo, entre otros, del pago de las cuotas de mantenimiento y administración y el de reserva, debidamente firmada por el Administrador, así como los Comprobantes Fiscales Digitales por Internet de los últimos 3 pagos en concepto de cuotas de mantenimiento.
 
 ###### ARTÍCULO 47.
 
@@ -789,13 +941,23 @@ Todo interesado podrá obtener del Administrador una liquidación de los adeudos
 
 Para proceder legalmente se estará a lo dispuesto en el segundo párrafo del artículo 48 de esta Ley.
 
-## TÍTULO QUINTO. DE LOS CONDOMINIOS DESTINADOS A LA VIVIENDA DE INTERES SOCIAL Y/O POPULAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+## TÍTULO QUINTO. DE LOS CONDOMINIOS DE USO MIXTO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 50.
 
-(DEROGADO, P.O. 22 DE MARZO DE 2011)
+En los Condominios de uso mixto que por su diseño y destino existan áreas habitacionales y comerciales, la administración deberá elaborar un presupuesto operativo para el mantenimiento de las áreas habitacionales y un presupuesto operativo para las áreas comerciales.
+
+Los propietarios de las áreas comerciales deberán restringir a sus clientes, usuarios y a su personal, el uso de las áreas privativas y de entretenimiento del Condominio.
+
+No obstante a lo anterior, los propietarios de las áreas comerciales podrán hacer uso de las áreas privativas o de entretenimiento sin que tengan una propiedad en el área residencial, siempre que paguen y se encuentren al corriente de las cuotas que establezca la Asamblea para los Condominios de Uso Mixto.
+
+El pago de cuotas y fondo de reserva que paguen los condóminos de las áreas comerciales deberán calcularse en razón del presupuesto operativo que la administración elabore para dichas áreas y conforme a su proindiviso.
 
 ###### ARTÍCULO 51.
 
@@ -911,7 +1073,15 @@ IV.- Multa de 10 a 150 días de salario mínimo general vigente en el Estado, el
 
 Las sanciones señaladas en el artículo que antecede, serán impuestas y valoradas por la Asamblea General, la cual como órgano supremo, las harán valer mediante la vía ejecutiva civil y seguirá el procedimiento a que se refiere el artículo 43 de esta Ley. A dicha Asamblea también será convocado el condómino infractor, a fin de que exprese lo que a su derecho convenga.
 
-Dicha resolución deberá ser aprobada mediante el voto de más del 50% del proindiviso del condominio y será debidamente notificada dentro de los cinco días siguientes.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+Dicha resolución deberá ser aprobada por mayoría simple y quedarán debidamente notificados desde el momento y será debidamente notificada dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 69.
+
+El Administrador del condominio, tendrá la facultad de solicitar información conforme lo establece el ordenamiento mas no podrá compartir ninguna información relativa a los condóminos que pueda ser considerada sensible o personal a excepción que exista consentimiento por escrito o bien en los casos que así lo prevea la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -1000,3 +1170,9 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 156 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 429 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 1o. DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
