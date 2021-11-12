@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-victimas-para-el-estado-de-baja-california-131938"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-29"
-last_updated: "2019-03-22"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección III al Número 49 del Periódico Oficial del Estado de Baja California, el lunes 29 de octubre de 2018.
 
@@ -479,9 +479,17 @@ V.- Servicios de análisis médicos, laboratorios e imágenes diagnósticas;
 
 VI.- Transporte y ambulancia;
 
-VII.- Servicios de atención mental en los casos en que, como consecuencia de la comisión del delito o de la violación a sus derechos humanos, la persona quede gravemente afectada psicológica y/o psiquiátricamente, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-VIII.- Servicios odontológicos reconstructivos por los daños causados como consecuencia del delito o la violación a los derechos humanos.
+VII.- Servicios de atención mental en los casos en que, como consecuencia de la comisión del delito o de la violación a sus derechos humanos, la persona quede gravemente afectada psicológica y/o psiquiátricamente;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+VIII.- Servicios odontológicos reconstructivos por los daños causados como consecuencia del delito o la violación a los derechos humanos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+IX.- Brindar a las víctimas de delito de violencia sexual, los servicios de anticoncepción de emergencia y de interrupción legal del embarazo, con absoluto respeto a la voluntad de la víctima, así como de la profilaxis post exposición para Virus de Inmunodeficiencia Humana, además de aquellos que contemplen y prevean la Ley General y esta Ley, con absoluto respeto a los derechos humanos y a la voluntad de las víctimas; asimismo, se le realizará a la víctima la práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
 
 En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus gastos hayan sido cubiertos por la víctima o en el caso de la fracción IV, el Ejecutivo o los municipios, según corresponda, los reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
 
@@ -495,11 +503,13 @@ El Ejecutivo, a través de sus organismos, dependencias y entidades de salud pú
 
 El proceso de credencialización se realizará de manera gradual y progresiva dando prioridad a las víctimas de daños graves a la salud e integridad personal. No obstante, aquellas víctimas que no cuenten con dicho carnet y requieran atención inmediata deberán ser atendidas de manera prioritaria.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 33.
 
-A toda víctima de violación sexual, o cualquier otra conducta que afecte su integridad física o psicológica, se le realizará práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
+A toda víctima de violación sexual, o cualquier otra conducta que afecte su integridad física o psicológica, se le brindará los servicios de anticoncepción de emergencia y de interrupción legal del embarazo, así como de la profilaxis post exposición para Virus de Inmunodeficiencia Humana, se le realizará con respeto a sus derechos humanos, enfoque transversal de género, diferencial y especializado, que garantice a la víctima superar las secuelas de la victimización; así como la práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
 
-Las instituciones públicas del Estado que brinden servicios, asistencia y atención a las víctimas, dispondrán de personal capacitado en el tratamiento de la violencia sexual.
+Las instituciones públicas del Estado que brinden servicios, asistencia y atención a las víctimas, dispondrán de personal capacitado en el tratamiento de la violencia sexual, servicios de anticoncepción de emergencia y de interrupción voluntaria del embarazo de forma gratuita.
 
 ###### ARTÍCULO 34.
 
@@ -2456,3 +2466,9 @@ P.O. 22 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 324 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS TRANSITORIOS QUINTO Y DÉCIMO DEL DECRETO NÚMERO 270 QUE CREA LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA DE CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.. (sic)
+
+P.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 36 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS FORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA; Y LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
