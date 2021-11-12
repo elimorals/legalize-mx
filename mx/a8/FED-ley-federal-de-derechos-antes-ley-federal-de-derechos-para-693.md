@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2021-05-20"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2020.
 
@@ -168,6 +168,10 @@ Cuando el contribuyente realice el pago de los derechos y por causas imputables 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Los beneficiarios de los destinos específicos a que se refiere esta Ley, estarán sujetos a lo previsto en el artículo 54, tercer párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+ARTICULO 3o BIS.- Cuando las autoridades fiscales, en ejercicio de sus facultades de comprobación, modifiquen los ingresos acumulables o deducciones autorizadas para efectos de la Ley del Impuesto sobre la Renta, deberán considerar dichas modificaciones para el cálculo de aquellos derechos que tengan como base los citados ingresos acumulables o deducciones autorizadas y, en su caso, determinarán los derechos omitidos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -379,9 +383,9 @@ actividades remuneradas $3,313.60 $3,314
 
 III. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-IV. Visitante Trabajador Fronterizo $415.97 $416
+IV. Visitante Trabajador Fronterizo $476.00
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -597,17 +601,13 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 15.
 
-Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de
+Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de $4,376.30
 
-Cuota
-
-Sin ajuste Con ajuste $1,459.32 $1,459
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Por la reposición de la tarjeta, se pagará la misma cuota.
 
@@ -955,21 +955,11 @@ cuota de $321.33 $321
 
 #### SECCION QUINTA. Apostillamiento
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 19-G.
 
-Por el
-
-apostillamiento de documentos
-
-públicos federales, por cada
-
-documento Cuota
-
-Sin ajuste Con ajuste
-
-$871.32 $871
+Por el apostillamiento de documentos públicos federales, por cada documento $1,742.64
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1035,31 +1025,27 @@ V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 Por la expedición de cada pasaporte o documento de identidad y viaje, se pagarán derechos conforme a las siguientes cuotas:
 
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 I. Pasaportes ordinarios y
 
 documentos de identidad y
 
-viaje con validez hasta por un
+viaje con validez hasta
 
-año $646.53 $645
+por un año $754.67
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 II. Pasaportes ordinarios y
 
 documentos de identidad y
 
-viaje con validez mayor a un
+viaje con validez mayor a
 
-año y hasta por tres años $1,343.43 $1,345
+un año y hasta por tres años $1,471.46
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 III. Pasaportes ordinarios y
 
@@ -1067,17 +1053,17 @@ documentos de identidad y
 
 viaje con validez mayor a
 
-tres años y hasta por seis años $1,847.20 $1,845
+tres años y hasta por seis años $1,998.77
 
-IV.- Pasaportes ordinarios
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-con validez hasta por diez
+IV. Pasaportes ordinarios con
 
-años $2,840.62 $2,840
+validez hasta por diez años $3,506.11
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-V.- Pasaportes oficiales $535.12 $535
+V. Pasaportes oficiales $689.80
 
 VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
@@ -1099,9 +1085,9 @@ Para los efectos de este artículo, las personas mayores de sesenta años, así 
 
 Tratándose de la expedición de pasaportes ordinarios con validez hasta por seis años para trabajadores agrícolas que, con base en memorandums de entendimiento firmados por el Gobierno Mexicano con otros países, presten servicios en el exterior, se pagará el 50% de las cuotas establecidas en las fracciones I a III de este artículo, según corresponda.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-Los derechos que se obtengan por concepto de las fracciones anteriores en los servicios que sean prestados en el territorio nacional, se destinarán en un 15% a la Secretaría de Relaciones Exteriores para mejorar los servicios y operación de las delegaciones de dicha dependencia.
+Los derechos que se obtengan por concepto de las fracciones anteriores en los servicios que sean prestados en el territorio nacional, se destinarán en un 30% a la Secretaría de Relaciones Exteriores para mejorar los servicios y operación de las delegaciones de dicha dependencia.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1127,15 +1113,17 @@ II.- Legalización de firmas o
 
 Sellos $756.34 $755
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-III.- Visas de:
+III.- Visados y Visas de:
 
-a).- Certificados de análisis, de
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-libre venta, de origen y médicos,
+a).- Visados a certificados de
 
-por cada uno $907.60 $910
+análisis, de libre venta y
+
+médicos, por cada uno $907.60
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -1155,6 +1143,20 @@ pasaportes extranjeros $756.34 $755
 
 e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+f).- Por la recepción, estudio de
+
+la solicitud y, en su caso, la
+
+autorización de la visa de
+
+visitante sin permiso para
+
+realizar actividades remuneradas
+
+de larga duración $531.09
+
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Los derechos por la expedición de las visas ordinarias en pasaportes extranjeros a que se refiere el inciso d) de esta fracción, podrán exentarse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
@@ -1163,15 +1165,13 @@ Los derechos por la expedición de las visas ordinarias en pasaportes extranjero
 
 IV.- Expedición de certificados de:
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-a). Constitución de sociedades
+a).- Pasavantes o patentes
 
-extranjeras y de pasavantes o
+provisionales de navegación,
 
-patentes provisionales de
-
-navegación, por cada uno $3,798.76 $3,800
+por cada uno $3,798.76
 
 b).- Matrícula consular a
 
@@ -1329,9 +1329,9 @@ Para efectos de la presente exención, será necesario que el repatriado present
 
 No pagarán los derechos por los servicios que se establecen en esta sección, los extranjeros, en caso de reciprocidad del país del que son nacionales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-VIII. La compulsa de documentos, para la tramitación de:
+VIII.- La compulsa de documentos, para el trámite de:
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1341,9 +1341,9 @@ a).- Pasaportes
 
 b).- Matrículas Consulares
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-c).- Cartillas del Servicio Militar Nacional
+c).- Cartillas de identificación del Servicio Militar, así como para los servicios relacionados con el Servicio Militar.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1527,39 +1527,71 @@ Sin ajuste Con ajuste
 
 I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 32 y 37, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos:
 
-a).- Por expedición $317.17 $315
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+a).- Por la solicitud, análisis y,
+
+en su caso, expedición del
+
+certificado de nacionalidad
+
+mexicana $2,026.65
 
 b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-II.- En las cartas de naturalización a las que se refiere la fracción I del Apartado B del citado precepto constitucional:
+c).- Por la solicitud, análisis y,
 
-a). Por la recepción, estudio y, en
+en su caso, expedición de la
 
-su caso, expedición de la carta de
+declaratoria de nacionalidad
 
-naturalización $5,593.33 $5,595
+mexicana $1,303.95
 
-b). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-c). (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+d).- Por la solicitud, análisis y,
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+en su caso, expedición de la
 
-III. En las cartas de naturalización a que se refiere la fracción II del Apartado B del artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20, fracciones II y III de la Ley de Nacionalidad:
+constancia de renuncia a
 
-a). Por la recepción, estudio y,
+la nacionalidad mexicana $1,174.33
 
-en su caso, expedición de cada
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-carta de naturalización $1,972.06 $1,970
+II. Por la recepción, estudio y, en su caso,
 
-b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+expedición de la carta de naturalización
 
-IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
+a la que hace referencia las fracciones I y II
 
-V.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
+del Apartado B del artículo 30 de la
+
+Constitución Política de los Estados Unidos
+
+Mexicanos $7,788.10
+
+III.- (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2021)
+
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+IV.- Por la solicitud, análisis y, en su caso,
+
+expedición, renovación o reposición de
+
+cada constancia de no antecedentes de
+
+naturalización $377.33
+
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+V.- Por la solicitud, análisis y, en su caso,
+
+expedición de copia certificada de
+
+documentos de nacionalidad $571.75
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -3117,9 +3149,9 @@ En el caso de Emisoras, las cuotas a su cargo deberá (sic) determinarse conform
 
 > <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-La Secretaría de Hacienda y Crédito Público dará a conocer a las entidades de los sectores correspondientes, como facilidad administrativa, el resultado de las operaciones aritméticas previstas en el artículo 29-D de esta Ley según la información que le sea proporcionada por la Comisión Nacional Bancaria y de Valores.
+La Secretaría de Hacienda y Crédito Público, como facilidad administrativa, publicará en el Diario Oficial de la Federación el resultado de las operaciones aritméticas previstas en el artículo 29-D de esta Ley según la información que le sea proporcionada por la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3288,6 +3320,10 @@ VI.- Por los servicios de Inspección y vigilancia
 que se prestan a las oficinas de representación
 
 de reaseguradoras extranjeras cuota mensual $5,830.51 $5,831
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+La Secretaría de Hacienda y Crédito Público, como facilidad administrativa, publicará en el Diario Oficial de la Federación el resultado de las operaciones aritméticas previstas en el presente artículo según la información que le sea proporcionada por la Comisión Nacional de Seguros y Fianzas.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -3829,9 +3865,23 @@ s).- Por la adición de cada bodega, sucursal o instalación a la autorización 
 
 t).- Por la autorización para la fabricación o importación de candados a que se refiere la Ley Aduanera $1,788.46 $1,788
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m), n), ñ), o), p), q), s) y t) de este artículo se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g), i), j) y r) de este artículo se pagarán por única vez.
+u).- Por la autorización para prestar los
+
+servicios de despacho aduanero de las
+
+mercancías de comercio exterior fuera
+
+de los días y horas hábiles señalados
+
+por el Servicio de Administración
+
+Tributaria $250.90
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m), n), ñ), o), p), q), s) y t) de este artículo se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g), i), j), r) y u) de este artículo se pagarán por única vez.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -4289,19 +4339,27 @@ $51,393.51 $51,394
 
 #### SECCION NOVENA. Otros Servicios
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTICULO 53-I.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Por la obtención de códigos de seguridad que se impriman en las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados para su venta en México, se pagará el derecho de códigos de seguridad conforme a la cuota de $0.1255 por cada uno.
 
 ###### ARTICULO 53-J.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 53-K.
 
-Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $0.4868 por cada uno.
+Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a lo siguiente:
+
+I. Tratándose de marbetes físicos la cuota de $0.5178 por cada uno.
+
+II. Tratándose de folios electrónicos para la
+
+impresión de marbetes electrónicos la cuota de $0.3474 por cada uno.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -4991,17 +5049,11 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 #### SECCION CUARTA. Normas Oficiales
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 73-A.
 
-Por el trámite y, en su caso, registro y autorización para el uso de las marcas y contraseñas oficiales, se pagarán derechos conforme a la cuota de:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$708.50 $708
+Por el trámite y, en su caso, registro y autorización para el uso de las marcas y contraseñas oficiales, se pagarán derechos conforme a la cuota de: $1,904.28
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5116,6 +5168,10 @@ Cuota
 Sin ajuste Con ajuste
 
 $196,347.33 $196,347
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+Por el estudio, trámite y, en su caso, la autorización del Pleno de la Comisión Federal de Competencia Económica de la concentración no notificada, también se pagará el derecho previsto en el primer párrafo.
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -6475,35 +6531,23 @@ identificación para remolque y semirremolque,
 
 por vehículo. $1,045.03 $1,045
 
-C. Licencias para conducir:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-a).- Expedición. $529.07 $529
+C. Por la solicitud de trámites relativos a la licencia federal digital de conductor, se pagarán derechos conforme a las siguientes cuotas:
 
-b). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+I. Emisión de la licencia federal digital
 
-c).- Expedición de categoría
+de conductor, por una categoría en la
 
-adicional de licencia. $168.25 $168
+modalidad nacional o internacional $174.27
 
-d).- Renovación. $319.67 $320
+II. Solicitud de categoría adicional,
 
-e).- Duplicado. $319.67 $320
+cambio de categoría o cambio de
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+modalidad $174.27
 
-Cuando las licencias para conducir sean solicitadas a través de medios electrónicos, se pagarán derechos conforme a las siguientes cuotas:
-
-a). Expedición $148.62 $149
-
-b). Expedición de categoría
-
-adicional de licencia $143.69 $144
-
-c). Renovación $138.62 $139
-
-d). Duplicado $133.67 $134
-
-Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, no debiendo pagarse los refrendos o renovación vencidos.
+III. Renovación de categoría $174.27
 
 D. Servicios diversos:
 
@@ -7433,87 +7477,9 @@ IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 170.
 
-Por los servicios que presta la autoridad competente a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho por cada autorización de arribo, despacho, maniobra de fondeo o enmienda, cuando sea a solicitud del particular, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- De más de 3 hasta 20 unidades de arqueo
-
-Bruto $320.67 $321
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-II.- De más de 20 hasta 100 unidades de arqueo
-
-bruto $483.08 $483
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-III.- De más de 100 hasta 500 unidades
-
-de arqueo bruto $792.05 $792
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-IV.- De más de 500 hasta 1,000
-
-unidades de arqueo bruto $1,612.07 $1,612
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-V.- De más de 1,000 hasta 15,000 unidades
-
-de arqueo bruto $3,233.51 $3,234
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VI.- De más de 15,000 hasta 25,000 unidades
-
-de arqueo bruto $4,119.63 $4,120
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VII.- De más de 25,000 hasta 50,000 unidades
-
-de arqueo bruto $4,751.68 $4,752
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VIII.- De más de 50,000 unidades de
-
-arqueo bruto $5,729.37 $5,729
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-En los casos señalados en la fracción I y cuando la embarcación se utilice para el servicio de carga y pasaje en navegación interior, se pagará el 50% de la cuota establecida.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-Cuando los servicios se presten en días inhábiles o fuera del horario ordinario de operación se pagará el doble de las cuotas señaladas, aplicable a cada caso, salvo lo previsto en la fracción I.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 9:00 a las 14:30 horas.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-No se pagará el derecho a que se refiere este artículo por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-No pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
+(DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 ###### ARTICULO 170-A.
 
@@ -7539,13 +7505,9 @@ El pago que deba realizarse a la autoridad competente por los servicios anterior
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 170-G.
 
-Por el estudio, trámite y, en su caso, la expedición del certificado de cumplimiento por parte de las instalaciones portuarias, se pagará el derecho de cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada instalación portuaria $4,058.44 $4,058
+(DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 ###### ARTICULO 170-H.
 
@@ -8003,21 +7965,15 @@ VI.- Por asignación de inicial y número, o
 
 matrícula al equipo ferroviario $744.34 $744
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 172-F.
 
-Por los servicios relacionados con el otorgamiento de licencias federales ferroviarias, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios relacionados con el otorgamiento de licencias federales digitales ferroviarias, se pagarán derechos conforme a las siguientes cuotas:
 
-Cuota
+I. Por la expedición $760.12
 
-Sin ajuste Con ajuste
-
-I.- Por la expedición $792.05 $792
-
-II.- Por la revalidación $792.05 $792
+II. Por la revalidación $760.12
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -9005,7 +8961,9 @@ b). Por la expedición de cada
 
 certificado o constancia $173.43 $173
 
-No se pagarán los derechos a que se refiere esta fracción cuando se trate de reproducciones en formato Braille, siempre que se realicen sin fines de lucro y con el objeto exclusivo de hacerlas accesibles a las personas con discapacidad visual.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+No se pagarán los derechos a que se refiere esta fracción cuando se trate de reproducciones en cualquier formato, siempre que se realicen sin fines de lucro y con el objeto exclusivo de hacerlas accesibles a las personas con discapacidad.
 
 XXII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
@@ -9535,11 +9493,15 @@ no inscripción federal $589.48 $589
 
 XII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-XIII.- Expedición de listados computarizados de
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-los inmuebles incorporados al Sistema Nacional
+XIII.- Expedición de listados y copias fotostáticas
 
-de Información Inmobiliaria, por hoja $28.83 $29
+de los documentos o datos que obran en el Sistema
+
+de Información Inmobiliaria Federal y Paraestatal,
+
+por cada hoja $28.83
 
 XIV.- Expedición de copia certificada de
 
@@ -9549,25 +9511,21 @@ XV.- Expedición de copia certificada de
 
 documento inscrito $594.02 $594
 
-XVI.- Asiento en el folio real de modificaciones
+XVI.- (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
-de inscripciones relativas a plazo, intereses,
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-garantías, datos equivocados o cualquier otra
+XVII.- Asientos registrales en folio
 
-que no constituya novación del contrato $288.72 $289
-
-XVII.- Otros tipos de asientos registrales en
-
-libros o en folio real que soliciten particulares $791.84 $792
+real que soliciten particulares $791.84
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 El pago de los derechos que establece este artículo comprende la búsqueda de antecedentes registrales y la expedición de las respectivas copias certificadas.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-No pagarán los derechos a que se refieren las fracciones I, II, III, X, XIII, XIV y XV de este artículo las dependencias de la administración pública centralizada, los poderes legislativo y judicial, así como los organismos descentralizados siempre que sus fines se relacionen directamente con la asistencia social, educativa y de apoyo a agrupaciones campesinas.
+No pagarán los derechos a que se refieren las fracciones X, XIII, XIV y XV de este artículo el poder legislativo y las autoridades judiciales o administrativas cuando así lo requieran para el ejercicio de funciones de investigación o procuración de justicia.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -9819,17 +9777,19 @@ Cuota
 
 Sin ajuste Con ajuste
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
 I.- Por cada título de asignación o concesión
 
 para explotar, usar o aprovechar aguas nacionales
 
-incluyendo su registro $4,338.62 $4,339
+incluyendo su registro $5,522.34
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 II.- Por cada permiso de descarga de aguas residuales
 
-a un cuerpo receptor, incluyendo su registro $5,942.09 $5,942
+a un cuerpo receptor, incluyendo su registro $7,352.76
 
 III.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -10753,13 +10713,11 @@ V. De más de 200 hectáreas $ 11,430.90 $ 11,431
 
 Cuando la solicitud se refiera a terrenos incendiados que requieran de un dictamen especial, se pagará adicionalmente el 20% de las cuotas establecidas en las fracciones anteriores.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 194-N.
 
-Por la recepción, evaluación y dictamen del programa de manejo de plantación forestal comercial y, en su caso, autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de $8,080.46 $8,080
+Por la recepción, evaluación y, en su caso, la autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de $8,080.46
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -10781,17 +10739,17 @@ Cuota
 
 Sin ajuste Con ajuste
 
-> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 I. Por la recepción, evaluación de la
 
 solicitud y, en su caso, la expedición
 
-de cada certificado fitosanitario para
+de cada hoja de requisitos fitosanitarios
 
-la importación de productos y subproductos
+para la importación de materias primas,
 
-forestales $1,478.14 $1,478
+productos y subproductos forestales $1,478.14
 
 > <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -10835,27 +10793,71 @@ Sin ajuste Con ajuste
 
 $ 2,167.94 $ 2,168
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 194-N
 
-4.- Por la recepción y evaluación y, en su caso, la autorización para la colecta y uso de recursos biológicos forestales, se pagarán derechos conforme a las siguientes cuotas:
+4.- Por la recepción, evaluación y, en su caso, la autorización para la colecta y uso de recursos biológicos y genéticos forestales, se pagarán derechos conforme a las siguientes cuotas:
 
-Cuota
+I. Por la recepción, evaluación de la
 
-Sin ajuste Con ajuste
+solicitud y, en su caso, la expedición
 
-I.- Por colecta de recursos biológicos forestales
+de la autorización para la colecta y
 
-con fines biotecnológicos comerciales $ 17,400.13 $ 17,401
+uso de recursos biológicos forestales,
 
-II.- Por colecta de recursos biológicos forestales
+con fines de utilización en biotecnología $6,592.07
 
-con fines científicos $ 1,998.24 $ 1,998
+II. Por la recepción, evaluación de la
 
-III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
+solicitud y, en su caso, la expedición
+
+de la autorización para la colecta y
+
+uso de recursos biológicos forestales,
+
+con fines de utilización en investigación $773.35
+
+III. Por la recepción, evaluación de la
+
+solicitud y, en su caso, la expedición de
+
+la autorización para la colecta y uso
+
+de recursos genéticos forestales,
+
+con fines comerciales $6,592.07
+
+IV. Por la recepción, evaluación de la
+
+solicitud y, en su caso, la expedición de la
+
+autorización para la colecta de recursos
+
+biológicos forestales, con fines de
+
+investigación para la generación
+
+de información científica básica $773.35
+
+V. Por la recepción, evaluación de la solicitud y,
+
+en su caso, la expedición de la autorización para
+
+la colecta y uso de recursos genéticos forestales,
+
+con fines de investigación $773.35
+
+VI. Por la recepción, evaluación de la solicitud y,
+
+en su caso, la expedición de la autorización para
+
+la colecta de recursos genéticos forestales,
+
+con fines de investigación para la generación de
+
+información científica básica $773.35
 
 ###### ARTICULO 194-N
 
@@ -11287,13 +11289,23 @@ Por la modificación o actualización de la licencia sanitaria señalada en esta
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-IV.- Por cada solicitud y, en su caso, expedición
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-de licencia sanitaria de establecimientos de
+IV.- Por cada solicitud, análisis y, en su caso, expedición de licencia sanitaria, se pagará el derecho conforme a las siguientes cuotas:
 
-atención médica donde se practiquen actos
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-quirúrgicos u obstétricos, por cada uno: $ 23,036.56 $ 23,037
+a). Para establecimientos de atención médica
+
+donde se practiquen actos quirúrgicos u
+
+obstétricos, por cada uno: $24,503.99
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+b). Para establecimientos que presten
+
+servicio de hemodiálisis, por cada uno: $23,912.35
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11553,13 +11565,23 @@ Por las modificaciones solicitadas a las autorizaciones señaladas en esta fracc
 
 Quedan exceptuados del pago del derecho establecido en esta fracción, las instituciones de educación superior públicas.
 
-III.- Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+III.- Por cada solicitud de visita de verificación para materias primas o medicamentos que sean o contengan estupefacientes, psicotrópicos o precursores químicos por:
 
 a).- Constatación de destrucción $ 2,791.09 $ 2,791
 
 b).- Enfajillamiento, sello y lacre con
 
 fines de exportación $ 2,791.09 $ 2,791
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+c).- De balance de medicamentos $5,877.14
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+d).- Toma de muestra y liberación $2,321.17
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -12003,17 +12025,11 @@ ingresos de sangre y hemocomponentes $ 870.94 $ 871
 
 Por la modificación a la licencia o permiso indicado en las fracciones de este artículo, se pagarán el 75% del derecho que corresponda.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 195-K
 
-3.- Por el dictamen sanitario de efectividad bacteriológica de equipos o sustancias germicidas para potabilización de agua tipo doméstico, se pagarán derechos conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$ 5,123.11 $ 5,123
+3.- Por el certificado de efectividad bacteriológica de equipos o sustancias germicidas para potabilización de agua tipo doméstico, se pagarán derechos conforme a la cuota de $5,123.11
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -12237,223 +12253,237 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 #### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 195-T.
 
 Por los servicios relacionados con armas y municiones, se pagarán derechos conforme a las siguientes cuotas:
 
-Cuota
+A. Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-Sin ajuste Con ajuste
+I. Para la fabricación de armas de fuego,
 
-A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
+cartuchos, cartuchos de fuego central,
 
-I.- Para la fabricación de armas de fuego,
+armas deportivas o municiones esféricas
 
-cartuchos, cartuchos de fuego central, armas
+de plomo $25,860.00
 
-deportivas o municiones esféricas de plomo $8,620.08 $8,620
+II. Para la fabricación, importación y
 
-II.- Para la fabricación, importación y
+exportación de partes de escopeta $25,860.00
 
-exportación de partes de escopeta $8,620.08 $8,620
+III. Para la compra y consumo de
 
-III.- Para la compra y consumo de cartuchos
+cartuchos industriales, de salva
 
-industriales, de salva o deportivos $8,620.08 $8,620
+o deportivos $25,860.00
 
-IV.- Para talleres dedicados a la
+IV. Para talleres dedicados a la
 
-reparación de armas de fuego o gas $8,489.39 $8,489
+reparación de armas de fuego o gas $25,467.00
 
-B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
+B. Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-I.- De importación o exportación de armas,
+I. De importación o exportación
 
-cartuchos y elementos constitutivos $5,965.88 $5,966
+de armas, cartuchos y elementos
 
-II.- Para la compra de cartuchos deportivos
+constitutivos $17,898.00
 
-a los expendios autorizados $922.84 $923
+II. Para la compra de cartuchos
 
-III.- Por la ampliación de vigencia de un
+deportivos a los expendios autorizados $2,769.00
 
-permiso ordinario de importación o exportación
+III. Por la ampliación de vigencia
 
-de armas y municiones $2,686.12 $2,686
+de un permiso ordinario de
 
-IV.- Por la modificación de un permiso
+importación o exportación de
 
-ordinario de importación o exportación
+armas y municiones $8,058.00
 
-de armas y municiones $2,822.66 $2,823
+IV. Por la modificación de un
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+permiso ordinario de importación
+
+o exportación de armas y
+
+municiones $8,469.00
 
 Para el caso de la modificación del permiso por cambio de destino, se pagará el derecho establecido en la fracción I de este Apartado.
 
-C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
+C. Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-I.- Para la importación o exportación
+I. Para la importación o exportación
 
-de armas y cartuchos $5,355.76 $5,356
+de armas y cartuchos $16,068.00
 
-II.- Para la compra-venta, donación
+II. Para la compra-venta, donación o
 
-o permuta de armas o cartuchos $134.43 $134
+permuta de armas o cartuchos $402.00
 
-III.- Para la importación o exportación temporal
+III. Para la importación o exportación
 
-de armas de fuego y cartuchos, con fines
+temporal de armas de fuego y cartuchos,
 
-cinegéticos o de tiro $1,079.71 $1,080
+con fines cinegéticos o de tiro $3,240.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+IV. Para la transportación de armas:
 
-IV.- Para la transportación de armas:
+a). Hasta por tres armas $1,491.00
 
-a).- Hasta por tres armas $497.48 $497
+b). Por cada arma adicional $495.00
 
-b).- Por cada arma adicional $165.43 $165
-
-V.- Por la ampliación de vigencia de un
+V. Por la ampliación de vigencia de un
 
 permiso extraordinario de importación o
 
-exportación de armas y municiones $2,686.12 $2,686
+exportación de armas y municiones $8,058.00
 
-VI.- Por la modificación de un permiso
+VI. Por la modificación de un permiso
 
-extraordinario de importación o
+extraordinario de importación o exportación
 
-exportación de armas y municiones $2,822.66 $2,823
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+de armas y municiones $8,469.00
 
 Para el caso de la modificación del permiso por cambio de destino, se pagará el derecho establecido en la fracción I de este Apartado.
 
-D.- Por los servicios prestados a coleccionistas o museos de armas de fuego:
+D. Por los servicios prestados a coleccionistas o museos de armas de fuego:
 
-I.- Por el permiso para coleccionista
+I. Por el permiso para coleccionista o
 
-o museo de armas de fuego $4,317.87 $4,318
+museo de armas de fuego $12,954.00
 
-II.- Por la autorización para la adquisición
+II. Por la autorización para la
 
-y posesión de nuevas armas destinadas
+adquisición y posesión de nuevas
 
-al enriquecimiento de una colección o
+armas destinadas al enriquecimiento
 
-de un museo, e inscripción en el mismo
+de una colección o de un museo, e
 
-permiso $395.97 $396
+inscripción en el mismo permiso $1,188.00
 
-E.- Por el trámite de cada registro:
+E. Por el trámite de cada registro:
 
-I.- Por el registro inicial para organizador
+I. Por el registro inicial para organizador
 
-cinegético o criador de fauna silvestre $10,878.20 $10,878
+cinegético o criador de fauna silvestre $32,634.00
 
-a).- Por su revalidación $5,565.73 $5,566
+a). Por su revalidación $16,698.00
 
-II.- Anual para club o asociación de
+II. Anual para club o asociación de
 
-deportistas de tiro y cacería $8,049.65 $8,050
+deportistas de tiro y cacería $24,150.00
 
-III.- Por el registro de un arma
+III. Por el registro de un arma de fuego $165.00
 
-de fuego $55.27 $55
+IV. Por la expedición de cada
 
-IV.- Por la expedición de cada
+constancia de registro $510.00
 
-constancia de registro $170.11 $170
+F. Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
 
-F.- Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
+I. Por la expedición de:
 
-I.- Por la expedición de:
+a). Licencia particular individual $5,212.00
 
-a).- Licencia particular individual $2,606.41 $2,606
+b). Licencia particular colectiva $81,006.00
 
-b).- Licencia particular colectiva $40,502.66 $40,503
+c). Licencia oficial colectiva $26,388.00
 
-c).- Licencia oficial colectiva $21,990.30 $21,990
+II. Por la revalidación de:
 
-II.- Por la revalidación de:
+a). Licencia particular individual $5,212.00
 
-a).- Licencia particular individual $2,606.41 $2,606
+b). Licencia particular colectiva:
 
-b).- Licencia particular colectiva $40,502.66 $40,503
+1. De 1 a 500 armas $81,006.00
 
-III.- Por la modificación de licencia
+2. De 501 a 1000 armas $121,509.00
 
-particular colectiva u oficial colectiva $3,066.03 $3,066
+3. De 1001 a 2000 armas $162,012.00
 
-IV.- Por baja de armamento de las
+4. De 2001 armas en adelante $202,515.00
+
+III. Por la modificación de licencia
+
+particular colectiva u oficial colectiva $6,132.00
+
+IV. Por baja de armamento de las licencias
+
+oficiales colectivas y particulares colectivas,
+
+por robo, extravío o destrucción $12,298.00
+
+V. Por baja de personal de las
 
 licencias oficiales colectivas y
 
-particulares colectivas, por robo,
+particulares colectivas $11,256.00
 
-extravío o destrucción $6,148.81 $6,149
+VI. Por alta de personal de las licencias oficiales colectivas y particulares colectivas:
 
-V.- Por baja de personal de las
+a) De 1 a 50 personas $6,419.00
 
-licencias oficiales colectivas y
+b) De 51 a 100 personas $12,838.00
 
-particulares colectivas $5,628.42 $5,628
+c) De 101 a 200 personas $19,257.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+d) De 201 a 500 personas $25,676.00
 
-Cuando se paguen los derechos a que se refieren las fracciones IV o V de este Apartado, no se estará obligado al pago del derecho establecido en la fracción III del mismo.
+e) De 501 personas en adelante $32,095.00
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
+Cuando se paguen los derechos a que se refieren las fracciones IV, V o VI de este Apartado, no se estará obligado al pago del derecho establecido en la fracción III del mismo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 195-U.
 
 Por los servicios relacionados con explosivos y sustancias químicas, se pagarán derechos conforme a las siguientes cuotas:
 
-Cuota
+A. Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-Sin ajuste Con ajuste
+I. Para la compra, almacenamiento y
 
-A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
+consumo o compra-consumo de materiales
 
-I.- Para la compra, almacenamiento y consumo
+explosivos $25,505.60
 
-o compra-consumo de materiales explosivos $15,941.07 $15,941
-
-II.- Para la fabricación de explosivos o
+II. Para la fabricación de explosivos o
 
 sustancias químicas relacionadas con éstos,
 
-así como para la adquisición y almacenamiento
+así como para la adquisición y
 
-de materia prima y productos terminados $15,941.07 $15,941
+almacenamiento de materia prima y productos
 
-III.- Para la compra-venta, compra-consumo
+terminados $25,505.60
+
+III. Para la compra-venta, compra-consumo
 
 o almacenamiento de explosivos o sustancias
 
-químicas relacionadas con éstos $16,254.01 $16,254
+químicas relacionadas con éstos $26,006.40
 
-IV.- Para la compra, almacenamiento y consumo
+IV. Para la compra, almacenamiento y consumo
 
-de sustancias químicas en la fabricación y
+de sustancias químicas en la fabricación y venta
 
-venta de artificios pirotécnicos $2,309.39 $2,309
+de artificios pirotécnicos $3,463.50
 
-V.- Por intervenciones para importación
+Por la modificación de los permisos señalados
 
-o exportación de armas, municiones,
+en esta fracción $2,539.90
 
-explosivos y sustancias químicas, a
+V. Por intervenciones para importación o
 
-partir de la segunda intervención $369.81 $370
+exportación de armas, municiones, explosivos
+
+y sustancias químicas, a partir de la segunda
+
+intervención $7,400.00
 
 Por la inspección para el reinicio de
 
@@ -12461,43 +12491,43 @@ actividades de un permiso general
 
 suspendido a solicitud del interesado,
 
-se pagará el derecho conforme a la
+se pagará el derecho conforme a la cuota
 
-cuota de $4,793.26 $4,793
+de $6,230.90
 
-B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
+B. Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-I.- Para la compra de material explosivo
+I. Para la compra de material explosivo
 
-o sustancias químicas $1,402.21 $1,402
+o sustancias químicas $3,224.60
 
-II.- De importación o exportación de
+II. De importación o exportación de
 
 explosivos o sustancias químicas
 
-relacionadas con éstos $5,442.95 $5,443
+relacionadas con éstos o por la
 
-a).- Por su modificación $5,442.95 $5,443
+modificación del permiso $16,329.00
 
-C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
+C. Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-I.- Para la compra-consumo, importación
+I. Para la compra-consumo, importación
 
 o exportación de material explosivo o
 
-sustancias químicas $15,941.07 $15,941
+sustancias químicas $20,723.30
 
-II.- Por la modificación a un permiso
+II. Por la modificación a un permiso
 
 extraordinario de importación o
 
 exportación de explosivos o sustancias
 
-químicas relacionados con éstos $5,442.95 $5,443
+químicas relacionados con éstos $16,329.00
 
-III.- Para la compra-venta de artificios
+III. Para la compra-venta de artificios
 
-Pirotécnicos $1,402.21 $1,402
+pirotécnicos $3,505.00
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -12511,13 +12541,17 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por la expedición de cada permiso general
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-para el transporte especializado de explosivos,
+I.- Por la expedición de cada permiso
 
-sustancias químicas relacionadas con éstos,
+general para el transporte especializado
 
-artificios, armamento o municiones $16,190.64 $16,191
+de explosivos, sustancias químicas
+
+relacionadas con éstos, artificios, armamento
+
+o municiones $21,857.85
 
 II.- Por el trámite de autorización:
 
@@ -12525,19 +12559,19 @@ a).- De libros de compras y ventas a personas
 
 físicas o morales con permiso general $209.77 $210
 
-b).- Para cambio de razón social a un
+b).- (DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
-permiso general $2,416.25 $2,416
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 III.- Por la autorización para modificar
 
-un permiso general en cualquiera de
+un permiso general en cualquiera de sus
 
-sus condiciones, por ubicación, técnica
+condiciones, por ubicación, técnica de
 
-de trabajo u otro motivo que no afecte
+trabajo u otro motivo que no afecte la
 
-la clase de producción permitida $16,051.96 $16,052
+clase de producción permitida $18,459.80
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -13569,6 +13603,78 @@ de arqueo bruto $14,447.63 $14,448
 
 f). De más de 10,000 unidades de arqueo bruto $23,288.59 $23,289
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTICULO 195-Z
+
+11 BIS.- Por los servicios relacionados con el cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada instalación portuaria, se pagarán las siguientes cuotas:
+
+I. Por la expedición, reposición o
+
+renovación de la declaración de
+
+cumplimiento $4,273.70
+
+II. Por la evaluación de protección $30,043.11
+
+III. Por la revisión y, en su caso,
+
+aprobación del plan de protección $11,251.72
+
+IV. Por la verificación inicial o
+
+anual de la implantación del plan
+
+de protección $22,169.53
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTICULO 195-Z
+
+11 TER.- Por los servicios relacionados con el cumplimiento de medidas de protección de las instalaciones portuarias que reciban embarcaciones menores a 500 unidades de arqueo bruto y realicen navegación de cabotaje se pagarán, por cada instalación portuaria, las siguientes cuotas:
+
+I. Expedición, reposición o renovación de
+
+la declaración nacional de cumplimiento $3,035.33
+
+II. Por la evaluación de protección $15,193.61
+
+III. Por la revisión y, en su caso,
+
+aprobación del plan de protección $8,257.61
+
+IV. Verificación inicial, anual o de
+
+renovación de la implementación del
+
+plan de protección $11,847.05
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTICULO 195-Z
+
+11 QUÁTER.- Por los servicios relacionados con el cumplimiento de medidas de protección de los puertos, se pagará por cada uno, las siguientes cuotas:
+
+I. Por la expedición, reposición o
+
+renovación de la declaración de
+
+cumplimiento $6,911.13
+
+II. Por la evaluación de
+
+protección $60,017.63
+
+III. Por la revisión y, en su caso,
+
+aprobación del plan de protección $15,274.68
+
+IV. Por la verificación inicial,
+
+anual o de renovación de la
+
+implantación del plan de protección $40,447.85
+
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
@@ -13867,13 +13973,17 @@ arqueo bruto $23,288.69 $23,289
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
-> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 195-Z
 
-25. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima como instalación receptora de desechos, según corresponda:
+25.- Por la verificación y, en su caso, asignación de número de registro permanente, y expedición, revalidación o reposición del certificado de aprobación marítima como instalación receptora de desechos, según corresponda:
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 I. Receptora de basuras $1,340.79 $1,341
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 II. Receptora de sustancias nocivas líquidas e hidrocarburos $1,426.67 $1,427
 
@@ -13892,6 +14002,56 @@ II. Receptora de sustancias nocivas líquidas e hidrocarburos $1,426.67 $1,427
 ###### ARTICULO 195-Z
 
 27. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima a estaciones de servicio para el mantenimiento a equipos de radiocomunicación marítima e instalaciones eléctricas $2,265.56 $2,266
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTICULO 195-Z
+
+28.- Por los servicios que se presten a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho por cada autorización de arribo, despacho, maniobra de fondeo o enmienda, cuando sea a solicitud del particular, conforme a las siguientes cuotas:
+
+I. De más de 3 hasta 20 unidades
+
+de arqueo bruto $341.10
+
+II. De más de 20 hasta 100 unidades
+
+de arqueo bruto $513.85
+
+III. De más de 100 hasta 500
+
+unidades de arqueo bruto $842.50
+
+IV. De más de 500 hasta
+
+1,000 unidades de arqueo bruto $1,714.76
+
+V. De más de 1,000 hasta
+
+15,000 unidades de arqueo
+
+bruto $3,439.48
+
+VI. De más de 15,000 hasta
+
+25,000 unidades de arqueo bruto $4,382.05
+
+VII. De más de 25,000 hasta
+
+50,000 unidades de arqueo bruto $5,054.36
+
+VIII. De más de 50,000 unidades
+
+de arqueo bruto $6,094.33
+
+Para los efectos de la fracción I y cuando la embarcación se utilice para el servicio de carga y pasaje en navegación interior, se pagará el 50% de la cuota establecida.
+
+Cuando los servicios se presten en días inhábiles o fuera del horario ordinario de operación se pagará el doble de las cuotas señaladas, aplicable a cada caso, salvo lo previsto en la fracción I.
+
+Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 9:00 a las 14:30 horas tiempo del centro del país.
+
+No se pagará el derecho a que se refiere este artículo, por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial. Tampoco pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
+
+El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
 
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -14137,29 +14297,45 @@ I Ter. Por persona, por día, por cada Área Natural Protegida considerada como 
 
 - Parque Nacional Isla Isabel
 
-I Quáter. Por persona, por día, por cada Área Natural Protegida considerada como de muy baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $300.00
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+I Quáter. Por persona, por día, por cada Área Natural Protegida considerada como de baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $300.00
 
 - Reserva de la Biosfera Banco Chinchorro
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+Reserva de la Biosfera Islas Marías
+
 - Parque Nacional Arrecife Alacranes
 
-II. Por las demás Áreas Naturales Protegidas no enlistadas en las fracciones I, I Bis y I Ter por persona, por día, por Área Natural Protegida: $38.30 $38
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en las fracciones I, I Bis y I Ter de este artículo, siempre y cuando la visita se realice el mismo día.
+II. Por las demás Áreas Naturales Protegidas no enlistadas en las fracciones I, I Bis, I Ter y I Quáter por persona, por día, por Área Natural Protegida: $38.30
+
+No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en las fracciones I, I Bis, I Ter y I Quáter de este artículo, siempre y cuando la visita a las Áreas Naturales Protegidas por las que se efectúa el pago previsto en esta fracción se realice el mismo día.
 
 III. Las personas podrán optar por pagar los derechos a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas, con excepción de las señaladas en la fracción I Bis del presente artículo: $1,500.00
 
-La obligación del pago de los derechos previstos en las fracciones I, I Bis, I Ter y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios turísticos, deportivos, recreativos y náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-No pagarán los derechos a que se refieren las fracciones I, I Bis, I Ter y II de este artículo, quienes por el servicio que prestan realicen estas actividades dentro del Área Natural Protegida, la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, el transporte público y de carga, así como los recorridos de vehículos automotores en tránsito o de paso realizados en vías pavimentadas, ni los residentes permanentes que se encuentren dentro de las Áreas Naturales Protegidas, los de las localidades contiguas a las mismas, ni los de la zona de influencia de éstas, siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
+La obligación del pago de los derechos previstos en las fracciones I, I Bis, I Ter, I Quáter y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios turísticos, deportivos, recreativos y náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
 
-Estarán exentos del pago de los derechos a que se refieren las fracciones I, I Bis, I Ter y II de este artículo, los menores de 12 años, los discapacitados, los adultos mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente tendrán un 50% de descuento.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+No pagarán los derechos a que se refieren las fracciones I, I Bis, I Ter, I Quáter y II de este artículo, quienes por el servicio que prestan realicen estas actividades dentro del Área Natural Protegida, la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, el transporte público y de carga, así como los recorridos de vehículos automotores en tránsito o de paso realizados en vías pavimentadas, ni los residentes permanentes que se encuentren dentro de las Áreas Naturales Protegidas, los de las localidades contiguas a las mismas, ni los de la zona de influencia de éstas, acreditando dicha condición con una identificación oficial con domicilio en dichas localidades y/o con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+Estarán exentos del pago de los derechos a que se refieren las fracciones I, I Bis, I Ter, I Quáter y II de este artículo, los menores de 12 años, los discapacitados, los adultos mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente tendrán un 50% de descuento, así como los habitantes de los municipios que se ubiquen en las zonas de alta y muy alta marginación, identificados en el listado de la Declaratoria de las Zonas de Atención Prioritaria, siempre que se acredite con una identificación oficial con domicilio en dichos municipios.
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para el manejo sustentable de las Áreas Naturales Protegidas.
 
 El pago del derecho a que se refiere este artículo, no exime a los obligados del mismo del cumplimiento de las obligaciones que pudieran adquirir con los propietarios o legítimos poseedores de los terrenos que se encuentran dentro de las Áreas Naturales Protegidas.
 
-En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I, I Bis, I Ter y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos, insulares y terrestres de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I, I Bis, I Ter, I Quáter y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos, insulares y terrestres de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
 
 ###### ARTICULO 198-A.
 
@@ -15035,9 +15211,9 @@ Para los efectos de la determinación presuntiva a que se refiere el artículo a
 
 I.- El volumen que señale el título de asignación, concesión, autorización o permiso.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-II.- Los volúmenes que señalen los registros de las lecturas de sus medidores, su aparato de medición o que se desprendan de alguna de las declaraciones trimestrales o anuales presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
+II.- Los volúmenes que señalen los registros de las lecturas de sus medidores, su aparato de medición o que se desprendan de alguna de las declaraciones trimestrales presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -15939,9 +16115,9 @@ frecuencia $117.34 $117
 
 VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
+VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipo, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
 
 a).- En sistemas que operen en
 
@@ -15963,7 +16139,15 @@ número de bases, móviles
 
 y repetidores $14,366.48 $14,366
 
-X.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+X.- Por el uso y aprovechamiento del espectro radioeléctrico para uso secundario:
+
+a). En la banda de 88 a 108 MHz $11,328.60
+
+b). En las demás bandas de frecuencias $44,546.61
+
+Si el uso a que se refiere esta fracción resultara por un período menor a un año, el monto del derecho que se deberá pagar será el que se obtenga de dividir la cuota del inciso a) o b), según corresponda, entre 365 y su resultado multiplicarlo por la cantidad de días autorizados.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -16195,15 +16379,15 @@ El pago de los derechos previstos en el presente artículo se deberá realizar s
 
 Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
 
-> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 Tabla A
 
 I. Rango de frecuencias en Megahertz
 
-De 1850 MHz a 1910 MHz
+De 1850 MHz a 1915 MHz
 
-De 1930 MHz a 1990 MHz
+De 1930 MHz a 1995 MHz
 
 Tabla B
 
@@ -17527,11 +17711,11 @@ El pago del derecho señalado en este artículo, se efectuará con independencia
 
 El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 271.
 
-Los ingresos que se obtengan por la recaudación de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley podrán ser empleados en acciones para mejorar las condiciones de los centros educativos y de los servicios de salud, así como en inversión física con un impacto social, ambiental y de desarrollo urbano positivo, incluyendo:
+Los ingresos que se obtengan por la recaudación de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley podrán ser empleados en acciones para mejorar las condiciones de los centros educativos y en el fortalecimiento de los servicios e infraestructura del sector salud, así como en inversión física con un impacto social, ambiental y de desarrollo urbano positivo, incluyendo:
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -17571,9 +17755,9 @@ V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas
 
 Los Estados y la Ciudad de México participarán en los ingresos de los derechos sobre minería a que se refiere el artículo 263 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará en un 85% a la Secretaría de Educación Pública, la cual en un 80% de la recaudación total de los derechos citados se deberá aplicar en términos de lo dispuesto por el artículo 271 de esta Ley y el 5% restante para desempeñar las funciones encomendadas en el presente artículo; en un 5% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera; y en un 10% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
+Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará por la Secretaría de Hacienda y Crédito Público en un 85% a la Secretaría de Educación Pública y a la Secretaría de Salud, mismas que, en un 80% de la recaudación total de los derechos citados, deberán aplicar en términos de lo dispuesto por el artículo 271 de esta Ley y el 5% restante para que desempeñen las funciones encomendadas en el presente artículo; en un 5% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera; y en un 10% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -17903,11 +18087,11 @@ Zacatecas: Presa José López Portillo (Tenayuca) en los municipios de Nochistl�
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 278-B.
 
-Para efectos del acreditamiento a que se refiere el artículo 278 de esta Ley, las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
+Para efectos de los artículos 278 y 282, fracción I de esta Ley, las concentraciones de contaminantes descargados al cuerpo receptor se determinarán, conforme a lo siguiente:
 
 I.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -18303,91 +18487,41 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 ### CAPITULO XVI. De los Bienes Culturales Propiedad de la Nación
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 288.
 
 Están obligados al pago del derecho por el acceso a los museos, monumentos y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
 
-Cuota
+Categoría I: $85.00
 
-Sin ajuste Con ajuste
+Categoría II: $70.00
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+Categoría III: $65.00
 
-Áreas tipo AAA: $80.60 $80
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo AA: $77.27 $75
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo A: $65.50 $65
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo B: $58.76 $60
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo C: $48.71 $50
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Tratándose del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $268.69 $270
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+Tratándose del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $300.00
 
 Para efectos de este artículo se consideran:
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+Categoría I:
 
-Áreas tipo AAA:
+Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Xochicalco (con museo); Museo Maya de Cancún y Sitio Arqueológico de San Miguelito; Zona Arqueológica Paquime; Sitio Arqueológico Calakmul; Monumento Inmueble Histórico Templo San Francisco Javier (Museo Nacional del Virreinato); Monumento Inmueble Histórico Ex Convento San Diego (Museo Nacional de las Intervenciones); Zona Arqueológica Cholula (con museo); Sitio Arqueológico San Gervasio; Galería de Historia; Zona Arqueológica Kohunlich; Zona Arqueológica de Cacaxtla y Xochitecatl (con museo); Zona Arqueológica Dzibilchaltun y Museo del Pueblo Maya; Sitio Arqueológico de Ek-Balam; Sitio Arqueológico de Xcambo; Sitio Arqueológico Bonampak; Zona Arqueológica Tula (con museo); Zona Arqueológica de Mitla; Zona Arqueológica Xelhá; Sitio Arqueológico Xcaret; Zona Arqueológica Yagul; Sitio Arqueológico Sierra de San Francisco; Zona Arqueológica de Edzná; Museo Regional de Guadalajara; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex-Obispado; Zona Arqueológica Cantoná; Museo Regional de Querétaro; Museo Fuerte San Juan de Ulúa; Museo Regional de Yucatán "Palacio Canton"; Museo de Guadalupe; Zona Arqueológica Tzin Tzun Tzan (con museo); Zona Arqueológica las Labradas; Zona Arqueológica Teopanzolco; y Zona Arqueológica El Tepoxteco (Tepoztlán).
 
-Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Xochicalco (con museo); Museo Maya de Cancún y Sitio Arqueológico de San Miguelito; Zona Arqueológica Paquime; Sitio Arqueológico Calakmul; Monumento Inmueble Histórico Templo San Francisco Javier (Museo Nacional del Virreinato); Monumento Inmueble Histórico Ex Convento San Diego (Museo Nacional de las Intervenciones); Zona Arqueológica Cholula (con museo); Sitio Arqueológico San Gervasio; y Galería de Historia.
+Categoría II:
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+Zona Arqueológica Becan; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo de El Carmen; Museo Histórico de Acapulco Fuerte de San Diego; Zona Arqueológica de Malinalco; Museo Regional de Puebla; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Museo de la Cultura Huasteca; Zona Arqueológica de Kabah; Sitio Arqueológico Tlatelolco; Sitio Arqueológico Pañhú; y Sitio Arqueológico La Mesa Tehuacán Viejo.
 
-Áreas tipo AA:
+Categoría III:
 
-Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya; Sitio Arqueológico de Tamtoc; Sitio Arqueológico Ek-Balam; Sitio Arqueológico Xcambó; Sitio Arqueológico Bonampak; Zona Arqueológica Tula (con museo); Zona Arqueológica Mitla; Zona Arqueológica Xelhá; Sitio Arqueológico Xcaret; Zona Arqueológica Yagul; y Sitio Arqueológico Sierra de San Francisco.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo A:
-
-Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo del Carmen; Museo Histórico de Acapulco Fuerte de San Diego; Museo Regional de Guadalajara; Zona Arqueológica de Malinalco; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex Obispado; Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán "Palacio Cantón"; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica Tzin tzun tzan (con museo); Museo de la Cultura Huasteca; y Zona Arqueológica de las Labradas.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo B:
-
-Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Museo Casa Carranza; Ex convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Zona Arqueológica Teopanzolco; Zona Arqueológica El Tepoxteco (Tepoztlán); Museo Casa de Juárez; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica El Rey; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Kabah; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica la Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica Ixtlán del Río-Los Toriles; y Zona Arqueológica el Meco.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo C:
-
-Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex Convento de San Andrés Epazoyucan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Los Melones; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex convento y Templo de Santiago; Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex convento de Yanhuitlán; Zona Arqueológica de Zaachila; Ex convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex convento San Francisco, Tecamachalco; Ex convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; y Zona Arqueológica de Muyil.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Museo Casa Carranza; Ex-Convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Museo Casa de Juárez; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica El Rey; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica La Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica Ixtlán del Río-Los Toriles; Zona Arqueológica el Meco; Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex-Convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex-Convento de San Andrés Epazoyucan; Museo Arqueológico de Ciudad Guzmán; Zona Arqueológica Los Melones; Monumento Histórico Capilla de Tlalmanalco; Ex-Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex-Convento y Templo de Santiago, Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex-Convento de Yanhuitlán; Zona Arqueológica de Zaachila Ex-Convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex-Convento de San Francisco, Tecamachalco; Ex-Convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica Tizatlán (con museo); Zona Arqueológica de Tres Zapotes (con museo); Sitio Arqueológico Quiahuiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; Zona Arqueológica de Muyil; Sitio Arqueológico de Tamtoc; Sitio Arqueológico Lagartero; Sitio Arqueológico La Ferrería; Sitio Arqueológico Boca de Potrerillos; Zona de Monumentos Arqueológicos El Cerrito; Sitio Arqueológico de Pomoná; Sitio Arqueológico de Cuyuxquihui; Sitio Arqueológico de Izapa; Sitio Arqueológico de Tehuacalco; Sitio Arqueológico de Xlapak; y Monumento Inmueble Histórico Museo Nacional de las Culturas del Mundo.
 
 El pago de este derecho deberá hacerse previamente al ingreso a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
 Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos, monumentos y zonas arqueológicas los domingos.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-Lo dispuesto en el párrafo anterior no será aplicable para las áreas tipo AAA, en las visitas después del horario normal de operación.
+Lo dispuesto en el párrafo anterior no será aplicable para las categorías previstas en el presente artículo, en las visitas después del horario normal de operación.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, D.O.F. DEL 29 DE DICIEMBRE DE 2020.]</small>
 
@@ -23654,3 +23788,29 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS".]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2022.
+
+Segundo. Durante el año 2022, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+II. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2022, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2021 hubieren optado por pagar para el referido ejercicio fiscal, más el 4% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2022 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2022, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, IX, XI, XIII, XV, XVIII y XIX de la Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2021, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2022 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2022 para los efectos de la opción a que se refieren los párrafos anteriores, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+III. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2021 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal de 2022, conforme a lo previsto en la mencionada fracción IV del artículo 29-D.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2021, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2022 conforme a la citada fracción del referido artículo 29-D en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+IV. Las bolsas de valores a que se refiere el artículo 29-E, fracción III de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2022, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-E, fracción III, podrán optar por pagar la cantidad equivalente en moneda nacional que resulte de multiplicar 1% por su capital contable. En caso de ejercer la opción a que se refiere la presente fracción, las bolsas de valores deberán estarse a lo dispuesto por el artículo 29-K, fracción II de la Ley Federal de Derechos.
+
+V. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos en las fracciones II, III y IV de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2022, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+VI. Los mexicanos que deseen obtener testamento público abierto en una oficina consular en el extranjero, pagarán el 50% del monto que corresponda en términos de la fracción III del artículo 23 de la Ley Federal de Derechos.
