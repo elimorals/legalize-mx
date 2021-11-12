@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-ii-2020-del-143711"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-08-06"
+last_updated: "2021-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-29"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -129,11 +129,11 @@ El acceso a los edificios de la Suprema Corte será restringido y únicamente se
 
 Conforme a las condiciones de evolución epidemiológica de la COVID 19 y lo previsto en la Guía Operativa, los titulares de órganos y áreas de la Suprema Corte determinarán el personal que asistirá a las oficinas y espacios de trabajo, y aquél que realizará sus funciones a distancia, sin que ello implique un demérito en la eficacia, eficiencia, calidad y profesionalismo en el desempeño del órgano o área respectivo.
 
+> <small>(REFORMADO, G.S.J.F. 12 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
-En cada órgano y área únicamente asistirán a las oficinas y espacios de trabajo, las y los servidores públicos cuyas funciones sean esenciales y cuya asistencia presencial sea indispensable.
-
-De acuerdo con las condiciones de evolución epidemiológica de la COVID 19, así como los criterios previstos en la Guía Operativa, se incrementará o disminuirá, en su caso, la cantidad de personas que laboren en la modalidad presencial.
+De acuerdo con las condiciones de evolución epidemiológica de la COVID 19, la Guía Operativa establecerá los criterios para incrementar o disminuir la cantidad de personas que laboren en la modalidad presencial.
 
 > <small>(REFORMADO, G.S.J.F. 6 DE AGOSTO DE 2021)</small>
 
@@ -155,13 +155,17 @@ Lo previsto en este artículo será aplicable hasta que inicie la prestación re
 
 Con el objeto de prevenir la transmisión de la COVID 19 en las oficinas y espacios de trabajo, el establecimiento de las jornadas y horarios de trabajo se sujetará a lo siguiente:
 
-I. La jornada diaria de trabajo a distancia tendrá la misma duración a la que tenía cada servidor público antes de la suspensión de labores;
+> <small>(REFORMADA, G.S.J.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-II. Por regla general, la jornada diaria de trabajo presencial será de cinco horas, que se complementará con trabajo a distancia por el tiempo restante.
+I. La jornada diaria de trabajo presencial y a distancia será de ocho horas;
 
-Podrá establecerse un número mayor de horas de trabajo presencial u otros horarios especiales para el desempeño de las funciones jurisdiccionales, así como de seguridad, mantenimiento, limpieza y otras que, a juicio de los titulares de los órganos y áreas, se requieran;
+> <small>(REFORMADA, G.S.J.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-III. En la modalidad presencial, por regla general, el horario será de nueve de la mañana a dos de la tarde, pero se establecerá un mecanismo de escalonamiento de horarios, con el objetivo de evitar la concentración de personas en las entradas y salidas;
+II. En la modalidad presencial, los horarios de trabajo se establecerán en un rango de siete de la mañana a cinco de la tarde de forma escalonada, con el objetivo de evitar la concentración de personas en las entradas y salidas;
+
+> <small>(REFORMADA, G.S.J.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+III. Podrán establecerse otros horarios o modalidades especiales para el desempeño de las funciones jurisdiccionales, así como de seguridad, mantenimiento, limpieza y otras que, a juicio de las personas titulares de los órganos y áreas, se requieran;
 
 IV. La jornada de trabajo presencial será continua, de tal manera que las y los servidores públicos eviten las entradas y salidas del centro de trabajo durante dicha jornada, salvo que lo autorice el titular del órgano o área correspondiente, o el servidor público competente, y
 
@@ -285,7 +289,7 @@ Conforme a las necesidades de funcionamiento de la Suprema Corte, se establecer�
 
 ###### ARTÍCULO VIGÉSIMO QUINTO.
 
-Se suspende hasta nuevo aviso la realización de eventos institucionales de carácter presencial, tales como congresos, seminarios, presentaciones, cursos, exposiciones, visitas guiadas y demás similares.
+(DEROGADO, G.S.J.F. 12 DE NOVIEMBRE DE 2021)
 
 ###### ARTÍCULO VIGÉSIMO SEXTO.
 
@@ -328,3 +332,15 @@ TERCERO. Las y los titulares de los órganos y áreas deberán realizar las acci
 CUARTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración Número II/2020, del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de Seguridad Sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19), a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
 
 QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+G.S.J.F. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACION NUMERO XII/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CINCO DE NOVIEMBRE DE DOS MIL VEINTIUNO, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-CoV2 (COVID 19).
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el ocho de noviembre de dos mil veintiuno.
+
+SEGUNDO. El Oficial Mayor realizará las modificaciones a la Guía Operativa que sean necesarias para dar cumplimiento al presente Acuerdo General de Administración.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración Número II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de Seguridad Sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19), a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
