@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-14806
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-31"
-last_updated: "2021-03-02"
+last_updated: "2021-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2021
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Décima Segunda Sección del Número 76 del Periódico Oficial del Estado de Michoacán, el jueves 31 de diciembre de 2020.
 
@@ -345,9 +345,13 @@ Artículo Tercero. Todas las dependencias y sus órganos desconcentrados deberá
 
 Incurrirán en responsabilidad administrativa los servidores públicos que no informen los recursos a que se refiere el párrafo anterior, en los términos que en el mismo se señalan y serán sancionados con multa equivalente a los 2000 UMAS, además de considerarse desvío de fondos el recurso destinado a cuentas diversas.
 
-Artículo Cuarto. Se implementará el programa de «borrón y cuenta nueva» durante los primeros cuatro meses del ejercicio 2021 en materia de Derechos de Control Vehicular, que consiste en la condonación de todos los derechos en materia de refrendo, placas de circulación vehicular y tarjeta de circulación, incluyendo sus accesorios, desde que se haya generado la obligación de pago y hasta el 2020, tanto a particulares como a concesionarios del servicio público siempre y cuando se dé cumplimiento a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-1. Se pague dentro de los primeros cuatro meses del ejercicio 2021, el derecho por concepto de placas, refrendo o ambos, según sea el caso;
+Artículo Cuarto. Se implementará el programa de «Borrón y Cuenta Nueva» a partir del día de publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y hasta el 31 de diciembre del Ejercicio Fiscal 2021, en materia de Derechos de Control Vehicular, que consiste en la condonación de todos los derechos en materia de refrendo, placas de circulación vehicular y tarjeta de circulación, incluyendo sus accesorios, desde que se haya generado la obligación de pago y hasta el 2020, tanto a particulares como a concesionarios del servicio público, siempre y cuando se dé cumplimiento a lo siguiente:
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
+
+1. Se pague a partir del día de publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y hasta el 31 de diciembre de este año 2021, el derecho por concepto de placas, refrendo o ambos, según sea el caso;
 
 2. Se solicite la condonación por parte del particular.
 
@@ -373,9 +377,9 @@ Los créditos generados por los automóviles que por abandono de los contribuyen
 
 Así mismo, previo el cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-El monto del Derecho a pagar por las citadas licencias será de $2,000.00 (dos mil pesos 00/100 M.N), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá una vigencia del 1 de marzo al 15 de marzo de 2021.
+El monto del derecho a pagar por las citadas licencias será de $2,000.00 (Dos mil pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia a partir del día de publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y hasta el 31 de diciembre del año 2021.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
 
@@ -436,3 +440,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Notifíquese a la Dirección de Recaudación de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado para que, se prevean los recursos presupuestales y materiales necesarios para dar cumplimiento al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 04 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO Y EL NUMERAL UNO DEL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 505 PUBLICADO EL 31 DE DICIEMBRE DEL AÑO 2020 Y EL QUINTO PÁRRAFO DEL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 514 PUBLICADO EL 02 DE MARZO DEL AÑO 2021; AMBOS DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2021".]
+
+Artículo Primero. El presente Decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se condonan los derechos que se causen por la expedición de permisos de circulación, para vehículos del servicio particular, público y motocicletas, en el supuesto de que al registrar el alta del automotor en el padrón vehicular o al realizar un canje de placas de circulación, la Secretaría de Finanzas y Administración carezca de láminas con las cuales se pueda concretar la prestación de dicho servicio.
+
+Los permisos para circular sin placas serán vigentes hasta el día 31 de enero de 2022 o en tanto haya existencia de las mismas.
+
+Artículo Tercero. Para dar cumplimiento al presente Decreto, deberá aperturarse una cuenta única concentradora para la recaudación de los programas denominados "Borrón y Cuenta Nueva" y "Licencia Permanente".
+
+Artículo Cuarto. La recaudación por la implementación de los programas denominados "Borrón y Cuenta Nueva" y "Licencia Permanente" en el presente Decreto, se deberán aplicar en el pago de Nómina de los Trabajadores al Servicio del Estado; el 5% de la recaudación total para el fortalecimiento de las policías municipales en equipamiento e infraestructura, una vez elaboradas las reglas de operación; y, en caso de excedente para cubrir adeudos de cuotas obrero patronales.
+
+Artículo Quinto. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
