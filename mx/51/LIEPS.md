@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2020-12-24"
+last_updated: "2021-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -155,6 +155,10 @@ Las cantidades señaladas en el presente inciso, se actualizarán anualmente y e
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 Cuando los bienes a que se refiere este inciso estén mezclados, la cuota se calculará conforme a la cantidad que en la mezcla tenga cada combustible. Tratándose de la importación o enajenación de dichas mezclas, los contribuyentes deberán consignar la cantidad de cada uno de los combustibles que se contengan en la mezcla en el pedimento de importación o en el comprobante fiscal, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+Cuando la autoridad aduanera o fiscal, en ejercicio de sus facultades de comprobación, detecte que por las características de la mercancía que se introduce o pretende introducir a territorio nacional, se trata de los bienes a que se refiere este inciso, respecto de los cuales se ha omitido el pago total o parcial del impuesto a que se refiere el presente inciso, se aplicará la cuota que corresponda según el tipo de combustible de que se trate, sin perjuicio de las sanciones administrativas y penales que sean procedentes.
 
 E) (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
@@ -432,9 +436,9 @@ II. Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levad
 
 III. Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-IV. Marbete, el signo distintivo de control fiscal y sanitario, que se adhiere a los envases que contengan bebidas alcohólicas con capacidad que no exceda de 5,000 mililitros.
+IV. Marbete, el signo distintivo de control fiscal y sanitario que puede ser físico y se adhiere a los envases que contengan bebidas alcohólicas, o bien, electrónico que se imprime del folio autorizado y entregado por el Servicio de Administración Tributaria en las etiquetas o contraetiquetas de los referidos envases, en ambos casos con capacidad que no exceda de 5,000 mililitros.
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -616,6 +620,10 @@ XXXV. Alimentos preparados a base de cereales, comprende todo tipo de alimento p
 
 XXXVI. Helados, al alimento elaborado mediante la congelación, con agitación de una mezcla pasteurizada compuesta por una combinación de ingredientes lácteos, que puede contener grasas vegetales permitidas, frutas, huevo, sus derivados y aditivos para alimentos.
 
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+XXXVII. Establecimientos de consumo final, a las cantinas, bares, cervecerías, centros nocturnos, cabarets, restaurantes, hoteles, centros sociales, discotecas, loncherías, fondas, kermeses, ferias, espectáculos, bailes públicos, salones, banquetes, casinos, y todos aquellos en los que se realice la apertura de bebidas alcohólicas para su venta y consumo final.
+
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 4o.
@@ -708,6 +716,10 @@ Las disposiciones que establece el Código Fiscal de la Federación en materia d
 
 Tratándose del impuesto a que se refiere el inciso H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes podrán optar por pagar el impuesto mediante la entrega de los bonos de carbono a que se refiere la fracción XXIV del artículo 3o. del mismo ordenamiento, cuando sean procedentes de proyectos desarrollados en México y avalados por la Organización de las Naciones Unidas dentro de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. El valor de dichos bonos será el que corresponda a su valor de mercado en el momento en que se pague el impuesto. La entrega de dichos bonos y la determinación de su valor se realizará de conformidad con las reglas de carácter general que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+Cuando la autoridad fiscal, en el ejercicio de sus facultades de comprobación, advierta la omisión en el pago del impuesto a que se refiere el artículo 2o., fracción I, inciso D) de esta Ley, para efectos de la determinación del impuesto omitido, se aplicarán las cuotas que correspondan conforme a dicho inciso, sin disminución alguna.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
@@ -744,35 +756,9 @@ Los contribuyentes también podrán disminuir del impuesto correspondiente a las
 
 Para los efectos de esta Ley, se considera que se cobran efectivamente las contraprestaciones correspondientes a los actos o actividades gravadas, cuando se realicen los supuestos que para tal efecto se establecen en la Ley del Impuesto al Valor Agregado.
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 5o.-D.
 
-Los contribuyentes que ejerzan la opción a que se refiere el artículo 111 de la Ley del Impuesto sobre la Renta, durante el periodo que permanezcan en el régimen previsto en dicho artículo, en lugar de calcular y pagar mensualmente el impuesto especial sobre producción y servicios, conforme lo establece el artículo 5o. de esta Ley, deberán calcularlo en forma bimestral por los periodos comprendidos de enero y febrero; marzo y abril; mayo y junio; julio y agosto; septiembre y octubre; y, noviembre y diciembre de cada año y pagarlo a más tardar el día 17 del mes siguiente al bimestre que corresponda el pago, mediante declaración que presentarán a través de los sistemas que disponga el Servicio de Administración Tributaria en su página de Internet, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos bimestrales tendrán el carácter de definitivos.
-
-El pago bimestral será la diferencia entre el impuesto que corresponda al total de las actividades causadas en el bimestre por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades correspondientes al mismo periodo por las que proceda el acreditamiento determinadas en los términos de esta Ley.
-
-Los contribuyentes a que se refiere el presente artículo que, en su caso, efectúen la retención a que se refiere el artículo 5o.-A de esta Ley, en lugar de enterar el impuesto retenido mensualmente mediante la declaración a que se refiere el primer párrafo de dicho artículo, lo enterarán por los bimestres a que se refiere el primer párrafo de este artículo, conjuntamente con la declaración de pago prevista en el mismo o, en su defecto, a más tardar el día 17 del mes siguiente al bimestre que corresponda.
-
-Tratándose de contribuyentes que inicien actividades, en la declaración correspondiente al primer bimestre que presenten, deberán considerar únicamente los meses que hayan realizado actividades.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Cuando en la declaración de pago bimestral resulte saldo a favor, el contribuyente únicamente podrá compensarlo contra el mismo impuesto a su cargo que le corresponda en los pagos bimestrales siguientes hasta agotarlo. Para estos efectos, se consideran impuestos distintos cada uno de los gravámenes aplicables a las categorías de bienes y servicios a que se refieren los incisos de las fracciones I y II, del artículo 2o., así como el impuesto establecido en el artículo 2o.-A de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Tratándose de los contribuyentes que realicen exportaciones de conformidad con el artículo 2o., fracción III de esta Ley y dichas exportaciones representen, al menos, el 90% en el valor total de las actividades que el contribuyente realice en el bimestre de que se trate, podrán optar por compensar el saldo a favor en los términos del párrafo anterior o solicitar su devolución en los términos del artículo 22 del Código Fiscal de la Federación.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Cuando el contribuyente no compense el saldo a favor contra el impuesto que le corresponda pagar en el bimestre de que se trate, o en los dos siguientes, pudiendo haberlo hecho, perderá el derecho a hacerlo en los bimestres siguientes hasta por la cantidad en que pudo haberlo compensado.
-
-Los contribuyentes a que se refiere este artículo, deberán cumplir la obligación prevista en la fracción III del artículo 112 de la Ley del Impuesto sobre la Renta, en lugar de llevar la contabilidad a que se refiere la fracción I del artículo 19 de esta Ley. Asimismo, podrán conservar y expedir comprobantes fiscales de conformidad con lo establecido en las fracciones II y IV del citado artículo 112.
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Asimismo, los contribuyentes a que se refiere el presente artículo, no estarán obligados a presentar las declaraciones informativas previstas en este ordenamiento, siempre que presenten la información de las operaciones con sus proveedores en el bimestre inmediato anterior, de conformidad con la fracción VIII del artículo 112 de la Ley del Impuesto sobre la Renta. Lo dispuesto en este párrafo, no será aplicable a las obligaciones establecidas en las fracciones IX, XII y XV del artículo 19 de la presente Ley. La información a que se refieren las fracciones IX y XV citadas se presentarán en forma bimestral conjuntamente con la declaración de pago.
+(DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -1214,9 +1200,9 @@ XIII. Los contribuyentes de los bienes a que se refieren los incisos A), D), F) 
 
 Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligación a que se refiere esta fracción en los meses de enero y julio de cada año.
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-XIV. Los fabricantes, productores, envasadores e importadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público. Asimismo, los fabricantes, productores, envasadores e importadores, de bebidas alcohólicas, deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Reglamento de esta Ley y disposiciones de carácter general que para tal efecto se emitan.
+XIV. Los fabricantes, productores, envasadores e importadores, de alcohol y de bebidas alcohólicas, deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público y deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Reglamento de esta Ley y disposiciones de carácter general que para tal efecto se emitan.
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1230,7 +1216,9 @@ XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 d
 
 XVII. Proporcionar la información que del impuesto especial sobre producción y servicios se les solicite en las declaraciones del impuesto sobre la renta.
 
-XVIII. Los contribuyentes a que hace referencia esta Ley, que enajenen al público en general bebidas alcohólicas para su consumo en el mismo lugar o establecimiento en el que se enajenen, deberán destruir los envases que las contenían, inmediatamente después de que se haya agotado su contenido.
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+XVIII. Los contribuyentes que enajenen al público en general bebidas alcohólicas para su consumo en el mismo lugar o establecimiento en el que se enajenen, deberán destruir los envases que las contenían, inmediatamente después de que se haya agotado su contenido. El Servicio de Administración Tributaria, a través de reglas de carácter general, podrá establecer los casos en los que no será aplicable la obligación de destruir envases a que se refiere la presente fracción.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -1240,29 +1228,25 @@ XX. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 XXI. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-XXII. Los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán imprimir un código de seguridad en cada una de las cajetillas de cigarros para su venta en México, así como registrar, almacenar y proporcionar al Servicio de Administración Tributaria la información que se genere derivada de los mecanismos o sistemas de impresión del referido código.
+XXII. Los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán imprimir un código de seguridad en cada una de las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados para su venta en México, el cual será generado y proporcionado por el Servicio de Administración Tributaria. Asimismo, deberán registrar, almacenar y proporcionar a dicho órgano desconcentrado la información que se genere derivada de los mecanismos o sistemas de impresión del referido código.
 
-Para lo anterior, los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán cumplir con lo siguiente:
+Para los efectos del párrafo anterior, los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán cumplir con lo siguiente:
 
-a) Imprimir el código de seguridad con las características técnicas y de seguridad que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
+a) Imprimir el código de seguridad a que se refiere esta fracción con las características técnicas y de seguridad que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
 
-b) Imprimir el código de seguridad en la línea de producción de las cajetillas de cigarros o antes de la importación a territorio nacional de las mismas, utilizando los mecanismos o sistemas que cumplan las características técnicas y de seguridad que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
+b) Imprimir el código de seguridad a que se refiere esta fracción en la línea de producción de las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados o antes de la importación a territorio nacional de las mismas, utilizando los mecanismos o sistemas que cumplan las características técnicas y de seguridad que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
 
-c) Registrar y almacenar la información contenida en el código de seguridad, así como la información de la impresión del mismo en las cajetillas de cigarros, generada por los mecanismos o sistemas de impresión del referido código, en los términos que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
+c) Registrar y almacenar la información contenida en el código de seguridad a que se refiere esta fracción, así como la información de la impresión del mismo en las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados, generada por los mecanismos o sistemas de impresión del referido código, en los términos que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
 
 d) Proporcionar al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los registros que se realicen conforme al inciso anterior, en los términos que determine dicho órgano desconcentrado, mediante reglas de carácter general.
 
 e) Instrumentar las demás características técnicas y de seguridad que establezca el Servicio de Administración Tributaria, mediante reglas de carácter general.
 
-La impresión del código de seguridad, así como el registro, almacenamiento y el proporcionar la información que se genere derivada de los mecanismos o sistemas de impresión del referido código, se deberá realizar a través de los proveedores de servicios de impresión de códigos de seguridad previamente autorizados por el Servicio de Administración Tributaria.
+El Servicio de Administración Tributaria podrá requerir a los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, la información o la documentación a que se refieren los párrafos primero y segundo de esta fracción, así como la relativa a sus sistemas, clientes, operaciones y mecanismos, que estime necesaria, relacionada con el cumplimiento de las obligaciones a que se refiere esta fracción. Asimismo, dicho órgano desconcentrado podrá realizar en todo momento verificaciones en los locales, establecimientos o domicilios de los mismos, a efecto de constatar el cumplimiento de las obligaciones a que se encuentran afectos.
 
-Cuando los proveedores autorizados de servicios de impresión de códigos de seguridad incumplan con alguna de las obligaciones que deriven de la autorización, o bien cuando no atiendan a lo señalado en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria, dicho órgano desconcentrado podrá revocar las autorizaciones correspondientes.
-
-El Servicio de Administración Tributaria podrá requerir a los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, la información o la documentación a que se refieren los párrafos primero y segundo de esta fracción, así como la relativa a sus sistemas, proveedores, clientes, operaciones y mecanismos que estime necesaria, relacionada con el cumplimiento de las obligaciones a que se refiere esta fracción. Asimismo, podrá realizar en todo momento verificaciones en los locales, establecimientos o domicilios de los mismos, a efecto de constatar el cumplimiento de las obligaciones a que se encuentran afectos.
-
-Los contribuyentes a que se refiere esta fracción deberán poner a disposición de las autoridades fiscales la información, documentación o dispositivos necesarios, que permitan constatar el cumplimiento de las obligaciones previstas en los párrafos primero, segundo y cuarto de esta fracción y en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria. Asimismo, deberán permitir a las autoridades fiscales la realización de las verificaciones a que se refiere el párrafo anterior.
+Los contribuyentes a que se refiere esta fracción deberán poner a disposición de las autoridades fiscales la información, documentación o dispositivos necesarios, que permitan constatar el cumplimiento de las obligaciones previstas en los párrafos primero y segundo de esta fracción y en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria. Asimismo, deberán permitir a las autoridades fiscales la realización de las verificaciones a que se refiere el párrafo anterior.
 
 Cuando los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, incumplan con alguna de las obligaciones establecidas en esta Ley, o bien, cuando no atiendan lo señalado en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria, dicho órgano desconcentrado impondrá las sanciones que procedan, conforme al Código Fiscal de la Federación.
 
@@ -1270,15 +1254,17 @@ Cuando los productores, fabricantes e importadores de cigarros y otros tabacos l
 
 XXIII. Los importadores de concentrados, polvos, jarabes, esencias o extractos de sabores, para los efectos de pagar el impuesto en la importación, deberán manifestar bajo protesta de decir verdad, el número de litros de bebidas saborizadas con azucares añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener. Las especificaciones no podrán ser menores a las que el importador manifieste en la enajenación que de dichos bienes haga en el mercado nacional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+XXIV. Los establecimientos de consumo final tendrán la obligación de realizar, en presencia del consumidor, la lectura a través de un dispositivo móvil del código QR del marbete que se encuentra adherido a los envases o impreso en la etiqueta o contraetiqueta de los mismos.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 19-A.
 
-Cuando el Servicio de Administración Tributaria detecte cajetillas de cigarros que no cumplan con la impresión del código de seguridad a que se refiere el artículo 19, fracción XXII, las mismas serán aseguradas y pasarán a propiedad del fisco federal, a efecto de que se proceda a su destrucción.
+Cuando el Servicio de Administración Tributaria detecte cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados que no cumplan con la impresión del código de seguridad a que se refiere el artículo 19, fracción XXII de esta Ley, las mismas serán aseguradas y pasarán a propiedad del fisco federal, a efecto de que se proceda a su destrucción.
 
-Para los efectos de este artículo, el Servicio de Administración Tributaria podrá realizar en todo momento verificaciones en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que utilicen para el desempeño de sus actividades quienes vendan, enajenen o distribuyan en México las cajetillas de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que deban contener impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de esta Ley, observando para ello el procedimiento que se establece en el artículo 49 del Código Fiscal de la Federación.
+Para los efectos de este artículo, el Servicio de Administración Tributaria podrá realizar en todo momento verificaciones en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que utilicen para el desempeño de sus actividades quienes vendan, enajenen o distribuyan en México las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que deban contener impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de esta Ley, observando para ello el procedimiento que se establece en el artículo 49 del Código Fiscal de la Federación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3221,3 +3207,9 @@ D.O.F. 24 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2021.
+
+D.O.F. 12 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS".]
+
+ÚNICO. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
