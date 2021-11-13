@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2021-08-28"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -409,13 +409,17 @@ II. Asegurar la aplicación de sanciones a los hostigadores y acosadores sexuale
 
 III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-IV. Instrumentar programas que brinden servicios reeducativos integrales para víctimas y agresores; y
+IV. Instrumentar programas que brinden servicios reeducativos integrales para víctimas y agresores;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-V. Diseñar planes y programas que promuevan la igualdad salarial entre mujeres y hombres.
+V. Diseñar planes y programas que promuevan la igualdad salarial entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VI. Establecer programas psicológicos para las mujeres que sufren violencia de género; en cualquiera de sus ámbitos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -435,9 +439,9 @@ III. Establecer un Protocolo para la atención e investigación del hostigamient
 
 IV. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar la escuela o trabajo;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-V. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual; e
+V. Proporcionar atención psicológica, psiquiátrica y legal, especializada y gratuita, a quien sea víctima de hostigamiento o acoso sexual; e
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1761,9 +1765,9 @@ I. Establecer políticas transversales con perspectiva de género que garanticen
 
 II. Vigilar de forma permanente que las condiciones en su fuente de trabajo no expongan a las mujeres a la Violencia Laboral;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-III. Establecer mecanismos para erradicar el hostigamiento y acoso sexual a las mujeres en los centros laborales, y aplicar procedimientos administrativos para sancionar al agresor;
+III. Elaborar e implementar el Protocolo para la prevención, atención y sanción del hostigamiento y acoso sexual en la Administración Pública Estatal; así como vigilar y establecer mecanismos para erradicar el hostigamiento y acoso sexual a las mujeres en los centros laborales, y aplicar procedimientos administrativos para sancionar al agresor;
 
 IV. Vigilar la aplicación de políticas de gobierno para la promoción y protección de los derechos laborales de mujeres menores de edad en términos de la legislación laboral aplicable y la Presente Ley;
 
@@ -1879,13 +1883,17 @@ XX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XXI. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XXII. Promover y participar en la elaboración e instrumentación de protocolos para la atención de denuncias de hostigamiento, abuso, acoso y violencia sexual en las instituciones educativas públicas y privadas del estado; y
+XXII. Supervisar la elaboración, actualización, instrumentación y aplicación de los protocolos necesario (sic) para la atención de denuncias de hostigamiento, abuso, acoso y violencia sexual en las instituciones educativas públicas y privadas del Estado, así como participar en su elaboración vigilando que se realicen con base en una perspectiva de género y de Derechos humanos;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XXIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XXIII. Corresponde a las Instituciones de Educación Superior Públicas del Estado , elaborar, aprobar, observar y aplicar los protocolos necesarios y suficientes de actuación especializados para la prevención, atención, sanción y erradicación de las violencias contra las mujeres en razón de género, de forma particular en lo relacionado con el acoso y hostigamiento sexual, así como con la violencia digital, en todas sus formas y manifestaciones, dirigidos al personal y estudiantes de los centros educativos universitarios; y
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XXIV. Las demás que le confiera esta Ley y otros ordenamientos aplicable (sic)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -2638,3 +2646,19 @@ CUARTO. Los casos de desaparición o no localización de mujeres, iniciados bajo
 QUINTO. A partir de la entrada en vigor del presente Decreto, la Fiscalía General del Estado de Oaxaca, contará con 45 días naturales para emitir la convocatoria y realizar la instalación del Comité Técnico de Colaboración del Protocolo Alba, apegándose a lo establecido en los diversos instrumentos nacionales e internacionales en materia de Derechos Humanos.
 
 SEXTO. La Fiscalía General del Estado de Oaxaca contará con 45 días naturales, a partir de la instalación del Comité Técnico de Colaboración del Protocolo Alba, para la elaboración y publicación del Protocolo Alba en el Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2815.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 16, Y LA FRACCIÓN V DEL ARTÍCULO 17; Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 16 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2818.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 63, Y LA FRACCIÓN XXII DEL ARTÍCULO 65; Y SE ADICIONA LA FRACCIÓN XXIII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 65, DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
