@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-10-23"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -407,17 +407,21 @@ Toda persona tiene derecho a la identidad y a ser registrada inmediatamente desp
 
 En el Estado está prohibida la trata de personas en todas sus formas.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-El Estado y los municipios promoverán normas, políticas y acciones para alcanzar igualdad entre hombres y mujeres, en todos los ámbitos; incorporarán la perspectiva de género en programas y capacitarán a los servidores públicos para su obligatoria aplicación en todas las instancias de Gobierno de los distintos niveles.
+El Estado y los municipios promoverán normas, políticas y acciones para alcanzar igualdad entre las personas, en todos los ámbitos incorporarán la perspectiva de género en programas y capacitarán a los servidores públicos para su obligatoria aplicación en todas las instancias de gobierno de los distintos niveles.
+
+> <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO]</small>
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 1999)</small>
 
 El Estado otorgará a los ciudadanos la seguridad indispensable para salvaguardar su vida e integridad personal, la ley establecerá la forma y términos en que deba brindarse.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO]</small>
 
-Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Todas las personas serán sujetos de iguales derechos y obligaciones ante la ley.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -511,9 +515,9 @@ El Estado promoverá lo necesario para que la población tenga acceso a una vivi
 
 Todo persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de las personas, pueblos y comunidades indígenas y afromexicanas; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua. Con el propósito de asegurar la disponibilidad del agua, abatir los niveles de contaminación, las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en arroyos, ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo. El Estado procurará los mecanismos para construir y coadyuvar con el mantenimiento de plantas de tratamiento de aguas residuales en los Municipios.
+Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua. Con el propósito de asegurar la disponibilidad del agua, abatir los niveles de contaminación, las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en arroyos, ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo. El estado procurará los mecanismos para construir y coadyuvar con el mantenimiento de plantas de tratamiento de aguas residuales en los Municipios; los pueblos y comunidades indígenas y afromexicanas gozarán de la disponibilidad del agua.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -653,7 +657,9 @@ En los conflictos de límites ejidales, municipales o de bienes comunales, el Es
 
 Se reconocen los sistemas normativos internos y comunidades indígenas y afromexicanas, así como jurisdicción a sus autoridades comunitarias, los cuales elegirán autoridades o representantes garantizando la participación de mujeres y hombres en condiciones de igualdad, observando el principio de paridad de género, conforme a las normas de la Constitución Federal, esta Constitución Local y las leyes aplicables. La ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
 
-El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas y afromexicano el derecho social al uso y disfrute de los recursos naturales de sus tierras y territorios, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas y afromexicano.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas y afromexicano el derecho social al uso y disfrute de los recursos naturales de sus tierras, territorios, así como los métodos y prácticas comunitarias para la protección, conservación, gestión, uso y aprovechamiento del agua, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas.
 
 La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas y al pueblo y comunidades afromexicanas, así como las sanciones que procedan para el caso de incumplimiento.
 
@@ -863,11 +869,11 @@ VII. Auspiciar la sana alimentación, la práctica de algún deporte y la sana r
 
 De los Ciudadanos, de las Elecciones, de los Partidos Políticos, de los Mecanismos de la Participación Ciudadana, de los Medios de Impugnación y de los Candidatos Independientes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 23.
 
-Son ciudadanas y ciudadanos oaxaqueños del Estado de Oaxaca los hombres y mujeres que hayan nacido en su territorio, quienes sean hijos de padre o madre oaxaqueños y quienes, teniendo una residencia mínima de cinco años en la Entidad, deseen ser considerados como tales, en los términos de la Ley, que sean mayores de 18 años y tengan modo honesto de vivir.
+Son ciudadanas y ciudadanos oaxaqueños del Estado de Oaxaca las personas que hayan nacido en su territorio, quienes sean hijos de padre o madre oaxaqueños y quienes, teniendo una residencia mínima de cinco años en la entidad, deseen ser considerados como tales, en los términos de la ley, que sean mayores de 18 años y tengan modo honesto de vivir.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -911,9 +917,9 @@ I.- Votar en las elecciones populares y participar en los procesos de plebiscito
 
 II.- Ser votadas y votados, para todos los cargos de elección popular, como candidatas o candidatos independientes o por los partidos políticos, de conformidad con las disposiciones normativas aplicables;
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-III.- Las ciudadanas tendrán derecho a ser nombradas para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;
+III.- Las personas ciudadanas tendrán derecho a ser nombradas para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -1133,9 +1139,9 @@ Los partidos políticos deberán respetar los sistemas electorales de los pueblo
 
 C. DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-Se reconocen como mecanismos de participación ciudadana: el voto libre y secreto, el plebiscito, el referéndum, la consulta ciudadana sobre revocación de mandato, la audiencia pública, el cabildo en sesión abierta y los consejos consultivos ciudadanos, bajo las siguientes bases y criterios:
+Se reconocen como mecanismos de participación ciudadana: el voto libre y secreto, el plebiscito, el referéndum, la consulta ciudadana sobre revocación de mandato, la audiencia pública, el cabildo en sesión abierta, los consejos consultivos ciudadanos, la planeación participativa; que serán regulados por la Constitución y la ley, bajo las siguientes bases y criterios:
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -1212,6 +1218,14 @@ En dichas sesiones los ciudadanos no tendrán derecho a voto. La Ley determinar�
 VI.- Los órganos autónomos del Estado deberán contar con consejos consultivos ciudadanos de carácter honorífico. En los mismos términos, los Ayuntamientos y la administración pública estatal podrán constituir consejos consultivos cuando se requiera la colaboración, participación, asesoría especializada, consulta y enlace ciudadano.
 
 La ley determinará los casos en los que la integración de un consejo consultivo ciudadano sea obligatoria así como su organización y funcionamiento.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VII.- La planeación participativa es el mecanismo a través del cual la ciudadania se involucra en la creación de los instrumentos de planeación del desarrollo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII.]</small>
+
+Las leyes de la materia determinarán los procedimientos aplicables para este mecanismo.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2579,9 +2593,9 @@ XXVIII. Cuidar el acervo de las obras artísticas, históricas y arqueológicas 
 
 XXIX. Respetar y garantizar la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales y esta Constitución; en particular, el fortalecimiento de su libre determinación y autonomía, patrimonio cultural, desarrollo económico y social que posibiliten sus aspiraciones y formas propias de vida, así como la protección y conservación de sus tierras, territorios y recursos o bienes naturales; y
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-Podrá realizar consultas a los pueblos y comunidades indígenas y afromexicanas, garantizando el principio de consentimiento libre, previo e informado, antes de adoptar medidas Administrativas y de otra índole, que les afecten o sean susceptibles de afectarles, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
+Deberá realizar consultas a los pueblos y comunidades indígenas y afromexicanas, garantizando el principio de consentimiento libre, previo e informado, antes de adoptar medidas administrativas y de otra índole, que les afecten o sean susceptibles de afectarle, en los términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
@@ -3772,6 +3786,10 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
 
 La indemnización por error judicial constituye un derecho humano de los particulares que debe ser exigible a las autoridades conforme al procedimiento que la ley establezca.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+También será responsabilidad del Estado, los daños y perjuicios ocasionados por los servidores públicos del Poder Judicial del Estado, que dicten prisión preventiva o mantengan en prisión preventiva de manera injustificada a una persona, quien en este caso podrá exigir el pago de la indemnización correspondiente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2018)</small>
 
@@ -6234,3 +6252,45 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2662.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXIX DEL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2669.- MEDIANE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL APARTADO C DEL ARTÍCULO 25; Y SE ADICIONA LA FRACCIÓN VII AL APARTADO C DEL REFERIDO ARTÍCULO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2796.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTÍCA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas aquellas disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2738.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS DÉCIMO SEGUNDO Y DÉCIMO TERCERO DEL ARTÍCULO 12, EL PÁRRAFO PRIMERO DEL ARTÍCULO 23, Y LA FRACCIÓN III DEL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2741.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TRIGÉSIMO SEGUNDO DEL ARTÍCULO 12; Y EL PÁRRAFO NOVENO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
