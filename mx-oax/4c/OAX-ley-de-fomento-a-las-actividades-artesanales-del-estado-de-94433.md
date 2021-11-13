@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2021-09-18"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -443,6 +443,34 @@ Artículo 41 (sic).- El Instituto diseñará políticas públicas para cumplir c
 
 Corresponde evaluar el correcto desempeño de la administración del Fondo Artesanal a la Junta Directiva.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO XV. DEL FOMENTO ARTESANAL EN LA PLANEACIÓN EDUCATIVA
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 43.
+
+El Instituto, promoverá ante las autoridades educativas correspondientes para que se incluya en sus planes y programas de los distintos niveles educativos, el fomento de la enseñanza teórica y práctica de las artesanías, a fin de promover el conocimiento, valoración, preservación y desarrollo de la cultura y actividad artesanal de la entidad.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 44.
+
+El fomento de la enseñanza teórica y práctica de las artesanías, puede consistir enunciativamente más no limitativas (sic), en las siguientes:
+
+I. Implementar talleres de capacitación artesanal en los centros de educación pública de la entidad;
+
+II. Promover el desarrollo de la enseñanza de las técnicas artesanales en los sistemas educativos;
+
+III. Promover la investigación científica aplicada para mejorar la actividad artesanal;
+
+IV. Promover la artesanía como valor de identidad estatal, arte, cultura y tradición; y
+
+V. Las que se establezcan en otras disposiciones legales o reglamentarias aplicables.
+
+El Instituto promoverá también ante las autoridades municipales dicha enseñanza, con la finalidad de que se implementen en los centros educativos de la comunidad.
+
 TRANSITORIOS:
 
 PRIMERO.- La presente Ley, entrará en vigor, un año después de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -538,3 +566,13 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2794.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO XV DENOMINADO "DEL FOMENTO ARTESANAL EN LA PLANEACIÓN EDUCATIVA", QUE CONTIENE LOS ARTÍCULOS 43 Y ARTÍCULO (SIC) 44, A LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
