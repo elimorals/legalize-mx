@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-10-23"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -483,15 +483,25 @@ La Secretaría deberá instrumentar la exacta promoción de estos tipos de turis
 
 La Secretaría también podrá concretar convenios con los diversos Prestadores de Servicios Turísticos, para el (sic) cumplir con el objetivo de facilitar la promoción y fomento de estos tipos de turismo.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+Se entenderá por turismo accesible a la política pública que incorpora el principio de accesibilidad a través del diseño universal, en las instalaciones turísticas de manera que las personas con discapacidad y personas adultas mayores, puedan acceder a las instalaciones en igualdad de condiciones, con la mayor autonomía posible.
+
 ### CAPÍTULO IV. DEL TURISMO ACCESIBLE
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes de la Administración Pública del Estado y con las de los Ayuntamientos, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad, apegada a la Ley de los Derechos de las Personas con Discapacidad del Estado de Oaxaca.
+La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes de la Administración Pública del Estado y con las de los Ayuntamientos, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad y a las personas adultas mayores, apegada a la Ley de los Derechos de las Personas con Discapacidad del Estado de Oaxaca y la Ley para la Protección de los Derechos de las Personas Adultas Mayores en el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas. La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad y personas adultas mayores cuenten con accesibilidad a los servicios en condiciones adecuadas. La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
 
 ###### Artículo 24.
 
@@ -635,6 +645,10 @@ La Secretaría propondrá al Titular del Ejecutivo del Estado programas de capac
 
 Asimismo, la Secretaría en coordinación con instancias estatales competentes establecerá programas permanentes de capacitación dirigido a los trabajadores del sector turístico.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+La capacitación turística se considerará como una actividad prioritaria para la eficaz prestación de los servicios turísticos, deberá comprender entre otros aspectos, la enseñanza de Lengua de Señas Mexicanas, para efecto de brindar una plena atención a las personas con discapacidad auditiva.
+
 ## TÍTULO NOVENO. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
 ### CAPÍTULO ÚNICO. DEL REGISTRO NACIONAL DE TURISMO
@@ -729,7 +743,9 @@ X. Disponer de lo necesario para que los inmuebles, edificaciones y servicios tu
 
 XI. Cumplir con las características y requisitos exigidos, de acuerdo a su clasificación en los términos de la Ley General;
 
-XII. Prestar sus servicios en español como primera lengua, lo que no impide que se puedan prestar los servicios en otros idiomas o lenguas;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XII. Prestar sus servicios en español como primera lengua, lo que no impide que se puedan prestar los servicios en otros idiomas o lenguas. Así mismo y en lo posible deberán contar con un intérprete de Lengua de Señas Mexicanas;
 
 XIII. Colaborar con la política municipal, estatal y nacional de promoción y difusión turística y atender las recomendaciones que para tal efecto haga la Secretaría;
 
@@ -761,6 +777,20 @@ XXV. Capacitar a sus empleados para prestar primeros auxilios, y;
 
 XXVI. Las demás que establezca la legislación aplicable en la materia.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 54 Bis.
+
+Los prestadores de servicios turísticos que brinden el servicio de hospedaje, además de los deberes establecidos en el artículo anterior, deberán implementar medidas de seguridad, para la protección de las niñas, niños y adolescentes, previa prestación del servicio.
+
+Para tal efecto, deberán al menos, realizar lo siguiente:
+
+I. Solicitar la exhibición de algún documento oficial que acredite la mayoría de edad;
+
+II. Permitir el ingreso de niñas, niños y adolescentes, a las habitaciones o departamentos de establecimientos de hospedaje, solamente cuando vayan acompañados de algún adulto autorizado para realizar dicho viaje, que deberá acreditar con documento idóneo, y;
+
+III. Notificar a las Instituciones correspondientes, cuando se advierta la posible comisión de un hecho delictivo en contra de niñas, niños y adolescentes, para que determinen lo conducente.
+
 ### CAPÍTULO II. DE LOS TURISTAS
 
 ###### Artículo 55.
@@ -777,9 +807,17 @@ IV. Recibir del prestador de servicios turísticos, los bienes y servicios de ca
 
 V. Recibir los servicios sin ser discriminados y con pleno respeto a sus derechos fundamentales;
 
-VI. Disfrutar el libre acceso y goce de todo el patrimonio turístico, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de los reglamentos específicos de cada actividad; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
+VI. Disfrutar el libre acceso y goce de todo el patrimonio turístico, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de los reglamentos específicos de cada actividad;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente, y;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VIII.- Contar con el apoyo necesario para tener acceso a la realización de las actividades turísticas, cuando se trate de personas con discapacidad auditiva, así como la posibilidad de recibir información mediante interpretación en Lengua de Señas Mexicanas.
 
 ###### Artículo 56.
 
@@ -789,9 +827,25 @@ I. Observar las normas usuales de convivencia en los establecimientos turístico
 
 II. Respetar y preservar el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
 
-III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o de régimen interior; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
+III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o de régimen interior;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+V. Portar y exhibir algún documento oficial que demuestre su mayoría de edad;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VI. En caso de hacer uso de los servicios de hospedaje en compañía de niñas, niños y adolescentes, acreditar por cualquier medio idóneo que se encuentra autorizado para realizar dicho viaje en compañía del menor, y;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VII. En caso de que las niñas, niños o adolescentes, vayan acompañados por persona distinta a un familiar, por tratarse de un viaje escolar o deportivo, el adulto que los acompañe deberá acreditar por cualquier medio idóneo, que cuenta con la autorización para realizar dicho viaje.
 
 ## TÍTULO DÉCIMO PRIMERO
 
@@ -1154,3 +1208,27 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2824.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 22 Y EL ARTÍCULO 23; Y SE ADICIONA EL ARTICULO 21 BIS, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2825.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 54; LAS FRACCIONES VI Y VII DEL ARTÍCULO 55; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 47; Y LA FRACCIÓN VIII AL ARTÍCULO 55, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2826.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III Y IV, DEL ARTÍCULO 56; Y SE ADICIONA EL ARTÍCULO 54 BIS, Y LAS FRACCIONES V, VI Y VII, AL ARTÍCULO 56, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
