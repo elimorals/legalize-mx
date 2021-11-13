@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2021-08-28"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -125,9 +125,9 @@ Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o an
 
 Se entenderá por discriminación: toda distinción, exclusión, restricción o preferencia, por acción u omisión, con intención o sin ella, que no sea objetiva, racional ni proporcional y que, basada en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, el género, identidad sexo genérica, preferencia sexual, edad, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud o jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir o anular el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-También se entenderá como discriminación la homofobia, misoginia, lesbofobia, transfobia, cualquier manifestación de xenofobia, antisemitismo, así como de discriminación racial y de otras formas conexas de intolerancia, incluyendo el impedimento del acceso a la participación en el ámbito político.
+También se entenderá como discriminación la homofobia, misoginia, lesbofobia, transfobia, cualquier manifestación de xenofobia, antisemitismo, así como de discriminación racial y de otras formas conexas de intolerancia, incluyendo diferencias en las remuneraciones, apoyos, becas, estímulos y/o compensaciones que reciben los deportistas paralímpicos y el impedimento del acceso a la participación en el ámbito político.
 
 ###### Artículo 7.
 
@@ -138,6 +138,10 @@ I. Limitar o impedir el libre acceso o la permanencia a la educación pública o
 II. Establecer contenidos, metodología o instrumentos pedagógicos en los que se asignen papeles o difundan representaciones, imágenes, situaciones de inferioridad o subordinación contrarios a los principios de igualdad y no discriminación;
 
 III. Prohibir, impedir, negar u obstaculizar la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, siempre y cuando estas limitaciones o impedimentos se encuentren basados en parámetros o condiciones subjetivas, desproporcionadas o contrarias a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+III Bis. Emitir convocatorias de vacantes laborales que atenten contra la dignidad humana o tengan por objeto menoscabar los derechos o libertades de las personas;
 
 IV. Establecer o convenir diferencias en la remuneración, prestaciones y condiciones laborales para trabajos iguales;
 
@@ -221,7 +225,9 @@ Se instituye como eje rector de la política pública del Gobierno del Estado de
 
 Es obligación de los Poderes Públicos Estatales en el ámbito de sus atribuciones y de las personas servidoras públicas, adoptar todas las medidas para el exacto cumplimiento de la presente ley, así como diseñar e instrumentar políticas públicas que tengan como objetivo atender, prevenir y eliminar la discriminación, mismas que se sustentarán en los principios de:
 
-I. Igualdad;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+I. Igualdad sustantiva;
 
 II. No discriminación;
 
@@ -479,7 +485,9 @@ Son atribuciones de la Comisión:
 
 I. Participar en el diseño del Plan Estatal de Desarrollo, verificando que en el contenido de los programas se incorporen los lineamientos del Programa para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca;
 
-II. Elaborar, emitir, difundir, ejecutar, supervisar la instrumentación y evaluar el cumplimiento del Programa para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca, que tendrá el carácter de especial y de cumplimiento obligatorio de conformidad con la Ley de Planeación del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+II. Elaborar, emitir, difundir, ejecutar, supervisar la instrumentación y evaluar el cumplimiento del Programa para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca, que tendrá el carácter de especial y de cumplimiento obligatorio de conformidad con la Ley Estatal de Planeación;
 
 III. Formular observaciones, sugerencias y directrices a quien omita el cumplimiento o desvíe la ejecución del Programa a que se refiere la fracción anterior, sin perjuicio del ejercicio de las acciones que esta Ley confiere a las personas, grupos y comunidades en situación de discriminación y organizaciones de la sociedad civil;
 
@@ -573,19 +581,25 @@ II. Un Secretario Técnico, que será la o el Director General de la Comisión;
 
 III. Los representantes de la Administración Pública del Estado de Oaxaca, de cada una de las siguientes dependencias y entidades:
 
-a) La Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+a) La Secretaría de Bienestar del Estado de Oaxaca;
 
 b) La Secretaría de Salud;
 
-c) La Secretaría del Trabajo;
+c) (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2021)
 
-d) La Secretaría de Asuntos Indígenas;
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+d) La Secretaría de Pueblos Indígenas y Afromexicano;
 
 e) La Secretaría de Finanzas;
 
 f) El Instituto Estatal de Educación Pública de Oaxaca; y
 
-g) El Instituto de la Mujer Oaxaqueña.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+g) Secretaría de las Mujeres de Oaxaca.
 
 IV. Cinco representantes del Consejo Consultivo Ciudadano; y
 
@@ -601,7 +615,9 @@ Serán invitados permanentes a la Junta de Gobierno con derecho a voz, pero no a
 
 Son facultades de la Junta de Gobierno:
 
-I. Establecer en congruencia con la Ley de Planeación y el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse la Comisión, relativas a sus objetivos, atribuciones, funciones y administración general;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+I. Establecer en congruencia con la Ley Estatal de Planeación y el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse la Comisión, relativas a sus objetivos, atribuciones, funciones y administración general;
 
 II. Aprobar previo informe del Comisario y dictamen de los auditores externos, los estados financieros anuales de la Comisión y autorizar la publicación de los mismos;
 
@@ -723,7 +739,9 @@ II. Ejercitar las acciones y oponer las excepciones que procedan para la defensa
 
 III. Presentar, dentro del ámbito de su competencia, denuncias y formular querellas, ante el Ministerio Público y ratificar las mismas; en su caso, sin perjuicio del patrimonio de la Comisión, otorgar el perdón al acusado cuando proceda;
 
-IV. Emitir y negociar títulos de crédito, conforme a la Ley de Deuda Pública Estatal y Municipal;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+IV. Emitir y negociar títulos de crédito, conforme a la Ley de Deuda Pública para el Estado de Oaxaca;
 
 V. Otorgar poderes generales y especiales con las facultades que les competen, entre ellas, las que requieran autorización o cláusula especial;
 
@@ -804,6 +822,10 @@ Toda persona podrá presentar quejas por presuntos actos, omisiones o prácticas
 Las organizaciones de la sociedad civil podrán presentar quejas en los términos de esta Ley, designando un representante.
 
 Cuando fueren varios las o los peticionarios que formulan una misma queja, nombrarán a una persona representante común; la omisión dará lugar a que la Comisión la designe de entre aquéllas, con quien se practicarán las notificaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+La Comisión deberá iniciar de oficio quejas cuando tenga conocimiento o sea del dominio público, de la realización de una o más conductas u omisiones citadas en el artículo 7 de la Ley, debiendo realizar los procedimientos necesarios hasta concluir el expediente respectivo e imponer las sanciones respectivas, y de ser necesario denunciar estas conductas de ser materia de la autoridad judicial competente.
 
 ###### Artículo 50.
 
@@ -1087,9 +1109,11 @@ No obstante, los costos que se generen por esos conceptos deberán ser asumidos 
 
 Del Recurso de Revisión.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 94.
 
-Contra las resoluciones y actos de la Comisión, los interesados podrán interponer el recurso de revisión, de conformidad con la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Contra las resoluciones y actos de la Comisión, los interesados podrán interponer el recurso de revisión, de conformidad con la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 TRANSITORIOS:
 
@@ -1184,3 +1208,11 @@ P.O. 28 DE AGOSTO DEL 2021.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2793.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 6; LA FRACCIÓN I DEL ARTÍCULO 10, LA FACCIÓN (SIC) II DEL ARTÍCULO 29, LOS INCISOS A), D) Y G) DE LA FRACCIÓN III DEL ARTÍCULO 32, LA FRACCIÓN I DEL ARTÍCULO 33, LA FRACCIÓN IV DEL ARTÍCULO 40, EL ARTÍCULO 94; SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 7; UN QUINTO PÁRRAFO AL ARTÍCULO 49; SE DEROGA EL INCISO C) DE LA FRACCIÓN III DEL ARTÍCULO 32 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
