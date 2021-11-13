@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-10-23"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -4425,7 +4425,9 @@ g) La suma de los resultados, después de realizar las operaciones indicadas en 
 
 h) Durante la apertura de paquetes electorales conforme a lo señalado en los incisos anteriores, el presidente o el secretario del consejo distrital extraerá: los escritos de protesta, si los hubiere; la lista nominal correspondiente; la relación de ciudadanos que votaron y no aparecen en la lista nominal, así como las hojas de incidentes y la demás documentación que determine el Consejo General del Instituto Estatal en acuerdo previo a la jornada electoral. De la documentación así obtenida, se dará cuenta al consejo distrital, debiendo ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del presidente del consejo distrital para atender los requerimientos que llegare a presentar el Tribunal u otros órganos del Instituto Estatal;
 
-2.- Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el distrito y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del candidato o partido que postuló al segundo de los candidatos antes señalados, el consejo distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo Distrital de la sumatoria de resultados por partido o candidato consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+2.- Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el distrito y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del candidato o partido que postuló al segundo de los candidatos antes señalados o bien que del cómputo de la votación se advierte la mayoría de la votación a favor de un candidato no registrado o en su caso este pueda obtener una representación por asignación, el consejo distrital o municipal, deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo Distrital de la sumatoria de resultados por partido o candidato consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito.
 
 3.- Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el consejo distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
 
@@ -6296,3 +6298,11 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2790.- MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2 DEL ARTÍCULO 249 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
