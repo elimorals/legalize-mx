@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-10-23"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -521,9 +521,9 @@ XIII.- Cambiar con la aprobación de la mayoría calificada la cabecera municipa
 
 XIV.- Calificar los casos en que las sesiones de Cabildo sean privadas;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los programas de obras correspondientes, preservando; la historia, la cultura, las lenguas indígenas, las tradiciones y costumbres de los pueblos y comunidades indígenas y Afromexicanos, su protección legal y el respeto a ser consultados para su formulación.
+XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los programas de obras correspondientes, incorporando los principios de igualdad, no discriminación y derechos humanos, preservando; la historia, la cultura, las lenguas indígenas, las tradiciones y costumbres de los pueblos y comunidades indígenas y afromexicanas, su protección legal y el respeto a ser consultados para su formulación;
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
@@ -559,9 +559,9 @@ Una vez electas las autoridades auxiliares, el Ayuntamiento facultará al Presid
 
 XVIII.- Expedir el Reglamento para la elección y reconocimiento de los representantes de los núcleos rurales, barrios, colonias y fraccionamientos, garantizando la participación de las mujeres en la elección y su incorporación como representantes;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XIX.- Aprobar el nombramiento o remoción del Secretario, Tesorero, Responsable de la Obra Pública y Contralor Interno Municipal, a propuesta del Presidente Municipal.
+XIX.- Aprobar el nombramiento o remoción del Secretario, Tesorero, Responsable de la Obra Pública y Contralor Interno Municipal, a propuesta del Presidente Municipal, observando el cumplimiento del principio de paridad de género;
 
 XX.- Resolver en los términos convenientes para la comunidad, los casos de concesión de servicios públicos de su competencia, con excepción de los de seguridad pública y tránsito;
 
@@ -577,9 +577,9 @@ XXII. Presentar por conducto del Presidente Municipal al Órgano Superior de Fis
 
 XXII Bis.- Dar cuenta al Órgano Superior de Fiscalización del Estado de Oaxaca, de los recursos entregados y ejecutados a todas y cada una de las Agencias Municipales de Policía, de cada ejercicio fiscal de conformidad con la normatividad aplicable.
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, remitiendo copia al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, para su conocimiento y fiscalización;
+XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, incorporando en todo momento la perspectiva de género y remitiendo copia al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, para su conocimiento y fiscalización;
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -725,7 +725,9 @@ LIX.- Celebrar convenios de coordinación o asociación con otros Ayuntamientos 
 
 LX.- Solicitar, cuando no exista el convenio correspondiente y con aprobación de la mayoría calificada, que la Legislatura Local disponga que el gobierno del Estado asuma una función o servicio público municipal, por encontrarse el Municipio imposibilitado para ejercerla o prestarlo;
 
-LXI.- Realizar programas de capacitación para los servidores públicos municipales, por si o por convenio con otros organismos;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+LXI.- Vigilar la capacitación certificada de los servidores públicos municipales, por si o por convenio con otros organismos, instituciones educativas y centro de capacitación, que incluya la perspectiva de género y derechos humanos;
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -825,6 +827,10 @@ LXXXV.- Hacer pública la información del padrón a que hace referencia la frac
 
 LXXXVI.- Crear la Instancia Municipal de las Mujeres, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Para el adecuado funcionamiento de las Instancias Municipales de la Mujer, el ayuntamiento deberá aprobar los reglamentos o manuales de operación y organización correspondientes, en los términos previstos en la fracción I Bis del presente artículo.
+
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
 LXXXVII.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos para el Estado de Oaxaca.
@@ -851,13 +857,33 @@ XCI.- Promover, proteger y apoyar la lactancia materna y las prácticas óptimas
 
 Así mismo deberán realizar acciones tendientes a erradicar la violencia y discriminación hacia las mujeres que la realicen en vías y espacios públicos;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XCII.- Establecer las medidas de control y las sanciones para prevenir y vigilar la contaminación visual, así como la originada por ruido, por malos olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas, así como a la población, al ambiente o los elementos naturales; y
+XCII.- Reglamentar para que, en los centros urbanos de los municipios del estado, la carga y descarga de bienes y mercancías sea con horarios establecidos y con puntos establecidos para el ascenso y descenso de pasajeros;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XCIII.- Establecer las medidas de control y las sanciones para prevenir y vigilar la contaminación visual, así como la originada por ruido, por malos olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas, así como a la población, al ambiente o los elementos naturales;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XCIV.- Aprobar y ejecutar, la propuesta educativa de carácter regional y contextualizada, como el proyecto educativo y el reconocimiento adicional para los trabajadores de la educación en términos de la Ley General del sistema para la carrera de las maestras y maestros; sin que esto implique una relación laboral o facultades laborales sobre los trabajadores del Instituto Estatal de Educación Pública de Oaxaca.
 
 > <small>(REFORMADA Y REUBICADA, P.O. 5 DE OCTUBRE DE 2021)</small>
 
-XCIII.- Las demás que les señalen las leyes y reglamentos municipales.
+XCV.- Las demás que les señalen las leyes y reglamentos municipales.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+En virtud de dotar de mejor gestión ambiental y social el Sector de Agua y Saneamiento del Estado de Oaxaca, es preciso que el Municipio trabaje en conjunto con las entidades y dependencias del Gobierno del Estado de Oaxaca, así como de quienes intervienen en la obra pública
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Para la mejor gestión ambiental y social del Sector de Agua y Saneamiento del Estado de Oaxaca, los Municipios serán los encargados de expedir los permisos de construcción acorde al plan Sectorial de Agua y Saneamiento del Gobierno del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Podrán celebrar contratos de crédito basado en licitación de contratos financiados, conforme al procedimiento señalado por la legislación vigente en materia de adquisiciones federal y estatal.
 
 ###### ARTÍCULO 44.
 
@@ -1021,7 +1047,9 @@ II.- Supervisar que el servicio público se preste con eficiencia;
 
 III.- Proponer al Ayuntamiento, previo estudio y dictamen, acuerdos para la solución de asuntos de las respectivas ramas de la administración pública municipal;
 
-IV.- Vigilar la exacta aplicación de los recursos económicos destinados a la prestación del servicio público;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+IV.- Vigilar la exacta aplicación de los recursos económicos destinados a la prestación del servicio público con base en la perspectiva de género, y los principios de igualdad y discriminación;
 
 V.- Promover ante los ciudadanos lo conducente al mejoramiento del servicio público;
 
@@ -1153,13 +1181,17 @@ IX.- La falta de comprobación y aplicación correcta de los recursos que integr
 
 X.- Por abandono del ejercicio de sus funciones.
 
-(NOTA: EL 8 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 31/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 9 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 533/2023, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE DICIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 59.
 
-En el caso de desaparición de un ayuntamiento, se podrá decretar la suspensión provisional de éste ante una situación de violencia grave, un vacío de autoridad o estado de ingobernabilidad. La suspensión provisional se acordará por el Congreso con el voto aprobatorio de las dos terceras partes de sus integrantes, durará hasta en tanto no se emita la resolución definitiva del caso; podrá nombrarse por el propio Congreso un encargado del Municipio, que ejercerá sus funciones hasta que se emita la referida resolución. Antes de emitir esta medida cautelar el Congreso dará oportunidad al Ayuntamiento o su representante de ser oídos y exponer lo que a su derecho proceda.
+EN EL CASO DE DESAPARICIÓN DE UN AYUNTAMIENTO, EL CONGRESO POR ACUERDO DE LAS DOS TERCERAS PARTES DE SUS INTEGRANTES, PODRÁN DECRETAR LA SUSPENSIÓN ANTE UNA SITUACIÓN DE VIOLENCIA GRAVE, UN VACÍO DE AUTORIDAD O ESTADO DE INGOBERNABILIDAD, ANTES DE EMITIR ESTA MEDIDA, EL CONGRESO DARÁ OPORTUNIDAD AL REPRESENTANTE JURÍDICO DEL MUNICIPIO O A SUS INTEGRANTES DE SER OÍDOS Y EXPONER LO QUE A SU DERECHO PROCEDA.
+
+De declararse desaparecido un Ayuntamiento, por renuncia o falta absoluta de la mayoría de sus miembros, conforme a la Ley no procede que entren en funciones los suplentes, el Congreso hará del conocimiento del Titular del Poder Ejecutivo mismo que procederá a proponerle la integración de un Concejo Municipal, en los términos establecidos por la Constitución Local y por esta Ley.
 
 ###### ARTÍCULO 60.
 
@@ -1427,13 +1459,9 @@ VII.- Asumir la representación jurídica del ayuntamiento en los litigios, a fa
 
 VIII.- Informar a la población en sesión pública y solemne que deberá celebrarse dentro de los primeros quince días del mes de diciembre de cada año, sobre el estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio. En los Municipios que se rigen por usos y costumbres, los informes a que se refiere esta fracción, se realizarán en las fechas y de acuerdo a la que sus tradiciones determinen;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-IX.- Proponer al Ayuntamiento los proyectos de Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a los presupuestos realizados por las comisiones, de conformidad con la fracción VII del artículo 55 de esta Ley y 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca;
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-En la elaboración del Presupuesto de Egresos, los ayuntamientos deberán cumplir con lo dispuesto en el artículo 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, estableciendo el monto pormenorizado de los recursos que serán asignados a las agencias municipales y de policía.
+IX.- Proponer al Ayuntamiento los proyectos de Ley de Ingresos y del Presupuesto de Egresos con base en la perspectiva de género y atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, igualdad y no discriminación, así como a los presupuestos realizados por las comisiones, de conformidad con la fracción VII del artículo 55 de esta Ley y 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -1461,9 +1489,13 @@ Las obras que se ejecuten sin autorización; que pongan en peligro a los habitan
 
 XIII.- Ejecutar, administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano;
 
-XIV.- Elaborar el Plan Municipal de Desarrollo dentro de los seis primeros meses de su administración, así como los programas anuales de obras y servicios públicos y someterlos al Ayuntamiento para su aprobación;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XV.- Promover y vigilar la organización e integración del Concejo de Desarrollo Social Municipal;
+XIV.- Elaborar el Plan Municipal de Desarrollo incorporando los principios de igualdad, no discriminación, perspectiva de género y derechos humanos, dentro de los seis primeros meses de su administración, así como los programas anuales de obras y servicios públicos y someterlos al Ayuntamiento para su aprobación;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XV.- Promover y vigilar la organización e integración del Concejo de Desarrollo Social Municipal; atendiendo a la paridad de género y en atención a los grupos en situación de vulnerabilidad.
 
 XVI.- Promover la integración del Concejo Municipal de Protección Civil;
 
@@ -1499,7 +1531,9 @@ XXV.- Desempeñar las funciones de Registro Civil cuando en su ámbito territori
 
 XXVI.- Tener bajo su mando, la Policía Preventiva Municipal en los términos del reglamento correspondiente y de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca y las leyes de la materia;
 
-XXVII.- Nombrar y remover a los demás servidores de la administración pública municipal, y expedir los nombramientos respectivos;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XXVII.- Nombrar y remover a los demás servidores de la administración pública municipal, y expedir los nombramientos respectivos, observando el cumplimiento del principio de paridad de género;
 
 XXVIII.- Ejercer las facultades que le confiere el artículo 12 de la Ley General de Sociedades Cooperativas;
 
@@ -1517,21 +1551,21 @@ XXXI.- Celebrar convenios con autoridades fiscales estatales o municipales para 
 
 XXXII.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el artículo 34 del Código Fiscal Municipal del Estado de Oaxaca; y
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 2805, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2021, PÁGINA 5.]</small>
 
-XXXIII.- Atender los requerimientos de información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse en el primer año de ejercicio.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+XXXIII.- Atender los requerimientos de información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse en el primer año de ejercicio;
 
-XXXIV.- Diseñar e Implementar programas de reforestación de especies arbóreas endémicas, para el entorno y la infraestructura urbana en las vías secundarias de las demarcaciones territoriales;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 2805, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2021, PÁGINA 5.]</small>
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XXXV.- Promover y fomentar entre las personas el cuidado de las áreas verdes en el entorno inmediato a su domicilio; y
+XXXIV.- Desarrollar acciones para la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 2805, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2021, PÁGINA 5.]</small>
 
-XXXVI.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
+XXXV.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1861,9 +1895,11 @@ El mismo procedimiento se seguirá, para el caso de licencias que presenten los 
 
 El abandono del cargo se da cuando sin justificación alguna el concejal ya no se presenta a ejercer el cargo, aún cuando sea requerido con las formalidades legales por el Ayuntamiento, por lo que se procederá a solicitar al Congreso del Estado la revocación de su mandato, mientras tanto, sesionará para acordar que se requerirá al suplente para que asuma el cargo en forma provisional, en caso de negativa de éste, asumirá el cargo en forma provisional cualquiera de los suplentes que requiera el Ayuntamiento hasta en tanto se resuelva lo relativo al abandono del cargo en que se incurra. El mismo procedimiento se seguirá, para el caso de los integrantes del Concejo Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 86.
 
-Ante el fallecimiento del concejal Presidente o Sindico, el Ayuntamiento teniendo el acta de defunción, celebrara sesión respectiva y emitirá el acuerdo con el voto de la mayoría de sus integrantes, requerirá al Suplente para que asuma el cargo, y en ausencia o negativa de éste, el concejal que el Ayuntamiento designe. De no lograr el acuerdo respectivo, el Congreso del Estado lo designará de entre los mismos concejales y por negativa de estos a cualquiera de los suplentes; para estos casos emitirá la declaratoria respectiva. Si el fallecido es un Regidor el Ayuntamiento se requerirá al suplente en ausencia o negativa de éste nombrará a cualquiera de los concejales suplentes, observado si se trata de un concejal de mayoría o de representación proporcional a fin que se respete los principios para cada uno de los casos.
+Ante el fallecimiento del concejal Presidente o Sindico, el Ayuntamiento teniendo el acta de defunción, celebrara sesión respectiva y emitirá el acuerdo con el voto de la mayoría de sus integrantes, requerirá al Suplente para que asuma el cargo, y en ausencia o negativa de éste, el concejal que el Ayuntamiento designe. De no lograr el acuerdo respectivo, el congreso del Estado lo Designará de entre los mismos concejales y por negativa de estos a cualquiera de los suplentes; para estos casos emitirá la declaratoria respectiva. Si el fallecido es un regidor, el ayuntamiento requerirá al suplente, en caso de negativa o ausencia de este, se requerirá al ciudadano que corresponda respetando el principio de paridad de género y de prelación conforme hayan quedado registrados (sic) las planillas ante el consejo general del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca.
 
 El mismo procedimiento se seguirá, para el caso de los integrantes de los Consejos Municipales.
 
@@ -1882,6 +1918,10 @@ ARTÍCULO 86 BIS.- En los casos de licencias, suspensión, revocación, renuncia
 Para el ejercicio de sus atribuciones y responsabilidades, el Ayuntamiento se auxiliará de las dependencias y entidades de la administración pública municipal que sean necesarias.
 
 La creación y denominación de cada dependencia administrativa la determinará el Cabildo por mayoría simple. Al frente de cada dependencia habrá un titular quien para el despacho de los asuntos de su competencia, se auxiliará del personal que establezcan las disposiciones legales aplicables, conforme a los recursos económicos y características del Municipio.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Los nombramientos de los titulares habrán de establecerse bajo el principio de paridad de género propiciando que haya igual número de mujeres y de hombres.
 
 La administración municipal, observará en su actuación las disposiciones contenidas en la Ley de Planeación, Desarrollo Administrativo y Servicios Públicos Municipales.
 
@@ -1945,6 +1985,10 @@ VI.- No ser cónyuge ni tener parentesco consanguíneo en línea recta sin limit
 
 VII.- No tener relación, ni su cónyuge o sus hijos, con los miembros del Ayuntamiento, nacida de algún acto sancionado por la costumbre.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+En el nombramiento de las y los Titulares de las dependencias o entidades de la Administración Pública Municipal, se deberá cumplir con el principio de paridad de género.
+
 ###### ARTÍCULO 92.
 
 El Secretario Municipal tendrá las siguientes atribuciones:
@@ -1973,9 +2017,19 @@ IX.- Auxiliar al Síndico Municipal en la elaboración del inventario general de
 
 X.- Ejecutar los programas que le correspondan, en los términos del Plan Municipal de Desarrollo y en el reglamento interior de la administración pública municipal;
 
-XI.- Compilar las leyes, bandos de policía y gobierno, decretos, reglamentos, acuerdos, circulares y demás disposiciones normativas relativas a la administración pública municipal y paramunicipal, así como el Periódico Oficial del Gobierno del Estado cuando contenga disposiciones relacionadas con el Municipio; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XII.- Las demás que establezca esta Ley, los reglamentos municipales y las que acuerde el Ayuntamiento.
+XI.- Compilar las leyes, bandos de policía y gobierno, decretos, reglamentos, acuerdos, circulares y demás disposiciones normativas relativas a la administración pública municipal y paramunicipal, así como el Periódico Oficial del Gobierno del Estado cuando contenga disposiciones relacionadas con el Municipio;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XII.- Tener a su cargo los libros de registro de bienes municipales y bienes mostrencos, de registro de nombramientos y remociones de servidores públicos municipales, de registro de detenidos, de registro de fierros, marcas y señales de ganado este último en coordinación con la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura y las asociaciones u organizaciones ganaderas constituidas dentro de dicho municipio.
+
+Los Libros a que se refiere el párrafo anterior deberán ser foliados y autorizados en su primera y última hoja con las firmas y sellos del Secretario Municipal, y;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XIII.- Las demás que establezca esta Ley, los reglamentos municipales y las que acuerden (sic) el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -2411,9 +2465,11 @@ En los Municipios con población menor de veinte mil habitantes; las funciones d
 
 #### Sección Primera. De la Contraloría Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-ARTÍCULO 126 QUATER.- El Órgano Interno de Control Municipal, tendrá las siguientes atribuciones:
+###### ARTÍCULO 126 Quáter.
+
+La Contraloría Municipal, tendrá las siguientes atribuciones:
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2439,9 +2495,9 @@ V.- Establecer las políticas, lineamientos, objetivos y acciones en materia de 
 
 VI.- Ordenar y realizar auditorías a las Dependencias y Entidades de la Administración Pública Municipal, con el propósito de proponer medidas correctivas en sus operaciones y el cumplimiento de los objetivos contenidos en sus programas, así como corroborar la correcta aplicación de los recursos provenientes de programas federales, estatales y los concertados con la federación conforme a sus reglas de operación;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-VII.- Vigilar que los recursos financieros destinados a la ejecución de programas, prestación de servicios y la administración Municipal, sean enfocados a los objetivos propuestos y se apliquen con oportunidad, eficacia honestidad, transparencia y rendición de cuentas;
+VII.- Vigilar que los recursos financieros destinados a la ejecución de programas, prestación de servicios y la administración Municipal, sean enfocados a los objetivos propuestos y se apliquen con oportunidad, eficacia, honestidad, transparencia y rendición de cuentas, con base en la perspectiva de género y de conformidad con los principios de igualdad y no discriminación;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2523,13 +2579,19 @@ XXVI.- Informar permanentemente al Ayuntamiento del resultado de las evaluacione
 
 XXVII.- Fomentar entre los servidores públicos municipales, la cultura de la legalidad, ética y calidad en el servicio público, a través de programas y acciones para la atención eficiente y de calidad, que el Ayuntamiento, sus Dependencias y Entidades de la Administración Pública Municipal deban proporcionar a la ciudadanía;
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XXVIII.- Cumplir con las obligaciones que le impone la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XXIX. Incorporar la perspectiva de género en la vigilancia y evaluación de los resultados de la ejecución de los programas y la aplicación de los recursos públicos, poniendo especial atención en el impacto diferenciado entre mujeres y hombres.
+
+Además, deberá emitir recomendaciones encaminadas a crear condiciones favorables para remediar y compensar las desigualdades de género y erradicar la discriminación y la violencia contra las mujeres; y
+
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-XXVIII.- Cumplir con la (sic) obligaciones que le impone la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal; y,
-
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
-
-XXIX.- Las demás que en el ámbito de su competencia le confieran el Ayuntamiento y demás disposiciones legales aplicables.
+XXX. Las demás que en el ámbito de su competencia le confieran el Ayuntamiento y demás disposiciones legales aplicables
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2615,11 +2677,11 @@ ARTÍCULO 126 TERVICIES.- Las Contralorías Internas Municipales que incumplan, 
 
 ### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 127.
 
-El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez así como los programas de actividades del Ayuntamiento, detallando las asignaciones presupuestarías a nivel de partidos y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
+El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, además que deberá de incorporar la perspectiva de género, con la finalidad de apoyar la transversalidad y el cumplimiento de los programas, proyectos y acciones para la igualdad entre hombres y mujeres, así como los demás programas de actividades del ayuntamiento, detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
 
 Tratándose del inicio del Gobierno Municipal, el Ayuntamiento entrante deberá ratificar o, en su caso realizar las modificaciones al Presupuesto de Egresos autorizado por el Ayuntamiento saliente, a más tardar el quince de febrero.
 
@@ -2643,11 +2705,17 @@ IV.- Subsidios, donaciones; estímulos, transferencias y demás conceptos de gas
 
 V.- La aplicación de las participaciones federales de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal para el Estado de Oaxaca;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-VI.- Deberá establecer de manera clara el monto de los recursos que serán asignados a las Agencias Municipales y de Policía, y;
+VI.- Deberá establecer de manera clara el monto de los recursos que serán asignados a las Agencias Municipales y de Policía;
 
-VII.- Las demás erogaciones que considere el Ayuntamiento necesarias para el beneficio del Municipio.
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VII.- Deberá incorporar la perspectiva de género y reflejarla en las políticas y programas bajo su responsabilidad incluso en los que aun cuando no estén dirigidos a mitigar o solventar desigualdades de género se puedan identificar de forma diferenciada los beneficios específicos para mujeres y hombres.
+
+De igual manera deberá incorporar la inversión focalizada para cerrar brechas de inequidad y desigualdad entre mujeres y hombres y generar condiciones para el ejercicio de derechos civiles, políticos, económicos, sociales y culturales de las mujeres, considerando en todo momento el impacto diferenciado y las necesidades de la población; y
+
+VIII.- Las demás erogaciones que considere el Ayuntamiento necesarias para el beneficio del Municipio.
 
 Las modificaciones que sufra el Presupuesto de Egresos en los conceptos generales a que se refiere este artículo, seguirán el mismo procedimiento que para su aprobación.
 
@@ -2660,6 +2728,10 @@ El Presupuesto de Egresos y las modificaciones que sufra en su caso, serán publ
 ###### ARTÍCULO 130.
 
 El Ayuntamiento establecerá un sistema de evaluación y control que permita que la ejecución del Presupuesto de Egresos se haga en la forma programada, transparente y acorde a los ingresos disponibles.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+El sistema de evaluación y control deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación.
 
 El control presupuestal comprenderá las asignaciones, transferencias, compromisos y ejercicios correspondientes a los programas y partidas de su presupuesto que permita la obtención de sus estados de cuenta y demás información presupuestal, con la finalidad de medir la eficacia y eficiencia del gasto público municipal.
 
@@ -2785,7 +2857,11 @@ III.- Suspensión o cancelación de permisos y licencias;
 
 IV.- Clausura hasta por ochenta días naturales o definitiva;
 
-V.- Arresto hasta por treinta y seis horas; esta sanción podrá conmutarse por la realización de un servicio a favor de la comunidad, en los términos que fije el propio Bando de Policía y Gobierno;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+V.- Arresto hasta por treinta y seis horas; esta sanción podrá conmutarse por la realización de actividades en favor de la comunidad, en los términos que fije el propio Bando de Policía y Gobierno.
+
+Para determinar la sanción de arresto, la autoridad municipal responsable de su aplicación, debe contar con la asistencia de un médico, quien emitirá una certificación que establezca las condiciones médicas particulares del infractor, para el efecto de que el responsable de imponer esta sanción pueda determinar el área idónea donde deberá cumplirse el arresto, ya sea en separos, cárcel o institución pública de salud, tomando las medidas de seguridad acordes a cada caso en particular.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2019)</small>
 
@@ -4400,3 +4476,73 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2799.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 59 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2801.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 92 Y LA FRACCIÓN V DEL ARTÍCULO 143; Y SE ADICIONA LA FRACCIÓN XII RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 92 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el presente Decreto entrará en el Periódico Oficial del Gobierno del Estado de Oaxaca. (sic)
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2798.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XCII SE (SIC) RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2800.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XCIII Y SE ADICIONA LA FRACCIÓN XCIV RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. - El programa de reconocimiento municipal para los trabajadores de la educación, serán adicionales a los que otorga la autoridad educativa federal y estatal; por lo que no implican una relación laboral entre el municipio y los maestros y maestras del Instituto Estatal de Educación Pública de Oaxaca.
+
+CUARTO. - El ayuntamiento deberá designar un presupuesto de manera progresiva para cumplir con estas facultades educativas hasta llegar a un 10% de un presupuesto.
+
+QUINTO. - La propuesta Educativa deberá ser elaborada por el regidor de educación, quien participará en la ejecución de estas facultades educativas.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2803.- MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS; SEGUNDO, TERCERO, CUARTO Y QUINTO A LA FRACCIÓN XXIV DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2805.- SE REFORMAN LAS FRACCIONES XV, XXIII Y LXI DEL ARTÍCULO 43, LA FRACCIÓN IV DEL ARTÍCULO 55, LAS FRACCIONES IX, XIV, XV Y XXXIII DEL ARTÍCULO 68, EL PRIMER PÁRRAFO Y LAS FRACCIONES VII Y XXVIII DEL ARTÍCULO 126 QUÁTER, EL PRIMER PÁRRAFO DEL ARTÍCULO 127, LA FRACCIÓN VI DEL ARTÍCULO 128; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN LXXXV DEL ARTÍCULO 43, UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXVII Y LA FRACCIÓN XXXIV RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 68; UN TERCER PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 87, UN SEGUNDO PÁRRAFO AL ARTÍCULO 91, LA FRACCIÓN XXIX RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 126 QUÁTER, LA FRACCIÓN VII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 128 Y EL PÁRRAFO SEGUNDO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 130, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2802.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 43 Y LA FRACCIÓN XXVII DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2804.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 86 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
