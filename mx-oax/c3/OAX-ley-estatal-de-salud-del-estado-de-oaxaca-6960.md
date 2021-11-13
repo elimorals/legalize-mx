@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2021-10-23"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -505,7 +505,9 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimiento crónico-degenerativos o en etapa terminal.
 
-IV.- La atención infantil;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+IV.- La atención materno-infantil, incluidas las urgencias obstétricas;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
@@ -567,6 +569,10 @@ II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporci
 
 III.- De rehabilitación, que incluye acciones tendientes a corregir las invalideces físicas y mentales.
 
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+IV.- De urgencia, cuando se requiera de atención inmediata e impostergable, por presentarse cualquier problema médico quirúrgico agudo, que ponga en peligro la vida o un órgano del paciente.
+
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 34.
@@ -580,6 +586,10 @@ II.- Servicio a derechohabientes;
 III.- Servicios sociales y privados sea cual fuere la forma en que se contraten;
 
 IV.- Otros que se presten de conformidad con lo que establezca el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+ARTICULO 34 BIS.- Los prestadores de servicios de salud enumerados en el artículo anterior deberán atender de forma expedita y sin condición de garantía financiera alguna a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1627,6 +1637,10 @@ V.- Las demás que sean necesarias para la prevención tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+ARTICULO 123 BIS.- Queda prohibida la compra, venta y uso o distribución de juguetes para niñas y niños menores de tres años y envases que contengan bisfenol A, bisfenol B, bisfenol E, bisfenol AF y bisfenol S, que sean destinados o tengan contacto directo con alimentos y bebidas para menores de edad.
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
@@ -1977,7 +1991,7 @@ II.- Organizar campañas educativas tendientes a erradicar la violencia intrafam
 
 III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
@@ -2795,7 +2809,7 @@ V. Los demás que determine la Ley General de Salud, esta Ley y demás disposici
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo, una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto sí se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
 
 El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
 
@@ -3013,7 +3027,7 @@ Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vig
 
 ###### ARTICULO 297.
 
-El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las mediadas de seguridad y las sanciones correspondientes en esos casos.
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3279,11 +3293,11 @@ Se sancionará con multa hasta de mil veces el valor de la Unidad de Medida y Ac
 
 La violación de las disposiciones en los artículos 301 y 315 de esta ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el valor de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 323.
 
-Se sancionará con multa de mil hasta cuatro mil veces el valor de la Unidad de Medida y Actualización vigente, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 301 y 315 de esta Ley.
+Se sancionará con multa de mil hasta cuatro mil veces el valor de la Unidad de Medida y Actualización vigente, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 123 Bis, 177, 180, 184, 203, 207, 223, 226, 238, 301 y 315 de esta Ley.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -3321,9 +3335,17 @@ I.- Cuando el peligro para la salud de las personas se origine por la violación
 
 II.- Cuando después de la reapertura de un establecimiento, local, construcción o edificio, por motivo de suspensión de trabajos o actividades o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
 
-III.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, construcción o edificio de que se trate, sea necesario proteger la salud de la población; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-IV.- Cuando se reincida en una infracción por tercera ocasión.
+III.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+IV.- Cuando el establecimiento realice las actividades prohibidas por el articulo 123 Bis de esta ley; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+V.- Cuando se reincida en una infracción por segunda ocasión.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3397,7 +3419,7 @@ XI.- Buena fe.
 
 ###### ARTICULO 333.
 
-La Secretaría de Salud del Estado y los municipios con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3808,3 +3830,19 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2821.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 29; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 33, Y EL ARTÍCULO 34 BIS, A LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2823.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 323 Y EL ARTÍCULO 328; Y SE ADICIONA EL ARTÍCULO 123 BIS DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
