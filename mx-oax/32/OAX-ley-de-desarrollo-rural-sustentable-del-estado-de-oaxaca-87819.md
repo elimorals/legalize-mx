@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2020-10-24"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -1713,9 +1713,33 @@ Los contratos para los efectos del cuidado y la protección de la naturaleza, en
 
 El Ejecutivo Estatal establecerá las medidas para procurar el abasto suficiente y oportuno de alimentos nutritivos, así como de los productos básicos y estratégicos a la población, privilegiando su acceso a los grupos sociales más vulnerables.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 148.
 
-Se considerarán productos básicos y estratégicos, con las salvedades, adiciones y modalidades que determine año con año o de manera extraordinaria el Consejo Estatal con la participación de los Comités de los Sistemas-Producto correspondientes a los que determine el Ejecutivo Estatal en coordinación con la Federación.
+Se considerarán productos básicos y estratégicos, con las salvedades, adiciones y modalidades que determine año con año o de manera extraordinaria el Consejo Estatal con la participación de los Comités de los Sistemas-Producto, lo que determine el Ejecutivo Estatal en coordinación con la federación correspondiente a los siguientes:
+
+I. maíz;
+
+II. caña de azúcar;
+
+III. frijol;
+
+IV. trigo;
+
+V. arroz;
+
+VI. sorgo;
+
+VII. café;
+
+VIII. huevo;
+
+IX. leche;
+
+X. carne de bovinos, porcinos, aves; y
+
+XI. pescado.
 
 ###### ARTÍCULO 149.
 
@@ -1950,3 +1974,11 @@ TERCERO. Una que vez que entre en vigor el presente Decreto, la Secretaría de D
 CUARTO. Los establecimientos comerciales y mercantiles una vez que entre en vigor el presente Decreto, ya no podrán ingresar, distribuir o producir plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad en el territorio del Estado; tratándose de microempresas y pequeñas empresas dispondrá de un plazo de un término de un año posterior a la entrada en vigor del presente Decreto para terminar con su inventario de dichos productos; y en el caso de medianas y grandes empresas dicho plazo será de seis meses, contados a partir de la publicación del presente Decreto.
 
 Una vez vencido el plazo a que se refiere el párrafo anterior, la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura deberá realizar la recolección de los remanentes de los plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2786.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 148 DE LA LEY DE DESARROLLO RURAL SUSTENTABLES DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
