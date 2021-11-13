@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-12383
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2020-10-10"
+last_updated: "2021-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra Periódico Oficial del Estado de Oaxaca, el jueves 21 de septiembre de 2017.
 
@@ -164,6 +164,14 @@ Respecto de los informes de Resultados, el mismo día de su presentación ante e
 La fiscalización de la Cuenta Pública que realiza el Órgano Superior de Fiscalización del Estado de Oaxaca se llevará a cabo de manera posterior, salvo las excepciones establecidas en ésta ley, al término de cada ejercicio fiscal, una vez que el programa anual de auditoría esté aprobado y publicado en su página de internet; tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control.
 
 Sin perjuicio de lo anterior, en situaciones excepcionales establecidas en ésta Ley, el Órgano Superior de Fiscalización del Estado de Oaxaca podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Asimismo, procederá a la revisión y fiscalización de la cuenta pública y gestión financiera de los entes fiscalizables, cuando se advierta la existencia o surjan hechos notorios sobre irregularidades que produzcan un daño o perjuicio a las Haciendas Públicas Estatal y Municipales o al patrimonio de las entidades fiscalizables. Lo anterior, sin perjuicio de que el Congreso del Estado haya aprobado o no la cuenta pública del ente fiscalizable que corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Para los procesos de Fiscalización Superior, el Órgano Superior de Fiscalización del Estado de Oaxaca, podrá solicitar información y/o documentación, de manera física o por medios electrónicos o digitales, mediante el uso de firma electrónica avanzada, sello digital de tiempo y un buzón digital, entre otros, que serán obligatorios para las entidades fiscalizadas.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+El Órgano superior de Fiscalización del Estado de Oaxaca, emitirá las Reglas de Carácter General aplicables a los procesos de fiscalización superior por medios electrónicos o digitales, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y/o documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
 
 ###### Artículo 7.
 
@@ -382,6 +390,40 @@ XXVI. Solicitar la información financiera, incluyendo los registros contables, 
 XXVII. Examinar la documentación comprobatoria y justificativa de los ingresos, egresos y otros, así como sus registros en el sistema de contabilidad gubernamental; y,
 
 XXVIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de las Cuentas Públicas.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 19 Bis.
+
+Los procesos de fiscalización a que hace referencia esta Ley, podrán ser realizados por el Órgano Superior de Fiscalización del Estado de Oaxaca, de manera presencial o por medios digitales o electrónicos a través de las herramientas tecnológicas y de conformidad con sus reglas de carácter general.
+
+El Órgano Superior de Fiscalización del Estado de Oaxaca, contará con un Buzón Digital, a través del cual, de manera enunciativa más no limitativa realizará la notificación de solicitudes de información preliminar, órdenes de auditoría, e informes individuales que contengan acciones, previsiones o recomendaciones, así como en su caso cualquier acto que se emita, los cuales constarán en documentos digitales.
+
+Por su parte, las entidades fiscalizadas presentarán solicitudes o darán atención a requerimientos de información del Órgano Superior de Fiscalización del Estado de Oaxaca, a través de documentos o archivos digitales certificados enviados a través del Buzón Digital o celebrarán los actos que se requieran dentro del proceso de fiscalización superior.
+
+Los procesos de fiscalización que se realicen a través del Buzón Digital constarán en expedientes electrónicos o digitales.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 19 Ter.
+
+Las disposiciones relativas a la auditoría presencial le serán aplicables en lo conducente a la auditoría realizada a través de medios digitales o electrónicos, sin perjuicio de que de manera particular se esté a lo siguiente:
+
+I. Previo al inicio de la auditoría por medios digitales el Órgano Superior de Fiscalización del Estado de Oaxaca, requerirá por escrito a la entidad fiscalizada, el nombre, cargo, registro federal de contribuyentes y correo o dirección electrónica del servidor público que fungirá como enlace o coordinador para la atención de la auditoría;
+
+II. Una vez recibida la información a que hace referencia la fracción anterior, el Órgano Superior de Fiscalización del Estado de Oaxaca, enviará por única ocasión, al correo o dirección electrónica designada, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste;
+
+III. Las y los servidores públicos de la entidad fiscalizada que se encuentren autorizados para tal efecto harán uso del Buzón Digital para el desahogo de la auditoría por medios electrónicos o digitales, y deberán consultarlo a más tardar dentro de los dos días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por el Órgano Superior de Fiscalización del Estado de Oaxaca;
+
+IV. Ante la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil siguiente, contado a partir del día en que fue enviado el referido aviso. Será responsabilidad de las entidades fiscalizadas mantener vigente la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría por medios electrónicos o digitales.
+
+V. En los documentos electrónicos o digitales, la firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio;
+
+VI. Las notificaciones digitales, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar el sello digital de tiempo emitido de conformidad con las disposiciones jurídicas aplicables, que refleja la fecha y hora en que el servidor público de la entidad fiscalizada se autenticó para abrir el documento a notificar o bien, se tuvo por notificado; y
+
+VII. Cuando el Órgano Superior de Fiscalización del Estado de Oaxaca, por caso fortuito o fuerza mayor, se vea impedido para continuar con la auditoría por medios digitales o electrónicos, ésta se suspenderá hasta que la causa desaparezca, lo cual se deberá publicar en la página de Internet del Órgano Superior de Fiscalización del Estado de Oaxaca, acompañada de la fundamentación y motivación correspondiente.
+
+En caso de que la auditoría pueda ser continuada por la vía presencial, ésta se cambiará de modalidad para cumplir con el mandato constitucional en tiempo y forma. En el mismo sentido, el cambio de una auditoría presencial a una digital podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación.
 
 ###### Artículo 20.
 
@@ -613,11 +655,13 @@ El dictamen deberá contar con el análisis pormenorizado de su contenido y esta
 
 Para los efectos de lo previsto en el párrafo segundo de la fracción I, del artículo 65 BIS de la Constitución Local, cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta Ley, el Órgano Superior de Fiscalización del Estado de Oaxaca, previa autorización de su Titular, podrá revisar la gestión financiera de las entidades fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
 
-En ese tenor, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá acompañar al requerimiento los documentos o evidencias presentados por los denunciantes al enviar el requerimiento antes mencionado a las entidades fiscalizables. Las denuncias podrán presentarse ante el Congreso, la Comisión o directamente en el Órgano Superior de Fiscalización del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+En ese tenor, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá acompañar al requerimiento los documentos o evidencias presentados por los denunciantes al enviar el requerimiento antes mencionado a las entidades fiscalizables. Las denuncias podrán presentarse ante el Congreso, la Comisión, el Órgano Superior de Fiscalización del Estado de Oaxaca o ante cualquiera de ellos a través (sic) medios electrónicos o digitales autorizados para tal efecto por estas instancias. En este último caso, la respuesta al denunciante se realizará por estos medios de conformidad con las disposiciones aplicables.
 
-Con base en el informe de situación excepcional, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá, en su caso, fincar las responsabilidades que procedan en términos de la presente ley, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables o promover otras responsabilidades ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Con base en el informe de situación excepcional, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá, en su caso, fincar las responsabilidades que procedan en términos de la presente ley o promover otras responsabilidades ante las autoridades competentes.
 
 ###### Artículo 51.
 
@@ -1294,3 +1338,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+DECRETO NÚM. 2827.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 50; Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULOS (SIC) 6; Y LOS ARTÍCULOS 19 BIS Y 19 TER A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se deroga cualquier disposición que se oponga al presente Decreto.
+
+CUARTO.- El Órgano Superior de Fiscalización del Estado en un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto deberá realizar todas las modificaciones necesarias a su normatividad interna para dar cumplimiento al presente Decreto; en el mismo plazo deberá expedir las reglas de carácter general aplicables a los procesos de fiscalización superior por medios electrónicos o digitales, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen.
+
+QUINTO.- El Órgano Superior de Fiscalización del Estado en un plazo de treinta días contados a partir de la entrada en vigor del presente Decreto deberá emitir un programa de trabajo que incluya todas las acciones y plazos a realizar para dar cumplimiento al contenido del presente decreto donde contemple la entrega de informes trimestrales sobre el avance del mismo.
+
+SEXTO.- El Congreso del Estado de Oaxaca y el Órgano Superior de Fiscalización del Estado en un plazo de treinta días contados a partir de la entrada en vigor del presente Decreto deberán realizar todas las modificaciones necesarias a su normatividad interna a fin de permitir la recepción por medios electrónicos de las denuncias a que se refiere la presente Ley.
