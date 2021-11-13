@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-forestal-sustentable-del-estado-de-oaxaca-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-11"
-last_updated: "2020-10-24"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de junio de 2013.
 
@@ -109,33 +109,71 @@ X. Promover y fortalecer la organización y capacitación de propietarios y pose
 
 XI. Instrumentar mecanismos de coordinación, concertación y cooperación con las instituciones federales del sector forestal en materia de regulación, fomento del desarrollo forestal sustentable y de auditorías técnicas preventivas forestales;
 
-XII. Promover instrumentos económicos para fomentar el desarrollo forestal sustentable;
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XIII. Promover una efectiva incorporación de la actividad forestal en el desarrollo rural;
+XII. Formular políticas y programas enfocados al fomento y producción agroecológica que garanticen la restauración de bosques, regeneración de suelos, reservorios de agua y conservación de la biodiversidad.
 
-XIV. Identificar nuevos enfoques de atención sectorial, para apoyar a grupos de población indígenas específicos;
+Así mismo, deberán fomentar la comercialización de los productos agroecológicos.
 
-XV. Generar sinergias institucionales de desarrollo sectorial;
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XVI. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas, en la aplicación, evaluación y seguimiento de la política forestal;
+XIII. Fomentar y promover políticas públicas, programas y proyectos productivos en apoyo para las mujeres rurales, para garantizar una efectiva igualdad y equidad de género en la agricultura.
 
-XVII. Fomentar y promover la cultura, educación, capacitación, investigación y desarrollo tecnológico forestal;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 13 DE NOVIEMBRE DE 2021)
 
-XVIII. Elaborar, coordinar y aplicar los programas relativos al sector forestal del Estado, con proyección sexenal y con visión de largo plazo, vinculándolos con el Plan Estatal de Desarrollo;
+XIV. Promover instrumentos económicos para fomentar el desarrollo forestal sustentable;
 
-XIX. Regular el aprovechamiento y uso de los recursos forestales maderables y no maderables;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIII], P.O. 13 DE NOVIEMBRE DE 2021)
 
-XX. Promover y consolidar las áreas forestales permanentes, impulsando su delimitación y manejo sostenible, evitando el cambio de uso del suelo con fines agropecuarios o de cualquier otra índole que afecte su permanencia y potencialidad;
+XV. Promover una efectiva incorporación de la actividad forestal en el desarrollo rural;
 
-XXI. Instrumentar mecanismos de coordinación, concertación y cooperación con las instituciones federales del sector forestal para regular la prevención, combate y control de incendios forestales, así como de las plagas y enfermedades forestales;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 13 DE NOVIEMBRE DE 2021)
 
-XXII. Impulsar el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas;
+XIV (SIC). Identificar nuevos enfoques de atención sectorial, para apoyar a grupos de población indígenas específicos;
 
-XXIII. Promover acciones con fines de conservación y restauración de suelos con las instituciones federales del sector forestal;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XV], P.O. 13 DE NOVIEMBRE DE 2021)
 
-XXIV. Promover y fomentar la regeneración natural asistida para aumentar la capacidad de regeneración natural de las especies deseadas, así como de plantaciones destinadas a la producción como de protección; y
+XVII. Generar sinergias institucionales de desarrollo sectorial;
 
-XXV. Las demás que sean de interés para la conservación, protección, restauración, ordenamiento, cultivo, producción, manejo, aprovechamiento, transformación, industrialización y comercialización de los recursos y productos forestales, así como de los servicios ambientales que se generen en el estado.
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XVIII. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas, en la aplicación, evaluación y seguimiento de la política forestal;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVII], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XIX. Fomentar y promover la cultura, educación, capacitación, investigación y desarrollo tecnológico forestal;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVIII], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XX. Elaborar, coordinar y aplicar los programas relativos al sector forestal del Estado, con proyección sexenal y con visión de largo plazo, vinculándolos con el Programa Estatal de Desarrollo;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIX], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XXI. Regular el aprovechamiento y uso de los recursos forestales maderables y no maderables;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XX], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XXII. Promover y consolidar las áreas forestales permanentes, impulsando su delimitación y manejo sostenible, evitando el cambio de uso del suelo con fines agropecuarios o de cualquier otra índole que afecte su permanencia y potencialidad;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXI], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XXIII. Instrumentar mecanismos de coordinación, concertación y cooperación con las instituciones federales del sector forestal para regular la prevención, combate y control de incendios forestales, así como de las plagas y enfermedades forestales;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXII], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XXIV. Impulsar el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XXV. Promover acciones con fines de conservación y restauración de suelos con las instituciones federales del sector forestal;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIV], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XXVI. Promover y fomentar la regeneración natural asistida para aumentar la capacidad de regeneración natural de las especies deseadas, así como de plantaciones destinadas a la producción como de protección; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXV], P.O. 13 DE NOVIEMBRE DE 2021)
+
+XXVII. Las demás que sean de interés para la conservación, protección, restauración, ordenamiento, cultivo, producción, manejo, aprovechamiento, transformación, industrialización y comercialización de los recursos y productos forestales, así como de los servicios ambientales que se generen en el estado.
 
 ###### ARTÍCULO 4.
 
@@ -1621,7 +1659,9 @@ I. Amonestación con apercibimiento;
 
 II. Revocación de la autorización o inscripción registral;
 
-III. Multa, por el equivalente de 20 a 2000 días de salario mínimo-vigente en el Estado en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+III. Multa, por el equivalente de 20 a 2000 Unidades de Medida y Actualización;
 
 IV. Arresto que no excederá de treinta y seis horas;
 
@@ -1643,9 +1683,11 @@ En caso de movilización de productos sujetos a las disposiciones de ésta Ley, 
 
 Para la imposición de las sanciones por infracciones a ésta Ley, se tomará en cuenta la gravedad de las mismas, las condiciones económicas del infractor y la reincidencia si lo hubiere.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 119.
 
-Se impondrá multa el equivalente de 20 a 2000 días de salario mínimo vigente en el Estado en el momento de imponer la sanción, independientemente de la responsabilidad legal en que pudieran incurrir, a quienes:
+Se impondrá multa el equivalente de 20 a 2000 Unidades de Medida y Actualización, independientemente de la responsabilidad legal en que pudieran incurrir, a quienes:
 
 I. No acaten las medidas determinadas en el programa estatal permanente de forestación y reforestación para la restauración de áreas degradadas;
 
@@ -1758,3 +1800,19 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2783.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XII Y XIII AL ARTÍCULO 3 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2784.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL PÁRRAFO SEGUNDO, DEL ARTÍCULO 117, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 119 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
