@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2021-06-12"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -51,11 +51,11 @@ LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
 La presente Ley tiene por objeto promover y garantizar la Igualdad de oportunidades y de trato entre Mujeres y Hombres y establecer los lineamientos y mecanismos institucionales que hagan posible la igualdad sustantiva a través de medidas especiales de carácter temporal o compensatorias, que aseguren el empoderamiento económico de las mujeres y en la toma de decisiones en los ámbitos público y privado. Sus disposiciones son de orden público, interés social y de observancia general en todo el territorio del Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-Son principios rectores de la presente Ley, la igualdad, la no discriminación, la equidad, progresividad, y todos aquellos contenidos en la Convención Sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, Tratados y Convenciones Internacionales referente a los derechos de las mujeres, la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Son principios rectores de la presente Ley, la no discriminación, igualdad, paridad, equidad, progresividad, y todos aquellos contenidos en la Convención Sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, Tratados y Convenciones Internacionales referente a los derechos de las mujeres, la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -135,9 +135,13 @@ XIV. Igualdad de Género.- Situación en la cual mujeres y hombres acceden con l
 
 XV. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XVI. Paridad de género.- Principio constitucional que garantiza la igualdad entre hombres y mujeres en la postulación de candidaturas para cargos de elección popular, los nombramientos y en el acceso a puestos de toma de decisión en el ámbito público, y;
+
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-XVI. Perspectiva de Género.- Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+XVII. Perspectiva de Género.- Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 ###### Artículo 6.
 
@@ -221,11 +225,11 @@ IV. Fomentar la participación social, política, ciudadana y económica dirigid
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA DE IGUALDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-La Política Estatal en Materia de Igualdad entre Mujeres y Hombres, es el conjunto de objetivos, planes, programas, acciones afirmativas y presupuestos destinados a lograr la igualdad sustantiva para las mujeres en los ámbitos económico, político, social, civil y cultural.
+La Política Estatal en Materia de Igualdad entre Mujeres y Hombres, es el conjunto de objetivos, planes, programas, acciones afirmativas y presupuestos destinados a lograr la igualdad sustantiva para las mujeres en los ámbitos económico, político, social, civil, cultural, acceso a la justicia y seguridad pública.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -271,13 +275,21 @@ X. El establecimiento de medidas que aseguren la corresponsabilidad en el trabaj
 
 XI. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la sociedad; así como eliminar el uso de estereotipos sexistas y discriminatorios;
 
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XII. Promover la eliminación de la brecha salarial entre mujeres y hombres que realizan un mismo trabajo o un trabajo de igual valor, y de todas las condiciones laborales de desigualdad;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+XIII. Asegurar la accesibilidad a la justicia y el pleno ejercicio de los derechos de las mujeres;
+
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XII. Asegurar la inclusión de todas las niñas y mujeres al sistema de educación formal y promover la educación de las mujeres en áreas de ciencias y tecnologías no tradicionales, y;
+XIV. Asegurar la inclusión de todas las niñas y mujeres al sistema de educación formal y promover la educación de las mujeres en áreas de ciencias y tecnologías no tradicionales, y;
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Incluir a las niñas y mujeres en los programas de salud y asegurar el conocimiento y ejercicio de sus derechos sexuales y reproductivos.
+XV. Incluir a las niñas y mujeres en los programas de salud y asegurar el conocimiento y ejercicio de sus derechos sexuales y reproductivos.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE LA POLÍTICA DE IGUALDAD
 
@@ -525,9 +537,9 @@ I. Favorecer actividades legislativas y reglamentarias con perspectiva de géner
 
 II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y haga conciencia de la necesidad de eliminar toda forma de discriminación;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-III. Impulsar la participación igualitaria de mujeres y hombres en la Administración Pública;
+III. Garantizar una participación igualitaria de mujeres y hombres en la Administración Pública;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -537,13 +549,17 @@ IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos 
 
 V. Fomentar la participación igualitaria y sin discriminación para el proceso de selección, contratación y ascensos en el trabajo en las dependencias y entidades del sector público estatal y municipal;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-VI. Asegurar que en todos los Reglamentos de trabajo en el sector público, privado y educativo se prohíba toda forma de acoso y hostigamiento sexual, y se promueva el respeto a la dignidad de las mujeres, y;
+VI. Asegurar que en todos los Reglamentos de trabajo en el sector público, privado y educativo se prohíba toda forma de acoso y hostigamiento sexual, y se promueva el respeto a la dignidad de las mujeres;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-VII. Asegurar que se sancione todo despido por embarazo o maternidad, de conformidad con la legislación que corresponda.
+VII. Asegurar que se sancione todo despido por embarazo o maternidad, de conformidad con la legislación que corresponda, y;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Garantizar la implementación de mecanismos que promuevan la participación e integración equilibrada e igualitaria entre mujeres y hombres en los cargos de elección popular.
 
 ### CAPÍTULO TERCERO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES
 
@@ -697,11 +713,37 @@ El Ejecutivo Estatal, de acuerdo a sus atribuciones, promoverá la participació
 
 Los acuerdos y convenios que en materia de igualdad celebren el Estado y los Municipios con los sectores público, social o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política de igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 37 Bis.
+
+Con el fin de garantizar la igualdad en el acceso a la justicia y seguridad pública, serán objetivos de la Política de Igualdad:
+
+I. Diseñar los lineamientos que garanticen desde un enfoque diferencial, especializado, transformador, de igualdad y no discriminación, el acceso a la justicia y la seguridad pública.
+
+II. Impulsar el servicio de intérpretes y traductores en lenguas indígenas, en las áreas de la procuración y administración de justicia.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 37 Ter.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Asegurar que los operadores del sistema de procuración y administración de justicia en el Estado cuenten con formación, capacitación y sensibilización en perspectiva de género y enfoque de derechos humanos:
+
+II. Garantizar la existencia de asesores jurídicos capacitados en perspectiva de género que otorguen asistencia jurídica a las mujeres para eliminar las desigualdades en el acceso a la justicia;
+
+III. Otorgar seguridad pública con base en un enfoque diferenciado con perspectiva de género.
+
+## TÍTULO V
+
 ### CAPÍTULO ÚNICO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-## TÍTULO V
 
 ###### Artículo 38.
 
@@ -832,3 +874,27 @@ SEGUNDO. El Honorable Congreso del Estado Libre y Soberano de Oaxaca, en uso de 
 TERCERO. La Secretaría General de Gobierno del Estado de Oaxaca, girará circular para notificar el contenido de la presente disposición; a partir de su notificación correspondiente a todas las dependencias públicas del Gobierno del Estado de Oaxaca.
 
 CUARTO. Las autoridades del Gobierno del Estado de Oaxaca, en su respectivo ámbito de competencia, contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto, para modificar las disposiciones reglamentarias de igual o menor jerarquía en materia de igualdad entre mujeres y hombres, a fin de lograr el cabal cumplimiento y objetivo del presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2813.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2, Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 28; Y SE ADICIONA LA FRACCIÓN XVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 5, Y LA FRACCIÓN VIII AL ARTÍCULO 28 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2814- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 13; SE ADICIONA LA FRACCIÓN XII, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 13; EL CAPÍTULO SÉPTIMO “DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PÚBLICA” AL TÍTULO IV COMPUESTO POR LOS ARTÍCULOS 37 BIS Y 37 TER DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2817.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 28; Y SE ADICIONA LA FRACCIÓN XII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 13 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
