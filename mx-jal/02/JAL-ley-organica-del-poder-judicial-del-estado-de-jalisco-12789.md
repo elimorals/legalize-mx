@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2021-10-30"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -95,9 +95,11 @@ III. La consecución del apoyo y la colaboración participativa de los sectores 
 
 Para tal efecto, los tribunales estarán expeditos para impartir justicia a toda persona en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, categórica, gratuita e imparcial, quedando en consecuencia, prohibidas las costas judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-Los tribunales de justicia del fuero común del Estado de Jalisco, ejercerán su jurisdicción para aplicar las leyes en asuntos penales, familiares, civiles, mercantiles y cuanta especialidad lo permita el presupuesto, con las limitaciones en el lugar, grado y términos que señala esta ley y su reglamento. En los asuntos del orden federal podrán intervenir en los casos que expresamente las leyes de esa materia les confieran jurisdicción.
+Los tribunales de justicia del fuero común del Estado de Jalisco, ejercerán su jurisdicción para aplicar las leyes en asuntos penales, laborales, familiares, civiles, mercantiles y cuanta especialidad lo permita el presupuesto, con las limitaciones en el lugar, grado y términos que señala esta ley y su reglamento. En los asuntos del orden federal podrán intervenir en los casos que expresamente las leyes de esa materia les confieran jurisdicción.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
 
@@ -106,6 +108,10 @@ En términos del artículo 73 fracción XXI de la Constitución Política de los
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 Los órganos jurisdiccionales en materia penal del Estado, tomarán conocimiento de las consignaciones en materia de narcomenudeo de conformidad con los términos y formalidades establecidos en el Título Décimo Octavo, Capítulo VII, de la Ley General de Salud, así como llevarán un registro de las mismas y realizarán las actualizaciones concernientes. En los procedimientos penales que se sustancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+Los juzgados laborales del Estado de Jalisco conocerán de los conflictos laborales de los cuales les otorgan jurisdicción la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -191,9 +197,9 @@ Serán inhábiles los sábados, domingos y demás días que establezca el Códig
 
 Los servidores públicos del Poder Judicial disfrutarán anualmente de dos períodos de vacaciones con goce de sueldo. El primero, será del dieciséis al treinta y uno de julio, y el segundo, del dieciséis al treinta y uno de diciembre.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-Los juzgados penales, mixtos, familiares y civiles que por disposición de la ley deban conocer actuaciones para las cuales no haya días y horas inhábiles, harán uso de ese derecho conforme lo disponga el Consejo de la Judicatura.
+Los juzgados penales, laborales, mixtos, familiares y civiles que por disposición de la ley deban conocer actuaciones para las cuales no haya días y horas inhábiles, harán uso de ese derecho conforme lo disponga el Consejo de la Judicatura.
 
 ###### Artículo 14.
 
@@ -1043,6 +1049,18 @@ Los conflictos de competencia que se susciten entre juzgados de la jurisdicción
 
 Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en los distritos judiciales que les adscriba el pleno, con las atribuciones y facultades que les sean asignadas.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 51 Bis.
+
+Las salas especializadas, auxiliares y regionales mixtas conocerán de:
+
+l. Los impedimentos, excusas y recusaciones de los jueces laborales;
+
+II. Los conflictos de competencia que se susciten entre los juzgados laborales; y
+
+III. Las demás que fijen las leyes.
+
 ### CAPÍTULO V. DEL PROCEDIMIENTO PARA LAS SUPLENCIAS DE LOS MAGISTRADOS
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
@@ -1325,11 +1343,11 @@ Artículo 100 O.- (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 101.
 
-Los juzgados de la Entidad conocerán de los asuntos de materia penal, civil, familiar y mercantil, según determine el Pleno del Consejo de la Judicatura, conforme a las reglas siguientes:
+Los juzgados de la Entidad conocerán de los asuntos de materia penal, laboral, civil, familiar y mercantil, según determine el Pleno del Consejo de la Judicatura, conforme a las reglas siguientes:
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1367,19 +1385,37 @@ g) De los alimentos, de los depósitos de menores, de separación de los cónyug
 
 h) De las cuestiones relativas a los asuntos que afecten en sus derechos personales a los menores e incapacitados, y en general, de todas las cuestiones familiares que requieran la intervención judicial, así como de los procedimientos acumulados al juicio universal;
 
-> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-IV. Los juzgados de lo mercantil, conocerán de toda clase de juicios o trámites relacionados con dicha materia; y
+IV. Los juzgados de lo mercantil, conocerán de toda clase de juicios o trámites relacionados con dicha materia;
 
-> <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-V. Los juzgados mixtos, conocerán de toda clase de asuntos mencionados en las fracciones anteriores.
+V. Los juzgados laborales conocerán de los conflictos laborales individuales y colectivos cuya jurisdicción les otorguen la Constitución Política de los Estados Unidos Mexicanos y las leyes federales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+VI. Los juzgados mixtos, conocerán de toda clase de asuntos mencionados en las fracciones anteriores.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 102.
 
 Los diversos órganos jurisdiccionales especializados en materia penal se integrarán con los servidores públicos de la administración de justicia, que determine el Consejo de la Judicatura y que permita el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 102 Bis.
+
+Los juzgados laborales se integrarán por:
+
+I. Un Juez laboral;
+
+II. Un secretario instructor o secretarios instructores;
+
+III. Un notificador o notificadores; y
+
+IV. Los servidores públicos de la administración de justicia que determine el Consejo de la Judicatura y que permita el Presupuesto de Egresos.
 
 ###### Artículo 103.
 
@@ -1465,9 +1501,11 @@ En caso de haber sido nombrado para integrar una lista de reserva con una antig�
 
 Para el nombramiento de jueces, en igualdad de circunstancias, se preferirá al aspirante que preste sus servicios con eficiencia, probidad y honradez en la administración de justicia.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 107.
 
-Para ser Secretario de Acuerdos o Conciliador, es necesario satisfacer los mismos requisitos exigidos para ser Secretario de Acuerdos de Sala.
+Para ser Secretario de Acuerdos, Instructor o Conciliador, es necesario satisfacer los mismos requisitos exigidos para ser Secretario de Acuerdos de Sala.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
@@ -1614,6 +1652,26 @@ VII. Las demás que la ley o el Juez le encomiende.
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
 En los juzgados especializados y mixtos fuera del Primer Distrito Judicial en los que solamente actúe un Secretario, tendrá las atribuciones que en lo conducente señala esta ley para los secretarios de acuerdos y conciliadores.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 114 Bis.
+
+Los secretarios instructores de los juzgados laborales, además de las facultades que señala la Ley Federal del Trabajo tendrán las siguientes atribuciones:
+
+I. A petición del Juez Laboral, dictar los acuerdos relativos a la etapa escrita del procedimiento;
+
+II. Al inicio de las audiencias, hacer constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de los servidores públicos del Juzgado y demás personas que intervendrán;
+
+III. Tomar protesta previa de que se conducirán con verdad las partes y los terceros que intervengan en el desarrollo de la audiencia, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad;
+
+IV. Certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse;
+
+V. Firmar las resoluciones que así lo amreriten (sic), el día en que se emitan;
+
+VI. Decretar las providencias cautelares previstas en la Ley Federal del Trabajo; y
+
+VII. Las demás que determine la Ley o el Consejo de la Judicatura.
 
 ###### Artículo 115.
 
@@ -4048,3 +4106,31 @@ CUARTO. El Poder Judicial dentro de un plazo que no exceda de 180 días posterio
 QUINTO. A la Unidad Concentradora de notificaciones se integrarán los notificadores actualmente adscritos a los juzgados, lo que acontecerá de igual manera respecto a los notificadores adscritos a las Salas del Supremo Tribunal de Justicia del Estado.
 
 SEXTO. La entrada en vigor del presente decreto no menoscabará o afectará la estabilidad laboral y demás condiciones de trabajo de las y los servidores públicos del Poder Judicial, por lo que se respetarán sus derechos laborales adquiridos, de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de una y otra emanen.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 28505/LXII/21 QUE SE (SIC) CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE JALISCO Y EXPIDE SU LEY ORGÁNICA; Y QUE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día 1 de mayo de 2022, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Junta de Gobierno del Centro de Conciliación deberá instalarse en un plazo no mayor a tres días hábiles, contados a partir del día siguiente de la entrada en vigor del presente decreto.
+
+TERCERO. El titular del Poder Ejecutivo deberá expedir el Reglamento Interno del Centro de Conciliación, al día siguiente de la entrada en vigor del presente decreto para los efectos legales correspondientes.
+
+CUARTO. El titular del Poder Ejecutivo deberá designar a la persona titular de la Dirección General del Centro al día siguiente de la entrada en vigor del presente decreto.
+
+QUINTO. Se autoriza al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública y en su caso de la Secretaría de Administración, así como al Presidente del Supremo Tribunal de Justicia del Estado, a efectuar las adecuaciones presupuestales, programáticas y administrativas necesarias y según corresponda, a fin de dar cumplimiento al presente decreto.
+
+SEXTO. Los expedientes que al momento de la entrada en vigor del presente decreto se encuentren en trámite ante la Secretaría del Trabajo y Previsión Social, serán concluidos por ésta de conformidad con las disposiciones legales aplicables. El Centro no admitirá a trámite solicitudes de procedimientos conciliatorios respecto de procedimientos que se estén sustanciando ante la Secretaría del Trabajo y Previsión Social.
+
+SÉPTIMO. El Centro de Conciliación Laboral y los Tribunales Laborales del Poder Judicial del Estado entrarán en funciones el 2 de mayo de 2022, previa declaratoria del Congreso del Estado, de conformidad a lo establecido por el artículo transitorio Vigésimo Cuarto, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+OCTAVO. El Centro de Conciliación Laboral y los Tribunales Laborales del Poder Judicial del Estado deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asimismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.
+
+NOVENO. Los Tribunales Laborales del Poder Judicial del Estado conocerán de los asuntos que les correspondan conforme a lo establecido por la Ley Federal del Trabajo y los artículos Transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, conforme a la competencia territorial que determine el Consejo de la Judicatura.
+
+DÉCIMO. El Poder Judicial del Estado deberá concretar y publicar las modificaciones al Reglamento de la Ley Orgánica del Poder Judicial del Estado de Jalisco y a su reglamento interno al día siguiente de la entrada en vigor del presente decreto.
+
+DÉCIMO PRIMERO. Los derechos laborales de las y los trabajadores que se vean involucradas (sic) en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+DÉCIMO SEGUNDO. El Consejo de la Judicatura deberá ajustar o expedir los acuerdos generales necesarios dentro de un plazo de 180 (sic) posteriores a la entrada en vigor del presente decreto.
