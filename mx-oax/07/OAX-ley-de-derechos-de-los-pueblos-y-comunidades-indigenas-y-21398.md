@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "2021-10-16"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -167,15 +167,29 @@ II.- Al que atente contra la integridad física, salud o reproducción de los in
 
 III.- Al que fomente de manera coercitiva y por medio de la violencia o el engaño la asimilación de los integrantes de los pueblos y comunidades indígenas a otras culturas o modos de vida; o motiven su dispersión a través de desplazamientos o separaciones involuntarias de sus familias o de sus territorios.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 16 Bis.
+
+Comete el delito de saqueo del patrimonio cultural material e inmaterial, quien sustraiga, sin consentimiento de las comunidades y pueblos indígenas o afromexicano que tengan la propiedad intelectual colectiva, material tangible o intangible, y se sancionará de la siguiente manera:
+
+I.- De dos a cinco años de prisión y de treinta a doscientos días multa, si el monto del daño no excede de quinientas veces el valor de la Unidad de Medida y Actualización vigente; y,
+
+II.- De cinco a doce años de prisión y de doscientos a quinientos días multa, si el monto excede de quinientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+La integración de la carpeta de investigación a partir de la denuncia individual o colectiva, será competencia de la Fiscalía General del Estado de Oaxaca.
+
 ###### Artículo 17.
 
 Al que discrimine culturalmente en forma grave y por cualquier medio a los integrantes de un pueblo o comunidad indígena, se le sancionará con prisión de tres días a un año, o multa de cien a doscientos cincuenta salarios mínimos, o ambas a juicio del juez.
 
 Se entiende por discriminación cultural grave toda acción u omisión que implique deshonra, descrédito o perjuicio al sujeto pasivo en razón de su calidad de indígena.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 18.
 
-Para el caso de que los responsables de las conductas previstas en los artículos 16 y 17 de esta ley fueren servidores públicos y las realizaren en ejercicio de sus funciones o con motivo de ellas, además de las penas a que se refieren dichos artículos, se les aplicarán las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del estado y Municipios de Oaxaca.
+Para el caso de que los responsables de las conductas previstas en los artículos 16, 16 Bis y 17 de esta ley fueren servidores públicos y las realizaren en ejercicio de sus funciones o con motivo de ellas, además de las penas a que se refieren dichos artículos, se les aplicarán las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
 ###### Artículo 19.
 
@@ -558,3 +572,13 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2785.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 18; Y SE ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado de Oaxaca a través de la autoridad correspondiente, dispondrá que el texto íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión culturalmente adecuada en todos los pueblos y comunidades indígenas y afromexicanas del Estado de Oaxaca.
