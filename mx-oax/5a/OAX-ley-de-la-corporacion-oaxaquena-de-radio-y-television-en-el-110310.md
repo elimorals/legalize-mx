@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-corporacion-oaxaquena-de-radio-y-television-en-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2021-10-16"
+last_updated: "2021-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 9 de octubre de 2015.
 
@@ -83,9 +83,9 @@ La CORTV tendrá los siguientes objetivos:
 
 I. La planeación, elaboración, producción y transmisión de programas de radio y televisión que promuevan el desarrollo del Estado, difundan y preserven la cultura de sus pueblos, los programas educativos de las autoridades competentes y las actividades gubernamentales que en cumplimiento a disposiciones legales y al contenido del Plan Estatal de Desarrollo, realicen por conducto de dependencias y entidades del Estado:
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-Las transmisiones de televisión a que se refiere ésta fracción, también deberán ser difundidas a través de la Lengua de Señas Mexicana; para garantizar el acceso a la información y comunicación para las personas con discapacidad.
+Las transmisiones de televisión a que se refiere esta fracción, también deberán ser difundidas a través de la Lengua de Señas Mexicana; para garantizar el acceso a la información y comunicación para las personas con discapacidad. Asimismo, se deberán difundir y traducir en las lenguas indígenas del Estado, de acuerdo al principio de territorialidad y pertinencia cultural.
 
 II. Asociarse con personas físicas o morales incluidas las de derecho social, sin fines esencialmente lucrativos, para la elaboración, producción y transmisión de programas de radio y televisión, de conformidad con las disposiciones normativas aplicables a la materia;
 
@@ -440,3 +440,11 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2787.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 6 DE LA LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
