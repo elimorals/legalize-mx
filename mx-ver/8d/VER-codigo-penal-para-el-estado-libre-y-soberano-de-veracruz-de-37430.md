@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2021-07-20"
+last_updated: "2021-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2141,21 +2141,49 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 ### CAPÍTULO V. VIOLACIÓN A LA INTIMIDAD SEXUAL
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
-Artículo 190 Quindecies. Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya o publique imágenes, audios o videos de una persona desnuda parcial o totalmente de contenido íntimo o erótico sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
+Artículo 190 Quindecies. Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya o publique imágenes, audios o videos de una persona que tenga la mayoría de edad de contenido íntimo o erótico sexual, sin su consentimiento, su aprobación o su autorización.
 
-Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil hasta dos mil Unidades de Medida y Actualización, al momento de que se cometa el delito. Este delito se perseguirá por querella. En caso de que esta conducta se realice contra una persona en situación de discapacidad que no comprenda el significado del hecho, se perseguirá de oficio.
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2019)</small>
+Así como quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+Estas conductas se sancionarán de cuatro a ocho años de prisión y multa de mil hasta dos mil Unidades de Medida y Actualización, al momento de que se cometa el delito.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+Se impondrá las mismas penas que en el párrafo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
 Artículo 190 Sexdecies. Las penas del artículo anterior se aumentarán hasta en una mitad del máximo de la pena cuando:
 
-I. El delito sea cometido por el cónyuge, concubinario o concubina o por persona con la que esté o haya estado unida la víctima en alguna relación de afectividad, aun sin convivencia;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
-II. Se cometa en contra de una persona que por su situación de discapacidad no comprenda el significado del hecho; o
+I. El delito sea cometido por el cónyuge, concubinario o concubina o por persona con la que esté o haya estado unida la víctima en alguna relación sentimental de afectividad o confianza, aún sin convivencia;
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+II. Se cometa en contra de una persona que por su situación de discapacidad no comprenda el significado del hecho, o no tenga la capacidad para resistirlo;
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2019)</small>
 
 III. De esa acción se obtenga algún tipo de beneficio no lucrativo.
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+IV. Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones;
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+V. Cuando se haga con fines lucrativos, o
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+VI. Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2019)</small>
 
@@ -5435,17 +5463,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SEGURIDAD PÚBLICA".]
+G.O. 15 DE NOVIEMBRE DE 2021.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 871 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO PENAL, AMBOS PARA EL ESTADO DE VERACRUZ”.]
 
-Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- En el término de noventa días naturales, contados a partir de la publicación del presente Decreto, la Secretaría de Seguridad y Protección Ciudadana realizará la armonización normativa de los instrumentos jurídicos que correspondan.
-
-Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto asignado a la Secretaría de Seguridad y Protección Ciudadana, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
-
-D.O.F. 17 DE ENERO DE 2025.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UN PÁRRAFO QUINTO AL ARTÍCULO 4o. Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 5o., DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PROTECCIÓN A LA SALUD”.]
 
