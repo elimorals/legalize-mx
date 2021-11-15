@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2020-09-15"
+last_updated: "2021-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -187,11 +187,41 @@ V. La violencia económica: Acción u omisión de la persona agresora que afecta
 
 VI. La violencia obstétrica: Apropiación del cuerpo y procesos reproductivos de las mujeres por personal de salud, que se expresa en un trato deshumanizador, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y sexualidad; se consideran como tal, omitir la atención oportuna y eficaz de las emergencias obstétricas, obligar a la mujer a parir en posición supina y con las piernas levantadas, existiendo los medios necesarios para la realización del parto vertical, obstaculizar el apego precoz del niño o niña con su madre sin causa médica justificada, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer, alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer; y
 
-> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
-VII. Violencia digital. Es cualquier acto de violencia que se manifieste en acoso, hostigamiento, amenazas, insultos, violación de datos e información privada, divulgación de información apócrifa, mensajes de odio o la difusión, sin consentimiento de las mujeres, niñas o adolescentes, de contenido íntimo, textos, fotografías, videos, datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, cometidos, instigados o agravados en parte o totalmente, y que se presenta a través de las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, sistemas de mensajería instantánea o correo electrónico, o cualquier otro espacio similar digitalizado; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres, y les cause un daño o sufrimiento psicológico, físico, económico o sexual, tanto en el ámbito privado, como en el público; así como daño moral a ellas o su familia; y
+VII. Violencia digital. Es cualquier acto de violencia que se realiza a través de las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, sistemas de mensajería instantánea, correo electrónico, o cualquier otro espacio digitalizado, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres y les cause un daño o sufrimiento psicológico, físico, económico, emocional o sexual tanto en el ámbito privado, como en el público o en su imagen propia.
 
-VIII. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres.
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+Para efectos del presente artículo, se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+La violencia digital será sancionada en la forma y términos que establezca el Código Penal Para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Violencia mediática. Es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+IX. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 7 Bis.
+
+Cuando se trate de violencia digital o mediática para garantizar la integridad de la víctima, el Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, determinando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos (URL).
+
+La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo con las características del mismo.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en este artículo deberá celebrarse la audiencia en la que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas considerando la información disponible, así como la irreparabilidad del daño.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -433,15 +463,15 @@ XI. Realizar material de promoción y difusión de las acciones del Observatorio
 
 XII. Las demás que sean propuestas por las instituciones que integran el Observatorio.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO IX (SIC). De la Violencia Digital
+### CAPÍTULO X. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
 
-> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 13 Nonies.
 
-Los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una Vida libre de violencia digital y tomarán en consideración los daños que ésta pueda generar en las víctimas.
+Los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una vida libre de violencia digital y mediática y tomarán en consideración los daños que éstas puedan generar en las víctimas.
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -1332,3 +1362,11 @@ G.O. 15 DE SEPTIEMBRE DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 871 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO PENAL, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
