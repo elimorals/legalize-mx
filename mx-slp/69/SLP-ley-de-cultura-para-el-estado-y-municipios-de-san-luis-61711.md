@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2019-07-29"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -277,11 +277,15 @@ XXIV. Diseñar, ejecutar y mantener actualizado el sistema de información cultu
 
 XXV. Impulsar y apoyar las propuestas que en materia de desarrollo cultural municipal, propongan las organizaciones de la sociedad civil, organizaciones independientes y organismos privados, con el propósito de fortalecer la toma de decisiones en materia cultural;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XXVI. Formar parte de la Red Estatal de Bibliotecas Públicas, en vinculación con la Coordinación Estatal de Bibliotecas Públicas; asimismo dotar a dichas bibliotecas de acervos propios y fortalecer su infraestructura con la ampliación, mantenimiento, mejoras físicas y tecnológicas, acorde a los lineamientos que dicte la Coordinación Estatal de Bibliotecas Públicas, y
+XXVI. Formar parte de la Red Estatal de Bibliotecas Públicas, en vinculación con la Coordinación Estatal de Bibliotecas Públicas; asimismo dotar a dichas bibliotecas de acervos propios y fortalecer su infraestructura con la ampliación, mantenimiento, mejoras físicas y tecnológicas, acorde a los lineamientos que dicte la Coordinación Estatal de Bibliotecas Públicas;
 
-XXVII. Las demás que le otorgue esta Ley, y otros ordenamientos jurídicos aplicables.
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXVII. Promover acciones para que los espacios culturales, de forma permanente, difundan el trabajo de los artistas del Estado en todas las ramas, y
+
+XXVIII. Las demás que le otorgue esta Ley, y otros ordenamientos jurídicos aplicables.
 
 ###### ARTICULO 11.
 
@@ -882,3 +886,11 @@ SEGUNDO. El cobro por la entrada a los museos previsto en el anexo respectivo de
 Para los ejercicios subsecuentes, se deberá de establecer en la parte correspondiente del anexo de la Ley de Ingresos del Estado respectiva, este incentivo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0013.- SE REFORMA EL ARTÍCULO 10 EN SU FRACCIÓN XXVI Y ADICIONA AL MISMO ARTÍCULO 10 UNA FRACCIÓN, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
