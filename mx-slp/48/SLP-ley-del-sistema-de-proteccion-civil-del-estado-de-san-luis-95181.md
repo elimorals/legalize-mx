@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2021-04-13"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -689,13 +689,15 @@ El registro será obligatorio y permitirá a los agentes consultores capacitador
 
 A fin de evitar conflicto de interés real o potencial, así como tráfico de influencias; ningún servidor público o persona que forme de los consejos de protección civil nacional, estatal y municipal, así como los familiares directos de los empleados de los gobiernos referidos, no podrán obtener el registro como agentes consultores capacitadores.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-ARTÍCULO 52 Bis (SIC). De los ingresos obtenidos por el concepto de asistencia social establecido en la Ley de Hacienda del Estado, el Ejecutivo del Estado, en base a su suficiencia presupuestal podrá destinar recursos a instituciones públicas y privadas dedicadas a atender emergencias y situaciones de desastre, siempre y cuando cumplan los requisitos aplicables de los artículos 66 y 67 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 52 Ter.
+
+De los ingresos obtenidos por el concepto de asistencia social establecido en la Ley de Hacienda del Estado, el Ejecutivo del Estado, en base a su suficiencia presupuestal podrá destinar recursos a instituciones públicas y privadas dedicadas a atender emergencias y situaciones de desastre, siempre y cuando cumplan los requisitos aplicables de los artículos 66 y 67 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 52 Quáter.
 
 La Coordinación Estatal de Protección Civil publicará en el Periódico Oficial del Estado "Plan de San Luis", la lista de agentes consultores capacitadores que haya registrado para ejercer actividades de asesoría y capacitación en la materia; y además informará a las unidades municipales de protección civil los datos de los agentes con domicilio en su territorio. Por cada registro se cobrará el derecho previsto en la Ley de Hacienda del Estado.
 
@@ -1030,3 +1032,11 @@ P.O. 13 DE ABRIL DE 2021.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0015.- SE REFORMA (SIC) LOS DOS ACTUALES ARTÍCULOS 52 BIS, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"
+
+SEGUDNO (SIC). Se derogan todas las disposiciones que se opongan al presente Decreto.
