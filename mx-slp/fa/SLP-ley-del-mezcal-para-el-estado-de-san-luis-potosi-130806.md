@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-mezcal-para-el-estado-de-san-luis-potosi-130806"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-18"
-last_updated: "2021-07-13"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL MEZCAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de septiembre de 2018.
 
@@ -133,6 +133,14 @@ VII. Celebrar convenios de concertación, coordinación, cooperación y suscripc
 
 VIII. Implementar acciones para la investigación y transferencia de tecnología en el cuidado del medio ambiente, en los procesos de la cadena productiva del Mezcal, en coordinación con las instituciones públicas y privadas.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 4° BIS. Para efectos de la presente Ley corresponde a la Secretaría de Turismo:
+
+I. Incluir la difusión de la producción de mezcal certificado en los municipios con denominación de origen, en la promoción turística de la Entidad, a nivel estatal, nacional e internacional, y
+
+II. Promocionar el mezcal certificado y producido en los municipios con denominación de origen, como un producto tradicional con importancia cultural, en los sitios turísticos de la Entidad.
+
 ### Capítulo Segundo. Políticas y Principios
 
 ###### ARTÍCULO 5°.
@@ -165,15 +173,19 @@ II. El titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráuli
 
 III. El titular de la Secretaría de Ecología y Gestión Ambiental;
 
-IV. El titular de la Contraloría General del Estado;
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-V. Los representantes de las organizaciones de mezcaleros;
+IV. El titular de la Secretaría de Turismo;
 
-VI. Dos representantes de las instituciones de enseñanza superior e investigación con estudios y carreras vinculadas a la cadena de producción mezcal;
+V. El titular de la Contraloría General del Estado;
 
-VII. Un representante del Consejo Mexicano Regulador de la Calidad del Mezcal A.C., y
+VI. Los representantes de las organizaciones de mezcaleros;
 
-VIII. El titular de la Delegación Federal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, quien participará como invitado permanente.
+VII. Dos representantes de las instituciones de enseñanza superior e investigación con estudios y carreras vinculadas a la cadena de producción mezcal;
+
+VIII. Un representante del Consejo Mexicano Regulador de la Calidad del Mezcal A.C., y
+
+IX. El titular de la Delegación Federal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, quien participará como invitado permanente.
 
 ###### ARTÍCULO 7°.
 
@@ -298,3 +310,11 @@ P.O. 13 DE JULIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0012.- SE ADICIONA EL ARTÍCULO 4 º BIS, Y AL ARTÍCULO 6º UNA FRACCIÓN, DE LA LEY DEL MEZCAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
