@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-social-del-estado-de-sonora-50024"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-30"
-last_updated: "2020-12-21"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 30 de marzo de 2006.
 
@@ -51,9 +51,11 @@ La presente ley es de orden público y de interés social y tiene por objeto gar
 
 Toda persona en el Estado de Sonora tiene derecho a un desarrollo social integral recibiendo los beneficios consecuentes en forma de mejor calidad de vida.
 
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 3.
 
-Son derechos sociales el de alimentación, el de acceso universal a la salud y a la educación, al sano esparcimiento, a la vivienda digna, a la seguridad social, a la asistencia social, a los servicios básicos de agua potable, drenaje y electricidad, al uso de las vías de comunicación y el transporte, al disfrute de un medio ambiente sano y seguro, a la atención a la familia, a la igualdad de varones y mujeres, a la diversidad cultural, al trabajo, a la posesión y usufructo de la tierra por los núcleos de población ejidales y comunales, al apoyo a la producción y la productividad del sector social de la economía, a la distribución justa del ingreso y la riqueza y los demás reconocidos por las leyes que tiendan a mejorar las condiciones y la calidad de vida de las personas y los grupos sociales.
+Son derechos sociales el de alimentación, el de acceso universal a la salud y a la educación, al sano esparcimiento, a la vivienda digna, a la seguridad social, a la asistencia social, a los servicios básicos de agua potable, drenaje y electricidad, al uso de las vías de comunicación y el transporte, al disfrute de un medio ambiente sano y seguro, a la atención a la familia, a la igualdad sustantiva, a la diversidad cultural, al trabajo, a la posesión y usufructo de la tierra por los núcleos de población ejidales y comunales, al apoyo a la producción y la productividad del sector social de la economía, a la distribución justa del ingreso y la riqueza y los demás reconocidos por las leyes que tiendan a mejorar las condiciones y la calidad de vida de las personas y los grupos sociales.
 
 ###### ARTÍCULO 4.
 
@@ -65,7 +67,9 @@ II.- La asistencia social que protege y atiende a las personas que carecen de la
 
 III.- El desarrollo económico con sentido social de las regiones, municipios y sectores productivos rezagados, incluyendo la creación de infraestructura estratégica y de las condiciones que favorezcan la producción y distribución de riqueza, así como la generación de empleos.
 
-IV.- La seguridad social que protege la salud y el bienestar de los trabajadores asegurados y sus familias conforme a las leyes respectivas.
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+IV.- La seguridad social que protege la salud y el bienestar de las trabajadoras y de los trabajadores asegurados y sus familias conforme a las leyes respectivas.
 
 ###### ARTÍCULO 5.
 
@@ -145,9 +149,11 @@ Se crea el Sistema Estatal para el Desarrollo Social de Sonora, a fin de dotar a
 
 Forman la estructura del Sistema Estatal para el Desarrollo Social: el Consejo Consultivo, la Comisión y su Comité Técnico, los Comités Regionales, los Comités Municipales, los Comités Ciudadanos de Desarrollo Social, las organizaciones civiles y sociales y, en general, las dependencias y entidades del gobierno estatal que inciden en el desarrollo social en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 9.
 
-El Consejo Consultivo tiene por objeto lograr y, en su caso, ampliar y mejorar de modo constante, la participación de los sujetos y beneficiarios del desarrollo social en las acciones relacionadas con dicho desarrollo. Para el indicado efecto, el Consejo Consultivo deberá analizar las causas y condiciones de la marginación y la inequidad social, proponer políticas de desarrollo social y coadyuvar en la planeación, coordinación y evaluación de las políticas sociales.
+El Consejo Consultivo tiene por objeto lograr y, en su caso, ampliar y mejorar de modo constante, la participación de los sujetos y beneficiarios del desarrollo social en las acciones relacionadas con dicho desarrollo. Para el indicado efecto, el Consejo Consultivo deberá analizar las causas y condiciones de la marginación y la inequidad social, proponer políticas de desarrollo social y coadyuvar en la planeación, coordinación y evaluación de las políticas sociales con perspectiva de género.
 
 El Consejo Consultivo sesionará por lo menos una vez al año y tantas como sean necesarias para cumplir con su objetivo, según las convocatorias que al efecto deberá lanzar el Secretario Técnico de la misma. Sus resoluciones serán tomadas por mayoría de votos.
 
@@ -159,7 +165,9 @@ I.- Fomentar la participación ciudadana en el diseño, aplicación y evaluació
 
 II.- Efectuar consultas y encuestas relacionadas con el desarrollo social;
 
-III.- Proponer políticas públicas de desarrollo social bajo una perspectiva de equidad de género;
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+III.- Proponer políticas públicas de desarrollo social bajo una perspectiva de equidad de género, garantizando siempre la igualdad sustantiva;
 
 IV.- Procurar la vinculación y coordinación de acciones entre los diferentes órdenes de gobierno y los particulares en lo referente al desarrollo social;
 
@@ -209,7 +217,9 @@ k) El Secretario Ejecutivo de Seguridad Pública;
 
 l) Al menos doce presidentes municipales representativos de las principales regiones geográficas de la Entidad, por designación del Presidente del Consejo.
 
-Se agregarán al Consejo Consultivo, hasta completar por lo menos cuarenta miembros titulares, los delegados o representantes de las instancias del Gobierno Federal con competencia en materia de desarrollo social que acepten la invitación que al efecto deberá formularles el Ejecutivo, así como los investigadores, académicos y representantes de los sectores público, social y privado involucrados en el desarrollo social del Estado a quienes el Presidente del Consejo Consultivo invite a formar parte del mismo y acepten la invitación, o sean incluidos como miembros del Consejo por mandato del Ejecutivo cuando éste tenga poder de mando sobre ellos.
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+Se agregarán al Consejo Consultivo, hasta completar por lo menos cuarenta miembros titulares, los delegados o representantes de las instancias del Gobierno Federal con competencia en materia de desarrollo social que acepten la invitación que al efecto deberá formularles el Ejecutivo, así como los investigadores, académicos y representantes de los sectores público, social y privado involucrados en el desarrollo social del Estado a quienes el Presidente del Consejo Consultivo invite a formar parte del mismo y acepten la invitación, o sean incluidos como miembros del Consejo por mandato del Ejecutivo cuando éste tenga poder de mando sobre ellos, garantizando siempre la participación del mismo número de mujeres y hombres.
 
 Los integrantes del Consejo Consultivo conformarán este Órgano colegiado mientras dure el cargo que les corresponda cuando se trate de servidores públicos y, en el caso de no serlo, serán confirmados o substituidos en sus funciones cada tres años.
 
@@ -241,9 +251,17 @@ IV.- Acceso a los servicios de salud;
 
 V.- Apoyo en alimentación;
 
-VI.- Inclusión en cuanto a seguridad social; y
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-VII.- Apoyo para mejora en ingreso y/o empleo.
+VI.- Inclusión en cuanto a seguridad social;
+
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VII.- Apoyo para mejora en ingreso y/o empleo; y
+
+> <small>(ADICIONADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VIII.- Empoderamiento de la mujer, igualdad sustantiva e igualdad salarial.
 
 > <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
 
@@ -441,15 +459,15 @@ III.- Los titulares de las dependencias municipales que operen programas y accio
 
 IV.- Los representantes de las dependencias y entidades del gobierno estatal que operen en el municipio programas y acciones de desarrollo social; y
 
-V.- En igual número que la suma de los anteriores, representantes de organizaciones, académicos e investigadores del ramo y, en general, ciudadanos con experiencia y reconocimiento en desarrollo social, que serán designados por el Ayuntamiento, previa convocatoria pública que se lance para dicho objetivo dentro de los treinta días siguientes a la primera sesión del Ayuntamiento correspondiente.
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+V.- En igual número que la suma de los anteriores, representantes de organizaciones, académicos e investigadores del ramo y, en general, ciudadanos con experiencia y reconocimiento en desarrollo social, que serán designados por el Ayuntamiento, previa convocatoria pública que se lance para dicho objetivo dentro de los treinta días siguientes a la primera sesión del Ayuntamiento correspondiente garantizando en todo momento la participación del mismo número de mujeres y hombres.
+
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 23.
 
-Los comités ciudadanos de desarrollo social se constituirán como auxiliares necesarios de las instancias del Estado y los ayuntamientos involucradas (sic) en el desarrollo social, sin que en ningún caso y por ningún motivo puedan actuar con fines político-partidistas. Deberán constituirse para una o varias acciones u obras de desarrollo social mediante convocatorias públicas dirigidas a los beneficiarios de dichas acciones u obras. Su número de miembros será siempre impar, nunca menor de cinco ni mayor de quince, y desarrollarán las funciones a su cargo de forma honorífica, con una estructura que incluirá un presidente y un secretario del comité, actuando los demás miembros como vocales. Los integrantes de estos comités tendrán derecho a recibir capacitación relacionada con el ejercicio de sus funciones.
-
-Serán funciones específicas de los comités ciudadanos de desarrollo social opinar con relación a las acciones u obras que hayan originado su integración, así como vigilar la apropiada realización de dichas acciones u obras y, en general, constituirse en una contraloría ciudadana preventiva que promueva las mejores condiciones de desarrollo social para el grupo de beneficiarios que representen.
-
-Todas las observaciones, reclamaciones, advertencias, sugerencias y peticiones en general que sean presentadas ante las autoridades por los comités ciudadanos de desarrollo social, deberán recibir una respuesta adecuada y pertinente dentro de un plazo que nunca podrá ser mayor a diez días.
+Los comités ciudadanos de desarrollo social se constituirán como auxiliares necesarios de las instancias del Estado y los ayuntamientos involucradas (sic) en el desarrollo social, sin que en ningún caso y por ningún motivo puedan actuar con fines político-partidistas. Deberán constituirse para una o varias acciones u obras de desarrollo social mediante convocatorias públicas dirigidas a los beneficiarios de dichas acciones u obras, procurando siempre la igualad (sic) sustantiva con la misma representación de hombres y mujeres. Su número de miembros será siempre impar, nunca menor de cinco ni mayor de quince, y desarrollarán las funciones a su cargo de forma honorífica, con una estructura que incluirá un presidente y un secretario del comité, actuando los demás miembros como vocales. Los integrantes de estos comités tendrán derecho a recibir capacitación relacionada con el ejercicio de sus funciones.
 
 ### CAPÍTULO III. DE LA AUTORIDAD EN MATERIA DE DESARROLLO SOCIAL
 
@@ -463,9 +481,13 @@ Son atribuciones de la Secretaría para el cumplimiento de la presente ley:
 
 I.- Formular, coordinadamente con la Comisión, el Programa Estatal de Desarrollo Social y los otros programas en la materia que le señale el Ejecutivo Estatal;
 
-II.- Promover y operar la coordinación, planeación, ejecución, seguimiento y evaluación de políticas, programas y acciones en materia de desarrollo social;
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-III.- Promover la organización y participación corresponsable de la sociedad en la elaboración, ejecución y evaluación de políticas, programas y acciones de desarrollo social;
+II.- Promover y operar la coordinación, planeación, ejecución, seguimiento y evaluación de políticas, programas y acciones en materia de desarrollo social, garantizando en todas ellas la igualdad sustantiva y el empoderamiento de la mujer;
+
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+III.- Promover la organización y participación corresponsable de la sociedad en la elaboración, ejecución y evaluación de políticas, programas y acciones de desarrollo social, garantizando en todas ellas la igualdad sustantiva y el empoderamiento de la mujer;
 
 IV.- Someter a la aprobación del Gobernador del Estado la invitación o el nombramiento de los integrantes de la Comisión, el Comité Técnico y el Consejo Consultivo que deba hacer el Ejecutivo;
 
@@ -493,7 +515,9 @@ III.- Convenir acciones y programas con otros municipios de la Entidad en materi
 
 IV.- Concertar acciones con los sectores social y privado en materia de desarrollo social;
 
-V.- Establecer mecanismos de participación social organizada en los programas y acciones de desarrollo social, así como en la elaboración, ejecución y evaluación de políticas públicas en la materia;
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+V.- Establecer mecanismos de participación social organizada en los programas y acciones de desarrollo social, así como en la elaboración, ejecución y evaluación de políticas públicas en la materia garantizando la perspectiva de género y la igualdad sustantiva;
 
 VI.- Informar a la sociedad sobre las acciones que se realicen en torno al desarrollo social; y
 
@@ -579,9 +603,9 @@ La instrumentación y ejecución de programas, proyectos, acciones e inversiones
 
 Las dependencias del gobierno estatal y los municipios harán del conocimiento público, cada año, sus programas operativos de desarrollo social y sus reglas de operación, a través de medios de comunicación masivos accesibles a la población, en un plazo no mayor a treinta días a partir de la aprobación de sus presupuestos de egresos anuales. Tal publicación deberá realizarse también, en el caso de los municipios, en la lengua de la etnia residente en su jurisdicción territorial cuando sea el caso.
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-Las reglas de operación mencionadas en el párrafo anterior, deben ser sensibles a las condiciones de los grupos vulnerables de la sociedad, por lo que deben de priorizar y garantizar el fácil acceso de los mismos a los programas correspondientes, atendiendo a la condición vulnerable del beneficiario.
+Las reglas de operación mencionadas en el párrafo anterior, deben ser sensibles a las condiciones de los grupos vulnerables de la sociedad, por lo que deben de priorizar y garantizar la igualdad sustantiva para las y los sonorenses, así como el fácil acceso de los mismos a los programas correspondientes, atendiendo a la condición vulnerable del beneficiario.
 
 ### CAPÍTULO II. DEL FINANClAMIENTO Y EL GASTO
 
@@ -629,9 +653,17 @@ XII.- Los programas dirigidos al desarrollo integral regional, microrregional (s
 
 XIII.- Los programas que fortalezcan las capacidades de las organizaciones, de las comunidades y de los municipios para diseñar, operar y evaluar acciones en materia de desarrollo social;
 
-XIV.- Los programas dirigidos a las personas en condiciones de pobreza, marginación o en situación de vulnerabilidad; y
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XV.- Los programas dirigidos a migrantes.
+XIV.- Los programas dirigidos a las personas en condiciones de pobreza, marginación o en situación de vulnerabilidad;
+
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XV.- Los programas dirigidos a migrantes; y
+
+> <small>(ADICIONADA, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XVI.- Los programas destinados al empoderamiento de la mujer, la igualdad sustantiva y la garantía de una vida libre de cualquier tipo de violencia en contra de las mujeres.
 
 ###### ARTÍCULO 42.
 
@@ -651,9 +683,11 @@ El Ejecutivo Estatal y los ayuntamientos tienen la obligación pública de gener
 
 Previa opinión del Consejo Consultivo y con la participación de la Comisión, la Secretaría definirá los lineamientos y estrategias generales de los programas de asistencia social que se encuentren incluidos en el Plan Estatal de Desarrollo, sobre la base y con el objetivo primordial de que las personas en condiciones de pobreza, marginación o situación de vulnerabilidad alcancen la autogestión y la capacidad de participar y decidir sobre su desarrollo y el de su comunidad.
 
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 46.
 
-En coordinación con las demás instancias del Sistema Estatal para el Desarrollo Social, la Secretaría promoverá políticas, estrategias y acciones que, fortaleciendo el respeto y la autoestima de las personas, promuevan la eliminación de la violencia social e intrafamiliar.
+En coordinación con las demás instancias del Sistema Estatal para el Desarrollo Social, la Secretaría promoverá políticas, estrategias y acciones que fortalezcan la igualdad sustantiva el respeto y la autoestima de las personas promoviendo en todo momento la eliminación de la violencia social e intrafamiliar.
 
 ### CAPÍTULO IV. DEL FOMENTO DEL SECTOR SOCIAL DE LA ECONOMÍA
 
@@ -840,3 +874,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las dependencias del gobierno estatal y los municipios dentro del plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, deberán de modificar las reglas de operación de sus programas operativos de desarrollo social de conformidad a lo previsto en el párrafo segundo del artículo 38 de este Decreto.
+
+B.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 02, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
