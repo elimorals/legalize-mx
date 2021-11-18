@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2021-11-11"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2021.
+
+(ESTE DECRETO ES UNA REPUBLICACIÓN EN EL PERIÓDICO OFICIAL DE 18 DE NOVIEMBRE DE 2021 DEL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.)
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -1091,11 +1093,11 @@ III. Un formulario para que las personas dejen sus comentarios.
 
 2. Los proyectos de dictamen deben hacer referencia a los comentarios recibidos en el buzón, cuando se refieran objetivamente a la materia de la iniciativa y hagan propuestas técnicas sobre la parte normativa.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2021) (REPUBLICADA SU DENOMINACIÓN, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ### Capítulo VII. Comité de Ética e Igualdad
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021) (REPUBLICADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 69.
 
@@ -1111,7 +1113,7 @@ III. Un formulario para que las personas dejen sus comentarios.
 
 ###### Artículo 70.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2021) (REPUBLICADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 1. El Comité de Ética e Igualdad tiene las siguientes atribuciones:
 
@@ -4562,6 +4564,8 @@ P.O. 23 DE OCTUBRE DE 2021.
 ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 10 DE NOVIEMBRE DE 2021.
+
+REPUBLICADO, P.O. 18 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 28503/LXII/21 QUE REFORMA EL ARTÍCULO 112 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ASÍ COMO LOS ARTÍCULOS 69 Y 70 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
