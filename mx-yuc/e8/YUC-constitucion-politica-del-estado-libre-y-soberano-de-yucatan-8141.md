@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2021-09-06"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -2171,7 +2171,9 @@ Por cada regidor propietario se elegirá a un suplente. Todos los regidores tend
 
 Novena.- La Hacienda Pública Municipal se regirá por los principios de autonomía administrativa, libre ejercicio, transparencia y legalidad; y se formará con los rendimientos de los bienes que le pertenezcan; así como, con las contribuciones y otros ingresos que la legislatura, establezca a su favor.
 
-Décima.- Los ayuntamientos crearán conforme a sus posibilidades órganos de control interno.
+> <small>(REFORMADA, D.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+Décima.- Los ayuntamientos contarán con sus órganos de control interno.
 
 Décima Primera.- Para examinar los asuntos por ramo, presentar propuestas de solución, y vigilar la ejecución de las disposiciones y acuerdos del Ayuntamiento, se establecerán Comisiones Permanentes y Especiales, que serán electas en la primera sesión ordinaria que celebren los Ayuntamientos. Las Comisiones podrán integrarse de uno o más regidores.
 
@@ -2190,6 +2192,12 @@ Décima Sexta.- En las comisarías que conforman los municipios del Estado habr�
 Décima Séptima.- La ley establecerá un sistema de medios de impugnación y resolución de controversias entre la autoridad y los particulares, en materia de lo contencioso administrativo municipal.
 
 Décima Octava.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes respectivas basadas en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADA [N. DE E. CON SU PÁRRAFO], D.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+Décima Novena.- Los ayuntamientos implementarán la figura de Cabildo Abierto con el objetivo de informar y permitir a la ciudadanía su intervención con derecho a voz pero sin voto en las acciones gubernamentales de interés general para la comunidad y que sean de la competencia municipal.
+
+Los ayuntamientos decidirán, a través de disposiciones reglamentarias, las formas y procedimientos que regulen la figura a la que se refiere el párrafo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
 
@@ -4838,3 +4846,21 @@ Artículo primero. Este decreto entrará en vigor al día siguiente de su public
 Armonización legal
 
 Artículo segundo. El Congreso del Estado de Yucatán, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de este decreto, deberá realizar las adecuaciones a la legislación secundaria que correspondan.
+
+D.O. 18 DE NOVIEMBRE DE 2021
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 430/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ÓRGANOS DE CONTROL INTERNO EN EL ÁMBITO MUNICIPAL”.]
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Los ayuntamientos del Estado de Yucatán que no cuenten con su órgano de control interno municipal deberán conformarlo dentro de un plazo de 180 días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 431/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE CABILDO ABIERTO”.]
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
