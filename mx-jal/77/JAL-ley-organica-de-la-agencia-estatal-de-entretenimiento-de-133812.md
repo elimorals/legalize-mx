@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-agencia-estatal-de-entretenimiento-de-133812
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-02"
-last_updated: "2021-10-30"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Jalisco, el sábado 2 de febrero de 2019.
 
@@ -57,25 +57,59 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Agencia: La Agencia Estatal de Entretenimiento de Jalisco.
 
-II. Consejo consultivo: Es el órgano colegiado de apoyo a la agencia integrado por personas que cuentan con experiencia y reconocimiento en el campo materia de la presente ley, para emitir su opinión profesional no vinculatoria sobre asuntos de su competencia, y que realizan funciones (sic) asesoría al Titular y/o a la Junta de Gobierno, para la toma de decisiones operativas que afecten el cumplimiento del objeto y fines del organismo, así como para el aprovechamiento óptimo de los recursos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-III. Director General: El Director General de la Agencia;
+II. Consejo consultivo: Es el órgano auxiliar y de asesoría del organismo;
 
-IV. Eventos de entretenimiento: Cualquier evento de entretenimiento: teatro; exposiciones visuales, exposiciones gráficas, baile, conciertos, deportes y todo lo relacionado con el enriquecimiento de la cultura, y entretenimiento y espectáculos en el Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-V. Instituto: Al Instituto de Planeación y Gestión del Desarrollo Metropolitano;
+III. Dirección: La Dirección Filma en Jalisco que operará como parte de la estructura administrativa de la Agencia para desempeñar las atribuciones en materia de obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, previstas en la presente Ley, en su Reglamento, en la Ley de Filmaciones, en su Reglamento y en las demás disposiciones que resulten aplicables;
 
-VI. Instalaciones: El espacio abierto o cerrado que designe el Presidente y por aprobación de la Junta de Gobierno para el desarrollo del evento;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-VII. Junta de Gobierno: El órgano máximo de decisión de la Agencia;
+IV. Director General: El Director General de la Agencia;
 
-VIII. Ley: Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-IX. Reglamento: El Reglamento que emita la Junta de Gobierno.
+V. Eventos. de entretenimiento: Cualquier evento de entretenimiento: teatro; exposiciones visuales, exposiciones gráficas, baile, conciertos, turismo, folklore, arte, deporte, recreación, animación, audiovisual, cinematográfico, fotográfico y similares y todos aquellos relacionados con el enriquecimiento de la cultura, esparcimiento, entretenimiento y espectáculos en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VI. Instalaciones: El espacio abierto o cerrado que designe el Presidente y por aprobación de la Junta de Gobierno para el desarrollo de los eventos;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VII. Instituto: El Instituto de Planeación y Gestión del Desarrollo Metropolitano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Junta de Gobierno: El órgano máximo de decisión de la Agencia;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+IX. Ley: Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+X. Ley de Filmaciones: La Ley de Filmaciones del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XI. Reglamento: El Reglamento que emita la Junta de Gobierno; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XII. Ventanilla única: Sitio destinado para la gestión de trámites y servicios, en coordinación con las autoridades competentes, así como para la operación del centro de inclusión digital de consulta y asesoría del solicitante.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 3.
 
-La agencia es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, cuyos objetivos primordiales son la planeación, evaluación, organización y ejecución de las actividades relacionadas con el evento denominado y conocido como Fiestas de Octubre de Guadalajara, así como cualquier otro evento relacionado con el entretenimiento en el Estado, que ofrezca a la población jalisciense y visitantes, un marco festivo al que concurran los elementos representativos del folklore, arte, cultura, deporte y recreación nacionales y de manera principal al Estado de Jalisco, con el fin de impulsar el desarrollo turístico procurando el enriquecimiento de las expresiones culturales propias del Estado y la recreación de la población, garantizando en todo momento, precios accesibles para el público en general, estudiantes, adultos mayores y personas con capacidades diferentes, promoviendo la infraestructura que permitan masificar éstas actividades recreativas y cuidando en todo momento la preservación del orden público y las buenas costumbres, intentando que su difusión y acertada organización le dé al Estado mayor proyección a nivel nacional e internacional.
+La Agencia es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios.
+
+Son objetivos de la Agencia la planeación, evaluación, organización y ejecución de las actividades relacionadas con el evento denominado y conocido como Fiestas de Octubre de Guadalajara, así como cualquier otro evento de entretenimiento.
+
+Son fines de la Agencia impulsar el desarrollo turístico, procurando el enriquecimiento de las expresiones culturales propias del Estado y la recreación de la población, garantizando en todo momento, precios accesibles para el público en general, estudiantes, adultos mayores y personas con capacidades diferentes, promoviendo la infraestructura que permitan (sic) masificar éstas actividades recreativas y cuidando en todo momento la preservación del orden público y las buenas costumbres, intentando que su difusión y acertada organización le dé al Estado mayor proyección a nivel nacional e internacional.
 
 ###### Artículo 4.
 
@@ -84,6 +118,8 @@ La Agencia tendrá su domicilio oficial en la zona metropolitana de Guadalajara,
 ## TÍTULO SEGUNDO. DE LA AGENCIA
 
 ### Capítulo I. Atribuciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 5.
 
@@ -113,9 +149,117 @@ XI. Otorgar, en la medida presupuestaria, apoyos para el desarrollo de actividad
 
 XII. Obtener financiamiento, público o privado, para la ejecución de las actividades que realice en el ámbito de sus atribuciones y en los términos que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XIII. Realizar las licitaciones para la contratación de los servicios propios, necesarios para el cumplimiento de su objeto, en los términos de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XIV. Ejercer las demás atribuciones que le confieran otras disposiciones legales o reglamentarias.
+XIII. Realizar las licitaciones para la contratación de los servicios propios, necesarios para el cumplimiento de su objeto, en los términos de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XIV. Planear e instrumentar las acciones, estrategias y políticas públicas para la planeación, fomento, promoción y desarrollo de las obras cinematográficas, audiovisuales y fotográficas en sus diversas manifestaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XV. Gestionar la publicación del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas que se realicen en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XVI. Incluir anualmente en el anteproyecto de Presupuesto de Egresos del Estado los recursos necesarios para la ejecución y cumplimiento de las acciones, estrategias y programas gubernamentales de planeación, fomento, promoción y desarrollo de las obras cinematográficas, audiovisuales y fotográficas previstas en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XVII. Promover la participación e inversión de los sectores público, social y privado en el desarrollo y promoción de la industria cinematográfica y audiovisual, así como de la producción de obras fotográficas y de entretenimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XVIII. Determinar los instrumentos de apoyo y estímulo económico para el desarrollo en la entidad de las obras cinematográficas, audiovisuales y fotográficas, impulsando preferentemente la industria local;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XIX. Promover el incremento, desarrollo, aprovechamiento e inversión en infraestructura para el sector, equipamiento, salas, talleres, escenarios y mobiliario en el Estado, a efecto de que contribuya al desarrollo social, económico y cultural de la entidad; así como de inversión, desarrollo y crecimiento de infraestructura para el sector en el territorio de la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XX. Participar en la elaboración del Programa de Obra Pública del Estado con propuestas, observaciones y la elaboración de estrategias sobre el desarrollo y la inversión de la infraestructura fílmica y audiovisual que detone, conserve o fortalezca la inversión privada productiva; procurando que estas sean sustentables para fomentar una cultura ambiental, así como la recuperación de aquellos espacios que se encuentren en estado de abandono o en desuso, en coordinación con las instancias públicas y privadas competentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXI. Promover la industria cinematográfica, audiovisual y fotográfica jalisciense y las producciones realizadas en Jalisco con el propósito de posicionar a Jalisco como referente nacional e internacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXII. Celebrar convenios e instrumentos legales con las autoridades de los tres órdenes de gobierno para el cumplimiento de la presente Ley, así como con los sectores social, empresarial y académico para promover y realizar actividades económicas, productivas, de investigación, innovación tecnológica y científicas, vinculadas a la producción de obras cinematográficas, audiovisuales, fotográficas en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXIII. Elaborar las propuestas de medidas de regulación y simplificación administrativa de trámites y servicios que requiere la industria, con apego a los principios previstos en la presente Ley y en las demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXIV. Operar la ventanilla única de trámites y del centro de inclusión digital e informar mensualmente, de conformidadcon (sic) la Ley de Filmaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXV. Informar, orientar y asesorar a los usuarios sobre los trámites necesarios para la obtención de autorizaciones y permisos requeridos para realizar obras cinematográficas, audiovisuales y fotográficas en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXVI. Elaborar y mantener actualizados los registros relacionados con las actividades previstas en la Ley de Filmaciones del Estado y en su Reglamento, el que establecerá las reglas, procedimientos de inscripción y lineamientos para su integración, actualización, funcionamiento y difusión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXVII. Operar y administrar el portal electrónico oficial que promueva y difunda en diferentes idiomas las obras cinematográficas, audiovisuales y fotográficas realizadas en Jalisco, aquellas que se encuentren en proceso, las locaciones y sitios, así como los espacios para los profesionales del ramo o sus empresas que se suscriban, compartan y difundan su información, con apego a las disposiciones previstas en la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados ambas para el Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXVIII. Organizar y, en su caso, participar en eventos nacionales e internacionales, festivales, muestras, mercados cinematográficos y demás foros especializados, a efecto de promover a la industria cinematográfica, audiovisual y fotográfica local, las locaciones jaliscienses y la infraestructura fílmica para atraer proyectos e inversiones orientados a fortalecer el desarrollo económico del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXIX. Promover la participación del Estado y de la industria local del ramo a nivel nacional e internacional como referente para la producción de obras cinematográficas, audiovisuales y fotográficas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXX. Generar una guía de producción ecológica que contenga las mejores prácticas de sustentabilidad en la industria cinematográfica, audiovisual y fotográfica, así como un directorio de proveedores que realicen sus procesos bajo criterios ecológicos y de protección al medio ambiente que se implementen en las producciones. Asimismo, elaborar programas que promuevan la sustentabilidad ofreciendo asesoría a los productores sobre el reciclaje, la donación de materiales y vestuario y reducción de desperdicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXI. Financiar proyectos de creación, investigación, promoción, difusión y desarrollo de obras cinematográficas, audiovisuales y fotográficas
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXII. Impulsar, fomentar y coordinar acciones públicas y privadas orientadas a la creación y desarrollo de obras cinematográficas, audiovisuales y fotográficas en territorio del Estado por jaliscienses o por residentes en Jalisco, la protección de su patrimonio intangible y su comercialización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXIII. Impulsar el desarrollo de producciones cinematográfica, audiovisual y fotográfica en la entidad, en sus diversas manifestaciones, con fines culturales o comerciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXIV. Difundir y promover los sitios de interés, eventos, festivales, tradiciones y manifestaciones culturales o artísticas jaliscienses que puedan ser objeto de producciones audiovisuales y fotográficas en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXV. Promover y apoyar a la industria cinematográfica, audiovisual y fotográfica jalisciense a nivel estatal, nacional e internacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXVI. Promover y apoyar el desarrollo de infraestructura y los servicios de producción que ofrece el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXVII. Otorgar estímulos a organizaciones, empresas, así como al talento, preferentemente jaliscienses o residentes en la, entidad, de acuerdo con la convocatoria que se emita;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXVIII. Promover la protección del patrimonio intangible producido en Jalisco en la realización de las actividades reguladas por la presente Ley y por la Ley de Filmaciones; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXIX. Ejercer las demás atribuciones que le confieran otras disposiciones legales o reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+Para la realización de las atribuciones en materia (sic) obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, la Agencia contará con el apoyo administrativo de la Direción (sic) en los términos previstos en la presente Ley, en su Reglamento, en la Ley de Filmaciones y en las demás disposiciones que resulten aplicables.
 
 ### Capítulo II. Organización de la Agencia
 
@@ -141,31 +285,41 @@ La estructura administrativa y demás personal técnico y operativo de la Agenci
 
 #### Sección I. Junta de Gobierno
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-La Junta de Gobierno se integra por los miembros titulares y sus respectivos suplentes:
+La Junta de Gobierno se integra por:
 
-I. Presidente, que será el titular del Poder Ejecutivo del Estado de Jalisco, o a quien éste designe;
+I. Un Presidente, que será el titular del Poder Ejecutivo del Estado de Jalisco o quien éste designe;
 
-II. Secretario Técnico que será el Director General;
+II. Un Secretario Técnico que será el Director General;
 
 III. Un representante del Instituto de Planeación y Gestión del Desarrollo Metropolitano;
 
-IV. El Secretario de Turismo o a quien éste designe;
+IV. La persona titular de la Secretaría de Turismo o a quien ésta designe;
 
-V. El Secretario de Cultura o a quien éste designe;
+V. La persona titular de la Secretaría de la Hacienda Pública o a quien ésta designe;
 
-VI. El titular de la Red de Bosques Urbanos del Ayuntamiento de Guadalajara o aquella entidad que ejerza las funciones inherentes al tema;
+VI. La persona titular de la Secretaría de Cultura o a quien ésta designe;
 
-VII. Un representante del Conjunto de Artes Escénicas de la Universidad de Guadalajara;
+VII. La persona titular de la Red de Bosques Urbanos del Ayuntamiento de Guadalajara o aquella entidad que ejerza las funciones inherentes al tema;
 
-VIII. Un representante de la Cámara Nacional de Comercio de Guadalajara;
+VIII. Un representante del Conjunto de Artes Escénicas de la Universidad de Guadalajara;
 
-IX. Un representante de la Oficina de Visitantes y Convenciones; y
+IX. Un representante de la Cámara Nacional de Comercio de Guadalajara;
 
-X. El Director General del Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud.
+X. Un representante de la Oficina de Visitantes y Convenciones;
 
-Los integrantes de la Junta de Gobierno no recibirán remuneración alguna por el desempeño de estas actividades.
+XI. La persona titular de la Dirección General del Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud; y
+
+XII. La persona titular de la Contraloría del Estado, quien únicamente tendrá derecho a voz y su asistencia no será computada para efectos del quórum.
+
+Todos los integrantes contarán con voz y voto, excepto quien se enuncia en la fracción XII de este artículo, podrán nombrar a un suplente, permanecerán en la Junta por el tiempo que dure el encargo que desempeñen, su participación será de carácter honorífica y por lo tanto no será remunerada y sus servicios no originarán ninguna relación laboral.
+
+Podrán invitar a una o varias personas a las sesiones con derecho a voz, pero sin voto.
+
+Para la validez de los acuerdos la Junta se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el presidente tendrá voto de calidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
@@ -195,13 +349,17 @@ VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la
 
 IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
 La Junta de Gobierno tendrá las siguientes atribuciones:
 
 I. Organizar anualmente el evento denominado Fiestas de Octubre de Guadalajara;
 
-II. Planear, organizar y ejecutar cualquier evento de entretenimiento en el Estado que cumpla con los objetivos plasmados en este decreto;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+II. Planear, organizar y ejecutar cualquier evento de entretenimiento en el Estado que cumpla con los objetivos plasmados en esta Ley y en la Ley de Filmaciones;
 
 III. Determinar la sede de las "Fiestas de Octubre de Guadalajara'', y el lugar o lugares que servirán para el desarrollo de los eventos de entretenimiento del Estado, pugnando por su conservación y mejoramiento;
 
@@ -213,7 +371,9 @@ VI. Aprobar anualmente los proyectos y programas;
 
 VII. Presentar anualmente los informes financieros de la Agencia;
 
-VIII. Fijar las tarifas de aplicación para la concesión de espacios a expositores y a quienes presenten espectáculos, sean personas físicas o morales, dentro de los núcleos del evento;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Fijar las tarifas de aplicación para la concesión de espacios a expositores y a quienes presenten espectáculos, sean personas físicas o jurídicas, dentro de los núcleos del evento;
 
 IX. Señalar el monto de las cuotas que deberá cubrir el público en general, para tener acceso a las instalaciones principales de los festejos, excepto los espectáculos que correspondan al evento, que será fijado de acuerdo a las condiciones del mercado y del organizador del espectáculo, garantizando siempre precios accesibles para las personas.
 
@@ -227,7 +387,9 @@ XII. Aprobar sus reglamentos internos, para el cumplimiento de sus objetivos y p
 
 XIII. Concertar programas de trabajo y acciones encaminadas al cumplimiento de sus funciones, con los sectores público, social y privado del Estado;
 
-XIV. Difundir, nacional e internacionalmente el evento a través de los medios masivos de comunicación y por cualesquier otro que estime prudente;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XIV. Difundir, nacional e internacionalmente los eventos, a través de los medios masivos de comunicación y por cualesquier otro que estime prudente;
 
 XV. Establecer los lineamientos y directrices a seguir en la presentación de los espectáculos y exposiciones, cuidando que no atenten contra la moral y las buenas costumbres;
 
@@ -249,15 +411,77 @@ XXIII. Otorgar y revocar poderes, cuando sea necesario para el funcionamiento de
 
 XXIV. Aprobar la integración del Consejo Consultivo y los órganos técnicos que establezca su reglamento;
 
-XXV. Aprobar su Reglamento; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XXVI. Las demás previstas en la presente ley y demás ordenamientos aplicables.
+XXV. Elaborar y presentar propuestas de medidas de regulación y simplificación administrativa de trámites y servicios que requiere la industria del entretenimiento, con apego a los principios previstos en la presente Ley y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXVI. Aprobar el Programa Estatal de Fomento, Promoción y Desarrollo de las Obras cinematográficas, audiovisuales y fotográficas que se realicen en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXVII. Aprobar las bases de convocatorias para proporcionar apoyos
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXVIII. Dar seguimiento y evaluar el cumplimiento de los trabajos realizados por los beneficiarios de los apoyos, a través del grupo técnico de evaluadores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXIX. Colaborar con las autoridades competentes en la realización de talleres, cursos, capacitación, clases magistrales, seminarios, simposios y eventos académicos para los profesionistas de la industria, productores, estudiantes y público en general, con la participación de personajes destacados en la industria cinematográfica y audiovisual, nacional e internacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXX. Fomentar programas permanentes de capacitación y profesionalización para el personal que intervenga en la prestación de servicios para la industria cinematográfica y audiovisual de la Entidad, favoreciendo el acceso a la comunidad jalisciense, en especial, de las personas pertenecientes a grupos vulnerables, discapacitados y pueblos originarios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXI. Realizar las acciones necesarias para promover, preservar, divulgar y fomentar las actividades cinematográficas, audiovisuales y fotográficas en la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXII. Fomentar y apoyar la vinculación entre los productores nacionales y extranjeros con las instituciones públicas, sector privado y profesionales locales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXIII. Fungir como órgano de información, opinión y seguimiento de propuestas en materia cinematográfica, audiovisual y fotográfica; emitir opiniones, hacer consultas, discutir y tomar acuerdos, a efecto de presentar opiniones, informes, denuncias, recomendaciones y propuestas relativas a asuntos de interés público o social, en la materia cinematográfica, audiovisual y fotográfica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXIV. Coadyuvar con la Secretaría de Medio Ambiente y Desarrollo Territorial en la creación de protocolos para el cuidado y mejoramiento del medio ambiente durante la realización de producciones cinematográficas, audiovisuales y fotográficas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXV. Coadyuvar con la Secretaría de Seguridad en el desarrollo y aplicación de las políticas de seguridad pública en el Estado para agilizar y garantizar la seguridad en las filmaciones y grabaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXVI. Fomentar y estimular la producción, educación, experimentación e investigación cinematográfica, audiovisual y fotográfica, para creadores e investigadores jaliscienses, mediante programas específicos, apoyos y estímulos basados en los principios señalados en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXVII. Proponer el uso de medios alternativos ecológicos para la generación de energía eléctrica durante las actividades cinematográficas, audiovisuales y fotográficas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXVIII. Conformar grupos de trabajo para la realización y seguimiento de tareas específicas en la materia de su competencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXXIX. Aprobar su Reglamento; y
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XL. Las demás previstas en la presente ley, en la Ley de Filmaciones y demás ordenamientos aplicables.
 
 #### Sección II. Del Director General
 
 ###### Artículo 11.
 
 El Director General será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
@@ -279,7 +503,9 @@ VII. Recibir las solicitudes de participación de expositores y someterlas a la 
 
 VIII. En general, dictar las medidas administrativas necesarias para cumplimentar los acuerdos de la Junta de Gobierno;
 
-IX. Delegar de manera y (sic) total o parcial en una o más personas para que actúen de manera conjunta o separada, siempre y cuando lo autorice la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+IX. Delegar sus atribuciones, de manera total o parcial, en una o más personas para que actúen de manera conjunta o separada, siempre y cuando lo autorice la Junta de Gobierno;
 
 X. Dar contestación oficial a los requerimientos solicitados por dependencias gubernamentales, así como a los escritos presentados por particulares;
 
@@ -293,9 +519,25 @@ XIV. Implantar las políticas de información y difusión del evento;
 
 XV. Someter a la aprobación de la Junta de Gobierno los actos jurídicos que impliquen la traslación de dominio o de uso de los bienes que forman el patrimonio de la agencia;
 
-XVI. Rendir informe anual de actividades al Presidente de la Junta de Gobierno, conjuntamente con los estados financieros del organismo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XVII. Las demás previstas en la presente ley y demás ordenamientos aplicables.
+XVI. Elaborar el proyecto del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas que se realicen en el Estado y remitirlo a la Junta de Gobierno para su aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XVII. Gestionar la creación de un portal electrónico oficial que promueva y difunda en diferentes idiomas las obras cinematográficas, audiovisuales y fotográficas realizadas en Jalisco, aquellas que se encuentren en proceso, las locaciones y sitios, así como los espacios para los profesionales del ramo o sus empresas que se suscriban compartan y difundan su información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XVIII. Gestionar la creación de la ventanilla única de tráites (sic) y el centro de inclusión digital;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XIX. Rendir informe anual de actividades al Presidente de la Junta de Gobierno, conjuntamente con los estados financieros del organismo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XX. Las demás previstas en la presente ley y demás ordenamientos aplicables.
 
 #### Sección III. Del Órgano de vigilancia
 
@@ -311,15 +553,21 @@ La Agencia contará con un Consejo Consultivo, que será el órgano auxiliar y d
 
 Los cargos como miembro integrante del Consejo Consultivo no recibirán remuneración alguna por el desempeño de sus actividades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+Cuando se traten asuntos relativos a la promoción y difusión en materia cinematográfica, audiovisual y fotográfica, la Agencia contará con el apoyo del Consejo Consultivo previsto en la Ley de Filmaciones.
+
 ### Capítulo III. Del Patrimonio
 
 ###### Artículo 15.
 
 El patrimonio de la Agencia se integra en términos de lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 16.
 
-Los ingresos que con motivo de sus actividades obtenga la Agencia, deberán destinarse para satisfacer cabalmente las necesidades operativas que le permitan subsistir y garantizar la adecuada planeación y organización del evento de manera permanente y buscando en todo momento su óptimo funcionamiento, procurando además el desarrollo económico y urbano de la zona, dotando de infraestructura urbana el entorno donde se llevará a cabo el evento.
+Los ingresos que con motivo de sus actividades obtenga la Agencia, deberán destinarse para satisfacer cabalmente las necesidades operativas que le permitan subsistir y garantizar la adecuada planeación y organización de los eventos de manera permanente y buscando en todo momento su óptimo funcionamiento, procurando además el desarrollo económico y urbano de la zona, dotando de infraestructura urbana el entorno donde se llevará a cabo el evento.
 
 ### Capítulo IV. Del régimen laboral
 
@@ -400,3 +648,21 @@ P.O. 30 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28478/LXII/21 QUE ADICIONA UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 9 DE LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28502/LXII/21 QUE REFORMA LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO, LA LEY DE FILMACIONES Y LA LEY ORGÁNICA DEL PODER EJECUTIVO, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abrogan las disposiciones legales y administrativas que contravengan o se opongan al presente decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado, a través de las Secretarías de la Hacienda Pública y de Administración, deberá realizar las modificaciones administrativas y presupuestales necesarias para el cumplimiento del presente decreto.
+
+CUARTO. La Junta de Gobierno de la Agencia Estatal de Entretenimiento deberá adecuar su Reglamento dentro de los 30 días naturales a la entrada en vigor del presente decreto, contemplando en su estructura interna a la Comisión Filma en Jalisco.
+
+QUINTO. La Agencia Estatal de Entretenimiento de Jalisco deberá expedir y gestionar la publicación del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia del presente decreto.
+
+SEXTO. El Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
+
+SÉPTIMO. Las atribuciones encomendadas a la Dirección Filma en Jalisco en el presente decreto serán ejercidas por la estructura administrativa de la Agencia, conforme a su reglamento interno.
