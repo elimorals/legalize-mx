@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2019-12-27"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -447,9 +447,17 @@ III. Impulsar la organización y participación de las autoridades y sociedad en
 
 IV. Proponer programas de capacitación para el personal de las autoridades migratorias y de las autoridades auxiliares en materia de migración, con el objeto de profesionalizar su actuación en favor de los migrantes del Estado;
 
-V. Elaborar y proponer a las autoridades migratorias del ámbito federal, estrategias y acciones para mejorar las condiciones de los migrantes potosinos en el exterior, y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-VI. Definir y desarrollar temas prioritarios de cooperación con organismos multilaterales en materia migratoria.
+V. Elaborar y proponer a las autoridades migratorias del ámbito federal, estrategias y acciones para mejorar las condiciones de los migrantes potosinos en el exterior;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VI. Definir y desarrollar temas prioritarios de cooperación con organismos multilaterales en materia migratoria, y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VII. Suscribir convenios de cooperación y coordinación con la Fiscalía General del Estado, en el ámbito de sus atribuciones, para lograr una eficaz investigación y persecución de los delitos de los que son víctimas u ofendidos los migrantes en el Estado.
 
 ###### ARTÍCULO 32.
 
@@ -584,5 +592,13 @@ P.O. 27 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0457.- SE DEROGA DEL ARTÍCULO 20 LA FRACCIÓN IV DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0014.- SE REFORMA EL ARTÍCULO 31 EN SUS FRACCIONES V Y VI; Y ADICIONA AL MISMO ARTÍCULO 31 LA FRACCIÓN VII DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
