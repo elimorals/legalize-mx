@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2021-09-09"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -719,6 +719,8 @@ XXXVI. Las demás que establezcan otras disposiciones legales o reglamentarias a
 
 ###### Artículo 20.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 1. Las facultades de la Secretaría de Cultura son las siguientes:
 
 I. Ejercer las atribuciones que la legislación federal en materia de cultura establece para los Estados, así como las atribuciones descentralizadas por la Federación hacia los Estados, mediante la celebración de convenios;
@@ -751,15 +753,17 @@ XIII. Coordinar la red de museos y coadyuvar con el Museo Trompo Mágico;
 
 XIV. Coadyuvar en las actividades de ciencia e innovación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XV. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
 XVI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 21.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 1. Las facultades de la Secretaría de Desarrollo Económico son las siguientes:
 
@@ -811,9 +815,9 @@ XXII. Elaborar, en coordinación con la Secretaría de Agricultura y Desarrollo 
 
 XXIII. Diseñar y ejecutar, en coordinación con la Secretaría del Trabajo y Previsión social, una política pública encauzada a la generación de empleos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XXIV. Formular, dirigir, reglamentar, coordinar, gestionar y administrar la ejecución de las atribuciones, políticas y programas del desarrollo de obras cinematográficas, audiovisuales y fotográficas en sus diversas manifestaciones, así como los avisos, permisos, solicitudes, ampliaciones, prórrogas, en los términos de la Ley de Filmaciones del Estado de Jalisco y demás ordenamientos aplicables; y
+XXIV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -843,7 +847,9 @@ IX. Las demás que establezcan otras disposiciones legales o reglamentarias apli
 
 ###### Artículo 23.
 
-Las facultades de la Secretaría de Educación son las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+1. Las facultades de la Secretaría de Educación son las siguientes:
 
 I. Ejercer las atribuciones que la legislación federal le otorga en materia de educación y cultura física y deporte, con excepción de la educación superior, salvo lo concerniente a la formación y superación docente, así como las atribuciones descentralizadas por la Federación hacia los Estados, mediante la celebración de convenios;
 
@@ -881,9 +887,9 @@ XV. Coadyuvar con las Secretarías que tengan injerencia en programas sociales, 
 
 XVI. La Administración y control de las escuelas normales, las de formación, actualización, capacitación y superación profesional docente conforme a las disposiciones de las leyes generales y federales en materia educativa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XVII. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XVII. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -1289,6 +1295,8 @@ XXVIII. Las demás que establezcan otras disposiciones legales o reglamentarias 
 
 ###### Artículo 28.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 1. Las facultades de la Secretaría del Medio Ambiente y Desarrollo Territorial son las siguientes:
 
 I. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de proteger, conservar, preservar y restaurar el equilibrio ecológico y mantener la estabilidad ambiental de los ecosistemas, los servicios ambientales, y el capital natural del Estado, mitigar el cambio climático, así como contribuir al desarrollo urbano y territorial en condiciones de sustentabilidad, en acuerdo con el gobierno federal, las dependencias de la Administración Pública Estatal y los gobiernos municipales, de conformidad con la distribución de competencias existente;
@@ -1375,9 +1383,9 @@ XL. Diseñar y ejecutar programas para la prevención y control de la contaminac
 
 XLI. Intervenir cuando se lo solicite la Secretaría de la Gestión Integral del Agua, en los consejos de cuenca hidrológica o grupo de cuencas hidrológicas que se encuentren constituidos por la Comisión Nacional del Agua, dentro del territorio del estado o en conjunto con otros estados;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XLII. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XLII. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -1543,6 +1551,8 @@ XXXVI. Las demás que establezcan otras disposiciones legales y reglamentarias a
 
 ###### Artículo 31.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 1. Las facultades de la Secretaría de Seguridad son las siguientes:
 
 I. Desarrollar y aplicar las políticas de seguridad pública en el Estado;
@@ -1595,9 +1605,9 @@ XXIII. Controlar, vigilar y administrar los centros de reclusión del Estado;
 
 XXIV. Diseñar, conducir, coordinar y evaluar las funciones de apoyo y asistencia a reos liberados, preliberados o que deban ejecutar algún sustitutivo penal en el seno social, procurando su eficaz y pronta reinserción social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XXV. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XXV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -1759,7 +1769,7 @@ XIV. (SIC) Las demás que establezcan otras disposiciones legales y reglamentari
 
 ###### Artículo 35.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 1. Las atribuciones de la Secretaría de Transporte son las siguientes:
 
@@ -1809,9 +1819,9 @@ XX. En materia de violencia contra las mujeres, además de lo establecido en est
 
 XXI. Expedir los permisos temporales para circular en las condiciones que marca la normatividad vigente en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XXII. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XXII. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -3160,3 +3170,21 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea (sic) agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28502/LXII/21 QUE REFORMA LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO, LA LEY DE FILMACIONES Y LA LEY ORGÁNICA DEL PODER EJECUTIVO, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abrogan las disposiciones legales y administrativas que contravengan o se opongan al presente decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado, a través de las Secretarías de la Hacienda Pública y de Administración, deberá realizar las modificaciones administrativas y presupuestales necesarias para el cumplimiento del presente decreto.
+
+CUARTO. La Junta de Gobierno de la Agencia Estatal de Entretenimiento deberá adecuar su Reglamento dentro de los 30 días naturales a la entrada en vigor del presente decreto, contemplando en su estructura interna a la Comisión Filma en Jalisco.
+
+QUINTO. La Agencia Estatal de Entretenimiento de Jalisco deberá expedir y gestionar la publicación del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia del presente decreto.
+
+SEXTO. El Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
+
+SÉPTIMO. Las atribuciones encomendadas a la Dirección Filma en Jalisco en el presente decreto serán ejercidas por la estructura administrativa de la Agencia, conforme a su reglamento interno.
