@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2020-09-17"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -455,23 +455,37 @@ f) Las resoluciones del organismo público electoral administrativo podrán ser 
 
 g) Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI. Participar en el proceso de asignación y ejecución del presupuesto en su municipio; y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2020)</small>
+VI. Participar en los procedimientos de revocación de mandato de la Gobernadora o Gobernador del Estado, acorde a lo siguiente:
 
-VI. PARTICIPAR EN EL PROCESO DE ASIGNACIÓN Y EJECUCIÓN DEL PRESUPUESTO PARTICIPATIVO EN SU MUNICIPIO. ADEMÁS SE CONTARÁ CON CONTRALORÍAS CIUDADANAS INTEGRADAS POR PERSONAS VECINAS DEL MUNICIPIO O DEL ESTADO;
+a) Únicamente podrá realizarse una sola ocasión durante cada periodo constitucional señalado en esta Constitución;
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII. Los demás que establezca esta Constitución y la ley.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+b) Durante los dos meses anteriores a la conclusión del tercer año de ejercicio constitucional marcado en esta Constitución, la ciudadanía con derecho para votar en un proceso electoral local que esté interesada en promoverlo podrá comenzar a reunir una cantidad mínima equivalente al diez por ciento de las personas incluidas en la lista nominal de electores de cuando menos la mitad más uno de los municipios, a efecto de presentar al organismo público local electoral durante los tres meses subsiguientes sus respectivas intenciones para la celebración de dicho procedimiento, debiendo éste calificar de forma integral el cumplimiento de tal requisito una vez vencido el periodo concedido, y en caso de estarlo expedirá de inmediato la convocatoria respectiva;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE JUNIO DE 2020)</small>
+c) No podrá destinarse recurso público alguno al uso o gasto de actividades de ciudadanos descritas en el inciso anterior;
 
-VII. LAS AUTORIDADES DEL ESTADO ESTABLECERÁN PROCEDIMIENTOS Y FORMAS DE GOBIERNO ABIERTO QUE GARANTICEN LA PARTICIPACIÓN SOCIAL EFECTIVA, AMPLIA, DIRECTA, EQUITATIVA, DEMOCRÁTICA, PARITARIA Y ACCESIBLE EN EL PROCESO DE PLANEACIÓN, ELABORACIÓN, APROBACIÓN, GESTIÓN, EVALUACIÓN Y CONTROL DE PLANES, PROGRAMAS, POLÍTICAS Y PRESUPUESTOS PÚBLICOS EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY; Y
+d) Expedida la convocatoria el procedimiento será difundido, organizado y desarrollado de forma exclusiva por el organismo público local electoral mediante votación universal, libre, secreta, directa, personal e intransferible de las y los ciudadanos, siendo vinculante su resultado si en el proceso sufraga cuando menos el cuarenta por ciento de las personas incluidas en la lista nominal de electores y la votación aprobatoria es de mayoría absoluta, para lo cual el organismo citado realizará el cómputo emitiendo el resultado respectivo y comunicando lo correspondiente al Tribunal Electoral del Estado para los efectos de la posible emisión de la declaratoria de procedencia de revocación de mandato en términos del inciso i);
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+e) Al expedir la respectiva convocatoria el organismo público local electoral, notificará en la misma fecha a los titulares de los poderes públicos y organismos autónomos del Estado para efectos de sus respectivas competencias. En el caso del Poder Ejecutivo y Legislativo deberán en un plazo no mayor a cinco días posteriores a recibir la comunicación proceder a realizar las modificaciones al correspondiente Decreto de Presupuesto de Egresos sin afectar la Ley de Ingresos vigente, a efecto de asignar y ejercer los recursos necesarios para el proceso electoral en términos de la presente Constitución, escuchando al organismo público local electoral así como al Tribunal Electoral del Estado;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 22 DE JUNIO DE 2020)</small>
+f) La correspondiente jornada electoral se verificará el domingo inmediato siguiente a los noventa días posteriores a la expedición de la convocatoria, el cual no podrá coincidir con diverso proceso electoral o de participación ciudadana local o federal;
 
-VIII. LOS DEMÁS QUE ESTABLEZCAN ESTA CONSTITUCIÓN Y LA LEY.
+g) Desde la expedición de la respectiva Convocatoria y hasta la conclusión de la respectiva jornada electoral la promoción del procedimiento estará a cargo del organismo público local electoral siendo ésta únicamente con fines informativos y en forma objetiva e imparcial, quedando suspendida la difusión de propaganda institucional de todo ente estatal o municipal, con excepción de servicios educativos, salud y protección civil de ser ello necesario, lo que previamente validará el organismo público local electoral;
+
+h) El procedimiento a seguir correspondiente será reglamentado en términos administrativos por el organismo público local electoral, observando el contenido de esta Constitución así como la correspondiente legislación electoral y la específica, siguiendo los criterios expedidos por el Instituto Nacional Electoral para el caso del Presidente de la República;
+
+i) El Tribunal Electoral del Estado conocerá y resolverá los medios de impugnación correspondientes en términos de esta Constitución y la legislación electoral en caso de haberlos, a cuyo término realizará el cómputo final definitivo del procedimiento y de subsistir el resultado de mayoría absoluta emitirá la declaratoria de procedencia de revocación de mandato la cual ordenará publicar el mismo día en la Gaceta Oficial del Estado una vez que cause estado, notificando en la misma fecha a los titulares de los poderes públicos y organismos autónomos del Estado para efectos de sus respectivas competencias, cesando a partir de ese momento sus funciones la persona titular del Poder Ejecutivo, lo que el Congreso del Estado considerará como ausencia definitiva en términos de los artículos 33 fracción XXIII y 47 párrafos tercero, cuarto, quinto y sexto; y
+
+j) El procedimiento se regulará en la ley de la materia.
+
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VII. Participar en el proceso de asignación y ejecución del presupuesto en su municipio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Los demás que establezca (sic) esta Constitución y la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
@@ -479,9 +493,9 @@ VIII. LOS DEMÁS QUE ESTABLEZCAN ESTA CONSTITUCIÓN Y LA LEY.
 
 Son obligaciones de la ciudadanía del Estado:
 
-> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-I. Votar en las elecciones estatales y municipales, plebiscitos, referendos y consultas populares, en los términos que señalen esta Constitución y la ley;
+I. Votar en las elecciones estatales y municipales, plebiscitos, referendos, consultas populares y los procedimientos de revocación de mandato, en los términos que señalen esta Constitución y la ley;
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -519,9 +533,9 @@ El Poder Público del Estado es popular, representativo y democrático, y para s
 
 No podrán reunirse dos o más de estos Poderes en una sola persona, asamblea o corporación, ni depositarse el Legislativo en un solo individuo, salvo lo previsto en las fracciones XXXIII del artículo 33 y III del artículo 65 de esta Constitución.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-La ley regulará los procedimientos participativos de referendo, plebiscito y consulta popular. En el ámbito estatal, los procedimientos de plebiscito y referendo tendrán como base el proceso legislativo y en el ámbito municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo.
+La ley regulará los procedimientos participativos de referendo, plebiscito, consulta popular y revocación de mandato. En el ámbito estatal, los procedimientos de plebiscito y referendo tendrán como base el proceso legislativo, en tanto la consulta popular y la revocación de mandato el voto universal, libre, directo, secreto, personal e intransferible; y, en el ámbito municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo.
 
 > <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
 
@@ -537,19 +551,15 @@ b) Para los demás casos que establezcan esta Constitución y la ley.
 
 El plebiscito será obligatorio en los casos que señalen esta Constitución y la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-Las diputadas, los diputados y los ediles se elegirán por sufragio universal, libre, secreto y directo, de acuerdo con los principios de mayoría relativa y de representación proporcional, con las modalidades que establezca la ley.
+Las diputadas, los diputados y los ediles se elegirán por sufragio universal, libre, secreto, directo, personal e intransferible, de acuerdo con los principios de mayoría relativa y de representación proporcional, con las modalidades que establezca la ley.
 
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+La Gobernadora o el Gobernador del Estado se elegirá por el principio de mayoría relativa. El procedimiento de revocación de mandato se realizará bajo el de mayoría absoluta. En ambos casos a través de sufragio universal, libre, secreto, directo, personal e intransferible.
 
-La Gobernadora o el Gobernador del Estado se elegirá por el principio de mayoría relativa, mediante sufragio universal, libre, secreto y directo.
-
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
-
-En los casos a que se refieren los párrafos anteriores, la jornada electoral deberá coincidir con la que tenga por objeto elegir a los poderes federales y tendrá lugar el primer domingo de junio del año que corresponda.
+En los casos a que se refieren los párrafos anteriores, la jornada electoral deberá coincidir con la que tenga por objeto elegir a los poderes federales y tendrá lugar el primer domingo de junio del año que corresponda, con excepción de la revocación de mandato que se realizará conforme lo establecido en esta Constitución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
@@ -1269,13 +1279,17 @@ VII. Saber leer y escribir y no tener antecedentes penales por la comisión de d
 
 La prohibición para los servidores públicos mencionados en las fracciones IV y V, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 44.
 
-El Gobernador del Estado durará en su cargo seis años y comenzará a ejercer sus funciones el primero de diciembre siguiente a la fecha de su elección.
+El Gobernador del Estado durará en su cargo seis años, con excepción del caso en que sea declarada procedente la revocación de mandato en los términos de esta Constitución. Comenzará a ejercer sus funciones el primero de diciembre siguiente a la fecha de su elección.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 El Gobernador del Estado cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del despacho.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 El cargo de Gobernador del Estado sólo es renunciable por causa grave, que calificará el Congreso del Estado.
 
@@ -1291,21 +1305,21 @@ El Gobernador, en el acto de toma de posesión de su cargo, rendirá formal prot
 
 Si al iniciar en (sic) período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha o declarada válida, cesará en sus funciones el Gobernador cuyo período haya concluido, encargándose desde luego del Poder Ejecutivo, en calidad de Gobernador interino, a quien designe el Congreso, y este convocará de inmediato a elecciones extraordinarias, las cuales deberán realizarse en un plazo no mayor de doce meses a partir del inicio del período constitucional.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 47.
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en funciones, se constituirá en Colegio Electoral inmediatamente, y concurriendo, cuando menos, las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador; el mismo Congreso expedirá la convocatoria a elecciones, procurando que la fecha señalada coincida, si es posible, con la de las próximas elecciones a Diputados.
+En caso de falta absoluta de la Gobernadora o Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en funciones, se constituirá en Colegio Electoral inmediatamente, y concurriendo, cuando menos, las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, una Gobernadora o Gobernador; el mismo Congreso expedirá la convocatoria a elecciones, procurando que la fecha señalada coincida, si es posible, con la de las próximas elecciones a Diputados.
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará, desde luego, un Gobernador Provisional, y convocará a sesiones extraordinarias, para que la Legislatura expida la convocatoria a elecciones de Gobernador, en los mismos términos del párrafo anterior.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará, desde luego, una Gobernadora o Gobernador Provisional, y convocará inmediatamente a sesiones extraordinarias, para que la Legislatura expida la convocatoria a elecciones de Gobernador, en los mismos términos del párrafo anterior.
 
-Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, elegirá al Gobernador sustituto que deberá concluir el período; si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará al Congreso a sesiones extraordinarias, para que, erigido en Colegio Electoral, haga la elección de Gobernador sustituto.
+Cuando la falta de Gobernadora o Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, elegirá inmediatamente a la Gobernadora sustituta o Gobernador sustituto que deberá concluir el período; si el Congreso no estuviere reunido, la Diputación Permanente nombrará una Gobernadora o Gobernador provisional con la misma prontitud y convocará en términos similares al Congreso a sesiones extraordinarias, para que, erigido en Colegio Electoral, haga la elección de Gobernadora sustituta o Gobernador sustituto.
 
-El Gobernador provisional podrá ser elegido por el Congreso como sustituto.
+La Gobernadora o Gobernador provisional podrá ser elegible por el Congreso como sustituta o sustituto, respectivamente.
 
-El ciudadano que hubiere sido designado Gobernador provisional para convocar a elecciones, en el caso de falta de Gobernador, en los dos primeros años del período respectivo, no podrá ser electo en las elecciones que se celebren con motivo de la falta de Gobernador, para cubrir a la cual fue designado.
+La persona que hubiere sido designada Gobernadora o Gobernador provisional para convocar a elecciones, en el caso de falta de (sic) absoluta a que se refiere este artículo, en los dos primeros años del período respectivo, no podrá ser elegible en las elecciones que se celebren con motivo de la falta de Gobernadora o Gobernador, para cubrir a la cual fue designado.
 
-El Gobernador sustituto, el interino, el provisional o el ciudadano, que bajo cualquier denominación hubiere sido designado Gobernador, para concluir el período en caso de falta absoluta del Constitucional o que supla las faltas temporales de éste, no podrá ser electo para el período inmediato siempre que desempeñe el cargo los dos últimos años del período.
+La Gobernadora sustituta o Gobernador sustituto, la interina o interino, la o el provisional o la persona, que bajo cualquier denominación hubiere sido designada Gobernadora o Gobernador, para concluir el período en caso de falta absoluta del Constitucional o que supla las faltas temporales de éste, no podrá ser elegible para el período inmediato siempre que desempeñe el cargo los dos últimos años del período.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1719,11 +1733,9 @@ La omisión legislativa surtirá sus efectos a partir de su publicación en la G
 
 La función electoral en el Estado se regirá por las disposiciones siguientes:
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL APARTADO A DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “APARTADO A. La organización, desarrollo y vigilancia de las elecciones, plebiscitos y referendos la realizará un organismo público cuya denominación establecerá la ley y que ejercerá la autoridad electoral en el Estado conforme a las siguientes bases:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE JUNIO DE 2020)</small>
-
-APARTADO A. EL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ ES UN ÓRGANO PÚBLICO AUTÓNOMO DOTADO DE PERSONALIDAD JURÍDICA Y PATRIMONIO PROPIO, EN CUYA INTEGRACIÓN PARTICIPAN LOS PARTIDOS POLÍTICOS Y LA CIUDADANÍA, EN LOS TÉRMINOS QUE ORDENE LA LEY Y SERÁ AUTORIDAD EN LA MATERIA, INDEPENDIENTE EN SUS DECISIONES Y FUNCIONAMIENTO, Y PROFESIONAL EN SU DESEMPEÑO; CONTARÁ EN SU ESTRUCTURA CON LOS ÓRGANOS DE DIRECCIÓN, EJECUTIVOS Y TÉCNICOS; TENDRÁ A SU CARGO LA ORGANIZACIÓN, DESARROLLO Y VIGILANCIA DE LAS ELECCIONES DE GUBERNATURA, DIPUTACIONES Y EDILICIAS, ASÍ COMO DE LA VERIFICACIÓN DE REQUISITOS PARA ACCIONAR LOS MECANISMOS DE DEMOCRACIA DIRECTA Y PARTICIPACIÓN CIUDADANA CONTENIDOS EN ESTA CONSTITUCIÓN, CONFORME A LAS BASES SIGUIENTES:
+APARTADO A. La organización, desarrollo y vigilancia de las elecciones, plebiscitos, referendos y procedimientos de revocación de mandato la realizará un organismo público cuya denominación establecerá la ley y que ejercerá la autoridad electoral en el Estado conforme a las siguientes bases:
 
 a) Funcionará de manera autónoma y se regirá por los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, máxima publicidad, equidad y definitividad.
 
@@ -1795,11 +1807,9 @@ En caso de presentarse alguna vacante temporal de hasta tres meses, de alguno de
 
 El Tribunal contará con el personal jurídico y administrativo necesario para su funcionamiento.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SÉPTIMO PÁRRAFO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El sistema de medios de impugnación dará certeza y definitividad a las distintas etapas de los procesos electorales estatales y municipales, incluidos los de agentes y subagentes municipales, así como de los procesos de plebiscito, referendo y consulta popular.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
-
-EL SISTEMA DE MEDIOS DE IMPUGNACIÓN DARÁ CERTEZA Y DEFINITIVIDAD A LAS DISTINTAS ETAPAS DE LOS PROCESOS ELECTORALES ESTATALES Y MUNICIPALES, INCLUIDOS LOS DE AGENCIAS Y SUBAGENCIAS MUNICIPALES, ASÍ COMO DE LOS PROCESOS DE PLEBISCITO, REFERENDO Y CONSULTA POPULAR. LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES SERÁN INSTRUIDOS Y RESUELTOS POR EL TRIBUNAL. LA INTERPOSICIÓN DE ÉSTOS SERÁ ANTE LA AUTORIDAD ADMINISTRATIVA Y LA RESOLUCIÓN DE MEDIDAS CAUTELARES SERÁ DE SU COMPETENCIA EXCLUSIVA. LAS CAUSALES DE DESECHAMIENTO O DE SOBRESEIMIENTO DE LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES SERÁN ESTABLECIDAS EN LA LEY RESPECTIVA. LA PRESENTACIÓN Y SUSTANCIACIÓN DE LOS MEDIOS DE IMPUGNACIÓN PODRÁ SER POR MEDIOS ELECTRÓNICOS.
+El sistema de medios de impugnación dará certeza y definitividad a las distintas etapas de los procesos electorales estatales y municipales, incluidos los de agentes y subagentes municipales, así como de los procedimientos de plebiscito, referendo, consulta popular y revocación de mandato.
 
 La ley fijará las causas de nulidad de las elecciones de gobernador, diputados y ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
 
@@ -1823,9 +1833,9 @@ DICHAS VIOLACIONES DEBERÁN ACREDITARSE DE MANERA OBJETIVA Y MATERIAL. SE PRESUM
 
 Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de gobernador.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-El Tribunal Electoral sólo podrá declarar la nulidad de un proceso electoral, referendario, plebiscitario y de consulta popular por las causales que expresamente se establezcan en la ley. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+El Tribunal Electoral sólo podrá declarar la nulidad de un proceso electoral, referendario, plebiscitario, de consulta popular y de revocación de mandato por las causales que expresamente se establezcan en la ley. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
 > <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
 
@@ -4044,3 +4054,11 @@ Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Quinto. El Congreso del Estado a iniciativa del Poder Ejecutivo, deberá armonizar todas las disposiciones legales de carácter financiero así como desarrollar aquellas que con motivo del mismo resulten necesarias.
 
 Sexto. El Congreso del Estado, el Titular del Poder Ejecutivo, la Secretaría de Finanzas y Planeación del Gobierno del Estado así como todas las unidades presupuestales de la entidad, deberán tomar en consideración las disposiciones del presente Decreto al elaborar, formular, presentar o aprobar sus respectivos proyectos y anteproyectos de Presupuestos correspondientes al ejercicio fiscal 2021, en las fechas o plazos establecidos en los artículos 158, 159 párrafo segundo, 163 y 164 del Código Financiero para el Estado.
+
+G.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 867 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE INCORPORACIÓN DE REVOCACIÓN DE MANDATO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir la normatividad procedimental en materia de revocación de mandato a que se refieren los artículos 15 fracción VI inciso j) y 17 párrafo tercero; así mismo emitirá las adecuaciones a la legislación que resulten necesarias a efecto de armonizar el contenido del presente Decreto al orden jurídico veracruzano.
