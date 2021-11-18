@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2021-10-07"
+last_updated: "2021-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -2049,13 +2049,17 @@ III.- La Escuela Judicial;
 
 IV.- La Contraloría del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-V.- Archivo Judicial.
+V.- Archivo Judicial;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-VI.- Jueces Internos.
+VI.- Jueces Internos, y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VII.- La Unidad de Derechos Humanos.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2254,6 +2258,56 @@ XI.- Proponer al Consejo de la Judicatura, a través de su Presidencia, la norma
 XII.- Instalar y mantener en adecuado funcionamiento las redes de cómputo en las diferentes áreas del Poder Judicial; y
 
 XIII.- Diseñar, elaborar y mantener actualizada una página de Internet y los sistemas que se requieran para el caso, que permitan consultar las actividades sobre impartición de justicia del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 104
+
+Ter.- La Unidad de Derechos Humanos será dependiente del Consejo de la Judicatura del Estado, teniendo bajo su encargo las siguientes funciones:
+
+I.- Elaborar la planeación y programas para fungir como enlace entre el Poder Judicial del Estado y las Instituciones gubernamentales y de la sociedad civil involucradas en materia de género y derechos humanos. Asimismo, deberá informar trimestralmente al Presidente del Tribunal Superior y del Consejo de la Judicatura, el estado que guardan los asuntos de su competencia;
+
+II.- Definir la política en materia de género y derechos humanos a seguir por esta institución, proponiendo las medidas de nivelación, medidas de inclusión, medidas a favor de la igualdad y acciones afirmativas necesarias para garantizar a toda persona la igualdad de oportunidades y el derecho a la no discriminación;
+
+III.- Coadyuvar con la Escuela Judicial en la elaboración y difusión en los cursos, talleres y conferencias en materia de género y derechos humanos;
+
+IV.- Llevar a cabo todas las acciones necesarias en las materias de género y derechos humanos, encaminadas a cumplir con los instrumentos jurídicos nacionales e internacionales que sean aplicables, así como los compromisos asumidos por este órgano jurisdiccional con las instituciones públicas y privadas a través de convenios institucionales;
+
+V.- Elaborar los reportes, informes y/o cuestionarios en materia de Derechos Humanos y con la igualdad de género;
+
+VI.- Difundir los derechos humanos a través de materiales para la sensibilización y/o capacitación de nuestro personal en materia de género y derechos humanos;
+
+VII.- Fungir como supervisora de la actualización del Banco de Datos sobre Casos de Violencia del Instituto Nacional de las Mujeres (BANAVIM) y el Banco Estatal de datos sobre Violencia de las Mujeres (BAESVIM);
+
+VIII.- Atender las consultas del personal en materia de género y derechos humanos, y proporcionar la ayuda y material necesario para el correcto desempeño de sus funciones;
+
+IX.- Realizar diagnóstico con cierta periodicidad al personal para detectar las áreas de oportunidad en materia de género y derechos humanos, y diseñar las mejores estrategias para su erradicación;
+
+X.- Instrumentar buenas prácticas para que el personal reciba con cierta periodicidad terapias de contención y puedan plenamente armonizar el horario laboral con su espacio personal, así como fomentar los reconocimientos y/o estímulos al personal administrativo y/o jurisdiccional, que haya fomentado acciones que propicien el respeto a la cultura de igualdad de género institucional;
+
+XI.- Desarrollar mecanismos de prevención y atención a casos de hostigamiento sexual y acoso laboral;
+
+XII.- Promover la celebración de convenios de colaboración con instituciones públicas o privadas involucradas con la temática de género y derechos humanos, y
+
+XIII.- Fomentar y difundir el uso del lenguaje no sexista, así como procurar que la documentación interna no contenga lenguaje sexista.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 104
+
+Quáter.- Para ser titular de la Unidad de Derechos Humanos se requiere:
+
+I.- Tener la ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Tener cuando menos veintisiete años de edad, cumplidos en la fecha de su nombramiento;
+
+III.- Contar con residencia mínima de cinco años en el Estado;
+
+IV.- Contar al día de su designación con título y cédula profesional de nivel licenciatura, preferentemente en Derecho;
+
+V.- Acreditar conocimiento y experiencia en materia de derechos humanos y perspectiva de género, y
+
+VI.- No estar inhabilitado para el desempeño de funciones públicas al momento de ser nombrado.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3902,3 +3956,11 @@ P.O. 7 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 147 POR EL QUE SE REFORMA El PRIMER PÁRRAFO DEL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 125, EXPEDIDO POR LA XVI LEGISLATURA DEL ESTADO Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, DE FECHA 22 DE JUNIO DE 2021”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 154 POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 99 Y SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 99, EL ARTÍCULO 104-TER Y EL ARTÍCULO 104-QUÁTER DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
