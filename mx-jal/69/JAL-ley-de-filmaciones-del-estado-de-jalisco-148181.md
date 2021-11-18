@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-filmaciones-del-estado-de-jalisco-148181"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-04"
-last_updated: "2021-03-04"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FILMACIONES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 4 de marzo de 2021.
 
@@ -53,11 +53,15 @@ LEY DE FILMACIONES DEL ESTADO DE JALISCO
 
 3. Se reconocen a las obras cinematográficas, audiovisuales y fotográficas como bienes culturales y vehículos de expresión artística, educativa y de identidad que integran un patrimonio intangible para Jalisco, por lo que se buscarán los mecanismos para fomentar e impulsar su protección, preservación y comercialización en los términos de las disposiciones legales y convencionales aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 2.
 
-1. La presente Ley tiene por objeto establecer las bases, instrumentos y mecanismos de planeación, fomento, promoción y desarrollo de obras cinematográficas, audiovisuales y fotográficas en sus diversas manifestaciones, de infraestructura para su desarrollo, los procedimientos administrativos relacionados, así como crear y regular el funcionamiento del Consejo Consultivo Estatal de Filmaciones y del Fondo Filma en Jalisco.
+1. La presente Ley tiene por objeto establecer las bases, instrumentos y mecanismos de planeación, fomento, promoción y desarrollo de obras cinematográficas, audiovisuales y fotográficas en sus diversas manifestaciones, de infraestructura para su desarrollo, los procedimientos administrativos relacionados, así como crear y regular el funcionamiento del Consejo Consultivo Estatal de Filmaciones.
 
 ###### Artículo 3.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 1. Son objetivos específicos de la presente Ley:
 
@@ -77,7 +81,7 @@ VII. Promover el desarrollo de infraestructura estatal y municipal para la indus
 
 VIII. Crear y regular el funcionamiento del Consejo Consultivo Estatal de Filmaciones;
 
-IX. Crear y regular el funcionamiento del Fondo Filma en Jalisco;
+IX. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2021)
 
 X. Fomentar la vinculación entre los sectores académico, científico y social con el sector productivo y favorecer la formación de talento, empresas y profesionistas especializados en las materias que regula la presente Ley; y
 
@@ -105,11 +109,15 @@ VIII. Propiedad intelectual: Promover la protección y respeto del conjunto de d
 
 ###### Artículo 5.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 1. Para los efectos de esta Ley, se entenderá por:
 
 I. Bienes de uso común: Los caminos del Estado; los aprovechamientos de las aguas que no sean federales o particulares y sus obras respectivas; plazas, paseos y parques propiedad del Estado; monumentos artísticos e históricos y edificios en general para el uso público; propiedades rústicas utilizadas para servicios públicos; establecimientos fabriles administrados por el Estado; los montes y bosques que no sean de la federación ni de los particulares y que tengan utilidad pública; las aceras, pasajes, andadores caminos, carreteras, camellones, puentes, vías férreas, presas, canales, zanjas, puertos, bahías, radas, ensenadas; diques, muelles, escolleras, malecones cuando sean de uso público; monumentos artísticos e históricos y las construcciones levantadas en lugares públicos para ornato, solaz y comodidad de quienes los visiten así como los mercados, hospitales y panteones del Estado;
 
-II. Comité: Comité Técnico del Fondo Filma en Jalisco;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+II. Dirección: La Dirección Filma en Jalisco que operará como parte de la estructura administrativa de la Agencia para desempeñar las atribuciones en materia (sic) obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, previstas en la presente Ley y en las demás disposiciones que resulten aplicables;
 
 III. Consejo: Consejo Consultivo Estatal de Filmaciones;
 
@@ -145,7 +153,9 @@ XVIII. Producción: Materialización de un guion, libreto o idea, a través de r
 
 XIX. Producción audiovisual: Conjunto de obras cinematográficas y audiovisuales;
 
-XX. Registro de locaciones y de eventos culturales: El catálogo elaborado y difundido por la Secretaría, el cual contiene los bienes de uso común, sitios, eventos, festivales, tradiciones y otras manifestaciones culturales susceptibles de ser filmadas o grabadas de manera audiovisual o fotográfica;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XX. Registro de locaciones y de eventos culturales: El catálogo elaborado y difundido por la Dirección, el cual contiene los bienes de uso común, sitios, eventos, festivales, tradiciones y otras manifestaciones culturales susceptibles de ser filmadas o grabadas de manera audiovisual o fotográfica;
 
 XXI. Registro de productores: El listado o base de datos de las personas físicas o jurídicas, nacionales o extranjeras que tienen la iniciativa, coordinación y responsabilidad de la realización de una obra cinematográfica, audiovisual o fotográfica en el Estado;
 
@@ -155,7 +165,9 @@ XXIII. Registro de vacantes y directorio de profesionistas: Listado de la oferta
 
 XXIV. Reglamento: Reglamento de la Ley (sic) Filmaciones del Estado de Jalisco;
 
-XXV. Secretaría: Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XXV. Agencia: EL Organismo Público Descentralizado denominado Agencia Estatal de Entretenimiento de Jalisco;
 
 XXVI. Secretario: Secretario de Desarrollo Económico;
 
@@ -213,15 +225,23 @@ VII. Ley de Mecenazgo Cultural del Estado de Jalisco.
 
 ###### Artículo 10.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 1. Son autoridades encargadas de aplicar y vigilar la observancia de la presente Ley, en el ámbito de sus respectivas competencias, los titulares de:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 I. El Poder Ejecutivo del Estado de Jalisco;
 
-II. La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-III. El Presidente del Comité Técnico del Fondo; y
+II. La Agencia; y
 
-III (SIC). Los Municipios.
+III. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2021)
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+IV. Los Municipios.
 
 ###### Artículo 11.
 
@@ -239,7 +259,9 @@ V. Las demás facultades que señalen esta Ley y otras disposiciones legales apl
 
 ###### Artículo 12.
 
-1. Corresponde a la Secretaría de Desarrollo Económico las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+1. Corresponden a la Agencia las siguientes atribuciones:
 
 I. Planear e instrumentar las acciones, estrategias y políticas públicas para la planeación, fomento, promoción y desarrollo de las obras cinematográficas, audiovisuales y fotográficas en sus diversas manifestaciones;
 
@@ -259,13 +281,17 @@ VIII. Promover la industria cinematográfica, audiovisual y fotográfica jalisci
 
 IX. Celebrar convenios e instrumentos legales con las autoridades de los tres órdenes de gobierno para el cumplimiento de la presente Ley, así como con los sectores social, empresarial y académico para promover y realizar actividades económicas, productivas, de investigación, innovación tecnológica y científicas, vinculadas a la producción de obras cinematográficas, audiovisuales, fotográficas en el Estado; y
 
-X. Elaborar y presentar al Comité el programa anual de actividades;
+X. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2021)
 
-XI. Ejecutar los acuerdos y acciones encomendadas por el Comité;
+XI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2021)
 
-XII. Elaborar y presentar al Comité propuestas de medidas de regulación y simplificación administrativa de trámites y servicios que requiere la industria, con apego a los principios previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-XIII. Operar la ventanilla única de trámites y del centro de inclusión digital e informar mensualmente al Comité los estados de resultados de su uso;
+XII. Elaborar e implementar medidas de regulación y simplificación administrativa de trámites y servicios que requiere la industria, con apego a los principios previstos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+XIII. Operar la ventanilla única de trámites y del centro de inclusión digital;
 
 XIV. Informar, orientar y asesorar a los usuarios sobre los trámites necesarios para la obtención de autorizaciones y permisos requeridos para realizar obras cinematográficas, audiovisuales y fotográficas en el Estado;
 
@@ -281,7 +307,7 @@ XIX. Hacer del conocimiento de la autoridad competente, las posibles irregularid
 
 XX. Generar una guía de producción ecológica que contenga las mejores prácticas de sustentabilidad en la industria cinematográfica, audiovisual y fotográfica, así como un directorio de proveedores que realicen sus procesos bajo criterios ecológicos y de protección al medio ambiente que se implementen en las producciones. Asimismo, elaborar programas que promuevan la sustentabilidad ofreciendo asesoría a los productores sobre el reciclaje, la donación de materiales y vestuario y reducción de desperdicios;
 
-XXI. Presentar al Comité un informe trimestral de actividades, y los que le sean solicitados por el mismo;
+XXI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2021)
 
 XXII. Estar a cargo por sí o a través del área correspondiente de implementar las disposiciones del Título Sexto de esta Ley; y
 
@@ -293,7 +319,9 @@ XXIII. Las demás que le otorgue esta Ley y otras disposiciones legales aplicabl
 
 I. Otorgar facilidades administrativas para cumplir con el objeto y fines de la presente Ley;
 
-II. Elaborar y mantener actualizado un inventario de los bienes de uso común ubicados en su demarcación, que puedan ser utilizados para la realización de producciones cinematográficas, audiovisuales y fotográficas y promover su difusión en colaboración con el Comité;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+II. Elaborar y mantener actualizado un inventario de los bienes de uso común ubicados en su demarcación que puedan ser utilizados para la realización de producciones cinematográficas, audiovisuales y fotográficas y promover su difusión en colaboración con la Agencia;
 
 III. Establecer las políticas, estrategias, planes y programas para el fomento y promoción de las obras cinematográficas, audiovisuales y fotográficas producidas en Jalisco e impulsando la industria local;
 
@@ -305,209 +333,57 @@ VI. Las demás atribuciones que les otorgue esta Ley y demás ordenamientos jur�
 
 ## TÍTULO TERCERO. FONDO FILMA EN JALISCO
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ### Capítulo I. Objeto, integración y atribuciones
 
 ###### Artículo 14.
 
-1. Se crea el Fondo Estatal Filma en Jalisco con el propósito de financiar proyectos de creación, investigación, promoción, difusión y desarrollo de obras cinematográficas, audiovisuales y fotográficas previstas en la presente Ley, que será constituido y administrado bajo la figura de Fideicomiso.
-
-2. El Fondo Estatal se constituirá, sin excepción, con las aportaciones de:
-
-I. El Gobierno Federal;
-
-II. La partida anual que se determine en el presupuesto del Estado;
-
-III. Las herencias, legados o donaciones que reciba;
-
-IV. Los créditos que se obtengan a su favor por el sector público o privado;
-
-V. Las aportaciones que realicen los ayuntamientos con base en los convenios de colaboración que se celebren;
-
-VI. Los derechos intelectuales que le correspondan, así como el ingreso que perciba por la venta de bienes y prestación (sic) servicios;
-
-VII. Los derechos que resulten de los contratos que firme el organismo con los beneficiarios del fideicomiso;
-
-VIII. Los bienes que sean producto de las aportaciones que realicen las personas físicas o jurídicas;
-
-IX. Las aportaciones que efectúen los sectores público, privado y social;
-
-X. Los apoyos de organismos e instituciones extranjeras; y
-
-XI. Los demás recursos que determine el Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 15.
 
-1. El objeto del Fondo Estatal será:
-
-I. Impulsar, fomentar y coordinar acciones públicas y privadas orientadas a la creación y desarrollo de obras cinematográficas, audiovisuales y fotográficas en territorio del Estado por jaliscienses o por residentes en Jalisco, la protección de su patrimonio intangible y su comercialización;
-
-II. Impulsar el desarrollo de producciones cinematográfica, audiovisual y fotográfica en la entidad, en sus diversas manifestaciones, con fines culturales o comerciales;
-
-III. Difundir y promover los sitios de interés, eventos, festivales, tradiciones y manifestaciones culturales o artísticas jaliscienses que puedan ser objeto de producciones audiovisuales y fotográficas en el Estado;
-
-IV. Promover y apoyar a la industria cinematográfica, audiovisual y fotográfica jalisciense a nivel estatal, nacional e internacional;
-
-V. Promover y apoyar el desarrollo de infraestructura y los servicios de producción que ofrece el Estado;
-
-VI. Otorgar estímulos a organizaciones, empresas, así como al talento, preferentemente jaliscienses o residentes en la entidad, de acuerdo con la convocatoria que se emita;
-
-VII. Promover la protección del patrimonio intangible producido en Jalisco en la realización de las actividades reguladas por la presente Ley; y
-
-VIII. Cualquier otra actividad que sea congruente con el objeto del fondo y de la presente ley.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 16.
 
-1. Del total del recurso asignado anualmente al Fondo Estatal sólo se podrá disponer de hasta un 2% dos por ciento para los gastos fiduciarios, de administración del Fondo Estatal, gastos de operación y seguimiento de los proyectos y actividades apoyadas por este fondo.
-
-2. En ningún caso, los recursos que constituyen el Fondo Estatal se destinarán a sufragar gastos que deriven de fines distintos a los enumerados en el presente artículo.
-
-3. La asignación de recursos del Fondo Estatal procurará beneficiar al número de proyectos económicamente viables, asegurando en todo caso la continuidad y la calidad de los resultados. Se dará especial preferencia a los proyectos que cuenten con subsidios o financiamiento proveniente de otras fuentes, particularmente del sector privado.
-
-4. Tendrán derecho preferente a recibir los beneficios del Fondo Estatal aquellas personas o empresas que acrediten residencia estatal de cuando menos tres años.
-
-5. El otorgamiento de apoyos económicos del Fondo Estatal estará sujeto a la celebración del instrumento jurídico correspondiente, de conformidad con la presente Ley y las disposiciones legales aplicables.
-
-6. Los beneficiarios de los apoyos del Fondo deberán destinar un 0.5% del recurso recibido a capacitación de talento jalisciense en cualquiera de las actividades previstas en la presente ley según se disponga en el Programa.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 17.
 
-1. El Fondo Estatal contará con un Comité Técnico que estará integrado por:
-
-I. El Titular de la Coordinación Estratégica de Crecimiento y Desarrollo Económico, quien fungirá como Presidente;
-
-II. El Titular de la Secretaría de Desarrollo Económico;
-
-III. El Titular de la Secretaría de Cultura;
-
-IV. El Titular de la Secretaría de Turismo;
-
-V. El Titular de la Secretaría de la Innovación, Ciencia y Tecnología;
-
-VI. Un representante del Festival de Cine en Guadalajara FICG;
-
-VII. Un representante de Canacine de Occidente;
-
-VIII. Un representante del Consejo Consultivo Estatal de Filmaciones; y
-
-IX. (sic) Representante de Ceca, sección de cine y video.
-
-2. El Comité contará con un Secretario Técnico que será designado y removido por el Titular de la Coordinación Estratégica de Crecimiento y Desarrollo Económico y tendrá a su cargo auxiliar al Presidente del Comité para el cumplimiento de todas sus atribuciones. Asimismo, elaborará el ante proyecto del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales, Fotográficas.
-
-3. Para la validez de los acuerdos del Comité se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el presidente tendrá el voto de calidad.
-
-4. Todos los integrantes contarán con voz y voto, podrán nombrar a un suplente, permanecerán en el Comité por el tiempo que dure el encargo que desempeñen, su participación será de carácter honorífica y por lo tanto no será remunerada y sus servicios no originarán ninguna relación laboral.
-
-5. Podrán invitar a una o varias personas a las sesiones con derecho a voz, pero sin voto.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 18.
 
-1. Son facultades exclusivas del Comité Técnico:
-
-I. Aprobar todas las operaciones que se realicen con cargo al Fondo;
-
-II. Aprobar su programa anual de actividades, así como los recursos requeridos para tal efecto;
-
-III. Vigilar y dar seguimiento al uso y ejercicio de los estímulos económicos otorgados por el Fondo;
-
-IV. Aprobar el ante proyecto del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales, Fotográficas y remitirlo a la Secretaría para su aprobación y publicación;
-
-V. Elegir a los integrantes del Consejo Consultivo Estatal de Filmaciones;
-
-VI. Determinar los términos de referencia que deberán acatarse para:
-
-a. La expedición de las bases de las convocatorias.
-
-b. La selección de jurados que evalúen los proyectos concursantes, así como los criterios que deberán aplicar éstos para elegir los proyectos ganadores. Los jurados serán integrados por investigadores y profesionales especializados en los temas propuestos por el Comité y ratificados por el Consejo.
-
-c. La selección del grupo técnico de evaluadores del seguimiento y cumplimiento de los términos de contratos y obligaciones a que quedaron sujetos los beneficiarios.
-
-Para efectos de la presente fracción, los términos de referencia deberán incluirse en el Reglamento que expida el Ejecutivo estatal, cuyas actividades no podrán ejercerse en ningún caso por la misma persona.
-
-VII. Evaluar, seleccionar y aprobar los proyectos cinematográficos, audiovisuales y fotográficos susceptibles de ser apoyados por el Fideicomiso, a través de los dictaminadores seleccionados;
-
-VIII. Dar seguimiento y evaluar el cumplimiento de los trabajos realizados por los beneficiarios de los apoyos del Fondo, a través del grupo técnico de evaluadores;
-
-IX. Fungir como órgano de información, opinión y seguimiento de propuestas en materia cinematográfica, audiovisual y fotográfica; emitir opiniones, hacer consultas, discutir y tomar acuerdos, a efecto de presentar opiniones, informes, denuncias, recomendaciones y propuestas relativas a asuntos de interés público o social, en la materia cinematográfica, audiovisual y fotográfica;
-
-X. Celebrar instrumentos jurídicos pertinentes que contribuyan a lograr los fines de la presente Ley;
-
-XI. Colaborar con las autoridades competentes en la realización de talleres, cursos, capacitación, clases magistrales, seminarios, simposios y eventos académicos para los profesionistas de la industria, productores, estudiantes y público en general, con la participación de personajes destacados en la industria cinematográfica y audiovisual, nacional e internacional;
-
-XII. Fomentar programas permanentes de capacitación y profesionalización para el personal que intervenga en la prestación de servicios para la industria cinematográfica y audiovisual de la Entidad, favoreciendo el acceso a la comunidad jalisciense, en especial, de las personas pertenecientes a grupos vulnerables, discapacitados y pueblos originarios;
-
-XIII. Realizar las acciones necesarias para promover, preservar, divulgar y fomentar las actividades cinematográficas y audiovisuales en la Entidad;
-
-XIV. Fomentar y apoyar la vinculación entre los productores nacionales y extranjeros con las instituciones públicas, sector privado y profesionales locales;
-
-XV. Contribuir en la elaboración y ejecución del Programa Estatal de Fomento, Desarrollo y Promoción de las Obras Cinematográficas, Audiovisuales y Fotográficas;
-
-XVI. Informar anualmente a la Secretaría de los avances y cumplimiento del Programa Estatal de Fomento, Desarrollo y Promoción de las Obras Cinematográficas, Audiovisuales y Fotográficas;
-
-XVII. Coadyuvar con la Secretaría de Medio Ambiente y Desarrollo Territorial en la creación de protocolos para el cuidado y mejoramiento del medio ambiente durante la realización de producciones audiovisuales y fotográficas;
-
-XVIII. Coadyuvar con la Secretaría de Seguridad en el desarrollo y aplicación de las políticas de seguridad pública en el Estado para agilizar y garantizar la seguridad en las filmaciones y grabaciones;
-
-XIX. Fomentar y estimular la producción, educación, experimentación e investigación cinematográfica, audiovisual y fotográfica, para creadores e investigadores jaliscienses, mediante programas específicos, apoyos y estímulos basados en los principios señalados en la presente Ley;
-
-XX. Proponer el uso de medios alternativos ecológicos para la generación de energía eléctrica durante las actividades cinematográficas, audiovisuales y fotográficas;
-
-XXI. Conformar grupos de trabajo para la realización y seguimiento de tareas específicas en la materia de su competencia;
-
-XXII. Gestionar la creación de un portal electrónico oficial que promueva y difunda en diferentes idiomas las obras cinematográficas, audiovisuales y fotográficas realizadas en Jalisco, aquellas que se encuentren en proceso, las locaciones y sitios, así como los espacios para los profesionales del ramo o sus empresas que se suscriban compartan y difundan su información;
-
-XXIII. Gestionar la creación de la ventanilla única; y
-
-XXIV. Las demás que le correspondan de conformidad con otros ordenamientos legales aplicables.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ### Capítulo II. Criterios y bases para el otorgamiento de apoyos
 
 ###### Artículo 19.
 
-1. Son requisitos para ser beneficiario del Fondo Estatal:
-
-I. Que la obra cinematográfica, audiovisual o fotográfica se desarrolle en territorio jalisciense, cumpliendo con las condiciones y términos de referencia que señalen las convocatorias respectivas;
-
-II. Otorgar fianza que garantice el cumplimiento de la obligación contraída o, en su caso, la devolución del apoyo económico recibido; y
-
-III. Las demás que establezca la convocatoria respectiva.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 20.
 
-1. Son obligaciones de los beneficiarios del Fondo Estatal:
-
-I. Rendir al Comité los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos;
-
-II. Entregar una fianza que avale el cumplimiento del contrato correspondiente.
-
-Se podrá eximir de manera excepcional el requisito de la fianza cuando se trate de instituciones de educación superior, centros de investigación, cámaras o asociaciones sin fines de lucro y en cuyo caso se podrá solicitar como garantía la suscripción de pagarés.
-
-Asimismo, en proyectos y actividades que no superen el monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, se deberá firmar un pagaré por el beneficiario de los recursos que ampare el monto del recurso a otorgar.
-
-III. Cumplir a cabalidad las condiciones del proyecto ganador del apoyo; y
-
-IV. Las demás que resulten aplicables.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 21.
 
-1. Será causa de cancelación o devolución de los recursos económicos del Fondo Estatal:
-
-I. Sea materialmente imposible llevar a cabo el proyecto;
-
-II. Se dejen de cumplir los requisitos establecidos en la convocatoria; o
-
-III. Se realice cualquier acto contrario a la Ley.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 22.
 
-1. La sanción que se aplique por incumplimiento en los términos del artículo anterior, será de dos a tres años de inhabilitación para participar en las subsecuentes convocatorias.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ## TÍTULO CUARTO. CONSEJO CONSULTIVO ESTATAL DE FILMACIONES
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-1. Se crea el Consejo Consultivo Estatal de Filmaciones como un órgano colegiado de apoyo del Comité, cuyo objeto es emitir opiniones, recomendaciones, propuestas, para la toma de decisiones respecto a la promoción y difusión, en materia de cinematográfica, audiovisual y fotográfica.
+1. Se crea el Consejo Consultivo Estatal de Filmaciones como un órgano colegiado de apoyo a la Agencia, cuyo objeto es emitir opiniones, recomendaciones, propuestas, para la toma de decisiones respecto a la promoción y difusión, en materia de cinematográfica, audiovisual y fotográfica.
 
 ###### Artículo 24.
 
@@ -519,7 +395,9 @@ II. Recomendar estrategias para atraer la producción cinematográfica extranjer
 
 III. Recomendar estrategias de atracción de inversión de capitales nacionales y extranjeros para la consecución del objeto y fines de la presente Ley;
 
-IV. Recomendar al Comité mejores prácticas internacionales en la industria cinematográfica, audiovisual y fotográfica; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+IV. Recomendar a la Agencia las mejores prácticas internacionales en la industria cinematográfica, audiovisual y fotográfica; y
 
 V. Las demás necesarias para cumplir con su función.
 
@@ -527,15 +405,21 @@ V. Las demás necesarias para cumplir con su función.
 
 1. El Consejo estará integrado por:
 
-I. El Presidente que será el Titular de la Coordinación Estratégica de Crecimiento y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-II. El Secretario Técnico que será designado por el Titular de la Coordinación Estratégica de Crecimiento y Desarrollo Económico; y
+I. El Presidente que será el Director General de la Agencia;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+II. El Secretario Técnico que será designado por el Director General de la Agencia; y
 
 III. Nueve representantes de la Industria Cinematográfica, Audiovisual y Fotográfica local, nacional e internacional.
 
 2. Los consejeros del sector gubernamental lo serán durante el tiempo que estén en su cargo; y los consejeros ciudadanos durante el tiempo que les defina el organismo que representan.
 
-3. La participación en el Consejo es de carácter honorífica, por lo que no recibirán ninguna retribución económica o material y sus servicios no originarán ninguna relación laboral con la Secretaría o el Consejo.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+3. La participación en el Consejo es de carácter honorífica, por lo que no recibirán ninguna retribución económica o material y sus servicios no originarán ninguna relación laboral con la Agencia o el Consejo.
 
 4. Todos los consejeros participarán con voz y voto y podrán designar a su suplente.
 
@@ -555,7 +439,9 @@ III. Celebrar las reuniones necesarias para la decisión de los asuntos relacion
 
 IV. Convocar, por conducto del Secretario Técnico, la realización de sesiones ordinarias y extraordinarias; y
 
-V. Elaborar los informes que se presenten al Comité.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+V. Elaborar los informes que se presenten a la Agencia.
 
 ###### Artículo 27.
 
@@ -575,7 +461,9 @@ III. Las demás necesarias para cumplir con sus funciones y que se establezcan e
 
 1. El Programa Estatal de Fomento, Desarrollo y Promoción de las Obras Cinematográficas, Audiovisuales y Fotográficas será el instrumento rector de la política del Gobierno del Estado en la materia.
 
-2. Dicho programa será actualizado cada 2 años previa evaluación que realice el Comité para determinar el grado de cumplimiento.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+2. Dicho programa será actualizado cada 2 años previa evaluación que realice la Agencia para determinar el grado de cumplimiento.
 
 3. El Programa contendrá las directrices generales de la política para el desarrollo y promoción de la industria cinematográfica, audiovisual y fotográfica en el Estado y se sujetará a los principios generales que establece la presente Ley.
 
@@ -607,11 +495,19 @@ VIII. Programación presupuestal.
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 31.
+
+1. Para la realización de las actividades relacionadas con las filmaciones en el Estado, la Agencia contará con una dirección administrativa denominada Dirección Filma en Jalisco.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+Artículo 31 bis.
 
 1. Las obras cinematográficas, audiovisuales o fotográficas que se realicen en inmuebles de propiedad privada, donde los vehículos de producción estén estacionados en lugares permitidos y no impidan el paso total o parcial peatonal, tránsito vehicular o vía pública no requieren para su filmación o grabación de ningún aviso o permiso.
 
-2. Tampoco requerirá de aviso o permiso, la realización de las obras cinematográficas, audiovisuales y fotográficas en bienes de uso común del Estado o en vía pública, siempre que no impidan el paso parcial o total de vías principales de tránsito vehicular y se trate de obras:
+2. Tampoco requerirá de aviso o permiso, la realización de las obras cinematográficas, audiovisuales y fotográficas en bienes de uso común del Estado o en vía pública, siempre que no impidan el paso parcial o total de vías principales de tránsito vehicular o las actividades y funciones para las que haya sido destinado el bien correspondiente y se trate de obras:
 
 I. Periodísticas, de reportaje o documental;
 
@@ -621,15 +517,15 @@ III. Turísticas o para uso personal que se registren en cualquier variedad de f
 
 IV. Las que realice la Administración Pública Estatal y Municipal.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-1. La realización de obras cinematográficas, audiovisuales y fotográficas que sean filmadas o grabadas en bienes de uso común del Estado y que se realicen en vía pública o que obstruyan el tránsito vehicular, siempre que no se trate de las obras señaladas en el artículo 31, requerirán del otorgamiento de un aviso o permiso por parte de la Secretaría, según corresponda.
+1. La realización de obras cinematográficas, audiovisuales y fotográficas que sean filmadas o grabadas en bienes de uso común de la Federación, del Estado o de los Municipios y que se realicen en vía pública o que obstruyan el tránsito vehicular, siempre que no se trate de las obras señaladas en el artículo 31, requerirán del otorgamiento de un aviso o permiso por parte de la Dirección, según corresponda.
 
-2. La realización de obras cinematográficas, audiovisuales y fotográficas que sean filmadas o grabadas en bienes de uso común de la Federación o de los Municipios, recibirán el apoyo de la Secretaría en la gestión de las autorizaciones, avisos y permisos que se requieran.
+2. La realización de obras cinematográficas, audiovisuales y fotográficas que sean filmadas o grabadas en bienes de uso común de la Federación o de los Municipios, recibirán el apoyo de la Dirección en la gestión de las autorizaciones, avisos y permisos que se requieran.
 
-3. Para el caso en que la autoridad Federal o Municipal competente niegue la autorización, aviso o permiso solicitado, la Secretaría comunicará al solicitante, a su vez, la negativa de la autorización o permiso de filmación o grabación.
-
-4. Todos los trámites de autorizaciones, avisos y permisos podrán ser emitidos electrónicamente utilizando las nuevas tecnologías de la información y comunicación y tendrán validez con la firma electrónica de la autoridad competente.
+3. Todos los trámites de autorizaciones, avisos y permisos podrán ser emitidos electrónicamente utilizando las nuevas tecnologías de la información y comunicación y tendrán validez con la firma electrónica de la autoridad competente.
 
 ###### Artículo 33.
 
@@ -647,17 +543,11 @@ IV. Las que realice la Administración Pública Estatal y Municipal.
 
 ###### Artículo 36.
 
-1. Cuando por causas de fuerza mayor o caso fortuito se justifique la modificación de las condiciones establecidas en el aviso o permiso emitidos previamente por la Secretaría, el solicitante de los mismos deberá pedir a través de la Secretaría la autorización de las modificaciones conducentes al aviso o permiso concedidos, de acuerdo con el procedimiento previsto para tal efecto en el Reglamento.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 37.
 
-1. La Secretaría podrá dejar sin efectos los avisos o permisos que hayan otorgado en los siguientes casos:
-
-I. Cuando el titular incumpla los términos y condiciones contenidos en el aviso, permiso, prórroga o modificación de permiso; o
-
-II. Se dañe la locación donde se realice la filmación o grabación.
-
-2. Cuando la Secretaría observe algún incumplimiento a los términos y condiciones de las autorizaciones, avisos o permisos otorgados por las autoridades Federales o Municipales, lo hará de su conocimiento y atenderá a las sanciones que la autoridad competente determine conforme a las disposiciones aplicables.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ### Capítulo II. Aviso de filmación o grabación
 
@@ -677,11 +567,15 @@ V. Se tomen las medidas necesarias de seguridad y de protección civil que permi
 
 ###### Artículo 39.
 
-1. El aviso deberá presentarse ante la Secretaría para su tramitación en el término y de conformidad con lo que señale el Reglamento para tal efecto, el cual deberá ser antes de la fecha y hora en que se realizará la filmación o grabación.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+1. El aviso deberá presentarse ante la Dirección para su tramitación en el término y de conformidad con lo que señale el Reglamento para tal efecto, el cual deberá ser antes de la fecha y hora en que se realizará la filmación o grabación.
 
 2. Cuando el aviso se presente de forma extemporánea, el solicitante, debe tramitar en su lugar, un permiso urgente al que refiere esta misma Ley.
 
-3. La Secretaría valorará las circunstancias del caso y, de ser procedente, emitirá la autorización correspondiente con las restricciones y condicionamientos que considere pertinentes, de acuerdo con el procedimiento previsto para tal efecto en el Reglamento.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+3. La Dirección valorará las circunstancias del caso y, de ser procedente, emitirá la autorización correspondiente con las restricciones y condicionamientos que considere pertinentes, de acuerdo con el procedimiento previsto para tal efecto en el Reglamento.
 
 ### Capítulo III. Permiso de filmación o grabación
 
@@ -703,7 +597,9 @@ V. Se realicen en la vía pública actividades relacionadas con la producción a
 
 ###### Artículo 41.
 
-1. La Secretaría deberá observar previamente a que se otorgue un permiso lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+1. La Dirección deberá observar, previamente a que se otorgue un permiso, lo siguiente:
 
 I. Que previamente no se haya otorgado un permiso de filmación o grabación para la misma locación y en la misma fecha y hora;
 
@@ -713,11 +609,15 @@ III. Que se cuente con el seguro que cubra la filmación o grabación, en los t�
 
 IV. Que se cumplan con los demás requisitos señalados en el Reglamento.
 
-2. Cuando el permiso no cumpla con las observaciones señaladas en el artículo anterior, la Secretaría prevendrá al solicitante para que realice las correcciones pertinentes en el plazo que señale para tal efecto el Reglamento y en caso de no realizarlas, se desechará el trámite.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+2. Cuando el permiso no cumpla con las observaciones señaladas en el artículo anterior, la Dirección prevendrá al solicitante para que realice las correcciones pertinentes en el plazo que señale para tal efecto el Reglamento y en caso de no realizarlas, se desechará el trámite.
 
 ###### Artículo 42.
 
-1. Una vez cumplido con lo señalado en los artículos anteriores, la Secretaría emitirá un permiso, señalando los siguientes términos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+1. Una vez cumplido con lo señalado en los artículos anteriores, la Dirección emitirá un permiso, señalando los siguientes términos:
 
 I. Las actividades que amparara;
 
@@ -745,7 +645,9 @@ II. Las causas que justifican la prórroga.
 
 ###### Artículo 45.
 
-1. Una vez autorizado el permiso urgente, la Secretaría comunicará inmediatamente a los interesados y a las autoridades competentes lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+1. Una vez autorizado el permiso urgente, la Dirección comunicará inmediatamente a los interesados y a las autoridades competentes lo siguiente:
 
 I. La filmación o grabación que, de resultar procedente, amparará el permiso;
 
@@ -779,11 +681,11 @@ Se extingue el Fideicomiso denominado Comisión de Filmaciones del Estado de Jal
 
 ###### ARTÍCULO CUARTO.
 
-El Titular del Poder Ejecutivo del Estado deberá formalizar el contrato del Fondo Filma en Jalisco bajo el esquema de Fideicomiso en los términos del presente Decreto y de las disposiciones aplicables correspondientes.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### ARTÍCULO QUINTO.
 
-El Titular del Poder Ejecutivo del Estado deberá realizar las modificaciones presupuestales necesarias a fin de dotar al Fondo Filma en Jalisco de los recursos necesarios para cumplir con lo dispuesto en el presente Decreto.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
 
 ###### ARTÍCULO SEXTO.
 
@@ -791,11 +693,13 @@ El Titular del Poder Ejecutivo del Estado deberá expedir las disposiciones regl
 
 ###### ARTÍCULO SÉPTIMO.
 
-El Ejecutivo Estatal, a través de la Secretaría deberá expedir y publicar el Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia de la Ley que se expide mediante el presente decreto.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-El Titular del Poder Ejecutivo del Estado, a través de la Secretaría deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
+El Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -836,3 +740,23 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28502/LXII/21 QUE REFORMA LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO, LA LEY DE FILMACIONES Y LA LEY ORGÁNICA DEL PODER EJECUTIVO, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abrogan las disposiciones legales y administrativas que contravengan o se opongan al presente decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado, a través de las Secretarías de la Hacienda Pública y de Administración, deberá realizar las modificaciones administrativas y presupuestales necesarias para el cumplimiento del presente decreto.
+
+CUARTO. La Junta de Gobierno de la Agencia Estatal de Entretenimiento deberá adecuar su Reglamento dentro de los 30 días naturales a la entrada en vigor del presente decreto, contemplando en su estructura interna a la Comisión Filma en Jalisco.
+
+QUINTO. La Agencia Estatal de Entretenimiento de Jalisco deberá expedir y gestionar la publicación del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia del presente decreto.
+
+SEXTO. El Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
+
+SÉPTIMO. Las atribuciones encomendadas a la Dirección Filma en Jalisco en el presente decreto serán ejercidas por la estructura administrativa de la Agencia, conforme a su reglamento interno.
