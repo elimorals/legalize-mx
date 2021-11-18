@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2021-09-13"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -1251,13 +1251,17 @@ La organización y funcionamiento de la Comisión Especial y las funciones de su
 
 La aplicación de las sanciones administrativas por infracciones a esta Ley, su Reglamento y demás disposiciones que de ella emanen, corresponde al Instituto o cuando fuera el caso a la Instancia Administrativa Municipal Equivalente.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 125.
 
-Las sanciones administrativas a que se refiere el precepto anterior, se aplicarán de acuerdo a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Las sanciones administrativas a que se refiere el precepto anterior, se aplicarán de acuerdo a lo establecido en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 126.
 
-Contra la resolución de la autoridad que imponga sanciones administrativas, procederá el recurso de revisión previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, independientemente de las vías judiciales que correspondan.
+Contra la resolución de la autoridad que imponga sanciones administrativas, procederá el recurso de revisión previsto en el Código Procesal Administrativo para el Estado de San Luis Potosí, independientemente de las vías judiciales que correspondan.
 
 ###### ARTÍCULO 127.
 
@@ -1454,6 +1458,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1248.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 2°, DE (SIC) LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0011.- SE REFORMA (SIC) LOS ARTÍCULOS 125 Y 126 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
