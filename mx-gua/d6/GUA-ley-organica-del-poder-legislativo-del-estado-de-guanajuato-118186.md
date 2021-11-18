@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2021-07-07"
+last_updated: "2021-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -1011,9 +1011,27 @@ V. Dictaminar, atender o resolver las iniciativas de Ley o decreto, acuerdos, pr
 
 VI. Establecer la vinculación con los poderes de la Federación, dependencias y entidades de la Administración Pública Estatal, con los ayuntamientos del Estado, organismos autónomos y el Poder Judicial, para el mejor desarrollo de sus atribuciones, por conducto de la Junta de Gobierno y Coordinación Política;
 
-VII. Solicitar a la Junta de Gobierno y Coordinación Política, la contratación de asesorías externas; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
-VIII. Acordar mecanismos de consulta e información sobre los asuntos de su competencia.
+VII. Solicitar a la Junta de Gobierno y Coordinación Política, la contratación de asesorías externas;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Acordar mecanismos de consulta e información sobre los asuntos de su competencia; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+IX. Remitir a los ayuntamientos las iniciativas que incidan en la competencia municipal para su opinión.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 89 Bis.
+
+Las opiniones por parte de los ayuntamientos sobre las iniciativas que incidan en su competencia podrán realizarse a través de un documento de forma física o electrónica. Si es en forma electrónica el documento será presentado por correo electrónico en la dirección que para tal efecto se habilite y deberá estar signado con firma electrónica certificada del Secretario del Ayuntamiento.
+
+La falta de respuesta de los ayuntamientos, en el término acordado por la comisión, será considerada sin observaciones.
+
+La Secretaría General creará un registro respecto de los ayuntamientos que hayan enviado opiniones que será público.
 
 ###### Artículo 90.
 
@@ -1915,7 +1933,9 @@ III. Al Supremo Tribunal de Justicia del Estado en el ramo de sus atribuciones;
 
 IV. A los ayuntamientos o concejos municipales; y
 
-V. A la ciudadanía que represente cuando menos el tres por ciento de los inscritos en la lista nominal de electores correspondientes al Estado y reúnan los requisitos previstos en la ley de la materia.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+
+V. A los ciudadanos que representen cuando menos el cero punto cinco por ciento de los inscritos en la lista nominal de electores correspondientes al Estado y reúnan los requisitos previstos en la ley de la materia.
 
 ###### Artículo 168.
 
@@ -3542,5 +3562,11 @@ Artículo segundo. La Junta de Gobierno y Coordinación Política deberá adecua
 P.O. 7 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 333, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 5, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
