@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-11-11"
+last_updated: "2021-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -2061,7 +2061,7 @@ V. Se establezca plazo diverso para su dictamen en la agenda legislativa común 
 
 5. El comité de Adquisiciones de Bienes y Servicios de (sic) Congreso del Estado puede realizar sesiones a distancia, en los términos del Capítulo IV, del Título Séptimo de esta Ley. En el caso anterior el comité, junto con la coordinación de administración y finanzas, podrá realizar adquisiciones extraordinarias tomando en cuenta lo señalado en la fracción II del artículo 303 del Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 112.
 
@@ -4002,3 +4002,11 @@ Cuando la Ley Orgánica del Poder Legislativo del Estado de Jalisco y otras disp
 ###### ARTÍCULO CUARTO.
 
 Se instruye al Secretario General del Congreso del Estado y a las instancias correspondientes para que en el término de 30 días naturales para que se lleven a cabo las medidas administrativas, presupuestales, así como las adecuaciones conducentes a los manuales de organización y procedimientos y demás disposiciones necesarias para dar cumplimiento al presente decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28503/LXII/21 QUE REFORMA EL ARTÍCULO 112 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ASÍ COMO LOS ARTÍCULOS 69 Y 70 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. La titularidad del Órgano Interno de Control del Congreso del Estado, alineará el contenido del Código de Ética del Congreso del Estado de Jalisco con las presentes reformas, en un plazo no mayor a 30 días naturales, de conformidad con lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas.
