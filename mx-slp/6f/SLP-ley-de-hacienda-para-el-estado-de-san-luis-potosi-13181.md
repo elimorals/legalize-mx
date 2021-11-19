@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2021-10-14"
+last_updated: "2021-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1329,9 +1329,9 @@ Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis 
 
 Por los servicios de control vehicular se causarán los derechos que se establecen a continuación en función al valor de la UMA vigente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
 
-I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo, y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente.
+I. Dotación de placas, incluyendo tarjeta de circulación y calcomanía, que deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo.
 
 Tipo Servicio Servicio
 
@@ -1376,6 +1376,22 @@ h) Placas para autos antiguos No 23.84
 aplica
 
 Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
+
+La reposición de placas para el servicio público y particular debe realizarse dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente, debiendo pagar 20 veces el valor de la UMA vigente.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
+
+Los propietarios de los vehículos de servicio particular a que se refiere el inciso a) de la fracción I de este artículo, cuyo valor incluyendo el impuesto al valor agregado sea de hasta $500,000.00 pesos, no pagarán los derechos previstos para la dotación de placas.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
+
+Tratándose de vehículos usados deberá tomarse en cuenta el factor de depreciación previsto en el artículo 6º de esta Ley, para calcular su valor.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
+
+Para el caso de los propietarios de remolques, y así como de motocicletas y motonetas hasta de 350 c.c. de cilindro, a que se refiere (sic) los incisos, b) y c) de la fracción I de este artículo, no pagarán los derechos previstos para la dotación de placas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3538,3 +3554,13 @@ P.O. 14 DE OCTUBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0131.- SE REFORMA EL ARTÍCULO 64 EN SU FRACCIÓN I EL PÁRRAFO PRIMERO; Y ADICIONA AL MISMO ARTÍCULO 64 EN SU FRACCIÓN I CUATRO PÁRRAFOS, DE LA LEY DE HACIENDA PARA EL ESTADO SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. Una vez publicado este Decreto en el Periódico Oficial del Estado "Plan de San Luis", no se proporcionarán placas, tarjetas de circulación ni calcomanías a vehículos de motor, cuando los propietarios tengan adeudos con el fisco de vehículos inscritos en el padrón vehicular estatal, hasta que éstos hayan sido cubiertos. Corresponderá a la Secretaría de Finanzas de Gobierno del Estado, fijar los requisitos y lineamientos para que los contribuyentes puedan regularizar sus adeudos.
