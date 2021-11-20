@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-137131"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-02"
-last_updated: "2019-07-02"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE NOVIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 2 de julio de 2019.
 
@@ -43,9 +45,11 @@ LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social y tiene por objeto regular el ejercicio de la función notarial, que originariamente corresponde al Ejecutivo del Estado, quién por delegación la encomienda a profesionales del derecho, investidos de fe pública, independientes e imparciales, para que en virtud de la patente o nombramiento que se les otorga, la desempeñen en los términos de esta ley.
+La presente ley es de orden público e interés social y tiene por objeto regular el ejercicio de la función notarial, que originariamente corresponde al Estado mismo, quien, por conducto del Titular del Poder Ejecutivo, encomienda a particulares, profesionales del derecho, investidos de fe pública, independientes e imparciales, para que en virtud de la patente o nombramiento que se les otorga, la desempeñen en los términos de esta ley.
 
 ###### Artículo 2.
 
@@ -151,9 +155,7 @@ Los actos y contratos celebrados en presencia del Notario Público y dentro de s
 
 ###### Artículo 10.
 
-Los Notarios Públicos Titulares del Estado, podrán permutar entre sí sus respectivas Notarías cuando se trate de diferente adscripción territorial, intercambiando su respectivo número de Notaría y el protocolo respectivo.
-
-La permuta de las Notarías a que alude el párrafo anterior deberá ser autorizada por el Titular del Poder Ejecutivo a través de la Secretaría de Gobierno, derivado del análisis que de la misma realice, pudiendo determinarse la autorización o la negación de la misma. En el caso de autorizar la permuta, el Titular del Poder Ejecutivo a través de la Secretaría de Gobierno, expedirá las patentes respectivas, mismas que deberá publicar en un término no mayor a treinta días hábiles en el Periódico Oficial previo pago de los derechos correspondientes a cargo de los Notarios Públicos interesados.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 11.
 
@@ -281,7 +283,9 @@ V.- Brindar consultas jurídicas;
 
 VI.- Patrocinar a los interesados en los procedimientos judiciales o administrativos, necesarios para el otorgamiento, registro y trámite fiscal de los instrumentos en que intervenga;
 
-VII.- Desempeñar cargos públicos, previos los requisitos de ley;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+VII. Desempeñar cargos públicos o comisiones públicas, conforme a las disposiciones señaladas en el presente ordenamiento;
 
 VIII.- Redactar contratos privados u otros;
 
@@ -295,13 +299,15 @@ XI.- Todas las demás análogas conforme a esta ley y otras disposiciones de ord
 
 ### CAPÍTULO PRIMERO. LAS INSTITUCIONES DEL NOTARIADO
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-En el Estado de Quintana Roo conforme a esta ley, existen las figuras jurídicas de Aspirante al ejercicio del Notariado, Notario Público Titular, Auxiliar y Suplente.
+En el Estado de Quintana Roo conforme a esta ley, existen las figuras jurídicas de Notario Público Titular, Auxiliar y Suplente.
 
 ###### Artículo 24.
 
-Aspirante al Ejercicio del Notariado, es el profesional del derecho que recibe del Poder Ejecutivo del Estado, el nombramiento conforme a lo señalado en la presente ley.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 25.
 
@@ -315,161 +321,171 @@ Notario Público Auxiliar, es el profesional del derecho que recibe del Ejecutiv
 
 Notario Suplente es el profesional del derecho que recibe del Ejecutivo del Estado nombramiento para ejercer la función notarial en casos de falta temporal de los notarios titulares en los términos de la presente ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ### CAPÍTULO SEGUNDO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
 ###### Artículo 28.
 
-Para ser Aspirante al Ejercicio del Notariado, el interesado deberá satisfacer los siguientes requisitos:
-
-I.- Ser de nacionalidad mexicana y tener treinta años de edad, a la fecha de la presentación del examen;
-
-II.- Tener residencia en el Estado de cuando menos cinco años ininterrumpidos, anteriores a la fecha de su solicitud de examen;
-
-III.- Tener Título de Licenciado en Derecho o Abogado, acreditar cuando menos cinco años de ejercicio profesional contados a partir de la fecha de expedición de su Cédula Profesional y acreditar cuando menos veinticuatro meses de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario Titular del Estado de Quintana Roo;
-
-IV.- No tener vicios de embriaguez, drogadicción o de juegos de azar, y gozar de buena reputación personal y profesional;
-
-V.- No tener enfermedad crónica que impida el ejercicio de sus facultades mentales, ni impedimento físico que se oponga a las funciones de Notario;
-
-VI.- No haber sido declarado en quiebra o sujeto a concurso, sin haber sido rehabilitado o declarado inocente;
-
-VII.- Estar en el ejercicio de sus derechos políticos y civiles;
-
-VIII.- No ser ministro de algún culto religioso;
-
-IX.- No haber sido separado del ejercicio del Notariado en alguna entidad federativa, con causa justificada, ni haber sido sancionado administrativamente con motivo de algún cargo de Notario Suplente o Auxiliar;
-
-(NOTA: EL 15 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-X.- NO HABER SIDO CONDENADO NI ESTAR BAJO PROCESO PENAL POR DELITO DOLOSO, NI HABER SIDO SENTENCIADO EN MATERIA CIVIL EN JUICIO DE CARÁCTER PATRIMONIAL;
-
-XI.- Solicitar, presentar y aprobar, con un mínimo de 75 puntos en una escala del 0 al 100, el examen teórico-práctico ante el jurado que se integre para tal efecto;
-
-XII.- Expresar su sometimiento a lo inapelable del fallo del jurado;
-
-XIII.- Pagar los derechos que señale la autoridad fiscal competente;
-
-XIV.- Declarar bajo protesta de decir verdad que no es y no se encuentra desempeñando funciones de Notario Público o de Corredor Público o de cualquier otra figura investida de fe pública notarial o mercantil, en cualquier entidad federativa del país. Lo anterior, con excepción de los notarios auxiliares, y
-
-XV.- No ser o no haber sido Secretario de Despacho dependiente del Ejecutivo, Diputado Local, Fiscal General del Estado, Titular de la Auditoría Superior del Estado, Magistrado del Tribunal Superior de Justicia, Magistrado del Tribunal de Justicia Administrativa del Estado, Juez, Miembro de algún Ayuntamiento de la entidad, dirigente de un Partido Político, ni servidor público que por la naturaleza de su función, empleo, cargo o comisión, maneje o tenga bajo su resguardo, custodia o disposición de recursos públicos de carácter económico o financiero pertenecientes a los Poderes del Estado, organismos constitucionalmente autónomos o a la administración pública en el Estado, durante el año anterior a la presentación del examen.
-
-En la práctica notarial que se menciona en la Fracción III el interesado solicitante estará bajo la dirección y responsabilidad del titular de la Notaría Pública quien sólo podrá tener bajo dicha responsabilidad hasta dos interesados a la vez. Para tal efecto el Notario Público deberá dar aviso a la Dirección General de Notarías y al Consejo de Notarios del inicio y terminación de la práctica.
-
-Para efectos de la fracción IX, se entenderá qué causa justificada se refiere a que la separación del Notario Público haya sido determinada por haber cometido delito doloso de acuerdo a la legislación penal correspondiente, y también, cuando haya incurrido en faltas administrativas que por su gravedad hubieran propiciado su separación en la función notarial.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 29.
 
-Los requisitos señalados en el artículo anterior se justificarán de conformidad con lo que disponga la convocatoria correspondiente.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 30.
 
-Ninguno de los requisitos que se fijan en los artículos anteriores es dispensable.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ### CAPÍTULO TERCERO. DE LA CONVOCATORIA PARA LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
 ###### Artículo 31.
 
-La Secretaría de Gobierno, cada dos años determinará la procedencia de realizar el examen para aspirantes al ejercicio del Notariado, siempre y cuando así lo solicitaren al menos cinco interesados en obtener el nombramiento correspondiente y atendiendo a factores de incremento de las operaciones relacionadas con la función notarial, conforme a las estadísticas proporcionadas por la Dirección General del Registro Público y de la Dirección General de Notarías.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
-Asimismo, la Secretaría de Gobierno tendrá en todo momento la facultad de realizar la convocatoria para el examen para aspirantes al ejercicio del Notariado, atendiendo hechos sobrevinientes al plazo estipulado en el párrafo anterior.
-
-Para lo anterior, la Secretaría de Gobierno, emitirá convocatoria que deberá ser publicada en el Periódico Oficial y en dos diarios de mayor circulación en el Estado.
-
-En dicha convocatoria se establecerán los términos y plazos, los requisitos conforme a la presente ley, que deberán cumplir los interesados, y demás información y condiciones para acceder al examen respectivo.
-
-Fenecido este término, dentro de los siguientes cinco días hábiles, la Secretaría de Gobierno solicitará, si así lo estimara conveniente, a las autoridades o a las instituciones que correspondan, los informes o constancias necesarios para verificar si los interesados satisfacen los requisitos establecidos en esta ley. La Secretaría de Gobierno deberá concluir la revisión y calificación de los citados expedientes dentro del término de veinte días hábiles contados a partir de haber fenecido el período de recepción de estos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ### CAPÍTULO CUARTO. PROCEDIMIENTO DE EXAMEN E INTEGRACIÓN DEL JURADO
 
 ###### Artículo 32.
 
-Al término del último período señalado en el artículo anterior y dentro de los siguientes diez días hábiles, la Secretaría de Gobierno notificará a quienes hayan reunido satisfactoriamente los requisitos exigidos por esta ley, para presentar el examen haciéndoles saber el día y la hora para su celebración, así como el lugar en que se llevará a cabo, indicando asimismo, los temas y bases en que versará dicho examen teórico-práctico y la calificación mínima aprobatoria, misma que no podrá ser inferior a 75 puntos en la escala de 0 a 100.
-
-El jurado para el examen de aspirante estará integrado conforme a la fracción III, inciso a) del artículo 42 de la presente ley.
-
-El citado examen deberá ser realizado a más tardar dentro de los treinta días hábiles siguientes, contados a partir de la fecha de la notificación de las personas que hayan reunido los requisitos para presentar el examen.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 33.
 
-El examen para obtener el nombramiento de Aspirante al Ejercicio del Notariado se realizará conforme a las bases siguientes:
-
-I.- Participarán los solicitantes que hayan sido aprobados por la Secretaría de Gobierno conforme al artículo anterior;
-
-II.- Las señaladas en las fracciones II, III inciso b), IV, y V del Articulo 42 de esta ley;
-
-III.- Los sustentantes que obtengan calificación reprobatoria inferior a 75 pero no inferior a 60 puntos, podrán presentar nuevo examen tan pronto exista una nueva convocatoria, siempre y cuando tuvieren satisfechos los requisitos previstos para solicitar inscripción al examen y hayan transcurrido por lo menos seis meses desde su reprobación, y
-
-IV.- Los sustentantes que obtengan una calificación inferior a 60 puntos, no podrán solicitar nuevo examen de aspirante al Ejercicio del Notariado, sino pasado un año a partir de su reprobación.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 34.
 
-El presidente del jurado, dentro de los diez días hábiles siguientes a la fecha de su firma, le entregará al Secretario de Gobierno un ejemplar del acta de calificación y le comunicará los nombres de quienes lo aprobaron para los efectos del otorgamiento y publicación de los nombramientos de Aspirante al Ejercicio del Notariado en el Periódico Oficial, previo pago de derechos correspondientes, realizado por los interesados.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ### CAPÍTULO QUINTO. NOMBRAMIENTO DE ASPIRANTE AL EJERCICIO DEL NOTARIADO
 
 ###### Artículo 35.
 
-El nombramiento de Aspirante al ejercicio del Notariado, emitido por el Titular del Poder Ejecutivo, deberá ser registrado en la Secretaría de Gobierno, en la Dirección General de Notarías y en el Libro de Registro de nombramientos de Aspirantes al ejercicio del Notariado del Consejo de Notarios, así como publicarlo en el Periódico Oficial.
-
-Tanto el nombramiento como la anotación en el Libro de Registros de nombramientos de Aspirantes al ejercicio del Notariado llevarán la fotografía del interesado, así como el lugar y la fecha de expedición de este.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 36.
 
-Es obligación de todo Aspirante al ejercicio del Notariado mantener su expediente personal actualizado así como sujetarse a los procesos de certificación que establezca la Secretaría de Gobierno, debiendo obtener de dicha autoridad, la Constancia de Acreditación respectiva en un original y tres copias certificadas; la primera que conservará en su expediente personal y las demás que deberán ser entregadas para su archivo y registro respectivo a la Dirección General de Notarías y al Consejo de Notarios, con el objeto de mantener vigente su nombramiento, así como sus datos de localización.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 37.
 
-Si después de extendido el nombramiento, resultare que, por causa superviniente, el aspirante estuviere sujeto a un impedimento o incapacidad para el desempeño de sus funciones notariales, quedará privado del derecho de contender por la Patente de Notario Titular o ser nombrado notario auxiliar o suplente.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2021)
 
 ### CAPÍTULO SEXTO. DE LOS NOTARIOS PÚBLICOS TITULARES
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
 Para obtener la patente de Notario Público Titular en los términos de esta ley, se requiere:
 
-I.- Tener nombramiento de Aspirante al ejercicio del Notariado debidamente obtenido, registrado y vigente en términos de esta ley, y
+I. Ser de nacionalidad mexicana y tener veintiocho años de edad, a la fecha de la presentación del examen;
 
-II.- Cumplir los requisitos señalados en el artículo 28 de esta ley.
+II. Tener residencia en el Estado de cuando menos cinco años ininterrumpidos, anteriores a la fecha de su solicitud de examen;
+
+III. Contar con título de Licenciado en Derecho o Abogado y cédula profesional, ambos expedidos legalmente, con antigüedad mínima de cuatro años contados a la fecha de la convocatoria, y acreditar cuando menos veinticuatro meses de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario Titular del Estado de Quintana Roo;
+
+IV. No tener vicios de embriaguez, drogadicción o de juegos de azar, y gozar de buena reputación personal y profesional;
+
+V. No tener enfermedad crónica que impida el ejercicio de sus facultades mentales, ni impedimento físico que se oponga a las funciones de Notario;
+
+VI. No haber sido declarado en quiebra o sujeto a concurso, sin haber sido rehabilitado o declarado inocente;
+
+VII. Estar en el ejercicio de sus derechos políticos y civiles;
+
+VIII. No ser ministro de algún culto religioso;
+
+IX. No haber sido separado del ejercicio del Notariado en alguna entidad federativa, con causa justificada, ni haber sido sancionado administrativamente con motivo de su actuación en el ejercicio del cargo como Notario Suplente o Auxiliar;
+
+X. Solicitar, presentar y aprobar, con un mínimo de 75 puntos en una escala del 0 al 100, el examen teórico-práctico ante el jurado que se integre para tal efecto;
+
+XI. Expresar su sometimiento a lo inapelable del fallo del jurado;
+
+XII. Pagar los derechos que señale la autoridad fiscal competente;
+
+XIII. Declarar bajo protesta de decir verdad que no es y no se encuentra desempeñando funciones de Notario Público o de Corredor Público o de cualquier otra figura investida de fe pública notarial o mercantil, en cualquier entidad federativa del país, y
+
+XIV. No ser o no haber sido Secretario de Despacho dependiente del Ejecutivo, Diputado Local, Fiscal General del Estado, Titular de la Auditoría Superior del Estado, Magistrado del Tribunal Superior de Justicia, Magistrado del Tribunal de Justicia Administrativa del Estado, Juez, miembro de algún Ayuntamiento de la entidad, dirigente de un Partido Político, ni servidor público que por la naturaleza de su función, empleo, cargo o comisión, maneje o tenga bajo su resguardo, custodia o disposición de recursos públicos de carácter económico o financiero pertenecientes a los Poderes del Estado, organismos constitucionalmente autónomos o a la administración pública estatal o municipal, durante el año anterior a la presentación del examen.
+
+En la práctica notarial que se menciona en la fracción III, el interesado solicitante estará bajo la dirección y responsabilidad del titular de la Notaría Pública quien sólo podrá tener bajo dicha responsabilidad hasta dos interesados a la vez.
+
+Para efectos de la fracción IX, se entenderá que causa justificada se refiere a que la separación del Notario Público haya sido determinada por haber cometido delito doloso de acuerdo a la legislación penal correspondiente, y también, cuando haya incurrido en faltas administrativas que por su gravedad hubieran propiciado su separación en la función notarial. Lo anterior, con excepción de los notarios auxiliares.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 39.
 
-Los requisitos señalados en la fracción II del artículo anterior se justificarán según lo dispuesto en el artículo 29 de esta ley.
+Los requisitos señalados en el artículo anterior se justificarán de conformidad con lo que disponga la convocatoria correspondiente.
 
 ###### Artículo 40.
 
 Ninguno de los requisitos que se fijan en los artículos anteriores es dispensable.
 
-### CAPÍTULO SÉPTIMO. REQUISITOS PARA EL INICIO DE LA ACTUACIÓN NOTARIAL
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO SEXTO BIS. DE LA CONVOCATORIA AL EXAMEN DE OPOSICIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 41.
 
-Cuando estuviere vacante una Notaría o cuando fuere creada una nueva por el Titular del Poder Ejecutivo del Estado en términos de esta ley, la Secretaría de Gobierno publicará un anuncio, por una vez en el Periódico Oficial y por dos veces, con intervalos de tres días hábiles, en uno de los periódicos de circulación estatal, convocando a los Aspirantes al Ejercicio del Notariado que pretendan obtener la patente de la Notaría vacante o de nueva creación, para que dentro del término de quince días hábiles, contados a partir de la última de las publicaciones referidas, presenten ante la Secretaría de Gobierno su expediente personal que incluya la respectiva solicitud por escrito al Titular del Poder Ejecutivo del Estado, así como los documentos o medios idóneos con los que acrediten los demás requisitos aplicables a que se refiere el Artículo 38 de esta ley debidamente actualizados, incluyendo una copia auténtica del nombramiento de Aspirante al Ejercicio del Notariado que se le hubiera expedido.
+Cuando estuviere vacante una Notaría o cuando fuere creada una nueva por el Titular del Poder Ejecutivo del Estado en términos de esta ley, la Secretaría de Gobierno publicará un anuncio, por una vez en el Periódico Oficial del Estado de Quintana Roo y por dos veces, con intervalos de tres días hábiles, en uno de Jos periódicos de circulación estatal, convocando a los interesados al ejercicio del notariado que pretendan obtener la patente de la Notaría vacante o de nueva creación, para que dentro del término de quince días hábiles, contados a partir de la última de las publicaciones referidas, presenten ante la Secretaría de Gobierno su expediente personal que incluya la respectiva solicitud por escrito al Titular del Poder Ejecutivo del Estado, así como los documentos o medios idóneos con Jos que acrediten los demás requisitos aplicables a que se refiere el Artículo 38 de esta ley debidamente actualizados.
 
 Fenecido este término, dentro de los siguientes cinco días hábiles, la Secretaría de Gobierno solicitará, si así lo estimara conveniente, a las autoridades o a las instituciones que correspondan, los informes o constancias necesarios para verificar si los interesados satisfacen los requisitos establecidos en esta ley. La Secretaría de Gobierno deberá concluir la revisión y calificación de los citados expedientes dentro del término de veinte días hábiles contados a partir de haber fenecido el período de recepción de los mismos.
 
 Al término de este último período, y dentro de los siguientes diez días hábiles, la Secretaría de Gobierno notificará a quienes hayan reunido satisfactoriamente los requisitos exigidos por esta ley para presentar el examen de oposición, haciéndoles saber el lugar, el día y la hora para su celebración.
 
-### CAPÍTULO PRIMERO. DE LOS NOTARIOS AUXILIARES
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 41 Bis.
+
+El jurado para el examen de oposición estará integrado por:
+
+I. Un Notario designado por el Ejecutivo del Estado, a través de la Secretaría de Gobierno, quien lo presidirá;
+
+II. Un Notario designado por el Magistrado Presidente del Tribunal Superior de Justicia, como Secretario, y
+
+III. Un Notario designado por el Presidente de la Mesa Directiva del Consejo de Notarios, quien desempeñará las funciones de Vocal.
+
+Si por cualquier razón estos dos últimos no designaren a nadie dentro del plazo de quince días naturales contados a partir del día siguiente al de la petición formal que se les hiciera, la designación de los Notarios para los cargos de Secretario y Vocal los efectuará la Secretaría de Gobierno.
+
+No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho práctica el sustentante, los parientes consanguíneos o afines de éste, dentro del tercer grado en línea recta o colateral o los que por cualquiera otra causa no pudieren actuar con imparcialidad.
+
+Si entre los designados para integrar el sínodo concurriere alguno de los impedidos por esta ley, deberá excusarse de intervenir en el examen.
+
+### CAPÍTULO SEXTO TER. DE LA INTEGRACIÓN DEL JURADO Y DEL PROCEDIMIENTO DE EXAMEN
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 42.
 
 El examen para obtener la patente de Notario Público Titular se realizará conforme a las bases siguientes:
 
-I.- Será un sólo examen por cada Notaría vacante o de nueva creación; en él participarán solo los Aspirantes al Ejercicio del Notariado; un mismo solicitante sólo podrá inscribirse a un sólo examen de oposición independientemente de que haya más de una Notaría vacante o de nueva creación y no podrá volver a presentar examen hasta transcurridos seis meses contados a partir de la fecha de su último examen;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+I. Será un sólo examen por cada Notaría vacante o de nueva creación; en él participarán solo los sustentantes que hayan cubierto todos los requisitos señalados en los artículos anteriores y fuesen notificados por la Secretaría de Gobierno; un mismo solicitante sólo podrá inscribirse a un sólo examen de oposición independientemente de que haya más de una Notaría vacante o de nueva creación y no podrá volver a presentar examen hasta transcurridos seis meses contados a partir de la fecha de su último examen;
 
 II.- El examen constará de dos pruebas, una teórica y una práctica. Al sustentante que no se presente oportunamente en alguna de las pruebas o desista antes de transcurrir el tiempo máximo de su entrega, se le tendrá por desistido también del examen;
 
 III.- La prueba práctica consistirá en la redacción de uno o más instrumentos notariales, atendiendo a lo siguiente:
 
-a) El jurado para el examen de oposición estará integrado por un Notario designado por el Ejecutivo del Estado que determine la Secretaría de Gobierno, quien lo presidirá; un Notario designado por el Pleno del Tribunal Superior de Justicia, como secretario y un Notario designado por la Mesa Directiva del Consejo de Notarios, quien desempeñará las funciones de vocal. Si por cualquier razón estos dos últimos no designaren a nadie dentro del plazo mínimo de quince días naturales que se les conceda para ello, entonces la designación la realizará el Secretario de Gobierno.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho práctica el sustentante, los parientes consanguíneos o afines de éste, dentro del tercer grado en línea recta o colateral o los que por cualquiera otra causa no pudieren actuar con imparcialidad.
+a) El jurado en sesión inmediatamente anterior a la celebración del examen y el mismo día, determinará como materia de la prueba práctica, cinco casos relacionados con diversos actos y negocios jurídicos de los que se formalizan en instrumentos notariales; dichos casos se colocarán por separado en sobres cerrados, firmados por los miembros del propio jurado y en su presencia, alguno de los sustentantes escogido al azar, elegirá uno de los sobres que contienen los temas, debiendo todos los participantes desarrollar el que se haya seleccionado. El Consejo de Notarios podrá, durante el mes de enero de cada año, proporcionarle a la Secretaría de Gobierno un temario de todos los casos que estime apropiados para la prueba práctica, el cual será publicado en el Periódico Oficial del Estado de Quintana Roo;
 
-Si entre los designados para integrar el sínodo concurriere alguno de los impedidos por esta ley, deberá excusarse de intervenir en el examen;
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-b) El jurado en sesión inmediatamente anterior a la celebración del examen y el mismo día, determinará como materia de la prueba práctica, cinco casos relacionados con diversos actos y negocios jurídicos de los que se formalizan en instrumentos notariales; dichos casos se colocarán por separado en sobres cerrados, firmados por los miembros del propio jurado y en su presencia, alguno de los sustentantes escogido al azar, elegirá uno de los sobres que contienen los temas, debiendo todos los participantes desarrollar el que se haya seleccionado. El Consejo de Notarios podrá, durante el mes de enero de cada año, proporcionarle a la Secretaría de Gobierno un temario de todos los casos que estime apropiados para la prueba práctica, el cual será publicado en el Periódico Oficial;
+b) La prueba práctica se desahogará bajo la vigilancia de al menos un representante de la Secretaría de Gobierno, pudiendo auxiliarse los sustentantes, si así lo desean, de un mecanógrafo que no sea Licenciado en Derecho, Abogado o cualquier otro que tenga estudios en esta materia; el sustentante únicamente podrá estar provisto de leyes y libros de consulta necesarios. El o los vigilantes deberán comunicar por separado o conjuntamente al jurado, con copia a la autoridad competente, las irregularidades que hubiere percibido durante el desarrollo de esta prueba. Si a juicio del jurado, dichas irregularidades no impiden la continuación del examen, para esos efectos se tendrán por no hechas y no cuestionarán ni afectarán el resultado del mismo, y
 
-c) La prueba práctica se desahogará bajo la vigilancia de al menos un representante de la Secretaría de Gobierno, pudiendo auxiliarse los sustentantes, si así lo desean, de un mecanógrafo que no sea Licenciado en Derecho, Abogado o cualquier otro que tenga estudios en esta materia; el sustentante únicamente podrá estar provisto de leyes y libros de consulta necesarios. El o los vigilantes deberán comunicar por separado o conjuntamente al jurado, con copia a la autoridad competente, las irregularidades que hubiere percibido durante el desarrollo de esta prueba. Si a juicio del jurado, dichas irregularidades no impiden la continuación del examen, para esos efectos se tendrán por no hechas y no cuestionarán ni afectarán el resultado del mismo, y
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+c) Todos los sustentantes dispondrán de cinco horas continuas para la redacción del o de los instrumentos notariales, al término de las cuales el jurado recogerá los exámenes, mismos que serán firmados al margen o calce de cada hoja que los integren por el respectivo sustentante y por todos los miembros del jurado, colocándose cada uno de ellos en sobre que será cerrado y que quedará en resguardo del presidente del jurado.
 
 d) Todos los sustentantes dispondrán de cinco horas continuas para la redacción del o de los instrumentos notariales, al término de las cuales el jurado recogerá los exámenes, mismos que serán firmados al margen o calce de cada hoja que los integren por el respectivo sustentante y por todos los miembros del jurado, colocándose cada uno de ellos en sobre que será cerrado y que quedará en resguardo del presidente del jurado.
 
@@ -515,7 +531,7 @@ III.- El lugar y la fecha de la expedición, y
 
 IV.- La fotografía del Notario, así como su firma. La fotografía deberá cancelarse con el sello del Poder Ejecutivo.
 
-### CAPÍTULO SEGUNDO. DE LOS NOTARIOS SUPLENTES
+### CAPÍTULO SÉPTIMO. REQUISITOS PARA EL INICIO DE LA ACTUACIÓN NOTARIAL
 
 ###### Artículo 46.
 
@@ -549,11 +565,13 @@ Cumplidos los requisitos señalados en el artículo 46 de la presente ley, la Se
 
 ## TÍTULO CUARTO. DE LOS NOTARIOS AUXILIARES Y SUPLENTES
 
-### CAPÍTULO ÚNICO. DEL SELLO
+### CAPÍTULO PRIMERO. DE LOS NOTARIOS AUXILIARES
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 50.
 
-Cuando un Notario Público Titular hubiere cumplido 10 años de ejercer la función notarial en el Estado, tendrá derecho a proponer un Notario Auxiliar, de entre los que hayan obtenido el nombramiento de Aspirante al Ejercicio del Notariado. El nombramiento de Notario Auxiliar, lo extenderá el Titular del Poder Ejecutivo del Estado, a partir del análisis que realice y a solicitud del Notario Titular, previa opinión del Consejo de Notarios.
+El Notario Público Titular, tendrá derecho a proponer un Notario Auxiliar, quien deberá reunir los mismos requisitos establecidos para ser Titular establecidos en el artículo 38 de la presente ley, con excepción de la fracción XI. El nombramiento de Notario Auxiliar, lo extenderá el Titular del Poder Ejecutivo del Estado, a partir del análisis que realice y a solicitud del Notario Titular.
 
 ###### Artículo 51.
 
@@ -567,35 +585,45 @@ El Notario Auxiliar actuará en el protocolo y con el sello del Titular, haciend
 
 El Notario Titular tiene en todo tiempo el derecho de solicitar del Gobernador del Estado, por conducto de la Secretaría de Gobierno, la revocación del nombramiento de su Auxiliar quien por ese sólo hecho, dejará de actuar como Notario, a partir de la notificación del acuerdo de la cancelación respectiva.
 
-Asimismo, se establece en la presente ley, que el Notario Público Titular, será responsable solidario del Notario Público Auxiliar y responderá en todo tiempo por lo que éste último realice en el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO PRIMERO. DEL PROTOCOLO DE ESCRITURAS Y ACTAS
+Asimismo, se establece en la presente ley, que el Notario Público Titular, será responsable solidario de las actuaciones que como fedatario haya realizado el Notario Público Auxiliar, y responderá en todo tiempo por lo que éste último realice en el ejercicio de sus funciones.
+
+### CAPÍTULO SEGUNDO. DE LOS NOTARIOS SUPLENTES
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 54.
 
-Los Notarios Públicos Titulares, con una antigüedad mínima de 5 años en el ejercicio de sus funciones tienen derecho de proponer al Ejecutivo del Estado, el nombramiento de un Notario Suplente en los términos de la presente ley.
+Los Notarios Públicos Titulares, en el ejercicio de sus funciones tienen derecho de proponer al Ejecutivo del Estado, el nombramiento de un Notario Suplente en los términos de la presente ley.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 55.
 
-Para que pueda obtenerse el nombramiento de Notario Suplente de una Notaría Pública, deberá contar con el respectivo nombramiento de Aspirante al Ejercicio del Notariado y cubrir los requisitos previstos en esta ley.
+Para que pueda obtenerse el nombramiento de Notario Suplente de una Notaría, será necesario cumplir con los requisitos establecidos en el artículo 38 de esta ley.
 
 ###### Artículo 56.
 
 El Notario Suplente sustituirá al Notario Titular, en las ausencias de más de treinta días naturales, como lo establece la presente ley.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 57.
 
-El período máximo en el que el Notario Suplente sustituya al Notario Titular no podrá exceder de un año consecutivo.
+El período máximo en el que el Notario Suplente sustituya al Notario Titular no podrá exceder de un año.
 
-Sin embargo, la suplencia podrá exceder del término de un año, en casos de enfermedad o licencia del Notario Titular para desempeñar un cargo de elección popular, o designado para la Judicatura o para desempeñar un cargo o comisión públicos a nivel de Dirección General o superior; pero si por la causa primera indicada, la ausencia de aquél sobrepasare de un año, el Notario Suplente adquirirá el carácter de Notario Auxiliar a solicitud del Notario Titular, sólo si éste ya tiene una antigüedad como Notario titular de más de 10 años. En el segundo caso la propia Secretaría de Gobierno, otorgará al Notario, licencia renunciable por el tiempo que dure en el desempeño del cargo o función públicos antes señalados.
+Sin embargo, la suplencia podrá exceder del término de un año, en casos de enfermedad o licencia del Notario Titular para desempeñar un cargo de elección popular, o designado para la Judicatura o para desempeñar un cargo o comisión públicos a nivel de Dirección General o superior; pero si por la causa primera indicada, la ausencia de aquél sobrepasare de un año, el Notario Suplente adquirirá el carácter de Notario Auxiliar a solicitud del Notario Titular. En este último supuesto la propia Secretaría de Gobierno, otorgará al Notario, licencia renunciable por el tiempo que dure en el desempeño del cargo o función públicos antes señalados.
 
 ###### Artículo 58.
 
 El Notario Titular que no tenga Notario Auxiliar o Notario Suplente, podrá celebrar un convenio con otro Notario Titular que se encuentre en igual situación para suplirse recíprocamente en sus faltas temporales; si no lo celebrare, el Ejecutivo del Estado, designará al Notario que lo suplirá, escogiéndolo de entre cualquiera otro de los Notarios Titulares.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 59.
 
-El Notario Titular que hubiere sido designado para suplir a otro, no podrá serlo de alguno de los demás de manera simultánea.
+El Notario Titular que hubiere sido designado para suplir a otro, mediante convenio de suplencia, no podrá serlo de alguno de los demás de manera simultánea.
 
 ###### Artículo 60.
 
@@ -607,11 +635,15 @@ La publicación será hecha previo pago de derechos correspondientes por los int
 
 ## TÍTULO QUINTO. DEL SELLO DE AUTORIZAR
 
-### CAPÍTULO SEGUNDO. DEL PROTOCOLO DE ACTAS DE COTEJOS Y CERTIFICACIONES
+### CAPÍTULO ÚNICO. DEL SELLO
 
 ###### Artículo 62.
 
 El sello de cada Notario será en forma circular, con diámetro de cuatro centímetros, con el escudo nacional en el centro, e inscrito en rededor el nombre y apellidos del Notario, número de la Notaría y la adscripción territorial que corresponda.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+El sello será autorizado y proveído únicamente por el Estado, a través de la Secretaría de Gobierno, a costa del Notario.
 
 ###### Artículo 63.
 
@@ -629,7 +661,7 @@ En el supuesto del párrafo anterior, el Notario deberá presentar el sello en u
 
 ## TÍTULO SEXTO. DEL PROTOCOLO
 
-### CAPÍTULO TERCERO. DE LOS APÉNDICES
+### CAPÍTULO PRIMERO. DEL PROTOCOLO DE ESCRITURAS Y ACTAS
 
 ###### Artículo 66.
 
@@ -661,6 +693,10 @@ El protocolo, escrituras y actas en particular sólo se mostrarán a quienes hay
 
 Los folios que forman el protocolo son aquellas hojas que deben cumplir lo señalado en el artículo 74 de esta ley y que constituyen la papelería oficial que el Notario usa para ejercer la función notarial. Para efectos del presente capítulo, son la base material del instrumento notarial. Los instrumentos que integren el protocolo deberán constar además en archivo electrónico, reproducción digitalizada o cualquier otra tecnología, que será agregada como anexo del protocolo al momento de su entrega al Archivo General de Notarías.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Los Notarios tendrán la obligación de entregar, a través de cualquier dispositivo electrónico, dentro de los primeros treinta días naturales del año, el archivo electrónico que contenga la reproducción digitalizada de todos los folios autorizados durante el año inmediato anterior.
+
 ###### Artículo 72.
 
 Los instrumentos notariales, folios, libros y apéndices que integren el protocolo, deberán ser asentados y numerados en orden progresivo y cronológico. A los instrumentos notariales se les antepondrá al número que les corresponda, las palabras “Protocolo Abierto” o su abreviatura “P.A.”, sin que la numeración se interrumpa por los cambios de Notario o cuando no pase alguna de ellas.
@@ -669,13 +705,19 @@ Los tomos estarán integrados por doscientos folios utilizables en ambas caras. 
 
 No se escribirán más de cuarenta líneas en cada hoja de los folios.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 73.
 
-Los Notarios a su costa obtendrán los folios que pasarán a formar parte del protocolo a su cargo y deberán solicitar por escrito a la Secretaría de Gobierno, la autorización de los folios necesarios para asentar los instrumentos notariales que se otorguen ante su fe. La Secretaría de Gobierno, autorizará hasta el número de folios que integren cinco tomos, en cada ocasión, misma solicitud que deberá realizarse a través de la Dirección General de Notarías, la cual una vez verificado que los folios cumplen con los requisitos establecidos por esta ley, la turnará a la Secretaría de Gobierno.
+Los Notarios, previa solicitud por escrito y pago de derechos correspondientes, obtendrán de la Secretaría de Gobierno, los folios que serán parte del protocolo a su cargo; los Notarios, deberán solicitar la autorización de dichos folios para asentar los instrumentos notariales que se otorguen ante su fe. Ambas solicitudes deberán realizarse a través de la Dirección General de Notarías, la cual una vez verificado que los folios cumplen con los requisitos establecidos por esta ley, las turnará a la Secretaría de Gobierno.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 74.
 
-Los folios en que se asienten los instrumentos notariales serán uniformes y de color verde, de treinta y cuatro centímetros de largo por veintitrés y medio de ancho, con margen de un centímetro y medio en su orilla externa, los folios deberán llevar impreso el nombre y apellidos del Notario, el número de la Notaría a su cargo y el escudo del Estado de Quintana Roo. A la numeración progresiva de cada folio se antepondrá el número de la Notaría en la cual serán utilizados.
+Los folios en que se asienten los instrumentos notariales serán uniformes y de color verde, de treinta y cuatro centímetros de largo por veintitrés y medio de ancho, con margen de un centímetro y medio en su orilla derecha, cuatro centímetros y medio en su orilla izquierda y diecisiete centímetros y medio en su parte utilizable, los folios deberán llevar impreso el nombre y apellidos del Notario, el número de la Notaría a su cargo y el escudo del Estado de Quintana Roo. A la numeración progresiva de cada folio se antepondrá el número de la Notaría en la cual serán utilizados.
+
+Los folios serán proveídos únicamente por el Estado, a través de la Secretaría de Gobierno, previo pago de los derechos correspondientes a costa del Notario.
 
 ###### Artículo 75.
 
@@ -687,7 +729,9 @@ La hoja en que conste esta razón deberá encuadernarse al principio del primer 
 
 Al iniciar la formación de un libro, el Notario hará constar en una hoja sin numerar, una razón con la fecha en que se inicia, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en su Notaría y la mención de que el libro se formará con los instrumentos autorizados y los no autorizados por el Notario o por quien legalmente lo sustituya.
 
-La hoja en la que se asiente la razón citada se encuadernará antes de la primera hoja foliada del libro con el que se inicia el volumen que corresponda y después de la autorización de la Secretaría de Gobierno.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+La hoja en la que se asiente la razón citada se encuadernará antes de la primera hoja foliada del tomo con el que se inicia el volumen que corresponda y en su caso, después de la autorización de la Secretaría de Gobierno.
 
 ###### Artículo 77.
 
@@ -721,7 +765,7 @@ En caso de pérdida o destrucción parcial o total de un apéndice, se proceder�
 
 El procedimiento se seguirá sin perjuicio de la responsabilidad del Notario derivada de la pérdida o destrucción de los folios, libros o apéndices.
 
-### CAPÍTULO CUARTO. DEL ÍNDICE
+### CAPÍTULO SEGUNDO. DEL PROTOCOLO DE ACTAS DE COTEJOS Y CERTIFICACIONES
 
 ###### Artículo 82.
 
@@ -743,7 +787,7 @@ El Notario deberá llevar un apéndice que se ordenará en forma progresiva el c
 
 Le serán aplicables las disposiciones de la presente ley que regulan los apéndices.
 
-### CAPÍTULO PRIMERO. DE LOS INSTRUMENTOS NOTARIALES
+### CAPÍTULO TERCERO. DE LOS APÉNDICES
 
 ###### Artículo 83.
 
@@ -761,7 +805,7 @@ Asimismo, los apéndices que sean entregados a la Dirección General de Notaría
 
 Efectuado lo anterior, la Dirección General de Notarías, integrará un sistema de archivos electrónicos de apéndices que servirá de soporte al Archivo General de Notarías. Los documentos que provengan de tal archivo podrán ser expedidos de forma certificada y previo pago de derechos correspondientes por los interesados, en un medio electrónico o mediante impresión física, con las medidas de seguridad dispuestas, teniendo el valor jurídico de todo documento con firmas autógrafas.
 
-### CAPÍTULO SEGUNDO. DE LAS ESCRITURAS
+### CAPÍTULO CUARTO. DEL ÍNDICE
 
 ###### Artículo 85.
 
@@ -785,7 +829,7 @@ Dicho índice deberá de entregarse de manera trimestral a la Dirección General
 
 ## TÍTULO SÉPTIMO. LA ACTUACIÓN NOTARIAL
 
-### CAPÍTULO TERCERO. DE LAS ACTAS
+### CAPÍTULO PRIMERO. DE LOS INSTRUMENTOS NOTARIALES
 
 ###### Artículo 86.
 
@@ -793,7 +837,7 @@ El instrumento notarial es el documento original que el Notario redacta y asient
 
 Los instrumentos notariales estarán integrados por escrituras o por actas, en términos de los artículos siguientes.
 
-### CAPÍTULO CUARTO. DE LOS TESTIMONIOS
+### CAPÍTULO SEGUNDO. DE LAS ESCRITURAS
 
 ###### Artículo 87.
 
@@ -819,7 +863,9 @@ Para el caso de lo dispuesto en el presente artículo, al salvar y testar una es
 
 El Notario redactará las escrituras en español, sin perjuicio de que pueda asentar palabras en otro idioma, que sean generalmente usadas como términos de ciencia o arte determinados, y observará las reglas siguientes:
 
-I.- Expresará en el proemio el lugar y fecha en que se asiente la escritura, su nombre y apellidos, el número de la Notaría, su calidad de Titular, Auxiliar o Suplente, el acto o actos contenidos y el nombre del o de los otorgantes y el de sus representados y demás comparecientes, en su caso;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+I.- Expresará en el proemio el lugar y fecha en que se asiente la escritura, su nombre y apellidos, el número de la Notaría a su cargo, su calidad de Titular, Auxiliar o Suplente, el acto o actos contenidos y el nombre del o de los otorgantes y el de sus representados y demás comparecientes, en su caso;
 
 II.- Indicará la hora en los casos en que la ley así lo ordene y cuando a su juicio sea pertinente;
 
@@ -963,7 +1009,7 @@ Cuando se trate de revocación o renuncia de un poder que no haya sido extendido
 
 Cuando se revoque, rescinda o modifique un acto contenido en una escritura, al Notario le está prohibido hacerlo constar por simple razón al margen de ella. En estos casos, salvo prohibición expresa de la ley, deberá extender una nueva escritura.
 
-### CAPÍTULO ÚNICO. DE LOS TESTAMENTOS Y LOS PODERES NOTARIALES
+### CAPÍTULO TERCERO. DE LAS ACTAS
 
 ###### Artículo 107.
 
@@ -987,9 +1033,17 @@ IV.- Cotejo y entrega de documentos;
 
 V.- Declaraciones de una o más personas que, bajo protesta de decir verdad, efectúen respecto de hechos que les consten, propios o de quien solicite la diligencia;
 
-VI.- Protocolizaciones en general. Cuando se trate de actas o documentos que se levanten con motivo de reuniones o asambleas, tratándose de personas morales, se relacionarán únicamente, sin necesidad de transcribir, los antecedentes que sean necesarios a juicio del Notario para acreditar su legal constitución y existencia, así como la validez y eficacia de los acuerdos respectivos, de conformidad con su régimen legal y estatutos vigentes, según los documentos que se le exhiban al Notario. El Notario, podrá transcribir los antecedentes que a su juicio considere pertinentes, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-VII.- En general, toda clase de hechos positivos o negativos, estados y situaciones, que guarden las personas y cosas que puedan ser apreciados objetivamente y relacionados por el Notario.
+VI.- Protocolizaciones en general. Cuando se trate de actas o documentos que se levanten con motivo de reuniones o asambleas, tratándose de personas morales, se relacionarán únicamente, sin necesidad de transcribir, los antecedentes que sean necesarios a juicio del Notario para acreditar su legal constitución y existencia, así como la validez y eficacia de los acuerdos respectivos, de conformidad con su régimen legal y estatutos vigentes, según los documentos que se le exhiban al Notario. El Notario, podrá transcribir los antecedentes que a su juicio considere pertinentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+VII.- Divorcios administrativos, y
+
+> <small>(ADICIONADA [N. D E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+VIII.- En general, toda clase de hechos positivos o negativos, estados y situaciones, que guarden las personas y cosas que puedan ser apreciados objetivamente y relacionados por el Notario.
 
 ###### Artículo 110.
 
@@ -1031,7 +1085,7 @@ III.- La relación sucinta de un acto o hecho, o de uno de sus elementos o circu
 
 IV.- La razón de existencia de uno o varios documentos que se le exhiban, para acreditar la personalidad de los otorgantes o interesados en una escritura o acta que el Notario asiente en la reproducción total o parcial, lo que será suficiente para dejar acreditada dicha personalidad; bastando para ello relacionar en la escritura o acta respectiva, el número y fecha de la escritura cuyo testimonio o copia se le exhiba, y el nombre y el número del Notario ante quien se haya otorgado, o la autoridad y procedimiento de que se deriven, en caso de ser copias certificadas expedidas respecto de constancias de algún procedimiento judicial. En los casos de que la certificación se expida por solicitud de autoridad, se deberá hacer constar, tanto en nota complementaria como en la razón de certificación respectiva, la autoridad que ordenó el informe o expedición de la copia, del expediente en que ella actúa y el número y fecha del oficio correspondiente. Igualmente, podrá hacer constar en nota complementaria y agregar al apéndice la copia de la comunicación mediante la cual haya sido enviada la copia certificada a la autoridad respectiva. Toda certificación será autorizada por el Notario con su firma y sello.
 
-### CAPÍTULO ÚNICO. DE LOS DOCUMENTOS NOTARIALES
+### CAPÍTULO CUARTO. DE LOS TESTIMONIOS
 
 ###### Artículo 116.
 
@@ -1043,9 +1097,11 @@ Al final de cada testimonio se hará constar si es el primero, segundo o ulterio
 
 El Notario deberá expedir el testimonio con su firma y sello, e instruir a las partes acerca del monto de las cargas y obligaciones fiscales derivados del acto o contrato respectivo.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 118.
 
-Las hojas del testimonio tendrán las mismas dimensiones que las del protocolo en su parte utilizable y llevarán a cada lado un margen de una octava parte de la hoja. Irán numeradas progresivamente; en el margen superior derecho todas llevarán el sello del Notario, quien estampará su rúbrica sobre el mismo, estampando al final de la última hoja que lo integre, su firma y sello. En las citadas hojas del testimonio solo se podrá escribir en un máximo de cuarenta renglones.
+Las hojas del testimonio tendrán las mismas dimensiones que las del protocolo en su parte utilizable y llevarán a cada lado un margen de tres centímetros. Irán numeradas progresivamente; en el margen superior derecho todas llevarán el sello del Notario, quien estampará su rúbrica sobre el mismo, estampando al final de la última hoja que lo integre, su firma y sello. En las citadas hojas del testimonio solo se podrá escribir en un máximo de cuarenta renglones.
 
 ###### Artículo 119.
 
@@ -1065,7 +1121,7 @@ El Notario, tramitará ante el Registro Público la inscripción de cualquiera d
 
 ## TÍTULO OCTAVO. TESTAMENTOS Y PODERES NOTARIALES
 
-### CAPÍTULO ÚNICO. NORMAS NOTARIALES DE TRAMITACIÓN SUCESORIA
+### CAPÍTULO ÚNICO. DE LOS TESTAMENTOS Y LOS PODERES NOTARIALES
 
 ###### Artículo 122.
 
@@ -1133,7 +1189,7 @@ Respecto de los poderes para actos de administración y para pleitos y cobranzas
 
 ## TÍTULO NOVENO. EL VALOR JURÍDICO DE LOS DOCUMENTOS NOTARIALES
 
-### CAPÍTULO PRIMERO. SEPARACIÓN TEMPORAL DE FUNCIONES
+### CAPÍTULO ÚNICO. DE LOS DOCUMENTOS NOTARIALES
 
 ###### Artículo 127.
 
@@ -1201,7 +1257,7 @@ III.- Cuando carezca de la firma y sello del Notario en términos de esta ley.
 
 ## TÍTULO DÉCIMO. LA TRAMITACIÓN SUCESORIA ANTE NOTARIO PÚBLICO
 
-### CAPÍTULO SEGUNDO. SUSPENSIÓN DE LA FUNCIÓN NOTARIAL
+### CAPÍTULO ÚNICO. NORMAS NOTARIALES DE TRAMITACIÓN SUCESORIA
 
 ###### Artículo 135.
 
@@ -1269,7 +1325,7 @@ En caso de testamento público simplificado, los legatarios instituidos exhibir�
 
 ## TÍTULO DÉCIMO PRIMERO. SEPARACIÓN, SUSPENSIÓN Y TERMINACIÓN DE LA FUNCIÓN NOTARIAL
 
-### CAPÍTULO TERCERO. DE LA TERMINACIÓN DE LA FUNCIÓN NOTARIAL
+### CAPÍTULO PRIMERO. SEPARACIÓN TEMPORAL DE FUNCIONES
 
 ###### Artículo 147.
 
@@ -1277,7 +1333,9 @@ El Notario Público Titular podrá separarse temporalmente de sus funciones, en 
 
 I.- Hasta por treinta días naturales renunciables y consecutivos cada seis meses, previo aviso que por escrito se dé a la Secretaría de Gobierno y a la Dirección General de Notarías, y
 
-II.- El Notario Público Titular con una antigüedad mínima de cinco años en el ejercicio de sus funciones tiene derecho a solicitar y obtener de la Secretaría de Gobierno una licencia para separarse de ellas hasta por el término de un año renunciable y será sustituido en sus funciones por su Suplente. Salvo causa justificada, no se concederá nueva licencia al Notario que no hubiere actuado ininterrumpidamente por tres años a partir del vencimiento de la anterior licencia.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+II.- El Notario Público Titular en el ejercicio de sus funciones tiene derecho a solicitar y obtener de la Secretaría de Gobierno una licencia para separarse de ellas hasta por el término de un año renunciable y será sustituido en sus funciones por su Suplente.
 
 La suplencia podrá exceder del término fijado en el párrafo anterior, en los casos y términos señalados en el artículo 57 de esta propia ley.
 
@@ -1293,23 +1351,29 @@ La Secretaría de Gobierno por conducto de su titular concederá licencia, por t
 
 En cualquiera de las ausencias temporales anteriores, los Notarios Públicos Titulares podrán, si lo estiman conveniente, celebrar convenios de suplencia hasta con tres de ellos y comunicar su suscripción a la Secretaría de Gobierno, a la Dirección General de Notarías y al Consejo de Notarios. Mientras subsista un convenio de suplencia, los notarios que lo celebraron podrán suplirse entre sí y no podrán suplir a otro Notario. En los convenios respectivos se determinará el orden para el ejercicio de la suplencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 151.
 
-Para suplirlo en cualquiera de las ausencias temporales previstas en los artículos 147 y 149 anteriores, el Notario Público Titular que no tenga convenio de suplencia con otro Notario Público Titular, podrá en cualquier momento proponerle por escrito al Ejecutivo del Estado como su Notario Suplente a cualquier Aspirante al Ejercicio del Notariado de acuerdo con el siguiente procedimiento:
+Para suplirlo en cualquiera de las ausencias temporales previstas en los artículos 147 y 149 anteriores, el Notario Público Titular que no tenga convenio de suplencia con otro Notario Público Titular, podrá en cualquier momento proponerle por escrito al Ejecutivo del Estado como su Notario Suplente a cualquier Licenciado en Derecho o Abogado que cumpla los requisitos señalados en esta ley de acuerdo con el siguiente procedimiento:
 
-En un término de quince días hábiles contados a partir de la recepción de la solicitud escrita, el Titular del Poder Ejecutivo del Estado, deberá aprobar o en su caso, rechazar la propuesta del Aspirante al Ejercicio del Notariado presentada a su consideración. En el caso de aprobarla, en los diez días hábiles siguientes hará la designación y emitirá el nombramiento respectivo, para lo cual deberá atenderse lo dispuesto en el artículo 152 de esta ley.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+En un término de quince días hábiles contados a partir de la recepción de la solicitud escrita, el Titular del Poder Ejecutivo del Estado, deberá aprobar o en su caso, rechazar la propuesta de la persona presentada a su consideración. En el caso de aprobarla, en los diez días hábiles siguientes hará la designación y emitirá el nombramiento respectivo, para lo cual deberá atenderse lo dispuesto en el artículo 152 de esta ley.
 
 En caso de que la propuesta realizada por el Notario Público Titular sea rechazada por el Titular del Poder Ejecutivo, deberá aquel, hacer una nueva propuesta en un término de diez días hábiles contados a partir de que le sea notificada la improcedencia de la primera propuesta. En caso de que transcurriere dicho término y el Notario Público Titular no presentare la propuesta respectiva, la solicitud inicialmente planteada por éste, quedará sin efecto.
 
 Presentada la segunda propuesta por parte del Notario Público Titular, el Titular del Poder Ejecutivo contará con diez días hábiles para aprobar o rechazar en su caso la propuesta planteada. En caso de aprobarse en los diez días hábiles siguientes, hará la designación y emitirá el nombramiento respectivo, para lo cual deberá atenderse lo dispuesto en el artículo 152 de la presente ley.
 
-En el caso de que la segunda propuesta realizada por el Notario Público Titular sea rechazada por el Titular del Poder Ejecutivo, éste podrá designar al Aspirante al Ejercicio del Notariado que desempeñará el cargo de Notario Suplente del que haya efectuado la solicitud respectiva.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+En el caso de que la segunda propuesta realizada por el Notario Público Titular sea rechazada por el Titular del Poder Ejecutivo, éste podrá designar Licenciado en Derecho o Abogado que desempeñará el cargo de Notario Suplente del que haya efectuado la solicitud respectiva.
 
 ###### Artículo 152.
 
 Para que pueda obtenerse el nombramiento de Notario Suplente de un Notario Público Titular, además de la propuesta a que se refiere el artículo anterior, se necesita:
 
-I.- Tener el nombramiento de Aspirante al Ejercicio del Notariado a que se refiere esta ley;
+I. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2021)
 
 II.- Otorgar la protesta de ley ante, el Secretario de Gobierno o el servidor público en el que se delegue esa facultad, en la forma en que se toma a los funcionarios públicos;
 
@@ -1321,15 +1385,13 @@ IV.- Proveerse a su costa del sello de autorizar previsto en el artículo 46, fr
 
 El Notario que deje de actuar por licencia concedida quedará impedido para intervenir como abogado con cualquier carácter, en los litigios que se relacionen con las escrituras o actas notariales que hubiere autorizado, salvo que se trate de causa propia.
 
-### CAPÍTULO CUARTO. CLAUSURA DEL PROTOCOLO Y CANCELACIÓN DE LA GARANTÍA
+### CAPÍTULO SEGUNDO. SUSPENSIÓN DE LA FUNCIÓN NOTARIAL
 
 ###### Artículo 154.
 
 Son causas de suspensión de un Notario en el ejercicio de sus funciones, además de las que se establecen en el artículo 197 de esta ley, las siguientes:
 
-(NOTA: EL 15 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-I.- HABERSE DICTADO AUTO DE VINCULACIÓN A PROCESO EN SU CONTRA POR DELITO DOLOSO Y MIENTRAS NO SE PRONUNCIE SENTENCIA DEFINITIVA;
+I. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2021)
 
 II.- La sentencia judicial ejecutoriada, que le imponga como pena la suspensión del cargo, por un término que no exceda de tres años;
 
@@ -1345,19 +1407,25 @@ Las causas de suspensión y revocación establecidas para los Notarios Titulares
 
 En el caso de la fracción IV del artículo anterior, tan luego como el Titular del Poder Ejecutivo del Estado tenga conocimiento de que un Notario adolece de impedimento físico o mental, requerirá a dos médicos especialistas, a fin de que dictaminen sobre la naturaleza del padecimiento y si éste imposibilita al Notario para el desempeño de su cargo y sobre la duración del impedimento. Los familiares del Notario podrán designar a dos médicos para estos mismos efectos. En el caso de que no haya concordancia en los dictámenes, la Secretaría de Gobierno designará a peritos terceros en discordia.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 156.
 
-El juez que instruya un proceso ya sea civil o penal, en contra de cualquier Notario, dará inmediato aviso a la Secretaría de Gobierno y, cuando deba tener lugar la suspensión a que se refieren las fracciones I y II del artículo 154 de esta ley.
+El juez que instruya un proceso ya sea civil o penal, en contra de cualquier Notario, dará inmediato aviso a la Secretaría de Gobierno y, cuando deba tener lugar la suspensión a que se refiere la fracción II del artículo 154 de esta ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 157.
 
-En los casos de suspensión de funciones de los Notarios Públicos Titulares, señaladas en el artículo 154 de esta ley, quedará encargado de la Notaría, el Notario Público Suplente o Auxiliar, si los hubiere y de no existir estos, quedará de encargado el Aspirante al Ejercicio del Notariado que designe el Secretario de Gobierno y tenga satisfechos los requisitos previstos en el artículo 152 de esta ley. El encargado designado continuará con el despacho de los asuntos en trámite.
+En los casos de suspensión de funciones de los Notarios Públicos Titulares, señaladas en el artículo 154 de esta ley, quedará encargado de la Notaría, el Notario Público Suplente o Auxiliar, si los hubiere y de no existir estos, el Ejecutivo del Estado, a través de la Secretaría de Gobierno, designará al Notario que lo suplirá, escogiéndolo de entre cualquiera otro de los Notarios Titulares quien quedará como encargado mientras no se haga la designación de un Titular. El encargado designado continuará con el despacho de los asuntos en trámite.
 
-En caso de que el Notario Público suspendido sea un Suplente, el Titular deberá entrar en funciones, por imposibilidad de este, la Secretaría de Gobierno designará a un Aspirante al Ejercicio del Notariado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+En caso de que el Notario Público suspendido sea un Suplente, el Titular deberá entrar en funciones, y por imposibilidad de este, la Secretaría de Gobierno designará a un Suplente por convenio.
 
 En los casos de suspensión, señalados en el artículo 154 del presente ordenamiento legal, el Notario deberá entregar el sello y el protocolo a la Dirección General de Notarías, para que por su conducto y en términos de la presente ley, estos sean asignados al encargado, Notario Auxiliar o Notario Suplente en su caso.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN GENERAL DE NOTARÍAS
+### CAPÍTULO TERCERO. DE LA TERMINACIÓN DE LA FUNCIÓN NOTARIAL
 
 #### SECCIÓN PRIMERA. TERMINACIÓN DE LA FUNCIÓN NOTARIAL
 
@@ -1425,7 +1493,7 @@ En los casos de nulidad o revocación de la Patente o nombramiento de Notario P�
 
 Siempre que se declare judicialmente la interdicción de algún Notario, el Juez respectivo de oficio, comunicará el hecho al Secretario de Gobierno.
 
-### CAPÍTULO SEGUNDO. DEL ARCHIVO GENERAL DE NOTARÍAS
+### CAPÍTULO CUARTO. CLAUSURA DEL PROTOCOLO Y CANCELACIÓN DE LA GARANTÍA
 
 ###### Artículo 164.
 
@@ -1485,7 +1553,7 @@ En caso de oposición a la cancelación de la garantía, la controversia que por
 
 ## TÍTULO DÉCIMO SEGUNDO. LAS INSTITUCIONES RELATIVAS A LA FUNCIÓN NOTARIAL
 
-### CAPÍTULO PRIMERO. DE LOS MEDIOS DE APREMIO
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN GENERAL DE NOTARÍAS
 
 ###### Artículo 175.
 
@@ -1531,7 +1599,9 @@ I.- Revisar que los folios que le sean presentados por los Notarios Públicos cu
 
 II.- Comunicar por escrito al Secretario de Gobierno las faltas de cualquier género en que incurran los Notarios en el ejercicio de sus funciones;
 
-III.- Llevar registros de expedición de patente y nombramientos, de sellos notariales y firmas y antefirmas de Notarios, así como de fecha de designación, de terminación del cargo, de licencias, separaciones temporales y suspensiones de los Notarios; así como el registro de los nombramientos de los Aspirantes al Ejercicio del Notariado;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+III.- Llevar registros de expedición de patente y nombramientos, de sellos notariales y firmas y antefirmas de Notarios, así como de fecha de designación, de terminación del cargo, de licencias, separaciones temporales y suspensiones de los Notarios;
 
 IV.- Llevar un registro y archivo de datos de los testamentos autorizados por los Notarios, y de los cuales hayan dado aviso, en cumplimiento de lo dispuesto por la presente ley;
 
@@ -1555,7 +1625,7 @@ XII.- Las demás atribuciones que sean propias y naturales del servicio o que é
 
 El Director General será responsable de la custodia y conservación de los protocolos, apéndices, sellos, libros y demás documentos del Archivo General de Notarías y tendrá la misma responsabilidad que los Notarios en ejercicio respecto de los testimonios que expida, de las autorizaciones y de los actos que realice dentro de los límites de sus atribuciones.
 
-### CAPÍTULO SEGUNDO. DE LAS VISITAS DE INSPECCIÓN
+### CAPÍTULO SEGUNDO. DEL ARCHIVO GENERAL DE NOTARÍAS
 
 ###### Artículo 180.
 
@@ -1617,7 +1687,7 @@ VI.- Las demás que sean encomendadas por el Director General, propias y natural
 
 ## TÍTULO DÉCIMO TERCERO. DE LOS MEDIOS DE APREMIO Y DE LAS VISITAS DE INSPECCIÓN
 
-### CAPÍTULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO PRIMERO. DE LOS MEDIOS DE APREMIO
 
 ###### Artículo 184.
 
@@ -1627,9 +1697,11 @@ a) Amonestación por escrito; y
 
 b) Multa de quince a mil Unidades de Medida y Actualización. En caso de que la multa no sea cubierta en el plazo de quince días hábiles contados a partir del día siguiente al de su notificación, constituirá un crédito fiscal y se solicitará a la Secretaría de Finanzas y Planeación de la entidad, el inicio del procedimiento económico coactivo de ejecución previsto en el Código Fiscal del Estado de Quintana Roo.
 
-En el caso (sic) amonestación por escrito, el Notario Público, contará con días hábiles para dar cumplimiento a lo señalado en el artículo 188 de la presente ley, en caso contrario se procederá a aplicar la medida de apremio siguiente, a juicio de la autoridad respectiva.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO SEGUNDO. DEL RECURSO DE QUEJA
+En el caso de amonestación por escrito, el Notario Público, contará con diez días hábiles para dar cumplimiento a lo señalado en el artículo 188 de la presente ley, en caso contrario se procederá a aplicar la medida de apremio siguiente, a juicio de la autoridad respectiva.
+
+### CAPÍTULO SEGUNDO. DE LAS VISITAS DE INSPECCIÓN
 
 ###### Artículo 185.
 
@@ -1709,7 +1781,7 @@ III.- Tener Título de Licenciado en Derecho y acreditar cuando menos tres años
 
 ## TÍTULO DÉCIMO CUARTO. LA RESPONSABILIDAD DEL NOTARIO
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE CONCILIACIÓN
+### CAPÍTULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 192.
 
@@ -1901,9 +1973,11 @@ De la diligencia a que se refieren los dos artículos anteriores se levantará a
 
 Tratándose de la suspensión temporal o revocación del ejercicio de la función notarial, el servidor público designado para ejecutar las resoluciones correspondientes podrá hacer uso, en lo conducente, de las formalidades que para la notificación y levantamiento de actas prevé el capítulo de notificaciones; en caso de desacato, podrán aplicarse los medios de apremio previstos en esta ley. Si el Notario sancionado persistiera en el desacato de las resoluciones de la autoridad, la Secretaría de Gobierno instruirá a la Dirección General de Notarias formular la denuncia penal correspondiente.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 206.
 
-En el caso de la suspensión temporal o revocación del ejercicio de la función notarial, el Secretario de Gobierno designará a un Notario titular de la misma demarcación para que se encargue del despacho de la Notaría; únicamente para tramitar el cierre de los instrumentos ya iniciados, expedir los testimonios, copias certificadas o certificaciones que correspondan, a solicitud de la parte interesada, y durará en estas funciones por el término estrictamente necesario para cumplir con su encomienda, que no excederá de noventa días naturales a partir de la fecha en que asuma el encargo; vencido éste, entregará a la Dirección General de Notarias el protocolo, los folios útiles y el archivo.
+En el caso de la suspensión temporal o revocación del ejercicio de la función notarial, se estará a lo señalado en el artículo 157 de esta ley respecto de quien quedará encargado del despacho de la Notaría; únicamente para tramitar el cierre de los instrumentos ya iniciados, expedir los testimonios, copias certificadas o certificaciones que correspondan, a solicitud de la parte interesada, y durará en estas funciones por el término estrictamente necesario para cumplir con su encomienda, que no excederá de sesenta días hábiles a partir de la fecha en que asuma el encargo; vencido éste, se entregará a la Dirección General de Notarias el protocolo, los folios útiles y el archivo.
 
 ###### Artículo 207.
 
@@ -1913,7 +1987,7 @@ Las diligencias anteriores serán practicadas por los representantes designados,
 
 La recepción de Notarías se hará mediante minucioso inventario, y se levantará un acta que firmarán los que intervinieron en la diligencia, de la que se entregarán ejemplares a la Dirección General de Notarias, al Notario que reciba y a la persona que haga la entrega.
 
-### CAPÍTULO ÚNICO. DE LAS NOTIFICACIONES
+### CAPÍTULO SEGUNDO. DEL RECURSO DE QUEJA
 
 ###### Artículo 208.
 
@@ -1931,11 +2005,15 @@ En el segundo caso, se radicará el procedimiento administrativo, en la que se o
 
 En el último supuesto la autoridad podrá ordenar las visitas especiales que correspondan, a fin de obtener mayores elementos que permitan corroborar los hechos contenidos en la queja, así como conocer la existencia de conductas que puedan ser infracciones que ameriten sanciones del Notario Público.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 209.
 
-El derecho a formular quejas en contra de un Notario, relacionados con el ejercicio de sus funciones, para efectos administrativos, prescribirá en un año contado a partir del día siguiente a aquel en que se haya cometido la infracción.
+El derecho a formular quejas ante la Secretaría de Gobierno en contra de un Notario Público, relacionadas con el ejercicio de sus funciones, prescribirá en un año contado a partir del día de la celebración del acto o hecho jurídico. Prescrito este derecho conforme a lo anterior, los interesados podrán acudir a las vías civil, penal, mercantil o alguna otra a elección de los mismos y de acuerdo al acto o hecho que se reclame.
 
-### CAPÍTULO PRIMERO. DEL CONSEJO DE NOTARIOS
+Toda autoridad que conozca de un procedimiento o juicio seguido en contra de algún Notario Público deberá llamar, como tercero interesado a la Secretaría de Gobierno.
+
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE CONCILIACIÓN
 
 ###### Artículo 210.
 
@@ -1961,7 +2039,7 @@ Los convenios y acuerdos celebrados ante la Secretaría de Gobierno serán defin
 
 ## TITULO DÉCIMO QUINTO. DE LAS ACTUACIONES ADMINISTRATIVAS
 
-### CAPÍTULO SEGUNDO. MESA DIRECTIVA DEL CONSEJO DE NOTARIOS
+### CAPÍTULO ÚNICO. DE LAS NOTIFICACIONES
 
 ###### Artículo 212.
 
@@ -2006,6 +2084,8 @@ Se tendrá como fecha de notificación por correo certificado la que conste en e
 Toda notificación deberá efectuarse en el plazo máximo de diez días hábiles, a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
 
 ## TÍTULO DÉCIMO SEXTO. EL CONSEJO DE NOTARIOS
+
+### CAPÍTULO PRIMERO. DEL CONSEJO DE NOTARIOS
 
 ###### Artículo 217.
 
@@ -2078,6 +2158,8 @@ Para que en una sesión haya quórum se requiere la asistencia de la mitad más 
 ###### Artículo 226.
 
 Los miembros del Consejo de Notarios tendrán derecho a asistir, discutir y votar en las Asambleas Generales; elegir a los miembros de la mesa directiva del Consejo de Notarios; formular consultas y disfrutar de los derechos que dimanan de esta ley y de la Organización del Consejo y de los demás que les reconozcan las leyes.
+
+### CAPÍTULO SEGUNDO. MESA DIRECTIVA DEL CONSEJO DE NOTARIOS
 
 ###### Artículo 227.
 
@@ -2159,7 +2241,13 @@ DÉCIMO. Todos los Notarios sin perjuicio de las obligaciones que tiene de estab
 
 DÉCIMO PRIMERO. Las convocatorias en proceso para obtener las patentes de las Notarías Públicas acéfalas, le serán aplicables las reglas de la ley que se abroga, con excepción de la integración del jurado, que se hará conforme a la presente ley.
 
-DÉCIMO SEGUNDO. Hasta en tanto no se realice la devolución del total de la garantía, por parte del Poder Ejecutivo del Estado de Quintana Roo, los notarios no estarán obligados a realizar el pago de la fianza prevista en la presente Ley.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+DÉCIMO SEGUNDO. Los Notarios Públicos que a la entrada en vigor del presente Decreto tengan cubierta su garantía notarial a través de depósito o hipoteca a favor del Gobierno del Estado, deberán mantenerla y actualizarla de la misma forma.
+
+En el caso de la garantía en depósito, la actualización deberá ser anualmente por la cantidad equivalente a mil veces el Valor Diario de la Unidad de Medida y Actualización UMA.
+
+Las actualizaciones de la garantía de depósito deberán efectuarse a más tardar durante el mes de febrero de cada año.
 
 DÉCIMO TERCERO. El Titular del Poder Ejecutivo emitirá el reglamento de la presente Ley, mismo que deberá ser publicado en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -2180,3 +2268,15 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIOCHO DÍAS DEL MES DE MAYO DEL AÑO DOS MIL DIECINUEVE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 166 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO Y SE REFORMA EL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 333 DE LA XV LEGISLATURA DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO EL 2 DE JULIO DEL AÑO 2019".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Gobierno, a partir de la entrada en vigor del presente Decreto, tendrá un periodo máximo de un año, para llevar a cabo las diligencias necesarias para la obtención de los folios notariales que servirán a los Notarios Públicos para la integración de su protocolo. Hasta en tanto la Secretaría de Gobierno no cuente con los folios en su poder, los Notarios Públicos continuarán adquiriéndolos bajo el procedimiento señalado en la Ley que se reforma.
