@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-11-13"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -279,13 +279,25 @@ XXIV. Dar aviso y en su caso, denunciar ante la Comisión Federal de Competencia
 
 XXV. Implementar campañas de difusión, así como promover acciones coordinadas con las autoridades competentes, tendientes a evitar el desperdicio de alimentos en los establecimientos hoteleros, restauranteros;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XXVI. Coadyuvar a la aplicación de los instrumentos de política ambiental y de cambio climático, en materia turística, y;
+XXVI. Coordinar, promover y consolidar en coordinación con la Federación y los Municipios a través de programas y acciones concurrentes, y proyectos de desarrollo turístico realizados por los pueblos y comunidades indígenas del Estado, considerando el ordenamiento territorial, regional y urbano;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XXVII. Las demás previstas en esta Ley y otros ordenamientos.
+XXVII. Capacitar a los prestadores de servicios turísticos, de los pueblos y comunidades indígenas del Estado en coordinación con los Ayuntamientos, para mejorar los servicios que ofrecen;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XXVIII. Establecer programas y políticas públicas para promover, incentivar y difundir, en coordinación con los municipios, los atractivos turísticos de los pueblos y comunidades indígenas, destacando su cultura, gastronomía, atractivos naturales, artesanales y tradiciones;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XXIX. Coadyuvar a la aplicación de los instrumentos de política ambiental y de cambio climático, en materia turística, Y;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XXX. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -691,7 +703,9 @@ I. Participar en el Consejo Consultivo de Turismo, de conformidad con las reglas
 
 II. Aparecer en el Registro Nacional de Turismo;
 
-III. Participar en los programas de capacitación turística y profesionalización del sector turismo, que promueva o lleve a cabo la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+III. Participar y ser considerados en los programas de capacitación turística, estrategias de relaciones públicas, difusión, promoción, reactivación turística y profesionalización del sector turismo que promueva o lleve a cabo la Secretaria y los Municipios;
 
 IV. Obtener la clasificación que se otorgue en los términos de esta Ley;
 
@@ -1232,3 +1246,19 @@ P.O. 13 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2874.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 53, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2876.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XXVI, XXVII Y XXVIII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 7 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
