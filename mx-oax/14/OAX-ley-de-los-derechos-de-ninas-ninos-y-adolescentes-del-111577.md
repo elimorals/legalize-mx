@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2021-10-16"
+last_updated: "2021-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -181,9 +181,17 @@ XXXII. Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Int
 
 XXXIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XXXIV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXIV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte, y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XXXVI. Registro Estatal de Agresores: El Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
 
 ###### Artículo 7.
 
@@ -789,6 +797,18 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 La integridad personal, incluye el pleno y sano desarrollo físico, psicológico y sexual.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Queda prohibido en todos los ámbitos, el uso del castigo corporal o físico como forma violenta de disciplina a niñas, niños y adolescentes, así como cualquier otra forma degradante o humillante de trato o de castigo.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+El castigo corporal o físico es todo acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+El castigo humillante es cualquier trato ofensivo, denigrante, desvalorizado, estigmatizante, ridiculizado y de menosprecio, y cualquier acto que tenga como objeto provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
+
 ###### Artículo 38.
 
 Son medidas necesarias para que niñas, niños y adolescentes vivan en ambientes o espacios libres de violencia:
@@ -802,6 +822,12 @@ III. Atención, y
 IV. Sanción.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar dichas medidas, en la elaboración de protocolos de atención y programas con políticas públicas, enmarcados en la Constitución, Tratados, la Ley General, esta Ley y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 38 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar medidas, elaborar protocolos de atención y políticas públicas, tendentes a prevenir y erradicar el castigo corporal o físico y cualquier otra forma degradante o humillante de castigo hacia las niñas, niños y adolescentes.
 
 ### CAPÍTULO XI. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
@@ -905,9 +931,13 @@ X. Contribuir a garantizar la permanencia y conclusión de la educación obligat
 
 XI. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-XII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XIII. Elaborar los instrumentos de actuación que establezcan líneas de acción, criterios normativos y distribución de responsabilidades para los diferentes actores del sistema educativo y para quienes ejerzan la patria potestad, tutela o guarda y custodia a modo de intervenir ante situaciones de violencia escolar o conflicto producidos en el contexto escolar;
+XII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso sexual o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite o se detecten en los centros educativos;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XIII. Elaborar los instrumentos de actuación que establezcan líneas de acción, criterios normativos y distribución de responsabilidades para los diferentes actores del sistema educativo y para quienes ejerzan la patria potestad, tutela o guarda y custodia a modo de intervenir ante situaciones de violencia escolar o conflicto producidos en el contexto escolar, así como, violencia o abuso sexual que afecte a niñas, niños y adolescentes;
 
 XIV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
@@ -1711,7 +1741,11 @@ XX. Auxiliar a la Procuraduría Estatal de Protección en las medidas urgentes d
 
 XXI. Implementar acciones encaminadas a informar y difundir sobre el impacto negativo de los juguetes bélicos en niñas, niños y adolescentes, así como solicitar a los establecimientos comerciales que se dediquen a venta, renta y uso de juguetes bélicos, la restricción de su exhibición al público.
 
-XXII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XXII. Crear, administrar y actualizar el Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes en los términos de la presente Ley, y
+
+XXIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 > <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
 
@@ -1817,7 +1851,11 @@ XI. Informar al Sistema Local y a su Presidente, sobre sus actividades;
 
 XII. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado, a través de mesas de trabajo, y
 
-XIII. Las demás que le encomiende el Gobernador o el Sistema Local.
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XIII. Vigilar y coordinar las acciones para la actualización e integración efectiva del Registro Estatal de víctimas de Violencia Sexual y de sus Agresores, y
+
+XIV. Las demás que le encomiende el Gobernador o el Sistema Local.
 
 ###### Artículo 113.
 
@@ -2013,11 +2051,51 @@ El Sistema Local de Protección y la Comisión Ejecutiva Estatal de Atención In
 
 La información contenida en el registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre será confidencial en lo relativo a la protección de datos personales y sólo podrá ser pública en lo que se refiera a datos de carácter estadístico, para fines de medición y evaluación.
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. DEL REGISTRO ESTATAL DE AGRESORES SEXUALES DE NIÑAS, NIÑOS Y ADOLECENTES (SIC)
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 125 Nonies.
+
+El Registro Estatal es la base de datos e información de las personas agresoras, para contar con una basé de datos objetiva en el Estado y generar políticas públicas que garanticen la restitución integral de los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 125 Decies.
+
+El Registro Estatal de Agresores sexuales de Niñas, Niños y Adolescentes será creado, administrado y actualizado por el Sistema Local de Protección.
+
+De manera enunciativa mas no limitativa deberá contener los siguientes datos:
+
+I. Nombre de la persona agresora;
+
+II. Sobrenombre, seudónimo o apodo de la persona agresora;
+
+III. Delito por el que fue acusado;
+
+IV. Lugar en el que cometió el delito;
+
+V. Media filiación y señas particulares de la persona agresora;
+
+VI. Clave única de registro de población;
+
+VII. En su caso relación de consanguinidad, familiar, afectiva u otra con la víctima; y,
+
+VIII. Cualquier otro dato que la haga identificable o que represente un riesgo contra la víctima.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Artículo 125 Undecies. La Secretaría de Seguridad Pública, la Fiscalía General del Estado y el Tribunal Superior de Justicia del Estado proporcionarán la información necesaria a la Secretaría Ejecutiva del Sistema Local de Protección a fin de mantener actualizado el Registro Estatal.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Artículo 125 Duodecies. La Secretaría Ejecutiva del Sistema Local de Protección no podrá hacer públicos o mal uso de los datos de las víctimas, excepto que le sean solicitados los datos por las autoridades competentes; la persona servidora pública que infrinja esta disposición será sancionada de conformidad con las leyes administrativas y en su caso las de índole penal.
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS, DE LAS SANCIONES Y RECURSOS
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 126.
 
@@ -2073,9 +2151,7 @@ V. La oposición, sin fundamento, en la verificación o revisión de inmuebles o
 
 VI. Oponerse a las visitas médicas y psicológicas de niñas, niños y adolescentes, por parte de las autoridades competentes.
 
-### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 130.
 
@@ -2108,6 +2184,10 @@ V. La reincidencia del infractor.
 ###### Artículo 132.
 
 Corresponde al Sistema DIF la interpretación y aplicación de las sanciones previstas en esta Ley.
+
+### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 133.
 
@@ -2320,3 +2400,31 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan 
 TERCERO.- El Ejecutivo del Estado, a través de la Secretaría de Finanzas, deberán disponer de los recursos necesarios para el cumplimiento del presente.
 
 CUARTO.- Las autoridades Educativas del Estado a partir de la entrada en vigor del presente Decreto deberán realizar las acciones necesarias antes (sic) las dependencias correspondientes para dar cumplimiento al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2853.- MEDIANTE EL CUAL SE ADICIONA UN TERCER, CUARTO Y QUINTO PÁRRAFO AL ARTÍCULO 37 Y EL ARTÍCULO 38 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2855.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXIV Y XXXV DEL ARTÍCULO 6; Y SE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 6, LA FRACCION XXII RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 108, LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 112, EL CAPÍTULO V "DEL REGISTRO ESTATAL DE AGRESORES SEXUALES DE NIÑAS, NIÑOS Y ADOLESCENTES", QUE CONTIENE LOS ARTÍCULOS 125 NONIES, 125 DECIES, 125 UNDECIES Y 125 DOUDECIES TODOS AL TÍTULO QUINTO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - El Poder Ejecutivo contará con un plazo de 180 días naturales a partir de que entre en vigor el presente Decreto para emitir los lineamientos e integrar la información y base de datos del Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
+
+TERCERO. - El Poder Ejecutivo deberá asignar una partida presupuestal en el Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal correspondiente para la creación y operación de los Registros Estatales antes referidos.
+
+CUARTO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2919.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 48 DE LA LEY DE LOS DERECHOS (SIC) NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
