@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-10-23"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -507,17 +507,49 @@ Los datos que deberán presentar de forma mensual los Municipios para la actuali
 
 Los estacionamientos ubicados en las empresas identificadas como centros comerciales, plazas, supermercados y tiendas de autoservicio, o cualquier otra institución o persona física o moral, son considerados como estacionamientos privados de estos y su servicio debe ser gratuito en los términos de la presente ley, quedando prohibido por cualquier modalidad el cobro de tarifas o cuotas por el resguardo de vehículos dentro de estos, de no ser así serán procedentes las sanciones respectivas por contravenir el contenido de la Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 24 Ter.
 
-Los estacionamientos públicos y privados, deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y de los vehículos. Dispondrán de espacios exclusivos para vehículos que cuenten con distintivo oficial para personas con discapacidad, así como de instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
+Los estacionamientos públicos y privados, deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y de los vehículos. Dispondrán de espacios exclusivos para vehículos que cuenten con distintivo oficial o el permiso, para personas con discapacidad, mujeres embarazadas y personas adultas mayores, así como de instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
 Los agentes de movilidad, podrán supervisar en todo tiempo, que las instalaciones y la construcción de los estacionamientos, reúnan las condiciones señaladas en la presente Ley y en la normatividad que expida la Secretaría, y que tengan a su servicio personal capacitado.
 
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 Los operadores y acomodadores que presten el servicio de estacionamiento deberán contar con una póliza de seguro de responsabilidad civil o fianza que garantice a los usuarios el pago de los daños que pudieran sufrir en su persona, vehículo o en la de terceros de conformidad con la normatividad vigente en el Estado de Oaxaca.
 
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 El Gobierno del Estado está facultado para establecer dentro de su Territorio, Estacionamientos, sitios y terminales para los diversos servicios públicos concesionados del ámbito estatal.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 24 Quáter.
+
+Con relación al permiso especial para mujeres embarazadas y personas adultas mayores, se establece lo siguiente:
+
+I. El permiso le permitirá estacionarse en los lugares reservados respectivamente para mujeres embarazadas y personas adultas mayores;
+
+II. El permiso será expedido por los Sistemas para el Desarrollo Integral de la Familia de los Municipios, una vez que se acredite plenamente el estado de embarazo, de quien acude a solicitarlo. En el caso de las personas adultas mayores deberán presentar copias de la credencial de elector vigente y del acta de nacimiento;
+
+Corresponde a la Secretaría, llevar el registro de los permisos expedidos, para tal efecto, de manera obligatoria será proporcionada la información por la autoridad municipal. Con la finalidad de que los estacionamientos cuenten con la información recabada, deberá ser integrada y publicada de forma bimestral a través de la base de datos georreferenciada.
+
+III. Se acreditará el estado de embarazo mediante la constancia de gravidez oficial correspondiente;
+
+IV. El permiso tendrá vigencia hasta que la solicitante haya dado a luz, para lo cual la solicitante deberá dar aviso de dicha situación. Tratándose de las personas adultas mayores, la autoridad que lo expida determinará su vigencia sin que pueda exceder de tres años;
+
+V. El permiso se expedirá en forma gratuita;
+
+VI. Este permiso solo será válido siempre y cuando el vehículo sea conducido por la persona titular o esta se traslade a bordo del mismo;
+
+VII. El diseño del permiso queda sujeto a lo que dispongan los Sistemas para el Desarrollo Integral de la Familia de los Municipios, debiendo llevar siempre el sello y folio oficiales que permitan distinguir su autenticidad;
+
+VIII. El permiso será único e intransferible; y
+
+IX. En caso de extravío del permiso durante el embarazo, la mujer deberá reportarlo a las oficinas del Sistema para el Desarrollo Integral de la Familia del Municipio que lo expidió, para que sea de su conocimiento y le puedan restituir el mismo.
 
 ### CAPÍTULO II. DE LA SEGURIDAD Y EDUCACIÓN VIAL
 
@@ -753,7 +785,13 @@ XXXIX. Implementar avances tecnológicos y soluciones informáticas, para mejora
 
 XL. Constituir el Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría, que será el encargado de revisar, analizar y emitir el acta sobre la factibilidad de las solicitudes de otorgamiento de concesión o de los permisos del servicio especial de transporte.
 
-Emitir las actas sobre la viabilidad de los programas de actualización y revisión de concesiones que se le propongan, en caso de aprobarse, serán publicados en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Emitir las actas sobre la viabilidad de los programas de regularización, actualización y revisión de concesiones que se le propongan, en caso de aprobarse, serán publicados en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Tendrá a su cargo en todo momento la revisión y análisis de los procedimientos administrativos mediante los cuales fueron otorgados títulos de concesiones y la obligación de prevenir que los que se vayan a realizar se apeguen al marco jurídico vigente.
 
 El Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría, se integrará por el Titular de la Secretaría quien lo presidirá, y por los titulares de las Sub Secretarías de Planeación y Normatividad, y de Regulación y Control del Transportes (sic), y de las Direcciones Jurídicas y de Concesiones.
 
@@ -1052,6 +1090,14 @@ En la proyección de programas, procedimientos de otorgamiento de concesiones y 
 ###### Artículo 62.
 
 Se considera infraestructura pública las terminales y paradas del servicio público de transporte colectivo, la cual podrá ser concesionada a particulares para su construcción, administración y mantenimiento, conforme a las disposiciones y leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 62 Bis.
+
+No está permitida la colocación de propaganda impresa o electrónica en el interior y exterior de los vehículos destinados a la prestación del servicio público de transporte que muestren estereotipos sexistas sobre las personas.
+
+Para efectos de esta Ley, es publicidad sexista aquella que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia los géneros.
 
 ### CAPÍTULO II. DEL REGISTRO ESTATAL DE TRANSPORTE DE OAXACA
 
@@ -1953,7 +1999,9 @@ Además de considerar el interés que representa el usuario del servicio, la tar
 
 Las tarifas se revisarán en forma periódica, previa solicitud por escrito del concesionario en los términos que se establezcan en el Reglamento; con excepción del servicio público de transporte colectivo, en donde la revisión y determinación de actualización de la tarifa se regirá por su modelo financiero.
 
-### CAPÍTULO I. DE LA EXTINCIÓN
+### CAPITULO X. DE LA REGULARIZACIÓN DE TÍTULOS DE CONCESIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 160.
 
@@ -2105,13 +2153,17 @@ IV. Cuando al titular se le sancione en dos ocasiones con la suspensión del per
 
 V. Cuando se compruebe que la información proporcionada para su expedición es falsa, o bien que alguno de los documentos presentados es falso o alterado, en cuyo caso se dará vista a la autoridad competente;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-VI. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular cause lesiones que pongan en peligro la seguridad o la vida de los usuarios, y
+VI. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular cause lesiones que pongan en peligro la seguridad o la vida de los usuarios;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-VII. Cuando la persona responsable cause un accidente de tránsito bajo los influjos de alcohol, drogas, psicotrópicos, estupefacientes u otras sustancias análogas, y que por este hecho ocasione lesiones de carácter permanente o la muerte de la y/o las personas.
+VII. Cuando la persona responsable cause un accidente de tránsito bajo los influjos de alcohol, drogas, psicotrópicos, estupefacientes u otras sustancias análogas, y que por este hecho ocasione lesiones de carácter permanente o la muerte de la y/o las personas, y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Cuando la persona conduzca un vehículo motorizado en carreras no autorizadas por la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
@@ -2181,11 +2233,53 @@ Los vehículos que circulen en las vías públicas del Estado se sujetarán a la
 
 Los vehículos que circulen en las calles, caminos y cualquier otra vía de comunicación del Estado, deberán contar con los equipos, sistemas, dispositivos y accesorios de seguridad que determinen la Ley, su Reglamento y demás disposiciones normativas aplicables, con la finalidad de dar seguridad a las personas que circulan por las vías públicas.
 
-### CAPÍTULO II. DE LA REVOCACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. DE LA EXTINCIÓN
+
+###### Artículo 185 Bis.
+
+La Secretaría podrá regularizar los expedientes de los procedimientos administrativos por el que fueron otorgados títulos de concesiones, que se encuentren registrados en los sistemas informáticos de la Secretaría y/o que obre en los archivos de la misma. Este procedimiento se iniciará de oficio o a petición de parte interesada que acredite fehacientemente su interés jurídico.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 185 Ter.
+
+Es competente para instruir y desahogar el procedimiento de regularización el Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 185 Quáter.
+
+El Comité Operativo de Evaluación, Seguimiento y Validación, llevará a cabo la revisión de los títulos de concesión a propuesta de las áreas administrativas que conforman la Secretaría.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 185 Quinquies.
+
+Al fallecimiento de quien fue titular del título de concesión del que se regularice su expediente administrativo, se podrá realizar la transferencia de la misma, en los términos y requisitos que señala la Ley y su Reglamento.
+
+Aquellos títulos de concesiones que hayan sido transferidos sin cumplir con la normatividad vigente, y que obre su expediente físicamente y/o su registro en el o los sistemas informáticos de la Secretaría, podrán ser regularizados sus expedientes, en los términos que señale el Comité Operativo Evaluación, Seguimiento y Validación.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 185 Sexies.
+
+La Secretaría no podrá regularizar los expedientes de los títulos de concesiones:
+
+I. Que no cuente con registro en los sistemas informáticos de la Secretaría y que tampoco existan documentos físicos en los archivos de la misma;
+
+II. Que ya haya sido declarado improcedente en un proceso de revisión, actualización o regularización mediante acuerdos administrativos emitidos por la Secretaría;
+
+III. Que se encuentre en trámite un procedimiento administrativo o judicial en el que se estudie su existencia, validez, caducidad o cualquier otra causal de extinción, y
+
+IV. Cuando quien es el titular, ya sea concesionario por otorgamiento de título o por transferencia.
+
+De todas las omisiones e inconsistencias que se regularicen, derivadas de conductas u omisiones de Servidores Públicos, la Secretaria tiene la obligación de dar vista a la autoridad administrativa competente y de ser necesario a la autoridad judicial correspondiente, para iniciar los procedimientos legales en contra de quien o quienes sean responsables.
 
 ## TÍTULO SEXTO. DE LA EXTINCIÓN DE LAS CONCESIONES Y PERMISOS ESPECIALES
 
-### CAPÍTULO III. DE LA CANCELACIÓN
+### CAPÍTULO II. DE LA REVOCACIÓN
 
 ###### Artículo 186.
 
@@ -2209,7 +2303,7 @@ VIII. Que el concesionario cambie su nacionalidad mexicana, y
 
 IX. Las causas adicionales establecidas en este ordenamiento y demás disposiciones jurídicas y administrativas aplicables.
 
-### CAPÍTULO IV. DE LA CADUCIDAD
+### CAPÍTULO III. DE LA CANCELACIÓN
 
 ###### Artículo 187.
 
@@ -2273,7 +2367,7 @@ XXVIII. Por transportar armas, órganos y tejidos, estupefacientes, sustancias p
 
 XXIX. Las demás causas reguladas en el cuerpo de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO DE EXTINCION
+### CAPÍTULO IV. DE LA CADUCIDAD
 
 ###### Artículo 188.
 
@@ -2289,7 +2383,7 @@ IV. No estar inscrito en el Registro Estatal de Transporte de Oaxaca, y
 
 V. Las demás que establezca el Reglamento de la presente Ley.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL PROCEDIMIENTO DE EXTINCION
 
 ###### Artículo 189.
 
@@ -2301,7 +2395,7 @@ II. Por suspensión del servicio por más de treinta días hábiles, sin causa j
 
 III. Las demás que establezca el Reglamento de la presente Ley.
 
-### CAPÍTULO II. DE LOS DERECHOS, OBLIGACIONES Y ATENCIÓN CIUDADANA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 190.
 
@@ -2329,7 +2423,7 @@ La Secretaría, está facultada para habilitar a los servidores públicos necesa
 
 ## TÍTULO SÉPTIMO. DE LA INSPECCIÓN, VIGILANCIA Y EVALUACIÓN
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DE LOS DERECHOS, OBLIGACIONES Y ATENCIÓN CIUDADANA
 
 ###### Artículo 192.
 
@@ -2397,7 +2491,7 @@ Los requisitos serán los que determine la Secretaría, en el Reglamento de la p
 
 Los vehículos nuevos quedarán exentos de la revisión física mecánica durante el primer año de su vida útil, debiendo pagar únicamente los derechos correspondientes.
 
-### CAPÍTULO II. SOLUCIÓN DE CONTROVERSIAS
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 204.
 
@@ -2455,9 +2549,15 @@ XIII. Capacitarse y proporcionar capacitación a sus conductores, en los términ
 
 XIV. Verificar que los conductores del servicio cuenten con la Licencia de conducir correspondiente, su credencial de conductor registrado y la constancia de capacitación vigentes;
 
-XV. Cubrir el pago de los derechos generados con motivo de la prestación del servicio, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XVI. Las demás que señale la presente Ley y el Reglamento.
+XV. Cubrir el pago de los derechos generados con motivo de la prestación del servicio;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XVI. Cumplir de forma puntual con los protocolos y medidas de seguridad establecidos en materia de salud a causa de brotes epidemiológicos o por motivos de salubridad general que haya decretado la autoridad sanitaria competente; y
+
+XVII. Las demás que señale la presente Ley y el Reglamento.
 
 ###### Artículo 208.
 
@@ -2569,7 +2669,7 @@ Los conductores del servicio de transporte están obligados a someterse a los ex
 
 ## TÍTULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES, SOLUCIÓN DE CONTROVERSIAS Y RECURSOS Y DELITOS
 
-### CAPÍTULO III. DE LOS RECURSOS
+### CAPÍTULO II. SOLUCIÓN DE CONTROVERSIAS
 
 ###### Artículo 219.
 
@@ -2759,21 +2859,19 @@ El titular de la licencia o permiso de conducir cancelado quedará impedido para
 
 El conductor que infrinja el párrafo anterior, se le impondrá una sanción de ciento ochenta veces la Unidad de Medida y Actualización vigente y la autoridad competente remitirá el vehículo al depósito vehicular, que cuente con concesión vigente.
 
-### CAPÍTULO IV. DE LOS DELITOS
+### CAPÍTULO III. DE LOS RECURSOS
 
 ###### Artículo 239.
 
 Para la solución de controversias que se deriven de la aplicación de la presente Ley, las partes podrán optar por la mediación, como un método alternativo no adversarial para la solución de conflictos con el propósito de llegar a acuerdos voluntarios de solución que ponga fin total o parcialmente en los términos de la Ley de Mediación para el Estado de Oaxaca.
 
-### CAPÍTULO I. DE LA PROMOCIÓN Y EL FOMENTO
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+### CAPÍTULO IV. DE LOS DELITOS
 
 ###### Artículo 240.
 
 Contra los actos y resoluciones, derivadas de la aplicación de la presente Ley y de las normas reglamentarias que de esta emanen, procederá el recurso de revisión, previsto en la Ley de Procedimiento y Justicia Administrativa del Estado de Oaxaca, cuyas reglas y términos deberán aplicarse para su trámite.
 
-### CAPÍTULO II. OBLIGACIONES DE LAS AUTORIDADES
+### CAPÍTULO I. DE LA PROMOCIÓN Y EL FOMENTO
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -2797,7 +2895,7 @@ Asimismo, la Secretaría registrará el nombre y demás datos personales de quie
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS CICLISTAS
+### CAPÍTULO II. OBLIGACIONES DE LAS AUTORIDADES
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -2837,7 +2935,7 @@ Las vialidades que se construyan o reordenen en las ciudades y comunidades con z
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO IV. DEL SISTEMA DE TRANSPORTE INDIVIDUAL EN BICICLETA
+### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS CICLISTAS
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -2916,6 +3014,10 @@ IV. De conformidad con su disponibilidad presupuestaria y la regulación reglame
 De conformidad con la disponibilidad presupuestal, todas las oficinas de la administración pública estatal y municipal deberán contar con espacios destinados al estacionamiento de bicicletas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO IV. DEL SISTEMA DE TRANSPORTE INDIVIDUAL EN BICICLETA
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 254.
 
@@ -3242,3 +3344,45 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2862.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XV DEL ARTÍCULO 207, Y SE ADICIONA LA FRACCIÓN XVI, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 207 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2864.- MEDIANTE EL CUAL REFORMA LAS FRACCIONES VI Y VII DEL ARTÍCULO 176; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 176 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2865.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 24 TER, Y SE ADICIONA EL ARTÍCULO 24 QUÁTER A LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2866.- SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XL DEL ARTÍCULO 37; SE ADICIONA UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, A LA FRACCIÓN XL DEL ARTÍCULO 37; Y EL CAPÍTULO X "DE LA REGULARIZACIÓN DE TÍTULOS DE CONCESIÓN" AL TÍTULO QUINTO "REGLAS GENERALES DEL TRANSPORTE", INTEGRADO POR LOS ARTÍCULOS 185 BIS, 185 TER, 185 QUÁTER, 185 QUINQUIES Y 185 SEXIES, A LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La Secretaria deberá aplicar el CAPÍTULO X del TÍTULO QUINTO de la Ley de Movilidad para el Estado de Oaxaca, para regularizar los expedientes administrativos de los títulos de concesiones otorgados durante los ejercicios fiscales 2014, 2015 y 2016, mismos que estuvieron sujetos a un procedimiento de auditoría por parte de la Secretaría de la Contraloría y Transparencia Gubernamental, contando con el plazo a partir de la entrada en vigor de la presente hasta el plazo que establece el párrafo cuarto del artículo 108 de la Ley.
+
+TERCERO.- Los sistemas informáticos a los cuales se refieren en el CAPÍTULO X del TÍTULO QUINTO de la Ley, son aquellos que reconozca la Ley y su Reglamento, el Reglamento Interno de la Secretaría de Movilidad y el Manual de Procedimientos de la Secretaría de Movilidad.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2867.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 62 BIS A LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La Secretaría de Movilidad del Gobierno del Estado de Oaxaca tendrá un plazo de 90 días hábiles, contados a partir de la fecha de entrada en vigor del presente Decreto, para verificar el retiro de la publicidad sexista en las unidades y vehículos del transporte público.
