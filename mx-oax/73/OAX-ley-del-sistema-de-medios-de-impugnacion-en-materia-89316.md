@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-de-medios-de-impugnacion-en-materia-89316"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2021-10-23"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto de 2012.
 
@@ -243,7 +243,9 @@ Artículo 11
 
 Procede el sobreseimiento cuando:
 
-a) El promovente se desista expresamente por escrito, en cuyo caso, el Magistrado Suplente Instructor requerirá la ratificación del escrito; apercibido de que de no comparecer se le tendrá por ratificado el desistimiento;
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+a) El promovente se desista expresamente por escrito, en cuyo caso, la Magistrada o Magistrado Suplente Instructor requerirá la ratificación del escrito; apercibido de que de no comparecer se le tendrá por ratificado el desistimiento;
 
 b) La autoridad electoral u órgano partidista responsable modifique o revoque el acto o resolución impugnado, de tal manera que quede sin materia el recurso;
 
@@ -433,17 +435,25 @@ a) Acuerde su recepción;
 
 b) Ordene al Secretario General del Tribunal certificar la fecha de interposición del medio de impugnación, así como su radicación;
 
-c) Turne el expediente recibido a un Magistrado Suplente Instructor, quien tendrá la obligación de revisar que el escrito del medio de impugnación reúna todos los requisitos señalados en el numeral 1 del artículo 9 de este ordenamiento.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-2. El Magistrado Suplente Instructor propondrá al Magistrado Propietario de la ponencia a la que se encuentre adscrito el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se acredite cualquiera de las causales de notoria improcedencia señaladas en el numeral 1 del artículo 10 de esta ley. Asimismo, cuando el promovente incumpla los requisitos señalados en los incisos c) al f) del numeral 1 del artículo 9, y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente, así también, en caso de que el escrito de interposición no cuente con la firma autógrafa del recurrente se le podrá requerir para que lo ratifique mediante comparecencia, bajo el apercibimiento de tener por no presentado el medio de impugnación en caso de que no se presente en la fecha señalada para ello;
+c) Turne el expediente recibido a una Magistrada o Magistrado Suplente Instructor, quien tendrá la obligación de revisar que el escrito del medio de impugnación reúna todos los requisitos señalados en el numeral 1 del artículo 9 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+2. La Magistrada o Magistrado Suplente Instructor propondrá al Magistrado Propietario de la ponencia a la que se encuentre adscrito el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se acredite cualquiera de las causales de notoria improcedencia señaladas en el numeral 1 del artículo 10 de esta ley. Asimismo, cuando el promovente incumpla los requisitos señalados en los incisos c) al f) del numeral 1 del artículo 9, y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente, así también, en caso de que el escrito de interposición no cuente con la firma autógrafa del recurrente se le podrá requerir para que lo ratifique mediante comparecencia, bajo el apercibimiento de tener por no presentado el medio de impugnación en caso de que no se presente en la fecha señalada para ello;
 
 3. Cuando el escrito del tercero interesado, se presente en forma extemporánea, no se valorarán las pruebas presentadas por éste, pero sí se le notificará personalmente como si fuera parte, únicamente para efectos informativos.
 
-4. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado Suplente Instructor, dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia, remitiendo los autos al Magistrado Propietario de la ponencia a la que se encuentre adscrito.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+4. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, la Magistrada o Magistrado Suplente Instructor, dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia, remitiendo los autos al Magistrado Propietario de la ponencia a la que se encuentre adscrito.
 
 En estos casos, se ordenará fijar copia de los autos respectivos en los estrados, y
 
-5. Cerrada la instrucción, el Magistrado Propietario acordará la recepción de los autos y procederá a formular el proyecto de sentencia de sobreseimiento, o de fondo, según sea el caso, para que dentro de los quince días siguientes al cierre de instrucción, sea sometido a la consideración del Pleno del Tribunal, plazo que podrá ser prorrogado por acuerdo del pleno atendiendo al volumen o naturaleza del expediente. Una vez realizado el proyecto, señalará la fecha en la que se someterá en sesión pública a la consideración del pleno, ordenando que la determinación de mérito sea publicada mediante la lista de asuntos que se fija en los estrados del Tribunal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+5. Cerrada la instrucción, la Magistrada o Magistrado Propietario acordará la recepción de los autos y procederá a formular el proyecto de sentencia de sobreseimiento, o de fondo, según sea el caso, para que, dentro de los quince días siguientes al cierre de instrucción, sea sometido a la consideración del Pleno del Tribunal, plazo que podrá ser prorrogado por acuerdo del pleno atendiendo al volumen o naturaleza del expediente. Una vez realizado el proyecto, señalará la fecha en la que se someterá en sesión pública a la consideración del pleno, ordenando que la determinación de mérito sea publicada mediante la lista de asuntos que se fija en los estrados del Tribunal.
 
 En el caso de las propuestas de desechamiento, el Magistrado Propietario podrá aceptar la propuesta del Magistrado Suplente Instructor, para someterlo a la consideración del pleno del Tribunal en los mismos términos.
 
@@ -467,9 +477,11 @@ b) En el caso del recurso de revisión, el Consejo General deberá aplicar la sa
 
 2. En cuanto al informe circunstanciado, si la autoridad u órgano partidista no lo envía dentro del plazo señalado en el numeral 1 del artículo 18 de esta ley, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables, y se dará vista a las autoridades competentes para la iniciación inmediata de los procedimientos de responsabilidad respectivos en contra de las autoridades u órgano omisos.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-El Presidente del Consejo General o el Presidente del Tribunal o los Magistrados Suplentes Instructores, en los asuntos de su competencia, podrán requerir a las autoridades federales, estatales y municipales, así como a los partidos políticos, precandidatos, candidatos, militantes o simpatizantes, y en general a los ciudadanos o particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en la Ley.
+El Presidente del Consejo General o el Presidente del Tribunal, las Magistradas o los Magistrados Suplentes Instructores, en los asuntos de su competencia, podrán requerir a las autoridades federales, estatales y municipales, así como a los partidos políticos, precandidatos, candidatos, militantes o simpatizantes, y en general a los ciudadanos o particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en la Ley.
 
 ###### Artículo 22.
 
@@ -505,7 +517,9 @@ g) Los efectos de la sentencia, en su caso.
 
 ###### Artículo 24.
 
-1. El Magistrado Ponente ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+1. La Magistrada o Magistrado Ponente ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución.
 
 2. El Tribunal dictará sus sentencias en sesión pública, con las reglas y el procedimiento siguiente:
 
@@ -513,11 +527,17 @@ a) Abierta la sesión pública por el Presidente del Tribunal y verificado el qu
 
 b) Se procederá a discutir los asuntos y cuando el Presidente del Tribunal los considere suficientemente discutidos, los someterá a votación. Las sentencias se aprobarán por unanimidad o por mayoría de votos;
 
-c) Los Magistrados Propietarios podrán solicitar al pleno, que sus proyectos de resolución se agreguen a los expedientes como voto particular, cuando no sean aprobados por la mayoría; o formular voto razonado, que deberá formar parte de la resolución que se dicte. El Magistrado Propietario contará con 48 horas para emitir y engrosar por escrito su voto particular o razonado
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-d) Si el proyecto que se presenta es votado en contra por la mayoría del Pleno, a propuesta del Presidente, se designará a otro Magistrado Propietario para que, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes; y
+c) Las Magistradas o Magistrados Propietarios podrán solicitar al pleno, que sus proyectos de resolución se agreguen a los expedientes como voto particular, cuando no sean aprobados por la mayoría; o formular voto razonado, que deberá formar parte de la resolución que se dicte. El Magistrado Propietario contará con 48 horas para emitir y engrosar por escrito su voto particular o razonado.
 
-e) En las sesiones públicas sólo podrán participar y hacer uso de la palabra los Magistrados Propietarios que integran el Pleno.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+d) Si el proyecto que se presenta es votado en contra por la mayoría del Pleno, a propuesta del Presidente, se designará a otra Magistrada o Magistrado Propietario para que, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes; y
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+e) En las sesiones públicas sólo podrán participar y hacer uso de la palabra las Magistradas o Magistrados Propietarios que integran el Pleno.
 
 3. En casos extraordinarios el Pleno podrá diferir la resolución de un asunto listado.
 
@@ -683,15 +703,23 @@ El incidente de ejecución de sentencia se substanciará en los siguientes térm
 
 a) Una vez recibido el incidente de ejecución de sentencia en la Oficialía de partes del Tribunal, el Secretario General dará cuenta inmediata al Presidente del Tribunal.
 
-b) El Presidente del Tribunal turnará los autos al Magistrado Suplente Instructor de la ponencia que haya resuelto el principal, para su debida substanciación.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-c) Una vez turnado el expediente, el Magistrado Suplente Instructor requerirá a la responsable y/o a las autoridades vinculadas para la ejecución, según corresponda, para que dentro de las veinticuatro horas siguientes contadas a partir de la notificación del acuerdo, informen sobre el cumplimiento que hayan dado a la sentencia, el cual deberá estar acompañado de las constancias que acrediten su dicho.
+b) El Presidente del Tribunal turnará los autos a la Magistrada o Magistrado Suplente Instructor de la ponencia que haya resuelto el principal, para su debida substanciación.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+c) Una vez turnado el expediente, la Magistrada o Magistrado Suplente Instructor requerirá a la responsable y/o a las autoridades vinculadas para la ejecución, según corresponda, para que, dentro de las veinticuatro horas siguientes contadas a partir de la notificación del acuerdo, informen sobre el cumplimiento que hayan dado a la sentencia, el cual deberá estar acompañado de las constancias que acrediten su dicho.
 
 d) Del informe que remitan las autoridades se dará vista al promovente para que dentro de las veinticuatro horas siguientes contadas a partir de la notificación del acuerdo, manifiesten lo que a su derecho convenga.
 
-e) Una vez concluido el plazo que antecede, el Magistrado Suplente Instructor hará entrega de los autos al Magistrado Propietario de la ponencia a la que se encuentre adscrito a efecto de que esté en aptitud de realizar el proyecto de resolución.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-f) El Magistrado Propietario acordará la recepción de los autos y una vez realizado el proyecto respectivo, turnará los autos al Magistrado Presidente el cual señalará la fecha en la que se someterá en sesión pública a la consideración del pleno el proyecto de resolución, ordenando que la determinación de mérito sea publicada mediante la lista de asuntos que se fija en los estrados del Tribunal.
+e) Una vez concluido el plazo que antecede, la Magistrada o Magistrado Suplente Instructor hará entrega de los autos al Magistrado Propietario de la ponencia a la que se encuentre adscrito a efecto de que esté en aptitud de realizar el proyecto de resolución.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+f) La Magistrada o Magistrado Propietario acordará la recepción de los autos y una vez realizado el proyecto respectivo, turnará los autos al Magistrado Presidente el cual señalará la fecha en la que se someterá en sesión pública a la consideración del pleno el proyecto de resolución, ordenando que la determinación de mérito sea publicada mediante la lista de asuntos que se fija en los estrados del Tribunal.
 
 g) La sesión pública y la resolución del incidente se llevará a cabo conforme a las disposiciones previstas en el Libro Primero, Título Segundo, Capítulo X de esta Ley.
 
@@ -865,7 +893,9 @@ d) En los casos previstos en la Constitución Estatal y en las leyes respectivas
 
 En este caso, la audiencia se llevará a cabo con o sin la asistencia de las mismas y en la fecha que al efecto se señale.
 
-El Magistrado Suplente Instructor acordará lo conducente. Los interesados podrán comparecer por sí mismos o a través de representante debidamente autorizado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+La Magistrada o Magistrado Suplente Instructor acordará lo conducente. Los interesados podrán comparecer por sí mismos o a través de representante debidamente autorizado.
 
 ### CAPÍTULO V. De las Sentencias
 
@@ -1844,6 +1874,14 @@ P.O. 27 DE MARZO DE 2021.
 P.O. 23 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2791.- MEDIANTE EL CUAL SE REFORMA EL NUMERAL 1 DEL ARTÍCULO 2 DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2911.- MEDIANTE EL CUAL SE REFORMA, EL INCISO A), DEL ARTÍCULO 11; EL INCISO C) DEL NUMERAL 1, EL NUMERAL 2, EL PÁRRAFO DEL NUMERAL 4, EL PRIMER PÁRRAFO DEL NUMERAL 5, TODOS DEL ARTÍCULO 19; EL ARTÍCULO 21, EL NUMERAL 1, LOS INCISOS C), D) Y E) DEL NUMERAL 2 DEL ARTÍCULO 24; LOS INCISOS B), C), E) Y F) DEL ARTÍCULO 42; Y, EL TERCER PÁRRAFO DEL NUMERAL 2 DEL ARTÍCULO 58, TODOS DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
