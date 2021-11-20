@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-11-13"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -323,9 +323,11 @@ IV.- Colaborar en las actividades de participación ciudadana.
 
 V.- En los municipios que se rigen por Sistemas Normativos Internos, podrán presentar y exponer ante su asamblea comunitaria y a las autoridades municipales proyectos de estatuto electoral comunitario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 28.
 
-Son obligaciones de los ciudadanos del Municipio:
+Son obligaciones de las ciudadanas y los ciudadanos del Municipio:
 
 I.- Respetar y obedecer las leyes y los mandatos de las autoridades legalmente constituidas; así como cumplir los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general emanadas del Ayuntamiento;
 
@@ -335,13 +337,15 @@ III.- Colaborar cuando sea procedente con su tequio en los trabajos colectivos e
 
 IV.- Inscribirse, en los padrones que determinen las leyes federales, estatales y municipales;
 
-V.- Inscribirse los varones a los dieciocho años de edad en las juntas municipales de reclutamiento, con el fin de cumplir con el Servicio Militar Nacional; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+V.- Inscribirse a los dieciocho años de edad en las juntas municipales de reclutamiento, con el fin de cumplir con el Servicio Militar Nacional, en caso de mujeres esta será opcional;
 
 VI.- Respetar los Símbolos Patrios.
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-VII.- Los ciudadanos que mantengan un bien inmueble deshabitado, deberán de conservarlo en buenas condiciones conforme a los bandos de policía y gobierno y reglamentos en la materia.
+VII.- Quienes mantengan un bien inmueble deshabitado, deberán de conservarlo en buenas condiciones conforme a los bandos de policía y gobierno y reglamentos en la materia.
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2021)</small>
 
@@ -4542,6 +4546,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 13 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2804.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 86 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2845.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO, LAS FRACCIONES V Y VII DEL ARTÍCULO 28 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
