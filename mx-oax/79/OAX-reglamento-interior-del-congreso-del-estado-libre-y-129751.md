@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2021-10-16"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -544,6 +544,10 @@ b. Cuando un dictamen haya sido aprobado por la comisión o comisiones correspon
 c. Cuando por mandato constitucional o legal deba expedirse la ley o decreto en un plazo determinado.
 
 d. Por acuerdo de la Jucopo.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Los asuntos no dictaminados por las comisiones durante la legislatura en que fueron presentados pasarán a la siguiente legislatura para que en un plazo improrrogable de 60 días naturales sean dictaminados, transcurrido el plazo si no se elaboró el dictamen correspondiente, se entenderán por caducados y se archivarán definitivamente por parte de la Presidencia de cada Comisión o Comisiones, debiendo notificarlo a la Mesa Directiva para su control respectivo. Quedan excluidos de lo anterior, las iniciativas, decretos o acuerdos, para las que no procede la preclusión.
 
 ###### ARTÍCULO 40.
 
@@ -1248,6 +1252,10 @@ En casos de contingencia sanitaria, por indicaciones de protección civil, segur
 De manera excepcional, cuando el Congreso suspenda sus actividades presenciales, por razones de salubridad, protección civil, seguridad pública o cualquier otra contingencia que ponga en riesgo la integridad del personal de la legislatura, las iniciativas, podrán presentarse y tramitarse ante el área respectiva, por correo electrónico o cualquier herramienta tecnológica disponible que garantice la eficacia y legalidad del acto, obteniéndose de la misma forma el acuse de recibo respectivo.
 
 Una vez presentada, la iniciativa será turnada a la comisión o comisiones correspondientes para su dictaminación.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Los integrantes de la Comisión o Comisiones permanentes a los que les corresponda emitir el dictamen respectivo, no podrán proponer iniciativas similares en la materia a las que les corresponde dictaminar, cuando estas únicamente tengan por objeto modificar o variar de alguna manera lo originalmente propuesto.
 
 ###### ARTÍCULO 56.
 
@@ -2990,3 +2998,19 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrara en vigor a partir del día 13 de noviembre del 2021.
 
 SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2930.- MEDIANTE EL CUAL SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 39 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2931.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 55 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca.
