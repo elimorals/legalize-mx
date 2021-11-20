@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2021-03-13"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -49,7 +49,9 @@ LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ES
 
 La presente Ley, es de orden público e interés social y de observancia general en el Estado de Oaxaca.
 
-Tiene por objeto reconocer, proteger y garantizar los derechos de los hombres y mujeres mayores de sesenta años de edad, sin distinción alguna y en un marco de equidad, para su plena integración al desarrollo social, económico, político y cultural del Estado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Tiene por objeto reconocer, proteger y garantizar los derechos de los hombres y mujeres mayores de sesenta años de edad, para lograr plena calidad de vida para su vejez, sin distinción alguna y en un marco de equidad, para su plena integración al desarrollo social, económico, político y cultural del Estado.
 
 Como objetivos específicos tiene establecer los principios inexcusables, sentar las bases, referir los mecanismos y las políticas públicas para la interpretación administrativa, efectiva ejecución y consecución sustantiva del objeto materia de esta Ley.
 
@@ -245,13 +247,21 @@ a) Vivir en el seno de una familia, o mantener relaciones personales y contacto 
 
 IV. A la certeza jurídica, que incluye:
 
-a) Participar y ser ampliamente informado de todo procedimiento administrativo o judicial, que afecte su esfera personal, familiar, económica o social;
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-b) Recibir un trato digno, apropiado y sin presiones ni coacciones, en cualquier procedimiento judicial o administrativo que los involucre;
+a) Gozar de la presunción de ser persona adulta mayor, salvo prueba en contrario;
 
-c) Recibir el apoyo del gobierno estatal y de los municipales, de acuerdo a sus respectivas competencias, en lo relativo al ejercicio y respeto a sus derechos, a través de las instituciones creadas para tal efecto; y
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-d) Contar con asesoría jurídica gratuita y con un representante legal cuando su condición socioeconómica lo exija, poniendo especial cuidado en la protección de su integridad física y en su patrimonio personal.
+b) Dar mayor celeridad en la realización de las diligencias y trámites que se ordenen;
+
+c) Participar y ser ampliamente informado de todo procedimiento administrativo o judicial, que afecte su esfera personal, familiar, económica o social;
+
+d) Recibir un trato digno, apropiado y sin presiones ni coacciones, en cualquier procedimiento judicial o administrativo que los involucre;
+
+e) Recibir el apoyo del gobierno estatal y de los municipales, de acuerdo a sus respectivas competencias, en lo relativo al ejercicio y respeto a sus derechos, a través de las instituciones creadas para tal efecto; y
+
+f) Contar con asesoría jurídica gratuita y con un representante legal cuando su condición socioeconómica lo exija, poniendo especial cuidado en la protección de su integridad física y en su patrimonio personal.
 
 V. A la salud y alimentación, que comprende:
 
@@ -287,6 +297,10 @@ e) Participar en la vida educativa, cívica, cultural, deportiva y recreativa de
 
 f) Conocer sus derechos y participar en el ámbito familiar y comunitario.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+g) Recibir capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación
+
 VII. Al trabajo, que comprende:
 
 a) Beneficiarse de oportunidades reales de acceso a un empleo o de aquellas alternativas que les otorguen la obtención de un ingreso propio; recibir, de acuerdo a sus condiciones y circunstancias, la capacitación adecuada para ello; así como gozar de la protección de la legislación laboral aplicable;
@@ -313,9 +327,11 @@ FACULTADES Y OBLIGACIONES DE LAS PERSONAS Y ENTIDADES VINCULADAS CON PERSONAS AD
 
 ### CAPÍTULO I. OBLIGACIONES DE LA FAMILIA DE LAS PERSONAS ADULTAS MAYORES
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 10.
 
-Se reconoce a las familias como la institución social fundamental, en la que debe priorizarse la protección y desarrollo integral de las personas adultas mayores. Sólo por causas de fuerza mayor o decisión personal, éstas residirán en lugar distinto al domicilio de la familia, siempre que éste sea apto y digno.
+Se reconoce a las familias como la institución social fundamental, en la que debe priorizarse la protección y desarrollo integral de las personas adultas mayores; así como mantener y preservar su calidad de vida. Sólo por causas de fuerza mayor o decisión personal, éstas residirán en lugar distinto al domicilio de la familia, siempre que éste sea apto y digno.
 
 ###### Artículo 11.
 
@@ -323,9 +339,13 @@ Los miembros de la familia de las personas adultas mayores tendrán, para con el
 
 I. Proporcionar de forma permanente oportuna y adecuada asistencia, alimentación, vestido, habitación y el debido cuidado respecto de su salud física y mental, de acuerdo a sus posibilidades económicas y conforme a lo dispuesto por el Código Civil para el Estado de Oaxaca;
 
-II. Fomentar la convivencia familiar cotidiana con la persona adulta mayor y promover entre los miembros de la familia, los principios y valores tendientes a satisfacer sus necesidades afectivas, de protección y de apoyo;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-III. Fomentar su independencia, respetando sus decisiones y proporcionando la adecuada privacidad, en un marco de sano equilibrio entre su voluntad y su bienestar;
+II. Fomentar la convivencia familiar cotidiana con la persona adulta mayor, en donde ésta participe de manera activa y promover entre los miembros de la familia, los principios y valores tendientes a satisfacer sus necesidades afectivas, de protección, de cuidado y de apoyo;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+III. Fomentar su independencia, respetando sus decisiones y proporcionando la adecuada privacidad y cuidado, en un marco de sano equilibrio entre su voluntad y su bienestar;
 
 IV. Velar porque las instancias públicas o privadas reconozcan y respeten cabalmente los derechos de las personas adultas mayores;
 
@@ -337,9 +357,15 @@ VII. Procurar que cuenten con los elementos de información y orientación geron
 
 VIII. Evitar todo acto de discriminación, abuso, explotación, aislamiento, violencia, despojo así como cualquier acto o acción jurídica que pongan en riesgo su integridad, bienes o derechos;
 
-IX. Denunciar ante la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación, despojo o violencia contra personas adultas mayores; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-X. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplicables.
+IX. Denunciar ante la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación, despojo o violencia contra personas adultas mayores;
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+X. Atender las necesidades psicoemocionales de la persona adulta mayor, cuando ésta se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención, a efecto de mantener los lazos familiares; y
+
+XI. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS INSTITUCIONES SOCIALES Y PRIVADAS
 
@@ -375,7 +401,9 @@ Las políticas públicas que formulen el Estado y los ayuntamientos, dentro de s
 
 I. Garantizar a las personas adultas mayores el pleno ejercicio de sus derechos;
 
-II. Procurar las condiciones que generen mayor bienestar físico y mental de las personas adultas mayores, a fin de que puedan desarrollar plenamente sus capacidades y habilidades, tanto en el seno de la familia como en la sociedad;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+II. Procurar las condiciones para alcanzar y mantener los altos niveles de bienestar físico y mental de las personas adultas mayores, a fin de que puedan desarrollar plenamente sus capacidades y habilidades, tanto en el seno de la familia como en la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
 
 III. Impulsar una atención interinstitucional integral y coordinada con el objeto de optimizar los medios, mecanismos y recursos aplicados a la satisfacción de las necesidades de las personas adultas mayores;
 
@@ -391,7 +419,9 @@ VIII. Propiciar formas de organización y participación de las personas adultas
 
 IX. Fortalecer los lazos familiares, redes sociales e institucionales de apoyo a las personas adultas mayores;
 
-X. Garantizar la asistencia social para las personas adultas mayores cuyas circunstancias exijan la protección especial por parte de las instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+X. Garantizar la asistencia social y cobertura para las personas adultas mayores cuyas circunstancias exijan la protección especial por parte de las instituciones públicas y privadas;
 
 XI. Involucrar a las personas adultas mayores en actividades productivas de manera constante o permanente, fortaleciendo su autoestima mediante el reconocimiento de la relevancia de su aportación y su potencial; y
 
@@ -573,7 +603,9 @@ VII. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
 
 El DIF Oaxaca tendrá a su cargo:
 
-I. Proporcionar los servicios de asistencia social a las personas adultas mayores;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+I. Instrumentar políticas públicas que refuercen los lazos familiares y los vínculos entre generaciones y proporcionar servicios de asistencia social a las personas adultas mayores;
 
 II. Realizar programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
 
@@ -846,3 +878,27 @@ P.O. 13 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2138.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 20; LA FRACCIÓN VIII DEL ARTÍCULO 22 Y EL ARTÍCULO 35, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
 
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2852.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1; EL ARTÍCULO 10; LAS FRACCIONES II, III Y IX DEL ARTÍCULO 11; Y LAS FRACCIONES II Y X DEL ARTÍCULO 13; Y SE ADICIONAN LOS INCISOS A) Y B) A LA FRACCIÓN IV RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 9; Y LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 11, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2854.- MEDIANTE EL CUAL SE ADICIONA EL INCISO G), A LA FRACCIÓN VI DEL ARTÍCULO 9 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - El Instituto Estatal de Educación para Adultos (IEEA). deberá realizar las adecuaciones presupuestales necesarias de manera gradual, conforme a su capacidad y disposición financiera, para analizar, planear, diseñar e implementar las políticas públicas orientadas al uso de nuevas tecnologías para las personas adultas mayores.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2875.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 22, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
