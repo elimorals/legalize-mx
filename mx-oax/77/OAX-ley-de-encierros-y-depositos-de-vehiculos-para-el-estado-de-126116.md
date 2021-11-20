@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-encierros-y-depositos-de-vehiculos-para-el-estado-de-126
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-08"
-last_updated: "2021-06-05"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENCIERROS Y DEPÓSITO DE VEHÍCULOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial de Oaxaca, el viernes 8 de diciembre de 2017.
 
@@ -343,7 +343,9 @@ Las autoridades estatales, municipales o los concesionarios que tengan en resgua
 
 Para obtener la devolución del vehículo depositado, el interesado deberá exhibir la orden de liberación que al efecto expida la autoridad ante la cual se hubiese puesto a disposición, debiendo cubrir el monto de las tarifas autorizadas correspondientes; y comprobar que pagó los servicios de arrastre y firmar la documentación que acredite la entrega del vehículo.
 
-La liberación de vehículos ordenada por autoridad judicial o administrativa, no exenta al interesado de la obligación de pago por los servicios de arrastre y los de depósito, ni priva a la autoridad o al concesionario de su derecho a cobrarlos, aun cuando el hecho o acto generadores de la necesidad del depósito, sea revocado o declarado nulo.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Cuando se declare la nulidad o revocación por parte de la autoridad judicial o administrativa, la liberación del vehículo deberá realizarse sin costo alguno para el interesado, por lo que deberá eximirse del pago de los servicios de arrastre y depósito, los cuales correrán a cargo de la autoridad emisora del acto administrativo nulo, derivado de la actividad administrativa irregular y conforme a la Ley de Responsabilidad Patrimonial del Estado y Municipios de Oaxaca.
 
 ###### Artículo 20.
 
@@ -768,3 +770,11 @@ P.O. 5 DE JUNIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor a los 45 días hábiles siguientes, contados a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- En un plazo de 90 días naturales a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca, que permita la plena ejecución del presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2861.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 19 DE LA LEY DE ENCIERROS Y DEPÓSITOS DE VEHÍCULOS PARA EL ESTADO DE OAXACA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
