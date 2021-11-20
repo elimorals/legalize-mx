@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2021-10-16"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -313,6 +313,10 @@ XIII.- Los convenios de coordinación entre Dependencias, Entidades o Ayuntamien
 
 XIV.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+Los dictámenes de factibilidad y/o validaciones a las que se refiere la fracción primera de este artículo serán vigentes cuando menos dos años.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 21.
@@ -590,6 +594,10 @@ VIII.- Origen de los fondos para realizar los trabajos, y el importe autorizado 
 IX.- Forma y términos de pago de los trabajos objeto del contrato;
 
 X.- La indicación de si se otorgarán anticipos, en cuyo caso se señalarán las condiciones y el porcentaje respectivo, que no podrá exceder del 30% del monto total del contrato; salvo en casos excepcionales, autorizado bajo la responsabilidad de la convocante;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+X Bis.- El porcentaje mínimo de mano de obra local que los licitantes deberán incorporar en obras públicas o servicios relacionados a ejecutarse en pueblos y comunidades indígenas y afromexicanas, o zonas consideradas con cierto grado de marginación, no será menor del 50% de lo requerido.
 
 XI.- Datos sobre la forma de presentación de garantías de cumplimiento de contrato, de los anticipos y de vicios ocultos; forma y términos de la entrega de los anticipos que se concedan y el procedimiento de ajuste de costos;
 
@@ -903,6 +911,10 @@ IX.- Forma y términos de garantizar la correcta inversión de los anticipos y e
 
 X.- Fechas de iniciación y conclusión de la obra;
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+X Bis.- El porcentaje mínimo de mano de obra local que los contratantes deberán incorporar en obras públicas o servicios relacionados a ejecutarse en pueblos y comunidades indígenas y afromexicanas, o zonas consideradas con cierto grado de marginación, no será menor del 50% de lo requerido.
+
 XI.- Las causas de rescisión administrativa de los contratos, por contravención a los términos del mismo o por contravenir las disposiciones de esta Ley;
 
 XII.- La facultad que tendrá la Dependencia, Entidad o Ayuntamiento contratante, para suspender la ejecución de la obra por causa justificada y debidamente probada;
@@ -1043,6 +1055,12 @@ Para el caso de las obras que ejecute la Secretaría bajo esta modalidad, lo com
 
 Los referidos acuerdos comprenderán también la descripción pormenorizada de la obra, proyectos, planos, especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente, así como los datos relativos a la autorización del gasto de inversión y la fecha de iniciación de los trabajos.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+###### Artículo 62 Bis.
+
+En la ejecución de obra pública por administración directa en pueblos y comunidades indígenas o afromexicanas, y zonas consideradas con cierto grado de marginación, las Dependencias, Entidades o Ayuntamientos, tienen la obligación de contratar mano de obra de la localidad en condiciones justas e igualitarias.
+
 ###### Artículo 63.
 
 Para que las Dependencias, Entidades y Ayuntamientos puedan realizar obras por administración directa es necesario:
@@ -1088,6 +1106,10 @@ IV.- Mantener en condiciones de funcionamiento la obra pública;
 V.- Dar mantenimiento preventivo y correctivo convenientemente calendarizado, a las partes móviles, equipos, señalizaciones, mecanismos de seguridad, etc., que permitan operar las obras de infraestructura con total eficacia; y,
 
 VI.- Llevar la cuenta de los gastos que generen las prevenciones antes mencionadas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+VII.- El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción de carreteras, caminos, avenidas y calles, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito estatal o municipal, así como a las instrucciones que al efecto le señale la Dependencia o Municipio. Las responsabilidades y los daños y perjuicios que se ocasione a un particular por la mala construcción de obra pública que resultaren por su inobservancia serán a cargo del contratista.
 
 ###### Artículo 67.
 
@@ -1616,6 +1638,30 @@ SEGUNDO.- Los Ayuntamientos contarán con 60 días después de que entre en vigo
 P.O. 16 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2758.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 3, ARTÍCULO 14, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 29, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL ARTÍCULO 33, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 40, LA FRACCIÓN IV DEL ARTÍCULO 44, EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 59, PRIMER PÁRRAFO DEL ARTÍCULO 64, EL ARTÍCULO 69, EL PRIMER PÁRRAFO DEL ARTÍCULO 72; EL PRIMER PÁRRAFO DEL ARTÍCULO 75, EL ARTÍCULO 84, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 87 DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2858.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 66 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2859.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 20 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2860.- MEDIANTE EL CUAL ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 31, LA FRACCIÓN X BIS AL ARTÍCULO 51 Y EL ARTÍCULO 62 BIS A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
