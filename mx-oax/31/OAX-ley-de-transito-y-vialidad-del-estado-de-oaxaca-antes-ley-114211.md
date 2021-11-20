@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2021-10-09"
+last_updated: "2021-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -1151,9 +1151,9 @@ Los Policías Viales Estatales tienen la atribución de solicitar a todo conduct
 
 Para los operativos de la detección del alcohol, las autoridades competentes en materia de tránsito, se sujetarán a los protocolos emitidos por el Consejo Nacional para la Prevención de Accidentes y el Consejo Estatal para la Prevención de Accidentes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-La persona que al conducir cualquier tipo de vehículo en estado de ebriedad será sancionado con arresto de veinticuatro horas, conmutables por actividades de apoyo a la comunidad, mismas que deberá cumplir en un lapso no mayor a treinta días desde la fecha de la infracción. En caso de reincidencia, el arresto será inconmutable y se suspenderá la licencia de conducir por un periodo de ciento ochenta días; independientemente de los delitos que se configuren.
+La persona que al conducir cualquier tipo de vehículo en estado de ebriedad será sancionado con arresto de veinticuatro horas, conmutables por actividades de apoyo a la comunidad, mismas que deberá cumplir en un lapso no mayor a treinta días desde la fecha de la infracción. En caso de reincidencia, el arresto será inconmutable y se cancelará la licencia de conducir; independientemente de los delitos que se configuren.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -1626,3 +1626,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca, que permita la plena ejecución del presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2863.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 85 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
