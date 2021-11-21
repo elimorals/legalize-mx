@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2021-06-17"
+last_updated: "2021-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -35,7 +35,7 @@ Con fecha 12 de mayo del presente año, los CC. Diputados Juan Cuitláhuac Ával
 
 C O N S I D E R A N D O S
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y considerado, la Comisión que dictaminó, estimó que la iniciativa es procedente, con las adecuaciones realizadas a la misma, lo anterior, con fundamento en lo que dispone el artículo 182 último párrafo de la Ley Orgánica del Congreso del Estado de Durango, en virtud de considerar que las mismas, obedecen al mejoramiento de forma y fondo jurídicos.
 
@@ -113,7 +113,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
 
-II. Atlas Turístico: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos estatales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2021)</small>
+
+II. Atlas Turístico: El registro sistemático de carácter público de todos los bienes, recursos naturales, gastronómicos y culturales que puedan constituirse en atractivos turísticos estatales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo; III a la XXV... (sic)
 
 III. Cine: Toda producción cinematográfica en cualquiera de sus modalidades, realizadas por personas físicas o morales mexicanas, extranjeras o en coproducción dentro del marco de la Ley Federal de Cinematografía, que se realice todo o en parte en el territorio del Estado de Durango;
 
@@ -161,6 +163,8 @@ XXIV. Turismo de Cinematografía. Toda actividad relacionada al Estado de Durang
 
 Dentro de esta vertiente se impulsa la llegada de viajeros a Durango para la realización de producciones audiovisuales que incluyen spots comerciales, series, telenovelas, documentales, video clips y por supuesto, películas.
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XXVII.]</small>
+
 XXV. Turismo Sustentable: Aquel que cumple con las siguientes directrices:
 
 a) Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia;
@@ -169,9 +173,19 @@ b) Respetar la autenticidad sociocultural de las comunidades anfitrionas, conser
 
 c) Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida.
 
-XXVI. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2021)</small>
 
-XXVII. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal, claramente ubicado y delimitado geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específicas (sic) que emitirá el Ejecutivo Estatal, a solicitud de la Secretaría.
+XXVI. Turismo Gastronómico: Es la actividad turística que comprende la visita a comunidades, regiones o espacios públicos o privados del estado, con el fin de que el visitante o turista experimente los productos culinarios y alimenticios del lugar y/o realizar actividades relacionadas con este rubro.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XXV.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2021)</small>
+
+XXVII. Turismo Sustentable: Aquel que cumple con las siguientes directrices: a. Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia; b. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y c. Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida.
+
+XXVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
+
+XXIX. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal, claramente ubicado y delimitado geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específicas (sic) que emitirá el Ejecutivo Estatal, a solicitud de la Secretaría.
 
 ### CAPÍTULO II. DE LA CONCURRENCIA Y COORDINACIÓN DE AUTORIDADES EN MATERIA TURÍSTICA
 
@@ -219,7 +233,9 @@ VI. Colaborar con la Secretaría del Trabajo y Previsión Social del Gobierno de
 
 VII. Con el Instituto de Cultura del Estado de Durango:
 
-a) Promover el patrimonio histórico, artístico y cultural del Estado;
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2021)</small>
+
+a) Promover el patrimonio histórico, artístico, gastronómico y cultural del Estado;
 
 b) Promover la formación, promoción y difusión de acervos cinematográficos y de imagen que contribuyan a enriquecer la memoria gráfica y cinematográfica desarrollada en el Estado; y
 
@@ -485,11 +501,11 @@ La Secretaría, en coordinación con los municipios y las dependencias de la Adm
 
 La Secretaría en conjunto con la Secretaría de Educación Pública del Gobierno del Estado, promoverá programas que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional y extranjero.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-La Secretaría realizará y promoverá campañas oficiales de cultura turística, difundiendo el conocimiento de los recursos, atractivos y servicios turísticos con que cuenta el Estado, a través de la prensa, radio, cinematografía, televisión, internet y demás medios idóneos, con el objeto de proyectar una imagen real y positiva de la Entidad.
-
-Dichas campañas tenderán a educar y fomentar entre los duranguenses una conciencia cívica de servicio, rectitud y hospitalidad para con el turista nacional y extranjero.
+La Secretaría realizará y promoverá campañas oficiales de cultura turística, difundiendo el conocimiento de los recursos, atractivos, gastronomía y servicios turísticos con que cuenta el Estado, a través de la prensa, radio, cinematografía, televisión, internet y demás medios idóneos, con el objeto de proyectar una imagen real y positiva de la Entidad.
 
 ### CAPÍTULO XIII. DEL PROGRAMA SECTORIAL DE TURISMO
 
@@ -589,9 +605,11 @@ La Secretaría podrá respaldar técnicamente la formulación y ejecución del P
 
 ### CAPÍTULO XV. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-Con el fin de preservar y promover las diversas regiones del Estado, que por sus características naturales, histórico-monumentales, valores culturales, topografía notable o peculiar belleza, tengan un impacto directo e indirecto considerable en la actividad turística del Estado, la Secretaría podrá proponer al Ejecutivo del Estado de Durango, que las mismas sean declaradas zonas prioritarias para el desarrollo turístico.
+Con el fin de preservar y promover las diversas regiones del Estado, que por sus características naturales, histórico-monumentales, gastronomía, valores culturales, topografía notable o peculiar belleza, tengan un impacto directo e indirecto considerable en la actividad turística del Estado, la Secretaría podrá proponer al Ejecutivo del Estado de Durango, que las mismas sean declaradas zonas prioritarias para el desarrollo turístico.
 
 ### CAPÍTULO XVI. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
@@ -635,7 +653,9 @@ En la promoción y fomento del turismo, corresponde a la Secretaría proteger, m
 
 I. Promover, en coordinación con las Dependencias del ramo, el rescate y preservación de las tradiciones, costumbres e identidad duranguenses que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción;
 
-II. Impulsar la restauración del patrimonio histórico, artístico y cultural, así como la preservación y potenciación de los recursos naturales que constituyan un atractivo turístico;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2021)</small>
+
+II. Impulsar la restauración y divulgación del patrimonio histórico, gastronómico, artístico y cultural, así como la preservación y potenciación de los recursos naturales que constituyan un atractivo turístico;
 
 III. Promover la participación del Estado en los programas turísticos que conjunten a varias entidades federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, históricos y arqueológicos del Estado, a nivel nacional e internacional;
 
@@ -1080,3 +1100,11 @@ P.O. 17 DE JUNIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 006.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
