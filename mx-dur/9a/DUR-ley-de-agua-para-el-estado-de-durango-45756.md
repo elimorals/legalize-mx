@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2021-06-17"
+last_updated: "2021-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -315,9 +315,13 @@ V.- Prestar, cuando se necesite y así lo soliciten los Ayuntamientos, los servi
 
 VI.- Vigilar que la prestación y el funcionamiento de los servicios se realicen de forma eficaz y adecuadamente;
 
-VII.- El reconocimiento de los comités técnicos de aguas subterráneas, comisiones de cuenca y comités de cuenca, como órganos auxiliares de los consejos de cuenca correspondiente; y
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2021)</small>
 
-VIII.- Las demás que otras disposiciones legales le confieran.
+VII.- La celebración de convenios de colaboración con los sectores públicos y/o privados para impulsar, crear y fortalecer programas encaminados a la distribución y tratamiento del agua en las zonas serranas del estado y comunidades rurales.
+
+VIII.- El reconocimiento de los comités técnicos de aguas subterráneas, comisiones de cuenca y comités de cuenca, como órganos auxiliares de los consejos de cuenca correspondiente; y
+
+IX.- Las demás que otras disposiciones legales le confieran.
 
 ###### Artículo 8.
 
@@ -2874,3 +2878,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 007.- POR EL CUAL SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 7 DE LA LEY DEL AGUA PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial del gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
