@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "2021-07-31"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -445,6 +445,10 @@ g) Propiciar cualquier medida que permita a los trabajadores de su Dependencia, 
 h) Constitución de depósitos en favor de los trabajadores con aportaciones sobre sus suelos básicos o salarios, para integrar un fondo de la vivienda a fin de establecer sistemas de financiamiento que permitan otorgar a éstos, crédito barato y suficiente para que adquieran en propiedad o condominio, habitaciones cómodas e higiénicas; para construirlas, repararlas o mejorarlas o para el pago de pasivos adquiridos por dichos conceptos.
 
 Las aportaciones que se hagan a dicho fondo serán enteradas al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, cuya Ley regulará los procedimientos y formas conforme a los cuales se otorgarán y adjudicarán los créditos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+La omisión a esta obligación constituye una falta administrativa grave, la cual será sancionada en términos de la Ley General de Responsabilidades Administrativas.
 
 VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las prestaciones sociales a que tengan derecho de acuerdo con la ley y los reglamentos en vigor;
 
@@ -1865,3 +1869,11 @@ D.O.F. 31 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL " DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS PRIMERO, TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES; DEL CÓDIGO FISCAL DE LA FEDERACIÓN; DE LA LEY DEL IMPUESTO SOBRE LA RENTA; DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUBCONTRATACIÓN LABORAL", PUBLICADO EL 23 DE ABRIL DE 2021".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
