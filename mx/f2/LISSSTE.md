@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2021-05-20"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -347,6 +347,10 @@ El Instituto se reserva la facultad de verificar la información recibida. En ca
 Cuando las Dependencias y Entidades sujetas a los regímenes de esta Ley no enteren las Cuotas, Aportaciones y Descuentos dentro del plazo establecido, deberán cubrir a partir de la fecha en que éstas se hicieren exigibles en favor del Instituto o, tratándose del seguro de retiro, cesantía en edad avanzada y vejez, en favor del Trabajador, intereses moratorios a razón de uno punto veinticinco veces la tasa de los Certificados de la Tesorería de la Federación con vencimiento a veintiocho días. Asimismo, deberán cubrir la actualización de dichas Cuotas, Aportaciones y Descuentos, en los términos establecidos en el Código Fiscal de la Federación.
 
 Los titulares de las Dependencias y Entidades, sus oficiales mayores o equivalentes, y los servidores públicos encargados de realizar las retenciones y Descuentos serán responsables en los términos de Ley, de los actos y omisiones que resulten en perjuicio de la Dependencia o Entidad para la que laboren, del Instituto, de los Trabajadores o Pensionados, independientemente de la responsabilidad civil, penal o administrativa en que incurran.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+La omisión de enterar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado las cuotas, aportaciones, cuotas sociales o descuentos que se realicen al salario de los trabajadores constituye una falta administrativa grave, la cual será sancionada en términos de la Ley General de Responsabilidades Administrativas.
 
 Las omisiones y diferencias que resultaren con motivo de los pagos efectuados, el Instituto las notificará a las Dependencias y Entidades, debiendo éstas efectuar la aclaración o el pago, dentro de los diez días hábiles siguientes a la fecha de la notificación, en caso contrario, deberán pagar la actualización y recargos a que se refiere este artículo.
 
@@ -2590,6 +2594,8 @@ Las obligaciones que en favor del Instituto señala la presente Ley, prescribir�
 
 El derecho del Trabajador y, en su caso, de los beneficiarios, a recibir los recursos de su Cuenta Individual del seguro de retiro, cesantía en edad avanzada y vejez en los términos de la presente Ley, prescribe en favor del Instituto a los diez años de que sean exigibles.
 
+D.O.F. 20 DE MAYO DE 2021.
+
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 252.
@@ -3156,44 +3162,6 @@ Segundo. Corresponderá a las autoridades encargadas de las presentes disposicio
 
 D.O.F. 24 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 167 Y 179 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La Junta Directiva del Instituto incluirá en las reglas operativas que al efecto emita, los términos, modalidades, proporciones y condiciones bajo las cuales se otorgue el segundo crédito previsto en los artículos 167 y 179 de esta Ley, estableciendo criterios de equidad y de prelación que garanticen el ejercicio de este derecho por parte de los Trabajadores que aún no lo ejerzan. Asimismo, aprobará las modificaciones que en su caso correspondan a los programas de crédito y de financiamiento vigentes.
-
-D.O.F. 22 DE JUNIO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA”.]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
-
-TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
-
-D.O.F. 4 DE JUNIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y DE LA LEY FEDERAL DEL TRABAJO".]
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
-
-D.O.F. 16 DE DICIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
-
-Tercero. La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-
-Cuarto. Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
-
-D.O.F. 20 DE MAYO DE 2021.
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -3259,3 +3227,47 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 167 Y 179 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Junta Directiva del Instituto incluirá en las reglas operativas que al efecto emita, los términos, modalidades, proporciones y condiciones bajo las cuales se otorgue el segundo crédito previsto en los artículos 167 y 179 de esta Ley, estableciendo criterios de equidad y de prelación que garanticen el ejercicio de este derecho por parte de los Trabajadores que aún no lo ejerzan. Asimismo, aprobará las modificaciones que en su caso correspondan a los programas de crédito y de financiamiento vigentes.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y DE LA LEY FEDERAL DEL TRABAJO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
+
+D.O.F. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Tercero. La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+Cuarto. Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
